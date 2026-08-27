@@ -7,38 +7,82 @@ class QuestionGeneratorService {
   }
 
   /**
-   * Sıfır API ile çalışan Akıllı Yerel Soru Türetici (Metin Analizi & Kural Tabanlı)
-   * PDF veya video notlarındaki cümlelerden ÖSYM/EKYS formatında soru üretir.
+   * YouTube transkriptlerinden ve metinlerden zaman damgalarını (8:22, 12:45 vb.)
+   * ve ders içi dolgu/sohbet ifadelerini ("arkadaşlar", "hani", "sizce" vb.) temizler.
    */
-  generateLocalQuestionsFromText(text, topicName = 'Özel Kaynak', count = 5) {
+  cleanTranscript(rawText) {
+    if (!rawText) return '';
+
+    let text = rawText;
+
+    // 1. Zaman damgalarını kaldır (Örn: 8:22, 08:32, 1:15:30, [08:22], (08:22))
+    text = text.replace(/\[?\b\d{1,2}:\d{2}(?::\d{2})?\b\]?/g, ' ');
+
+    // 2. Video ve kanal tanıtım sözlerini temizle
+    text = text.replace(/Bu içerik,?\s*5846 sayılı.*?saklıdır\.?/gi, ' ');
+    text = text.replace(/©.*?(Tüm hakları saklıdır|All rights reserved)/gi, ' ');
+    text = text.replace(/\b(abone ol|abone olun|beğenmeyi unutmayın|kanala abone|yorum yapın|videoya beğeni|bildirimleri açın)\b/gi, ' ');
+
+    // 3. Sohbet ve konuşma dolgu sözcüklerini temizle
+    const fillerWords = [
+      /\b(değerli arkadaşlar|sevgili arkadaşlar|arkadaşlarım|arkadaşlar)\b/gi,
+      /\b(sizce arkadaşlar|sizce de|sizce|ne dersiniz)\b/gi,
+      /\b(hani nasıldır|hani böyle|hani|yani şöyle|yani falan|falan filan|falan)\b/gi,
+      /\b(şimdi bakın|şimdi dinleyin|şimdi gelelim|şimdi geçelim)\b/gi,
+      /\b(ne dedik|ne demiştik|anlatabildim mi|tamam mı|öyle değil mi)\b/gi,
+      /\b(hoş geldiniz|merhaba arkadaşlar|merhaba)\b/gi,
+      /\b(evet\s*,\s*|peki\s*,\s*|yani\s+)/gi
+    ];
+
+    fillerWords.forEach(pattern => {
+      text = text.replace(pattern, ' ');
+    });
+
+    // 4. Fazla boşlukları ve satırları temizle
+    text = text.replace(/\s+/g, ' ').trim();
+
+    return text;
+  }
+
+  /**
+   * Sıfır API ile çalışan Akıllı Yerel Soru Türetici (Metin Analizi & Kural Tabanlı)
+   * Video konuşmalarından arındırılmış saf akademik/mevzuat bilgilerinden 5 şıklı sorular üretir.
+   */
+  generateLocalQuestionsFromText(rawText, topicName = 'Özel Kaynak', count = 5) {
     const questions = [];
-    if (!text || text.trim().length < 50) {
+    const text = this.cleanTranscript(rawText);
+
+    if (!text || text.trim().length < 40) {
       return questions;
     }
 
-    // Cümlelere ayır
+    // Cümlelere ayır ve temizle
     const rawSentences = text
-      .replace(/\r?\n+/g, ' ')
       .split(/(?<=[.?!])\s+/)
       .map(s => s.trim())
-      .filter(s => s.length > 25 && s.length < 280);
+      .filter(s => {
+        // Konuşma artığı ve zaman damgası kalan cümleleri ele
+        if (s.length < 25 || s.length > 250) return false;
+        if (/\b(dakika|saniye|video|youtube|kanal|ders\s*\d+|abone)\b/i.test(s)) return false;
+        return true;
+      });
 
     const usedIndices = new Set();
 
-    // 1. Tanım ve İfade Cümleleri ("...denir", "...olarak adlandırılır", "...ifade eder", "...tanımlanır")
+    // 1. Tanım ve İfade Cümleleri ("...denir", "...olarak adlandırılır", "...kışlak denir", "...kurultaydır")
     for (let i = 0; i < rawSentences.length && questions.length < count; i++) {
       const s = rawSentences[i];
       if (usedIndices.has(i)) continue;
 
-      const defMatch = s.match(/^(.+?)\s+(?:;|:|\s-|\s–)?\s*(.+?)\s+(olarak tanımlanır|olarak adlandırılır|olarak ifade edilir|anlamına gelir|denir)\.?$/i) ||
-                       s.match(/(.+?)\s+(?:tanımı|kavramı),\s+(.+?)\s+ifade eder\.?/i);
+      const defMatch = s.match(/^(.+?)\s+(?:;|:|\s-|\s–)?\s*(.+?)\s+(olarak tanımlanır|olarak adlandırılır|olarak ifade edilir|anlamına gelir|denir|denilmiştir)\.?$/i) ||
+                       s.match(/(.+?)\s+(?:kavramı|terimi|ifadesi),\s+(.+?)\s+ifade eder\.?/i);
 
       if (defMatch) {
         usedIndices.add(i);
-        const term = defMatch[1].replace(/^(Bu|Şu|O|İlgili)\s+/i, '').trim();
+        const term = defMatch[1].replace(/^(Bu|Şu|O|İlgili|Genelde|Özellikle)\s+/i, '').trim();
         const definition = defMatch[2].trim();
 
-        if (term.length > 3 && term.length < 50 && definition.length > 15) {
+        if (term.length > 2 && term.length < 45 && definition.length > 10) {
           const fakeTerms = this.getDistractorTerms(term);
           const options = this.shuffleArray([
             { key: 'A', text: term, isCorrect: true },
@@ -48,7 +92,6 @@ class QuestionGeneratorService {
             { key: 'E', text: fakeTerms[3], isCorrect: false }
           ]);
 
-          const correctOpt = options.find(o => o.isCorrect);
           const formattedOptions = options.map((opt, idx) => ({
             key: ['A', 'B', 'C', 'D', 'E'][idx],
             text: opt.text
@@ -59,21 +102,22 @@ class QuestionGeneratorService {
             id: 'gen_' + Date.now() + '_' + questions.length,
             topicId: 'custom-src',
             topicName: topicName,
-            question: `Yukarıda veya ilgili kaynakta "${definition}" şeklinde ifade edilen kavram/kural aşağıdakilerden hangisidir?`,
+            question: `${topicName} kapsamında, "${definition}" şeklinde ifade edilen ve ders içeriğinde vurgulanan kavram aşağıdakilerden hangisidir?`,
             options: formattedOptions,
             correctAnswer: finalCorrectKey,
-            explanation: `Kaynakta yer alan ifadeye göre: "${s}"`
+            explanation: `Ders ve kaynak içeriğine göre: "${s}"`
           });
         }
       }
     }
 
-    // 2. Sayısal / Süre / Gün / Yaş İçeren Cümleler ("...yıldır", "...gündür", "...yaşındadır", "en az X en çok Y")
+    // 2. Kanun Maddesi / Mevzuat / Sayısal Hükümler (Sadece gerçek kanun sayıları ve şartları; video dakikaları hariç)
     for (let i = 0; i < rawSentences.length && questions.length < count; i++) {
       const s = rawSentences[i];
       if (usedIndices.has(i)) continue;
 
-      const numMatch = s.match(/(en az|en çok|toplam|süresi|hakkı)?\s*(\d+)\s*(gün|ay|yıl|yaş|saat|dakika|hafta)/i);
+      // Sadece gerçek mevzuat ve bilimsel rakamları eşle (saat/dakika hariç)
+      const numMatch = s.match(/(en az|en çok|toplam|derece|hizmet süresi|kademe|ceza)?\s*(\d+)\s*(yıl|ay|gün|yaş|derece|puan|oranında)/i);
       if (numMatch) {
         usedIndices.add(i);
         const numVal = parseInt(numMatch[2], 10);
@@ -100,38 +144,35 @@ class QuestionGeneratorService {
           id: 'gen_' + Date.now() + '_' + questions.length,
           topicId: 'custom-src',
           topicName: topicName,
-          question: `İlgili mevzuat/kaynak hükmüne göre boş bırakılan yere hangisi gelmelidir?\n\n"${maskedSentence}"`,
+          question: `Ders ve kaynakta belirtilen bilgiye göre boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?\n\n"${maskedSentence}"`,
           options: formattedOptions,
           correctAnswer: finalCorrectKey,
-          explanation: `Doğru hüküm: "${s}"`
+          explanation: `Doğru bilgi: "${s}"`
         });
       }
     }
 
-    // 3. Genel Cümlelerden Çıkarım Sorusu (Öncüllü veya Doğrudan Soru)
+    // 3. Bilgi & Çıkarım Soruları (ÖSYM Formatı - Hangisi Doğrudur / Yanlıştır)
     for (let i = 0; i < rawSentences.length && questions.length < count; i++) {
       const s = rawSentences[i];
       if (usedIndices.has(i)) continue;
       usedIndices.add(i);
 
-      if (s.length > 40) {
-        const words = s.split(' ');
-        const keyword = words.length > 4 ? words.slice(0, 3).join(' ') : topicName;
-
+      if (s.length > 35) {
         questions.push({
           id: 'gen_' + Date.now() + '_' + questions.length,
           topicId: 'custom-src',
           topicName: topicName,
-          question: `${topicName} ile ilgili olarak kaynakta yer alan aşağıdaki ifadelerden hangisi DOĞRUDUR?`,
+          question: `${topicName} konusuyla ilgili olarak derste aktarılan aşağıdaki bilgilerden hangisi DOĞRUDUR?`,
           options: [
             { key: 'A', text: s },
-            { key: 'B', text: `${keyword} yalnızca merkez teşkilatında uygulanır ve taşra birimlerini kapsamaz.` },
-            { key: 'C', text: `İlgili işlem için süre şartı aranmaksızın doğrudan işlem tamamlanır.` },
-            { key: 'D', text: `${keyword} konusunda nihai karar merci yalnızca il özel idaresidir.` },
-            { key: 'E', text: `Bu düzenleme yalnızca sözleşmeli personele uygulanır, kadrolu personeli kapsamaz.` }
+            { key: 'B', text: `Bu kural ve uygulama yalnızca belirli istisnai durumlarda geçerli olup genel kural niteliği taşımaz.` },
+            { key: 'C', text: `Konuyla ilgili süreçler tamamen yerel inisiyatife bırakılmış olup herhangi bir mevzuat dayanağı bulunmamaktadır.` },
+            { key: 'D', text: `Bahsi geçen durum yalnızca Cumhuriyet dönemi sonrasında ortaya çıkmış yeni bir uygulamadır.` },
+            { key: 'E', text: `İlgili hüküm yalnızca özel kuruluşları bağlar, kamu kurumlarında geçerliliği yoktur.` }
           ],
           correctAnswer: 'A',
-          explanation: `Kaynak metninde doğrudan belirtilen doğru bilgi: "${s}"`
+          explanation: `Ders anlatımında doğrudan yer alan doğru bilgi: "${s}"`
         });
       }
     }
@@ -140,51 +181,47 @@ class QuestionGeneratorService {
   }
 
   /**
-   * Gemini API ile Yapay Zekâ Destekli Soru Üretimi (Doğrudan Fetch - Sıfır Kütüphane Kurulumu)
+   * Gemini API ile Yapay Zekâ Destekli Soru Üretimi
    */
   async generateQuestionsWithGemini(apiKey, textContent, topicName = 'EKYS Konusu', count = 5) {
     if (!apiKey) {
       throw new Error('Gemini API anahtarı girilmedi. Lütfen Ayarlar panelinden anahtarınızı ekleyin.');
     }
 
-    const prompt = this.buildExamPrompt(textContent, topicName, count);
+    const cleanText = this.cleanTranscript(textContent);
+    const prompt = this.buildExamPrompt(cleanText, topicName, count);
 
-    const response = await fetch(`${this.geminiEndpoint}?key=${apiKey}`, {
+    const res = await fetch(`${this.geminiEndpoint}?key=${apiKey}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        contents: [{
-          parts: [{ text: prompt }]
-        }],
-        generationConfig: {
-          temperature: 0.2,
-          topP: 0.95,
-          maxOutputTokens: 3000
-        }
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { responseMimeType: 'application/json', temperature: 0.2 }
       })
     });
 
-    if (!response.ok) {
-      const errData = await response.json().catch(() => ({}));
-      throw new Error(`Gemini API Hatası (${response.status}): ${errData.error?.message || 'İstek başarısız oldu'}`);
+    if (!res.ok) {
+      const err = await res.json();
+      throw new Error(err.error?.message || 'Gemini API bağlantı hatası.');
     }
 
-    const data = await response.json();
-    const rawText = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-    return this.parseAIJsonResponse(rawText, topicName);
+    const data = await res.json();
+    const rawJson = data.candidates?.[0]?.content?.parts?.[0]?.text;
+    return this.parseAIResponse(rawJson, topicName);
   }
 
   /**
-   * Groq API ile Yapay Zekâ Destekli Soru Üretimi (Llama 3 70B - Ücretsiz & Hızlı)
+   * Groq API ile Soru Üretimi
    */
   async generateQuestionsWithGroq(apiKey, textContent, topicName = 'EKYS Konusu', count = 5) {
     if (!apiKey) {
-      throw new Error('Groq API anahtarı girilmedi.');
+      throw new Error('Groq API anahtarı girilmedi. Lütfen Ayarlar panelinden anahtarınızı ekleyin.');
     }
 
-    const prompt = this.buildExamPrompt(textContent, topicName, count);
+    const cleanText = this.cleanTranscript(textContent);
+    const prompt = this.buildExamPrompt(cleanText, topicName, count);
 
-    const response = await fetch(this.groqEndpoint, {
+    const res = await fetch(this.groqEndpoint, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -193,124 +230,99 @@ class QuestionGeneratorService {
       body: JSON.stringify({
         model: 'llama-3.3-70b-versatile',
         messages: [
-          { role: 'system', content: 'Sen MEB EKYS (Eğitim Kurumlarına Yönetici Seçme Sınavı) alanında uzman bir ÖSYM soru yazarısın. Sadece geçerli JSON formatında yanıt verirsin.' },
+          { role: 'system', content: 'Sen ÖSYM EKYS sınavı uzmanı bir soru yazarısın. Kesinlikle sadece JSON formatında yanıt ver.' },
           { role: 'user', content: prompt }
         ],
         temperature: 0.2
       })
     });
 
-    if (!response.ok) {
-      const errData = await response.json().catch(() => ({}));
-      throw new Error(`Groq API Hatası (${response.status}): ${errData.error?.message || 'İstek başarısız oldu'}`);
+    if (!res.ok) {
+      const err = await res.json();
+      throw new Error(err.error?.message || 'Groq API bağlantı hatası.');
     }
 
-    const data = await response.json();
-    const rawText = data.choices?.[0]?.message?.content || '';
-    return this.parseAIJsonResponse(rawText, topicName);
+    const data = await res.json();
+    const rawContent = data.choices?.[0]?.message?.content;
+    return this.parseAIResponse(rawContent, topicName);
   }
 
-  /**
-   * ÖSYM/EKYS Soru Hazırlama Prompt Şablonu
-   */
-  buildExamPrompt(textContent, topicName, count) {
-    const trimmedText = textContent.slice(0, 15000); // 15k karakter context
+  buildExamPrompt(text, topicName, count) {
     return `
-Sen ÖSYM EKYS (Millî Eğitim Bakanlığı Eğitim Kurumlarına Yönetici Seçme Sınavı) soru hazırlama komisyonu üyesisin.
-Aşağıda verilen kaynak metni incele ve bu metne dayanarak tam ${count} adet ÖSYM/EKYS formatında, 5 seçenekli (A, B, C, D, E) çoktan seçmeli soru hazırla.
+Aşağıdaki ders transkripti veya kaynak metinden MEB EKYS (Eğitim Kurumlarına Yönetici Seçme Sınavı) formatında tam ${count} adet 5 şıklı (A, B, C, D, E) çoktan seçmeli test sorusu hazırla.
 
-KAYNAK METİN / KONU:
-"""
-${trimmedText}
-"""
+ÖNEMLİ KURALLAR:
+1. Metindeki dakika/saat zaman damgalarını (örn: 8:22, 15:30 vb.) ve konuşma sohbetlerini ("arkadaşlar", "sizce", "abone olun" vb.) KESİNLİKLE dikkate alma!
+2. Sorular yalnızca metinde anlatılan bilimsel, tarihi, idari ve mevzuat BİLGİLERİNE, KAVRAMLARA ve KURALLARA dayanmalıdır.
+3. Her sorunun 5 şıkkı olmalı (A, B, C, D, E) ve tek bir doğru cevabı olmalıdır.
+4. Yanıtı SADECE ve SADECE aşağıdaki JSON formatında ver, başka hiçbir açıklama yazma:
 
-KURALLAR:
-1. Sorular zorlayıcı, çeldiricileri güçlü ve ÖSYM EKYS sınav mantığına birebir uygun olmalıdır.
-2. Madde/kanun soruları, öncüllü sorular (I, II, III gibi) veya durum soruları içerebilir.
-3. YANITINI SADECE VE SADECE AŞAĞIDAKİ JSON FORMATINDA VER. JSON DIŞINDA HİÇBİR AÇIKLAMA VEYA GİRİŞ YAZISI YAZMA.
-
-JSON ŞABLONU:
 [
   {
-    "question": "Soru metni buraya...",
+    "question": "Soru metni...",
     "options": [
-      { "key": "A", "text": "A seçeneği" },
-      { "key": "B", "text": "B seçeneği" },
-      { "key": "C", "text": "C seçeneği" },
-      { "key": "D", "text": "D seçeneği" },
-      { "key": "E", "text": "E seçeneği" }
+      { "key": "A", "text": "Şık A metni" },
+      { "key": "B", "text": "Şık B metni" },
+      { "key": "C", "text": "Şık C metni" },
+      { "key": "D", "text": "Şık D metni" },
+      { "key": "E", "text": "Şık E metni" }
     ],
     "correctAnswer": "A",
-    "explanation": "Detaylı doğru ve çeldirici gerekçesi açıklaması..."
+    "explanation": "Detaylı çözüm ve bilgi açıklaması..."
   }
 ]
+
+Ders Konusu: ${topicName}
+Kaynak Metin:
+${text.substring(0, 10000)}
 `;
   }
 
-  /**
-   * AI'dan dönen metni JSON array'e dönüştürür
-   */
-  parseAIJsonResponse(rawText, topicName) {
+  parseAIResponse(rawJson, topicName) {
     try {
-      // Markdown kod bloklarını temizle (```json ... ```)
-      let cleaned = rawText.replace(/```json/gi, '').replace(/```/g, '').trim();
-      const firstBracket = cleaned.indexOf('[');
-      const lastBracket = cleaned.lastIndexOf(']');
-      
-      if (firstBracket !== -1 && lastBracket !== -1) {
-        cleaned = cleaned.substring(firstBracket, lastBracket + 1);
-      }
-
+      const cleaned = rawJson.replace(/```json/g, '').replace(/```/g, '').trim();
       const parsed = JSON.parse(cleaned);
+
       if (Array.isArray(parsed)) {
-        return parsed.map((item, idx) => ({
+        return parsed.map((q, idx) => ({
           id: 'ai_' + Date.now() + '_' + idx,
-          topicId: 'custom-ai',
-          topicName: topicName || 'AI Üretilen Soru',
-          question: item.question,
-          options: item.options,
-          correctAnswer: item.correctAnswer,
-          explanation: item.explanation || 'Açıklama mevcut değil.'
+          topicId: 'custom-src',
+          topicName: topicName,
+          question: q.question,
+          options: q.options,
+          correctAnswer: q.correctAnswer || 'A',
+          explanation: q.explanation || 'Çözüm bilgisi mevcut.'
         }));
       }
-      throw new Error('Geçersiz JSON formatı.');
     } catch (err) {
-      console.error('JSON ayrıştırma hatası:', err, rawText);
-      throw new Error('Yapay zekâ yanıtı geçerli bir soru formatına dönüştürülemedi. Lütfen tekrar deneyin.');
+      console.error('JSON çözümleme hatası:', err);
     }
+    return [];
   }
 
-  // --- YARDIMCI ÇELDİRİCİ MOTORU ---
   getDistractorTerms(term) {
-    const generalTerms = [
-      'Stratejik Planlama', 'Dönüştürücü Liderlik', 'Öğretimsel Liderlik',
-      'Hizmet İçi Eğitim', 'Örgütsel İklim', 'Liyakat İlkesi',
-      'Kariyer Basamakları', 'Süreklilik İlkesi', 'Planlılık',
-      'Demokrasi Eğitimi', 'Toplam Kalite Yönetimi', 'Denetim Odaklılık'
+    const bank = [
+      'Yaylak', 'Kışlak', 'Kurultay', 'Toy', 'Töre', 'Kut Anlayışı', 'İkili Teşkilat',
+      'Yargı', 'Şad', 'Tigin', 'Atabey', 'Oguş', 'Uruk', 'Boy', 'Budun', 'İl (Devlet)',
+      'Hiyerarşik Denetim', 'Yetki Devri', 'Liyakat İlkesi', 'Kariyer İlkesi', 'Hizmet İçi Eğitim'
     ];
-    return this.shuffleArray(generalTerms.filter(t => t.toLowerCase() !== term.toLowerCase())).slice(0, 4);
+    return this.shuffleArray(bank.filter(t => t.toLowerCase() !== term.toLowerCase())).slice(0, 4);
   }
 
-  getDistractorNumbers(num, unit) {
-    const distractors = new Set();
-    const offsets = [1, -1, 2, 5, 10, Math.round(num * 1.5), Math.max(1, Math.round(num / 2))];
-    
+  getDistractorNumbers(val, unit) {
+    const offsets = [-2, 1, 3, 5, -1, 2];
+    const res = [];
     for (const off of offsets) {
-      const val = num + off;
-      if (val > 0 && val !== num) {
-        distractors.add(val);
+      const candidate = val + off;
+      if (candidate > 0 && candidate !== val && !res.includes(candidate)) {
+        res.push(candidate);
       }
-      if (distractors.size >= 4) break;
+      if (res.length === 4) break;
     }
-    
-    // Yetersiz kalırsa rastgele ekle
-    let fallback = 1;
-    while (distractors.size < 4) {
-      if (fallback !== num) distractors.add(fallback);
-      fallback++;
+    while (res.length < 4) {
+      res.push(val + res.length + 1);
     }
-
-    return Array.from(distractors);
+    return res;
   }
 
   shuffleArray(arr) {
