@@ -942,6 +942,7 @@ class EKYSApp {
     const previewThumb = document.getElementById('video-preview-thumb');
     const previewTitle = document.getElementById('video-preview-title');
     const previewChannel = document.getElementById('video-preview-channel');
+    const ytLinkBtn = document.getElementById('video-yt-link-btn');
 
     const url = urlInput ? urlInput.value.trim() : '';
     if (!url) return;
@@ -963,18 +964,38 @@ class EKYSApp {
         previewCard.style.display = 'block';
       }
 
+      if (ytLinkBtn) {
+        ytLinkBtn.href = url;
+        ytLinkBtn.style.display = 'inline-flex';
+      }
+
       // 2. Transkripti çekmeyi dene
       const transcript = await window.youtubeService.fetchTranscript(details.videoId);
       if (transcript && notesInput) {
         notesInput.value = transcript;
         this.showToast('✅ Video dökümü ve başlığı otomatik çekildi!', 'success');
       } else {
-        this.showToast('Video başlığı ve önizlemesi çekildi. İsterseniz videonun dökümünü veya özet notlarınızı ekleyebilirsiniz.', 'success');
+        this.showToast('Video bilgileri alındı. YouTube dökümünü sağ üstteki butonla yapıştırabilirsiniz.', 'info');
       }
 
     } catch (err) {
       console.warn('YouTube analiz uyarısı:', err);
       this.showToast('Video linki işlendi.', 'info');
+    }
+  }
+
+  async pasteClipboardToNotes(textareaId) {
+    try {
+      const text = await navigator.clipboard.readText();
+      const el = document.getElementById(textareaId);
+      if (el && text) {
+        el.value = text;
+        this.showToast('📋 Panodaki metin başarıyla yapıştırıldı!', 'success');
+      } else {
+        this.showToast('Panoda kopyalanmış bir metin bulunamadı.', 'info');
+      }
+    } catch (err) {
+      this.showToast('Tarayıcınız panoya erişim izni istediğinde izin verin.', 'info');
     }
   }
 

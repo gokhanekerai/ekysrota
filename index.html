@@ -393,8 +393,18 @@
             </div>
 
             <div class="form-group">
-              <label class="form-label">Video Transkripti veya Ders Notları</label>
-              <textarea id="video-notes-input" class="form-control" placeholder="Videonun konuşma dökümü otomatik çekilecek veya buraya notlarınızı yapıştırabilirsiniz..."></textarea>
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+                <label class="form-label" style="margin-bottom: 0;">Video Transkripti veya Ders Notları</label>
+                <div style="display: flex; gap: 6px;">
+                  <button type="button" class="btn btn-secondary btn-sm" style="padding: 2px 8px; font-size: 0.75rem;" onclick="app.pasteClipboardToNotes('video-notes-input')">
+                    📋 Panodan Yapıştır
+                  </button>
+                  <a id="video-yt-link-btn" href="#" target="_blank" class="btn btn-secondary btn-sm" style="padding: 2px 8px; font-size: 0.75rem; display: none;">
+                    ▶️ YouTube'da Dökümü Aç
+                  </a>
+                </div>
+              </div>
+              <textarea id="video-notes-input" class="form-control" placeholder="Videonun konuşma dökümü otomatik çekilecek veya YouTube'da 'Dökümü Göster' deyip buraya yapıştırabilirsiniz..."></textarea>
             </div>
 
             <button class="btn btn-primary" onclick="app.addVideoSource()">

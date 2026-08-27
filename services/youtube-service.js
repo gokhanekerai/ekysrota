@@ -7,8 +7,6 @@ class YouTubeService {
 
   /**
    * Her türlü YouTube linkinden Video ID'sini ayıklar
-   * Örn: https://www.youtube.com/watch?v=dQw4w9WgXcQ -> dQw4w9WgXcQ
-   * Örn: https://youtu.be/dQw4w9WgXcQ -> dQw4w9WgXcQ
    */
   extractVideoId(url) {
     if (!url) return null;
@@ -18,7 +16,7 @@ class YouTubeService {
   }
 
   /**
-   * Video başlığı, kanal adı ve kapak görselini YouTube API key olmadan çeker
+   * Video başlığı, kanal adı ve kapak görselini çeker
    */
   async fetchVideoDetails(url) {
     const videoId = this.extractVideoId(url);
@@ -49,23 +47,50 @@ class YouTubeService {
   }
 
   /**
-   * YouTube Altyazı / Transkript Metnini Çeker
-   * Çoklu proxy ve Invidious/Piped açık uçları üzerinden denenir
+   * YouTube Altyazı / Transkript Metnini Çoklu Proxy ve API'lar ile Çeker
    */
   async fetchTranscript(videoId) {
-    // 1. Alternatif: Açık altyazı API servisleri
+    // Farklı CORS-dostu transkript servisleri
     const endpoints = [
-      `https://subtitles-proxy.vercel.app/api?id=${videoId}&lang=tr`,
-      `https://yt-subtitles.deno.dev/${videoId}?lang=tr`
+      `https://yt.lemnoslife.com/videos?part=transcript&id=${videoId}`,
+      `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://www.youtube.com/api/timedtext?v=${videoId}&lang=tr`)}`,
+      `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://www.youtube.com/api/timedtext?v=${videoId}&lang=tr&kind=asr`)}`,
+      `https://subtitles-proxy.vercel.app/api?id=${videoId}&lang=tr`
     ];
 
     for (const ep of endpoints) {
       try {
-        const res = await fetch(ep, { signal: AbortSignal.timeout(4000) });
+        const res = await fetch(ep, { signal: AbortSignal.timeout(4500) });
         if (res.ok) {
-          const data = await res.json();
-          if (data && data.transcript) {
-            return data.transcript;
+          const contentType = res.headers.get('content-type') || '';
+          
+          if (contentType.includes('json') || ep.includes('lemnoslife')) {
+            const data = await res.json().catch(() => null);
+            if (data && data.item && data.item.transcript) {
+              const segments = data.item.transcript.transcriptRenderer?.body?.transcriptBodyRenderer?.cueGroups;
+              if (segments && Array.isArray(segments)) {
+                const text = segments.map(g => {
+                  const cues = g.transcriptCueGroupRenderer?.cues;
+                  return cues ? cues.map(c => c.transcriptCueRenderer?.cue?.simpleText || '').join(' ') : '';
+                }).filter(Boolean).join(' ');
+                if (text.length > 50) return text;
+              }
+            }
+          } else {
+            // XML Formatında gelen altyazıyı çözümle
+            const xmlText = await res.text();
+            if (xmlText.includes('<text')) {
+              const parser = new DOMParser();
+              const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+              const textNodes = xmlDoc.getElementsByTagName("text");
+              let combinedText = '';
+              for (let i = 0; i < textNodes.length; i++) {
+                combinedText += textNodes[i].textContent + ' ';
+              }
+              if (combinedText.trim().length > 50) {
+                return combinedText.trim();
+              }
+            }
           }
         }
       } catch (e) {
