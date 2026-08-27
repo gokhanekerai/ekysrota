@@ -933,6 +933,73 @@ class EKYSApp {
     }
   }
 
+  // --- AKILLI KONU TESPİT MOTORU (DERS BAŞLIĞINDAN KONU EŞLEME) ---
+  detectMatchingTopicId(titleOrText) {
+    if (!titleOrText) return null;
+    const clean = titleOrText.toLocaleLowerCase('tr-TR');
+
+    // 1. Kural Bazlı Doğrudan Anahtar Kelimeler
+    if (clean.includes('kültür') || clean.includes('uygarlık') || clean.includes('tarih') || clean.includes('coğrafya') || clean.includes('inkılap') || clean.includes('genel kültür')) {
+      return 'genel-kultur';
+    }
+    if (clean.includes('657') || clean.includes('devlet memur') || clean.includes('dmk') || clean.includes('disiplin') || clean.includes('kademe ilerleme')) {
+      return 'mevzuat-657';
+    }
+    if (clean.includes('1739') || clean.includes('milli eğitim temel') || clean.includes('millî eğitim temel') || clean.includes('temel ilkeler')) {
+      return 'mevzuat-1739';
+    }
+    if (clean.includes('222') || clean.includes('ilköğretim ve eğitim') || clean.includes('mecburi ilköğretim')) {
+      return 'mevzuat-222';
+    }
+    if (clean.includes('cbk') || clean.includes('cumhurbaşkanlığı kararnam') || clean.includes('1 nolu') || clean.includes('1 sayılı cbk') || clean.includes('meb teşkilat')) {
+      return 'mevzuat-cbk1';
+    }
+    if (clean.includes('4483') || clean.includes('memurların yargılanma') || clean.includes('soruşturma izni') || clean.includes('ön inceleme')) {
+      return 'mevzuat-4483';
+    }
+    if (clean.includes('3071') || clean.includes('4982') || clean.includes('dilekçe') || clean.includes('bilgi edinme')) {
+      return 'mevzuat-3071';
+    }
+    if (clean.includes('5018') || clean.includes('kamu malî') || clean.includes('kamu mali') || clean.includes('bütçe')) {
+      return 'mevzuat-5018';
+    }
+    if (clean.includes('4688') || clean.includes('sendika') || clean.includes('toplu sözleşme') || clean.includes('grev')) {
+      return 'mevzuat-4688';
+    }
+    if (clean.includes('anayasa') || clean.includes('idare hukuk') || clean.includes('temel hak') || clean.includes('yasama') || clean.includes('yürütme') || clean.includes('yargı')) {
+      return 'anayasa';
+    }
+    if (clean.includes('eğitim yönetimi') || clean.includes('okul yönetimi') || clean.includes('denetim') || clean.includes('örgüt')) {
+      return 'egitim-yonetimi';
+    }
+    if (clean.includes('liderlik') || clean.includes('okul kültürü') || clean.includes('iletişim') || clean.includes('motivasyon') || clean.includes('vizyon')) {
+      return 'liderlik';
+    }
+    if (clean.includes('değer') || clean.includes('etik') || clean.includes('mesleki etik') || clean.includes('ahlak')) {
+      return 'degerler-egitimi';
+    }
+
+    // 2. Dinamik Konular İçinde Arama
+    const topics = window.storageService.getTopics();
+    for (const t of topics) {
+      const topicNameClean = t.name.toLocaleLowerCase('tr-TR');
+      if (clean.includes(topicNameClean) || topicNameClean.split(' ').some(w => w.length > 4 && clean.includes(w))) {
+        return t.id;
+      }
+    }
+
+    return null;
+  }
+
+  handleTitleInputMatch(titleText, selectId) {
+    if (!titleText || titleText.trim().length < 3) return;
+    const detectedTopicId = this.detectMatchingTopicId(titleText);
+    const selectEl = document.getElementById(selectId);
+    if (detectedTopicId && selectEl && selectEl.value !== detectedTopicId) {
+      selectEl.value = detectedTopicId;
+    }
+  }
+
   // --- YOUTUBE OTOMATİK LİNK ANALİZİ VE TRANSKRİPT ÇEKME ---
   async handleYouTubeUrlAnalyze() {
     const urlInput = document.getElementById('video-url-input');
@@ -942,30 +1009,44 @@ class EKYSApp {
     const previewThumb = document.getElementById('video-preview-thumb');
     const previewTitle = document.getElementById('video-preview-title');
     const previewChannel = document.getElementById('video-preview-channel');
+    const topicSelect = document.getElementById('video-topic-select');
     const ytLinkBtn = document.getElementById('video-yt-link-btn');
 
     const url = urlInput ? urlInput.value.trim() : '';
-    if (!url) return;
+    if (!url) {
+      this.showToast('Lütfen geçerli bir YouTube video linki girin.', 'error');
+      return;
+    }
 
-    this.showToast('YouTube videosu analiz ediliyor...', 'info');
+    this.showToast('YouTube videosu çözümleniyor...', 'info');
 
     try {
-      // 1. Video başlığı ve önizlemesini çek
+      // 1. Resmî YouTube API'si ile video başlığını ve kanalını çek
       const details = await window.youtubeService.fetchVideoDetails(url);
       
-      if (titleInput && (!titleInput.value || titleInput.value.trim() === '')) {
+      if (titleInput && details.title) {
         titleInput.value = details.title;
+      }
+
+      // 🎯 DERS BAŞLIĞINA GÖRE KONU BAŞLIĞINI OTOMATİK EŞLE VE SEÇ
+      if (details.title && topicSelect) {
+        const detectedTopicId = this.detectMatchingTopicId(details.title);
+        if (detectedTopicId) {
+          topicSelect.value = detectedTopicId;
+          const matchedOpt = topicSelect.options[topicSelect.selectedIndex];
+          this.showToast(`🎯 Konu otomatik belirlendi: ${matchedOpt ? matchedOpt.text : ''}`, 'success');
+        }
       }
 
       if (previewCard && previewThumb && previewTitle && previewChannel) {
         previewThumb.src = details.thumbnailUrl;
         previewTitle.textContent = details.title;
-        previewChannel.textContent = details.author;
+        previewChannel.textContent = `📺 Kanal: ${details.author}`;
         previewCard.style.display = 'block';
       }
 
       if (ytLinkBtn) {
-        ytLinkBtn.href = url;
+        ytLinkBtn.href = details.url;
         ytLinkBtn.style.display = 'inline-flex';
       }
 
@@ -973,14 +1054,14 @@ class EKYSApp {
       const transcript = await window.youtubeService.fetchTranscript(details.videoId);
       if (transcript && notesInput) {
         notesInput.value = transcript;
-        this.showToast('✅ Video dökümü ve başlığı otomatik çekildi!', 'success');
+        this.showToast('✅ Video başlığı ve transkripti başarıyla yüklendi!', 'success');
       } else {
-        this.showToast('Video bilgileri alındı. YouTube dökümünü sağ üstteki butonla yapıştırabilirsiniz.', 'info');
+        this.showToast(`✅ "${details.title}" videosu bağlandı!`, 'success');
       }
 
     } catch (err) {
-      console.warn('YouTube analiz uyarısı:', err);
-      this.showToast('Video linki işlendi.', 'info');
+      console.warn('YouTube analiz hatası:', err);
+      this.showToast('Video linki işlenirken bir hata oluştu.', 'error');
     }
   }
 

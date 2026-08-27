@@ -389,7 +389,7 @@
 
             <div class="form-group">
               <label class="form-label">Ders / Video Başlığı</label>
-              <input type="text" id="video-title-input" class="form-control" placeholder="Örn: 657 DMK Memur Hakları - Ders 1">
+              <input type="text" id="video-title-input" class="form-control" placeholder="Örn: 657 DMK Memur Hakları - Ders 1" oninput="app.handleTitleInputMatch(this.value, 'video-topic-select')">
             </div>
 
             <div class="form-group">

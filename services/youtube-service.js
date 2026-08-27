@@ -2,21 +2,34 @@
 
 class YouTubeService {
   constructor() {
-    this.oembedEndpoint = 'https://noembed.com/embed?url=';
+    this.oembedEndpoint = 'https://www.youtube.com/oembed?format=json&url=';
   }
 
   /**
    * Her türlü YouTube linkinden Video ID'sini ayıklar
+   * Desteklenen formatlar: youtu.be/..., youtube.com/watch?v=..., shorts/..., embed/...
    */
   extractVideoId(url) {
     if (!url) return null;
-    const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
-    const match = url.match(regExp);
-    return (match && match[2].length === 11) ? match[2] : null;
+    const cleanUrl = url.trim();
+
+    // youtu.be/ID
+    const shortMatch = cleanUrl.match(/youtu\.be\/([a-zA-Z0-9_-]{11})/);
+    if (shortMatch) return shortMatch[1];
+
+    // watch?v=ID
+    const watchMatch = cleanUrl.match(/[?&]v=([a-zA-Z0-9_-]{11})/);
+    if (watchMatch) return watchMatch[1];
+
+    // embed/ID veya shorts/ID
+    const embedMatch = cleanUrl.match(/(?:embed|shorts)\/([a-zA-Z0-9_-]{11})/);
+    if (embedMatch) return embedMatch[1];
+
+    return null;
   }
 
   /**
-   * Video başlığı, kanal adı ve kapak görselini çeker
+   * Resmî YouTube oEmbed API'si ile video başlığını, kanal adını ve kapağını anında çeker
    */
   async fetchVideoDetails(url) {
     const videoId = this.extractVideoId(url);
@@ -24,24 +37,42 @@ class YouTubeService {
       throw new Error('Geçersiz YouTube linki. Lütfen geçerli bir video linki girin.');
     }
 
-    try {
-      const response = await fetch(`${this.oembedEndpoint}${encodeURIComponent(url)}`);
-      const data = await response.json();
+    const canonicalUrl = `https://www.youtube.com/watch?v=${videoId}`;
 
+    try {
+      const response = await fetch(`${this.oembedEndpoint}${encodeURIComponent(canonicalUrl)}`);
+      if (response.ok) {
+        const data = await response.json();
+        return {
+          videoId: videoId,
+          title: data.title || 'YouTube Ders Videosu',
+          author: data.author_name || 'Eğitim Kanalı',
+          thumbnailUrl: data.thumbnail_url || `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
+          url: canonicalUrl
+        };
+      }
+    } catch (err) {
+      console.warn('oEmbed birincil istek uyarısı:', err);
+    }
+
+    // Yedek: noembed fallback
+    try {
+      const fbRes = await fetch(`https://noembed.com/embed?url=${encodeURIComponent(canonicalUrl)}`);
+      const fbData = await fbRes.json();
       return {
         videoId: videoId,
-        title: data.title || 'YouTube Ders Videosu',
-        author: data.author_name || 'Eğitim Kanalı',
+        title: fbData.title || 'YouTube Ders Videosu',
+        author: fbData.author_name || 'Eğitim Kanalı',
         thumbnailUrl: `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
-        url: url
+        url: canonicalUrl
       };
-    } catch (err) {
+    } catch (e) {
       return {
         videoId: videoId,
         title: 'YouTube Ders Videosu',
         author: 'Eğitim Kanalı',
         thumbnailUrl: `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
-        url: url
+        url: canonicalUrl
       };
     }
   }
@@ -50,7 +81,6 @@ class YouTubeService {
    * YouTube Altyazı / Transkript Metnini Çoklu Proxy ve API'lar ile Çeker
    */
   async fetchTranscript(videoId) {
-    // Farklı CORS-dostu transkript servisleri
     const endpoints = [
       `https://yt.lemnoslife.com/videos?part=transcript&id=${videoId}`,
       `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://www.youtube.com/api/timedtext?v=${videoId}&lang=tr`)}`,
@@ -60,7 +90,7 @@ class YouTubeService {
 
     for (const ep of endpoints) {
       try {
-        const res = await fetch(ep, { signal: AbortSignal.timeout(4500) });
+        const res = await fetch(ep, { signal: AbortSignal.timeout(4000) });
         if (res.ok) {
           const contentType = res.headers.get('content-type') || '';
           
@@ -77,7 +107,6 @@ class YouTubeService {
               }
             }
           } else {
-            // XML Formatında gelen altyazıyı çözümle
             const xmlText = await res.text();
             if (xmlText.includes('<text')) {
               const parser = new DOMParser();
