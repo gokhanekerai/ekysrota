@@ -21,6 +21,7 @@ class EKYSApp {
     this.loadSettingsForm();
     this.applySavedTheme();
     this.registerDropzones();
+    this.checkForIncomingTranscript();
 
     // Sayfa kapatılırken veya yenilenirken onay (eğer aktif sınavdaysa)
     window.addEventListener('beforeunload', (e) => {
@@ -29,6 +30,52 @@ class EKYSApp {
         e.returnValue = '';
       }
     });
+
+    // Oturumlar arası tek tıkla aktarım dinleyicisi
+    window.addEventListener('storage', (e) => {
+      if (e.key === 'ekys_auto_incoming') {
+        this.checkForIncomingTranscript();
+      }
+    });
+  }
+
+  checkForIncomingTranscript() {
+    try {
+      const incomingRaw = localStorage.getItem('ekys_auto_incoming');
+      if (!incomingRaw) return;
+
+      const data = JSON.parse(incomingRaw);
+      localStorage.removeItem('ekys_auto_incoming'); // Tek kullanımlık
+
+      if (data && data.text && data.text.length > 30) {
+        const topicId = this.detectMatchingTopicId(data.title) || 'genel-kultur';
+        const topics = window.storageService.getTopics();
+        const matchedTopic = topics.find(t => t.id === topicId);
+        const topicName = matchedTopic ? matchedTopic.name : 'Genel Kaynak';
+
+        // Kaynaklara kaydet
+        const saved = window.storageService.addSource({
+          type: 'video',
+          title: data.title || 'YouTube Dersi',
+          url: data.url || '',
+          text: `${data.title}\n\nKonuşma Dökümü:\n${data.text}`,
+          size: 'YouTube Transkripti',
+          topicId: topicId,
+          topicName: topicName
+        });
+
+        this.renderSourcesList();
+        this.renderTopicsList();
+        this.showToast(`🎯 YouTube'dan 1 tıkla aktarıldı: "${data.title}"`, 'success');
+
+        // Otomatik soru üretim ekranına aktar
+        setTimeout(() => {
+          this.openGenerateWithText(saved.text, saved.title, topicId);
+        }, 500);
+      }
+    } catch (err) {
+      console.warn('Otomatik aktarım okunamadı:', err);
+    }
   }
 
   // --- NAVİGASYON VE GÖRÜNÜM YÖNETİMİ ---
