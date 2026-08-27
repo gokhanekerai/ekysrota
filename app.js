@@ -175,7 +175,7 @@ class EKYSApp {
     if (!container) return;
 
     const questions = window.storageService.getQuestions();
-    const topics = window.EKYS_TOPICS || [];
+    const topics = window.storageService.getTopics();
 
     container.innerHTML = topics.map(topic => {
       const topicQuestions = questions.filter(q => q.topicId === topic.id);
@@ -185,7 +185,7 @@ class EKYSApp {
             <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
               <span style="font-size: 26px;">${topic.icon || '📚'}</span>
               <span class="badge" style="background: rgba(99, 102, 241, 0.15); color: #818cf8; padding: 3px 10px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
-                ${topic.category}
+                ${topic.category || 'Mevzuat'}
               </span>
             </div>
             <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px;">${topic.name}</h3>
@@ -199,6 +199,84 @@ class EKYSApp {
         </div>
       `;
     }).join('');
+  }
+
+  // --- KONU & MÜFREDAT YÖNETİMİ MODALI ---
+  openTopicManagerModal() {
+    const modal = document.getElementById('topic-manager-modal');
+    if (modal) {
+      modal.classList.add('active');
+      this.renderModalTopicsList();
+    }
+  }
+
+  closeTopicManagerModal() {
+    const modal = document.getElementById('topic-manager-modal');
+    if (modal) modal.classList.remove('active');
+    this.renderTopicsList();
+  }
+
+  renderModalTopicsList() {
+    const container = document.getElementById('modal-topics-list');
+    if (!container) return;
+
+    const topics = window.storageService.getTopics();
+    const questions = window.storageService.getQuestions();
+
+    if (topics.length === 0) {
+      container.innerHTML = `<div style="text-align: center; color: var(--text-muted); padding: 14px;">Kayıtlı konu bulunmuyor.</div>`;
+      return;
+    }
+
+    container.innerHTML = topics.map(t => {
+      const qCount = questions.filter(q => q.topicId === t.id).length;
+      return `
+        <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-md);">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 20px;">${t.icon || '📚'}</span>
+            <div>
+              <div style="font-weight: 700; font-size: 0.95rem;">${t.name}</div>
+              <div style="font-size: 0.75rem; color: var(--text-muted);">${t.category} • ${qCount} Soru</div>
+            </div>
+          </div>
+          <button class="btn btn-secondary btn-sm" style="color: var(--accent-danger); padding: 4px 8px;" onclick="app.handleDeleteTopic('${t.id}')">
+            🗑️ Sil
+          </button>
+        </div>
+      `;
+    }).join('');
+  }
+
+  handleAddNewTopic() {
+    const name = document.getElementById('new-topic-name').value.trim();
+    const category = document.getElementById('new-topic-category').value;
+    const icon = document.getElementById('new-topic-icon').value.trim() || '📚';
+
+    if (!name) {
+      this.showToast('Lütfen konu adını girin.', 'error');
+      return;
+    }
+
+    window.storageService.addTopic({ name, category, icon });
+    document.getElementById('new-topic-name').value = '';
+    this.showToast(`"${name}" konusu başarıyla eklendi!`, 'success');
+    this.renderModalTopicsList();
+  }
+
+  handleDeleteTopic(topicId) {
+    if (confirm('Bu konuyu silmek istediğinize emin misiniz?')) {
+      window.storageService.deleteTopic(topicId);
+      this.showToast('Konu silindi.', 'info');
+      this.renderModalTopicsList();
+    }
+  }
+
+  handleResetTopics() {
+    if (confirm('Tüm konuları ÖSYM resmî varsayılan listesine sıfırlamak istediğinize emin misiniz?')) {
+      window.storageService.resetTopicsToDefault();
+      this.showToast('Konular varsayılan listeye sıfırlandı.', 'success');
+      this.renderModalTopicsList();
+    }
   }
 
   // --- SINAV BAŞLATMA METODLARI ---

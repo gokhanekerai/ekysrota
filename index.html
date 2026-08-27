@@ -268,8 +268,11 @@
                 <h2 style="font-size: 1.25rem; font-weight: 800; display: flex; align-items: center; gap: 8px;">
                   📚 Konu Bazlı Özel Pekiştirme Testleri
                 </h2>
-                <p style="font-size: 0.85rem; color: var(--text-secondary);">Eksik hissettiğiniz konuyu seçin, anında açıklamalı çözümlerle pekiştirin.</p>
+                <p style="font-size: 0.85rem; color: var(--text-secondary);">Eksik hissettiğiniz konuyu seçin veya kendi özel çalışma konularınızı ekleyin.</p>
               </div>
+              <button class="btn btn-secondary btn-sm" onclick="app.openTopicManagerModal()">
+                ⚙️ Konuları Yönet / Yeni Konu Ekle
+              </button>
             </div>
 
             <div class="grid-cards" id="topics-grid"></div>
@@ -588,6 +591,56 @@
       <div style="display: flex; justify-content: flex-end; gap: 12px;">
         <button class="btn btn-secondary" onclick="app.closeImportJsonModal()">İptal</button>
         <button class="btn btn-primary" onclick="app.importJsonQuestions()">Teste Dönüştür & Kaydet</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: KONU & MÜFREDAT YÖNETİMİ -->
+  <div id="topic-manager-modal" class="modal-overlay">
+    <div class="modal-card" style="max-width: 750px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+        <h3 style="font-size: 1.3rem; font-weight: 800;">⚙️ Konu & Müfredat Yönetimi</h3>
+        <button class="btn btn-secondary btn-sm" onclick="app.closeTopicManagerModal()">✖</button>
+      </div>
+
+      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 20px;">
+        Sınav müfredatındaki konuları düzenleyebilir, gereksizleri silebilir veya kendi özel ders/mevzuat başlıklarınızı ekleyebilirsiniz.
+      </p>
+
+      <!-- Yeni Konu Ekle Formu -->
+      <div class="card" style="background: rgba(15, 23, 42, 0.6); margin-bottom: 24px; padding: 18px;">
+        <h4 style="font-size: 1rem; font-weight: 700; margin-bottom: 12px; color: var(--accent-primary);">➕ Yeni Konu / Ders Ekle</h4>
+        
+        <div style="display: grid; grid-template-columns: 2fr 1fr 60px; gap: 10px; margin-bottom: 12px;">
+          <input type="text" id="new-topic-name" class="form-control" placeholder="Konu Adı (Örn: 5018 Sayılı Kanun)">
+          <select id="new-topic-category" class="form-control">
+            <option value="Mevzuat">Mevzuat</option>
+            <option value="Eğitim Yönetimi">Eğitim Yönetimi</option>
+            <option value="Genel Kültür & Hukuk">Genel Kültür & Hukuk</option>
+            <option value="Değerler Eğitimi">Değerler Eğitimi</option>
+            <option value="Özel Alan">Özel Alan</option>
+          </select>
+          <input type="text" id="new-topic-icon" class="form-control" style="text-align: center;" value="📚" title="İkon / Emoji">
+        </div>
+
+        <div style="display: flex; justify-content: flex-end;">
+          <button class="btn btn-primary btn-sm" onclick="app.handleAddNewTopic()">
+            ➕ Konuyu Havuza Ekle
+          </button>
+        </div>
+      </div>
+
+      <!-- Mevcut Konular Listesi -->
+      <h4 style="font-size: 1rem; font-weight: 700; margin-bottom: 12px;">📋 Kayıtlı Konular & Soru Sayıları</h4>
+      <div id="modal-topics-list" style="max-height: 300px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px;"></div>
+
+      <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--border-color); padding-top: 16px;">
+        <button class="btn btn-secondary btn-sm" style="color: var(--text-muted);" onclick="app.handleResetTopics()">
+          🔄 ÖSYM Varsayılan Konularına Sıfırla
+        </button>
+        <button class="btn btn-primary btn-sm" onclick="app.closeTopicManagerModal()">
+          Tamamla & Kapat
+        </button>
       </div>
     </div>
   </div>

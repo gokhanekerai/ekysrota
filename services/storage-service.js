@@ -3,6 +3,7 @@
 class StorageService {
   constructor() {
     this.KEYS = {
+      TOPICS: 'ekys_topics_v1',
       QUESTIONS: 'ekys_questions_v1',
       WRONG_POOL: 'ekys_wrong_pool_v1',
       QUIZ_HISTORY: 'ekys_quiz_history_v1',
@@ -15,6 +16,12 @@ class StorageService {
   }
 
   initDefaults() {
+    // Konu listesini başlat
+    if (!localStorage.getItem(this.KEYS.TOPICS)) {
+      const defaultTopics = (typeof window !== 'undefined' && window.EKYS_TOPICS) ? window.EKYS_TOPICS : [];
+      localStorage.setItem(this.KEYS.TOPICS, JSON.stringify(defaultTopics));
+    }
+
     // İlk açılışta hazır soruları yükle
     if (!localStorage.getItem(this.KEYS.QUESTIONS)) {
       const defaultQuestions = (typeof window !== 'undefined' && window.INITIAL_QUESTIONS) ? window.INITIAL_QUESTIONS : [];
@@ -36,15 +43,66 @@ class StorageService {
     if (!localStorage.getItem(this.KEYS.SETTINGS)) {
       const defaultSettings = {
         theme: 'dark',
-        targetDate: '2027-03-15T09:30:00', // 2027 Mart EKYS tahmini tarihi
-        aiProvider: 'none', // 'none' (sıfır api yerleşik), 'gemini', 'groq', 'openai'
+        targetDate: '2027-03-15T09:30:00',
+        aiProvider: 'none',
         geminiApiKey: '',
         groqApiKey: '',
-        dailyTarget: 30, // Günlük hedef soru sayısı
-        timerDurationPerQuestion: 90 // Soru başı 90 sn (EKYS standartı)
+        dailyTarget: 30,
+        timerDurationPerQuestion: 90
       };
       localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(defaultSettings));
     }
+  }
+
+  // --- KONU & MÜFREDAT YÖNETİMİ (DİNAMİK EKLE / SİL / DÜZENLE) ---
+  getTopics() {
+    try {
+      return JSON.parse(localStorage.getItem(this.KEYS.TOPICS)) || window.EKYS_TOPICS || [];
+    } catch (e) {
+      return window.EKYS_TOPICS || [];
+    }
+  }
+
+  saveTopics(topics) {
+    localStorage.setItem(this.KEYS.TOPICS, JSON.stringify(topics));
+  }
+
+  addTopic(topic) {
+    const topics = this.getTopics();
+    const newTopic = {
+      id: topic.id || 'topic_' + Date.now(),
+      name: topic.name,
+      category: topic.category || 'Mevzuat',
+      icon: topic.icon || '📚',
+      targetQuestions: parseInt(topic.targetQuestions, 10) || 5
+    };
+    topics.push(newTopic);
+    this.saveTopics(topics);
+    return newTopic;
+  }
+
+  updateTopic(topicId, updatedData) {
+    const topics = this.getTopics();
+    const index = topics.findIndex(t => t.id === topicId);
+    if (index !== -1) {
+      topics[index] = { ...topics[index], ...updatedData };
+      this.saveTopics(topics);
+      return topics[index];
+    }
+    return null;
+  }
+
+  deleteTopic(topicId) {
+    let topics = this.getTopics();
+    topics = topics.filter(t => t.id !== topicId);
+    this.saveTopics(topics);
+    return topics;
+  }
+
+  resetTopicsToDefault() {
+    const defaultTopics = (typeof window !== 'undefined' && window.EKYS_TOPICS) ? window.EKYS_TOPICS : [];
+    this.saveTopics(defaultTopics);
+    return defaultTopics;
   }
 
   // --- SORULAR ---
