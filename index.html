@@ -356,7 +356,7 @@
 
           <!-- Video / Link Form -->
           <div class="card" style="margin-bottom: 28px;">
-            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">🎥 YouTube / Ders Videosu & Not Ekle</h3>
+            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">🎥 YouTube / Ders Videosu Otomatik Analiz & Not Ekle</h3>
             
             <div class="form-group">
               <label class="form-label">📌 Bu Video Hangi Konuya Ait?</label>
@@ -364,19 +364,41 @@
             </div>
 
             <div class="form-group">
+              <label class="form-label">YouTube Video Linki</label>
+              <div style="display: flex; gap: 8px;">
+                <input type="url" id="video-url-input" class="form-control" placeholder="https://www.youtube.com/watch?v=..." onchange="app.handleYouTubeUrlAnalyze()">
+                <button class="btn btn-secondary" style="white-space: nowrap;" onclick="app.handleYouTubeUrlAnalyze()">
+                  🔍 Analiz Et
+                </button>
+              </div>
+              <small style="color: var(--text-muted); font-size: 0.8rem; margin-top: 4px; display: block;">
+                YouTube linkini yapıştırdığınızda başlık ve konuşma metni otomatik çözümlenir.
+              </small>
+            </div>
+
+            <!-- Video Preview Box -->
+            <div id="video-preview-card" class="card" style="display: none; background: rgba(15, 23, 42, 0.7); margin-bottom: 16px; padding: 12px;">
+              <div style="display: flex; gap: 12px; align-items: center;">
+                <img id="video-preview-thumb" src="" style="width: 100px; height: 60px; object-fit: cover; border-radius: var(--radius-sm);">
+                <div>
+                  <h4 id="video-preview-title" style="font-size: 0.95rem; font-weight: 700;">Video Başlığı</h4>
+                  <div id="video-preview-channel" style="font-size: 0.8rem; color: var(--text-secondary);">Kanal Adı</div>
+                </div>
+              </div>
+            </div>
+
+            <div class="form-group">
               <label class="form-label">Ders / Video Başlığı</label>
               <input type="text" id="video-title-input" class="form-control" placeholder="Örn: 657 DMK Memur Hakları - Ders 1">
             </div>
-            <div class="form-group">
-              <label class="form-label">Video Linki (YouTube vb. - İsteğe Bağlı)</label>
-              <input type="url" id="video-url-input" class="form-control" placeholder="https://www.youtube.com/watch?v=...">
-            </div>
+
             <div class="form-group">
               <label class="form-label">Video Transkripti veya Ders Notları</label>
-              <textarea id="video-notes-input" class="form-control" placeholder="Videodaki önemli maddeleri, konuşma dökümünü veya özet notlarınızı buraya yapıştırın..."></textarea>
+              <textarea id="video-notes-input" class="form-control" placeholder="Videonun konuşma dökümü otomatik çekilecek veya buraya notlarınızı yapıştırabilirsiniz..."></textarea>
             </div>
+
             <button class="btn btn-primary" onclick="app.addVideoSource()">
-              ➕ Video Kaynağını Konuya Kaydet
+              ➕ Video Kaynağını Konuya Kaydet & Soru Üret
             </button>
           </div>
 
@@ -725,6 +747,7 @@
   <script src="services/storage-service.js"></script>
   <script src="services/firebase-service.js"></script>
   <script src="services/pdf-service.js"></script>
+  <script src="services/youtube-service.js"></script>
   <script src="services/question-generator.js"></script>
   <script src="app.js"></script>
 </body>

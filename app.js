@@ -933,6 +933,51 @@ class EKYSApp {
     }
   }
 
+  // --- YOUTUBE OTOMATİK LİNK ANALİZİ VE TRANSKRİPT ÇEKME ---
+  async handleYouTubeUrlAnalyze() {
+    const urlInput = document.getElementById('video-url-input');
+    const titleInput = document.getElementById('video-title-input');
+    const notesInput = document.getElementById('video-notes-input');
+    const previewCard = document.getElementById('video-preview-card');
+    const previewThumb = document.getElementById('video-preview-thumb');
+    const previewTitle = document.getElementById('video-preview-title');
+    const previewChannel = document.getElementById('video-preview-channel');
+
+    const url = urlInput ? urlInput.value.trim() : '';
+    if (!url) return;
+
+    this.showToast('YouTube videosu analiz ediliyor...', 'info');
+
+    try {
+      // 1. Video başlığı ve önizlemesini çek
+      const details = await window.youtubeService.fetchVideoDetails(url);
+      
+      if (titleInput && (!titleInput.value || titleInput.value.trim() === '')) {
+        titleInput.value = details.title;
+      }
+
+      if (previewCard && previewThumb && previewTitle && previewChannel) {
+        previewThumb.src = details.thumbnailUrl;
+        previewTitle.textContent = details.title;
+        previewChannel.textContent = details.author;
+        previewCard.style.display = 'block';
+      }
+
+      // 2. Transkripti çekmeyi dene
+      const transcript = await window.youtubeService.fetchTranscript(details.videoId);
+      if (transcript && notesInput) {
+        notesInput.value = transcript;
+        this.showToast('✅ Video dökümü ve başlığı otomatik çekildi!', 'success');
+      } else {
+        this.showToast('Video başlığı ve önizlemesi çekildi. İsterseniz videonun dökümünü veya özet notlarınızı ekleyebilirsiniz.', 'success');
+      }
+
+    } catch (err) {
+      console.warn('YouTube analiz uyarısı:', err);
+      this.showToast('Video linki işlendi.', 'info');
+    }
+  }
+
   addVideoSource() {
     const topicSelect = document.getElementById('video-topic-select');
     const topicId = topicSelect ? topicSelect.value : 'mevzuat-657';
@@ -942,17 +987,19 @@ class EKYSApp {
     const url = document.getElementById('video-url-input').value.trim();
     const notes = document.getElementById('video-notes-input').value.trim();
 
-    if (!title || (!url && !notes)) {
-      this.showToast('Lütfen video başlığı ve video linki ya da notlarını girin.', 'error');
+    if (!title && !notes) {
+      this.showToast('Lütfen en azından video başlığı veya notlarını girin.', 'error');
       return;
     }
 
+    const finalTitle = title || 'YouTube Ders Videosu';
+
     const saved = window.storageService.addSource({
       type: 'video',
-      title: title,
+      title: finalTitle,
       url: url,
-      text: `${title}\nKonu: ${topicName}\nVideo Linki: ${url}\n\nKonu Notları & Transkript:\n${notes}`,
-      size: 'Video Notu',
+      text: `${finalTitle}\nKonu: ${topicName}\nVideo Linki: ${url}\n\nKonu Notları & Transkript:\n${notes || finalTitle}`,
+      size: 'YouTube Kaynağı',
       topicId: topicId,
       topicName: topicName
     });
@@ -961,6 +1008,8 @@ class EKYSApp {
     document.getElementById('video-title-input').value = '';
     document.getElementById('video-url-input').value = '';
     document.getElementById('video-notes-input').value = '';
+    const previewCard = document.getElementById('video-preview-card');
+    if (previewCard) previewCard.style.display = 'none';
 
     this.showToast(`Video kaynağı "${topicName}" başlığına eklendi!`, 'success');
     this.renderSourcesList();
