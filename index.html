@@ -332,12 +332,18 @@
         <section id="view-sources" class="view-section">
           <div class="page-header">
             <h1 class="page-title">Kaynaklarım & Doküman Kütüphanesi 📂</h1>
-            <p class="page-subtitle">PDF dosyalarınızı yükleyin veya video linklerinizi ekleyerek kendi soru bankanızı oluşturun.</p>
+            <p class="page-subtitle">PDF dosyalarınızı veya video notlarınızı ilgili konu başlığına atayarak kendi soru bankanızı oluşturun.</p>
           </div>
 
-          <!-- Upload Dropzone -->
+          <!-- Upload Dropzone (PDF) -->
           <div class="card" style="margin-bottom: 24px;">
             <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">📄 PDF / Metin Dosyası Yükle</h3>
+            
+            <div class="form-group">
+              <label class="form-label">📌 Bu PDF Hangi Konuya Ait?</label>
+              <select id="pdf-topic-select" class="form-control" style="margin-bottom: 14px; font-weight: 600;"></select>
+            </div>
+
             <div class="dropzone" id="pdf-dropzone">
               <div class="dropzone-icon">📥</div>
               <h4 style="font-weight: 700; margin-bottom: 6px;">PDF dosyasını buraya sürükleyip bırakın</h4>
@@ -351,6 +357,12 @@
           <!-- Video / Link Form -->
           <div class="card" style="margin-bottom: 28px;">
             <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">🎥 YouTube / Ders Videosu & Not Ekle</h3>
+            
+            <div class="form-group">
+              <label class="form-label">📌 Bu Video Hangi Konuya Ait?</label>
+              <select id="video-topic-select" class="form-control" style="margin-bottom: 14px; font-weight: 600;"></select>
+            </div>
+
             <div class="form-group">
               <label class="form-label">Ders / Video Başlığı</label>
               <input type="text" id="video-title-input" class="form-control" placeholder="Örn: 657 DMK Memur Hakları - Ders 1">
@@ -364,12 +376,14 @@
               <textarea id="video-notes-input" class="form-control" placeholder="Videodaki önemli maddeleri, konuşma dökümünü veya özet notlarınızı buraya yapıştırın..."></textarea>
             </div>
             <button class="btn btn-primary" onclick="app.addVideoSource()">
-              ➕ Video Kaynağını Kaydet
+              ➕ Video Kaynağını Konuya Kaydet
             </button>
           </div>
 
           <!-- Saved Sources List -->
-          <h2 style="font-size: 1.2rem; font-weight: 700; margin-bottom: 16px;">📚 Yüklenen Kaynaklar</h2>
+          <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
+            <h2 style="font-size: 1.2rem; font-weight: 700;">📚 Yüklenen Kaynaklar (Konulara Göre)</h2>
+          </div>
           <div id="sources-list-container"></div>
         </section>
 
@@ -382,8 +396,8 @@
 
           <div class="card">
             <div class="form-group">
-              <label class="form-label">Konu / Başlık</label>
-              <input type="text" id="gen-topic-input" class="form-control" placeholder="Örn: 657 Sayılı Kanun Disiplin Hükümleri">
+              <label class="form-label">📌 İlgili Konu / Müfredat Başlığı</label>
+              <select id="gen-topic-select" class="form-control" style="font-weight: 600; margin-bottom: 12px;"></select>
             </div>
 
             <div class="form-group">

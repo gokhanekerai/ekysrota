@@ -630,10 +630,27 @@ class EKYSApp {
     this.navigateTo('dashboard');
   }
 
+  // --- KONU AÇILIR LİSTELERİNİ DOLDURMA ---
+  populateTopicDropdowns() {
+    const topics = window.storageService.getTopics();
+    const dropdownIds = ['pdf-topic-select', 'video-topic-select', 'gen-topic-select'];
+
+    dropdownIds.forEach(id => {
+      const el = document.getElementById(id);
+      if (el) {
+        el.innerHTML = topics.map(t => `
+          <option value="${t.id}">${t.icon || '📚'} ${t.name} (${t.category || 'Mevzuat'})</option>
+        `).join('');
+      }
+    });
+  }
+
   // --- KAYNAKLAR YÖNETİMİ & PDF/VİDEO YÜKLEME ---
   renderSourcesList() {
     const container = document.getElementById('sources-list-container');
     if (!container) return;
+
+    this.populateTopicDropdowns();
 
     const sources = window.storageService.getSources();
     if (sources.length === 0) {
@@ -641,26 +658,31 @@ class EKYSApp {
         <div style="text-align: center; color: var(--text-muted); padding: 40px; border: 1px dashed var(--border-color); border-radius: var(--radius-lg);">
           <div style="font-size: 40px; margin-bottom: 10px;">📂</div>
           <p>Henüz yüklenmiş bir PDF veya video kaynağınız yok.</p>
-          <p style="font-size: 0.85rem;">Yukarıdaki alandan PDF yükleyebilir veya ders video notlarınızı ekleyebilirsiniz.</p>
+          <p style="font-size: 0.85rem;">Yukarıdaki alandan bir konu seçip PDF yükleyebilir veya ders video notlarınızı ekleyebilirsiniz.</p>
         </div>
       `;
       return;
     }
 
     container.innerHTML = sources.map(src => `
-      <div class="card" style="margin-bottom: 14px; display: flex; align-items: center; justify-content: space-between;">
+      <div class="card" style="margin-bottom: 14px; display: flex; align-items: center; justify-content: space-between; border-left: 4px solid var(--accent-primary);">
         <div style="display: flex; align-items: center; gap: 14px;">
           <div style="font-size: 32px;">${src.type === 'pdf' ? '📄' : '🎥'}</div>
           <div>
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 4px;">
+              <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; padding: 2px 8px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
+                ${src.topicName || 'Genel Mevzuat'}
+              </span>
+            </div>
             <h4 style="font-size: 1rem; font-weight: 700;">${src.title}</h4>
             <div style="font-size: 0.8rem; color: var(--text-secondary);">
-              ${src.type.toUpperCase()} • ${src.size || src.duration || 'Metin'} • ${new Date(src.createdAt).toLocaleDateString('tr-TR')}
+              ${src.type.toUpperCase()} • ${src.size || 'Metin'} • ${new Date(src.createdAt).toLocaleDateString('tr-TR')}
             </div>
           </div>
         </div>
         <div style="display: flex; gap: 8px;">
           <button class="btn btn-primary btn-sm" onclick="app.generateFromSavedSource('${src.id}')">
-            ⚡ Soru Üret
+            ⚡ Bu Kaynaktan Soru Üret
           </button>
           <button class="btn btn-secondary btn-sm" style="color: var(--accent-danger);" onclick="app.deleteSource('${src.id}')">
             🗑️
@@ -705,7 +727,11 @@ class EKYSApp {
   async handleFileUpload(file) {
     if (!file) return;
 
-    this.showToast(`"${file.name}" ayrıştırılıyor, lütfen bekleyin...`, 'info');
+    const topicSelect = document.getElementById('pdf-topic-select');
+    const topicId = topicSelect ? topicSelect.value : 'mevzuat-657';
+    const topicName = topicSelect ? topicSelect.options[topicSelect.selectedIndex].text : 'Genel Mevzuat';
+
+    this.showToast(`"${file.name}" ayrıştırılıyor (${topicName}), lütfen bekleyin...`, 'info');
 
     try {
       let result;
@@ -718,21 +744,23 @@ class EKYSApp {
         result = await window.pdfService.extractTextFromTxtFile(file);
       }
 
-      // Kaynağı kaydet
+      // Kaynağı seçilen konuya ata
       const saved = window.storageService.addSource({
         type: 'pdf',
         title: result.title,
         fileName: result.fileName,
         size: result.fileSize,
         text: result.text,
-        totalPages: result.totalPages
+        totalPages: result.totalPages,
+        topicId: topicId,
+        topicName: topicName
       });
 
-      this.showToast('Kaynak başarıyla kütüphanenize eklendi!', 'success');
+      this.showToast(`Kaynak "${topicName}" başlığı altına kaydedildi!`, 'success');
       this.renderSourcesList();
 
       // Otomatik soru üretim ekranına yönlendir
-      this.openGenerateWithText(saved.text, saved.title);
+      this.openGenerateWithText(saved.text, saved.title, topicId);
 
     } catch (err) {
       console.error(err);
@@ -741,6 +769,10 @@ class EKYSApp {
   }
 
   addVideoSource() {
+    const topicSelect = document.getElementById('video-topic-select');
+    const topicId = topicSelect ? topicSelect.value : 'mevzuat-657';
+    const topicName = topicSelect ? topicSelect.options[topicSelect.selectedIndex].text : 'Genel Mevzuat';
+
     const title = document.getElementById('video-title-input').value.trim();
     const url = document.getElementById('video-url-input').value.trim();
     const notes = document.getElementById('video-notes-input').value.trim();
@@ -754,8 +786,10 @@ class EKYSApp {
       type: 'video',
       title: title,
       url: url,
-      text: `${title}\nVideo Linki: ${url}\n\nKonu Notları & Transkript:\n${notes}`,
-      size: 'Video Notu'
+      text: `${title}\nKonu: ${topicName}\nVideo Linki: ${url}\n\nKonu Notları & Transkript:\n${notes}`,
+      size: 'Video Notu',
+      topicId: topicId,
+      topicName: topicName
     });
 
     // Formu temizle
@@ -763,9 +797,9 @@ class EKYSApp {
     document.getElementById('video-url-input').value = '';
     document.getElementById('video-notes-input').value = '';
 
-    this.showToast('Video kaynağı eklendi!', 'success');
+    this.showToast(`Video kaynağı "${topicName}" başlığına eklendi!`, 'success');
     this.renderSourcesList();
-    this.openGenerateWithText(saved.text, saved.title);
+    this.openGenerateWithText(saved.text, saved.title, topicId);
   }
 
   deleteSource(sourceId) {
@@ -779,22 +813,29 @@ class EKYSApp {
   generateFromSavedSource(sourceId) {
     const src = window.storageService.getSources().find(s => s.id === sourceId);
     if (src) {
-      this.openGenerateWithText(src.text, src.title);
+      this.openGenerateWithText(src.text, src.title, src.topicId);
     }
   }
 
-  openGenerateWithText(text, title) {
+  openGenerateWithText(text, title, topicId = null) {
     this.navigateTo('generate');
+    this.populateTopicDropdowns();
+
     const textInput = document.getElementById('gen-text-input');
-    const titleInput = document.getElementById('gen-topic-input');
+    const topicSelect = document.getElementById('gen-topic-select');
+    
     if (textInput) textInput.value = text;
-    if (titleInput) titleInput.value = title;
+    if (topicSelect && topicId) {
+      topicSelect.value = topicId;
+    }
   }
 
   // --- SORU ÜRETİMİ (SIFIR API VEYA AI) ---
   async executeQuestionGeneration() {
     const text = document.getElementById('gen-text-input').value.trim();
-    const topic = document.getElementById('gen-topic-input').value.trim() || 'Özel Kaynak';
+    const topicSelect = document.getElementById('gen-topic-select');
+    const topicId = topicSelect ? topicSelect.value : 'custom-src';
+    const topicName = topicSelect ? topicSelect.options[topicSelect.selectedIndex].text : 'Özel Kaynak';
     const count = parseInt(document.getElementById('gen-count-select').value, 10) || 5;
     const settings = window.storageService.getSettings();
 
@@ -814,25 +855,24 @@ class EKYSApp {
 
       // 1. Sıfır API / Yerleşik Kural Motoru (Varsayılan ve En Hızlı)
       if (settings.aiProvider === 'none' || !settings.aiProvider) {
-        generated = window.questionGeneratorService.generateLocalQuestionsFromText(text, topic, count);
+        generated = window.questionGeneratorService.generateLocalQuestionsFromText(text, topicName, count);
         
         if (generated.length === 0) {
-          // Eğer kural tabanlı çıkaramazsa örnek genel şablon türet
           generated = window.questionGeneratorService.generateLocalQuestionsFromText(
-            text + " Bu kanun maddesi eğitim kurumu yöneticilerinin görev ve sorumluluklarını kapsar.", topic, count
+            text + " Bu kanun maddesi eğitim kurumu yöneticilerinin görev ve sorumluluklarını kapsar.", topicName, count
           );
         }
       } 
       // 2. Gemini API Seçiliyse
       else if (settings.aiProvider === 'gemini') {
         generated = await window.questionGeneratorService.generateQuestionsWithGemini(
-          settings.geminiApiKey, text, topic, count
+          settings.geminiApiKey, text, topicName, count
         );
       } 
       // 3. Groq API Seçiliyse
       else if (settings.aiProvider === 'groq') {
         generated = await window.questionGeneratorService.generateQuestionsWithGroq(
-          settings.groqApiKey, text, topic, count
+          settings.groqApiKey, text, topicName, count
         );
       }
 
@@ -840,19 +880,25 @@ class EKYSApp {
         throw new Error('Metinden soru üretilemedi. Lütfen daha detaylı bir metin girin.');
       }
 
+      // Üretilen sorulara seçilen konunun ID ve Adını bağla
+      generated.forEach(q => {
+        q.topicId = topicId;
+        q.topicName = topicName;
+      });
+
       // Havuza kaydet
       window.storageService.addQuestions(generated);
-      this.showToast(`Tebrikler! ${generated.length} adet yeni soru başarıyla üretildi ve havuza eklendi.`, 'success');
+      this.showToast(`Tebrikler! ${generated.length} soru üretildi ve "${topicName}" havuzuna eklendi.`, 'success');
 
       // Doğrudan teste başlama seçeneği sun
-      if (confirm(`${generated.length} soru üretildi! Hemen çözmek ister misiniz?`)) {
+      if (confirm(`${generated.length} soru "${topicName}" konusuna eklendi! Hemen bu testten soru çözmek ister misiniz?`)) {
         this.startQuizSession({
-          title: `${topic} - Yeni Üretilen Test`,
+          title: `${topicName} - Yeni Üretilen Test`,
           questions: generated,
           mode: 'practice'
         });
       } else {
-        this.navigateTo('dashboard');
+        this.navigateTo('test-hub');
       }
 
     } catch (err) {
