@@ -666,6 +666,60 @@
     </div>
   </div>
 
+  <!-- MODAL: HIZLI KONUYA KAYNAK EKLE -->
+  <div id="quick-source-modal" class="modal-overlay">
+    <div class="modal-card" style="max-width: 650px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <span id="quick-modal-icon" style="font-size: 28px;">📚</span>
+          <div>
+            <h3 id="quick-modal-title" style="font-size: 1.2rem; font-weight: 800;">Konuya Kaynak Ekle</h3>
+            <span id="quick-modal-category" class="brand-badge">Mevzuat</span>
+          </div>
+        </div>
+        <button class="btn btn-secondary btn-sm" onclick="app.closeQuickSourceModal()">✖</button>
+      </div>
+
+      <!-- Tab Buttons -->
+      <div style="display: flex; gap: 8px; margin-bottom: 18px;">
+        <button id="tab-btn-pdf" class="btn btn-primary btn-sm" onclick="app.switchQuickSourceTab('pdf')">📄 PDF Yükle</button>
+        <button id="tab-btn-video" class="btn btn-secondary btn-sm" onclick="app.switchQuickSourceTab('video')">🎥 Video & Not Ekle</button>
+      </div>
+
+      <!-- Tab: PDF Upload -->
+      <div id="quick-tab-pdf">
+        <div class="dropzone" id="quick-pdf-dropzone" style="padding: 30px 15px;">
+          <div class="dropzone-icon" style="font-size: 38px;">📥</div>
+          <h4 style="font-weight: 700; margin-bottom: 4px;">PDF Dosyasını Buraya Bırakın</h4>
+          <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 12px;">veya dosya seçmek için tıklayın (.pdf, .txt)</p>
+          <span class="btn btn-secondary btn-sm">Dosya Seç</span>
+          <input type="file" id="quick-pdf-file-input" accept=".pdf,.txt,.md" style="display: none;">
+        </div>
+        <div id="quick-pdf-progress" style="margin-top: 10px; font-size: 0.85rem; color: var(--accent-primary); font-weight: 600;"></div>
+      </div>
+
+      <!-- Tab: Video / Notes Upload -->
+      <div id="quick-tab-video" style="display: none;">
+        <div class="form-group">
+          <label class="form-label">Ders / Video Başlığı</label>
+          <input type="text" id="quick-video-title" class="form-control" placeholder="Örn: Konu Özeti & Önemli Maddeler">
+        </div>
+        <div class="form-group">
+          <label class="form-label">Video Linki (YouTube vb. - İsteğe Bağlı)</label>
+          <input type="url" id="quick-video-url" class="form-control" placeholder="https://www.youtube.com/watch?v=...">
+        </div>
+        <div class="form-group">
+          <label class="form-label">Ders Notları veya Transkript Metni</label>
+          <textarea id="quick-video-notes" class="form-control" style="min-height: 120px;" placeholder="Bu konuya ait önemli özet notlarınızı buraya yapıştırın..."></textarea>
+        </div>
+        <button class="btn btn-primary btn-block" onclick="app.handleQuickVideoSave()">
+          ➕ Bu Konuya Kaydet
+        </button>
+      </div>
+
+    </div>
+  </div>
+
   <!-- Core Scripts -->
   <script src="data/ekys-sample-questions.js"></script>
   <script src="services/storage-service.js"></script>

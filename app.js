@@ -175,30 +175,195 @@ class EKYSApp {
     if (!container) return;
 
     const questions = window.storageService.getQuestions();
+    const sources = window.storageService.getSources();
     const topics = window.storageService.getTopics();
 
     container.innerHTML = topics.map(topic => {
       const topicQuestions = questions.filter(q => q.topicId === topic.id);
+      const topicSources = sources.filter(s => s.topicId === topic.id);
+
       return `
-        <div class="card" style="display: flex; flex-direction: column; justify-content: space-between;">
+        <div class="card" style="display: flex; flex-direction: column; justify-content: space-between; border-top: 3px solid var(--accent-primary);">
           <div>
             <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
-              <span style="font-size: 26px;">${topic.icon || '📚'}</span>
+              <span style="font-size: 28px;">${topic.icon || '📚'}</span>
               <span class="badge" style="background: rgba(99, 102, 241, 0.15); color: #818cf8; padding: 3px 10px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
                 ${topic.category || 'Mevzuat'}
               </span>
             </div>
-            <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px;">${topic.name}</h3>
-            <p style="color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 16px;">
-              Havuzdaki Soru: <strong>${topicQuestions.length}</strong>
-            </p>
+            <h3 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 8px;">${topic.name}</h3>
+            
+            <div style="display: flex; gap: 12px; font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 18px;">
+              <span>📝 <strong>${topicQuestions.length}</strong> Soru</span>
+              <span>📂 <strong>${topicSources.length}</strong> Kaynak</span>
+            </div>
           </div>
-          <button class="btn btn-primary btn-block btn-sm" onclick="app.startTopicQuiz('${topic.id}', '${topic.name}')">
-            ⚡ Bu Konudan Test Çöz
-          </button>
+
+          <div style="display: flex; gap: 8px;">
+            <button class="btn btn-primary btn-sm" style="flex: 1.2;" onclick="app.startTopicQuiz('${topic.id}', '${topic.name}')">
+              ⚡ Test Çöz
+            </button>
+            <button class="btn btn-secondary btn-sm" style="flex: 1;" onclick="app.openQuickSourceModal('${topic.id}')" title="Bu konuya PDF veya Video ekle">
+              📥 Kaynak Ekle
+            </button>
+          </div>
         </div>
       `;
     }).join('');
+  }
+
+  // --- HIZLI KONUYA KAYNAK YÜKLEME MODALI ---
+  openQuickSourceModal(topicId) {
+    const topics = window.storageService.getTopics();
+    const topic = topics.find(t => t.id === topicId) || topics[0];
+    if (!topic) return;
+
+    this.activeQuickTopic = topic;
+
+    const modal = document.getElementById('quick-source-modal');
+    const titleEl = document.getElementById('quick-modal-title');
+    const iconEl = document.getElementById('quick-modal-icon');
+    const catEl = document.getElementById('quick-modal-category');
+
+    if (titleEl) titleEl.textContent = `${topic.name}`;
+    if (iconEl) iconEl.textContent = topic.icon || '📚';
+    if (catEl) catEl.textContent = topic.category || 'Mevzuat';
+
+    // Dropzone'u bağla
+    this.registerQuickDropzone();
+
+    if (modal) modal.classList.add('active');
+  }
+
+  closeQuickSourceModal() {
+    const modal = document.getElementById('quick-source-modal');
+    if (modal) modal.classList.remove('active');
+    this.renderTopicsList();
+  }
+
+  switchQuickSourceTab(tab) {
+    const pdfTab = document.getElementById('quick-tab-pdf');
+    const videoTab = document.getElementById('quick-tab-video');
+    const btnPdf = document.getElementById('tab-btn-pdf');
+    const btnVideo = document.getElementById('tab-btn-video');
+
+    if (tab === 'pdf') {
+      if (pdfTab) pdfTab.style.display = 'block';
+      if (videoTab) videoTab.style.display = 'none';
+      if (btnPdf) { btnPdf.className = 'btn btn-primary btn-sm'; }
+      if (btnVideo) { btnVideo.className = 'btn btn-secondary btn-sm'; }
+    } else {
+      if (pdfTab) pdfTab.style.display = 'none';
+      if (videoTab) videoTab.style.display = 'block';
+      if (btnPdf) { btnPdf.className = 'btn btn-secondary btn-sm'; }
+      if (btnVideo) { btnVideo.className = 'btn btn-primary btn-sm'; }
+    }
+  }
+
+  registerQuickDropzone() {
+    const dropzone = document.getElementById('quick-pdf-dropzone');
+    const fileInput = document.getElementById('quick-pdf-file-input');
+
+    if (dropzone && fileInput) {
+      dropzone.onclick = () => fileInput.click();
+
+      dropzone.ondragover = (e) => {
+        e.preventDefault();
+        dropzone.classList.add('dragover');
+      };
+
+      dropzone.ondragleave = () => {
+        dropzone.classList.remove('dragover');
+      };
+
+      dropzone.ondrop = (e) => {
+        e.preventDefault();
+        dropzone.classList.remove('dragover');
+        if (e.dataTransfer.files.length > 0) {
+          this.handleQuickFileUpload(e.dataTransfer.files[0]);
+        }
+      };
+
+      fileInput.onchange = (e) => {
+        if (e.target.files.length > 0) {
+          this.handleQuickFileUpload(e.target.files[0]);
+        }
+      };
+    }
+  }
+
+  async handleQuickFileUpload(file) {
+    if (!file || !this.activeQuickTopic) return;
+
+    const topic = this.activeQuickTopic;
+    const progEl = document.getElementById('quick-pdf-progress');
+    if (progEl) progEl.textContent = `"${file.name}" ayrıştırılıyor...`;
+
+    try {
+      let result;
+      if (file.name.toLowerCase().endsWith('.pdf')) {
+        result = await window.pdfService.extractTextFromPdfFile(file, (prog) => {
+          if (progEl) progEl.textContent = `Ayrıştırılıyor: %${prog.percent}`;
+        });
+      } else {
+        result = await window.pdfService.extractTextFromTxtFile(file);
+      }
+
+      const saved = window.storageService.addSource({
+        type: 'pdf',
+        title: result.title,
+        fileName: result.fileName,
+        size: result.fileSize,
+        text: result.text,
+        totalPages: result.totalPages,
+        topicId: topic.id,
+        topicName: topic.name
+      });
+
+      this.showToast(`Kaynak "${topic.name}" konusuna başarıyla eklendi!`, 'success');
+      this.closeQuickSourceModal();
+      this.renderTopicsList();
+
+      // Soru üretmeye yönlendir
+      this.openGenerateWithText(saved.text, saved.title, topic.id);
+
+    } catch (err) {
+      console.error(err);
+      this.showToast(`Hata: ${err.message}`, 'error');
+    }
+  }
+
+  handleQuickVideoSave() {
+    if (!this.activeQuickTopic) return;
+
+    const topic = this.activeQuickTopic;
+    const title = document.getElementById('quick-video-title').value.trim();
+    const url = document.getElementById('quick-video-url').value.trim();
+    const notes = document.getElementById('quick-video-notes').value.trim();
+
+    if (!title || (!url && !notes)) {
+      this.showToast('Lütfen başlık ve not/link girin.', 'error');
+      return;
+    }
+
+    const saved = window.storageService.addSource({
+      type: 'video',
+      title: title,
+      url: url,
+      text: `${title}\nKonu: ${topic.name}\nVideo Linki: ${url}\n\nKonu Notları & Transkript:\n${notes}`,
+      size: 'Video Notu',
+      topicId: topic.id,
+      topicName: topic.name
+    });
+
+    document.getElementById('quick-video-title').value = '';
+    document.getElementById('quick-video-url').value = '';
+    document.getElementById('quick-video-notes').value = '';
+
+    this.showToast(`Video kaynağı "${topic.name}" konusuna eklendi!`, 'success');
+    this.closeQuickSourceModal();
+    this.renderTopicsList();
+    this.openGenerateWithText(saved.text, saved.title, topic.id);
   }
 
   // --- KONU & MÜFREDAT YÖNETİMİ MODALI ---
