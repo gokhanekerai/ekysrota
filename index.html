@@ -192,11 +192,88 @@
         <!-- VIEW: TEST HUB -->
         <section id="view-test-hub" class="view-section">
           <div class="page-header">
-            <h1 class="page-title">EKYS Konu & Test Merkezi 📝</h1>
-            <p class="page-subtitle">Mevzuat, Eğitim Yönetimi ve Genel Kültür konularından dilediğinizi seçip hemen teste başlayın.</p>
+            <h1 class="page-title">Sınav & Test Merkezi 📝</h1>
+            <p class="page-subtitle">İster gerçek sınav formatında 80 soruluk genel denemeleri çözün, isterseniz konu konu eksiklerinizi pekiştirin.</p>
           </div>
 
-          <div class="grid-cards" id="topics-grid"></div>
+          <!-- BÖLÜM 1: GENEL DENEME SINAVLARI (ÖSYM FORMATI) -->
+          <div style="margin-bottom: 34px;">
+            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
+              <div>
+                <h2 style="font-size: 1.25rem; font-weight: 800; color: #818cf8; display: flex; align-items: center; gap: 8px;">
+                  🏆 Genel Deneme Sınavları (Süreli Sınav Simülasyonu)
+                </h2>
+                <p style="font-size: 0.85rem; color: var(--text-secondary);">ÖSYM konu ağırlıklarına uygun, gerçek sınav süresi ve puanlama sistemine sahip denemeler.</p>
+              </div>
+            </div>
+
+            <div class="grid-cards">
+              <!-- 80 Soru Tam Deneme -->
+              <div class="card" style="border: 1px solid var(--border-active); background: linear-gradient(135deg, rgba(99, 102, 241, 0.15) 0%, rgba(30, 41, 59, 0.9) 100%);">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
+                  <span style="font-size: 32px;">🥇</span>
+                  <span class="badge" style="background: rgba(99, 102, 241, 0.25); color: #a5b4fc; padding: 4px 10px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
+                    ÖSYM FORMATI
+                  </span>
+                </div>
+                <h3 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 6px;">Tam EKYS Deneme Sınavı</h3>
+                <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
+                  80 Soru • 150 Dakika • Mevzuat (%20), Eğitim Yönetimi (%30), Anayasa (%20), Etik (%10), Liderlik.
+                </p>
+                <button class="btn btn-primary btn-block" onclick="app.startFullExamMock(80, 150)">
+                  🚀 80 Soruluk Denemeyi Başlat
+                </button>
+              </div>
+
+              <!-- 40 Soru Orta Deneme -->
+              <div class="card" style="border: 1px solid rgba(16, 185, 129, 0.3);">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
+                  <span style="font-size: 32px;">⚡</span>
+                  <span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #34d399; padding: 4px 10px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
+                    MİNİ DENEME
+                  </span>
+                </div>
+                <h3 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 6px;">Hızlı Karma Deneme</h3>
+                <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
+                  40 Soru • 75 Dakika • Tüm konulardan dengeli dağılımlı ara deneme sınavı.
+                </p>
+                <button class="btn btn-success btn-block" onclick="app.startFullExamMock(40, 75)">
+                  ⚡ 40 Soruluk Denemeyi Başlat
+                </button>
+              </div>
+
+              <!-- 20 Soru Günlük Pratik -->
+              <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.3);">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
+                  <span style="font-size: 32px;">🎯</span>
+                  <span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fbbf24; padding: 4px 10px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
+                    GÜNLÜK HEDEF
+                  </span>
+                </div>
+                <h3 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 6px;">Günlük Karma Test</h3>
+                <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
+                  20 Soru • 35 Dakika • Günlük bilgilerinizi canlı tutmak için hızlı pratik.
+                </p>
+                <button class="btn btn-secondary btn-block" onclick="app.startFullExamMock(20, 35)">
+                  🎯 20 Soruluk Testi Başlat
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- BÖLÜM 2: KONU BAZLI ÖZEL TESTLER (BRANŞ / MEVZUAT) -->
+          <div>
+            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; flex-wrap: wrap; gap: 10px;">
+              <div>
+                <h2 style="font-size: 1.25rem; font-weight: 800; display: flex; align-items: center; gap: 8px;">
+                  📚 Konu Bazlı Özel Pekiştirme Testleri
+                </h2>
+                <p style="font-size: 0.85rem; color: var(--text-secondary);">Eksik hissettiğiniz konuyu seçin, anında açıklamalı çözümlerle pekiştirin.</p>
+              </div>
+            </div>
+
+            <div class="grid-cards" id="topics-grid"></div>
+          </div>
         </section>
 
         <!-- VIEW: ACTIVE QUIZ RUNNER (ÖSYM STYLE) -->

@@ -232,19 +232,21 @@ class EKYSApp {
     });
   }
 
-  startFullExamMock() {
+  startFullExamMock(count = 80, timeLimitMinutes = 150) {
     const allQuestions = window.storageService.getQuestions();
-    if (allQuestions.length < 5) {
-      this.showToast('Deneme sınavı için soru havuzunda en az 5 soru olmalıdır.', 'error');
+    if (allQuestions.length === 0) {
+      this.showToast('Soru havuzu boş. Lütfen önce soru ekleyin veya üretin.', 'error');
       return;
     }
 
-    const examQuestions = this.shuffleArray(allQuestions).slice(0, 80);
+    const examQuestions = this.shuffleArray(allQuestions).slice(0, count);
+    const duration = timeLimitMinutes || Math.round(examQuestions.length * 1.8);
+
     this.startQuizSession({
-      title: `2027 EKYS Gerçek Sınav Simülasyonu (${examQuestions.length} Soru)`,
+      title: `2027 EKYS Genel Deneme Sınavı (${examQuestions.length} Soru)`,
       questions: examQuestions,
-      mode: 'exam', // Çözümleri sınav bitince göster, süre kısıtlı
-      timeLimitMinutes: Math.round(examQuestions.length * 1.5) // Soru başı 1.5 dk
+      mode: 'exam', // Sınav modu: süre sayar, cevapları bitince açıklar
+      timeLimitMinutes: duration
     });
   }
 

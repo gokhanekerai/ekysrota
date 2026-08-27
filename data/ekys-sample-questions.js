@@ -1,19 +1,22 @@
-// 2027 EKYS Hazır Soru Bankası & Konu Dağılımı Veri Seti
+// 2027 EKYS Kapsamlı Soru Bankası & Konu Dağılımı Veri Seti
 const EKYS_TOPICS = [
-  { id: 'mevzuat-657', name: '657 Sayılı Devlet Memurları Kanunu', category: 'Mevzuat', icon: '⚖️', weight: 10 },
-  { id: 'mevzuat-1739', name: '1739 Sayılı Millî Eğitim Temel Kanunu', category: 'Mevzuat', icon: '🏛️', weight: 8 },
-  { id: 'mevzuat-222', name: '222 Sayılı İlköğretim ve Eğitim Kanunu', category: 'Mevzuat', icon: '🎒', weight: 6 },
-  { id: 'mevzuat-cbk1', name: '1 Nolu CB Kararnamesi (MEB Teşkilatı)', category: 'Mevzuat', icon: '📜', weight: 8 },
-  { id: 'mevzuat-4483', name: '4483 Sayılı Memurların Yargılanması', category: 'Mevzuat', icon: '🛡️', weight: 6 },
-  { id: 'mevzuat-3071', name: '3071 Sayılı Dilekçe Hakkı & 4982 Bilgi Edinme', category: 'Mevzuat', icon: '📝', weight: 6 },
-  { id: 'anayasa', name: 'T.C. Anayasası ve İdare Hukuku', category: 'Genel Kültür & Hukuk', icon: '🇹🇷', weight: 10 },
-  { id: 'egitim-yonetimi', name: 'Eğitim Yönetimi ve Denetimi Kuramları', category: 'Eğitim Yönetimi', icon: '📊', weight: 20 },
-  { id: 'liderlik', name: 'Eğitimde Liderlik, İletişim & Okul Kültürü', category: 'Eğitim Yönetimi', icon: '🌟', weight: 12 },
-  { id: 'degerler-egitimi', name: 'Değerler Eğitimi ve Mesleki Etik', category: 'Değerler Eğitimi', icon: '🤝', weight: 10 },
-  { id: 'genel-kultur', name: 'Genel Kültür, Türk Tarihi & Coğrafya', category: 'Genel Kültür & Hukuk', icon: '🌍', weight: 10 }
+  { id: 'mevzuat-657', name: '657 Sayılı Devlet Memurları Kanunu', category: 'Mevzuat (%20)', icon: '⚖️', targetQuestions: 8 },
+  { id: 'mevzuat-1739', name: '1739 Sayılı Millî Eğitim Temel Kanunu', category: 'Mevzuat (%20)', icon: '🏛️', targetQuestions: 4 },
+  { id: 'mevzuat-222', name: '222 Sayılı İlköğretim ve Eğitim Kanunu', category: 'Mevzuat (%20)', icon: '🎒', targetQuestions: 4 },
+  { id: 'mevzuat-cbk1', name: '1 Nolu CB Kararnamesi (MEB Teşkilatı)', category: 'Mevzuat (%20)', icon: '📜', targetQuestions: 4 },
+  { id: 'mevzuat-4483', name: '4483 Sayılı Memurların Yargılanması', category: 'Mevzuat (%20)', icon: '🛡️', targetQuestions: 3 },
+  { id: 'mevzuat-3071', name: '3071 Dilekçe & 4982 Bilgi Edinme', category: 'Mevzuat (%20)', icon: '📝', targetQuestions: 3 },
+  { id: 'mevzuat-5018', name: '5018 Sayılı Kamu Malî Yönetimi Kanunu', category: 'Mevzuat (%20)', icon: '💰', targetQuestions: 3 },
+  { id: 'mevzuat-4688', name: '4688 Sayılı Sendikalar Kanunu', category: 'Mevzuat (%20)', icon: '👥', targetQuestions: 3 },
+  { id: 'anayasa', name: 'T.C. Anayasası ve İdare Hukuku', category: 'Genel Kültür & Hukuk (%20)', icon: '🇹🇷', targetQuestions: 8 },
+  { id: 'egitim-yonetimi', name: 'Eğitim Yönetimi ve Denetimi Kuramları', category: 'Eğitim Yönetimi (%30)', icon: '📊', targetQuestions: 16 },
+  { id: 'liderlik', name: 'Eğitimde Liderlik, İletişim & Okul Kültürü', category: 'Eğitim Yönetimi (%30)', icon: '🌟', targetQuestions: 8 },
+  { id: 'degerler-egitimi', name: 'Değerler Eğitimi ve Mesleki Etik', category: 'Etik & Değerler (%10)', icon: '🤝', targetQuestions: 8 },
+  { id: 'genel-kultur', name: 'Genel Kültür, Türk Tarihi & Coğrafya', category: 'Genel Kültür & Hukuk (%20)', icon: '🌍', targetQuestions: 8 }
 ];
 
 const INITIAL_QUESTIONS = [
+  // --- 657 SAYILI DMK ---
   {
     id: 'q-657-1',
     topicId: 'mevzuat-657',
@@ -57,8 +60,25 @@ const INITIAL_QUESTIONS = [
       { key: 'E', text: 'Aday memurlar ilk 6 aydan sonra 15 gün yıllık izin hakkı kazanır' }
     ],
     correctAnswer: 'C',
-    explanation: '657 DMK Madde 102: Hizmeti 1 yıldan 10 yıla kadar (10 yıl dahil) olanlar için 20 gün, hizmeti 10 yıldan fazla olanlar için 30 gündür. Zorunlu hallerde gidiş ve dönüş için en çok ikişer gün yol izni eklenebilir.'
+    explanation: '657 DMK Madde 102: Hizmeti 1 yıldan 10 yıla kadar (10 yıl dahil) olanlar için 20 gün, hizmeti 10 yıldan fazla olanlar için 30 gündür.'
   },
+  {
+    id: 'q-657-4',
+    topicId: 'mevzuat-657',
+    topicName: '657 Sayılı DMK',
+    question: '657 sayılı Devlet Memurları Kanunu\'na göre, memurun kasıt, kusur, ihmal veya tedbirsizliği sonucu idare zarara uğratılmışsa, bu zararın ödettirilmesi kimin yetkisindedir ve hangi değer üzerinden hesaplanır?',
+    options: [
+      { key: 'A', text: 'Zarar, o günkü piyasa rayiç bedeli üzerinden doğrudan memurun maaşından tek seferde kesilir.' },
+      { key: 'B', text: 'Zarar, rayiç bedeli üzerinden ilgili memur tarafından ödenir veya genel hükümlere göre tahsil edilir.' },
+      { key: 'C', text: 'Zarar sadece disiplin amirinin takdir edeceği tutar üzerinden tahsil edilir.' },
+      { key: 'D', text: 'Zarar miktarı memurun bir aylık net maaşını geçemez.' },
+      { key: 'E', text: 'Memur zararı ödemeyi reddederse sadece kınama cezası verilir.' }
+    ],
+    correctAnswer: 'B',
+    explanation: '657 sayılı DMK Madde 12: Kişiler kamu hukukuna tabi görevlerle ilgili olarak uğradıkları zararlardan ötürü bu görevleri yerine getiren personel aleyhine değil, ilgili kurum aleyhine dava açarlar. Kurumun rücu hakkı saklıdır ve zarar rayiç bedel üzerinden tahsil edilir.'
+  },
+
+  // --- 1739 SAYILI MİLLÎ EĞİTİM TEMEL KANUNU ---
   {
     id: 'q-1739-1',
     topicId: 'mevzuat-1739',
@@ -72,23 +92,25 @@ const INITIAL_QUESTIONS = [
       { key: 'E', text: 'Laiklik' }
     ],
     correctAnswer: 'C',
-    explanation: 'Liyakat ve Kariyer ilkeleri 657 sayılı Devlet Memurları Kanunu\'nun temel ilkeleridir. 1739 sayılı Kanun\'un temel ilkeleri arasında Genellik ve Eşitlik, Ferdin ve Toplumun İhtiyaçları, Yöneltme, Eğitim Hakkı, Fırsat ve İmkân Eşitliği, Süreklilik, Atatürk İnkılap ve İlkeleri ve Atatürk Milliyetçiliği, Demokrasi Eğitimi, Laiklik, Bilimsellik, Planlılık, Karma Eğitim vb. yer alır.'
+    explanation: 'Liyakat ve Kariyer ilkeleri 657 sayılı DMK ilkeleridir. 1739\'un ilkeleri: Genellik ve Eşitlik, Ferdin ve Toplumun İhtiyaçları, Yöneltme, Eğitim Hakkı, Fırsat Eşitliği, Süreklilik, Laiklik, Bilimsellik, Karma Eğitim vb.'
   },
   {
     id: 'q-1739-2',
     topicId: 'mevzuat-1739',
     topicName: '1739 Sayılı Kanun',
-    question: '1739 sayılı Millî Eğitim Temel Kanunu\'na göre öğretmenlik mesleği ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?',
+    question: '1739 sayılı Kanun\'a göre, "Eğitim kurumları dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açıktır. Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz." hükmü hangi ilkeyi ifade eder?',
     options: [
-      { key: 'A', text: 'Öğretmenlik, Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir.' },
-      { key: 'B', text: 'Öğretmenler bu görevlerini Türk Millî Eğitiminin amaçlarına ve temel ilkelerine uygun olarak ifa etmekle yükümlüdürler.' },
-      { key: 'C', text: 'Öğretmenlik mesleğine hazırlık genel kültür, özel alan eğitimi ve pedagojik formasyon ile sağlanır.' },
-      { key: 'D', text: 'Öğretmenlik kariyer basamakları aday öğretmenlik dahil 5 farklı unvandan oluşur.' },
-      { key: 'E', text: 'Öğretmenlerin nitelikleri ve seçimi Bakanlıkça belirlenir.' }
+      { key: 'A', text: 'Fırsat ve İmkân Eşitliği' },
+      { key: 'B', text: 'Genellik ve Eşitlik' },
+      { key: 'C', text: 'Eğitim Hakkı' },
+      { key: 'D', text: 'Demokrasi Eğitimi' },
+      { key: 'E', text: 'Süreklilik' }
     ],
-    correctAnswer: 'D',
-    explanation: '1739 sayılı Kanun\'un 43. maddesi öğretmenliği "özel bir ihtisas mesleği" olarak tanımlar. Kariyer basamakları Öğretmenlik Meslek Kanunu (ÖMK) düzenlemelerinde Aday Öğretmen, Öğretmen, Uzman Öğretmen ve Başöğretmen basamaklarını içerir.'
+    correctAnswer: 'B',
+    explanation: '1739 sayılı Kanun Madde 4 "Genellik ve Eşitlik" ilkesidir. Fırsat ve imkân eşitliği ise maddi imkanlardan yoksun başarılı öğrencilere burs ve yardım sağlanmasını kapsar.'
   },
+
+  // --- 222 SAYILI İLKÖĞRETİM KANUNU ---
   {
     id: 'q-222-1',
     topicId: 'mevzuat-222',
@@ -102,13 +124,30 @@ const INITIAL_QUESTIONS = [
       { key: 'E', text: '6-15 yaş' }
     ],
     correctAnswer: 'B',
-    explanation: '222 sayılı Kanun Madde 3\'e göre: Mecburi ilköğretim çağı 6-14 yaş grubundaki çocukları kapsar. Bu çağ çocuğun 5 yaşını bitirdiği yılın eylül ayı sonunda başlar, 14 yaşını bitirip 15 yaşına girdiği yılın öğretim yılı sonunda biter.'
+    explanation: '222 sayılı Kanun Madde 3: Mecburi ilköğretim çağı 6-14 yaş grubundaki çocukları kapsar. 5 yaşını bitirdiği yılın eylül ayı sonunda başlar, 14 yaşını bitirip 15 yaşına girdiği yılın öğretim yılı sonunda biter.'
   },
+  {
+    id: 'q-222-2',
+    topicId: 'mevzuat-222',
+    topicName: '222 Sayılı Kanun',
+    question: '222 sayılı Kanun\'a göre, ilköğretim kurumlarında ders yılı süresi en az kaç iş günüdür?',
+    options: [
+      { key: 'A', text: '160 iş günü' },
+      { key: 'B', text: '170 iş günü' },
+      { key: 'C', text: '180 iş günü' },
+      { key: 'D', text: '190 iş günü' },
+      { key: 'E', text: '200 iş günü' }
+    ],
+    correctAnswer: 'C',
+    explanation: '222 sayılı Kanun Madde 44: İlköğretim okullarında ders yılı süresi, derslerin başladığı günden kesildiği güne kadar, dinlenme ve tatil günleri hariç en az 180 iş günüdür.'
+  },
+
+  // --- 1 NOLU CB KARARNAMESİ (MEB) ---
   {
     id: 'q-cbk1-1',
     topicId: 'mevzuat-cbk1',
     topicName: '1 Sayılı CB Kararnamesi',
-    question: '1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi\'ne göre Millî Eğitim Bakanlığı hizmet birimlerinden hangisi "Ders kitaplarını, eğitim araç-gereçlerini incelemek ve onaylamak" ile görevlidir?',
+    question: '1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında CB Kararnamesi\'ne göre Millî Eğitim Bakanlığı hizmet birimlerinden hangisi "Ders kitaplarını, eğitim araç-gereçlerini incelemek ve onaylamak" ile görevlidir?',
     options: [
       { key: 'A', text: 'Temel Eğitim Genel Müdürlüğü' },
       { key: 'B', text: 'Ortaöğretim Genel Müdürlüğü' },
@@ -117,8 +156,10 @@ const INITIAL_QUESTIONS = [
       { key: 'E', text: 'Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü' }
     ],
     correctAnswer: 'C',
-    explanation: 'Talim ve Terbiye Kurulu Başkanlığı, öğretim programları ve ders kitaplarının incelenmesi, onaylanması ve eğitim politikalarının belirlenmesinde Bakanlığın en yetkili bilimsel danışma ve karar organıdır.'
+    explanation: 'Talim ve Terbiye Kurulu Başkanlığı, öğretim programları ve ders kitaplarının incelenmesi ve onaylanmasında Bakanlığın bilimsel danışma ve karar organıdır.'
   },
+
+  // --- 4483 SAYILI KANUN ---
   {
     id: 'q-4483-1',
     topicId: 'mevzuat-4483',
@@ -135,6 +176,23 @@ const INITIAL_QUESTIONS = [
     explanation: '4483 sayılı Kanun Madde 3/b bendine göre: İlçede görevli memurlar ve diğer kamu görevlileri hakkında soruşturma izni vermeye yetkili merci Kaymakamdır.'
   },
   {
+    id: 'q-4483-2',
+    topicId: 'mevzuat-4483',
+    topicName: '4483 Sayılı Kanun',
+    question: '4483 sayılı Kanun\'a göre yetkili merci soruşturma izni verilmesi veya verilmemesi konusundaki kararını en geç kaç gün içinde verir?',
+    options: [
+      { key: 'A', text: '15 gün (zorunlu hallerde 15 gün uzatılabilir)' },
+      { key: 'B', text: '30 gün (zorunlu hallerde 15 gün uzatılabilir)' },
+      { key: 'C', text: '30 gün (uzatılamaz)' },
+      { key: 'D', text: '60 gün' },
+      { key: 'E', text: '45 gün' }
+    ],
+    correctAnswer: 'B',
+    explanation: '4483 sayılı Kanun Madde 7: Yetkili merci soruşturma izni konusundaki kararını 30 gün içinde verir. Bu süre zorunlu hallerde 15 günü geçmemek üzere bir defa uzatılabilir.'
+  },
+
+  // --- EĞİTİM YÖNETİMİ & KURAMLAR ---
+  {
     id: 'q-yonetim-1',
     topicId: 'egitim-yonetimi',
     topicName: 'Eğitim Yönetimi',
@@ -147,7 +205,22 @@ const INITIAL_QUESTIONS = [
       { key: 'E', text: 'Serbest Bırakıcı (Laissez-faire) Liderlik' }
     ],
     correctAnswer: 'A',
-    explanation: 'Dönüşümcü Liderlik; vizyon oluşturma, ilham verme, entelektüel uyarım ve çalışanları bireysel olarak destekleyerek değişimi yönetme özellikleriyle öne çıkar. İşlemci liderlik ise mevcut düzeni koruma ve ödül-ceza dengesine dayanır.'
+    explanation: 'Dönüşümcü Liderlik; vizyon oluşturma, ilham verme, entelektüel uyarım ve çalışanları bireysel olarak destekleme özellikleriyle öne çıkar.'
+  },
+  {
+    id: 'q-yonetim-2',
+    topicId: 'egitim-yonetimi',
+    topicName: 'Eğitim Yönetimi',
+    question: 'Henri Fayol\'un klasik yönetim süreçleri modelinde yer alan 5 temel yönetsel işlev aşağıdakilerden hangisinde eksiksiz olarak verilmiştir?',
+    options: [
+      { key: 'A', text: 'Planlama - Örgütleme - Yöneltme (Emir-Komuta) - Eşgüdümleme (Koordinasyon) - Denetim' },
+      { key: 'B', text: 'Gözlem - Teftiş - Bütçeleme - Personel Alma - Raporlama' },
+      { key: 'C', text: 'Motivasyon - İletişim - Karar Verme - Liderlik - Değerlendirme' },
+      { key: 'D', text: 'Amaç Belirleme - Öğretim Tasarımı - Ölçme - Rehberlik - İnceleme' },
+      { key: 'E', text: 'Yetki Devri - Hiyerarşi - Disiplin - Kayıt Tutma - Onaylama' }
+    ],
+    correctAnswer: 'A',
+    explanation: 'Henri Fayol\'un klasik yönetim süreçleri: Planlama (Öngörme), Örgütleme (Teşkilatlanma), Yöneltme (Emir Verme), Eşgüdüm (Koordinasyon) ve Denetim (Kontrol) olarak 5 temel işleve dayanır.'
   },
   {
     id: 'q-liderlik-1',
@@ -162,8 +235,10 @@ const INITIAL_QUESTIONS = [
       { key: 'E', text: 'Stratejik Liderlik' }
     ],
     correctAnswer: 'A',
-    explanation: 'Öğretimsel Liderlik (Instructional Leadership); okul yöneticisinin sınıf içi öğrenme-öğretme süreçlerine, ders programlarına ve öğrenci başarısını artırıcı akademik etkinliklere bizzat odaklanmasını ifade eder.'
+    explanation: 'Öğretimsel Liderlik (Instructional Leadership); okul yöneticisinin sınıf içi öğrenme-öğretme süreçlerine, ders programlarına ve öğrenci başarısını artırıcı etkinliklere odaklanmasını ifade eder.'
   },
+
+  // --- T.C. ANAYASASI ---
   {
     id: 'q-anayasa-1',
     topicId: 'anayasa',
@@ -179,6 +254,23 @@ const INITIAL_QUESTIONS = [
     correctAnswer: 'C',
     explanation: '1982 Anayasası Madde 77\'ye göre: Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri beş yılda bir aynı günde yapılır.'
   },
+  {
+    id: 'q-anayasa-2',
+    topicId: 'anayasa',
+    topicName: 'T.C. Anayasası',
+    question: '1982 Anayasası\'na göre, "Kimse, eğitim ve öğrenim hakkından yoksun bırakılamaz. İlköğretim kız ve erkek bütün vatandaşlar için zorunludur ve Devlet okullarında parasızdır." hükmü Anayasa\'nın hangi maddesinde yer alır?',
+    options: [
+      { key: 'A', text: 'Madde 10 (Kanun Önünde Eşitlik)' },
+      { key: 'B', text: 'Madde 24 (Din ve Vicdan Hürriyeti)' },
+      { key: 'C', text: 'Madde 42 (Eğitim ve Öğrenim Hakkı ve Ödevi)' },
+      { key: 'D', text: 'Madde 58 (Gençliğin Korunması)' },
+      { key: 'E', text: 'Madde 130 (Yükseköğretim Kurumları)' }
+    ],
+    correctAnswer: 'C',
+    explanation: '1982 Anayasası Madde 42 "Eğitim ve Öğrenim Hakkı ve Ödevi" başlığı altında düzenlenmiştir.'
+  },
+
+  // --- DEĞERLER EĞİTİMİ & ETİK ---
   {
     id: 'q-degerler-1',
     topicId: 'degerler-egitimi',
