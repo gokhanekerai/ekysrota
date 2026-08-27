@@ -58,7 +58,11 @@
         </a>
         <a class="nav-item" data-view-target="test-hub">
           <span class="nav-icon">📝</span>
-          <span>Test Merkezi</span>
+          <span>Sınav & Test Merkezi</span>
+        </a>
+        <a class="nav-item" onclick="app.openTopicManagerModal()">
+          <span class="nav-icon">⚙️</span>
+          <span>Konu & Müfredat</span>
         </a>
         <a class="nav-item" data-view-target="sources">
           <span class="nav-icon">📂</span>
@@ -78,7 +82,7 @@
           <span>Başarı Analizi</span>
         </a>
         <a class="nav-item" data-view-target="settings">
-          <span class="nav-icon">⚙️</span>
+          <span class="nav-icon">🔧</span>
           <span>Ayarlar & Yedek</span>
         </a>
       </nav>
@@ -100,6 +104,9 @@
         </div>
 
         <div class="header-actions">
+          <button class="btn btn-secondary btn-sm" onclick="app.openTopicManagerModal()">
+            ⚙️ Konuları Yönet
+          </button>
           <button class="btn btn-primary btn-sm" onclick="app.startQuickQuiz(10)">
             ⚡ Hızlı 10 Soru
           </button>
