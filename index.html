@@ -446,26 +446,16 @@
           <!-- Yeni Kullanıcı Ekle Formu -->
           <div class="card" style="margin-bottom: 24px; border: 1px solid var(--border-active);">
             <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">➕ Yeni Kullanıcı Tanımla</h3>
+            <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">Tanımlayacağınız kullanıcı adı ve şifre ile sisteme anında giriş yapılabilir.</p>
             <form id="admin-add-user-form" onsubmit="app.handleAdminCreateUser(event)">
-              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-bottom: 14px;">
+              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; margin-bottom: 14px;">
                 <div class="form-group">
-                  <label class="form-label">Ad Soyad</label>
-                  <input type="text" id="admin-user-name" class="form-control" placeholder="Örn: Ahmet Yılmaz" required>
-                </div>
-                <div class="form-group">
-                  <label class="form-label">Kullanıcı Adı (Giriş İçin)</label>
+                  <label class="form-label">Kullanıcı Adı</label>
                   <input type="text" id="admin-user-username" class="form-control" placeholder="Örn: ahmet" required>
                 </div>
                 <div class="form-group">
                   <label class="form-label">Giriş Şifresi</label>
                   <input type="text" id="admin-user-password" class="form-control" placeholder="Örn: 123456" required minlength="4">
-                </div>
-                <div class="form-group">
-                  <label class="form-label">Kullanıcı Rolü</label>
-                  <select id="admin-user-role" class="form-control">
-                    <option value="student">🎓 Öğrenci (Soru Çözebilir)</option>
-                    <option value="admin">👑 Yönetici (Tam Yetkili)</option>
-                  </select>
                 </div>
               </div>
               <button type="submit" class="btn btn-primary">

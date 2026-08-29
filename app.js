@@ -1088,20 +1088,24 @@ class EKYSApp {
 
   async handleAdminCreateUser(e) {
     e.preventDefault();
-    const name = document.getElementById('admin-user-name').value.trim();
-    const usernameInput = document.getElementById('admin-user-username') || document.getElementById('admin-user-email');
+    const usernameInput = document.getElementById('admin-user-username');
     const username = usernameInput ? usernameInput.value.trim().toLowerCase() : '';
-    const pass = document.getElementById('admin-user-password').value;
-    const role = document.getElementById('admin-user-role').value;
+    const passInput = document.getElementById('admin-user-password');
+    const pass = passInput ? passInput.value : '';
+
+    if (!username || !pass) {
+      this.showToast('Lütfen kullanıcı adı ve şifre giriniz.', 'error');
+      return;
+    }
 
     try {
       // 1. Yerel veritabanına yetkili kullanıcı adı ve şifreyle kaydet
       if (window.storageService) {
         window.storageService.saveCustomUser({
-          name: name,
+          name: username,
           username: username,
           password: pass,
-          role: role
+          role: 'student'
         });
       }
 
@@ -1109,13 +1113,13 @@ class EKYSApp {
       if (window.firebaseService) {
         try {
           const fakeEmail = username.includes('@') ? username : `${username}@ekysrota.local`;
-          await window.firebaseService.registerWithEmail(fakeEmail, pass, name, role);
+          await window.firebaseService.registerWithEmail(fakeEmail, pass, username, 'student');
         } catch (fbErr) {
-          console.warn('Firebase bulut kayıt uyarısı:', fbErr);
+          console.warn('Firebase bulut kayıt:', fbErr);
         }
       }
 
-      this.showToast(`✅ "${name}" kullanıcısı (Kullanıcı Adı: ${username}) başarıyla eklendi!`, 'success');
+      this.showToast(`✅ "${username}" kullanıcısı başarıyla eklendi! (Şifre: ${pass})`, 'success');
       document.getElementById('admin-add-user-form').reset();
       this.loadAdminUsersList();
     } catch (err) {
