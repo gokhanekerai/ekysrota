@@ -1035,21 +1035,29 @@ class EKYSApp {
       });
 
       // 2. Yerel Eklenen Kullanıcılar
-      customUsers.forEach(u => {
-        const key = (u.username || u.email || '').trim().toLowerCase();
-        if (key && key !== 'admin') {
-          userMap.set(key, { ...u, id: key, username: key });
-        }
-      });
+      if (Array.isArray(customUsers)) {
+        customUsers.forEach(u => {
+          if (!u) return;
+          const raw = u.username || u.email || u.name || '';
+          const key = String(raw).trim().toLowerCase();
+          if (key && key !== 'admin') {
+            userMap.set(key, { ...u, id: key, username: key, password: u.password || '••••••' });
+          }
+        });
+      }
 
       // 3. Buluttaki Kullanıcılar
-      fbUsers.forEach(u => {
-        const key = (u.username || u.email || '').trim().toLowerCase();
-        if (key && key !== 'admin') {
-          const existing = userMap.get(key) || {};
-          userMap.set(key, { ...existing, ...u, id: key, username: key });
-        }
-      });
+      if (Array.isArray(fbUsers)) {
+        fbUsers.forEach(u => {
+          if (!u) return;
+          const raw = u.username || u.email || u.name || '';
+          const key = String(raw).trim().toLowerCase();
+          if (key && key !== 'admin') {
+            const existing = userMap.get(key) || {};
+            userMap.set(key, { ...existing, ...u, id: key, username: key, password: u.password || existing.password || '••••••' });
+          }
+        });
+      }
 
       const allUsers = Array.from(userMap.values());
 
@@ -1077,7 +1085,7 @@ class EKYSApp {
                 <td>${u.createdAt ? new Date(u.createdAt).toLocaleDateString('tr-TR') : 'Aktif'}</td>
                 <td>
                   ${(u.username === 'admin' || u.username === 'gokhan') ? '<span style="color: var(--text-secondary); font-size: 0.8rem;">(Ana Yönetici)</span>' : `
-                    <button class="btn btn-danger btn-sm" onclick="app.handleAdminDeleteUser('${u.username}', '${u.username}')">
+                    <button class="btn btn-danger btn-sm" onclick="app.handleAdminDeleteUser('${u.username || u.id}', '${u.username || u.displayName || u.id}')">
                       🗑️ Çıkar / Sil
                     </button>
                   `}
@@ -1133,20 +1141,20 @@ class EKYSApp {
     }
   }
 
-  async handleAdminDeleteUser(email, name) {
-    if (confirm(`"${name}" kullanıcısını sistemden tamamen çıkarmak istediğinize emin misiniz? Artık sisteme giriş yapamayacak.`)) {
+  async handleAdminDeleteUser(username, name) {
+    if (confirm(`"${username}" kullanıcısını sistemden tamamen çıkarmak istediğinize emin misiniz? Artık sisteme giriş yapamayacak.`)) {
       try {
         if (window.storageService) {
-          window.storageService.removeCustomUser(email);
+          window.storageService.removeCustomUser(username);
         }
         if (window.firebaseService) {
           try {
-            await window.firebaseService.removeUser(email);
+            await window.firebaseService.removeUser(username);
           } catch (e) {
             console.warn('Firebase silme:', e);
           }
         }
-        this.showToast(`"${name}" sistemden çıkarıldı.`, 'success');
+        this.showToast(`"${username}" sistemden çıkarıldı.`, 'success');
         this.loadAdminUsersList();
       } catch (err) {
         this.showToast(err.message, 'error');

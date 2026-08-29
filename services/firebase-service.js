@@ -128,9 +128,10 @@ class FirebaseService {
   }
 
   async registerWithEmail(email, password, displayName = '', role = 'student') {
-    const isMaster = email.toLowerCase().includes('admin') || email.toLowerCase().includes('gokhan');
+    const cleanEmail = (email || '').toLowerCase();
+    const isMaster = cleanEmail.includes('admin') || cleanEmail.includes('gokhan');
     const finalRole = isMaster ? 'admin' : role;
-    const finalName = displayName || (isMaster ? 'Gökhan Eker (Yönetici)' : email.split('@')[0]);
+    const finalName = displayName || (isMaster ? 'Gökhan Eker (Yönetici)' : cleanEmail.split('@')[0]);
 
     if (this.isInitialized && this.auth) {
       try {
