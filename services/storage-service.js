@@ -3,59 +3,32 @@
 class StorageService {
   constructor() {
     this.KEYS = {
-      TOPICS: 'ekys_topics_v2',
-      QUESTIONS: 'ekys_questions_v2',
-      WRONG_POOL: 'ekys_wrong_pool_v2',
-      FAVORITES: 'ekys_favorites_v2',
-      QUIZ_HISTORY: 'ekys_quiz_history_v2',
-      SOURCES: 'ekys_sources_v2',
-      SETTINGS: 'ekys_settings_v2',
-      STATS: 'ekys_stats_v2',
-      CUSTOM_USERS: 'ekys_local_users_v2'
+      TOPICS: 'ekys_topics_v3',
+      QUESTIONS: 'ekys_questions_v3',
+      WRONG_POOL: 'ekys_wrong_pool_v3',
+      FAVORITES: 'ekys_favorites_v3',
+      QUIZ_HISTORY: 'ekys_quiz_history_v3',
+      SOURCES: 'ekys_sources_v3',
+      SETTINGS: 'ekys_settings_v3',
+      STATS: 'ekys_stats_v3',
+      CUSTOM_USERS: 'ekys_local_users_v3'
     };
 
     this.initDefaults();
   }
 
   initDefaults() {
-    // 1. Soruları ve Konuları Birleştirerek Başlat
-    const allInitialQuestions = [];
-    
-    // Temel örnek sorular
-    if (typeof window !== 'undefined' && Array.isArray(window.INITIAL_QUESTIONS)) {
-      allInitialQuestions.push(...window.INITIAL_QUESTIONS);
-    }
-    // PDF'lerden çıkarılan 538 adet gerçek soru ve görseli
-    if (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) {
-      allInitialQuestions.push(...window.EKYS_EXTRACTED_QUESTIONS);
-    }
-
-    // Soruları yerel hafızaya yükle / senkronize et
-    let savedQuestions = this.getQuestions().filter(q => q.topicId !== 'anayasa' && !q.id.includes('anayasa'));
-    if (savedQuestions.length === 0) {
-      this.saveQuestions(allInitialQuestions);
-    } else {
-      // Yeni eklenen PDF soruları varsa mevcut havuzla birleştir
-      const merged = [...savedQuestions];
-      allInitialQuestions.forEach(q => {
-        if (!merged.find(item => item.id === q.id) && q.topicId !== 'anayasa') {
-          merged.push(q);
-        }
-      });
-      this.saveQuestions(merged);
-    }
-
-    // 2. Dinamik Konu Listesini Oluştur
-    const baseTopics = (typeof window !== 'undefined' && Array.isArray(window.EKYS_TOPICS)) 
-      ? window.EKYS_TOPICS.filter(t => t.id !== 'anayasa') 
+    // 1. Sadece klasördeki gerçek PDF sorularını yükle
+    const realQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
+      ? [...window.EKYS_EXTRACTED_QUESTIONS] 
       : [];
-    
-    // Çıkarılan testlerden dinamik konuları ekle
+
+    this.saveQuestions(realQuestions);
+
+    // 2. Dinamik Konu Listesini Sadece Bu Gerçek Testlerden Oluştur
     const dynamicTopicMap = new Map();
-    const currentQuestions = this.getQuestions();
-    
-    currentQuestions.forEach(q => {
-      if (q.topicId && !baseTopics.find(t => t.id === q.topicId) && !dynamicTopicMap.has(q.topicId)) {
+    realQuestions.forEach(q => {
+      if (q.topicId && !dynamicTopicMap.has(q.topicId)) {
         dynamicTopicMap.set(q.topicId, {
           id: q.topicId,
           name: q.topicName || q.testTitle || q.topicId,
@@ -66,20 +39,8 @@ class StorageService {
       }
     });
 
-    dynamicTopicMap.forEach(dt => baseTopics.push(dt));
-
-    const savedTopics = this.getTopics();
-    if (savedTopics.length === 0) {
-      this.saveTopics(baseTopics);
-    } else {
-      const mergedTopics = [...savedTopics];
-      baseTopics.forEach(t => {
-        if (!mergedTopics.find(item => item.id === t.id)) {
-          mergedTopics.push(t);
-        }
-      });
-      this.saveTopics(mergedTopics);
-    }
+    const realTopics = Array.from(dynamicTopicMap.values());
+    this.saveTopics(realTopics);
 
     // 3. Yanlış Defteri & Favoriler
     if (!localStorage.getItem(this.KEYS.WRONG_POOL)) {
