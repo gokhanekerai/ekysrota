@@ -4,7 +4,13 @@
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**"
+      "**/node_modules/**",
+      "coğrafya soruları/**",
+      "genel tarih soruları/**",
+      "ekys çıkmış sorular/**",
+      "ekys2027 konular/**",
+      "*.py",
+      "scripts/**"
     ],
     "rewrites": [
       {
