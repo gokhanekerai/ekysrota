@@ -445,6 +445,76 @@ class EKYSApp {
             badge: '58+ Soru'
           }
         ]
+      },
+      'cikmis': {
+        title: '📜 MEB EKYS Çıkmış Sınav Soruları (2019 - 2026)',
+        desc: 'Geçmiş yıllarda ÖSYM tarafından uygulanan tüm resmî EKYS sınavları. Yıllara göre çözün veya yeni çıkmış sorular ekleyin.',
+        items: [
+          {
+            id: 'ekys_2026',
+            name: '2026 EKYS Çıkmış Sınavı',
+            icon: '📜',
+            desc: '2026 Mart MEB Yönetici Seçme Sınavı soruları ve resmî cevap anahtarı.',
+            filterKey: 'ekys_2026',
+            badge: '80 Soru Hedef'
+          },
+          {
+            id: 'ekys_2025',
+            name: '2025 EKYS Çıkmış Sınavı',
+            icon: '📜',
+            desc: '2025 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
+            filterKey: 'ekys_2025',
+            badge: '80 Soru Hedef'
+          },
+          {
+            id: 'ekys_2024',
+            name: '2024 EKYS Çıkmış Sınavı',
+            icon: '📜',
+            desc: '2024 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
+            filterKey: 'ekys_2024',
+            badge: '80 Soru Hedef'
+          },
+          {
+            id: 'ekys_2023',
+            name: '2023 EKYS Çıkmış Sınavı',
+            icon: '📜',
+            desc: '2023 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
+            filterKey: 'ekys_2023',
+            badge: '80 Soru Hedef'
+          },
+          {
+            id: 'ekys_2022',
+            name: '2022 EKYS Çıkmış Sınavı',
+            icon: '📜',
+            desc: '2022 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
+            filterKey: 'ekys_2022',
+            badge: '80 Soru Hedef'
+          },
+          {
+            id: 'ekys_2021',
+            name: '2021 EKYS Çıkmış Sınavı',
+            icon: '📜',
+            desc: '2021 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
+            filterKey: 'ekys_2021',
+            badge: '80 Soru Hedef'
+          },
+          {
+            id: 'ekys_2020',
+            name: '2020 EKYS Çıkmış Sınavı',
+            icon: '📜',
+            desc: '2020 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
+            filterKey: 'ekys_2020',
+            badge: '80 Soru Hedef'
+          },
+          {
+            id: 'ekys_2019',
+            name: '2019 EKYS Çıkmış Sınavı',
+            icon: '📜',
+            desc: 'İlk uygulanan 2019 MEB Yönetici Seçme Sınavı soruları ve çözümleri.',
+            filterKey: 'ekys_2019',
+            badge: '80 Soru Hedef'
+          }
+        ]
       }
     };
   }
@@ -453,11 +523,16 @@ class EKYSApp {
     const allQuestions = window.storageService.getQuestions();
     
     return allQuestions.filter(q => {
-      const tId = (q.topicId || '').toLowerCase();
+      const tId = (q.topicId || q.testId || '').toLowerCase();
       const tName = (q.topicName || q.testTitle || '').toLowerCase();
       const qNum = parseInt(q.questionNumber, 10) || 0;
       const qText = (q.questionText || '').toLowerCase();
       const isCikmis = tName.includes('sınav') || tName.includes('sinav') || tId.includes('ekys');
+
+      if (filterKey.startsWith('ekys_')) {
+        const year = filterKey.replace('ekys_', '');
+        return tName.includes(year) || tId.includes(year) || (q.testId && q.testId.includes(year));
+      }
 
       if (filterKey === 'cografya') {
         if (tId.includes('cogr') || tName.includes('coğrafya')) return true;
@@ -579,12 +654,15 @@ class EKYSApp {
                 ${item.desc}
               </p>
             </div>
-            <div style="display: flex; gap: 8px; margin-top: auto;">
-              <button class="btn btn-primary btn-sm btn-block" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'practice')">
-                🎯 Pratik Çöz
+            <div style="display: flex; gap: 6px; margin-top: auto; flex-wrap: wrap;">
+              <button class="btn btn-primary btn-sm" style="flex: 1;" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'practice')">
+                🎯 Pratik
               </button>
-              <button class="btn btn-secondary btn-sm btn-block" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'exam')">
-                ⏱️ Süreli Sınav
+              <button class="btn btn-secondary btn-sm" style="flex: 1;" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'exam')">
+                ⏱️ Sınav
+              </button>
+              <button class="btn btn-sm" style="background: rgba(99, 102, 241, 0.2); border: 1px solid rgba(99, 102, 241, 0.4); color: #c7d2fe;" onclick="app.openAddQuestionModal('${item.filterKey}', '${item.name}')" title="Bu Sınava / Konuya Yeni Soru Ekle">
+                ➕ Soru Ekle
               </button>
             </div>
           </div>
@@ -602,6 +680,116 @@ class EKYSApp {
     }
     const modal = document.getElementById('subtopic-modal');
     if (modal) modal.style.display = 'none';
+  }
+
+  // --- HIZLI SORU EKLEME YÖNETİCİSİ ---
+  openAddQuestionModal(filterKey = 'ekys_2026', targetName = '2026 EKYS Çıkmış Sınavı') {
+    const modal = document.getElementById('modal-add-single-question');
+    if (!modal) return;
+
+    document.getElementById('add-q-filter-key').value = filterKey || 'ekys_2026';
+    document.getElementById('add-q-target-name').value = targetName || '2026 EKYS Çıkmış Sınavı';
+    document.getElementById('add-q-header-title').value = targetName || '2026 EKYS Çıkmış Sınavı';
+    document.getElementById('add-q-target-title').textContent = `${targetName || 'Sınava'} Yeni Soru Ekle`;
+    
+    // Soru numarasını hesapla
+    const questions = this.getQuestionsForFilter(filterKey);
+    document.getElementById('add-q-num').value = questions.length + 1;
+    document.getElementById('add-q-text').value = '';
+    document.getElementById('add-q-opt-a').value = '';
+    document.getElementById('add-q-opt-b').value = '';
+    document.getElementById('add-q-opt-c').value = '';
+    document.getElementById('add-q-opt-d').value = '';
+    document.getElementById('add-q-opt-e').value = '';
+    document.getElementById('add-q-correct').value = 'A';
+    document.getElementById('add-q-explanation').value = '';
+    document.getElementById('add-q-image-file').value = '';
+    document.getElementById('add-q-image-base64').value = '';
+    document.getElementById('add-q-img-preview-box').style.display = 'none';
+
+    modal.style.display = 'flex';
+  }
+
+  closeAddQuestionModal(event) {
+    if (event && event.target && event.target.id !== 'modal-add-single-question' && !event.target.classList.contains('modal-close')) {
+      return;
+    }
+    const modal = document.getElementById('modal-add-single-question');
+    if (modal) modal.style.display = 'none';
+  }
+
+  handleQuestionImagePreview(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      document.getElementById('add-q-image-base64').value = e.target.result;
+      document.getElementById('add-q-img-preview').src = e.target.result;
+      document.getElementById('add-q-img-preview-box').style.display = 'block';
+    };
+    reader.readAsDataURL(file);
+  }
+
+  handleSaveCustomQuestion(event) {
+    event.preventDefault();
+
+    const filterKey = document.getElementById('add-q-filter-key').value;
+    const title = document.getElementById('add-q-header-title').value.trim();
+    const qNum = parseInt(document.getElementById('add-q-num').value, 10) || 1;
+    const qText = document.getElementById('add-q-text').value.trim();
+    const optA = document.getElementById('add-q-opt-a').value.trim();
+    const optB = document.getElementById('add-q-opt-b').value.trim();
+    const optC = document.getElementById('add-q-opt-c').value.trim();
+    const optD = document.getElementById('add-q-opt-d').value.trim();
+    const optE = document.getElementById('add-q-opt-e').value.trim();
+    const correct = document.getElementById('add-q-correct').value;
+    const explanation = document.getElementById('add-q-explanation').value.trim();
+    const imageBase64 = document.getElementById('add-q-image-base64').value;
+
+    if (!qText || !optA || !optB || !optC || !optD || !optE) {
+      this.showToast('Lütfen soru metnini ve tüm şıkları doldurunuz.', 'error');
+      return;
+    }
+
+    const newQuestion = {
+      id: `${filterKey}_q${Date.now()}`,
+      testId: filterKey,
+      testTitle: title,
+      topicId: filterKey,
+      topicName: title,
+      category: 'Çıkmış Sınavlar',
+      questionNumber: qNum,
+      questionText: qText,
+      hasImage: !!imageBase64,
+      image: imageBase64 || null,
+      options: [
+        { key: 'A', text: optA },
+        { key: 'B', text: optB },
+        { key: 'C', text: optC },
+        { key: 'D', text: optD },
+        { key: 'E', text: optE }
+      ],
+      correctAnswer: correct,
+      explanation: explanation || `Doğru Cevap: ${correct}`
+    };
+
+    window.storageService.addQuestion(newQuestion);
+
+    // Eğer Firebase bağlıysa senkronize et
+    if (window.firebaseService && firebaseService.isLoggedIn && firebaseService.currentUser) {
+      firebaseService.addQuestion(newQuestion).catch(err => console.log('Firestore sync:', err));
+    }
+
+    this.showToast(`✅ Soru #${qNum} başarıyla "${title}" sınavına eklendi!`, 'success');
+    this.closeAddQuestionModal();
+
+    // Alt konu modalı açıksa sayıları güncelle
+    const subtopicModal = document.getElementById('subtopic-modal');
+    if (subtopicModal && subtopicModal.style.display !== 'none') {
+      const activeCat = filterKey.startsWith('ekys_') ? 'cikmis' : 'genel-kultur';
+      this.openSubTopicModal(activeCat);
+    }
   }
 
   startSubTopicQuiz(filterKey, title, mode = 'practice') {

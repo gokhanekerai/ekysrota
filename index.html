@@ -407,24 +407,25 @@
                 <span>📚</span> Konu Testlerini Aç
               </button>
             </div>
-          </div>
 
-          <!-- Ayrıntılı Test Listesi & Filtreler -->
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; flex-wrap: wrap; gap: 8px;">
-            <h2 style="font-size: 1.2rem; font-weight: 700; margin: 0; display: flex; align-items: center; gap: 8px;">
-              <span>🎯</span> Çıkmış Sınavlar ve Özel Video Tarama Testleri
-            </h2>
+            <!-- 6. Çıkmış Sınav Soruları (2019-2026) -->
+            <div class="card" style="border: 1px solid rgba(168, 85, 247, 0.4); background: linear-gradient(135deg, rgba(168, 85, 247, 0.12) 0%, rgba(30, 41, 59, 0.9) 100%);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">📜</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(168, 85, 247, 0.2); color: #e9d5ff; font-size: 0.72rem; font-weight: 700;">2019 - 2026</span>
+                  <span class="badge badge-warning" style="background: #a855f7; color: #fff; font-size: 0.72rem; font-weight: 800;">8 Yıllık Arşiv</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #f3e8ff;">Çıkmış Sınav Soruları</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                2019–2026 MEB EKYS çıkmış sınav soruları. Yıllara göre çözün veya yeni çıkmış sorular ekleyin.
+              </p>
+              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('cikmis')" style="background: linear-gradient(135deg, #a855f7, #6366f1); border: none;">
+                <span>📜</span> Çıkmış Sınavları Aç & Soru Ekle
+              </button>
+            </div>
           </div>
-
-          <!-- Kategori Filtre Butonları -->
-          <div class="hub-filter-bar" id="hub-category-filters">
-            <button class="filter-btn active" data-category="all" onclick="app.filterTestHub('all')">Tüm Testler (538 Soru)</button>
-            <button class="filter-btn" data-category="Çıkmış Sınavlar" onclick="app.filterTestHub('Çıkmış Sınavlar')">📜 Çıkmış Sınavlar (2019-2026)</button>
-            <button class="filter-btn" data-category="Genel Kültür & Coğrafya" onclick="app.filterTestHub('Genel Kültür & Coğrafya')">🌍 Coğrafya Video Tarama</button>
-            <button class="filter-btn" data-category="Genel Kültür & Tarih" onclick="app.filterTestHub('Genel Kültür & Tarih')">🏛️ Genel Tarih Video Tarama</button>
-          </div>
-
-          <div class="grid-cards" id="topics-grid"></div>
         </section>
 
         <!-- VIEW: ACTIVE QUIZ RUNNER (ÖSYM STYLE) -->
@@ -829,14 +830,124 @@
     </div>
   </div>
 
+  <!-- MODAL: HIZLI SORU EKLEME MODALI (MANUEL SORU / ÇIKMIŞ SINAV SORUSU EKLEME) -->
+  <div class="modal" id="modal-add-single-question" onclick="app.closeAddQuestionModal(event)">
+    <div class="modal-content" style="max-width: 680px; max-height: 90vh; overflow-y: auto;" onclick="event.stopPropagation()">
+      <div class="modal-header" style="border-bottom: 1px solid var(--border-active); padding-bottom: 12px; margin-bottom: 16px;">
+        <div>
+          <h3 class="modal-title" style="display: flex; align-items: center; gap: 8px;">
+            <span>➕</span> <span id="add-q-target-title">Yeni Soru Ekle</span>
+          </h3>
+          <p style="font-size: 0.82rem; color: var(--text-secondary); margin: 4px 0 0 0;">
+            Seçili sınava / konuya yeni soru, şıklar, doğru cevap ve çözüm ekleyebilirsiniz.
+          </p>
+        </div>
+        <button class="modal-close" onclick="app.closeAddQuestionModal()">✕</button>
+      </div>
+
+      <form onsubmit="app.handleSaveCustomQuestion(event)">
+        <input type="hidden" id="add-q-filter-key" value="">
+        <input type="hidden" id="add-q-target-name" value="">
+
+        <!-- Soru Numarası & Başlık -->
+        <div style="display: grid; grid-template-columns: 100px 1fr; gap: 12px; margin-bottom: 14px;">
+          <div class="form-group" style="margin: 0;">
+            <label class="form-label">Soru No</label>
+            <input type="number" id="add-q-num" class="form-control" value="1" min="1" required>
+          </div>
+          <div class="form-group" style="margin: 0;">
+            <label class="form-label">Sınav / Test Başlığı</label>
+            <input type="text" id="add-q-header-title" class="form-control" placeholder="Örn: 2026 EKYS Çıkmış Sınavı" required>
+          </div>
+        </div>
+
+        <!-- Soru Metni -->
+        <div class="form-group" style="margin-bottom: 14px;">
+          <label class="form-label">Soru Metni (Öncüller, soru kökü)</label>
+          <textarea id="add-q-text" class="form-control" rows="4" placeholder="Soru metnini buraya yazın veya yapıştırın..." required></textarea>
+        </div>
+
+        <!-- Şıklar (A, B, C, D, E) -->
+        <label class="form-label" style="margin-bottom: 8px;">Seçenekler (A - E)</label>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
+          <div class="form-group" style="margin: 0;">
+            <div style="display: flex; align-items: center; gap: 6px;">
+              <span style="font-weight: 800; color: #818cf8; width: 20px;">A)</span>
+              <input type="text" id="add-q-opt-a" class="form-control" placeholder="A seçeneği..." required>
+            </div>
+          </div>
+          <div class="form-group" style="margin: 0;">
+            <div style="display: flex; align-items: center; gap: 6px;">
+              <span style="font-weight: 800; color: #818cf8; width: 20px;">B)</span>
+              <input type="text" id="add-q-opt-b" class="form-control" placeholder="B seçeneği..." required>
+            </div>
+          </div>
+          <div class="form-group" style="margin: 0;">
+            <div style="display: flex; align-items: center; gap: 6px;">
+              <span style="font-weight: 800; color: #818cf8; width: 20px;">C)</span>
+              <input type="text" id="add-q-opt-c" class="form-control" placeholder="C seçeneği..." required>
+            </div>
+          </div>
+          <div class="form-group" style="margin: 0;">
+            <div style="display: flex; align-items: center; gap: 6px;">
+              <span style="font-weight: 800; color: #818cf8; width: 20px;">D)</span>
+              <input type="text" id="add-q-opt-d" class="form-control" placeholder="D seçeneği..." required>
+            </div>
+          </div>
+          <div class="form-group" style="grid-column: span 2; margin: 0;">
+            <div style="display: flex; align-items: center; gap: 6px;">
+              <span style="font-weight: 800; color: #818cf8; width: 20px;">E)</span>
+              <input type="text" id="add-q-opt-e" class="form-control" placeholder="E seçeneği..." required>
+            </div>
+          </div>
+        </div>
+
+        <!-- Doğru Cevap & Harita/Görsel -->
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px;">
+          <div class="form-group" style="margin: 0;">
+            <label class="form-label">🔑 Doğru Cevap</label>
+            <select id="add-q-correct" class="form-control" style="font-weight: 700;">
+              <option value="A">A Şıkkı</option>
+              <option value="B">B Şıkkı</option>
+              <option value="C">C Şıkkı</option>
+              <option value="D">D Şıkkı</option>
+              <option value="E">E Şıkkı</option>
+            </select>
+          </div>
+          <div class="form-group" style="margin: 0;">
+            <label class="form-label">🖼️ Soru Görseli / Harita (İsteğe Bağlı)</label>
+            <input type="file" id="add-q-image-file" class="form-control" accept="image/*" onchange="app.handleQuestionImagePreview(event)">
+            <input type="hidden" id="add-q-image-base64" value="">
+          </div>
+        </div>
+
+        <!-- Görsel Önizleme -->
+        <div id="add-q-img-preview-box" style="display: none; margin-bottom: 14px; text-align: center;">
+          <img id="add-q-img-preview" src="" style="max-height: 140px; border-radius: 8px; border: 1px solid var(--border-active);" alt="Önizleme">
+        </div>
+
+        <!-- Detaylı Çözüm & Açıklama -->
+        <div class="form-group" style="margin-bottom: 20px;">
+          <label class="form-label">💡 Çözüm & Doğru Cevap Açıklaması</label>
+          <textarea id="add-q-explanation" class="form-control" rows="2" placeholder="Örn: Doğru Cevap: A. Çünkü 1982 Anayasası madde 104 uyarınca..."></textarea>
+        </div>
+
+        <!-- Kaydet Butonu -->
+        <button type="submit" class="btn btn-primary btn-block" style="padding: 12px; font-weight: 700; font-size: 1rem;">
+          💾 Soruyu Kaydet ve Ekle
+        </button>
+      </form>
+    </div>
+  </div>
+
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=6.3"></script>
-  <script src="data/questions-db.js?v=6.3"></script>
-  <script src="services/storage-service.js?v=6.3"></script>
-  <script src="services/firebase-service.js?v=6.3"></script>
-  <script src="services/pdf-service.js?v=6.3"></script>
-  <script src="services/youtube-service.js?v=6.3"></script>
-  <script src="services/question-generator.js?v=6.3"></script>
-  <script src="app.js?v=6.3"></script>
+  <script src="data/ekys-sample-questions.js?v=6.4"></script>
+  <script src="data/questions-db.js?v=6.4"></script>
+  <script src="services/storage-service.js?v=6.4"></script>
+  <script src="services/firebase-service.js?v=6.4"></script>
+  <script src="services/pdf-service.js?v=6.4"></script>
+  <script src="services/youtube-service.js?v=6.4"></script>
+  <script src="services/question-generator.js?v=6.4"></script>
+  <script src="app.js?v=6.4"></script>
 </body>
 </html>

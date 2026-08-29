@@ -1,5 +1,5 @@
 // EKYS 2027 Service Worker (Network First Strategy - Canlı Otomatik Güncelleme)
-const CACHE_NAME = 'ekys-2027-v6.3';
+const CACHE_NAME = 'ekys-2027-v6.4';
 
 self.addEventListener('install', (e) => {
   self.skipWaiting();
