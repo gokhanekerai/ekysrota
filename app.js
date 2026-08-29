@@ -193,8 +193,447 @@ class EKYSApp {
   }
 
   filterTestHubCategory(cat) {
-    this.switchView('test-hub');
+    this.navigateTo('test-hub');
     this.filterTestHub(cat);
+  }
+
+  // --- ALT KONU SEÇİM VE QUIZ MOTORU ---
+  getSubTopicData() {
+    return {
+      'genel-kultur': {
+        title: '🌍 Genel Kültür Alt Konu Testleri (Soru 1-16)',
+        desc: 'Tarih, Coğrafya, Temel Yurttaşlık ve Güncel Olaylar arasından test seçin:',
+        items: [
+          {
+            id: 'tarih',
+            name: 'Tarih Testleri',
+            icon: '📜',
+            desc: 'İslamiyet Öncesi Türk Tarihi, Türk-İslam Devletleri, Osmanlı Tarihi ve Kültür Medeniyeti.',
+            filterKey: 'tarih',
+            badge: '%20 Genel Kültür'
+          },
+          {
+            id: 'cografya',
+            name: 'Coğrafya Testleri',
+            icon: '🗺️',
+            desc: 'Türkiye Fiziki, Beşeri ve Ekonomik Coğrafyası, Harita Bilgisi ve Doğal Kaynaklar.',
+            filterKey: 'cografya',
+            badge: '%20 Genel Kültür'
+          },
+          {
+            id: 'yurttaslik',
+            name: 'Temel Yurttaşlık Bilgisi',
+            icon: '🏛️',
+            desc: 'Temel Hukuk Kavramları, Türk Anayasa Tarihi, Devlet Yapısı ve İdari Teşkilat.',
+            filterKey: 'yurttaslik',
+            badge: '%20 Genel Kültür'
+          },
+          {
+            id: 'guncel',
+            name: 'Güncel / Kültürel Olaylar',
+            icon: '🌐',
+            desc: 'Türkiye ve Dünya ile İlgili Genel, Kültürel ve Güncel Sosyoekonomik Gelişmeler.',
+            filterKey: 'guncel',
+            badge: '%20 Genel Kültür'
+          }
+        ]
+      },
+      'inkilap': {
+        title: '⚔️ T.C. İnkılâp Tarihi ve Atatürkçülük (Soru 17-28)',
+        desc: 'Milli Mücadele, İlkeler, İnkılaplar ve Atatürk Dönemi konularından test seçin:',
+        items: [
+          {
+            id: 'inkilap_milli_mucadele',
+            name: 'Milli Mücadele Dönemi',
+            icon: '⚔️',
+            desc: 'Genelgeler, Kongreler, TBMM\'nin Açılması, Kurtuluş Savaşı Cepheleri, Mudanya ve Lozan.',
+            filterKey: 'inkilap',
+            badge: '%15 İnkılap Tarihi'
+          },
+          {
+            id: 'inkilap_ilkeler',
+            name: 'Atatürk İlkeleri ve İnkılapları',
+            icon: '💡',
+            desc: 'Cumhuriyetçilik, Milliyetçilik, Halkçılık, Devletçilik, Laiklik, İnkılapçılık ve Reformlar.',
+            filterKey: 'inkilap',
+            badge: '%15 İnkılap Tarihi'
+          },
+          {
+            id: 'inkilap_politika',
+            name: 'Türk İç ve Dış Politikası',
+            icon: '🤝',
+            desc: 'Çok Partili Hayat Denemeleri, Balkan Antantı, Sadabat Paktı, Montrö ve Hatay.',
+            filterKey: 'inkilap',
+            badge: '%15 İnkılap Tarihi'
+          },
+          {
+            id: 'inkilap_tum',
+            name: '🏆 Tüm İnkılap Tarihi Karma Testi',
+            icon: '🎯',
+            desc: 'Tüm İnkılap Tarihi ve Atatürkçülük soru havuzundan karma pratik ve süreli sınav.',
+            filterKey: 'inkilap',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'egitim': {
+        title: '🎓 Eğitim Bilimleri Alt Konu Testleri (Soru 29-40)',
+        desc: 'Eğitim Yönetimi, Liderlik, Ölçme ve Öğrenme Kuramları konularından test seçin:',
+        items: [
+          {
+            id: 'egitim_yonetim',
+            name: 'Eğitim Yönetimi ve Denetimi',
+            icon: '🏫',
+            desc: 'Yönetim Süreçleri, Okul Yönetimi, Denetim Kuramları ve Çağdaş Yaklaşımlar.',
+            filterKey: 'egitim',
+            badge: '%15 Eğitim Bilimleri'
+          },
+          {
+            id: 'egitim_liderlik',
+            name: 'Liderlik ve İletişim',
+            icon: '👥',
+            desc: 'Liderlik Kuramları, Örgütsel İletişim, Çatışma Yönetimi ve Motivasyon.',
+            filterKey: 'egitim',
+            badge: '%15 Eğitim Bilimleri'
+          },
+          {
+            id: 'egitim_olcme',
+            name: 'Ölçme ve Değerlendirme',
+            icon: '📊',
+            desc: 'Geçerlik, Güvenirlik, Madde ve Test İstatistikleri, Tamamlayıcı Değerlendirme.',
+            filterKey: 'egitim',
+            badge: '%15 Eğitim Bilimleri'
+          },
+          {
+            id: 'egitim_ogrenme',
+            name: 'Öğrenme ve Öğretim Kuramları',
+            icon: '🧠',
+            desc: 'Davranışçı, Bilişsel ve Yapılandırmacı Kuramlar, Öğretim Stratejileri ve Yöntemleri.',
+            filterKey: 'egitim',
+            badge: '%15 Eğitim Bilimleri'
+          }
+        ]
+      },
+      'maarif': {
+        title: '🌟 Türkiye Yüzyılı Maarif Modeli (Soru 41-64)',
+        desc: 'Ortak Metin, Beceriler, Erdem-Değer-Eylem ve Öğrenci Profili testleri:',
+        items: [
+          {
+            id: 'maarif_ortak_metin',
+            name: 'Öğretim Programları Ortak Metni',
+            icon: '📑',
+            desc: 'Maarif Modelinin Felsefesi, Temel Yaklaşımı, Öğrenme Tasarımı ve Esasları.',
+            filterKey: 'maarif',
+            badge: '%30 Maarif Modeli'
+          },
+          {
+            id: 'maarif_beceriler',
+            name: 'Beceriler Çerçevesi',
+            icon: '🧩',
+            desc: 'Kavramsal Beceriler, Alan Becerileri, Sosyo-Duygusal Beceriler ve Eğilimler.',
+            filterKey: 'maarif',
+            badge: '%30 Maarif Modeli'
+          },
+          {
+            id: 'maarif_erdem_deger',
+            name: 'Erdem - Değer - Eylem Modeli',
+            icon: '💎',
+            desc: 'Adalet, Saygı, Sorumluluk, Sevgi, Dostluk, Dürüstlük ve Özdenetim Değerleri.',
+            filterKey: 'maarif',
+            badge: '%30 Maarif Modeli'
+          },
+          {
+            id: 'maarif_ogrenci_profili',
+            name: 'Program Bileşenleri & Öğrenci Profili',
+            icon: '🎯',
+            desc: 'Yetkin ve Erdemli İnsan Profili, Farklılaştırılmış Öğretim ve Disiplinlerarası Yaklaşım.',
+            filterKey: 'maarif',
+            badge: '%30 Maarif Modeli'
+          }
+        ]
+      },
+      'mevzuat': {
+        title: '⚖️ Mevzuat Alt Konu Testleri (Soru 65-80)',
+        desc: '1982 Anayasası, MEB Temel Kanunları ve İlgili Mevzuattan test seçin:',
+        items: [
+          {
+            id: 'mevzuat_anayasa',
+            name: '1982 T.C. Anayasası',
+            icon: '📘',
+            desc: 'Temel Hak ve Ödevler, Yasama, Yürütme, Yargı ve İdare Esasları.',
+            filterKey: 'mevzuat_anayasa',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_657',
+            name: '657 Sayılı Devlet Memurları Kanunu',
+            icon: '📕',
+            desc: 'Genel İlkeler, Ödev ve Sorumluluklar, Haklar, Disiplin ve Cezalar.',
+            filterKey: 'mevzuat_657',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_1739',
+            name: '1739 Sayılı Millî Eğitim Temel Kanunu',
+            icon: '📙',
+            desc: 'Türk Millî Eğitiminin Temel İlkeleri, Okul Kademeleri ve Öğretmenlik Mesleği.',
+            filterKey: 'mevzuat_1739',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_222',
+            name: '222 Sayılı İlköğretim ve Eğitim Kanunu',
+            icon: '📗',
+            desc: 'İlköğretim Çağı, Kayıt-Kabul, Devam Takibi, Okul Gelirleri ve Cezalar.',
+            filterKey: 'mevzuat_222',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_5018',
+            name: '5018 Sayılı Kamu Mali Yönetimi Kanunu',
+            icon: '💰',
+            desc: 'Bütçe İlkeleri, Harcama Yetkilisi, Gerçekleştirme Görevlisi ve İç Kontrol.',
+            filterKey: 'mevzuat_5018',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_4483',
+            name: '4483 Sayılı Memurların Yargılanması Kanunu',
+            icon: '⚖️',
+            desc: 'Ön İnceleme, İzin Vermeye Yetkili Merciler ve Yargılama Usulü.',
+            filterKey: 'mevzuat_4483',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_4688',
+            name: '4688 Sayılı Kamu Görevlileri Sendikaları',
+            icon: '🤝',
+            desc: 'Sendika Kurulması, Organları, Toplu Sözleşme ve Sendikal Güvenceler.',
+            filterKey: 'mevzuat_4688',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_5442',
+            name: '5442 Sayılı İl İdaresi Kanunu',
+            icon: '🏢',
+            desc: 'Vali ve Kaymakamın Yetkileri, İl ve İlçe İdare Teşkilatı.',
+            filterKey: 'mevzuat_5442',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_3071',
+            name: '3071 Sayılı Dilekçe Hakkı Kanunu',
+            icon: '📄',
+            desc: 'Dilekçe Hakkının Kullanımı, Başvuru ve Cevap Verme Süreleri.',
+            filterKey: 'mevzuat_3071',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_1cbk',
+            name: '1 Sayılı CBK (Millî Eğitim Bakanlığı)',
+            icon: '🏛️',
+            desc: 'MEB Hizmet Birimleri, Görev ve Yetkileri ve Teşkilat Yapısı.',
+            filterKey: 'mevzuat_1cbk',
+            badge: '%20 Mevzuat'
+          },
+          {
+            id: 'mevzuat_tum',
+            name: '🏆 Tüm Mevzuat Karma Testi',
+            icon: '🎯',
+            desc: 'Tüm kanun ve yönetmeliklerden derlenmiş karma pratik ve sınav.',
+            filterKey: 'mevzuat',
+            badge: '58+ Soru'
+          }
+        ]
+      }
+    };
+  }
+
+  getQuestionsForFilter(filterKey) {
+    const allQuestions = window.storageService.getQuestions();
+    
+    return allQuestions.filter(q => {
+      const tId = (q.topicId || '').toLowerCase();
+      const tName = (q.topicName || q.testTitle || '').toLowerCase();
+      const qNum = parseInt(q.questionNumber, 10) || 0;
+      const qText = (q.questionText || '').toLowerCase();
+      const isCikmis = tName.includes('sınav') || tName.includes('sinav') || tId.includes('ekys');
+
+      if (filterKey === 'cografya') {
+        if (tId.includes('cogr') || tName.includes('coğrafya')) return true;
+        if (isCikmis && qNum >= 7 && qNum <= 12) return true;
+        if (qText.includes('coğrafya') || qText.includes('iklim') || qText.includes('harita') || qText.includes('erozyon') || qText.includes('jeomorfoloji')) return true;
+        return false;
+      }
+
+      if (filterKey === 'tarih') {
+        if (tId.includes('tarih') && !tId.includes('inkilap')) return true;
+        if (isCikmis && qNum >= 1 && qNum <= 6) return true;
+        if (qText.includes('osmanlı') || qText.includes('selçuklu') || qText.includes('göktürk') || qText.includes('türk-islam')) return true;
+        return false;
+      }
+
+      if (filterKey === 'yurttaslik') {
+        if (isCikmis && qNum >= 13 && qNum <= 14) return true;
+        if (qText.includes('yurttaşlık') || qText.includes('normlar') || qText.includes('fiil ehliyeti')) return true;
+        return false;
+      }
+
+      if (filterKey === 'guncel') {
+        if (isCikmis && qNum >= 15 && qNum <= 16) return true;
+        if (qText.includes('unesco') || qText.includes('nobel') || qText.includes('güncel')) return true;
+        return false;
+      }
+
+      if (filterKey === 'inkilap') {
+        if (isCikmis && qNum >= 17 && qNum <= 28) return true;
+        if (qText.includes('atatürk') || qText.includes('nutuk') || qText.includes('lozan') || qText.includes('amasya') || qText.includes('erzurum') || qText.includes('sivas') || qText.includes('cumhuriyetçilik') || qText.includes('laiklik')) return true;
+        return false;
+      }
+
+      if (filterKey === 'egitim') {
+        if (isCikmis && qNum >= 29 && qNum <= 40) return true;
+        if (qText.includes('eğitim') || qText.includes('denetim') || qText.includes('liderlik') || qText.includes('ölçme') || qText.includes('öğrenme')) return true;
+        return false;
+      }
+
+      if (filterKey === 'maarif') {
+        if (isCikmis && qNum >= 41 && qNum <= 64) return true;
+        if (qText.includes('maarif') || qText.includes('erdem') || qText.includes('beceri') || qText.includes('eylem')) return true;
+        return false;
+      }
+
+      if (filterKey === 'mevzuat_anayasa') {
+        return (isCikmis && (qNum === 65 || qNum === 66)) || qText.includes('anayasa') || qText.includes('1982');
+      }
+      if (filterKey === 'mevzuat_657') {
+        return (isCikmis && (qNum === 67 || qNum === 68)) || qText.includes('657');
+      }
+      if (filterKey === 'mevzuat_1739') {
+        return (isCikmis && (qNum === 69 || qNum === 70)) || qText.includes('1739');
+      }
+      if (filterKey === 'mevzuat_222') {
+        return (isCikmis && (qNum === 71 || qNum === 72)) || qText.includes('222');
+      }
+      if (filterKey === 'mevzuat_5018') {
+        return (isCikmis && qNum === 73) || qText.includes('5018');
+      }
+      if (filterKey === 'mevzuat_4483') {
+        return (isCikmis && qNum === 74) || qText.includes('4483');
+      }
+      if (filterKey === 'mevzuat_4688') {
+        return (isCikmis && qNum === 75) || qText.includes('4688');
+      }
+      if (filterKey === 'mevzuat_5442') {
+        return (isCikmis && qNum === 76) || qText.includes('5442');
+      }
+      if (filterKey === 'mevzuat_3071') {
+        return (isCikmis && qNum === 77) || qText.includes('3071');
+      }
+      if (filterKey === 'mevzuat_1cbk') {
+        return (isCikmis && (qNum === 78 || qNum === 79 || qNum === 80)) || qText.includes('kararname') || qText.includes('cbk');
+      }
+      if (filterKey === 'mevzuat') {
+        if (isCikmis && qNum >= 65 && qNum <= 80) return true;
+        if (qText.includes('kanun') || qText.includes('mevzuat') || qText.includes('yönetmelik')) return true;
+        return false;
+      }
+
+      return true;
+    });
+  }
+
+  openSubTopicModal(categoryKey) {
+    const dataMap = this.getSubTopicData();
+    const data = dataMap[categoryKey];
+    if (!data) return;
+
+    const modalTitleEl = document.getElementById('subtopic-modal-title');
+    const modalDescEl = document.getElementById('subtopic-modal-desc');
+    const modalGridEl = document.getElementById('subtopic-modal-cards-grid');
+
+    if (modalTitleEl) modalTitleEl.innerHTML = `<span>📚</span> ${data.title}`;
+    if (modalDescEl) modalDescEl.textContent = data.desc;
+
+    if (modalGridEl) {
+      modalGridEl.innerHTML = data.items.map(item => {
+        const questions = this.getQuestionsForFilter(item.filterKey);
+        const qCount = questions.length;
+
+        return `
+          <div class="card" style="border: 1px solid var(--border-active); background: rgba(30, 41, 59, 0.85); display: flex; flex-direction: column; justify-content: space-between;">
+            <div>
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <span style="font-size: 30px;">${item.icon}</span>
+                <div style="display: flex; gap: 6px; flex-wrap: wrap;">
+                  <span class="badge badge-info" style="font-size: 0.72rem; font-weight: 700;">
+                    ${qCount > 0 ? qCount + ' Soru Mevcut' : 'Test Hazır'}
+                  </span>
+                  <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; font-size: 0.72rem;">
+                    ${item.badge}
+                  </span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.08rem; font-weight: 700; margin-bottom: 6px; color: #ffffff;">${item.name}</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.4; margin-bottom: 16px;">
+                ${item.desc}
+              </p>
+            </div>
+            <div style="display: flex; gap: 8px; margin-top: auto;">
+              <button class="btn btn-primary btn-sm btn-block" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'practice')">
+                🎯 Pratik Çöz
+              </button>
+              <button class="btn btn-secondary btn-sm btn-block" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'exam')">
+                ⏱️ Süreli Sınav
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    const modal = document.getElementById('subtopic-modal');
+    if (modal) modal.style.display = 'flex';
+  }
+
+  closeSubTopicModal(event) {
+    if (event && event.target && event.target.id !== 'subtopic-modal' && !event.target.classList.contains('modal-close')) {
+      return;
+    }
+    const modal = document.getElementById('subtopic-modal');
+    if (modal) modal.style.display = 'none';
+  }
+
+  startSubTopicQuiz(filterKey, title, mode = 'practice') {
+    const modal = document.getElementById('subtopic-modal');
+    if (modal) modal.style.display = 'none';
+
+    let questions = this.getQuestionsForFilter(filterKey);
+    if (questions.length === 0) {
+      // Eğer spesifik filtrede az soru varsa ana kategoriyi al
+      const allQuestions = window.storageService.getQuestions();
+      questions = allQuestions.slice(0, 20);
+    }
+
+    this.activeQuiz = {
+      title: `${title} (${mode === 'exam' ? 'Süreli Sınav' : 'Öğrenme Modu'})`,
+      topicId: `subtopic_${filterKey}`,
+      mode: mode,
+      questions: this.shuffleArray([...questions]),
+      currentIndex: 0,
+      userAnswers: {},
+      struckOptions: {},
+      starred: {},
+      isFinished: false,
+      startTime: Date.now(),
+      durationSeconds: mode === 'exam' ? questions.length * 90 : 0,
+      elapsedSeconds: 0
+    };
+
+    this.navigateTo('quiz-active');
+    this.startQuizTimer();
+    this.renderCurrentQuestion();
+    this.showToast(`${title} başlatıldı (${questions.length} Soru)`, 'success');
   }
 
   renderTestHub() {

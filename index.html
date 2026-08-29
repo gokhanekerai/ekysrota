@@ -217,8 +217,8 @@
               <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
                 Tarih, Coğrafya, Temel Yurttaşlık Bilgisi, Güncel ve Kültürel Olaylar.
               </p>
-              <button class="btn btn-secondary btn-block btn-sm" onclick="app.filterTestHubCategory('Genel Kültür')">
-                Testleri Çöz
+              <button class="btn btn-secondary btn-block btn-sm" onclick="app.openSubTopicModal('genel-kultur')">
+                <span>📚</span> Testleri Çöz
               </button>
             </div>
 
@@ -235,8 +235,8 @@
               <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
                 Milli Mücadele Dönemi, Atatürk İlkeleri ve İnkılapları, Atatürk Dönemi Türk İç ve Dış Politikası.
               </p>
-              <button class="btn btn-secondary btn-block btn-sm" onclick="app.filterTestHubCategory('Tarih')">
-                Testleri Çöz
+              <button class="btn btn-secondary btn-block btn-sm" onclick="app.openSubTopicModal('inkilap')">
+                <span>📚</span> Testleri Çöz
               </button>
             </div>
 
@@ -253,8 +253,8 @@
               <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
                 Eğitim Yönetimi, Liderlik, İletişim, Ölçme-Değerlendirme, Öğrenme ve Öğretim Kuramları.
               </p>
-              <button class="btn btn-secondary btn-block btn-sm" onclick="app.filterTestHubCategory('Eğitim')">
-                Testleri Çöz
+              <button class="btn btn-secondary btn-block btn-sm" onclick="app.openSubTopicModal('egitim')">
+                <span>📚</span> Testleri Çöz
               </button>
             </div>
 
@@ -271,8 +271,8 @@
               <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
                 Öğretim Programları Ortak Metni, Beceriler Çerçevesi, Erdem-Değer-Eylem, Program Bileşenleri.
               </p>
-              <button class="btn btn-primary btn-block btn-sm" onclick="app.filterTestHubCategory('Maarif')">
-                Testleri Çöz
+              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('maarif')">
+                <span>📚</span> Testleri Çöz
               </button>
             </div>
 
@@ -289,8 +289,8 @@
               <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
                 1982 Anayasası, 222, 1739, 657, 4688, 5018, 5442, 3071, 4483 sayılı Kanunlar ve 1 sayılı CBK.
               </p>
-              <button class="btn btn-secondary btn-block btn-sm" onclick="app.filterTestHubCategory('Mevzuat')">
-                Testleri Çöz
+              <button class="btn btn-secondary btn-block btn-sm" onclick="app.openSubTopicModal('mevzuat')">
+                <span>📚</span> Testleri Çöz
               </button>
             </div>
           </div>
@@ -655,6 +655,28 @@
 
   <!-- ==================== MODALS ==================== -->
 
+  <!-- MODAL: ALT KONU TEST SEÇİMİ (SUB-TOPIC QUIZ MODAL) -->
+  <div class="modal" id="subtopic-modal" onclick="app.closeSubTopicModal(event)">
+    <div class="modal-content" style="max-width: 760px; max-height: 90vh; overflow-y: auto;" onclick="event.stopPropagation()">
+      <div class="modal-header" style="border-bottom: 1px solid var(--border-active); padding-bottom: 14px; margin-bottom: 16px;">
+        <div>
+          <h3 class="modal-title" id="subtopic-modal-title" style="display: flex; align-items: center; gap: 8px;">
+            <span>📚</span> Alt Konu Testleri
+          </h3>
+          <p id="subtopic-modal-desc" style="font-size: 0.82rem; color: var(--text-secondary); margin-top: 4px; margin-bottom: 0;">
+            Çalışmak istediğiniz alt konu başlığını seçerek test veya sınav başlatabilirsiniz.
+          </p>
+        </div>
+        <button class="modal-close" onclick="app.closeSubTopicModal()">✕</button>
+      </div>
+
+      <!-- Alt Konu Kartları Izgarası -->
+      <div class="grid-cards" id="subtopic-modal-cards-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px;">
+        <!-- Dinamik Alt Konu Kartları Buraya Render Edilecek -->
+      </div>
+    </div>
+  </div>
+
   <!-- MODAL: GÖRSEL BÜYÜTEÇ / LIGHTBOX (IMAGE ZOOM) -->
   <div class="modal modal-zoom" id="image-zoom-modal" onclick="app.closeImageZoom(event)">
     <div class="modal-zoom-content" onclick="event.stopPropagation()">
@@ -736,13 +758,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=4.0"></script>
-  <script src="data/questions-db.js?v=4.0"></script>
-  <script src="services/storage-service.js?v=4.0"></script>
-  <script src="services/firebase-service.js?v=4.0"></script>
-  <script src="services/pdf-service.js?v=4.0"></script>
-  <script src="services/youtube-service.js?v=4.0"></script>
-  <script src="services/question-generator.js?v=4.0"></script>
-  <script src="app.js?v=4.0"></script>
+  <script src="data/ekys-sample-questions.js?v=4.1"></script>
+  <script src="data/questions-db.js?v=4.1"></script>
+  <script src="services/storage-service.js?v=4.1"></script>
+  <script src="services/firebase-service.js?v=4.1"></script>
+  <script src="services/pdf-service.js?v=4.1"></script>
+  <script src="services/youtube-service.js?v=4.1"></script>
+  <script src="services/question-generator.js?v=4.1"></script>
+  <script src="app.js?v=4.1"></script>
 </body>
 </html>
