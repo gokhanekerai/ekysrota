@@ -195,6 +195,106 @@
             </div>
           </div>
 
+          <!-- Sınav Konuları & Soru Dağılımı Grid -->
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 24px; margin-bottom: 16px; flex-wrap: wrap; gap: 8px;">
+            <h2 style="font-size: 1.2rem; font-weight: 700; margin: 0; display: flex; align-items: center; gap: 8px;">
+              <span>📚</span> Sınav Konuları & Soru Dağılımı (80 Soru)
+            </h2>
+            <span class="badge badge-info" style="font-size: 0.8rem; padding: 4px 10px;">⏱️ 150 Dakika Sınav Süresi</span>
+          </div>
+
+          <div class="grid-cards" style="margin-bottom: 30px;">
+            <!-- 1. Genel Kültür -->
+            <div class="card" style="border: 1px solid rgba(99, 102, 241, 0.3);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">🌍</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; font-size: 0.72rem; font-weight: 700;">Soru 1-16</span>
+                  <span class="badge badge-warning" style="font-size: 0.72rem; font-weight: 700;">%20 (16 Soru)</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px;">Genel Kültür</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                Tarih, Coğrafya, Temel Yurttaşlık Bilgisi, Güncel ve Kültürel Olaylar.
+              </p>
+              <button class="btn btn-secondary btn-block btn-sm" onclick="app.filterTestHubCategory('Genel Kültür')">
+                Testleri Çöz
+              </button>
+            </div>
+
+            <!-- 2. T.C. İnkılâp Tarihi ve Atatürkçülük -->
+            <div class="card" style="border: 1px solid rgba(239, 68, 68, 0.3);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">⚔️</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(239, 68, 68, 0.2); color: #fca5a5; font-size: 0.72rem; font-weight: 700;">Soru 17-28</span>
+                  <span class="badge badge-warning" style="font-size: 0.72rem; font-weight: 700;">%15 (12 Soru)</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px;">T.C. İnkılâp Tarihi ve Atatürkçülük</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                Milli Mücadele Dönemi, Atatürk İlkeleri ve İnkılapları, Atatürk Dönemi Türk İç ve Dış Politikası.
+              </p>
+              <button class="btn btn-secondary btn-block btn-sm" onclick="app.filterTestHubCategory('Tarih')">
+                Testleri Çöz
+              </button>
+            </div>
+
+            <!-- 3. Eğitim Bilimleri -->
+            <div class="card" style="border: 1px solid rgba(16, 185, 129, 0.3);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">🎓</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #6ee7b7; font-size: 0.72rem; font-weight: 700;">Soru 29-40</span>
+                  <span class="badge badge-warning" style="font-size: 0.72rem; font-weight: 700;">%15 (12 Soru)</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px;">Eğitim Bilimleri</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                Eğitim Yönetimi, Liderlik, İletişim, Ölçme-Değerlendirme, Öğrenme ve Öğretim Kuramları.
+              </p>
+              <button class="btn btn-secondary btn-block btn-sm" onclick="app.filterTestHubCategory('Eğitim')">
+                Testleri Çöz
+              </button>
+            </div>
+
+            <!-- 4. Türkiye Yüzyılı Maarif Modeli -->
+            <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.4); background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(30, 41, 59, 0.8) 100%);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">🌟</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fde047; font-size: 0.72rem; font-weight: 700;">Soru 41-64</span>
+                  <span class="badge badge-warning" style="background: #f59e0b; color: #000; font-size: 0.72rem; font-weight: 800;">%30 (24 Soru)</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #fde68a;">Türkiye Yüzyılı Maarif Modeli</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                Öğretim Programları Ortak Metni, Beceriler Çerçevesi, Erdem-Değer-Eylem, Program Bileşenleri.
+              </p>
+              <button class="btn btn-primary btn-block btn-sm" onclick="app.filterTestHubCategory('Maarif')">
+                Testleri Çöz
+              </button>
+            </div>
+
+            <!-- 5. Mevzuat -->
+            <div class="card" style="border: 1px solid rgba(139, 92, 246, 0.35);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">⚖️</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(139, 92, 246, 0.2); color: #c4b5fd; font-size: 0.72rem; font-weight: 700;">Soru 65-80</span>
+                  <span class="badge badge-warning" style="font-size: 0.72rem; font-weight: 700;">%20 (16 Soru)</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px;">Mevzuat</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                1982 Anayasası, 222, 1739, 657, 4688, 5018, 5442, 3071, 4483 sayılı Kanunlar ve 1 sayılı CBK.
+              </p>
+              <button class="btn btn-secondary btn-block btn-sm" onclick="app.filterTestHubCategory('Mevzuat')">
+                Testleri Çöz
+              </button>
+            </div>
+          </div>
+
           <!-- Quick Actions Grid -->
           <h2 style="font-size: 1.2rem; font-weight: 700; margin-bottom: 16px;">🚀 Hızlı Başlat</h2>
           <div class="grid-cards" style="margin-bottom: 30px;">
@@ -636,13 +736,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=3.9"></script>
-  <script src="data/questions-db.js?v=3.9"></script>
-  <script src="services/storage-service.js?v=3.9"></script>
-  <script src="services/firebase-service.js?v=3.9"></script>
-  <script src="services/pdf-service.js?v=3.9"></script>
-  <script src="services/youtube-service.js?v=3.9"></script>
-  <script src="services/question-generator.js?v=3.9"></script>
-  <script src="app.js?v=3.9"></script>
+  <script src="data/ekys-sample-questions.js?v=4.0"></script>
+  <script src="data/questions-db.js?v=4.0"></script>
+  <script src="services/storage-service.js?v=4.0"></script>
+  <script src="services/firebase-service.js?v=4.0"></script>
+  <script src="services/pdf-service.js?v=4.0"></script>
+  <script src="services/youtube-service.js?v=4.0"></script>
+  <script src="services/question-generator.js?v=4.0"></script>
+  <script src="app.js?v=4.0"></script>
 </body>
 </html>
