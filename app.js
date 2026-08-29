@@ -1023,25 +1023,33 @@ class EKYSApp {
         : [];
 
       const userMap = new Map();
-      customUsers.forEach(u => userMap.set(u.email.toLowerCase(), { id: u.email, ...u }));
-      fbUsers.forEach(u => {
-        if (u.email) {
-          const key = u.email.toLowerCase();
-          const existing = userMap.get(key) || {};
-          userMap.set(key, { ...existing, ...u, id: u.id || u.email });
+
+      // 1. Master Admin (Ana Hesap)
+      userMap.set('admin', {
+        id: 'admin',
+        username: 'admin',
+        displayName: 'Gökhan Eker (Ana Yönetici)',
+        role: 'admin',
+        password: '•••••••• (Özel)',
+        createdAt: new Date().toISOString()
+      });
+
+      // 2. Yerel Eklenen Kullanıcılar
+      customUsers.forEach(u => {
+        const key = (u.username || u.email || '').trim().toLowerCase();
+        if (key && key !== 'admin') {
+          userMap.set(key, { ...u, id: key, username: key });
         }
       });
 
-      // Master Admin'i de listeye ekle
-      if (!userMap.has('admin@ekysrota.com')) {
-        userMap.set('admin@ekysrota.com', {
-          id: 'master_admin',
-          displayName: 'Gökhan Eker (Ana Yönetici)',
-          email: 'admin@ekysrota.com',
-          role: 'admin',
-          createdAt: new Date().toISOString()
-        });
-      }
+      // 3. Buluttaki Kullanıcılar
+      fbUsers.forEach(u => {
+        const key = (u.username || u.email || '').trim().toLowerCase();
+        if (key && key !== 'admin') {
+          const existing = userMap.get(key) || {};
+          userMap.set(key, { ...existing, ...u, id: key, username: key });
+        }
+      });
 
       const allUsers = Array.from(userMap.values());
 
@@ -1050,8 +1058,7 @@ class EKYSApp {
           <thead>
             <tr>
               <th>Kullanıcı Adı</th>
-              <th>E-posta</th>
-              <th>Şifre</th>
+              <th>Giriş Şifresi</th>
               <th>Yetki Rolü</th>
               <th>Kayıt Tarihi</th>
               <th>İşlem</th>
@@ -1060,9 +1067,8 @@ class EKYSApp {
           <tbody>
             ${allUsers.map(u => `
               <tr>
-                <td><strong>${u.displayName || u.name || 'Kullanıcı'}</strong></td>
-                <td><code style="color: #a5b4fc;">${u.email}</code></td>
-                <td><span style="font-family: monospace; font-size: 0.85rem; color: #34d399;">${u.password || '••••••••'}</span></td>
+                <td><strong style="color: #a5b4fc; font-size: 0.95rem;">👤 ${u.username || u.name}</strong></td>
+                <td><code style="font-family: monospace; font-size: 0.9rem; color: #34d399; background: rgba(52, 211, 153, 0.1); padding: 3px 8px; border-radius: 4px;">${u.password || '••••••'}</code></td>
                 <td>
                   <span class="badge ${u.role === 'admin' ? 'badge-warning' : 'badge-info'}" style="padding: 2px 8px; font-size: 0.75rem;">
                     ${u.role === 'admin' ? '👑 Yönetici' : '🎓 Öğrenci'}
@@ -1070,8 +1076,8 @@ class EKYSApp {
                 </td>
                 <td>${u.createdAt ? new Date(u.createdAt).toLocaleDateString('tr-TR') : 'Aktif'}</td>
                 <td>
-                  ${u.email === 'admin@ekysrota.com' ? '<span style="color: var(--text-secondary); font-size: 0.8rem;">(Ana Hesap)</span>' : `
-                    <button class="btn btn-danger btn-sm" onclick="app.handleAdminDeleteUser('${u.email}', '${u.displayName || u.name || u.email}')">
+                  ${(u.username === 'admin' || u.username === 'gokhan') ? '<span style="color: var(--text-secondary); font-size: 0.8rem;">(Ana Yönetici)</span>' : `
+                    <button class="btn btn-danger btn-sm" onclick="app.handleAdminDeleteUser('${u.username}', '${u.username}')">
                       🗑️ Çıkar / Sil
                     </button>
                   `}
