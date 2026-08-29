@@ -1,4 +1,4 @@
-// EKYS 2027 Kapsamlı Soru ve Görsel Veritabanı
+// EKYS 2027 Kapsamlı Soru ve Görsel Veritabanı (Tekil ve Net Sorular)
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr-tarama-1-q1",
@@ -15,23 +15,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -52,23 +52,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -89,23 +89,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -126,23 +126,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -163,23 +163,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -200,23 +200,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -237,23 +237,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -274,23 +274,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -311,23 +311,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -348,23 +348,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -385,23 +385,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -422,23 +422,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -459,23 +459,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -496,23 +496,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -533,23 +533,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -570,23 +570,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -607,23 +607,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -644,23 +644,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -681,23 +681,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -718,23 +718,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -755,23 +755,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -792,23 +792,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -829,23 +829,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -866,23 +866,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -903,23 +903,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -940,23 +940,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -977,23 +977,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -1014,23 +1014,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -1051,23 +1051,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -1088,23 +1088,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -1125,23 +1125,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -1162,23 +1162,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -1199,23 +1199,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -1236,23 +1236,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -1273,23 +1273,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -1310,23 +1310,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -1347,23 +1347,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -1384,23 +1384,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -1421,23 +1421,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -1458,23 +1458,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -1495,23 +1495,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -1532,23 +1532,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -1569,23 +1569,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -1606,23 +1606,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -1643,23 +1643,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -1680,23 +1680,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -1717,23 +1717,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -1754,23 +1754,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -1791,23 +1791,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -1828,23 +1828,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -1865,23 +1865,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -1902,23 +1902,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -1939,23 +1939,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -1976,23 +1976,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -2013,23 +2013,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -2050,23 +2050,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -2087,23 +2087,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -2124,23 +2124,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -2161,23 +2161,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -2198,23 +2198,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -2235,23 +2235,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -2272,23 +2272,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -2309,23 +2309,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -2346,23 +2346,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -2383,23 +2383,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -2420,23 +2420,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -2457,23 +2457,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -2494,23 +2494,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -2531,23 +2531,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -2568,23 +2568,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -2605,23 +2605,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "A",
@@ -2642,23 +2642,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -2679,23 +2679,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
@@ -2716,23 +2716,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -2753,23 +2753,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -2790,23 +2790,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "B",
@@ -2827,23 +2827,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "E",
@@ -2864,23 +2864,23 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "C",
@@ -2901,40 +2901,3703 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A Şıkkı"
+        "text": "A"
       },
       {
         "key": "B",
-        "text": "B Şıkkı"
+        "text": "B"
       },
       {
         "key": "C",
-        "text": "C Şıkkı"
+        "text": "C"
       },
       {
         "key": "D",
-        "text": "D Şıkkı"
+        "text": "D"
       },
       {
         "key": "E",
-        "text": "E Şıkkı"
+        "text": "E"
       }
     ],
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: D"
   },
   {
-    "id": "cikmis-2019-p1",
+    "id": "cikmis-2024-q1",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 1,
+    "questionText": "2024 EKYS Çıkmış Soru 1",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q1.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 1"
+  },
+  {
+    "id": "cikmis-2024-q2",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 2,
+    "questionText": "2024 EKYS Çıkmış Soru 2",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q2.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 2"
+  },
+  {
+    "id": "cikmis-2024-q3",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 3,
+    "questionText": "2024 EKYS Çıkmış Soru 3",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q3.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 3"
+  },
+  {
+    "id": "cikmis-2024-q4",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 4,
+    "questionText": "2024 EKYS Çıkmış Soru 4",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q4.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 4"
+  },
+  {
+    "id": "cikmis-2024-q5",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 5,
+    "questionText": "2024 EKYS Çıkmış Soru 5",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q5.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 5"
+  },
+  {
+    "id": "cikmis-2024-q6",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 6,
+    "questionText": "2024 EKYS Çıkmış Soru 6",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q6.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 6"
+  },
+  {
+    "id": "cikmis-2024-q7",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 7,
+    "questionText": "2024 EKYS Çıkmış Soru 7",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q7.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 7"
+  },
+  {
+    "id": "cikmis-2024-q8",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 8,
+    "questionText": "2024 EKYS Çıkmış Soru 8",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q8.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 8"
+  },
+  {
+    "id": "cikmis-2024-q9",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 9,
+    "questionText": "2024 EKYS Çıkmış Soru 9",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q9.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 9"
+  },
+  {
+    "id": "cikmis-2024-q10",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 10,
+    "questionText": "2024 EKYS Çıkmış Soru 10",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q10.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 10"
+  },
+  {
+    "id": "cikmis-2024-q11",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 11,
+    "questionText": "2024 EKYS Çıkmış Soru 11",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q11.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 11"
+  },
+  {
+    "id": "cikmis-2024-q12",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 12,
+    "questionText": "2024 EKYS Çıkmış Soru 12",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q12.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 12"
+  },
+  {
+    "id": "cikmis-2024-q13",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 13,
+    "questionText": "2024 EKYS Çıkmış Soru 13",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q13.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 13"
+  },
+  {
+    "id": "cikmis-2024-q14",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 14,
+    "questionText": "2024 EKYS Çıkmış Soru 14",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q14.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 14"
+  },
+  {
+    "id": "cikmis-2024-q15",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 15,
+    "questionText": "2024 EKYS Çıkmış Soru 15",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q15.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 15"
+  },
+  {
+    "id": "cikmis-2024-q16",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 16,
+    "questionText": "2024 EKYS Çıkmış Soru 16",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q16.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 16"
+  },
+  {
+    "id": "cikmis-2024-q17",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 17,
+    "questionText": "2024 EKYS Çıkmış Soru 17",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q17.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 17"
+  },
+  {
+    "id": "cikmis-2024-q18",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 18,
+    "questionText": "2024 EKYS Çıkmış Soru 18",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q18.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 18"
+  },
+  {
+    "id": "cikmis-2024-q19",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 19,
+    "questionText": "2024 EKYS Çıkmış Soru 19",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q19.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 19"
+  },
+  {
+    "id": "cikmis-2024-q20",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 20,
+    "questionText": "2024 EKYS Çıkmış Soru 20",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q20.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 20"
+  },
+  {
+    "id": "cikmis-2024-q21",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 21,
+    "questionText": "2024 EKYS Çıkmış Soru 21",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q21.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 21"
+  },
+  {
+    "id": "cikmis-2024-q22",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 22,
+    "questionText": "2024 EKYS Çıkmış Soru 22",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q22.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 22"
+  },
+  {
+    "id": "cikmis-2024-q23",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 23,
+    "questionText": "2024 EKYS Çıkmış Soru 23",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q23.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 23"
+  },
+  {
+    "id": "cikmis-2024-q24",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 24,
+    "questionText": "2024 EKYS Çıkmış Soru 24",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q24.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 24"
+  },
+  {
+    "id": "cikmis-2024-q25",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 25,
+    "questionText": "2024 EKYS Çıkmış Soru 25",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q25.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 25"
+  },
+  {
+    "id": "cikmis-2024-q26",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 26,
+    "questionText": "2024 EKYS Çıkmış Soru 26",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q26.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 26"
+  },
+  {
+    "id": "cikmis-2024-q27",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 27,
+    "questionText": "2024 EKYS Çıkmış Soru 27",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q27.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 27"
+  },
+  {
+    "id": "cikmis-2024-q28",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 28,
+    "questionText": "2024 EKYS Çıkmış Soru 28",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q28.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 28"
+  },
+  {
+    "id": "cikmis-2024-q29",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 29,
+    "questionText": "2024 EKYS Çıkmış Soru 29",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q29.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 29"
+  },
+  {
+    "id": "cikmis-2024-q30",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 30,
+    "questionText": "2024 EKYS Çıkmış Soru 30",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q30.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 30"
+  },
+  {
+    "id": "cikmis-2024-q31",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 31,
+    "questionText": "2024 EKYS Çıkmış Soru 31",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q31.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 31"
+  },
+  {
+    "id": "cikmis-2024-q32",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 32,
+    "questionText": "2024 EKYS Çıkmış Soru 32",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q32.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 32"
+  },
+  {
+    "id": "cikmis-2024-q33",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 33,
+    "questionText": "2024 EKYS Çıkmış Soru 33",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q33.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 33"
+  },
+  {
+    "id": "cikmis-2024-q34",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 34,
+    "questionText": "2024 EKYS Çıkmış Soru 34",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q34.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 34"
+  },
+  {
+    "id": "cikmis-2024-q35",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 35,
+    "questionText": "2024 EKYS Çıkmış Soru 35",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q35.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 35"
+  },
+  {
+    "id": "cikmis-2024-q36",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 36,
+    "questionText": "2024 EKYS Çıkmış Soru 36",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q36.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 36"
+  },
+  {
+    "id": "cikmis-2024-q37",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 37,
+    "questionText": "2024 EKYS Çıkmış Soru 37",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q37.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 37"
+  },
+  {
+    "id": "cikmis-2024-q38",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 38,
+    "questionText": "2024 EKYS Çıkmış Soru 38",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q38.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 38"
+  },
+  {
+    "id": "cikmis-2024-q39",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 39,
+    "questionText": "2024 EKYS Çıkmış Soru 39",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q39.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 39"
+  },
+  {
+    "id": "cikmis-2024-q40",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 40,
+    "questionText": "2024 EKYS Çıkmış Soru 40",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q40.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 40"
+  },
+  {
+    "id": "cikmis-2024-q41",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 41,
+    "questionText": "2024 EKYS Çıkmış Soru 41",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q41.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 41"
+  },
+  {
+    "id": "cikmis-2024-q42",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 42,
+    "questionText": "2024 EKYS Çıkmış Soru 42",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q42.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 42"
+  },
+  {
+    "id": "cikmis-2024-q43",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 43,
+    "questionText": "2024 EKYS Çıkmış Soru 43",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q43.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 43"
+  },
+  {
+    "id": "cikmis-2024-q44",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 44,
+    "questionText": "2024 EKYS Çıkmış Soru 44",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q44.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 44"
+  },
+  {
+    "id": "cikmis-2024-q45",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 45,
+    "questionText": "2024 EKYS Çıkmış Soru 45",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q45.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 45"
+  },
+  {
+    "id": "cikmis-2024-q46",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 46,
+    "questionText": "2024 EKYS Çıkmış Soru 46",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q46.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 46"
+  },
+  {
+    "id": "cikmis-2024-q47",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 47,
+    "questionText": "2024 EKYS Çıkmış Soru 47",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q47.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 47"
+  },
+  {
+    "id": "cikmis-2024-q48",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 48,
+    "questionText": "2024 EKYS Çıkmış Soru 48",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q48.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 48"
+  },
+  {
+    "id": "cikmis-2024-q49",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 49,
+    "questionText": "2024 EKYS Çıkmış Soru 49",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q49.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 49"
+  },
+  {
+    "id": "cikmis-2024-q50",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 50,
+    "questionText": "2024 EKYS Çıkmış Soru 50",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q50.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 50"
+  },
+  {
+    "id": "cikmis-2024-q51",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 51,
+    "questionText": "2024 EKYS Çıkmış Soru 51",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q51.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 51"
+  },
+  {
+    "id": "cikmis-2024-q52",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 52,
+    "questionText": "2024 EKYS Çıkmış Soru 52",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q52.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 52"
+  },
+  {
+    "id": "cikmis-2024-q53",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 53,
+    "questionText": "2024 EKYS Çıkmış Soru 53",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q53.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 53"
+  },
+  {
+    "id": "cikmis-2024-q54",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 54,
+    "questionText": "2024 EKYS Çıkmış Soru 54",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q54.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 54"
+  },
+  {
+    "id": "cikmis-2024-q55",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 55,
+    "questionText": "2024 EKYS Çıkmış Soru 55",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q55.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 55"
+  },
+  {
+    "id": "cikmis-2024-q56",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 56,
+    "questionText": "2024 EKYS Çıkmış Soru 56",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q56.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 56"
+  },
+  {
+    "id": "cikmis-2024-q57",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 57,
+    "questionText": "2024 EKYS Çıkmış Soru 57",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q57.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 57"
+  },
+  {
+    "id": "cikmis-2024-q58",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 58,
+    "questionText": "2024 EKYS Çıkmış Soru 58",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q58.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 58"
+  },
+  {
+    "id": "cikmis-2024-q59",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 59,
+    "questionText": "2024 EKYS Çıkmış Soru 59",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q59.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 59"
+  },
+  {
+    "id": "cikmis-2024-q60",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 60,
+    "questionText": "2024 EKYS Çıkmış Soru 60",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q60.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 60"
+  },
+  {
+    "id": "cikmis-2024-q61",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 61,
+    "questionText": "2024 EKYS Çıkmış Soru 61",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q61.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 61"
+  },
+  {
+    "id": "cikmis-2024-q62",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 62,
+    "questionText": "2024 EKYS Çıkmış Soru 62",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q62.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 62"
+  },
+  {
+    "id": "cikmis-2024-q63",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 63,
+    "questionText": "2024 EKYS Çıkmış Soru 63",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q63.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 63"
+  },
+  {
+    "id": "cikmis-2024-q64",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 64,
+    "questionText": "2024 EKYS Çıkmış Soru 64",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q64.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 64"
+  },
+  {
+    "id": "cikmis-2024-q65",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 65,
+    "questionText": "2024 EKYS Çıkmış Soru 65",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q65.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 65"
+  },
+  {
+    "id": "cikmis-2024-q66",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 66,
+    "questionText": "2024 EKYS Çıkmış Soru 66",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q66.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 66"
+  },
+  {
+    "id": "cikmis-2024-q67",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 67,
+    "questionText": "2024 EKYS Çıkmış Soru 67",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q67.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 67"
+  },
+  {
+    "id": "cikmis-2024-q68",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 68,
+    "questionText": "2024 EKYS Çıkmış Soru 68",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q68.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 68"
+  },
+  {
+    "id": "cikmis-2024-q69",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 69,
+    "questionText": "2024 EKYS Çıkmış Soru 69",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q69.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 69"
+  },
+  {
+    "id": "cikmis-2024-q70",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 70,
+    "questionText": "2024 EKYS Çıkmış Soru 70",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q70.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 70"
+  },
+  {
+    "id": "cikmis-2024-q71",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 71,
+    "questionText": "2024 EKYS Çıkmış Soru 71",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q71.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 71"
+  },
+  {
+    "id": "cikmis-2024-q72",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 72,
+    "questionText": "2024 EKYS Çıkmış Soru 72",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q72.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 72"
+  },
+  {
+    "id": "cikmis-2024-q73",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 73,
+    "questionText": "2024 EKYS Çıkmış Soru 73",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q73.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 73"
+  },
+  {
+    "id": "cikmis-2024-q74",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 74,
+    "questionText": "2024 EKYS Çıkmış Soru 74",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q74.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 74"
+  },
+  {
+    "id": "cikmis-2024-q75",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 75,
+    "questionText": "2024 EKYS Çıkmış Soru 75",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q75.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 75"
+  },
+  {
+    "id": "cikmis-2024-q76",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 76,
+    "questionText": "2024 EKYS Çıkmış Soru 76",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q76.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 76"
+  },
+  {
+    "id": "cikmis-2024-q77",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 77,
+    "questionText": "2024 EKYS Çıkmış Soru 77",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q77.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 77"
+  },
+  {
+    "id": "cikmis-2024-q78",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 78,
+    "questionText": "2024 EKYS Çıkmış Soru 78",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q78.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 78"
+  },
+  {
+    "id": "cikmis-2024-q79",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 79,
+    "questionText": "2024 EKYS Çıkmış Soru 79",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q79.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 79"
+  },
+  {
+    "id": "cikmis-2024-q80",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 80,
+    "questionText": "2024 EKYS Çıkmış Soru 80",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q80.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 80"
+  },
+  {
+    "id": "cikmis-2024-q81",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 81,
+    "questionText": "2024 EKYS Çıkmış Soru 81",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q81.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 81"
+  },
+  {
+    "id": "cikmis-2024-q82",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 82,
+    "questionText": "2024 EKYS Çıkmış Soru 82",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q82.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 82"
+  },
+  {
+    "id": "cikmis-2024-q83",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 83,
+    "questionText": "2024 EKYS Çıkmış Soru 83",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q83.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 83"
+  },
+  {
+    "id": "cikmis-2024-q84",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 84,
+    "questionText": "2024 EKYS Çıkmış Soru 84",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q84.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 84"
+  },
+  {
+    "id": "cikmis-2024-q85",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 85,
+    "questionText": "2024 EKYS Çıkmış Soru 85",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q85.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 85"
+  },
+  {
+    "id": "cikmis-2024-q86",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 86,
+    "questionText": "2024 EKYS Çıkmış Soru 86",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q86.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 86"
+  },
+  {
+    "id": "cikmis-2024-q87",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 87,
+    "questionText": "2024 EKYS Çıkmış Soru 87",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q87.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 87"
+  },
+  {
+    "id": "cikmis-2024-q88",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 88,
+    "questionText": "2024 EKYS Çıkmış Soru 88",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q88.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 88"
+  },
+  {
+    "id": "cikmis-2024-q89",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 89,
+    "questionText": "2024 EKYS Çıkmış Soru 89",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q89.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 89"
+  },
+  {
+    "id": "cikmis-2024-q90",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 90,
+    "questionText": "2024 EKYS Çıkmış Soru 90",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q90.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 90"
+  },
+  {
+    "id": "cikmis-2024-q91",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 91,
+    "questionText": "2024 EKYS Çıkmış Soru 91",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q91.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 91"
+  },
+  {
+    "id": "cikmis-2024-q92",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 92,
+    "questionText": "2024 EKYS Çıkmış Soru 92",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q92.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 92"
+  },
+  {
+    "id": "cikmis-2024-q93",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 93,
+    "questionText": "2024 EKYS Çıkmış Soru 93",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q93.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 93"
+  },
+  {
+    "id": "cikmis-2024-q94",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 94,
+    "questionText": "2024 EKYS Çıkmış Soru 94",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q94.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 94"
+  },
+  {
+    "id": "cikmis-2024-q95",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 95,
+    "questionText": "2024 EKYS Çıkmış Soru 95",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q95.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 95"
+  },
+  {
+    "id": "cikmis-2024-q96",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 96,
+    "questionText": "2024 EKYS Çıkmış Soru 96",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q96.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 96"
+  },
+  {
+    "id": "cikmis-2024-q97",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 97,
+    "questionText": "2024 EKYS Çıkmış Soru 97",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q97.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 97"
+  },
+  {
+    "id": "cikmis-2024-q98",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 98,
+    "questionText": "2024 EKYS Çıkmış Soru 98",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q98.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 98"
+  },
+  {
+    "id": "cikmis-2024-q99",
+    "testId": "cikmis-2024",
+    "testTitle": "2024 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2024",
+    "topicName": "2024 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 99,
+    "questionText": "2024 EKYS Çıkmış Soru 99",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2024_single_q99.jpeg",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2024 EKYS Soru 99"
+  },
+  {
+    "id": "cikmis-2019-q1",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 1,
-    "questionText": "2019 EKYS Soru Sayfası 1",
+    "questionText": "2019 EKYS Çıkmış Soru 1",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p1.png",
+    "image": "assets/questions/cikmis_2019_single_q1.png",
     "options": [
       {
         "key": "A",
@@ -2958,20 +6621,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "2019 EKYS Soru Sayfası 1 - Doğru Cevap: A"
+    "explanation": "2019 EKYS Soru 1"
   },
   {
-    "id": "cikmis-2019-p2",
+    "id": "cikmis-2019-q2",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 2,
-    "questionText": "2019 EKYS Soru Sayfası 2",
+    "questionText": "2019 EKYS Çıkmış Soru 2",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p2.png",
+    "image": "assets/questions/cikmis_2019_single_q2.png",
     "options": [
       {
         "key": "A",
@@ -2994,21 +6657,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 2 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 2"
   },
   {
-    "id": "cikmis-2019-p3",
+    "id": "cikmis-2019-q3",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 3,
-    "questionText": "2019 EKYS Soru Sayfası 3",
+    "questionText": "2019 EKYS Çıkmış Soru 3",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p3.png",
+    "image": "assets/questions/cikmis_2019_single_q3.png",
     "options": [
       {
         "key": "A",
@@ -3031,21 +6694,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "2019 EKYS Soru Sayfası 3 - Doğru Cevap: C"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 3"
   },
   {
-    "id": "cikmis-2019-p4",
+    "id": "cikmis-2019-q4",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 4,
-    "questionText": "2019 EKYS Soru Sayfası 4",
+    "questionText": "2019 EKYS Çıkmış Soru 4",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p4.png",
+    "image": "assets/questions/cikmis_2019_single_q4.png",
     "options": [
       {
         "key": "A",
@@ -3068,21 +6731,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "2019 EKYS Soru Sayfası 4 - Doğru Cevap: D"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 4"
   },
   {
-    "id": "cikmis-2019-p5",
+    "id": "cikmis-2019-q5",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 5,
-    "questionText": "2019 EKYS Soru Sayfası 5",
+    "questionText": "2019 EKYS Çıkmış Soru 5",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p5.png",
+    "image": "assets/questions/cikmis_2019_single_q5.png",
     "options": [
       {
         "key": "A",
@@ -3106,20 +6769,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "2019 EKYS Soru Sayfası 5 - Doğru Cevap: A"
+    "explanation": "2019 EKYS Soru 5"
   },
   {
-    "id": "cikmis-2019-p6",
+    "id": "cikmis-2019-q6",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 6,
-    "questionText": "2019 EKYS Soru Sayfası 6",
+    "questionText": "2019 EKYS Çıkmış Soru 6",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p6.png",
+    "image": "assets/questions/cikmis_2019_single_q6.png",
     "options": [
       {
         "key": "A",
@@ -3143,20 +6806,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "2019 EKYS Soru Sayfası 6 - Doğru Cevap: A"
+    "explanation": "2019 EKYS Soru 6"
   },
   {
-    "id": "cikmis-2019-p7",
+    "id": "cikmis-2019-q7",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 7,
-    "questionText": "2019 EKYS Soru Sayfası 7",
+    "questionText": "2019 EKYS Çıkmış Soru 7",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p7.png",
+    "image": "assets/questions/cikmis_2019_single_q7.png",
     "options": [
       {
         "key": "A",
@@ -3179,21 +6842,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "2019 EKYS Soru Sayfası 7 - Doğru Cevap: E"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 7"
   },
   {
-    "id": "cikmis-2019-p8",
+    "id": "cikmis-2019-q8",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 8,
-    "questionText": "2019 EKYS Soru Sayfası 8",
+    "questionText": "2019 EKYS Çıkmış Soru 8",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p8.png",
+    "image": "assets/questions/cikmis_2019_single_q8.png",
     "options": [
       {
         "key": "A",
@@ -3216,21 +6879,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 8 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 8"
   },
   {
-    "id": "cikmis-2019-p9",
+    "id": "cikmis-2019-q9",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 9,
-    "questionText": "2019 EKYS Soru Sayfası 9",
+    "questionText": "2019 EKYS Çıkmış Soru 9",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p9.png",
+    "image": "assets/questions/cikmis_2019_single_q9.png",
     "options": [
       {
         "key": "A",
@@ -3253,21 +6916,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 9 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 9"
   },
   {
-    "id": "cikmis-2019-p10",
+    "id": "cikmis-2019-q10",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 10,
-    "questionText": "2019 EKYS Soru Sayfası 10",
+    "questionText": "2019 EKYS Çıkmış Soru 10",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p10.png",
+    "image": "assets/questions/cikmis_2019_single_q10.png",
     "options": [
       {
         "key": "A",
@@ -3290,21 +6953,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "2019 EKYS Soru Sayfası 10 - Doğru Cevap: C"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 10"
   },
   {
-    "id": "cikmis-2019-p11",
+    "id": "cikmis-2019-q11",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 11,
-    "questionText": "2019 EKYS Soru Sayfası 11",
+    "questionText": "2019 EKYS Çıkmış Soru 11",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p11.png",
+    "image": "assets/questions/cikmis_2019_single_q11.png",
     "options": [
       {
         "key": "A",
@@ -3327,21 +6990,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 11 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 11"
   },
   {
-    "id": "cikmis-2019-p12",
+    "id": "cikmis-2019-q12",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 12,
-    "questionText": "2019 EKYS Soru Sayfası 12",
+    "questionText": "2019 EKYS Çıkmış Soru 12",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p12.png",
+    "image": "assets/questions/cikmis_2019_single_q12.png",
     "options": [
       {
         "key": "A",
@@ -3364,21 +7027,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "2019 EKYS Soru Sayfası 12 - Doğru Cevap: D"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 12"
   },
   {
-    "id": "cikmis-2019-p13",
+    "id": "cikmis-2019-q13",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 13,
-    "questionText": "2019 EKYS Soru Sayfası 13",
+    "questionText": "2019 EKYS Çıkmış Soru 13",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p13.png",
+    "image": "assets/questions/cikmis_2019_single_q13.png",
     "options": [
       {
         "key": "A",
@@ -3401,21 +7064,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "2019 EKYS Soru Sayfası 13 - Doğru Cevap: C"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 13"
   },
   {
-    "id": "cikmis-2019-p14",
+    "id": "cikmis-2019-q14",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 14,
-    "questionText": "2019 EKYS Soru Sayfası 14",
+    "questionText": "2019 EKYS Çıkmış Soru 14",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p14.png",
+    "image": "assets/questions/cikmis_2019_single_q14.png",
     "options": [
       {
         "key": "A",
@@ -3438,21 +7101,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "2019 EKYS Soru Sayfası 14 - Doğru Cevap: E"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 14"
   },
   {
-    "id": "cikmis-2019-p15",
+    "id": "cikmis-2019-q15",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 15,
-    "questionText": "2019 EKYS Soru Sayfası 15",
+    "questionText": "2019 EKYS Çıkmış Soru 15",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p15.png",
+    "image": "assets/questions/cikmis_2019_single_q15.png",
     "options": [
       {
         "key": "A",
@@ -3475,21 +7138,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "2019 EKYS Soru Sayfası 15 - Doğru Cevap: D"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 15"
   },
   {
-    "id": "cikmis-2019-p16",
+    "id": "cikmis-2019-q16",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 16,
-    "questionText": "2019 EKYS Soru Sayfası 16",
+    "questionText": "2019 EKYS Çıkmış Soru 16",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p16.png",
+    "image": "assets/questions/cikmis_2019_single_q16.png",
     "options": [
       {
         "key": "A",
@@ -3512,21 +7175,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "2019 EKYS Soru Sayfası 16 - Doğru Cevap: E"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 16"
   },
   {
-    "id": "cikmis-2019-p17",
+    "id": "cikmis-2019-q17",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 17,
-    "questionText": "2019 EKYS Soru Sayfası 17",
+    "questionText": "2019 EKYS Çıkmış Soru 17",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p17.png",
+    "image": "assets/questions/cikmis_2019_single_q17.png",
     "options": [
       {
         "key": "A",
@@ -3549,21 +7212,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "2019 EKYS Soru Sayfası 17 - Doğru Cevap: E"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 17"
   },
   {
-    "id": "cikmis-2019-p18",
+    "id": "cikmis-2019-q18",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 18,
-    "questionText": "2019 EKYS Soru Sayfası 18",
+    "questionText": "2019 EKYS Çıkmış Soru 18",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p18.png",
+    "image": "assets/questions/cikmis_2019_single_q18.png",
     "options": [
       {
         "key": "A",
@@ -3586,21 +7249,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "2019 EKYS Soru Sayfası 18 - Doğru Cevap: D"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 18"
   },
   {
-    "id": "cikmis-2019-p19",
+    "id": "cikmis-2019-q19",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 19,
-    "questionText": "2019 EKYS Soru Sayfası 19",
+    "questionText": "2019 EKYS Çıkmış Soru 19",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p19.png",
+    "image": "assets/questions/cikmis_2019_single_q19.png",
     "options": [
       {
         "key": "A",
@@ -3623,21 +7286,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 19 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 19"
   },
   {
-    "id": "cikmis-2019-p20",
+    "id": "cikmis-2019-q20",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 20,
-    "questionText": "2019 EKYS Soru Sayfası 20",
+    "questionText": "2019 EKYS Çıkmış Soru 20",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p20.png",
+    "image": "assets/questions/cikmis_2019_single_q20.png",
     "options": [
       {
         "key": "A",
@@ -3660,21 +7323,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "2019 EKYS Soru Sayfası 20 - Doğru Cevap: C"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 20"
   },
   {
-    "id": "cikmis-2019-p21",
+    "id": "cikmis-2019-q21",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 21,
-    "questionText": "2019 EKYS Soru Sayfası 21",
+    "questionText": "2019 EKYS Çıkmış Soru 21",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p21.png",
+    "image": "assets/questions/cikmis_2019_single_q21.png",
     "options": [
       {
         "key": "A",
@@ -3697,21 +7360,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 21 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 21"
   },
   {
-    "id": "cikmis-2019-p22",
+    "id": "cikmis-2019-q22",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 22,
-    "questionText": "2019 EKYS Soru Sayfası 22",
+    "questionText": "2019 EKYS Çıkmış Soru 22",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p22.png",
+    "image": "assets/questions/cikmis_2019_single_q22.png",
     "options": [
       {
         "key": "A",
@@ -3734,21 +7397,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "2019 EKYS Soru Sayfası 22 - Doğru Cevap: C"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 22"
   },
   {
-    "id": "cikmis-2019-p23",
+    "id": "cikmis-2019-q23",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 23,
-    "questionText": "2019 EKYS Soru Sayfası 23",
+    "questionText": "2019 EKYS Çıkmış Soru 23",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p23.png",
+    "image": "assets/questions/cikmis_2019_single_q23.png",
     "options": [
       {
         "key": "A",
@@ -3772,20 +7435,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "2019 EKYS Soru Sayfası 23 - Doğru Cevap: A"
+    "explanation": "2019 EKYS Soru 23"
   },
   {
-    "id": "cikmis-2019-p24",
+    "id": "cikmis-2019-q24",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 24,
-    "questionText": "2019 EKYS Soru Sayfası 24",
+    "questionText": "2019 EKYS Çıkmış Soru 24",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p24.png",
+    "image": "assets/questions/cikmis_2019_single_q24.png",
     "options": [
       {
         "key": "A",
@@ -3808,21 +7471,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "2019 EKYS Soru Sayfası 24 - Doğru Cevap: E"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 24"
   },
   {
-    "id": "cikmis-2019-p25",
+    "id": "cikmis-2019-q25",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 25,
-    "questionText": "2019 EKYS Soru Sayfası 25",
+    "questionText": "2019 EKYS Çıkmış Soru 25",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p25.png",
+    "image": "assets/questions/cikmis_2019_single_q25.png",
     "options": [
       {
         "key": "A",
@@ -3845,21 +7508,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 25 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 25"
   },
   {
-    "id": "cikmis-2019-p26",
+    "id": "cikmis-2019-q26",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 26,
-    "questionText": "2019 EKYS Soru Sayfası 26",
+    "questionText": "2019 EKYS Çıkmış Soru 26",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p26.png",
+    "image": "assets/questions/cikmis_2019_single_q26.png",
     "options": [
       {
         "key": "A",
@@ -3882,21 +7545,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 26 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 26"
   },
   {
-    "id": "cikmis-2019-p27",
+    "id": "cikmis-2019-q27",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 27,
-    "questionText": "2019 EKYS Soru Sayfası 27",
+    "questionText": "2019 EKYS Çıkmış Soru 27",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p27.png",
+    "image": "assets/questions/cikmis_2019_single_q27.png",
     "options": [
       {
         "key": "A",
@@ -3919,21 +7582,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "2019 EKYS Soru Sayfası 27 - Doğru Cevap: C"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 27"
   },
   {
-    "id": "cikmis-2019-p28",
+    "id": "cikmis-2019-q28",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 28,
-    "questionText": "2019 EKYS Soru Sayfası 28",
+    "questionText": "2019 EKYS Çıkmış Soru 28",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p28.png",
+    "image": "assets/questions/cikmis_2019_single_q28.png",
     "options": [
       {
         "key": "A",
@@ -3957,94 +7620,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "2019 EKYS Soru Sayfası 28 - Doğru Cevap: A"
+    "explanation": "2019 EKYS Soru 28"
   },
   {
-    "id": "cikmis-2019-p29",
+    "id": "cikmis-2019-q29",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 29,
-    "questionText": "2019 EKYS Soru Sayfası 29",
+    "questionText": "2019 EKYS Çıkmış Soru 29",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p29.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 29 - Doğru Cevap: B"
-  },
-  {
-    "id": "cikmis-2019-p30",
-    "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
-    "topicId": "cikmis-2019",
-    "topicName": "2019 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "📜",
-    "questionNumber": 30,
-    "questionText": "2019 EKYS Soru Sayfası 30",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p30.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "2019 EKYS Soru Sayfası 30 - Doğru Cevap: E"
-  },
-  {
-    "id": "cikmis-2019-p31",
-    "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
-    "topicId": "cikmis-2019",
-    "topicName": "2019 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "📜",
-    "questionNumber": 31,
-    "questionText": "2019 EKYS Soru Sayfası 31",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p31.png",
+    "image": "assets/questions/cikmis_2019_single_q29.png",
     "options": [
       {
         "key": "A",
@@ -4068,20 +7657,94 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "2019 EKYS Soru Sayfası 31 - Doğru Cevap: A"
+    "explanation": "2019 EKYS Soru 29"
   },
   {
-    "id": "cikmis-2019-p32",
+    "id": "cikmis-2019-q30",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 30,
+    "questionText": "2019 EKYS Çıkmış Soru 30",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q30.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 30"
+  },
+  {
+    "id": "cikmis-2019-q31",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 31,
+    "questionText": "2019 EKYS Çıkmış Soru 31",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q31.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 31"
+  },
+  {
+    "id": "cikmis-2019-q32",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 32,
-    "questionText": "2019 EKYS Soru Sayfası 32",
+    "questionText": "2019 EKYS Çıkmış Soru 32",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p32.png",
+    "image": "assets/questions/cikmis_2019_single_q32.png",
     "options": [
       {
         "key": "A",
@@ -4104,21 +7767,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "2019 EKYS Soru Sayfası 32 - Doğru Cevap: E"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 32"
   },
   {
-    "id": "cikmis-2019-p33",
+    "id": "cikmis-2019-q33",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 33,
-    "questionText": "2019 EKYS Soru Sayfası 33",
+    "questionText": "2019 EKYS Çıkmış Soru 33",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p33.png",
+    "image": "assets/questions/cikmis_2019_single_q33.png",
     "options": [
       {
         "key": "A",
@@ -4141,21 +7804,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "2019 EKYS Soru Sayfası 33 - Doğru Cevap: D"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 33"
   },
   {
-    "id": "cikmis-2019-p34",
+    "id": "cikmis-2019-q34",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 34,
-    "questionText": "2019 EKYS Soru Sayfası 34",
+    "questionText": "2019 EKYS Çıkmış Soru 34",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p34.png",
+    "image": "assets/questions/cikmis_2019_single_q34.png",
     "options": [
       {
         "key": "A",
@@ -4178,21 +7841,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "2019 EKYS Soru Sayfası 34 - Doğru Cevap: B"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 34"
   },
   {
-    "id": "cikmis-2019-p35",
+    "id": "cikmis-2019-q35",
     "testId": "cikmis-2019",
-    "testTitle": "2019 EKYS Çıkmış Sınav Soruları",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
     "topicId": "cikmis-2019",
     "topicName": "2019 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
     "icon": "📜",
     "questionNumber": 35,
-    "questionText": "2019 EKYS Soru Sayfası 35",
+    "questionText": "2019 EKYS Çıkmış Soru 35",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2019_p35.png",
+    "image": "assets/questions/cikmis_2019_single_q35.png",
     "options": [
       {
         "key": "A",
@@ -4215,8 +7878,1303 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "2019 EKYS Soru Sayfası 35 - Doğru Cevap: E"
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 35"
+  },
+  {
+    "id": "cikmis-2019-q36",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 36,
+    "questionText": "2019 EKYS Çıkmış Soru 36",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q36.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 36"
+  },
+  {
+    "id": "cikmis-2019-q37",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 37,
+    "questionText": "2019 EKYS Çıkmış Soru 37",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q37.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 37"
+  },
+  {
+    "id": "cikmis-2019-q38",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 38,
+    "questionText": "2019 EKYS Çıkmış Soru 38",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q38.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 38"
+  },
+  {
+    "id": "cikmis-2019-q39",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 39,
+    "questionText": "2019 EKYS Çıkmış Soru 39",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q39.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 39"
+  },
+  {
+    "id": "cikmis-2019-q40",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 40,
+    "questionText": "2019 EKYS Çıkmış Soru 40",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q40.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 40"
+  },
+  {
+    "id": "cikmis-2019-q41",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 41,
+    "questionText": "2019 EKYS Çıkmış Soru 41",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q41.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 41"
+  },
+  {
+    "id": "cikmis-2019-q42",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 42,
+    "questionText": "2019 EKYS Çıkmış Soru 42",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q42.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 42"
+  },
+  {
+    "id": "cikmis-2019-q43",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 43,
+    "questionText": "2019 EKYS Çıkmış Soru 43",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q43.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 43"
+  },
+  {
+    "id": "cikmis-2019-q44",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 44,
+    "questionText": "2019 EKYS Çıkmış Soru 44",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q44.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 44"
+  },
+  {
+    "id": "cikmis-2019-q45",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 45,
+    "questionText": "2019 EKYS Çıkmış Soru 45",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q45.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 45"
+  },
+  {
+    "id": "cikmis-2019-q46",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 46,
+    "questionText": "2019 EKYS Çıkmış Soru 46",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q46.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 46"
+  },
+  {
+    "id": "cikmis-2019-q47",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 47,
+    "questionText": "2019 EKYS Çıkmış Soru 47",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q47.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 47"
+  },
+  {
+    "id": "cikmis-2019-q48",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 48,
+    "questionText": "2019 EKYS Çıkmış Soru 48",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q48.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 48"
+  },
+  {
+    "id": "cikmis-2019-q49",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 49,
+    "questionText": "2019 EKYS Çıkmış Soru 49",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q49.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 49"
+  },
+  {
+    "id": "cikmis-2019-q50",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 50,
+    "questionText": "2019 EKYS Çıkmış Soru 50",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q50.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 50"
+  },
+  {
+    "id": "cikmis-2019-q51",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 51,
+    "questionText": "2019 EKYS Çıkmış Soru 51",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q51.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 51"
+  },
+  {
+    "id": "cikmis-2019-q52",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 52,
+    "questionText": "2019 EKYS Çıkmış Soru 52",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q52.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 52"
+  },
+  {
+    "id": "cikmis-2019-q53",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 53,
+    "questionText": "2019 EKYS Çıkmış Soru 53",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q53.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 53"
+  },
+  {
+    "id": "cikmis-2019-q54",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 54,
+    "questionText": "2019 EKYS Çıkmış Soru 54",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q54.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 54"
+  },
+  {
+    "id": "cikmis-2019-q55",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 55,
+    "questionText": "2019 EKYS Çıkmış Soru 55",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q55.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 55"
+  },
+  {
+    "id": "cikmis-2019-q56",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 56,
+    "questionText": "2019 EKYS Çıkmış Soru 56",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q56.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 56"
+  },
+  {
+    "id": "cikmis-2019-q57",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 57,
+    "questionText": "2019 EKYS Çıkmış Soru 57",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q57.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 57"
+  },
+  {
+    "id": "cikmis-2019-q58",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 58,
+    "questionText": "2019 EKYS Çıkmış Soru 58",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q58.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 58"
+  },
+  {
+    "id": "cikmis-2019-q59",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 59,
+    "questionText": "2019 EKYS Çıkmış Soru 59",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q59.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 59"
+  },
+  {
+    "id": "cikmis-2019-q60",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 60,
+    "questionText": "2019 EKYS Çıkmış Soru 60",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q60.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 60"
+  },
+  {
+    "id": "cikmis-2019-q61",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 61,
+    "questionText": "2019 EKYS Çıkmış Soru 61",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q61.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 61"
+  },
+  {
+    "id": "cikmis-2019-q62",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 62,
+    "questionText": "2019 EKYS Çıkmış Soru 62",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q62.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 62"
+  },
+  {
+    "id": "cikmis-2019-q63",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 63,
+    "questionText": "2019 EKYS Çıkmış Soru 63",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q63.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 63"
+  },
+  {
+    "id": "cikmis-2019-q64",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 64,
+    "questionText": "2019 EKYS Çıkmış Soru 64",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q64.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 64"
+  },
+  {
+    "id": "cikmis-2019-q65",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 65,
+    "questionText": "2019 EKYS Çıkmış Soru 65",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q65.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 65"
+  },
+  {
+    "id": "cikmis-2019-q66",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 66,
+    "questionText": "2019 EKYS Çıkmış Soru 66",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q66.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 66"
+  },
+  {
+    "id": "cikmis-2019-q67",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 67,
+    "questionText": "2019 EKYS Çıkmış Soru 67",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q67.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 67"
+  },
+  {
+    "id": "cikmis-2019-q68",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 68,
+    "questionText": "2019 EKYS Çıkmış Soru 68",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q68.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 68"
+  },
+  {
+    "id": "cikmis-2019-q69",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 69,
+    "questionText": "2019 EKYS Çıkmış Soru 69",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q69.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 69"
+  },
+  {
+    "id": "cikmis-2019-q70",
+    "testId": "cikmis-2019",
+    "testTitle": "2019 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2019",
+    "topicName": "2019 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 70,
+    "questionText": "2019 EKYS Çıkmış Soru 70",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2019_single_q70.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2019 EKYS Soru 70"
   },
   {
     "id": "cikmis-2020-q1",
@@ -4225,11 +9183,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 1,
     "questionText": "2020 EKYS Çıkmış Soru 1",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q1.png",
+    "image": "assets/questions/cikmis_2020_single_q1.png",
     "options": [
       {
         "key": "A",
@@ -4262,11 +9220,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 2,
     "questionText": "2020 EKYS Çıkmış Soru 2",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q2.png",
+    "image": "assets/questions/cikmis_2020_single_q2.png",
     "options": [
       {
         "key": "A",
@@ -4299,11 +9257,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 3,
     "questionText": "2020 EKYS Çıkmış Soru 3",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q3.png",
+    "image": "assets/questions/cikmis_2020_single_q3.png",
     "options": [
       {
         "key": "A",
@@ -4336,11 +9294,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 4,
     "questionText": "2020 EKYS Çıkmış Soru 4",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q4.png",
+    "image": "assets/questions/cikmis_2020_single_q4.png",
     "options": [
       {
         "key": "A",
@@ -4373,11 +9331,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 5,
     "questionText": "2020 EKYS Çıkmış Soru 5",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q5.png",
+    "image": "assets/questions/cikmis_2020_single_q5.png",
     "options": [
       {
         "key": "A",
@@ -4410,11 +9368,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 6,
     "questionText": "2020 EKYS Çıkmış Soru 6",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q6.png",
+    "image": "assets/questions/cikmis_2020_single_q6.png",
     "options": [
       {
         "key": "A",
@@ -4447,11 +9405,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 7,
     "questionText": "2020 EKYS Çıkmış Soru 7",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q7.png",
+    "image": "assets/questions/cikmis_2020_single_q7.png",
     "options": [
       {
         "key": "A",
@@ -4484,11 +9442,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 8,
     "questionText": "2020 EKYS Çıkmış Soru 8",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q8.png",
+    "image": "assets/questions/cikmis_2020_single_q8.png",
     "options": [
       {
         "key": "A",
@@ -4521,11 +9479,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 9,
     "questionText": "2020 EKYS Çıkmış Soru 9",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q9.png",
+    "image": "assets/questions/cikmis_2020_single_q9.png",
     "options": [
       {
         "key": "A",
@@ -4558,11 +9516,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 10,
     "questionText": "2020 EKYS Çıkmış Soru 10",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q10.png",
+    "image": "assets/questions/cikmis_2020_single_q10.png",
     "options": [
       {
         "key": "A",
@@ -4595,11 +9553,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 11,
     "questionText": "2020 EKYS Çıkmış Soru 11",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q11.png",
+    "image": "assets/questions/cikmis_2020_single_q11.png",
     "options": [
       {
         "key": "A",
@@ -4632,11 +9590,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 12,
     "questionText": "2020 EKYS Çıkmış Soru 12",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q12.png",
+    "image": "assets/questions/cikmis_2020_single_q12.png",
     "options": [
       {
         "key": "A",
@@ -4669,11 +9627,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 13,
     "questionText": "2020 EKYS Çıkmış Soru 13",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q13.png",
+    "image": "assets/questions/cikmis_2020_single_q13.png",
     "options": [
       {
         "key": "A",
@@ -4706,11 +9664,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 14,
     "questionText": "2020 EKYS Çıkmış Soru 14",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q14.png",
+    "image": "assets/questions/cikmis_2020_single_q14.png",
     "options": [
       {
         "key": "A",
@@ -4743,11 +9701,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 15,
     "questionText": "2020 EKYS Çıkmış Soru 15",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q15.png",
+    "image": "assets/questions/cikmis_2020_single_q15.png",
     "options": [
       {
         "key": "A",
@@ -4780,11 +9738,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 16,
     "questionText": "2020 EKYS Çıkmış Soru 16",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q16.png",
+    "image": "assets/questions/cikmis_2020_single_q16.png",
     "options": [
       {
         "key": "A",
@@ -4817,11 +9775,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 17,
     "questionText": "2020 EKYS Çıkmış Soru 17",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q17.png",
+    "image": "assets/questions/cikmis_2020_single_q17.png",
     "options": [
       {
         "key": "A",
@@ -4854,11 +9812,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 18,
     "questionText": "2020 EKYS Çıkmış Soru 18",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q18.png",
+    "image": "assets/questions/cikmis_2020_single_q18.png",
     "options": [
       {
         "key": "A",
@@ -4891,11 +9849,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 19,
     "questionText": "2020 EKYS Çıkmış Soru 19",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q19.png",
+    "image": "assets/questions/cikmis_2020_single_q19.png",
     "options": [
       {
         "key": "A",
@@ -4928,11 +9886,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 20,
     "questionText": "2020 EKYS Çıkmış Soru 20",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q20.png",
+    "image": "assets/questions/cikmis_2020_single_q20.png",
     "options": [
       {
         "key": "A",
@@ -4965,11 +9923,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 21,
     "questionText": "2020 EKYS Çıkmış Soru 21",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q21.png",
+    "image": "assets/questions/cikmis_2020_single_q21.png",
     "options": [
       {
         "key": "A",
@@ -5002,11 +9960,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 22,
     "questionText": "2020 EKYS Çıkmış Soru 22",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q22.png",
+    "image": "assets/questions/cikmis_2020_single_q22.png",
     "options": [
       {
         "key": "A",
@@ -5039,11 +9997,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 23,
     "questionText": "2020 EKYS Çıkmış Soru 23",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q23.png",
+    "image": "assets/questions/cikmis_2020_single_q23.png",
     "options": [
       {
         "key": "A",
@@ -5076,11 +10034,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 24,
     "questionText": "2020 EKYS Çıkmış Soru 24",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q24.png",
+    "image": "assets/questions/cikmis_2020_single_q24.png",
     "options": [
       {
         "key": "A",
@@ -5113,11 +10071,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 25,
     "questionText": "2020 EKYS Çıkmış Soru 25",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q25.png",
+    "image": "assets/questions/cikmis_2020_single_q25.png",
     "options": [
       {
         "key": "A",
@@ -5150,11 +10108,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 26,
     "questionText": "2020 EKYS Çıkmış Soru 26",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q26.png",
+    "image": "assets/questions/cikmis_2020_single_q26.png",
     "options": [
       {
         "key": "A",
@@ -5187,11 +10145,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 27,
     "questionText": "2020 EKYS Çıkmış Soru 27",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q27.png",
+    "image": "assets/questions/cikmis_2020_single_q27.png",
     "options": [
       {
         "key": "A",
@@ -5224,11 +10182,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 28,
     "questionText": "2020 EKYS Çıkmış Soru 28",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q28.png",
+    "image": "assets/questions/cikmis_2020_single_q28.png",
     "options": [
       {
         "key": "A",
@@ -5261,11 +10219,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 29,
     "questionText": "2020 EKYS Çıkmış Soru 29",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q29.png",
+    "image": "assets/questions/cikmis_2020_single_q29.png",
     "options": [
       {
         "key": "A",
@@ -5298,11 +10256,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 30,
     "questionText": "2020 EKYS Çıkmış Soru 30",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q30.png",
+    "image": "assets/questions/cikmis_2020_single_q30.png",
     "options": [
       {
         "key": "A",
@@ -5335,11 +10293,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 31,
     "questionText": "2020 EKYS Çıkmış Soru 31",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q31.png",
+    "image": "assets/questions/cikmis_2020_single_q31.png",
     "options": [
       {
         "key": "A",
@@ -5372,11 +10330,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 32,
     "questionText": "2020 EKYS Çıkmış Soru 32",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q32.png",
+    "image": "assets/questions/cikmis_2020_single_q32.png",
     "options": [
       {
         "key": "A",
@@ -5409,11 +10367,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 33,
     "questionText": "2020 EKYS Çıkmış Soru 33",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q33.png",
+    "image": "assets/questions/cikmis_2020_single_q33.png",
     "options": [
       {
         "key": "A",
@@ -5446,11 +10404,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cikmis-2020",
     "topicName": "2020 EKYS Sınavı",
     "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
+    "icon": "📜",
     "questionNumber": 34,
     "questionText": "2020 EKYS Çıkmış Soru 34",
     "hasImage": true,
-    "image": "assets/questions/cikmis_2020_q34.png",
+    "image": "assets/questions/cikmis_2020_single_q34.png",
     "options": [
       {
         "key": "A",
@@ -5475,6 +10433,1264 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "A",
     "explanation": "2020 EKYS Soru 34"
+  },
+  {
+    "id": "cikmis-2020-q35",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 35,
+    "questionText": "2020 EKYS Çıkmış Soru 35",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q35.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 35"
+  },
+  {
+    "id": "cikmis-2020-q36",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 36,
+    "questionText": "2020 EKYS Çıkmış Soru 36",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q36.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 36"
+  },
+  {
+    "id": "cikmis-2020-q37",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 37,
+    "questionText": "2020 EKYS Çıkmış Soru 37",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q37.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 37"
+  },
+  {
+    "id": "cikmis-2020-q38",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 38,
+    "questionText": "2020 EKYS Çıkmış Soru 38",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q38.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 38"
+  },
+  {
+    "id": "cikmis-2020-q39",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 39,
+    "questionText": "2020 EKYS Çıkmış Soru 39",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q39.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 39"
+  },
+  {
+    "id": "cikmis-2020-q40",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 40,
+    "questionText": "2020 EKYS Çıkmış Soru 40",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q40.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 40"
+  },
+  {
+    "id": "cikmis-2020-q41",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 41,
+    "questionText": "2020 EKYS Çıkmış Soru 41",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q41.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 41"
+  },
+  {
+    "id": "cikmis-2020-q42",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 42,
+    "questionText": "2020 EKYS Çıkmış Soru 42",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q42.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 42"
+  },
+  {
+    "id": "cikmis-2020-q43",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 43,
+    "questionText": "2020 EKYS Çıkmış Soru 43",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q43.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 43"
+  },
+  {
+    "id": "cikmis-2020-q44",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 44,
+    "questionText": "2020 EKYS Çıkmış Soru 44",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q44.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 44"
+  },
+  {
+    "id": "cikmis-2020-q45",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 45,
+    "questionText": "2020 EKYS Çıkmış Soru 45",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q45.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 45"
+  },
+  {
+    "id": "cikmis-2020-q46",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 46,
+    "questionText": "2020 EKYS Çıkmış Soru 46",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q46.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 46"
+  },
+  {
+    "id": "cikmis-2020-q47",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 47,
+    "questionText": "2020 EKYS Çıkmış Soru 47",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q47.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 47"
+  },
+  {
+    "id": "cikmis-2020-q48",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 48,
+    "questionText": "2020 EKYS Çıkmış Soru 48",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q48.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 48"
+  },
+  {
+    "id": "cikmis-2020-q49",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 49,
+    "questionText": "2020 EKYS Çıkmış Soru 49",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q49.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 49"
+  },
+  {
+    "id": "cikmis-2020-q50",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 50,
+    "questionText": "2020 EKYS Çıkmış Soru 50",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q50.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 50"
+  },
+  {
+    "id": "cikmis-2020-q51",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 51,
+    "questionText": "2020 EKYS Çıkmış Soru 51",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q51.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 51"
+  },
+  {
+    "id": "cikmis-2020-q52",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 52,
+    "questionText": "2020 EKYS Çıkmış Soru 52",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q52.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 52"
+  },
+  {
+    "id": "cikmis-2020-q53",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 53,
+    "questionText": "2020 EKYS Çıkmış Soru 53",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q53.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 53"
+  },
+  {
+    "id": "cikmis-2020-q54",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 54,
+    "questionText": "2020 EKYS Çıkmış Soru 54",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q54.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 54"
+  },
+  {
+    "id": "cikmis-2020-q55",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 55,
+    "questionText": "2020 EKYS Çıkmış Soru 55",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q55.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 55"
+  },
+  {
+    "id": "cikmis-2020-q56",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 56,
+    "questionText": "2020 EKYS Çıkmış Soru 56",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q56.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 56"
+  },
+  {
+    "id": "cikmis-2020-q57",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 57,
+    "questionText": "2020 EKYS Çıkmış Soru 57",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q57.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 57"
+  },
+  {
+    "id": "cikmis-2020-q58",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 58,
+    "questionText": "2020 EKYS Çıkmış Soru 58",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q58.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 58"
+  },
+  {
+    "id": "cikmis-2020-q59",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 59,
+    "questionText": "2020 EKYS Çıkmış Soru 59",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q59.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 59"
+  },
+  {
+    "id": "cikmis-2020-q60",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 60,
+    "questionText": "2020 EKYS Çıkmış Soru 60",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q60.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 60"
+  },
+  {
+    "id": "cikmis-2020-q61",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 61,
+    "questionText": "2020 EKYS Çıkmış Soru 61",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q61.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 61"
+  },
+  {
+    "id": "cikmis-2020-q62",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 62,
+    "questionText": "2020 EKYS Çıkmış Soru 62",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q62.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 62"
+  },
+  {
+    "id": "cikmis-2020-q63",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 63,
+    "questionText": "2020 EKYS Çıkmış Soru 63",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q63.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 63"
+  },
+  {
+    "id": "cikmis-2020-q64",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 64,
+    "questionText": "2020 EKYS Çıkmış Soru 64",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q64.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 64"
+  },
+  {
+    "id": "cikmis-2020-q65",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 65,
+    "questionText": "2020 EKYS Çıkmış Soru 65",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q65.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 65"
+  },
+  {
+    "id": "cikmis-2020-q66",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 66,
+    "questionText": "2020 EKYS Çıkmış Soru 66",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q66.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 66"
+  },
+  {
+    "id": "cikmis-2020-q67",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 67,
+    "questionText": "2020 EKYS Çıkmış Soru 67",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q67.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 67"
+  },
+  {
+    "id": "cikmis-2020-q68",
+    "testId": "cikmis-2020",
+    "testTitle": "2020 EKYS Çıkmış Soruları",
+    "topicId": "cikmis-2020",
+    "topicName": "2020 EKYS Sınavı",
+    "category": "Çıkmış Sınavlar",
+    "icon": "📜",
+    "questionNumber": 68,
+    "questionText": "2020 EKYS Çıkmış Soru 68",
+    "hasImage": true,
+    "image": "assets/questions/cikmis_2020_single_q68.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2020 EKYS Soru 68"
   },
   {
     "id": "cikmis-2021-q1",
@@ -14133,635 +20349,6 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "A",
     "explanation": "2023 EKYS Soru 74"
-  },
-  {
-    "id": "cikmis-2024-q1",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 1,
-    "questionText": "2024 EKYS Çıkmış Soru 1",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q1.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 1"
-  },
-  {
-    "id": "cikmis-2024-q2",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 2,
-    "questionText": "2024 EKYS Çıkmış Soru 2",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q2.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 2"
-  },
-  {
-    "id": "cikmis-2024-q3",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 3,
-    "questionText": "2024 EKYS Çıkmış Soru 3",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q3.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 3"
-  },
-  {
-    "id": "cikmis-2024-q4",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 4,
-    "questionText": "2024 EKYS Çıkmış Soru 4",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q4.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 4"
-  },
-  {
-    "id": "cikmis-2024-q5",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 5,
-    "questionText": "2024 EKYS Çıkmış Soru 5",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q5.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 5"
-  },
-  {
-    "id": "cikmis-2024-q6",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 6,
-    "questionText": "2024 EKYS Çıkmış Soru 6",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q6.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 6"
-  },
-  {
-    "id": "cikmis-2024-q7",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 7,
-    "questionText": "2024 EKYS Çıkmış Soru 7",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q7.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 7"
-  },
-  {
-    "id": "cikmis-2024-q8",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 8,
-    "questionText": "2024 EKYS Çıkmış Soru 8",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q8.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 8"
-  },
-  {
-    "id": "cikmis-2024-q9",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 9,
-    "questionText": "2024 EKYS Çıkmış Soru 9",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q9.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 9"
-  },
-  {
-    "id": "cikmis-2024-q10",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 10,
-    "questionText": "2024 EKYS Çıkmış Soru 10",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q10.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 10"
-  },
-  {
-    "id": "cikmis-2024-q11",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 11,
-    "questionText": "2024 EKYS Çıkmış Soru 11",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q11.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 11"
-  },
-  {
-    "id": "cikmis-2024-q12",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 12,
-    "questionText": "2024 EKYS Çıkmış Soru 12",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q12.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 12"
-  },
-  {
-    "id": "cikmis-2024-q13",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 13,
-    "questionText": "2024 EKYS Çıkmış Soru 13",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q13.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 13"
-  },
-  {
-    "id": "cikmis-2024-q14",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 14,
-    "questionText": "2024 EKYS Çıkmış Soru 14",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q14.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 14"
-  },
-  {
-    "id": "cikmis-2024-q15",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 15,
-    "questionText": "2024 EKYS Çıkmış Soru 15",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q15.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 15"
-  },
-  {
-    "id": "cikmis-2024-q16",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 16,
-    "questionText": "2024 EKYS Çıkmış Soru 16",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q16.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 16"
-  },
-  {
-    "id": "cikmis-2024-q17",
-    "testId": "cikmis-2024",
-    "testTitle": "2024 EKYS Çıkmış Soruları",
-    "topicId": "cikmis-2024",
-    "topicName": "2024 EKYS Sınavı",
-    "category": "Çıkmış Sınavlar",
-    "icon": "🎯",
-    "questionNumber": 17,
-    "questionText": "2024 EKYS Çıkmış Soru 17",
-    "hasImage": true,
-    "image": "assets/questions/cikmis_2024_q17.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "2024 EKYS Soru 17"
   },
   {
     "id": "cikmis-2025-q1",

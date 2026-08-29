@@ -526,15 +526,19 @@ body {
   border: 1px solid var(--border-color);
   background: #ffffff;
   cursor: zoom-in;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
 }
 
 .image-wrapper img {
   display: block;
   max-width: 100%;
+  width: auto;
   height: auto;
-  max-height: 480px;
+  max-height: 620px;
   object-fit: contain;
   margin: 0 auto;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
 }
 
 .image-zoom-overlay {
