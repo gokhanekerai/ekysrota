@@ -3,43 +3,97 @@
 class StorageService {
   constructor() {
     this.KEYS = {
-      TOPICS: 'ekys_topics_v1',
-      QUESTIONS: 'ekys_questions_v1',
-      WRONG_POOL: 'ekys_wrong_pool_v1',
-      QUIZ_HISTORY: 'ekys_quiz_history_v1',
-      SOURCES: 'ekys_sources_v1',
-      SETTINGS: 'ekys_settings_v1',
-      STATS: 'ekys_stats_v1'
+      TOPICS: 'ekys_topics_v2',
+      QUESTIONS: 'ekys_questions_v2',
+      WRONG_POOL: 'ekys_wrong_pool_v2',
+      FAVORITES: 'ekys_favorites_v2',
+      QUIZ_HISTORY: 'ekys_quiz_history_v2',
+      SOURCES: 'ekys_sources_v2',
+      SETTINGS: 'ekys_settings_v2',
+      STATS: 'ekys_stats_v2',
+      CUSTOM_USERS: 'ekys_local_users_v2'
     };
 
     this.initDefaults();
   }
 
   initDefaults() {
-    // Konu listesini başlat
-    if (!localStorage.getItem(this.KEYS.TOPICS)) {
-      const defaultTopics = (typeof window !== 'undefined' && window.EKYS_TOPICS) ? window.EKYS_TOPICS : [];
-      localStorage.setItem(this.KEYS.TOPICS, JSON.stringify(defaultTopics));
+    // 1. Soruları ve Konuları Birleştirerek Başlat
+    const allInitialQuestions = [];
+    
+    // Temel örnek sorular
+    if (typeof window !== 'undefined' && Array.isArray(window.INITIAL_QUESTIONS)) {
+      allInitialQuestions.push(...window.INITIAL_QUESTIONS);
+    }
+    // PDF'lerden çıkarılan 538 adet gerçek soru ve görseli
+    if (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) {
+      allInitialQuestions.push(...window.EKYS_EXTRACTED_QUESTIONS);
     }
 
-    // İlk açılışta hazır soruları yükle
-    if (!localStorage.getItem(this.KEYS.QUESTIONS)) {
-      const defaultQuestions = (typeof window !== 'undefined' && window.INITIAL_QUESTIONS) ? window.INITIAL_QUESTIONS : [];
-      localStorage.setItem(this.KEYS.QUESTIONS, JSON.stringify(defaultQuestions));
+    // Soruları yerel hafızaya yükle / senkronize et
+    const savedQuestions = this.getQuestions();
+    if (savedQuestions.length === 0) {
+      this.saveQuestions(allInitialQuestions);
+    } else {
+      // Yeni eklenen PDF soruları varsa mevcut havuzla birleştir
+      const merged = [...savedQuestions];
+      allInitialQuestions.forEach(q => {
+        if (!merged.find(item => item.id === q.id)) {
+          merged.push(q);
+        }
+      });
+      this.saveQuestions(merged);
     }
 
+    // 2. Dinamik Konu Listesini Oluştur
+    const baseTopics = (typeof window !== 'undefined' && Array.isArray(window.EKYS_TOPICS)) ? [...window.EKYS_TOPICS] : [];
+    
+    // Çıkarılan testlerden dinamik konuları ekle
+    const dynamicTopicMap = new Map();
+    const currentQuestions = this.getQuestions();
+    
+    currentQuestions.forEach(q => {
+      if (q.topicId && !baseTopics.find(t => t.id === q.topicId) && !dynamicTopicMap.has(q.topicId)) {
+        dynamicTopicMap.set(q.topicId, {
+          id: q.topicId,
+          name: q.topicName || q.testTitle || q.topicId,
+          category: q.category || 'Genel Soru Havuzu',
+          icon: q.icon || (q.category && q.category.includes('Coğrafya') ? '🌍' : q.category && q.category.includes('Tarih') ? '🏛️' : '🎯'),
+          targetQuestions: 20
+        });
+      }
+    });
+
+    dynamicTopicMap.forEach(dt => baseTopics.push(dt));
+
+    const savedTopics = this.getTopics();
+    if (savedTopics.length === 0) {
+      this.saveTopics(baseTopics);
+    } else {
+      const mergedTopics = [...savedTopics];
+      baseTopics.forEach(t => {
+        if (!mergedTopics.find(item => item.id === t.id)) {
+          mergedTopics.push(t);
+        }
+      });
+      this.saveTopics(mergedTopics);
+    }
+
+    // 3. Yanlış Defteri & Favoriler
     if (!localStorage.getItem(this.KEYS.WRONG_POOL)) {
       localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify([]));
     }
-
+    if (!localStorage.getItem(this.KEYS.FAVORITES)) {
+      localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify([]));
+    }
     if (!localStorage.getItem(this.KEYS.QUIZ_HISTORY)) {
       localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify([]));
     }
-
     if (!localStorage.getItem(this.KEYS.SOURCES)) {
       localStorage.setItem(this.KEYS.SOURCES, JSON.stringify([]));
     }
 
+    // 4. Ayarlar
     if (!localStorage.getItem(this.KEYS.SETTINGS)) {
       const defaultSettings = {
         theme: 'dark',
@@ -54,12 +108,12 @@ class StorageService {
     }
   }
 
-  // --- KONU & MÜFREDAT YÖNETİMİ (DİNAMİK EKLE / SİL / DÜZENLE) ---
+  // --- KONU & MÜFREDAT YÖNETİMİ ---
   getTopics() {
     try {
-      return JSON.parse(localStorage.getItem(this.KEYS.TOPICS)) || window.EKYS_TOPICS || [];
+      return JSON.parse(localStorage.getItem(this.KEYS.TOPICS)) || [];
     } catch (e) {
-      return window.EKYS_TOPICS || [];
+      return [];
     }
   }
 
@@ -81,28 +135,11 @@ class StorageService {
     return newTopic;
   }
 
-  updateTopic(topicId, updatedData) {
-    const topics = this.getTopics();
-    const index = topics.findIndex(t => t.id === topicId);
-    if (index !== -1) {
-      topics[index] = { ...topics[index], ...updatedData };
-      this.saveTopics(topics);
-      return topics[index];
-    }
-    return null;
-  }
-
   deleteTopic(topicId) {
     let topics = this.getTopics();
     topics = topics.filter(t => t.id !== topicId);
     this.saveTopics(topics);
     return topics;
-  }
-
-  resetTopicsToDefault() {
-    const defaultTopics = (typeof window !== 'undefined' && window.EKYS_TOPICS) ? window.EKYS_TOPICS : [];
-    this.saveTopics(defaultTopics);
-    return defaultTopics;
   }
 
   // --- SORULAR ---
@@ -119,12 +156,38 @@ class StorageService {
     localStorage.setItem(this.KEYS.QUESTIONS, JSON.stringify(questions));
   }
 
+  addQuestion(q) {
+    const questions = this.getQuestions();
+    const newQ = {
+      id: q.id || 'q_' + Date.now(),
+      topicId: q.topicId,
+      topicName: q.topicName || '',
+      category: q.category || 'Genel',
+      questionNumber: q.questionNumber || (questions.length + 1),
+      questionText: q.questionText || q.question || '',
+      hasImage: !!q.hasImage,
+      image: q.image || '',
+      options: q.options || [
+        { key: 'A', text: 'A' },
+        { key: 'B', text: 'B' },
+        { key: 'C', text: 'C' },
+        { key: 'D', text: 'D' },
+        { key: 'E', text: 'E' }
+      ],
+      correctAnswer: q.correctAnswer || 'A',
+      explanation: q.explanation || ''
+    };
+    questions.push(newQ);
+    this.saveQuestions(questions);
+    return newQ;
+  }
+
   addQuestions(newQuestions) {
     const existing = this.getQuestions();
     const merged = [...existing];
     
     newQuestions.forEach(q => {
-      if (!merged.find(item => item.id === q.id || (item.question === q.question && item.topicId === q.topicId))) {
+      if (!merged.find(item => item.id === q.id)) {
         merged.push(q);
       }
     });
@@ -133,7 +196,17 @@ class StorageService {
     return merged;
   }
 
-  // --- YANLIŞ HAVUZU (SPACED REPETITION) ---
+  getQuestionsByTopic(topicId) {
+    const all = this.getQuestions();
+    return all.filter(q => q.topicId === topicId);
+  }
+
+  getQuestionsByCategory(category) {
+    const all = this.getQuestions();
+    return all.filter(q => q.category === category);
+  }
+
+  // --- YANLIŞ HAVUZU (YANLIŞ DEFTERİ) ---
   getWrongPool() {
     try {
       return JSON.parse(localStorage.getItem(this.KEYS.WRONG_POOL)) || [];
@@ -142,51 +215,100 @@ class StorageService {
     }
   }
 
-  addToWrongPool(questionId, selectedAnswer, correctAnswer) {
+  addToWrongPool(question, userAnswer) {
     const pool = this.getWrongPool();
-    const existingIndex = pool.findIndex(item => item.questionId === questionId);
+    const existing = pool.find(item => item.id === question.id);
 
-    const wrongItem = {
-      questionId,
-      wrongCount: existingIndex >= 0 ? pool[existingIndex].wrongCount + 1 : 1,
-      lastFailedAt: new Date().toISOString(),
-      nextReviewDate: new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString(), // 1 gün sonra tekrar
-      solvedCorrectlyInReviewCount: 0
-    };
-
-    if (existingIndex >= 0) {
-      pool[existingIndex] = { ...pool[existingIndex], ...wrongItem };
+    if (existing) {
+      existing.wrongCount = (existing.wrongCount || 1) + 1;
+      existing.lastWrongDate = new Date().toISOString();
+      existing.lastUserAnswer = userAnswer;
     } else {
-      pool.push(wrongItem);
+      pool.push({
+        ...question,
+        wrongCount: 1,
+        addedDate: new Date().toISOString(),
+        lastWrongDate: new Date().toISOString(),
+        lastUserAnswer: userAnswer
+      });
     }
 
     localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
+    this.syncCloud();
+    return pool;
   }
 
-  markWrongPoolReviewed(questionId, isCorrect) {
+  removeFromWrongPool(questionId) {
     let pool = this.getWrongPool();
-    const item = pool.find(i => i.questionId === questionId);
-    
-    if (item) {
-      if (isCorrect) {
-        item.solvedCorrectlyInReviewCount = (item.solvedCorrectlyInReviewCount || 0) + 1;
-        // 2 kere doğru çözerse havuzdan çıkar
-        if (item.solvedCorrectlyInReviewCount >= 2) {
-          pool = pool.filter(i => i.questionId !== questionId);
-        } else {
-          // 3 gün sonraya ertele
-          item.nextReviewDate = new Date(Date.now() + 3 * 24 * 60 * 60 * 1000).toISOString();
-        }
-      } else {
-        item.wrongCount = (item.wrongCount || 1) + 1;
-        item.solvedCorrectlyInReviewCount = 0;
-        item.nextReviewDate = new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString();
-      }
-      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
+    pool = pool.filter(item => item.id !== questionId);
+    localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
+    this.syncCloud();
+    return pool;
+  }
+
+  // --- FAVORİ (YILDIZLI) SORULAR ---
+  getFavorites() {
+    try {
+      return JSON.parse(localStorage.getItem(this.KEYS.FAVORITES)) || [];
+    } catch (e) {
+      return [];
     }
   }
 
-  // --- KAYNAKLAR (PDF, VİDEO, NOTLAR) ---
+  toggleFavorite(question) {
+    let favs = this.getFavorites();
+    const idx = favs.findIndex(item => item.id === question.id);
+    let isFav = false;
+
+    if (idx !== -1) {
+      favs.splice(idx, 1);
+      isFav = false;
+    } else {
+      favs.push({ ...question, favoritedAt: new Date().toISOString() });
+      isFav = true;
+    }
+
+    localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(favs));
+    this.syncCloud();
+    return isFav;
+  }
+
+  isFavorite(questionId) {
+    const favs = this.getFavorites();
+    return favs.some(item => item.id === questionId);
+  }
+
+  // --- SINAV VE TEST GEÇMİŞİ ---
+  getQuizHistory() {
+    try {
+      return JSON.parse(localStorage.getItem(this.KEYS.QUIZ_HISTORY)) || [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  saveQuizResult(result) {
+    const history = this.getQuizHistory();
+    const entry = {
+      id: 'quiz_' + Date.now(),
+      date: new Date().toISOString(),
+      title: result.title || 'Genel Test',
+      totalQuestions: result.totalQuestions,
+      correctCount: result.correctCount,
+      wrongCount: result.wrongCount,
+      emptyCount: result.emptyCount || 0,
+      netScore: result.netScore || (result.correctCount - (result.wrongCount * 0.25)),
+      durationSeconds: result.durationSeconds || 0,
+      topicId: result.topicId || 'all'
+    };
+
+    history.unshift(entry);
+    localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(history.slice(0, 100)));
+    this.syncCloud();
+    return entry;
+  }
+
+  // --- KAYNAKLAR (PDF / METİN) ---
   getSources() {
     try {
       return JSON.parse(localStorage.getItem(this.KEYS.SOURCES)) || [];
@@ -199,39 +321,26 @@ class StorageService {
     const sources = this.getSources();
     const newSource = {
       id: 'src_' + Date.now(),
-      createdAt: new Date().toISOString(),
-      questionCount: 0,
-      ...source
+      type: source.type || 'pdf',
+      title: source.title,
+      text: source.text || '',
+      size: source.size || '0 KB',
+      topicId: source.topicId || 'mevzuat-657',
+      topicName: source.topicName || 'Genel',
+      createdAt: new Date().toISOString()
     };
     sources.unshift(newSource);
     localStorage.setItem(this.KEYS.SOURCES, JSON.stringify(sources));
+    this.syncCloud();
     return newSource;
   }
 
-  deleteSource(sourceId) {
-    const sources = this.getSources().filter(s => s.id !== sourceId);
+  deleteSource(id) {
+    let sources = this.getSources();
+    sources = sources.filter(s => s.id !== id);
     localStorage.setItem(this.KEYS.SOURCES, JSON.stringify(sources));
-  }
-
-  // --- TEST GEÇMİŞİ VE İSTATİSTİKLER ---
-  getQuizHistory() {
-    try {
-      return JSON.parse(localStorage.getItem(this.KEYS.QUIZ_HISTORY)) || [];
-    } catch (e) {
-      return [];
-    }
-  }
-
-  saveQuizResult(result) {
-    const history = this.getQuizHistory();
-    const newResult = {
-      id: 'res_' + Date.now(),
-      date: new Date().toISOString(),
-      ...result
-    };
-    history.unshift(newResult);
-    localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(history));
-    return newResult;
+    this.syncCloud();
+    return sources;
   }
 
   // --- AYARLAR ---
@@ -243,34 +352,38 @@ class StorageService {
     }
   }
 
-  saveSettings(newSettings) {
-    const current = this.getSettings();
-    const updated = { ...current, ...newSettings };
-    localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(updated));
-    return updated;
+  saveSettings(settings) {
+    localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(settings));
+    this.syncCloud();
   }
 
-  // --- TOPLU SIFIRLAMA VEYA YEDEK ALMA ---
+  syncCloud() {
+    if (typeof window !== 'undefined' && window.firebaseService) {
+      window.firebaseService.syncAllDataToCloud();
+    }
+  }
+
   exportAllData() {
     return {
-      version: '1.0',
-      exportedAt: new Date().toISOString(),
+      topics: this.getTopics(),
       questions: this.getQuestions(),
       wrongPool: this.getWrongPool(),
-      history: this.getQuizHistory(),
+      favorites: this.getFavorites(),
+      quizHistory: this.getQuizHistory(),
       sources: this.getSources(),
       settings: this.getSettings()
     };
   }
 
-  importAllData(jsonData) {
-    if (!jsonData || typeof jsonData !== 'object') return false;
-    if (jsonData.questions) localStorage.setItem(this.KEYS.QUESTIONS, JSON.stringify(jsonData.questions));
-    if (jsonData.wrongPool) localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(jsonData.wrongPool));
-    if (jsonData.history) localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(jsonData.history));
-    if (jsonData.sources) localStorage.setItem(this.KEYS.SOURCES, JSON.stringify(jsonData.sources));
-    if (jsonData.settings) localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(jsonData.settings));
-    return true;
+  importAllData(data) {
+    if (!data) return;
+    if (data.topics) this.saveTopics(data.topics);
+    if (data.questions) this.saveQuestions(data.questions);
+    if (data.wrongPool) localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
+    if (data.favorites) localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(data.favorites));
+    if (data.quizHistory) localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(data.quizHistory));
+    if (data.sources) localStorage.setItem(this.KEYS.SOURCES, JSON.stringify(data.sources));
+    if (data.settings) localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(data.settings));
   }
 }
 

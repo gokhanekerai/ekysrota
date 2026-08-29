@@ -4,13 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="theme-color" content="#0f172a">
-  <meta name="description" content="2027 MEB EKYS Sınavına Hazırlık, PDF ve Videolardan Test Üretme Platformu.">
-  <title>EKYS Rota | 2027 Yönetici Sınavı Hazırlık & Test Platformu</title>
+  <meta name="description" content="2027 MEB EKYS Yönetici Seçme Sınavı Soru Bankası, Çıkmış Sorular, Görsel Destekli Testler ve Çalışma Platformu.">
+  <title>EKYS Rota 2027 | Yönetici Sınavı Soru Bankası & Bulut Platformu</title>
   
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   
   <!-- PWA Manifest -->
   <link rel="manifest" href="manifest.json">
@@ -51,6 +51,15 @@
         </div>
       </div>
 
+      <!-- User Profile Card in Sidebar -->
+      <div class="sidebar-user-card" id="sidebar-user-section">
+        <div class="user-card-inner" id="user-profile-display">
+          <button class="btn btn-primary btn-block btn-sm" onclick="app.openAuthModal('login')">
+            <span>🔑</span> Giriş Yap / Kayıt Ol
+          </button>
+        </div>
+      </div>
+
       <nav class="nav-menu">
         <a class="nav-item active" data-view-target="dashboard">
           <span class="nav-icon">📊</span>
@@ -60,30 +69,31 @@
           <span class="nav-icon">📝</span>
           <span>Sınav & Test Merkezi</span>
         </a>
-        <a class="nav-item" onclick="app.openTopicManagerModal()">
-          <span class="nav-icon">⚙️</span>
-          <span>Konu & Müfredat</span>
-        </a>
-        <a class="nav-item" data-view-target="sources">
-          <span class="nav-icon">📂</span>
-          <span>Kaynaklarım (PDF/Video)</span>
-        </a>
-        <a class="nav-item" data-view-target="generate">
-          <span class="nav-icon">⚡</span>
-          <span>Soru Üretici</span>
-        </a>
         <a class="nav-item" data-view-target="wrong-pool">
           <span class="nav-icon">🔁</span>
           <span>Yanlış Defteri</span>
           <span id="badge-wrong-count" class="nav-badge" style="display: none;">0</span>
         </a>
+        <a class="nav-item" data-view-target="favorites">
+          <span class="nav-icon">⭐</span>
+          <span>Yıldızlı Sorular</span>
+          <span id="badge-fav-count" class="nav-badge" style="display: none;">0</span>
+        </a>
+        <a class="nav-item" onclick="app.openTopicManagerModal()">
+          <span class="nav-icon">📁</span>
+          <span>Konu & PDF Ekle</span>
+        </a>
         <a class="nav-item" data-view-target="stats">
           <span class="nav-icon">📈</span>
           <span>Başarı Analizi</span>
         </a>
+        <a class="nav-item" id="nav-admin-panel" data-view-target="admin-panel" style="display: none;">
+          <span class="nav-icon">👑</span>
+          <span>Yönetici Paneli</span>
+        </a>
         <a class="nav-item" data-view-target="settings">
-          <span class="nav-icon">🔧</span>
-          <span>Ayarlar & Yedek</span>
+          <span class="nav-icon">⚙️</span>
+          <span>Ayarlar & Bulut</span>
         </a>
       </nav>
     </aside>
@@ -104,11 +114,14 @@
         </div>
 
         <div class="header-actions">
+          <button class="btn btn-secondary btn-sm" id="btn-auth-user" onclick="app.openAuthModal()">
+            <span>👤</span> <span>Giriş Yap</span>
+          </button>
           <button class="btn btn-secondary btn-sm" onclick="app.openTopicManagerModal()">
-            ⚙️ Konuları Yönet
+            <span>➕</span> Konu / PDF Ekle
           </button>
           <button class="btn btn-primary btn-sm" onclick="app.startQuickQuiz(10)">
-            ⚡ Hızlı 10 Soru
+            <span>⚡</span> Hızlı 10 Soru
           </button>
         </div>
       </header>
@@ -119,7 +132,7 @@
         <section id="view-dashboard" class="view-section active">
           <div class="page-header">
             <h1 class="page-title">Hoş Geldiniz, Geleceğin Yöneticisi 👋</h1>
-            <p class="page-subtitle">2027 Mart EKYS hazırlığınız için kişisel çalışma alanınız.</p>
+            <p class="page-subtitle">2027 Mart EKYS hazırlığınız için kişisel soru bankanız ve çalışma alanınız.</p>
           </div>
 
           <!-- Quick Stats Grid -->
@@ -127,7 +140,7 @@
             <div class="card stat-card">
               <div class="stat-icon">📚</div>
               <div class="stat-info">
-                <div class="stat-value" id="stat-total-questions">0</div>
+                <div class="stat-value" id="stat-total-questions">538+</div>
                 <div class="stat-label">Toplam Soru Havuzu</div>
               </div>
             </div>
@@ -157,36 +170,36 @@
           <!-- Quick Actions Grid -->
           <h2 style="font-size: 1.2rem; font-weight: 700; margin-bottom: 16px;">🚀 Hızlı Başlat</h2>
           <div class="grid-cards" style="margin-bottom: 30px;">
-            <div class="card" style="border: 1px solid var(--border-active); background: linear-gradient(135deg, rgba(99, 102, 241, 0.1) 0%, rgba(30, 41, 59, 0.8) 100%);">
-              <div style="font-size: 28px; margin-bottom: 10px;">🏆</div>
-              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Gerçek EKYS Denemesi</h3>
+            <div class="card" style="border: 1px solid var(--border-active); background: linear-gradient(135deg, rgba(99, 102, 241, 0.15) 0%, rgba(30, 41, 59, 0.8) 100%);">
+              <div style="font-size: 28px; margin-bottom: 10px;">📜</div>
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Çıkmış Sınav Soruları</h3>
               <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-                Tüm konulardan karma, süreli gerçek sınav deneyimi.
+                2019-2026 tüm EKYS çıkmış sınavlarını orijinal formatında çözün.
               </p>
-              <button class="btn btn-primary btn-block btn-sm" onclick="app.startFullExamMock()">
-                Sınavı Başlat
+              <button class="btn btn-primary btn-block btn-sm" onclick="app.filterTestHubCategory('Çıkmış Sınavlar')">
+                Çıkmış Soruları Aç
               </button>
             </div>
 
-            <div class="card">
-              <div style="font-size: 28px; margin-bottom: 10px;">📄</div>
-              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">PDF & Not Yükle</h3>
+            <div class="card" style="border: 1px solid rgba(16, 185, 129, 0.3);">
+              <div style="font-size: 28px; margin-bottom: 10px;">🌍</div>
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Coğrafya & Tarih Testleri</h3>
               <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-                Ders notlarınızı veya PDF belgelerinizi teste dönüştürün.
+                Haritalı ve şekilli video tarama testleriyle eksikleri pekiştirin.
               </p>
-              <button class="btn btn-secondary btn-block btn-sm" onclick="app.navigateTo('sources')">
-                Kaynak Yükle
+              <button class="btn btn-success btn-block btn-sm" onclick="app.filterTestHubCategory('Genel Kültür')">
+                Video Testleri Aç
               </button>
             </div>
 
-            <div class="card">
+            <div class="card" style="border: 1px solid rgba(239, 68, 68, 0.3);">
               <div style="font-size: 28px; margin-bottom: 10px;">🔁</div>
-              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Yanlışlarımı Tekrar Et</h3>
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 6px;">Yanlış Defteri Tekrarı</h3>
               <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-                Eksik kaldığınız konuları akıllı tekrar sistemiyle pekiştirin.
+                Daha önce yanlış yaptığınız soruları tekrar çözerek tam öğrenme sağlayın.
               </p>
               <button class="btn btn-secondary btn-block btn-sm" onclick="app.startWrongPoolQuiz()">
-                Yanlışları Çöz
+                Yanlışlarımı Çöz
               </button>
             </div>
           </div>
@@ -200,90 +213,20 @@
         <section id="view-test-hub" class="view-section">
           <div class="page-header">
             <h1 class="page-title">Sınav & Test Merkezi 📝</h1>
-            <p class="page-subtitle">İster gerçek sınav formatında 80 soruluk genel denemeleri çözün, isterseniz konu konu eksiklerinizi pekiştirin.</p>
+            <p class="page-subtitle">Orijinal çıkmış sınavlar, haritalı video tarama testleri ve konu bazlı test havuzu.</p>
           </div>
 
-          <!-- BÖLÜM 1: GENEL DENEME SINAVLARI (ÖSYM FORMATI) -->
-          <div style="margin-bottom: 34px;">
-            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
-              <div>
-                <h2 style="font-size: 1.25rem; font-weight: 800; color: #818cf8; display: flex; align-items: center; gap: 8px;">
-                  🏆 Genel Deneme Sınavları (Süreli Sınav Simülasyonu)
-                </h2>
-                <p style="font-size: 0.85rem; color: var(--text-secondary);">ÖSYM konu ağırlıklarına uygun, gerçek sınav süresi ve puanlama sistemine sahip denemeler.</p>
-              </div>
-            </div>
-
-            <div class="grid-cards">
-              <!-- 80 Soru Tam Deneme -->
-              <div class="card" style="border: 1px solid var(--border-active); background: linear-gradient(135deg, rgba(99, 102, 241, 0.15) 0%, rgba(30, 41, 59, 0.9) 100%);">
-                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
-                  <span style="font-size: 32px;">🥇</span>
-                  <span class="badge" style="background: rgba(99, 102, 241, 0.25); color: #a5b4fc; padding: 4px 10px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
-                    ÖSYM FORMATI
-                  </span>
-                </div>
-                <h3 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 6px;">Tam EKYS Deneme Sınavı</h3>
-                <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-                  80 Soru • 150 Dakika • Mevzuat (%20), Eğitim Yönetimi (%30), Anayasa (%20), Etik (%10), Liderlik.
-                </p>
-                <button class="btn btn-primary btn-block" onclick="app.startFullExamMock(80, 150)">
-                  🚀 80 Soruluk Denemeyi Başlat
-                </button>
-              </div>
-
-              <!-- 40 Soru Orta Deneme -->
-              <div class="card" style="border: 1px solid rgba(16, 185, 129, 0.3);">
-                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
-                  <span style="font-size: 32px;">⚡</span>
-                  <span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #34d399; padding: 4px 10px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
-                    MİNİ DENEME
-                  </span>
-                </div>
-                <h3 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 6px;">Hızlı Karma Deneme</h3>
-                <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-                  40 Soru • 75 Dakika • Tüm konulardan dengeli dağılımlı ara deneme sınavı.
-                </p>
-                <button class="btn btn-success btn-block" onclick="app.startFullExamMock(40, 75)">
-                  ⚡ 40 Soruluk Denemeyi Başlat
-                </button>
-              </div>
-
-              <!-- 20 Soru Günlük Pratik -->
-              <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.3);">
-                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
-                  <span style="font-size: 32px;">🎯</span>
-                  <span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fbbf24; padding: 4px 10px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
-                    GÜNLÜK HEDEF
-                  </span>
-                </div>
-                <h3 style="font-size: 1.15rem; font-weight: 800; margin-bottom: 6px;">Günlük Karma Test</h3>
-                <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-                  20 Soru • 35 Dakika • Günlük bilgilerinizi canlı tutmak için hızlı pratik.
-                </p>
-                <button class="btn btn-secondary btn-block" onclick="app.startFullExamMock(20, 35)">
-                  🎯 20 Soruluk Testi Başlat
-                </button>
-              </div>
-            </div>
+          <!-- Kategori Filtre Butonları -->
+          <div class="hub-filter-bar" id="hub-category-filters">
+            <button class="filter-btn active" data-category="all" onclick="app.filterTestHub('all')">Tüm Testler (538+)</button>
+            <button class="filter-btn" data-category="Çıkmış Sınavlar" onclick="app.filterTestHub('Çıkmış Sınavlar')">📜 Çıkmış Sınavlar (2019-2026)</button>
+            <button class="filter-btn" data-category="Genel Kültür & Coğrafya" onclick="app.filterTestHub('Genel Kültür & Coğrafya')">🌍 Coğrafya Tarama</button>
+            <button class="filter-btn" data-category="Genel Kültür & Tarih" onclick="app.filterTestHub('Genel Kültür & Tarih')">🏛️ Tarih Tarama</button>
+            <button class="filter-btn" data-category="Mevzuat" onclick="app.filterTestHub('Mevzuat')">⚖️ Mevzuat (%20)</button>
+            <button class="filter-btn" data-category="Eğitim Yönetimi" onclick="app.filterTestHub('Eğitim Yönetimi')">📊 Eğitim Yönetimi</button>
           </div>
 
-          <!-- BÖLÜM 2: KONU BAZLI ÖZEL TESTLER (BRANŞ / MEVZUAT) -->
-          <div>
-            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; flex-wrap: wrap; gap: 10px;">
-              <div>
-                <h2 style="font-size: 1.25rem; font-weight: 800; display: flex; align-items: center; gap: 8px;">
-                  📚 Konu Bazlı Özel Pekiştirme Testleri
-                </h2>
-                <p style="font-size: 0.85rem; color: var(--text-secondary);">Eksik hissettiğiniz konuyu seçin veya kendi özel çalışma konularınızı ekleyin.</p>
-              </div>
-              <button class="btn btn-secondary btn-sm" onclick="app.openTopicManagerModal()">
-                ⚙️ Konuları Yönet / Yeni Konu Ekle
-              </button>
-            </div>
-
-            <div class="grid-cards" id="topics-grid"></div>
-          </div>
+          <div class="grid-cards" id="topics-grid"></div>
         </section>
 
         <!-- VIEW: ACTIVE QUIZ RUNNER (ÖSYM STYLE) -->
@@ -292,24 +235,52 @@
             
             <div class="quiz-top-bar">
               <div>
-                <h3 id="quiz-active-title" style="font-size: 1rem; font-weight: 700;">EKYS Sınav Modu</h3>
+                <div style="display: flex; align-items: center; gap: 8px;">
+                  <h3 id="quiz-active-title" style="font-size: 1.1rem; font-weight: 800;">EKYS Sınav Modu</h3>
+                  <button class="btn-star-icon" id="btn-quiz-star" onclick="app.toggleCurrentQuestionStar()" title="Yıldızlı Sorulara Ekle">⭐</button>
+                </div>
                 <span id="quiz-progress-text" style="font-size: 0.85rem; color: var(--text-secondary);">Soru 1 / 10</span>
               </div>
-              <div class="quiz-timer" id="quiz-timer-display">⏱️ 00:00</div>
+              <div class="quiz-header-right">
+                <div class="quiz-timer" id="quiz-timer-display">⏱️ 00:00</div>
+                <button class="btn btn-secondary btn-sm" onclick="app.exitQuiz()">🚪 Çıkış</button>
+              </div>
             </div>
 
             <!-- Question Card -->
             <div class="quiz-card">
-              <span class="quiz-topic-tag" id="quiz-q-topic">Mevzuat</span>
+              <div class="quiz-card-header">
+                <span class="quiz-topic-tag" id="quiz-q-topic">Mevzuat</span>
+                <span class="quiz-mode-tag" id="quiz-q-mode">🎯 Öğrenme Modu</span>
+              </div>
+
+              <!-- Question Image Section (with Zoom Lightbox) -->
+              <div class="quiz-image-container" id="quiz-image-box" style="display: none;">
+                <div class="image-wrapper" onclick="app.openImageZoom()">
+                  <img id="quiz-q-image" src="" alt="Soru Görseli">
+                  <div class="image-zoom-overlay">
+                    <span>🔍 Tam Ekran Büyüt / İncele</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Question Text -->
               <div class="quiz-question-text" id="quiz-q-text">Soru metni yükleniyor...</div>
 
+              <!-- Options List with Strike-Through Support -->
               <div class="options-list" id="quiz-options-list"></div>
 
               <!-- Explanation Box -->
               <div class="explanation-box" id="quiz-explanation-box">
-                <div class="explanation-title">💡 Çözüm & Mevzuat Dayanağı:</div>
+                <div class="explanation-title">💡 Çözüm & Doğru Cevap:</div>
                 <div class="explanation-text" id="quiz-explanation-text"></div>
               </div>
+            </div>
+
+            <!-- Question Navigation Matrix Grid (Jump to any question) -->
+            <div class="quiz-matrix-container">
+              <div style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary); margin-bottom: 8px;">Soru Gezinti Çizelgesi:</div>
+              <div class="quiz-matrix-grid" id="quiz-matrix-grid"></div>
             </div>
 
             <!-- Action Buttons -->
@@ -317,469 +288,396 @@
               <button class="btn btn-secondary" id="btn-quiz-prev" onclick="app.prevQuestion()">
                 ⬅️ Önceki
               </button>
+              <button class="btn btn-secondary" id="btn-quiz-strike-mode" onclick="app.toggleStrikeMode()">
+                ✏️ Şık Eleme Modu: <span id="strike-status-text">Kapalı</span>
+              </button>
               <button class="btn btn-primary" id="btn-quiz-next" onclick="app.nextQuestion()">
-                Sonraki Soru ➔
+                Sonraki Soru ➡️
               </button>
             </div>
-
-            <!-- Question Map -->
-            <div class="question-map" id="quiz-question-map"></div>
-
           </div>
         </section>
 
-        <!-- VIEW: SOURCES (PDF & VIDEO) -->
-        <section id="view-sources" class="view-section">
-          <div class="page-header">
-            <h1 class="page-title">Kaynaklarım & Doküman Kütüphanesi 📂</h1>
-            <p class="page-subtitle">PDF dosyalarınızı veya YouTube üyelik videolarınızı tek tıkla aktararak kendi soru bankanızı oluşturun.</p>
+        <!-- VIEW: QUIZ RESULT SUMMARY -->
+        <section id="view-quiz-result" class="view-section">
+          <div class="result-container card">
+            <div class="result-badge-icon" id="result-icon">🏆</div>
+            <h1 class="page-title" style="margin-bottom: 8px;">Test Tamamlandı!</h1>
+            <p class="page-subtitle" id="result-subtitle">Sonuçlarınız ve Başarı Karneniz</p>
+
+            <div class="result-stats-grid">
+              <div class="result-stat-box" style="border-color: rgba(16, 185, 129, 0.4);">
+                <div class="result-stat-val text-success" id="res-correct">0</div>
+                <div class="result-stat-lbl">Doğru</div>
+              </div>
+              <div class="result-stat-box" style="border-color: rgba(239, 68, 68, 0.4);">
+                <div class="result-stat-val text-danger" id="res-wrong">0</div>
+                <div class="result-stat-lbl">Yanlış</div>
+              </div>
+              <div class="result-stat-box" style="border-color: rgba(148, 163, 184, 0.4);">
+                <div class="result-stat-val text-secondary" id="res-empty">0</div>
+                <div class="result-stat-lbl">Boş</div>
+              </div>
+              <div class="result-stat-box" style="border-color: rgba(99, 102, 241, 0.4);">
+                <div class="result-stat-val text-primary" id="res-net">0.00</div>
+                <div class="result-stat-lbl">Net Sayısı</div>
+              </div>
+              <div class="result-stat-box" style="border-color: rgba(245, 158, 11, 0.4);">
+                <div class="result-stat-val text-warning" id="res-percent">%0</div>
+                <div class="result-stat-lbl">Başarı Oranı</div>
+              </div>
+            </div>
+
+            <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 24px;">
+              <button class="btn btn-secondary" onclick="app.navigateTo('dashboard')">
+                🏠 Ana Sayfaya Dön
+              </button>
+              <button class="btn btn-primary" onclick="app.retryCurrentQuiz()">
+                🔁 Testi Tekrar Çöz
+              </button>
+              <button class="btn btn-danger" id="btn-result-wrong-pool" style="display: none;" onclick="app.startWrongPoolQuiz()">
+                🎯 Sadece Bu Testteki Yanlışlarımı Çöz
+              </button>
+            </div>
+          </div>
+        </section>
+
+        <!-- VIEW: YANLIŞ DEFTERİ (WRONG POOL) -->
+        <section id="view-wrong-pool" class="view-section">
+          <div class="page-header" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 12px;">
+            <div>
+              <h1 class="page-title">Yanlış Defteri 🔁</h1>
+              <p class="page-subtitle">Çözdüğünüz testlerde yanlış yaptığınız sorular burada toplanır.</p>
+            </div>
+            <div style="display: flex; gap: 8px;">
+              <button class="btn btn-primary" onclick="app.startWrongPoolQuiz()">
+                🎯 Yanlışlarımı Çöz
+              </button>
+              <button class="btn btn-secondary" onclick="app.clearWrongPool()">
+                🗑️ Havuzu Temizle
+              </button>
+            </div>
           </div>
 
-          <!-- 1-TIKLA YOUTUBE GİZLİ VİDEO YAKALAYICI KUTUSU -->
-          <div class="card" style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(168, 85, 247, 0.15)); border: 1px solid rgba(168, 85, 247, 0.3); margin-bottom: 24px;">
-            <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
-              <div>
-                <h3 style="font-size: 1.15rem; font-weight: 800; color: #c084fc; margin-bottom: 6px;">
-                  ⚡ Tek Tıkla YouTube Döküm Aktarıcı (Katıl & Üye Videoları Dahil)
-                </h3>
-                <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.5;">
-                  Kopyala-yapıştır yapmadan, YouTube'da videoyu izlerken tek tıkla doğrudan EKYS Rota'ya aktarmak için aşağıdaki butonu tarayıcınızın <strong>Yer İmleri (Sık Kullanılanlar)</strong> çubuğuna sürükleyin:
-                </p>
-                
-                <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-                  <a id="btn-bookmarklet" href="javascript:(function(){try{let t=document.querySelector('h1.ytd-watch-metadata yt-formatted-string')?.innerText||document.title||'YouTube Dersi';let segs=Array.from(document.querySelectorAll('ytd-transcript-segment-renderer .segment-text, ytd-transcript-renderer yt-formatted-string'));let txt=segs.map(s=>s.innerText.trim()).filter(Boolean).join(' ');if(!txt||txt.length<50){let moreBtn=document.querySelector('#expand, ytd-text-inline-expander #more');if(moreBtn)moreBtn.click();setTimeout(()=>{let segs2=Array.from(document.querySelectorAll('ytd-transcript-segment-renderer .segment-text, ytd-transcript-renderer yt-formatted-string'));let txt2=segs2.map(s=>s.innerText.trim()).filter(Boolean).join(' ');if(txt2){localStorage.setItem('ekys_auto_incoming',JSON.stringify({title:t,text:txt2,url:window.location.href,time:Date.now()}));window.open('file:///c:/Users/basin/.gemini/antigravity/scratch/ekys2027/index.html?source=yt_auto','ekys_app');}else{alert('Lütfen videonun altından Dökümü Göster deyip tekrar butona basın.');}},1000);return;}localStorage.setItem('ekys_auto_incoming',JSON.stringify({title:t,text:txt,url:window.location.href,time:Date.now()}));window.open('file:///c:/Users/basin/.gemini/antigravity/scratch/ekys2027/index.html?source=yt_auto','ekys_app');}catch(e){alert('Hata: '+e.message);}})();" 
-                     class="btn btn-primary" 
-                     style="cursor: grab; font-weight: 800; padding: 10px 18px; border: 2px dashed rgba(255,255,255,0.4);" 
-                     title="Bu butonu farenizle tutup tarayıcınızın üst Yer İmleri çubuğuna sürükleyin">
-                    ⚡ EKYS Rota'ya Aktar (Yukarı Sürükle)
-                  </a>
-                  <span style="font-size: 0.8rem; color: var(--text-muted);">
-                    👆 Bu butonu tutup Chrome / Edge üst çubuğuna bırakın.
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
+          <div id="wrong-pool-list"></div>
+        </section>
 
-          <!-- Upload Dropzone (PDF) -->
-          <div class="card" style="margin-bottom: 24px;">
-            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">📄 PDF / Metin Dosyası Yükle</h3>
-            
-            <div class="form-group">
-              <label class="form-label">📌 Bu PDF Hangi Konuya Ait?</label>
-              <select id="pdf-topic-select" class="form-control" style="margin-bottom: 14px; font-weight: 600;"></select>
+        <!-- VIEW: YILDIZLI SORULAR (FAVORITES) -->
+        <section id="view-favorites" class="view-section">
+          <div class="page-header" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 12px;">
+            <div>
+              <h1 class="page-title">Yıldızlı / Favori Sorular ⭐</h1>
+              <p class="page-subtitle">Önemli gördüğünüz ve işaretlediğiniz tüm sorular.</p>
             </div>
-
-            <div class="dropzone" id="pdf-dropzone">
-              <div class="dropzone-icon">📥</div>
-              <h4 style="font-weight: 700; margin-bottom: 6px;">PDF dosyasını buraya sürükleyip bırakın</h4>
-              <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">veya dosya seçmek için tıklayın (.pdf, .txt)</p>
-              <span class="btn btn-secondary btn-sm">Dosya Seç</span>
-              <input type="file" id="pdf-file-input" accept=".pdf,.txt,.md" style="display: none;">
-            </div>
-            <div id="pdf-upload-progress" style="margin-top: 10px; font-size: 0.85rem; color: var(--accent-primary); font-weight: 600;"></div>
-          </div>
-
-          <!-- Video / Link Form -->
-          <div class="card" style="margin-bottom: 28px;">
-            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">🎥 YouTube / Ders Videosu Otomatik Analiz & Not Ekle</h3>
-            
-            <div class="form-group">
-              <label class="form-label">📌 Bu Video Hangi Konuya Ait?</label>
-              <select id="video-topic-select" class="form-control" style="margin-bottom: 14px; font-weight: 600;"></select>
-            </div>
-
-            <div class="form-group">
-              <label class="form-label">YouTube Video Linki</label>
-              <div style="display: flex; gap: 8px;">
-                <input type="url" id="video-url-input" class="form-control" placeholder="https://www.youtube.com/watch?v=..." onchange="app.handleYouTubeUrlAnalyze()">
-                <button class="btn btn-secondary" style="white-space: nowrap;" onclick="app.handleYouTubeUrlAnalyze()">
-                  🔍 Analiz Et
-                </button>
-              </div>
-              <small style="color: var(--text-muted); font-size: 0.8rem; margin-top: 4px; display: block;">
-                YouTube linkini yapıştırdığınızda başlık ve konuşma metni otomatik çözümlenir.
-              </small>
-            </div>
-
-            <!-- Video Preview Box -->
-            <div id="video-preview-card" class="card" style="display: none; background: rgba(15, 23, 42, 0.7); margin-bottom: 16px; padding: 12px;">
-              <div style="display: flex; gap: 12px; align-items: center;">
-                <img id="video-preview-thumb" src="" style="width: 100px; height: 60px; object-fit: cover; border-radius: var(--radius-sm);">
-                <div>
-                  <h4 id="video-preview-title" style="font-size: 0.95rem; font-weight: 700;">Video Başlığı</h4>
-                  <div id="video-preview-channel" style="font-size: 0.8rem; color: var(--text-secondary);">Kanal Adı</div>
-                </div>
-              </div>
-            </div>
-
-            <div class="form-group">
-              <label class="form-label">Ders / Video Başlığı</label>
-              <input type="text" id="video-title-input" class="form-control" placeholder="Örn: 657 DMK Memur Hakları - Ders 1" oninput="app.handleTitleInputMatch(this.value, 'video-topic-select')">
-            </div>
-
-            <div class="form-group">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                <label class="form-label" style="margin-bottom: 0;">Video Transkripti veya Ders Notları</label>
-                <div style="display: flex; gap: 6px;">
-                  <button type="button" class="btn btn-secondary btn-sm" style="padding: 2px 8px; font-size: 0.75rem;" onclick="app.pasteClipboardToNotes('video-notes-input')">
-                    📋 Panodan Yapıştır
-                  </button>
-                  <a id="video-yt-link-btn" href="#" target="_blank" class="btn btn-secondary btn-sm" style="padding: 2px 8px; font-size: 0.75rem; display: none;">
-                    ▶️ YouTube'da Dökümü Aç
-                  </a>
-                </div>
-              </div>
-              <textarea id="video-notes-input" class="form-control" placeholder="Videonun konuşma dökümü otomatik çekilecek veya YouTube'da 'Dökümü Göster' deyip buraya yapıştırabilirsiniz..."></textarea>
-            </div>
-
-            <button class="btn btn-primary" onclick="app.addVideoSource()">
-              ➕ Video Kaynağını Konuya Kaydet & Soru Üret
+            <button class="btn btn-primary" onclick="app.startFavoritesQuiz()">
+              ⭐ Yıldızlı Soruları Çöz
             </button>
           </div>
 
-          <!-- Saved Sources List -->
-          <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
-            <h2 style="font-size: 1.2rem; font-weight: 700;">📚 Yüklenen Kaynaklar (Konulara Göre)</h2>
-          </div>
-          <div id="sources-list-container"></div>
+          <div id="favorites-list"></div>
         </section>
 
-        <!-- VIEW: GENERATE QUESTIONS -->
-        <section id="view-generate" class="view-section">
-          <div class="page-header">
-            <h1 class="page-title">Soru Üretim Laboratuvarı ⚡</h1>
-            <p class="page-subtitle">Metin veya kaynak notlarınızdan ÖSYM EKYS formatında 5 şıklı test soruları türetin.</p>
-          </div>
-
-          <div class="card">
-            <div class="form-group">
-              <label class="form-label">📌 İlgili Konu / Müfredat Başlığı</label>
-              <select id="gen-topic-select" class="form-control" style="font-weight: 600; margin-bottom: 12px;"></select>
-            </div>
-
-            <div class="form-group">
-              <label class="form-label">Kaynak Metin / Kanun Maddesi / Notlar</label>
-              <textarea id="gen-text-input" class="form-control" style="min-height: 180px;" placeholder="Soru türetmek istediğiniz kanun maddesini, konu özetini veya video transkriptini buraya yapıştırın..."></textarea>
-            </div>
-
-            <div style="display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 20px;">
-              <div style="flex: 1; min-width: 150px;">
-                <label class="form-label">Üretilecek Soru Sayısı</label>
-                <select id="gen-count-select" class="form-control">
-                  <option value="3">3 Soru</option>
-                  <option value="5" selected>5 Soru</option>
-                  <option value="10">10 Soru</option>
-                  <option value="15">15 Soru</option>
-                </select>
-              </div>
-            </div>
-
-            <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-              <button class="btn btn-primary btn-lg" id="btn-run-generate" onclick="app.executeQuestionGeneration()">
-                ✨ Test Sorularını Üret
-              </button>
-              <button class="btn btn-secondary" onclick="app.copyAiPrompt()">
-                📋 AI Prompt Kopyala (ChatGPT / Gemini Web)
-              </button>
-              <button class="btn btn-secondary" onclick="app.openImportJsonModal()">
-                📥 AI JSON İçe Aktar
-              </button>
-            </div>
-          </div>
-        </section>
-
-        <!-- VIEW: WRONG POOL (YANLIŞ DEFTERİ) -->
-        <section id="view-wrong-pool" class="view-section">
-          <div class="page-header">
-            <h1 class="page-title">Yanlış Defteri & Akıllı Tekrar 🔁</h1>
-            <p class="page-subtitle">Testlerde hata yaptığınız sorular burada toplanır. Tekrar çözerek kalıcı öğrenme sağlayın.</p>
-          </div>
-
-          <div id="wrong-pool-container"></div>
-        </section>
-
-        <!-- VIEW: STATS & ANALYSIS -->
+        <!-- VIEW: BAŞARI ANALİZİ (STATS) -->
         <section id="view-stats" class="view-section">
           <div class="page-header">
-            <h1 class="page-title">Başarı & İlerleme Analizi 📈</h1>
-            <p class="page-subtitle">Çözdüğünüz testlerin detaylı başarı oranları ve gelişim grafiğiniz.</p>
+            <h1 class="page-title">Başarı Analizi & İlerleme 📈</h1>
+            <p class="page-subtitle">Ders bazlı netleriniz, konu başarı oranlarınız ve sınav geçmişiniz.</p>
           </div>
 
-          <div id="stats-summary-container"></div>
-        </section>
-
-        <!-- VIEW: SETTINGS -->
-        <section id="view-settings" class="view-section">
-          <div class="page-header">
-            <h1 class="page-title">Ayarlar & Veri Yönetimi ⚙️</h1>
-            <p class="page-subtitle">Uygulama tercihlerinizi özelleştirin, API bağlantılarını ayarlayın veya verilerinizi yedekleyin.</p>
-          </div>
-
-          <div class="card" style="margin-bottom: 24px;">
-            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 16px;">🎨 Görünüm & Sınav Tarihi</h3>
-            
-            <div class="form-group">
-              <label class="form-label">Tema</label>
-              <select id="setting-theme" class="form-control">
-                <option value="dark">Karanlık Mod (Modern Dark)</option>
-                <option value="light">Aydınlık Mod (Light)</option>
-              </select>
+          <div class="grid-cards" style="margin-bottom: 24px;">
+            <div class="card">
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;">📊 Ders & Konu Başarı Oranları</h3>
+              <div id="stats-topic-bars"></div>
             </div>
-
-            <div class="form-group">
-              <label class="form-label">Hedef Sınav Tarihi (Geri Sayım)</label>
-              <input type="date" id="setting-target-date" class="form-control" value="2027-03-15">
+            <div class="card">
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;">🎯 EKYS 2027 Hedef Takibi</h3>
+              <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
+                Günlük hedef: <strong>30 Soru</strong>
+              </p>
+              <div style="font-size: 2rem; font-weight: 800; color: #818cf8;" id="stats-daily-count">0 / 30</div>
+              <div class="progress-bar" style="margin-top: 12px;">
+                <div class="progress-fill" id="stats-daily-bar" style="width: 0%;"></div>
+              </div>
             </div>
-          </div>
-
-          <div class="card" style="margin-bottom: 24px;">
-            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 16px;">🤖 Yapay Zekâ / AI Sağlayıcı Seçimi</h3>
-            <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
-              Sıfır API modu kütüphane veya anahtar gerektirmeden çalışır. Dilerseniz Gemini veya Groq anahtarınızı da ekleyebilirsiniz.
-            </p>
-
-            <div class="form-group">
-              <label class="form-label">Soru Üretim Modeli</label>
-              <select id="setting-ai-provider" class="form-control" onchange="app.toggleAiKeyFields()">
-                <option value="none">Sıfır API (Yerleşik Akıllı Kural Motoru - Kurulumsuz)</option>
-                <option value="gemini">Google Gemini Flash (Doğrudan Web API)</option>
-                <option value="groq">Groq Llama 3 70B (Ücretsiz & Ultra Hızlı)</option>
-              </select>
-            </div>
-
-            <div class="form-group" id="group-gemini-key" style="display: none;">
-              <label class="form-label">Google Gemini API Key</label>
-              <input type="password" id="setting-gemini-key" class="form-control" placeholder="AIzaSy...">
-              <small style="color: var(--text-muted); font-size: 0.8rem;">Google AI Studio'dan ücretsiz alınan API anahtarı.</small>
-            </div>
-
-            <div class="form-group" id="group-groq-key" style="display: none;">
-              <label class="form-label">Groq API Key</label>
-              <input type="password" id="setting-groq-key" class="form-control" placeholder="gsk_...">
-            </div>
-
-            <button class="btn btn-primary" onclick="app.saveSettingsFromForm()">
-              💾 Ayarları Kaydet
-            </button>
           </div>
 
           <div class="card">
-            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 16px;">💾 Veri Yedekleme & Geri Yükleme</h3>
-            <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-              Tüm sorularınızı, yüklediğiniz kaynakları ve test geçmişinizi JSON olarak indirip başka bir cihazda veya telefonda açabilirsiniz.
-            </p>
-            <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-              <button class="btn btn-secondary" onclick="app.exportDataBackup()">
-                📥 Tüm Verilerimi Yedekle (İndir)
+            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;">🕒 Çözülen Tüm Sınavlar</h3>
+            <div id="stats-history-table"></div>
+          </div>
+        </section>
+
+        <!-- VIEW: YÖNETİCİ (ADMIN) PANELİ -->
+        <section id="view-admin-panel" class="view-section">
+          <div class="page-header">
+            <h1 class="page-title">👑 Yönetici (Admin) Paneli</h1>
+            <p class="page-subtitle">Sisteme yeni kullanıcılar ekleyin, kayıtlı kullanıcıları yönetin veya sistemden çıkarın.</p>
+          </div>
+
+          <!-- Yeni Kullanıcı Ekle Formu -->
+          <div class="card" style="margin-bottom: 24px; border: 1px solid var(--border-active);">
+            <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">➕ Yeni Kullanıcı Tanımla</h3>
+            <form id="admin-add-user-form" onsubmit="app.handleAdminCreateUser(event)">
+              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-bottom: 14px;">
+                <div class="form-group">
+                  <label class="form-label">Ad Soyad</label>
+                  <input type="text" id="admin-user-name" class="form-control" placeholder="Örn: Ahmet Yılmaz" required>
+                </div>
+                <div class="form-group">
+                  <label class="form-label">E-posta Adresi</label>
+                  <input type="email" id="admin-user-email" class="form-control" placeholder="kullanici@ekys.com" required>
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Giriş Şifresi</label>
+                  <input type="password" id="admin-user-password" class="form-control" placeholder="En az 6 karakter" required minlength="6">
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Kullanıcı Rolü</label>
+                  <select id="admin-user-role" class="form-control">
+                    <option value="student">🎓 Öğrenci (Soru Çözebilir)</option>
+                    <option value="admin">👑 Yönetici (Tam Yetkili)</option>
+                  </select>
+                </div>
+              </div>
+              <button type="submit" class="btn btn-primary">
+                ➕ Kullanıcıyı Sisteme Ekle
               </button>
-              <label class="btn btn-secondary" style="margin: 0; cursor: pointer;">
-                📤 Yedeği Geri Yükle
-                <input type="file" accept=".json" style="display: none;" onchange="app.importDataBackup(this.files[0])">
-              </label>
+            </form>
+          </div>
+
+          <!-- Kayıtlı Kullanıcılar Tablosu -->
+          <div class="card">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px;">
+              <h3 style="font-size: 1.15rem; font-weight: 700;">👥 Kayıtlı Kullanıcılar</h3>
+              <button class="btn btn-secondary btn-sm" onclick="app.loadAdminUsersList()">🔄 Listeyi Yenile</button>
+            </div>
+            <div id="admin-users-table-container">
+              <div style="text-align: center; padding: 20px; color: var(--text-secondary);">Kullanıcılar yükleniyor...</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- VIEW: AYARLAR & BULUT YEDEK -->
+        <section id="view-settings" class="view-section">
+          <div class="page-header">
+            <h1 class="page-title">Ayarlar & Bulut Senkronizasyon ⚙️</h1>
+            <p class="page-subtitle">Tema ayarları, hedef sınav tarihi ve veritabanı durum yönetimi.</p>
+          </div>
+
+          <div class="grid-cards">
+            <!-- Görünüm & Tema -->
+            <div class="card">
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">🎨 Görünüm</h3>
+              <div class="form-group">
+                <label class="form-label">Tema Tercihi</label>
+                <div style="display: flex; gap: 10px;">
+                  <button class="btn btn-primary btn-sm" onclick="app.setTheme('dark')">🌙 Koyu Tema</button>
+                  <button class="btn btn-secondary btn-sm" onclick="app.setTheme('light')">☀️ Açık Tema</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Bulut Senkronizasyon -->
+            <div class="card">
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">☁️ Firebase Bulut Durumu</h3>
+              <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 14px;">
+                <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #10b981;"></span>
+                <span style="font-size: 0.9rem; font-weight: 600;">Bağlı: <code style="color: #818cf8;">ekysrota</code></span>
+              </div>
+              <div style="display: flex; gap: 10px;">
+                <button class="btn btn-primary btn-sm" onclick="firebaseService.syncAllDataToCloud(); app.showToast('Veriler buluta aktarıldı!', 'success');">
+                  ⬆️ Buluta Gönder
+                </button>
+                <button class="btn btn-secondary btn-sm" onclick="firebaseService.syncAllDataFromCloud(); app.showToast('Buluttan güncellendi!', 'success');">
+                  ⬇️ Buluttan Çek
+                </button>
+              </div>
+            </div>
+
+            <!-- Manuel Yedek İndir / Yükle -->
+            <div class="card">
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">💾 Manuel Yedek (JSON)</h3>
+              <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
+                Tüm soru havuzunuzu ve geçmişinizi bilgisayarınıza dosya olarak indirin.
+              </p>
+              <div style="display: flex; gap: 10px;">
+                <button class="btn btn-secondary btn-sm" onclick="app.exportBackupJSON()">
+                  📥 Yedeği İndir
+                </button>
+              </div>
             </div>
           </div>
         </section>
 
       </div>
     </main>
-
-    <!-- MOBILE BOTTOM NAVIGATION -->
-    <nav class="mobile-nav">
-      <a class="mobile-nav-item active" data-view-target="dashboard">
-        <span class="mobile-nav-icon">📊</span>
-        <span>Ana Sayfa</span>
-      </a>
-      <a class="mobile-nav-item" data-view-target="test-hub">
-        <span class="mobile-nav-icon">📝</span>
-        <span>Testler</span>
-      </a>
-      <a class="mobile-nav-item" data-view-target="sources">
-        <span class="mobile-nav-icon">📂</span>
-        <span>Kaynaklar</span>
-      </a>
-      <a class="mobile-nav-item" data-view-target="generate">
-        <span class="mobile-nav-icon">⚡</span>
-        <span>Üretici</span>
-      </a>
-      <a class="mobile-nav-item" data-view-target="wrong-pool">
-        <span class="mobile-nav-icon">🔁</span>
-        <span>Yanlışlar</span>
-      </a>
-      <a class="mobile-nav-item" data-view-target="settings">
-        <span class="mobile-nav-icon">⚙️</span>
-        <span>Ayarlar</span>
-      </a>
-    </nav>
-
   </div>
 
-  <!-- MODAL: TEST SONUÇLARI -->
-  <div id="result-modal" class="modal-overlay">
-    <div class="modal-card">
-      <div style="text-align: center; margin-bottom: 20px;">
-        <div style="font-size: 52px; margin-bottom: 10px;">🎉</div>
-        <h2 style="font-size: 1.5rem; font-weight: 800; margin-bottom: 6px;" id="res-modal-title">Test Tamamlandı!</h2>
-        <p style="color: var(--text-secondary); font-size: 0.9rem;">Tebrikler, bir testi daha başarıyla bitirdiniz.</p>
+  <!-- MOBILE BOTTOM NAVIGATION -->
+  <nav class="mobile-nav">
+    <a class="mobile-nav-item active" data-view-target="dashboard">
+      <span class="mobile-nav-icon">📊</span>
+      <span class="mobile-nav-label">Özet</span>
+    </a>
+    <a class="mobile-nav-item" data-view-target="test-hub">
+      <span class="mobile-nav-icon">📝</span>
+      <span class="mobile-nav-label">Testler</span>
+    </a>
+    <a class="mobile-nav-item" data-view-target="wrong-pool">
+      <span class="mobile-nav-icon">🔁</span>
+      <span class="mobile-nav-label">Yanlışlar</span>
+    </a>
+    <a class="mobile-nav-item" data-view-target="stats">
+      <span class="mobile-nav-icon">📈</span>
+      <span class="mobile-nav-label">Analiz</span>
+    </a>
+    <a class="mobile-nav-item" onclick="app.openAuthModal()">
+      <span class="mobile-nav-icon">👤</span>
+      <span class="mobile-nav-label">Profil</span>
+    </a>
+  </nav>
+
+  <!-- ==================== MODALS ==================== -->
+
+  <!-- MODAL: KULLANICI GİRİŞ & KAYIT (AUTH MODAL) -->
+  <div class="modal" id="auth-modal">
+    <div class="modal-content" style="max-width: 440px;">
+      <div class="modal-header">
+        <h3 class="modal-title" id="auth-modal-title">🔑 Giriş Yap</h3>
+        <button class="modal-close" onclick="app.closeAuthModal()">✕</button>
       </div>
 
-      <div class="grid-cards" style="margin-bottom: 24px;">
-        <div class="card" style="text-align: center; padding: 14px;">
-          <div style="font-size: 1.75rem; font-weight: 800; color: var(--accent-success);" id="res-correct">0</div>
-          <div style="font-size: 0.8rem; color: var(--text-secondary);">Doğru</div>
-        </div>
-        <div class="card" style="text-align: center; padding: 14px;">
-          <div style="font-size: 1.75rem; font-weight: 800; color: var(--accent-danger);" id="res-wrong">0</div>
-          <div style="font-size: 0.8rem; color: var(--text-secondary);">Yanlış</div>
-        </div>
-        <div class="card" style="text-align: center; padding: 14px;">
-          <div style="font-size: 1.75rem; font-weight: 800; color: var(--text-muted);" id="res-empty">0</div>
-          <div style="font-size: 0.8rem; color: var(--text-secondary);">Boş</div>
-        </div>
-        <div class="card" style="text-align: center; padding: 14px;">
-          <div style="font-size: 1.75rem; font-weight: 800; color: var(--accent-primary);" id="res-percent">%0</div>
-          <div style="font-size: 0.8rem; color: var(--text-secondary);">Başarı Oranı</div>
-        </div>
+      <!-- Auth Tab Buttons -->
+      <div style="display: flex; gap: 8px; margin-bottom: 20px;">
+        <button id="tab-auth-login" class="btn btn-primary btn-sm btn-block" onclick="app.switchAuthTab('login')">Giriş Yap</button>
+        <button id="tab-auth-register" class="btn btn-secondary btn-sm btn-block" onclick="app.switchAuthTab('register')">Yeni Kayıt</button>
       </div>
 
-      <div style="background: var(--bg-card); padding: 12px 18px; border-radius: var(--radius-md); font-size: 0.9rem; margin-bottom: 24px; display: flex; justify-content: space-between;">
-        <span>Geçen Süre:</span>
-        <strong id="res-duration">0 dk</strong>
-      </div>
+      <!-- Form: Giriş Yap -->
+      <form id="form-login" onsubmit="app.handleEmailLogin(event)">
+        <div class="form-group">
+          <label class="form-label">E-posta Adresi</label>
+          <input type="email" id="login-email" class="form-control" placeholder="ornek@ekys.com" required>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Şifre</label>
+          <input type="password" id="login-password" class="form-control" placeholder="••••••••" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">
+          🔑 Giriş Yap
+        </button>
+      </form>
 
-      <div style="display: flex; gap: 12px;">
-        <button class="btn btn-primary btn-block" onclick="app.closeResultModal()">
-          Ana Sayfaya Dön
+      <!-- Form: Kayıt Ol -->
+      <form id="form-register" style="display: none;" onsubmit="app.handleEmailRegister(event)">
+        <div class="form-group">
+          <label class="form-label">Adınız Soyadınız</label>
+          <input type="text" id="reg-name" class="form-control" placeholder="Ad Soyad" required>
+        </div>
+        <div class="form-group">
+          <label class="form-label">E-posta Adresi</label>
+          <input type="email" id="reg-email" class="form-control" placeholder="ornek@ekys.com" required>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Şifre</label>
+          <input type="password" id="reg-password" class="form-control" placeholder="En az 6 karakter" required minlength="6">
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">
+          ➕ Hesabı Oluştur ve Başla
+        </button>
+      </form>
+
+      <div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--border-color); text-align: center;">
+        <button class="btn btn-secondary btn-block btn-sm" onclick="app.handleGoogleLogin()">
+          <span>🌐</span> Google ile Hızlı Giriş
         </button>
       </div>
     </div>
   </div>
 
-  <!-- MODAL: AI JSON İÇE AKTAR -->
-  <div id="import-json-modal" class="modal-overlay">
-    <div class="modal-card">
-      <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 8px;">📥 AI JSON Soru İçe Aktar</h3>
-      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-        ChatGPT veya Gemini sohbetinden gelen JSON formatındaki soruları buraya yapıştırın.
-      </p>
-
-      <div class="form-group">
-        <textarea id="json-import-textarea" class="form-control" style="min-height: 200px; font-family: monospace; font-size: 0.85rem;" placeholder='[ { "question": "...", "options": [...], "correctAnswer": "A", "explanation": "..." } ]'></textarea>
+  <!-- MODAL: GÖRSEL BÜYÜTEÇ / LIGHTBOX (IMAGE ZOOM) -->
+  <div class="modal modal-zoom" id="image-zoom-modal" onclick="app.closeImageZoom(event)">
+    <div class="modal-zoom-content" onclick="event.stopPropagation()">
+      <div class="modal-zoom-header">
+        <span style="font-weight: 700; font-size: 0.95rem;">🔍 Soru Görseli / Haritası İnceleme</span>
+        <button class="modal-close" onclick="app.closeImageZoom()">✕ Kapat</button>
       </div>
-
-      <div style="display: flex; justify-content: flex-end; gap: 12px;">
-        <button class="btn btn-secondary" onclick="app.closeImportJsonModal()">İptal</button>
-        <button class="btn btn-primary" onclick="app.importJsonQuestions()">Teste Dönüştür & Kaydet</button>
+      <div class="modal-zoom-body">
+        <img id="zoom-modal-img" src="" alt="Büyütülmüş Soru Görseli">
       </div>
     </div>
   </div>
 
-  <!-- MODAL: KONU & MÜFREDAT YÖNETİMİ -->
-  <div id="topic-manager-modal" class="modal-overlay">
-    <div class="modal-card" style="max-width: 750px;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
-        <h3 style="font-size: 1.3rem; font-weight: 800;">⚙️ Konu & Müfredat Yönetimi</h3>
-        <button class="btn btn-secondary btn-sm" onclick="app.closeTopicManagerModal()">✖</button>
-      </div>
-
-      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 20px;">
-        Sınav müfredatındaki konuları düzenleyebilir, gereksizleri silebilir veya kendi özel ders/mevzuat başlıklarınızı ekleyebilirsiniz.
-      </p>
-
-      <!-- Yeni Konu Ekle Formu -->
-      <div class="card" style="background: rgba(15, 23, 42, 0.6); margin-bottom: 24px; padding: 18px;">
-        <h4 style="font-size: 1rem; font-weight: 700; margin-bottom: 12px; color: var(--accent-primary);">➕ Yeni Konu / Ders Ekle</h4>
-        
-        <div style="display: grid; grid-template-columns: 2fr 1fr 60px; gap: 10px; margin-bottom: 12px;">
-          <input type="text" id="new-topic-name" class="form-control" placeholder="Konu Adı (Örn: 5018 Sayılı Kanun)">
-          <select id="new-topic-category" class="form-control">
-            <option value="Mevzuat">Mevzuat</option>
-            <option value="Eğitim Yönetimi">Eğitim Yönetimi</option>
-            <option value="Genel Kültür & Hukuk">Genel Kültür & Hukuk</option>
-            <option value="Değerler Eğitimi">Değerler Eğitimi</option>
-            <option value="Özel Alan">Özel Alan</option>
-          </select>
-          <input type="text" id="new-topic-icon" class="form-control" style="text-align: center;" value="📚" title="İkon / Emoji">
-        </div>
-
-        <div style="display: flex; justify-content: flex-end;">
-          <button class="btn btn-primary btn-sm" onclick="app.handleAddNewTopic()">
-            ➕ Konuyu Havuza Ekle
-          </button>
-        </div>
-      </div>
-
-      <!-- Mevcut Konular Listesi -->
-      <h4 style="font-size: 1rem; font-weight: 700; margin-bottom: 12px;">📋 Kayıtlı Konular & Soru Sayıları</h4>
-      <div id="modal-topics-list" style="max-height: 300px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px;"></div>
-
-      <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--border-color); padding-top: 16px;">
-        <button class="btn btn-secondary btn-sm" style="color: var(--text-muted);" onclick="app.handleResetTopics()">
-          🔄 ÖSYM Varsayılan Konularına Sıfırla
-        </button>
-        <button class="btn btn-primary btn-sm" onclick="app.closeTopicManagerModal()">
-          Tamamla & Kapat
-        </button>
-      </div>
-    </div>
-  </div>
-
-  <!-- MODAL: HIZLI KONUYA KAYNAK EKLE -->
-  <div id="quick-source-modal" class="modal-overlay">
-    <div class="modal-card" style="max-width: 650px;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
-        <div style="display: flex; align-items: center; gap: 10px;">
-          <span id="quick-modal-icon" style="font-size: 28px;">📚</span>
-          <div>
-            <h3 id="quick-modal-title" style="font-size: 1.2rem; font-weight: 800;">Konuya Kaynak Ekle</h3>
-            <span id="quick-modal-category" class="brand-badge">Mevzuat</span>
-          </div>
-        </div>
-        <button class="btn btn-secondary btn-sm" onclick="app.closeQuickSourceModal()">✖</button>
+  <!-- MODAL: KONU & PDF YÖNETİCİSİ (YENİ KONU / PDF EKLEME) -->
+  <div class="modal" id="topic-manager-modal">
+    <div class="modal-content" style="max-width: 620px;">
+      <div class="modal-header">
+        <h3 class="modal-title">📁 Konu & PDF Test Yöneticisi</h3>
+        <button class="modal-close" onclick="app.closeTopicManagerModal()">✕</button>
       </div>
 
       <!-- Tab Buttons -->
-      <div style="display: flex; gap: 8px; margin-bottom: 18px;">
-        <button id="tab-btn-pdf" class="btn btn-primary btn-sm" onclick="app.switchQuickSourceTab('pdf')">📄 PDF Yükle</button>
-        <button id="tab-btn-video" class="btn btn-secondary btn-sm" onclick="app.switchQuickSourceTab('video')">🎥 Video & Not Ekle</button>
+      <div style="display: flex; gap: 8px; margin-bottom: 20px;">
+        <button id="tab-btn-add-topic" class="btn btn-primary btn-sm btn-block" onclick="app.switchTopicModalTab('add-topic')">➕ Yeni Konu Aç</button>
+        <button id="tab-btn-add-pdf" class="btn btn-secondary btn-sm btn-block" onclick="app.switchTopicModalTab('add-pdf')">📄 PDF Yükle</button>
+        <button id="tab-btn-list-topics" class="btn btn-secondary btn-sm btn-block" onclick="app.switchTopicModalTab('list-topics')">📋 Konu Listesi</button>
       </div>
 
-      <!-- Tab: PDF Upload -->
-      <div id="quick-tab-pdf">
-        <div class="dropzone" id="quick-pdf-dropzone" style="padding: 30px 15px;">
+      <!-- TAB 1: YENİ KONU AÇ -->
+      <div id="tab-content-add-topic">
+        <form onsubmit="app.handleCreateNewTopic(event)">
+          <div class="form-group">
+            <label class="form-label">Ana Kategori / Ders</label>
+            <select id="new-topic-category" class="form-control">
+              <option value="Mevzuat (%20)">⚖️ Mevzuat (%20)</option>
+              <option value="Eğitim Yönetimi (%30)">📊 Eğitim Yönetimi (%30)</option>
+              <option value="Genel Kültür & Coğrafya (%20)">🌍 Genel Kültür & Coğrafya</option>
+              <option value="Genel Kültür & Tarih (%20)">🏛️ Genel Kültür & Tarih</option>
+              <option value="Etik & Değerler (%10)">🤝 Etik & Değerler</option>
+              <option value="Çıkmış Sınavlar">📜 Çıkmış Sınavlar</option>
+              <option value="Özel Çalışma Konusu">⭐ Özel Çalışma Konusu</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Konu Başlığı</label>
+            <input type="text" id="new-topic-name" class="form-control" placeholder="Örn: 1739 Sayılı Milli Eğitim Temel Kanunu" required>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Simge (Emoji)</label>
+            <input type="text" id="new-topic-icon" class="form-control" value="📚" style="max-width: 100px;">
+          </div>
+          <button type="submit" class="btn btn-primary btn-block">
+            ➕ Konuyu Oluştur & Kaydet
+          </button>
+        </form>
+      </div>
+
+      <!-- TAB 2: PDF YÜKLE -->
+      <div id="tab-content-add-pdf" style="display: none;">
+        <div class="form-group">
+          <label class="form-label">Hangi Konunun Altına Eklensin?</label>
+          <select id="pdf-target-topic-select" class="form-control"></select>
+        </div>
+        <div class="dropzone" id="topic-pdf-dropzone" style="padding: 30px 15px;">
           <div class="dropzone-icon" style="font-size: 38px;">📥</div>
           <h4 style="font-weight: 700; margin-bottom: 4px;">PDF Dosyasını Buraya Bırakın</h4>
-          <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 12px;">veya dosya seçmek için tıklayın (.pdf, .txt)</p>
-          <span class="btn btn-secondary btn-sm">Dosya Seç</span>
-          <input type="file" id="quick-pdf-file-input" accept=".pdf,.txt,.md" style="display: none;">
+          <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 12px;">veya dosya seçmek için tıklayın (.pdf)</p>
+          <span class="btn btn-secondary btn-sm">PDF Dosyası Seç</span>
+          <input type="file" id="topic-pdf-file-input" accept=".pdf" style="display: none;">
         </div>
-        <div id="quick-pdf-progress" style="margin-top: 10px; font-size: 0.85rem; color: var(--accent-primary); font-weight: 600;"></div>
+        <div id="topic-pdf-progress" style="margin-top: 12px; font-size: 0.85rem; color: #818cf8; font-weight: 600;"></div>
       </div>
 
-      <!-- Tab: Video / Notes Upload -->
-      <div id="quick-tab-video" style="display: none;">
-        <div class="form-group">
-          <label class="form-label">Ders / Video Başlığı</label>
-          <input type="text" id="quick-video-title" class="form-control" placeholder="Örn: Konu Özeti & Önemli Maddeler">
-        </div>
-        <div class="form-group">
-          <label class="form-label">Video Linki (YouTube vb. - İsteğe Bağlı)</label>
-          <input type="url" id="quick-video-url" class="form-control" placeholder="https://www.youtube.com/watch?v=...">
-        </div>
-        <div class="form-group">
-          <label class="form-label">Ders Notları veya Transkript Metni</label>
-          <textarea id="quick-video-notes" class="form-control" style="min-height: 120px;" placeholder="Bu konuya ait önemli özet notlarınızı buraya yapıştırın..."></textarea>
-        </div>
-        <button class="btn btn-primary btn-block" onclick="app.handleQuickVideoSave()">
-          ➕ Bu Konuya Kaydet
-        </button>
+      <!-- TAB 3: MEVCUT KONULAR LİSTESİ -->
+      <div id="tab-content-list-topics" style="display: none;">
+        <div id="manager-topics-list" style="max-height: 320px; overflow-y: auto;"></div>
       </div>
-
     </div>
   </div>
 
   <!-- Core Scripts -->
   <script src="data/ekys-sample-questions.js"></script>
+  <script src="data/questions-db.js"></script>
   <script src="services/storage-service.js"></script>
   <script src="services/firebase-service.js"></script>
   <script src="services/pdf-service.js"></script>
