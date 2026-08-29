@@ -8,11 +8,9 @@ const EKYS_TOPICS = [
   { id: 'mevzuat-3071', name: '3071 Dilekçe & 4982 Bilgi Edinme', category: 'Mevzuat (%20)', icon: '📝', targetQuestions: 3 },
   { id: 'mevzuat-5018', name: '5018 Sayılı Kamu Malî Yönetimi Kanunu', category: 'Mevzuat (%20)', icon: '💰', targetQuestions: 3 },
   { id: 'mevzuat-4688', name: '4688 Sayılı Sendikalar Kanunu', category: 'Mevzuat (%20)', icon: '👥', targetQuestions: 3 },
-  { id: 'anayasa', name: 'T.C. Anayasası ve İdare Hukuku', category: 'Genel Kültür & Hukuk (%20)', icon: '🇹🇷', targetQuestions: 8 },
   { id: 'egitim-yonetimi', name: 'Eğitim Yönetimi ve Denetimi Kuramları', category: 'Eğitim Yönetimi (%30)', icon: '📊', targetQuestions: 16 },
   { id: 'liderlik', name: 'Eğitimde Liderlik, İletişim & Okul Kültürü', category: 'Eğitim Yönetimi (%30)', icon: '🌟', targetQuestions: 8 },
-  { id: 'degerler-egitimi', name: 'Değerler Eğitimi ve Mesleki Etik', category: 'Etik & Değerler (%10)', icon: '🤝', targetQuestions: 8 },
-  { id: 'genel-kultur', name: 'Genel Kültür, Türk Tarihi & Coğrafya', category: 'Genel Kültür & Hukuk (%20)', icon: '🌍', targetQuestions: 8 }
+  { id: 'degerler-egitimi', name: 'Değerler Eğitimi ve Mesleki Etik', category: 'Etik & Değerler (%10)', icon: '🤝', targetQuestions: 8 }
 ];
 
 const INITIAL_QUESTIONS = [
@@ -236,38 +234,6 @@ const INITIAL_QUESTIONS = [
     ],
     correctAnswer: 'A',
     explanation: 'Öğretimsel Liderlik (Instructional Leadership); okul yöneticisinin sınıf içi öğrenme-öğretme süreçlerine, ders programlarına ve öğrenci başarısını artırıcı etkinliklere odaklanmasını ifade eder.'
-  },
-
-  // --- T.C. ANAYASASI ---
-  {
-    id: 'q-anayasa-1',
-    topicId: 'anayasa',
-    topicName: 'T.C. Anayasası',
-    question: '1982 Anayasası\'na göre, Türkiye Büyük Millet Meclisi (TBMM) genel seçimleri kaç yılda bir yapılır?',
-    options: [
-      { key: 'A', text: '3 yılda bir' },
-      { key: 'B', text: '4 yılda bir' },
-      { key: 'C', text: '5 yılda bir' },
-      { key: 'D', text: '6 yılda bir' },
-      { key: 'E', text: 'Cumhurbaşkanı kararına göre 2 yılda bir' }
-    ],
-    correctAnswer: 'C',
-    explanation: '1982 Anayasası Madde 77\'ye göre: Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri beş yılda bir aynı günde yapılır.'
-  },
-  {
-    id: 'q-anayasa-2',
-    topicId: 'anayasa',
-    topicName: 'T.C. Anayasası',
-    question: '1982 Anayasası\'na göre, "Kimse, eğitim ve öğrenim hakkından yoksun bırakılamaz. İlköğretim kız ve erkek bütün vatandaşlar için zorunludur ve Devlet okullarında parasızdır." hükmü Anayasa\'nın hangi maddesinde yer alır?',
-    options: [
-      { key: 'A', text: 'Madde 10 (Kanun Önünde Eşitlik)' },
-      { key: 'B', text: 'Madde 24 (Din ve Vicdan Hürriyeti)' },
-      { key: 'C', text: 'Madde 42 (Eğitim ve Öğrenim Hakkı ve Ödevi)' },
-      { key: 'D', text: 'Madde 58 (Gençliğin Korunması)' },
-      { key: 'E', text: 'Madde 130 (Yükseköğretim Kurumları)' }
-    ],
-    correctAnswer: 'C',
-    explanation: '1982 Anayasası Madde 42 "Eğitim ve Öğrenim Hakkı ve Ödevi" başlığı altında düzenlenmiştir.'
   },
 
   // --- DEĞERLER EĞİTİMİ & ETİK ---

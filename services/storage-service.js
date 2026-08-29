@@ -31,14 +31,14 @@ class StorageService {
     }
 
     // Soruları yerel hafızaya yükle / senkronize et
-    const savedQuestions = this.getQuestions();
+    let savedQuestions = this.getQuestions().filter(q => q.topicId !== 'anayasa' && !q.id.includes('anayasa'));
     if (savedQuestions.length === 0) {
       this.saveQuestions(allInitialQuestions);
     } else {
       // Yeni eklenen PDF soruları varsa mevcut havuzla birleştir
       const merged = [...savedQuestions];
       allInitialQuestions.forEach(q => {
-        if (!merged.find(item => item.id === q.id)) {
+        if (!merged.find(item => item.id === q.id) && q.topicId !== 'anayasa') {
           merged.push(q);
         }
       });
@@ -46,7 +46,9 @@ class StorageService {
     }
 
     // 2. Dinamik Konu Listesini Oluştur
-    const baseTopics = (typeof window !== 'undefined' && Array.isArray(window.EKYS_TOPICS)) ? [...window.EKYS_TOPICS] : [];
+    const baseTopics = (typeof window !== 'undefined' && Array.isArray(window.EKYS_TOPICS)) 
+      ? window.EKYS_TOPICS.filter(t => t.id !== 'anayasa') 
+      : [];
     
     // Çıkarılan testlerden dinamik konuları ekle
     const dynamicTopicMap = new Map();
