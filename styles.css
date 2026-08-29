@@ -1128,4 +1128,16 @@ body {
   border-radius: 4px;
 }
 
+.header-user-pill {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(99, 102, 241, 0.12);
+  border: 1px solid rgba(99, 102, 241, 0.3);
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  cursor: default;
+  user-select: none;
+}
+
 

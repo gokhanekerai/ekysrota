@@ -333,9 +333,15 @@ class FirebaseService {
       if (mainAppEl) mainAppEl.style.display = 'flex';
 
       if (userBtn) {
-        userBtn.innerHTML = `<span>👤 ${name}</span> <span class="badge ${isAdminUser ? 'badge-warning' : 'badge-info'}" style="margin-left:6px; font-size:0.7rem;">${role}</span> <button class="btn btn-danger btn-xs" style="margin-left:8px; padding:3px 8px; font-size:0.75rem;" onclick="event.stopPropagation(); firebaseService.logout();">🚪 Çıkış</button>`;
-        userBtn.classList.remove('btn-secondary');
-        userBtn.classList.add('btn-primary');
+        userBtn.innerHTML = `
+          <span style="font-weight: 600; font-size: 0.88rem; color: #f1f5f9; display: flex; align-items: center; gap: 6px;">
+            <span>👤</span> ${name}
+            <span class="badge ${isAdminUser ? 'badge-warning' : 'badge-info'}" style="font-size:0.7rem; padding: 2px 6px;">${role}</span>
+          </span>
+          <button class="btn btn-danger btn-xs" style="margin-left:8px; padding:3px 8px; font-size:0.75rem;" onclick="firebaseService.logout();">🚪 Çıkış</button>
+        `;
+        userBtn.className = 'header-user-pill';
+        userBtn.onclick = null;
       }
 
       if (userProfileEl) {

@@ -145,9 +145,7 @@
         </div>
 
         <div class="header-actions">
-          <button class="btn btn-secondary btn-sm" id="btn-auth-user" onclick="app.openAuthModal()">
-            <span>👤</span> <span>Giriş Yap</span>
-          </button>
+          <div class="header-user-pill" id="btn-auth-user"></div>
           <button class="btn btn-secondary btn-sm" onclick="app.openTopicManagerModal()">
             <span>➕</span> Konu / PDF Ekle
           </button>
@@ -550,69 +548,13 @@
       <span class="mobile-nav-icon">📈</span>
       <span class="mobile-nav-label">Analiz</span>
     </a>
-    <a class="mobile-nav-item" onclick="app.openAuthModal()">
-      <span class="mobile-nav-icon">👤</span>
-      <span class="mobile-nav-label">Profil</span>
+    <a class="mobile-nav-item" onclick="firebaseService.logout()" title="Güvenli Çıkış">
+      <span class="mobile-nav-icon">🚪</span>
+      <span class="mobile-nav-label">Çıkış</span>
     </a>
   </nav>
 
   <!-- ==================== MODALS ==================== -->
-
-  <!-- MODAL: KULLANICI GİRİŞ & KAYIT (AUTH MODAL) -->
-  <div class="modal" id="auth-modal">
-    <div class="modal-content" style="max-width: 440px;">
-      <div class="modal-header">
-        <h3 class="modal-title" id="auth-modal-title">🔑 Giriş Yap</h3>
-        <button class="modal-close" onclick="app.closeAuthModal()">✕</button>
-      </div>
-
-      <!-- Auth Tab Buttons -->
-      <div style="display: flex; gap: 8px; margin-bottom: 20px;">
-        <button id="tab-auth-login" class="btn btn-primary btn-sm btn-block" onclick="app.switchAuthTab('login')">Giriş Yap</button>
-        <button id="tab-auth-register" class="btn btn-secondary btn-sm btn-block" onclick="app.switchAuthTab('register')">Yeni Kayıt</button>
-      </div>
-
-      <!-- Form: Giriş Yap -->
-      <form id="form-login" onsubmit="app.handleEmailLogin(event)">
-        <div class="form-group">
-          <label class="form-label">E-posta Adresi</label>
-          <input type="email" id="login-email" class="form-control" placeholder="ornek@ekys.com" required>
-        </div>
-        <div class="form-group">
-          <label class="form-label">Şifre</label>
-          <input type="password" id="login-password" class="form-control" placeholder="••••••••" required>
-        </div>
-        <button type="submit" class="btn btn-primary btn-block">
-          🔑 Giriş Yap
-        </button>
-      </form>
-
-      <!-- Form: Kayıt Ol -->
-      <form id="form-register" style="display: none;" onsubmit="app.handleEmailRegister(event)">
-        <div class="form-group">
-          <label class="form-label">Adınız Soyadınız</label>
-          <input type="text" id="reg-name" class="form-control" placeholder="Ad Soyad" required>
-        </div>
-        <div class="form-group">
-          <label class="form-label">E-posta Adresi</label>
-          <input type="email" id="reg-email" class="form-control" placeholder="ornek@ekys.com" required>
-        </div>
-        <div class="form-group">
-          <label class="form-label">Şifre</label>
-          <input type="password" id="reg-password" class="form-control" placeholder="En az 6 karakter" required minlength="6">
-        </div>
-        <button type="submit" class="btn btn-primary btn-block">
-          ➕ Hesabı Oluştur ve Başla
-        </button>
-      </form>
-
-      <div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--border-color); text-align: center;">
-        <button class="btn btn-secondary btn-block btn-sm" onclick="app.handleGoogleLogin()">
-          <span>🌐</span> Google ile Hızlı Giriş
-        </button>
-      </div>
-    </div>
-  </div>
 
   <!-- MODAL: GÖRSEL BÜYÜTEÇ / LIGHTBOX (IMAGE ZOOM) -->
   <div class="modal modal-zoom" id="image-zoom-modal" onclick="app.closeImageZoom(event)">
@@ -695,13 +637,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=3.5"></script>
-  <script src="data/questions-db.js?v=3.5"></script>
-  <script src="services/storage-service.js?v=3.5"></script>
-  <script src="services/firebase-service.js?v=3.5"></script>
-  <script src="services/pdf-service.js?v=3.5"></script>
-  <script src="services/youtube-service.js?v=3.5"></script>
-  <script src="services/question-generator.js?v=3.5"></script>
-  <script src="app.js?v=3.5"></script>
+  <script src="data/ekys-sample-questions.js?v=3.6"></script>
+  <script src="data/questions-db.js?v=3.6"></script>
+  <script src="services/storage-service.js?v=3.6"></script>
+  <script src="services/firebase-service.js?v=3.6"></script>
+  <script src="services/pdf-service.js?v=3.6"></script>
+  <script src="services/youtube-service.js?v=3.6"></script>
+  <script src="services/question-generator.js?v=3.6"></script>
+  <script src="app.js?v=3.6"></script>
 </body>
 </html>
