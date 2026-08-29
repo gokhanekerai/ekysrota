@@ -996,38 +996,67 @@ class EKYSApp {
     container.innerHTML = '<div style="text-align: center; padding: 20px; color: var(--text-secondary);">Kullanıcılar getiriliyor...</div>';
 
     try {
-      const users = await window.firebaseService.getAllUsers();
-      if (users.length === 0) {
-        container.innerHTML = '<div style="color: var(--text-secondary); padding: 14px;">Kayıtlı kullanıcı bulunamadı veya henüz giriş yapılmadı.</div>';
-        return;
+      // Hem Firestore'dan hem Yerel Tanımlı Kullanıcılardan birleştir
+      const fbUsers = (window.firebaseService && typeof window.firebaseService.getAllUsers === 'function') 
+        ? await window.firebaseService.getAllUsers() 
+        : [];
+      const customUsers = (window.storageService && typeof window.storageService.getCustomUsers === 'function') 
+        ? window.storageService.getCustomUsers() 
+        : [];
+
+      const userMap = new Map();
+      customUsers.forEach(u => userMap.set(u.email.toLowerCase(), { id: u.email, ...u }));
+      fbUsers.forEach(u => {
+        if (u.email) {
+          const key = u.email.toLowerCase();
+          const existing = userMap.get(key) || {};
+          userMap.set(key, { ...existing, ...u, id: u.id || u.email });
+        }
+      });
+
+      // Master Admin'i de listeye ekle
+      if (!userMap.has('admin@ekysrota.com')) {
+        userMap.set('admin@ekysrota.com', {
+          id: 'master_admin',
+          displayName: 'Gökhan Eker (Ana Yönetici)',
+          email: 'admin@ekysrota.com',
+          role: 'admin',
+          createdAt: new Date().toISOString()
+        });
       }
+
+      const allUsers = Array.from(userMap.values());
 
       container.innerHTML = `
         <table class="admin-table">
           <thead>
             <tr>
-              <th>Kullanıcı</th>
+              <th>Kullanıcı Adı</th>
               <th>E-posta</th>
-              <th>Rol</th>
+              <th>Şifre</th>
+              <th>Yetki Rolü</th>
               <th>Kayıt Tarihi</th>
               <th>İşlem</th>
             </tr>
           </thead>
           <tbody>
-            ${users.map(u => `
+            ${allUsers.map(u => `
               <tr>
-                <td><strong>${u.displayName || 'Kullanıcı'}</strong></td>
-                <td>${u.email}</td>
+                <td><strong>${u.displayName || u.name || 'Kullanıcı'}</strong></td>
+                <td><code style="color: #a5b4fc;">${u.email}</code></td>
+                <td><span style="font-family: monospace; font-size: 0.85rem; color: #34d399;">${u.password || '••••••••'}</span></td>
                 <td>
                   <span class="badge ${u.role === 'admin' ? 'badge-warning' : 'badge-info'}" style="padding: 2px 8px; font-size: 0.75rem;">
                     ${u.role === 'admin' ? '👑 Yönetici' : '🎓 Öğrenci'}
                   </span>
                 </td>
-                <td>${u.createdAt ? new Date(u.createdAt).toLocaleDateString('tr-TR') : '-'}</td>
+                <td>${u.createdAt ? new Date(u.createdAt).toLocaleDateString('tr-TR') : 'Aktif'}</td>
                 <td>
-                  <button class="btn btn-danger btn-sm" onclick="app.handleAdminDeleteUser('${u.id}', '${u.displayName || u.email}')">
-                    🗑️ Çıkar / Sil
-                  </button>
+                  ${u.email === 'admin@ekysrota.com' ? '<span style="color: var(--text-secondary); font-size: 0.8rem;">(Ana Hesap)</span>' : `
+                    <button class="btn btn-danger btn-sm" onclick="app.handleAdminDeleteUser('${u.email}', '${u.displayName || u.name || u.email}')">
+                      🗑️ Çıkar / Sil
+                    </button>
+                  `}
                 </td>
               </tr>
             `).join('')}
@@ -1047,8 +1076,26 @@ class EKYSApp {
     const role = document.getElementById('admin-user-role').value;
 
     try {
-      await window.firebaseService.registerWithEmail(email, pass, name, role);
-      this.showToast(`Yeni kullanıcı (${name}) başarıyla oluşturuldu!`, 'success');
+      // 1. Yerel veritabanına yetkili olarak kaydet
+      if (window.storageService) {
+        window.storageService.saveCustomUser({
+          name: name,
+          email: email,
+          password: pass,
+          role: role
+        });
+      }
+
+      // 2. Firebase Bulut veritabanına kaydet
+      if (window.firebaseService) {
+        try {
+          await window.firebaseService.registerWithEmail(email, pass, name, role);
+        } catch (fbErr) {
+          console.warn('Firebase bulut kayıt uyarısı:', fbErr);
+        }
+      }
+
+      this.showToast(`✅ "${name}" kullanıcısı (${role === 'admin' ? 'Yönetici' : 'Öğrenci'}) başarıyla sisteme eklendi!`, 'success');
       document.getElementById('admin-add-user-form').reset();
       this.loadAdminUsersList();
     } catch (err) {
@@ -1056,11 +1103,20 @@ class EKYSApp {
     }
   }
 
-  async handleAdminDeleteUser(uid, name) {
-    if (confirm(`"${name}" kullanıcısını sistemden çıkarmak istediğinize emin misiniz?`)) {
+  async handleAdminDeleteUser(email, name) {
+    if (confirm(`"${name}" kullanıcısını sistemden tamamen çıkarmak istediğinize emin misiniz? Artık sisteme giriş yapamayacak.`)) {
       try {
-        await window.firebaseService.removeUser(uid);
-        this.showToast('Kullanıcı sistemden çıkarıldı.', 'success');
+        if (window.storageService) {
+          window.storageService.removeCustomUser(email);
+        }
+        if (window.firebaseService) {
+          try {
+            await window.firebaseService.removeUser(email);
+          } catch (e) {
+            console.warn('Firebase silme:', e);
+          }
+        }
+        this.showToast(`"${name}" sistemden çıkarıldı.`, 'success');
         this.loadAdminUsersList();
       } catch (err) {
         this.showToast(err.message, 'error');

@@ -343,10 +343,38 @@ class StorageService {
     if (data.topics) this.saveTopics(data.topics);
     if (data.questions) this.saveQuestions(data.questions);
     if (data.wrongPool) localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
-    if (data.favorites) localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(data.favorites));
-    if (data.quizHistory) localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(data.quizHistory));
-    if (data.sources) localStorage.setItem(this.KEYS.SOURCES, JSON.stringify(data.sources));
-    if (data.settings) localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(data.settings));
+  // --- YÖNETİCİ TARAFINDAN TANIMLANAN KULLANICILAR ---
+  getCustomUsers() {
+    try {
+      return JSON.parse(localStorage.getItem(this.KEYS.CUSTOM_USERS)) || [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  saveCustomUser(user) {
+    let users = this.getCustomUsers();
+    users = users.filter(u => u.email.toLowerCase() !== user.email.toLowerCase());
+    users.push({
+      ...user,
+      createdAt: user.createdAt || new Date().toISOString()
+    });
+    localStorage.setItem(this.KEYS.CUSTOM_USERS, JSON.stringify(users));
+    this.syncCloud();
+    return users;
+  }
+
+  removeCustomUser(email) {
+    let users = this.getCustomUsers();
+    users = users.filter(u => u.email.toLowerCase() !== email.toLowerCase());
+    localStorage.setItem(this.KEYS.CUSTOM_USERS, JSON.stringify(users));
+    this.syncCloud();
+    return users;
+  }
+
+  findCustomUser(email, password) {
+    const users = this.getCustomUsers();
+    return users.find(u => u.email.toLowerCase() === email.toLowerCase() && u.password === password);
   }
 }
 

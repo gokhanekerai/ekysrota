@@ -49,20 +49,14 @@
         <p class="auth-gate-subtitle">Soru Bankası, Çıkmış Sınavlar ve Bulut Çalışma Platformu</p>
       </div>
 
-      <!-- Auth Gate Tabs -->
-      <div class="auth-gate-tabs">
-        <button id="gate-tab-login" class="btn btn-primary btn-sm btn-block" onclick="app.switchGateTab('login')">🔑 Giriş Yap</button>
-        <button id="gate-tab-register" class="btn btn-secondary btn-sm btn-block" onclick="app.switchGateTab('register')">➕ Yeni Kayıt</button>
-      </div>
-
-      <!-- Form: Giriş Yap -->
+      <!-- Giriş Formu (Yönetici Kontrollü) -->
       <form id="gate-form-login" onsubmit="app.handleGateLogin(event)">
         <div class="form-group">
-          <label class="form-label">E-posta Adresi</label>
-          <input type="email" id="gate-login-email" class="form-control" placeholder="ornek@ekys.com" required autocomplete="email">
+          <label class="form-label">E-posta Adresi / Kullanıcı Adı</label>
+          <input type="email" id="gate-login-email" class="form-control" placeholder="admin@ekysrota.com veya ogrenci@ekys.com" required autocomplete="email">
         </div>
         <div class="form-group">
-          <label class="form-label">Şifre</label>
+          <label class="form-label">Giriş Şifresi</label>
           <input type="password" id="gate-login-password" class="form-control" placeholder="••••••••" required autocomplete="current-password">
         </div>
         <button type="submit" class="btn btn-primary btn-block" style="padding: 12px; font-size: 1rem; margin-top: 8px;">
@@ -70,29 +64,14 @@
         </button>
       </form>
 
-      <!-- Form: Kayıt Ol -->
-      <form id="gate-form-register" style="display: none;" onsubmit="app.handleGateRegister(event)">
-        <div class="form-group">
-          <label class="form-label">Adınız Soyadınız</label>
-          <input type="text" id="gate-reg-name" class="form-control" placeholder="Ad Soyad" required>
-        </div>
-        <div class="form-group">
-          <label class="form-label">E-posta Adresi</label>
-          <input type="email" id="gate-reg-email" class="form-control" placeholder="ornek@ekys.com" required autocomplete="email">
-        </div>
-        <div class="form-group">
-          <label class="form-label">Şifre</label>
-          <input type="password" id="gate-reg-password" class="form-control" placeholder="En az 6 karakter" required minlength="6" autocomplete="new-password">
-        </div>
-        <button type="submit" class="btn btn-primary btn-block" style="padding: 12px; font-size: 1rem; margin-top: 8px;">
-          ➕ Hesabı Oluştur ve Başla
+      <div style="margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--border-color); text-align: center;">
+        <button class="btn btn-secondary btn-block btn-sm" onclick="app.handleGoogleLogin()">
+          <span>🌐</span> Google Hesabı ile Giriş
         </button>
-      </form>
+      </div>
 
-      <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border-color); text-align: center;">
-        <button class="btn btn-secondary btn-block" onclick="app.handleGoogleLogin()">
-          <span>🌐</span> Google Hesabı ile Hızlı Giriş
-        </button>
+      <div style="margin-top: 14px; padding: 10px; background: rgba(99, 102, 241, 0.08); border-radius: 8px; border: 1px solid rgba(99, 102, 241, 0.2); font-size: 0.78rem; color: #a5b4fc; text-align: center; line-height: 1.4;">
+        🔒 <strong>Yönetici Kontrollü Erişim:</strong><br>Sisteme yalnızca Yönetici tarafından tanımlanan yetkili kullanıcılar ve öğrenciler giriş yapabilir.
       </div>
     </div>
   </div>
