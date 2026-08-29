@@ -343,7 +343,7 @@ class StorageService {
     if (data.topics) this.saveTopics(data.topics);
     if (data.questions) this.saveQuestions(data.questions);
     if (data.wrongPool) localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
-  // --- YÖNETİCİ TARAFINDAN TANIMLANAN KULLANICILAR ---
+  // --- YÖNETİCİ TARAFINDAN TANIMLANAN KULLANICILAR (KULLANICI ADI & ŞİFRE) ---
   getCustomUsers() {
     try {
       return JSON.parse(localStorage.getItem(this.KEYS.CUSTOM_USERS)) || [];
@@ -354,9 +354,11 @@ class StorageService {
 
   saveCustomUser(user) {
     let users = this.getCustomUsers();
-    users = users.filter(u => u.email.toLowerCase() !== user.email.toLowerCase());
+    const uname = (user.username || user.email || '').trim().toLowerCase();
+    users = users.filter(u => (u.username || u.email || '').trim().toLowerCase() !== uname);
     users.push({
       ...user,
+      username: uname,
       createdAt: user.createdAt || new Date().toISOString()
     });
     localStorage.setItem(this.KEYS.CUSTOM_USERS, JSON.stringify(users));
@@ -364,17 +366,19 @@ class StorageService {
     return users;
   }
 
-  removeCustomUser(email) {
+  removeCustomUser(username) {
     let users = this.getCustomUsers();
-    users = users.filter(u => u.email.toLowerCase() !== email.toLowerCase());
+    const uname = (username || '').trim().toLowerCase();
+    users = users.filter(u => (u.username || u.email || '').trim().toLowerCase() !== uname);
     localStorage.setItem(this.KEYS.CUSTOM_USERS, JSON.stringify(users));
     this.syncCloud();
     return users;
   }
 
-  findCustomUser(email, password) {
+  findCustomUser(username, password) {
     const users = this.getCustomUsers();
-    return users.find(u => u.email.toLowerCase() === email.toLowerCase() && u.password === password);
+    const uname = (username || '').trim().toLowerCase();
+    return users.find(u => (u.username || u.email || '').trim().toLowerCase() === uname && u.password === password);
   }
 }
 

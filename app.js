@@ -883,12 +883,13 @@ class EKYSApp {
 
   async handleGateLogin(e) {
     e.preventDefault();
-    const email = document.getElementById('gate-login-email').value.trim();
+    const usernameInput = document.getElementById('gate-login-username') || document.getElementById('gate-login-email');
+    const username = usernameInput ? usernameInput.value.trim() : '';
     const pass = document.getElementById('gate-login-password').value;
 
     try {
-      await window.firebaseService.loginWithEmail(email, pass);
-      this.showToast(`Hoş geldiniz, ${email}!`, 'success');
+      await window.firebaseService.loginWithEmail(username, pass);
+      this.showToast(`Hoş geldiniz!`, 'success');
       this.renderDashboard();
     } catch (err) {
       this.showToast(`Giriş başarısız: ${err.message}`, 'error');
@@ -1071,16 +1072,17 @@ class EKYSApp {
   async handleAdminCreateUser(e) {
     e.preventDefault();
     const name = document.getElementById('admin-user-name').value.trim();
-    const email = document.getElementById('admin-user-email').value.trim();
+    const usernameInput = document.getElementById('admin-user-username') || document.getElementById('admin-user-email');
+    const username = usernameInput ? usernameInput.value.trim().toLowerCase() : '';
     const pass = document.getElementById('admin-user-password').value;
     const role = document.getElementById('admin-user-role').value;
 
     try {
-      // 1. Yerel veritabanına yetkili olarak kaydet
+      // 1. Yerel veritabanına yetkili kullanıcı adı ve şifreyle kaydet
       if (window.storageService) {
         window.storageService.saveCustomUser({
           name: name,
-          email: email,
+          username: username,
           password: pass,
           role: role
         });
@@ -1089,13 +1091,14 @@ class EKYSApp {
       // 2. Firebase Bulut veritabanına kaydet
       if (window.firebaseService) {
         try {
-          await window.firebaseService.registerWithEmail(email, pass, name, role);
+          const fakeEmail = username.includes('@') ? username : `${username}@ekysrota.local`;
+          await window.firebaseService.registerWithEmail(fakeEmail, pass, name, role);
         } catch (fbErr) {
           console.warn('Firebase bulut kayıt uyarısı:', fbErr);
         }
       }
 
-      this.showToast(`✅ "${name}" kullanıcısı (${role === 'admin' ? 'Yönetici' : 'Öğrenci'}) başarıyla sisteme eklendi!`, 'success');
+      this.showToast(`✅ "${name}" kullanıcısı (Kullanıcı Adı: ${username}) başarıyla eklendi!`, 'success');
       document.getElementById('admin-add-user-form').reset();
       this.loadAdminUsersList();
     } catch (err) {

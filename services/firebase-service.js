@@ -318,7 +318,11 @@ class FirebaseService {
 
     const name = (this.currentUserDoc && this.currentUserDoc.displayName) || 
                  (user && user.displayName) || 
+                 (user && user.username) || 
                  (user && user.email ? user.email.split('@')[0] : 'Kullanıcı');
+
+    const isAdminUser = this.isAdmin();
+    const role = isAdminUser ? '👑 Yönetici' : '🎓 Öğrenci';
 
     const authGateEl = document.getElementById('auth-gate-container');
     const mainAppEl = document.getElementById('main-app-container');
@@ -328,31 +332,32 @@ class FirebaseService {
       if (mainAppEl) mainAppEl.style.display = 'flex';
 
       if (userBtn) {
-        userBtn.innerHTML = `<span>👤</span> <span>${name}</span>`;
+        userBtn.innerHTML = `<span>👤 ${name}</span> <span class="badge ${isAdminUser ? 'badge-warning' : 'badge-info'}" style="margin-left:6px; font-size:0.7rem;">${role}</span> <button class="btn btn-danger btn-xs" style="margin-left:8px; padding:3px 8px; font-size:0.75rem;" onclick="event.stopPropagation(); firebaseService.logout();">🚪 Çıkış</button>`;
         userBtn.classList.remove('btn-secondary');
         userBtn.classList.add('btn-primary');
       }
+
       if (userProfileEl) {
         userProfileEl.innerHTML = `
-          <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid var(--border-color);">
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(135deg, #3b82f6, #8b5cf6); display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.1rem; color: white;">
+          <div style="padding: 12px; background: rgba(255,255,255,0.06); border-radius: 12px; border: 1px solid var(--border-active);">
+            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+              <div style="width: 38px; height: 38px; border-radius: 50%; background: linear-gradient(135deg, #6366f1, #8b5cf6); display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem; color: white;">
                 ${name.charAt(0).toUpperCase()}
               </div>
-              <div>
-                <div style="font-weight: 700; font-size: 0.95rem; display: flex; align-items: center; gap: 6px;">
-                  ${name}
-                  <span class="badge ${this.isAdmin() ? 'badge-warning' : 'badge-info'}" style="font-size: 0.7rem; padding: 2px 6px;">${role}</span>
-                </div>
-                <div style="font-size: 0.78rem; color: var(--text-secondary);">${user.email}</div>
+              <div style="overflow: hidden;">
+                <div style="font-weight: 700; font-size: 0.9rem; white-space: nowrap; text-overflow: ellipsis; overflow: hidden;">${name}</div>
+                <span class="badge ${isAdminUser ? 'badge-warning' : 'badge-info'}" style="font-size: 0.7rem; padding: 2px 6px;">${role}</span>
               </div>
             </div>
-            <button class="btn btn-secondary btn-sm" onclick="firebaseService.logout()">🚪 Çıkış</button>
+            <button class="btn btn-danger btn-block btn-sm" onclick="firebaseService.logout()" style="display: flex; align-items: center; justify-content: center; gap: 6px;">
+              <span>🚪</span> Güvenli Çıkış Yap
+            </button>
           </div>
         `;
       }
+
       if (adminNavEl) {
-        adminNavEl.style.display = this.isAdmin() ? 'flex' : 'none';
+        adminNavEl.style.display = isAdminUser ? 'flex' : 'none';
       }
     } else {
       if (authGateEl) authGateEl.style.display = 'flex';
@@ -365,14 +370,9 @@ class FirebaseService {
       }
       if (userProfileEl) {
         userProfileEl.innerHTML = `
-          <div style="display: flex; gap: 8px;">
-            <button class="btn btn-primary btn-block" onclick="app.openAuthModal('login')">
-              <span>🔑</span> Giriş Yap
-            </button>
-            <button class="btn btn-secondary btn-block" onclick="app.openAuthModal('register')">
-              <span>➕</span> Kayıt Ol
-            </button>
-          </div>
+          <button class="btn btn-primary btn-block btn-sm" onclick="app.showAuthGate()">
+            <span>🔑</span> Giriş Yap
+          </button>
         `;
       }
       if (adminNavEl) {

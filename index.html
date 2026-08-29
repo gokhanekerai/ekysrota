@@ -49,11 +49,11 @@
         <p class="auth-gate-subtitle">Soru Bankası, Çıkmış Sınavlar ve Bulut Çalışma Platformu</p>
       </div>
 
-      <!-- Giriş Formu (Yönetici Kontrollü) -->
+      <!-- Giriş Formu (Kullanıcı Adı ve Şifre) -->
       <form id="gate-form-login" onsubmit="app.handleGateLogin(event)">
         <div class="form-group">
-          <label class="form-label">E-posta Adresi / Kullanıcı Adı</label>
-          <input type="email" id="gate-login-email" class="form-control" placeholder="admin@ekysrota.com veya ogrenci@ekys.com" required autocomplete="email">
+          <label class="form-label">Kullanıcı Adı</label>
+          <input type="text" id="gate-login-username" class="form-control" placeholder="Kullanıcı Adınız (Örn: admin)" required autocomplete="username">
         </div>
         <div class="form-group">
           <label class="form-label">Giriş Şifresi</label>
@@ -64,14 +64,8 @@
         </button>
       </form>
 
-      <div style="margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--border-color); text-align: center;">
-        <button class="btn btn-secondary btn-block btn-sm" onclick="app.handleGoogleLogin()">
-          <span>🌐</span> Google Hesabı ile Giriş
-        </button>
-      </div>
-
       <div style="margin-top: 14px; padding: 10px; background: rgba(99, 102, 241, 0.08); border-radius: 8px; border: 1px solid rgba(99, 102, 241, 0.2); font-size: 0.78rem; color: #a5b4fc; text-align: center; line-height: 1.4;">
-        🔒 <strong>Yönetici Kontrollü Erişim:</strong><br>Sisteme yalnızca Yönetici tarafından tanımlanan yetkili kullanıcılar ve öğrenciler giriş yapabilir.
+        🔒 <strong>Yönetici Kontrollü Sistem:</strong><br>Kullanıcı adı ve şifreniz Yönetici tarafından tanımlanır.
       </div>
     </div>
   </div>
@@ -459,12 +453,12 @@
                   <input type="text" id="admin-user-name" class="form-control" placeholder="Örn: Ahmet Yılmaz" required>
                 </div>
                 <div class="form-group">
-                  <label class="form-label">E-posta Adresi</label>
-                  <input type="email" id="admin-user-email" class="form-control" placeholder="kullanici@ekys.com" required>
+                  <label class="form-label">Kullanıcı Adı (Giriş İçin)</label>
+                  <input type="text" id="admin-user-username" class="form-control" placeholder="Örn: ahmet" required>
                 </div>
                 <div class="form-group">
                   <label class="form-label">Giriş Şifresi</label>
-                  <input type="password" id="admin-user-password" class="form-control" placeholder="En az 6 karakter" required minlength="6">
+                  <input type="text" id="admin-user-password" class="form-control" placeholder="Örn: 123456" required minlength="4">
                 </div>
                 <div class="form-group">
                   <label class="form-label">Kullanıcı Rolü</label>
