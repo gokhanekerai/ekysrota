@@ -343,6 +343,12 @@ class StorageService {
     if (data.topics) this.saveTopics(data.topics);
     if (data.questions) this.saveQuestions(data.questions);
     if (data.wrongPool) localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
+    if (data.favorites) localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(data.favorites));
+    if (data.quizHistory) localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(data.quizHistory));
+    if (data.sources) localStorage.setItem(this.KEYS.SOURCES, JSON.stringify(data.sources));
+    if (data.settings) localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(data.settings));
+  }
+
   // --- YÖNETİCİ TARAFINDAN TANIMLANAN KULLANICILAR (KULLANICI ADI & ŞİFRE) ---
   getCustomUsers() {
     try {

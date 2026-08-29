@@ -882,18 +882,35 @@ class EKYSApp {
   }
 
   async handleGateLogin(e) {
-    e.preventDefault();
+    if (e) e.preventDefault();
     const usernameInput = document.getElementById('gate-login-username') || document.getElementById('gate-login-email');
     const username = usernameInput ? usernameInput.value.trim() : '';
-    const pass = document.getElementById('gate-login-password').value;
+    const passInput = document.getElementById('gate-login-password');
+    const pass = passInput ? passInput.value : '';
 
     try {
-      await window.firebaseService.loginWithEmail(username, pass);
-      this.showToast(`Hoş geldiniz!`, 'success');
+      if (window.firebaseService) {
+        await window.firebaseService.loginWithEmail(username, pass);
+      }
+
+      // Giriş ekranını gizle ve ana paneli aç
+      const authGateEl = document.getElementById('auth-gate-container');
+      const mainAppEl = document.getElementById('main-app-container');
+      if (authGateEl) authGateEl.style.display = 'none';
+      if (mainAppEl) mainAppEl.style.display = 'flex';
+
+      this.showToast(`Giriş başarılı! Hoş geldiniz.`, 'success');
       this.renderDashboard();
     } catch (err) {
       this.showToast(`Giriş başarısız: ${err.message}`, 'error');
     }
+  }
+
+  showAuthGate() {
+    const authGateEl = document.getElementById('auth-gate-container');
+    const mainAppEl = document.getElementById('main-app-container');
+    if (authGateEl) authGateEl.style.display = 'flex';
+    if (mainAppEl) mainAppEl.style.display = 'none';
   }
 
   async handleGateRegister(e) {
