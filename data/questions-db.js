@@ -1,4 +1,4 @@
-// EKYS 2027 Odaklı Soru Veritabanı - Coğrafya Video Tarama Testi 1 (20 Soru)
+// EKYS 2027 Odaklı Soru Veritabanı - Coğrafya Video Tarama Testleri (Toplam 40 Soru)
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -739,5 +739,745 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong><br>Aynı anda farklı iklim ve mevsim koşullarının görülmesi yer şekilleri ve yükseltinin (Göreceli Konum) sonucudur."
+  },
+  {
+    "id": "cogr2-q1",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 1,
+    "questionText": "21 Haziran günü yukarıda verilen Türkiye haritasındaki kentlerden (Sinop, Kocaeli, Isparta, Şırnak, Kars) hangisinde Güneş daha erken doğar?",
+    "hasImage": true,
+    "image": "assets/questions/cogr2_q1_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Isparta"
+      },
+      {
+        "key": "B",
+        "text": "Kars"
+      },
+      {
+        "key": "C",
+        "text": "Sinop"
+      },
+      {
+        "key": "D",
+        "text": "Kocaeli"
+      },
+      {
+        "key": "E",
+        "text": "Hakkâri"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>21 Haziran'da kuzeye ve doğuya gidildikçe gündüz süresi uzar ve Güneş daha erken doğar. Kars en kuzeydoğuda yer alır."
+  },
+  {
+    "id": "cogr2-q2",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 2,
+    "questionText": "Yukarıda verilen Türkiye haritasındaki beş ayrı noktanın hangisinde 21 Aralık'ta yaşanan gece süresi diğerlerine göre daha uzundur?",
+    "hasImage": true,
+    "image": "assets/questions/cogr2_q2_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "V"
+      },
+      {
+        "key": "B",
+        "text": "IV"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "II"
+      },
+      {
+        "key": "E",
+        "text": "I"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>21 Aralık'ta kuzeye gidildikçe gece süresi uzar; haritada en kuzeyde yer alan nokta III (Sinop civarı)'tür."
+  },
+  {
+    "id": "cogr2-q3",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 3,
+    "questionText": "Türkiye'de hangi tarihten sonra öğle vakti gölge boyları kısalmaya başlar?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "21 Haziran"
+      },
+      {
+        "key": "B",
+        "text": "23 Eylül"
+      },
+      {
+        "key": "C",
+        "text": "15 Şubat"
+      },
+      {
+        "key": "D",
+        "text": "21 Aralık"
+      },
+      {
+        "key": "E",
+        "text": "21 Mart"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>21 Aralık'ta gölge boyu en uzundur; 21 Aralık'tan sonra Güneş ışınlarının geliş açısı büyüdüğü için gölge boyları kısalmaya başlar."
+  },
+  {
+    "id": "cogr2-q4",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 4,
+    "questionText": "Türkiye'de en uzun gece süresinin yaşandığı tarihte (21 Aralık) Elazığ'dan aşağıdaki kentlerin hangisine gidilirse ulaşılan kentteki gece süresinin daha kısa olacağı söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rize"
+      },
+      {
+        "key": "B",
+        "text": "Çankırı"
+      },
+      {
+        "key": "C",
+        "text": "Kırklareli"
+      },
+      {
+        "key": "D",
+        "text": "Kars"
+      },
+      {
+        "key": "E",
+        "text": "Hakkâri"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>21 Aralık'ta güneye gidildikçe gece süresi kısalır; Hakkâri Elazığ'ın güneyinde yer alır."
+  },
+  {
+    "id": "cogr2-q5",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 5,
+    "questionText": "Yukarıda İstanbul'da Güneş'in gün içindeki ufuk konumu verilirken, aynı anda Türkiye'de başka bir ilde (X) Güneş'in konumu gösterilmiştir. Coğrafi konum özellikleri dikkate alındığında X şehri aşağıdakilerden hangisi olabilir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr2_q5_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bursa"
+      },
+      {
+        "key": "B",
+        "text": "Sinop"
+      },
+      {
+        "key": "C",
+        "text": "Gaziantep"
+      },
+      {
+        "key": "D",
+        "text": "Edirne"
+      },
+      {
+        "key": "E",
+        "text": "Erzurum"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>X kentinde Güneş batmaya daha yakındır yani yerel saati daha ileridir."
+  },
+  {
+    "id": "cogr2-q6",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 6,
+    "questionText": "Kırşehir'den yola çıkan bir araştırma grubu ulaştığı yerin;\n• Yerel saatinin daha geri (Batıya gitmiş)\n• Çizgisel hızının daha fazla (Güneye gitmiş)\n• Grup ve tan süresinin daha kısa (Güneye gitmiş)\nolduğunu gözlemlemiştir.\n\nBu araştırma grubu haritada gösterilen ok yönlerinden hangisine doğru gitmiştir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr2_q6_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Batı ve Güney yönlerinin bileşkesi Güneybatı (IV numaralı ok)'dur."
+  },
+  {
+    "id": "cogr2-q7",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 7,
+    "questionText": "Aşağıda verilen kentlerin hangisinin yerel saatiyle ortak saat (45° Doğu Iğdır) arasındaki zaman farkı daha azdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hakkâri"
+      },
+      {
+        "key": "B",
+        "text": "İzmir"
+      },
+      {
+        "key": "C",
+        "text": "Ankara"
+      },
+      {
+        "key": "D",
+        "text": "Konya"
+      },
+      {
+        "key": "E",
+        "text": "Zonguldak"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>45° Doğu boylamına en yakın olan Hakkâri'de yerel saat ile ulusal saat farkı en azdır."
+  },
+  {
+    "id": "cogr2-q8",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 8,
+    "questionText": "Ekvator üzerinde yıl boyunca 12 saat gece 12 saat gündüz yaşanırken, kutuplara doğru gittikçe gece ile gündüz arasındaki zaman farkı artmaktadır.\n\nBuna göre, Türkiye'de aşağıdaki dönemlerin hangisinde gündüz süresi 12 saatten daha fazladır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ekim – Kasım"
+      },
+      {
+        "key": "B",
+        "text": "Şubat – Mart"
+      },
+      {
+        "key": "C",
+        "text": "Aralık – Ocak"
+      },
+      {
+        "key": "D",
+        "text": "Kasım – Aralık"
+      },
+      {
+        "key": "E",
+        "text": "Nisan – Mayıs"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>21 Mart ile 23 Eylül arasında Kuzey Yarım Küre'de gündüz süresi 12 saatten fazladır (Nisan - Mayıs)."
+  },
+  {
+    "id": "cogr2-q9",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 9,
+    "questionText": "Aşağıda verilen Türkiye'ye ait özelliklerden hangisi Türkiye'nin jeopolitik önemini diğerlerine göre daha az etkiler?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dört mevsimin belirgin olarak yaşanması"
+      },
+      {
+        "key": "B",
+        "text": "İstanbul ve Çanakkale boğazlarına sahip olması"
+      },
+      {
+        "key": "C",
+        "text": "Güçlü bir kara ordusuna sahip olması"
+      },
+      {
+        "key": "D",
+        "text": "Asya ve Avrupa kıtaları arasında köprü olması"
+      },
+      {
+        "key": "E",
+        "text": "Petrol zengini Hazar Havzası ve Orta Doğu'ya komşu olması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Dört mevsimin yaşanması iklimsel/matematik konum özelliğidir; jeopolitik stratejik gücü diğerleri kadar doğrudan etkilemez."
+  },
+  {
+    "id": "cogr2-q10",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 10,
+    "questionText": "Türkiye;\n• Kuzey Yarım Küre'de,\n• Yengeç Dönencesi'nin kuzeyinde,\n• Orta Kuşak'ta yer alır.\n\nBu bilgilere göre aşağıda verilenlerden hangisine ulaşılamaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zonguldak'ta deniz suyu tuzluluğu Muğla'dan daha azdır."
+      },
+      {
+        "key": "B",
+        "text": "Toroslar'ın güney yamacındaki karlar kuzey yamacından daha erken erir."
+      },
+      {
+        "key": "C",
+        "text": "Doğu Karadeniz kıyılarında yıllık yağış miktarı daha fazladır."
+      },
+      {
+        "key": "D",
+        "text": "Hatay'da Güneş ışınlarının geliş açısı yıl içinde 90° olmaz."
+      },
+      {
+        "key": "E",
+        "text": "Türkiye Batı rüzgârları kuşağında yer alır."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Doğu Karadeniz'in fazla yağış alması yer şekilleri ve denize paralel uzanan dağların (Özel Konum) sonucudur."
+  },
+  {
+    "id": "cogr2-q11",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 11,
+    "questionText": "Aşağıdakilerden hangisi Türkiye'yi dolaylı yönden ilgilendiren sorunlardan biridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Irak sorunu"
+      },
+      {
+        "key": "B",
+        "text": "Kosova sorunu"
+      },
+      {
+        "key": "C",
+        "text": "Batı Trakya sorunu"
+      },
+      {
+        "key": "D",
+        "text": "Ermenistan sorunu"
+      },
+      {
+        "key": "E",
+        "text": "Suriye ile Fırat'ın sularını paylaşma sorunu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Sınır komşularımız doğrudan; Kosova, Bosna, Filistin gibi bölgeler dolaylı sorunlarımızdır."
+  },
+  {
+    "id": "cogr2-q12",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 12,
+    "questionText": "Türkiye'nin aşağıda verilen sıcaklık özelliklerinden hangisi özel (göreceli) konumundan etkilenmez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Antalya'nın Zonguldak'tan daha sıcak olması"
+      },
+      {
+        "key": "B",
+        "text": "Kışın Aydın'ın Konya'dan daha sıcak olması"
+      },
+      {
+        "key": "C",
+        "text": "Ankara'nın Erzurum'dan daha sıcak olması"
+      },
+      {
+        "key": "D",
+        "text": "Kışın Samsun'un Aksaray'dan daha sıcak olması"
+      },
+      {
+        "key": "E",
+        "text": "Yazın Şanlıurfa'nın Mersin'den daha sıcak olması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Antalya'nın Zonguldak'tan sıcak olması güney-kuzey enlem (Matematik Konum) farkıdır."
+  },
+  {
+    "id": "cogr2-q13",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 13,
+    "questionText": "Aşağıdaki Türkiye haritasında bazı sınır kapıları gösterilmiştir (İpsala, Kapıkule, Gürbulak, Habur, Cilvegözü).\n\nVerilen sınır kapılarından hangisinin haritadaki yeri yanlış gösterilmiştir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr2_q13_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "İpsala"
+      },
+      {
+        "key": "B",
+        "text": "Kapıkule"
+      },
+      {
+        "key": "C",
+        "text": "Gürbulak"
+      },
+      {
+        "key": "D",
+        "text": "Habur"
+      },
+      {
+        "key": "E",
+        "text": "Cilvegözü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Kapıkule Bulgaristan sınırında yer alır; haritada konumu yanlış işaretlenmiştir."
+  },
+  {
+    "id": "cogr2-q14",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 14,
+    "questionText": "Türkiye, bulunduğu coğrafi konum nedeniyle birçok farklı ticari, ekonomik, askerî ve siyasi uluslararası kuruluşa üyedir.\n\nBuna göre, aşağıdakilerden hangisi Türkiye'nin üye olduğu uluslararası kuruluşlardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "NAFTA"
+      },
+      {
+        "key": "B",
+        "text": "İİT / İKO"
+      },
+      {
+        "key": "C",
+        "text": "KEİ"
+      },
+      {
+        "key": "D",
+        "text": "NATO"
+      },
+      {
+        "key": "E",
+        "text": "OECD"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>NAFTA Kuzey Amerika Serbest Ticaret Anlaşması olup üyeleri ABD, Kanada ve Meksika'dır."
+  },
+  {
+    "id": "cogr2-q15",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 15,
+    "questionText": "Türkiye'nin, aşağıdaki ülkelerin hangisiyle olan kara sınırı diğerlerine göre daha kısadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gürcistan"
+      },
+      {
+        "key": "B",
+        "text": "Yunanistan"
+      },
+      {
+        "key": "C",
+        "text": "Ermenistan"
+      },
+      {
+        "key": "D",
+        "text": "Bulgaristan"
+      },
+      {
+        "key": "E",
+        "text": "Irak"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Yunanistan kara sınırımız 212 km olup verilen seçenekler arasındaki en kısa sınırdır."
+  },
+  {
+    "id": "cogr2-q16",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 16,
+    "questionText": "Aşağıdakilerden hangisi, Türkiye'yi doğrudan ilgilendiren sorunlardan biridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dağlık Karabağ Sorunu"
+      },
+      {
+        "key": "B",
+        "text": "Doğu Akdeniz'deki petrol ve doğal gaz arama faaliyetleri"
+      },
+      {
+        "key": "C",
+        "text": "Çin'de Doğu Türkistan / Uygur Türklerine uygulanan baskı sorunu"
+      },
+      {
+        "key": "D",
+        "text": "Filistin Sorunu"
+      },
+      {
+        "key": "E",
+        "text": "Bosna-Hersek Sorunu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Doğu Akdeniz yetki alanları Türkiye'nin doğrudan egemenlik hakları ile ilgilidir."
+  },
+  {
+    "id": "cogr2-q17",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 17,
+    "questionText": "Eski buzul vadilerinin deniz suları altında kalmasıyla fiyort tipi kıyılar oluşur.\n\nTürkiye'de fiyort tipi kıyıların görülmemesinin temel nedeni aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yüksek ve engebeli bir ülke olması"
+      },
+      {
+        "key": "B",
+        "text": "Dağların doğu-batı doğrultusunda uzanması"
+      },
+      {
+        "key": "C",
+        "text": "Orta Kuşak'ın ılıman/sıcak güney yarısında (Matematik konum) yer alması"
+      },
+      {
+        "key": "D",
+        "text": "Platoların geniş alan kaplaması"
+      },
+      {
+        "key": "E",
+        "text": "Kuzey Yarım Küre'de yer alması"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Fiyort kıyılar kutup kuşağına yakın soğuk enlemlerde deniz seviyesine kadar inen buzullarla oluşur. Türkiye ılıman kuşaktadır."
+  },
+  {
+    "id": "cogr2-q18",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 18,
+    "questionText": "Türkiye'de 2200 metreden daha yüksek dağlar üzerinde buzul aşındırma ve biriktirme şekilleri görülmektedir.\n\nHaritada işaretlenmiş alanların hangisinde buzul şekillerine rastlanılmaz?",
+    "hasImage": true,
+    "image": "assets/questions/cogr2_q18_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>I numaralı Marmara / Yıldız Dağları bölgesinde yükselti 2200 metrenin altında olduğu için buzul şekli oluşmamıştır."
+  },
+  {
+    "id": "cogr2-q19",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 19,
+    "questionText": "Aşağıdakilerden hangisi Türkiye'de iklim çeşitliliğinin fazla olduğuna kanıt olarak gösterilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tarım ürünü çeşitliliğinin fazla olması"
+      },
+      {
+        "key": "B",
+        "text": "Toprak türlerinin çeşitli olması"
+      },
+      {
+        "key": "C",
+        "text": "Maden çeşitliliğinin fazla olması"
+      },
+      {
+        "key": "D",
+        "text": "Akarsu rejimlerinin farklılık göstermesi"
+      },
+      {
+        "key": "E",
+        "text": "Bitki örtüsü çeşitliliğinin fazla olması"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Maden çeşitliliği jeolojik devirler, volkanizma ve metamorfizma (Jeolojik Yapı) sonucudur; iklimle ilgisi yoktur."
+  },
+  {
+    "id": "cogr2-q20",
+    "testId": "cogr2",
+    "testTitle": "Coğrafya Video Tarama Testi 2",
+    "topicId": "cogr_tarama_2",
+    "topicName": "Coğrafya Video Tarama 2",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌍",
+    "questionNumber": 20,
+    "questionText": "I. Orojenez (Dağ oluşumu)\nII. Epirojenez (Kıta oluşumu)\nIII. Volkanizma\nIV. Depremler\n\nİç kuvvetler enerjisini yerin derinliklerinden alan yapıcı kuvvetlerdir. Ortaya çıkaran güç aynı olmakla birlikte iç kuvvetlerin gerçekleşme hızları aynı değildir.\n\nYukarıda verilenlerden hangileri yeryüzünü en kısa ve en uzun sürede değiştiren kuvvetler şeklinde kategorilendirilebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "En Kısa: Orojenez / En Uzun: Epirojenez"
+      },
+      {
+        "key": "B",
+        "text": "En Kısa: Volkanizma / En Uzun: Orojenez"
+      },
+      {
+        "key": "C",
+        "text": "En Kısa: Depremler / En Uzun: Orojenez"
+      },
+      {
+        "key": "D",
+        "text": "En Kısa: Volkanizma / En Uzun: Epirojenez"
+      },
+      {
+        "key": "E",
+        "text": "En Kısa: Depremler / En Uzun: Epirojenez"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Depremler saniyeler içinde gerçekleşirken, Epirojenez (kıta oluşumu) milyonlarca yıllık jeolojik süreçlerde meydana gelir."
   }
 ];
