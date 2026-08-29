@@ -1705,14 +1705,14 @@ class EKYSApp {
       if (!file) return;
 
       const prog = document.getElementById('topic-pdf-progress');
-      prog.textContent = `"${file.name}" taranıyor...`;
+      prog.textContent = `"${file.name}" taranıyor ve metinler analiz ediliyor...`;
 
       try {
         if (window.pdfService) {
           const text = await window.pdfService.extractTextFromPDF(file);
           const topicId = document.getElementById('pdf-target-topic-select').value;
           const topics = window.storageService.getTopics();
-          const topic = topics.find(t => t.id === topicId) || { name: 'Yeni PDF' };
+          const topic = topics.find(t => t.id === topicId) || { name: file.name.replace(/\.pdf$/i, '') };
 
           window.storageService.addSource({
             title: file.name,
@@ -1722,8 +1722,26 @@ class EKYSApp {
             size: `${Math.round(file.size / 1024)} KB`
           });
 
-          prog.textContent = `✅ "${file.name}" başarıyla sisteme aktarıldı!`;
-          this.showToast('PDF başarıyla kaynaklara eklendi!', 'success');
+          // Otomatik Soru Üretimi (Local AI / Kural Tabanlı)
+          if (window.questionGenerator) {
+            prog.textContent = `📝 "${file.name}" içeriğinden test soruları türetiliyor...`;
+            const generatedQuestions = window.questionGenerator.generateLocalQuestionsFromText(text, topic.name, 10);
+            
+            if (generatedQuestions && generatedQuestions.length > 0) {
+              const allQuestions = window.storageService.getQuestions();
+              generatedQuestions.forEach(q => {
+                q.topicId = topicId;
+                q.topicName = topic.name;
+                q.category = topic.category || 'Özel Çalışma';
+                allQuestions.push(q);
+              });
+              window.storageService.saveQuestions(allQuestions);
+            }
+          }
+
+          prog.textContent = `✅ "${file.name}" başarıyla sisteme aktarıldı ve test havuzuna eklendi!`;
+          this.showToast(`"${file.name}" başarıyla aktarıldı!`, 'success');
+          this.renderTestHub();
           setTimeout(() => this.closeTopicManagerModal(), 1200);
         }
       } catch (err) {

@@ -25,6 +25,11 @@ class PDFService {
     }
   }
 
+  async extractTextFromPDF(file, onProgress = null) {
+    const res = await this.extractTextFromPdfFile(file, onProgress);
+    return res.text;
+  }
+
   /**
    * PDF dosyasını okuyup tüm metni ve sayfa bazlı içerikleri çıkarır.
    * @param {File} file 
