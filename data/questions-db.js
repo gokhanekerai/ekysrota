@@ -1,4 +1,4 @@
-// EKYS 2027 Odaklı Soru Veritabanı - Coğrafya Video Tarama Testleri (Toplam 40 Soru)
+// EKYS 2027 Odaklı Soru Veritabanı - Coğrafya ve Genel Tarih Video Tarama Testleri (Toplam 79 Soru)
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -1479,5 +1479,1448 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E</strong><br>Depremler saniyeler içinde gerçekleşirken, Epirojenez (kıta oluşumu) milyonlarca yıllık jeolojik süreçlerde meydana gelir."
+  },
+  {
+    "id": "tarih1-q1",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "İslam öncesi Türk devletlerinin ilk ana yurdu olan Orta Asya tarif edilirken aşağıdaki coğrafi isimlerden hangisi kullanılmaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Altay Dağları"
+      },
+      {
+        "key": "B",
+        "text": "Hazar Denizi"
+      },
+      {
+        "key": "C",
+        "text": "Aral Gölü"
+      },
+      {
+        "key": "D",
+        "text": "İber Yarımadası"
+      },
+      {
+        "key": "E",
+        "text": "Tanrı Dağları"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>İber Yarımadası (İspanya-Portekiz) Avrupa'dadır; Orta Asya sınırları içinde yer almaz."
+  },
+  {
+    "id": "tarih1-q2",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Orta Asya'da araştırma yapan tarihçilerin ve arkeologların, İslamiyet öncesi Orta Asya Türk tarihiyle ilgili yaptıkları araştırmalarda aşağıdakilerden hangisiyle karşılaşması beklenemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yazılı taşlar"
+      },
+      {
+        "key": "B",
+        "text": "Madenî paralar"
+      },
+      {
+        "key": "C",
+        "text": "Kurganlar"
+      },
+      {
+        "key": "D",
+        "text": "Medreseler"
+      },
+      {
+        "key": "E",
+        "text": "Mezar taşları"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Medreseler İslamiyet'in kabulünden sonra ortaya çıkan eğitim kurumlarıdır."
+  },
+  {
+    "id": "tarih1-q3",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "İslamiyet öncesi Türk devletlerinde;\nI. Sanat\nII. Askerlik\nIII. Hukuk\nalanlarından hangileri göçebe yaşam tarzından etkilenmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Taşınabilir sanat eserleri, ordu-millet anlayışı ve hapis cezalarının kısa süreli olması göçebe yaşamın sonucudur."
+  },
+  {
+    "id": "tarih1-q4",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde hükümdarlık unvanları arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kağan"
+      },
+      {
+        "key": "B",
+        "text": "İdikut"
+      },
+      {
+        "key": "C",
+        "text": "İlteber"
+      },
+      {
+        "key": "D",
+        "text": "Hakan"
+      },
+      {
+        "key": "E",
+        "text": "Sultan"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Sultan unvanı İslamiyet sonrası Gazneli Mahmut ile başlayan İslami bir unvandır."
+  },
+  {
+    "id": "tarih1-q5",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisinin Kurultaya (Toy / Kengeş) katılma hakkı bulunmaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Boy beyleri"
+      },
+      {
+        "key": "B",
+        "text": "Kam"
+      },
+      {
+        "key": "C",
+        "text": "Komutanlar"
+      },
+      {
+        "key": "D",
+        "text": "İleri gelenler"
+      },
+      {
+        "key": "E",
+        "text": "Hatun"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Din adamları (Kam/Baksı/Şaman) teokratik bir yapı oluşmaması için kurultaya katılamazdı."
+  },
+  {
+    "id": "tarih1-q6",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "İslamiyet öncesi Türk devletlerinde aşağıdakilerden hangisi hükümet için kullanılan kavramdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Buyruk"
+      },
+      {
+        "key": "B",
+        "text": "Tudun"
+      },
+      {
+        "key": "C",
+        "text": "Bitikçi"
+      },
+      {
+        "key": "D",
+        "text": "Tamgacı"
+      },
+      {
+        "key": "E",
+        "text": "Ayukı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Ayukı hükümet, Aygucı başbakan, Buyruk ise bakan demektir."
+  },
+  {
+    "id": "tarih1-q7",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "İslamiyet öncesi Türk devletlerinde görülen;\nI. Sınıfsal farkların olmaması\nII. Mimarinin gelişmesi\nIII. Askerî teşkilatın güçlenmesi\ngelişmelerinin hangilerinde göçebe yaşam tarzının etkisinden söz edilebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Toprak mülkiyeti olmadığı için sınıf ayrımı yoktur; hareketli yaşam askerî kabiliyeti geliştirmiştir."
+  },
+  {
+    "id": "tarih1-q8",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Aşağıdaki kavram-anlam eşleştirmelerinden hangisi yanlış olarak verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Örgin – Taht"
+      },
+      {
+        "key": "B",
+        "text": "Tamu – Cennet"
+      },
+      {
+        "key": "C",
+        "text": "Tudun – Vergi memuru"
+      },
+      {
+        "key": "D",
+        "text": "Tamgacı – Mühürdar"
+      },
+      {
+        "key": "E",
+        "text": "Ağılığ – Hazine görevlisi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Tamu cehennem, Uçmağ cennet anlamına gelir."
+  },
+  {
+    "id": "tarih1-q9",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Aşağıdakilerden hangisi İslam öncesi Türk devletlerinde Türk bürokrasisinin bir unsuru değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bitikçi"
+      },
+      {
+        "key": "B",
+        "text": "Baksı"
+      },
+      {
+        "key": "C",
+        "text": "Ayukı"
+      },
+      {
+        "key": "D",
+        "text": "Tudun"
+      },
+      {
+        "key": "E",
+        "text": "Hükümdar"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Baksı din adamı / şaman / ozan olup devlet bürokrasisinin bir memuru değildir."
+  },
+  {
+    "id": "tarih1-q10",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Kurultayın ilk Türk devletlerinde;\nI. Yasama\nII. Askerî\nIII. Siyasi\nalanlarından hangilerinde rol oynadığı savunulabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Kurultay töre koyma (yasama), savaş kararı (askerî) ve kağan seçimi/yönetim (siyasi) yetkilerine sahipti."
+  },
+  {
+    "id": "tarih1-q11",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Aşağıdakilerden hangisi ilk Türk devletlerinde hükümdarlık sembolü değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nevbet"
+      },
+      {
+        "key": "B",
+        "text": "Berge"
+      },
+      {
+        "key": "C",
+        "text": "Sorguç"
+      },
+      {
+        "key": "D",
+        "text": "Tıraz"
+      },
+      {
+        "key": "E",
+        "text": "Örgin"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Tıraz İslami dönemde halifenin gönderdiği hilat/elbisedir; İslam öncesi sembol değildir."
+  },
+  {
+    "id": "tarih1-q12",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "İslamiyet öncesi Türk devletlerinde;\nI. Monarşik\nII. Teokratik\nIII. Federal\nyönetim anlayışlarından hangileri görülür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Tek lider (Monarşi) ve ikili teşkilat/boylar birliği (Federal) görülür; teokrasi yoktur."
+  },
+  {
+    "id": "tarih1-q13",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "İslamiyet öncesi Türk devletlerinde aşağıdakilerden hangisinde göçebe yaşamın olumlu/geliştirici bir etkisi yoktur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yazılı hayata geç geçilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Askerî yapının güçlenmesi"
+      },
+      {
+        "key": "C",
+        "text": "Mimari alanda gelişimin sağlanması"
+      },
+      {
+        "key": "D",
+        "text": "Özel mülkiyetin gelişmemesi"
+      },
+      {
+        "key": "E",
+        "text": "Hapis cezalarının kısa süreli olması"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Göçebe yaşam kalıcı mimari eserlerin gelişmesini engellemiştir."
+  },
+  {
+    "id": "tarih1-q14",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "İslamiyet öncesi Türk devletlerinde yazışmalardan sorumlu olan ve Kurultayın kâtipleri olarak da bilinen görevli aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tudun"
+      },
+      {
+        "key": "B",
+        "text": "Tamgacı"
+      },
+      {
+        "key": "C",
+        "text": "Ayukı"
+      },
+      {
+        "key": "D",
+        "text": "Bitikçi"
+      },
+      {
+        "key": "E",
+        "text": "Ulak"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Bitikçi devlet yazışmalarını yürüten kâtiptir."
+  },
+  {
+    "id": "tarih1-q15",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "İslamiyet öncesi Türk devletlerinde aşağıdakilerden hangisi hükümdarın görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milleti refah ve barış içinde yaşatmak"
+      },
+      {
+        "key": "B",
+        "text": "Orduyu idare etmek"
+      },
+      {
+        "key": "C",
+        "text": "Töreyi uygulamak"
+      },
+      {
+        "key": "D",
+        "text": "Dini yaymak"
+      },
+      {
+        "key": "E",
+        "text": "Halkın ihtiyaçlarını karşılamak"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>İslam öncesi Türklerde dini zorla yayma görevi yoktur, dini hoşgörü esastır."
+  },
+  {
+    "id": "tarih1-q16",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "İslamiyet öncesi Türk ordusunda bugünkü flama ve sancak yerine kullanılan ve hükümdarlık sembolü olan kavram aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sorguç"
+      },
+      {
+        "key": "B",
+        "text": "Tuğ"
+      },
+      {
+        "key": "C",
+        "text": "Örgin"
+      },
+      {
+        "key": "D",
+        "text": "Otağ"
+      },
+      {
+        "key": "E",
+        "text": "Ongun"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Tuğ hükümdarlık ve ordu sancağı / flamasıdır."
+  },
+  {
+    "id": "tarih1-q17",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "İslamiyet öncesi Türklerde \"Budun\" kavramının karşılığı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Millet"
+      },
+      {
+        "key": "B",
+        "text": "Boylar birliği"
+      },
+      {
+        "key": "C",
+        "text": "Bakan"
+      },
+      {
+        "key": "D",
+        "text": "Meclis"
+      },
+      {
+        "key": "E",
+        "text": "Töre"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Budun millet anlamına gelir."
+  },
+  {
+    "id": "tarih1-q18",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "İslam öncesi Türk devletlerinde sınıfsal toplum yapısının olmaması aşağıdakilerden hangisinin sonucudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Veraset anlayışı"
+      },
+      {
+        "key": "B",
+        "text": "Ordu-millet anlayışı"
+      },
+      {
+        "key": "C",
+        "text": "İkili teşkilat"
+      },
+      {
+        "key": "D",
+        "text": "Göçebe yaşam"
+      },
+      {
+        "key": "E",
+        "text": "Kut inancı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Göçebe yaşamda toprak mülkiyeti devlete ait olduğu için sınıfsal ayrım oluşmamıştır."
+  },
+  {
+    "id": "tarih1-q19",
+    "testId": "tarih1",
+    "testTitle": "Genel Tarih Video Tarama Testi 1",
+    "topicId": "tarih_tarama_1",
+    "topicName": "Genel Tarih Video Tarama 1",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "İlk Türk devletlerinde \"ülkenin, hanedanın ortak malı sayılması\" anlayışı aşağıdakilerden hangisini beraberinde getirmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ordu-millet anlayışını"
+      },
+      {
+        "key": "B",
+        "text": "Devletin kısa sürede yıkılmasını"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal hayatın canlanmasını"
+      },
+      {
+        "key": "D",
+        "text": "Merkezî otoritenin güçlenmesini"
+      },
+      {
+        "key": "E",
+        "text": "Özel mülkiyetin gelişmesini"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Hanedan ortak malı anlayışı taht kavgalarına ve devletlerin kısa sürede yıkılmasına yol açmıştır."
+  },
+  {
+    "id": "tarih2-q1",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Aşağıdakilerden hangisi ilk Türk devletlerinde hükümdarların kullandığı unvanlar arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Emir"
+      },
+      {
+        "key": "B",
+        "text": "Tanhu"
+      },
+      {
+        "key": "C",
+        "text": "Yabgu"
+      },
+      {
+        "key": "D",
+        "text": "Erkin"
+      },
+      {
+        "key": "E",
+        "text": "İlteriş"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Emir unvanı İslamiyet'in kabulünden sonra kullanılan bir unvandır."
+  },
+  {
+    "id": "tarih2-q2",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Orta Asya Türk devletlerinde, devlet genel olarak doğu ve batı şeklinde yönetilmiştir. Bu bölünmede devletin doğu kanadını hakan, batı kanadını hanedanın erkek üyelerinden biri (Yabgu) yönetirdi.\n\nDevletin bu şekilde yönetilmesi aşağıdakilerden hangisi ile ifade edilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Veraset anlayışı"
+      },
+      {
+        "key": "B",
+        "text": "Merkeziyetçilik"
+      },
+      {
+        "key": "C",
+        "text": "İkili teşkilat"
+      },
+      {
+        "key": "D",
+        "text": "Kut anlayışı"
+      },
+      {
+        "key": "E",
+        "text": "Feodal yapı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Doğu-batı ayrımı ikili teşkilat (federal yapı) olarak adlandırılır."
+  },
+  {
+    "id": "tarih2-q3",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisi İslam öncesi Türk devletlerinde yönetim ile ilgili bir kavram değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Toy"
+      },
+      {
+        "key": "B",
+        "text": "Şad"
+      },
+      {
+        "key": "C",
+        "text": "Yabgu"
+      },
+      {
+        "key": "D",
+        "text": "Kam"
+      },
+      {
+        "key": "E",
+        "text": "Tudun"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Kam din adamı / şaman olup yönetimle ilgili bir makam veya unvan değildir."
+  },
+  {
+    "id": "tarih2-q4",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "İslamiyet öncesi dönemlerde Türklerin konargöçer bir yaşam sürdürmeleri, onların bazı alanlarda gelişmesini doğrudan engellemiştir.\n\nAşağıdakilerden hangisi bu engellenen alanlardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mimari"
+      },
+      {
+        "key": "B",
+        "text": "Yazılı hukuk"
+      },
+      {
+        "key": "C",
+        "text": "El sanatları"
+      },
+      {
+        "key": "D",
+        "text": "Resim"
+      },
+      {
+        "key": "E",
+        "text": "Tarım"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Taşınabilir el sanatları (dokumacılık, madencilik, deri) göçebelik döneminde çok gelişmiştir."
+  },
+  {
+    "id": "tarih2-q5",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "İlk Türk devletlerinde, devlet \"hükümdar ailesinin ortak malıdır\" anlayışına dayanmaktaydı.\n\nBu anlayışın benimsenmesi aşağıdakilerden hangisine yol açmamıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kurulan devletlerin kısa ömürlü olmasına"
+      },
+      {
+        "key": "B",
+        "text": "Özel mülkiyetin gelişmesine"
+      },
+      {
+        "key": "C",
+        "text": "Ülkenin hanedan üyelerince yönetilmesine"
+      },
+      {
+        "key": "D",
+        "text": "İktidarı ele geçirmek isteyenlerin sayısının çoğalmasına"
+      },
+      {
+        "key": "E",
+        "text": "Taht kavgalarının çıkmasına"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Toprak hanedanın/devletin olduğu için özel mülkiyet gelişmemiştir."
+  },
+  {
+    "id": "tarih2-q6",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "İlk Türk devletlerinde kağanın, devlet adamları ve komutanlarla yapmış olduğu toplantıya kurultay denirdi. Bu toplantılarda kağanın sağında ve solunda bulunan devlet adamları bulundukları mevki ve rütbeye göre otururlardı.\n\nAşağıdakilerden hangisi kurultayda oturma sırasını belirleyen töreye verilen isimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Toygun"
+      },
+      {
+        "key": "B",
+        "text": "Ulus"
+      },
+      {
+        "key": "C",
+        "text": "Küç"
+      },
+      {
+        "key": "D",
+        "text": "İkbal"
+      },
+      {
+        "key": "E",
+        "text": "Orun"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Orun protokol ve oturma düzeni sırasıdır."
+  },
+  {
+    "id": "tarih2-q7",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Türklerde yıkılan bir devletin yerine hemen yenisinin kurulması, Türklerin hangi özelliği ile açıklanabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cihan hâkimiyeti anlayışına sahip olmaları"
+      },
+      {
+        "key": "B",
+        "text": "Teşkilatçı yeteneklerinin gelişmiş olması"
+      },
+      {
+        "key": "C",
+        "text": "Yardımseverlik duygusuna sahip olmaları"
+      },
+      {
+        "key": "D",
+        "text": "Göçebe hayat sürmeleri"
+      },
+      {
+        "key": "E",
+        "text": "Gök Tanrı dinine inanmaları"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Teşkilatçılık kabiliyeti yeni devlet kurmayı kolaylaştırmıştır."
+  },
+  {
+    "id": "tarih2-q8",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde toplumu oluşturan unsurlardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Urug"
+      },
+      {
+        "key": "B",
+        "text": "Boy"
+      },
+      {
+        "key": "C",
+        "text": "Oğuş"
+      },
+      {
+        "key": "D",
+        "text": "Tayanç"
+      },
+      {
+        "key": "E",
+        "text": "Budun"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Tayanç danışman/müşavir demektir; sosyal toplum basamağı değildir."
+  },
+  {
+    "id": "tarih2-q9",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "İslamiyet öncesi Türklerin konargöçer yaşam tarzı sürmeleri Türklerde aşağıdaki hangi özelliğin ortaya çıkmasında etkili olmamıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Savaşçı bir topluluk olmalarında"
+      },
+      {
+        "key": "B",
+        "text": "Zorluklara sabırla dayanabilen bir millet olmalarında"
+      },
+      {
+        "key": "C",
+        "text": "Hızlı ve disiplinli hareket etmelerinde"
+      },
+      {
+        "key": "D",
+        "text": "Devletlerini ikili teşkilatla yönetmelerinde"
+      },
+      {
+        "key": "E",
+        "text": "Kadın-erkek herkesin savaş sanatını iyi bilmelerinde"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>İkili teşkilat idari ve coğrafi yönetim yöntemidir, göçebelikle doğrudan ilgili değildir."
+  },
+  {
+    "id": "tarih2-q10",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Aşağıdakilerden hangisi Türk devletlerinde devlet yönetiminin özelliklerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Herkesin kurultaya katılma hakkının olması"
+      },
+      {
+        "key": "B",
+        "text": "Ülkenin ikili teşkilat halinde yönetilmesi"
+      },
+      {
+        "key": "C",
+        "text": "Devlet yönetiminde törelere uyma zorunluluğunun olması"
+      },
+      {
+        "key": "D",
+        "text": "Hatunun kurultaya katılması"
+      },
+      {
+        "key": "E",
+        "text": "Devlet yönetme yetkisinin hükümdara Tanrı tarafından verildiğine inanılması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Kurultaya sadece boy beyleri, hatun ve komutanlar katılabilirdi."
+  },
+  {
+    "id": "tarih2-q11",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "İslamiyet öncesi Türk geleneğinde, devlet toprakları \"hükümdar ailesinin ortak malı sayılırdı\". Bu gelenek sonucu devletin toprakları prensler arasında bölüşülerek yönetilir ve böylece federal bir yapı ortaya çıkardı.\n\nBu durum aşağıdakilerden hangisine neden olmuştur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merkezî otoritenin zayıflamasına"
+      },
+      {
+        "key": "B",
+        "text": "Askerî teşkilatın güçlenmesine"
+      },
+      {
+        "key": "C",
+        "text": "Taht kavgalarının sona ermesine"
+      },
+      {
+        "key": "D",
+        "text": "Türk siyasi birliğinin sağlanmasına"
+      },
+      {
+        "key": "E",
+        "text": "Toplumsal dayanışmaya"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Ülkenin prensler arasında bölünmesi merkezî otoriteyi zayıflatmış ve taht kavgalarına yol açmıştır."
+  },
+  {
+    "id": "tarih2-q12",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "İlk Türk devletlerinde sosyal yapının en üst kademesini oluştururdu. Türk toprağı, halk bağımsızlığı ve töresi ile siyasi bir kuruluştu. Türkler için kutsal bir kurum olan bu yapının başında kağan bulunurdu.\n\nYukarıda sözü edilen yapı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İl (Devlet)"
+      },
+      {
+        "key": "B",
+        "text": "Oğuş"
+      },
+      {
+        "key": "C",
+        "text": "Urug"
+      },
+      {
+        "key": "D",
+        "text": "Bodun"
+      },
+      {
+        "key": "E",
+        "text": "Boy"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>İl (El) devlet anlamına gelir ve teşkilatlanmanın en üst basamağıdır."
+  },
+  {
+    "id": "tarih2-q13",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "Asya Hun Devleti'nden başlayarak Orta Asya'da kurulan Türk devletlerinde hâkimiyetin kaynağı ilahi bir güç olan Gök Tanrı'ya dayanıyordu. Bu anlayışa göre en yüce varlık ve tek yaratıcı olarak kabul edilen Gök Tanrı yeryüzünü doğrudan kendisi değil yetki verdiği kağan eliyle yönetiyordu.\n\nYukarıda sözü edilen anlayış aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tuğ"
+      },
+      {
+        "key": "B",
+        "text": "Kut"
+      },
+      {
+        "key": "C",
+        "text": "Töre"
+      },
+      {
+        "key": "D",
+        "text": "Veraset"
+      },
+      {
+        "key": "E",
+        "text": "Toy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Gök Tanrı tarafından hükümdara verilen yönetme yetkisine Kut denir."
+  },
+  {
+    "id": "tarih2-q14",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "I. Göçebe ve yarı göçebe yaşam tarzının benimsenmesi\nII. Özel mülkiyetin gelişmemesi\nIII. Çadır sanatının gelişmesi\nIV. Ölümden sonra ikinci hayatın varlığına inanılması\nV. Savaşçı karaktere sahip olunması\n\nYukarıdakilerden hangisi bozkır kültürünün doğurduğu özelliklerden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Ahiret inancı bozkır coğrafi kültüründen değil, Gök Tanrı dininden kaynaklanır."
+  },
+  {
+    "id": "tarih2-q15",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "İslamiyet öncesi Orta Asya'da kurulan Türk devletlerinin yıkılmasında aşağıdakilerden hangisinin etkisi daha çoktur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Orta Asya'nın dağlık bir coğrafya olması"
+      },
+      {
+        "key": "B",
+        "text": "Veraset anlayışına göre devletin hanedan üyeleri arasında bölüşülmesi"
+      },
+      {
+        "key": "C",
+        "text": "Türklerin Orta Asya'da iyi bir devlet örgütü kuramamış olmaları"
+      },
+      {
+        "key": "D",
+        "text": "Türklerin boylar halinde yaşamaları"
+      },
+      {
+        "key": "E",
+        "text": "Türklerin yerleşik bir hayat düzeninden uzak kalmaları"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Veraset sistemi ve taht kavgaları devletlerin kısa sürede parçalanıp yıkılmasının ana sebebidir."
+  },
+  {
+    "id": "tarih2-q16",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinin özelliklerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hükümdarlık makamının kutlu sayılması"
+      },
+      {
+        "key": "B",
+        "text": "Ülkenin hanedan üyeleri arasında bölüşülerek yönetilmesi"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal yaşayışta sınıf ayrıcalığına yer verilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Ölüler için \"Yuğ\" töreni yapılması"
+      },
+      {
+        "key": "E",
+        "text": "Sanatta üsluplaştırılmış hayvan motiflerine yer verilmesi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Türklerde kölelik ve soyluluk gibi sınıf ayrımı hiçbir zaman olmamıştır."
+  },
+  {
+    "id": "tarih2-q17",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "İlk kez yirmi üç okul açarak örgün eğitim yapan ve eğitime verdiği önemi \"Çocuğunu öğretmene ver, ondan alıp saraya ver\" atasözüyle dile getiren devlet aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Asya Hunları"
+      },
+      {
+        "key": "B",
+        "text": "Uygurlar"
+      },
+      {
+        "key": "C",
+        "text": "Kök Türkler"
+      },
+      {
+        "key": "D",
+        "text": "Hazarlar"
+      },
+      {
+        "key": "E",
+        "text": "Kırgızlar"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Uygurlar yerleşik hayata geçerek okullar açmış ve örgün eğitimi başlatmıştır."
+  },
+  {
+    "id": "tarih2-q18",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Orta Asya'da kurulan Türk devletlerinin tarihi incelendiğinde bu devletlerin önce ikiye bölündüğü ve sonra yıkıldığını görüyoruz.\n\nAşağıdakilerden hangisi bu durumun nedenlerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İkili sistemle yönetilmeleri"
+      },
+      {
+        "key": "B",
+        "text": "Boylar halinde yaşamaları"
+      },
+      {
+        "key": "C",
+        "text": "Devlet geleneğinde, ülkenin hanedan üyeleri arasında bölüşülmesi"
+      },
+      {
+        "key": "D",
+        "text": "Çin'in izlediği içten bölme siyaseti"
+      },
+      {
+        "key": "E",
+        "text": "Farklı inançlara sahip olmaları"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>İnanç farklılığı yıkılış sebebi değildir; Türk devletlerinde inanç hoşgörüsü vardı."
+  },
+  {
+    "id": "tarih2-q19",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Türk devletlerinde \"Ülke toprakları hükümdar ailesinin ortak malıdır.\" anlayışı benimsenmiştir.\n\nBu durumun;\nI. Taht kavgalarının yaşanması\nII. Türk devletlerinin kısa sürede yıkılması\nIII. Merkezî otoritenin güçlü olması\nsonuçlarından hangilerini ortaya çıkardığı söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Hanedanın ortak malı anlayışı taht kavgalarına ve devletlerin kısa sürede yıkılmasına neden olur (I ve II)."
+  },
+  {
+    "id": "tarih2-q20",
+    "testId": "tarih2",
+    "testTitle": "Genel Tarih Video Tarama Testi 2",
+    "topicId": "tarih_tarama_2",
+    "topicName": "Genel Tarih Video Tarama 2",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Aşağıdakilerden hangisi ilk Türk devletlerinde hükümdarlık (bağımsızlık) sembollerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Otağ"
+      },
+      {
+        "key": "B",
+        "text": "Ordu"
+      },
+      {
+        "key": "C",
+        "text": "Nevbet"
+      },
+      {
+        "key": "D",
+        "text": "Orun"
+      },
+      {
+        "key": "E",
+        "text": "Berge"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Orun meclisteki protokol oturma sırasıdır; bağımsızlık/hükümdarlık sembolü değildir."
   }
 ];
