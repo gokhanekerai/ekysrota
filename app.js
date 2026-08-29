@@ -193,7 +193,7 @@ class EKYSApp {
   }
 
   filterTestHubCategory(cat) {
-    this.switchView('test-hub');
+    this.navigateTo('test-hub');
     this.filterTestHub(cat);
   }
 
