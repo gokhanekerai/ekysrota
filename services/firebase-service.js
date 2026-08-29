@@ -313,7 +313,6 @@ class FirebaseService {
 
   // --- ARAYÜZ VE OTURUM BİLDİRİMİ ---
   onAuthChange(user) {
-    const userBtn = document.getElementById('btn-auth-user');
     const userProfileEl = document.getElementById('user-profile-display');
     const adminNavEl = document.getElementById('nav-admin-panel');
 
@@ -331,18 +330,6 @@ class FirebaseService {
     if (user) {
       if (authGateEl) authGateEl.style.display = 'none';
       if (mainAppEl) mainAppEl.style.display = 'flex';
-
-      if (userBtn) {
-        userBtn.innerHTML = `
-          <span style="font-weight: 600; font-size: 0.88rem; color: #f1f5f9; display: flex; align-items: center; gap: 6px;">
-            <span>👤</span> ${name}
-            <span class="badge ${isAdminUser ? 'badge-warning' : 'badge-info'}" style="font-size:0.7rem; padding: 2px 6px;">${role}</span>
-          </span>
-          <button class="btn btn-danger btn-xs" style="margin-left:8px; padding:3px 8px; font-size:0.75rem;" onclick="firebaseService.logout();">🚪 Çıkış</button>
-        `;
-        userBtn.className = 'header-user-pill';
-        userBtn.onclick = null;
-      }
 
       if (userProfileEl) {
         userProfileEl.innerHTML = `
@@ -370,11 +357,6 @@ class FirebaseService {
       if (authGateEl) authGateEl.style.display = 'flex';
       if (mainAppEl) mainAppEl.style.display = 'none';
 
-      if (userBtn) {
-        userBtn.innerHTML = `<span>🔑</span> <span>Giriş Yap</span>`;
-        userBtn.classList.remove('btn-primary');
-        userBtn.classList.add('btn-secondary');
-      }
       if (userProfileEl) {
         userProfileEl.innerHTML = `
           <button class="btn btn-primary btn-block btn-sm" onclick="app.showAuthGate()">
