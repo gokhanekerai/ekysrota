@@ -861,6 +861,55 @@ class EKYSApp {
     }
   }
 
+  // --- KARŞILAMA GİRİŞ EKRANI (AUTH GATE) METODLARI ---
+  switchGateTab(tab) {
+    const loginForm = document.getElementById('gate-form-login');
+    const regForm = document.getElementById('gate-form-register');
+    const tabLogin = document.getElementById('gate-tab-login');
+    const tabReg = document.getElementById('gate-tab-register');
+
+    if (tab === 'login') {
+      if (loginForm) loginForm.style.display = 'block';
+      if (regForm) regForm.style.display = 'none';
+      if (tabLogin) { tabLogin.classList.remove('btn-secondary'); tabLogin.classList.add('btn-primary'); }
+      if (tabReg) { tabReg.classList.remove('btn-primary'); tabReg.classList.add('btn-secondary'); }
+    } else {
+      if (loginForm) loginForm.style.display = 'none';
+      if (regForm) regForm.style.display = 'block';
+      if (tabReg) { tabReg.classList.remove('btn-secondary'); tabReg.classList.add('btn-primary'); }
+      if (tabLogin) { tabLogin.classList.remove('btn-primary'); tabLogin.classList.add('btn-secondary'); }
+    }
+  }
+
+  async handleGateLogin(e) {
+    e.preventDefault();
+    const email = document.getElementById('gate-login-email').value.trim();
+    const pass = document.getElementById('gate-login-password').value;
+
+    try {
+      await window.firebaseService.loginWithEmail(email, pass);
+      this.showToast(`Hoş geldiniz, ${email}!`, 'success');
+      this.renderDashboard();
+    } catch (err) {
+      this.showToast(`Giriş başarısız: ${err.message}`, 'error');
+    }
+  }
+
+  async handleGateRegister(e) {
+    e.preventDefault();
+    const name = document.getElementById('gate-reg-name').value.trim();
+    const email = document.getElementById('gate-reg-email').value.trim();
+    const pass = document.getElementById('gate-reg-password').value;
+
+    try {
+      await window.firebaseService.registerWithEmail(email, pass, name, 'student');
+      this.showToast(`Hesabınız oluşturuldu! Hoş geldiniz ${name}!`, 'success');
+      this.renderDashboard();
+    } catch (err) {
+      this.showToast(`Kayıt hatası: ${err.message}`, 'error');
+    }
+  }
+
   // --- KULLANICI GİRİŞ & YÖNETİCİ PANELİ ---
   openAuthModal(tab = 'login') {
     const modal = document.getElementById('auth-modal');

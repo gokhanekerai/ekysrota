@@ -183,9 +183,13 @@ class FirebaseService {
                  (user && user.displayName) || 
                  (user && user.email ? user.email.split('@')[0] : 'Kullanıcı');
 
-    const role = (this.currentUserDoc && this.currentUserDoc.role === 'admin') ? '👑 Yönetici' : '🎓 Öğrenci';
+    const authGateEl = document.getElementById('auth-gate-container');
+    const mainAppEl = document.getElementById('main-app-container');
 
     if (user) {
+      if (authGateEl) authGateEl.style.display = 'none';
+      if (mainAppEl) mainAppEl.style.display = 'flex';
+
       if (userBtn) {
         userBtn.innerHTML = `<span>👤</span> <span>${name}</span>`;
         userBtn.classList.remove('btn-secondary');
@@ -214,6 +218,9 @@ class FirebaseService {
         adminNavEl.style.display = this.isAdmin() ? 'flex' : 'none';
       }
     } else {
+      if (authGateEl) authGateEl.style.display = 'flex';
+      if (mainAppEl) mainAppEl.style.display = 'none';
+
       if (userBtn) {
         userBtn.innerHTML = `<span>🔑</span> <span>Giriş Yap</span>`;
         userBtn.classList.remove('btn-primary');
