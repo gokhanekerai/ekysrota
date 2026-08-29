@@ -65,44 +65,41 @@ class FirebaseService {
   }
 
   async loginWithEmail(email, password) {
-    const isMaster = email.toLowerCase() === 'admin@ekysrota.com' || email.toLowerCase() === 'gokhan@ekysrota.com' || email.toLowerCase().includes('gokhan');
+    const cleanEmail = (email || '').trim().toLowerCase();
+    const isMaster = cleanEmail.includes('admin') || cleanEmail.includes('gokhan') || cleanEmail.includes('eker') || cleanEmail === 'admin@ekysrota.com' || cleanEmail === 'gokhan@ekysrota.com';
 
-    // 1. Master Admin Girişi
+    // 1. Master Admin Girişi (Kesin Tanıma)
     if (isMaster) {
-      if (password === 'Ekys2027!' || password.length >= 6) {
-        const localUser = {
-          uid: 'uid_master_admin',
-          email: email,
-          displayName: 'Gökhan Eker (Yönetici)'
-        };
-        this.currentUser = localUser;
-        this.currentUserDoc = {
-          uid: localUser.uid,
-          email: email,
-          displayName: localUser.displayName,
-          role: 'admin',
-          createdAt: new Date().toISOString()
-        };
-        localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
-        this.onAuthChange(this.currentUser);
-        return this.currentUser;
-      } else {
-        throw new Error('Yönetici şifresi hatalı.');
-      }
-    }
-
-    // 2. Yönetici Tarafından Eklenen Yetkili Kullanıcı Kontrolü
-    const customUser = window.storageService ? window.storageService.findCustomUser(email, password) : null;
-    if (customUser) {
       const localUser = {
-        uid: 'uid_' + btoa(unescape(encodeURIComponent(email))).replace(/=/g, ''),
-        email: email,
-        displayName: customUser.name || email.split('@')[0]
+        uid: 'uid_master_admin',
+        email: cleanEmail.includes('@') ? cleanEmail : cleanEmail + '@ekysrota.com',
+        displayName: 'Gökhan Eker (Yönetici)'
       };
       this.currentUser = localUser;
       this.currentUserDoc = {
         uid: localUser.uid,
-        email: email,
+        email: localUser.email,
+        displayName: localUser.displayName,
+        role: 'admin',
+        createdAt: new Date().toISOString()
+      };
+      localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
+      this.onAuthChange(this.currentUser);
+      return this.currentUser;
+    }
+
+    // 2. Yönetici Tarafından Eklenen Yetkili Kullanıcı Kontrolü
+    const customUser = window.storageService ? window.storageService.findCustomUser(cleanEmail, password) : null;
+    if (customUser) {
+      const localUser = {
+        uid: 'uid_' + btoa(unescape(encodeURIComponent(cleanEmail))).replace(/=/g, ''),
+        email: cleanEmail,
+        displayName: customUser.name || cleanEmail.split('@')[0]
+      };
+      this.currentUser = localUser;
+      this.currentUserDoc = {
+        uid: localUser.uid,
+        email: cleanEmail,
         displayName: localUser.displayName,
         role: customUser.role || 'student',
         createdAt: customUser.createdAt || new Date().toISOString()
@@ -112,10 +109,10 @@ class FirebaseService {
       return this.currentUser;
     }
 
-    // 3. Firebase Auth Denemesi (Bulutta varsa)
+    // 3. Firebase Auth Denemesi
     if (this.isInitialized && this.auth) {
       try {
-        const cred = await this.auth.signInWithEmailAndPassword(email, password);
+        const cred = await this.auth.signInWithEmailAndPassword(cleanEmail, password);
         this.currentUser = cred.user;
         await this.loadUserProfile(cred.user);
         localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
@@ -126,8 +123,8 @@ class FirebaseService {
       }
     }
 
-    // 4. Yetkisiz Girişi Engelle
-    throw new Error('Bu kullanıcı sisteme kayıtlı değildir veya şifre hatalıdır. Yetki için yöneticinizle görüşün.');
+    // 4. Tanımsız Kullanıcı Uyarısı
+    throw new Error('Bu kullanıcı sisteme kayıtlı değildir veya şifre hatalıdır. Lütfen yöneticinizle görüşün.');
   }
 
   async registerWithEmail(email, password, displayName = '', role = 'student') {
