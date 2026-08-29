@@ -24,7 +24,7 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=3.2">
+  <link rel="stylesheet" href="styles.css?v=6.1">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
@@ -393,7 +393,7 @@
               <!-- Question Text -->
               <div class="quiz-question-text" id="quiz-q-text">Soru metni yükleniyor...</div>
 
-              <!-- Options List with Strike-Through Support -->
+              <!-- Options List with 2-column Grid -->
               <div class="options-list" id="quiz-options-list"></div>
 
               <!-- Explanation Box -->
@@ -401,25 +401,25 @@
                 <div class="explanation-title">💡 Çözüm & Doğru Cevap:</div>
                 <div class="explanation-text" id="quiz-explanation-text"></div>
               </div>
+
+              <!-- Action Buttons (Şıkların Hemen Altında) -->
+              <div class="quiz-actions" style="margin-top: 18px; margin-bottom: 0;">
+                <button class="btn btn-secondary" id="btn-quiz-prev" onclick="app.prevQuestion()">
+                  ⬅️ Önceki
+                </button>
+                <button class="btn btn-secondary" id="btn-quiz-strike-mode" onclick="app.toggleStrikeMode()">
+                  ✏️ Şık Eleme: <span id="strike-status-text">Kapalı</span>
+                </button>
+                <button class="btn btn-primary" id="btn-quiz-next" onclick="app.nextQuestion()">
+                  Sonraki Soru ➡️
+                </button>
+              </div>
             </div>
 
-            <!-- Question Navigation Matrix Grid (Jump to any question) -->
-            <div class="quiz-matrix-container">
+            <!-- Question Navigation Matrix Grid (En Altta) -->
+            <div class="quiz-matrix-container" style="margin-top: 14px;">
               <div style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary); margin-bottom: 8px;">Soru Gezinti Çizelgesi:</div>
               <div class="quiz-matrix-grid" id="quiz-matrix-grid"></div>
-            </div>
-
-            <!-- Action Buttons -->
-            <div class="quiz-actions">
-              <button class="btn btn-secondary" id="btn-quiz-prev" onclick="app.prevQuestion()">
-                ⬅️ Önceki
-              </button>
-              <button class="btn btn-secondary" id="btn-quiz-strike-mode" onclick="app.toggleStrikeMode()">
-                ✏️ Şık Eleme Modu: <span id="strike-status-text">Kapalı</span>
-              </button>
-              <button class="btn btn-primary" id="btn-quiz-next" onclick="app.nextQuestion()">
-                Sonraki Soru ➡️
-              </button>
             </div>
           </div>
         </section>
@@ -758,13 +758,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=6.0"></script>
-  <script src="data/questions-db.js?v=6.0"></script>
-  <script src="services/storage-service.js?v=6.0"></script>
-  <script src="services/firebase-service.js?v=6.0"></script>
-  <script src="services/pdf-service.js?v=6.0"></script>
-  <script src="services/youtube-service.js?v=6.0"></script>
-  <script src="services/question-generator.js?v=6.0"></script>
-  <script src="app.js?v=6.0"></script>
+  <script src="data/ekys-sample-questions.js?v=6.1"></script>
+  <script src="data/questions-db.js?v=6.1"></script>
+  <script src="services/storage-service.js?v=6.1"></script>
+  <script src="services/firebase-service.js?v=6.1"></script>
+  <script src="services/pdf-service.js?v=6.1"></script>
+  <script src="services/youtube-service.js?v=6.1"></script>
+  <script src="services/question-generator.js?v=6.1"></script>
+  <script src="app.js?v=6.1"></script>
 </body>
 </html>

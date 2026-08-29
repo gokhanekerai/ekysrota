@@ -481,8 +481,8 @@ body {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-lg);
-  padding: 26px;
-  margin-bottom: 18px;
+  padding: 18px 22px;
+  margin-bottom: 12px;
 }
 
 .quiz-card-header {
@@ -556,30 +556,48 @@ body {
 }
 
 .quiz-question-text {
-  font-size: 1.05rem;
+  font-size: 1.02rem;
   font-weight: 600;
-  line-height: 1.6;
-  margin-bottom: 22px;
+  line-height: 1.55;
+  margin-bottom: 16px;
 }
 
-/* Şıklar */
+/* Şıklar - 2 Sütunlu Yan Yana Düzen */
 .options-list {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 10px;
+}
+
+@media (max-width: 640px) {
+  .options-list {
+    grid-template-columns: 1fr;
+  }
 }
 
 .option-item {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
-  padding: 14px 18px;
+  padding: 10px 14px;
+  min-height: 48px;
   cursor: pointer;
   transition: all 0.18s ease;
   position: relative;
+}
+
+/* 5. Şık (E şıkkı) tek kaldığında şık dengeli görünsün */
+.option-item:nth-child(5):last-child {
+  grid-column: span 2;
+}
+
+@media (max-width: 640px) {
+  .option-item:nth-child(5):last-child {
+    grid-column: span 1;
+  }
 }
 
 .option-item:hover {
@@ -588,21 +606,22 @@ body {
 }
 
 .option-key {
-  width: 32px;
-  height: 32px;
+  width: 28px;
+  height: 28px;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.1);
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 800;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   flex-shrink: 0;
 }
 
 .option-text {
   flex: 1;
-  font-size: 0.95rem;
+  font-size: 0.92rem;
+  line-height: 1.35;
 }
 
 .option-strike-btn {
@@ -677,31 +696,32 @@ body {
   line-height: 1.5;
 }
 
-/* Soru Gezinti Çizelgesi (Matrix Grid) */
+/* Soru Gezinti Çizelgesi (Matrix Grid - En Altta) */
 .quiz-matrix-container {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
-  padding: 14px 18px;
+  padding: 10px 14px;
+  margin-top: 14px;
   margin-bottom: 18px;
 }
 
 .quiz-matrix-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  max-height: 120px;
+  gap: 5px;
+  max-height: 90px;
   overflow-y: auto;
 }
 
 .matrix-btn {
-  width: 32px;
-  height: 32px;
+  width: 30px;
+  height: 30px;
   border-radius: 6px;
   background: rgba(255, 255, 255, 0.06);
   border: 1px solid var(--border-color);
   color: var(--text-secondary);
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 700;
   cursor: pointer;
   display: flex;
