@@ -3997,6 +3997,43 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>E</strong><br>Henri Fayol'un <strong>Komuta Birliği</strong> ilkesine göre bir çalışan yalnızca tek bir amirden emir almalı ve ona hesap vermelidir."
   },
   {
+    "id": "ekys2026-q30",
+    "testId": "ekys2026_tam",
+    "testTitle": "2026 EKYS Çıkmış Sınav Soruları",
+    "topicId": "ekys2026_egitimyonetimi",
+    "topicName": "2026 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi (%30)",
+    "icon": "🎓",
+    "questionNumber": 30,
+    "questionText": "Bir okulda öğretmenlerin ve personelin görev tanımlarının net olarak yazılı kurallarla belirlendiği, yetki ve sorumlulukların kademeli bir hiyerarşik yapıya göre düzenlendiği, terfilerin liyakat ve kıdeme dayandırıldığı ve tüm işlemlerin kişisel ilişkilerden uzak, nesnel ve biçimsel kurallara göre yürütüldüğü bir yönetim yapısı benimsenmiştir.\n\nOkul yönetiminin benimsediği bu yönetim anlayışı aşağıdaki klasik örgüt kuramlarından hangisinin temel ilkeleriyle örtüşmektedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Max Weber - Bürokrasi Kuramı"
+      },
+      {
+        "key": "B",
+        "text": "Frederick Taylor - Bilimsel Yönetim Kuramı"
+      },
+      {
+        "key": "C",
+        "text": "Henri Fayol - Yönetim Süreci Kuramı"
+      },
+      {
+        "key": "D",
+        "text": "Elton Mayo - İnsan İlişkileri Yaklaşımı"
+      },
+      {
+        "key": "E",
+        "text": "Douglas McGregor - X ve Y Kuramı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Max Weber'in <strong>Bürokrasi Kuramı</strong>; yazılı kurallar, dikey hiyerarşi, nesnellik (gayrişahsilik) ve liyakat ilkelerine dayanır."
+  },
+  {
     "id": "ekys2026-q31",
     "testId": "ekys2026_tam",
     "testTitle": "2026 EKYS Çıkmış Sınav Soruları",
