@@ -23507,5 +23507,2729 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 145 uyarınca görevden uzaklaştırılan memur hakkında 10 gün içinde soruşturmaya başlanması şarttır."
+  },
+  {
+    "id": "ekys_2019_q1",
+    "questionNumber": 1,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_tarih",
+    "topicName": "2019 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Osmanlı Devleti'nde aşağıdakilerden hangisinin doğrudan bir eğitim ve öğretim işlevi yoktur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Enderun"
+      },
+      {
+        "key": "B",
+        "text": "Türbe"
+      },
+      {
+        "key": "C",
+        "text": "Cami"
+      },
+      {
+        "key": "D",
+        "text": "Medrese"
+      },
+      {
+        "key": "E",
+        "text": "Tekke"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Türbe)<br>Osmanlı'da Enderun saray okulu, medrese örgün eğitim kurumu, cami ve tekkeler ise yaygın dini-tasavvufi eğitim merkezleridir. <strong>Türbe</strong> ise din veya devlet büyüklerinin mezarlarının bulunduğu anıt yapılardır; doğrudan eğitim işlevi bulunmaz."
+  },
+  {
+    "id": "ekys_2019_q2",
+    "questionNumber": 2,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_tarih",
+    "topicName": "2019 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "İslamiyet öncesi Türk devletlerinde hükümdara devleti yönetme yetkisinin Gök Tengri tarafından verildiğine inanılan kut anlayışının doğal sonucu aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ülke hanedan üyelerinin ortak malı sayılmış ve sık sık taht kavgaları yaşanmıştır."
+      },
+      {
+        "key": "B",
+        "text": "Hükümdarlar tanrı-kral kabul edilmiştir."
+      },
+      {
+        "key": "C",
+        "text": "Sadece tek bir hanedan üyesi hükümdar olabilmiştir."
+      },
+      {
+        "key": "D",
+        "text": "Kurultay hükümdarın emirlerini koşulsuz onaylamıştır."
+      },
+      {
+        "key": "E",
+        "text": "Boylar arasında merkeziyetçi mutlak monarşi kurulmuştur."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Kut kan bağıyla tüm hanedan erkeklerine geçtiği için her şehzade tahtta hak iddia etmiş; bu durum taht kavgalarına ve Türk devletlerinin kısa sürede parçalanmasına yol açmıştır."
+  },
+  {
+    "id": "ekys_2019_q3",
+    "questionNumber": 3,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_tarih",
+    "topicName": "2019 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Büyük Selçuklu Devleti'nde vezir Nizamülmülk tarafından Şiilik propagandasına karşı Sünni inancı güçlendirmek ve devlet memuru yetiştirmek amacıyla Bağdat'ta kurulan ünlü yükseköğretim kurumu hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nizamiye Medreseleri"
+      },
+      {
+        "key": "B",
+        "text": "Sahn-ı Seman Medreseleri"
+      },
+      {
+        "key": "C",
+        "text": "Cacabey Medresesi"
+      },
+      {
+        "key": "D",
+        "text": "Gökmedrese"
+      },
+      {
+        "key": "E",
+        "text": "Karatay Medresesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Nizamiye Medreseleri)<br>Alparslan ve Melikşah dönemlerinde vezirlik yapan Nizamülmülk'ün kurduğu <strong>Nizamiye Medreseleri</strong>, ilk modern üniversite formatındaki kurum kabul edilir; İmam Gazali gibi âlimler başmüderrislik yapmıştır."
+  },
+  {
+    "id": "ekys_2019_q4",
+    "questionNumber": 4,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_tarih",
+    "topicName": "2019 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Osmanlı Devleti'nde Divân-ı Hümâyun'da alınan kararların şeriata ve dine uygun olup olmadığı konusunda 'fetva' veren yetkili kimdir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Şeyhülislam"
+      },
+      {
+        "key": "B",
+        "text": "Kazasker"
+      },
+      {
+        "key": "C",
+        "text": "Nişancı"
+      },
+      {
+        "key": "D",
+        "text": "Defterdar"
+      },
+      {
+        "key": "E",
+        "text": "Sadrazam"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Şeyhülislam / Müftü)<br>İlmiye sınıfının en üst yetkilisi olan <strong>Şeyhülislam</strong>, padişahın fermanlarının ve divan kararlarının İslam hukukuna uygunluğuna dair fetva makamıdır."
+  },
+  {
+    "id": "ekys_2019_q5",
+    "questionNumber": 5,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_tarih",
+    "topicName": "2019 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Osmanlı Devleti'nde 1876 yılında ilan edilen ve ilk yazılı Türk anayasası olma özelliği taşıyan anayasal belge hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kānûn-ı Esâsî"
+      },
+      {
+        "key": "B",
+        "text": "Tanzimat Fermanı"
+      },
+      {
+        "key": "C",
+        "text": "Islahat Fermanı"
+      },
+      {
+        "key": "D",
+        "text": "Sened-i İttifak"
+      },
+      {
+        "key": "E",
+        "text": "Teşkilât-ı Esâsîye"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kānûn-ı Esâsî)<br>23 Aralık 1876'da II. Abdülhamit tarafından ilan edilen <strong>Kānûn-ı Esâsî</strong>, Türk tarihinin ilk anayasasıdır ve Meşrutiyet dönemini başlatmıştır."
+  },
+  {
+    "id": "ekys_2019_q6",
+    "questionNumber": 6,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_cogr",
+    "topicName": "2019 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak kırmızı renkle gösterilmiştir.\n\nBu alanlardan hangisi karstik platodur?",
+    "hasImage": true,
+    "image": "assets/questions/ekys2019_q19_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (III - Teke / Taşeli Platosu)<br>Akdeniz Bölgesi'nde kalkerli (kireçtaşı) arazilerin erimesiyle oluşan <strong>Teke ve Taşeli Platoları (III)</strong> karstik aşınım platolarıdır. I: Yazılıkaya (Lav), II: Cihanbeyli/Haymana (Tabaka düzlüğü), IV: Bozok/Uzunyayla, V: Erzurum-Kars (Lav örtüsü) platosudur."
+  },
+  {
+    "id": "ekys_2019_q7",
+    "questionNumber": 7,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_cogr",
+    "topicName": "2019 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Türkiye'de Rize'de turunçgil ve kivi, Iğdır'da pamuk, Artvin-Çoruh Vadisi'nde zeytin yetişmesi gibi dar alanlı mikroklima sahalarının oluşmasında en etkili temel faktör hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kısa mesafelerde yer şekilleri ve yükseltinin hızla değişmesi, çukur alanların fön rüzgârlarıyla korunması"
+      },
+      {
+        "key": "B",
+        "text": "Türkiye'nin orta kuşakta yer alması"
+      },
+      {
+        "key": "C",
+        "text": "Batıdan doğuya gidildikçe yükseltinin artması"
+      },
+      {
+        "key": "D",
+        "text": "Kıyı ovalarının geniş yer kaplaması"
+      },
+      {
+        "key": "E",
+        "text": "Üç tarafının denizlerle çevrili olması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Çevresi yüksek dağlarla çevrili korunaklı çanak alanlarda (Iğdır Ovası, Çoruh Vadisi, Doğu Karadeniz kıyıları) fön etkisi ve çukur topoğrafya sebebiyle çevreye göre sıcak mikroklima alanları doğar."
+  },
+  {
+    "id": "ekys_2019_q8",
+    "questionNumber": 8,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_cogr",
+    "topicName": "2019 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Aşağıdaki grafikte Türkiye'de farklı yıllara ait nüfusun yaş gruplarına göre miktarı verilmiştir.\n\nSadece grafikteki bilgiler dikkate alındığında aşağıdakilerden hangisine ulaşılamaz?",
+    "hasImage": true,
+    "image": "assets/questions/ekys2019_q21_graph.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "0-14 yaş grubundaki nüfus 2015'te bir önceki döneme göre daha az artış göstermiştir."
+      },
+      {
+        "key": "B",
+        "text": "1980'den sonra 65+ yaş grubundaki nüfus bir önceki döneme göre daha fazla artmıştır."
+      },
+      {
+        "key": "C",
+        "text": "0-14 yaş grubundaki nüfusta en fazla artış 1980-2015 yılları arasında olmuştur."
+      },
+      {
+        "key": "D",
+        "text": "15-64 yaş grubundaki nüfus 1980'den sonra yaklaşık iki kat artmıştır."
+      },
+      {
+        "key": "E",
+        "text": "65+ yaş grubundaki nüfus 1950 yılından 2015 yılına kadar yaklaşık on kat artmıştır."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Grafiğe bakıldığında 0-14 yaş nüfusu 1950'den 1980'e (8.018'den 17.433'e) <strong>9.415 bin</strong> kişi artmışken; 1980-2015 arasında (17.433'ten 18.886'ya) sadece <strong>1.453 bin</strong> kişi artmıştır. Dolayısıyla en fazla artış 1980-2015 arasında değil, 1950-1980 arasındadır."
+  },
+  {
+    "id": "ekys_2019_q9",
+    "questionNumber": 9,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_cogr",
+    "topicName": "2019 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Sanayide kuruluş yeri seçimi dikkate alındığında İstanbul ve çevresinin Türkiye'de sanayi faaliyetlerinin en yoğun olduğu merkez olmasında aşağıdakilerden hangisinin etkisi daha azdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Zengin yerel hammadde ve maden kaynaklarına sahip olması"
+      },
+      {
+        "key": "B",
+        "text": "Sermaye birikiminin yüksek olması"
+      },
+      {
+        "key": "C",
+        "text": "Nitelikli ve geniş iş gücü potansiyeli"
+      },
+      {
+        "key": "D",
+        "text": "Geniş tüketici pazarına yakınlık"
+      },
+      {
+        "key": "E",
+        "text": "Çok yönlü ve gelişmiş ulaşım ağları"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hammadde)<br>İstanbul sanayisi yerel hammaddeye değil; pazar büyüklüğü, gelişmiş liman ve karayolu ulaşımı, sermaye ve nitelikli iş gücüne dayanır. Hammadde dışarıdan taşınmaktadır."
+  },
+  {
+    "id": "ekys_2019_q10",
+    "questionNumber": 10,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_cogr",
+    "topicName": "2019 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Türkiye'de Akdeniz iklim bölgesinde yer alan maki bitki örtüsünün tahrip edilmesi sonucunda ortaya çıkan kısa boylu, dikenli çalı topluluklarına ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Garig (Frigana)"
+      },
+      {
+        "key": "B",
+        "text": "Psödömaki (Yalancı Maki)"
+      },
+      {
+        "key": "C",
+        "text": "Antropojen Bozkır"
+      },
+      {
+        "key": "D",
+        "text": "Tayga"
+      },
+      {
+        "key": "E",
+        "text": "Tundra"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Garig)<br>Akdeniz'de orman tahribiyle maki; makilerin de tahrip edilmesiyle lavanta, kekik, abdestbozan gibi bodur çalılardan oluşan <strong>Garig</strong> formasyonu oluşur. Karadeniz'de orman tahribiyle ise psödömaki oluşur."
+  },
+  {
+    "id": "ekys_2019_q11",
+    "questionNumber": 11,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yurttaslik",
+    "topicName": "2019 EKYS - Temel Yurttaşlık",
+    "category": "Genel Kültür - Yurttaşlık",
+    "questionText": "1982 Anayasası'na göre kanun teklif etmeye aşağıdakilerden hangisi yetkilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilleri"
+      },
+      {
+        "key": "B",
+        "text": "Cumhurbaşkanı (Bütçe kanun teklifi hariç)"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlar Kurulu"
+      },
+      {
+        "key": "D",
+        "text": "Yargıtay Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "Danıştay Genel Kurulu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Milletvekilleri)<br>2017 Anayasa değişikliği ile kanun teklif etme yetkisi münhasıran <strong>Milletvekillerine</strong> verilmiştir. (Cumhurbaşkanı sadece Bütçe ve Kesin Hesap kanun teklifini sunabilir)."
+  },
+  {
+    "id": "ekys_2019_q12",
+    "questionNumber": 12,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yurttaslik",
+    "topicName": "2019 EKYS - Temel Yurttaşlık",
+    "category": "Genel Kültür - Yurttaşlık",
+    "questionText": "Hukuk normları hiyerarşisinde en üstte yer alan ve diğer tüm normların kendisine aykırı olamayacağı kural hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Anayasa"
+      },
+      {
+        "key": "B",
+        "text": "Kanun"
+      },
+      {
+        "key": "C",
+        "text": "Cumhurbaşkanlığı Kararnamesi"
+      },
+      {
+        "key": "D",
+        "text": "Yönetmelik"
+      },
+      {
+        "key": "E",
+        "text": "Genelge"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Anayasa)<br>Kelsen'in Normlar Hiyerarşisi piramidinde en üstte <strong>Anayasa</strong> yer alır (Anayasanın Üstünlüğü ilkesi). Sıralama: Anayasa > Kanun / Usulüne uygun yürürlüğe konulmuş Milletlerarası Antlaşmalar > CB Kararnameleri > Yönetmelikler > Genelgeler."
+  },
+  {
+    "id": "ekys_2019_q13",
+    "questionNumber": 13,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yurttaslik",
+    "topicName": "2019 EKYS - Temel Yurttaşlık",
+    "category": "Genel Kültür - Yurttaşlık",
+    "questionText": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisinin bilgi edinme ve denetim yolları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gensoru"
+      },
+      {
+        "key": "B",
+        "text": "Yazılı Soru"
+      },
+      {
+        "key": "C",
+        "text": "Genel Görüşme"
+      },
+      {
+        "key": "D",
+        "text": "Meclis Araştırması"
+      },
+      {
+        "key": "E",
+        "text": "Meclis Soruşturması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gensoru)<br>2017 Anayasa değişiklikleriyle Cumhurbaşkanlığı Hükümet Sistemine geçildiğinde hükümeti düşürmeye yönelik <strong>Gensoru</strong> ve Sözlü Soru denetim yolları Anayasa'dan tamamen kaldırılmıştır."
+  },
+  {
+    "id": "ekys_2019_q14",
+    "questionNumber": 14,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yurttaslik",
+    "topicName": "2019 EKYS - Temel Yurttaşlık",
+    "category": "Genel Kültür - Yurttaşlık",
+    "questionText": "Medeni Kanun'a göre hakları kullanabilme, kendi fiilleriyle borç ve alacak altına girebilme yeteneğine ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fiil Ehliyeti"
+      },
+      {
+        "key": "B",
+        "text": "Hak Ehliyeti"
+      },
+      {
+        "key": "C",
+        "text": "Taraf Ehliyeti"
+      },
+      {
+        "key": "D",
+        "text": "Dava Ehliyeti"
+      },
+      {
+        "key": "E",
+        "text": "Hukuki Sorumluluk"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Fiil Ehliyeti)<br>Hak ehliyeti haklara sahip olabilme (sağ ve tam doğumla başlar); <strong>Fiil ehliyeti</strong> ise kişinin bizzat kendi işlemleriyle hak kazanabilmesi ve borç altına girebilmesidir (ayırt etme gücü, erginlik, kısıtlı olmama şarttır)."
+  },
+  {
+    "id": "ekys_2019_q15",
+    "questionNumber": 15,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_guncel",
+    "topicName": "2019 EKYS - Güncel Bilgiler",
+    "category": "Genel Kültür - Güncel",
+    "questionText": "Cumhurbaşkanlığı genelgesiyle 2019 yılı Türkiye'de ve dünyada İslam bilim tarihi alanındaki eşsiz katkıları nedeniyle kimin yılı olarak ilan edilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Prof. Dr. Fuat Sezgin Yılı"
+      },
+      {
+        "key": "B",
+        "text": "Prof. Dr. Aziz Sancar Yılı"
+      },
+      {
+        "key": "C",
+        "text": "Prof. Dr. Oktay Sinanoğlu Yılı"
+      },
+      {
+        "key": "D",
+        "text": "Prof. Dr. Halil İnalcık Yılı"
+      },
+      {
+        "key": "E",
+        "text": "Cahit Arf Yılı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Prof. Dr. Fuat Sezgin Yılı)<br>2018 yılında vefat eden dünyaca ünlü İslam Bilim Tarihi araştırmacısı <strong>Prof. Dr. Fuat Sezgin</strong>'in anısını yaşatmak amacıyla 2019 yılı 'Prof. Dr. Fuat Sezgin Yılı' ilan edilmiştir."
+  },
+  {
+    "id": "ekys_2019_q16",
+    "questionNumber": 16,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_guncel",
+    "topicName": "2019 EKYS - Güncel Bilgiler",
+    "category": "Genel Kültür - Güncel",
+    "questionText": "Avrupa Konseyi tarafından 1950 yılında Roma'da imzalanan ve temel insan hak ve özgürlüklerini koruma altına alan uluslararası sözleşme hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Avrupa İnsan Hakları Sözleşmesi (AİHS)"
+      },
+      {
+        "key": "B",
+        "text": "BM Çocuk Haklarına Dair Sözleşme"
+      },
+      {
+        "key": "C",
+        "text": "Cenevre Sözleşmesi"
+      },
+      {
+        "key": "D",
+        "text": "Helsinki Nihai Senedi"
+      },
+      {
+        "key": "E",
+        "text": "Viyana Sözleşmesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (AİHS)<br>Avrupa Konseyi bünyesinde 4 Kasım 1950'de imzalanan ve bireysel başvuru hakkıyla Avrupa İnsan Hakları Mahkemesini (AİHM) kuran belge <strong>AİHS</strong>'dir."
+  },
+  {
+    "id": "ekys_2019_q17",
+    "questionNumber": 17,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Mondros Ateşkes Antlaşması'nın (30 Ekim 1918) 'İtilaf Devletleri güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal edebilecektir.' maddesi kaçıncı maddedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "7. Madde"
+      },
+      {
+        "key": "B",
+        "text": "24. Madde"
+      },
+      {
+        "key": "C",
+        "text": "1. Madde"
+      },
+      {
+        "key": "D",
+        "text": "12. Madde"
+      },
+      {
+        "key": "E",
+        "text": "15. Madde"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Mondros'un 7. maddesi tüm Anadolu'yu işgale açık hale getiren en tehlikeli maddedir. 24. madde ise Vilayat-ı Sitte'de işgali öngörmüştür."
+  },
+  {
+    "id": "ekys_2019_q18",
+    "questionNumber": 18,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Amasya Genelgesi'nde (22 Haziran 1919) yer alan 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' maddesi neyi ifade eder?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Millî Mücadele'nin gerekçesi, amacı ve yöntemini belirlemiş, milli egemenlik fikrini ilk kez ortaya koymuştur."
+      },
+      {
+        "key": "B",
+        "text": "Saltanata bağlı kalınacağını"
+      },
+      {
+        "key": "C",
+        "text": "Manda ve himayenin savunulduğunu"
+      },
+      {
+        "key": "D",
+        "text": "İstanbul Hükümeti'nin meşruiyetini"
+      },
+      {
+        "key": "E",
+        "text": "Bölgesel direnişle yetinileceğini"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Bu madde Kurtuluş Savaşı'nın yöntemi ve milli iradeye dayalı yeni rejim müjdesidir."
+  },
+  {
+    "id": "ekys_2019_q19",
+    "questionNumber": 19,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Erzurum ve Sivas Kongrelerinde oluşturulan ve TBMM açılana kadar Millî Mücadele'nin yürütme organı olarak görev yapan heyet hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Temsil Heyeti (Heyet-i Temsiliye)"
+      },
+      {
+        "key": "B",
+        "text": "Encümen-i Daniş"
+      },
+      {
+        "key": "C",
+        "text": "Kuvâ-yı Milliye Komutanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Meclis-i Mebusan"
+      },
+      {
+        "key": "E",
+        "text": "Felah-ı Vatan"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Temsil Heyeti başkanı Mustafa Kemal Paşa önderliğinde milli mücadelenin ilk hükümeti gibi çalışmıştır."
+  },
+  {
+    "id": "ekys_2019_q20",
+    "questionNumber": 20,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Son Osmanlı Mebusan Meclisi tarafından 28 Ocak 1920'de kabul edilen ve milli sınırları çizen tarihi bildiri hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Misakımillî (Milli Ant)"
+      },
+      {
+        "key": "B",
+        "text": "Tekalif-i Milliye"
+      },
+      {
+        "key": "C",
+        "text": "Teşkilat-ı Esasiye"
+      },
+      {
+        "key": "D",
+        "text": "Amasya Protokolü"
+      },
+      {
+        "key": "E",
+        "text": "Havza Bildirisi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Misakımillî kararları Türk vatanının parçalanmaz bir bütün olduğunu ilan etmiş ve Lozan'ın temelini oluşturmuştur."
+  },
+  {
+    "id": "ekys_2019_q21",
+    "questionNumber": 21,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "23 Nisan 1920'de açılan I. TBMM'nin özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Çok partili sisteme dayalı koalisyon hükümetleri kurmuştur."
+      },
+      {
+        "key": "B",
+        "text": "Kurucu meclistir (Yeni anayasa yapmıştır)."
+      },
+      {
+        "key": "C",
+        "text": "Meclis Hükümeti sistemini benimsemiştir."
+      },
+      {
+        "key": "D",
+        "text": "Güçler birliği (Yasama-Yürütme-Yargı) ilkesini uygulamıştır."
+      },
+      {
+        "key": "E",
+        "text": "İhtilalci ve savaşçı bir meclistir."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>I. TBMM'de siyasi partiler yoktur; milli birliği bozmamak için sadece gruplar (Müdafaa-i Hukuk, Tesanüd, İstiklal vb.) bulunmuştur."
+  },
+  {
+    "id": "ekys_2019_q22",
+    "questionNumber": 22,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "İstiklal Marşı hangi savaşın devam ettiği ve oluşturduğu moral ihtiyacı sürecinde TBMM tarafından milli marş olarak kabul edilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "I. İnönü Savaşı sonrası (12 Mart 1921)"
+      },
+      {
+        "key": "B",
+        "text": "Büyük Taarruz"
+      },
+      {
+        "key": "C",
+        "text": "Sakarya Savaşı"
+      },
+      {
+        "key": "D",
+        "text": "Başkomutanlık Meydan Muharebesi"
+      },
+      {
+        "key": "E",
+        "text": "Çanakkale Savaşı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Mehmet Akif Ersoy tarafından yazılan İstiklal Marşı, I. İnönü zaferinin hemen ardından 12 Mart 1921'de kabul edilmiştir."
+  },
+  {
+    "id": "ekys_2019_q23",
+    "questionNumber": 23,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Mustafa Kemal Paşa'nın 'Hatt-ı müdafaa yoktur, sath-ı müdafaa vardır. O satıh bütün vatandır.' emrini verdiği tarihi savaş hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sakarya Meydan Muharebesi"
+      },
+      {
+        "key": "B",
+        "text": "I. İnönü Savaşı"
+      },
+      {
+        "key": "C",
+        "text": "II. İnönü Savaşı"
+      },
+      {
+        "key": "D",
+        "text": "Dumlupınar Meydan Muharebesi"
+      },
+      {
+        "key": "E",
+        "text": "Kafkas Cephesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Mustafa Kemal 22 gün 22 gece süren Sakarya Savaşı'nda topyekûn savunma doktrinini bu emirle hayata geçirmiştir."
+  },
+  {
+    "id": "ekys_2019_q24",
+    "questionNumber": 24,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Lozan Barış Antlaşması'nda Türkiye ile Yunanistan arasında sınır kabul edilen doğal nehir hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meriç Nehri"
+      },
+      {
+        "key": "B",
+        "text": "Arda Nehri"
+      },
+      {
+        "key": "C",
+        "text": "Tunca Nehri"
+      },
+      {
+        "key": "D",
+        "text": "Karasu Nehri"
+      },
+      {
+        "key": "E",
+        "text": "Vardar Nehri"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Lozan'da Türkiye ile Yunanistan sınırı Karaağaç savaş tazminatı olarak bize verilerek Meriç Nehri sınır kabul edilmiştir."
+  },
+  {
+    "id": "ekys_2019_q25",
+    "questionNumber": 25,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "1926 yılında İsviçre Medeni Kanunu örnek alınarak kabul edilen Türk Medeni Kanunu ile kadınlara hangi hak TANINMAMIŞTIR?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekili seçme ve seçilme hakkı (Siyasi hak)"
+      },
+      {
+        "key": "B",
+        "text": "Resmî nikâh ve tek eşlilik"
+      },
+      {
+        "key": "C",
+        "text": "Miras ve şahitlikte eşitlik"
+      },
+      {
+        "key": "D",
+        "text": "İstediği mesleğe girebilme hakkı"
+      },
+      {
+        "key": "E",
+        "text": "Mahkemede boşanma hakkı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1926 Medeni Kanunu yalnızca sosyal, hukuki ve ekonomik haklar getirmiştir; kadınlara siyasi haklar 1930, 1933 ve 1934 yıllarında tanınmıştır."
+  },
+  {
+    "id": "ekys_2019_q26",
+    "questionNumber": 26,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "1 Temmuz 1926'da yürürlüğe giren ve Türk karasularında deniz taşımacılığı ve liman işletme hakkını millileştiren kanun hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kabotaj Kanunu"
+      },
+      {
+        "key": "B",
+        "text": "Teşvik-i Sanayi Kanunu"
+      },
+      {
+        "key": "C",
+        "text": "Gümrük Tarifesi Kanunu"
+      },
+      {
+        "key": "D",
+        "text": "Maden Kanunu"
+      },
+      {
+        "key": "E",
+        "text": "Ticaret Kanunu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Kabotaj Kanunu ile Türk karasularında deniz ticareti hakkı yabancılardan alınıp Türk bayraklı gemilere verilmiştir (Milliyetçilik)."
+  },
+  {
+    "id": "ekys_2019_q27",
+    "questionNumber": 27,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Mustafa Kemal Atatürk'ün 'Köylü milletin efendisidir.' sözü doğrultusunda köylü üzerindeki ağır vergi yükünü kaldırmak için ilga edilen vergi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aşar (Öşür) Vergisi"
+      },
+      {
+        "key": "B",
+        "text": "Ağnam Vergisi"
+      },
+      {
+        "key": "C",
+        "text": "Cizye"
+      },
+      {
+        "key": "D",
+        "text": "Haraç"
+      },
+      {
+        "key": "E",
+        "text": "Varlık Vergisi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>17 Şubat 1925'te kaldırılan Aşar Vergisi, bütçe gelirlerinin büyük kısmını oluştursa da halkçılık ilkesi gereği köylüyü rahatlatmak için kaldırılmıştır."
+  },
+  {
+    "id": "ekys_2019_q28",
+    "questionNumber": 28,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_inkilap",
+    "topicName": "2019 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "1932 yılında Türkiye Cumhuriyeti'nin uluslararası barış ve güvenliğe katkı sağlamak amacıyla üye olduğu uluslararası teşkilat hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletler Cemiyeti (Cemiyet-i Akvam)"
+      },
+      {
+        "key": "B",
+        "text": "Birleşmiş Milletler"
+      },
+      {
+        "key": "C",
+        "text": "NATO"
+      },
+      {
+        "key": "D",
+        "text": "Balkan Antantı"
+      },
+      {
+        "key": "E",
+        "text": "Sadabat Paktı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Türkiye, İspanya ve Yunanistan'ın daveti üzerine 18 Temmuz 1932'de Milletler Cemiyeti'ne üye olmuştur."
+  },
+  {
+    "id": "ekys_2019_q29",
+    "questionNumber": 29,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_degerler",
+    "topicName": "2019 EKYS - Değerler & Etik",
+    "category": "Eğitim Bilimleri - Değerler",
+    "questionText": "Kamu Görevlileri Etik Kurulu'na başvuruda bulunabilmek için başvuru sahibinin durumuyla ilgili hangi şart aranır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkiye Cumhuriyeti vatandaşı olması veya Türkiye'de oturan yabancı olması ve başvuru hakkının kötüye kullanılmaması"
+      },
+      {
+        "key": "B",
+        "text": "Mutlaka menfaatinin doğrudan ihlal edilmiş olması şarttır."
+      },
+      {
+        "key": "C",
+        "text": "Avukat tutma zorunluluğu vardır."
+      },
+      {
+        "key": "D",
+        "text": "Başvurunun noterden yapılması şarttır."
+      },
+      {
+        "key": "E",
+        "text": "Başvuru için dava harcı ödenmesi gerekir."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>5176 sayılı Kanun m. 5 uyarınca medeni hakları kullanma ehliyetine sahip T.C. vatandaşları ve Türkiye'de ikamet eden yabancılar doğrudan kurula başvurabilir."
+  },
+  {
+    "id": "ekys_2019_q30",
+    "questionNumber": 30,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_degerler",
+    "topicName": "2019 EKYS - Değerler & Etik",
+    "category": "Eğitim Bilimleri - Değerler",
+    "questionText": "Kamu görevlilerinin etik davranış ilkeleri arasında 'Hediye Alma ve Menfaat Sağlama Yasağı'nın temel amacı nedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kamu görevlisinin tarafsızlığını, performansını ve kararını etkileyecek her türlü borç, menfaat ve maddi avantajı önlemek"
+      },
+      {
+        "key": "B",
+        "text": "Memurların maaşlarını sınırlamak"
+      },
+      {
+        "key": "C",
+        "text": "Devlet dairelerine ziyaretçi girişini engellemek"
+      },
+      {
+        "key": "D",
+        "text": "Kırtasiye harcamalarını kısmak"
+      },
+      {
+        "key": "E",
+        "text": "Personel arası hediyeleşmeyi teşvik etmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Hediye yasağı kamu görevinin saygınlığını ve kamu görevlisinin tarafsız karar verme yetisini korumayı amaçlar."
+  },
+  {
+    "id": "ekys_2019_q31",
+    "questionNumber": 31,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_degerler",
+    "topicName": "2019 EKYS - Değerler & Etik",
+    "category": "Eğitim Bilimleri - Değerler",
+    "questionText": "Bireyin kendi mesleğine ve meslektaşlarına karşı sorumluluklarını belirleyen kurallar bütününe ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meslek Etiği"
+      },
+      {
+        "key": "B",
+        "text": "Hukuki Yaptırım"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal Sözleşme"
+      },
+      {
+        "key": "D",
+        "text": "Örgütsel Adalet"
+      },
+      {
+        "key": "E",
+        "text": "Disiplin Tüzüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Meslek etiği; belirli bir meslek grubunun üyelerine rehberlik eden doğru ve yanlış davranış standartlarıdır."
+  },
+  {
+    "id": "ekys_2019_q32",
+    "questionNumber": 32,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_degerler",
+    "topicName": "2019 EKYS - Değerler & Etik",
+    "category": "Eğitim Bilimleri - Değerler",
+    "questionText": "Değerler eğitiminde öğrencilere 'Değer Açıklama (Value Clarification)' yaklaşımı uygulanırken öğretmenin rolü nedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencilerin kendi değerlerini fark etmelerine, alternatifleri düşünüp özgürce seçim yapmalarına rehberlik etmek"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenciye doğru değerleri ezberletmek"
+      },
+      {
+        "key": "C",
+        "text": "Değerlere uymayanları cezalandırmak"
+      },
+      {
+        "key": "D",
+        "text": "Tek bir ahlaki doğruyu emretmek"
+      },
+      {
+        "key": "E",
+        "text": "Sadece ders kitabını okutmak"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Raths ve Simon'un Değer Açıklama yaklaşımında öğrenci seçme, ödüllendirme ve davranma basamaklarından geçerek kendi değerini inşa eder."
+  },
+  {
+    "id": "ekys_2019_q33",
+    "questionNumber": 33,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_egitim",
+    "topicName": "2019 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yapılandırmacı (Oluşturmacı) Öğrenme Yaklaşımı'na göre bilgi nasıl kazanılır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrenen tarafından ön bilgilerle yeni deneyimler ilişkilendirilerek aktif olarak inşa edilir."
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen tarafından hazır ve değişmez kurallar olarak aktarılır."
+      },
+      {
+        "key": "C",
+        "text": "Ezber ve tekrar yoluyla zihne yerleştirilir."
+      },
+      {
+        "key": "D",
+        "text": "Sadece test çözerek pekiştirilir."
+      },
+      {
+        "key": "E",
+        "text": "Ödül-ceza şartlandırmasıyla kazanılır."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Yapılandırmacılıkta (Piaget, Vygotsky, Bruner) bilgi pasif alınan bir nesne değil, bireyin bizzat anlamlandırdığı dinamik bir yapıdır."
+  },
+  {
+    "id": "ekys_2019_q34",
+    "questionNumber": 34,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_egitim",
+    "topicName": "2019 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yenilenmiş Bloom Bilişsel Taksonomisinde en üst düzey düşünme basamağı hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yaratma (Creating)"
+      },
+      {
+        "key": "B",
+        "text": "Değerlendirme (Evaluating)"
+      },
+      {
+        "key": "C",
+        "text": "Çözümleme (Analyzing)"
+      },
+      {
+        "key": "D",
+        "text": "Uygulama (Applying)"
+      },
+      {
+        "key": "E",
+        "text": "Anlama (Understanding)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Anderson ve Krathwohl tarafından yenilenen taksonomide basamaklar: Hatırlama -> Anlama -> Uygulama -> Analiz -> Değerlendirme -> Yaratma şeklindedir."
+  },
+  {
+    "id": "ekys_2019_q35",
+    "questionNumber": 35,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_egitim",
+    "topicName": "2019 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bloom'un Tam Öğrenme Modeli'nde her ünite sonunda uygulanan izleme testlerinden sonra ek öğrenme süreci için gereken başarı standardı (kriteri) en az yüzde kaçtır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "%70"
+      },
+      {
+        "key": "B",
+        "text": "%50"
+      },
+      {
+        "key": "C",
+        "text": "%60"
+      },
+      {
+        "key": "D",
+        "text": "%80"
+      },
+      {
+        "key": "E",
+        "text": "%90"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Tam öğrenme modelinde bir ünite %70 oranında öğrenilmeden bir sonraki üniteye geçilmez; eksikler tamamlayıcı öğretimle giderilir."
+  },
+  {
+    "id": "ekys_2019_q36",
+    "questionNumber": 36,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_egitim",
+    "topicName": "2019 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir ölçme aracının ölçmek istediği özelliği başka özelliklerle karıştırmadan tam ve doğru olarak ölçebilme derecesine ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Geçerlilik (Validity)"
+      },
+      {
+        "key": "B",
+        "text": "Güvenilirlik (Reliability)"
+      },
+      {
+        "key": "C",
+        "text": "Kullanışlılık"
+      },
+      {
+        "key": "D",
+        "text": "Objektiflik"
+      },
+      {
+        "key": "E",
+        "text": "Standartlaşma"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Ölçme aracının amacına hizmet etme derecesi geçerliliktir; tutarlı ve tesadüfi hatadan arınık olması ise güvenilirliktir."
+  },
+  {
+    "id": "ekys_2019_q37",
+    "questionNumber": 37,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_egitim",
+    "topicName": "2019 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Test puanlarının ranjı (dizi genişliği) aşağıdakilerden hangisi ile hesaplanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En yüksek puan ile en düşük puan arasındaki fark"
+      },
+      {
+        "key": "B",
+        "text": "Puanların aritmetik ortalaması"
+      },
+      {
+        "key": "C",
+        "text": "Medyan ile mod farkı"
+      },
+      {
+        "key": "D",
+        "text": "Varyansın karekökü"
+      },
+      {
+        "key": "E",
+        "text": "Standart puanlar toplamı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Ranj (Aralık) = $X_{max} - X_{min}$ formülüyle hesaplanan en basit yayılma (değişkenlik) ölçüsüdür."
+  },
+  {
+    "id": "ekys_2019_q38",
+    "questionNumber": 38,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_egitim",
+    "topicName": "2019 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Keller Planı (Bireyselleştirilmiş Öğretim) tekniğinin en belirgin özelliği hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencinin kendi öğrenme hızına göre ilerlemesi ve üniteyi tam başarmadan diğerine geçememesi"
+      },
+      {
+        "key": "B",
+        "text": "Tüm sınıfın aynı anda aynı konuyu dinlemesi"
+      },
+      {
+        "key": "C",
+        "text": "Öğretmenin sürekli ders anlatması"
+      },
+      {
+        "key": "D",
+        "text": "Sınavların kaldırılması"
+      },
+      {
+        "key": "E",
+        "text": "Grupça toplu not verilmesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Keller Planı 4 temel ögeye dayanır: Bireysel hız, tam öğrenme ustalığı, yazılı modüller ve öğrenci asistanlar (rehberler)."
+  },
+  {
+    "id": "ekys_2019_q39",
+    "questionNumber": 39,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_egitim",
+    "topicName": "2019 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Rehberlik hizmetlerinin okulda başarıyla yürütülmesinde en geniş sorumluluğa ve yönetimsel desteğe sahip kişi kimdir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Okul Müdürü"
+      },
+      {
+        "key": "B",
+        "text": "Psikolojik Danışman"
+      },
+      {
+        "key": "C",
+        "text": "Sınıf Rehber Öğretmeni"
+      },
+      {
+        "key": "D",
+        "text": "Nöbetçi Öğretmen"
+      },
+      {
+        "key": "E",
+        "text": "Okul Aile Birliği Başkanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>MEB Rehberlik Yönetmeliği'ne göre okulda rehberlik hizmetlerinin sağlıklı yürütülmesinden birinci derecede sorumlu amir Okul Müdürüdür."
+  },
+  {
+    "id": "ekys_2019_q40",
+    "questionNumber": 40,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_egitim",
+    "topicName": "2019 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğretim ilkelerinden 'Bilinenden Bilinmeyene' ilkesi öğretmenin dersi işlerken ne yapmasını gerektirir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencilerin sahip olduğu mevcut ön bilgilerden hareketle yeni konuyu temellendirmesini"
+      },
+      {
+        "key": "B",
+        "text": "Dersin en zor yerinden başlanmasını"
+      },
+      {
+        "key": "C",
+        "text": "Hiç konu anlatmadan soru çözmesini"
+      },
+      {
+        "key": "D",
+        "text": "Ders kitabındaki sırayı ezberletmesini"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca teorik kavramları sunmasını"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğrencinin zihninde yeni bilginin anlam bulması için var olan bilişsel şemalar (ön bilgiler) ile bağlantı kurulması şarttır."
+  },
+  {
+    "id": "ekys_2019_q41",
+    "questionNumber": 41,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Max Weber'in ideal 'Bürokratik Yönetim Modeli'nin temel ilkeleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kişisel ve keyfî kararlara dayalı yönetim"
+      },
+      {
+        "key": "B",
+        "text": "Kesin ve hiyerarşik yetki kademelenmesi"
+      },
+      {
+        "key": "C",
+        "text": "Yazılı kurallar ve prosedürler"
+      },
+      {
+        "key": "D",
+        "text": "Görev ve uzmanlaşmaya dayalı iş bölümü"
+      },
+      {
+        "key": "E",
+        "text": "Liyakate dayalı kariyer ve terfi sistemi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Weber'in bürokrasi modeli kişisellikten uzak (gayrişahsi), rasyonel ve yasal kurallara dayanır; keyfilik bürokrasinin zıddıdır."
+  },
+  {
+    "id": "ekys_2019_q42",
+    "questionNumber": 42,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Abraham Maslow'un İhtiyaçlar Hiyerarşisi piramidinin en üst basamağında yer alan ihtiyaç hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kendini Gerçekleştirme İhtiyacı"
+      },
+      {
+        "key": "B",
+        "text": "Saygınlık / Statü İhtiyacı"
+      },
+      {
+        "key": "C",
+        "text": "Ait Olma ve Sevgi İhtiyacı"
+      },
+      {
+        "key": "D",
+        "text": "Güvenlik İhtiyacı"
+      },
+      {
+        "key": "E",
+        "text": "Fizyolojik İhtiyaçlar"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Maslow piramidi: Fizyolojik -> Güvenlik -> Ait olma -> Saygınlık -> Kendini Gerçekleştirme (Self-actualization)."
+  },
+  {
+    "id": "ekys_2019_q43",
+    "questionNumber": 43,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Herzberg'in Çift Faktör Kuramına göre çalışanların doğrudan iş doyumunu artıran 'Motive Edici (İçsel) Faktörler' arasında hangisi yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Başarı, tanınma, sorumluluk ve kişisel gelişim fırsatları"
+      },
+      {
+        "key": "B",
+        "text": "Maaş ve ücret artışı"
+      },
+      {
+        "key": "C",
+        "text": "Fiziksel çalışma koşulları"
+      },
+      {
+        "key": "D",
+        "text": "Şirket politikaları"
+      },
+      {
+        "key": "E",
+        "text": "Güvenlik ve denetim sıklığı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Maaş ve çalışma şartları 'Hijyen' faktörlerdir (yokluğu mutsuz eder ama varlığı tek başına yüksek motivasyon sağlamaz); işin kendisi ve sorumluluk motive edicidir."
+  },
+  {
+    "id": "ekys_2019_q44",
+    "questionNumber": 44,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Dönüşümcü (Transformasyonel) Liderliğin 4 temel boyutu (4I) arasında aşağıdakilerden hangisi yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İdealleştirilmiş Etki (Karizma), İlham Verici Motivasyon, Entelektüel Uyarım, Bireysel İlgi"
+      },
+      {
+        "key": "B",
+        "text": "Koşullu Ödüllendirme"
+      },
+      {
+        "key": "C",
+        "text": "İstisnalarla Yönetim"
+      },
+      {
+        "key": "D",
+        "text": "Tam Serbesti (Laissez-faire)"
+      },
+      {
+        "key": "E",
+        "text": "Otoriter Emir-Komuta"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Transformasyonel lider vizyon oluşturur, çalışanların düşünce ufkunu açar ve bireysel ihtiyaçlarıyla ilgilenir."
+  },
+  {
+    "id": "ekys_2019_q45",
+    "questionNumber": 45,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Örgütsel İklim tiplerinden Halpin ve Croft'un modelinde öğretmenlerin yüksek iş doyumu, samimiyet ve güven duyduğu, müdürün de destekleyici olduğu ideal iklim hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Açık İklim"
+      },
+      {
+        "key": "B",
+        "text": "Kapalı İklim"
+      },
+      {
+        "key": "C",
+        "text": "Özerk İklim"
+      },
+      {
+        "key": "D",
+        "text": "Kontrollü İklim"
+      },
+      {
+        "key": "E",
+        "text": "Babacan İklim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Açık iklimde hem moral ve samimiyet yüksektir hem de yönetim liderlik ve güven sağlar."
+  },
+  {
+    "id": "ekys_2019_q46",
+    "questionNumber": 46,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Johari Penceresi iletişim modelinde 'bireyin kendisi tarafından bilinen fakat başkaları tarafından bilinmeyen' alan hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gizli Alan (Saklı Alan)"
+      },
+      {
+        "key": "B",
+        "text": "Açık Alan"
+      },
+      {
+        "key": "C",
+        "text": "Kör Alan"
+      },
+      {
+        "key": "D",
+        "text": "Bilinmeyen Alan"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal Alan"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Kişinin bildiği ama sakladığı alan 'Gizli Alan'dır; başkalarının görüp kişinin bilmediği ise 'Kör Alan'dır."
+  },
+  {
+    "id": "ekys_2019_q47",
+    "questionNumber": 47,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Eğitim denetiminde 'Geleneksel (Teftiş) Yaklaşım' ile 'Çağdaş / Gelişimsel Denetim' arasındaki en temel fark nedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Geleneksel denetim hata bulma ve ceza odaklıyken; çağdaş denetim rehberlik, gelişim ve öğretimi iyileştirme odaklıdır."
+      },
+      {
+        "key": "B",
+        "text": "Geleneksel denetim daha çok para kazandırır."
+      },
+      {
+        "key": "C",
+        "text": "Çağdaş denetimde hiç rapor yazılmaz."
+      },
+      {
+        "key": "D",
+        "text": "Geleneksel denetim sadece öğrencilere uygulanır."
+      },
+      {
+        "key": "E",
+        "text": "Çağdaş denetim sadece özel okullarda yapılır."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Çağdaş denetim öğretmenin mesleki yeterliliğini artırmaya ve eğitim kalitesini yükseltmeye odaklı iş birliği sürecidir."
+  },
+  {
+    "id": "ekys_2019_q48",
+    "questionNumber": 48,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul müdürünün öğretmenlerin dersine girerek öğretim yöntemlerini gözlemlemesi, geri bildirim vermesi ve mesleki gelişimlerine rehberlik etmesi hangi liderlik rolüdür?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretimsel Liderlik"
+      },
+      {
+        "key": "B",
+        "text": "Kültürel Liderlik"
+      },
+      {
+        "key": "C",
+        "text": "Mali Liderlik"
+      },
+      {
+        "key": "D",
+        "text": "Bürokratik Liderlik"
+      },
+      {
+        "key": "E",
+        "text": "Politik Liderlik"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğretimsel liderliğin odağı sınıf içi öğrenme ve öğretim süreçlerinin kalitesidir."
+  },
+  {
+    "id": "ekys_2019_q49",
+    "questionNumber": 49,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Stratejik Planlamada bir kurumun 'Varoluş amacını, ne yaptığını ve kime hizmet ettiğini' belirten temel ifade hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Misyon"
+      },
+      {
+        "key": "B",
+        "text": "Vizyon"
+      },
+      {
+        "key": "C",
+        "text": "Stratejik Hedef"
+      },
+      {
+        "key": "D",
+        "text": "Performans Göstergesi"
+      },
+      {
+        "key": "E",
+        "text": "Maliyetlendirme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Misyon varoluş nedenidir; Vizyon ise gelecekte ulaşılmak istenen ideal durumdur."
+  },
+  {
+    "id": "ekys_2019_q50",
+    "questionNumber": 50,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Örgütlerde 'Cam Tavan (Glass Ceiling)' sendromu aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kadınların ve dezavantajlı grupların üst düzey yönetsel pozisyonlara yükselmesini engelleyen görünmez yapay engeller"
+      },
+      {
+        "key": "B",
+        "text": "Okul çatısının camdan yapılması"
+      },
+      {
+        "key": "C",
+        "text": "Çalışanların şeffaf yönetilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Kurumun bütçe açığı vermesi"
+      },
+      {
+        "key": "E",
+        "text": "Yöneticinin çok sert olması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Cam tavan; cinsiyete veya ayrımcılığa dayalı resmi olmayan görünmez kurumsal bariyerlerdir."
+  },
+  {
+    "id": "ekys_2019_q51",
+    "questionNumber": 51,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Vroom'un Beklenti (Expectancy) Kuramında motivasyonun formülü hangi 3 bileşenden oluşur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Değer/Valans (Ödülün Önemi)"
+      },
+      {
+        "key": "B",
+        "text": "Maaş × Kıdem × Makam"
+      },
+      {
+        "key": "C",
+        "text": "Ceza × Disiplin × Korku"
+      },
+      {
+        "key": "D",
+        "text": "Hedef × Plan × Bütçe"
+      },
+      {
+        "key": "E",
+        "text": "Yetenek × Yaş × Cinsiyet"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Vroom'a göre birey gösterdiği çabanın ödülle sonuçlanacağına ve ödülün değerli olduğuna inanırsa yüksek motivasyon duyar."
+  },
+  {
+    "id": "ekys_2019_q52",
+    "questionNumber": 52,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul yönetiminde 'Delphi Tekniği' ile karar alınırken izlenen temel yöntem hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uzmanların bir araya gelmeden, birbirini görmeden anketler yoluyla bağımsız fikir bildirerek uzlaşmaya varması"
+      },
+      {
+        "key": "B",
+        "text": "Herkesin bağırarak tartıştığı toplantı"
+      },
+      {
+        "key": "C",
+        "text": "Müdürün tek başına karar alması"
+      },
+      {
+        "key": "D",
+        "text": "Yazı-tura atılması"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca velilere sorulması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Delphi tekniğinde uzmanlar yüz yüze gelmez; böylece grup baskısı ve baskın karakterlerin etkisi ortadan kalkar."
+  },
+  {
+    "id": "ekys_2019_q53",
+    "questionNumber": 53,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Yönetimde 'Parkinson Yasası' neyi ifade eder?",
+    "options": [
+      {
+        "key": "A",
+        "text": "'Bir iş, kendisi için ayrılan sürenin tamamını dolduracak şekilde genişler.'"
+      },
+      {
+        "key": "B",
+        "text": "'Her çalışan yeteneksizlik düzeyine kadar terfi eder.'"
+      },
+      {
+        "key": "C",
+        "text": "'Ters gidebilecek her şey ters gider.'"
+      },
+      {
+        "key": "D",
+        "text": "'En kolay yol her zaman en doğrusudur.'"
+      },
+      {
+        "key": "E",
+        "text": "'Parası olan kuralı koyar.'"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>C. Northcote Parkinson'un ünlü yasası; işin ayrılan zamana göre genişlediğini ve gereksiz bürokrasi yarattığını açıklar."
+  },
+  {
+    "id": "ekys_2019_q54",
+    "questionNumber": 54,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Yönetimde 'Peter İlkesi' aşağıdakilerden hangisini savunur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "'Hiyerarşik bir yapıda her çalışan eninde sonunda yeteneksiz olduğu (başarısız kalacağı) bir üst kademeye kadar yükselir.'"
+      },
+      {
+        "key": "B",
+        "text": "'Liderler doğuştan liderdir.'"
+      },
+      {
+        "key": "C",
+        "text": "'Yöneticiler hiç hata yapmaz.'"
+      },
+      {
+        "key": "D",
+        "text": "'Kurallar çalışanlardan üstündür.'"
+      },
+      {
+        "key": "E",
+        "text": "'Çalışanlar sadece paraya bakar.'"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Laurence J. Peter'ın ilkesine göre başarılı olan terfi ettirilir; başarısız olduğu kademede kalır ve hiyerarşi yetersizlerle dolar."
+  },
+  {
+    "id": "ekys_2019_q55",
+    "questionNumber": 55,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Örgütsel Vatandaşlık Davranışı (ÖVD) boyutlarından 'çalışanın kurumdaki mesai arkadaşlarına işlerinde gönüllü olarak yardım etmesi' hangi boyuttur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Özgecilik (Altruism)"
+      },
+      {
+        "key": "B",
+        "text": "Vicdanlılık"
+      },
+      {
+        "key": "C",
+        "text": "Nezaket"
+      },
+      {
+        "key": "D",
+        "text": "Centilmenlik"
+      },
+      {
+        "key": "E",
+        "text": "Sivil Erdem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Özgecilik; resmi görev tanımında olmasa bile zorlanan bir iş arkadaşına yardım elini uzatmaktır."
+  },
+  {
+    "id": "ekys_2019_q56",
+    "questionNumber": 56,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okulda öğretmenler arasında ortaya çıkan bir anlaşmazlıkta müdürün tarafları dinleyip ortak kazançlı bir çözüm üretmesi hangi çatışma yöntemidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İş Birliği / Problem Çözme (Kazan-Kazan)"
+      },
+      {
+        "key": "B",
+        "text": "Hükmetme"
+      },
+      {
+        "key": "C",
+        "text": "Kaçınma"
+      },
+      {
+        "key": "D",
+        "text": "Taviz Verme"
+      },
+      {
+        "key": "E",
+        "text": "Yoksayma"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>İş birliği tarzı her iki tarafın da ihtiyaçlarını karşılayan en yapıcı ve kalıcı çatışma çözme yoludur."
+  },
+  {
+    "id": "ekys_2019_q57",
+    "questionNumber": 57,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul müdürünün mevzuata, kanunlara ve resmî yetkilerine dayanarak emir verme gücü hangi güç kaynağıdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yasal (Meşru) Güç"
+      },
+      {
+        "key": "B",
+        "text": "Karizmatik Güç"
+      },
+      {
+        "key": "C",
+        "text": "Uzmanlık Gücü"
+      },
+      {
+        "key": "D",
+        "text": "Ödül Gücü"
+      },
+      {
+        "key": "E",
+        "text": "Zorlayıcı Güç"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>French ve Raven'ın güç sınıflamasında makamdan ve kanunlardan kaynaklanan resmi güç 'Yasal Güç'tür."
+  },
+  {
+    "id": "ekys_2019_q58",
+    "questionNumber": 58,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Balık Kılçığı (Ishikawa / Neden-Sonuç) Diyagramının yönetimde temel kullanım amacı nedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ortaya çıkan bir problemin kök nedenlerini kategorize ederek sistematik şekilde tespit etmek"
+      },
+      {
+        "key": "B",
+        "text": "Bütçe tablosu hazırlamak"
+      },
+      {
+        "key": "C",
+        "text": "Ders programı yapmak"
+      },
+      {
+        "key": "D",
+        "text": "Personel izinlerini takip etmek"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenci kulüplerini listelemek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Ishikawa diyagramı insan, makine, yöntem, malzeme başlıkları altında hatanın kök sebeplerini bulmayı sağlar."
+  },
+  {
+    "id": "ekys_2019_q59",
+    "questionNumber": 59,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okulda öğretmenlerin ortak hedefler etrafında sürekli öğrenen, deneyim paylaşan ve iş birliği yapan bir topluluk haline gelmesine ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Profesyonel Öğrenme Topluluğu (PÖT)"
+      },
+      {
+        "key": "B",
+        "text": "Zorunlu Çalışma Grubu"
+      },
+      {
+        "key": "C",
+        "text": "Klasik Komisyon"
+      },
+      {
+        "key": "D",
+        "text": "Disiplin Kurulu"
+      },
+      {
+        "key": "E",
+        "text": "Sendika Temsilciliği"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Profesyonel öğrenme toplulukları okulu 'öğrenen örgüt' haline getirir ve sürekli mesleki gelişimi destekler."
+  },
+  {
+    "id": "ekys_2019_q60",
+    "questionNumber": 60,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul yönetiminde 'Geniş Denetim Alanı' (Span of Control) ne anlama gelir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bir yöneticiye doğrudan bağlı ve rapor veren ast sayısının çok olması"
+      },
+      {
+        "key": "B",
+        "text": "Okul bahçesinin geniş olması"
+      },
+      {
+        "key": "C",
+        "text": "Müfettiş sayısının fazla olması"
+      },
+      {
+        "key": "D",
+        "text": "Bakanlığın tüm okulları denetlemesi"
+      },
+      {
+        "key": "E",
+        "text": "Yöneticinin tüm gün okulda kalması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Denetim alanı; bir yöneticinin etkili şekilde yönetebileceği doğrudan ast sayısıdır."
+  },
+  {
+    "id": "ekys_2019_q61",
+    "questionNumber": 61,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Kurumda çalışanların moral, motivasyon ve aidiyet duygusunun okulun başarısını doğrudan etkilediğini savunan yönetim felsefesi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İnsan Kaynakları Yönetimi"
+      },
+      {
+        "key": "B",
+        "text": "Klasik Yönetim"
+      },
+      {
+        "key": "C",
+        "text": "Taylorizm"
+      },
+      {
+        "key": "D",
+        "text": "Mekanik Örgüt Modeli"
+      },
+      {
+        "key": "E",
+        "text": "Bilimsel Yönetim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>İnsan kaynakları yaklaşımı insanı bir maliyet unsuru değil, kurumun en değerli stratejik varlığı olarak görür."
+  },
+  {
+    "id": "ekys_2019_q62",
+    "questionNumber": 62,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Eğitim Yönetiminde 'Örgütsel Adanmışlık / Bağlılık' türlerinden 'bireyin kuruma karşı hissettiği ahlaki ve vicdani sorumluluk nedeniyle ayrılmaması' hangi bağlılıktır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Normatif (Ahlaki) Bağlılık"
+      },
+      {
+        "key": "B",
+        "text": "Duygusal Bağlılık"
+      },
+      {
+        "key": "C",
+        "text": "Devamlılık Bağlılığı"
+      },
+      {
+        "key": "D",
+        "text": "Maddi Bağlılık"
+      },
+      {
+        "key": "E",
+        "text": "Zorunlu Bağlılık"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Meyer ve Allen modelinde: Duygusal (istediği için), Devamlılık (mecbur olduğu için), Normatif (görev/vefa bildiği için)."
+  },
+  {
+    "id": "ekys_2019_q63",
+    "questionNumber": 63,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul yöneticisinin bir toplantıda herkesin aktif katılımını sağlamak için 6 farklı düşünme şapkasını (Edward de Bono) sırayla taktırmasında 'Sarı Şapka' neyi temsil eder?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İyimserlik, avantajlar ve olumlu fırsatları düşünmeyi"
+      },
+      {
+        "key": "B",
+        "text": "Duyguları ve sezgileri"
+      },
+      {
+        "key": "C",
+        "text": "Karamsarlık ve tehlikeleri"
+      },
+      {
+        "key": "D",
+        "text": "Yaratıcı yeni fikirleri"
+      },
+      {
+        "key": "E",
+        "text": "Süreç kontrolünü ve yönetimi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>De Bono'da: Beyaz (bilgi), Kırmızı (duygu), Siyah (risk/eleştiri), Sarı (iyimserlik/fayda), Yeşil (yaratıcılık), Mavi (süreç yönetimi)."
+  },
+  {
+    "id": "ekys_2019_q64",
+    "questionNumber": 64,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_yonetim",
+    "topicName": "2019 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Örgüt içi iletişimde üst yönetimden astlara doğru hiyerarşik olarak iletilen emir, yönerge ve görevlendirmeler hangi iletişim yönüdür?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yukarıdan Aşağıya İletişim"
+      },
+      {
+        "key": "B",
+        "text": "Aşağıdan Yukarıya İletişim"
+      },
+      {
+        "key": "C",
+        "text": "Yatay İletişim"
+      },
+      {
+        "key": "D",
+        "text": "Çapraz İletişim"
+      },
+      {
+        "key": "E",
+        "text": "Gayriresmî İletişim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Emir ve talimatlar yukarıdan aşağıya; dilekçe, rapor ve geri bildirimler ise aşağıdan yukarıya doğru akar."
+  },
+  {
+    "id": "ekys_2019_q65",
+    "questionNumber": 65,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_anayasa",
+    "topicName": "2019 EKYS - MEVZUAT ANAYASA",
+    "category": "Mevzuat",
+    "questionText": "1982 Anayasası'na göre Cumhurbaşkanlığı Kararnamesi ile aşağıdaki haklardan hangisi DÜZENLENEMEZ?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel haklar, kişi hakları ve siyasi haklar"
+      },
+      {
+        "key": "B",
+        "text": "Milli savunma ve bakanlıkların teşkilatı"
+      },
+      {
+        "key": "C",
+        "text": "Üst düzey kamu yöneticilerinin atanması"
+      },
+      {
+        "key": "D",
+        "text": "Cumhurbaşkanlığı İdari İşler Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Bakanlıkların kurulması ve kaldırılması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası m. 104 uyarınca Anayasanın 2. kısmının 1. ve 2. bölümlerinde yer alan temel haklar ve kişi hakları ile 4. bölümündeki siyasi haklar CBK ile düzenlenemez (yalnızca sosyal ve ekonomik haklar düzenlenebilir)."
+  },
+  {
+    "id": "ekys_2019_q66",
+    "questionNumber": 66,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_anayasa",
+    "topicName": "2019 EKYS - MEVZUAT ANAYASA",
+    "category": "Mevzuat",
+    "questionText": "1982 Anayasası'na göre TBMM Başkanlık Divanı için bir yasama döneminde kaç defa seçim yapılır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 defa (İlk seçilenlerin görev süresi 2 yıl, ikinci seçilenlerin görev süresi o yasama döneminin sonuna kadardır)"
+      },
+      {
+        "key": "B",
+        "text": "1 defa"
+      },
+      {
+        "key": "C",
+        "text": "3 defa"
+      },
+      {
+        "key": "D",
+        "text": "Her yıl"
+      },
+      {
+        "key": "E",
+        "text": "5 defa"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası m. 94 uyarınca TBMM Başkanlık Divanı için bir yasama döneminde iki seçim yapılır."
+  },
+  {
+    "id": "ekys_2019_q67",
+    "questionNumber": 67,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_657",
+    "topicName": "2019 EKYS - MEVZUAT 657",
+    "category": "Mevzuat",
+    "questionText": "657 sayılı Devlet Memurları Kanunu'na göre 'Özürsüz veya izinsiz olarak göreve geç gelmek veya erken ayrılmak' fiilinin disiplin cezası karşılığı hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uyarma Cezası"
+      },
+      {
+        "key": "B",
+        "text": "Kınama Cezası"
+      },
+      {
+        "key": "C",
+        "text": "Aylıktan Kesme Cezası"
+      },
+      {
+        "key": "D",
+        "text": "Kademe İlerlemesinin Durdurulması"
+      },
+      {
+        "key": "E",
+        "text": "Memuriyetten Çıkarma"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>657 sayılı Kanun m. 125/A-b bendine göre göreve geç gelmek veya erken ayrılmak Uyarma cezasını gerektirir."
+  },
+  {
+    "id": "ekys_2019_q68",
+    "questionNumber": 68,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_657",
+    "topicName": "2019 EKYS - MEVZUAT 657",
+    "category": "Mevzuat",
+    "questionText": "657 sayılı Devlet Memurları Kanunu'na göre memurların haftalık çalışma süresi genel olarak kaç saattir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "40 saat (Cumartesi ve Pazar tatil)"
+      },
+      {
+        "key": "B",
+        "text": "35 saat"
+      },
+      {
+        "key": "C",
+        "text": "45 saat"
+      },
+      {
+        "key": "D",
+        "text": "48 saat"
+      },
+      {
+        "key": "E",
+        "text": "30 saat"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>657 sayılı Kanun m. 99 uyarınca memurların haftalık çalışma süresi kural olarak 40 saattir."
+  },
+  {
+    "id": "ekys_2019_q69",
+    "questionNumber": 69,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_1739",
+    "topicName": "2019 EKYS - MEVZUAT 1739",
+    "category": "Mevzuat",
+    "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre Türk Millî Eğitiminin temel ilkelerinden 'Laiklik' gereğince din kültürü ve ahlak öğretimi nasıl düzenlenir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İlk ve ortaöğretim kurumlarında okutulan zorunlu dersler arasında yer alır."
+      },
+      {
+        "key": "B",
+        "text": "Yalnızca seçmeli derstir."
+      },
+      {
+        "key": "C",
+        "text": "Yalnızca imam hatip liselerinde okutulur."
+      },
+      {
+        "key": "D",
+        "text": "Okullarda din eğitimi tamamen yasaktır."
+      },
+      {
+        "key": "E",
+        "text": "Sadece veli yazılı dilekçe verirse açılır."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 m. 12 ve Anayasa m. 24 uyarınca Din Kültürü ve Ahlak Bilgisi dersi ilk ve ortaöğretim okullarında zorunludur."
+  },
+  {
+    "id": "ekys_2019_q70",
+    "questionNumber": 70,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_1739",
+    "topicName": "2019 EKYS - MEVZUAT 1739",
+    "category": "Mevzuat",
+    "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre okul binalarının ve tesislerinin amacına uygun kullanımı ve korunması kime aittir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Okul Yönetimi ve Millî Eğitim Bakanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Yalnızca Mahalle Muhtarı"
+      },
+      {
+        "key": "C",
+        "text": "Okul Aile Birliği Başkanı"
+      },
+      {
+        "key": "D",
+        "text": "İlçe Emniyet Müdürü"
+      },
+      {
+        "key": "E",
+        "text": "Belediye Meclisi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 sayılı Kanun okul bina ve tesislerinin korunması ve amacına uygun kullanımını düzenler."
+  },
+  {
+    "id": "ekys_2019_q71",
+    "questionNumber": 71,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_222",
+    "topicName": "2019 EKYS - MEVZUAT 222",
+    "category": "Mevzuat",
+    "questionText": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre mecburi ilköğretim çağı hangi yaş grubundaki çocukları kapsar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Çocuğun 5 yaşını bitirdiği yılın eylül ayı sonunda başlar, 13 yaşını bitirip 14 yaşına bastığı yılın öğretim yılı sonunda biter."
+      },
+      {
+        "key": "B",
+        "text": "6-18 yaş"
+      },
+      {
+        "key": "C",
+        "text": "7-12 yaş"
+      },
+      {
+        "key": "D",
+        "text": "5-10 yaş"
+      },
+      {
+        "key": "E",
+        "text": "6-15 yaş"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>222 sayılı Kanun m. 3 uyarınca mecburi ilköğretim çağı bu yaş sınırlarını kapsar."
+  },
+  {
+    "id": "ekys_2019_q72",
+    "questionNumber": 72,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_222",
+    "topicName": "2019 EKYS - MEVZUAT 222",
+    "category": "Mevzuat",
+    "questionText": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre köy okullarına tahsis edilen tarla, bahçe ve uygulama alanlarının geliri nereye harcanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Köy okulu ihtiyaçlarına ve köy ihtiyar heyetince okul bütçesine"
+      },
+      {
+        "key": "B",
+        "text": "İlçe kaymakamının şahsi hesabına"
+      },
+      {
+        "key": "C",
+        "text": "Muhtarın maaşına"
+      },
+      {
+        "key": "D",
+        "text": "İl merkezindeki genel bütçeye"
+      },
+      {
+        "key": "E",
+        "text": "Devlet hazinesine doğrudan aktarılır"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>222 sayılı Kanun m. 63 köy okulu arazilerinin gelirinin münhasıran o okula ait olduğunu belirtir."
+  },
+  {
+    "id": "ekys_2019_q73",
+    "questionNumber": 73,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_5018",
+    "topicName": "2019 EKYS - MEVZUAT 5018",
+    "category": "Mevzuat",
+    "questionText": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu'na göre merkezi yönetim bütçe kanun teklifini TBMM'ye kim sunar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı (Yılbaşından en az 75 gün önce)"
+      },
+      {
+        "key": "B",
+        "text": "Hazine ve Maliye Bakanı"
+      },
+      {
+        "key": "C",
+        "text": "TBMM Başkanı"
+      },
+      {
+        "key": "D",
+        "text": "Sayıştay Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "Merkez Bankası Başkanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>5018 m. 18 uyarınca Cumhurbaşkanı bütçe kanun teklifini mali yıl başından en az 75 gün önce TBMM'ye sunar."
+  },
+  {
+    "id": "ekys_2019_q74",
+    "questionNumber": 74,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_4483",
+    "topicName": "2019 EKYS - MEVZUAT 4483",
+    "category": "Mevzuat",
+    "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre ilçede görevli bir okul müdürü hakkında soruşturma izni vermeye yetkili merci kimdir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaymakam"
+      },
+      {
+        "key": "B",
+        "text": "Vali"
+      },
+      {
+        "key": "C",
+        "text": "İlçe Millî Eğitim Müdürü"
+      },
+      {
+        "key": "D",
+        "text": "Cumhuriyet Başsavcısı"
+      },
+      {
+        "key": "E",
+        "text": "İçişleri Bakanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>4483 sayılı Kanun m. 3/b bendine göre ilçede görevli memurlar hakkında soruşturma izni yetkisi Kaymakama aittir."
+  },
+  {
+    "id": "ekys_2019_q75",
+    "questionNumber": 75,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_4688",
+    "topicName": "2019 EKYS - MEVZUAT 4688",
+    "category": "Mevzuat",
+    "questionText": "4688 sayılı Kamu Görevlileri Sendikaları Kanunu'na göre sendika kurucusu olabilmek için kamu görevlisi olarak en az kaç yıl çalışmış olma şartı aranır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En az 2 yıl"
+      },
+      {
+        "key": "B",
+        "text": "1 yıl"
+      },
+      {
+        "key": "C",
+        "text": "3 yıl"
+      },
+      {
+        "key": "D",
+        "text": "5 yıl"
+      },
+      {
+        "key": "E",
+        "text": "6 ay"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>4688 m. 5 uyarınca sendika kurucusu olabilmek için en az 2 yıl kamu görevlisi olarak çalışmış olmak şarttır."
+  },
+  {
+    "id": "ekys_2019_q76",
+    "questionNumber": 76,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_5442",
+    "topicName": "2019 EKYS - MEVZUAT 5442",
+    "category": "Mevzuat",
+    "questionText": "5442 sayılı İl İdaresi Kanunu'na göre valinin hukuki statüsü ve sıfatı aşağıdakilerden hangisinde doğru tanımlanmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İlde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır."
+      },
+      {
+        "key": "B",
+        "text": "TBMM'nin ildeki temsilcisidir."
+      },
+      {
+        "key": "C",
+        "text": "Sadece İçişleri Bakanının memurudur."
+      },
+      {
+        "key": "D",
+        "text": "Yalnızca yargı yetkisini temsil eder."
+      },
+      {
+        "key": "E",
+        "text": "Siyasi parti il başkanı statüsündedir."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>5442 m. 9 uyarınca Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır."
+  },
+  {
+    "id": "ekys_2019_q77",
+    "questionNumber": 77,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_3071",
+    "topicName": "2019 EKYS - MEVZUAT 3071",
+    "category": "Mevzuat",
+    "questionText": "3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun'a göre yetkili makamlar kendilerine verilen dilekçelere en geç kaç gün içinde gerekçeli cevap vermek zorundadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "30 gün"
+      },
+      {
+        "key": "B",
+        "text": "15 gün"
+      },
+      {
+        "key": "C",
+        "text": "60 gün"
+      },
+      {
+        "key": "D",
+        "text": "45 gün"
+      },
+      {
+        "key": "E",
+        "text": "10 gün"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>3071 sayılı Kanun m. 7 uyarınca dilekçe sahiplerine en geç 30 gün içinde gerekçeli cevap verilir."
+  },
+  {
+    "id": "ekys_2019_q78",
+    "questionNumber": 78,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_1cbk",
+    "topicName": "2019 EKYS - MEVZUAT 1CBK",
+    "category": "Mevzuat",
+    "questionText": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname'ye göre öğretmenlerin atama, yer değiştirme, emeklilik ve özlük işlemlerini yürüten MEB birimi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 318 uyarınca bakanlık personelinin atama ve özlük işlemlerini Personel Genel Müdürlüğü yürütür."
+  },
+  {
+    "id": "ekys_2019_q79",
+    "questionNumber": 79,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_1cbk",
+    "topicName": "2019 EKYS - MEVZUAT 1CBK",
+    "category": "Mevzuat",
+    "questionText": "1 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre Millî Eğitim Bakanlığı'nın en yüksek danışma kurulu hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Millî Eğitim Şûrası"
+      },
+      {
+        "key": "B",
+        "text": "Talim ve Terbiye Kurulu"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlık Müşavirliği"
+      },
+      {
+        "key": "D",
+        "text": "Teftiş Kurulu"
+      },
+      {
+        "key": "E",
+        "text": "Yüksek Disiplin Kurulu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 327 uyarınca MEB'in en yüksek danışma kurulu Millî Eğitim Şûrası'dır."
+  },
+  {
+    "id": "ekys_2019_q80",
+    "questionNumber": 80,
+    "testId": "ekys2019_tam",
+    "testTitle": "2019 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2019_mevzuat_657",
+    "topicName": "2019 EKYS - MEVZUAT 657",
+    "category": "Mevzuat",
+    "questionText": "657 sayılı Devlet Memurları Kanunu'na göre memurlara verilen disiplin cezalarına karşı itiraz süresi kararın tebliğinden itibaren kaç gündür?",
+    "options": [
+      {
+        "key": "A",
+        "text": "7 gün"
+      },
+      {
+        "key": "B",
+        "text": "10 gün"
+      },
+      {
+        "key": "C",
+        "text": "15 gün"
+      },
+      {
+        "key": "D",
+        "text": "30 gün"
+      },
+      {
+        "key": "E",
+        "text": "60 gün"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 135 uyarınca disiplin cezalarına karşı itiraz süresi tebliğden itibaren 7 gündür."
   }
 ];

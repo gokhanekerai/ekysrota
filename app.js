@@ -399,6 +399,14 @@ class EKYSApp {
             badge: '2020 Çıkmış'
           },
           {
+            id: 'ekys_2019_tarih',
+            name: '2019 EKYS Tarih Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış Genel Tarih soruları (Soru 1-5).',
+            filterKey: 'ekys_2019_tarih',
+            badge: '2019 Çıkmış'
+          },
+          {
             id: 'tarih_tum',
             name: '🌟 Tüm Tarih Soruları (Karma Test)',
             icon: '🎯',
@@ -494,6 +502,14 @@ class EKYSApp {
             badge: '2020 Çıkmış'
           },
           {
+            id: 'ekys_2019_cogr',
+            name: '2019 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış Coğrafya soruları, harita ve grafik çözümleri (Soru 6-10).',
+            filterKey: 'ekys_2019_cogr',
+            badge: '2019 Çıkmış'
+          },
+          {
             id: 'cografya_tum',
             name: '🌟 Tüm Coğrafya Soruları (Karma Test)',
             icon: '🎯',
@@ -563,6 +579,14 @@ class EKYSApp {
             desc: '2020 MEB EKYS sınavında çıkmış Temel Yurttaşlık soruları (Soru 11-14).',
             filterKey: 'ekys_2020_yurttaslik',
             badge: '2020 Çıkmış'
+          },
+          {
+            id: 'ekys_2019_yurttaslik',
+            name: '2019 EKYS Yurttaşlık Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış Temel Yurttaşlık soruları (Soru 11-14).',
+            filterKey: 'ekys_2019_yurttaslik',
+            badge: '2019 Çıkmış'
           },
           {
             id: 'yurttaslik_tum',
@@ -698,6 +722,14 @@ class EKYSApp {
             badge: '2020 Çıkmış'
           },
           {
+            id: 'ekys_2019_inkilap',
+            name: '2019 EKYS İnkılap Tarihi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış İnkılap Tarihi soruları (Soru 17-28).',
+            filterKey: 'ekys_2019_inkilap',
+            badge: '2019 Çıkmış'
+          },
+          {
             id: 'inkilap_tum',
             name: '🌟 Tüm İnkılap Tarihi Soruları (Karma Test)',
             icon: '🎯',
@@ -766,6 +798,14 @@ class EKYSApp {
             desc: '2020 MEB EKYS sınavında çıkmış Değerler Eğitimi ve Etik soruları (Soru 29-32).',
             filterKey: 'ekys_2020_degerler',
             badge: '2020 Çıkmış'
+          },
+          {
+            id: 'ekys_2019_degerler',
+            name: '2019 EKYS Değerler & Etik Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış Değerler Eğitimi ve Etik soruları (Soru 29-32).',
+            filterKey: 'ekys_2019_degerler',
+            badge: '2019 Çıkmış'
           },
           {
             id: 'degerler_tum',
@@ -838,6 +878,14 @@ class EKYSApp {
             badge: '2020 Çıkmış'
           },
           {
+            id: 'ekys_2019_egitim',
+            name: '2019 EKYS Eğitim Bilimleri Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış Eğitim Bilimleri soruları (Soru 33-40).',
+            filterKey: 'ekys_2019_egitim',
+            badge: '2019 Çıkmış'
+          },
+          {
             id: 'egitim_tum',
             name: '🌟 Tüm Eğitim Bilimleri Soruları (Karma Test)',
             icon: '🎯',
@@ -906,6 +954,14 @@ class EKYSApp {
             desc: '2020 MEB EKYS sınavında çıkmış Eğitim Yönetimi soruları (Soru 41-64).',
             filterKey: 'ekys_2020_yonetim',
             badge: '2020 Çıkmış'
+          },
+          {
+            id: 'ekys_2019_yonetim',
+            name: '2019 EKYS Eğitim Yönetimi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış Eğitim Yönetimi soruları (Soru 41-64).',
+            filterKey: 'ekys_2019_yonetim',
+            badge: '2019 Çıkmış'
           },
           {
             id: 'yonetim_tum',
