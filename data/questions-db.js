@@ -1,4 +1,3 @@
-// EKYS 2027 Odaklı Soru Veritabanı
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -6854,31 +6853,16 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌍",
     "questionNumber": 7,
-    "questionText": "Türkiye fiziki haritasında Batı Toroslar, Orta Toroslar ve Doğu Anadolu kıvrım kuşaklarında yer alan dağ sıraları eşleştirmesinde aşağıdakilerden hangisi doğrudur?",
-    "hasImage": false,
-    "image": null,
-    "options": [
-      {
-        "key": "A",
-        "text": "Dedegöl Dağları - Bolkar Dağları - Kaçkar Dağları"
-      },
-      {
-        "key": "B",
-        "text": "Geyik Dağları - Bey Dağları - Kaçkar Dağları"
-      },
-      {
-        "key": "C",
-        "text": "Bolkar Dağları - Geyik Dağları - Tecer Dağları"
-      },
-      {
-        "key": "D",
-        "text": "Geyik Dağları - Aladağlar - Tecer Dağları"
-      },
-      {
-        "key": "E",
-        "text": "Aladağlar - Bolkar Dağları - Bey Dağları"
-      }
-    ],
+    "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu alanlarda bulunan dağ sıraları aşağıdakilerin hangisinde doğru verilmiştir?",
+    "hasImage": true,
+    "image": "assets/questions/ekys2025_q7_map.png",
+    "options": {
+      "A": "Dedegöl Dağları — Bolkar Dağları — Kaçkar Dağları",
+      "B": "Geyik Dağları — Bey Dağları — Kaçkar Dağları",
+      "C": "Bolkar Dağları — Geyik Dağları — Tecer Dağları",
+      "D": "Geyik Dağları — Aladağlar — Tecer Dağları",
+      "E": "Aladağlar — Bolkar Dağları — Bey Dağları"
+    },
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong><br>Haritada gösterilen alanlar sırasıyla Geyik Dağları (Batı Toroslar), Aladağlar (Orta Toroslar) ve Tecer Dağları'dır."
   },
@@ -6928,31 +6912,16 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌍",
     "questionNumber": 9,
-    "questionText": "Türkiye maden haritasında işaretli alanlardan hangisinde işletilebilir altın yatakları (Uşak-Kışladağ / Kazdağları / Bergama çevresi) bulunmaktadır?",
-    "hasImage": false,
-    "image": null,
-    "options": [
-      {
-        "key": "A",
-        "text": "I (Güneydoğu Anadolu)"
-      },
-      {
-        "key": "B",
-        "text": "II (Ege Bölgesi / Uşak - İzmir civarı)"
-      },
-      {
-        "key": "C",
-        "text": "III (Orta Karadeniz)"
-      },
-      {
-        "key": "D",
-        "text": "IV (Trakya)"
-      },
-      {
-        "key": "E",
-        "text": "V (Hakkari Bölümü)"
-      }
-    ],
+    "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu alanların hangisinde işletilebilir altın yatakları bulunmaktadır?",
+    "hasImage": true,
+    "image": "assets/questions/ekys2025_q9_map.png",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong><br>Türkiye'de en önemli işletilebilir altın madeni yatakları Ege Bölgesi'nde (Uşak-Kışladağ, İzmir-Bergama) yer almaktadır."
   },
