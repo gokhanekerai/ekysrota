@@ -245,17 +245,19 @@ class EKYSApp {
             id: 'tarih',
             name: 'Tarih Testleri',
             icon: '📜',
-            desc: 'İslamiyet Öncesi Türk Tarihi, Türk-İslam Devletleri, Osmanlı Tarihi ve Kültür Medeniyeti.',
+            desc: 'Video Tarama Testleri (1-2), 2026 & 2025 EKYS Çıkmış Tarih Soruları ve Karma Test.',
             filterKey: 'tarih',
-            badge: '%20 Genel Kültür'
+            targetSubtopic: 'tarih-subtopics',
+            badge: '5 Farklı Test'
           },
           {
             id: 'cografya',
             name: 'Coğrafya Testleri',
             icon: '🗺️',
-            desc: 'Türkiye Fiziki, Beşeri ve Ekonomik Coğrafyası, Harita Bilgisi ve Doğal Kaynaklar.',
+            desc: 'Video Tarama Testleri (1, 2, 3), 2026 & 2025 EKYS Çıkmış Coğrafya Soruları ve Karma Test.',
             filterKey: 'cografya',
-            badge: '%20 Genel Kültür'
+            targetSubtopic: 'cografya-subtopics',
+            badge: '6 Farklı Test'
           },
           {
             id: 'yurttaslik',
@@ -272,6 +274,108 @@ class EKYSApp {
             desc: 'Türkiye ve Dünya ile İlgili Genel, Kültürel ve Güncel Sosyoekonomik Gelişmeler.',
             filterKey: 'guncel',
             badge: '%20 Genel Kültür'
+          }
+        ]
+      },
+      'tarih-subtopics': {
+        parentKey: 'genel-kultur',
+        title: '📜 Genel Tarih Video Tarama & Çıkmış Testleri',
+        desc: 'Çözmek istediğiniz Tarih testini seçin (Konu bazlı testler veya çıkmış sorular):',
+        items: [
+          {
+            id: 'tarih1',
+            name: 'Genel Tarih Video Tarama Testi 1',
+            icon: '📜',
+            desc: 'İslamiyet Öncesi Türk Tarihi, İlk Türk Devletleri Kültür ve Medeniyeti.',
+            filterKey: 'tarih1',
+            badge: '19 Soru'
+          },
+          {
+            id: 'tarih2',
+            name: 'Genel Tarih Video Tarama Testi 2',
+            icon: '⚔️',
+            desc: 'İlk Türk-İslam Devletleri, Türkiye Selçukluları ve Anadolu Beylikleri.',
+            filterKey: 'tarih2',
+            badge: '20 Soru'
+          },
+          {
+            id: 'ekys_2026_tarih',
+            name: '2026 EKYS Tarih Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Genel Tarih soruları (Soru 1-6).',
+            filterKey: 'ekys_2026_tarih',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_tarih',
+            name: '2025 EKYS Tarih Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Genel Tarih soruları (Soru 1-5).',
+            filterKey: 'ekys_2025_tarih',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'tarih_tum',
+            name: '🌟 Tüm Tarih Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm video tarama ve çıkmış tarih sorularından oluşan 65 soruluk karma soru havuzu.',
+            filterKey: 'tarih',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'cografya-subtopics': {
+        parentKey: 'genel-kultur',
+        title: '🗺️ Coğrafya Video Tarama & Çıkmış Testleri',
+        desc: 'Çözmek istediğiniz Coğrafya testini seçin (Konu bazlı testler veya çıkmış sorular):',
+        items: [
+          {
+            id: 'cogr1',
+            name: 'Coğrafya Video Tarama Testi 1',
+            icon: '🗺️',
+            desc: 'Türkiye\'nin Coğrafi Konumu, Sınırları, Enlem-Boylam ve Yerel Saat Özellikleri.',
+            filterKey: 'cogr1',
+            badge: '20 Soru'
+          },
+          {
+            id: 'cogr2',
+            name: 'Coğrafya Video Tarama Testi 2',
+            icon: '🏔️',
+            desc: 'Türkiye\'nin Yer Şekilleri, Jeolojik Yapı, Dağlar, Ovalar ve Platolar.',
+            filterKey: 'cogr2',
+            badge: '20 Soru'
+          },
+          {
+            id: 'cogr3',
+            name: 'Coğrafya Video Tarama Testi 3',
+            icon: '🌍',
+            desc: 'Türkiye\'nin İklimi, Bitki Örtüsü, Akarsuları, Masif Arazileri ve Doğal Kaynakları.',
+            filterKey: 'cogr3',
+            badge: '20 Soru'
+          },
+          {
+            id: 'ekys_2026_cogr',
+            name: '2026 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Coğrafya soruları (Soru 7-12).',
+            filterKey: 'ekys_2026_cogr',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_cogr',
+            name: '2025 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve detaylı çözümleri.',
+            filterKey: 'ekys_2025_cogr',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'cografya_tum',
+            name: '🌟 Tüm Coğrafya Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm tarama ve çıkmış coğrafya sorularından oluşan 78 soruluk karma soru havuzu.',
+            filterKey: 'cografya',
+            badge: 'Karma Test'
           }
         ]
       },
@@ -571,14 +675,45 @@ class EKYSApp {
       const qText = (q.questionText || '').toLowerCase();
       const isCikmis = tName.includes('sınav') || tName.includes('sinav') || tId.includes('ekys');
 
+      // 1. Doğrudan Eşleşen Tekil Test / Tarama Testleri
+      if (filterKey === 'cogr1') {
+        return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
+      }
+      if (filterKey === 'cogr2') {
+        return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
+      }
+      if (filterKey === 'cogr3') {
+        return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));
+      }
+      if (filterKey === 'tarih1') {
+        return (q.testId === 'tarih1' || tId === 'tarih_tarama_1' || (tName.includes('tarama 1') && tName.includes('tarih')));
+      }
+      if (filterKey === 'tarih2') {
+        return (q.testId === 'tarih2' || tId === 'tarih_tarama_2' || (tName.includes('tarama 2') && tName.includes('tarih')));
+      }
+      if (filterKey === 'ekys_2026_cogr') {
+        return (tName.includes('2026') || tId.includes('2026')) && qNum >= 7 && qNum <= 12;
+      }
+      if (filterKey === 'ekys_2025_cogr') {
+        return (tName.includes('2025') || tId.includes('2025')) && (qNum >= 6 && qNum <= 10 || (q.topicName && q.topicName.includes('Coğrafya')));
+      }
+      if (filterKey === 'ekys_2026_tarih') {
+        return (tName.includes('2026') || tId.includes('2026')) && qNum >= 1 && qNum <= 6;
+      }
+      if (filterKey === 'ekys_2025_tarih') {
+        return (tName.includes('2025') || tId.includes('2025')) && (qNum >= 1 && qNum <= 5 || (q.topicName && q.topicName.includes('Tarih') && !q.topicName.includes('İnkılap')));
+      }
+
+      // 2. Tam Yıl Çıkmış Sınavlar
       if (filterKey.startsWith('ekys_')) {
         const year = filterKey.replace('ekys_', '');
         return tName.includes(year) || tId.includes(year) || (q.testId && q.testId.includes(year)) || (q.id && q.id.includes(year));
       }
 
+      // 3. Genel Alan Filtreleri (Karma Testler)
       if (filterKey === 'cografya') {
         if (tId.includes('cogr') || tName.includes('coğrafya')) return true;
-        if (isCikmis && qNum >= 7 && qNum <= 12) return true;
+        if (isCikmis && qNum >= 6 && qNum <= 12) return true;
         if (qText.includes('coğrafya') || qText.includes('iklim') || qText.includes('harita') || qText.includes('erozyon') || qText.includes('jeomorfoloji')) return true;
         return false;
       }
@@ -591,7 +726,7 @@ class EKYSApp {
       }
 
       if (filterKey === 'yurttaslik') {
-        if (isCikmis && qNum >= 13 && qNum <= 14) return true;
+        if (isCikmis && qNum >= 11 && qNum <= 14) return true;
         if (qText.includes('yurttaşlık') || qText.includes('normlar') || qText.includes('fiil ehliyeti')) return true;
         return false;
       }
@@ -669,7 +804,12 @@ class EKYSApp {
     const modalDescEl = document.getElementById('subtopic-modal-desc');
     const modalGridEl = document.getElementById('subtopic-modal-cards-grid');
 
-    if (modalTitleEl) modalTitleEl.innerHTML = `<span>📚</span> ${data.title}`;
+    let backBtnHtml = '';
+    if (data.parentKey) {
+      backBtnHtml = `<button class="btn btn-secondary btn-sm" style="padding: 4px 10px; font-size: 0.8rem; margin-right: 8px; border-radius: 6px;" onclick="app.openSubTopicModal('${data.parentKey}')">⬅️ Geri Dön</button>`;
+    }
+
+    if (modalTitleEl) modalTitleEl.innerHTML = `${backBtnHtml}<span>📚</span> ${data.title}`;
     if (modalDescEl) modalDescEl.textContent = data.desc;
 
     if (modalGridEl) {
@@ -677,6 +817,40 @@ class EKYSApp {
         const questions = this.getQuestionsForFilter(item.filterKey);
         const qCount = questions.length;
 
+        // Eğer bu bir alt kategori kartı ise (örneğin Tarih Testleri -> tarih-subtopics)
+        if (item.targetSubtopic) {
+          return `
+            <div class="card" style="border: 1px solid var(--border-active); background: rgba(30, 41, 59, 0.85); display: flex; flex-direction: column; justify-content: space-between; cursor: pointer; transition: all 0.2s;" onclick="app.openSubTopicModal('${item.targetSubtopic}')" onmouseover="this.style.borderColor='#6366f1'; this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='var(--border-active)'; this.style.transform='none'">
+              <div>
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                  <span style="font-size: 30px;">${item.icon}</span>
+                  <div style="display: flex; gap: 6px; flex-wrap: wrap;">
+                    <span class="badge badge-info" style="font-size: 0.72rem; font-weight: 700;">
+                      ${qCount > 0 ? qCount + ' Soru Mevcut' : 'Testler Hazır'}
+                    </span>
+                    <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; font-size: 0.72rem;">
+                      ${item.badge}
+                    </span>
+                  </div>
+                </div>
+                <h3 style="font-size: 1.08rem; font-weight: 700; margin-bottom: 6px; color: #ffffff;">${item.name}</h3>
+                <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.4; margin-bottom: 16px;">
+                  ${item.desc}
+                </p>
+              </div>
+              <div style="display: flex; gap: 6px; margin-top: auto; flex-wrap: wrap;" onclick="event.stopPropagation()">
+                <button class="btn btn-primary btn-sm" style="flex: 2; font-weight: 700; background: linear-gradient(135deg, #6366f1, #8b5cf6);" onclick="app.openSubTopicModal('${item.targetSubtopic}')">
+                  📂 Testleri Listele &amp; Seç
+                </button>
+                <button class="btn btn-secondary btn-sm" style="flex: 1;" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name} (Karma)', 'practice')" title="Tüm soruları karma çöz">
+                  🎯 Karma
+                </button>
+              </div>
+            </div>
+          `;
+        }
+
+        // Normal tekil test kartı
         return `
           <div class="card" style="border: 1px solid var(--border-active); background: rgba(30, 41, 59, 0.85); display: flex; flex-direction: column; justify-content: space-between;">
             <div>
