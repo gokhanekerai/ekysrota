@@ -15406,7 +15406,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicName": "2022 EKYS - Coğrafya",
     "category": "Genel Kültür - Coğrafya",
     "questionNumber": 7,
-    "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu alanlardan hangisinde arazinin dağlık ve engebeli olması, ulaşım ve sanayinin gelişmesini engelleyerek nüfusun seyrek kalmasında temel etken olmuştur?",
+    "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu yerlerin hangisinde rüzgâr enerjisi potansiyeli daha yüksektir?",
     "hasImage": true,
     "image": "assets/questions/ekys2022_q7_map.png",
     "options": [
@@ -15431,8 +15431,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "V"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (V - Hakkari Yöresi)</strong><br>V numaralı Hakkari yöresi, Türkiye'nin en dağlık ve engebeli alanlarından biri olup olumsuz topoğrafya ve iklim şartları nedeniyle nüfus oldukça seyrektir."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (II - Çanakkale / Biga Yarımadası)<br>Türkiye'de rüzgâr enerjisi potansiyelinin en yüksek olduğu alanların başında Marmara ve Ege kıyıları, özellikle <strong>Çanakkale (II - Biga Yarımadası)</strong>, Balıkesir ve İzmir çevresi gelmektedir. Çanakkale Boğazı ve çevresi sürekli ve güçlü hava akımlarına açık olması nedeniyle rüzgâr enerjisi santralleri (RES) bakımından ülkemizin en verimli alanlarındandır.<br><br><strong>Haritada İşaretli Alanlar:</strong><br>• <strong>I:</strong> Kırklareli / Trakya<br>• <strong>II:</strong> Çanakkale / Biga Yarımadası (En Yüksek Rüzgâr Potansiyeli - Doğru Cevap)<br>• <strong>III:</strong> Teke Yarımadası / Antalya<br>• <strong>IV:</strong> Taşeli Platosu / Mersin<br>• <strong>V:</strong> Sinop / İnceburun"
   },
   {
     "id": "ekys_2022_q8",
