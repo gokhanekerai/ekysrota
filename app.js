@@ -391,6 +391,14 @@ class EKYSApp {
             badge: '2021 Çıkmış'
           },
           {
+            id: 'ekys_2020_tarih',
+            name: '2020 EKYS Tarih Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış Genel Tarih soruları (Soru 1-5).',
+            filterKey: 'ekys_2020_tarih',
+            badge: '2020 Çıkmış'
+          },
+          {
             id: 'tarih_tum',
             name: '🌟 Tüm Tarih Soruları (Karma Test)',
             icon: '🎯',
@@ -478,6 +486,14 @@ class EKYSApp {
             badge: '2021 Çıkmış'
           },
           {
+            id: 'ekys_2020_cogr',
+            name: '2020 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış Coğrafya soruları ve harita çözümleri (Soru 6-10).',
+            filterKey: 'ekys_2020_cogr',
+            badge: '2020 Çıkmış'
+          },
+          {
             id: 'cografya_tum',
             name: '🌟 Tüm Coğrafya Soruları (Karma Test)',
             icon: '🎯',
@@ -539,6 +555,14 @@ class EKYSApp {
             desc: '2021 MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları (Soru 11-14).',
             filterKey: 'ekys_2021_yurttaslik',
             badge: '2021 Çıkmış'
+          },
+          {
+            id: 'ekys_2020_yurttaslik',
+            name: '2020 EKYS Yurttaşlık Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış Temel Yurttaşlık soruları (Soru 11-14).',
+            filterKey: 'ekys_2020_yurttaslik',
+            badge: '2020 Çıkmış'
           },
           {
             id: 'yurttaslik_tum',
@@ -666,6 +690,14 @@ class EKYSApp {
             badge: '2021 Çıkmış'
           },
           {
+            id: 'ekys_2020_inkilap',
+            name: '2020 EKYS İnkılap Tarihi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış İnkılap Tarihi soruları (Soru 17-28).',
+            filterKey: 'ekys_2020_inkilap',
+            badge: '2020 Çıkmış'
+          },
+          {
             id: 'inkilap_tum',
             name: '🌟 Tüm İnkılap Tarihi Soruları (Karma Test)',
             icon: '🎯',
@@ -726,6 +758,14 @@ class EKYSApp {
             desc: '2021 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi ve Etik soruları (Soru 29-32).',
             filterKey: 'ekys_2021_degerler',
             badge: '2021 Çıkmış'
+          },
+          {
+            id: 'ekys_2020_degerler',
+            name: '2020 EKYS Değerler & Etik Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış Değerler Eğitimi ve Etik soruları (Soru 29-32).',
+            filterKey: 'ekys_2020_degerler',
+            badge: '2020 Çıkmış'
           },
           {
             id: 'degerler_tum',
@@ -790,6 +830,14 @@ class EKYSApp {
             badge: '2021 Çıkmış'
           },
           {
+            id: 'ekys_2020_egitim',
+            name: '2020 EKYS Eğitim Bilimleri Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış Eğitim Bilimleri soruları (Soru 33-40).',
+            filterKey: 'ekys_2020_egitim',
+            badge: '2020 Çıkmış'
+          },
+          {
             id: 'egitim_tum',
             name: '🌟 Tüm Eğitim Bilimleri Soruları (Karma Test)',
             icon: '🎯',
@@ -850,6 +898,14 @@ class EKYSApp {
             desc: '2021 MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları (Soru 41-64).',
             filterKey: 'ekys_2021_yonetim',
             badge: '2021 Çıkmış'
+          },
+          {
+            id: 'ekys_2020_yonetim',
+            name: '2020 EKYS Eğitim Yönetimi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış Eğitim Yönetimi soruları (Soru 41-64).',
+            filterKey: 'ekys_2020_yonetim',
+            badge: '2020 Çıkmış'
           },
           {
             id: 'yonetim_tum',
