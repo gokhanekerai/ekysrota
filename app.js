@@ -351,7 +351,7 @@ class EKYSApp {
             id: 'cogr1',
             name: 'Coğrafya Video Tarama Testi 1',
             icon: '🗺️',
-            desc: 'Türkiye'nin Coğrafi Konumu, Sınırları, Enlem-Boylam ve Yerel Saat Özellikleri.',
+            desc: 'Türkiye\'nin Coğrafi Konumu, Sınırları, Enlem-Boylam ve Yerel Saat Özellikleri.',
             filterKey: 'cogr1',
             badge: '20 Soru'
           },
@@ -359,7 +359,7 @@ class EKYSApp {
             id: 'cogr2',
             name: 'Coğrafya Video Tarama Testi 2',
             icon: '🏔️',
-            desc: 'Türkiye'nin Yer Şekilleri, Jeolojik Yapı, Dağlar, Ovalar ve Platolar.',
+            desc: 'Türkiye\'nin Yer Şekilleri, Jeolojik Yapı, Dağlar, Ovalar ve Platolar.',
             filterKey: 'cogr2',
             badge: '20 Soru'
           },
@@ -367,7 +367,7 @@ class EKYSApp {
             id: 'cogr3',
             name: 'Coğrafya Video Tarama Testi 3',
             icon: '🌍',
-            desc: 'Türkiye'nin İklimi, Bitki Örtüsü, Akarsuları, Masif Arazileri ve Doğal Kaynakları.',
+            desc: 'Türkiye\'nin İklimi, Bitki Örtüsü, Akarsuları, Masif Arazileri ve Doğal Kaynakları.',
             filterKey: 'cogr3',
             badge: '20 Soru'
           },
