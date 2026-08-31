@@ -234,6 +234,48 @@ class EKYSApp {
     this.filterTestHub(cat);
   }
 
+  renderTestHub() {
+    const grid = document.getElementById('topics-grid');
+    if (!grid) return;
+
+    const topics = window.storageService.getTopics();
+    const allQuestions = window.storageService.getQuestions();
+
+    let filtered = topics;
+    if (this.currentCategoryFilter !== 'all') {
+      filtered = topics.filter(t => t.category && t.category.toLowerCase().includes(this.currentCategoryFilter.toLowerCase()));
+    }
+
+    if (filtered.length === 0) {
+      grid.innerHTML = `<div class="card" style="grid-column: 1/-1; text-align: center; color: var(--text-secondary);">Bu kategoride henüz test bulunmuyor.</div>`;
+      return;
+    }
+
+    grid.innerHTML = filtered.map(t => {
+      const qCount = allQuestions.filter(q => q.topicId === t.id).length;
+      return `
+        <div class="card">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+            <span style="font-size: 28px;">${t.icon || '📖'}</span>
+            <span class="badge" style="background: rgba(99, 102, 241, 0.18); color: #a5b4fc; padding: 3px 8px; border-radius: 99px; font-size: 0.75rem; font-weight: 700;">
+              ${qCount} Soru
+            </span>
+          </div>
+          <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 4px;">${t.name}</h3>
+          <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 16px;">${t.category || 'Mevzuat'}</p>
+          <div style="display: flex; gap: 8px;">
+            <button class="btn btn-primary btn-sm btn-block" onclick="app.startTopicQuiz('${t.id}', 'practice')">
+              🎯 Pratik Çöz
+            </button>
+            <button class="btn btn-secondary btn-sm btn-block" onclick="app.startTopicQuiz('${t.id}', 'exam')">
+              ⏱️ Süreli Sınav
+            </button>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
   // --- ALT KONU SEÇİM VE QUIZ MOTORU ---
   getSubTopicData() {
     return {
@@ -1634,6 +1676,37 @@ class EKYSApp {
       modal.style.display = 'none';
       sessionStorage.removeItem('ekys_last_subtopic');
     }
+  }
+
+  startSubTopicQuiz(filterKey, title, mode = 'practice') {
+    const modal = document.getElementById('subtopic-modal');
+    if (modal) modal.style.display = 'none';
+
+    let questions = this.getQuestionsForFilter(filterKey);
+    if (questions.length === 0) {
+      this.showToast('Bu filtrede henüz soru bulunmuyor.', 'error');
+      return;
+    }
+
+    this.activeQuiz = {
+      title: `${title} (${mode === 'exam' ? 'Süreli Sınav' : 'Öğrenme Modu'})`,
+      filterKey: filterKey,
+      mode: mode,
+      questions: mode === 'exam' ? [...questions] : this.shuffleArray([...questions]),
+      currentIndex: 0,
+      userAnswers: {},
+      struckOptions: {},
+      starred: {},
+      isFinished: false,
+      startTime: Date.now(),
+      durationSeconds: mode === 'exam' ? Math.max(questions.length * 112, 600) : 0,
+      elapsedSeconds: 0
+    };
+
+    this.navigateTo('quiz-active');
+    this.startQuizTimer();
+    this.renderCurrentQuestion();
+    this.showToast(`${title} başlatıldı (${questions.length} Soru)`, 'success');
   }
 
   // --- HIZLI SORU EKLEME YÖNETİCİSİ ---
