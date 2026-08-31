@@ -315,10 +315,18 @@ class EKYSApp {
             badge: '2025 Çıkmış'
           },
           {
+            id: 'ekys_2024_tarih',
+            name: '2024 EKYS Tarih Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Genel Tarih soruları (Soru 1-6).',
+            filterKey: 'ekys_2024_tarih',
+            badge: '2024 Çıkmış'
+          },
+          {
             id: 'tarih_tum',
             name: '🌟 Tüm Tarih Soruları (Karma Test)',
             icon: '🎯',
-            desc: 'Tüm video tarama ve çıkmış tarih sorularından oluşan 65 soruluk karma soru havuzu.',
+            desc: 'Tüm video tarama ve çıkmış tarih sorularından oluşan karma soru havuzu.',
             filterKey: 'tarih',
             badge: 'Karma Test'
           }
@@ -370,10 +378,18 @@ class EKYSApp {
             badge: '2025 Çıkmış'
           },
           {
+            id: 'ekys_2024_cogr',
+            name: '2024 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 7-12).',
+            filterKey: 'ekys_2024_cogr',
+            badge: '2024 Çıkmış'
+          },
+          {
             id: 'cografya_tum',
             name: '🌟 Tüm Coğrafya Soruları (Karma Test)',
             icon: '🎯',
-            desc: 'Tüm tarama ve çıkmış coğrafya sorularından oluşan 78 soruluk karma soru havuzu.',
+            desc: 'Tüm tarama ve çıkmış coğrafya sorularından oluşan karma soru havuzu.',
             filterKey: 'cografya',
             badge: 'Karma Test'
           }
@@ -613,7 +629,7 @@ class EKYSApp {
             icon: '📜',
             desc: '2024 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
             filterKey: 'ekys_2024',
-            badge: '80 Soru Hedef'
+            badge: '80 Soru Hazır 🎯'
           },
           {
             id: 'ekys_2023',
@@ -697,11 +713,17 @@ class EKYSApp {
       if (filterKey === 'ekys_2025_cogr') {
         return (tName.includes('2025') || tId.includes('2025')) && (qNum >= 6 && qNum <= 10 || (q.topicName && q.topicName.includes('Coğrafya')));
       }
+      if (filterKey === 'ekys_2024_cogr') {
+        return (tName.includes('2024') || tId.includes('2024')) && (qNum >= 7 && qNum <= 12 || (q.topicName && q.topicName.includes('Coğrafya')));
+      }
       if (filterKey === 'ekys_2026_tarih') {
         return (tName.includes('2026') || tId.includes('2026')) && qNum >= 1 && qNum <= 6;
       }
       if (filterKey === 'ekys_2025_tarih') {
         return (tName.includes('2025') || tId.includes('2025')) && (qNum >= 1 && qNum <= 5 || (q.topicName && q.topicName.includes('Tarih') && !q.topicName.includes('İnkılap')));
+      }
+      if (filterKey === 'ekys_2024_tarih') {
+        return (tName.includes('2024') || tId.includes('2024')) && (qNum >= 1 && qNum <= 6 || (q.topicName && q.topicName.includes('Genel Tarih')));
       }
 
       // 2. Tam Yıl Çıkmış Sınavlar
