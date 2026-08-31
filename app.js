@@ -323,6 +323,14 @@ class EKYSApp {
             badge: '2024 Çıkmış'
           },
           {
+            id: 'ekys_2023_tarih',
+            name: '2023 EKYS Tarih Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Genel Tarih soruları (Soru 1-5).',
+            filterKey: 'ekys_2023_tarih',
+            badge: '2023 Çıkmış'
+          },
+          {
             id: 'tarih_tum',
             name: '🌟 Tüm Tarih Soruları (Karma Test)',
             icon: '🎯',
@@ -384,6 +392,14 @@ class EKYSApp {
             desc: '2024 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 7-12).',
             filterKey: 'ekys_2024_cogr',
             badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_cogr',
+            name: '2023 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 6-10).',
+            filterKey: 'ekys_2023_cogr',
+            badge: '2023 Çıkmış'
           },
           {
             id: 'cografya_tum',
@@ -637,7 +653,7 @@ class EKYSApp {
             icon: '📜',
             desc: '2023 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
             filterKey: 'ekys_2023',
-            badge: '80 Soru Hedef'
+            badge: '80 Soru Hazır 🎯'
           },
           {
             id: 'ekys_2022',
@@ -716,6 +732,9 @@ class EKYSApp {
       if (filterKey === 'ekys_2024_cogr') {
         return (tName.includes('2024') || tId.includes('2024')) && (qNum >= 7 && qNum <= 12 || (q.topicName && q.topicName.includes('Coğrafya')));
       }
+      if (filterKey === 'ekys_2023_cogr') {
+        return (tName.includes('2023') || tId.includes('2023')) && (qNum >= 6 && qNum <= 10 || (q.topicName && q.topicName.includes('Coğrafya')));
+      }
       if (filterKey === 'ekys_2026_tarih') {
         return (tName.includes('2026') || tId.includes('2026')) && qNum >= 1 && qNum <= 6;
       }
@@ -724,6 +743,9 @@ class EKYSApp {
       }
       if (filterKey === 'ekys_2024_tarih') {
         return (tName.includes('2024') || tId.includes('2024')) && (qNum >= 1 && qNum <= 6 || (q.topicName && q.topicName.includes('Genel Tarih')));
+      }
+      if (filterKey === 'ekys_2023_tarih') {
+        return (tName.includes('2023') || tId.includes('2023')) && (qNum >= 1 && qNum <= 5 || (q.topicName && q.topicName.includes('Genel Tarih')));
       }
 
       // 2. Tam Yıl Çıkmış Sınavlar
