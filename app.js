@@ -245,35 +245,37 @@ class EKYSApp {
             id: 'tarih',
             name: 'Tarih Testleri',
             icon: '📜',
-            desc: 'Video Tarama Testleri (1-2), 2026 & 2025 EKYS Çıkmış Tarih Soruları ve Karma Test.',
+            desc: 'Video Tarama Testleri (1-2), 2026, 2025, 2024, 2023 EKYS Çıkmış Soruları ve Karma Test.',
             filterKey: 'tarih',
             targetSubtopic: 'tarih-subtopics',
-            badge: '5 Farklı Test'
+            badge: '6 Farklı Test'
           },
           {
             id: 'cografya',
             name: 'Coğrafya Testleri',
             icon: '🗺️',
-            desc: 'Video Tarama Testleri (1, 2, 3), 2026 & 2025 EKYS Çıkmış Coğrafya Soruları ve Karma Test.',
+            desc: 'Video Tarama Testleri (1-3), 2026, 2025, 2024, 2023 EKYS Çıkmış Soruları ve Karma Test.',
             filterKey: 'cografya',
             targetSubtopic: 'cografya-subtopics',
-            badge: '6 Farklı Test'
+            badge: '7 Farklı Test'
           },
           {
             id: 'yurttaslik',
             name: 'Temel Yurttaşlık Bilgisi',
             icon: '🏛️',
-            desc: 'Temel Hukuk Kavramları, Türk Anayasa Tarihi, Devlet Yapısı ve İdari Teşkilat.',
+            desc: 'Temel Hukuk, Anayasa Esasları, Devlet Yapısı ve Çıkmış Yurttaşlık Soruları.',
             filterKey: 'yurttaslik',
-            badge: '%20 Genel Kültür'
+            targetSubtopic: 'yurttaslik-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'guncel',
             name: 'Güncel / Kültürel Olaylar',
             icon: '🌐',
-            desc: 'Türkiye ve Dünya ile İlgili Genel, Kültürel ve Güncel Sosyoekonomik Gelişmeler.',
+            desc: 'Türkiye ve Dünya ile İlgili Kültürel, Bilimsel ve Güncel Sosyoekonomik Gelişmeler.',
             filterKey: 'guncel',
-            badge: '%20 Genel Kültür'
+            targetSubtopic: 'guncel-subtopics',
+            badge: 'Çıkmış + Karma'
           }
         ]
       },
@@ -288,7 +290,7 @@ class EKYSApp {
             icon: '📜',
             desc: 'İslamiyet Öncesi Türk Tarihi, İlk Türk Devletleri Kültür ve Medeniyeti.',
             filterKey: 'tarih1',
-            badge: '19 Soru'
+            badge: '20 Soru'
           },
           {
             id: 'tarih2',
@@ -349,7 +351,7 @@ class EKYSApp {
             id: 'cogr1',
             name: 'Coğrafya Video Tarama Testi 1',
             icon: '🗺️',
-            desc: 'Türkiye\'nin Coğrafi Konumu, Sınırları, Enlem-Boylam ve Yerel Saat Özellikleri.',
+            desc: 'Türkiye'nin Coğrafi Konumu, Sınırları, Enlem-Boylam ve Yerel Saat Özellikleri.',
             filterKey: 'cogr1',
             badge: '20 Soru'
           },
@@ -357,7 +359,7 @@ class EKYSApp {
             id: 'cogr2',
             name: 'Coğrafya Video Tarama Testi 2',
             icon: '🏔️',
-            desc: 'Türkiye\'nin Yer Şekilleri, Jeolojik Yapı, Dağlar, Ovalar ve Platolar.',
+            desc: 'Türkiye'nin Yer Şekilleri, Jeolojik Yapı, Dağlar, Ovalar ve Platolar.',
             filterKey: 'cogr2',
             badge: '20 Soru'
           },
@@ -365,7 +367,7 @@ class EKYSApp {
             id: 'cogr3',
             name: 'Coğrafya Video Tarama Testi 3',
             icon: '🌍',
-            desc: 'Türkiye\'nin İklimi, Bitki Örtüsü, Akarsuları, Masif Arazileri ve Doğal Kaynakları.',
+            desc: 'Türkiye'nin İklimi, Bitki Örtüsü, Akarsuları, Masif Arazileri ve Doğal Kaynakları.',
             filterKey: 'cogr3',
             badge: '20 Soru'
           },
@@ -411,79 +413,281 @@ class EKYSApp {
           }
         ]
       },
+      'yurttaslik-subtopics': {
+        parentKey: 'genel-kultur',
+        title: '🏛️ Temel Yurttaşlık Çıkmış & Konu Testleri',
+        desc: 'Çözmek istediğiniz Yurttaşlık testini seçin:',
+        items: [
+          {
+            id: 'ekys_2026_yurttaslik',
+            name: '2026 EKYS Yurttaşlık Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları.',
+            filterKey: 'ekys_2026_yurttaslik',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_yurttaslik',
+            name: '2025 EKYS Yurttaşlık Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları.',
+            filterKey: 'ekys_2025_yurttaslik',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_yurttaslik',
+            name: '2024 EKYS Yurttaşlık Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları.',
+            filterKey: 'ekys_2024_yurttaslik',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_yurttaslik',
+            name: '2023 EKYS Yurttaşlık Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları.',
+            filterKey: 'ekys_2023_yurttaslik',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'yurttaslik_tum',
+            name: '🌟 Tüm Yurttaşlık Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış yurttaşlık sorularından oluşan karma soru havuzu.',
+            filterKey: 'yurttaslik',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'guncel-subtopics': {
+        parentKey: 'genel-kultur',
+        title: '🌐 Güncel Bilgiler & Kültürel Olaylar Testleri',
+        desc: 'Çözmek istediğiniz Güncel Bilgiler testini seçin:',
+        items: [
+          {
+            id: 'ekys_2026_guncel',
+            name: '2026 EKYS Güncel Bilgiler Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Güncel Bilgiler soruları.',
+            filterKey: 'ekys_2026_guncel',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_guncel',
+            name: '2025 EKYS Güncel Bilgiler Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Güncel Bilgiler soruları.',
+            filterKey: 'ekys_2025_guncel',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_guncel',
+            name: '2024 EKYS Güncel Bilgiler Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Güncel Bilgiler soruları.',
+            filterKey: 'ekys_2024_guncel',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_guncel',
+            name: '2023 EKYS Güncel Bilgiler Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Güncel Bilgiler soruları.',
+            filterKey: 'ekys_2023_guncel',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'guncel_tum',
+            name: '🌟 Tüm Güncel Sorular (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış güncel ve genel kültür sorularından oluşan karma test.',
+            filterKey: 'guncel',
+            badge: 'Karma Test'
+          }
+        ]
+      },
       'inkilap': {
         title: '⚔️ T.C. İnkılâp Tarihi ve Atatürkçülük (Soru 17-28)',
         desc: 'Milli Mücadele, İlkeler, İnkılaplar ve Atatürk Dönemi konularından test seçin:',
         items: [
           {
-            id: 'inkilap_milli_mucadele',
-            name: 'Milli Mücadele Dönemi',
-            icon: '⚔️',
-            desc: 'Genelgeler, Kongreler, TBMM\'nin Açılması, Kurtuluş Savaşı Cepheleri, Mudanya ve Lozan.',
-            filterKey: 'inkilap',
-            badge: '%15 İnkılap Tarihi'
+            id: 'ekys_2026_inkilap',
+            name: '2026 EKYS İnkılap Tarihi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
+            filterKey: 'ekys_2026_inkilap',
+            badge: '2026 Çıkmış'
           },
           {
-            id: 'inkilap_ilkeler',
-            name: 'Atatürk İlkeleri ve İnkılapları',
-            icon: '💡',
-            desc: 'Cumhuriyetçilik, Milliyetçilik, Halkçılık, Devletçilik, Laiklik, İnkılapçılık ve Reformlar.',
-            filterKey: 'inkilap',
-            badge: '%15 İnkılap Tarihi'
+            id: 'ekys_2025_inkilap',
+            name: '2025 EKYS İnkılap Tarihi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 11-20).',
+            filterKey: 'ekys_2025_inkilap',
+            badge: '2025 Çıkmış'
           },
           {
-            id: 'inkilap_politika',
-            name: 'Türk İç ve Dış Politikası',
-            icon: '🤝',
-            desc: 'Çok Partili Hayat Denemeleri, Balkan Antantı, Sadabat Paktı, Montrö ve Hatay.',
-            filterKey: 'inkilap',
-            badge: '%15 İnkılap Tarihi'
+            id: 'ekys_2024_inkilap',
+            name: '2024 EKYS İnkılap Tarihi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
+            filterKey: 'ekys_2024_inkilap',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_inkilap',
+            name: '2023 EKYS İnkılap Tarihi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
+            filterKey: 'ekys_2023_inkilap',
+            badge: '2023 Çıkmış'
           },
           {
             id: 'inkilap_tum',
-            name: '🏆 Tüm İnkılap Tarihi Karma Testi',
+            name: '🌟 Tüm İnkılap Tarihi Soruları (Karma Test)',
             icon: '🎯',
-            desc: 'Tüm İnkılap Tarihi ve Atatürkçülük soru havuzundan karma pratik ve süreli sınav.',
+            desc: 'Tüm çıkmış inkılap tarihi ve Atatürkçülük sorularından oluşan karma test.',
             filterKey: 'inkilap',
             badge: 'Karma Test'
           }
         ]
       },
-      'egitim': {
-        title: '🎓 Eğitim Bilimleri Alt Konu Testleri (Soru 29-40)',
-        desc: 'Eğitim Yönetimi, Liderlik, Ölçme ve Öğrenme Kuramları konularından test seçin:',
+      'degerler': {
+        title: '💎 Değerler Eğitimi ve Etik (Soru 29-32)',
+        desc: 'Milli Manevi Değerler, Mesleki ve Kamusal Etik İlkeleri testleri:',
         items: [
           {
-            id: 'egitim_yonetim',
-            name: 'Eğitim Yönetimi ve Denetimi',
-            icon: '🏫',
-            desc: 'Yönetim Süreçleri, Okul Yönetimi, Denetim Kuramları ve Çağdaş Yaklaşımlar.',
-            filterKey: 'egitim',
-            badge: '%15 Eğitim Bilimleri'
+            id: 'ekys_2026_degerler',
+            name: '2026 EKYS Değerler & Etik Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Değerler Eğitimi ve Etik soruları.',
+            filterKey: 'ekys_2026_degerler',
+            badge: '2026 Çıkmış'
           },
           {
-            id: 'egitim_liderlik',
-            name: 'Liderlik ve İletişim',
-            icon: '👥',
-            desc: 'Liderlik Kuramları, Örgütsel İletişim, Çatışma Yönetimi ve Motivasyon.',
-            filterKey: 'egitim',
-            badge: '%15 Eğitim Bilimleri'
+            id: 'ekys_2025_degerler',
+            name: '2025 EKYS Değerler & Etik Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi ve Etik soruları.',
+            filterKey: 'ekys_2025_degerler',
+            badge: '2025 Çıkmış'
           },
           {
-            id: 'egitim_olcme',
-            name: 'Ölçme ve Değerlendirme',
-            icon: '📊',
-            desc: 'Geçerlik, Güvenirlik, Madde ve Test İstatistikleri, Tamamlayıcı Değerlendirme.',
-            filterKey: 'egitim',
-            badge: '%15 Eğitim Bilimleri'
+            id: 'ekys_2024_degerler',
+            name: '2024 EKYS Değerler & Etik Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi ve Etik soruları.',
+            filterKey: 'ekys_2024_degerler',
+            badge: '2024 Çıkmış'
           },
           {
-            id: 'egitim_ogrenme',
-            name: 'Öğrenme ve Öğretim Kuramları',
-            icon: '🧠',
-            desc: 'Davranışçı, Bilişsel ve Yapılandırmacı Kuramlar, Öğretim Stratejileri ve Yöntemleri.',
-            filterKey: 'egitim',
-            badge: '%15 Eğitim Bilimleri'
+            id: 'ekys_2023_degerler',
+            name: '2023 EKYS Değerler & Etik Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi ve Etik soruları.',
+            filterKey: 'ekys_2023_degerler',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'degerler_tum',
+            name: '🌟 Tüm Değerler & Etik Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm çıkmış Değerler Eğitimi ve Kamu Görevlileri Etik ilkeleri sorularından oluşan karma test.',
+            filterKey: 'degerler_egitimi',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'egitim_bilimleri': {
+        title: '📚 Eğitim Bilimleri & Pedagoji (Soru 33-40)',
+        desc: 'Program Geliştirme, Öğretim İlke ve Yöntemleri, Ölçme ve Rehberlik testleri:',
+        items: [
+          {
+            id: 'ekys_2026_egitim',
+            name: '2026 EKYS Eğitim Bilimleri Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Eğitim Bilimleri soruları.',
+            filterKey: 'ekys_2026_egitim',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_egitim',
+            name: '2025 EKYS Eğitim Bilimleri Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Eğitim Bilimleri soruları.',
+            filterKey: 'ekys_2025_egitim',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_egitim',
+            name: '2024 EKYS Eğitim Bilimleri Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Eğitim Bilimleri soruları.',
+            filterKey: 'ekys_2024_egitim',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_egitim',
+            name: '2023 EKYS Eğitim Bilimleri Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Eğitim Bilimleri soruları.',
+            filterKey: 'ekys_2023_egitim',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'egitim_tum',
+            name: '🌟 Tüm Eğitim Bilimleri Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm çıkmış Eğitim Bilimleri ve pedagoji sorularından oluşan karma soru havuzu.',
+            filterKey: 'egitim_bilimleri',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'egitim_yonetimi': {
+        title: '🏫 Eğitim Yönetimi ve Denetimi (Soru 41-64)',
+        desc: 'Liderlik Modelleri, Örgütsel Davranış, Okul Denetimi ve Toplam Kalite Yönetimi testleri:',
+        items: [
+          {
+            id: 'ekys_2026_yonetim',
+            name: '2026 EKYS Eğitim Yönetimi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları.',
+            filterKey: 'ekys_2026_yonetim',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_yonetim',
+            name: '2025 EKYS Eğitim Yönetimi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları.',
+            filterKey: 'ekys_2025_yonetim',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_yonetim',
+            name: '2024 EKYS Eğitim Yönetimi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları.',
+            filterKey: 'ekys_2024_yonetim',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_yonetim',
+            name: '2023 EKYS Eğitim Yönetimi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları.',
+            filterKey: 'ekys_2023_yonetim',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'yonetim_tum',
+            name: '🌟 Tüm Eğitim Yönetimi Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm çıkmış Eğitim Yönetimi, Liderlik ve Denetim sorularından oluşan karma test.',
+            filterKey: 'egitim_yonetimi',
+            badge: 'Karma Test'
           }
         ]
       },
@@ -527,7 +731,7 @@ class EKYSApp {
       },
       'mevzuat': {
         title: '⚖️ Mevzuat Alt Konu Testleri (Soru 65-80)',
-        desc: '1982 Anayasası, MEB Temel Kanunları ve İlgili Mevzuattan test seçin:',
+        desc: '1982 Anayasası, MEB Temel Kanunları ve İlgili Mevzuattan dilediğiniz kanunun çıkmış sorularına ulaşın:',
         items: [
           {
             id: 'mevzuat_anayasa',
@@ -535,7 +739,8 @@ class EKYSApp {
             icon: '📘',
             desc: 'Temel Hak ve Ödevler, Yasama, Yürütme, Yargı ve İdare Esasları.',
             filterKey: 'mevzuat_anayasa',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-anayasa-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_657',
@@ -543,7 +748,8 @@ class EKYSApp {
             icon: '📕',
             desc: 'Genel İlkeler, Ödev ve Sorumluluklar, Haklar, Disiplin ve Cezalar.',
             filterKey: 'mevzuat_657',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-657-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_1739',
@@ -551,7 +757,8 @@ class EKYSApp {
             icon: '📙',
             desc: 'Türk Millî Eğitiminin Temel İlkeleri, Okul Kademeleri ve Öğretmenlik Mesleği.',
             filterKey: 'mevzuat_1739',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-1739-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_222',
@@ -559,7 +766,8 @@ class EKYSApp {
             icon: '📗',
             desc: 'İlköğretim Çağı, Kayıt-Kabul, Devam Takibi, Okul Gelirleri ve Cezalar.',
             filterKey: 'mevzuat_222',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-222-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_5018',
@@ -567,7 +775,8 @@ class EKYSApp {
             icon: '💰',
             desc: 'Bütçe İlkeleri, Harcama Yetkilisi, Gerçekleştirme Görevlisi ve İç Kontrol.',
             filterKey: 'mevzuat_5018',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-5018-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_4483',
@@ -575,7 +784,8 @@ class EKYSApp {
             icon: '⚖️',
             desc: 'Ön İnceleme, İzin Vermeye Yetkili Merciler ve Yargılama Usulü.',
             filterKey: 'mevzuat_4483',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-4483-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_4688',
@@ -583,7 +793,8 @@ class EKYSApp {
             icon: '🤝',
             desc: 'Sendika Kurulması, Organları, Toplu Sözleşme ve Sendikal Güvenceler.',
             filterKey: 'mevzuat_4688',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-4688-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_5442',
@@ -591,7 +802,8 @@ class EKYSApp {
             icon: '🏢',
             desc: 'Vali ve Kaymakamın Yetkileri, İl ve İlçe İdare Teşkilatı.',
             filterKey: 'mevzuat_5442',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-5442-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_3071',
@@ -599,7 +811,8 @@ class EKYSApp {
             icon: '📄',
             desc: 'Dilekçe Hakkının Kullanımı, Başvuru ve Cevap Verme Süreleri.',
             filterKey: 'mevzuat_3071',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-3071-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_1cbk',
@@ -607,7 +820,8 @@ class EKYSApp {
             icon: '🏛️',
             desc: 'MEB Hizmet Birimleri, Görev ve Yetkileri ve Teşkilat Yapısı.',
             filterKey: 'mevzuat_1cbk',
-            badge: '%20 Mevzuat'
+            targetSubtopic: 'mevzuat-1cbk-subtopics',
+            badge: 'Çıkmış + Karma'
           },
           {
             id: 'mevzuat_tum',
@@ -616,6 +830,476 @@ class EKYSApp {
             desc: 'Tüm kanun ve yönetmeliklerden derlenmiş karma pratik ve sınav.',
             filterKey: 'mevzuat',
             badge: '58+ Soru'
+          }
+        ]
+      },
+      'mevzuat-anayasa-subtopics': {
+        parentKey: 'mevzuat',
+        title: '📘 1982 T.C. Anayasası Çıkmış & Konu Testleri',
+        desc: '1982 Anayasası ile ilgili çıkmış sınav soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_anayasa',
+            name: '2026 EKYS Anayasa Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS Anayasa Hukuku soruları ve çözümleri.',
+            filterKey: 'ekys_2026_mevzuat_anayasa',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_anayasa',
+            name: '2025 EKYS Anayasa Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS Anayasa Hukuku soruları ve çözümleri.',
+            filterKey: 'ekys_2025_mevzuat_anayasa',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_anayasa',
+            name: '2024 EKYS Anayasa Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS Anayasa Hukuku soruları ve çözümleri (Soru 65-66).',
+            filterKey: 'ekys_2024_mevzuat_anayasa',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_anayasa',
+            name: '2023 EKYS Anayasa Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS Anayasa Hukuku soruları ve çözümleri (Soru 65-66).',
+            filterKey: 'ekys_2023_mevzuat_anayasa',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_anayasa_tum',
+            name: '🌟 Tüm Anayasa Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 1982 Anayasası sorularından oluşan karma test.',
+            filterKey: 'mevzuat_anayasa',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-657-subtopics': {
+        parentKey: 'mevzuat',
+        title: '📕 657 Sayılı DMK Çıkmış & Konu Testleri',
+        desc: '657 sayılı Devlet Memurları Kanunu ile ilgili çıkmış sınav soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_657',
+            name: '2026 EKYS 657 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 657 DMK soruları ve çözümleri.',
+            filterKey: 'ekys_2026_mevzuat_657',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_657',
+            name: '2025 EKYS 657 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 657 DMK soruları ve çözümleri.',
+            filterKey: 'ekys_2025_mevzuat_657',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_657',
+            name: '2024 EKYS 657 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 657 DMK soruları ve çözümleri (Soru 67-68).',
+            filterKey: 'ekys_2024_mevzuat_657',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_657',
+            name: '2023 EKYS 657 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 657 DMK soruları ve çözümleri (Soru 67-68, 80).',
+            filterKey: 'ekys_2023_mevzuat_657',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_657_tum',
+            name: '🌟 Tüm 657 Sayılı Kanun Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 657 DMK sorularından oluşan karma test.',
+            filterKey: 'mevzuat_657',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-1739-subtopics': {
+        parentKey: 'mevzuat',
+        title: '📙 1739 Sayılı Millî Eğitim Temel Kanunu Testleri',
+        desc: '1739 sayılı Millî Eğitim Temel Kanunu ile ilgili çıkmış sınav soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_1739',
+            name: '2026 EKYS 1739 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 1739 Millî Eğitim Temel Kanunu soruları.',
+            filterKey: 'ekys_2026_mevzuat_1739',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_1739',
+            name: '2025 EKYS 1739 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 1739 Millî Eğitim Temel Kanunu soruları.',
+            filterKey: 'ekys_2025_mevzuat_1739',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_1739',
+            name: '2024 EKYS 1739 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 1739 Millî Eğitim Temel Kanunu soruları (Soru 69-70).',
+            filterKey: 'ekys_2024_mevzuat_1739',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_1739',
+            name: '2023 EKYS 1739 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 1739 Millî Eğitim Temel Kanunu soruları (Soru 69-70).',
+            filterKey: 'ekys_2023_mevzuat_1739',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_1739_tum',
+            name: '🌟 Tüm 1739 Sayılı Kanun Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 1739 Millî Eğitim Temel Kanunu soruları.',
+            filterKey: 'mevzuat_1739',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-222-subtopics': {
+        parentKey: 'mevzuat',
+        title: '📗 222 Sayılı İlköğretim ve Eğitim Kanunu Testleri',
+        desc: '222 sayılı İlköğretim ve Eğitim Kanunu ile ilgili çıkmış sınav soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_222',
+            name: '2026 EKYS 222 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 222 İlköğretim Kanunu soruları.',
+            filterKey: 'ekys_2026_mevzuat_222',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_222',
+            name: '2025 EKYS 222 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 222 İlköğretim Kanunu soruları.',
+            filterKey: 'ekys_2025_mevzuat_222',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_222',
+            name: '2024 EKYS 222 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 222 İlköğretim Kanunu soruları (Soru 71-72).',
+            filterKey: 'ekys_2024_mevzuat_222',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_222',
+            name: '2023 EKYS 222 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 222 İlköğretim Kanunu soruları (Soru 71-72).',
+            filterKey: 'ekys_2023_mevzuat_222',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_222_tum',
+            name: '🌟 Tüm 222 Sayılı Kanun Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 222 İlköğretim ve Eğitim Kanunu soruları.',
+            filterKey: 'mevzuat_222',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-5018-subtopics': {
+        parentKey: 'mevzuat',
+        title: '💰 5018 Sayılı Kamu Mali Yönetimi Kanunu Testleri',
+        desc: '5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile ilgili çıkmış sınav soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_5018',
+            name: '2026 EKYS 5018 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 5018 Kamu Mali Yönetimi soruları.',
+            filterKey: 'ekys_2026_mevzuat_5018',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_5018',
+            name: '2025 EKYS 5018 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 5018 Kamu Mali Yönetimi soruları.',
+            filterKey: 'ekys_2025_mevzuat_5018',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_5018',
+            name: '2024 EKYS 5018 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 5018 Kamu Mali Yönetimi soruları (Soru 73).',
+            filterKey: 'ekys_2024_mevzuat_5018',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_5018',
+            name: '2023 EKYS 5018 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 5018 Kamu Mali Yönetimi soruları (Soru 73).',
+            filterKey: 'ekys_2023_mevzuat_5018',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_5018_tum',
+            name: '🌟 Tüm 5018 Sayılı Kanun Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 5018 Kamu Mali Yönetimi ve Kontrol Kanunu soruları.',
+            filterKey: 'mevzuat_5018',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-4483-subtopics': {
+        parentKey: 'mevzuat',
+        title: '⚖️ 4483 Sayılı Memurların Yargılanması Kanunu Testleri',
+        desc: '4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun çıkmış soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_4483',
+            name: '2026 EKYS 4483 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 4483 Memurların Yargılanması soruları.',
+            filterKey: 'ekys_2026_mevzuat_4483',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_4483',
+            name: '2025 EKYS 4483 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 4483 Memurların Yargılanması soruları.',
+            filterKey: 'ekys_2025_mevzuat_4483',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_4483',
+            name: '2024 EKYS 4483 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 4483 Memurların Yargılanması soruları (Soru 74, 80).',
+            filterKey: 'ekys_2024_mevzuat_4483',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_4483',
+            name: '2023 EKYS 4483 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 4483 Memurların Yargılanması soruları (Soru 74).',
+            filterKey: 'ekys_2023_mevzuat_4483',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_4483_tum',
+            name: '🌟 Tüm 4483 Sayılı Kanun Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 4483 Memurların Yargılanması Kanunu soruları.',
+            filterKey: 'mevzuat_4483',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-4688-subtopics': {
+        parentKey: 'mevzuat',
+        title: '🤝 4688 Sayılı Kamu Görevlileri Sendikaları Testleri',
+        desc: '4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu çıkmış soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_4688',
+            name: '2026 EKYS 4688 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 4688 Sendikalar Kanunu soruları.',
+            filterKey: 'ekys_2026_mevzuat_4688',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_4688',
+            name: '2025 EKYS 4688 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 4688 Sendikalar Kanunu soruları.',
+            filterKey: 'ekys_2025_mevzuat_4688',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_4688',
+            name: '2024 EKYS 4688 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 4688 Sendikalar Kanunu soruları (Soru 75).',
+            filterKey: 'ekys_2024_mevzuat_4688',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_4688',
+            name: '2023 EKYS 4688 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 4688 Sendikalar Kanunu soruları (Soru 75).',
+            filterKey: 'ekys_2023_mevzuat_4688',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_4688_tum',
+            name: '🌟 Tüm 4688 Sayılı Kanun Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 4688 Sendikalar ve Toplu Sözleşme Kanunu soruları.',
+            filterKey: 'mevzuat_4688',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-5442-subtopics': {
+        parentKey: 'mevzuat',
+        title: '🏢 5442 Sayılı İl İdaresi Kanunu Testleri',
+        desc: '5442 sayılı İl İdaresi Kanunu ile ilgili çıkmış sınav soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_5442',
+            name: '2026 EKYS 5442 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 5442 İl İdaresi Kanunu soruları.',
+            filterKey: 'ekys_2026_mevzuat_5442',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_5442',
+            name: '2025 EKYS 5442 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 5442 İl İdaresi Kanunu soruları.',
+            filterKey: 'ekys_2025_mevzuat_5442',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_5442',
+            name: '2024 EKYS 5442 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 5442 İl İdaresi Kanunu soruları (Soru 76).',
+            filterKey: 'ekys_2024_mevzuat_5442',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_5442',
+            name: '2023 EKYS 5442 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 5442 İl İdaresi Kanunu soruları (Soru 76).',
+            filterKey: 'ekys_2023_mevzuat_5442',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_5442_tum',
+            name: '🌟 Tüm 5442 Sayılı Kanun Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 5442 İl İdaresi Kanunu soruları.',
+            filterKey: 'mevzuat_5442',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-3071-subtopics': {
+        parentKey: 'mevzuat',
+        title: '📄 3071 Sayılı Dilekçe Hakkı Kanunu Testleri',
+        desc: '3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun çıkmış soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_3071',
+            name: '2026 EKYS 3071 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 3071 Dilekçe Kanunu soruları.',
+            filterKey: 'ekys_2026_mevzuat_3071',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_3071',
+            name: '2025 EKYS 3071 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 3071 Dilekçe Kanunu soruları.',
+            filterKey: 'ekys_2025_mevzuat_3071',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_3071',
+            name: '2024 EKYS 3071 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 3071 Dilekçe Kanunu soruları (Soru 77).',
+            filterKey: 'ekys_2024_mevzuat_3071',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_3071',
+            name: '2023 EKYS 3071 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 3071 Dilekçe Kanunu soruları (Soru 77).',
+            filterKey: 'ekys_2023_mevzuat_3071',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_3071_tum',
+            name: '🌟 Tüm 3071 Sayılı Kanun Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 3071 Dilekçe Hakkı Kanunu soruları.',
+            filterKey: 'mevzuat_3071',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'mevzuat-1cbk-subtopics': {
+        parentKey: 'mevzuat',
+        title: '🏛️ 1 Sayılı CBK (Millî Eğitim Bakanlığı) Testleri',
+        desc: '1 sayılı Cumhurbaşkanlığı Teşkilatı Kararnamesi MEB teşkilat ve birimleri soruları:',
+        items: [
+          {
+            id: 'ekys_2026_mevzuat_1cbk',
+            name: '2026 EKYS 1 Nolu CBK Çıkmış Soruları',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS 1 Sayılı CBK soruları.',
+            filterKey: 'ekys_2026_mevzuat_1cbk',
+            badge: '2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_1cbk',
+            name: '2025 EKYS 1 Nolu CBK Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS 1 Sayılı CBK soruları.',
+            filterKey: 'ekys_2025_mevzuat_1cbk',
+            badge: '2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_1cbk',
+            name: '2024 EKYS 1 Nolu CBK Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS 1 Sayılı CBK soruları (Soru 78-79).',
+            filterKey: 'ekys_2024_mevzuat_1cbk',
+            badge: '2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_1cbk',
+            name: '2023 EKYS 1 Nolu CBK Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS 1 Sayılı CBK soruları (Soru 78-79).',
+            filterKey: 'ekys_2023_mevzuat_1cbk',
+            badge: '2023 Çıkmış'
+          },
+          {
+            id: 'mevzuat_1cbk_tum',
+            name: '🌟 Tüm 1 Sayılı CBK Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Tüm yılların çıkmış 1 Sayılı Cumhurbaşkanlığı Kararnamesi soruları.',
+            filterKey: 'mevzuat_1cbk',
+            badge: 'Karma Test'
           }
         ]
       },
@@ -629,7 +1313,7 @@ class EKYSApp {
             icon: '📜',
             desc: '2026 Mart MEB Yönetici Seçme Sınavı soruları ve resmî cevap anahtarı.',
             filterKey: 'ekys_2026',
-            badge: '80 Soru Hedef'
+            badge: '80 Soru Hazır 🎯'
           },
           {
             id: 'ekys_2025',
@@ -637,7 +1321,7 @@ class EKYSApp {
             icon: '📜',
             desc: '2025 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
             filterKey: 'ekys_2025',
-            badge: '80 Soru Hedef'
+            badge: '80 Soru Hazır 🎯'
           },
           {
             id: 'ekys_2024',
@@ -683,7 +1367,7 @@ class EKYSApp {
             id: 'ekys_2019',
             name: '2019 EKYS Çıkmış Sınavı',
             icon: '📜',
-            desc: 'İlk uygulanan 2019 MEB Yönetici Seçme Sınavı soruları ve çözümleri.',
+            desc: '2019 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
             filterKey: 'ekys_2019',
             badge: '80 Soru Hedef'
           }
@@ -693,68 +1377,59 @@ class EKYSApp {
   }
 
   getQuestionsForFilter(filterKey) {
-    let allQuestions = [];
-    if (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS) && window.EKYS_EXTRACTED_QUESTIONS.length > 0) {
-      allQuestions = [...window.EKYS_EXTRACTED_QUESTIONS];
-    } else if (window.storageService && typeof window.storageService.getQuestions === 'function') {
-      allQuestions = window.storageService.getQuestions();
+    if (!filterKey || filterKey === 'all') {
+      return [...window.allQuestions];
     }
-    
-    return allQuestions.filter(q => {
-      const tId = (q.topicId || q.testId || q.id || '').toLowerCase();
+
+    return window.allQuestions.filter(q => {
+      const qText = (q.questionText || q.question || '').toLowerCase();
       const tName = (q.topicName || q.testTitle || '').toLowerCase();
-      const qNum = parseInt(q.questionNumber, 10) || 0;
-      const qText = (q.questionText || '').toLowerCase();
-      const isCikmis = tName.includes('sınav') || tName.includes('sinav') || tId.includes('ekys');
+      const tId = (q.topicId || q.testId || '').toLowerCase();
+      const isCikmis = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
+      const qNum = q.questionNumber || 0;
 
-      // 1. Doğrudan Eşleşen Tekil Test / Tarama Testleri
-      if (filterKey === 'cogr1') {
-        return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
-      }
-      if (filterKey === 'cogr2') {
-        return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
-      }
-      if (filterKey === 'cogr3') {
-        return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));
-      }
-      if (filterKey === 'tarih1') {
-        return (q.testId === 'tarih1' || tId === 'tarih_tarama_1' || (tName.includes('tarama 1') && tName.includes('tarih')));
-      }
-      if (filterKey === 'tarih2') {
-        return (q.testId === 'tarih2' || tId === 'tarih_tarama_2' || (tName.includes('tarama 2') && tName.includes('tarih')));
-      }
-      if (filterKey === 'ekys_2026_cogr') {
-        return (tName.includes('2026') || tId.includes('2026')) && qNum >= 7 && qNum <= 12;
-      }
-      if (filterKey === 'ekys_2025_cogr') {
-        return (tName.includes('2025') || tId.includes('2025')) && (qNum >= 6 && qNum <= 10 || (q.topicName && q.topicName.includes('Coğrafya')));
-      }
-      if (filterKey === 'ekys_2024_cogr') {
-        return (tName.includes('2024') || tId.includes('2024')) && (qNum >= 7 && qNum <= 12 || (q.topicName && q.topicName.includes('Coğrafya')));
-      }
-      if (filterKey === 'ekys_2023_cogr') {
-        return (tName.includes('2023') || tId.includes('2023')) && (qNum >= 6 && qNum <= 10 || (q.topicName && q.topicName.includes('Coğrafya')));
-      }
-      if (filterKey === 'ekys_2026_tarih') {
-        return (tName.includes('2026') || tId.includes('2026')) && qNum >= 1 && qNum <= 6;
-      }
-      if (filterKey === 'ekys_2025_tarih') {
-        return (tName.includes('2025') || tId.includes('2025')) && (qNum >= 1 && qNum <= 5 || (q.topicName && q.topicName.includes('Tarih') && !q.topicName.includes('İnkılap')));
-      }
-      if (filterKey === 'ekys_2024_tarih') {
-        return (tName.includes('2024') || tId.includes('2024')) && (qNum >= 1 && qNum <= 6 || (q.topicName && q.topicName.includes('Genel Tarih')));
-      }
-      if (filterKey === 'ekys_2023_tarih') {
-        return (tName.includes('2023') || tId.includes('2023')) && (qNum >= 1 && qNum <= 5 || (q.topicName && q.topicName.includes('Genel Tarih')));
+      // 1. Özel Video Tarama Testleri
+      if (filterKey === 'cogr1') return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
+      if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
+      if (filterKey === 'cogr3') return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));
+      if (filterKey === 'tarih1') return (q.testId === 'tarih1' || tId === 'tarih_tarama_1' || (tName.includes('tarama 1') && tName.includes('tarih')));
+      if (filterKey === 'tarih2') return (q.testId === 'tarih2' || tId === 'tarih_tarama_2' || (tName.includes('tarama 2') && tName.includes('tarih')));
+
+      // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
+      const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);
+      if (yrMatch) {
+        const year = yrMatch[1];
+        const sub = yrMatch[2];
+        const isYear = tName.includes(year) || tId.includes(year) || (q.testId && q.testId.includes(year)) || (q.id && q.id.includes(year));
+        if (!isYear) return false;
+
+        if (sub === 'tarih') return (qNum >= 1 && qNum <= 6) || (tName.includes('tarih') && !tName.includes('inkılap'));
+        if (sub === 'cogr' || sub === 'cografya') return (qNum >= 6 && qNum <= 12) || tName.includes('coğrafya');
+        if (sub === 'yurttaslik') return (qNum >= 11 && qNum <= 14) || tName.includes('yurttaşlık') || qText.includes('hukuk') || qText.includes('normlar') || qText.includes('yurttaşlık');
+        if (sub === 'guncel') return (qNum >= 15 && qNum <= 16) || tName.includes('güncel') || qText.includes('unesco') || qText.includes('gözlem') || qText.includes('gordion') || qText.includes('mevlânâ') || qText.includes('togg');
+        if (sub === 'inkilap') return (qNum >= 17 && qNum <= 28) || tName.includes('inkılap');
+        if (sub === 'degerler') return (qNum >= 29 && qNum <= 32) || tName.includes('değerler') || tName.includes('etik');
+        if (sub === 'egitim') return (qNum >= 33 && qNum <= 40) || tName.includes('eğitim bilimleri');
+        if (sub === 'yonetim') return (qNum >= 41 && qNum <= 64) || tName.includes('yönetim') || tName.includes('denetim');
+        if (sub === 'mevzuat_anayasa') return qNum === 65 || qNum === 66 || tId.includes('anayasa') || qText.includes('anayasa') || qText.includes('1982');
+        if (sub === 'mevzuat_657') return qNum === 67 || qNum === 68 || qNum === 80 || tId.includes('657') || qText.includes('657');
+        if (sub === 'mevzuat_1739') return qNum === 69 || qNum === 70 || tId.includes('1739') || qText.includes('1739');
+        if (sub === 'mevzuat_222') return qNum === 71 || qNum === 72 || tId.includes('222') || qText.includes('222');
+        if (sub === 'mevzuat_5018') return qNum === 73 || tId.includes('5018') || qText.includes('5018');
+        if (sub === 'mevzuat_4483') return qNum === 74 || (qNum === 80 && year !== '2023') || tId.includes('4483') || qText.includes('4483');
+        if (sub === 'mevzuat_4688') return qNum === 75 || tId.includes('4688') || qText.includes('4688');
+        if (sub === 'mevzuat_5442') return qNum === 76 || tId.includes('5442') || qText.includes('5442');
+        if (sub === 'mevzuat_3071') return qNum === 77 || tId.includes('3071') || qText.includes('3071');
+        if (sub === 'mevzuat_1cbk') return qNum === 78 || qNum === 79 || (qNum === 80 && year === '2026') || tId.includes('1cbk') || qText.includes('cbk') || qText.includes('kararname');
       }
 
-      // 2. Tam Yıl Çıkmış Sınavlar
+      // 3. Tam Yıl Çıkmış Sınavlar (Örn: ekys_2026, ekys_2025, ekys_2024, ekys_2023)
       if (filterKey.startsWith('ekys_')) {
         const year = filterKey.replace('ekys_', '');
         return tName.includes(year) || tId.includes(year) || (q.testId && q.testId.includes(year)) || (q.id && q.id.includes(year));
       }
 
-      // 3. Genel Alan Filtreleri (Karma Testler)
+      // 4. Genel Alan Filtreleri (Tüm Yıllar Karma Testler)
       if (filterKey === 'cografya') {
         if (tId.includes('cogr') || tName.includes('coğrafya')) return true;
         if (isCikmis && qNum >= 6 && qNum <= 12) return true;
@@ -771,25 +1446,37 @@ class EKYSApp {
 
       if (filterKey === 'yurttaslik') {
         if (isCikmis && qNum >= 11 && qNum <= 14) return true;
-        if (qText.includes('yurttaşlık') || qText.includes('normlar') || qText.includes('fiil ehliyeti')) return true;
+        if (tId.includes('yurttaslik') || qText.includes('yurttaşlık') || qText.includes('normlar') || qText.includes('hukuk') || qText.includes('hsk')) return true;
         return false;
       }
 
       if (filterKey === 'guncel') {
         if (isCikmis && qNum >= 15 && qNum <= 16) return true;
-        if (qText.includes('unesco') || qText.includes('nobel') || qText.includes('güncel')) return true;
+        if (tId.includes('guncel') || qText.includes('unesco') || qText.includes('nobel') || qText.includes('güncel') || qText.includes('gordion') || qText.includes('mevlânâ') || qText.includes('togg')) return true;
         return false;
       }
 
       if (filterKey === 'inkilap') {
         if (isCikmis && qNum >= 17 && qNum <= 28) return true;
-        if (qText.includes('atatürk') || qText.includes('nutuk') || qText.includes('lozan') || qText.includes('amasya') || qText.includes('erzurum') || qText.includes('sivas') || qText.includes('cumhuriyetçilik') || qText.includes('laiklik')) return true;
+        if (tId.includes('inkilap') || qText.includes('atatürk') || qText.includes('nutuk') || qText.includes('lozan') || qText.includes('amasya') || qText.includes('erzurum') || qText.includes('sivas') || qText.includes('cumhuriyetçilik') || qText.includes('laiklik')) return true;
         return false;
       }
 
-      if (filterKey === 'egitim') {
-        if (isCikmis && qNum >= 29 && qNum <= 40) return true;
-        if (qText.includes('eğitim') || qText.includes('denetim') || qText.includes('liderlik') || qText.includes('ölçme') || qText.includes('öğrenme')) return true;
+      if (filterKey === 'degerler' || filterKey === 'degerler_egitimi') {
+        if (isCikmis && qNum >= 29 && qNum <= 32) return true;
+        if (tId.includes('degerler') || qText.includes('değer') || qText.includes('etik') || qText.includes('kohlberg')) return true;
+        return false;
+      }
+
+      if (filterKey === 'egitim_bilimleri' || filterKey === 'egitim') {
+        if (isCikmis && qNum >= 33 && qNum <= 40) return true;
+        if (tId.includes('egitim_bilimleri') || qText.includes('öğretim') || qText.includes('rehberlik') || qText.includes('ölçme') || qText.includes('yapılandırmacı')) return true;
+        return false;
+      }
+
+      if (filterKey === 'egitim_yonetimi' || filterKey === 'yonetim') {
+        if (isCikmis && qNum >= 41 && qNum <= 64) return true;
+        if (tId.includes('egitim_yonetimi') || qText.includes('yönetim') || qText.includes('liderlik') || qText.includes('denetim') || qText.includes('örgüt') || qText.includes('iklim')) return true;
         return false;
       }
 
@@ -799,35 +1486,36 @@ class EKYSApp {
         return false;
       }
 
+      // 5. Kanun Bazlı Karma Filtreler
       if (filterKey === 'mevzuat_anayasa') {
-        return (isCikmis && (qNum === 65 || qNum === 66)) || qText.includes('anayasa') || qText.includes('1982');
+        return (isCikmis && (qNum === 65 || qNum === 66)) || tId.includes('anayasa') || qText.includes('anayasa') || qText.includes('1982');
       }
       if (filterKey === 'mevzuat_657') {
-        return (isCikmis && (qNum === 67 || qNum === 68)) || qText.includes('657');
+        return (isCikmis && (qNum === 67 || qNum === 68 || qNum === 80)) || tId.includes('657') || qText.includes('657');
       }
       if (filterKey === 'mevzuat_1739') {
-        return (isCikmis && (qNum === 69 || qNum === 70)) || qText.includes('1739');
+        return (isCikmis && (qNum === 69 || qNum === 70)) || tId.includes('1739') || qText.includes('1739');
       }
       if (filterKey === 'mevzuat_222') {
-        return (isCikmis && (qNum === 71 || qNum === 72)) || qText.includes('222');
+        return (isCikmis && (qNum === 71 || qNum === 72)) || tId.includes('222') || qText.includes('222');
       }
       if (filterKey === 'mevzuat_5018') {
-        return (isCikmis && qNum === 73) || qText.includes('5018');
+        return (isCikmis && qNum === 73) || tId.includes('5018') || qText.includes('5018');
       }
       if (filterKey === 'mevzuat_4483') {
-        return (isCikmis && qNum === 74) || qText.includes('4483');
+        return (isCikmis && (qNum === 74 || qNum === 80)) || tId.includes('4483') || qText.includes('4483');
       }
       if (filterKey === 'mevzuat_4688') {
-        return (isCikmis && qNum === 75) || qText.includes('4688');
+        return (isCikmis && qNum === 75) || tId.includes('4688') || qText.includes('4688');
       }
       if (filterKey === 'mevzuat_5442') {
-        return (isCikmis && qNum === 76) || qText.includes('5442');
+        return (isCikmis && qNum === 76) || tId.includes('5442') || qText.includes('5442');
       }
       if (filterKey === 'mevzuat_3071') {
-        return (isCikmis && qNum === 77) || qText.includes('3071');
+        return (isCikmis && qNum === 77) || tId.includes('3071') || qText.includes('3071');
       }
       if (filterKey === 'mevzuat_1cbk') {
-        return (isCikmis && (qNum === 78 || qNum === 79 || qNum === 80)) || qText.includes('kararname') || qText.includes('cbk');
+        return (isCikmis && (qNum === 78 || qNum === 79 || qNum === 80)) || tId.includes('1cbk') || qText.includes('kararname') || qText.includes('cbk');
       }
       if (filterKey === 'mevzuat') {
         if (isCikmis && qNum >= 65 && qNum <= 80) return true;
