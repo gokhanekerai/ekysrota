@@ -1419,11 +1419,18 @@ class EKYSApp {
   }
 
   getQuestionsForFilter(filterKey) {
-    if (!filterKey || filterKey === 'all') {
-      return [...window.allQuestions];
+    let allQuestions = [];
+    if (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS) && window.EKYS_EXTRACTED_QUESTIONS.length > 0) {
+      allQuestions = [...window.EKYS_EXTRACTED_QUESTIONS];
+    } else if (window.storageService && typeof window.storageService.getQuestions === 'function') {
+      allQuestions = window.storageService.getQuestions();
     }
 
-    return window.allQuestions.filter(q => {
+    if (!filterKey || filterKey === 'all') {
+      return [...allQuestions];
+    }
+
+    return allQuestions.filter(q => {
       const qText = (q.questionText || q.question || '').toLowerCase();
       const tName = (q.topicName || q.testTitle || '').toLowerCase();
       const tId = (q.topicId || q.testId || '').toLowerCase();
