@@ -18061,5 +18061,2729 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong><br>657 sayılı Kanun Madde 126: Kademe ilerlemesinin durdurulması cezası İl Disiplin Kurulu kararıyla, memurluktan çıkarma cezası ise Yüksek Disiplin Kurulu kararıyla verilir."
+  },
+  {
+    "id": "ekys_2021_q1",
+    "questionNumber": 1,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_tarih",
+    "topicName": "2021 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "İlk Türk devletlerinde hükümdarın tanrısal yetkiyle donatıldığına ve yönetme yetkisinin Tanrı tarafından verildiğine inanılan inanç sistemi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kut Anlayışı"
+      },
+      {
+        "key": "B",
+        "text": "Veraset Sistemi"
+      },
+      {
+        "key": "C",
+        "text": "Töre Geleneği"
+      },
+      {
+        "key": "D",
+        "text": "Kurultay Hukuku"
+      },
+      {
+        "key": "E",
+        "text": "Toy Meclisi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kut Anlayışı)<br>İlk Türk devletlerinde devleti yönetme yetkisinin Gök Tengri (Tanrı) tarafından kağan ve ailesine verildiğine inanılan anlayışa <strong>Kut</strong> adı verilir. Kut'un kan yoluyla babadan oğula geçtiğine inanılması, hanedanın tüm erkek üyelerinin tahtta hak iddia etmesine ve sık sık taht kavgaları yaşanmasına yol açmıştır."
+  },
+  {
+    "id": "ekys_2021_q2",
+    "questionNumber": 2,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_tarih",
+    "topicName": "2021 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Büyük Selçuklu Devleti ile Bizans İmparatorluğu arasında 1071 yılında gerçekleşen ve Anadolu'nun kapılarını Türklere kesin olarak açan meydan muharebesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasinler Savaşı"
+      },
+      {
+        "key": "B",
+        "text": "Malazgirt Meydan Muharebesi"
+      },
+      {
+        "key": "C",
+        "text": "Miryokefalon Savaşı"
+      },
+      {
+        "key": "D",
+        "text": "Dandanakan Savaşı"
+      },
+      {
+        "key": "E",
+        "text": "Katvan Savaşı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Malazgirt Meydan Muharebesi)<br>26 Ağustos 1071 tarihinde Sultan Alparslan komutasındaki Büyük Selçuklu ordusu ile Bizans İmparatoru Romen Diyojen'in ordusu arasında gerçekleşen <strong>Malazgirt Meydan Muharebesi</strong> zaferiyle Anadolu'nun kapıları Türklere açılmış ve I. Beylikler dönemi başlamıştır."
+  },
+  {
+    "id": "ekys_2021_q3",
+    "questionNumber": 3,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_tarih",
+    "topicName": "2021 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Osmanlı Devleti'nde dirlik sisteminde gelirleri doğrudan doğruya padişah, şehzadeler, hanedan üyeleri ve veziriazam gibi en üst düzey yöneticilere ayrılan toprak türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Has"
+      },
+      {
+        "key": "B",
+        "text": "Zeamet"
+      },
+      {
+        "key": "C",
+        "text": "Tımar"
+      },
+      {
+        "key": "D",
+        "text": "Vakıf"
+      },
+      {
+        "key": "E",
+        "text": "Yurtluk"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Has)<br>Dirlik toprakları gelirlerine göre üçe ayrılır:<br>• <strong>Has:</strong> Yıllık geliri 100.000 akçeden fazla olan, padişah ve üst düzey devlet ricaline tahsis edilen topraklardır.<br>• <strong>Zeamet:</strong> Geliri 20.000 ile 100.000 akçe arasındaki orta düzey görevlilere verilir.<br>• <strong>Tımar:</strong> Geliri 20.000 akçeye kadar olan ve asker yetiştirmekle yükümlü olan görevlilere verilir."
+  },
+  {
+    "id": "ekys_2021_q4",
+    "questionNumber": 4,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_tarih",
+    "topicName": "2021 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Osmanlı Devleti'nde 1839 yılında ilan edilen Tanzimat Fermanı'nın en temel ve belirleyici özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Padişahın yetkilerini kendi isteğiyle sınırlandırarak kanun üstünlüğünü tanıması"
+      },
+      {
+        "key": "B",
+        "text": "Halkın ilk kez Meclis-i Mebusan yoluyla yönetime katılması"
+      },
+      {
+        "key": "C",
+        "text": "Yabancı devletlere ilk kez ekonomik ve siyasi kapitülasyonların verilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Yeniçeri Ocağı'nın kaldırılarak yerine Asakir-i Mansure-i Muhammediye'nin kurulması"
+      },
+      {
+        "key": "E",
+        "text": "Gayrimüslimlerin ilk kez devlet memurluğuna atanma hakkı elde etmesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Gülhane Parkı'nda Sadrazam Mustafa Reşit Paşa tarafından okunan <strong>Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu)</strong> ile Osmanlı padişahı Abdülmecid, kendi gücünün üstünde kanun gücünün bulunduğunu kabul etmiş, böylece anayasal düzene ve hukukun üstünlüğüne geçişin ilk büyük adımı atılmıştır."
+  },
+  {
+    "id": "ekys_2021_q5",
+    "questionNumber": 5,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_tarih",
+    "topicName": "2021 EKYS - Genel Tarih",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Osmanlı Devleti'nde XVII. yüzyıldan itibaren bütçe açıklarını kapatmak amacıyla devlete ait vergi gelirlerinin ömür boyu kiralanması (iltizamın süreklileştirilmesi) esasına dayanan mali sistem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Malikâne Sistemi"
+      },
+      {
+        "key": "B",
+        "text": "Müsadere Sistemi"
+      },
+      {
+        "key": "C",
+        "text": "Gedik Sistemi"
+      },
+      {
+        "key": "D",
+        "text": "Narz Sistemi"
+      },
+      {
+        "key": "E",
+        "text": "İane-i Cihadiye"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Malikâne Sistemi)<br>1695 yılında uygulamaya konulan <strong>Malikâne Sistemi</strong>, mukataaların ömür boyu ihale edilmesidir. Bu sistemle devlet hazinesine peşin gelir sağlanmış, ancak uzun vadede yerel güçlerin (âyanların) güçlenmesine zemin hazırlamıştır."
+  },
+  {
+    "id": "ekys_2021_q6",
+    "questionNumber": 6,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_cogr",
+    "topicName": "2021 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Türkiye'de;\n\nI. dört mevsimin belirgin olarak yaşanması,\nII. batıdan doğuya doğru gidildikçe sıcaklıkların düşmesi,\nIII. ortalama yükseltisinin fazla olması\n\nözelliklerinden hangileri, Türkiye'nin orta kuşakta yer aldığını gösterir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)<br>• <strong>Dört mevsimin belirgin olarak yaşanması (I)</strong>, Türkiye'nin 36°-42° Kuzey enlemlerinde, yani <strong>Orta Kuşak'ta (Mutlak/Matematik Konum)</strong> yer almasının doğrudan sonucudur.<br>• Batıdan doğuya sıcaklığın düşmesi (II) ve ortalama yükseltinin fazla olması (III) ise Türkiye'nin <strong>Özel (Göreceli) Konumu</strong> ile ilgilidir."
+  },
+  {
+    "id": "ekys_2021_q7",
+    "questionNumber": 7,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_cogr",
+    "topicName": "2021 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Aşağıdakilerden hangisi Van Gölü çevresinde yer alan göllerden biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Erçek Gölü"
+      },
+      {
+        "key": "B",
+        "text": "Seyfe Gölü"
+      },
+      {
+        "key": "C",
+        "text": "Nazik Gölü"
+      },
+      {
+        "key": "D",
+        "text": "Arin Gölü"
+      },
+      {
+        "key": "E",
+        "text": "Haçlı Gölü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Seyfe Gölü)<br><strong>Seyfe Gölü</strong>, İç Anadolu Bölgesi'nde <strong>Kırşehir</strong> ili sınırları içinde yer alan ve Ramsar Sözleşmesi ile koruma altında olan önemli bir sığ tuzlu göl/sulak alandır. Erçek, Nazik, Arin ve Haçlı gölleri ise Doğu Anadolu'da Van Gölü havzası ve çevresinde yer alan volkanik set/tektonik göllerdir."
+  },
+  {
+    "id": "ekys_2021_q8",
+    "questionNumber": 8,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_cogr",
+    "topicName": "2021 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Türkiye'de tektonik aktivitenin yüksek olduğu çöküntü alanları aynı zamanda verimli tarım arazilerine de sahiptir. Bu alanlar genellikle çevresine göre daha fazla nüfuslanmıştır.\n\nBuna göre, aşağıdakilerden hangisi bu duruma karşın daha az nüfuslanmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Edremit - Havran Oluğu"
+      },
+      {
+        "key": "B",
+        "text": "Hatay - Maraş Grabeni"
+      },
+      {
+        "key": "C",
+        "text": "Bakırçay Grabeni"
+      },
+      {
+        "key": "D",
+        "text": "Gediz Grabeni"
+      },
+      {
+        "key": "E",
+        "text": "Çoruh - Kelkit Oluğu"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Çoruh - Kelkit Oluğu)<br>Kuzey Anadolu Fay Kuşağı üzerinde yer alan <strong>Çoruh-Kelkit Vadisi/Oluğu</strong>, kış şartlarının sertliği, arazinin çok engebeli ve dağlık olması, tarım arazilerinin darlığı ve ulaşımın zorluğu nedeniyle Ege grabenleri (Bakırçay, Gediz, Edremit) ve Hatay-Maraş grabenine kıyasla oldukça <strong>seyrek nüfuslanmış</strong> bir alandır."
+  },
+  {
+    "id": "ekys_2021_q9",
+    "questionNumber": 9,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_cogr",
+    "topicName": "2021 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu alanların hangisinde bor tuzu rezervleri bulunmaktadır?",
+    "hasImage": true,
+    "image": "assets/questions/ekys2021_q9_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I - Güney Marmara / Balıkesir-Kütahya-Eskişehir)<br>Dünya toplam bor rezervlerinin yaklaşık %73'ü Türkiye'de bulunmaktadır. Ülkemizdeki bor tuzu yatakları <strong>I numaralı alanda</strong> (Balıkesir/Bigadiç-Bandırma, Bursa/Mustafakemalpaşa, Kütahya/Emet ve Eskişehir/Seyitgazi) toplanmıştır."
+  },
+  {
+    "id": "ekys_2021_q10",
+    "questionNumber": 10,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_cogr",
+    "topicName": "2021 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionText": "Aşağıdaki haritada beş yer numaralandırılarak gösterilmiştir.\n\nBu yerlerin hangisinde ekonomik değeri yüksek ve ihracata konu olan tarımsal ürün çeşitliliği daha fazladır?",
+    "hasImage": true,
+    "image": "assets/questions/ekys2021_q10_map.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (II - Kıyı Ege / Büyük Menderes Havzası - Aydın/İzmir)<br>Kıyı Ege graben ovalarında (II numaralı alan) Akdeniz iklimi, alüvyal verimli topraklar ve sulama olanakları sayesinde pamuk, tütün, zeytin, üzüm, incir ve turunçgil gibi ekonomik değeri yüksek (ticari/ihracatlık) tarım ürünleri en zengin çeşitliliğe sahiptir."
+  },
+  {
+    "id": "ekys_2021_q11",
+    "questionNumber": 11,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yurttaslik",
+    "topicName": "2021 EKYS - Temel Yurttaşlık",
+    "category": "Genel Kültür - Yurttaşlık",
+    "questionText": "1982 Anayasası'na göre Millî Güvenlik Kurulu (MGK) kural olarak aşağıdakilerden hangisinin başkanlığında toplanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı"
+      },
+      {
+        "key": "B",
+        "text": "Millî Savunma Bakanı"
+      },
+      {
+        "key": "C",
+        "text": "Millî Güvenlik Kurulu Genel Sekreteri"
+      },
+      {
+        "key": "D",
+        "text": "Genelkurmay Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "İçişleri Bakanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı)<br>1982 Anayasası madde 118 uyarınca, Millî Güvenlik Kurulu (MGK) <strong>Cumhurbaşkanının</strong> başkanlığında toplanır. Cumhurbaşkanının katılamadığı hallerde ise MGK, Cumhurbaşkanı Yardımcısının başkanlığında toplanır."
+  },
+  {
+    "id": "ekys_2021_q12",
+    "questionNumber": 12,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yurttaslik",
+    "topicName": "2021 EKYS - Temel Yurttaşlık",
+    "category": "Genel Kültür - Yurttaşlık",
+    "questionText": "1982 Anayasası'na göre Hâkimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "11"
+      },
+      {
+        "key": "B",
+        "text": "13"
+      },
+      {
+        "key": "C",
+        "text": "15"
+      },
+      {
+        "key": "D",
+        "text": "17"
+      },
+      {
+        "key": "E",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (13 Üye)<br>1982 Anayasası madde 159'a göre, Hâkimler ve Savcılar Kurulu <strong>13 üyeden</strong> oluşur ve 2 daire halinde çalışır. Kurulun başkanı Adalet Bakanı, tabii üyesi ise Adalet Bakanlığı İlgili Bakan Yardımcısıdır. Kalan 11 üyenin 4'ünü Cumhurbaşkanı, 7'sini TBMM seçer."
+  },
+  {
+    "id": "ekys_2021_q13",
+    "questionNumber": 13,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yurttaslik",
+    "topicName": "2021 EKYS - Temel Yurttaşlık",
+    "category": "Genel Kültür - Yurttaşlık",
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi siyasi haklar ve ödevler arasında yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vatan Hizmeti (Askerlik)"
+      },
+      {
+        "key": "B",
+        "text": "Mülkiyet Hakkı"
+      },
+      {
+        "key": "C",
+        "text": "Çalışma ve Sözleşme Hürriyeti"
+      },
+      {
+        "key": "D",
+        "text": "Konut Dokunulmazlığı"
+      },
+      {
+        "key": "E",
+        "text": "Sağlık ve Çevre Hakkı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Vatan Hizmeti)<br>1982 Anayasası'nda 'Siyasi Haklar ve Ödevler' (Aktif Statü Hakları) bölümünde yer alan haklar şunlardır: Türk vatandaşlığı, Seçme ve seçilme hakkı, Siyasi parti kurma/üye olma, Kamu hizmetine girme hakkı, <strong>Vatan hizmeti (madde 72)</strong>, Vergi ödevi ve Dilekçe/bilgi edinme hakkı."
+  },
+  {
+    "id": "ekys_2021_q14",
+    "questionNumber": 14,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yurttaslik",
+    "topicName": "2021 EKYS - Temel Yurttaşlık",
+    "category": "Genel Kültür - Yurttaşlık",
+    "questionText": "Bir ülkede yetkili makamlar tarafından konulmuş ve hâlen yürürlükte olan yazılı hukuk kurallarının (Anayasa, Kanun, CBK, Yönetmelik) tümüne ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mevzu Hukuk (Mevzuat)"
+      },
+      {
+        "key": "B",
+        "text": "Pozitif Hukuk (Müspet Hukuk)"
+      },
+      {
+        "key": "C",
+        "text": "İdeal Hukuk (Tabii Hukuk)"
+      },
+      {
+        "key": "D",
+        "text": "Tarihî Hukuk"
+      },
+      {
+        "key": "E",
+        "text": "Örf ve Âdet Hukuku"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mevzu Hukuk)<br>• <strong>Mevzu Hukuk (Mevzuat):</strong> Bir ülkede yetkili makamlar tarafından yürürlüğe konulmuş sadece <strong>yazılı</strong> hukuk kurallarının tümüdür.<br>• <strong>Pozitif Hukuk:</strong> Yazılı kurallarla birlikte yazısız kuralları (örf-âdet) da kapsayan yürürlükteki tüm hukuktur."
+  },
+  {
+    "id": "ekys_2021_q15",
+    "questionNumber": 15,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_guncel",
+    "topicName": "2021 EKYS - Güncel Bilgiler",
+    "category": "Genel Kültür - Güncel",
+    "questionText": "Cumhurbaşkanlığı genelgesi ile 2021 yılı UNESCO tarafından da anma ve kutlama yıl dönümleri arasına alınan ve 'Yunus Emre ve Türkçe Yılı' olarak ilan edilen Türk tasavvuf şairi kimdir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yunus Emre"
+      },
+      {
+        "key": "B",
+        "text": "Hacı Bektaş-ı Veli"
+      },
+      {
+        "key": "C",
+        "text": "Ahi Evran"
+      },
+      {
+        "key": "D",
+        "text": "Mevlânâ Celâleddîn-i Rûmî"
+      },
+      {
+        "key": "E",
+        "text": "Fuzûlî"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yunus Emre)<br>Vefatının 700. yılı olması nedeniyle 2021 yılı, UNESCO ve Cumhurbaşkanlığı genelgesi ile <strong>'Yunus Emre ve Türkçe Yılı'</strong> (Bizim Yunus) olarak ilan edilmiştir."
+  },
+  {
+    "id": "ekys_2021_q16",
+    "questionNumber": 16,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_guncel",
+    "topicName": "2021 EKYS - Güncel Bilgiler",
+    "category": "Genel Kültür - Güncel",
+    "questionText": "Türkiye'nin ilk yerli ve millî yüksek çözünürlüklü yer gözlem uydusu aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İMECE"
+      },
+      {
+        "key": "B",
+        "text": "TÜRKSAT 5A"
+      },
+      {
+        "key": "C",
+        "text": "GÖKTÜRK-2"
+      },
+      {
+        "key": "D",
+        "text": "RASAT"
+      },
+      {
+        "key": "E",
+        "text": "BİLSAT"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İMECE)<br>TÜBİTAK UZAY tarafından tasarlanıp üretilen ve metre altı çözünürlüğe sahip Türkiye'nin ilk yerli ve millî elektro-optik yer gözlem uydusu <strong>İMECE</strong>'dir."
+  },
+  {
+    "id": "ekys_2021_q17",
+    "questionNumber": 17,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Osmanlı Devleti'nin I. Dünya Savaşı'nda toprak kazandığı ve Çarlık Rusya'sına karşı savaştığı tek taarruz cephesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kafkas Cephesi"
+      },
+      {
+        "key": "B",
+        "text": "Kanal Cephesi"
+      },
+      {
+        "key": "C",
+        "text": "Çanakkale Cephesi"
+      },
+      {
+        "key": "D",
+        "text": "Hicaz-Yemen Cephesi"
+      },
+      {
+        "key": "E",
+        "text": "Irak Cephesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Kafkas Cephesi Osmanlı'nın taarruz cephesidir ve 1918 Brest-Litovsk Antlaşması ile Kars, Ardahan ve Batum (Elviye-i Selase) geri alınmıştır."
+  },
+  {
+    "id": "ekys_2021_q18",
+    "questionNumber": 18,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Mondros Ateşkes Antlaşması'ndan sonra işgallere karşı Türk milletinin kurduğu millî cemiyetleri tek bir çatı altında birleştiren gelişme aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sivas Kongresi"
+      },
+      {
+        "key": "B",
+        "text": "Erzurum Kongresi"
+      },
+      {
+        "key": "C",
+        "text": "Amasya Genelgesi"
+      },
+      {
+        "key": "D",
+        "text": "Havza Genelgesi"
+      },
+      {
+        "key": "E",
+        "text": "Misakımillî Kararları"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Sivas Kongresi'nde tüm bölgesel millî cemiyetler 'Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti' (A-RMHC) adı altında birleştirilmiştir."
+  },
+  {
+    "id": "ekys_2021_q19",
+    "questionNumber": 19,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Amasya Genelgesi'nde yer alan 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' maddesi Millî Mücadele'nin hangi yönünü ortaya koymuştur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Amaç, Gerekçe ve Yöntemi"
+      },
+      {
+        "key": "B",
+        "text": "Sadece Askerî Hedefini"
+      },
+      {
+        "key": "C",
+        "text": "Saltanatın Yetkilerini"
+      },
+      {
+        "key": "D",
+        "text": "Manda ve Himaye Fikrını"
+      },
+      {
+        "key": "E",
+        "text": "Bölgesel Kurtuluş Planını"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Bu madde Kurtuluş Savaşı'nın hem amacını (milletin bağımsızlığı) hem de yöntemini (milletin azim ve kararı) belirten ihtilal beyannamesidir."
+  },
+  {
+    "id": "ekys_2021_q20",
+    "questionNumber": 20,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Son Osmanlı Mebusan Meclisi'nde kabul edilen ve Millî Mücadele'nin asgari barış şartlarını belirleyen belge aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Misakımillî"
+      },
+      {
+        "key": "B",
+        "text": "Tekalif-i Milliye"
+      },
+      {
+        "key": "C",
+        "text": "Teşkilat-ı Esasiye"
+      },
+      {
+        "key": "D",
+        "text": "Amasya Protokolü"
+      },
+      {
+        "key": "E",
+        "text": "Mudanya Mütarekesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>28 Ocak 1920'de Mebusan Meclisi'nde kabul edilen Misakımillî (Millî Ant), vatanın bölünmez sınırlarını ilan etmiştir."
+  },
+  {
+    "id": "ekys_2021_q21",
+    "questionNumber": 21,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "23 Nisan 1920'de açılan I. TBMM'nin 'Kurucu Meclis' niteliğinde olduğunu gösteren en somut gelişme aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1921 Anayasası'nı (Teşkilat-ı Esasiye Kanunu) kabul etmesi"
+      },
+      {
+        "key": "B",
+        "text": "İstiklal Mahkemelerini kurması"
+      },
+      {
+        "key": "C",
+        "text": "Hıyanet-i Vataniye Kanunu'nu çıkarması"
+      },
+      {
+        "key": "D",
+        "text": "Düzenli orduyu kurması"
+      },
+      {
+        "key": "E",
+        "text": "Hükümet üyelerini seçmesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Yeni bir devlet teşkilatı kurup ilk anayasayı (1921 Teşkilat-ı Esasiye) hazırlayıp yürürlüğe koyması I. Meclis'in 'Kurucu Meclis' vasfını gösterir."
+  },
+  {
+    "id": "ekys_2021_q22",
+    "questionNumber": 22,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Mustafa Kemal Paşa'nın 'Ordular, ilk hedefiniz Akdeniz'dir. İleri!' emrini verdiği ve Batı Anadolu'nun Yunan işgalinden kurtarılmasını sağlayan muharebe hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Başkomutanlık Meydan Muharebesi (Büyük Taarruz)"
+      },
+      {
+        "key": "B",
+        "text": "Sakarya Meydan Muharebesi"
+      },
+      {
+        "key": "C",
+        "text": "I. İnönü Muharebesi"
+      },
+      {
+        "key": "D",
+        "text": "II. İnönü Muharebesi"
+      },
+      {
+        "key": "E",
+        "text": "Eskişehir-Kütahya Muharebesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>26-30 Ağustos 1922 Büyük Taarruz / Başkomutanlık Meydan Muharebesi ile Yunan ordusu imha edilmiş ve 9 Eylül'de İzmir kurtarılmıştır."
+  },
+  {
+    "id": "ekys_2021_q23",
+    "questionNumber": 23,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Lozan Barış Antlaşması'nda Türkiye'nin egemenlik haklarını kısıtlayan ve 1936 Montrö Boğazlar Sözleşmesi ile kaldırılan Boğazlar rejimi nasıldır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Başkanı Türk olan uluslararası bir Boğazlar Komisyonu tarafından yönetilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Boğazların tamamen yabancı devletlerin denetimine bırakılması"
+      },
+      {
+        "key": "C",
+        "text": "Boğazlardan geçişin tamamen yasaklanması"
+      },
+      {
+        "key": "D",
+        "text": "Boğazların Birleşmiş Milletler kontrolüne verilmesi"
+      },
+      {
+        "key": "E",
+        "text": "Boğazların sadece ticari gemilere açık tutulması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Lozan'da Boğazlar silahsızlandırılmış ve başkanı Türk olan uluslararası bir komisyona bırakılmıştır. 1936 Montrö ile komisyon kaldırılıp egemenlik tam olarak Türkiye'ye geçmiştir."
+  },
+  {
+    "id": "ekys_2021_q24",
+    "questionNumber": 24,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "3 Mart 1924 tarihinde kabul edilen kanunla Türkiye'deki tüm eğitim ve öğretim kurumlarının Millî Eğitim Bakanlığına bağlanması hangi kanunla gerçekleşmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tevhid-i Tedrisat Kanunu"
+      },
+      {
+        "key": "B",
+        "text": "Maarif Teşkilatı Kanunu"
+      },
+      {
+        "key": "C",
+        "text": "Medreselerin Kapatılması Kanunu"
+      },
+      {
+        "key": "D",
+        "text": "Harf İnkılabı Kanunu"
+      },
+      {
+        "key": "E",
+        "text": "Tekke ve Zaviyelerin Kapatılması Kanunu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Tevhid-i Tedrisat (Öğretim Birliği) Kanunu ile eğitimde ikilik kaldırılmış ve tüm okullar MEB çatısı altında birleştirilmiştir."
+  },
+  {
+    "id": "ekys_2021_q25",
+    "questionNumber": 25,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "1926 yılında kabul edilen Türk Medeni Kanunu ile kadınlara aşağıdaki haklardan hangisi tanınmamıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Siyasi haklar (Seçme ve seçilme hakkı)"
+      },
+      {
+        "key": "B",
+        "text": "Mirasta eşitlik hakkı"
+      },
+      {
+        "key": "C",
+        "text": "Mahkemede şahitlikte eşitlik"
+      },
+      {
+        "key": "D",
+        "text": "İstediği mesleğe girebilme hakkı"
+      },
+      {
+        "key": "E",
+        "text": "Tek eşle evlilik ve resmî nikâh zorunluluğu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1926 Medeni Kanunu ile kadınlara sosyal, hukuki ve ekonomik haklar verilmiştir; siyasi haklar ise 1930 (Belediye), 1933 (Muhtarlık) ve 1934'te (Milletvekilliği) verilmiştir."
+  },
+  {
+    "id": "ekys_2021_q26",
+    "questionNumber": 26,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Atatürk ilkelerinden 'Devletçilik' ilkesinin Türkiye'de zorunlu olarak uygulanmaya başlanmasında etkili olan küresel gelişme aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1929 Dünya Ekonomik Buhranı (Büyük Buhran)"
+      },
+      {
+        "key": "B",
+        "text": "I. Dünya Savaşı'nın çıkması"
+      },
+      {
+        "key": "C",
+        "text": "İkinci Dünya Savaşı tehlikesi"
+      },
+      {
+        "key": "D",
+        "text": "Milletler Cemiyeti'nin kurulması"
+      },
+      {
+        "key": "E",
+        "text": "Balkan Antantı'nın imzalanması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1929 Dünya Ekonomik Buhranı sonrasında özel sektörün yetersiz kalması üzerine devlet ekonomiye doğrudan müdahale etmiş ve I. Beş Yıllık Sanayi Planı uygulanmıştır."
+  },
+  {
+    "id": "ekys_2021_q27",
+    "questionNumber": 27,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Hatay'ın ana vatana katılması sürecinde 1938 yılında kurulan Hatay Devleti'nin ilk ve tek Cumhurbaşkanı kimdir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tayfur Sökmen"
+      },
+      {
+        "key": "B",
+        "text": "Abdülgani Türkmen"
+      },
+      {
+        "key": "C",
+        "text": "Abdurrahman Melek"
+      },
+      {
+        "key": "D",
+        "text": "Şükrü Saracoğlu"
+      },
+      {
+        "key": "E",
+        "text": "İsmet İnönü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1938'de kurulan Bağımsız Hatay Cumhuriyeti'nin Cumhurbaşkanı Tayfur Sökmen, Başbakanı Abdurrahman Melek, Meclis Başkanı ise Abdülgani Türkmen'dir. Hatay 1939'da Türkiye'ye katılmıştır."
+  },
+  {
+    "id": "ekys_2021_q28",
+    "questionNumber": 28,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_inkilap",
+    "topicName": "2021 EKYS - İnkılap Tarihi",
+    "category": "Genel Kültür - Tarih",
+    "questionText": "Atatürk'ün 'Yurtta sulh, cihanda sulh' ilkesi doğrultusunda Türkiye'nin 1932 yılında üye olduğu uluslararası barış örgütü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletler Cemiyeti (Cemiyet-i Akvam)"
+      },
+      {
+        "key": "B",
+        "text": "Birleşmiş Milletler"
+      },
+      {
+        "key": "C",
+        "text": "Kuzey Atlantik Paktı (NATO)"
+      },
+      {
+        "key": "D",
+        "text": "Varşova Paktı"
+      },
+      {
+        "key": "E",
+        "text": "Avrupa Konseyi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Türkiye, dünya barışına katkı sunmak amacıyla davet üzerine 18 Temmuz 1932 tarihinde Milletler Cemiyeti'ne üye olmuştur."
+  },
+  {
+    "id": "ekys_2021_q29",
+    "questionNumber": 29,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_degerler",
+    "topicName": "2021 EKYS - Değerler & Etik",
+    "category": "Eğitim Bilimleri - Değerler",
+    "questionText": "5176 sayılı Kamu Görevlileri Etik Kurulu Kurulması Hakkında Kanun'a göre, aşağıdakilerden hangisi Etik Kurulunun görev alanı dışındadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı, TBMM Üyeleri ve Yargı Mensupları"
+      },
+      {
+        "key": "B",
+        "text": "Genel Müdürler"
+      },
+      {
+        "key": "C",
+        "text": "Valiler ve Kaymakamlar"
+      },
+      {
+        "key": "D",
+        "text": "Belediye Başkanları"
+      },
+      {
+        "key": "E",
+        "text": "İl Millî Eğitim Müdürleri"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>5176 sayılı Kanun madde 1 uyarınca; Cumhurbaşkanı, TBMM üyeleri, Bakanlar Kurulu/Bakanlar, yargı mensupları ve TSK personeli Etik Kurulu görev alanı dışındadır."
+  },
+  {
+    "id": "ekys_2021_q30",
+    "questionNumber": 30,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_degerler",
+    "topicName": "2021 EKYS - Değerler & Etik",
+    "category": "Eğitim Bilimleri - Değerler",
+    "questionText": "Kamu görevlilerinin görevlerini yürütürken tarafsızlık, dürüstlük, şeffaflık ve hesap verebilirlik ilkelerine bağlı kalmasını ifade eden kavram hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kamu Görevlileri Mesleki Etiği"
+      },
+      {
+        "key": "B",
+        "text": "Bürokratik Otorite"
+      },
+      {
+        "key": "C",
+        "text": "Hiyerarşik Denetim"
+      },
+      {
+        "key": "D",
+        "text": "Kariyer İlkesi"
+      },
+      {
+        "key": "E",
+        "text": "Liyakat İlkesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Mesleki etik, kamu görevlilerinin topluma hizmet sunarken uyması gereken ahlaki kurallar ve tarafsızlık standartları bütünüdür."
+  },
+  {
+    "id": "ekys_2021_q31",
+    "questionNumber": 31,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_degerler",
+    "topicName": "2021 EKYS - Değerler & Etik",
+    "category": "Eğitim Bilimleri - Değerler",
+    "questionText": "Kohlberg'in Ahlak Gelişimi Kuramı'nda bir bireyin 'başkaları ne der' veya 'toplumda kabul görme' kaygısıyla kurallara uyması hangi evredir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İyi Çocuk Eğilimi (Kişiler Arası Uyum)"
+      },
+      {
+        "key": "B",
+        "text": "İtaat ve Ceza"
+      },
+      {
+        "key": "C",
+        "text": "Saf Çıkarcı (Araçsal İlişkiler)"
+      },
+      {
+        "key": "D",
+        "text": "Kanun ve Düzen"
+      },
+      {
+        "key": "E",
+        "text": "Evrensel Ahlak İlkeleri"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Geleneksel düzeyin ilk basamağı olan 'İyi Çocuk Eğilimi' evresinde birey, akranları ve çevresi tarafından onaylanmak, sevilmek ve takdir edilmek için kurallara uyar."
+  },
+  {
+    "id": "ekys_2021_q32",
+    "questionNumber": 32,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_degerler",
+    "topicName": "2021 EKYS - Değerler & Etik",
+    "category": "Eğitim Bilimleri - Değerler",
+    "questionText": "Değerler eğitiminde öğrencilerin doğrudan nasihat almak yerine ahlaki ikilemler üzerinde tartışarak kendi değerlerini fark etmelerini sağlayan yaklaşım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Değer Belirginleştirme (Açıklama)"
+      },
+      {
+        "key": "B",
+        "text": "Değer Telkini"
+      },
+      {
+        "key": "C",
+        "text": "Değer Analizi"
+      },
+      {
+        "key": "D",
+        "text": "Karakter Eğitimi"
+      },
+      {
+        "key": "E",
+        "text": "Doğrudan Öğretim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Raths ve Simon tarafından geliştirilen 'Değer Belirginleştirme' yaklaşımında bireyin seçme, ödüllendirme ve davranma basamaklarından geçerek kendi değer sistemini oluşturması amaçlanır."
+  },
+  {
+    "id": "ekys_2021_q33",
+    "questionNumber": 33,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_egitim",
+    "topicName": "2021 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim programı tasarımı yaklaşımlarından 'Çocuk Merkezli' tasarımın en belirgin özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Program içeriğinin öğrencinin ilgi ve ihtiyaçlarına göre önceden değil, süreç içinde öğrenciyle birlikte belirlenmesi"
+      },
+      {
+        "key": "B",
+        "text": "Konuların mantıksal bir sıra içinde uzmanlarca yapılandırılması"
+      },
+      {
+        "key": "C",
+        "text": "Toplumsal sorunların çözülmesini merkeze alması"
+      },
+      {
+        "key": "D",
+        "text": "Evrensel temel eserlerin incelenmesine dayanması"
+      },
+      {
+        "key": "E",
+        "text": "Ölçme ve değerlendirmede mutlak başarıya odaklanması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Taba ve Dewey'in öncülük ettiği çocuk merkezli tasarımda program öğrencinin yaşantıları, ihtiyaçları ve anlık ilgilerine göre şekillenir."
+  },
+  {
+    "id": "ekys_2021_q34",
+    "questionNumber": 34,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_egitim",
+    "topicName": "2021 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yapılandırmacı öğrenme yaklaşımında öğretmenin temel rolü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrenmeyi kolaylaştıran rehber ve yönlendirici olmak"
+      },
+      {
+        "key": "B",
+        "text": "Bilgiyi doğrudan aktaran tek otorite olmak"
+      },
+      {
+        "key": "C",
+        "text": "Katı disiplin kurallarıyla sınıfı kontrol etmek"
+      },
+      {
+        "key": "D",
+        "text": "Sadece sonuç odaklı ölçme değerlendirme yapmak"
+      },
+      {
+        "key": "E",
+        "text": "Ders kitabındaki içeriği harfiyen ezberletmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Yapılandırmacılıkta (Constructivism) öğretmen rehber (fasilitatör), öğrenci ise bilgiyi aktif deneyim ve etkileşimle inşa eden kişidir."
+  },
+  {
+    "id": "ekys_2021_q35",
+    "questionNumber": 35,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_egitim",
+    "topicName": "2021 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bloom'un Yenilenmiş Bilişsel Taksonomisi'nde bir öğrencinin öğrendiği kavramları kullanarak özgün bir proje veya ürün ortaya koyması hangi basamaktır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yaratma (Sentez)"
+      },
+      {
+        "key": "B",
+        "text": "Değerlendirme"
+      },
+      {
+        "key": "C",
+        "text": "Çözümleme (Analiz)"
+      },
+      {
+        "key": "D",
+        "text": "Uygulama"
+      },
+      {
+        "key": "E",
+        "text": "Anlama"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Yenilenmiş taksonominin en üst basamağı 'Yaratma'dır (Creating); parçaları bir araya getirerek yeni ve özgün bir ürün oluşturmayı ifade eder."
+  },
+  {
+    "id": "ekys_2021_q36",
+    "questionNumber": 36,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_egitim",
+    "topicName": "2021 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir ölçme aracının ölçmek istediği özelliği başka değişkenlerle karıştırmadan tam ve doğru ölçebilme derecesine ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Geçerlik"
+      },
+      {
+        "key": "B",
+        "text": "Güvenirlik"
+      },
+      {
+        "key": "C",
+        "text": "Kullanışlılık"
+      },
+      {
+        "key": "D",
+        "text": "Objektiflik"
+      },
+      {
+        "key": "E",
+        "text": "Ayırt Edicilik"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Bir testin amacına hizmet etme derecesi ve ölçmek istediği özelliği hatasız ölçmesi 'Geçerlik'tir. Sabit ve sistematik hatalar doğrudan geçerliği düşürür."
+  },
+  {
+    "id": "ekys_2021_q37",
+    "questionNumber": 37,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_egitim",
+    "topicName": "2021 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir testin farklı zamanlarda aynı gruba uygulandığında benzer sonuçlar vermesi ölçme aracının hangi niteliğiyle açıklanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Güvenirlik (Kararlılık / Tutarlılık)"
+      },
+      {
+        "key": "B",
+        "text": "Kapsam Geçerliği"
+      },
+      {
+        "key": "C",
+        "text": "Yordama Geçerliği"
+      },
+      {
+        "key": "D",
+        "text": "Yapı Geçerliği"
+      },
+      {
+        "key": "E",
+        "text": "Görünüş Geçerliği"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Test-tekrar test yöntemiyle elde edilen benzer puanlar, testin tesadüfi hatalardan arınık olduğunu ve 'Kararlı/Güvenilir' olduğunu gösterir."
+  },
+  {
+    "id": "ekys_2021_q38",
+    "questionNumber": 38,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_egitim",
+    "topicName": "2021 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğretim sürecinde öğrencilerin gerçek yaşam problemlerine bilimsel yöntemlerle çözüm üretmelerini sağlayan öğretim stratejisi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Probleme Dayalı Öğrenme (PDÖ)"
+      },
+      {
+        "key": "B",
+        "text": "Doğrudan Anlatım Yöntemi"
+      },
+      {
+        "key": "C",
+        "text": "Programlı Öğretim"
+      },
+      {
+        "key": "D",
+        "text": "Tümdengelim Stratejisi"
+      },
+      {
+        "key": "E",
+        "text": "Mikro Öğretim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Probleme Dayalı Öğrenme (PBL), karmaşık ve gerçek yaşam senaryoları üzerinden öğrencilerin eleştirel düşünme ve araştırma becerilerini geliştirir."
+  },
+  {
+    "id": "ekys_2021_q39",
+    "questionNumber": 39,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_egitim",
+    "topicName": "2021 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Rehberlik ve psikolojik danışma hizmetlerinde 'tüm öğrencilere açık olma ve gönüllülük' ilkesi hangi yaklaşımın gereğidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gelişimsel / Çağdaş Rehberlik Anlayışı"
+      },
+      {
+        "key": "B",
+        "text": "Geleneksel / Kriz Odaklı Rehberlik"
+      },
+      {
+        "key": "C",
+        "text": "Çare Bulucu Model"
+      },
+      {
+        "key": "D",
+        "text": "Yalnızca Uyum Sağlayıcı Model"
+      },
+      {
+        "key": "E",
+        "text": "Klinik Model"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Gelişimsel rehberlik modeli tüm öğrencilerin gelişimsel ihtiyaçlarını destekler, önleyici ve proaktiftir; gizlilik ve gönüllülük esastır."
+  },
+  {
+    "id": "ekys_2021_q40",
+    "questionNumber": 40,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_egitim",
+    "topicName": "2021 EKYS - Eğitim Bilimleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Sınıf yönetiminde öğretmenin istenmeyen bir davranış ortaya çıktığında öncelikle tercih etmesi gereken en uygun yaklaşım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Göz teması kurma veya görmezden gelip pekiştireci kesme"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenciye derhal ceza verme"
+      },
+      {
+        "key": "C",
+        "text": "Öğrenciyi dersten çıkarma"
+      },
+      {
+        "key": "D",
+        "text": "Tüm sınıfa toplu uyarıda bulunma"
+      },
+      {
+        "key": "E",
+        "text": "Veliyi derhal okula çağırma"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Sınıf yönetiminde kademeli müdahale esastır; ilk adım sözsüz uyarı (göz teması, fiziksel yakınlık) veya geçici söndürmedir."
+  },
+  {
+    "id": "ekys_2021_q41",
+    "questionNumber": 41,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Klasik yönetim kuramcılarından Henri Fayol'un tanımladığı temel yönetim süreçleri hangi seçenekte doğru sıralanmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Planlama - Örgütleme - Yöneltme (Emir-Komuta) - Koordinasyon - Denetim"
+      },
+      {
+        "key": "B",
+        "text": "Planlama - Bütçeleme - Denetim - Değerlendirme"
+      },
+      {
+        "key": "C",
+        "text": "Karar Verme - İletişim - Etkileme - Değerlendirme"
+      },
+      {
+        "key": "D",
+        "text": "Örgütleme - Liderlik - Vizyon - Misyon"
+      },
+      {
+        "key": "E",
+        "text": "Hedef Belirleme - Görev Dağılımı - Ödüllendirme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Fayol'un Yönetim Süreçleri Kuramı (POCCC modeli): Planlama (Plan), Örgütleme (Organize), Yöneltme/Emir (Command), Eşgüdüm (Coordinate) ve Kontrol/Denetim (Control)."
+  },
+  {
+    "id": "ekys_2021_q42",
+    "questionNumber": 42,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Max Weber'in Bürokrasi Modelinde yer alan temel ilkelerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Görevlerin yasal-rasyonel kurallara ve hiyerarşik yapıya bağlanması"
+      },
+      {
+        "key": "B",
+        "text": "Kişisel ilişkilerin ve inisiyatifin öne çıkması"
+      },
+      {
+        "key": "C",
+        "text": "Çalışanların duygusal bağlarına göre terfi etmesi"
+      },
+      {
+        "key": "D",
+        "text": "Kuralların esnek ve durumsal olması"
+      },
+      {
+        "key": "E",
+        "text": "Yetki devrinin tamamen sınırlandırılması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Weber'in ideal bürokrasi modeli; liyakat, hiyerarşi, yazılı kurallar, görev ayrımı ve gayrişahsilik (nesnellik) ilkelerine dayanır."
+  },
+  {
+    "id": "ekys_2021_q43",
+    "questionNumber": 43,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Douglas McGregor'un X ve Y Kuramında 'İnsanlar doğuştan çalışmayı sever, sorumluluk alır ve yaratıcıdır' varsayımı hangi kurama aittir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Y Kuramı"
+      },
+      {
+        "key": "B",
+        "text": "X Kuramı"
+      },
+      {
+        "key": "C",
+        "text": "Z Kuramı"
+      },
+      {
+        "key": "D",
+        "text": "Sistem Kuramı"
+      },
+      {
+        "key": "E",
+        "text": "Durumsallık Kuramı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>X Kuramı insanı tembel ve zorlanması gereken bir varlık olarak görürken; Y Kuramı insanı çalışmayı seven, özdenetimli ve sorumluluk alan olumlu bir varlık olarak görür."
+  },
+  {
+    "id": "ekys_2021_q44",
+    "questionNumber": 44,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Blake ve Mouton'un Yönetsel Izgara (Grid) Modeli'nde hem üretime/işe (9) hem de insana/çalışana (9) en üst düzeyde önem veren liderlik stili hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Takım (Ekip) Liderliği (9,9)"
+      },
+      {
+        "key": "B",
+        "text": "Şehir Kulübü Liderliği (1,9)"
+      },
+      {
+        "key": "C",
+        "text": "Otoriter / Görev Liderliği (9,1)"
+      },
+      {
+        "key": "D",
+        "text": "Fakirleşmiş / Cılız Liderlik (1,1)"
+      },
+      {
+        "key": "E",
+        "text": "Orta Yol Liderliği (5,5)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Grid modelinde (9,9) 'Takım Yönetimi'dir; hem yüksek üretim hem yüksek çalışan memnuniyeti hedeflenir."
+  },
+  {
+    "id": "ekys_2021_q45",
+    "questionNumber": 45,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul müdürünün öğretmenlerin mesleki gelişimlerini destekleyen, vizyon oluşturan ve dönüşüm sağlayan liderlik tarzı hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dönüşümcü (Transformasyonel) Liderlik"
+      },
+      {
+        "key": "B",
+        "text": "Etkileşimci (İşlemci) Liderlik"
+      },
+      {
+        "key": "C",
+        "text": "Otokratik Liderlik"
+      },
+      {
+        "key": "D",
+        "text": "Serbest Bırakıcı (Laissez-Faire) Liderlik"
+      },
+      {
+        "key": "E",
+        "text": "Geleneksel Liderlik"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Dönüşümcü liderlik; vizyon oluşturma, entelektüel uyarım, ilham verici motivasyon ve bireysel ilgi bileşenlerinden oluşur."
+  },
+  {
+    "id": "ekys_2021_q46",
+    "questionNumber": 46,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Liderliğin tek bir kişiye ait olmadığını, kurumdaki tüm paydaşların uzmanlıklarına göre liderlik rolleri üstlendiğini savunan liderlik yaklaşımı hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dağıtılmış (Paylaşılan) Liderlik"
+      },
+      {
+        "key": "B",
+        "text": "Karizmatik Liderlik"
+      },
+      {
+        "key": "C",
+        "text": "Hizmetkâr Liderlik"
+      },
+      {
+        "key": "D",
+        "text": "Kültürel Liderlik"
+      },
+      {
+        "key": "E",
+        "text": "Öğretimsel Liderlik"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Dağıtılmış (Distributed) liderlik, liderliğin okul örgütünün geneline yayıldığını ve kolektif bir sorumluluk olduğunu vurgular."
+  },
+  {
+    "id": "ekys_2021_q47",
+    "questionNumber": 47,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Bir okulun kurum kültürünü oluşturan törenler, semboller, sloganlar ve fiziksel düzenlemeler kültürün hangi düzeyini oluşturur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Görünür Ögeler ve Yapay Olgular (Artifaktlar)"
+      },
+      {
+        "key": "B",
+        "text": "Temel Sayıltılar (Varsayımlar)"
+      },
+      {
+        "key": "C",
+        "text": "Benimsenen Değerler"
+      },
+      {
+        "key": "D",
+        "text": "Kişisel İnançlar"
+      },
+      {
+        "key": "E",
+        "text": "Yazılı Olmayan Kurallar"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Edgar Schein'ın Kurum Kültürü Modeli'nde en dıştaki görünür katman 'Yapay Olgular / Artifaktlar'dır."
+  },
+  {
+    "id": "ekys_2021_q48",
+    "questionNumber": 48,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul iklimi türlerinden öğretmenlerin iş birliği içinde çalıştığı, müdürün destekleyici olduğu ve güven duygusunun yüksek olduğu iklim hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Açık İklim"
+      },
+      {
+        "key": "B",
+        "text": "Kapalı İklim"
+      },
+      {
+        "key": "C",
+        "text": "Özerk İklim"
+      },
+      {
+        "key": "D",
+        "text": "Babacan İklim"
+      },
+      {
+        "key": "E",
+        "text": "İdareci İklim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Halpin ve Croft'un modelinde 'Açık İklim' en sağlıklı iklim türüdür; yüksek moralli, açık iletişimli ve destekleyicidir."
+  },
+  {
+    "id": "ekys_2021_q49",
+    "questionNumber": 49,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Çağdaş denetim anlayışında denetmenin temel rolü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmene mesleki rehberlik ve koçluk yapmak"
+      },
+      {
+        "key": "B",
+        "text": "Yalnızca mevzuat eksikliklerini ve hataları aramak"
+      },
+      {
+        "key": "C",
+        "text": "Sert yaptırımlarla disiplini sağlamak"
+      },
+      {
+        "key": "D",
+        "text": "Sınıfı teftiş edip sadece not vermek"
+      },
+      {
+        "key": "E",
+        "text": "Öğretmenin yöntemini zorla değiştirmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Çağdaş klinik ve gelişimsel denetim; hata bulucu değil, öğretimsel rehberlik ve mesleki gelişimi destekleyici bir süreçtir."
+  },
+  {
+    "id": "ekys_2021_q50",
+    "questionNumber": 50,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Denetmen ile öğretmenin yüz yüze iş birliği yaparak dersi planladığı, gözlemlediği ve geri bildirim sunduğu denetim modeli hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Klinik Denetim"
+      },
+      {
+        "key": "B",
+        "text": "Geleneksel Denetim"
+      },
+      {
+        "key": "C",
+        "text": "İdari Denetim"
+      },
+      {
+        "key": "D",
+        "text": "Bilimsel Denetim"
+      },
+      {
+        "key": "E",
+        "text": "Mali Denetim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Goldhammer ve Cogan tarafından geliştirilen Klinik Denetim, öğretim sürecini sınıfta gözlem ve yapıcı geri bildirimle geliştirmeyi hedefler."
+  },
+  {
+    "id": "ekys_2021_q51",
+    "questionNumber": 51,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Örgütsel çatışma yönetiminde her iki tarafın da çıkarlarını koruyarak ortak bir çözüm bulduğu kazan-kazan stratejisi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İş Birliği / Problem Çözme"
+      },
+      {
+        "key": "B",
+        "text": "Kaçınma"
+      },
+      {
+        "key": "C",
+        "text": "Uyum Sağlama / Ödün Verme"
+      },
+      {
+        "key": "D",
+        "text": "Hükmetme / Zorlama"
+      },
+      {
+        "key": "E",
+        "text": "Uzlaşma"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Thomas-Kilmann çatışma modelinde hem kendine hem karşı tarafa yüksek önem veren stil 'İş Birliği' (Collaborating / Kazan-Kazan) yaklaşımıdır."
+  },
+  {
+    "id": "ekys_2021_q52",
+    "questionNumber": 52,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Bir kurumun gelecekte ulaşmak istediği ideal durumu ve hayalini ifade eden stratejik planlama ögesi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vizyon"
+      },
+      {
+        "key": "B",
+        "text": "Misyon"
+      },
+      {
+        "key": "C",
+        "text": "Stratejik Amaç"
+      },
+      {
+        "key": "D",
+        "text": "Faaliyet"
+      },
+      {
+        "key": "E",
+        "text": "SWOT Analizi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Misyon kurumun varoluş nedenini (bugününü), Vizyon ise kurumun gelecekte ulaşmak istediği arzulanan resmi (yarınını) ifade eder."
+  },
+  {
+    "id": "ekys_2021_q53",
+    "questionNumber": 53,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Toplam Kalite Yönetimi'nde (TKY) hataları oluşmadan önce önlemeyi amaçlayan yaklaşım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Önleyici Yaklaşım (Proaktif Kalite Güvencesi)"
+      },
+      {
+        "key": "B",
+        "text": "Düzeltici Yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "Reaktif Denetim"
+      },
+      {
+        "key": "D",
+        "text": "Sonuç Kontrolü"
+      },
+      {
+        "key": "E",
+        "text": "Numune Testi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>TKY'de kalite sürecin içinde üretilir ve temel felsefe hataları oluşmadan kaynağında engellemektir (Sıfır Hata)."
+  },
+  {
+    "id": "ekys_2021_q54",
+    "questionNumber": 54,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Öğretmenlerin resmî görev tanımlarının ötesine geçerek gönüllü olarak okula ve meslektaşlarına katkı sağlaması hangi kavramla açıklanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Örgütsel Vatandaşlık Davranışı (ÖVD)"
+      },
+      {
+        "key": "B",
+        "text": "Örgütsel Bağlılık"
+      },
+      {
+        "key": "C",
+        "text": "Örgütsel Adalet"
+      },
+      {
+        "key": "D",
+        "text": "Örgütsel Sinizm"
+      },
+      {
+        "key": "E",
+        "text": "Örgütsel Özdeşleşme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Organ'a göre Örgütsel Vatandaşlık; resmî ödül sistemiyle doğrudan zorunlu kılınmayan, kurumun işleyişini destekleyen gönüllü ekstra davranışlardır."
+  },
+  {
+    "id": "ekys_2021_q55",
+    "questionNumber": 55,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okulda kararlar alınırken öğretmen ve paydaşların sürece aktif olarak dâhil edilmesi hangi yönetim anlayışıdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Katılımcı / Demokratik Yönetim"
+      },
+      {
+        "key": "B",
+        "text": "Merkeziyetçi Yönetim"
+      },
+      {
+        "key": "C",
+        "text": "Bürokratik Yönetim"
+      },
+      {
+        "key": "D",
+        "text": "Otokratik Yönetim"
+      },
+      {
+        "key": "E",
+        "text": "Geleneksel Yönetim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Katılımcı yönetim, karar kalitesini ve çalışanların kararları sahiplenme düzeyini en üst seviyeye çıkarır."
+  },
+  {
+    "id": "ekys_2021_q56",
+    "questionNumber": 56,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Öğretmenlerin mesleki sorunları çözmek ve ders tasarımlarını geliştirmek için kurdukları sürekli öğrenme topluluğuna ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mesleki Öğrenme Topluluğu (MÖT)"
+      },
+      {
+        "key": "B",
+        "text": "Zümre Kurulu"
+      },
+      {
+        "key": "C",
+        "text": "Disiplin Kurulu"
+      },
+      {
+        "key": "D",
+        "text": "Okul Aile Birliği"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal Etkinlik Kurulu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Profesyonel / Mesleki Öğrenme Toplulukları (PLC), ortak vizyon, iş birliği ve öğrenci öğrenmesine odaklanan sürdürülebilir gelişim gruplarıdır."
+  },
+  {
+    "id": "ekys_2021_q57",
+    "questionNumber": 57,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Yöneticinin çalışanları etkilemek için makamından değil, alanındaki derin bilgi ve uzmanlığından aldığı güç kaynağı hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uzmanlık Gücü"
+      },
+      {
+        "key": "B",
+        "text": "Yasal (Meşru) Güç"
+      },
+      {
+        "key": "C",
+        "text": "Ödül Gücü"
+      },
+      {
+        "key": "D",
+        "text": "Zorlayıcı (Baskıcı) Güç"
+      },
+      {
+        "key": "E",
+        "text": "Karizmatik Güç"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>French ve Raven güç kaynakları sınıflamasında, bireyin sahip olduğu özel bilgi ve beceriden kaynaklanan güç 'Uzmanlık Gücü'dür."
+  },
+  {
+    "id": "ekys_2021_q58",
+    "questionNumber": 58,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul müdürünün okulda yapacağı bir yenilik öncesinde öğretmenlerin direncini kırmak için yapması gereken en etkili adım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Değişimin nedenlerini, hedeflerini ve faydalarını açıkça iletişimle paylaşmak"
+      },
+      {
+        "key": "B",
+        "text": "Değişimi emir yoluyla zorunlu kılmak"
+      },
+      {
+        "key": "C",
+        "text": "İtiraz eden öğretmenlere idari soruşturma açmak"
+      },
+      {
+        "key": "D",
+        "text": "Değişimi gizli tutup aniden uygulamak"
+      },
+      {
+        "key": "E",
+        "text": "Sadece kendi kararlarına güvenmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Değişim yönetiminde (Kotter Modeli) ilk adım aciliyet hissi yaratmak ve paydaşlarla şeffaf iletişim kurarak güven inşa etmektir."
+  },
+  {
+    "id": "ekys_2021_q59",
+    "questionNumber": 59,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul yönetiminde zaman tuzaklarından kaçınmak ve verimliliği artırmak için yöneticinin uygulayabileceği en etkili yöntem hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Görev ve yetki devri (Delegasyon) yapmak"
+      },
+      {
+        "key": "B",
+        "text": "Tüm işleri tek başına yürütmek"
+      },
+      {
+        "key": "C",
+        "text": "Plansız anlık toplantılar düzenlemek"
+      },
+      {
+        "key": "D",
+        "text": "Kapısını sürekli açık tutup her kesintiye izin vermek"
+      },
+      {
+        "key": "E",
+        "text": "Rutin evrakları mesai sonrasına ertelemek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Etkili zaman yönetiminde önemsiz ve devredilebilir işlerin astlara devredilmesi (delegasyon), yöneticinin stratejik hedeflere odaklanmasını sağlar."
+  },
+  {
+    "id": "ekys_2021_q60",
+    "questionNumber": 60,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okulda kriz yönetiminde, kriz anında ilk yapılması gereken öncelikli eylem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Can güvenliğini sağlamak ve kriz koordinasyon ekibini devreye sokmak"
+      },
+      {
+        "key": "B",
+        "text": "Basına açıklama yapmak"
+      },
+      {
+        "key": "C",
+        "text": "Maddi zararı hesaplamak"
+      },
+      {
+        "key": "D",
+        "text": "Sorumluları cezalandırmak"
+      },
+      {
+        "key": "E",
+        "text": "Okulu süresiz tatil etmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Kriz anında birincil öncelik insan hayatı ve can güvenliğidir; ardından önceden hazırlanmış Kriz Eylem Planı işletilir."
+  },
+  {
+    "id": "ekys_2021_q61",
+    "questionNumber": 61,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Öğrenci başarısını izlemek, eksikleri tespit edip telafi programları planlamak okul yöneticisinin hangi liderlik rolüdür?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretimsel (Akademik) Liderlik"
+      },
+      {
+        "key": "B",
+        "text": "Mali Liderlik"
+      },
+      {
+        "key": "C",
+        "text": "Hukuki Liderlik"
+      },
+      {
+        "key": "D",
+        "text": "Politik Liderlik"
+      },
+      {
+        "key": "E",
+        "text": "Sembolik Liderlik"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğretimsel Liderlik (Instructional Leadership), okul müdürünün öğretim programı, öğretmen gelişimi ve öğrenci öğrenmesini merkeze almasıdır."
+  },
+  {
+    "id": "ekys_2021_q62",
+    "questionNumber": 62,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul bütçesinin hazırlanmasında harcamaların gerekçelendirildiği ve her dönemin sıfırdan planlandığı bütçe türü hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sıfır Tabanlı Bütçeleme"
+      },
+      {
+        "key": "B",
+        "text": "Geleneksel Bütçeleme"
+      },
+      {
+        "key": "C",
+        "text": "Performans Bütçeleme"
+      },
+      {
+        "key": "D",
+        "text": "Program Bütçeleme"
+      },
+      {
+        "key": "E",
+        "text": "Torba Bütçeleme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Sıfır Tabanlı Bütçeleme sisteminde geçmiş bütçeler otomatik olarak baz alınmaz; her harcama kalemi baştan gerekçelendirilir."
+  },
+  {
+    "id": "ekys_2021_q63",
+    "questionNumber": 63,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Okul yöneticisinin iletişimde karşısındaki kişinin duygu ve düşüncelerini onun bakış açısıyla anlaması hangi beceridir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Empatik Dinleme"
+      },
+      {
+        "key": "B",
+        "text": "Seçici Dinleme"
+      },
+      {
+        "key": "C",
+        "text": "Görünüşte Dinleme"
+      },
+      {
+        "key": "D",
+        "text": "Savunucu Dinleme"
+      },
+      {
+        "key": "E",
+        "text": "Tuzak Kurucu Dinleme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Empatik dinleme, konuşmacının dünyasına girerek onu yargılamadan tam olarak anlama becerisidir."
+  },
+  {
+    "id": "ekys_2021_q64",
+    "questionNumber": 64,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_yonetim",
+    "topicName": "2021 EKYS - Eğitim Yönetimi",
+    "category": "Eğitim Yönetimi",
+    "questionText": "Öğretmenlerin mesleki gelişimlerini desteklemek amacıyla deneyimli öğretmenlerin yeni öğretmenlere rehberlik etmesi süreci hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mentorluk"
+      },
+      {
+        "key": "B",
+        "text": "Süpervizyon"
+      },
+      {
+        "key": "C",
+        "text": "Teftiş"
+      },
+      {
+        "key": "D",
+        "text": "Akreditasyon"
+      },
+      {
+        "key": "E",
+        "text": "Kariyer Basamağı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Mentorluk, mesleğe yeni başlayan veya gelişime ihtiyaç duyan bireye rehberlik eden deneyimli uzmanın sunduğu birebir destek sürecidir."
+  },
+  {
+    "id": "ekys_2021_q65",
+    "questionNumber": 65,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_anayasa",
+    "topicName": "2021 EKYS - MEVZUAT ANAYASA",
+    "category": "Mevzuat",
+    "questionText": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi (TBMM) üye tamsayısı kaçtır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "600"
+      },
+      {
+        "key": "B",
+        "text": "550"
+      },
+      {
+        "key": "C",
+        "text": "450"
+      },
+      {
+        "key": "D",
+        "text": "500"
+      },
+      {
+        "key": "E",
+        "text": "400"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası madde 75 uyarınca TBMM 600 milletvekilinden oluşur."
+  },
+  {
+    "id": "ekys_2021_q66",
+    "questionNumber": 66,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_anayasa",
+    "topicName": "2021 EKYS - MEVZUAT ANAYASA",
+    "category": "Mevzuat",
+    "questionText": "1982 Anayasası'na göre Cumhurbaşkanlığı Kararnameleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kanunlarda açıkça düzenlenen konularda Cumhurbaşkanlığı Kararnamesi çıkarılabilir."
+      },
+      {
+        "key": "B",
+        "text": "Anayasanın ikinci kısmının birinci ve ikinci bölümlerindeki temel haklar CBK ile düzenlenemez."
+      },
+      {
+        "key": "C",
+        "text": "Kanun ile CBK farklı hükümler içerirse kanun hükümleri uygulanır."
+      },
+      {
+        "key": "D",
+        "text": "TBMM aynı konuda kanun çıkarırsa CBK hükümsüz hale gelir."
+      },
+      {
+        "key": "E",
+        "text": "CBK'ların Anayasa'ya uygunluk denetimini Anayasa Mahkemesi yapar."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Anayasa m. 104 uyarınca kanunda açıkça düzenlenen konularda CBK çıkarılamaz."
+  },
+  {
+    "id": "ekys_2021_q67",
+    "questionNumber": 67,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_657",
+    "topicName": "2021 EKYS - MEVZUAT 657",
+    "category": "Mevzuat",
+    "questionText": "657 sayılı Devlet Memurları Kanunu'na göre, memurun mazeretsiz ve kesintisiz olarak kaç gün göreve gelmemesi durumunda memurluktan çekilmiş (istifa etmiş) sayılır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 gün"
+      },
+      {
+        "key": "B",
+        "text": "3 gün"
+      },
+      {
+        "key": "C",
+        "text": "5 gün"
+      },
+      {
+        "key": "D",
+        "text": "15 gün"
+      },
+      {
+        "key": "E",
+        "text": "20 gün"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>657 sayılı Kanun m. 94 uyarınca kesintisiz 10 gün göreve gelmeyen memur çekilmiş sayılır."
+  },
+  {
+    "id": "ekys_2021_q68",
+    "questionNumber": 68,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_657",
+    "topicName": "2021 EKYS - MEVZUAT 657",
+    "category": "Mevzuat",
+    "questionText": "657 sayılı Devlet Memurları Kanunu'na göre memura eşinin doğum yapması halinde kaç gün babalık izni verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 gün"
+      },
+      {
+        "key": "B",
+        "text": "3 gün"
+      },
+      {
+        "key": "C",
+        "text": "5 gün"
+      },
+      {
+        "key": "D",
+        "text": "7 gün"
+      },
+      {
+        "key": "E",
+        "text": "15 gün"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 104/B uyarınca eşi doğum yapan memura isteği üzerine 10 gün babalık mazeret izni verilir."
+  },
+  {
+    "id": "ekys_2021_q69",
+    "questionNumber": 69,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_1739",
+    "topicName": "2021 EKYS - MEVZUAT 1739",
+    "category": "Mevzuat",
+    "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre; 'Eğitim kurumları dil, ırk, cinsiyet, engellilik ve din ayrımı gözetilmeksizin herkese açıktır.' ifadesi hangi ilkedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Genellik ve Eşitlik"
+      },
+      {
+        "key": "B",
+        "text": "Fırsat ve İmkân Eşitliği"
+      },
+      {
+        "key": "C",
+        "text": "Süreklilik"
+      },
+      {
+        "key": "D",
+        "text": "Yöneltme"
+      },
+      {
+        "key": "E",
+        "text": "Karma Eğitim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 m. 4 Genellik ve Eşitlik ilkesidir."
+  },
+  {
+    "id": "ekys_2021_q70",
+    "questionNumber": 70,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_1739",
+    "topicName": "2021 EKYS - MEVZUAT 1739",
+    "category": "Mevzuat",
+    "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre öğretmenlik mesleği nasıl tanımlanmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir."
+      },
+      {
+        "key": "B",
+        "text": "Memuriyet hiyerarşisinde teknik bir hizmet sınıfıdır."
+      },
+      {
+        "key": "C",
+        "text": "Yalnızca sınıf içi öğretim faaliyeti yürüten meslektir."
+      },
+      {
+        "key": "D",
+        "text": "Sözleşmeli personel statüsünde bir görevdir."
+      },
+      {
+        "key": "E",
+        "text": "Genel idari hizmetler sınıfına dahil bir unvandır."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 m. 43 uyarınca öğretmenlik devletin eğitim ve yönetim görevlerini üstlenen özel bir ihtisas mesleğidir."
+  },
+  {
+    "id": "ekys_2021_q71",
+    "questionNumber": 71,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_222",
+    "topicName": "2021 EKYS - MEVZUAT 222",
+    "category": "Mevzuat",
+    "questionText": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre mecburi ilköğretim çağı hangi yaş grubunu kapsar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "6-14 yaş"
+      },
+      {
+        "key": "B",
+        "text": "5-13 yaş"
+      },
+      {
+        "key": "C",
+        "text": "7-15 yaş"
+      },
+      {
+        "key": "D",
+        "text": "6-12 yaş"
+      },
+      {
+        "key": "E",
+        "text": "7-14 yaş"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>222 sayılı Kanun m. 3 uyarınca mecburi ilköğretim çağı 6-14 yaş grubundaki çocukları kapsar."
+  },
+  {
+    "id": "ekys_2021_q72",
+    "questionNumber": 72,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_222",
+    "topicName": "2021 EKYS - MEVZUAT 222",
+    "category": "Mevzuat",
+    "questionText": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre ilköğretim kurumlarında bir ders yılı süresi en az kaç iş günüdür?",
+    "options": [
+      {
+        "key": "A",
+        "text": "180 iş günü"
+      },
+      {
+        "key": "B",
+        "text": "170 iş günü"
+      },
+      {
+        "key": "C",
+        "text": "160 iş günü"
+      },
+      {
+        "key": "D",
+        "text": "190 iş günü"
+      },
+      {
+        "key": "E",
+        "text": "200 iş günü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>222 m. 44 uyarınca ders yılı en az 180 iş günüdür."
+  },
+  {
+    "id": "ekys_2021_q73",
+    "questionNumber": 73,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_5018",
+    "topicName": "2021 EKYS - MEVZUAT 5018",
+    "category": "Mevzuat",
+    "questionText": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu'na göre merkezî yönetim bütçe kanun teklifini TBMM'ye kim sunar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı"
+      },
+      {
+        "key": "B",
+        "text": "Hazine ve Maliye Bakanı"
+      },
+      {
+        "key": "C",
+        "text": "TBMM Başkanı"
+      },
+      {
+        "key": "D",
+        "text": "Sayıştay Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "Merkez Bankası Başkanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>5018 m. 18 uyarınca Cumhurbaşkanı bütçe teklifini mali yılbaşından en az 75 gün önce TBMM'ye sunar."
+  },
+  {
+    "id": "ekys_2021_q74",
+    "questionNumber": 74,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_4483",
+    "topicName": "2021 EKYS - MEVZUAT 4483",
+    "category": "Mevzuat",
+    "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre ilçede görevli bir okul müdürü hakkında soruşturma izni vermeye yetkili merci hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaymakam"
+      },
+      {
+        "key": "B",
+        "text": "Vali"
+      },
+      {
+        "key": "C",
+        "text": "İlçe Millî Eğitim Müdürü"
+      },
+      {
+        "key": "D",
+        "text": "İl Millî Eğitim Müdürü"
+      },
+      {
+        "key": "E",
+        "text": "Cumhuriyet Başsavcısı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>4483 m. 3/a uyarınca ilçede görevli memurlar hakkında soruşturma izni yetkisi Kaymakama aittir."
+  },
+  {
+    "id": "ekys_2021_q75",
+    "questionNumber": 75,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_4688",
+    "topicName": "2021 EKYS - MEVZUAT 4688",
+    "category": "Mevzuat",
+    "questionText": "4688 sayılı Kamu Görevlileri Sendikaları Kanunu'na göre sendika kurucusu olabilmek için kamu görevlisi olarak en az ne kadar çalışmış olmak gerekir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sendika kurucusu olmak için herhangi bir hizmet süresi şartı aranmaz (kamu görevlisi olmak yeterlidir)."
+      },
+      {
+        "key": "B",
+        "text": "En az 1 yıl"
+      },
+      {
+        "key": "C",
+        "text": "En az 2 yıl"
+      },
+      {
+        "key": "D",
+        "text": "En az 3 yıl"
+      },
+      {
+        "key": "E",
+        "text": "En az 5 yıl"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>4688 sayılı Kanun'da yapılan değişiklikle sendika kuruculuğu için geçmişteki 2 yıl hizmet şartı kaldırılmıştır."
+  },
+  {
+    "id": "ekys_2021_q76",
+    "questionNumber": 76,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_5442",
+    "topicName": "2021 EKYS - MEVZUAT 5442",
+    "category": "Mevzuat",
+    "questionText": "5442 sayılı İl İdaresi Kanunu'na göre ilde devletin ve Cumhurbaşkanının temsilcisi ve genel idare başkanı kimdir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vali"
+      },
+      {
+        "key": "B",
+        "text": "Kaymakam"
+      },
+      {
+        "key": "C",
+        "text": "İl İdare Kurulu Başkanı"
+      },
+      {
+        "key": "D",
+        "text": "Büyükşehir Belediye Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "Cumhuriyet Başsavcısı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>5442 m. 9 uyarınca Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır."
+  },
+  {
+    "id": "ekys_2021_q77",
+    "questionNumber": 77,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_3071",
+    "topicName": "2021 EKYS - MEVZUAT 3071",
+    "category": "Mevzuat",
+    "questionText": "3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun'a göre dilekçe sahiplerine en geç kaç gün içinde gerekçeli cevap verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "30 gün"
+      },
+      {
+        "key": "B",
+        "text": "15 gün"
+      },
+      {
+        "key": "C",
+        "text": "60 gün"
+      },
+      {
+        "key": "D",
+        "text": "45 gün"
+      },
+      {
+        "key": "E",
+        "text": "20 gün"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>3071 m. 7 uyarınca dilekçelere en geç 30 gün içinde cevap verilir."
+  },
+  {
+    "id": "ekys_2021_q78",
+    "questionNumber": 78,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_1cbk",
+    "topicName": "2021 EKYS - MEVZUAT 1CBK",
+    "category": "Mevzuat",
+    "questionText": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname'ye göre Millî Eğitim Bakanlığı hizmet birimlerinden öğretmen atama ve özlük işlemlerini yürüten birim hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 317 uyarınca öğretmen atama ve özlük işlemlerini Personel Genel Müdürlüğü yürütür."
+  },
+  {
+    "id": "ekys_2021_q79",
+    "questionNumber": 79,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_1cbk",
+    "topicName": "2021 EKYS - MEVZUAT 1CBK",
+    "category": "Mevzuat",
+    "questionText": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname'ye göre öğretim programlarını (müfredat) hazırlayan ve onaylayan danışma ve karar organı hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 320 uyarınca eğitim programlarını hazırlama ve ders kitaplarını onaylama görevi Talim ve Terbiye Kuruluna aittir."
+  },
+  {
+    "id": "ekys_2021_q80",
+    "questionNumber": 80,
+    "testId": "ekys2021_tam",
+    "testTitle": "2021 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2021_mevzuat_657",
+    "topicName": "2021 EKYS - MEVZUAT 657",
+    "category": "Mevzuat",
+    "questionText": "657 sayılı Devlet Memurları Kanunu'na göre uyarma, kınama ve aylıktan kesme cezalarına karşı itiraz süresi kararın tebliğinden itibaren kaç gündür?",
+    "options": [
+      {
+        "key": "A",
+        "text": "7 gün"
+      },
+      {
+        "key": "B",
+        "text": "10 gün"
+      },
+      {
+        "key": "C",
+        "text": "15 gün"
+      },
+      {
+        "key": "D",
+        "text": "30 gün"
+      },
+      {
+        "key": "E",
+        "text": "60 gün"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 135 uyarınca disiplin cezalarına karşı itiraz süresi tebliğden itibaren 7 gündür."
   }
 ];

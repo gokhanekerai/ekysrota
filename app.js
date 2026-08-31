@@ -383,6 +383,14 @@ class EKYSApp {
             badge: '2022 Çıkmış'
           },
           {
+            id: 'ekys_2021_tarih',
+            name: '2021 EKYS Tarih Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Genel Tarih soruları (Soru 1-5).',
+            filterKey: 'ekys_2021_tarih',
+            badge: '2021 Çıkmış'
+          },
+          {
             id: 'tarih_tum',
             name: '🌟 Tüm Tarih Soruları (Karma Test)',
             icon: '🎯',
@@ -462,6 +470,14 @@ class EKYSApp {
             badge: '2022 Çıkmış'
           },
           {
+            id: 'ekys_2021_cogr',
+            name: '2021 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 6-10).',
+            filterKey: 'ekys_2021_cogr',
+            badge: '2021 Çıkmış'
+          },
+          {
             id: 'cografya_tum',
             name: '🌟 Tüm Coğrafya Soruları (Karma Test)',
             icon: '🎯',
@@ -515,6 +531,14 @@ class EKYSApp {
             desc: '2022 MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları.',
             filterKey: 'ekys_2022_yurttaslik',
             badge: '2022 Çıkmış'
+          },
+          {
+            id: 'ekys_2021_yurttaslik',
+            name: '2021 EKYS Yurttaşlık Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları (Soru 11-14).',
+            filterKey: 'ekys_2021_yurttaslik',
+            badge: '2021 Çıkmış'
           },
           {
             id: 'yurttaslik_tum',
@@ -572,6 +596,14 @@ class EKYSApp {
             badge: '2022 Çıkmış'
           },
           {
+            id: 'ekys_2021_guncel',
+            name: '2021 EKYS Güncel Bilgiler Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Güncel Bilgiler soruları (Soru 15-16).',
+            filterKey: 'ekys_2021_guncel',
+            badge: '2021 Çıkmış'
+          },
+          {
             id: 'guncel_tum',
             name: '🌟 Tüm Güncel Sorular (Karma Test)',
             icon: '🎯',
@@ -624,6 +656,14 @@ class EKYSApp {
             desc: '2022 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
             filterKey: 'ekys_2022_inkilap',
             badge: '2022 Çıkmış'
+          },
+          {
+            id: 'ekys_2021_inkilap',
+            name: '2021 EKYS İnkılap Tarihi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
+            filterKey: 'ekys_2021_inkilap',
+            badge: '2021 Çıkmış'
           },
           {
             id: 'inkilap_tum',
@@ -680,6 +720,14 @@ class EKYSApp {
             badge: '2022 Çıkmış'
           },
           {
+            id: 'ekys_2021_degerler',
+            name: '2021 EKYS Değerler & Etik Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi ve Etik soruları (Soru 29-32).',
+            filterKey: 'ekys_2021_degerler',
+            badge: '2021 Çıkmış'
+          },
+          {
             id: 'degerler_tum',
             name: '🌟 Tüm Değerler & Etik Soruları (Karma Test)',
             icon: '🎯',
@@ -734,6 +782,14 @@ class EKYSApp {
             badge: '2022 Çıkmış'
           },
           {
+            id: 'ekys_2021_egitim',
+            name: '2021 EKYS Eğitim Bilimleri Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Eğitim Bilimleri soruları (Soru 33-40).',
+            filterKey: 'ekys_2021_egitim',
+            badge: '2021 Çıkmış'
+          },
+          {
             id: 'egitim_tum',
             name: '🌟 Tüm Eğitim Bilimleri Soruları (Karma Test)',
             icon: '🎯',
@@ -786,6 +842,14 @@ class EKYSApp {
             desc: '2022 MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları.',
             filterKey: 'ekys_2022_yonetim',
             badge: '2022 Çıkmış'
+          },
+          {
+            id: 'ekys_2021_yonetim',
+            name: '2021 EKYS Eğitim Yönetimi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları (Soru 41-64).',
+            filterKey: 'ekys_2021_yonetim',
+            badge: '2021 Çıkmış'
           },
           {
             id: 'yonetim_tum',
