@@ -1326,11 +1326,11 @@ class EKYSApp {
     // Görsel
     const imgBox = document.getElementById('quiz-image-box');
     const imgEl = document.getElementById('quiz-q-image');
-    if (q.hasImage && q.image) {
-      imgEl.src = q.image;
-      imgBox.style.display = 'block';
+    if ((q.hasImage || q.image) && q.image) {
+      if (imgEl) imgEl.src = q.image;
+      if (imgBox) imgBox.style.display = 'block';
     } else {
-      imgBox.style.display = 'none';
+      if (imgBox) imgBox.style.display = 'none';
     }
 
     // Soru Metni
@@ -1345,13 +1345,23 @@ class EKYSApp {
     const isAnswered = userAnswer !== undefined;
     const struck = (this.activeQuiz.struckOptions[curIdx]) || {};
 
-    const options = q.options || [
-      { key: 'A', text: 'A' },
-      { key: 'B', text: 'B' },
-      { key: 'C', text: 'C' },
-      { key: 'D', text: 'D' },
-      { key: 'E', text: 'E' }
-    ];
+    let options = [];
+    if (Array.isArray(q.options) && q.options.length > 0) {
+      options = q.options.map((opt, idx) => {
+        if (typeof opt === 'string') return { key: ['A', 'B', 'C', 'D', 'E'][idx] || `${idx + 1}`, text: opt };
+        return { key: opt.key || ['A', 'B', 'C', 'D', 'E'][idx] || `${idx + 1}`, text: opt.text || '' };
+      });
+    } else if (q.options && typeof q.options === 'object') {
+      options = Object.keys(q.options).map(k => ({ key: k, text: q.options[k] }));
+    } else {
+      options = [
+        { key: 'A', text: 'A' },
+        { key: 'B', text: 'B' },
+        { key: 'C', text: 'C' },
+        { key: 'D', text: 'D' },
+        { key: 'E', text: 'E' }
+      ];
+    }
 
     optionsList.innerHTML = options.map(opt => {
       const isSelected = userAnswer === opt.key;

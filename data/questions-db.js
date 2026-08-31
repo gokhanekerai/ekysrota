@@ -6856,13 +6856,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu alanlarda bulunan dağ sıraları aşağıdakilerin hangisinde doğru verilmiştir?",
     "hasImage": true,
     "image": "assets/questions/ekys2025_q7_map.png",
-    "options": {
-      "A": "Dedegöl Dağları — Bolkar Dağları — Kaçkar Dağları",
-      "B": "Geyik Dağları — Bey Dağları — Kaçkar Dağları",
-      "C": "Bolkar Dağları — Geyik Dağları — Tecer Dağları",
-      "D": "Geyik Dağları — Aladağlar — Tecer Dağları",
-      "E": "Aladağlar — Bolkar Dağları — Bey Dağları"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Dedegöl Dağları — Bolkar Dağları — Kaçkar Dağları"
+      },
+      {
+        "key": "B",
+        "text": "Geyik Dağları — Bey Dağları — Kaçkar Dağları"
+      },
+      {
+        "key": "C",
+        "text": "Bolkar Dağları — Geyik Dağları — Tecer Dağları"
+      },
+      {
+        "key": "D",
+        "text": "Geyik Dağları — Aladağlar — Tecer Dağları"
+      },
+      {
+        "key": "E",
+        "text": "Aladağlar — Bolkar Dağları — Bey Dağları"
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong><br>Haritada gösterilen alanlar sırasıyla Geyik Dağları (Batı Toroslar), Aladağlar (Orta Toroslar) ve Tecer Dağları'dır."
   },
@@ -6915,13 +6930,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu alanların hangisinde işletilebilir altın yatakları bulunmaktadır?",
     "hasImage": true,
     "image": "assets/questions/ekys2025_q9_map.png",
-    "options": {
-      "A": "I",
-      "B": "II",
-      "C": "III",
-      "D": "IV",
-      "E": "V"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong><br>Türkiye'de en önemli işletilebilir altın madeni yatakları Ege Bölgesi'nde (Uşak-Kışladağ, İzmir-Bergama) yer almaktadır."
   },
@@ -9560,13 +9590,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "İslamiyet öncesi Türk devletlerinde İpek Yolu hakimiyeti kurmak ve ticari güvenliği sağlamak amacıyla Akhunlara karşı Sasanilerle, daha sonra ise Sasanilere karşı Bizans İmparatorluğu ile diplomatik ve askeri ittifak kuran Türk devleti aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Uygur Devleti",
-      "B": "I. Kök Türk Devleti",
-      "C": "Avar Devleti",
-      "D": "Hazar Kağanlığı",
-      "E": "Karluklar"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Uygur Devleti"
+      },
+      {
+        "key": "B",
+        "text": "I. Kök Türk Devleti"
+      },
+      {
+        "key": "C",
+        "text": "Avar Devleti"
+      },
+      {
+        "key": "D",
+        "text": "Hazar Kağanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Karluklar"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (I. Kök Türk Devleti)**\n\n**Tarihsel Analiz:**\n- I. Kök Türk Devleti döneminde **İstemi Yabgu**, batı kanadını yönetirken İpek Yolu'nun kontrolünü ele geçirmek için önce **Sasanilerle anlaşarak Akhun (Eftalit) Devleti'ne son vermiş**, ardından Sasanilerin İpek Yolu ticaretini engellemesi üzerine **Bizans İmparatorluğu (Doğu Roma) ile elçi teatisi yaparak (Maniah başkanlığında) Sasanilere karşı Bizans ile ittifak kurmuştur.**",
     "hasImage": false,
@@ -9580,13 +9625,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "Büyük Selçuklu Devleti'nde hükümdarın başkanlığında toplanan, devlet otoritesine karşı işlenen suçları, haksızlığa uğrayan tebaanın şikâyetlerini ve vezirler ile üst düzey devlet adamlarının davalarını karara bağlayan yüksek mahkeme aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Divan-ı İstifa",
-      "B": "Divan-ı Arz",
-      "C": "Divan-ı Mezalim",
-      "D": "Divan-ı İnşa",
-      "E": "Divan-ı İşraf"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Divan-ı İstifa"
+      },
+      {
+        "key": "B",
+        "text": "Divan-ı Arz"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı Mezalim"
+      },
+      {
+        "key": "D",
+        "text": "Divan-ı İnşa"
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı İşraf"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Divan-ı Mezalim)**\n\n**Kurumsal Bilgi:**\n- **Divan-ı Mezalim:** Hükümdarın bizzat başkanlık ettiği, kadıların bakmakta yetersiz kaldığı büyük siyasi davaların, devlet adamlarının halka yaptığı zulümlerin ve tebaanın yüksek şikâyetlerinin görüşüldüğü en üst adli organdır.\n- *Diğer Divanlar:*\n  - **Divan-ı İstifa:** Mali işler (Müstevfi)\n  - **Divan-ı Arz:** Ordu ve askeri işler (Emir-i Arz)\n  - **Divan-ı İnşa/Tuğra:** Yazışma ve diplomasi\n  - **Divan-ı İşraf:** Teftiş ve denetim (Müşrif)",
     "hasImage": false,
@@ -9600,13 +9660,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "1243 Kösedağ Savaşı'ndan sonra Anadolu Selçuklu Devleti'nin merkezi otoritesinin zayıflamasıyla kurulan ve denizcilik faaliyetleriyle öne çıkan; Balıkesir-Çanakkale yöresinde kurularak Osmanlı Devleti'ne ilk bağlanan ve Osmanlı'nın ilk donanma çekirdeğini oluşturan beylik aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Aydınoğulları",
-      "B": "Saruhanoğulları",
-      "C": "Karesioğulları",
-      "D": "Candaroğulları",
-      "E": "Menteşeoğulları"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Aydınoğulları"
+      },
+      {
+        "key": "B",
+        "text": "Saruhanoğulları"
+      },
+      {
+        "key": "C",
+        "text": "Karesioğulları"
+      },
+      {
+        "key": "D",
+        "text": "Candaroğulları"
+      },
+      {
+        "key": "E",
+        "text": "Menteşeoğulları"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Karesioğulları)**\n\n**Tarihsel Çözüm:**\n- Orhan Bey döneminde (1345) Osmanlı topraklarına katılan ilk beylik **Karesioğulları**dır.\n- Bu beyliğin katılmasıyla:\n  1. Anadolu Türk siyasi birliğini kurma yolundaki ilk adım atılmıştır.\n  2. Karesi donanması ve denizci komutanları (Evrenos Bey, Hacı İlbey vb.) Osmanlı hizmetine girmiş, **Osmanlı'nın ilk donanması oluşmuş ve Rumeli'ye (Çimpe Kalesi'ne) geçiş kolaylaşmıştır.**",
     "hasImage": false,
@@ -9620,13 +9695,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "Osmanlı Devleti'nin Balkanlar ve Rumeli'de fethettiği topraklarda kalıcılığı sağlamak, bölgeyi Türkleştirip İslamlaştırmak amacıyla Anadolu'dan getirdiği Türkmen aileleri fetholunan stratejik yerlere yerleştirmesi ve yerel halka hoşgörülü, adil davranması politikaları sırasıyla aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
-    "options": {
-      "A": "İskân Politikası — İstimâlet Politikası",
-      "B": "İltizam Sistemi — Malikâne Sistemi",
-      "C": "Dirlik Sistemi — Pençik Sistemi",
-      "D": "Devşirme Sistemi — Müdara Politikası",
-      "E": "İstimalet Politikası — İskân Politikası"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "İskân Politikası — İstimâlet Politikası"
+      },
+      {
+        "key": "B",
+        "text": "İltizam Sistemi — Malikâne Sistemi"
+      },
+      {
+        "key": "C",
+        "text": "Dirlik Sistemi — Pençik Sistemi"
+      },
+      {
+        "key": "D",
+        "text": "Devşirme Sistemi — Müdara Politikası"
+      },
+      {
+        "key": "E",
+        "text": "İstimalet Politikası — İskân Politikası"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (İskân Politikası — İstimâlet Politikası)**\n\n**Kavramsal Açıklama:**\n- **İskân Politikası:** Fethedilen Balkan/Rumeli topraklarına Anadolu'daki konargöçer Türkmen aşiretlerin yerleştirilerek bölgenin nüfus dengesinin ve güvenliğinin sağlanmasıdır.\n- **İstimâlet Politikası:** Gayrimüslim tebaaya din, vicdan, can ve mal emniyeti tanıyarak devlete gönülden bağlanmalarını sağlayan Osmanlı hoşgörü ve adalet politikasıdır.",
     "hasImage": false,
@@ -9640,13 +9730,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "Osmanlı Devleti'nde yönetici zümre içerisinde yer alan 'İlmiye' sınıfının üyeleri eğitim, adalet, din ve fetva alanlarındaki görevleri icra ederlerdi.\n\nBuna göre aşağıdakilerden hangisi Osmanlı Devleti'nde İlmiye sınıfına mensup görevlilerden biri değildir?",
-    "options": {
-      "A": "Şeyhülislam",
-      "B": "Kazasker",
-      "C": "Nişancı",
-      "D": "Kadı",
-      "E": "Müderris"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Şeyhülislam"
+      },
+      {
+        "key": "B",
+        "text": "Kazasker"
+      },
+      {
+        "key": "C",
+        "text": "Nişancı"
+      },
+      {
+        "key": "D",
+        "text": "Kadı"
+      },
+      {
+        "key": "E",
+        "text": "Müderris"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Nişancı)**\n\n**Sınıflar Tablosu:**\n- **İlmiye (Eğitim, Din, Adalet):** Şeyhülislam, Kazasker, Kadı, Müderris, Kassam, Nakibüleşraf.\n- **Kalemiye (Bürokrasi, Maliye, Yazışma):** **Nişancı**, Defterdar, Reisülküttab.\n- **Seyfiye (Askeri, Yönetim):** Sadrazam, Vezirler, Kaptan-ı Derya, Yeniçeri Ağası, Beylerbeyi, Sancakbeyi.",
     "hasImage": false,
@@ -9660,13 +9765,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "Osmanlı Devleti'nde 1876 yılında ilan edilen Kanun-i Esasi ile Türk tarihinde ilk kez anayasal düzene ve parlamenter sisteme geçilmiştir.\n\nBuna göre Kanun-i Esasi ile kurulan Genel Meclis (Meclis-i Umumi) hangi iki meclisten oluşmaktaydı?",
-    "options": {
-      "A": "Meclis-i Âyan — Meclis-i Mebusan",
-      "B": "Danışma Meclisi — Temsilciler Meclisi",
-      "C": "Divan-ı Hümayun — Meclis-i Vâlâ",
-      "D": "Meclis-i Has — Meclis-i Şûra",
-      "E": "Encümen-i Dâniş — Meclis-i Ahkâm-ı Adliye"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Meclis-i Âyan — Meclis-i Mebusan"
+      },
+      {
+        "key": "B",
+        "text": "Danışma Meclisi — Temsilciler Meclisi"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı Hümayun — Meclis-i Vâlâ"
+      },
+      {
+        "key": "D",
+        "text": "Meclis-i Has — Meclis-i Şûra"
+      },
+      {
+        "key": "E",
+        "text": "Encümen-i Dâniş — Meclis-i Ahkâm-ı Adliye"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Meclis-i Âyan — Meclis-i Mebusan)**\n\n**1876 Kanun-i Esasi Teşkilatı:**\n- **Meclis-i Mebusan:** Halk tarafından seçilen 4 yıllık vekillerden oluşurdu.\n- **Meclis-i Âyan:** Padişah tarafından ömür boyu seçilen yüksek bürokrat ve ulemadan oluşurdu.\n- Bu iki meclisin birleşimine **Meclis-i Umumi (Genel Parlamento)** denilirdi.",
     "hasImage": false,
@@ -9680,13 +9800,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu alanların hangisinde çayır bitki örtüsü altında gelişen ve humus bakımından zengin olan koyu renkli topraklar (Çernezyom) yer alır?",
-    "options": {
-      "A": "I",
-      "B": "II",
-      "C": "III",
-      "D": "IV",
-      "E": "V"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
     "correctAnswer": "E",
     "explanation": "📌 **Doğru Cevap: E (V - Erzurum-Kars Platosu / Çernezyom)**\n\n**Coğrafi Çözüm:**\n- **Çernezyom (Kara Toprak):** Sert karasal iklim bölgelerinde, yaz yağışlarıyla yeşeren **alpin/dağ çayırları** altında oluşan, yıkanmanın az ve organik madde birikiminin fazla olduğu, dünyanın en verimli zonal toprak tipidir.\n- Türkiye'de en tipik olarak **V numaralı alan olan Erzurum-Kars-Ardahan Platosu'nda** görülür.",
     "hasImage": true,
@@ -9700,13 +9835,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Türkiye'de nüfus artış hızının 1990'lı yıllardan sonra genel olarak düşmesinde;\n\nI. toplumun eğitim seviyesinin yükselmesi,\nII. şehirlerde yaşayan nüfusun artması,\nIII. tarım alanlarının azalması\n\nfaktörlerinden hangilerinin etkili olduğu söylenebilir?",
-    "options": {
-      "A": "Yalnız I",
-      "B": "Yalnız II",
-      "C": "Yalnız III",
-      "D": "I ve II",
-      "E": "II ve III"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "📌 **Doğru Cevap: D (I ve II)**\n\n**Nüfus Dinamikleri:**\n- **Eğitim seviyesinin yükselmesi (I):** Özellikle kadınların eğitim ve iş hayatına katılımı evlenme yaşını yükseltmiş ve doğurganlığı düşürmüştür.\n- **Şehirleşme (II):** Kırsalda çocuk işgücü ihtiyacı fazlayken şehir yaşamında konut, eğitim ve bakım maliyetleri ailelerin çocuk sayısını sınırlandırmasına yol açmıştır.\n- *Tarım alanlarının azalması (III)* doğrudan demografik nüfus artış hızını düşüren birincil etken değildir.",
     "hasImage": false,
@@ -9720,13 +9870,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Yenilenebilir enerji kaynaklarının kullanımı son yıllarda giderek önem kazanmakta ve yaygınlaşmaktadır. Türkiye de jeolojik yapısı sebebiyle çeşitli bölgelerde yenilenebilir enerji kaynaklarından biri olan jeotermal kaynaklara sahiptir.\n\nBuna göre aşağıdaki illerin hangisi bilinen jeotermal enerji kaynakları bakımından daha zengindir?",
-    "options": {
-      "A": "Sinop",
-      "B": "Kastamonu",
-      "C": "Elazığ",
-      "D": "Aydın",
-      "E": "Çankırı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Sinop"
+      },
+      {
+        "key": "B",
+        "text": "Kastamonu"
+      },
+      {
+        "key": "C",
+        "text": "Elazığ"
+      },
+      {
+        "key": "D",
+        "text": "Aydın"
+      },
+      {
+        "key": "E",
+        "text": "Çankırı"
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "📌 **Doğru Cevap: D (Aydın)**\n\n**Maden ve Enerji Coğrafyası:**\n- Jeotermal enerji, aktif fay hatları ve genç kırıklı (graben) tektonik arazilerde yer altı sularının magmatik sıcaklıkla ısınmasıyla oluşur.\n- Türkiye'de jeotermal potansiyeli en yüksek bölge **Ege Graben Kuşağı (Büyük ve Küçük Menderes, Gediz)** olup **Aydın (Germencik, Buharkent)** ve **Denizli (Sarayköy)** Türkiye'nin ilk ve en büyük jeotermal santrallerine ev sahipliği yapar.",
     "hasImage": false,
@@ -9740,13 +9905,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Türkiye'nin mekânsal gelişim farklılıklarını azaltmak amacıyla bölgesel kalkınma projeleri uygulanmaktadır. Bunlardan birini de sekiz ili kapsayan Konya Ovası Projesi (KOP) oluşturmaktadır.\n\nAşağıdakilerden hangisi KOP kapsamındaki illerden biri değildir?",
-    "options": {
-      "A": "Kayseri",
-      "B": "Kırıkkale",
-      "C": "Yozgat",
-      "D": "Kırşehir",
-      "E": "Nevşehir"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kayseri"
+      },
+      {
+        "key": "B",
+        "text": "Kırıkkale"
+      },
+      {
+        "key": "C",
+        "text": "Yozgat"
+      },
+      {
+        "key": "D",
+        "text": "Kırşehir"
+      },
+      {
+        "key": "E",
+        "text": "Nevşehir"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Kayseri)**\n\n**KOP (Konya Ovası Projesi) Kapsamındaki 8 İl:**\n1. Konya\n2. Karaman\n3. Aksaray\n4. Niğde\n5. Nevşehir\n6. Yozgat\n7. Kırşehir\n8. Kırıkkale\n\n*Not:* Kayseri, Orta Anadolu Kalkınma Ajansı (ORAN) kapsamında olup KOP Bölge İdaresi illeri arasında yer almaz.",
     "hasImage": false,
@@ -9760,13 +9940,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "yurttaslik_genel",
     "topicName": "Temel Yurttaşlık",
     "questionText": "I. Tokat Barosu\nII. Gazi Üniversitesi\nIII. Yozgat Belediyesi\n\nTürk idari teşkilatında yer alan yukarıdaki birimlerden hangileri yönetmelik çıkarabilir?",
-    "options": {
-      "A": "Yalnız II",
-      "B": "Yalnız III",
-      "C": "I ve II",
-      "D": "I ve III",
-      "E": "I, II ve III"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
     "correctAnswer": "E",
     "explanation": "📌 **Doğru Cevap: E (I, II ve III)**\n\n**1982 Anayasası Madde 124:**\n- *'Cumhurbaşkanı, bakanlıklar ve **kamu tüzel kişileri**, kendi görev alanlarını ilgilendiren kanunların ve Cumhurbaşkanlığı kararnamelerinin uygulanmasını sağlamak ve bunlara aykırı olmamak şartıyla, yönetmelikler çıkarabilirler.'*\n- **Barolar (Kamu Kurumu Niteliğinde Meslek Kuruluşu), Üniversiteler ve Belediyeler** Anayasal olarak birer **Kamu Tüzel Kişisi (KTK)** oldukları için her üçü de kendi görev alanlarında yönetmelik çıkarma yetkisine sahiptir.",
     "hasImage": false,
@@ -9780,13 +9975,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Türkiye'de eğimli yamaçlarda yerçekiminin etkisiyle toprak, kaya ve ana materyalin kütle halinde aşağıya doğru kayması şeklinde gerçekleşen heyelan olaylarının en fazla ilkbahar mevsiminde görülmesinin temel nedeni aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Rüzgâr hızının artması",
-      "B": "Kar erimeleri ve toprak suya doygunluğunun artması",
-      "C": "Bitki örtüsünün yaprak dökmesi",
-      "D": "Deprem aktivitesinin yoğunlaşması",
-      "E": "Tarımsal sulamanın başlaması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Rüzgâr hızının artması"
+      },
+      {
+        "key": "B",
+        "text": "Kar erimeleri ve toprak suya doygunluğunun artması"
+      },
+      {
+        "key": "C",
+        "text": "Bitki örtüsünün yaprak dökmesi"
+      },
+      {
+        "key": "D",
+        "text": "Deprem aktivitesinin yoğunlaşması"
+      },
+      {
+        "key": "E",
+        "text": "Tarımsal sulamanın başlaması"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Kar erimeleri ve toprak suya doygunluğunun artması)**\n\n**Heyelan Faktörleri:**\n- Heyelan en çok **Doğu ve Batı Karadeniz'de**, eğimli arazide, killi topraklarda ve tabakaların eğim yönünde uzandığı yerlerde görülür.\n- İlkbaharda karların hızla erimesi ve yağışların devam etmesiyle killi tabaka aşırı su çekerek kayganlaşır ve kütle hareketine yol açar.",
     "hasImage": false,
@@ -9800,13 +10010,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "yurttaslik_genel",
     "topicName": "Temel Yurttaşlık",
     "questionText": "Normlar hiyerarşisinde yer alan hukuk kurallarının üstten alta doğru sıralanışı aşağıdakilerin hangisinde doğru verilmiştir?",
-    "options": {
-      "A": "Anayasa — Kanun / CBK — Yönetmelik — Genelge",
-      "B": "Kanun — Anayasa — CBK — Yönetmelik",
-      "C": "Anayasa — Yönetmelik — Kanun — Yönerge",
-      "D": "CBK — Anayasa — Kanun — Yönetmelik",
-      "E": "Anayasa — Kanun — Yönerge — Yönetmelik"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Anayasa — Kanun / CBK — Yönetmelik — Genelge"
+      },
+      {
+        "key": "B",
+        "text": "Kanun — Anayasa — CBK — Yönetmelik"
+      },
+      {
+        "key": "C",
+        "text": "Anayasa — Yönetmelik — Kanun — Yönerge"
+      },
+      {
+        "key": "D",
+        "text": "CBK — Anayasa — Kanun — Yönetmelik"
+      },
+      {
+        "key": "E",
+        "text": "Anayasa — Kanun — Yönerge — Yönetmelik"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Anayasa — Kanun / CBK — Yönetmelik — Genelge)**\n\n**Kelsen Normlar Piramidi (Hukuk Hiyerarşisi):**\n1. **Anayasa** (En üst norm, md. 11)\n2. **Milletlerarası Andlaşmalar & Kanunlar & Cumhurbaşkanlığı Kararnameleri (CBK)**\n3. **Yönetmelikler**\n4. **Adsız Düzenleyici İşlemler (Genelge, Yönerge, Tebliğ, Talimat)**",
     "hasImage": false,
@@ -9820,13 +10045,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "yurttaslik_genel",
     "topicName": "Temel Yurttaşlık",
     "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi 'Siyasi Haklar ve Ödevler' (Katılma Hakları) bölümünde düzenlenen haklardan biridir?",
-    "options": {
-      "A": "Mülkiyet hakkı",
-      "B": "Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı",
-      "C": "Sendika kurma hakkı",
-      "D": "Çalışma ve sözleşme hürriyeti",
-      "E": "Konut dokunulmazlığı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Mülkiyet hakkı"
+      },
+      {
+        "key": "B",
+        "text": "Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı"
+      },
+      {
+        "key": "C",
+        "text": "Sendika kurma hakkı"
+      },
+      {
+        "key": "D",
+        "text": "Çalışma ve sözleşme hürriyeti"
+      },
+      {
+        "key": "E",
+        "text": "Konut dokunulmazlığı"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı - Md. 74)**\n\n**Hakların Tasnifi (1982 Anayasası):**\n- **Kişi Hakları (Negatif Statü):** Mülkiyet, Konut dokunulmazlığı, Kişi hürriyeti.\n- **Sosyal ve Ekonomik Haklar (Pozitif Statü):** Sendika kurma, Çalışma ve sözleşme hürriyeti, Eğitim hakkı.\n- **Siyasi Haklar (Aktif Statü / Katılma):** **Dilekçe ve Bilgi Edinme Hakkı (Md. 74)**, Seçme ve Seçilme, Vergi Ödevi, Vatan Hizmeti, Kamu Hizmetine Girme.",
     "hasImage": false,
@@ -9840,13 +10080,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "guncel_genel",
     "topicName": "Güncel Bilgiler",
     "questionText": "UNESCO Dünya Mirası Komitesi tarafından 2023 yılında Dünya Mirası Asıl Listesi'ne dâhil edilen, Ankara'nın Polatlı ilçesinde yer alan ve Frigya Krallığı'nın başkenti olan antik kent aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Gordion",
-      "B": "Hattuşa",
-      "C": "Çatalhöyük",
-      "D": "Sardes",
-      "E": "Knidos"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Gordion"
+      },
+      {
+        "key": "B",
+        "text": "Hattuşa"
+      },
+      {
+        "key": "C",
+        "text": "Çatalhöyük"
+      },
+      {
+        "key": "D",
+        "text": "Sardes"
+      },
+      {
+        "key": "E",
+        "text": "Knidos"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Gordion)**\n\n**Güncel Kültür Bilgisi:**\n- Ankara'nın Polatlı ilçesi sınırlarında yer alan **Gordion Antik Kenti**, Eylül 2023'te Suudi Arabistan'da düzenlenen 45. UNESCO Dünya Miras Komitesi toplantısında Türkiye'nin **20. UNESCO Dünya Mirası** olarak listeye kabul edilmiştir.",
     "hasImage": false,
@@ -9860,13 +10115,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "guncel_genel",
     "topicName": "Güncel Bilgiler",
     "questionText": "Türkiye'nin ilk yerli ve millî yüksek çözünürlüklü yer gözlem uydusu olarak Nisan 2023'te uzaya fırlatılan ve metre altı çözünürlüğe sahip elektro-optik kamerası bulunan uydumuz aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "RASAT",
-      "B": "GÖKTÜRK-1",
-      "C": "İMECE",
-      "D": "TÜRKSAT 5B",
-      "E": "BİLSAT"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "RASAT"
+      },
+      {
+        "key": "B",
+        "text": "GÖKTÜRK-1"
+      },
+      {
+        "key": "C",
+        "text": "İMECE"
+      },
+      {
+        "key": "D",
+        "text": "TÜRKSAT 5B"
+      },
+      {
+        "key": "E",
+        "text": "BİLSAT"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (İMECE)**\n\n**Güncel Bilim ve Teknoloji:**\n- TÜBİTAK UZAY tarafından geliştirilen **İMECE**, Türkiye'nin metre altı çözünürlüklü ilk yerli yer gözlem uydusu olarak 15 Nisan 2023 tarihinde başarıyla yörüngeye fırlatılmıştır.",
     "hasImage": false,
@@ -9880,13 +10150,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Mustafa Kemal Paşa'nın 19 Mayıs 1919'da Samsun'a çıktıktan sonra bölgedeki asayişsizliğin Türklerden değil Rum çetelerinden kaynaklandığını, Türklerin yabancı mandasını kabul etmeyeceğini ve İzmir'in işgalinin haksız olduğunu İstanbul Hükûmeti'ne bildirdiği ilk resmî belgesi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Havza Genelgesi",
-      "B": "Samsun Raporu",
-      "C": "Amasya Genelgesi",
-      "D": "Erzurum Kongresi Bildirisi",
-      "E": "Amasya Protokolü"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Havza Genelgesi"
+      },
+      {
+        "key": "B",
+        "text": "Samsun Raporu"
+      },
+      {
+        "key": "C",
+        "text": "Amasya Genelgesi"
+      },
+      {
+        "key": "D",
+        "text": "Erzurum Kongresi Bildirisi"
+      },
+      {
+        "key": "E",
+        "text": "Amasya Protokolü"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Samsun Raporu)**\n\n**Milli Mücadele Kronolojisi:**\n- 22 Mayıs 1919'da Mustafa Kemal Paşa tarafından İstanbul Hükümeti'ne gönderilen **Samsun Raporu**, 9. Ordu Müfettişi sıfatıyla bölge gerçeklerini İtilaf Devletleri ve Saray'a ilk kez açıkça haykıran resmî belgedir.",
     "hasImage": false,
@@ -9900,13 +10185,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Amasya Genelgesi'nde yer alan 'Milletin istiklâlini yine milletin azim ve kararı kurtaracaktır.' maddesi Millî Mücadele'nin hangi temel özelliğini ortaya koymaktadır?",
-    "options": {
-      "A": "Sadece gerekçesini",
-      "B": "Amaç ve Yöntemini",
-      "C": "Dış politikasını",
-      "D": "Askeri teşkilatlanma planını",
-      "E": "Uluslararası antlaşma şartlarını"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Sadece gerekçesini"
+      },
+      {
+        "key": "B",
+        "text": "Amaç ve Yöntemini"
+      },
+      {
+        "key": "C",
+        "text": "Dış politikasını"
+      },
+      {
+        "key": "D",
+        "text": "Askeri teşkilatlanma planını"
+      },
+      {
+        "key": "E",
+        "text": "Uluslararası antlaşma şartlarını"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Amaç ve Yöntemini)**\n\n**Amasya Genelgesi Analizi:**\n- *'Milletin istiklâli'* ➡️ **Amaç (Hedef)**\n- *'Milletin azim ve kararı'* ➡️ **Yöntem (Metot)** ve aynı zamanda millet egemenliğine dayalı yeni bir devletin ilk sinyalidir.\n- *Gerekçe ise:* 'Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir' maddesidir.",
     "hasImage": false,
@@ -9920,13 +10220,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Son Osmanlı Mebusan Meclisi tarafından 28 Ocak 1920'de kabul edilen ve Millî Mücadele'nin asgari barış şartlarını belirleyen Misak-ı Millî kararlarında aşağıdaki konulardan hangisiyle ilgili bir hüküm yer almamıştır?",
-    "options": {
-      "A": "Kapitülasyonlar",
-      "B": "Boğazlar",
-      "C": "Azınlık hakları",
-      "D": "Ulusal egemenlik / Hükümet sistemi",
-      "E": "Arap toprakları ve Batı Trakya"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kapitülasyonlar"
+      },
+      {
+        "key": "B",
+        "text": "Boğazlar"
+      },
+      {
+        "key": "C",
+        "text": "Azınlık hakları"
+      },
+      {
+        "key": "D",
+        "text": "Ulusal egemenlik / Hükümet sistemi"
+      },
+      {
+        "key": "E",
+        "text": "Arap toprakları ve Batı Trakya"
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "📌 **Doğru Cevap: D (Ulusal egemenlik / Hükümet sistemi)**\n\n**Misak-ı Millî Formülü (KAPSBAT):**\n- **K**apitülasyonlar (kaldırılmalıdır)\n- **A**zınlıklar (komşu ülkelerdeki Müslümanlara tanınan haklar kadar)\n- **P**lebisit / Halkoyu (Kars, Ardahan, Batum, Batı Trakya, Arap toprakları)\n- **S**ınırlar (Mondros anındaki Türk sınırları)\n- **B**oğazlar (güvenliği sağlanırsa ticarete açılır)\n- *Not:* Misak-ı Milli tamamen **vatanın bağımsızlığı ve toprak bütünlüğü** ile ilgilidir; meclis saltanat yanlılarını ürkütmemek için **ulusal egemenlik/rejim** konularına Misak-ı Milli'de yer vermemiştir.",
     "hasImage": false,
@@ -9940,13 +10255,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Kurtuluş Savaşı Batı Cephesi'nde Yunan taarruzuna karşı kazanılan ve İtilaf Devletleri'nin TBMM'yi Londra Konferansı'na davet etmesine, Sovyet Rusya ile Moskova Antlaşması'nın imzalanmasına ve İstiklâl Marşı'nın kabul edilmesine zemin hazırlayan zafer aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "I. İnönü Muharebesi",
-      "B": "II. İnönü Muharebesi",
-      "C": "Sakarya Meydan Muharebesi",
-      "D": "Büyük Taarruz",
-      "E": "Aslıhanlar Muharebesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "I. İnönü Muharebesi"
+      },
+      {
+        "key": "B",
+        "text": "II. İnönü Muharebesi"
+      },
+      {
+        "key": "C",
+        "text": "Sakarya Meydan Muharebesi"
+      },
+      {
+        "key": "D",
+        "text": "Büyük Taarruz"
+      },
+      {
+        "key": "E",
+        "text": "Aslıhanlar Muharebesi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (I. İnönü Muharebesi)**\n\n**I. İnönü Zaferi Sonuçları (MİLÂT Şifresi):**\n- **M**oskova Antlaşması (SSCB ile)\n- **İ**stiklal Marşı'nın Kabulü (12 Mart 1921)\n- **L**ondra Konferansı'na TBMM'nin çağrılması\n- **A**fganistan ile Dostluk Antlaşması\n- **T**eşkilat-ı Esasiye Kanunu (1921 Anayasası)",
     "hasImage": false,
@@ -9960,13 +10290,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Mustafa Kemal Paşa'nın 'Hatt-ı müdafaa yoktur, sath-ı müdafaa vardır. O satıh bütün vatandır. Vatanın her karış toprağı vatandaşın kanıyla ıslanmadıkça terk olunamaz.' tarihi emrini verdiği muharebe aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Çanakkale Savaşları",
-      "B": "I. İnönü Muharebesi",
-      "C": "Sakarya Meydan Muharebesi",
-      "D": "Büyük Taarruz",
-      "E": "Dumlupınar Meydan Muharebesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Çanakkale Savaşları"
+      },
+      {
+        "key": "B",
+        "text": "I. İnönü Muharebesi"
+      },
+      {
+        "key": "C",
+        "text": "Sakarya Meydan Muharebesi"
+      },
+      {
+        "key": "D",
+        "text": "Büyük Taarruz"
+      },
+      {
+        "key": "E",
+        "text": "Dumlupınar Meydan Muharebesi"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Sakarya Meydan Muharebesi)**\n\n**Askeri Tarih:**\n- 23 Ağustos - 13 Eylül 1921 tarihleri arasında 22 gün 22 gece süren **Sakarya Meydan Muharebesi**'nde Başkomutan Mustafa Kemal Paşa bu emirle klasik cephe savunması yerine alan savunması taktiğini uygulamış ve 1683 Viyana bozgunundan beri süren geri çekilişi durdurmuştur.",
     "hasImage": false,
@@ -9980,13 +10325,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Lozan Barış Konferansı'nda İtilaf Devletleri'nin TBMM ile birlikte İstanbul Hükûmeti'ni de davet ederek Türk tarafı arasında ikilik çıkarmak istemesi üzerine TBMM tarafından 1 Kasım 1922 tarihinde alınan karar aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Cumhuriyetin ilanı",
-      "B": "Saltanatın kaldırılması",
-      "C": "Halifeliğin kaldırılması",
-      "D": "Ankara'nın başkent yapılması",
-      "E": "Tekalif-i Milliye Emirlerinin çıkarılması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhuriyetin ilanı"
+      },
+      {
+        "key": "B",
+        "text": "Saltanatın kaldırılması"
+      },
+      {
+        "key": "C",
+        "text": "Halifeliğin kaldırılması"
+      },
+      {
+        "key": "D",
+        "text": "Ankara'nın başkent yapılması"
+      },
+      {
+        "key": "E",
+        "text": "Tekalif-i Milliye Emirlerinin çıkarılması"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Saltanatın kaldırılması)**\n\n**Siyasi Gelişme:**\n- İtilaf Devletleri'nin Lozan'a Tevfik Paşa Hükümeti'ni de çağırarak Sevr benzeri tavizler koparma planı, TBMM'nin **1 Kasım 1922'de Saltanatı kaldırmasıyla** boşa çıkarılmış; böylece Lozan'da Türk milletini yalnızca TBMM temsil etmiştir.",
     "hasImage": false,
@@ -10000,13 +10360,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Türkiye Cumhuriyeti'nin ilk muhalefet partisi olarak Kâzım Karabekir, Rauf Orbay, Ali Fuat Cebesoy ve Refet Bele gibi Millî Mücadele komutanları tarafından 1924 yılında kurulan siyasi parti aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Serbest Cumhuriyet Fırkası",
-      "B": "Terakkiperver Cumhuriyet Fırkası",
-      "C": "Ahali Cumhuriyet Fırkası",
-      "D": "Demokrat Parti",
-      "E": "Milli Kalkınma Partisi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Serbest Cumhuriyet Fırkası"
+      },
+      {
+        "key": "B",
+        "text": "Terakkiperver Cumhuriyet Fırkası"
+      },
+      {
+        "key": "C",
+        "text": "Ahali Cumhuriyet Fırkası"
+      },
+      {
+        "key": "D",
+        "text": "Demokrat Parti"
+      },
+      {
+        "key": "E",
+        "text": "Milli Kalkınma Partisi"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Terakkiperver Cumhuriyet Fırkası)**\n\n**Çok Partili Hayat Denemeleri:**\n- 17 Kasım 1924'te kurulan **Terakkiperver Cumhuriyet Fırkası**, Türkiye Cumhuriyeti'nin ilk muhalefet partisidir. Ekonomide liberalizmi, yönetimde ademimerkeziyetçiliği savunmuştur.",
     "hasImage": false,
@@ -10020,13 +10395,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "3 Mart 1924 tarihinde kabul edilen Tevhid-i Tedrisat (Öğretim Birliği) Kanunu ile aşağıdaki gelişmelerden hangisi gerçekleşmiştir?",
-    "options": {
-      "A": "Yeni Türk harfleri kabul edilmiştir.",
-      "B": "Türkiye'deki tüm eğitim ve öğretim kurumları Millî Eğitim Bakanlığına bağlanmıştır.",
-      "C": "Üniversite Reformu yapılarak İstanbul Üniversitesi kurulmuştur.",
-      "D": "Millet Mektepleri açılmıştır.",
-      "E": "Türk Dil Kurumu kurulmuştur."
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Yeni Türk harfleri kabul edilmiştir."
+      },
+      {
+        "key": "B",
+        "text": "Türkiye'deki tüm eğitim ve öğretim kurumları Millî Eğitim Bakanlığına bağlanmıştır."
+      },
+      {
+        "key": "C",
+        "text": "Üniversite Reformu yapılarak İstanbul Üniversitesi kurulmuştur."
+      },
+      {
+        "key": "D",
+        "text": "Millet Mektepleri açılmıştır."
+      },
+      {
+        "key": "E",
+        "text": "Türk Dil Kurumu kurulmuştur."
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Tüm eğitim kurumları MEB'e bağlanmıştır)**\n\n**Eğitim Alanındaki İnkılaplar:**\n- 3 Mart 1924 tarih ve 430 sayılı **Tevhid-i Tedrisat Kanunu** ile medreseler ve yabancı/azınlık okulları dahil Türkiye sınırları içindeki tüm mektep ve medreseler Maarif Vekâletine (MEB) bağlanarak eğitimde birlik, laiklik ve millilik sağlanmıştır.",
     "hasImage": false,
@@ -10040,13 +10430,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "1 Temmuz 1926 tarihinde yürürlüğe giren ve Türkiye karasularında ve limanlarında yük ve yolcu taşıma hakkını yalnızca Türk gemilerine ve Türk vatandaşlarına tanıyan kanun aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Teşvik-i Sanayi Kanunu",
-      "B": "Kabotaj Kanunu",
-      "C": "Gümrük Tarife Kanunu",
-      "D": "Ticaret-i Bahriye Kanunu",
-      "E": "Men-i İsrafat Kanunu"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Teşvik-i Sanayi Kanunu"
+      },
+      {
+        "key": "B",
+        "text": "Kabotaj Kanunu"
+      },
+      {
+        "key": "C",
+        "text": "Gümrük Tarife Kanunu"
+      },
+      {
+        "key": "D",
+        "text": "Ticaret-i Bahriye Kanunu"
+      },
+      {
+        "key": "E",
+        "text": "Men-i İsrafat Kanunu"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Kabotaj Kanunu)**\n\n**Ekonomik ve Hukuki Bağımsızlık:**\n- **Kabotaj Kanunu:** Türk denizlerinde kapitülasyon kalıntısı olan yabancı tekelini sona erdirmiş, deniz ticareti ve liman işletmeciliğini millileştirmiştir (Milliyetçilik ilkesi). Her yıl 1 Temmuz 'Denizcilik ve Kabotaj Bayramı' olarak kutlanır.",
     "hasImage": false,
@@ -10060,13 +10465,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Toplumda hiçbir zümreye, aileye veya sınıfa ayrıcalık tanınmamasını, kanun önünde eşitliği, sosyal adaleti ve dayanışmayı temel alan Atatürk ilkesi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Devletçilik",
-      "B": "Halkçılık",
-      "C": "İnkılapçılık",
-      "D": "Laiklik",
-      "E": "Cumhuriyetçilik"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Devletçilik"
+      },
+      {
+        "key": "B",
+        "text": "Halkçılık"
+      },
+      {
+        "key": "C",
+        "text": "İnkılapçılık"
+      },
+      {
+        "key": "D",
+        "text": "Laiklik"
+      },
+      {
+        "key": "E",
+        "text": "Cumhuriyetçilik"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Halkçılık)**\n\n**İlkeler Analizi:**\n- **Halkçılık:** Sınıfsız, imtiyazsız, kaynaşmış bir kitle hedefler. Eşitlik, sosyal adalet, Medeni Kanun, kadınlara seçme-seçilme hakkı, Soyadı Kanunu ve unvanların (ağa, paşa, bey) kaldırılması doğrudan Halkçılık ilkesi kapsamındadır.",
     "hasImage": false,
@@ -10080,13 +10500,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "1936 yılında imzalanan ve Boğazlar Komisyonunu kaldırarak Türk Boğazlarının kontrolünü, güvenliğini ve asker bulundurma hakkını tamamen Türkiye Cumhuriyeti'ne devreden uluslararası sözleşme aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Sadabat Paktı",
-      "B": "Montrö Boğazlar Sözleşmesi",
-      "C": "Balkan Antantı",
-      "D": "Lozan Boğazlar Sözleşmesi",
-      "E": "Ankara Antlaşması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Sadabat Paktı"
+      },
+      {
+        "key": "B",
+        "text": "Montrö Boğazlar Sözleşmesi"
+      },
+      {
+        "key": "C",
+        "text": "Balkan Antantı"
+      },
+      {
+        "key": "D",
+        "text": "Lozan Boğazlar Sözleşmesi"
+      },
+      {
+        "key": "E",
+        "text": "Ankara Antlaşması"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Montrö Boğazlar Sözleşmesi)**\n\n**Dış Politika:**\n- 20 Temmuz 1936'da imzalanan **Montrö Boğazlar Sözleşmesi** ile Lozan'daki silahsızlandırılmış Boğazlar statüsü ve Uluslararası Boğazlar Komisyonu lağvedilmiş, Boğazlar üzerindeki tam Türk egemenliği tescillenmiştir.",
     "hasImage": false,
@@ -10100,13 +10535,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Mustafa Kemal Atatürk'ün 'Kırk asırlık Türk yurdu düşman elinde esir kalamaz.' ve 'Benim şahsi meselemdir.' diyerek çözümü için yoğun diplomasi yürüttüğü ve 1939'da anavatana katılan toprak parçası aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Musul",
-      "B": "Batum",
-      "C": "Hatay",
-      "D": "Kıbrıs",
-      "E": "On İki Ada"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Musul"
+      },
+      {
+        "key": "B",
+        "text": "Batum"
+      },
+      {
+        "key": "C",
+        "text": "Hatay"
+      },
+      {
+        "key": "D",
+        "text": "Kıbrıs"
+      },
+      {
+        "key": "E",
+        "text": "On İki Ada"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Hatay)**\n\n**Hatay Meselesi:**\n- 1938'de bağımsız Hatay Devleti kurulmuş (Cumhurbaşkanı Tayfur Sökmen), Atatürk'ün vefatından sonra Hatay Millet Meclisi'nin 23 Haziran 1939 tarihli oy birliği kararıyla Hatay anavatana katılmıştır.",
     "hasImage": false,
@@ -10120,13 +10570,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "degerler_egitimi",
     "topicName": "Değerler Eğitimi ve Etik",
     "questionText": "Değerler eğitiminde öğrencilerin ahlaki ikilemler içeren hikâyeler üzerinden tartışarak kendi ahlaki muhakeme basamaklarını yükseltmelerini savunan 'Ahlaki Gelişim Kuramı' aşağıdaki düşünürlerden hangisine aittir?",
-    "options": {
-      "A": "Lawrence Kohlberg",
-      "B": "Jean Piaget",
-      "C": "Lev Vygotsky",
-      "D": "Albert Bandura",
-      "E": "John Dewey"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Lawrence Kohlberg"
+      },
+      {
+        "key": "B",
+        "text": "Jean Piaget"
+      },
+      {
+        "key": "C",
+        "text": "Lev Vygotsky"
+      },
+      {
+        "key": "D",
+        "text": "Albert Bandura"
+      },
+      {
+        "key": "E",
+        "text": "John Dewey"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Lawrence Kohlberg)**\n\n**Pedagojik Çözüm:**\n- Kohlberg, ahlak gelişimini **Gelenek Öncesi, Geleneksel ve Gelenek Sonrası** olmak üzere 3 düzey ve 6 evrede ele almıştır. Heinz ikilemi gibi ahlaki çıkmazlarla çocukların akıl yürütme süreçlerini ölçmüştür.",
     "hasImage": false,
@@ -10140,13 +10605,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "degerler_egitimi",
     "topicName": "Değerler Eğitimi ve Etik",
     "questionText": "Değer öğretimi yaklaşımlarından 'Değer Belirginleştirme (Açıklama)' yaklaşımının aşamaları sırasıyla aşağıdakilerin hangisinde doğru verilmiştir?",
-    "options": {
-      "A": "Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme (Eylem)",
-      "B": "Koşullanma — Pekiştirme — Model Alma",
-      "C": "Taklit — Özümseme — Uyumsama",
-      "D": "Bilgi — Kavrama — Uygulama",
-      "E": "Farkında Olma — Karşı Koyma — Kabullenme"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme (Eylem)"
+      },
+      {
+        "key": "B",
+        "text": "Koşullanma — Pekiştirme — Model Alma"
+      },
+      {
+        "key": "C",
+        "text": "Taklit — Özümseme — Uyumsama"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi — Kavrama — Uygulama"
+      },
+      {
+        "key": "E",
+        "text": "Farkında Olma — Karşı Koyma — Kabullenme"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme)**\n\n**Raths, Harmin ve Simon Değer Açıklama Modeli (7 Basamak):**\n1. *Seçme:* Özgürce seçme, alternatifler arasından seçme, sonuçlarını düşünerek seçme.\n2. *Ödüllendirme:* Seçimiyle gurur duyma, başkalarına açıklamaktan çekinmeme.\n3. *Eylem:* Seçimine uygun davranma, bunu yaşam biçimi haline getirme.",
     "hasImage": false,
@@ -10160,13 +10640,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "degerler_egitimi",
     "topicName": "Değerler Eğitimi ve Etik",
     "questionText": "Kamu Görevlileri Etik Kurulu tarafından belirlenen etik davranış ilkelerine göre aşağıdakilerden hangisi kamu yöneticilerinden beklenen etik ilkelerden biri değildir?",
-    "options": {
-      "A": "Görevin yerine getirilmesinde kamu hizmeti bilinci",
-      "B": "Halka hizmet bilinci ve şeffaflık",
-      "C": "Kişisel ve siyasi çıkarlar doğrultusunda takdir yetkisini esnetme",
-      "D": "Nezaket, saygı ve dürüstlük",
-      "E": "Çıkar çatışmasından kaçınma ve kaynakların etkili kullanımı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Görevin yerine getirilmesinde kamu hizmeti bilinci"
+      },
+      {
+        "key": "B",
+        "text": "Halka hizmet bilinci ve şeffaflık"
+      },
+      {
+        "key": "C",
+        "text": "Kişisel ve siyasi çıkarlar doğrultusunda takdir yetkisini esnetme"
+      },
+      {
+        "key": "D",
+        "text": "Nezaket, saygı ve dürüstlük"
+      },
+      {
+        "key": "E",
+        "text": "Çıkar çatışmasından kaçınma ve kaynakların etkili kullanımı"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Takdir yetkisini kişisel/siyasi çıkara göre esnetme)**\n\n**Kamu Görevlileri Etik İlkeleri:**\n- Takdir yetkisi yalnızca kamu yararı, hizmet gerekleri, liyakat ve eşitlik ilkeleri gözetilerek kullanılır. Kişisel, zümresel veya siyasi amaçlarla kullanılması açık bir etik ve mevzuat ihlalidir.",
     "hasImage": false,
@@ -10180,13 +10675,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "degerler_egitimi",
     "topicName": "Değerler Eğitimi ve Etik",
     "questionText": "Aşağıdakilerden hangisi 5176 sayılı Kanun'a göre kurulan Kamu Görevlileri Etik Kurulu'nun görev alanı dışında kalmaktadır?",
-    "options": {
-      "A": "Bakanlık genel müdürleri",
-      "B": "Valiler ve kaymakamlar",
-      "C": "Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları",
-      "D": "Belediye başkanları",
-      "E": "İl milli eğitim müdürleri"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlık genel müdürleri"
+      },
+      {
+        "key": "B",
+        "text": "Valiler ve kaymakamlar"
+      },
+      {
+        "key": "C",
+        "text": "Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları"
+      },
+      {
+        "key": "D",
+        "text": "Belediye başkanları"
+      },
+      {
+        "key": "E",
+        "text": "İl milli eğitim müdürleri"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları)**\n\n**5176 Sayılı Kanun Madde 1:**\n- *'Cumhurbaşkanı, Türkiye Büyük Millet Meclisi üyeleri, Bakanlar, Türk Silahlı Kuvvetleri ve yargı mensupları ile üniversiteler hakkında bu Kanun hükümleri uygulanmaz.'*",
     "hasImage": false,
@@ -10200,13 +10710,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Öğretim sürecinde öğrencilerin hazırbulunuşluk düzeylerine uygun olarak adım adım desteklenmesi ve öğrenci bağımsız hale geldikçe bu desteğin kademeli olarak geri çekilmesi yaklaşımına ne ad verilir?",
-    "options": {
-      "A": "Bilişsel Çıraklık / İskele Kurma (Scaffolding)",
-      "B": "Programlı Öğretim",
-      "C": "Tam Öğrenme",
-      "D": "Basamaklı Öğretim",
-      "E": "Beyin Temelli Öğrenme"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilişsel Çıraklık / İskele Kurma (Scaffolding)"
+      },
+      {
+        "key": "B",
+        "text": "Programlı Öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Tam Öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Basamaklı Öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Beyin Temelli Öğrenme"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (İskele Kurma / Scaffolding)**\n\n**Vygotsky ve Bruner Yaklaşımı:**\n- **İskele Kurma (Yapı İskelesi):** Öğrencinin Yakınsak Gelişim Alanı (ZPD) içinde bir yetişkin veya akran rehberliğinde desteklenmesi, öğrenci ustalaştıkça desteğin adım adım azaltılmasıdır.",
     "hasImage": false,
@@ -10220,13 +10745,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Bloom'un Yenilenmiş Bilişsel Taksonomisine göre; bir öğrencinin iki farklı eğitim politikasının güçlü ve zayıf yönlerini kriterlere dayanarak eleştirmesi ve yargıya varması hangi basamağa karşılık gelir?",
-    "options": {
-      "A": "Hatırlama",
-      "B": "Anlama",
-      "C": "Uygulama",
-      "D": "Değerlendirme",
-      "E": "Yaratma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Hatırlama"
+      },
+      {
+        "key": "B",
+        "text": "Anlama"
+      },
+      {
+        "key": "C",
+        "text": "Uygulama"
+      },
+      {
+        "key": "D",
+        "text": "Değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Yaratma"
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "📌 **Doğru Cevap: D (Değerlendirme)**\n\n**Yenilenmiş Bloom Taksonomisi:**\n1. Hatırlama\n2. Anlama\n3. Uygulama\n4. Çözümleme (Analiz)\n5. **Değerlendirme (Yargılama, eleştirme, kriterlere göre karar verme)**\n6. Yaratma (Özgün ürün tasarlama)",
     "hasImage": false,
@@ -10240,13 +10780,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Öğretim programında yer almayan, yazılı ve resmî olmayan ancak okulun iklimi, kuralları, öğretmen tutumları ve okul kültürü yoluyla öğrencilere aktarılan değer ve davranışları kapsayan program türü aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Resmî Program",
-      "B": "Örtük Program (Gizil Program)",
-      "C": "İhmal Edilen (Görmezden Gelinen) Program",
-      "D": "Ekstra Program",
-      "E": "Desteklenen Program"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî Program"
+      },
+      {
+        "key": "B",
+        "text": "Örtük Program (Gizil Program)"
+      },
+      {
+        "key": "C",
+        "text": "İhmal Edilen (Görmezden Gelinen) Program"
+      },
+      {
+        "key": "D",
+        "text": "Ekstra Program"
+      },
+      {
+        "key": "E",
+        "text": "Desteklenen Program"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Örtük Program)**\n\n**Program Türleri (Posner):**\n- **Resmî Program:** Yazılı, onaylı MEB müfredatı.\n- **Örtük Program:** Yazılı olmayan, okul iklimi ve öğretmen modelleriyle informel kazanılan değerler.\n- **İhmal Edilen:** Müfredatta olup işlenmeyen konular.",
     "hasImage": false,
@@ -10260,13 +10815,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Okul rehberlik hizmetlerinde öğrencilerin kendilerini tanımalarına, ilgi ve yeteneklerine uygun eğitsel/mesleki alanlara yönelmelerine ve problem çözme becerisi kazanmalarına odaklanan 'Kapsamlı Gelişimsel Rehberlik Programı'nın temel felsefesi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Sadece kriz ve problem odaklıdır.",
-      "B": "Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir.",
-      "C": "Yalnızca akademik başarısızlık yaşayanlara uygulanır.",
-      "D": "Sadece rehber öğretmen tarafından yürütülür, idareci ve öğretmenler katılmaz.",
-      "E": "Ölçme sonuçlarına dayalı katı eleme yapar."
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Sadece kriz ve problem odaklıdır."
+      },
+      {
+        "key": "B",
+        "text": "Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir."
+      },
+      {
+        "key": "C",
+        "text": "Yalnızca akademik başarısızlık yaşayanlara uygulanır."
+      },
+      {
+        "key": "D",
+        "text": "Sadece rehber öğretmen tarafından yürütülür, idareci ve öğretmenler katılmaz."
+      },
+      {
+        "key": "E",
+        "text": "Ölçme sonuçlarına dayalı katı eleme yapar."
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Tüm öğrencileri hedefler, önleyici ve proaktiftir)**\n\n**Gelişimsel Rehberlik İlkeleri:**\n- Geleneksel rehberliğin aksine sadece sorunlu öğrencilere değil **tüm öğrencilere** yöneliktir. Reaktif (olay sonrası) değil **proaktif ve önleyici**dir; tüm okul personelinin iş birliğini gerektirir.",
     "hasImage": false,
@@ -10280,13 +10850,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Öğretmenin derste öğrencilere gerçek yaşamda karşılaşılabilecek karmaşık bir çevre kirliliği problemini sunarak, öğrencilerin küçük gruplar halinde araştırma yapmalarını, veri toplamalarını ve çözüm önerileri üretmelerini sağladığı öğretim stratejisi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Probleme Dayalı Öğrenme (PDÖ)",
-      "B": "Doğrudan Öğretim Modeli",
-      "C": "Sunuş Yoluyla Öğretim",
-      "D": "Ezber Dayalı Öğretim",
-      "E": "Tam Öğrenme Stratejisi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Probleme Dayalı Öğrenme (PDÖ)"
+      },
+      {
+        "key": "B",
+        "text": "Doğrudan Öğretim Modeli"
+      },
+      {
+        "key": "C",
+        "text": "Sunuş Yoluyla Öğretim"
+      },
+      {
+        "key": "D",
+        "text": "Ezber Dayalı Öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Tam Öğrenme Stratejisi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Probleme Dayalı Öğrenme)**\n\n**PDÖ Özellikleri:**\n- Gerçek yaşamla ilişkili, yapılandırılmamış (ill-structured) senaryolar kullanılır. Öğrenci merkezlidir; araştırma, hipotez kurma, üst düzey düşünme ve işbirlikli çalışma becerilerini geliştirir.",
     "hasImage": false,
@@ -10300,13 +10885,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Bir testin ölçmek istediği özelliği başka özelliklerle karıştırmadan, doğru ve amaca uygun olarak ölçebilme derecesine ne ad verilir?",
-    "options": {
-      "A": "Güvenirlik",
-      "B": "Geçerlik",
-      "C": "Kullanışlılık",
-      "D": "Objektiflik",
-      "E": "Standart sapma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Güvenirlik"
+      },
+      {
+        "key": "B",
+        "text": "Geçerlik"
+      },
+      {
+        "key": "C",
+        "text": "Kullanışlılık"
+      },
+      {
+        "key": "D",
+        "text": "Objektiflik"
+      },
+      {
+        "key": "E",
+        "text": "Standart sapma"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Geçerlik)**\n\n**Ölçme Kavramları:**\n- **Geçerlik:** Ölçme aracının amacına hizmet etme derecesi (Doğruluk).\n- **Güvenirlik:** Ölçme sonuçlarının tesadüfi hatalardan arınık ve tutarlı olması (Kararlılık/Duyarlık).\n- **Kullanışlılık:** Ekonomiklik, hazırlama ve uygulama kolaylığı.",
     "hasImage": false,
@@ -10320,13 +10920,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Öğretmenlerin ders içi öğretim süreçlerinde biçimlendirici değerlendirme (formatif) amacıyla kullandıkları ölçme araçlarının temel işlevi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Öğrencilere geçme/kalma notu vermek",
-      "B": "Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak",
-      "C": "Öğrencileri başarı sıralamasına göre elemek",
-      "D": "Dönem sonu diploma derecesini hesaplamak",
-      "E": "Okullar arası LGS/YKS sıralaması yapmak"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencilere geçme/kalma notu vermek"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencileri başarı sıralamasına göre elemek"
+      },
+      {
+        "key": "D",
+        "text": "Dönem sonu diploma derecesini hesaplamak"
+      },
+      {
+        "key": "E",
+        "text": "Okullar arası LGS/YKS sıralaması yapmak"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Öğrenme eksikliklerini belirleyip geri bildirim sağlamak)**\n\n**Değerlendirme Türleri:**\n- **Tanılayıcı (Diagnostik):** Başlangıçta hazırbulunuşluk ölçme (Muafiyet, seviye tespit).\n- **Biçimlendirici (Formatif):** Süreç içinde eksiklikleri tespit etme ve düzeltme (İzleme testleri).\n- **Düzey Belirleyici (Summatif):** Süreç sonunda başarı/not takdiri (Vize, final, diploma).",
     "hasImage": false,
@@ -10340,13 +10955,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Sınıf yönetiminde öğretmenin sınıf içinde aynı anda meydana gelen birden fazla olayı fark edebilme ve sınıftaki her şeyden haberdar olduğunu hissettirme becerisine Kounin'e göre ne ad verilir?",
-    "options": {
-      "A": "Farkındalık / Her Yerde Olma (Withitness)",
-      "B": "Grup Odağı (Group Focus)",
-      "C": "Doygunluk ve Hız (Momentum)",
-      "D": "Pürüzsüzlük (Smoothness)",
-      "E": "Geçiş Kolaylığı (Overlapping)"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Farkındalık / Her Yerde Olma (Withitness)"
+      },
+      {
+        "key": "B",
+        "text": "Grup Odağı (Group Focus)"
+      },
+      {
+        "key": "C",
+        "text": "Doygunluk ve Hız (Momentum)"
+      },
+      {
+        "key": "D",
+        "text": "Pürüzsüzlük (Smoothness)"
+      },
+      {
+        "key": "E",
+        "text": "Geçiş Kolaylığı (Overlapping)"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Withitness - Her Yerde Olma / Farkındalık)**\n\n**Kounin Sınıf Yönetimi Modeli:**\n- **Withitness:** Öğretmenin arkası dönükken bile sınıfta ne olup bittiğini bilmesi ve hissettirmesidir.\n- **Overlapping (Aynı Anda Birden Çok İşi Yürütme):** Bir öğrenciye soru çözerken diğer öğrencinin konuşmasını jestle durdurabilme.",
     "hasImage": false,
@@ -10360,13 +10990,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Yönetim süreçleri kuramcılarından Henri Fayol'a göre yönetimin temel süreçleri (işlevleri) aşağıdakilerin hangisinde eksiksiz olarak sıralanmıştır?",
-    "options": {
-      "A": "Planlama — Örgütleme — Yöneltme (Emir-Komuta) — Koordinasyon — Kontrol (Denetim)",
-      "B": "Karar — Uygulama — Raporlama — Ödül",
-      "C": "İletişim — Çatışma — Motivasyon — Değerlendirme",
-      "D": "Yetki Devri — Hiyerarşi — Disiplin — Ceza",
-      "E": "Üretim — Pazarlama — Finans — Muhasebe"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Planlama — Örgütleme — Yöneltme (Emir-Komuta) — Koordinasyon — Kontrol (Denetim)"
+      },
+      {
+        "key": "B",
+        "text": "Karar — Uygulama — Raporlama — Ödül"
+      },
+      {
+        "key": "C",
+        "text": "İletişim — Çatışma — Motivasyon — Değerlendirme"
+      },
+      {
+        "key": "D",
+        "text": "Yetki Devri — Hiyerarşi — Disiplin — Ceza"
+      },
+      {
+        "key": "E",
+        "text": "Üretim — Pazarlama — Finans — Muhasebe"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Planlama — Örgütleme — Yöneltme — Koordinasyon — Kontrol)**\n\n**Fayol Yönetim Süreçleri (POCCC Modeli):**\n1. **Planlama (Planning):** Geleceği öngörme ve hedefleri belirleme.\n2. **Örgütleme (Organizing):** Yapıyı, kaynakları ve iş bölümünü kurma.\n3. **Yöneltme (Commanding/Leading):** Çalışanları harekete geçirme.\n4. **Koordinasyon (Coordinating):** Çabaları uyumlaştırma.\n5. **Kontrol/Denetim (Controlling):** Sonuçları hedeflerle karşılaştırma.",
     "hasImage": false,
@@ -10380,13 +11025,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Max Weber'in Bürokrasi Kuramı'na göre ideal bir örgüt yapısının temel özellikleri arasında aşağıdakilerden hangisi yer almaz?",
-    "options": {
-      "A": "Açık ve kesin bir iş bölümü",
-      "B": "Kademeli bir hiyerarşik otorite yapısı",
-      "C": "Kişisel ve sübjektif ilişkilere dayalı terfi ve görevlendirme",
-      "D": "Yazılı kural ve prosedürler",
-      "E": "Resmî pozisyonun kişisel mülkiyetten ayrılması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Açık ve kesin bir iş bölümü"
+      },
+      {
+        "key": "B",
+        "text": "Kademeli bir hiyerarşik otorite yapısı"
+      },
+      {
+        "key": "C",
+        "text": "Kişisel ve sübjektif ilişkilere dayalı terfi ve görevlendirme"
+      },
+      {
+        "key": "D",
+        "text": "Yazılı kural ve prosedürler"
+      },
+      {
+        "key": "E",
+        "text": "Resmî pozisyonun kişisel mülkiyetten ayrılması"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Kişisel/sübjektif ilişkilere dayalı terfi)**\n\n**Weber Bürokrasi Modeli:**\n- Weber'e göre bürokrasi **gayrişahsi (impersonal)**, liyakate, uzmanlığa, yazılı kurallara ve yasal-rasyonel otoriteye dayanır. Akrabalık, torpil veya kişisel yakınlık bürokratik rasyonaliteye tamamen aykırıdır.",
     "hasImage": false,
@@ -10400,13 +11060,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Liderlik kuramlarından 'Dönüşümcü Liderlik' (Transformational Leadership) yaklaşımına sahip bir okul müdürünün en belirgin özelliği aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Sadece mevcut kuralları ve rutinleri ödül-ceza sistemiyle korumak",
-      "B": "Okul paydaşlarına ilham veren bir vizyon sunarak onları ortak amaçlar etrafında motive etmek ve değişimi yönetmek",
-      "C": "Tüm kararları tek başına alıp çalışanlara danışmamak",
-      "D": "Okuldaki hiçbir sürece karışmayıp tam serbestlik tanımak",
-      "E": "Sadece evrak ve bütçe kontrolleriyle ilgilenmek"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Sadece mevcut kuralları ve rutinleri ödül-ceza sistemiyle korumak"
+      },
+      {
+        "key": "B",
+        "text": "Okul paydaşlarına ilham veren bir vizyon sunarak onları ortak amaçlar etrafında motive etmek ve değişimi yönetmek"
+      },
+      {
+        "key": "C",
+        "text": "Tüm kararları tek başına alıp çalışanlara danışmamak"
+      },
+      {
+        "key": "D",
+        "text": "Okuldaki hiçbir sürece karışmayıp tam serbestlik tanımak"
+      },
+      {
+        "key": "E",
+        "text": "Sadece evrak ve bütçe kontrolleriyle ilgilenmek"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (İlham veren vizyon, motivasyon ve değişimi yönetme)**\n\n**Dönüşümcü Liderliğin 4 Boyutu (Bass & Avolio - 4I Modeli):**\n1. İdealize Edilmiş Etki (Karizma)\n2. İlham Verici Motivasyon\n3. Entelektüel Uyarım\n4. Bireysel İlgi ve Destek",
     "hasImage": false,
@@ -10420,13 +11095,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul müdürünün doğrudan sınıf içi öğretim süreçlerine odaklandığı, öğretmenlerin mesleki gelişimini desteklediği, müfredatın uygulanmasını ve öğrenci öğrenme çıktılarını sürekli izlediği liderlik türü aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Öğretimsel Liderlik (Instructional Leadership)",
-      "B": "Otokratik Liderlik",
-      "C": "Serbest Bırakıcı Liderlik",
-      "D": "Pazarlıkçı Liderlik",
-      "E": "Geleneksel Liderlik"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretimsel Liderlik (Instructional Leadership)"
+      },
+      {
+        "key": "B",
+        "text": "Otokratik Liderlik"
+      },
+      {
+        "key": "C",
+        "text": "Serbest Bırakıcı Liderlik"
+      },
+      {
+        "key": "D",
+        "text": "Pazarlıkçı Liderlik"
+      },
+      {
+        "key": "E",
+        "text": "Geleneksel Liderlik"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Öğretimsel Liderlik)**\n\n**Öğretimsel Liderlik (Hallinger & Murphy):**\n- Okulun birincil misyonunu **öğrenme ve öğretme** olarak görür. Okul müdürü sadece idari bir yönetici değil, aynı zamanda başöğretmen ve öğretim lideridir.",
     "hasImage": false,
@@ -10440,13 +11130,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Liderliğin tek bir kişide toplanmayıp uzmanlık, inisiyatif ve sorumluluklar doğrultusunda öğretmenler, zümre başkanları ve diğer paydaşlar arasında paylaşıldığı liderlik yaklaşımı aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Dağıtımcı / Paylaşılan Liderlik (Distributed Leadership)",
-      "B": "Bürokratik Liderlik",
-      "C": "Karizmatik Liderlik",
-      "D": "Gözetici Liderlik",
-      "E": "Hiyerarşik Liderlik"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Dağıtımcı / Paylaşılan Liderlik (Distributed Leadership)"
+      },
+      {
+        "key": "B",
+        "text": "Bürokratik Liderlik"
+      },
+      {
+        "key": "C",
+        "text": "Karizmatik Liderlik"
+      },
+      {
+        "key": "D",
+        "text": "Gözetici Liderlik"
+      },
+      {
+        "key": "E",
+        "text": "Hiyerarşik Liderlik"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Dağıtımcı / Paylaşılan Liderlik)**\n\n**Dağıtımcı Liderlik (Spillane):**\n- Liderlik eyleminin bireylerin rollerinden ziyade durumsal etkileşimler ve kolektif uzmanlık yoluyla örgüt genelinde dağılmasını ifade eder.",
     "hasImage": false,
@@ -10460,13 +11165,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Herzberg'in Çift Faktör (Hijyen-Motivasyon) Kuramı'na göre aşağıdakilerden hangisi çalışanlarda doğrudan yüksek iş tatmini ve motivasyon sağlayan 'Motive Edici Faktörler' arasında yer alır?",
-    "options": {
-      "A": "Maaş ve ücret artışı",
-      "B": "Çalışma koşulları ve fiziksel ortam",
-      "C": "Başarı, tanınma, sorumluluk alma ve kişisel gelişim",
-      "D": "Kurum politikası ve idari kurallar",
-      "E": "İş güvencesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Maaş ve ücret artışı"
+      },
+      {
+        "key": "B",
+        "text": "Çalışma koşulları ve fiziksel ortam"
+      },
+      {
+        "key": "C",
+        "text": "Başarı, tanınma, sorumluluk alma ve kişisel gelişim"
+      },
+      {
+        "key": "D",
+        "text": "Kurum politikası ve idari kurallar"
+      },
+      {
+        "key": "E",
+        "text": "İş güvencesi"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Başarı, tanınma, sorumluluk ve kişisel gelişim)**\n\n**Herzberg Çift Faktör Kuramı:**\n- **Hijyen Faktörleri (Eksikliği tatminsizlik yaratır, varlığı motive etmez):** Maaş, çalışma koşulları, iş güvencesi, kurum politikası.\n- **Motivasyonel Faktörler (Doğrudan tatmin ve yüksek performans sağlar):** Başarı hissi, takdir edilme, işin kendisi, sorumluluk ve kariyer ilerlemesi.",
     "hasImage": false,
@@ -10480,13 +11200,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okulda görev yapan öğretmenlerin ve personelin paylaştığı değerler, normlar, inançlar, seremoniler, efsaneler ve sembollerin bütününe ne ad verilir?",
-    "options": {
-      "A": "Örgüt Kültürü (Okul Kültürü)",
-      "B": "Örgüt Yapısı",
-      "C": "Örgütsel Hiyerarşi",
-      "D": "Resmî Şema",
-      "E": "Mevzuat Çerçevesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Örgüt Kültürü (Okul Kültürü)"
+      },
+      {
+        "key": "B",
+        "text": "Örgüt Yapısı"
+      },
+      {
+        "key": "C",
+        "text": "Örgütsel Hiyerarşi"
+      },
+      {
+        "key": "D",
+        "text": "Resmî Şema"
+      },
+      {
+        "key": "E",
+        "text": "Mevzuat Çerçevesi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Örgüt Kültürü)**\n\n**Örgüt Kültürü (Schein):**\n- Bir kurumun üyeleri tarafından geliştirilen, benimsenen ve yeni üyelere aktarılan temel varsayımlar, değerler, inançlar ve ritüeller bütünüdür.",
     "hasImage": false,
@@ -10500,13 +11235,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Örgüt içi çatışma yönetiminde; tarafların kendi çıkarlarından kısmen ödün vererek ortak ve kabul edilebilir bir orta noktada uzlaşmaları stratejisine ne ad verilir?",
-    "options": {
-      "A": "Kaçınma",
-      "B": "Uzlaşma (Ödün Verme / Compromising)",
-      "C": "Hükmetme / Zorlama",
-      "D": "Uyum Sağlama",
-      "E": "Yok Sayma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaçınma"
+      },
+      {
+        "key": "B",
+        "text": "Uzlaşma (Ödün Verme / Compromising)"
+      },
+      {
+        "key": "C",
+        "text": "Hükmetme / Zorlama"
+      },
+      {
+        "key": "D",
+        "text": "Uyum Sağlama"
+      },
+      {
+        "key": "E",
+        "text": "Yok Sayma"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Uzlaşma / Compromising)**\n\n**Thomas-Kilmann Çatışma Stratejileri:**\n- **İşbirliği (Kazan-Kazan):** Her iki tarafın tam tatmini.\n- **Uzlaşma (Orta Yol):** Her iki tarafın fedakarlık yaparak anlaşması.\n- **Hükmetme (Kazan-Kaybet):** Güç kullanarak baskın gelme.\n- **Uyum (Kaybet-Kazan):** Kendi isteğinden vazgeçip karşı tarafa boyun eğme.\n- **Kaçınma (Kaybet-Kaybet):** Çatışmayı erteleme/yok sayma.",
     "hasImage": false,
@@ -10520,13 +11270,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Eğitim denetiminde; denetmen ile öğretmenin yüz yüze, iş birliğine dayalı, sınıf içi öğretim uygulamalarının aşama aşama gözlemlenip analiz edildiği ve öğretmene yapıcı geri bildirim verildiği klinik denetim modelinin aşamaları sırasıyla aşağıdakilerin hangisinde doğru verilmiştir?",
-    "options": {
-      "A": "Gözlem Öncesi Görüşme — Sınıf İçi Gözlem — Analiz ve Strateji — Gözlem Sonrası Görüşme — Değerlendirme",
-      "B": "Yazılı Sınav — Not Verme — İdari Soruşturma — Rapor",
-      "C": "Haberli Baskın — Ceza Verme — Tebligat — İtiraz",
-      "D": "Ders Planı İsteme — Evrak Kontrolü — İdareye Bildirme",
-      "E": "Öğrenci Anketi — Not Ortalaması Hesaplama — Sonuç Açıklama"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Gözlem Öncesi Görüşme — Sınıf İçi Gözlem — Analiz ve Strateji — Gözlem Sonrası Görüşme — Değerlendirme"
+      },
+      {
+        "key": "B",
+        "text": "Yazılı Sınav — Not Verme — İdari Soruşturma — Rapor"
+      },
+      {
+        "key": "C",
+        "text": "Haberli Baskın — Ceza Verme — Tebligat — İtiraz"
+      },
+      {
+        "key": "D",
+        "text": "Ders Planı İsteme — Evrak Kontrolü — İdareye Bildirme"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenci Anketi — Not Ortalaması Hesaplama — Sonuç Açıklama"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Gözlem Öncesi — Gözlem — Analiz — Gözlem Sonrası — Değerlendirme)**\n\n**Goldhammer ve Cogan Klinik Denetim Döngüsü:**\n1. *Gözlem Öncesi Konferans:* Hedef ve odak noktalarının öğretmenle belirlenmesi.\n2. *Gözlem:* Sınıfta öğretimin tarafsızca kaydedilmesi.\n3. *Veri Analizi:* Verilerin gözden geçirilmesi.\n4. *Gözlem Sonrası Konferans:* Geri bildirim ve çözümlerin birlikte geliştirilmesi.\n5. *Sürecin Değerlendirilmesi.*",
     "hasImage": false,
@@ -10540,13 +11305,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "SWOT analizinde bir okulun sahip olduğu dinamik öğretmen kadrosu ve güçlü teknolojik altyapısı aşağıdaki boyutlardan hangisi kapsamında değerlendirilir?",
-    "options": {
-      "A": "Fırsatlar (Opportunities)",
-      "B": "Tehditler (Threats)",
-      "C": "Güçlü Yönler (Strengths)",
-      "D": "Zayıf Yönler (Weaknesses)",
-      "E": "Dışsal Riskler"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Fırsatlar (Opportunities)"
+      },
+      {
+        "key": "B",
+        "text": "Tehditler (Threats)"
+      },
+      {
+        "key": "C",
+        "text": "Güçlü Yönler (Strengths)"
+      },
+      {
+        "key": "D",
+        "text": "Zayıf Yönler (Weaknesses)"
+      },
+      {
+        "key": "E",
+        "text": "Dışsal Riskler"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Güçlü Yönler - Strengths)**\n\n**SWOT Analizi:**\n- **İçsel Faktörler:** Güçlü Yönler (S) ve Zayıf Yönler (W) kurumun kendi iç dinamikleridir.\n- **Dışsal Faktörler:** Fırsatlar (O) ve Tehditler (T) çevreden gelen unsurlardır.\n- Nitelikli personel ve teknolojik donanım okulun **İçsel Güçlü Yönleridir**.",
     "hasImage": false,
@@ -10560,13 +11340,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Aşağıdaki grafikte dört farklı şubenin (A, B, C, D) bir sınavdaki puan-frekans dağılımları verilmiştir.\n\nBuna göre sınavın zor olduğu, öğrencilerin çoğunun düşük puan aldığı ve dağılımın 'Sağa Çarpık (Pozitif Kayışlı)' olduğu şube aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "A Şubesi",
-      "B": "B Şubesi",
-      "C": "C Şubesi",
-      "D": "D Şubesi",
-      "E": "A ve B Şubeleri"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "A Şubesi"
+      },
+      {
+        "key": "B",
+        "text": "B Şubesi"
+      },
+      {
+        "key": "C",
+        "text": "C Şubesi"
+      },
+      {
+        "key": "D",
+        "text": "D Şubesi"
+      },
+      {
+        "key": "E",
+        "text": "A ve B Şubeleri"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (C Şubesi)**\n\n**Ölçme ve Değerlendirme Analizi:**\n- **C Şubesi Dağılımı:** Yığılma sol tarafta (düşük puanlar, 30-40 bandında) toplanmış, kuyruk sağa doğru uzamıştır. Bu dağılıma **Sağa Çarpık (Pozitif Kayışlı)** dağılım denir. Testin öğrencilere zor geldiğini ve başarının düşük olduğunu gösterir.\n- *B Şubesi:* Sola çarpık (başarı yüksek, puanlar 70-80'de yığılmış).\n- *A Şubesi:* Normal/Simetrik dağılım.\n- *D Şubesi:* Ranjı dar ve basık grup.",
     "hasImage": true,
@@ -10580,13 +11375,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul yöneticisinin yönetim sürecinde sergilediği tutumlar açısından Douglas McGregor'un 'Y Kuramı'na uygun yönetici davranışı aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Çalışanların doğuştan tembel olduğuna inanarak onları sürekli sıkı denetim altında tutmak",
-      "B": "Çalışanların sorumluluk almaktan kaçındığını düşünmek",
-      "C": "Çalışanların uygun koşullar sağlandığında işten zevk alacağına, yaratıcı ve sorumluluk sahibi olabileceğine inanarak yetki devretmek",
-      "D": "Motivasyonu yalnızca cezalandırma korkusuyla sağlamak",
-      "E": "Tüm kararları merkeziyetçi biçimde tek başına almak"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Çalışanların doğuştan tembel olduğuna inanarak onları sürekli sıkı denetim altında tutmak"
+      },
+      {
+        "key": "B",
+        "text": "Çalışanların sorumluluk almaktan kaçındığını düşünmek"
+      },
+      {
+        "key": "C",
+        "text": "Çalışanların uygun koşullar sağlandığında işten zevk alacağına, yaratıcı ve sorumluluk sahibi olabileceğine inanarak yetki devretmek"
+      },
+      {
+        "key": "D",
+        "text": "Motivasyonu yalnızca cezalandırma korkusuyla sağlamak"
+      },
+      {
+        "key": "E",
+        "text": "Tüm kararları merkeziyetçi biçimde tek başına almak"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Çalışanlara güven, yetki devri ve sorumluluk verme)**\n\n**McGregor X ve Y Kuramları:**\n- **X Kuramı:** İnsanlar tembeldir, çalışmayı sevmez, sorumluluktan kaçar, zorlanmalı ve denetlenmelidir (Otokratik).\n- **Y Kuramı:** İnsanlar çalışmayı doğal bir etkinlik olarak görür, motive edilirlerse hedef için özdenetim ve yaratıcılık sergilerler (Demokratik/Katılımcı).",
     "hasImage": false,
@@ -10600,13 +11410,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Toplam Kalite Yönetimi (TKY) felsefesinin eğitime uyarlanmasında 'PUKÖ Döngüsü'nün açılımı aşağıdakilerin hangisinde doğru verilmiştir?",
-    "options": {
-      "A": "Planla — Uygula — Kontrol Et — Önlem Al",
-      "B": "Programla — Uyarla — Kaydet — Ödüllendir",
-      "C": "Paylaş — Uzlaş — Katıl — Ölç",
-      "D": "Projelendir — Uygula — Koru — Özetle",
-      "E": "Puanla — Uygula — Kıyasla — Öngör"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Planla — Uygula — Kontrol Et — Önlem Al"
+      },
+      {
+        "key": "B",
+        "text": "Programla — Uyarla — Kaydet — Ödüllendir"
+      },
+      {
+        "key": "C",
+        "text": "Paylaş — Uzlaş — Katıl — Ölç"
+      },
+      {
+        "key": "D",
+        "text": "Projelendir — Uygula — Koru — Özetle"
+      },
+      {
+        "key": "E",
+        "text": "Puanla — Uygula — Kıyasla — Öngör"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Planla — Uygula — Kontrol Et — Önlem Al)**\n\n**Deming PUKÖ (PDCA) Döngüsü:**\n- **P (Plan):** Hedef ve süreçlerin planlanması.\n- **U (Do/Uygula):** Planın hayata geçirilmesi.\n- **K (Check/Kontrol Et):** Sonuçların ölçülmesi ve hedeften sapmaların izlenmesi.\n- **Ö (Act/Önlem Al):** Sürekli iyileştirme (Kaizen) için tedbirlerin alınması.",
     "hasImage": false,
@@ -10620,13 +11445,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Örgütsel iletişimde okul müdürünün öğretmenlere resmî yazı, talimat ve duyurular iletmesi aşağıdaki iletişim yönlerinden hangisine örnektir?",
-    "options": {
-      "A": "Aşağıdan Yukarıya İletişim",
-      "B": "Yukarıdan Aşağıya İletişim",
-      "C": "Yatay İletişim",
-      "D": "Çapraz İletişim",
-      "E": "İnformel (Dedikodu) İletişim"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Aşağıdan Yukarıya İletişim"
+      },
+      {
+        "key": "B",
+        "text": "Yukarıdan Aşağıya İletişim"
+      },
+      {
+        "key": "C",
+        "text": "Yatay İletişim"
+      },
+      {
+        "key": "D",
+        "text": "Çapraz İletişim"
+      },
+      {
+        "key": "E",
+        "text": "İnformel (Dedikodu) İletişim"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Yukarıdan Aşağıya İletişim)**\n\n**İletişim Yönleri:**\n- **Yukarıdan Aşağıya:** Üst yöneticiden astlara doğru emir, talimat, politika, hedef ve duyuruların akışıdır.\n- **Aşağıdan Yukarıya:** Astlardan üstlere rapor, öneri, dilekçe ve şikâyet iletimidir.\n- **Yatay:** Aynı düzeydeki zümre başkanları veya öğretmenlerin iletişimidir.",
     "hasImage": false,
@@ -10640,13 +11480,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul yöneticisinin öğretmenlerin performansını değerlendirirken tek bir olumlu özelliğe (örneğin diksiyonunun düzgün olmasına) bakarak diğer tüm alanlarda da çok başarılı olduğunu varsayması şeklindeki değerlendirme hatasına ne ad verilir?",
-    "options": {
-      "A": "Halo (Hale) Etkisi",
-      "B": "Horn (Ters Hale) Etkisi",
-      "C": "Merkeze Yığma Hatası",
-      "D": "Cömertlik / Müsamaha Hatası",
-      "E": "Kontrast Hatası"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Halo (Hale) Etkisi"
+      },
+      {
+        "key": "B",
+        "text": "Horn (Ters Hale) Etkisi"
+      },
+      {
+        "key": "C",
+        "text": "Merkeze Yığma Hatası"
+      },
+      {
+        "key": "D",
+        "text": "Cömertlik / Müsamaha Hatası"
+      },
+      {
+        "key": "E",
+        "text": "Kontrast Hatası"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Halo / Hale Etkisi)**\n\n**Değerlendirme Hataları:**\n- **Halo Etkisi:** Kişinin tek bir olumlu özelliğinin diğer tüm yönlerini de olumlu görmeye yol açması.\n- **Horn Etkisi:** Tek bir olumsuz özelliğin tüm değerlendirmeyi gölgelemesi.\n- **Merkeze Yığma:** Aşırı uçlardan kaçınıp herkese vasat/orta puan verme.",
     "hasImage": false,
@@ -10660,13 +11515,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Bir okulda öğretmenlerin okula ve meslektaşlarına karşı hissettikleri güven, açıklık, samimiyet ve bağlılık düzeyini yansıtan psikolojik ortama ne ad verilir?",
-    "options": {
-      "A": "Okul İklimi (Örgütsel İklim)",
-      "B": "Fiziki Donanım",
-      "C": "Hukuki Çerçeve",
-      "D": "Resmî Teşkilat Şeması",
-      "E": "Bütçe Dengesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Okul İklimi (Örgütsel İklim)"
+      },
+      {
+        "key": "B",
+        "text": "Fiziki Donanım"
+      },
+      {
+        "key": "C",
+        "text": "Hukuki Çerçeve"
+      },
+      {
+        "key": "D",
+        "text": "Resmî Teşkilat Şeması"
+      },
+      {
+        "key": "E",
+        "text": "Bütçe Dengesi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Okul İklimi)**\n\n**Kavram:**\n- **Okul İklimi:** Okul üyelerinin okuldaki çalışma ortamına, ilişkilere ve yönetime dair paylaştıkları algılar bütünüdür (Açık iklim, kapalı iklim, özerk iklim vb.).",
     "hasImage": false,
@@ -10680,13 +11550,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Gelişimsel Denetim Modeli'ne (Carl Glickman) göre mesleki gelişim düzeyi ve motivasyonu çok düşük olan bir öğretmene karşı denetmenin uygulaması gereken denetim yaklaşımı aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Yönlendirici (Direktif) Yaklaşım",
-      "B": "Yönlendirici Olmayan (Non-direktif) Yaklaşım",
-      "C": "İş Birlikçi (Kollaboratif) Yaklaşım",
-      "D": "Tamamen Serbest Bırakıcı Yaklaşım",
-      "E": "Gözetimsiz Yaklaşım"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Yönlendirici (Direktif) Yaklaşım"
+      },
+      {
+        "key": "B",
+        "text": "Yönlendirici Olmayan (Non-direktif) Yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "İş Birlikçi (Kollaboratif) Yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Tamamen Serbest Bırakıcı Yaklaşım"
+      },
+      {
+        "key": "E",
+        "text": "Gözetimsiz Yaklaşım"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Yönlendirici / Direktif Yaklaşım)**\n\n**Glickman Gelişimsel Denetim:**\n- **Düşük Gelişim Düzeyi:** Yönlendirici (Direktif) Yaklaşım (Kararları ve adımları denetmen belirler).\n- **Orta Gelişim Düzeyi:** İş Birlikçi Yaklaşım (Birlikte karar verilir).\n- **Yüksek Gelişim Düzeyi:** Yönlendirici Olmayan Yaklaşım (Öğretmen kendi hedeflerini belirler, denetmen kolaylaştırıcıdır).",
     "hasImage": false,
@@ -10700,13 +11585,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul yöneticisinin okulun hedeflerine ulaşabilmesi için öğretmenleri ve personeli motive etme, yönlendirme ve etkileme gücünü tanımlayan yönetsel süreç aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Etkileme / Liderlik",
-      "B": "Arşivleme",
-      "C": "Tahakkuk",
-      "D": "Bürokratik Evrak Kayıt",
-      "E": "Yazışma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Etkileme / Liderlik"
+      },
+      {
+        "key": "B",
+        "text": "Arşivleme"
+      },
+      {
+        "key": "C",
+        "text": "Tahakkuk"
+      },
+      {
+        "key": "D",
+        "text": "Bürokratik Evrak Kayıt"
+      },
+      {
+        "key": "E",
+        "text": "Yazışma"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Etkileme / Liderlik)**\n\n**Yönetim Süreçleri:**\n- Liderlik, başkalarını önceden belirlenen ortak amaçlar doğrultusunda gönüllü ve istekli olarak çaba göstermeye ikna etme ve etkileme sanatıdır.",
     "hasImage": false,
@@ -10720,13 +11620,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Stratejik planlama sürecinde bir kurumun 'Biz kimiz, neden varız ve kime hizmet ediyoruz?' sorularına verdiği cevabı içeren temel beyan aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Misyon",
-      "B": "Vizyon",
-      "C": "Eylem Planı",
-      "D": "Performans Göstergesi",
-      "E": "Risk Matrisi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Misyon"
+      },
+      {
+        "key": "B",
+        "text": "Vizyon"
+      },
+      {
+        "key": "C",
+        "text": "Eylem Planı"
+      },
+      {
+        "key": "D",
+        "text": "Performans Göstergesi"
+      },
+      {
+        "key": "E",
+        "text": "Risk Matrisi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Misyon)**\n\n**Stratejik Yönetim:**\n- **Misyon:** Kurumun varlık sebebi, temel görevi ve hizmet amacını ifade eder (Bugünü anlatır).\n- **Vizyon:** Kurumun gelecekte ulaşmak istediği ideal tablo ve uzun vadeli hedeftir (Geleceği anlatır).",
     "hasImage": false,
@@ -10740,13 +11655,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Öğretmenlerin mesleki bilgi, beceri ve tutumlarını geliştirmek amacıyla aynı okulda veya zümrede daha deneyimli bir öğretmenin rehberlik ve koçluk yapması sürecine ne ad verilir?",
-    "options": {
-      "A": "Mentorluk (Mentoring)",
-      "B": "Rotasyon",
-      "C": "İdari Teftiş",
-      "D": "Merkeziyetçilik",
-      "E": "Soruşturma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Mentorluk (Mentoring)"
+      },
+      {
+        "key": "B",
+        "text": "Rotasyon"
+      },
+      {
+        "key": "C",
+        "text": "İdari Teftiş"
+      },
+      {
+        "key": "D",
+        "text": "Merkeziyetçilik"
+      },
+      {
+        "key": "E",
+        "text": "Soruşturma"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Mentorluk / Mentoring)**\n\n**Kavram:**\n- **Mentorluk:** Deneyimli bir uzmanın (mentor), mesleğe yeni başlayan veya gelişime açık bir çalışana (mentee) bilgi, tecrübe, psikososyal destek ve kariyer rehberliği sunması sürecidir.",
     "hasImage": false,
@@ -10760,13 +11690,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Örgütsel bağlılık türlerinden 'Devam Bağlılığı' (Continuance Commitment) aşağıdakilerden hangisini ifade eder?",
-    "options": {
-      "A": "Kurumdan ayrılmanın getireceği maddi/manevi maliyet ve alternatif iş bulma zorluğu sebebiyle kurumda kalma zorunluluğu hissetme",
-      "B": "Kurumun amaç ve değerlerini gönülden benimseme",
-      "C": "Kuruma karşı ahlaki bir borç ve minnet duygusu hissetme",
-      "D": "Kurumdaki arkadaşlarla sadece sosyal etkinlik yapma",
-      "E": "Kurumu terk etmek için fırsat kollama"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kurumdan ayrılmanın getireceği maddi/manevi maliyet ve alternatif iş bulma zorluğu sebebiyle kurumda kalma zorunluluğu hissetme"
+      },
+      {
+        "key": "B",
+        "text": "Kurumun amaç ve değerlerini gönülden benimseme"
+      },
+      {
+        "key": "C",
+        "text": "Kuruma karşı ahlaki bir borç ve minnet duygusu hissetme"
+      },
+      {
+        "key": "D",
+        "text": "Kurumdaki arkadaşlarla sadece sosyal etkinlik yapma"
+      },
+      {
+        "key": "E",
+        "text": "Kurumu terk etmek için fırsat kollama"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Maddi/manevi maliyetler sebebiyle kalma zorunluluğu)**\n\n**Meyer ve Allen Örgütsel Bağlılık Modeli:**\n1. **Duygusal Bağlılık:** Kurumda kalmak *istediği* için kalma.\n2. **Devam Bağlılığı:** Ayrılmanın maliyetleri yüksek olduğu ve *ihtiyaç duyduğu* için kalma.\n3. **Normatif Bağlılık:** Kuruma karşı ahlaki bir *görev ve sadakat* hissettiği için kalma.",
     "hasImage": false,
@@ -10780,13 +11725,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul müdürünün okulda karşılaşılan bir krizi yönetirken sergilemesi gereken en öncelikli tutum aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Sorumluluğu başkalarına atarak olay yerinden uzaklaşmak",
-      "B": "Sakin, kararlı, şeffaf ve doğru bilgi akışını sağlayarak can güvenliğini ön planda tutan bir eylem planını devreye sokmak",
-      "C": "Sosyal medyada yayılan dedikoduları doğrulamadan açıklama yapmak",
-      "D": "Olayı tamamen gizleyip hiçbir paydaşa bilgi vermemek",
-      "E": "Sadece olay bittikten sonra rapor tutmak"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Sorumluluğu başkalarına atarak olay yerinden uzaklaşmak"
+      },
+      {
+        "key": "B",
+        "text": "Sakin, kararlı, şeffaf ve doğru bilgi akışını sağlayarak can güvenliğini ön planda tutan bir eylem planını devreye sokmak"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal medyada yayılan dedikoduları doğrulamadan açıklama yapmak"
+      },
+      {
+        "key": "D",
+        "text": "Olayı tamamen gizleyip hiçbir paydaşa bilgi vermemek"
+      },
+      {
+        "key": "E",
+        "text": "Sadece olay bittikten sonra rapor tutmak"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Sakin, kararlı, şeffaf kriz yönetimi ve can güvenliği)**\n\n**Kriz Yönetimi İlkeleri:**\n- Kriz anında panik önlenmeli, açık ve net iletişim kanalları kurulmalı, önceden hazırlanan Acil Durum / Kriz Eylem Planı derhal uygulanmalıdır.",
     "hasImage": false,
@@ -10800,13 +11760,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Aşağıdakilerden hangisi okul temelli mesleki gelişim (OTMG) modelinin amaçlarından biri değildir?",
-    "options": {
-      "A": "Okulun kendi ihtiyaç ve önceliklerine uygun eğitim planları yapmak",
-      "B": "Öğretmenlerin mesleki deneyimlerini zümreler arası paylaşmalarını sağlamak",
-      "C": "Merkeziyetçi ve okulların şartlarını gözetmeyen tek tip seminer anlayışını aşmak",
-      "D": "Öğretmenleri sürekli cezalandırma tehdidiyle çalıştırmak",
-      "E": "Okulun kurumsal kapasitesini ve öğrenci başarısını yükseltmek"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Okulun kendi ihtiyaç ve önceliklerine uygun eğitim planları yapmak"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmenlerin mesleki deneyimlerini zümreler arası paylaşmalarını sağlamak"
+      },
+      {
+        "key": "C",
+        "text": "Merkeziyetçi ve okulların şartlarını gözetmeyen tek tip seminer anlayışını aşmak"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmenleri sürekli cezalandırma tehdidiyle çalıştırmak"
+      },
+      {
+        "key": "E",
+        "text": "Okulun kurumsal kapasitesini ve öğrenci başarısını yükseltmek"
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "📌 **Doğru Cevap: D (Cezalandırma tehdidi)**\n\n**OTMG İlkeleri:**\n- Okul Temelli Mesleki Gelişim; okul düzeyinde planlanan, öğretmenlerin öz değerlendirmelerine dayanan, gönüllülük ve iş birliğini esas alan çağdaş bir yetişkin eğitimi modelidir.",
     "hasImage": false,
@@ -10820,13 +11795,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Öğretmenler kurulunda okul müdürünün tüm öğretmenlerin görüşlerini alması, kararları çoğulcu ve müzakereci bir anlayışla şekillendirmesi aşağıdaki karar verme yaklaşımlarından hangisine örnektir?",
-    "options": {
-      "A": "Katılımcı (Demokratik) Karar Verme",
-      "B": "Otokratik Karar Verme",
-      "C": "Sezgisel / Gelişigüzel Karar Verme",
-      "D": "Kaderci Yaklaşım",
-      "E": "Baskıcı Yaklaşım"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Katılımcı (Demokratik) Karar Verme"
+      },
+      {
+        "key": "B",
+        "text": "Otokratik Karar Verme"
+      },
+      {
+        "key": "C",
+        "text": "Sezgisel / Gelişigüzel Karar Verme"
+      },
+      {
+        "key": "D",
+        "text": "Kaderci Yaklaşım"
+      },
+      {
+        "key": "E",
+        "text": "Baskıcı Yaklaşım"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Katılımcı / Demokratik Karar Verme)**\n\n**Karar Verme Modelleri:**\n- Katılımcı karar verme; karardan etkilenecek personelin karar alma sürecine dahil edilmesini, motivasyonun ve kararın uygulanabilirlik kalitesinin artırılmasını sağlar.",
     "hasImage": false,
@@ -10840,13 +11830,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 Anayasası",
     "questionText": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi genel seçimleri ve Cumhurbaşkanlığı seçimleri kaç yılda bir aynı günde yapılır?",
-    "options": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6",
-      "E": "7"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "5"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      },
+      {
+        "key": "E",
+        "text": "7"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (5 yılda bir)**\n\n**1982 Anayasası Madde 77:**\n- *'Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri **beş yılda bir aynı günde** yapılır.'*",
     "hasImage": false,
@@ -10860,13 +11865,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 Anayasası",
     "questionText": "1982 Anayasası'na göre Anayasa Mahkemesi kaç üyeden oluşur ve üyelerin görev süresi kaç yıldır?",
-    "options": {
-      "A": "15 üye — 12 yıl",
-      "B": "17 üye — 10 yıl",
-      "C": "12 üye — 6 yıl",
-      "D": "15 üye — 5 yıl",
-      "E": "21 üye — Ömür boyu"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "15 üye — 12 yıl"
+      },
+      {
+        "key": "B",
+        "text": "17 üye — 10 yıl"
+      },
+      {
+        "key": "C",
+        "text": "12 üye — 6 yıl"
+      },
+      {
+        "key": "D",
+        "text": "15 üye — 5 yıl"
+      },
+      {
+        "key": "E",
+        "text": "21 üye — Ömür boyu"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (15 üye — 12 yıl)**\n\n**1982 Anayasası Madde 146 ve 147:**\n- Anayasa Mahkemesi **15 üyeden** kurulur (3 üyeyi TBMM, 12 üyeyi Cumhurbaşkanı seçer).\n- Anayasa Mahkemesi üyeleri **12 yıl için** seçilirler. Bir kimse iki defa Anayasa Mahkemesi üyesi seçilemez. Üyeler 65 yaşını doldurunca emekliye ayrılırlar.",
     "hasImage": false,
@@ -10880,13 +11900,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_657",
     "topicName": "657 Sayılı Devlet Memurları Kanunu",
     "questionText": "657 sayılı Devlet Memurları Kanunu'na göre memura, eşinin doğum yapması halinde isteği üzerine kaç gün babalık izni verilir?",
-    "options": {
-      "A": "3 gün",
-      "B": "5 gün",
-      "C": "7 gün",
-      "D": "10 gün",
-      "E": "15 gün"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "3 gün"
+      },
+      {
+        "key": "B",
+        "text": "5 gün"
+      },
+      {
+        "key": "C",
+        "text": "7 gün"
+      },
+      {
+        "key": "D",
+        "text": "10 gün"
+      },
+      {
+        "key": "E",
+        "text": "15 gün"
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "📌 **Doğru Cevap: D (10 gün)**\n\n**657 Sayılı Kanun Madde 104/B (Mazeret İzni):**\n- *'Memura, eşinin doğum yapması hâlinde, isteği üzerine **on gün babalık izni** verilir.'*",
     "hasImage": false,
@@ -10900,13 +11935,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_657",
     "topicName": "657 Sayılı Devlet Memurları Kanunu",
     "questionText": "657 sayılı Devlet Memurları Kanunu'na göre 'Özürsüz veya izinsiz olarak göreve geç gelmek, erken ayrılmak, görev mahallini terk etmek' fiilini işleyen bir memura aşağıdaki disiplin cezalarından hangisi verilir?",
-    "options": {
-      "A": "Uyarma",
-      "B": "Kınama",
-      "C": "Aylıktan Kesme",
-      "D": "Kademe İlerlemesinin Durdurulması",
-      "E": "Devlet Memurluğundan Çıkarma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Uyarma"
+      },
+      {
+        "key": "B",
+        "text": "Kınama"
+      },
+      {
+        "key": "C",
+        "text": "Aylıktan Kesme"
+      },
+      {
+        "key": "D",
+        "text": "Kademe İlerlemesinin Durdurulması"
+      },
+      {
+        "key": "E",
+        "text": "Devlet Memurluğundan Çıkarma"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Uyarma)**\n\n**657 Sayılı Kanun Madde 125/A-b:**\n- Uyarma cezasını gerektiren fiil ve haller: *'Özürsüz veya izinsiz olarak göreve geç gelmek, erken ayrılmak, görev mahallini terk etmek.'*\n- *(Not: Eğer görev mahallinde kurumlarca belirlenen usul ve esasların yerine getirilmesinde kusurlu davranmak ise Kınama'dır).* ",
     "hasImage": false,
@@ -10920,13 +11970,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_1739",
     "topicName": "1739 Sayılı Millî Eğitim Temel Kanunu",
     "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre 'Eğitim kurumları dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açıktır. Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.' hükmü Türk Millî Eğitiminin temel ilkelerinden hangisine aittir?",
-    "options": {
-      "A": "Genellik ve Eşitlik",
-      "B": "Fırsat ve İmkân Eşitliği",
-      "C": "Süreklilik",
-      "D": "Yöneltme",
-      "E": "Laiklik"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Genellik ve Eşitlik"
+      },
+      {
+        "key": "B",
+        "text": "Fırsat ve İmkân Eşitliği"
+      },
+      {
+        "key": "C",
+        "text": "Süreklilik"
+      },
+      {
+        "key": "D",
+        "text": "Yöneltme"
+      },
+      {
+        "key": "E",
+        "text": "Laiklik"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Genellik ve Eşitlik - Madde 4)**\n\n**1739 Sayılı Kanun Temel İlkeleri:**\n- **Genellik ve Eşitlik (Madde 4):** Eğitim kurumları herkese açıktır, imtiyaz tanınamaz.\n- **Fırsat ve İmkân Eşitliği (Madde 8):** Maddi imkândan yoksun başarılı öğrencilere burs/pansiyon desteği ve özel eğitime muhtaçlara özel tedbirler sağlanmasıdır.",
     "hasImage": false,
@@ -10940,13 +12005,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_1739",
     "topicName": "1739 Sayılı Millî Eğitim Temel Kanunu",
     "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre öğretmenlik mesleği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Öğretmenlik, Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir.",
-      "B": "Öğretmenler bu görevlerini Türk Millî Eğitiminin amaçlarına ve temel ilkelerine uygun olarak ifa etmekle yükümlüdürler.",
-      "C": "Öğretmenlik mesleğine hazırlık genel kültür, özel alan eğitimi ve pedagojik formasyon/öğretmenlik meslek bilgisi ile sağlanır.",
-      "D": "Öğretmenlik kariyer basamakları sadece hizmet yılına göre otomatik olarak kazanılır.",
-      "E": "Öğretmenlerin nitelikleri ve seçimi Millî Eğitim Bakanlığınca yürütülür."
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmenlik, Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir."
+      },
+      {
+        "key": "B",
+        "text": "Öğretmenler bu görevlerini Türk Millî Eğitiminin amaçlarına ve temel ilkelerine uygun olarak ifa etmekle yükümlüdürler."
+      },
+      {
+        "key": "C",
+        "text": "Öğretmenlik mesleğine hazırlık genel kültür, özel alan eğitimi ve pedagojik formasyon/öğretmenlik meslek bilgisi ile sağlanır."
+      },
+      {
+        "key": "D",
+        "text": "Öğretmenlik kariyer basamakları sadece hizmet yılına göre otomatik olarak kazanılır."
+      },
+      {
+        "key": "E",
+        "text": "Öğretmenlerin nitelikleri ve seçimi Millî Eğitim Bakanlığınca yürütülür."
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "📌 **Doğru Cevap: D (Kariyer basamakları sadece hizmet yılına göre otomatik kazanılır ifadesi yanlıştır)**\n\n**1739 Sayılı Kanun Madde 43:**\n- Öğretmenlik özel bir ihtisas mesleğidir. Kariyer basamakları ve mesleki gelişim ilgili kanun ve yönetmeliklerdeki eğitim, süre ve değerlendirme kriterlerine göre belirlenir.",
     "hasImage": false,
@@ -10960,13 +12040,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_222",
     "topicName": "222 Sayılı İlköğretim ve Eğitim Kanunu",
     "questionText": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre mecburi ilköğretim çağı hangi yaş grubundaki çocukları kapsar?",
-    "options": {
-      "A": "6-14 yaş",
-      "B": "5-13 yaş",
-      "C": "7-15 yaş",
-      "D": "6-15 yaş",
-      "E": "5-14 yaş"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "6-14 yaş"
+      },
+      {
+        "key": "B",
+        "text": "5-13 yaş"
+      },
+      {
+        "key": "C",
+        "text": "7-15 yaş"
+      },
+      {
+        "key": "D",
+        "text": "6-15 yaş"
+      },
+      {
+        "key": "E",
+        "text": "5-14 yaş"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (6-14 yaş)**\n\n**222 Sayılı Kanun Madde 3:**\n- *'Mecburi ilköğretim çağı, **6 yaşını bitirdiği yılın eylül ayı sonunda başlar, 14 yaşını bitirip 15 yaşına girdiği yılın öğretim yılı sonunda biter.**'*",
     "hasImage": false,
@@ -10980,13 +12075,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_222",
     "topicName": "222 Sayılı İlköğretim ve Eğitim Kanunu",
     "questionText": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre ilköğretim kurumlarına ait gelirler arasında aşağıdakilerden hangisi yer alır?",
-    "options": {
-      "A": "Her yıl Devlet gelirleri genel bütçesine dahil gelirlerden ilköğretime ayrılan en az %3'lük pay",
-      "B": "Özel idare bütçelerine konulacak en az %20'lik pay",
-      "C": "Köy bütçelerinden ilköğretime ayrılacak paylar",
-      "D": "Para cezaları ve bağışlar",
-      "E": "Yukarıdakilerin hepsi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Her yıl Devlet gelirleri genel bütçesine dahil gelirlerden ilköğretime ayrılan en az %3'lük pay"
+      },
+      {
+        "key": "B",
+        "text": "Özel idare bütçelerine konulacak en az %20'lik pay"
+      },
+      {
+        "key": "C",
+        "text": "Köy bütçelerinden ilköğretime ayrılacak paylar"
+      },
+      {
+        "key": "D",
+        "text": "Para cezaları ve bağışlar"
+      },
+      {
+        "key": "E",
+        "text": "Yukarıdakilerin hepsi"
+      }
+    ],
     "correctAnswer": "E",
     "explanation": "📌 **Doğru Cevap: E (Yukarıdakilerin hepsi)**\n\n**222 Sayılı Kanun Madde 76:**\n- İlköğretimin gelir kaynakları arasında genel bütçeden ayrılan ödenekler, il özel idare gelirleri, köy bütçesi payları, para cezaları, bağışlar ve vakıf gelirleri yer almaktadır.",
     "hasImage": false,
@@ -11000,13 +12110,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_5018",
     "topicName": "5018 Sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
     "questionText": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu'na göre bakanlıklarda ve diğer kamu idarelerinde 'Üst Yönetici' sıfatı aşağıdakilerden hangisine aittir?",
-    "options": {
-      "A": "Bakanlıklarda Bakan yardımcısı, diğer idarelerde daire başkanı",
-      "B": "Bakanlıklarda Bakan, diğer kamu idarelerinde en üst yönetici, il özel idarelerinde vali, belediyelerde belediye başkanı",
-      "C": "Harcama Yetkilisi",
-      "D": "Gerçekleştirme Görevlisi",
-      "E": "Muhasebe Yetkilisi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlıklarda Bakan yardımcısı, diğer idarelerde daire başkanı"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlıklarda Bakan, diğer kamu idarelerinde en üst yönetici, il özel idarelerinde vali, belediyelerde belediye başkanı"
+      },
+      {
+        "key": "C",
+        "text": "Harcama Yetkilisi"
+      },
+      {
+        "key": "D",
+        "text": "Gerçekleştirme Görevlisi"
+      },
+      {
+        "key": "E",
+        "text": "Muhasebe Yetkilisi"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Bakanlıklarda Bakan, İllerde Vali, Belediyelerde Bld. Başkanı)**\n\n**5018 Sayılı Kanun Madde 11:**\n- *'Bakanlıklarda **Bakan**, diğer kamu idarelerinde **en üst yönetici**, il özel idarelerinde **vali** ve belediyelerde **belediye başkanı** üst yöneticidir.'*",
     "hasImage": false,
@@ -11020,13 +12145,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_4483",
     "topicName": "4483 Sayılı Memurların Yargılanması Kanunu",
     "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre ilçede görevli bir öğretmen veya okul müdürü hakkında soruşturma izni vermeye yetkili merci aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "İlçe Millî Eğitim Müdürü",
-      "B": "Kaymakam",
-      "C": "Vali",
-      "D": "Cumhuriyet Başsavcısı",
-      "E": "İl Millî Eğitim Müdürü"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "İlçe Millî Eğitim Müdürü"
+      },
+      {
+        "key": "B",
+        "text": "Kaymakam"
+      },
+      {
+        "key": "C",
+        "text": "Vali"
+      },
+      {
+        "key": "D",
+        "text": "Cumhuriyet Başsavcısı"
+      },
+      {
+        "key": "E",
+        "text": "İl Millî Eğitim Müdürü"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Kaymakam)**\n\n**4483 Sayılı Kanun Madde 3/a:**\n- *'İlçede görevli memurlar ve diğer kamu görevlileri hakkında **kaymakam** soruşturma izni vermeye yetkilidir.'*\n- *(İlde veya merkez ilçede görevliler hakkında ise Vali yetkilidir).* ",
     "hasImage": false,
@@ -11040,13 +12180,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_4688",
     "topicName": "4688 Sayılı Kamu Görevlileri Sendikaları Kanunu",
     "questionText": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'na göre sendika ve konfederasyonların olağan genel kurulları kaç yılda bir toplanır?",
-    "options": {
-      "A": "2 yılda bir",
-      "B": "3 yılda bir",
-      "C": "4 yılda bir",
-      "D": "5 yılda bir",
-      "E": "6 yılda bir"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "2 yılda bir"
+      },
+      {
+        "key": "B",
+        "text": "3 yılda bir"
+      },
+      {
+        "key": "C",
+        "text": "4 yılda bir"
+      },
+      {
+        "key": "D",
+        "text": "5 yılda bir"
+      },
+      {
+        "key": "E",
+        "text": "6 yılda bir"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (4 yılda bir)**\n\n**4688 Sayılı Kanun Madde 10:**\n- *'Sendika ve konfederasyonların olağan genel kurulları **en geç dört yılda bir** toplanır.'*",
     "hasImage": false,
@@ -11060,13 +12215,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_5442",
     "topicName": "5442 Sayılı İl İdaresi Kanunu",
     "questionText": "5442 sayılı İl İdaresi Kanunu'na göre il genel idaresinin başı ve mercii kimdir?",
-    "options": {
-      "A": "İl İdare Kurulu Başkanı",
-      "B": "Vali",
-      "C": "Büyükşehir Belediye Başkanı",
-      "D": "İl Genel Meclisi Başkanı",
-      "E": "İçişleri Bakanı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "İl İdare Kurulu Başkanı"
+      },
+      {
+        "key": "B",
+        "text": "Vali"
+      },
+      {
+        "key": "C",
+        "text": "Büyükşehir Belediye Başkanı"
+      },
+      {
+        "key": "D",
+        "text": "İl Genel Meclisi Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "İçişleri Bakanı"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Vali)**\n\n**5442 Sayılı Kanun Madde 9:**\n- *'Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır. İl genel idaresinin başı ve merciidir.'*",
     "hasImage": false,
@@ -11080,13 +12250,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_3071",
     "topicName": "3071 Sayılı Dilekçe Hakkı Kanunu",
     "questionText": "3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun'a göre Türk vatandaşlarının ve Türkiye'de ikamet eden yabancıların kendileriyle veya kamu ile ilgili dilek ve şikâyetleri hakkında yetkili makamlarca en geç kaç gün içinde gerekçeli olarak cevap verilir?",
-    "options": {
-      "A": "15 gün",
-      "B": "30 gün",
-      "C": "45 gün",
-      "D": "60 gün",
-      "E": "90 gün"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "15 gün"
+      },
+      {
+        "key": "B",
+        "text": "30 gün"
+      },
+      {
+        "key": "C",
+        "text": "45 gün"
+      },
+      {
+        "key": "D",
+        "text": "60 gün"
+      },
+      {
+        "key": "E",
+        "text": "90 gün"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (30 gün)**\n\n**3071 Sayılı Kanun Madde 7:**\n- *'Dilekçe sahiplerine en geç **otuz gün içinde** gerekçeli olarak cevap verilir. İşlem safahatının duyurulması halinde de nihai sonuç ayrıca bildirilir.'*",
     "hasImage": false,
@@ -11100,13 +12285,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_1cbk",
     "topicName": "1 Sayılı Cumhurbaşkanlığı Kararnamesi (MEB)",
     "questionText": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'ne göre Millî Eğitim Bakanlığının bilimsel danışma ve inceleme organı olan birim aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Temel Eğitim Genel Müdürlüğü",
-      "B": "Talim ve Terbiye Kurulu Başkanlığı",
-      "C": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü",
-      "D": "Teftiş Kurulu Başkanlığı",
-      "E": "Strateji Geliştirme Başkanlığı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Talim ve Terbiye Kurulu Başkanlığı)**\n\n**1 Sayılı CBK Madde 319:**\n- Talim ve Terbiye Kurulu Başkanlığı, Bakanlığın **bilimsel danışma ve karar organıdır**. Eğitim ve öğretim plan ve programlarını, ders kitaplarını ve öğretim materyallerini hazırlar veya inceleyip karara bağlar.",
     "hasImage": false,
@@ -11120,13 +12320,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_1cbk",
     "topicName": "1 Sayılı Cumhurbaşkanlığı Kararnamesi (MEB)",
     "questionText": "1 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre okul öncesi ve ilköğretim (ilkokul ve ortaokul) kademelerine ait eğitim-öğretim programlarını, ders araç ve gereçlerini hazırlamak veya hazırlatmak görevi MEB'in hangi hizmet birimine aittir?",
-    "options": {
-      "A": "Temel Eğitim Genel Müdürlüğü",
-      "B": "Ortaöğretim Genel Müdürlüğü",
-      "C": "Meslekî ve Teknik Eğitim Genel Müdürlüğü",
-      "D": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
-      "E": "Din Öğretimi Genel Müdürlüğü"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Meslekî ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Din Öğretimi Genel Müdürlüğü"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Temel Eğitim Genel Müdürlüğü)**\n\n**1 Sayılı CBK Madde 305:**\n- **Temel Eğitim Genel Müdürlüğü:** Okul öncesi eğitim ile ilköğretim (ilkokul ve ortaokul) kademesindeki öğrencilerin eğitim-öğretim süreçlerini yürütmekle görevlidir.",
     "hasImage": false,
@@ -11140,13 +12355,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_4483",
     "topicName": "4483 Sayılı Memurların Yargılanması Kanunu",
     "questionText": "Türkiye Büyük Millet Meclisinde yasama uzmanı olarak görev yapan A'nın, görevi sebebiyle 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun kapsamına giren bir suç işlediği iddia ediliyor.\n\n4483 sayılı Kanun'a göre A hakkında soruşturma izni vermeye yetkili merci aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Cumhurbaşkanlığı İdari İşler Başkanı",
-      "B": "Ankara Valisi",
-      "C": "Türkiye Büyük Millet Meclisi Genel Sekreteri",
-      "D": "Adalet Bakanı",
-      "E": "İçişleri Bakanı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanlığı İdari İşler Başkanı"
+      },
+      {
+        "key": "B",
+        "text": "Ankara Valisi"
+      },
+      {
+        "key": "C",
+        "text": "Türkiye Büyük Millet Meclisi Genel Sekreteri"
+      },
+      {
+        "key": "D",
+        "text": "Adalet Bakanı"
+      },
+      {
+        "key": "E",
+        "text": "İçişleri Bakanı"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Türkiye Büyük Millet Meclisi Genel Sekreteri)**\n\n**4483 Sayılı Kanun Madde 3/f:**\n- *'Türkiye Büyük Millet Meclisinde görevli memurlar ve diğer kamu görevlileri hakkında **Türkiye Büyük Millet Meclisi Genel Sekreteri**, Türkiye Büyük Millet Meclisi Genel Sekreteri ve yardımcıları hakkında **Türkiye Büyük Millet Meclisi Başkanı**'* soruşturma izni vermeye yetkilidir.",
     "hasImage": false,
@@ -11160,13 +12390,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "İslamiyet öncesi Türk devletlerinde kağanın eşi olan katun (hatun);\n\nI. elçilerin kabulünde kağanın yanında bulunma,\nII. kurultay toplantılarına katılma,\nIII. kağanın yokluğunda devleti ve kurultayı yönetme\n\nyetkilerinden hangilerine sahipti?",
-    "options": {
-      "A": "Yalnız I",
-      "B": "Yalnız II",
-      "C": "I ve II",
-      "D": "II ve III",
-      "E": "I, II ve III"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
     "correctAnswer": "E",
     "explanation": "📌 **Doğru Cevap: E (I, II ve III)**\n\n**Eski Türklerde Kadın ve Hatun Hakları:**\n- İslamiyet öncesi Türk devletlerinde hatun (katun), devlet yönetiminde kağandan sonra en yetkili kişiydi.\n- Resmî fermanlar *'Kağan ve Hatun buyurur ki...'* şeklinde çıkarılır;\n- Hatun yabancı elçileri kabul eder (I), kurultaya katılır ve oy kullanır (II), kağan sefere çıktığında veya vefatında naip sıfatıyla devleti yönetirdi (III).",
     "hasImage": false,
@@ -11180,13 +12425,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "Büyük Selçuklu Devleti'nde vezir Nizamülmülk tarafından Bağdat ve diğer büyük şehirlerde kurulan, dönemin en üst düzey yükseköğretim kurumu niteliğindeki medreseler aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Nizamiye Medreseleri",
-      "B": "Sahn-ı Seman Medreseleri",
-      "C": "Cacabey Medresesi",
-      "D": "Karatay Medresesi",
-      "E": "Yağıbasan Medresesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Nizamiye Medreseleri"
+      },
+      {
+        "key": "B",
+        "text": "Sahn-ı Seman Medreseleri"
+      },
+      {
+        "key": "C",
+        "text": "Cacabey Medresesi"
+      },
+      {
+        "key": "D",
+        "text": "Karatay Medresesi"
+      },
+      {
+        "key": "E",
+        "text": "Yağıbasan Medresesi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Nizamiye Medreseleri)**\n\n**Tarihsel Bilgi:**\n- Sultan Alparslan ve Melikşah dönemlerinde Vezir Nizamülmülk tarafından kurulan **Nizamiye Medreseleri** (en ünlüsü 1067 Bağdat Nizamiye Medresesi), hem Sünni İslam düşüncesini savunmak (Batınilik tehlikesine karşı) hem de devlet memuru ve kadı yetiştirmek amacıyla kurulmuş dünyanın ilk üniversite tipi kurumlarındandır.",
     "hasImage": false,
@@ -11200,13 +12460,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "Osmanlı Devleti'nde II. Murad döneminde temelleri atılan ve Fatih Sultan Mehmet döneminde kurumsallaştırılarak devlet adamı, vezir, komutan ve üst düzey bürokrat yetiştirilen saray okulu aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Şehzade Mektebi",
-      "B": "Enderun Mektebi",
-      "C": "Hendesehâne",
-      "D": "Mekteb-i Mülkiye",
-      "E": "Darülmuallimin"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Şehzade Mektebi"
+      },
+      {
+        "key": "B",
+        "text": "Enderun Mektebi"
+      },
+      {
+        "key": "C",
+        "text": "Hendesehâne"
+      },
+      {
+        "key": "D",
+        "text": "Mekteb-i Mülkiye"
+      },
+      {
+        "key": "E",
+        "text": "Darülmuallimin"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Enderun Mektebi)**\n\n**Kurumsal Bilgi:**\n- **Enderun Mektebi:** Topkapı Sarayı'nda devşirme kökenli üstün yetenekli gençlerin eğitildiği saray okuludur. Buradan sadrazamlar, beylerbeyleri, nişancılar ve komutanlar yetişirdi.",
     "hasImage": false,
@@ -11220,13 +12495,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "Osmanlı Devleti'nde gelirleri doğrudan devlet hazinesine aktarılan, genellikle iltizam usulüyle işletilen ve ihale yoluyla mültezimlere verilen dirlik arazisi türü aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Vakıf Arazi",
-      "B": "Mukataa Arazi",
-      "C": "Yurtluk Arazi",
-      "D": "Ocaklık Arazi",
-      "E": "Paşmaklık Arazi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Vakıf Arazi"
+      },
+      {
+        "key": "B",
+        "text": "Mukataa Arazi"
+      },
+      {
+        "key": "C",
+        "text": "Yurtluk Arazi"
+      },
+      {
+        "key": "D",
+        "text": "Ocaklık Arazi"
+      },
+      {
+        "key": "E",
+        "text": "Paşmaklık Arazi"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Mukataa Arazi)**\n\n**Arazi Çeşitleri:**\n- **Mukataa:** Geliri doğrudan merkezi hazineye giden topraklar (iltizamla kiralanır).\n- **Paşmaklık:** Geliri padişahın annesi ve kızlarına ayrılan.\n- **Ocaklık:** Geliri kale muhafızlarına ve tersane giderlerine ayrılan.\n- **Yurtluk:** Geliri sınır boylarını koruyanlara verilen.\n- **Vakıf:** Hayır kurumları ve cami/medrese giderleri için ayrılan.",
     "hasImage": false,
@@ -11240,13 +12530,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "tarih_genel",
     "topicName": "Genel Tarih",
     "questionText": "Osmanlı Devleti'nde 1839 yılında ilan edilen Tanzimat Fermanı'nın Türk hukuk tarihindeki en önemli özelliği aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Padişahın ilk kez halk tarafından seçilmesi",
-      "B": "Padişahın kendi yetkilerini sınırlandırarak kanun üstünlüğünü (hukukun üstünlüğü) resmen kabul etmesi",
-      "C": "Cumhuriyet rejimine geçilmesi",
-      "D": "Çok partili parlamenter sisteme geçilmesi",
-      "E": "Tüm dirlik sisteminin kaldırılması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Padişahın ilk kez halk tarafından seçilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Padişahın kendi yetkilerini sınırlandırarak kanun üstünlüğünü (hukukun üstünlüğü) resmen kabul etmesi"
+      },
+      {
+        "key": "C",
+        "text": "Cumhuriyet rejimine geçilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Çok partili parlamenter sisteme geçilmesi"
+      },
+      {
+        "key": "E",
+        "text": "Tüm dirlik sisteminin kaldırılması"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Kanun üstünlüğünün kabul edilmesi)**\n\n**Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu):**\n- Sultan Abdülmecid döneminde Hariciye Nazırı Mustafa Reşit Paşa tarafından okunmuştur.\n- Padişah ilk kez *'Ben dahi bu kanunlara uyacağıma yemin ederim'* diyerek kendi otoritesinin üstünde **kanun gücünün** varlığını kabul etmiştir.",
     "hasImage": false,
@@ -11260,13 +12565,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nTürkiye'nin yerşekilleri dikkate alındığında bu alanlarla ilgili aşağıdakilerden hangisi söylenemez?",
-    "options": {
-      "A": "I numaralı alandaki dağlık saha bir horst örneğidir.",
-      "B": "II numaralı alandaki platoda karstik şekiller görülebilmektedir.",
-      "C": "III numaralı alanda rüzgâr etkisiyle oluşan yeryüzü şekilleri yaygındır.",
-      "D": "IV numaralı ovanın oluşumunda tektonik hareketler etkili olmuştur.",
-      "E": "V numaralı alanda takke buzuluna rastlanmaktadır."
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "I numaralı alandaki dağlık saha bir horst örneğidir."
+      },
+      {
+        "key": "B",
+        "text": "II numaralı alandaki platoda karstik şekiller görülebilmektedir."
+      },
+      {
+        "key": "C",
+        "text": "III numaralı alanda rüzgâr etkisiyle oluşan yeryüzü şekilleri yaygındır."
+      },
+      {
+        "key": "D",
+        "text": "IV numaralı ovanın oluşumunda tektonik hareketler etkili olmuştur."
+      },
+      {
+        "key": "E",
+        "text": "V numaralı alanda takke buzuluna rastlanmaktadır."
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (III numaralı alanda rüzgar etkisiyle oluşan yer şekilleri yaygındır ifadesi yanlıştır)**\n\n**Harita Analizi:**\n- **I (Biga / Kaz Dağları):** Kırıklı dağ sisteminde bir horsttur (Doğru).\n- **II (Taşeli Platosu):** Kalkerli kireçtaşı arazisi üzerinde karstik şekiller yaygındır (Doğru).\n- **III (Sinop / İnceburun - Karadeniz kıyısı):** Karadeniz kıyılarında nemli ve gür bitki örtüsü nedeniyle **dalga ve akıntı aşınım şekilleri (falez, tombolo)** etkilidir; rüzgâr aşınım ve birikim şekilleri kurak/yarı kurak İç ve Güneydoğu Anadolu'da yaygındır (C şıkkı söylenemez).\n- **IV (Amik Ovası / Hatay):** Tektonik graben alanıdır (Doğru).\n- **V (Ağrı Dağı):** Zirvesinde kalıcı takke buzulu bulunur (Doğru).",
     "hasImage": true,
@@ -11280,13 +12600,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Türkiye'de Akdeniz iklim bölgesinde kızılçam ormanlarının tahrip edilmesiyle oluşan kısa boylu, sert yapraklı ve kışın yaprak dökmeyen çalı topluluğuna ne ad verilir?",
-    "options": {
-      "A": "Maki",
-      "B": "Garig",
-      "C": "Psödömaki",
-      "D": "Antropojen Bozkır",
-      "E": "Tundra"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Maki"
+      },
+      {
+        "key": "B",
+        "text": "Garig"
+      },
+      {
+        "key": "C",
+        "text": "Psödömaki"
+      },
+      {
+        "key": "D",
+        "text": "Antropojen Bozkır"
+      },
+      {
+        "key": "E",
+        "text": "Tundra"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Maki)**\n\n**Bitki Coğrafyası:**\n- **Kızılçam tahribatı** ➡️ **Maki** (Zeytin, defne, mersin, sandal, keçiboynuzu, kermes meşesi).\n- *Maki tahribatı* ➡️ **Garig (Frigana)** (Lavanta, abdestbozan, kekik).\n- *Karadeniz orman tahribatı* ➡️ **Psödömaki (Yalancı maki)**.\n- *İç Anadolu orman tahribatı* ➡️ **Antropojen bozkır**.",
     "hasImage": false,
@@ -11300,13 +12635,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Türkiye'de kırsal yerleşmelerin dokusu üzerinde yer şekilleri ve su kaynakları belirleyici olmaktadır.\n\nBuna göre engebeli arazinin fazla, su kaynaklarının bol olduğu Doğu Karadeniz kırsalında en yaygın yerleşme dokusu aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Toplu Yerleşme",
-      "B": "Dağınık Yerleşme",
-      "C": "Çizgisel Yerleşme",
-      "D": "Dairesel Yerleşme",
-      "E": "Dönemsel Yerleşme"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Toplu Yerleşme"
+      },
+      {
+        "key": "B",
+        "text": "Dağınık Yerleşme"
+      },
+      {
+        "key": "C",
+        "text": "Çizgisel Yerleşme"
+      },
+      {
+        "key": "D",
+        "text": "Dairesel Yerleşme"
+      },
+      {
+        "key": "E",
+        "text": "Dönemsel Yerleşme"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Dağınık Yerleşme)**\n\n**Yerleşme Dokuları:**\n- **Dağınık Yerleşme:** Yer şekillerinin engebeli, tarım alanlarının parçalı ve su kaynaklarının bol olduğu **Karadeniz Bölgesi'nde** görülür.\n- **Toplu Yerleşme:** Arazinin düz, su kaynaklarının kısıtlı ve kuyuların etrafında toplanıldığı **İç ve Güneydoğu Anadolu'da** görülür.",
     "hasImage": false,
@@ -11320,13 +12670,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Türkiye'de çıkarılan ve işlenen madenlerle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Boksit (Alüminyum) — Seydişehir (Konya)",
-      "B": "Bakır — Murgul (Artvin)",
-      "C": "Krom — Guleman (Elazığ)",
-      "D": "Bor Mineralleri — Seyitgazi (Eskişehir)",
-      "E": "Demir — Batman"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Boksit (Alüminyum) — Seydişehir (Konya)"
+      },
+      {
+        "key": "B",
+        "text": "Bakır — Murgul (Artvin)"
+      },
+      {
+        "key": "C",
+        "text": "Krom — Guleman (Elazığ)"
+      },
+      {
+        "key": "D",
+        "text": "Bor Mineralleri — Seyitgazi (Eskişehir)"
+      },
+      {
+        "key": "E",
+        "text": "Demir — Batman"
+      }
+    ],
     "correctAnswer": "E",
     "explanation": "📌 **Doğru Cevap: E (Demir — Batman eşleştirmesi yanlıştır)**\n\n**Maden Coğrafyası:**\n- **Batman:** Türkiye'nin ilk ve en önemli **Petrol** çıkarma ve rafineri merkezidir (Raman Dağı).\n- **Demir:** Sivas (Divriği), Malatya (Hekimhan, Hasançelebi), Balıkesir (Eymir), İzmir (Torbalı) ve Sakarya (Çamdağı) yörelerinde çıkarılır.",
     "hasImage": false,
@@ -11340,13 +12705,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "cografya_genel",
     "topicName": "Türkiye Coğrafyası",
     "questionText": "Türkiye'de Karadeniz Bölgesi'ni İç Anadolu'ya bağlayan ve kış aylarında ulaşımın güvenle sağlanması amacıyla inşa edilen Ilgaz 15 Temmuz İstiklal Tüneli hangi iki ilimiz arasında yer almaktadır?",
-    "options": {
-      "A": "Kastamonu — Çankırı",
-      "B": "Trabzon — Gümüşhane",
-      "C": "Rize — Erzurum",
-      "D": "Samsun — Amasya",
-      "E": "Sinop — Kastamonu"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kastamonu — Çankırı"
+      },
+      {
+        "key": "B",
+        "text": "Trabzon — Gümüşhane"
+      },
+      {
+        "key": "C",
+        "text": "Rize — Erzurum"
+      },
+      {
+        "key": "D",
+        "text": "Samsun — Amasya"
+      },
+      {
+        "key": "E",
+        "text": "Sinop — Kastamonu"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Kastamonu — Çankırı)**\n\n**Ulaşım Coğrafyası:**\n- **Ilgaz 15 Temmuz İstiklal Tüneli:** Ilgaz Dağları'nı aşarak **Kastamonu ile Çankırı** arasındaki karayolu ulaşımını kesintisiz hale getiren stratejik tüneldir.\n- *(Zigana Tüneli: Trabzon-Gümüşhane, Ovit Tüneli: Rize-Erzurum).* ",
     "hasImage": false,
@@ -11360,13 +12740,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "yurttaslik_genel",
     "topicName": "Temel Yurttaşlık",
     "questionText": "Hukuk kurallarının diğer sosyal düzen kurallarından (din, ahlak, görgü kuralları) en temel ayırt edici özelliği aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Yazılı olması",
-      "B": "Devlet gücüyle desteklenmiş maddi yaptırımlı (müeyyideli) olması",
-      "C": "Toplumda düzeni sağlaması",
-      "D": "Genel ve soyut olması",
-      "E": "Kişiden kişiye değişmemesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Yazılı olması"
+      },
+      {
+        "key": "B",
+        "text": "Devlet gücüyle desteklenmiş maddi yaptırımlı (müeyyideli) olması"
+      },
+      {
+        "key": "C",
+        "text": "Toplumda düzeni sağlaması"
+      },
+      {
+        "key": "D",
+        "text": "Genel ve soyut olması"
+      },
+      {
+        "key": "E",
+        "text": "Kişiden kişiye değişmemesi"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Devlet gücüyle desteklenmiş maddi yaptırım)**\n\n**Temel Hukuk:**\n- Din ve ahlak kurallarının yaptırımı **manevidir** (vicdan azabı, günahtan çekinme, ayıplanma).\n- Hukuk kurallarının yaptırımı ise doğrudan **kamu gücüne dayalı maddi yaptırımdır** (ceza, cebri icra, tazminat, iptal, hükümsüzlük).",
     "hasImage": false,
@@ -11380,13 +12775,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "yurttaslik_genel",
     "topicName": "Temel Yurttaşlık",
     "questionText": "1982 Anayasası'na göre kanun teklif etmeye yetkili merci aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Cumhurbaşkanı",
-      "B": "Milletvekilleri",
-      "C": "Bakanlar Kurulu",
-      "D": "Danıştay",
-      "E": "Yüksek Seçim Kurulu"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı"
+      },
+      {
+        "key": "B",
+        "text": "Milletvekilleri"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlar Kurulu"
+      },
+      {
+        "key": "D",
+        "text": "Danıştay"
+      },
+      {
+        "key": "E",
+        "text": "Yüksek Seçim Kurulu"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Milletvekilleri)**\n\n**1982 Anayasası Madde 88:**\n- *'Kanun teklif etmeye **milletvekilleri** yetkilidir.'*\n- *(2017 Anayasa değişikliği ile hükümet tasarısı kaldırılmıştır. Cumhurbaşkanının kanun teklif etme yetkisi sadece **Bütçe Kanunu Teklifi** ile sınırlıdır).* ",
     "hasImage": false,
@@ -11400,13 +12810,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "yurttaslik_genel",
     "topicName": "Temel Yurttaşlık",
     "questionText": "1982 Anayasası'na göre Hâkimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur ve kaç daire halinde çalışır?",
-    "options": {
-      "A": "13 üye — 2 daire",
-      "B": "15 üye — 3 daire",
-      "C": "12 üye — 2 daire",
-      "D": "17 üye — 2 daire",
-      "E": "11 üye — 3 daire"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "13 üye — 2 daire"
+      },
+      {
+        "key": "B",
+        "text": "15 üye — 3 daire"
+      },
+      {
+        "key": "C",
+        "text": "12 üye — 2 daire"
+      },
+      {
+        "key": "D",
+        "text": "17 üye — 2 daire"
+      },
+      {
+        "key": "E",
+        "text": "11 üye — 3 daire"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (13 üye — 2 daire)**\n\n**1982 Anayasası Madde 159:**\n- HSK **13 üyeden** oluşur ve **2 daire** halinde çalışır.\n- Kurulun Başkanı **Adalet Bakanı**, tabii üyesi **Adalet Bakanlığı İlgili Bakan Yardımcısıdır**.\n- 4 üyeyi Cumhurbaşkanı, 7 üyeyi TBMM seçer.",
     "hasImage": false,
@@ -11420,13 +12845,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "yurttaslik_genel",
     "topicName": "Temel Yurttaşlık",
     "questionText": "1982 Anayasası'na göre siyasi partilerin mali denetimini yapan ve kapatılma davalarına bakan yüksek yargı organları sırasıyla aşağıdakilerin hangisinde doğru verilmiştir?",
-    "options": {
-      "A": "Sayıştay — Yargıtay",
-      "B": "Anayasa Mahkemesi (Sayıştay yardımıyla) — Anayasa Mahkemesi",
-      "C": "Danıştay — Yargıtay Ceza Genel Kurulu",
-      "D": "Yüksek Seçim Kurulu — Anayasa Mahkemesi",
-      "E": "Maliye Bakanlığı — Yargıtay Cumhuriyet Başsavcılığı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Sayıştay — Yargıtay"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa Mahkemesi (Sayıştay yardımıyla) — Anayasa Mahkemesi"
+      },
+      {
+        "key": "C",
+        "text": "Danıştay — Yargıtay Ceza Genel Kurulu"
+      },
+      {
+        "key": "D",
+        "text": "Yüksek Seçim Kurulu — Anayasa Mahkemesi"
+      },
+      {
+        "key": "E",
+        "text": "Maliye Bakanlığı — Yargıtay Cumhuriyet Başsavcılığı"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Mali Denetim: AYM / Kapatma Davası: AYM)**\n\n**1982 Anayasası Madde 69:**\n- Siyasi partilerin kapatılmasına Yargıtay Cumhuriyet Başsavcısının açacağı dava üzerine **Anayasa Mahkemesi** karar verir.\n- Siyasi partilerin mal edinimleri ve gelir-gider denetimini de **Anayasa Mahkemesi** yapar (bu denetimi yaparken Sayıştay'dan yardım alır).",
     "hasImage": false,
@@ -11440,13 +12880,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "guncel_genel",
     "topicName": "Güncel Bilgiler",
     "questionText": "Türkiye'nin ilk yerli elektrikli otomobili olan Togg'un seri üretiminin yapıldığı Teknoloji Kampüsü Bursa'nın hangi ilçesinde açılmıştır?",
-    "options": {
-      "A": "İnegöl",
-      "B": "Gemlik",
-      "C": "Nilüfer",
-      "D": "Osmangazi",
-      "E": "Mudanya"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "İnegöl"
+      },
+      {
+        "key": "B",
+        "text": "Gemlik"
+      },
+      {
+        "key": "C",
+        "text": "Nilüfer"
+      },
+      {
+        "key": "D",
+        "text": "Osmangazi"
+      },
+      {
+        "key": "E",
+        "text": "Mudanya"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Gemlik)**\n\n**Güncel Sanayi ve Teknoloji:**\n- Togg Teknoloji Kampüsü, 29 Ekim 2022 tarihinde **Bursa'nın Gemlik ilçesinde** resmî törenle açılarak seri üretime başlamıştır.",
     "hasImage": false,
@@ -11460,13 +12915,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "guncel_genel",
     "topicName": "Güncel Bilgiler",
     "questionText": "Cumhurbaşkanlığı Kararı ile ilan edilen ve Türk kültür ve medeniyetinin büyük mutasavvıfı ve şairi Mevlânâ Celâleddîn-i Rûmî'nin vefatının 750. yılı sebebiyle Türkiye'de 'Mevlânâ Yılı' olarak kutlanan yıl aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "2021",
-      "B": "2022",
-      "C": "2023",
-      "D": "2024",
-      "E": "2025"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "2021"
+      },
+      {
+        "key": "B",
+        "text": "2022"
+      },
+      {
+        "key": "C",
+        "text": "2023"
+      },
+      {
+        "key": "D",
+        "text": "2024"
+      },
+      {
+        "key": "E",
+        "text": "2025"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (2023 Yılı)**\n\n**Güncel Kültür:**\n- Hz. Mevlânâ'nın 'Şeb-i Arûs' (Vuslat) yıldönümünün 750. yılı olması vesilesiyle **2023 yılı**, UNESCO ve Cumhurbaşkanlığı genelgesi ile **'Mevlânâ Yılı'** ilan edilmiştir.",
     "hasImage": false,
@@ -11480,13 +12950,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Mondros Ateşkes Antlaşması'nın 24. maddesinde 'Vilâyât-ı Sitte'de (Altı Doğu İli) bir karışıklık çıkarsa İtilaf Devletleri bu illerin herhangi bir kısmını işgal hakkına sahip olacaktır.' hükmü yer almıştır.\n\nAşağıdakilerden hangisi bu maddede kastedilen altı ilden biri değildir?",
-    "options": {
-      "A": "Erzurum",
-      "B": "Van",
-      "C": "Diyarbakır",
-      "D": "Trabzon",
-      "E": "Sivas"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Erzurum"
+      },
+      {
+        "key": "B",
+        "text": "Van"
+      },
+      {
+        "key": "C",
+        "text": "Diyarbakır"
+      },
+      {
+        "key": "D",
+        "text": "Trabzon"
+      },
+      {
+        "key": "E",
+        "text": "Sivas"
+      }
+    ],
     "correctAnswer": "D",
     "explanation": "📌 **Doğru Cevap: D (Trabzon)**\n\n**Vilâyât-ı Sitte (BEST-VD Şifresi):**\n1. **B**itlis\n2. **E**rzurum\n3. **S**ivas\n4. **T**unceli/Mamuretülaziz (Elazığ)\n5. **V**an\n6. **D**iyarbakır\n\n*Not:* Trabzon Karadeniz ilidir, Vilâyât-ı Sitte illeri arasında yer almaz.",
     "hasImage": false,
@@ -11500,13 +12985,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Erzurum Kongresi'nde alınan 'Kuvâ-yı Millîye'yi tek kuvvet tanımak ve millî iradeyi hâkim kılmak esastır.' kararı ile aşağıdakilerden hangisi hedeflenmiştir?",
-    "options": {
-      "A": "Manda ve himayeyi kabul etmek",
-      "B": "Hem vatanın bağımsızlığını sağlamak hem de millet egemenliğine dayalı bir yönetim kurmak",
-      "C": "İstanbul Hükûmeti ile koşulsuz uzlaşmak",
-      "D": "Yalnızca Doğu Anadolu'yu kurtarmak",
-      "E": "Saltanat şurasını genişletmek"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Manda ve himayeyi kabul etmek"
+      },
+      {
+        "key": "B",
+        "text": "Hem vatanın bağımsızlığını sağlamak hem de millet egemenliğine dayalı bir yönetim kurmak"
+      },
+      {
+        "key": "C",
+        "text": "İstanbul Hükûmeti ile koşulsuz uzlaşmak"
+      },
+      {
+        "key": "D",
+        "text": "Yalnızca Doğu Anadolu'yu kurtarmak"
+      },
+      {
+        "key": "E",
+        "text": "Saltanat şurasını genişletmek"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Bağımsızlık ve Millet Egemenliği)**\n\n**Kongre Kararlarının Analizi:**\n- *'Kuvâ-yı Millîye'yi etken kılmak'* ➡️ Düşmana karşı silahlı direniş ve **Tam Bağımsızlık**.\n- *'Millî iradeyi hâkim kılmak'* ➡️ Padişah/Saray iradesi yerine **Millet Egemenliği ve Demokrasi**.",
     "hasImage": false,
@@ -11520,13 +13020,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Sivas Kongresi'nde tüm milli cemiyetlerin tek çatı altında birleştirilmesiyle kurulan teşkilat aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
-      "B": "Kilikyalılar Cemiyeti",
-      "C": "Milli Kongre Cemiyeti",
-      "D": "Karakol Cemiyeti",
-      "E": "Temsil Heyeti İcra Vekilleri"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti"
+      },
+      {
+        "key": "B",
+        "text": "Kilikyalılar Cemiyeti"
+      },
+      {
+        "key": "C",
+        "text": "Milli Kongre Cemiyeti"
+      },
+      {
+        "key": "D",
+        "text": "Karakol Cemiyeti"
+      },
+      {
+        "key": "E",
+        "text": "Temsil Heyeti İcra Vekilleri"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti - ARMHC)**\n\n**Sivas Kongresi:**\n- 4-11 Eylül 1919 Sivas Kongresi'nde bölgesel kurtuluş arayan tüm dernekler **ARMHC** çatısı altında birleştirilerek Milli Mücadele tek merkezden yönetilir hale getirilmiştir.",
     "hasImage": false,
@@ -11540,13 +13055,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Kurtuluş Savaşı Doğu Cephesi'nde Ermenilere karşı kazanılan zafer sonrasında TBMM Hükûmeti'nin imzaladığı ve TBMM'nin uluslararası alandaki ilk siyasi ve askeri başarısı olan antlaşma aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Moskova Antlaşması",
-      "B": "Kars Antlaşması",
-      "C": "Gümrü Antlaşması",
-      "D": "Brest-Litovsk Antlaşması",
-      "E": "Ankara Antlaşması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Moskova Antlaşması"
+      },
+      {
+        "key": "B",
+        "text": "Kars Antlaşması"
+      },
+      {
+        "key": "C",
+        "text": "Gümrü Antlaşması"
+      },
+      {
+        "key": "D",
+        "text": "Brest-Litovsk Antlaşması"
+      },
+      {
+        "key": "E",
+        "text": "Ankara Antlaşması"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Gümrü Antlaşması)**\n\n**3 Aralık 1920 Gümrü Antlaşması:**\n- Kâzım Karabekir komutasındaki 15. Kolordu'nun zaferi sonucu imzalanmıştır.\n- TBMM'yi ve Misak-ı Milli'yi tanıyan ilk devlet Ermenistan olmuş, Sevr Antlaşması'ndaki iddialarından vazgeçmiştir.",
     "hasImage": false,
@@ -11560,13 +13090,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Sakarya Meydan Muharebesi öncesinde ordunun acil giyecek, yiyecek, taşıt ve cephane ihtiyacını karşılamak amacıyla Başkomutan Mustafa Kemal Paşa tarafından 7-8 Ağustos 1921'de yayımlanan emirler aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Hıyanet-i Vataniye Kanunu",
-      "B": "Tekâlif-i Milliye Emirleri",
-      "C": "Teşkilat-ı Esasiye",
-      "D": "Firariler Kanunu",
-      "E": "Men-i Müskirat Kanunu"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Hıyanet-i Vataniye Kanunu"
+      },
+      {
+        "key": "B",
+        "text": "Tekâlif-i Milliye Emirleri"
+      },
+      {
+        "key": "C",
+        "text": "Teşkilat-ı Esasiye"
+      },
+      {
+        "key": "D",
+        "text": "Firariler Kanunu"
+      },
+      {
+        "key": "E",
+        "text": "Men-i Müskirat Kanunu"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Tekâlif-i Milliye Emirleri)**\n\n**Milli Yükümlülük Emirleri:**\n- Mustafa Kemal Paşa, Başkomutanlık yasasının verdiği yasama yetkisini kullanarak her ilçede Tekalif-i Milliye komisyonları kurdurmuş ve halkın elindeki erzak, çarık, çorap, binek ve silahların orduya devredilmesini sağlamıştır.",
     "hasImage": false,
@@ -11580,13 +13125,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "11 Ekim 1922 tarihinde imzalanan Mudanya Ateşkes Antlaşması'nda TBMM adına görüşmeleri yürüten ve anlaşmayı imzalayan temsilci aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Rauf Orbay",
-      "B": "İsmet İnönü",
-      "C": "Ali Fethi Okyar",
-      "D": "Bekir Sami Kunduh",
-      "E": "Yusuf Kemal Tengirşenk"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Rauf Orbay"
+      },
+      {
+        "key": "B",
+        "text": "İsmet İnönü"
+      },
+      {
+        "key": "C",
+        "text": "Ali Fethi Okyar"
+      },
+      {
+        "key": "D",
+        "text": "Bekir Sami Kunduh"
+      },
+      {
+        "key": "E",
+        "text": "Yusuf Kemal Tengirşenk"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (İsmet İnönü)**\n\n**Diplomasi:**\n- Mudanya Konferansı'nda TBMM'yi Batı Cephesi Komutanı **İsmet Paşa** temsil etmiştir. Buradaki başarılı diplomasisi sayesinde Doğu Trakya, Boğazlar ve İstanbul tek kurşun atılmadan savaşsız teslim alınmış ve İsmet Paşa Lozan Başdelegesi olarak atanmıştır.",
     "hasImage": false,
@@ -11600,13 +13160,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "24 Temmuz 1923'te imzalanan Lozan Barış Antlaşması'nda çözüme kavuşturulamayan ve daha sonra Türkiye ile İngiltere arasında ikili görüşmelere bırakılan sınır meselesi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Suriye Sınırı (Hatay)",
-      "B": "Irak Sınırı (Musul Meselesi)",
-      "C": "Batı Trakya Sınırı",
-      "D": "Sovyet Rusya Sınırı",
-      "E": "Ege Adaları Sınırı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Suriye Sınırı (Hatay)"
+      },
+      {
+        "key": "B",
+        "text": "Irak Sınırı (Musul Meselesi)"
+      },
+      {
+        "key": "C",
+        "text": "Batı Trakya Sınırı"
+      },
+      {
+        "key": "D",
+        "text": "Sovyet Rusya Sınırı"
+      },
+      {
+        "key": "E",
+        "text": "Ege Adaları Sınırı"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Irak Sınırı / Musul Meselesi)**\n\n**Lozan'da Çözülemeyen Tek Sınır:**\n- Türkiye ve İngiltere arasındaki petrol anlaşmazlığı nedeniyle Irak sınırı (Musul) Lozan'da çözülememiş, 9 ay içinde ikili müzakerelere bırakılmıştır. 1926 Ankara Antlaşması ile kesinleşmiştir.",
     "hasImage": false,
@@ -11620,13 +13195,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "17 Şubat 1926 tarihinde kabul edilen Türk Medeni Kanunu ile kadınlara sağlanan haklar arasında aşağıdakilerden hangisi yer almaz?",
-    "options": {
-      "A": "Tek eşle evlilik zorunluluğu ve resmî nikâh",
-      "B": "Miras ve mahkeme şahitliğinde kadın-erkek eşitliği",
-      "C": "Kadınlara boşanma hakkı tanınması",
-      "D": "Kadınlara istediği mesleği seçme hakkı",
-      "E": "Milletvekili seçme ve seçilme hakkı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Tek eşle evlilik zorunluluğu ve resmî nikâh"
+      },
+      {
+        "key": "B",
+        "text": "Miras ve mahkeme şahitliğinde kadın-erkek eşitliği"
+      },
+      {
+        "key": "C",
+        "text": "Kadınlara boşanma hakkı tanınması"
+      },
+      {
+        "key": "D",
+        "text": "Kadınlara istediği mesleği seçme hakkı"
+      },
+      {
+        "key": "E",
+        "text": "Milletvekili seçme ve seçilme hakkı"
+      }
+    ],
     "correctAnswer": "E",
     "explanation": "📌 **Doğru Cevap: E (Milletvekili seçme ve seçilme hakkı)**\n\n**Hukuki Haklar vs Siyasi Haklar:**\n- 1926 Medeni Kanun yalnızca **sosyal, hukuki ve ekonomik hakları** (evlilik, miras, boşanma, velayet, meslek seçimi) kapsar.\n- Siyasi haklar (seçme-seçilme) daha sonra verilmiştir: **1930 Belediye**, **1933 Muhtarlık**, **1934 Milletvekili** (034 BMW Formülü).",
     "hasImage": false,
@@ -11640,13 +13230,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Cumhuriyet Dönemi'nde 1929 Dünya Ekonomik Buhranı'nın (Büyük Buhran) olumsuz etkilerini aşmak ve özel sektörün sermaye yetersizliği sebebiyle kuramadığı temel sanayi tesislerini bizzat devlet eliyle kurmak amacıyla uygulanan Atatürk ilkesi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Devletçilik",
-      "B": "Cumhuriyetçilik",
-      "C": "Laiklik",
-      "D": "İnkılapçılık",
-      "E": "Milliyetçilik"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Devletçilik"
+      },
+      {
+        "key": "B",
+        "text": "Cumhuriyetçilik"
+      },
+      {
+        "key": "C",
+        "text": "Laiklik"
+      },
+      {
+        "key": "D",
+        "text": "İnkılapçılık"
+      },
+      {
+        "key": "E",
+        "text": "Milliyetçilik"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Devletçilik)**\n\n**Atatürk'ün Devletçilik İlkesi:**\n- Özel teşebbüsü reddetmeyen, ancak halkın ve memleketin acil ihtiyaç duyduğu fabrika, demiryolu, bankacılık ve madencilik yatırımlarını devlet eliyle gerçekleştiren karma ve dinamik ekonomik modeldir (I. Beş Yıllık Sanayi Planı, Sümerbank, Etibank).",
     "hasImage": false,
@@ -11660,13 +13265,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "1934 yılında İtalya ve Almanya'nın yayılmacı politikalarına karşı Türkiye, Yunanistan, Romanya ve Yugoslavya arasında batı sınırlarının güvenliğini sağlamak amacıyla imzalanan bölgesel savunma paktı aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Balkan Antantı",
-      "B": "Sadabat Paktı",
-      "C": "Akdeniz Paktı",
-      "D": "Bağdat Paktı",
-      "E": "Kellogg-Briand Paktı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Balkan Antantı"
+      },
+      {
+        "key": "B",
+        "text": "Sadabat Paktı"
+      },
+      {
+        "key": "C",
+        "text": "Akdeniz Paktı"
+      },
+      {
+        "key": "D",
+        "text": "Bağdat Paktı"
+      },
+      {
+        "key": "E",
+        "text": "Kellogg-Briand Paktı"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Balkan Antantı - 9 Şubat 1934)**\n\n**Dış Politika:**\n- **TAYYAR Şifresi (Türkiye, Atina/Yunanistan, Yugoslavya, Romanya):** Batı sınırını korumak için Atina'da imzalanmıştır.\n- *(Doğu sınırını korumak için 1937'de imzalanan ise Sadabat Paktı'dır).* ",
     "hasImage": false,
@@ -11680,13 +13300,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Mustafa Kemal Atatürk'ün 1919 yılı Mayıs'ından 1927 yılına kadar geçen Millî Mücadele ve Cumhuriyet'in kuruluş sürecini belgelerle anlattığı ve CHP II. Kurultayı'nda 6 gün boyunca okuduğu ölümsüz eseri aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Nutuk",
-      "B": "Zâbit ve Kumandan ile Hasbihal",
-      "C": "Vatandaş İçin Medeni Bilgiler",
-      "D": "Geometri",
-      "E": "Bölüğün Muharebe Eğitimi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Nutuk"
+      },
+      {
+        "key": "B",
+        "text": "Zâbit ve Kumandan ile Hasbihal"
+      },
+      {
+        "key": "C",
+        "text": "Vatandaş İçin Medeni Bilgiler"
+      },
+      {
+        "key": "D",
+        "text": "Geometri"
+      },
+      {
+        "key": "E",
+        "text": "Bölüğün Muharebe Eğitimi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Nutuk / Söylev)**\n\n**Eser İncelemesi:**\n- *'1919 yılı Mayısı'nın 19'uncu günü Samsun'a çıktım'* cümlesiyle başlar, *'Ey Türk Gençliği!'* hitabesiyle biter. 1919-1927 arasını birinci elden belgelerle aktarır.",
     "hasImage": false,
@@ -11700,13 +13335,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "inkilap_tarihi",
     "topicName": "İnkılap Tarihi",
     "questionText": "Atatürk'ün 'Yurtta sulh, cihanda sulh' vecizesi Türk dış politikasının hangi temel ilkesini ifade etmektedir?",
-    "options": {
-      "A": "Yayılmacılık ve sömürgecilik",
-      "B": "Barışçılık ve uluslararası hukuka saygı",
-      "C": "Yalnızlık politikası (İzolasyonizm)",
-      "D": "Tek taraflı askeri müdahalecilik",
-      "E": "İdeolojik bloklaşma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Yayılmacılık ve sömürgecilik"
+      },
+      {
+        "key": "B",
+        "text": "Barışçılık ve uluslararası hukuka saygı"
+      },
+      {
+        "key": "C",
+        "text": "Yalnızlık politikası (İzolasyonizm)"
+      },
+      {
+        "key": "D",
+        "text": "Tek taraflı askeri müdahalecilik"
+      },
+      {
+        "key": "E",
+        "text": "İdeolojik bloklaşma"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Barışçılık ve uluslararası hukuka saygı)**\n\n**Dış Politika İlkeleri:**\n- Türkiye Cumhuriyeti içte huzuru, dışta ise tüm dünya milletleriyle karşılıklı saygı, eşitlik ve barış içerisinde yaşamayı dış politikasının temeli kabul etmiştir.",
     "hasImage": false,
@@ -11720,13 +13370,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "degerler_egitimi",
     "topicName": "Değerler Eğitimi ve Etik",
     "questionText": "Kohlberg'in Ahlaki Gelişim Evrelerine göre; bir bireyin kurallara ve kanunlara sadece cezalandırılmaktan korktuğu veya fiziksel güç karşısında boyun eğdiği için uyması hangi ahlak evresine karşılık gelir?",
-    "options": {
-      "A": "İtaat ve Ceza Eğilimi",
-      "B": "Saf Çıkarcı (Araçsal İlişkiler) Eğilimi",
-      "C": "İyi Çocuk (Kişilerarası Uyum) Eğilimi",
-      "D": "Kanun ve Düzen Eğilimi",
-      "E": "Evrensel Ahlak İlkeleri"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "İtaat ve Ceza Eğilimi"
+      },
+      {
+        "key": "B",
+        "text": "Saf Çıkarcı (Araçsal İlişkiler) Eğilimi"
+      },
+      {
+        "key": "C",
+        "text": "İyi Çocuk (Kişilerarası Uyum) Eğilimi"
+      },
+      {
+        "key": "D",
+        "text": "Kanun ve Düzen Eğilimi"
+      },
+      {
+        "key": "E",
+        "text": "Evrensel Ahlak İlkeleri"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (İtaat ve Ceza Eğilimi)**\n\n**Kohlberg Düzey 1 / Evre 1:**\n- Otoriteye mutlak itaat esastır. Olayın sonucundaki fiziksel cezaya odaklanılır ('Yakalanmazsam suç değildir').",
     "hasImage": false,
@@ -11740,13 +13405,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "degerler_egitimi",
     "topicName": "Değerler Eğitimi ve Etik",
     "questionText": "Kamu Görevlileri Etik Davranış İlkeleri Yönetmeliği'ne göre kamu görevlilerinin hediye alma yasağı kapsamında aşağıdakilerden hangisi kabul edilebilir hediyeler (hediye alma yasağı kapsamı dışında) arasında yer alır?",
-    "options": {
-      "A": "Hizmetten yararlananlardan alınan cep telefonu veya bilgisayar",
-      "B": "Kurum bütçesinden karşılanan ve tanıtım amacıyla dağıtılan kitap, ajanda, takvim ve plaketler",
-      "C": "İş takibi yapan firmaların tahsis ettiği lüks araçlar",
-      "D": "Burs veya ücretsiz konaklama imkânları",
-      "E": "Borç para veya kredi kartı ödemeleri"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Hizmetten yararlananlardan alınan cep telefonu veya bilgisayar"
+      },
+      {
+        "key": "B",
+        "text": "Kurum bütçesinden karşılanan ve tanıtım amacıyla dağıtılan kitap, ajanda, takvim ve plaketler"
+      },
+      {
+        "key": "C",
+        "text": "İş takibi yapan firmaların tahsis ettiği lüks araçlar"
+      },
+      {
+        "key": "D",
+        "text": "Burs veya ücretsiz konaklama imkânları"
+      },
+      {
+        "key": "E",
+        "text": "Borç para veya kredi kartı ödemeleri"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Tanıtım amaçlı kitap, ajanda, takvim ve plaket)**\n\n**Etik Yönetmeliği Madde 15:**\n- Tanıtım, kırtasiye ve hatıra niteliğindeki makul değeri aşmayan sembolik ajanda, takvim, rozet, plaket ve yayınlar hediye yasağı kapsamı dışındadır.",
     "hasImage": false,
@@ -11760,13 +13440,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "degerler_egitimi",
     "topicName": "Değerler Eğitimi ve Etik",
     "questionText": "Mesleki etik ilkelerinden 'Adalet' ilkesi aşağıdakilerden hangisini gerektirir?",
-    "options": {
-      "A": "Tanıdıklara ve yakınlara öncelik tanımayı",
-      "B": "Herkese hak ettiği şekilde, liyakat, tarafsızlık ve eşitlik ilkeleriyle muamele etmeyi",
-      "C": "Hizmet sunumunda zengin vatandaşlara özel ayrıcalık sağlamayı",
-      "D": "Denetimlerde arkadaşları korumayı",
-      "E": "Kuralları duruma göre keyfi değiştirmeyi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Tanıdıklara ve yakınlara öncelik tanımayı"
+      },
+      {
+        "key": "B",
+        "text": "Herkese hak ettiği şekilde, liyakat, tarafsızlık ve eşitlik ilkeleriyle muamele etmeyi"
+      },
+      {
+        "key": "C",
+        "text": "Hizmet sunumunda zengin vatandaşlara özel ayrıcalık sağlamayı"
+      },
+      {
+        "key": "D",
+        "text": "Denetimlerde arkadaşları korumayı"
+      },
+      {
+        "key": "E",
+        "text": "Kuralları duruma göre keyfi değiştirmeyi"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Liyakat, tarafsızlık ve eşitlik)**\n\n**Etik İlkeleri:**\n- Adalet ilkesi; hakkaniyet, ayrımcılık yapmama, eşitlik ve kamu hizmetlerinden her bireyin hakkıyla yararlanmasını emreder.",
     "hasImage": false,
@@ -11780,13 +13475,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "degerler_egitimi",
     "topicName": "Değerler Eğitimi ve Etik",
     "questionText": "Öğretmenin öğrencilerine dürüstlük ve sorumluluk değerini sadece anlatmakla kalmayıp, kendi sınıf ve günlük yaşamında bizzat dürüst ve sorumlu davranarak öğrencilerine örnek olması değer öğretimi yaklaşımlarından hangisine örnektir?",
-    "options": {
-      "A": "Model Olma / Model Alma Yoluyla Değer Öğretimi",
-      "B": "Değer Açıklama",
-      "C": "Değer Analizi",
-      "D": "Ahlaki İkilem Tartışması",
-      "E": "Doğrudan Telkin"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Model Olma / Model Alma Yoluyla Değer Öğretimi"
+      },
+      {
+        "key": "B",
+        "text": "Değer Açıklama"
+      },
+      {
+        "key": "C",
+        "text": "Değer Analizi"
+      },
+      {
+        "key": "D",
+        "text": "Ahlaki İkilem Tartışması"
+      },
+      {
+        "key": "E",
+        "text": "Doğrudan Telkin"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Model Olma / Bandura)**\n\n**Bandura Sosyal Öğrenme:**\n- Bireyler değer ve davranışları en etkili biçimde çevrelerindeki saygı duydukları modelleri gözlemleyerek ve taklit ederek içselleştirirler.",
     "hasImage": false,
@@ -11800,13 +13510,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Yapılandırmacı (Konstrüktivist) öğrenme yaklaşımının temel felsefesi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Bilginin öğretmen tarafından öğrenciye pasif olarak doğrudan aktarılması",
-      "B": "Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması",
-      "C": "Yalnızca mekanik tekrar ve ezbere dayanması",
-      "D": "Öğretmenin mutlak otorite olduğu geleneksel model",
-      "E": "Tüm öğrencilere tek tip test uygulanması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilginin öğretmen tarafından öğrenciye pasif olarak doğrudan aktarılması"
+      },
+      {
+        "key": "B",
+        "text": "Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması"
+      },
+      {
+        "key": "C",
+        "text": "Yalnızca mekanik tekrar ve ezbere dayanması"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmenin mutlak otorite olduğu geleneksel model"
+      },
+      {
+        "key": "E",
+        "text": "Tüm öğrencilere tek tip test uygulanması"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Öğrencinin bilgiyi aktif yapılandırması)**\n\n**Yapılandırmacılık (Piaget, Vygotsky, Dewey):**\n- Bilgi pasif alınan bir paket değil; öğrencinin zihninde keşfettiği, deneyimlediği ve anlam yüklediği aktif bir süreçtir.",
     "hasImage": false,
@@ -11820,13 +13545,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Öğretim sürecinde Gardner'ın Çoklu Zekâ Kuramı'na göre; kendi duygu, düşünce ve güçlü/zayıf yönlerinin farkında olan, öz değerlendirme ve bireysel çalışma becerisi yüksek olan bir öğrencide hangi zekâ alanı baskındır?",
-    "options": {
-      "A": "Özedönük (İçsel) Zekâ",
-      "B": "Kişilerarası (Sosyal) Zekâ",
-      "C": "Görsel-Uzamsal Zekâ",
-      "D": "Mantıksal-Matematiksel Zekâ",
-      "E": "Bedensel-Kinestetik Zekâ"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Özedönük (İçsel) Zekâ"
+      },
+      {
+        "key": "B",
+        "text": "Kişilerarası (Sosyal) Zekâ"
+      },
+      {
+        "key": "C",
+        "text": "Görsel-Uzamsal Zekâ"
+      },
+      {
+        "key": "D",
+        "text": "Mantıksal-Matematiksel Zekâ"
+      },
+      {
+        "key": "E",
+        "text": "Bedensel-Kinestetik Zekâ"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (İçsel / Özedönük Zekâ)**\n\n**Çoklu Zeka Alanları:**\n- **İçsel (Özedönük):** Bireyin kendini tanıması, öz saygısı, içsel hedefleri ve metakognitif farkındalığıdır.",
     "hasImage": false,
@@ -11840,13 +13580,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Bir öğretmenin dersinde öğrencilerine yeni konuyu anlatmadan önce kavram haritaları ve ön organize ediciler kullanarak sunuş yoluyla öğretim yapması hangi kuramcının yaklaşımına dayanır?",
-    "options": {
-      "A": "David Ausubel (Anlamlı Öğrenme)",
-      "B": "Jerome Bruner (Buluş Yolu)",
-      "C": "B.F. Skinner (Edimsel Koşullanma)",
-      "D": "Howard Gardner (Çoklu Zeka)",
-      "E": "Benjamin Bloom (Tam Öğrenme)"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "David Ausubel (Anlamlı Öğrenme)"
+      },
+      {
+        "key": "B",
+        "text": "Jerome Bruner (Buluş Yolu)"
+      },
+      {
+        "key": "C",
+        "text": "B.F. Skinner (Edimsel Koşullanma)"
+      },
+      {
+        "key": "D",
+        "text": "Howard Gardner (Çoklu Zeka)"
+      },
+      {
+        "key": "E",
+        "text": "Benjamin Bloom (Tam Öğrenme)"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (David Ausubel - Anlamlı Öğrenme)**\n\n**Sunuş Yoluyla Öğretim:**\n- Ausubel, öğrenmenin anlamlı olabilmesi için genelden özele doğru tümdengelim yönteminin ve yeni bilgiyle eski bilgi arasında köprü kuran **ön organize edicilerin (kavram haritaları, şemalar)** kullanılmasını savunur.",
     "hasImage": false,
@@ -11860,13 +13615,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Özel eğitim ihtiyacı olan bir öğrencinin akranlarıyla birlikte genel eğitim sınıflarında tam veya yarı zamanlı olarak eğitim görmesi uygulamasına ne ad verilir?",
-    "options": {
-      "A": "Kaynaştırma / Bütünleştirme Eğitimi",
-      "B": "Ayrıştırma Eğitimi",
-      "C": "Evde Eğitim",
-      "D": "Özel Eğitim İş Okulu",
-      "E": "Yatılı Bölge Okulu"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaynaştırma / Bütünleştirme Eğitimi"
+      },
+      {
+        "key": "B",
+        "text": "Ayrıştırma Eğitimi"
+      },
+      {
+        "key": "C",
+        "text": "Evde Eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Özel Eğitim İş Okulu"
+      },
+      {
+        "key": "E",
+        "text": "Yatılı Bölge Okulu"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Kaynaştırma / Bütünleştirme Eğitimi)**\n\n**Özel Eğitim İlkeleri:**\n- Özel eğitim ihtiyacı olan bireylerin en az kısıtlayıcı eğitim ortamında (genel sınıflarda Bireyselleştirilmiş Eğitim Programı - BEP ile) akranlarıyla bir arada eğitilmesidir.",
     "hasImage": false,
@@ -11880,13 +13650,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Bir sınav sonucunda standart sapmanın büyük olması (puanların yaygın dağılması) grup hakkında aşağıdakilerden hangisini gösterir?",
-    "options": {
-      "A": "Grubun heterojen (farklılaşmış) olduğunu",
-      "B": "Grubun homojen (benzer) olduğunu",
-      "C": "Testin tüm öğrencilere çok kolay geldiğini",
-      "D": "Öğrencilerin hepsinin aynı notu aldığını",
-      "E": "Sınavın geçersiz olduğunu"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Grubun heterojen (farklılaşmış) olduğunu"
+      },
+      {
+        "key": "B",
+        "text": "Grubun homojen (benzer) olduğunu"
+      },
+      {
+        "key": "C",
+        "text": "Testin tüm öğrencilere çok kolay geldiğini"
+      },
+      {
+        "key": "D",
+        "text": "Öğrencilerin hepsinin aynı notu aldığını"
+      },
+      {
+        "key": "E",
+        "text": "Sınavın geçersiz olduğunu"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Grubun heterojen olduğunu)**\n\n**İstatistik ve Ölçme:**\n- **Standart Sapma / Varyans Yüksek:** Puanlar birbirinden çok farklıdır ➡️ **Grup Heterojendir** (Bireysel farklılıklar belirgindir, ayırt edicilik yüksektir).\n- **Standart Sapma Düşük:** Puanlar birbirine çok yakındır ➡️ **Grup Homojendir**.",
     "hasImage": false,
@@ -11900,13 +13685,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Bir öğretmenin dersinde öğrencilerini düşünmeye teşvik etmek amacıyla sorduğu soruların ardından öğrencilere cevap vermeleri için tanıdığı 3-5 saniyelik sessiz süreye ne ad verilir?",
-    "options": {
-      "A": "Bekleme Süresi (Wait Time)",
-      "B": "İpucu Verme",
-      "C": "Dönüt Süresi",
-      "D": "Pekiştirme Aralığı",
-      "E": "Güdüleme Evresi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Bekleme Süresi (Wait Time)"
+      },
+      {
+        "key": "B",
+        "text": "İpucu Verme"
+      },
+      {
+        "key": "C",
+        "text": "Dönüt Süresi"
+      },
+      {
+        "key": "D",
+        "text": "Pekiştirme Aralığı"
+      },
+      {
+        "key": "E",
+        "text": "Güdüleme Evresi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Bekleme Süresi / Rowe Modeli)**\n\n**Öğretim Teknikleri:**\n- Soru sorulduktan sonra en az 3-5 saniye bekleme süresi verilmesi; öğrenci katılımını artırır, verilen cevapların kalitesini ve üst düzey düşünme derinliğini yükseltir.",
     "hasImage": false,
@@ -11920,13 +13720,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Öğretim programlarının hazırlanmasında içerik düzenleme yaklaşımlarından 'Sarmal Programlama' yaklaşımının en belirgin özelliği aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi",
-      "B": "Konuların birbirinden tamamen bağımsız modüller halinde işlenmesi",
-      "C": "Öğrencinin kendi seçeceği konuların işlenmesi",
-      "D": "Konuların tek bir kez anlatılıp bir daha hiç dönülmemesi",
-      "E": "Tüm konuların sadece ezberletilmesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Konuların birbirinden tamamen bağımsız modüller halinde işlenmesi"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencinin kendi seçeceği konuların işlenmesi"
+      },
+      {
+        "key": "D",
+        "text": "Konuların tek bir kez anlatılıp bir daha hiç dönülmemesi"
+      },
+      {
+        "key": "E",
+        "text": "Tüm konuların sadece ezberletilmesi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Genişletilerek ve derinleştirilerek tekrar)**\n\n**Bruner Sarmal Programlama:**\n- Konular her öğretim kademesinde basitten karmaşığa, somuttan soyuta doğru derinleşerek ve önceki öğrenmelerin üzerine inşa edilerek yeniden ele alınır.",
     "hasImage": false,
@@ -11940,13 +13755,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_bilimleri",
     "topicName": "Eğitim Bilimleri",
     "questionText": "Sınıf kurallarının belirlenmesinde çağdaş sınıf yönetimi anlayışına uygun ilke aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Kuralların öğretmen tarafından tek başına belirlenip katı biçimde dikte edilmesi",
-      "B": "Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması",
-      "C": "Kuralların sadece ağır cezalar içermesi",
-      "D": "Kuralların gizli tutulması",
-      "E": "Hiçbir kural konulmaması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kuralların öğretmen tarafından tek başına belirlenip katı biçimde dikte edilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması"
+      },
+      {
+        "key": "C",
+        "text": "Kuralların sadece ağır cezalar içermesi"
+      },
+      {
+        "key": "D",
+        "text": "Kuralların gizli tutulması"
+      },
+      {
+        "key": "E",
+        "text": "Hiçbir kural konulmaması"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Öğrencilerle birlikte, az sayıda ve olumlu ifadeler)**\n\n**Sınıf Yönetimi:**\n- Kuralların gerekçeleri açıklanmalı, demokratik katılımla belirlenmeli ve 'Koşmayın' yerine 'Yavaş yürüyün' gibi olumlu davranış dili kullanılmalıdır.",
     "hasImage": false,
@@ -11960,13 +13790,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Klasik yönetim kuramcılarından Frederick Winslow Taylor'ın 'Bilimsel Yönetim İlkeleri'nin odaklandığı temel amaç aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Çalışanların sosyal ve duygusal tatminini sağlamak",
-      "B": "İş süreçlerini standartlaştırarak, zaman ve hareket etütleri yoluyla iş verimliliğini en üst düzeye çıkarmak",
-      "C": "Örgütte hiyerarşiyi tamamen kaldırmak",
-      "D": "Çalışanlara sınırsız serbestlik tanımak",
-      "E": "Üretimi tamamen durdurmak"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Çalışanların sosyal ve duygusal tatminini sağlamak"
+      },
+      {
+        "key": "B",
+        "text": "İş süreçlerini standartlaştırarak, zaman ve hareket etütleri yoluyla iş verimliliğini en üst düzeye çıkarmak"
+      },
+      {
+        "key": "C",
+        "text": "Örgütte hiyerarşiyi tamamen kaldırmak"
+      },
+      {
+        "key": "D",
+        "text": "Çalışanlara sınırsız serbestlik tanımak"
+      },
+      {
+        "key": "E",
+        "text": "Üretimi tamamen durdurmak"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (İş standartlaşması, zaman-hareket etüdü ve verimlilik)**\n\n**Taylorizm (Bilimsel Yönetim):**\n- İşi en küçük parçalarına ayırır (iş analizi), en verimli yöntemi ('the one best way') belirler, standartlaştırır ve parça başı ücretle verimliliği maksimize eder.",
     "hasImage": false,
@@ -11980,13 +13825,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Elton Mayo ve arkadaşlarının yürüttüğü 'Hawthorne Araştırmaları' sonucunda ortaya çıkan ve yönetimde insan ilişkileri ile sosyal faktörlerin önemini vurgulayan yaklaşım aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Klasik Yönetim Yaklaşımı",
-      "B": "Neoklasik (İnsan İlişkileri) Yaklaşımı",
-      "C": "Bürokrasi Kuramı",
-      "D": "Bilimsel Yönetim",
-      "E": "Sistem Yaklaşımı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Klasik Yönetim Yaklaşımı"
+      },
+      {
+        "key": "B",
+        "text": "Neoklasik (İnsan İlişkileri) Yaklaşımı"
+      },
+      {
+        "key": "C",
+        "text": "Bürokrasi Kuramı"
+      },
+      {
+        "key": "D",
+        "text": "Bilimsel Yönetim"
+      },
+      {
+        "key": "E",
+        "text": "Sistem Yaklaşımı"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Neoklasik / İnsan İlişkileri Yaklaşımı)**\n\n**Hawthorne Deneyleri:**\n- Işıklandırma ve dinlenme molaları gibi fiziki şartlardan ziyade, çalışanların kendilerine değer verildiğini hissetmelerinin (Hawthorne Etkisi) ve grup dinamiklerinin motivasyonu ve verimliliği artırdığı kanıtlanmıştır.",
     "hasImage": false,
@@ -12000,13 +13860,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Örgütü çevresiyle sürekli etkileşim halinde olan, girdileri (öğrenci, öğretmen, bütçe), süreçleri (öğretim, yönetim) ve çıktıları (mezun, başarı) bulunan dinamik bir bütün olarak gören yaklaşım aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Açık Sistem Kuramı",
-      "B": "Kapalı Sistem Kuramı",
-      "C": "Geleneksel Yaklaşım",
-      "D": "Mekanik Model",
-      "E": "Otokratik Model"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Açık Sistem Kuramı"
+      },
+      {
+        "key": "B",
+        "text": "Kapalı Sistem Kuramı"
+      },
+      {
+        "key": "C",
+        "text": "Geleneksel Yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Mekanik Model"
+      },
+      {
+        "key": "E",
+        "text": "Otokratik Model"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Açık Sistem Kuramı)**\n\n**Sistem Yaklaşımı:**\n- Okul bir **açık toplumsal sistemdir**. Çevresinden girdi alır, bunu süreçte işler, çevreye çıktı verir ve geri bildirim (feedback) ile kendini dengeler (homeostasis).",
     "hasImage": false,
@@ -12020,13 +13895,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Fiedler'in Durumsallık Kuramı'na göre liderliğin etkinliği hangi iki temel unsurun uyumuna bağlıdır?",
-    "options": {
-      "A": "Liderin tarzı (İlişki veya Görev odaklı) ile Durumun uygunluk/elverişlilik derecesi",
-      "B": "Liderin yaşı ile cinsiyeti",
-      "C": "Okul binasının büyüklüğü ile bütçesi",
-      "D": "Sadece liderin karizması",
-      "E": "Ceza miktarı ile ödül sayısı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Liderin tarzı (İlişki veya Görev odaklı) ile Durumun uygunluk/elverişlilik derecesi"
+      },
+      {
+        "key": "B",
+        "text": "Liderin yaşı ile cinsiyeti"
+      },
+      {
+        "key": "C",
+        "text": "Okul binasının büyüklüğü ile bütçesi"
+      },
+      {
+        "key": "D",
+        "text": "Sadece liderin karizması"
+      },
+      {
+        "key": "E",
+        "text": "Ceza miktarı ile ödül sayısı"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Liderlik Tarzı ve Durumun Elverişliliği)**\n\n**Fiedler Durumsallık Modeli:**\n- Tek bir en iyi liderlik tarzı yoktur. Liderin LPC (En Az Tercih Edilen Çalışan) puanına dayalı tarzı ile lider-üye ilişkisi, görev yapısı ve makam gücünden oluşan durumun elverişliliği uyumlu olmalıdır.",
     "hasImage": false,
@@ -12040,13 +13930,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Robert Greenleaf tarafından geliştirilen, liderin önceliğinin çalışanların ihtiyaçlarına hizmet etmek, onları geliştirmek ve güçlendirmek olduğunu savunan liderlik türü aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Hizmetkâr Liderlik (Servant Leadership)",
-      "B": "Otokratik Liderlik",
-      "C": "İşlemci (Sürdürümcü) Liderlik",
-      "D": "Bürokratik Liderlik",
-      "E": "Makyevelist Liderlik"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Hizmetkâr Liderlik (Servant Leadership)"
+      },
+      {
+        "key": "B",
+        "text": "Otokratik Liderlik"
+      },
+      {
+        "key": "C",
+        "text": "İşlemci (Sürdürümcü) Liderlik"
+      },
+      {
+        "key": "D",
+        "text": "Bürokratik Liderlik"
+      },
+      {
+        "key": "E",
+        "text": "Makyevelist Liderlik"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Hizmetkâr Liderlik)**\n\n**Greenleaf Hizmetkâr Liderlik:**\n- Lider öncelikle bir hizmetçidir. Alçakgönüllülük, empati, dinleme, çalışanların gelişimine adanmışlık ve topluluk oluşturma temel özellikleridir.",
     "hasImage": false,
@@ -12060,13 +13965,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Maslow'un İhtiyaçlar Hiyerarşisi piramidinin en üst basamağında yer alan ihtiyaç türü aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Fizyolojik İhtiyaçlar",
-      "B": "Güvenlik İhtiyacı",
-      "C": "Sevgi ve Ait Olma",
-      "D": "Saygınlık (Statü)",
-      "E": "Kendini Gerçekleştirme"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Fizyolojik İhtiyaçlar"
+      },
+      {
+        "key": "B",
+        "text": "Güvenlik İhtiyacı"
+      },
+      {
+        "key": "C",
+        "text": "Sevgi ve Ait Olma"
+      },
+      {
+        "key": "D",
+        "text": "Saygınlık (Statü)"
+      },
+      {
+        "key": "E",
+        "text": "Kendini Gerçekleştirme"
+      }
+    ],
     "correctAnswer": "E",
     "explanation": "📌 **Doğru Cevap: E (Kendini Gerçekleştirme)**\n\n**Maslow Piramidi:**\n1. Fizyolojik ➡️ 2. Güvenlik ➡️ 3. Ait Olma/Sevgi ➡️ 4. Saygınlık ➡️ 5. **Kendini Gerçekleştirme (Potansiyelini en üst düzeyde ortaya koyma).**",
     "hasImage": false,
@@ -12080,13 +14000,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Vroom'un Beklenti (Expectancy) Kuramı'na göre bir çalışanın motivasyonu hangi üç faktörün çarpımı ile belirlenir?",
-    "options": {
-      "A": "Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Valans (Ödülün Değeri)",
-      "B": "Maaş × Ceza × Hiyerarşi",
-      "C": "Kıdem × Yaş × Disiplin",
-      "D": "Görev × Yetki × Sorumluluk",
-      "E": "Planlama × Örgütleme × Kontrol"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Valans (Ödülün Değeri)"
+      },
+      {
+        "key": "B",
+        "text": "Maaş × Ceza × Hiyerarşi"
+      },
+      {
+        "key": "C",
+        "text": "Kıdem × Yaş × Disiplin"
+      },
+      {
+        "key": "D",
+        "text": "Görev × Yetki × Sorumluluk"
+      },
+      {
+        "key": "E",
+        "text": "Planlama × Örgütleme × Kontrol"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Beklenti × Araçsallık × Valans - VIE Modeli)**\n\n**Vroom Motivasyon Modeli:**\n- **Beklenti (E):** Çaba gösterirsem başarabilir miyim?\n- **Araçsallık (I):** Başarırsam ödüllendirilir miyim?\n- **Valans (V):** Alacağım ödül benim için değerli mi?",
     "hasImage": false,
@@ -12100,13 +14035,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Halis (Halpin ve Croft) tarafından geliştirilen Okul İklimi Tiplerinden; okul müdürünün öğretmenlere güvendiği, destekleyici davrandığı, öğretmenlerin iş birliği içinde yüksek motivasyonla çalıştığı en ideal iklim tipi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Açık İklim",
-      "B": "Kapalı İklim",
-      "C": "Özerk İklim",
-      "D": "Babacan İklim",
-      "E": "Kontrollü İklim"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Açık İklim"
+      },
+      {
+        "key": "B",
+        "text": "Kapalı İklim"
+      },
+      {
+        "key": "C",
+        "text": "Özerk İklim"
+      },
+      {
+        "key": "D",
+        "text": "Babacan İklim"
+      },
+      {
+        "key": "E",
+        "text": "Kontrollü İklim"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Açık İklim)**\n\n**Halpin & Croft Okul İklimi:**\n- **Açık İklim:** Yüksek moral, düşük engellenme, samimi ilişkiler, demokratik liderlik ve yüksek iş doyumu ile karakterizedir.",
     "hasImage": false,
@@ -12120,13 +14070,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Johari Penceresi modelinde hem kişinin kendisi tarafından hem de başkaları tarafından bilinen alanı ifade eden bölge aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Açık Alan",
-      "B": "Kör Alan",
-      "C": "Gizli Alan",
-      "D": "Bilinmeyen (Karanlık) Alan",
-      "E": "Gölge Alan"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Açık Alan"
+      },
+      {
+        "key": "B",
+        "text": "Kör Alan"
+      },
+      {
+        "key": "C",
+        "text": "Gizli Alan"
+      },
+      {
+        "key": "D",
+        "text": "Bilinmeyen (Karanlık) Alan"
+      },
+      {
+        "key": "E",
+        "text": "Gölge Alan"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Açık Alan)**\n\n**Johari Penceresi (Luft & Ingham):**\n1. **Açık Alan:** Kendisi bilir, başkaları bilir.\n2. **Kör Alan:** Kendisi bilmez, başkaları bilir.\n3. **Gizli Alan:** Kendisi bilir, başkaları bilmez.\n4. **Bilinmeyen Alan:** Kimse bilmez.",
     "hasImage": false,
@@ -12140,13 +14105,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Eğitim denetiminde çağdaş denetim anlayışının temel amacı aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Öğretmenlerin açıklarını ve hatalarını yakalayıp cezalandırmak",
-      "B": "Öğretim süreçlerini geliştirmek, öğretmene rehberlik etmek ve mesleki gelişimi desteklemek",
-      "C": "Sadece evrak ve imza kontrolleri yapmak",
-      "D": "Mevcut durumu değiştirmeden korumak",
-      "E": "Tüm yetkileri merkezi idarede toplamak"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmenlerin açıklarını ve hatalarını yakalayıp cezalandırmak"
+      },
+      {
+        "key": "B",
+        "text": "Öğretim süreçlerini geliştirmek, öğretmene rehberlik etmek ve mesleki gelişimi desteklemek"
+      },
+      {
+        "key": "C",
+        "text": "Sadece evrak ve imza kontrolleri yapmak"
+      },
+      {
+        "key": "D",
+        "text": "Mevcut durumu değiştirmeden korumak"
+      },
+      {
+        "key": "E",
+        "text": "Tüm yetkileri merkezi idarede toplamak"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Öğretimi geliştirme, rehberlik ve mesleki gelişim)**\n\n**Çağdaş Denetim İlkeleri:**\n- Geleneksel teftişin 'hata bulucu ve yargılayıcı' tutumunun aksine; çağdaş denetim **geliştirici, rehberlik edici, iş birlikçi ve öğrenci başarısını artırmaya odaklıdır**.",
     "hasImage": false,
@@ -12160,13 +14140,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul yöneticisinin öğretmenlerin çatışmalarını yönetirken her iki tarafın da haklı menfaatlerini gözeterek kazan-kazan (win-win) çözümüne ulaştığı strateji aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "İş Birliği Yapma (Entegrasyon / Problem Çözme)",
-      "B": "Kaçınma",
-      "C": "Zorlama",
-      "D": "Görmezden Gelme",
-      "E": "Teslim Olma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "İş Birliği Yapma (Entegrasyon / Problem Çözme)"
+      },
+      {
+        "key": "B",
+        "text": "Kaçınma"
+      },
+      {
+        "key": "C",
+        "text": "Zorlama"
+      },
+      {
+        "key": "D",
+        "text": "Görmezden Gelme"
+      },
+      {
+        "key": "E",
+        "text": "Teslim Olma"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (İş Birliği / Problem Çözme)**\n\n**Çatışma Yönetimi:**\n- **İş Birliği:** Yüksek iş ve yüksek ilişki odaklıdır. Sorunun kök nedenine inilerek iki tarafın da tam tatmini hedeflenir.",
     "hasImage": false,
@@ -12180,13 +14175,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Toplam Kalite Yönetimi'nde Japonca 'sürekli iyileştirme ve geliştirme' anlamına gelen kavram aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Kaizen",
-      "B": "Kanban",
-      "C": "Poka-Yoke",
-      "D": "Muda",
-      "E": "Benchmarking"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaizen"
+      },
+      {
+        "key": "B",
+        "text": "Kanban"
+      },
+      {
+        "key": "C",
+        "text": "Poka-Yoke"
+      },
+      {
+        "key": "D",
+        "text": "Muda"
+      },
+      {
+        "key": "E",
+        "text": "Benchmarking"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Kaizen)**\n\n**Kalite Kavramları:**\n- **Kaizen (Kai=Değişim, Zen=İyi):** Küçük adımlarla, tüm çalışanların katılımıyla süreçlerin kesintisiz olarak daha iyiye götürülmesidir.",
     "hasImage": false,
@@ -12200,13 +14210,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Bir kurumun kendi süreçlerini ve performansını sektördeki en başarılı lider kurumlarla karşılaştırarak eksiklerini giderme ve en iyi uygulamaları transfer etme yöntemine ne ad verilir?",
-    "options": {
-      "A": "Kıyaslama (Benchmarking)",
-      "B": "Dış Kaynak Kullanımı (Outsourcing)",
-      "C": "Küçülme (Downsizing)",
-      "D": "Süreç Yenileme (Reengineering)",
-      "E": "Beyin Fırtınası"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kıyaslama (Benchmarking)"
+      },
+      {
+        "key": "B",
+        "text": "Dış Kaynak Kullanımı (Outsourcing)"
+      },
+      {
+        "key": "C",
+        "text": "Küçülme (Downsizing)"
+      },
+      {
+        "key": "D",
+        "text": "Süreç Yenileme (Reengineering)"
+      },
+      {
+        "key": "E",
+        "text": "Beyin Fırtınası"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Kıyaslama / Benchmarking)**\n\n**Yönetim Stratejisi:**\n- Kurumun rekabet gücünü artırmak için alanındaki en başarılı uygulamaları referans alarak kendi standartlarını yükseltmesidir.",
     "hasImage": false,
@@ -12220,13 +14245,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okulda kararların alınmasında astların ve öğretmenlerin katılım derecesine göre Vroom ve Yetton tarafından geliştirilen Normatif Karar Modeli'nin temel kriteri aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Kararın kalitesi ve kararın astlar tarafından kabul edilme derecesi",
-      "B": "Okul müdürünün yaşı",
-      "C": "Haftalık ders saati",
-      "D": "Mevzuat sayısı",
-      "E": "Öğrenci mevcudu"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kararın kalitesi ve kararın astlar tarafından kabul edilme derecesi"
+      },
+      {
+        "key": "B",
+        "text": "Okul müdürünün yaşı"
+      },
+      {
+        "key": "C",
+        "text": "Haftalık ders saati"
+      },
+      {
+        "key": "D",
+        "text": "Mevzuat sayısı"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenci mevcudu"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Kararın Kalitesi ve Kabul Edilme Derecesi)**\n\n**Vroom-Yetton-Jago Modeli:**\n- Duruma göre Otokratik, Danışmalı veya Grup karar modelleri seçilir; karar kalitesi ve astların kararı benimsemesi ana belirleyicidir.",
     "hasImage": false,
@@ -12240,13 +14280,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Örgütsel Adalet kuramında; kaynakların, ödüllerin ve ders yükünün çalışanlar arasında hakkaniyetli paylaştırılması aşağıdaki adalet boyutlarından hangisiyle açıklanır?",
-    "options": {
-      "A": "Dağıtım Adaleti (Distributive Justice)",
-      "B": "İşlemsel / Prosedürel Adalet",
-      "C": "Etkileşimsel Adalet",
-      "D": "Bilgilendirme Adaleti",
-      "E": "Cezai Adalet"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Dağıtım Adaleti (Distributive Justice)"
+      },
+      {
+        "key": "B",
+        "text": "İşlemsel / Prosedürel Adalet"
+      },
+      {
+        "key": "C",
+        "text": "Etkileşimsel Adalet"
+      },
+      {
+        "key": "D",
+        "text": "Bilgilendirme Adaleti"
+      },
+      {
+        "key": "E",
+        "text": "Cezai Adalet"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Dağıtım Adaleti)**\n\n**Örgütsel Adalet Boyutları:**\n- **Dağıtım Adaleti:** Kazanımların, ücretin ve ödüllerin dağıtımındaki hakkaniyettir.\n- **İşlemsel Adalet:** Karar alma süreç ve kurallarının adil olmasıdır.\n- **Etkileşimsel Adalet:** Yöneticinin personele saygılı ve dürüst davranmasıdır.",
     "hasImage": false,
@@ -12260,13 +14315,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Öğretmenlerin okul içinde kendilerini güvende hissetmeleri, risk alabilmeleri, yeni fikirler öne sürebilmeleri ve hata yapmaktan korkmamalarını tanımlayan kavram aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Psikolojik Güvenlik (Psychological Safety)",
-      "B": "Örgütsel Sessizlik",
-      "C": "Örgütsel Sinizm",
-      "D": "Tükenmişlik",
-      "E": "Sosyal Kaytarma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Psikolojik Güvenlik (Psychological Safety)"
+      },
+      {
+        "key": "B",
+        "text": "Örgütsel Sessizlik"
+      },
+      {
+        "key": "C",
+        "text": "Örgütsel Sinizm"
+      },
+      {
+        "key": "D",
+        "text": "Tükenmişlik"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal Kaytarma"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Psikolojik Güvenlik / Amy Edmondson)**\n\n**Kavram:**\n- Psikolojik güvenlik; ekip üyelerinin bir fikir öne sürdüklerinde alay edilmeyecekleri, cezalandırılmayacakları ve dışlanmayacaklarına dair ortak inançlarıdır.",
     "hasImage": false,
@@ -12280,13 +14350,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Bir okul müdürünün görev ve yetkilerini kullanırken öğretmenleri motive etmek amacıyla yalnızca yasal unvan ve makam gücüne değil, kişisel bilgi, uzmanlık ve karizmasına dayanması aşağıdaki güç türlerinden hangileriyle açıklanır?",
-    "options": {
-      "A": "Uzmanlık Gücü ve Karizmatik (Referent) Güç",
-      "B": "Yasal Güç ve Zorlayıcı Güç",
-      "C": "Ödül Gücü ve Baskı Gücü",
-      "D": "Yalnızca Zorlayıcı Güç",
-      "E": "Bürokratik Güç"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Uzmanlık Gücü ve Karizmatik (Referent) Güç"
+      },
+      {
+        "key": "B",
+        "text": "Yasal Güç ve Zorlayıcı Güç"
+      },
+      {
+        "key": "C",
+        "text": "Ödül Gücü ve Baskı Gücü"
+      },
+      {
+        "key": "D",
+        "text": "Yalnızca Zorlayıcı Güç"
+      },
+      {
+        "key": "E",
+        "text": "Bürokratik Güç"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Uzmanlık ve Karizmatik/Benzeşim Gücü)**\n\n**French ve Raven Güç Kaynakları:**\n- **Pozisyonel Güçler:** Yasal, Ödül, Zorlayıcı güç.\n- **Kişisel Güçler:** **Uzmanlık Gücü** (bilgi/yetkinlik) ve **Karizmatik/Benzeşim Gücü** (örnek kişilik, saygınlık).",
     "hasImage": false,
@@ -12300,13 +14385,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul yöneticisinin öğretmenlerle iletişiminde onların sadece sözlerini değil, vücut dilini, duygularını ve anlatmak istedikleri asıl mesajı anlamaya odaklanarak dinlemesine ne ad verilir?",
-    "options": {
-      "A": "Etkin / Empatik Dinleme",
-      "B": "Seçici Dinleme",
-      "C": "Görünüşte Dinleme",
-      "D": "Tuzak Kurucu Dinleme",
-      "E": "Savunmacı Dinleme"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Etkin / Empatik Dinleme"
+      },
+      {
+        "key": "B",
+        "text": "Seçici Dinleme"
+      },
+      {
+        "key": "C",
+        "text": "Görünüşte Dinleme"
+      },
+      {
+        "key": "D",
+        "text": "Tuzak Kurucu Dinleme"
+      },
+      {
+        "key": "E",
+        "text": "Savunmacı Dinleme"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Etkin / Empatik Dinleme)**\n\n**İletişim Becerileri:**\n- Etkin dinleme; yargılamadan, söz kesmeden, konuşmacının bakış açısıyla dünyayı görmeye çalışarak tam dikkatle yapılan dinlemedir.",
     "hasImage": false,
@@ -12320,13 +14420,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Örgütsel vatandaşlık davranışının (ÖVD) en belirgin özelliği aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Çalışanın resmî görev tanımında yer almayan, zorunlu olmayan, tamamen gönüllü olarak kurum yararına fazladan çaba göstermesi",
-      "B": "Sadece maaş karşılığı çalışması",
-      "C": "Mesai saatini doldurur doldurmaz okulu terk etmesi",
-      "D": "Kurum kurallarına isteksizce uyması",
-      "E": "Ödül verilmedikçe hiçbir işe el sürmemesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Çalışanın resmî görev tanımında yer almayan, zorunlu olmayan, tamamen gönüllü olarak kurum yararına fazladan çaba göstermesi"
+      },
+      {
+        "key": "B",
+        "text": "Sadece maaş karşılığı çalışması"
+      },
+      {
+        "key": "C",
+        "text": "Mesai saatini doldurur doldurmaz okulu terk etmesi"
+      },
+      {
+        "key": "D",
+        "text": "Kurum kurallarına isteksizce uyması"
+      },
+      {
+        "key": "E",
+        "text": "Ödül verilmedikçe hiçbir işe el sürmemesi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Gönüllü, görev tanımı dışı ekstra çaba - Organ Modeli)**\n\n**Örgütsel Vatandaşlık (ÖVD):**\n- Özgecilik (Yardımseverlik), Vicdanlılık, Nezaket, Centilmenlik ve Sivil Erdem boyutlarından oluşur.",
     "hasImage": false,
@@ -12340,13 +14455,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okulda değişime karşı öğretmenlerin gösterdiği direncin en temel psikolojik sebebi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Bilinmezlik korkusu, alışkanlıkların bozulması ve yetkinlik kaybı endişesi",
-      "B": "Maaşların çok yüksek olması",
-      "C": "Okul binasının yeni olması",
-      "D": "Öğrenci sayısının artması",
-      "E": "Ders kitaplarının değişmesi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilinmezlik korkusu, alışkanlıkların bozulması ve yetkinlik kaybı endişesi"
+      },
+      {
+        "key": "B",
+        "text": "Maaşların çok yüksek olması"
+      },
+      {
+        "key": "C",
+        "text": "Okul binasının yeni olması"
+      },
+      {
+        "key": "D",
+        "text": "Öğrenci sayısının artması"
+      },
+      {
+        "key": "E",
+        "text": "Ders kitaplarının değişmesi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Bilinmezlik korkusu, alışkanlıklar ve güvenlik ihtiyacı)**\n\n**Değişim Yönetimi:**\n- İnsanlar belirsizlikten, konfor alanlarının bozulmasından ve yeni sisteme uyum sağlayamayacakları korkusundan ötürü değişime direnç gösterirler. İletişim ve eğitimle bu direnç kırılır.",
     "hasImage": false,
@@ -12360,13 +14490,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul yöneticisinin zaman yönetiminde 'Acil değil ama Önemli' olan stratejik planlama, kişisel gelişim ve vizyoner projelere odaklandığı Eisenhower Matrisi kadranı aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "II. Kadran (Planlama / Kalite Kadranı)",
-      "B": "I. Kadran (Kriz Kadranı)",
-      "C": "III. Kadran (Aldanma Kadranı)",
-      "D": "IV. Kadran (Zaman Tuzağı / İsraf)",
-      "E": "Hiçbiri"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "II. Kadran (Planlama / Kalite Kadranı)"
+      },
+      {
+        "key": "B",
+        "text": "I. Kadran (Kriz Kadranı)"
+      },
+      {
+        "key": "C",
+        "text": "III. Kadran (Aldanma Kadranı)"
+      },
+      {
+        "key": "D",
+        "text": "IV. Kadran (Zaman Tuzağı / İsraf)"
+      },
+      {
+        "key": "E",
+        "text": "Hiçbiri"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (II. Kadran - Önemli / Acil Değil)**\n\n**Eisenhower Zaman Matrisi (Covey):**\n- **I:** Acil ve Önemli (Krizler)\n- **II: Acil Değil ama Önemli (Gelişim, Strateji, Proaktif liderlik - En verimli alan)**\n- **III:** Acil ama Önemsiz (Araya giren gereksiz telefonlar/işler)\n- **IV:** Acil Değil ve Önemsiz (Zaman israfı).",
     "hasImage": false,
@@ -12380,13 +14525,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Öğretmenlerin mesleki sorunlarını açıkça ifade etmekten çekinerek fikirlerini kendilerine saklamaları durumunu tanımlayan kavram aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Örgütsel Sessizlik (Organizational Silence)",
-      "B": "Örgütsel Muhalefet",
-      "C": "Girişimcilik",
-      "D": "Dönüşümcü Eylem",
-      "E": "Takım Çalışması"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Örgütsel Sessizlik (Organizational Silence)"
+      },
+      {
+        "key": "B",
+        "text": "Örgütsel Muhalefet"
+      },
+      {
+        "key": "C",
+        "text": "Girişimcilik"
+      },
+      {
+        "key": "D",
+        "text": "Dönüşümcü Eylem"
+      },
+      {
+        "key": "E",
+        "text": "Takım Çalışması"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Örgütsel Sessizlik)**\n\n**Kavram:**\n- Çalışanların kurumdaki sorunlar, usulsüzlükler veya iyileştirme fikirleri hakkında korku, güvensizlik veya 'nasıl olsa bir şey değişmez' inancıyla bilinçli olarak susmasıdır.",
     "hasImage": false,
@@ -12400,13 +14560,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul müdürünün okulda öğrenme topluluğu (Professional Learning Community - PLC) oluştururken temel odak noktası aşağıdakilerden hangisi olmalıdır?",
-    "options": {
-      "A": "Öğretmenlerin iş birliği içinde sürekli öğrenmesi ve tüm öğrencilerin başarısının kolektif sorumluluk kabul edilmesi",
-      "B": "Öğretmenleri bireysel yarışa sokmak",
-      "C": "Okulu dış çevreye kapatmak",
-      "D": "Sadece sınav notlarını yükseltmek için ezber yaptırmak",
-      "E": "Bürokratik yazışmaları artırmak"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmenlerin iş birliği içinde sürekli öğrenmesi ve tüm öğrencilerin başarısının kolektif sorumluluk kabul edilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmenleri bireysel yarışa sokmak"
+      },
+      {
+        "key": "C",
+        "text": "Okulu dış çevreye kapatmak"
+      },
+      {
+        "key": "D",
+        "text": "Sadece sınav notlarını yükseltmek için ezber yaptırmak"
+      },
+      {
+        "key": "E",
+        "text": "Bürokratik yazışmaları artırmak"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Kolektif öğrenme ve ortak sorumluluk - DuFour)**\n\n**Mesleki Öğrenme Toplulukları (PLC):**\n- Öğretmenlerin zümreler halinde sürekli veri analizi yaparak öğretim yöntemlerini geliştirdiği ve öğrenci başarısını paylaştığı profesyonel yapıdır.",
     "hasImage": false,
@@ -12420,13 +14595,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "egitim_yonetimi",
     "topicName": "Eğitim Yönetimi ve Denetimi",
     "questionText": "Okul bütçesinin hazırlanmasında ve kaynakların yönetiminde 'Hesap Verilebilirlik' ve 'Şeffaflık' ilkelerinin uygulanması öncelikle neyi sağlar?",
-    "options": {
-      "A": "Kaynakların israf edilmesini önler ve paydaşların kuruma olan güvenini artırır",
-      "B": "Okul müdürünün harcamaları gizlemesini sağlar",
-      "C": "Mevzuatı işlevsiz kılar",
-      "D": "Denetimleri gereksiz hale getirir",
-      "E": "Okul Aile Birliğini kapatır"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaynakların israf edilmesini önler ve paydaşların kuruma olan güvenini artırır"
+      },
+      {
+        "key": "B",
+        "text": "Okul müdürünün harcamaları gizlemesini sağlar"
+      },
+      {
+        "key": "C",
+        "text": "Mevzuatı işlevsiz kılar"
+      },
+      {
+        "key": "D",
+        "text": "Denetimleri gereksiz hale getirir"
+      },
+      {
+        "key": "E",
+        "text": "Okul Aile Birliğini kapatır"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (İsrafı önleme ve kurumsal güveni artırma)**\n\n**Mali Yönetim İlkeleri:**\n- Şeffaflık ve kamuoyuna hesap verebilirlik; kamu kaynaklarının etkili, ekonomik ve verimli kullanılmasının en büyük teminatıdır.",
     "hasImage": false,
@@ -12440,13 +14630,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 Anayasası",
     "questionText": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi Başkanlık Divanı için bir yasama döneminde kaç defa seçim yapılır?",
-    "options": {
-      "A": "1",
-      "B": "2",
-      "C": "3",
-      "D": "4",
-      "E": "5"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      },
+      {
+        "key": "E",
+        "text": "5"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (2 defa)**\n\n**1982 Anayasası Madde 94:**\n- *'Türkiye Büyük Millet Meclisi Başkanlık Divanı için bir yasama döneminde **iki seçim** yapılır. İlk seçilenlerin görev süresi **iki yıl**, ikinci devre için seçilenlerin görev süresi ise **o yasama döneminin sonuna kadardır**.'*",
     "hasImage": false,
@@ -12460,13 +14665,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 Anayasası",
     "questionText": "1982 Anayasası'na göre Millî Güvenlik Kurulu (MGK) toplantılarına Cumhurbaşkanının katılamadığı hallerde kim başkanlık eder?",
-    "options": {
-      "A": "Cumhurbaşkanı Yardımcısı",
-      "B": "TBMM Başkanı",
-      "C": "Millî Savunma Bakanı",
-      "D": "Genelkurmay Başkanı",
-      "E": "İçişleri Bakanı"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı Yardımcısı"
+      },
+      {
+        "key": "B",
+        "text": "TBMM Başkanı"
+      },
+      {
+        "key": "C",
+        "text": "Millî Savunma Bakanı"
+      },
+      {
+        "key": "D",
+        "text": "Genelkurmay Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "İçişleri Bakanı"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Cumhurbaşkanı Yardımcısı)**\n\n**1982 Anayasası Madde 118:**\n- *'Millî Güvenlik Kurulu; Cumhurbaşkanının başkanlığında toplanır. Cumhurbaşkanının katılamadığı hallerde Millî Güvenlik Kurulu **Cumhurbaşkanı Yardımcısının** başkanlığında toplanır.'*",
     "hasImage": false,
@@ -12480,13 +14700,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_657",
     "topicName": "657 Sayılı Devlet Memurları Kanunu",
     "questionText": "657 sayılı Devlet Memurları Kanunu'na göre hizmet süresi 1 yıldan 10 yıla kadar (10 yıl dahil) olan memurların yıllık izin süresi kaç gündür?",
-    "options": {
-      "A": "15 gün",
-      "B": "20 gün",
-      "C": "25 gün",
-      "D": "30 gün",
-      "E": "35 gün"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "15 gün"
+      },
+      {
+        "key": "B",
+        "text": "20 gün"
+      },
+      {
+        "key": "C",
+        "text": "25 gün"
+      },
+      {
+        "key": "D",
+        "text": "30 gün"
+      },
+      {
+        "key": "E",
+        "text": "35 gün"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (20 gün)**\n\n**657 Sayılı Kanun Madde 102:**\n- *'Devlet memurlarının yıllık izin süresi, hizmeti 1 yıldan 10 yıla kadar (on yıl dahil) olanlar için **yirmi gün**, hizmeti 10 yıldan fazla olanlar için **otuz gündür**.'*",
     "hasImage": false,
@@ -12500,13 +14735,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_657",
     "topicName": "657 Sayılı Devlet Memurları Kanunu",
     "questionText": "657 sayılı Devlet Memurları Kanunu'na göre memurluktan çıkarma cezası vermeye yetkili merci aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Disiplin Amiri (Okul Müdürü)",
-      "B": "İl Disiplin Kurulu",
-      "C": "Yüksek Disiplin Kurulu",
-      "D": "Vali",
-      "E": "Kaymakam"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Disiplin Amiri (Okul Müdürü)"
+      },
+      {
+        "key": "B",
+        "text": "İl Disiplin Kurulu"
+      },
+      {
+        "key": "C",
+        "text": "Yüksek Disiplin Kurulu"
+      },
+      {
+        "key": "D",
+        "text": "Vali"
+      },
+      {
+        "key": "E",
+        "text": "Kaymakam"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (Yüksek Disiplin Kurulu)**\n\n**657 Sayılı Kanun Madde 126:**\n- Uyarma, kınama ve aylıktan kesme cezaları **disiplin amirleri** tarafından;\n- Kademe ilerlemesinin durdurulması cezası memurun bağlı olduğu kurumdaki **disiplin kurulunun kararı alındıktan sonra atamaya yetkili amirler (illerde valiler)** tarafından;\n- Devlet memurluğundan çıkarma cezası ise amirlerin bu yoldaki isteği üzerine **Yüksek Disiplin Kurulu** tarafından verilir.",
     "hasImage": false,
@@ -12520,13 +14770,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_1739",
     "topicName": "1739 Sayılı Millî Eğitim Temel Kanunu",
     "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre 'Maddi imkânlardan yoksun başarılı öğrencilerin en yüksek eğitim kademelerine kadar öğrenim görmelerini sağlamak amacıyla parasız yatılılık, burs, kredi ve başka yollarla gerekli yardımlar yapılır.' hükmü hangi temel ilkeyi açıklar?",
-    "options": {
-      "A": "Fırsat ve İmkân Eşitliği",
-      "B": "Genellik ve Eşitlik",
-      "C": "Eğitim Hakkı",
-      "D": "Yöneltme",
-      "E": "Demokrasi Eğitimi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Fırsat ve İmkân Eşitliği"
+      },
+      {
+        "key": "B",
+        "text": "Genellik ve Eşitlik"
+      },
+      {
+        "key": "C",
+        "text": "Eğitim Hakkı"
+      },
+      {
+        "key": "D",
+        "text": "Yöneltme"
+      },
+      {
+        "key": "E",
+        "text": "Demokrasi Eğitimi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Fırsat ve İmkân Eşitliği - Madde 8)**\n\n**1739 Sayılı Kanun Madde 8:**\n- Eğitimde kadın, erkek herkese fırsat ve imkân eşitliği sağlanır. Maddi imkândan yoksun başarılı öğrencilere devletçe her türlü yardım yapılır.",
     "hasImage": false,
@@ -12540,13 +14805,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_1739",
     "topicName": "1739 Sayılı Millî Eğitim Temel Kanunu",
     "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre Türk Millî Eğitim Sistemi hangi iki ana bölümden oluşur?",
-    "options": {
-      "A": "Örgün Eğitim ve Yaygın Eğitim",
-      "B": "İlköğretim ve Ortaöğretim",
-      "C": "Okul Öncesi ve Yükseköğretim",
-      "D": "Mesleki Eğitim ve Genel Eğitim",
-      "E": "Resmî Eğitim ve Özel Eğitim"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Örgün Eğitim ve Yaygın Eğitim"
+      },
+      {
+        "key": "B",
+        "text": "İlköğretim ve Ortaöğretim"
+      },
+      {
+        "key": "C",
+        "text": "Okul Öncesi ve Yükseköğretim"
+      },
+      {
+        "key": "D",
+        "text": "Mesleki Eğitim ve Genel Eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Resmî Eğitim ve Özel Eğitim"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Örgün Eğitim ve Yaygın Eğitim)**\n\n**1739 Sayılı Kanun Madde 18:**\n- Türk millî eğitim sistemi; **Örgün eğitim** (Okul öncesi, ilkokul, ortaokul, ortaöğretim, yükseköğretim) ve **Yaygın eğitim** (Örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetleri) olmak üzere iki ana bölümden kurulur.",
     "hasImage": false,
@@ -12560,13 +14840,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_222",
     "topicName": "222 Sayılı İlköğretim ve Eğitim Kanunu",
     "questionText": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre çocuğun ailesi yanında veya velisi bulunduğu kimse tarafından haklı bir sebep olmaksızın okula gönderilmemesi durumunda veliye her gün için idari para cezası verilir. Buna rağmen çocuğu okula göndermemekte ısrar edenlere ne kadar idari para cezası uygulanır?",
-    "options": {
-      "A": "500 Türk Lirası",
-      "B": "1.000 Türk Lirası",
-      "C": "2.000 Türk Lirası",
-      "D": "5.000 Türk Lirası",
-      "E": "10.000 Türk Lirası"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "500 Türk Lirası"
+      },
+      {
+        "key": "B",
+        "text": "1.000 Türk Lirası"
+      },
+      {
+        "key": "C",
+        "text": "2.000 Türk Lirası"
+      },
+      {
+        "key": "D",
+        "text": "5.000 Türk Lirası"
+      },
+      {
+        "key": "E",
+        "text": "10.000 Türk Lirası"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (500 TL)**\n\n**222 Sayılı Kanun Madde 56:**\n- Çocuğun okula gönderilmediği her gün için 15 TL para cezası verilir. Bu para cezasına rağmen çocuğunu okula göndermeyen veya göndermeme sebeplerini bildirmeyen veli veya vasilere **beş yüz Türk Lirası idari para cezası** verilir.",
     "hasImage": false,
@@ -12580,13 +14875,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_222",
     "topicName": "222 Sayılı İlköğretim ve Eğitim Kanunu",
     "questionText": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre ilköğretim kurumlarında ders yılı kaç iş gününden az olamaz?",
-    "options": {
-      "A": "150 gün",
-      "B": "160 gün",
-      "C": "180 gün",
-      "D": "200 gün",
-      "E": "220 gün"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "150 gün"
+      },
+      {
+        "key": "B",
+        "text": "160 gün"
+      },
+      {
+        "key": "C",
+        "text": "180 gün"
+      },
+      {
+        "key": "D",
+        "text": "200 gün"
+      },
+      {
+        "key": "E",
+        "text": "220 gün"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (180 iş günü)**\n\n**222 Sayılı Kanun Madde 44:**\n- *'İlköğretim okullarında ders yılı süresi, derslerin başladığı günden kesildiği güne kadar, tatiller çıkarıldıktan sonra **en az 180 iş günüdür**.'*",
     "hasImage": false,
@@ -12600,13 +14910,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_5018",
     "topicName": "5018 Sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
     "questionText": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu'na göre kamu kaynaklarının etkili, ekonomik ve verimli bir şekilde elde edilmesi ve kullanılmasını, hesap verilebilirliği ve malî saydamlığı sağlamak amacıyla iç denetimi yürüten kamu görevlisi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "İç Denetçi",
-      "B": "Sayıştay Denetçisi",
-      "C": "Harcama Yetkilisi",
-      "D": "Gerçekleştirme Görevlisi",
-      "E": "Muhasebe Yetkilisi"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "İç Denetçi"
+      },
+      {
+        "key": "B",
+        "text": "Sayıştay Denetçisi"
+      },
+      {
+        "key": "C",
+        "text": "Harcama Yetkilisi"
+      },
+      {
+        "key": "D",
+        "text": "Gerçekleştirme Görevlisi"
+      },
+      {
+        "key": "E",
+        "text": "Muhasebe Yetkilisi"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (İç Denetçi)**\n\n**5018 Sayılı Kanun Madde 63 ve 64:**\n- İç denetim, kamu idaresinin çalışmalarına değer katmak ve geliştirmek için kaynakların ekonomiklik, etkililik ve verimlilik esaslarına göre yönetilip yönetilmediğini değerlendirmek üzere **İç Denetçiler** tarafından bağımsız ve tarafsızca yürütülür.",
     "hasImage": false,
@@ -12620,13 +14945,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_4483",
     "topicName": "4483 Sayılı Memurların Yargılanması Kanunu",
     "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre yetkili merci tarafından hakkında soruşturma izni verilmesi veya verilmemesi kararına karşı itiraz süresi kararın tebliğinden itibaren kaç gündür?",
-    "options": {
-      "A": "7 gün",
-      "B": "10 gün",
-      "C": "15 gün",
-      "D": "30 gün",
-      "E": "60 gün"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "7 gün"
+      },
+      {
+        "key": "B",
+        "text": "10 gün"
+      },
+      {
+        "key": "C",
+        "text": "15 gün"
+      },
+      {
+        "key": "D",
+        "text": "30 gün"
+      },
+      {
+        "key": "E",
+        "text": "60 gün"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (10 gün)**\n\n**4483 Sayılı Kanun Madde 9:**\n- *'Yetkili merciin soruşturma izni verilmesine veya verilmemesine ilişkin kararlarına karşı, kararın tebliğinden itibaren **on gün içinde** itiraz edilebilir.'*",
     "hasImage": false,
@@ -12640,13 +14980,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_4688",
     "topicName": "4688 Sayılı Kamu Görevlileri Sendikaları Kanunu",
     "questionText": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'na göre sendika kurucusu olabilmek için kamu görevlisi olarak en az ne kadar hizmet süresi bulunmalıdır?",
-    "options": {
-      "A": "Hizmet süresi şartı yoktur (kamu görevlisi olmak yeterlidir)",
-      "B": "En az 1 yıl",
-      "C": "En az 2 yıl",
-      "D": "En az 3 yıl",
-      "E": "En az 5 yıl"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Hizmet süresi şartı yoktur (kamu görevlisi olmak yeterlidir)"
+      },
+      {
+        "key": "B",
+        "text": "En az 1 yıl"
+      },
+      {
+        "key": "C",
+        "text": "En az 2 yıl"
+      },
+      {
+        "key": "D",
+        "text": "En az 3 yıl"
+      },
+      {
+        "key": "E",
+        "text": "En az 5 yıl"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Hizmet süresi şartı aranmaz)**\n\n**4688 Sayılı Kanun Madde 6:**\n- Sendika kurucusu olabilmek için kamu görevlisi olarak çalışmak yeterlidir; kanunda herhangi bir asgari kıdem veya yıl şartı öngörülmemiştir.",
     "hasImage": false,
@@ -12660,13 +15015,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_5442",
     "topicName": "5442 Sayılı İl İdaresi Kanunu",
     "questionText": "5442 sayılı İl İdaresi Kanunu'na göre ilçenin kurulması, kaldırılması, adının değiştirilmesi ve merkezinin belirtilmesi aşağıdakilerden hangisiyle olur?",
-    "options": {
-      "A": "Kanun ile",
-      "B": "Cumhurbaşkanlığı Kararnamesi ile",
-      "C": "İçişleri Bakanlığı Onayı ile",
-      "D": "İl İdare Kurulu Kararı ile",
-      "E": "Vali Kararı ile"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Kanun ile"
+      },
+      {
+        "key": "B",
+        "text": "Cumhurbaşkanlığı Kararnamesi ile"
+      },
+      {
+        "key": "C",
+        "text": "İçişleri Bakanlığı Onayı ile"
+      },
+      {
+        "key": "D",
+        "text": "İl İdare Kurulu Kararı ile"
+      },
+      {
+        "key": "E",
+        "text": "Vali Kararı ile"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Kanun ile)**\n\n**5442 Sayılı Kanun Madde 2:**\n- İl ve ilçe kurulması, kaldırılması, merkezlerinin belirtilmesi, adlarının değiştirilmesi ve bir ilçenin başka bir ile bağlanması **KANUN ile** yapılır.",
     "hasImage": false,
@@ -12680,13 +15050,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_3071",
     "topicName": "3071 Sayılı Dilekçe Hakkı Kanunu",
     "questionText": "3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun'a göre TBMM'ye gönderilen dilekçelerin incelenip karara bağlanması süresi Dilekçe Komisyonunca en geç kaç gündür?",
-    "options": {
-      "A": "15 gün",
-      "B": "30 gün",
-      "C": "60 gün",
-      "D": "90 gün",
-      "E": "120 gün"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "15 gün"
+      },
+      {
+        "key": "B",
+        "text": "30 gün"
+      },
+      {
+        "key": "C",
+        "text": "60 gün"
+      },
+      {
+        "key": "D",
+        "text": "90 gün"
+      },
+      {
+        "key": "E",
+        "text": "120 gün"
+      }
+    ],
     "correctAnswer": "C",
     "explanation": "📌 **Doğru Cevap: C (60 gün)**\n\n**3071 Sayılı Kanun Madde 8:**\n- TBMM Başkanlığına gönderilen dilekçeler Dilekçe Komisyonunca incelenir ve **altmış gün içinde** karara bağlanır.",
     "hasImage": false,
@@ -12700,13 +15085,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_1cbk",
     "topicName": "1 Sayılı Cumhurbaşkanlığı Kararnamesi (MEB)",
     "questionText": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'ne göre Millî Eğitim Bakanlığında öğretmenlerin atama, yer değiştirme, emeklilik ve özlük işlemlerini yürüten ana hizmet birimi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Personel Genel Müdürlüğü",
-      "B": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü",
-      "C": "Strateji Geliştirme Başkanlığı",
-      "D": "Hukuk Hizmetleri Genel Müdürlüğü",
-      "E": "Destek Hizmetleri Genel Müdürlüğü"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Personel Genel Müdürlüğü)**\n\n**1 Sayılı CBK Madde 313:**\n- **Personel Genel Müdürlüğü:** Bakanlığın personel politikası ve planlamasıyla ilgili çalışmaları yapmak, personelin atama, nakil, terfi, emeklilik ve benzeri özlük işlemlerini yürütmekle görevlidir.",
     "hasImage": false,
@@ -12720,13 +15120,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_1cbk",
     "topicName": "1 Sayılı Cumhurbaşkanlığı Kararnamesi (MEB)",
     "questionText": "1 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre Bakanlık merkez ve taşra teşkilatı ile okul ve kurumlarında inceleme, araştırma, rehberlik, denetim ve soruşturma işlemlerini yürütmekle görevli birim aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Teftiş Kurulu Başkanlığı",
-      "B": "İç Denetim Birimi Başkanlığı",
-      "C": "Strateji Geliştirme Başkanlığı",
-      "D": "Destek Hizmetleri Genel Müdürlüğü",
-      "E": "Hukuk Hizmetleri Genel Müdürlüğü"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "İç Denetim Birimi Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
+    ],
     "correctAnswer": "A",
     "explanation": "📌 **Doğru Cevap: A (Teftiş Kurulu Başkanlığı)**\n\n**1 Sayılı CBK Madde 320:**\n- **Teftiş Kurulu Başkanlığı:** Bakanın emri veya onayı üzerine Bakanlığın merkez, taşra ve yurtdışı teşkilatı ile bağlı ve ilgili kuruluşlarının her türlü faaliyet ve işlemlerine ilişkin teftiş, inceleme ve soruşturma işlerini yürütür.",
     "hasImage": false,
@@ -12740,13 +15155,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicId": "mevzuat_657",
     "topicName": "657 Sayılı Devlet Memurları Kanunu",
     "questionText": "657 sayılı Devlet Memurları Kanunu'na göre 'Memurun kanun, tüzük ve yönetmeliklerde belirtilen esaslara uymada kusurlu davranması' halinde aşağıdaki disiplin cezalarından hangisi verilir?",
-    "options": {
-      "A": "Uyarma",
-      "B": "Kınama",
-      "C": "Aylıktan Kesme",
-      "D": "Kademe İlerlemesinin Durdurulması",
-      "E": "Memurluktan Çıkarma"
-    },
+    "options": [
+      {
+        "key": "A",
+        "text": "Uyarma"
+      },
+      {
+        "key": "B",
+        "text": "Kınama"
+      },
+      {
+        "key": "C",
+        "text": "Aylıktan Kesme"
+      },
+      {
+        "key": "D",
+        "text": "Kademe İlerlemesinin Durdurulması"
+      },
+      {
+        "key": "E",
+        "text": "Memurluktan Çıkarma"
+      }
+    ],
     "correctAnswer": "B",
     "explanation": "📌 **Doğru Cevap: B (Kınama)**\n\n**657 Sayılı Kanun Madde 125/B-a:**\n- Kınama cezasını gerektiren fiil ve haller: *'Verilen emir ve görevlerin tam ve zamanında yapılmasında, görev mahallinde kurumlarca belirlenen usul ve esasların yerine getirilmesinde, görevle ilgili resmi belge, araç ve gereçlerin korunması, kullanılması ve bakımında **kusurlu davranmak**.'*\n- *(Not: Eğer 'kayıtsızlık göstermek veya düzensiz davranmak' ise Uyarma'dır).* ",
     "hasImage": false,
