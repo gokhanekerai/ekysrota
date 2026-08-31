@@ -375,6 +375,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_tarih',
+            name: '2022 EKYS Tarih Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Genel Tarih soruları (Soru 1-6).',
+            filterKey: 'ekys_2022_tarih',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'tarih_tum',
             name: '🌟 Tüm Tarih Soruları (Karma Test)',
             icon: '🎯',
@@ -446,6 +454,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_cogr',
+            name: '2022 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 7-12).',
+            filterKey: 'ekys_2022_cogr',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'cografya_tum',
             name: '🌟 Tüm Coğrafya Soruları (Karma Test)',
             icon: '🎯',
@@ -491,6 +507,14 @@ class EKYSApp {
             desc: '2023 MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları.',
             filterKey: 'ekys_2023_yurttaslik',
             badge: '2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_yurttaslik',
+            name: '2022 EKYS Yurttaşlık Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Temel Yurttaşlık soruları.',
+            filterKey: 'ekys_2022_yurttaslik',
+            badge: '2022 Çıkmış'
           },
           {
             id: 'yurttaslik_tum',
@@ -540,6 +564,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_guncel',
+            name: '2022 EKYS Güncel Bilgiler Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Güncel Bilgiler soruları.',
+            filterKey: 'ekys_2022_guncel',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'guncel_tum',
             name: '🌟 Tüm Güncel Sorular (Karma Test)',
             icon: '🎯',
@@ -584,6 +616,14 @@ class EKYSApp {
             desc: '2023 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
             filterKey: 'ekys_2023_inkilap',
             badge: '2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_inkilap',
+            name: '2022 EKYS İnkılap Tarihi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
+            filterKey: 'ekys_2022_inkilap',
+            badge: '2022 Çıkmış'
           },
           {
             id: 'inkilap_tum',
@@ -632,6 +672,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_degerler',
+            name: '2022 EKYS Değerler & Etik Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi ve Etik soruları.',
+            filterKey: 'ekys_2022_degerler',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'degerler_tum',
             name: '🌟 Tüm Değerler & Etik Soruları (Karma Test)',
             icon: '🎯',
@@ -678,6 +726,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_egitim',
+            name: '2022 EKYS Eğitim Bilimleri Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Eğitim Bilimleri soruları.',
+            filterKey: 'ekys_2022_egitim',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'egitim_tum',
             name: '🌟 Tüm Eğitim Bilimleri Soruları (Karma Test)',
             icon: '🎯',
@@ -722,6 +778,14 @@ class EKYSApp {
             desc: '2023 MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları.',
             filterKey: 'ekys_2023_yonetim',
             badge: '2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_yonetim',
+            name: '2022 EKYS Eğitim Yönetimi Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları.',
+            filterKey: 'ekys_2022_yonetim',
+            badge: '2022 Çıkmış'
           },
           {
             id: 'yonetim_tum',
@@ -960,6 +1024,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_mevzuat_657',
+            name: '2022 EKYS 657 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS 657 DMK soruları ve çözümleri (Soru 67-68, 80).',
+            filterKey: 'ekys_2022_mevzuat_657',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'mevzuat_657_tum',
             name: '🌟 Tüm 657 Sayılı Kanun Soruları (Karma Test)',
             icon: '🎯',
@@ -1005,6 +1077,14 @@ class EKYSApp {
             desc: '2023 MEB EKYS 1739 Millî Eğitim Temel Kanunu soruları (Soru 69-70).',
             filterKey: 'ekys_2023_mevzuat_1739',
             badge: '2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_mevzuat_1739',
+            name: '2022 EKYS 1739 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS 1739 Millî Eğitim Temel Kanunu soruları (Soru 69-70).',
+            filterKey: 'ekys_2022_mevzuat_1739',
+            badge: '2022 Çıkmış'
           },
           {
             id: 'mevzuat_1739_tum',
@@ -1054,6 +1134,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_mevzuat_222',
+            name: '2022 EKYS 222 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS 222 İlköğretim Kanunu soruları (Soru 71-72).',
+            filterKey: 'ekys_2022_mevzuat_222',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'mevzuat_222_tum',
             name: '🌟 Tüm 222 Sayılı Kanun Soruları (Karma Test)',
             icon: '🎯',
@@ -1099,6 +1187,14 @@ class EKYSApp {
             desc: '2023 MEB EKYS 5018 Kamu Mali Yönetimi soruları (Soru 73).',
             filterKey: 'ekys_2023_mevzuat_5018',
             badge: '2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_mevzuat_5018',
+            name: '2022 EKYS 5018 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS 5018 Kamu Mali Yönetimi soruları (Soru 73).',
+            filterKey: 'ekys_2022_mevzuat_5018',
+            badge: '2022 Çıkmış'
           },
           {
             id: 'mevzuat_5018_tum',
@@ -1148,6 +1244,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_mevzuat_4483',
+            name: '2022 EKYS 4483 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS 4483 Memurların Yargılanması soruları (Soru 74).',
+            filterKey: 'ekys_2022_mevzuat_4483',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'mevzuat_4483_tum',
             name: '🌟 Tüm 4483 Sayılı Kanun Soruları (Karma Test)',
             icon: '🎯',
@@ -1193,6 +1297,14 @@ class EKYSApp {
             desc: '2023 MEB EKYS 4688 Sendikalar Kanunu soruları (Soru 75).',
             filterKey: 'ekys_2023_mevzuat_4688',
             badge: '2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_mevzuat_4688',
+            name: '2022 EKYS 4688 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS 4688 Sendikalar Kanunu soruları (Soru 75).',
+            filterKey: 'ekys_2022_mevzuat_4688',
+            badge: '2022 Çıkmış'
           },
           {
             id: 'mevzuat_4688_tum',
@@ -1242,6 +1354,14 @@ class EKYSApp {
             badge: '2023 Çıkmış'
           },
           {
+            id: 'ekys_2022_mevzuat_5442',
+            name: '2022 EKYS 5442 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS 5442 İl İdaresi Kanunu soruları (Soru 76).',
+            filterKey: 'ekys_2022_mevzuat_5442',
+            badge: '2022 Çıkmış'
+          },
+          {
             id: 'mevzuat_5442_tum',
             name: '🌟 Tüm 5442 Sayılı Kanun Soruları (Karma Test)',
             icon: '🎯',
@@ -1287,6 +1407,14 @@ class EKYSApp {
             desc: '2023 MEB EKYS 3071 Dilekçe Kanunu soruları (Soru 77).',
             filterKey: 'ekys_2023_mevzuat_3071',
             badge: '2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_mevzuat_3071',
+            name: '2022 EKYS 3071 Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS 3071 Dilekçe Kanunu soruları (Soru 77).',
+            filterKey: 'ekys_2022_mevzuat_3071',
+            badge: '2022 Çıkmış'
           },
           {
             id: 'mevzuat_3071_tum',
@@ -1387,7 +1515,7 @@ class EKYSApp {
             icon: '📜',
             desc: '2022 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
             filterKey: 'ekys_2022',
-            badge: '80 Soru Hedef'
+            badge: '80 Soru Hazır 🎯'
           },
           {
             id: 'ekys_2021',
