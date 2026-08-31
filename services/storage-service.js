@@ -3,8 +3,8 @@
 class StorageService {
   constructor() {
     this.KEYS = {
-      TOPICS: 'ekys_topics_v3',
-      QUESTIONS: 'ekys_questions_v3',
+      TOPICS: 'ekys_topics_v5',
+      QUESTIONS: 'ekys_questions_v5',
       WRONG_POOL: 'ekys_wrong_pool_v3',
       FAVORITES: 'ekys_favorites_v3',
       QUIZ_HISTORY: 'ekys_quiz_history_v3',
@@ -18,16 +18,23 @@ class StorageService {
   }
 
   initDefaults() {
-    // 1. Sadece klasördeki gerçek PDF sorularını yükle
     const realQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
       ? [...window.EKYS_EXTRACTED_QUESTIONS] 
       : [];
 
-    this.saveQuestions(realQuestions);
+    const stored = (typeof localStorage !== 'undefined' && localStorage.getItem(this.KEYS.QUESTIONS))
+      ? JSON.parse(localStorage.getItem(this.KEYS.QUESTIONS) || '[]')
+      : [];
+
+    const dbIds = new Set(realQuestions.map(q => q.id));
+    const customQuestions = stored.filter(q => !dbIds.has(q.id));
+    const merged = [...realQuestions, ...customQuestions];
+
+    this.saveQuestions(merged);
 
     // 2. Dinamik Konu Listesini Sadece Bu Gerçek Testlerden Oluştur
     const dynamicTopicMap = new Map();
-    realQuestions.forEach(q => {
+    merged.forEach(q => {
       if (q.topicId && !dynamicTopicMap.has(q.topicId)) {
         dynamicTopicMap.set(q.topicId, {
           id: q.topicId,
@@ -108,10 +115,22 @@ class StorageService {
   // --- SORULAR ---
   getQuestions() {
     try {
-      return JSON.parse(localStorage.getItem(this.KEYS.QUESTIONS)) || [];
+      const stored = JSON.parse(localStorage.getItem(this.KEYS.QUESTIONS)) || [];
+      const dbQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
+        ? window.EKYS_EXTRACTED_QUESTIONS 
+        : [];
+      
+      const dbIds = new Set(dbQuestions.map(q => q.id));
+      const customQuestions = stored.filter(q => !dbIds.has(q.id));
+      const merged = [...dbQuestions, ...customQuestions];
+
+      if (merged.length !== stored.length) {
+        this.saveQuestions(merged);
+      }
+      return merged;
     } catch (e) {
       console.error('Soru getirme hatası:', e);
-      return [];
+      return (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) ? window.EKYS_EXTRACTED_QUESTIONS : [];
     }
   }
 

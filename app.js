@@ -23,6 +23,32 @@ class EKYSApp {
     this.applySavedTheme();
     this.initDropzones();
 
+    // Restore last active view from URL hash or sessionStorage on reload
+    const hashView = window.location.hash ? window.location.hash.replace('#', '') : null;
+    const savedView = hashView || sessionStorage.getItem('ekys_last_view') || 'dashboard';
+
+    if (savedView && savedView !== 'quiz-active' && document.getElementById(`view-${savedView}`)) {
+      this.navigateTo(savedView, false);
+    } else {
+      this.navigateTo('dashboard', false);
+    }
+
+    // Restore open subtopic modal if it was open before refresh
+    const savedSubtopic = sessionStorage.getItem('ekys_last_subtopic');
+    if (savedSubtopic && (savedView === 'dashboard' || savedView === 'test-hub')) {
+      setTimeout(() => {
+        this.openSubTopicModal(savedSubtopic);
+      }, 150);
+    }
+
+    // Listen to hash changes (browser back/forward)
+    window.addEventListener('hashchange', () => {
+      const currentHash = window.location.hash.replace('#', '');
+      if (currentHash && currentHash !== this.currentView && document.getElementById(`view-${currentHash}`)) {
+        this.navigateTo(currentHash, false);
+      }
+    });
+
     // Çıkış uyarısı
     window.addEventListener('beforeunload', (e) => {
       if (this.activeQuiz && !this.activeQuiz.isFinished) {
@@ -44,7 +70,7 @@ class EKYSApp {
     });
   }
 
-  navigateTo(viewId) {
+  navigateTo(viewId, saveState = true) {
     if (this.activeQuiz && !this.activeQuiz.isFinished && viewId !== 'quiz-active') {
       if (!confirm('Devam eden bir sınavınız var. Çıkmak istediğinize emin misiniz?')) {
         return;
@@ -54,6 +80,15 @@ class EKYSApp {
     }
 
     this.currentView = viewId;
+
+    if (saveState && viewId !== 'quiz-active') {
+      sessionStorage.setItem('ekys_last_view', viewId);
+      try {
+        if (window.location.hash.replace('#', '') !== viewId) {
+          window.location.hash = viewId;
+        }
+      } catch (e) {}
+    }
 
     // View görünürlüklerini ayarla
     document.querySelectorAll('.view-section').forEach(sec => {
@@ -81,7 +116,9 @@ class EKYSApp {
     if (viewId === 'stats') this.renderStatsView();
     if (viewId === 'admin-panel') this.loadAdminUsersList();
 
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (saveState) {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   }
 
   // --- GERİ SAYIM SAYACI ---
@@ -520,10 +557,15 @@ class EKYSApp {
   }
 
   getQuestionsForFilter(filterKey) {
-    const allQuestions = window.storageService.getQuestions();
+    let allQuestions = [];
+    if (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS) && window.EKYS_EXTRACTED_QUESTIONS.length > 0) {
+      allQuestions = [...window.EKYS_EXTRACTED_QUESTIONS];
+    } else if (window.storageService && typeof window.storageService.getQuestions === 'function') {
+      allQuestions = window.storageService.getQuestions();
+    }
     
     return allQuestions.filter(q => {
-      const tId = (q.topicId || q.testId || '').toLowerCase();
+      const tId = (q.topicId || q.testId || q.id || '').toLowerCase();
       const tName = (q.topicName || q.testTitle || '').toLowerCase();
       const qNum = parseInt(q.questionNumber, 10) || 0;
       const qText = (q.questionText || '').toLowerCase();
@@ -531,7 +573,7 @@ class EKYSApp {
 
       if (filterKey.startsWith('ekys_')) {
         const year = filterKey.replace('ekys_', '');
-        return tName.includes(year) || tId.includes(year) || (q.testId && q.testId.includes(year));
+        return tName.includes(year) || tId.includes(year) || (q.testId && q.testId.includes(year)) || (q.id && q.id.includes(year));
       }
 
       if (filterKey === 'cografya') {
@@ -671,7 +713,10 @@ class EKYSApp {
     }
 
     const modal = document.getElementById('subtopic-modal');
-    if (modal) modal.style.display = 'flex';
+    if (modal) {
+      modal.style.display = 'flex';
+      sessionStorage.setItem('ekys_last_subtopic', categoryKey);
+    }
   }
 
   closeSubTopicModal(event) {
@@ -679,7 +724,10 @@ class EKYSApp {
       return;
     }
     const modal = document.getElementById('subtopic-modal');
-    if (modal) modal.style.display = 'none';
+    if (modal) {
+      modal.style.display = 'none';
+      sessionStorage.removeItem('ekys_last_subtopic');
+    }
   }
 
   // --- HIZLI SORU EKLEME YÖNETİCİSİ ---
