@@ -15366,37 +15366,37 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "id": "ekys_2022_q6",
     "testId": "ekys2022_tam",
     "testTitle": "2022 EKYS Çıkmış Sınavı",
-    "topicId": "ekys_2022_tarih",
-    "topicName": "2022 EKYS - Genel Tarih",
-    "category": "Genel Kültür - Tarih",
+    "topicId": "ekys_2022_cogr",
+    "topicName": "2022 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
     "questionNumber": 6,
-    "questionText": "Osmanlı Devleti'nde halkın ilk kez padişahın yanında yönetime katıldığı ve parlamentolu sisteme geçişin sağlandığı gelişme aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Türkiye'de topoğrafik özellikler nedeniyle akarsular, bazı alanlarda dar ve derin vadiler oluşturmaktadır.\n\nBuna göre yukarıdaki haritada numaralandırılarak gösterilen alanların hangisinde bu tür vadiler yaygın değildir?",
+    "hasImage": true,
+    "image": "assets/questions/ekys2022_q6_map.png",
     "options": [
       {
         "key": "A",
-        "text": "Tanzimat Fermanı'nın ilanı (1839)"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "Islahat Fermanı'nın ilanı (1856)"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "I. Meşrutiyet'in ilanı ve Kanun-i Esasi (1876)"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "Sened-i İttifak (1808)"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "Bâb-ı Âli Baskını (1913)"
+        "text": "V"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>1876 yılında I. Meşrutiyet'in ilanı ve Kanun-i Esasi'nin yürürlüğe girmesiyle Meclis-i Mebusan açılmış ve halk ilk kez yönetime katılmıştır."
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I - Ergene Havzası)<br>Marmara Bölgesi'nde yer alan <strong>Ergene Havzası (I)</strong>, ortalama yükseltinin ve eğimin en az olduğu, yer şekillerinin sade ve düz olduğu bir alandır. Bu nedenle buradaki akarsular dar ve derin (çentik/kanyon) vadiler oluşturamaz; geniş tabanlı ve menderesli vadiler oluşturur. II (Küre Dağları/Kastamonu), III (İç Batı Anadolu), IV (Toroslar/Çukurova çevresi) ve V (Doğu Anadolu) gibi engebeli ve yüksek alanlarda ise akarsular dar ve derin vadiler kazarlar."
   },
   {
     "id": "ekys_2022_q7",
@@ -15406,9 +15406,81 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicName": "2022 EKYS - Coğrafya",
     "category": "Genel Kültür - Coğrafya",
     "questionNumber": 7,
-    "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak gösterilmiştir.\n\nBu yerlerin hangisinde rüzgâr enerjisi potansiyeli daha yüksektir?",
+    "questionText": "Türkiye, jeotermal enerji potansiyeli bakımından dünyada önemli bir yere sahiptir.\n\nBu kaynağın oluşmasında;\nI. aktif bir tektonik kuşak üzerinde yer alması,\nII. masif arazilerin geniş alanlar kaplaması,\nIII. kayaç çeşitliliğinin fazla olması\n\nfaktörlerinden hangileri etkili olmuştur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)<br>Türkiye'nin genç oluşumlu bir arazi yapısına sahip olması, aktif fay hatları ve tektonik kuşaklar üzerinde yer alması jeotermal (sıcak su) kaynaklarının ve potansiyelinin zengin olmasını sağlamıştır. Masif araziler ise eski, oturmuş kütleler olup jeotermal bakımından fakirdir."
+  },
+  {
+    "id": "ekys_2022_q8",
+    "testId": "ekys2022_tam",
+    "testTitle": "2022 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2022_cogr",
+    "topicName": "2022 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionNumber": 8,
+    "questionText": "Aşağıdaki yerleşmelerin hangisinde gerçekleştirilen ekonomik faaliyet türü diğerlerinden farklıdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kom"
+      },
+      {
+        "key": "B",
+        "text": "Ağıl"
+      },
+      {
+        "key": "C",
+        "text": "Oba"
+      },
+      {
+        "key": "D",
+        "text": "Dalyan"
+      },
+      {
+        "key": "E",
+        "text": "Yayla"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Dalyan)<br>Kom, Ağıl, Oba ve Yayla geçici köy altı yerleşmeleri olup temel ekonomik faaliyet <strong>hayvancılıktır</strong>. <strong>Dalyan</strong> yerleşmelerinde ise temel ekonomik faaliyet <strong>balıkçılıktır</strong> (su ürünleri)."
+  },
+  {
+    "id": "ekys_2022_q9",
+    "testId": "ekys2022_tam",
+    "testTitle": "2022 EKYS Çıkmış Sınavı",
+    "topicId": "ekys_2022_cogr",
+    "topicName": "2022 EKYS - Coğrafya",
+    "category": "Genel Kültür - Coğrafya",
+    "questionNumber": 9,
+    "questionText": "Aşağıdaki haritada beş yer numaralandırılarak gösterilmiştir.\n\nBu yerlerin hangisinde rüzgâr enerjisi potansiyeli daha yüksektir?",
     "hasImage": true,
-    "image": "assets/questions/ekys2022_q7_map.png",
+    "image": "assets/questions/ekys2022_q9_map.png",
     "options": [
       {
         "key": "A",
@@ -15432,79 +15504,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II - Çanakkale / Biga Yarımadası)<br>Türkiye'de rüzgâr enerjisi potansiyelinin en yüksek olduğu alanların başında Marmara ve Ege kıyıları, özellikle <strong>Çanakkale (II - Biga Yarımadası)</strong>, Balıkesir ve İzmir çevresi gelmektedir. Çanakkale Boğazı ve çevresi sürekli ve güçlü hava akımlarına açık olması nedeniyle rüzgâr enerjisi santralleri (RES) bakımından ülkemizin en verimli alanlarındandır.<br><br><strong>Haritada İşaretli Alanlar:</strong><br>• <strong>I:</strong> Kırklareli / Trakya<br>• <strong>II:</strong> Çanakkale / Biga Yarımadası (En Yüksek Rüzgâr Potansiyeli - Doğru Cevap)<br>• <strong>III:</strong> Teke Yarımadası / Antalya<br>• <strong>IV:</strong> Taşeli Platosu / Mersin<br>• <strong>V:</strong> Sinop / İnceburun"
-  },
-  {
-    "id": "ekys_2022_q8",
-    "testId": "ekys2022_tam",
-    "testTitle": "2022 EKYS Çıkmış Sınavı",
-    "topicId": "ekys_2022_cogr",
-    "topicName": "2022 EKYS - Coğrafya",
-    "category": "Genel Kültür - Coğrafya",
-    "questionNumber": 8,
-    "questionText": "Türkiye'de İç Anadolu Bölgesi'nde doğal orman örtüsünün tahrip edilmesi sonucu ortaya çıkan ve kurakçıl ot topluluklarından oluşan bitki örtüsüne ne ad verilir?",
-    "hasImage": false,
-    "image": null,
-    "options": [
-      {
-        "key": "A",
-        "text": "Garig"
-      },
-      {
-        "key": "B",
-        "text": "Psödömaki"
-      },
-      {
-        "key": "C",
-        "text": "Antropojen Bozkır"
-      },
-      {
-        "key": "D",
-        "text": "Alpin Çayır"
-      },
-      {
-        "key": "E",
-        "text": "Tayga"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>İç bölgelerde insanların ormanları tahrip etmesiyle oluşan bozkırlara 'Antropojen Bozkır' denir."
-  },
-  {
-    "id": "ekys_2022_q9",
-    "testId": "ekys2022_tam",
-    "testTitle": "2022 EKYS Çıkmış Sınavı",
-    "topicId": "ekys_2022_cogr",
-    "topicName": "2022 EKYS - Coğrafya",
-    "category": "Genel Kültür - Coğrafya",
-    "questionNumber": 9,
-    "questionText": "Erzurum-Kars ve Ardahan platolarında büyükbaş mera hayvancılığının yaygın olarak yapılmasını sağlayan temel doğal faktör aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
-    "options": [
-      {
-        "key": "A",
-        "text": "Yaz yağışlarına bağlı olarak gelişen gür çayır örtüsü"
-      },
-      {
-        "key": "B",
-        "text": "Kış mevsiminin ılık ve yağışlı geçmesi"
-      },
-      {
-        "key": "C",
-        "text": "Tarımsal sulama imkânlarının çok fazla olması"
-      },
-      {
-        "key": "D",
-        "text": "Maki ve garig bitki topluluklarının yaygınlığı"
-      },
-      {
-        "key": "E",
-        "text": "Pazarlama ve tüketim merkezlerine çok yakın olması"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Sert karasal iklimin yaz yağışları sayesinde yaz boyu yeşil kalan gür dağ çayırları, Erzurum-Kars platosunda büyükbaş mera hayvancılığını hâkim kılmıştır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II - Çanakkale / Biga Yarımadası)<br>Türkiye'de rüzgâr enerjisi potansiyelinin en yüksek olduğu alanların başında Marmara ve Ege kıyıları, özellikle <strong>Çanakkale (II - Biga Yarımadası)</strong>, Balıkesir ve İzmir çevresi gelmektedir. Çanakkale Boğazı ve çevresi sürekli ve güçlü hava akımlarına açık olması nedeniyle rüzgâr enerjisi santralleri (RES) bakımından ülkemizin en verimli alanlarındandır.<br><br><strong>Haritada İşaretli Alanlar:</strong><br>• <strong>I:</strong> Kırklareli / İğneada<br>• <strong>II:</strong> Çanakkale / Biga Yarımadası (En Yüksek Rüzgâr Potansiyeli - Doğru Cevap)<br>• <strong>III:</strong> Teke Yarımadası / Antalya<br>• <strong>IV:</strong> Taşeli Platosu / Mersin (Anamur)<br>• <strong>V:</strong> Sinop / İnceburun"
   },
   {
     "id": "ekys_2022_q10",
@@ -15514,33 +15514,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "topicName": "2022 EKYS - Coğrafya",
     "category": "Genel Kültür - Coğrafya",
     "questionNumber": 10,
-    "questionText": "Dünya toplam rezervlerinin yaklaşık %73'ü Türkiye'de bulunan; Balıkesir (Bigadiç), Kütahya (Emet), Eskişehir (Seyitgazi) ve Bursa'da çıkarılan stratejik maden aşağıdakilerden hangisidir?",
+    "questionText": "Türkiye'de bulunduğu il için bir sembol hâline gelmiş pek çok mekân bulunur.\n\nBuna göre aşağıdaki sembol ve bulunduğu il eşleştirmelerinden hangisi yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Krom"
+        "text": "Kız Kalesi – Mersin"
       },
       {
         "key": "B",
-        "text": "Boksit"
+        "text": "Selimiye Camii – Edirne"
       },
       {
         "key": "C",
-        "text": "Bor Mineralleri"
+        "text": "Sümela Manastırı – Trabzon"
       },
       {
         "key": "D",
-        "text": "Bakır"
+        "text": "Milet Antik Kenti – İzmir"
       },
       {
         "key": "E",
-        "text": "Mermer"
+        "text": "İshak Paşa Sarayı – Ağrı"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Türkiye, dünya bor rezervlerinin yaklaşık %73'üne sahiptir. Başlıca yataklar Balıkesir, Kütahya, Eskişehir ve Bursa'dadır."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Milet Antik Kenti – İzmir)<br>Milet Antik Kenti İzmir'de değil, <strong>Aydın</strong> ili (Didim/Söke ilçesi sınırları) sınırları içerisinde yer almaktadır."
   },
   {
     "id": "ekys_2022_q11",
