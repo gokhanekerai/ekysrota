@@ -1145,13 +1145,13 @@ body {
 /* RESPONSIVE MEDIA QUERIES */
 @media (max-width: 900px) {
   .mobile-menu-toggle {
-    display: flex;
+    display: flex !important;
   }
   .mobile-brand-display {
-    display: flex;
+    display: flex !important;
   }
   .sidebar-close-btn {
-    display: flex;
+    display: flex !important;
   }
   .sidebar-backdrop {
     display: block;
