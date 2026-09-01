@@ -353,6 +353,10 @@ class FirebaseService {
       if (adminNavEl) {
         adminNavEl.style.display = isAdminUser ? 'flex' : 'none';
       }
+      const settingsNavEl = document.getElementById('nav-settings');
+      if (settingsNavEl) {
+        settingsNavEl.style.display = isAdminUser ? 'flex' : 'none';
+      }
     } else {
       if (authGateEl) authGateEl.style.display = 'flex';
       if (mainAppEl) mainAppEl.style.display = 'none';
@@ -366,6 +370,10 @@ class FirebaseService {
       }
       if (adminNavEl) {
         adminNavEl.style.display = 'none';
+      }
+      const settingsNavEl = document.getElementById('nav-settings');
+      if (settingsNavEl) {
+        settingsNavEl.style.display = 'none';
       }
     }
 

@@ -79,6 +79,11 @@ class EKYSApp {
       this.activeQuiz = null;
     }
 
+    // Yetki Kontrolü: Ayarlar & Yönetici Paneline sadece Yönetici (Admin) erişebilir
+    if ((viewId === 'settings' || viewId === 'admin-panel') && window.firebaseService && !window.firebaseService.isAdmin()) {
+      viewId = 'dashboard';
+    }
+
     this.currentView = viewId;
 
     if (saveState && viewId !== 'quiz-active') {
