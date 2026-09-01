@@ -110,10 +110,6 @@
           <span>Yıldızlı Sorular</span>
           <span id="badge-fav-count" class="nav-badge" style="display: none;">0</span>
         </a>
-        <a class="nav-item" onclick="app.openTopicManagerModal()">
-          <span class="nav-icon">📁</span>
-          <span>Konu & PDF Ekle</span>
-        </a>
         <a class="nav-item" data-view-target="stats">
           <span class="nav-icon">📈</span>
           <span>Başarı Analizi</span>
@@ -145,9 +141,6 @@
         </div>
 
         <div class="header-actions">
-          <button class="btn btn-secondary btn-sm" onclick="app.openTopicManagerModal()">
-            <span>➕</span> Konu / PDF Ekle
-          </button>
           <button class="btn btn-primary btn-sm" onclick="app.startQuickQuiz(10)">
             <span>⚡</span> Hızlı 10 Soru
           </button>
@@ -726,228 +719,48 @@
     </a>
   </nav>
 
-  <!-- ==================== MODALS ==================== -->
-
-  <!-- MODAL: ALT KONU TEST SEÇİMİ (SUB-TOPIC QUIZ MODAL) -->
+  <!-- MODAL: ALT KONU / ÇIKMIŞ SINAV SEÇİMİ -->
   <div class="modal" id="subtopic-modal" onclick="app.closeSubTopicModal(event)">
-    <div class="modal-content" style="max-width: 760px; max-height: 90vh; overflow-y: auto;" onclick="event.stopPropagation()">
-      <div class="modal-header" style="border-bottom: 1px solid var(--border-active); padding-bottom: 14px; margin-bottom: 16px;">
+    <div class="modal-content" style="max-width: 780px;" onclick="event.stopPropagation()">
+      <div class="modal-header" style="border-bottom: 1px solid var(--border-active); padding-bottom: 12px; margin-bottom: 16px;">
         <div>
           <h3 class="modal-title" id="subtopic-modal-title" style="display: flex; align-items: center; gap: 8px;">
-            <span>📚</span> Alt Konu Testleri
+            <span id="subtopic-modal-icon">📚</span>
+            <span id="subtopic-modal-heading">Alt Konu Testleri</span>
           </h3>
-          <p id="subtopic-modal-desc" style="font-size: 0.82rem; color: var(--text-secondary); margin-top: 4px; margin-bottom: 0;">
-            Çalışmak istediğiniz alt konu başlığını seçerek test veya sınav başlatabilirsiniz.
-          </p>
+          <p id="subtopic-modal-desc" style="font-size: 0.82rem; color: var(--text-secondary); margin: 4px 0 0 0;"></p>
         </div>
         <button class="modal-close" onclick="app.closeSubTopicModal()">✕</button>
       </div>
 
-      <!-- Alt Konu Kartları Izgarası -->
-      <div class="grid-cards" id="subtopic-modal-cards-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px;">
-        <!-- Dinamik Alt Konu Kartları Buraya Render Edilecek -->
+      <div id="subtopic-modal-back-container" style="display: none; margin-bottom: 12px;">
+        <button class="btn btn-secondary btn-sm" id="subtopic-btn-back" onclick="app.navigateSubtopicBack()">
+          <span>⬅️</span> Geri Dön
+        </button>
       </div>
+
+      <div id="subtopic-items-grid" class="subtopic-grid" style="max-height: 65vh; overflow-y: auto; padding-right: 4px;"></div>
     </div>
   </div>
 
-  <!-- MODAL: GÖRSEL BÜYÜTEÇ / LIGHTBOX (IMAGE ZOOM) -->
-  <div class="modal modal-zoom" id="image-zoom-modal" onclick="app.closeImageZoom(event)">
+  <!-- MODAL: IMAGE ZOOM -->
+  <div class="modal modal-zoom" id="modal-zoom-image" onclick="app.closeZoomModal()">
     <div class="modal-zoom-content" onclick="event.stopPropagation()">
-      <div class="modal-zoom-header">
-        <span style="font-weight: 700; font-size: 0.95rem;">🔍 Soru Görseli / Haritası İnceleme</span>
-        <button class="modal-close" onclick="app.closeImageZoom()">✕ Kapat</button>
-      </div>
+      <button class="modal-zoom-close" onclick="app.closeZoomModal()">✕</button>
       <div class="modal-zoom-body">
         <img id="zoom-modal-img" src="" alt="Büyütülmüş Soru Görseli">
       </div>
     </div>
   </div>
 
-  <!-- MODAL: KONU & PDF YÖNETİCİSİ (YENİ KONU / PDF EKLEME) -->
-  <div class="modal" id="topic-manager-modal">
-    <div class="modal-content" style="max-width: 620px;">
-      <div class="modal-header">
-        <h3 class="modal-title">📁 Konu & PDF Test Yöneticisi</h3>
-        <button class="modal-close" onclick="app.closeTopicManagerModal()">✕</button>
-      </div>
-
-      <!-- Tab Buttons -->
-      <div style="display: flex; gap: 8px; margin-bottom: 20px;">
-        <button id="tab-btn-add-topic" class="btn btn-primary btn-sm btn-block" onclick="app.switchTopicModalTab('add-topic')">➕ Yeni Konu Aç</button>
-        <button id="tab-btn-add-pdf" class="btn btn-secondary btn-sm btn-block" onclick="app.switchTopicModalTab('add-pdf')">📄 PDF Yükle</button>
-        <button id="tab-btn-list-topics" class="btn btn-secondary btn-sm btn-block" onclick="app.switchTopicModalTab('list-topics')">📋 Konu Listesi</button>
-      </div>
-
-      <!-- TAB 1: YENİ KONU AÇ -->
-      <div id="tab-content-add-topic">
-        <form onsubmit="app.handleCreateNewTopic(event)">
-          <div class="form-group">
-            <label class="form-label">Ana Kategori / Ders</label>
-            <select id="new-topic-category" class="form-control">
-              <option value="Mevzuat (%20)">⚖️ Mevzuat (%20)</option>
-              <option value="Eğitim Yönetimi (%30)">📊 Eğitim Yönetimi (%30)</option>
-              <option value="Genel Kültür & Coğrafya (%20)">🌍 Genel Kültür & Coğrafya</option>
-              <option value="Genel Kültür & Tarih (%20)">🏛️ Genel Kültür & Tarih</option>
-              <option value="Etik & Değerler (%10)">🤝 Etik & Değerler</option>
-              <option value="Çıkmış Sınavlar">📜 Çıkmış Sınavlar</option>
-              <option value="Özel Çalışma Konusu">⭐ Özel Çalışma Konusu</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <label class="form-label">Konu Başlığı</label>
-            <input type="text" id="new-topic-name" class="form-control" placeholder="Örn: 1739 Sayılı Milli Eğitim Temel Kanunu" required>
-          </div>
-          <div class="form-group">
-            <label class="form-label">Simge (Emoji)</label>
-            <input type="text" id="new-topic-icon" class="form-control" value="📚" style="max-width: 100px;">
-          </div>
-          <button type="submit" class="btn btn-primary btn-block">
-            ➕ Konuyu Oluştur & Kaydet
-          </button>
-        </form>
-      </div>
-
-      <!-- TAB 2: PDF YÜKLE -->
-      <div id="tab-content-add-pdf" style="display: none;">
-        <div class="form-group">
-          <label class="form-label">Hangi Konunun Altına Eklensin?</label>
-          <select id="pdf-target-topic-select" class="form-control"></select>
-        </div>
-        <div class="dropzone" id="topic-pdf-dropzone" style="padding: 30px 15px;">
-          <div class="dropzone-icon" style="font-size: 38px;">📥</div>
-          <h4 style="font-weight: 700; margin-bottom: 4px;">PDF Dosyasını Buraya Bırakın</h4>
-          <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 12px;">veya dosya seçmek için tıklayın (.pdf)</p>
-          <span class="btn btn-secondary btn-sm">PDF Dosyası Seç</span>
-          <input type="file" id="topic-pdf-file-input" accept=".pdf" style="display: none;">
-        </div>
-        <div id="topic-pdf-progress" style="margin-top: 12px; font-size: 0.85rem; color: #818cf8; font-weight: 600;"></div>
-      </div>
-
-      <!-- TAB 3: MEVCUT KONULAR LİSTESİ -->
-      <div id="tab-content-list-topics" style="display: none;">
-        <div id="manager-topics-list" style="max-height: 320px; overflow-y: auto;"></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- MODAL: HIZLI SORU EKLEME MODALI (MANUEL SORU / ÇIKMIŞ SINAV SORUSU EKLEME) -->
-  <div class="modal" id="modal-add-single-question" onclick="app.closeAddQuestionModal(event)">
-    <div class="modal-content" style="max-width: 680px; max-height: 90vh; overflow-y: auto;" onclick="event.stopPropagation()">
-      <div class="modal-header" style="border-bottom: 1px solid var(--border-active); padding-bottom: 12px; margin-bottom: 16px;">
-        <div>
-          <h3 class="modal-title" style="display: flex; align-items: center; gap: 8px;">
-            <span>➕</span> <span id="add-q-target-title">Yeni Soru Ekle</span>
-          </h3>
-          <p style="font-size: 0.82rem; color: var(--text-secondary); margin: 4px 0 0 0;">
-            Seçili sınava / konuya yeni soru, şıklar, doğru cevap ve çözüm ekleyebilirsiniz.
-          </p>
-        </div>
-        <button class="modal-close" onclick="app.closeAddQuestionModal()">✕</button>
-      </div>
-
-      <form onsubmit="app.handleSaveCustomQuestion(event)">
-        <input type="hidden" id="add-q-filter-key" value="">
-        <input type="hidden" id="add-q-target-name" value="">
-
-        <!-- Soru Numarası & Başlık -->
-        <div style="display: grid; grid-template-columns: 100px 1fr; gap: 12px; margin-bottom: 14px;">
-          <div class="form-group" style="margin: 0;">
-            <label class="form-label">Soru No</label>
-            <input type="number" id="add-q-num" class="form-control" value="1" min="1" required>
-          </div>
-          <div class="form-group" style="margin: 0;">
-            <label class="form-label">Sınav / Test Başlığı</label>
-            <input type="text" id="add-q-header-title" class="form-control" placeholder="Örn: 2026 EKYS Çıkmış Sınavı" required>
-          </div>
-        </div>
-
-        <!-- Soru Metni -->
-        <div class="form-group" style="margin-bottom: 14px;">
-          <label class="form-label">Soru Metni (Öncüller, soru kökü)</label>
-          <textarea id="add-q-text" class="form-control" rows="4" placeholder="Soru metnini buraya yazın veya yapıştırın..." required></textarea>
-        </div>
-
-        <!-- Şıklar (A, B, C, D, E) -->
-        <label class="form-label" style="margin-bottom: 8px;">Seçenekler (A - E)</label>
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;">
-          <div class="form-group" style="margin: 0;">
-            <div style="display: flex; align-items: center; gap: 6px;">
-              <span style="font-weight: 800; color: #818cf8; width: 20px;">A)</span>
-              <input type="text" id="add-q-opt-a" class="form-control" placeholder="A seçeneği..." required>
-            </div>
-          </div>
-          <div class="form-group" style="margin: 0;">
-            <div style="display: flex; align-items: center; gap: 6px;">
-              <span style="font-weight: 800; color: #818cf8; width: 20px;">B)</span>
-              <input type="text" id="add-q-opt-b" class="form-control" placeholder="B seçeneği..." required>
-            </div>
-          </div>
-          <div class="form-group" style="margin: 0;">
-            <div style="display: flex; align-items: center; gap: 6px;">
-              <span style="font-weight: 800; color: #818cf8; width: 20px;">C)</span>
-              <input type="text" id="add-q-opt-c" class="form-control" placeholder="C seçeneği..." required>
-            </div>
-          </div>
-          <div class="form-group" style="margin: 0;">
-            <div style="display: flex; align-items: center; gap: 6px;">
-              <span style="font-weight: 800; color: #818cf8; width: 20px;">D)</span>
-              <input type="text" id="add-q-opt-d" class="form-control" placeholder="D seçeneği..." required>
-            </div>
-          </div>
-          <div class="form-group" style="grid-column: span 2; margin: 0;">
-            <div style="display: flex; align-items: center; gap: 6px;">
-              <span style="font-weight: 800; color: #818cf8; width: 20px;">E)</span>
-              <input type="text" id="add-q-opt-e" class="form-control" placeholder="E seçeneği..." required>
-            </div>
-          </div>
-        </div>
-
-        <!-- Doğru Cevap & Harita/Görsel -->
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px;">
-          <div class="form-group" style="margin: 0;">
-            <label class="form-label">🔑 Doğru Cevap</label>
-            <select id="add-q-correct" class="form-control" style="font-weight: 700;">
-              <option value="A">A Şıkkı</option>
-              <option value="B">B Şıkkı</option>
-              <option value="C">C Şıkkı</option>
-              <option value="D">D Şıkkı</option>
-              <option value="E">E Şıkkı</option>
-            </select>
-          </div>
-          <div class="form-group" style="margin: 0;">
-            <label class="form-label">🖼️ Soru Görseli / Harita (İsteğe Bağlı)</label>
-            <input type="file" id="add-q-image-file" class="form-control" accept="image/*" onchange="app.handleQuestionImagePreview(event)">
-            <input type="hidden" id="add-q-image-base64" value="">
-          </div>
-        </div>
-
-        <!-- Görsel Önizleme -->
-        <div id="add-q-img-preview-box" style="display: none; margin-bottom: 14px; text-align: center;">
-          <img id="add-q-img-preview" src="" style="max-height: 140px; border-radius: 8px; border: 1px solid var(--border-active);" alt="Önizleme">
-        </div>
-
-        <!-- Detaylı Çözüm & Açıklama -->
-        <div class="form-group" style="margin-bottom: 20px;">
-          <label class="form-label">💡 Çözüm & Doğru Cevap Açıklaması</label>
-          <textarea id="add-q-explanation" class="form-control" rows="2" placeholder="Örn: Doğru Cevap: A. Çünkü 1982 Anayasası madde 104 uyarınca..."></textarea>
-        </div>
-
-        <!-- Kaydet Butonu -->
-        <button type="submit" class="btn btn-primary btn-block" style="padding: 12px; font-weight: 700; font-size: 1rem;">
-          💾 Soruyu Kaydet ve Ekle
-        </button>
-      </form>
-    </div>
-  </div>
-
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=9.0"></script>
-  <script src="data/questions-db.js?v=9.0"></script>
-  <script src="services/storage-service.js?v=9.0"></script>
-  <script src="services/firebase-service.js?v=9.0"></script>
-  <script src="services/pdf-service.js?v=9.0"></script>
-  <script src="services/youtube-service.js?v=9.0"></script>
-  <script src="services/question-generator.js?v=9.0"></script>
-  <script src="app.js?v=9.0"></script>
+  <script src="data/ekys-sample-questions.js?v=10.0"></script>
+  <script src="data/questions-db.js?v=10.0"></script>
+  <script src="services/storage-service.js?v=10.0"></script>
+  <script src="services/firebase-service.js?v=10.0"></script>
+  <script src="services/pdf-service.js?v=10.0"></script>
+  <script src="services/youtube-service.js?v=10.0"></script>
+  <script src="services/question-generator.js?v=10.0"></script>
+  <script src="app.js?v=10.0"></script>
 </body>
 </html>

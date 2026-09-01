@@ -2370,15 +2370,12 @@ class EKYSApp {
                 ${item.desc}
               </p>
             </div>
-            <div style="display: flex; gap: 6px; margin-top: auto; flex-wrap: wrap;">
+            <div style="display: flex; gap: 8px; margin-top: auto;">
               <button class="btn btn-primary btn-sm" style="flex: 1;" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'practice')">
-                🎯 Pratik
+                🎯 Pratik Çöz
               </button>
               <button class="btn btn-secondary btn-sm" style="flex: 1;" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'exam')">
-                ⏱️ Sınav
-              </button>
-              <button class="btn btn-sm" style="background: rgba(99, 102, 241, 0.2); border: 1px solid rgba(99, 102, 241, 0.4); color: #c7d2fe;" onclick="app.openAddQuestionModal('${item.filterKey}', '${item.name}')" title="Bu Sınava / Konuya Yeni Soru Ekle">
-                ➕ Soru Ekle
+                ⏱️ Sınav Modu
               </button>
             </div>
           </div>
