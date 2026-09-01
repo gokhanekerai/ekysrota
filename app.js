@@ -2999,15 +2999,9 @@ class EKYSApp {
       `;
     }).join('');
 
-    // Çözüm / Açıklama Kutusu
+    // Çözüm / Açıklama Kutusu (Tamamen Kaldırıldı)
     const expBox = document.getElementById('quiz-explanation-box');
-    const expText = document.getElementById('quiz-explanation-text');
-    if (this.activeQuiz.mode === 'practice' && isAnswered) {
-      expBox.style.display = 'block';
-      expText.innerHTML = (q.explanation || `Doğru Cevap: <strong>${q.correctAnswer}</strong>`).replace(/\n/g, '<br>');
-    } else {
-      expBox.style.display = 'none';
-    }
+    if (expBox) expBox.style.display = 'none';
 
     // Gezinti Çizelgesi (Matrix)
     this.renderQuestionMatrix();

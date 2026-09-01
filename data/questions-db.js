@@ -35,7 +35,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>I (Enlem) ve IV (Boylam) mutlak konumun; II ve III (Yer şekilleri/Yükselti) göreceli konumun sonucudur."
+    "explanation": ""
   },
   {
     "id": "cogr1-q2",
@@ -72,7 +72,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Kutuplara ve Ekvator'a göre yer mutlak (matematik) konum ile ilgilidir."
+    "explanation": ""
   },
   {
     "id": "cogr1-q3",
@@ -109,7 +109,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Kutup Yıldızı'nın görünüm açısı bulunulan yerin Kuzey enlem derecesine eşittir. Sinop (42° K) daha kuzeydedir."
+    "explanation": ""
   },
   {
     "id": "cogr1-q4",
@@ -146,7 +146,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>45° Doğu - 40° Kuzey noktası Türkiye sınırları içerisindedir (Iğdır civarı)."
+    "explanation": ""
   },
   {
     "id": "cogr1-q5",
@@ -183,7 +183,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Akdeniz iklimi ve Batı rüzgârları (A-B-C-D kuralı) Orta Kuşak sonucudur (2 tanesi)."
+    "explanation": ""
   },
   {
     "id": "cogr1-q6",
@@ -220,7 +220,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Aynı anda tek ortak saat kullanılması Doğu-Batı yönlü boylam genişliğinin az olması sonucudur."
+    "explanation": ""
   },
   {
     "id": "cogr1-q7",
@@ -257,7 +257,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Adapazarı haritada en kuzeyde yer aldığı için Güneş ışınlarını en dar açıyla alır ve atmosferde tutulma en fazla olur."
+    "explanation": ""
   },
   {
     "id": "cogr1-q8",
@@ -294,7 +294,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Paralel dairelerinin boyu Ekvator'dan kutuplara doğru kısalır. En güneydeki Hatay'da paralel boyu en uzundur."
+    "explanation": ""
   },
   {
     "id": "cogr1-q9",
@@ -331,7 +331,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Türkiye'nin her yerinde ortak (ulusal) saat (45° D Iğdır) kullanıldığı için ulusal saat değişmez."
+    "explanation": ""
   },
   {
     "id": "cogr1-q10",
@@ -368,7 +368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Ekvator'da yıl boyu 12 saat gece 12 saat gündüz yaşanır. Ekvator'a en yakın olan Hatay'da fark en azdır."
+    "explanation": ""
   },
   {
     "id": "cogr1-q11",
@@ -405,7 +405,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Ekvator'a uzaklık (Enlem/Paralel) ve Başlangıç meridyenine zaman farkı (Boylam/Meridyen) matematik konumdur."
+    "explanation": ""
   },
   {
     "id": "cogr1-q12",
@@ -442,7 +442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Dört mevsimin belirgin yaşanması ve yıllık sıcaklık farkları Orta Kuşak sonucudur."
+    "explanation": ""
   },
   {
     "id": "cogr1-q13",
@@ -479,7 +479,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Kuzeye gidildikçe çizgisel hız azaldığı için Güneş daha yavaş doğup batar; Ardahan'da alacakaranlık süresi en uzundur."
+    "explanation": ""
   },
   {
     "id": "cogr1-q14",
@@ -516,7 +516,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Kıtalara, denizlere ve boğazlara göre konum Özel (Göreceli) konumdur."
+    "explanation": ""
   },
   {
     "id": "cogr1-q15",
@@ -553,7 +553,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Alacakaranlık kısaldığı için daha güneye, yerel saat daha geri olduğu için daha batıya gitmiştir (Güneybatı = Fethiye)."
+    "explanation": ""
   },
   {
     "id": "cogr1-q16",
@@ -590,7 +590,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Artvin 45° Doğu boylamına en yakın il olduğu için yerel saat farkı en azdır."
+    "explanation": ""
   },
   {
     "id": "cogr1-q17",
@@ -627,7 +627,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Kuzeye gidildikçe tan/gurup süresi uzar (kısalmaz) ve Güneş açısı küçülür (büyümez)."
+    "explanation": ""
   },
   {
     "id": "cogr1-q18",
@@ -664,7 +664,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Batıdan doğuya doğru yükselti artar; dolayısıyla yükselti ortalamaları aynı değildir."
+    "explanation": ""
   },
   {
     "id": "cogr1-q19",
@@ -701,7 +701,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Meridyen aralıkları kutuplara doğru daraldığı için kuzeydeki Gümüşhane Başlangıç Meridyenine km olarak daha yakındır."
+    "explanation": ""
   },
   {
     "id": "cogr1-q20",
@@ -738,7 +738,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Aynı anda farklı iklim ve mevsim koşullarının görülmesi yer şekilleri ve yükseltinin (Göreceli Konum) sonucudur."
+    "explanation": ""
   },
   {
     "id": "cogr2-q1",
@@ -775,7 +775,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>21 Haziran'da kuzeye ve doğuya gidildikçe gündüz süresi uzar ve Güneş daha erken doğar. Kars en kuzeydoğuda yer alır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q2",
@@ -812,7 +812,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>21 Aralık'ta kuzeye gidildikçe gece süresi uzar; haritada en kuzeyde yer alan nokta III (Sinop civarı)'tür."
+    "explanation": ""
   },
   {
     "id": "cogr2-q3",
@@ -849,7 +849,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>21 Aralık'ta gölge boyu en uzundur; 21 Aralık'tan sonra Güneş ışınlarının geliş açısı büyüdüğü için gölge boyları kısalmaya başlar."
+    "explanation": ""
   },
   {
     "id": "cogr2-q4",
@@ -886,7 +886,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>21 Aralık'ta güneye gidildikçe gece süresi kısalır; Hakkâri Elazığ'ın güneyinde yer alır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q5",
@@ -923,7 +923,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>X kentinde Güneş batmaya daha yakındır yani yerel saati daha ileridir."
+    "explanation": ""
   },
   {
     "id": "cogr2-q6",
@@ -960,7 +960,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Batı ve Güney yönlerinin bileşkesi Güneybatı (IV numaralı ok)'dur."
+    "explanation": ""
   },
   {
     "id": "cogr2-q7",
@@ -997,7 +997,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>45° Doğu boylamına en yakın olan Hakkâri'de yerel saat ile ulusal saat farkı en azdır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q8",
@@ -1034,7 +1034,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>21 Mart ile 23 Eylül arasında Kuzey Yarım Küre'de gündüz süresi 12 saatten fazladır (Nisan - Mayıs)."
+    "explanation": ""
   },
   {
     "id": "cogr2-q9",
@@ -1071,7 +1071,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Dört mevsimin yaşanması iklimsel/matematik konum özelliğidir; jeopolitik stratejik gücü diğerleri kadar doğrudan etkilemez."
+    "explanation": ""
   },
   {
     "id": "cogr2-q10",
@@ -1108,7 +1108,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Doğu Karadeniz'in fazla yağış alması yer şekilleri ve denize paralel uzanan dağların (Özel Konum) sonucudur."
+    "explanation": ""
   },
   {
     "id": "cogr2-q11",
@@ -1145,7 +1145,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Sınır komşularımız doğrudan; Kosova, Bosna, Filistin gibi bölgeler dolaylı sorunlarımızdır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q12",
@@ -1182,7 +1182,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Antalya'nın Zonguldak'tan sıcak olması güney-kuzey enlem (Matematik Konum) farkıdır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q13",
@@ -1219,7 +1219,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Kapıkule Bulgaristan sınırında yer alır; haritada konumu yanlış işaretlenmiştir."
+    "explanation": ""
   },
   {
     "id": "cogr2-q14",
@@ -1256,7 +1256,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>NAFTA Kuzey Amerika Serbest Ticaret Anlaşması olup üyeleri ABD, Kanada ve Meksika'dır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q15",
@@ -1293,7 +1293,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Yunanistan kara sınırımız 212 km olup verilen seçenekler arasındaki en kısa sınırdır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q16",
@@ -1330,7 +1330,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Doğu Akdeniz yetki alanları Türkiye'nin doğrudan egemenlik hakları ile ilgilidir."
+    "explanation": ""
   },
   {
     "id": "cogr2-q17",
@@ -1367,7 +1367,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Fiyort kıyılar kutup kuşağına yakın soğuk enlemlerde deniz seviyesine kadar inen buzullarla oluşur. Türkiye ılıman kuşaktadır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q18",
@@ -1404,7 +1404,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>I numaralı Marmara / Yıldız Dağları bölgesinde yükselti 2200 metrenin altında olduğu için buzul şekli oluşmamıştır."
+    "explanation": ""
   },
   {
     "id": "cogr2-q19",
@@ -1441,7 +1441,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Maden çeşitliliği jeolojik devirler, volkanizma ve metamorfizma (Jeolojik Yapı) sonucudur; iklimle ilgisi yoktur."
+    "explanation": ""
   },
   {
     "id": "cogr2-q20",
@@ -1478,7 +1478,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Depremler saniyeler içinde gerçekleşirken, Epirojenez (kıta oluşumu) milyonlarca yıllık jeolojik süreçlerde meydana gelir."
+    "explanation": ""
   },
   {
     "id": "cogr3-q1",
@@ -1515,7 +1515,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Türkiye'nin en kısa kara sınırı Gürcistan ile değil, Nahçıvan (Azerbaycan) iledir (yaklaşık 18 km / Dilucu Sınır Kapısı)."
+    "explanation": ""
   },
   {
     "id": "cogr3-q2",
@@ -1552,7 +1552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Iğdır'da pamuk yetişmesi çevresine göre çukurda yer alıp mikroklima oluşturması (özel konum) ile ilgilidir. Bitki örtüsü ve tarım çeşitliliği ise hem matematik konum (orta kuşak) hem de özel konum (yükselti, dağlar, denizellik) koşullarının ortak sonucudur."
+    "explanation": ""
   },
   {
     "id": "cogr3-q3",
@@ -1589,7 +1589,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Iğdır ili; Ermenistan, Nahçıvan (Azerbaycan) ve İran olmak üzere 3 farklı komşu devletle sınır kapısı/bağlantısı bulunan tek ilimizdir."
+    "explanation": ""
   },
   {
     "id": "cogr3-q4",
@@ -1626,7 +1626,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Aynı enlem üzerindeki noktalarda gece-gündüz süreleri ve süre farkları eşittir. Zonguldak ve Rize yaklaşık olarak aynı enlem üzerinde yer aldıklarından aralarındaki gece-gündüz süre farkı en azdır."
+    "explanation": ""
   },
   {
     "id": "cogr3-q5",
@@ -1663,7 +1663,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>• Merve doğrudur (coğrafi konum şartlarına bağlı ürün çeşitliliği iç ticareti canlandırır).<br>• Mete yanlıştır (güneyden kuzeye kutuplara yaklaşıldıkça gece-gündüz süre farkı artar).<br>• Can doğrudur (Kuzey Yarım Küre'de yaz aylarında kuzeye gidildikçe gündüzler uzar)."
+    "explanation": ""
   },
   {
     "id": "cogr3-q6",
@@ -1700,7 +1700,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Aynı enlem üzerinde bulunan merkezlerde Güneş ışınlarının geliş açısı (I), Ekvator'a kuş uçuşu mesafe (II) ve öğle vakti gölge yönü (IV) aynıdır. Sıcaklık ortalamaları (III) ise yükselti ve karasallık gibi özel konum şartları sebebiyle farklıdır."
+    "explanation": ""
   },
   {
     "id": "cogr3-q7",
@@ -1737,7 +1737,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>En sıcak ayların Temmuz-Ağustos olması, Bakı etkisinin güney yamaçta olması ve kuzey sektörlü rüzgarların sıcaklığı düşürmesi Türkiye'nin Kuzey Yarım Küre'nin orta kuşağında (mutlak konum) yer aldığının kesin kanıtlarıdır."
+    "explanation": ""
   },
   {
     "id": "cogr3-q8",
@@ -1774,7 +1774,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Ilıman iklim kuşağında (Orta Kuşak, 36°-42° K) bulunmak enlem/matematik konumun bir sonucudur. Diğer maddeler özel (göreceli) konum faktörleridir."
+    "explanation": ""
   },
   {
     "id": "cogr3-q9",
@@ -1811,7 +1811,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Aynı enlemde yer alan noktalara Güneş ışınları yılın her gününde aynı açıyla düşer. Sıcaklık farkı, rüzgar yönü ve bağıl nem ise yükselti ve denizellik şartlarına (özel konum) bağlıdır."
+    "explanation": ""
   },
   {
     "id": "cogr3-q10",
@@ -1848,7 +1848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Güneş ışınlarının dik açıyla gelmemesi ve gölgenin sıfır olmaması Dönenceler Dışında (23°27' kuzey ve güney enlemleri dışında) yer almanın sonucudur; tek başına Kuzey Yarım Küre'de olduğunu göstermez."
+    "explanation": ""
   },
   {
     "id": "cogr3-q11",
@@ -1885,7 +1885,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Fiziki haritalarda 1500 metre ve üzerindeki yükselti basamakları kahverengiyle gösterilir. Hakkâri Yüksekova yaklaşık 1950-2000 metre rakımda yer aldığından kahverengi tonlarıyla temsil edilir."
+    "explanation": ""
   },
   {
     "id": "cogr3-q12",
@@ -1922,7 +1922,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Kuzey Anadolu Dağları ve Toroslar III. Jeolojik Zaman'da (Alp Orojenezi), İstanbul Boğazı ve Ege Denizi ise IV. Jeolojik Zaman'da (Kuvaterner) oluşmuştur. I. öncül yanlıştır (Egeid karası IV. zamanda çökmüştür)."
+    "explanation": ""
   },
   {
     "id": "cogr3-q13",
@@ -1959,7 +1959,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Türkiye'de fosil yakıtlar içerisinde bilinen rezervi ve yerli üretimi en az olan enerji kaynağı doğal gazdır (ihtiyacın %98'den fazlası ithal edilir)."
+    "explanation": ""
   },
   {
     "id": "cogr3-q14",
@@ -1996,7 +1996,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Aras Nehri ve onun önemli kolu olan Arpaçay, Türkiye ile Ermenistan sınırının büyük bir bölümünü oluşturan doğal sınır akarsularımızdır."
+    "explanation": ""
   },
   {
     "id": "cogr3-q15",
@@ -2033,7 +2033,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Haritada işaretlenen alanlar (Yıldız, Daday-Devrekani, Kırşehir, Menteşe, Bitlis vb.) I. Jeolojik Zaman'da (Paleozoik) oluşmuş sert, oturmuş kütleler olan <strong>Masif (Yaşlı Temel) Araziler</strong>dir."
+    "explanation": ""
   },
   {
     "id": "cogr3-q16",
@@ -2070,7 +2070,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Türkiye'de aktif (etkin) volkanik dağ bulunmamaktadır. Türkiye'deki sıradağlar Alp Orojenezi kuşağında yer alan genç kıvrım dağlarıdır."
+    "explanation": ""
   },
   {
     "id": "cogr3-q17",
@@ -2107,7 +2107,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Fiziki haritalarda kullanılan renkler sadece yükselti basamaklarını gösterir. Çukurova kıyı delta ovası olup 0-200 metre (yeşil), Isparta Ovası ise iç kesimde yer alıp ~1000 metre (sarı/turuncu) yükseltiye sahiptir."
+    "explanation": ""
   },
   {
     "id": "cogr3-q18",
@@ -2144,7 +2144,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Türkiye'de güncel buzullar çoğunlukla yükseltisi kalıcı kar sınırını (3500-4000 m) aşan Doğu Anadolu ve Doğu Karadeniz dağlarında (Hakkâri Cilo Dağı, Ağrı Dağı, Kaçkarlar, Süphan) bulunmaktadır."
+    "explanation": ""
   },
   {
     "id": "cogr3-q19",
@@ -2181,7 +2181,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Taşkömürü yatakları I. Jeolojik Zaman'da (Paleozoik / Karbonifer) oluşmuştur ve arazinin yaşlı (masif) olduğunu gösterir. Linyit, jeotermal sular, depremler ve genç yükselti ise III. ve IV. jeolojik zamanlara aittir."
+    "explanation": ""
   },
   {
     "id": "cogr3-q20",
@@ -2218,7 +2218,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>I numaralı konumda yer alan Menteşe Dağları volkanik değil, Ege'deki Horst-Graben sistemine bağlı bir <strong>Kırık (Horst)</strong> dağdır."
+    "explanation": ""
   },
   {
     "id": "tarih1-q1",
@@ -2255,7 +2255,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>İber Yarımadası (İspanya-Portekiz) Avrupa'dadır; Orta Asya sınırları içinde yer almaz."
+    "explanation": ""
   },
   {
     "id": "tarih1-q2",
@@ -2292,7 +2292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Medreseler İslamiyet'in kabulünden sonra ortaya çıkan eğitim kurumlarıdır."
+    "explanation": ""
   },
   {
     "id": "tarih1-q3",
@@ -2329,7 +2329,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Taşınabilir sanat eserleri, ordu-millet anlayışı ve hapis cezalarının kısa süreli olması göçebe yaşamın sonucudur."
+    "explanation": ""
   },
   {
     "id": "tarih1-q4",
@@ -2366,7 +2366,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Sultan unvanı İslamiyet sonrası Gazneli Mahmut ile başlayan İslami bir unvandır."
+    "explanation": ""
   },
   {
     "id": "tarih1-q5",
@@ -2403,7 +2403,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Din adamları (Kam/Baksı/Şaman) teokratik bir yapı oluşmaması için kurultaya katılamazdı."
+    "explanation": ""
   },
   {
     "id": "tarih1-q6",
@@ -2440,7 +2440,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Ayukı hükümet, Aygucı başbakan, Buyruk ise bakan demektir."
+    "explanation": ""
   },
   {
     "id": "tarih1-q7",
@@ -2477,7 +2477,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Toprak mülkiyeti olmadığı için sınıf ayrımı yoktur; hareketli yaşam askerî kabiliyeti geliştirmiştir."
+    "explanation": ""
   },
   {
     "id": "tarih1-q8",
@@ -2514,7 +2514,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Tamu cehennem, Uçmağ cennet anlamına gelir."
+    "explanation": ""
   },
   {
     "id": "tarih1-q9",
@@ -2551,7 +2551,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Baksı din adamı / şaman / ozan olup devlet bürokrasisinin bir memuru değildir."
+    "explanation": ""
   },
   {
     "id": "tarih1-q10",
@@ -2588,7 +2588,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Kurultay töre koyma (yasama), savaş kararı (askerî) ve kağan seçimi/yönetim (siyasi) yetkilerine sahipti."
+    "explanation": ""
   },
   {
     "id": "tarih1-q11",
@@ -2625,7 +2625,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Tıraz İslami dönemde halifenin gönderdiği hilat/elbisedir; İslam öncesi sembol değildir."
+    "explanation": ""
   },
   {
     "id": "tarih1-q12",
@@ -2662,7 +2662,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Tek lider (Monarşi) ve ikili teşkilat/boylar birliği (Federal) görülür; teokrasi yoktur."
+    "explanation": ""
   },
   {
     "id": "tarih1-q13",
@@ -2699,7 +2699,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Göçebe yaşam kalıcı mimari eserlerin gelişmesini engellemiştir."
+    "explanation": ""
   },
   {
     "id": "tarih1-q14",
@@ -2736,7 +2736,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Bitikçi devlet yazışmalarını yürüten kâtiptir."
+    "explanation": ""
   },
   {
     "id": "tarih1-q15",
@@ -2773,7 +2773,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>İslam öncesi Türklerde dini zorla yayma görevi yoktur, dini hoşgörü esastır."
+    "explanation": ""
   },
   {
     "id": "tarih1-q16",
@@ -2810,7 +2810,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Tuğ hükümdarlık ve ordu sancağı / flamasıdır."
+    "explanation": ""
   },
   {
     "id": "tarih1-q17",
@@ -2847,7 +2847,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Budun millet anlamına gelir."
+    "explanation": ""
   },
   {
     "id": "tarih1-q18",
@@ -2884,7 +2884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Göçebe yaşamda toprak mülkiyeti devlete ait olduğu için sınıfsal ayrım oluşmamıştır."
+    "explanation": ""
   },
   {
     "id": "tarih1-q19",
@@ -2921,7 +2921,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Hanedan ortak malı anlayışı taht kavgalarına ve devletlerin kısa sürede yıkılmasına yol açmıştır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q1",
@@ -2958,7 +2958,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Emir unvanı İslamiyet'in kabulünden sonra kullanılan bir unvandır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q2",
@@ -2995,7 +2995,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Doğu-batı ayrımı ikili teşkilat (federal yapı) olarak adlandırılır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q3",
@@ -3032,7 +3032,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Kam din adamı / şaman olup yönetimle ilgili bir makam veya unvan değildir."
+    "explanation": ""
   },
   {
     "id": "tarih2-q4",
@@ -3069,7 +3069,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Taşınabilir el sanatları (dokumacılık, madencilik, deri) göçebelik döneminde çok gelişmiştir."
+    "explanation": ""
   },
   {
     "id": "tarih2-q5",
@@ -3106,7 +3106,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Toprak hanedanın/devletin olduğu için özel mülkiyet gelişmemiştir."
+    "explanation": ""
   },
   {
     "id": "tarih2-q6",
@@ -3143,7 +3143,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Orun protokol ve oturma düzeni sırasıdır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q7",
@@ -3180,7 +3180,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Teşkilatçılık kabiliyeti yeni devlet kurmayı kolaylaştırmıştır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q8",
@@ -3217,7 +3217,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Tayanç danışman/müşavir demektir; sosyal toplum basamağı değildir."
+    "explanation": ""
   },
   {
     "id": "tarih2-q9",
@@ -3254,7 +3254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>İkili teşkilat idari ve coğrafi yönetim yöntemidir, göçebelikle doğrudan ilgili değildir."
+    "explanation": ""
   },
   {
     "id": "tarih2-q10",
@@ -3291,7 +3291,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kurultaya sadece boy beyleri, hatun ve komutanlar katılabilirdi."
+    "explanation": ""
   },
   {
     "id": "tarih2-q11",
@@ -3328,7 +3328,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Ülkenin prensler arasında bölünmesi merkezî otoriteyi zayıflatmış ve taht kavgalarına yol açmıştır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q12",
@@ -3365,7 +3365,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İl (El) devlet anlamına gelir ve teşkilatlanmanın en üst basamağıdır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q13",
@@ -3402,7 +3402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Gök Tanrı tarafından hükümdara verilen yönetme yetkisine Kut denir."
+    "explanation": ""
   },
   {
     "id": "tarih2-q14",
@@ -3439,7 +3439,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Ahiret inancı bozkır coğrafi kültüründen değil, Gök Tanrı dininden kaynaklanır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q15",
@@ -3476,7 +3476,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Veraset sistemi ve taht kavgaları devletlerin kısa sürede parçalanıp yıkılmasının ana sebebidir."
+    "explanation": ""
   },
   {
     "id": "tarih2-q16",
@@ -3513,7 +3513,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Türklerde kölelik ve soyluluk gibi sınıf ayrımı hiçbir zaman olmamıştır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q17",
@@ -3550,7 +3550,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Uygurlar yerleşik hayata geçerek okullar açmış ve örgün eğitimi başlatmıştır."
+    "explanation": ""
   },
   {
     "id": "tarih2-q18",
@@ -3587,7 +3587,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>İnanç farklılığı yıkılış sebebi değildir; Türk devletlerinde inanç hoşgörüsü vardı."
+    "explanation": ""
   },
   {
     "id": "tarih2-q19",
@@ -3624,7 +3624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Hanedanın ortak malı anlayışı taht kavgalarına ve devletlerin kısa sürede yıkılmasına neden olur (I ve II)."
+    "explanation": ""
   },
   {
     "id": "tarih2-q20",
@@ -3661,7 +3661,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Orun meclisteki protokol oturma sırasıdır; bağımsızlık/hükümdarlık sembolü değildir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q1",
@@ -3698,7 +3698,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>İslamiyet öncesi Türklerde toplumsal yapı: <em>Oguş (Aile) → Urug (Sülale/Aileler Birliği) → Boy (Kabile) → Bodun (Millet) → İl (Devlet)</em> hiyerarşisine sahiptir. I ve II toplumsal unsurlardır. III (Şanyü) ise Hunlarda hükümdar unvanıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q2",
@@ -3735,7 +3735,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Büyük Selçuklu Sultanı Alp Arslan, 1071 Malazgirt Zaferi'nden sonra komutanlarına 'Fethedilen yer fethedenin malıdır' anlayışıyla fethettikleri bölgeleri <strong>kılıç hakkı</strong> olarak vermiştir. Bu sayede I. Dönem Anadolu Beylikleri kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q3",
@@ -3772,7 +3772,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br><strong>Yunus Emre</strong>, Anadolu'da (Eskişehir-Sivrihisar yöresi) doğup büyümüş, tasavvufi şiirlerini yalın ve duru bir Türkçe ile yazarak Türkçe Divan ve Risaletü'n-Nushiyye eserlerini bırakmıştır. Mevlana ve Bahaeddin Veled Belh (Horasan) doğumludur."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q4",
@@ -3809,7 +3809,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>II. Meşrutiyet devrinde Batıcılık (Garpçılık) akımının en önemli yayın organı Abdullah Cevdet tarafından çıkarılan <strong>İçtihat</strong> dergisidir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q5",
@@ -3846,7 +3846,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><strong>Mekteb-i Mülkiye</strong>, Tanzimat Dönemi'nde 1859 yılında Sultan Abdülmecid devrinde modern sivil mülki idareci (kaymakam vb.) yetiştirmek üzere açılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q6",
@@ -3883,7 +3883,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Hidroelektrik potansiyelin yüksek olması enlem veya orta kuşak (mutlak/matematik konum) ile değil; Türkiye'nin engebeli ve yüksek yer şekillerine (özel/göreceli konum) bağlıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q7",
@@ -3920,7 +3920,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Manavgat, Aksu, Göksu ve Zamantı karstik kaynaklarla beslenir. Gediz Nehri ise Ege graben kuşağında akar; karstik kaynaklarla değil, yağmur ve yerel sularla beslenir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q8",
@@ -3957,7 +3957,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Türkiye'de uygulanan resmi nüfus politikaları doğum oranlarını düşürmeyi değil, doğurganlığı artırmayı (pronatalist) hedefler. Doğumların düşmesi kentleşme, kadının iş hayatına girmesi ve eğitim düzeyinin yükselmesi gibi sosyoekonomik nedenlere bağlıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q9",
@@ -3994,7 +3994,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>II (Adana ve Kayseri'de krom) ve IV (Rize-Çayeli ve Artvin-Murgul'da bakır) doğrudur. Trakya'da demir değil linyit ve doğalgaz vardır; Boksit ise Konya-Seydişehir ve Antalya-Akseki'dedir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q10",
@@ -4031,7 +4031,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Güneşlenme süresi ve güneş enerjisi potansiyeli güney enlemlerde ve bulutluluğun az olduğu yerlerde en yüksektir. Akdeniz kıyı kuşağı (IV) ve Doğu Anadolu (III) yüksek potansiyele sahiptir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q11",
@@ -4068,7 +4068,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası'nın <strong>Madde 14</strong> kenar başlığı 'Temel hak ve hürriyetlerin kötüye kullanılamaması'dır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q12",
@@ -4105,7 +4105,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>1982 Anayasası'nın <strong>Madde 67 (Son Fıkra)</strong> hükmüne göre: 'Seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren bir yıl içinde yapılacak seçimlerde uygulanmaz.'"
+    "explanation": ""
   },
   {
     "id": "ekys2026-q13",
@@ -4142,7 +4142,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası Madde 42 gereğince; eğitim ve öğretim kurumlarında okutulacak yabancı diller CBK ile değil, <strong>kanunla</strong> düzenlenir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q14",
@@ -4179,7 +4179,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Cengiz Aytmatov'un 'Kırmızı Eşarp' adlı romanından uyarlanan ve başrollerini Türkan Şoray ile Kadir İnanır'ın paylaştığı kült film <strong>Selvi Boylum Al Yazmalım</strong>'dır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q15",
@@ -4216,7 +4216,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Âşık edebiyatında dudak ünsüzleri (b, p, m, v, f) kullanılmadan dudak arasına iğne koyularak yapılan atışmaya <strong>Lebdeğmez (Dudakdeğmez)</strong> denir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q16",
@@ -4253,7 +4253,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Bosna-Hersek'in kurucu lideri ve 'Doğu ve Batı Arasında İslam' gibi eserlerin yazarı olan <strong>Bilge Kral Aliya İzzetbegoviç</strong>'tir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q17",
@@ -4290,7 +4290,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mustafa Kemal'in memleketi Selanik, <strong>I. Balkan Savaşı (1912)</strong> sırasında kurşun atılmadan Yunan ordusuna teslim edilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q18",
@@ -4327,7 +4327,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>30 Ekim 1918'de Bahriye Nazırı Rauf Orbay tarafından imzalanan <strong>Mondros Ateşkes Antlaşması</strong> sonrası basına bu iyimser açıklama yapılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q19",
@@ -4364,7 +4364,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İtilaf Devletleri, hazırlanan Sevr Antlaşması taslağını imzalamakta tereddüt eden Osmanlı Hükümeti'ne baskı kurmak amacıyla Yunan ordusunu Milne Hattı'ndan taarruza geçirmiş ve Bursa-Uşak hattını işgal ettirmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q20",
@@ -4401,7 +4401,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>İstiklal Mahkemeleri kongreler sürecinde değil, TBMM açıldıktan sonra Hıyanet-i Vataniye ve Firariler Kanunlarını uygulamak üzere Eylül 1920'de kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q21",
@@ -4438,7 +4438,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>24 Nisan Önergesi'nde hükümet kurulmasının zorunlu kılınması ve geçici bir padişah kaymakamı tanınmaması İstanbul Hükümeti'nin yok sayıldığını (I) ve Meclis Hükümeti sistemiyle yürütmenin mecliste olduğunu (II) gösterir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q22",
@@ -4475,7 +4475,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İstiklal Marşı şairimiz <strong>Mehmet Âkif Ersoy</strong>, başyazarı olduğu Sebilürreşad dergisi ve kürsü vaazlarıyla halkı bağımsızlık mücadelesine teşvik etmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q23",
@@ -4512,7 +4512,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Ekim 1920'deki <strong>Gediz Taarruzu</strong>'nun başarısızlığı, düzensiz Kuvayımilliye birlikleriyle savaş kazanılamayacağını göstererek Batı Cephesi'nin bölünmesine ve düzenli orduya geçişe neden olmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q24",
@@ -4549,7 +4549,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>3 Aralık 1920'de imzalanan <strong>Gümrü Antlaşması</strong> ile Ermenistan Sevr'i geçersiz saymış ve Kars/Sarıkamış Türkiye'ye bırakılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q25",
@@ -4586,7 +4586,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>1921 yılında Sovyet Rusya ile Moskova Antlaşması (16 Mart 1921) ve Fransa ile Ankara Antlaşması (20 Ekim 1921) imzalanmıştır. Yunanistan ile 1921'de antlaşma imzalanmamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q26",
@@ -4623,7 +4623,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>30 Ocak 1923'te imzalanan Mübadele Sözleşmesi, doğrudan doğruya ve yalnızca Türkiye ile Yunanistan arasında imzalanmış ikili bir sözleşmedir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q27",
@@ -4660,7 +4660,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mustafa Kemal Paşa 1923 seçimlerine giderken inkılapların ve kurulacak partinin hedeflerini ortaya koyan <strong>Dokuz Umde</strong> bildirisini yayımlamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q28",
@@ -4697,7 +4697,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Prof. Dr. Albert Malche'nin 1932 raporu <strong>Darülfünun</strong> ile ilgilidir. Bu rapor neticesinde 1933 Üniversite Reformu ile Darülfünun kapatılıp İstanbul Üniversitesi kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q29",
@@ -4734,7 +4734,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Henri Fayol'un <strong>Komuta Birliği</strong> ilkesine göre bir çalışan yalnızca tek bir amirden emir almalı ve ona hesap vermelidir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q30",
@@ -4771,7 +4771,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Max Weber'in <strong>Bürokrasi Kuramı</strong>; yazılı kurallar, dikey hiyerarşi, nesnellik (gayrişahsilik) ve liyakat ilkelerine dayanır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q31",
@@ -4808,7 +4808,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Standartlara ve davranışçı gözleme dayanan model <strong>Bilimsel Denetim</strong>; öğretmenle birebir etkileşimli planlama-gözlem-dönüt döngüsünü içeren model <strong>Klinik Denetim</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q32",
@@ -4845,7 +4845,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İletişim sürecinde kaynağın mesajının alıcı tarafından doğru anlaşılması için kavramların somutlaştırılması ve <strong>ortak deneyim alanının genişletilmesi</strong> gerekir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q33",
@@ -4882,7 +4882,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Okulun iç üyeleri (öğretmenler) ile dış çevresini oluşturan veliler arasındaki fikir ayrılıkları <strong>örgüt ile çevre arasındaki çatışma</strong>dır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q34",
@@ -4919,7 +4919,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Her iki sınavda da başarısız olan öğrenci sayısı tabloda kesişim hücresinde <strong>35</strong> kişidir (55 değil)."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q35",
@@ -4956,7 +4956,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Süreçlerin rutin ve aksamadan işlemesini sağlama davranışı geleneksel <strong>İşlemsel (Bürokratik) Liderlik</strong> özelliğidir; otantik liderliğe ait değildir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q36",
@@ -4993,7 +4993,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kaliteli eğitimin temel ilke/inanç kabul edilmesi <strong>Değerler</strong>; periyodik etkinlik ve onurlandırmalar ise <strong>Kutlamalar / Törenler (Ritüeller)</strong> boyutudur."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q37",
@@ -5030,7 +5030,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Hesap verebilirlik; okul hedeflerinin ölçülüp raporlanmasını (I), paydaşların şeffaf bilgilendirilmesini (II) ve veli/öğretmen sorularına yanıt verilmesini (III) kapsayan bütüncül bir anlayıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q38",
@@ -5067,7 +5067,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Öğrenci becerisi geliştikçe konuların genişleyip derinleşmesi ve tekrarlarla pekiştirilerek ilerletilmesi Bruner'in <strong>Sarmal (Spiral)</strong> yaklaşımıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q39",
@@ -5104,7 +5104,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Bireyin çok sevdiği yüksek olasılıklı bir etkinliğin (futbol takımına girmek), istenen davranışı pekiştirmek için ödül olarak sunulması <strong>Premack İlkesi (Büyükanne Kuralı)</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q40",
@@ -5141,7 +5141,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Doğal Karar Verme Modeli (NDM), kriz ortamında yöneticinin durumsal ipuçlarına göre hızla tatmin edici bir karar almasını ifade eder. Rasyonel modellerdeki 'tüm alternatiflerin her adımını ayrıntılı incelemek' kriz anında beklenmez."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q41",
@@ -5178,7 +5178,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Maarif Modeli Ortak Metni'ne göre; öğretim programları, öğretmen gelişimi ve dijital ekosistem unsurları bireyin bütüncül gelişimi için birlikte uyum içinde hareket etmelidir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q42",
@@ -5215,7 +5215,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Sorumluluklarını yerine getirme konusunda tutarlı davranmak Maarif Modeli'nde <strong>Sorumlu Öğrenci Profili</strong>ne aittir; Sorgulayıcı profile ait değildir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q43",
@@ -5252,7 +5252,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Zamansal Bütünlük; toplumun geçmişten devraldığı ortak kültürü, bilinci ve değerleri koruyarak eğitim yoluyla geleceğe aktarmayı ifade eder."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q44",
@@ -5289,7 +5289,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Bütüncül eğitim modelinde program ögeleri birbirinden bağımsız değil, organik bir <strong>uyum ve bütünlük</strong> içerisindedir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q45",
@@ -5326,7 +5326,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Farklılaştırılmış öğretim; öğrencilerin bireysel durum ve ihtiyaçları gözetilerek öğrenme sürecinde <strong>nitelikli çeşitlilik</strong> sağlanmasıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q46",
@@ -5363,7 +5363,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Maarif Modeli'nde <strong>Özetleme Becerisi</strong>; çözümleme yapma, sınıflandırma ve kendi ifadeleriyle yorumlama süreç bileşenlerinden oluşur."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q47",
@@ -5400,7 +5400,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Görsel Mesajı Okuma genel okuryazarlık alanına aittir; Sosyal Bilimler Alan Becerileri arasında yer almaz."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q48",
@@ -5437,7 +5437,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Keşfetme arzusu: <strong>Merak</strong>; Zorluklara rağmen yılmadan çalışma: <strong>Azim ve Kararlılık</strong>; Hedefleri başarabileceğine dair inanç: <strong>Kendine İnanma</strong>."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q49",
@@ -5474,7 +5474,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Maarif Modeli'nde bir becerinin eyleme dökülme ve kazanılma işlem adımlarına <strong>Süreç Bileşeni</strong> adı verilir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q50",
@@ -5511,7 +5511,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>İş birliği Sosyal Yaşam Becerileri altında; Sorumlu karar verme ise Ortak/Birleşik Beceriler altında yer almalıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q51",
@@ -5548,7 +5548,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Sabır, çalışkanlık, mütevazılık ve mahremiyet içsel ahenk değerlerindendir. Estetik ise dış dünyayla ahenk ve sanat boyutuna aittir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q52",
@@ -5585,7 +5585,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Okuryazarlık becerileri basamaklarında 'sistemin parçalarını belirleme' <strong>Farkındalık</strong> düzeyini ifade eder."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q53",
@@ -5622,7 +5622,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Disiplinler arası yaklaşım çoklu bakış açısı (I) ve alanlar arası bağlantı kurma (II) sağlar. K12 düzeyinde doğrudan uzmanlaşma yer almaz."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q54",
@@ -5659,7 +5659,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Paragrafta odak becerilerin diğer alan becerileriyle ilişkisi ve programdaki bütünleşmesi açıklanmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q55",
@@ -5696,7 +5696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>İçerik çerçevesi öğrencinin edinmesi gereken bilgi kümesini, yani 'Öğrenci ne bilmelidir?' sorusunu yanıtlar."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q56",
@@ -5733,7 +5733,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Öğrencilerin yeni bir konuyu öğrenmeden önce sahip oldukları varsayılan ön koşul beceriler <strong>Temel Kabuller</strong> olarak adlandırılır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q57",
@@ -5770,7 +5770,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Öğrencilerin derse aktif katılımını sağlamak doğrudan öğrenme-öğretme uygulamalarının (ders sürecinin) amacıdır; ön değerlendirmenin değil."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q58",
@@ -5807,7 +5807,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Dersin başlangıcında güncel hayatla ilişkilendirme yaparak ön bilgileri harekete geçirme ve düşünmeyi tetikleme aşaması <strong>Köprü Kurma</strong>dır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q59",
@@ -5844,7 +5844,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Web seminerleri <strong>Çevrim İçi Öğrenme Ortamları</strong>na aittir; Artırılmış Gerçeklik ortamı değildir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q60",
@@ -5881,7 +5881,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Araştırıcı bir soruyla başlayıp veri toplama, görüşme yapma ve analiz ederek sonuca ulaşma süreci <strong>Sorgulamaya Dayalı Öğrenme</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q61",
@@ -5918,7 +5918,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kutucuklar (3x3, 4x4 vb.) halinde sunulan ve çoklu kavramsal ilişkileri ölçen araç <strong>Yapılandırılmış Grid</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q62",
@@ -5955,7 +5955,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Üst düzey düşünme, açık uçluluk, derinleşme ve öğretim hızı sürece dayalı boyutlardır; Dönüşümler sürece dayalı zenginleştirmede yer almaz."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q63",
@@ -5992,7 +5992,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Okul temelli planlama esnek ve yerel ihtiyaçları gözeten bir süreçtir; farklı zümreler için katı sınırlayıcı ölçütler oluşturmaz."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q64",
@@ -6029,7 +6029,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Stresle başa çıkma ve akran etkileşimi <strong>Sosyal-Duygusal</strong> gelişim; problem çözme ve entelektüel büyüme ise <strong>Zihinsel</strong> gelişimdir. Dolayısıyla II ve III yer değiştirmelidir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q65",
@@ -6066,7 +6066,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>1982 Anayasası Madde 89 gereğince Cumhurbaşkanı, TBMM'ce kabul edilen kanunları <strong>15 gün</strong> içinde yayımlar."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q66",
@@ -6103,7 +6103,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Cumhurbaşkanlığı Genel Sekreteri MGK üyesi değildir (bu makam 2018'de kaldırılmıştır)."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q67",
@@ -6140,7 +6140,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Anayasa Madde 74'e göre Kamu Denetçiliği Kurumu, <strong>TBMM Başkanlığına</strong> bağlı olarak kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q68",
@@ -6177,7 +6177,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>222 Sayılı Kanun Madde 53'e göre zorunlu ailevi hallerde okul idaresince öğrenciye yılda en fazla <strong>15 gün</strong> izin verilebilir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q69",
@@ -6214,7 +6214,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>222 Sayılı Kanun Madde 47'ye göre nüfus cüzdanı bulunmayan çocukların yaşları <strong>ihtiyar kurulu</strong> tarafından tayin ve tespit edilir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q70",
@@ -6251,7 +6251,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>1739 Sayılı Kanun Madde 7'de 'İlköğretim görmek her Türk vatandaşının hakkıdır.' ifadesi <strong>Eğitim hakkı</strong> ilkesinde yer alır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q71",
@@ -6288,7 +6288,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 Sayılı Kanun Madde 58'e göre askerî öğrenciler hariç yurt dışı eğitim hizmetlerini <strong>Millî Eğitim Bakanlığı</strong> düzenler."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q72",
@@ -6325,7 +6325,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Yükseköğretime giriş sistemiyle ilgili iş birliği yapma görevi <strong>Ortaöğretim Genel Müdürlüğü</strong>'ne aittir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q73",
@@ -6362,7 +6362,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Programları, ders kitaplarını inceleme ve denklik ilke kararları alma yetkisi <strong>Talim ve Terbiye Kurulu Başkanlığı</strong>'na aittir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q74",
@@ -6399,7 +6399,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Siyasi parti üyeliği memurluktan çıkarma cezası gerektirir; 657 Sayılı Kanun Madde 127 uyarınca bu cezada disiplin kovuşturmasına <strong>fiilin öğrenildiği tarihten itibaren 6 ay</strong> içinde başlanmalıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q75",
@@ -6436,7 +6436,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>657 Sayılı Kanun Madde 125/C-b bendine göre özürsüz veya izinsiz olarak 1 veya 2 gün göreve gelmemenin cezası <strong>Aylıktan kesme</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q76",
@@ -6473,7 +6473,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>4688 Sayılı Kanun'da 11 hizmet kolu sayılmıştır; 'Yargı ve adalet hizmetleri' adında bir hizmet kolu yoktur (adliye personeli Büro, bankacılık ve sigortacılık hizmet kolundadır)."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q77",
@@ -6510,7 +6510,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>MGK personeli, mülki amirler, rektörler ve cezaevi görevlileri sendika üyesi olamazken; <strong>Cumhurbaşkanlığı İletişim Başkanlığı çalışanları</strong> sendika üyesi olabilir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q78",
@@ -6547,7 +6547,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Yargıtay, Emniyet, Tapu Kadastro ve Gelir İdaresi (I) sayılı cetvelde genel bütçeli iken; <strong>ÖSYM Başkanlığı</strong> (II) sayılı cetvelde özel bütçeli idaredir."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q79",
@@ -6584,7 +6584,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5442 Sayılı İl İdaresi Kanunu Md. 2 ve Anayasa Md. 126 uyarınca yeni bir ilin kurulması veya kaldırılması <strong>yalnızca KANUNLA</strong> yapılır."
+    "explanation": ""
   },
   {
     "id": "ekys2026-q80",
@@ -6621,7 +6621,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>3071 Sayılı Kanun Madde 4'e göre dilekçede dilekçe sahibinin adı-soyadı, imzası ile <strong>iş veya ikametgâh adresinin</strong> bulunması zorunludur."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q1",
@@ -6658,7 +6658,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Göçebe bozkır hayatı (II) ve atın ehlileştirilmesi (III), Türk ordularının hızlı ve manevra kabiliyeti yüksek süvari birliklerinden oluşmasını sağlamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q2",
@@ -6695,7 +6695,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Türkiye Selçuklularında sultan başkentte olmadığında devleti Niyâbet-i Saltanat makamı ve <strong>Nâib-i Saltanat</strong> yönetirdi."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q3",
@@ -6732,7 +6732,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Osmanlı'da ferman ve berātlara padişahın tuğrasını çeken, tahrir defterlerini tutan divan üyesi <strong>Nişancı</strong>dır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q4",
@@ -6769,7 +6769,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br><strong>Bâb-ı Âlî</strong> (Yüce Kapı), Sadrazam konağı ve Osmanlı Hükümeti anlamında kullanılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q5",
@@ -6806,7 +6806,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Devşirme sisteminden seçilen yetenekli çocukların devlet adamı ve asker olarak eğitildiği saray okulu <strong>Enderun</strong>dur."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q6",
@@ -6843,7 +6843,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Yeşilırmak üzerinde denize en yakın (aşağı çığırda) konumlanan barajlar Hasan Uğurlu ve <strong>Suat Uğurlu</strong> barajlarıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q7",
@@ -6880,7 +6880,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Haritada gösterilen alanlar sırasıyla Geyik Dağları (Batı Toroslar), Aladağlar (Orta Toroslar) ve Tecer Dağları'dır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q8",
@@ -6917,7 +6917,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Yalnızca ortanca yaş tablosundan toplam nüfus miktarı veya kesin doğurganlık çıkarılamaz; sadece II (Zonguldak'ta ortanca yaşın Şırnak'tan yüksek olduğu) söylenebilir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q9",
@@ -6954,7 +6954,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Türkiye'de en önemli işletilebilir altın madeni yatakları Ege Bölgesi'nde (Uşak-Kışladağ, İzmir-Bergama) yer almaktadır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q10",
@@ -6991,7 +6991,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Doğu Karadeniz'de her mevsim yağışlı iklim ve engebeli yer şekilleri nedeniyle tahıl tarımı alanı ve üretimi en düşüktür."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q11",
@@ -7028,7 +7028,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Yargıtay Cumhuriyet Başsavcısını, Yargıtay Genel Kurulunun göstereceği 5 aday arasından 4 yıl için <strong>Cumhurbaşkanı</strong> seçer."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q12",
@@ -7065,7 +7065,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Siyasi Partiler Kanunu'na göre siyasi partiler en az <strong>30</strong> Türk vatandaşı tarafından kurulur (20 değil)."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q13",
@@ -7102,7 +7102,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br><strong>RTÜK</strong>, 1982 Anayasası'nın 133. maddesinde anayasal bir kurul olarak doğrudan düzenlenmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q14",
@@ -7139,7 +7139,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Don Kişot, ova üzerindeki <strong>yel değirmenlerini</strong> dev zannederek onlara mızrağıyla saldırmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q15",
@@ -7176,7 +7176,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br><em>Rashomon</em> ve <em>Yedi Samuray</em> sinema tarihinin efsanevi Japon yönetmeni <strong>Akira Kurosawa</strong>'ya aittir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q16",
@@ -7213,7 +7213,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Avrupa dillerine tülbentten (tulip) geçen ve Osmanlı'dan Hollanda'ya yayılan çiçek <strong>Lale</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q17",
@@ -7250,7 +7250,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Millî cemiyetler (I) ve Kuvayımilliye (II) direnişi örgütlemiştir. Nasihat heyetleri (III) ise İstanbul Hükümeti tarafından halkı yatıştırmak için gönderilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q18",
@@ -7287,7 +7287,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Heyet-i Temsiliye Erzurum Kongresi'nde kurulmuş ve TBMM açılınca görevi sona ermiştir; TBMM tarafından kurulmamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q19",
@@ -7324,7 +7324,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Erzurum Kongresi, Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti ve <strong>Trabzon Muhafaza-i Hukuk Cemiyeti</strong> tarafından toplanmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q20",
@@ -7361,7 +7361,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>I. İnönü sonrası Moskova (III), Sakarya Zaferi sonrası ise Kars (I) ve Ankara (II) antlaşmaları imzalanmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q21",
@@ -7398,7 +7398,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (I ve II)<br>Lozan'da kapitülasyonlar kaldırılmış (I) ve Boğazlar Komisyonu kurulmuştur (II). Hatay ise 1939'da anavatana katılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q22",
@@ -7435,7 +7435,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Cumhuriyet döneminde sanayi ve madenciliği finanse etmek için İş Bankası (1924), Sümerbank (1933) ve Etibank (1935) kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q23",
@@ -7472,7 +7472,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Sınıfsız, ayrıcalıksız, dayanışma içindeki toplum yapısı ve eşitlik anlayışı <strong>Halkçılık</strong> ilkesinin temelidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q24",
@@ -7509,7 +7509,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>1925-1938 yılları arasında aralıksız Dışişleri Bakanlığı yapan ve Montrö'yü imzalayan isim <strong>Tevfik Rüştü Aras</strong>'tır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q25",
@@ -7546,7 +7546,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Schwartz kuramında bağımsız düşünce, seçim özgürlüğü ve yaratıcılık <strong>Öz Yönelim</strong> (Self-Direction) boyutudur."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q26",
@@ -7583,7 +7583,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğrencilerin ikili gruplar halinde birbirleriyle görüş alışverişinde bulunup fikir üretmelerini sağlayan teknik <strong>Dedikodu</strong> tekniğidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q27",
@@ -7620,7 +7620,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Öğretmenlerin her biri literatürdeki farklı bilim insanlarının <strong>değer kavramına yönelik tanımlarını</strong> açıklamaktadır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q28",
@@ -7657,7 +7657,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Toplumsal birliktelik ve dezavantajlı gruplara yönelik kermes/yardım etkinlikleri <strong>Dayanışma</strong> ve yardımlaşma değerini pekiştirir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q29",
@@ -7694,7 +7694,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Kohlberg'in <strong>Adil Topluluk Okulları</strong> yaklaşımında tüm okul paydaşları demokratik meclislerde bir araya gelerek kararları ortak alır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q30",
@@ -7731,7 +7731,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Değer analizinde öğretmen yönlendirici veya çözüm dikte edici olmamalı, alternatif çözüm önerilerini <strong>öğrencilerin</strong> üretmesi sağlanmalıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q31",
@@ -7768,7 +7768,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>6'lı temel insan tipleri ve değer sınıflaması <strong>Eduard Spranger</strong>'e aittir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q32",
@@ -7805,7 +7805,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Hakikatlerin eşiği anlamına gelen ve Edip Ahmet Yüknekî tarafından yazılan ahlak/öğüt eseri <strong>Atabetü'l-Hakâyık</strong>'tır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q33",
@@ -7842,7 +7842,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Mesleki bilgi, beceri ve takdir yetkisini en üst düzeyde kullanma ilkesi <strong>Profesyonellik</strong> ile ilgilidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q34",
@@ -7879,7 +7879,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İnsanı insan olduğu için değerli görüp özen gösterme anlayışı <strong>Saygı</strong> kavramıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q35",
@@ -7916,7 +7916,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Fevri tepkiler yerine sakinleşip durumu değerlendirmeyi temel alan ilk aşama <strong>Dur ve düşün</strong> adımıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q36",
@@ -7953,7 +7953,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Sonuçlara ve faydaya odaklanan Bentham ve Mill'in yaklaşımı <strong>Teleolojik / Faydacı</strong> etiktir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q37",
@@ -7990,7 +7990,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kamu görevlisinin nüfuzunu kullanarak haksız menfaat sağlamaya mecbur bırakması suçu <strong>İrtikâp</strong>tır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q38",
@@ -8027,7 +8027,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Kişinin yaptığı etik dışı davranışı \"herkes yapıyor\" diyerek meşrulaştırması <strong>Ahlaki rasyonalizasyon</strong>dur."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q39",
@@ -8064,7 +8064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br><em>Medinetü'l-Fâzıla</em> ve erdemler sınıflamasıyla mutluluk ahlakını temellendiren filozof <strong>Fârâbî</strong>'dir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q40",
@@ -8101,7 +8101,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Etik liderler kişisel çıkarı değil, kamu yararını ve okulun ortak iyiliğini gözetir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q41",
@@ -8138,7 +8138,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kuralların herkese tarafsız ve ayrım gözetilmeksizin uygulanması <strong>Adil ve Eşit Yönetim</strong> ilkesidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q42",
@@ -8175,7 +8175,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Hawthorne araştırmalarıyla başlayan ve insani/sosyal faktörleri öne çıkaran yaklaşım <strong>İnsan İlişkileri Yaklaşımı</strong>dır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q43",
@@ -8212,7 +8212,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Sınıf içi öğretimi doğrudan geliştirmeye yönelik yüz yüze rehberlik süreci <strong>Klinik / Öğretimsel Denetim</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q44",
@@ -8249,7 +8249,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Doğrudan öğrenme-öğretme süreçlerini merkeze alan liderlik türü <strong>Öğretimsel Liderlik</strong>tir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q45",
@@ -8286,7 +8286,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Yukarıdan aşağıya resmi iletişim kanalları görevlerin yerine getirilmesi için <strong>Yönlendirme ve Talimat Verme</strong> işlevi görür."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q46",
@@ -8323,7 +8323,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Örgüt amaçlarını içselleştirme ve fazladan çaba gösterme <strong>Örgütsel Bağlılık ve Örgütsel Vatandaşlık</strong> davranışıdır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q47",
@@ -8360,7 +8360,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Mesleki yetkinlik ve bilgi birikimine dayanan güç <strong>Uzmanlık gücü</strong>dür."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q48",
@@ -8397,7 +8397,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Açık bir sistem olan okulun çevre taleplerini algılayıp uyum sağlaması <strong>Toplumsal istem</strong> boyutudur."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q49",
@@ -8434,7 +8434,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Müdür kayıtsız kalma, yumuşatma, inandırma ve meşgul etme tekniklerini uygulamış; <strong>Politik yaklaşma</strong> (taraf tutma/pazarlık) uygulamamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q50",
@@ -8471,7 +8471,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Bireyin bir işi başarabileceğine olan inancı ve geçmiş başarı deneyimleri Bandura'nın <strong>Öz Yeterlik Kuramı</strong>dır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q51",
@@ -8508,7 +8508,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Korelasyonel ilişki (I ve II) kesin bir neden-sonuç (III) doğurmaz; bu yüzden yalnız I ve II doğrudur."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q52",
@@ -8545,7 +8545,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Konuşmada Etik, Öğretimsel, Paylaşılmış ve Dönüşümcü liderlikten bahsedilmiş; <strong>Süper liderlik</strong> yer almamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q53",
@@ -8582,7 +8582,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Dezavantajlı grupların ihtiyaçlarına yönelik sosyal adalet ve hizmet odaklı çalışmalar II ve III'tür."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q54",
@@ -8619,7 +8619,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Okul kültürü uzun vadeli, köklü ve değişmesi zor bir yapıdır; iklim ise anlık algı ve havayı yansıttığı için daha değişkendir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q55",
@@ -8656,7 +8656,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>I: <strong>Örgütsel bağlılık</strong>, II: Kötümserlik/inançsızlık yani <strong>Örgütsel sinizm</strong>, III: Fazladan katkı yani <strong>Örgütsel vatandaşlık</strong>tır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q56",
@@ -8693,7 +8693,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Tüm çalışanların katılımıyla aşamalı ve sürekli iyileştirmeyi hedefleyen Japon kalite felsefesi <strong>Kaizen</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q57",
@@ -8730,7 +8730,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Personelin mesleki yetkinlik, sosyalleşme ve kariyer adımlarını destekleme süreci İKY'nin <strong>Geliştirme</strong> işlevidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q58",
@@ -8767,7 +8767,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Hedeflerin iç ve dış tutarlılığını test eden ve aday hedefleri eleyen süzgeç disiplin <strong>Felsefe</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q59",
@@ -8804,7 +8804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Konuların birbiriyle ön koşulluk ilişkisi olmadan bağımsız anlamlı parçalar/modüller halinde işlenmesi <strong>Modüler</strong> yaklaşımdır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q60",
@@ -8841,7 +8841,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Basamaklı öğretimde özgün ürün yaratma, sentez ve analiz becerileri en üst basamak olan <strong>A Basamağı</strong>na aittir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q61",
@@ -8878,7 +8878,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Sorgulama, kanıta dayandırma ve önyargılardan arınmış değerlendirme <strong>Eleştirel düşünme</strong> becerisidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q62",
@@ -8915,7 +8915,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İç çevre (Güçlü/Zayıf) ve dış çevre (Fırsat/Tehdit) analizi <strong>SWOT (GZFT)</strong> analizidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q63",
@@ -8952,7 +8952,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Maddi ve mali imkanların hedefler doğrultusunda optimize edilmesi <strong>Kaynak Yönetimi</strong>dir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q64",
@@ -8989,7 +8989,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Simon'un Sınırlı Rasyonellik modeline göre karar vericiler <strong>eksik bilgi, belirsizlik ve zaman kısıtı</strong> altında karar alır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q65",
@@ -9026,7 +9026,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Anayasa m.13 gereğince temel haklar ancak kanunla, maddeye bağlı sebeplerle, demokratik düzenin gereklerine ve ölçülülük ilkesine uygun sınırlanabilir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q66",
@@ -9063,7 +9063,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>MGK Genel Sekreteri toplantılara katılır ancak Kurulun <strong>üyesi değildir</strong>."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q67",
@@ -9100,7 +9100,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>222 sayılı Kanun m.49'a göre çocuğu okula yazdırmakla veli, vasi veya <strong>aile başkanı</strong> yükümlüdür (kayyum sayılmamıştır)."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q68",
@@ -9137,7 +9137,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>222 sayılı Kanun m.55 gereği veli özrü bulunan çocuğun durumunu en geç <strong>3 gün</strong> içinde okul idaresine bildirmelidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q69",
@@ -9174,7 +9174,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>657 sayılı Kanun m.63 uyarınca süresi içinde göreve başlamayanlar <strong>1 yıl</strong> süreyle devlet memurluğuna alınmazlar."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q70",
@@ -9211,7 +9211,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>657 sayılı Kanun m.125/E gereğince kesintisiz 10 gün veya 1 yılda toplam <strong>20 gün</strong> özürsüz göreve gelmemenin cezası memurluktan çıkarmadır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q71",
@@ -9248,7 +9248,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>657 sayılı Kanun m.37 gereğince son <strong>8 yıl</strong> içinde disiplin cezası almayan memurlar bir üst dereceye yükseltilir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q72",
@@ -9285,7 +9285,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>1739 sayılı Kanun m.36 gereğince yükseköğretime giriş şartları MEB ile iş birliği yapılarak <strong>YÖK</strong> tarafından belirlenir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q73",
@@ -9322,7 +9322,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>E seçeneğindeki ifade 1739 sayılı Kanunda ilköğretimin amaçları arasındadır; yükseköğretimin değil."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q74",
@@ -9359,7 +9359,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>4688 sayılı Kanun m.6 gereğince kuruluş belgeleri <strong>sendika merkezinin bulunacağı ilin valiliğine</strong> verilir ve tüzel kişilik kazanılır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q75",
@@ -9396,7 +9396,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>4688 sayılı Kanun m.16'ya göre çekilme bildirimi verildikten <strong>30 gün sonra</strong> geçerli olur; yeni sendika üyeliği bu sürenin bitimiyle başlar."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q76",
@@ -9433,7 +9433,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>3071 sayılı Kanun m.3 gereğince yabancıların dilekçeleri <strong>Türkçe yazılmak</strong> ve <strong>karşılıklılık (mütekabiliyet) esası gözetilmek</strong> kaydıyla kabul edilir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q77",
@@ -9470,7 +9470,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (II ve III)<br>Bütçe kanun teklifi 55 gün değil, malî yılbaşından en az <strong>75 gün önce</strong> (17 Ekim) TBMM'ye sunulur."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q78",
@@ -9507,7 +9507,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5442 sayılı Kanun m.2 uyarınca bir ilçenin bir ilden başka bir ile bağlanması <strong>Kanun</strong> ile yapılır."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q79",
@@ -9544,7 +9544,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Eğitim teknolojilerini izlemek ve değerlendirmek <strong>YEĞİTEK</strong> (Yenilik ve Eğitim Teknolojileri GM) görevidir."
+    "explanation": ""
   },
   {
     "id": "ekys2025-q80",
@@ -9581,7 +9581,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (I ve III)<br>4483 sayılı Kanun m.4 gereği Başsavcı yalnızca kaybolma ihtimali olan delilleri tespit eder (II); memurun ifadesini alamaz (I) ve tanık dinleyemez (III)."
+    "explanation": ""
   },
   {
     "id": "ekys_2024_q1",
@@ -9614,7 +9614,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (I. Kök Türk Devleti)**\n\n**Tarihsel Analiz:**\n- I. Kök Türk Devleti döneminde **İstemi Yabgu**, batı kanadını yönetirken İpek Yolu'nun kontrolünü ele geçirmek için önce **Sasanilerle anlaşarak Akhun (Eftalit) Devleti'ne son vermiş**, ardından Sasanilerin İpek Yolu ticaretini engellemesi üzerine **Bizans İmparatorluğu (Doğu Roma) ile elçi teatisi yaparak (Maniah başkanlığında) Sasanilere karşı Bizans ile ittifak kurmuştur.**",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9649,7 +9649,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Divan-ı Mezalim)**\n\n**Kurumsal Bilgi:**\n- **Divan-ı Mezalim:** Hükümdarın bizzat başkanlık ettiği, kadıların bakmakta yetersiz kaldığı büyük siyasi davaların, devlet adamlarının halka yaptığı zulümlerin ve tebaanın yüksek şikâyetlerinin görüşüldüğü en üst adli organdır.\n- *Diğer Divanlar:*\n  - **Divan-ı İstifa:** Mali işler (Müstevfi)\n  - **Divan-ı Arz:** Ordu ve askeri işler (Emir-i Arz)\n  - **Divan-ı İnşa/Tuğra:** Yazışma ve diplomasi\n  - **Divan-ı İşraf:** Teftiş ve denetim (Müşrif)",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9684,7 +9684,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Karesioğulları)**\n\n**Tarihsel Çözüm:**\n- Orhan Bey döneminde (1345) Osmanlı topraklarına katılan ilk beylik **Karesioğulları**dır.\n- Bu beyliğin katılmasıyla:\n  1. Anadolu Türk siyasi birliğini kurma yolundaki ilk adım atılmıştır.\n  2. Karesi donanması ve denizci komutanları (Evrenos Bey, Hacı İlbey vb.) Osmanlı hizmetine girmiş, **Osmanlı'nın ilk donanması oluşmuş ve Rumeli'ye (Çimpe Kalesi'ne) geçiş kolaylaşmıştır.**",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9719,7 +9719,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (İskân Politikası — İstimâlet Politikası)**\n\n**Kavramsal Açıklama:**\n- **İskân Politikası:** Fethedilen Balkan/Rumeli topraklarına Anadolu'daki konargöçer Türkmen aşiretlerin yerleştirilerek bölgenin nüfus dengesinin ve güvenliğinin sağlanmasıdır.\n- **İstimâlet Politikası:** Gayrimüslim tebaaya din, vicdan, can ve mal emniyeti tanıyarak devlete gönülden bağlanmalarını sağlayan Osmanlı hoşgörü ve adalet politikasıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9754,7 +9754,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Nişancı)**\n\n**Sınıflar Tablosu:**\n- **İlmiye (Eğitim, Din, Adalet):** Şeyhülislam, Kazasker, Kadı, Müderris, Kassam, Nakibüleşraf.\n- **Kalemiye (Bürokrasi, Maliye, Yazışma):** **Nişancı**, Defterdar, Reisülküttab.\n- **Seyfiye (Askeri, Yönetim):** Sadrazam, Vezirler, Kaptan-ı Derya, Yeniçeri Ağası, Beylerbeyi, Sancakbeyi.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9789,7 +9789,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Meclis-i Âyan — Meclis-i Mebusan)**\n\n**1876 Kanun-i Esasi Teşkilatı:**\n- **Meclis-i Mebusan:** Halk tarafından seçilen 4 yıllık vekillerden oluşurdu.\n- **Meclis-i Âyan:** Padişah tarafından ömür boyu seçilen yüksek bürokrat ve ulemadan oluşurdu.\n- Bu iki meclisin birleşimine **Meclis-i Umumi (Genel Parlamento)** denilirdi.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9824,7 +9824,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E (V - Erzurum-Kars Platosu / Çernezyom)**\n\n**Coğrafi Çözüm:**\n- **Çernezyom (Kara Toprak):** Sert karasal iklim bölgelerinde, yaz yağışlarıyla yeşeren **alpin/dağ çayırları** altında oluşan, yıkanmanın az ve organik madde birikiminin fazla olduğu, dünyanın en verimli zonal toprak tipidir.\n- Türkiye'de en tipik olarak **V numaralı alan olan Erzurum-Kars-Ardahan Platosu'nda** görülür.",
+    "explanation": "",
     "hasImage": true,
     "image": "assets/questions/ekys2024_q7_map.png"
   },
@@ -9859,7 +9859,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D (I ve II)**\n\n**Nüfus Dinamikleri:**\n- **Eğitim seviyesinin yükselmesi (I):** Özellikle kadınların eğitim ve iş hayatına katılımı evlenme yaşını yükseltmiş ve doğurganlığı düşürmüştür.\n- **Şehirleşme (II):** Kırsalda çocuk işgücü ihtiyacı fazlayken şehir yaşamında konut, eğitim ve bakım maliyetleri ailelerin çocuk sayısını sınırlandırmasına yol açmıştır.\n- *Tarım alanlarının azalması (III)* doğrudan demografik nüfus artış hızını düşüren birincil etken değildir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9894,7 +9894,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D (Aydın)**\n\n**Maden ve Enerji Coğrafyası:**\n- Jeotermal enerji, aktif fay hatları ve genç kırıklı (graben) tektonik arazilerde yer altı sularının magmatik sıcaklıkla ısınmasıyla oluşur.\n- Türkiye'de jeotermal potansiyeli en yüksek bölge **Ege Graben Kuşağı (Büyük ve Küçük Menderes, Gediz)** olup **Aydın (Germencik, Buharkent)** ve **Denizli (Sarayköy)** Türkiye'nin ilk ve en büyük jeotermal santrallerine ev sahipliği yapar.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9929,7 +9929,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Kayseri)**\n\n**KOP (Konya Ovası Projesi) Kapsamındaki 8 İl:**\n1. Konya\n2. Karaman\n3. Aksaray\n4. Niğde\n5. Nevşehir\n6. Yozgat\n7. Kırşehir\n8. Kırıkkale\n\n*Not:* Kayseri, Orta Anadolu Kalkınma Ajansı (ORAN) kapsamında olup KOP Bölge İdaresi illeri arasında yer almaz.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9964,7 +9964,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E (I, II ve III)**\n\n**1982 Anayasası Madde 124:**\n- *'Cumhurbaşkanı, bakanlıklar ve **kamu tüzel kişileri**, kendi görev alanlarını ilgilendiren kanunların ve Cumhurbaşkanlığı kararnamelerinin uygulanmasını sağlamak ve bunlara aykırı olmamak şartıyla, yönetmelikler çıkarabilirler.'*\n- **Barolar (Kamu Kurumu Niteliğinde Meslek Kuruluşu), Üniversiteler ve Belediyeler** Anayasal olarak birer **Kamu Tüzel Kişisi (KTK)** oldukları için her üçü de kendi görev alanlarında yönetmelik çıkarma yetkisine sahiptir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -9999,7 +9999,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Kar erimeleri ve toprak suya doygunluğunun artması)**\n\n**Heyelan Faktörleri:**\n- Heyelan en çok **Doğu ve Batı Karadeniz'de**, eğimli arazide, killi topraklarda ve tabakaların eğim yönünde uzandığı yerlerde görülür.\n- İlkbaharda karların hızla erimesi ve yağışların devam etmesiyle killi tabaka aşırı su çekerek kayganlaşır ve kütle hareketine yol açar.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10034,7 +10034,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Anayasa — Kanun / CBK — Yönetmelik — Genelge)**\n\n**Kelsen Normlar Piramidi (Hukuk Hiyerarşisi):**\n1. **Anayasa** (En üst norm, md. 11)\n2. **Milletlerarası Andlaşmalar & Kanunlar & Cumhurbaşkanlığı Kararnameleri (CBK)**\n3. **Yönetmelikler**\n4. **Adsız Düzenleyici İşlemler (Genelge, Yönerge, Tebliğ, Talimat)**",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10069,7 +10069,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı - Md. 74)**\n\n**Hakların Tasnifi (1982 Anayasası):**\n- **Kişi Hakları (Negatif Statü):** Mülkiyet, Konut dokunulmazlığı, Kişi hürriyeti.\n- **Sosyal ve Ekonomik Haklar (Pozitif Statü):** Sendika kurma, Çalışma ve sözleşme hürriyeti, Eğitim hakkı.\n- **Siyasi Haklar (Aktif Statü / Katılma):** **Dilekçe ve Bilgi Edinme Hakkı (Md. 74)**, Seçme ve Seçilme, Vergi Ödevi, Vatan Hizmeti, Kamu Hizmetine Girme.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10104,7 +10104,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Gordion)**\n\n**Güncel Kültür Bilgisi:**\n- Ankara'nın Polatlı ilçesi sınırlarında yer alan **Gordion Antik Kenti**, Eylül 2023'te Suudi Arabistan'da düzenlenen 45. UNESCO Dünya Miras Komitesi toplantısında Türkiye'nin **20. UNESCO Dünya Mirası** olarak listeye kabul edilmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10139,7 +10139,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (İMECE)**\n\n**Güncel Bilim ve Teknoloji:**\n- TÜBİTAK UZAY tarafından geliştirilen **İMECE**, Türkiye'nin metre altı çözünürlüklü ilk yerli yer gözlem uydusu olarak 15 Nisan 2023 tarihinde başarıyla yörüngeye fırlatılmıştır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10174,7 +10174,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Samsun Raporu)**\n\n**Milli Mücadele Kronolojisi:**\n- 22 Mayıs 1919'da Mustafa Kemal Paşa tarafından İstanbul Hükümeti'ne gönderilen **Samsun Raporu**, 9. Ordu Müfettişi sıfatıyla bölge gerçeklerini İtilaf Devletleri ve Saray'a ilk kez açıkça haykıran resmî belgedir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10209,7 +10209,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Amaç ve Yöntemini)**\n\n**Amasya Genelgesi Analizi:**\n- *'Milletin istiklâli'* ➡️ **Amaç (Hedef)**\n- *'Milletin azim ve kararı'* ➡️ **Yöntem (Metot)** ve aynı zamanda millet egemenliğine dayalı yeni bir devletin ilk sinyalidir.\n- *Gerekçe ise:* 'Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir' maddesidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10244,7 +10244,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D (Ulusal egemenlik / Hükümet sistemi)**\n\n**Misak-ı Millî Formülü (KAPSBAT):**\n- **K**apitülasyonlar (kaldırılmalıdır)\n- **A**zınlıklar (komşu ülkelerdeki Müslümanlara tanınan haklar kadar)\n- **P**lebisit / Halkoyu (Kars, Ardahan, Batum, Batı Trakya, Arap toprakları)\n- **S**ınırlar (Mondros anındaki Türk sınırları)\n- **B**oğazlar (güvenliği sağlanırsa ticarete açılır)\n- *Not:* Misak-ı Milli tamamen **vatanın bağımsızlığı ve toprak bütünlüğü** ile ilgilidir; meclis saltanat yanlılarını ürkütmemek için **ulusal egemenlik/rejim** konularına Misak-ı Milli'de yer vermemiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10279,7 +10279,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (I. İnönü Muharebesi)**\n\n**I. İnönü Zaferi Sonuçları (MİLÂT Şifresi):**\n- **M**oskova Antlaşması (SSCB ile)\n- **İ**stiklal Marşı'nın Kabulü (12 Mart 1921)\n- **L**ondra Konferansı'na TBMM'nin çağrılması\n- **A**fganistan ile Dostluk Antlaşması\n- **T**eşkilat-ı Esasiye Kanunu (1921 Anayasası)",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10314,7 +10314,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Sakarya Meydan Muharebesi)**\n\n**Askeri Tarih:**\n- 23 Ağustos - 13 Eylül 1921 tarihleri arasında 22 gün 22 gece süren **Sakarya Meydan Muharebesi**'nde Başkomutan Mustafa Kemal Paşa bu emirle klasik cephe savunması yerine alan savunması taktiğini uygulamış ve 1683 Viyana bozgunundan beri süren geri çekilişi durdurmuştur.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10349,7 +10349,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Saltanatın kaldırılması)**\n\n**Siyasi Gelişme:**\n- İtilaf Devletleri'nin Lozan'a Tevfik Paşa Hükümeti'ni de çağırarak Sevr benzeri tavizler koparma planı, TBMM'nin **1 Kasım 1922'de Saltanatı kaldırmasıyla** boşa çıkarılmış; böylece Lozan'da Türk milletini yalnızca TBMM temsil etmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10384,7 +10384,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Terakkiperver Cumhuriyet Fırkası)**\n\n**Çok Partili Hayat Denemeleri:**\n- 17 Kasım 1924'te kurulan **Terakkiperver Cumhuriyet Fırkası**, Türkiye Cumhuriyeti'nin ilk muhalefet partisidir. Ekonomide liberalizmi, yönetimde ademimerkeziyetçiliği savunmuştur.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10419,7 +10419,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Tüm eğitim kurumları MEB'e bağlanmıştır)**\n\n**Eğitim Alanındaki İnkılaplar:**\n- 3 Mart 1924 tarih ve 430 sayılı **Tevhid-i Tedrisat Kanunu** ile medreseler ve yabancı/azınlık okulları dahil Türkiye sınırları içindeki tüm mektep ve medreseler Maarif Vekâletine (MEB) bağlanarak eğitimde birlik, laiklik ve millilik sağlanmıştır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10454,7 +10454,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Kabotaj Kanunu)**\n\n**Ekonomik ve Hukuki Bağımsızlık:**\n- **Kabotaj Kanunu:** Türk denizlerinde kapitülasyon kalıntısı olan yabancı tekelini sona erdirmiş, deniz ticareti ve liman işletmeciliğini millileştirmiştir (Milliyetçilik ilkesi). Her yıl 1 Temmuz 'Denizcilik ve Kabotaj Bayramı' olarak kutlanır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10489,7 +10489,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Halkçılık)**\n\n**İlkeler Analizi:**\n- **Halkçılık:** Sınıfsız, imtiyazsız, kaynaşmış bir kitle hedefler. Eşitlik, sosyal adalet, Medeni Kanun, kadınlara seçme-seçilme hakkı, Soyadı Kanunu ve unvanların (ağa, paşa, bey) kaldırılması doğrudan Halkçılık ilkesi kapsamındadır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10524,7 +10524,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Montrö Boğazlar Sözleşmesi)**\n\n**Dış Politika:**\n- 20 Temmuz 1936'da imzalanan **Montrö Boğazlar Sözleşmesi** ile Lozan'daki silahsızlandırılmış Boğazlar statüsü ve Uluslararası Boğazlar Komisyonu lağvedilmiş, Boğazlar üzerindeki tam Türk egemenliği tescillenmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10559,7 +10559,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Hatay)**\n\n**Hatay Meselesi:**\n- 1938'de bağımsız Hatay Devleti kurulmuş (Cumhurbaşkanı Tayfur Sökmen), Atatürk'ün vefatından sonra Hatay Millet Meclisi'nin 23 Haziran 1939 tarihli oy birliği kararıyla Hatay anavatana katılmıştır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10594,7 +10594,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Lawrence Kohlberg)**\n\n**Pedagojik Çözüm:**\n- Kohlberg, ahlak gelişimini **Gelenek Öncesi, Geleneksel ve Gelenek Sonrası** olmak üzere 3 düzey ve 6 evrede ele almıştır. Heinz ikilemi gibi ahlaki çıkmazlarla çocukların akıl yürütme süreçlerini ölçmüştür.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10629,7 +10629,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme)**\n\n**Raths, Harmin ve Simon Değer Açıklama Modeli (7 Basamak):**\n1. *Seçme:* Özgürce seçme, alternatifler arasından seçme, sonuçlarını düşünerek seçme.\n2. *Ödüllendirme:* Seçimiyle gurur duyma, başkalarına açıklamaktan çekinmeme.\n3. *Eylem:* Seçimine uygun davranma, bunu yaşam biçimi haline getirme.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10664,7 +10664,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Takdir yetkisini kişisel/siyasi çıkara göre esnetme)**\n\n**Kamu Görevlileri Etik İlkeleri:**\n- Takdir yetkisi yalnızca kamu yararı, hizmet gerekleri, liyakat ve eşitlik ilkeleri gözetilerek kullanılır. Kişisel, zümresel veya siyasi amaçlarla kullanılması açık bir etik ve mevzuat ihlalidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10699,7 +10699,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları)**\n\n**5176 Sayılı Kanun Madde 1:**\n- *'Cumhurbaşkanı, Türkiye Büyük Millet Meclisi üyeleri, Bakanlar, Türk Silahlı Kuvvetleri ve yargı mensupları ile üniversiteler hakkında bu Kanun hükümleri uygulanmaz.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10734,7 +10734,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (İskele Kurma / Scaffolding)**\n\n**Vygotsky ve Bruner Yaklaşımı:**\n- **İskele Kurma (Yapı İskelesi):** Öğrencinin Yakınsak Gelişim Alanı (ZPD) içinde bir yetişkin veya akran rehberliğinde desteklenmesi, öğrenci ustalaştıkça desteğin adım adım azaltılmasıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10769,7 +10769,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D (Değerlendirme)**\n\n**Yenilenmiş Bloom Taksonomisi:**\n1. Hatırlama\n2. Anlama\n3. Uygulama\n4. Çözümleme (Analiz)\n5. **Değerlendirme (Yargılama, eleştirme, kriterlere göre karar verme)**\n6. Yaratma (Özgün ürün tasarlama)",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10804,7 +10804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Örtük Program)**\n\n**Program Türleri (Posner):**\n- **Resmî Program:** Yazılı, onaylı MEB müfredatı.\n- **Örtük Program:** Yazılı olmayan, okul iklimi ve öğretmen modelleriyle informel kazanılan değerler.\n- **İhmal Edilen:** Müfredatta olup işlenmeyen konular.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10839,7 +10839,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Tüm öğrencileri hedefler, önleyici ve proaktiftir)**\n\n**Gelişimsel Rehberlik İlkeleri:**\n- Geleneksel rehberliğin aksine sadece sorunlu öğrencilere değil **tüm öğrencilere** yöneliktir. Reaktif (olay sonrası) değil **proaktif ve önleyici**dir; tüm okul personelinin iş birliğini gerektirir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10874,7 +10874,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Probleme Dayalı Öğrenme)**\n\n**PDÖ Özellikleri:**\n- Gerçek yaşamla ilişkili, yapılandırılmamış (ill-structured) senaryolar kullanılır. Öğrenci merkezlidir; araştırma, hipotez kurma, üst düzey düşünme ve işbirlikli çalışma becerilerini geliştirir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10909,7 +10909,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Geçerlik)**\n\n**Ölçme Kavramları:**\n- **Geçerlik:** Ölçme aracının amacına hizmet etme derecesi (Doğruluk).\n- **Güvenirlik:** Ölçme sonuçlarının tesadüfi hatalardan arınık ve tutarlı olması (Kararlılık/Duyarlık).\n- **Kullanışlılık:** Ekonomiklik, hazırlama ve uygulama kolaylığı.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10944,7 +10944,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Öğrenme eksikliklerini belirleyip geri bildirim sağlamak)**\n\n**Değerlendirme Türleri:**\n- **Tanılayıcı (Diagnostik):** Başlangıçta hazırbulunuşluk ölçme (Muafiyet, seviye tespit).\n- **Biçimlendirici (Formatif):** Süreç içinde eksiklikleri tespit etme ve düzeltme (İzleme testleri).\n- **Düzey Belirleyici (Summatif):** Süreç sonunda başarı/not takdiri (Vize, final, diploma).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -10979,7 +10979,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Withitness - Her Yerde Olma / Farkındalık)**\n\n**Kounin Sınıf Yönetimi Modeli:**\n- **Withitness:** Öğretmenin arkası dönükken bile sınıfta ne olup bittiğini bilmesi ve hissettirmesidir.\n- **Overlapping (Aynı Anda Birden Çok İşi Yürütme):** Bir öğrenciye soru çözerken diğer öğrencinin konuşmasını jestle durdurabilme.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11014,7 +11014,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Planlama — Örgütleme — Yöneltme — Koordinasyon — Kontrol)**\n\n**Fayol Yönetim Süreçleri (POCCC Modeli):**\n1. **Planlama (Planning):** Geleceği öngörme ve hedefleri belirleme.\n2. **Örgütleme (Organizing):** Yapıyı, kaynakları ve iş bölümünü kurma.\n3. **Yöneltme (Commanding/Leading):** Çalışanları harekete geçirme.\n4. **Koordinasyon (Coordinating):** Çabaları uyumlaştırma.\n5. **Kontrol/Denetim (Controlling):** Sonuçları hedeflerle karşılaştırma.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11049,7 +11049,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Kişisel/sübjektif ilişkilere dayalı terfi)**\n\n**Weber Bürokrasi Modeli:**\n- Weber'e göre bürokrasi **gayrişahsi (impersonal)**, liyakate, uzmanlığa, yazılı kurallara ve yasal-rasyonel otoriteye dayanır. Akrabalık, torpil veya kişisel yakınlık bürokratik rasyonaliteye tamamen aykırıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11084,7 +11084,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (İlham veren vizyon, motivasyon ve değişimi yönetme)**\n\n**Dönüşümcü Liderliğin 4 Boyutu (Bass & Avolio - 4I Modeli):**\n1. İdealize Edilmiş Etki (Karizma)\n2. İlham Verici Motivasyon\n3. Entelektüel Uyarım\n4. Bireysel İlgi ve Destek",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11119,7 +11119,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Öğretimsel Liderlik)**\n\n**Öğretimsel Liderlik (Hallinger & Murphy):**\n- Okulun birincil misyonunu **öğrenme ve öğretme** olarak görür. Okul müdürü sadece idari bir yönetici değil, aynı zamanda başöğretmen ve öğretim lideridir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11154,7 +11154,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Dağıtımcı / Paylaşılan Liderlik)**\n\n**Dağıtımcı Liderlik (Spillane):**\n- Liderlik eyleminin bireylerin rollerinden ziyade durumsal etkileşimler ve kolektif uzmanlık yoluyla örgüt genelinde dağılmasını ifade eder.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11189,7 +11189,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Başarı, tanınma, sorumluluk ve kişisel gelişim)**\n\n**Herzberg Çift Faktör Kuramı:**\n- **Hijyen Faktörleri (Eksikliği tatminsizlik yaratır, varlığı motive etmez):** Maaş, çalışma koşulları, iş güvencesi, kurum politikası.\n- **Motivasyonel Faktörler (Doğrudan tatmin ve yüksek performans sağlar):** Başarı hissi, takdir edilme, işin kendisi, sorumluluk ve kariyer ilerlemesi.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11224,7 +11224,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Örgüt Kültürü)**\n\n**Örgüt Kültürü (Schein):**\n- Bir kurumun üyeleri tarafından geliştirilen, benimsenen ve yeni üyelere aktarılan temel varsayımlar, değerler, inançlar ve ritüeller bütünüdür.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11259,7 +11259,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Uzlaşma / Compromising)**\n\n**Thomas-Kilmann Çatışma Stratejileri:**\n- **İşbirliği (Kazan-Kazan):** Her iki tarafın tam tatmini.\n- **Uzlaşma (Orta Yol):** Her iki tarafın fedakarlık yaparak anlaşması.\n- **Hükmetme (Kazan-Kaybet):** Güç kullanarak baskın gelme.\n- **Uyum (Kaybet-Kazan):** Kendi isteğinden vazgeçip karşı tarafa boyun eğme.\n- **Kaçınma (Kaybet-Kaybet):** Çatışmayı erteleme/yok sayma.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11294,7 +11294,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Gözlem Öncesi — Gözlem — Analiz — Gözlem Sonrası — Değerlendirme)**\n\n**Goldhammer ve Cogan Klinik Denetim Döngüsü:**\n1. *Gözlem Öncesi Konferans:* Hedef ve odak noktalarının öğretmenle belirlenmesi.\n2. *Gözlem:* Sınıfta öğretimin tarafsızca kaydedilmesi.\n3. *Veri Analizi:* Verilerin gözden geçirilmesi.\n4. *Gözlem Sonrası Konferans:* Geri bildirim ve çözümlerin birlikte geliştirilmesi.\n5. *Sürecin Değerlendirilmesi.*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11329,7 +11329,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Güçlü Yönler - Strengths)**\n\n**SWOT Analizi:**\n- **İçsel Faktörler:** Güçlü Yönler (S) ve Zayıf Yönler (W) kurumun kendi iç dinamikleridir.\n- **Dışsal Faktörler:** Fırsatlar (O) ve Tehditler (T) çevreden gelen unsurlardır.\n- Nitelikli personel ve teknolojik donanım okulun **İçsel Güçlü Yönleridir**.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11364,7 +11364,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (C Şubesi)**\n\n**Ölçme ve Değerlendirme Analizi:**\n- **C Şubesi Dağılımı:** Yığılma sol tarafta (düşük puanlar, 30-40 bandında) toplanmış, kuyruk sağa doğru uzamıştır. Bu dağılıma **Sağa Çarpık (Pozitif Kayışlı)** dağılım denir. Testin öğrencilere zor geldiğini ve başarının düşük olduğunu gösterir.\n- *B Şubesi:* Sola çarpık (başarı yüksek, puanlar 70-80'de yığılmış).\n- *A Şubesi:* Normal/Simetrik dağılım.\n- *D Şubesi:* Ranjı dar ve basık grup.",
+    "explanation": "",
     "hasImage": true,
     "image": "assets/questions/ekys2024_q51_graph.png"
   },
@@ -11399,7 +11399,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Çalışanlara güven, yetki devri ve sorumluluk verme)**\n\n**McGregor X ve Y Kuramları:**\n- **X Kuramı:** İnsanlar tembeldir, çalışmayı sevmez, sorumluluktan kaçar, zorlanmalı ve denetlenmelidir (Otokratik).\n- **Y Kuramı:** İnsanlar çalışmayı doğal bir etkinlik olarak görür, motive edilirlerse hedef için özdenetim ve yaratıcılık sergilerler (Demokratik/Katılımcı).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11434,7 +11434,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Planla — Uygula — Kontrol Et — Önlem Al)**\n\n**Deming PUKÖ (PDCA) Döngüsü:**\n- **P (Plan):** Hedef ve süreçlerin planlanması.\n- **U (Do/Uygula):** Planın hayata geçirilmesi.\n- **K (Check/Kontrol Et):** Sonuçların ölçülmesi ve hedeften sapmaların izlenmesi.\n- **Ö (Act/Önlem Al):** Sürekli iyileştirme (Kaizen) için tedbirlerin alınması.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11469,7 +11469,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Yukarıdan Aşağıya İletişim)**\n\n**İletişim Yönleri:**\n- **Yukarıdan Aşağıya:** Üst yöneticiden astlara doğru emir, talimat, politika, hedef ve duyuruların akışıdır.\n- **Aşağıdan Yukarıya:** Astlardan üstlere rapor, öneri, dilekçe ve şikâyet iletimidir.\n- **Yatay:** Aynı düzeydeki zümre başkanları veya öğretmenlerin iletişimidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11504,7 +11504,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Halo / Hale Etkisi)**\n\n**Değerlendirme Hataları:**\n- **Halo Etkisi:** Kişinin tek bir olumlu özelliğinin diğer tüm yönlerini de olumlu görmeye yol açması.\n- **Horn Etkisi:** Tek bir olumsuz özelliğin tüm değerlendirmeyi gölgelemesi.\n- **Merkeze Yığma:** Aşırı uçlardan kaçınıp herkese vasat/orta puan verme.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11539,7 +11539,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Okul İklimi)**\n\n**Kavram:**\n- **Okul İklimi:** Okul üyelerinin okuldaki çalışma ortamına, ilişkilere ve yönetime dair paylaştıkları algılar bütünüdür (Açık iklim, kapalı iklim, özerk iklim vb.).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11574,7 +11574,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Yönlendirici / Direktif Yaklaşım)**\n\n**Glickman Gelişimsel Denetim:**\n- **Düşük Gelişim Düzeyi:** Yönlendirici (Direktif) Yaklaşım (Kararları ve adımları denetmen belirler).\n- **Orta Gelişim Düzeyi:** İş Birlikçi Yaklaşım (Birlikte karar verilir).\n- **Yüksek Gelişim Düzeyi:** Yönlendirici Olmayan Yaklaşım (Öğretmen kendi hedeflerini belirler, denetmen kolaylaştırıcıdır).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11609,7 +11609,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Etkileme / Liderlik)**\n\n**Yönetim Süreçleri:**\n- Liderlik, başkalarını önceden belirlenen ortak amaçlar doğrultusunda gönüllü ve istekli olarak çaba göstermeye ikna etme ve etkileme sanatıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11644,7 +11644,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Misyon)**\n\n**Stratejik Yönetim:**\n- **Misyon:** Kurumun varlık sebebi, temel görevi ve hizmet amacını ifade eder (Bugünü anlatır).\n- **Vizyon:** Kurumun gelecekte ulaşmak istediği ideal tablo ve uzun vadeli hedeftir (Geleceği anlatır).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11679,7 +11679,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Mentorluk / Mentoring)**\n\n**Kavram:**\n- **Mentorluk:** Deneyimli bir uzmanın (mentor), mesleğe yeni başlayan veya gelişime açık bir çalışana (mentee) bilgi, tecrübe, psikososyal destek ve kariyer rehberliği sunması sürecidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11714,7 +11714,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Maddi/manevi maliyetler sebebiyle kalma zorunluluğu)**\n\n**Meyer ve Allen Örgütsel Bağlılık Modeli:**\n1. **Duygusal Bağlılık:** Kurumda kalmak *istediği* için kalma.\n2. **Devam Bağlılığı:** Ayrılmanın maliyetleri yüksek olduğu ve *ihtiyaç duyduğu* için kalma.\n3. **Normatif Bağlılık:** Kuruma karşı ahlaki bir *görev ve sadakat* hissettiği için kalma.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11749,7 +11749,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Sakin, kararlı, şeffaf kriz yönetimi ve can güvenliği)**\n\n**Kriz Yönetimi İlkeleri:**\n- Kriz anında panik önlenmeli, açık ve net iletişim kanalları kurulmalı, önceden hazırlanan Acil Durum / Kriz Eylem Planı derhal uygulanmalıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11784,7 +11784,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D (Cezalandırma tehdidi)**\n\n**OTMG İlkeleri:**\n- Okul Temelli Mesleki Gelişim; okul düzeyinde planlanan, öğretmenlerin öz değerlendirmelerine dayanan, gönüllülük ve iş birliğini esas alan çağdaş bir yetişkin eğitimi modelidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11819,7 +11819,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Katılımcı / Demokratik Karar Verme)**\n\n**Karar Verme Modelleri:**\n- Katılımcı karar verme; karardan etkilenecek personelin karar alma sürecine dahil edilmesini, motivasyonun ve kararın uygulanabilirlik kalitesinin artırılmasını sağlar.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11854,7 +11854,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (5 yılda bir)**\n\n**1982 Anayasası Madde 77:**\n- *'Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri **beş yılda bir aynı günde** yapılır.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11889,7 +11889,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (15 üye — 12 yıl)**\n\n**1982 Anayasası Madde 146 ve 147:**\n- Anayasa Mahkemesi **15 üyeden** kurulur (3 üyeyi TBMM, 12 üyeyi Cumhurbaşkanı seçer).\n- Anayasa Mahkemesi üyeleri **12 yıl için** seçilirler. Bir kimse iki defa Anayasa Mahkemesi üyesi seçilemez. Üyeler 65 yaşını doldurunca emekliye ayrılırlar.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11924,7 +11924,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D (10 gün)**\n\n**657 Sayılı Kanun Madde 104/B (Mazeret İzni):**\n- *'Memura, eşinin doğum yapması hâlinde, isteği üzerine **on gün babalık izni** verilir.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11959,7 +11959,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Uyarma)**\n\n**657 Sayılı Kanun Madde 125/A-b:**\n- Uyarma cezasını gerektiren fiil ve haller: *'Özürsüz veya izinsiz olarak göreve geç gelmek, erken ayrılmak, görev mahallini terk etmek.'*\n- *(Not: Eğer görev mahallinde kurumlarca belirlenen usul ve esasların yerine getirilmesinde kusurlu davranmak ise Kınama'dır).* ",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -11994,7 +11994,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Genellik ve Eşitlik - Madde 4)**\n\n**1739 Sayılı Kanun Temel İlkeleri:**\n- **Genellik ve Eşitlik (Madde 4):** Eğitim kurumları herkese açıktır, imtiyaz tanınamaz.\n- **Fırsat ve İmkân Eşitliği (Madde 8):** Maddi imkândan yoksun başarılı öğrencilere burs/pansiyon desteği ve özel eğitime muhtaçlara özel tedbirler sağlanmasıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12029,7 +12029,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D (Kariyer basamakları sadece hizmet yılına göre otomatik kazanılır ifadesi yanlıştır)**\n\n**1739 Sayılı Kanun Madde 43:**\n- Öğretmenlik özel bir ihtisas mesleğidir. Kariyer basamakları ve mesleki gelişim ilgili kanun ve yönetmeliklerdeki eğitim, süre ve değerlendirme kriterlerine göre belirlenir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12064,7 +12064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (6-14 yaş)**\n\n**222 Sayılı Kanun Madde 3:**\n- *'Mecburi ilköğretim çağı, **6 yaşını bitirdiği yılın eylül ayı sonunda başlar, 14 yaşını bitirip 15 yaşına girdiği yılın öğretim yılı sonunda biter.**'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12099,7 +12099,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E (Yukarıdakilerin hepsi)**\n\n**222 Sayılı Kanun Madde 76:**\n- İlköğretimin gelir kaynakları arasında genel bütçeden ayrılan ödenekler, il özel idare gelirleri, köy bütçesi payları, para cezaları, bağışlar ve vakıf gelirleri yer almaktadır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12134,7 +12134,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Bakanlıklarda Bakan, İllerde Vali, Belediyelerde Bld. Başkanı)**\n\n**5018 Sayılı Kanun Madde 11:**\n- *'Bakanlıklarda **Bakan**, diğer kamu idarelerinde **en üst yönetici**, il özel idarelerinde **vali** ve belediyelerde **belediye başkanı** üst yöneticidir.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12169,7 +12169,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Kaymakam)**\n\n**4483 Sayılı Kanun Madde 3/a:**\n- *'İlçede görevli memurlar ve diğer kamu görevlileri hakkında **kaymakam** soruşturma izni vermeye yetkilidir.'*\n- *(İlde veya merkez ilçede görevliler hakkında ise Vali yetkilidir).* ",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12204,7 +12204,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (4 yılda bir)**\n\n**4688 Sayılı Kanun Madde 10:**\n- *'Sendika ve konfederasyonların olağan genel kurulları **en geç dört yılda bir** toplanır.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12239,7 +12239,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Vali)**\n\n**5442 Sayılı Kanun Madde 9:**\n- *'Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır. İl genel idaresinin başı ve merciidir.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12274,7 +12274,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (30 gün)**\n\n**3071 Sayılı Kanun Madde 7:**\n- *'Dilekçe sahiplerine en geç **otuz gün içinde** gerekçeli olarak cevap verilir. İşlem safahatının duyurulması halinde de nihai sonuç ayrıca bildirilir.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12309,7 +12309,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Talim ve Terbiye Kurulu Başkanlığı)**\n\n**1 Sayılı CBK Madde 319:**\n- Talim ve Terbiye Kurulu Başkanlığı, Bakanlığın **bilimsel danışma ve karar organıdır**. Eğitim ve öğretim plan ve programlarını, ders kitaplarını ve öğretim materyallerini hazırlar veya inceleyip karara bağlar.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12344,7 +12344,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Temel Eğitim Genel Müdürlüğü)**\n\n**1 Sayılı CBK Madde 305:**\n- **Temel Eğitim Genel Müdürlüğü:** Okul öncesi eğitim ile ilköğretim (ilkokul ve ortaokul) kademesindeki öğrencilerin eğitim-öğretim süreçlerini yürütmekle görevlidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12379,7 +12379,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Türkiye Büyük Millet Meclisi Genel Sekreteri)**\n\n**4483 Sayılı Kanun Madde 3/f:**\n- *'Türkiye Büyük Millet Meclisinde görevli memurlar ve diğer kamu görevlileri hakkında **Türkiye Büyük Millet Meclisi Genel Sekreteri**, Türkiye Büyük Millet Meclisi Genel Sekreteri ve yardımcıları hakkında **Türkiye Büyük Millet Meclisi Başkanı**'* soruşturma izni vermeye yetkilidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12414,7 +12414,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E (I, II ve III)**\n\n**Eski Türklerde Kadın ve Hatun Hakları:**\n- İslamiyet öncesi Türk devletlerinde hatun (katun), devlet yönetiminde kağandan sonra en yetkili kişiydi.\n- Resmî fermanlar *'Kağan ve Hatun buyurur ki...'* şeklinde çıkarılır;\n- Hatun yabancı elçileri kabul eder (I), kurultaya katılır ve oy kullanır (II), kağan sefere çıktığında veya vefatında naip sıfatıyla devleti yönetirdi (III).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12449,7 +12449,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Nizamiye Medreseleri)**\n\n**Tarihsel Bilgi:**\n- Sultan Alparslan ve Melikşah dönemlerinde Vezir Nizamülmülk tarafından kurulan **Nizamiye Medreseleri** (en ünlüsü 1067 Bağdat Nizamiye Medresesi), hem Sünni İslam düşüncesini savunmak (Batınilik tehlikesine karşı) hem de devlet memuru ve kadı yetiştirmek amacıyla kurulmuş dünyanın ilk üniversite tipi kurumlarındandır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12484,7 +12484,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Enderun Mektebi)**\n\n**Kurumsal Bilgi:**\n- **Enderun Mektebi:** Topkapı Sarayı'nda devşirme kökenli üstün yetenekli gençlerin eğitildiği saray okuludur. Buradan sadrazamlar, beylerbeyleri, nişancılar ve komutanlar yetişirdi.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12519,7 +12519,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Mukataa Arazi)**\n\n**Arazi Çeşitleri:**\n- **Mukataa:** Geliri doğrudan merkezi hazineye giden topraklar (iltizamla kiralanır).\n- **Paşmaklık:** Geliri padişahın annesi ve kızlarına ayrılan.\n- **Ocaklık:** Geliri kale muhafızlarına ve tersane giderlerine ayrılan.\n- **Yurtluk:** Geliri sınır boylarını koruyanlara verilen.\n- **Vakıf:** Hayır kurumları ve cami/medrese giderleri için ayrılan.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12554,7 +12554,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Kanun üstünlüğünün kabul edilmesi)**\n\n**Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu):**\n- Sultan Abdülmecid döneminde Hariciye Nazırı Mustafa Reşit Paşa tarafından okunmuştur.\n- Padişah ilk kez *'Ben dahi bu kanunlara uyacağıma yemin ederim'* diyerek kendi otoritesinin üstünde **kanun gücünün** varlığını kabul etmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12589,7 +12589,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (III numaralı alanda rüzgar etkisiyle oluşan yer şekilleri yaygındır ifadesi yanlıştır)**\n\n**Harita Analizi:**\n- **I (Biga / Kaz Dağları):** Kırıklı dağ sisteminde bir horsttur (Doğru).\n- **II (Taşeli Platosu):** Kalkerli kireçtaşı arazisi üzerinde karstik şekiller yaygındır (Doğru).\n- **III (Sinop / İnceburun - Karadeniz kıyısı):** Karadeniz kıyılarında nemli ve gür bitki örtüsü nedeniyle **dalga ve akıntı aşınım şekilleri (falez, tombolo)** etkilidir; rüzgâr aşınım ve birikim şekilleri kurak/yarı kurak İç ve Güneydoğu Anadolu'da yaygındır (C şıkkı söylenemez).\n- **IV (Amik Ovası / Hatay):** Tektonik graben alanıdır (Doğru).\n- **V (Ağrı Dağı):** Zirvesinde kalıcı takke buzulu bulunur (Doğru).",
+    "explanation": "",
     "hasImage": true,
     "image": "assets/questions/ekys2023_q6_map.png"
   },
@@ -12624,7 +12624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Maki)**\n\n**Bitki Coğrafyası:**\n- **Kızılçam tahribatı** ➡️ **Maki** (Zeytin, defne, mersin, sandal, keçiboynuzu, kermes meşesi).\n- *Maki tahribatı* ➡️ **Garig (Frigana)** (Lavanta, abdestbozan, kekik).\n- *Karadeniz orman tahribatı* ➡️ **Psödömaki (Yalancı maki)**.\n- *İç Anadolu orman tahribatı* ➡️ **Antropojen bozkır**.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12659,7 +12659,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Dağınık Yerleşme)**\n\n**Yerleşme Dokuları:**\n- **Dağınık Yerleşme:** Yer şekillerinin engebeli, tarım alanlarının parçalı ve su kaynaklarının bol olduğu **Karadeniz Bölgesi'nde** görülür.\n- **Toplu Yerleşme:** Arazinin düz, su kaynaklarının kısıtlı ve kuyuların etrafında toplanıldığı **İç ve Güneydoğu Anadolu'da** görülür.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12694,7 +12694,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E (Demir — Batman eşleştirmesi yanlıştır)**\n\n**Maden Coğrafyası:**\n- **Batman:** Türkiye'nin ilk ve en önemli **Petrol** çıkarma ve rafineri merkezidir (Raman Dağı).\n- **Demir:** Sivas (Divriği), Malatya (Hekimhan, Hasançelebi), Balıkesir (Eymir), İzmir (Torbalı) ve Sakarya (Çamdağı) yörelerinde çıkarılır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12729,7 +12729,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Kastamonu — Çankırı)**\n\n**Ulaşım Coğrafyası:**\n- **Ilgaz 15 Temmuz İstiklal Tüneli:** Ilgaz Dağları'nı aşarak **Kastamonu ile Çankırı** arasındaki karayolu ulaşımını kesintisiz hale getiren stratejik tüneldir.\n- *(Zigana Tüneli: Trabzon-Gümüşhane, Ovit Tüneli: Rize-Erzurum).* ",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12764,7 +12764,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Devlet gücüyle desteklenmiş maddi yaptırım)**\n\n**Temel Hukuk:**\n- Din ve ahlak kurallarının yaptırımı **manevidir** (vicdan azabı, günahtan çekinme, ayıplanma).\n- Hukuk kurallarının yaptırımı ise doğrudan **kamu gücüne dayalı maddi yaptırımdır** (ceza, cebri icra, tazminat, iptal, hükümsüzlük).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12799,7 +12799,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Milletvekilleri)**\n\n**1982 Anayasası Madde 88:**\n- *'Kanun teklif etmeye **milletvekilleri** yetkilidir.'*\n- *(2017 Anayasa değişikliği ile hükümet tasarısı kaldırılmıştır. Cumhurbaşkanının kanun teklif etme yetkisi sadece **Bütçe Kanunu Teklifi** ile sınırlıdır).* ",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12834,7 +12834,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (13 üye — 2 daire)**\n\n**1982 Anayasası Madde 159:**\n- HSK **13 üyeden** oluşur ve **2 daire** halinde çalışır.\n- Kurulun Başkanı **Adalet Bakanı**, tabii üyesi **Adalet Bakanlığı İlgili Bakan Yardımcısıdır**.\n- 4 üyeyi Cumhurbaşkanı, 7 üyeyi TBMM seçer.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12869,7 +12869,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Mali Denetim: AYM / Kapatma Davası: AYM)**\n\n**1982 Anayasası Madde 69:**\n- Siyasi partilerin kapatılmasına Yargıtay Cumhuriyet Başsavcısının açacağı dava üzerine **Anayasa Mahkemesi** karar verir.\n- Siyasi partilerin mal edinimleri ve gelir-gider denetimini de **Anayasa Mahkemesi** yapar (bu denetimi yaparken Sayıştay'dan yardım alır).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12904,7 +12904,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Gemlik)**\n\n**Güncel Sanayi ve Teknoloji:**\n- Togg Teknoloji Kampüsü, 29 Ekim 2022 tarihinde **Bursa'nın Gemlik ilçesinde** resmî törenle açılarak seri üretime başlamıştır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12939,7 +12939,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (2023 Yılı)**\n\n**Güncel Kültür:**\n- Hz. Mevlânâ'nın 'Şeb-i Arûs' (Vuslat) yıldönümünün 750. yılı olması vesilesiyle **2023 yılı**, UNESCO ve Cumhurbaşkanlığı genelgesi ile **'Mevlânâ Yılı'** ilan edilmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -12974,7 +12974,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D (Trabzon)**\n\n**Vilâyât-ı Sitte (BEST-VD Şifresi):**\n1. **B**itlis\n2. **E**rzurum\n3. **S**ivas\n4. **T**unceli/Mamuretülaziz (Elazığ)\n5. **V**an\n6. **D**iyarbakır\n\n*Not:* Trabzon Karadeniz ilidir, Vilâyât-ı Sitte illeri arasında yer almaz.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13009,7 +13009,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Bağımsızlık ve Millet Egemenliği)**\n\n**Kongre Kararlarının Analizi:**\n- *'Kuvâ-yı Millîye'yi etken kılmak'* ➡️ Düşmana karşı silahlı direniş ve **Tam Bağımsızlık**.\n- *'Millî iradeyi hâkim kılmak'* ➡️ Padişah/Saray iradesi yerine **Millet Egemenliği ve Demokrasi**.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13044,7 +13044,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti - ARMHC)**\n\n**Sivas Kongresi:**\n- 4-11 Eylül 1919 Sivas Kongresi'nde bölgesel kurtuluş arayan tüm dernekler **ARMHC** çatısı altında birleştirilerek Milli Mücadele tek merkezden yönetilir hale getirilmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13079,7 +13079,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Gümrü Antlaşması)**\n\n**3 Aralık 1920 Gümrü Antlaşması:**\n- Kâzım Karabekir komutasındaki 15. Kolordu'nun zaferi sonucu imzalanmıştır.\n- TBMM'yi ve Misak-ı Milli'yi tanıyan ilk devlet Ermenistan olmuş, Sevr Antlaşması'ndaki iddialarından vazgeçmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13114,7 +13114,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Tekâlif-i Milliye Emirleri)**\n\n**Milli Yükümlülük Emirleri:**\n- Mustafa Kemal Paşa, Başkomutanlık yasasının verdiği yasama yetkisini kullanarak her ilçede Tekalif-i Milliye komisyonları kurdurmuş ve halkın elindeki erzak, çarık, çorap, binek ve silahların orduya devredilmesini sağlamıştır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13149,7 +13149,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (İsmet İnönü)**\n\n**Diplomasi:**\n- Mudanya Konferansı'nda TBMM'yi Batı Cephesi Komutanı **İsmet Paşa** temsil etmiştir. Buradaki başarılı diplomasisi sayesinde Doğu Trakya, Boğazlar ve İstanbul tek kurşun atılmadan savaşsız teslim alınmış ve İsmet Paşa Lozan Başdelegesi olarak atanmıştır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13184,7 +13184,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Irak Sınırı / Musul Meselesi)**\n\n**Lozan'da Çözülemeyen Tek Sınır:**\n- Türkiye ve İngiltere arasındaki petrol anlaşmazlığı nedeniyle Irak sınırı (Musul) Lozan'da çözülememiş, 9 ay içinde ikili müzakerelere bırakılmıştır. 1926 Ankara Antlaşması ile kesinleşmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13219,7 +13219,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E (Milletvekili seçme ve seçilme hakkı)**\n\n**Hukuki Haklar vs Siyasi Haklar:**\n- 1926 Medeni Kanun yalnızca **sosyal, hukuki ve ekonomik hakları** (evlilik, miras, boşanma, velayet, meslek seçimi) kapsar.\n- Siyasi haklar (seçme-seçilme) daha sonra verilmiştir: **1930 Belediye**, **1933 Muhtarlık**, **1934 Milletvekili** (034 BMW Formülü).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13254,7 +13254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Devletçilik)**\n\n**Atatürk'ün Devletçilik İlkesi:**\n- Özel teşebbüsü reddetmeyen, ancak halkın ve memleketin acil ihtiyaç duyduğu fabrika, demiryolu, bankacılık ve madencilik yatırımlarını devlet eliyle gerçekleştiren karma ve dinamik ekonomik modeldir (I. Beş Yıllık Sanayi Planı, Sümerbank, Etibank).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13289,7 +13289,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Balkan Antantı - 9 Şubat 1934)**\n\n**Dış Politika:**\n- **TAYYAR Şifresi (Türkiye, Atina/Yunanistan, Yugoslavya, Romanya):** Batı sınırını korumak için Atina'da imzalanmıştır.\n- *(Doğu sınırını korumak için 1937'de imzalanan ise Sadabat Paktı'dır).* ",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13324,7 +13324,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Nutuk / Söylev)**\n\n**Eser İncelemesi:**\n- *'1919 yılı Mayısı'nın 19'uncu günü Samsun'a çıktım'* cümlesiyle başlar, *'Ey Türk Gençliği!'* hitabesiyle biter. 1919-1927 arasını birinci elden belgelerle aktarır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13359,7 +13359,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Barışçılık ve uluslararası hukuka saygı)**\n\n**Dış Politika İlkeleri:**\n- Türkiye Cumhuriyeti içte huzuru, dışta ise tüm dünya milletleriyle karşılıklı saygı, eşitlik ve barış içerisinde yaşamayı dış politikasının temeli kabul etmiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13394,7 +13394,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (İtaat ve Ceza Eğilimi)**\n\n**Kohlberg Düzey 1 / Evre 1:**\n- Otoriteye mutlak itaat esastır. Olayın sonucundaki fiziksel cezaya odaklanılır ('Yakalanmazsam suç değildir').",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13429,7 +13429,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Tanıtım amaçlı kitap, ajanda, takvim ve plaket)**\n\n**Etik Yönetmeliği Madde 15:**\n- Tanıtım, kırtasiye ve hatıra niteliğindeki makul değeri aşmayan sembolik ajanda, takvim, rozet, plaket ve yayınlar hediye yasağı kapsamı dışındadır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13464,7 +13464,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Liyakat, tarafsızlık ve eşitlik)**\n\n**Etik İlkeleri:**\n- Adalet ilkesi; hakkaniyet, ayrımcılık yapmama, eşitlik ve kamu hizmetlerinden her bireyin hakkıyla yararlanmasını emreder.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13499,7 +13499,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Model Olma / Bandura)**\n\n**Bandura Sosyal Öğrenme:**\n- Bireyler değer ve davranışları en etkili biçimde çevrelerindeki saygı duydukları modelleri gözlemleyerek ve taklit ederek içselleştirirler.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13534,7 +13534,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Öğrencinin bilgiyi aktif yapılandırması)**\n\n**Yapılandırmacılık (Piaget, Vygotsky, Dewey):**\n- Bilgi pasif alınan bir paket değil; öğrencinin zihninde keşfettiği, deneyimlediği ve anlam yüklediği aktif bir süreçtir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13569,7 +13569,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (İçsel / Özedönük Zekâ)**\n\n**Çoklu Zeka Alanları:**\n- **İçsel (Özedönük):** Bireyin kendini tanıması, öz saygısı, içsel hedefleri ve metakognitif farkındalığıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13604,7 +13604,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (David Ausubel - Anlamlı Öğrenme)**\n\n**Sunuş Yoluyla Öğretim:**\n- Ausubel, öğrenmenin anlamlı olabilmesi için genelden özele doğru tümdengelim yönteminin ve yeni bilgiyle eski bilgi arasında köprü kuran **ön organize edicilerin (kavram haritaları, şemalar)** kullanılmasını savunur.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13639,7 +13639,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Kaynaştırma / Bütünleştirme Eğitimi)**\n\n**Özel Eğitim İlkeleri:**\n- Özel eğitim ihtiyacı olan bireylerin en az kısıtlayıcı eğitim ortamında (genel sınıflarda Bireyselleştirilmiş Eğitim Programı - BEP ile) akranlarıyla bir arada eğitilmesidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13674,7 +13674,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Grubun heterojen olduğunu)**\n\n**İstatistik ve Ölçme:**\n- **Standart Sapma / Varyans Yüksek:** Puanlar birbirinden çok farklıdır ➡️ **Grup Heterojendir** (Bireysel farklılıklar belirgindir, ayırt edicilik yüksektir).\n- **Standart Sapma Düşük:** Puanlar birbirine çok yakındır ➡️ **Grup Homojendir**.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13709,7 +13709,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Bekleme Süresi / Rowe Modeli)**\n\n**Öğretim Teknikleri:**\n- Soru sorulduktan sonra en az 3-5 saniye bekleme süresi verilmesi; öğrenci katılımını artırır, verilen cevapların kalitesini ve üst düzey düşünme derinliğini yükseltir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13744,7 +13744,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Genişletilerek ve derinleştirilerek tekrar)**\n\n**Bruner Sarmal Programlama:**\n- Konular her öğretim kademesinde basitten karmaşığa, somuttan soyuta doğru derinleşerek ve önceki öğrenmelerin üzerine inşa edilerek yeniden ele alınır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13779,7 +13779,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Öğrencilerle birlikte, az sayıda ve olumlu ifadeler)**\n\n**Sınıf Yönetimi:**\n- Kuralların gerekçeleri açıklanmalı, demokratik katılımla belirlenmeli ve 'Koşmayın' yerine 'Yavaş yürüyün' gibi olumlu davranış dili kullanılmalıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13814,7 +13814,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (İş standartlaşması, zaman-hareket etüdü ve verimlilik)**\n\n**Taylorizm (Bilimsel Yönetim):**\n- İşi en küçük parçalarına ayırır (iş analizi), en verimli yöntemi ('the one best way') belirler, standartlaştırır ve parça başı ücretle verimliliği maksimize eder.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13849,7 +13849,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Neoklasik / İnsan İlişkileri Yaklaşımı)**\n\n**Hawthorne Deneyleri:**\n- Işıklandırma ve dinlenme molaları gibi fiziki şartlardan ziyade, çalışanların kendilerine değer verildiğini hissetmelerinin (Hawthorne Etkisi) ve grup dinamiklerinin motivasyonu ve verimliliği artırdığı kanıtlanmıştır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13884,7 +13884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Açık Sistem Kuramı)**\n\n**Sistem Yaklaşımı:**\n- Okul bir **açık toplumsal sistemdir**. Çevresinden girdi alır, bunu süreçte işler, çevreye çıktı verir ve geri bildirim (feedback) ile kendini dengeler (homeostasis).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13919,7 +13919,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Liderlik Tarzı ve Durumun Elverişliliği)**\n\n**Fiedler Durumsallık Modeli:**\n- Tek bir en iyi liderlik tarzı yoktur. Liderin LPC (En Az Tercih Edilen Çalışan) puanına dayalı tarzı ile lider-üye ilişkisi, görev yapısı ve makam gücünden oluşan durumun elverişliliği uyumlu olmalıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13954,7 +13954,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Hizmetkâr Liderlik)**\n\n**Greenleaf Hizmetkâr Liderlik:**\n- Lider öncelikle bir hizmetçidir. Alçakgönüllülük, empati, dinleme, çalışanların gelişimine adanmışlık ve topluluk oluşturma temel özellikleridir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -13989,7 +13989,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E (Kendini Gerçekleştirme)**\n\n**Maslow Piramidi:**\n1. Fizyolojik ➡️ 2. Güvenlik ➡️ 3. Ait Olma/Sevgi ➡️ 4. Saygınlık ➡️ 5. **Kendini Gerçekleştirme (Potansiyelini en üst düzeyde ortaya koyma).**",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14024,7 +14024,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Beklenti × Araçsallık × Valans - VIE Modeli)**\n\n**Vroom Motivasyon Modeli:**\n- **Beklenti (E):** Çaba gösterirsem başarabilir miyim?\n- **Araçsallık (I):** Başarırsam ödüllendirilir miyim?\n- **Valans (V):** Alacağım ödül benim için değerli mi?",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14059,7 +14059,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Açık İklim)**\n\n**Halpin & Croft Okul İklimi:**\n- **Açık İklim:** Yüksek moral, düşük engellenme, samimi ilişkiler, demokratik liderlik ve yüksek iş doyumu ile karakterizedir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14094,7 +14094,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Açık Alan)**\n\n**Johari Penceresi (Luft & Ingham):**\n1. **Açık Alan:** Kendisi bilir, başkaları bilir.\n2. **Kör Alan:** Kendisi bilmez, başkaları bilir.\n3. **Gizli Alan:** Kendisi bilir, başkaları bilmez.\n4. **Bilinmeyen Alan:** Kimse bilmez.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14129,7 +14129,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Öğretimi geliştirme, rehberlik ve mesleki gelişim)**\n\n**Çağdaş Denetim İlkeleri:**\n- Geleneksel teftişin 'hata bulucu ve yargılayıcı' tutumunun aksine; çağdaş denetim **geliştirici, rehberlik edici, iş birlikçi ve öğrenci başarısını artırmaya odaklıdır**.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14164,7 +14164,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (İş Birliği / Problem Çözme)**\n\n**Çatışma Yönetimi:**\n- **İş Birliği:** Yüksek iş ve yüksek ilişki odaklıdır. Sorunun kök nedenine inilerek iki tarafın da tam tatmini hedeflenir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14199,7 +14199,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Kaizen)**\n\n**Kalite Kavramları:**\n- **Kaizen (Kai=Değişim, Zen=İyi):** Küçük adımlarla, tüm çalışanların katılımıyla süreçlerin kesintisiz olarak daha iyiye götürülmesidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14234,7 +14234,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Kıyaslama / Benchmarking)**\n\n**Yönetim Stratejisi:**\n- Kurumun rekabet gücünü artırmak için alanındaki en başarılı uygulamaları referans alarak kendi standartlarını yükseltmesidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14269,7 +14269,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Kararın Kalitesi ve Kabul Edilme Derecesi)**\n\n**Vroom-Yetton-Jago Modeli:**\n- Duruma göre Otokratik, Danışmalı veya Grup karar modelleri seçilir; karar kalitesi ve astların kararı benimsemesi ana belirleyicidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14304,7 +14304,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Dağıtım Adaleti)**\n\n**Örgütsel Adalet Boyutları:**\n- **Dağıtım Adaleti:** Kazanımların, ücretin ve ödüllerin dağıtımındaki hakkaniyettir.\n- **İşlemsel Adalet:** Karar alma süreç ve kurallarının adil olmasıdır.\n- **Etkileşimsel Adalet:** Yöneticinin personele saygılı ve dürüst davranmasıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14339,7 +14339,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Psikolojik Güvenlik / Amy Edmondson)**\n\n**Kavram:**\n- Psikolojik güvenlik; ekip üyelerinin bir fikir öne sürdüklerinde alay edilmeyecekleri, cezalandırılmayacakları ve dışlanmayacaklarına dair ortak inançlarıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14374,7 +14374,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Uzmanlık ve Karizmatik/Benzeşim Gücü)**\n\n**French ve Raven Güç Kaynakları:**\n- **Pozisyonel Güçler:** Yasal, Ödül, Zorlayıcı güç.\n- **Kişisel Güçler:** **Uzmanlık Gücü** (bilgi/yetkinlik) ve **Karizmatik/Benzeşim Gücü** (örnek kişilik, saygınlık).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14409,7 +14409,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Etkin / Empatik Dinleme)**\n\n**İletişim Becerileri:**\n- Etkin dinleme; yargılamadan, söz kesmeden, konuşmacının bakış açısıyla dünyayı görmeye çalışarak tam dikkatle yapılan dinlemedir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14444,7 +14444,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Gönüllü, görev tanımı dışı ekstra çaba - Organ Modeli)**\n\n**Örgütsel Vatandaşlık (ÖVD):**\n- Özgecilik (Yardımseverlik), Vicdanlılık, Nezaket, Centilmenlik ve Sivil Erdem boyutlarından oluşur.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14479,7 +14479,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Bilinmezlik korkusu, alışkanlıklar ve güvenlik ihtiyacı)**\n\n**Değişim Yönetimi:**\n- İnsanlar belirsizlikten, konfor alanlarının bozulmasından ve yeni sisteme uyum sağlayamayacakları korkusundan ötürü değişime direnç gösterirler. İletişim ve eğitimle bu direnç kırılır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14514,7 +14514,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (II. Kadran - Önemli / Acil Değil)**\n\n**Eisenhower Zaman Matrisi (Covey):**\n- **I:** Acil ve Önemli (Krizler)\n- **II: Acil Değil ama Önemli (Gelişim, Strateji, Proaktif liderlik - En verimli alan)**\n- **III:** Acil ama Önemsiz (Araya giren gereksiz telefonlar/işler)\n- **IV:** Acil Değil ve Önemsiz (Zaman israfı).",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14549,7 +14549,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Örgütsel Sessizlik)**\n\n**Kavram:**\n- Çalışanların kurumdaki sorunlar, usulsüzlükler veya iyileştirme fikirleri hakkında korku, güvensizlik veya 'nasıl olsa bir şey değişmez' inancıyla bilinçli olarak susmasıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14584,7 +14584,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Kolektif öğrenme ve ortak sorumluluk - DuFour)**\n\n**Mesleki Öğrenme Toplulukları (PLC):**\n- Öğretmenlerin zümreler halinde sürekli veri analizi yaparak öğretim yöntemlerini geliştirdiği ve öğrenci başarısını paylaştığı profesyonel yapıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14619,7 +14619,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (İsrafı önleme ve kurumsal güveni artırma)**\n\n**Mali Yönetim İlkeleri:**\n- Şeffaflık ve kamuoyuna hesap verebilirlik; kamu kaynaklarının etkili, ekonomik ve verimli kullanılmasının en büyük teminatıdır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14654,7 +14654,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (2 defa)**\n\n**1982 Anayasası Madde 94:**\n- *'Türkiye Büyük Millet Meclisi Başkanlık Divanı için bir yasama döneminde **iki seçim** yapılır. İlk seçilenlerin görev süresi **iki yıl**, ikinci devre için seçilenlerin görev süresi ise **o yasama döneminin sonuna kadardır**.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14689,7 +14689,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Cumhurbaşkanı Yardımcısı)**\n\n**1982 Anayasası Madde 118:**\n- *'Millî Güvenlik Kurulu; Cumhurbaşkanının başkanlığında toplanır. Cumhurbaşkanının katılamadığı hallerde Millî Güvenlik Kurulu **Cumhurbaşkanı Yardımcısının** başkanlığında toplanır.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14724,7 +14724,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (20 gün)**\n\n**657 Sayılı Kanun Madde 102:**\n- *'Devlet memurlarının yıllık izin süresi, hizmeti 1 yıldan 10 yıla kadar (on yıl dahil) olanlar için **yirmi gün**, hizmeti 10 yıldan fazla olanlar için **otuz gündür**.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14759,7 +14759,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (Yüksek Disiplin Kurulu)**\n\n**657 Sayılı Kanun Madde 126:**\n- Uyarma, kınama ve aylıktan kesme cezaları **disiplin amirleri** tarafından;\n- Kademe ilerlemesinin durdurulması cezası memurun bağlı olduğu kurumdaki **disiplin kurulunun kararı alındıktan sonra atamaya yetkili amirler (illerde valiler)** tarafından;\n- Devlet memurluğundan çıkarma cezası ise amirlerin bu yoldaki isteği üzerine **Yüksek Disiplin Kurulu** tarafından verilir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14794,7 +14794,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Fırsat ve İmkân Eşitliği - Madde 8)**\n\n**1739 Sayılı Kanun Madde 8:**\n- Eğitimde kadın, erkek herkese fırsat ve imkân eşitliği sağlanır. Maddi imkândan yoksun başarılı öğrencilere devletçe her türlü yardım yapılır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14829,7 +14829,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Örgün Eğitim ve Yaygın Eğitim)**\n\n**1739 Sayılı Kanun Madde 18:**\n- Türk millî eğitim sistemi; **Örgün eğitim** (Okul öncesi, ilkokul, ortaokul, ortaöğretim, yükseköğretim) ve **Yaygın eğitim** (Örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetleri) olmak üzere iki ana bölümden kurulur.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14864,7 +14864,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (500 TL)**\n\n**222 Sayılı Kanun Madde 56:**\n- Çocuğun okula gönderilmediği her gün için 15 TL para cezası verilir. Bu para cezasına rağmen çocuğunu okula göndermeyen veya göndermeme sebeplerini bildirmeyen veli veya vasilere **beş yüz Türk Lirası idari para cezası** verilir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14899,7 +14899,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (180 iş günü)**\n\n**222 Sayılı Kanun Madde 44:**\n- *'İlköğretim okullarında ders yılı süresi, derslerin başladığı günden kesildiği güne kadar, tatiller çıkarıldıktan sonra **en az 180 iş günüdür**.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14934,7 +14934,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (İç Denetçi)**\n\n**5018 Sayılı Kanun Madde 63 ve 64:**\n- İç denetim, kamu idaresinin çalışmalarına değer katmak ve geliştirmek için kaynakların ekonomiklik, etkililik ve verimlilik esaslarına göre yönetilip yönetilmediğini değerlendirmek üzere **İç Denetçiler** tarafından bağımsız ve tarafsızca yürütülür.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -14969,7 +14969,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (10 gün)**\n\n**4483 Sayılı Kanun Madde 9:**\n- *'Yetkili merciin soruşturma izni verilmesine veya verilmemesine ilişkin kararlarına karşı, kararın tebliğinden itibaren **on gün içinde** itiraz edilebilir.'*",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -15004,7 +15004,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Hizmet süresi şartı aranmaz)**\n\n**4688 Sayılı Kanun Madde 6:**\n- Sendika kurucusu olabilmek için kamu görevlisi olarak çalışmak yeterlidir; kanunda herhangi bir asgari kıdem veya yıl şartı öngörülmemiştir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -15039,7 +15039,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Kanun ile)**\n\n**5442 Sayılı Kanun Madde 2:**\n- İl ve ilçe kurulması, kaldırılması, merkezlerinin belirtilmesi, adlarının değiştirilmesi ve bir ilçenin başka bir ile bağlanması **KANUN ile** yapılır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -15074,7 +15074,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C (60 gün)**\n\n**3071 Sayılı Kanun Madde 8:**\n- TBMM Başkanlığına gönderilen dilekçeler Dilekçe Komisyonunca incelenir ve **altmış gün içinde** karara bağlanır.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -15109,7 +15109,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Personel Genel Müdürlüğü)**\n\n**1 Sayılı CBK Madde 313:**\n- **Personel Genel Müdürlüğü:** Bakanlığın personel politikası ve planlamasıyla ilgili çalışmaları yapmak, personelin atama, nakil, terfi, emeklilik ve benzeri özlük işlemlerini yürütmekle görevlidir.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -15144,7 +15144,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A (Teftiş Kurulu Başkanlığı)**\n\n**1 Sayılı CBK Madde 320:**\n- **Teftiş Kurulu Başkanlığı:** Bakanın emri veya onayı üzerine Bakanlığın merkez, taşra ve yurtdışı teşkilatı ile bağlı ve ilgili kuruluşlarının her türlü faaliyet ve işlemlerine ilişkin teftiş, inceleme ve soruşturma işlerini yürütür.",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -15179,7 +15179,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B (Kınama)**\n\n**657 Sayılı Kanun Madde 125/B-a:**\n- Kınama cezasını gerektiren fiil ve haller: *'Verilen emir ve görevlerin tam ve zamanında yapılmasında, görev mahallinde kurumlarca belirlenen usul ve esasların yerine getirilmesinde, görevle ilgili resmi belge, araç ve gereçlerin korunması, kullanılması ve bakımında **kusurlu davranmak**.'*\n- *(Not: Eğer 'kayıtsızlık göstermek veya düzensiz davranmak' ise Uyarma'dır).* ",
+    "explanation": "",
     "hasImage": false,
     "image": null
   },
@@ -15217,7 +15217,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>İlk Türk devletlerinde (Hazarlar hariç) ücretli askerlik anlayışı yoktur; ordu-millet anlayışı gereğince her fert asker kabul edilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q2",
@@ -15253,7 +15253,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Orta Asya'da kurulan ve Satuk Buğra Han (Abdülkerim) döneminde İslamiyet'i resmî din olarak kabul eden ilk Türk devleti Karahanlılar'dır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q3",
@@ -15289,7 +15289,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>İskân ve istimâlet politikaları, fethedilen gayrimüslim halkın gönlünü kazanarak bölgede kalıcı Osmanlı hâkimiyetini sağlamayı amaçlamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q4",
@@ -15325,7 +15325,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İlk Türk matbaasının kurulması (1727), basılan eserlerle Osmanlı'da kültürel ve fikrî gelişimin en önemli dönüm noktası olmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q5",
@@ -15361,7 +15361,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>II. Mahmut, Divan-ı Hümayun'u kaldırıp nazırlıklar (bakanlıklar) sistemini kurarak merkezi idareyi çağdaş kabine sistemine dönüştürmüştür."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q6",
@@ -15397,7 +15397,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I - Ergene Havzası)<br>Marmara Bölgesi'nde yer alan <strong>Ergene Havzası (I)</strong>, ortalama yükseltinin ve eğimin en az olduğu, yer şekillerinin sade ve düz olduğu bir alandır. Bu nedenle buradaki akarsular dar ve derin (çentik/kanyon) vadiler oluşturamaz; geniş tabanlı ve menderesli vadiler oluşturur. II (Küre Dağları/Kastamonu), III (İç Batı Anadolu), IV (Toroslar/Çukurova çevresi) ve V (Doğu Anadolu) gibi engebeli ve yüksek alanlarda ise akarsular dar ve derin vadiler kazarlar."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q7",
@@ -15433,7 +15433,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)<br>Türkiye'nin genç oluşumlu bir arazi yapısına sahip olması, aktif fay hatları ve tektonik kuşaklar üzerinde yer alması jeotermal (sıcak su) kaynaklarının ve potansiyelinin zengin olmasını sağlamıştır. Masif araziler ise eski, oturmuş kütleler olup jeotermal bakımından fakirdir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q8",
@@ -15469,7 +15469,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Dalyan)<br>Kom, Ağıl, Oba ve Yayla geçici köy altı yerleşmeleri olup temel ekonomik faaliyet <strong>hayvancılıktır</strong>. <strong>Dalyan</strong> yerleşmelerinde ise temel ekonomik faaliyet <strong>balıkçılıktır</strong> (su ürünleri)."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q9",
@@ -15505,7 +15505,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II - Çanakkale / Biga Yarımadası)<br>Türkiye'de rüzgâr enerjisi potansiyelinin en yüksek olduğu alanların başında Marmara ve Ege kıyıları, özellikle <strong>Çanakkale (II - Biga Yarımadası)</strong>, Balıkesir ve İzmir çevresi gelmektedir. Çanakkale Boğazı ve çevresi sürekli ve güçlü hava akımlarına açık olması nedeniyle rüzgâr enerjisi santralleri (RES) bakımından ülkemizin en verimli alanlarındandır.<br><br><strong>Haritada İşaretli Alanlar:</strong><br>• <strong>I:</strong> Kırklareli / İğneada<br>• <strong>II:</strong> Çanakkale / Biga Yarımadası (En Yüksek Rüzgâr Potansiyeli - Doğru Cevap)<br>• <strong>III:</strong> Teke Yarımadası / Antalya<br>• <strong>IV:</strong> Taşeli Platosu / Mersin (Anamur)<br>• <strong>V:</strong> Sinop / İnceburun"
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q10",
@@ -15541,7 +15541,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Milet Antik Kenti – İzmir)<br>Milet Antik Kenti İzmir'de değil, <strong>Aydın</strong> ili (Didim/Söke ilçesi sınırları) sınırları içerisinde yer almaktadır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q11",
@@ -15577,7 +15577,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Zigana Geçidi (Kalkanlı), Trabzon Limanı'nı Gümüşhane, Erzurum ve Doğu Anadolu'ya bağlayan en önemli tarihî geçittir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q12",
@@ -15613,7 +15613,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Doğu Karadeniz; yüksek eğim, bol yağış, killi zemin ve kar erimeleri nedeniyle Türkiye'de en fazla heyelanın görüldüğü alandır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q13",
@@ -15649,7 +15649,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Normlar hiyerarşisinin en tepesinde Anayasa yer alır (Anayasanın Üstünlüğü ve Bağlayıcılığı İlkesi - Madde 11)."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q14",
@@ -15685,7 +15685,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Anayasa m. 13'e göre temel hak ve hürriyetler yalnızca kanunla sınırlanabilir; idari işlemlerle (yönetmelik, genelge) sınırlandırılamaz."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q15",
@@ -15721,7 +15721,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Türk Konseyi (Türk Dili Konuşan Ülkeler İşbirliği Konseyi), İstanbul Zirvesi'nde alınan tarihi kararla 'Türk Devletleri Teşkilatı' adını almıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q16",
@@ -15757,7 +15757,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>1915 Çanakkale Köprüsü, 2023 metrelik ana açıklığı ile dünyanın en uzun orta açıklıklı asma köprüsüdür."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q17",
@@ -15793,7 +15793,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Trablusgarp Savaşı sonucunda imzalanan Uşi Antlaşması ile Osmanlı Devleti Kuzey Afrika'daki son toprağını kaybetmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q18",
@@ -15829,7 +15829,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Mondros'un 7. maddesi, tüm Anadolu'yu İtilaf Devletleri'nin keyfi işgaline açık hale getiren en tehlikeli maddedir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q19",
@@ -15865,7 +15865,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Bu madde Millî Mücadele'nin hem amacını hem de yöntemini (Millet iradesiyle bağımsızlığın kazanılması) belirleyen bir ihtilal bildirisi niteliğindedir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q20",
@@ -15901,7 +15901,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Misak-ı Millî bağımsızlık ve vatan sınırlarını çizmiştir; rejim değişikliği veya hilafet gibi iç politika konularına yer verilmemiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q21",
@@ -15937,7 +15937,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>I. TBMM döneminde siyasi partiler bulunmamış, sadece meclis içi gruplar yer almıştır. Çok partili rejim denemeleri cumhuriyet ilanından sonradır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q22",
@@ -15973,7 +15973,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Mustafa Kemal Paşa bu tarihi emri Sakarya Meydan Muharebesi'nde (1921) vermiş ve alan savunması stratejisiyle zafer kazanılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q23",
@@ -16009,7 +16009,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mudanya Ateşkes Antlaşması sayesinde Doğu Trakya, İstanbul ve Boğazlar tek bir kurşun sıkılmadan diplomatik başarıyla geri alınmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q24",
@@ -16045,7 +16045,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Lozan'da kapitülasyonlar kayıtsız şartsız kaldırılmış ve Türkiye tam ekonomik bağımsızlığına kavuşmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q25",
@@ -16081,7 +16081,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Tevhid-i Tedrisat Kanunu ile Türkiye sınırları içindeki tüm mektep ve medreseler MEB'e bağlanmış, eğitimde ikilik sona erdirilerek millî ve laik eğitim tesis edilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q26",
@@ -16117,7 +16117,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Halkçılık ilkesi; kanun önünde eşitlik, sınıf ayrımının reddi ve toplum yararına sosyal adaleti temel alır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q27",
@@ -16153,7 +16153,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Montrö Sözleşmesi ile Boğazlar Komisyonu kaldırılmış, Türkiye Boğazlarda asker bulundurma ve tam hâkimiyet hakkını elde etmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q28",
@@ -16189,7 +16189,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Sadabat Paktı (1937), Türkiye'nin doğu sınırlarının güvenliğini sağlamak amacıyla Türkiye, İran, Irak ve Afganistan arasında imzalanmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q29",
@@ -16225,7 +16225,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Ahlaki Muhakeme yaklaşımında (Kohlberg) öğrencilere ahlaki ikilem senaryoları sunulur ve öğrencilerin adalet/hak ekseninde akıl yürütmeleri sağlanır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q30",
@@ -16261,7 +16261,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Geleneksel düzeyin 4. evresi olan 'Kanun ve Düzen', toplumun devamı ve otoritenin korunması için yasalara koşulsuz itaati savunur."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q31",
@@ -16297,7 +16297,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kamu görevlileri vatandaşlar arasında dil, din, ırk ayrımı gözetmeksizin tarafsız, eşit ve dürüst hizmet sunmakla yükümlüdür."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q32",
@@ -16333,7 +16333,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Yönetimde görevlerin liyakat ve adil kriterlerle paylaştırılması adalet ve eşitlik ilkesinin bir sonucudur."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q33",
@@ -16369,7 +16369,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Öğrenen merkezli tasarımlarda (çocuk merkezli, yaşantı merkezli vb.) öğrencinin ilgi, gelişim seviyesi ve ihtiyaçları merkeze alınır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q34",
@@ -16405,7 +16405,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Öğretilen bilginin günlük hayattaki pratik kullanımıyla bağ kurulması 'Hayatilik (Yaşama Yakınlık)' ilkesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q35",
@@ -16441,7 +16441,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Tam öğrenme modelinde genel kabul gören başarı standardı en az %70'tir (veya 100 üzerinden 70 puan)."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q36",
@@ -16477,7 +16477,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5E modelinin 1. adımı 'Giriş / Odaklanma (Engage)' aşamasıdır; öğrencinin dikkatini çeker ve hazırbulunuşluğu ortaya çıkarır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q37",
@@ -16513,7 +16513,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Test maddelerinin hedeflenen konu ve kazanım evrenini tam ve dengeli olarak temsil etmesi 'Kapsam Geçerliği'dir (Belirtke tablosu ile sağlanır)."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q38",
@@ -16549,7 +16549,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Boy uzunluğu aynı türden bir birimle doğrudan ölçülürken; zeka, başarı ve tutum gibi psikolojik özellikler göstergeleri üzerinden dolaylı ölçülür."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q39",
@@ -16585,7 +16585,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğrencilerin yeni okul ortamına hızlı ve sağlıklı uyum sağlamasını hedefleyen rehberlik hizmetine 'Oryantasyon' denir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q40",
@@ -16621,7 +16621,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Önleyici modelde sorunlar oluşmadan önce çevresel düzenlemeler ve net kurallarla istenmeyen davranışların önüne geçilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q41",
@@ -16657,7 +16657,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Fayol'a göre yönetim süreçleri: Planlama (Planning), Örgütleme (Organizing), Yöneltme (Commanding), Eşgüdüm (Coordinating) ve Denetim (Controlling) dir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q42",
@@ -16693,7 +16693,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Bürokrasi kuramında kişisellik ve sübjektif ilişkiler reddedilir; gayrişahsilik, yazılı kurallar ve liyakat esastır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q43",
@@ -16729,7 +16729,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Y Kuramı insana güvenir; çalışanların özdenetim yapabildiğini, öğrenmeye açık ve yaratıcı olduğunu savunur."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q44",
@@ -16765,7 +16765,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Takım Liderliği (9.9), hem çalışanların memnuniyetine hem de örgütsel verimliliğe en üst düzeyde odaklanan ideal yönetim tarzıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q45",
@@ -16801,7 +16801,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Dönüşümcü liderlik; vizyon, karizma, yüksek motivasyon ve değişim yönetimi ile örgütü geleceğe taşır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q46",
@@ -16837,7 +16837,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Dağıtımcı liderlik, liderlik fonksiyonlarının örgüt üyeleri arasında iş birliğiyle paylaşılmasını savunur."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q47",
@@ -16873,7 +16873,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Schein'ın modelinde en dışta ve somut olarak gözlemlenebilen ögelere 'Artefaktlar (Gözlemlenebilir Yapay Öğeler)' denir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q48",
@@ -16909,7 +16909,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Açık iklimde hem yönetici desteği ve anlayışı yüksektir hem de öğretmenler arası iş doyumu ve moral en üst düzeydedir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q49",
@@ -16945,7 +16945,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Çağdaş denetim; hatayı cezalandıran değil, öğretmene rehberlik ederek öğrenme ve öğretme süreçlerini iyileştiren gelişimsel bir süreçtir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q50",
@@ -16981,7 +16981,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Klinik denetim (Goldhammer & Cogan); öğretmen ile denetmenin sınıftaki somut öğretim davranışlarını iyileştirmek için yürüttüğü döngüsel bir iş birliği modelidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q51",
@@ -17017,7 +17017,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İş birliği stratejisi; hem kendi çıkarlarını hem karşı tarafın çıkarlarını en üst düzeyde gözeterek ortak optimal çözüme ulaşır (Kazan - Kazan)."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q52",
@@ -17053,7 +17053,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>SWOT Analizi; örgütün iç dinamikleri (Güçlü/Zayıf) ile dış çevre koşullarını (Fırsat/Tehdit) ortaya koyar."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q53",
@@ -17089,7 +17089,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kaizen (Sürekli İyileştirme); tüm çalışanların katılımıyla süreçlerin adım adım ve kesintisiz iyileştirilmesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q54",
@@ -17125,7 +17125,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Örgütsel Vatandaşlık Davranışı (ÖVD), zorunlu olmayan ve doğrudan ödüllendirilmeyen ancak okulun etkililiğini artıran gönüllü olumlu davranışlardır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q55",
@@ -17161,7 +17161,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Örgütsel sessizlik; çalışanların korku, güvensizlik veya nafilelik inancıyla örgütle ilgili fikir ve eleştirilerini bilerek gizlemesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q56",
@@ -17197,7 +17197,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mesleki Öğrenme Toplulukları (PLC), öğretmenlerin sürekli öğrenme ve iş birliği odaklı oluşturduğu profesyonel çalışma gruplarıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q57",
@@ -17233,7 +17233,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Uzmanlık gücü (Expert Power), liderin özel bilgi, beceri ve deneyimlerinden kaynaklanan kişisel güç kaynağıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q58",
@@ -17269,7 +17269,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Değişime direnci kırmanın en sağlıklı ve kalıcı yolu; paydaşları sürece dahil etmek, eğitmek ve açık iletişim kurmaktır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q59",
@@ -17305,7 +17305,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kounin'e göre 'Momentum (Akıcılık)'; dersin gereksiz duraklamalar olmadan canlı, tempolu ve akıcı sürdürülmesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q60",
@@ -17341,7 +17341,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kriz anında birincil öncelik can güvenliğinin sağlanması, ardından panik yaratmadan kriz masasıyla tek elden doğru iletişimin yürütülmesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q61",
@@ -17377,7 +17377,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğretim liderliği; doğrudan müfredatın uygulanması, öğretimin kalitesi ve öğrenci kazanımlarının izlenmesine odaklanan liderliktir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q62",
@@ -17413,7 +17413,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mali hesap verebilirlik; kamu kaynaklarının mevzuata uygun, etkili ve şeffaf harcanmasının raporlanmasıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q63",
@@ -17449,7 +17449,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Empatik dinleme, konuşmacının duygu ve düşüncelerini onun bakış açısından tam olarak anlamaya yönelik saygılı dinleme biçimidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q64",
@@ -17485,7 +17485,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mentorluk; deneyimli bir profesyonelin daha az deneyimli bir meslektaşına bilgi, beceri ve deneyim aktararak destek olmasıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q65",
@@ -17521,7 +17521,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>2017 Anayasa değişikliği ile TBMM üye tamsayısı 550'den 600 milletvekiline çıkarılmıştır (Madde 75)."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q66",
@@ -17557,7 +17557,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>Anayasa m. 104'e göre olağan dönem CBK'ları ile kişi hakları ve siyasi haklar düzenlenemez; sadece sosyal ve ekonomik haklar düzenlenebilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q67",
@@ -17593,7 +17593,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>657 sayılı DMK Madde 94'e göre; mezuniyetsiz veya kurumlarınca kabul edilen mazereti olmaksızın görevin terk edilmesi ve bu terkin kesintisiz 10 gün devam etmesi halinde memur çekilmiş sayılır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q68",
@@ -17629,7 +17629,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>657 sayılı DMK m. 104/B bendi uyarınca memura, eşinin doğum yapması halinde isteği üzerine 10 gün babalık mazeret izni verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q69",
@@ -17665,7 +17665,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 sayılı Kanun Madde 4: 'Genellik ve Eşitlik' ilkesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q70",
@@ -17701,7 +17701,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>1739 sayılı Kanun Madde 43'e göre öğretmenlik formasyonu yükseköğretim düzeyinde verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q71",
@@ -17737,7 +17737,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>222 sayılı Kanun Madde 3: Mecburi ilköğretim çağı 6-14 yaş grubunu kapsar (6 yaşını bitirdiği yılın eylül ayı sonundan başlar, 14 yaşını bitirip 15 yaşına bastığı yılın öğretim yılı sonunda biter)."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q72",
@@ -17773,7 +17773,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>222 sayılı Kanun Madde 44: İlköğretim okullarında bir öğretim yılı en az 180 iş günüdür."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q73",
@@ -17809,7 +17809,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5018 sayılı Kanun Madde 31: Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi 'Harcama Yetkilisi'dir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q74",
@@ -17845,7 +17845,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>4483 sayılı Kanun Madde 3/a: İlçede görevli memurlar ve diğer kamu görevlileri hakkında soruşturma izni vermeye yetkili merci Kaymakamdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q75",
@@ -17881,7 +17881,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>4688 sayılı Kanun Madde 10: Sendika ve konfederasyonların olağan genel kurulları en geç 4 yılda bir toplanır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q76",
@@ -17917,7 +17917,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>5442 sayılı Kanun Madde 9: İlde devletin ve Cumhurbaşkanının temsilcisi ve idari yürütme vasıtası Validir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q77",
@@ -17953,7 +17953,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>3071 sayılı Kanun Madde 7: Dilekçe sahiplerine en geç 30 gün içinde gerekçeli olarak cevap verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q78",
@@ -17989,7 +17989,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK Madde 319: Talim ve Terbiye Kurulu Başkanlığı, Bakanlığın bilimsel danışma ve karar organıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q79",
@@ -18025,7 +18025,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK Madde 305: Okul öncesi ve ilköğretim kurumlarının yönetim ve öğretim süreçleri Temel Eğitim Genel Müdürlüğü'nün görevidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2022_q80",
@@ -18061,7 +18061,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>657 sayılı Kanun Madde 126: Kademe ilerlemesinin durdurulması cezası İl Disiplin Kurulu kararıyla, memurluktan çıkarma cezası ise Yüksek Disiplin Kurulu kararıyla verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q1",
@@ -18095,7 +18095,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kut Anlayışı)<br>İlk Türk devletlerinde devleti yönetme yetkisinin Gök Tengri (Tanrı) tarafından kağan ve ailesine verildiğine inanılan anlayışa <strong>Kut</strong> adı verilir. Kut'un kan yoluyla babadan oğula geçtiğine inanılması, hanedanın tüm erkek üyelerinin tahtta hak iddia etmesine ve sık sık taht kavgaları yaşanmasına yol açmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q2",
@@ -18129,7 +18129,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Malazgirt Meydan Muharebesi)<br>26 Ağustos 1071 tarihinde Sultan Alparslan komutasındaki Büyük Selçuklu ordusu ile Bizans İmparatoru Romen Diyojen'in ordusu arasında gerçekleşen <strong>Malazgirt Meydan Muharebesi</strong> zaferiyle Anadolu'nun kapıları Türklere açılmış ve I. Beylikler dönemi başlamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q3",
@@ -18163,7 +18163,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Has)<br>Dirlik toprakları gelirlerine göre üçe ayrılır:<br>• <strong>Has:</strong> Yıllık geliri 100.000 akçeden fazla olan, padişah ve üst düzey devlet ricaline tahsis edilen topraklardır.<br>• <strong>Zeamet:</strong> Geliri 20.000 ile 100.000 akçe arasındaki orta düzey görevlilere verilir.<br>• <strong>Tımar:</strong> Geliri 20.000 akçeye kadar olan ve asker yetiştirmekle yükümlü olan görevlilere verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q4",
@@ -18197,7 +18197,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Gülhane Parkı'nda Sadrazam Mustafa Reşit Paşa tarafından okunan <strong>Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu)</strong> ile Osmanlı padişahı Abdülmecid, kendi gücünün üstünde kanun gücünün bulunduğunu kabul etmiş, böylece anayasal düzene ve hukukun üstünlüğüne geçişin ilk büyük adımı atılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q5",
@@ -18231,7 +18231,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Malikâne Sistemi)<br>1695 yılında uygulamaya konulan <strong>Malikâne Sistemi</strong>, mukataaların ömür boyu ihale edilmesidir. Bu sistemle devlet hazinesine peşin gelir sağlanmış, ancak uzun vadede yerel güçlerin (âyanların) güçlenmesine zemin hazırlamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q6",
@@ -18265,7 +18265,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)<br>• <strong>Dört mevsimin belirgin olarak yaşanması (I)</strong>, Türkiye'nin 36°-42° Kuzey enlemlerinde, yani <strong>Orta Kuşak'ta (Mutlak/Matematik Konum)</strong> yer almasının doğrudan sonucudur.<br>• Batıdan doğuya sıcaklığın düşmesi (II) ve ortalama yükseltinin fazla olması (III) ise Türkiye'nin <strong>Özel (Göreceli) Konumu</strong> ile ilgilidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q7",
@@ -18299,7 +18299,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Seyfe Gölü)<br><strong>Seyfe Gölü</strong>, İç Anadolu Bölgesi'nde <strong>Kırşehir</strong> ili sınırları içinde yer alan ve Ramsar Sözleşmesi ile koruma altında olan önemli bir sığ tuzlu göl/sulak alandır. Erçek, Nazik, Arin ve Haçlı gölleri ise Doğu Anadolu'da Van Gölü havzası ve çevresinde yer alan volkanik set/tektonik göllerdir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q8",
@@ -18333,7 +18333,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Çoruh - Kelkit Oluğu)<br>Kuzey Anadolu Fay Kuşağı üzerinde yer alan <strong>Çoruh-Kelkit Vadisi/Oluğu</strong>, kış şartlarının sertliği, arazinin çok engebeli ve dağlık olması, tarım arazilerinin darlığı ve ulaşımın zorluğu nedeniyle Ege grabenleri (Bakırçay, Gediz, Edremit) ve Hatay-Maraş grabenine kıyasla oldukça <strong>seyrek nüfuslanmış</strong> bir alandır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q9",
@@ -18369,7 +18369,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I - Güney Marmara / Balıkesir-Kütahya-Eskişehir)<br>Dünya toplam bor rezervlerinin yaklaşık %73'ü Türkiye'de bulunmaktadır. Ülkemizdeki bor tuzu yatakları <strong>I numaralı alanda</strong> (Balıkesir/Bigadiç-Bandırma, Bursa/Mustafakemalpaşa, Kütahya/Emet ve Eskişehir/Seyitgazi) toplanmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q10",
@@ -18405,7 +18405,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II - Kıyı Ege / Büyük Menderes Havzası - Aydın/İzmir)<br>Kıyı Ege graben ovalarında (II numaralı alan) Akdeniz iklimi, alüvyal verimli topraklar ve sulama olanakları sayesinde pamuk, tütün, zeytin, üzüm, incir ve turunçgil gibi ekonomik değeri yüksek (ticari/ihracatlık) tarım ürünleri en zengin çeşitliliğe sahiptir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q11",
@@ -18439,7 +18439,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı)<br>1982 Anayasası madde 118 uyarınca, Millî Güvenlik Kurulu (MGK) <strong>Cumhurbaşkanının</strong> başkanlığında toplanır. Cumhurbaşkanının katılamadığı hallerde ise MGK, Cumhurbaşkanı Yardımcısının başkanlığında toplanır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q12",
@@ -18473,7 +18473,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (13 Üye)<br>1982 Anayasası madde 159'a göre, Hâkimler ve Savcılar Kurulu <strong>13 üyeden</strong> oluşur ve 2 daire halinde çalışır. Kurulun başkanı Adalet Bakanı, tabii üyesi ise Adalet Bakanlığı İlgili Bakan Yardımcısıdır. Kalan 11 üyenin 4'ünü Cumhurbaşkanı, 7'sini TBMM seçer."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q13",
@@ -18507,7 +18507,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Vatan Hizmeti)<br>1982 Anayasası'nda 'Siyasi Haklar ve Ödevler' (Aktif Statü Hakları) bölümünde yer alan haklar şunlardır: Türk vatandaşlığı, Seçme ve seçilme hakkı, Siyasi parti kurma/üye olma, Kamu hizmetine girme hakkı, <strong>Vatan hizmeti (madde 72)</strong>, Vergi ödevi ve Dilekçe/bilgi edinme hakkı."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q14",
@@ -18541,7 +18541,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Mevzu Hukuk)<br>• <strong>Mevzu Hukuk (Mevzuat):</strong> Bir ülkede yetkili makamlar tarafından yürürlüğe konulmuş sadece <strong>yazılı</strong> hukuk kurallarının tümüdür.<br>• <strong>Pozitif Hukuk:</strong> Yazılı kurallarla birlikte yazısız kuralları (örf-âdet) da kapsayan yürürlükteki tüm hukuktur."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q15",
@@ -18575,7 +18575,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yunus Emre)<br>Vefatının 700. yılı olması nedeniyle 2021 yılı, UNESCO ve Cumhurbaşkanlığı genelgesi ile <strong>'Yunus Emre ve Türkçe Yılı'</strong> (Bizim Yunus) olarak ilan edilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q16",
@@ -18609,7 +18609,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (İMECE)<br>TÜBİTAK UZAY tarafından tasarlanıp üretilen ve metre altı çözünürlüğe sahip Türkiye'nin ilk yerli ve millî elektro-optik yer gözlem uydusu <strong>İMECE</strong>'dir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q17",
@@ -18643,7 +18643,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kafkas Cephesi Osmanlı'nın taarruz cephesidir ve 1918 Brest-Litovsk Antlaşması ile Kars, Ardahan ve Batum (Elviye-i Selase) geri alınmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q18",
@@ -18677,7 +18677,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Sivas Kongresi'nde tüm bölgesel millî cemiyetler 'Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti' (A-RMHC) adı altında birleştirilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q19",
@@ -18711,7 +18711,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Bu madde Kurtuluş Savaşı'nın hem amacını (milletin bağımsızlığı) hem de yöntemini (milletin azim ve kararı) belirten ihtilal beyannamesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q20",
@@ -18745,7 +18745,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>28 Ocak 1920'de Mebusan Meclisi'nde kabul edilen Misakımillî (Millî Ant), vatanın bölünmez sınırlarını ilan etmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q21",
@@ -18779,7 +18779,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Yeni bir devlet teşkilatı kurup ilk anayasayı (1921 Teşkilat-ı Esasiye) hazırlayıp yürürlüğe koyması I. Meclis'in 'Kurucu Meclis' vasfını gösterir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q22",
@@ -18813,7 +18813,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>26-30 Ağustos 1922 Büyük Taarruz / Başkomutanlık Meydan Muharebesi ile Yunan ordusu imha edilmiş ve 9 Eylül'de İzmir kurtarılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q23",
@@ -18847,7 +18847,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Lozan'da Boğazlar silahsızlandırılmış ve başkanı Türk olan uluslararası bir komisyona bırakılmıştır. 1936 Montrö ile komisyon kaldırılıp egemenlik tam olarak Türkiye'ye geçmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q24",
@@ -18881,7 +18881,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Tevhid-i Tedrisat (Öğretim Birliği) Kanunu ile eğitimde ikilik kaldırılmış ve tüm okullar MEB çatısı altında birleştirilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q25",
@@ -18915,7 +18915,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1926 Medeni Kanunu ile kadınlara sosyal, hukuki ve ekonomik haklar verilmiştir; siyasi haklar ise 1930 (Belediye), 1933 (Muhtarlık) ve 1934'te (Milletvekilliği) verilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q26",
@@ -18949,7 +18949,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1929 Dünya Ekonomik Buhranı sonrasında özel sektörün yetersiz kalması üzerine devlet ekonomiye doğrudan müdahale etmiş ve I. Beş Yıllık Sanayi Planı uygulanmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q27",
@@ -18983,7 +18983,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1938'de kurulan Bağımsız Hatay Cumhuriyeti'nin Cumhurbaşkanı Tayfur Sökmen, Başbakanı Abdurrahman Melek, Meclis Başkanı ise Abdülgani Türkmen'dir. Hatay 1939'da Türkiye'ye katılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q28",
@@ -19017,7 +19017,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Türkiye, dünya barışına katkı sunmak amacıyla davet üzerine 18 Temmuz 1932 tarihinde Milletler Cemiyeti'ne üye olmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q29",
@@ -19051,7 +19051,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5176 sayılı Kanun madde 1 uyarınca; Cumhurbaşkanı, TBMM üyeleri, Bakanlar Kurulu/Bakanlar, yargı mensupları ve TSK personeli Etik Kurulu görev alanı dışındadır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q30",
@@ -19085,7 +19085,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mesleki etik, kamu görevlilerinin topluma hizmet sunarken uyması gereken ahlaki kurallar ve tarafsızlık standartları bütünüdür."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q31",
@@ -19119,7 +19119,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Geleneksel düzeyin ilk basamağı olan 'İyi Çocuk Eğilimi' evresinde birey, akranları ve çevresi tarafından onaylanmak, sevilmek ve takdir edilmek için kurallara uyar."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q32",
@@ -19153,7 +19153,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Raths ve Simon tarafından geliştirilen 'Değer Belirginleştirme' yaklaşımında bireyin seçme, ödüllendirme ve davranma basamaklarından geçerek kendi değer sistemini oluşturması amaçlanır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q33",
@@ -19187,7 +19187,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Taba ve Dewey'in öncülük ettiği çocuk merkezli tasarımda program öğrencinin yaşantıları, ihtiyaçları ve anlık ilgilerine göre şekillenir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q34",
@@ -19221,7 +19221,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Yapılandırmacılıkta (Constructivism) öğretmen rehber (fasilitatör), öğrenci ise bilgiyi aktif deneyim ve etkileşimle inşa eden kişidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q35",
@@ -19255,7 +19255,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Yenilenmiş taksonominin en üst basamağı 'Yaratma'dır (Creating); parçaları bir araya getirerek yeni ve özgün bir ürün oluşturmayı ifade eder."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q36",
@@ -19289,7 +19289,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Bir testin amacına hizmet etme derecesi ve ölçmek istediği özelliği hatasız ölçmesi 'Geçerlik'tir. Sabit ve sistematik hatalar doğrudan geçerliği düşürür."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q37",
@@ -19323,7 +19323,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Test-tekrar test yöntemiyle elde edilen benzer puanlar, testin tesadüfi hatalardan arınık olduğunu ve 'Kararlı/Güvenilir' olduğunu gösterir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q38",
@@ -19357,7 +19357,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Probleme Dayalı Öğrenme (PBL), karmaşık ve gerçek yaşam senaryoları üzerinden öğrencilerin eleştirel düşünme ve araştırma becerilerini geliştirir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q39",
@@ -19391,7 +19391,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Gelişimsel rehberlik modeli tüm öğrencilerin gelişimsel ihtiyaçlarını destekler, önleyici ve proaktiftir; gizlilik ve gönüllülük esastır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q40",
@@ -19425,7 +19425,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Sınıf yönetiminde kademeli müdahale esastır; ilk adım sözsüz uyarı (göz teması, fiziksel yakınlık) veya geçici söndürmedir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q41",
@@ -19459,7 +19459,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Fayol'un Yönetim Süreçleri Kuramı (POCCC modeli): Planlama (Plan), Örgütleme (Organize), Yöneltme/Emir (Command), Eşgüdüm (Coordinate) ve Kontrol/Denetim (Control)."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q42",
@@ -19493,7 +19493,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Weber'in ideal bürokrasi modeli; liyakat, hiyerarşi, yazılı kurallar, görev ayrımı ve gayrişahsilik (nesnellik) ilkelerine dayanır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q43",
@@ -19527,7 +19527,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>X Kuramı insanı tembel ve zorlanması gereken bir varlık olarak görürken; Y Kuramı insanı çalışmayı seven, özdenetimli ve sorumluluk alan olumlu bir varlık olarak görür."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q44",
@@ -19561,7 +19561,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Grid modelinde (9,9) 'Takım Yönetimi'dir; hem yüksek üretim hem yüksek çalışan memnuniyeti hedeflenir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q45",
@@ -19595,7 +19595,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Dönüşümcü liderlik; vizyon oluşturma, entelektüel uyarım, ilham verici motivasyon ve bireysel ilgi bileşenlerinden oluşur."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q46",
@@ -19629,7 +19629,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Dağıtılmış (Distributed) liderlik, liderliğin okul örgütünün geneline yayıldığını ve kolektif bir sorumluluk olduğunu vurgular."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q47",
@@ -19663,7 +19663,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Edgar Schein'ın Kurum Kültürü Modeli'nde en dıştaki görünür katman 'Yapay Olgular / Artifaktlar'dır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q48",
@@ -19697,7 +19697,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Halpin ve Croft'un modelinde 'Açık İklim' en sağlıklı iklim türüdür; yüksek moralli, açık iletişimli ve destekleyicidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q49",
@@ -19731,7 +19731,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Çağdaş klinik ve gelişimsel denetim; hata bulucu değil, öğretimsel rehberlik ve mesleki gelişimi destekleyici bir süreçtir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q50",
@@ -19765,7 +19765,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Goldhammer ve Cogan tarafından geliştirilen Klinik Denetim, öğretim sürecini sınıfta gözlem ve yapıcı geri bildirimle geliştirmeyi hedefler."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q51",
@@ -19799,7 +19799,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Thomas-Kilmann çatışma modelinde hem kendine hem karşı tarafa yüksek önem veren stil 'İş Birliği' (Collaborating / Kazan-Kazan) yaklaşımıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q52",
@@ -19833,7 +19833,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Misyon kurumun varoluş nedenini (bugününü), Vizyon ise kurumun gelecekte ulaşmak istediği arzulanan resmi (yarınını) ifade eder."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q53",
@@ -19867,7 +19867,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>TKY'de kalite sürecin içinde üretilir ve temel felsefe hataları oluşmadan kaynağında engellemektir (Sıfır Hata)."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q54",
@@ -19901,7 +19901,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Organ'a göre Örgütsel Vatandaşlık; resmî ödül sistemiyle doğrudan zorunlu kılınmayan, kurumun işleyişini destekleyen gönüllü ekstra davranışlardır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q55",
@@ -19935,7 +19935,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Katılımcı yönetim, karar kalitesini ve çalışanların kararları sahiplenme düzeyini en üst seviyeye çıkarır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q56",
@@ -19969,7 +19969,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Profesyonel / Mesleki Öğrenme Toplulukları (PLC), ortak vizyon, iş birliği ve öğrenci öğrenmesine odaklanan sürdürülebilir gelişim gruplarıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q57",
@@ -20003,7 +20003,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>French ve Raven güç kaynakları sınıflamasında, bireyin sahip olduğu özel bilgi ve beceriden kaynaklanan güç 'Uzmanlık Gücü'dür."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q58",
@@ -20037,7 +20037,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Değişim yönetiminde (Kotter Modeli) ilk adım aciliyet hissi yaratmak ve paydaşlarla şeffaf iletişim kurarak güven inşa etmektir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q59",
@@ -20071,7 +20071,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Etkili zaman yönetiminde önemsiz ve devredilebilir işlerin astlara devredilmesi (delegasyon), yöneticinin stratejik hedeflere odaklanmasını sağlar."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q60",
@@ -20105,7 +20105,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kriz anında birincil öncelik insan hayatı ve can güvenliğidir; ardından önceden hazırlanmış Kriz Eylem Planı işletilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q61",
@@ -20139,7 +20139,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğretimsel Liderlik (Instructional Leadership), okul müdürünün öğretim programı, öğretmen gelişimi ve öğrenci öğrenmesini merkeze almasıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q62",
@@ -20173,7 +20173,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Sıfır Tabanlı Bütçeleme sisteminde geçmiş bütçeler otomatik olarak baz alınmaz; her harcama kalemi baştan gerekçelendirilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q63",
@@ -20207,7 +20207,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Empatik dinleme, konuşmacının dünyasına girerek onu yargılamadan tam olarak anlama becerisidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q64",
@@ -20241,7 +20241,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mentorluk, mesleğe yeni başlayan veya gelişime ihtiyaç duyan bireye rehberlik eden deneyimli uzmanın sunduğu birebir destek sürecidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q65",
@@ -20275,7 +20275,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası madde 75 uyarınca TBMM 600 milletvekilinden oluşur."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q66",
@@ -20309,7 +20309,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Anayasa m. 104 uyarınca kanunda açıkça düzenlenen konularda CBK çıkarılamaz."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q67",
@@ -20343,7 +20343,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 sayılı Kanun m. 94 uyarınca kesintisiz 10 gün göreve gelmeyen memur çekilmiş sayılır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q68",
@@ -20377,7 +20377,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 104/B uyarınca eşi doğum yapan memura isteği üzerine 10 gün babalık mazeret izni verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q69",
@@ -20411,7 +20411,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 m. 4 Genellik ve Eşitlik ilkesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q70",
@@ -20445,7 +20445,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 m. 43 uyarınca öğretmenlik devletin eğitim ve yönetim görevlerini üstlenen özel bir ihtisas mesleğidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q71",
@@ -20479,7 +20479,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>222 sayılı Kanun m. 3 uyarınca mecburi ilköğretim çağı 6-14 yaş grubundaki çocukları kapsar."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q72",
@@ -20513,7 +20513,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>222 m. 44 uyarınca ders yılı en az 180 iş günüdür."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q73",
@@ -20547,7 +20547,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5018 m. 18 uyarınca Cumhurbaşkanı bütçe teklifini mali yılbaşından en az 75 gün önce TBMM'ye sunar."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q74",
@@ -20581,7 +20581,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>4483 m. 3/a uyarınca ilçede görevli memurlar hakkında soruşturma izni yetkisi Kaymakama aittir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q75",
@@ -20615,7 +20615,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>4688 sayılı Kanun'da yapılan değişiklikle sendika kuruculuğu için geçmişteki 2 yıl hizmet şartı kaldırılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q76",
@@ -20649,7 +20649,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5442 m. 9 uyarınca Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q77",
@@ -20683,7 +20683,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>3071 m. 7 uyarınca dilekçelere en geç 30 gün içinde cevap verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q78",
@@ -20717,7 +20717,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 317 uyarınca öğretmen atama ve özlük işlemlerini Personel Genel Müdürlüğü yürütür."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q79",
@@ -20751,7 +20751,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 320 uyarınca eğitim programlarını hazırlama ve ders kitaplarını onaylama görevi Talim ve Terbiye Kuruluna aittir."
+    "explanation": ""
   },
   {
     "id": "ekys_2021_q80",
@@ -20785,7 +20785,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 135 uyarınca disiplin cezalarına karşı itiraz süresi tebliğden itibaren 7 gündür."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q1",
@@ -20819,7 +20819,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Ribat)<br>İlk Müslüman Türk devleti olan Karahanlılar tarafından sınır güvenliğini sağlamak ve kervanların güvenle konaklamasını temin etmek amacıyla inşa edilen kervansaray tipi korunaklı yapılara <strong>Ribat</strong> adı verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q2",
@@ -20853,7 +20853,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Ali Kuşçu)<br>Semerkant Rasathanesi müdürlüğü yapmış olan <strong>Ali Kuşçu</strong>, Fatih Sultan Mehmet döneminde İstanbul'a gelmiş, Ayasofya Medresesi başmüderrisliğine getirilmiş ve Osmanlı'da astronomi ile matematiğin temellerini atmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q3",
@@ -20887,7 +20887,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Şeyh / Pir)<br>Osmanlı Lonca teşkilatında manevi ve mesleki en üst otorite <strong>Şeyh (Pir)</strong>'tir. Şeyhin altında idari işleri yürüten Kethüda, disiplin ve güvenliği sağlayan Yiğitbaşı ve kalite kontrolü yapan Ehl-i Hibre yer alırdı."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q4",
@@ -20921,7 +20921,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Nizam-ı Cedid)<br>III. Selim'in askeri, idari ve mali alanda yaptığı yeniliklerin tümüne ve Fransız tarzında kurulan modern orduya <strong>Nizam-ı Cedid</strong> adı verilmiştir. Bu ordunun masraflarını karşılamak için İrad-ı Cedid hazinesi kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q5",
@@ -20955,7 +20955,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Hamidiye Alayları)<br>1891 yılında II. Abdülhamit tarafından Doğu Anadolu'daki aşiretlerin devlete bağlılığını artırmak ve dış kışkırtmalara karşı sınır güvenliğini sağlamak amacıyla <strong>Hamidiye Hafif Süvari Alayları</strong> kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q6",
@@ -20989,7 +20989,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br>• <strong>Kızılırmak - Bafra Deltası:</strong> Doğru.<br>• <strong>Gediz - Menemen Deltası:</strong> Doğru.<br>• Silifke Deltası'nı Göksu Nehri oluşturur (Aksu değil).<br>• Çarşamba Deltası'nı Yeşilırmak Nehri oluşturur (Filyos değil)."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q7",
@@ -21025,7 +21025,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I - Yıldız Dağları / Trakya)<br>Türkiye'de Kuaterner (IV. Zaman) buzul izlerine rastlanabilmesi için dağların ortalama 2200-2500 metrenin üzerinde olması gerekir. <strong>Yıldız Dağları (I)</strong> ortalama 1000 metre civarında olduğundan hiçbir buzul veya sirk şekli barındırmaz. Uludağ (II), Beydağları (III), Aladağlar/Bolkar (IV) ve Kaçkarlar (V) ise belirgin buzul şekillerine sahiptir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q8",
@@ -21059,7 +21059,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)<br>Türkiye'de iç göçlere öncelikle çalışma çağındaki genç-erkek nüfus katılmakta ve temel itici-çekici güç ekonomik refah arayışıdır. Göç veren kırsal yerlerde genç nüfus azaldığı için yaşlı nüfus oranı azalmaz, tam tersine <strong>artar</strong>."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q9",
@@ -21093,7 +21093,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Bulgaristan)<br>Kırklareli il sınırlarında yer alan <strong>Dereköy Sınır Kapısı</strong>, Türkiye ile <strong>Bulgaristan</strong> arasındaki kara yolu sınır geçiş noktalarından biridir (diğerleri Kapıkule ve Hamzabeyli'dir)."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q10",
@@ -21127,7 +21127,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Cankurtaran Geçidi)<br>Artvin'in Hopa kıyısı ile Borçka/Artvin iç kesimi arasında ulaşımı sağlayan geçit <strong>Cankurtaran Geçidi</strong>'dir. Gülek, Sertavul, Çubuk ve Belen geçitleri ise Akdeniz Bölgesi'nde (Toroslar) yer almaktadır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q11",
@@ -21161,7 +21161,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Cumhuriyet Senatosu)<br><strong>Cumhuriyet Senatosu</strong> 1961 Anayasası'nda yer alan çift meclisli sistemin bir parçasıydı; 1982 Anayasası tek meclisli TBMM sistemini benimsediği için Cumhuriyet Senatosu'na yer verilmemiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q12",
@@ -21195,7 +21195,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Anayasa Mahkemesi)<br>1982 Anayasası madde 69 uyarınca, siyasi partilerin kapatılması davaları Yargıtay Cumhuriyet Başsavcılığının açtığı dava üzerine <strong>Anayasa Mahkemesi</strong> tarafından kesin olarak karara bağlanır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q13",
@@ -21229,7 +21229,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br>Bakanlar Cumhurbaşkanı tarafından milletvekili seçilme yeterliliğine sahip kişiler arasından (meclis içinden veya dışından) atanır. Milletvekili iken bakan atananların milletvekilliği sona erer."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q14",
@@ -21263,7 +21263,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Maddi Yaptırım)<br>Din ve ahlak kuralları manevi yaptırımlıyken (ayıplanma, günah vb.); hukuk kuralları arkasında kamu gücü ve devlet zorlama yetkisi (ceza, cebri icra, tazminat, hükümsüzlük) bulunan <strong>maddi yaptırımlı</strong> kurallardır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q15",
@@ -21297,7 +21297,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Gaziantep)<br>TEKNOFEST Havacılık, Uzay ve Teknoloji Festivali, İstanbul dışındaki ilk organizasyonunu Eylül 2020'de <strong>Gaziantep</strong> Ortadoğu Fuar Merkezi'nde gerçekleştirmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q16",
@@ -21331,7 +21331,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Göbeklitepe)<br>Şanlıurfa il merkezinin 18 km kuzeydoğusunda yer alan ve yaklaşık 12.000 yıllık geçmişiyle dünyanın bilinen en eski kült yapılar topluluğu olan alan <strong>Göbeklitepe</strong>'dir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q17",
@@ -21365,7 +21365,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mustafa Kemal I. Dünya Savaşı'nda sırasıyla Çanakkale (1915), Kafkas (1916) ve Suriye-Filistin (1917-1918) cephelerinde görev yapmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q18",
@@ -21399,7 +21399,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Manda ve himayenin reddedilmesi Türk milletinin hiçbir yabancı devletin güdümüne girmeyeceğini ve 'Tam Bağımsızlık' hedefini ortaya koyar."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q19",
@@ -21433,7 +21433,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kazım Karabekir komutasındaki Doğu Cephesi zaferi sonrası 3 Aralık 1920'de Ermenistan ile Gümrü Antlaşması imzalanmış ve Misakımillî'yi tanıyan ilk devlet Ermenistan olmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q20",
@@ -21467,7 +21467,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>I. İnönü zaferi sonrası TBMM 23 Şubat - 12 Mart 1921 Londra Konferansı'na davet edilmiş ve TBMM İtilaf Devletleri tarafından resmen ve hukuken tanınmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q21",
@@ -21501,7 +21501,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Eskişehir-Kütahya yenilgisinin ardından meclisteki tartışmalar sonucunda 5 Ağustos 1921'de Başkomutanlık Kanunu çıkarılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q22",
@@ -21535,7 +21535,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>20 Ekim 1921 Ankara Antlaşması ile Fransa işgal ettiği güney topraklarından çekilmiş ve Hatay hariç güney sınırımız çizilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q23",
@@ -21569,7 +21569,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>11 Ekim 1922 Mudanya Mütarekesi ile Doğu Trakya, Boğazlar ve İstanbul savaş yapılmadan diplomatik yolla kurtarılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q24",
@@ -21603,7 +21603,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Lozan Antlaşması madde 28 ile adli, mali ve idari kapitülasyonların tamamı kayıtsız şartsız ilga edilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q25",
@@ -21637,7 +21637,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Saltanatın kaldırılması milli egemenliğin tek temsilcisinin meclis olmasını sağladığı için doğrudan Cumhuriyetçilik ve Halkçılık ilkeleriyle ilgilidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q26",
@@ -21671,7 +21671,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kazım Karabekir, Rauf Orbay, Ali Fuat Cebesoy ve Refet Bele tarafından 17 Kasım 1924'te kurulan ilk muhalefet partisi Terakkiperver Cumhuriyet Fırkası'dır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q27",
@@ -21705,7 +21705,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Türk kadınına tanınan siyasi haklar Cumhuriyetçilik ve Halkçılık ilkelerinin gereği olarak tamamlanmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q28",
@@ -21739,7 +21739,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Soyadı Kanunu toplumda sınıf ve ayrıcalıkları kaldırıp kanun önünde eşitliği sağladığı için doğrudan Halkçılık ilkesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q29",
@@ -21773,7 +21773,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5176 sayılı Kanun m. 5 uyarınca Etik Kurulu kararları ilgili makama bildirilir ve gerek görülürse Resmî Gazete yoluyla kamuoyuna duyurulur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q30",
@@ -21807,7 +21807,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Çıkar çatışması; kamu görevlilerinin kamu görevlerini tarafsız ve objektif şekilde icra etmelerini etkileyen her türlü menfaat ilişkisidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q31",
@@ -21841,7 +21841,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Gelenek sonrası düzeyde ahlaki yargılar evrensel insan hakları, adalet ve vicdan ilkeleri üzerinden şekillenir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q32",
@@ -21875,7 +21875,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Bandura'nın sosyal öğrenme kuramına göre değerler en kalıcı şekilde rol model alma ve örtük program yoluyla içselleştirilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q33",
@@ -21909,7 +21909,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Programın 4 temel ögesi vardır: Hedef (Niçin?), İçerik (Ne?), Eğitim Durumları/Süreç (Nasıl?), Değerlendirme (Ne kadar?)."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q34",
@@ -21943,7 +21943,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Gagne'nin 9 adımlı öğretim modelinin ilk adımı 'Dikkati Çekme'dir (Gain attention)."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q35",
@@ -21977,7 +21977,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Ünite sonlarında yapılan izleme testleri formatif değerlendirmedir; amacı not vermek değil, öğrenme eksikliklerini anında tespit edip tamamlamaktır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q36",
@@ -22011,7 +22011,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Bir test maddesinin ayırt ediciliği ve varyansı madde güçlüğü $p = 0.50$ olduğunda maksimuma çıkar ($S_x^2 = p \\cdot q = 0.25$)."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q37",
@@ -22045,7 +22045,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Osborn tarafından geliştirilen beyin fırtınasında temel kural; kısa sürede çok sayıda özgün fikir üretmek ve fikir üretimi esnasında eleştiriyi kesinlikle yasaklamaktır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q38",
@@ -22079,7 +22079,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Tomlinson'ın Farklılaştırılmış Öğretim modelinde; hazırbulunuşluk, ilgi ve öğrenme stili temel alınarak içerik, süreç ve ürün zenginleştirilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q39",
@@ -22113,7 +22113,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Konsültasyon; rehber öğretmenin öğrenciye doğrudan değil, öğrenciyle ilişkili öğretmen ve velilerle iş birliği yaparak sunduğu dolaylı rehberlik hizmetidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q40",
@@ -22147,7 +22147,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğrencilerin benimsediği ve birlikte oluşturduğu kurallara uyma düzeyi ve içsel denetim çok daha yüksek olur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q41",
@@ -22181,7 +22181,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Elton Mayo ve arkadaşlarının Western Electric fabrikasında yürüttüğü Hawthorne araştırmaları, çalışanların sosyal ve psikolojik ihtiyaçlarının verimlilik üzerindeki etkisini kanıtlamıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q42",
@@ -22215,7 +22215,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Sistem modelinde Girdi (kaynaklar: insan, para, bina, mevzuat); Süreç (öğretim, yönetim); Çıktı (mezun, başarı, kazanımlar); Dönüt (değerlendirme) ögeleri bulunur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q43",
@@ -22249,7 +22249,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Durumsallık kuramı (Fiedler, Lawrence-Lorsch), örgüt yapısı ve liderlik tarzının çevre ve görev şartlarına uyum sağlaması gerektiğini savunur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q44",
@@ -22283,7 +22283,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Çalışanın yetenek ve isteği düşükken (M1 seviyesi) lider yüksek görev-düşük ilişki odaklı 'Yönlendirici / Anlatıcı' stili (S1) uygular."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q45",
@@ -22317,7 +22317,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mintzberg'in yöneticilik rollerinde dış çevreyle bağ kurma ve kurumu temsil etme 'Kişiler Arası Rol' (Interpersonal) kategorisindedir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q46",
@@ -22351,7 +22351,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğretimsel liderlikte okul müdürü kendini 'öğrenmenin ve öğretimin baş mimarı' olarak görür; zamanının çoğunu ders ve eğitime ayırır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q47",
@@ -22385,7 +22385,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Schein'ın kültür piramidinin en tabanındaki görünmez katman 'Temel Sayıltılar'dır (Basic Assumptions)."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q48",
@@ -22419,7 +22419,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Dağıtım adaleti sonuçların/kaynakların adil paylaştırılması; İşlemsel adalet ise bu kararlara varılırken izlenen yöntemlerin adilliğidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q49",
@@ -22453,7 +22453,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Klinik denetim iş birlikçi ve döngüsel 5 adımdan oluşur: Ön görüşme -> Gözlem -> Analiz -> Son görüşme -> Değerlendirme."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q50",
@@ -22487,7 +22487,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Glickman'a göre profesyonel olgunluğu yüksek öğretmenlere 'Yönlendirici Olmayan' (Non-directive) özerklik tanıyan yaklaşım uygulanır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q51",
@@ -22521,7 +22521,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Uyum sağlama stili düşük iddiacılık ve yüksek iş birliği içerir; ilişkileri korumak adına kendi hedeflerinden feragat etmektir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q52",
@@ -22555,7 +22555,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kurumun kendi bünyesindeki olumlu faktörler 'Güçlü Yönler' (Strengths), dış çevreden gelen olumlu dinamikler ise 'Fırsatlar'dır (Opportunities)."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q53",
@@ -22589,7 +22589,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kaizen (Kai=Değişim, Zen=İyi), örgütün her kademesinde küçük ve sürekli iyileştirmelerle mükemmelliğe ulaşma felsefesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q54",
@@ -22623,7 +22623,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Örgütsel sinizm; kurumun dürüstlükten yoksun olduğuna dair inanç ve beraberinde gelen negatif duygusal tepkidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q55",
@@ -22657,7 +22657,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İletişim sürecinde mesajın iletilmesini ve doğru anlaşılmasını engelleyen fiziksel, psikolojik veya anlamsal tüm faktörler 'Gürültü'dür."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q56",
@@ -22691,7 +22691,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Yetki devredilebilir ancak görevin nihai sorumluluğu ve hesap verme mecburiyeti yönetici üzerinde kalmaya devam eder."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q57",
@@ -22725,7 +22725,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Bireyin kişisel çekiciliği, hayranlık uyandırması ve rol model olmasıyla oluşan güç 'Karizmatik / Benzeşim Gücü'dür."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q58",
@@ -22759,7 +22759,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kurt Lewin modelinde: Unfreezing (mevcut durumu sorgulama) -> Changing (yeni davranışları öğrenme) -> Refreezing (yeni normları sabitleme)."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q59",
@@ -22793,7 +22793,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Eisenhower matrisinde Kutu 1 (Acil ve Önemli) derhal bizzat çözülmesi gereken kriz ve kritik görevlerdir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q60",
@@ -22827,7 +22827,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kriz iletişiminde tek seslilik ve tutarlı doğru bilgi akışı panik ve dezenformasyonu engellemek için zorunludur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q61",
@@ -22861,7 +22861,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Sınav analizi, veri odaklı karar alma ve öğretimi iyileştirme öğretimsel liderliğin merkezindedir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q62",
@@ -22895,7 +22895,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Okul-aile birliği gelir-gider kayıtları, bağışlar ve harcamalar TEFBİS sistemi üzerinden bakanlıkça denetlenir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q63",
@@ -22929,7 +22929,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Gayriresmî söylentiler resmi bilgi akışı yetersiz kaldığında doğar; şeffaf ve zamanında bilgilendirme söylentiyi keser."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q64",
@@ -22963,7 +22963,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Koçluk, bireye ne yapacağını söylemek değil; güçlü sorularla onun farkındalık kazanmasını ve hedeflerine ulaşmasını sağlamaktır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q65",
@@ -22997,7 +22997,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası m. 87 uyarınca genel ve özel af ilanı için TBMM üye tamsayısının beşte üç (360) çoğunluğunun kararı gerekir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q66",
@@ -23031,7 +23031,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası m. 78 uyarınca savaş sebebiyle seçimler TBMM tarafından 1 yıl geriye bırakılabilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q67",
@@ -23065,7 +23065,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 126 uyarınca Uyarma, Kınama ve Aylıktan kesme cezaları disiplin amirleri tarafından doğrudan verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q68",
@@ -23099,7 +23099,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 56 ve 57 uyarınca adaylıkta ağır disiplin cezası alanların ilişiği kesilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q69",
@@ -23133,7 +23133,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 m. 9 Süreklilik ilkesidir; hayat boyu öğrenmeyi temel alır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q70",
@@ -23167,7 +23167,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 m. 26 uyarınca ortaöğretim ilköğretime dayalı 4 yıllık zorunlu eğitim kurumlarını kapsar."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q71",
@@ -23201,7 +23201,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>222 sayılı Kanun m. 49 uyarınca her ders yılı başında eylülün 3. haftası 'İlköğretim Haftası'dır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q72",
@@ -23235,7 +23235,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>222 m. 52 ve 53 uyarınca devamsızlık okul idaresi ve köy/mahalle muhtarlarınca takip edilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q73",
@@ -23269,7 +23269,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5018 m. 31 uyarınca bütçeyle ödenek tahsis edilen birimin en üst yöneticisi Harcama Yetkilisidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q74",
@@ -23303,7 +23303,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>4483 m. 7 uyarınca yetkili merci kararı 30 gün içinde verir; zorunlu hallerde 15 gün uzatılabilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q75",
@@ -23337,7 +23337,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>4688 sayılı Kanun m. 10 uyarınca olağan genel kurullar 4 yılda bir toplanır."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q76",
@@ -23371,7 +23371,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5442 m. 2 uyarınca il ve ilçelerin kurulması, kaldırılması, ad ve merkezlerinin tespiti ancak KANUN ile olur."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q77",
@@ -23405,7 +23405,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>3071 m. 8 uyarınca TBMM Dilekçe Komisyonu dilekçeleri 60 gün içinde karara bağlar."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q78",
@@ -23439,7 +23439,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 321 uyarınca teftiş ve soruşturmaları Bakan adına Teftiş Kurulu Başkanlığı yürütür."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q79",
@@ -23473,7 +23473,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 314 Özel Öğretim Kurumları Genel Müdürlüğünün görevlerini düzenler."
+    "explanation": ""
   },
   {
     "id": "ekys_2020_q80",
@@ -23507,7 +23507,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 145 uyarınca görevden uzaklaştırılan memur hakkında 10 gün içinde soruşturmaya başlanması şarttır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q1",
@@ -23541,7 +23541,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Türbe)<br>Osmanlı'da Enderun saray okulu, medrese örgün eğitim kurumu, cami ve tekkeler ise yaygın dini-tasavvufi eğitim merkezleridir. <strong>Türbe</strong> ise din veya devlet büyüklerinin mezarlarının bulunduğu anıt yapılardır; doğrudan eğitim işlevi bulunmaz."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q2",
@@ -23575,7 +23575,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kut kan bağıyla tüm hanedan erkeklerine geçtiği için her şehzade tahtta hak iddia etmiş; bu durum taht kavgalarına ve Türk devletlerinin kısa sürede parçalanmasına yol açmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q3",
@@ -23609,7 +23609,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Nizamiye Medreseleri)<br>Alparslan ve Melikşah dönemlerinde vezirlik yapan Nizamülmülk'ün kurduğu <strong>Nizamiye Medreseleri</strong>, ilk modern üniversite formatındaki kurum kabul edilir; İmam Gazali gibi âlimler başmüderrislik yapmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q4",
@@ -23643,7 +23643,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Şeyhülislam / Müftü)<br>İlmiye sınıfının en üst yetkilisi olan <strong>Şeyhülislam</strong>, padişahın fermanlarının ve divan kararlarının İslam hukukuna uygunluğuna dair fetva makamıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q5",
@@ -23677,7 +23677,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kānûn-ı Esâsî)<br>23 Aralık 1876'da II. Abdülhamit tarafından ilan edilen <strong>Kānûn-ı Esâsî</strong>, Türk tarihinin ilk anayasasıdır ve Meşrutiyet dönemini başlatmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q6",
@@ -23713,7 +23713,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (III - Teke / Taşeli Platosu)<br>Akdeniz Bölgesi'nde kalkerli (kireçtaşı) arazilerin erimesiyle oluşan <strong>Teke ve Taşeli Platoları (III)</strong> karstik aşınım platolarıdır. I: Yazılıkaya (Lav), II: Cihanbeyli/Haymana (Tabaka düzlüğü), IV: Bozok/Uzunyayla, V: Erzurum-Kars (Lav örtüsü) platosudur."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q7",
@@ -23747,7 +23747,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Çevresi yüksek dağlarla çevrili korunaklı çanak alanlarda (Iğdır Ovası, Çoruh Vadisi, Doğu Karadeniz kıyıları) fön etkisi ve çukur topoğrafya sebebiyle çevreye göre sıcak mikroklima alanları doğar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q8",
@@ -23783,7 +23783,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Grafiğe bakıldığında 0-14 yaş nüfusu 1950'den 1980'e (8.018'den 17.433'e) <strong>9.415 bin</strong> kişi artmışken; 1980-2015 arasında (17.433'ten 18.886'ya) sadece <strong>1.453 bin</strong> kişi artmıştır. Dolayısıyla en fazla artış 1980-2015 arasında değil, 1950-1980 arasındadır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q9",
@@ -23817,7 +23817,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Hammadde)<br>İstanbul sanayisi yerel hammaddeye değil; pazar büyüklüğü, gelişmiş liman ve karayolu ulaşımı, sermaye ve nitelikli iş gücüne dayanır. Hammadde dışarıdan taşınmaktadır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q10",
@@ -23851,7 +23851,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Garig)<br>Akdeniz'de orman tahribiyle maki; makilerin de tahrip edilmesiyle lavanta, kekik, abdestbozan gibi bodur çalılardan oluşan <strong>Garig</strong> formasyonu oluşur. Karadeniz'de orman tahribiyle ise psödömaki oluşur."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q11",
@@ -23885,7 +23885,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Milletvekilleri)<br>2017 Anayasa değişikliği ile kanun teklif etme yetkisi münhasıran <strong>Milletvekillerine</strong> verilmiştir. (Cumhurbaşkanı sadece Bütçe ve Kesin Hesap kanun teklifini sunabilir)."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q12",
@@ -23919,7 +23919,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Anayasa)<br>Kelsen'in Normlar Hiyerarşisi piramidinde en üstte <strong>Anayasa</strong> yer alır (Anayasanın Üstünlüğü ilkesi). Sıralama: Anayasa > Kanun / Usulüne uygun yürürlüğe konulmuş Milletlerarası Antlaşmalar > CB Kararnameleri > Yönetmelikler > Genelgeler."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q13",
@@ -23953,7 +23953,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Gensoru)<br>2017 Anayasa değişiklikleriyle Cumhurbaşkanlığı Hükümet Sistemine geçildiğinde hükümeti düşürmeye yönelik <strong>Gensoru</strong> ve Sözlü Soru denetim yolları Anayasa'dan tamamen kaldırılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q14",
@@ -23987,7 +23987,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Fiil Ehliyeti)<br>Hak ehliyeti haklara sahip olabilme (sağ ve tam doğumla başlar); <strong>Fiil ehliyeti</strong> ise kişinin bizzat kendi işlemleriyle hak kazanabilmesi ve borç altına girebilmesidir (ayırt etme gücü, erginlik, kısıtlı olmama şarttır)."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q15",
@@ -24021,7 +24021,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Prof. Dr. Fuat Sezgin Yılı)<br>2018 yılında vefat eden dünyaca ünlü İslam Bilim Tarihi araştırmacısı <strong>Prof. Dr. Fuat Sezgin</strong>'in anısını yaşatmak amacıyla 2019 yılı 'Prof. Dr. Fuat Sezgin Yılı' ilan edilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q16",
@@ -24055,7 +24055,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (AİHS)<br>Avrupa Konseyi bünyesinde 4 Kasım 1950'de imzalanan ve bireysel başvuru hakkıyla Avrupa İnsan Hakları Mahkemesini (AİHM) kuran belge <strong>AİHS</strong>'dir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q17",
@@ -24089,7 +24089,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mondros'un 7. maddesi tüm Anadolu'yu işgale açık hale getiren en tehlikeli maddedir. 24. madde ise Vilayat-ı Sitte'de işgali öngörmüştür."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q18",
@@ -24123,7 +24123,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Bu madde Kurtuluş Savaşı'nın yöntemi ve milli iradeye dayalı yeni rejim müjdesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q19",
@@ -24157,7 +24157,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Temsil Heyeti başkanı Mustafa Kemal Paşa önderliğinde milli mücadelenin ilk hükümeti gibi çalışmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q20",
@@ -24191,7 +24191,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Misakımillî kararları Türk vatanının parçalanmaz bir bütün olduğunu ilan etmiş ve Lozan'ın temelini oluşturmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q21",
@@ -24225,7 +24225,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>I. TBMM'de siyasi partiler yoktur; milli birliği bozmamak için sadece gruplar (Müdafaa-i Hukuk, Tesanüd, İstiklal vb.) bulunmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q22",
@@ -24259,7 +24259,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mehmet Akif Ersoy tarafından yazılan İstiklal Marşı, I. İnönü zaferinin hemen ardından 12 Mart 1921'de kabul edilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q23",
@@ -24293,7 +24293,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Mustafa Kemal 22 gün 22 gece süren Sakarya Savaşı'nda topyekûn savunma doktrinini bu emirle hayata geçirmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q24",
@@ -24327,7 +24327,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Lozan'da Türkiye ile Yunanistan sınırı Karaağaç savaş tazminatı olarak bize verilerek Meriç Nehri sınır kabul edilmiştir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q25",
@@ -24361,7 +24361,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1926 Medeni Kanunu yalnızca sosyal, hukuki ve ekonomik haklar getirmiştir; kadınlara siyasi haklar 1930, 1933 ve 1934 yıllarında tanınmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q26",
@@ -24395,7 +24395,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kabotaj Kanunu ile Türk karasularında deniz ticareti hakkı yabancılardan alınıp Türk bayraklı gemilere verilmiştir (Milliyetçilik)."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q27",
@@ -24429,7 +24429,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>17 Şubat 1925'te kaldırılan Aşar Vergisi, bütçe gelirlerinin büyük kısmını oluştursa da halkçılık ilkesi gereği köylüyü rahatlatmak için kaldırılmıştır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q28",
@@ -24463,7 +24463,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Türkiye, İspanya ve Yunanistan'ın daveti üzerine 18 Temmuz 1932'de Milletler Cemiyeti'ne üye olmuştur."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q29",
@@ -24497,7 +24497,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5176 sayılı Kanun m. 5 uyarınca medeni hakları kullanma ehliyetine sahip T.C. vatandaşları ve Türkiye'de ikamet eden yabancılar doğrudan kurula başvurabilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q30",
@@ -24531,7 +24531,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Hediye yasağı kamu görevinin saygınlığını ve kamu görevlisinin tarafsız karar verme yetisini korumayı amaçlar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q31",
@@ -24565,7 +24565,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Meslek etiği; belirli bir meslek grubunun üyelerine rehberlik eden doğru ve yanlış davranış standartlarıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q32",
@@ -24599,7 +24599,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Raths ve Simon'un Değer Açıklama yaklaşımında öğrenci seçme, ödüllendirme ve davranma basamaklarından geçerek kendi değerini inşa eder."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q33",
@@ -24633,7 +24633,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Yapılandırmacılıkta (Piaget, Vygotsky, Bruner) bilgi pasif alınan bir nesne değil, bireyin bizzat anlamlandırdığı dinamik bir yapıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q34",
@@ -24667,7 +24667,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Anderson ve Krathwohl tarafından yenilenen taksonomide basamaklar: Hatırlama -> Anlama -> Uygulama -> Analiz -> Değerlendirme -> Yaratma şeklindedir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q35",
@@ -24701,7 +24701,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Tam öğrenme modelinde bir ünite %70 oranında öğrenilmeden bir sonraki üniteye geçilmez; eksikler tamamlayıcı öğretimle giderilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q36",
@@ -24735,7 +24735,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Ölçme aracının amacına hizmet etme derecesi geçerliliktir; tutarlı ve tesadüfi hatadan arınık olması ise güvenilirliktir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q37",
@@ -24769,7 +24769,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Ranj (Aralık) = $X_{max} - X_{min}$ formülüyle hesaplanan en basit yayılma (değişkenlik) ölçüsüdür."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q38",
@@ -24803,7 +24803,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Keller Planı 4 temel ögeye dayanır: Bireysel hız, tam öğrenme ustalığı, yazılı modüller ve öğrenci asistanlar (rehberler)."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q39",
@@ -24837,7 +24837,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>MEB Rehberlik Yönetmeliği'ne göre okulda rehberlik hizmetlerinin sağlıklı yürütülmesinden birinci derecede sorumlu amir Okul Müdürüdür."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q40",
@@ -24871,7 +24871,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğrencinin zihninde yeni bilginin anlam bulması için var olan bilişsel şemalar (ön bilgiler) ile bağlantı kurulması şarttır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q41",
@@ -24905,7 +24905,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Weber'in bürokrasi modeli kişisellikten uzak (gayrişahsi), rasyonel ve yasal kurallara dayanır; keyfilik bürokrasinin zıddıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q42",
@@ -24939,7 +24939,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Maslow piramidi: Fizyolojik -> Güvenlik -> Ait olma -> Saygınlık -> Kendini Gerçekleştirme (Self-actualization)."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q43",
@@ -24973,7 +24973,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Maaş ve çalışma şartları 'Hijyen' faktörlerdir (yokluğu mutsuz eder ama varlığı tek başına yüksek motivasyon sağlamaz); işin kendisi ve sorumluluk motive edicidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q44",
@@ -25007,7 +25007,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Transformasyonel lider vizyon oluşturur, çalışanların düşünce ufkunu açar ve bireysel ihtiyaçlarıyla ilgilenir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q45",
@@ -25041,7 +25041,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Açık iklimde hem moral ve samimiyet yüksektir hem de yönetim liderlik ve güven sağlar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q46",
@@ -25075,7 +25075,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Kişinin bildiği ama sakladığı alan 'Gizli Alan'dır; başkalarının görüp kişinin bilmediği ise 'Kör Alan'dır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q47",
@@ -25109,7 +25109,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Çağdaş denetim öğretmenin mesleki yeterliliğini artırmaya ve eğitim kalitesini yükseltmeye odaklı iş birliği sürecidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q48",
@@ -25143,7 +25143,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Öğretimsel liderliğin odağı sınıf içi öğrenme ve öğretim süreçlerinin kalitesidir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q49",
@@ -25177,7 +25177,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Misyon varoluş nedenidir; Vizyon ise gelecekte ulaşılmak istenen ideal durumdur."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q50",
@@ -25211,7 +25211,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Cam tavan; cinsiyete veya ayrımcılığa dayalı resmi olmayan görünmez kurumsal bariyerlerdir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q51",
@@ -25245,7 +25245,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Vroom'a göre birey gösterdiği çabanın ödülle sonuçlanacağına ve ödülün değerli olduğuna inanırsa yüksek motivasyon duyar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q52",
@@ -25279,7 +25279,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Delphi tekniğinde uzmanlar yüz yüze gelmez; böylece grup baskısı ve baskın karakterlerin etkisi ortadan kalkar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q53",
@@ -25313,7 +25313,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>C. Northcote Parkinson'un ünlü yasası; işin ayrılan zamana göre genişlediğini ve gereksiz bürokrasi yarattığını açıklar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q54",
@@ -25347,7 +25347,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Laurence J. Peter'ın ilkesine göre başarılı olan terfi ettirilir; başarısız olduğu kademede kalır ve hiyerarşi yetersizlerle dolar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q55",
@@ -25381,7 +25381,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Özgecilik; resmi görev tanımında olmasa bile zorlanan bir iş arkadaşına yardım elini uzatmaktır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q56",
@@ -25415,7 +25415,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İş birliği tarzı her iki tarafın da ihtiyaçlarını karşılayan en yapıcı ve kalıcı çatışma çözme yoludur."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q57",
@@ -25449,7 +25449,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>French ve Raven'ın güç sınıflamasında makamdan ve kanunlardan kaynaklanan resmi güç 'Yasal Güç'tür."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q58",
@@ -25483,7 +25483,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Ishikawa diyagramı insan, makine, yöntem, malzeme başlıkları altında hatanın kök sebeplerini bulmayı sağlar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q59",
@@ -25517,7 +25517,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Profesyonel öğrenme toplulukları okulu 'öğrenen örgüt' haline getirir ve sürekli mesleki gelişimi destekler."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q60",
@@ -25551,7 +25551,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Denetim alanı; bir yöneticinin etkili şekilde yönetebileceği doğrudan ast sayısıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q61",
@@ -25585,7 +25585,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>İnsan kaynakları yaklaşımı insanı bir maliyet unsuru değil, kurumun en değerli stratejik varlığı olarak görür."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q62",
@@ -25619,7 +25619,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Meyer ve Allen modelinde: Duygusal (istediği için), Devamlılık (mecbur olduğu için), Normatif (görev/vefa bildiği için)."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q63",
@@ -25653,7 +25653,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>De Bono'da: Beyaz (bilgi), Kırmızı (duygu), Siyah (risk/eleştiri), Sarı (iyimserlik/fayda), Yeşil (yaratıcılık), Mavi (süreç yönetimi)."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q64",
@@ -25687,7 +25687,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Emir ve talimatlar yukarıdan aşağıya; dilekçe, rapor ve geri bildirimler ise aşağıdan yukarıya doğru akar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q65",
@@ -25721,7 +25721,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası m. 104 uyarınca Anayasanın 2. kısmının 1. ve 2. bölümlerinde yer alan temel haklar ve kişi hakları ile 4. bölümündeki siyasi haklar CBK ile düzenlenemez (yalnızca sosyal ve ekonomik haklar düzenlenebilir)."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q66",
@@ -25755,7 +25755,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1982 Anayasası m. 94 uyarınca TBMM Başkanlık Divanı için bir yasama döneminde iki seçim yapılır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q67",
@@ -25789,7 +25789,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 sayılı Kanun m. 125/A-b bendine göre göreve geç gelmek veya erken ayrılmak Uyarma cezasını gerektirir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q68",
@@ -25823,7 +25823,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 sayılı Kanun m. 99 uyarınca memurların haftalık çalışma süresi kural olarak 40 saattir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q69",
@@ -25857,7 +25857,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 m. 12 ve Anayasa m. 24 uyarınca Din Kültürü ve Ahlak Bilgisi dersi ilk ve ortaöğretim okullarında zorunludur."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q70",
@@ -25891,7 +25891,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1739 sayılı Kanun okul bina ve tesislerinin korunması ve amacına uygun kullanımını düzenler."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q71",
@@ -25925,7 +25925,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>222 sayılı Kanun m. 3 uyarınca mecburi ilköğretim çağı bu yaş sınırlarını kapsar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q72",
@@ -25959,7 +25959,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>222 sayılı Kanun m. 63 köy okulu arazilerinin gelirinin münhasıran o okula ait olduğunu belirtir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q73",
@@ -25993,7 +25993,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5018 m. 18 uyarınca Cumhurbaşkanı bütçe kanun teklifini mali yıl başından en az 75 gün önce TBMM'ye sunar."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q74",
@@ -26027,7 +26027,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>4483 sayılı Kanun m. 3/b bendine göre ilçede görevli memurlar hakkında soruşturma izni yetkisi Kaymakama aittir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q75",
@@ -26061,7 +26061,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>4688 m. 5 uyarınca sendika kurucusu olabilmek için en az 2 yıl kamu görevlisi olarak çalışmış olmak şarttır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q76",
@@ -26095,7 +26095,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>5442 m. 9 uyarınca Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q77",
@@ -26129,7 +26129,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>3071 sayılı Kanun m. 7 uyarınca dilekçe sahiplerine en geç 30 gün içinde gerekçeli cevap verilir."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q78",
@@ -26163,7 +26163,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 318 uyarınca bakanlık personelinin atama ve özlük işlemlerini Personel Genel Müdürlüğü yürütür."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q79",
@@ -26197,7 +26197,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>1 sayılı CBK m. 327 uyarınca MEB'in en yüksek danışma kurulu Millî Eğitim Şûrası'dır."
+    "explanation": ""
   },
   {
     "id": "ekys_2019_q80",
@@ -26231,7 +26231,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>657 m. 135 uyarınca disiplin cezalarına karşı itiraz süresi tebliğden itibaren 7 gündür."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q1",
@@ -26268,7 +26268,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q2",
@@ -26305,7 +26305,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q3",
@@ -26342,7 +26342,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q4",
@@ -26379,7 +26379,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q5",
@@ -26416,7 +26416,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q6",
@@ -26453,7 +26453,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q7",
@@ -26490,7 +26490,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q8",
@@ -26527,7 +26527,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q9",
@@ -26564,7 +26564,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q10",
@@ -26601,7 +26601,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q11",
@@ -26638,7 +26638,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q12",
@@ -26675,7 +26675,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q13",
@@ -26712,7 +26712,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q14",
@@ -26749,7 +26749,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q15",
@@ -26786,7 +26786,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q16",
@@ -26823,7 +26823,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q17",
@@ -26860,7 +26860,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_1-q18",
@@ -26897,7 +26897,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum (Matematik & Özel Konum): Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. Güneş ışınlarının geliş açısı güneyden kuzeye daralırken, yerel saat doğuda daima ileridir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q1",
@@ -26934,7 +26934,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q2",
@@ -26971,7 +26971,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q3",
@@ -27008,7 +27008,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q4",
@@ -27045,7 +27045,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q5",
@@ -27082,7 +27082,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q6",
@@ -27119,7 +27119,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q7",
@@ -27156,7 +27156,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q8",
@@ -27193,7 +27193,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q9",
@@ -27230,7 +27230,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q10",
@@ -27267,7 +27267,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q11",
@@ -27304,7 +27304,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q12",
@@ -27341,7 +27341,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q13",
@@ -27378,7 +27378,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q14",
@@ -27415,7 +27415,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q15",
@@ -27452,7 +27452,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q16",
@@ -27489,7 +27489,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q17",
@@ -27526,7 +27526,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_4-q18",
@@ -27563,7 +27563,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nJeopolitik Konum & Sınırlar: Türkiye; Asya, Avrupa ve Afrika kıtaları arasında bir köprü, enerji koridoru ve Boğazlar hakimiyeti ile küresel jeopolitik öneme sahiptir. En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan'ladır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q1",
@@ -27600,7 +27600,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q2",
@@ -27637,7 +27637,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q3",
@@ -27674,7 +27674,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q4",
@@ -27711,7 +27711,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q5",
@@ -27748,7 +27748,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q6",
@@ -27785,7 +27785,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q7",
@@ -27822,7 +27822,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q8",
@@ -27859,7 +27859,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q9",
@@ -27896,7 +27896,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q10",
@@ -27933,7 +27933,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q11",
@@ -27970,7 +27970,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q12",
@@ -28007,7 +28007,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q13",
@@ -28044,7 +28044,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q14",
@@ -28081,7 +28081,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q15",
@@ -28118,7 +28118,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q16",
@@ -28155,7 +28155,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q17",
@@ -28192,7 +28192,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_2-q18",
@@ -28229,7 +28229,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nCoğrafi Konum ve Yer Şekilleri: Türkiye'nin ortalama yükseltisi 1132 m olup batıdan doğuya doğru yükselti artar. Dağlar Karadeniz ve Akdeniz'de kıyıya paralel, Ege'de dik uzanır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q1",
@@ -28266,7 +28266,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q2",
@@ -28303,7 +28303,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q3",
@@ -28340,7 +28340,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q4",
@@ -28377,7 +28377,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q5",
@@ -28414,7 +28414,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q6",
@@ -28451,7 +28451,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q7",
@@ -28488,7 +28488,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q8",
@@ -28525,7 +28525,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q9",
@@ -28562,7 +28562,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q10",
@@ -28599,7 +28599,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q11",
@@ -28636,7 +28636,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q12",
@@ -28673,7 +28673,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q13",
@@ -28710,7 +28710,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q14",
@@ -28747,7 +28747,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q15",
@@ -28784,7 +28784,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q16",
@@ -28821,7 +28821,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q17",
@@ -28858,7 +28858,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_3-q18",
@@ -28895,7 +28895,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nYer Şekilleri & Dağ Oluşumları: Türkiye'deki dağlar Alp-Himalaya orojeneziyle (Kuzey Anadolu Dağları ve Toroslar - Kıvrım Dağları), Ege'deki Horst-Graben sistemiyle (Kırık Dağlar: Madra, Yunt, Boz, Aydın, Menteşe) ve İç/Doğu Anadolu'daki volkanizma ile oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q1",
@@ -28932,7 +28932,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q2",
@@ -28969,7 +28969,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q3",
@@ -29006,7 +29006,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q4",
@@ -29043,7 +29043,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q5",
@@ -29080,7 +29080,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q6",
@@ -29117,7 +29117,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q7",
@@ -29154,7 +29154,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q8",
@@ -29191,7 +29191,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q9",
@@ -29228,7 +29228,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q10",
@@ -29265,7 +29265,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q11",
@@ -29302,7 +29302,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q12",
@@ -29339,7 +29339,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q13",
@@ -29376,7 +29376,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q14",
@@ -29413,7 +29413,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q15",
@@ -29450,7 +29450,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q16",
@@ -29487,7 +29487,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q17",
@@ -29524,7 +29524,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_5-q18",
@@ -29561,7 +29561,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nMorfoloji ve Engebe: Dağların uzanış doğrultusu kıyı ile iç kesimler arasındaki ulaşımı (geçitler ve tüneller zorunluluğu) ve iklim etkisinin iç kısımlara sokulmasını doğrudan belirler.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q1",
@@ -29598,7 +29598,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q2",
@@ -29635,7 +29635,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q3",
@@ -29672,7 +29672,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q4",
@@ -29709,7 +29709,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q5",
@@ -29746,7 +29746,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q6",
@@ -29783,7 +29783,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q7",
@@ -29820,7 +29820,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q8",
@@ -29857,7 +29857,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q9",
@@ -29894,7 +29894,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q10",
@@ -29931,7 +29931,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q11",
@@ -29968,7 +29968,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q12",
@@ -30005,7 +30005,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q13",
@@ -30042,7 +30042,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q14",
@@ -30079,7 +30079,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q15",
@@ -30116,7 +30116,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q16",
@@ -30153,7 +30153,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q17",
@@ -30190,7 +30190,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_6-q18",
@@ -30227,7 +30227,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nFay Hatları ve Jeolojik Zamanlar: Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay kuşakları Türkiye'nin genç tektonik yapısını, sıcak su kaynaklarını ve yüksek deprem riskini gösterir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q1",
@@ -30264,7 +30264,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q2",
@@ -30301,7 +30301,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q3",
@@ -30338,7 +30338,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q4",
@@ -30375,7 +30375,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q5",
@@ -30412,7 +30412,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q6",
@@ -30449,7 +30449,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q7",
@@ -30486,7 +30486,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q8",
@@ -30523,7 +30523,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q9",
@@ -30560,7 +30560,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q10",
@@ -30597,7 +30597,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q11",
@@ -30634,7 +30634,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q12",
@@ -30671,7 +30671,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q13",
@@ -30708,7 +30708,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q14",
@@ -30745,7 +30745,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q15",
@@ -30782,7 +30782,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q16",
@@ -30819,7 +30819,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q17",
@@ -30856,7 +30856,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_7-q18",
@@ -30893,7 +30893,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDış Kuvvetler: Türkiye'de yer şekillerinin oluşumunda en etkili dış kuvvet Akarsulardır. Karstik şekiller (lapya, dolin, polye, mağara) en çok Akdeniz'de kalkerli arazide görülür.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q1",
@@ -30930,7 +30930,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q2",
@@ -30967,7 +30967,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q3",
@@ -31004,7 +31004,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q4",
@@ -31041,7 +31041,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q5",
@@ -31078,7 +31078,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q6",
@@ -31115,7 +31115,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q7",
@@ -31152,7 +31152,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q8",
@@ -31189,7 +31189,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q9",
@@ -31226,7 +31226,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q10",
@@ -31263,7 +31263,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q11",
@@ -31300,7 +31300,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q12",
@@ -31337,7 +31337,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q13",
@@ -31374,7 +31374,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q14",
@@ -31411,7 +31411,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q15",
@@ -31448,7 +31448,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q16",
@@ -31485,7 +31485,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q17",
@@ -31522,7 +31522,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_8-q18",
@@ -31559,7 +31559,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAkarsular: Türkiye akarsularının debileri genellikle düzensiz, akış hızları ve hidroelektrik potansiyelleri yüksektir. Karadeniz ve Akdeniz'e dökülenler açık havza, Van Gölü ve Tuz Gölü kapalı havza özelliğindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q1",
@@ -31596,7 +31596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q2",
@@ -31633,7 +31633,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q3",
@@ -31670,7 +31670,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q4",
@@ -31707,7 +31707,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q5",
@@ -31744,7 +31744,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q6",
@@ -31781,7 +31781,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q7",
@@ -31818,7 +31818,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q8",
@@ -31855,7 +31855,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q9",
@@ -31892,7 +31892,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q10",
@@ -31929,7 +31929,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q11",
@@ -31966,7 +31966,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q12",
@@ -32003,7 +32003,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q13",
@@ -32040,7 +32040,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q14",
@@ -32077,7 +32077,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q15",
@@ -32114,7 +32114,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q16",
@@ -32151,7 +32151,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q17",
@@ -32188,7 +32188,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_9-q18",
@@ -32225,7 +32225,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nPlatolar: Erzurum-Kars (Lav / Volkanik Plato), Taşeli ve Teke (Karstik Plato), Çatalca-Kocaeli (Aşınım Platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Tabaka Düzlüğü Platosu) özelliklerine sahiptir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q1",
@@ -32262,7 +32262,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q2",
@@ -32299,7 +32299,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q3",
@@ -32336,7 +32336,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q4",
@@ -32373,7 +32373,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q5",
@@ -32410,7 +32410,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q6",
@@ -32447,7 +32447,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q7",
@@ -32484,7 +32484,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q8",
@@ -32521,7 +32521,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q9",
@@ -32558,7 +32558,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q10",
@@ -32595,7 +32595,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q11",
@@ -32632,7 +32632,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q12",
@@ -32669,7 +32669,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q13",
@@ -32706,7 +32706,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q14",
@@ -32743,7 +32743,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q15",
@@ -32780,7 +32780,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q16",
@@ -32817,7 +32817,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q17",
@@ -32854,7 +32854,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_10-q18",
@@ -32891,7 +32891,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nOvalar: Kıyı delta ovaları (Çukurova, Bafra, Çarşamba, Silifke, Menemen, Balat) akarsu biriktirmesiyle; iç kesim ovaları tektonik çöküntü ve karstik erime (Polye) sonucu oluşmuştur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q1",
@@ -32928,7 +32928,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q2",
@@ -32965,7 +32965,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q3",
@@ -33002,7 +33002,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q4",
@@ -33039,7 +33039,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q5",
@@ -33076,7 +33076,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q6",
@@ -33113,7 +33113,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q7",
@@ -33150,7 +33150,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q8",
@@ -33187,7 +33187,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q9",
@@ -33224,7 +33224,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q10",
@@ -33261,7 +33261,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q11",
@@ -33298,7 +33298,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q12",
@@ -33335,7 +33335,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q13",
@@ -33372,7 +33372,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q14",
@@ -33409,7 +33409,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q15",
@@ -33446,7 +33446,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q16",
@@ -33483,7 +33483,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q17",
@@ -33520,7 +33520,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_11-q18",
@@ -33557,7 +33557,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nGöller: Tektonik göller (Tuz, Beyşehir, Eğirdir, Burdur, Manyas), Volkanik set gölleri (Erçek, Nazik, Çıldır, Balık, Haçlı), Heyelan set gölleri (Tortum, Sera, Abant, Yedigöller, Zinav), Kıyı set gölleri (Büyükçekmece, Küçükçekmece, Terkos/Durusu) önemli örneklerdir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q1",
@@ -33594,7 +33594,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q2",
@@ -33631,7 +33631,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q3",
@@ -33668,7 +33668,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q4",
@@ -33705,7 +33705,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q5",
@@ -33742,7 +33742,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q6",
@@ -33779,7 +33779,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q7",
@@ -33816,7 +33816,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q8",
@@ -33853,7 +33853,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q9",
@@ -33890,7 +33890,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q10",
@@ -33927,7 +33927,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q11",
@@ -33964,7 +33964,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q12",
@@ -34001,7 +34001,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q13",
@@ -34038,7 +34038,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q14",
@@ -34075,7 +34075,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q15",
@@ -34112,7 +34112,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q16",
@@ -34149,7 +34149,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q17",
@@ -34186,7 +34186,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_15-q18",
@@ -34223,7 +34223,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nKıyı Tipleri: Boyuna Kıyı (Karadeniz ve Akdeniz), Enine Kıyı (Ege), Rias Tipi (İstanbul-Çanakkale Boğazları ve Haliç), Dalmaçya Tipi (Kaş-Finike kıyıları), Kalanklı Kıyı (Mersin-Silifke kıyıları).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q1",
@@ -34260,7 +34260,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q2",
@@ -34297,7 +34297,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q3",
@@ -34334,7 +34334,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q4",
@@ -34371,7 +34371,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q5",
@@ -34408,7 +34408,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q6",
@@ -34445,7 +34445,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q7",
@@ -34482,7 +34482,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q8",
@@ -34519,7 +34519,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q9",
@@ -34556,7 +34556,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q10",
@@ -34593,7 +34593,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q11",
@@ -34630,7 +34630,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q12",
@@ -34667,7 +34667,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q13",
@@ -34704,7 +34704,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q14",
@@ -34741,7 +34741,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q15",
@@ -34778,7 +34778,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q16",
@@ -34815,7 +34815,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q17",
@@ -34852,7 +34852,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_16-q18",
@@ -34889,7 +34889,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nRüzgar ve Buzul Şekilleri: Rüzgar aşınım ve birikim şekilleri (mantarkaya, tafoni, kumul, lös) kurak/yarı kurak İç ve Güneydoğu Anadolu'da; güncel buzullar ise yüksek dağların (Cilo, Ağrı, Kaçkar, Süphan) 3500 m üzerindedir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q1",
@@ -34926,7 +34926,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q2",
@@ -34963,7 +34963,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q3",
@@ -35000,7 +35000,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q4",
@@ -35037,7 +35037,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q5",
@@ -35074,7 +35074,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q6",
@@ -35111,7 +35111,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q7",
@@ -35148,7 +35148,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q8",
@@ -35185,7 +35185,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q9",
@@ -35222,7 +35222,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q10",
@@ -35259,7 +35259,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q11",
@@ -35296,7 +35296,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q12",
@@ -35333,7 +35333,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q13",
@@ -35370,7 +35370,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q14",
@@ -35407,7 +35407,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q15",
@@ -35444,7 +35444,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q16",
@@ -35481,7 +35481,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q17",
@@ -35518,7 +35518,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_17-q18",
@@ -35555,7 +35555,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Elemanları (Sıcaklık ve Basınç): Türkiye'de sıcaklık dağılışında enlem, yükselti, denizellik/karasallık belirleyicidir. Kışın Sibirya TY ve İzlanda DY; yazın Basra AY ve Asor TY basınç merkezleri etkilidir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q1",
@@ -35592,7 +35592,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q2",
@@ -35629,7 +35629,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q3",
@@ -35666,7 +35666,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q4",
@@ -35703,7 +35703,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q5",
@@ -35740,7 +35740,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q6",
@@ -35777,7 +35777,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q7",
@@ -35814,7 +35814,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q8",
@@ -35851,7 +35851,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q9",
@@ -35888,7 +35888,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q10",
@@ -35925,7 +35925,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q11",
@@ -35962,7 +35962,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q12",
@@ -35999,7 +35999,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q13",
@@ -36036,7 +36036,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q14",
@@ -36073,7 +36073,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q15",
@@ -36110,7 +36110,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q16",
@@ -36147,7 +36147,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q17",
@@ -36184,7 +36184,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_1-q18",
@@ -36221,7 +36221,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nİklim Tipleri & Yağış: Karadeniz İklimi (her mevsim yağışlı, en çok sonbahar), Akdeniz İklimi (yazlar sıcak kurak, kışlar ılık yağışlı - en çok kış), Karasal İklim (en çok ilkbahar konveksiyonel yağış), Sert Karasal İklim (en çok yaz yağışı).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q1",
@@ -36258,7 +36258,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q2",
@@ -36295,7 +36295,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q3",
@@ -36332,7 +36332,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q4",
@@ -36369,7 +36369,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q5",
@@ -36406,7 +36406,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q6",
@@ -36443,7 +36443,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q7",
@@ -36480,7 +36480,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q8",
@@ -36517,7 +36517,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q9",
@@ -36554,7 +36554,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q10",
@@ -36591,7 +36591,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q11",
@@ -36628,7 +36628,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q12",
@@ -36665,7 +36665,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q13",
@@ -36702,7 +36702,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q14",
@@ -36739,7 +36739,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q15",
@@ -36776,7 +36776,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q16",
@@ -36813,7 +36813,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q17",
@@ -36850,7 +36850,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_18_2-q18",
@@ -36887,7 +36887,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Bitki Örtüsü: Karadeniz (Geniş ve İğne Yapraklı Orman, Psödomaki), Akdeniz (Kızılçam ve Maki: Zeytin, Defne, Zakkum, Mersin, Keçiboynuzu, Lavanta, Garig), İç Anadolu (Bozkır / Antropojen Bozkır: Geven, Yavşan otu), Doğu Anadolu (Alpin Çayır).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q1",
@@ -36924,7 +36924,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q2",
@@ -36961,7 +36961,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q3",
@@ -36998,7 +36998,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q4",
@@ -37035,7 +37035,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q5",
@@ -37072,7 +37072,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q6",
@@ -37109,7 +37109,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q7",
@@ -37146,7 +37146,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q8",
@@ -37183,7 +37183,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q9",
@@ -37220,7 +37220,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q10",
@@ -37257,7 +37257,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q11",
@@ -37294,7 +37294,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q12",
@@ -37331,7 +37331,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q13",
@@ -37368,7 +37368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q14",
@@ -37405,7 +37405,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q15",
@@ -37442,7 +37442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q16",
@@ -37479,7 +37479,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q17",
@@ -37516,7 +37516,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_12-q18",
@@ -37553,7 +37553,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nDoğal Afetler & Jeomorfoloji: Türkiye'de en fazla can ve mal kaybına yol açan afet Deprem, en sık görülen kütle hareketi ise ilkbahar yağışları ve eğim nedeniyle Heyelan'dır (en çok Karadeniz'de).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q1",
@@ -37590,7 +37590,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q2",
@@ -37627,7 +37627,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q3",
@@ -37664,7 +37664,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q4",
@@ -37701,7 +37701,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q5",
@@ -37738,7 +37738,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q6",
@@ -37775,7 +37775,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q7",
@@ -37812,7 +37812,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q8",
@@ -37849,7 +37849,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q9",
@@ -37886,7 +37886,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q10",
@@ -37923,7 +37923,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q11",
@@ -37960,7 +37960,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q12",
@@ -37997,7 +37997,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q13",
@@ -38034,7 +38034,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q14",
@@ -38071,7 +38071,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q15",
@@ -38108,7 +38108,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q16",
@@ -38145,7 +38145,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q17",
@@ -38182,7 +38182,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_13-q18",
@@ -38219,7 +38219,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nAfet Yönetimi: Erozyon en çok bitki örtüsünün zayıf olduğu İç ve Güneydoğu Anadolu'da; Çığ riski eğimli ve kar örtüsü fazla olan Doğu Anadolu dağlık alanlarında yüksektir.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q1",
@@ -38256,7 +38256,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q2",
@@ -38293,7 +38293,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q3",
@@ -38330,7 +38330,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q4",
@@ -38367,7 +38367,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q5",
@@ -38404,7 +38404,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q6",
@@ -38441,7 +38441,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q7",
@@ -38478,7 +38478,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q8",
@@ -38515,7 +38515,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q9",
@@ -38552,7 +38552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q10",
@@ -38589,7 +38589,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q11",
@@ -38626,7 +38626,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q12",
@@ -38663,7 +38663,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q13",
@@ -38700,7 +38700,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q14",
@@ -38737,7 +38737,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q15",
@@ -38774,7 +38774,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q16",
@@ -38811,7 +38811,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q17",
@@ -38848,7 +38848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_14-q18",
@@ -38885,7 +38885,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nToprak Tipleri: Terra Rossa (Akdeniz kızıl toprağı - kalker üzerinde), Kahverengi Orman (Karadeniz orman altı), Çernezyom (Erzurum-Kars kara toprak - en verimli zonal toprak), Podzol (Batı Karadeniz soğuk nemli orman altı), Alüvyal (akarsu taşınmış azonal toprak).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q1",
@@ -38922,7 +38922,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q2",
@@ -38959,7 +38959,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q3",
@@ -38996,7 +38996,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q4",
@@ -39033,7 +39033,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q5",
@@ -39070,7 +39070,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q6",
@@ -39107,7 +39107,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q7",
@@ -39144,7 +39144,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q8",
@@ -39181,7 +39181,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q9",
@@ -39218,7 +39218,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q10",
@@ -39255,7 +39255,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q11",
@@ -39292,7 +39292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q12",
@@ -39329,7 +39329,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q13",
@@ -39366,7 +39366,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q14",
@@ -39403,7 +39403,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q15",
@@ -39440,7 +39440,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q16",
@@ -39477,7 +39477,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q17",
@@ -39514,7 +39514,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_19-q18",
@@ -39551,7 +39551,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Dağılışı: Türkiye'de nüfusun dağılışını iklim, yer şekilleri, su kaynakları, sanayileşme, ulaşım ve tarım olanakları belirler. Çatalca-Kocaeli, Kıyı Ege, Çukurova sık; Taşeli-Teke platoları, Menteşe, Hakkari, Yıldız Dağları seyrek nüfusludur.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q1",
@@ -39588,7 +39588,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q2",
@@ -39625,7 +39625,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q3",
@@ -39662,7 +39662,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q4",
@@ -39699,7 +39699,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q5",
@@ -39736,7 +39736,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q6",
@@ -39773,7 +39773,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q7",
@@ -39810,7 +39810,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q8",
@@ -39847,7 +39847,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q9",
@@ -39884,7 +39884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q10",
@@ -39921,7 +39921,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q11",
@@ -39958,7 +39958,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q12",
@@ -39995,7 +39995,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q13",
@@ -40032,7 +40032,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q14",
@@ -40069,7 +40069,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q15",
@@ -40106,7 +40106,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q16",
@@ -40143,7 +40143,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q17",
@@ -40180,7 +40180,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_20-q18",
@@ -40217,7 +40217,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nNüfus Özellikleri: Türkiye'de nüfus piramidi tabanı daralan (doğum oranı düşen), ortanca yaşı yükselen ve yaşlı nüfus oranı artan gelişmiş ülke eğilimi göstermektedir. Nüfusun büyük çoğunluğu (%93+) il ve ilçe merkezlerinde yaşamaktadır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q1",
@@ -40254,7 +40254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q2",
@@ -40291,7 +40291,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q3",
@@ -40328,7 +40328,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q4",
@@ -40365,7 +40365,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q5",
@@ -40402,7 +40402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q6",
@@ -40439,7 +40439,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q7",
@@ -40476,7 +40476,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q8",
@@ -40513,7 +40513,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q9",
@@ -40550,7 +40550,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q10",
@@ -40587,7 +40587,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q11",
@@ -40624,7 +40624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q12",
@@ -40661,7 +40661,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q13",
@@ -40698,7 +40698,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q14",
@@ -40735,7 +40735,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q15",
@@ -40772,7 +40772,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q16",
@@ -40809,7 +40809,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q17",
@@ -40846,7 +40846,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_21-q18",
@@ -40883,7 +40883,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nYerleşme Tipleri & Göç: Sürekli köy altı yerleşmeleri: Çiftlik, Mahalle, Divan (Karadeniz), Mezra (Doğu/Güneydoğu Anadolu). Geçici yerleşmeler: Yayla, Kom (Doğu Anadolu - hayvancılık), Ağıl, Oba (Toroslar - Yörük çadırı), Dam (Ege).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q1",
@@ -40920,7 +40920,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q2",
@@ -40957,7 +40957,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q3",
@@ -40994,7 +40994,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q4",
@@ -41031,7 +41031,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q5",
@@ -41068,7 +41068,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q6",
@@ -41105,7 +41105,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q7",
@@ -41142,7 +41142,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q8",
@@ -41179,7 +41179,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q9",
@@ -41216,7 +41216,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q10",
@@ -41253,7 +41253,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q11",
@@ -41290,7 +41290,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q12",
@@ -41327,7 +41327,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q13",
@@ -41364,7 +41364,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q14",
@@ -41401,7 +41401,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q15",
@@ -41438,7 +41438,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q16",
@@ -41475,7 +41475,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q17",
@@ -41512,7 +41512,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_22-q18",
@@ -41549,7 +41549,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nTarım Ürünleri: Buğday/Arpa (İç Anadolu - kuraklık toleransı), Pamuk (GAP / Şanlıurfa 1. sıra - yaz kuraklığı), Çay (Doğu Karadeniz mikroklima - asidik toprak), Fındık (Ordu-Giresun Karadeniz), Zeytin (Ege ve Akdeniz), İncir (Aydın/Ege), Ayçiçeği (Trakya / Ergene), Şeker Pancarı (İç Anadolu - posası küspe yemdir).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q1",
@@ -41586,7 +41586,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q2",
@@ -41623,7 +41623,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q3",
@@ -41660,7 +41660,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q4",
@@ -41697,7 +41697,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q5",
@@ -41734,7 +41734,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q6",
@@ -41771,7 +41771,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q7",
@@ -41808,7 +41808,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q8",
@@ -41845,7 +41845,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q9",
@@ -41882,7 +41882,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q10",
@@ -41919,7 +41919,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q11",
@@ -41956,7 +41956,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q12",
@@ -41993,7 +41993,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q13",
@@ -42030,7 +42030,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q14",
@@ -42067,7 +42067,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q15",
@@ -42104,7 +42104,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q16",
@@ -42141,7 +42141,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q17",
@@ -42178,7 +42178,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_23-q18",
@@ -42215,7 +42215,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nHayvancılık: Büyükbaş Mera/Sığır (Erzurum-Kars yaz yağışlı çayırlar), Küçükbaş Koyun (Bozkır alanları / İç Anadolu ve Doğu Anadolu), Kıl Keçisi (Akdeniz maki ve engebeli dağlık alanlar), Tiftik/Ankara Keçisi (İç Anadolu), İpek Böcekçiliği (Diyarbakır, Bursa, Antalya - dut yaprağı), Arıcılık (Muğla çam balı, Ordu, Kars, Rize Anzer).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q1",
@@ -42252,7 +42252,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q2",
@@ -42289,7 +42289,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q3",
@@ -42326,7 +42326,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q4",
@@ -42363,7 +42363,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q5",
@@ -42400,7 +42400,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q6",
@@ -42437,7 +42437,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q7",
@@ -42474,7 +42474,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q8",
@@ -42511,7 +42511,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q9",
@@ -42548,7 +42548,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q10",
@@ -42585,7 +42585,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q11",
@@ -42622,7 +42622,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q12",
@@ -42659,7 +42659,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q13",
@@ -42696,7 +42696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q14",
@@ -42733,7 +42733,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q15",
@@ -42770,7 +42770,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q16",
@@ -42807,7 +42807,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q17",
@@ -42844,7 +42844,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q18",
@@ -42881,7 +42881,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q19",
@@ -42918,7 +42918,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q20",
@@ -42955,7 +42955,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q21",
@@ -42992,7 +42992,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q22",
@@ -43029,7 +43029,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q23",
@@ -43066,7 +43066,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q24",
@@ -43103,7 +43103,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q25",
@@ -43140,7 +43140,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_24-q26",
@@ -43177,7 +43177,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nMadenler ve Enerji: Demir (Divriği, Hekimhan, Hasançelebi), Bakır (Murgul, Küre, Maden), Krom (Guleman, Fethiye), Bor (%72 dünya rezervi - Balıkesir, Kütahya, Eskişehir, Bursa), Boksit (Seydişehir), Linyit (Afşin-Elbistan, Soma, Yatağan), Jeotermal (Denizli Sarayköy, Aydın Germencik), Rüzgar (İzmir, Balıkesir, Çanakkale).\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q1",
@@ -43214,7 +43214,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q2",
@@ -43251,7 +43251,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q3",
@@ -43288,7 +43288,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q4",
@@ -43325,7 +43325,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q5",
@@ -43362,7 +43362,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q6",
@@ -43399,7 +43399,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q7",
@@ -43436,7 +43436,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q8",
@@ -43473,7 +43473,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q9",
@@ -43510,7 +43510,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q10",
@@ -43547,7 +43547,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q11",
@@ -43584,7 +43584,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q12",
@@ -43621,7 +43621,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q13",
@@ -43658,7 +43658,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q14",
@@ -43695,7 +43695,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q15",
@@ -43732,7 +43732,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q16",
@@ -43769,7 +43769,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q17",
@@ -43806,7 +43806,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q18",
@@ -43843,7 +43843,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q19",
@@ -43880,7 +43880,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q20",
@@ -43917,7 +43917,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q21",
@@ -43954,7 +43954,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q22",
@@ -43991,7 +43991,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q23",
@@ -44028,7 +44028,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_25-q24",
@@ -44065,7 +44065,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nSanayi, Ulaşım ve Turizm: Demir-Çelik (Karabük, İskenderun, Ereğli), Otomotiv (Bursa, Kocaeli, Sakarya, İzmir), Petrol Rafinerileri (TÜPRAŞ İzmit, İzmir Aliağa, Kırıkkale Orta Anadolu, Batman), Geçitler: Zigana/Kop (Doğu Karadeniz), Çubuk/Sertavul/Gülek/Belen (Akdeniz). UNESCO Mirasları: Göbeklitepe, Efes, Kapadokya, Pamukkale, Safranbolu, Çatalhöyük.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q1",
@@ -44102,7 +44102,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q2",
@@ -44139,7 +44139,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q3",
@@ -44176,7 +44176,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q4",
@@ -44213,7 +44213,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q5",
@@ -44250,7 +44250,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q6",
@@ -44287,7 +44287,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q7",
@@ -44324,7 +44324,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q8",
@@ -44361,7 +44361,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q9",
@@ -44398,7 +44398,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q10",
@@ -44435,7 +44435,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q11",
@@ -44472,7 +44472,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q12",
@@ -44509,7 +44509,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q13",
@@ -44546,7 +44546,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q14",
@@ -44583,7 +44583,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q15",
@@ -44620,7 +44620,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q16",
@@ -44657,7 +44657,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q17",
@@ -44694,7 +44694,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q18",
@@ -44731,7 +44731,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q19",
@@ -44768,7 +44768,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q20",
@@ -44805,7 +44805,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q21",
@@ -44842,7 +44842,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q22",
@@ -44879,7 +44879,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q23",
@@ -44916,7 +44916,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q24",
@@ -44953,7 +44953,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q25",
@@ -44990,7 +44990,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q26",
@@ -45027,7 +45027,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q27",
@@ -45064,7 +45064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q28",
@@ -45101,7 +45101,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q29",
@@ -45138,7 +45138,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q30",
@@ -45175,7 +45175,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q31",
@@ -45212,7 +45212,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q32",
@@ -45249,7 +45249,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q33",
@@ -45286,7 +45286,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q34",
@@ -45323,7 +45323,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q35",
@@ -45360,7 +45360,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q36",
@@ -45397,7 +45397,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q37",
@@ -45434,7 +45434,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q38",
@@ -45471,7 +45471,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q39",
@@ -45508,7 +45508,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q40",
@@ -45545,7 +45545,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q41",
@@ -45582,7 +45582,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q42",
@@ -45619,7 +45619,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "📌 **Doğru Cevap: D**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **D** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q43",
@@ -45656,7 +45656,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q44",
@@ -45693,7 +45693,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q45",
@@ -45730,7 +45730,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q46",
@@ -45767,7 +45767,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q47",
@@ -45804,7 +45804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q48",
@@ -45841,7 +45841,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "📌 **Doğru Cevap: A**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **A** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q49",
@@ -45878,7 +45878,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "📌 **Doğru Cevap: B**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **B** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q50",
@@ -45915,7 +45915,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "📌 **Doğru Cevap: E**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **E** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q51",
@@ -45952,6 +45952,6 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "📌 **Doğru Cevap: C**\n\n💡 **Çözüm & Kural Açıklaması:**\nÇıkmış Coğrafya Soruları Koleksiyonu müfredatı kazanımları doğrultusunda ilgili konunun temel prensipleri ve MEB EKYS standart soru yapısı esas alınmıştır.\n\n*ÖSYM / MEB Soru İpucu:* Soru görselindeki harita veya veri tablosu incelendiğinde **C** seçeneğindeki ifade konunun temel ilkeleriyle tam olarak örtüşmektedir."
+    "explanation": ""
   }
 ];
