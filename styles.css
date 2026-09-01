@@ -811,6 +811,31 @@ body {
   line-height: 1.5;
 }
 
+/* Quiz Action Buttons - Single Row Side-by-Side */
+.quiz-actions {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 10px !important;
+  margin-top: 14px !important;
+  width: 100% !important;
+}
+
+.quiz-actions .btn {
+  flex: 1 1 0 !important;
+  min-width: 0 !important;
+  padding: 12px 14px !important;
+  font-size: 0.92rem !important;
+  font-weight: 700 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 6px !important;
+  text-align: center !important;
+  white-space: nowrap !important;
+}
+
 /* Soru Gezinti Çizelgesi (Matrix Grid - En Altta) */
 .quiz-matrix-container {
   background: var(--bg-card);

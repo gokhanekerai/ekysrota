@@ -34,11 +34,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=43.0">
+  <link rel="stylesheet" href="styles.css?v=44.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=43.0').catch(err => console.log('SW register failed:', err));
+        navigator.serviceWorker.register('./sw.js?v=44.0').catch(err => console.log('SW register failed:', err));
       });
     }
   </script>
@@ -505,13 +505,10 @@
                 <div class="explanation-text" id="quiz-explanation-text"></div>
               </div>
 
-              <!-- Action Buttons (Şıkların Hemen Altında) -->
-              <div class="quiz-actions" style="margin-top: 18px; margin-bottom: 0;">
+              <!-- Action Buttons (Tek Satırda Yan Yana İleri / Geri) -->
+              <div class="quiz-actions">
                 <button class="btn btn-secondary" id="btn-quiz-prev" onclick="app.prevQuestion()">
                   ⬅️ Önceki
-                </button>
-                <button class="btn btn-secondary" id="btn-quiz-strike-mode" onclick="app.toggleStrikeMode()">
-                  ✏️ Şık Eleme: <span id="strike-status-text">Kapalı</span>
                 </button>
                 <button class="btn btn-primary" id="btn-quiz-next" onclick="app.nextQuestion()">
                   Sonraki Soru ➡️
@@ -796,13 +793,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=43.0"></script>
-  <script src="data/questions-db.js?v=43.0"></script>
-  <script src="services/storage-service.js?v=43.0"></script>
-  <script src="services/firebase-service.js?v=43.0"></script>
-  <script src="services/pdf-service.js?v=43.0"></script>
-  <script src="services/youtube-service.js?v=43.0"></script>
-  <script src="services/question-generator.js?v=43.0"></script>
-  <script src="app.js?v=43.0"></script>
+  <script src="data/ekys-sample-questions.js?v=44.0"></script>
+  <script src="data/questions-db.js?v=44.0"></script>
+  <script src="services/storage-service.js?v=44.0"></script>
+  <script src="services/firebase-service.js?v=44.0"></script>
+  <script src="services/pdf-service.js?v=44.0"></script>
+  <script src="services/youtube-service.js?v=44.0"></script>
+  <script src="services/question-generator.js?v=44.0"></script>
+  <script src="app.js?v=44.0"></script>
 </body>
 </html>
