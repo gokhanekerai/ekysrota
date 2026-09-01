@@ -34,11 +34,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=35.0">
+  <link rel="stylesheet" href="styles.css?v=37.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=35.0').catch(err => console.log('SW register failed:', err));
+        navigator.serviceWorker.register('./sw.js?v=37.0').catch(err => console.log('SW register failed:', err));
       });
     }
   </script>
@@ -81,18 +81,20 @@
     </div>
   </div>
 
-  <div class="app-container" id="main-app-container" style="display: none;">
-    
-    <!-- DESKTOP SIDEBAR -->
-    <aside class="sidebar">
+    <!-- BACKDROP FOR MOBILE SIDEBAR -->
+    <div class="sidebar-backdrop" id="sidebar-backdrop" onclick="app.toggleSidebar(false)"></div>
+
+    <!-- SIDEBAR (DESKTOP & MOBILE DRAWER) -->
+    <aside class="sidebar" id="app-sidebar">
       <div class="brand">
         <div class="brand-icon">
           <img src="assets/icon-192.png" alt="EKYSrota" class="brand-logo-img">
         </div>
-        <div>
+        <div style="flex: 1; min-width: 0;">
           <div class="brand-title">EKYS<span class="brand-rota">rota</span></div>
           <span class="brand-badge" style="background: rgba(249, 115, 22, 0.2); color: #fb923c; border: 1px solid rgba(249, 115, 22, 0.35);">YÖNETİCİ ROTASI</span>
         </div>
+        <button class="sidebar-close-btn" onclick="app.toggleSidebar(false)" aria-label="Menüyü Kapat">✕</button>
       </div>
 
       <!-- User Profile Card in Sidebar -->
@@ -141,8 +143,20 @@
     <!-- MAIN CONTENT -->
     <main class="main-content">
       
-      <!-- TOP HEADER WITH 2027 COUNTDOWN -->
+      <!-- TOP HEADER WITH 2027 COUNTDOWN & MOBILE TOGGLE -->
       <header class="top-header">
+        <div class="top-header-left">
+          <button class="mobile-menu-toggle" id="btn-mobile-sidebar-toggle" onclick="app.toggleSidebar(true)" aria-label="Yan Menüyü Aç">
+            <span>☰</span>
+          </button>
+          <div class="mobile-brand-display">
+            <div class="brand-icon mobile-brand-icon">
+              <img src="assets/icon-192.png" alt="EKYSrota" class="brand-logo-img">
+            </div>
+            <span class="brand-title" style="font-size: 1.12rem;">EKYS<span class="brand-rota">rota</span></span>
+          </div>
+        </div>
+
         <div class="countdown-bar" id="countdown-display">
           <span class="countdown-title">🎯 2027 Mart EKYS:</span>
           <div class="countdown-digits">
@@ -154,8 +168,8 @@
         </div>
 
         <div class="header-actions">
-          <button class="btn btn-primary btn-sm" onclick="app.startQuickQuiz(10)">
-            <span>⚡</span> Hızlı 10 Soru
+          <button class="btn btn-primary btn-sm btn-quick-quiz" onclick="app.startQuickQuiz(10)">
+            <span>⚡</span> <span class="quick-quiz-text">Hızlı 10 Soru</span>
           </button>
         </div>
       </header>
@@ -767,13 +781,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=36.0"></script>
-  <script src="data/questions-db.js?v=36.0"></script>
-  <script src="services/storage-service.js?v=36.0"></script>
-  <script src="services/firebase-service.js?v=36.0"></script>
-  <script src="services/pdf-service.js?v=36.0"></script>
-  <script src="services/youtube-service.js?v=36.0"></script>
-  <script src="services/question-generator.js?v=36.0"></script>
-  <script src="app.js?v=36.0"></script>
+  <script src="data/ekys-sample-questions.js?v=37.0"></script>
+  <script src="data/questions-db.js?v=37.0"></script>
+  <script src="services/storage-service.js?v=37.0"></script>
+  <script src="services/firebase-service.js?v=37.0"></script>
+  <script src="services/pdf-service.js?v=37.0"></script>
+  <script src="services/youtube-service.js?v=37.0"></script>
+  <script src="services/question-generator.js?v=37.0"></script>
+  <script src="app.js?v=37.0"></script>
 </body>
 </html>

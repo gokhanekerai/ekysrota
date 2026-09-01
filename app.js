@@ -121,8 +121,27 @@ class EKYSApp {
     if (viewId === 'stats') this.renderStatsView();
     if (viewId === 'admin-panel') this.loadAdminUsersList();
 
+    // Mobil yan menüyü otomatik kapat
+    this.toggleSidebar(false);
+
     if (saveState) {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }
+
+  toggleSidebar(open = null) {
+    const sidebar = document.getElementById('app-sidebar');
+    const backdrop = document.getElementById('sidebar-backdrop');
+    if (!sidebar) return;
+    const shouldOpen = open !== null ? open : !sidebar.classList.contains('open');
+    if (shouldOpen) {
+      sidebar.classList.add('open');
+      if (backdrop) backdrop.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    } else {
+      sidebar.classList.remove('open');
+      if (backdrop) backdrop.classList.remove('active');
+      document.body.style.overflow = '';
     }
   }
 
