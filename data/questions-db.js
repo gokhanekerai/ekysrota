@@ -5485,7 +5485,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Yönetimi (%30)",
     "icon": "🌟",
     "questionNumber": 50,
-    "questionText": "Bir Fizik Öğretmeni, 2025 Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni'nde yer alan sosyal-duygusal öğrenme becerilerine ilişkin aşağıdaki tabloyu hazırlamıştır. Tabloda \"Sosyal Yaşam Becerileri ve Ortak/Birleşik Beceriler\" üst başlığı ve bu beceri gruplarına ilişkin alt becerilere yer vermiştir. Ancak tabloda bazı becerilerin sınıflandırılmasında hata olduğunu görmüştür:\n\n| Sosyal Yaşam Becerileri | Ortak/Birleşik Beceriler |\n|---|---|\n| İletişim | Uyum |\n| Sorumlu karar verme | Esneklik |\n| Sosyal Farkındalık | İş birliği |\n\nBu tabloda yapılan sınıflandırma hatası aşağıdaki becerilerden hangilerinin yeri değiştirilirse düzeltilmiş olur?",
+    "questionText": "Bir Fizik Öğretmeni, 2025 Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni'nde yer alan sosyal-duygusal öğrenme becerilerine ilişkin görseldeki tabloyu hazırlamıştır. Tabloda \"Sosyal Yaşam Becerileri ve Ortak/Birleşik Beceriler\" üst başlığı ve bu beceri gruplarına ilişkin alt becerilere yer vermiştir. Ancak tabloda bazı becerilerin sınıflandırılmasında hata olduğunu görmüştür.\n\nBu tabloda yapılan sınıflandırma hatası aşağıdaki becerilerden hangilerinin yeri değiştirilirse düzeltilmiş olur?",
     "hasImage": true,
     "image": "assets/questions/ekys2026_q50_table.png",
     "options": [
@@ -6003,7 +6003,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Yönetimi (%30)",
     "icon": "🌟",
     "questionNumber": 64,
-    "questionText": "2025 Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni'nde yer alan program dışı etkinliklerin alt alanları ve bu alanların açıklamalarına ilişkin tablo aşağıda verilmiştir:\n\n| Alt Alan | Açıklama |\n|---|---|\n| I. Bireysel gelişimin desteklenmesi | Öğrencilere ilgi ve yeteneklerini keşfetme, öz güven oluşturma ve güçlü bir şahsiyet geliştirme fırsatı sunar. |\n| II. Zihinsel gelişimin desteklenmesi | Öğrencilerde stres, kaygı ve zorluklarla başa çıkma becerisini geliştirerek onlara akranları ve çevreleriyle etkileşim kurma fırsatı sunar. |\n| III. Sosyal-duygusal gelişimin desteklenmesi | Öğrencilere entelektüel büyüme, karar verme, eleştirel düşünme ve problem çözmeyi geliştirme fırsatı sunar. |\n| IV. Fiziksel gelişimin desteklenmesi | Öğrencileri sağlıklı gelişimleri konusunda desteklemenin yanı sıra becerileri hayat boyu yerine getirme ve sağlıklı hayat tarzı benimseme fırsatı sunar. |\n| V. Ahlaki gelişimin desteklenmesi | Birlikte çalışma, merhamet, dayanışma, adil rekabet, yardımlaşma gibi değerleri deneyimleme fırsatı sunar. |\n\nBu eşleştirmelerin doğru olması için numaralandırılmış alt alanlardan hangi ikisinin yer değiştirmesi gerekir?",
+    "questionText": "2025 Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni'nde yer alan program dışı etkinliklerin alt alanları ve bu alanların açıklamalarına ilişkin tablo görselde verilmiştir.\n\nBu eşleştirmelerin doğru olması için numaralandırılmış alt alanlardan hangi ikisinin yer değiştirmesi gerekir?",
     "hasImage": true,
     "image": "assets/questions/ekys2026_q64_table.png",
     "options": [
