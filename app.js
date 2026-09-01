@@ -2307,7 +2307,7 @@ class EKYSApp {
 
     const modalTitleEl = document.getElementById('subtopic-modal-title');
     const modalDescEl = document.getElementById('subtopic-modal-desc');
-    const modalGridEl = document.getElementById('subtopic-modal-cards-grid');
+    const modalGridEl = document.getElementById('subtopic-modal-cards-grid') || document.getElementById('subtopic-items-grid');
 
     let backBtnHtml = '';
     if (data.parentKey) {
