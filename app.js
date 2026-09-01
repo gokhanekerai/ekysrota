@@ -2142,6 +2142,82 @@ class EKYSApp {
             badge: '80 Soru Hedef'
           }
         ]
+      },
+      'egitim': {
+        title: '🎓 Eğitim Bilimleri ve Yönetimi Testleri',
+        desc: 'Eğitim Yönetimi, Liderlik, Denetim, Kuramlar, Ölçme ve Değerlendirme Testleri (300+ Soru):',
+        items: [
+          {
+            id: 'egitim_yonetimi_cat',
+            name: '🎓 Eğitim Yönetimi, Liderlik & Denetim',
+            icon: '🎓',
+            desc: 'Yönetim Süreçleri, Liderlik Kuramları, Örgütsel Davranış, İletişim ve Okul Yönetimi.',
+            filterKey: 'egitim_yonetimi',
+            badge: '48 Soru Hazır'
+          },
+          {
+            id: 'egitim_bilimleri_cat',
+            name: '📚 Öğrenme, Gelişim & Ölçme-Değerlendirme',
+            icon: '📚',
+            desc: 'Öğrenme Kuramları, Gelişim Psikolojisi, Program Geliştirme ve Ölçme Araçları.',
+            filterKey: 'egitim_bilimleri',
+            badge: '16 Soru Hazır'
+          },
+          {
+            id: 'degerler_egitimi_cat',
+            name: '💎 Değerler Eğitimi & Meslek Etiği',
+            icon: '💎',
+            desc: 'Değerler Eğitimi Yaklaşımları, Kohlberg Ahlak Gelişimi ve Kamu Görevlileri Etik İlkeleri.',
+            filterKey: 'degerler',
+            badge: '24 Soru Hazır'
+          },
+          {
+            id: 'maarif_modeli_cat',
+            name: '🌟 Türkiye Yüzyılı Maarif Modeli',
+            icon: '🌟',
+            desc: 'Yeni Müfredat, Erdem-Değer-Eylem Çerçevesi, Beceriler ve Ölçme Esasları.',
+            filterKey: 'maarif',
+            badge: '24 Soru Hazır'
+          },
+          {
+            id: 'egitim_cikmis_cat',
+            name: '📜 2019 - 2026 Çıkmış Eğitim Bilimleri Soruları',
+            icon: '📜',
+            desc: 'Tüm resmî EKYS sınavlarında çıkmış 180+ Eğitim Bilimleri ve Yönetimi sorusu.',
+            filterKey: 'egitim_cikmis',
+            badge: '180+ Soru Çıkmış'
+          },
+          {
+            id: 'egitim_tum',
+            name: '🏆 Tüm Eğitim Bilimleri Karma Test',
+            icon: '🎯',
+            desc: 'Veritabanındaki tüm 300+ Eğitim Bilimleri sorusundan oluşan büyük soru havuzu.',
+            filterKey: 'egitim_tum',
+            badge: '300+ Soru Karma'
+          }
+        ]
+      },
+      'maarif': {
+        title: '🌟 Türkiye Yüzyılı Maarif Modeli Testleri',
+        desc: 'Yeni Maarif Modeli Müfredatı, Beceriler ve Ölçme-Değerlendirme Testleri:',
+        items: [
+          {
+            id: 'maarif_temel',
+            name: '🌟 Maarif Modeli Temel İlkeler ve Yetkinlikler',
+            icon: '🌟',
+            desc: 'Bütüncül Eğitim, Erdem-Değer-Eylem, Kavramsal Beceriler ve Sosyal-Duygusal Öğrenme.',
+            filterKey: 'maarif',
+            badge: '24 Soru'
+          },
+          {
+            id: 'maarif_tum',
+            name: '🏆 Maarif Modeli Genel Karma Deneme',
+            icon: '🎯',
+            desc: 'Maarif Modeli odaklı 2026 ve 2027 EKYS soru havuzu.',
+            filterKey: 'maarif',
+            badge: '24 Soru'
+          }
+        ]
       }
     };
   }
@@ -2276,6 +2352,14 @@ class EKYSApp {
         if (isCikmis && qNum >= 41 && qNum <= 64) return true;
         if (qText.includes('maarif') || qText.includes('erdem') || qText.includes('beceri') || qText.includes('eylem')) return true;
         return false;
+      }
+
+      if (filterKey === 'egitim_cikmis') {
+        return isCikmis && (qNum >= 29 && qNum <= 64);
+      }
+
+      if (filterKey === 'egitim_tum') {
+        return tId.includes('egitim') || tId.includes('yonetim') || tId.includes('degerler') || tId.includes('maarif') || (isCikmis && qNum >= 29 && qNum <= 64);
       }
 
       // 5. Kanun Bazlı Karma Filtreler
