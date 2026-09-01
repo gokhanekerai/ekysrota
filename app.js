@@ -304,18 +304,9 @@ class EKYSApp {
   getSubTopicData() {
     return {
       'genel-kultur': {
-        title: '🌍 Genel Kültür Alt Konu Testleri (Soru 1-16)',
-        desc: 'Tarih, Coğrafya, Temel Yurttaşlık ve Güncel Olaylar arasından test seçin:',
+        title: '🌍 Genel Kültür Alt Konu Testleri (Soru 6-16)',
+        desc: 'Coğrafya, Temel Yurttaşlık ve Güncel Olaylar arasından test seçin:',
         items: [
-          {
-            id: 'tarih',
-            name: 'Tarih Testleri',
-            icon: '📜',
-            desc: 'Video Tarama Testleri (1-2), 2026, 2025, 2024, 2023 EKYS Çıkmış Soruları ve Karma Test.',
-            filterKey: 'tarih',
-            targetSubtopic: 'tarih-subtopics',
-            badge: '6 Farklı Test'
-          },
           {
             id: 'cografya',
             name: 'Coğrafya Testleri & Konu Havuzu',
@@ -342,11 +333,58 @@ class EKYSApp {
             filterKey: 'guncel',
             targetSubtopic: 'guncel-subtopics',
             badge: 'Çıkmış + Karma'
+          },
+          {
+            id: 'genel_kultur_tum',
+            name: '🏆 Tüm Genel Kültür Karma Test',
+            icon: '🎯',
+            desc: 'Tüm Coğrafya, Yurttaşlık ve Güncel sorulardan oluşan karma soru havuzu.',
+            filterKey: 'genel_kultur_tum',
+            badge: 'Karma Test'
+          }
+        ]
+      },
+      'inkilap': {
+        title: '🇹🇷 Tarih, Atatürk İlkeleri ve İnkılap Tarihi',
+        desc: 'Genel Tarih, İnkılap Tarihi, Kurtuluş Savaşı ve Çıkmış Tarih Soruları:',
+        items: [
+          {
+            id: 'genel_tarih_cat',
+            name: '📜 Genel Tarih Testleri',
+            icon: '📜',
+            desc: 'İslamiyet Öncesi Türk Tarihi, Türk-İslam Devletleri, Selçuklu, Osmanlı ve Çıkmış Sorular.',
+            filterKey: 'tarih',
+            targetSubtopic: 'tarih-subtopics',
+            badge: 'Video Tarama + Çıkmış'
+          },
+          {
+            id: 'inkilap_konu_cat',
+            name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
+            icon: '🇹🇷',
+            desc: 'Milli Mücadele, Genelgeler/Kongreler, Muharebeler, Lozan, Cumhuriyet Dönemi ve İlkeler.',
+            filterKey: 'inkilap',
+            badge: 'Çıkmış + Konu Testleri'
+          },
+          {
+            id: 'inkilap_cikmis_cat',
+            name: '📜 2019 - 2026 Çıkmış İnkılap Tarihi Soruları',
+            icon: '📜',
+            desc: 'Tüm resmî MEB EKYS sınavlarında çıkmış İnkılap Tarihi ve Atatürkçülük soruları (Soru 17-28).',
+            filterKey: 'inkilap_cikmis',
+            badge: '70+ Soru Çıkmış'
+          },
+          {
+            id: 'tarih_tum_karma',
+            name: '🏆 Tüm Tarih & İnkılap Tarihi (Büyük Karma)',
+            icon: '🎯',
+            desc: 'Genel Tarih ve İnkılap Tarihi tüm soru havuzundan karma test.',
+            filterKey: 'tarih_tum',
+            badge: 'Tüm Tarih Karma'
           }
         ]
       },
       'tarih-subtopics': {
-        parentKey: 'genel-kultur',
+        parentKey: 'inkilap',
         title: '📜 Genel Tarih Video Tarama & Çıkmış Testleri',
         desc: 'Çözmek istediğiniz Tarih testini seçin (Konu bazlı testler veya çıkmış sorular):',
         items: [
@@ -2328,6 +2366,18 @@ class EKYSApp {
         if (isCikmis && qNum >= 17 && qNum <= 28) return true;
         if (tId.includes('inkilap') || qText.includes('atatürk') || qText.includes('nutuk') || qText.includes('lozan') || qText.includes('amasya') || qText.includes('erzurum') || qText.includes('sivas') || qText.includes('cumhuriyetçilik') || qText.includes('laiklik')) return true;
         return false;
+      }
+
+      if (filterKey === 'inkilap_cikmis') {
+        return isCikmis && (qNum >= 17 && qNum <= 28);
+      }
+
+      if (filterKey === 'tarih_tum') {
+        return (isCikmis && qNum >= 1 && qNum <= 28) || tId.includes('tarih') || tId.includes('inkilap');
+      }
+
+      if (filterKey === 'genel_kultur_tum') {
+        return (isCikmis && qNum >= 6 && qNum <= 16) || tId.includes('cogr') || tId.includes('yurttaslik') || tId.includes('guncel');
       }
 
       if (filterKey === 'degerler' || filterKey === 'degerler_egitimi') {
