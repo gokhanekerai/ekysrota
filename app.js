@@ -346,16 +346,23 @@ class EKYSApp {
       },
       'inkilap': {
         title: '🇹🇷 Tarih, Atatürk İlkeleri ve İnkılap Tarihi',
-        desc: 'Genel Tarih, İnkılap Tarihi, Kurtuluş Savaşı ve Çıkmış Tarih Soruları:',
+        desc: 'Genel Tarih Video Tarama Testleri, İnkılap Tarihi ve Çıkmış Tarih Soruları:',
         items: [
           {
-            id: 'genel_tarih_cat',
-            name: '📜 Genel Tarih Testleri',
+            id: 'tarih1_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 1',
             icon: '📜',
-            desc: 'İslamiyet Öncesi Türk Tarihi, Türk-İslam Devletleri, Selçuklu, Osmanlı ve Çıkmış Sorular.',
-            filterKey: 'tarih',
-            targetSubtopic: 'tarih-subtopics',
-            badge: 'Video Tarama + Çıkmış'
+            desc: 'İslamiyet Öncesi Türk Tarihi, İlk Türk Devletleri Kültür ve Medeniyeti (19 Soru).',
+            filterKey: 'tarih1',
+            badge: '19 Soru Video Test'
+          },
+          {
+            id: 'tarih2_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 2',
+            icon: '📜',
+            desc: 'Türk-İslam Devletleri, Büyük Selçuklu, Anadolu Selçuklu ve Osmanlı Tarihi (20 Soru).',
+            filterKey: 'tarih2',
+            badge: '20 Soru Video Test'
           },
           {
             id: 'inkilap_konu_cat',
@@ -366,18 +373,18 @@ class EKYSApp {
             badge: 'Çıkmış + Konu Testleri'
           },
           {
-            id: 'inkilap_cikmis_cat',
-            name: '📜 2019 - 2026 Çıkmış İnkılap Tarihi Soruları',
+            id: 'tarih_cikmis_cat',
+            name: '📜 2019 - 2026 Çıkmış Tarih & İnkılap Soruları',
             icon: '📜',
-            desc: 'Tüm resmî MEB EKYS sınavlarında çıkmış İnkılap Tarihi ve Atatürkçülük soruları (Soru 17-28).',
-            filterKey: 'inkilap_cikmis',
-            badge: '70+ Soru Çıkmış'
+            desc: 'Tüm resmî MEB EKYS sınavlarında çıkmış Genel Tarih ve İnkılap Tarihi soruları (Soru 1-6 & 17-28).',
+            filterKey: 'tarih_cikmis',
+            badge: '100+ Soru Çıkmış'
           },
           {
             id: 'tarih_tum_karma',
             name: '🏆 Tüm Tarih & İnkılap Tarihi (Büyük Karma)',
             icon: '🎯',
-            desc: 'Genel Tarih ve İnkılap Tarihi tüm soru havuzundan karma test.',
+            desc: 'Genel Tarih 1-2 ve İnkılap Tarihi tüm soru havuzundan karma test.',
             filterKey: 'tarih_tum',
             badge: 'Tüm Tarih Karma'
           }
@@ -2368,8 +2375,8 @@ class EKYSApp {
         return false;
       }
 
-      if (filterKey === 'inkilap_cikmis') {
-        return isCikmis && (qNum >= 17 && qNum <= 28);
+      if (filterKey === 'inkilap_cikmis' || filterKey === 'tarih_cikmis') {
+        return isCikmis && ((qNum >= 1 && qNum <= 6) || (qNum >= 17 && qNum <= 28));
       }
 
       if (filterKey === 'tarih_tum') {
