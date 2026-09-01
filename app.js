@@ -2158,23 +2158,23 @@ class EKYSApp {
       },
       'egitim': {
         title: '🎓 Eğitim Bilimleri ve Yönetimi Testleri',
-        desc: 'Eğitim Yönetimi, Liderlik, Denetim, Kuramlar, Ölçme ve Değerlendirme Testleri (300+ Soru):',
+        desc: 'Eğitim Yönetimi, Liderlik, Denetim, Pedagoji, Ölçme ve Değerler Eğitimi Testleri:',
         items: [
           {
             id: 'egitim_yonetimi_cat',
-            name: '🎓 Eğitim Yönetimi, Liderlik & Denetim',
+            name: '🎓 Eğitim Yönetimi, Liderlik & Okul Denetimi',
             icon: '🎓',
-            desc: 'Yönetim Süreçleri, Liderlik Kuramları, Örgütsel Davranış, İletişim ve Okul Yönetimi.',
+            desc: 'Yönetim Süreçleri, Liderlik Kuramları, Örgütsel Davranış, İletişim ve Okul Denetimi.',
             filterKey: 'egitim_yonetimi',
-            badge: '48 Soru Hazır'
+            badge: '190+ Soru'
           },
           {
             id: 'egitim_bilimleri_cat',
-            name: '📚 Öğrenme, Gelişim & Ölçme-Değerlendirme',
+            name: '📚 Öğrenme Kuramları, Gelişim & Ölçme-Değerlendirme',
             icon: '📚',
             desc: 'Öğrenme Kuramları, Gelişim Psikolojisi, Program Geliştirme ve Ölçme Araçları.',
             filterKey: 'egitim_bilimleri',
-            badge: '16 Soru Hazır'
+            badge: '140+ Soru'
           },
           {
             id: 'degerler_egitimi_cat',
@@ -2182,51 +2182,51 @@ class EKYSApp {
             icon: '💎',
             desc: 'Değerler Eğitimi Yaklaşımları, Kohlberg Ahlak Gelişimi ve Kamu Görevlileri Etik İlkeleri.',
             filterKey: 'degerler',
-            badge: '24 Soru Hazır'
-          },
-          {
-            id: 'maarif_modeli_cat',
-            name: '🌟 Türkiye Yüzyılı Maarif Modeli',
-            icon: '🌟',
-            desc: 'Yeni Müfredat, Erdem-Değer-Eylem Çerçevesi, Beceriler ve Ölçme Esasları.',
-            filterKey: 'maarif',
-            badge: '24 Soru Hazır'
+            badge: '45+ Soru'
           },
           {
             id: 'egitim_cikmis_cat',
-            name: '📜 2019 - 2026 Çıkmış Eğitim Bilimleri Soruları',
+            name: '📜 2019 - 2025 Çıkmış Eğitim Yönetimi & Bilimleri Soruları',
             icon: '📜',
-            desc: 'Tüm resmî EKYS sınavlarında çıkmış 180+ Eğitim Bilimleri ve Yönetimi sorusu.',
+            desc: 'Tüm resmî EKYS sınavlarında çıkmış 215+ Eğitim Yönetimi ve Eğitim Bilimleri sorusu.',
             filterKey: 'egitim_cikmis',
-            badge: '180+ Soru Çıkmış'
+            badge: '215 Soru Çıkmış'
           },
           {
             id: 'egitim_tum',
-            name: '🏆 Tüm Eğitim Bilimleri Karma Test',
+            name: '🏆 Tüm Eğitim Bilimleri & Yönetim Karma Test',
             icon: '🎯',
-            desc: 'Veritabanındaki tüm 300+ Eğitim Bilimleri sorusundan oluşan büyük soru havuzu.',
+            desc: 'Veritabanındaki tüm 290+ Eğitim Bilimleri ve Yönetimi sorusundan oluşan büyük soru havuzu.',
             filterKey: 'egitim_tum',
-            badge: '300+ Soru Karma'
+            badge: '290+ Soru Karma'
           }
         ]
       },
       'maarif': {
-        title: '🌟 Türkiye Yüzyılı Maarif Modeli Testleri',
-        desc: 'Yeni Maarif Modeli Müfredatı, Beceriler ve Ölçme-Değerlendirme Testleri:',
+        title: '🌟 Türkiye Yüzyılı Maarif Modeli (2026 EKYS Soru 41-64)',
+        desc: 'İlk kez 2026 EKYS sınavında sorulan 24 adet resmî Türkiye Yüzyılı Maarif Modeli sorusu:',
         items: [
           {
-            id: 'maarif_temel',
-            name: '🌟 Maarif Modeli Temel İlkeler ve Yetkinlikler',
+            id: 'maarif_2026',
+            name: '🌟 2026 EKYS Maarif Modeli Soruları (Soru 41-64)',
             icon: '🌟',
+            desc: '2026 Mart MEB EKYS sınavında sorulan 24 resmî Maarif Modeli sorusunun tamamı.',
+            filterKey: 'maarif',
+            badge: '24 Soru (Tam Liste)'
+          },
+          {
+            id: 'maarif_temel',
+            name: '📑 Öğretim Programları Ortak Metni & Beceriler',
+            icon: '📑',
             desc: 'Bütüncül Eğitim, Erdem-Değer-Eylem, Kavramsal Beceriler ve Sosyal-Duygusal Öğrenme.',
             filterKey: 'maarif',
             badge: '24 Soru'
           },
           {
             id: 'maarif_tum',
-            name: '🏆 Maarif Modeli Genel Karma Deneme',
+            name: '🏆 Maarif Modeli Deneme Sınavı',
             icon: '🎯',
-            desc: 'Maarif Modeli odaklı 2026 ve 2027 EKYS soru havuzu.',
+            desc: '2026 ve 2027 EKYS Maarif Modeli soruları odaklı pratik ve sınav modu.',
             filterKey: 'maarif',
             badge: '24 Soru'
           }
@@ -2361,6 +2361,8 @@ class EKYSApp {
         return false;
       }
 
+      const is2026 = tName.includes('2026') || tId.includes('2026') || (q.id && q.id.includes('2026'));
+
       if (filterKey === 'egitim_bilimleri' || filterKey === 'egitim') {
         if (isCikmis && qNum >= 33 && qNum <= 40) return true;
         if (tId.includes('egitim_bilimleri') || qText.includes('öğretim') || qText.includes('rehberlik') || qText.includes('ölçme') || qText.includes('yapılandırmacı')) return true;
@@ -2368,23 +2370,23 @@ class EKYSApp {
       }
 
       if (filterKey === 'egitim_yonetimi' || filterKey === 'yonetim') {
-        if (isCikmis && qNum >= 41 && qNum <= 64) return true;
-        if (tId.includes('egitim_yonetimi') || qText.includes('yönetim') || qText.includes('liderlik') || qText.includes('denetim') || qText.includes('örgüt') || qText.includes('iklim')) return true;
+        if (isCikmis && !is2026 && qNum >= 41 && qNum <= 64) return true;
+        if (tId.includes('egitim_yonetimi') || tId.includes('yonetim') || qText.includes('yönetim') || qText.includes('liderlik') || qText.includes('denetim') || qText.includes('örgüt') || qText.includes('okul yönetimi')) return true;
         return false;
       }
 
       if (filterKey === 'maarif') {
-        if (isCikmis && qNum >= 41 && qNum <= 64) return true;
-        if (qText.includes('maarif') || qText.includes('erdem') || qText.includes('beceri') || qText.includes('eylem')) return true;
+        if (is2026 && qNum >= 41 && qNum <= 64) return true;
+        if (qText.includes('maarif modeli') || qText.includes('öğretim programları ortak metni')) return true;
         return false;
       }
 
       if (filterKey === 'egitim_cikmis') {
-        return isCikmis && (qNum >= 29 && qNum <= 64);
+        return isCikmis && ((qNum >= 29 && qNum <= 40) || (!is2026 && qNum >= 41 && qNum <= 64));
       }
 
       if (filterKey === 'egitim_tum') {
-        return tId.includes('egitim') || tId.includes('yonetim') || tId.includes('degerler') || tId.includes('maarif') || (isCikmis && qNum >= 29 && qNum <= 64);
+        return (isCikmis && ((qNum >= 29 && qNum <= 40) || (!is2026 && qNum >= 41 && qNum <= 64))) || tId.includes('egitim') || tId.includes('yonetim') || tId.includes('degerler');
       }
 
       // 5. Kanun Bazlı Karma Filtreler
