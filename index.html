@@ -34,11 +34,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=39.0">
+  <link rel="stylesheet" href="styles.css?v=40.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=39.0').catch(err => console.log('SW register failed:', err));
+        navigator.serviceWorker.register('./sw.js?v=40.0').catch(err => console.log('SW register failed:', err));
       });
     }
   </script>
@@ -479,12 +479,15 @@
 
               <!-- Question Image Section (with Zoom Lightbox) -->
               <div class="quiz-image-container" id="quiz-image-box" style="display: none;">
-                <div class="image-wrapper" onclick="app.openImageZoom()">
+                <div class="quiz-image-card" onclick="app.openImageZoom()" title="Tam ekran büyütmek için dokunun">
                   <img id="quiz-q-image" src="" alt="Soru Görseli">
-                  <div class="image-zoom-overlay">
-                    <span>🔍 Tam Ekran Büyüt / İncele</span>
+                  <div class="quiz-image-tap-hint">
+                    <span>🔍 Büyütmek için Görsele Dokunun</span>
                   </div>
                 </div>
+                <button type="button" class="btn btn-secondary btn-block btn-sm btn-image-zoom-action" onclick="app.openImageZoom()">
+                  <span>🔍</span> <strong>Görseli / Haritayı Tam Ekran Büyüt &amp; İncele</strong>
+                </button>
               </div>
 
               <!-- Question Text -->
@@ -775,23 +778,28 @@
   </div>
 
   <!-- MODAL: IMAGE ZOOM -->
-  <div class="modal modal-zoom" id="modal-zoom-image" onclick="app.closeZoomModal()">
+  <div class="modal modal-zoom" id="modal-zoom-image" onclick="app.closeImageZoom()">
     <div class="modal-zoom-content" onclick="event.stopPropagation()">
-      <button class="modal-zoom-close" onclick="app.closeZoomModal()">✕</button>
-      <div class="modal-zoom-body">
-        <img id="zoom-modal-img" src="" alt="Büyütülmüş Soru Görseli">
+      <div class="modal-zoom-header">
+        <span style="font-weight: 700; font-size: 0.95rem; color: #ffffff; display: flex; align-items: center; gap: 6px;">
+          <span>🔍</span> Büyütülmüş Soru Görseli / Harita
+        </span>
+        <button class="modal-zoom-close" onclick="app.closeImageZoom()" aria-label="Kapat">✕</button>
+      </div>
+      <div class="modal-zoom-body" onclick="app.closeImageZoom()">
+        <img id="zoom-modal-img" src="" alt="Büyütülmüş Soru Görseli" onclick="event.stopPropagation()">
       </div>
     </div>
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=39.0"></script>
-  <script src="data/questions-db.js?v=39.0"></script>
-  <script src="services/storage-service.js?v=39.0"></script>
-  <script src="services/firebase-service.js?v=39.0"></script>
-  <script src="services/pdf-service.js?v=39.0"></script>
-  <script src="services/youtube-service.js?v=39.0"></script>
-  <script src="services/question-generator.js?v=39.0"></script>
-  <script src="app.js?v=39.0"></script>
+  <script src="data/ekys-sample-questions.js?v=40.0"></script>
+  <script src="data/questions-db.js?v=40.0"></script>
+  <script src="services/storage-service.js?v=40.0"></script>
+  <script src="services/firebase-service.js?v=40.0"></script>
+  <script src="services/pdf-service.js?v=40.0"></script>
+  <script src="services/youtube-service.js?v=40.0"></script>
+  <script src="services/question-generator.js?v=40.0"></script>
+  <script src="app.js?v=40.0"></script>
 </body>
 </html>

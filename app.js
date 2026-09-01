@@ -2888,10 +2888,14 @@ class EKYSApp {
 
       if (isStruck) statusClass += ' struck-through';
 
+      const optLabel = (opt.text && opt.text.trim() && opt.text.trim() !== opt.key) 
+        ? opt.text.trim() 
+        : `Seçenek (${opt.key})`;
+
       return `
         <div class="option-item ${statusClass}" onclick="app.handleOptionClick('${opt.key}')">
           <div class="option-key">${opt.key}</div>
-          <div class="option-text">${opt.text}</div>
+          <div class="option-text">${optLabel}</div>
           <button class="option-strike-btn" onclick="event.stopPropagation(); app.toggleStrikeOption('${opt.key}')" title="Bu şıkkı ele (üstünü çiz)">
             ✏️
           </button>
@@ -3095,22 +3099,35 @@ class EKYSApp {
   }
 
   // --- GÖRSEL BÜYÜTEÇ (ZOOM LIGHTBOX) ---
-  openImageZoom() {
-    if (!this.activeQuiz) return;
-    const q = this.activeQuiz.questions[this.activeQuiz.currentIndex];
-    if (!q || !q.image) return;
+  openImageZoom(imgSrc = null) {
+    let src = imgSrc;
+    if (!src && this.activeQuiz) {
+      const q = this.activeQuiz.questions[this.activeQuiz.currentIndex];
+      if (q && (q.image || q.hasImage)) src = q.image;
+    }
+    if (!src) return;
 
-    const modal = document.getElementById('image-zoom-modal');
+    const modal = document.getElementById('modal-zoom-image') || document.getElementById('image-zoom-modal');
     const img = document.getElementById('zoom-modal-img');
     if (modal && img) {
-      img.src = q.image;
+      img.src = src;
       modal.classList.add('active');
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
     }
   }
 
   closeImageZoom() {
-    const modal = document.getElementById('image-zoom-modal');
-    if (modal) modal.classList.remove('active');
+    const modal = document.getElementById('modal-zoom-image') || document.getElementById('image-zoom-modal');
+    if (modal) {
+      modal.classList.remove('active');
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+    }
+  }
+
+  closeZoomModal() {
+    this.closeImageZoom();
   }
 
   // --- YANLIŞ DEFTERİ (WRONG POOL) ---
