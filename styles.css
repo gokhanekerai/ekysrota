@@ -220,16 +220,35 @@ body {
 
 /* Top Header */
 .top-header {
-  padding: 16px 28px;
+  padding: 14px 28px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   border-bottom: 1px solid var(--border-color);
   background: rgba(11, 15, 25, 0.7);
   backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
   position: sticky;
   top: 0;
   z-index: 40;
+  gap: 16px;
+}
+
+.top-header-row {
+  display: flex;
+  align-items: center;
+}
+
+.top-header-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.top-header-sub {
+  display: flex;
+  align-items: center;
 }
 
 .countdown-bar {
@@ -1189,15 +1208,55 @@ body {
 
   .main-content {
     padding-bottom: 84px;
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box;
+    overflow-x: hidden;
   }
 
+  /* 2-Row Clean Stacked Top Header on Mobile */
   .top-header {
-    padding: 10px 14px;
-    gap: 8px;
+    flex-direction: column !important;
+    padding: 8px 12px 10px 12px !important;
+    gap: 8px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+  }
+
+  .top-header-row {
+    width: 100% !important;
+  }
+
+  .top-header-main {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+  }
+
+  .top-header-sub {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100% !important;
+  }
+
+  .countdown-bar {
+    width: 100% !important;
+    justify-content: center !important;
+    padding: 6px 10px !important;
+    font-size: 0.8rem !important;
+    box-sizing: border-box !important;
+    background: rgba(99, 102, 241, 0.15) !important;
   }
 
   .view-container {
     padding: 14px 12px;
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box;
+    overflow-x: hidden;
   }
 
   .grid-cards {
@@ -1284,17 +1343,22 @@ body {
 
 @media (max-width: 540px) {
   .countdown-title {
-    display: none;
+    font-size: 0.74rem !important;
   }
   .countdown-bar {
-    padding: 4px 8px;
-    font-size: 0.75rem;
+    padding: 4px 6px !important;
+    font-size: 0.75rem !important;
   }
-  .quick-quiz-text {
-    display: none;
+  .countdown-digits {
+    font-size: 0.75rem !important;
+    gap: 3px !important;
+  }
+  .countdown-item {
+    padding: 1px 4px !important;
   }
   .btn-quick-quiz {
-    padding: 6px 10px;
+    padding: 6px 10px !important;
+    font-size: 0.78rem !important;
   }
 }
 

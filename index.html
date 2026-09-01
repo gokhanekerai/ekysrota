@@ -34,11 +34,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=38.0">
+  <link rel="stylesheet" href="styles.css?v=39.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=38.0').catch(err => console.log('SW register failed:', err));
+        navigator.serviceWorker.register('./sw.js?v=39.0').catch(err => console.log('SW register failed:', err));
       });
     }
   </script>
@@ -145,32 +145,36 @@
       
       <!-- TOP HEADER WITH 2027 COUNTDOWN & MOBILE TOGGLE -->
       <header class="top-header">
-        <div class="top-header-left">
-          <button class="mobile-menu-toggle" id="btn-mobile-sidebar-toggle" onclick="app.toggleSidebar(true)" aria-label="Yan Menüyü Aç">
-            <span>☰</span>
-          </button>
-          <div class="mobile-brand-display">
-            <div class="brand-icon mobile-brand-icon">
-              <img src="assets/icon-192.png" alt="EKYSrota" class="brand-logo-img">
+        <div class="top-header-row top-header-main">
+          <div class="top-header-left">
+            <button class="mobile-menu-toggle" id="btn-mobile-sidebar-toggle" onclick="app.toggleSidebar(true)" aria-label="Yan Menüyü Aç">
+              <span>☰</span>
+            </button>
+            <div class="mobile-brand-display">
+              <div class="brand-icon mobile-brand-icon">
+                <img src="assets/icon-192.png" alt="EKYSrota" class="brand-logo-img">
+              </div>
+              <span class="brand-title" style="font-size: 1.12rem;">EKYS<span class="brand-rota">rota</span></span>
             </div>
-            <span class="brand-title" style="font-size: 1.12rem;">EKYS<span class="brand-rota">rota</span></span>
+          </div>
+
+          <div class="header-actions">
+            <button class="btn btn-primary btn-sm btn-quick-quiz" onclick="app.startQuickQuiz(10)">
+              <span>⚡</span> <span class="quick-quiz-text">Hızlı 10 Soru</span>
+            </button>
           </div>
         </div>
 
-        <div class="countdown-bar" id="countdown-display">
-          <span class="countdown-title">🎯 2027 Mart EKYS:</span>
-          <div class="countdown-digits">
-            <span class="countdown-item"><strong id="cd-days">0</strong>g</span>
-            <span class="countdown-item"><strong id="cd-hours">00</strong>s</span>
-            <span class="countdown-item"><strong id="cd-mins">00</strong>d</span>
-            <span class="countdown-item"><strong id="cd-secs">00</strong>sn</span>
+        <div class="top-header-row top-header-sub">
+          <div class="countdown-bar" id="countdown-display">
+            <span class="countdown-title">🎯 2027 Mart EKYS:</span>
+            <div class="countdown-digits">
+              <span class="countdown-item"><strong id="cd-days">0</strong>g</span>
+              <span class="countdown-item"><strong id="cd-hours">00</strong>s</span>
+              <span class="countdown-item"><strong id="cd-mins">00</strong>d</span>
+              <span class="countdown-item"><strong id="cd-secs">00</strong>sn</span>
+            </div>
           </div>
-        </div>
-
-        <div class="header-actions">
-          <button class="btn btn-primary btn-sm btn-quick-quiz" onclick="app.startQuickQuiz(10)">
-            <span>⚡</span> <span class="quick-quiz-text">Hızlı 10 Soru</span>
-          </button>
         </div>
       </header>
 
@@ -781,13 +785,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=38.0"></script>
-  <script src="data/questions-db.js?v=38.0"></script>
-  <script src="services/storage-service.js?v=38.0"></script>
-  <script src="services/firebase-service.js?v=38.0"></script>
-  <script src="services/pdf-service.js?v=38.0"></script>
-  <script src="services/youtube-service.js?v=38.0"></script>
-  <script src="services/question-generator.js?v=38.0"></script>
-  <script src="app.js?v=38.0"></script>
+  <script src="data/ekys-sample-questions.js?v=39.0"></script>
+  <script src="data/questions-db.js?v=39.0"></script>
+  <script src="services/storage-service.js?v=39.0"></script>
+  <script src="services/firebase-service.js?v=39.0"></script>
+  <script src="services/pdf-service.js?v=39.0"></script>
+  <script src="services/youtube-service.js?v=39.0"></script>
+  <script src="services/question-generator.js?v=39.0"></script>
+  <script src="app.js?v=39.0"></script>
 </body>
 </html>
