@@ -596,17 +596,74 @@ body {
   margin-bottom: 16px;
 }
 
-/* Şıklar - 2 Sütunlu Yan Yana Düzen */
+/* Şıklar - Akıllı & Az Yer Kaplayan Düzen */
 .options-list {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 10px;
+  gap: 8px;
+  margin-bottom: 12px;
 }
 
-@media (max-width: 640px) {
-  .options-list {
-    grid-template-columns: 1fr;
-  }
+/* 1. Görsel Sorular & Harfli Şıklar için 5'li Yan Yana Tek Satır Düzen */
+.options-list.options-compact-5 {
+  grid-template-columns: repeat(5, 1fr) !important;
+  gap: 6px;
+}
+
+.options-compact-5 .option-item {
+  padding: 8px 2px;
+  min-height: 44px;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(249, 115, 22, 0.3);
+}
+
+.options-compact-5 .option-item:hover {
+  border-color: #f97316;
+  background: rgba(249, 115, 22, 0.14);
+}
+
+.options-compact-5 .option-key {
+  width: 32px;
+  height: 32px;
+  font-size: 1.15rem;
+  font-weight: 800;
+  background: rgba(255, 255, 255, 0.12);
+  color: #ffffff;
+  margin: 0 auto;
+}
+
+.options-compact-5 .option-text {
+  display: none;
+}
+
+.options-compact-5 .option-strike-btn {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 18px;
+  height: 18px;
+  font-size: 0.6rem;
+  padding: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/* 2. Kısa Metinli Şıklar için 2 Sütunlu Düzen (Mobilde de Yan Yana) */
+.options-list.options-grid-2col {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+.options-grid-2col .option-item:nth-child(5):last-child {
+  grid-column: span 2;
+}
+
+/* 3. Uzun Metinli Şıklar için Tam Genişlik */
+.options-list.options-grid-1col {
+  grid-template-columns: 1fr;
+  gap: 8px;
 }
 
 .option-item {
@@ -616,22 +673,11 @@ body {
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
-  padding: 10px 14px;
-  min-height: 48px;
+  padding: 8px 12px;
+  min-height: 42px;
   cursor: pointer;
   transition: all 0.18s ease;
   position: relative;
-}
-
-/* 5. Şık (E şıkkı) tek kaldığında şık dengeli görünsün */
-.option-item:nth-child(5):last-child {
-  grid-column: span 2;
-}
-
-@media (max-width: 640px) {
-  .option-item:nth-child(5):last-child {
-    grid-column: span 1;
-  }
 }
 
 .option-item:hover {

@@ -2871,6 +2871,19 @@ class EKYSApp {
       ];
     }
 
+    // Şıkların uzunluğunu ve görsel durumunu kontrol et
+    const isVisualQuestion = !!(q.hasImage || q.image);
+    const hasOnlyLetterOptions = options.every(opt => !opt.text || opt.text.trim() === opt.key || opt.text.trim().toLowerCase().startsWith('seçenek') || opt.text.trim().length <= 2);
+    const isVeryShortOptions = options.every(opt => (opt.text || '').trim().length <= 20);
+
+    if (isVisualQuestion || hasOnlyLetterOptions) {
+      optionsList.className = 'options-list options-compact-5';
+    } else if (isVeryShortOptions) {
+      optionsList.className = 'options-list options-grid-2col';
+    } else {
+      optionsList.className = 'options-list options-grid-1col';
+    }
+
     optionsList.innerHTML = options.map(opt => {
       const isSelected = userAnswer === opt.key;
       let statusClass = '';
@@ -2888,12 +2901,11 @@ class EKYSApp {
 
       if (isStruck) statusClass += ' struck-through';
 
-      const optLabel = (opt.text && opt.text.trim() && opt.text.trim() !== opt.key) 
-        ? opt.text.trim() 
-        : `Seçenek (${opt.key})`;
+      const hasCustomText = opt.text && opt.text.trim() && opt.text.trim() !== opt.key && !opt.text.trim().toLowerCase().startsWith('seçenek');
+      const optLabel = hasCustomText ? opt.text.trim() : `Seçenek (${opt.key})`;
 
       return `
-        <div class="option-item ${statusClass}" onclick="app.handleOptionClick('${opt.key}')">
+        <div class="option-item ${statusClass}" onclick="app.handleOptionClick('${opt.key}')" title="Şık ${opt.key}">
           <div class="option-key">${opt.key}</div>
           <div class="option-text">${optLabel}</div>
           <button class="option-strike-btn" onclick="event.stopPropagation(); app.toggleStrikeOption('${opt.key}')" title="Bu şıkkı ele (üstünü çiz)">
