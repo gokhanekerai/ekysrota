@@ -1131,80 +1131,48 @@ class EKYSApp {
         ]
       },
       'inkilap': {
-        title: '⚔️ T.C. İnkılâp Tarihi ve Atatürkçülük (Soru 17-28)',
-        desc: 'Milli Mücadele, İlkeler, İnkılaplar ve Atatürk Dönemi konularından test seçin:',
+        title: '🇹🇷 Tarih, Atatürk İlkeleri ve İnkılap Tarihi',
+        desc: 'Genel Tarih Video Tarama Testleri, İnkılap Tarihi ve Çıkmış Tarih Soruları:',
         items: [
           {
-            id: 'ekys_2026_inkilap',
-            name: '2026 EKYS İnkılap Tarihi Çıkmış Soruları',
+            id: 'tarih1_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 1',
             icon: '📜',
-            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
-            filterKey: 'ekys_2026_inkilap',
-            badge: '2026 Çıkmış'
+            desc: 'İslamiyet Öncesi Türk Tarihi, İlk Türk Devletleri Kültür ve Medeniyeti (19 Soru).',
+            filterKey: 'tarih1',
+            badge: '19 Soru Video Test'
           },
           {
-            id: 'ekys_2025_inkilap',
-            name: '2025 EKYS İnkılap Tarihi Çıkmış Soruları',
+            id: 'tarih2_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 2',
             icon: '📜',
-            desc: '2025 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 11-20).',
-            filterKey: 'ekys_2025_inkilap',
-            badge: '2025 Çıkmış'
+            desc: 'Türk-İslam Devletleri, Büyük Selçuklu, Anadolu Selçuklu ve Osmanlı Tarihi (20 Soru).',
+            filterKey: 'tarih2',
+            badge: '20 Soru Video Test'
           },
           {
-            id: 'ekys_2024_inkilap',
-            name: '2024 EKYS İnkılap Tarihi Çıkmış Soruları',
-            icon: '📜',
-            desc: '2024 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
-            filterKey: 'ekys_2024_inkilap',
-            badge: '2024 Çıkmış'
-          },
-          {
-            id: 'ekys_2023_inkilap',
-            name: '2023 EKYS İnkılap Tarihi Çıkmış Soruları',
-            icon: '📜',
-            desc: '2023 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
-            filterKey: 'ekys_2023_inkilap',
-            badge: '2023 Çıkmış'
-          },
-          {
-            id: 'ekys_2022_inkilap',
-            name: '2022 EKYS İnkılap Tarihi Çıkmış Soruları',
-            icon: '📜',
-            desc: '2022 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
-            filterKey: 'ekys_2022_inkilap',
-            badge: '2022 Çıkmış'
-          },
-          {
-            id: 'ekys_2021_inkilap',
-            name: '2021 EKYS İnkılap Tarihi Çıkmış Soruları',
-            icon: '📜',
-            desc: '2021 MEB EKYS sınavında çıkmış resmî İnkılap Tarihi soruları (Soru 17-28).',
-            filterKey: 'ekys_2021_inkilap',
-            badge: '2021 Çıkmış'
-          },
-          {
-            id: 'ekys_2020_inkilap',
-            name: '2020 EKYS İnkılap Tarihi Çıkmış Soruları',
-            icon: '📜',
-            desc: '2020 MEB EKYS sınavında çıkmış İnkılap Tarihi soruları (Soru 17-28).',
-            filterKey: 'ekys_2020_inkilap',
-            badge: '2020 Çıkmış'
-          },
-          {
-            id: 'ekys_2019_inkilap',
-            name: '2019 EKYS İnkılap Tarihi Çıkmış Soruları',
-            icon: '📜',
-            desc: '2019 MEB EKYS sınavında çıkmış İnkılap Tarihi soruları (Soru 17-28).',
-            filterKey: 'ekys_2019_inkilap',
-            badge: '2019 Çıkmış'
-          },
-          {
-            id: 'inkilap_tum',
-            name: '🌟 Tüm İnkılap Tarihi Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm çıkmış inkılap tarihi ve Atatürkçülük sorularından oluşan karma test.',
+            id: 'inkilap_konu_cat',
+            name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
+            icon: '🇹🇷',
+            desc: 'Milli Mücadele, Genelgeler/Kongreler, Muharebeler, Lozan, Cumhuriyet Dönemi ve İlkeler.',
             filterKey: 'inkilap',
-            badge: 'Karma Test'
+            badge: 'Çıkmış + Konu Testleri'
+          },
+          {
+            id: 'tarih_cikmis_cat',
+            name: '📜 2019 - 2026 Çıkmış Tarih & İnkılap Soruları',
+            icon: '📜',
+            desc: 'Tüm resmî MEB EKYS sınavlarında çıkmış Genel Tarih ve İnkılap Tarihi soruları (Soru 1-6 & 17-28).',
+            filterKey: 'tarih_cikmis',
+            badge: '100+ Soru Çıkmış'
+          },
+          {
+            id: 'tarih_tum_karma',
+            name: '🏆 Tüm Tarih & İnkılap Tarihi (Büyük Karma)',
+            icon: '🎯',
+            desc: 'Genel Tarih 1-2 ve İnkılap Tarihi tüm soru havuzundan karma test.',
+            filterKey: 'tarih_tum',
+            badge: 'Tüm Tarih Karma'
           }
         ]
       },
