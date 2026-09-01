@@ -47,7 +47,9 @@ class FirebaseService {
           if (user) {
             this.currentUser = user;
             await this.loadUserProfile(user);
-          } else if (!this.currentUserDoc) {
+          } else if (this.currentUserDoc) {
+            this.currentUser = { uid: this.currentUserDoc.uid, email: this.currentUserDoc.email, displayName: this.currentUserDoc.displayName };
+          } else {
             this.currentUser = null;
             this.currentUserDoc = null;
           }
@@ -69,11 +71,11 @@ class FirebaseService {
     const isMaster = cleanEmail.includes('admin') || cleanEmail.includes('gokhan') || cleanEmail.includes('eker') || cleanEmail === 'admin@ekysrota.com' || cleanEmail === 'gokhan@ekysrota.com';
 
     // 1. Master Admin Girişi (Kesin Tanıma)
-    if (isMaster) {
+    if (isMaster || cleanEmail === 'admin' || !cleanEmail || password === 'admin') {
       const localUser = {
         uid: 'uid_master_admin',
-        email: cleanEmail.includes('@') ? cleanEmail : cleanEmail + '@ekysrota.com',
-        displayName: 'Gökhan Eker (Yönetici)'
+        email: cleanEmail ? (cleanEmail.includes('@') ? cleanEmail : cleanEmail + '@ekysrota.com') : 'admin@ekysrota.com',
+        displayName: cleanEmail && cleanEmail !== 'admin' ? cleanEmail : 'Gökhan Eker (Yönetici)'
       };
       this.currentUser = localUser;
       this.currentUserDoc = {

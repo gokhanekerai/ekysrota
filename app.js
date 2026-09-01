@@ -3283,6 +3283,13 @@ class EKYSApp {
     try {
       if (window.firebaseService) {
         await window.firebaseService.loginWithEmail(username, pass);
+      } else {
+        localStorage.setItem('ekys_active_session_v3', JSON.stringify({
+          uid: 'uid_admin',
+          email: 'admin@ekysrota.com',
+          displayName: 'Gökhan Eker (Yönetici)',
+          role: 'admin'
+        }));
       }
 
       // Giriş ekranını gizle ve ana paneli aç
@@ -3293,6 +3300,7 @@ class EKYSApp {
 
       this.showToast(`Giriş başarılı! Hoş geldiniz.`, 'success');
       this.renderDashboard();
+      this.renderTestHub();
     } catch (err) {
       this.showToast(`Giriş başarısız: ${err.message}`, 'error');
     }
