@@ -2547,7 +2547,7 @@ class EKYSApp {
     }
 
     this.activeQuiz = {
-      title: `${title} (${mode === 'exam' ? 'Süreli Sınav' : 'Öğrenme Modu'})`,
+      title: title,
       filterKey: filterKey,
       mode: mode,
       questions: mode === 'exam' ? [...questions] : this.shuffleArray([...questions]),
@@ -2689,7 +2689,7 @@ class EKYSApp {
     }
 
     this.activeQuiz = {
-      title: `${title} (${mode === 'exam' ? 'Süreli Sınav' : 'Öğrenme Modu'})`,
+      title: title,
       topicId: `subtopic_${filterKey}`,
       mode: mode,
       questions: this.shuffleArray([...questions]),
@@ -2765,7 +2765,7 @@ class EKYSApp {
     const topic = topics.find(t => t.id === topicId) || { name: 'Test' };
 
     this.activeQuiz = {
-      title: `${topic.name} (${mode === 'exam' ? 'Süreli Sınav' : 'Öğrenme Modu'})`,
+      title: topic.name,
       topicId: topicId,
       mode: mode, // 'practice' (anında doğru/yanlış) veya 'exam' (sonuç sonda)
       questions: this.shuffleArray([...topicQuestions]),
@@ -3219,7 +3219,7 @@ class EKYSApp {
     }
   }
 
-  // --- GÖRSEL BÜYÜTEÇ (ZOOM LIGHTBOX) ---
+  // --- GÖRSEL BÜYÜTEÇ (INTERACTIVE ZOOM & PAN LIGHTBOX) ---
   openImageZoom(imgSrc = null) {
     let src = imgSrc;
     if (!src && this.activeQuiz) {
@@ -3232,9 +3232,11 @@ class EKYSApp {
     const img = document.getElementById('zoom-modal-img');
     if (modal && img) {
       img.src = src;
+      this.resetImageZoom(false);
       modal.classList.add('active');
       modal.style.display = 'flex';
       document.body.style.overflow = 'hidden';
+      this.initZoomGestures();
     }
   }
 
@@ -3244,11 +3246,152 @@ class EKYSApp {
       modal.classList.remove('active');
       modal.style.display = 'none';
       document.body.style.overflow = '';
+      this.resetImageZoom(false);
     }
   }
 
   closeZoomModal() {
     this.closeImageZoom();
+  }
+
+  zoomImageIn() {
+    this.setZoomScale((this.zoomScale || 1.0) + 0.4);
+  }
+
+  zoomImageOut() {
+    this.setZoomScale((this.zoomScale || 1.0) - 0.4);
+  }
+
+  resetImageZoom(updateUi = true) {
+    this.zoomScale = 1.0;
+    this.zoomPanX = 0;
+    this.zoomPanY = 0;
+    this.isPanning = false;
+    if (updateUi) {
+      this.applyZoomTransform();
+      this.updateZoomBadge();
+    }
+  }
+
+  setZoomScale(newScale) {
+    const clamped = Math.max(1.0, Math.min(4.5, Math.round(newScale * 10) / 10));
+    this.zoomScale = clamped;
+    if (this.zoomScale <= 1.02) {
+      this.zoomPanX = 0;
+      this.zoomPanY = 0;
+    }
+    this.applyZoomTransform();
+    this.updateZoomBadge();
+  }
+
+  applyZoomTransform() {
+    const container = document.getElementById('zoom-img-container');
+    if (container) {
+      container.style.transform = `translate3d(${this.zoomPanX || 0}px, ${this.zoomPanY || 0}px, 0) scale(${this.zoomScale || 1.0})`;
+    }
+  }
+
+  updateZoomBadge() {
+    const badge = document.getElementById('zoom-level-badge');
+    if (badge) {
+      badge.textContent = `${Math.round((this.zoomScale || 1.0) * 100)}%`;
+    }
+  }
+
+  initZoomGestures() {
+    if (this.zoomGesturesReady) return;
+    const viewport = document.getElementById('modal-zoom-viewport');
+    if (!viewport) return;
+
+    this.zoomGesturesReady = true;
+
+    // Mouse Drag (Pan)
+    viewport.addEventListener('mousedown', (e) => {
+      if ((this.zoomScale || 1.0) <= 1.05) return;
+      this.isPanning = true;
+      this.panStartX = e.clientX - (this.zoomPanX || 0);
+      this.panStartY = e.clientY - (this.zoomPanY || 0);
+      viewport.style.cursor = 'grabbing';
+      e.preventDefault();
+    });
+
+    window.addEventListener('mousemove', (e) => {
+      if (!this.isPanning) return;
+      this.zoomPanX = e.clientX - this.panStartX;
+      this.zoomPanY = e.clientY - this.panStartY;
+      this.applyZoomTransform();
+    });
+
+    window.addEventListener('mouseup', () => {
+      if (this.isPanning) {
+        this.isPanning = false;
+        const vp = document.getElementById('modal-zoom-viewport');
+        if (vp) vp.style.cursor = ((this.zoomScale || 1.0) > 1.05 ? 'grab' : 'default');
+      }
+    });
+
+    // Mouse Wheel Zoom
+    viewport.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      const step = e.deltaY < 0 ? 0.25 : -0.25;
+      this.setZoomScale((this.zoomScale || 1.0) + step);
+    }, { passive: false });
+
+    // Touch Gestures (Pinch-to-zoom + 1-finger Pan + Double Tap)
+    viewport.addEventListener('touchstart', (e) => {
+      if (e.touches.length === 2) {
+        const dist = Math.hypot(
+          e.touches[0].clientX - e.touches[1].clientX,
+          e.touches[0].clientY - e.touches[1].clientY
+        );
+        this.pinchStartDist = dist;
+        this.pinchStartScale = this.zoomScale || 1.0;
+      } else if (e.touches.length === 1) {
+        const now = Date.now();
+        if (now - (this.lastTap || 0) < 320) {
+          if ((this.zoomScale || 1.0) > 1.3) {
+            this.resetImageZoom();
+          } else {
+            this.setZoomScale(2.2);
+          }
+          this.lastTap = 0;
+          return;
+        }
+        this.lastTap = now;
+
+        if ((this.zoomScale || 1.0) > 1.05) {
+          this.isPanning = true;
+          this.panStartX = e.touches[0].clientX - (this.zoomPanX || 0);
+          this.panStartY = e.touches[0].clientY - (this.zoomPanY || 0);
+        }
+      }
+    }, { passive: false });
+
+    viewport.addEventListener('touchmove', (e) => {
+      if (e.touches.length === 2 && this.pinchStartDist > 0) {
+        e.preventDefault();
+        const dist = Math.hypot(
+          e.touches[0].clientX - e.touches[1].clientX,
+          e.touches[0].clientY - e.touches[1].clientY
+        );
+        const factor = dist / this.pinchStartDist;
+        this.setZoomScale(this.pinchStartScale * factor);
+      } else if (e.touches.length === 1 && this.isPanning && (this.zoomScale || 1.0) > 1.05) {
+        e.preventDefault();
+        this.zoomPanX = e.touches[0].clientX - this.panStartX;
+        this.zoomPanY = e.touches[0].clientY - this.panStartY;
+        this.applyZoomTransform();
+      }
+    }, { passive: false });
+
+    viewport.addEventListener('touchend', (e) => {
+      if (e.touches.length < 2) {
+        this.pinchStartDist = 0;
+      }
+      if (e.touches.length === 0) {
+        this.isPanning = false;
+      }
+    });
   }
 
   // --- YANLIŞ DEFTERİ (WRONG POOL) ---

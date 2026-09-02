@@ -462,16 +462,16 @@
           <div class="quiz-container">
             
             <div class="quiz-top-bar">
-              <div>
-                <div style="display: flex; align-items: center; gap: 8px;">
-                  <h3 id="quiz-active-title" style="font-size: 1.1rem; font-weight: 800;">EKYS Sınav Modu</h3>
+              <div class="quiz-header-left">
+                <div class="quiz-title-row">
+                  <h3 id="quiz-active-title" class="quiz-active-title">EKYS Sınav Modu</h3>
                   <button class="btn-star-icon" id="btn-quiz-star" onclick="app.toggleCurrentQuestionStar()" title="Yıldızlı Sorulara Ekle">⭐</button>
                 </div>
-                <span id="quiz-progress-text" style="font-size: 0.85rem; color: var(--text-secondary);">Soru 1 / 10</span>
+                <span id="quiz-progress-text" class="quiz-progress-text">Soru 1 / 10</span>
               </div>
               <div class="quiz-header-right">
                 <div class="quiz-timer" id="quiz-timer-display">⏱️ 00:00</div>
-                <button class="btn btn-secondary btn-sm" onclick="app.exitQuiz()">🚪 Çıkış</button>
+                <button class="btn btn-secondary btn-sm btn-quiz-exit" onclick="app.exitQuiz()" title="Sınavdan Çık">🚪 Çıkış</button>
               </div>
             </div>
 
@@ -775,29 +775,40 @@
     </div>
   </div>
 
-  <!-- MODAL: IMAGE ZOOM -->
-  <div class="modal modal-zoom" id="modal-zoom-image" onclick="app.closeImageZoom()">
+  <!-- MODAL: IMAGE ZOOM (INTERACTIVE VIEWER) -->
+  <div class="modal modal-zoom" id="modal-zoom-image">
     <div class="modal-zoom-content" onclick="event.stopPropagation()">
       <div class="modal-zoom-header">
-        <span style="font-weight: 700; font-size: 0.95rem; color: #ffffff; display: flex; align-items: center; gap: 6px;">
-          <span>🔍</span> Büyütülmüş Soru Görseli / Harita
-        </span>
-        <button class="modal-zoom-close" onclick="app.closeImageZoom()" aria-label="Kapat">✕</button>
+        <div class="modal-zoom-title">
+          <span>🔍</span> <span>Soru Görseli / Harita</span>
+        </div>
+        <div class="modal-zoom-controls">
+          <button type="button" class="btn-zoom-ctrl" onclick="app.zoomImageOut()" title="Küçült">➖</button>
+          <span class="zoom-level-indicator" id="zoom-level-badge">100%</span>
+          <button type="button" class="btn-zoom-ctrl" onclick="app.zoomImageIn()" title="Büyüt">➕</button>
+          <button type="button" class="btn-zoom-ctrl" onclick="app.resetImageZoom()" title="Orijinal Boyuta Sıfırla">🔄</button>
+          <button type="button" class="modal-zoom-close" onclick="app.closeImageZoom()" aria-label="Kapat" title="Kapat">✕</button>
+        </div>
       </div>
-      <div class="modal-zoom-body" onclick="app.closeImageZoom()">
-        <img id="zoom-modal-img" src="" alt="Büyütülmüş Soru Görseli" onclick="event.stopPropagation()">
+      <div class="modal-zoom-body" id="modal-zoom-viewport">
+        <div class="zoom-img-container" id="zoom-img-container">
+          <img id="zoom-modal-img" src="" alt="Büyütülmüş Soru Görseli" draggable="false">
+        </div>
+      </div>
+      <div class="modal-zoom-footer">
+        <span>💡 İki parmağınızla yakınlaştırabilir, haritayı sürükleyerek dilediğiniz bölgeyi net olarak inceleyebilirsiniz.</span>
       </div>
     </div>
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=54.0"></script>
-  <script src="data/questions-db.js?v=54.0"></script>
-  <script src="services/storage-service.js?v=54.0"></script>
-  <script src="services/firebase-service.js?v=54.0"></script>
-  <script src="services/pdf-service.js?v=54.0"></script>
-  <script src="services/youtube-service.js?v=54.0"></script>
-  <script src="services/question-generator.js?v=54.0"></script>
-  <script src="app.js?v=54.1"></script>
+  <script src="data/ekys-sample-questions.js?v=54.2"></script>
+  <script src="data/questions-db.js?v=54.2"></script>
+  <script src="services/storage-service.js?v=54.2"></script>
+  <script src="services/firebase-service.js?v=54.2"></script>
+  <script src="services/pdf-service.js?v=54.2"></script>
+  <script src="services/youtube-service.js?v=54.2"></script>
+  <script src="services/question-generator.js?v=54.2"></script>
+  <script src="app.js?v=54.2"></script>
 </body>
 </html>
