@@ -1,4 +1,4 @@
-// EKYS 2027 Odaklı Soru Veritabanı
+// EKYS 2027 Odakli Soru Veritabani
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -26242,29 +26242,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 1,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 1)",
+    "questionText": "Yukarıdaki Türkiye haritasında işaretlenen noktaların hangisinde 21 Aralık tarihinde gündüz süresi daha uzun, yerel saat daha ileri ve çizgisel hız daha fazladır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q1.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
@@ -26279,29 +26279,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 2,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q2.png",
+    "questionText": "I. Adana'nın Samsun'dan daha sıcak olması\nII. Ankara'da gölge boylarının Antalya'dan uzun olması\nIII. İzmir'in güneş ışınlarını, İstanbul'dan daha büyük açıyla alması\nIV. Türkiye'nin Kuzey Yarım Küre'de yer alması\nV. Akdeniz'in Karadeniz'den daha tuzlu olması\n\nYukarıda verilenlerden hangisi diğer dördünün nedeni durumundadır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
@@ -26316,29 +26316,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 3,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q3.png",
+    "questionText": "Türkiye'de cisimlerin gölge boyunun en kısa olduğu tarihte aşağıdaki durumlardan hangisinin yaşanması beklenmez?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bu tarihten itibaren gündüzler uzamaya, geceler kısalmaya başlar."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "En uzun gündüz yaşanır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kuzeye gidildikçe gündüzler uzar."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Gündüz süresi gece süresinden uzundur."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Güneş ışınları en büyük açıyla gelir."
       }
     ],
     "correctAnswer": "A",
@@ -26353,29 +26353,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 4,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 4)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q4.png",
+    "questionText": "Haziran ayında Ankara'dan yola çıkan Emine, ulaştığı kentte gündüz süresinin daha uzun, yerel saatin daha ileri olduğunu gözlemlemiştir.\nBuna göre, Emine aşağıdaki kentlerin hangisine gitmiş olabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İzmir"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Şanlıurfa"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İstanbul"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Gümüşhane"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Muğla"
       }
     ],
     "correctAnswer": "D",
@@ -26390,29 +26390,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 5,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q5.png",
+    "questionText": "Yaklaşık aynı boylam üzerinde yer alan Kütahya ile İzmit illerinin;\nI. Yerel saatleri\nII. Gece-gündüz süreleri\nIII. Başlangıç meridyenine uzaklıkları\ngibi özelliklerden hangilerinin yıl boyunca ortak olması beklenir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve II"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II ve III"
       }
     ],
     "correctAnswer": "A",
@@ -26427,29 +26427,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 6,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 6)",
+    "questionText": "Haritada gösterilen merkezlerin bulunduğu yerler gözönüne alınarak;\nI. 23 Eylül'de İzmir ve Ankara'da gündüz süresi aynıdır.\nII. Güneş İzmir'de diğer merkezlere göre daha geç doğar.\nIII. Ulusal saat ile yerel saat arasındaki farkın en fazla olduğu merkez Şanlıurfa'dır.\nIV. Kocaeli'nin yerel saati İzmir'e göre daha geridir.\nyargılardan hangisine ulaşılamaz?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q6.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız IV"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve II"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "E",
@@ -26464,29 +26464,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 7,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 7)",
+    "questionText": "21 Aralık günü yukarıdaki haritada gösterilen kentlerin hangisinde yaşanan gündüz süresi diğerlerine göre daha kısadır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q7.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Ankara"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İzmir"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Iğdır"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Hakkari"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Sinop"
       }
     ],
     "correctAnswer": "E",
@@ -26501,29 +26501,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 8,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q8.png",
+    "questionText": "• Gurup ve tan süresi en uzundur.\n• Yer çekimi en azdır.\n• Güneş en erken doğar.\n• Yerel saati ile ulusal saati arasındaki fark en fazladır.\n\nYukarıda verilen bilgiler seçeneklerde verilen kentlerle eşleştirildiğinde hangi kente ait bir bilgi verildiği söylenemez?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sinop"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ankara"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Hatay"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Iğdır"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Çanakkale"
       }
     ],
     "correctAnswer": "B",
@@ -26538,29 +26538,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 9,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 9)",
+    "questionText": "Yandaki şekilde İzmir'in ufuk düzleminde güneşin konumu verilmiştir.\nBuna göre, aynı anda Ardahan'da güneşin ufuk düzlemindeki konumu aşağıdakilerden hangisi gibi olmalıdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q9.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "A şıkkındaki şekil (güneş tepede)"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "B şıkkındaki şekil (güneş batı tarafında alçakta)"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "C şıkkındaki şekil (güneş doğu tarafında alçakta)"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "D şıkkındaki şekil (güneş tam tepede)"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "E şıkkındaki şekil (güneş merkezde)"
       }
     ],
     "correctAnswer": "D",
@@ -26575,29 +26575,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 10,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q10.png",
+    "questionText": "21 Haziran tarihinde Bodrum'dan yola çıkan Serhat gittiği yerde;\n• Yerel saatin daha ileri\n• Gündüz süresinin daha uzun olduğunu gözlemlemiştir.\nBuna göre, Serhat'ın gittiği yer aşağıdakilerden hangisi olabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Hatay"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İzmir"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Erzincan"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çanakkale"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Edirne"
       }
     ],
     "correctAnswer": "C",
@@ -26612,29 +26612,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 11,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q11.png",
+    "questionText": "• En uzun gündüzün yaşandığı kent\n• En uzun gecenin yaşandığı kent\n• Yerel saatin en geri olduğu kent\n• Yerel saat ile ulusal saat arasında farkın en az olduğu kent\n\nTürkiye'de 21 Haziran tarihinde yukarıda verilen özellikler aşağıdaki kentlerle eşleştirildiğinde hangisi dışarda kalır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sinop"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Hatay"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Çanakkale"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Konya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Iğdır"
       }
     ],
     "correctAnswer": "D",
@@ -26649,29 +26649,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 12,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 12)",
+    "questionText": "Aşağıdaki haritada gösterilen üç kentte yıl boyunca öğle vaktinde cisimlerin oluşan gölge boyları yaklaşık olarak aynıdır.\nBu durumun ortaya çıkmasında aşağıdakilerden hangisi diğerlerine göre daha etkilidir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q12.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Ekvatora olan uzaklıklarının aynı olması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Boylamlarının farklı olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Aynı yarım kürede yer almaları"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yükseltilerinin farklı olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Güneşin doğuş ve batış saatlerinin farklı olması"
       }
     ],
     "correctAnswer": "A",
@@ -26686,29 +26686,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 13,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q13.png",
+    "questionText": "I. Doğu sınırındaki komşu ülke sayısı Batı sınırına göre daha fazladır.\nII. Yunanistan ile sınırı doğal koşullar belirlemiştir.\nIII. En eski sınır İran iledir.\nIV. Tüm sınır kapılarına demir yolu bağlantısı bulunmaktadır.\n\nTürkiye'nin yukarıda verilen kara sınırları ile ilgili bilgilerden hangileri yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız IV"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve II"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "B",
@@ -26723,29 +26723,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 14,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q14.png",
+    "questionText": "Türkiye 36°-42° kuzey paralelleri ile 26°-45° doğu meridyenleri arasında yer almaktadır.\nBuna göre;\nI. Mevsimler arası sıcaklık değişiminin belirgin olması\nII. Üç kıtanın birbirine en çok yaklaştığı yerde olması\nIII. 21 Haziran'da İzmir'de yaşanan gündüz süresinin Antalya'dan uzun olması\nIV. Yer altı kaynaklarının çeşitliliği bakımından zengin olması\ndurumlarından hangileri Türkiye'nin sahip olduğu matematik konum ile açıklanabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "B",
@@ -26760,29 +26760,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 15,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 15)",
+    "questionText": "Haritadaki ok yönünde ilerlendiğinde;\nI. Güneş ışınlarının düşme açısı küçülür.\nII. Cisimlerin gölge boyu uzar.\nIII. Çizgisel hız artar.\nIV. Gurup ve tan süresi kısalır.\ngibi olaylardan hangilerinin yaşanması beklenir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q15.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "A",
@@ -26797,29 +26797,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 16,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q16.png",
+    "questionText": "Aşağıda verilenlerden hangisi Türkiye'nin sahip olduğu enlem değerleriyle açıklanamaz?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Akdeniz'de tuzluluk oranının Karadeniz'den fazla olması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Doğusu ile batısı arasında 1 saat 16 dakikalık zaman farkının bulunması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Cisimlerin gölge yönünün yıl boyunca kuzeye düşmesi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Dört mevsimin belirgin olarak yaşanması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "En sıcak aylarının Temmuz ve Ağustos ayları olması"
       }
     ],
     "correctAnswer": "B",
@@ -26834,29 +26834,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 17,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q17.png",
+    "questionText": "İzmir ve Trabzon'un farklı boylam üzerinde bulunduğunu aşağıda verilen özelliklerden hangisi kesin olarak kanıtlar?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Gündüz sürelerinin farklı olması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yerel saatlerinin farklı olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ortalama yükseltilerinin farklı olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çizgisel hızlarının farklı olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Sıcaklık ortalamalarının farklı olması"
       }
     ],
     "correctAnswer": "B",
@@ -26871,29 +26871,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 18,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 1: Coğrafi Konum (Soru 18)",
+    "questionText": "Yaklaşık aynı enlem üzerinde bulunan İzmir'den Kayseri'ye doğru ok yönünde hareket edildiğinde aşağıdakilerden hangisinin değişimi özel konumla açıklanamaz?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q18.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Güneşin doğuş saati"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Sıcaklık değerleri"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Karla kaplı gün sayısı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Tarım ürünlerinin olgunlaşma süresi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ortalama yükselti"
       }
     ],
     "correctAnswer": "A",

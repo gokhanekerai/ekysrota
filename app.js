@@ -2982,12 +2982,16 @@ class EKYSApp {
       ];
     }
 
-    // Şıkların uzunluğunu ve görsel durumunu kontrol et
-    const isVisualQuestion = !!(q.hasImage || q.image);
-    const hasOnlyLetterOptions = options.every(opt => !opt.text || opt.text.trim() === opt.key || opt.text.trim().toLowerCase().startsWith('seçenek') || opt.text.trim().length <= 2);
-    const isVeryShortOptions = options.every(opt => (opt.text || '').trim().length <= 20);
+    // Şıkların durumunu ve düzenini belirle
+    // Sadece şık metni olmayan (yani soru görselinin kendisinde şıkları barındıran) sorular için tek satır 5'li harf butonu kullanılır.
+    const hasOnlyLetterOptions = options.every(opt => {
+      const text = (opt.text || '').trim();
+      const key = (opt.key || '').trim();
+      return !text || text.toUpperCase() === key.toUpperCase() || text.toLowerCase().startsWith('seçenek');
+    });
+    const isVeryShortOptions = options.every(opt => (opt.text || '').trim().length <= 22);
 
-    if (isVisualQuestion || hasOnlyLetterOptions) {
+    if (hasOnlyLetterOptions) {
       optionsList.className = 'options-list options-compact-5';
     } else if (isVeryShortOptions) {
       optionsList.className = 'options-list options-grid-2col';
