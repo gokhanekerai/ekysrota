@@ -5,9 +5,9 @@ class StorageService {
     this.KEYS = {
       TOPICS: 'ekys_topics_v5',
       QUESTIONS: 'ekys_questions_v5',
-      WRONG_POOL: 'ekys_wrong_pool_v8',
-      FAVORITES: 'ekys_favorites_v8',
-      QUIZ_HISTORY: 'ekys_quiz_history_v8',
+      WRONG_POOL: 'ekys_wrong_pool_v10',
+      FAVORITES: 'ekys_favorites_v10',
+      QUIZ_HISTORY: 'ekys_quiz_history_v10',
       SOURCES: 'ekys_sources_v3',
       SETTINGS: 'ekys_settings_v3',
       STATS: 'ekys_stats_v3',
@@ -19,8 +19,10 @@ class StorageService {
   }
 
   cleanupOldVersions() {
-    // Önceki sürümlerden kalan tüm eski çözüm/test verilerini temizle
+    // Önceki sürümlerden kalan tüm eski çözüm/test verilerini kesin olarak temizle
     const oldKeys = [
+      'ekys_wrong_pool_v9', 'ekys_favorites_v9', 'ekys_quiz_history_v9',
+      'ekys_wrong_pool_v8', 'ekys_favorites_v8', 'ekys_quiz_history_v8',
       'ekys_wrong_pool_v7', 'ekys_favorites_v7', 'ekys_quiz_history_v7',
       'ekys_wrong_pool_v6', 'ekys_favorites_v6', 'ekys_quiz_history_v6',
       'ekys_wrong_pool_v5', 'ekys_favorites_v5', 'ekys_quiz_history_v5',
