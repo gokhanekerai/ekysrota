@@ -47,8 +47,10 @@ class FirebaseService {
           if (user) {
             this.currentUser = user;
             await this.loadUserProfile(user);
+            await this.syncAllDataFromCloud();
           } else if (this.currentUserDoc) {
             this.currentUser = { uid: this.currentUserDoc.uid, email: this.currentUserDoc.email, displayName: this.currentUserDoc.displayName };
+            await this.syncAllDataFromCloud();
           } else {
             this.currentUser = null;
             this.currentUserDoc = null;
@@ -87,6 +89,7 @@ class FirebaseService {
       };
       localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
       this.onAuthChange(this.currentUser);
+      await this.syncAllDataFromCloud();
       return this.currentUser;
     }
 
@@ -108,6 +111,7 @@ class FirebaseService {
       };
       localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
       this.onAuthChange(this.currentUser);
+      await this.syncAllDataFromCloud();
       return this.currentUser;
     }
 
@@ -119,6 +123,7 @@ class FirebaseService {
         await this.loadUserProfile(cred.user);
         localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
         this.onAuthChange(this.currentUser);
+        await this.syncAllDataFromCloud();
         return cred.user;
       } catch (err) {
         console.warn('Firebase giriş denemesi:', err);

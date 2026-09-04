@@ -350,9 +350,19 @@ class StorageService {
   }
 
   exportAllData() {
+    // Sadece kullanıcıya özel durumları buluta gönder (statik soru bankası hariç, 1MB limitini korur)
+    let customQuestions = [];
+    try {
+      const storedQuestions = JSON.parse(localStorage.getItem(this.KEYS.QUESTIONS)) || [];
+      const dbQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
+        ? window.EKYS_EXTRACTED_QUESTIONS 
+        : [];
+      const dbIds = new Set(dbQuestions.map(q => q.id));
+      customQuestions = storedQuestions.filter(q => !dbIds.has(q.id));
+    } catch (e) {}
+
     return {
-      topics: this.getTopics(),
-      questions: this.getQuestions(),
+      customQuestions: customQuestions,
       wrongPool: this.getWrongPool(),
       favorites: this.getFavorites(),
       quizHistory: this.getQuizHistory(),
@@ -363,11 +373,46 @@ class StorageService {
 
   importAllData(data) {
     if (!data) return;
-    if (data.topics) this.saveTopics(data.topics);
-    if (data.questions) this.saveQuestions(data.questions);
-    if (data.wrongPool) localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
-    if (data.favorites) localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(data.favorites));
-    if (data.quizHistory) localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(data.quizHistory));
+
+    // 1. Sınav Geçmişini Akıllı Birleştir (Mobil + Masaüstü çakışmasız tam birleştirme)
+    if (Array.isArray(data.quizHistory)) {
+      const localHistory = this.getQuizHistory();
+      const map = new Map();
+      localHistory.forEach(h => {
+        const key = h.id || `${h.date}_${h.title}`;
+        map.set(key, h);
+      });
+      data.quizHistory.forEach(h => {
+        const key = h.id || `${h.date}_${h.title}`;
+        map.set(key, h);
+      });
+      const mergedHistory = Array.from(map.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
+      localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(mergedHistory.slice(0, 300)));
+    }
+
+    // 2. Yanlış Havuzunu Birleştir
+    if (Array.isArray(data.wrongPool)) {
+      const localWrong = this.getWrongPool();
+      const map = new Map();
+      localWrong.forEach(q => map.set(q.id, q));
+      data.wrongPool.forEach(q => map.set(q.id, q));
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
+    }
+
+    // 3. Yıldızlı Soruları Birleştir
+    if (Array.isArray(data.favorites)) {
+      const localFav = this.getFavorites();
+      const map = new Map();
+      localFav.forEach(q => map.set(q.id, q));
+      data.favorites.forEach(q => map.set(q.id, q));
+      localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
+    }
+
+    // 4. Özel Sorular
+    if (Array.isArray(data.customQuestions) && data.customQuestions.length > 0) {
+      this.addQuestions(data.customQuestions);
+    }
+
     if (data.sources) localStorage.setItem(this.KEYS.SOURCES, JSON.stringify(data.sources));
     if (data.settings) localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(data.settings));
   }

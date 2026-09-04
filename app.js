@@ -113,7 +113,12 @@ class EKYSApp {
       }
     });
 
-    // Sayfa değiştikçe verileri tazele
+    // Sayfa değiştikçe verileri tazele ve buluttan en güncel çözülen testleri çek
+    if (viewId === 'dashboard' || viewId === 'stats') {
+      if (window.firebaseService && typeof window.firebaseService.syncAllDataFromCloud === 'function') {
+        window.firebaseService.syncAllDataFromCloud().catch(() => {});
+      }
+    }
     if (viewId === 'dashboard') this.renderDashboard();
     if (viewId === 'test-hub') this.renderTestHub();
     if (viewId === 'wrong-pool') this.renderWrongPoolList();
@@ -3587,33 +3592,85 @@ class EKYSApp {
   }
 
   // --- BAŞARI ANALİZİ (STATS) ---
+  getCourseCategoryName(h) {
+    const t = ((h.title || '') + ' ' + (h.topicId || '')).toLowerCase();
+    if (t.includes('deneme') || (h.totalQuestions >= 80 && !t.includes('ekys_'))) return '🎯 EKYS Deneme Sınavları';
+    if (t.includes('maarif')) return '🌟 Türkiye Yüzyılı Maarif Modeli';
+    if (t.includes('mevzuat') || t.includes('kanun') || t.includes('anayasa') || t.includes('cbk') || t.includes('657') || t.includes('1739') || t.includes('222') || t.includes('5018') || t.includes('4483') || t.includes('4688') || t.includes('5442') || t.includes('3071')) return '⚖️ Mevzuat (Kanun & CBK)';
+    if (t.includes('tarih') || t.includes('inkılap') || t.includes('inkilap') || t.includes('atatürk') || t.includes('nutuk') || t.includes('amasya') || t.includes('erzurum') || t.includes('sivas') || t.includes('lozan')) return '⚔️ Tarih & Atatürkçülük';
+    if (t.includes('egitim') || t.includes('eğitim') || t.includes('yönetim') || t.includes('yonetim') || t.includes('denetim') || t.includes('liderlik') || t.includes('değerler') || t.includes('degerler') || t.includes('etik')) return '🎓 Eğitim Bilimleri & Yönetimi';
+    if (t.includes('cogr') || t.includes('coğrafya') || t.includes('yurttas') || t.includes('yurttaş') || t.includes('guncel') || t.includes('güncel') || t.includes('kültür') || t.includes('kultur')) return '🌍 Genel Kültür (Coğrafya & Güncel)';
+    if (t.includes('çıkmış') || t.includes('cikmis') || t.includes('ekys_')) return '📜 MEB EKYS Çıkmış Sınavlar';
+    return h.title || 'Genel Test';
+  }
+
+  async manualCloudSync() {
+    if (!window.firebaseService) {
+      this.showToast('Bulut servisi bağlı değil.', 'error');
+      return;
+    }
+    this.showToast('Buluttan en son çözülen testler çekiliyor...', 'info');
+    try {
+      await window.firebaseService.syncAllDataFromCloud();
+      this.renderStatsView();
+      this.renderDashboard();
+      this.renderWrongPoolList();
+      this.renderFavoritesList();
+      this.showToast('Senkronizasyon tamamlandı! Başarı verileriniz güncellendi. ✅', 'success');
+    } catch (err) {
+      this.showToast('Senkronizasyon hatası: ' + (err.message || err), 'error');
+    }
+  }
+
   renderStatsView() {
     const history = window.storageService.getQuizHistory();
-    const topics = window.storageService.getTopics();
 
-    // Konu bazlı netler
-    const topicStats = {};
+    // 1. Ders Bazlı Başarı İstatistikleri
+    const courseStats = {};
+    let totalQuestionsAnswered = 0;
+    let totalCorrectAnswers = 0;
+    const todayStr = new Date().toDateString();
+    let todaySolved = 0;
+
     history.forEach(h => {
-      if (!topicStats[h.topicId]) {
-        topicStats[h.topicId] = { correct: 0, wrong: 0, total: 0, name: h.title };
+      const courseName = this.getCourseCategoryName(h);
+      if (!courseStats[courseName]) {
+        courseStats[courseName] = { correct: 0, wrong: 0, total: 0, name: courseName };
       }
-      topicStats[h.topicId].correct += h.correctCount;
-      topicStats[h.topicId].wrong += h.wrongCount;
-      topicStats[h.topicId].total += h.totalQuestions;
+      const qCount = h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0;
+      courseStats[courseName].correct += (h.correctCount || 0);
+      courseStats[courseName].wrong += (h.wrongCount || 0);
+      courseStats[courseName].total += qCount;
+
+      totalQuestionsAnswered += qCount;
+      totalCorrectAnswers += (h.correctCount || 0);
+
+      if (h.date && new Date(h.date).toDateString() === todayStr) {
+        todaySolved += qCount;
+      }
     });
 
+    // Günlük Hedef Takibi
+    const dailyTarget = 30;
+    const dailyPct = Math.min(100, Math.round((todaySolved / dailyTarget) * 100));
+    const dailyCountEl = document.getElementById('stats-daily-count');
+    const dailyBarEl = document.getElementById('stats-daily-bar');
+    if (dailyCountEl) dailyCountEl.textContent = `${todaySolved} / ${dailyTarget} Soru`;
+    if (dailyBarEl) dailyBarEl.style.width = `${dailyPct}%`;
+
+    // Ders Başarı Çubukları
     const barsEl = document.getElementById('stats-topic-bars');
     if (barsEl) {
-      if (Object.keys(topicStats).length === 0) {
-        barsEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem;">Henüz çözülen test verisi yok.</div>';
+      if (Object.keys(courseStats).length === 0) {
+        barsEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem; padding: 12px 0;">Henüz çözülen test verisi bulunmuyor. Test Merkezinden hemen bir deneme başlatabilirsiniz.</div>';
       } else {
-        barsEl.innerHTML = Object.values(topicStats).slice(0, 6).map(s => {
+        barsEl.innerHTML = Object.values(courseStats).map(s => {
           const pct = s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0;
           return `
-            <div style="margin-bottom: 12px;">
-              <div style="display: flex; justify-content: space-between; font-size: 0.85rem; font-weight: 600; margin-bottom: 4px;">
+            <div style="margin-bottom: 14px;">
+              <div style="display: flex; justify-content: space-between; font-size: 0.86rem; font-weight: 600; margin-bottom: 4px;">
                 <span>${s.name}</span>
-                <span>%${pct} (${s.correct}/${s.total})</span>
+                <span style="color: #818cf8;">%${pct} (${s.correct}/${s.total} Doğru)</span>
               </div>
               <div class="progress-bar">
                 <div class="progress-fill" style="width: ${pct}%;"></div>
@@ -3628,13 +3685,13 @@ class EKYSApp {
     const tableEl = document.getElementById('stats-history-table');
     if (tableEl) {
       if (history.length === 0) {
-        tableEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem;">Henüz test kaydı yok.</div>';
+        tableEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem; padding: 20px 0; text-align: center;">Henüz kayıtlı sınav geçmişiniz yok.</div>';
       } else {
         tableEl.innerHTML = `
           <table class="admin-table">
             <thead>
               <tr>
-                <th>Test Adı</th>
+                <th>Test / Deneme Adı</th>
                 <th>Tarih</th>
                 <th>Doğru</th>
                 <th>Yanlış</th>
@@ -3642,15 +3699,15 @@ class EKYSApp {
               </tr>
             </thead>
             <tbody>
-              ${history.slice(0, 10).map(h => {
+              ${history.map(h => {
                 const isScored = this.isScoreApplicable(h);
                 const pct = h.totalQuestions > 0 ? Math.round((h.correctCount / h.totalQuestions) * 100) : 0;
                 return `
                 <tr>
                   <td><strong>${h.title}</strong></td>
-                  <td>${new Date(h.date).toLocaleDateString('tr-TR')}</td>
-                  <td style="color: #34d399; font-weight: 700;">${h.correctCount}</td>
-                  <td style="color: #f87171; font-weight: 700;">${h.wrongCount}</td>
+                  <td>${new Date(h.date).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}</td>
+                  <td style="color: #34d399; font-weight: 700;">${h.correctCount} D</td>
+                  <td style="color: #f87171; font-weight: 700;">${h.wrongCount} Y</td>
                   ${isScored ? `
                     <td style="color: #818cf8; font-weight: 800;">${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan</td>
                   ` : `
