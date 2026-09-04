@@ -3830,9 +3830,9 @@ class EKYSApp {
     const overallAccEl = document.getElementById('stats-overall-accuracy');
     const accBarEl = document.getElementById('stats-accuracy-bar');
     const accBadgeEl = document.getElementById('stats-accuracy-badge');
-    if (overallAccEl) overallAccEl.innerHTML = `%${overallAccuracy} <span style="font-size: 1.05rem; font-weight: 600; color: var(--text-secondary); margin-left: 4px;">(${totalQuestionsAnswered} Soru)</span>`;
+    if (overallAccEl) overallAccEl.textContent = `%${overallAccuracy}`;
     if (accBarEl) accBarEl.style.width = `${overallAccuracy}%`;
-    if (accBadgeEl) accBadgeEl.textContent = `${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
+    if (accBadgeEl) accBadgeEl.textContent = `${totalQuestionsAnswered} Soru / ${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
 
     // 3. Testler Menüsündeki Tüm Sınav Kartlarının Tanımları
     const testHubCards = [
