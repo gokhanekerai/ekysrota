@@ -204,7 +204,7 @@ class EKYSApp {
 
     if (elTotalQ) elTotalQ.textContent = questions.length;
     if (elTotalSolved) elTotalSolved.textContent = totalSolved;
-    if (elSuccessRate) elSuccessRate.textContent = `%${successRate}`;
+    if (elSuccessRate) elSuccessRate.innerHTML = `%${successRate} <span style="font-size: 0.9rem; font-weight: 600; color: var(--text-secondary);">(${totalSolved} Soru)</span>`;
     if (elWrongCount) elWrongCount.textContent = wrongPool.length;
 
     if (badgeWrong) {
@@ -3830,7 +3830,7 @@ class EKYSApp {
     const overallAccEl = document.getElementById('stats-overall-accuracy');
     const accBarEl = document.getElementById('stats-accuracy-bar');
     const accBadgeEl = document.getElementById('stats-accuracy-badge');
-    if (overallAccEl) overallAccEl.textContent = `%${overallAccuracy}`;
+    if (overallAccEl) overallAccEl.innerHTML = `%${overallAccuracy} <span style="font-size: 1.05rem; font-weight: 600; color: var(--text-secondary); margin-left: 4px;">(${totalQuestionsAnswered} Soru)</span>`;
     if (accBarEl) accBarEl.style.width = `${overallAccuracy}%`;
     if (accBadgeEl) accBadgeEl.textContent = `${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
 
