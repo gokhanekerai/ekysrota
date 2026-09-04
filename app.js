@@ -230,7 +230,7 @@ class EKYSApp {
                 <div style="display: flex; gap: 8px; font-size: 0.85rem;">
                   <span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #34d399;">✅ ${h.correctCount} D</span>
                   <span class="badge" style="background: rgba(239, 68, 68, 0.2); color: #f87171;">❌ ${h.wrongCount} Y</span>
-                  <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc;">🎯 ${parseFloat(h.netScore).toFixed(2)} Net</span>
+                  <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc;">🎯 ${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan</span>
                 </div>
               </div>
             `).join('')}
@@ -3174,8 +3174,10 @@ class EKYSApp {
       }
     });
 
-    const net = Math.max(0, correct - (wrong * 0.25));
     const total = this.activeQuiz.questions.length;
+    // EKYS Kuralı: Yanlış doğruyu götürmez. Puan 100 tam puan üzerinden hesaplanır.
+    // 80 soruluk sınavda her soru 1.25 puandır.
+    const calculatedScore = total > 0 ? ((correct / total) * 100) : 0;
     const percent = total > 0 ? Math.round((correct / total) * 100) : 0;
 
     // Kaydet
@@ -3185,7 +3187,8 @@ class EKYSApp {
       correctCount: correct,
       wrongCount: wrong,
       emptyCount: empty,
-      netScore: net,
+      score: calculatedScore,
+      netScore: calculatedScore,
       durationSeconds: this.activeQuiz.elapsedSeconds,
       topicId: this.activeQuiz.topicId
     });
@@ -3201,7 +3204,7 @@ class EKYSApp {
     if (elCorrect) elCorrect.textContent = correct;
     if (elWrong) elWrong.textContent = wrong;
     if (elEmpty) elEmpty.textContent = empty;
-    if (elNet) elNet.textContent = net.toFixed(2);
+    if (elNet) elNet.textContent = calculatedScore.toFixed(2);
     if (elPercent) elPercent.textContent = `%${percent}`;
 
     if (elWrongBtn) {
@@ -3533,7 +3536,7 @@ class EKYSApp {
                 <th>Tarih</th>
                 <th>Doğru</th>
                 <th>Yanlış</th>
-                <th>Net</th>
+                <th>Puan (100)</th>
               </tr>
             </thead>
             <tbody>
@@ -3543,7 +3546,7 @@ class EKYSApp {
                   <td>${new Date(h.date).toLocaleDateString('tr-TR')}</td>
                   <td style="color: #34d399; font-weight: 700;">${h.correctCount}</td>
                   <td style="color: #f87171; font-weight: 700;">${h.wrongCount}</td>
-                  <td style="color: #818cf8; font-weight: 800;">${parseFloat(h.netScore).toFixed(2)}</td>
+                  <td style="color: #818cf8; font-weight: 800;">${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)}</td>
                 </tr>
               `).join('')}
             </tbody>
