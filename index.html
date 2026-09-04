@@ -758,19 +758,30 @@
 
             <!-- Bulut Senkronizasyon -->
             <div class="card">
-              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">☁️ Firebase Bulut Durumu</h3>
-              <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 14px;">
-                <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #10b981;"></span>
-                <span style="font-size: 0.9rem; font-weight: 600;">Bağlı: <code style="color: #818cf8;">ekysrota</code></span>
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">⚡ Canlı Bulut Senkronizasyonu</h3>
+              <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+                <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #10b981; box-shadow: 0 0 10px #10b981;"></span>
+                <span style="font-size: 0.9rem; font-weight: 600; color: #10b981;">Otomatik Canlı Senkronizasyon Aktif</span>
               </div>
-              <div style="display: flex; gap: 10px;">
-                <button class="btn btn-primary btn-sm" onclick="firebaseService.syncAllDataToCloud(); app.showToast('Veriler buluta aktarıldı!', 'success');">
-                  ⬆️ Buluta Gönder
-                </button>
-                <button class="btn btn-secondary btn-sm" onclick="firebaseService.syncAllDataFromCloud(); app.showToast('Buluttan güncellendi!', 'success');">
-                  ⬇️ Buluttan Çek
+              <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
+                Mobilde veya PC'de çözdüğünüz her test, yanlış sorusu ve favorileriniz anında diğer tüm cihazlarınıza otomatik olarak aktarılır. Herhangi bir butona basmanız gerekmez.
+              </p>
+              <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+                <button class="btn btn-secondary btn-sm" onclick="firebaseService.syncAllDataFromCloud(); app.showToast('Bulut verileri eşitlendi!', 'success');">
+                  🔄 Şimdi Kontrol Et
                 </button>
               </div>
+            </div>
+
+            <!-- Soru Çözüm Verilerini Sıfırlama -->
+            <div class="card" style="border-left: 4px solid #ef4444;">
+              <h3 style="font-size: 1.1rem; font-weight: 700; color: #f87171; margin-bottom: 10px;">🗑️ Soru Çözüm Verilerini Sıfırla</h3>
+              <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
+                Şu ana kadar çözülen tüm sınav geçmişini, başarı analiz verilerini, yanlış defterini ve favori listesini hem bu cihazdan hem de buluttan tamamen temizler. (Soru havuzunuz korunur).
+              </p>
+              <button class="btn btn-danger btn-sm" onclick="if(confirm('Tüm soru çözüm geçmişinizi, yanlış havuzunuzu ve istatistiklerinizi hem yerelden hem de buluttan tamamen silmek istediğinize emin misiniz?')) { firebaseService.clearAllDataAndCloud(); app.showToast('Tüm soru çözüm verileri başarıyla temizlendi!', 'success'); }">
+                🗑️ Tüm Çözüm Verilerini Sıfırla
+              </button>
             </div>
 
             <!-- Manuel Yedek İndir / Yükle -->

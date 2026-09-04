@@ -5,16 +5,30 @@ class StorageService {
     this.KEYS = {
       TOPICS: 'ekys_topics_v5',
       QUESTIONS: 'ekys_questions_v5',
-      WRONG_POOL: 'ekys_wrong_pool_v3',
-      FAVORITES: 'ekys_favorites_v3',
-      QUIZ_HISTORY: 'ekys_quiz_history_v3',
+      WRONG_POOL: 'ekys_wrong_pool_v8',
+      FAVORITES: 'ekys_favorites_v8',
+      QUIZ_HISTORY: 'ekys_quiz_history_v8',
       SOURCES: 'ekys_sources_v3',
       SETTINGS: 'ekys_settings_v3',
       STATS: 'ekys_stats_v3',
       CUSTOM_USERS: 'ekys_local_users_v3'
     };
 
+    this.cleanupOldVersions();
     this.initDefaults();
+  }
+
+  cleanupOldVersions() {
+    // Önceki sürümlerden kalan tüm eski çözüm/test verilerini temizle
+    const oldKeys = [
+      'ekys_wrong_pool_v7', 'ekys_favorites_v7', 'ekys_quiz_history_v7',
+      'ekys_wrong_pool_v6', 'ekys_favorites_v6', 'ekys_quiz_history_v6',
+      'ekys_wrong_pool_v5', 'ekys_favorites_v5', 'ekys_quiz_history_v5',
+      'ekys_wrong_pool', 'ekys_favorites', 'ekys_quiz_history', 'ekys_stats'
+    ];
+    oldKeys.forEach(k => {
+      try { localStorage.removeItem(k); } catch (e) {}
+    });
   }
 
   initDefaults() {
@@ -49,7 +63,7 @@ class StorageService {
     const realTopics = Array.from(dynamicTopicMap.values());
     this.saveTopics(realTopics);
 
-    // 3. Yanlış Defteri & Favoriler
+    // 3. Yanlış Defteri & Favoriler & Sınav Geçmişi (Temiz Sıfırlanmış)
     if (!localStorage.getItem(this.KEYS.WRONG_POOL)) {
       localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify([]));
     }
@@ -371,41 +385,74 @@ class StorageService {
     };
   }
 
-  importAllData(data) {
+  // --- TÜM SORU ÇÖZÜM & TEST VERİLERİNİ SIFIRLAMA ---
+  clearAllQuizData() {
+    localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify([]));
+    localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify([]));
+    localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify([]));
+    
+    // Bulut senkronizasyonunu da anında sıfırla
+    if (typeof window !== 'undefined' && window.firebaseService) {
+      window.firebaseService.syncAllDataToCloud(true);
+    }
+  }
+
+  importAllData(data, isRealtimeSync = false) {
     if (!data) return;
 
-    // 1. Sınav Geçmişini Akıllı Birleştir (Mobil + Masaüstü çakışmasız tam birleştirme)
+    // Eğer veri temizlenmiş veya sıfırlanmışsa doğrudan sıfırla
+    if (data.isCleanWipe) {
+      localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify([]));
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify([]));
+      localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify([]));
+      return;
+    }
+
+    // 1. Sınav Geçmişini Senkronize Et (Realtime Sync'te tam listeyi veya birleşimi al)
     if (Array.isArray(data.quizHistory)) {
-      const localHistory = this.getQuizHistory();
-      const map = new Map();
-      localHistory.forEach(h => {
-        const key = h.id || `${h.date}_${h.title}`;
-        map.set(key, h);
-      });
-      data.quizHistory.forEach(h => {
-        const key = h.id || `${h.date}_${h.title}`;
-        map.set(key, h);
-      });
-      const mergedHistory = Array.from(map.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
-      localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(mergedHistory.slice(0, 300)));
+      if (isRealtimeSync) {
+        // Canlı otomatik senkronizasyonda buluttaki güncel listeyi doğrudan al
+        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(data.quizHistory.slice(0, 300)));
+      } else {
+        const localHistory = this.getQuizHistory();
+        const map = new Map();
+        localHistory.forEach(h => {
+          const key = h.id || `${h.date}_${h.title}`;
+          map.set(key, h);
+        });
+        data.quizHistory.forEach(h => {
+          const key = h.id || `${h.date}_${h.title}`;
+          map.set(key, h);
+        });
+        const mergedHistory = Array.from(map.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
+        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(mergedHistory.slice(0, 300)));
+      }
     }
 
-    // 2. Yanlış Havuzunu Birleştir
+    // 2. Yanlış Havuzunu Senkronize Et
     if (Array.isArray(data.wrongPool)) {
-      const localWrong = this.getWrongPool();
-      const map = new Map();
-      localWrong.forEach(q => map.set(q.id, q));
-      data.wrongPool.forEach(q => map.set(q.id, q));
-      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
+      if (isRealtimeSync) {
+        localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
+      } else {
+        const localWrong = this.getWrongPool();
+        const map = new Map();
+        localWrong.forEach(q => map.set(q.id, q));
+        data.wrongPool.forEach(q => map.set(q.id, q));
+        localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
+      }
     }
 
-    // 3. Yıldızlı Soruları Birleştir
+    // 3. Yıldızlı Soruları Senkronize Et
     if (Array.isArray(data.favorites)) {
-      const localFav = this.getFavorites();
-      const map = new Map();
-      localFav.forEach(q => map.set(q.id, q));
-      data.favorites.forEach(q => map.set(q.id, q));
-      localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
+      if (isRealtimeSync) {
+        localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(data.favorites));
+      } else {
+        const localFav = this.getFavorites();
+        const map = new Map();
+        localFav.forEach(q => map.set(q.id, q));
+        data.favorites.forEach(q => map.set(q.id, q));
+        localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
+      }
     }
 
     // 4. Özel Sorular

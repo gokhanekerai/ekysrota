@@ -43,6 +43,8 @@ class FirebaseService {
         this.db = firebase.firestore();
         this.isInitialized = true;
 
+        this.setupRealtimeSync();
+
         this.auth.onAuthStateChanged(async (user) => {
           if (user) {
             this.currentUser = user;
@@ -66,6 +68,109 @@ class FirebaseService {
     setTimeout(() => {
       this.onAuthChange(this.currentUser);
     }, 100);
+  }
+
+  // --- CANLI GERÇEK ZAMANLI SENKRONİZASYON (MOBIL & PC ANLIK EŞZAMANLAMA) ---
+  setupRealtimeSync() {
+    if (!this.db) return;
+
+    try {
+      // 1. Firestore Real-time Snapshot Dinleyicisi
+      this.db.collection('global_sync').doc('master_state').onSnapshot((doc) => {
+        if (doc && doc.exists) {
+          const data = doc.data();
+          if (data && data.storageData) {
+            // Eğer veri yerel olarak çok yeni yazıldıysa döngüyü engelle
+            const lastLocalSync = this.lastLocalWriteTime || 0;
+            if (Date.now() - lastLocalSync < 1500) {
+              return;
+            }
+            window.storageService.importAllData(data.storageData, true);
+            this.refreshActiveUI();
+          }
+        }
+      }, (err) => {
+        console.warn('Realtime snapshot dinleme uyarısı:', err.message || err);
+      });
+    } catch (e) {
+      console.warn('Realtime sync başlatılamadı:', e);
+    }
+
+    // 2. Ekran Değişimi ve Sekme Odaklanmasında Otomatik Senkronizasyon
+    if (typeof window !== 'undefined') {
+      window.addEventListener('focus', () => {
+        this.syncAllDataFromCloud();
+      });
+
+      document.addEventListener('visibilitychange', () => {
+        if (!document.hidden) {
+          this.syncAllDataFromCloud();
+        }
+      });
+
+      window.addEventListener('online', () => {
+        this.syncAllDataFromCloud();
+      });
+
+      // 30 saniyelik periyodik arka plan senkronizasyon kontrolü
+      setInterval(() => {
+        this.syncAllDataFromCloud();
+      }, 30000);
+    }
+  }
+
+  refreshActiveUI() {
+    if (window.app) {
+      try {
+        if (typeof window.app.renderDashboard === 'function') window.app.renderDashboard();
+        if (typeof window.app.renderStatsView === 'function') window.app.renderStatsView();
+        if (typeof window.app.renderWrongPoolList === 'function') window.app.renderWrongPoolList();
+        if (typeof window.app.renderFavoritesList === 'function') window.app.renderFavoritesList();
+        if (typeof window.app.updateHeaderTarget === 'function') window.app.updateHeaderTarget();
+      } catch (e) {
+        console.warn('UI refresh hatası:', e);
+      }
+    }
+  }
+
+  // --- TÜM BULUT VE YEREL VERİLERİ SIFIRLAMA ---
+  async clearAllDataAndCloud() {
+    if (window.storageService) {
+      window.storageService.clearAllQuizData();
+    }
+
+    if (this.db) {
+      try {
+        await this.ensureAuth();
+      } catch (e) {}
+
+      const cleanPayload = {
+        storageData: {
+          quizHistory: [],
+          wrongPool: [],
+          favorites: [],
+          customQuestions: [],
+          isCleanWipe: true
+        },
+        email: (this.currentUser && this.currentUser.email) ? this.currentUser.email.toLowerCase() : 'admin@ekysrota.com',
+        displayName: (this.currentUser && this.currentUser.displayName) || 'Gökhan Eker (Yönetici)',
+        lastSyncedAt: new Date().toISOString(),
+        isCleanWipe: true
+      };
+
+      try {
+        await this.db.collection('global_sync').doc('master_state').set(cleanPayload);
+        await this.db.collection('users').doc('uid_master_admin').set(cleanPayload);
+        if (this.currentUser && this.currentUser.uid) {
+          await this.db.collection('users').doc(this.currentUser.uid).set(cleanPayload);
+        }
+      } catch (err) {
+        console.warn('Bulut verilerini sıfırlama uyarısı:', err);
+      }
+    }
+
+    this.refreshActiveUI();
+    return true;
   }
 
   async loginWithEmail(email, password) {
@@ -402,8 +507,9 @@ class FirebaseService {
   }
 
   // --- BULUT İLE ÇİFT YÖNLÜ SENKRONİZASYON (MOBILE & PC EVRENSEL UYUM) ---
-  async syncAllDataToCloud() {
+  async syncAllDataToCloud(isWipe = false) {
     if (!this.db) return;
+    this.lastLocalWriteTime = Date.now();
     try {
       await this.ensureAuth();
     } catch (e) {}
@@ -416,7 +522,8 @@ class FirebaseService {
       storageData: data,
       email: email,
       displayName: (this.currentUser && this.currentUser.displayName) || 'Gökhan Eker (Yönetici)',
-      lastSyncedAt: new Date().toISOString()
+      lastSyncedAt: new Date().toISOString(),
+      isCleanWipe: !!isWipe
     };
 
     try {
