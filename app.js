@@ -4078,13 +4078,30 @@ class EKYSApp {
 
     // 6. Grafikleri Çiz (Çubuk, Pasta, Çizgi)
     try {
-      this.renderStatsCharts(history, allQuestions, dailyTarget, testHubCards);
+      this.renderStatsCharts(history, allQuestions, dailyTarget, testHubCards, totalQuestionsAnswered, totalPoolCount);
     } catch (err) {
       console.warn('Grafik oluşturma hatası:', err);
     }
   }
 
-  renderStatsCharts(history, allQuestions, dailyTarget, testHubCards) {
+  changeStatsTrendOffset(delta) {
+    this.statsTrendOffset = (this.statsTrendOffset || 0) + delta;
+    if (this.statsTrendOffset > 0) this.statsTrendOffset = 0;
+    
+    const history = window.storageService.getQuizHistory();
+    const allQuestions = window.storageService.getQuestions();
+    const dailyTarget = window.storageService.getDailyTarget();
+    
+    let totalQuestionsAnswered = 0;
+    history.forEach(h => {
+      totalQuestionsAnswered += (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
+    });
+    const totalPoolCount = allQuestions.length || 1272;
+
+    this.renderStatsCharts(history, allQuestions, dailyTarget, null, totalQuestionsAnswered, totalPoolCount);
+  }
+
+  renderStatsCharts(history, allQuestions, dailyTarget, testHubCards, totalQuestionsAnswered = 0, totalPoolCount = 1272) {
     if (typeof Chart === 'undefined') return;
 
     // --- 1. ÇUBUK GRAFİK (BAR CHART): Son 7 Günlük Çözülen Soru vs Günlük Hedef ---
@@ -4173,50 +4190,40 @@ class EKYSApp {
       });
     }
 
-    // --- 2. PASTA/DONUT GRAFİK: Ders Bazlı Toplam Soru Dağılımı ---
+    // --- 2. PASTA/DONUT GRAFİK: Toplam Soru Çözülme Durumu (Çözülen vs Kalan) ---
     const distCanvas = document.getElementById('chart-total-distribution');
     if (distCanvas) {
       if (this.distChartInstance) {
         this.distChartInstance.destroy();
       }
 
-      const categoryLabels = [];
-      const categoryData = [];
-      const categoryColors = ['#38bdf8', '#818cf8', '#34d399', '#f472b6', '#fbbf24', '#a855f7', '#fb923c'];
-
-      testHubCards.forEach((card) => {
-        const matchingHistory = history.filter(h => card.match(h));
-        let count = 0;
-        matchingHistory.forEach(h => {
-          count += (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
-        });
-        categoryLabels.push(card.title.split(',')[0].split('&')[0].trim());
-        categoryData.push(count);
-      });
-
-      const totalSolvedCategory = categoryData.reduce((a, b) => a + b, 0);
+      const solved = totalQuestionsAnswered || 0;
+      const totalPool = totalPoolCount || 1272;
+      const remaining = Math.max(0, totalPool - solved);
+      const solvedPct = totalPool > 0 ? Math.round((solved / totalPool) * 100) : 0;
+      const remainingPct = 100 - solvedPct;
 
       const ctx2 = distCanvas.getContext('2d');
       this.distChartInstance = new Chart(ctx2, {
         type: 'doughnut',
         data: {
-          labels: totalSolvedCategory > 0 ? categoryLabels : ['Henüz Çözülmedi'],
+          labels: ['Çözülen Soru', 'Kalan Soru'],
           datasets: [{
-            data: totalSolvedCategory > 0 ? categoryData : [1],
-            backgroundColor: totalSolvedCategory > 0 ? categoryColors : ['rgba(255,255,255,0.1)'],
+            data: [solved, remaining],
+            backgroundColor: ['#10b981', '#334155'],
             borderColor: '#1e293b',
-            borderWidth: 2,
+            borderWidth: 3,
             hoverOffset: 6
           }]
         },
         options: {
           responsive: true,
           maintainAspectRatio: false,
-          cutout: '68%',
+          cutout: '66%',
           plugins: {
             legend: {
               position: 'right',
-              labels: { color: '#cbd5e1', font: { size: 10 }, boxWidth: 12, padding: 8 }
+              labels: { color: '#cbd5e1', font: { size: 11 }, boxWidth: 14, padding: 12 }
             },
             tooltip: {
               backgroundColor: '#1e293b',
@@ -4224,9 +4231,8 @@ class EKYSApp {
               bodyColor: '#cbd5e1',
               callbacks: {
                 label: (context) => {
-                  if (totalSolvedCategory === 0) return ' Henüz soru çözülmedi';
                   const val = context.raw || 0;
-                  const pct = totalSolvedCategory > 0 ? Math.round((val / totalSolvedCategory) * 100) : 0;
+                  const pct = context.dataIndex === 0 ? solvedPct : remainingPct;
                   return ` ${context.label}: ${val} Soru (%${pct})`;
                 }
               }
@@ -4236,73 +4242,137 @@ class EKYSApp {
       });
     }
 
-    // --- 3. ÇİZGİ GRAFİK (LINE CHART): Çözülen Testlerin Başarı Oranı Gelişim Trendi ---
+    // --- 3. ÇİZGİ GRAFİK (LINE CHART): Toplam Soru, Doğru, Yanlış 7 Günlük Trendi ---
     const accCanvas = document.getElementById('chart-accuracy-trend');
     if (accCanvas) {
       if (this.accChartInstance) {
         this.accChartInstance.destroy();
       }
 
-      // Son çözülen en fazla 12 test (kronolojik sıra)
-      const recentTests = history.slice(0, 12).reverse();
-      const testLabels = recentTests.map((h, i) => {
-        const shortTitle = h.title.length > 14 ? h.title.substring(0, 14) + '...' : h.title;
-        return `${i + 1}. ${shortTitle}`;
-      });
+      const offset = this.statsTrendOffset || 0;
+      const dayLabels = [];
+      const dayTotalArr = [];
+      const dayCorrectArr = [];
+      const dayWrongArr = [];
 
-      const testAccuracyData = recentTests.map(h => {
-        const total = h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0;
-        return total > 0 ? Math.round((h.correctCount / total) * 100) : 0;
-      });
+      let startDateObj = null;
+      let endDateObj = null;
+
+      for (let i = 6; i >= 0; i--) {
+        const d = new Date();
+        d.setDate(d.getDate() + offset - i);
+        if (i === 6) startDateObj = new Date(d);
+        if (i === 0) endDateObj = new Date(d);
+
+        const dateStr = d.toDateString();
+        const label = (offset === 0 && i === 0) 
+          ? 'Bugün' 
+          : d.toLocaleDateString('tr-TR', { weekday: 'short', day: 'numeric', month: 'short' });
+        
+        let dayTotal = 0;
+        let dayCorrect = 0;
+        let dayWrong = 0;
+
+        history.forEach(h => {
+          if (h.date && new Date(h.date).toDateString() === dateStr) {
+            const count = (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
+            dayTotal += count;
+            dayCorrect += (h.correctCount || 0);
+            dayWrong += (h.wrongCount || 0);
+          }
+        });
+
+        dayLabels.push(label);
+        dayTotalArr.push(dayTotal);
+        dayCorrectArr.push(dayCorrect);
+        dayWrongArr.push(dayWrong);
+      }
+
+      // Tarih Aralığı Etiketini Güncelle
+      const rangeLabelEl = document.getElementById('stats-trend-range-label');
+      const nextBtnEl = document.getElementById('btn-stats-trend-next');
+      if (rangeLabelEl && startDateObj && endDateObj) {
+        const sStr = startDateObj.toLocaleDateString('tr-TR', { day: 'numeric', month: 'short' });
+        const eStr = endDateObj.toLocaleDateString('tr-TR', { day: 'numeric', month: 'short' });
+        rangeLabelEl.textContent = offset === 0 ? `Son 7 Gün (${sStr} - ${eStr})` : `${sStr} - ${eStr}`;
+      }
+      if (nextBtnEl) {
+        nextBtnEl.style.opacity = offset >= 0 ? '0.4' : '1';
+        nextBtnEl.style.cursor = offset >= 0 ? 'not-allowed' : 'pointer';
+      }
 
       const ctx3 = accCanvas.getContext('2d');
       this.accChartInstance = new Chart(ctx3, {
         type: 'line',
         data: {
-          labels: testLabels.length > 0 ? testLabels : ['Test 1', 'Test 2', 'Test 3'],
-          datasets: [{
-            label: 'Başarı Oranı (%)',
-            data: testAccuracyData.length > 0 ? testAccuracyData : [0, 0, 0],
-            borderColor: '#fbbf24',
-            backgroundColor: 'rgba(251, 191, 36, 0.12)',
-            borderWidth: 3,
-            fill: true,
-            tension: 0.35,
-            pointBackgroundColor: '#fbbf24',
-            pointBorderColor: '#ffffff',
-            pointRadius: 4,
-            pointHoverRadius: 6
-          }]
+          labels: dayLabels,
+          datasets: [
+            {
+              label: 'Toplam Soru',
+              data: dayTotalArr,
+              borderColor: '#38bdf8',
+              backgroundColor: 'rgba(56, 189, 248, 0.1)',
+              borderWidth: 2.5,
+              tension: 0.35,
+              pointBackgroundColor: '#38bdf8',
+              pointBorderColor: '#ffffff',
+              pointRadius: 4,
+              fill: true
+            },
+            {
+              label: 'Doğru (D)',
+              data: dayCorrectArr,
+              borderColor: '#10b981',
+              backgroundColor: 'rgba(16, 185, 129, 0.1)',
+              borderWidth: 2.5,
+              tension: 0.35,
+              pointBackgroundColor: '#10b981',
+              pointBorderColor: '#ffffff',
+              pointRadius: 4,
+              fill: true
+            },
+            {
+              label: 'Yanlış (Y)',
+              data: dayWrongArr,
+              borderColor: '#ef4444',
+              backgroundColor: 'rgba(239, 68, 68, 0.1)',
+              borderWidth: 2.5,
+              tension: 0.35,
+              pointBackgroundColor: '#ef4444',
+              pointBorderColor: '#ffffff',
+              pointRadius: 4,
+              fill: true
+            }
+          ]
         },
         options: {
           responsive: true,
           maintainAspectRatio: false,
           plugins: {
             legend: {
-              display: false
+              display: true,
+              labels: { color: '#cbd5e1', font: { size: 10 }, boxWidth: 12, padding: 8 }
             },
             tooltip: {
               backgroundColor: '#1e293b',
               titleColor: '#ffffff',
               bodyColor: '#cbd5e1',
-              callbacks: {
-                label: (context) => ` Başarı: %${context.raw}`
-              }
+              borderColor: 'rgba(255,255,255,0.1)',
+              borderWidth: 1
             }
           },
           scales: {
             x: {
               grid: { display: false },
-              ticks: { color: '#94a3b8', font: { size: 9 }, maxRotation: 45, minRotation: 0 }
+              ticks: { color: '#94a3b8', font: { size: 10 } }
             },
             y: {
-              min: 0,
-              max: 100,
+              beginAtZero: true,
               grid: { color: 'rgba(255, 255, 255, 0.06)' },
               ticks: {
                 color: '#94a3b8',
                 font: { size: 10 },
-                callback: (val) => `%${val}`
+                precision: 0
               }
             }
           }
