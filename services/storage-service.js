@@ -346,7 +346,7 @@ class StorageService {
     return sources;
   }
 
-  // --- AYARLAR ---
+  // --- AYARLAR & GÜNLÜK HEDEF ---
   getSettings() {
     try {
       return JSON.parse(localStorage.getItem(this.KEYS.SETTINGS)) || {};
@@ -358,6 +358,19 @@ class StorageService {
   saveSettings(settings) {
     localStorage.setItem(this.KEYS.SETTINGS, JSON.stringify(settings));
     this.syncCloud();
+  }
+
+  getDailyTarget() {
+    const s = this.getSettings();
+    return parseInt(s.dailyTarget, 10) || 30;
+  }
+
+  setDailyTarget(count) {
+    const s = this.getSettings();
+    const val = Math.max(5, parseInt(count, 10) || 30);
+    s.dailyTarget = val;
+    this.saveSettings(s);
+    return val;
   }
 
   syncCloud() {

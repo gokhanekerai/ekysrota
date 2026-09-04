@@ -674,10 +674,10 @@
           <!-- Üst Özet Kartları (Günlük Hedef + Toplam Çözülme + Genel Başarı) -->
           <div class="grid-cards" style="margin-bottom: 24px;">
             <!-- 1. Günlük Hedef -->
-            <div class="card" style="border-left: 4px solid #6366f1;">
+            <div class="card" style="border-left: 4px solid #6366f1; cursor: pointer;" onclick="app.promptChangeDailyTarget()" title="Hedefi değiştirmek için tıklayın">
               <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
                 <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0;">🎯 Günlük Soru Hedefi</h3>
-                <span class="badge badge-info" style="font-size: 0.75rem;">Bugün</span>
+                <span class="badge badge-info" style="font-size: 0.75rem; background: rgba(99, 102, 241, 0.2); color: #a5b4fc;">✏️ Değiştir</span>
               </div>
               <div style="font-size: 1.8rem; font-weight: 800; color: #818cf8; margin-bottom: 6px;" id="stats-daily-count">0 / 30</div>
               <div class="progress-bar">
@@ -779,6 +779,20 @@
           </div>
 
           <div class="grid-cards">
+            <!-- Günlük Hedef Ayarı -->
+            <div class="card" style="border-left: 4px solid #6366f1;">
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 10px;">🎯 Günlük Soru Hedefi</h3>
+              <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
+                Her gün çözmeyi hedeflediğiniz soru sayısını belirleyin. İlerleme çubuğunuz ve başarı analiziniz bu hedefe göre takip edilir.
+              </p>
+              <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+                <input type="number" id="setting-daily-target-input" class="form-control" style="max-width: 140px; font-weight: 700; font-size: 1.1rem; color: #818cf8; text-align: center;" min="5" max="500" value="30">
+                <button class="btn btn-primary btn-sm" onclick="app.saveDailyTargetFromSettings()" style="font-weight: 700;">
+                  💾 Hedefi Kaydet
+                </button>
+              </div>
+            </div>
+
             <!-- Görünüm & Tema -->
             <div class="card">
               <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 14px;">🎨 Görünüm</h3>
@@ -950,13 +964,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=61.0"></script>
-  <script src="data/questions-db.js?v=61.0"></script>
-  <script src="services/storage-service.js?v=61.0"></script>
-  <script src="services/firebase-service.js?v=61.0"></script>
-  <script src="services/pdf-service.js?v=61.0"></script>
-  <script src="services/youtube-service.js?v=61.0"></script>
-  <script src="services/question-generator.js?v=61.0"></script>
-  <script src="app.js?v=61.0"></script>
+  <script src="data/ekys-sample-questions.js?v=62.0"></script>
+  <script src="data/questions-db.js?v=62.0"></script>
+  <script src="services/storage-service.js?v=62.0"></script>
+  <script src="services/firebase-service.js?v=62.0"></script>
+  <script src="services/pdf-service.js?v=62.0"></script>
+  <script src="services/youtube-service.js?v=62.0"></script>
+  <script src="services/question-generator.js?v=62.0"></script>
+  <script src="app.js?v=62.0"></script>
 </body>
 </html>

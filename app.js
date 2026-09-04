@@ -3718,12 +3718,15 @@ class EKYSApp {
     });
 
     // 2. Üst Sayaçları Güncelle
-    const dailyTarget = 30;
+    const dailyTarget = window.storageService.getDailyTarget();
     const dailyPct = Math.min(100, Math.round((todaySolved / dailyTarget) * 100));
     const dailyCountEl = document.getElementById('stats-daily-count');
     const dailyBarEl = document.getElementById('stats-daily-bar');
     if (dailyCountEl) dailyCountEl.textContent = `${todaySolved} / ${dailyTarget} Soru`;
     if (dailyBarEl) dailyBarEl.style.width = `${dailyPct}%`;
+
+    const settingInput = document.getElementById('setting-daily-target-input');
+    if (settingInput && document.activeElement !== settingInput) settingInput.value = dailyTarget;
 
     const totalPoolCount = allQuestions.length || 1200;
     const totalSolvedPct = totalPoolCount > 0 ? Math.min(100, Math.round((totalQuestionsAnswered / totalPoolCount) * 100)) : 0;
@@ -4422,6 +4425,36 @@ class EKYSApp {
     a.click();
     URL.revokeObjectURL(url);
     this.showToast('Yedek dosyanız indirildi!', 'success');
+  }
+
+  promptChangeDailyTarget() {
+    const current = window.storageService ? window.storageService.getDailyTarget() : 30;
+    const input = prompt('🎯 Günlük çözmek istediğiniz hedef soru sayısını giriniz (Örn: 20, 30, 50, 100):', current);
+    if (input !== null) {
+      const parsed = parseInt(input.trim(), 10);
+      if (!isNaN(parsed) && parsed >= 5) {
+        window.storageService.setDailyTarget(parsed);
+        this.renderStatsView();
+        this.renderDashboard();
+        this.showToast(`Günlük hedefiniz ${parsed} soru olarak güncellendi! 🎯`, 'success');
+      } else {
+        this.showToast('Lütfen en az 5 olacak şekilde geçerli bir sayı giriniz.', 'error');
+      }
+    }
+  }
+
+  saveDailyTargetFromSettings() {
+    const el = document.getElementById('setting-daily-target-input');
+    if (!el) return;
+    const val = parseInt(el.value, 10);
+    if (!isNaN(val) && val >= 5) {
+      window.storageService.setDailyTarget(val);
+      this.renderStatsView();
+      this.renderDashboard();
+      this.showToast(`Günlük soru hedefiniz ${val} soru olarak kaydedildi! 🎯`, 'success');
+    } else {
+      this.showToast('Lütfen en az 5 olacak şekilde geçerli bir hedef soru sayısı giriniz.', 'error');
+    }
   }
 
   showToast(msg, type = 'info') {
