@@ -389,9 +389,21 @@ class FirebaseService {
     }
   }
 
+  async ensureAuth() {
+    if (!this.auth) return null;
+    if (this.auth.currentUser) return this.auth.currentUser;
+    try {
+      const res = await this.auth.signInAnonymously();
+      return res.user;
+    } catch (e) {
+      return null;
+    }
+  }
+
   // --- BULUT İLE ÇİFT YÖNLÜ SENKRONİZASYON (MOBILE & PC EVRENSEL UYUM) ---
   async syncAllDataToCloud() {
     if (!this.db) return;
+    await this.ensureAuth();
 
     const data = window.storageService.exportAllData();
     const uid = this.currentUser ? this.currentUser.uid : 'uid_master_admin';
@@ -406,15 +418,12 @@ class FirebaseService {
         lastSyncedAt: new Date().toISOString()
       };
 
-      // 1. Kendi kullanıcı ID'sine yaz
-      if (uid) {
-        await this.db.collection('users').doc(uid).set(payload, { merge: true });
-      }
+      // 1. Ortak havuz dokümanına kesin kaydet
+      await this.db.collection('global_sync').doc('master_state').set(payload, { merge: true });
+      await this.db.collection('users').doc('uid_master_admin').set(payload, { merge: true });
 
-      // 2. Eğer Master / Admin ise evrensel master dokümanlarına da yedekle
-      if (isMaster) {
-        await this.db.collection('users').doc('uid_master_admin').set(payload, { merge: true });
-        await this.db.collection('global_sync').doc('master_state').set(payload, { merge: true });
+      if (uid && uid !== 'uid_master_admin') {
+        await this.db.collection('users').doc(uid).set(payload, { merge: true });
       }
       console.log('Veriler buluta başarıyla senkronize edildi.');
     } catch (err) {
@@ -424,43 +433,30 @@ class FirebaseService {
 
   async syncAllDataFromCloud() {
     if (!this.db) return;
+    await this.ensureAuth();
 
     const uid = this.currentUser ? this.currentUser.uid : 'uid_master_admin';
-    const email = (this.currentUser && this.currentUser.email) ? this.currentUser.email.toLowerCase() : 'admin@ekysrota.com';
-    const isMaster = this.isAdmin() || email.includes('admin') || email.includes('gokhan') || uid.includes('master');
-
-    const docsToTry = [uid];
-    if (isMaster) {
-      docsToTry.push('uid_master_admin', 'uid_master_admin_google');
+    const docsToTry = ['global_sync/master_state', 'users/uid_master_admin', 'users/uid_master_admin_google'];
+    if (uid && !docsToTry.includes(`users/${uid}`)) {
+      docsToTry.push(`users/${uid}`);
     }
 
     try {
-      // 1. Olası tüm dokümanları tara ve birleştir
       let anyFound = false;
-      for (const targetId of docsToTry) {
+      for (const targetPath of docsToTry) {
         try {
-          const doc = await this.db.collection('users').doc(targetId).get();
+          const [col, docId] = targetPath.split('/');
+          const doc = await this.db.collection(col).doc(docId).get();
           if (doc.exists && doc.data() && doc.data().storageData) {
             window.storageService.importAllData(doc.data().storageData);
             anyFound = true;
           }
         } catch (e) {
-          console.warn('Doc fetch error for ' + targetId, e);
+          console.warn('Doc fetch error for ' + targetPath, e);
         }
       }
 
-      // 2. Global master state varsa onu da çek ve birleştir
-      if (isMaster) {
-        try {
-          const globalDoc = await this.db.collection('global_sync').doc('master_state').get();
-          if (globalDoc.exists && globalDoc.data() && globalDoc.data().storageData) {
-            window.storageService.importAllData(globalDoc.data().storageData);
-            anyFound = true;
-          }
-        } catch (e) {}
-      }
-
-      // 3. Görünümleri yeniden render et
+      // Görünümleri yeniden render et
       if (window.app) {
         window.app.renderDashboard();
         window.app.renderWrongPoolList();
@@ -471,8 +467,10 @@ class FirebaseService {
       if (!anyFound) {
         await this.syncAllDataToCloud();
       }
+      return anyFound;
     } catch (err) {
       console.error('Buluttan veri çekme hatası:', err);
+      return false;
     }
   }
 }

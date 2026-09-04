@@ -663,9 +663,14 @@
               <h1 class="page-title">Başarı Analizi & İlerleme 📈</h1>
               <p class="page-subtitle">Ders bazlı puanlarınız, konu başarı oranlarınız ve sınav geçmişiniz.</p>
             </div>
-            <button class="btn btn-secondary btn-sm" onclick="app.manualCloudSync()" style="display: flex; align-items: center; gap: 6px; font-weight: 700; border-color: rgba(99, 102, 241, 0.4);">
-              <span>🔄</span> Buluttan Verileri Güncelle
-            </button>
+            <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+              <button class="btn btn-secondary btn-sm" onclick="app.manualCloudSync()" style="display: flex; align-items: center; gap: 6px; font-weight: 700; border-color: rgba(99, 102, 241, 0.4);">
+                <span>🔄</span> Buluttan Güncelle
+              </button>
+              <button class="btn btn-primary btn-sm" onclick="app.openDataSyncModal()" style="display: flex; align-items: center; gap: 6px; font-weight: 700; background: linear-gradient(135deg, #6366f1, #8b5cf6); border: none;">
+                <span>📲</span> Cihazlar Arası Hızlı Aktar
+              </button>
+            </div>
           </div>
 
           <div class="grid-cards" style="margin-bottom: 24px;">
@@ -857,6 +862,43 @@
       </div>
       <div class="modal-zoom-footer">
         <span>💡 İki parmağınızla yakınlaştırabilir, haritayı sürükleyerek dilediğiniz bölgeyi net olarak inceleyebilirsiniz.</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: VERİ AKTARIMI & YEDEKLEME -->
+  <div class="modal" id="modal-data-sync" onclick="app.closeDataSyncModal(event)">
+    <div class="modal-content" style="max-width: 540px;" onclick="event.stopPropagation()">
+      <div class="modal-header" style="border-bottom: 1px solid var(--border-active); padding-bottom: 12px; margin-bottom: 16px;">
+        <h3 class="modal-title" style="display: flex; align-items: center; gap: 8px;">
+          <span>📲</span> Cihazlar Arası Veri Aktarımı
+        </h3>
+        <button class="modal-close" onclick="app.closeDataSyncModal()">✕</button>
+      </div>
+      <div style="padding: 10px 0;">
+        <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.5;">
+          Mobil ile bilgisayar arasında çözülen tüm sınav geçmişini, başarı analizini ve yanlış defterinizi bulut üzerinden veya anında kodla aktarabilirsiniz.
+        </p>
+
+        <div style="display: flex; gap: 10px; margin-bottom: 16px; flex-wrap: wrap;">
+          <button class="btn btn-primary" style="flex: 1; min-width: 200px;" onclick="app.copySyncCode()">
+            📋 Bu Cihazın Veri Kodunu Kopyala
+          </button>
+          <button class="btn btn-secondary" style="flex: 1; min-width: 200px;" onclick="app.manualCloudSync()">
+            ☁️ Buluttan Otomatik Çek
+          </button>
+        </div>
+
+        <div style="border-top: 1px solid rgba(255,255,255,0.08); padding-top: 14px; margin-top: 14px;">
+          <label style="font-size: 0.82rem; font-weight: 700; color: #a5b4fc; display: block; margin-bottom: 6px;">
+            📥 Diğer Cihazdan Kopyaladığınız Kodu Buraya Yapıştırın:
+          </label>
+          <textarea id="sync-code-input" class="form-input" style="width: 100%; height: 90px; font-family: monospace; font-size: 0.75rem; margin-bottom: 12px;" placeholder="Mobilden aldığınız kodu buraya yapıştırıp 'Yükle' butonuna basın..."></textarea>
+          
+          <button class="btn btn-primary btn-block" onclick="app.importSyncCode()" style="font-weight: 700; background: linear-gradient(135deg, #10b981, #059669); border: none;">
+            📥 Verileri İçe Aktar &amp; Analizi Güncelle
+          </button>
+        </div>
       </div>
     </div>
   </div>

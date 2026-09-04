@@ -3633,6 +3633,57 @@ class EKYSApp {
     }
   }
 
+  openDataSyncModal() {
+    const modal = document.getElementById('modal-data-sync');
+    if (modal) modal.style.display = 'flex';
+  }
+
+  closeDataSyncModal(e = null) {
+    if (e && e.target && e.target.classList && !e.target.classList.contains('modal') && !e.target.classList.contains('modal-close')) {
+      return;
+    }
+    const modal = document.getElementById('modal-data-sync');
+    if (modal) modal.style.display = 'none';
+  }
+
+  copySyncCode() {
+    const data = window.storageService.exportAllData();
+    const str = btoa(unescape(encodeURIComponent(JSON.stringify(data))));
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(str).then(() => {
+        this.showToast('Veri aktarım kodu panoya kopyalandı! Diğer cihazda yapıştırabilirsiniz. 📋', 'success');
+      }).catch(() => {
+        prompt('Veri aktarım kodunuzu kopyalayın:', str);
+      });
+    } else {
+      prompt('Veri aktarım kodunuzu kopyalayın:', str);
+    }
+  }
+
+  importSyncCode() {
+    const input = document.getElementById('sync-code-input');
+    if (!input || !input.value.trim()) {
+      this.showToast('Lütfen geçerli bir veri kodu yapıştırın.', 'error');
+      return;
+    }
+    try {
+      const decoded = decodeURIComponent(escape(atob(input.value.trim())));
+      const data = JSON.parse(decoded);
+      window.storageService.importAllData(data);
+      this.renderStatsView();
+      this.renderDashboard();
+      this.renderWrongPoolList();
+      this.renderFavoritesList();
+      this.closeDataSyncModal();
+      this.showToast('Veriler başarıyla aktarıldı! Başarı analizi güncellendi. 🎉', 'success');
+      if (window.firebaseService) {
+        window.firebaseService.syncAllDataToCloud();
+      }
+    } catch (e) {
+      this.showToast('Geçersiz veri kodu! Lütfen kontrol edin.', 'error');
+    }
+  }
+
   renderStatsView() {
     const history = window.storageService.getQuizHistory();
 
