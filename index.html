@@ -726,8 +726,13 @@
 
           <!-- Çözülen Tüm Sınavlar Tablosu -->
           <div class="card">
-            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;">🕒 Çözülen Tüm Sınavlar &amp; Denemeler</h3>
-            <div id="stats-history-table"></div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; flex-wrap: wrap; gap: 8px;">
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin: 0;">🕒 Çözülen Tüm Sınavlar &amp; Denemeler</h3>
+              <button class="btn btn-secondary btn-sm" onclick="app.clearAllQuizHistoryPrompt()" style="font-size: 0.8rem; padding: 6px 12px; border-radius: 8px; border-color: rgba(239, 68, 68, 0.4); color: #f87171;" title="Tüm test geçmişini sil">
+                🗑️ Tüm Geçmişi Temizle
+              </button>
+            </div>
+            <div id="stats-history-table" style="overflow-x: auto;"></div>
           </div>
         </section>
 
@@ -964,13 +969,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=62.0"></script>
-  <script src="data/questions-db.js?v=62.0"></script>
-  <script src="services/storage-service.js?v=62.0"></script>
-  <script src="services/firebase-service.js?v=62.0"></script>
-  <script src="services/pdf-service.js?v=62.0"></script>
-  <script src="services/youtube-service.js?v=62.0"></script>
-  <script src="services/question-generator.js?v=62.0"></script>
-  <script src="app.js?v=62.0"></script>
+  <script src="data/ekys-sample-questions.js?v=63.0"></script>
+  <script src="data/questions-db.js?v=63.0"></script>
+  <script src="services/storage-service.js?v=63.0"></script>
+  <script src="services/firebase-service.js?v=63.0"></script>
+  <script src="services/pdf-service.js?v=63.0"></script>
+  <script src="services/youtube-service.js?v=63.0"></script>
+  <script src="services/question-generator.js?v=63.0"></script>
+  <script src="app.js?v=63.0"></script>
 </body>
 </html>

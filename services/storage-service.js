@@ -311,6 +311,20 @@ class StorageService {
     return entry;
   }
 
+  deleteQuizHistory(id) {
+    if (!id) return;
+    const history = this.getQuizHistory();
+    const updated = history.filter(h => h.id !== id && h.date !== id);
+    localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(updated));
+    this.syncCloud();
+    return updated;
+  }
+
+  clearQuizHistory() {
+    localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify([]));
+    this.syncCloud();
+  }
+
   // --- KAYNAKLAR (PDF / METİN) ---
   getSources() {
     try {

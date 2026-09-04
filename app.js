@@ -3905,26 +3905,56 @@ class EKYSApp {
               <tr>
                 <th>Test / Deneme Adı</th>
                 <th>Tarih</th>
-                <th>Doğru</th>
-                <th>Yanlış</th>
-                <th>Sonuç</th>
+                <th style="text-align: center;">Toplam Soru</th>
+                <th style="text-align: center;">Doğru</th>
+                <th style="text-align: center;">Yanlış</th>
+                <th style="text-align: center;">Boş</th>
+                <th style="text-align: center;">Başarı Oranı</th>
+                <th style="text-align: center;">İşlem</th>
               </tr>
             </thead>
             <tbody>
               ${history.map(h => {
+                const correct = h.correctCount || 0;
+                const wrong = h.wrongCount || 0;
+                const empty = h.emptyCount || 0;
+                const total = h.totalQuestions || (correct + wrong + empty);
+                const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
                 const isScored = this.isScoreApplicable(h);
-                const pct = h.totalQuestions > 0 ? Math.round((h.correctCount / h.totalQuestions) * 100) : 0;
+                const recordId = h.id || h.date;
+                const pctColor = pct >= 70 ? '#10b981' : pct >= 50 ? '#f59e0b' : '#ef4444';
+                
                 return `
                 <tr>
-                  <td><strong>${h.title}</strong></td>
-                  <td>${new Date(h.date).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}</td>
-                  <td style="color: #34d399; font-weight: 700;">${h.correctCount} D</td>
-                  <td style="color: #f87171; font-weight: 700;">${h.wrongCount} Y</td>
-                  ${isScored ? `
-                    <td style="color: #818cf8; font-weight: 800;">${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan</td>
-                  ` : `
-                    <td style="color: #fbbf24; font-weight: 700;">%${pct} Başarı</td>
-                  `}
+                  <td>
+                    <div style="font-weight: 700; color: var(--text-primary);">${h.title}</div>
+                  </td>
+                  <td style="white-space: nowrap; color: var(--text-secondary); font-size: 0.82rem;">
+                    ${new Date(h.date).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}
+                  </td>
+                  <td style="text-align: center;">
+                    <span class="badge badge-info" style="font-size: 0.82rem; font-weight: 700; padding: 4px 8px;">${total} Soru</span>
+                  </td>
+                  <td style="text-align: center;">
+                    <span style="color: #10b981; font-weight: 800; font-size: 0.9rem;">${correct} D</span>
+                  </td>
+                  <td style="text-align: center;">
+                    <span style="color: #ef4444; font-weight: 800; font-size: 0.9rem;">${wrong} Y</span>
+                  </td>
+                  <td style="text-align: center;">
+                    <span style="color: #94a3b8; font-weight: 700; font-size: 0.9rem;">${empty} B</span>
+                  </td>
+                  <td style="text-align: center;">
+                    <div style="display: inline-flex; flex-direction: column; align-items: center;">
+                      <span style="color: ${pctColor}; font-weight: 800; font-size: 0.92rem;">%${pct} Başarı</span>
+                      ${isScored ? `<span style="font-size: 0.75rem; color: #818cf8; font-weight: 600;">(${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan)</span>` : ''}
+                    </div>
+                  </td>
+                  <td style="text-align: center; white-space: nowrap;">
+                    <button class="btn btn-danger btn-sm" onclick="app.deleteQuizHistoryItem('${recordId}')" style="padding: 5px 10px; font-size: 0.78rem; border-radius: 6px; font-weight: 600;" title="Bu test sonucunu sil">
+                      🗑️ Sil
+                    </button>
+                  </td>
                 </tr>
               `;}).join('')}
             </tbody>
@@ -3932,6 +3962,32 @@ class EKYSApp {
         `;
       }
     }
+  }
+
+  deleteQuizHistoryItem(id) {
+    if (!id) return;
+    if (!confirm('Bu test sonucunu geçmişten silmek istediğinize emin misiniz?')) {
+      return;
+    }
+    window.storageService.deleteQuizHistory(id);
+    this.renderStatsView();
+    this.renderDashboard();
+    this.showToast('Test kaydı başarıyla silindi.', 'success');
+  }
+
+  clearAllQuizHistoryPrompt() {
+    const history = window.storageService.getQuizHistory();
+    if (!history || history.length === 0) {
+      this.showToast('Silinecek test geçmişi bulunmuyor.', 'info');
+      return;
+    }
+    if (!confirm('Tüm çözülen sınav ve deneme geçmişini silmek istediğinize emin misiniz? Bu işlem geri alınamaz.')) {
+      return;
+    }
+    window.storageService.clearQuizHistory();
+    this.renderStatsView();
+    this.renderDashboard();
+    this.showToast('Tüm test geçmişi başarıyla temizlendi.', 'success');
   }
 
   // --- KARŞILAMA GİRİŞ EKRANI (AUTH GATE) METODLARI ---
