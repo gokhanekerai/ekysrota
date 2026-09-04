@@ -3878,44 +3878,93 @@ class EKYSApp {
         } else {
           distinctSolvedTests = Math.min(matchingHistory.length, totalTests);
         }
-
         const testSolveRate = totalTests > 0 ? Math.min(100, Math.round((distinctSolvedTests / totalTests) * 100)) : 0;
         const solveRate = totalPool > 0 ? Math.min(100, Math.round((solvedCount / totalPool) * 100)) : 0;
 
+        const theme = card.theme || {
+          color: '#6366f1',
+          gradStart: '#818cf8',
+          gradEnd: '#4f46e5',
+          bg: 'linear-gradient(145deg, rgba(99, 102, 241, 0.1) 0%, rgba(30, 41, 59, 0.8) 100%)',
+          border: 'rgba(99, 102, 241, 0.35)',
+          badgeBg: 'rgba(99, 102, 241, 0.2)',
+          badgeColor: '#a5b4fc',
+          glow: 'rgba(99, 102, 241, 0.4)'
+        };
+
+        const radius = 30;
+        const circumference = 2 * Math.PI * radius; // ~188.5
+        const dashoffset = (circumference * (1 - solveRate / 100)).toFixed(1);
+
         return `
-          <div class="card" style="border: 1px solid rgba(255,255,255,0.08); background: rgba(30, 41, 59, 0.6); display: flex; flex-direction: column; justify-content: space-between;">
+          <div class="card" style="border: 1px solid ${theme.border}; background: ${theme.bg}; display: flex; flex-direction: column; justify-content: space-between; border-radius: 14px; transition: all 0.25s ease; box-shadow: 0 4px 18px rgba(0,0,0,0.25);" onmouseover="this.style.transform='translateY(-3px)'; this.style.borderColor='${theme.color}'; this.style.boxShadow='0 8px 25px ${theme.glow}'" onmouseout="this.style.transform='none'; this.style.borderColor='${theme.border}'; this.style.boxShadow='0 4px 18px rgba(0,0,0,0.25)'">
             <div>
               <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
-                <div style="font-size: 28px;">${card.icon}</div>
-                <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; font-size: 0.72rem; font-weight: 700;">${card.badge}</span>
+                <div style="font-size: 30px; filter: drop-shadow(0 2px 6px ${theme.glow});">${card.icon}</div>
+                <span class="badge" style="background: ${theme.badgeBg}; color: ${theme.badgeColor}; border: 1px solid ${theme.border}; font-size: 0.72rem; font-weight: 700; padding: 4px 8px; border-radius: 6px;">${card.badge}</span>
               </div>
-              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 4px;">${card.title}</h3>
-              <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 14px;">${card.subTitle}</p>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; color: #ffffff;">${card.title}</h3>
+              <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 14px; line-height: 1.4;">${card.subTitle}</p>
 
-              <!-- Test Çözülme Oranı -->
-              <div style="margin-bottom: 10px; background: rgba(0,0,0,0.2); padding: 10px 12px; border-radius: 8px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.82rem; font-weight: 700; margin-bottom: 5px;">
-                  <span style="color: #cbd5e1;">📋 Test Çözülme Oranı:</span>
-                  <span style="color: #38bdf8;">%${testSolveRate} (${distinctSolvedTests}/${totalTests} Test)</span>
+              <!-- Soru Çözülme Oranı (Çember Grafik) & Test Çözülme Oranı -->
+              <div style="background: rgba(15, 23, 42, 0.65); padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06); margin-bottom: 14px; display: flex; align-items: center; gap: 14px;">
+                
+                <!-- Çember Grafik (SVG Circular Progress Ring) -->
+                <div style="position: relative; width: 76px; height: 76px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+                  <svg width="76" height="76" viewBox="0 0 76 76" style="transform: rotate(-90deg); filter: drop-shadow(0 0 4px ${theme.glow});">
+                    <defs>
+                      <linearGradient id="grad-ring-${card.id}" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stop-color="${theme.gradStart}" />
+                        <stop offset="100%" stop-color="${theme.gradEnd}" />
+                      </linearGradient>
+                    </defs>
+                    <!-- Arka Plan Halkası -->
+                    <circle cx="38" cy="38" r="${radius}" stroke="rgba(255,255,255,0.09)" stroke-width="6" fill="none" />
+                    <!-- İlerleme Halkası -->
+                    <circle cx="38" cy="38" r="${radius}" 
+                      stroke="url(#grad-ring-${card.id})" 
+                      stroke-width="6" 
+                      stroke-linecap="round" 
+                      fill="none" 
+                      stroke-dasharray="${circumference.toFixed(1)}" 
+                      stroke-dashoffset="${dashoffset}" 
+                      style="transition: stroke-dashoffset 0.8s cubic-bezier(0.4, 0, 0.2, 1);"
+                    />
+                  </svg>
+                  <!-- Merkez Yüzde & Bilgi -->
+                  <div style="position: absolute; display: flex; flex-direction: column; align-items: center; justify-content: center; pointer-events: none; text-align: center;">
+                    <span style="font-size: 1.05rem; font-weight: 800; color: #ffffff; line-height: 1;">%${solveRate}</span>
+                    <span style="font-size: 0.62rem; font-weight: 700; color: ${theme.badgeColor}; margin-top: 2px; letter-spacing: 0.3px;">Soru</span>
+                  </div>
                 </div>
-                <div class="progress-bar" style="height: 7px;">
-                  <div class="progress-fill" style="width: ${testSolveRate}%; background: linear-gradient(90deg, #0ea5e9, #38bdf8);"></div>
-                </div>
-              </div>
 
-              <!-- Soru Çözülme / İlerleme Yüzdesi -->
-              <div style="margin-bottom: 14px; background: rgba(0,0,0,0.2); padding: 10px 12px; border-radius: 8px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.82rem; font-weight: 700; margin-bottom: 5px;">
-                  <span style="color: #cbd5e1;">📌 Soru Çözülme Oranı:</span>
-                  <span style="color: #818cf8;">%${solveRate} (${solvedCount}/${totalPool} Soru)</span>
+                <!-- Sağ Detay Bilgileri -->
+                <div style="flex: 1; min-width: 0;">
+                  <div style="margin-bottom: 8px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.78rem; font-weight: 700; color: #e2e8f0; margin-bottom: 2px;">
+                      <span>📌 Soru Çözümü</span>
+                      <span style="color: ${theme.badgeColor}; font-weight: 800;">${solvedCount} / ${totalPool}</span>
+                    </div>
+                    <div style="font-size: 0.72rem; color: #94a3b8;">
+                      ${totalPool > solvedCount ? `${totalPool - solvedCount} soru kaldı` : '🎉 Tamamı çözüldü!'}
+                    </div>
+                  </div>
+
+                  <div>
+                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75rem; font-weight: 600; color: #94a3b8; margin-bottom: 3px;">
+                      <span>📋 Test Çözümü</span>
+                      <span style="color: #38bdf8; font-weight: 700;">%${testSolveRate} (${distinctSolvedTests}/${totalTests})</span>
+                    </div>
+                    <div class="progress-bar" style="height: 5px; background: rgba(255,255,255,0.08); border-radius: 4px;">
+                      <div class="progress-fill" style="width: ${testSolveRate}%; background: linear-gradient(90deg, #0ea5e9, #38bdf8);"></div>
+                    </div>
+                  </div>
                 </div>
-                <div class="progress-bar" style="height: 7px;">
-                  <div class="progress-fill" style="width: ${solveRate}%; background: linear-gradient(90deg, #6366f1, #8b5cf6);"></div>
-                </div>
+
               </div>
             </div>
 
-            <button class="btn btn-secondary btn-block btn-sm" onclick="app.openSubTopicModal('${card.id}')" style="margin-top: 6px; font-weight: 700; font-size: 0.8rem;">
+            <button class="btn btn-block btn-sm" onclick="app.openSubTopicModal('${card.id}')" style="margin-top: 4px; font-weight: 700; font-size: 0.82rem; border: 1px solid ${theme.border}; background: rgba(255, 255, 255, 0.05); color: #ffffff; border-radius: 8px; padding: 7px 12px; transition: all 0.2s;" onmouseover="this.style.background='${theme.gradStart}'; this.style.color='#0f172a'; this.style.borderColor='transparent'" onmouseout="this.style.background='rgba(255,255,255,0.05)'; this.style.color='#ffffff'; this.style.borderColor='${theme.border}'">
               <span>📝</span> Bu Dersin Testlerini Çöz
             </button>
           </div>
@@ -4014,6 +4063,16 @@ class EKYSApp {
         subTitle: 'Coğrafya, Yurttaşlık & Güncel Bilgiler',
         icon: '🌍',
         badge: '%20 (16 Soru)',
+        theme: {
+          color: '#06b6d4',
+          gradStart: '#22d3ee',
+          gradEnd: '#0284c7',
+          bg: 'linear-gradient(145deg, rgba(6, 182, 212, 0.1) 0%, rgba(30, 41, 59, 0.8) 100%)',
+          border: 'rgba(6, 182, 212, 0.35)',
+          badgeBg: 'rgba(6, 182, 212, 0.2)',
+          badgeColor: '#67e8f9',
+          glow: 'rgba(6, 182, 212, 0.4)'
+        },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
           return t.includes('cogr') || t.includes('coğrafya') || t.includes('yurttas') || t.includes('yurttaş') || t.includes('guncel') || t.includes('güncel') || t.includes('genel kültür') || t.includes('genel kultur');
@@ -4025,6 +4084,16 @@ class EKYSApp {
         subTitle: 'İlk Türk Dev., Selçuklu, Osmanlı, İnkılap',
         icon: '⚔️',
         badge: '%20 (16 Soru)',
+        theme: {
+          color: '#f43f5e',
+          gradStart: '#fb7185',
+          gradEnd: '#e11d48',
+          bg: 'linear-gradient(145deg, rgba(244, 63, 94, 0.1) 0%, rgba(30, 41, 59, 0.8) 100%)',
+          border: 'rgba(244, 63, 94, 0.35)',
+          badgeBg: 'rgba(244, 63, 94, 0.2)',
+          badgeColor: '#fda4af',
+          glow: 'rgba(244, 63, 94, 0.4)'
+        },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
           return t.includes('tarih') || t.includes('inkılap') || t.includes('inkilap') || t.includes('atatürk') || t.includes('ataturk') || t.includes('nutuk') || t.includes('amasya') || t.includes('erzurum') || t.includes('sivas') || t.includes('lozan');
@@ -4036,6 +4105,16 @@ class EKYSApp {
         subTitle: 'Yönetim, Liderlik, Denetim, Değerler, Etik',
         icon: '🎓',
         badge: '%15 (12 Soru)',
+        theme: {
+          color: '#10b981',
+          gradStart: '#34d399',
+          gradEnd: '#059669',
+          bg: 'linear-gradient(145deg, rgba(16, 185, 129, 0.1) 0%, rgba(30, 41, 59, 0.8) 100%)',
+          border: 'rgba(16, 185, 129, 0.35)',
+          badgeBg: 'rgba(16, 185, 129, 0.2)',
+          badgeColor: '#6ee7b7',
+          glow: 'rgba(16, 185, 129, 0.4)'
+        },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
           return t.includes('egitim') || t.includes('eğitim') || t.includes('yönetim') || t.includes('yonetim') || t.includes('denetim') || t.includes('liderlik') || t.includes('değerler') || t.includes('degerler') || t.includes('etik') || t.includes('ölçme') || t.includes('olcme');
@@ -4047,6 +4126,16 @@ class EKYSApp {
         subTitle: 'Ortak Metin, Beceriler, Erdem-Değer-Eylem',
         icon: '🌟',
         badge: '%30 (24 Soru)',
+        theme: {
+          color: '#f59e0b',
+          gradStart: '#fbbf24',
+          gradEnd: '#d97706',
+          bg: 'linear-gradient(145deg, rgba(245, 158, 11, 0.12) 0%, rgba(30, 41, 59, 0.8) 100%)',
+          border: 'rgba(245, 158, 11, 0.4)',
+          badgeBg: 'rgba(245, 158, 11, 0.25)',
+          badgeColor: '#fde047',
+          glow: 'rgba(245, 158, 11, 0.4)'
+        },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
           return t.includes('maarif');
@@ -4058,6 +4147,16 @@ class EKYSApp {
         subTitle: '1982 Anayasası, 657, 1739, 222, 5018...',
         icon: '⚖️',
         badge: '%20 (16 Soru)',
+        theme: {
+          color: '#6366f1',
+          gradStart: '#818cf8',
+          gradEnd: '#4f46e5',
+          bg: 'linear-gradient(145deg, rgba(99, 102, 241, 0.1) 0%, rgba(30, 41, 59, 0.8) 100%)',
+          border: 'rgba(99, 102, 241, 0.35)',
+          badgeBg: 'rgba(99, 102, 241, 0.2)',
+          badgeColor: '#a5b4fc',
+          glow: 'rgba(99, 102, 241, 0.4)'
+        },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
           return t.includes('mevzuat') || t.includes('kanun') || t.includes('anayasa') || t.includes('cbk') || t.includes('657') || t.includes('1739') || t.includes('222') || t.includes('5018') || t.includes('4483') || t.includes('4688') || t.includes('5442') || t.includes('3071');
@@ -4069,6 +4168,16 @@ class EKYSApp {
         subTitle: '2019 – 2026 Resmî MEB EKYS Arşivi',
         icon: '📜',
         badge: '8 Yıllık Arşiv',
+        theme: {
+          color: '#a855f7',
+          gradStart: '#c084fc',
+          gradEnd: '#9333ea',
+          bg: 'linear-gradient(145deg, rgba(168, 85, 247, 0.12) 0%, rgba(30, 41, 59, 0.8) 100%)',
+          border: 'rgba(168, 85, 247, 0.4)',
+          badgeBg: 'rgba(168, 85, 247, 0.25)',
+          badgeColor: '#e9d5ff',
+          glow: 'rgba(168, 85, 247, 0.4)'
+        },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
           return t.includes('çıkmış') || t.includes('cikmis') || t.includes('ekys_') || t.includes('2019') || t.includes('2020') || t.includes('2021') || t.includes('2022') || t.includes('2023') || t.includes('2024') || t.includes('2025') || t.includes('2026');
@@ -4080,6 +4189,16 @@ class EKYSApp {
         subTitle: '80 Soruluk Resmî Format Genel Denemeler',
         icon: '🎯',
         badge: '100 Tam Puan',
+        theme: {
+          color: '#f97316',
+          gradStart: '#fb923c',
+          gradEnd: '#ea580c',
+          bg: 'linear-gradient(145deg, rgba(249, 115, 22, 0.12) 0%, rgba(30, 41, 59, 0.8) 100%)',
+          border: 'rgba(249, 115, 22, 0.4)',
+          badgeBg: 'rgba(249, 115, 22, 0.25)',
+          badgeColor: '#fed7aa',
+          glow: 'rgba(249, 115, 22, 0.4)'
+        },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
           return t.includes('deneme');
