@@ -661,7 +661,7 @@
           <div class="page-header" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 12px;">
             <div>
               <h1 class="page-title">Başarı Analizi & İlerleme 📈</h1>
-              <p class="page-subtitle">Ders bazlı puanlarınız, konu başarı oranlarınız ve sınav geçmişiniz.</p>
+              <p class="page-subtitle">Testler menüsündeki tüm sınav kartlarının soru çözülme yüzdeleri, konu başarı oranları ve detaylı karneniz.</p>
             </div>
             <div style="display: flex; align-items: center; gap: 8px;">
               <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #10b981; box-shadow: 0 0 8px #10b981;"></span>
@@ -671,25 +671,62 @@
             </div>
           </div>
 
+          <!-- Üst Özet Kartları (Günlük Hedef + Toplam Çözülme + Genel Başarı) -->
           <div class="grid-cards" style="margin-bottom: 24px;">
-            <div class="card">
-              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;">📊 Ders & Konu Başarı Oranları</h3>
-              <div id="stats-topic-bars"></div>
-            </div>
-            <div class="card">
-              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;">🎯 EKYS 2027 Hedef Takibi</h3>
-              <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px;">
-                Günlük hedef: <strong>30 Soru</strong>
-              </p>
-              <div style="font-size: 2rem; font-weight: 800; color: #818cf8;" id="stats-daily-count">0 / 30</div>
-              <div class="progress-bar" style="margin-top: 12px;">
+            <!-- 1. Günlük Hedef -->
+            <div class="card" style="border-left: 4px solid #6366f1;">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0;">🎯 Günlük Soru Hedefi</h3>
+                <span class="badge badge-info" style="font-size: 0.75rem;">Bugün</span>
+              </div>
+              <div style="font-size: 1.8rem; font-weight: 800; color: #818cf8; margin-bottom: 6px;" id="stats-daily-count">0 / 30</div>
+              <div class="progress-bar">
                 <div class="progress-fill" id="stats-daily-bar" style="width: 0%;"></div>
+              </div>
+            </div>
+
+            <!-- 2. Toplam Çözülen Soru -->
+            <div class="card" style="border-left: 4px solid #10b981;">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0;">📊 Toplam Çözülen Soru</h3>
+                <span class="badge badge-success" style="font-size: 0.75rem;" id="stats-total-pool-badge">Havuz</span>
+              </div>
+              <div style="font-size: 1.8rem; font-weight: 800; color: #34d399; margin-bottom: 6px;" id="stats-total-solved-count">0 Soru</div>
+              <div class="progress-bar">
+                <div class="progress-fill" id="stats-total-solved-bar" style="width: 0%; background: linear-gradient(90deg, #10b981, #059669);"></div>
+              </div>
+            </div>
+
+            <!-- 3. Genel Başarı Oranı -->
+            <div class="card" style="border-left: 4px solid #f59e0b;">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0;">🏆 Genel Başarı Oranı</h3>
+                <span class="badge badge-warning" style="font-size: 0.75rem;" id="stats-accuracy-badge">Ortalama</span>
+              </div>
+              <div style="font-size: 1.8rem; font-weight: 800; color: #fbbf24; margin-bottom: 6px;" id="stats-overall-accuracy">%0</div>
+              <div class="progress-bar">
+                <div class="progress-fill" id="stats-accuracy-bar" style="width: 0%; background: linear-gradient(90deg, #f59e0b, #d97706);"></div>
               </div>
             </div>
           </div>
 
+          <!-- Sınav & Test Merkezi Kartları Çözülme ve Başarı Durumu (Her Kart İçin Özel) -->
+          <div style="margin-bottom: 24px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; flex-wrap: wrap; gap: 8px;">
+              <h2 style="font-size: 1.2rem; font-weight: 700; margin: 0; display: flex; align-items: center; gap: 8px;">
+                <span>📚</span> Sınav &amp; Test Kartları İlerleme ve Başarı Oranları
+              </h2>
+              <span style="font-size: 0.8rem; color: var(--text-secondary);">Her ders ve test kartındaki soru çözüm yüzdeleriniz</span>
+            </div>
+            
+            <div class="grid-cards" id="stats-cards-grid">
+              <!-- Kartlar app.js renderStatsView tarafından dinamik doldurulur -->
+            </div>
+          </div>
+
+          <!-- Çözülen Tüm Sınavlar Tablosu -->
           <div class="card">
-            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;">🕒 Çözülen Tüm Sınavlar</h3>
+            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;">🕒 Çözülen Tüm Sınavlar &amp; Denemeler</h3>
             <div id="stats-history-table"></div>
           </div>
         </section>

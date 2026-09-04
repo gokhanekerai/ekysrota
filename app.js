@@ -3688,35 +3688,36 @@ class EKYSApp {
     }
   }
 
+  isScoreApplicable(item) {
+    if (!item) return false;
+    if (item.isDeneme || item.isCikmis || item.isScored) return true;
+    const title = ((item.title || item.name || '') + ' ' + (item.topicId || '')).toLowerCase();
+    return title.includes('deneme') || title.includes('çıkmış') || title.includes('cikmis') || title.includes('ekys_') || (item.totalQuestions >= 80);
+  }
+
   renderStatsView() {
     const history = window.storageService.getQuizHistory();
+    const allQuestions = window.storageService.getQuestions();
 
-    // 1. Ders Bazlı Başarı İstatistikleri
-    const courseStats = {};
+    // 1. Genel İstatistikler
     let totalQuestionsAnswered = 0;
     let totalCorrectAnswers = 0;
+    let totalWrongAnswers = 0;
     const todayStr = new Date().toDateString();
     let todaySolved = 0;
 
     history.forEach(h => {
-      const courseName = this.getCourseCategoryName(h);
-      if (!courseStats[courseName]) {
-        courseStats[courseName] = { correct: 0, wrong: 0, total: 0, name: courseName };
-      }
       const qCount = h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0;
-      courseStats[courseName].correct += (h.correctCount || 0);
-      courseStats[courseName].wrong += (h.wrongCount || 0);
-      courseStats[courseName].total += qCount;
-
       totalQuestionsAnswered += qCount;
       totalCorrectAnswers += (h.correctCount || 0);
+      totalWrongAnswers += (h.wrongCount || 0);
 
       if (h.date && new Date(h.date).toDateString() === todayStr) {
         todaySolved += qCount;
       }
     });
 
-    // Günlük Hedef Takibi
+    // 2. Üst Sayaçları Güncelle
     const dailyTarget = 30;
     const dailyPct = Math.min(100, Math.round((todaySolved / dailyTarget) * 100));
     const dailyCountEl = document.getElementById('stats-daily-count');
@@ -3724,34 +3725,176 @@ class EKYSApp {
     if (dailyCountEl) dailyCountEl.textContent = `${todaySolved} / ${dailyTarget} Soru`;
     if (dailyBarEl) dailyBarEl.style.width = `${dailyPct}%`;
 
-    // Ders Başarı Çubukları
-    const barsEl = document.getElementById('stats-topic-bars');
-    if (barsEl) {
-      if (Object.keys(courseStats).length === 0) {
-        barsEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem; padding: 12px 0;">Henüz çözülen test verisi bulunmuyor. Test Merkezinden hemen bir deneme başlatabilirsiniz.</div>';
-      } else {
-        barsEl.innerHTML = Object.values(courseStats).map(s => {
-          const pct = s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0;
-          return `
-            <div style="margin-bottom: 14px;">
-              <div style="display: flex; justify-content: space-between; font-size: 0.86rem; font-weight: 600; margin-bottom: 4px;">
-                <span>${s.name}</span>
-                <span style="color: #818cf8;">%${pct} (${s.correct}/${s.total} Doğru)</span>
+    const totalPoolCount = allQuestions.length || 1200;
+    const totalSolvedPct = totalPoolCount > 0 ? Math.min(100, Math.round((totalQuestionsAnswered / totalPoolCount) * 100)) : 0;
+    const totalSolvedCountEl = document.getElementById('stats-total-solved-count');
+    const totalSolvedBarEl = document.getElementById('stats-total-solved-bar');
+    const totalPoolBadgeEl = document.getElementById('stats-total-pool-badge');
+    if (totalSolvedCountEl) totalSolvedCountEl.textContent = `${totalQuestionsAnswered} / ${totalPoolCount} Soru`;
+    if (totalSolvedBarEl) totalSolvedBarEl.style.width = `${totalSolvedPct}%`;
+    if (totalPoolBadgeEl) totalPoolBadgeEl.textContent = `%${totalSolvedPct} Tamamlandı`;
+
+    const overallAccuracy = totalQuestionsAnswered > 0 ? Math.round((totalCorrectAnswers / totalQuestionsAnswered) * 100) : 0;
+    const overallAccEl = document.getElementById('stats-overall-accuracy');
+    const accBarEl = document.getElementById('stats-accuracy-bar');
+    const accBadgeEl = document.getElementById('stats-accuracy-badge');
+    if (overallAccEl) overallAccEl.textContent = `%${overallAccuracy}`;
+    if (accBarEl) accBarEl.style.width = `${overallAccuracy}%`;
+    if (accBadgeEl) accBadgeEl.textContent = `${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
+
+    // 3. Testler Menüsündeki Tüm Sınav Kartlarının Tanımları
+    const testHubCards = [
+      {
+        id: 'genel-kultur',
+        title: 'Genel Kültür',
+        subTitle: 'Coğrafya, Yurttaşlık & Güncel Bilgiler',
+        icon: '🌍',
+        badge: '%20 (16 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('cogr') || t.includes('coğrafya') || t.includes('yurttas') || t.includes('yurttaş') || t.includes('guncel') || t.includes('güncel') || t.includes('genel kültür') || t.includes('genel kultur');
+        }
+      },
+      {
+        id: 'inkilap',
+        title: 'Tarih, İnkılâp Tarihi & Atatürkçülük',
+        subTitle: 'İlk Türk Dev., Selçuklu, Osmanlı, İnkılap',
+        icon: '⚔️',
+        badge: '%20 (16 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('tarih') || t.includes('inkılap') || t.includes('inkilap') || t.includes('atatürk') || t.includes('ataturk') || t.includes('nutuk') || t.includes('amasya') || t.includes('erzurum') || t.includes('sivas') || t.includes('lozan');
+        }
+      },
+      {
+        id: 'egitim',
+        title: 'Eğitim Bilimleri & Yönetimi',
+        subTitle: 'Yönetim, Liderlik, Denetim, Değerler, Etik',
+        icon: '🎓',
+        badge: '%15 (12 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('egitim') || t.includes('eğitim') || t.includes('yönetim') || t.includes('yonetim') || t.includes('denetim') || t.includes('liderlik') || t.includes('değerler') || t.includes('degerler') || t.includes('etik') || t.includes('ölçme') || t.includes('olcme');
+        }
+      },
+      {
+        id: 'maarif',
+        title: 'Türkiye Yüzyılı Maarif Modeli',
+        subTitle: 'Ortak Metin, Beceriler, Erdem-Değer-Eylem',
+        icon: '🌟',
+        badge: '%30 (24 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('maarif');
+        }
+      },
+      {
+        id: 'mevzuat',
+        title: 'Mevzuat',
+        subTitle: '1982 Anayasası, 657, 1739, 222, 5018...',
+        icon: '⚖️',
+        badge: '%20 (16 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('mevzuat') || t.includes('kanun') || t.includes('anayasa') || t.includes('cbk') || t.includes('657') || t.includes('1739') || t.includes('222') || t.includes('5018') || t.includes('4483') || t.includes('4688') || t.includes('5442') || t.includes('3071');
+        }
+      },
+      {
+        id: 'cikmis',
+        title: 'Çıkmış Sınav Soruları',
+        subTitle: '2019 – 2026 Resmî MEB EKYS Arşivi',
+        icon: '📜',
+        badge: '8 Yıllık Arşiv',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('çıkmış') || t.includes('cikmis') || t.includes('ekys_') || t.includes('2019') || t.includes('2020') || t.includes('2021') || t.includes('2022') || t.includes('2023') || t.includes('2024') || t.includes('2025') || t.includes('2026');
+        }
+      },
+      {
+        id: 'denemeler',
+        title: 'EKYS Deneme Testleri',
+        subTitle: '80 Soruluk Resmî Format Genel Denemeler',
+        icon: '🎯',
+        badge: '100 Tam Puan',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('deneme');
+        }
+      }
+    ];
+
+    // 4. Her Test Hub Kartı İçin İstatistik Hesapla & HTML Üret
+    const cardsGridEl = document.getElementById('stats-cards-grid');
+    if (cardsGridEl) {
+      cardsGridEl.innerHTML = testHubCards.map(card => {
+        // Bu karta ait soru havuzu sayısı
+        const poolQuestions = allQuestions.filter(q => card.match(q));
+        const totalPool = poolQuestions.length > 0 ? poolQuestions.length : (card.id === 'cikmis' ? 640 : card.id === 'denemeler' ? 160 : 100);
+
+        // Bu karta ait çözülen testler
+        const matchingHistory = history.filter(h => card.match(h));
+        let solvedCount = 0;
+        let correctCount = 0;
+        let wrongCount = 0;
+
+        matchingHistory.forEach(h => {
+          const qCount = h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0;
+          solvedCount += qCount;
+          correctCount += (h.correctCount || 0);
+          wrongCount += (h.wrongCount || 0);
+        });
+
+        const solveRate = totalPool > 0 ? Math.min(100, Math.round((solvedCount / totalPool) * 100)) : 0;
+        const accuracyRate = solvedCount > 0 ? Math.round((correctCount / solvedCount) * 100) : 0;
+
+        return `
+          <div class="card" style="border: 1px solid rgba(255,255,255,0.08); background: rgba(30, 41, 59, 0.6); display: flex; flex-direction: column; justify-content: space-between;">
+            <div>
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">${card.icon}</div>
+                <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; font-size: 0.72rem; font-weight: 700;">${card.badge}</span>
               </div>
-              <div class="progress-bar">
-                <div class="progress-fill" style="width: ${pct}%;"></div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 4px;">${card.title}</h3>
+              <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 14px;">${card.subTitle}</p>
+
+              <!-- Çözülme / İlerleme Yüzdesi -->
+              <div style="margin-bottom: 12px; background: rgba(0,0,0,0.2); padding: 10px; border-radius: 8px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.82rem; font-weight: 700; margin-bottom: 5px;">
+                  <span style="color: #cbd5e1;">📌 Soru Çözülme Oranı:</span>
+                  <span style="color: #818cf8;">%${solveRate} (${solvedCount}/${totalPool} Soru)</span>
+                </div>
+                <div class="progress-bar" style="height: 7px;">
+                  <div class="progress-fill" style="width: ${solveRate}%; background: linear-gradient(90deg, #6366f1, #8b5cf6);"></div>
+                </div>
+              </div>
+
+              <!-- Başarı / Doğruluk Oranı -->
+              <div style="margin-bottom: 14px; background: rgba(0,0,0,0.2); padding: 10px; border-radius: 8px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.82rem; font-weight: 700; margin-bottom: 5px;">
+                  <span style="color: #cbd5e1;">🎯 Konu Başarı Oranı:</span>
+                  <span style="color: ${accuracyRate >= 70 ? '#34d399' : accuracyRate >= 50 ? '#fbbf24' : '#f87171'};">
+                    ${solvedCount > 0 ? `%${accuracyRate} (${correctCount}D / ${wrongCount}Y)` : 'Henüz Çözülmedi'}
+                  </span>
+                </div>
+                <div class="progress-bar" style="height: 7px;">
+                  <div class="progress-fill" style="width: ${accuracyRate}%; background: ${accuracyRate >= 70 ? 'linear-gradient(90deg, #10b981, #059669)' : accuracyRate >= 50 ? 'linear-gradient(90deg, #f59e0b, #d97706)' : 'linear-gradient(90deg, #ef4444, #dc2626)'};"></div>
+                </div>
               </div>
             </div>
-          `;
-        }).join('');
-      }
+
+            <button class="btn btn-secondary btn-block btn-sm" onclick="app.openSubTopicModal('${card.id}')" style="margin-top: 6px; font-weight: 700; font-size: 0.8rem;">
+              <span>📝</span> Bu Dersin Testlerini Çöz
+            </button>
+          </div>
+        `;
+      }).join('');
     }
 
-    // Geçmiş tablosu
+    // 5. Çözülen Tüm Sınavlar Geçmiş Tablosu
     const tableEl = document.getElementById('stats-history-table');
     if (tableEl) {
       if (history.length === 0) {
-        tableEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem; padding: 20px 0; text-align: center;">Henüz kayıtlı sınav geçmişiniz yok.</div>';
+        tableEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem; padding: 24px 0; text-align: center;">Henüz kayıtlı sınav geçmişiniz yok. Test Merkezinden hemen bir teste başlayabilirsiniz!</div>';
       } else {
         tableEl.innerHTML = `
           <table class="admin-table">
