@@ -223,17 +223,24 @@ class EKYSApp {
       } else {
         recentEl.innerHTML = `
           <div class="grid-cards">
-            ${history.slice(0, 3).map(h => `
+            ${history.slice(0, 3).map(h => {
+              const isDeneme = h.isDeneme || (h.title && h.title.toLowerCase().includes('deneme')) || h.totalQuestions >= 80;
+              const pct = h.totalQuestions > 0 ? Math.round((h.correctCount / h.totalQuestions) * 100) : 0;
+              return `
               <div class="card">
                 <div style="font-weight: 700; font-size: 1rem; margin-bottom: 6px;">${h.title}</div>
                 <div style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 12px;">${new Date(h.date).toLocaleDateString('tr-TR')}</div>
-                <div style="display: flex; gap: 8px; font-size: 0.85rem;">
+                <div style="display: flex; gap: 8px; font-size: 0.85rem; flex-wrap: wrap;">
                   <span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #34d399;">✅ ${h.correctCount} D</span>
                   <span class="badge" style="background: rgba(239, 68, 68, 0.2); color: #f87171;">❌ ${h.wrongCount} Y</span>
-                  <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc;">🎯 ${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan</span>
+                  ${isDeneme ? `
+                    <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc;">🎯 ${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan</span>
+                  ` : `
+                    <span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fbbf24;">📊 %${pct} Başarı</span>
+                  `}
                 </div>
               </div>
-            `).join('')}
+            `;}).join('')}
           </div>
         `;
       }
@@ -2546,9 +2553,12 @@ class EKYSApp {
       return;
     }
 
+    const isDeneme = title.toLowerCase().includes('deneme') || questions.length >= 80;
+
     this.activeQuiz = {
       title: title,
       filterKey: filterKey,
+      isDeneme: isDeneme,
       mode: mode,
       questions: mode === 'exam' ? [...questions] : this.shuffleArray([...questions]),
       currentIndex: 0,
@@ -2795,6 +2805,7 @@ class EKYSApp {
     this.activeQuiz = {
       title: `🏆 EKYS Genel Deneme Sınavı (${selected.length} Soru)`,
       topicId: 'all-mock',
+      isDeneme: true,
       mode: 'exam',
       questions: selected,
       currentIndex: 0,
@@ -3180,6 +3191,15 @@ class EKYSApp {
     const calculatedScore = total > 0 ? ((correct / total) * 100) : 0;
     const percent = total > 0 ? Math.round((correct / total) * 100) : 0;
 
+    const titleLower = (this.activeQuiz.title || '').toLowerCase();
+    const isDeneme = !!(
+      this.activeQuiz.isDeneme ||
+      this.activeQuiz.topicId === 'all-mock' ||
+      titleLower.includes('deneme') ||
+      (titleLower.includes('çıkmış') && total >= 40) ||
+      total >= 80
+    );
+
     // Kaydet
     window.storageService.saveQuizResult({
       title: this.activeQuiz.title,
@@ -3190,13 +3210,15 @@ class EKYSApp {
       score: calculatedScore,
       netScore: calculatedScore,
       durationSeconds: this.activeQuiz.elapsedSeconds,
-      topicId: this.activeQuiz.topicId
+      topicId: this.activeQuiz.topicId,
+      isDeneme: isDeneme
     });
 
     // Sonuç Ekranını Doldur
     const elCorrect = document.getElementById('res-correct');
     const elWrong = document.getElementById('res-wrong');
     const elEmpty = document.getElementById('res-empty');
+    const elScoreBox = document.getElementById('res-score-box');
     const elNet = document.getElementById('res-net');
     const elPercent = document.getElementById('res-percent');
     const elWrongBtn = document.getElementById('btn-result-wrong-pool');
@@ -3206,6 +3228,11 @@ class EKYSApp {
     if (elEmpty) elEmpty.textContent = empty;
     if (elNet) elNet.textContent = calculatedScore.toFixed(2);
     if (elPercent) elPercent.textContent = `%${percent}`;
+
+    // Puan kutusunu sadece Deneme Sınavlarında göster
+    if (elScoreBox) {
+      elScoreBox.style.display = isDeneme ? 'block' : 'none';
+    }
 
     if (elWrongBtn) {
       elWrongBtn.style.display = wrong > 0 ? 'inline-flex' : 'none';
@@ -3536,19 +3563,26 @@ class EKYSApp {
                 <th>Tarih</th>
                 <th>Doğru</th>
                 <th>Yanlış</th>
-                <th>Puan (100)</th>
+                <th>Sonuç</th>
               </tr>
             </thead>
             <tbody>
-              ${history.slice(0, 10).map(h => `
+              ${history.slice(0, 10).map(h => {
+                const isDeneme = h.isDeneme || (h.title && h.title.toLowerCase().includes('deneme')) || h.totalQuestions >= 80;
+                const pct = h.totalQuestions > 0 ? Math.round((h.correctCount / h.totalQuestions) * 100) : 0;
+                return `
                 <tr>
                   <td><strong>${h.title}</strong></td>
                   <td>${new Date(h.date).toLocaleDateString('tr-TR')}</td>
                   <td style="color: #34d399; font-weight: 700;">${h.correctCount}</td>
                   <td style="color: #f87171; font-weight: 700;">${h.wrongCount}</td>
-                  <td style="color: #818cf8; font-weight: 800;">${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)}</td>
+                  ${isDeneme ? `
+                    <td style="color: #818cf8; font-weight: 800;">${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan</td>
+                  ` : `
+                    <td style="color: #fbbf24; font-weight: 700;">%${pct} Başarı</td>
+                  `}
                 </tr>
-              `).join('')}
+              `;}).join('')}
             </tbody>
           </table>
         `;
