@@ -2563,9 +2563,11 @@ class EKYSApp {
         const qCount = questions.length;
 
         // Bu alt konuya / teste ait çözülen geçmiş
+        const cleanItemName = (item.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
         const itemHistory = history.filter(h => {
-          if (h.topicId && (h.topicId === item.filterKey || h.topicId.startsWith(item.filterKey))) return true;
-          if (h.title && (h.title.toLowerCase().includes(item.name.toLowerCase()) || item.name.toLowerCase().includes(h.title.toLowerCase()))) return true;
+          if (h.topicId && (h.topicId === item.filterKey || h.topicId === item.id || h.topicId.startsWith(item.filterKey))) return true;
+          const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
+          if (hTitle && cleanItemName && (hTitle.includes(cleanItemName) || cleanItemName.includes(hTitle))) return true;
           return false;
         });
 
@@ -2583,19 +2585,19 @@ class EKYSApp {
 
         const itemAccuracy = itemSolved > 0 ? Math.round((itemCorrect / itemSolved) * 100) : 0;
 
-        // Eğer bu bir alt kategori kartı ise (örneğin Tarih Testleri -> tarih-subtopics)
+        // Eğer bu bir alt kategori kartı ise (örneğin Coğrafya Testleri, Tarih Testleri vb.)
         if (item.targetSubtopic) {
           const subTests = this.getAllTestItemsForCategory(item.targetSubtopic);
           const subTotalTests = subTests.length;
           let subSolvedCount = 0;
           subTests.forEach(st => {
-            const name = (st.name || '').toLowerCase().trim();
+            const stName = (st.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
             const filterKey = (st.filterKey || '').toLowerCase().trim();
             const isSolved = history.some(h => {
-              const hTitle = (h.title || '').toLowerCase().trim();
+              const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
               const hTopic = (h.topicId || '').toLowerCase().trim();
               return (hTopic && (hTopic === filterKey || hTopic.startsWith(filterKey))) ||
-                     (hTitle && (hTitle.includes(name) || name.includes(hTitle)));
+                     (hTitle && stName && (hTitle.includes(stName) || stName.includes(hTitle)));
             });
             if (isSolved) subSolvedCount++;
           });
@@ -2616,31 +2618,18 @@ class EKYSApp {
                   </div>
                 </div>
                 <h3 style="font-size: 1.08rem; font-weight: 700; margin-bottom: 6px; color: #ffffff;">${item.name}</h3>
-                <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.4; margin-bottom: 12px;">
+                <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.4; margin-bottom: 14px;">
                   ${item.desc}
                 </p>
 
-                <!-- Test Çözülme Oranı -->
-                <div style="margin-bottom: 10px; background: rgba(0,0,0,0.25); padding: 8px 10px; border-radius: 8px;">
-                  <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 700; margin-bottom: 4px;">
+                <!-- Sadece Test Çözülme Oranı (Üst Kart) -->
+                <div style="margin-bottom: 14px; background: rgba(0,0,0,0.25); padding: 10px 12px; border-radius: 8px;">
+                  <div style="display: flex; justify-content: space-between; font-size: 0.8rem; font-weight: 700; margin-bottom: 5px;">
                     <span style="color: #cbd5e1;">📋 Test Çözülme Oranı:</span>
                     <span style="color: #38bdf8;">%${subTestRate} (${subSolvedCount}/${subTotalTests} Test)</span>
                   </div>
-                  <div class="progress-bar" style="height: 5px;">
+                  <div class="progress-bar" style="height: 6px;">
                     <div class="progress-fill" style="width: ${subTestRate}%; background: linear-gradient(90deg, #0ea5e9, #38bdf8);"></div>
-                  </div>
-                </div>
-
-                <!-- Konu Başarı Oranı -->
-                <div style="margin-bottom: 14px; background: rgba(0,0,0,0.25); padding: 8px 10px; border-radius: 8px;">
-                  <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 700; margin-bottom: 4px;">
-                    <span style="color: #cbd5e1;">🎯 Başarı Oranı:</span>
-                    <span style="color: ${itemSolved > 0 ? (itemAccuracy >= 70 ? '#34d399' : itemAccuracy >= 50 ? '#fbbf24' : '#f87171') : '#94a3b8'};">
-                      ${itemSolved > 0 ? `%${itemAccuracy} (${itemCorrect}D / ${itemWrong}Y)` : 'Henüz Çözülmedi'}
-                    </span>
-                  </div>
-                  <div class="progress-bar" style="height: 5px;">
-                    <div class="progress-fill" style="width: ${itemAccuracy}%; background: ${itemAccuracy >= 70 ? 'linear-gradient(90deg, #10b981, #059669)' : itemAccuracy >= 50 ? 'linear-gradient(90deg, #f59e0b, #d97706)' : 'linear-gradient(90deg, #ef4444, #dc2626)'};"></div>
                   </div>
                 </div>
               </div>
@@ -2656,7 +2645,7 @@ class EKYSApp {
           `;
         }
 
-        // Normal tekil test kartı
+        // Bireysel / Tekil Çözülen Test Kartı (Başarı Oranı burada görünür)
         return `
           <div class="card" style="border: 1px solid var(--border-active); background: rgba(30, 41, 59, 0.85); display: flex; flex-direction: column; justify-content: space-between;">
             <div>
@@ -2676,15 +2665,15 @@ class EKYSApp {
                 ${item.desc}
               </p>
 
-              <!-- Konu Başarı Oranı -->
-              <div style="margin-bottom: 14px; background: rgba(0,0,0,0.25); padding: 8px 10px; border-radius: 8px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 700; margin-bottom: 4px;">
-                  <span style="color: #cbd5e1;">🎯 Başarı Oranı:</span>
+              <!-- Çözülen Testin Başarı Oranı -->
+              <div style="margin-bottom: 14px; background: rgba(0,0,0,0.25); padding: 10px 12px; border-radius: 8px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.8rem; font-weight: 700; margin-bottom: 5px;">
+                  <span style="color: #cbd5e1;">🎯 Test Başarı Oranı:</span>
                   <span style="color: ${itemSolved > 0 ? (itemAccuracy >= 70 ? '#34d399' : itemAccuracy >= 50 ? '#fbbf24' : '#f87171') : '#94a3b8'};">
                     ${itemSolved > 0 ? `%${itemAccuracy} (${itemCorrect}D / ${itemWrong}Y)` : 'Henüz Çözülmedi'}
                   </span>
                 </div>
-                <div class="progress-bar" style="height: 5px;">
+                <div class="progress-bar" style="height: 6px;">
                   <div class="progress-fill" style="width: ${itemAccuracy}%; background: ${itemAccuracy >= 70 ? 'linear-gradient(90deg, #10b981, #059669)' : itemAccuracy >= 50 ? 'linear-gradient(90deg, #f59e0b, #d97706)' : 'linear-gradient(90deg, #ef4444, #dc2626)'};"></div>
                 </div>
               </div>
