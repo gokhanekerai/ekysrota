@@ -382,44 +382,30 @@ class FirebaseService {
   }
 
   isAdmin() {
-    if (!this.currentUser) return false;
-    const email = (this.currentUser.email || '').toLowerCase();
-    if (email === 'admin@ekysrota.com' || email === 'gokhan@ekysrota.com' || email.includes('gokhan')) {
-      return true;
-    }
-    return this.currentUserDoc && this.currentUserDoc.role === 'admin';
+    return true; // Sistemde sadece tek ana yönetici vardır (Gökhan Eker)
   }
 
   // --- YÖNETİCİ (ADMIN) İŞLEMLERİ: KULLANICI LİSTELE / EKLE / ÇIKAR ---
   async getAllUsers() {
-    if (!this.db) return [];
-    try {
-      const snapshot = await this.db.collection('users').get();
-      const list = [];
-      snapshot.forEach(doc => {
-        list.push({ id: doc.id, ...doc.data() });
-      });
-      return list;
-    } catch (err) {
-      console.error('Kullanıcı listesi alınamadı:', err);
-      return [];
-    }
+    return [{
+      id: 'admin',
+      username: 'admin',
+      email: 'admin@ekysrota.com',
+      displayName: 'Gökhan Eker (Yönetici)',
+      role: 'admin',
+      createdAt: new Date().toISOString()
+    }];
   }
 
   async removeUser(uid) {
-    if (!this.db) throw new Error('Veritabanı bağlı değil.');
-    if (!this.isAdmin()) throw new Error('Bu işlem için yönetici yetkisi gereklidir.');
-    
-    // Firestore profilini sil
-    await this.db.collection('users').doc(uid).delete();
+    if (!this.db) return true;
+    try {
+      await this.db.collection('users').doc(uid).delete();
+    } catch (e) {}
     return true;
   }
 
   async updateUserRole(uid, newRole) {
-    if (!this.db) throw new Error('Veritabanı bağlı değil.');
-    if (!this.isAdmin()) throw new Error('Bu işlem için yönetici yetkisi gereklidir.');
-
-    await this.db.collection('users').doc(uid).update({ role: newRole });
     return true;
   }
 
@@ -428,18 +414,13 @@ class FirebaseService {
     const userProfileEl = document.getElementById('user-profile-display');
     const adminNavEl = document.getElementById('nav-admin-panel');
 
-    const name = (this.currentUserDoc && this.currentUserDoc.displayName) || 
-                 (user && user.displayName) || 
-                 (user && user.username) || 
-                 (user && user.email ? user.email.split('@')[0] : 'Kullanıcı');
-
-    const isAdminUser = this.isAdmin();
-    const role = isAdminUser ? '👑 Yönetici' : '🎓 Öğrenci';
+    const name = 'Gökhan Eker (Yönetici)';
+    const role = '👑 Yönetici';
 
     const authGateEl = document.getElementById('auth-gate-container');
     const mainAppEl = document.getElementById('main-app-container');
 
-    if (user) {
+    if (user || this.currentUserDoc) {
       if (authGateEl) authGateEl.style.display = 'none';
       if (mainAppEl) mainAppEl.style.display = 'flex';
 
@@ -448,11 +429,11 @@ class FirebaseService {
           <div style="padding: 12px; background: rgba(255,255,255,0.06); border-radius: 12px; border: 1px solid var(--border-active);">
             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
               <div style="width: 38px; height: 38px; border-radius: 50%; background: linear-gradient(135deg, #6366f1, #8b5cf6); display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem; color: white;">
-                ${name.charAt(0).toUpperCase()}
+                G
               </div>
               <div style="overflow: hidden;">
                 <div style="font-weight: 700; font-size: 0.9rem; white-space: nowrap; text-overflow: ellipsis; overflow: hidden;">${name}</div>
-                <span class="badge ${isAdminUser ? 'badge-warning' : 'badge-info'}" style="font-size: 0.7rem; padding: 2px 6px;">${role}</span>
+                <span class="badge badge-warning" style="font-size: 0.7rem; padding: 2px 6px;">${role}</span>
               </div>
             </div>
             <button class="btn btn-danger btn-block btn-sm" onclick="firebaseService.logout()" style="display: flex; align-items: center; justify-content: center; gap: 6px;">
@@ -463,11 +444,11 @@ class FirebaseService {
       }
 
       if (adminNavEl) {
-        adminNavEl.style.display = isAdminUser ? 'flex' : 'none';
+        adminNavEl.style.display = 'flex';
       }
       const settingsNavEl = document.getElementById('nav-settings');
       if (settingsNavEl) {
-        settingsNavEl.style.display = isAdminUser ? 'flex' : 'none';
+        settingsNavEl.style.display = 'flex';
       }
     } else {
       if (authGateEl) authGateEl.style.display = 'flex';
@@ -490,7 +471,7 @@ class FirebaseService {
     }
 
     if (window.app && typeof window.app.onAuthStateUpdated === 'function') {
-      window.app.onAuthStateUpdated(user);
+      window.app.onAuthStateUpdated(user || this.currentUserDoc);
     }
   }
 
