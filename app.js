@@ -3243,6 +3243,17 @@ class EKYSApp {
   }
 
   exitQuiz() {
+    if (!this.activeQuiz) {
+      this.navigateTo('test-hub');
+      return;
+    }
+    const answeredCount = Object.keys(this.activeQuiz.userAnswers || {}).length;
+    if (answeredCount > 0 && !this.activeQuiz.isFinished) {
+      if (confirm(`Şu ana kadar ${answeredCount} soru çözdünüz. Sınavı tamamlayıp sonuçlarınızı kaydetmek istiyor musunuz?`)) {
+        this.finishQuiz();
+        return;
+      }
+    }
     if (confirm('Sınavdan çıkmak istediğinize emin misiniz?')) {
       this.stopQuizTimer();
       this.activeQuiz = null;

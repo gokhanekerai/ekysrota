@@ -1,5 +1,5 @@
 // EKYSrota Service Worker (Network First Strategy - Canlı Otomatik Güncelleme)
-const CACHE_NAME = 'ekysrota-v54.2';
+const CACHE_NAME = 'ekysrota-v55.0';
 
 self.addEventListener('install', (e) => {
   self.skipWaiting();
