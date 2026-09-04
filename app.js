@@ -4075,6 +4075,240 @@ class EKYSApp {
         `;
       }
     }
+
+    // 6. Grafikleri Çiz (Çubuk, Pasta, Çizgi)
+    try {
+      this.renderStatsCharts(history, allQuestions, dailyTarget, testHubCards);
+    } catch (err) {
+      console.warn('Grafik oluşturma hatası:', err);
+    }
+  }
+
+  renderStatsCharts(history, allQuestions, dailyTarget, testHubCards) {
+    if (typeof Chart === 'undefined') return;
+
+    // --- 1. ÇUBUK GRAFİK (BAR CHART): Son 7 Günlük Çözülen Soru vs Günlük Hedef ---
+    const dailyCanvas = document.getElementById('chart-daily-target');
+    if (dailyCanvas) {
+      if (this.dailyChartInstance) {
+        this.dailyChartInstance.destroy();
+      }
+
+      const dayLabels = [];
+      const dayData = [];
+      const targetData = [];
+
+      for (let i = 6; i >= 0; i--) {
+        const d = new Date();
+        d.setDate(d.getDate() - i);
+        const dateStr = d.toDateString();
+        const label = i === 0 ? 'Bugün' : d.toLocaleDateString('tr-TR', { weekday: 'short', day: 'numeric', month: 'short' });
+        
+        let count = 0;
+        history.forEach(h => {
+          if (h.date && new Date(h.date).toDateString() === dateStr) {
+            count += (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
+          }
+        });
+
+        dayLabels.push(label);
+        dayData.push(count);
+        targetData.push(dailyTarget);
+      }
+
+      const ctx = dailyCanvas.getContext('2d');
+      this.dailyChartInstance = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: dayLabels,
+          datasets: [
+            {
+              label: 'Çözülen Soru',
+              data: dayData,
+              backgroundColor: dayData.map(v => v >= dailyTarget ? 'rgba(16, 185, 129, 0.85)' : 'rgba(99, 102, 241, 0.85)'),
+              borderRadius: 6,
+              borderSkipped: false,
+              barPercentage: 0.6
+            },
+            {
+              label: 'Günlük Hedef',
+              data: targetData,
+              type: 'line',
+              borderColor: '#f59e0b',
+              borderDash: [5, 5],
+              borderWidth: 2,
+              pointRadius: 0,
+              fill: false
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: {
+              display: true,
+              labels: { color: '#94a3b8', font: { size: 11 } }
+            },
+            tooltip: {
+              backgroundColor: '#1e293b',
+              titleColor: '#ffffff',
+              bodyColor: '#cbd5e1',
+              borderColor: 'rgba(255,255,255,0.1)',
+              borderWidth: 1
+            }
+          },
+          scales: {
+            x: {
+              grid: { display: false },
+              ticks: { color: '#94a3b8', font: { size: 10 } }
+            },
+            y: {
+              beginAtZero: true,
+              grid: { color: 'rgba(255, 255, 255, 0.06)' },
+              ticks: { color: '#94a3b8', font: { size: 10 }, precision: 0 }
+            }
+          }
+        }
+      });
+    }
+
+    // --- 2. PASTA/DONUT GRAFİK: Ders Bazlı Toplam Soru Dağılımı ---
+    const distCanvas = document.getElementById('chart-total-distribution');
+    if (distCanvas) {
+      if (this.distChartInstance) {
+        this.distChartInstance.destroy();
+      }
+
+      const categoryLabels = [];
+      const categoryData = [];
+      const categoryColors = ['#38bdf8', '#818cf8', '#34d399', '#f472b6', '#fbbf24', '#a855f7', '#fb923c'];
+
+      testHubCards.forEach((card) => {
+        const matchingHistory = history.filter(h => card.match(h));
+        let count = 0;
+        matchingHistory.forEach(h => {
+          count += (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
+        });
+        categoryLabels.push(card.title.split(',')[0].split('&')[0].trim());
+        categoryData.push(count);
+      });
+
+      const totalSolvedCategory = categoryData.reduce((a, b) => a + b, 0);
+
+      const ctx2 = distCanvas.getContext('2d');
+      this.distChartInstance = new Chart(ctx2, {
+        type: 'doughnut',
+        data: {
+          labels: totalSolvedCategory > 0 ? categoryLabels : ['Henüz Çözülmedi'],
+          datasets: [{
+            data: totalSolvedCategory > 0 ? categoryData : [1],
+            backgroundColor: totalSolvedCategory > 0 ? categoryColors : ['rgba(255,255,255,0.1)'],
+            borderColor: '#1e293b',
+            borderWidth: 2,
+            hoverOffset: 6
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          cutout: '68%',
+          plugins: {
+            legend: {
+              position: 'right',
+              labels: { color: '#cbd5e1', font: { size: 10 }, boxWidth: 12, padding: 8 }
+            },
+            tooltip: {
+              backgroundColor: '#1e293b',
+              titleColor: '#ffffff',
+              bodyColor: '#cbd5e1',
+              callbacks: {
+                label: (context) => {
+                  if (totalSolvedCategory === 0) return ' Henüz soru çözülmedi';
+                  const val = context.raw || 0;
+                  const pct = totalSolvedCategory > 0 ? Math.round((val / totalSolvedCategory) * 100) : 0;
+                  return ` ${context.label}: ${val} Soru (%${pct})`;
+                }
+              }
+            }
+          }
+        }
+      });
+    }
+
+    // --- 3. ÇİZGİ GRAFİK (LINE CHART): Çözülen Testlerin Başarı Oranı Gelişim Trendi ---
+    const accCanvas = document.getElementById('chart-accuracy-trend');
+    if (accCanvas) {
+      if (this.accChartInstance) {
+        this.accChartInstance.destroy();
+      }
+
+      // Son çözülen en fazla 12 test (kronolojik sıra)
+      const recentTests = history.slice(0, 12).reverse();
+      const testLabels = recentTests.map((h, i) => {
+        const shortTitle = h.title.length > 14 ? h.title.substring(0, 14) + '...' : h.title;
+        return `${i + 1}. ${shortTitle}`;
+      });
+
+      const testAccuracyData = recentTests.map(h => {
+        const total = h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0;
+        return total > 0 ? Math.round((h.correctCount / total) * 100) : 0;
+      });
+
+      const ctx3 = accCanvas.getContext('2d');
+      this.accChartInstance = new Chart(ctx3, {
+        type: 'line',
+        data: {
+          labels: testLabels.length > 0 ? testLabels : ['Test 1', 'Test 2', 'Test 3'],
+          datasets: [{
+            label: 'Başarı Oranı (%)',
+            data: testAccuracyData.length > 0 ? testAccuracyData : [0, 0, 0],
+            borderColor: '#fbbf24',
+            backgroundColor: 'rgba(251, 191, 36, 0.12)',
+            borderWidth: 3,
+            fill: true,
+            tension: 0.35,
+            pointBackgroundColor: '#fbbf24',
+            pointBorderColor: '#ffffff',
+            pointRadius: 4,
+            pointHoverRadius: 6
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: {
+              display: false
+            },
+            tooltip: {
+              backgroundColor: '#1e293b',
+              titleColor: '#ffffff',
+              bodyColor: '#cbd5e1',
+              callbacks: {
+                label: (context) => ` Başarı: %${context.raw}`
+              }
+            }
+          },
+          scales: {
+            x: {
+              grid: { display: false },
+              ticks: { color: '#94a3b8', font: { size: 9 }, maxRotation: 45, minRotation: 0 }
+            },
+            y: {
+              min: 0,
+              max: 100,
+              grid: { color: 'rgba(255, 255, 255, 0.06)' },
+              ticks: {
+                color: '#94a3b8',
+                font: { size: 10 },
+                callback: (val) => `%${val}`
+              }
+            }
+          }
+        }
+      });
+    }
   }
 
   openEditQuizModal(id) {

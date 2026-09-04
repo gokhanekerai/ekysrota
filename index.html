@@ -28,6 +28,9 @@
   <!-- PDF.js CDN -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
   
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
   <!-- Firebase SDKs (Compat) -->
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js"></script>
@@ -710,6 +713,48 @@
             </div>
           </div>
 
+          <!-- 3 GRAFİK KARTI (ÇUBUK - PASTA - ÇİZGİ) -->
+          <div class="grid-cards" style="margin-bottom: 24px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px;">
+            <!-- 1. Günlük Soru Hedefi: Çubuk Grafik (Bar Chart) -->
+            <div class="card" style="border: 1px solid rgba(99, 102, 241, 0.25); background: rgba(30, 41, 59, 0.7); display: flex; flex-direction: column; justify-content: space-between;">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0; display: flex; align-items: center; gap: 6px;">
+                  <span>📊</span> Günlük Soru Çözüm Grafiği
+                </h3>
+                <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; font-size: 0.72rem; font-weight: 700;">Çubuk Grafik (7 Gün)</span>
+              </div>
+              <div style="position: relative; width: 100%; height: 230px;">
+                <canvas id="chart-daily-target"></canvas>
+              </div>
+            </div>
+
+            <!-- 2. Toplam Çözülen Soru: Pasta/Donut Grafik (Pie/Doughnut Chart) -->
+            <div class="card" style="border: 1px solid rgba(16, 185, 129, 0.25); background: rgba(30, 41, 59, 0.7); display: flex; flex-direction: column; justify-content: space-between;">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0; display: flex; align-items: center; gap: 6px;">
+                  <span>🍩</span> Ders Bazlı Soru Dağılımı
+                </h3>
+                <span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #34d399; font-size: 0.72rem; font-weight: 700;">Pasta Grafik</span>
+              </div>
+              <div style="position: relative; width: 100%; height: 230px; display: flex; justify-content: center; align-items: center;">
+                <canvas id="chart-total-distribution"></canvas>
+              </div>
+            </div>
+
+            <!-- 3. Genel Başarı Oranı: Çizgi Grafik (Line Chart) -->
+            <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.25); background: rgba(30, 41, 59, 0.7); display: flex; flex-direction: column; justify-content: space-between;">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0; display: flex; align-items: center; gap: 6px;">
+                  <span>📈</span> Başarı Oranı Gelişim Grafiği
+                </h3>
+                <span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fbbf24; font-size: 0.72rem; font-weight: 700;">Çizgi Trend</span>
+              </div>
+              <div style="position: relative; width: 100%; height: 230px;">
+                <canvas id="chart-accuracy-trend"></canvas>
+              </div>
+            </div>
+          </div>
+
           <!-- Sınav & Test Merkezi Kartları Çözülme ve Başarı Durumu (Her Kart İçin Özel) -->
           <div style="margin-bottom: 24px;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; flex-wrap: wrap; gap: 8px;">
@@ -1016,13 +1061,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=69.0"></script>
-  <script src="data/questions-db.js?v=69.0"></script>
-  <script src="services/storage-service.js?v=69.0"></script>
-  <script src="services/firebase-service.js?v=69.0"></script>
-  <script src="services/pdf-service.js?v=69.0"></script>
-  <script src="services/youtube-service.js?v=69.0"></script>
-  <script src="services/question-generator.js?v=69.0"></script>
-  <script src="app.js?v=69.0"></script>
+  <script src="data/ekys-sample-questions.js?v=70.0"></script>
+  <script src="data/questions-db.js?v=70.0"></script>
+  <script src="services/storage-service.js?v=70.0"></script>
+  <script src="services/firebase-service.js?v=70.0"></script>
+  <script src="services/pdf-service.js?v=70.0"></script>
+  <script src="services/youtube-service.js?v=70.0"></script>
+  <script src="services/question-generator.js?v=70.0"></script>
+  <script src="app.js?v=70.0"></script>
 </body>
 </html>
