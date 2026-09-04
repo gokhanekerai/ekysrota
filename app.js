@@ -3835,85 +3835,7 @@ class EKYSApp {
     if (accBadgeEl) accBadgeEl.textContent = `${totalQuestionsAnswered} Soru / ${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
 
     // 3. Testler Menüsündeki Tüm Sınav Kartlarının Tanımları
-    const testHubCards = [
-      {
-        id: 'genel-kultur',
-        title: 'Genel Kültür',
-        subTitle: 'Coğrafya, Yurttaşlık & Güncel Bilgiler',
-        icon: '🌍',
-        badge: '%20 (16 Soru)',
-        match: (item) => {
-          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
-          return t.includes('cogr') || t.includes('coğrafya') || t.includes('yurttas') || t.includes('yurttaş') || t.includes('guncel') || t.includes('güncel') || t.includes('genel kültür') || t.includes('genel kultur');
-        }
-      },
-      {
-        id: 'inkilap',
-        title: 'Tarih, İnkılâp Tarihi & Atatürkçülük',
-        subTitle: 'İlk Türk Dev., Selçuklu, Osmanlı, İnkılap',
-        icon: '⚔️',
-        badge: '%20 (16 Soru)',
-        match: (item) => {
-          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
-          return t.includes('tarih') || t.includes('inkılap') || t.includes('inkilap') || t.includes('atatürk') || t.includes('ataturk') || t.includes('nutuk') || t.includes('amasya') || t.includes('erzurum') || t.includes('sivas') || t.includes('lozan');
-        }
-      },
-      {
-        id: 'egitim',
-        title: 'Eğitim Bilimleri & Yönetimi',
-        subTitle: 'Yönetim, Liderlik, Denetim, Değerler, Etik',
-        icon: '🎓',
-        badge: '%15 (12 Soru)',
-        match: (item) => {
-          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
-          return t.includes('egitim') || t.includes('eğitim') || t.includes('yönetim') || t.includes('yonetim') || t.includes('denetim') || t.includes('liderlik') || t.includes('değerler') || t.includes('degerler') || t.includes('etik') || t.includes('ölçme') || t.includes('olcme');
-        }
-      },
-      {
-        id: 'maarif',
-        title: 'Türkiye Yüzyılı Maarif Modeli',
-        subTitle: 'Ortak Metin, Beceriler, Erdem-Değer-Eylem',
-        icon: '🌟',
-        badge: '%30 (24 Soru)',
-        match: (item) => {
-          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
-          return t.includes('maarif');
-        }
-      },
-      {
-        id: 'mevzuat',
-        title: 'Mevzuat',
-        subTitle: '1982 Anayasası, 657, 1739, 222, 5018...',
-        icon: '⚖️',
-        badge: '%20 (16 Soru)',
-        match: (item) => {
-          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
-          return t.includes('mevzuat') || t.includes('kanun') || t.includes('anayasa') || t.includes('cbk') || t.includes('657') || t.includes('1739') || t.includes('222') || t.includes('5018') || t.includes('4483') || t.includes('4688') || t.includes('5442') || t.includes('3071');
-        }
-      },
-      {
-        id: 'cikmis',
-        title: 'Çıkmış Sınav Soruları',
-        subTitle: '2019 – 2026 Resmî MEB EKYS Arşivi',
-        icon: '📜',
-        badge: '8 Yıllık Arşiv',
-        match: (item) => {
-          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
-          return t.includes('çıkmış') || t.includes('cikmis') || t.includes('ekys_') || t.includes('2019') || t.includes('2020') || t.includes('2021') || t.includes('2022') || t.includes('2023') || t.includes('2024') || t.includes('2025') || t.includes('2026');
-        }
-      },
-      {
-        id: 'denemeler',
-        title: 'EKYS Deneme Testleri',
-        subTitle: '80 Soruluk Resmî Format Genel Denemeler',
-        icon: '🎯',
-        badge: '100 Tam Puan',
-        match: (item) => {
-          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
-          return t.includes('deneme');
-        }
-      }
-    ];
+    const testHubCards = this.getTestHubCardsDefinition();
 
     // 4. Her Test Hub Kartı İçin İstatistik Hesapla & HTML Üret
     const cardsGridEl = document.getElementById('stats-cards-grid');
@@ -4084,6 +4006,104 @@ class EKYSApp {
     }
   }
 
+  getTestHubCardsDefinition() {
+    return [
+      {
+        id: 'genel-kultur',
+        title: 'Genel Kültür',
+        subTitle: 'Coğrafya, Yurttaşlık & Güncel Bilgiler',
+        icon: '🌍',
+        badge: '%20 (16 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('cogr') || t.includes('coğrafya') || t.includes('yurttas') || t.includes('yurttaş') || t.includes('guncel') || t.includes('güncel') || t.includes('genel kültür') || t.includes('genel kultur');
+        }
+      },
+      {
+        id: 'inkilap',
+        title: 'Tarih, İnkılâp Tarihi & Atatürkçülük',
+        subTitle: 'İlk Türk Dev., Selçuklu, Osmanlı, İnkılap',
+        icon: '⚔️',
+        badge: '%20 (16 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('tarih') || t.includes('inkılap') || t.includes('inkilap') || t.includes('atatürk') || t.includes('ataturk') || t.includes('nutuk') || t.includes('amasya') || t.includes('erzurum') || t.includes('sivas') || t.includes('lozan');
+        }
+      },
+      {
+        id: 'egitim',
+        title: 'Eğitim Bilimleri & Yönetimi',
+        subTitle: 'Yönetim, Liderlik, Denetim, Değerler, Etik',
+        icon: '🎓',
+        badge: '%15 (12 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('egitim') || t.includes('eğitim') || t.includes('yönetim') || t.includes('yonetim') || t.includes('denetim') || t.includes('liderlik') || t.includes('değerler') || t.includes('degerler') || t.includes('etik') || t.includes('ölçme') || t.includes('olcme');
+        }
+      },
+      {
+        id: 'maarif',
+        title: 'Türkiye Yüzyılı Maarif Modeli',
+        subTitle: 'Ortak Metin, Beceriler, Erdem-Değer-Eylem',
+        icon: '🌟',
+        badge: '%30 (24 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('maarif');
+        }
+      },
+      {
+        id: 'mevzuat',
+        title: 'Mevzuat',
+        subTitle: '1982 Anayasası, 657, 1739, 222, 5018...',
+        icon: '⚖️',
+        badge: '%20 (16 Soru)',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('mevzuat') || t.includes('kanun') || t.includes('anayasa') || t.includes('cbk') || t.includes('657') || t.includes('1739') || t.includes('222') || t.includes('5018') || t.includes('4483') || t.includes('4688') || t.includes('5442') || t.includes('3071');
+        }
+      },
+      {
+        id: 'cikmis',
+        title: 'Çıkmış Sınav Soruları',
+        subTitle: '2019 – 2026 Resmî MEB EKYS Arşivi',
+        icon: '📜',
+        badge: '8 Yıllık Arşiv',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('çıkmış') || t.includes('cikmis') || t.includes('ekys_') || t.includes('2019') || t.includes('2020') || t.includes('2021') || t.includes('2022') || t.includes('2023') || t.includes('2024') || t.includes('2025') || t.includes('2026');
+        }
+      },
+      {
+        id: 'denemeler',
+        title: 'EKYS Deneme Testleri',
+        subTitle: '80 Soruluk Resmî Format Genel Denemeler',
+        icon: '🎯',
+        badge: '100 Tam Puan',
+        match: (item) => {
+          const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          return t.includes('deneme');
+        }
+      }
+    ];
+  }
+
+  changeStatsTrendSubject(subject) {
+    this.statsTrendSubjectFilter = subject || 'all';
+    
+    const history = window.storageService.getQuizHistory();
+    const allQuestions = window.storageService.getQuestions();
+    const dailyTarget = window.storageService.getDailyTarget();
+    
+    let totalQuestionsAnswered = 0;
+    history.forEach(h => {
+      totalQuestionsAnswered += (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
+    });
+    const totalPoolCount = allQuestions.length || 1272;
+
+    this.renderStatsCharts(history, allQuestions, dailyTarget, this.getTestHubCardsDefinition(), totalQuestionsAnswered, totalPoolCount);
+  }
+
   changeStatsTrendOffset(delta) {
     this.statsTrendOffset = (this.statsTrendOffset || 0) + delta;
     if (this.statsTrendOffset > 0) this.statsTrendOffset = 0;
@@ -4098,7 +4118,7 @@ class EKYSApp {
     });
     const totalPoolCount = allQuestions.length || 1272;
 
-    this.renderStatsCharts(history, allQuestions, dailyTarget, null, totalQuestionsAnswered, totalPoolCount);
+    this.renderStatsCharts(history, allQuestions, dailyTarget, this.getTestHubCardsDefinition(), totalQuestionsAnswered, totalPoolCount);
   }
 
   renderStatsCharts(history, allQuestions, dailyTarget, testHubCards, totalQuestionsAnswered = 0, totalPoolCount = 1272) {
@@ -4242,7 +4262,7 @@ class EKYSApp {
       });
     }
 
-    // --- 3. ÇİZGİ GRAFİK (LINE CHART): Toplam Soru, Doğru, Yanlış 7 Günlük Trendi ---
+    // --- 3. ÇİZGİ GRAFİK (LINE CHART): Toplam Soru, Doğru, Yanlış Günlük Trendi (Ders Filtreli) ---
     const accCanvas = document.getElementById('chart-accuracy-trend');
     if (accCanvas) {
       if (this.accChartInstance) {
@@ -4250,6 +4270,29 @@ class EKYSApp {
       }
 
       const offset = this.statsTrendOffset || 0;
+      const currentSubject = this.statsTrendSubjectFilter || 'all';
+
+      // Dropdown seçili değerini senkronize et
+      const filterSelect = document.getElementById('stats-trend-subject-filter');
+      if (filterSelect && filterSelect.value !== currentSubject) {
+        filterSelect.value = currentSubject;
+      }
+
+      // Seçilen derse göre test geçmişini filtrele
+      const allCards = testHubCards || this.getTestHubCardsDefinition();
+      let filteredHistory = history;
+      if (currentSubject !== 'all') {
+        const targetCard = allCards.find(c => c.id === currentSubject);
+        if (targetCard && targetCard.match) {
+          filteredHistory = history.filter(h => targetCard.match(h));
+        } else {
+          filteredHistory = history.filter(h => {
+            const t = ((h.category || '') + ' ' + (h.title || '') + ' ' + (h.topicName || '') + ' ' + (h.topicId || '')).toLowerCase();
+            return t.includes(currentSubject);
+          });
+        }
+      }
+
       const dayLabels = [];
       const dayTotalArr = [];
       const dayCorrectArr = [];
@@ -4273,7 +4316,7 @@ class EKYSApp {
         let dayCorrect = 0;
         let dayWrong = 0;
 
-        history.forEach(h => {
+        filteredHistory.forEach(h => {
           if (h.date && new Date(h.date).toDateString() === dateStr) {
             const count = (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
             dayTotal += count;
