@@ -2531,10 +2531,33 @@ class EKYSApp {
     if (modalTitleEl) modalTitleEl.innerHTML = `${backBtnHtml}<span>📚</span> ${data.title}`;
     if (modalDescEl) modalDescEl.textContent = data.desc;
 
+    const history = window.storageService ? window.storageService.getQuizHistory() : [];
+
     if (modalGridEl) {
       modalGridEl.innerHTML = data.items.map(item => {
         const questions = this.getQuestionsForFilter(item.filterKey);
         const qCount = questions.length;
+
+        // Bu alt konuya / teste ait çözülen geçmiş
+        const itemHistory = history.filter(h => {
+          if (h.topicId && (h.topicId === item.filterKey || h.topicId.startsWith(item.filterKey))) return true;
+          if (h.title && (h.title.toLowerCase().includes(item.name.toLowerCase()) || item.name.toLowerCase().includes(h.title.toLowerCase()))) return true;
+          return false;
+        });
+
+        let itemSolved = 0;
+        let itemCorrect = 0;
+        let itemWrong = 0;
+        itemHistory.forEach(h => {
+          const c = (h.correctCount || 0);
+          const w = (h.wrongCount || 0);
+          const count = h.totalQuestions || (c + w + (h.emptyCount || 0)) || 0;
+          itemSolved += count;
+          itemCorrect += c;
+          itemWrong += w;
+        });
+
+        const itemAccuracy = itemSolved > 0 ? Math.round((itemCorrect / itemSolved) * 100) : 0;
 
         // Eğer bu bir alt kategori kartı ise (örneğin Tarih Testleri -> tarih-subtopics)
         if (item.targetSubtopic) {
@@ -2553,9 +2576,22 @@ class EKYSApp {
                   </div>
                 </div>
                 <h3 style="font-size: 1.08rem; font-weight: 700; margin-bottom: 6px; color: #ffffff;">${item.name}</h3>
-                <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.4; margin-bottom: 16px;">
+                <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.4; margin-bottom: 12px;">
                   ${item.desc}
                 </p>
+
+                <!-- Konu Başarı Oranı -->
+                <div style="margin-bottom: 14px; background: rgba(0,0,0,0.25); padding: 8px 10px; border-radius: 8px;">
+                  <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 700; margin-bottom: 4px;">
+                    <span style="color: #cbd5e1;">🎯 Başarı Oranı:</span>
+                    <span style="color: ${itemSolved > 0 ? (itemAccuracy >= 70 ? '#34d399' : itemAccuracy >= 50 ? '#fbbf24' : '#f87171') : '#94a3b8'};">
+                      ${itemSolved > 0 ? `%${itemAccuracy} (${itemCorrect}D / ${itemWrong}Y)` : 'Henüz Çözülmedi'}
+                    </span>
+                  </div>
+                  <div class="progress-bar" style="height: 5px;">
+                    <div class="progress-fill" style="width: ${itemAccuracy}%; background: ${itemAccuracy >= 70 ? 'linear-gradient(90deg, #10b981, #059669)' : itemAccuracy >= 50 ? 'linear-gradient(90deg, #f59e0b, #d97706)' : 'linear-gradient(90deg, #ef4444, #dc2626)'};"></div>
+                  </div>
+                </div>
               </div>
               <div style="display: flex; gap: 6px; margin-top: auto; flex-wrap: wrap;" onclick="event.stopPropagation()">
                 <button class="btn btn-primary btn-sm" style="flex: 2; font-weight: 700; background: linear-gradient(135deg, #6366f1, #8b5cf6);" onclick="app.openSubTopicModal('${item.targetSubtopic}')">
@@ -2585,9 +2621,22 @@ class EKYSApp {
                 </div>
               </div>
               <h3 style="font-size: 1.08rem; font-weight: 700; margin-bottom: 6px; color: #ffffff;">${item.name}</h3>
-              <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.4; margin-bottom: 16px;">
+              <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.4; margin-bottom: 12px;">
                 ${item.desc}
               </p>
+
+              <!-- Konu Başarı Oranı -->
+              <div style="margin-bottom: 14px; background: rgba(0,0,0,0.25); padding: 8px 10px; border-radius: 8px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 700; margin-bottom: 4px;">
+                  <span style="color: #cbd5e1;">🎯 Başarı Oranı:</span>
+                  <span style="color: ${itemSolved > 0 ? (itemAccuracy >= 70 ? '#34d399' : itemAccuracy >= 50 ? '#fbbf24' : '#f87171') : '#94a3b8'};">
+                    ${itemSolved > 0 ? `%${itemAccuracy} (${itemCorrect}D / ${itemWrong}Y)` : 'Henüz Çözülmedi'}
+                  </span>
+                </div>
+                <div class="progress-bar" style="height: 5px;">
+                  <div class="progress-fill" style="width: ${itemAccuracy}%; background: ${itemAccuracy >= 70 ? 'linear-gradient(90deg, #10b981, #059669)' : itemAccuracy >= 50 ? 'linear-gradient(90deg, #f59e0b, #d97706)' : 'linear-gradient(90deg, #ef4444, #dc2626)'};"></div>
+                </div>
+              </div>
             </div>
             <div style="display: flex; gap: 8px; margin-top: auto;">
               <button class="btn btn-primary btn-sm" style="flex: 1;" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name}', 'practice')">
@@ -3860,27 +3909,14 @@ class EKYSApp {
               <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 4px;">${card.title}</h3>
               <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 14px;">${card.subTitle}</p>
 
-              <!-- Çözülme / İlerleme Yüzdesi -->
-              <div style="margin-bottom: 12px; background: rgba(0,0,0,0.2); padding: 10px; border-radius: 8px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.82rem; font-weight: 700; margin-bottom: 5px;">
+              <!-- Soru Çözülme / İlerleme Yüzdesi -->
+              <div style="margin-bottom: 14px; background: rgba(0,0,0,0.2); padding: 12px; border-radius: 8px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.85rem; font-weight: 700; margin-bottom: 6px;">
                   <span style="color: #cbd5e1;">📌 Soru Çözülme Oranı:</span>
                   <span style="color: #818cf8;">%${solveRate} (${solvedCount}/${totalPool} Soru)</span>
                 </div>
-                <div class="progress-bar" style="height: 7px;">
+                <div class="progress-bar" style="height: 8px;">
                   <div class="progress-fill" style="width: ${solveRate}%; background: linear-gradient(90deg, #6366f1, #8b5cf6);"></div>
-                </div>
-              </div>
-
-              <!-- Başarı / Doğruluk Oranı -->
-              <div style="margin-bottom: 14px; background: rgba(0,0,0,0.2); padding: 10px; border-radius: 8px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.82rem; font-weight: 700; margin-bottom: 5px;">
-                  <span style="color: #cbd5e1;">🎯 Konu Başarı Oranı:</span>
-                  <span style="color: ${accuracyRate >= 70 ? '#34d399' : accuracyRate >= 50 ? '#fbbf24' : '#f87171'};">
-                    ${solvedCount > 0 ? `%${accuracyRate} (${correctCount}D / ${wrongCount}Y)` : 'Henüz Çözülmedi'}
-                  </span>
-                </div>
-                <div class="progress-bar" style="height: 7px;">
-                  <div class="progress-fill" style="width: ${accuracyRate}%; background: ${accuracyRate >= 70 ? 'linear-gradient(90deg, #10b981, #059669)' : accuracyRate >= 50 ? 'linear-gradient(90deg, #f59e0b, #d97706)' : 'linear-gradient(90deg, #ef4444, #dc2626)'};"></div>
                 </div>
               </div>
             </div>
