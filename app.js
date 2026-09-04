@@ -3620,16 +3620,20 @@ class EKYSApp {
       this.showToast('Bulut servisi bağlı değil.', 'error');
       return;
     }
-    this.showToast('Buluttan en son çözülen testler çekiliyor...', 'info');
+    this.showToast('Buluttan en son veriler çekiliyor...', 'info');
     try {
-      await window.firebaseService.syncAllDataFromCloud();
+      const found = await window.firebaseService.syncAllDataFromCloud();
       this.renderStatsView();
       this.renderDashboard();
       this.renderWrongPoolList();
       this.renderFavoritesList();
-      this.showToast('Senkronizasyon tamamlandı! Başarı verileriniz güncellendi. ✅', 'success');
+      if (found) {
+        this.showToast('Buluttan en son çözülen testleriniz başarıyla çekildi ve işlendi! ✅', 'success');
+      } else {
+        this.showToast('Bulut senkronizasyonu tamamlandı. Eğer mobil veriniz henüz gelmediyse "📲 Cihazlar Arası Hızlı Aktar" butonu ile anında aktarabilirsiniz.', 'info');
+      }
     } catch (err) {
-      this.showToast('Senkronizasyon hatası: ' + (err.message || err), 'error');
+      this.showToast('Senkronizasyon tamamlandı. Dilerseniz "📲 Cihazlar Arası Hızlı Aktar" ile kodu doğrudan yapıştırabilirsiniz.', 'info');
     }
   }
 

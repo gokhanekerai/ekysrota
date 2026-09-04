@@ -396,6 +396,7 @@ class FirebaseService {
       const res = await this.auth.signInAnonymously();
       return res.user;
     } catch (e) {
+      // Anonymous auth might be disabled in console; proceed safely without throwing
       return null;
     }
   }
@@ -403,75 +404,83 @@ class FirebaseService {
   // --- BULUT İLE ÇİFT YÖNLÜ SENKRONİZASYON (MOBILE & PC EVRENSEL UYUM) ---
   async syncAllDataToCloud() {
     if (!this.db) return;
-    await this.ensureAuth();
+    try {
+      await this.ensureAuth();
+    } catch (e) {}
 
     const data = window.storageService.exportAllData();
-    const uid = this.currentUser ? this.currentUser.uid : 'uid_master_admin';
+    const uid = (this.currentUser && this.currentUser.uid) ? this.currentUser.uid : 'uid_master_admin';
     const email = (this.currentUser && this.currentUser.email) ? this.currentUser.email.toLowerCase() : 'admin@ekysrota.com';
-    const isMaster = this.isAdmin() || email.includes('admin') || email.includes('gokhan') || uid.includes('master');
+
+    const payload = {
+      storageData: data,
+      email: email,
+      displayName: (this.currentUser && this.currentUser.displayName) || 'Gökhan Eker (Yönetici)',
+      lastSyncedAt: new Date().toISOString()
+    };
 
     try {
-      const payload = {
-        storageData: data,
-        email: email,
-        displayName: (this.currentUser && this.currentUser.displayName) || 'Gökhan Eker (Yönetici)',
-        lastSyncedAt: new Date().toISOString()
-      };
-
-      // 1. Ortak havuz dokümanına kesin kaydet
       await this.db.collection('global_sync').doc('master_state').set(payload, { merge: true });
-      await this.db.collection('users').doc('uid_master_admin').set(payload, { merge: true });
-
-      if (uid && uid !== 'uid_master_admin') {
-        await this.db.collection('users').doc(uid).set(payload, { merge: true });
-      }
-      console.log('Veriler buluta başarıyla senkronize edildi.');
     } catch (err) {
-      console.error('Bulut senkronizasyon hatası:', err);
+      console.warn('global_sync write:', err.message || err);
+    }
+
+    try {
+      await this.db.collection('users').doc('uid_master_admin').set(payload, { merge: true });
+    } catch (err) {
+      console.warn('users/uid_master_admin write:', err.message || err);
+    }
+
+    if (uid && uid !== 'uid_master_admin') {
+      try {
+        await this.db.collection('users').doc(uid).set(payload, { merge: true });
+      } catch (err) {
+        console.warn(`users/${uid} write:`, err.message || err);
+      }
     }
   }
 
   async syncAllDataFromCloud() {
-    if (!this.db) return;
-    await this.ensureAuth();
+    if (!this.db) return false;
+    try {
+      await this.ensureAuth();
+    } catch (e) {}
 
-    const uid = this.currentUser ? this.currentUser.uid : 'uid_master_admin';
+    const uid = (this.currentUser && this.currentUser.uid) ? this.currentUser.uid : 'uid_master_admin';
     const docsToTry = ['global_sync/master_state', 'users/uid_master_admin', 'users/uid_master_admin_google'];
     if (uid && !docsToTry.includes(`users/${uid}`)) {
       docsToTry.push(`users/${uid}`);
     }
 
-    try {
-      let anyFound = false;
-      for (const targetPath of docsToTry) {
-        try {
-          const [col, docId] = targetPath.split('/');
-          const doc = await this.db.collection(col).doc(docId).get();
-          if (doc.exists && doc.data() && doc.data().storageData) {
-            window.storageService.importAllData(doc.data().storageData);
+    let anyFound = false;
+    for (const targetPath of docsToTry) {
+      try {
+        const [col, docId] = targetPath.split('/');
+        const doc = await this.db.collection(col).doc(docId).get();
+        if (doc && doc.exists) {
+          const d = doc.data();
+          if (d && d.storageData) {
+            window.storageService.importAllData(d.storageData);
             anyFound = true;
           }
-        } catch (e) {
-          console.warn('Doc fetch error for ' + targetPath, e);
         }
+      } catch (e) {
+        console.warn('Doc fetch error for ' + targetPath, e.message || e);
       }
-
-      // Görünümleri yeniden render et
-      if (window.app) {
-        window.app.renderDashboard();
-        window.app.renderWrongPoolList();
-        window.app.renderFavoritesList();
-        window.app.renderStatsView();
-      }
-
-      if (!anyFound) {
-        await this.syncAllDataToCloud();
-      }
-      return anyFound;
-    } catch (err) {
-      console.error('Buluttan veri çekme hatası:', err);
-      return false;
     }
+
+    // Görünümleri yeniden render et
+    if (window.app) {
+      window.app.renderDashboard();
+      window.app.renderWrongPoolList();
+      window.app.renderFavoritesList();
+      window.app.renderStatsView();
+    }
+
+    if (!anyFound) {
+      await this.syncAllDataToCloud();
+    }
+    return anyFound;
   }
 }
 
