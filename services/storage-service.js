@@ -283,7 +283,9 @@ class StorageService {
       netScore: result.score !== undefined ? result.score : (result.netScore !== undefined ? result.netScore : (result.totalQuestions > 0 ? ((result.correctCount / result.totalQuestions) * 100) : 0)),
       durationSeconds: result.durationSeconds || 0,
       topicId: result.topicId || 'all',
-      isDeneme: !!result.isDeneme
+      isDeneme: !!result.isDeneme,
+      isCikmis: !!result.isCikmis,
+      isScored: result.isScored !== undefined ? !!result.isScored : (!!result.isDeneme || !!result.isCikmis)
     };
 
     history.unshift(entry);

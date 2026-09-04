@@ -322,6 +322,42 @@
                 <span>📚</span> Testleri Çöz
               </button>
             </div>
+
+            <!-- 6. Çıkmış Sınav Soruları (2019-2026) -->
+            <div class="card" style="border: 1px solid rgba(168, 85, 247, 0.4); background: linear-gradient(135deg, rgba(168, 85, 247, 0.12) 0%, rgba(30, 41, 59, 0.9) 100%);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">📜</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(168, 85, 247, 0.2); color: #e9d5ff; font-size: 0.72rem; font-weight: 700;">2019 - 2026</span>
+                  <span class="badge badge-warning" style="background: #a855f7; color: #fff; font-size: 0.72rem; font-weight: 800;">8 Yıllık Arşiv</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #f3e8ff;">Çıkmış Sınav Soruları</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                2019–2026 MEB EKYS çıkmış sınav soruları. Yıllara göre çözün, 100 üzerinden puanınızı görün.
+              </p>
+              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('cikmis')" style="background: linear-gradient(135deg, #a855f7, #6366f1); border: none; font-weight: 700;">
+                <span>📜</span> Çıkmış Sınavları Aç
+              </button>
+            </div>
+
+            <!-- 7. EKYS Deneme Testleri -->
+            <div class="card" style="border: 1px solid rgba(249, 115, 22, 0.45); background: linear-gradient(135deg, rgba(249, 115, 22, 0.14) 0%, rgba(30, 41, 59, 0.9) 100%);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">🎯</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(249, 115, 22, 0.2); color: #fb923c; font-size: 0.72rem; font-weight: 700;">80 Soru &amp; Puanlı</span>
+                  <span class="badge badge-warning" style="background: #f97316; color: #fff; font-size: 0.72rem; font-weight: 800;">100 Tam Puan</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #fed7aa;">EKYS Deneme Testleri</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                100 tam puan üzerinden hesaplanan, 80 soruluk resmî format genel ve ders bazlı deneme sınavları.
+              </p>
+              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('denemeler')" style="background: linear-gradient(135deg, #f97316, #ea580c); border: none; font-weight: 700;">
+                <span>🎯</span> Deneme Sınavlarını Aç
+              </button>
+            </div>
           </div>
 
 
@@ -448,10 +484,28 @@
               </div>
               <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #f3e8ff;">Çıkmış Sınav Soruları</h3>
               <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
-                2019–2026 MEB EKYS çıkmış sınav soruları. Yıllara göre çözün veya yeni çıkmış sorular ekleyin.
+                2019–2026 MEB EKYS çıkmış sınav soruları. Yıllara göre çözün, 100 üzerinden puanınızı görün.
               </p>
-              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('cikmis')" style="background: linear-gradient(135deg, #a855f7, #6366f1); border: none;">
-                <span>📜</span> Çıkmış Sınavları Aç & Soru Ekle
+              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('cikmis')" style="background: linear-gradient(135deg, #a855f7, #6366f1); border: none; font-weight: 700;">
+                <span>📜</span> Çıkmış Sınavları Aç
+              </button>
+            </div>
+
+            <!-- 7. EKYS Deneme Testleri -->
+            <div class="card" style="border: 1px solid rgba(249, 115, 22, 0.45); background: linear-gradient(135deg, rgba(249, 115, 22, 0.14) 0%, rgba(30, 41, 59, 0.9) 100%);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div style="font-size: 28px;">🎯</div>
+                <div style="display: flex; gap: 5px;">
+                  <span class="badge" style="background: rgba(249, 115, 22, 0.2); color: #fb923c; font-size: 0.72rem; font-weight: 700;">80 Soru &amp; Puanlı</span>
+                  <span class="badge badge-warning" style="background: #f97316; color: #fff; font-size: 0.72rem; font-weight: 800;">100 Tam Puan</span>
+                </div>
+              </div>
+              <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #fed7aa;">EKYS Deneme Testleri</h3>
+              <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
+                100 tam puan üzerinden hesaplanan, 80 soruluk resmî format genel ve ders bazlı deneme sınavları.
+              </p>
+              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('denemeler')" style="background: linear-gradient(135deg, #f97316, #ea580c); border: none; font-weight: 700;">
+                <span>🎯</span> Deneme Sınavlarını Aç
               </button>
             </div>
           </div>

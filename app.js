@@ -224,7 +224,7 @@ class EKYSApp {
         recentEl.innerHTML = `
           <div class="grid-cards">
             ${history.slice(0, 3).map(h => {
-              const isDeneme = h.isDeneme || (h.title && h.title.toLowerCase().includes('deneme')) || h.totalQuestions >= 80;
+              const isScored = this.isScoreApplicable(h);
               const pct = h.totalQuestions > 0 ? Math.round((h.correctCount / h.totalQuestions) * 100) : 0;
               return `
               <div class="card">
@@ -233,7 +233,7 @@ class EKYSApp {
                 <div style="display: flex; gap: 8px; font-size: 0.85rem; flex-wrap: wrap;">
                   <span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #34d399;">✅ ${h.correctCount} D</span>
                   <span class="badge" style="background: rgba(239, 68, 68, 0.2); color: #f87171;">❌ ${h.wrongCount} Y</span>
-                  ${isDeneme ? `
+                  ${isScored ? `
                     <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc;">🎯 ${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan</span>
                   ` : `
                     <span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fbbf24;">📊 %${pct} Başarı</span>
@@ -2238,8 +2238,80 @@ class EKYSApp {
             badge: '24 Soru'
           }
         ]
+      },
+      'denemeler': {
+        title: '🎯 EKYS Deneme Sınavları (100 Tam Puan)',
+        desc: 'Gerçek ÖSYM EKYS sınav standartlarında, 100 tam puan üzerinden değerlendirilen genel ve ders bazlı deneme sınavları:',
+        items: [
+          {
+            id: 'deneme_80_genel',
+            name: '🏆 80 Soruluk Resmî Format EKYS Genel Deneme Sınavı',
+            icon: '🏆',
+            desc: 'Tüm sınav konularından dengeli 80 soru, 150 dakika sınav süresi ve 100 tam puan üzerinden genel deneme simülasyonu.',
+            filterKey: 'all_mock_80',
+            badge: '80 Soru • 150 Dk'
+          },
+          {
+            id: 'deneme_maarif',
+            name: '🌟 Türkiye Yüzyılı Maarif Modeli Özel Deneme Sınavı',
+            icon: '🌟',
+            desc: '2026-2027 EKYS yeni müfredat Maarif Modeli ve Ortak Metin odaklı 24 soruluk özel alan denemesi.',
+            filterKey: 'maarif',
+            badge: '24 Soru • Maarif'
+          },
+          {
+            id: 'deneme_mevzuat',
+            name: '⚖️ Mevzuat & Kanunlar Özel Deneme Sınavı',
+            icon: '⚖️',
+            desc: 'Anayasa, 657, 1739, 222, 5018, 4483, 4688, 5442, 3071 ve 1 Sayılı CBK kapsamlı mevzuat denemesi.',
+            filterKey: 'mevzuat_tum',
+            badge: 'Mevzuat Özel'
+          },
+          {
+            id: 'deneme_tarih',
+            name: '⚔️ Tarih, İnkılap Tarihi & Atatürkçülük Deneme Sınavı',
+            icon: '⚔️',
+            desc: 'İlk Türk Devletleri, Türk-İslam, Osmanlı, Milli Mücadele, Atatürk İlkeleri ve İnkılap Tarihi denemesi.',
+            filterKey: 'inkilap_tum',
+            badge: 'Tarih & İnkılap'
+          },
+          {
+            id: 'deneme_egitim',
+            name: '🎓 Eğitim Bilimleri & Yönetimi Özel Deneme Sınavı',
+            icon: '🎓',
+            desc: 'Eğitim Yönetimi Süreçleri, Liderlik Kuramları, Örgütsel Davranış, Ölçme ve Değerlendirme denemesi.',
+            filterKey: 'egitim_tum',
+            badge: 'Eğitim Bilimleri'
+          },
+          {
+            id: 'deneme_genel_kultur',
+            name: '🌍 Genel Kültür (Coğrafya, Yurttaşlık, Güncel) Deneme Sınavı',
+            icon: '🌍',
+            desc: 'Türkiye Coğrafyası, Temel Hukuk, Anayasa Esasları ve Güncel Sosyoekonomik Gelişmeler denemesi.',
+            filterKey: 'genel_kultur_tum',
+            badge: 'Genel Kültür'
+          }
+        ]
       }
     };
+  }
+
+  isScoreApplicable(test) {
+    if (!test) return false;
+    if (test.isScored !== undefined && typeof test.isScored === 'boolean') return test.isScored;
+    if (test.isDeneme || test.isCikmis) return true;
+    const title = (test.title || test.name || '').toLowerCase();
+    const filterKey = (test.filterKey || test.topicId || '').toLowerCase();
+    
+    // Çıkmış sorular (Örn: 2026 EKYS Çıkmış Sınavı, ekys_2025, ekys_2024 vb.)
+    if (title.includes('çıkmış') || title.includes('ekys') || filterKey.includes('ekys') || filterKey.includes('cikmis')) {
+      return true;
+    }
+    // Deneme testleri (Örn: Genel Deneme, Maarif Deneme Sınavı vb.)
+    if (title.includes('deneme') || filterKey.includes('deneme') || (test.totalQuestions && test.totalQuestions >= 80)) {
+      return true;
+    }
+    return false;
   }
 
   getQuestionsForFilter(filterKey) {
@@ -2553,12 +2625,20 @@ class EKYSApp {
       return;
     }
 
-    const isDeneme = title.toLowerCase().includes('deneme') || questions.length >= 80;
+    const isDeneme = title.toLowerCase().includes('deneme') || questions.length >= 80 || filterKey.includes('deneme') || filterKey === 'all_mock_80';
+    const isCikmis = title.toLowerCase().includes('çıkmış') || title.toLowerCase().includes('ekys') || filterKey.includes('ekys') || filterKey.includes('cikmis');
+    const isScored = isDeneme || isCikmis;
+
+    if (filterKey === 'all_mock_80') {
+      questions = this.shuffleArray([...questions]).slice(0, 80);
+    }
 
     this.activeQuiz = {
       title: title,
       filterKey: filterKey,
       isDeneme: isDeneme,
+      isCikmis: isCikmis,
+      isScored: isScored,
       mode: mode,
       questions: mode === 'exam' ? [...questions] : this.shuffleArray([...questions]),
       currentIndex: 0,
@@ -3191,14 +3271,7 @@ class EKYSApp {
     const calculatedScore = total > 0 ? ((correct / total) * 100) : 0;
     const percent = total > 0 ? Math.round((correct / total) * 100) : 0;
 
-    const titleLower = (this.activeQuiz.title || '').toLowerCase();
-    const isDeneme = !!(
-      this.activeQuiz.isDeneme ||
-      this.activeQuiz.topicId === 'all-mock' ||
-      titleLower.includes('deneme') ||
-      (titleLower.includes('çıkmış') && total >= 40) ||
-      total >= 80
-    );
+    const isScored = this.isScoreApplicable(this.activeQuiz);
 
     // Kaydet
     window.storageService.saveQuizResult({
@@ -3211,7 +3284,9 @@ class EKYSApp {
       netScore: calculatedScore,
       durationSeconds: this.activeQuiz.elapsedSeconds,
       topicId: this.activeQuiz.topicId,
-      isDeneme: isDeneme
+      isDeneme: !!this.activeQuiz.isDeneme,
+      isCikmis: !!this.activeQuiz.isCikmis,
+      isScored: isScored
     });
 
     // Sonuç Ekranını Doldur
@@ -3229,9 +3304,9 @@ class EKYSApp {
     if (elNet) elNet.textContent = calculatedScore.toFixed(2);
     if (elPercent) elPercent.textContent = `%${percent}`;
 
-    // Puan kutusunu sadece Deneme Sınavlarında göster
+    // Puan kutusunu SADECE Çıkmış Sorular ve Deneme Sınavlarında göster
     if (elScoreBox) {
-      elScoreBox.style.display = isDeneme ? 'block' : 'none';
+      elScoreBox.style.display = isScored ? 'block' : 'none';
     }
 
     if (elWrongBtn) {
@@ -3568,7 +3643,7 @@ class EKYSApp {
             </thead>
             <tbody>
               ${history.slice(0, 10).map(h => {
-                const isDeneme = h.isDeneme || (h.title && h.title.toLowerCase().includes('deneme')) || h.totalQuestions >= 80;
+                const isScored = this.isScoreApplicable(h);
                 const pct = h.totalQuestions > 0 ? Math.round((h.correctCount / h.totalQuestions) * 100) : 0;
                 return `
                 <tr>
@@ -3576,7 +3651,7 @@ class EKYSApp {
                   <td>${new Date(h.date).toLocaleDateString('tr-TR')}</td>
                   <td style="color: #34d399; font-weight: 700;">${h.correctCount}</td>
                   <td style="color: #f87171; font-weight: 700;">${h.wrongCount}</td>
-                  ${isDeneme ? `
+                  ${isScored ? `
                     <td style="color: #818cf8; font-weight: 800;">${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan</td>
                   ` : `
                     <td style="color: #fbbf24; font-weight: 700;">%${pct} Başarı</td>
