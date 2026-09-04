@@ -3951,9 +3951,14 @@ class EKYSApp {
                     </div>
                   </td>
                   <td style="text-align: center; white-space: nowrap;">
-                    <button class="btn btn-danger btn-sm" onclick="app.deleteQuizHistoryItem('${recordId}')" style="padding: 5px 10px; font-size: 0.78rem; border-radius: 6px; font-weight: 600;" title="Bu test sonucunu sil">
-                      🗑️ Sil
-                    </button>
+                    <div style="display: flex; gap: 6px; justify-content: center; align-items: center;">
+                      <button class="btn btn-secondary btn-sm" onclick="app.openEditQuizModal('${recordId}')" style="padding: 5px 9px; font-size: 0.78rem; border-radius: 6px; font-weight: 600;" title="Test sonucunu düzenle">
+                        ✏️ Düzenle
+                      </button>
+                      <button class="btn btn-danger btn-sm" onclick="app.deleteQuizHistoryItem('${recordId}')" style="padding: 5px 9px; font-size: 0.78rem; border-radius: 6px; font-weight: 600;" title="Bu test sonucunu sil">
+                        🗑️ Sil
+                      </button>
+                    </div>
                   </td>
                 </tr>
               `;}).join('')}
@@ -3961,6 +3966,84 @@ class EKYSApp {
           </table>
         `;
       }
+    }
+  }
+
+  openEditQuizModal(id) {
+    const history = window.storageService.getQuizHistory();
+    const item = history.find(h => h.id === id || h.date === id);
+    if (!item) {
+      this.showToast('Test kaydı bulunamadı.', 'error');
+      return;
+    }
+
+    const total = item.totalQuestions || ((item.correctCount || 0) + (item.wrongCount || 0) + (item.emptyCount || 0));
+    
+    const idEl = document.getElementById('edit-quiz-id');
+    const titleEl = document.getElementById('edit-quiz-title');
+    const totalEl = document.getElementById('edit-quiz-total');
+    const correctEl = document.getElementById('edit-quiz-correct');
+    const wrongEl = document.getElementById('edit-quiz-wrong');
+    const emptyEl = document.getElementById('edit-quiz-empty');
+
+    if (idEl) idEl.value = item.id || item.date;
+    if (titleEl) titleEl.value = item.title || '';
+    if (totalEl) totalEl.value = total;
+    if (correctEl) correctEl.value = item.correctCount || 0;
+    if (wrongEl) wrongEl.value = item.wrongCount || 0;
+    if (emptyEl) emptyEl.value = item.emptyCount || 0;
+
+    const modal = document.getElementById('modal-edit-quiz-history');
+    if (modal) {
+      modal.classList.add('active');
+    }
+  }
+
+  closeEditQuizModal(event) {
+    if (event && event.target && !event.target.classList.contains('modal') && !event.target.classList.contains('modal-close')) {
+      return;
+    }
+    const modal = document.getElementById('modal-edit-quiz-history');
+    if (modal) {
+      modal.classList.remove('active');
+    }
+  }
+
+  saveQuizHistoryEdit(e) {
+    if (e) e.preventDefault();
+    const id = document.getElementById('edit-quiz-id').value;
+    const title = document.getElementById('edit-quiz-title').value.trim();
+    const totalQuestions = parseInt(document.getElementById('edit-quiz-total').value) || 0;
+    const correctCount = parseInt(document.getElementById('edit-quiz-correct').value) || 0;
+    const wrongCount = parseInt(document.getElementById('edit-quiz-wrong').value) || 0;
+    const emptyCount = parseInt(document.getElementById('edit-quiz-empty').value) || 0;
+
+    if (!title) {
+      this.showToast('Lütfen geçerli bir test adı giriniz.', 'warning');
+      return;
+    }
+
+    if (correctCount + wrongCount + emptyCount > totalQuestions && totalQuestions > 0) {
+      this.showToast('Doğru, Yanlış ve Boş toplamı toplam soru sayısından fazla olamaz.', 'warning');
+      return;
+    }
+
+    const success = window.storageService.updateQuizHistory({
+      id,
+      title,
+      totalQuestions: totalQuestions || (correctCount + wrongCount + emptyCount),
+      correctCount,
+      wrongCount,
+      emptyCount
+    });
+
+    if (success) {
+      this.closeEditQuizModal();
+      this.renderStatsView();
+      this.renderDashboard();
+      this.showToast('Test kaydı başarıyla güncellendi.', 'success');
+    } else {
+      this.showToast('Güncelleme sırasında bir hata oluştu.', 'error');
     }
   }
 

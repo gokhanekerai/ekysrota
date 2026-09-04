@@ -968,14 +968,61 @@
     </div>
   </div>
 
+  <!-- MODAL: ÇÖZÜLEN TEST DÜZENLEME -->
+  <div class="modal" id="modal-edit-quiz-history" onclick="app.closeEditQuizModal(event)">
+    <div class="modal-content" style="max-width: 500px;" onclick="event.stopPropagation()">
+      <div class="modal-header" style="border-bottom: 1px solid var(--border-active); padding-bottom: 12px; margin-bottom: 16px;">
+        <h3 class="modal-title" style="display: flex; align-items: center; gap: 8px;">
+          <span>✏️</span> Test Sonucunu Düzenle
+        </h3>
+        <button class="modal-close" onclick="app.closeEditQuizModal()">✕</button>
+      </div>
+      <form id="form-edit-quiz-history" onsubmit="app.saveQuizHistoryEdit(event)">
+        <input type="hidden" id="edit-quiz-id" value="">
+        <div class="form-group" style="margin-bottom: 14px;">
+          <label class="form-label" style="font-size: 0.85rem; font-weight: 700;">Test / Deneme Adı</label>
+          <input type="text" id="edit-quiz-title" class="form-control" required style="width: 100%;">
+        </div>
+        
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px;">
+          <div class="form-group">
+            <label class="form-label" style="font-size: 0.85rem; font-weight: 700;">Toplam Soru</label>
+            <input type="number" id="edit-quiz-total" class="form-control" min="1" max="500" required>
+          </div>
+          <div class="form-group">
+            <label class="form-label" style="font-size: 0.85rem; font-weight: 700; color: #10b981;">Doğru Sayısı (D)</label>
+            <input type="number" id="edit-quiz-correct" class="form-control" min="0" max="500" required>
+          </div>
+          <div class="form-group">
+            <label class="form-label" style="font-size: 0.85rem; font-weight: 700; color: #ef4444;">Yanlış Sayısı (Y)</label>
+            <input type="number" id="edit-quiz-wrong" class="form-control" min="0" max="500" required>
+          </div>
+          <div class="form-group">
+            <label class="form-label" style="font-size: 0.85rem; font-weight: 700; color: #94a3b8;">Boş Sayısı (B)</label>
+            <input type="number" id="edit-quiz-empty" class="form-control" min="0" max="500" value="0">
+          </div>
+        </div>
+
+        <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px;">
+          <button type="button" class="btn btn-secondary" onclick="app.closeEditQuizModal()">
+            İptal
+          </button>
+          <button type="submit" class="btn btn-primary" style="background: linear-gradient(135deg, #10b981, #059669); border: none; font-weight: 700;">
+            💾 Değişiklikleri Kaydet
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=63.0"></script>
-  <script src="data/questions-db.js?v=63.0"></script>
-  <script src="services/storage-service.js?v=63.0"></script>
-  <script src="services/firebase-service.js?v=63.0"></script>
-  <script src="services/pdf-service.js?v=63.0"></script>
-  <script src="services/youtube-service.js?v=63.0"></script>
-  <script src="services/question-generator.js?v=63.0"></script>
-  <script src="app.js?v=63.0"></script>
+  <script src="data/ekys-sample-questions.js?v=64.0"></script>
+  <script src="data/questions-db.js?v=64.0"></script>
+  <script src="services/storage-service.js?v=64.0"></script>
+  <script src="services/firebase-service.js?v=64.0"></script>
+  <script src="services/pdf-service.js?v=64.0"></script>
+  <script src="services/youtube-service.js?v=64.0"></script>
+  <script src="services/question-generator.js?v=64.0"></script>
+  <script src="app.js?v=64.0"></script>
 </body>
 </html>

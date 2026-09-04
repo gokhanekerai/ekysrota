@@ -320,6 +320,35 @@ class StorageService {
     return updated;
   }
 
+  updateQuizHistory(updatedEntry) {
+    if (!updatedEntry || !updatedEntry.id) return false;
+    const history = this.getQuizHistory();
+    const index = history.findIndex(h => h.id === updatedEntry.id || h.date === updatedEntry.id);
+    if (index === -1) return false;
+
+    const total = parseInt(updatedEntry.totalQuestions) || ((parseInt(updatedEntry.correctCount) || 0) + (parseInt(updatedEntry.wrongCount) || 0) + (parseInt(updatedEntry.emptyCount) || 0));
+    const correct = parseInt(updatedEntry.correctCount) || 0;
+    const wrong = parseInt(updatedEntry.wrongCount) || 0;
+    const empty = parseInt(updatedEntry.emptyCount) || 0;
+    const score = total > 0 ? ((correct / total) * 100) : 0;
+
+    history[index] = {
+      ...history[index],
+      title: updatedEntry.title || history[index].title,
+      totalQuestions: total,
+      correctCount: correct,
+      wrongCount: wrong,
+      emptyCount: empty,
+      score: history[index].isDeneme || history[index].isCikmis ? (score) : score,
+      netScore: score,
+      date: updatedEntry.date || history[index].date
+    };
+
+    localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(history));
+    this.syncCloud();
+    return true;
+  }
+
   clearQuizHistory() {
     localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify([]));
     this.syncCloud();
