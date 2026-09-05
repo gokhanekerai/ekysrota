@@ -26244,7 +26244,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 1,
     "questionText": "Yukarıdaki Türkiye haritasında işaretlenen noktaların hangisinde 21 Aralık tarihinde gündüz süresi daha uzun, yerel saat daha ileri ve çizgisel hız daha fazladır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q1.png?v=90.0",
+    "image": "assets/questions/cogr_test_1_q1.png",
     "options": [
       {
         "key": "A",
@@ -26429,7 +26429,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 6,
     "questionText": "Haritada gösterilen merkezlerin bulunduğu yerler gözönüne alınarak;\nI. 23 Eylül'de İzmir ve Ankara'da gündüz süresi aynıdır.\nII. Güneş İzmir'de diğer merkezlere göre daha geç doğar.\nIII. Ulusal saat ile yerel saat arasındaki farkın en fazla olduğu merkez Şanlıurfa'dır.\nIV. Kocaeli'nin yerel saati İzmir'e göre daha geridir.\nyargılardan hangisine ulaşılamaz?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q6.png?v=90.0",
+    "image": "assets/questions/cogr_test_1_q6.png",
     "options": [
       {
         "key": "A",
@@ -26466,7 +26466,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 7,
     "questionText": "21 Aralık günü yukarıdaki haritada gösterilen kentlerin hangisinde yaşanan gündüz süresi diğerlerine göre daha kısadır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q7.png?v=90.0",
+    "image": "assets/questions/cogr_test_1_q7.png",
     "options": [
       {
         "key": "A",
@@ -26540,7 +26540,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 9,
     "questionText": "Yandaki şekilde İzmir'in ufuk düzleminde güneşin konumu verilmiştir.\nBuna göre, aynı anda Ardahan'da güneşin ufuk düzlemindeki konumu aşağıdakilerden hangisi gibi olmalıdır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q9.png?v=90.0",
+    "image": "assets/questions/cogr_test_1_q9.png",
     "options": [
       {
         "key": "A",
@@ -26651,7 +26651,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 12,
     "questionText": "Aşağıdaki haritada gösterilen üç kentte yıl boyunca öğle vaktinde cisimlerin oluşan gölge boyları yaklaşık olarak aynıdır.\nBu durumun ortaya çıkmasında aşağıdakilerden hangisi diğerlerine göre daha etkilidir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q12.png?v=90.0",
+    "image": "assets/questions/cogr_test_1_q12.png",
     "options": [
       {
         "key": "A",
@@ -26762,7 +26762,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 15,
     "questionText": "Haritadaki ok yönünde ilerlendiğinde;\nI. Güneş ışınlarının düşme açısı küçülür.\nII. Cisimlerin gölge boyu uzar.\nIII. Çizgisel hız artar.\nIV. Gurup ve tan süresi kısalır.\ngibi olaylardan hangilerinin yaşanması beklenir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q15.png?v=90.0",
+    "image": "assets/questions/cogr_test_1_q15.png",
     "options": [
       {
         "key": "A",
@@ -26873,7 +26873,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 18,
     "questionText": "Yaklaşık aynı enlem üzerinde bulunan İzmir'den Kayseri'ye doğru ok yönünde hareket edildiğinde aşağıdakilerden hangisinin değişimi özel konumla açıklanamaz?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_1_q18.png?v=90.0",
+    "image": "assets/questions/cogr_test_1_q18.png",
     "options": [
       {
         "key": "A",
