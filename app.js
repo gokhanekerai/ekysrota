@@ -3509,9 +3509,9 @@ class EKYSApp {
   }
 
   setZoomScale(newScale) {
-    const clamped = Math.max(1.0, Math.min(4.5, Math.round(newScale * 10) / 10));
+    const clamped = Math.max(0.5, Math.min(5.0, Math.round(newScale * 10) / 10));
     this.zoomScale = clamped;
-    if (this.zoomScale <= 1.02) {
+    if (this.zoomScale <= 1.0) {
       this.zoomPanX = 0;
       this.zoomPanY = 0;
     }

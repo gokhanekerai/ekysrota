@@ -775,7 +775,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "21 Mart ve 23 Eylül (Ekinoks) tarihlerinde dünyanın her yerinde Güneş tam 06:00'da doğar ve 18:00'de batar.\nDoğuda yerel saat daha ileri olduğu için Güneş daha erken batar. 45° Doğu Iğdır'da yerel saat 18:00 iken (Güneş batmışken), batıda yer alan Kocaeli'de yerel saat henüz 18:00 olmamıştır ve Güneş henüz batmamıştır."
   },
   {
     "id": "cogr2-q2",
@@ -812,7 +812,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "21 Aralık kış gün dönümünde, Kuzey Yarımküre'de güneyden kuzeye gidildikçe gece süresi uzar, gündüz süresi kısalır.\nHaritada en kuzeyde yer alan III numaralı noktada (Sinop/Karadeniz kıyısı) 21 Aralık'ta yaşanan gece süresi diğerlerine göre en uzundur."
   },
   {
     "id": "cogr2-q3",
@@ -849,7 +849,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Türkiye'de 21 Aralık tarihinde Güneş ışınları yıl içindeki en eğik açıyla gelir ve yılın en uzun gölge boyu yaşanır.\n21 Aralık tarihinden itibaren Güneş ışınlarının geliş açısı büyümeye başladığı için öğle vakti gölge boyları kısalmaya başlar (21 Haziran'a kadar kısalır)."
   },
   {
     "id": "cogr2-q4",
@@ -886,7 +886,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "21 Aralık'ta Türkiye'de kuzeyde geceler en uzun, güneyde ise daha kısadır.\nElazığ'dan daha güneye (Ekvator'a doğru) gidildiğinde gece süresinin daha kısa olacağı görülür. Seçeneklerde Elazığ'dan daha güneyde yer alan il Hakkâri'dir."
   },
   {
     "id": "cogr2-q5",
@@ -923,7 +923,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "İstanbul'da Güneş tepe noktasını geçmişken (öğleden sonra), X şehrinde Güneş henüz tepe noktasına yaklaşmaktadır (öğleden önce / yerel saat daha geridir).\nYerel saatin daha geri olması bu ilin İstanbul'dan daha batıda yer aldığını gösterir. Seçeneklerde İstanbul'un batısında yer alan il Edirne'dir."
   },
   {
     "id": "cogr2-q6",
@@ -960,7 +960,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "1. Yerel saatin daha geri olması: Batıya gidildiğini gösterir.\n2. Çizgisel hızın fazla ve alacakaranlık süresinin kısa olması: Ekvator'a (güneye) gidildiğini gösterir.\nKırşehir'den güneybatıya doğru yönelen ok IV numaralı doğrultudur."
   },
   {
     "id": "cogr2-q7",
@@ -997,7 +997,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Türkiye'nin ulusal ortak saati 45° Doğu Iğdır meridyenidir. Ulusal saat ile yerel saat farkının en az olması için Iğdır meridyenine boylam olarak en yakın olan (en doğudaki) il seçilmelidir.\nSeçenekler arasında en doğuda yer alan il Hakkâri'dir."
   },
   {
     "id": "cogr2-q8",
@@ -1034,7 +1034,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Türkiye'de 21 Mart - 23 Eylül tarihleri arasında (ilkbahar ve yaz döneminde) gündüz süresi daima 12 saatten fazladır.\nNisan ve Mayıs ayları ilkbahar döneminde yer aldığı için gündüz süresi 12 saatin üzerindedir."
   },
   {
     "id": "cogr2-q9",
@@ -1071,7 +1071,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Boğazlar, kıtalararası köprü konumu, güçlü ordu ve petrol havzalarına komşuluk doğrudan jeopolitik ve stratejik güç unsurlarıdır.\nDört mevsimin belirgin yaşanması ise orta kuşakta olmanın iklimsel/matematiksel bir sonucudur; jeopolitik önemi diğerlerine göre en az etkiler."
   },
   {
     "id": "cogr2-q10",
@@ -1108,7 +1108,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğu Karadeniz kıyılarında yıllık yağış miktarının fazla olması enlem veya matematik konumla değil; dağların kıyıya paralel uzanması, yükselti ve denizellik gibi özel (göreceli) konum şartlarıyla ilgilidir."
   },
   {
     "id": "cogr2-q11",
@@ -1145,7 +1145,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Türkiye'ye sınırı veya kıyısı olmayan, ancak tarihi ve kültürel bağlarımızın bulunduğu Kosova'da yaşanan sorunlar Türkiye'yi dolaylı yönden ilgilendiren sorunlardandır.\nIrak, Batı Trakya, Ermenistan ve Suriye sınır ve su sorunları ise doğrudan ilgilendirir."
   },
   {
     "id": "cogr2-q12",
@@ -1182,7 +1182,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Antalya'nın Zonguldak'tan daha sıcak olması tamamen Ekvator'a daha yakın olmasıyla (enlem / matematik konum) açıklanır; özel konumdan etkilenmez.\nDiğer seçeneklerdeki sıcaklık farkları ise denizellik, karasallık ve yükselti (özel konum) ile ilgilidir."
   },
   {
     "id": "cogr2-q13",
@@ -1219,7 +1219,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Kapıkule Sınır Kapısı Türkiye - Bulgaristan sınırında (Edirne) yer almaktadır. Haritada yeri yanlış işaretlenmiştir.\nİpsala (Yunanistan), Gürbulak (İran), Habur (Irak) ve Cilvegözü (Suriye) ise doğru eşleştirilmiştir."
   },
   {
     "id": "cogr2-q14",
@@ -1256,7 +1256,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "NAFTA (Kuzey Amerika Serbest Ticaret Anlaşması); ABD, Kanada ve Meksika arasında kurulmuş bölgesel bir ticaret paktıdır; Türkiye bu örgüte üye değildir.\nİİT/EKO, KEİ, NATO ve OECD ise Türkiye'nin kurucu veya faal üye olduğu kuruluşlardır."
   },
   {
     "id": "cogr2-q15",
@@ -1293,7 +1293,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Türkiye'nin en kısa kara sınırı Nahçıvan (18 km) sınırıdır. Seçeneklerde verilen ülkeler arasında ise kara sınırı en kısa olan ülke Yunanistan'dır (yaklaşık 203 km).\n(Genişlik sıralaması: Suriye > İran > Irak > Ermenistan > Gürcistan > Bulgaristan > Yunanistan > Nahçıvan)."
   },
   {
     "id": "cogr2-q16",
@@ -1330,7 +1330,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğu Akdeniz'deki deniz yetki alanları (kıta sahanlığı, MEB) ve petrol-doğal gaz arama faaliyetleri doğrudan Türkiye'nin egemenlik ve kıta sahanlığı haklarını ilgilendiren doğrudan bir sorundur.\nKarabağ, Doğu Türkistan, Filistin ve Bosna ise dolaylı ilgi alanımızdır."
   },
   {
     "id": "cogr2-q17",
@@ -1367,7 +1367,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Fiyort tipi kıyıların oluşabilmesi için buzul vadilerinin deniz seviyesine inmesi gerekir.\nTürkiye Orta Kuşağın ılıman/sıcak güney kuşağında (36°-42°K) yer aldığı için buzullar hiçbir zaman kıyıya/deniz seviyesine kadar inememiştir (Matematik Konum)."
   },
   {
     "id": "cogr2-q18",
@@ -1404,7 +1404,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Türkiye'de buzul aşındırma ve biriktirme şekillerine (sirk gölleri, morenler) 2200 metreden yüksek dağlarda (Kaçkarlar, Toroslar, Cilo, Ağrı) rastlanır.\nHaritada I numara ile gösterilen Yıldız Dağları (Marmara) ortalama 1000 metre civarında bir yükseltiye sahip olduğu için buzul şekillerine rastlanmaz."
   },
   {
     "id": "cogr2-q19",
@@ -1441,7 +1441,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Maden çeşitliliği yer altı jeolojik yapısı, volkanizma ve farklı jeolojik devirlerin yaşanmasıyla ilgilidir; iklimle hiçbir ilgisi yoktur.\nTarım ürünleri, toprak türleri, akarsu rejimleri ve bitki örtüsü ise doğrudan iklim çeşitliliğinin kanıtıdır."
   },
   {
     "id": "cogr2-q20",
@@ -1478,7 +1478,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "İç kuvvetlerden Depremler (seizma) birkaç saniye içinde yeryüzünü değiştirerek en kısa sürede etkisini gösterir.\nEpirojenez (kıta oluşumu / toptan yükselme-alçalma) ise yüzbinlerce ve milyonlarca yıl sürerek en uzun sürede gerçekleşir."
   },
   {
     "id": "cogr3-q1",

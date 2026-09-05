@@ -1909,4 +1909,219 @@ body {
   user-select: none;
 }
 
+/* ==========================================================================
+   MODAL: INTERACTIVE IMAGE ZOOM & LIGHTBOX VIEWER (MOBILE FIRST)
+   ========================================================================== */
+.modal-zoom {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(3, 7, 18, 0.96);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  z-index: 10000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
 
+.modal-zoom.active {
+  display: flex !important;
+}
+
+.modal-zoom-content {
+  width: 100vw;
+  height: 100vh;
+  max-width: 100vw !important;
+  max-height: 100vh !important;
+  display: flex;
+  flex-direction: column;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  overflow: hidden;
+}
+
+.modal-zoom-header {
+  height: 56px;
+  min-height: 56px;
+  background: rgba(15, 23, 42, 0.92);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  z-index: 10;
+  backdrop-filter: blur(8px);
+}
+
+.modal-zoom-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #f8fafc;
+}
+
+.modal-zoom-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-zoom-ctrl {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.05rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+.btn-zoom-ctrl:hover, .btn-zoom-ctrl:active {
+  background: rgba(56, 189, 248, 0.25);
+  border-color: #38bdf8;
+  transform: scale(1.05);
+}
+
+.zoom-level-indicator {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #38bdf8;
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  padding: 4px 10px;
+  border-radius: 6px;
+  min-width: 58px;
+  text-align: center;
+  user-select: none;
+}
+
+.modal-zoom-close {
+  background: rgba(239, 68, 68, 0.2);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  color: #f87171;
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.15rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin-left: 6px;
+}
+
+.modal-zoom-close:hover, .modal-zoom-close:active {
+  background: #ef4444;
+  color: #ffffff;
+}
+
+.modal-zoom-body {
+  flex: 1;
+  width: 100%;
+  height: calc(100vh - 100px);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+}
+
+.zoom-img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  transform-origin: center center;
+  transition: transform 0.08s ease-out;
+  will-change: transform;
+}
+
+.zoom-img-container img {
+  max-width: 95vw;
+  max-height: 82vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.7);
+  pointer-events: none;
+  background: #ffffff;
+  padding: 4px;
+}
+
+.modal-zoom-footer {
+  height: 44px;
+  min-height: 44px;
+  background: rgba(15, 23, 42, 0.92);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 16px;
+  font-size: 0.8rem;
+  color: #94a3b8;
+  text-align: center;
+  z-index: 10;
+}
+
+@media (max-width: 640px) {
+  .modal-zoom-header {
+    height: 52px;
+    min-height: 52px;
+    padding: 0 10px;
+  }
+  .modal-zoom-title {
+    display: none;
+  }
+  .modal-zoom-controls {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .btn-zoom-ctrl {
+    width: 42px;
+    height: 42px;
+    font-size: 1.15rem;
+  }
+  .modal-zoom-close {
+    width: 42px;
+    height: 42px;
+    font-size: 1.25rem;
+  }
+  .zoom-level-indicator {
+    font-size: 0.82rem;
+    padding: 6px 8px;
+    min-width: 50px;
+  }
+  .modal-zoom-footer {
+    height: 38px;
+    min-height: 38px;
+    font-size: 0.72rem;
+    padding: 0 8px;
+  }
+  .zoom-img-container img {
+    max-width: 98vw;
+    max-height: 80vh;
+  }
+}
