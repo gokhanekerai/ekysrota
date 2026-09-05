@@ -1515,7 +1515,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Türkiye'nin uç noktaları:\n- En kuzey: Sinop (İnceburun - 42°K)\n- En güney: Hatay (Topraktutan - 36°K)\n- En batı: Çanakkale (Gökçeada Avlaka Burnu - 26°D)\n- En doğu: Iğdır (Dilucu - 45°D)\nKırklareli en kuzeydeki ildir ancak en kuzey uç nokta Sinop İnceburun'dur."
   },
   {
     "id": "cogr3-q2",
@@ -1552,7 +1552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "21 Haziran yaz gün dönümünde, Kuzey Yarımküre'de güneyden kuzeye gidildikçe gündüz süresi uzar.\nTürkiye'nin en kuzeyinde yer alan Sinop'ta 21 Haziran günü yaklaşık 15 saat 15 dakika ile yılın en uzun gündüz süresi yaşanır."
   },
   {
     "id": "cogr3-q3",
@@ -1589,7 +1589,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "21 Aralık kış gün dönümünde, Kuzey Yarımküre'de güneye doğru gidildikçe gündüz süresi uzar, gece süresi kısalır.\nTürkiye'nin en güneyinde yer alan Hatay'da 21 Aralık tarihinde gündüz süresi diğer illere göre en uzundur."
   },
   {
     "id": "cogr3-q4",
@@ -1626,7 +1626,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Gece-gündüz süre farkı enleme bağlı olarak değişir; aynı enlem veya enlem dereceleri birbirine en yakın noktalarda gece-gündüz süre farkı da en azdır.\nZonguldak ve Rize yaklaşık olarak aynı Karadeniz enlemi (41°K) üzerinde yer aldıkları için aralarındaki süre farkı en azdır."
   },
   {
     "id": "cogr3-q5",
@@ -1663,7 +1663,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "1. Merve: Doğru (Farklı coğrafi bölgelerde yetişen tarım ürünlerinin ticareti iç ticareti geliştirir).\n2. Mete: Yanlış (Gece-gündüz süre farkı güneyden kuzeye gidildikçe artar).\n3. Can: Doğru (Yaz aylarında kuzeye gidildikçe gündüz süresi uzar).\nDoğru sonuçlar Merve ve Can'a aittir."
   },
   {
     "id": "cogr3-q6",
@@ -1700,7 +1700,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Aynı enlem üzerindeki noktalarda (Ankara, Sivas, Iğdır);\n- Güneş ışınlarının geliş açısı (I),\n- Ekvator'a kuş uçuşu mesafe (II),\n- Öğle vakti gölge yönü (IV) daima aynıdır.\nBatıdan doğuya yükselti arttığı için sıcaklık ortalamaları (III) aynı değildir."
   },
   {
     "id": "cogr3-q7",
@@ -1737,7 +1737,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Yaz mevsiminin Temmuz-Ağustos'ta yaşanması, dağların güney yamaçlarının bakı olması ve kuzeyden esen rüzgârların sıcaklığı düşürmesi doğrudan Türkiye'nin Kuzey Yarımküre'nin Orta Kuşağında yer almasının matematiksel sonucudur."
   },
   {
     "id": "cogr3-q8",
@@ -1774,7 +1774,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Ilıman iklim kuşağında (orta kuşakta) yer almak 36°-42° Kuzey paralellerinde bulunmanın (matematik/mutlak konumun) sonucudur.\nİki kıtada toprak bulunması, denizler ve yükselti ise özel konuma aittir."
   },
   {
     "id": "cogr3-q9",
@@ -1811,7 +1811,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Aynı enlem üzerindeki noktalarda (Erzurum ve Çanakkale) 21 Aralık tarihinde Güneş ışınlarının geliş açısı kesinlikle aynıdır.\nSıcaklık, nem ve rüzgâr özellikleri ise yükselti ve denizellik (özel konum) sebebiyle farklıdır."
   },
   {
     "id": "cogr3-q10",
@@ -1848,7 +1848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Güneş ışınlarının hiçbir zaman dik gelmemesi ve gölge boyunun sıfır olmaması Türkiye'nin Dönenceler dışında (Yengeç Dönencesi'nin kuzeyinde) yer aldığını gösterir; Güney Yarımküre'de de dönence dışındaki yerlerde gölge sıfır olmaz.\nDiğer seçenekler ise doğrudan Kuzey Yarımküre'de yer almayı kanıtlar."
   },
   {
     "id": "cogr3-q11",
@@ -1885,7 +1885,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Fiziki haritalarda renkler yükseltiyi gösterir:\n- Yeşil: 0 - 500 m (Çukurova, Çarşamba, Ergene)\n- Sarı/Turuncu: 500 - 1500 m (Konya Ovası)\n- Kahverengi: 1500 m ve üzeri (Hakkâri Yüksekova yaklaşık 1950 m rakımla kahverengi gösterilir)."
   },
   {
     "id": "cogr3-q12",
@@ -1922,7 +1922,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "I. Ege Denizi'nin oluşumu 4. Jeolojik Zaman'a (Kuvaterner) aittir (I yanlış).\nII. Kuzey Anadolu Dağları ve Toroslar 3. Jeolojik Zaman'da (Alp Orojenezi) oluşmuştur (Doğru).\nIII. İstanbul ve Çanakkale Boğazları 4. Jeolojik Zaman'da oluşmuştur (Doğru).\nDoğru eşleştirmeler II ve III'tür."
   },
   {
     "id": "cogr3-q13",
@@ -1959,7 +1959,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Türkiye'de fosil enerji kaynakları içerisinde bilinen toplam rezervi en az olan ve %98'den fazla oranda dışa bağımlı olduğumuz kaynak Doğal Gaz'dır.\nLinyit rezervlerimiz ise en yaygın olanıdır."
   },
   {
     "id": "cogr3-q14",
@@ -1996,7 +1996,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Türkiye - Ermenistan sınırının büyük bir bölümünü Aras Nehri ve onun kolu olan Arpaçay doğal sınır olarak oluşturmaktadır."
   },
   {
     "id": "cogr3-q15",
@@ -2033,7 +2033,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Haritada koyu renkle gösterilen alanlar (Yıldız Dağları, Kastamonu-Devrekani, Kırşehir, Menteşe, Bitlis); 1. Jeolojik Zaman'da (Paleozoyik) oluşmuş, sertleşmiş, deprem riski düşük 'Yaşlı Temel (Masif) Araziler'dir."
   },
   {
     "id": "cogr3-q16",
@@ -2070,7 +2070,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Türkiye'de günümüzde aktif/etkin volkan bulunmaz; tüm volkanik dağlarımız sönmüş/uyuyan durumdadır. Bu nedenle dağlarımızda etkin volkanlara rastlandığı ifadesi yanlıştır."
   },
   {
     "id": "cogr3-q17",
@@ -2107,7 +2107,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Fiziki haritalarda renkler sadece deniz seviyesinden yüksekliği (rakımı) gösterir.\nÇukurova deniz seviyesinde bir delta ovası olduğu için yeşil, Isparta Ovası yaklaşık 1000 m yüksekte olduğu için sarı renkle gösterilir."
   },
   {
     "id": "cogr3-q18",
@@ -2144,7 +2144,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Türkiye'de güncel buzul ve buzul aşındırma şekilleri yükseltinin 3000 metreyi aştığı Doğu Anadolu ve Doğu Karadeniz dağları (Cilo, Ağrı, Kaçkarlar) üzerinde yoğunlaşmıştır."
   },
   {
     "id": "cogr3-q19",
@@ -2181,7 +2181,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Taşkömürü 1. Jeolojik Zaman'da (Paleozoyik) oluşmuş eski bir kömür türüdür (Zonguldak). Dolayısıyla yaşlı arazinin kanıtıdır.\nLinyit, jeotermal sıcak sular, diri fay hatları ve yüksek engebe ise 3. ve 4. zamanda oluşan genç arazinin kanıtıdır."
   },
   {
     "id": "cogr3-q20",
@@ -2218,7 +2218,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "I numara ile gösterilen Menteşe Dağları volkanik değil, Ege orojenezinde kırılma ile oluşmuş bir Kırık Dağ (Horst)'dır.\nKaracadağ volkanik, Nur Dağları kırık, Küre ve Kaçkarlar ise kıvrım dağdır. I - Volkanik eşleştirmesi yanlıştır."
   },
   {
     "id": "tarih1-q1",
