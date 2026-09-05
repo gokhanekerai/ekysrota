@@ -44102,7 +44102,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'nin matematiksel konumu (36°-42° Kuzey paralelleri, 26°-45° Doğu meridyenleri) gereği Orta Kuşak'ta ve Kuzey Yarımküre'de yer almasının sonuçları:\n• Dört mevsim belirgin olarak yaşanır,\n• Cephesel yağışlar (fronta yağışlar) etkilidir,\n• Batı rüzgarları kuşağındadır,\n• Güneyden kuzeye gidildikçe Güneş ışınlarının geliş açısı ve sıcaklık azalır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q2",
@@ -44139,7 +44139,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında denizel iklim iç kesimlere sokulamazken; Ege Bölgesi'nde dağlar kıyıya dik uzandığı için denizel hava kütleleri graben vadileri boyunca 150-200 km kadar iç kesimlere rahatlıkla sokulabilir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q3",
@@ -44176,7 +44176,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de tarım ürünlerinin olgunlaşma ve hasat süreleri kıyı bölgelerinden iç ve doğu bölgelere gidildikçe yükselti ve karasallık nedeniyle gecikir. En erken hasat Akdeniz kıyılarında (Çukurova), en geç hasat ise Erzurum-Kars platosunda gerçekleşir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q4",
@@ -44213,7 +44213,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nAkdeniz iklim bölgesinde maki bitki örtüsünün tahrip edildiği alanlarda ortaya çıkan dikenli, bodur çalı topluluklarına **Garig (Frigana)** denir (Lavanta, abdestbozan, yasemin, kekik, laden vb.). Karadeniz'de orman tahribiyle oluşan çalılara ise **Psödomaki** denir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q5",
@@ -44250,7 +44250,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de kırsal yerleşmelerde konut yapı malzemesi doğrudan iklim ve doğal çevre şartlarına bağlıdır:\n• Karadeniz: Ahşap malzeme (Orman varlığı)\n• İç ve Güneydoğu Anadolu: Kerpiç malzeme (Kuraklık, toprak/saman karışımı)\n• Akdeniz ve volkanik yöreler (Nevşehir, Kayseri): Taş malzeme"
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q6",
@@ -44287,7 +44287,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de nüfusun mekânsal dağılışında doğal faktörler (iklim, yer şekilleri, su kaynakları, toprak verimi) ve beşeri faktörler (sanayileşme, ulaşım, ticaret, madencilik, turizm) belirleyicidir. Sanayileşmiş Marmara ve Kıyı Ege en yoğun, dağlık Hakkari, Teke-Taşeli platoları en seyrek nüfuslu alanlardır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q7",
@@ -44324,7 +44324,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nGAP (Güneydoğu Anadolu Projesi), Fırat ve Dicle nehirleri üzerinde barajlar, hidroelektrik santralleri ve sulama tünelleri (Şanlıurfa tünelleri) inşa ederek bölgenin sosyo-ekonomik kalkınmasını hedefleyen çok sektörlü entegre bölgesel kalkınma projesidir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q8",
@@ -44361,7 +44361,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de yetiştirilen sanayi bitkileri içerisinde **Pamuk**, yüksek sıcaklık ve yetişme döneminde bol su, hasat döneminde ise kuraklık ve güneşlenme ister. Şanlıurfa (GAP ile), Çukurova, Aydın ve Ege grabenlerinde yoğun üretilir; Karadeniz'de yaz yağışları nedeniyle yetiştirilemez."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q9",
@@ -44398,7 +44398,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de şeker pancarı üretimi; çabuk bozulabilen bir ürün olması sebebiyle fabrikaların ekim alanlarının hemen yakınına kurulmasını zorunlu kılmıştır. Üretim kotaya tabidir ve İç Anadolu üretimde ilk sıradadır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q10",
@@ -44435,7 +44435,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de tiftik keçisi (Ankara keçisi) yetiştiriciliğinin en yoğun olduğu merkez **Ankara ve İç Anadolu** yöresidir. Tiftiği değerli bir sanayi hammaddesidir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q11",
@@ -44472,7 +44472,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de demir-çelik sanayisinin Karabük ve İskenderun'da kurulma nedenleri farklıdır:\n• Karabük-Ereğli: Taş kömürü yataklarına (Enerji kaynağına) yakınlık,\n• İskenderun: Liman ve ulaşım kolaylığı (Ulaşım / Hinterland).\n• Sivas Divriği: Demir madeni yatağına (Hammaddeye) yakınlık."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q12",
@@ -44509,7 +44509,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nBor mineralleri rezervinde Türkiye dünya 1.'sidir (Dünya rezervlerinin %73'ü). Çıkarıldığı ve işlendiği yerler: Balıkesir (Bigadiç, Bandırma), Bursa (Mustafakemalpaşa), Kütahya (Emet), Eskişehir (Kırka). Bandırma ve Kırka'da bor işleme tesisleri bulunur."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q13",
@@ -44546,7 +44546,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de petrol rafinerileri:\n• **Batman:** Hammaddeye (petrol kuyularına) yakınlık nedeniyle kurulmuştur.\n• **İzmit (İpraş), İzmir (Aliağa), Kırıkkale (Orta Anadolu):** Ulaşım, tüketim merkezi ve pazar olanakları nedeniyle kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q14",
@@ -44583,7 +44583,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de rüzgar enerjisi potansiyeli en yüksek bölgeler; sürekli ve güçlü rüzgarlar alan **Ege ve Marmara** (Çanakkale, Balıkesir, İzmir, Manisa) bölgeleridir. Türkiye'nin ilk rüzgar santrali İzmir Çeşme (Alaçatı)'de kurulmuştur."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q15",
@@ -44620,7 +44620,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de jeotermal enerji fay hatlarına ve genç kırıklı volkanik arazilere bağlı olarak en çok **Ege Bölgesi'nde (Denizli - Sarayköy, Aydın - Germencik, Manisa - Alaşehir)** yaygındır. Elektrik üretimi, sera ve konut ısıtmasında kullanılır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q16",
@@ -44657,7 +44657,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de demir yolu ulaşım ağı engebeli yapısı nedeniyle her ilimize ulaşamaz. Demir yolu bağlantısı bulunmayan önemli kıyı kentlerimiz: **Antalya, Muğla, Trabzon, Rize, Giresun, Sinop, Çanakkale**'dir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q17",
@@ -44694,7 +44694,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nKültür turizmi ve UNESCO Dünya Miras Listesi'nde yer alan varlıklarımızdan **Göbeklitepe** Şanlıurfa'da, **Çatalhöyük** Konya'da, **Hattuşa** Çorum'da, **Efes** İzmir'de, **Nemrut Dağı Heykelleri** Adıyaman'da yer alır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q18",
@@ -44731,7 +44731,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'nin sınır komşuları ve sınır kapıları:\n• Kapıkule (Bulgaristan - en işlek sınır kapımız)\n• Sarp (Gürcistan)\n• Habur (Irak - Ortadoğu ticaret kapısı)\n• Gürbulak (İran - transit ticaret yolu)\n• İpsala (Yunanistan)\n• Dilucu (Nahçıvan/Azerbaycan)"
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q19",
@@ -44768,7 +44768,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de akarsuların hidroelektrik potansiyeli doğuya doğru gidildikçe yükselti ve eğimin artmasına bağlı olarak yükselir. Fırat ve Dicle nehirleri hidroelektrik üretiminde ilk sırada yer alır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q20",
@@ -44805,7 +44805,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de kıyı ve iç kesimler arasındaki yağış miktarı farkı yer şekillerinin dağ sıraları halinde kıyıya paralel uzanmasıyla ilgilidir. Rize yıllık 2400 mm yağışla Türkiye'nin en çok yağış alan merkezidir; Iğdır ve Konya ise en az yağış alan yerlerdendir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q21",
@@ -44842,7 +44842,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de karstik topoğrafya kalkerli arazinin yaygın olduğu Akdeniz Bölgesi'nde (Toros kuşağı) en gelişmiş düzeydedir. Lapya, dolin, uvala, polye, mağara, obruk ve düden karstik aşınım şekilleridir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q22",
@@ -44879,7 +44879,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de erozyonla mücadelede en etkili yöntemler; arazinin bitki örtüsüyle (ağaçlandırma) korunması, meraların korunması, tarlaların eğime dik sürülmesi ve nöbetleşe ekim yapılmasıdır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q23",
@@ -44916,7 +44916,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de göllerin oluşum tipleri tektonik, volkanik, karstik, buzul ve set gölleri olarak ayrılır. Van Gölü lav seti ve tektonik karma yapılıdır; Beyşehir en büyük tatlı su gölüdür."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q24",
@@ -44953,7 +44953,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de dış ticaret hacminde en büyük pay sanayi ürünlerine aittir. İthalatta enerji (petrol, doğalgaz), makine ve kimya ürünleri ilk sırada yer alırken; ihracatta motorlu kara taşıtları, hazır giyim/tekstil, demir-çelik ve beyaz eşya öne çıkar."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q25",
@@ -44990,7 +44990,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nBölgesel kalkınma projeleri (DOKAP, DAP, GAP, KOP, ZBK, YHGP) bölgeler arası gelişmişlik farklarını azaltmak, göçü önlemek ve yerel kaynakları harekete geçirmek amacıyla hazırlanmıştır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q26",
@@ -45027,7 +45027,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de seracılık faaliyetlerinin en yoğun yapıldığı bölge kış ılıklığı ve güneşlenme süresinin yüksek olduğu **Akdeniz Bölgesi (Antalya, Mersin, Adana)**'dir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q27",
@@ -45064,7 +45064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nKarasal iklimin hakim olduğu İç Anadolu'da ilkbahar aylarında ısınan havanın yükselmesiyle oluşan konveksiyonel yağışlara halk arasında **Kırkikindi Yağışları** denir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q28",
@@ -45101,7 +45101,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de dağ oluşumu (Orojenez) sonucunda kırılma ile oluşan dağlar horst-graben sistemini oluşturur (Kaz, Madra, Yunt, Bozdağlar, Aydın Dağları, Menteşe ve Amanos Dağları). Kıvrılma ile oluşanlar ise Kuzey Anadolu Dağları ve Toroslar'dır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q29",
@@ -45138,7 +45138,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nBakır madeninin çıkarıldığı ve işlendiği önemli merkezler: Artvin (Murgul), Kastamonu (Küre), Elazığ (Maden), Rize (Çayeli). Samsun ve Murgul'da bakır işletmeleri yer alır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q30",
@@ -45175,7 +45175,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de nüfus piramidinin tabanının daralması doğum oranlarının azaldığını, ortalama yaşam süresinin uzaması ise yaşlı nüfus oranının arttığını gösterir (Gelişmiş ülke nüfus yapısına geçiş süreci)."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q31",
@@ -45212,7 +45212,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de turizm gelirlerinin artırılmasında dört mevsime yayılan kış turizmi (Uludağ, Palandöken, Erciyes, Kartalkaya), yayla turizmi, inanç turizmi ve termal turizm çeşitliliği büyük rol oynamaktadır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q32",
@@ -45249,7 +45249,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de yaylacılık faaliyeti geleneksel olarak hayvancılık amaçlı başlasa da günümüzde özellikle Karadeniz ve Akdeniz'de turizm ve rekreasyon amaçlı önemli bir faaliyet haline gelmiştir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q33",
@@ -45286,7 +45286,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de fön rüzgarları dağ yamacını aşarak alçalan havanın sürtünmeyle her 100 metrede 1°C ısınması sonucu oluşur. Kışın kar erimelerine ve çığlara, yazın ise tarım ürünlerinin erken olgunlaşmasına veya kurumasına yol açar (Rize ve Iğdır mikroklimasında etkilidir)."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q34",
@@ -45323,7 +45323,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'nin yer altı suları ve kaynak türleri incelendiğinde; karstik kaynaklar (voklüz) suları kireçli ve soğuk sulardır; fay kaynakları ise suları sıcak ve mineralli sulardır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q35",
@@ -45360,7 +45360,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de orman varlığının coğrafi dağılışında yağış ve nemlilik belirleyicidir. En fazla orman Karadeniz ve Akdeniz bölgelerinde yer alırken; en az orman Güneydoğu Anadolu Bölgesi'ndedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q36",
@@ -45397,7 +45397,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de ipek böcekçiliği dut yaprağı ile beslenen ipek böceği tırtılı yetiştiriciliğidir. Diyarbakır, Antalya, Bursa ve Ankara'da yapılır. Son yıllarda suni ipek üretimi nedeniyle doğal ipek üretimi azalmıştır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q37",
@@ -45434,7 +45434,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de krom madeni çeliğin sertleştirilmesinde ve paslanmaz çelik üretiminde kullanılır. Elazığ (Guleman), Muğla (Fethiye-Köyceğiz) önemli yataklarıdır. Elazığ ve Antalya'da Ferrokrom fabrikaları vardır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q38",
@@ -45471,7 +45471,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de kıyı set gölleri (Lagün) dalga ve akıntı biriktirmesiyle oluşur: Terkos (Durusu), Büyükçekmece, Küçükçekmece ve Akyatan lagünleri buna örnektir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q39",
@@ -45508,7 +45508,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de göç hareketlerinde sanayileşmiş, iş olanakları geniş, eğitim ve sağlık imkanları yüksek büyükşehirler ve sanayi merkezleri en çok net göç alan yerlerdir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q40",
@@ -45545,7 +45545,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nDoğu Karadeniz Projesi (DOKAP), bölgedeki yayla koridoru (Yeşil Yol), balıkçılık, tarım (çay, fındık) ve ormancılığı geliştirerek kalkınmayı hedeflemektedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q41",
@@ -45582,7 +45582,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de yer şekillerinin akarsu rejimleri üzerindeki etkisi; akarsuların kış ve ilkbahar aylarında karların erimesi ve yağmurlarla debilerinin yükselmesi, yaz kuraklığında ise debilerinin düşmesi sonucunu doğurur."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q42",
@@ -45619,7 +45619,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de kıta sahanlığının en dar olduğu bölgeler dağların kıyıdan dik yükseldiği Doğu Karadeniz ve Batı Akdeniz (Teke Yarımadası) kıyılarıdır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q43",
@@ -45656,7 +45656,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de rüzgar erozyonunun en etkili olduğu yerler; bitki örtüsünün tahrip edildiği ve kurak iklimin sürdüğü Konya Karapınar çevresi ile Güneydoğu Anadolu ovalarıdır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q44",
@@ -45693,7 +45693,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nKOP (Konya Ovası Projesi), Göksu Nehri'nin sularını Mavi Tünel vasıtasıyla Konya Kapalı Havzası'na aktararak yeraltı suyu seviyesini yükseltmeyi ve sulu tarımı yaygınlaştırmayı amaçlamaktadır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q45",
@@ -45730,7 +45730,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de nükleer enerji santrali projeleri Mersin (Akkuyu) ve Sinop'ta yürütülmektedir. Akkuyu Nükleer Güç Santrali Türkiye'nin ilk nükleer santralidir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q46",
@@ -45767,7 +45767,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de güneş enerjisi potansiyeli güneyden kuzeye gidildikçe enlem ve bulutluluk farkı nedeniyle azalır. En yüksek potansiyel Güneydoğu ve Akdeniz'de; en düşük potansiyel ise bulutluluğun fazla olduğu Karadeniz'dedir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q47",
@@ -45804,7 +45804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de büyükbaş sığır hayvancılığı içerisinde ahır (besi) hayvancılığı pazara yakınlık ve tüketim talebi nedeniyle büyük kentlerin çevresinde (Marmara, Ege, İç Anadolu) gelişmiştir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q48",
@@ -45841,7 +45841,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de volkanik dağların üzerinde krater gölleri, maar gölleri ve kalderalar yer alır. Nemrut Kalderası (Bitlis) ve Meke Maar Gölü (Konya) en bilinen örneklerdir."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q49",
@@ -45878,7 +45878,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de deniz turizmi sezonu Akdeniz ve Ege'de güneşlenme süresi ve deniz suyu sıcaklığının yüksek olması nedeniyle en uzundur (Mayıs-Ekim arası 6 ay)."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q50",
@@ -45915,7 +45915,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de toprak tiplerinin dağılışında Terra-Rossa Akdeniz'de maki-kalker üzerinde; Çernezyom Erzurum-Kars'ta çayır altında; Vertisol Trakya'da kil üzerinde; Alüvyal ise deltalar üzerinde yer alır."
+    "explanation": ""
   },
   {
     "id": "cogr_test_cikmis_secki-q51",
@@ -45952,7 +45952,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'nin transit boru hatları (BTC - Bakü Tiflis Ceyhan, TANAP - Trans Anadolu Doğalgaz Boru Hattı, Mavi Akım, TürkAkım) Türkiye'yi Doğu-Batı enerji koridorunda stratejik bir merkez (enerji köprüsü ve ticaret üssü) haline getirmiştir."
+    "explanation": ""
   },
   {
     "id": "egitim_prog_gel_1_q1",
