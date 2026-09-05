@@ -3232,9 +3232,17 @@ class EKYSApp {
       `;
     }).join('');
 
-    // Çözüm / Açıklama Kutusu (Tamamen Kaldırıldı)
+    // Çözüm / Açıklama Kutusu
     const expBox = document.getElementById('quiz-explanation-box');
-    if (expBox) expBox.style.display = 'none';
+    const expText = document.getElementById('quiz-explanation-text');
+    if (expBox) {
+      if (isAnswered && q.explanation && q.explanation.trim() && this.activeQuiz.mode === 'practice') {
+        if (expText) expText.innerHTML = q.explanation.replace(/\n/g, '<br>');
+        expBox.style.display = 'block';
+      } else {
+        expBox.style.display = 'none';
+      }
+    }
 
     // Gezinti Çizelgesi (Matrix)
     this.renderQuestionMatrix();
