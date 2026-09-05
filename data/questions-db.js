@@ -2255,7 +2255,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Orta Asya'nın Sınırları: İlk Türk ana yurdu olan Orta Asya; kuzeyde Sibirya ve Altay Dağları, güneyde Tanrı Dağları ve Hindikuş, batıda Hazar Denizi ve Aral Gölü, doğuda ise Kingan Dağları ile çevrilidir.\nİber Yarımadası: Güneybatı Avrupa'da (İspanya-Portekiz) yer alır; Orta Asya coğrafyası ile hiçbir ilgisi yoktur."
   },
   {
     "id": "tarih1-q2",
@@ -2292,7 +2292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Medreseler: İslamiyet'in kabulünden sonra Türk-İslam devletlerinde (Karahanlılar, Büyük Selçuklu vb.) kurulan yükseköğretim kurumlarıdır. İslamiyet öncesi Orta Asya Türk tarihinde medrese bulunmaz.\nYazılı taşlar (yazıtlar), madenî paralar, kurganlar (oda mezarlar) ve balbal mezar taşları ise İslam öncesi dönemin arkeolojik bulgularıdır."
   },
   {
     "id": "tarih1-q3",
@@ -2329,7 +2329,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Göçebe (bozkır) yaşam tarzı Türklerin tüm hayatını şekillendirmiştir:\nI. Sanat: Taşınabilir çadır, maden, deri ve hayvan üslubu sanatı gelişmiştir.\nII. Askerlik: Sürekli hareket halinde olma ve korunma ihtiyacı ordu-millet anlayışını doğurmuştur.\nIII. Hukuk: Yerleşik hapis cezaları yerine kısa süreli hapis ve sözlü hukuk kuralları (töre) uygulanmıştır.\nDolayısıyla her üç alan da göçebe yaşamdan doğrudan etkilenmiştir (I, II ve III)."
   },
   {
     "id": "tarih1-q4",
@@ -2366,7 +2366,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Sultan: İslamiyet'in kabulünden sonra Türk-İslam hükümdarları tarafından (ilk kez Gazneli Mahmut) kullanılan Arapça kökenli İslami bir unvandır.\nKağan, İdikut, İlteber, Hakan, Yabgu, Han, Şanyü ve Tanhu ise İslamiyet öncesi Türk hükümdarlık unvanlarıdır."
   },
   {
     "id": "tarih1-q5",
@@ -2403,7 +2403,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Kam (Şaman / Baksı): İslamiyet öncesi Türklerde din adamıdır. Eski Türk devletlerinde teokratik yönetim anlayışı bulunmadığı için din adamlarının siyasi karar organı olan Kurultay'a katılma yetkisi yoktur.\nBoy beyleri, Hakan, Hatun ve ordu komutanları Kurultay'ın doğal üyeleridir (Toygun)."
   },
   {
     "id": "tarih1-q6",
@@ -2440,7 +2440,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Ayukı: İslamiyet öncesi Türk devletlerinde 'Hükümet' (Bakanlar Kurulu) anlamına gelen terimdir. Hükümetin başında 'Aygucı' (Başbakan / Vezir) yer alır.\nBuyruk bakan, Tudun vergi memuru / vali, Bitikçi kâtip, Tamgacı ise mühürdardır."
   },
   {
     "id": "tarih1-q7",
@@ -2477,7 +2477,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Göçebe yaşam tarzında mülkiyet devlete ve boylara ait olduğu için toprak ağalığı ve kölelik gibi sınıfsal farklılıklar oluşmamıştır (I). Sürekli yer değiştirme zorunluluğu askeri teşkilatın ve süvari birliklerinin güçlenmesini sağlamıştır (III). Mimari ise yerleşik hayat olmadığı için göçebe dönemde gelişmemiştir (II). Bu nedenle I ve III göçebe yaşamın sonucudur."
   },
   {
     "id": "tarih1-q8",
@@ -2514,7 +2514,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Tamu: İslamiyet öncesi Türk inancında 'Cehennem' anlamına gelir. Cennet anlamına gelen kavram ise 'Uçmağ'dır.\nÖrgin (Taht), Tudun (Vergi memuru / vali), Tamgacı (Mühürdar) ve Ağılığ (Hazine görevlisi) eşleştirmeleri ise doğrudur. Bu yüzden Tamu - Cennet eşleştirmesi yanlıştır."
   },
   {
     "id": "tarih1-q9",
@@ -2551,7 +2551,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Baksı (Kam / Şaman): Din adamı, halk hekimi veya ozandır; devletin idari ve bürokratik mekanizmasında yer almaz.\nBitikçi (kâtip), Ayukı (hükümet), Tudun (idari yönetici / vergi memuru) ve Hükümdar Türk bürokrasisinin temel unsurlarıdır."
   },
   {
     "id": "tarih1-q10",
@@ -2588,7 +2588,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Kurultay (Toy / Kengeş):\nI. Yasama: Töre kurallarını belirleme ve kanun koyma yetkisi vardır.\nII. Askerî: Savaş ve barış kararları alma, orduyu denetleme yetkisi vardır.\nIII. Siyasi: Kağanı seçme, devlet politikalarını tayin etme ve dış ilişkileri yönetme yetkisine sahiptir.\nDolayısıyla her üç alanda da (I, II ve III) en üst karar organıdır."
   },
   {
     "id": "tarih1-q11",
@@ -2625,7 +2625,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Tıraz: İslamiyet'in kabulünden sonra Abbasi halifeleri ve İslam hükümdarları tarafından hükümdarlık alameti olarak giyilen yazılı / işlemeli İslami hilat ve kaftandır.\nNevbet (davul), Berge (kamçı), Sorguç (kotuz/tüy) ve Örgin (taht) ise İslamiyet öncesi Türk hükümdarlık sembolleridir."
   },
   {
     "id": "tarih1-q12",
@@ -2662,7 +2662,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "İslamiyet öncesi Türk devletleri:\nI. Monarşik: Devletin başında tek bir hükümdarın (Kağan) mutlak otoritesi bulunur.\nII. Teokratik değildir: Din kurallarına dayanmaz, din adamlarının yönetimde söz hakkı yoktur.\nIII. Federal: Doğu-Batı ikili teşkilatlanması ve boylar federasyonu esasına dayanır.\nDolayısıyla I ve III yönetim anlayışları görülür."
   },
   {
     "id": "tarih1-q13",
@@ -2699,7 +2699,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Göçebe yaşam koşulları sürekli çadırda yaşamayı gerektirdiği için kalıcı tapınaklar, saraylar, surlar ve taş yapılar inşa edilememiş; bu durum mimarinin gelişimini kısıtlamıştır. Göçebe yaşam mimarinin gelişimine olumlu değil, engelleyici bir etki yapmıştır."
   },
   {
     "id": "tarih1-q14",
@@ -2736,7 +2736,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Bitikçi: İslamiyet öncesi Türk devletlerinde devletin iç ve dış tüm resmi yazışmalarını yürüten, fermanları yazan ve Kurultay'ın kâtibi olarak görev yapan bürokratik görevlidir."
   },
   {
     "id": "tarih1-q15",
@@ -2773,7 +2773,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "İslamiyet öncesi Türklerde belirli bir dini kitlelere zorla yayma misyonu (cihat / tebliğ anlayışı) yoktur. Türk cihan hâkimiyeti ülküsü dini değil, siyasi bir dünya nizamı kurma ülküsüdür.\nMilleti doyurmak, giydirmek, orduyu yönetmek, töreyi uygulamak ve adaleti sağlamak kağanın asli görevleridir."
   },
   {
     "id": "tarih1-q16",
@@ -2810,7 +2810,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Tuğ: İslamiyet öncesi Türk ordusunda bugünkü flama ve sancak yerine kullanılan, ucuna at kuyruğu veya kurt tüyü bağlanan hükümdarlık ve bağımsızlık sembolüdür."
   },
   {
     "id": "tarih1-q17",
@@ -2847,7 +2847,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Eski Türk Toplumsal Yapısı:\n- Oguş = Aile\n- Urug = Sülale (Aileler Birliği)\n- Boy (Bod) = Kabile\n- Budun = Millet (Halk)\n- İl (El) = Devlet\nBu sıralamaya göre 'Budun' kavramının karşılığı 'Millet'tir."
   },
   {
     "id": "tarih1-q18",
@@ -2884,7 +2884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Göçebe yaşam tarzında toprak mülkiyeti şahıslara değil devlete/boylara aitti. Toprak ağalığı, asiller ve köle emeği gibi feodal düzen unsurları ortaya çıkmadığı için toplumda sınıflaşma ve kast sistemi görülmemiştir."
   },
   {
     "id": "tarih1-q19",
@@ -2921,7 +2921,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Kut inancı gereği 'Ülke topraklarının hanedan üyelerinin ortak malı sayılması' anlayışı (geleneksel Türk veraset sistemi), hükümdar öldükten sonra tüm erkek hanedan üyelerinin tahtta hak iddia etmesine, iç savaşlara ve Türk devletlerinin kısa sürede bölünerek yıkılmasına neden olmuştur."
   },
   {
     "id": "tarih2-q1",
