@@ -35,7 +35,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "1. Mutlak (Matematik) Konum:\n- I. Yer Çekimi: Dünyanın geoit şekli ve enlem etkisi nedeniyle Ekvator'dan kutuplara ve deniz seviyesine yaklaştıkça yer çekimi artar. Trabzon'un kuzeyde ve deniz seviyesinde olması yer çekimini artırır.\n- IV. Güneşin Doğuşu: Dünyanın batıdan doğuya dönmesi ve boylam farkları sebebiyle doğuda yerel saat daima ileridir.\n\n2. Göreceli (Özel) Konum:\n- II. Aynı Anda Farklı Mevsimler: Kısa mesafelerde yükselti ve yerel şartların değişmesinden kaynaklanır.\n- III. Orografik Yağışlar: Dağların kıyıya paralel uzanması ve yükseltinin sonucudur.\nBu nedenle I ve IV Mutlak, II ve III Görecelidir."
   },
   {
     "id": "cogr1-q2",
@@ -72,7 +72,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Kutuplara veya Ekvator'a olan uzaklık/konum bir yerin enlem derecesini (matematik/mutlak konumunu) ifade eder.\nKaralara, denizlere, boğazlara ve komşu ülkelere göre konum ile yükselti ve yer altı kaynakları ise özel (göreceli) konumu belirler."
   },
   {
     "id": "cogr1-q3",
@@ -109,7 +109,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Kutup Yıldızı (Polaris) yalnızca Kuzey Yarımküre'den görülür ve bir yerdeki görünüm açısı doğrudan o yerin enlem derecesine eşittir.\nSinop (42° K) Türkiye'nin en kuzeyinde yer aldığı için Kutup Yıldızı'nı en büyük açıyla görür; bu durum doğrudan enlem (kuzeyde olma) ile açıklanır."
   },
   {
     "id": "cogr1-q4",
@@ -146,7 +146,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Türkiye'nin matematiksel koordinatları: 36° - 42° Kuzey Paralelleri ile 26° - 45° Doğu Meridyenleridir.\n45° Doğu (Iğdır uç noktası) ve 40° Kuzey koordinatı bu sınırlar içinde yer alır."
   },
   {
     "id": "cogr1-q5",
@@ -183,7 +183,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Türkiye'nin Orta Kuşakta (Ilıman Kuşak) yer almasının sonuçları A-B-C-D kuralıdır:\n1. Akdeniz İklimi (A) görülmesi\n2. Batı Rüzgarları (B) etkisinde kalması\n3. Cephe Yağışları (C) oluşması\n4. Dört Mevsimin (D) belirgin yaşanması\nVerilen öncüllerde Akdeniz iklimi ve Batı rüzgarları olmak üzere 2 tanesi orta kuşağın sonucudur. Diğerleri özel konuma aittir."
   },
   {
     "id": "cogr1-q6",
@@ -220,7 +220,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Türkiye'de tek bir ulusal saatin kullanılması (+3 Iğdır / 45°D), Doğu-Batı yönünde meridyen farkının az olmasıyla (boylamla) ve idari kararla ilgilidir; enlemle hiçbir ilişkisi yoktur."
   },
   {
     "id": "cogr1-q7",
@@ -257,7 +257,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Ekvator'dan kutuplara gidildikçe Güneş ışınlarının geliş açısı küçülür, ışınların atmosferde katettiği yol uzar ve tutulma (enerji kaybı) oranı artar.\nHaritada en kuzeyde yer alan Adapazarı'nda tutulma oranı yıl boyunca en fazladır."
   },
   {
     "id": "cogr1-q8",
@@ -294,7 +294,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Dünyanın küresel şekli sebebiyle paralel dairelerinin boyları Ekvator'dan kutuplara doğru kısalır. En uzun paralel Ekvator'dur.\nTürkiye'de Ekvator'a en yakın (en güneyde) olan Hatay'dan (36°K) geçen paralel dairesinin çevre uzunluğu diğer illerden daha uzundur."
   },
   {
     "id": "cogr1-q9",
@@ -331,7 +331,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Türkiye'nin her yerinde tek bir ortak/ulusal saat (+3 Saat Dilimi - 45° Doğu Iğdır) uygulandığı için Bolu'dan Muğla'ya giden bir gözlemcinin kolundaki ulusal saatte hiçbir değişiklik olmaz.\nEnlem farkından dolayı gölge boyu ve boylam farkından dolayı yerel saat ise değişir."
   },
   {
     "id": "cogr1-q10",
@@ -368,7 +368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Ekvator üzerinde yıl boyunca gece ve gündüz süreleri daima 12'şer saatle eşittir (fark 0'dır). Kutuplara doğru gidildikçe gece-gündüz süre farkı artar.\nHaritada Ekvator'a en yakın olan Hatay'da yıl boyunca gece ile gündüz arasındaki zaman farkı en azdır."
   },
   {
     "id": "cogr1-q11",
@@ -405,7 +405,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Matematik (Mutlak) Konum; paralel (Ekvator'a olan uzaklık - I) ve meridyen (Başlangıç meridyeni ile zaman farkı - III) koordinatlarıyla belirlenir.\nOrtalama yükselti ve yüz ölçümü ise özel konuma aittir."
   },
   {
     "id": "cogr1-q12",
@@ -442,7 +442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Yıl içinde belirgin 4 mevsimin ve mevsimsel sıcaklık farklarının yaşanması Türkiye'nin Orta Kuşakta (36°-42°K) yer aldığının kesin matematiksel kanıtıdır.\n(Aynı gün içinde farklı mevsim yaşanması ise özel konumdur)."
   },
   {
     "id": "cogr1-q13",
@@ -479,7 +479,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Kutuplara doğru çizgisel dönüş hızı azaldığı için Güneş daha yavaş doğar ve batar; bu durum alacakaranlık (tan ve gurup) süresinin uzamasına yol açar.\nSeçeneklerde en kuzeyde yer alan Ardahan'da alacakaranlık süresi en uzundur."
   },
   {
     "id": "cogr1-q14",
@@ -516,7 +516,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Türkiye'nin Asya, Avrupa ve Afrika kıtalarının birbirine en çok yaklaştığı stratejik noktada bulunması özel (göreceli) konumun sonucudur.\nDört mevsim, gece-gündüz farkı, güney yamaçların bakı olması ve yer çekimi ise matematik konuma aittir."
   },
   {
     "id": "cogr1-q15",
@@ -553,7 +553,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "1. Alacakaranlık süresinin kısalması: Çizgisel hızın arttığını, yani Ekvator'a (güneye) gidildiğini gösterir.\n2. Yerel saatin daha geri olması: Batıya gidildiğini gösterir.\nAnkara'dan güneybatıya doğru gidildiğinde Fethiye'ye ulaşılır."
   },
   {
     "id": "cogr1-q16",
@@ -590,7 +590,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Türkiye'nin ulusal saati 45° Doğu Iğdır meridyenine göre ayarlanır. Ulusal saat ile yerel saat farkının en az olması için Iğdır meridyenine en yakın (en doğudaki) il seçilmelidir.\nSeçenekler arasında en doğuda yer alan il Artvin'dir."
   },
   {
     "id": "cogr1-q17",
@@ -627,7 +627,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Güneyden kuzeye gidildikçe:\n- Çizgisel hız azaldığı için gurup ve tan süresi uzar (II beklenmez/yanlıştır).\n- Güneş ışınlarının geliş açısı küçülür (IV beklenmez/yanlıştır).\n- Yer çekimi ve gölge boyu ise artar (I ve III doğrudur).\nBeklenmeyen durumlar II ve IV'tür."
   },
   {
     "id": "cogr1-q18",
@@ -664,7 +664,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Aynı enlem üzerindeki noktalarda (Çanakkale, Ankara, Erzurum); Güneş ışınlarının geliş açısı, çizgisel hız, Ekvator'a uzaklık ve öğle vakti gölge boyu aynıdır.\nAncak batıdan doğuya gidildikçe yükselti arttığı için ortalama yükseltileri aynı değildir (özel konum)."
   },
   {
     "id": "cogr1-q19",
@@ -701,7 +701,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Meridyenler kutuplara doğru birbirine yaklaştığı için aynı boylam üzerindeki noktaların Başlangıç Meridyeni'ne (Greenwich) olan kuş uçuşu kilometre uzaklığı eşit değildir (kuzeydeki il daha yakındır).\nAncak aynı boylam üzerindeki illerde öğle vakitleri, yerel saatler ve gölgenin en kısa olduğu anlar yıl boyunca aynıdır."
   },
   {
     "id": "cogr1-q20",
@@ -738,7 +738,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Aynı anda farklı mevsim koşullarının yaşanabilmesi (Antalya'da denize girilirken Erzurum'da kar yağması); kısa mesafelerde yükselti, denizellik ve yer şekillerinin değişmesinin (özel konumun) sonucudur; enlemle açıklanamaz."
   },
   {
     "id": "cogr2-q1",
