@@ -1,0 +1,182 @@
+Değerli arkadaşlarım, kıymetli hocalarım, hepinize iyi akşamlar.
+
+Geçtiğimiz hafta bildiğiniz üzere coğrafi konum ünitemizi bitirmiş; yer şekillerine giriş yaparak jeolojik zamanları, orojenez ve epirojenezi işlemiştik. Bu dersimizde ise iç kuvvetlerin son ayağı olan depremler ve volkanizmayı tamamlayacak, ardından dış kuvvetlere geçip akarsular, rüzgarlar ve yer altı sularını detaylandıracağız. Dersimizin son bölümünde de hem birinci hem de ikinci üniteden ÖSYM tarzı pekiştirme sorularımızı çözeceğiz. Not defterleriniz ve haritalarınız hazırsa başlayalım.
+
+---
+
+### 1. TÜRKİYE’DE DEPREM BÖLGELERİ VE FAY HATLARI
+
+ÖSYM'nin en sevdiği soru kalıplarından biri, hangi ilin hangi fay kuşağında yer aldığı ya da deprem riskinin nerede yüksek, nerede düşük olduğudur. Ülkemizde üç ana fay kuşağı bulunur:
+
+* **Kuzey Anadolu Fay Hattı (KAF):** Saros Körfezi ve Tekirdağ açıklarından başlar; Çanakkale ve Balıkesir’in kuzeyinden Marmara Denizi'ni geçip Yalova, Kocaeli, Sakarya, Düzce, Bolu hattını izler. Çankırı, Kastamonu’nun güneyi, Çorum, Amasya, Tokat (Niksar Ovası), Erzincan, Erzurum ve Kars üzerinden Van Gölü'nün kuzeyine (Erciş civarına) kadar uzanır.
+* **Batı Anadolu Fay Hattı (BAF):** Ege Bölgesi'ndeki graben hatları boyunca parçalı ve oldukça hareketli bir yapı sunar. Çanakkale ve Balıkesir’in iç kısımları, Manisa (Soma, Kula), İzmir (Seferihisar), Aydın, Denizli, Kütahya (Emet, Simav), Uşak, Afyonkarahisar ile Burdur-Isparta hattını içine alır.
+* **Doğu Anadolu Fay Hattı (DAF):** Hatay (Amik Ovası ve Nur Dağları çevresi) üzerinden giriş yapar. Osmaniye, Gaziantep, Kahramanmaraş, Adıyaman, Malatya, Elazığ, Tunceli ve Bingöl hattını izler. Bingöl Karlıova civarında KAF ile kesişir; ardından Muş, Bitlis, Siirt, Şırnak ve Hakkâri üzerinden devam eder.
+
+**Deprem Riskinin En Düşük Olduğu Alanlar (Masif ve Durgun Sahalar):**
+
+> *"Deprem riski düşüktür" demek, orada asla sarsıntı hissedilmez demek değildir. Çevredeki büyük depremlerin dalgaları bu alanları da etkileyebilir.*
+
+* Marmara’da **Yıldız Dağları (Kırklareli)** çevresi,
+* Batı Karadeniz'de **Sinop** ve **Kastamonu** kıyı kuşağı,
+* **Doğu Karadeniz kıyıları** (Rize, Trabzon, Artvin kıyı bandı),
+* İç Anadolu'da **Tuz Gölü çevresi, Konya ve Karaman**,
+* Akdeniz'de **Taşeli Platosu** ve **Mersin** çevresi,
+* Güneydoğu Anadolu'da **Mardin Eşiği ve Şanlıurfa** platosu.
+
+---
+
+### 2. TÜRKİYE’NİN VOLKANİK ALANLARI VE DAĞLARI
+
+Günümüzde ülkemizde faal/aktif bir yanardağ bulunmamaktadır; ancak volkanik alanlarımız jeolojik açıdan gençtir.
+
+* **Doğu Anadolu Volkanları:** Ağrı, Tendürek, Süphan ve Nemrut.
+* *Önemli Not:* **Ağrı Dağı**, 1840 yılındaki çıkışıyla Türkiye'de **en son püsküren volkan** kabul edilmektedir (Eski kaynaklardaki Nemrut bilgisini güncelliyoruz).
+
+
+* **Güneydoğu Anadolu (Karacadağ):** Türkiye'nin tek **kalkan (yayvan) volkanı**dır. Lavları çok akışkan olduğu için etrafa yayılmış ve basık bir kubbe oluşturmuştur.
+* **İç Anadolu Volkanları:** Erciyes, Hasan Dağı, Melendiz, Karadağ ve Karacadağ.
+* *Meke Mağarı (Konya):* Eski adıyla "Dünyanın Nazar Boncuğu" olarak bilinen volkanik patlama çukurudur (ne yazık ki günümüzde suları büyük oranda çekilmiştir).
+
+
+* **Ege (Manisa - Kula):** Türkiye’nin ve Anadolu’nun **en genç volkanik sahası**dır. Ülkemizin ilk UNESCO tescilli Jeopark alanıdır ("Kuladokya" olarak da anılır).
+* **Uludağ (Bursa - Batolit):** Uludağ klasik bir volkanik dağ değildir; bir **iç püskürük (derinlik volkanizması / batolit)** kütlesidir. Magma yüzeye çıkamadan yerin altında soğumuş, üstteki tabakaların aşınmasıyla ortaya çıkmıştır. Dolayısıyla sönmüş bir yanardağ değildir, hiç patlamamıştır.
+* **Özel Alanlar:**
+* *Hatay Hassa (Hassa Mağarası):* Türkiye’nin tek **volkan tüpü mağarası**dır.
+* *Toprak:* Volkanik arazilerde kumlu ve tüflü yapıda oluşan azonal topraklara **regosol** adı verilir.
+
+
+
+---
+
+### 3. DIŞ KUVVETLER
+
+Dış kuvvetler enerjilerini doğrudan **Güneş**'ten alırlar.
+
+* **Türkiye’de etkisi en fazla olan dış kuvvet:** **Akarsular** (engebeli ve genç yapımızdan ötürü).
+* **Türkiye’de etkisi en az olan dış kuvvet:** **Buzullar** (orta kuşakta ve deniz seviyesine yakın olmamız nedeniyle sadece yüksek dağlarda etkilidir).
+
+---
+
+### 4. AKARSULAR VE AKARSU ŞEKİLLERİ
+
+#### A. Akarsularımızın Genel Özellikleri ve Denge Profili
+
+* **Denge Profili:** Bir akarsuyun yatağını taban seviyesine (deniz seviyesine) kadar aşındırıp düzleştirmesidir. Türkiye, III. Jeolojik Zaman (Tersiyer) sonu ve IV. Zaman başında toptan yükseldiği için **genç oluşumlu** bir ülkedir. Bu nedenle **Türkiye akarsuları denge profiline ulaşmamıştır**. Akış hızları, aşındırma güçleri ve hidroelektrik potansiyelleri yüksektir; üzerlerinde ulaşım ve taşımacılık yapılamaz.
+* *İstisna:* Üzerinde tomruk ve yük taşımacılığı yapılabilen tek akarsuyumuz **Bartın Çayı**dır.
+
+
+* **Peneplen (Yontukdüz):** Arazinin aşınarak deniz seviyesinde dalgalı bir düzlük halini almasıdır. Genç ülke olduğumuz için tam peneplenleşmiş arazimiz yoktur. Ancak deniz seviyesine en çok yaklaşan **Ergene Havzası** ve **Çatalca-Kocaeli Platosu** peneplenleşmeye en yakın sahalardır.
+
+#### B. Önemli Akarsularımız ve Ayırt Edici Nitelikleri
+
+* **Kaynağını Dışarıdan Alanlar:** Meriç (Bulgaristan'dan doğar), Asi (Lübnan'dan doğar).
+* **Dört Coğrafi Bölgeden Geçen:** Sakarya Nehri.
+* **Uzunluk Kıyaslaması:**
+* *Türkiye sınırları içindeki en uzun akarsu:* **Kızılırmak**.
+* *Türkiye topraklarından doğup/geçen toplam uzunluğu en fazla olan akarsu:* **Fırat Nehri**.
+
+
+* **Derin Kanyon ve Yüksek Barajlar:** Çoruh Nehri (üzerinde gövde yüksekliği devasa boyutlarda olan **Deriner** ve **Yusufeli Barajları** yer alır; hidroelektrik potansiyeli çok yüksektir).
+* **Kapalı Havza Akarsuları:** **Aras ve Kura** (sularını açık denizlere değil, kapalı bir göl olan Hazar Gölü’ne dökerler).
+* **En Temiz Kalan Akarsu:** Sanayileşmeden uzak olduğu için Hakkâri çevresindeki **Zap Suyu**.
+* **Karstik Beslenmeli Akarsu:** **Manavgat Çayı**. Yaz aylarında Akdeniz'deki diğer dereler kururken Manavgat gürül gürül akar; çünkü yer altındaki kireçtaşı çatlaklarından çıkan karstik kaynaklarla (**voklüz**) beslenir.
+* **Yatağı Değiştirilen:** İzmir Körfezi'ni alüvyonlarla doldurmasını ve taşkın yapmasını engellemek için Osmanlı’dan bu yana yatağı değiştirilen akarsu **Gediz**dir.
+
+#### C. Akarsu Aşındırma ve Biriktirme Şekilleri
+
+* **Vadi Türleri:**
+* *Çentik Vadi (V profilli):* Derin ve dik yamaçlıdır; akış hızı yüksektir. Karadeniz ve Doğu Anadolu’da yaygındır. Ani yağışlarda şiddetli **sel** riski taşır.
+* *Kanyon Vadi:* Basamaklı yamaçlara sahiptir; karstik sahalarda görülür (özellikle Akdeniz).
+* *Boğaz (Yarma) Vadi (U profilli):* Akarsuyun dağ sıralarını enine yarıp geçtiği geçit vadilerdir (Kızılırmak, Yeşilırmak boyları).
+* *Geniş / Alüvyal Tabanlı Vadi:* Eğimin azaldığı yerlerde görülür (Ege ovaları). Taban düzleştiği için tarım alanlarını suların basmasıyla **taşkın** afeti yaşanır.
+
+
+* **Peri Bacaları:**
+* Oluşumunda hem **iç kuvvet (volkanizma: tüf ve bazalt)** hem de **dış kuvvetler (akarsu, sel suları ve rüzgar)** birlikte etkilidir. Formülümüz: **V-A-R** (Volkanizma, Akarsu, Rüzgar). Rüzgar burada doğrudan değil, dolaylı aşındırma yapar.
+* Başta Nevşehir (Kapadokya) olmak üzere Erzurum-Narman (kırmızı peri bacaları), Manisa-Kula ve Van çevresinde görülür.
+
+
+* **Kırgıbayır (Badlands):** Bitki örtüsünün cılız olduğu, kurak ve eğimli yamaçların sel suları tarafından yarılmasıyla oluşan yaruntulardır (İç Anadolu, Kayseri, Niğde).
+* **Menderes (Büklüm):** Eğimin azaldığı yerlerde akarsuyun "S" çizerek akmasıdır. Menderes çizen akarsuyun boyu uzar, akış hızı ve aşındırma gücü azalır, biriktirme faaliyetleri artar.
+
+---
+
+### 5. TÜRKİYE’NİN DELTA OVALARI VE OLUŞUM ŞARTLARI
+
+Akarsuların taşıdıkları alüvyonları denize döküldükleri kıyılarda biriktirmesiyle oluşan son derece verimli tarım alanlarıdır.
+
+**Delta Oluşumu İçin Gerekli Şartlar:**
+
+1. Kıyının **sığ** olması (derin olmaması) ve **kıta sahanlığının (şelf alanının) geniş** olması.
+2. Akarsuyun bol miktarda **alüvyon** taşıması.
+3. Kıyıda kuvvetli **dalga, dip akıntısı ve gelgit (medcezir)** genliğinin bulunmaması.
+4. Kıyıda eriyebilen **karstik arazinin olmaması** (çünkü eriyen kayaçlar çöker, birikme yapılamaz).
+
+**Başlıca Delta Ovalarımız:**
+
+* **Karadeniz:** Çarşamba (Yeşilırmak), Bafra (Kızılırmak).
+* **Ege:** Dikili (Bakırçay), Menemen (Gediz), Selçuk (Küçük Menderes), Balat (Büyük Menderes).
+* **Akdeniz:** Çukurova (Seyhan ve Ceyhan birleşimi – En büyük deltamız), Silifke (Göksu).
+
+> *Dikkat:* Sakarya Nehri çok alüvyon taşımasına rağmen Karadeniz'deki güçlü dip akıntıları ve kıyı derinliği yüzünden büyük bir delta oluşturamamıştır. Amik, Konya, Ergene veya Bursa ovaları delta değil; tektonik veya karstik kökenli iç ovalardır.
+
+---
+
+### 6. TÜRKİYE’NİN PLATOLARI
+
+Plato; akarsular tarafından derin vadilerle yarılmış, çevresine göre yüksekte kalan düzlüklerdir.
+
+* **Aşınım (Aşınma) Platoları:** Çatalca-Kocaeli, Perşembe Platosu (Ordu).
+* **Lav (Volkanik) Platoları:** Erzurum-Kars ve Ardahan Platoları (yaz yağışları, çernezyom topraklar ve büyükbaş hayvancılık).
+* **Karstik Platolar:** Teke ve Taşeli Platoları, kısmen Obruk Platosu (kireçtaşı yapılı, geçirgen, tarımsal verimi düşük, kıl keçisi yetiştiriciliği yaygın).
+* **Yatay Duruşlu (Tabaka Düzlüğü) Platolar:** İç Anadolu ve Güneydoğu'dakiler (Cihanbeyli, Haymana, Bozok, Uzunyayla, Yazılıkaya, Gaziantep, Şanlıurfa, Adıyaman). Küçükbaş hayvancılık ve tahıl tarımı yaygındır.
+
+---
+
+### 7. RÜZGARLARIN OLUŞTURDUĞU YER ŞEKİLLERİ
+
+Rüzgar aşındırma ve biriktirmesi doğrudan **kuraklık ve yarı kuraklık** ile bağıntılıdır.
+
+* **Özellikler:** Bitki örtüsü cılızdır, mekanik (fiziksel) ufalanma fazladır, günlük sıcaklık farkları yüksektir, erozyon şiddetlidir. Bitkiler kök sistemlerini yerin derinliklerine doğru geliştirmiştir.
+* **Görülen Şekiller:**
+* *Aşındırma:* Mantarkaya (Şeytan masası), Şahit Tepe/Kaya, Tafoni (küçük rüzgar oyukları).
+* *Biriktirme:* Kumullar (Konya-Karapınar sahası) ve Lös (rüzgarın taşıdığı verimli ince topraklar).
+
+
+* **Türkiye’de Görülmeyen:** **Barkan** (hilal şeklindeki kum tepeleri). Çünkü ülkemizde gerçek anlamda çöl ekosistemi bulunmamaktadır.
+
+---
+
+### 8. YER ALTI SULARI VE KAYNAK TÜRLERİ
+
+* **Artezyen Kaynağı (Soğuk Su):** İki geçirimsiz tabaka arasındaki geçirimli tabakada biriken suların insanlar tarafından sondaj kuyuları açılarak basınçla yüzeye çıkarılmasıdır. Beşeri müdahale vardır. Türkiye'de tarımda ve hayvancılıkta suya duyulan ihtiyaçtan dolayı en yaygın **İç Anadolu** gibi kurak/yarı kurak bölgelerde açılır.
+* **Karstik Kaynak / Voklüz (Soğuk Su):** Kireçtaşı, kalker ve jips gibi kolay eriyen arazilerdeki yer altı boşluklarından çıkan sulardır. Suları kireçlidir. Akdeniz Bölgesi’nde çok yaygındır; Manavgat Çayı’nı besleyen ana su kaynağıdır.
+* **Fay Kaynağı / Jeotermal (Sıcak Su):** Kırık hatları boyunca derinden gelen, mineral bakımından zengin, sıcaklığı ve debisi yıl boyunca kolay kolay değişmeyen sulardır.
+* *Kullanım Alanları:* Elektrik üretimi (Denizli-Sarayköy, Aydın-Germencik santralleri), kaplıca/termal sağlık turizmi (Afyon, Bursa, Kütahya, Balıkesir, Yalova) ve konut/sera ısıtması (İzmir-Balçova, Denizli-Buharkent).
+* *Uyarı:* Fay kaynaklarının suları kükürt ve ağır mineraller içerdiği için **içme suyu olarak kesinlikle kullanılmaz**.
+
+
+* **Gayzer:** Aktif volkanik sahalarda yer altındaki magmanın suları periyodik olarak kaynatıp buhar fışkırtmasıyla oluşur. **Türkiye’de aktif volkanizma bulunmadığı için gayzer kesinlikle yoktur.**
+
+---
+
+### DERSTE ÇÖZÜLEN PEKİŞTİRME SORULARININ ÖZETİ VE ÇIKARIMLARI
+
+1. **Türkiye'nin Kuzey Yarımküre'de Bulunması:** Temmuz ayında yaz mevsimi yaşamamız mutlak konumumuzun ve Kuzey Yarımküre'de yer aldığımızın kanıtıdır (Güney Yarımküre bu dönemde kışı yaşar).
+2. **Sıcaklık ve Konum İlişkisi:** Mersin'in Konya'dan sıcak olmasında hem **enlem** (Ekvator'a daha yakın olması) hem de **denizellik** faktörü birlikte etkilidir.
+3. **Tersiyer Yükselimi:** Türkiye arazisinin III. Jeolojik Zaman'da (Tersiyer) toptan yükselmesi jeolojik yapıyla, yani **göreceli (özel) konum** ile ilgilidir; matematiksel konumla açıklanamaz.
+4. **Koordinat Sisteminden Çıkarılamayan Bilgiler:** Paralel ve meridyen derecelerinden yerel saat farkı, saat dilimi ve mevsimler hesaplanabilir; ancak bölgenin **yer şekilleri ve yükselti profili** tespit edilemez.
+5. **Orta Kuşakta Yer Almanın Kanıtları (A-B-C-D Formülü):**
+* **A**kdeniz iklim kuşağında bulunmak,
+* **B**atı rüzgarlarının etkisi altında kalmak,
+* **C**ephe yağışlarının (Frontal) görülmesi,
+* **D**ört mevsimin belirgin olarak yaşanması.
+
+
+6. **Güneş Işınlarının Geliş Açısı:** Bir ülkede aynı enlem üzerinde yer alan tüm noktalara (örneğin İstanbul, Samsun ve Trabzon paralel eksenleri) güneş ışınları yıl boyunca aynı açıyla düşer.
+7. **Gece/Gündüz ve Saat Analizi (21 Aralık):** Ankara'dan yola çıkan bir gözlemcinin gündüz süresini uzatabilmesi için **güneye**, yerel saatin daha geri olabilmesi için ise **batıya** gitmesi gerekir (Cevap: Güneybatı yönündeki Muğla).
+8. **Aynı Boylam Üzerindeki Noktalar:** Farklı bölgelerde olsalar dahi boylamları (meridyenleri) aynı olan merkezlerin (örneğin Sinop ve Hatay ya da Antalya, Burdur, Bilecik hattı) **yerel saatleri daima aynıdır**.
+9. **Kırık Dağlar:** Kaçkar ve Beydağları kıvrımlı; Uludağ ve Erciyes volkanik kökenlidir. Ege’deki **Yunt Dağları** ise bir kırık dağ (horst) örneğidir.
+10. **Dağların Kıyıya Dik Uzanması (Ege):** Denizel etkinin iç kesimlere girmesine, ulaşımın kolaylaşmasına, grabenlerin doğu-batı yönlü uzanmasına ve liman hinterlandının genişlemesine zemin hazırlar. Ancak maki bitki örtüsünün varlığı veya kızılçam tahribatı bu uzanışın bir sonucu değil, Akdeniz genel makroklimasının bir özelliğidir.
+
+Haftaya kaldığımız yerden dış kuvvetlerin devamı (kıyı tipleri, buzullar, dalga-akıntı şekilleri) ile devam edeceğiz. Hepinize verimli çalışmalar diliyorum.

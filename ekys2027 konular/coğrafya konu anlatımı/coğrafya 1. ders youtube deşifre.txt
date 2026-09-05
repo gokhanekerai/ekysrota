@@ -1,0 +1,122 @@
+Değerli meslektaşım, EKYS ve benzeri kurumsal sınavlarda karşımıza gelen coğrafya sorularının mantığını kavramak aslında bir sistem meselesidir. 80 soruluk sınavda coğrafyadan çıkan 5 sorunun 4'ü temel prensiplerle rahatlıkla çözülürken, o 1 belirleyici soruyu ise kavramların mantığını içselleştirenler yakalar.
+
+Dersimizde üzerinde durduğumuz kritik başlıkları, sınav mantığına uygun bir sistematikle ve hap bilgilerle derliyoruz:
+
+---
+
+### 1. Coğrafi Konum: Özel mi, Matematik (Mutlak) mi?
+
+Soruları çözerken kendinize şu iki temel soruyu sorun:
+
+* **"Nasıl bir yer?"** sorusunun cevabı bizi **Özel (Göreceli) Konuma** götürür.
+* **"Nerede?"** sorusunun kesin koordinat ve enlem/boylam cevabı ise bizi **Matematik (Mutlak) Konuma** götürür.
+* **Özel Konum:** Yükselti, karasallık, denizellik, fay hatları (deprem), madenler, jeotermal kaynaklar, masif (yaşlı) araziler, dağ ve kıta oluşumlarıdır.
+* *Sınav Tuzağı:* **"Aynı anda birden fazla mevsim özelliğinin yaşanması"** yükselti ve yerel şartlarla ilgilidir, dolayısıyla **özel konumdur** (Antalya’da denize girilirken Erzurum’da soba yakılması gibi).
+
+
+* **Matematik Konum:** Enlem, boylam, başlangıç meridyenine ve Ekvator'a uzaklık, çizgisel hız, gölge boyu ve yerel saatlerdir.
+* *Temel Koordinatlarımız:* **36° - 42° Kuzey paralelleri**, **26° - 45° Doğu meridyenleridir**.
+* *Uç Noktalar Ayrıntısı:* Türkiye'nin en kuzeyindeki **şehir merkezi Sinop** iken, en kuzeyden geçen **il sınırı Kırklareli**'dir. En güney Hatay, en batı Çanakkale, en doğu Iğdır'dır.
+
+
+
+---
+
+### 2. Orta Kuşakta Yer Almanın Sonuçları: A-B-C-D Kuralı
+
+Türkiye'nin ılıman kuşakta yer almasının matematiksel şifresi:
+
+* **A - Akdeniz İklimi'nin** görülmesi
+* **B - Batı Rüzgarları'nın** etkisinde kalması
+* **C - Cephe (Frontal) Yağışları'nın** yaşanması (Sıcak ve soğuk havanın karşılaşması)
+* **D - Dört Mevsimin** belirgin olarak yaşanması (Yıl içinde 4 mevsim matematik konumken; aynı anda 4 mevsim özel konumdur).
+
+---
+
+### 3. Güneyden Kuzeye Gidildikçe Değişen Unsurlar (Enlem Etkisi)
+
+Hatay’dan Sinop’a doğru çıkıldıkça:
+
+* **Yer çekimi artar** (Dünyanın kutuplardan basık, yani geoit olması sebebiyle merkeze yaklaşılır).
+* **Çizgisel hız azalır** (Ekvator hızla dönerken kutuplara doğru hız düşer; ancak **açısal hız her yerde aynıdır**).
+* **Güneş ışınlarının tutulma oranı artar** (Işınların atmosferde katettiği yol uzar; güneyde tutulma az, kuzeyde fazladır).
+* **Denizlerin tuzluluk oranı azalır** (Buharlaşma azaldığı için: Akdeniz > Ege > Marmara > Karadeniz).
+* **Alacakaranlık (Grup ve Tan) süresi uzar** (Kuzeye gidildikçe çizgisel hız azaldığı için güneş daha yavaş doğar ve batar).
+* *Sınav Tuzağı:* "Yıl boyunca güneyden kuzeye gidildikçe gece-gündüz süre farkı artar" ifadesi **yanlıştır**. Çünkü **21 Mart ve 23 Eylül (Ekinoks)** tarihlerinde dünyanın her yerinde gece-gündüz 12'şer saatle eşittir; bu iki gün fark sıfırdır.
+
+
+* **Sınırlar Kuralı:** Sıcak yerlerde insan ve bitki daha yükseğe çıkabilir. Bu yüzden Ekvator'a yakın yerlerde **yerleşme üst sınırı, tarım üst sınırı ve orman üst sınırı daha yüksektir**. Soğuk yerlerde ise kar deniz seviyesine kadar inebildiği için **kalıcı kar alt sınırı düşüktür**.
+* *İstisna Soru Tipi:* Normalde Antalya'da orman üst sınırının Erzurum'dan yüksek olması beklenir; ancak Erzurum'un taban yükseltisi zaten çok yüksek olduğu için Erzurum'da orman üst sınırı Antalya'dan daha yüksek bir metreye ulaşır.
+
+
+
+---
+
+### 4. Dönence, Saat ve Gündüz Süresi Mantığı
+
+* **Yengeç Dönencesi'nin Kuzeyinde Olmamız:** Türkiye dönencelerin dışında kaldığı için güneş ışınları hiçbir zaman **90°lik dik açıyla gelmez**, cisimlerin **gölge boyu asla sıfır olmaz**, bakı yönü daima **güney yamaçlardır** ve öğle vakti gölgeler daima **kuzeyi** gösterir.
+* **Saat Dilimleri:**
+* Türkiye'de tek bir ulusal/ortak saat kullanılır: **+3. Saat Dilimi (45° Doğu Meridyeni - Iğdır)**.
+* Iğdır'a meridyen olarak en uzak olan batı illerimizde (ör. Çanakkale, Edirne) **ulusal saat ile yerel saat arasındaki fark en fazladır**.
+* Güneş daima doğuda erken doğup erken battığı için yerel saat doğuda daima ileridedir.
+
+
+* **Gündüz Süresi Formülü:**
+* **Yazın (21 Haziran civarı):** Kuzeye gidildikçe gündüz uzar (Sinop'ta gündüz Hatay'dan uzundur).
+* **Kışın (21 Aralık civarı):** Güneye gidildikçe gündüz uzar (Hatay'da gündüz Sinop'tan uzundur).
+
+
+
+---
+
+### 5. Jeopolitik Konum ve Sınır Kapıları
+
+* **Sınır Özellikleri:**
+* En uzun kara sınırımız: **Suriye** / En kısa kara sınırımız: **Nahçıvan**
+* En eski sınırımız: **İran (1639 Kasr-ı Şirin)**
+* En son çizilen sınırımız: **Suriye (1939 Hatay'ın Anavatana Katılması)**
+
+
+* **Demiryolu Bağlantısı Olan Kritik Sınır Kapıları:**
+* *Bulgaristan:* Kapıkule
+* *Yunanistan:* Uzunköprü
+* *Gürcistan:* Canbaz (Bakü-Tiflis-Kars hattı ile faaldir)
+* *Ermenistan:* Akyaka (Hatta bağlantı vardır ancak hat gayriaktiftir)
+* *İran:* Kapıköy (Van Gölü feribot geçişiyle bağlanır)
+* *Suriye:* **Ç-I-N** formülü (**Ç**obanbey, **I**slahiye, **N**usaybin)
+
+
+
+---
+
+### 6. Jeolojik Zamanlar ve Türkiye'nin Oluşumu
+
+| Zaman | İsim | Türkiye'deki Başlıca Olaylar |
+| --- | --- | --- |
+| **I. Zaman** | **Paleozoik** | Taş kömürü yataklarının oluşumu (Zonguldak), Sert kütleler olan **Masif arazilerin** (Yıldız, Menteşe, Saruhan, Kırşehir, Bitlis, Daday-Devrekani, Taşeli) oluşumu. |
+| **II. Zaman** | **Mezozoik** | Durgun tortullanma dönemi. Anadolu'nun büyük kısmının deniz/okyanus (Tetis) tabanında tortullaşması. |
+| **III. Zaman** | **Tersiyer (Neojen)** | **Alp-Himalaya kıvrım kuşağının** oluşumu (Kuzey Anadolu Dağları ve Toroslar), şiddetli volkanizma, ana fay hatlarının (KAF, DAF, BAF) ortaya çıkışı, **Linyit, Bor, Tuz ve Petrol** yataklarının oluşumu. |
+| **IV. Zaman** | **Kuaterner** | **Egeid karasının çökmesi** ve Ege Denizi'nin oluşumu, İstanbul ve Çanakkale boğazlarının açılması (**Ria tipi kıyılar**), Karadeniz'in göl olmaktan çıkıp açık denize dönüşmesi, epirojenik yükselme. |
+
+---
+
+### 7. İç Kuvvetler (Tektonizma)
+
+Enerjisini yerin derinliklerindeki magmadan (konveksiyonel akıntılardan) alan kuvvetlerdir:
+
+* **Orojenez (Dağ Oluşumu):** Türkiye'yi **en çok etkileyen iç kuvvettir**.
+* *Kırık Dağlar (Horst-Graben):* Kaz, Madra, Yunt, Bozdağlar, Aydın Dağları, Menteşe Dağları ve Ege dışındaki tek kırık hat olan Hatay'daki **Nur (Amanos) Dağları**. Aralarında sırasıyla Edremit, Bakırçay, Gediz, Küçük ve Büyük Menderes grabenleri ile Nur dağlarının dibindeki **Amik Ovası** yer alır.
+* *Kıvrım Dağları (Antiklinal-Senklinal):* Kuzey Anadolu Dağları (Kaçkar, Canik, Küre, Ilgaz, Köroğlu) ve Toroslar (Bey, Geyik, Bolkar, Aladağlar, Cilo).
+* *Dağların Doğu-Batı Uzanış Sebebi:* Kuzeyden **Avrasya**, güneyden **Afrika ve Arabistan** levhalarının Anadolu'yu sıkıştırmasıdır.
+
+
+* **Epirojenez (Kıta Oluşumu - Toptan Yükselme/Alçalma):**
+* Türkiye III. zamanın sonu ve IV. zamanda toptan yükselmeye uğramıştır.
+* *Kanıtlar:* Dağların zirvelerinde ve iç bölgelerdeki platolarda **denizel fosillere ve taraçalara (seki)** rastlanması; Anadolu yükselirken Ergene ve Çukurova havzalarının tabanlarının tortullarla çökmesidir.
+
+
+* **Volkanizma:** Türkiye'de aktif volkan yoktur; sönmüş volkanik şekiller (Ağrı, Tendürek, Süphan, Nemrut, Erciyes, Hasan Dağı, Kula volkanları vb.) mevcuttur.
+
+---
+
+Bir sonraki adım olarak fay hatları ve deprem kuşaklarını (KAF, DAF, BAF) inceleyebilir veya bu konulardan gelebilecek çıkmış soru kalıpları üzerinden pratik yapabiliriz.

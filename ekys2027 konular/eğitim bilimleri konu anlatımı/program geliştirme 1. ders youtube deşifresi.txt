@@ -1,0 +1,96 @@
+Değerli meslektaşım, iyi akşamlar.
+
+Eğitim bilimleri ve program geliştirme serüvenimizin bu ilk dersinde aldığımız yolu, sınavda doğrudan soru getiren kilit noktalarıyla ve net bir pedagojik akışla zihnimizde yapılandıralım. Konuyu dağıtmadan, doğrudan sınav mantığını kavramaya odaklanıyoruz.
+
+---
+
+**1. Temel Kavramlar: Eğitim, Öğretim, Öğrenme ve Kültür**
+
+* **Eğitim:** Bireyin davranışında, kendi yaşantısı yoluyla ve **kasıtlı** (planlı ya da hedefe yönelik) olarak istendik değişim meydana getirme sürecidir. Burada "istendik" ifadesi her zaman ahlaki bir iyilik anlamına gelmez; sürecin önceden belirlenmiş bir amaca/hedefe dayalı olduğunu gösterir.
+* **Öğretim:** Eğitimin okullarda, profesyonellerce, planlı ve programlı olarak yürütülen **formal/örgün** boyutudur.
+* **Öğrenme:** Yaşantı veya tekrar sonucu oluşan **kalıcı izli davranış değişikliğidir**. Doğuştan gelen refleksler, örümceğin ağ örmesi gibi içgüdüler, büyüme/olgunlaşma süreçleri (örneğin çocuğun yürümesi) ve ilaç/yorgunluk kaynaklı geçici durumlar kesinlikle öğrenme değildir.
+* **Kültür:** Toplumun maddi ve manevi değerler bütünü, bir yaşama biçimidir. Eğitim kültürü aktarır ve yaşatır; eğitim değişime açıkken kültür değişime karşı daha dirençlidir.
+
+---
+
+**2. Planlanışına Göre Eğitim Türleri**
+
+Eğitimi yapılandırılmışlık durumuna göre iki ana başlıkta ele alıyoruz:
+
+* **İnformal Eğitim:** Plansız, programsız, hedefsizdir. Yaşamın doğal akışı içinde; ailede, sokakta, akran grubunda gözlem ve taklit yoluyla gerçekleşir. Olumlu davranışlar kazandırabileceği gibi argo, küfür gibi olumsuz davranışlar da üretebilir.
+* **Formal Eğitim:** Belli bir amaca yönelik, uzmanlar tarafından, planlı ve programlı yürütülen eğitimdir. Kendi içinde ikiye ayrılır:
+* **Örgün Eğitim:** Okul öncesinden yükseköğretime kadar basamaklar halinde ilerleyen, aşamalı, birbirinin ön koşulu olan, yaş grupları belirli ve sonunda diploma veren sistemdir. *(Unutmayınız: Üniversitede alınan lisans/öğretmenlik eğitimi doğrudan örgün eğitimdir).*
+* **Yaygın Eğitim:** Örgün eğitimin dışında kalan kurs, seminer ve sertifika programlarıdır. Aşamalı değildir, her yaştan bireye açıktır, sonunda diploma değil sertifika/katılım belgesi verilir.
+* *Halk Eğitimi:* Bireyin kendi iradesi ve bireysel gelişimi için şahsen başvurduğu kurslardır (örneğin bir öğretmenin enstrüman veya dil kursuna kendi isteğiyle gitmesi).
+* *Hizmet İçi Eğitim:* Bireyin çalıştığı kurum tarafından organize edilen eğitimlerdir (örneğin MEB'in akıllı tahta semineri).
+
+
+
+
+
+---
+
+**3. Posner’ın Program Türleri**
+
+ÖSYM'nin en çok yokladığı sınıflandırmadır:
+
+* **Resmi Program:** MEB ve Talim Terbiye Kurulu tarafından yazılı olarak ilan edilen, çerçeve niteliğindeki soyut tasarıdır.
+* **Uygulamadaki (İşlevsel) Program:** Resmi programın; öğretmenin yetkinliği, okulun fiziki koşulları ve sınıf dinamikleriyle harmanlanarak sınıfta fiilen hayata geçirilen somut halidir.
+* **Örtük Program:** Yazılı olmayan; öğretmenin tutumu, okul iklimi, giyim kuşam, sınıf içi etkileşim gibi informal yollarla kazanılan değer, inanç ve davranışlardır.
+* **Ekstra Program:** Resmi programda yer almayan ancak okul yönetimi ve öğretmenlerin planlayarak onay aldığı; tiyatro, gezi, turnuva, TÜBİTAK projeleri gibi ders dışı planlı faaliyetlerdir.
+* **İhmal Edilen (Geçersiz) Program:** Resmi programda yer almasına rağmen laboratuvar yetersizliği, zaman darlığı ya da sınavda çıkmıyor gerekçesiyle bilinçli olarak atlanan veya yüzeysel geçilen konulardır.
+
+---
+
+**4. Program Geliştirmenin Temelleri**
+
+| Temel Türü | Odak Noktası | Pratik Sınav İpucu |
+| --- | --- | --- |
+| **Tarihsel Temel** | Geçmiş program deneyimleri | Eski uygulamaların artılarını alıp eksilerini elemek. |
+| **Konu Alanı Temeli** | İçeriğin bilimsel geçerliliği | Bilginin güncel, nesnel ve doğru olması. |
+| **Ekonomik Temel** | Maliyet, bütçe ve iş gücü ihtiyacı | Ülke kaynaklarına uygunluk, istihdam dengesi. |
+| **Toplumsal Temel** | Toplumun beklentileri ve kültürel değerler | Topluma uyumlu birey yetiştirme. |
+| **Bireysel Temel** | Öğrencinin kendini gerçekleştirmesi | İlgi, yetenek ve duygusal potansiyeli açığa çıkarma. |
+| **Psikolojik Temel** | Gelişim ve öğrenme kuralları | Yaşa uygunluk, hedeflerin öğrenci düzeyine göre elenmesi. |
+| **Felsefi Temel** | Hedeflerin iç/dış tutarlılığı | Sistemin hedeflerini belirleme ve öncelik sırasına koyma. |
+
+---
+
+**5. Felsefi Akımlar ve Eğitim Felsefeleri**
+
+* **Felsefi Akımlar:**
+* *İdealizm:* Gerçeklik düşüncededir (idealar). Bilgi akılla, sezgiyle, derin tefekkürle elde edilir; değerler mutlak ve değişmezdir.
+* *Realizm:* Gerçeklik dış dünyada, nesnelerdedir. Bilgi gözlem, deney ve duyularla elde edilir.
+* *Pragmatizm:* Fayda sağlayan bilgi doğrudur. Mutlak doğru yoktur; bilgi ve ahlak duruma ve bireye göre değişir (görelilik/relativizm).
+* *Varoluşçuluk (Eksistansiyalizm):* Merkezde insan, mutlak özgürlük ve bu özgürlüğün getirdiği sorumluluk vardır. Kalıplara ve dış dayatmalara karşıdır.
+
+
+* **Eğitim Felsefeleri (Katıdan Esneğe):**
+1. **Daimicilik (İdealizm temelli):** Değişmeyen evrensel doğrular ve klasik eserler esastır. Amaç seçkin, entelektüel bireyler yetiştirmektir. Katı ve disiplinlidir; okul hayata hazırlıktır.
+2. **Esasicilik (Realizm/İdealizm temelli):** Öğretmen merkezlidir. Ezber, sıkı disiplin, konu alanı hakimiyeti ve zorlama esastır. İnsan zihni doğuştan boş bir levhadır (tabula rasa), öğretmen o levhayı doldurur.
+3. **İlerlemecilik (Pragmatizm temelli):** Öğrenci merkezlidir. Demokratik sınıf ortamı, problem çözme becerisi, yaparak-yaşayarak öğrenme esastır. Okul hayatın ta kendisidir.
+4. **Yeniden Kurmacılık (Pragmatizm/Varoluşçuluk temelli):** Toplum merkezlidir. Okul toplumsal değişimin, dönüşümün ve reformun öncüsüdür; öğretmen ise bu değişimin lideridir.
+
+
+
+---
+
+**6. İhtiyaç Belirleme: Yaklaşımlar ve Teknikler**
+
+* **Yaklaşımlar:**
+* *Farklar Yaklaşımı:* Olması gereken hedef düzey ile mevcut durum arasındaki matematiksel farktır.
+* *Demokratik Yaklaşım:* Çoğunluğun, hedef kitlenin veya baskı/temsil gruplarının taleplerini temel alır.
+* *Analitik Yaklaşım:* Mevcut eğilimleri analiz ederek gelecekte doğabilecek muhtemel ihtiyaçları bugünden öngörür.
+* *Betimsel Yaklaşım:* Bir uygulamanın varlığının sağlayacağı fayda ile yokluğunun getireceği zararı (maliyet-fayda) kıyaslar.
+
+
+* **Kilit Teknikler:**
+* **Delphi (Anket) Tekniği:** Alan uzmanlarının fiziksel olarak bir araya gelmeden, birbirinden bağımsız ve habersiz şekilde görüşlerinin anket turlarıyla toplanıp ortak uzlaşıya varılmasıdır (baskın kişiliklerin etkisini kırar).
+* **Progel-DACUM:** İlgili mesleğin uzmanlarının/yöneticilerinin (dışarıdan uzman heyetinin) bir araya gelerek o mesleğin beceri ve profil tanımını kısa sürede, objektif olarak çıkarmasıdır.
+* **Meslek (İş) Analizi:** Bizzat işin başında fiilen çalışan kişilerin görev ve işlemlerini adım adım, uzun sürede ve detaylı inceleme sürecidir.
+
+
+
+---
+
+Öğrendiklerimizi pekiştirmek adına; Delphi tekniği ile Progel-DACUM arasındaki farkı örnek bir senaryo sorusu üzerinden birlikte analiz etmemizi ister misiniz?
