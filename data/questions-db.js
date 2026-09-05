@@ -2958,7 +2958,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Emir: İslamiyet'in kabulünden sonra Arapça kökenli ve İslami Türk-İslam devletlerinde kullanılan bir hükümdarlık unvanıdır.\nTanhu, Yabgu, Erkin, İlteriş, Şanyü, Kağan ve Hakan ise İslamiyet öncesi Türk hükümdarlarının kullandığı unvanlardır."
   },
   {
     "id": "tarih2-q2",
@@ -2995,7 +2995,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "İkili Teşkilat: İslamiyet öncesi Türk devletlerinde geniş coğrafyaların yönetimini kolaylaştırmak için devletin Doğu (kutsal kabul edilen merkez, asıl Kağan) ve Batı (Yabgu unvanlı hanedan üyesi) olarak ikiye ayrılarak yönetilmesidir."
   },
   {
     "id": "tarih2-q3",
@@ -3032,7 +3032,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Kam: İslamiyet öncesi Türklerde din adamı (Şaman/Baksı) anlamına gelir. Eski Türk devletlerinde teokratik yönetim anlayışı bulunmadığından din adamlarının devlet yönetiminde resmi bir yetkisi yoktur.\nToy (meclis/kurultay), Şad (yönetici prens), Yabgu (batı kanadı yöneticisi) ve Tudun (vali/vergi memuru) ise doğrudan yönetim kavramlarıdır."
   },
   {
     "id": "tarih2-q4",
@@ -3069,7 +3069,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "El Sanatları: Konargöçer yaşam tarzında çadır, deri işlemeciliği, dokumacılık, madencilik ve silah yapımı gibi taşınabilir el sanatları engellenmemiş, tam aksine çok ileri düzeyde gelişmiştir (Pazırık Kurganı'ndaki Türk halısı buna örnektir).\nMimari, fresk ve yerleşik tarım ise göçebe hayat nedeniyle gelişim gösterememiştir."
   },
   {
     "id": "tarih2-q5",
@@ -3106,7 +3106,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "'Ülke hanedanın ortak malıdır' veraset anlayışı taht kavgalarına ve devletlerin kısa sürede yıkılmasına yol açmıştır. Ancak topraklar şahıslara değil devlete ve boylara ait olduğu için bu anlayış 'Özel mülkiyetin gelişmesine' yol açmamıştır."
   },
   {
     "id": "tarih2-q6",
@@ -3143,7 +3143,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Orun: İlk Türk devletlerinde Kurultayda (Toyda) boy beylerinin, hanedan mensuplarının ve komutanların devlet hiyerarşisindeki mevkilerine ve rütbelerine göre oturacakları yer ve oturma sırasını belirleyen töre kuralıdır.\nToygun ise kurultay üyelerine verilen genel addır."
   },
   {
     "id": "tarih2-q7",
@@ -3180,7 +3180,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Teşkilatçılık Yeteneği: Türklerin tarih boyunca yıkılan bir devletin ardından çok kısa sürede yeni ve güçlü bir devlet kurabilmeleri, onların köklü devlet geleneğine, ordu-millet şuuruna ve yüksek örgütlenme (teşkilatlanma) kabiliyetine sahip olmaları ile açıklanır."
   },
   {
     "id": "tarih2-q8",
@@ -3217,7 +3217,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Eski Türk Toplumsal Yapısı:\n- Oguş: Aile\n- Urug: Sülale (Aileler Birliği)\n- Boy (Bod): Kabile\n- Budun: Millet\n- İl (El): Devlet\nTayanç ise danışman/müşavir anlamına gelen idari bir unvandır; toplum basamağı değildir."
   },
   {
     "id": "tarih2-q9",
@@ -3254,7 +3254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "İkili Teşkilat Sistemi: Genişleyen ülke sınırlarının yönetimini kolaylaştırmak için uygulanan idari ve federal bir yönetim modelidir.\nSavaşçılık, zor şartlara dayanıklılık, hız ve kadın-erkek herkesin savaş sanatını bilmesi (ordu-millet anlayışı) doğrudan konargöçer yaşamın sonucudur."
   },
   {
     "id": "tarih2-q10",
@@ -3291,7 +3291,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Kurultaya Katılım: Kurultaya halkın tamamı katılamaz; sadece Kağan, Hatun, hanedan üyeleri, boy beyleri ve ordu komutanları (Toygunlar) katılabilir. Herkesin kurultaya katılma hakkının olduğu iddiası yanlıştır."
   },
   {
     "id": "tarih2-q11",
@@ -3328,7 +3328,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Merkezî Otoritenin Zayıflaması: Ülke topraklarının şehzadeler ve hanedan üyeleri arasında paylaştırılarak federal biçimde yönetilmesi, prenslerin kendi bölgelerinde bağımsız güç haline gelmesine ve merkezi otoritenin hızla zayıflamasına neden olmuştur."
   },
   {
     "id": "tarih2-q12",
@@ -3365,7 +3365,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "İl (El / Devlet): Sosyal yapının en üst kademesinde yer alan; vatan toprağı, bağımsız halk (oksızlık) ve töre unsurlarının birleşmesiyle oluşan en üst siyasi teşkilatlanmaya 'İl' (Devlet) denir."
   },
   {
     "id": "tarih2-q13",
@@ -3402,7 +3402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Kut Anlayışı: İlk Türk devletlerinde devleti ve dünyayı yönetme yetkisinin (siyasi egemenliğin) hükümdara bizzat Gök Tanrı tarafından bağışlandığına inanılan ilahi kaynaklı egemenlik anlayışıdır."
   },
   {
     "id": "tarih2-q14",
@@ -3439,7 +3439,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Ahiret İnancı: Ölümden sonra yaşama inanılması doğrudan dini ve inançsal bir olgudur; coğrafi veya bozkır-göçebe yaşam tarzının doğurduğu zorunlu bir özellik değildir.\nGöçebelik, çadır sanatı, özel mülkiyetsizlik ve savaşçılık ise doğrudan bozkır kültürünün sonucudur."
   },
   {
     "id": "tarih2-q15",
@@ -3476,7 +3476,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Veraset Anlayışı: İslamiyet öncesi Türk devletlerinin kısa sürede yıkılmasındaki en belirleyici iç etken; 'ülkenin hanedan üyelerinin ortak malı olması' kuralı nedeniyle yaşanan taht kavgaları ve devletin bölünmesidir."
   },
   {
     "id": "tarih2-q16",
@@ -3513,7 +3513,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Sınıf Ayrımının Olmaması: Eski Türklerde toprak devlete ait olduğu için toprak ağalığı, asillik ve kölelik gibi sınıfsal ayrıcalıklar kesinlikle bulunmaz. Sosyal yaşamda sınıfsal ayrıcalık olduğu iddiası yanlıştır."
   },
   {
     "id": "tarih2-q17",
@@ -3550,7 +3550,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Uygurlar: Yerleşik hayata geçen ilk Türk devleti olarak matbaayı ve kütüphaneleri kullanmış, ilk kez okullar açarak örgün eğitime geçmiş ve 'Çocuğunu öğretmene ver, ondan alıp saraya ver' sözüyle eğitime verdikleri önemi kanıtlamışlardır."
   },
   {
     "id": "tarih2-q18",
@@ -3587,7 +3587,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Farklı İnançlar: Eski Türk devletleri inanç konusunda geniş bir hoşgörüye sahiptir ve devletlerin bölünmesi dini farklılıklardan kaynaklanmamıştır.\nİkili sistem, boylar federasyonu, veraset anlayışı ve Çin entrikaları bölünmenin temel sebepleridir."
   },
   {
     "id": "tarih2-q19",
@@ -3624,7 +3624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "'Ülke hanedanın ortak malıdır' anlayışı taht kavgalarına (I) ve devletlerin kısa sürede bölünerek yıkılmasına (II) yol açmıştır. Merkezi otoriteyi güçlendirmez, zayıflatır (III yanlış). Bu nedenle I ve II doğrudur."
   },
   {
     "id": "tarih2-q20",
@@ -3661,7 +3661,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Orun: Kurultaydaki resmi protokol ve oturma sırasıdır; hükümdarlık bağımsızlık sembolü değildir.\nOtağ (hakan çadırı), Ordu, Nevbet (davul), Berge (kamçı), Tuğ ve Taht (örgin) ise ilk Türk devletlerindeki hükümdarlık sembolleridir."
   },
   {
     "id": "ekys2026-q1",
