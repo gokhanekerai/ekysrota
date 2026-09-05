@@ -34925,7 +34925,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Bakı Etkisi ve Sıcaklık:\n• Türkiye Kuzey Yarım Küre'de ve Yengeç Dönencesi'nin kuzeyinde yer aldığı için dağların güneye bakan yamaçları (bakı yamacı) Güneş ışınlarını daha dik açıyla alır ve daha sıcaktır.\n• Toroslar'ın güney yamaçlarının kuzey yamaçlarına göre daha sıcak olması, tarım ürünlerinin daha erken olgunlaşması ve yerleşmelerin güneyde toplanması bakı etkisinin sonucudur."
   },
   {
     "id": "cogr_test_17-q2",
@@ -34962,7 +34962,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Sıcaklık Dağılışını Etkileyen Faktörler:\n• Türkiye'de batıdan doğuya doğru gidildikçe sıcaklıkların düzenli olarak azalmasının temel nedeni Yükseltinin artmasıdır.\n• Deniz kıyılarından iç kesimlere gidildikçe sıcaklık farklarının artması ise karasallık ve nem azlığı ile açıklanır."
   },
   {
     "id": "cogr_test_17-q3",
@@ -34999,7 +34999,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Temmuz Ayı Sıcaklık Dağılışı:\n• Temmuz ayında Türkiye'nin en sıcak yeri Güneydoğu Anadolu (Şanlıurfa vb.) bölgesidir.\n• Nedenleri: Güneyden gelen sıcak çöl rüzgarları (Samyeli/Keşişleme), Basra Alçak Basıncı ve aşırı karasallık/nem azlığıdır."
   },
   {
     "id": "cogr_test_17-q4",
@@ -35036,7 +35036,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 İndirgenmiş Sıcaklık Kavramı:\n• İndirgenmiş sıcaklık; bir merkezin gerçek yükseltisinin yok sayılarak deniz seviyesine (0 metreye) uyarlandığı kuramsal sıcaklıktır (her 200 m yükselti için sıcaklığa +1°C eklenir).\n• İndirgenmiş sıcaklık haritalarında YÜKSELTİ faktörü tamamen ortadan kaldırıldığı için sıcaklık farkları sadece Enlem, Karasallık ve Denizellik ile açıklanır."
   },
   {
     "id": "cogr_test_17-q5",
@@ -35073,7 +35073,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Sıcaklık Farkı ve Nemlilik:\n• Nem oranının yüksek olduğu kıyı bölgelerinde (örneğin Karadeniz ve Akdeniz) hava yavaş ısınır, yavaş soğur; günlük ve yıllık sıcaklık farkı azdır.\n• Nem oranının düşük olduğu kurak iç kesimlerde (İç Anadolu, Güneydoğu, Doğu Anadolu) ise aşırı ısınma ve aşırı soğuma nedeniyle sıcaklık farkı çok yüksektir."
   },
   {
     "id": "cogr_test_17-q6",
@@ -35110,7 +35110,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Ocak Ayı Sıcaklık Dağılışı:\n• Ocak ayında Türkiye'nin en sıcak yerleri denizellik ve enlem etkisiyle Akdeniz kıyıları (10°C civarı), en soğuk yerleri ise aşırı yükselti ve karasallıkla Doğu Anadolu (Erzurum-Kars, -10°C altı) platolarıdır."
   },
   {
     "id": "cogr_test_17-q7",
@@ -35147,7 +35147,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Türkiye'yi Etkileyen Basınç Merkezleri:\n• Kışın Türkiye'de aşırı soğuk, don ve ayaz getiren basınç merkezi Sibirya Termik Yüksek Basıncı'dır.\n• Kışın ılık, yağışlı ve fırtınalı havalara yol açan ise İzlanda Dinamik Alçak Basıncı'dır."
   },
   {
     "id": "cogr_test_17-q8",
@@ -35184,7 +35184,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Yıllık İndirgenmiş İzoterm Haritası Analizi:\n• İndirgenmiş izoterm haritasında en yüksek sıcaklıklar güneyde (Güneydoğu ve Akdeniz), en düşük sıcaklıklar ise kuzeydoğuda görülür. Sıcaklığın genel olarak güneyden kuzeye azalması enlem etkisini gösterir."
   },
   {
     "id": "cogr_test_17-q9",
@@ -35221,7 +35221,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Ekinoks ve Güneş Işınlarının Geliş Açısı:\n• 21 Mart ve 23 Eylül (Ekinoks) tarihlerinde Güneş ışınları Ekvator'a dik açıyla gelir. Ankara (39°K) için öğle vakti Güneş ışınlarının geliş açısı: 90° - 39° = 51°'dir."
   },
   {
     "id": "cogr_test_17-q10",
@@ -35258,7 +35258,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Enlem Etkisine Kanıt:\n• Akdeniz kıyılarındaki ortalama sıcaklık ve deniz suyu sıcaklığının Karadeniz kıyılarından daha yüksek olması doğrudan Ekvator'a yakınlık (Enlem) ile açıklanır."
   },
   {
     "id": "cogr_test_17-q11",
@@ -35295,7 +35295,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Merkezler Arası Sıcaklık Karşılaştırması:\n• Aynı enlem üzerinde yer alan merkezlerde sıcaklıkların farklı olması özel konum (denizellik, yükselti, karasallık) şartlarıyla açıklanır."
   },
   {
     "id": "cogr_test_17-q12",
@@ -35332,7 +35332,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Basınç Merkezleri Özellikleri:\n• Asor Yüksek Basıncı (DYB): 30° dinamik kökenlidir, yazın Türkiye'de kurak ve sıcak havanın egemen olmasını sağlar.\n• Basra Alçak Basıncı (TAB): Termik kökenlidir, yaz aylarında Güneydoğu'da aşırı sıcaklık ve buharlaşmaya neden olur."
   },
   {
     "id": "cogr_test_17-q13",
@@ -35369,7 +35369,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Yerel Rüzgarlar:\n• Kuzeybatıdan esen: Karayel\n• Kuzeyden esen: Yıldız\n• Kuzeydoğudan esen: Poyraz\n• Güneybatıdan esen: Lodos\n• Güneyden esen: Kıble\n• Güneydoğudan esen: Samyeli (Keşişleme)"
   },
   {
     "id": "cogr_test_17-q14",
@@ -35406,7 +35406,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Rüzgar Frekans Gülü ve Boğazlar:\n• Çanakkale ve İstanbul Boğazı'nda yer şekilleri KD-GB doğrultusunda uzandığı için rüzgar frekans gülleri kuzeydoğu-güneybatı yönlü hakim rüzgar kanallarını gösterir."
   },
   {
     "id": "cogr_test_17-q15",
@@ -35443,7 +35443,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Rüzgarların Sıcaklığa Etkisi:\n• Kuzey Yarım Küre'de yer aldığımız için kuzey yönlü rüzgarlar (Yıldız, Karayel, Poyraz) sıcaklığı düşürür; güney yönlü rüzgarlar (Lodos, Kıble, Samyeli) sıcaklığı artırır."
   },
   {
     "id": "cogr_test_17-q16",
@@ -35480,7 +35480,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Lodos Rüzgarı:\n• Güneybatı yönünden esen sıcak ve nemli rüzgardır. Kış aylarında kar erimelerine, soba zehirlenmelerine ve deniz ulaşımında fırtınalara neden olur."
   },
   {
     "id": "cogr_test_17-q17",
@@ -35517,7 +35517,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Termik Basınç Merkezleri:\n• Dünyanın şekli ve ısınma/soğuma farklarına bağlı olarak oluşan termik basınçlar Sibirya TYB (kışın soğumayla) ve Basra TAB (yazın aşırı ısınmayla)'dır."
   },
   {
     "id": "cogr_test_17-q18",
@@ -35554,7 +35554,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Güneydoğu'nun Yaz Sıcaklığı Nedenleri:\n• Basra Alçak Basıncı'nın çekim alanı, güneyden esen Samyeli rüzgarı, şiddetli karasallık ve bulutsuzluk Güneydoğu'yu Türkiye'nin en sıcak yeri yapar."
   },
   {
     "id": "cogr_test_18_1-q1",
@@ -35591,7 +35591,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Basınç Gradyanı ve Rüzgar Yönü:\n• Rüzgar daima Yüksek Basınç (YB) merkezinden Alçak Basınç (AB) merkezine doğru eser. İki merkez arasındaki basınç farkı ne kadar fazlaysa rüzgarın şiddeti o kadar yüksek olur."
   },
   {
     "id": "cogr_test_18_1-q2",
@@ -35628,7 +35628,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Sıcaklığı Artıran Rüzgarlar:\n• Türkiye'de güney sektörlü esen Kıble (Güney) ve Samyeli (Güneydoğu) rüzgarları Ekvator ve çöl kökenli oldukları için sıcaklığı belirgin şekilde yükseltir."
   },
   {
     "id": "cogr_test_18_1-q3",
@@ -35665,7 +35665,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Fön (Föhn) Rüzgarı ve Mikroklima:\n• Dağı aşıp yamaçtan aşağı inen hava her 100 metrede 1°C ısınır. Kurutucu ve ısıtıcı bu etki sayesinde Rize'de turunçgil, Iğdır'da pamuk, Anamur'da muz gibi mikroklima ürünleri yetişir."
   },
   {
     "id": "cogr_test_18_1-q4",
@@ -35702,7 +35702,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Türkiye Yerel Rüzgarları Şifresi (KAYIP SAKAL):\n• Kuzeyden esenler: K-arayel, Y-ıldız, P-oyraz\n• Güneyden esenler: S-amyeli, K-ıble, L-odos."
   },
   {
     "id": "cogr_test_18_1-q5",
@@ -35739,7 +35739,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Hakim Rüzgar Yönü:\n• Bir merkezde rüzgarın yıl içinde en fazla estiği yön o merkezin hâkim rüzgar yönüdür ve boğaz, vadi ya da ova uzanışıyla birebir uyumludur."
   },
   {
     "id": "cogr_test_18_1-q6",
@@ -35776,7 +35776,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Matematik Konum ve Rüzgar Sıcaklığı:\n• Türkiye Kuzey Yarım Küre orta kuşakta yer aldığı için kutup kökenli kuzey rüzgarları soğutucu, ekvator kökenli güney rüzgarları ısıtıcı etki yapar."
   },
   {
     "id": "cogr_test_18_1-q7",
@@ -35813,7 +35813,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Karayel Rüzgarı:\n• Kuzeybatı yönünden esen, özellikle Balkanlar üzerinden gelerek Trakya, Marmara ve Batı Karadeniz'de sıcaklığı aniden düşüren ve kışın kar getiren rüzgardır."
   },
   {
     "id": "cogr_test_18_1-q8",
@@ -35850,7 +35850,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Rüzgar ve Yer Şekilleri İlişkisi:\n• Dağların uzanış doğrultusu rüzgarın esiş yönünü belirler. Ege'de doğu-batı yönlü graben vadileri rüzgarın iç kesimlere kolayca sokulmasını sağlar."
   },
   {
     "id": "cogr_test_18_1-q9",
@@ -35887,7 +35887,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Maksimum Nem ve Sıcaklık:\n• Maksimum nem, 1 m³ havanın taşıyabileceği en yüksek nem miktarıdır ve sıcaklıkla doğru orantılıdır. Bu nedenle yaz aylarında maksimum nem kapasitesi en yüksek bölge Güneydoğu Anadolu'dur."
   },
   {
     "id": "cogr_test_18_1-q10",
@@ -35924,7 +35924,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Bağıl Nem (Nispi Nem):\n• Mutlak nemin maksimum neme oranıdır (yağış ihtimalidir). Sıcaklık düştükçe bağıl nem artar. Türkiye'de yıl boyunca bağıl nemin en yüksek olduğu bölge Doğu Karadeniz kıyılarıdır."
   },
   {
     "id": "cogr_test_18_1-q11",
@@ -35961,7 +35961,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Rize ve Samsun Yağış Farkı:\n• Rize'de dağlar (Kaçkarlar) kıyının hemen gerisinden çok yüksek (3900 m) başlar; Samsun'da ise Canik Dağları daha alçaktır ve geridedir. Bu nedenle Rize'de yamaç yağışı ve toplam yağış miktarı Samsun'dan çok daha fazladır."
   },
   {
     "id": "cogr_test_18_1-q12",
@@ -35998,7 +35998,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Orografik (Yamaç) Yağışları:\n• Denizden gelen nemli hava kütlelerinin kıyıya paralel uzanan dağ yamaçlarına çarparak yükselmesiyle oluşur. Türkiye'de en çok Karadeniz (özellikle Doğu ve Batı Karadeniz) ve Akdeniz (Teke, Taşeli, Toroslar, Menteşe) kıyılarında görülür."
   },
   {
     "id": "cogr_test_18_1-q13",
@@ -36035,7 +36035,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Hakkari ve Konya Yağış Farkı:\n• Her ikisi de karasal iklimde olmasına rağmen Hakkari çok engebeli ve yüksek olduğu için orografik yağışlarla Konya'dan (~300 mm) çok daha fazla yağış (~1000 mm) alır."
   },
   {
     "id": "cogr_test_18_1-q14",
@@ -36072,7 +36072,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Konveksiyonel (Yükselim / Kırkikindi) Yağışları:\n• Isınan havanın dikey olarak yükselip soğumasıyla oluşan yağışlardır. İlkbaharda İç Anadolu'da (Kırkikindi), yaz başlarında ise Doğu Anadolu (Erzurum-Kars) platolarında yaygındır."
   },
   {
     "id": "cogr_test_18_1-q15",
@@ -36109,7 +36109,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Türkiye'de En Çok Yağış Alan Merkezler:\n• Rize (Doğu Karadeniz), Zonguldak (Batı Karadeniz), Muğla/Menteşe Yöresi ve Antalya kıyıları Türkiye'nin en fazla yağış alan alanlarıdır."
   },
   {
     "id": "cogr_test_18_1-q16",
@@ -36146,7 +36146,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Türkiye'de En Az Yağış Alan Merkezler:\n• Çevresi yüksek dağlarla çevrili çukur havzalar (Tuz Gölü çevresi, Konya Kapalı Havzası, Iğdır Ovası, Güneydoğu'nun güneyi) Türkiye'nin en az yağış alan yerleridir."
   },
   {
     "id": "cogr_test_18_1-q17",
@@ -36183,7 +36183,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Cephesel (Frontal) Yağışlar:\n• Sıcak ve soğuk hava kütlelerinin karşılaşma alanlarında meydana gelir. Türkiye'nin orta kuşakta bulunmasının doğrudan kanıtıdır; en çok kış mevsiminde Akdeniz İklim kuşağında görülür."
   },
   {
     "id": "cogr_test_18_1-q18",
@@ -36220,7 +36220,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Nemlilik ve İklim Kuşakları Dağılışı:\n• Dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz'de nem iç kesimlere sokulamaz, kıyıda hapsolur; Ege'de ise dik uzandığı için nemli hava graben vadileri boyunca 150-200 km içeriye kadar sokulur."
   },
   {
     "id": "cogr_test_18_2-q1",
@@ -36257,7 +36257,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Yağış Rejimi ve İller:\n• Karadeniz İklimi (Rize, Trabzon): En çok yağış Sonbaharda düşer, rejim düzenlidir.\n• Akdeniz İklimi (Antalya, İzmir): En çok yağış Kışın düşer.\n• Karasal İklim (Konya, Ankara): En çok yağış İlkbaharda düşer.\n• Sert Karasal İklim (Erzurum, Kars): En çok yağış Yazın düşer."
   },
   {
     "id": "cogr_test_18_2-q2",
@@ -36294,7 +36294,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Yamaç (Orografik) Yağış Oluşumu:\n• Nemli deniz havası dağ yamacı boyunca yükseldikçe adyabatik olarak soğur, bağıl nemi artar (%100'e ulaşır) ve yamaç yağışını bırakır."
   },
   {
     "id": "cogr_test_18_2-q3",
@@ -36331,7 +36331,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 İklim Grafiği Analizi (Akdeniz İklimi):\n• Yazları sıcak ve kurak, kışları ılık ve bol yağışlı geçen, kış sıcaklığı 10°C civarında olan grafik tipik Akdeniz İklimine aittir."
   },
   {
     "id": "cogr_test_18_2-q4",
@@ -36368,7 +36368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Yöresel Yağış Farklılıkları:\n• Yer şekillerinin uzanışı, yükselti ve denize olan mesafe Türkiye'de çok kısa mesafelerde belirgin yağış ve iklim farklılıklarına yol açar."
   },
   {
     "id": "cogr_test_18_2-q5",
@@ -36405,7 +36405,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Yağış Dağılış Grafiği:\n• Yağışın yarıya yakını (%40+) kış mevsiminde düşüyorsa bu Akdeniz iklim bölgesidir."
   },
   {
     "id": "cogr_test_18_2-q6",
@@ -36442,7 +36442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Yıl Boyu Bağıl Nemi Yüksek Yöre (Karadeniz):\n• Yıl boyu bulutluluk fazladır, güneşlenme süresi azdır, kimyasal çözünme etkilidir ve bitki örtüsü gür ormanlardır."
   },
   {
     "id": "cogr_test_18_2-q7",
@@ -36479,7 +36479,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Cephe Yağışlarının Nedeni:\n• Farklı karakterdeki sıcak ve soğuk hava kütlelerinin karşılaşması (Polar ve Tropikal hava) orta kuşak özelliği olup cephesel yağışları oluşturur."
   },
   {
     "id": "cogr_test_18_2-q8",
@@ -36516,7 +36516,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Karakteristik Yağış Tipleri Eşleştirmesi:\n• Akdeniz: Cephesel\n• İç Anadolu: Konveksiyonel (İlkbahar)\n• Karadeniz: Orografik (Yamaç)\n• Erzurum-Kars: Konveksiyonel (Yaz)"
   },
   {
     "id": "cogr_test_18_2-q9",
@@ -36553,7 +36553,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Sis Oluşumu ve Türleri:\n• Sıcak ve nemli havanın soğuk bir yüzey üzerinden geçmesiyle adveksiyon (yamaç/kıyı) sisi, açık kış gecelerinde yeryüzünün aşırı soğumasıyla radyasyon sisi oluşur."
   },
   {
     "id": "cogr_test_18_2-q10",
@@ -36590,7 +36590,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 İklim Grafiği Değerlendirmesi:\n• Yıllık sıcaklık ortalaması, yıllık yağış miktarı ve mevsimsel dağılım o yörenin iklim tipini ve doğal bitki örtüsünü belirler."
   },
   {
     "id": "cogr_test_18_2-q11",
@@ -36627,7 +36627,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Harita İklim Tipleri Eşleştirmesi:\n• Kıyı Ege ve Akdeniz: Akdeniz İklimi (Maki)\n• Karadeniz kıyıları: Karadeniz İklimi (Geniş/Karma Orman)\n• İç Anadolu: Ilıman Karasal (Bozkır)\n• Erzurum-Kars: Sert Karasal (Çayır)"
   },
   {
     "id": "cogr_test_18_2-q12",
@@ -36664,7 +36664,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Garig ve Psödomaki Oluşumu:\n• Makilerin tahrip edilmesiyle Garig (Frigana), Karadeniz ormanlarının tahrip edilmesiyle Psödomaki (Yalancı maki) oluşur."
   },
   {
     "id": "cogr_test_18_2-q13",
@@ -36701,7 +36701,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Kızılçam Tahribatı ve Maki:\n• Akdeniz ikliminin ana ağacı olan Kızılçam ormanlarının tahrip edilmesi sonucu bodur ve sert yapraklı çalılardan oluşan Maki (Zeytin, defne, mersin, zakkum, keçiboynuzu vb.) topluluğu ortaya çıkar."
   },
   {
     "id": "cogr_test_18_2-q14",
@@ -36738,7 +36738,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Sert Karasal İklim ve Alpin Çayırlar:\n• Yaz yağışlarının fazla olduğu Erzurum-Kars ve Doğu Karadeniz yaylalarında yaz boyu yeşil kalan gür Alpin çayırlar gelişir."
   },
   {
     "id": "cogr_test_18_2-q15",
@@ -36775,7 +36775,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Antropojen Bozkır:\n• İç Anadolu ve Ergene gibi karasal bölgelerde insanların asırlar boyunca ormanları tahrip etmesiyle ortaya çıkan bozkırlara 'Antropojen Bozkır' denir."
   },
   {
     "id": "cogr_test_18_2-q16",
@@ -36812,7 +36812,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Ormanların Kendini Yenileme Hızı:\n• Nem ve yağışın en bol olduğu Doğu Karadeniz ormanları tahribat sonrası kendini en hızlı yenileyen sahadır; kurak iç bölgelerde ise yenilenme çok zordur."
   },
   {
     "id": "cogr_test_18_2-q17",
@@ -36849,7 +36849,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Karadeniz İklim Grafiği:\n• Her mevsimi yağışlı, en çok yağışı sonbaharda alan, kış sıcaklığı 5-7°C civarında olan grafik tipik Karadeniz İklimidir."
   },
   {
     "id": "cogr_test_18_2-q18",
@@ -36886,7 +36886,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Akdeniz İklim Sahası ve Matematik Konum:\n• Türkiye'nin 36°-42° Kuzey enlemlerinde yer alması (Orta Kuşak) Akdeniz iklim kuşağında yer almasını sağlayan temel matematik konum sonucudur."
   },
   {
     "id": "cogr_test_12-q1",
@@ -38921,7 +38921,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Türkiye'de Nüfus Politikaları Dönemleri:\n• 1923 - 1965 Dönemi: Savaş sonrası nüfus kaybını telafi etmek için Nüfus Artışını Teşvik Edici (Pro-natalist) politika uygulanmıştır.\n• 1965 Sonrası: Nüfus Planlaması Kanunu ile nüfus artış hızını düşürme ve niteliği iyileştirme politikasına geçilmiştir.\n• 2014 Sonrası: Nüfusun yaşlanması tehlikesine karşı yeniden nüfus artışını teşvik edici politikalar gündeme gelmiştir."
   },
   {
     "id": "cogr_test_19-q2",
@@ -38958,7 +38958,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Nüfusun En Fazla Olduğu Alan:\n• Çatalca-Kocaeli Bölümü (İstanbul ve çevresi): Sanayi, ticaret, finans, ulaşım ve eğitim olanaklarıyla Türkiye nüfusunun yaklaşık beşte birini barındıran en yoğun nüfuslu alandır."
   },
   {
     "id": "cogr_test_19-q3",
@@ -38995,7 +38995,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Yağış ve Nüfus Dağılışı:\n• Kıyı kesimlerde yağış ve nemin yeterli olması tarım ve yerleşmeyi kolaylaştırarak nüfusun kıyılarda yoğunlaşmasını sağlamıştır."
   },
   {
     "id": "cogr_test_19-q4",
@@ -39032,7 +39032,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Nüfusun Seyrek Olduğu Alanlar:\n• Yıldız Dağları, Gelibolu/Biga Yarımadaları, Menteşe Yöresi, Teke ve Taşeli Platoları, Tuz Gölü çevresi ve Hakkari Yöresi engebe veya kuraklık nedeniyle seyrek nüfusludur."
   },
   {
     "id": "cogr_test_19-q5",
@@ -39069,7 +39069,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Seyrek Nüfuslu Olma Nedenleri:\n• Menteşe ve Teke/Taşeli yörelerinde karstik arazi yapısı ve aşırı dağlık/engebeli topoğrafya nüfusun seyrek kalmasına yol açmıştır."
   },
   {
     "id": "cogr_test_19-q6",
@@ -39106,7 +39106,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Beşeri Faktör (Tarım):\n• Yağış, yer şekilleri, eğim ve toprak yapısı 'Doğal/Fiziki' faktörlerdir; 'Tarım' ise insanın ekonomik faaliyeti olan 'Beşeri' faktördür."
   },
   {
     "id": "cogr_test_19-q7",
@@ -39143,7 +39143,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Nüfus Artış Hızı Grafiği Yorumu:\n• Grafikte artış hızı sıfırın altına düşmediği sürece ülke nüfusu SÜREKLİ ARTMIŞTIR. Nüfus artış hızının azalması nüfusun azaldığı anlamına gelmez, sadece artış temposunun yavaşladığını gösterir."
   },
   {
     "id": "cogr_test_19-q8",
@@ -39180,7 +39180,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Eğim ve Nüfus Yerleşimi:\n• Eğimli ve sarp dağlık alanlarda tarım arazileri dar, ulaşım zor ve heyelan/erozyon riski yüksek olduğu için yerleşme seyrektir."
   },
   {
     "id": "cogr_test_19-q9",
@@ -39217,7 +39217,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Çatalca-Kocaeli Yarımadası:\n• Gelibolu, Biga, Kapıdağ ve Bozburun yarımadalarına kıyasla Çatalca ve Kocaeli yarımadaları metropol nüfusla açık ara en kalabalık yarımadalardır."
   },
   {
     "id": "cogr_test_19-q10",
@@ -39254,7 +39254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 1940-1945 ve 1950-1960 Nüfus Hareketleri:\n• 1940-1945 arası 2. Dünya Savaşı nedeniyle erkek nüfusun silah altına alınması nüfus artış hızını tarihi dip seviyeye (~%10.6) düşürmüştür.\n• 1950-1960 arası ise sağlık koşullarının iyileşmesi ve savaş tehlikesinin geçmesiyle en yüksek patlama seviyesine (~%28.5) ulaşmıştır."
   },
   {
     "id": "cogr_test_19-q11",
@@ -39291,7 +39291,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 1985 Sonrası Nüfus Artış Hızının Düşme Nedenleri:\n• Kadının iş hayatına atılması, kentleşme oranının hızla artması, eğitim seviyesinin yükselmesi ve evlenme yaşının gecikmesidir."
   },
   {
     "id": "cogr_test_19-q12",
@@ -39328,7 +39328,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 ADNKS (Adrese Dayalı Nüfus Kayıt Sistemi):\n• 2007 yılından itibaren Türkiye'de sokağa çıkma yasağı ile yapılan geleneksel sayımlar terk edilmiş; MERNİS ve İkametgah bazlı modern ADNKS sistemine geçilmiştir."
   },
   {
     "id": "cogr_test_19-q13",
@@ -39365,7 +39365,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Nüfus Artış Hızı Grafiği Kritik Kuralı:\n• Nüfus artış hızının en düşük olduğu yıl nüfusun en az olduğu yıl DEĞİLDİR; o yıl nüfusun en yavaş arttığı yıldır. Toplam nüfus son sayım yılında daima en fazladır."
   },
   {
     "id": "cogr_test_19-q14",
@@ -39402,7 +39402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Hızlı Nüfus Artışının Olumsuz Sonuçları:\n• Demografik yatırımların (okul, hastane, altyapı) artması kalkınma hızını yavaşlatır; kişi başına düşen milli gelir azalır, işsizlik ve çarpık kentleşme artar."
   },
   {
     "id": "cogr_test_19-q15",
@@ -39439,7 +39439,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Yoğun Nüfuslu Ovalar:\n• Gediz, Küçük ve Büyük Menderes graben ovaları, Çukurova, Bursa ve Adapazarı ovaları verimli toprakları ve sanayileriyle yoğun nüfusludur."
   },
   {
     "id": "cogr_test_19-q16",
@@ -39476,7 +39476,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Aritmetik Nüfus Yoğunluğu En Az Olan İl:\n• Türkiye'de km²'ye düşen insan sayısının en az olduğu il Tunceli'dir (km² başına ~11-12 kişi)."
   },
   {
     "id": "cogr_test_19-q17",
@@ -39513,7 +39513,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Tarımsal Nüfus Yoğunluğu:\n• Tarımsal Nüfus Yoğunluğu = Tarımda Çalışan Nüfus / Tarım Alanı. Arazinin çok dağlık ve tarım alanlarının dar olduğu Rize, Trabzon ve Hakkari gibi illerde tarımsal nüfus yoğunluğu çok yüksektir."
   },
   {
     "id": "cogr_test_19-q18",
@@ -39550,7 +39550,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Mevsimlik (Geçici) Göçler:\n• Çukurova'ya pamuk, Karadeniz'e fındık/çay, Akdeniz/Ege kıyılarına turizm, yaylalara hayvancılık için yapılan yer değiştirmeler tipik mevsimlik göçlerdir."
   },
   {
     "id": "cogr_test_20-q1",
@@ -39587,7 +39587,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Yaş Grupları ve Nüfus Piramidi:\n• 0-14 yaş: Çocuk/Genç bağımlı nüfus\n• 15-64 yaş: Çalışma çağındaki aktif (üretken) nüfus\n• 65+ yaş: Yaşlı bağımlı nüfus. Türkiye'de son yıllarda doğum oranlarının düşmesiyle piramidin tabanı daralmakta, ortanca yaş yükselmekte ve nüfus yaşlanmaktadır."
   },
   {
     "id": "cogr_test_20-q2",
@@ -39624,7 +39624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 İç Göçlerin Temel Nedeni:\n• Türkiye'de kırsaldan kentlere ve doğudan batıya göçün en temel itici gücü ekonomik nedenler (iş imkanlarının kısıtlılığı, tarımda makineleşme, mirasla arazilerin bölünmesi) ve çekici güçler (sanayi ve istihdam)dir."
   },
   {
     "id": "cogr_test_20-q3",
@@ -39661,7 +39661,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Fizyolojik Nüfus Yoğunluğu:\n• Fizyolojik Nüfus Yoğunluğu = Toplam Nüfus / Tarım Alanı. İstanbul (devasa nüfus/dar tarım alanı) ve Rize/Trabzon (engebeli yapı/dar tarım alanı) gibi yerlerde fizyolojik yoğunluk çok yüksektir."
   },
   {
     "id": "cogr_test_20-q4",
@@ -39698,7 +39698,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Gerçek vs Doğal Nüfus Artışı:\n• Doğal Nüfus Artışı: Doğumlar ile ölümler arasındaki fark.\n• Gerçek Nüfus Artışı: Doğal artışa GÖÇLERİN eklenmesiyle oluşan artış. Sanayileşmiş Marmara kentlerinde gerçek nüfus artışı çok yüksektir."
   },
   {
     "id": "cogr_test_20-q5",
@@ -39735,7 +39735,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Mezra Yerleşmeleri:\n• Doğu ve Güneydoğu Anadolu'da yaygın olan, tarım ve hayvancılığın bir arada yapıldığı geçici veya sürekli köy altı yerleşmesidir."
   },
   {
     "id": "cogr_test_20-q6",
@@ -39772,7 +39772,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Yerleşmeyi Etkileyen Faktörler:\n• İklim, yer şekilleri, su kaynakları, sanayi ve ulaşım yerleşmeyi doğrudan belirler. Maden rezervinin varlığı tek başına her yerde nüfuslanma sağlamaz; işletilip istihdam oluşturması gerekir."
   },
   {
     "id": "cogr_test_20-q7",
@@ -39809,7 +39809,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Nüfusun Cinsiyet ve Eğitim Yapısı:\n• Gelişmiş kentlerde kadınların okullaşma ve iş gücüne katılım oranı yüksektir; göç veren kırsal alanlarda ise erkek nüfus göç ettiği için kadın nüfus oranı dönemsel olarak artar."
   },
   {
     "id": "cogr_test_20-q8",
@@ -39846,7 +39846,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Dağınık vs Toplu Yerleşme:\n• Dağınık Yerleşme: Su kaynaklarının bol, arazinin çok engebeli olduğu Doğu Karadeniz'de görülür.\n• Toplu Yerleşme: Su kaynaklarının kısıtlı, arazinin düz olduğu İç ve Güneydoğu Anadolu'da kuyu/çeşme etrafında görülür."
   },
   {
     "id": "cogr_test_20-q9",
@@ -39883,7 +39883,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Nüfus Sayımlarından Elde Edilemeyen Bilgi:\n• Nüfus sayımlarından nüfus miktarı, cinsiyet, yaş yapısı, okuryazarlık ve sektörel dağılım elde edilir; ancak vatandaşların şahsi 'aylık gelir / servet miktarı' sayımlardan elde edilemez."
   },
   {
     "id": "cogr_test_20-q10",
@@ -39920,7 +39920,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Mevsimlik Nüfus Dalgalanması En Fazla Olan Kent (Muğla / Antalya):\n• Yaz turizmi ve tarım işçiliği sayesinde Bodrum, Marmaris, Fethiye ve Alanya gibi merkezlerde kış nüfusu ile yaz nüfusu arasında 4-5 kat fark oluşur."
   },
   {
     "id": "cogr_test_20-q11",
@@ -39957,7 +39957,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Günümüz Göç Hareketleri:\n• Türkiye'de nüfusun %93'ünden fazlası il ve ilçe merkezlerinde yaşadığı için son dönemdeki en yoğun göç hareketi 'KENTTEN KENTE' gerçekleşmektedir."
   },
   {
     "id": "cogr_test_20-q12",
@@ -39994,7 +39994,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Ekonomik Faaliyet Kolları:\n• Birincil: Tarım, hayvancılık, madencilik, ormancılık\n• İkincil: Sanayi, imalat, inşaat, enerji\n• Üçüncül: Hizmet (eğitim, sağlık, ulaşım, ticaret, bankacılık)\n• Dördüncül: Yazılım, bilişim, AR-GE, grafik tasarım\n• Beşincil: Üst düzey CEO ve karar verici yöneticiler."
   },
   {
     "id": "cogr_test_20-q13",
@@ -40031,7 +40031,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Dördüncül Ekonomik Faaliyet:\n• Bilgisayar programcılığı, yazılım, web tasarımı, veri işleme, network ve reklam ajansları 4. sektör (bilişim) çalışanlarıdır."
   },
   {
     "id": "cogr_test_20-q14",
@@ -40068,7 +40068,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Yanlış Sektör Eşleştirmesi:\n• Çiftçi (Birincil), Fabrika işçisi (İkincil), Doktor/Öğretmen (Üçüncül), Yazılımcı (Dördüncül)."
   },
   {
     "id": "cogr_test_20-q15",
@@ -40105,7 +40105,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Kır/Kent Nüfus Oranı:\n• Türkiye'de cumhuriyetin ilk yıllarında nüfusun %75'i kırsalda yaşarken günümüzde %93.4'ü il ve ilçe merkezlerinde yaşamaktadır."
   },
   {
     "id": "cogr_test_20-q16",
@@ -40142,7 +40142,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Nüfus Yoğunluğunun En Az Olduğu Bölge:\n• Doğu Anadolu Bölgesi: Geniş yüzölçümüne karşın zorlu iklim ve engebeli arazi nedeniyle aritmetik nüfus yoğunluğunun en az olduğu coğrafi bölgedir."
   },
   {
     "id": "cogr_test_20-q17",
@@ -40179,7 +40179,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 İzmir ve Manisa Yoğunluk Farkı:\n• İzmir'in sanayi, liman, ticaret ve turizm fonksiyonları nedeniyle devasa göç alması ve yüzölçümüne oranla çok daha kalabalık olmasıdır."
   },
   {
     "id": "cogr_test_20-q18",
@@ -40216,7 +40216,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Net Göç ve Göç Hızı:\n• Sanayileşmiş metropoller (İstanbul, Kocaeli, İzmir, Bursa, Antalya) sürekli net göç alırken iç ve doğu Anadolu illeri net göç vermektedir."
   },
   {
     "id": "cogr_test_21-q1",
@@ -40253,7 +40253,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Kırsalda Dağınık Yerleşmenin Temel Sebepleri:\n• I. Engebeli ve parçalı arazi yapısı\n• II. Su kaynaklarının her yerde bol olması (Doğu Karadeniz tipi yerleşme)."
   },
   {
     "id": "cogr_test_21-q2",
@@ -40290,7 +40290,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 İç Göçün Doğal Sonuçları:\n• İç göçler ülke içi nüfus dağılışını ve şehirleşme oranını değiştirir; ancak ülke toplam nüfus miktarını kesinlikle DEĞİŞTİRMEZ."
   },
   {
     "id": "cogr_test_21-q3",
@@ -40327,7 +40327,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 İç Göçü Önleme Tedbirleri:\n• Kırsalda sulu tarıma geçilmesi, besi ve ahır hayvancılığının desteklenmesi, tarıma dayalı küçük sanayi kollarının köylere kurulması ve kırsalda eğitim/sağlık hizmetlerinin artırılması göçü frenler."
   },
   {
     "id": "cogr_test_21-q4",
@@ -40364,7 +40364,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Turizm Amaçlı Mevsimlik Göç:\n• Akdeniz ve Ege kıyı kuşağı (Antalya, Muğla, Kuşadası, Çeşme, Bodrum) yaz aylarında turizm personeli ve tatilcilerle devasa mevsimlik göç alır."
   },
   {
     "id": "cogr_test_21-q5",
@@ -40401,7 +40401,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Sürekli (Devamlı) Köy Altı Yerleşmeleri:\n• Mahalle, Divan (Batı Karadeniz), Çiftlik ve Mezra (Doğu Anadolu) sürekli yerleşmelerdir.\n• Yayla, Kom, Ağıl, Oba, Dam, Dalyan ise GEÇİCİ yerleşmelerdir."
   },
   {
     "id": "cogr_test_21-q6",
@@ -40438,7 +40438,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Çiftlik Yerleşmeleri:\n• Düzlük ve geniş arazilerde (Marmara/Trakya, Ege grabenleri, Çukurova, İç Anadolu) tarım ve hayvancılık yapılan sürekli köy altı yerleşmesidir."
   },
   {
     "id": "cogr_test_21-q7",
@@ -40475,7 +40475,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Yaylacılığın Görülmediği Alanlar:\n• Marmara'nın alçak düzlükleri ve Ergene Havzası yükseltisi az olduğu için yayla yerleşmelerine uygun değildir; yaylacılık Karadeniz ve Toroslar'da yaygındır."
   },
   {
     "id": "cogr_test_21-q8",
@@ -40512,7 +40512,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Oba Yerleşmeleri:\n• Toros Dağları'nda Yörüklerin kıl keçisi otlatmak amacıyla çadırlardan kurduğu tipik geçici köy altı yerleşmesidir."
   },
   {
     "id": "cogr_test_21-q9",
@@ -40549,7 +40549,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Toplu Yerleşme Koşulları:\n• Yeryüzü şekillerinin sade/düz olduğu, su kaynaklarının kısıtlı ve kuyular etrafında toplandığı kurak bozkır alanlarında toplu yerleşme görülür."
   },
   {
     "id": "cogr_test_21-q10",
@@ -40586,7 +40586,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: C\n\n📌 Karstik Platolarda Seyrek Yerleşme:\n• Teke ve Taşeli Platoları: Kireçtaşlı (karstik) arazinin suyu derine sızdırması ve engebeli yapısı nedeniyle nüfus yoğunluğu çok azdır."
   },
   {
     "id": "cogr_test_21-q11",
@@ -40623,7 +40623,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Geçici vs Sürekli Ayrımı:\n• Divan, Mahalle, Çiftlik, Mezra = Sürekli\n• Yayla, Kom, Ağıl, Oba, Dalyan = Geçici."
   },
   {
     "id": "cogr_test_21-q12",
@@ -40660,7 +40660,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Kırsal Konut Malzemesi ve Jeoloji:\n• Taş evler: Akdeniz (kireçtaşı/karstik), Doğu Anadolu ve İç Anadolu (volkanik tüf/bazalt, Kapadokya, Mardin).\n• Ahşap evler: Karadeniz (orman zenginliği).\n• Kerpiç evler: İç ve Güneydoğu Anadolu (kurak/killi toprak)."
   },
   {
     "id": "cogr_test_21-q13",
@@ -40697,7 +40697,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Fonksiyonlarına Göre Şehirler:\n• Sanayi: Kocaeli, Karabük, İskenderun\n• İdari: Ankara\n• Turizm: Antalya, Muğla\n• Maden: Zonguldak, Batman, Soma."
   },
   {
     "id": "cogr_test_21-q14",
@@ -40734,7 +40734,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: D\n\n📌 Çizgisel (Doğrusal) Yerleşme Dokusu:\n• Bir vadi tabanı, akarsu boyu veya kara yolu hattı boyunca uzanan yerleşmelerdir (Örn: Amasya - Yeşilırmak boyu)."
   },
   {
     "id": "cogr_test_21-q15",
@@ -40771,7 +40771,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Hızlı Kentleşmenin Yarattığı Sorunlar:\n• Gecekondulaşma/çarpık kentleşme, altyapı yetersizliği, trafik sıkışıklığı, çevre kirliliği ve tarım alanlarının betonlaşmasıdır."
   },
   {
     "id": "cogr_test_21-q16",
@@ -40808,7 +40808,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: E\n\n📌 Madencilik Sayesinde Büyüyen Şehir:\n• Batman: 1940'larda küçük bir köy iken Raman Dağı'nda petrolün bulunması ve rafineri kurulmasıyla hızla büyüyüp il olmuştur (Aynı durum Zonguldak ve taş kömürü için de geçerlidir)."
   },
   {
     "id": "cogr_test_21-q17",
@@ -40845,7 +40845,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: B\n\n📌 Tarımda Makineleşme ve Göç:\n• Düz ovalarda (İç Anadolu, Güneydoğu, Çukurova) makineleşme insan gücüne ihtiyacı azaltarak göçü artırmıştır; Doğu Karadeniz ve Menteşe gibi engebeli yerlerde ise makine kullanımı zaten kısıtlıdır."
   },
   {
     "id": "cogr_test_21-q18",
@@ -40882,7 +40882,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: A\n\n📌 Toprak Özelliği ve Asitlik:\n• Bol yıkanmış asidik orman toprakları (Kahverengi orman ve Podzol) Doğu Karadeniz kıyı kuşağında görülür."
   },
   {
     "id": "cogr_test_22-q1",
