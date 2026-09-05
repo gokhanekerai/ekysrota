@@ -1271,6 +1271,14 @@ class EKYSApp {
         desc: 'Program Geliştirme, Öğretim İlke ve Yöntemleri, Ölçme ve Rehberlik testleri:',
         items: [
           {
+            id: 'egitim_prog_gel_1',
+            name: '🎯 Program Geliştirme Testi 1',
+            icon: '🎯',
+            desc: 'Program Okuryazarlığı, Temel Kavramlar, Program Türleri, Felsefeler, İhtiyaç Analizi ve Tasarım Yaklaşımları.',
+            filterKey: 'egitim_prog_gel_1',
+            badge: '19 Soru • Konu Testi'
+          },
+          {
             id: 'ekys_2026_egitim',
             name: '2026 EKYS Eğitim Bilimleri Çıkmış Soruları',
             icon: '📜',
@@ -2173,6 +2181,14 @@ class EKYSApp {
         desc: 'Eğitim Yönetimi, Liderlik, Denetim, Pedagoji, Ölçme ve Değerler Eğitimi Testleri:',
         items: [
           {
+            id: 'egitim_prog_gel_1',
+            name: '🎯 Program Geliştirme Testi 1',
+            icon: '🎯',
+            desc: 'Program Okuryazarlığı, Temel Kavramlar, Program Türleri, Felsefeler, İhtiyaç Analizi ve Tasarım Yaklaşımları.',
+            filterKey: 'egitim_prog_gel_1',
+            badge: '19 Soru • Konu Testi'
+          },
+          {
             id: 'egitim_yonetimi_cat',
             name: '🎓 Eğitim Yönetimi, Liderlik & Okul Denetimi',
             icon: '🎓',
@@ -2338,7 +2354,8 @@ class EKYSApp {
       const isCikmis = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
       const qNum = q.questionNumber || 0;
 
-      // 1. Özel Video Tarama & Yeni Münferit Coğrafya Testleri
+      // 1. Özel Video Tarama & Yeni Münferit Coğrafya & Eğitim Bilimleri Testleri
+      if (filterKey === 'egitim_prog_gel_1' || filterKey === 'prog_gel_test_1') return (q.testId === 'egitim_prog_gel_1' || tId === 'egitim_prog_gel_1' || (tName.includes('program geliştirme') && tName.includes('1')));
       if (filterKey === 'cogr1') return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
       if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
       if (filterKey === 'cogr3') return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));

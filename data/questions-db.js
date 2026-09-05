@@ -45953,5 +45953,689 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "C",
     "explanation": ""
+  },
+  {
+    "id": "egitim_prog_gel_1_q1",
+    "questionNumber": 1,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "(I) Merve bir sürücü kursuna devam etmektedir. Derste kurs öğretmeni ıslak zeminde durma mesafesinin uzayacağını söylemiş, aynı hıza sahip iki aracın kuru ve ıslak zemindeki durma mesafelerini karşılaştıran videolar izletmiştir. (II) Başka bir gün Merve otobüsle eve dönerken yağmur nedeniyle bir aracın duramayarak yoldan çıktığına tanık olmuştur.\n\nNumaralanmış bu iki durum sırasıyla aşağıdaki eğitim türlerinden hangisinin kapsamında yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Formal örgün – Formal yaygın"
+      },
+      {
+        "key": "B",
+        "text": "Formal yaygın – İnformal"
+      },
+      {
+        "key": "C",
+        "text": "İnformal – İnformal"
+      },
+      {
+        "key": "D",
+        "text": "İnformal – Formal yaygın"
+      },
+      {
+        "key": "E",
+        "text": "Formal örgün – İnformal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "I. Durum: Sürücü kursları; belirli bir amaca yönelik, planlı ve alan uzmanı eğiticiler eşliğinde yürütülen, sonunda sertifika/ehliyet verilen bir okul dışı eğitim faaliyeti olduğu için Formal Yaygın Eğitimdir.\nII. Durum: Merve'nin otobüsle eve dönerken kazaya tanık olması ise günlük yaşamın doğal akışı içinde, plansız ve kendiliğinden gerçekleşen bir deneyim olduğu için İnformal Eğitimdir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q2",
+    "questionNumber": 2,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Güzel sanatlar lisesinde görev yapan edebiyat öğretmeni, öğrencilerle müzik üzerine sohbetler yaptığında sınıfta daha iyi iletişim sağlandığını fark ederek bir enstrüman çalma kursuna kaydolur.\n\nBuna göre öğretmenin kayıt yaptırdığı kurs aşağıdakilerden hangisinin kapsamında yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Halk eğitimi"
+      },
+      {
+        "key": "B",
+        "text": "Hizmet içi eğitim"
+      },
+      {
+        "key": "C",
+        "text": "İş başında eğitim"
+      },
+      {
+        "key": "D",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Örgün eğitim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Bireylerin kendi ilgi, istek ve yetenekleri doğrultusunda, boş zamanlarını değerlendirmek veya kişisel beceri kazanmak amacıyla okul dışı kurumlarda katıldıkları kurslar (enstrüman, yabancı dil, ahşap boyama vb.) Halk Eğitimi (Yaygın Eğitim) kapsamındadır. Kurum tarafından mesleki zorunlulukla düzenlenmediği için hizmet içi veya iş başında eğitim sayılamaz.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q3",
+    "questionNumber": 3,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğretmenin eğitim programı tasarısını kendi performansı ve mevcut imkânlar doğrultusunda öğrenci kazanımına dönüştürmesiyle hayata geçirdiği program türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî"
+      },
+      {
+        "key": "B",
+        "text": "Örtük"
+      },
+      {
+        "key": "C",
+        "text": "İşlevsel"
+      },
+      {
+        "key": "D",
+        "text": "Ekstra"
+      },
+      {
+        "key": "E",
+        "text": "İhmal edilen"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Posner'ın program sınıflandırmasında; yazılı ve resmî tasarının öğretmen tarafından sınıfta fiilen uygulanması, öğretmenin yetkinliği ve okul şartlarıyla birleşerek öğrenci kazanımına ve somut yaşantıya dönüşen boyutuna İşlevsel (Uygulamadaki / Gerçekleşen) Program denir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q4",
+    "questionNumber": 4,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Okul Müdürü Kemal Bey, görev yaptığı okuldaki öğrencilerin daha yaratıcı ve üretken olmalarını sağlamak için okul bahçesine ekim yapma alanı, beceri ve tasarım atölyesi hobi merkezleri gibi yerler inşa ederek öğrencilerin kullanımına sunmuştur.\n\nBuna göre Kemal Bey'in aşağıdaki program türlerinden hangisine uygun çalışmalar yaptığı söylenebilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmi"
+      },
+      {
+        "key": "B",
+        "text": "Kubik"
+      },
+      {
+        "key": "C",
+        "text": "İhmal edilen"
+      },
+      {
+        "key": "D",
+        "text": "Ekstra"
+      },
+      {
+        "key": "E",
+        "text": "İşlevsel"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Resmî öğretim programının dışında kalan; okulun ve öğretmenlerin gözetiminde, öğrencilerin yaratıcılık, ilgi ve becerilerini geliştirmek üzere gönüllü katılımla düzenlenen atölye, hobi kulübü ve bahçe etkinlikleri Ekstra (Fazladan) Program kapsamındadır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q5",
+    "questionNumber": 5,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İlkokul düzeyinde hazırlanan bir programda ikinci sınıf için aday kazanımlar arasında yer alan \"Demokrasi ile özgürlük arasındaki ilişkiyi açıklar.\" kazanımı hedef kitlenin gelişim ve öğrenme özelliklerine uygun bulunmamış ve bu kazanım programdan çıkarılmıştır.\n\nBu kazanımın çıkarılmasında program geliştirmenin aşağıdaki temellerinden hangisi dikkate alınmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Toplumsal"
+      },
+      {
+        "key": "B",
+        "text": "Felsefi"
+      },
+      {
+        "key": "C",
+        "text": "Ekonomik"
+      },
+      {
+        "key": "D",
+        "text": "Tarihi"
+      },
+      {
+        "key": "E",
+        "text": "Psikolojik"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Program geliştirmenin Psikolojik Temeli; hedeflerin ve kazanımların öğrencinin yaş, gelişim özellikleri, hazırbulunuşluk düzeyi ve öğrenme kapasitesine uygunluğunu belirler. 2. sınıf düzeyindeki öğrencilerin soyut kavramları (demokrasi-özgürlük ilişkisi) kavrayacak bilişsel gelişim düzeyinde olmaması nedeniyle kazanımın çıkarılması doğrudan psikolojik temelle ilgilidir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q6",
+    "questionNumber": 6,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir okul müdürü eğitim sisteminin; tüm öğrencilere model olması amacıyla sorumluluk sahibi, empati yeteneği gelişmiş, özgür ve cesareti yüksek bireyler yetiştirmesi gerektiği görüşündedir.\n\nBu okul müdürünün benimsediği felsefi yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pragmatizm"
+      },
+      {
+        "key": "B",
+        "text": "Naturalizm"
+      },
+      {
+        "key": "C",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "D",
+        "text": "Realizm"
+      },
+      {
+        "key": "E",
+        "text": "İdealizm"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Varoluşçuluk (Egzistansiyalizm); bireyin özgürlüğünü, kendi seçimlerini yapma cesaretini, özgün kimliğini oluşturmasını ve seçimlerinin tüm sorumluluğunu üstlenmesini eğitimin temel amacı olarak görür.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q7",
+    "questionNumber": 7,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir ortaokul müdür yardımcısı, bir araştırmacı tarafından kendisine verilen yarı yapılandırılmış görüşme formunda yer alan \"ideal eğitim sistemi nasıl olmalıdır?\" sorusuna cevap olarak şunları yazmıştır:\n\n\"Eğitimin odağı insan olmalıdır. İnsanın özgürlüğü önemlidir ve bu özgürlüğü sınırlandırmadığı gibi bireyin kendini gerçekleştirmesine yardımcı olan bir eğitim sistemi kurgulanmalıdır. Öğretmen merkezli eğitim kabul edilemez. Öğrencileri bir kitle olarak görmek yerine mümkün olduğunca bireye inilmeli ve onun tercihleri dikkate alınmalıdır. Toplumun genel olarak sahip olduğu değerlerin bireye kazandırılması yerine bireyin kendi sentezini yapmasına olanak sağlanmalıdır.\"\n\nBu müdür yardımcısının düşünceleri aşağıdaki felsefi akımlardan hangisiyle daha fazla örtüşmektedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Realizm"
+      },
+      {
+        "key": "B",
+        "text": "İdealizm"
+      },
+      {
+        "key": "C",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "D",
+        "text": "Pragmatizm"
+      },
+      {
+        "key": "E",
+        "text": "Natüralizm"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Bireyin kendi özünü ve değerler sistemini özgürce kendisinin oluşturmasını, dayatmacı kalıplar yerine bireysel tercihlere saygı duyulmasını ve kendini gerçekleştirme yolculuğunun desteklenmesini savunan felsefe Varoluşçuluk (Egzistansiyalizm) akımıdır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q8",
+    "questionNumber": 8,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir ortaokul müdürü, öğrenci merkezli öğretim yapılması için gerekli araç gereçlerin temin edilmesi, demokratik bir öğrenme-öğretme ortamı sağlanması ve öğrencilerin bireysel farklılıklarına yönelik öğrenme etkinlikleri düzenlenmesi için öğretmenleri ve öğrencileri teşvik etmektedir.\n\nBuna göre, okul müdürünün öğrenme-öğretme sürecine ilişkin yaklaşımı ve felsefesi aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yapılandırmacılık – Daimicilik"
+      },
+      {
+        "key": "B",
+        "text": "Davranışçılık – İlerlemecilik"
+      },
+      {
+        "key": "C",
+        "text": "Davranışçılık – Yeniden kurmacılık"
+      },
+      {
+        "key": "D",
+        "text": "Yapılandırmacılık – Yeniden kurmacılık"
+      },
+      {
+        "key": "E",
+        "text": "Yapılandırmacılık – İlerlemecilik"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Öğrencinin aktif olduğu, yaparak-yaşayarak öğrendiği ve bireysel özelliklerin dikkate alındığı çağdaş öğrenme yaklaşımı Yapılandırmacılık; bu yaklaşımın felsefi temeli olan öğrenci merkezli, demokratik ve pragmatizme dayanan eğitim felsefesi ise İlerlemeciliktir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q9",
+    "questionNumber": 9,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Katı bir yönetim anlayışı sergileyen okul müdürü, öğrencilerin özgürlük alanlarının daraltılması ve mümkün olduğunca kontrol altında tutunmasını savunmaktadır. Kontrol elden bırakılırsa disiplini tekrar sağlamak için çok fazla emek ve zaman gerekeceğini düşünmektedir.\n\nBuna göre okul müdürünün yönetim anlayışı aşağıdaki felsefi akımlardan hangisiyle örtüşmektedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Daimicilik"
+      },
+      {
+        "key": "B",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "C",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "D",
+        "text": "Doğacılık"
+      },
+      {
+        "key": "E",
+        "text": "Yeniden kurmacılık"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Daimicilik (Perennialism); eğitimin evrensel ve değişmez doğrulara dayandığını, insan doğasının kontrol edilmesi gerektiğini ve sıkı bir zihinsel disiplin, katı otorite ve kuralcılıkla yönetilmesini savunur.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q10",
+    "questionNumber": 10,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Geliştirilecek olan bir eğitim programına ilişkin ihtiyaç analizi sürecinde, programla ilgili uzman ve paydaş görüşü alınması hedeflenmektedir. Bunun için geniş bir kitleye ulaşılması ve birçok kişiden farklı görüşler alınarak ortak görüşe varılması planlanmaktadır.\n\nBu süreçte kullanılabilecek en uygun ihtiyaç belirleme yaklaşımı ve değerlendirme tekniği aşağıdakilerin hangisinde birlikte verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Betimsel - Görüşme"
+      },
+      {
+        "key": "B",
+        "text": "Demokratik - DACUM"
+      },
+      {
+        "key": "C",
+        "text": "Demokratik – Delphi"
+      },
+      {
+        "key": "D",
+        "text": "Analitik - Meslek analizi"
+      },
+      {
+        "key": "E",
+        "text": "Analitik - Gözlem"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Geniş paydaş ve toplum kitlelerinin beklentilerini ve çoğunluğun görüşünü esas alan yaklaşım Demokratik Yaklaşımdır. Birbirinden bağımsız geniş bir uzman grubuna anket turları uygulanarak ortak bir uzlaşıya (konsensüse) varılmasını sağlayan teknik ise Delphi (Anket Geliştirme) Tekniğidir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q11",
+    "questionNumber": 11,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Program geliştirme sürecinde programın bütün ögelerinin şekillenmesinde faydalanılan, özellikle de hedeflerin belirlenmesinde ağırlıklı role sahip olan disiplin aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Psikoloji"
+      },
+      {
+        "key": "B",
+        "text": "Tarih"
+      },
+      {
+        "key": "C",
+        "text": "Ekonomi"
+      },
+      {
+        "key": "D",
+        "text": "Felsefe"
+      },
+      {
+        "key": "E",
+        "text": "Sosyoloji"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Program geliştirmede aday hedeflerin toplumun ve eğitimin değerlerine uygunluğunun denetlenmesi, hedefler arasındaki iç tutarlılığın sağlanması ve öncelikli hedeflerin belirlenmesinde süzgeç görevi üstlenen temel disiplin Felsefedir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q12",
+    "questionNumber": 12,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğretmen yüksek lisans tezini hazırlarken portfolyo konusuna ilişkin alan yazın taraması yapmış, problem durumunu oluşturmuş ve buna uygun yöntem kullanarak çalışmasını yürütmüş, tezini yazarak danışmanına sunmuştur. Tez danışmanı bulgulardan yola çıkılarak varılan sonuçların yeterli olduğunu ancak alan yazın taramasının uluslararası kaynaklar kullanılarak genişletilmesi gerektiğini belirtmiştir.\n\nBuna göre öğretmen ve tez danışmanına ait davranışların temsil ettiği bilişsel basamaklar yenilenmiş Bloom Taksonomisi'ne göre aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yaratma – Analiz etme"
+      },
+      {
+        "key": "B",
+        "text": "Anlama – Analiz etme"
+      },
+      {
+        "key": "C",
+        "text": "Analiz etme – Yaratma"
+      },
+      {
+        "key": "D",
+        "text": "Yaratma – Değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Analiz etme - Değerlendirme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Öğretmenin araştırma yapıp özgün bir yüksek lisans tezi üretmesi Yenilenmiş Bloom Taksonomisinin en üst basamağı olan Yaratma (Creating) basamağıdır. Tez danışmanının tezin sonuçlarını ve literatürünü belirli ölçütlere göre inceleyip bir yargıya varması ve eleştirmesi ise Değerlendirme (Evaluating) basamağıdır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q13",
+    "questionNumber": 13,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Davranışlarından sorumlu olma ve vicdanına göre hareket etmenin öneminin farkında olan ve bunu okulunda da geliştirmek isteyen bir okul müdürü, bu değerlerin öğrencilerin değer yapılarının bir parçası haline gelmesi için öğretmenlerden, Bloom ve arkadaşları tarafından geliştirilen duyuşsal alan basamaklarını içeren çeşitli etkinlikler planlamalarını istemiştir.\n\nBuna göre okul müdürünün istemiş olduğu etkinliklerde ilk olarak aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bir öykü içinde değerin fark edilmesi sağlanmalıdır"
+      },
+      {
+        "key": "B",
+        "text": "Örnek olay içinde değeri açıklamak için fırsatlar sunulmalıdır"
+      },
+      {
+        "key": "C",
+        "text": "Değerin önemini takdir etmek için biyografiler analiz edilmelidir"
+      },
+      {
+        "key": "D",
+        "text": "Yeni değerler organize edilerek değer sisteminin parçası haline getirilmelidir"
+      },
+      {
+        "key": "E",
+        "text": "Değerlerin davranışa dönüşerek tekrar etmesi için yardımcı olunmalıdır"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Duyuşsal alanın basamakları sırasıyla: 1. Alma, 2. Tepkide Bulunma, 3. Değer Verme, 4. Örgütleme, 5. Nitelenmişlik (Kişilik haline getirme) şeklindedir. İlk basamak olan Alma basamağında öğrencinin değeri fark etmesi ve dikkatini yöneltmesi amaçlanır. Bu yüzden ilk olarak bir öykü içinde değerin fark edilmesi sağlanmalıdır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q14",
+    "questionNumber": 14,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir görsel sanatlar öğretmeni resimlerde renklerin kullanımını öğrencilerin renk kullanım becerileri geliştikçe derslerinde daha ayrıntılı bir şekilde ele almaktadır. Gerektiğinde yaptığı tekrar ve hatırlatmalarla öğrencilerin renkleri etkili kullanmalarına destek olmaktadır.\n\nBu öğretmen ders içeriğini aşağıdaki içerik düzenleme yaklaşımlarından hangisine uygun olarak şekillendirmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Konu ağı-Proje merkezli"
+      },
+      {
+        "key": "B",
+        "text": "Modüler"
+      },
+      {
+        "key": "C",
+        "text": "Sarmal"
+      },
+      {
+        "key": "D",
+        "text": "Piramitsel"
+      },
+      {
+        "key": "E",
+        "text": "Çekirdek"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Bruner'in geliştirdiği Sarmal Programlama Yaklaşımında; konular önceden öğrenilenlerin üzerine inşa edilir, zaman içinde tekrarlarla hatırlatılır ve öğrencinin becerisi geliştikçe kapsamı genişletilip derinleştirilerek yeniden ele alınır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q15",
+    "questionNumber": 15,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir müzik öğretmeni dersinde Hint, Kafkas, İran ve Latin müziği gibi farklı kültürlere ait müzikleri tanıtmak istemektedir. Bunun için her bir kültüre ait müzik aletleri ve melodilerden örnekler toplamayı ve her hafta bir kültüre ait müziği uygulamalı olarak öğrencilerine tanıtmayı planlamaktadır.\n\nBu öğretmen aşağıdaki içerik düzenleme yaklaşımlarından hangisini dikkate almaktadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Doğrusal"
+      },
+      {
+        "key": "B",
+        "text": "Sarmal"
+      },
+      {
+        "key": "C",
+        "text": "Modüler"
+      },
+      {
+        "key": "D",
+        "text": "Piramitsel"
+      },
+      {
+        "key": "E",
+        "text": "Çekirdek"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "İçeriğin birbiriyle zorunlu ön koşul ilişkisi bulunmayan, bağımsız ve kendi içinde anlamlı bütünler/öğrenme paketleri (modüller) halinde ayrıldığı yaklaşım Modüler Programlama Yaklaşımıdır. Her haftanın bağımsız bir müzik kültürüne ayrılması bu yaklaşıma tam örnektir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q16",
+    "questionNumber": 16,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir üniversitenin lisans programına kayıtlı öğrenciler, ilk iki yıl farklı bölümlerde de yer alan ortak dersleri alırlar. Diğer yıllarda ise kendi bölümlerine ait derslere devam ederek uzman olacakları alanda eğitimlerini tamamlarlar.\n\nBu üniversitenin ilgili lisans programında aşağıdaki içerik düzenleme yaklaşımlarından hangisi kullanılmaktadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sarmal"
+      },
+      {
+        "key": "B",
+        "text": "Piramitsel"
+      },
+      {
+        "key": "C",
+        "text": "Doğrusal"
+      },
+      {
+        "key": "D",
+        "text": "Modüler"
+      },
+      {
+        "key": "E",
+        "text": "Konu ağı – Proje merkezli"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Piramitsel Programlama Yaklaşımında; eğitim ilk yıllarda geniş tabanlı ortak ve temel derslerle başlar, yıllar ilerledikçe alan daralır ve program sonunda öğrenci tek bir alanda uzmanlaşmış olarak mezun olur.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q17",
+    "questionNumber": 17,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yabancı dil öğretmenlerinin yıllık plan üzerinde çalıştığı zümre toplantısına katılan bir okul müdürü; içeriğin etkili ve verimli düzenlenmesi için konuların hem kendi içinde hem de diğer konular arasında mantıklı bir şekilde sıralanmasının gerektiğini söyler. Bununla birlikte bazı konuların farklı zamanlarda daha ayrıntılı bir şekilde tekrarlanmasının yapılandırmacı yaklaşımla yürütülen yabancı dil öğretiminde etkili olduğunu vurgular.\n\nBuna göre okul müdürünün konuşmasında önerdiği içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sarmal"
+      },
+      {
+        "key": "B",
+        "text": "Doğrusal"
+      },
+      {
+        "key": "C",
+        "text": "Piramitsel"
+      },
+      {
+        "key": "D",
+        "text": "Çekirdek"
+      },
+      {
+        "key": "E",
+        "text": "Modüler"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Konuların mantıksal bir sırayla ilerlemesi ve daha sonraki aşamalarda derinleşerek ve genişleyerek tekrar edilmesi Sarmal (Spiral) Programlama Yaklaşımının temel özelliğidir. Dil öğretiminde kelime ve dilbilgisinin pekiştirilmesi için bu yaklaşım esastır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q18",
+    "questionNumber": 18,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Millî Eğitim Bakanlığı merkez teşkilatında görev yapan bir yönetici: \"Hazırlanacak eğitim planlarında öncelikle ne yapılacağı belirlenmeli ve ardından 'nasıl, ne zaman, nerede, niçin, kim tarafından' yapılacağı açık ve net bir şekilde ifade edilmelidir.\" demiştir.\n\nBu ifadede eğitim planlarına ilişkin aşağıdaki ilkelerden hangisine vurgu yapılmaktadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bütünlük"
+      },
+      {
+        "key": "B",
+        "text": "Süreklilik"
+      },
+      {
+        "key": "C",
+        "text": "Ölçülebilirlik"
+      },
+      {
+        "key": "D",
+        "text": "Yalınlık"
+      },
+      {
+        "key": "E",
+        "text": "Güvenilirlik"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Eğitim öğretim planlarında hedeflerin, yapılacak etkinliklerin ve görev dağılımlarının herkes tarafından kolayca anlaşılacak sadelikte, net, açık ve karmaşadan uzak biçimde yazılması Yalınlık (Açıklık) ilkesidir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_gel_1_q19",
+    "questionNumber": 19,
+    "testId": "egitim_prog_gel_1",
+    "testTitle": "Program Geliştirme Testi 1",
+    "topicId": "egitim_prog_gel_1",
+    "topicName": "Eğitim Bilimleri - Program Geliştirme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yeni geliştirilen bir öğretim programının deneneceği pilot okulda yöneticilik yapan ve yüksek lisansını program geliştirme alanında tamamlamış olan Hüseyin Bey programın işlevselliğini değerlendirmek için bir soru listesi hazırlar.\n\nBuna göre programın sadece işlevsellik özelliğini değerlendirmek isteyen Hüseyin Bey, listesinde aşağıdaki sorulardan hangisine yer vermemelidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Programda yer verilen konular ve etkinlikler hayatta geçerli mi?"
+      },
+      {
+        "key": "B",
+        "text": "Program, öğrencilerin günlük yaşam problemlerini çözme becerilerini geliştiriyor mu?"
+      },
+      {
+        "key": "C",
+        "text": "Program, bireyin ve toplumun ihtiyaçlarına cevap veriyor mu?"
+      },
+      {
+        "key": "D",
+        "text": "Programın kazanımları, kazanım yazma kurallarına uygun yazılmış mı?"
+      },
+      {
+        "key": "E",
+        "text": "Program, öğrencilerin yaparak yaşayarak öğrenmelerine fırsat veriyor mu?"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Bir öğretim programının İşlevsellik (Fonksiyonellik) özelliği; öğretilenlerin gerçek hayatta işe yaraması, geçerli olması, bireysel ve toplumsal ihtiyaçları karşılaması ve pratik problem çözme becerisi kazandırması ile ilgilidir. Kazanımların teknik kurallara uygun yazılmış olması ise biçimsel-teknik bir incelemedir, işlevsellik kriteri değildir.",
+    "hasImage": false,
+    "image": null
   }
 ];

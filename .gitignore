@@ -6,3 +6,7 @@ Thumbs.db
 .env
 .env.local
 scratch/
+şifreler.txt
+*.py
+scratch_*.json
+.firebase/
