@@ -1,4 +1,3 @@
-// EKYS 2027 Comprehensive Questions Database
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -28266,7 +28265,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Akarsu Debisi ve Havza:\n• Yıllık yağış miktarı ve havzanın genişliği akarsuyun taşıdığı toplam su miktarını (debisini) belirler."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Buharlaşma miktarının fazla olmasıyla)<br><br>📌 <strong>Akarsu Debisi (Akımı) ve İklim İlişkisi:</strong><br>• Büyük Menderes Nehri, Akdeniz iklim kuşağında yer alır. Yaz aylarında sıcaklıkların çok yüksek olması nedeniyle havzada <strong>şiddetli buharlaşma</strong> gerçekleşir ve tarımsal sulamada aşırı su tüketilir.<br>• Bu nedenle yıllık yağış miktarı yüksek görünse bile akarsuyun taşıdığı su miktarı (ortalama debisi) Arpaçay, Çoruh ve Yeşilırmak gibi kuzey/doğu nehirlerine göre belirgin şekilde düşüktür."
   },
   {
     "id": "cogr_test_3-q2",
@@ -28303,7 +28302,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Ege'de Kıta Sahanlığı (Şelf):\n• Ege'de dağlar kıyıya dik uzandığı için deniz sığdır, kıta sahanlığı çok geniştir ve falez oluşumu zordur; delta oluşumu kolaydır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kıyılarda falezlerin oluşmasında)<br><br>📌 <strong>Ege Kıyı Şelfi ve Falez Oluşumu:</strong><br>• <strong>Falez (Yalıyar):</strong> Dağların kıyıya paralel uzandığı ve denize dik indiği derin kıyılarda (Karadeniz ve Akdeniz) dalga aşındırmasıyla oluşan dik kıyı uçurumlarıdır.<br>• Ege kıyılarında dağlar kıyıya dik uzandığı için kıta sahanlığı geniştir, kıyı sığdır ve <strong>falez oluşumu görülmez</strong>. Bu nedenle A seçeneği üzerinde etkili olmamıştır.<br><br>❌ <strong>Kıyı Derinliğinin Az Olmasının Sonuçları:</strong><br>• Delta ovalarının kolay oluşması (B), geniş kumsal/plajların bulunması (C), kıta sahanlığının geniş olması (D) ve lagünlerin (kıyı set gölleri) oluşması (E) sığ kıyıların doğrudan sonucudur."
   },
   {
     "id": "cogr_test_3-q3",
@@ -28340,7 +28339,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 İç Kuvvetler vs Dış Kuvvetler:\n• Orojenez, Epirojenez, Volkanizma ve Depremler iç kuvvetlerdir; Peri bacaları volkanik tüf üzerinde akarsu/sel ve rüzgar aşındırmasıyla oluşur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Antalya falezleri)<br><br>📌 <strong>Dış Kuvvetler ve Aşınım Şekilleri Ayrımı:</strong><br>• <strong>Antalya Falezleri:</strong> Dalgaların kıyıdaki kayaları dipten oyması sonucu oluşan bir <strong>Dalga Aşınım Şeklidir</strong>.<br><br>❌ <strong>Akarsu / Sel Aşındırması Olan Diğer Şekiller:</strong><br>• <strong>A) Bozok Platosu:</strong> Akarsular tarafından yarılmış yüksek düzlük.<br>• <strong>B) Manavgat Şelalesi:</strong> Akarsu çağlayanı (aşınım).<br>• <strong>D) Saklıkent Kanyonu:</strong> Akarsuyun karstik araziyi derinlemesine yarmasıyla oluşan kanyon vadi.<br>• <strong>E) Peribacaları:</strong> Volkanik tüflerin sel ve akarsu sularıyla aşınması."
   },
   {
     "id": "cogr_test_3-q4",
@@ -28377,7 +28376,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Engebeli Bölümler:\n• Doğu Karadeniz ve Yukarı Murat-Van bölümleri çok engebeli ve dağlıktır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I: Heyelan Set, II: Volkanik Set, III: Tektonik)<br><br>📌 <strong>Göllerin Coğrafi Bölgelere Göre Oluşum Tipleri:</strong><br>• <strong>I. Doğu Karadeniz:</strong> Heyelan olaylarının yoğunluğuna bağlı olarak <strong>Heyelan Set Gölleri</strong> (Tortum, Sera, Uzungöl) yaygındır.<br>• <strong>II. Yukarı Murat - Van (Doğu Anadolu):</strong> Volkanik lavların vadilerin önünü kapatmasıyla oluşan <strong>Volkanik Set Gölleri</strong> (Van Gölü, Erçek, Nazik, Balık, Çıldır) yaygındır.<br>• <strong>III. Güney Marmara:</strong> Fay hatlarındaki çöküntü alanlarında oluşan <strong>Tektonik Göller</strong> (Manyas/Kuş, Ulubat, İznik, Sapanca) yaygındır."
   },
   {
     "id": "cogr_test_3-q5",
@@ -28414,7 +28413,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 İklim Çeşitliliği Faktörleri:\n• Türkiye'de aynı anda farklı iklimlerin görülmesi yükselti ve yer şekillerinin kısa mesafede değişmesinden kaynaklanır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yer şekillerinin çeşitli olması ve denizlerle çevrili olmasıyla)<br><br>📌 <strong>Türkiye'de İklim Çeşitliliğinin Temel Nedeni:</strong><br>• Normal şartlarda iklim çeşitliliği için geniş bir enlem farkı gerekir. Ancak Türkiye'de kuzey-güney enlem mesafesi sadece 6 paralel (666 km) olmasına rağmen çok zengin iklim çeşitliliği görülür.<br>• Bunun temel sebebi; <strong>kısa mesafelerde değişen dağ sıraları, yükselti basamakları, denizellik-karasallık ve bakı gibi Göreceli (Özel) Konum</strong> faktörleridir."
   },
   {
     "id": "cogr_test_3-q6",
@@ -28451,7 +28450,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Batıdan Doğuya Değişen Özellikler:\n• Ortalama yükselti artar, sıcaklıklar düşer, tarım ürünlerinin olgunlaşma süresi uzar, hidroelektrik potansiyel artar."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ortalama sıcaklık değerleri)<br><br>📌 <strong>Batıdan Doğuya Yükselti Artışının Sonuçları:</strong><br>• Atmosfer alttan ısındığı için troposferde yukarı çıkıldıkça her 200 metrede sıcaklık yaklaşık 1°C düşer.<br>• Türkiye'de batıdan doğuya gidildikçe yükselti basamakları belirgin şekilde arttığı için <strong>ortalama sıcaklık değerleri AZALIR</strong> (artış beklenemez).<br><br>❌ <strong>Doğuya Doğru Artan Unsurlar:</strong><br>• Karasallık şiddeti (A), yıllık sıcaklık farkı (B), tarım ürünlerinin olgunlaşma süresi/gecikmesi (C) ve karlı-donlu gün sayısı (D) doğuya gidildikçe artar."
   },
   {
     "id": "cogr_test_3-q7",
@@ -28488,7 +28487,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Jeolojik Zamanlar:\n• Taş kömürü 1. Zaman (Paleozoik); Linyit, Bor, Tuz ve Alp kıvrım dağları 3. Zaman (Tersiyer) oluşumudur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız III - Taş kömürü yataklarına sahip olması)<br><br>📌 <strong>Jeolojik Zamanlar ve Arazi Kanıtları:</strong><br>• <strong>III. Taşkömürü (Zonguldak):</strong> <strong>I. Jeolojik Zaman'da (Paleozoyik / Karbonifer)</strong> oluşmuş yaşlı arazilerin kesin kanıtıdır.<br><br>❌ <strong>III. Jeolojik Zaman (Tersiyer) Oluşumları:</strong><br>• <strong>I. Bor rezervleri:</strong> 3. Zaman göl tortulları.<br>• <strong>II. Kıvrım dağları:</strong> 3. Zaman Alp-Himalaya orojenezi.<br>• <strong>IV. Linyit yatakları:</strong> 3. Zaman genç linyit havzaları."
   },
   {
     "id": "cogr_test_3-q8",
@@ -28525,7 +28524,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Dağların Özellikleri:\n• Kuzey Anadolu Dağları ve Toroslar kıvrım dağlarıdır; Ege dağları (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe) kırık dağlarıdır (Horst)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Anadolu Bölgesi'ndeki volkanik dağlar daha çok Yukarı Fırat Bölümü'nde bulunur)<br><br>📌 <strong>Türkiye'deki Volkanik Dağların Coğrafi Dağılımı:</strong><br>• Doğu Anadolu Bölgesi'ndeki volkanik dağlar (Büyük Ağrı, Küçük Ağrı, Tendürek, Süphan, Nemrut) Yukarı Fırat'ta değil, <strong>Yukarı Murat - Van ve Erzurum - Kars Bölümlerinde</strong> Van Gölü havzası boyunca uzanan fay hattında yer alır. Bu nedenle B seçeneği yanlıştır.<br><br>❌ <strong>Doğru Olan Bilgiler:</strong><br>• Akdeniz ve Karadeniz dağları kıyıya paralel uzanır (A).<br>• En genç volkanik oluşum Manisa-Kula Volkanları'dır (C).<br>• Toroslar 3. zamanda oluşan genç kıvrım dağlarıdır (D).<br>• Kırıklı dağlar (Horstlar) en çok Ege'de yer alır (E)."
   },
   {
     "id": "cogr_test_3-q9",
@@ -28562,7 +28561,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Fiziki Haritada Renk Basamakları:\n• 0-500 m: Yeşil\n• 500-1000 m: Sarı\n• 1000-1500 m: Turuncu\n• 1500+ m: Kahverengi."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>📌 <strong>Fiziki Haritalarda Renk Basamakları (Yeşil Renk: 0 - 500 m):</strong><br>• <strong>I. Ergene Ovası (Marmara):</strong> Ortalama 50-150 m yükseltide olup <strong>yeşil</strong> renkle gösterilir.<br>• <strong>II. Çukurova (Akdeniz):</strong> Deniz seviyesinde bir delta ovası olup (0-100 m) <strong>yeşil</strong> renkle gösterilir.<br><br>❌ <strong>500 Metrenin Üzerindeki Alanlar:</strong><br>• <strong>III. Sivas Platosu:</strong> 1200-1400 m (Sarı ve kahverengi).<br>• <strong>IV. İç Batı Anadolu (Eskişehir-Kütahya):</strong> 800-1000 m (Sarı renk)."
   },
   {
     "id": "cogr_test_3-q10",
@@ -28599,7 +28598,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Doğu Anadolu Yükseltisi:\n• Doğu Anadolu Bölgesi kahverengi ve koyu kahverengi tonların en hakim olduğu, ortalama yükseltisi en fazla bölgedir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yıllık ortalama sıcaklığın güneyden kuzeye doğru azalması)<br><br>📌 <strong>Yükselti Sonuçları vs Enlem:</strong><br>• Sıcaklığın güneyden kuzeye doğru düzenli şekilde azalması, Dünya'nın küresel şekli ve Güneş ışınlarının geliş açısıyla (<strong>Enlem / Matematik Konum</strong>) ilgilidir; Türkiye'nin yükseltisiyle açıklanamaz.<br><br>❌ <strong>Yükseltinin Doğrudan Sonuçları:</strong><br>• Gerçek sıcaklık ile indirgenmiş sıcaklık farkının doğuda artması (B)<br>• Akarsuların derin vadiler açması ve hızlı akması (C)<br>• Karasallığa bağlı sıcaklık farklarının artması (D)<br>• Hidroelektrik enerji potansiyelinin doğuya doğru artması (E)"
   },
   {
     "id": "cogr_test_3-q11",
@@ -28636,7 +28635,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Marmara'da Renk Dağılımı:\n• Marmara Bölgesi yükseltisi en az bölge olduğu için fiziki haritada neredeyse tamamen yeşil renkle gösterilir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Karadeniz Bölgesi)<br><br>📌 <strong>Kısa Mesafede Yükselti ve Renk Çeşitliliği:</strong><br>• Karadeniz Bölgesi; deniz kıyısındaki düzlüklerden (<strong>yeşil: 0-500m</strong>) başlayıp, kısa mesafede dik yükselen vadiler ve yaylalardan geçerek (<strong>sarı/turuncu: 500-1500m</strong>), 3900 metreye varan Kaçkar Dağları'na (<strong>kahverengi ve kalıcı kar beyazı: 1500m+</strong>) ulaşır.<br>• Bu ani eğim ve yükselti basamakları sebebiyle fiziki haritada <strong>en fazla renk ve ton çeşitliliği Karadeniz Bölgesi'nde</strong> kullanılır."
   },
   {
     "id": "cogr_test_3-q12",
@@ -28673,7 +28672,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Yer Şekilleri ve Tarım Alanları:\n• Düz ovalarda tarım alanları geniş ve makineli tarım kolayken dağlık yörelerde tarım alanları parçalı ve dardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (I, II ve III)<br><br>📌 <strong>Ege ve Doğu Karadeniz Bölümleri Karşılaştırması:</strong><br>• <strong>I. Tarımsal Nüfus Yoğunluğu:</strong> Doğu Karadeniz'de engebeli yapı sebebiyle tarım arazisi çok dardır ve tarımsal nüfus yoğunluğu çok yüksektir; Ege'de ise geniştir ve düşüktür (Ortak değildir).<br>• <strong>II. Doğal Liman Sayısı:</strong> Ege'de enine kıyı tipi sebebiyle yüzlerce doğal liman/koy varken, Karadeniz'de boyuna kıyı sebebiyle neredeyse hiç yoktur (Ortak değildir).<br>• <strong>III. Delta Ovaları:</strong> Ege'de Dikili, Menemen, Selçuk, Balat deltaları bulunurken; Doğu Karadeniz kıyıları çok dik ve derin olduğu için delta ovası oluşamamıştır (Ortak değildir)."
   },
   {
     "id": "cogr_test_3-q13",
@@ -28710,7 +28709,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Volkanik Dağ Kuşakları:\n• İç Anadolu (Erciyes, Hasan, Melendiz, Karadağ, Karacadağ) ve Doğu Anadolu (Ağrı, Tendürek, Süphan, Nemrut) volkanik dağ hatlarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>📌 <strong>Türkiye'de Volkanik Dağların Yoğunlaştığı Alanlar:</strong><br>• <strong>I Numaralı Bölüm (Konya / İç Anadolu):</strong> Erciyes, Hasan Dağı, Melendiz, Karacadağ ve Karadağ bir hat üzerinde dizilmiştir.<br>• <strong>III Numaralı Bölüm (Yukarı Murat-Van / Doğu Anadolu):</strong> Nemrut, Süphan, Tendürek, Küçük ve Büyük Ağrı Dağları fay hattı boyunca uzanır.<br><br>➡️ Volkanik arazilerin en yoğun olduğu bölümler <strong>I ve III</strong>'tür."
   },
   {
     "id": "cogr_test_3-q14",
@@ -28747,7 +28746,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Eşyükselti (İzohips) Eğrileri:\n• Aynı izohips eğrisi üzerindeki tüm noktaların yükselti değerleri birbirine eşittir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Menemen - Amik)<br><br>📌 <strong>Aynı Yükselti Basamağındaki Ovalar (Yeşil Renk: 0 - 500 m):</strong><br>• <strong>Menemen Ovası:</strong> Gediz Nehri'nin Ege kıyısında oluşturduğu delta ovasıdır (0 - 100 m / <strong>Yeşil</strong>).<br>• <strong>Amik Ovası:</strong> Hatay'da Asi Nehri havzasında deniz seviyesine çok yakın bir graben/tektonik ovadır (0 - 150 m / <strong>Yeşil</strong>).<br><br>❌ <strong>Farklı Renklerde Olan Ovalar:</strong><br>• Erzincan (~1200m kahverengi) vs Ergene (~100m yeşil)<br>• Çukurova (~50m yeşil) vs Konya (~1000m sarı)<br>• Iğdır (~850m sarı) vs Yüksekova (~1950m kahverengi)"
   },
   {
     "id": "cogr_test_3-q15",
@@ -28784,7 +28783,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Kıyıya Paralel Dağların Etkisi:\n• Karadeniz ve Akdeniz'de boyuna kıyı tipi görülür, falezler yaygındır, kıta sahanlığı dardır, iç kesimlerle ulaşım geçitlerle sağlanır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yağış rejimi)<br><br>📌 <strong>Dağların Kıyıya Uzanış Doğrultusunun Sonuçları:</strong><br>• Dağların uzanışı; hava kütlelerinin yükselerek <em>yamaç yağışı (orografik)</em> bırakmasını (A), <em>kıyı şeklini</em> (enine-boyuna) (B), <em>hakim rüzgar yönünü</em> (C) ve <em>iç kesimlerle ulaşım kolaylığını</em> (E) doğrudan etkiler.<br>• <strong>Yağış Rejimi (D):</strong> Yağışın yıl içindeki aylara ve mevsimlere dağılışıdır; bunu dağların uzanışı değil doğrudan <strong>makroiklim tipi ve genel atmosfer dolaşımı</strong> belirler."
   },
   {
     "id": "cogr_test_3-q16",
@@ -28821,7 +28820,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Enine Kıyı Tipi (Ege):\n• Dağların denize dik uzandığı Ege kıyılarında enine kıyı tipi görülür; koy, körfez ve doğal liman sayısı çok fazladır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV => Limanlı kıyı)<br><br>📌 <strong>Türkiye'de Kıyı Tipleri Eşleştirmesi:</strong><br>• <strong>IV Numaralı Alan (Batı Karadeniz / Küre Dağları):</strong> Dağlar kıyıya paralel uzandığı için <strong>Boyuna Kıyı Tipi</strong> görülür. Haritada 'Limanlı kıyı' olarak eşleştirilmesi yanlıştır.<br><br>❌ <strong>Doğru Eşleştirmeler:</strong><br>• <strong>I (Teke / Kaş-Finike):</strong> Dalmaçya kıyı tipi.<br>• <strong>II (Ege kıyıları):</strong> Enine kıyı tipi.<br>• <strong>III (İstanbul Boğazı / Haliç):</strong> Ria tipi kıyı.<br>• <strong>V (Doğu Karadeniz):</strong> Boyuna kıyı tipi.<br>• <em>(Limanlı kıyı tipi ise Marmara'da Büyük ve Küçük Çekmece gölleri kıyısındadır).</em>"
   },
   {
     "id": "cogr_test_3-q17",
@@ -28858,7 +28857,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Tarım Ürünlerinin Olgunlaşma Zamanı:\n• Akdeniz kıyılarında sıcaklık ve güneşlenme fazla olduğu için aynı tarım ürünü Ege ve Marmara'dan daha erken hasat edilir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (I: Enlem, II: Yükselti)<br><br>📌 <strong>Tarım Ürünlerinin Olgunlaşma Süresini Etkileyen Faktörler:</strong><br>• <strong>I. Antalya'dan Kıyı Ege'ye Gecikme:</strong> Her iki bölge de deniz seviyesindedir. Ancak güneyden kuzeye gidildikçe Güneş ışınlarının geliş açısı daralır ve sıcaklık düşer; bu durum <strong>Enlem</strong> etkisidir.<br>• <strong>II. İç Ege'den Yukarı Fırat'a Gecikme:</strong> Her iki bölge de iç kesimde karasaldır. Ancak batıdan doğuya gidildikçe arazi yükselir ve sıcaklık belirgin şekilde düşer; bu durum <strong>Yükselti</strong> etkisidir."
   },
   {
     "id": "cogr_test_3-q18",
@@ -28895,7 +28894,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Türkiye'de Görülmeyen Coğrafi Olaylar:\n• Türkiye dönenceler dışında olduğu için Güneş ışınları hiçbir zaman dik gelmez ve gölge hiçbir zaman sıfır olmaz; tropikal fırtınalar ve kutup rüzgarları etkili değildir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)<br><br>📌 <strong>Türkiye'nin Coğrafi Konumu ile Çelişen Yanlış Yargılar:</strong><br>• <strong>I. Yargı YANLIŞTIR:</strong> Türkiye Yengeç Dönencesi'nin kuzeyinde (36°-42°K) yer aldığı için Güneş hiçbir zaman 90° dik açıyla gelmez ve <strong>gölge boyu hiçbir tarihte sıfır olmaz</strong>.<br>• <strong>II. Yargı YANLIŞTIR:</strong> Alize rüzgarları 0°-30° Tropikal Kuşak'ta eser. Türkiye 30°-60° Orta Kuşak'ta bulunduğu için <strong>Batı Rüzgarları</strong> kuşağındadır.<br><br>✅ <strong>Doğru Yargılar:</strong><br>• III (Tropikal iklim görülmez), IV (Dört mevsim yaşanır), V (Akdeniz maki bitki örtüsü bulunur)."
   },
   {
     "id": "cogr_test_5-q1",
@@ -28932,7 +28931,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Koordinat ve Saat Farkı:\n• Boylam farkı yerel saat farkını (her boylam 4 dk), enlem farkı ise Ekvator'a olan mesafeyi belirler."
+    "explanation": "Doğru Cevap: <strong>A</strong> (26° Doğu - 36° Kuzey)<br><br>📌 <strong>Türkiye'nin Uç Noktaları ve Koordinat Analizi:</strong><br>• <strong>K Noktası (En Batı Boylamı):</strong> Türkiye'nin en batı ucu Çanakkale Gökçeada İnceburun olup <strong>26° Doğu</strong> meridyenindedir.<br>• <strong>L Noktası (En Güney Enlemi):</strong> Türkiye'nin en güney ucu Hatay Beysun / Topraktutan köyü olup <strong>36° Kuzey</strong> paralelindedir.<br><br>🔍 <strong>Seçenek Analizi:</strong><br>• Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. En batı 26°D ve en güney 36°K olduğu için doğru eşleştirme A seçeneğidir."
   },
   {
     "id": "cogr_test_5-q2",
@@ -28969,7 +28968,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Çanakkale ve Bursa Karşılaştırması:\n• Çanakkale boğaz ve rüzgar potansiyeliyle, Bursa ise verimli ova ve sanayisiyle öne çıkar."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yerel saatlerinin aynı olması)<br><br>📌 <strong>Çanakkale ve Bursa Karşılaştırması:</strong><br>• <strong>Yerel Saat:</strong> Yalnızca aynı boylam (meridyen) üzerinde yer alan merkezlerde yerel saat aynıdır. Çanakkale (yaklaşık 26°-27° D) ile Bursa (yaklaşık 29° D) farklı boylamlarda yer aldığından yerel saatleri ve öğle vakitleri <strong>aynı olamaz</strong>.<br>• <strong>Benzer Özellikler:</strong> İkisi de Marmara Bölgesi'nde yer alır, yaklaşık aynı enlem kuşağında bulunurlar, Akdeniz/Geçiş iklimi etkileri görülür ve ikisinde de zengin tarım/sanayi veya boğaz jeopolitiği potansiyeli mevcuttur."
   },
   {
     "id": "cogr_test_5-q3",
@@ -29006,7 +29005,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Türkiye'nin Enerji ve Hidrolik Potansiyeli:\n• Yüksek ve engebeli arazi yapısı akarsuların hidroelektrik gücünü artırırken, kıtalar arası köprü konumu uluslararası boru hatları üssü olmasını sağlar."
+    "explanation": "Doğru Cevap: <strong>E</strong> (II ve III)<br><br>📌 <strong>Türkiye'nin Ortadoğu Ülkelerine Göre Jeopolitik ve Doğal Üstünlükleri:</strong><br>• <strong>I. Fosil Yakıt Zenginliği:</strong> Ortadoğu ülkeleri (Suudi Arabistan, Irak, İran vb.) petrol ve doğal gaz bakımından dünyanın en zengin bölgesidir; Türkiye bu konuda dışa bağımlıdır (Üstünlük sağlamaz).<br>• <strong>II. Hidroelektrik Enerji Potansiyeli:</strong> Türkiye yüksek, engebeli ve akarsuları bol su taşıyan yapısıyla kurak ve düz Ortadoğu ülkelerine göre çok büyük bir hidroelektrik güç üstünlüğüne sahiptir.<br>• <strong>III. Tatlı Su Kaynakları (Su Jeopolitiği):</strong> Fırat ve Dicle gibi Ortadoğu'nun can damarı olan nehirlerin kaynağı Türkiye'dedir. Türkiye su zengini bir kaynak ülke konumundadır."
   },
   {
     "id": "cogr_test_5-q4",
@@ -29043,7 +29042,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Dağların Sıcaklık ve Yağışa Etkisi:\n• Denizden gelen nemli hava dağların denize bakan yamacına bol yağış bırakırken iç yamaçlara kurak hava (fön) olarak geçer."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kuzey-güney yönlü sıcaklık ve yağış farkının belirginleşmesi)<br><br>📌 <strong>Dağların Uzanış Doğrultusu ve İklim Etkisi:</strong><br>• Türkiye'de Kuzey Anadolu Dağları ve Toroslar <strong>doğu-batı doğrultusunda</strong> uzanır.<br>• Bu uzanış, kuzeyden ve güneyden gelen denizel nemli hava kütlelerinin iç kesimlere girmesini engeller; kıyılarda bol yamaç (orografik) yağışı bırakırken, iç kesimlerde karasallığın ve sıcaklık farklarının artmasına yol açar."
   },
   {
     "id": "cogr_test_5-q5",
@@ -29080,7 +29079,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Dış Kuvvetlerin Enerji Kaynağı:\n• Akarsu, rüzgar, buzul, dalga ve akıntılar enerjilerini Güneş'ten; iç kuvvetler (orojenez, epirojenez, volkanizma, deprem) ise enerjilerini Manto / Yer çekirdeğinden alır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Enerjilerini Güneş'ten almaları)<br><br>📌 <strong>İç ve Dış Kuvvetlerin Temel Ayrımı:</strong><br>• <strong>Dış Kuvvetler</strong> (Akarsular, rüzgarlar, buzullar, dalga ve akıntılar, yer altı suları): Yeryüzünü aşındırıp biriktirerek düzleştirmeye (peneplenleştirmeye) çalışırlar ve enerjilerini doğrudan <strong>Güneş'ten (atmosferik olaylar)</strong> alırlar.<br>• <strong>İç Kuvvetler</strong> (Orojenez, epirojenez, volkanizma, depremler): Yeryüzünün ana şekillerini (dağ, plato, havza) oluştururlar ve enerjilerini <strong>yerin derinliklerindeki manto ve magmadan (radyoaktif ısıdan)</strong> alırlar."
   },
   {
     "id": "cogr_test_5-q6",
@@ -29117,7 +29116,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Masif (Eski Karalar) Alanlar:\n• 1. Jeolojik zamanda oluşmuş sert, oturmuş ve deprem riski düşük kütlelerdir: Yıldız Dağları, Saruhan-Menteşe, Zonguldak, Kırşehir, Kastamonu-Daday ve Bitlis Masifleri."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yüksek deprem riski taşımaları)<br><br>📌 <strong>Masif (Eski / Birinci Zaman Kütleleri) Araziler:</strong><br>• <strong>Özellikleri:</strong> Paleozoik'te (1. Jeolojik Zaman) oluşmuş, sertleşmiş, kıvrılma özelliğini yitirmiş ve oturmuş yaşlı kütlelerdir.<br>• <strong>Deprem Riski:</strong> Masif araziler tektonik olarak son derece duraylıdır, fay hatları azdır ve <strong>deprem riskleri çok düşüktür</strong> (Risk taşımaları ifadesi kesinlikle yanlıştır).<br>• <strong>Türkiye'deki Başlıca Masifler:</strong> Yıldız Dağları, Menteşe-Saruhan, Zonguldak, Daday-Devrekani (Kastamonu), Kırşehir, Alanya-Anamur ve Bitlis masifleridir."
   },
   {
     "id": "cogr_test_5-q7",
@@ -29154,7 +29153,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Türkiye'de En Geniş Yer Kaplayan Şekil:\n• Türkiye arazisinde en geniş alan kaplayan morfolojik ünite Dağlar ve Platolardır (%60+)."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dağlar ve Platolar)<br><br>📌 <strong>Türkiye Arazisinin Morfolojik Dağılımı:</strong><br>• Türkiye III. Zaman sonu ve IV. Zaman başında (Tersiyer - Kuaterner) toptan yükselmeye (epirojenez) uğradığı için yüksek bir ülkedir.<br>• Yeryüzü şekillerinin oransal dağılımında en büyük payı <strong>Dağlar (~%50-55) ve Platolar (~%30-35)</strong> oluşturur. Ovalar ise toplam yüzölçümünün yalnızca %15-18'lik kısmını kapsar."
   },
   {
     "id": "cogr_test_5-q8",
@@ -29191,7 +29190,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Fosil Yakıtların Oluşumu:\n• Taş kömürü Paleozoik (1. Zaman) gür ormanlarından; Linyit ve Petrol ise Tersiyer (3. Zaman) tortullaşmalarından oluşmuştur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Taş Kömürü)<br><br>📌 <strong>Jeolojik Zamanlar ve Fosil Yakıt Oluşumları:</strong><br>• <strong>I. Jeolojik Zaman (Paleozoik / Karbonifer):</strong> Gür orman örtüsünün havasız ortamda kömürleşmesiyle <strong>Taş Kömürü</strong> yatakları (Zonguldak-Karadeniz Ereğlisi) oluşmuştur.<br>• <strong>III. Jeolojik Zaman (Tersiyer / Neojen):</strong> Türkiye'nin ana jeolojik dönemidir; <strong>Linyit, Petrol, Doğal Gaz, Bor ve Tuz</strong> yatakları bu dönemde teşekkül etmiştir."
   },
   {
     "id": "cogr_test_5-q9",
@@ -29228,7 +29227,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Kırık Dağlar (Horst-Graben):\n• Sert ve esnekliğini yitirmiş tabakaların yan basınçlarla kırılması sonucu yüksekte kalan bloklara Horst (Dağ), çöken çukurluklara Graben (Ova) denir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Horst - Kırık Dağları)<br><br>📌 <strong>Kırılma (Faylanma) ve Horst-Graben Mekanizması:</strong><br>• Esnekliğini kaybetmiş sert tabakalar yan basınçlara maruz kaldığında kıvrılamaz ve <strong>kırılarak fay hatlarını</strong> oluşturur.<br>• Fay hatları boyunca yüksekte kalan kısımlara <strong>HORST (Kırık Dağı)</strong>, çöken çukurluklara ise <strong>GRABEN (Tektonik Çöküntü Ovası)</strong> denir.<br>• Ege'deki Kaz, Madra, Yunt, Bozdağlar, Aydın Dağları ve Menteşe Dağları ile Akdeniz'deki Amanos (Nur) Dağları tipik birer horsttur."
   },
   {
     "id": "cogr_test_5-q10",
@@ -29265,7 +29264,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Volkanik Araziler ve Toprak Verimi:\n• Volkanik araziler mineralce çok zengin olduğundan (tüflü topraklar) bağcılık ve patates tarımı için son derece verimlidir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Topraklarının mineralce çok zengin ve tarımsal veriminin yüksek olması)<br><br>📌 <strong>Volkanik Arazilerin Yerleşim ve Tarım Açısından Önemi:</strong><br>• Volkanik araziler lav ve tüf örtüleri nedeniyle potasyum, fosfor ve demir gibi <strong>mineraller bakımından son derece zengindir</strong>.<br>• Bu durum geçmişten günümüze tehlikeli olmasına rağmen insanların volkan eteklerine (Kapadokya, Nevşehir, Kayseri, Manisa Kula vb.) yerleşmesine ve bağcılık, patates, meyvecilik gibi verimli tarım yapmasına yol açmıştır."
   },
   {
     "id": "cogr_test_5-q11",
@@ -29302,7 +29301,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Jeomorfolojik Yanlış Bilgi:\n• Türkiye arazisi yaşlı ve düzleşmiş (peneplen) bir arazi DEĞİLDİR; Kuaterner başında toptan yükselmiş genç ve yüksek bir arazidir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Türkiye arazisinin aşınarak tamamen düzleşmiş bir peneplen olması)<br><br>📌 <strong>Türkiye'nin Jeomorfolojik Evrimi:</strong><br>• Türkiye III. Zamanın ortalarında peneplenleşmiş (düzleşmiş), ancak III. Zaman sonu ve IV. Zaman başında (Kuaterner) <strong>toptan yükselmiştir (epirojenik yükselme)</strong>.<br>• Bu toptan yükselme nedeniyle düzlükler yüksekte kalmış (platolar), akarsular gençleşerek derin kanyon ve çentik vadiler kazmıştır. Bu yüzden Türkiye yaşlı/peneplen değil, <strong>genç, dinamik ve engebeli</strong> bir ülkedir."
   },
   {
     "id": "cogr_test_5-q12",
@@ -29339,7 +29338,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Volkanik Alanların En Geniş Olduğu Bölge:\n• Doğu Anadolu Bölgesi (Ağrı, Tendürek, Süphan, Nemrut volkan konileri ve geniş lav platoları) volkanik arazilerin en yaygın olduğu yerdir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Anadolu Bölgesi)<br><br>📌 <strong>Türkiye'de Volkanizmanın Dağılışı:</strong><br>• <strong>Doğu Anadolu:</strong> Levha sıkışmalarının ve kabuk kırıklarının en yoğun olduğu bölgedir. Ağrı (Büyük ve Küçük Ağrı), Tendürek, Süphan, Nemrut volkan konileri ve Erzurum-Kars lav platoları ile <strong>volkanik arazilerin en geniş yer kapladığı bölgedir</strong>.<br>• İç Anadolu (Erciyes, Hasan, Melendiz, Karadağ, Karacadağ) ve Güneydoğu (Karacadağ) diğer önemli alanlardır."
   },
   {
     "id": "cogr_test_5-q13",
@@ -29376,7 +29375,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Kıvrım Dağları (Antiklinal - Senklinal):\n• Esnek tortul tabakaların sıkışmasıyla kıvrılarak yükselen kısımlara Antiklinal (Dağ), çanaklaşan kısımlara Senklinal (Vadi) denir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Antiklinal - Senklinal)<br><br>📌 <strong>Kıvrılma (Orojenez) Mekanizması:</strong><br>• Jeosenklinallerde biriken esnek tortul tabakalar yan basınçların etkisiyle kıvrılarak yükselir.<br>• Kıvrılma sonucunda kubbeleşerek dağ sıralarını oluşturan yüksek kısımlara <strong>ANTİKLİNAL</strong>, çukurda kalan çanak kısımlarına ise <strong>SENKLİNAL</strong> adı verilir.<br>• Kuzey Anadolu Dağları ve Toroslar bu mekanizmayla oluşmuş antiklinal sıralarıdır."
   },
   {
     "id": "cogr_test_5-q14",
@@ -29413,7 +29412,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Dağ Oluşum Eşleştirmesi:\n• Ağrı, Erciyes, Nemrut = Volkanik\n• Kaz, Madra, Yunt, Aydın = Kırık (Horst)\n• Kaçkar, Bolkar, Aladağlar = Kıvrım."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kaçkar - Kırık Dağ)<br><br>📌 <strong>Dağların Oluşum Tipleri Eşleştirmesi:</strong><br>• <strong>Kaçkar Dağları:</strong> Doğu Karadeniz'de yer alan ve Alp Orojenezi ile kıvrılarak yükselmiş <strong>KIVRIM DAĞIDIR</strong>. Kırık (horst) değildir.<br>• <strong>Nemrut, Erciyes, Ağrı:</strong> Volkanik dağlardır.<br>• <strong>Madra, Kaz, Bozdağlar, Aydın:</strong> Kırık (Horst) dağlarıdır.<br>• <strong>Bolkar, Aladağlar, Küre, Canik:</strong> Kıvrım dağlarıdır."
   },
   {
     "id": "cogr_test_5-q15",
@@ -29450,7 +29449,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Derinlik Volkanizması (Batolit):\n• Magmanın yüzeye çıkamadan yer altında yavaş yavaş soğumasıyla Batolit, Lakolit, Sill ve Dayk oluşur. Bursa Uludağ tipik bir derinlik volkanizması (Batolit/İç püskürük) kütlesidir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uludağ - Batolit)<br><br>📌 <strong>Derinlik Volkanizması ve Batolit Örneği:</strong><br>• Magmanın yer kabuğunun içine sokulup yüzeye çıkamadan derinlerde yavaş yavaş soğuyarak katılaşmasına <strong>derinlik volkanizması</strong> denir. Oluşan dev granit kütlelere <strong>Batolit</strong> denir.<br>• <strong>Bursa Uludağ:</strong> Tipik bir <strong>İç Püskürük / Batolit</strong> kütlesidir. Zamanla üzerindeki örtü tabakasının dış kuvvetlerce aşındırılması sonucu granit yüzeye çıkmıştır (Tor topoğrafyası)."
   },
   {
     "id": "cogr_test_5-q16",
@@ -29487,7 +29486,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Alp-Himalaya Kıvrım Sistemi:\n• Kuzey Anadolu Dağları ve Toros Dağları Tetis Denizi tabanındaki tortulların Avrasya ve Afrika/Arabistan levhaları arasında sıkışmasıyla yükselmiştir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kuzey Anadolu Dağları ve Toroslar)<br><br>📌 <strong>Alp-Himalaya Orojenez Kuşağı:</strong><br>• Mezozoik ve Tersiyer'de Tetis Jeosenklinalinde biriken tortullar, Avrasya ve Afrika/Arabistan levhalarının birbirine yaklaşması sonucu sıkışıp yükselmiştir.<br>• Bu orojenez kuşağında kuzeyde <strong>Kuzey Anadolu Dağları (Karadeniz Dağları)</strong>, güneyde ise <strong>Toros Dağları</strong> oluşmuştur."
   },
   {
     "id": "cogr_test_5-q17",
@@ -29524,7 +29523,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Renklendirme Yöntemi Yükselti Kuralı:\n• Renkler sadece yükseltiyi gösterir; eğim ya da bitki örtüsü hakkında doğrudan bilgi vermez."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Renk basamakları yalnızca yükselti aralıklarını gösterir)<br><br>📌 <strong>Fiziki Haritalarda Renklendirme Yöntemi:</strong><br>• Renkler sadece <strong>deniz seviyesinden olan yükselti basamaklarını</strong> gösterir (0-500 m yeşil, 500-1000 m sarı, 1000-1500 m turuncu, 1500+ m kahverengi).<br>• Renkler <strong>asla</strong> bitki örtüsünü, ormanları, tarım ürünlerini veya arazinin eğim durumunu göstermez (Örn: Çukurova da yeşildir, Ergene Ovası da; Konya Ovası sarıdır, Erzurum Ovası kahverengidir)."
   },
   {
     "id": "cogr_test_5-q18",
@@ -29561,7 +29560,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Harita Doğrultusu Analizi:\n• Kıyıdan iç kesimlere ve doğuya doğru gidildikçe yükselti kademeli olarak artar."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kıyıdan iç kesimlere ve batıdan doğuya doğru yükseltinin artması)<br><br>📌 <strong>Türkiye Profilinde Renk ve Yükselti Değişimi:</strong><br>• Batıdan doğuya veya kıyılardan iç bölgelere doğru gidildikçe haritadaki yeşil tonların yerini önce sarı, sonra turuncu ve en doğuda koyu kahverengi tonlar alır.<br>• Bu durum Türkiye genelinde <strong>ortalama yükseltinin batıdan doğuya doğru düzenli olarak artmasının</strong> doğrudan bir sonucudur."
   },
   {
     "id": "cogr_test_6-q1",
@@ -29598,7 +29597,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Akarsu Aşındırma Gücü:\n• Akış hızı ve debisi yüksek akarsular derin çentik vadiler kazar, yatak eğimi fazladır ve bol alüvyon taşır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yatak eğimlerinin ve akış hızlarının fazla olmasıyla)<br><br>📌 <strong>Akarsu Aşındırma Gücü ve Yatak Eğimi:</strong><br>• Türkiye akarsularının hidroelektrik enerji potansiyelinin ve aşındırma (derine kazma) güçlerinin çok yüksek olmasının temel nedeni, arazinin genç ve yüksek olması sebebiyle <strong>yatak eğimlerinin ve akış hızlarının çok fazla olmasıdır</strong>.<br>• Bu durum akarsuların geniş tabanlı değil, dar ve derin <strong>çentik (V tipi) vadiler</strong> oluşturmasını sağlar."
   },
   {
     "id": "cogr_test_6-q2",
@@ -29635,7 +29634,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Akarsuların Döküldüğü Denizler:\n• Meriç, Gediz, Bakırçay, Menderesler -> Ege Denizi\n• Kızılırmak, Yeşilırmak, Çoruh, Sakarya -> Karadeniz\n• Fırat ve Dicle -> Basra Körfezi (Hint Okyanusu)\n• Kura ve Aras -> Hazar Gölü."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Fırat - Hazar Gölü)<br><br>📌 <strong>Türkiye Akarsularının Döküldüğü Havzalar ve Denizler:</strong><br>• <strong>Fırat Nehri:</strong> Doğu Anadolu'dan doğar, Suriye ve Irak'ı geçerek Dicle ile birleşir (Şattülarap) ve <strong>Basra Körfezi'ne (Hint Okyanusu açık havzası)</strong> dökülür. Hazar Gölü'ne dökülmez.<br>• <strong>Hazar Kapalı Havzasına Dökülenler:</strong> Doğu Anadolu'dan doğan <strong>Aras ve Kura</strong> nehirleridir.<br>• <strong>Meriç ve Bakırçay:</strong> Ege Denizi'ne;<br>• <strong>Kızılırmak ve Çoruh:</strong> Karadeniz'e dökülür."
   },
   {
     "id": "cogr_test_6-q3",
@@ -29672,7 +29671,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Karstik Aşınım Şekilleri:\n• Kalker (kireçtaşı) üzerinde suyun eritmesiyle oluşan Lapya, Dolin, Uvala, Polye, Mağara ve Obruklar Akdeniz ve Toroslar kuşağında yaygındır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kalker, jips ve kaya tuzu gibi suda kolay çözünebilen kayaçların varlığı)<br><br>📌 <strong>Karstik Şekillerin Oluşum Koşulları:</strong><br>• Lapya, dolin, uvala, polye, mağara, sarkıt-dikit ve traverten gibi şekiller <strong>karstik aşınım ve birikim şekilleridir</strong>.<br>• Bu şekillerin Akdeniz kuşağında (Toroslar, Teke, Taşeli) çok yaygın olmasının temel şartı, suda kimyasal olarak kolayca çözünebilen <strong>kalker (kireçtaşı), jips (alçıtaşı) ve kaya tuzu</strong> gibi kayaçların varlığıdır."
   },
   {
     "id": "cogr_test_6-q4",
@@ -29709,7 +29708,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Horst-Graben Sistemleri:\n• Kırılma ile oluşan Ege graben ovaları (Bakırçay, Gediz, Küçük Menderes, Büyük Menderes) fay hatları ve sıcak su kaynaklarıyla çakışır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Gediz, Küçük Menderes ve Büyük Menderes)<br><br>📌 <strong>Horst - Graben Ovaları (Ege Çöküntü Hatları):</strong><br>• Ege Bölgesi'nde kırılma (faylanma) ile oluşan graben çukurluklarında gelişmiş tektonik ovalar: <strong>Bakırçay, Gediz, Küçük Menderes ve Büyük Menderes</strong> grabenleridir.<br>• Bu hatlar boyunca fay kaynakları (jeotermal sular) ve 1. derece deprem kuşakları uzanır."
   },
   {
     "id": "cogr_test_6-q5",
@@ -29746,7 +29745,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Kahverengi Tonlar:\n• Fiziki haritada kahverengi renk 1500 metre ve üzeri yüksek dağlık alanları ve platoları gösterir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (1500 metre ve üzeri yüksek dağlık alanlar ve platolar)<br><br>📌 <strong>Fiziki Haritalarda Kahverengi Renk:</strong><br>• <strong>0 - 500 m:</strong> Yeşil tonları (Kıyı ovaları, alçak platolar)<br>• <strong>500 - 1000 m:</strong> Sarı (İç Anadolu ovaları vb.)<br>• <strong>1000 - 1500 m:</strong> Turuncu (Orta platolar, geçiş kuşakları)<br>• <strong>1500 m ve üzeri:</strong> Kahverengi ve koyu kahverengi (Doğu Anadolu dağları, yüksek platolar ve zirveler)."
   },
   {
     "id": "cogr_test_6-q6",
@@ -29783,7 +29782,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Göl Oluşum Türleri:\n• Van Gölü (Volkanik Set + Tektonik), Beyşehir/Eğirdir (Tektonik-Karstik), Çıldır (Lav seti), Bafa/Köyceğiz (Alüvyal set)."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Nemrut Gölü - Kaldera)<br><br>📌 <strong>Göl Oluşum Tipleri Eşleştirmesi:</strong><br>• <strong>Nemrut Gölü (Bitlis):</strong> Nemrut volkanının patlaması ve çökmesiyle oluşan dev kazan çanağında su birikmesiyle oluşmuş dünyanın en büyük 2. <strong>Kaldera (Volkanik) gölüdür</strong>.<br>• <strong>Bafa ve Köyceğiz:</strong> Alüvyal set gölüdür.<br>• <strong>Büyükçekmece ve Terkos:</strong> Kıyı set (Lagün) gölüdür.<br>• <strong>Tortum, Sera, Abant, Yedigöller:</strong> Heyelan set gölleridir."
   },
   {
     "id": "cogr_test_6-q7",
@@ -29820,7 +29819,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Karstik Platolar (Teke ve Taşeli):\n• Kireçtaşlı karstik arazinin suyu yeraltına sızdırması ve aşırı engebeli olması yerleşmeyi sınırlandırmıştır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Teke ve Taşeli Platoları)<br><br>📌 <strong>Karstik Platolar ve Nüfus Yoğunluğu:</strong><br>• Akdeniz Bölgesi'nde yer alan <strong>Teke ve Taşeli Platoları</strong> kalkerli (kireçtaşı) karstik kayaçlardan oluşur.<br>• Yağan yağmur ve kar suları yüzeyde durmayıp karstik çatlaklardan yer altına sızdığı için yüzey suyu bakımından çok fakirdir, arazi çok engebeli ve kayalıktır. Bu nedenle <strong>nüfus ve yerleşme son derece seyrektir</strong> (Sadece kıl keçisi yetiştiriciliği yapılır)."
   },
   {
     "id": "cogr_test_6-q8",
@@ -29857,7 +29856,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Deniz Kirliliği Nedenleri:\n• Sanayileşmiş körfezler (İzmit, İzmir, İskenderun ve Gemlik) kirlilik oranı en yüksek deniz alanlarımızdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İzmit Körfezi ve İskenderun Körfezi)<br><br>📌 <strong>Türkiye Denizlerinde Kirlilik Yoğunluğu:</strong><br>• Kirliliğin en yüksek olduğu deniz alanları sanayi tesislerinin, rafinerilerin, ağır gemi trafiğinin ve yoğun nüfusun toplandığı kapalı körfezlerdir.<br>• <strong>İzmit Körfezi (Marmara)</strong> ve <strong>İskenderun Körfezi (Akdeniz)</strong> ile <strong>İzmir Körfezi (Ege)</strong> sanayi ve liman atıkları nedeniyle deniz kirliliğinin en kritik olduğu merkezlerdir."
   },
   {
     "id": "cogr_test_6-q9",
@@ -29894,7 +29893,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Delta Oluşum Şartları:\n• Kıyıda dalga ve akıntı az olmalı, kıta sahanlığı geniş (deniz sığ) olmalı, akarsu bol alüvyon taşımalı ve gelgit genliği az olmalıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Kıyıda güçlü akıntıların ve yüksek gelgit (gelgit genliğinin) olması)<br><br>📌 <strong>Delta Ovası Oluşum Şartları:</strong><br>• <strong>Gerekli Koşullar:</strong> Akarsuyun bol alüvyon taşıması, havzada erozyonun güçlü olması, kıyının sığ olması (kıta sahanlığının geniş olması) ve kıyıda dalga/akıntı etkisinin zayıf olması gerekir.<br>• <strong>Oluşumu Engelleyen Faktör:</strong> Gelgit genliğinin (farkının) yüksek olması ve güçlü dip akıntıları biriken alüvyonları süpürüp götüreceği için delta oluşumunu <strong>engeller</strong> (Örn: Okyanus kıyılarında delta yerine Haliç oluşur)."
   },
   {
     "id": "cogr_test_6-q10",
@@ -29931,7 +29930,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Rüzgar Aşındırmasının Etkili Olduğu Yerler:\n• Bitki örtüsünün cılız, toprağın kuru ve kumlu olduğu kurak İç Anadolu (Konya/Karapınar) ve Güneydoğu'da rüzgar aşındırması ve kumullar yaygındır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İç Anadolu (Konya-Karapınar Çevresi))<br><br>📌 <strong>Rüzgâr Aşındırma ve Biriktirme Şekilleri:</strong><br>• Rüzgârların yeryüzünü şekillendirebilmesi için iklimin kurak/yarı kurak, bitki örtüsünün cılız ve toprağın gevşek taneli (kumlu) olması gerekir.<br>• Türkiye'de rüzgâr aşınım (mantarkaya, şahit kaya) ve birikim (kumul, lös) şekillerinin en yaygın görüldüğü yer <strong>İç Anadolu (özellikle Konya-Karapınar rüzgar erozyonu sahası)</strong> ve Güneydoğu Anadolu'dur."
   },
   {
     "id": "cogr_test_6-q11",
@@ -29968,7 +29967,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Ovaların Yükselti Farkı:\n• Çukurova ve Bafra kıyı deltası (0-100 m - Yeşil); Konya Ovası (1000 m - Sarı); Pasinler ve Yüksekova (1800+ m - Kahverengi) renkle gösterilir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Fiziki haritada farklı renk tonlarıyla gösterilmeleri)<br><br>📌 <strong>Ovaların Yükselti Kriteri:</strong><br>• Çukurova ve Bafra kıyı deltasıdır ve deniz seviyesindedir (0-200 m -> Yeşil).<br>• Konya Ovası iç ovadır (~1000 m -> Sarı).<br>• Erzurum ve Yüksekova tektonik dağ arası ovalarıdır (1800-2000 m -> Kahverengi).<br>• Bütün ovalar birer düzlük olmasına rağmen, deniz seviyesinden <strong>yükseltileri farklı olduğu için fiziki haritada farklı renklerle</strong> gösterilirler."
   },
   {
     "id": "cogr_test_6-q12",
@@ -30005,7 +30004,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Marmara'da Taşkın Riski (Meriç/Ergene):\n• Yatak eğiminin çok az olması ve menderesler çizmesi nedeniyle bahar yağışlarında su hızla akıp gidemez ve taşkınlara yol açar."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yatak eğiminin çok az olması ve akarsuyun menderesler çizerek yavaş akması)<br><br>📌 <strong>Meriç ve Ergene Nehirlerinde Taşkın Mekanizması:</strong><br>• Meriç ve Ergene nehirleri Marmara düzlüklerinde aktığı için <strong>yatak eğimleri yok denecek kadar azdır</strong> ve geniş menderesler çizerler.<br>• Bahar aylarında karlar eridiğinde veya Bulgaristan baraj kapaklarını açtığında suyun akış hızı düşük olduğu için yatak suyu tahliye edemez ve hızla taşarak tarım arazilerini su altında bırakır."
   },
   {
     "id": "cogr_test_6-q13",
@@ -30042,7 +30041,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Girintili-Çıkıntılı Kıyılar (Ege):\n• Dağların kıyıya dik uzanması kıyı uzunluğunu ve girinti-çıkıntı (koy/körfez) sayısını en üst seviyeye çıkarır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Dağların kıyı çizgisine dik uzanması)<br><br>📌 <strong>Ege Kıyılarının Girintili-Çıkıntılı Olma Nedeni:</strong><br>• Ege Bölgesi'nde horst ve grabenler (dağlar ve çöküntü vadileri) denize <strong>dik (enine)</strong> uzanır.<br>• Deniz, çöken graben vadilerinin içine sokularak çok sayıda koy, körfez, yarımada ve doğal liman oluşturmuştur. Bu sayede Ege, Türkiye'nin kuş uçuşu ile gerçek kıyı uzunluğu arasındaki farkın en fazla olduğu bölgesidir."
   },
   {
     "id": "cogr_test_6-q14",
@@ -30079,7 +30078,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Mağara ve Obruk Turizmi:\n• Damlataş, Karain, Dim mağaraları ile Cennet-Cehennem obrukları karstik aşınım şekilleri olup Akdeniz Bölgesi turizminde önemlidir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Akdeniz Bölgesi (Teke ve Taşeli / Antalya-Mersin Kuşağı))<br><br>📌 <strong>Mağara ve Obruk Turizminin Yoğunlaştığı Bölge:</strong><br>• Türkiye'de karstik kireçtaşı arazilerin en geniş yer tuttuğu yer Akdeniz Bölgesi'dir.<br>• Damlataş, Karain, Dim, İnsuyu mağaraları ile Cennet-Cehennem obrukları bu bölgede yer alır ve mağara turizminin odak noktasıdır."
   },
   {
     "id": "cogr_test_6-q15",
@@ -30116,7 +30115,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Dağların Uzanış Yönü Farkı:\n• Karadeniz ve Akdeniz'de kıyıya paralel (boyuna), Ege'de kıyıya dik (enine) uzanır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Karadeniz ve Akdeniz'de paralel, Ege'de dik uzanması)<br><br>📌 <strong>Kıyı Tipleri ve Dağların Uzanışı:</strong><br>• <strong>Karadeniz ve Akdeniz:</strong> Dağlar kıyıya paralel uzanır (<strong>Boyuna Kıyı Tipi</strong>); kıyı ile iç kesimler arasında ulaşım zordur, geçitlerle sağlanır.<br>• <strong>Ege Kıyıları:</strong> Dağlar kıyıya dik uzanır (<strong>Enine Kıyı Tipi</strong>); denizel etki iç kesimlere kolayca sokulur ve ulaşım çok rahattır."
   },
   {
     "id": "cogr_test_6-q16",
@@ -30153,7 +30152,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Harita Bölge Analizi:\n• Kıyı bölgelerinde nemlilik ve yağış fazlayken iç kesimlerde karasallık egemendir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İç kesimlerde karasallık ve sıcaklık farklarının artması)<br><br>📌 <strong>Kıyıdan İç Kesimlere Geçiş Özellikleri:</strong><br>• Kıyı bölgelerinde nemlilik yüksek, yıllık ve günlük sıcaklık farkları az, yağış fazladır.<br>• İç kesimlere gidildikçe deniz etkisi kesildiği için <strong>karasallık şiddetlenir</strong>, donlu gün sayısı artar ve günlük/yıllık sıcaklık farkları belirginleşir."
   },
   {
     "id": "cogr_test_6-q17",
@@ -30190,7 +30189,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Engebeli Arazinin Olumsuz Etkisi:\n• Yol yapım maliyetlerinin aşırı yüksek olması, makineli tarımın yapılamaması ve tarım alanlarının dar olması engebenin sonuçlarıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Tarımsal sulama maliyetlerinin azalması)<br><br>📌 <strong>Engebeli Arazinin Sosyo-Ekonomik Sonuçları:</strong><br>• <strong>Engebenin Yarattığı Olumsuzluklar:</strong> Makineli tarımı zorlaştırır, yol yapım ve köprü/tünel maliyetlerini çok artırır, tarım arazilerini parçalar ve erozyonu hızlandırır.<br>• <strong>Sulama Maliyeti:</strong> Engebeli arazilerde suyun tarlalara ulaştırılması (pompaj, terfi istasyonları) maliyeti <strong>azaltmaz, tam tersine aşırı artırır</strong>."
   },
   {
     "id": "cogr_test_6-q18",
@@ -30227,7 +30226,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Tuz Gölü Özellikleri:\n• Tektonik kökenlidir, derinliği çok azdır (sığdır) ve yaz kuraklığında buharlaşmayla alanı aşırı daralarak tuz tabakası açığa çıkar."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Derinliğinin çok fazla olması ve akarsularla bol su beslenimi alması)<br><br>📌 <strong>Tuz Gölü'nün Jeomorfolojik ve Hidrolojik Özellikleri:</strong><br>• <strong>Oluşumu:</strong> Tektonik kökenli bir kapalı havzadır.<br>• <strong>Derinliği:</strong> Türkiye'nin en sığ göllerindendir (ortalama derinliği 1-2 metredir; derin değildir!).<br>• <strong>Buharlaşma:</strong> Yaz aylarında şiddetli buharlaşma nedeniyle alanı aşırı daralır ve yüzeyinde kalın bir tuz tabakası oluşarak Türkiye'nin tuz ihtiyacının büyük kısmını karşılar."
   },
   {
     "id": "cogr_test_7-q1",
@@ -30264,7 +30263,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Yaylacılık ve Kış Turizmi:\n• Dağlık ve yüksek alanlar kış sporları (Uludağ, Palandöken, Erciyes, Kartalkaya) ve yaylacılık için elverişlidir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yüksek dağlık ve karlı alanların yaygın olması)<br><br>📌 <strong>Yaylacılık ve Kış Turizminin Dağılışı:</strong><br>• Türkiye'de Doğu Karadeniz (Kaçkarlar), Toroslar ve Erzurum-Palandöken, Bursa-Uludağ, Kayseri-Erciyes gibi merkezlerde yaylacılık ve kış turizminin gelişmiş olması, arazinin <strong>yüksek, engebeli ve kışın uzun süre karla kaplı kalabilen dağlık morfolojisinden</strong> kaynaklanır."
   },
   {
     "id": "cogr_test_7-q2",
@@ -30301,7 +30300,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Yükselti Farkı En Fazla Olan Kentler:\n• Deniz seviyesindeki kıyı kenti (İzmir/Antalya) ile Doğu Anadolu'daki yüksek kent (Erzurum/Kars) arasında ~1900 m yükselti farkı vardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Rize)<br><br>📌 <strong>Kısa Mesafede Yükselti ve İklim Değişimi:</strong><br>• Deniz kıyısında (0 m) yer alan Rize merkezinden güneye doğru sadece 30-40 km ilerlendiğinde Kaçkar Dağları'nın 3900 metrelik zirvelerine ulaşılır.<br>• Bu durum Rize'de <strong>kısa mesafede yükselti, sıcaklık, yağış ve bitki örtüsü kuşaklarının en hızlı değiştiği</strong> topoğrafik yapıyı oluşturur."
   },
   {
     "id": "cogr_test_7-q3",
@@ -30338,7 +30337,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Su Erozyonunun Şiddeti:\n• Eğim ve engebenin fazla olduğu, bitki örtüsünün tahrip edildiği yamaçlarda sağanak yağışlar şiddetli su erozyonuna neden olur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Eğim ve engebenin fazla olması ile bitki örtüsünün tahrip edilmesi)<br><br>📌 <strong>Su Erozyonunu Şiddetlendiren Faktörler:</strong><br>• Türkiye'de su erozyonunun (toprak süpürülmesinin) çok yaygın ve şiddetli olmasının temel sebebi: <strong>Arazinin aşırı eğimli/engebeli olması</strong>, sağanak yağışlar ve arazideki <strong>doğal bitki örtüsünün tahrip edilmiş olmasıdır</strong>.<br>• Tarlaların eğime paralel sürülmesi ve nadas uygulaması da erozyonu hızlandırır."
   },
   {
     "id": "cogr_test_7-q4",
@@ -30375,7 +30374,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Türkiye'de Buzul Şekilleri (Sirk Gölleri):\n• Türkiye'de buzul şekilleri deniz seviyesinde ASLA görülmez (orta kuşak); sadece yüksek dağlarımızın (Kaçkarlar, Cilo/Buzul, Ağrı, Bolkar, Aladağlar, Erciyes, Uludağ - 2200+ m) zirvelerinde bulunur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Buzul aşındırmasının yalnızca yüksek dağ zirveleriyle (2200-2500 m+) sınırlı kalması)<br><br>📌 <strong>Türkiye'de Buzul Şekilleri ve Matematik Konum:</strong><br>• Türkiye <strong>Orta Kuşak'ta (36°-42° K)</strong> yer aldığı için deniz seviyesinde hiçbir zaman buzullaşma olmamıştır.<br>• Buzul aşınım ve birikim şekilleri (Sirk gölleri, hörgüç kaya, moren setleri) yalnızca Kaçkar, Bolkar, Aladağlar, Cilo ve Buzul Dağı gibi <strong>yüksek dağların zirvelerinde</strong> görülür."
   },
   {
     "id": "cogr_test_7-q5",
@@ -30412,7 +30411,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Epirojenez ve Toptan Yükselme:\n• Anadolu Yarımadası Tersiyer sonu ve Kuaterner'de epirojenik hareketlerle toptan kubbeleşip yükselmiş, bu sayede yüksek platolar ve derin akarsu kanyonları oluşmuştur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tersiyer sonu ve Kuaterner başında toptan yükselme (epirojenez) geçirmesi)<br><br>📌 <strong>Platoların Yüksekte Kalma Nedeni (Epirojenez):</strong><br>• Türkiye III. Jeolojik Zaman'da dış kuvvetlerce aşındırılarak deniz seviyesine yakın bir düzlük (peneplen) haline gelmiştir.<br>• III. Zaman sonu ve IV. Zaman başında gerçekleşen <strong>epirojenik toptan yükselme</strong> ile bu düzlükler bozulmadan yüzlerce/binlerce metre yukarı çıkmış ve akarsularca derince yarılarak yüksek platolara dönüşmüştür."
   },
   {
     "id": "cogr_test_7-q6",
@@ -30449,7 +30448,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Yamaç Yağışı Mekanizması:\n• Dağların kıyıya paralel ve yüksek olduğu yamaçlarda deniz havası yükselerek yoğunlaşır ve bol yağış bırakır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Dağların kıyıya paralel uzanması ve nemli havanın yamaç boyunca yükselmesi)<br><br>📌 <strong>Yamaç (Orografik) Yağış Mekanizması:</strong><br>• Deniz üzerinden gelen nemli hava kütleleri kıyıya paralel uzanan yüksek dağ sıralarına (Karadeniz Dağları, Toroslar) çarparak yamaç boyunca yükselir.<br>• Yükselen hava her 200 metrede 1°C soğur, neme doyarak <strong>kıyının denize bakan yamaçlarına bol orografik yağış</strong> bırakır (Örn: Rize, Trabzon, Muğla-Menteşe)."
   },
   {
     "id": "cogr_test_7-q7",
@@ -30486,7 +30485,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Kıvrım Dağları Yapısı:\n• Yan basınçlarla sıkışan esnek tortul tabakalar kıvrılarak yükselir (Antiklinal) ve kıvrım sıradağlarını oluşturur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Esnek tortul tabakaların yan basınçlarla kıvrılması)<br><br>📌 <strong>Kıvrım Dağlarının Oluşum Mekanizması:</strong><br>• Deniz ve göl çanaklarında (jeosenklinaller) biriken tabakalar henüz sertleşmemiş, esnek yapıda ise levhaların yan basınçlarıyla <strong>kıvrılarak yükselir</strong>.<br>• Yükselen kısımlar <strong>antiklinal</strong> dağ sıralarını (Kaçkar, Canik, Ilgaz, Bolkar, Aladağlar) meydana getirir."
   },
   {
     "id": "cogr_test_7-q8",
@@ -30523,7 +30522,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Kalkan Volkanlar (Karacadağ):\n• Lavları çok akışkan (bazaltik) olan volkanlar çevreye yayılarak basık, yayvan bir kalkan oluşturur (Güneydoğu Anadolu Karacadağ tipik örneğidir)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Karacadağ (Güneydoğu Anadolu))<br><br>📌 <strong>Kalkan Volkan Morfolojisi:</strong><br>• Güneydoğu Anadolu'daki <strong>Karacadağ</strong> volkanı, lavlarının çok akışkan (bazaltik) ve gaz oranının düşük olması nedeniyle geniş bir alana yayılmış ve basık, yayvan bir <strong>Kalkan Volkan</strong> oluşturmuştur.<br>• Türkiye'deki tek kalkan volkan tipi Güneydoğu Karacadağ'dır."
   },
   {
     "id": "cogr_test_7-q9",
@@ -30560,7 +30559,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Dağ Sıraları Harita Analizi:\n• Kaçkarlar (Kuzey Anadolu), Samanlı (Marmara), Nurhak ve Bey Dağları (Toroslar), Amanos (Kırık Horst)."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kuzey Anadolu Dağları - Toros Dağları)<br><br>📌 <strong>Türkiye'nin Ana Dağ Kuşakları:</strong><br>• Kuzeyde Karadeniz boyunca uzanan dağ kuşağı <strong>Kuzey Anadolu Dağları</strong> (Köroğlu, Ilgaz, Küre, Canik, Kaçkar); güneyde Akdeniz boyunca uzanan dağ kuşağı ise <strong>Toros Dağları</strong> (Batı, Orta ve Güneydoğu Toroslar) kuşağıdır."
   },
   {
     "id": "cogr_test_7-q10",
@@ -30597,7 +30596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Horst-Graben Şeması:\n• X (Horst / Kırık Dağ), Y (Fay Hattı), Z (Graben / Çöküntü Ovası)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (X: Horst, Y: Fay Hattı, Z: Graben)<br><br>📌 <strong>Horst - Graben Kesiti Eşleştirmesi:</strong><br>• Sertleşmiş tabakaların kırılmasıyla oluşan bloklarda:<br>• <strong>X (Yüksekte kalan kütle):</strong> HORST (Kırık Dağı)<br>• <strong>Y (Kırık düzlemi):</strong> FAY HATTI<br>• <strong>Z (Çöken taban çukurluğu):</strong> GRABEN (Tektonik Ova)"
   },
   {
     "id": "cogr_test_7-q11",
@@ -30634,7 +30633,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Dalmaçya Kıyı Tipi (Kaş / Finike):\n• Kıyıya paralel uzanan sıradağların deniz suları altında kalmasıyla oluşan adacıklı kıyı tipidir; Türkiye'de Antalya-Kaş kıyılarında görülür."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Dalmaçya Kıyı Tipi)<br><br>📌 <strong>Dalmaçya Kıyı Tipi (Kaş - Finike Kıyıları):</strong><br>• Kıyıya paralel uzanan dağ sıralarının ve vadilerin deniz seviyesinin yükselmesiyle (transgresyon) sular altında kalması sonucu dağların tepelerinin kıyı boyunca dizi dizi adacıklara dönüştüğü kıyı tipidir.<br>• Türkiye'deki en belirgin örneği <strong>Antalya Kaş - Finike kıyılarıdır</strong>."
   },
   {
     "id": "cogr_test_7-q12",
@@ -30671,7 +30670,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Doğu Anadolu Akarsuları (Yaz Akımları):\n• Doğu Anadolu akarsuları (Fırat, Aras, Çoruh) ilkbahar sonu ve yaz başlarında eriyen kar suları ve yaz yağışlarıyla en yüksek debilerine ulaşırlar."
+    "explanation": "Doğru Cevap: <strong>B</strong> (İlkbahar sonu ve yaz başındaki yoğun kar ve buzul erimeleri)<br><br>📌 <strong>Doğu Anadolu Akarsularının Akım Rejimi:</strong><br>• Doğu Anadolu akarsuları (Fırat, Dicle, Aras, Çoruh) kış aylarında yağışların kar şeklinde düşmesi ve donma nedeniyle en düşük debiyi kışın kaydeder.<br>• Sıcaklıkların yükseldiği <strong>ilkbahar sonu ve yaz aylarında (Mayıs-Haziran) karların hızla erimesiyle</strong> suları kabarır ve maksimum debiye ulaşır."
   },
   {
     "id": "cogr_test_7-q13",
@@ -30708,7 +30707,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Akarsu Rejimi ve İklim:\n• Yağışın her mevsim düzenli olduğu Karadeniz akarsuları düzenli rejime yakınken; yazları kurak Akdeniz ve İç Anadolu akarsuları düzensiz rejimdedir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Karadeniz Bölgesi akarsuları)<br><br>📌 <strong>Düzenli Akarsu Rejimi:</strong><br>• Bir akarsuyun rejiminin düzenli olabilmesi için beslendiği iklim havzasında yağışın yıl boyu her mevsim düzenli düşmesi gerekir.<br>• Türkiye'de her mevsim yağışlı geçen tek iklim <strong>Karadeniz İklimi</strong> olduğundan, rejimleri en düzenli olan akarsular Karadeniz havzasına aittir."
   },
   {
     "id": "cogr_test_7-q14",
@@ -30745,7 +30744,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Birikinti Konisi ve Dağ Eteği Ovaları:\n• Akarsuların dağdan düzlüğe çıktığı eğimin azaldığı yerlerde hızları düşer ve taşıdıkları taş/kumları biriktirerek birikinti yelpazesi oluştururlar."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Birikinti Konisi / Dağ Eteği Ovası)<br><br>📌 <strong>Akarsu Birikim Şekilleri:</strong><br>• Dağ yamaçlarından hızla inen akarsuların taşıdığı alüvyonları, eğimin aniden azaldığı dağ eteklerinde yelpaze şeklinde biriktirmesiyle <strong>Birikinti Konisi ve Birikinti Yelpazeleri</strong> oluşur.<br>• Bunların yan yana birleşmesiyle de <strong>Dağ Eteği Ovaları (Bursa, İnegöl, Dörtyol ovaları)</strong> meydana gelir."
   },
   {
     "id": "cogr_test_7-q15",
@@ -30782,7 +30781,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 En Kirli vs En Temiz Akarsular:\n• Sanayi havzasından geçen Ergene, Sakarya ve Porsuk en kirli akarsularımız; sanayiden uzak Doğu Karadeniz ve Hakkari akarsuları (Zap Suyu, Çoruh) en temizleridir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ergene Nehri - Zap Suyu)<br><br>📌 <strong>Türkiye Akarsularında Kirlilik Oranları:</strong><br>• <strong>En Kirli Akarsular:</strong> Sanayi, fabrika atıkları ve yoğun kentleşmenin ortasından geçen <strong>Ergene, Sakarya ve Bakırçay</strong> nehirleridir.<br>• <strong>En Temiz Akarsular:</strong> Sanayiden, yerleşimden uzak ve engebeli Doğu/Güneydoğu Toroslar'da akan <strong>Hakkâri Zap Suyu ve Çoruh Nehri</strong>'dir."
   },
   {
     "id": "cogr_test_7-q16",
@@ -30819,7 +30818,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Türkiye Akarsularında Taşımacılık:\n• Türkiye akarsuları yüksek debili ve yatak eğimleri çok dik/şelaleli olduğu için (Bartın Çayı'nın ağız kısmı hariç) üzerinde ULAŞIM VE TAŞIMACILIK YAPILAMAZ."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yatak eğimlerinin fazla olması ve akış rejimlerinin düzensizliği)<br><br>📌 <strong>Akarsularda Taşımacılık (Ulaşım) Yapılamama Nedeni:</strong><br>• Türkiye akarsuları denge profiline ulaşmamıştır, şelaleli/hızlı akışlıdır, yatak eğimleri fazladır ve mevsimsel su seviyeleri aşırı dalgalanır.<br>• Bu nedenle Türkiye akarsuları üzerinde gemi/yük taşımacılığı yapılamaz (Tek istisna <strong>Bartın Çayı</strong>'nın ağız kısmındaki birkaç kilometrelik bölümdür)."
   },
   {
     "id": "cogr_test_7-q17",
@@ -30856,7 +30855,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Menderes Çizen Akarsular:\n• Eğimin azaldığı tabanlarda akarsular kıvrımlar (menderes) çizer, yatak boyları uzar, akış hızları ve aşındırma güçleri düşer."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Akarsuyun yatak eğiminin ve akış hızının azaldığını)<br><br>📌 <strong>Menderes Çizen Akarsuyun Özellikleri:</strong><br>• Bir akarsuyun büklümler (menderesler) çizerek akması; <strong>yatak eğiminin azaldığını, akış hızının düştüğünü, aşındırma gücünün zayıfladığını</strong>, boyunun uzadığını ve yana aşındırma/biriktirme yaptığını gösterir (Örn: Ege akarsuları)."
   },
   {
     "id": "cogr_test_7-q18",
@@ -30893,7 +30892,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Kapalı Havza Örnekleri:\n• Sularını denize ulaştıramayan havzalar: Tuz Gölü, Van Gölü, Konya Kapalı Havzası, Burdur/Acıgöl Göller Yöresi ve Aras-Kura (Hazar) havzalarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tuz Gölü, Van Gölü ve Göller Yöresi)<br><br>📌 <strong>Türkiye'nin Kapalı Havzaları:</strong><br>• Sularını denizlere veya okyanuslara ulaştıramayan havzalara kapalı havza denir.<br>• <strong>Tuz Gölü Kapalı Havzası</strong> (Konya çanağı), <strong>Van Gölü Kapalı Havzası</strong>, <strong>Göller Yöresi</strong> (Burdur, Acıgöl) ve <strong>Aras-Kura Havzası</strong> (Hazar Gölü) Türkiye'nin başlıca kapalı havzalarıdır."
   },
   {
     "id": "cogr_test_8-q1",
@@ -30930,7 +30929,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Hidroelektrik Potansiyeli En Yüksek Akarsular:\n• Yatak eğimi ve akış hızı en yüksek olan Doğu Anadolu ve Karadeniz akarsuları (Fırat, Dicle, Çoruh, Zap) hidroelektrik potansiyeli en zengin nehirlerimizdir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Fırat, Dicle ve Çoruh)<br><br>📌 <strong>Hidroelektrik Potansiyeli En Yüksek Akarsular:</strong><br>• Doğu Anadolu ve Doğu Karadeniz'in sarp ve yüksek dağlık arazilerinden beslenen <strong>Fırat, Dicle ve Çoruh nehirleri</strong>, Türkiye'nin yatak eğimi, debisi ve hidroelektrik enerji üretim kapasitesi en yüksek nehirleridir.<br>• Üzerlerinde Atatürk, Keban, Karakaya, Ilısu (Veysel Eroğlu), Yusufeli ve Deriner gibi dev barajlar yer alır."
   },
   {
     "id": "cogr_test_8-q2",
@@ -30967,7 +30966,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Delta Ovaları ve Akarsular:\n• Çarşamba (Yeşilırmak), Bafra (Kızılırmak), Çukurova (Seyhan ve Ceyhan), Silifke (Göksu), Balat (Büyük Menderes), Menemen (Gediz), Dikili (Bakırçay)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Çarşamba - Yeşilırmak / Bafra - Kızılırmak)<br><br>📌 <strong>Karadeniz Delta Ovaları ve Nehirleri:</strong><br>• <strong>Çarşamba Ovası:</strong> Yeşilırmak Nehri'nin taşıdığı alüvyonlarla Karadeniz kıyısında oluşturduğu deltadır.<br>• <strong>Bafra Ovası:</strong> Kızılırmak Nehri'nin oluşturduğu deltadır.<br>• (Güneyde ise Seyhan ve Ceyhan nehirleri Çukurova deltasını oluşturur)."
   },
   {
     "id": "cogr_test_8-q3",
@@ -31004,7 +31003,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Kar Erimeleri ile Beslenen Akarsular:\n• Yüksek dağlık havzalardan doğan akarsularda debi mart-nisan-mayıs aylarında karların erimesiyle aniden yükselir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Çoruh ve Zap Suyu)<br><br>📌 <strong>Kar ve Buzul Erimeleriyle Beslenen Akarsular:</strong><br>• Yüksek dağ zirvelerinden (2500 m+) doğan akarsular kışın donar, ilkbahar sonu ve yaz başı kar/buzul erimeleriyle en yüksek debilerine ulaşır.<br>• Doğu Karadeniz'deki <strong>Çoruh Nehri</strong> ile Hakkâri yöresindeki <strong>Zap Suyu</strong> tipik kar erimeli akarsulardır."
   },
   {
     "id": "cogr_test_8-q4",
@@ -31041,7 +31040,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Karma Rejimli Akarsular:\n• Çok uzun havzalara sahip olup farklı iklim ve yağış bölgelerinden geçen Kızılırmak, Fırat ve Manavgat (karstik kaynaklı) karma rejimli akarsulardır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kızılırmak ve Fırat)<br><br>📌 <strong>Karma Rejimli Akarsular:</strong><br>• Havzası çok geniş olan, farklı iklim bölgelerinden ve birden çok kaynaktan (yağmur, kar, karstik kaynaklar) beslenen akarsulara <strong>karma rejimli akarsu</strong> denir.<br>• Türkiye'de sınırları içindeki en uzun nehir olan <strong>Kızılırmak</strong> ile en büyük havzaya sahip <strong>Fırat Nehri</strong> karma rejimli nehirlerin en belirgin örnekleridir."
   },
   {
     "id": "cogr_test_8-q5",
@@ -31078,7 +31077,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Akarsu Debisi (Akım):\n• 1 saniyede geçen su miktarıdır. Havzanın yağış miktarı, kar erimeleri, yeraltı kaynakları ve havza genişliği ile doğru orantılıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yatağın genişliği ve deniz seviyesine olan derinliği)<br><br>📌 <strong>Akarsu Debisini (Akımını) Etkileyen Faktörler:</strong><br>• <strong>Debi:</strong> Akarsu kesitinden 1 saniyede geçen su miktarıdır ($m^3/sn$).<br>• <strong>Doğrudan Etkileyenler:</strong> Havzaya düşen yağış miktarı ve cinsi (kar/yağmur), sıcaklık ve buharlaşma şiddeti, havzanın genişliği, yer altı kaynakları ve karstik beslenme durumudur.<br>• Yatağın deniz seviyesinden mutlak derinliği debiyi belirleyen hidrolojik bir faktör değildir."
   },
   {
     "id": "cogr_test_8-q6",
@@ -31115,7 +31114,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Akarsulardan Yararlanma:\n• Türkiye'de akarsulardan sulama, hidroelektrik enerji üretimi, tatlı su balıkçılığı ve rafting sporlarında yararlanılır; taşımacılıkta yararlanılamaz."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tarımsal sulama ve hidroelektrik enerji üretimi)<br><br>📌 <strong>Türkiye Akarsularından Yararlanma Alanları:</strong><br>• Türkiye'de akarsulardan en yaygın ve en yüksek ekonomik katkıyla yararlanılan iki temel alan: <strong>Tarımsal sulama (GAP vb.)</strong> ve <strong>hidroelektrik enerji üretimidir (HES)</strong>.<br>• Akarsuların rejimlerinin düzensiz ve yatak eğimlerinin fazla olması nedeniyle nehir taşımacılığı yapılamaz."
   },
   {
     "id": "cogr_test_8-q7",
@@ -31152,7 +31151,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Kaynağını Dışarıdan Alan Akarsular:\n• Meriç (Bulgaristan'dan doğar, Ege'ye dökülür) ve Asi (Lübnan/Suriye'den doğar, Hatay'dan Akdeniz'e dökülür)."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Meriç ve Asi Nehirleri)<br><br>📌 <strong>Kaynağını Dışarıdan Alıp Türkiye'de Denize Dökülen Akarsular:</strong><br>• <strong>Meriç Nehri:</strong> Kaynağını Bulgaristan'dan alır, Türkiye-Yunanistan sınırını oluşturur ve Ege Denizi'ne (Saros) dökülür.<br>• <strong>Asi Nehri:</strong> Kaynağını Lübnan'dan alır, Suriye'yi geçer ve Hatay Samandağ'dan Akdeniz'e dökülür."
   },
   {
     "id": "cogr_test_8-q8",
@@ -31189,7 +31188,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Kirlilik Oranı En Yüksek Akarsu:\n• Ergene Nehri: Trakya ve Çorlu-Çerkezköy sanayi ve evsel atıklarının yoğunluğu sebebiyle Türkiye'nin kirlilik oranı en yüksek akarsularından biridir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ergene Nehri)<br><br>📌 <strong>Kirlilik Oranı En Yüksek Akarsu (Ergene):</strong><br>• Trakya'da Çorlu, Çerkezköy ve Muratlı sanayi bölgelerindeki yüzlerce tekstil, kimya ve deri fabrikasının kimyasal atıklarını alması nedeniyle <strong>Ergene Nehri</strong>, Türkiye'nin kirlilik derecesi en yüksek (4. sınıf kirli su) akarsuyudur."
   },
   {
     "id": "cogr_test_8-q9",
@@ -31226,7 +31225,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Yusufeli Barajı (Çoruh Nehri):\n• 275 metre gövde yüksekliği ile Türkiye'nin en yüksek, dünyanın 5. en yüksek çift eğrilikli beton kemer barajı Çoruh Nehri üzerindedir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Çoruh Nehri - Yusufeli Barajı)<br><br>📌 <strong>Türkiye'nin En Yüksek Barajı (Yusufeli Barajı):</strong><br>• <strong>Yusufeli Barajı ve HES:</strong> Artvin'de <strong>Çoruh Nehri</strong> üzerinde inşa edilmiştir.<br>• 275 metre gövde yüksekliğiyle Türkiye'nin en yüksek, çift eğrilikli ince kemer baraj kategorisinde dünyanın 5. en yüksek barajıdır."
   },
   {
     "id": "cogr_test_8-q10",
@@ -31263,7 +31262,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Doğal Sınır Oluşturan Akarsular:\n• Meriç (Yunanistan ile sınır),\n• Arpaçay (Ermenistan ile sınır),\n• Dicle'nin bir kolu ve Hezil Çayı (Irak sınırı)."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Meriç, Arpaçay ve Hezil Çayı)<br><br>📌 <strong>Doğal Sınır Oluşturan Akarsular:</strong><br>• <strong>Meriç Nehri:</strong> Türkiye - Yunanistan sınırını çizer.<br>• <strong>Arpaçay & Aras:</strong> Türkiye - Ermenistan sınırını çizer.<br>• <strong>Hezil Çayı & Dicle:</strong> Türkiye - Irak ve Suriye sınırının bir kısmını oluşturur.<br>• <strong>Mutlukent (Rezve) Deresi:</strong> Türkiye - Bulgaristan sınırını çizer."
   },
   {
     "id": "cogr_test_8-q11",
@@ -31300,7 +31299,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Türkiye Akarsularının Genel Özellikleri:\n• Yarımada olmamız ve dağların kıyıya paralel uzanması sebebiyle boyları genellikle kısa, yatak eğimleri fazla, akış hızları ve enerji potansiyelleri yüksektir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Boylarının genellikle kısa, akış hızlarının ve aşındırma güçlerinin fazla olması)<br><br>📌 <strong>Türkiye Akarsularının Genel Coğrafi Özellikleri:</strong><br>• Türkiye bir yarımada olduğu ve dağlar kıyıya paralel uzandığı için akarsular hızla denize dökülür, bu nedenle <strong>boyları genellikle kısadır</strong>.<br>• Genç ve yüksek bir topoğrafyada aktıkları için <strong>akış hızları, yatak eğimleri ve hidroelektrik potansiyelleri çok yüksektir</strong>."
   },
   {
     "id": "cogr_test_8-q12",
@@ -31337,7 +31336,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Mezopotamya'yı Oluşturan Nehirler:\n• Fırat ve Dicle nehirleri Türkiye'den doğup Irak'ta Şattülarap'ta birleşerek Basra Körfezi'ne dökülür."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Fırat ve Dicle)<br><br>📌 <strong>Mezopotamya Medeniyetlerini Besleyen Nehirler:</strong><br>• Doğu Anadolu dağlarından doğup Güneydoğu Anadolu'yu sulayan ve Irak topraklarında birleşerek Basra Körfezi'ne dökülen <strong>Fırat ve Dicle nehirleri</strong>, tarihteki bereketli hilal ve Mezopotamya uygarlıklarının doğuşunu sağlamıştır."
   },
   {
     "id": "cogr_test_8-q13",
@@ -31374,7 +31373,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Hazar Kapalı Havzasına Dökülenler:\n• Aras ve Kura nehirleri Doğu Anadolu'dan doğup Azerbaycan üzerinden kapalı havza olan Hazar Denizi'ne dökülür."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Aras ve Kura Nehirleri)<br><br>📌 <strong>Hazar Kapalı Havzasına Dökülen Akarsular:</strong><br>• Doğu Anadolu Bölgesi'nden (Erzurum-Kars platosu ve Bingöl dağları) doğan <strong>Aras ve Kura nehirleri</strong>, Türkiye sınırları dışına çıkarak Azerbaycan'da birleşir ve dünyanın en büyük kapalı havzası olan <strong>Hazar Gölü'ne dökülürler</strong>."
   },
   {
     "id": "cogr_test_8-q14",
@@ -31411,7 +31410,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 En Fazla Elektrik Üreten Baraj:\n• Fırat Nehri üzerindeki Atatürk Barajı, Türkiye'nin en büyük hidroelektrik santralidir (ardından Karakaya ve Keban gelir)."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Atatürk Barajı - Fırat Nehri)<br><br>📌 <strong>En Fazla Elektrik Üreten Baraj:</strong><br>• Şanlıurfa ile Adıyaman arasında <strong>Fırat Nehri</strong> üzerinde kurulu olan <strong>Atatürk Barajı</strong>, kurulu güç ve yıllık elektrik üretimi açısından Türkiye'nin 1 numaralı hidroelektrik santralidir."
   },
   {
     "id": "cogr_test_8-q15",
@@ -31448,7 +31447,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Akarsularla İlgili Yanlış Bilgi:\n• Akarsularımız üzerinde düzenli yük ve yolcu taşımacılığı YAPILAMAZ (denge profiline ulaşmamışlardır)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Tüm akarsularımızın üzerinde düzenli ve ticari nehir taşımacılığı yapılabilmesi)<br><br>📌 <strong>Akarsularımız Hakkında Yanlış Bilgi Analizi:</strong><br>• Türkiye akarsuları <strong>denge profiline ulaşmamıştır</strong>; yatak eğimleri fazladır ve su debileri mevsimden mevsime çok büyük dalgalanmalar gösterir.<br>• Bu sebeple akarsularımız üzerinde düzenli yük ve yolcu taşımacılığı <strong>kesinlikle yapılamaz</strong>."
   },
   {
     "id": "cogr_test_8-q16",
@@ -31485,7 +31484,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Açık vs Kapalı Havza:\n• Sularını okyanus veya açık denizlere ulaştırabilen akarsular Açık Havzalıdır (Kızılırmak, Fırat, Sakarya, Göksu vb.)."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sularını açık denizlere veya okyanuslara ulaştırabilmesi)<br><br>📌 <strong>Açık Havza Tanımı:</strong><br>• Bir akarsu topladığı suları denizlere ya da okyanuslara kadar ulaştırabiliyorsa bu havzaya <strong>açık havza</strong> denir (Örn: Karadeniz, Akdeniz, Ege ve Marmara'ya dökülen tüm nehirlerimiz açık havzadır)."
   },
   {
     "id": "cogr_test_8-q17",
@@ -31522,7 +31521,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Kapalı Havza Nedenleri:\n• Yer şekillerinin etrafı yüksek dağlarla çevirmesi (çanaklaşma) ve kurak iklim kapalı havzaların temel oluşum nedenidir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Etrafının yüksek dağ sıralarıyla çevrili olması ve kurak iklim koşulları)<br><br>📌 <strong>Kapalı Havzaların Oluşma Nedenleri:</strong><br>• Bir alanın kapalı havza olmasında en temel iki faktör: <strong>Yer şekillerinin çanak şeklinde olması / etrafının yüksek dağlarla çevrili olması</strong> ve <strong>iklimin kurak geçmesi / buharlaşmanın yağıştan fazla olmasıdır</strong> (Örn: Konya-Tuz Gölü havzası)."
   },
   {
     "id": "cogr_test_8-q18",
@@ -31559,7 +31558,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Arpaçay ve Ermenistan Sınırı:\n• Kars ve Iğdır hattı boyunca Arpaçay ve Aras Nehri, Türkiye ile Ermenistan arasında doğal sınır hattını çizer."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Arpaçay Nehri)<br><br>📌 <strong>Ermenistan Sınırını Oluşturan Akarsu:</strong><br>• Çıldır Gölü yakınlarından doğan ve Aras Nehri ile birleşen <strong>Arpaçay</strong>, Kars ve Iğdır hattı boyunca Türkiye ile <strong>Ermenistan arasındaki doğal devlet sınırını</strong> çizer."
   },
   {
     "id": "cogr_test_9-q1",
