@@ -27452,7 +27452,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Sarp Sınır Kapısı:\n• Gürcistan ile aramızdaki en işlek sınır kapısı Artvin'deki Sarp Sınır Kapısı'dır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sarp - Gürbulak)<br><br>📌 <strong>Sınır Kapıları Analizi:</strong><br>1. <strong>Gürcistan Girişi (Artvin):</strong> Gürcistan ile Türkiye arasındaki en işlek ve ana kara yolu sınır kapısı Artvin/Hopa'da bulunan <strong>Sarp Sınır Kapısı</strong>'dır.<br>2. <strong>İran Çıkışı (Ağrı):</strong> Türkiye'den doğrudan kara yolu ile İran'a geçişi sağlayan en işlek, uluslararası transit ve ana sınır kapısı Ağrı/Doğubayazıt'ta bulunan <strong>Gürbulak Sınır Kapısı</strong>'dır.<br><br>❌ <strong>Diğer Seçeneklerdeki Sınır Kapıları:</strong><br>• <strong>Kapıkule:</strong> Bulgaristan sınırı (Edirne)<br>• <strong>Cilvegözü:</strong> Suriye sınırı (Hatay)<br>• <strong>Dilucu:</strong> Nahçıvan / Azerbaycan sınırı (Iğdır)<br>• <strong>Habur:</strong> Irak sınırı (Şırnak)<br>• <strong>Ceylanpınar:</strong> Suriye sınırı (Şanlıurfa)"
   },
   {
     "id": "cogr_test_4-q16",
