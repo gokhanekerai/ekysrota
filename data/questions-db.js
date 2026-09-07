@@ -775,7 +775,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "21 Mart ve 23 Eylül (Ekinoks) tarihlerinde dünyanın her yerinde Güneş tam 06:00'da doğar ve 18:00'de batar.\nDoğuda yerel saat daha ileri olduğu için Güneş daha erken batar. 45° Doğu Iğdır'da yerel saat 18:00 iken (Güneş batmışken), batıda yer alan Kocaeli'de yerel saat henüz 18:00 olmamıştır ve Güneş henüz batmamıştır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kars)<br><br>📌 <strong>21 Haziran'da Güneş'in Doğuş Saati:</strong><br>• 21 Haziran (Yaz Gündönümü) tarihinde Türkiye'de kuzeye gidildikçe gündüz süresi uzar, doğuya gidildikçe ise yerel saat ileri olduğu için Güneş daha erken doğar.<br>• Kars, haritada hem en doğuda hem de kuzey enlemlerde yer aldığı için 21 Haziran sabahı Güneş diğer illere göre (Sinop, Kocaeli, Isparta, Şırnak) <strong>en erken Kars'ta doğar</strong>."
   },
   {
     "id": "cogr2-q2",
@@ -26268,7 +26268,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 21 Aralık Kış Gündönümü:\n• 21 Aralık'ta Güneş ışınları Güney Yarım Küre'deki Oğlak Dönencesi'ne dik gelir.\n• Kuzey Yarım Küre'de güneyden kuzeye doğru gidildikçe gece süresi uzar, gündüz süresi kısalır.\n• Dolayısıyla Türkiye'nin en kuzeyindeki Sinop / IV numaralı noktada en uzun gece yaşanır."
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>21 Aralık Kış Gündönümü Kriterleri:</strong><br>1. <strong>Gündüz Süresi Daha Uzun:</strong> 21 Aralık'ta Güneş ışınları Oğlak Dönencesi'ne dik geldiği için Türkiye'de güneye gidildikçe gündüz süresi uzar.<br>2. <strong>Çizgisel Hız Daha Fazla:</strong> Ekvator'a en yakın olan güneydeki noktalarda çizgisel dönüş hızı en fazladır.<br>3. <strong>Yerel Saat Daha İleri:</strong> Doğu meridyenlerindeki noktalarda yerel saat daima daha ileridir.<br>• Bu 3 özelliği birlikte sağlayan nokta haritanın <strong>Güneydoğu kesimindeki (D)</strong> noktadır."
   },
   {
     "id": "cogr_test_1-q2",
@@ -26638,7 +26638,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 21 Haziran ve 21 Aralık Uç Noktaları:\n• 21 Haziran'da en uzun gündüz Sinop'ta; 21 Aralık'ta en uzun gece Sinop'ta, en uzun gündüz ise Hatay'da yaşanır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Konya)<br><br>📌 <strong>21 Haziran Coğrafi Eşleştirmeleri:</strong><br>• <strong>En uzun gündüzün yaşandığı kent:</strong> Sinop (En kuzeydeki ilimiz)<br>• <strong>En uzun gecenin yaşandığı kent:</strong> Hatay (21 Haziran'da en güneydeki ilde gece süresi diğerlerine göre en uzundur)<br>• <strong>Yerel saatin en geri olduğu kent:</strong> Çanakkale (En batıdaki ilimiz)<br>• <strong>Yerel saat ile ulusal saat (45°D) farkının en az olduğu kent:</strong> Iğdır (Ulusal saat meridyeni üzerindedir)<br>➡️ Bu eşleştirmeler sonucunda <strong>Konya</strong> açıkta kalır."
   },
   {
     "id": "cogr_test_1-q12",
@@ -26675,7 +26675,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Yıl Boyunca Gölge Yönü:\n• Türkiye Yengeç Dönencesi'nin kuzeyinde yer aldığı için öğle vakti cisimlerin gölgesi yıl boyunca DAİMA KUZEYİ gösterir, asla güneye düşmez."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ekvator'a olan uzaklıklarının aynı olması)<br><br>📌 <strong>Aynı Enlem ve Gölge Boyu İlişkisi:</strong><br>• Haritada gösterilen 3 kent aynı enlem (paralel) üzerinde yer almaktadır.<br>• Aynı enlem üzerindeki merkezlerin Ekvator'a olan açısal ve kuş uçuşu mesafeleri eşit olduğu için, Güneş ışınlarını yıl boyunca aynı açıyla alırlar ve öğle vaktindeki gölge boyları da birbirine eşit olur."
   },
   {
     "id": "cogr_test_1-q13",
@@ -26712,7 +26712,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Türkiye'nin Sınır Komşuları:\n• Batı sınırında 2 komşumuz (Yunanistan, Bulgaristan) varken doğu/güneydoğu sınırında 6 komşumuz (Gürcistan, Ermenistan, Nahçıvan/Azerbaycan, İran, Irak, Suriye) bulunmaktadır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız IV)<br><br>📌 <strong>Türkiye'nin Kara Sınırları ve Sınır Kapıları:</strong><br>• I. Doğu sınırımızda 6 komşu (Gürcistan, Ermenistan, Nahçıvan, İran, Irak, Suriye), Batı sınırımızda 2 komşu (Yunanistan, Bulgaristan) vardır (Doğru).<br>• II. Yunanistan sınırını Meriç Nehri doğal sınır olarak belirler (Doğru).<br>• III. En eski sınırımız 1639 Kasr-ı Şirin Antlaşması ile belirlenen İran sınırıdır (Doğru).<br>• IV. <em>'Tüm sınır kapılarına demiryolu bağlantısı vardır'</em> ifadesi <strong>YANLIŞTIR</strong>. Örneğin Irak sınırındaki en işlek kapımız olan Habur Sınır Kapısı ile Gürcistan sınırındaki Sarp Sınır Kapısı'na demiryolu bağlantısı bulunmamaktadır."
   },
   {
     "id": "cogr_test_1-q14",
@@ -26897,7 +26897,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Aynı Enlem Üzerindeki Benzerlikler:\n• Aynı enlem üzerindeki İzmir ve Kayseri'de Güneş ışınlarının geliş açısı, gölge boyu ve gündüz-gece süreleri yıl boyunca aynıdır; sıcaklıklarının farklı olması ise yükselti ve karasallıktan kaynaklanır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Güneşin doğuş saati)<br><br>📌 <strong>Aynı Enlem Boyunca Batı-Doğu Hareketi:</strong><br>• İzmir'den Kayseri'ye gidildiğinde sıcaklık, karla kaplı gün sayısı, tarım ürünlerinin olgunlaşma süresi ve yükseltinin değişmesi <strong>Özel (Göreceli) Konum</strong> (karasallık ve batıdan doğuya yükselti artışı) ile açıklanır.<br>• Güneş'in doğuş saatinin değişmesi ise Dünya'nın eksen hareketi ve <strong>Boylam (Mutlak/Matematik Konum)</strong> farkının sonucudur; özel konumla açıklanamaz."
   },
   {
     "id": "cogr_test_4-q1",
@@ -27600,7 +27600,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Dönenceler Dışında Olmanın Kanıtı:\n• Güneş ışınlarının hiçbir zaman 90° dik açıyla gelmemesi ve gölge boyunun hiçbir zaman sıfır olmaması Türkiye'nin dönenceler dışında (Kuzey Orta Kuşakta) yer aldığının kesin kanıtıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Dönenceler Dışında Yer Almanın Kanıtı:</strong><br>• Türkiye 36°-42° Kuzey enlemlerinde, yani Yengeç Dönencesi'nin (23° 27' K) kuzeyinde yer alır.<br>• Güneş ışınlarının hiçbir zaman 90° dik açıyla gelmemesi ve düz zeminlerde gölge boyunun hiçbir zaman sıfır olmaması Türkiye'nin dönenceler dışında yer aldığının kesin kanıtıdır."
   },
   {
     "id": "cogr_test_2-q2",
@@ -27637,7 +27637,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Yerel Saat ve Başlangıç Meridyeni:\n• Doğu meridyen derecesi büyük olan merkezde yerel saat daima daha ileridir. Başkale (Van) en doğuda olduğu için yerel saati en ileridir."
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Yerel Saat ve Boylam İlişkisi:</strong><br>• Doğu meridyen derecesi büyük olan (daha doğudaki) merkezlerde yerel saat daima daha ileridir.<br>• Verilen merkezler arasında en doğuda yer alan Başkale'de (Van) yerel saat diğerlerine göre en ileridir."
   },
   {
     "id": "cogr_test_2-q3",
@@ -27674,7 +27674,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Jeopolitik ve Sosyo-Kültürel Konum:\n• Türkiye'nin Asya, Avrupa ve Afrika kıtaları arasında bir köprü konumunda olması, tarihi İpek ve Baharat yolları üzerinde bulunması jeopolitik önemini artırır."
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Güneş Işınlarının Geliş Açısı ve Sıcaklık:</strong><br>• Ekvator'dan kutuplara (güneyden kuzeye) gidildikçe Güneş ışınlarının geliş açısı daralır ve sıcaklık ortalamaları düşer (Enlem etkisi).<br>• Akdeniz kıyılarının Karadeniz kıyılarından sıcak olması bu durumun doğrudan kanıtıdır."
   },
   {
     "id": "cogr_test_2-q4",
@@ -27711,7 +27711,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Ege'de Dağların Kıyıya Dik Uzanmasının Sonuçları:\n• Denizel iklim ve nem iç kesimlere kadar sokulur, kıyıda çok sayıda koy, körfez, ada ve doğal liman oluşur, kıyı ile iç kesim arasında ulaşım kolaydır ve hinterlant geniştir."
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>📌 <strong>21 Mart / 23 Eylül Ekinoks Özellikleri:</strong><br>• Ekinoks tarihlerinde Güneş ışınları Ekvator'a dik düşer, aydınlanma çemberi kutup noktalarından teğet geçer ve tüm dünyada gece-gündüz süreleri 12'şer saatle eşitlenir."
   },
   {
     "id": "cogr_test_2-q5",
@@ -27748,7 +27748,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Fiziki Haritada Yeşil Renk:\n• Renklendirme yönteminde 'Yeşil Renk' bitki örtüsünü değil, YÜKSELTİNİN 0-500 metre arasında olduğunu (deniz seviyesine yakın alçak düzlükleri/delta ovalarını) gösterir."
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Türkiye'nin Dağ Kuşakları:</strong><br>• Kuzey Anadolu Dağları (Karadeniz) ve Toros Dağları (Akdeniz) Alp-Himalaya kıvrım kuşağında III. Jeolojik Zaman'da (Tersiyer) levhaların sıkıştırmasıyla kıvrılarak yükselmiş sıradağlardır."
   },
   {
     "id": "cogr_test_2-q6",
@@ -27785,7 +27785,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Yer Şekilleri Çeşitliliği:\n• Türkiye'de kısa mesafelerde yükselti, eğim ve yer şekillerinin hızla değişmesi aynı anda farklı iklim özelliklerinin ve tarım ürünlerinin görülmesini sağlar."
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Kırık Dağlar (Horst-Graben Sistemi):</strong><br>• Ege Bölgesi'nde sert kütlelerin yan basınçlarla kırılması sonucu yüksekte kalan bloklara Horst (Kaz, Madra, Yunt, Bozdağlar, Aydın Dağları, Menteşe), çöken çukurluklara Graben (Bakırçay, Gediz, Küçük ve Büyük Menderes) denir."
   },
   {
     "id": "cogr_test_2-q7",
@@ -27822,7 +27822,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Türkiye'nin Morfolojik Yapısı:\n• Türkiye Alp-Himalaya orojenez kuşağında yer alan genç oluşumlu, ortalama yükseltisi (~1132 m) fazla ve engebeli bir ülkedir."
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Volkanik Dağlar ve Dağılımı:</strong><br>• Türkiye'deki volkanik dağlar fay hatları boyunca sıralanmıştır. İç Anadolu'da (Erciyes, Hasan Dağı, Melendiz, Karadağ, Karacadağ) ve Doğu Anadolu'da (Ağrı, Tendürek, Süphan, Nemrut) volkanik dağlar yer alır."
   },
   {
     "id": "cogr_test_2-q8",
@@ -27859,7 +27859,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Edirne ve Rize Karşılaştırması:\n• Edirne Ergene Havzası'nda yükseltisi az ve düz iken, Rize Kaçkar Dağları eteğinde aşırı engebeli ve yağışlıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Karstik Şekiller ve Aşınım:</strong><br>• Kalker (kireçtaşı), jips (alçıtaşı) ve kaya tuzu gibi suda kolay çözünebilen kayaçların oluşturduğu şekillere karstik şekiller denir. Lapya, dolin, uvala, polye ve obruklar karstik aşınım şekilleridir."
   },
   {
     "id": "cogr_test_2-q9",
@@ -27896,7 +27896,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Matematik Konum Etkisi:\n• Batı rüzgarları kuşağında yer alması ve 4 mevsimin belirgin yaşanması matematik konumun (orta kuşak) sonucudur."
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Delta Ovalarının Oluşum Şartları:</strong><br>• Bir akarsuyun delta ovası oluşturabilmesi için; kıyıda güçlü gel-git ve akıntı olmaması, kıyı derinliğinin az (kıta sahanlığının geniş) olması ve akarsuyun bol alüvyon taşıması şarttır."
   },
   {
     "id": "cogr_test_2-q10",
@@ -27933,7 +27933,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 45° Doğu Iğdır Ulusal Saati:\n• Türkiye'de yıl boyunca 45° Doğu (Iğdır) meridyeninin yerel saati ortak/ulusal saat (+3 GMT) olarak kullanılır."
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Platoların Oluşumu ve Türleri:</strong><br>• Erzurum-Kars (Lav örtüsü/Volkanik plato), Taşeli ve Teke (Karstik plato), Çatalca-Kocaeli (Aşınım platosu), Haymana, Cihanbeyli, Bozok ve Obruk (Yatay duruşlu/Tabaka düzlüğü platosu) dur."
   },
   {
     "id": "cogr_test_2-q11",
@@ -27970,7 +27970,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Meridyenler Arası Zaman Farkı:\n• Her iki meridyen arası zaman farkı sabit 4 dakikadır. 30°D ile 33°D arasında 3 meridyen * 4 dk = 12 dakika zaman farkı vardır."
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Akarsu Aşındırma Şekilleri (Vadiler):</strong><br>• V tipi (Çentik) vadiler eğimin ve akış hızının fazla olduğu dağlık yukarı çığırlarda; Kanyon vadiler karstik arazilerde; Boğaz (Yarma) vadiler dağları enine yarıp geçen nehirlerde görülür."
   },
   {
     "id": "cogr_test_2-q12",
@@ -28007,7 +28007,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Gündüz Süresi Değişimi:\n• Yaz döneminde kuzeye gidildikçe gündüz süresi uzar, güneye gidildikçe kısalır."
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Rüzgâr Aşınım ve Birikim Şekilleri:</strong><br>• Rüzgârlar kurak ve yarı kurak bölgelerde (İç Anadolu ve Güneydoğu) etkilidir. Mantarkaya, şahit kaya, tafoni, yardang (aşınım); barkan, kumul ve lös (birikim) rüzgâr şekilleridir."
   },
   {
     "id": "cogr_test_2-q13",
@@ -28044,7 +28044,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Orta Kuşak Sonuçları (A-B-C-D Kuralı):\n• A-kdeniz İklimi\n• B-atı Rüzgarları\n• C-ephe Yağışları\n• D-ört Mevsim belirginliği."
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Buzul Şekilleri ve Yükselti:</strong><br>• Türkiye'de buzullara sadece 2200-2500 m üzerindeki yüksek dağ zirvelerinde rastlanır. Sirk gölleri, hörgüç kayalar ve moren setleri buzul şekilleridir."
   },
   {
     "id": "cogr_test_2-q14",
@@ -28081,7 +28081,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Eğimli Arazilerin Sonuçları:\n• Heyelan ve kitle hareketleri artar, hidroelektrik potansiyel yükselir, makineli tarım zorlaşır."
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Kıyı Tipleri:</strong><br>• Dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz'de Boyuna kıyı; dağların kıyıya dik uzandığı Ege'de Enine kıyı; Fethiye-Kaş arasında Dalmaçya kıyı; İstanbul ve Çanakkale boğazlarında Ría tipi kıyı görülür."
   },
   {
     "id": "cogr_test_2-q15",
@@ -28118,7 +28118,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Batıdan Doğuya Sıcaklık Azalması:\n• Türkiye'de batıdan doğuya gidildikçe sıcaklığın düşmesi, kışların uzaması ve karın yerde kalma süresinin artması Yükselti (Özel Konum) faktörüdür."
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Doğal Afetler ve Dağılışı:</strong><br>• Heyelan en çok ilkbaharda kar erimeleri, eğim ve killi toprak nedeniyle Doğu Karadeniz'de; Erozyon ise kuraklık ve bitki örtüsünün tahribiyle İç ve Güneydoğu Anadolu'da görülür."
   },
   {
     "id": "cogr_test_2-q16",
@@ -28155,7 +28155,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Ova Tipleri Eşleştirmesi:\n• Elmalı (Karstik), Nazilli (Tektonik), Bafra (Delta), Merzifon (Tektonik). Amik Ovası ise graben tabanlı tektonik bir ovadır, delta değildir."
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Toprak Tipleri ve Horizonlaşma:</strong><br>• Zonal topraklar (Terra-Rossa, Kahverengi Orman, Çernezyom, Bozkır) horizonlaşmaya sahiptir; Azonal (Alüvyal, Kolüvyal, Regosol) taşınmış topraklar ise horizon içermez ve mineralce zengindir."
   },
   {
     "id": "cogr_test_2-q17",
@@ -28192,7 +28192,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Genç Oluşumlu Ülke Kanıtları:\n• Aktif fay hatları ve depremler, sıcak su kaynakları/kaplıcalar, volkanik araziler ve linyit/bor/petrol yatakları genç jeolojik yapıyı kanıtlar."
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Türkiye'nin İklim Elemanları (Sıcaklık ve Yağış):</strong><br>• Yıllık sıcaklık farkının en az olduğu bölge nemlilikten dolayı Karadeniz, en fazla olduğu bölge ise şiddetli karasallık ve yükseltiden dolayı Doğu Anadolu'dur."
   },
   {
     "id": "cogr_test_2-q18",
@@ -28229,7 +28229,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Jeotermal Kaynaklar ve Fay Hatları:\n• Sıcak su kaynakları (kaplıca, ılıca, jeotermal santraller) doğrudan genç kırık (fay) hatlarının geçtiği sahalarda yoğunlaşır."
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>📌 <strong>Bitki Örtüsü Kuşakları:</strong><br>• Akdeniz'de maki ve kızılçam ormanları; Karadeniz'de geniş ve iğne yapraklı karma ormanlar; İç bölgelerde ilkbaharda yeşerip yazın kuruyan bozkırlar (step) hâkimdir."
   },
   {
     "id": "cogr_test_3-q1",
