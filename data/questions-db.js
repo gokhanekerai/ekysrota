@@ -46637,5 +46637,1411 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Bir öğretim programının İşlevsellik (Fonksiyonellik) özelliği; öğretilenlerin gerçek hayatta işe yaraması, geçerli olması, bireysel ve toplumsal ihtiyaçları karşılaması ve pratik problem çözme becerisi kazandırması ile ilgilidir. Kazanımların teknik kurallara uygun yazılmış olması ise biçimsel-teknik bir incelemedir, işlevsellik kriteri değildir.",
     "hasImage": false,
     "image": null
+  },
+  {
+    "id": "tarih3-q1",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "İslamiyet öncesi Türk devletlerinde kullanılan terimlerden hangisinin eşleştirmesi aşağıda yanlış verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çav - Kâğıt para"
+      },
+      {
+        "key": "B",
+        "text": "Ög - Baba"
+      },
+      {
+        "key": "C",
+        "text": "Kün - Halk"
+      },
+      {
+        "key": "D",
+        "text": "Kalıng - Başlık parası"
+      },
+      {
+        "key": "E",
+        "text": "Otacı - Doktor"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>İslamiyet öncesi Türklerde <strong>Ög = Anne</strong>, <strong>Kang = Baba/Ata</strong> demektir. Diğer kavramlar: Çav (kâğıt para - Uygurlar), Kün (halk/millet), Kalıng (başlık parası/çeyiz), Otacı/Emçi (hekim/doktor) doğru eşleştirilmiştir."
+  },
+  {
+    "id": "tarih3-q2",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "I. Silah yapımı\nII. Altın işlemeciliği\nIII. Dokumacılık\n\nYukarıdakilerden hangilerinin İslamiyet öncesinde Orta Asya'da yaşayan Türklerin uğraşları arasında olduğu söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "C",
+        "text": "II ve III"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "Yalnız III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Orta Asya Türkleri maden işlemeciliğinde (özellikle demircilik, kılıç/silah yapımı ve 'Bozkırın Kuyumcuları' olarak altın işlemeciliğinde) ve hayvancılığa dayalı yün dokumacılığında (Pazırık Kurganı halısı gibi) son derece ileri düzeydeydi. Dolayısıyla I, II ve III temel uğraşlardandır."
+  },
+  {
+    "id": "tarih3-q3",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisinin İslamiyet öncesi Türk kültürü ile ilgili olduğu söylenemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kurultay"
+      },
+      {
+        "key": "B",
+        "text": "Boylar federasyonu"
+      },
+      {
+        "key": "C",
+        "text": "Göçebe yaşam tarzı"
+      },
+      {
+        "key": "D",
+        "text": "Ölümden sonra yaşama inancı"
+      },
+      {
+        "key": "E",
+        "text": "Ülkenin eyaletlere ayrılması"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>İslam öncesi Türk devletlerinde idari yapı doğu-batı şeklinde <strong>ikili teşkilat</strong> ve boylar birliğine dayanır. Ülkenin vilayet/eyalet sistemine ve beylerbeyliklerine ayrılması ise Osmanlı ve klasik İslam devletlerinin idari teşkilatına aittir."
+  },
+  {
+    "id": "tarih3-q4",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "İlk Türk devletlerinde savaş zamanında düşman ordusunun durumunu öğrenmek için görevlendirilen keşif koluna ne ad verilirdi?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yelme"
+      },
+      {
+        "key": "B",
+        "text": "Böri"
+      },
+      {
+        "key": "C",
+        "text": "Şad"
+      },
+      {
+        "key": "D",
+        "text": "Tarıkçı"
+      },
+      {
+        "key": "E",
+        "text": "Tüdün"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><strong>Yelme:</strong> İlk Türk ordularında ana ordudan önce gidip istihbarat toplayan ve keşif yapan öncü birliklere verilen addır. Böri (muhafız), Şad (hanedan üyesi vali/komutan), Tüdün (vergi memuru/vali), Tarıkçı (çiftçi/tarımcı) anlamına gelir."
+  },
+  {
+    "id": "tarih3-q5",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk tarihi ile ilgili değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hukuk sistemi gelenek ve göreneklere bağlıdır."
+      },
+      {
+        "key": "B",
+        "text": "İpek Yolu'na hâkim olma mücadelesi verilmiştir."
+      },
+      {
+        "key": "C",
+        "text": "Ordu ücretli atlı birliklerden oluşur."
+      },
+      {
+        "key": "D",
+        "text": "Hanedan üyeleri arasında taht kavgaları olmuştur."
+      },
+      {
+        "key": "E",
+        "text": "Federatif bir yapılanma mevcuttur."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Eski Türklerde <strong>ordu-millet</strong> anlayışı esastır; her birey aynı zamanda askerdir ve askerlik bir vatan görevidir. Ordularda ücretli askerlik (ticaret devleti olan Hazarlar istisnası dışında) yer almaz."
+  },
+  {
+    "id": "tarih3-q6",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Aşağıda verilen alanların hangisine yönelik buluntular Türklerin yerleşik hayata geçtiklerinin kesin kanıtı olabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mimari"
+      },
+      {
+        "key": "B",
+        "text": "Maden işlemeciliği"
+      },
+      {
+        "key": "C",
+        "text": "Siyasi antlaşmalar"
+      },
+      {
+        "key": "D",
+        "text": "Dokumacılık"
+      },
+      {
+        "key": "E",
+        "text": "At koşum takımları"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Saray, tapınak, manastır, ev ve sur gibi kalıcı <strong>mimari eserler</strong> toplumun yerleşik hayata geçtiğinin tartışmasız ve kesin kanıtıdır. Taşınabilir sanat ürünleri (dokuma, maden, at koşumları) göçebe kültürde de mevcuttur."
+  },
+  {
+    "id": "tarih3-q7",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Aşağıdakilerden hangisi ilk Türk devletlerinde 'din ve inanışla' ilgili kavramlardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tamu"
+      },
+      {
+        "key": "B",
+        "text": "Tengri"
+      },
+      {
+        "key": "C",
+        "text": "Örgin"
+      },
+      {
+        "key": "D",
+        "text": "Yuğ"
+      },
+      {
+        "key": "E",
+        "text": "Eşik (Kefen/Örtü)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><strong>Örgin:</strong> Hükümdarlık tahtı ve egemenlik sembolüdür (siyasi/idari kavram). Tamu (cehennem), Tengri (Tanrı), Yuğ (cenaze töreni), Eşik (ölü örtüsü/kefen) ise din ve inanışla ilgilidir."
+  },
+  {
+    "id": "tarih3-q8",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Orhun Yazıtları'na göre Orta Asya Türk devletleriyle ilgili olarak aşağıdakilerden hangisi söylenirse yanlış olur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hükümdar halka karşı sorumludur."
+      },
+      {
+        "key": "B",
+        "text": "Devlet ve halkın karşılıklı görevleri belirlenmiştir."
+      },
+      {
+        "key": "C",
+        "text": "Hükümdarlar törelere uymuştur."
+      },
+      {
+        "key": "D",
+        "text": "Hükümdarlar aynı zamanda dini liderlerdir."
+      },
+      {
+        "key": "E",
+        "text": "Kadınlar (Katun) yönetimde etkilidir."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>İlk Türk devletlerinde <strong>teokratik</strong> bir devlet yapısı yoktur. Kağan siyasi, askeri ve idari liderdir ancak dini lider (rahip-kral) değildir. Din işlerini kam/baksılar yürütür."
+  },
+  {
+    "id": "tarih3-q9",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Türklerin tarih boyunca değişik ülkelere yerleşmeleri, çeşitli alanlarda farklı boyutlarda gelişmeler göstermelerine neden olmuştur.\n\nAşağıdaki alanların hangisinde bu farklılığın en az olduğu savunulabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Din"
+      },
+      {
+        "key": "B",
+        "text": "Ekonomi"
+      },
+      {
+        "key": "C",
+        "text": "Askerlik"
+      },
+      {
+        "key": "D",
+        "text": "Sosyal yaşam"
+      },
+      {
+        "key": "E",
+        "text": "Sanat"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Türk boyları göç ettikleri yerlerde farklı dinleri (İslamiyet, Musevilik, Hristiyanlık, Budizm), farklı ekonomik modelleri ve sanat anlayışlarını benimsemiş olsalar da <strong>askeri teşkilatlanma</strong> (onlu sistem, ordu-millet, savaş taktikleri) özelliklerini en uzun süre korumuş ve diğer milletleri bu alanda etkilemişlerdir."
+  },
+  {
+    "id": "tarih3-q10",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Kök Türk hakanlarının özel muhafız birliklerine ne ad verilirdi?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Şad"
+      },
+      {
+        "key": "B",
+        "text": "Tarkan"
+      },
+      {
+        "key": "C",
+        "text": "Yelme"
+      },
+      {
+        "key": "D",
+        "text": "Böri"
+      },
+      {
+        "key": "E",
+        "text": "Sübaşı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><strong>Böri (Kurt):</strong> Kök Türklerde hakanın şahsını korumakla görevli seçkin muhafız birliğine verilen unvandır."
+  },
+  {
+    "id": "tarih3-q11",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "İslamiyet öncesi Türk devletlerinde din ve inanış ile ilgili aşağıda verilen eşleştirmelerin hangisinde yanlışlık yapılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yuğ → Cenaze töreni"
+      },
+      {
+        "key": "B",
+        "text": "Sagu → Ölen kişinin ardından söylenen ağıt"
+      },
+      {
+        "key": "C",
+        "text": "Esük → Kadın tanrıça"
+      },
+      {
+        "key": "D",
+        "text": "Balbal → Mezara dikilen insan figürlü taş"
+      },
+      {
+        "key": "E",
+        "text": "Kurgan → Ölülerin gömüldüğü oda şeklinde mezar"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>İslam öncesi Türklerde kadın ve çocukları koruyan bereket tanrıçası/ruhu <strong>Umay</strong>'dır. Esük ise ölünün üzerine örtülen örtü/kefendir."
+  },
+  {
+    "id": "tarih3-q12",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "Türklerde halkın tedavisinde görev almış şifacılara / hekimlere ne ad verilirdi?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Otacı"
+      },
+      {
+        "key": "B",
+        "text": "Boz"
+      },
+      {
+        "key": "C",
+        "text": "Tarıkçı"
+      },
+      {
+        "key": "D",
+        "text": "Umay"
+      },
+      {
+        "key": "E",
+        "text": "Baksı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Eski Türklerde bitkisel ilaçlarla (otlarla) tedavi yapan hekimlere <strong>Otacı</strong> (veya <strong>Emçi</strong>) adı verilirdi."
+  },
+  {
+    "id": "tarih3-q13",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "İslamiyet öncesi dönemde ölen kişilerin eşyalarıyla ve atıyla birlikte gömüldüğü mezarlar aşağıdakilerden hangisiyle adlandırılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kurultay"
+      },
+      {
+        "key": "B",
+        "text": "Şad"
+      },
+      {
+        "key": "C",
+        "text": "Kurgan"
+      },
+      {
+        "key": "D",
+        "text": "Toy"
+      },
+      {
+        "key": "E",
+        "text": "Anıt"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><strong>Kurgan:</strong> Ahiret inancının gereği olarak ölen kişinin şahsi eşyaları, silahları ve atıyla birlikte gömüldüğü tümülüs/oda şeklindeki mezarlardır."
+  },
+  {
+    "id": "tarih3-q14",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Türk töresi zamanın koşullarına ve imkânlarına göre değişebilirdi. Ancak törelerde değişmeyen hükümler de vardı. Kutadgu Bilig'de törenin değişmeyen hükümleri; adalet, iyilik, eşitlik ve insanlık olarak belirtilmiştir.\n\nAşağıdakilerden hangisi Türk töresinin dayandığı 'eşitlik' hükmünü ifade eden kavramdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Könilik"
+      },
+      {
+        "key": "B",
+        "text": "Tüzlük"
+      },
+      {
+        "key": "C",
+        "text": "Uzluk"
+      },
+      {
+        "key": "D",
+        "text": "Kişilik"
+      },
+      {
+        "key": "E",
+        "text": "Yargan"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Kutadgu Bilig'e göre törenin 4 değişmez ilkesi:<br>• <strong>Könilik:</strong> Adalet<br>• <strong>Tüzlük:</strong> Eşitlik<br>• <strong>Uzluk:</strong> İyilik / Yararlılık<br>• <strong>Kişilik:</strong> İnsanlık"
+  },
+  {
+    "id": "tarih3-q15",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "I. Tabiat kuvvetleri (Yer-Sub)\nII. Atalar Kültü\nIII. Gök Tanrı\n\nYukarıdakilerden hangileri ilk Türk devletlerinde görülen dini inançlardandır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Eski Türklerde en temel inanç <strong>Gök Tanrı</strong> inancıdır. Bunun yanında dağ, su, ağaç gibi doğa güçlerine saygıyı içeren <strong>Tabiat Kuvvetleri (Yer-Sub)</strong> ve vefat eden büyüklere/atalara saygıyı içeren <strong>Atalar Kültü</strong> yaygın inanışlardır."
+  },
+  {
+    "id": "tarih3-q16",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "Türk tarihi ile ilgili olarak aşağıda verilen kelimelerden hangisi askeri bir kavram değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tarkan"
+      },
+      {
+        "key": "B",
+        "text": "Şad"
+      },
+      {
+        "key": "C",
+        "text": "Böri"
+      },
+      {
+        "key": "D",
+        "text": "Yelme"
+      },
+      {
+        "key": "E",
+        "text": "Baksı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><strong>Baksı (Kam/Şaman):</strong> Dini ayinleri yöneten, büyü ve tedavi işleriyle uğraşan din adamıdır. Tarkan, Şad, Böri ve Yelme ise askeri ve ordu teşkilatına ait terimlerdir."
+  },
+  {
+    "id": "tarih3-q17",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "İlk Türk devletlerinde devlet ve birey sıkı ilişki içinde olmuştur.\n\nYöneticilerle yönetilenlerin arasındaki karşılıklı görev ve sorumlulukların yer aldığı yazılı olmayan anlaşma aşağıdakilerden hangisiyle ifade edilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tüz"
+      },
+      {
+        "key": "B",
+        "text": "Şad"
+      },
+      {
+        "key": "C",
+        "text": "Tutuk"
+      },
+      {
+        "key": "D",
+        "text": "Küç"
+      },
+      {
+        "key": "E",
+        "text": "Ulus"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><strong>Tüz:</strong> Devlet (hükümdar) ile halk arasında karşılıklı hak ve ödevleri belirleyen sözlü toplumsal mutabakat/sözleşmedir. Hükümdar halkı doyurmak ve korumakla, halk ise devlete itaat ve askerlikle yükümlüdür."
+  },
+  {
+    "id": "tarih3-q18",
+    "testId": "tarih3",
+    "testTitle": "Genel Tarih Video Tarama Testi 3",
+    "topicId": "tarih_tarama_3",
+    "topicName": "Genel Tarih Video Tarama 3",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Aşağıdakilerden hangisi ilk Türk devletlerinde ihraç (dışarıya satılan) ürünlerden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Canlı hayvan"
+      },
+      {
+        "key": "B",
+        "text": "Dokuma malzemeleri"
+      },
+      {
+        "key": "C",
+        "text": "Hububat (Tahıl)"
+      },
+      {
+        "key": "D",
+        "text": "Madeni araçlar"
+      },
+      {
+        "key": "E",
+        "text": "Hayvan ürünleri (deri, kürk)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Orta Asya'da göçebe hayvancılık hâkim olduğu için tahıl ve un ihtiyacı dışarıdan (özellikle Çin'den) <strong>ithal</strong> edilirdi. Canlı hayvan, kürk, deri, madeni eşyalar, silah ve dokuma ürünleri ise ihraç edilirdi."
+  },
+  {
+    "id": "tarih4-q1",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Orta Asya Türk Devletlerinde ülkenin boylardan oluşması ve ikili teşkilat yapısının uygulanmasının aşağıdakilerden hangisine neden olduğu savunulabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tarımda ilerleme sağlamasına"
+      },
+      {
+        "key": "B",
+        "text": "Düzenli ordunun kurulmasına"
+      },
+      {
+        "key": "C",
+        "text": "Avrupa'da fetih faaliyetlerine başlamalarına"
+      },
+      {
+        "key": "D",
+        "text": "Merkeziyetçi yapının zayıflamasına"
+      },
+      {
+        "key": "E",
+        "text": "Din değiştirmelerin yapılmasına"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Boyların kendi iç işlerinde serbest olması ve devletin doğu-batı olarak ikili teşkilatla yönetilmesi federatif bir yapı oluşturmuş, bu durum merkeziyetçi yapıyı zayıflatarak taht kavgalarını ve devletlerin kısa sürede bölünmesini kolaylaştırmıştır."
+  },
+  {
+    "id": "tarih4-q2",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "İslamiyet öncesi Türk devletlerindeki din ve inanışla ilgili aşağıda verilen kavramlar ve açıklamalar hangisinde yanlış verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kam → Şamanizm'de din adamı"
+      },
+      {
+        "key": "B",
+        "text": "Kurgan → Toprakla örtülü mezar"
+      },
+      {
+        "key": "C",
+        "text": "Sagu → Ölen kişinin arkasından yakılan ağıt"
+      },
+      {
+        "key": "D",
+        "text": "Yuğ → Türklerde cennete verilen isim"
+      },
+      {
+        "key": "E",
+        "text": "Balbal → Ölen kişinin mezarına dikilen taş heykel"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><strong>Yuğ:</strong> Cenaze törenine verilen addır. İslamiyet öncesi Türklerde cennete <strong>Uçmağ</strong>, cehenneme ise <strong>Tamu</strong> denilirdi."
+  },
+  {
+    "id": "tarih4-q3",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Türklerin İslamiyet öncesi dönemde yaşadığı yerler ve yaşamları ile ilgili olarak;\nI. İklim ve arazi şartlarının etkisiyle toplumda farklı sınıflar ortaya çıkmıştır.\nII. Tabiat şartlarına uygun 'atlı göçebe' (konargöçer) hayat tarzı benimsenmiştir.\nIII. Yaşanılan coğrafya toplumun karakterinin şekillenmesinde oldukça etkili olmuştur.\n\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>I. öncül yanlıştır çünkü Orta Asya bozkır kültüründe toprak özel mülk değil devlet malı olduğu için feodalizm ve sınıflı toplum yapısı (köle-soylu ayrımı) oluşmamıştır. II ve III. öncüller ise bozkır coğrafyasının doğrudan sonucudur."
+  },
+  {
+    "id": "tarih4-q4",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "İlk Türk devletlerinde belirli bir toprağı, halkı ve hukuki düzeni olan siyasi teşkilata ne ad verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Urug"
+      },
+      {
+        "key": "B",
+        "text": "Oguş"
+      },
+      {
+        "key": "C",
+        "text": "İl (El)"
+      },
+      {
+        "key": "D",
+        "text": "Boy"
+      },
+      {
+        "key": "E",
+        "text": "Budun"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Eski Türk toplumsal yapısı küçükten büyüğe: <strong>Oguş (Aile) → Urug (Sülale) → Boy (Kabile) → Budun (Millet) → İl/El (Devlet)</strong> şeklindedir."
+  },
+  {
+    "id": "tarih4-q5",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Türk kültürünün çıkış bölgesi olan Tanrı ve Altay dağları arasındaki Orta Asya bozkırlarında, iklimin değişken ve sert olması, uzun mesafelere ulaşmada hızlı hareket edilmesini gerektirmiştir.\n\nBu duruma göre Türklerle ilgili olarak;\nI. Tabiatla mücadele etmek zorunda kaldıklarına,\nII. Atın, yaşamlarında önemli bir yeri olduğuna,\nIII. Dinamik bir toplum olduğuna\n\nyukarıdakilerden hangilerine ulaşılabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Metinden hareketle sert iklim şartları tabiatla mücadeleyi (I), mesafeleri aşma ihtiyacı atın önemini (II) ve hızlı hareket kabiliyeti toplumun dinamik yapısını (III) doğrudan açıklar."
+  },
+  {
+    "id": "tarih4-q6",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "İslamiyet öncesi Türk topluluklarından bazılarının, Orta Asya dışına göç ettikten sonra milli benliklerini kaybettikleri görülmüştür.\n\nBu duruma;\nI. yeni devletler kurmaları,\nII. aralarında taht kavgaları yaşamaları,\nIII. dinlerini değiştirmeleri (Hristiyanlığı benimsemeleri)\n\ngelişmelerinden hangilerinin yol açtığı söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Avrupa'ya göç eden Avarlar, Macarlar, Peçenekler, Uzlar ve Tuna Bulgarları Hristiyanlığı kabul ederek zamanla dillerini, geleneklerini ve milli kimliklerini kaybedip asimile olmuşlardır."
+  },
+  {
+    "id": "tarih4-q7",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Türklerin ilk anayurdu olan Orta Asya coğrafi kapsamı içinde;\nI. Hindikuş ve Karanlık Dağları\nII. Kingan ve Ural-Altay Dağları\nIII. Alp Dağları\n\nyukarıdakilerin hangisinden bahsedilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Orta Asya; doğuda Kingan, batıda Hazar/Ural, kuzeyde Altay/Sibirya, güneyde Hindikuş ve Karanlık dağları ile çevrilidir. <strong>Alp Dağları</strong> ise Orta ve Batı Avrupa'da yer alır."
+  },
+  {
+    "id": "tarih4-q8",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "İslamiyet öncesi dönemde Türk Devletlerinde görülen;\nI. kut anlayışı (ülkenin hanedan ortak malı sayılması),\nII. ordu-millet anlayışı,\nIII. ikili teşkilat yapısı,\nIV. yazının geç kullanılması\n\nözelliklerinden hangileri merkezi otoritenin zayıflamasına doğrudan sebep olmuştur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "II ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve IV"
+      },
+      {
+        "key": "E",
+        "text": "III ve IV"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Kut anlayışının getirdiği veraset sistemi ('ülke hanedanın ortak malıdır') taht kavgalarına yol açarken, ikili teşkilat (doğu-batı yönetimi) batıdaki yabgunun bağımsızlaşmasına zemin hazırlayarak merkezi otoriteyi zayıflatmıştır."
+  },
+  {
+    "id": "tarih4-q9",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "İlk Türk devletlerinin konar-göçer bir yaşam sürmelerinin sonuçlarıyla ilgili olarak;\nI. Türk tarihinin belli bir coğrafyada incelenmesi zorlaşmıştır.\nII. Ekonomilerinin temeli hayvancılık olmuştur.\nIII. Devlet teşkilatlanması yönünde son derece geri kalmışlardır.\n\nyargılarından hangileri söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Geniş alanlara yayılmaları Türk tarihini bir bütün olarak incelemeyi zorlaştırmış (I), iklim şartları ekonomiyi hayvancılığa dayandırmıştır (II). Ancak Türkler devlet teşkilatlanması ve askeri organizasyonda son derece ileri düzeyde olmuşlardır (III söylenemez)."
+  },
+  {
+    "id": "tarih4-q10",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "I. Uygurlar döneminde Budistler ve Şamanistler\nII. Hazarlar döneminde Museviler, Hristiyanlar ve Müslümanlar\nIII. İtil Bulgarları döneminde Hristiyanlar ve Müslümanlar\n\nbirlikte barış içinde yaşamışlardır.\n\nBuna göre Türk devlet geleneğinde aşağıdakilerden hangisine önem verildiği öne sürülebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merkeziyetçi yapıya"
+      },
+      {
+        "key": "B",
+        "text": "Dini hoşgörüye"
+      },
+      {
+        "key": "C",
+        "text": "Diplomatik ilişkilere"
+      },
+      {
+        "key": "D",
+        "text": "Toplumsal sınıflara"
+      },
+      {
+        "key": "E",
+        "text": "Güçlü askeri teşkilata"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Farklı inançlara sahip toplulukların kendi ibadetlerini özgürce yapabilmeleri ve Hazar ülkesinde her din için ayrı mahkeme hâkimlerinin bulunması Türklerdeki güçlü <strong>dini hoşgörüyü</strong> kanıtlar."
+  },
+  {
+    "id": "tarih4-q11",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "İslamiyet'ten önceki Türk devletlerinde;\nI. Hakanın kurultay kararlarına uyması,\nII. Devlet işlerinin kurultayda görüşülüp tartışılması,\nIII. Savaşa ve barışa kurultayda karar verilmesi\n\ndurumları Türk yönetim anlayışının hangi özelliğini kanıtlar niteliktedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Barışçı"
+      },
+      {
+        "key": "B",
+        "text": "Demokratik"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal"
+      },
+      {
+        "key": "D",
+        "text": "Diplomatik"
+      },
+      {
+        "key": "E",
+        "text": "Savaşçı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Kurultayın danışma ve karar organı olması, boy beylerinin ve hatunun katılımıyla kararların müzakere edilmesi ve hükümdarın mutlak yetkilerinin sınırlandırılması <strong>demokratik</strong> yönetim anlayışını kanıtlar."
+  },
+  {
+    "id": "tarih4-q12",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "İslamiyet öncesinde kurulan Türk devletlerinde;\nI. Bitikçi (Kâtip/Yazıcı)\nII. Yabgu (Batı Kanadı Yöneticisi)\nIII. Tüdün (Vergi Memuru/Vali)\nIV. Kam (Şaman/Din Adamı)\n\nkavramlarından hangileri devlet görevlileri ve bürokrasi arasında gösterilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız IV"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve IV"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><strong>Kam (Baksı):</strong> Din adamıdır; idari, mali veya siyasi bir devlet memuriyeti unvanı değildir. Bitikçi (kâtip/yazışma sorumlusu), Yabgu (hükümdar yardımcısı/vali) ve Tüdün (vergi memuru) ise resmî devlet görevlileridir."
+  },
+  {
+    "id": "tarih4-q13",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "İslamiyet öncesi Türklerde;\nI. Ölen kişilerin eşyaları ile birlikte gömülmesi,\nII. Ölen kişiler için yuğ denilen cenaze törenlerinin yapılması,\nIII. Ölen kişiler için sagu denilen ağıtların yakılması\n\ndurumlarından hangileri öldükten sonra yaşama (ahiret inancına) inanıldığının doğrudan kanıtı olarak gösterilebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Ölen kişinin silahları, atı ve değerli eşyalarıyla gömülmesi (kurgan) onun ikinci yaşamında bunlara ihtiyaç duyacağı inancına (ahiret inancı) doğrudan kanıttır. Yuğ ve sagu ise ölüm sonrası duyulan üzüntü ve cenaze merasimiyle ilgilidir."
+  },
+  {
+    "id": "tarih4-q14",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Aşağıdakilerden hangisi Uygurların, kağanlarının gücünü Ay'dan aldıklarına inanmalarından dolayı unvanlarının başına 'Ay' kelimesini eklemelerinde (Ay Tengride Kut Bulmış) etkili olan dindir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Manihaizm (Maniheizm)"
+      },
+      {
+        "key": "B",
+        "text": "Budizm"
+      },
+      {
+        "key": "C",
+        "text": "İslamiyet"
+      },
+      {
+        "key": "D",
+        "text": "Hristiyanlık"
+      },
+      {
+        "key": "E",
+        "text": "Şamanizm"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Bögü Kağan döneminde kabul edilen <strong>Manihaizm</strong> (Işık dini) inancında Ay ve Güneş kutsal kabul edildiği için Uygur hükümdarları unvanlarında 'Ay Tengri' tabirini kullanmışlardır."
+  },
+  {
+    "id": "tarih4-q15",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet'ten önce Türklerde ölen kişinin eşyalarıyla birlikte gömüldüğü mezara verilen addır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yuğ"
+      },
+      {
+        "key": "B",
+        "text": "Şad"
+      },
+      {
+        "key": "C",
+        "text": "Kurgan"
+      },
+      {
+        "key": "D",
+        "text": "Toy"
+      },
+      {
+        "key": "E",
+        "text": "Tigin"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><strong>Kurgan:</strong> Ahşap odalar şeklinde yapılan ve üzerine toprak/taş yığılarak tepe oluşturulan eski Türk mezarlarıdır."
+  },
+  {
+    "id": "tarih4-q16",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "I. Ongun (Kutsal kabul edilen totem hayvanı)\nII. Kült (Kutsal sayılan inanç / Atalar Kültü)\nIII. Örgin (Hükümdarlık tahtı)\n\nYukarıda İslamiyet öncesi Türk devletlerine ait kavramlardan hangileri dini inanışlarla ilgilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><strong>Ongun:</strong> Boyların kutsal saydığı koruyucu totem hayvanıdır (Dini). <strong>Kült:</strong> Atalar ve doğa ruhlarına saygıyı içeren inanç sistemidir (Dini). <strong>Örgin:</strong> Hükümdarlık tahtıdır (Siyasi)."
+  },
+  {
+    "id": "tarih4-q17",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "Orta Asya'da kurulan ilk Türk devletleriyle ilgili olarak;\nI. Ülke, töre adı verilen yazılı olmayan hukuk kurallarına göre yönetilmiştir.\nII. Toprak, vatan olarak kabul edilip yurt olarak adlandırılmıştır.\nIII. Hükümdara devlet yönetimiyle ilgili konularda yardımcı olmak üzere danışma meclisleri (Kurultay/Toy) kurulmuştur.\n\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Töre yazısız hukuk kurallarıdır (I), yurt bağımsız toprak parçası ve vatandır (II), kurultay ise devlet meselelerinin görüşüldüğü meclistir (III). Her üç yargı da doğrudur."
+  },
+  {
+    "id": "tarih4-q18",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Aşağıdakilerden hangisi Orta Asya'da kurulan Türk devletlerinin askeri özellikleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Savaşlarda Turan (Hilal/Kurt Kapanı) taktiğinin uygulanması"
+      },
+      {
+        "key": "B",
+        "text": "Askerliğin maaşlı özel bir meslek sayılması"
+      },
+      {
+        "key": "C",
+        "text": "Başkomutanlığı hakanın yapması"
+      },
+      {
+        "key": "D",
+        "text": "Mete Han tarafından onluk sistemin uygulanması"
+      },
+      {
+        "key": "E",
+        "text": "Sürek avları ile savaş talimlerinin yapılması"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Ordu-millet anlayışı nedeniyle eli silah tutan herkes askerdir; askerlik özel ve ücretli bir meslek sınıfı oluşturmamıştır."
+  },
+  {
+    "id": "tarih4-q19",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Türk yurdunu ekonomik olarak zenginleştirip halkın refahını artırabilmesi ve bereketi dağıtması amacıyla Tanrı tarafından kağana verildiğine inanılan güç/yetenek aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Güç (Küç)"
+      },
+      {
+        "key": "B",
+        "text": "Ülüş (Paylaştırma/Bolluk)"
+      },
+      {
+        "key": "C",
+        "text": "Tüz"
+      },
+      {
+        "key": "D",
+        "text": "Kut"
+      },
+      {
+        "key": "E",
+        "text": "Çav"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Kağana Tanrı tarafından verilen 3 ilahi bağış:<br>• <strong>Kut:</strong> Siyasi iktidar ve yönetme yetkisi<br>• <strong>Ülüş:</strong> İktisadi güç, bolluk, bereket ve adil paylaştırma yetkisi<br>• <strong>Küç (Güç):</strong> Askeri savaşma ve zafer kazanma yeteneğidir."
+  },
+  {
+    "id": "tarih4-q20",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "İslamiyet'ten önceki Türklerde yetiştirilmek istenen cesur, yiğit ve bilge savaşçı ideal insan tipi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pir"
+      },
+      {
+        "key": "B",
+        "text": "Ata"
+      },
+      {
+        "key": "C",
+        "text": "Alp"
+      },
+      {
+        "key": "D",
+        "text": "Veli"
+      },
+      {
+        "key": "E",
+        "text": "Gazi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>İslamiyet öncesi Türk toplumunda cesaret, bilgelik ve kahramanlığı temsil eden ideal insan tipi <strong>Alp</strong> tipidir. İslamiyet'in kabulüyle birlikte bu anlayış <strong>Alp-Eren</strong> ve <strong>Gazi</strong> tipine dönüşmüştür."
   }
 ];

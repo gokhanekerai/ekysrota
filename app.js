@@ -377,6 +377,22 @@ class EKYSApp {
             badge: '20 Soru Video Test'
           },
           {
+            id: 'tarih3_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 3',
+            icon: '📜',
+            desc: 'İlk Türk Devletleri Kültür, Medeniyet, Töre, Hukuk ve Dini İnançlar (18 Soru).',
+            filterKey: 'tarih3',
+            badge: '18 Soru Video Test'
+          },
+          {
+            id: 'tarih4_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 4',
+            icon: '📜',
+            desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği (20 Soru).',
+            filterKey: 'tarih4',
+            badge: '20 Soru Video Test'
+          },
+          {
             id: 'inkilap_konu_cat',
             name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
             icon: '🇹🇷',
@@ -396,7 +412,7 @@ class EKYSApp {
             id: 'tarih_tum_karma',
             name: '🏆 Tüm Tarih & İnkılap Tarihi (Büyük Karma)',
             icon: '🎯',
-            desc: 'Genel Tarih 1-2 ve İnkılap Tarihi tüm soru havuzundan karma test.',
+            desc: 'Genel Tarih 1-4 ve İnkılap Tarihi tüm soru havuzundan karma test.',
             filterKey: 'tarih_tum',
             badge: 'Tüm Tarih Karma'
           }
@@ -413,7 +429,7 @@ class EKYSApp {
             icon: '📜',
             desc: 'İslamiyet Öncesi Türk Tarihi, İlk Türk Devletleri Kültür ve Medeniyeti.',
             filterKey: 'tarih1',
-            badge: '20 Soru'
+            badge: '19 Soru'
           },
           {
             id: 'tarih2',
@@ -421,6 +437,22 @@ class EKYSApp {
             icon: '⚔️',
             desc: 'İlk Türk-İslam Devletleri, Türkiye Selçukluları ve Anadolu Beylikleri.',
             filterKey: 'tarih2',
+            badge: '20 Soru'
+          },
+          {
+            id: 'tarih3',
+            name: 'Genel Tarih Video Tarama Testi 3',
+            icon: '📜',
+            desc: 'İlk Türk Devletleri Kültür, Medeniyet, Töre, Hukuk ve Dini İnançlar.',
+            filterKey: 'tarih3',
+            badge: '18 Soru'
+          },
+          {
+            id: 'tarih4',
+            name: 'Genel Tarih Video Tarama Testi 4',
+            icon: '📜',
+            desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği.',
+            filterKey: 'tarih4',
             badge: '20 Soru'
           },
           {
@@ -1139,52 +1171,6 @@ class EKYSApp {
             desc: 'Tüm yılların çıkmış güncel ve genel kültür sorularından oluşan karma test.',
             filterKey: 'guncel',
             badge: 'Karma Test'
-          }
-        ]
-      },
-      'inkilap': {
-        title: '🇹🇷 Tarih, Atatürk İlkeleri ve İnkılap Tarihi',
-        desc: 'Genel Tarih Video Tarama Testleri, İnkılap Tarihi ve Çıkmış Tarih Soruları:',
-        items: [
-          {
-            id: 'tarih1_direct',
-            name: '📜 Genel Tarih Video Tarama Testi 1',
-            icon: '📜',
-            desc: 'İslamiyet Öncesi Türk Tarihi, İlk Türk Devletleri Kültür ve Medeniyeti (19 Soru).',
-            filterKey: 'tarih1',
-            badge: '19 Soru Video Test'
-          },
-          {
-            id: 'tarih2_direct',
-            name: '📜 Genel Tarih Video Tarama Testi 2',
-            icon: '📜',
-            desc: 'Türk-İslam Devletleri, Büyük Selçuklu, Anadolu Selçuklu ve Osmanlı Tarihi (20 Soru).',
-            filterKey: 'tarih2',
-            badge: '20 Soru Video Test'
-          },
-          {
-            id: 'inkilap_konu_cat',
-            name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
-            icon: '🇹🇷',
-            desc: 'Milli Mücadele, Genelgeler/Kongreler, Muharebeler, Lozan, Cumhuriyet Dönemi ve İlkeler.',
-            filterKey: 'inkilap',
-            badge: 'Çıkmış + Konu Testleri'
-          },
-          {
-            id: 'tarih_cikmis_cat',
-            name: '📜 2019 - 2026 Çıkmış Tarih & İnkılap Soruları',
-            icon: '📜',
-            desc: 'Tüm resmî MEB EKYS sınavlarında çıkmış Genel Tarih ve İnkılap Tarihi soruları (Soru 1-6 & 17-28).',
-            filterKey: 'tarih_cikmis',
-            badge: '100+ Soru Çıkmış'
-          },
-          {
-            id: 'tarih_tum_karma',
-            name: '🏆 Tüm Tarih & İnkılap Tarihi (Büyük Karma)',
-            icon: '🎯',
-            desc: 'Genel Tarih 1-2 ve İnkılap Tarihi tüm soru havuzundan karma test.',
-            filterKey: 'tarih_tum',
-            badge: 'Tüm Tarih Karma'
           }
         ]
       },
@@ -2376,6 +2362,9 @@ class EKYSApp {
       if (filterKey === 'cogr_cikmis') return q.testId === 'cogr_test_cikmis_secki' || (isCikmis && ((qNum >= 6 && qNum <= 12) || tName.includes('coğrafya')));
       if (filterKey === 'tarih1') return (q.testId === 'tarih1' || tId === 'tarih_tarama_1' || (tName.includes('tarama 1') && tName.includes('tarih')));
       if (filterKey === 'tarih2') return (q.testId === 'tarih2' || tId === 'tarih_tarama_2' || (tName.includes('tarama 2') && tName.includes('tarih')));
+      if (filterKey === 'tarih3') return (q.testId === 'tarih3' || tId === 'tarih_tarama_3' || (tName.includes('tarama 3') && tName.includes('tarih')));
+      if (filterKey === 'tarih4') return (q.testId === 'tarih4' || tId === 'tarih_tarama_4' || (tName.includes('tarama 4') && tName.includes('tarih')));
+      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || tId.startsWith('tarih_tarama'));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);
