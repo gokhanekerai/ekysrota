@@ -37,11 +37,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=91.0">
+  <link rel="stylesheet" href="styles.css?v=95.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=54.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=60.0').then(reg => {
           reg.update();
         }).catch(err => console.log('SW register failed:', err));
       });
@@ -519,17 +519,23 @@
           <div class="quiz-container">
             
             <div class="quiz-top-bar">
-              <div class="quiz-header-left">
-                <button class="btn-star-icon" id="btn-quiz-star" onclick="app.toggleCurrentQuestionStar()" title="Yıldızlı Sorulara Ekle">⭐</button>
-                <div class="quiz-info-col">
+              <div class="quiz-top-bar-left">
+                <div class="quiz-star-title-row">
+                  <button class="btn-star-icon" id="btn-quiz-star" onclick="app.toggleCurrentQuestionStar()" title="Yıldızlı Sorulara Ekle">⭐</button>
                   <h3 id="quiz-active-title" class="quiz-active-title">EKYS Sınav Modu</h3>
+                </div>
+                <div class="quiz-progress-badge">
                   <span id="quiz-progress-text" class="quiz-progress-text">Soru 1 / 10</span>
                 </div>
               </div>
-              <div class="quiz-header-right">
-                <div class="quiz-timer" id="quiz-timer-display">⏱️ 00:00</div>
-                <button class="btn btn-primary btn-sm btn-quiz-finish" onclick="app.finishQuiz()">🏁 Bitir</button>
-                <button class="btn btn-secondary btn-sm btn-quiz-exit" onclick="app.exitQuiz()" title="Sınavdan Çık">🚪 Çıkış</button>
+              <div class="quiz-top-bar-right">
+                <div class="quiz-timer-container">
+                  <div class="quiz-timer" id="quiz-timer-display">⏱️ 00:00</div>
+                </div>
+                <div class="quiz-actions-container">
+                  <button class="btn btn-primary btn-sm btn-quiz-finish" onclick="app.finishQuiz()">🏁 Bitir</button>
+                  <button class="btn btn-secondary btn-sm btn-quiz-exit" onclick="app.exitQuiz()" title="Sınavdan Çık">🚪 Çıkış</button>
+                </div>
               </div>
             </div>
 
@@ -1091,13 +1097,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=91.0"></script>
-  <script src="data/questions-db.js?v=91.0"></script>
-  <script src="services/storage-service.js?v=91.0"></script>
-  <script src="services/firebase-service.js?v=91.0"></script>
-  <script src="services/pdf-service.js?v=91.0"></script>
-  <script src="services/youtube-service.js?v=91.0"></script>
-  <script src="services/question-generator.js?v=91.0"></script>
-  <script src="app.js?v=91.0"></script>
+  <script src="data/ekys-sample-questions.js?v=95.0"></script>
+  <script src="data/questions-db.js?v=95.0"></script>
+  <script src="services/storage-service.js?v=95.0"></script>
+  <script src="services/firebase-service.js?v=95.0"></script>
+  <script src="services/pdf-service.js?v=95.0"></script>
+  <script src="services/youtube-service.js?v=95.0"></script>
+  <script src="services/question-generator.js?v=95.0"></script>
+  <script src="app.js?v=95.0"></script>
 </body>
 </html>
