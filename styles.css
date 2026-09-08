@@ -1097,14 +1097,6 @@ body {
   border-color: #ef4444;
 }
 
-.quiz-actions {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-
 /* RESULT VIEW */
 .result-container {
   max-width: 650px;
