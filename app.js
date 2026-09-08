@@ -3122,7 +3122,7 @@ class EKYSApp {
     const starBtn = document.getElementById('btn-quiz-star');
 
     if (titleEl) titleEl.textContent = this.activeQuiz.title;
-    if (progressEl) progressEl.textContent = `Soru ${curIdx + 1} / ${totalQ}`;
+    if (progressEl) progressEl.textContent = `Soru\u00A0${curIdx + 1}\u00A0/\u00A0${totalQ}`;
     if (topicEl) topicEl.textContent = q.topicName || q.category || 'Mevzuat';
     if (modeEl) modeEl.textContent = this.activeQuiz.mode === 'exam' ? '⏱️ Sınav Modu' : '🎯 Öğrenme Modu';
 
