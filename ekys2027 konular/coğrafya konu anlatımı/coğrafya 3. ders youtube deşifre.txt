@@ -1,0 +1,165 @@
+Ders transkriptinde ele alınan konular; kıyı topografyası, karstik yapılar, buzul şekilleri, Türkiye’nin gölleri, doğal afetler ve iklim elemanları başlıkları altında, sınav odaklı ve sistematik bir ders notu olarak yapılandırılmıştır.
+
+---
+
+### Kıyı Topografyası ve Kıyı Tipleri
+
+Kıyı topoğrafyasında temel kural: **Bir kıyıda falez varsa delta ovası oluşamaz; delta ovası varsa falez oluşamaz.**
+
+* **Falez (Yalıyar - Kıyı Aşınım Şekli):** Dağların kıyıya paralel ve hemen kıyıdan yükseldiği, kıta sahanlığının (şelf) dar, denizin aniden derinleştiği yerlerde dalga aşındırmasıyla oluşur.
+* *Görüldüğü yerler:* Doğu ve Batı Karadeniz, Muğla-Menteşe kıyıları, Kaş-Finike-Antalya ve Antalya-Mersin arası.
+* *Görülmediği yerler:* Bafra, Çarşamba, Silifke ve Çukurova gibi delta sahaları ile kıta sahanlığının geniş olduğu Ege kıyıları.
+
+
+* **Kıyı Birikim Şekilleri (Dalga ve Akıntılar):**
+* **Lagün (Kıyı Set Gölü):** Kıyı kordonlarının koy veya körfezlerin önünü kapatmasıyla oluşan göllerdir. Örnek: İstanbul'da Büyükçekmece, Küçükçekmece, Durusu (Terkos); Adana'da Akyatan, Akyayan; Muğla'da Fethiye-Ölüdeniz.
+* **Tombolo (Saplı Ada):** Kıyı okunun bir adayı karaya bağlayarak yarımadaya dönüştürmesidir. Türkiye'deki iki somut örneği: Balıkesir **Kapıdağ Yarımadası** ve **Sinop İnceburun**.
+
+
+* **Kıyı Tipleri:**
+* *Boyuna Kıyı:* Dağlar kıyıya paraleldir. Kıyı ile iç kesim arasında ulaşım zordur, geçitlerle sağlanır. (Karadeniz ve Akdeniz).
+* *Enine Kıyı:* Dağlar kıyıya dik uzanır. Kıyı girintili çıkıntılıdır, kıta sahanlığı geniştir, denizel etki iç kesimlere sokulabilir. (Ege).
+* *Ria Tipi Kıyı:* Eski akarsu vadilerinin deniz istilasına uğramasıyla oluşur. (İstanbul Boğazı, Haliç, Çanakkale Boğazı, Gökova Körfezi).
+* *Dalmaçya Kıyı Tipi:* Kıyıya paralel uzanan dağ sıraları arasındaki vadilerin sular altında kalmasıyla oluşan ada zincirleridir. (Antalya: Kaş - Finike arası).
+* *Kalanklı Kıyı:* Karstik kanyon vadilerin deniz suyu altında kalmasıyla oluşur. (Mersin kıyıları).
+* *Haliçli Kıyı:* Gelgit (medcezir) etkisiyle akarsu ağızlarının aşınmasıdır. Türkiye'de İstanbul-Ağva çevresinde örnekleri literatürde kabul edilmektedir.
+* *Türkiye'de Görülmeyen Kıyı Tipleri:* **Fiyort** ve **Skyer** (Kutup kuşağında buzul etkisiyle oluştukları için – Matematik Konum), **Mercanlı Kıyı** (Tropikal kuşak sıcak denizlerde oluştuğu için – Matematik Konum), **Watt Kıyı** (Açık okyanus kıyısı ve yüksek gelgit genliği gerektiği için – Özel Konum).
+
+
+
+---
+
+### Karstik Şekiller ve Kayaçlar
+
+Suda kolay çözünebilen (kalker, jips, kaya tuzu, dolomit) kayaçların bulunduğu alanlardır. Tarımsal verim ve baraj su tutma kapasitesi düşüktür; ancak yer altı suyu ve mağara turizmi potansiyeli yüksektir.
+
+* **Kayaç Dağılımı:**
+* *Kalker (Kireç Taşı):* En yaygın olarak Teke, Taşeli platoları ve Akdeniz kuşağında.
+* *Jips (Alçı Taşı):* En tipik sahası Sivas havzası, kısmen Çankırı ve Erzurum.
+* *Kaya Tuzu:* Çankırı, Nevşehir, Yozgat çevresi.
+* *Dolomit:* Türkiye'de rezerv olarak en yaygın karstik kayaç/madendir (sanayide yaygın kullanılır).
+
+
+* **Aşınım Şekilleri Sıralaması (Küçükten Büyüğe):**
+
+$$\text{Lapya} \longrightarrow \text{Dolin} \longrightarrow \text{Uvala} \longrightarrow \text{Polye (Karstik Ova)}$$
+
+
+* *Polye (Karstik Ovalar - TAKKEM Kodlaması):* **T**efenni, **A**cıpayam, **K**estel, **K**orkuteli, **E**lmalı, **M**uğla.
+* *Mağara / Galeri:* Yer altı boşluklarıdır. (İnsuyu-Burdur, Yarımburgaz-İstanbul, Karaca-Gümüşhane, Dupnisa-Kırklareli, Damlataş/Karain-Antalya).
+* *Obruk:* Mağara tavanlarının çökmesiyle oluşan derin çukurlardır. (Cennet-Cehennem/Mersin, Kızören/Konya).
+
+
+* **Birikim Şekilleri:**
+* *Traverten:* Kalsiyum bikarbonatlı yer altı sularının yüzeye çıkıp karbondioksitin uçması ve kirecin çökelmesiyle oluşur (Denizli-Pamukkale). Dünyadaki tek traverten set gölü **Erzincan - Otlukbeli Gölü**'dür.
+
+
+
+---
+
+### Buzul Topografyası
+
+Türkiye mutlak konumu gereği orta kuşakta yer aldığından deniz seviyesinde buzul oluşamaz. Ancak göreceli (özel) konum nedeniyle yüksek dağlık kütlelerde (2500–3000 m üzerinde) buzullaşma görülür.
+
+* **Şekiller:** Sirk (buzul çukuru), hörgüç kaya, buzul vadisi ve moren depoları Türkiye'de mevcuttur. Örtü buzulu (Sander düzlüğü) bulunmaz.
+* **Görüldüğü Alanlar:** Hakkari Cilo (Reşko) Dağları, Kaçkarlar, Ağrı Dağı (zirvesinde Takke Buzulu), Erciyes, Bolkarlar, Aladağlar, Bey Dağları.
+* **Kritik İstisna (Uludağ):** Uludağ'da Kuvaterner buzul dönemine ait **buzul aşınım şekilleri (sirk çukurları ve gölleri)** mevcuttur; ancak günümüzde **aktif buzul kütlesi bulunmamaktadır.**
+
+---
+
+### Türkiye'nin Gölleri
+
+Oluşum mekanizmalarına göre göller iki ana grupta toplanır:
+
+| Göl Türü | Oluşum Nedeni | Başlıca Örnekler |
+| --- | --- | --- |
+| **Tektonik Göller** | Fay hatlarına bağlı çanaklarda su birikmesi (En yaygın tür) | Tuz, İznik, Manyas (Kuş), Uluabat, Sapanca, Akşehir, Burdur |
+| **Karstik Göller** | Kalker/jips erime çukurlarında su birikmesi | Salda, Suğla, Avlan, Kestel, Kızören Obruğu |
+| **Volkanik Göller** | Krater, kaldera ve maar çukurlarında su birikmesi | Meke Maarı (Dünyanın Nazar Boncuğu - Konya), Nemrut Kalderası (Bitlis), Gölcük (Isparta) |
+| **Buzul (Sirk) Gölleri** | Sirk çukurlarına su dolması | Aynalı, Kilimli, Heybeli (Uludağ zirvesi); Çinili (Toroslar) |
+| **Heyelan Set Gölleri** | Kayan kütlenin vadi önünü tıkaması | Tortum (Erzurum), Sera (Trabzon), Abant ve Yedigöller (Bolu) |
+| **Volkanik Set Gölleri** | Lav ve tüflerin akarsu vadisini tıkaması | Erçek, Nazik, Haçlı, Balık, Çıldır, Van Gölü (Karma: Tektonik + Volkanik Set) |
+| **Alüvyal Set Gölleri** | Akarsuların taşıdığı alüvyonlarla kendi önünü tıkaması | Bafa (Çamiçi), Köyceğiz, Mogan, Eymir, Uzungöl |
+| **Kıyı Set (Lagün)** | Kıyı oklarının koy önünü kapatması | Büyükçekmece, Küçükçekmece, Terkos (Durusu), Akyatan |
+
+* **Göllerin Kimyasal Yapısını Belirleyen Temel Unsurlar:**
+1. **Gideğen (Göl Ayağı):** Göl fazla sularını bir akarsu vasıtasıyla denize boşaltabiliyorsa (açık havza) suyu **tatlıdır** (Örn: Beyşehir, Eğirdir). Dışa akışı yoksa (kapalı havza) taban yapısına ve iklime göre **tuzlu** (Tuz Gölü), **sodalı** (Van Gölü) veya **acı** (Burdur Gölü) olur.
+2. Beslenme kaynakları, havzanın kayaç yapısı (litoloji) ve iklim özellikleri kimyayı etkiler.
+3. **Dikkat:** Gölün **derinliği**, kimyasal bileşimi (tatlı, tuzlu, sodalı oluşu) üzerinde doğrudan belirleyici bir faktör değildir.
+
+
+* **Önemli Notlar:**
+* Güneydoğu Anadolu Bölgesi, yer şekillerinin aşırı sade olması (doğal çanak azlığı) ve şiddetli buharlaşma nedeniyle doğal göl bakımından en fakir bölgedir.
+* **Aktaş Gölü:** Türkiye - Gürcistan sınırını çizen sınır gölüdür.
+* **Tuz Gölü:** Buharlaşma ve yağış rejimine bağlı olarak mevsimler arasında su yüzeyi alanı en fazla değişen göldür.
+
+
+
+---
+
+### Doğal Afetler
+
+* **Heyelan:** Eğimin fazla, yağışın yüksek, tabakaların eğime paralel uzandığı ve killi yapının baskın olduğu sahalarda görülür.
+* En çok **Doğu Karadeniz**'de ve ilkbahar aylarında (kar erimeleri sebebiyle) gerçekleşir.
+* AFAD istatistiklerine göre Türkiye'de **en sık yaşanan / olay sayısı en fazla olan** afettir.
+* Ağaçlandırma heyelanı bütünüyle önlemez (kütle tabakayla birlikte kayar). Kesin çözüm riskli yerleşimin tahliyesidir.
+
+
+* **Deprem:** Fay hatlarına bağlı jeolojik afettir. Can ve mal kaybının **en yüksek** olduğu afettir. İkinci en büyük kayıp sel/taşkın kaynaklıdır.
+* **Erozyon:** Toprağın üst örtüsünün dış kuvvetlerce (su, rüzgâr) süpürülmesidir. Sinsi ve yavaş ilerler. Kurak/yarı kurak alanlarda (İç Anadolu, Güneydoğu) fazladır.
+* *Önlemler:* Ağaçlandırma yapmak, tarlayı eğime dik sürmek, nöbetleşe ekim yapmak, anız yakımını durdurmak, nadası azaltmak.
+
+
+* **Çığ:** Eğim, yoğun kar yağışı ve bitki örtüsü eksikliğinden kaynaklanır. Doğu Anadolu'da yaygındır (Hakkari, Bitlis, Tunceli).
+* *İstisna:* **Erzurum-Kars** yüksek olmasına rağmen bir **plato düzlüğü** olduğu için çığ riski dağlık arazilere oranla düşüktür.
+
+
+* **Sel ve Taşkın:**
+* *Sel:* Eğimin fazla olduğu V profilli çentik vadilerde hızlı ve yıkıcıdır (Doğu Karadeniz).
+* *Taşkın:* Tabanlı vadilerde suyun yavaş yavaş yükselip tarım arazilerini basmasıdır (Marmara - Meriç Nehri).
+
+
+* **Orman Yangınları:** Yaz kuraklığı ve yüksek sıcaklık nedeniyle doğrudan **Akdeniz İklimi** sahasıyla örtüşür (Kıyı Ege ve Akdeniz şeridi).
+* **Tsunami:** Deniz tabanı depremleri, heyelanları veya volkanizma sonucu oluşur. Türkiye iç denizlerinde (Marmara, Ege, Akdeniz) tarihsel ve güncel örnekleri (1999 Gölcük, 2020 Seferihisar) mevcuttur.
+
+---
+
+### İklim Elemanları ve Sıcaklık İlişkileri
+
+Bir sahanın sıcaklık dağılışını yorumlarken soru kökünün kıyasladığı coğrafi parametreler doğru eşleştirilmelidir:
+
+* **Enlem Etkisi (Matematik Konum):** Ekvator'a yakın yerlerin kural olarak daha sıcak olmasıdır.
+* *Örnek:* Antalya'nın Samsun'dan sıcak olması enlemdir. İkisi de deniz kıyısında olduğundan bu kıyasta denizellik farkı aranamaz.
+
+
+* **Karasallık ve Yükselti (Özel Konum):**
+* Aynı enlemde yer alan noktalardan Şanlıurfa'nın yazın Antalya'dan sıcak olması **karasallık ve güneyden gelen kuru rüzgârlar** ile açıklanır.
+* Aynı enlemde yer alan Balıkesir'in Ağrı'dan sıcak olması Ağrı'nın **yüksek ve karasal** olmasıyla açıklanır.
+* Eskişehir ile Ağrı kıyaslandığında ikisi de karasaldır; Ağrı'nın daha soğuk olması doğrudan **yükselti farkından** kaynaklanır.
+
+
+* **Bakı Etkisi:** Türkiye Kuzey Yarımküre'de ve Yengeç Dönencesi dışında olduğu için güneşe bakan dağ yamaçları daima **güney yamaçlardır**.
+* Güney yamaçlarda sıcaklık, buharlaşma, tarım ve yerleşme üst sınırı, kalıcı kar alt sınırı daha yüksektir; ürünler erken olgunlaşır.
+* *Karadeniz İstisnası:* Karadeniz'de yerleşme ve nüfus güney yerine kuzey yamaçta toplanmıştır. Bunun sebebi bakı değil, kuzey yamacın **denizel ve nemli** olmasıdır.
+
+
+* **Gerçek ve İndirgenmiş Sıcaklık:**
+* *Gerçek Sıcaklık:* Termometrenin o yükseltide ölçtüğü değer.
+* *İndirgenmiş Sıcaklık:* Yükseltinin yok sayılıp sahanın 0 metreye (deniz seviyesine) uyarlandığı kuramsal sıcaklık ($Her\ 200\text{ metrede } 1^\circ\text{C}$ eklenir).
+* Gerçek ile indirgenmiş sıcaklık arasındaki farkın **en fazla** olduğu bölge yükseltisi en çok olan **Doğu Anadolu**; farkın **en az** olduğu bölge ise yükseltisi en az olan **Marmara Bölgesi**'dir.
+
+
+* **Nem Türleri ve Dağılışı:**
+* *Bağıl (Nisbi) Nem:* Havanın neme doyma oranıdır; **yağış ihtimali** demektir. Türkiye'de en yüksek olduğu yer her mevsim yağışlı olan Karadeniz'dir.
+* *Maksimum Nem:* Havanın taşıyabileceği en yüksek nem miktarıdır; doğrudan **sıcaklığa** bağlıdır. Yazın sıcaklığın tavan yaptığı **Güneydoğu Anadolu**'da, kışın ise ılıman kalan **Akdeniz** kıyılarında en yüksektir.
+
+
+* **Yağış Oluşum Tipleri:**
+1. **Konveksiyonel (Yükselim) Yağış:** Isınan havanın dikey yükselip soğumasıyla oluşur. İç Anadolu (Kırkikindi / Memur yağışları), Güneydoğu ve Erzurum-Kars sahasında yaygındır.
+2. **Orografik (Yamaç) Yağışı:** Nemli hava kütlesinin dağ yamacına çarpıp yükselmesiyle oluşur. Dağların kıyıya paralel uzandığı Doğu ve Batı Karadeniz ile Toroslar'da (Menteşe, Antalya) etkilidir.
+3. **Cephesel (Frontal) Yağış:** Farklı karakterdeki sıcak ve soğuk hava kütlelerinin karşılaşma alanlarında oluşur. Türkiye'nin orta kuşakta yer almasının bir sonucudur; Akdeniz iklim bölgesinde kış aylarında belirgindir.
+
+
+* **Yağış Dağılımı Uç Noktaları:**
+* *En fazla yağış alan alanlar:* Rize ve Doğu Karadeniz kıyıları (Türkiye rekoru Rize'dedir), Menteşe Yöresi, Batı Toroslar, Nur Dağları, Zonguldak-Bartın çevresi.
+* *En az yağış alan alanlar:* Çevresine göre çukurda kalan **Iğdır Ovası** (mikroklima etkisi), Tuz Gölü çevresi ve Konya Kapalı Havzası, Güneydoğu'nun güneyi ve Trakya'da Ergene Havzası.
