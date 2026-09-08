@@ -29042,8 +29042,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Kuzey-güney yönlü sıcaklık ve yağış farkının belirginleşmesi)<br><br>📌 <strong>Dağların Uzanış Doğrultusu ve İklim Etkisi:</strong><br>• Türkiye'de Kuzey Anadolu Dağları ve Toroslar <strong>doğu-batı doğrultusunda</strong> uzanır.<br>• Bu uzanış, kuzeyden ve güneyden gelen denizel nemli hava kütlelerinin iç kesimlere girmesini engeller; kıyılarda bol yamaç (orografik) yağışı bırakırken, iç kesimlerde karasallığın ve sıcaklık farklarının artmasına yol açar."
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I Numaralı Alan - Ergene Havzası)<br><br>📌 <strong>Yer Şekilleri ve Bakı Etkisi İlişkisi:</strong><br>• <strong>Bakı Etkisi Nedir?</strong> Dağların Güneş'e bakan güney yamaçlarının, kuzey yamaçlarına göre daha fazla ısınması, güneşlenme süresinin daha uzun olması durumudur.<br>• Dağlık ve engebeli arazilerde (Kuzey Anadolu Dağları ve Toroslar) yamaç eğimleri belirgin olduğu için <strong>bakı etkisi çok kuvvetli</strong> hissedilir.<br><br>🔍 <strong>Haritadaki Alanların Analizi:</strong><br>• <strong>I Numaralı Alan (Ergene Havzası / Edirne çevresi):</strong> Türkiye'nin yer şekilleri en düz, sade ve alçak sahalarından biridir. Yüksek ve belirgin dağ yamaçları bulunmadığı için güney-kuzey yamaç sıcaklık farkı oluşmaz. Dolayısıyla yer şekillerine bağlı <strong>bakı etkisinin sıcaklık üzerindeki etkisi en az seviyededir</strong>.<br>• <strong>II, III, IV ve V Numaralı Alanlar:</strong> Kuzey Anadolu Dağları, Güneydoğu Toroslar ve Akdeniz Toros kuşağında yer aldıkları için çok dağlıktır ve dağların kuzey/güney yamaçları arasında şiddetli bakı farkı yaşanır."
   },
   {
     "id": "cogr_test_5-q5",
