@@ -28562,7 +28562,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>📌 <strong>Fiziki Haritalarda Renk Basamakları (Yeşil Renk: 0 - 500 m):</strong><br>• <strong>I. Ergene Ovası (Marmara):</strong> Ortalama 50-150 m yükseltide olup <strong>yeşil</strong> renkle gösterilir.<br>• <strong>II. Çukurova (Akdeniz):</strong> Deniz seviyesinde bir delta ovası olup (0-100 m) <strong>yeşil</strong> renkle gösterilir.<br><br>❌ <strong>500 Metrenin Üzerindeki Alanlar:</strong><br>• <strong>III. Sivas Platosu:</strong> 1200-1400 m (Sarı ve kahverengi).<br>• <strong>IV. İç Batı Anadolu (Eskişehir-Kütahya):</strong> 800-1000 m (Sarı renk)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>📌 <strong>Fiziki Haritalarda Renk Basamakları (Yeşil Renk: 0 - 500 m):</strong><br>• <strong>I. Ergene Ovası (Marmara):</strong> Ortalama 50-150 m yükseltide olup <strong>yeşil</strong> renkle gösterilir.<br>• <strong>II. Ceylanpınar Ovası (Güneydoğu Anadolu):</strong> Suriye sınırı boyundaki taban araziler ve Ceylanpınar Ovası ortalama 350-400 m yükseltiye sahiptir. 500 metrenin altında kaldığı için fiziki haritada <strong>yeşil</strong> renkle gösterilir.<br><br>❌ <strong>500 Metrenin Üzerindeki Alanlar:</strong><br>• <strong>III. Sivas Platosu:</strong> 1200-1400 m (Sarı ve kahverengi tonları).<br>• <strong>IV. İç Batı Anadolu (Eskişehir-Kütahya civarı):</strong> 800-1000 m (Sarı renk)."
   },
   {
     "id": "cogr_test_3-q10",
