@@ -1,3 +1,4 @@
+// EKYS 2027 Odakli Soru Veritabani
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -2254,7 +2255,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Orta Asya'nın Sınırları: İlk Türk ana yurdu olan Orta Asya; kuzeyde Sibirya ve Altay Dağları, güneyde Tanrı Dağları ve Hindikuş, batıda Hazar Denizi ve Aral Gölü, doğuda ise Kingan Dağları ile çevrilidir.\nİber Yarımadası: Güneybatı Avrupa'da (İspanya-Portekiz) yer alır; Orta Asya coğrafyası ile hiçbir ilgisi yoktur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (İber Yarımadası)<br><br>📌 <strong>Orta Asya'nın Coğrafi Sınırları:</strong><br>Türklerin ilk ana yurdu olan Orta Asya bozkırları şu doğal engellerle sınırlandırılmıştır:<br>• <strong>Kuzeyde:</strong> Sibirya düzlükleri ve Altay Dağları<br>• <strong>Güneyde:</strong> Hindikuş ve Tanrı Dağları / Himalaya hattı<br>• <strong>Batıda:</strong> Hazar Denizi, Aral Gölü ve Ural Dağları<br>• <strong>Doğuda:</strong> Kingan Dağları<br><br>❌ <strong>İber Yarımadası:</strong> Güneybatı Avrupa'da günümüz İspanya ve Portekiz devletlerinin yer aldığı yarımadadır; Orta Asya Türk coğrafyasıyla hiçbir ilgisi yoktur."
   },
   {
     "id": "tarih1-q2",
@@ -2291,7 +2292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Medreseler: İslamiyet'in kabulünden sonra Türk-İslam devletlerinde (Karahanlılar, Büyük Selçuklu vb.) kurulan yükseköğretim kurumlarıdır. İslamiyet öncesi Orta Asya Türk tarihinde medrese bulunmaz.\nYazılı taşlar (yazıtlar), madenî paralar, kurganlar (oda mezarlar) ve balbal mezar taşları ise İslam öncesi dönemin arkeolojik bulgularıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Medreseler)<br><br>📌 <strong>İslam Öncesi ve İslami Dönem Ayrımı:</strong><br>• <strong>Medreseler:</strong> Türklerin İslamiyet'i kabulünden sonra (ilk olarak Karahanlılar döneminde - Semerkant Medresesi) ortaya çıkan yükseköğretim ve din eğitimi kurumlarıdır. Dolayısıyla İslamiyet öncesi Orta Asya Türk tarihinde medrese bulunmaz.<br><br>📌 <strong>İslam Öncesinde Karşılaşılan Arkeolojik Bulgular:</strong><br>• <strong>Yazılı Taşlar:</strong> Orhun (Göktürk), Yenisey, Bugut gibi anıt ve kitabeler.<br>• <strong>Madenî Paralar:</strong> Göktürk paraları ve Türgiş hükümdarı Baga Tarkan adına basılan paralar.<br>• <strong>Kurganlar ve Mezar Taşları:</strong> Oda biçimli ahşap mezarlar ve mezarların başına dikilen insan heykeli biçimindeki balbal taşları."
   },
   {
     "id": "tarih1-q3",
@@ -2328,7 +2329,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Göçebe (bozkır) yaşam tarzı Türklerin tüm hayatını şekillendirmiştir:\nI. Sanat: Taşınabilir çadır, maden, deri ve hayvan üslubu sanatı gelişmiştir.\nII. Askerlik: Sürekli hareket halinde olma ve korunma ihtiyacı ordu-millet anlayışını doğurmuştur.\nIII. Hukuk: Yerleşik hapis cezaları yerine kısa süreli hapis ve sözlü hukuk kuralları (töre) uygulanmıştır.\nDolayısıyla her üç alan da göçebe yaşamdan doğrudan etkilenmiştir (I, II ve III)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Göçebe (Konargöçer) Bozkır Yaşamının Etkileri:</strong><br>• <strong>I. Sanat:</strong> Taşınabilir malzemeler (deri, keçe, halı/kilim, maden işletmeciliği) gelişmiş, tapınak/saray gibi yerleşik anıtlar yerine çadır sanatı ve hayvan üslubu motifleri doğmuştur.<br>• <strong>II. Askerlik:</strong> Sürekli hareket halinde olma, zorlu doğa şartları ve korunma ihtiyacı ordu-millet anlayışını, süvari taktiklerini ve hafif zırhlı hareketli birlikleri doğurmuştur.<br>• <strong>III. Hukuk:</strong> Uzun süreli hapis cezaları uygulanamamış, cezalar genellikle kısa süreli (en fazla 10 gün) hapis veya doğrudan ölüm cezası olmuş; sözlü töre kuralları uygulanmıştır.<br><br>➡️ Bu nedenle her üç alan da göçebe yaşamdan doğrudan etkilenmiştir."
   },
   {
     "id": "tarih1-q4",
@@ -2365,7 +2366,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Sultan: İslamiyet'in kabulünden sonra Türk-İslam hükümdarları tarafından (ilk kez Gazneli Mahmut) kullanılan Arapça kökenli İslami bir unvandır.\nKağan, İdikut, İlteber, Hakan, Yabgu, Han, Şanyü ve Tanhu ise İslamiyet öncesi Türk hükümdarlık unvanlarıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sultan)<br><br>📌 <strong>Hükümdarlık Unvanları (İslam Öncesi vs İslami Dönem):</strong><br>• <strong>Sultan:</strong> İslamiyet'in kabulünden sonra Türk hükümdarları tarafından kullanılan Arapça kökenli İslami bir unvandır. Türk tarihinde sultan unvanını ilk kullanan hükümdar <strong>Gazneli Mahmut</strong>'tur.<br><br>📌 <strong>İslamiyet Öncesi Türk Hükümdarlık Unvanları:</strong><br>• Kağan, Han, Hakan, Yabgu, İdikut (özellikle Uygurlarda), İlteber, Erkin, Şanyü, Tanhu, İlteriş, Ay Tengri.<br>❌ <em>Padişah, Şah, Sultan, Halife, Hüdavendigar</em> gibi unvanlar ise İslamiyet sonrası veya Fars/Arap etkili unvanlardır."
   },
   {
     "id": "tarih1-q5",
@@ -2402,7 +2403,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Kam (Şaman / Baksı): İslamiyet öncesi Türklerde din adamıdır. Eski Türk devletlerinde teokratik yönetim anlayışı bulunmadığı için din adamlarının siyasi karar organı olan Kurultay'a katılma yetkisi yoktur.\nBoy beyleri, Hakan, Hatun ve ordu komutanları Kurultay'ın doğal üyeleridir (Toygun)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kam)<br><br>📌 <strong>Kurultay (Toy / Kengeş) Yapısı ve Laik Karakter:</strong><br>• <strong>Kam (Şaman / Baksı):</strong> İslamiyet öncesi Türklerde dini ayinleri yöneten din adamıdır. İlk Türk devletlerinde teokratik (dine dayalı) bir yönetim anlayışı olmadığı için din adamlarının siyasi karar organı olan Kurultay'a katılma ve devleti yönetme hakları kesinlikle yoktur.<br><br>📌 <strong>Kurultay Üyeleri (Toygun):</strong><br>• <strong>Kağan:</strong> Kurultayın başkanı.<br>• <strong>Hatun:</strong> Hakanın eşi (hükümdar vekili olarak elçi kabul eder, kurultayda oy kullanır).<br>• <strong>Boy Beyleri:</strong> Boyları temsilen mecliste yer alır.<br>• <strong>Aygucı (Vezir), Buyruklar (Bakanlar) ve Ordu Komutanları (Tarkanlar):</strong> Kurultayın doğal üyeleridir."
   },
   {
     "id": "tarih1-q6",
@@ -2439,7 +2440,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Ayukı: İslamiyet öncesi Türk devletlerinde 'Hükümet' (Bakanlar Kurulu) anlamına gelen terimdir. Hükümetin başında 'Aygucı' (Başbakan / Vezir) yer alır.\nBuyruk bakan, Tudun vergi memuru / vali, Bitikçi kâtip, Tamgacı ise mühürdardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ayukı)<br><br>📌 <strong>İslam Öncesi Devlet Teşkilatında Temel Kavramlar:</strong><br>• <strong>Ayukı:</strong> Hükümet (Bakanlar Kurulu). Hükümetin başında başbakan/vezir anlamına gelen <strong>Aygucı (Üge)</strong> yer alır.<br><br>Diğer Seçeneklerin Anlamları:<br>• <strong>Buyruk:</strong> Bakan / üye.<br>• <strong>Tudun:</strong> Vergi memuru veya idari vali.<br>• <strong>Bitikçi:</strong> Devlet yazışmalarını ve fermanları kaleme alan kâtip.<br>• <strong>Tamgacı:</strong> Kağanın mührünü basan mühürdar / dış ilişkiler görevlisi."
   },
   {
     "id": "tarih1-q7",
@@ -2476,7 +2477,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Göçebe yaşam tarzında mülkiyet devlete ve boylara ait olduğu için toprak ağalığı ve kölelik gibi sınıfsal farklılıklar oluşmamıştır (I). Sürekli yer değiştirme zorunluluğu askeri teşkilatın ve süvari birliklerinin güçlenmesini sağlamıştır (III). Mimari ise yerleşik hayat olmadığı için göçebe dönemde gelişmemiştir (II). Bu nedenle I ve III göçebe yaşamın sonucudur."
+    "explanation": "Doğru Cevap: <strong>E</strong> (I ve III)<br><br>📌 <strong>Göçebe Yaşamın Toplumsal ve Askeri Sonuçları:</strong><br>• <strong>I. Sınıfsal farkların olmaması:</strong> Toprak mülkiyeti şahıslara değil, devlete ve boylara aittir. Toprak ağalığı, asilzadeler ve kölelik gibi feodal tabakalar oluşmamıştır (Göçebe yaşamın sonucudur).<br>• <strong>III. Askerî teşkilatın güçlenmesi:</strong> Bozkırın açık ve tehlikeli coğrafyasında hayatta kalma zorunluluğu, disiplinli, hızlı süvari birliklerini ve ordu-millet bilincini doğurmuştur (Göçebe yaşamın sonucudur).<br><br>❌ <strong>II. Mimarinin gelişmesi:</strong> Sürekli çadırda yaşanması kalıcı taş mimarinin (saray, tapınak, sur) gelişimini engellemiştir; bu nedenle mimarinin gelişimi göçebe yaşamın sonucu değil, yerleşik hayatın sonucudur."
   },
   {
     "id": "tarih1-q8",
@@ -2513,7 +2514,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Tamu: İslamiyet öncesi Türk inancında 'Cehennem' anlamına gelir. Cennet anlamına gelen kavram ise 'Uçmağ'dır.\nÖrgin (Taht), Tudun (Vergi memuru / vali), Tamgacı (Mühürdar) ve Ağılığ (Hazine görevlisi) eşleştirmeleri ise doğrudur. Bu yüzden Tamu - Cennet eşleştirmesi yanlıştır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tamu – Cennet)<br><br>📌 <strong>Kavram Analizi ve Doğru Eşleştirmeler:</strong><br>• <strong>Tamu:</strong> İslamiyet öncesi Türk inancında <strong>Cehennem</strong> anlamına gelir.<br>• <strong>Uçmağ:</strong> İslamiyet öncesi Türk inancında <strong>Cennet</strong> anlamına gelir.<br><br>Diğer Doğru Eşleştirmeler:<br>• <strong>Örgin:</strong> Hükümdarlık tahtı.<br>• <strong>Tudun:</strong> Vergi tahsildarı / idari vali.<br>• <strong>Tamgacı:</strong> Mühürdar.<br>• <strong>Ağılığ (Ağılık):</strong> Hazine görevlisi / hazinedar."
   },
   {
     "id": "tarih1-q9",
@@ -2550,7 +2551,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Baksı (Kam / Şaman): Din adamı, halk hekimi veya ozandır; devletin idari ve bürokratik mekanizmasında yer almaz.\nBitikçi (kâtip), Ayukı (hükümet), Tudun (idari yönetici / vergi memuru) ve Hükümdar Türk bürokrasisinin temel unsurlarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Baksı)<br><br>📌 <strong>Türk Bürokrasisi ve Din Adamlarının Konumu:</strong><br>• <strong>Baksı (Kam / Şaman):</strong> Din adamı, halk ozanı veya büyücü-şifacıdır. Türk devlet geleneğinde din işleri ile devlet işleri birbirinden ayrı tutulmuş (laik karakter), din adamları bürokratik bir makam veya sınıf oluşturmamıştır.<br><br>📌 <strong>Bürokratik Unsurlar:</strong><br>• <strong>Hükümdar:</strong> Devletin başı ve en üst yönetici.<br>• <strong>Ayukı:</strong> Hükümet.<br>• <strong>Bitikçi:</strong> Resmi yazışmaları tutan başkâtip.<br>• <strong>Tudun:</strong> Maliye ve vergi işlerini yürüten bürokrat/vali."
   },
   {
     "id": "tarih1-q10",
@@ -2587,7 +2588,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Kurultay (Toy / Kengeş):\nI. Yasama: Töre kurallarını belirleme ve kanun koyma yetkisi vardır.\nII. Askerî: Savaş ve barış kararları alma, orduyu denetleme yetkisi vardır.\nIII. Siyasi: Kağanı seçme, devlet politikalarını tayin etme ve dış ilişkileri yönetme yetkisine sahiptir.\nDolayısıyla her üç alanda da (I, II ve III) en üst karar organıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Kurultayın Çok Yönlü Yetki Alanları:</strong><br>• <strong>I. Yasama:</strong> Töre kurallarını koyar, gerektiğinde töre hükümlerini değiştirir ve kanunlaştırır.<br>• <strong>II. Askerî:</strong> Savaş açma, barış antlaşması imzalama kararları alır; ordunun teftişini ve sefer hazırlıklarını denetler.<br>• <strong>III. Siyasi:</strong> Kağan seçiminde belirleyici rol oynar, yetersiz görülen kağanı tahttan indirebilir, devlet politikalarını tayin eder ve elçileri kabul eder.<br><br>➡️ Bu nedenle Kurultay yasama, askerî ve siyasi yetkileri bünyesinde toplayan en üst devlet organıdır."
   },
   {
     "id": "tarih1-q11",
@@ -2624,7 +2625,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Tıraz: İslamiyet'in kabulünden sonra Abbasi halifeleri ve İslam hükümdarları tarafından hükümdarlık alameti olarak giyilen yazılı / işlemeli İslami hilat ve kaftandır.\nNevbet (davul), Berge (kamçı), Sorguç (kotuz/tüy) ve Örgin (taht) ise İslamiyet öncesi Türk hükümdarlık sembolleridir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tıraz)<br><br>📌 <strong>Hükümdarlık Alametleri (İslam Öncesi vs İslami Dönem):</strong><br>• <strong>Tıraz:</strong> İslamiyet'in kabulünden sonra Abbasi halifeleri tarafından hükümdarlık onayı olarak Türk sultanlarına gönderilen, üzerinde ayet veya halifenin adının yazılı olduğu kıymetli ipek hilat/kaftandır (İslami sembol).<br><br>📌 <strong>İslamiyet Öncesi Hükümdarlık Sembolleri:</strong><br>• <strong>Nevbet:</strong> Hükümdarlık davulu.<br>• <strong>Berge:</strong> Kamçı.<br>• <strong>Sorguç (Kotuz):</strong> Hükümdar başlığına takılan at veya kurt tüyü.<br>• <strong>Örgin:</strong> Hükümdarlık tahtı.<br>• <strong>Otağ:</strong> Hakan çadırı.<br>• <strong>Tuğ:</strong> At kuyruğundan yapılan hükümdarlık sancağı."
   },
   {
     "id": "tarih1-q12",
@@ -2661,7 +2662,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "İslamiyet öncesi Türk devletleri:\nI. Monarşik: Devletin başında tek bir hükümdarın (Kağan) mutlak otoritesi bulunur.\nII. Teokratik değildir: Din kurallarına dayanmaz, din adamlarının yönetimde söz hakkı yoktur.\nIII. Federal: Doğu-Batı ikili teşkilatlanması ve boylar federasyonu esasına dayanır.\nDolayısıyla I ve III yönetim anlayışları görülür."
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve III)<br><br>📌 <strong>İslam Öncesi Türk Devlet Yönetimi Anlayışı:</strong><br>• <strong>I. Monarşik:</strong> Devletin başında kut sahibi tek bir hakanın (Kağan) mutlak siyasi otoritesi bulunur.<br>• <strong>III. Federal:</strong> Ülkenin doğu ve batı kanatlarına ayrılarak yönetilmesi (İkili Teşkilat) ve boyların iç işlerinde serbest federasyonlar şeklinde kağana bağlanması federal bir devlet yapılanmasıdır.<br><br>❌ <strong>II. Teokratik değildir:</strong> Hükümdar gücünü Tanrı'dan (Kut) alsa da dini lider (rahip-kral) değildir; devlet dini kurallarla değil, toplumsal akla ve geleneğe dayanan <strong>Töre</strong> ile yönetilirdi."
   },
   {
     "id": "tarih1-q13",
@@ -2698,7 +2699,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Göçebe yaşam koşulları sürekli çadırda yaşamayı gerektirdiği için kalıcı tapınaklar, saraylar, surlar ve taş yapılar inşa edilememiş; bu durum mimarinin gelişimini kısıtlamıştır. Göçebe yaşam mimarinin gelişimine olumlu değil, engelleyici bir etki yapmıştır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Mimari alanda gelişimin sağlanması)<br><br>📌 <strong>Göçebe Yaşamın Mimari Üzerindeki Etkisi:</strong><br>• Bozkır şartlarında sürekli hayvanlara otlak bulmak amacıyla mevsimsel olarak göç eden Türkler çadırlarda (yurt/otağ) yaşamışlardır. Bu durum kalıcı taş saraylar, tapınaklar, surlar ve evlerin inşa edilmesini <strong>engellemiştir</strong>.<br><br>💡 Türklerde kalıcı mimari ancak <strong>Uygurların</strong> Maniheizm dinini kabul edip yerleşik hayata geçmesiyle başlamıştır."
   },
   {
     "id": "tarih1-q14",
@@ -2735,7 +2736,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Bitikçi: İslamiyet öncesi Türk devletlerinde devletin iç ve dış tüm resmi yazışmalarını yürüten, fermanları yazan ve Kurultay'ın kâtibi olarak görev yapan bürokratik görevlidir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bitikçi)<br><br>📌 <strong>Devlet Görevlileri ve Görev Dağılımı:</strong><br>• <strong>Bitikçi:</strong> İslamiyet öncesi Türk devletlerinde iç ve dış tüm resmi yazışmaları yürüten, fermanları yazan ve Kurultay'ın kâtibi olarak görev yapan bürokratik görevlidir.<br><br>Diğer Görevliler:<br>• <strong>Tudun:</strong> Vergi memuru veya mali vali.<br>• <strong>Tamgacı:</strong> Kağanın mührünü taşıyan mühürdar / elçi.<br>• <strong>Ayukı:</strong> Hükümet (Bakanlar Kurulu).<br>• <strong>Ulak:</strong> Haberleşme ve posta görevlisi."
   },
   {
     "id": "tarih1-q15",
@@ -2772,7 +2773,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "İslamiyet öncesi Türklerde belirli bir dini kitlelere zorla yayma misyonu (cihat / tebliğ anlayışı) yoktur. Türk cihan hâkimiyeti ülküsü dini değil, siyasi bir dünya nizamı kurma ülküsüdür.\nMilleti doyurmak, giydirmek, orduyu yönetmek, töreyi uygulamak ve adaleti sağlamak kağanın asli görevleridir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Dini yaymak)<br><br>📌 <strong>Kağanın Görevleri ve Türk Cihan Hâkimiyeti:</strong><br>• İslamiyet öncesi Türklerde dini başkalarına zorla benimsetme veya dini yayma (cihat / tebliğ anlayışı) yoktur. Türklerdeki 'Cihan Hâkimiyeti' ülküsü dini değil, <strong>siyasi ve adil bir dünya nizamı</strong> kurma hedefidir.<br><br>📌 <strong>Kağanın Asli Görevleri (Orhun Yazıtları'ndan):</strong><br>• Aç milleti doyurmak, çıplak milleti giydirmek.<br>• Milleti barış, huzur ve refah içinde yaşatmak.<br>• Orduyu sevk ve idare etmek.<br>• Töre hükümlerini adaletle uygulamak ve birliği sağlamak."
   },
   {
     "id": "tarih1-q16",
@@ -2809,7 +2810,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Tuğ: İslamiyet öncesi Türk ordusunda bugünkü flama ve sancak yerine kullanılan, ucuna at kuyruğu veya kurt tüyü bağlanan hükümdarlık ve bağımsızlık sembolüdür."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tuğ)<br><br>📌 <strong>Askeri Sancak ve Hükümdarlık Sembolü: Tuğ:</strong><br>• <strong>Tuğ:</strong> İslamiyet öncesi Türk ordularında flama ve sancak vazifesi gören, ucuna at kuyruğu veya kurt tüyü bağlanan hükümdarlık ve askeri güç sembolüdür. Kağanın tuğ sayısı bağımsızlığın ve rütbenin en somut göstergesiydi.<br><br>Diğer Seçenekler:<br>• <strong>Sorguç (Kotuz):</strong> Hakanın başlığına takılan tüy.<br>• <strong>Örgin:</strong> Hükümdarlık tahtı.<br>• <strong>Otağ:</strong> Hakan çadırı.<br>• <strong>Ongun:</strong> Boyların kutsal saydığı koruyucu totem/hayvan."
   },
   {
     "id": "tarih1-q17",
@@ -2846,7 +2847,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Eski Türk Toplumsal Yapısı:\n- Oguş = Aile\n- Urug = Sülale (Aileler Birliği)\n- Boy (Bod) = Kabile\n- Budun = Millet (Halk)\n- İl (El) = Devlet\nBu sıralamaya göre 'Budun' kavramının karşılığı 'Millet'tir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Millet)<br><br>📌 <strong>Eski Türk Toplumsal Piramidi (Küçükten Büyüğe):</strong><br>1. <strong>Oguş:</strong> Aile (Toplumun en küçük yapı taşı)<br>2. <strong>Urug:</strong> Sülale (Aileler birliği)<br>3. <strong>Boy (Bod):</strong> Kabile (Boy beyinin yönettiği topluluk)<br>4. <strong>Budun:</strong> <strong>Millet / Halk</strong> (Boyların bir araya gelmesiyle oluşan topluluk)<br>5. <strong>İl (El):</strong> Devlet (Siyasi teşkilatın zirvesi)<br><br>➡️ Bu hiyerarşide 'Budun' kavramı doğrudan <strong>Millet</strong> anlamına gelir."
   },
   {
     "id": "tarih1-q18",
@@ -2883,7 +2884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Göçebe yaşam tarzında toprak mülkiyeti şahıslara değil devlete/boylara aitti. Toprak ağalığı, asiller ve köle emeği gibi feodal düzen unsurları ortaya çıkmadığı için toplumda sınıflaşma ve kast sistemi görülmemiştir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Göçebe yaşam)<br><br>📌 <strong>Sınıfsız Toplum Yapısının Temel Nedeni:</strong><br>• Orta Asya'da hâkim olan konargöçer yaşam tarzında toprak şahıslara ait olmayıp boyların ve devletin ortak mülkü (otlaklar) sayılmıştır.<br>• Toprak üzerinde özel mülkiyet gelişmediği için Avrupa ve Asya'daki gibi toprak sahibi soylular (feodal beyler), serfler veya köle sınıfı oluşmamıştır.<br>• Bu sayede Türk toplumu sınıfsız, eşitlikçi ve dayanışmacı bir sosyal dokuya sahip olmuştur."
   },
   {
     "id": "tarih1-q19",
@@ -2920,7 +2921,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Kut inancı gereği 'Ülke topraklarının hanedan üyelerinin ortak malı sayılması' anlayışı (geleneksel Türk veraset sistemi), hükümdar öldükten sonra tüm erkek hanedan üyelerinin tahtta hak iddia etmesine, iç savaşlara ve Türk devletlerinin kısa sürede bölünerek yıkılmasına neden olmuştur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Devletin kısa sürede yıkılmasını)<br><br>📌 <strong>Geleneksel Türk Veraset Sistemi ve Sonuçları:</strong><br>• Kut inancına göre yönetme yetkisi kan yoluyla geçtiği için 'Ülke toprakları hanedan üyelerinin ortak malı' kabul edilmiştir.<br>• Bu veraset anlayışında tahta kimin geçeceğine dair kesin bir kural (örneğin ekber-erşed veya primogenitür) bulunmadığı için hükümdar öldüğünde bütün erkek hanedan üyeleri (oğullar, kardeşler, amcalar) taht üzerinde eşit hak iddia etmiştir.<br>• Bu durum kanlı taht kavgalarına, ülkenin bölünmesine ve kurulan Türk devletlerinin kısa sürede yıkılmasına zemin hazırlamıştır."
   },
   {
     "id": "tarih2-q1",
@@ -2957,7 +2958,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Emir: İslamiyet'in kabulünden sonra Arapça kökenli ve İslami Türk-İslam devletlerinde kullanılan bir hükümdarlık unvanıdır.\nTanhu, Yabgu, Erkin, İlteriş, Şanyü, Kağan ve Hakan ise İslamiyet öncesi Türk hükümdarlarının kullandığı unvanlardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Emir)<br><br>📌 <strong>Hükümdarlık Unvanlarının Dönemsel Ayrımı:</strong><br>• <strong>Emir:</strong> İslamiyet'in kabulünden sonra Arapça kökenli ve Türk-İslam devletlerinde (Gazneliler, Karahanlılar, Tolunoğulları vb.) kullanılan bir hükümdarlık unvanıdır.<br><br>📌 <strong>İslamiyet Öncesi Türk Hükümdarlık Unvanları:</strong><br>• <strong>Tanhu & Şanyü:</strong> Asya Hun Devleti hükümdarları (özellikle Teoman ve Mete Han).<br>• <strong>Yabgu:</strong> Devletin batı kanadını yöneten hanedan üyesi hükümdar.<br>• <strong>Erkin:</strong> Bey, yönetici unvanı.<br>• <strong>İlteriş:</strong> II. Göktürk (Kutluk) Devleti kurucusu Kutluk Kağan'a verilen 'devleti derleyip toparlayan' anlamındaki unvan.<br>• Diğerleri: <em>Kağan, Hakan, Han, İdikut, İlteber, Kül-Erkin, Baga</em>."
   },
   {
     "id": "tarih2-q2",
@@ -2994,7 +2995,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "İkili Teşkilat: İslamiyet öncesi Türk devletlerinde geniş coğrafyaların yönetimini kolaylaştırmak için devletin Doğu (kutsal kabul edilen merkez, asıl Kağan) ve Batı (Yabgu unvanlı hanedan üyesi) olarak ikiye ayrılarak yönetilmesidir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İkili teşkilat)<br><br>📌 <strong>İkili Teşkilat Sistemi Nedir?</strong><br>• Orta Asya bozkırlarının geniş sınırlarını tek merkezden yönetmenin zorluğu nedeniyle devlet Doğu ve Batı olmak üzere ikiye ayrılarak idare edilmiştir.<br>• <strong>Doğu Kanadı:</strong> Güneşin doğduğu yön kutsal sayıldığı için merkezdir; asıl <strong>Kağan</strong> doğuda oturur.<br>• <strong>Batı Kanadı:</strong> Kağanın kardeşi veya oğlu olan <strong>Yabgu</strong> tarafından yönetilir. Yabgu iç işlerinde serbest, dış işlerinde kağana bağlıdır.<br><br>⚠️ <em>Sonuç:</em> Yönetimi kolaylaştırmış ancak kağan öldüğünde veya merkezi güç zayıfladığında taht kavgalarına ve bölünmelere yol açmıştır."
   },
   {
     "id": "tarih2-q3",
@@ -3031,7 +3032,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Kam: İslamiyet öncesi Türklerde din adamı (Şaman/Baksı) anlamına gelir. Eski Türk devletlerinde teokratik yönetim anlayışı bulunmadığından din adamlarının devlet yönetiminde resmi bir yetkisi yoktur.\nToy (meclis/kurultay), Şad (yönetici prens), Yabgu (batı kanadı yöneticisi) ve Tudun (vali/vergi memuru) ise doğrudan yönetim kavramlarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kam)<br><br>📌 <strong>Kavram Analizi: Din Adamı vs Yönetim Görevlileri:</strong><br>• <strong>Kam (Şaman / Baksı):</strong> Dini ayinleri idare eden, büyü ve kehanetle uğraşan din adamıdır. Eski Türk devletlerinde din adamlarının devlet idaresinde hiçbir resmi rolü yoktur.<br><br>📌 <strong>Yönetim İle İlgili Kavramlar:</strong><br>• <strong>Toy:</strong> Kurultay / Devlet meclisi.<br>• <strong>Şad:</strong> Hanedan mensubu vali, prens veya ordu komutanı.<br>• <strong>Yabgu:</strong> İkili teşkilatta batı kanadını yöneten hükümdar.<br>• <strong>Tudun:</strong> İdari vali ve vergi memuru."
   },
   {
     "id": "tarih2-q4",
@@ -3068,7 +3069,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "El Sanatları: Konargöçer yaşam tarzında çadır, deri işlemeciliği, dokumacılık, madencilik ve silah yapımı gibi taşınabilir el sanatları engellenmemiş, tam aksine çok ileri düzeyde gelişmiştir (Pazırık Kurganı'ndaki Türk halısı buna örnektir).\nMimari, fresk ve yerleşik tarım ise göçebe hayat nedeniyle gelişim gösterememiştir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (El sanatları)<br><br>📌 <strong>Konargöçer Yaşamda Taşınabilir Sanatın Zirvesi:</strong><br>• Göçebe yaşam taşınamaz nitelikteki mimariyi, tapınak resimlerini (fresk) ve yerleşik tarımı engellemiştir.<br>• Ancak taşınabilir nitelikteki <strong>el sanatları</strong> (çadır sanatı, halı-kilim dokumacılığı, maden işlemeciliği, deri ve ahşap oymacılığı) son derece yüksek bir seviyeye ulaşmıştır.<br>💡 <em>Örnek:</em> Pazırık Kurganı'ndan çıkarılan dünyanın en eski düğümlü halısı ve Esik Kurganı'ndaki 'Altın Elbiseli Adam' Türk el sanatlarının eşsiz örnekleridir."
   },
   {
     "id": "tarih2-q5",
@@ -3105,7 +3106,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "'Ülke hanedanın ortak malıdır' veraset anlayışı taht kavgalarına ve devletlerin kısa sürede yıkılmasına yol açmıştır. Ancak topraklar şahıslara değil devlete ve boylara ait olduğu için bu anlayış 'Özel mülkiyetin gelişmesine' yol açmamıştır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Özel mülkiyetin gelişmesine)<br><br>📌 <strong>Veraset Anlayışı ve Mülkiyet İlişkisi:</strong><br>• 'Ülke toprakları hanedanın ortak malıdır' kuralı taht kavgalarına, devletlerin zayıflayıp bölünmesine ve kısa ömürlü olmasına yol açmıştır.<br>• Ancak bu anlayış siyasi egemenlikle ilgilidir; toprak mülkiyeti ise şahıslara değil boylara ve devlete aittir. Dolayısıyla bu anlayış <strong>özel mülkiyetin gelişmesine yol açmamıştır</strong>."
   },
   {
     "id": "tarih2-q6",
@@ -3142,7 +3143,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Orun: İlk Türk devletlerinde Kurultayda (Toyda) boy beylerinin, hanedan mensuplarının ve komutanların devlet hiyerarşisindeki mevkilerine ve rütbelerine göre oturacakları yer ve oturma sırasını belirleyen töre kuralıdır.\nToygun ise kurultay üyelerine verilen genel addır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Orun)<br><br>📌 <strong>Devlet Protokolü ve Oturma Sırası: Orun:</strong><br>• <strong>Orun:</strong> Kurultayda boy beylerinin, hanedan üyelerinin ve komutanların devletteki itibar, rütbe ve mevki derecelerine göre oturacakları yer ve sırayı belirleyen töre kuralıdır.<br><br>Diğer Terimler:<br>• <strong>Toygun:</strong> Kurultay üyelerine verilen genel ad.<br>• <strong>Küç:</strong> Tanrı'nın kağana bağışladığı siyasi/fiziki güç.<br>• <strong>Ulus:</strong> Halk / millet topluluğu.<br>• <strong>Ülüş:</strong> Şölenlerdeki et payı ve iktisadi kısmet/paylaşım."
   },
   {
     "id": "tarih2-q7",
@@ -3179,7 +3180,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Teşkilatçılık Yeteneği: Türklerin tarih boyunca yıkılan bir devletin ardından çok kısa sürede yeni ve güçlü bir devlet kurabilmeleri, onların köklü devlet geleneğine, ordu-millet şuuruna ve yüksek örgütlenme (teşkilatlanma) kabiliyetine sahip olmaları ile açıklanır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Teşkilatçı yeteneklerinin gelişmiş olması)<br><br>📌 <strong>Türklerin Devlet Kurma Kabiliyeti:</strong><br>• Tarih boyunca kurulan bir Türk devleti yıkıldığında hemen ardılları tarafından yeni bir devletin kurulabilmesi Türklerin üstün <strong>teşkilatçılık (örgütlenme) yeteneği</strong>, güçlü ordu-millet şuuru ve köklü devlet geleneği ile açıklanır.<br>• Boylar federasyonu yapısı sayesinde boy beyleri dağılmadan yeni bir kağan etrafında hızla birleşebilmiştir."
   },
   {
     "id": "tarih2-q8",
@@ -3216,7 +3217,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Eski Türk Toplumsal Yapısı:\n- Oguş: Aile\n- Urug: Sülale (Aileler Birliği)\n- Boy (Bod): Kabile\n- Budun: Millet\n- İl (El): Devlet\nTayanç ise danışman/müşavir anlamına gelen idari bir unvandır; toplum basamağı değildir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tayanç)<br><br>📌 <strong>Sosyal Yapı Basamakları ve 'Tayanç' Farkı:</strong><br>• <strong>Oğuş:</strong> Aile<br>• <strong>Urug:</strong> Sülale (Aileler birliği)<br>• <strong>Boy (Bod):</strong> Kabile<br>• <strong>Budun:</strong> Millet<br>• <strong>İl:</strong> Devlet<br><br>❌ <strong>Tayanç:</strong> Hükümdara veya devlet adamlarına danışmanlık yapan müşavir/danışmandır; sosyal piramidin bir basamağı değil, idari bir unvandır."
   },
   {
     "id": "tarih2-q9",
@@ -3253,7 +3254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "İkili Teşkilat Sistemi: Genişleyen ülke sınırlarının yönetimini kolaylaştırmak için uygulanan idari ve federal bir yönetim modelidir.\nSavaşçılık, zor şartlara dayanıklılık, hız ve kadın-erkek herkesin savaş sanatını bilmesi (ordu-millet anlayışı) doğrudan konargöçer yaşamın sonucudur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Devletlerini ikili teşkilatla yönetmelerinde)<br><br>📌 <strong>İkili Teşkilatın Nedeni:</strong><br>• İkili teşkilat (Doğu-Batı yönetimi), Orta Asya'da sınırların çok genişlemesi ve iletişim imkânlarının kısıtlı olması sebebiyle devlet idaresini pratikleştirmek için benimsenmiş <strong>idari ve siyasi</strong> bir modeldir.<br>• Savaşçılık, hızlı ve disiplinli manevra kabiliyeti, zor doğa koşullarına dayanıklılık ve kadın-erkek herkesin binicilik/savaşçılık bilmesi ise doğrudan <strong>konargöçer bozkır kültürünün</strong> sonucudur."
   },
   {
     "id": "tarih2-q10",
@@ -3290,7 +3291,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Kurultaya Katılım: Kurultaya halkın tamamı katılamaz; sadece Kağan, Hatun, hanedan üyeleri, boy beyleri ve ordu komutanları (Toygunlar) katılabilir. Herkesin kurultaya katılma hakkının olduğu iddiası yanlıştır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Herkesin kurultaya katılma hakkının olması)<br><br>📌 <strong>Kurultayın Üyelik Şartları:</strong><br>• İlk Türk devletlerinde halkın tamamının kurultaya katılma hakkı yoktur. Kurultaya sadece 'Toygun' adı verilen Kağan, Hatun, boy beyleri, hanedan üyeleri, aygucı, buyruklar ve ordu komutanları katılabilirdi.<br><br>Doğru Yönetim Özellikleri:<br>• Ülke ikili teşkilatla yönetilirdi.<br>• Kağan dâhil herkes töre hükümlerine uymak zorundaydı.<br>• Hatun elçi kabullerinde ve kurultayda yer alırdı.<br>• Yönetme yetkisinin Tanrı'dan (Kut) geldiğine inanılırdı."
   },
   {
     "id": "tarih2-q11",
@@ -3327,7 +3328,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Merkezî Otoritenin Zayıflaması: Ülke topraklarının şehzadeler ve hanedan üyeleri arasında paylaştırılarak federal biçimde yönetilmesi, prenslerin kendi bölgelerinde bağımsız güç haline gelmesine ve merkezi otoritenin hızla zayıflamasına neden olmuştur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Merkezî otoritenin zayıflamasına)<br><br>📌 <strong>Federal Yönetim ve Şehzade Paylaşımının Sonucu:</strong><br>• Ülke topraklarının prensler ve hanedan üyeleri arasında bölüşülerek yönetilmesi, prenslerin kendi bölgelerinde asker toplamasına ve bağımsız güç odakları oluşturmasına yol açmıştır.<br>• Bu durum doğrudan <strong>merkezî otoritenin zayıflamasına</strong>, prensler arası çatışmalara ve devletin ikiye bölünmesine neden olmuştur."
   },
   {
     "id": "tarih2-q12",
@@ -3364,7 +3365,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "İl (El / Devlet): Sosyal yapının en üst kademesinde yer alan; vatan toprağı, bağımsız halk (oksızlık) ve töre unsurlarının birleşmesiyle oluşan en üst siyasi teşkilatlanmaya 'İl' (Devlet) denir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (İl / Devlet)<br><br>📌 <strong>Toplumsal ve Siyasi Teşkilatın Zirvesi: İl (El):</strong><br>• Eski Türkçede <strong>İl (veya El)</strong> kavramı doğrudan <strong>Devlet</strong> anlamına gelir.<br>• Bir ilin kurulabilmesi için 4 temel unsur gereklidir:<br>  1. <strong>Oksızlık (Bağımsızlık)</strong><br>  2. <strong>Ülke (Vatan toprağı)</strong><br>  3. <strong>Budun (Halk / Millet)</strong><br>  4. <strong>Töre (Kanun / Hukuk)</strong>"
   },
   {
     "id": "tarih2-q13",
@@ -3401,7 +3402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Kut Anlayışı: İlk Türk devletlerinde devleti ve dünyayı yönetme yetkisinin (siyasi egemenliğin) hükümdara bizzat Gök Tanrı tarafından bağışlandığına inanılan ilahi kaynaklı egemenlik anlayışıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kut)<br><br>📌 <strong>Kut İnancı ve İlahi Egemenlik:</strong><br>• <strong>Kut:</strong> Devleti ve dünyayı yönetme yetkisinin Gök Tanrı tarafından kağana ve onun hanedanına verildiğine inanılan egemenlik anlayışıdır.<br>• Kut anlayışına göre kağan tanrılaştırılmaz (yarı tanrı kral değildir); yalnızca Tanrı'nın yeryüzündeki adaletini sağlamakla görevli kutlu bir yöneticidir.<br>• Kan yoluyla tüm erkek hanedan üyelerine geçtiğine inanıldığı için aynı zamanda taht kavgalarının ana nedenidir."
   },
   {
     "id": "tarih2-q14",
@@ -3438,7 +3439,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Ahiret İnancı: Ölümden sonra yaşama inanılması doğrudan dini ve inançsal bir olgudur; coğrafi veya bozkır-göçebe yaşam tarzının doğurduğu zorunlu bir özellik değildir.\nGöçebelik, çadır sanatı, özel mülkiyetsizlik ve savaşçılık ise doğrudan bozkır kültürünün sonucudur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV - Ölümden sonra ikinci hayatın varlığına inanılması)<br><br>📌 <strong>Bozkır Kültürü vs İnanç Sistemi:</strong><br>• Göçebe yaşam, özel mülkiyetsizlik, çadır sanatı ve savaşçı karakter doğrudan Orta Asya'nın sert iklim ve bozkır coğrafyasının doğurduğu yaşam zorunluluklarıdır.<br>• <strong>Ahiret inancı (ölümden sonra dirilme):</strong> Coğrafi veya ekonomik şartların değil, doğrudan manevi ve metafizik inanç sisteminin (Gök Tanrı inancının) bir unsurudur."
   },
   {
     "id": "tarih2-q15",
@@ -3475,7 +3476,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Veraset Anlayışı: İslamiyet öncesi Türk devletlerinin kısa sürede yıkılmasındaki en belirleyici iç etken; 'ülkenin hanedan üyelerinin ortak malı olması' kuralı nedeniyle yaşanan taht kavgaları ve devletin bölünmesidir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Veraset anlayışına göre devletin hanedan üyeleri arasında bölüşülmesi)<br><br>📌 <strong>Yıkılıştaki En Belirleyici İç Etken:</strong><br>• Orta Asya Türk devletlerinin yıkılmasındaki en yıkıcı iç dinamik, geleneksel Türk veraset sistemidir.<br>• Ülkenin hanedanın ortak malı sayılması yüzünden her taht değişiminde amansız iç savaşlar çıkmış, devlet önce Doğu-Batı olarak ikiye bölünmüş ve dış güçlerin (özellikle Çin'in) müdahalesiyle yıkılmıştır."
   },
   {
     "id": "tarih2-q16",
@@ -3512,7 +3513,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Sınıf Ayrımının Olmaması: Eski Türklerde toprak devlete ait olduğu için toprak ağalığı, asillik ve kölelik gibi sınıfsal ayrıcalıklar kesinlikle bulunmaz. Sosyal yaşamda sınıfsal ayrıcalık olduğu iddiası yanlıştır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sosyal yaşayışta sınıf ayrıcalığına yer verilmesi)<br><br>📌 <strong>Türk Toplumunda Sınıf Ayrıcalığının Bulunmaması:</strong><br>• İslamiyet öncesi Türk devletlerinde aristokrat/soylu sınıfı, ruhban (din adamı) imtiyazları ve kölelik kurumu bulunmazdı.<br>• Hukuk önünde herkes töreye bağlıydı; kağan bile törenin üstünde değildi.<br>• Bu nedenle 'sosyal yaşayışta sınıf ayrıcalığına yer verilmesi' Türk toplumunun bir özelliği olamaz."
   },
   {
     "id": "tarih2-q17",
@@ -3549,7 +3550,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Uygurlar: Yerleşik hayata geçen ilk Türk devleti olarak matbaayı ve kütüphaneleri kullanmış, ilk kez okullar açarak örgün eğitime geçmiş ve 'Çocuğunu öğretmene ver, ondan alıp saraya ver' sözüyle eğitime verdikleri önemi kanıtlamışlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Uygurlar)<br><br>📌 <strong>Uygurlar ve Kültürel Atılımlar:</strong><br>• Bögü Kağan döneminde <strong>Maniheizm</strong> dinini kabul ederek yerleşik hayata geçen ilk Türk devleti Uygurlardır.<br>• Yerleşik yaşamla birlikte saraylar, tapınaklar inşa etmiş, 18 harfli Uygur alfabesini kullanmış, matbaa ve hareketli harf sistemini geliştirmişlerdir.<br>• 23 okul açarak örgün eğitimi başlatmış, 'Çocuğunu öğretmene ver, ondan alıp saraya ver' sözüyle öğretmenlik mesleğine ve eğitime verdikleri yüksek değeri göstermişlerdir."
   },
   {
     "id": "tarih2-q18",
@@ -3586,7 +3587,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Farklı İnançlar: Eski Türk devletleri inanç konusunda geniş bir hoşgörüye sahiptir ve devletlerin bölünmesi dini farklılıklardan kaynaklanmamıştır.\nİkili sistem, boylar federasyonu, veraset anlayışı ve Çin entrikaları bölünmenin temel sebepleridir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Farklı inançlara sahip olmaları)<br><br>📌 <strong>Dini Hoşgörü ve Bölünme Sebepleri:</strong><br>• Eski Türk devletlerinde din konusunda büyük bir vicdan özgürlüğü ve hoşgörü mevcuttu. Türk devletleri dini farklılıklar yüzünden bölünmemiştir.<br><br>📌 <strong>Bölünmenin Asıl Sebepleri:</strong><br>• İkili teşkilat sistemi (Doğu-Batı ayrılığı)<br>• Veraset anlayışı ve taht kavgaları<br>• Boylar arasındaki çıkar çatışmaları ve boy isyanları<br>• Çin'in prensleri ve boyları birbirine düşüren entrikaları ve ipek politikası."
   },
   {
     "id": "tarih2-q19",
@@ -3623,7 +3624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "'Ülke hanedanın ortak malıdır' anlayışı taht kavgalarına (I) ve devletlerin kısa sürede bölünerek yıkılmasına (II) yol açmıştır. Merkezi otoriteyi güçlendirmez, zayıflatır (III yanlış). Bu nedenle I ve II doğrudur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>📌 <strong>'Ülke Hanedanın Ortak Malıdır' Kuralının Sonuçları:</strong><br>• <strong>I. Taht kavgalarının yaşanması:</strong> Tüm şehzadelerin taht hakkı olduğu için hükümdar vefat edince çatışmalar kaçınılmaz olmuştur (Doğru).<br>• <strong>II. Kısa sürede yıkılması:</strong> Taht kavgaları devleti zayıflatmış, parçalanmaya götürmüştür (Doğru).<br>• <strong>III. Merkezî otoritenin güçlü olması:</strong> Yanlıştır; aksine merkezi otorite parçalanmış ve zayıflamıştır.<br><br>➡️ Bu nedenle I ve II numaralı sonuçlar ortaya çıkmıştır."
   },
   {
     "id": "tarih2-q20",
@@ -3660,7 +3661,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Orun: Kurultaydaki resmi protokol ve oturma sırasıdır; hükümdarlık bağımsızlık sembolü değildir.\nOtağ (hakan çadırı), Ordu, Nevbet (davul), Berge (kamçı), Tuğ ve Taht (örgin) ise ilk Türk devletlerindeki hükümdarlık sembolleridir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Orun)<br><br>📌 <strong>Hükümdarlık Sembolü vs Protokol Kuralı:</strong><br>• <strong>Orun:</strong> Kurultaydaki hiyerarşik oturma yeri ve protokol sırasıdır; bir egemenlik/bağımsızlık sembolü değildir.<br><br>📌 <strong>İlk Türk Devletlerinde Hükümdarlık Sembolleri:</strong><br>• <strong>Otağ:</strong> Hakan çadırı.<br>• <strong>Ordu:</strong> Hükümdarın askeri gücü.<br>• <strong>Nevbet:</strong> Hükümdarlık davulu.<br>• <strong>Berge:</strong> Hükümdarlık kamçısı.<br>• <strong>Örgin:</strong> Hükümdarlık tahtı.<br>• <strong>Tuğ:</strong> At kuyruklu hükümdarlık sancağı.<br>• <strong>Kemer (Kur) & Kotuz (Sorguç) & Yay</strong>."
   },
   {
     "id": "ekys2026-q1",
@@ -46672,7 +46673,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>İslamiyet öncesi Türklerde <strong>Ög = Anne</strong>, <strong>Kang = Baba/Ata</strong> demektir. Diğer kavramlar: Çav (kâğıt para - Uygurlar), Kün (halk/millet), Kalıng (başlık parası/çeyiz), Otacı/Emçi (hekim/doktor) doğru eşleştirilmiştir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ög - Baba)<br><br>📌 <strong>İslamiyet Öncesi Aile ve Toplum Kavramları:</strong><br>• <strong>Ög:</strong> İslamiyet öncesi Türklerde <strong>Anne</strong> demektir (Bugün kullandığımız 'öksüz' kelimesi annesiz anlamına gelir).<br>• <strong>Kang:</strong> İslam öncesi Türklerde <strong>Baba / Ata</strong> demektir.<br><br>Doğru Eşleştirmelerin Açıklaması:<br>• <strong>Çav:</strong> Uygurlar döneminde kullanılan ilk kâğıt para.<br>• <strong>Kün:</strong> Halk / halk kitleleri.<br>• <strong>Kalıng:</strong> Evlilikte erkeğin kız tarafına verdiği başlık parası / çeyiz teminatı.<br>• <strong>Otacı (Emçi):</strong> Şifalı bitkilerle tedavi yapan hekim/doktor."
   },
   {
     "id": "tarih3-q2",
@@ -46709,7 +46710,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Orta Asya Türkleri maden işlemeciliğinde (özellikle demircilik, kılıç/silah yapımı ve 'Bozkırın Kuyumcuları' olarak altın işlemeciliğinde) ve hayvancılığa dayalı yün dokumacılığında (Pazırık Kurganı halısı gibi) son derece ileri düzeydeydi. Dolayısıyla I, II ve III temel uğraşlardandır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I, II ve III)<br><br>📌 <strong>İslam Öncesi Türklerin Temel Maddi Uğraşları:</strong><br>• <strong>I. Silah Yapımı:</strong> Demircilikte çok usta olan Türkler, sağlam kılıçlar, zırhlar, kalkanlar ve ok uçları dökmüşlerdir.<br>• <strong>II. Altın İşlemeciliği:</strong> Maden sanatındaki üstünlükleri nedeniyle tarihte <em>'Bozkırın Kuyumcuları'</em> olarak anılmışlardır (Esik Kurganı Altın Elbiseli Adam zırhı).<br>• <strong>III. Dokumacılık:</strong> Hayvancılığa bağlı olarak koyun yünü ve deve tüyünden keçe, kilim ve halı dokumuşlardır (Pazırık Kurganı'ndaki dünyanın ilk düğümlü halısı).<br><br>➡️ Bu nedenle her üç uğraş da (I, II ve III) Türklerin temel sanat ve zanaatları arasındadır."
   },
   {
     "id": "tarih3-q3",
@@ -46746,7 +46747,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>İslam öncesi Türk devletlerinde idari yapı doğu-batı şeklinde <strong>ikili teşkilat</strong> ve boylar birliğine dayanır. Ülkenin vilayet/eyalet sistemine ve beylerbeyliklerine ayrılması ise Osmanlı ve klasik İslam devletlerinin idari teşkilatına aittir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ülkenin eyaletlere ayrılması)<br><br>📌 <strong>İslam Öncesi vs İslami Dönem İdari Yapısı:</strong><br>• <strong>Eyalet Sistemi:</strong> Ülkenin eyaletlere, vilayetlere ve beylerbeyliklere ayrılması Türk-İslam devletlerinde (Büyük Selçuklu, Anadolu Selçuklu, Osmanlı) uygulanan klasik İslami idari sistemdir; İslamiyet öncesinde görülmez.<br><br>📌 <strong>İslam Öncesi Türk Kültür Unsurları:</strong><br>• <strong>Kurultay:</strong> En üst karar ve danışma meclisi.<br>• <strong>Boylar Federasyonu:</strong> Boy beylerinin bir araya gelmesiyle oluşan federatif yapı.<br>• <strong>Göçebe Yaşam Tarzı:</strong> Yaylak-kışlak bozkır hayatı.<br>• <strong>Ahiret İnancı:</strong> Kurganlara eşya konması, Uçmağ ve Tamu inancı."
   },
   {
     "id": "tarih3-q4",
@@ -46783,7 +46784,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br><strong>Yelme:</strong> İlk Türk ordularında ana ordudan önce gidip istihbarat toplayan ve keşif yapan öncü birliklere verilen addır. Böri (muhafız), Şad (hanedan üyesi vali/komutan), Tüdün (vergi memuru/vali), Tarıkçı (çiftçi/tarımcı) anlamına gelir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yelme)<br><br>📌 <strong>Ordu Keşif Birlikleri: Yelme:</strong><br>• <strong>Yelme:</strong> İlk Türk ordularında ana ordunun önünde giderek düşmanın konumu, pusu ihtimalleri ve yol durumu hakkında istihbarat toplayan öncü keşif birliklerine verilen addır.<br><br>Diğer Terimlerin Anlamları:<br>• <strong>Böri:</strong> Hakanı koruyan seçkin muhafız birliği (kurt askerler).<br>• <strong>Şad:</strong> Hanedan mensubu vali veya tümen komutanı.<br>• <strong>Tarıkçı:</strong> Çiftçi / tarımla uğraşan kimse.<br>• <strong>Tüdün (Tudun):</strong> Vergi memuru veya mali vali."
   },
   {
     "id": "tarih3-q5",
@@ -46820,7 +46821,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Eski Türklerde <strong>ordu-millet</strong> anlayışı esastır; her birey aynı zamanda askerdir ve askerlik bir vatan görevidir. Ordularda ücretli askerlik (ticaret devleti olan Hazarlar istisnası dışında) yer almaz."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ordu ücretli atlı birliklerden oluşur)<br><br>📌 <strong>Ordu-Millet Anlayışı ve Ücretli Askerlik Yokluğu:</strong><br>• İslamiyet öncesi Türk devletlerinde <strong>Ordu-Millet</strong> anlayışı hâkimdir; askerlik profesyonel veya maaşlı bir meslek değil, kadın-erkek her Türk'ün doğal vatan görevidir.<br>• Bu nedenle Türk ordularında ücretli askerlik kesinlikle bulunmazdı.<br><br>💡 <strong>Önemli İstisna:</strong> İslam öncesi Türk devletleri içerisinde ticarete dayalı bir imparatorluk kuran ve ordusunda ücretli asker bulunduran tek devlet <strong>Hazarlar</strong>dır."
   },
   {
     "id": "tarih3-q6",
@@ -46857,7 +46858,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Saray, tapınak, manastır, ev ve sur gibi kalıcı <strong>mimari eserler</strong> toplumun yerleşik hayata geçtiğinin tartışmasız ve kesin kanıtıdır. Taşınabilir sanat ürünleri (dokuma, maden, at koşumları) göçebe kültürde de mevcuttur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mimari)<br><br>📌 <strong>Yerleşik Hayatın Kesin Kanıtı: Kalıcı Mimari:</strong><br>• Taşınabilir eşyalar (madeni kılıçlar, dokuma halılar, at koşumları, ahşap eşyalar) göçebe topluluklar tarafından kolayca taşınabilir ve üretilebilir.<br>• Ancak <strong>kalıcı mimari eserler</strong> (saraylar, tapınaklar, manastırlar, surlar, evler ve sulama kanalları) insanların belirli bir toprağa kalıcı olarak bağlandığını ve kesinlikle yerleşik hayata geçtiğini kanıtlar.<br><br>💡 Türk tarihinde ilk kalıcı mimari eserler <strong>Uygurlar</strong> döneminde verilmiştir."
   },
   {
     "id": "tarih3-q7",
@@ -46894,7 +46895,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><strong>Örgin:</strong> Hükümdarlık tahtı ve egemenlik sembolüdür (siyasi/idari kavram). Tamu (cehennem), Tengri (Tanrı), Yuğ (cenaze töreni), Eşik (ölü örtüsü/kefen) ise din ve inanışla ilgilidir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Örgin)<br><br>📌 <strong>Kavram Analizi: Siyasi Sembol vs Dini İnanış:</strong><br>• <strong>Örgin:</strong> Hükümdarlık tahtıdır; siyasi egemenliğin ve devlet otoritesinin sembolüdür (din ve inanışla ilgisi yoktur).<br><br>📌 <strong>Din ve İnanışla İlgili Terimler:</strong><br>• <strong>Tamu:</strong> Cehennem.<br>• <strong>Tengri:</strong> Gök Tanrı.<br>• <strong>Yuğ:</strong> Cenaze töreni.<br>• <strong>Eşik / Esük:</strong> Ölünün sarıldığı kefen / cenaze örtüsü.<br>• <strong>Uçmağ:</strong> Cennet.<br>• <strong>Balbal:</strong> Mezar taşı."
   },
   {
     "id": "tarih3-q8",
@@ -46931,7 +46932,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br>İlk Türk devletlerinde <strong>teokratik</strong> bir devlet yapısı yoktur. Kağan siyasi, askeri ve idari liderdir ancak dini lider (rahip-kral) değildir. Din işlerini kam/baksılar yürütür."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Hükümdarlar aynı zamanda dini liderlerdir)<br><br>📌 <strong>Eski Türklerde Teokrasinin Olmayışı:</strong><br>• İlk Türk devletlerinde teokratik yönetim (rahip-kral veya din devleti anlayışı) kesinlikle yoktur. Kağan devleti yönetme yetkisini Gök Tanrı'dan alsa da dini bir lider değildir; siyasi, hukuki ve askeri liderdir.<br>• Dini ayinleri ve ritüelleri Kam/Baksı/Şaman denilen din adamları yönetirdi.<br><br>📌 <strong>Orhun Yazıtları'ndan Çıkarılan Diğer Bilgiler:</strong><br>• Hükümdar halkı doyurmak ve giydirmekle sorumludur (Sosyal devlet).<br>• Devlet ve halk karşılıklı sorumluluk taşır (Tüz).<br>• Kağan dâhil herkes töre kurallarına uymak zorundadır.<br>• Hatunlar (Katun) devlet yönetiminde ve elçi kabullerinde söz sahibidir."
   },
   {
     "id": "tarih3-q9",
@@ -46968,7 +46969,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Türk boyları göç ettikleri yerlerde farklı dinleri (İslamiyet, Musevilik, Hristiyanlık, Budizm), farklı ekonomik modelleri ve sanat anlayışlarını benimsemiş olsalar da <strong>askeri teşkilatlanma</strong> (onlu sistem, ordu-millet, savaş taktikleri) özelliklerini en uzun süre korumuş ve diğer milletleri bu alanda etkilemişlerdir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Askerlik)<br><br>📌 <strong>Türklerin Kültürel Değişimi ve Askeri Kimliği:</strong><br>• Türk toplulukları dünyanın farklı bölgelerine (Avrupa, Ön Asya, Çin, Hindistan, Kafkaslar) göç ettiklerinde zamanla farklı dinleri benimsemiş (İslam, Hristiyanlık, Musevilik, Budizm), farklı ekonomik ve sanatsal yapılara bürünmüşlerdir.<br>• Ancak <strong>askeri teşkilatlanma</strong> özelliklerini (onlu teşkilat, ordu-millet bilinci, süvari manevraları, hilal/turan taktiği, at ve kılıç ustalığı) en uzun süre muhafaza etmiş ve diğer dünya milletlerine bu alanda öncülük etmişlerdir."
   },
   {
     "id": "tarih3-q10",
@@ -47005,7 +47006,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br><strong>Böri (Kurt):</strong> Kök Türklerde hakanın şahsını korumakla görevli seçkin muhafız birliğine verilen unvandır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Böri)<br><br>📌 <strong>Hakan Muhafız Birlikleri: Böri:</strong><br>• <strong>Böri (Kurt):</strong> Kök Türk Devleti'nde hakanın şahsını, ailesini ve sarayı korumakla görevli, zırhlı ve son derece seçkin muhafız birliğidir. Kurt başlı sancaklar taşırlar ve bozkırın en cesur savaşçılarından seçilirlerdi.<br><br>Diğer Seçenekler:<br>• <strong>Şad:</strong> Hanedan üyesi yönetici veya komutan.<br>• <strong>Tarkan:</strong> Seçkin komutan / subay.<br>• <strong>Yelme:</strong> Öncü keşif kolu.<br>• <strong>Sübaşı:</strong> Ordu başkomutanı."
   },
   {
     "id": "tarih3-q11",
@@ -47042,7 +47043,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>İslam öncesi Türklerde kadın ve çocukları koruyan bereket tanrıçası/ruhu <strong>Umay</strong>'dır. Esük ise ölünün üzerine örtülen örtü/kefendir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Esük → Kadın tanrıça)<br><br>📌 <strong>Eski Türk İnanışında Kavramlar ve 'Umay' Farkı:</strong><br>• <strong>Esük (Eşik):</strong> Ölünün üzerine örtülen kefen veya mezar örtüsüdür.<br>• İslamiyet öncesi Türk inancında kadınları, çocukları, lohusaları ve bereketi koruduğuna inanılan kutsal dişi koruyucu ruh / tanrıça <strong>Umay</strong>'dır.<br><br>Doğru Eşleştirmeler:<br>• <strong>Yuğ:</strong> Cenaze töreni.<br>• <strong>Sagu:</strong> Yuğ töreninde ölen kişinin kahramanlıklarını anlatan ağıt.<br>• <strong>Balbal:</strong> Ölen savaşçının öldürdüğü düşman sayısı kadar mezarı başına dikilen heykelcik mezar taşı.<br>• <strong>Kurgan:</strong> Oda biçimindeki yığma mezar."
   },
   {
     "id": "tarih3-q12",
@@ -47079,7 +47080,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br>Eski Türklerde bitkisel ilaçlarla (otlarla) tedavi yapan hekimlere <strong>Otacı</strong> (veya <strong>Emçi</strong>) adı verilirdi."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Otacı)<br><br>📌 <strong>Eski Türk Tıbbı ve Şifacılar:</strong><br>• <strong>Otacı (veya Emçi):</strong> Doğadaki şifalı otlardan ilaçlar hazırlayan, kırık-çıkıkları tedavi eden ve halkın sağlığından sorumlu olan geleneksel Türk hekimleridir.<br><br>Diğer Terimler:<br>• <strong>Baksı:</strong> Din adamı, ozan ve büyücü.<br>• <strong>Umay:</strong> Koruyucu ana ruhu.<br>• <strong>Tarıkçı:</strong> Çiftçi / tarım üreticisi."
   },
   {
     "id": "tarih3-q13",
@@ -47116,7 +47117,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><strong>Kurgan:</strong> Ahiret inancının gereği olarak ölen kişinin şahsi eşyaları, silahları ve atıyla birlikte gömüldüğü tümülüs/oda şeklindeki mezarlardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kurgan)<br><br>📌 <strong>Kurgan Mezarlar ve Ahiret İnancı:</strong><br>• <strong>Kurgan:</strong> İslamiyet öncesi Türklerde ölen kişilerin şahsi eşyaları, silahları, ziynetleri ve hatta en sevdiği atıyla birlikte gömüldüğü ahşap oda biçimindeki yığma toprak mezarlardır.<br>• Ölen kişinin eşyalarıyla gömülmesi, Türklerde <strong>ölümden sonra yaşamın (Ahiret / ikinci hayat)</strong> varlığına inanıldığının en kesin arkeolojik kanıtıdır.<br><br>❌ Kurultay ve Toy meclistir; Şad ise unvandır."
   },
   {
     "id": "tarih3-q14",
@@ -47153,7 +47154,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br>Kutadgu Bilig'e göre törenin 4 değişmez ilkesi:<br>• <strong>Könilik:</strong> Adalet<br>• <strong>Tüzlük:</strong> Eşitlik<br>• <strong>Uzluk:</strong> İyilik / Yararlılık<br>• <strong>Kişilik:</strong> İnsanlık"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tüzlük)<br><br>📌 <strong>Kutadgu Bilig'e Göre Törenin 4 Değişmez Temel İlkesi:</strong><br>Yusuf Has Hacip'in ünlü eseri Kutadgu Bilig'de devletin ve törenin asla değiştirilemez 4 ana esası belirtilmiştir:<br>• 1. <strong>Könilik:</strong> Adalet<br>• 2. <strong>Tüzlük:</strong> <strong>Eşitlik</strong> (Herkesin hukuk ve yasa önünde eşit olması)<br>• 3. <strong>Uzluk:</strong> İyilik / Yararlılık (Halka faydalı icraatlar yapmak)<br>• 4. <strong>Kişilik (İnsaniyet):</strong> İnsanlık / Merhamet<br><br>💡 <strong>Yargan</strong> ise töre mahkemelerinde davalara bakan yargıç anlamına gelir."
   },
   {
     "id": "tarih3-q15",
@@ -47190,7 +47191,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br>Eski Türklerde en temel inanç <strong>Gök Tanrı</strong> inancıdır. Bunun yanında dağ, su, ağaç gibi doğa güçlerine saygıyı içeren <strong>Tabiat Kuvvetleri (Yer-Sub)</strong> ve vefat eden büyüklere/atalara saygıyı içeren <strong>Atalar Kültü</strong> yaygın inanışlardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>İslam Öncesi Türklerin İnanış Sistemleri:</strong><br>• <strong>I. Tabiat Kuvvetleri (Yer-Sub Kültü):</strong> Dağlar, pınarlar, nehirler, ulu ağaçlar, gök gürültüsü ve güneş gibi doğa varlıklarında kutsal güçler (İdi / İye) bulunduğuna inanılırdı.<br>• <strong>II. Atalar Kültü:</strong> Vefat eden aile büyüklerinin ve ataların ruhlarının geride kalanları koruduğuna inanılır, onların mezarlarına ve hatıralarına büyük saygı gösterilirdi.<br>• <strong>III. Gök Tanrı (Tengri) İnancı:</strong> En temel ve merkezî inançtır; göklerde olduğuna ve tüm evreni yarattığına inanılan tek ve yüce yaratıcı inancıdır.<br><br>➡️ Bu üç inanç da eski Türk dini hayatının ayrılmaz parçalarıdır."
   },
   {
     "id": "tarih3-q16",
@@ -47227,7 +47228,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br><strong>Baksı (Kam/Şaman):</strong> Dini ayinleri yöneten, büyü ve tedavi işleriyle uğraşan din adamıdır. Tarkan, Şad, Böri ve Yelme ise askeri ve ordu teşkilatına ait terimlerdir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Baksı)<br><br>📌 <strong>Kavram Analizi: Din Adamı vs Askeri Teşkilat:</strong><br>• <strong>Baksı:</strong> İslamiyet öncesi Türklerde dini törenleri yöneten, kopuz eşliğinde şiirler okuyan din adamı, ozan ve halk hekimidir (Askeri bir makam değildir).<br><br>📌 <strong>Askeri Kavramlar:</strong><br>• <strong>Tarkan:</strong> Seçkin komutan / general.<br>• <strong>Şad:</strong> Hanedan üyesi tümen komutanı / ordu yöneticisi.<br>• <strong>Böri:</strong> Hakanı koruyan seçkin muhafız birliği.<br>• <strong>Yelme:</strong> Öncü keşif kolu."
   },
   {
     "id": "tarih3-q17",
@@ -47264,7 +47265,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br><strong>Tüz:</strong> Devlet (hükümdar) ile halk arasında karşılıklı hak ve ödevleri belirleyen sözlü toplumsal mutabakat/sözleşmedir. Hükümdar halkı doyurmak ve korumakla, halk ise devlete itaat ve askerlikle yükümlüdür."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tüz)<br><br>📌 <strong>Yöneten-Yönetilen Sözleşmesi: Tüz:</strong><br>• <strong>Tüz:</strong> İlk Türk devletlerinde hükümdar (devlet) ile millet arasında karşılıklı hak, ödev ve sorumlulukları belirleyen yazılı olmayan toplumsal mutabakat / sözleşmedir.<br>• <em>Hükümdarın Görevi:</em> Halkı doyurmak, giydirmek, huzur ve adaleti sağlamak.<br>• <em>Halkın Görevi:</em> Kağana itaat etmek, töreye uymak, vergisini vermek ve askerlik vazifesini yerine getirmektir.<br><br>Diğer Seçenekler:<br>• <strong>Tutuk:</strong> Askeri vali.<br>• <strong>Küç:</strong> Tanrı'nın kağana verdiği güç.<br>• <strong>Ulus:</strong> Millet / boylar topluluğu."
   },
   {
     "id": "tarih3-q18",
@@ -47301,7 +47302,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br>Orta Asya'da göçebe hayvancılık hâkim olduğu için tahıl ve un ihtiyacı dışarıdan (özellikle Çin'den) <strong>ithal</strong> edilirdi. Canlı hayvan, kürk, deri, madeni eşyalar, silah ve dokuma ürünleri ise ihraç edilirdi."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Hububat / Tahıl)<br><br>📌 <strong>İslam Öncesi Dış Ticaret: İhracat vs İthalat:</strong><br>• <strong>İthal Edilen (Dışarıdan Alınan):</strong> Orta Asya'nın kurak iklimi ve göçebe hayvancılık nedeniyle tarım çok kısıtlıydı. Bu nedenle Türkler un, buğday, pirinç gibi <strong>hububat ve tahıl ürünlerini</strong> komşu ülkelerden (özellikle Çin'den) <strong>satın almışlardır (ithal etmişlerdir)</strong>.<br><br>📌 <strong>İhraç Edilen (Dışarıya Satılan):</strong><br>• Canlı hayvanlar (at, koyun, sığır)<br>• Hayvansal ürünler (deri, kösele, kürk, yün)<br>• Yün dokumalar, keçeler ve Türk halıları<br>• Madeni araçlar, demir silahlar (kılıç, kalkan, kargı) ve altın/gümüş süs eşyaları."
   },
   {
     "id": "tarih4-q1",
