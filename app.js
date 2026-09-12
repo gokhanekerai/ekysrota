@@ -4000,9 +4000,8 @@ class EKYSApp {
     const cardsGridEl = document.getElementById('stats-cards-grid');
     if (cardsGridEl) {
       cardsGridEl.innerHTML = testHubCards.map(card => {
-        // Bu karta ait soru havuzu sayısı
-        const poolQuestions = allQuestions.filter(q => card.match(q));
-        const totalPool = poolQuestions.length > 0 ? poolQuestions.length : (card.id === 'cikmis' ? 640 : card.id === 'denemeler' ? 160 : 100);
+        // Bu karta ait soru havuzu sayısı (Alt kartlardaki testlerin toplam soru sayısı)
+        const totalPool = this.getCardTotalPool(card.id);
 
         // Bu karta ait çözülen testler (En yüksek skora sahip denemeleri baz al)
         const matchingHistory = history.filter(h => card.match(h));
@@ -4145,6 +4144,48 @@ class EKYSApp {
     }
   }
 
+  getCardTotalPool(cardId) {
+    const dataMap = this.getSubTopicData();
+    const group = dataMap[cardId];
+    if (!group || !Array.isArray(group.items) || group.items.length === 0) {
+      if (cardId === 'cikmis') return 640;
+      if (cardId === 'denemeler') return 480;
+      return 100;
+    }
+
+    // 1. targetSubtopic olan ana dallar (Örn: genel-kultur: Coğrafya 659 + Yurttaşlık 45 + Güncel 18 = 722)
+    const subtopicItems = group.items.filter(it => !!it.targetSubtopic);
+    if (subtopicItems.length > 0) {
+      let sum = 0;
+      subtopicItems.forEach(it => {
+        const qList = this.getQuestionsForFilter(it.filterKey);
+        sum += qList.length;
+      });
+      return sum;
+    }
+
+    // 2. Özel durumlar: cikmis ve denemeler
+    if (cardId === 'cikmis') return 640;
+    if (cardId === 'denemeler') return 480;
+
+    // 3. Doğrudan alt testler (Karma test hariç tutularak tek tek testlerin toplam soru sayısı)
+    let sum = 0;
+    const nonKarmaItems = group.items.filter(it => 
+      !it.id.endsWith('_tum') && 
+      !it.filterKey.endsWith('_tum') && 
+      !it.name.toLowerCase().includes('büyük karma') &&
+      !it.name.toLowerCase().includes('deneme')
+    );
+    const targetItems = nonKarmaItems.length > 0 ? nonKarmaItems : group.items;
+    
+    targetItems.forEach(it => {
+      const qList = this.getQuestionsForFilter(it.filterKey);
+      sum += qList.length;
+    });
+
+    return sum > 0 ? sum : 100;
+  }
+
   getTestHubCardsDefinition() {
     return [
       {
@@ -4165,6 +4206,7 @@ class EKYSApp {
         },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          if (t.includes('tarih') || t.includes('inkılap') || t.includes('inkilap')) return false;
           return t.includes('cogr') || t.includes('coğrafya') || t.includes('yurttas') || t.includes('yurttaş') || t.includes('guncel') || t.includes('güncel') || t.includes('genel kültür') || t.includes('genel kultur');
         }
       },
