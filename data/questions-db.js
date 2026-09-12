@@ -28225,8 +28225,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 1,
-    "questionText": "Tabloda dört akarsuyun yıllık yağış miktarı ve ortalama debi (akım) miktarları verilmiştir:\n\n| Akarsu | Havzaya Düşen Yıllık Yağış (mm) | Yıllık Ortalama Debi (m³/sn) |\n|---|---|---|\n| Arpaçay | 480 mm | 5,45 m³/sn |\n| Çoruh | 535 mm | 5,90 m³/sn |\n| Büyük Menderes | 630 mm | 1,20 m³/sn |\n| Yeşilırmak | 550 mm | 5,50 m³/sn |\n\nBuna göre, Büyük Menderes Havzası daha fazla yağış almasına rağmen debisinin (akımının) az olmasının sebebi aşağıdakilerden hangisi ile açıklanabilir?",
-    "hasImage": false,
+    "questionText": "Buna göre, Büyük Menderes Havzası daha fazla yağış almasına rağmen debisinin (akımının) az olmasının sebebi aşağıdakilerden hangisi ile açıklanabilir?",
+    "hasImage": true,
     "options": [
       {
         "key": "A",
@@ -28250,7 +28250,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Buharlaşma miktarının fazla olmasıyla)<br><br>📌 <strong>Akarsu Debisi ve İklim İlişkisi:</strong><br>• Büyük Menderes Nehri, Akdeniz iklim bölgesinde akar. Yaz mevsiminin çok sıcak ve kurak geçmesi sebebiyle havzada <strong>şiddetli buharlaşma</strong> gerçekleşir ve tarımsal sulamada aşırı su tüketilir.<br>• Bu nedenle havzaya düşen yağış miktarı yüksek olmasına karşın, akarsuyun taşıdığı ortalama su miktarı (debisi) Arpaçay, Çoruh ve Yeşilırmak'a göre belirgin derecede düşüktür."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Buharlaşma miktarının fazla olmasıyla)<br><br>📌 <strong>Akarsu Debisi ve İklim İlişkisi:</strong><br>• Büyük Menderes Nehri, Akdeniz iklim bölgesinde akar. Yaz mevsiminin çok sıcak ve kurak geçmesi sebebiyle havzada <strong>şiddetli buharlaşma</strong> gerçekleşir ve tarımsal sulamada aşırı su tüketilir.<br>• Bu nedenle havzaya düşen yağış miktarı yüksek olmasına karşın, akarsuyun taşıdığı ortalama su miktarı (debisi) Arpaçay, Çoruh ve Yeşilırmak'a göre belirgin derecede düşüktür.",
+    "image": "assets/questions/cogr_test_3_q1.png?v=108.0"
   },
   {
     "id": "cogr_test_3-q2",
