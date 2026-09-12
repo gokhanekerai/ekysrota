@@ -184,6 +184,39 @@ class EKYSApp {
     this.countdownInterval = setInterval(update, 1000);
   }
 
+  // --- YARDIMCI: Her Farklı Test İçin En Yüksek Doğru Sayısına (En İyi Skora) Sahip Denemeyi Getir ---
+  getUniqueTestBestAttempts(history) {
+    if (!history || !Array.isArray(history)) return [];
+    const testMap = new Map();
+
+    history.forEach(h => {
+      // Bir testi benzersiz tanımlayan anahtar: topicId veya temizlenmiş title
+      const key = (h.topicId && h.topicId !== 'all') 
+        ? h.topicId 
+        : (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
+
+      if (!key) return;
+
+      const currentCorrect = Number(h.correctCount) || 0;
+      const currentScore = Number(h.score) || 0;
+
+      if (!testMap.has(key)) {
+        testMap.set(key, h);
+      } else {
+        const existing = testMap.get(key);
+        const existingCorrect = Number(existing.correctCount) || 0;
+        const existingScore = Number(existing.score) || 0;
+
+        // En yüksek doğru sayısı (eşitlikte en yüksek puan)
+        if (currentCorrect > existingCorrect || (currentCorrect === existingCorrect && currentScore > existingScore)) {
+          testMap.set(key, h);
+        }
+      }
+    });
+
+    return Array.from(testMap.values());
+  }
+
   // --- DASHBOARD (GENEL BAKIŞ) ---
   renderDashboard() {
     const questions = window.storageService.getQuestions();
@@ -191,9 +224,13 @@ class EKYSApp {
     const wrongPool = window.storageService.getWrongPool();
     const favs = window.storageService.getFavorites();
 
-    const totalSolved = history.reduce((acc, q) => acc + (q.totalQuestions || 0), 0);
-    const totalCorrect = history.reduce((acc, q) => acc + (q.correctCount || 0), 0);
-    const successRate = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
+    // Soru havuzu tekrar çözümlerde şişmesin diye her farklı testin EN İYİ denemesini baz al
+    const uniqueBest = this.getUniqueTestBestAttempts(history);
+    const totalSolved = uniqueBest.reduce((acc, q) => acc + (q.totalQuestions || ((q.correctCount || 0) + (q.wrongCount || 0) + (q.emptyCount || 0)) || 0), 0);
+    const totalCorrect = uniqueBest.reduce((acc, q) => acc + (q.correctCount || 0), 0);
+    const totalQuestionsInPool = questions.length || 1272;
+    const boundedSolved = Math.min(totalSolved, totalQuestionsInPool);
+    const successRate = boundedSolved > 0 ? Math.round((totalCorrect / boundedSolved) * 100) : 0;
 
     const elTotalQ = document.getElementById('stat-total-questions');
     const elTotalSolved = document.getElementById('stat-total-solved');
@@ -202,9 +239,9 @@ class EKYSApp {
     const badgeWrong = document.getElementById('badge-wrong-count');
     const badgeFav = document.getElementById('badge-fav-count');
 
-    if (elTotalQ) elTotalQ.textContent = questions.length;
-    if (elTotalSolved) elTotalSolved.textContent = totalSolved;
-    if (elSuccessRate) elSuccessRate.innerHTML = `%${successRate} <span style="font-size: 0.9rem; font-weight: 600; color: var(--text-secondary);">(${totalSolved} Soru)</span>`;
+    if (elTotalQ) elTotalQ.textContent = totalQuestionsInPool;
+    if (elTotalSolved) elTotalSolved.textContent = boundedSolved;
+    if (elSuccessRate) elSuccessRate.innerHTML = `%${successRate} <span style="font-size: 0.9rem; font-weight: 600; color: var(--text-secondary);">(${boundedSolved} Soru)</span>`;
     if (elWrongCount) elWrongCount.textContent = wrongPool.length;
 
     if (badgeWrong) {
@@ -2666,19 +2703,28 @@ class EKYSApp {
           return false;
         });
 
-        let itemSolved = 0;
-        let itemCorrect = 0;
-        let itemWrong = 0;
-        itemHistory.forEach(h => {
-          const c = (h.correctCount || 0);
-          const w = (h.wrongCount || 0);
-          const count = h.totalQuestions || (c + w + (h.emptyCount || 0)) || 0;
-          itemSolved += count;
-          itemCorrect += c;
-          itemWrong += w;
-        });
+        // Bu teste ait tüm denemeler içerisinden EN YÜKSEK DOĞRU SAYISINA sahip denemeyi bul
+        let bestAttempt = null;
+        if (itemHistory.length > 0) {
+          itemHistory.forEach(h => {
+            const c = Number(h.correctCount) || 0;
+            const s = Number(h.score) || 0;
+            if (!bestAttempt) {
+              bestAttempt = h;
+            } else {
+              const bestC = Number(bestAttempt.correctCount) || 0;
+              const bestS = Number(bestAttempt.score) || 0;
+              if (c > bestC || (c === bestC && s > bestS)) {
+                bestAttempt = h;
+              }
+            }
+          });
+        }
 
-        const itemAccuracy = itemSolved > 0 ? Math.round((itemCorrect / itemSolved) * 100) : 0;
+        const itemSolved = bestAttempt ? (bestAttempt.totalQuestions || qCount || ((bestAttempt.correctCount || 0) + (bestAttempt.wrongCount || 0))) : 0;
+        const itemCorrect = bestAttempt ? (bestAttempt.correctCount || 0) : 0;
+        const itemWrong = bestAttempt ? (bestAttempt.wrongCount || 0) : 0;
+        const itemAccuracy = (bestAttempt && itemSolved > 0) ? Math.round((itemCorrect / itemSolved) * 100) : 0;
 
         // Eğer bu bir alt kategori kartı ise (örneğin Coğrafya Testleri, Tarih Testleri vb.)
         if (item.targetSubtopic) {
@@ -2762,10 +2808,10 @@ class EKYSApp {
 
               <!-- Çözülen Testin Başarı Oranı -->
               <div style="margin-bottom: 14px; background: rgba(0,0,0,0.25); padding: 10px 12px; border-radius: 8px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.8rem; font-weight: 700; margin-bottom: 5px;">
-                  <span style="color: #cbd5e1;">🎯 Test Başarı Oranı:</span>
-                  <span style="color: ${itemSolved > 0 ? (itemAccuracy >= 70 ? '#34d399' : itemAccuracy >= 50 ? '#fbbf24' : '#f87171') : '#94a3b8'};">
-                    ${itemSolved > 0 ? `%${itemAccuracy} (${itemCorrect}D / ${itemWrong}Y)` : 'Henüz Çözülmedi'}
+                <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; font-weight: 700; margin-bottom: 5px;">
+                  <span style="color: #cbd5e1;">🎯 En Yüksek Başarı:</span>
+                  <span style="color: ${bestAttempt ? (itemAccuracy >= 70 ? '#34d399' : itemAccuracy >= 50 ? '#fbbf24' : '#f87171') : '#94a3b8'};">
+                    ${bestAttempt ? `%${itemAccuracy} (${itemCorrect}D / ${itemWrong}Y)` : 'Henüz Çözülmedi'}
                   </span>
                 </div>
                 <div class="progress-bar" style="height: 6px;">
@@ -3892,21 +3938,28 @@ class EKYSApp {
     const allQuestions = window.storageService.getQuestions();
 
     // 1. Genel İstatistikler
-    let totalQuestionsAnswered = 0;
-    let totalCorrectAnswers = 0;
-    let totalWrongAnswers = 0;
+    // Günlük Sayaç: Bugün çözülen tüm soruların toplamı (günlük çalışma gayreti / hacmi)
     const todayStr = new Date().toDateString();
     let todaySolved = 0;
 
     history.forEach(h => {
       const qCount = h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0;
-      totalQuestionsAnswered += qCount;
-      totalCorrectAnswers += (h.correctCount || 0);
-      totalWrongAnswers += (h.wrongCount || 0);
-
       if (h.date && new Date(h.date).toDateString() === todayStr) {
         todaySolved += qCount;
       }
+    });
+
+    // Soru Havuzu Tamamlanma & Başarı Oranı: Her farklı testin EN İYİ denemesi (Best Attempt)
+    const uniqueBestAttempts = this.getUniqueTestBestAttempts(history);
+    let totalQuestionsAnswered = 0;
+    let totalCorrectAnswers = 0;
+    let totalWrongAnswers = 0;
+
+    uniqueBestAttempts.forEach(h => {
+      const qCount = h.totalQuestions || ((h.correctCount || 0) + (h.wrongCount || 0) + (h.emptyCount || 0)) || 0;
+      totalQuestionsAnswered += qCount;
+      totalCorrectAnswers += (h.correctCount || 0);
+      totalWrongAnswers += (h.wrongCount || 0);
     });
 
     // 2. Üst Sayaçları Güncelle
@@ -3920,7 +3973,8 @@ class EKYSApp {
     const settingInput = document.getElementById('setting-daily-target-input');
     if (settingInput && document.activeElement !== settingInput) settingInput.value = dailyTarget;
 
-    const totalPoolCount = allQuestions.length || 1200;
+    const totalPoolCount = allQuestions.length || 1272;
+    totalQuestionsAnswered = Math.min(totalQuestionsAnswered, totalPoolCount);
     const totalSolvedPct = totalPoolCount > 0 ? Math.min(100, Math.round((totalQuestionsAnswered / totalPoolCount) * 100)) : 0;
     const totalSolvedCountEl = document.getElementById('stats-total-solved-count');
     const totalSolvedBarEl = document.getElementById('stats-total-solved-bar');
@@ -3929,13 +3983,14 @@ class EKYSApp {
     if (totalSolvedBarEl) totalSolvedBarEl.style.width = `${totalSolvedPct}%`;
     if (totalPoolBadgeEl) totalPoolBadgeEl.textContent = `%${totalSolvedPct} Tamamlandı`;
 
-    const overallAccuracy = totalQuestionsAnswered > 0 ? Math.round((totalCorrectAnswers / totalQuestionsAnswered) * 100) : 0;
+    const answeredTotal = (totalCorrectAnswers + totalWrongAnswers);
+    const overallAccuracy = answeredTotal > 0 ? Math.round((totalCorrectAnswers / answeredTotal) * 100) : 0;
     const overallAccEl = document.getElementById('stats-overall-accuracy');
     const accBarEl = document.getElementById('stats-accuracy-bar');
     const accBadgeEl = document.getElementById('stats-accuracy-badge');
     if (overallAccEl) overallAccEl.textContent = `%${overallAccuracy}`;
     if (accBarEl) accBarEl.style.width = `${overallAccuracy}%`;
-    if (accBadgeEl) accBadgeEl.textContent = `${totalQuestionsAnswered} Soru / ${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
+    if (accBadgeEl) accBadgeEl.textContent = `${totalQuestionsAnswered} Benzersiz Soru / ${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
 
     // 3. Testler Menüsündeki Tüm Sınav Kartlarının Tanımları
     const testHubCards = this.getTestHubCardsDefinition();
@@ -3948,18 +4003,21 @@ class EKYSApp {
         const poolQuestions = allQuestions.filter(q => card.match(q));
         const totalPool = poolQuestions.length > 0 ? poolQuestions.length : (card.id === 'cikmis' ? 640 : card.id === 'denemeler' ? 160 : 100);
 
-        // Bu karta ait çözülen testler
+        // Bu karta ait çözülen testler (En yüksek skora sahip denemeleri baz al)
         const matchingHistory = history.filter(h => card.match(h));
+        const cardBestAttempts = this.getUniqueTestBestAttempts(matchingHistory);
         let solvedCount = 0;
         let correctCount = 0;
         let wrongCount = 0;
 
-        matchingHistory.forEach(h => {
-          const qCount = h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0;
+        cardBestAttempts.forEach(h => {
+          const qCount = h.totalQuestions || ((h.correctCount || 0) + (h.wrongCount || 0) + (h.emptyCount || 0)) || 0;
           solvedCount += qCount;
           correctCount += (h.correctCount || 0);
           wrongCount += (h.wrongCount || 0);
         });
+
+        solvedCount = Math.min(solvedCount, totalPool);
 
         // Bu kategorideki toplam testler ve çözülen test sayısı hesabı
         const catTests = this.getAllTestItemsForCategory(card.id);
@@ -4317,11 +4375,13 @@ class EKYSApp {
     const allQuestions = window.storageService.getQuestions();
     const dailyTarget = window.storageService.getDailyTarget();
     
+    const uniqueBest = this.getUniqueTestBestAttempts(history);
     let totalQuestionsAnswered = 0;
-    history.forEach(h => {
-      totalQuestionsAnswered += (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
+    uniqueBest.forEach(h => {
+      totalQuestionsAnswered += (h.totalQuestions || ((h.correctCount || 0) + (h.wrongCount || 0) + (h.emptyCount || 0)) || 0);
     });
     const totalPoolCount = allQuestions.length || 1272;
+    totalQuestionsAnswered = Math.min(totalQuestionsAnswered, totalPoolCount);
 
     this.renderStatsCharts(history, allQuestions, dailyTarget, this.getTestHubCardsDefinition(), totalQuestionsAnswered, totalPoolCount);
   }
@@ -4334,11 +4394,13 @@ class EKYSApp {
     const allQuestions = window.storageService.getQuestions();
     const dailyTarget = window.storageService.getDailyTarget();
     
+    const uniqueBest = this.getUniqueTestBestAttempts(history);
     let totalQuestionsAnswered = 0;
-    history.forEach(h => {
-      totalQuestionsAnswered += (h.totalQuestions || (h.correctCount + h.wrongCount + (h.emptyCount || 0)) || 0);
+    uniqueBest.forEach(h => {
+      totalQuestionsAnswered += (h.totalQuestions || ((h.correctCount || 0) + (h.wrongCount || 0) + (h.emptyCount || 0)) || 0);
     });
     const totalPoolCount = allQuestions.length || 1272;
+    totalQuestionsAnswered = Math.min(totalQuestionsAnswered, totalPoolCount);
 
     this.renderStatsCharts(history, allQuestions, dailyTarget, this.getTestHubCardsDefinition(), totalQuestionsAnswered, totalPoolCount);
   }
