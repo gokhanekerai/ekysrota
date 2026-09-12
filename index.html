@@ -37,11 +37,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=97.0">
+  <link rel="stylesheet" href="styles.css?v=117.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=116.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=117.0').then(reg => {
           reg.update();
         }).catch(err => console.log('SW register failed:', err));
       });
@@ -691,17 +691,18 @@
           </div>
 
           <!-- Üst Özet Kartları (Günlük Hedef + Genel Başarı - Yatayda Dengeli 2 Kart) -->
-          <div class="grid-cards" style="margin-bottom: 20px; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 16px;">
+          <!-- Üst Özet Kartları (Günlük Hedef + Genel Başarı - Yatayda Dengeli 2 Kart) -->
+          <div class="stats-kpi-row" style="margin-bottom: 20px;">
             <!-- 1. Günlük Hedef -->
             <div class="card" style="border-left: 4px solid #6366f1; cursor: pointer; display: flex; flex-direction: column; justify-content: space-between;" onclick="app.promptChangeDailyTarget()" title="Hedefi değiştirmek için tıklayın">
               <div>
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-                  <h3 style="font-size: 1rem; font-weight: 700; margin: 0; color: #e2e8f0; display: flex; align-items: center; gap: 6px; white-space: nowrap;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; flex-wrap: wrap; gap: 8px;">
+                  <h3 style="font-size: 1rem; font-weight: 700; margin: 0; color: #e2e8f0; display: flex; align-items: center; gap: 6px;">
                     <span>🎯</span> Günlük Soru Hedefi
                   </h3>
-                  <span class="badge badge-info" style="font-size: 0.75rem; background: rgba(99, 102, 241, 0.2); color: #a5b4fc; padding: 4px 10px; border-radius: 6px; white-space: nowrap;">✏️ Değiştir</span>
+                  <span class="badge badge-info" style="font-size: 0.75rem; background: rgba(99, 102, 241, 0.2); color: #a5b4fc; padding: 4px 10px; border-radius: 6px;">✏️ Değiştir</span>
                 </div>
-                <div style="font-size: 2rem; font-weight: 800; color: #818cf8; margin-bottom: 10px;" id="stats-daily-count">0 / 30</div>
+                <div style="font-size: clamp(1.5rem, 4vw, 2rem); font-weight: 800; color: #818cf8; margin-bottom: 10px;" id="stats-daily-count">0 / 30</div>
                 <div class="progress-bar" style="height: 7px;">
                   <div class="progress-fill" id="stats-daily-bar" style="width: 0%; background: linear-gradient(90deg, #6366f1, #818cf8);"></div>
                 </div>
@@ -712,12 +713,12 @@
             <div class="card" style="border-left: 4px solid #f59e0b; display: flex; flex-direction: column; justify-content: space-between;">
               <div>
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; flex-wrap: wrap; gap: 8px;">
-                  <h3 style="font-size: 1rem; font-weight: 700; margin: 0; color: #e2e8f0; display: flex; align-items: center; gap: 6px; white-space: nowrap;">
+                  <h3 style="font-size: 1rem; font-weight: 700; margin: 0; color: #e2e8f0; display: flex; align-items: center; gap: 6px;">
                     <span>🏆</span> Genel Başarı Oranı
                   </h3>
-                  <span class="badge badge-warning" style="font-size: 0.75rem; padding: 4px 10px; border-radius: 6px; white-space: nowrap;" id="stats-accuracy-badge">Ortalama</span>
+                  <span class="badge badge-warning" style="font-size: 0.72rem; padding: 4px 8px; border-radius: 6px;" id="stats-accuracy-badge">Ortalama</span>
                 </div>
-                <div style="font-size: 2rem; font-weight: 800; color: #fbbf24; margin-bottom: 10px;" id="stats-overall-accuracy">%0</div>
+                <div style="font-size: clamp(1.5rem, 4vw, 2rem); font-weight: 800; color: #fbbf24; margin-bottom: 10px;" id="stats-overall-accuracy">%0</div>
                 <div class="progress-bar" style="height: 7px;">
                   <div class="progress-fill" id="stats-accuracy-bar" style="width: 0%; background: linear-gradient(90deg, #f59e0b, #d97706);"></div>
                 </div>
@@ -726,30 +727,30 @@
           </div>
 
           <!-- 3 ANA İLERLEME KARTI (FARKLI SORU, TEST ÇÖZÜMÜ, KÜMÜLATİF SORU) -->
-          <div class="grid-cards" style="margin-bottom: 24px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+          <div class="stats-main-cards-row" style="margin-bottom: 24px;">
             
             <!-- 1. Kart: Farklı Soru Havuzu -->
             <div class="card" style="border-left: 4px solid #06b6d4; background: rgba(30, 41, 59, 0.85); display: flex; flex-direction: column; justify-content: space-between;">
               <div>
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; flex-wrap: wrap; gap: 6px;">
                   <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0; color: #e2e8f0;">📌 Farklı Soru Havuzu</h3>
                   <span class="badge" style="background: rgba(6, 182, 212, 0.2); color: #67e8f9; font-size: 0.75rem; font-weight: 700;" id="stats-farkli-badge">%0 Tamamlandı</span>
                 </div>
-                <div style="font-size: 1.8rem; font-weight: 800; color: #22d3ee; margin-bottom: 6px;" id="stats-farkli-count">0 / 0 Soru</div>
+                <div style="font-size: clamp(1.4rem, 4vw, 1.8rem); font-weight: 800; color: #22d3ee; margin-bottom: 6px;" id="stats-farkli-count">0 / 0 Soru</div>
                 <!-- Üstte Yatay Çizgi -->
                 <div class="progress-bar" style="height: 6px; margin-bottom: 14px;">
                   <div class="progress-fill" id="stats-farkli-bar" style="width: 0%; background: linear-gradient(90deg, #06b6d4, #22d3ee);"></div>
                 </div>
               </div>
               <!-- Altta Çember -->
-              <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(15, 23, 42, 0.6); padding: 10px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05); margin-top: auto;">
-                <div style="position: relative; width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-                  <svg width="64" height="64" viewBox="0 0 64 64" style="transform: rotate(-90deg); filter: drop-shadow(0 0 4px rgba(6, 182, 212, 0.45));">
+              <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(15, 23, 42, 0.6); padding: 10px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05); margin-top: auto; gap: 10px;">
+                <div style="position: relative; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+                  <svg width="60" height="60" viewBox="0 0 64 64" style="transform: rotate(-90deg); filter: drop-shadow(0 0 4px rgba(6, 182, 212, 0.45));">
                     <circle cx="32" cy="32" r="26" stroke="rgba(255,255,255,0.08)" stroke-width="4.5" fill="none" />
                     <circle id="stats-farkli-circle" cx="32" cy="32" r="26" stroke="#22d3ee" stroke-width="4.5" stroke-linecap="round" fill="none" stroke-dasharray="163.36" stroke-dashoffset="163.36" style="transition: stroke-dashoffset 0.8s ease;" />
                   </svg>
                   <div style="position: absolute; display: flex; align-items: center; justify-content: center;">
-                    <span style="font-size: 0.95rem; font-weight: 800; color: #ffffff;" id="stats-farkli-circle-pct">%0</span>
+                    <span style="font-size: 0.92rem; font-weight: 800; color: #ffffff;" id="stats-farkli-circle-pct">%0</span>
                   </div>
                 </div>
                 <div style="text-align: right;">
@@ -762,25 +763,25 @@
             <!-- 2. Kart: Toplam Test Çözümü -->
             <div class="card" style="border-left: 4px solid #6366f1; background: rgba(30, 41, 59, 0.85); display: flex; flex-direction: column; justify-content: space-between;">
               <div>
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; flex-wrap: wrap; gap: 6px;">
                   <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0; color: #e2e8f0;">📋 Toplam Test Çözümü</h3>
                   <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; font-size: 0.75rem; font-weight: 700;" id="stats-test-badge">%0 Tamamlandı</span>
                 </div>
-                <div style="font-size: 1.8rem; font-weight: 800; color: #818cf8; margin-bottom: 6px;" id="stats-test-count">0 / 0 Test</div>
+                <div style="font-size: clamp(1.4rem, 4vw, 1.8rem); font-weight: 800; color: #818cf8; margin-bottom: 6px;" id="stats-test-count">0 / 0 Test</div>
                 <!-- Üstte Yatay Çizgi -->
                 <div class="progress-bar" style="height: 6px; margin-bottom: 14px;">
                   <div class="progress-fill" id="stats-test-bar" style="width: 0%; background: linear-gradient(90deg, #6366f1, #818cf8);"></div>
                 </div>
               </div>
               <!-- Altta Çember -->
-              <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(15, 23, 42, 0.6); padding: 10px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05); margin-top: auto;">
-                <div style="position: relative; width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-                  <svg width="64" height="64" viewBox="0 0 64 64" style="transform: rotate(-90deg); filter: drop-shadow(0 0 4px rgba(99, 102, 241, 0.45));">
+              <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(15, 23, 42, 0.6); padding: 10px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05); margin-top: auto; gap: 10px;">
+                <div style="position: relative; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+                  <svg width="60" height="60" viewBox="0 0 64 64" style="transform: rotate(-90deg); filter: drop-shadow(0 0 4px rgba(99, 102, 241, 0.45));">
                     <circle cx="32" cy="32" r="26" stroke="rgba(255,255,255,0.08)" stroke-width="4.5" fill="none" />
                     <circle id="stats-test-circle" cx="32" cy="32" r="26" stroke="#818cf8" stroke-width="4.5" stroke-linecap="round" fill="none" stroke-dasharray="163.36" stroke-dashoffset="163.36" style="transition: stroke-dashoffset 0.8s ease;" />
                   </svg>
                   <div style="position: absolute; display: flex; align-items: center; justify-content: center;">
-                    <span style="font-size: 0.95rem; font-weight: 800; color: #ffffff;" id="stats-test-circle-pct">%0</span>
+                    <span style="font-size: 0.92rem; font-weight: 800; color: #ffffff;" id="stats-test-circle-pct">%0</span>
                   </div>
                 </div>
                 <div style="text-align: right;">
@@ -793,25 +794,25 @@
             <!-- 3. Kart: Kümülatif Soru Hacmi -->
             <div class="card" style="border-left: 4px solid #10b981; background: rgba(30, 41, 59, 0.85); display: flex; flex-direction: column; justify-content: space-between;">
               <div>
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; flex-wrap: wrap; gap: 6px;">
                   <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0; color: #e2e8f0;">🎯 Kümülatif Soru Hacmi</h3>
                   <span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #6ee7b7; font-size: 0.75rem; font-weight: 700;" id="stats-cumul-badge">%0 Tamamlandı</span>
                 </div>
-                <div style="font-size: 1.8rem; font-weight: 800; color: #34d399; margin-bottom: 6px;" id="stats-cumul-count">0 / 0 Soru</div>
+                <div style="font-size: clamp(1.4rem, 4vw, 1.8rem); font-weight: 800; color: #34d399; margin-bottom: 6px;" id="stats-cumul-count">0 / 0 Soru</div>
                 <!-- Üstte Yatay Çizgi -->
                 <div class="progress-bar" style="height: 6px; margin-bottom: 14px;">
                   <div class="progress-fill" id="stats-cumul-bar" style="width: 0%; background: linear-gradient(90deg, #10b981, #34d399);"></div>
                 </div>
               </div>
               <!-- Altta Çember -->
-              <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(15, 23, 42, 0.6); padding: 10px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05); margin-top: auto;">
-                <div style="position: relative; width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+              <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(15, 23, 42, 0.6); padding: 10px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.05); margin-top: auto; gap: 10px;">
+                <div style="position: relative; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
                   <svg width="64" height="64" viewBox="0 0 64 64" style="transform: rotate(-90deg); filter: drop-shadow(0 0 4px rgba(16, 185, 129, 0.45));">
                     <circle cx="32" cy="32" r="26" stroke="rgba(255,255,255,0.08)" stroke-width="4.5" fill="none" />
                     <circle id="stats-cumul-circle" cx="32" cy="32" r="26" stroke="#34d399" stroke-width="4.5" stroke-linecap="round" fill="none" stroke-dasharray="163.36" stroke-dashoffset="163.36" style="transition: stroke-dashoffset 0.8s ease;" />
                   </svg>
                   <div style="position: absolute; display: flex; align-items: center; justify-content: center;">
-                    <span style="font-size: 0.95rem; font-weight: 800; color: #ffffff;" id="stats-cumul-circle-pct">%0</span>
+                    <span style="font-size: 0.92rem; font-weight: 800; color: #ffffff;" id="stats-cumul-circle-pct">%0</span>
                   </div>
                 </div>
                 <div style="text-align: right;">
@@ -824,7 +825,7 @@
           </div>
 
           <!-- 2 GRAFİK KARTI (ÇUBUK & ÇİZGİ TRENDİ) -->
-          <div class="grid-cards" style="margin-bottom: 24px; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 16px;">
+          <div class="stats-charts-row" style="margin-bottom: 24px;">
             <!-- 1. Günlük Soru Hedefi: Çubuk Grafik (Bar Chart) -->
             <div class="card" style="border: 1px solid rgba(99, 102, 241, 0.25); background: rgba(30, 41, 59, 0.7); display: flex; flex-direction: column; justify-content: space-between;">
               <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
@@ -1180,13 +1181,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=116.0"></script>
-  <script src="data/questions-db.js?v=116.0"></script>
-  <script src="services/storage-service.js?v=116.0"></script>
-  <script src="services/firebase-service.js?v=116.0"></script>
-  <script src="services/pdf-service.js?v=116.0"></script>
-  <script src="services/youtube-service.js?v=116.0"></script>
-  <script src="services/question-generator.js?v=116.0"></script>
-  <script src="app.js?v=116.0"></script>
+  <script src="data/ekys-sample-questions.js?v=117.0"></script>
+  <script src="data/questions-db.js?v=117.0"></script>
+  <script src="services/storage-service.js?v=117.0"></script>
+  <script src="services/firebase-service.js?v=117.0"></script>
+  <script src="services/pdf-service.js?v=117.0"></script>
+  <script src="services/youtube-service.js?v=117.0"></script>
+  <script src="services/question-generator.js?v=117.0"></script>
+  <script src="app.js?v=117.0"></script>
 </body>
 </html>
