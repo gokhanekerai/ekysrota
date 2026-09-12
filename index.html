@@ -41,7 +41,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=115.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=116.0').then(reg => {
           reg.update();
         }).catch(err => console.log('SW register failed:', err));
       });
@@ -690,29 +690,37 @@
             </div>
           </div>
 
-          <!-- Üst Özet Kartları (Günlük Hedef + Toplam Çözülme + Genel Başarı) -->
-          <div class="grid-cards" style="margin-bottom: 24px;">
+          <!-- Üst Özet Kartları (Günlük Hedef + Genel Başarı - Yatayda Dengeli 2 Kart) -->
+          <div class="grid-cards" style="margin-bottom: 20px; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 16px;">
             <!-- 1. Günlük Hedef -->
-            <div class="card" style="border-left: 4px solid #6366f1; cursor: pointer;" onclick="app.promptChangeDailyTarget()" title="Hedefi değiştirmek için tıklayın">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-                <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0;">🎯 Günlük Soru Hedefi</h3>
-                <span class="badge badge-info" style="font-size: 0.75rem; background: rgba(99, 102, 241, 0.2); color: #a5b4fc;">✏️ Değiştir</span>
-              </div>
-              <div style="font-size: 1.8rem; font-weight: 800; color: #818cf8; margin-bottom: 6px;" id="stats-daily-count">0 / 30</div>
-              <div class="progress-bar">
-                <div class="progress-fill" id="stats-daily-bar" style="width: 0%;"></div>
+            <div class="card" style="border-left: 4px solid #6366f1; cursor: pointer; display: flex; flex-direction: column; justify-content: space-between;" onclick="app.promptChangeDailyTarget()" title="Hedefi değiştirmek için tıklayın">
+              <div>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                  <h3 style="font-size: 1rem; font-weight: 700; margin: 0; color: #e2e8f0; display: flex; align-items: center; gap: 6px; white-space: nowrap;">
+                    <span>🎯</span> Günlük Soru Hedefi
+                  </h3>
+                  <span class="badge badge-info" style="font-size: 0.75rem; background: rgba(99, 102, 241, 0.2); color: #a5b4fc; padding: 4px 10px; border-radius: 6px; white-space: nowrap;">✏️ Değiştir</span>
+                </div>
+                <div style="font-size: 2rem; font-weight: 800; color: #818cf8; margin-bottom: 10px;" id="stats-daily-count">0 / 30</div>
+                <div class="progress-bar" style="height: 7px;">
+                  <div class="progress-fill" id="stats-daily-bar" style="width: 0%; background: linear-gradient(90deg, #6366f1, #818cf8);"></div>
+                </div>
               </div>
             </div>
 
             <!-- 2. Genel Başarı Oranı -->
-            <div class="card" style="border-left: 4px solid #f59e0b;">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-                <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0;">🏆 Genel Başarı Oranı</h3>
-                <span class="badge badge-warning" style="font-size: 0.75rem;" id="stats-accuracy-badge">Ortalama</span>
-              </div>
-              <div style="font-size: 1.8rem; font-weight: 800; color: #fbbf24; margin-bottom: 6px;" id="stats-overall-accuracy">%0</div>
-              <div class="progress-bar">
-                <div class="progress-fill" id="stats-accuracy-bar" style="width: 0%; background: linear-gradient(90deg, #f59e0b, #d97706);"></div>
+            <div class="card" style="border-left: 4px solid #f59e0b; display: flex; flex-direction: column; justify-content: space-between;">
+              <div>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; flex-wrap: wrap; gap: 8px;">
+                  <h3 style="font-size: 1rem; font-weight: 700; margin: 0; color: #e2e8f0; display: flex; align-items: center; gap: 6px; white-space: nowrap;">
+                    <span>🏆</span> Genel Başarı Oranı
+                  </h3>
+                  <span class="badge badge-warning" style="font-size: 0.75rem; padding: 4px 10px; border-radius: 6px; white-space: nowrap;" id="stats-accuracy-badge">Ortalama</span>
+                </div>
+                <div style="font-size: 2rem; font-weight: 800; color: #fbbf24; margin-bottom: 10px;" id="stats-overall-accuracy">%0</div>
+                <div class="progress-bar" style="height: 7px;">
+                  <div class="progress-fill" id="stats-accuracy-bar" style="width: 0%; background: linear-gradient(90deg, #f59e0b, #d97706);"></div>
+                </div>
               </div>
             </div>
           </div>
@@ -1172,13 +1180,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=115.0"></script>
-  <script src="data/questions-db.js?v=115.0"></script>
-  <script src="services/storage-service.js?v=115.0"></script>
-  <script src="services/firebase-service.js?v=115.0"></script>
-  <script src="services/pdf-service.js?v=115.0"></script>
-  <script src="services/youtube-service.js?v=115.0"></script>
-  <script src="services/question-generator.js?v=115.0"></script>
-  <script src="app.js?v=115.0"></script>
+  <script src="data/ekys-sample-questions.js?v=116.0"></script>
+  <script src="data/questions-db.js?v=116.0"></script>
+  <script src="services/storage-service.js?v=116.0"></script>
+  <script src="services/firebase-service.js?v=116.0"></script>
+  <script src="services/pdf-service.js?v=116.0"></script>
+  <script src="services/youtube-service.js?v=116.0"></script>
+  <script src="services/question-generator.js?v=116.0"></script>
+  <script src="app.js?v=116.0"></script>
 </body>
 </html>
