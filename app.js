@@ -8,6 +8,7 @@ class EKYSApp {
     this.countdownInterval = null;
     this.strikeMode = false;
     this.currentCategoryFilter = 'all';
+    this.statsHistoryDateFilter = 'latest';
 
     this.init();
   }
@@ -4133,80 +4134,8 @@ class EKYSApp {
       }).join('');
     }
 
-    // 5. Çözülen Tüm Sınavlar Geçmiş Tablosu
-    const tableEl = document.getElementById('stats-history-table');
-    if (tableEl) {
-      if (history.length === 0) {
-        tableEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem; padding: 24px 0; text-align: center;">Henüz kayıtlı sınav geçmişiniz yok. Test Merkezinden hemen bir teste başlayabilirsiniz!</div>';
-      } else {
-        tableEl.innerHTML = `
-          <table class="admin-table">
-            <thead>
-              <tr>
-                <th>Test / Deneme Adı</th>
-                <th>Tarih</th>
-                <th style="text-align: center;">Toplam Soru</th>
-                <th style="text-align: center;">Doğru</th>
-                <th style="text-align: center;">Yanlış</th>
-                <th style="text-align: center;">Boş</th>
-                <th style="text-align: center;">Başarı Oranı</th>
-                <th style="text-align: center;">İşlem</th>
-              </tr>
-            </thead>
-            <tbody>
-              ${history.map(h => {
-                const correct = h.correctCount || 0;
-                const wrong = h.wrongCount || 0;
-                const empty = h.emptyCount || 0;
-                const total = h.totalQuestions || (correct + wrong + empty);
-                const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
-                const isScored = this.isScoreApplicable(h);
-                const recordId = h.id || h.date;
-                const pctColor = pct >= 70 ? '#10b981' : pct >= 50 ? '#f59e0b' : '#ef4444';
-                
-                return `
-                <tr>
-                  <td>
-                    <div style="font-weight: 700; color: var(--text-primary);">${h.title}</div>
-                  </td>
-                  <td style="white-space: nowrap; color: var(--text-secondary); font-size: 0.82rem;">
-                    ${new Date(h.date).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}
-                  </td>
-                  <td style="text-align: center;">
-                    <span class="badge badge-info" style="font-size: 0.82rem; font-weight: 700; padding: 4px 8px;">${total} Soru</span>
-                  </td>
-                  <td style="text-align: center;">
-                    <span style="color: #10b981; font-weight: 800; font-size: 0.9rem;">${correct} D</span>
-                  </td>
-                  <td style="text-align: center;">
-                    <span style="color: #ef4444; font-weight: 800; font-size: 0.9rem;">${wrong} Y</span>
-                  </td>
-                  <td style="text-align: center;">
-                    <span style="color: #94a3b8; font-weight: 700; font-size: 0.9rem;">${empty} B</span>
-                  </td>
-                  <td style="text-align: center;">
-                    <div style="display: inline-flex; flex-direction: column; align-items: center;">
-                      <span style="color: ${pctColor}; font-weight: 800; font-size: 0.92rem;">%${pct} Başarı</span>
-                      ${isScored ? `<span style="font-size: 0.75rem; color: #818cf8; font-weight: 600;">(${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan)</span>` : ''}
-                    </div>
-                  </td>
-                  <td style="text-align: center; white-space: nowrap;">
-                    <div style="display: flex; gap: 6px; justify-content: center; align-items: center;">
-                      <button class="btn btn-secondary btn-sm" onclick="app.openEditQuizModal('${recordId}')" style="padding: 5px 9px; font-size: 0.78rem; border-radius: 6px; font-weight: 600;" title="Test sonucunu düzenle">
-                        ✏️ Düzenle
-                      </button>
-                      <button class="btn btn-danger btn-sm" onclick="app.deleteQuizHistoryItem('${recordId}')" style="padding: 5px 9px; font-size: 0.78rem; border-radius: 6px; font-weight: 600;" title="Bu test sonucunu sil">
-                        🗑️ Sil
-                      </button>
-                    </div>
-                  </td>
-                </tr>
-              `;}).join('')}
-            </tbody>
-          </table>
-        `;
-      }
-    }
+    // 5. Çözülen Tüm Sınavlar Geçmiş Tablosu ve Tarih Filtresi
+    this.renderStatsHistorySection(history);
 
     // 6. Grafikleri Çiz (Çubuk, Pasta, Çizgi)
     try {
@@ -4706,6 +4635,200 @@ class EKYSApp {
         }
       });
     }
+  }
+
+  setStatsHistoryDateFilter(val) {
+    this.statsHistoryDateFilter = val;
+    const history = window.storageService.getQuizHistory() || [];
+    this.renderStatsHistorySection(history);
+  }
+
+  renderStatsHistorySection(history) {
+    const filterBarEl = document.getElementById('stats-history-filter-bar');
+    const tableEl = document.getElementById('stats-history-table');
+    if (!tableEl) return;
+
+    if (!history || history.length === 0) {
+      if (filterBarEl) filterBarEl.innerHTML = '';
+      tableEl.innerHTML = '<div style="color: var(--text-secondary); font-size: 0.88rem; padding: 24px 0; text-align: center;">Henüz kayıtlı sınav geçmişiniz yok. Test Merkezinden hemen bir teste başlayabilirsiniz!</div>';
+      return;
+    }
+
+    const getLocalDateStr = (d) => {
+      const dt = new Date(d);
+      if (isNaN(dt.getTime())) return '';
+      const year = dt.getFullYear();
+      const month = String(dt.getMonth() + 1).padStart(2, '0');
+      const day = String(dt.getDate()).padStart(2, '0');
+      return `${year}-${month}-${day}`;
+    };
+
+    // Tüm benzersiz tarihleri sırala (en yeniden eskiye)
+    const allDates = Array.from(new Set(history.map(h => getLocalDateStr(h.date)).filter(Boolean))).sort().reverse();
+    const latestDate = allDates.length > 0 ? allDates[0] : '';
+
+    let activeFilter = this.statsHistoryDateFilter || 'latest';
+    let filteredHistory = [];
+    let selectedDateVal = '';
+    let isLatestMode = false;
+    let isAllMode = false;
+    let badgeText = '';
+
+    if (activeFilter === 'all') {
+      isAllMode = true;
+      filteredHistory = [...history];
+      selectedDateVal = '';
+      badgeText = `Toplam ${history.length} Test Kaydı`;
+    } else {
+      let targetDate = activeFilter;
+      if (activeFilter === 'latest') {
+        isLatestMode = true;
+        targetDate = latestDate;
+      }
+      selectedDateVal = targetDate;
+      filteredHistory = history.filter(h => getLocalDateStr(h.date) === targetDate);
+
+      // Tarih başlığı formatlama
+      let formattedDate = targetDate;
+      if (targetDate) {
+        const parts = targetDate.split('-');
+        if (parts.length === 3) {
+          const dObj = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2]));
+          formattedDate = dObj.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' });
+        }
+      }
+
+      if (isLatestMode) {
+        badgeText = `Son Gün: ${formattedDate} (${filteredHistory.length} Test)`;
+      } else {
+        badgeText = `${formattedDate} (${filteredHistory.length} Test)`;
+      }
+    }
+
+    // Filtre çubuğunu render et
+    if (filterBarEl) {
+      filterBarEl.innerHTML = `
+        <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; background: rgba(30, 41, 59, 0.45); padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border-color); margin-bottom: 12px;">
+          <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+            <span style="font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); display: flex; align-items: center; gap: 4px;">
+              📅 Tarih:
+            </span>
+            <input type="date" id="stats-history-date-picker" 
+              value="${selectedDateVal || ''}" 
+              onchange="app.setStatsHistoryDateFilter(this.value)"
+              style="padding: 5px 10px; font-size: 0.82rem; border-radius: 6px; border: 1px solid var(--border-active); background: var(--bg-card); color: var(--text-primary); cursor: pointer;"
+              title="Tarih seçerek o günkü testleri görüntüleyin"
+            />
+            <button class="btn btn-sm ${isLatestMode ? 'btn-primary' : 'btn-secondary'}" 
+              onclick="app.setStatsHistoryDateFilter('latest')" 
+              style="padding: 5px 11px; font-size: 0.8rem; border-radius: 6px;" 
+              title="En son test çözülen günün verilerini göster">
+              ⚡ Son Gün
+            </button>
+            <button class="btn btn-sm ${isAllMode ? 'btn-primary' : 'btn-secondary'}" 
+              onclick="app.setStatsHistoryDateFilter('all')" 
+              style="padding: 5px 11px; font-size: 0.8rem; border-radius: 6px;" 
+              title="Tüm geçmiş sınav kayıtlarını listele">
+              📋 Tüm Geçmiş
+            </button>
+          </div>
+          <div>
+            <span class="badge badge-info" style="font-size: 0.82rem; padding: 5px 10px; border-radius: 8px; font-weight: 700;">
+              ${badgeText}
+            </span>
+          </div>
+        </div>
+      `;
+    }
+
+    // Tabloyu render et
+    if (filteredHistory.length === 0) {
+      let dispDate = selectedDateVal;
+      if (selectedDateVal) {
+        const parts = selectedDateVal.split('-');
+        if (parts.length === 3) {
+          dispDate = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2])).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' });
+        }
+      }
+      tableEl.innerHTML = `
+        <div style="color: var(--text-secondary); font-size: 0.88rem; padding: 28px 16px; text-align: center; background: rgba(15, 23, 42, 0.3); border-radius: 10px; border: 1px dashed var(--border-color); margin-top: 6px;">
+          <div style="font-size: 1.6rem; margin-bottom: 6px;">📅</div>
+          <div>Seçilen tarihte (<strong>${dispDate || 'Seçili Tarih'}</strong>) çözülmüş herhangi bir test kaydı bulunamadı.</div>
+          <div style="margin-top: 10px; display: flex; justify-content: center; gap: 8px;">
+            <button class="btn btn-secondary btn-sm" onclick="app.setStatsHistoryDateFilter('latest')" style="font-size: 0.8rem; padding: 5px 12px; border-radius: 6px;">⚡ Son Gün Kayıtlarını Gör</button>
+            <button class="btn btn-secondary btn-sm" onclick="app.setStatsHistoryDateFilter('all')" style="font-size: 0.8rem; padding: 5px 12px; border-radius: 6px;">📋 Tüm Geçmişi Göster</button>
+          </div>
+        </div>
+      `;
+      return;
+    }
+
+    tableEl.innerHTML = `
+      <table class="admin-table">
+        <thead>
+          <tr>
+            <th>Test / Deneme Adı</th>
+            <th>Tarih</th>
+            <th style="text-align: center;">Toplam Soru</th>
+            <th style="text-align: center;">Doğru</th>
+            <th style="text-align: center;">Yanlış</th>
+            <th style="text-align: center;">Boş</th>
+            <th style="text-align: center;">Başarı Oranı</th>
+            <th style="text-align: center;">İşlem</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${filteredHistory.map(h => {
+            const correct = h.correctCount || 0;
+            const wrong = h.wrongCount || 0;
+            const empty = h.emptyCount || 0;
+            const total = h.totalQuestions || (correct + wrong + empty);
+            const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
+            const isScored = this.isScoreApplicable(h);
+            const recordId = h.id || h.date;
+            const pctColor = pct >= 70 ? '#10b981' : pct >= 50 ? '#f59e0b' : '#ef4444';
+            
+            return `
+            <tr>
+              <td>
+                <div style="font-weight: 700; color: var(--text-primary);">${h.title}</div>
+              </td>
+              <td style="white-space: nowrap; color: var(--text-secondary); font-size: 0.82rem;">
+                ${new Date(h.date).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}
+              </td>
+              <td style="text-align: center;">
+                <span class="badge badge-info" style="font-size: 0.82rem; font-weight: 700; padding: 4px 8px;">${total} Soru</span>
+              </td>
+              <td style="text-align: center;">
+                <span style="color: #10b981; font-weight: 800; font-size: 0.9rem;">${correct} D</span>
+              </td>
+              <td style="text-align: center;">
+                <span style="color: #ef4444; font-weight: 800; font-size: 0.9rem;">${wrong} Y</span>
+              </td>
+              <td style="text-align: center;">
+                <span style="color: #94a3b8; font-weight: 700; font-size: 0.9rem;">${empty} B</span>
+              </td>
+              <td style="text-align: center;">
+                <div style="display: inline-flex; flex-direction: column; align-items: center;">
+                  <span style="color: ${pctColor}; font-weight: 800; font-size: 0.92rem;">%${pct} Başarı</span>
+                  ${isScored ? `<span style="font-size: 0.75rem; color: #818cf8; font-weight: 600;">(${parseFloat(h.score !== undefined ? h.score : (h.netScore || 0)).toFixed(2)} Puan)</span>` : ''}
+                </div>
+              </td>
+              <td style="text-align: center; white-space: nowrap;">
+                <div style="display: flex; gap: 6px; justify-content: center; align-items: center;">
+                  <button class="btn btn-secondary btn-sm" onclick="app.openEditQuizModal('${recordId}')" style="padding: 5px 9px; font-size: 0.78rem; border-radius: 6px; font-weight: 600;" title="Test sonucunu düzenle">
+                    ✏️ Düzenle
+                  </button>
+                  <button class="btn btn-danger btn-sm" onclick="app.deleteQuizHistoryItem('${recordId}')" style="padding: 5px 9px; font-size: 0.78rem; border-radius: 6px; font-weight: 600;" title="Bu test sonucunu sil">
+                    🗑️ Sil
+                  </button>
+                </div>
+              </td>
+            </tr>
+          `;}).join('')}
+        </tbody>
+      </table>
+    `;
   }
 
   openEditQuizModal(id) {

@@ -41,7 +41,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=111.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=112.0').then(reg => {
           reg.update();
         }).catch(err => console.log('SW register failed:', err));
       });
@@ -813,6 +813,8 @@
                 🗑️ Tüm Geçmişi Temizle
               </button>
             </div>
+            <!-- Tarih Filtresi & Hızlı Seçim Barı -->
+            <div id="stats-history-filter-bar" style="margin-bottom: 14px;"></div>
             <div id="stats-history-table" style="overflow-x: auto;"></div>
           </div>
         </section>
@@ -1097,13 +1099,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=111.0"></script>
-  <script src="data/questions-db.js?v=111.0"></script>
-  <script src="services/storage-service.js?v=111.0"></script>
-  <script src="services/firebase-service.js?v=111.0"></script>
-  <script src="services/pdf-service.js?v=111.0"></script>
-  <script src="services/youtube-service.js?v=111.0"></script>
-  <script src="services/question-generator.js?v=111.0"></script>
-  <script src="app.js?v=111.0"></script>
+  <script src="data/ekys-sample-questions.js?v=112.0"></script>
+  <script src="data/questions-db.js?v=112.0"></script>
+  <script src="services/storage-service.js?v=112.0"></script>
+  <script src="services/firebase-service.js?v=112.0"></script>
+  <script src="services/pdf-service.js?v=112.0"></script>
+  <script src="services/youtube-service.js?v=112.0"></script>
+  <script src="services/question-generator.js?v=112.0"></script>
+  <script src="app.js?v=112.0"></script>
 </body>
 </html>
