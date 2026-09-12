@@ -4042,6 +4042,17 @@ class EKYSApp {
         const testSolveRate = totalTests > 0 ? Math.min(100, Math.round((distinctSolvedTests / totalTests) * 100)) : 0;
         const solveRate = totalPool > 0 ? Math.min(100, Math.round((solvedCount / totalPool) * 100)) : 0;
 
+        // 3. Metrik: Kümülatif Soru Hacmi (Tüm münferit testlerdeki soruların toplamı)
+        let cumulativePool = 0;
+        catTests.forEach(t => {
+          const q = this.getQuestionsForFilter(t.filterKey);
+          cumulativePool += q.length;
+        });
+        if (cumulativePool === 0) {
+          cumulativePool = card.id === 'cikmis' ? 640 : card.id === 'denemeler' ? 480 : totalPool;
+        }
+        const cumulativeRate = cumulativePool > 0 ? Math.min(100, Math.round((solvedCount / cumulativePool) * 100)) : 0;
+
         const theme = card.theme || {
           color: '#6366f1',
           gradStart: '#818cf8',
@@ -4053,9 +4064,10 @@ class EKYSApp {
           glow: 'rgba(99, 102, 241, 0.4)'
         };
 
-        const radius = 30;
-        const circumference = 2 * Math.PI * radius; // ~188.5
-        const dashoffset = (circumference * (1 - solveRate / 100)).toFixed(1);
+        const circ = 150.8;
+        const diffOffset = (circ * (1 - solveRate / 100)).toFixed(1);
+        const testOffset = (circ * (1 - testSolveRate / 100)).toFixed(1);
+        const cumuOffset = (circ * (1 - cumulativeRate / 100)).toFixed(1);
 
         return `
           <div class="card" style="border: 1px solid ${theme.border}; background: ${theme.bg}; display: flex; flex-direction: column; justify-content: space-between; border-radius: 14px; transition: all 0.25s ease; box-shadow: 0 4px 18px rgba(0,0,0,0.25);" onmouseover="this.style.transform='translateY(-3px)'; this.style.borderColor='${theme.color}'; this.style.boxShadow='0 8px 25px ${theme.glow}'" onmouseout="this.style.transform='none'; this.style.borderColor='${theme.border}'; this.style.boxShadow='0 4px 18px rgba(0,0,0,0.25)'">
@@ -4065,61 +4077,96 @@ class EKYSApp {
                 <span class="badge" style="background: ${theme.badgeBg}; color: ${theme.badgeColor}; border: 1px solid ${theme.border}; font-size: 0.72rem; font-weight: 700; padding: 4px 8px; border-radius: 6px;">${card.badge}</span>
               </div>
               <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; color: #ffffff;">${card.title}</h3>
-              <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 14px; line-height: 1.4;">${card.subTitle}</p>
+              <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.4;">${card.subTitle}</p>
 
-              <!-- Soru Çözülme Oranı (Çember Grafik) & Test Çözülme Oranı -->
-              <div style="background: rgba(15, 23, 42, 0.65); padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06); margin-bottom: 14px; display: flex; align-items: center; gap: 14px;">
+              <!-- 3'lü İstatistik Gösterge Çemberleri (Farklı Soru, Test Çözümü, Kümülatif Hacim) -->
+              <div style="background: rgba(15, 23, 42, 0.75); padding: 12px 6px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06); margin-bottom: 14px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px; text-align: center;">
                 
-                <!-- Çember Grafik (SVG Circular Progress Ring) -->
-                <div style="position: relative; width: 76px; height: 76px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-                  <svg width="76" height="76" viewBox="0 0 76 76" style="transform: rotate(-90deg); filter: drop-shadow(0 0 4px ${theme.glow});">
-                    <defs>
-                      <linearGradient id="grad-ring-${card.id}" x1="0%" y1="0%" x2="100%" y2="100%">
-                        <stop offset="0%" stop-color="${theme.gradStart}" />
-                        <stop offset="100%" stop-color="${theme.gradEnd}" />
-                      </linearGradient>
-                    </defs>
-                    <!-- Arka Plan Halkası -->
-                    <circle cx="38" cy="38" r="${radius}" stroke="rgba(255,255,255,0.09)" stroke-width="6" fill="none" />
-                    <!-- İlerleme Halkası -->
-                    <circle cx="38" cy="38" r="${radius}" 
-                      stroke="url(#grad-ring-${card.id})" 
-                      stroke-width="6" 
-                      stroke-linecap="round" 
-                      fill="none" 
-                      stroke-dasharray="${circumference.toFixed(1)}" 
-                      stroke-dashoffset="${dashoffset}" 
-                      style="transition: stroke-dashoffset 0.8s cubic-bezier(0.4, 0, 0.2, 1);"
-                    />
-                  </svg>
-                  <!-- Merkez Yüzde & Bilgi -->
-                  <div style="position: absolute; display: flex; flex-direction: column; align-items: center; justify-content: center; pointer-events: none; text-align: center;">
-                    <span style="font-size: 1.05rem; font-weight: 800; color: #ffffff; line-height: 1;">%${solveRate}</span>
-                    <span style="font-size: 0.62rem; font-weight: 700; color: ${theme.badgeColor}; margin-top: 2px; letter-spacing: 0.3px;">Soru</span>
+                <!-- 1. Çember: Farklı Soru Çözümü -->
+                <div style="display: flex; flex-direction: column; align-items: center;">
+                  <div style="position: relative; width: 58px; height: 58px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
+                    <svg width="58" height="58" viewBox="0 0 58 58" style="transform: rotate(-90deg); filter: drop-shadow(0 0 3px rgba(6, 182, 212, 0.45));">
+                      <defs>
+                        <linearGradient id="ring-grad-diff-${card.id}" x1="0%" y1="0%" x2="100%" y2="100%">
+                          <stop offset="0%" stop-color="#06b6d4" />
+                          <stop offset="100%" stop-color="#22d3ee" />
+                        </linearGradient>
+                      </defs>
+                      <circle cx="29" cy="29" r="24" stroke="rgba(255,255,255,0.08)" stroke-width="4" fill="none" />
+                      <circle cx="29" cy="29" r="24" 
+                        stroke="url(#ring-grad-diff-${card.id})" 
+                        stroke-width="4" 
+                        stroke-linecap="round" 
+                        fill="none" 
+                        stroke-dasharray="150.8" 
+                        stroke-dashoffset="${diffOffset}" 
+                        style="transition: stroke-dashoffset 0.8s cubic-bezier(0.4, 0, 0.2, 1);"
+                      />
+                    </svg>
+                    <div style="position: absolute; display: flex; align-items: center; justify-content: center; pointer-events: none;">
+                      <span style="font-size: 0.82rem; font-weight: 800; color: #ffffff; line-height: 1;">%${solveRate}</span>
+                    </div>
                   </div>
+                  <div style="font-size: 0.7rem; font-weight: 700; color: #67e8f9; margin-bottom: 2px;">📌 Farklı Soru</div>
+                  <div style="font-size: 0.65rem; font-weight: 700; color: #cbd5e1;">${solvedCount} / ${totalPool}</div>
                 </div>
 
-                <!-- Sağ Detay Bilgileri -->
-                <div style="flex: 1; min-width: 0;">
-                  <div style="margin-bottom: 8px;">
-                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.78rem; font-weight: 700; color: #e2e8f0; margin-bottom: 2px;">
-                      <span>📌 Soru Çözümü</span>
-                      <span style="color: ${theme.badgeColor}; font-weight: 800;">${solvedCount} / ${totalPool}</span>
-                    </div>
-                    <div style="font-size: 0.72rem; color: #94a3b8;">
-                      ${totalPool > solvedCount ? `${totalPool - solvedCount} soru kaldı` : '🎉 Tamamı çözüldü!'}
+                <!-- 2. Çember: Test Çözümü -->
+                <div style="display: flex; flex-direction: column; align-items: center;">
+                  <div style="position: relative; width: 58px; height: 58px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
+                    <svg width="58" height="58" viewBox="0 0 58 58" style="transform: rotate(-90deg); filter: drop-shadow(0 0 3px rgba(99, 102, 241, 0.45));">
+                      <defs>
+                        <linearGradient id="ring-grad-test-${card.id}" x1="0%" y1="0%" x2="100%" y2="100%">
+                          <stop offset="0%" stop-color="#6366f1" />
+                          <stop offset="100%" stop-color="#818cf8" />
+                        </linearGradient>
+                      </defs>
+                      <circle cx="29" cy="29" r="24" stroke="rgba(255,255,255,0.08)" stroke-width="4" fill="none" />
+                      <circle cx="29" cy="29" r="24" 
+                        stroke="url(#ring-grad-test-${card.id})" 
+                        stroke-width="4" 
+                        stroke-linecap="round" 
+                        fill="none" 
+                        stroke-dasharray="150.8" 
+                        stroke-dashoffset="${testOffset}" 
+                        style="transition: stroke-dashoffset 0.8s cubic-bezier(0.4, 0, 0.2, 1);"
+                      />
+                    </svg>
+                    <div style="position: absolute; display: flex; align-items: center; justify-content: center; pointer-events: none;">
+                      <span style="font-size: 0.82rem; font-weight: 800; color: #ffffff; line-height: 1;">%${testSolveRate}</span>
                     </div>
                   </div>
+                  <div style="font-size: 0.7rem; font-weight: 700; color: #a5b4fc; margin-bottom: 2px;">📋 Test Çözümü</div>
+                  <div style="font-size: 0.65rem; font-weight: 700; color: #cbd5e1;">${distinctSolvedTests} / ${totalTests}</div>
+                </div>
 
-                  <div>
-                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75rem; font-weight: 600; color: #94a3b8; margin-bottom: 3px;">
-                      <span>📋 Test Çözümü</span>
-                      <span style="color: #38bdf8; font-weight: 700;">%${testSolveRate} (${distinctSolvedTests}/${totalTests})</span>
-                    </div>
-                    <div class="progress-bar" style="height: 5px; background: rgba(255,255,255,0.08); border-radius: 4px;">
-                      <div class="progress-fill" style="width: ${testSolveRate}%; background: linear-gradient(90deg, #0ea5e9, #38bdf8);"></div>
+                <!-- 3. Çember: Kümülatif Soru Çözümü -->
+                <div style="display: flex; flex-direction: column; align-items: center;">
+                  <div style="position: relative; width: 58px; height: 58px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
+                    <svg width="58" height="58" viewBox="0 0 58 58" style="transform: rotate(-90deg); filter: drop-shadow(0 0 3px rgba(16, 185, 129, 0.45));">
+                      <defs>
+                        <linearGradient id="ring-grad-cumul-${card.id}" x1="0%" y1="0%" x2="100%" y2="100%">
+                          <stop offset="0%" stop-color="#10b981" />
+                          <stop offset="100%" stop-color="#34d399" />
+                        </linearGradient>
+                      </defs>
+                      <circle cx="29" cy="29" r="24" stroke="rgba(255,255,255,0.08)" stroke-width="4" fill="none" />
+                      <circle cx="29" cy="29" r="24" 
+                        stroke="url(#ring-grad-cumul-${card.id})" 
+                        stroke-width="4" 
+                        stroke-linecap="round" 
+                        fill="none" 
+                        stroke-dasharray="150.8" 
+                        stroke-dashoffset="${cumuOffset}" 
+                        style="transition: stroke-dashoffset 0.8s cubic-bezier(0.4, 0, 0.2, 1);"
+                      />
+                    </svg>
+                    <div style="position: absolute; display: flex; align-items: center; justify-content: center; pointer-events: none;">
+                      <span style="font-size: 0.82rem; font-weight: 800; color: #ffffff; line-height: 1;">%${cumulativeRate}</span>
                     </div>
                   </div>
+                  <div style="font-size: 0.7rem; font-weight: 700; color: #6ee7b7; margin-bottom: 2px;">🎯 Kümülatif</div>
+                  <div style="font-size: 0.65rem; font-weight: 700; color: #cbd5e1;">${solvedCount} / ${cumulativePool.toLocaleString('tr-TR')}</div>
                 </div>
 
               </div>
