@@ -1257,12 +1257,52 @@ class EKYSApp {
         desc: 'Program Geliştirme, Öğretim İlke ve Yöntemleri, Ölçme ve Rehberlik testleri:',
         items: [
           {
-            id: 'egitim_prog_gel_1',
-            name: '🎯 Program Geliştirme Testi 1',
+            id: 'egitim_prog_okur_eb',
+            name: '🎯 Program Okuryazarlığı Testi',
             icon: '🎯',
-            desc: 'Program Okuryazarlığı, Temel Kavramlar, Program Türleri, Felsefeler, İhtiyaç Analizi ve Tasarım Yaklaşımları.',
-            filterKey: 'egitim_prog_gel_1',
+            desc: 'Eğitim Türleri, Program Çeşitleri, Posner Sınıflandırması, Felsefi Temeller ve Program Tasarımı (19 Soru • Konu Anlatımı Sunu Testi).',
+            filterKey: 'egitim_program_okuryazarligi',
             badge: '19 Soru • Konu Testi'
+          },
+          {
+            id: 'egitim_video_test_1_eb',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 1',
+            icon: '🎯',
+            desc: 'Temel Kavramlar: Eğitim, Öğretim, Öğrenme, Kültürleme ve Eğitimin İşlevleri (20 Soru).',
+            filterKey: 'egitim_video_test_1',
+            badge: '20 Soru • Video Test 1'
+          },
+          {
+            id: 'egitim_video_test_2_eb',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 2',
+            icon: '🎯',
+            desc: 'Eğitim Türleri: Formal Eğitim (Örgün & Yaygın), İnformal Eğitim ve Hizmet İçi Eğitim (20 Soru).',
+            filterKey: 'egitim_video_test_2',
+            badge: '20 Soru • Video Test 2'
+          },
+          {
+            id: 'egitim_video_test_3_eb',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 3',
+            icon: '🎯',
+            desc: 'Program Türleri (Posner: Resmî, İşlevsel, Örtük, Ekstra, Geçersiz) & Program Temelleri (20 Soru).',
+            filterKey: 'egitim_video_test_3',
+            badge: '20 Soru • Video Test 3'
+          },
+          {
+            id: 'egitim_video_test_4_eb',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 4',
+            icon: '🎯',
+            desc: 'Felsefe Alanları, Eğitim Felsefeleri (Daimicilik, Esasicilik, İlerlemecilik) & İhtiyaç Belirleme (30 Soru).',
+            filterKey: 'egitim_video_test_4',
+            badge: '30 Soru • Video Test 4'
+          },
+          {
+            id: 'egitim_video_tarama_tum_eb',
+            name: '🌟 Eğitim Bilimleri Video Tarama (4 Test Karma)',
+            icon: '⚡',
+            desc: 'Tüm video tarama testlerinden oluşan 90 soruluk kapsamlı Eğitim Bilimleri soru havuzu.',
+            filterKey: 'egitim_video_tarama_tum',
+            badge: '90 Soru Karma'
           },
           {
             id: 'ekys_2026_egitim',
@@ -2164,15 +2204,55 @@ class EKYSApp {
       },
       'egitim': {
         title: '🎓 Eğitim Bilimleri ve Yönetimi Testleri',
-        desc: 'Eğitim Yönetimi, Liderlik, Denetim, Pedagoji, Ölçme ve Değerler Eğitimi Testleri:',
+        desc: 'Program Okuryazarlığı Sunu Testi, Video Tarama Testleri, Eğitim Yönetimi ve Çıkmış Sorular:',
         items: [
           {
-            id: 'egitim_prog_gel_1',
-            name: '🎯 Program Geliştirme Testi 1',
+            id: 'egitim_prog_okur',
+            name: '🎯 Program Okuryazarlığı Testi',
             icon: '🎯',
-            desc: 'Program Okuryazarlığı, Temel Kavramlar, Program Türleri, Felsefeler, İhtiyaç Analizi ve Tasarım Yaklaşımları.',
-            filterKey: 'egitim_prog_gel_1',
+            desc: 'Eğitim Türleri, Program Çeşitleri, Posner Sınıflandırması, Felsefi Temeller ve Program Tasarımı (19 Soru • Konu Anlatımı Sunu Testi).',
+            filterKey: 'egitim_program_okuryazarligi',
             badge: '19 Soru • Konu Testi'
+          },
+          {
+            id: 'egitim_video_test_1',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 1',
+            icon: '🎯',
+            desc: 'Temel Kavramlar: Eğitim, Öğretim, Öğrenme, Kültürleme ve Eğitimin İşlevleri (20 Soru).',
+            filterKey: 'egitim_video_test_1',
+            badge: '20 Soru • Video Test 1'
+          },
+          {
+            id: 'egitim_video_test_2',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 2',
+            icon: '🎯',
+            desc: 'Eğitim Türleri: Formal Eğitim (Örgün & Yaygın), İnformal Eğitim ve Hizmet İçi Eğitim (20 Soru).',
+            filterKey: 'egitim_video_test_2',
+            badge: '20 Soru • Video Test 2'
+          },
+          {
+            id: 'egitim_video_test_3',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 3',
+            icon: '🎯',
+            desc: 'Program Türleri (Posner: Resmî, İşlevsel, Örtük, Ekstra, Geçersiz) & Program Temelleri (20 Soru).',
+            filterKey: 'egitim_video_test_3',
+            badge: '20 Soru • Video Test 3'
+          },
+          {
+            id: 'egitim_video_test_4',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 4',
+            icon: '🎯',
+            desc: 'Felsefe Alanları, Eğitim Felsefeleri (Daimicilik, Esasicilik, İlerlemecilik) & İhtiyaç Belirleme (30 Soru).',
+            filterKey: 'egitim_video_test_4',
+            badge: '30 Soru • Video Test 4'
+          },
+          {
+            id: 'egitim_video_tarama_tum',
+            name: '🌟 Eğitim Bilimleri Video Tarama (4 Test Karma)',
+            icon: '⚡',
+            desc: 'Tüm video tarama testlerinden oluşan 90 soruluk kapsamlı Eğitim Bilimleri soru havuzu.',
+            filterKey: 'egitim_video_tarama_tum',
+            badge: '90 Soru Karma'
           },
           {
             id: 'egitim_yonetimi_cat',
@@ -2210,9 +2290,9 @@ class EKYSApp {
             id: 'egitim_tum',
             name: '🏆 Tüm Eğitim Bilimleri & Yönetim Karma Test',
             icon: '🎯',
-            desc: 'Veritabanındaki tüm 290+ Eğitim Bilimleri ve Yönetimi sorusundan oluşan büyük soru havuzu.',
+            desc: 'Veritabanındaki tüm 380+ Eğitim Bilimleri ve Yönetimi sorusundan oluşan büyük soru havuzu.',
             filterKey: 'egitim_tum',
-            badge: '290+ Soru Karma'
+            badge: '380+ Soru Karma'
           }
         ]
       },
@@ -2341,7 +2421,16 @@ class EKYSApp {
       const qNum = q.questionNumber || 0;
 
       // 1. Özel Video Tarama & Yeni Münferit Coğrafya & Eğitim Bilimleri Testleri
-      if (filterKey === 'egitim_prog_gel_1' || filterKey === 'prog_gel_test_1') return (q.testId === 'egitim_prog_gel_1' || tId === 'egitim_prog_gel_1' || (tName.includes('program geliştirme') && tName.includes('1')));
+      if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
+      if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
+      if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');
+      if (filterKey === 'egitim_video_test_4') return (q.testId === 'egitim_video_test_4' || tId === 'egitim_video_test_4');
+      if (filterKey === 'egitim_video_tarama_tum' || filterKey === 'egitim_video_tarama') {
+        return ['egitim_video_test_1', 'egitim_video_test_2', 'egitim_video_test_3', 'egitim_video_test_4'].includes(q.testId) || (q.testId && q.testId.startsWith('egitim_video_test_'));
+      }
+      if (filterKey === 'egitim_program_okuryazarligi' || filterKey === 'egitim_prog_gel_1' || filterKey === 'prog_gel_test_1') {
+        return (q.testId === 'egitim_program_okuryazarligi' || q.testId === 'egitim_prog_gel_1' || tId === 'egitim_program_okuryazarligi' || (tName.includes('program okuryazarlığı') || (tName.includes('program geliştirme') && tName.includes('1'))));
+      }
       if (filterKey === 'cogr1') return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
       if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
       if (filterKey === 'cogr3') return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));

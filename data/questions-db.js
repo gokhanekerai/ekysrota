@@ -1,4 +1,4 @@
-// EKYS 2027 Odakli Soru Veritabani
+// EKYS 2027 Kapsamli Soru ve Gorsel Veritabani
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -27574,29 +27574,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q1.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'nin Yengeç Dönencesi'nin kuzeyinde olduğunun kesin kanıtı olarak gösterilebilir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Dört mevsimin belirgin olarak yaşanması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kuzeyden esen rüzgârların sıcaklığı düşürmesi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Bakı yönünün yıl boyunca güney ve güneyli yönler olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Batı Rüzgârları'nın etkisi altında olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Güneş ışınlarını hiçbir zaman dik açıyla alamaması"
       }
     ],
     "correctAnswer": "E",
@@ -27648,29 +27647,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q3.png",
+    "questionText": "Türkiye'nin coğrafi konumundan kaynaklanan sosyo-kültürel faktörler nedeniyle komşu ülkelerle zaman zaman anlaşmazlıklar ortaya çıkmaktadır. Bu anlaşmazlıklardan bir kısmı Türkiye'yi doğrudan ilgilendirirken, bir kısmı da dolaylı olarak ilgilendirmektedir.\n\nBuna göre, aşağıdakilerden hangisi Türkiye'yi doğrudan ilgilendiren sorunlardan biri değildir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kıbrıs sorunu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İsrail - Filistin sorunu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kıta sahanlığı sorunu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Suriye sorunu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Batı Trakya sorunu"
       }
     ],
     "correctAnswer": "B",
@@ -27685,29 +27683,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 4)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q4.png",
+    "questionText": "Ege Bölgesi'nde dağların kıyı çizgisine dik olarak uzanması aşağıdakilerden hangisi üzerinde etkili olmamıştır?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yaz mevsiminin kurak geçmesinde"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kıyı ile iç kesimler arasında iklim farkının az olmasında"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Deniz etkilerinin iç kesimlere kadar sokulmasında"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Akarsuların doğu-batı yönlü akmasında"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kıyıda akarsu ağızlarında delta ovalarının oluşmasında"
       }
     ],
     "correctAnswer": "A",
@@ -27722,29 +27719,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q5.png",
+    "questionText": "Türkiye fiziki haritasında yeşil ve tonlarının fazla olduğu bir yöre ile ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Tarım alanlarının küçük ve parçalı olduğu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Akarsuların dar ve derin vadiler oluşturduğu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Gerçek sıcaklık ile indirgenmiş sıcaklık arasındaki farkın fazla olduğu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kara ve demir yolu ulaşımında yapım maliyetinin düşük olduğu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Doğal bitki örtüsü çeşidinin çok fazla olduğu"
       }
     ],
     "correctAnswer": "D",
@@ -27759,29 +27755,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q6.png",
+    "questionText": "Aşağıda Türkiye'de bulunan bazı yer şekilleri belirli özelliklerine göre çeşitli gruplara ayrılmıştır:\n\n• I. Grup: Süphan, Nemrut, Erciyes\n• II. Grup: Damlataş, Karain, İnsuyu\n• III. Grup: Çukurova, Çarşamba, Bafra\n• IV. Grup: Köyceğiz, Tortum, Çıldır\n\nBu gruplandırmalarda aşağıdaki coğrafi olaylardan hangisi etkili olmamıştır?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Doğal setleşme"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Akarsu biriktirmesi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Volkanik faaliyet"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Dalga biriktirmesi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Karstik erime"
       }
     ],
     "correctAnswer": "D",
@@ -27796,29 +27791,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q7.png",
+    "questionText": "Türkiye'nin yer şekilleri oldukça dağlık ve engebelidir. Yüzölçümünün %70'ten fazlasını eğimli dağlık araziler oluşturur.\n\nBu durum aşağıdakilerden hangisini olumlu yönde etkilememiştir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İklim çeşitliliğini"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Mera hayvancılığını"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ulaşımı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Hidroelektrik potansiyelini"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yayla turizmini"
       }
     ],
     "correctAnswer": "C",
@@ -27833,29 +27827,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q8.png",
+    "questionText": "Edirne ile Rize'nin coğrafi özellikleri karşılaştırıldığında aşağıdakilerden hangisinin Edirne'de Rize'den daha fazla olduğu söylenebilir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Akarsu akış hızı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yıllık yağış miktarı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Orman örtüsü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Tarım alanı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Karayolu yapım maliyeti"
       }
     ],
     "correctAnswer": "D",
@@ -27870,29 +27863,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q9.png",
+    "questionText": "Türkiye'ye ait aşağıdaki özelliklerin hangisi üzerinde matematik konumun etkisi yoktur?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yıl içinde dört mevsimin belirgin olarak yaşanması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kuzey Anadolu Dağları'nın kuzey yamaçlarının güney yamaçlarına göre daha fazla yağış alması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Poyraz estiğinde sıcaklığın düşmesi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Üçüncü saat diliminin kullanılması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Öğle vakti gölgelerin daima kuzeye düşmesi"
       }
     ],
     "correctAnswer": "B",
@@ -27981,29 +27973,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q12.png",
+    "questionText": "Tatilini geçirmek üzere Türkiye'ye gelen bir turist; Türkiye'de kaldığı dönemde gece süresinin gittikçe kısalmakla birlikte gündüz süresine göre daha uzun olduğunu gözlemlemiştir.\n\nBuna göre, bu turistin Türkiye'de bulunduğu tarih aralığı aşağıdakilerden hangisidir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "2 - 27 Nisan"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "1 - 9 Temmuz"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "30 Ocak - 10 Şubat"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "28 Ağustos - 7 Eylül"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "2 - 12 Aralık"
       }
     ],
     "correctAnswer": "C",
@@ -28018,29 +28009,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q13.png",
+    "questionText": "Türkiye kutup kuşağı ile tropikal kuşak arasında (orta kuşakta) yer almaktadır.\n\nBuna göre, aşağıda verilenlerden hangisi bu durumun sonuçları arasında gösterilemez?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Batı Rüzgârları'nın etkisi altında kalması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Cephesel yağışların görülmesi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Akdeniz ikliminin yaşanması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bakı yönünün güney olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Dört mevsimin belirgin olarak yaşanması"
       }
     ],
     "correctAnswer": "D",
@@ -28055,29 +28045,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q14.png",
+    "questionText": "Türkiye topraklarının yaklaşık %51'i çok eğimli arazilerden oluşmaktadır.\n\nBuna göre, aşağıdakilerden hangisi bu eğimli arazilerin bulunduğu yerlerin özelliklerinden biri değildir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Toprak kalınlığı incedir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Dar ve derin vadiler vardır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Erozyon şiddetlidir."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yer altı suyu bakımından fakirdir."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Maden çeşitliliği fazladır."
       }
     ],
     "correctAnswer": "E",
@@ -28092,29 +28081,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q15.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'de yükseltinin genelde doğudan batıya gidildikçe azalması ile açıklanamaz?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Doğudan batıya gidildikçe donlu gün sayısının azalması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Doğudan batıya gidildikçe tarım ürünlerinin olgunlaşma sürelerinin kısalması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Doğudan batıya gidildikçe sıcaklık ortalamalarının yükselmesi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Doğudan batıya gidildikçe karın yerde kalma süresinin kısalması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Doğudan batıya gidildikçe alacakaranlık sürelerinin kısalması"
       }
     ],
     "correctAnswer": "E",
@@ -28129,29 +28117,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q16.png",
+    "questionText": "I. Elmalı - Karstik\nII. Nazilli - Tektonik\nIII. Bafra - Delta\nIV. Amik - Delta\nV. Merzifon - Tektonik\n\nYukarıdaki ova ve oluşum kökeni eşleştirmelerinden hangisi yanlış verilmiştir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
@@ -28166,29 +28153,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q17.png",
+    "questionText": "Türkiye, arazisinin büyük bir bölümü 3. jeolojik zamanda meydana gelmiş genç oluşumlu bir ülkedir. Bu nedenle ortalama yükseltisi fazla, dağlık ve engebeli bir ülkedir.\n\nBuna göre, aşağıdakilerden hangisi üzerinde Türkiye'nin dağlık ve engebeli olmasının etkisi yoktur?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Heyelan ve çığ gibi doğal afetlerin olmasında"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Tarım alanlarının küçük ve parçalı olmasında"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Akarsuların dar ve derin vadiler oluşturmasında"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sıcak su kaynaklarının fazla olmasında"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Gerçek alan ile izdüşüm alan arasındaki farkın fazla olmasında"
       }
     ],
     "correctAnswer": "D",
@@ -28203,29 +28189,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q18.png",
+    "questionText": "Türkiye'deki sıcak su kaynaklarının bulunduğu alanlar dikkate alındığında; bu alanların diğer alanlardan aşağıdakilerden hangisi bakımından farklılık gösterdiği söylenebilir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Jeolojik yapı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Toprak özellikleri"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İklim özellikleri"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yer şekilleri"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yükseltileri"
       }
     ],
     "correctAnswer": "A",
@@ -45955,690 +45940,6 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'nin transit boru hatları (BTC - Bakü Tiflis Ceyhan, TANAP - Trans Anadolu Doğalgaz Boru Hattı, Mavi Akım, TürkAkım) Türkiye'yi Doğu-Batı enerji koridorunda stratejik bir merkez (enerji köprüsü ve ticaret üssü) haline getirmiştir."
   },
   {
-    "id": "egitim_prog_gel_1_q1",
-    "questionNumber": 1,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "(I) Merve bir sürücü kursuna devam etmektedir. Derste kurs öğretmeni ıslak zeminde durma mesafesinin uzayacağını söylemiş, aynı hıza sahip iki aracın kuru ve ıslak zemindeki durma mesafelerini karşılaştıran videolar izletmiştir. (II) Başka bir gün Merve otobüsle eve dönerken yağmur nedeniyle bir aracın duramayarak yoldan çıktığına tanık olmuştur.\n\nNumaralanmış bu iki durum sırasıyla aşağıdaki eğitim türlerinden hangisinin kapsamında yer alır?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Formal örgün – Formal yaygın"
-      },
-      {
-        "key": "B",
-        "text": "Formal yaygın – İnformal"
-      },
-      {
-        "key": "C",
-        "text": "İnformal – İnformal"
-      },
-      {
-        "key": "D",
-        "text": "İnformal – Formal yaygın"
-      },
-      {
-        "key": "E",
-        "text": "Formal örgün – İnformal"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "I. Durum: Sürücü kursları; belirli bir amaca yönelik, planlı ve alan uzmanı eğiticiler eşliğinde yürütülen, sonunda sertifika/ehliyet verilen bir okul dışı eğitim faaliyeti olduğu için Formal Yaygın Eğitimdir.\nII. Durum: Merve'nin otobüsle eve dönerken kazaya tanık olması ise günlük yaşamın doğal akışı içinde, plansız ve kendiliğinden gerçekleşen bir deneyim olduğu için İnformal Eğitimdir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q2",
-    "questionNumber": 2,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Güzel sanatlar lisesinde görev yapan edebiyat öğretmeni, öğrencilerle müzik üzerine sohbetler yaptığında sınıfta daha iyi iletişim sağlandığını fark ederek bir enstrüman çalma kursuna kaydolur.\n\nBuna göre öğretmenin kayıt yaptırdığı kurs aşağıdakilerden hangisinin kapsamında yer alır?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Halk eğitimi"
-      },
-      {
-        "key": "B",
-        "text": "Hizmet içi eğitim"
-      },
-      {
-        "key": "C",
-        "text": "İş başında eğitim"
-      },
-      {
-        "key": "D",
-        "text": "İnformal eğitim"
-      },
-      {
-        "key": "E",
-        "text": "Örgün eğitim"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Bireylerin kendi ilgi, istek ve yetenekleri doğrultusunda, boş zamanlarını değerlendirmek veya kişisel beceri kazanmak amacıyla okul dışı kurumlarda katıldıkları kurslar (enstrüman, yabancı dil, ahşap boyama vb.) Halk Eğitimi (Yaygın Eğitim) kapsamındadır. Kurum tarafından mesleki zorunlulukla düzenlenmediği için hizmet içi veya iş başında eğitim sayılamaz.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q3",
-    "questionNumber": 3,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Bir öğretmenin eğitim programı tasarısını kendi performansı ve mevcut imkânlar doğrultusunda öğrenci kazanımına dönüştürmesiyle hayata geçirdiği program türü aşağıdakilerden hangisidir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Resmî"
-      },
-      {
-        "key": "B",
-        "text": "Örtük"
-      },
-      {
-        "key": "C",
-        "text": "İşlevsel"
-      },
-      {
-        "key": "D",
-        "text": "Ekstra"
-      },
-      {
-        "key": "E",
-        "text": "İhmal edilen"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Posner'ın program sınıflandırmasında; yazılı ve resmî tasarının öğretmen tarafından sınıfta fiilen uygulanması, öğretmenin yetkinliği ve okul şartlarıyla birleşerek öğrenci kazanımına ve somut yaşantıya dönüşen boyutuna İşlevsel (Uygulamadaki / Gerçekleşen) Program denir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q4",
-    "questionNumber": 4,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Okul Müdürü Kemal Bey, görev yaptığı okuldaki öğrencilerin daha yaratıcı ve üretken olmalarını sağlamak için okul bahçesine ekim yapma alanı, beceri ve tasarım atölyesi hobi merkezleri gibi yerler inşa ederek öğrencilerin kullanımına sunmuştur.\n\nBuna göre Kemal Bey'in aşağıdaki program türlerinden hangisine uygun çalışmalar yaptığı söylenebilir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Resmi"
-      },
-      {
-        "key": "B",
-        "text": "Kubik"
-      },
-      {
-        "key": "C",
-        "text": "İhmal edilen"
-      },
-      {
-        "key": "D",
-        "text": "Ekstra"
-      },
-      {
-        "key": "E",
-        "text": "İşlevsel"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Resmî öğretim programının dışında kalan; okulun ve öğretmenlerin gözetiminde, öğrencilerin yaratıcılık, ilgi ve becerilerini geliştirmek üzere gönüllü katılımla düzenlenen atölye, hobi kulübü ve bahçe etkinlikleri Ekstra (Fazladan) Program kapsamındadır.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q5",
-    "questionNumber": 5,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "İlkokul düzeyinde hazırlanan bir programda ikinci sınıf için aday kazanımlar arasında yer alan \"Demokrasi ile özgürlük arasındaki ilişkiyi açıklar.\" kazanımı hedef kitlenin gelişim ve öğrenme özelliklerine uygun bulunmamış ve bu kazanım programdan çıkarılmıştır.\n\nBu kazanımın çıkarılmasında program geliştirmenin aşağıdaki temellerinden hangisi dikkate alınmıştır?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Toplumsal"
-      },
-      {
-        "key": "B",
-        "text": "Felsefi"
-      },
-      {
-        "key": "C",
-        "text": "Ekonomik"
-      },
-      {
-        "key": "D",
-        "text": "Tarihi"
-      },
-      {
-        "key": "E",
-        "text": "Psikolojik"
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "Program geliştirmenin Psikolojik Temeli; hedeflerin ve kazanımların öğrencinin yaş, gelişim özellikleri, hazırbulunuşluk düzeyi ve öğrenme kapasitesine uygunluğunu belirler. 2. sınıf düzeyindeki öğrencilerin soyut kavramları (demokrasi-özgürlük ilişkisi) kavrayacak bilişsel gelişim düzeyinde olmaması nedeniyle kazanımın çıkarılması doğrudan psikolojik temelle ilgilidir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q6",
-    "questionNumber": 6,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Bir okul müdürü eğitim sisteminin; tüm öğrencilere model olması amacıyla sorumluluk sahibi, empati yeteneği gelişmiş, özgür ve cesareti yüksek bireyler yetiştirmesi gerektiği görüşündedir.\n\nBu okul müdürünün benimsediği felsefi yaklaşım aşağıdakilerden hangisidir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Pragmatizm"
-      },
-      {
-        "key": "B",
-        "text": "Naturalizm"
-      },
-      {
-        "key": "C",
-        "text": "Varoluşçuluk"
-      },
-      {
-        "key": "D",
-        "text": "Realizm"
-      },
-      {
-        "key": "E",
-        "text": "İdealizm"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Varoluşçuluk (Egzistansiyalizm); bireyin özgürlüğünü, kendi seçimlerini yapma cesaretini, özgün kimliğini oluşturmasını ve seçimlerinin tüm sorumluluğunu üstlenmesini eğitimin temel amacı olarak görür.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q7",
-    "questionNumber": 7,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Bir ortaokul müdür yardımcısı, bir araştırmacı tarafından kendisine verilen yarı yapılandırılmış görüşme formunda yer alan \"ideal eğitim sistemi nasıl olmalıdır?\" sorusuna cevap olarak şunları yazmıştır:\n\n\"Eğitimin odağı insan olmalıdır. İnsanın özgürlüğü önemlidir ve bu özgürlüğü sınırlandırmadığı gibi bireyin kendini gerçekleştirmesine yardımcı olan bir eğitim sistemi kurgulanmalıdır. Öğretmen merkezli eğitim kabul edilemez. Öğrencileri bir kitle olarak görmek yerine mümkün olduğunca bireye inilmeli ve onun tercihleri dikkate alınmalıdır. Toplumun genel olarak sahip olduğu değerlerin bireye kazandırılması yerine bireyin kendi sentezini yapmasına olanak sağlanmalıdır.\"\n\nBu müdür yardımcısının düşünceleri aşağıdaki felsefi akımlardan hangisiyle daha fazla örtüşmektedir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Realizm"
-      },
-      {
-        "key": "B",
-        "text": "İdealizm"
-      },
-      {
-        "key": "C",
-        "text": "Varoluşçuluk"
-      },
-      {
-        "key": "D",
-        "text": "Pragmatizm"
-      },
-      {
-        "key": "E",
-        "text": "Natüralizm"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Bireyin kendi özünü ve değerler sistemini özgürce kendisinin oluşturmasını, dayatmacı kalıplar yerine bireysel tercihlere saygı duyulmasını ve kendini gerçekleştirme yolculuğunun desteklenmesini savunan felsefe Varoluşçuluk (Egzistansiyalizm) akımıdır.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q8",
-    "questionNumber": 8,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Bir ortaokul müdürü, öğrenci merkezli öğretim yapılması için gerekli araç gereçlerin temin edilmesi, demokratik bir öğrenme-öğretme ortamı sağlanması ve öğrencilerin bireysel farklılıklarına yönelik öğrenme etkinlikleri düzenlenmesi için öğretmenleri ve öğrencileri teşvik etmektedir.\n\nBuna göre, okul müdürünün öğrenme-öğretme sürecine ilişkin yaklaşımı ve felsefesi aşağıdakilerin hangisinde sırasıyla verilmiştir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Yapılandırmacılık – Daimicilik"
-      },
-      {
-        "key": "B",
-        "text": "Davranışçılık – İlerlemecilik"
-      },
-      {
-        "key": "C",
-        "text": "Davranışçılık – Yeniden kurmacılık"
-      },
-      {
-        "key": "D",
-        "text": "Yapılandırmacılık – Yeniden kurmacılık"
-      },
-      {
-        "key": "E",
-        "text": "Yapılandırmacılık – İlerlemecilik"
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "Öğrencinin aktif olduğu, yaparak-yaşayarak öğrendiği ve bireysel özelliklerin dikkate alındığı çağdaş öğrenme yaklaşımı Yapılandırmacılık; bu yaklaşımın felsefi temeli olan öğrenci merkezli, demokratik ve pragmatizme dayanan eğitim felsefesi ise İlerlemeciliktir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q9",
-    "questionNumber": 9,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Katı bir yönetim anlayışı sergileyen okul müdürü, öğrencilerin özgürlük alanlarının daraltılması ve mümkün olduğunca kontrol altında tutunmasını savunmaktadır. Kontrol elden bırakılırsa disiplini tekrar sağlamak için çok fazla emek ve zaman gerekeceğini düşünmektedir.\n\nBuna göre okul müdürünün yönetim anlayışı aşağıdaki felsefi akımlardan hangisiyle örtüşmektedir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Daimicilik"
-      },
-      {
-        "key": "B",
-        "text": "Varoluşçuluk"
-      },
-      {
-        "key": "C",
-        "text": "İlerlemecilik"
-      },
-      {
-        "key": "D",
-        "text": "Doğacılık"
-      },
-      {
-        "key": "E",
-        "text": "Yeniden kurmacılık"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Daimicilik (Perennialism); eğitimin evrensel ve değişmez doğrulara dayandığını, insan doğasının kontrol edilmesi gerektiğini ve sıkı bir zihinsel disiplin, katı otorite ve kuralcılıkla yönetilmesini savunur.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q10",
-    "questionNumber": 10,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Geliştirilecek olan bir eğitim programına ilişkin ihtiyaç analizi sürecinde, programla ilgili uzman ve paydaş görüşü alınması hedeflenmektedir. Bunun için geniş bir kitleye ulaşılması ve birçok kişiden farklı görüşler alınarak ortak görüşe varılması planlanmaktadır.\n\nBu süreçte kullanılabilecek en uygun ihtiyaç belirleme yaklaşımı ve değerlendirme tekniği aşağıdakilerin hangisinde birlikte verilmiştir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Betimsel - Görüşme"
-      },
-      {
-        "key": "B",
-        "text": "Demokratik - DACUM"
-      },
-      {
-        "key": "C",
-        "text": "Demokratik – Delphi"
-      },
-      {
-        "key": "D",
-        "text": "Analitik - Meslek analizi"
-      },
-      {
-        "key": "E",
-        "text": "Analitik - Gözlem"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Geniş paydaş ve toplum kitlelerinin beklentilerini ve çoğunluğun görüşünü esas alan yaklaşım Demokratik Yaklaşımdır. Birbirinden bağımsız geniş bir uzman grubuna anket turları uygulanarak ortak bir uzlaşıya (konsensüse) varılmasını sağlayan teknik ise Delphi (Anket Geliştirme) Tekniğidir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q11",
-    "questionNumber": 11,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Program geliştirme sürecinde programın bütün ögelerinin şekillenmesinde faydalanılan, özellikle de hedeflerin belirlenmesinde ağırlıklı role sahip olan disiplin aşağıdakilerden hangisidir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Psikoloji"
-      },
-      {
-        "key": "B",
-        "text": "Tarih"
-      },
-      {
-        "key": "C",
-        "text": "Ekonomi"
-      },
-      {
-        "key": "D",
-        "text": "Felsefe"
-      },
-      {
-        "key": "E",
-        "text": "Sosyoloji"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Program geliştirmede aday hedeflerin toplumun ve eğitimin değerlerine uygunluğunun denetlenmesi, hedefler arasındaki iç tutarlılığın sağlanması ve öncelikli hedeflerin belirlenmesinde süzgeç görevi üstlenen temel disiplin Felsefedir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q12",
-    "questionNumber": 12,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Bir öğretmen yüksek lisans tezini hazırlarken portfolyo konusuna ilişkin alan yazın taraması yapmış, problem durumunu oluşturmuş ve buna uygun yöntem kullanarak çalışmasını yürütmüş, tezini yazarak danışmanına sunmuştur. Tez danışmanı bulgulardan yola çıkılarak varılan sonuçların yeterli olduğunu ancak alan yazın taramasının uluslararası kaynaklar kullanılarak genişletilmesi gerektiğini belirtmiştir.\n\nBuna göre öğretmen ve tez danışmanına ait davranışların temsil ettiği bilişsel basamaklar yenilenmiş Bloom Taksonomisi'ne göre aşağıdakilerin hangisinde sırasıyla verilmiştir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Yaratma – Analiz etme"
-      },
-      {
-        "key": "B",
-        "text": "Anlama – Analiz etme"
-      },
-      {
-        "key": "C",
-        "text": "Analiz etme – Yaratma"
-      },
-      {
-        "key": "D",
-        "text": "Yaratma – Değerlendirme"
-      },
-      {
-        "key": "E",
-        "text": "Analiz etme - Değerlendirme"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Öğretmenin araştırma yapıp özgün bir yüksek lisans tezi üretmesi Yenilenmiş Bloom Taksonomisinin en üst basamağı olan Yaratma (Creating) basamağıdır. Tez danışmanının tezin sonuçlarını ve literatürünü belirli ölçütlere göre inceleyip bir yargıya varması ve eleştirmesi ise Değerlendirme (Evaluating) basamağıdır.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q13",
-    "questionNumber": 13,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Davranışlarından sorumlu olma ve vicdanına göre hareket etmenin öneminin farkında olan ve bunu okulunda da geliştirmek isteyen bir okul müdürü, bu değerlerin öğrencilerin değer yapılarının bir parçası haline gelmesi için öğretmenlerden, Bloom ve arkadaşları tarafından geliştirilen duyuşsal alan basamaklarını içeren çeşitli etkinlikler planlamalarını istemiştir.\n\nBuna göre okul müdürünün istemiş olduğu etkinliklerde ilk olarak aşağıdakilerden hangisi yapılmalıdır?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Bir öykü içinde değerin fark edilmesi sağlanmalıdır"
-      },
-      {
-        "key": "B",
-        "text": "Örnek olay içinde değeri açıklamak için fırsatlar sunulmalıdır"
-      },
-      {
-        "key": "C",
-        "text": "Değerin önemini takdir etmek için biyografiler analiz edilmelidir"
-      },
-      {
-        "key": "D",
-        "text": "Yeni değerler organize edilerek değer sisteminin parçası haline getirilmelidir"
-      },
-      {
-        "key": "E",
-        "text": "Değerlerin davranışa dönüşerek tekrar etmesi için yardımcı olunmalıdır"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Duyuşsal alanın basamakları sırasıyla: 1. Alma, 2. Tepkide Bulunma, 3. Değer Verme, 4. Örgütleme, 5. Nitelenmişlik (Kişilik haline getirme) şeklindedir. İlk basamak olan Alma basamağında öğrencinin değeri fark etmesi ve dikkatini yöneltmesi amaçlanır. Bu yüzden ilk olarak bir öykü içinde değerin fark edilmesi sağlanmalıdır.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q14",
-    "questionNumber": 14,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Bir görsel sanatlar öğretmeni resimlerde renklerin kullanımını öğrencilerin renk kullanım becerileri geliştikçe derslerinde daha ayrıntılı bir şekilde ele almaktadır. Gerektiğinde yaptığı tekrar ve hatırlatmalarla öğrencilerin renkleri etkili kullanmalarına destek olmaktadır.\n\nBu öğretmen ders içeriğini aşağıdaki içerik düzenleme yaklaşımlarından hangisine uygun olarak şekillendirmiştir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Konu ağı-Proje merkezli"
-      },
-      {
-        "key": "B",
-        "text": "Modüler"
-      },
-      {
-        "key": "C",
-        "text": "Sarmal"
-      },
-      {
-        "key": "D",
-        "text": "Piramitsel"
-      },
-      {
-        "key": "E",
-        "text": "Çekirdek"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Bruner'in geliştirdiği Sarmal Programlama Yaklaşımında; konular önceden öğrenilenlerin üzerine inşa edilir, zaman içinde tekrarlarla hatırlatılır ve öğrencinin becerisi geliştikçe kapsamı genişletilip derinleştirilerek yeniden ele alınır.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q15",
-    "questionNumber": 15,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Bir müzik öğretmeni dersinde Hint, Kafkas, İran ve Latin müziği gibi farklı kültürlere ait müzikleri tanıtmak istemektedir. Bunun için her bir kültüre ait müzik aletleri ve melodilerden örnekler toplamayı ve her hafta bir kültüre ait müziği uygulamalı olarak öğrencilerine tanıtmayı planlamaktadır.\n\nBu öğretmen aşağıdaki içerik düzenleme yaklaşımlarından hangisini dikkate almaktadır?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Doğrusal"
-      },
-      {
-        "key": "B",
-        "text": "Sarmal"
-      },
-      {
-        "key": "C",
-        "text": "Modüler"
-      },
-      {
-        "key": "D",
-        "text": "Piramitsel"
-      },
-      {
-        "key": "E",
-        "text": "Çekirdek"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "İçeriğin birbiriyle zorunlu ön koşul ilişkisi bulunmayan, bağımsız ve kendi içinde anlamlı bütünler/öğrenme paketleri (modüller) halinde ayrıldığı yaklaşım Modüler Programlama Yaklaşımıdır. Her haftanın bağımsız bir müzik kültürüne ayrılması bu yaklaşıma tam örnektir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q16",
-    "questionNumber": 16,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Bir üniversitenin lisans programına kayıtlı öğrenciler, ilk iki yıl farklı bölümlerde de yer alan ortak dersleri alırlar. Diğer yıllarda ise kendi bölümlerine ait derslere devam ederek uzman olacakları alanda eğitimlerini tamamlarlar.\n\nBu üniversitenin ilgili lisans programında aşağıdaki içerik düzenleme yaklaşımlarından hangisi kullanılmaktadır?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Sarmal"
-      },
-      {
-        "key": "B",
-        "text": "Piramitsel"
-      },
-      {
-        "key": "C",
-        "text": "Doğrusal"
-      },
-      {
-        "key": "D",
-        "text": "Modüler"
-      },
-      {
-        "key": "E",
-        "text": "Konu ağı – Proje merkezli"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Piramitsel Programlama Yaklaşımında; eğitim ilk yıllarda geniş tabanlı ortak ve temel derslerle başlar, yıllar ilerledikçe alan daralır ve program sonunda öğrenci tek bir alanda uzmanlaşmış olarak mezun olur.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q17",
-    "questionNumber": 17,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Yabancı dil öğretmenlerinin yıllık plan üzerinde çalıştığı zümre toplantısına katılan bir okul müdürü; içeriğin etkili ve verimli düzenlenmesi için konuların hem kendi içinde hem de diğer konular arasında mantıklı bir şekilde sıralanmasının gerektiğini söyler. Bununla birlikte bazı konuların farklı zamanlarda daha ayrıntılı bir şekilde tekrarlanmasının yapılandırmacı yaklaşımla yürütülen yabancı dil öğretiminde etkili olduğunu vurgular.\n\nBuna göre okul müdürünün konuşmasında önerdiği içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Sarmal"
-      },
-      {
-        "key": "B",
-        "text": "Doğrusal"
-      },
-      {
-        "key": "C",
-        "text": "Piramitsel"
-      },
-      {
-        "key": "D",
-        "text": "Çekirdek"
-      },
-      {
-        "key": "E",
-        "text": "Modüler"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Konuların mantıksal bir sırayla ilerlemesi ve daha sonraki aşamalarda derinleşerek ve genişleyerek tekrar edilmesi Sarmal (Spiral) Programlama Yaklaşımının temel özelliğidir. Dil öğretiminde kelime ve dilbilgisinin pekiştirilmesi için bu yaklaşım esastır.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q18",
-    "questionNumber": 18,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Millî Eğitim Bakanlığı merkez teşkilatında görev yapan bir yönetici: \"Hazırlanacak eğitim planlarında öncelikle ne yapılacağı belirlenmeli ve ardından 'nasıl, ne zaman, nerede, niçin, kim tarafından' yapılacağı açık ve net bir şekilde ifade edilmelidir.\" demiştir.\n\nBu ifadede eğitim planlarına ilişkin aşağıdaki ilkelerden hangisine vurgu yapılmaktadır?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Bütünlük"
-      },
-      {
-        "key": "B",
-        "text": "Süreklilik"
-      },
-      {
-        "key": "C",
-        "text": "Ölçülebilirlik"
-      },
-      {
-        "key": "D",
-        "text": "Yalınlık"
-      },
-      {
-        "key": "E",
-        "text": "Güvenilirlik"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Eğitim öğretim planlarında hedeflerin, yapılacak etkinliklerin ve görev dağılımlarının herkes tarafından kolayca anlaşılacak sadelikte, net, açık ve karmaşadan uzak biçimde yazılması Yalınlık (Açıklık) ilkesidir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
-    "id": "egitim_prog_gel_1_q19",
-    "questionNumber": 19,
-    "testId": "egitim_prog_gel_1",
-    "testTitle": "Program Geliştirme Testi 1",
-    "topicId": "egitim_prog_gel_1",
-    "topicName": "Eğitim Bilimleri - Program Geliştirme",
-    "category": "Eğitim Bilimleri",
-    "questionText": "Yeni geliştirilen bir öğretim programının deneneceği pilot okulda yöneticilik yapan ve yüksek lisansını program geliştirme alanında tamamlamış olan Hüseyin Bey programın işlevselliğini değerlendirmek için bir soru listesi hazırlar.\n\nBuna göre programın sadece işlevsellik özelliğini değerlendirmek isteyen Hüseyin Bey, listesinde aşağıdaki sorulardan hangisine yer vermemelidir?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Programda yer verilen konular ve etkinlikler hayatta geçerli mi?"
-      },
-      {
-        "key": "B",
-        "text": "Program, öğrencilerin günlük yaşam problemlerini çözme becerilerini geliştiriyor mu?"
-      },
-      {
-        "key": "C",
-        "text": "Program, bireyin ve toplumun ihtiyaçlarına cevap veriyor mu?"
-      },
-      {
-        "key": "D",
-        "text": "Programın kazanımları, kazanım yazma kurallarına uygun yazılmış mı?"
-      },
-      {
-        "key": "E",
-        "text": "Program, öğrencilerin yaparak yaşayarak öğrenmelerine fırsat veriyor mu?"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Bir öğretim programının İşlevsellik (Fonksiyonellik) özelliği; öğretilenlerin gerçek hayatta işe yaraması, geçerli olması, bireysel ve toplumsal ihtiyaçları karşılaması ve pratik problem çözme becerisi kazandırması ile ilgilidir. Kazanımların teknik kurallara uygun yazılmış olması ise biçimsel-teknik bir incelemedir, işlevsellik kriteri değildir.",
-    "hasImage": false,
-    "image": null
-  },
-  {
     "id": "tarih3-q1",
     "testId": "tarih3",
     "testTitle": "Genel Tarih Video Tarama Testi 3",
@@ -48043,5 +47344,3929 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong><br>İslamiyet öncesi Türk toplumunda cesaret, bilgelik ve kahramanlığı temsil eden ideal insan tipi <strong>Alp</strong> tipidir. İslamiyet'in kabulüyle birlikte bu anlayış <strong>Alp-Eren</strong> ve <strong>Gazi</strong> tipine dönüşmüştür."
+  },
+  {
+    "id": "egitim_video_test_1_q1",
+    "questionNumber": 1,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bireyin davranışlarında kendi yaşantıları yoluyla, kasıtlı olarak ve istendik yönde değişiklik meydana getirme süreci aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kültür"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenme"
+      },
+      {
+        "key": "C",
+        "text": "Öğretim"
+      },
+      {
+        "key": "D",
+        "text": "Eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Olgunlaşma"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzda belirtildiği üzere; <em>bireyin davranışlarında kendi yaşantıları yoluyla, kasıtlı olarak ve istendik yönde değişiklik meydana getirme sürecine</em> <strong>Eğitim</strong> denir.<br>\n• <strong>Kasıtlı:</strong> Önceden hedeflenmiş ve planlanmış olmayı;<br>\n• <strong>İstendik:</strong> Hedef davranışların program amaçlarına uygunluğunu;<br>\n• <strong>Yaşantı:</strong> Bireyin çevreyle etkileşimi sonucu iz bırakmayı simgeler.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Kültür (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Toplumun maddi ve manevi değerlerinin bütünü ve yaşama biçimidir.<br>• <strong>B) Öğrenme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Yaşantı veya tekrar sonucu oluşan kalıcı izli davranış değişikliğidir (sürecin kendisi değil sonucudur).<br>• <strong>C) Öğretim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Eğitimin yalnızca okullarda profesyonellerce yürütülen planlı-programlı boyutudur.<br>• <strong>E) Olgunlaşma (Yanlış):</strong> </strong> Yanlış. Vücut organlarının genetik olarak kendiliğinden görev yapabilir hale gelmesidir; yaşantı ürünü değildir."
+  },
+  {
+    "id": "egitim_video_test_1_q2",
+    "questionNumber": 2,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi eğitimin özelliklerinden biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kasıtlı olması"
+      },
+      {
+        "key": "B",
+        "text": "Yaşantı yoluyla gerçekleşmesi"
+      },
+      {
+        "key": "C",
+        "text": "İstendik değişiklik sağlaması"
+      },
+      {
+        "key": "D",
+        "text": "Bir süreç olması"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca okullarda gerçekleşmesi"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yalnızca okullarda gerçekleşmesi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Eğitim; okul öncesinden hayatın son anına kadar evde, sokakta, iş yerinde, doğada her yerde kesintisiz devam eder. 'Eğitimin yalnızca okullarda gerçekleştiği' algısı pedagojik olarak tamamen yanlıştır; okullarda gerçekleşen boyut öğretime aittir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Kasıtlı olması (Yanlış):</strong> </strong> Eğitimin temel özelliğidir; belirli bir amaca yöneliktir.<br>• <strong>B) Yaşantı yoluyla gerçekleşmesi (Yanlış):</strong> </strong> Temel özelliğidir; bireyin çevreyle etkileşimini gerektirir.<br>• <strong>C) İstendik değişiklik sağlaması (Yanlış):</strong> </strong> Temel özelliğidir; hedeflere uygun kazanım amaçlar.<br>• <strong>D) Bir süreç olması (Yanlış):</strong> </strong> Temel özelliğidir; anlık değil, yaşam boyu devam eden bir süreçtir."
+  },
+  {
+    "id": "egitim_video_test_1_q3",
+    "questionNumber": 3,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim sürecinin okullarda amaçlı, planlı ve programlı olarak yürütülen bölümüne ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenme"
+      },
+      {
+        "key": "C",
+        "text": "Kültürleme"
+      },
+      {
+        "key": "D",
+        "text": "Sosyalleşme"
+      },
+      {
+        "key": "E",
+        "text": "Olgunlaşma"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Eğitimin okullarda, uzman öğretmenler tarafından, önceden hazırlanmış müfredat doğrultusunda amaçlı, planlı ve programlı olarak yürütülen kurumsal boyutuna <strong>Öğretim</strong> denir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Öğrenme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireydeki davranış değişikliğinin kendisidir.<br>• <strong>C) Kültürleme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Toplumsal kültürün bireye aktarılması sürecidir.<br>• <strong>D) Sosyalleşme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireyin toplumsal rolleri benimseyip toplumla uyumlu hale gelmesidir.<br>• <strong>E) Olgunlaşma (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Biyolojik ve genetik büyüme sürecidir."
+  },
+  {
+    "id": "egitim_video_test_1_q4",
+    "questionNumber": 4,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi öğretimin temel özelliklerinden biridir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kendiliğinden gerçekleşmesi"
+      },
+      {
+        "key": "B",
+        "text": "Geçici davranış değişikliği oluşturması"
+      },
+      {
+        "key": "C",
+        "text": "Planlı ve programlı olması"
+      },
+      {
+        "key": "D",
+        "text": "Yalnızca aile içinde gerçekleşmesi"
+      },
+      {
+        "key": "E",
+        "text": "Topluma özgü değerlerden oluşması"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Planlı ve programlı olması)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Öğretim tesadüfi olamaz; hedefleri, içeriği, yöntem-teknikleri ve ölçme araçları Talim ve Terbiye Kurulu onaylı resmî programlara göre önceden tasarlanır (planlı ve programlıdır).<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Kendiliğinden gerçekleşmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Kendiliğinden gerçekleşmek informal eğitimin özelliğidir.<br>• <strong>B) Geçici davranış değişikliği oluşturması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Öğretim kalıcı izli ve istendik davranış değişikliği hedefler.<br>• <strong>D) Yalnızca aile içinde gerçekleşmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Öğretim kurumsal okul ortamında profesyonellerce yapılır.<br>• <strong>E) Topluma özgü değerlerden oluşması (Yanlış):</strong> </strong> Yanlış. Bu kültürün tanımıdır; öğretim evrensel bilimsel ilkeleri de kapsar."
+  },
+  {
+    "id": "egitim_video_test_1_q5",
+    "questionNumber": 5,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğrencinin öğretmenin hazırladığı ders planı doğrultusunda sınıfta matematik konularını işlemesi aşağıdaki kavramlardan hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kültür"
+      },
+      {
+        "key": "B",
+        "text": "Öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Olgunlaşma"
+      },
+      {
+        "key": "D",
+        "text": "Tesadüfi öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "Büyüme"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğretim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bir öğretmenin ders planına uygun şekilde sınıfta öğrencilere matematik kazanımlarını aktarması, hedefe yönelik kurumsal ve planlı bir etkinlik olduğundan <strong>Öğretim</strong>e örnektir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Kültür (Yanlış):</strong> </strong> Maddi ve manevi toplumsal birikimdir; ders işleme eylemi değildir.<br>• <strong>C) Olgunlaşma (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Biyolojik büyüme ve organların hazır hale gelmesidir.<br>• <strong>D) Tesadüfi öğrenme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Plansız, sokakta veya çevrede kendiliğinden gelişen öğrenmedir.<br>• <strong>E) Büyüme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Boy ve kilo gibi fiziksel artışlardır."
+  },
+  {
+    "id": "egitim_video_test_1_q6",
+    "questionNumber": 6,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğrenme aşağıdakilerden hangisiyle en doğru biçimde açıklanabilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Organizmanın çevresiyle etkileşimi sonucunda davranışlarında kalıcı ve iz bırakan değişiklik oluşmasıdır."
+      },
+      {
+        "key": "B",
+        "text": "Bireyin yalnızca fiziksel gelişim sonucunda davranış değiştirmesidir."
+      },
+      {
+        "key": "C",
+        "text": "Toplumun maddi ve manevi değerlerinin tamamıdır."
+      },
+      {
+        "key": "D",
+        "text": "Okullarda yürütülen bütün planlı faaliyetlerdir."
+      },
+      {
+        "key": "E",
+        "text": "Yorgunluk ve hastalık sonucunda ortaya çıkan geçici değişikliklerdir."
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Organizmanın çevresiyle etkileşimi sonucunda davranışlarında kalıcı ve iz bırakan değişiklik oluşmasıdır.)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzda özellikle vurgulanmıştır: Doğuştan gelen refleksler, örümceğin ağ örmesi gibi içgüdüler, büyüme/olgunlaşma ve yorgunluk/ilaç halleri öğrenme değildir. Öğrenme; yaşantı sonucu oluşan <strong>kalıcı izli</strong> davranış değişikliğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Bireyin yalnızca fiziksel gelişim sonucunda davranış değiştirmesidir. (Yanlış):</strong> </strong> Yanlış. Bu büyüme ve olgunlaşmadır, öğrenme değildir.<br>• <strong>C) Toplumun maddi ve manevi değerlerinin tamamıdır. (Yanlış):</strong> </strong> Yanlış. Bu kültürün tanımıdır.<br>• <strong>D) Okullarda yürütülen bütün planlı faaliyetlerdir. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bu öğretim veya formal eğitimdir.<br>• <strong>E) Yorgunluk ve hastalık sonucunda ortaya çıkan geçici değişikliklerdir. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Geçici durumlar kesinlikle öğrenme sayılamaz."
+  },
+  {
+    "id": "egitim_video_test_1_q7",
+    "questionNumber": 7,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir toplumun oluşturduğu maddi ve manevi değerlerin bütününe ne ad verilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Kültür"
+      },
+      {
+        "key": "E",
+        "text": "Gelişim"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kültür)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bir toplumun tarih boyunca oluşturduğu, doğaya ve yaşama kattığı tüm maddi (yapılar, aletler, giysiler) ve manevi (inançlar, ahlak, dil, gelenekler) değerlerin bütünü <strong>Kültür</strong>dür.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireyde istendik davranış değişikliği oluşturma sürecidir.<br>• <strong>B) Öğretim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eğitimin okullarda planlı yürütülen boyutudur.<br>• <strong>C) Öğrenme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Kalıcı izli davranış değişikliğidir.<br>• <strong>E) Gelişim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Döllenmeden ölüme kadar bedensel, zihinsel ve sosyal ilerlemedir."
+  },
+  {
+    "id": "egitim_video_test_1_q8",
+    "questionNumber": 8,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi kültürün özelliklerinden biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Topluma özgü olması"
+      },
+      {
+        "key": "B",
+        "text": "Maddi değerleri kapsaması"
+      },
+      {
+        "key": "C",
+        "text": "Manevi değerleri kapsaması"
+      },
+      {
+        "key": "D",
+        "text": "Kuşaktan kuşağa aktarılması"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca okullarda oluşturulması"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yalnızca okullarda oluşturulması)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Kültür okulun icadı değildir; toplumun binlerce yıllık ortak yaşantıları, tarihi, inançları ve mücadeleleriyle sokakta, ailede, tarlada, şehirde üretilir. Okullar kültürü üreten tek yer değil, kültürel mirası yeni kuşaklara sistemli aktaran kurumlardır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Topluma özgü olması (Yanlış):</strong> </strong> Kültürün özelliğidir; her milletin kendine has kültürü vardır.<br>• <strong>B) Maddi değerleri kapsaması (Yanlış):</strong> </strong> Kültürün özelliğidir (mimari, sanat, teknoloji).<br>• <strong>C) Manevi değerleri kapsaması (Yanlış):</strong> </strong> Kültürün özelliğidir (inanç, ahlak, örf).<br>• <strong>D) Kuşaktan kuşağa aktarılması (Yanlış):</strong> </strong> Kültürün süreklilik özelliğidir."
+  },
+  {
+    "id": "egitim_video_test_1_q9",
+    "questionNumber": 9,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi kültürün maddi unsurlarından biridir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gelenekler"
+      },
+      {
+        "key": "B",
+        "text": "İnançlar"
+      },
+      {
+        "key": "C",
+        "text": "Ahlak kuralları"
+      },
+      {
+        "key": "D",
+        "text": "Tarihî yapılar"
+      },
+      {
+        "key": "E",
+        "text": "Toplumsal değerler"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tarihî yapılar)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • <strong>Maddi Kültür:</strong> İnsan elinden çıkan elle tutulur, gözle görülür somut nesnelerdir (tarihî yapılar, köprüler, camiler, heykeller, giysiler).<br>\n• <strong>Manevi Kültür:</strong> Soyut inançlar, örfler, gelenekler, ahlak kuralları ve dildir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Gelenekler (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Manevi kültür unsurudur.<br>• <strong>B) İnançlar (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Manevi kültür unsurudur.<br>• <strong>C) Ahlak kuralları (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Manevi kültür unsurudur.<br>• <strong>E) Toplumsal değerler (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Manevi kültür unsurudur."
+  },
+  {
+    "id": "egitim_video_test_1_q10",
+    "questionNumber": 10,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitimin bireysel işlevleri arasında yer alan ve diğer bireysel işlevlerin temelini oluşturan amaç aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bireyi toplumsallaştırmak"
+      },
+      {
+        "key": "B",
+        "text": "Bireyin kendini gerçekleştirmesini sağlamak"
+      },
+      {
+        "key": "C",
+        "text": "Bilinçli seçmen yetiştirmek"
+      },
+      {
+        "key": "D",
+        "text": "Nitelikli insan gücü yetiştirmek"
+      },
+      {
+        "key": "E",
+        "text": "Kültürel mirası aktarmak"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Bireyin kendini gerçekleştirmesini sağlamak)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. ve 2. ders notumuzda açıkça vurgulandığı üzere; çağdaş eğitimin ve hümanistik yaklaşımın en temel, en üst düzey bireysel işlevi <strong>bireyin potansiyelini sonuna kadar kullanarak kendini gerçekleştirmesini (self-actualization)</strong> sağlamaktır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Bireyi toplumsallaştırmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eğitimin toplumsal işlevidir.<br>• <strong>C) Bilinçli seçmen yetiştirmek (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eğitimin siyasal işlevidir.<br>• <strong>D) Nitelikli insan gücü yetiştirmek (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eğitimin ekonomik işlevidir.<br>• <strong>E) Kültürel mirası aktarmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eğitimin toplumsal/kültürel işlevidir."
+  },
+  {
+    "id": "egitim_video_test_1_q11",
+    "questionNumber": 11,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi eğitimin bireysel işlevlerinden biridir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Millet bilinci oluşturmak"
+      },
+      {
+        "key": "B",
+        "text": "Kültürel mirası aktarmak"
+      },
+      {
+        "key": "C",
+        "text": "Bireyi bir mesleğe hazırlamak"
+      },
+      {
+        "key": "D",
+        "text": "Bilinçli seçmen yetiştirmek"
+      },
+      {
+        "key": "E",
+        "text": "Toplumun devamlılığını sağlamak"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bireyi bir mesleğe hazırlamak)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Eğitimin bireysel işlevleri; bireyin ilgi ve yeteneklerini geliştirmek, onu bir meslek sahibi yapmak ve kendini gerçekleştirmesine yardım etmektir. Bireyi mesleğe hazırlamak doğrudan bireyin kişisel refah ve gelişimine dönüktür.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Millet bilinci oluşturmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Siyasal ve toplumsal işlevdir.<br>• <strong>B) Kültürel mirası aktarmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Toplumsal işlevdir.<br>• <strong>D) Bilinçli seçmen yetiştirmek (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Siyasal işlevdir.<br>• <strong>E) Toplumun devamlılığını sağlamak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Toplumsal işlevdir."
+  },
+  {
+    "id": "egitim_video_test_1_q12",
+    "questionNumber": 12,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim yoluyla geçmişten gelen dil, gelenek, sanat ve değerlerin yeni nesillere aktarılması, eğitimin hangi işleviyle ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bireysel işlevi"
+      },
+      {
+        "key": "B",
+        "text": "Ekonomik işlevi"
+      },
+      {
+        "key": "C",
+        "text": "Siyasal işlevi"
+      },
+      {
+        "key": "D",
+        "text": "Toplumsal işlevi"
+      },
+      {
+        "key": "E",
+        "text": "Gizil işlevi"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Toplumsal işlevi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Toplumun varlığını, birlik ve beraberliğini koruyabilmesi için ortak dil, gelenek, sanat, görenek ve manevi değerlerin genç kuşaklara intikal ettirilmesi eğitimin <strong>Toplumsal (Kültürleme / Sosyalleştirme) İşlevi</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Bireysel işlevi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireyin kişisel yeteneklerini geliştirmesidir.<br>• <strong>B) Ekonomik işlevi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Üretime katılma ve istihdam dengesidir.<br>• <strong>C) Siyasal işlevi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Vatandaşlık bilinci ve anayasal düzene bağlılıktır.<br>• <strong>E) Gizil işlevi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eş seçme, statü kazanma gibi beklenmeyen ikincil işlevlerdir."
+  },
+  {
+    "id": "egitim_video_test_1_q13",
+    "questionNumber": 13,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir okulda öğrencilere çevre kirliliği, göç ve toplumsal eşitsizlik gibi sorunlara çözüm üretme becerisi kazandırılmaktadır. Bu uygulama eğitimin hangi işlevi kapsamında değerlendirilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Toplumsal işlevi"
+      },
+      {
+        "key": "B",
+        "text": "Gizil işlevi"
+      },
+      {
+        "key": "C",
+        "text": "Bireysel işlevi"
+      },
+      {
+        "key": "D",
+        "text": "Ekonomik işlevi"
+      },
+      {
+        "key": "E",
+        "text": "Siyasal işlevi"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Toplumsal işlevi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Okullarda öğrencilere çevre kirliliği, hızlı kentleşme, kontrolsüz göç, bağımlılık ve toplumsal eşitsizlik gibi ortak kamusal sorunlara karşı bilinç ve çözüm üretme yeterliliği kazandırmak eğitimin <strong>Toplumsal İşlevi</strong>nin bir parçasıdır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Gizil işlevi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Programda yazılı olmayan tesadüfi sosyal çıktılardır.<br>• <strong>C) Bireysel işlevi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireyin kendi özel yeteneklerini keşfetmesidir.<br>• <strong>D) Ekonomik işlevi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Ülkenin mali kaynakları ve istihdam hedefleridir.<br>• <strong>E) Siyasal işlevi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Devlet yönetimi ve rejim bağlılığıdır."
+  },
+  {
+    "id": "egitim_video_test_1_q14",
+    "questionNumber": 14,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi eğitimin ekonomik işlevine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Demokrasi bilinci oluşturmak"
+      },
+      {
+        "key": "B",
+        "text": "Bireyin kendini gerçekleştirmesini sağlamak"
+      },
+      {
+        "key": "C",
+        "text": "Kültürel mirası aktarmak"
+      },
+      {
+        "key": "D",
+        "text": "Nitelikli ve meslek sahibi insan gücü yetiştirmek"
+      },
+      {
+        "key": "E",
+        "text": "Bireye statü kazandırmak"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Nitelikli ve meslek sahibi insan gücü yetiştirmek)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Eğitimin ekonomik işlevi; ülkenin sanayi, teknoloji ve hizmet sektörlerinin ihtiyaç duyduğu kalifiye ara eleman ve uzman iş gücünü üretmek, bireyleri üretici kılmak ve bilinçli tüketici profili kazandırmaktır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Demokrasi bilinci oluşturmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Siyasal işlevdir.<br>• <strong>B) Bireyin kendini gerçekleştirmesini sağlamak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireysel işlevdir.<br>• <strong>C) Kültürel mirası aktarmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Toplumsal işlevdir.<br>• <strong>E) Bireye statü kazandırmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Gizil (örtük) işlevdir."
+  },
+  {
+    "id": "egitim_video_test_1_q15",
+    "questionNumber": 15,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Okullarda seçim uygulamalarının yapılması, öğrenci meclislerinin oluşturulması ve farklı görüşlere saygının öğretilmesi eğitimin öncelikle hangi işlevine hizmet eder?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gizil işlevine"
+      },
+      {
+        "key": "B",
+        "text": "Ekonomik işlevine"
+      },
+      {
+        "key": "C",
+        "text": "Siyasal işlevine"
+      },
+      {
+        "key": "D",
+        "text": "Bireysel işlevine"
+      },
+      {
+        "key": "E",
+        "text": "Biyolojik işlevine"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Siyasal işlevine)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Demokrasi kültürünü içselleştirmek, okul meclisi ve temsilci seçimleri yapmak, farklı fikirlere saygı duymak ve oy kullanma bilincini erken yaşta aşılamak doğrudan eğitimin <strong>Siyasal İşlevi</strong> (iyi vatandaş yetiştirme) kapsamındadır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Gizil işlevine (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Resmî planda olmayan tali kazanımlardır.<br>• <strong>B) Ekonomik işlevine (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Üretim ve piyasa ilişkisidir.<br>• <strong>D) Bireysel işlevine (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireyin kendini gerçekleştirmesidir.<br>• <strong>E) Biyolojik işlevine (Yanlış):</strong> </strong> Eğitim işlevleri arasında pedagojik bir ana kategori değildir."
+  },
+  {
+    "id": "egitim_video_test_1_q16",
+    "questionNumber": 16,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi eğitimin siyasal işlevlerinden biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vatandaşlık sorumluluğunu geliştirmek"
+      },
+      {
+        "key": "B",
+        "text": "Bilinçli seçmen yetiştirmek"
+      },
+      {
+        "key": "C",
+        "text": "Demokrasi bilinci oluşturmak"
+      },
+      {
+        "key": "D",
+        "text": "Bireyin ekonomik etkinliğini geliştirmek"
+      },
+      {
+        "key": "E",
+        "text": "Millet bilinci oluşturmak"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bireyin ekonomik etkinliğini geliştirmek)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bireyin ekonomik etkinliğini geliştirmek, üretim kapasitesini artırmak eğitimin <strong>ekonomik işlevi</strong>dir; siyasal işlev değildir.<br>\n• Siyasal işlev ise devlete, anayasaya ve kanunlara bağlılık, millet bilinci ve bilinçli seçmen yetiştirmeyi amaçlar.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Vatandaşlık sorumluluğunu geliştirmek (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Siyasal işlevdir.<br>• <strong>B) Bilinçli seçmen yetiştirmek (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Siyasal işlevdir.<br>• <strong>C) Demokrasi bilinci oluşturmak (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Siyasal işlevdir.<br>• <strong>E) Millet bilinci oluşturmak (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Siyasal işlevdir."
+  },
+  {
+    "id": "egitim_video_test_1_q17",
+    "questionNumber": 17,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir kişinin okul ortamında arkadaş çevresi edinmesi ve eğitim düzeyi sayesinde toplumda saygınlık kazanması aşağıdaki işlevlerden hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Toplumsal işlev"
+      },
+      {
+        "key": "B",
+        "text": "Bireysel işlev"
+      },
+      {
+        "key": "C",
+        "text": "Ekonomik işlev"
+      },
+      {
+        "key": "D",
+        "text": "Siyasal işlev"
+      },
+      {
+        "key": "E",
+        "text": "Gizil işlev"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Gizil işlev)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Resmî programlarda açıkça bir kazanım olarak yazılmayan ancak okul ortamının doğurduğu sosyal statü kazanma, saygınlık elde etme, eş seçme, arkadaş çevresi edinme gibi ikincil sonuçlara <strong>Gizil (Örtük / Latent) İşlev</strong> denir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Toplumsal işlev (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Kültür ve ahlakın nesillere aktarımıdır.<br>• <strong>B) Bireysel işlev (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İlgi, yetenek ve kendini gerçekleştirmedir.<br>• <strong>C) Ekonomik işlev (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İş gücü ve meslek edinmedir.<br>• <strong>D) Siyasal işlev (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Vatandaşlık ve rejim bağlılığıdır."
+  },
+  {
+    "id": "egitim_video_test_1_q18",
+    "questionNumber": 18,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisinde eğitimin işlevi ve bu işleve ilişkin örnek doğru eşleştirilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bireysel işlev – Bilinçli seçmen yetiştirmek"
+      },
+      {
+        "key": "B",
+        "text": "Toplumsal işlev – Bireyin kendini gerçekleştirmesini sağlamak"
+      },
+      {
+        "key": "C",
+        "text": "Ekonomik işlev – Nitelikli insan gücü yetiştirmek"
+      },
+      {
+        "key": "D",
+        "text": "Siyasal işlev – Bireye meslek kazandırmak"
+      },
+      {
+        "key": "E",
+        "text": "Gizil işlev – Kültürel mirası aktarmak"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ekonomik işlev – Nitelikli insan gücü yetiştirmek)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Eğitim işlevleri eşleştirmesinde nitelikli insan gücü üretimi net olarak ekonomik işleve karşılık gelir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Bireysel işlev – Bilinçli seçmen yetiştirmek (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bilinçli seçmen <em>siyasal işlev</em>dir.<br>• <strong>B) Toplumsal işlev – Bireyin kendini gerçekleştirmesini sağlamak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Kendini gerçekleştirme <em>bireysel işlev</em>dir.<br>• <strong>D) Siyasal işlev – Bireye meslek kazandırmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Meslek edindirme <em>ekonomik/bireysel işlev</em>dir.<br>• <strong>E) Gizil işlev – Kültürel mirası aktarmak (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Kültür aktarımı eğitimin temel <em>toplumsal işlevi</em>dir."
+  },
+  {
+    "id": "egitim_video_test_1_q19",
+    "questionNumber": 19,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bireyin istendik davranışları, önceden belirlenmiş plan ve programlar doğrultusunda kazandığı eğitim türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Formal eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Tesadüfi eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Örtük öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "Kendiliğinden öğrenme"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Formal eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bireyin istendik davranışları; önceden hazırlanmış bir plan ve program çerçevesinde, uzman eğiticiler eliyle ve amaçlı olarak kazandığı eğitim türü <strong>Formal Eğitim</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İnformal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Plansız, programsız, hayatın akışında kendiliğinden gelişir.<br>• <strong>C) Tesadüfi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. İnformal eğitimin plansız niteliğidir.<br>• <strong>D) Örtük öğrenme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bilinçli çaba olmadan arka planda gerçekleşen öğrenmedir.<br>• <strong>E) Kendiliğinden öğrenme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Sargın/informal öğrenme biçimidir."
+  },
+  {
+    "id": "egitim_video_test_1_q20",
+    "questionNumber": 20,
+    "testId": "egitim_video_test_1",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 1 (Temel Kavramlar)",
+    "topicId": "egitim_video_test_1",
+    "topicName": "Eğitim Bilimleri - Temel Kavramlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi formal eğitimin özelliklerinden biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Planlı ve programlı olması"
+      },
+      {
+        "key": "B",
+        "text": "Belirli hedeflere yönelmesi"
+      },
+      {
+        "key": "C",
+        "text": "Uzman kişiler tarafından yürütülmesi"
+      },
+      {
+        "key": "D",
+        "text": "Süreç içinde değerlendirme yapılması"
+      },
+      {
+        "key": "E",
+        "text": "Davranış değişikliğinin tesadüfen gerçekleşmesi"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Davranış değişikliğinin tesadüfen gerçekleşmesi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Formal eğitimde hiçbir süreç tesadüfe bırakılamaz. Hedefler önceden yazılır, içerik düzenlenir, yöntemler seçilir ve sınavlarla değerlendirilir. Davranış değişikliğinin tesadüfen ve kendiliğinden gerçekleşmesi <strong>informal eğitim</strong>e aittir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Planlı ve programlı olması (Yanlış):</strong> </strong> Formal eğitimin temel özelliğidir.<br>• <strong>B) Belirli hedeflere yönelmesi (Yanlış):</strong> </strong> Formal eğitimin temel özelliğidir.<br>• <strong>C) Uzman kişiler tarafından yürütülmesi (Yanlış):</strong> </strong> Formal eğitimin temel özelliğidir.<br>• <strong>D) Süreç içinde değerlendirme yapılması (Yanlış):</strong> </strong> Formal eğitimin temel özelliğidir."
+  },
+  {
+    "id": "egitim_video_test_2_q1",
+    "questionNumber": 1,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Herhangi bir amaca ve önceden hazırlanmış yazılı bir plana bağlı olmadan gerçekleşen eğitim aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Formal eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Örgün eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Yaygın eğitim"
+      },
+      {
+        "key": "D",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Mesleki eğitim"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (İnformal eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. ve 2. Ders notlarımızda vurgulandığı üzere; herhangi bir amaca ve önceden hazırlanmış yazılı bir plana dayanmayan, yaşamın doğal akışı içinde kendiliğinden gerçekleşen eğitime <strong>İnformal Eğitim</strong> denir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Formal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Belli bir amaca yönelik, planlı ve uzmanlarca yürütülen eğitimdir.<br>• <strong>B) Örgün eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Belirli yaş gruplarına basamaklar halinde diploma veren resmi okul sistemidir.<br>• <strong>C) Yaygın eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Örgün eğitim dışındaki planlı kurs ve sertifika programlarıdır.<br>• <strong>E) Mesleki eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bir mesleğin bilgi ve becerilerini kazandıran planlı eğitimdir."
+  },
+  {
+    "id": "egitim_video_test_2_q2",
+    "questionNumber": 2,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki durumlardan hangisi formal eğitime örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Çocuğun ailesini gözlemleyerek sofra kurallarını öğrenmesi"
+      },
+      {
+        "key": "B",
+        "text": "Bireyin arkadaşından argo kelimeler öğrenmesi"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencinin okulda hazırlanan programa göre matematik dersi alması"
+      },
+      {
+        "key": "D",
+        "text": "Çocuğun televizyondaki bir davranışı taklit etmesi"
+      },
+      {
+        "key": "E",
+        "text": "Bireyin çevresindeki insanlardan görgü kurallarını öğrenmesi"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Öğrencinin okulda hazırlanan programa göre matematik dersi alması)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Formal eğitim; hedefleri yazılı, kurumsal mekânda ve uzman eğiticiler tarafından yürütülen eğitimdir. Okulda resmi programa göre matematik dersi almak tipik bir formal (örgün) eğitim etkinliğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Çocuğun ailesini gözlemleyerek sofra kurallarını öğrenmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Aile ortamında plansız gerçekleşen <em>informal eğitim</em>dir.<br>• <strong>B) Bireyin arkadaşından argo kelimeler öğrenmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Akran çevresinde kendiliğinden gerçekleşen <em>informal eğitim</em>dir.<br>• <strong>D) Çocuğun televizyondaki bir davranışı taklit etmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Medya yoluyla gerçekleşen plansız <em>informal eğitim</em>dir.<br>• <strong>E) Bireyin çevresindeki insanlardan görgü kurallarını öğrenmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Toplumsal etkileşimle oluşan <em>informal eğitim</em>dir."
+  },
+  {
+    "id": "egitim_video_test_2_q3",
+    "questionNumber": 3,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir çocuk, anne ve babasını gözlemleyerek misafirlere nasıl davranması gerektiğini öğrenmiştir. Bu durum aşağıdaki eğitim türlerinden hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Formal eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Programlı eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Mesleki eğitim"
+      },
+      {
+        "key": "D",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Hizmet içi eğitim"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (İnformal eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Çocuğun ev ortamında anne babasını gözlemleyerek misafirlere nasıl davranacağını öğrenmesi; planlı bir ders veya sınav olmaksızın, günlük yaşamın doğal akışında rol model alma yoluyla gerçekleştiği için <strong>İnformal Eğitim</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Formal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Yazılı program ve uzman gerektirir.<br>• <strong>B) Programlı eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Skinner'ın küçük adımlar ilkesine dayalı bireysel öğretim tekniğidir.<br>• <strong>C) Mesleki eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bir mesleğin icrasına yönelik planlı eğitimdir.<br>• <strong>E) Hizmet içi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Çalışılan kurum tarafından personele verilen mesleki eğitimdir."
+  },
+  {
+    "id": "egitim_video_test_2_q4",
+    "questionNumber": 4,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Formal eğitimde sürecin belirlenen amaçlara ulaşıp ulaşmadığının kontrol edilmesi aşağıdaki özelliklerden hangisiyle ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Değerlendirme yapılması"
+      },
+      {
+        "key": "B",
+        "text": "Kendiliğinden gerçekleşmesi"
+      },
+      {
+        "key": "C",
+        "text": "Zamanın değişken olması"
+      },
+      {
+        "key": "D",
+        "text": "Davranışların tesadüfi olması"
+      },
+      {
+        "key": "E",
+        "text": "Doğal bir süreç olması"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Değerlendirme yapılması)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Formal eğitimde sürecin planlanan hedeflere ulaşıp ulaşmadığının, eksik ve hataların neler olduğunun sınavlar, testler ve gözlemlerle kontrol edilmesi <strong>Değerlendirme Yapılması</strong> özelliğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Kendiliğinden gerçekleşmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İnformal eğitime aittir; formal eğitim kasıtlıdır.<br>• <strong>C) Zamanın değişken olması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Formal eğitimde ders süreleri ve takvim belirlidir.<br>• <strong>D) Davranışların tesadüfi olması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İnformal eğitime aittir.<br>• <strong>E) Doğal bir süreç olması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İnformal eğitimin özelliğidir; formal eğitim yapılandırılmıştır."
+  },
+  {
+    "id": "egitim_video_test_2_q5",
+    "questionNumber": 5,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi informal eğitimin temel özelliklerinden biridir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Önceden hazırlanmış bir programa dayanması"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen rehberliğinde gerçekleştirilmesi"
+      },
+      {
+        "key": "C",
+        "text": "Belirli hedefleri gerçekleştirmeyi amaçlaması"
+      },
+      {
+        "key": "D",
+        "text": "Süreç sonunda sınav uygulanması"
+      },
+      {
+        "key": "E",
+        "text": "Doğal ve kendiliğinden gerçekleşmesi"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğal ve kendiliğinden gerçekleşmesi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • İnformal eğitim; herhangi bir yazılı müfredat, öğretmen veya okul duvarı olmaksızın, hayatın olağan akışında <strong>doğal ve kendiliğinden</strong> gelişir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Önceden hazırlanmış bir programa dayanması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Formal eğitimin özelliğidir.<br>• <strong>B) Öğretmen rehberliğinde gerçekleştirilmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Formal eğitimin özelliğidir.<br>• <strong>C) Belirli hedefleri gerçekleştirmeyi amaçlaması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Formal eğitimin özelliğidir.<br>• <strong>D) Süreç sonunda sınav uygulanması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Formal eğitimin özelliğidir."
+  },
+  {
+    "id": "egitim_video_test_2_q6",
+    "questionNumber": 6,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Formal eğitim ile informal eğitimin ortak özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Planlı ve programlı olmaları"
+      },
+      {
+        "key": "B",
+        "text": "Uzman kişilerce yürütülmeleri"
+      },
+      {
+        "key": "C",
+        "text": "Bireyde davranış değişikliği meydana getirmeleri"
+      },
+      {
+        "key": "D",
+        "text": "Belirli bir ortamda gerçekleşmeleri"
+      },
+      {
+        "key": "E",
+        "text": "Süreç sonunda değerlendirme yapılması ."
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bireyde davranış değişikliği meydana getirmeleri)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Formal eğitim de informal eğitim de en nihayetinde birer eğitim sürecidir. Her iki süreç de bireyin yaşantıları sonucunda onda <strong>davranış değişikliği meydana getirme</strong> ortak paydasında birleşir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Planlı ve programlı olmaları (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yalnızca formal eğitime aittir.<br>• <strong>B) Uzman kişilerce yürütülmeleri (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yalnızca formal eğitime aittir.<br>• <strong>D) Belirli bir ortamda gerçekleşmeleri (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yalnızca formal eğitime aittir (okul, kurs); informal eğitim her yerdedir.<br>• <strong>E) Süreç sonunda değerlendirme yapılması . (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yalnızca formal eğitime aittir."
+  },
+  {
+    "id": "egitim_video_test_2_q7",
+    "questionNumber": 7,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir kurumun çalışanlarına belirli tarihlerde, uzmanlar tarafından iş güvenliği eğitimi vermesi aşağıdaki eğitim türlerinden hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Tesadüfi eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Formal eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Aile eğitimi"
+      },
+      {
+        "key": "E",
+        "text": "Kendiliğinden eğitim"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Formal eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bir kurumun çalışanlarına belirli bir takvim ve program dahilinde, uzman kişilerce iş güvenliği eğitimi vermesi; hedefe yönelik, planlı ve profesyonelce yürütüldüğü için <strong>Formal Eğitim</strong> (ve yaygın/hizmet içi eğitim) niteliğindedir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İnformal eğitim (Yanlış):</strong> </strong> Yanlış. Plansız ve kendiliğinden değildir.<br>• <strong>B) Tesadüfi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Önceden takvimi ve konusu belirlenmiştir.<br>• <strong>D) Aile eğitimi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Kurumsal iş güvenliği eğitimi ailede verilmez.<br>• <strong>E) Kendiliğinden eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Kurum tarafından organize edilmiştir."
+  },
+  {
+    "id": "egitim_video_test_2_q8",
+    "questionNumber": 8,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İnformal eğitimde bireyin kazanacağı davranışların olumlu veya olumsuz olabilmesinin temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sürecin öğretmen tarafından yönetilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Belirli hedeflere dayanması"
+      },
+      {
+        "key": "C",
+        "text": "Kasıtlı ve planlı olmaması"
+      },
+      {
+        "key": "D",
+        "text": "Ölçme araçlarının kullanılması"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca okulda gerçekleştirilmesi"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kasıtlı ve planlı olmaması)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzda açıkça belirtildiği gibi: İnformal eğitimde önceden belirlenmiş bir amaç, müfredat ve denetim mekanizması bulunmadığı için (kasıtlı ve planlı olmaması sebebiyle) birey çevresinden hem olumlu (yardımlaşma, nezaket) hem de olumsuz (küfür, sigara, şiddet) davranışlar kazanabilir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Sürecin öğretmen tarafından yönetilmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. İnformal eğitimde öğretmen yoktur.<br>• <strong>B) Belirli hedeflere dayanması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. İnformal eğitimin önceden belirlenmiş hedefi yoktur.<br>• <strong>D) Ölçme araçlarının kullanılması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. İnformal eğitimde ölçme aracı kullanılmaz.<br>• <strong>E) Yalnızca okulda gerçekleştirilmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. İnformal eğitim okul dışı doğal ortamlarda gerçekleşir."
+  },
+  {
+    "id": "egitim_video_test_2_q9",
+    "questionNumber": 9,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Okulda ders işlenmesi – İnformal eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Aileden geleneklerin öğrenilmesi – Formal eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Kursta yabancı dil öğrenilmesi – İnformal eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Arkadaş grubundan davranış kazanılması – İnformal eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Uzman gözetiminde eğitim alınması – Tesadüfi eğitim"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Arkadaş grubundan davranış kazanılması – İnformal eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Arkadaş çevresinde gözlem, taklit ve sohbetlerle kendiliğinden edinilen tutum ve davranışlar plansız olduğu için doğrudan <strong>İnformal Eğitim</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Okulda ders işlenmesi – İnformal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Okuldaki ders <em>formal eğitim</em>dir.<br>• <strong>B) Aileden geleneklerin öğrenilmesi – Formal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Ailedeki gelenek aktarımı <em>informal eğitim</em>dir.<br>• <strong>C) Kursta yabancı dil öğrenilmesi – İnformal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Kurstaki eğitim planlı <em>yaygın (formal) eğitim</em>dir.<br>• <strong>E) Uzman gözetiminde eğitim alınması – Tesadüfi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Uzman gözetimi <em>formal eğitim</em>dir."
+  },
+  {
+    "id": "egitim_video_test_2_q10",
+    "questionNumber": 10,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Planlanışına göre eğitim, öncelikle hangi iki gruba ayrılır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Örgün eğitim – Yaygın eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Formal eğitim – İnformal eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Bireysel eğitim – Toplumsal eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Genel eğitim – Mesleki eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Hizmet öncesi eğitim – Hizmet içi eğitim"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Formal eğitim – İnformal eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Eğitim sistemi planlılık durumuna göre en üst hiyerarşide iki ana kola ayrılır: <strong>Formal Eğitim</strong> (planlı-programlı) ve <strong>İnformal Eğitim</strong> (plansız-kendiliğinden).<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Örgün eğitim – Yaygın eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bunlar eğitimin değil, <em>formal eğitimin</em> kendi içindeki iki alt koludur.<br>• <strong>C) Bireysel eğitim – Toplumsal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Eğitimin işlevlerine ilişkin bir ayrımdır.<br>• <strong>D) Genel eğitim – Mesleki eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Eğitimin içeriğine ve amacına ilişkin bir ayrımdır.<br>• <strong>E) Hizmet öncesi eğitim – Hizmet içi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Mesleki eğitimin zamanlamasına ilişkin alt ayrımdır."
+  },
+  {
+    "id": "egitim_video_test_2_q11",
+    "questionNumber": 11,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Formal eğitim kendi içinde hangi iki gruba ayrılır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Genel eğitim – Özel eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Bireysel eğitim – Toplumsal eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Örgün eğitim – Yaygın eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Planlı eğitim – Plansız eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Mesleki eğitim – Teknik eğitim"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Örgün eğitim – Yaygın eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Formal eğitim (planlı-programlı eğitim) 1739 sayılı Milli Eğitim Temel Kanunu'nda da belirtildiği üzere iki ana grupta toplanır: <strong>Örgün Eğitim</strong> ve <strong>Yaygın Eğitim</strong>.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Genel eğitim – Özel eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bireylerin özel gereksinimlerine göre yapılan ayrımdır.<br>• <strong>B) Bireysel eğitim – Toplumsal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. İşlevsel ayrımdır.<br>• <strong>D) Planlı eğitim – Plansız eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Formal eğitim zaten tamamen planlıdır.<br>• <strong>E) Mesleki eğitim – Teknik eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Örgün ve yaygın eğitimdeki okul/alan türleridir."
+  },
+  {
+    "id": "egitim_video_test_2_q12",
+    "questionNumber": 12,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Belirli yaş gruplarındaki bireylere, okullarda birbirini takip eden eğitim basamakları hâlinde verilen eğitim aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Yaygın eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Hizmet içi eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Örgün eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Halk eğitimi"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Örgün eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Belirli yaş gruplarındaki bireylere, okul çatısı altında, birbirini takip eden ve birbirinin ön koşulu olan kademeler (okul öncesi, ilkokul, ortaokul, lise, yükseköğretim) halinde verilen ve diploma kazandıran eğitim <strong>Örgün Eğitim</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İnformal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Plansız, okul dışı eğitimdir.<br>• <strong>B) Yaygın eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Kademeli olmayan, yaş sınırı bulunmayan kurslardır.<br>• <strong>C) Hizmet içi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Kurum çalışanlarına yönelik mesleki kurslardır.<br>• <strong>E) Halk eğitimi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Kişisel gelişim odaklı yaygın eğitimdir."
+  },
+  {
+    "id": "egitim_video_test_2_q13",
+    "questionNumber": 13,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Üniversitede lisans eğitimi alan bir öğrencinin katıldığı eğitim aşağıdakilerden hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Örgün eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Halk eğitimi"
+      },
+      {
+        "key": "D",
+        "text": "Hizmet içi eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Kendiliğinden eğitim"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Örgün eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzun 'Unutmayınız' kutusunda açıkça yazılmıştır: <em>Üniversitede alınan lisans/öğretmenlik eğitimi doğrudan örgün eğitimdir.</em> Çünkü kademelidir, yaş grubu belirlidir ve sonunda lisans diploması verir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İnformal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Üniversite resmi, planlı bir kurumdur.<br>• <strong>C) Halk eğitimi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Diploma değil sertifika veren serbest yaygın eğitimdir.<br>• <strong>D) Hizmet içi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Henüz işe başlamamış öğrencinin lisans eğitimi hizmet öncesidir.<br>• <strong>E) Kendiliğinden eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Üniversite organize bir formal yapıdır."
+  },
+  {
+    "id": "egitim_video_test_2_q14",
+    "questionNumber": 14,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Örgün eğitim sistemine hiç girmemiş, sistemin herhangi bir basamağından ayrılmış veya belirli bir alanda kendisini geliştirmek isteyen bireylere verilen eğitim aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yaygın eğitim"
+      },
+      {
+        "key": "B",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Örgün eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Okul öncesi eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Yükseköğretim"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yaygın eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1739 Sayılı Kanuna göre: Örgün eğitim sistemine hiç girmemiş, herhangi bir basamağından ayrılmış ya da örgün eğitimde bulunup da belirli bir alanda kendini geliştirmek isteyen her yaştaki bireye verilen eğitim <strong>Yaygın Eğitim</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) İnformal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Plansız, programsız sokak/çevre öğrenmeleridir.<br>• <strong>C) Örgün eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yaş ve kademe sınırlaması olan okul eğitimidir.<br>• <strong>D) Okul öncesi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Örgün eğitimin ilk basamağıdır.<br>• <strong>E) Yükseköğretim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Örgün eğitimin en üst basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_2_q15",
+    "questionNumber": 15,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir kurumun çalışanlarına yeni kullanılmaya başlanan bilgisayar programını öğretmek amacıyla kurs düzenlemesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Halk eğitimi"
+      },
+      {
+        "key": "B",
+        "text": "Örgün eğitim"
+      },
+      {
+        "key": "C",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Hizmet içi eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Yükseköğretim"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Hizmet içi eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bir kurumun çalışanlarının mesleki yeterliklerini geliştirmek, yeni teknolojilere (yazılım, otomasyon vb.) uyum sağlamalarını temin etmek amacıyla bizzat kurum tarafından düzenlenen eğitimlere <strong>Hizmet İçi Eğitim</strong> denir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Halk eğitimi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireyin kendi iradesiyle kişisel hobisi için gittiği kurstur.<br>• <strong>B) Örgün eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Okul ve üniversite basamaklarıdır.<br>• <strong>C) İnformal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Plansız ve kendiliğinden öğrenmedir.<br>• <strong>E) Yükseköğretim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Üniversite eğitimidir."
+  },
+  {
+    "id": "egitim_video_test_2_q16",
+    "questionNumber": 16,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Anaokulu – Yaygın eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Üniversite – İnformal eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Halk eğitim merkezi kursu – Yaygın eğitim"
+      },
+      {
+        "key": "D",
+        "text": "İlkokul – Hizmet içi eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Arkadaş çevresinden davranış kazanma – Örgün eğitim"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Halk eğitim merkezi kursu – Yaygın eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Halk eğitimi merkezlerinde açılan meslek edindirme, hobi, yabancı dil ve okuma-yazma kursları MEB Hayat Boyu Öğrenme Genel Müdürlüğü çatısı altındaki tipik <strong>Yaygın Eğitim</strong> uygulamalarıdır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Anaokulu – Yaygın eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Anaokulu <em>örgün eğitim</em> basamağıdır.<br>• <strong>B) Üniversite – İnformal eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Üniversite <em>örgün eğitim</em>dir.<br>• <strong>D) İlkokul – Hizmet içi eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. İlkokul <em>örgün eğitim</em>dir.<br>• <strong>E) Arkadaş çevresinden davranış kazanma – Örgün eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. <em>İnformal eğitim</em>dir."
+  },
+  {
+    "id": "egitim_video_test_2_q17",
+    "questionNumber": 17,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Örgün eğitim ile yaygın eğitimin ortak özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Belirli yaş gruplarıyla sınırlı olmaları"
+      },
+      {
+        "key": "B",
+        "text": "Okullarda gerçekleştirilme zorunluluğu"
+      },
+      {
+        "key": "C",
+        "text": "Birbirini izleyen eğitim kademelerinden oluşmaları"
+      },
+      {
+        "key": "D",
+        "text": "Planlı ve programlı olmaları"
+      },
+      {
+        "key": "E",
+        "text": "Günlük yaşamda kendiliğinden gerçekleşmeleri"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Planlı ve programlı olmaları)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Hem örgün eğitim hem de yaygın eğitim, <strong>Formal Eğitim</strong> ana çatısı altında yer aldıklarından her ikisi de yazılı bir plana, hedeflere, uzman eğiticilere ve değerlendirme ölçütlerine sahiptir (planlı ve programlıdır).<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Belirli yaş gruplarıyla sınırlı olmaları (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yalnızca örgün eğitime aittir; yaygın eğitimde yaş sınırı yoktur.<br>• <strong>B) Okullarda gerçekleştirilme zorunluluğu (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yalnızca örgün eğitime aittir.<br>• <strong>C) Birbirini izleyen eğitim kademelerinden oluşmaları (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yalnızca örgün eğitime aittir.<br>• <strong>E) Günlük yaşamda kendiliğinden gerçekleşmeleri (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İnformal eğitime aittir."
+  },
+  {
+    "id": "egitim_video_test_2_q18",
+    "questionNumber": 18,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki kişilerden hangisi yaygın eğitim faaliyetine katılmaktadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Anaokulunda eğitim gören bir çocuk"
+      },
+      {
+        "key": "B",
+        "text": "Ortaokulda öğrenim gören bir öğrenci"
+      },
+      {
+        "key": "C",
+        "text": "Üniversitede lisans eğitimi alan bir genç"
+      },
+      {
+        "key": "D",
+        "text": "Halk eğitim merkezinde yabancı dil kursuna giden bir yetişkin"
+      },
+      {
+        "key": "E",
+        "text": "Ailesini gözlemleyerek yemek yapmayı öğrenen bir çocuk"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Halk eğitim merkezinde yabancı dil kursuna giden bir yetişkin)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bir yetişkinin halk eğitim merkezinde yabancı dil kursuna katılması, örgün eğitim dışındaki sertifika odaklı tipik bir <strong>yaygın eğitim</strong> (halk eğitimi) faaliyetidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Anaokulunda eğitim gören bir çocuk (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Örgün eğitimdedir.<br>• <strong>B) Ortaokulda öğrenim gören bir öğrenci (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Örgün eğitimdedir.<br>• <strong>C) Üniversitede lisans eğitimi alan bir genç (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Örgün eğitimdedir.<br>• <strong>E) Ailesini gözlemleyerek yemek yapmayı öğrenen bir çocuk (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İnformal eğitimdedir."
+  },
+  {
+    "id": "egitim_video_test_2_q19",
+    "questionNumber": 19,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Örgün eğitim ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Formal eğitim kapsamında yer alır."
+      },
+      {
+        "key": "B",
+        "text": "Belirli eğitim kademelerinden oluşur."
+      },
+      {
+        "key": "C",
+        "text": "Planlı ve programlı biçimde yürütülür."
+      },
+      {
+        "key": "D",
+        "text": "Okul öncesinden yükseköğretime kadar uzanabilir."
+      },
+      {
+        "key": "E",
+        "text": "Herhangi bir yaş ve kademe sınırlaması olmadan yürütülür."
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Herhangi bir yaş ve kademe sınırlaması olmadan yürütülür.)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Örgün eğitimde yaş grupları (ilkokul 6-10 yaş, lise 14-18 yaş vb.) ve kademe aşamalılığı (ilkokulu bitirmeden ortaokula geçilemez) kanunla kesin olarak sınırlandırılmıştır. Herhangi bir yaş ve kademe sınırlaması olmadan yürütülen yapı ise <strong>yaygın eğitim</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Formal eğitim kapsamında yer alır. (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğrudur.<br>• <strong>B) Belirli eğitim kademelerinden oluşur. (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğrudur (okul öncesi, ilkokul, ortaokul, lise, lisans).<br>• <strong>C) Planlı ve programlı biçimde yürütülür. (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğrudur.<br>• <strong>D) Okul öncesinden yükseköğretime kadar uzanabilir. (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğrudur."
+  },
+  {
+    "id": "egitim_video_test_2_q20",
+    "questionNumber": 20,
+    "testId": "egitim_video_test_2",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 2 (Eğitim Türleri)",
+    "topicId": "egitim_video_test_2",
+    "topicName": "Eğitim Bilimleri - Eğitim Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir yetişkin sırasıyla üniversitede lisans eğitimi almış, çalışmaya başladıktan sonra kurumunun düzenlediği mesleki gelişim kursuna katılmıştır. Bu kişinin aldığı eğitimlerin türleri sırasıyla hangileridir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yaygın eğitim – İnformal eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Örgün eğitim – Hizmet içi eğitim"
+      },
+      {
+        "key": "C",
+        "text": "İnformal eğitim – Örgün eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Hizmet içi eğitim – Yaygın eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Halk eğitimi – Örgün eğitim"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Örgün eğitim – Hizmet içi eğitim)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Aşama: Üniversitede lisans diploması almak ➡️ <strong>Örgün Eğitim</strong>dir.<br>\n• 2. Aşama: Çalıştığı kurumun organize ettiği mesleki gelişim kursuna katılmak ➡️ <strong>Hizmet İçi Eğitim</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Yaygın eğitim – İnformal eğitim (Yanlış):</strong> </strong> Yanlış. Üniversite yaygın değildir, kurum kursu informal değildir.<br>• <strong>C) İnformal eğitim – Örgün eğitim (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Her iki aşama da formaldir.<br>• <strong>D) Hizmet içi eğitim – Yaygın eğitim (Yanlış):</strong> </strong> Yanlış. Sıralama terstir ve üniversite hizmet içi değildir.<br>• <strong>E) Halk eğitimi – Örgün eğitim (Yanlış):</strong> </strong> Yanlış. Üniversite halk eğitimi değildir."
+  },
+  {
+    "id": "egitim_video_test_3_q1",
+    "questionNumber": 1,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Posner’ın program sınıflandırmasına göre Talim ve Terbiye Kurulu tarafından hazırlanarak okullara gönderilen program aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Örtük program"
+      },
+      {
+        "key": "B",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "C",
+        "text": "Resmî program"
+      },
+      {
+        "key": "D",
+        "text": "Geçersiz program"
+      },
+      {
+        "key": "E",
+        "text": "Uygulamadaki program"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Resmî program)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. ve 2. Ders notlarımızda belirtildiği üzere: Millî Eğitim Bakanlığı ve Talim ve Terbiye Kurulu Başkanlığı (TTKB) tarafından hazırlanan, devletin eğitim politikasını yansıtan ve okullara uygulanmak üzere gönderilen yazılı, bağlayıcı çerçeveye <strong>Resmî Program</strong> denir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Örtük program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Yazılı olmayan; okul iklimi ve öğretmen tutumlarıyla informal kazanılan değerlerdir.<br>• <strong>B) Ekstra program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Resmî program dışındaki okul korosu, tiyatro, kulüp gibi planlı etkinliklerdir.<br>• <strong>D) Geçersiz program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Programda olmasına rağmen öğretilmeyen, atlanan konulardır.<br>• <strong>E) Uygulamadaki program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Resmî programın sınıfta fiilen hayata geçirilen boyutudur."
+  },
+  {
+    "id": "egitim_video_test_3_q2",
+    "questionNumber": 2,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi resmî programın özelliklerinden biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yazılı olması"
+      },
+      {
+        "key": "B",
+        "text": "Zorunlu olması"
+      },
+      {
+        "key": "C",
+        "text": "Ülkenin eğitim politikalarını yansıtması"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmenin sınıfta gerçekleştirdiği etkinliklerden oluşması"
+      },
+      {
+        "key": "E",
+        "text": "Okullara uygulanmak üzere gönderilmesi"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğretmenin sınıfta gerçekleştirdiği etkinliklerden oluşması)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Resmî program kağıt üzerindeki yazılı ve soyut tasarıdır. Öğretmenin sınıfta kendi performansı ve imkanlarıyla fiilen hayata geçirdiği etkinlikler bütünü resmî program değil, <strong>Uygulamadaki (İşlevsel / Gerçekleşen) Program</strong>dır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Yazılı olması (Yanlış):</strong> </strong> Resmî programın temel özelliğidir.<br>• <strong>B) Zorunlu olması (Yanlış):</strong> </strong> Resmî programın yasal özelliğidir.<br>• <strong>C) Ülkenin eğitim politikalarını yansıtması (Yanlış):</strong> </strong> Resmî programın özelliğidir.<br>• <strong>E) Okullara uygulanmak üzere gönderilmesi (Yanlış):</strong> </strong> Resmî programın özelliğidir."
+  },
+  {
+    "id": "egitim_video_test_3_q3",
+    "questionNumber": 3,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğretmenin resmî programı temel alarak sınıf içinde gerçekleştirdiği öğretme-öğrenme etkinliklerinin bütünü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "B",
+        "text": "Örtük program"
+      },
+      {
+        "key": "C",
+        "text": "Geçersiz program"
+      },
+      {
+        "key": "D",
+        "text": "Uygulamadaki program"
+      },
+      {
+        "key": "E",
+        "text": "Resmî program"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Uygulamadaki program)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Öğretmenin resmî programı kılavuz edinerek sınıf kapısı kapandıktan sonra kendi yetkinliği, materyalleri ve öğrencileriyle fiilen gerçekleştirdiği etkinlikler <strong>Uygulamadaki (İşlevsel / Gerçekleşen) Program</strong>dır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Ekstra program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Resmî ders saatleri dışındaki planlı kulüp ve sosyal faaliyetlerdir.<br>• <strong>B) Örtük program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yazılı olmayan informal okul iklimi ve tutumlarıdır.<br>• <strong>C) Geçersiz program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilinçli olarak atlanan veya işlenmeyen konulardır.<br>• <strong>E) Resmî program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> TTKB'nin hazırladığı yazılı ve bağlayıcı tasarıdır."
+  },
+  {
+    "id": "egitim_video_test_3_q4",
+    "questionNumber": 4,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Resmî program ile uygulamadaki program arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî program yazılı çerçeveyi, uygulamadaki program ise sınıfta gerçekleştirilen süreci ifade eder."
+      },
+      {
+        "key": "B",
+        "text": "Resmî program gönüllü, uygulamadaki program zorunludur."
+      },
+      {
+        "key": "C",
+        "text": "Resmî program okul dışında, uygulamadaki program okulda yürütülür."
+      },
+      {
+        "key": "D",
+        "text": "Resmî program yazılı değildir, uygulamadaki program yazılıdır."
+      },
+      {
+        "key": "E",
+        "text": "Resmî program yalnızca sosyal etkinliklerden oluşur."
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Resmî program yazılı çerçeveyi, uygulamadaki program ise sınıfta gerçekleştirilen süreci ifade eder.)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzun Posner tablosunda açıkça belirtildiği gibi: Resmî program 'tasarlanan/yazılı ideali', uygulamadaki program ise 'sınıf ortamında fiilen somutlaşan gerçeği' ifade eder.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Resmî program gönüllü, uygulamadaki program zorunludur. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Resmî program yasal ve zorunludur.<br>• <strong>C) Resmî program okul dışında, uygulamadaki program okulda yürütülür. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Her ikisi de okul ve sınıf odaklıdır.<br>• <strong>D) Resmî program yazılı değildir, uygulamadaki program yazılıdır. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Resmî program yazılıdır, uygulamadaki ise eylemdir.<br>• <strong>E) Resmî program yalnızca sosyal etkinliklerden oluşur. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Sosyal etkinlikler ekstra programa aittir."
+  },
+  {
+    "id": "egitim_video_test_3_q5",
+    "questionNumber": 5,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yazılı olmayan; okulun ortamı, kuralları ve iklimi aracılığıyla öğrencilere değer, tutum ve alışkanlık kazandıran program aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî program"
+      },
+      {
+        "key": "B",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "C",
+        "text": "Örtük program"
+      },
+      {
+        "key": "D",
+        "text": "Uygulamadaki program"
+      },
+      {
+        "key": "E",
+        "text": "Geçersiz program"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Örtük program)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Yazılı metinlerde yer almayan; okulun fiziki ortamı, okul iklimi, öğretmenlerin tutum ve mimikleri, kurallar ve sınıf içi sosyal etkileşimle öğrencilere kazandırılan değer, inanç ve tutumlara <strong>Örtük (Gizli / İnformal) Program</strong> denir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Resmî program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yazılı, onaylı devlet programıdır.<br>• <strong>B) Ekstra program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Resmî program dışındaki planlı kulüp/sosyal etkinliklerdir.<br>• <strong>D) Uygulamadaki program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Resmî derslerin sınıfta fiilen işlenen halidir.<br>• <strong>E) Geçersiz program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Programda yer alıp da işlenmeyen konulardır."
+  },
+  {
+    "id": "egitim_video_test_3_q6",
+    "questionNumber": 6,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi örtük programın oluşmasında etkili olan unsurlardan biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Okul iklimi"
+      },
+      {
+        "key": "B",
+        "text": "Okul kuralları"
+      },
+      {
+        "key": "C",
+        "text": "Öğretmen-öğrenci ilişkileri"
+      },
+      {
+        "key": "D",
+        "text": "Okul ortamı"
+      },
+      {
+        "key": "E",
+        "text": "Talim ve Terbiye Kurulunun yazılı kazanımları"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Talim ve Terbiye Kurulunun yazılı kazanımları)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Örtük programın temel özelliği yazılı olmamasıdır. Talim ve Terbiye Kurulunun yazılı kazanımları doğrudan <strong>Resmî Program</strong>ın unsurudur; örtük programın kaynağı olamaz.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Okul iklimi (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Örtük programı şekillendiren en güçlü unsurdur.<br>• <strong>B) Okul kuralları (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Yazılı olmayan ya da okul içi disiplin kültürü örtük öğrenmeyi besler.<br>• <strong>C) Öğretmen-öğrenci ilişkileri (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Öğretmenin model kişiliği örtük programın kaynağıdır.<br>• <strong>D) Okul ortamı (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Fiziki mekan düzeni örtük mesajlar verir."
+  },
+  {
+    "id": "egitim_video_test_3_q7",
+    "questionNumber": 7,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Resmî programın dışında yer alan ancak önceden planlanarak gerçekleştirilen sosyal, kültürel, sportif ve sanatsal çalışmalar hangi program kapsamındadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Geçersiz program"
+      },
+      {
+        "key": "B",
+        "text": "Örtük program"
+      },
+      {
+        "key": "C",
+        "text": "Uygulamadaki program"
+      },
+      {
+        "key": "D",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "E",
+        "text": "Resmî program"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ekstra program)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Resmî ders programında bulunmayan fakat okul yönetiminin onayıyla, öğretmenlerin gözetiminde önceden planlanarak yürütülen tiyatro, gezi, turnuva, koro ve TÜBİTAK projeleri gibi ders dışı faaliyetler <strong>Ekstra Program</strong>dır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Geçersiz program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İşlenmeyen, atlanan konulardır.<br>• <strong>B) Örtük program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yazılı ve planlı olmayan okul iklimi etkileridir.<br>• <strong>C) Uygulamadaki program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Resmî derslerin sınıftaki somut uygulamasıdır.<br>• <strong>E) Resmî program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> TTKB'nin yazılı zorunlu ders çizelgesidir."
+  },
+  {
+    "id": "egitim_video_test_3_q8",
+    "questionNumber": 8,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi ekstra programa örnek gösterilebilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmenin matematik kazanımlarını işlemesi"
+      },
+      {
+        "key": "B",
+        "text": "Öğrencilerin okul kurallarını benimsemesi"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencinin resmî programdaki bir konuyu öğrenmesi"
+      },
+      {
+        "key": "D",
+        "text": "Okul korosuna gönüllü olarak katılması"
+      },
+      {
+        "key": "E",
+        "text": "Bir konunun öğretmen tarafından atlanması"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Okul korosuna gönüllü olarak katılması)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Öğrencinin okul korosuna, tiyatro grubuna veya spor takımına gönüllü ve planlı biçimde katılması doğrudan <strong>Ekstra Program</strong> örneğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Öğretmenin matematik kazanımlarını işlemesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Uygulamadaki programdır.<br>• <strong>B) Öğrencilerin okul kurallarını benimsemesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Örtük programdır.<br>• <strong>C) Öğrencinin resmî programdaki bir konuyu öğrenmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Resmî / uygulamadaki programdır.<br>• <strong>E) Bir konunun öğretmen tarafından atlanması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Geçersiz (ihmal edilen) programdır."
+  },
+  {
+    "id": "egitim_video_test_3_q9",
+    "questionNumber": 9,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Ekstra programla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yazılı olmayan okul kurallarından oluşur."
+      },
+      {
+        "key": "B",
+        "text": "Kasıtlı olarak öğretilmeyen konuları kapsar."
+      },
+      {
+        "key": "C",
+        "text": "Resmî program dışında planlanan etkinlikleri kapsar."
+      },
+      {
+        "key": "D",
+        "text": "Yalnızca sınıf içinde gerçekleştirilir."
+      },
+      {
+        "key": "E",
+        "text": "Katılımın zorunlu olduğu derslerden oluşur."
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Resmî program dışında planlanan etkinlikleri kapsar.)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Ekstra programın örtük programdan farkı, <strong>önceden planlanmış ve organize edilmiş</strong> olmasıdır. Resmî ders programı dışındaki planlı tüm sosyal-sportif faaliyetleri kapsar.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Yazılı olmayan okul kurallarından oluşur. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bu örtük programdır.<br>• <strong>B) Kasıtlı olarak öğretilmeyen konuları kapsar. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bu geçersiz programdır.<br>• <strong>D) Yalnızca sınıf içinde gerçekleştirilir. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Genellikle sınıf dışında, salonda, bahçede yapılır.<br>• <strong>E) Katılımın zorunlu olduğu derslerden oluşur. (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Ekstra programda gönüllülük esastır."
+  },
+  {
+    "id": "egitim_video_test_3_q10",
+    "questionNumber": 10,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Resmî programda bulunmasına rağmen öğretmenin zaman yetersizliği nedeniyle bir kazanımı işlememesi hangi program türüne örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî program"
+      },
+      {
+        "key": "B",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "C",
+        "text": "Örtük program"
+      },
+      {
+        "key": "D",
+        "text": "Uygulamadaki program"
+      },
+      {
+        "key": "E",
+        "text": "Geçersiz program"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Geçersiz program)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Resmî öğretim programında yer almasına karşılık; öğretmenin zaman yetersizliği, donanım eksikliği, konuyu bilmemesi ya da 'sınavda çıkmıyor' diyerek atladığı, işlemediği kısımlara <strong>Geçersiz (İhmal Edilen / Null) Program</strong> denir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Resmî program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yazılı çerçevedir.<br>• <strong>B) Ekstra program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Ders dışı planlı etkinliklerdir.<br>• <strong>C) Örtük program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İklim ve tutumlarla kazanılan örtük değerlerdir.<br>• <strong>D) Uygulamadaki program (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Sınıfta işlenen kısımdır."
+  },
+  {
+    "id": "egitim_video_test_3_q11",
+    "questionNumber": 11,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi geçersiz program kapsamında değerlendirilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencinin okul tiyatrosuna katılması"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmenin bazı konuları bilinçli olarak işlememesi"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencilerin okul ikliminden etkilenmesi"
+      },
+      {
+        "key": "D",
+        "text": "Talim ve Terbiye Kurulunun program hazırlaması"
+      },
+      {
+        "key": "E",
+        "text": "Öğretmenin programdaki bütün kazanımları uygulaması"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğretmenin bazı konuları bilinçli olarak işlememesi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Öğretmenin müfredattaki bazı kazanım veya üniteleri bilinçli olarak atlaması, işlememesi veya üzerini örtmesi <strong>Geçersiz (İhmal Edilen) Program</strong> kapsamındadır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Öğrencinin okul tiyatrosuna katılması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Ekstra programdır.<br>• <strong>C) Öğrencilerin okul ikliminden etkilenmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Örtük programdır.<br>• <strong>D) Talim ve Terbiye Kurulunun program hazırlaması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Resmî programdır.<br>• <strong>E) Öğretmenin programdaki bütün kazanımları uygulaması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Başarılı uygulamadaki programdır."
+  },
+  {
+    "id": "egitim_video_test_3_q12",
+    "questionNumber": 12,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir okulda aşağıdaki uygulamalar yapılmıştır: I. Öğretmen, resmî programdaki kazanımları sınıfta işlemiştir. II. Öğrenciler gönüllü olarak tiyatro kulübüne katılmıştır. III. Öğretmen, programdaki bir üniteyi zaman yetersizliği nedeniyle atlamıştır. Bu uygulamalar sırasıyla hangi program türlerine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî – Örtük – Ekstra"
+      },
+      {
+        "key": "B",
+        "text": "Uygulamadaki – Ekstra – Geçersiz"
+      },
+      {
+        "key": "C",
+        "text": "Örtük – Resmî – Uygulamadaki"
+      },
+      {
+        "key": "D",
+        "text": "Ekstra – Uygulamadaki – Örtük"
+      },
+      {
+        "key": "E",
+        "text": "Uygulamadaki – Geçersiz – Resmî"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Uygulamadaki – Ekstra – Geçersiz)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • I. Resmî programdaki kazanımların sınıfta işlenmesi ➡️ <strong>Uygulamadaki Program</strong><br>\n• II. Öğrencilerin gönüllü tiyatro kulübüne katılması ➡️ <strong>Ekstra Program</strong><br>\n• III. Ünitenin zaman yetersizliği nedeniyle atlanması ➡️ <strong>Geçersiz Program</strong><br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Resmî – Örtük – Ekstra (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış eşleştirme.<br>• <strong>C) Örtük – Resmî – Uygulamadaki (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış eşleştirme.<br>• <strong>D) Ekstra – Uygulamadaki – Örtük (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış eşleştirme.<br>• <strong>E) Uygulamadaki – Geçersiz – Resmî (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış eşleştirme."
+  },
+  {
+    "id": "egitim_video_test_3_q13",
+    "questionNumber": 13,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Geçmişte uygulanan eğitim programlarının incelenmesi ve bu programlardan elde edilen deneyimlerin yeni programlara yansıtılması, program geliştirmenin hangi temeliyle ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Psikolojik temel"
+      },
+      {
+        "key": "B",
+        "text": "Bireysel temel"
+      },
+      {
+        "key": "C",
+        "text": "Tarihsel temel"
+      },
+      {
+        "key": "D",
+        "text": "Ekonomik temel"
+      },
+      {
+        "key": "E",
+        "text": "Konu alanı temeli"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Tarihsel temel)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzun tablosundaki sınav ipucu: <em>Eski uygulamaların artılarını alıp eksilerini elemek.</em> Geçmişte uygulanmış programların incelenmesi, yapılan hatalardan ders çıkarılması ve olumlu deneyimlerin aktarılması <strong>Tarihsel Temel</strong> ile ilgilidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Psikolojik temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Hedeflerin gelişim özelliklerine uygunluğu ve öğrenilebilirliğidir.<br>• <strong>B) Bireysel temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Öğrencinin kendini gerçekleştirmesi ve ilgi-yetenekleridir.<br>• <strong>D) Ekonomik temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bütçe ve iş gücü piyasası dengesidir.<br>• <strong>E) Konu alanı temeli (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İçeriğin bilimsel güncelliği ve doğruluğudur."
+  },
+  {
+    "id": "egitim_video_test_3_q14",
+    "questionNumber": 14,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim programlarının hazırlanmasında ülkenin bütçesinin, ekonomik koşullarının ve ihtiyaç duyduğu insan gücünün dikkate alınması hangi temelle ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ekonomik temel"
+      },
+      {
+        "key": "B",
+        "text": "Felsefi temel"
+      },
+      {
+        "key": "C",
+        "text": "Psikolojik temel"
+      },
+      {
+        "key": "D",
+        "text": "Tarihsel temel"
+      },
+      {
+        "key": "E",
+        "text": "Bireysel temel"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ekonomik temel)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bir eğitim programı hazırlanırken ülkenin mali bütçesi, istihdam piyasası, maliyet-yarar dengesi ve ihtiyaç duyulan teknik iş gücünün gözetilmesi <strong>Ekonomik Temel</strong>e dayanır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Felsefi temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Hedeflerin iç-dış tutarlılığı ve öncelik sıralamasıdır.<br>• <strong>C) Psikolojik temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Öğrenme kuramları ve yaş düzeyine uygunluktur.<br>• <strong>D) Tarihsel temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Geçmiş program deneyimleridir.<br>• <strong>E) Bireysel temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Öğrencinin ilgi ve yetenekleridir."
+  },
+  {
+    "id": "egitim_video_test_3_q15",
+    "questionNumber": 15,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğrencilerin ilgi, yetenek ve ihtiyaçlarının dikkate alınarak kendilerini gerçekleştirmelerinin amaçlanması, program geliştirmenin hangi temeline dayanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Toplumsal temel"
+      },
+      {
+        "key": "B",
+        "text": "Konu alanı temeli"
+      },
+      {
+        "key": "C",
+        "text": "Tarihsel temel"
+      },
+      {
+        "key": "D",
+        "text": "Bireysel temel"
+      },
+      {
+        "key": "E",
+        "text": "Ekonomik temel"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bireysel temel)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Öğrencilerin bireysel ilgi, kabiliyet ve gereksinimlerinin dikkate alınması; nihai olarak bireyin gizil güçlerini açığa çıkarıp kendini gerçekleştirmesini hedeflemek <strong>Bireysel Temel</strong>in (Hümanistik yaklaşım) gereğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Toplumsal temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Toplumun beklenti ve değerlerine uyumdur.<br>• <strong>B) Konu alanı temeli (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilginin bilimsel geçerliliğidir.<br>• <strong>C) Tarihsel temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Geçmiş uygulamalardır.<br>• <strong>E) Ekonomik temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İstihdam ve bütçedir."
+  },
+  {
+    "id": "egitim_video_test_3_q16",
+    "questionNumber": 16,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim programının toplumun kültürüne, değerlerine ve beklentilerine uygun bireyler yetiştirmeyi amaçlaması hangi temelle ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Psikolojik temel"
+      },
+      {
+        "key": "B",
+        "text": "Toplumsal temel"
+      },
+      {
+        "key": "C",
+        "text": "Bireysel temel"
+      },
+      {
+        "key": "D",
+        "text": "Konu alanı temeli"
+      },
+      {
+        "key": "E",
+        "text": "Tarihsel temel"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Toplumsal temel)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Eğitim programının içinde bulunduğu toplumun kültürüne, örf ve adetlerine, milli değerlerine ve toplumsal beklentilerine uygun bireyler yetiştirmeyi amaçlaması <strong>Toplumsal Temel</strong>e dayanır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Psikolojik temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Öğrenme ilkeleri ve gelişim dönemleridir.<br>• <strong>C) Bireysel temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireysel ilgi ve yeteneklerdir.<br>• <strong>D) Konu alanı temeli (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilginin bilimsel doğruluğudur.<br>• <strong>E) Tarihsel temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Geçmiş program tecrübeleridir."
+  },
+  {
+    "id": "egitim_video_test_3_q17",
+    "questionNumber": 17,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir eğitim programında öğrencilerin gelişim özelliklerinin, öğrenme biçimlerinin ve öğrenme ilkelerinin dikkate alınması aşağıdaki temellerden hangisine dayanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ekonomik temel"
+      },
+      {
+        "key": "B",
+        "text": "Tarihsel temel"
+      },
+      {
+        "key": "C",
+        "text": "Psikolojik temel"
+      },
+      {
+        "key": "D",
+        "text": "Felsefi temel"
+      },
+      {
+        "key": "E",
+        "text": "Toplumsal temel"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Psikolojik temel)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Hedeflerin öğrenci seviyesine uygunluğu, öğrenme kuramları, pedagojik hazırbulunuşluk, öğrenme ilkeleri ve öğretim yöntemlerinin belirlenmesi doğrudan <strong>Psikolojik Temel</strong>e (Gelişim ve Öğrenme Psikolojisi) dayanır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Ekonomik temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Maliyet ve iş gücü dengesidir.<br>• <strong>B) Tarihsel temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Geçmiş program analizleridir.<br>• <strong>D) Felsefi temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Hedeflerin tutarlılığı ve öncelikleridir.<br>• <strong>E) Toplumsal temel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Toplumun norm ve beklentileridir."
+  },
+  {
+    "id": "egitim_video_test_3_q18",
+    "questionNumber": 18,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bilginin kaynağını, doğruluğunu, sınırlarını ve güvenilirliğini inceleyen felsefe alanı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ontoloji"
+      },
+      {
+        "key": "B",
+        "text": "Epistemoloji"
+      },
+      {
+        "key": "C",
+        "text": "Aksiyoloji"
+      },
+      {
+        "key": "D",
+        "text": "Estetik"
+      },
+      {
+        "key": "E",
+        "text": "Mantık"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Epistemoloji)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. ve 2. Ders notlarımızda felsefe alanları açıkça tanımlanmıştır: Bilginin doğasını, kaynağını (akıl, deney, sezgi), sınırlarını, doğruluğunu ve güvenilirlik ölçütlerini inceleyen felsefe dalı <strong>Epistemoloji (Bilgi Felsefesi)</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Ontoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Varlığı, varlığın kökenini ve ilk nedenini inceler (Varlık Felsefesi).<br>• <strong>C) Aksiyoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Ahlak ve estetik değerleri inceler (Değerler Felsefesi).<br>• <strong>D) Estetik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Güzel ve sanat felsefesidir.<br>• <strong>E) Mantık (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Doğru ve tutarlı akıl yürütme kurallarıdır."
+  },
+  {
+    "id": "egitim_video_test_3_q19",
+    "questionNumber": 19,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "“Varlık nedir?”, “Varlık gerçekten var mıdır?” ve “İlk varlık nedir?” sorularına cevap arayan felsefe alanı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aksiyoloji"
+      },
+      {
+        "key": "B",
+        "text": "Epistemoloji"
+      },
+      {
+        "key": "C",
+        "text": "Ontoloji"
+      },
+      {
+        "key": "D",
+        "text": "Mantık"
+      },
+      {
+        "key": "E",
+        "text": "Etik"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ontoloji)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 'Varlık nedir?', 'Varlık gerçekten var mıdır?', 'Varlığın ilk maddesi (arkhe) nedir?', 'Varlık madde midir düşünce midir?' sorularına cevap arayan felsefe dalı <strong>Ontoloji (Varlık Felsefesi)</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Aksiyoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Değerleri, ahlakı ve sanatı inceler.<br>• <strong>B) Epistemoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilginin kaynağını ve geçerliliğini inceler.<br>• <strong>D) Mantık (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Akıl yürütme ilkelerini inceler.<br>• <strong>E) Etik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İyiyi ve kötüyü araştıran ahlak felsefesidir."
+  },
+  {
+    "id": "egitim_video_test_3_q20",
+    "questionNumber": 20,
+    "testId": "egitim_video_test_3",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 3 (Program Türleri & Posner)",
+    "topicId": "egitim_video_test_3",
+    "topicName": "Eğitim Bilimleri - Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Ahlaki olan ile güzel olanı inceleyen felsefe alanı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Epistemoloji"
+      },
+      {
+        "key": "B",
+        "text": "Ontoloji"
+      },
+      {
+        "key": "C",
+        "text": "Mantık"
+      },
+      {
+        "key": "D",
+        "text": "Aksiyoloji"
+      },
+      {
+        "key": "E",
+        "text": "Bilim felsefesi"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Aksiyoloji)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Değerler felsefesi olarak bilinen <strong>Aksiyoloji</strong>; ahlaki olanı (Etik) ve güzel olanı (Estetik) birlikte şemsiyesi altına alan, insani değerlerin kökenini ve geçerliliğini inceleyen felsefe dalıdır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Epistemoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilgi felsefesidir.<br>• <strong>B) Ontoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Varlık felsefesidir.<br>• <strong>C) Mantık (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Tutarlı akıl yürütme disiplinidir.<br>• <strong>E) Bilim felsefesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilimsel yöntemi ve kavramları sorgular."
+  },
+  {
+    "id": "egitim_video_test_4_q1",
+    "questionNumber": 1,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Doğru düşünmenin kurallarını, akıl yürütmeyi ve geçerli çıkarımları inceleyen alan aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aksiyoloji"
+      },
+      {
+        "key": "B",
+        "text": "Mantık"
+      },
+      {
+        "key": "C",
+        "text": "Epistemoloji"
+      },
+      {
+        "key": "D",
+        "text": "Ontoloji"
+      },
+      {
+        "key": "E",
+        "text": "Estetik"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Mantık)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. ve 2. Ders notlarımızda belirtildiği üzere: Doğru ve tutarlı düşünmenin kurallarını, akıl yürütme yöntemlerini (tümdengelim, tümevarım, analoji) ve geçerli çıkarımları inceleyen felsefe disiplini <strong>Mantık</strong>tır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Aksiyoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Ahlaki ve estetik değerleri inceler.<br>• <strong>C) Epistemoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Bilginin kaynağını ve sınırlarını sorgular.<br>• <strong>D) Ontoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Varlığın özünü ve kökenini araştırır.<br>• <strong>E) Estetik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış. Güzel olanı ve sanat felsefesini inceler."
+  },
+  {
+    "id": "egitim_video_test_4_q2",
+    "questionNumber": 2,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Epistemoloji – Bilginin doğruluğu"
+      },
+      {
+        "key": "B",
+        "text": "Ontoloji – Varlığın yapısı"
+      },
+      {
+        "key": "C",
+        "text": "Etik – İyi ve kötü"
+      },
+      {
+        "key": "D",
+        "text": "Estetik – Güzel ve sanat"
+      },
+      {
+        "key": "E",
+        "text": "Mantık – Varlığın ilk nedeni"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Mantık – Varlığın ilk nedeni)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Varlığın ilk nedeni, kökeni ve yapısı <strong>Ontoloji</strong>nin (Varlık felsefesi) konusudur. Mantık ise düşünme biçimi, tutarlılık ve çıkarım kuralları ile ilgilenir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Epistemoloji – Bilginin doğruluğu (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>B) Ontoloji – Varlığın yapısı (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>C) Etik – İyi ve kötü (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir (Ahlak felsefesi).<br>• <strong>D) Estetik – Güzel ve sanat (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir."
+  },
+  {
+    "id": "egitim_video_test_4_q3",
+    "questionNumber": 3,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir düşünür sırasıyla; I. Bilginin güvenilir olup olmadığını, II. Ahlaki davranışın ölçütlerini, III. Bir çıkarımın geçerli olup olmadığını incelemektedir. Bu incelemeler sırasıyla hangi felsefe alanlarıyla ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ontoloji – Estetik – Epistemoloji"
+      },
+      {
+        "key": "B",
+        "text": "Epistemoloji – Etik – Mantık"
+      },
+      {
+        "key": "C",
+        "text": "Mantık – Ontoloji – Estetik"
+      },
+      {
+        "key": "D",
+        "text": "Estetik – Epistemoloji – Ontoloji"
+      },
+      {
+        "key": "E",
+        "text": "Etik – Mantık – Epistemoloji"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Epistemoloji – Etik – Mantık)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • I. Bilginin güvenilirliği ve sınırları ➡️ <strong>Epistemoloji</strong> (Bilgi Felsefesi)<br>\n• II. Ahlaki davranış ölçütleri (iyi-kötü) ➡️ <strong>Etik</strong> (Ahlak Felsefesi)<br>\n• III. Bir çıkarımın mantıksal geçerliliği ➡️ <strong>Mantık</strong><br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Ontoloji – Estetik – Epistemoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış sıralama.<br>• <strong>C) Mantık – Ontoloji – Estetik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış sıralama.<br>• <strong>D) Estetik – Epistemoloji – Ontoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış sıralama.<br>• <strong>E) Etik – Mantık – Epistemoloji (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış sıralama."
+  },
+  {
+    "id": "egitim_video_test_4_q4",
+    "questionNumber": 4,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Dış dünyadaki varlıkların düşüncenin ürünü veya düşüncenin bizden bağımsız ideal örneklerinin yansımaları olduğunu savunan felsefi akım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pragmatizm"
+      },
+      {
+        "key": "B",
+        "text": "Natüralizm"
+      },
+      {
+        "key": "C",
+        "text": "Realizm"
+      },
+      {
+        "key": "D",
+        "text": "İdealizm"
+      },
+      {
+        "key": "E",
+        "text": "Varoluşçuluk"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (İdealizm)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzun felsefe özetinde açıkça belirtilmiştir: Gerçekliğin temelinin zihin, ruh ve düşünce (idealar) olduğunu, dış dünyadaki somut nesnelerin ise zihindeki ideaların geçici yansımaları olduğunu savunan felsefe <strong>İdealizm</strong>dir (Platon).<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Pragmatizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Faydacılığı ve bilginin pratik sonuçlarını savunur.<br>• <strong>B) Natüralizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Doğanın yasalarını ve doğallığı savunur.<br>• <strong>C) Realizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Gerçekliğin dış dünyadaki somut nesnelerde olduğunu savunur.<br>• <strong>E) Varoluşçuluk (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireyin mutlak özgürlüğünü ve kendi varlığını kurmasını savunur."
+  },
+  {
+    "id": "egitim_video_test_4_q5",
+    "questionNumber": 5,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İdealizm ve realizmin temsilcileri aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İdealizm–Aristoteles / Realizm–Platon"
+      },
+      {
+        "key": "B",
+        "text": "İdealizm–Platon / Realizm–Aristoteles"
+      },
+      {
+        "key": "C",
+        "text": "İdealizm–Sokrates / Realizm–Descartes"
+      },
+      {
+        "key": "D",
+        "text": "İdealizm–John Dewey / Realizm–Platon"
+      },
+      {
+        "key": "E",
+        "text": "İdealizm–Aristoteles / Realizm–Sokrates"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (İdealizm–Platon / Realizm–Aristoteles)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • İdealizmin (idealar kuramının) kurucu filozofu <strong>Platon</strong> (Eflatun); dış dünyanın nesnel gerçekliğini savunan Realizmin kurucusu ise onun öğrencisi <strong>Aristoteles</strong>tir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İdealizm–Aristoteles / Realizm–Platon (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış; filozoflar ters verilmiştir.<br>• <strong>C) İdealizm–Sokrates / Realizm–Descartes (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Descartes rasyonalisttir, realizm kurucusu Aristoteles'tir.<br>• <strong>D) İdealizm–John Dewey / Realizm–Platon (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> John Dewey pragmatisttir.<br>• <strong>E) İdealizm–Aristoteles / Realizm–Sokrates (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış eşleşme."
+  },
+  {
+    "id": "egitim_video_test_4_q6",
+    "questionNumber": 6,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "“İnsan zihninden bağımsız bir dış dünya ve değiştirilemeyecek bir gerçeklik bulunmaktadır.” görüşünü savunan felsefi akım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İdealizm"
+      },
+      {
+        "key": "B",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "C",
+        "text": "Realizm"
+      },
+      {
+        "key": "D",
+        "text": "Pragmatizm"
+      },
+      {
+        "key": "E",
+        "text": "Daimicilik"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Realizm)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • <strong>Realizm (Gerçekçilik):</strong> İnsan zihninden ve bilincinden bağımsız, dışarıda nesnel bir maddi dünyanın var olduğunu savunur. Bilgi, bu dış gerçekliğin duyular, gözlem ve deney yoluyla kavranmasıdır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İdealizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Zihinden bağımsız maddeyi reddeder; gerçekliği düşünceye bağlar.<br>• <strong>B) Varoluşçuluk (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İnsanın özgür öznelliğini temel alır.<br>• <strong>D) Pragmatizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Nesnel gerçeklikten ziyade bilginin pratik faydasını esas alır.<br>• <strong>E) Daimicilik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bir felsefi akım değil, eğitim felsefesidir."
+  },
+  {
+    "id": "egitim_video_test_4_q7",
+    "questionNumber": 7,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir bilginin doğruluğunu sağladığı yarara ve uygulamadaki işlevine göre değerlendiren felsefi akım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İdealizm"
+      },
+      {
+        "key": "B",
+        "text": "Realizm"
+      },
+      {
+        "key": "C",
+        "text": "Pragmatizm"
+      },
+      {
+        "key": "D",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "E",
+        "text": "Natüralizm"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Pragmatizm)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • <strong>Pragmatizm (Faydacılık - J. Dewey, W. James):</strong> Bir bilginin doğruluğunu veya ahlaki geçerliliğini, günlük yaşamdaki problem çözme gücüne ve sağladığı pratik yarara/işlevselliğe göre değerlendiren felsefedir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İdealizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilgiyi aşkın akıl ve değişmez idealara dayandırır.<br>• <strong>B) Realizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilgiyi dış dünyanın nesnel kanunlarına dayandırır.<br>• <strong>D) Varoluşçuluk (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireysel özgürlük ve sorumluluğu temel alır.<br>• <strong>E) Natüralizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Doğaya uyumu esas alır."
+  },
+  {
+    "id": "egitim_video_test_4_q8",
+    "questionNumber": 8,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Pragmatizm ve varoluşçuluğun temsilcileri aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pragmatizm: Platon – Varoluşçuluk: Aristoteles"
+      },
+      {
+        "key": "B",
+        "text": "Pragmatizm: W. James ve J. Dewey – Varoluşçuluk: Nietzsche ve Sartre"
+      },
+      {
+        "key": "C",
+        "text": "Pragmatizm: Nietzsche ve Sartre – Varoluşçuluk: W. James ve J. Dewey"
+      },
+      {
+        "key": "D",
+        "text": "Pragmatizm: Aristoteles – Varoluşçuluk: Platon"
+      },
+      {
+        "key": "E",
+        "text": "Pragmatizm: Sokrates – Varoluşçuluk: J. Dewey"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Pragmatizm: W. James ve J. Dewey – Varoluşçuluk: Nietzsche ve Sartre)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • <strong>Pragmatizm:</strong> William James ve Türk eğitim sistemini de inceleyen John Dewey.<br>\n• <strong>Varoluşçuluk:</strong> Jean-Paul Sartre, Friedrich Nietzsche ve Kierkegaard.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Pragmatizm: Platon – Varoluşçuluk: Aristoteles (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İdealizm ve Realizmdir.<br>• <strong>C) Pragmatizm: Nietzsche ve Sartre – Varoluşçuluk: W. James ve J. Dewey (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Akımlar terstir.<br>• <strong>D) Pragmatizm: Aristoteles – Varoluşçuluk: Platon (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Antik çağ filozoflarıdır.<br>• <strong>E) Pragmatizm: Sokrates – Varoluşçuluk: J. Dewey (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış eşleşme."
+  },
+  {
+    "id": "egitim_video_test_4_q9",
+    "questionNumber": 9,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitimde bireyin özgürlüğüne, tercihlerine ve kendi kararlarını vermesine öncelik verilmesi hangi felsefi akımın görüşlerine uygundur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Realizm"
+      },
+      {
+        "key": "B",
+        "text": "İdealizm"
+      },
+      {
+        "key": "C",
+        "text": "Daimicilik"
+      },
+      {
+        "key": "D",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "E",
+        "text": "Esasicilik"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Varoluşçuluk)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Eğitimde bireyin sınırsız özgürlüğüne, kendi kararlarını vermesine, kendi değerler sistemini bizzat kurmasına ve bu tercihlerin sorumluluğunu üstlenmesine öncelik veren felsefe <strong>Varoluşçuluk (Eksistansiyalizm)</strong>dur.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Realizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Nesnel doğa kurallarını ve disiplini savunur.<br>• <strong>B) İdealizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Evrensel ahlak ilkelerine uyumu savunur.<br>• <strong>C) Daimicilik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Evrensel değişmez dogmaları ve öğretmen otoritesini savunur.<br>• <strong>E) Esasicilik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Sıkı disiplin ve ezberi savunur."
+  },
+  {
+    "id": "egitim_video_test_4_q10",
+    "questionNumber": 10,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Evrensel ve değişmez doğruların bulunduğunu, eğitimin görevinin de bu doğruları öğrencilere aktarmak olduğunu savunan eğitim felsefesi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "B",
+        "text": "Yeniden kurmacılık"
+      },
+      {
+        "key": "C",
+        "text": "Daimicilik"
+      },
+      {
+        "key": "D",
+        "text": "Yapılandırmacılık"
+      },
+      {
+        "key": "E",
+        "text": "Varoluşçuluk"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Daimicilik)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzun eğitim felsefeleri özetinde vurgulanmıştır: Evrensel ve değişmez hakikatlerin var olduğunu, insan doğasının her çağda aynı kaldığını, eğitimin görevinin de 'Büyük Kitaplar' (klasik eserler) yoluyla bu evrensel doğruları entelektüel elitlere aktarmak olduğunu savunan anlayış <strong>Daimicilik</strong>tir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İlerlemecilik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Öğrenci merkezli, demokratik ve değişim odaklıdır.<br>• <strong>B) Yeniden kurmacılık (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Toplumu dönüştürme ve reform odaklıdır.<br>• <strong>D) Yapılandırmacılık (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilginin öğrenci tarafından inşa edilmesidir.<br>• <strong>E) Varoluşçuluk (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireysel özgürlük odaklıdır."
+  },
+  {
+    "id": "egitim_video_test_4_q11",
+    "questionNumber": 11,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Daimicilik eğitim felsefesinin dayandığı felsefi akımlar aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pragmatizm ve varoluşçuluk"
+      },
+      {
+        "key": "B",
+        "text": "İdealizm ve realizm"
+      },
+      {
+        "key": "C",
+        "text": "Natüralizm ve pragmatizm"
+      },
+      {
+        "key": "D",
+        "text": "Materyalizm ve pozitivizm"
+      },
+      {
+        "key": "E",
+        "text": "Varoluşçuluk ve natüralizm"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (İdealizm ve realizm)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzda açıkça yazılmıştır: <em>Daimicilik eğitim felsefesi; İdealizm (değişmez zihinsel idealar) ve klasik Realizm (nesnel evrensel doğa yasaları) akımlarının sentezinden doğmuştur.</em><br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Pragmatizm ve varoluşçuluk (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İlerlemecilik ve Yeniden Kurmacılığın temelidir.<br>• <strong>C) Natüralizm ve pragmatizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Çağdaş doğacı yaklaşımlardır.<br>• <strong>D) Materyalizm ve pozitivizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Mekanik bilimsel yaklaşımlardır.<br>• <strong>E) Varoluşçuluk ve natüralizm (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Özgürlükçü akımlardır."
+  },
+  {
+    "id": "egitim_video_test_4_q12",
+    "questionNumber": 12,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İnsan zihnini doğuştan boş bir levha olarak kabul eden ve eğitimin görevinin zihni bilgiyle doldurmak olduğunu savunan eğitim felsefesi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "B",
+        "text": "Esasicilik"
+      },
+      {
+        "key": "C",
+        "text": "Yeniden kurmacılık"
+      },
+      {
+        "key": "D",
+        "text": "Daimicilik"
+      },
+      {
+        "key": "E",
+        "text": "Varoluşçuluk"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Esasicilik)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • John Locke'un <strong>\"Tabula Rasa\" (Boş Levha)</strong> anlayışını benimseyen, insanın zihnini doğuştan boş kabul edip eğitimin görevinin bu zihne temel kültürel birikimi sıkı disiplin, ezber ve konu anlatımıyla doldurmak olduğunu savunan felsefe <strong>Esasicilik (Essentialism)</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) İlerlemecilik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Öğrencinin aktif keşfini ve yaparak-yaşayarak öğrenmesini savunur.<br>• <strong>C) Yeniden kurmacılık (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Toplumu değiştirmeyi amaçlar.<br>• <strong>D) Daimicilik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Zihni boş levha değil, akıl yürütme potansiyeli gören seçkinci modeldir.<br>• <strong>E) Varoluşçuluk (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bireyin kendi özünü kendisinin yaratmasını savunur."
+  },
+  {
+    "id": "egitim_video_test_4_q13",
+    "questionNumber": 13,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi esasiciliğin özelliklerinden biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmenin alanında uzman olması"
+      },
+      {
+        "key": "B",
+        "text": "Ders konularının mantıksal bir sırayla düzenlenmesi"
+      },
+      {
+        "key": "C",
+        "text": "Geleneksel eğitim anlayışının benimsenmesi"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmenin rehber, öğrencinin tamamen etkin olması"
+      },
+      {
+        "key": "E",
+        "text": "Temel bilgi ve becerilerin öğrencilere aktarılması"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğretmenin rehber, öğrencinin tamamen etkin olması)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Esasicilikte öğretmen otoritedir, merkezdedir ve bilgiyi doğrudan aktarandır; öğrenci ise pasif dinleyici konumundadır. 'Öğretmenin rehber, öğrencinin etkin olması' çağdaş <strong>İlerlemecilik</strong> felsefesinin özelliğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Öğretmenin alanında uzman olması (Yanlış):</strong> </strong> Esasiciliğin özelliğidir.<br>• <strong>B) Ders konularının mantıksal bir sırayla düzenlenmesi (Yanlış):</strong> </strong> Esasiciliğin özelliğidir.<br>• <strong>C) Geleneksel eğitim anlayışının benimsenmesi (Yanlış):</strong> </strong> Esasiciliğin özelliğidir.<br>• <strong>E) Temel bilgi ve becerilerin öğrencilere aktarılması (Yanlış):</strong> </strong> Esasiciliğin özelliğidir."
+  },
+  {
+    "id": "egitim_video_test_4_q14",
+    "questionNumber": 14,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğrencinin aktif, öğretmenin ise rehber olduğu; problem çözme becerilerinin ve demokratik sınıf ortamının önemsendiği eğitim felsefesi hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Daimicilik"
+      },
+      {
+        "key": "B",
+        "text": "Esasicilik"
+      },
+      {
+        "key": "C",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "D",
+        "text": "İdealizm"
+      },
+      {
+        "key": "E",
+        "text": "Realizm"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (İlerlemecilik)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Pragmatizme dayanan, John Dewey öncülüğünde öğrencinin merkeze alındığı, öğretmenin yol gösterici bir rehber olduğu, problem çözme ve yaparak-yaşayarak öğrenmenin benimsendiği anlayış <strong>İlerlemecilik</strong>tir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Daimicilik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Evrensel değişmez doğrular ve entelektüel seçkinliktir.<br>• <strong>B) Esasicilik (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Öğretmen merkezli sıkı disiplin ve ezberdir.<br>• <strong>D) İdealizm (Yanlış):</strong> </strong> Felsefi akımdır, eğitim felsefesi değildir.<br>• <strong>E) Realizm (Yanlış):</strong> </strong> Felsefi akımdır, eğitim felsefesi değildir."
+  },
+  {
+    "id": "egitim_video_test_4_q15",
+    "questionNumber": 15,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki eğitim felsefesi–özellik eşleştirmelerinden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Daimicilik – Evrensel ve değişmez doğrular"
+      },
+      {
+        "key": "B",
+        "text": "Esasicilik – Öğretmen ve konu merkezli eğitim"
+      },
+      {
+        "key": "C",
+        "text": "İlerlemecilik – Öğrenci merkezli ve demokratik eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Yeniden kurmacılık – Toplumun eğitim yoluyla değiştirilmesi"
+      },
+      {
+        "key": "E",
+        "text": "Daimicilik – Programların toplumsal değişmelere göre sürekli yenilenmesi"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Daimicilik – Programların toplumsal değişmelere göre sürekli yenilenmesi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Daimicilik değişime ve programların sürekli yenilenmesine karşıdır; insan doğası ve hakikat değişmediği için eğitimin de değişmez klasik temellere dayanması gerektiğini savunur. Programların toplumsal değişmelere göre sürekli yenilenmesi <strong>Yeniden Kurmacılık</strong> ve <strong>İlerlemecilik</strong> felsefelerine aittir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Daimicilik – Evrensel ve değişmez doğrular (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>B) Esasicilik – Öğretmen ve konu merkezli eğitim (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>C) İlerlemecilik – Öğrenci merkezli ve demokratik eğitim (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>D) Yeniden kurmacılık – Toplumun eğitim yoluyla değiştirilmesi (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir."
+  },
+  {
+    "id": "egitim_video_test_4_q16",
+    "questionNumber": 16,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Program geliştirme sürecinde çalışmaları doğrudan yürütmek üzere oluşturulan temel grup aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Program çalışma grubu"
+      },
+      {
+        "key": "B",
+        "text": "Program danışma grubu"
+      },
+      {
+        "key": "C",
+        "text": "Program teftiş grubu"
+      },
+      {
+        "key": "D",
+        "text": "Program rehberlik grubu"
+      },
+      {
+        "key": "E",
+        "text": "Program disiplin grubu"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Program çalışma grubu)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Program geliştirme komisyonlarında; programı masa başında tam zamanlı olarak fiilen hazırlayan, tasarlayan ve yazan asıl yürütücü çekirdek ekibe <strong>Program Çalışma Grubu</strong> denir (Program geliştirme uzmanı, ölçme uzmanı, alan uzmanı ve öğretmenler).<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Program danışma grubu (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Gerektiğinde görüşlerine başvurulan dış uzmanlardır (psikolog, sosyolog, sendika temsilcisi).<br>• <strong>C) Program teftiş grubu (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Denetim ve rehberlik ayağıdır.<br>• <strong>D) Program rehberlik grubu (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Psikolojik danışmanlık boyutudur.<br>• <strong>E) Program disiplin grubu (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Okul idari kuruludur."
+  },
+  {
+    "id": "egitim_video_test_4_q17",
+    "questionNumber": 17,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Program geliştirme sürecinde Eğitimde ihtiyaç belirlenirken aşağıdakilerden hangilerinin özellikleri göz önünde bulundurulmalıdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnızca bireyin"
+      },
+      {
+        "key": "B",
+        "text": "Bireyin ve öğretmenin"
+      },
+      {
+        "key": "C",
+        "text": "Yalnızca toplumun"
+      },
+      {
+        "key": "D",
+        "text": "Bireyin, toplumun ve konu alanının"
+      },
+      {
+        "key": "E",
+        "text": "Okulun, ailenin ve öğretmenin"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bireyin, toplumun ve konu alanının)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Tyler'ın klasik program geliştirme modelinde ve MEB yaklaşımlarında ihtiyaçlar 3 temel sacayağına dayandırılarak belirlenir: <strong>1. Bireyin özellikleri</strong>, <strong>2. Toplumun beklentileri</strong>, <strong>3. Konu alanının gereklilikleri</strong>.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Yalnızca bireyin (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eksiktir.<br>• <strong>B) Bireyin ve öğretmenin (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eksiktir.<br>• <strong>C) Yalnızca toplumun (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eksiktir.<br>• <strong>E) Okulun, ailenin ve öğretmenin (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Eksik ve tali kaynaklardır."
+  },
+  {
+    "id": "egitim_video_test_4_q18",
+    "questionNumber": 18,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İhtiyaç belirleme sürecinin aşamaları aşağıdakilerin hangisinde doğru sıralanmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgilerin analizi – Hazırlık – Bilgilerin toplanması – Bilgilerin rapor edilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Hazırlık – Bilgilerin analizi – Bilgilerin rapor edilmesi – Bilgilerin toplanması"
+      },
+      {
+        "key": "C",
+        "text": "Bilgilerin toplanması – Hazırlık – Bilgilerin rapor edilmesi – Bilgilerin analizi"
+      },
+      {
+        "key": "D",
+        "text": "Hazırlık – Bilgilerin toplanması – Bilgilerin analizi – Bilgilerin rapor edilmesi"
+      },
+      {
+        "key": "E",
+        "text": "Bilgilerin rapor edilmesi – Bilgilerin analizi – Hazırlık – Bilgilerin toplanması"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Hazırlık – Bilgilerin toplanması – Bilgilerin analizi – Bilgilerin rapor edilmesi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • İhtiyaç değerlendirme süreci bilimsel metodolojiye göre sırasıyla şu 4 aşamadan oluşur:<br>\n  1. <strong>Hazırlık:</strong> Çalışma planının ve hedeflerin yapılması.<br>\n  2. <strong>Bilgilerin Toplanması:</strong> Anket, görüşme, gözlem verilerinin toplanması.<br>\n  3. <strong>Bilgilerin Analizi:</strong> Verilerin çözümlenmesi.<br>\n  4. <strong>Bilgilerin Rapor Edilmesi:</strong> Sonuçların karar vericilere sunulması.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Bilgilerin analizi – Hazırlık – Bilgilerin toplanması – Bilgilerin rapor edilmesi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış; veri olmadan analiz yapılamaz.<br>• <strong>B) Hazırlık – Bilgilerin analizi – Bilgilerin rapor edilmesi – Bilgilerin toplanması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış sıra.<br>• <strong>C) Bilgilerin toplanması – Hazırlık – Bilgilerin rapor edilmesi – Bilgilerin analizi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış; önce hazırlık yapılmalıdır.<br>• <strong>E) Bilgilerin rapor edilmesi – Bilgilerin analizi – Hazırlık – Bilgilerin toplanması (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yanlış; raporlama en son adımdır."
+  },
+  {
+    "id": "egitim_video_test_4_q19",
+    "questionNumber": 19,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İstenen beceri düzeyi ile bireyde var olan beceri düzeyi arasındaki farkı ihtiyaç olarak kabul eden yaklaşım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "B",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "E",
+        "text": "Sistem yaklaşımı"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Farklar yaklaşımı)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzun özetinde net bir formülle verilmiştir: <em>İstenen (olması gereken) hedef başarı düzeyi ile mevcut (bireyde var olan) başarı düzeyi arasındaki farkı ihtiyaç olarak kabul eden model</em> <strong>Farklar Yaklaşımı</strong>dır (İhtiyaç = Olması Gereken - Olan).<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Demokratik yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Çoğunluğun ve paydaşların beklentilerine dayanır.<br>• <strong>B) Analitik yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Gelecekteki eğilimleri tahmin etmeye dayanır.<br>• <strong>C) Betimsel yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Varlık-fayda ile yokluk-zarar kıyaslamasıdır.<br>• <strong>E) Sistem yaklaşımı (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Girdi-işlem-çıktı bütünlüğüdür."
+  },
+  {
+    "id": "egitim_video_test_4_q20",
+    "questionNumber": 20,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi farklar yaklaşımının temel sorusudur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gelecekte hangi değişiklikler meydana gelebilir?"
+      },
+      {
+        "key": "B",
+        "text": "Toplumdaki farklı gruplar ne düşünmektedir?"
+      },
+      {
+        "key": "C",
+        "text": "Olması gereken ile mevcut durum arasındaki fark nedir?"
+      },
+      {
+        "key": "D",
+        "text": "Eksikliğin topluma verdiği zarar nedir?"
+      },
+      {
+        "key": "E",
+        "text": "Hangi siyasi parti çoğunluktadır?"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Olması gereken ile mevcut durum arasındaki fark nedir?)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Farklar yaklaşımının kalbini oluşturan temel soru: 'Öğrencilerin nerede olması gerekiyor ve şu an neredeler? Aradaki açık nedir?' sorusudur.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Gelecekte hangi değişiklikler meydana gelebilir? (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> <em>Analitik yaklaşım</em>ın sorusudur.<br>• <strong>B) Toplumdaki farklı gruplar ne düşünmektedir? (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> <em>Demokratik yaklaşım</em>ın sorusudur.<br>• <strong>D) Eksikliğin topluma verdiği zarar nedir? (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> <em>Betimsel yaklaşım</em>ın sorusudur.<br>• <strong>E) Hangi siyasi parti çoğunluktadır? (Yanlış):</strong> </strong> Bilimsel ihtiyaç analizi sorusu değildir."
+  },
+  {
+    "id": "egitim_video_test_4_q21",
+    "questionNumber": 21,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Program geliştirme sürecine toplumdaki farklı grupların, siyasi partilerin, baskı gruplarının ve sivil toplum kuruluşlarının katılmasını esas alan yaklaşım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "B",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "E",
+        "text": "Bireysel yaklaşım"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Demokratik yaklaşım)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Program geliştirme sürecinde veliler, öğretmenler, sivil toplum kuruluşları, sendikalar ve baskı gruplarının çoğulcu anlayışla sürece dahil edilmesi <strong>Demokratik Yaklaşım</strong>ın gereğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Farklar yaklaşımı (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İdeal ile olan arasındaki farktır.<br>• <strong>C) Analitik yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Geleceğe dönük eğilim projeksiyonudur.<br>• <strong>D) Betimsel yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Durumun fayda-zarar analizidir.<br>• <strong>E) Bireysel yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Tek tek öğrencilerin psikolojik ihtiyaçlarıdır."
+  },
+  {
+    "id": "egitim_video_test_4_q22",
+    "questionNumber": 22,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir eğitim programı hazırlanırken öğretmenlerin, velilerin, sendikaların, meslek kuruluşlarının ve sivil toplum örgütlerinin görüşlerinin alınması hangi ihtiyaç belirleme yaklaşımına örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "B",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "E",
+        "text": "Psikolojik yaklaşım"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Demokratik yaklaşım)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bir eğitim programı tasarlanırken öğretmenler, veliler, sendikalar ve meslek odalarının anket veya toplantılarla görüşünün alınması doğrudan <strong>Demokratik Yaklaşım</strong> örneğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Analitik yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Gelecek teknolojilerini tahmin etmektir.<br>• <strong>C) Betimsel yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bir aracın yokluğunun getireceği zararı tartmaktır.<br>• <strong>D) Farklar yaklaşımı (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İstenen düzey ile mevcut düzey farkını ölçmektir.<br>• <strong>E) Psikolojik yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Gelişim düzeyine uygunluktur."
+  },
+  {
+    "id": "egitim_video_test_4_q23",
+    "questionNumber": 23,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Ulusal ve uluslararası gelişmelere bağlı olarak gelecekte ortaya çıkabilecek durumların önceden tahmin edilmesine dayanan yaklaşım hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "B",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "C",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "E",
+        "text": "Geleneksel yaklaşım"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Analitik yaklaşım)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzun tablosundaki kilit ifade: <em>Mevcut ulusal ve uluslararası eğilimleri analiz ederek gelecekte ortaya çıkabilecek muhtemel ihtiyaçları bugünden öngörmek</em> <strong>Analitik Yaklaşım</strong>dır (Örn: Yapay zeka çağında 10 yıl sonraki meslekler).<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Betimsel yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Mevcut durumun fayda-zarar dengesidir.<br>• <strong>B) Farklar yaklaşımı (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Mevcut açıkların saptanmasıdır.<br>• <strong>C) Demokratik yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Çoğunluğun bugünkü talebidir.<br>• <strong>E) Geleneksel yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Geçmişi aynen tekrarlamaktır."
+  },
+  {
+    "id": "egitim_video_test_4_q24",
+    "questionNumber": 24,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Mevcut programdaki bir eksikliğin belirlenerek bu eksikliğin yol açtığı zararlarla, eksiklik giderildiğinde ortaya çıkacak faydaların karşılaştırılması hangi yaklaşımdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "B",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "E",
+        "text": "Sistem yaklaşımı"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Betimsel yaklaşım)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. ve 2. Ders notlarımızda vurgulandığı üzere: Bir eğitim yaşantısının ya da nesnesinin <strong>varlığının sağladığı fayda ile yokluğunun getirdiği zararın (maliyet-yarar)</strong> kıyaslanması <strong>Betimsel Yaklaşım</strong>dır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Farklar yaklaşımı (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İstenen durum ile mevcut durum farkıdır.<br>• <strong>B) Demokratik yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Paydaş görüşleridir.<br>• <strong>C) Analitik yaklaşım (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Gelecek projeksiyonudur.<br>• <strong>E) Sistem yaklaşımı (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Girdi-işlem-çıktı bütünlüğüdür."
+  },
+  {
+    "id": "egitim_video_test_4_q25",
+    "questionNumber": 25,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki ihtiyaç belirleme yaklaşımı ve açıklama eşleştirmelerinden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Farklar yaklaşımı – İstenen durum ile mevcut durum arasındaki farkı belirleme"
+      },
+      {
+        "key": "B",
+        "text": "Demokratik yaklaşım – Farklı toplumsal grupların görüşlerini alma"
+      },
+      {
+        "key": "C",
+        "text": "Analitik yaklaşım – Gelecekteki değişimleri önceden tahmin etme"
+      },
+      {
+        "key": "D",
+        "text": "Betimsel yaklaşım – Programdaki eksikliğin zarar ve faydalarını karşılaştırma"
+      },
+      {
+        "key": "E",
+        "text": "Demokratik yaklaşım – Yalnızca yönetici grubun görüşlerini esas alma"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Demokratik yaklaşım – Yalnızca yönetici grubun görüşlerini esas alma)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Demokratik yaklaşım; elitist ve tek sesli değil, tabana yayılan çoğulcu bir yaklaşımdır. 'Yalnızca yönetici grubun görüşlerini esas alma' demokratik değil, bürokratik/otoriter bir anlayıştır.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Farklar yaklaşımı – İstenen durum ile mevcut durum arasındaki farkı belirleme (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>B) Demokratik yaklaşım – Farklı toplumsal grupların görüşlerini alma (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>C) Analitik yaklaşım – Gelecekteki değişimleri önceden tahmin etme (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>D) Betimsel yaklaşım – Programdaki eksikliğin zarar ve faydalarını karşılaştırma (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir."
+  },
+  {
+    "id": "egitim_video_test_4_q26",
+    "questionNumber": 26,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir konu hakkında seçilmiş uzmanlardan anketler yoluyla görüş alınması ve ortak bir görüşe ulaşılmaya çalışılması hangi ihtiyaç belirleme tekniğidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gözlem"
+      },
+      {
+        "key": "B",
+        "text": "Meslek analizi"
+      },
+      {
+        "key": "C",
+        "text": "Delphi"
+      },
+      {
+        "key": "D",
+        "text": "Kaynak tarama"
+      },
+      {
+        "key": "E",
+        "text": "Ölçme araçları"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Delphi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. Ders notumuzun kilit uyarısı: <em>Alan uzmanlarının fiziksel olarak bir araya gelmeden, birbirinden bağımsız ve habersiz şekilde anket turlarıyla ortak uzlaşıya vardığı teknik <strong>Delphi Tekniği</strong>dir.</em> Bu yöntem baskın kişiliklerin diğer uzmanları yönlendirmesini engeller.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Gözlem (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Sahada davranış izleme tekniğidir.<br>• <strong>B) Meslek analizi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> İş yerindeki çalışanların adımlarını incelemedir.<br>• <strong>D) Kaynak tarama (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Literatür ve rapor okumadır.<br>• <strong>E) Ölçme araçları (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Test ve sınav uygulamalarıdır."
+  },
+  {
+    "id": "egitim_video_test_4_q27",
+    "questionNumber": 27,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir işe ilişkin eğitim ihtiyaçlarının, o işi iyi bilen deneyimli veya uzman kişilerden yararlanılarak belirlendiği teknik hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Progel (DACUM)"
+      },
+      {
+        "key": "B",
+        "text": "Gözlem"
+      },
+      {
+        "key": "C",
+        "text": "Görüşme"
+      },
+      {
+        "key": "D",
+        "text": "Kaynak tarama"
+      },
+      {
+        "key": "E",
+        "text": "Delphi"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Progel (DACUM))<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • 1. ve 2. ders notumuzda vurgulanan ayrım: İşi en iyi bilen uzman ve deneyimli kişilerin (dışarıdan uzman heyetinin) bir araya gelerek kısa süreli (birkaç günlük) yoğun bir çalıştayda mesleğin beceri profilini çıkarması <strong>Progel (DACUM)</strong> tekniğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Gözlem (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Sahadaki canlı izlemedir.<br>• <strong>C) Görüşme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Birebir mülakat yapmadır.<br>• <strong>D) Kaynak tarama (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yazılı doküman incelemesidir.<br>• <strong>E) Delphi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Uzmanların yüz yüze gelmeden anketle uzlaşmasıdır."
+  },
+  {
+    "id": "egitim_video_test_4_q28",
+    "questionNumber": 28,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir fabrikada çalışanların yaptıkları işlerde ihtiyaç duydukları bilgi ve becerilerin, doğrudan bu çalışanlardan yararlanılarak belirlenmesi hangi tekniğe örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Delphi"
+      },
+      {
+        "key": "B",
+        "text": "Görüşme"
+      },
+      {
+        "key": "C",
+        "text": "Meslek analizi"
+      },
+      {
+        "key": "D",
+        "text": "Kaynak tarama"
+      },
+      {
+        "key": "E",
+        "text": "Test uygulama"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Meslek analizi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Progel'den farklı olarak; bizzat işin başında, fabrikada veya tezgahta çalışan kişilerin yaptıkları işlerin, görev ve işlemlerin sahada adım adım, detaylı ve uzun sürede dökümünün yapılması <strong>Meslek (İş) Analizi</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Delphi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Uzaktan anket tekniğidir.<br>• <strong>B) Görüşme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Sözlü soru-cevap tekniğidir.<br>• <strong>D) Kaynak tarama (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Kitap ve rapor incelemesidir.<br>• <strong>E) Test uygulama (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Bilgi ölçme testleridir."
+  },
+  {
+    "id": "egitim_video_test_4_q29",
+    "questionNumber": 29,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğretmenin öğrencilerin okul içindeki davranışlarını belirli formlar kullanarak izlemesi ve ilgi alanlarını belirlemesi hangi ihtiyaç belirleme tekniğidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Görüşme"
+      },
+      {
+        "key": "B",
+        "text": "Gözlem"
+      },
+      {
+        "key": "C",
+        "text": "Delphi"
+      },
+      {
+        "key": "D",
+        "text": "Progel"
+      },
+      {
+        "key": "E",
+        "text": "Kaynak tarama"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Gözlem)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Bireylerin doğal ortamlarındaki (sınıf, bahçe, atölye) davranışlarının, önceden hazırlanmış gözlem formları, kontrol listeleri veya derecelendirme ölçekleri kullanılarak izlenmesi <strong>Gözlem Tekniği</strong>dir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Görüşme (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Karşılıklı konuşma ve soru sormadır.<br>• <strong>C) Delphi (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Yazılı uzman anketleridir.<br>• <strong>D) Progel (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Çalıştayda meslek profili çıkarmadır.<br>• <strong>E) Kaynak tarama (Yanlış):</strong> Bu seçenek soruda aranan tanım veya bağlamın dışındadır; </strong> Mevzuat ve literatür okumadır."
+  },
+  {
+    "id": "egitim_video_test_4_q30",
+    "questionNumber": 30,
+    "testId": "egitim_video_test_4",
+    "testTitle": "Eğitim Bilimleri Video Tarama Testi 4 (Felsefi Temeller & Akımlar)",
+    "topicId": "egitim_video_test_4",
+    "topicName": "Eğitim Bilimleri - Felsefi Temeller",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki ihtiyaç belirleme tekniği ve açıklama eşleştirmelerinden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Delphi – Uzmanlardan ortak görüş alma"
+      },
+      {
+        "key": "B",
+        "text": "Progel – Deneyimli ve uzman kişilerden yararlanma"
+      },
+      {
+        "key": "C",
+        "text": "Meslek analizi – Mevcut işte çalışanlarla ihtiyaç belirleme"
+      },
+      {
+        "key": "D",
+        "text": "Gözlem – Öğrenci davranışlarını izleme"
+      },
+      {
+        "key": "E",
+        "text": "Kaynak tarama – Öğrencilere yetenek testi uygulama"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Kaynak tarama – Öğrencilere yetenek testi uygulama)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• • Kaynak tarama tekniği; bilimsel literatürün, raporların, önceki programların ve yürürlükteki mevzuatın incelenmesidir. Öğrencilere yetenek, başarı ya da zeka testi uygulamak <strong>Ölçme Araçları (Testler)</strong> tekniğidir.<br><br><br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Delphi – Uzmanlardan ortak görüş alma (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>B) Progel – Deneyimli ve uzman kişilerden yararlanma (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>C) Meslek analizi – Mevcut işte çalışanlarla ihtiyaç belirleme (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir.<br>• <strong>D) Gözlem – Öğrenci davranışlarını izleme (Yanlış):</strong> Bu ifade ilgili kavramın temel bir özelliğidir ve doğru bir ifadedir; soruda 'olmayan / yanlış olan' sorulduğundan aranan cevap değildir. </strong> Doğru eşleştirmedir."
+  },
+  {
+    "id": "egitim_prog_okur_q1",
+    "questionNumber": 1,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "(I) Merve bir sürücü kursuna devam etmektedir. Derste kurs öğretmeni ıslak zeminde durma mesafesinin uzayacağını söylemiş, aynı hıza sahip iki aracın kuru ve ıslak zemindeki durma mesafelerini karşılaştıran videolar izletmiştir. (II) Başka bir gün Merve otobüsle eve dönerken yağmur nedeniyle bir aracın duramayarak yoldan çıktığına tanık olmuştur.\n\nNumaralanmış bu iki durum sırasıyla aşağıdaki eğitim türlerinden hangisinin kapsamında yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Formal örgün – Formal yaygın"
+      },
+      {
+        "key": "B",
+        "text": "Formal yaygın – İnformal"
+      },
+      {
+        "key": "C",
+        "text": "İnformal – İnformal"
+      },
+      {
+        "key": "D",
+        "text": "İnformal – Formal yaygın"
+      },
+      {
+        "key": "E",
+        "text": "Formal örgün – İnformal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Formal yaygın – İnformal)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• 1. ve 2. Ders notlarımızda vurgulandığı üzere; sürücü kursu, belirli bir amaca yönelik, planlı-programlı ve resmi sertifika veren bir yaygın eğitim faaliyetidir. Merve'nin eve dönerken trafikte kazaya şahit olarak ıslak zeminin tehlikesini gözlemlemesi ise yaşamın doğal akışı içinde plansız ve tesadüfi gerçekleşen informal bir öğrenmedir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Formal örgün – Formal yaygın (Yanlış):</strong> Sürücü kursu örgün eğitim (okul öncesinden üniversiteye basamaklı diploma sistemi) değildir, yaygın eğitimdir. İkinci durum ise planlı değil tesadüfidir.<br>• <strong>C) İnformal – İnformal (Yanlış):</strong> Sürücü kursu uzman eğiticiler ve plan dahilinde yürütüldüğü için informal değil, formal yaygındır.<br>• <strong>D) İnformal – Formal yaygın (Yanlış):</strong> Birinci ve ikinci durumların sırası ters verilmiştir; kurs formal yaygın, kaza gözlemi ise informaldir.<br>• <strong>E) Formal örgün – İnformal (Yanlış):</strong> Sürücü kursu örgün eğitim basamağı değil, yaygın eğitim kurumudur.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q2",
+    "questionNumber": 2,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Güzel sanatlar lisesinde görev yapan edebiyat öğretmeni, öğrencilerle müzik üzerine sohbetler yaptığında sınıfta daha iyi iletişim sağlandığını fark ederek bir enstrüman çalma kursuna kaydolur.\n\nBuna göre öğretmenin kayıt yaptırdığı kurs aşağıdakilerden hangisinin kapsamında yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Halk eğitimi"
+      },
+      {
+        "key": "B",
+        "text": "Hizmet içi eğitim"
+      },
+      {
+        "key": "C",
+        "text": "İş başında eğitim"
+      },
+      {
+        "key": "D",
+        "text": "İnformal eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Örgün eğitim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Halk eğitimi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Ders notlarımızda açıklandığı üzere; bireyin kendi iradesi, kişisel gelişimi, merakı veya hobileri doğrultusunda okul dışı kurumlarda (Halk Eğitimi Merkezleri, belediye kursları, özel müzik kursları vb.) katıldığı faaliyetler Halk Eğitimi (Yaygın Eğitim) kapsamındadır.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Hizmet içi eğitim (Yanlış):</strong> Hizmet içi eğitim, personelin çalıştığı kurum tarafından mesleki görev ve yeterliliklerini geliştirmek amacıyla düzenlenen kurumsal eğitimdir; öğretmenin kendi tercihiyle gittiği hobi kursu değildir.<br>• <strong>C) İş başında eğitim (Yanlış):</strong> İş başında eğitim, çalışanın mesleğini icra ederken doğrudan iş yerinde veya tezgah başında eğitilmesidir.<br>• <strong>D) İnformal eğitim (Yanlış):</strong> Müzik kursu belirli bir plan, program, mekan ve öğretici eşliğinde yürütülen formal bir eğitimdir; sokakta veya evde kendiliğinden gerçekleşen informal öğrenme değildir.<br>• <strong>E) Örgün eğitim (Yanlış):</strong> Örgün eğitim okul öncesinden üniversiteye kademeli diploma sistemidir; enstrüman kursu örgün değil yaygın eğitimdir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q3",
+    "questionNumber": 3,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğretmenin eğitim programı tasarısını kendi performansı ve mevcut imkânlar doğrultusunda öğrenci kazanımına dönüştürmesiyle hayata geçirdiği program türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî"
+      },
+      {
+        "key": "B",
+        "text": "Örtük"
+      },
+      {
+        "key": "C",
+        "text": "İşlevsel"
+      },
+      {
+        "key": "D",
+        "text": "Ekstra"
+      },
+      {
+        "key": "E",
+        "text": "İhmal edilen"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (İşlevsel)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Posner'ın program sınıflamasında; yazılı/resmî tasarının sınıfta öğretmen tarafından bizzat uygulanmasıyla, öğretmenin performansı ve okul olanakları doğrultusunda somut öğrenci kazanımına dönüşen boyutuna Uygulamadaki (İşlevsel / İşgörüsel) Program denir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Resmî (Yanlış):</strong> Resmî program, Talim ve Terbiye Kurulunca onaylanmış yazılı ve basılı kuramsal tasarıdır; öğretmenin sınıfta fiilen hayata geçirdiği boyutu değil kağıt üzerindeki resmi halidir.<br>• <strong>B) Örtük (Yanlış):</strong> Örtük program, yazılı olmayan, okul kültürü, öğretmen tutumları ve okul iklimiyle öğrencilere dolaylı olarak aktarılan değer ve normlardır.<br>• <strong>D) Ekstra (Yanlış):</strong> Ekstra program, okulun gözetiminde ders dışı zamanlarda yapılan planlı sosyal, kültürel, sportif etkinliklerdir.<br>• <strong>E) İhmal edilen (Yanlış):</strong> İhmal edilen program, resmi programda yer aldığı halde zaman yetersizliği veya öğretmenin tercihiyle işlenmeyen, atlanan kısımlardır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q4",
+    "questionNumber": 4,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Okul Müdürü Kemal Bey, görev yaptığı okuldaki öğrencilerin daha yaratıcı ve üretken olmalarını sağlamak için okul bahçesine ekim yapma alanı, beceri ve tasarım atölyesi hobi merkezleri gibi yerler inşa ederek öğrencilerin kullanımına sunmuştur.\n\nBuna göre Kemal Bey'in aşağıdaki program türlerinden hangisine uygun çalışmalar yaptığı söylenebilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmi"
+      },
+      {
+        "key": "B",
+        "text": "Kubik"
+      },
+      {
+        "key": "C",
+        "text": "İhmal edilen"
+      },
+      {
+        "key": "D",
+        "text": "Ekstra"
+      },
+      {
+        "key": "E",
+        "text": "İşlevsel"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ekstra)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Okul yönetiminin gözetim ve rehberliğinde, öğrencilerin ilgi, yetenek ve yaratıcılıklarını geliştirmek amacıyla ders saatleri dışında sunulan bahçe ekim alanı, hobi atölyeleri ve kulüp alanları Ekstra Program kapsamındadır.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Resmi (Yanlış):</strong> Resmi program MEB tarafından zorunlu kılınan standart ders müfredatıdır; ders dışı hobi ve atölye alanları resmi müfredatın ötesindedir.<br>• <strong>B) Kubik (Yanlış):</strong> Kübik program, programın ögelerini üç boyutlu bir modelle açıklayan kuramsal bir tasarım yaklaşımıdır; ders dışı atölye etkinliklerini tanımlamaz.<br>• <strong>C) İhmal edilen (Yanlış):</strong> İhmal edilen program, müfredatta olup da öğretilmeyen/atlanan konulardır; burada yeni öğrenme imkanları oluşturulmuştur.<br>• <strong>E) İşlevsel (Yanlış):</strong> İşlevsel program, ders saatinde öğretmenin sınıfta fiilen yürüttüğü kazanımlardır; ders dışı fiziki hobi alanlarını doğrudan ifade etmez.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q5",
+    "questionNumber": 5,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İlkokul düzeyinde hazırlanan bir programda ikinci sınıf için aday kazanımlar arasında yer alan \"Demokrasi ile özgürlük arasındaki ilişkiyi açıklar.\" kazanımı hedef kitlenin gelişim ve öğrenme özelliklerine uygun bulunmamış ve bu kazanım programdan çıkarılmıştır.\n\nBu kazanımın çıkarılmasında program geliştirmenin aşağıdaki temellerinden hangisi dikkate alınmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Toplumsal"
+      },
+      {
+        "key": "B",
+        "text": "Felsefi"
+      },
+      {
+        "key": "C",
+        "text": "Ekonomik"
+      },
+      {
+        "key": "D",
+        "text": "Tarihi"
+      },
+      {
+        "key": "E",
+        "text": "Psikolojik"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Psikolojik)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Program geliştirmenin temellerinden Psikolojik Temel; gelişim ve öğrenme psikolojisi bulgularından yararlanarak hedeflerin öğrencinin yaşına, gelişim dönemine ve zihinsel hazırbulunuşluğuna uygun olup olmadığını (ulaşılabilirliğini) denetler. İlkokul 2. sınıf düzeyine soyut kalan bir kazanımın çıkarılması doğrudan bu temele dayanır.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Toplumsal (Yanlış):</strong> Toplumsal temel, toplumun kültürel değerlerini ve sosyal beklentilerini yansıtır; çocuğun yaş ve zihinsel gelişim özelliklerine uygunluğu denetlemez.<br>• <strong>B) Felsefi (Yanlış):</strong> Felsefi temel, hedeflerin tutarlılığını, anayasal vizyona uygunluğunu ve öncelik sırasını belirler; yaş düzeyine ulaşılabilirliği denetlemez.<br>• <strong>C) Ekonomik (Yanlış):</strong> Ekonomik temel, ülkenin insan gücü ve finansman ihtiyaçlarını inceler.<br>• <strong>D) Tarihi (Yanlış):</strong> Tarihi temel, geçmiş program uygulamalarından ve tecrübelerinden yararlanmayı sağlar.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q6",
+    "questionNumber": 6,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir okul müdürü eğitim sisteminin; tüm öğrencilere model olması amacıyla sorumluluk sahibi, empati yeteneği gelişmiş, özgür ve cesareti yüksek bireyler yetiştirmesi gerektiği görüşündedir.\n\nBu okul müdürünün benimsediği felsefi yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pragmatizm"
+      },
+      {
+        "key": "B",
+        "text": "Naturalizm"
+      },
+      {
+        "key": "C",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "D",
+        "text": "Realizm"
+      },
+      {
+        "key": "E",
+        "text": "İdealizm"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Varoluşçuluk)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• İnsanın varoluşunu, mutlak bireysel özgürlüğünü, sorumluluk almasını, empatiyi ve kendi özünü kendi seçimleriyle inşa etmesini savunan felsefe Varoluşçuluk (Egzistansiyalizm) felsefesidir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Pragmatizm (Yanlış):</strong> Pragmatizm, bilginin faydasını ve pratik hayattaki problem çözme gücünü merkeze alır; varoluşsal bireysel özgürlük ve cesaret kavramının felsefi temeli değildir.<br>• <strong>B) Naturalizm (Yanlış):</strong> Naturalizm, doğaya dönüşü ve insanın doğal içgüdülerine bırakılmasını savunur.<br>• <strong>D) Realizm (Yanlış):</strong> Realizm, insan zihninden bağımsız nesnel ve maddi dünyayı, bilimsel deney ve gözlemi temel alır.<br>• <strong>E) İdealizm (Yanlış):</strong> İdealizm, değişmez mutlak zihinsel ve ruhsal değerleri merkeze alır; insanın kendi özünü kendi seçimleriyle var etmesini savunmaz.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q7",
+    "questionNumber": 7,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir ortaokul müdür yardımcısı, bir araştırmacı tarafından kendisine verilen yarı yapılandırılmış görüşme formunda yer alan \"ideal eğitim sistemi nasıl olmalıdır?\" sorusuna cevap olarak şunları yazmıştır:\n\n\"Eğitimin odağı insan olmalıdır. İnsanın özgürlüğü önemlidir ve bu özgürlüğü sınırlandırmadığı gibi bireyin kendini gerçekleştirmesine yardımcı olan bir eğitim sistemi kurgulanmalıdır. Öğretmen merkezli eğitim kabul edilemez. Öğrencileri bir kitle olarak görmek yerine mümkün olduğunca bireye inilmeli ve onun tercihleri dikkate alınmalıdır. Toplumun genel olarak sahip olduğu değerlerin bireye kazandırılması yerine bireyin kendi sentezini yapmasına olanak sağlanmalıdır.\"\n\nBu müdür yardımcısının düşünceleri aşağıdaki felsefi akımlardan hangisiyle daha fazla örtüşmektedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Realizm"
+      },
+      {
+        "key": "B",
+        "text": "İdealizm"
+      },
+      {
+        "key": "C",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "D",
+        "text": "Pragmatizm"
+      },
+      {
+        "key": "E",
+        "text": "Natüralizm"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Varoluşçuluk)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Eğitimin odağına insanı koyan, bireyin özgürlüğünü kısıtlamadan kendi potansiyelini gerçekleştirmesine olanak tanıyan felsefe Varoluşçuluk felsefesidir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Realizm (Yanlış):</strong> Realizm, dış dünyadaki fiziksel gerçekliği ve nesnel yasaları öğretmeyi hedefler; odağına bireyin mutlak özgürlüğünü koymaz.<br>• <strong>B) İdealizm (Yanlış):</strong> İdealizm, mutlak değişmez evrensel ahlak ve akıl ilkelerini esas alır; bireysel özgürlükten ziyade evrensel değerlere uyumu savunur.<br>• <strong>D) Pragmatizm (Yanlış):</strong> Pragmatizm, fayda ve problem çözme odaklıdır; toplumsal yaşama uyumu hedefler.<br>• <strong>E) Natüralizm (Yanlış):</strong> Natüralizm, çocuğu doğanın doğal akışına bırakmayı savunur.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q8",
+    "questionNumber": 8,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir ortaokul müdürü, öğrenci merkezli öğretim yapılması için gerekli araç gereçlerin temin edilmesi, demokratik bir öğrenme-öğretme ortamı sağlanması ve öğrencilerin bireysel farklılıklarına yönelik öğrenme etkinlikleri düzenlenmesi için öğretmenleri ve öğrencileri teşvik etmektedir.\n\nBuna göre, okul müdürünün öğrenme-öğretme sürecine ilişkin yaklaşımı ve felsefesi aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yapılandırmacılık – Daimicilik"
+      },
+      {
+        "key": "B",
+        "text": "Davranışçılık – İlerlemecilik"
+      },
+      {
+        "key": "C",
+        "text": "Davranışçılık – Yeniden kurmacılık"
+      },
+      {
+        "key": "D",
+        "text": "Yapılandırmacılık – Yeniden kurmacılık"
+      },
+      {
+        "key": "E",
+        "text": "Yapılandırmacılık – İlerlemecilik"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yapılandırmacılık – İlerlemecilik)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Öğrenci merkezli, aktif öğrenmeyi, materyal kullanımını ve bireysel farklılıkları savunan öğrenme kuramı Yapılandırmacılık; demokratik ve yaşantı temelli eğitim felsefesi ise İlerlemeciliktir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Yapılandırmacılık – Daimicilik (Yanlış):</strong> Daimicilik katı, otoriter ve değişmez klasik eserleri merkeze alan seçkinci felsefedir; demokratik ve öğrenci merkezli anlayışa zıttır.<br>• <strong>B) Davranışçılık – İlerlemecilik (Yanlış):</strong> Davranışçılık öğretmenin pekiştireçlerle davranışı koşullandırdığı öğretmen merkezli geleneksel bir yaklaşımdır.<br>• <strong>C) Davranışçılık – Yeniden kurmacılık (Yanlış):</strong> Davranışçılık öğrenci merkezli ortama uymaz; yeniden kurmacılık ise okulu toplumun reform merkezine koyar.<br>• <strong>D) Yapılandırmacılık – Yeniden kurmacılık (Yanlış):</strong> Okul müdürünün teşvik ettiği sınıf ortamı demokratik ve öğrenci merkezli ilerlemeciliktir; toplumsal krizleri çözmeye odaklanan yeniden kurmacılık değildir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q9",
+    "questionNumber": 9,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Katı bir yönetim anlayışı sergileyen okul müdürü, öğrencilerin özgürlük alanlarının daraltılması ve mümkün olduğunca kontrol altında tutunmasını savunmaktadır. Kontrol elden bırakılırsa disiplini tekrar sağlamak için çok fazla emek ve zaman gerekeceğini düşünmektedir.\n\nBuna göre okul müdürünün yönetim anlayışı aşağıdaki felsefi akımlardan hangisiyle örtüşmektedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Daimicilik"
+      },
+      {
+        "key": "B",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "C",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "D",
+        "text": "Doğacılık"
+      },
+      {
+        "key": "E",
+        "text": "Yeniden kurmacılık"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Daimicilik)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Öğrencilerin kontrol altında tutulmasını, katı disiplini, otoriteye koşulsuz itaati ve kontrol elden bırakılırsa kaos çıkacağını savunan geleneksel eğitim felsefeleri Daimicilik ve Esasiciliktir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Varoluşçuluk (Yanlış):</strong> Varoluşçuluk bireysel özgürlüğü ve kuralların dayatılmamasını savunur; katı kontrole tamamen karşıdır.<br>• <strong>C) İlerlemecilik (Yanlış):</strong> İlerlemecilik demokratik, katılımcı ve öğrenci merkezli bir okul ortamını savunur.<br>• <strong>D) Doğacılık (Yanlış):</strong> Doğacılık çocuğu baskı altına almadan serbest gelişimini savunur.<br>• <strong>E) Yeniden kurmacılık (Yanlış):</strong> Yeniden kurmacılık toplumdaki aksaklıkları gidermeyi ve demokratik dönüşümü amaçlar.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q10",
+    "questionNumber": 10,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Geliştirilecek olan bir eğitim programına ilişkin ihtiyaç analizi sürecinde, programla ilgili uzman ve paydaş görüşü alınması hedeflenmektedir. Bunun için geniş bir kitleye ulaşılması ve birçok kişiden farklı görüşler alınarak ortak görüşe varılması planlanmaktadır.\n\nBu süreçte kullanılabilecek en uygun ihtiyaç belirleme yaklaşımı ve değerlendirme tekniği aşağıdakilerin hangisinde birlikte verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Betimsel - Görüşme"
+      },
+      {
+        "key": "B",
+        "text": "Demokratik - DACUM"
+      },
+      {
+        "key": "C",
+        "text": "Demokratik – Delphi"
+      },
+      {
+        "key": "D",
+        "text": "Analitik - Meslek analizi"
+      },
+      {
+        "key": "E",
+        "text": "Analitik - Gözlem"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Demokratik – Delphi)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Geniş kitlelerin, uzmanların ve paydaşların beklentilerini esas alan yaklaşım Demokratik Yaklaşım; coğrafi olarak farklı bölgelerdeki çok sayıda uzmandan birbirlerini görmeden anket turları ile ortak görüş toplanması tekniği ise Delphi Tekniğidir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Betimsel - Görüşme (Yanlış):</strong> Betimsel yaklaşım mevcut durumun fayda-maliyetini analiz eder; görüşme ise genellikle yüz yüze veya sözlü yapılır, geniş kitlelerin bağımsız anket turlarını ifade etmez.<br>• <strong>B) Demokratik - DACUM (Yanlış):</strong> DACUM (İş/Görev Analizi) tekniğinde uzmanlar birkaç günlüğüne bir araya gelerek çalıştayı yüz yüze yürütür; anket turlarıyla geniş kitlelerden uzaktan görüş toplanan teknik değildir.<br>• <strong>D) Analitik - Meslek analizi (Yanlış):</strong> Analitik yaklaşım gelecekteki olası eğilimleri kestirmeyi hedefler; meslek analizi ise bir mesleğin adım adım işlem basamaklarını çıkarır.<br>• <strong>E) Analitik - Gözlem (Yanlış):</strong> Gözlem bireylerin sahadaki davranışlarının canlı olarak izlenip kaydedilmesidir; anket turlarıyla ortak görüşe varma yöntemi değildir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q11",
+    "questionNumber": 11,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Program geliştirme sürecinde programın bütün ögelerinin şekillenmesinde faydalanılan, özellikle de hedeflerin belirlenmesinde ağırlıklı role sahip olan disiplin aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Psikoloji"
+      },
+      {
+        "key": "B",
+        "text": "Tarih"
+      },
+      {
+        "key": "C",
+        "text": "Ekonomi"
+      },
+      {
+        "key": "D",
+        "text": "Felsefe"
+      },
+      {
+        "key": "E",
+        "text": "Sosyoloji"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Felsefe)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Program geliştirme sürecinde programın bütün ögelerine (hedef, içerik, eğitim durumları, değerlendirme) yön veren, aday hedeflerin toplumun değerlerine uygunluğunu ve iç/dış tutarlılığını denetleyen disiplin Felsefedir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Psikoloji (Yanlış):</strong> Psikoloji; hedeflerin öğrencinin gelişim ve hazırbulunuşluk düzeyine uygunluğunu (ulaşılabilirliğini) denetler ve öğrenme yöntemlerine rehberlik eder. Hedeflerin felsefi tutarlılığını veya hiyerarşik öncelik sırasını kurmaz.<br>• <strong>B) Tarih (Yanlış):</strong> Tarih; geçmişteki eğitim programı tecrübelerinden, başarı ve hatalardan ders çıkarılmasını sağlar. Program ögelerinin genel felsefi çatısını kurmaz.<br>• <strong>C) Ekonomi (Yanlış):</strong> Ekonomi; insan gücü (istihdam) ihtiyacını, okul bütçesini ve maliyet-yarar dengesini inceler.<br>• <strong>E) Sosyoloji (Yanlış):</strong> Sosyoloji; toplumun yapısını, dinamiklerini ve kültürel değerlerini inceler. Hedefler arasındaki mantıksal ve felsefi tutarlılık süzgeci rolünü üstlenmez.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q12",
+    "questionNumber": 12,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğretmen yüksek lisans tezini hazırlarken portfolyo konusuna ilişkin alan yazın taraması yapmış, problem durumunu oluşturmuş ve buna uygun yöntem kullanarak çalışmasını yürütmüş, tezini yazarak danışmanına sunmuştur. Tez danışmanı bulgulardan yola çıkılarak varılan sonuçların yeterli olduğunu ancak alan yazın taramasının uluslararası kaynaklar kullanılarak genişletilmesi gerektiğini belirtmiştir.\n\nBuna göre öğretmen ve tez danışmanına ait davranışların temsil ettiği bilişsel basamaklar yenilenmiş Bloom Taksonomisi'ne göre aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yaratma – Analiz etme"
+      },
+      {
+        "key": "B",
+        "text": "Anlama – Analiz etme"
+      },
+      {
+        "key": "C",
+        "text": "Analiz etme – Yaratma"
+      },
+      {
+        "key": "D",
+        "text": "Yaratma – Değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Analiz etme - Değerlendirme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yaratma – Değerlendirme)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Yenilenmiş Bloom Taksonomisinde; literatürü tarayarak yeni ve özgün bir ürün, model, tez veya ölçek ortaya koymak Yaratma (Creating) basamağıdır. Ortaya konan bir çalışmayı belirli ölçütlere göre inceleyip yeterliliği ve eksiklikleri hakkında eleştirel karar vermek/yargıda bulunmak ise Değerlendirme (Evaluating) basamağıdır.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Yaratma – Analiz etme (Yanlış):</strong> Danışmanın davranışı sadece analiz etmek değil, tezin yeterliliği hakkında bir ölçüte göre hüküm vermek yani değerlendirmektir.<br>• <strong>B) Anlama – Analiz etme (Yanlış):</strong> Öğretmenin yaptığı çalışma sıradan bir kavrama/anlama değil, özgün bir tez ve ölçme aracı ortaya çıkarma yani yaratmadır.<br>• <strong>C) Analiz etme – Yaratma (Yanlış):</strong> Basamakların sırası terstir ve danışmanın eleştirisi yaratma değil değerlendirmedir.<br>• <strong>E) Analiz etme - Değerlendirme (Yanlış):</strong> Öğretmenin eylemi yalnızca parçaları ayırma analizi değil, yeni ve özgün bir sentez ortaya çıkarma (yaratma) çalışmasıdır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q13",
+    "questionNumber": 13,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Davranışlarından sorumlu olma ve vicdanına göre hareket etmenin öneminin farkında olan ve bunu okulunda da geliştirmek isteyen bir okul müdürü, bu değerlerin öğrencilerin değer yapılarının bir parçası haline gelmesi için öğretmenlerden, Bloom ve arkadaşları tarafından geliştirilen duyuşsal alan basamaklarını içeren çeşitli etkinlikler planlamalarını istemiştir.\n\nBuna göre okul müdürünün istemiş olduğu etkinliklerde ilk olarak aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bir öykü içinde değerin fark edilmesi sağlanmalıdır"
+      },
+      {
+        "key": "B",
+        "text": "Örnek olay içinde değeri açıklamak için fırsatlar sunulmalıdır"
+      },
+      {
+        "key": "C",
+        "text": "Değerin önemini takdir etmek için biyografiler analiz edilmelidir"
+      },
+      {
+        "key": "D",
+        "text": "Yeni değerler organize edilerek değer sisteminin parçası haline getirilmelidir"
+      },
+      {
+        "key": "E",
+        "text": "Değerlerin davranışa dönüşerek tekrar etmesi için yardımcı olunmalıdır"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bir öykü içinde değerin fark edilmesi sağlanmalıdır)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Duyuşsal alan basamakları sırasıyla: 1. Alma, 2. Tepkide Bulunma, 3. Değer Verme, 4. Örgütleme, 5. Nitelenmişlik (Kişilik haline getirme) basamaklarıdır. Okul müdürünün istediği etkinlik zincirinde İLK OLARAK yapılması gereken, en alt basamak olan 'Alma' basamağıdır.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Örnek olay içinde değeri açıklamak için fırsatlar sunulmalıdır (Yanlış):</strong> Örnek olay içinde değeri açıklama ve katılma isteği gösterme 2. basamak olan 'Tepkide Bulunma' düzeyindedir; ilk basamak değildir.<br>• <strong>C) Değerin önemini takdir etmek için biyografiler analiz edilmelidir (Yanlış):</strong> Değere önem ve takdir atfetme 3. basamak olan 'Değer Verme' düzeyindedir.<br>• <strong>D) Yeni değerler organize edilerek değer sisteminin parçası haline getirilmelidir (Yanlış):</strong> Yeni değerleri organize ederek kendi değer sistemine dahil etme 4. basamak olan 'Örgütleme' düzeyindedir.<br>• <strong>E) Değerlerin davranışa dönüşerek tekrar etmesi için yardımcı olunmalıdır (Yanlış):</strong> Değerlerin yaşam tarzı ve karakter haline dönüşmesi en üst basamak olan 'Nitelenmişlik (Karakterleme)' düzeyindedir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q14",
+    "questionNumber": 14,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir görsel sanatlar öğretmeni resimlerde renklerin kullanımını öğrencilerin renk kullanım becerileri geliştikçe derslerinde daha ayrıntılı bir şekilde ele almaktadır. Gerektiğinde yaptığı tekrar ve hatırlatmalarla öğrencilerin renkleri etkili kullanmalarına destek olmaktadır.\n\nBu öğretmen ders içeriğini aşağıdaki içerik düzenleme yaklaşımlarından hangisine uygun olarak şekillendirmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Konu ağı-Proje merkezli"
+      },
+      {
+        "key": "B",
+        "text": "Modüler"
+      },
+      {
+        "key": "C",
+        "text": "Sarmal"
+      },
+      {
+        "key": "D",
+        "text": "Piramitsel"
+      },
+      {
+        "key": "E",
+        "text": "Çekirdek"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sarmal)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Bruner'in Sarmal yaklaşımında konular süreç içinde tekrar tekrar ele alınır; her tekrarda kapsam genişler ve derinlik artar. Resim öğretmeninin renk kullanımını beceri geliştikçe tekrar ve hatırlatmalarla daha ayrıntılı ele alması tam bir Sarmal tasarımdır.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Konu ağı-Proje merkezli (Yanlış):</strong> Konu ağı-Proje merkezli yaklaşımda konular kavram haritası veya ağ şeması şeklinde verilir ve öğrenciler projeler yürütür.<br>• <strong>B) Modüler (Yanlış):</strong> Modüler yaklaşımda içerik birbirinden bağımsız öğrenme paketleri/üniteleri şeklinde parçalara ayrılır.<br>• <strong>D) Piramitsel (Yanlış):</strong> Piramitsel yaklaşımda ilk yıllar geniş tabanlı olup sonraki yıllarda öğrencinin alanı daralarak tek bir alanda katı bir uzmanlaşma sağlanır.<br>• <strong>E) Çekirdek (Yanlış):</strong> Çekirdek yaklaşımında ortak bir çekirdek ders etrafında toplumsal sorunlar incelenir.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q15",
+    "questionNumber": 15,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir müzik öğretmeni dersinde Hint, Kafkas, İran ve Latin müziği gibi farklı kültürlere ait müzikleri tanıtmak istemektedir. Bunun için her bir kültüre ait müzik aletleri ve melodilerden örnekler toplamayı ve her hafta bir kültüre ait müziği uygulamalı olarak öğrencilerine tanıtmayı planlamaktadır.\n\nBu öğretmen aşağıdaki içerik düzenleme yaklaşımlarından hangisini dikkate almaktadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Doğrusal"
+      },
+      {
+        "key": "B",
+        "text": "Sarmal"
+      },
+      {
+        "key": "C",
+        "text": "Modüler"
+      },
+      {
+        "key": "D",
+        "text": "Piramitsel"
+      },
+      {
+        "key": "E",
+        "text": "Çekirdek"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Modüler)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• İçeriğin birbirinden bağımsız, kendi içinde anlamlı bütünler oluşturan öğrenme paketleri/üniteleri şeklinde düzenlenmesine Modüler Program Tasarımı denir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Doğrusal (Yanlış):</strong> Doğrusal yaklaşımda konular katı önkoşul ilişkisiyle ardışık ve zincirleme dizilir (biri bitmeden diğeri öğretilemez). Farklı müzik kültürleri arasında bu tür bir zorunlu sıra yoktur.<br>• <strong>B) Sarmal (Yanlış):</strong> Sarmal yaklaşımda aynı konu zaman içinde derinleşerek ve genişleyerek tekrar edilir.<br>• <strong>D) Piramitsel (Yanlış):</strong> Piramitsel yaklaşım tek bir alanda katı uzmanlaşma sunan modeldir.<br>• <strong>E) Çekirdek (Yanlış):</strong> Çekirdek yaklaşım ortak çekirdek konular etrafında toplumsal problemleri ele alır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q16",
+    "questionNumber": 16,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir üniversitenin lisans programına kayıtlı öğrenciler, ilk iki yıl farklı bölümlerde de yer alan ortak dersleri alırlar. Diğer yıllarda ise kendi bölümlerine ait derslere devam ederek uzman olacakları alanda eğitimlerini tamamlarlar.\n\nBu üniversitenin ilgili lisans programında aşağıdaki içerik düzenleme yaklaşımlarından hangisi kullanılmaktadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sarmal"
+      },
+      {
+        "key": "B",
+        "text": "Piramitsel"
+      },
+      {
+        "key": "C",
+        "text": "Doğrusal"
+      },
+      {
+        "key": "D",
+        "text": "Modüler"
+      },
+      {
+        "key": "E",
+        "text": "Konu ağı – Proje merkezli"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Piramitsel)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• İlk yıllarda geniş tabanlı ortak derslerin okutulduğu, ilerleyen sınıflarda ise programın giderek daralarak öğrencinin kayıtlı olduğu bölüme ait uzmanlık derslerine dönüştüğü katı modele Piramitsel İçerik Tasarımı denir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Sarmal (Yanlış):</strong> Sarmal yaklaşım konuların tekrar edilerek derinleşmesini ve genişlemesini esas alır.<br>• <strong>C) Doğrusal (Yanlış):</strong> Doğrusal yaklaşım konuların basitten karmaşığa ardışık önkoşul sırasıyla ilerlemesidir.<br>• <strong>D) Modüler (Yanlış):</strong> Modüler yaklaşım bağımsız öğrenme paketlerini ifade eder.<br>• <strong>E) Konu ağı – Proje merkezli (Yanlış):</strong> Konu ağı – Proje merkezli tasarımda konular kavram haritasıyla sunulur ve proje çalışmaları yapılır.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q17",
+    "questionNumber": 17,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yabancı dil öğretmenlerinin yıllık plan üzerinde çalıştığı zümre toplantısına katılan bir okul müdürü; içeriğin etkili ve verimli düzenlenmesi için konuların hem kendi içinde hem de diğer konular arasında mantıklı bir şekilde sıralanmasının gerektiğini söyler. Bununla birlikte bazı konuların farklı zamanlarda daha ayrıntılı bir şekilde tekrarlanmasının yapılandırmacı yaklaşımla yürütülen yabancı dil öğretiminde etkili olduğunu vurgular.\n\nBuna göre okul müdürünün konuşmasında önerdiği içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sarmal"
+      },
+      {
+        "key": "B",
+        "text": "Doğrusal"
+      },
+      {
+        "key": "C",
+        "text": "Piramitsel"
+      },
+      {
+        "key": "D",
+        "text": "Çekirdek"
+      },
+      {
+        "key": "E",
+        "text": "Modüler"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sarmal)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Konuların zaman içinde farklı düzeylerde tekrar edilerek daha ayrıntılı işlenmesi ve yapılandırmacı yaklaşımla birebir örtüşmesi Bruner'in Sarmal İçerik Tasarımıdır.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>B) Doğrusal (Yanlış):</strong> Doğrusal yaklaşımda konular önkoşul bağıyla zincirleme ilerler; konuların derinleşerek tekrar edilmesi değil ilerlemesi esastır.<br>• <strong>C) Piramitsel (Yanlış):</strong> Piramitsel yaklaşım geniş tabandan başlayıp tek uzmanlıkta daralan katı programdır.<br>• <strong>D) Çekirdek (Yanlış):</strong> Çekirdek yaklaşımı ortak çekirdek dersler etrafında toplumsal sorunları ele alır.<br>• <strong>E) Modüler (Yanlış):</strong> Modüler yaklaşım bağımsız paket ünitelerden oluşur.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q18",
+    "questionNumber": 18,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Millî Eğitim Bakanlığı merkez teşkilatında görev yapan bir yönetici: \"Hazırlanacak eğitim planlarında öncelikle ne yapılacağı belirlenmeli ve ardından 'nasıl, ne zaman, nerede, niçin, kim tarafından' yapılacağı açık ve net bir şekilde ifade edilmelidir.\" demiştir.\n\nBu ifadede eğitim planlarına ilişkin aşağıdaki ilkelerden hangisine vurgu yapılmaktadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bütünlük"
+      },
+      {
+        "key": "B",
+        "text": "Süreklilik"
+      },
+      {
+        "key": "C",
+        "text": "Ölçülebilirlik"
+      },
+      {
+        "key": "D",
+        "text": "Yalınlık"
+      },
+      {
+        "key": "E",
+        "text": "Güvenilirlik"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yalınlık)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• Eğitim planlarında nelerin yapılacağının ve 'nasıl, ne zaman, nerede, niçin, kim tarafından' yapılacağının hiçbir tereddüde yer bırakmayacak biçimde açık, net, sade ve anlaşılır ifade edilmesi Yalınlık (Açıklık) ilkesidir.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Bütünlük (Yanlış):</strong> Bütünlük ilkesi programın tüm ögelerinin ve derslerin birbiriyle uyumlu ve tutarlı bir sistem oluşturmasını ifade eder.<br>• <strong>B) Süreklilik (Yanlış):</strong> Süreklilik ilkesi öğrenme yaşantılarının kesintiye uğramadan birbirini izlemesini ve desteklemesini kapsar.<br>• <strong>C) Ölçülebilirlik (Yanlış):</strong> Ölçülebilirlik hedeflerin somut, gözlenebilir ve test edilebilir davranış ifadeleriyle yazılmasını belirtir.<br>• <strong>E) Güvenilirlik (Yanlış):</strong> Güvenilirlik ölçme sonuçlarının tesadüfi hatalardan arınık ve kararlı olmasını ifade eder; planlama metninin dilsel açıklığını tanımlamaz.",
+    "hasImage": false,
+    "image": null
+  },
+  {
+    "id": "egitim_prog_okur_q19",
+    "questionNumber": 19,
+    "testId": "egitim_program_okuryazarligi",
+    "testTitle": "Program Okuryazarlığı Testi",
+    "topicId": "egitim_program_okuryazarligi",
+    "topicName": "Eğitim Bilimleri - Program Okuryazarlığı",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yeni geliştirilen bir öğretim programının deneneceği pilot okulda yöneticilik yapan ve yüksek lisansını program geliştirme alanında tamamlamış olan Hüseyin Bey programın işlevselliğini değerlendirmek için bir soru listesi hazırlar.\n\nBuna göre programın sadece işlevsellik özelliğini değerlendirmek isteyen Hüseyin Bey, listesinde aşağıdaki sorulardan hangisine yer vermemelidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Programda yer verilen konular ve etkinlikler hayatta geçerli mi?"
+      },
+      {
+        "key": "B",
+        "text": "Program, öğrencilerin günlük yaşam problemlerini çözme becerilerini geliştiriyor mu?"
+      },
+      {
+        "key": "C",
+        "text": "Program, bireyin ve toplumun ihtiyaçlarına cevap veriyor mu?"
+      },
+      {
+        "key": "D",
+        "text": "Programın kazanımları, kazanım yazma kurallarına uygun yazılmış mı?"
+      },
+      {
+        "key": "E",
+        "text": "Program, öğrencilerin yaparak yaşayarak öğrenmelerine fırsat veriyor mu?"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Programın kazanımları, kazanım yazma kurallarına uygun yazılmış mı?)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• İşlevsellik; programda öğretilen bilgi ve becerilerin günlük hayatta işe yaraması, pratik fayda sağlaması ve bireyin/toplumun gerçek yaşam ihtiyaçlarını karşılamasıdır. Kazanımların teknik yazım kurallarına uygunluğu ise işlevsellik değil 'biçimsel/teknik uygunluk' boyutudur.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Programda yer verilen konular ve etkinlikler hayatta geçerli mi? (Yanlış):</strong> Konu ve etkinliklerin hayatta geçerli olması, bilginin pratik değerini gösterdiği için doğrudan işlevsellikle ilgilidir ve listede yer almalıdır.<br>• <strong>B) Program, öğrencilerin günlük yaşam problemlerini çözme becerilerini geliştiriyor mu? (Yanlış):</strong> Öğrencilerin günlük yaşam problemlerini çözebilmesi işlevsellik ilkesinin en temel sonucudur; listede yer almalıdır.<br>• <strong>C) Program, bireyin ve toplumun ihtiyaçlarına cevap veriyor mu? (Yanlış):</strong> Bireyin ve toplumun ihtiyaçlarına cevap vermek programın hayatiyetini ve işlevselliğini doğrudan yansıtır; listede yer almalıdır.<br>• <strong>E) Program, öğrencilerin yaparak yaşayarak öğrenmelerine fırsat veriyor mu? (Yanlış):</strong> Yaparak yaşayarak öğrenme becerilerin kalıcı olmasını ve hayata aktarılmasını sağladığından işlevselliği destekler; listede yer almalıdır.",
+    "hasImage": false,
+    "image": null
   }
 ];

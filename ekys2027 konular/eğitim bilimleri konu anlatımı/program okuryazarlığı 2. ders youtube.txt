@@ -1,0 +1,221 @@
+İyi akşamlar arkadaşlar. Bugün program okuryazarlığı konusunun ikinci günündeyiz ve bu alanı birlikte eksiksiz tamamlayacağız. Geçen hafta başladığımız temel çerçeveyi hızlıca zihnimizde tazeleyip ardından program tasarısının ana öğelerine geçeceğiz.
+
+---
+
+### Geçen Haftanın Özeti ve Temel Kavramlar
+
+Program okuryazarlığında; eğitim bilimlerine giriş, program geliştirmenin temelleri ve tarihçesi gibi konular üzerinde durduk. Ancak asıl ağırlık merkezimiz **hedef, içerik, eğitim durumları ve sınama durumları** ekseninde şekillenmektedir.
+
+* **Eğitim:** Bireyde kendi yaşantısı yoluyla istendik davranış değişikliği meydana getirme sürecidir.
+* **Öğretim:** Eğitimin planlı, programlı ve genellikle okullarda yürütülen kurumsal boyutudur.
+* **Öğrenme:** Yaşantı veya tekrar sonucu meydana gelen kalıcı izli davranış değişikliğidir.
+* **Kültür:** Bireyin ve toplumun ortak yaşama biçimidir.
+* **Eğitimin En Temel İşlevi:** Bireyin kendini gerçekleştirmesine imkân sağlamaktır.
+
+#### Eğitimin Planlılık Durumuna Göre Sınıflandırılması
+
+* **İnformal Eğitim:** Doğal ortamda, kendiliğinden, plansız ve programsız gelişen; gözlem ve taklit yoluyla edinilen eğitim sürecidir.
+* **Formal Eğitim:** Önceden hazırlanmış bir plan ve program dâhilinde, profesyonel eğiticiler tarafından yürütülen eğitimdir. İkiye ayrılır:
+* **Örgün Eğitim:** Belirli yaş gruplarına yönelik, basamaklı, birbirinin ön koşulu olan, uzun süreli ve sonucunda diploma kazandıran okul eğitimidir.
+* **Yaygın Eğitim:** Yaş sınırlaması olmayan, örgün eğitimin yanında veya dışında yürütülen, kısa süreli, sertifika/katılım belgesi odaklı eğitimdir. İki alt başlıkta incelenir:
+* **Hizmet İçi Eğitim:** Kişinin çalıştığı kurum tarafından, mesleki yeterliliğini artırmak amacıyla düzenlenen programlardır.
+* **Halk Eğitimi:** Bireyin kendi iradesi ve kişisel gelişimi doğrultusunda tercih edip katıldığı kurslardır.
+
+
+
+
+* **Sargın Eğitim:** Bireyin kurumsal bir yapıya bağlı kalmadan, tamamen kendi çabası ve imkânlarıyla (örneğin internetten video izleyerek saz çalmayı veya dil öğrenmeyi denemesi gibi) gerçekleştirdiği kendi kendine öğrenme sürecidir.
+
+#### Posner'ın Program Türleri
+
+* **Resmî Program:** Yazılı, onaylı, devletin belirlediği çerçeve programdır.
+* **Uygulamadaki Program:** Resmî programın sınıfta somut olarak hayata geçen, uygulanan boyutudur.
+* **Ekstra Program:** Okulun imkânları dâhilinde resmî programın dışına çıkılarak planlanan kulüp, koro, tiyatro gibi etkinliklerdir.
+* **Örtük Program:** Yazılı olmayan, okul iklimi, öğretmen tutum ve mimikleriyle spontane gelişen değerler ve normlar bütünüdür.
+* **Geçersiz (İhmal Edilen) Program:** Zaman yetersizliği veya öğretmenin tercihiyle işlenmeyen, atlanan konulardır.
+
+#### Program Geliştirmenin Temelleri
+
+* **Tarihsel Temel:** Geçmiş programların güçlü ve zayıf yönlerini analiz ederek olumluları almak, aksaklıkları ayıklamaktır.
+* **Konu Alanı Temeli:** İçeriğin bilimsel geçerliliği, doğruluğu ve güncelliğidir.
+* **Ekonomik Temel:** Ülkenin mali kaynakları ve istihdam dengesidir; program bütçeyle tutarlı olmalıdır.
+* **Toplumsal Temel:** Toplumun değerleri, kültürel yapısı ve toplumsal uyum ihtiyacıdır.
+* **Bireysel Temel:** Öğrencinin bilişsel, duyuşsal ve devinişsel bir bütün olarak gelişimini ve kendini gerçekleştirmesini merkeze alır (hümanistik yaklaşım).
+* **Psikolojik Temel:** Gelişim ve öğrenme psikolojisinin bulgularından yararlanarak hedeflerin ulaşılabilirliğini ve özellikle öğretim yöntem/tekniklerini şekillendirir.
+* **Felsefi Temel:** Hedeflerin iç ve dış tutarlılığını sağlamada, yeni hedefler belirlemede ve öncelik sırasına koymada en belirleyici temeldir.
+
+#### Felsefe Alanları ve Akımları
+
+* **Ontoloji (Varlık):** Varlığın kökenini inceler.
+* **Epistemoloji (Bilgi):** Bilginin kaynağını, doğruluğunu ve sınırlarını sorgular.
+* **Aksiyoloji (Değerler):** Etik ve estetik başta olmak üzere değerler alanını irdeler.
+* **Mantık:** Doğru ve tutarlı akıl yürütme ilkelerini inceler.
+* **İdealizm:** Gerçekliğin insan zihnini aşkın, mutlak ve düşünsel olduğunu savunur; bilgiye tefekkür ve derin akıl yürütmeyle ulaşılır.
+* **Realizm:** Gerçekliğin insan zihninden bağımsız, somut ve nesnel olduğunu savunur; deney ve gözlem esastır.
+* **Pragmatizm:** Faydacılığı temel alır; yarar sağlayan bilgi ve eylem doğrudur, bilgi dinamiktir.
+* **Eksistansiyalizm (Varoluşçuluk):** İnsana sınırsız özgürlük alanı tanır; ancak bu özgürlük sorumsuzluk değil, eylemlerinin sonuçlarını kabullenme sorumluluğu getirir.
+
+#### Eğitim Felsefeleri
+
+* **Daimicilik:** Klasik eserler, değişmeyen evrensel doğrular ve entelektüel eğitim merkezdedir; öğretmen otoritedir.
+* **Esasicilik:** Geleneksel, öğretmen merkezli, disipline ve ezbere dayalı; zihnin boş bir levha (tabula rasa) olarak görüldüğü anlayıştır.
+* **İlerlemecilik:** Çağdaş, öğrenci merkezli, yaparak-yaşayarak öğrenmeyi ve problem çözmeyi temel alan demokratik yaklaşımdır.
+* **Yeniden Kurmacılık:** Okulun temel görevinin toplumu dönüştürmek, yeniden inşa etmek ve demokrasiyi tabana yaymak olduğunu savunur.
+
+#### İhtiyaç Belirleme Yaklaşımları ve Teknikleri
+
+* **Farklar Yaklaşımı:** Olması gereken durum ile mevcut durum arasındaki farkı tespit eder.
+* **Betimsel Yaklaşım:** Bir durumun varlığının sağladığı fayda ile yokluğunun getireceği zararın analiz edilmesidir (iyileştirme/fayda odaklıdır).
+* **Demokratik Yaklaşım:** Çoğunluğun, baskın grupların ve paydaşların beklentilerini yansıtır.
+* **Analitik Yaklaşım:** Gelecekte doğması muhtemel ihtiyaçları öngörmeye dayalı analizlerdir.
+* **Delphi Tekniği (Anket Geliştirme):** Uzmanların birbirini görmeden, bağımsız olarak yazılı anketlerle görüş bildirdiği ve ortak uzlaşıya varıldığı tekniktir.
+* **Progel (DACUM):** Alanında yetişmiş dış uzmanların kısa sürede ve nesnel olarak mesleğin profilini çıkardığı program geliştirme tekniğidir.
+* **Meslek Analizi:** İlgili mesleği bizzat icra eden çalışanlar tarafından iş başında yapılan, daha uzun süreli analiz sürecidir.
+
+---
+
+### Program Tasarısının Ögeleri
+
+Bir öğretim programı dört temel bileşenden meydana gelir: **Hedef**, **İçerik**, **Eğitim Durumları** ve **Sınama Durumları**.
+
+```
+    [ HEDEF ] (Niçin?)
+        │
+        ▼
+   [ İÇERİK ] (Ne?)
+        │
+        ▼
+[ EĞİTİM DURUMLARI ] (Nasıl?)
+        │
+        ▼
+[ SINAMA DURUMLARI ] (Ne kadar?)
+
+```
+
+---
+
+### 1. Hedef (Kazanım)
+
+Öğrencilere eğitim süreci sonunda kazandırılması planlanan istendik özellikler ve yeterliliklerdir. Programın diğer tüm ögeleri hedefe göre yapılandırılır.
+
+**Hedeflerin Taşıması Gereken Temel Nitelikler:**
+
+* **Öğrenci Davranışına Dönüklük:** Hedef ifadesi öğretmenin yapacağı eylemi değil, öğrencinin göstereceği davranışı ifade etmelidir. Örneğin "Muasır medeniyet seviyesine yükselmek" bir devlet hedefidir; ancak "Çağdaş eğitimin ilkelerini açıklar" ifadesi öğrenciye dönük bir kazanımdır.
+* **Açık ve Seçiklik:** Hedef, okuyan herkes tarafından aynı biçimde anlaşılmalı, yoruma açık olmamalıdır.
+* **Konu Alanıyla Kenetlilik:** Hedefin hangi disipline ve konuya ait olduğu belirgin olmalıdır.
+* **Genellik ve Sınırlılık:** Hedef tek bir kazanım alanını kapsayacak kadar genel, tek bir davranışsal yargı bildirecek kadar sınırlı olmalıdır. "Bilir ve açıklar" gibi iki farklı basamağı birleştiren çift yargılı ifadelerden kaçınılmalıdır.
+* **Ulaşılabilirlik:** Öğrencinin gelişim düzeyine ve hazırbulunuşluğuna uygun olmalıdır.
+* **Ürüne Dönüklük:** Öğrenme sürecini (yapılacak etkinlikleri) değil, sürecin nihai çıktısını tanımlamalıdır.
+* **Bitişiklik (Aşamalık):** Hedefler alt basamaktan üst basamağa doğru hiyerarşik bir sıra takip etmeli, binişik olmamalıdır.
+* **İşlevsellik ve Tutarlık:** Hayatta karşılığı olmalı, öğrencinin işine yaramalı ve kendi içinde çelişki barındırmamalıdır.
+
+#### Dikey ve Yatay Hedefler
+
+* **Dikey Hedefler (Hiyerarşik Sıralanış):**
+* **Uzak Hedefler:** Devletin anayasal ve politik felsefesini yansıtır; uzun vadelidir (Örn: Muasır medeniyetler seviyesine ulaşmak).
+* **Genel Hedefler:** Millî Eğitim Bakanlığı ve okul türlerinin hedefleridir; orta vadelidir (Örn: Meslek lisesinin nitelikli teknik eleman yetiştirmesi).
+* **Özel Hedefler:** Bir dersin veya ünitenin hedefleridir; öğrenci davranışına dönük, kısa vadeli kazanımlardır.
+
+
+* **Yatay Hedefler (Gelişim Alanları):**
+* **Bilişsel Alan:** Zihinsel süreçleri (hatırlama, kavrama, akıl yürütme) kapsar. Geleneksel ölçme araçlarıyla (yazılı, test vb.) ölçülür. Kazandırması da ölçmesi de kolaydır.
+* **Duyuşsal Alan:** Duygusal durumları (sevgi, tutum, ilgi, değer verme) kapsar. Psikolojik testler ve tutum ölçekleriyle ölçülür. Kazandırılması da objektif biçimde ölçülmesi de zordur.
+* **Devinişsel (Psikomotor) Alan:** Zihin ve kas koordinasyonu gerektiren bedensel becerileri kapsar. Performans testleri ve gözlem formlarıyla ölçülür. Kazandırmak zordur (tekrar ve alıştırma ister), ancak ortaya konan davranışı ölçmek kolaydır.
+
+
+
+---
+
+### Hedef Alanlarının Taksonomik Sınıflandırması
+
+#### A. Bilişsel Alan Taksonomisi (Bloom)
+
+| Basamak (Geleneksel) | Yenilenen Taksonomi (Anderson & Krathwohl) | Tanım ve Ayırıcı Ölçüt |
+| --- | --- | --- |
+| **Bilgi** | Hatırlama | Tanımı, formülü veya olguyu kaynaktan çıktığı gibi ezberleme, aynen aktarma. |
+| **Kavrama** | Anlama | Bilgiyi özümseyip kendi cümleleriyle açıklama, yorumlama, öteleme ve özgün örnek verme. |
+| **Uygulama** | Uygulama | Öğrenilen ilke veya yöntemi kullanarak daha önce karşılaşılmamış yeni bir problemi çözme, hesaplama. |
+| **Analiz** | Çözümleme | Bir bütünü yapısal parçalarına ayırma, ögeler arasındaki neden-sonuç ilişkisini ortaya koyma. |
+| **Sentez** | Yaratma *(En üst basamağa taşındı)* | Özgün, yeni, daha önce ortaya konmamış bir fikir, ürün ya da model geliştirme. |
+| **Değerlendirme** | Değerlendirme | Bir durumu, ürünü veya fikri belirli iç/dış ölçütlere dayandırarak yargılama, eleştirme, hüküm verme. |
+
+*Not:* Bloom'un klasik taksonomisinde en üst basamak **Değerlendirme** iken, yenilenen taksonomide **Değerlendirme** beşinci sıraya çekilmiş; en üst basamağa özgün üretim gerektiren **Yaratma** getirilmiştir.
+
+#### B. Duyuşsal Alan Taksonomisi (Krathwohl)
+
+Kodlama: **AT-DÖK** (Alma, Tepkide Bulunma, Değer Verme, Örgütleme, Kişilik Haline Getirme)
+
+* **Alma:** Uyarıcının yalnızca farkında olma durumudur.
+* **Tepkide Bulunma:** Uyarıcıya karşı aktif katılım gösterme, razı olma, selamlaşma, iletişime geçme aşamasıdır.
+* **Değer Verme:** Bir duruma, olguya veya kişiye önem atfetme, takdir etme, benimseme basamağıdır.
+* **Örgütleme:** Değeri yaşam alışkanlığı haline getirme, davranışlarını ve zamanını o değere göre organize etme durumudur.
+* **Kişilik Haline Getirme (Nitelenmişlik):** Değerin bireyin yaşam felsefesi, temel karakteri ve kimliği haline gelmesi; bireyin o değerle anılması ve adanmışlığıdır.
+
+#### C. Devinişsel (Psikomotor) Alan Taksonomisi (Simpson)
+
+1. **Algılama (Uyarılma):** Bir hareketin nasıl yapıldığını duyu organlarıyla izleme, fark etme.
+2. **Kurulum (Hazırlık):** Bir eylemi gerçekleştirmek için zihinsel, fiziksel ve duygusal olarak pozisyon alma, hazır hâle gelme.
+3. **Kılavuz Denetiminde Yapma:** Bir usta, öğretmen veya yönerge eşliğinde taklit ederek uygulama.
+4. **Mekanikleşme:** Eylemi kendi başına, standartlara uygun fakat adımları zihnen düşünerek ve amatörce yapma.
+5. **Beceri Haline Getirme (Karmaşık Dışavurum):** Davranışı düşünmeden, seri, pürüzsüz, otomatik ve profesyonelce sergileme.
+6. **Uyum (Uyarlama):** Kazanılan beceriyi farklı ortamlara, yeni koşullara veya farklı araçlara transfer edebilme.
+7. **Yaratma:** Beceride kendi özgün stilini, tarzını veya tekniğini ortaya koyma.
+
+---
+
+### 2. İçerik (Ne Öğretelim?)
+
+Hedefleri gerçekleştirmek üzere seçilen bilgi, beceri, ilke ve kavramlar bütünüdür.
+
+**İçeriğin Temel İlkeleri:**
+
+* Hedeflerle doğrudan ilişkili ve tutarlı olmalıdır (en temel ilke).
+* Bilimsel geçerliliğe sahip olmalı, araştırma bulgularına dayanmalıdır.
+* Bireyin ve toplumun ihtiyaçlarına cevap veren işlevsel bilgiler içermelidir.
+* Basitten karmaşığa, bilinenden bilinmeyene doğru sıralanmalıdır.
+* Gereksiz ayrıntılardan arındırılmış, görsel unsurlarla (tablo, şema) desteklenmiş ve ek kaynak ihtiyacını en aza indirecek derinlikte olmalıdır.
+
+#### İçerik Düzenleme Yaklaşımları
+
+* **Doğrusal Programlama (Tyler, Bloom, Skinner):** Konuların ardışık, sıralı ve birbirinin ön koşulu olacak şekilde düzenlenmesidir. Bir ünite tam olarak öğrenilmeden bir sonrakine geçilemez; katı ve hiyerarşiktir.
+* **Sarmal Programlama (Bruner):** Konuların farklı zamanlarda, öğrencinin gelişim düzeyine bağlı olarak kapsamı genişletilerek, derinleştirilerek ve dönüt-düzeltme tekrarlarıyla yeniden ele alındığı esnek yapıdır (Dil öğretimi ve soyut kavramlar için idealdir).
+* **Modüler Programlama (Vygotsky):** İçeriğin anlamlı bağımsız öbeklere (modüllere) ayrılmasıdır. Modüller arasında ön koşul ilişkisi zorunlu değildir; her modül kendi içinde bir bütünlük taşır.
+* **Piramitsel Tasarım:** İlk yıllarda geniş tabanlı ortak derslerle başlayıp yıllar geçtikçe daralan, kesin bir uzmanlaşmaya giden katı modeldir. Öğrenci programa girerken hangi alanda uzmanlaşacağı baştan bellidir; alan seçimi hakkı tanınmaz.
+* **Çekirdek Tasarım:** İlk yıllarda ortak temel dersler verildikten sonra, öğrencinin kendi ilgi ve yeteneğine göre yöneleceği uzmanlık alanını süreç içerisinde kendisinin seçtiği esnek yaklaşımdır.
+* **Konu Ağı - Proje Merkezli Tasarım:** Konuların parçalara ayrılarak öğrencilere paylaştırıldığı, her öğrencinin kendi ilgi alanındaki parçayı araştırıp bir araya getirerek ortak bir projeyi tamamladığı yapıdır.
+* **Sorgulama Merkezli Tasarım:** İçeriğin önceden belirlenmediği; eğitim sürecinde öğrencilerin sorularına, sorunlarına ve ilgilerine göre şekillendiği en esnek yaklaşımdır.
+
+---
+
+### 3. Eğitim Durumları (Nasıl Öğretelim?)
+
+Hedefleri içeriğe dönüştürerek öğrenciye aktaran öğrenme-öğretme yaşantıları sürecidir. Yöntem, teknik, strateji ve materyallerin seçildiği boyuttur. En çok **psikolojik temellerden** beslenir.
+
+* **Kaynaşıklık İlkesi:** Öğrenme yaşantılarının birbiriyle ilişkili olması durumudur:
+* **Yatay Kaynaşıklık:** Aynı sınıf düzeyinde yer alan farklı derslerin (örneğin 10. sınıf Felsefe ile 10. sınıf Din Kültürü derslerinin) veya konuların birbiriyle paralel ve uyumlu ilerlemesidir.
+* **Dikey Kaynaşıklık:** Farklı sınıf düzeylerindeki (örneğin 9. sınıf, 10. sınıf ve 11. sınıf) ders etkinliklerinin aşamalı olarak birbirini desteklemesi ve üzerine inşa edilmesidir.
+
+
+
+---
+
+### 4. Sınama Durumları (Ne Kadar Öğretildi?)
+
+Hedeflere ne düzeyde ulaşıldığını, eksik ve hataların neler olduğunu belirleyen ölçme ve değerlendirme boyutudur. İki yönlüdür:
+
+1. **Öğrencinin Değerlendirilmesi:** Başarı ve performans testleriyle kazanımların yoklanması.
+2. **Programın Değerlendirilmesi:** Uygulanan programın etkililiğinin incelenmesi.
+
+**Pilot Uygulama Süreci:**
+Hazırlanan bir program genel uygulamaya geçmeden önce pilot okullarda denenir. Pilot çalışmada örneklem seçilirken okulların başarı, coğrafi bölge ve sosyoekonomik açıdan **heterojen** olması şarttır. Evreni doğru temsil etmeyen homojen bir grup üzerinden genelleme yapılamaz.
+
+---
+
+### 5. Plan Kavramı
+
+Eğitim sürecinde hedeflere en düşük maliyetle ve en yüksek verimle ulaşabilmek amacıyla nelerin, hangi sırayla, hangi yöntem ve araçlarla, ne kadar sürede yapılacağının önceden tasarlanmasıdır.
+
+* **Yalınlık:** Planın açık, net, anlaşılır ve sade bir dille kurgulanmış olmasıdır.
+* **Bütünlük:** Plandaki tüm etkinliklerin ve kazanımların birbirini tamamlayan bir örüntü sunmasıdır.
+* **Süreklilik:** Gerektiğinde süreç içinde aksaklıklara göre dinamik düzenlemeler yapabilme esnekliğidir.
+* **İşlevsellik:** Planda yer verilen konuların ve etkinliklerin günlük hayatta bir karşılığının bulunması, bireyin ve toplumun problem çözme becerisine katkı sağlamasıdır. Yazım kurallarına uygunluk gibi biçimsel unsurlar işlevsellik kapsamında değil, teknik planlama kuralları kapsamında değerlendirilir.
