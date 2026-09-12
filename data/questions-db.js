@@ -28225,33 +28225,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q1.png",
+    "questionText": "Tabloda dört akarsuyun yıllık yağış miktarı ve ortalama debi (akım) miktarları verilmiştir:\n\n| Akarsu | Havzaya Düşen Yıllık Yağış (mm) | Yıllık Ortalama Debi (m³/sn) |\n|---|---|---|\n| Arpaçay | 480 mm | 5,45 m³/sn |\n| Çoruh | 535 mm | 5,90 m³/sn |\n| Büyük Menderes | 630 mm | 1,20 m³/sn |\n| Yeşilırmak | 550 mm | 5,50 m³/sn |\n\nBuna göre, Büyük Menderes Havzası daha fazla yağış almasına rağmen debisinin (akımının) az olmasının sebebi aşağıdakilerden hangisi ile açıklanabilir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Rejiminin düzensiz olmasıyla"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çöküntü ovasında akmasıyla"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Buharlaşma miktarının fazla olmasıyla"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yağmur sularıyla beslenmesiyle"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Doğu - batı yönlü akmasıyla"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Buharlaşma miktarının fazla olmasıyla)<br><br>📌 <strong>Akarsu Debisi (Akımı) ve İklim İlişkisi:</strong><br>• Büyük Menderes Nehri, Akdeniz iklim kuşağında yer alır. Yaz aylarında sıcaklıkların çok yüksek olması nedeniyle havzada <strong>şiddetli buharlaşma</strong> gerçekleşir ve tarımsal sulamada aşırı su tüketilir.<br>• Bu nedenle yıllık yağış miktarı yüksek görünse bile akarsuyun taşıdığı su miktarı (ortalama debisi) Arpaçay, Çoruh ve Yeşilırmak gibi kuzey/doğu nehirlerine göre belirgin şekilde düşüktür."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Buharlaşma miktarının fazla olmasıyla)<br><br>📌 <strong>Akarsu Debisi ve İklim İlişkisi:</strong><br>• Büyük Menderes Nehri, Akdeniz iklim bölgesinde akar. Yaz mevsiminin çok sıcak ve kurak geçmesi sebebiyle havzada <strong>şiddetli buharlaşma</strong> gerçekleşir ve tarımsal sulamada aşırı su tüketilir.<br>• Bu nedenle havzaya düşen yağış miktarı yüksek olmasına karşın, akarsuyun taşıdığı ortalama su miktarı (debisi) Arpaçay, Çoruh ve Yeşilırmak'a göre belirgin derecede düşüktür."
   },
   {
     "id": "cogr_test_3-q2",
@@ -28262,33 +28261,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q2.png",
+    "questionText": "Türkiye'de kıyı derinliğinin Ege kıyılarında az olması aşağıdakilerden hangisi üzerinde etkili olmamıştır?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kıyılarda falezlerin oluşmasında"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Akarsu ağızlarında delta oluşmasında"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Plajların geniş ve kumluk olmasında"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kıta sahanlığının geniş olmasında"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Akarsu delta ovalarında lagünlerin görülmesinde"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kıyılarda falezlerin oluşmasında)<br><br>📌 <strong>Ege Kıyı Şelfi ve Falez Oluşumu:</strong><br>• <strong>Falez (Yalıyar):</strong> Dağların kıyıya paralel uzandığı ve denize dik indiği derin kıyılarda (Karadeniz ve Akdeniz) dalga aşındırmasıyla oluşan dik kıyı uçurumlarıdır.<br>• Ege kıyılarında dağlar kıyıya dik uzandığı için kıta sahanlığı geniştir, kıyı sığdır ve <strong>falez oluşumu görülmez</strong>. Bu nedenle A seçeneği üzerinde etkili olmamıştır.<br><br>❌ <strong>Kıyı Derinliğinin Az Olmasının Sonuçları:</strong><br>• Delta ovalarının kolay oluşması (B), geniş kumsal/plajların bulunması (C), kıta sahanlığının geniş olması (D) ve lagünlerin (kıyı set gölleri) oluşması (E) sığ kıyıların doğrudan sonucudur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kıyılarda falezlerin oluşmasında)<br><br>📌 <strong>Kıyı Derinliği ve Falez Oluşumu:</strong><br>• <strong>Falez (Yalıyar):</strong> Dağların kıyıya paralel uzandığı, kıyının derin ve dik olduğu yerlerde (Karadeniz ve Akdeniz) dalga aşındırması sonucu oluşur.<br>• Ege'de dağlar kıyıya dik uzandığı için kıyı sığdır (kıta sahanlığı geniştir) ve <strong>falez oluşumu görülmez</strong>. Bu nedenle kıyı derinliğinin azlığı falez oluşumunda etkili olmamıştır.<br>• Deltaların, geniş kumsalların ve lagünlerin oluşması ise sığ kıyıların doğrudan bir sonucudur."
   },
   {
     "id": "cogr_test_3-q3",
@@ -28299,33 +28297,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q3.png",
+    "questionText": "Aşağıda verilen Türkiye'deki yer şekillerinden hangisinin oluşumunda diğerlerinden farklı bir olay etkili olmuştur?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bozok Platosu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Manavgat Şelalesi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Antalya falezleri"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Saklıkent Kanyonu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ürgüp - Göreme Peribacaları"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Antalya falezleri)<br><br>📌 <strong>Dış Kuvvetler ve Aşınım Şekilleri Ayrımı:</strong><br>• <strong>Antalya Falezleri:</strong> Dalgaların kıyıdaki kayaları dipten oyması sonucu oluşan bir <strong>Dalga Aşınım Şeklidir</strong>.<br><br>❌ <strong>Akarsu / Sel Aşındırması Olan Diğer Şekiller:</strong><br>• <strong>A) Bozok Platosu:</strong> Akarsular tarafından yarılmış yüksek düzlük.<br>• <strong>B) Manavgat Şelalesi:</strong> Akarsu çağlayanı (aşınım).<br>• <strong>D) Saklıkent Kanyonu:</strong> Akarsuyun karstik araziyi derinlemesine yarmasıyla oluşan kanyon vadi.<br>• <strong>E) Peribacaları:</strong> Volkanik tüflerin sel ve akarsu sularıyla aşınması."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Antalya falezleri)<br><br>📌 <strong>Dış Kuvvetler Ayrımı:</strong><br>• <strong>Antalya Falezleri:</strong> Dalgaların kıyı tabanını oyması sonucu oluşan bir <strong>Dalga Aşınım Şekli</strong>dir.<br>• <strong>Bozok Platosu, Manavgat Şelalesi ve Saklıkent Kanyonu:</strong> Akarsu aşındırmasıyla oluşmuştur.<br>• <strong>Peribacaları:</strong> Volkanik tüflerin sel ve akarsu sularınca aşındırılmasıyla meydana gelmiştir."
   },
   {
     "id": "cogr_test_3-q4",
@@ -28336,33 +28333,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 4)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q4.png",
+    "questionText": "I. Doğu Karadeniz Bölümü\nII. Yukarı Murat - Van Bölümü\nIII. Güney Marmara Bölümü\n\nYukarıda verilen bölümlerin coğrafi özellikleri göz önüne alındığında bu bölümlerde yaygın olarak bulunan göllerin oluşum özellikleri aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I: Volkanik Set | II: Tektonik | III: Heyelan Set"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I: Heyelan Set | II: Volkanik Set | III: Tektonik"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I: Tektonik | II: Heyelan Set | III: Volkanik Set"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I: Heyelan Set | II: Tektonik | III: Volkanik Set"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I: Tektonik | II: Volkanik Set | III: Heyelan Set"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I: Heyelan Set, II: Volkanik Set, III: Tektonik)<br><br>📌 <strong>Göllerin Coğrafi Bölgelere Göre Oluşum Tipleri:</strong><br>• <strong>I. Doğu Karadeniz:</strong> Heyelan olaylarının yoğunluğuna bağlı olarak <strong>Heyelan Set Gölleri</strong> (Tortum, Sera, Uzungöl) yaygındır.<br>• <strong>II. Yukarı Murat - Van (Doğu Anadolu):</strong> Volkanik lavların vadilerin önünü kapatmasıyla oluşan <strong>Volkanik Set Gölleri</strong> (Van Gölü, Erçek, Nazik, Balık, Çıldır) yaygındır.<br>• <strong>III. Güney Marmara:</strong> Fay hatlarındaki çöküntü alanlarında oluşan <strong>Tektonik Göller</strong> (Manyas/Kuş, Ulubat, İznik, Sapanca) yaygındır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I: Heyelan Set | II: Volkanik Set | III: Tektonik)<br><br>📌 <strong>Göllerin Coğrafi Bölgelere Göre Dağılımı:</strong><br>• <strong>I. Doğu Karadeniz:</strong> Heyelanların sık yaşanması sonucu vadilerin önünün kapanmasıyla oluşan <strong>Heyelan Set Gölleri</strong> (Tortum, Sera, Uzungöl) yaygındır.<br>• <strong>II. Yukarı Murat - Van (Doğu Anadolu):</strong> Volkanik lavların vadileri tıkamasıyla oluşan <strong>Volkanik Set Gölleri</strong> (Van, Erçek, Nazik, Balık, Çıldır) yaygındır.<br>• <strong>III. Güney Marmara:</strong> Fay çöküntülerinde suların birikmesiyle oluşan <strong>Tektonik Göller</strong> (Manyas/Kuş, Ulubat, İznik, Sapanca) yaygındır."
   },
   {
     "id": "cogr_test_3-q5",
@@ -28373,33 +28369,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q5.png",
+    "questionText": "Bir ülke veya bölge kuzey - güney doğrultusunda geniş bir yer kaplarsa iklim çeşitliliği fazladır. Türkiye kuzey - güney yönlü çok geniş bir ülke olmamasına rağmen iklim çeşitliliği fazladır.\n\nBu durum aşağıdakilerden hangisi ile açıklanabilir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Başlangıç meridyeninin doğusunda yer almasıyla"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ekvator'a olan uzaklığıyla"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yer şekillerinin çeşitli olması ve denizlerle çevrili olmasıyla"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Güneş ışınlarını hiçbir zaman dik açı ile almamasıyla"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kuzey Yarım Küre'de yer almasıyla"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Yer şekillerinin çeşitli olması ve denizlerle çevrili olmasıyla)<br><br>📌 <strong>Türkiye'de İklim Çeşitliliğinin Temel Nedeni:</strong><br>• Normal şartlarda iklim çeşitliliği için geniş bir enlem farkı gerekir. Ancak Türkiye'de kuzey-güney enlem mesafesi sadece 6 paralel (666 km) olmasına rağmen çok zengin iklim çeşitliliği görülür.<br>• Bunun temel sebebi; <strong>kısa mesafelerde değişen dağ sıraları, yükselti basamakları, denizellik-karasallık ve bakı gibi Göreceli (Özel) Konum</strong> faktörleridir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yer şekillerinin çeşitli olması ve denizlerle çevrili olmasıyla)<br><br>📌 <strong>Türkiye'de İklim Çeşitliliğinin Nedeni:</strong><br>• Normalde iklim çeşitliliği için geniş enlem farkı gerekir. Ancak Türkiye sadece 6 paralel (36°-42° K) farka sahip olmasına karşın Karadeniz, Akdeniz ve Karasal iklim gibi farklı iklim tiplerini barındırır.<br>• Bunun temel nedeni; kısa mesafelerde değişen dağ sıraları, yükselti basamakları ve üç tarafının denizlerle çevrili olmasıdır (<strong>Özel / Göreceli Konum</strong>)."
   },
   {
     "id": "cogr_test_3-q6",
@@ -28410,33 +28405,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q6.png",
+    "questionText": "Türkiye'de batıdan doğuya doğru ortalama yükselti artmakta ve buna bağlı olarak bazı özelliklerde değişme meydana gelmektedir.\n\nBuna göre, aşağıdakilerden hangisinde bu duruma bağlı olarak batıdan doğuya doğru artış yaşanması beklenemez?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Karasallık şiddeti"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yıllık sıcaklık farkı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tarım ürünlerinin olgunlaşma süresi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Karlı ve donlu gün sayısı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ortalama sıcaklık değerleri"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Ortalama sıcaklık değerleri)<br><br>📌 <strong>Batıdan Doğuya Yükselti Artışının Sonuçları:</strong><br>• Atmosfer alttan ısındığı için troposferde yukarı çıkıldıkça her 200 metrede sıcaklık yaklaşık 1°C düşer.<br>• Türkiye'de batıdan doğuya gidildikçe yükselti basamakları belirgin şekilde arttığı için <strong>ortalama sıcaklık değerleri AZALIR</strong> (artış beklenemez).<br><br>❌ <strong>Doğuya Doğru Artan Unsurlar:</strong><br>• Karasallık şiddeti (A), yıllık sıcaklık farkı (B), tarım ürünlerinin olgunlaşma süresi/gecikmesi (C) ve karlı-donlu gün sayısı (D) doğuya gidildikçe artar."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ortalama sıcaklık değerleri)<br><br>📌 <strong>Batıdan Doğuya Yükselti Artışının Sonuçları:</strong><br>• Yükselti arttıkça sıcaklık her 200 metrede yaklaşık 1°C azalır. Bu yüzden batıdan doğuya gidildikçe <strong>ortalama sıcaklık değerleri düşer (azalır)</strong>, artış göstermez.<br>• Karasallık şiddeti, yıllık sıcaklık farkı, donlu gün sayısı ve tarım ürünlerinin olgunlaşma süresi (gecikmesi) ise doğuya doğru artış gösterir."
   },
   {
     "id": "cogr_test_3-q7",
@@ -28447,33 +28441,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q7.png",
+    "questionText": "I. Bor rezervince zengin olması\nII. Kıvrım dağlarının bulunması\nIII. Taş kömürü yataklarına sahip olması\nIV. Linyit yataklarınca zengin olması\n\nYukarıda verilenlerden hangisi Türkiye'de I. jeolojik zamana (Paleozoyik) ait arazilerin bulunduğuna kanıt olarak gösterilebilir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve II"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız III - Taş kömürü yataklarına sahip olması)<br><br>📌 <strong>Jeolojik Zamanlar ve Arazi Kanıtları:</strong><br>• <strong>III. Taşkömürü (Zonguldak):</strong> <strong>I. Jeolojik Zaman'da (Paleozoyik / Karbonifer)</strong> oluşmuş yaşlı arazilerin kesin kanıtıdır.<br><br>❌ <strong>III. Jeolojik Zaman (Tersiyer) Oluşumları:</strong><br>• <strong>I. Bor rezervleri:</strong> 3. Zaman göl tortulları.<br>• <strong>II. Kıvrım dağları:</strong> 3. Zaman Alp-Himalaya orojenezi.<br>• <strong>IV. Linyit yatakları:</strong> 3. Zaman genç linyit havzaları."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız III - Taş kömürü yataklarına sahip olması)<br><br>📌 <strong>Jeolojik Zamanlar:</strong><br>• <strong>Taş kömürü (Zonguldak):</strong> I. Jeolojik Zaman'da (Paleozoyik / Karbonifer) oluşmuş yaşlı paleozoik arazilerin kanıtıdır.<br>• <strong>Linyit, Bor ve Kıvrım Dağları:</strong> III. Jeolojik Zaman'da (Tersiyer) meydana gelmiş genç oluşumlardır."
   },
   {
     "id": "cogr_test_3-q8",
@@ -28484,33 +28477,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q8.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'nin dağları ile ilgili yanlış bir bilgidir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Akdeniz ve Karadeniz'deki dağlar kıyıya paralel uzanır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Doğu Anadolu Bölgesi'ndeki volkanik dağlar daha çok Yukarı Fırat Bölümü'nde bulunur."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Türkiye'nin en genç volkanik yapılanması Ege Bölgesi'ndeki Kula Volkanları'dır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Toros Dağları III. jeolojik zamanda oluşmuş genç kıvrım dağlarıdır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kırıklı dağlara (horst) en çok Ege Bölgesi'nde rastlanılmaktadır."
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Anadolu Bölgesi'ndeki volkanik dağlar daha çok Yukarı Fırat Bölümü'nde bulunur)<br><br>📌 <strong>Türkiye'deki Volkanik Dağların Coğrafi Dağılımı:</strong><br>• Doğu Anadolu Bölgesi'ndeki volkanik dağlar (Büyük Ağrı, Küçük Ağrı, Tendürek, Süphan, Nemrut) Yukarı Fırat'ta değil, <strong>Yukarı Murat - Van ve Erzurum - Kars Bölümlerinde</strong> Van Gölü havzası boyunca uzanan fay hattında yer alır. Bu nedenle B seçeneği yanlıştır.<br><br>❌ <strong>Doğru Olan Bilgiler:</strong><br>• Akdeniz ve Karadeniz dağları kıyıya paralel uzanır (A).<br>• En genç volkanik oluşum Manisa-Kula Volkanları'dır (C).<br>• Toroslar 3. zamanda oluşan genç kıvrım dağlarıdır (D).<br>• Kırıklı dağlar (Horstlar) en çok Ege'de yer alır (E)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Anadolu Bölgesi'ndeki volkanik dağlar daha çok Yukarı Fırat Bölümü'nde bulunur)<br><br>📌 <strong>Volkanik Dağların Dağılışı:</strong><br>• Doğu Anadolu'daki volkanik dağlar (Büyük Ağrı, Küçük Ağrı, Tendürek, Süphan, Nemrut) Yukarı Fırat Bölümü'nde değil; <strong>Yukarı Murat - Van ve Erzurum - Kars Bölümlerinde</strong>, Van Gölü havzası boyunca uzanan tektonik hat üzerinde yer alır."
   },
   {
     "id": "cogr_test_3-q9",
@@ -28521,33 +28513,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 9)",
+    "questionText": "Buna göre, renklendirme yöntemiyle hazırlanmış bir Türkiye fiziki haritasında numaralandırılmış alanların hangisi yeşil renkle (0 - 500 m) gösterilir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q9.png",
+    "image": "assets/questions/cogr_test_3_q9.png?v=107.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>📌 <strong>Fiziki Haritalarda Renk Basamakları (Yeşil Renk: 0 - 500 m):</strong><br>• <strong>I. Ergene Ovası (Marmara):</strong> Ortalama 50-150 m yükseltide olup <strong>yeşil</strong> renkle gösterilir.<br>• <strong>II. Ceylanpınar Ovası (Güneydoğu Anadolu):</strong> Suriye sınırı boyundaki taban araziler ve Ceylanpınar Ovası ortalama 350-400 m yükseltiye sahiptir. 500 metrenin altında kaldığı için fiziki haritada <strong>yeşil</strong> renkle gösterilir.<br><br>❌ <strong>500 Metrenin Üzerindeki Alanlar:</strong><br>• <strong>III. Sivas Platosu:</strong> 1200-1400 m (Sarı ve kahverengi tonları).<br>• <strong>IV. İç Batı Anadolu (Eskişehir-Kütahya civarı):</strong> 800-1000 m (Sarı renk)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>📌 <strong>Fiziki Haritalarda Yeşil Renk (0 - 500 metre):</strong><br>• <strong>I Numaralı Alan (Ergene Ovası / Marmara):</strong> Yükseltisi ortalama 50 - 150 m olup <strong>yeşil</strong> renkle gösterilir.<br>• <strong>II Numaralı Alan (Ceylanpınar Ovası / Güneydoğu):</strong> Suriye sınırı boyunca uzanan taban düzlükleri 350 - 400 m civarındadır. 500 metrenin altında kaldığı için fiziki haritada <strong>yeşil</strong> renkle gösterilir.<br>• <strong>III (Sivas Platosu) ve IV (İç Batı Anadolu):</strong> 800 - 1400 m arasında yer alıp sarı ve kahverengi tonlarıyla gösterilir."
   },
   {
     "id": "cogr_test_3-q10",
@@ -28558,33 +28550,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q10.png",
+    "questionText": "Türkiye, ortalama yükseltisi fazla olan bir ülkedir. Yükselti genel olarak batıdan doğuya doğru artsa da Türkiye'nin iç kısımlarında geniş düzlükler büyük alanlar kaplamaktadır.\n\nBuna göre, aşağıdakilerden hangisi bu durumun sonuçları arasında yer almaz?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yıllık ortalama sıcaklığın güneyden kuzeye doğru azalması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Gerçek sıcaklık ile indirgenmiş sıcaklık arasındaki farkın doğuya doğru artması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Akarsuların derin vadiler oluşturması ve akış hızlarının fazla olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sıcaklık farkının batıdan doğuya doğru artması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Hidroelektrik enerji potansiyelinin batıdan doğuya doğru artması"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yıllık ortalama sıcaklığın güneyden kuzeye doğru azalması)<br><br>📌 <strong>Yükselti Sonuçları vs Enlem:</strong><br>• Sıcaklığın güneyden kuzeye doğru düzenli şekilde azalması, Dünya'nın küresel şekli ve Güneş ışınlarının geliş açısıyla (<strong>Enlem / Matematik Konum</strong>) ilgilidir; Türkiye'nin yükseltisiyle açıklanamaz.<br><br>❌ <strong>Yükseltinin Doğrudan Sonuçları:</strong><br>• Gerçek sıcaklık ile indirgenmiş sıcaklık farkının doğuda artması (B)<br>• Akarsuların derin vadiler açması ve hızlı akması (C)<br>• Karasallığa bağlı sıcaklık farklarının artması (D)<br>• Hidroelektrik enerji potansiyelinin doğuya doğru artması (E)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yıllık ortalama sıcaklığın güneyden kuzeye doğru azalması)<br><br>📌 <strong>Yükselti vs Enlem:</strong><br>• Sıcaklığın güneyden kuzeye doğru düzenli azalması Güneş ışınlarının geliş açısıyla (<strong>Enlem / Matematik Konum</strong>) ilgilidir; yükseltiyle açıklanamaz.<br>• İndirgenmiş sıcaklık farkının doğuda artması, akarsuların hızlı akması, karasallık ve HES potansiyeli ise doğrudan <strong>yükseltinin</strong> sonuçlarıdır."
   },
   {
     "id": "cogr_test_3-q11",
@@ -28595,33 +28586,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q11.png",
+    "questionText": "Türkiye'nin bölgelerini de gösteren renklendirme yöntemiyle hazırlanmış bir fiziki haritada aşağıdaki bölgelerden hangisinde bölge içinde daha fazla renk ve renk tonu kullanıldığı görülür?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Marmara Bölgesi"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Doğu Anadolu Bölgesi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ege Bölgesi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "İç Anadolu Bölgesi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Karadeniz Bölgesi"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Karadeniz Bölgesi)<br><br>📌 <strong>Kısa Mesafede Yükselti ve Renk Çeşitliliği:</strong><br>• Karadeniz Bölgesi; deniz kıyısındaki düzlüklerden (<strong>yeşil: 0-500m</strong>) başlayıp, kısa mesafede dik yükselen vadiler ve yaylalardan geçerek (<strong>sarı/turuncu: 500-1500m</strong>), 3900 metreye varan Kaçkar Dağları'na (<strong>kahverengi ve kalıcı kar beyazı: 1500m+</strong>) ulaşır.<br>• Bu ani eğim ve yükselti basamakları sebebiyle fiziki haritada <strong>en fazla renk ve ton çeşitliliği Karadeniz Bölgesi'nde</strong> kullanılır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Karadeniz Bölgesi)<br><br>📌 <strong>Kısa Mesafede Yükselti Değişimi:</strong><br>• Karadeniz Bölgesi deniz seviyesindeki yeşil kıyılardan başlayıp hemen ardından 3900 metreye (Kaçkar Dağları) kadar dik bir şekilde tırmanır.<br>• Deniz kıyısından dağ zirvelerine kadar tüm yükselti basamakları (yeşil, sarı, turuncu, kahverengi ve beyaz) kısa mesafede görüldüğü için en çok renk tonu <strong>Karadeniz Bölgesi</strong>'nde yer alır."
   },
   {
     "id": "cogr_test_3-q12",
@@ -28632,33 +28622,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 12)",
+    "questionText": "Yukarıdaki haritada taralı olarak gösterilen bölümlerin (Kıyı Ege ve Doğu Karadeniz) yer şekilleri göz önüne alındığında;\n\nI. Tarımsal nüfus yoğunluğu\nII. Doğal liman sayısı\nIII. Delta ovalarının varlığı\n\ngibi özelliklerden hangileri ortak değildir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q12.png",
+    "image": "assets/questions/cogr_test_3_q12.png?v=107.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I, II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yalnız III"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (I, II ve III)<br><br>📌 <strong>Ege ve Doğu Karadeniz Bölümleri Karşılaştırması:</strong><br>• <strong>I. Tarımsal Nüfus Yoğunluğu:</strong> Doğu Karadeniz'de engebeli yapı sebebiyle tarım arazisi çok dardır ve tarımsal nüfus yoğunluğu çok yüksektir; Ege'de ise geniştir ve düşüktür (Ortak değildir).<br>• <strong>II. Doğal Liman Sayısı:</strong> Ege'de enine kıyı tipi sebebiyle yüzlerce doğal liman/koy varken, Karadeniz'de boyuna kıyı sebebiyle neredeyse hiç yoktur (Ortak değildir).<br>• <strong>III. Delta Ovaları:</strong> Ege'de Dikili, Menemen, Selçuk, Balat deltaları bulunurken; Doğu Karadeniz kıyıları çok dik ve derin olduğu için delta ovası oluşamamıştır (Ortak değildir)."
+    "explanation": "Doğru Cevap: <strong>C</strong> (I, II ve III)<br><br>📌 <strong>Kıyı Ege ve Doğu Karadeniz Karşılaştırması:</strong><br>• <strong>I. Tarımsal Nüfus Yoğunluğu:</strong> Doğu Karadeniz'de engebeli yapıdan dolayı tarım arazisi çok dardır ve yoğunluk çok yüksektir; Ege'de ise düşüktür (Ortak değil).<br>• <strong>II. Doğal Liman Sayısı:</strong> Ege enine kıyı olduğundan çok sayıda doğal liman/koy vardır; Karadeniz'de yoktur (Ortak değil).<br>• <strong>III. Delta Ovaları:</strong> Ege'de geniş deltalar (Menemen, Balat vb.) varken Doğu Karadeniz'de kıyı çok dik ve derin olduğu için delta oluşamaz (Ortak değil)."
   },
   {
     "id": "cogr_test_3-q13",
@@ -28669,33 +28659,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 13)",
+    "questionText": "Yukarıdaki haritada numaralandırılmış bölümlerin hangilerinde volkanik dağların en yoğun olduğu bölümler doğru olarak verilmiştir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q13.png",
+    "image": "assets/questions/cogr_test_3_q13.png?v=107.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yalnız IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>📌 <strong>Türkiye'de Volkanik Dağların Yoğunlaştığı Alanlar:</strong><br>• <strong>I Numaralı Bölüm (Konya / İç Anadolu):</strong> Erciyes, Hasan Dağı, Melendiz, Karacadağ ve Karadağ bir hat üzerinde dizilmiştir.<br>• <strong>III Numaralı Bölüm (Yukarı Murat-Van / Doğu Anadolu):</strong> Nemrut, Süphan, Tendürek, Küçük ve Büyük Ağrı Dağları fay hattı boyunca uzanır.<br><br>➡️ Volkanik arazilerin en yoğun olduğu bölümler <strong>I ve III</strong>'tür."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>📌 <strong>Volkanik Dağların Yoğun Olduğu Bölümler:</strong><br>• <strong>I Numaralı Alan (İç Anadolu / Konya Bölümü):</strong> Erciyes, Hasan Dağı, Melendiz, Karacadağ ve Karadağ bir hat üzerinde yer alır.<br>• <strong>III Numaralı Alan (Doğu Anadolu / Yukarı Murat - Van Bölümü):</strong> Nemrut, Süphan, Tendürek ve Ağrı dağları fay hattı boyunca dizilmiştir.<br>• Dolayısıyla volkanik arazilerin en yoğun olduğu bölümler <strong>I ve III</strong>'tür."
   },
   {
     "id": "cogr_test_3-q14",
@@ -28706,33 +28696,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q14.png",
+    "questionText": "Fiziki haritalarda yükselti değeri aynı olan araziler aynı renkle gösterilmektedir.\n\nBuna göre, aşağıda verilen ova eşleştirmelerinden hangisi fiziki haritada aynı renkte gösterilir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Erzincan - Ergene"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çukurova - Konya"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Menemen - Amik"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çarşamba - Ereğli"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Iğdır - Yüksekova"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Menemen - Amik)<br><br>📌 <strong>Aynı Yükselti Basamağındaki Ovalar (Yeşil Renk: 0 - 500 m):</strong><br>• <strong>Menemen Ovası:</strong> Gediz Nehri'nin Ege kıyısında oluşturduğu delta ovasıdır (0 - 100 m / <strong>Yeşil</strong>).<br>• <strong>Amik Ovası:</strong> Hatay'da Asi Nehri havzasında deniz seviyesine çok yakın bir graben/tektonik ovadır (0 - 150 m / <strong>Yeşil</strong>).<br><br>❌ <strong>Farklı Renklerde Olan Ovalar:</strong><br>• Erzincan (~1200m kahverengi) vs Ergene (~100m yeşil)<br>• Çukurova (~50m yeşil) vs Konya (~1000m sarı)<br>• Iğdır (~850m sarı) vs Yüksekova (~1950m kahverengi)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Menemen - Amik)<br><br>📌 <strong>Aynı Yükselti Basamağındaki Ovalar (Yeşil Renk: 0 - 500 m):</strong><br>• <strong>Menemen Ovası:</strong> Gediz deltasında yer alır (0 - 50 m / Yeşil).<br>• <strong>Amik Ovası:</strong> Hatay grabeninde deniz seviyesine yakın tektonik ovadır (0 - 150 m / Yeşil). Her ikisi de fiziki haritada <strong>yeşil</strong> renkle gösterilir.<br>• Diğer seçeneklerdeki Erzincan (kahverengi), Konya (sarı), Yüksekova (kahverengi) farklı yükselti basamaklarındadır."
   },
   {
     "id": "cogr_test_3-q15",
@@ -28743,33 +28732,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q15.png",
+    "questionText": "Türkiye'deki dağların uzanış doğrultusunun kıyıya dik ya da paralel olması birçok sonucu da beraberinde getirmektedir.\n\nBuna göre, dağların kıyıya uzanışlarının aşağıdakilerden hangisi üzerinde doğrudan bir etkiye sahip olduğu söylenemez?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yamaç yağışı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kıyı şekli"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Hâkim rüzgâr yönü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yağış rejimi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ulaşım olanakları"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Yağış rejimi)<br><br>📌 <strong>Dağların Kıyıya Uzanış Doğrultusunun Sonuçları:</strong><br>• Dağların uzanışı; hava kütlelerinin yükselerek <em>yamaç yağışı (orografik)</em> bırakmasını (A), <em>kıyı şeklini</em> (enine-boyuna) (B), <em>hakim rüzgar yönünü</em> (C) ve <em>iç kesimlerle ulaşım kolaylığını</em> (E) doğrudan etkiler.<br>• <strong>Yağış Rejimi (D):</strong> Yağışın yıl içindeki aylara ve mevsimlere dağılışıdır; bunu dağların uzanışı değil doğrudan <strong>makroiklim tipi ve genel atmosfer dolaşımı</strong> belirler."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yağış rejimi)<br><br>📌 <strong>Dağların Uzanış Doğrultusunun Sonuçları:</strong><br>• Dağların uzanışı yamaç yağışını (orografik), enine/boyuna kıyı şeklini, boğazlar ve vadiler boyunca rüzgâr yönünü ve iç kesimlerle ulaşımı doğrudan belirler.<br>• <strong>Yağış Rejimi</strong> ise yağışın yılın hangi aylarında düştüğüyle ilgili olup doğrudan <strong>makro iklim tipi ve genel atmosfer basınç sistemlerine</strong> bağlıdır."
   },
   {
     "id": "cogr_test_3-q16",
@@ -28780,33 +28768,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 16)",
+    "questionText": "Yukarıdaki haritada numaralanmış alanlarda görülen kıyı tipleri aşağıdaki seçeneklerden hangisinde yanlış eşleştirilmiştir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q16.png",
+    "image": "assets/questions/cogr_test_3_q16.png?v=107.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ⇒ Dalmaçya kıyı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II ⇒ Enine kıyı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III ⇒ Ria kıyı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV ⇒ Limanlı kıyı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V ⇒ Boyuna kıyı"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (IV => Limanlı kıyı)<br><br>📌 <strong>Türkiye'de Kıyı Tipleri Eşleştirmesi:</strong><br>• <strong>IV Numaralı Alan (Batı Karadeniz / Küre Dağları):</strong> Dağlar kıyıya paralel uzandığı için <strong>Boyuna Kıyı Tipi</strong> görülür. Haritada 'Limanlı kıyı' olarak eşleştirilmesi yanlıştır.<br><br>❌ <strong>Doğru Eşleştirmeler:</strong><br>• <strong>I (Teke / Kaş-Finike):</strong> Dalmaçya kıyı tipi.<br>• <strong>II (Ege kıyıları):</strong> Enine kıyı tipi.<br>• <strong>III (İstanbul Boğazı / Haliç):</strong> Ria tipi kıyı.<br>• <strong>V (Doğu Karadeniz):</strong> Boyuna kıyı tipi.<br>• <em>(Limanlı kıyı tipi ise Marmara'da Büyük ve Küçük Çekmece gölleri kıyısındadır).</em>"
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV ⇒ Limanlı kıyı)<br><br>📌 <strong>Türkiye'de Kıyı Tipleri:</strong><br>• <strong>I (Kaş - Finike):</strong> Dalmaçya kıyı tipi.<br>• <strong>II (Ege kıyıları):</strong> Enine kıyı tipi.<br>• <strong>III (İstanbul Boğazı):</strong> Ria tipi kıyı.<br>• <strong>IV (Batı Karadeniz) ve V (Doğu Karadeniz):</strong> Dağlar denize paralel uzandığı için <strong>Boyuna Kıyı Tipi</strong> görülür. IV alanında Limanlı kıyı görülmez (Limanlı kıyı Büyük ve Küçük Çekmece kıyılarındadır)."
   },
   {
     "id": "cogr_test_3-q17",
@@ -28817,33 +28805,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q17.png",
+    "questionText": "I. Antalya Bölümü'nde yetiştirilen aynı tarım ürününün Kıyı Ege Bölümü'nde daha geç olgunlaşması\nII. İç Ege Bölümü'nde yetişen aynı tür bitkinin Yukarı Fırat Bölümü'nde daha geç olgunlaşması\n\nYukarıda verilen durumların oluşmasında etkili olan faktörler aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I: Enlem | II: Karasallık"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I: Yükselti | II: Enlem"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I: Bakı | II: Enlem"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I: Enlem | II: Yükselti"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I: Denizellik | II: Yükselti"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (I: Enlem, II: Yükselti)<br><br>📌 <strong>Tarım Ürünlerinin Olgunlaşma Süresini Etkileyen Faktörler:</strong><br>• <strong>I. Antalya'dan Kıyı Ege'ye Gecikme:</strong> Her iki bölge de deniz seviyesindedir. Ancak güneyden kuzeye gidildikçe Güneş ışınlarının geliş açısı daralır ve sıcaklık düşer; bu durum <strong>Enlem</strong> etkisidir.<br>• <strong>II. İç Ege'den Yukarı Fırat'a Gecikme:</strong> Her iki bölge de iç kesimde karasaldır. Ancak batıdan doğuya gidildikçe arazi yükselir ve sıcaklık belirgin şekilde düşer; bu durum <strong>Yükselti</strong> etkisidir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (I: Enlem | II: Yükselti)<br><br>📌 <strong>Tarım Ürünlerinin Olgunlaşma Süresi:</strong><br>• <strong>I. Antalya'dan Kıyı Ege'ye Gecikme:</strong> Güneyden kuzeye doğru gidildikçe Güneş ışınlarının geliş açısı küçülür ve sıcaklık düşer (<strong>Enlem</strong> etkisi).<br>• <strong>II. İç Ege'den Yukarı Fırat'a Gecikme:</strong> Batıdan doğuya doğru gidildikçe yükselti basamakları arttığı için sıcaklık düşer ve hasat gecikir (<strong>Yükselti</strong> etkisi)."
   },
   {
     "id": "cogr_test_3-q18",
@@ -28854,33 +28841,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 3: Yer Şekilleri (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_3_q18.png",
+    "questionText": "Türkiye'de;\n\nI. Gölge boyu yılda bir kez sıfır olur.\nII. Alize rüzgârları etkilidir.\nIII. Tropikal iklim tipleri görülmez.\nIV. Yıl içinde dört mevsim belirgin yaşanır.\nV. Akdeniz ikliminin karakteristik bitki topluluğu bulunur.\n\nTürkiye'nin coğrafi konumu göz önüne alındığında yukarıda verilen durumlardan hangilerinin doğru olduğu söylenemez?",
+    "hasImage": false,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve IV"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "III ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "IV ve V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)<br><br>📌 <strong>Türkiye'nin Coğrafi Konumu ile Çelişen Yanlış Yargılar:</strong><br>• <strong>I. Yargı YANLIŞTIR:</strong> Türkiye Yengeç Dönencesi'nin kuzeyinde (36°-42°K) yer aldığı için Güneş hiçbir zaman 90° dik açıyla gelmez ve <strong>gölge boyu hiçbir tarihte sıfır olmaz</strong>.<br>• <strong>II. Yargı YANLIŞTIR:</strong> Alize rüzgarları 0°-30° Tropikal Kuşak'ta eser. Türkiye 30°-60° Orta Kuşak'ta bulunduğu için <strong>Batı Rüzgarları</strong> kuşağındadır.<br><br>✅ <strong>Doğru Yargılar:</strong><br>• III (Tropikal iklim görülmez), IV (Dört mevsim yaşanır), V (Akdeniz maki bitki örtüsü bulunur)."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)<br><br>📌 <strong>Türkiye'nin Matematik Konum Özellikleri:</strong><br>• <strong>I. Yargı YANLIŞTIR:</strong> Türkiye Yengeç Dönencesi'nin kuzeyinde olduğu için Güneş hiçbir zaman 90° ile gelmez; gölge boyu asla sıfır olmaz.<br>• <strong>II. Yargı YANLIŞTIR:</strong> Alize rüzgârları 0°-30° tropikal kuşakta eser; Türkiye 36°-42° orta kuşakta bulunduğu için <strong>Batı Rüzgârları</strong> kuşağındadır.<br>• III, IV ve V yargıları ise orta kuşakta yer almanın doğru sonuçlarıdır."
   },
   {
     "id": "cogr_test_5-q1",
