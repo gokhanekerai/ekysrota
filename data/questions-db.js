@@ -1,4 +1,4 @@
-// EKYS 2027 Kapsamli Soru ve Gorsel Veritabani
+// EKYS 2027 Odakli Soru Veritabani
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -28878,33 +28878,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 1)",
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen K noktasının boylamı ve L noktasının enlemi aşağıdakilerden hangisinde doğru olarak verilmiştir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q1.png",
+    "image": "assets/questions/cogr_test_5_q1.png?v=109.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "K: 26° Doğu | L: 36° Kuzey"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "K: 45° Kuzey | L: 33° Kuzey"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "K: 40° Doğu | L: 29° Kuzey"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "K: 35° Doğu | L: 42° Kuzey"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "K: 29° Kuzey | L: 35° Kuzey"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (26° Doğu - 36° Kuzey)<br><br>📌 <strong>Türkiye'nin Uç Noktaları ve Koordinat Analizi:</strong><br>• <strong>K Noktası (En Batı Boylamı):</strong> Türkiye'nin en batı ucu Çanakkale Gökçeada İnceburun (Avlaka Burnu) olup <strong>26° Doğu</strong> meridyenindedir.<br>• <strong>L Noktası (En Güney Enlemi):</strong> Türkiye'nin en güney ucu Hatay Yayladağı Beysun / Topraktutan köyü olup <strong>36° Kuzey</strong> paralelindedir.<br><br>🔍 <strong>Seçenek Analizi:</strong><br>• Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır. En batı 26°D ve en güney 36°K olduğu için doğru eşleştirme A seçeneğidir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (K: 26° Doğu | L: 36° Kuzey)<br><br>📌 <strong>Türkiye'nin Uç Sınır Koordinatları:</strong><br>• Türkiye, <strong>36° - 42° Kuzey</strong> paralelleri ile <strong>26° - 45° Doğu</strong> meridyenleri arasında yer alır.<br>• <strong>K Noktası:</strong> Türkiye'nin en batı ucu olan Çanakkale / Gökçeada (İnceburun) civarındadır ve <strong>26° Doğu</strong> meridyenidir.<br>• <strong>L Noktası:</strong> Türkiye'nin en güney ucu olan Hatay (Yayladağı - Beysun köyü güneyi) sınırındadır ve <strong>36° Kuzey</strong> paralelidir."
   },
   {
     "id": "cogr_test_5-q2",
@@ -28915,33 +28915,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 2)",
+    "questionText": "Haritada gösterilen iki kentle (Çanakkale ve Bursa) ilgili aşağıdaki karşılaştırmalardan hangisi yanlıştır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q2.png",
+    "image": "assets/questions/cogr_test_5_q2.png?v=109.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Gece - gündüz süreleri birbirine yakındır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ekonomik etkinlikleri farklıdır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yerel saatleri aynıdır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bulundukları coğrafi bölüm aynıdır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yükseltileri Türkiye ortalamasının altındadır."
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Yerel saatleri aynıdır - Yanlış İfade)<br><br>📌 <strong>Çanakkale ve Bursa Karşılaştırması:</strong><br>• <strong>Yerel Saat:</strong> Yalnızca aynı boylam (meridyen) üzerinde yer alan merkezlerde yerel saat aynıdır. Çanakkale (yaklaşık 26°-27° D) ile Bursa (yaklaşık 29° D) farklı boylamlarda yer aldığından yerel saatleri ve öğle vakitleri <strong>aynı olamaz</strong>.<br><br>🔍 <strong>Diğer Seçeneklerin Doğruluğu:</strong><br>• Gece-gündüz süreleri yaklaşık aynı enlem kuşağında yer aldıkları için birbirine oldukça yakındır.<br>• Çanakkale daha çok tarım, turizm ve boğaz ticareti odaklıyken; Bursa dev bir sanayi, otomotiv ve ticaret merkezidir (Ekonomik etkinlikleri farklıdır).<br>• İki ilimiz de Marmara Bölgesi'nin <strong>Güney Marmara Bölümü</strong> sınırlarında yer alır.<br>• İki kentin de fiziki yükseltisi Türkiye ortalamasının (1132 m) çok altındadır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yerel saatleri aynıdır)<br><br>📌 <strong>Bursa ve Çanakkale Karşılaştırması:</strong><br>• <strong>Yerel Saat:</strong> Merkezlerin yerel saatinin aynı olabilmesi için aynı boylam (meridyen) üzerinde yer almaları gerekir. Çanakkale (26° Doğu civarı) batıda, Bursa (29° Doğu civarı) doğudadır. Boylamları farklı olduğu için yerel saatleri ve Güneş'in tepe noktasına ulaştığı anlar farklıdır.<br>• <strong>Diğer Seçeneklerin Doğruluğu:</strong><br>  - İki il de yaklaşık 40° Kuzey paralelinde olduğundan gece-gündüz süreleri birbirine çok yakındır.<br>  - İkisi de Marmara Bölgesi'nin Güney Marmara Bölümü'ndedir.<br>  - Marmara Bölgesi genelinde olduğu gibi yükseltileri Türkiye ortalamasının (1132 m) oldukça altındadır.<br>  - Ekonomik yapıları farklıdır (Bursa sanayi ve otomotiv kenti, Çanakkale ise tarım, turizm ve balıkçılık ağırlıklıdır)."
   },
   {
     "id": "cogr_test_5-q3",
@@ -28952,33 +28952,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q3.png",
+    "questionText": "I. Uluslararası enerji transferinde üs konumunda olması\nII. Hidrolik enerji potansiyelinin yüksek olması\nIII. Yer altı ve yer üstü tatlı su kaynaklarının zengin olması\n\nYukarıdakilerden hangileri Türkiye'nin Orta Doğu ülkelerine göre jeopolitik açıdan daha güçlü olduğu doğal unsurlar arasında bulunur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II ve III"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (II ve III)<br><br>📌 <strong>Türkiye'nin Ortadoğu Ülkelerine Göre Doğal Üstünlükleri:</strong><br>• <strong>I. Uluslararası enerji transferinde üs olması:</strong> Türkiye jeopolitik bir enerji koridorudur ancak bu durum doğal bir zenginlik değil, <strong>beşeri, ekonomik ve stratejik</strong> bir unsurdur. Üstelik Ortadoğu petrol ve gaz kaynakları bakımından zaten Türkiye'den üstündür.<br>• <strong>II. Hidrolik enerji potansiyelinin yüksek olması:</strong> Türkiye'nin yüksek, engebeli ve eğimli dağlık yapısı akarsuların akış hızını ve baraj yapma potansiyelini düz Ortadoğu ülkelerine göre kat kat üstün kılar (Doğal unsur).<br>• <strong>III. Tatlı su kaynaklarının zengin olması:</strong> Fırat ve Dicle gibi Ortadoğu'nun ana can damarı nehirlerin kaynak sahası Türkiye'dedir. Türkiye su zengini bir kaynak ülke durumundadır (Doğal unsur)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (II ve III)<br><br>📌 <strong>Doğal ve Beşeri Jeopolitik Unsurlar:</strong><br>• <strong>I. Öncül (Uluslararası enerji transfer üssü):</strong> Boru hatları, limanlar ve lojistik bağlantılar insan yapımı olduğundan <strong>beşeri ve ekonomik</strong> unsurdur.<br>• <strong>II. ve III. Öncüller (Hidrolik enerji ve tatlı su kaynakları):</strong> Türkiye'nin yüksek, engebeli yapısı ve zengin akarsu havzaları (Fırat, Dicle vb.) yer şekilleri ve iklimin sunduğu <strong>doğal unsurlar</strong>dır. Kurak ve düz Orta Doğu coğrafyasına karşı Türkiye'ye büyük bir jeopolitik üstünlük sağlar."
   },
   {
     "id": "cogr_test_5-q4",
@@ -28989,33 +28989,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 4)",
+    "questionText": "Yukarıda bakı durumu - yüzey şekli ilişkisinin sıcaklık üzerindeki etkisine değinilmiştir.\n\nBuna göre, Türkiye haritasında numaralandırılmış merkezlerin hangisinde yer şekillerine bağlı bakı durumunun sıcaklık üzerindeki etkisi en az seviyededir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q4.png",
+    "image": "assets/questions/cogr_test_5_q4.png?v=109.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I Numaralı Alan - Ergene Havzası)<br><br>📌 <strong>Yer Şekilleri ve Bakı Etkisi İlişkisi:</strong><br>• <strong>Bakı Etkisi Nedir?</strong> Dağların Güneş'e bakan güney yamaçlarının, kuzey yamaçlarına göre daha fazla ısınması, güneşlenme süresinin daha uzun olması durumudur.<br>• Bir yerde bakı durumunun sıcaklığa etkisinin belirgin olabilmesi için o sahada belirgin, eğimli ve yüksek dağ sıralarının bulunması gerekir.<br><br>🔍 <strong>Haritadaki Alanların Analizi:</strong><br>• <strong>I Numaralı Alan (Ergene Havzası / Edirne çevresi):</strong> Türkiye'nin yer şekilleri en düz, sade ve alçak sahalarından biridir. Yüksek ve belirgin dağ yamaçları bulunmadığı için yamaçlar arasında bakı kaynaklı sıcaklık farkı oluşmaz. Dolayısıyla yer şekillerine bağlı <strong>bakı etkisinin sıcaklık üzerindeki etkisi en az seviyededir</strong>.<br>• <strong>II, III, IV ve V Numaralı Alanlar:</strong> Kuzey Anadolu Dağları ve Toroslar kuşağında yer aldıklarından çok dağlıktır ve dağların kuzey/güney yamaçları arasında çok şiddetli bakı farkları yaşanır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I Numaralı Merkez - Ergene / Marmara Düzlükleri)<br><br>📌 <strong>Yer Şekilleri ve Bakı İlişkisi:</strong><br>• <strong>Bakı Etkisi:</strong> Güneşe dönük güney yamaçların, kuzey yamaçlara kıyasla daha fazla ısınmasıdır. Bu etkinin ortaya çıkabilmesi için belirgin dağ sıralarının ve eğimli yamaçların bulunması gerekir.<br>• <strong>I Numaralı Alan:</strong> Marmara Bölgesi'nde yer alır; yer şekilleri son derece düz, sade ve yükseltisi azdır. Dağ silsileleri bulunmadığı için yamaç sıcaklık farkı (bakı etkisi) <strong>en az seviyededir</strong>.<br>• II, III, IV ve V numaralı alanlar Kuzey Anadolu Dağları ve Toroslar gibi yüksek ve dik dağlık kuşaklarda yer aldığı için bakı etkisi çok kuvvetlidir."
   },
   {
     "id": "cogr_test_5-q5",
@@ -29026,33 +29026,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q5.png",
+    "questionText": "Dış kuvvetler, Güneş'ten aldıkları güç ile arazinin aşınmasını sağlayıp yeryüzü şekillerinin son görünümlerine ulaşmasına katkı sağlarlar.\n\nTürkiye'nin jeomorfolojik görünümünde, en fazla etkiye sahip dış kuvvet aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Rüzgarlar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Akarsular"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Buzullar"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yer altı suları"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Dalga ve akıntılar"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Akarsular)<br><br>📌 <strong>Türkiye'de Dış Kuvvetlerin Etki Dereceleri:</strong><br>• <strong>En Fazla Etkiye Sahip Dış Kuvvet (Akarsular):</strong> Türkiye ılıman ve yarı kurak iklim kuşağında yer alması, ortalama yükseltisinin fazlalığı ve engebeli arazi yapısı nedeniyle yeryüzünü şekillendirmede <strong>en yaygın ve en etkili olan dış kuvvet akarsulardır</strong> (Vadiler, platolar, deltalar, birikinti konileri vb.).<br><br>🔍 <strong>Diğer Dış Kuvvetlerin Durumu:</strong><br>• <strong>Rüzgârlar:</strong> Bitki örtüsünün seyrek olduğu İç ve Güneydoğu Anadolu'da ikinci derecede etkilidir.<br>• <strong>Dalga ve Akıntılar:</strong> Sadece kıyı çizgisi boyunca şekillendiricidir (falez, kumsal, tombolo).<br>• <strong>Yer Altı Suları:</strong> Sadece kalkerli karstik arazilerde (Akdeniz) etkilidir.<br>• <strong>Buzullar:</strong> Türkiye'nin matematik konumu (orta kuşak) gereği etkisi <strong>en az</strong> olan dış kuvvettir; sadece yüksek zirvelerde (2500-3000 m üstü) görülür."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Akarsular)<br><br>📌 <strong>Türkiye'yi Şekillendiren Dış Kuvvetler:</strong><br>• Türkiye'de yeryüzünü şekillendiren <strong>en etkili ve etki alanı en geniş dış kuvvet akarsulardır</strong>.<br>• Ülkemizin orta kuşakta yer alması ve yarı nemli iklim şartları nedeniyle vadi, plato, ova, birikinti konisi ve delta oluşumunda akarsular birincil derecede rol oynar.<br>• Buzullar ise enlemin etkisiyle sadece yüksek dağ zirvelerinde görüldüğü için Türkiye'de <strong>etkisi en az olan</strong> dış kuvvettir."
   },
   {
     "id": "cogr_test_5-q6",
@@ -29063,33 +29063,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 6)",
+    "questionText": "Masif araziler, I. Jeolojik Zaman'dan (Paleozoik) kalma eski kara parçalarıdır.\n\nYukarıdaki haritada işaretli alanların hangileri özelliğini günümüzde de koruyan masif alanlardır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q6.png",
+    "image": "assets/questions/cogr_test_5_q6.png?v=109.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "IV ve V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (I ve III)<br><br>📌 <strong>Masif (Eski Temel) Arazilerin Haritadaki Dağılışı:</strong><br>• <strong>Masif Nedir?</strong> I. Jeolojik Zaman'da (Paleozoik) oluşmuş, başkalaşıma uğramış, sertleşmiş, kıvrılma özelliğini yitirmiş ve tektonik hareketlere karşı oturmuş, deprem riski düşük eski kara bloklarıdır.<br><br>🔍 <strong>Haritadaki Noktaların Analizi:</strong><br>• <strong>I Numaralı Merkez:</strong> Trakya'da yer alan <strong>Yıldız Dağları (Istranca Masifi)</strong>dir.<br>• <strong>III Numaralı Merkez:</strong> Akdeniz kıyısında Taşeli batısında yer alan <strong>Alanya - Anamur Masifi</strong>dir.<br>• Bu nedenle haritada I ve III numaralı alanlar günümüzde de masif niteliğini koruyan alanlardır (Doğru seçenek D'dir).<br>• <em>(Türkiye'deki diğer başlıca masifler: Menteşe-Saruhan, Zonguldak, Daday-Devrekani, Kırşehir ve Bitlis masifleridir).</em>"
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve III)<br><br>📌 <strong>Türkiye'deki Başlıca Masif Araziler:</strong><br>• Masifler, I. Jeolojik Zaman'da (Paleozoik) oluşmuş sert, kristalize ve deprem riski göreceli düşük eski temel arazilerdir.<br>• <strong>I Numaralı Alan:</strong> Trakya'daki <strong>Yıldız (Istranca) Masifi</strong>dir.<br>• <strong>III Numaralı Alan:</strong> Akdeniz kıyısındaki <strong>Anamur - Alanya Masifi</strong>dir.<br>• Bu nedenle I ve III masif alanlardır."
   },
   {
     "id": "cogr_test_5-q7",
@@ -29100,33 +29100,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q7.png",
+    "questionText": "Türkiye arazisinde en geniş alanı kaplayan yer şekli aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Dağlar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Platolar"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ovalar"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Peribacaları"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Mağaralar"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Dağlar)<br><br>📌 <strong>Türkiye Arazisinin Morfolojik Dağılımı:</strong><br>• Türkiye, Alp-Himalaya orojenez kuşağında yer alması ve III. Zaman sonu - IV. Zaman başında toptan epirojenik yükselmeye maruz kalması nedeniyle oldukça yüksek ve engebeli bir ülkedir.<br>• Yeryüzü şekillerinin oransal dağılımında en büyük alanı <strong>Dağlar (~%50-55)</strong> kaplar. İkinci sırada <strong>Platolar (~%30-35)</strong> gelirken, ovalar toplam yüzölçümünün yalnızca %15-18'ini oluşturur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dağlar)<br><br>📌 <strong>Türkiye'de Yer Şekillerinin Oransal Dağılımı:</strong><br>• Türkiye arazisinin yaklaşık <strong>%50'den fazlası dağlık alanlardan</strong> oluşur. Alp-Himalaya orojenez kuşağında yer alan ülkemiz, genç oluşumlu ve yüksek bir dağ ülkesidir.<br>• Dağları sırasıyla platolar ve ovalar takip eder."
   },
   {
     "id": "cogr_test_5-q8",
@@ -29137,33 +29137,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q8.png",
+    "questionText": "Bitki ve hayvan kalıntılarının, jeolojik süreçler içerisinde, toprağın altında kalarak günümüze kadar gelmesiyle fosil yakıtlardan taş kömürü yatakları ortaya çıkar.\n\nBuna göre, taş kömürü yataklarının oluşumu hangi jeolojik zamanla ilgilidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Prekambriyen"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Paleozoik (I. Zaman)"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Mezozoik (II. Zaman)"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Neozoik / Tersiyer (III. Zaman)"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kuaterner (IV. Zaman)"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Paleozoik)<br><br>📌 <strong>Jeolojik Zamanlar ve Fosil Yakıt Oluşumları:</strong><br>• <strong>I. Jeolojik Zaman (Paleozoik - Karbonifer Dönemi):</strong> Sıcak ve nemli iklimde yetişen dev eğrelti ormanlarının çökelip havasız ortamda karbonlaşmasıyla yüksek kalorili <strong>Taş Kömürü</strong> yatakları (Zonguldak ve Karadeniz Ereğlisi çevresi) oluşmuştur.<br>• <strong>III. Jeolojik Zaman (Tersiyer / Neojen):</strong> Türkiye arazisinin büyük kısmının şekillendiği dönemdir; <strong>Linyit, Petrol, Doğal Gaz, Bor ve Tuz</strong> yatakları bu zamanda meydana gelmiştir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Paleozoik - I. Zaman)<br><br>📌 <strong>Jeolojik Zamanlar ve Maden / Fosil Yakıt Oluşumu:</strong><br>• <strong>Paleozoik (I. Jeolojik Zaman - Karbonifer Dönemi):</strong> Zonguldak ve çevresindeki zengin <strong>taş kömürü</strong> yatakları oluşmuştur. Çok yaşlı olduğu için kalori ve karbon oranı çok yüksektir.<br>• <strong>Tersiyer (III. Jeolojik Zaman):</strong> Linyit, petrol, bor, kaya tuzu ve doğalgaz yatakları oluşmuştur."
   },
   {
     "id": "cogr_test_5-q9",
@@ -29174,33 +29174,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q9.png",
+    "questionText": "Anadolu'da III. Jeolojik Zaman'da levha hareketleri sonucunda kırılan araziler, bugünkü fay hatlarını ortaya çıkarmıştır.\n\nBuna göre, fay hatlarının varlığı Türkiye'nin hangi özelliği ile açıklanabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Genç oluşumlu bir araziye sahip olmasıyla"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ortalama yükseltisinin fazla olmasıyla"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Dağların doğu - batı yönlü uzanmasıyla"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "İç bölgelerde yüksek geniş düzlüklerin yer almasıyla"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Akarsuların aşındırma güçlerinin fazla olmasıyla"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Genç oluşumlu bir araziye sahip olmasıyla)<br><br>📌 <strong>Fay Hatları ve Genç Oluşumlu Arazi İlişkisi:</strong><br>• Türkiye arazisi büyük ölçüde III. Jeolojik Zaman'ın (Tersiyer) sonları ile IV. Jeolojik Zaman'da (Kuaterner) toptan yükselmiş ve kırılmıştır.<br>• Bir arazide <strong>fay hatlarının yaygın olması</strong>, o arazinin henüz oturmadığını ve <strong>genç oluşumlu</strong> olduğunu gösterir.<br><br>🔍 <strong>Genç Arazinin Başlıca Göstergeleri:</strong><br>• Aktif fay hatları ve sık yaşanan tektonik depremler,<br>• Sıcak su, kaplıca, ılıca ve jeotermal kaynakların bolluğu,<br>• Genç volkanik şekiller ve engebeli-yüksek yer şekilleridir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Genç oluşumlu bir araziye sahip olmasıyla)<br><br>📌 <strong>Genç Arazi Yapısı ve Tektonizma:</strong><br>• Türkiye arazisinin büyük bölümü III. ve IV. Jeolojik zamanlarda şekillendiği için <strong>genç oluşumlu</strong> bir ülkedir.<br>• Genç arazilerde yer kabuğu kırıklı (fay hatları yaygın), deprem aktivitesi yüksek ve jeotermal (sıcak su) kaynakları zengindir."
   },
   {
     "id": "cogr_test_5-q10",
@@ -29211,33 +29211,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q10.png",
+    "questionText": "Magmanın yer kabuğuna baskı yapıp yeryüzüne çıkmasıyla volkanik araziler ve bunlar üzerinde volkan konileri meydana gelir.\n\nTürkiye'de volkan konilerinin Doğu ve İç Anadolu'da bir çizgi halinde uzanması, aşağıdakilerin hangisiyle açıklanır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Anadolu'da epirojenik hareketin yaşanmasıyla"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "IV. Jeolojik Zaman'da Buzul Çağı'nın yaşanmasıyla"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Volkan konilerinin bir fay hattı boyunca oluşmasıyla"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Esnek yapıya sahip kayaçların orojenik hareket sonucunda yükselmesiyle"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Karstik kayaçlar üzerinde büyük çöküntülerin oluşmasıyla"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Volkan konilerinin bir fay hattı boyunca oluşmasıyla)<br><br>📌 <strong>Volkan Konilerinin Çizgisel (Hat Boyunca) Uzanışı:</strong><br>• Magma yer kabuğunun zayıf, dirençsiz ve çatlak sahalarını yani <strong>tektonik fay ve kırık hatlarını</strong> takip ederek yeryüzüne çıkar.<br>• Bu nedenle volkanlar tesadüfi noktalarda değil, fay hatları boyunca doğrusal bir hat üzerinde sıralanırlar:<br>• <strong>İç Anadolu Hattı:</strong> Karadağ ➔ Karacadağ ➔ Hasan Dağı ➔ Melendiz ➔ Erciyes (KD-GB doğrultulu fay hattı).<br>• <strong>Doğu Anadolu Hattı:</strong> Nemrut ➔ Süphan ➔ Tendürek ➔ Büyük ve Küçük Ağrı (Tektonik kırık kuşağı)."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Volkan konilerinin bir fay hattı boyunca oluşmasıyla)<br><br>📌 <strong>Volkanik Dağların Doğrultusu:</strong><br>• İç Anadolu'da (Karadağ, Karacadağ, Hasan Dağı, Melendiz, Erciyes) ve Doğu Anadolu'da (Nemrut, Süphan, Tendürek, Ağrı) volkanik dağlar düzgün bir hat şeklinde sıralanmıştır.<br>• Bunun temel sebebi, magmanın yer kabuğunun zayıf ve dirençsiz olduğu <strong>fay kırıkları boyunca</strong> yeryüzüne püskürmesidir."
   },
   {
     "id": "cogr_test_5-q11",
@@ -29248,33 +29248,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q11.png",
+    "questionText": "Türkiye'nin jeomorfolojik özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Volkanik araziler Doğu ve İç Anadolu'da geniş yer kaplar."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Horst ve graben alanları, Ege Bölgesi'nde yaygındır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Dağların yüksek kesimlerinde buzullara rastlanır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Karstik kayaçlardan kalker, en fazla Akdeniz'de bulunur."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "İstanbul ve Çanakkale boğazları buzul aşındırması ile oluşmuş önemli geçiş alanlarıdır."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (İstanbul ve Çanakkale boğazları buzul aşındırması ile oluşmuş önemli geçiş alanlarıdır - Yanlış İfade)<br><br>📌 <strong>Boğazların Gerçek Oluşumu ve Seçenek Analizi:</strong><br>• <strong>E Seçeneği Neden Yanlıştır?</strong> İstanbul ve Çanakkale boğazları buzul aşındırmasıyla değil; IV. Jeolojik Zaman'da (Kuaterner) epirojenik çökmeler ve buzul çağının erimesiyle deniz seviyesinin yükselmesi sonucu eski <strong>akarsu vadilerinin sular altında kalmasıyla</strong> oluşmuştur (<strong>Ria tipi kıyı</strong>). Ayrıca Türkiye orta kuşakta yer aldığı için deniz seviyesinde buzul etkisi hiçbir zaman görülmemiştir.<br><br>🔍 <strong>Diğer Seçeneklerin Doğruluğu:</strong><br>• A) Volkanik araziler Doğu ve İç Anadolu'da çok geniştir.<br>• B) Horst ve grabenler en çok Ege Bölgesi'nde yaygındır.<br>• C) Kaçkarlar, Ağrı, Erciyes, Cilo Dağı gibi yüksek dağ doruklarında buzullara rastlanır.<br>• D) Çözünebilen karstik kayaçlardan kalker (kireç taşı) en fazla Akdeniz kuşağındadır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (İstanbul ve Çanakkale boğazları buzul aşındırması ile oluşmuş önemli geçiş alanlarıdır)<br><br>📌 <strong>Boğazların Oluşumu:</strong><br>• İstanbul ve Çanakkale boğazları buzul aşındırmasıyla değil, IV. Jeolojik Zaman'da (Kuaterner) epirojenik çökmeler neticesinde eski akarsu vadilerinin deniz suyu altında kalmasıyla (<strong>Ria tipi kıyı / boğulmuş vadi</strong>) oluşmuştur.<br>• Türkiye hiçbir jeolojik dönemde deniz seviyesine kadar inen buzul örtüsü altında kalmamıştır."
   },
   {
     "id": "cogr_test_5-q12",
@@ -29285,33 +29285,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q12.png",
+    "questionText": "Türkiye'de volkanik arazinin en geniş alan kapladığı bölge aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Akdeniz"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ege"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Marmara"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "İç Anadolu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Doğu Anadolu"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Anadolu Bölgesi)<br><br>📌 <strong>Türkiye'de Volkanizmanın Dağılışı:</strong><br>• <strong>Doğu Anadolu:</strong> Avrasya ve Arabistan levhalarının sıkışma ekseninde yer aldığı için yer kabuğunun en derinden kırıldığı ve lav çıkışlarının en şiddetli yaşandığı bölgedir.<br>• Büyük Ağrı, Küçük Ağrı, Tendürek, Süphan, Nemrut gibi dev volkan konileri ve Erzurum-Kars-Ardahan lav platoları nedeniyle volkanik arazilerin yüzölçümü bakımından <strong>en geniş yer kapladığı bölge Doğu Anadolu'dur</strong>."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Anadolu)<br><br>📌 <strong>Volkanik Arazilerin Dağılımı:</strong><br>• Türkiye'de volkanik platoların (Erzurum-Kars-Ardahan), volkan konilerinin ve lav örtülerinin en geniş yer kapladığı coğrafi bölge <strong>Doğu Anadolu Bölgesi</strong>'dir.<br>• Doğu Anadolu'dan sonra ikinci geniş saha İç Anadolu'dur."
   },
   {
     "id": "cogr_test_5-q13",
@@ -29322,33 +29322,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 13)",
+    "questionText": "Yukarıdaki şekilde antiklinal ve senklinallerden oluşan kıvrım dağ oluşumu gösterilmiştir.\n\nBuna göre, oluşumu gösterilen dağ aşağıdaki seçeneklerin hangisinde verilmiştir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q13.png",
+    "image": "assets/questions/cogr_test_5_q13.png?v=109.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Madra"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Menteşe"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Amanos"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bolkar"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Süphan"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Bolkar)<br><br>📌 <strong>Kıvrım Dağları (Antiklinal) ve Seçenek Analizi:</strong><br>• Sorudaki şekilde esnek tortul tabakaların yan basınçlar sonucu kıvrılarak kubbeleşmesiyle oluşan <strong>Antiklinal (Kıvrım Dağı)</strong> ve altta kalan çanak kısmı olan <strong>Senklinal</strong> mekanizması gösterilmiştir.<br><br>🔍 <strong>Seçeneklerdeki Dağların Oluşum Tipleri:</strong><br>• <strong>Madra, Menteşe ve Amanos (Nur):</strong> Sert tabakaların kırılmasıyla oluşan <strong>Horst (Kırık Dağı)</strong> örnekleridir.<br>• <strong>Süphan:</strong> Magmanın yüzeye çıkmasıyla oluşan <strong>Volkanik Dağ</strong>dır.<br>• <strong>Bolkar Dağları:</strong> Orta Toroslar'da yer alan ve Alp-Himalaya orojenez kuşağında tortulların kıvrılmasıyla yükselmiş tipik bir <strong>Kıvrım Dağı (Antiklinal)</strong>dır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bolkar)<br><br>📌 <strong>Kıvrım Dağları ve Orojenez:</strong><br>• Esnek tortul tabakaların yan basınçlarla sıkışıp kıvrılması sonucu yükselen kısımlara <strong>antiklinal (dağ)</strong>, çukurda kalan kısımlara ise <strong>senklinal</strong> denir.<br>• <strong>Bolkar Dağları:</strong> Orta Toroslar kuşağında yer alan tipik bir <strong>kıvrım dağı</strong>dır.<br>• Madra, Menteşe ve Amanos kırık dağlarıdır (horst). Süphan ise volkanik dağdır."
   },
   {
     "id": "cogr_test_5-q14",
@@ -29359,33 +29359,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q14.png",
+    "questionText": "Türkiye'de aşağıda yer alan dağ ve oluşum özelliği eşleştirmelerinden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bey Dağları — Kıvrım"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Aydın Dağları — Kırık"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Nemrut Dağı — Volkanik"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Canik Dağları — Kırık"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Karacadağ — Volkanik"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Canik - Kırık - Yanlış Eşleştirme)<br><br>📌 <strong>Türkiye'de Dağlar ve Oluşum Türleri:</strong><br>• <strong>Canik Dağları (Samsun):</strong> Kırık dağ değil, Kuzey Anadolu Dağları kıvrım kuşağının Orta Karadeniz bölümünde yer alan bir <strong>KIVRIM DAĞI</strong>dır.<br><br>🔍 <strong>Diğer Eşleştirmelerin Doğruluğu:</strong><br>• <strong>Bey Dağları (Antalya):</strong> Batı Toroslar kuşağında yer alan bir <strong>Kıvrım</strong> dağıdır.<br>• <strong>Aydın Dağları (Ege):</strong> Büyük ve Küçük Menderes grabenleri arasında yükselen bir <strong>Kırık (Horst)</strong> dağıdır.<br>• <strong>Nemrut Dağı (Bitlis):</strong> Van Gölü batısındaki sönmüş bir <strong>Volkanik</strong> dağdır.<br>• <strong>Karacadağ (Güneydoğu Anadolu / Şanlıurfa-Diyarbakır):</strong> Kalkan biçimli bazaltik bir <strong>Volkanik</strong> dağdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Canik Dağları — Kırık)<br><br>📌 <strong>Dağların Oluşum Tipleri:</strong><br>• <strong>Canik Dağları:</strong> Orta Karadeniz'de yer alan Kuzey Anadolu Dağları sisteminin bir parçasıdır ve <strong>kıvrım dağı</strong>dır (kırık dağ değildir).<br>• Bey Dağları: Batı Toroslar'da kıvrım dağıdır.<br>• Aydın Dağları: Ege'de horst tipi kırık dağıdır.<br>• Nemrut ve Karacadağ: Volkanik dağlardır."
   },
   {
     "id": "cogr_test_5-q15",
@@ -29396,33 +29396,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q15.png",
+    "questionText": "Magma, yeryüzüne çıkmadan yer kabuğu içinde soğur ise derinlik volkanizmasını; yeryüzüne çıkıp soğur ise yüzey volkanizmasını oluşturur.\n\nBuna göre, aşağıdaki dağların hangisi derinlik volkanizması (batolit) sonucunda oluşan yer şekillerine örnektir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Uludağ"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Amanos"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Aladağ"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Cilo"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Bolkar"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Uludağ)<br><br>📌 <strong>Derinlik Volkanizması ve Batolit Örneği:</strong><br>• Magmanın yer kabuğunun içine sokulup yüzeye çıkamadan derinlerde yavaş yavaş soğuyarak katılaşmasına <strong>derinlik volkanizması</strong>, meydana gelen dev kütleye ise <strong>batolit</strong> denir.<br>• <strong>Bursa Uludağ:</strong> Tipik bir <strong>İç Püskürük / Batolit</strong> kütlesidir. Zamanla üzerindeki tortul örtü tabakaları dış kuvvetler tarafından aşındırılmış ve altındaki granit kütle açığa çıkmıştır (Tor topoğrafyası).<br>• Amanos kırık dağ; Cilo, Aladağ ve Bolkar ise kıvrım dağlarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uludağ)<br><br>📌 <strong>Derinlik Volkanizması (İç Püskürük - Batolit):</strong><br>• Magmanın yer kabuğunun derinliklerinde yavaşça katılaşmasıyla oluşan devasa granit kütlelere <strong>batolit</strong> denir. Zamanla üstteki tabakaların aşınmasıyla yüzeye çıkar.<br>• Türkiye'de iç püskürük derinlik volkanizmasının en somut örneği <strong>Uludağ (Bursa)</strong>'dır.<br>• Amanos kırık; Aladağ, Cilo ve Bolkar ise kıvrım dağlarıdır."
   },
   {
     "id": "cogr_test_5-q16",
@@ -29433,33 +29433,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q16.png",
+    "questionText": "Türkiye'de dağların büyük bölümü, levhaların tortul tabakaları sıkıştırması ve bunun sonucunda kıvrılan kütlelerin yükselmesiyle oluşmuştur. Türkiye'de bu sisteme Toroslar ve Kuzey Anadolu dağları örnektir.\n\nBuna göre, Türkiye'de yukarıda verilen dağ kıvrım sistemlerinin oluşmasına neden olan levhalar aşağıdakilerin hangisinde doğru verilmiştir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Avrasya — Afrika — Arabistan"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Arabistan — Hint — Afrika"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Avrasya — Afrika — Hint"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Arabistan — Afrika — Avustralya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Avrasya — Afrika — Atlas"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Avrasya – Afrika – Arabistan Levhaları)<br><br>📌 <strong>Alp-Himalaya Orojenez Kuşağı ve Türkiye'yi Sıkıştıran Levhalar:</strong><br>• Türkiye arazisi kuzeyden güneye doğru hareket eden büyük <strong>Avrasya Levhası</strong> ile güneyden kuzeye doğru baskı yapan <strong>Afrika ve Arabistan Levhaları</strong> arasında sıkışmaktadır.<br>• Bu büyük levhaların Mezozoik ve Tersiyer boyunca Tetis Denizi tortullarını yan basınçlarla sıkıştırması sonucu kuzeyde <strong>Kuzey Anadolu Dağları</strong>, güneyde ise <strong>Toros Dağları</strong> kıvrım sistemleri meydana gelmiştir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Avrasya — Afrika — Arabistan)<br><br>📌 <strong>Levha Tektoniği ve Türkiye'nin Sıkışması:</strong><br>• Türkiye arazisi kuzeyden <strong>Avrasya Levhası</strong>, güneyden ise <strong>Afrika</strong> ve <strong>Arabistan Levhaları</strong> arasında sıkışmaktadır.<br>• Bu kuzey-güney yönlü sıkışma Tethys Denizi tortullarını kıvırarak Kuzey Anadolu Dağları ile Toros Dağları sistemini meydana getirmiştir."
   },
   {
     "id": "cogr_test_5-q17",
@@ -29470,33 +29470,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 17)",
+    "questionText": "Topografya haritalarında yükselti ortalamaları renklerle ifade edilebilmektedir. Bu nedenle kısa mesafede renk değişiminin fazla olduğu alanlar engebeli sahalar olarak dikkate alınmaktadır.\n\nBuna göre, yukarıdaki Türkiye haritası üzerinde verilen hangi profil hattında renk değişimi en azdır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q17.png",
+    "image": "assets/questions/cogr_test_5_q17.png?v=109.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II Numaralı Profil - Orta Karadeniz)<br><br>📌 <strong>Fiziki Haritalarda Renk Değişimi ve Engebe İlişkisi:</strong><br>• Fiziki haritalarda renkler yükselti basamaklarını gösterir (0-500 m yeşil, 500-1000 m sarı, 1000-1500 m turuncu, 1500+ m kahverengi). Kısa mesafede renk değişiminin az olması o sahanın daha alçak, engebesiz ve sade olduğunu gösterir.<br><br>🔍 <strong>Profil Hatlarının Karşılaştırması:</strong><br>• <strong>I, III, IV ve V Numaralı Hatlar:</strong> Batı Karadeniz (Küre Dağları), Doğu Karadeniz (Kaçkar Dağları) ve Akdeniz (Batı ve Orta Toroslar) dik dağ sıralarını kestikleri için kıyıdan birkaç kilometre içeride aniden 2000-3000 metrelere çıkılır ve renkler çok hızlı değişir.<br>• <strong>II Numaralı Hat (Orta Karadeniz / Samsun):</strong> Canik Dağları hem kıyıdan geridedir hem de yükseltisi oldukça azdır (~1200 m). Gerisinde geniş ovalar (Bafra, Çarşamba, Merzifon) yer aldığından kıyı ile iç kesim arasındaki yükselti farkı ve <strong>kısa mesafedeki renk değişimi en azdır</strong>."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II Numaralı Hat - Orta Karadeniz / Canik Dağları)<br><br>📌 <strong>Fiziki Haritalarda Renk Değişimi ve Eğim:</strong><br>• Renk değişimi yükselti basamaklarını gösterir. Kısa mesafede renk hızlı değişiyorsa eğim fazla ve engebelidir; renk az değişiyorsa sade ve az eğimlidir.<br>• <strong>II Numaralı Profil (Orta Karadeniz / Samsun):</strong> Canik Dağları kıyının gerisinde ve yükseltisi oldukça basıktır (1000-1500 m). Geniş deltalar (Bafra, Çarşamba) ve vadiler sebebiyle yükselti yavaş artar; bu nedenle renk değişimi <strong>en azdır</strong>.<br>• I (Küre Dağları), III (Kaçkarlar), IV (Batı Toroslar) ve V (Orta Toroslar) denizden hemen sonra dik dağlarla aniden yükseldiği için renkler çok hızlı değişir."
   },
   {
     "id": "cogr_test_5-q18",
@@ -29507,33 +29507,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 5: Yer Şekilleri (Soru 18)",
+    "questionText": "Yukarıdaki Türkiye haritasında verilen A - B doğrultusunda (Sinop - Anamur hattı) hareket edildiğinde aşağıdaki yüzey şekillerinden hangisine rastlanılmaz?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_5_q18.png",
+    "image": "assets/questions/cogr_test_5_q18.png?v=109.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Küre Dağları"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Erciyes Dağı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Haymana Platosu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Konya Ovası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Göksu Nehri Vadisi"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Erciyes Dağı)<br><br>📌 <strong>A - B Profil Doğrultusunda Yer Alan ve Almayan Şekiller:</strong><br>• Haritada verilen <strong>A - B hattı</strong>, kuzeyde Sinop İnceburun'dan başlayıp güneyde Akdeniz kıyısına (Taşeli/Silifke civarı) doğru yaklaşık 32°-33° Doğu boylamı boyunca dikey uzanmaktadır.<br><br>🔍 <strong>Bu Güzergâh Üzerindeki Şekiller:</strong><br>• <strong>Küre Dağları:</strong> Karadeniz kıyısında bu hat üzerinden geçilir.<br>• <strong>Haymana Platosu:</strong> Ankara güneyinde bu hat üzerinden geçilir.<br>• <strong>Konya Ovası:</strong> İç Anadolu'nun güneyinde bu hat üzerinden geçilir.<br>• <strong>Göksu Nehri Vadisi:</strong> Taşeli Platosu'nu yarıp Akdeniz'e inen kanyon/vadi bu hat üzerindedir.<br>• <strong>Erciyes Dağı:</strong> <strong>Kayseri ilinde (yaklaşık 35°30' Doğu boylamında)</strong> yer alır. Bu profil hattının oldukça <strong>doğusunda</strong> kaldığı için güzergâhta Erciyes Dağı'na rastlanmaz."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Erciyes Dağı)<br><br>📌 <strong>A - B Doğrultusundaki Yer Şekilleri:</strong><br>• Sinop'tan Anamur'a uzanan bu kuzey-güney profil hattı sırasıyla <strong>Küre Dağları</strong>, İç Anadolu'da <strong>Haymana Platosu</strong>, <strong>Konya Ovası</strong> ve Akdeniz'e inen <strong>Göksu Nehri Vadisi</strong> üzerinden geçer.<br>• <strong>Erciyes Dağı:</strong> Kayseri ilindedir ve bu profil hattının belirgin şekilde <strong>doğusunda</strong> kalır. Güzergah üzerinde yer almaz."
   },
   {
     "id": "cogr_test_6-q1",
