@@ -3974,16 +3974,8 @@ class EKYSApp {
     const settingInput = document.getElementById('setting-daily-target-input');
     if (settingInput && document.activeElement !== settingInput) settingInput.value = dailyTarget;
 
-    const totalPoolCount = allQuestions.length || 1272;
+    const totalPoolCount = allQuestions.length || 1438;
     totalQuestionsAnswered = Math.min(totalQuestionsAnswered, totalPoolCount);
-    const totalSolvedPct = totalPoolCount > 0 ? Math.min(100, Math.round((totalQuestionsAnswered / totalPoolCount) * 100)) : 0;
-    const totalSolvedCountEl = document.getElementById('stats-total-solved-count');
-    const totalSolvedBarEl = document.getElementById('stats-total-solved-bar');
-    const totalPoolBadgeEl = document.getElementById('stats-total-pool-badge');
-    if (totalSolvedCountEl) totalSolvedCountEl.textContent = `${totalQuestionsAnswered} / ${totalPoolCount} Soru`;
-    if (totalSolvedBarEl) totalSolvedBarEl.style.width = `${totalSolvedPct}%`;
-    if (totalPoolBadgeEl) totalPoolBadgeEl.textContent = `%${totalSolvedPct} Tamamlandı`;
-
     const answeredTotal = (totalCorrectAnswers + totalWrongAnswers);
     const overallAccuracy = answeredTotal > 0 ? Math.round((totalCorrectAnswers / answeredTotal) * 100) : 0;
     const overallAccEl = document.getElementById('stats-overall-accuracy');
@@ -3995,6 +3987,106 @@ class EKYSApp {
 
     // 3. Testler Menüsündeki Tüm Sınav Kartlarının Tanımları
     const testHubCards = this.getTestHubCardsDefinition();
+
+    // 3.1 Üst 3 Ana İlerleme Kartı Verileri (Farklı Soru, Test Çözümü, Kümülatif Soru)
+    // 1) Farklı Soru Havuzu
+    const farkliPct = totalPoolCount > 0 ? Math.min(100, Math.round((totalQuestionsAnswered / totalPoolCount) * 100)) : 0;
+    const farkliRemain = Math.max(0, totalPoolCount - totalQuestionsAnswered);
+    const farkliOffset = (163.36 * (1 - farkliPct / 100)).toFixed(1);
+
+    const farkliCountEl = document.getElementById('stats-farkli-count');
+    const farkliBarEl = document.getElementById('stats-farkli-bar');
+    const farkliBadgeEl = document.getElementById('stats-farkli-badge');
+    const farkliCircleEl = document.getElementById('stats-farkli-circle');
+    const farkliCirclePctEl = document.getElementById('stats-farkli-circle-pct');
+    const farkliRemainEl = document.getElementById('stats-farkli-remain');
+
+    if (farkliCountEl) farkliCountEl.textContent = `${totalQuestionsAnswered.toLocaleString('tr-TR')} / ${totalPoolCount.toLocaleString('tr-TR')} Soru`;
+    if (farkliBarEl) farkliBarEl.style.width = `${farkliPct}%`;
+    if (farkliBadgeEl) farkliBadgeEl.textContent = `%${farkliPct} Tamamlandı`;
+    if (farkliCircleEl) farkliCircleEl.style.strokeDashoffset = farkliOffset;
+    if (farkliCirclePctEl) farkliCirclePctEl.textContent = `%${farkliPct}`;
+    if (farkliRemainEl) farkliRemainEl.textContent = `${farkliRemain.toLocaleString('tr-TR')} soru kaldı`;
+
+    // Eski sayaçlar için geriye dönük uyumluluk
+    const totalSolvedCountEl = document.getElementById('stats-total-solved-count');
+    const totalSolvedBarEl = document.getElementById('stats-total-solved-bar');
+    const totalPoolBadgeEl = document.getElementById('stats-total-pool-badge');
+    if (totalSolvedCountEl) totalSolvedCountEl.textContent = `${totalQuestionsAnswered} / ${totalPoolCount} Soru`;
+    if (totalSolvedBarEl) totalSolvedBarEl.style.width = `${farkliPct}%`;
+    if (totalPoolBadgeEl) totalPoolBadgeEl.textContent = `%${farkliPct} Tamamlandı`;
+
+    // 2) Toplam Test Çözümü ve 3) Kümülatif Soru Hacmi
+    let totalAllTests = 0;
+    let distinctSolvedAllTests = 0;
+    let totalCumulativePool = 0;
+
+    testHubCards.forEach(card => {
+      const catTests = this.getAllTestItemsForCategory(card.id);
+      const cardTotalPool = this.getCardTotalPool(card.id);
+
+      if (catTests && catTests.length > 0) {
+        totalAllTests += catTests.length;
+        catTests.forEach(testItem => {
+          const name = (testItem.name || '').toLowerCase().trim();
+          const filterKey = (testItem.filterKey || '').toLowerCase().trim();
+          const isSolved = history.some(h => {
+            const hTitle = (h.title || '').toLowerCase().trim();
+            const hTopic = (h.topicId || '').toLowerCase().trim();
+            return (hTopic && (hTopic === filterKey || hTopic.startsWith(filterKey))) ||
+                   (hTitle && (hTitle.includes(name) || name.includes(hTitle)));
+          });
+          if (isSolved) distinctSolvedAllTests++;
+
+          const qList = this.getQuestionsForFilter(testItem.filterKey);
+          totalCumulativePool += (qList && qList.length) ? qList.length : 0;
+        });
+      } else {
+        const fallbackCount = (card.id === 'cikmis' ? 8 : card.id === 'denemeler' ? 8 : 10);
+        totalAllTests += fallbackCount;
+        totalCumulativePool += (card.id === 'cikmis' ? 640 : card.id === 'denemeler' ? 480 : cardTotalPool);
+      }
+    });
+
+    let cumulativeSolvedCount = 0;
+    history.forEach(h => {
+      cumulativeSolvedCount += (h.totalQuestions || ((h.correctCount || 0) + (h.wrongCount || 0) + (h.emptyCount || 0)) || 0);
+    });
+
+    const testPct = totalAllTests > 0 ? Math.min(100, Math.round((distinctSolvedAllTests / totalAllTests) * 100)) : 0;
+    const testRemain = Math.max(0, totalAllTests - distinctSolvedAllTests);
+    const testOffset = (163.36 * (1 - testPct / 100)).toFixed(1);
+
+    const testCountEl = document.getElementById('stats-test-count');
+    const testBarEl = document.getElementById('stats-test-bar');
+    const testBadgeEl = document.getElementById('stats-test-badge');
+    const testCircleEl = document.getElementById('stats-test-circle');
+    const testCirclePctEl = document.getElementById('stats-test-circle-pct');
+    const testRemainEl = document.getElementById('stats-test-remain');
+
+    if (testCountEl) testCountEl.textContent = `${distinctSolvedAllTests} / ${totalAllTests} Test`;
+    if (testBarEl) testBarEl.style.width = `${testPct}%`;
+    if (testBadgeEl) testBadgeEl.textContent = `%${testPct} Tamamlandı`;
+    if (testCircleEl) testCircleEl.style.strokeDashoffset = testOffset;
+    if (testCirclePctEl) testCirclePctEl.textContent = `%${testPct}`;
+    if (testRemainEl) testRemainEl.textContent = `${testRemain} test kaldı`;
+
+    const cumulPct = totalCumulativePool > 0 ? Math.min(100, Math.round((cumulativeSolvedCount / totalCumulativePool) * 100)) : 0;
+    const cumulOffset = (163.36 * (1 - cumulPct / 100)).toFixed(1);
+
+    const cumulCountEl = document.getElementById('stats-cumul-count');
+    const cumulBarEl = document.getElementById('stats-cumul-bar');
+    const cumulBadgeEl = document.getElementById('stats-cumul-badge');
+    const cumulCircleEl = document.getElementById('stats-cumul-circle');
+    const cumulCirclePctEl = document.getElementById('stats-cumul-circle-pct');
+    const cumulRemainEl = document.getElementById('stats-cumul-remain');
+
+    if (cumulCountEl) cumulCountEl.textContent = `${cumulativeSolvedCount.toLocaleString('tr-TR')} / ${totalCumulativePool.toLocaleString('tr-TR')} Soru`;
+    if (cumulBarEl) cumulBarEl.style.width = `${cumulPct}%`;
+    if (cumulBadgeEl) cumulBadgeEl.textContent = `%${cumulPct} Tamamlandı`;
+    if (cumulCircleEl) cumulCircleEl.style.strokeDashoffset = cumulOffset;
+    if (cumulCirclePctEl) cumulCirclePctEl.textContent = `%${cumulPct}`;
+    if (cumulRemainEl) cumulRemainEl.textContent = `${totalAllTests} testlik pratik hacmi`;
 
     // 4. Her Test Hub Kartı İçin İstatistik Hesapla & HTML Üret
     const cardsGridEl = document.getElementById('stats-cards-grid');
