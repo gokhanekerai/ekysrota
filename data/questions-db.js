@@ -27899,33 +27899,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 10)",
+    "questionText": "Aşağıdaki haritada beş kent merkezi gösterilmiştir (İzmir 27°, İzmit 30°, Finike 30°, Trabzon 40°, Iğdır 44°).\n\nHaritada işaretli kentlerle ilgili aşağıda verilen bilgilerden hangisinin doğru olduğu söylenemez?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q10.png",
+    "image": "assets/questions/cogr_test_2_q10.png?v=105.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İzmir'in yerel saati diğer kentlerden geridir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İzmit - Trabzon arasındaki yerel saat farkı 40 dakikadır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Iğdır'da güneş diğer kentlerden önce doğar."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "İzmir ile Iğdır arasındaki yerel saat farkı 1 saatten fazladır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "İzmit ve Finike'de yıl boyunca güneş aynı anda doğar aynı anda batar."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (İzmit ve Finike'de yıl boyunca güneş aynı anda doğar aynı anda batar)<br><br>📌 <strong>Aynı Meridyen Üzerindeki Merkezlerin Durumu:</strong><br>• Aynı boylam üzerindeki merkezlerde (İzmit ve Finike - 30°D) <strong>yerel saat ve öğle vakti anı yıl boyunca aynıdır</strong>.<br>• Ancak Güneş'in aynı anda doğup aynı anda batması yalnızca gece-gündüz sürelerinin eşit olduğu <strong>Ekinoks tarihlerinde (21 Mart ve 23 Eylül)</strong> gerçekleşir. Yılın diğer günlerinde enlem farkından dolayı gece-gündüz uzunlukları farklı olduğundan doğuş ve batış saatleri değişir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (İzmit ve Finike'de yıl boyunca güneş aynı anda doğar aynı anda batar)<br><br>📌 <strong>Yerel Saat ve Güneşin Doğuş/Batış Kuralları:</strong><br>• <strong>Aynı Boylam Üzerindeki Merkezler (İzmit ve Finike - 30° Doğu):</strong> Yıl boyunca yalnızca yerel saatleri ve öğle vakitleri aynıdır. Güneşin aynı anda doğup aynı anda batması ise <strong>yalnızca 21 Mart ve 23 Eylül (Ekinoks) tarihlerinde</strong> gerçekleşir; yıl boyunca değil!<br><br>🔍 <em>Diğer Seçeneklerin Doğruluğu:</em><br>• <strong>A)</strong> İzmir en batıda (27°) olduğu için yerel saati en geridir.<br>• <strong>B)</strong> İzmit (30°) ile Trabzon (40°) arasında 10 boylam x 4 dk = 40 dakika yerel saat farkı vardır.<br>• <strong>C)</strong> Iğdır en doğuda (44°) yer aldığı için güneş ilk onda doğar.<br>• <strong>D)</strong> İzmir (27°) ile Iğdır (44°) arasında 17 boylam fark vardır (17 x 4 = 68 dakika > 1 saat)."
   },
   {
     "id": "cogr_test_2-q11",
@@ -27936,33 +27936,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 11)",
+    "questionText": "Aşağıda Türkiye'de üç merkeze ait boylam değerleri gösterilmiştir (İzmit 30° D, Ankara 33° D, Iğdır 44° D).\n\n23 Eylül tarihinde;\nI. İzmit'te güneş Ankara'ya göre daha geç doğar.\nII. Üç merkezde de yaşanan gündüz süresi yaklaşık olarak aynıdır.\nIII. Iğdır ile İzmit öğle vaktini aynı anda yaşar.\n\nbilgilerinden hangisi yanlıştır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q11.png",
+    "image": "assets/questions/cogr_test_2_q11.png?v=105.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve II"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II ve III"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız III)<br><br>📌 <strong>23 Eylül Ekinoks Analizi:</strong><br>• <strong>I. Bilgi:</strong> İzmit (30°D) Ankara'ya (33°D) göre daha batıda olduğundan Güneş daha geç doğar (Doğru).<br>• <strong>II. Bilgi:</strong> 23 Eylül Ekinoks gününde tüm Dünya'da gece ve gündüz süreleri 12'şer saatle eşittir (Doğru).<br>• <strong>III. Bilgi:</strong> Iğdır (44°D) ile İzmit'in (30°D) boylamları farklı olduğundan yerel saatleri farklıdır ve öğle vaktini (saat 12:00) aynı anda yaşayamazlar (Yanlış - Aralarında 56 dakika fark vardır)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız III)<br><br>📌 <strong>23 Eylül Ekinoksu ve Boylam Özellikleri:</strong><br>• <strong>I. Öncül (Doğru):</strong> İzmit (30° D), Ankara'nın (33° D) batısındadır. Batıdaki merkezlerde güneş doğudakilere göre daha geç doğar.<br>• <strong>II. Öncül (Doğru):</strong> 23 Eylül Ekinoks tarihinde Dünya'nın her yerinde 12 saat gündüz, 12 saat gece yaşanır. Dolayısıyla üç merkezde de gündüz süresi eşittir.<br>• <strong>III. Öncül (Yanlış):</strong> Iğdır (44° D) ile İzmit (30° D) farklı boylamlarda yer alır. Aralarında 14 meridyen x 4 = 56 dakika yerel saat farkı vardır. Öğle vaktini (Güneş'in tepeye ulaştığı anı) aynı anda yaşayamazlar; Iğdır öğle vaktini 56 dakika daha önce yaşar."
   },
   {
     "id": "cogr_test_2-q12",
