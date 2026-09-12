@@ -27610,33 +27610,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏔️",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 2: Coğrafi Konum ve Yer Şekilleri (Soru 2)",
+    "questionText": "Aşağıdaki haritada Bafra ve Hatay'ın boylam değerleri ile Aydın ve Başkale'nin enlem değerleri verilmiştir.\n\nBuna göre, bu merkezler aşağıdakilerden hangileri bakımından yıl boyunca benzerlik gösterir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_2_q2.png",
+    "image": "assets/questions/cogr_test_2_q2.png?v=106.0",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Aydın - Başkale: Yerel saat | Hatay - Bafra: Gece - gündüz süresi"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Aydın - Başkale: Gece - gündüz süresi | Hatay - Bafra: Yerel saat"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Aydın - Başkale: Çizgisel hız | Hatay - Bafra: Güneşin doğuş ve batış saatleri"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Aydın - Başkale: Gece - gündüz süresi | Hatay - Bafra: Sıcaklık ortalaması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Aydın - Başkale: Sıcaklık ortalaması | Hatay - Bafra: Yerel saat"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Gece - gündüz süresi | Yerel saat)<br><br>📌 <strong>Enlem ve Boylam Özellikleri:</strong><br>• <strong>Aydın - Başkale (Aynı Enlem Üzerinde):</strong> Ekvator'a olan uzaklıkları aynı olduğu için yıl boyunca <strong>gece-gündüz süreleri</strong>, çizgisel hızları ve Güneş ışınlarının geliş açısı birbirinin aynısıdır.<br>• <strong>Hatay - Bafra (Aynı Boylam Üzerinde):</strong> Başlangıç meridyenine göre aynı boylam derecesinde bulundukları için yıl boyunca <strong>yerel saatleri</strong> ve öğle vakti anları daima aynıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Aydın - Başkale: Gece - gündüz süresi | Hatay - Bafra: Yerel saat)<br><br>📌 <strong>Aynı Enlem ve Aynı Boylam Özellikleri:</strong><br>• <strong>Aynı Enlem Üzerindeki Merkezler (Aydın ve Başkale):</strong> Ekvator'a ve kutuplara eşit uzaklıktadırlar. Bu nedenle yıl boyunca <strong>gece - gündüz süreleri (ve süre farkları)</strong>, çizgisel hızları ve Güneş ışınlarının geliş açısı daima aynıdır.<br>• <strong>Aynı Boylam Üzerindeki Merkezler (Hatay ve Bafra):</strong> Başlangıç meridyenine göre açısal konumları aynıdır. Bu nedenle yıl boyunca <strong>yerel saatleri</strong> ve öğle vakitleri (Güneş'in en tepede olduğu an) daima aynıdır.<br><br>🔍 <em>Neden Diğerleri Olamaz?</em><br>• Sıcaklık ortalamaları yükselti ve denizellik (özel konum) nedeniyle farklıdır.<br>• Güneşin doğuş-batış saati aynı boylamda yalnızca ekinokslarda aynıdır, yıl boyunca değil."
   },
   {
     "id": "cogr_test_2-q3",
