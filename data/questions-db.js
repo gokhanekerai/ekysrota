@@ -30397,7 +30397,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 6,
     "questionText": "Türkiye'de dağların kıyıya uzanış doğrultusu ve yükseltisi kıyıdaki yağış miktarını etkilemektedir.\nBuna göre, yukarıdaki dağ sıralarından hangisinin kıyıya olan konumu ve yükseltisi kesimindeki yağış miktarını en fazla artırmaktadır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q6.png",
+    "image": "assets/questions/cogr7_harita_q6.png?v=120.0",
     "options": [
       {
         "key": "A",
@@ -30434,7 +30434,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 7,
     "questionText": "Orojenez faaliyetleri sırasında levhalar tarafından sıkıştırılan tortul tabakalar yumuşak bir yapıdaysa kıvrılarak yükselir ve kıvrım dağları meydana gelir.\nBuna göre Türkiye haritasında numaralandırılarak verilen dağlardan hangisi yukarıdaki açıklamaya uygun değildir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q7.png",
+    "image": "assets/questions/cogr7_harita_q7.png?v=120.0",
     "options": [
       {
         "key": "A",
@@ -30471,7 +30471,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 8,
     "questionText": "Volkanizma faaliyetleri sonucunda çıkan lavlar düşük viskoziteye (akışkan) sahip bir lav ise akıntılar hızla geniş bir alana yayılır. Bu şekilde kalkanı andıran bir volkanik dağ yapısı meydana gelir.\nBuna göre yukarıda Türkiye haritasında numaralandırılmış volkanik kütlelerin hangisi volkanik kalkan özelliğindedir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q8.png",
+    "image": "assets/questions/cogr7_harita_q8.png?v=120.0",
     "options": [
       {
         "key": "A",
@@ -30508,7 +30508,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 9,
     "questionText": "Yukarıdaki Türkiye haritasında verilen dağ sıralarının hangisinin oluşumu diğerlerinden farklıdır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q9.png",
+    "image": "assets/questions/cogr7_harita_q9.png?v=120.0",
     "options": [
       {
         "key": "A",
@@ -30545,7 +30545,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 10,
     "questionText": "Yukarıda verilen horst - graben sisteminde X - Y - Z ile gösterilmiş alanlar aşağıdakilerden hangisinde doğru olarak verilmiştir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q10.png",
+    "image": "assets/questions/cogr7_harita_q10.png?v=120.0",
     "options": [
       {
         "key": "A",
@@ -30582,7 +30582,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 11,
     "questionText": "Aşağıdaki Türkiye haritasında bir kıyı şeridi taranarak gösterilmiştir.\nBuna göre aşağıdaki akarsulardan hangisi bu kıyı şeridinde delta ovası oluşturmuştur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q11.png",
+    "image": "assets/questions/cogr7_harita_q11.png?v=120.0",
     "options": [
       {
         "key": "A",
@@ -30730,7 +30730,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 15,
     "questionText": "Kentleşme ve beraberinde gelen sanayileşmenin de etkisiyle doğal çevrede kirlilik oranı artar.\nYukarıdaki haritada belirtilen alanların hangisindeki akarsuyun kirlenme oranı daha fazladır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q15.png",
+    "image": "assets/questions/cogr7_harita_q15.png?v=120.0",
     "options": [
       {
         "key": "A",
@@ -30804,7 +30804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 17,
     "questionText": "Akarsular eğimin az olduğu yerlerde geniş tabanlı vadileri oluşturdukları için taşkınlara neden olurlar.\nBuna göre, haritada işaretli alanların hangisinde akarsular taşkınlara daha fazla neden olur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q17.png",
+    "image": "assets/questions/cogr7_harita_q17.png?v=120.0",
     "options": [
       {
         "key": "A",
@@ -30841,7 +30841,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 18,
     "questionText": "Kapalı havzalar, sularını denizlere kadar ulaştıramayıp kuruyan, yer altına sızdıran veya göle dökülüp kalan havzalardır. Kapalı havzaların oluşmasında; yer şekillerinin oluşumu ve iklim etkilidir.\nBuna göre yukarıda Türkiye haritasında taranarak verilen alanların hangisinde akarsular kapalı havza özelliğindedir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_7_q18.png",
+    "image": "assets/questions/cogr7_harita_q18.png?v=120.0",
     "options": [
       {
         "key": "A",
