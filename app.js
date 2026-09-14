@@ -431,6 +431,14 @@ class EKYSApp {
             badge: '20 Soru Video Test'
           },
           {
+            id: 'tarih5_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 5',
+            icon: '📜',
+            desc: 'İlk Türk Devletleri Kültür, Medeniyet, Sanat, Yazıtlar ve Destanlar (20 Soru).',
+            filterKey: 'tarih5',
+            badge: '20 Soru Video Test'
+          },
+          {
             id: 'inkilap_konu_cat',
             name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
             icon: '🇹🇷',
@@ -491,6 +499,14 @@ class EKYSApp {
             icon: '📜',
             desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği.',
             filterKey: 'tarih4',
+            badge: '20 Soru'
+          },
+          {
+            id: 'tarih5',
+            name: 'Genel Tarih Video Tarama Testi 5',
+            icon: '📜',
+            desc: 'İlk Türk Devletleri Kültür, Medeniyet, Sanat, Yazıtlar ve Destanlar.',
+            filterKey: 'tarih5',
             badge: '20 Soru'
           },
           {
@@ -2491,7 +2507,8 @@ class EKYSApp {
       if (filterKey === 'tarih2') return (q.testId === 'tarih2' || tId === 'tarih_tarama_2' || (tName.includes('tarama 2') && tName.includes('tarih')));
       if (filterKey === 'tarih3') return (q.testId === 'tarih3' || tId === 'tarih_tarama_3' || (tName.includes('tarama 3') && tName.includes('tarih')));
       if (filterKey === 'tarih4') return (q.testId === 'tarih4' || tId === 'tarih_tarama_4' || (tName.includes('tarama 4') && tName.includes('tarih')));
-      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || tId.startsWith('tarih_tarama'));
+      if (filterKey === 'tarih5') return (q.testId === 'tarih5' || tId === 'tarih_tarama_5' || (tName.includes('tarama 5') && tName.includes('tarih')));
+      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || tId.startsWith('tarih_tarama'));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);

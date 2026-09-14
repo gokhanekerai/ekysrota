@@ -51255,5 +51255,745 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>D</strong> (Programın kazanımları, kazanım yazma kurallarına uygun yazılmış mı?)<br><br>📌 <strong>Uzman Öğretmen Çözüm & Konu Analizi:</strong><br>• İşlevsellik; programda öğretilen bilgi ve becerilerin günlük hayatta işe yaraması, pratik fayda sağlaması ve bireyin/toplumun gerçek yaşam ihtiyaçlarını karşılamasıdır. Kazanımların teknik yazım kurallarına uygunluğu ise işlevsellik değil 'biçimsel/teknik uygunluk' boyutudur.<br><br>🔍 <strong>Çeldirici Seçeneklerin Pedagojik Analizi (Neden Yanlış?):</strong><br>• <strong>A) Programda yer verilen konular ve etkinlikler hayatta geçerli mi? (Yanlış):</strong> Konu ve etkinliklerin hayatta geçerli olması, bilginin pratik değerini gösterdiği için doğrudan işlevsellikle ilgilidir ve listede yer almalıdır.<br>• <strong>B) Program, öğrencilerin günlük yaşam problemlerini çözme becerilerini geliştiriyor mu? (Yanlış):</strong> Öğrencilerin günlük yaşam problemlerini çözebilmesi işlevsellik ilkesinin en temel sonucudur; listede yer almalıdır.<br>• <strong>C) Program, bireyin ve toplumun ihtiyaçlarına cevap veriyor mu? (Yanlış):</strong> Bireyin ve toplumun ihtiyaçlarına cevap vermek programın hayatiyetini ve işlevselliğini doğrudan yansıtır; listede yer almalıdır.<br>• <strong>E) Program, öğrencilerin yaparak yaşayarak öğrenmelerine fırsat veriyor mu? (Yanlış):</strong> Yaparak yaşayarak öğrenme becerilerin kalıcı olmasını ve hayata aktarılmasını sağladığından işlevselliği destekler; listede yer almalıdır.",
     "hasImage": false,
     "image": null
+  },
+  {
+    "id": "tarih5-q1",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 1,
+    "questionText": "Orta Asya Türk devletlerinin ilk dönemlerini araştıran bir tarihçi aşağıdakilerden hangisini incelerse daha güvenilir bilgiler elde eder?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Destan"
+      },
+      {
+        "key": "B",
+        "text": "Koşuk"
+      },
+      {
+        "key": "C",
+        "text": "Sagu"
+      },
+      {
+        "key": "D",
+        "text": "Kitabe"
+      },
+      {
+        "key": "E",
+        "text": "Sav"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kitabe)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Tarih biliminde birinci elden yazılı belgeler, kitabeler ve anıtlar; sözlü kültür ürünlerine göre çok daha güvenilir, doğrudan ve nesnel kaynak kabul edilir. Orhun Kitabeleri ve Yenisey Yazıtları gibi taşlara kazınmış kitabeler, dönemin hükümdarları, devlet yönetimi ve toplumsal yaşamı hakkında kesin ve tahrif edilmemiş yazılı veriler sunar.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Destan, Koşuk, Sagu, Sav:</strong> İslamiyet öncesi Türk edebiyatının sözlü ürünleridir. Kuşaktan kuşağa dilden dile aktarılırken abartı, mitolojik öğeler ve değişiklikler barındırabildiklerinden yazılı kitabeler kadar güvenilir birincil kaynak sayılmazlar."
+  },
+  {
+    "id": "tarih5-q2",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 2,
+    "questionText": "Hun ve Köktürk devletleri dönemlerinde aşağıdakilerden hangisine rastlanılmaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "At arabası"
+      },
+      {
+        "key": "B",
+        "text": "Balbal"
+      },
+      {
+        "key": "C",
+        "text": "Zırh"
+      },
+      {
+        "key": "D",
+        "text": "Fresk"
+      },
+      {
+        "key": "E",
+        "text": "Savaş araç ve gereçleri"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Fresk)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Hun ve Köktürk devletleri, Orta Asya'da yaşamış göçebe veya yarı göçebe Türk topluluklarıdır. Bu dönemlerdeki kültürel ve sanatsal faaliyetler genellikle göçebe yaşam tarzına uygun, taşınabilir veya anıtsal nitelikte olmuştur. Fresk (duvar resmi), genellikle yerleşik hayata geçmiş, mimarisi gelişmiş ve kalıcı yapılar inşa eden topluluklarda görülen bir sanat türüdür. Hun ve Köktürkler'in yaşam tarzı ve mimari anlayışı, büyük ölçekli ve kalıcı fresklerin yaygın olarak bulunmasına elverişli değildir. Freskler, daha çok Uygurlar gibi yerleşik hayata geçip tapınaklar inşa eden Türk devletlerinde görülmeye başlanmıştır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) At arabası:</strong> Hunlar ve Köktürkler gibi göçebe bozkır kültürlerinde at ve at arabası, ulaşım, savaş ve günlük yaşamın vazgeçilmez bir parçasıydı. Arkeolojik bulgularla da desteklenmektedir.</li><li><strong>B) Balbal:</strong> Balballar, eski Türklerde ölen kahramanların anısına dikilen, insan biçimli taş heykellerdir. Özellikle Köktürkler döneminde yaygın olarak kullanılmış ve kurganların etrafına yerleştirilmiştir.</li><li><strong>C) Zırh:</strong> Hem Hunlar hem de Köktürkler, savaşçı toplumlar olup, atlı savaşçılıkta ustalaşmışlardır. Savaşlarda kendilerini ve atlarını korumak için zırh kullanmışlardır. Arkeolojik kazılarda zırh parçalarına rastlanmıştır.</li><li><strong>E) Savaş araç ve gereçleri:</strong> Bu devletler, askeri güçleriyle tanınan imparatorluklar kurmuşlardır. Ok, yay, kılıç, mızrak, kalkan gibi çeşitli savaş araç ve gereçleri, onların askeri yapısının temel unsurlarıdır ve bu dönemlere ait buluntular arasında sıkça yer alır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q3",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 3,
+    "questionText": "Türk tarihinde ilk millî alfabeyi oluşturan devlet aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Uygurlar"
+      },
+      {
+        "key": "B",
+        "text": "Türgişler"
+      },
+      {
+        "key": "C",
+        "text": "Peçenekler"
+      },
+      {
+        "key": "D",
+        "text": "Hunlar"
+      },
+      {
+        "key": "E",
+        "text": "Köktürkler"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Köktürkler)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Türk tarihinde ilk millî alfabeyi oluşturan devlet Köktürkler (Göktürkler) olmuştur. Köktürkler tarafından kullanılan bu alfabe, Göktürk alfabesi veya Orhun alfabesi olarak bilinir. Bu alfabe, Türk dilinin ses yapısına uygun olarak geliştirilmiş ve Türklerin kendi özgün yazılı kültürlerini oluşturmalarında önemli bir rol oynamıştır. Orhun Yazıtları, bu alfabeyle yazılmış en önemli eserlerdir.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Uygurlar:</strong> Uygurlar, Köktürk alfabesinden sonra Soğd alfabesinden türeyen Uygur alfabesini kullanmışlardır. Ancak bu, Türk tarihindeki ilk millî alfabe değildir.</li><li><strong>B) Türgişler:</strong> Türgişler, genellikle Soğd alfabesini kullanmışlardır ve kendilerine ait özgün bir millî alfabe geliştirmemişlerdir.</li><li><strong>C) Peçenekler:</strong> Peçenekler, genellikle komşu kültürlerin (Bizans, Slav) yazı sistemlerini kullanmışlardır ve kendilerine ait bir millî alfabe oluşturmamışlardır.</li><li><strong>D) Hunlar:</strong> Hunlar döneminde belirgin bir millî alfabe kullanımı tespit edilmemiştir. Genellikle komşu medeniyetlerin (Çin, Roma) yazı sistemleriyle etkileşim içinde olmuşlardır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q4",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 4,
+    "questionText": "Mete Han'ı anlatan destan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Manas"
+      },
+      {
+        "key": "B",
+        "text": "Alp Er Tunga"
+      },
+      {
+        "key": "C",
+        "text": "Türeyiş"
+      },
+      {
+        "key": "D",
+        "text": "Şu"
+      },
+      {
+        "key": "E",
+        "text": "Oğuz Kağan"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Oğuz Kağan)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Mete Han, Büyük Hun İmparatorluğu'nun en önemli hükümdarlarından biridir. Türk destan geleneğinde, Mete Han'ın hayatı ve kahramanlıkları, Oğuz Kağan Destanı'nda anlatılan Oğuz Kağan ile özdeşleştirilir. Oğuz Kağan Destanı, Oğuz Kağan'ın doğumu, çocukluğu, evlenmesi, fetihleri, devleti kurması ve oğulları arasında ülkeyi paylaştırması gibi olayları konu alır. Bu destan, Türklerin en eski ve önemli destanlarından biridir ve Mete Han'ın tarihi kişiliğiyle destani birleşimi temsil eder.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Manas Destanı:</strong> Kırgız Türklerine ait, dünyanın en uzun destanlarından biridir. Manas adlı kahramanın ve soyunun maceralarını anlatır, Mete Han ile ilgili değildir.</li><li><strong>B) Alp Er Tunga Destanı:</strong> Sakalara (İskitlere) ait bir destandır. Alp Er Tunga'nın kahramanlıklarını ve İranlılarla olan mücadelelerini konu alır. Divan-ı Lügat-it Türk ve Şehname'de adı geçer.</li><li><strong>C) Türeyiş Destanı:</strong> Uygur Türklerine ait bir destandır. Uygurların bir dişi kurttan türeyişini anlatır.</li><li><strong>D) Şu Destanı:</strong> Sakalara (İskitlere) ait bir destandır. Saka hükümdarı Şu'nun Büyük İskender ile mücadelesini ve Türklerin göçlerini konu alır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q5",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 5,
+    "questionText": "I. Pankuş\nII. Kam\nIII. Oguş\nIV. Toy\nV. Uçmağ\n\nYukarıdakilerden hangisi İslamiyet öncesi Türklerle ilgili kavramlardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "V"
+      },
+      {
+        "key": "B",
+        "text": "IV"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "II"
+      },
+      {
+        "key": "E",
+        "text": "I"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Soru, İslamiyet öncesi Türk tarihi ve kültürüne ait kavramları bilmeyi gerektirmektedir. Verilen seçenekler arasında İslamiyet öncesi Türklerle ilgili olmayan kavramı bulmamız istenmektedir.<br><br><ul><li><strong>I. Pankuş:</strong> Pankuş, Hititlerde soylulardan oluşan danışma meclisine verilen addır. Hititler, Anadolu'da yaşamış eski bir medeniyettir ve Türklerle doğrudan bir ilişkisi yoktur. Dolayısıyla, İslamiyet öncesi Türklerle ilgili bir kavram değildir.</li><li><strong>II. Kam:</strong> İslamiyet öncesi Türklerde şaman veya din adamı anlamına gelir. Şamanizm (Tengricilik) inancının önemli figürlerindendir.</li><li><strong>III. Oguş:</strong> İslamiyet öncesi Türklerde aile veya soy anlamına gelen temel sosyal birimdir.</li><li><strong>IV. Toy:</strong> İslamiyet öncesi Türklerde devlet işlerinin görüşüldüğü, kararların alındığı kurultay veya meclis anlamına gelir. Aynı zamanda şölen ve ziyafet anlamında da kullanılır.</li><li><strong>V. Uçmağ:</strong> İslamiyet öncesi Türk inancında cennet anlamına gelen yerdir.</li></ul><br>Bu bilgilere göre, 'Pankuş' dışındaki tüm kavramlar İslamiyet öncesi Türklerle ilgilidir.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) V (Uçmağ):</strong> Uçmağ, İslamiyet öncesi Türklerde cennet inancını ifade eder. Bu nedenle doğru bir çeldirici değildir.</li><li><strong>B) IV (Toy):</strong> Toy, İslamiyet öncesi Türklerde meclis veya şölen anlamına gelir. Bu nedenle doğru bir çeldirici değildir.</li><li><strong>C) III (Oguş):</strong> Oguş, İslamiyet öncesi Türklerde aile veya soy anlamına gelir. Bu nedenle doğru bir çeldirici değildir.</li><li><strong>D) II (Kam):</strong> Kam, İslamiyet öncesi Türklerde şaman veya din adamı anlamına gelir. Bu nedenle doğru bir çeldirici değildir.</li><li><strong>E) I (Pankuş):</strong> Pankuş, Hititlere ait bir kavramdır ve İslamiyet öncesi Türklerle ilgisi yoktur. Bu nedenle doğru cevaptır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q6",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 6,
+    "questionText": "I. Tezhip\nII. Minyatür\nIII. Deri işlemeciliği\nYukarıdakilerden hangileri İslamiyet öncesinde Türklerin uğraştığı sanat dalları arasında yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve III)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>İslamiyet öncesi Türk sanatları, Türklerin göçebe yaşam tarzı, inançları ve kültürel etkileşimleri doğrultusunda şekillenmiştir. Bu dönemde özellikle hayvan üslubu, maden işlemeciliği, dokumacılık, halıcılık, fresk (duvar resmi) ve deri işlemeciliği gibi sanat dalları gelişmiştir.<br><br>I. <strong>Tezhip:</strong> Tezhip, genellikle el yazması kitapların kenarlarını, hat levhalarını ve diğer dini metinleri altın ve çeşitli renklerle süsleme sanatıdır. Bu sanat dalı, İslam sanatları içinde önemli bir yer tutar ve Türklerin İslamiyet'i kabul etmesinden sonra gelişip yaygınlaşmıştır. Dolayısıyla İslamiyet öncesi Türk sanatları arasında yer almaz.<br><br>II. <strong>Minyatür:</strong> Minyatür sanatı, İslamiyet öncesi Türklerde Uygur döneminde Budist ve Maniheist metinlerin resimlenmesiyle ilk örneklerini vermiştir. Uygur freskleri ve duvar resimleri, minyatür sanatının öncülleri olarak kabul edilir. Bu dönemde kitap resimleme geleneği başlamıştır. İslamiyet'in kabulünden sonra da bu sanat dalı gelişimini sürdürmüştür. Bu nedenle minyatür, İslamiyet öncesi Türk sanatları arasında yer alır.<br><br>III. <strong>Deri işlemeciliği:</strong> Türkler, göçebe yaşam tarzları ve hayvancılıkla iç içe olmaları nedeniyle deriyi günlük yaşamda ve sanatta yoğun olarak kullanmışlardır. Deriden giysi, çadır, koşum takımı, kalkan, kılıf gibi birçok eşya yapılmış ve bunlar çeşitli motiflerle (özellikle hayvan motifleri) işlenmiştir. Bu sanat dalı, Türklerin İslamiyet öncesi dönemlerden beri uğraştığı ve geliştirdiği önemli bir alandır. Bu nedenle deri işlemeciliği, İslamiyet öncesi Türk sanatları arasında yer alır.<br><br>Yukarıdaki bilgilere göre, İslamiyet öncesinde Türklerin uğraştığı sanat dalları Minyatür (II) ve Deri işlemeciliği (III)'dir.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Yalnız I:</strong> Tezhip, İslamiyet sonrası gelişen bir sanattır.</li><li><strong>B) Yalnız II:</strong> Minyatür doğru olsa da, deri işlemeciliği de İslamiyet öncesi bir sanattır.</li><li><strong>C) I ve II:</strong> Tezhip'in İslamiyet öncesi olmaması nedeniyle yanlıştır.</li><li><strong>E) I, II ve III:</strong> Tezhip'in İslamiyet öncesi olmaması nedeniyle yanlıştır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q7",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 7,
+    "questionText": "I. Yenisey Yazıtları - Uygurlar\nII. Alp Er Tunga Destanı - İskitler\nIII. Karabalasagun Kitabeleri - Kırgızlar\nIV. Orhun Kitabeleri - Hunlar\nV. Türeyiş ve Göç destanları - Uygurlar\n\nYukarıdaki eser ve ait olduğu millet eşleştirmelerinden hangileri yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "II, III ve IV"
+      },
+      {
+        "key": "C",
+        "text": "I, III ve IV"
+      },
+      {
+        "key": "D",
+        "text": "II ve IV"
+      },
+      {
+        "key": "E",
+        "text": "III, IV ve V"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I, III ve IV)<br><br>📌 <strong>Eşleştirmelerin Detaylı İncelemesi:</strong><br>• <strong>I. Yenisey Yazıtları:</strong> Kırgızlara aittir (Uygurlar eşleştirmesi <strong>YANLIŞTIR</strong>).<br>• <strong>II. Alp Er Tunga Destanı:</strong> İskitlere (Sakalar) aittir (Doğru).<br>• <strong>III. Karabalasagun Kitabeleri:</strong> Uygurlara aittir (Kırgızlar eşleştirmesi <strong>YANLIŞTIR</strong>).<br>• <strong>IV. Orhun Kitabeleri:</strong> II. Göktürk (Kutluk) Devleti'ne aittir (Hunlar eşleştirmesi <strong>YANLIŞTIR</strong>).<br>• <strong>V. Türeyiş ve Göç destanları:</strong> Uygurlara aittir (Doğru).<br><br>Bu durumda yanlış olan eşleştirmeler <strong>I, III ve IV</strong>'tür."
+  },
+  {
+    "id": "tarih5-q8",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 8,
+    "questionText": "• Minyatür resim sanatı olarak ilk kez ortaya çıkmıştır.\n• Mimari yapıda kubbeden yararlanmışlardır.\n• Kâğıt kullanan ilk Türk devletidir.\nBazı özellikleri verilen devlet aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Türgişler"
+      },
+      {
+        "key": "B",
+        "text": "Harzemşahlar"
+      },
+      {
+        "key": "C",
+        "text": "Karahanlılar"
+      },
+      {
+        "key": "D",
+        "text": "Uygurlar"
+      },
+      {
+        "key": "E",
+        "text": "Hunlar"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Uygurlar)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Verilen özellikler, Türk tarihinde Uygur Devleti'ne aittir:\n1.  <strong>Minyatür resim sanatı olarak ilk kez ortaya çıkmıştır:</strong> Uygurlar, Maniheizm ve Budizm dinlerinin etkisiyle yerleşik hayata geçmişler ve bu dinlerin etkisiyle duvar resimleri ve minyatür sanatında önemli eserler vermişlerdir. Türk resim sanatının ilk örnekleri Uygurlara aittir.\n2.  <strong>Mimari yapıda kubbeden yararlanmışlardır:</strong> Yerleşik hayata geçmeleriyle birlikte şehirler kuran Uygurlar, tapınaklar, saraylar ve evler inşa etmişlerdir. Bu yapılarında kubbe ve kemer gibi mimari unsurları kullanmışlardır.\n3.  <strong>Kâğıt kullanan ilk Türk devletidir:</strong> Çin ile olan yakın ilişkileri ve yerleşik yaşam tarzları sayesinde Uygurlar, kâğıdı kullanan ilk Türk devleti olmuşlardır. Ayrıca matbaayı da kullanan ilk Türk devleti olarak bilinirler.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>•   <strong>A) Türgişler:</strong> Göçebe yaşam tarzını sürdürmüşlerdir ve bu özelliklere sahip değillerdir.\n•   <strong>B) Harzemşahlar:</strong> İslamiyet'i benimsemiş bir Türk devletidir. Minyatür ve mimaride gelişmiş olsalar da, 'ilk kez minyatür' veya 'ilk kâğıt kullanan' gibi özellikler onlara ait değildir.\n•   <strong>C) Karahanlılar:</strong> İslamiyet'i resmî din olarak kabul eden ilk Türk devletlerinden biridir. Mimari ve edebiyatta önemli eserler vermişlerdir ancak yukarıdaki 'ilk' özellikler onlara atfedilemez.\n•   <strong>E) Hunlar:</strong> Bilinen en eski Türk devletlerinden biridir ve tamamen göçebe bir yaşam sürmüşlerdir. Mimari yapıda kubbe kullanımı, kâğıt kullanımı veya minyatür sanatı gibi özellikler onlara ait değildir."
+  },
+  {
+    "id": "tarih5-q9",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 9,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde Kurultayda alınan kararları uygulamakla görevlidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Şad"
+      },
+      {
+        "key": "B",
+        "text": "Ayukı"
+      },
+      {
+        "key": "C",
+        "text": "Tamgacı"
+      },
+      {
+        "key": "D",
+        "text": "Toygun"
+      },
+      {
+        "key": "E",
+        "text": "Bitikçi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ayukı)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>İslamiyet öncesi Türk devletlerinde Kurultay, devletin en yüksek karar alma organıydı. Bu mecliste alınan kararların günlük hayata geçirilmesi ve uygulanmasından sorumlu olan kişi 'Ayukı' idi. Ayukı, günümüzdeki başbakan veya vezir (hükümet başkanı) konumunda olup, Kurultay'ın aldığı kararları yürütme görevini üstlenirdi. Bu nedenle, Kurultay kararlarını uygulamakla görevli olan makam Ayukı'dır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Şad:</strong> Hanedan üyesi prenslerden olup, genellikle boyların veya bölgelerin yöneticisiydi. Askeri ve idari görevleri vardı ancak Kurultay kararlarını uygulama görevi doğrudan ona ait değildi.</li><li><strong>C) Tamgacı:</strong> Mühürdar veya damgacı olarak da bilinir. Devletin resmi yazışmalarını mühürlemekle ve belgeleri düzenlemekle görevliydi. Uygulayıcıdan ziyade bürokratik bir görevi vardı.</li><li><strong>D) Toygun:</strong> Kurultay üyelerine verilen genel bir isimdi. Boy beyleri, ileri gelenler ve hanedan üyeleri Toygun olarak Kurultay'a katılırdı. Karar alıcı konumdaydılar, uygulayıcı değil.</li><li><strong>E) Bitikçi:</strong> Yazıcı veya katip olarak bilinir. Devletin resmi belgelerini yazmakla, kayıtları tutmakla görevliydi. Tamgacı gibi bürokratik bir görevi vardı.</li></ul>"
+  },
+  {
+    "id": "tarih5-q10",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 10,
+    "questionText": "Aşağıdaki devlet ve destan eşleştirmelerinden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bulgarlar - Şan Kızı"
+      },
+      {
+        "key": "B",
+        "text": "Köktürkler - Ergenekon"
+      },
+      {
+        "key": "C",
+        "text": "Uygurlar - Manas"
+      },
+      {
+        "key": "D",
+        "text": "Asya Hunları - Oğuz Kağan"
+      },
+      {
+        "key": "E",
+        "text": "Uygurlar - Göç"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Uygurlar - Manas)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Manas Destanı, Kırgız Türklerine ait bir destandır. Uygur Türklerinin bilinen destanları Göç ve Türeyiş destanlarıdır. Bu nedenle Uygurlar ile Manas Destanı eşleştirmesi yanlıştır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Bulgarlar - Şan Kızı:</strong> Şan Kızı Destanı (Kız Destanı olarak da bilinir), İdil Bulgarları'na ait önemli bir destandır. Bu eşleştirme doğrudur.</li><li><strong>B) Köktürkler - Ergenekon:</strong> Ergenekon Destanı, Göktürklerin demir dağı eriterek Ergenekon'dan çıkışını anlatan ve onlara ait olan bir destandır. Bu eşleştirme doğrudur.</li><li><strong>D) Asya Hunları - Oğuz Kağan:</strong> Oğuz Kağan Destanı, Hun İmparatoru Mete Han (Oğuz Kağan) etrafında şekillenmiş ve Asya Hunları ile ilişkilendirilen önemli bir Türk destanıdır. Bu eşleştirme doğrudur.</li><li><strong>E) Uygurlar - Göç:</strong> Göç Destanı, Uygur Türklerinin kutsal bir taştan dolayı yurtlarından göç etmelerini anlatan ve onlara ait olan bir destandır. Bu eşleştirme doğrudur.</li></ul>"
+  },
+  {
+    "id": "tarih5-q11",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 11,
+    "questionText": "Aşağıdaki destanlardan hangisi Türklerin hem İslam öncesi hem de İslam sonrası yaşam tarzları hakkında bilgi verir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bozkurt"
+      },
+      {
+        "key": "B",
+        "text": "Türeyiş"
+      },
+      {
+        "key": "C",
+        "text": "Şu"
+      },
+      {
+        "key": "D",
+        "text": "Manas"
+      },
+      {
+        "key": "E",
+        "text": "Oğuz Kağan"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Manas)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Manas Destanı, Kırgız Türklerine ait olup, dünyanın en uzun destanlarından biridir. Bu destanın en önemli özelliklerinden biri, Türklerin İslamiyet öncesi inançlarını (Şamanizm, Tengricilik) ve yaşam biçimlerini barındırırken, aynı zamanda İslamiyet'in kabulüyle birlikte ortaya çıkan yeni değerleri, kahramanlıkları ve mücadeleleri de içermesidir. Destan, Manas'ın İslam'ı yayma ve koruma mücadelesini anlatırken, arka planda eski Türk geleneklerini ve inançlarını da yansıtır. Bu yönüyle, Türklerin İslamlaşma sürecini ve bu süreçteki kültürel dönüşümü gözlemlemek için eşsiz bir kaynaktır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Bozkurt Destanı:</strong> Göktürk dönemine ait olup tamamen İslam öncesi Türk yaşamını ve inançlarını (totemizm, türeyiş efsanesi) yansıtır.</li><li><strong>B) Türeyiş Destanı:</strong> Uygur dönemine ait olup tamamen İslam öncesi Türk yaşamını ve inançlarını (kutsal ağaçtan türeyiş) yansıtır.</li><li><strong>C) Şu Destanı:</strong> Saka Türklerine ait olup tamamen İslam öncesi Türk yaşamını ve Büyük İskender ile mücadelelerini anlatır.</li><li><strong>E) Oğuz Kağan Destanı:</strong> Hun veya Göktürk dönemine ait olup tamamen İslam öncesi Türk yaşamını, Tengricilik inancını ve Oğuz Kağan'ın kahramanlıklarını anlatır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q12",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 12,
+    "questionText": "Aşağıdakilerden hangisi Orta Asya Türk sanat dallarından değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Debbağlık"
+      },
+      {
+        "key": "B",
+        "text": "Minyatür"
+      },
+      {
+        "key": "C",
+        "text": "Hat"
+      },
+      {
+        "key": "D",
+        "text": "Dokuma"
+      },
+      {
+        "key": "E",
+        "text": "Ahşap işlemeciliği"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Hat)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Orta Asya Türk sanat dalları, Türklerin göçebe yaşam tarzı, inançları ve coğrafi koşullarıyla şekillenmiş zengin bir kültürel mirası temsil eder. Bu sanat dalları genellikle pratik ihtiyaçlarla estetik kaygıları birleştirmiştir. Hat sanatı (kaligrafi), Arap alfabesinin estetik kurallar çerçevesinde güzel yazı yazma sanatı olup, Türklerin İslamiyet'i kabul etmesinden sonra gelişmiş ve özellikle Osmanlı döneminde zirveye ulaşmıştır. Orta Asya Türklerinin İslamiyet öncesi veya erken İslamiyet dönemindeki özgün sanat dalları arasında doğrudan ve baskın bir şekilde yer almaz. Diğer seçenekler ise Orta Asya Türk sanatının temel ve köklü dallarıdır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Debbağlık (Dericilik):</strong> Orta Asya Türkleri göçebe bir yaşam sürdükleri için dericilik, giyimden çadırlara, at koşum takımlarından günlük eşyalara kadar birçok alanda hayati bir öneme sahipti. Deri işleme ve süsleme, önemli bir sanat dalıydı.</li><li><strong>B) Minyatür:</strong> Uygur Türkleri başta olmak üzere, Orta Asya'da minyatür sanatı İslamiyet öncesi dönemlerden itibaren gelişmiş ve özellikle el yazması eserlerin süslenmesinde kullanılmıştır. İslamiyet sonrası dönemde de Fars ve Türk minyatür geleneği iç içe geçerek önemli eserler vermiştir.</li><li><strong>D) Dokuma:</strong> Halı ve kilim dokumacılığı, Orta Asya Türklerinin en eski ve en karakteristik sanat dallarından biridir. Göçebe yaşamın vazgeçilmezi olan dokumalar, aynı zamanda Türklerin estetik anlayışını, sembollerini ve kültürel kimliğini yansıtan önemli sanat eserleridir.</li><li><strong>E) Ahşap işlemeciliği:</strong> Türkler, yerleşik hayata geçtiklerinde ve mimari eserler inşa ettiklerinde ahşap işlemeciliğini geliştirmişlerdir. Kapı, pencere, tavan gibi mimari unsurların yanı sıra, günlük kullanım eşyaları ve mobilyalarda da ahşap oyma ve kakma sanatı yaygın olarak kullanılmıştır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q13",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 13,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde sözlü edebiyat örnekleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Koşuk"
+      },
+      {
+        "key": "B",
+        "text": "Sav"
+      },
+      {
+        "key": "C",
+        "text": "Sagu"
+      },
+      {
+        "key": "D",
+        "text": "Destan"
+      },
+      {
+        "key": "E",
+        "text": "Kitabe"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Kitabe)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>İslamiyet öncesi Türk devletlerinde edebiyat, genellikle sözlü gelenek üzerine kuruluydu. Bu dönemin sözlü edebiyat ürünleri arasında koşuk (aşk, doğa, kahramanlık temalı şiirler), sav (atasözleri), sagu (ölülerin ardından söylenen ağıtlar) ve destanlar (toplumun ortak hafızasını yansıtan uzun kahramanlık hikayeleri) yer alır. Bu türler, yazıya geçirilmeden önce nesilden nesile sözlü olarak aktarılmıştır.<br><br>Kitabe ise, bir anıt, mezar taşı veya başka bir yapı üzerine yazılmış, genellikle kalıcı olması amaçlanan yazılı metinlerdir. Orhun Yazıtları gibi kitabeler, İslamiyet öncesi Türk tarihinde önemli yazılı belgelerdir ancak sözlü edebiyat ürünü değil, doğrudan yazılı edebiyatın ve tarihin bir parçasıdır. Dolayısıyla, 'sözlü edebiyat örnekleri arasında yer almaz' ifadesine uyan seçenek Kitabe'dir.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Koşuk:</strong> İslamiyet öncesi Türklerde sığır (av töreni), şölen (ziyafet) ve yuğ (cenaze töreni) gibi törenlerde kopuz eşliğinde söylenen, aşk, doğa, kahramanlık gibi konuları işleyen şiirlerdir. Sözlü edebiyatın önemli bir parçasıdır.</li><li><strong>B) Sav:</strong> Günümüzdeki atasözlerinin karşılığıdır. Halk arasında yaygın olarak kullanılan, öğüt verici, kısa ve özlü sözlerdir. Sözlü gelenekle aktarılmıştır.</li><li><strong>C) Sagu:</strong> Yuğ törenlerinde ölen kişilerin ardından duyulan acıyı, kahramanlıklarını ve erdemlerini dile getiren ağıtlardır. Sözlü edebiyatın bir diğer önemli türüdür.</li><li><strong>D) Destan:</strong> Bir milletin tarihini, kahramanlıklarını, inançlarını ve kültürel değerlerini anlatan uzun, manzum hikayelerdir. İslamiyet öncesi Türk destanları (Alp Er Tunga Destanı, Oğuz Kağan Destanı vb.) sözlü gelenekle oluşmuş ve aktarılmıştır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q14",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 14,
+    "questionText": "Aşağıdakilerden hangisi Türklerin ilk heykel örnekleri arasında yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kurgan"
+      },
+      {
+        "key": "B",
+        "text": "Tamu"
+      },
+      {
+        "key": "C",
+        "text": "Uçmağ"
+      },
+      {
+        "key": "D",
+        "text": "Balbal"
+      },
+      {
+        "key": "E",
+        "text": "Tümülüs"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Balbal)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Türklerin ilk heykel örnekleri, genellikle Orta Asya'da ve Güney Sibirya'da görülen 'Balbal' adı verilen taş heykellerdir. Balballar, ölen kişinin anısına veya öldürdüğü düşmanları temsil etmek üzere mezarların (kurganların) etrafına dikilen, genellikle insan figürlü, yontulmuş taşlardır. Bu heykeller, eski Türk inanç sisteminde ve cenaze törenlerinde önemli bir yer tutmuş, aynı zamanda Türk sanatının ve heykelciliğinin ilk örneklerini oluşturmuştur.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Kurgan:</strong> Kurgan, eski Türklerde ve diğer bozkır kültürlerinde görülen, mezar odasının üzerine toprak yığılarak oluşturulan höyük şeklindeki mezarlardır. Heykel değil, bir mezar yapısıdır.</li><li><strong>B) Tamu:</strong> Eski Türk mitolojisinde 'cehennem' veya 'yeraltı dünyası' anlamına gelir. Bir heykel veya somut bir eser değildir, mitolojik bir kavramdır.</li><li><strong>C) Uçmağ:</strong> Eski Türk mitolojisinde 'cennet' veya 'göksel alem' anlamına gelir. Tamu gibi, bir heykel veya somut bir eser değil, mitolojik bir kavramdır.</li><li><strong>E) Tümülüs:</strong> Kurgan ile benzer anlamda kullanılan, antik dönemlerde ölüler için yapılan toprak yığıntısı mezarlardır. Heykel değil, bir mezar yapısıdır.</li></ul>"
+  },
+  {
+    "id": "tarih5-q15",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 15,
+    "questionText": "İslamiyet öncesi Türk devletlerinde sözlü edebiyatın en zengin olduğu, bu anlamda bize daha geniş bilgiler sunan eserler aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sav"
+      },
+      {
+        "key": "B",
+        "text": "Sagu"
+      },
+      {
+        "key": "C",
+        "text": "Şölen"
+      },
+      {
+        "key": "D",
+        "text": "Destan"
+      },
+      {
+        "key": "E",
+        "text": "Koşuk"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Destan)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>İslamiyet öncesi Türk sözlü edebiyatının en önemli ve en zengin ürünleri destanlardır. Destanlar, bir milletin varoluşundan itibaren geçirdiği önemli olayları (savaşlar, göçler, doğal afetler, kahramanlıklar vb.) olağanüstü unsurlarla harmanlayarak anlatan uzun manzum hikayelerdir. Bu eserler, Türklerin dünya görüşünü, inançlarını, sosyal yaşamlarını, kahramanlık anlayışlarını, gelenek ve göreneklerini en geniş ve kapsamlı şekilde yansıtır. Bu nedenle, bize en geniş bilgileri sunan ve sözlü edebiyatın en zengin olduğu tür destanlardır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br><ul><li><strong>A) Sav:</strong> Atasözleri anlamına gelir. Kısa ve özlü sözlerdir, bilgelik içerirler ancak destanlar kadar geniş bilgi sunmazlar.</li><li><strong>B) Sagu:</strong> Yuğ törenlerinde ölen bir kişinin ardından söylenen ağıtlardır. Duygusal yoğunlukları vardır ancak belirli bir olaya veya kişiye odaklandıkları için genel kültürel ve tarihsel bilgi açısından destanlar kadar zengin değildirler.</li><li><strong>C) Şölen:</strong> Bir edebi tür değil, bir ziyafet veya tören adıdır. Bu törenlerde destan, koşuk gibi edebi ürünler icra edilebilir ancak şölenin kendisi bir eser değildir.</li><li><strong>E) Koşuk:</strong> Sığır (av töreni) ve şölenlerde (ziyafet) söylenen, aşk, doğa, kahramanlık gibi konuları işleyen lirik şiirlerdir. Destanlara göre daha kısa ve tematik olarak daha sınırlıdırlar, bu yüzden daha az kapsamlı bilgi sunarlar.</li></ul>"
+  },
+  {
+    "id": "tarih5-q16",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 16,
+    "questionText": "Aşağıdakilerden hangisinin Türk sanat tarihine İslamiyet'le birlikte girdiği savunulabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Minyatür"
+      },
+      {
+        "key": "B",
+        "text": "Fresk"
+      },
+      {
+        "key": "C",
+        "text": "Dokumacılık"
+      },
+      {
+        "key": "D",
+        "text": "Demircilik"
+      },
+      {
+        "key": "E",
+        "text": "Tezhip"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Tezhip)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br><strong>Tezhip</strong> (altınlama ve yaldızlama sanatı), el yazması kitapları, özellikle Kur'an-ı Kerim sayfalarını ve dinî metinleri süslemek amacıyla geliştirilmiş, Türk sanatına İslamiyet'in kabulüyle girmiş klasik bir İslami süsleme sanatıdır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Minyatür & Fresk:</strong> Uygurlarda (Maniheizm ve Budizm etkisiyle tapınak duvarlarında ve el yazmalarında) İslamiyet öncesinde de mevcuttur.<br>• <strong>Dokumacılık & Demircilik:</strong> Türklerin bozkır kültürünün en kadim sanat ve zanaat dallarıdır (Pazırık halısı vb.)."
+  },
+  {
+    "id": "tarih5-q17",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 17,
+    "questionText": "Aşağıdakilerden hangisi Türklere ait bir destan değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Göç"
+      },
+      {
+        "key": "B",
+        "text": "Türeyiş"
+      },
+      {
+        "key": "C",
+        "text": "Şan Kızı"
+      },
+      {
+        "key": "D",
+        "text": "Gılgamış"
+      },
+      {
+        "key": "E",
+        "text": "Ergenekon"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Gılgamış)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br><strong>Gılgamış Destanı</strong>, Mezopotamya uygarlıklarından <strong>Sümerlere</strong> ait dünyanın bilinen en eski yazılı destanıdır; Türklere ait değildir.<br><br>🔍 <strong>Türk Destanları:</strong><br>• <strong>Göç & Türeyiş:</strong> Uygur destanlarıdır.<br>• <strong>Şan Kızı:</strong> İdil (Volga) Bulgar Türklerine ait bir destandır.<br>• <strong>Ergenekon:</strong> Göktürklere ait ünlü türeyiş ve kurtuluş destanıdır."
+  },
+  {
+    "id": "tarih5-q18",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 18,
+    "questionText": "Aşağıdaki sanat dallarından hangisi İslamiyet öncesi Türk devletlerinde görülmez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Minyatür"
+      },
+      {
+        "key": "B",
+        "text": "Hat"
+      },
+      {
+        "key": "C",
+        "text": "Çinicilik"
+      },
+      {
+        "key": "D",
+        "text": "Fresk"
+      },
+      {
+        "key": "E",
+        "text": "Kubbe"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Hat)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br><strong>Hat sanatı</strong>, Arap harfleriyle icra edilen estetik yazı yazma sanatıdır (hüsn-i hat). İslamiyet'in kabulü ve Arap alfabesine geçilmesiyle birlikte Türk-İslam sanatının en önemli kollarından biri haline gelmiştir. İslamiyet öncesinde Türkler Göktürk ve Uygur alfabelerini kullanmış, Hat sanatı icra etmemişlerdir.<br><br>🔍 <strong>Diğer Sanat Dalları:</strong><br>• <strong>Minyatür, Fresk, Çinicilik ve Kubbe:</strong> Özellikle Uygurlar döneminde tapınak, saray ve stupa mimarisinde İslam öncesi dönemde kullanılmıştır."
+  },
+  {
+    "id": "tarih5-q19",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 19,
+    "questionText": "Almanların Nibelungen Destanı'nda \"Attila\" hangi isimle anılmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Afrasiyab"
+      },
+      {
+        "key": "B",
+        "text": "Etzel"
+      },
+      {
+        "key": "C",
+        "text": "Arpada"
+      },
+      {
+        "key": "D",
+        "text": "Koça"
+      },
+      {
+        "key": "E",
+        "text": "Bleda"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Etzel)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br>Avrupa Hun Devleti'nin en parlak dönemi hükümdarı ve 'Tanrı'nın Kırbacı' olarak bilinen Attila, Almanların meşhur <strong>Nibelungen Destanı</strong>'nda <strong>'Etzel'</strong> adıyla son derece adil, kudretli, cömert ve asil bir hükümdar olarak tasvir edilmiştir.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Afrasiyab:</strong> Firdevsi'nin Şehname adlı eserinde İskit hükümdarı Alp Er Tunga'ya verilen isimdir.<br>• <strong>Bleda:</strong> Attila'nın ağabeyi ve devletin eski ortak yöneticisidir."
+  },
+  {
+    "id": "tarih5-q20",
+    "testId": "tarih5",
+    "testTitle": "Genel Tarih Video Tarama Testi 5",
+    "topicId": "tarih_tarama_5",
+    "topicName": "Genel Tarih Video Tarama 5",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 20,
+    "questionText": "Aşağıdakilerden hangisi Orta Asya Türk sanat dallarından biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tezhip"
+      },
+      {
+        "key": "B",
+        "text": "Dokuma"
+      },
+      {
+        "key": "C",
+        "text": "Mimari"
+      },
+      {
+        "key": "D",
+        "text": "Resim"
+      },
+      {
+        "key": "E",
+        "text": "Debbaklık"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tezhip)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br><strong>Tezhip</strong>, İslamiyet'le birlikte ortaya çıkan Kur'an-ı Kerim ve yazma eserleri altın tozu ve boyalarla bezeme sanatıdır. İslamiyet öncesi Orta Asya Türklerinde tezhip sanatı bulunmaz.<br><br>🔍 <strong>Diğer Sanat Dalları:</strong><br>• <strong>Dokuma:</strong> Halı, kilim ve kumaş dokumacılığı Türklerin en eski sanatıdır.<br>• <strong>Mimari:</strong> Uygurlarla birlikte saray, tapınak ve kent mimarisi gelişmiştir.<br>• <strong>Resim:</strong> Uygur freskleri ve ressamları (bedizci) mevcuttur.<br>• <strong>Debbaklık:</strong> Hayvancılığa bağlı olarak deri işleme ve tabaklama sanatıdır."
   }
 ];
