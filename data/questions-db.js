@@ -1,4 +1,3 @@
-// EKYS 2027 Odakli Soru Veritabani
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -52550,5 +52549,597 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Verilen öncüllerin her üçü de Türk-İslam hukukunun temel esaslarını tam olarak yansıtmaktadır:<br>• <strong>I. Öncül Doğrudur:</strong> Hukuk sistemi ikili bir yapıya sahiptir. Dini meselelerde Şer'i hukuk, devlet idaresi ve geleneklerde Örfi hukuk birlikte yürütülmüştür. Örfi kurallar şeriat esaslarına aykırı olamazdı.<br>• <strong>II. Öncül Doğrudur:</strong> Aile, miras, borçlar ve ceza davaları gibi şer'i meselelere doğrudan bağımsız <em>kadılar</em> bakmış, kadıların amiri de <em>Kadılkudat</em> olmuştur.<br>• <strong>III. Öncül Doğrudur:</strong> Örfi hukukun temel kaynağı İslamiyet öncesi Orta Asya Türk töresi ile hükümdarların çıkardığı fermanlar, yasalar ve buyruklardır.<br><br>Bu nedenle I, II ve III yargılarının tamamına ulaşılır."
+  },
+  {
+    "id": "eb2-q1",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 1,
+    "questionText": "Bir öğretmen, öğrencilerinden yaşadıkları çevrede geçmişte meydana gelmiş doğal afetler konusunda yetişkinlerden bilgi almalarını ve bunları not ederek sınıfa gelmelerini ister. Sınıfta bu bilgiler paylaşıldıktan sonra öğrencilere Türkiye'de yaşanan başlıca doğal afetlerle ilgili bir video izleterek farklı doğal afetleri ve oluş sebeplerini sonuçlarıyla birlikte açıklar. Ardından öğrencilerinden dünyanın farklı kıtalarında yaşanan doğal afetleri araştırarak sonraki derste bunları paylaşmalarını ister.\n\nBuna göre konunun öğretiminde öğretmenin öne çıkardığı ilke aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ekonomiklik"
+      },
+      {
+        "key": "B",
+        "text": "Açıklık"
+      },
+      {
+        "key": "C",
+        "text": "Somuttan soyuta"
+      },
+      {
+        "key": "D",
+        "text": "Yakından uzağa"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenciye görelik"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Yakından uzağa)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• Öğretmen sürece öncelikle öğrencinin doğrudan tecrübe ettiği yakın çevreden (kendi yaşadığı yerdeki doğal afetler) başlamış, ardından ülke geneline (Türkiye) ve en son küresel boyuta (dünyanın farklı kıtaları) doğru genişleyen bir öğretim rotası izlemiştir.<br>• Mekânsal (coğrafi) veya zamansal olarak bireyin en yakınından başlayıp kademeli olarak uzağa doğru ilerleme <strong>'Yakından Uzağa'</strong> öğretim ilkesinin temelini oluşturur.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Ekonomiklik:</strong> Öğretimin en az zaman, emek ve maliyetle en yüksek verimi sağlayacak biçimde planlanmasıdır.<br>• <strong>B) Açıklık (Ayanilik):</strong> Dilin yalın, açık ve anlaşılır olması ile birden çok duyu organına hitap edilmesini ifade eder.<br>• <strong>C) Somuttan soyuta:</strong> Önce somut eşya, model ve yaşantılarla başlanıp giderek soyut kavram ve genellemelere ulaşılmasıdır.<br>• <strong>E) Öğrenciye görelik:</strong> Öğretimin hedeflerinin ve yöntemlerinin öğrencinin gelişim özelliklerine, ilgi ve yeteneklerine uygun olmasıdır.<br><br>💡 <strong>EKYS İpucu:</strong> Soruda <em>'kendi çevresi/mahallesi ➡️ ili/ülkesi ➡️ dünyası'</em> ya da <em>'bugünden geçmişe'</em> şeklinde bir genişleme varsa cevap doğrudan <strong>Yakından Uzağa</strong> ilkesidir."
+  },
+  {
+    "id": "eb2-q2",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 2,
+    "questionText": "Bir lise müdürü öğretmenlerle yaptığı toplantıda öğretim ilkeleri hakkında şunları söylemiştir:\n\"Eğer öğrencilere ağaç sevgisini aşılamak istiyorsak öğrencinin ayağının toprağa basmasını sağlamamız gerekiyor. Öğrenci, okul bahçesine kendisi ağaç dikecek, onu kendisi sulayacak, gerektiğinde kendisi ilaçlayacaktır. Ağacı dikerken küreği toprağa hangi açıyla saplarsa daha az enerji harcayacağını düşünürken hem matematik hem de fizik dersi bilgilerinden, ağacı sularken bir ağacı sulama için gerekli olan su miktarını düşünüp su döngüsünü de göz önünde bulundururken biyoloji dersi bilgilerinden, ilaçlama yaparken ilacın etken maddesini düşünüp gerekli önlemleri almada kimya dersi bilgilerinden yararlanacaktır.\"\n\nBuna göre okul müdürünün vurguladığı öğretim ilkesi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Somuttan soyuta"
+      },
+      {
+        "key": "B",
+        "text": "Ekonomiklik"
+      },
+      {
+        "key": "C",
+        "text": "Yakından uzağa"
+      },
+      {
+        "key": "D",
+        "text": "Yaparak yaşayarak öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "Güncellik"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Yaparak yaşayarak öğrenme)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• Okul müdürü öğrencinin bizzat toprağa basmasını, fidanı kendisinin dikmesini, sulamasını ve bakımını üstlenerek teorik fen ve matematik bilgilerini bizzat eyleme dönüştürmesini savunmaktadır.<br>• Öğrencinin öğrenme sürecinde sadece dinleyici veya izleyici olmayıp bizzat fiziksel ve zihinsel olarak sürece katılması <strong>'Yaparak Yaşayarak Öğrenme' (İş / Etkin Katılım / Aktivite)</strong> ilkesidir.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Somuttan soyuta:</strong> Soyut kavramların modeller ve materyallerle somut hale getirilmesidir.<br>• <strong>B) Ekonomiklik:</strong> Bir taşla birkaç kuş vurma ve kaynak tasarrufudur.<br>• <strong>C) Yakından uzağa:</strong> Mekân veya zaman sıralamasıdır.<br>• <strong>E) Güncellik (Aktüalite):</strong> Güncel toplumsal olayların ders konusuyla ilişkilendirilmesidir.<br><br>💡 <strong>EKYS İpucu:</strong> Paragrafta <em>'öğrencinin bizzat kendisinin yapması, denemesi, üretmesi, dokunması ve uygulaması'</em> vurgulanıyorsa cevap <strong>Yaparak Yaşayarak Öğrenme</strong>dir."
+  },
+  {
+    "id": "eb2-q3",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 3,
+    "questionText": "Sınıfında e-öğrenme yaklaşımını kullanmayı planlayan Nilay Öğretmen ve meslektaşı arasında şu konuşma geçmektedir:\n\nNilay Öğretmen: \"İnternet tabanlı e-öğrenme, bilgiye erişim kolaylığı sağlasa da beraberinde doğru ve güvenilir bilgiye ulaşma sorununu da getirdi. Özellikle dijital ortamlardaki yoğun bilgi kirliliği; bireylerin ulaştığı bilginin doğruluğunu, güvenilirliğini, kaynağını sorgulamayı, kaynaklara ilişkin araştırma ve karşılaştırma yapmayı zorunlu kıldı.\"\nVeysel Öğretmen: \"Öğrenciler de bu durumun farkında olmalı ve gerekeni yapmalı ki e-öğrenme ortamlarından en üst düzeyde faydalanabilsinler.\"\n\nBu öğretmenlerin özellikle vurgu yaptığı beceri aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lateral düşünme"
+      },
+      {
+        "key": "B",
+        "text": "Yansıtıcı düşünme"
+      },
+      {
+        "key": "C",
+        "text": "Problem çözme"
+      },
+      {
+        "key": "D",
+        "text": "Karar verme"
+      },
+      {
+        "key": "E",
+        "text": "Eleştirel düşünme"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Eleştirel düşünme)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• Karşılaşılan bilginin doğruluğunu, güvenilirliğini, kaynağını, tutarlılığını ve tarafsızlığını belirli ölçütlere dayalı olarak sorgulama, analiz etme ve karşılaştırma becerisi <strong>'Eleştirel Düşünme' (Critical Thinking)</strong> olarak adlandırılır.<br>• Öğretmenlerin üzerinde durduğu 'bilgi kirliliği karşısında kaynağı sorgulama ve bilgiyi sınama' eleştirel düşünmenin özüdür.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Lateral (Yanal) düşünme:</strong> Olaylara alışılmışın dışında, farklı açılardan yaklaşıp alternatif yaratıcı yollar bulma becerisidir (Edward de Bono).<br>• <strong>B) Yansıtıcı düşünme:</strong> Bireyin kendi deneyimlerini, öğrenmelerini ve eksiklerini değerlendirip geleceğe dönük dersler çıkarmasıdır (Dewey).<br>• <strong>C) Problem çözme:</strong> Bir engeli veya güçlüğü bilimsel basamaklarla ortadan kaldırma sürecidir.<br>• <strong>D) Karar verme:</strong> Birden çok seçenek arasından en uygun olanı tercih etmektir.<br><br>💡 <strong>EKYS İpucu:</strong> Soruda <em>'bilginin kaynağını sorgulama, tarafsızlığı test etme, iddiaları kanıtlarla sınama, ölçütlere göre değerlendirme'</em> varsa cevap <strong>Eleştirel Düşünme</strong>dir."
+  },
+  {
+    "id": "eb2-q4",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 4,
+    "questionText": "Doktorasını matematik eğitimi alanında tamamlamış bir okul müdürü, okulundaki öğrencilerin il genelinde matematik dersinde başarısız olduklarını öğrendikten sonra, öğretmenlere \"Etkili Matematik Öğretimi\" adlı bir çalıştay düzenlemeyi hedeflemiştir. Bu çalıştaya ilişkin sunuş yoluyla öğretim stratejisinin basamaklarını kullanarak bir plan hazırlamıştır.\n\nAşağıdakilerden hangisi bu planın basamaklarına uygun değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sununun başında konuşma içeriğiyle ilgili bir çerçeve ver."
+      },
+      {
+        "key": "B",
+        "text": "Sunuyu çizelge, grafik ve tablolarla destekle."
+      },
+      {
+        "key": "C",
+        "text": "Bol bol örnek ver."
+      },
+      {
+        "key": "D",
+        "text": "Yoğun etkileşimi sağla."
+      },
+      {
+        "key": "E",
+        "text": "Bir durumla ilgili özel örnekler vererek katılımcıların genellemeye ulaşmasını sağla."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Özel örneklerden genellemeye ulaşmasını sağlama)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• E seçeneğindeki 'özel örneklerden hareketle kural/genellemeye katılımcıların ulaşması' <strong>Tümevarım</strong> yöntemidir ve Jerome Bruner'in <strong>Buluş Yoluyla Öğretim Stratejisi</strong>'ne aittir.<br>• Oysa David Ausubel'in <strong>Sunuş Yoluyla Öğretim Stratejisi</strong> <strong>Tümdengelim (Genelden özele)</strong> mantığına dayanır. Öğretmen kuralı, ilkeyi ve ana kavramı baştan açıklar; ardından örneklerle pekiştirir.<br><br>🔍 <strong>Sunuş Yolu İçin Doğru Olan Adımlar:</strong><br>• <strong>A)</strong> Ön organize edicilerle (kavram haritası vb.) sununun başında genel çerçeveyi sunmak Sunuş'un ilk adımıdır.<br>• <strong>B)</strong> Çizelge, grafik ve tablolarla soyut bilgileri görselleştirmek anlamlı öğrenmeyi pekiştirir.<br>• <strong>C)</strong> Kural verildikten sonra bol bol olumlu ve olumsuz örnek vermek esastır.<br>• <strong>D)</strong> Sunuş pasif dinleme değildir; soru-cevap ile yoğun zihinsel etkileşim hedeflenir.<br><br>💡 <strong>EKYS İpucu:</strong> <em>Örneklerden kurala gitme</em> = Buluş (Bruner / Tümevarım). <em>Kuraldan örneklere gitme + Ön organize ediciler</em> = Sunuş (Ausubel / Tümdengelim)."
+  },
+  {
+    "id": "eb2-q5",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 5,
+    "questionText": "Bir öğretmen, okul müdürüne belediyenin su arıtma tesisine bir gezi-gözlem yapacaklarını, bunun için gerekli izinleri almak istediğini belirterek etkinlik planını verir. Okul müdürü planı inceler. Plan; tanımlanan bir problem, denenceler, verilerin nasıl toplanacağı, denencelerin nasıl test edileceği ve sonuca nasıl ulaşılacağı konusunda açıklamalar içermektedir.\n\nBuna göre öğretmenin uygulamak istediği strateji veya yaklaşım aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yapılandırılmış buluş yoluyla öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Proje temelli öğrenme"
+      },
+      {
+        "key": "C",
+        "text": "Sunuş yoluyla öğretim"
+      },
+      {
+        "key": "D",
+        "text": "Yapılandırılmamış buluş yoluyla öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Araştırma-inceleme yoluyla öğretim"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Araştırma-inceleme yoluyla öğretim)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• John Dewey tarafından temellendirilen <strong>Araştırma-İnceleme Yoluyla Öğretim Stratejisi</strong>, öğrencilerin gerçek yaşam problemlerine karşı bilimsel araştırma basamaklarını bizzat uygulayarak çözüm üretmelerini sağlar.<br>• Soruda geçen <em>'problemi tanımlama, denenceler (hipotezler) kurma, verileri toplama, denenceleri test etme ve sonuca ulaşma'</em> aşamaları araştırma-inceleme stratejisinin eksiksiz basamaklarıdır.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A ve D) Buluş yolu:</strong> Öğretmenin yönlendirdiği örnekleri inceleyip kural ve ilkeye ulaşmayı hedefler; bilimsel araştırma-hipotez testi süreci değildir.<br>• <strong>B) Proje temelli:</strong> Belli bir bilimsel süreç içerse de nihai hedefinde mutlaka somut, disiplinlerarası bir ürün (maket, sergi vb.) yer almalıdır.<br>• <strong>C) Sunuş yolu:</strong> Öğretmen merkezli, açıklayıcı ve tümdengelimci stratejidir.<br><br>💡 <strong>EKYS İpucu:</strong> Soruda <em>'Problem ➡️ Denence (Hipotez) ➡️ Veri toplama ➡️ Denenceleri test etme'</em> bilimsel araştırma adımları veriliyorsa cevap istisnasız <strong>Araştırma-İnceleme</strong>dir."
+  },
+  {
+    "id": "eb2-q6",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 6,
+    "questionText": "Ceyda Öğretmen, ilk dersinde öğrencilere çoktan seçmeli bir başarı testi uygular. Öğrencilerinin hazırbulunuşluk düzeylerini belirleyerek test sonuçlarına göre bir plan hazırlar. Dersinde her bir öğrencisiyle ayrı ayrı ilgilenir ve ipucu, pekiştireç, dönüt-düzeltme sağlayarak öğrenmelerine destek olur. Ara değerlendirmeler yaparak öğrenci eksiklerini belirler. Ünite sonunda öğrencilerine başarı testi uygulayarak öğrencilerin öğrenmelerine ilişkin veri toplar, sonuçlarına göre yeniden bir değerlendirme yapar.\n\nBuna göre, amacı tam öğrenme modeline uygun ders işlemek olan Ceyda Öğretmen aşağıdakilerden hangisini ihmal etmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencilerin duyuşsal giriş davranışlarını belirlemeyi"
+      },
+      {
+        "key": "B",
+        "text": "Öğretim hizmetinin niteliğini sağlamayı"
+      },
+      {
+        "key": "C",
+        "text": "Sınıfın akademik başarı düzeyini tespit etmeyi"
+      },
+      {
+        "key": "D",
+        "text": "Öğrencilerin bireysel öğrenme hızlarını dikkate almayı"
+      },
+      {
+        "key": "E",
+        "text": "Öğrencilerin öğrenme ürünlerini ortaya çıkarmayı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Öğrencilerin duyuşsal giriş davranışlarını belirlemeyi)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• Benjamin Bloom'un <strong>Tam Öğrenme Modeli</strong>'nde başarıyı belirleyen giriş özellikleri ikiye ayrılır:<br>  1. <em>Bilişsel Giriş Davranışları:</em> Ön öğrenmeler, hazırbulunuşluk ve akademik beceriler.<br>  2. <em>Duyuşsal Giriş Özellikleri:</em> Derse karşı ilgi, tutum ve akademik özgüven (benlik algısı).<br>• Ceyda Öğretmen hazırbulunuşluk testi ile bilişsel giriş davranışlarını ve süreçte öğretim hizmetinin niteliğini (ipucu, pekiştireç, dönüt-düzeltme) sağlamış; ancak öğrencilerin ilgi, tutum ve motivasyon gibi <strong>duyuşsal giriş özelliklerini</strong> belirlemeyi tamamen ihmal etmiştir.<br><br>🔍 <strong>Diğer Seçeneklerin Durumu:</strong><br>• <strong>B)</strong> İpucu, pekiştireç ve dönüt-düzeltme sağlayarak öğretim hizmetinin niteliğini yerine getirmiştir.<br>• <strong>C)</strong> Başarı testiyle akademik düzeyi tespit etmiştir.<br>• <strong>D)</strong> Öğrencilerle ayrı ayrı ilgilenerek bireysel hızı gözetmiştir.<br>• <strong>E)</strong> Ünite sonu değerlendirmeleriyle öğrenme ürünlerini izlemiştir.<br><br>💡 <strong>EKYS İpucu:</strong> Bloom Tam Öğrenme'de öğrenci giriş nitelikleri Bilişsel (%50) ve Duyuşsal (%25) olmak üzere toplam başarının %75'ini açıklar. Duyuşsal özellikler derse ilgi, tutum ve akademik özgüvendir."
+  },
+  {
+    "id": "eb2-q7",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 7,
+    "questionText": "Bir matematik öğretmeni sayılar konusunu işlediği öğretim sürecinde öğrencilerine \"Galata Köprüsü'nün uzunluğunu kürdanla ölçmek istesem kaç tane kürdan kullanırdım?\" diye sorar.\n\nGagne'nin Öğretim Etkinlikleri Modeli'ne göre öğretmenin bu soruyu dersin aşağıdaki aşamalarının hangisinde sorması daha uygundur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dikkat çekme"
+      },
+      {
+        "key": "B",
+        "text": "Hedeften haberdar etme"
+      },
+      {
+        "key": "C",
+        "text": "Ön koşul öğrenmeleri hatırlatma"
+      },
+      {
+        "key": "D",
+        "text": "Öğrenmeye rehberlik etme"
+      },
+      {
+        "key": "E",
+        "text": "Değerlendirme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Dikkat çekme)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• Robert Gagne'nin 9 basamaklı Öğretim Etkinlikleri Modeli'nin ilk basamağı <strong>'Dikkati Çekme' (Gaining Attention)</strong> basamağıdır.<br>• Öğretmenin derse başlarken beklenmedik, şaşırtıcı, merak uyandıran ve zihni harekete geçiren sıra dışı bir soru sorması ('Galata Köprüsü kürdanla kaç adet çıkar?') öğrencilerin dış uyarıcılara odaklanmasını sağlayarak algısal uyarılmayı tetikler.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>B) Hedeften haberdar etme (Güdüleme):</strong> Bu derste nelerin öğrenileceğini ve kazanımların öğrencinin ne işine yarayacağını bildirmektir.<br>• <strong>C) Ön koşul öğrenmeleri hatırlatma:</strong> Yeni konunun üzerine inşa edileceği önceki temel bilgilerin yoklanmasıdır.<br>• <strong>D) Öğrenmeye rehberlik etme:</strong> Öğrenciye çözüme ulaşması için ipucu ve yönergeler sunmaktır.<br>• <strong>E) Değerlendirme:</strong> Dersin sonunda hedeflere ulaşılıp ulaşılmadığının ölçülmesidir.<br><br>💡 <strong>EKYS İpucu:</strong> Derse sıra dışı soru, fıkra, görsel materyal veya ilginç bir problemle başlanması daima <strong>Dikkati Çekme</strong> basamağıdır."
+  },
+  {
+    "id": "eb2-q8",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 8,
+    "questionText": "Taner Öğretmen, derste grup çalışması yapacağı için öğrencileri zekâ alanlarına göre heterojen gruplara ayırmıştır. Bir gruptaki öğrencileri aşağıdaki üç farklı zekâ alanına göre seçmiştir:\n\nI. Öğrenci: Konuşkan ve ikna edicidir.\nII. Öğrenci: Hayal gücü yüksektir ve düşüncesini resimle ifade edebilir.\nIII. Öğrenci: Araç-gereçleri iyi kullanır ve derse ilişkin materyalleri hazırlar.\n\nBu gruptaki öğrencilerin zekâ alanları aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öze dönük - Kinestetik - Görsel"
+      },
+      {
+        "key": "B",
+        "text": "Sosyal - Görsel – Kinestetik"
+      },
+      {
+        "key": "C",
+        "text": "Kinestetik - Doğacı - Görsel"
+      },
+      {
+        "key": "D",
+        "text": "Öze dönük - Görsel – Kinestetik"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal - Öze dönük - Doğacı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Sosyal - Görsel – Kinestetik)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• Howard Gardner'ın Çoklu Zekâ Kuramı'na göre:<br>  - <strong>I. Öğrenci:</strong> İnsanlarla kolay iletişim kurma, konuşkanlık, empati ve ikna becerisi ➡️ <strong>Sosyal (Kişilerarası) Zekâ</strong><br>  - <strong>II. Öğrenci:</strong> Zihinde canlandırma, yüksek hayal gücü, renkler ve resimle ifade etme ➡️ <strong>Görsel (Uzamsal) Zekâ</strong><br>  - <strong>III. Öğrenci:</strong> El-göz koordinasyonu, alet ve gereçleri ustalıkla kullanma, psikomotor beceriler ➡️ <strong>Bedensel (Kinestetik) Zekâ</strong><br>• Dolayısıyla doğru eşleştirme sırasıyla <strong>Sosyal - Görsel - Kinestetik</strong>tir.<br><br>🔍 <strong>Çeldirici Kavramlar:</strong><br>• <em>Öze dönük zekâ:</em> Bireyin kendi duygularını, güçlü ve zayıf yönlerini bilmesi, yalnız çalışmayı sevmesidir.<br>• <em>Doğacı zekâ:</em> Canlı türlerini, bitkileri, hayvanları ve doğa olaylarını tanıma/koruma yatkınlığıdır.<br><br>💡 <strong>EKYS İpucu:</strong> <em>İkna kabiliyeti & iletişim</em> = Sosyal; <em>Resim, şekil & çizim</em> = Görsel; <em>Alet kullanma, yapma & spor</em> = Kinestetik zekâdır."
+  },
+  {
+    "id": "eb2-q9",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 9,
+    "questionText": "Yapılandırmacı yaklaşımı benimsemiş bir öğretmen, toplumsal cinsiyet eşitsizliği konusunda farkındalık oluşturmak istemektedir. Bu amaçla konuyu toplumun farklı kesimlerinin görüşlerini içeren bir problem senaryosu üzerinden işlemeyi planlamaktadır.\n\nBuna göre öğretmenin aşağıdaki işlemlerden hangisini yapması uygun değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cinsiyet eşitsizliği konusunun birincil veri kaynaklarıyla çalışılmasına rehberlik etmesi"
+      },
+      {
+        "key": "B",
+        "text": "Öğrencilerin konuyla ilgili ön öğrenme ve deneyimlerini işe koşması"
+      },
+      {
+        "key": "C",
+        "text": "Toplumsal cinsiyet farkındalığını artırmak için öğrencilere poster hazırlatması"
+      },
+      {
+        "key": "D",
+        "text": "Konuyu toplumsal bağlamından soyutlayarak ele alması"
+      },
+      {
+        "key": "E",
+        "text": "Oluşturduğu çalışma gruplarıyla konunun tartışılmasını sağlaması"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Konuyu toplumsal bağlamından soyutlayarak ele alması)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• <strong>Yapılandırmacı Yaklaşımda (Constructivism)</strong> bilgi bireyden, kültürden ve gerçek yaşam bağlamından asla soyutlanamaz. Öğrenme, gerçek hayat durumları (otantik görevler) ve bağlamsal öğrenme (contextual learning) üzerinden gerçekleşir.<br>• Konunun toplumsal bağlamından soyutlanması yapılandırmacılığın özüne tamamen aykırıdır; aksine konu toplumsal gerçekliğin tam merkezinde ele alınmalıdır.<br><br>🔍 <strong>Yapılandırmacılıkta Doğru Olan Uygulamalar:</strong><br>• <strong>A)</strong> Birincil veri kaynaklarıyla (doğrudan gözlem, röportaj, gerçek veriler) çalışmak esastır.<br>• <strong>B)</strong> Yeni bilgiler ön öğrenmeler ve geçmiş tecrübeler üzerine inşa edilir.<br>• <strong>C)</strong> Öğrencilerin aktif ürünler (poster, proje, materyal) ortaya koyması desteklenir.<br>• <strong>E)</strong> Sosyal yapılandırmacılık gereği işbirlikli çalışma ve grup tartışmaları merkezi önemdedir.<br><br>💡 <strong>EKYS İpucu:</strong> Yapılandırmacılıkta bilgi <em>bağlamsaldır, özneldir ve yaşantıya dayalıdır</em>. Bilgiyi gerçek yaşam bağlamından koparmak ve soyutlamak geleneksel öğretimin özelliğidir."
+  },
+  {
+    "id": "eb2-q10",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 10,
+    "questionText": "Kesirler konusunu öğretmek için basamaklı öğretim modelini kullanan bir öğretmenin konuyla ilgili verdiği aşağıdaki görevlerden hangisi diğerlerine göre daha üst düzeydedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kesirlerle ilgili ders kitabındaki soruları cevaplama"
+      },
+      {
+        "key": "B",
+        "text": "Konu alanında uzman bir kişiyle görüşme yapma"
+      },
+      {
+        "key": "C",
+        "text": "Farklı kaynaklardan kesirlerle ilgili bilgileri tarama"
+      },
+      {
+        "key": "D",
+        "text": "Konu alanına özgün bir hikâye oluşturma"
+      },
+      {
+        "key": "E",
+        "text": "Kesirler konusunu sözlü olarak özetleme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Konu alanına özgün bir hikâye oluşturma)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• Kathie Nunley'in geliştirdiği <strong>Basamaklı Öğretim Modeli (Layered Curriculum)</strong> Bloom Taksonomisi'ni 3 basamakta yapılandırır:<br>  • <strong>C Basamağı (Temel Seviye - Bilgi & Kavrama):</strong> Kitaptan soru çözme (A), kaynak tarama (C), sözlü özetleme (E).<br>  • <strong>B Basamağı (Orta Seviye - Uygulama & Problem Çözme):</strong> Bilgiyi kullanma, uzmanla görüşme yapıp veri toplama (B).<br>  • <strong>A Basamağı (En Üst Seviye - Analiz, Değerlendirme & Yaratma):</strong> Özgün bir fikir geliştirme, eleştirel analiz yapma ve yeni bir ürün/özgün hikâye oluşturma (D).<br>• 'Özgün bir hikâye oluşturma' sentez/yaratma düzeyinde olduğundan <strong>A Basamağı</strong>na aittir ve en üst düzey görevdir.<br><br>💡 <strong>EKYS İpucu:</strong> Basamaklı öğretimde basamak hiyerarşisi: <strong>C Basamağı:</strong> Bilgi-Kavrama (Temel), <strong>B Basamağı:</strong> Uygulama (Problem çözme), <strong>A Basamağı:</strong> Analiz-Değerlendirme-Yaratma (En üst)."
+  },
+  {
+    "id": "eb2-q11",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 11,
+    "questionText": "Bir meslek lisesi müdürü hizmet içi eğitim kapsamında yerel ihtiyaçlara duyarlı eğitim programı geliştirme ve çağdaş öğrenme-öğretme yaklaşımları seminerine katılır. Görev yaptığı bölgede bazı yerel mesleklerin yaygınlaştırılmasında ihtiyaç duyulan eğitimi gerçekleştirmek için bir proje hazırlar. Uzmanların görüşleri doğrultusunda geliştirdiği eğitim programının öğrenme-öğretme sürecini tasarlarken aşağıdakilere dikkat eder:\n• Esnek ve uygulamaya dönük öğretim ortamları olması\n• Bireysel öğrenmeyi desteklemesi\n• Birbirinden bağımsız kendi içinde anlamlı birimlerden oluşması\n• Her bir birime özgü öğretim materyalleri bulundurması\n• Sonuçta gözlenebilir bir davranış ortaya çıkarması\n\nOkul müdürü tasarladığı bu eğitim programında aşağıdaki öğrenme-öğretme model veya yaklaşımlarından hangisini temel almıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kuantum öğrenme"
+      },
+      {
+        "key": "B",
+        "text": "Modüler öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Basamaklı öğretim"
+      },
+      {
+        "key": "D",
+        "text": "Programlı öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Tam öğrenme"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Modüler öğretim)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• Özellikle mesleki ve teknik eğitimde, yaygın eğitimde ve hizmet içi kurslarda uygulanan; öğretim programının <strong>birbirinden bağımsız fakat kendi içinde anlamlı ve tamamlanabilir 'modüllere/özerk birimlere'</strong> ayrıldığı öğretim yaklaşımı <strong>Modüler Öğretim</strong>dir.<br>• Her modül kendi içinde bağımsız amaçlara ve materyallere sahiptir, esnektir ve bireysel öğrenme hızını destekler.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Kuantum öğrenme:</strong> Beynin tüm potansiyelini, hızlı okuma ve hafıza tekniklerini kullanarak kendini gerçekleştirmeyi hedefler.<br>• <strong>C) Basamaklı öğretim:</strong> C-B-A basamaklarında görev seçimine dayanır.<br>• <strong>D) Programlı öğretim:</strong> Skinner'ın küçük adımlar ve anında pekiştireç ilkelerine dayalı doğrusal öğretimdir.<br>• <strong>E) Tam öğrenme:</strong> Sınıfın %70 başarı ölçütüne ulaşmadan diğer üniteye geçmediği modeldir.<br><br>💡 <strong>EKYS İpucu:</strong> Soruda <em>'Mesleki eğitim, birbirinden bağımsız anlamlı birimler (modüller), esnek öğretim ortamları'</em> vurgulanıyorsa cevap <strong>Modüler Öğretim</strong>dir."
+  },
+  {
+    "id": "eb2-q12",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 12,
+    "questionText": "Bir fen bilimleri öğretmeni \"Küresel iklim değişikliklerinin nedenlerini ve olası sonuçlarını tartışır.\" kazanımı doğrultusunda işlediği bir derste öğrencileri altışar kişilik gruplara; konuları da ekonomik, toplumsal ve psikolojik olmak üzere üç boyuta ayırmıştır. Her bir boyutta en az bir grup olacak şekilde grupların tartışma konusunu seçmesine rehberlik etmiş ve konuların sınıfta tartışılmasını sağlamıştır. Bu uygulamanın sonrasında gruplar ilgili konudaki sorunun çözümüne ilişkin önerilerini tüm sınıfa sunmuşlardır. Ardından hazırladıkları raporu çevre kulübünün panosuna asmışlardır.\n\nBu öğretmen aşağıdaki öğretim yöntem veya tekniklerinden hangisini kullanmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Forum"
+      },
+      {
+        "key": "B",
+        "text": "Çalıştay"
+      },
+      {
+        "key": "C",
+        "text": "Vızıltı grupları"
+      },
+      {
+        "key": "D",
+        "text": "Seminer"
+      },
+      {
+        "key": "E",
+        "text": "Açık oturum"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Çalıştay)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• <strong>Çalıştay (Workshop / Düşünme Atölyesi):</strong> Belli bir sorunun çözümü için kişilerin alt çalışma gruplarına ayrılarak derinlemesine tartıştığı, somut çözüm önerileri ürettiği ve sürecin sonunda mutlaka <strong>ortak bir rapor</strong> hazırlayıp sunduğu aktif bir tekniktir.<br>• Öğrencilerin ekonomik, toplumsal ve psikolojik boyutlarda alt gruplara ayrılması, çözüm önerisi geliştirip rapor hazırlamaları çalıştayın ayırt edici niteliğidir.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Forum:</strong> Dinleyicilerin konuşmacılara soru sorduğu ve görüş bildirdiği geniş katılımlı tartışmadır; rapor hazırlanmaz.<br>• <strong>C) Vızıltı grupları (Phillips 66 vb.):</strong> Kısa sürede beyin fırtınası benzeri fikir üretme amaçlıdır; kapsamlı rapor ve panoya asma süreci içermez.<br>• <strong>D) Seminer:</strong> Bir tezin veya araştırmanın uzman topluluk önünde sunulup tartışılmasıdır.<br>• <strong>E) Açık oturum:</strong> Güncel bir konunun başkan yönetiminde halka açık tartışılmasıdır.<br><br>💡 <strong>EKYS İpucu:</strong> Soruda <em>'Alt gruplara ayrılma ➡️ Soruna çözüm arama ➡️ Süreç sonunda yazılı ortak rapor hazırlama'</em> kalıbı doğrudan <strong>Çalıştay (Workshop)</strong> tekniğini gösterir."
+  },
+  {
+    "id": "eb2-q13",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 13,
+    "questionText": "Bir öğretmen, dersinde öğrencilerine sevgi değerini kazandırmak istemektedir. Bu amaçla sınıf ortamında yer alan sıraları oturma düzeni geniş bir daire oluşturacak şekilde düzenlemiştir. Ardından, \"Rencide edici, aşağılayıcı ve alaycı ifadeler kullanmayacağız. Arkadaşlarımızın görüşlerine gülmeyeceğiz. Arkadaşlarımız görüşlerini ifade ederken onların yüzüne bakacağız. Görüşlerimizin gerekçesini açıklamaya hazır olacağız.\" gibi kuralları akıllı tahtaya yansıtmış ve sınıfla paylaşmıştır. Kurallar paylaşıldıktan sonra sevgi değeriyle ilgili bir hikâye ve kısa filmi öğrencilerine sunmuş, her öğrenci sırası geldiğinde görüşlerini söylemiştir. Öğrenci görüşlerinin tamamı alındıktan sonra ise öğretmen görüşlerini belirtmiş son olarak da konuyu özetlemiştir.\n\nBu öğretmenin sevgi değerini kazandırmada kullandığı yöntem/teknik aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Konuşma halkası"
+      },
+      {
+        "key": "B",
+        "text": "İstasyon"
+      },
+      {
+        "key": "C",
+        "text": "Akvaryum"
+      },
+      {
+        "key": "D",
+        "text": "Beyin eseri"
+      },
+      {
+        "key": "E",
+        "text": "Listeleme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Konuşma halkası)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• <strong>Konuşma Halkası Tekniği:</strong><br>  1. Öğrenciler dairesel (U veya halka şeklinde) yüz yüze otururlar.<br>  2. Süreç başlamadan önce empati ve saygı kuralları belirlenir (alay etmeme, sırayla konuşma, birbirinin yüzüne bakma).<br>  3. Ortaya bir hikâye, video, olay veya film sunulur.<br>  4. Bir konuşma nesnesi veya sıra düzeniyle her öğrenciye söz hakkı verilir (istemeyen pas geçebilir).<br>  5. Duygudaşlık (empati) geliştirilir ve sürecin sonunda öğretmen özetleme yapar.<br>• Paragraftaki tüm uygulamalar eksiksiz olarak <strong>Konuşma Halkası</strong> tekniğini tanımlamaktadır.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>B) İstasyon:</strong> Farklı masalarda yarım kalan işleri devralıp tamamlama tekniğidir.<br>• <strong>C) Akvaryum:</strong> İç içe iki çember kurulur; iç çember tartışırken dış çember gözlem yapar veya sırayla içe dahil olur.<br>• <strong>D) Beyin eseri:</strong> Kartlara yazılan fikirlerin geliştirilip kümelenmesidir.<br><br>💡 <strong>EKYS İpucu:</strong> Değerler eğitiminde <em>'daire oturma düzeni + hikâye/film sunumu + sırayla konuşma + empati kuralları'</em> kalıbı doğrudan <strong>Konuşma Halkası</strong>dır."
+  },
+  {
+    "id": "eb2-q14",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 14,
+    "questionText": "Bir okul müdürü, sosyal bilgiler öğretmenlerinden kültürel mirasa duyarlılık değeri kapsamında etkinlikler planlamalarını istemiştir. Bu doğrultuda bir öğretmen, sınıfında altışar kişiden oluşan üç grup oluşturmuştur. Her grubun bulunduğu masadaki karton üzerine sırasıyla \"Slogan\", \"Afiş\" ve \"Öykü\" yazmıştır. Sanal alan gezisiyle tarihi mekanlar gezildikten sonra kültürel mirasa duyarlı olma açısından neler yapılacağına ilişkin grupların çalışmasını istemiştir. Gruplar beşer dakika çalıştıktan sonra yer değişikliği yapmaları sağlanmıştır. Her grup üç masadaki kartonların içeriğine göre çalışmıştır. Tüm grupların her masada çalışmaları sağlandıktan sonra her bir gruptan sözcü belirlenmiş ve sözcüler oluşturulan ürünleri arkadaşlarına tanıtmışlardır. Süreç sonunda ortaya çıkan ürünler okul panosunda sergilenmiştir.\n\nBu öğretmen kültürel mirasa duyarlılık değerini kazandırmak için aşağıdaki öğretim yöntem veya tekniklerinden hangisini kullanmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gösteri"
+      },
+      {
+        "key": "B",
+        "text": "Dedikodu"
+      },
+      {
+        "key": "C",
+        "text": "Beyin fırtınası"
+      },
+      {
+        "key": "D",
+        "text": "İstasyon"
+      },
+      {
+        "key": "E",
+        "text": "Sıcak sandalye"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (İstasyon)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• <strong>İstasyon Tekniği:</strong> Sınıf ortamında farklı etkinlik masalarının (afiş, slogan, öykü, şiir vb.) kurulduğu, öğrenci gruplarının zil veya süre uyarısıyla masaları dolaştığı (rotasyon), önceki grubun bıraktığı yarım işe katkı sağlayarak ürünü tamamladığı aktif ve yaratıcı bir tekniktir.<br>• Sorudaki masalar ('Slogan', 'Afiş', 'Öykü'), grupların 5'er dakika arayla masaları değiştirmesi ve ortak ürünlerin sergilenmesi istasyon tekniğinin kusursuz bir uygulamasıdır.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Gösteri (Demonstrasyon):</strong> Bir becerinin öğretmen tarafından yapılıp gösterilmesidir.<br>• <strong>B) Dedikodu:</strong> İkişerli eşleşmelerle fikir üretilip eş değiştirilmesidir.<br>• <strong>C) Beyin fırtınası:</strong> Masalar arası dönüşüm olmaksızın kısa sürede çok sayıda fikir üretilmesidir.<br>• <strong>E) Sıcak sandalye:</strong> Bir rolü üstlenen öğrencinin sandalyeye oturarak sınıfın sorularına rolden çıkmadan cevap vermesidir.<br><br>💡 <strong>EKYS İpucu:</strong> Soruda <em>'Farklı etkinlik masaları (afiş, slogan, öykü) ➡️ Masalar arasında yer değiştirme (rotasyon) ➡️ Başlanmış işi tamamlama'</em> varsa cevap <strong>İstasyon</strong> tekniğidir."
+  },
+  {
+    "id": "eb2-q15",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 15,
+    "questionText": "Ahlak ve değerler eğitimine önem veren bir öğretmen, Sınıf içi kuralları belirlemek amacıyla eğitim-öğretim yılının başında yaptığı toplantıda, öğrencilerine sınıfta uyulmasını istedikleri kuralların neler olduğunu sormuştur. Ardından öğrencilerin görüşlerini tahtaya yazmıştır. Önerilerin benzer olanları arasından hangisinin kalacağına yine öğrencileriyle birlikte karar vermiştir. Ortaya çıkan kurallar, olumlu davranışları ön plana çıkaracak şekilde revize edilmiş ve kuralların öncelik sırası öğrencilerin oylarıyla belirlenmiştir.\n\nBu öğretmenin kullandığı yöntem/teknik aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Forum"
+      },
+      {
+        "key": "B",
+        "text": "Beyin fırtınası"
+      },
+      {
+        "key": "C",
+        "text": "Panel"
+      },
+      {
+        "key": "D",
+        "text": "Münazara"
+      },
+      {
+        "key": "E",
+        "text": "Philips 66"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Beyin fırtınası)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• <strong>Beyin Fırtınası (Alex Osborn):</strong> Belirli bir konu veya problem durumuna ilişkin kısa sürede, hiçbir eleştiri ve engelleme olmaksızın özgürce çok sayıda fikir üretilmesi ve ardından bu fikirlerin değerlendirilmesi tekniğidir.<br>• Beyin fırtınası iki temel aşamadan oluşur:<br>  1. <em>Fikir Üretme Aşaması:</em> Tüm önerilerin koşulsuz tahtaya yazılması.<br>  2. <em>Değerlendirme Aşaması:</em> Benzer önerilerin birleştirilmesi, elenmesi ve oylamayla öncelik sırasına konulması.<br>• Paragrafta öğretmenin uyguladığı süreç beyin fırtınasının bu iki aşamasını eksiksiz yansıtmaktadır.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Forum:</strong> Dinleyicilerin uzmanlara soru sorduğu ve görüş bildirdiği tartışma toplantısıdır.<br>• <strong>C) Panel:</strong> Bir konunun farklı boyutlarının uzmanlar tarafından sohbet havasında ele alınmasıdır.<br>• <strong>D) Münazara:</strong> İki zıt grubun jüri önünde tez ve antitez yarıştırdığı kuralcı tartışmadır.<br>• <strong>E) Philips 66:</strong> 6 kişilik grupların 6 dakika tartıştığı tekniktir.<br><br>💡 <strong>EKYS İpucu:</strong> <em>Fikirlerin tahtaya sıralanması ➡️ Eleştirmeden toplanması ➡️ Benzerlerin elenip oylanması</em> klasik <strong>Beyin Fırtınası</strong> tekniğidir."
+  },
+  {
+    "id": "eb2-q16",
+    "testId": "egitim_oyt_konu_testi",
+    "testTitle": "Öğretim Yöntem ve Teknikleri Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 16,
+    "questionText": "Bir öğretmen dersini planlarken ders içeriğini anlamlı birimlere ayırmıştır. Öğrencilerin bu birimleri aktif öğrenme yoluyla aşamalı olarak çalışmalarını, bir birimi öğrendikten sonra diğer birime geçebilmelerini, öğrenme sürecinde dönütlerin verilmesini ve öğrencilerin kendi öğrenme hızlarına göre bireysel çalışabilmelerini sağlayan bir düzenleme yapmıştır.\n\nBuna göre öğretmenin ders planlama sürecinde aşağıdakilerden hangisini dikkate aldığı söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Modüler öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Kuantum öğrenme"
+      },
+      {
+        "key": "C",
+        "text": "Programlı öğretim"
+      },
+      {
+        "key": "D",
+        "text": "Mikro öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Buluş yoluyla öğrenme"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Programlı öğretim)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• B.F. Skinner'ın edimsel koşullanma kuramına dayanan <strong>Programlı Öğretim</strong>, öğretim sürecini <strong>'KEBAP'</strong> ilkeleri doğrultusunda yapılandırır:<br>  • <strong>K - Küçük Adımlar:</strong> Bilgi küçük ve anlamlı adımlara bölünür.<br>  • <strong>E - Etkin Katılım:</strong> Öğrenci her adımda aktif olarak soruya cevap verir.<br>  • <strong>B - Başarı:</strong> Sorular öğrencinin başarabileceği düzeyde tasarlanır.<br>  • <strong>A - Anında Düzeltme (Dönüt):</strong> Öğrenciye cevabının doğruluğu anında bildirilir.<br>  • <strong>P - Progressif İlerleme / Bireysel Hız:</strong> Her öğrenci kendi öğrenme hızına göre ilerler ve bir adımı öğrenmeden diğerine geçemez.<br>• Paragraftaki ilkeler bu 5 ilkeyi birebir karşılamaktadır.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Modüler öğretim:</strong> Birbirinden bağımsız geniş mesleki modüllerdir; küçük adımlar ve anında dönüt döngüsü programlı öğretime özgüdür.<br>• <strong>B) Kuantum öğrenme:</strong> Hızlı okuma, hafıza ve bütüncül beyin potansiyeli odaklıdır.<br>• <strong>D) Mikro öğretim:</strong> 'Öğret-yeniden öğret' döngüsüyle öğretmen adaylarına mesleki beceri kazandırma tekniğidir.<br>• <strong>E) Buluş yolu:</strong> Örneklerden kurala tümevarımla ulaşma stratejisidir.<br><br>💡 <strong>EKYS İpucu:</strong> Soruda <em>'Küçük adımlar, bir birimi öğrenmeden diğerine geçememe, anında dönüt ve bireysel hız'</em> anahtar kavramları yer alıyorsa cevap <strong>Programlı Öğretim (KEBAP)</strong>tir."
   }
 ];

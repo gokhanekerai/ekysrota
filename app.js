@@ -1335,6 +1335,14 @@ class EKYSApp {
             badge: '19 Soru • Konu Testi'
           },
           {
+            id: 'egitim_oyt_konu_eb',
+            name: '🎯 Öğretim Yöntem ve Teknikleri Testi',
+            icon: '🎯',
+            desc: 'Öğretim İlkeleri, Stratejiler (Sunuş, Buluş, Araştırma), Modeller (Tam Öğrenme, Yapılandırmacılık, Çoklu Zekâ, Basamaklı) ve Teknikler (16 Soru • Konu Anlatımı Sunu Testi).',
+            filterKey: 'egitim_oyt_konu_testi',
+            badge: '16 Soru • Konu Testi'
+          },
+          {
             id: 'egitim_video_test_1_eb',
             name: '🎯 Eğitim Bilimleri Video Tarama Testi 1',
             icon: '🎯',
@@ -2274,7 +2282,7 @@ class EKYSApp {
       },
       'egitim': {
         title: '🎓 Eğitim Bilimleri ve Yönetimi Testleri',
-        desc: 'Program Okuryazarlığı Sunu Testi, Video Tarama Testleri, Eğitim Yönetimi ve Çıkmış Sorular:',
+        desc: 'ÖYT ve Program Okuryazarlığı Sunu Testleri, Video Tarama Testleri, Eğitim Yönetimi ve Çıkmış Sorular:',
         items: [
           {
             id: 'egitim_prog_okur',
@@ -2283,6 +2291,14 @@ class EKYSApp {
             desc: 'Eğitim Türleri, Program Çeşitleri, Posner Sınıflandırması, Felsefi Temeller ve Program Tasarımı (19 Soru • Konu Anlatımı Sunu Testi).',
             filterKey: 'egitim_program_okuryazarligi',
             badge: '19 Soru • Konu Testi'
+          },
+          {
+            id: 'egitim_oyt_konu',
+            name: '🎯 Öğretim Yöntem ve Teknikleri Testi',
+            icon: '🎯',
+            desc: 'Öğretim İlkeleri, Stratejiler (Sunuş, Buluş, Araştırma), Modeller (Tam Öğrenme, Yapılandırmacılık, Çoklu Zekâ, Basamaklı) ve Teknikler (16 Soru • Konu Anlatımı Sunu Testi).',
+            filterKey: 'egitim_oyt_konu_testi',
+            badge: '16 Soru • Konu Testi'
           },
           {
             id: 'egitim_video_test_1',
@@ -2500,6 +2516,9 @@ class EKYSApp {
       }
       if (filterKey === 'egitim_program_okuryazarligi' || filterKey === 'egitim_prog_gel_1' || filterKey === 'prog_gel_test_1') {
         return (q.testId === 'egitim_program_okuryazarligi' || q.testId === 'egitim_prog_gel_1' || tId === 'egitim_program_okuryazarligi' || (tName.includes('program okuryazarlığı') || (tName.includes('program geliştirme') && tName.includes('1'))));
+      }
+      if (filterKey === 'egitim_oyt_konu_testi' || filterKey === 'egitim_oyt_1' || filterKey === 'oyt_test_1') {
+        return (q.testId === 'egitim_oyt_konu_testi' || tId === 'egitim_oyt' || tName.includes('öğretim yöntem ve teknikleri'));
       }
       if (filterKey === 'cogr1') return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
       if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
