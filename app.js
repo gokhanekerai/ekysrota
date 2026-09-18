@@ -3326,7 +3326,9 @@ class EKYSApp {
     const imgBox = document.getElementById('quiz-image-box');
     const imgEl = document.getElementById('quiz-q-image');
     if ((q.hasImage || q.image) && q.image) {
-      if (imgEl) imgEl.src = q.image;
+      const cacheBust = 'v=126.0';
+      const imgSrc = q.image.includes('?') ? q.image : `${q.image}?${cacheBust}`;
+      if (imgEl) imgEl.src = imgSrc;
       if (imgBox) imgBox.style.display = 'block';
     } else {
       if (imgBox) imgBox.style.display = 'none';
@@ -3644,7 +3646,9 @@ class EKYSApp {
     const modal = document.getElementById('modal-zoom-image') || document.getElementById('image-zoom-modal');
     const img = document.getElementById('zoom-modal-img');
     if (modal && img) {
-      img.src = src;
+      const cacheBust = 'v=126.0';
+      const imgSrc = src.includes('?') ? src : `${src}?${cacheBust}`;
+      img.src = imgSrc;
       this.resetImageZoom(false);
       modal.classList.add('active');
       modal.style.display = 'flex';

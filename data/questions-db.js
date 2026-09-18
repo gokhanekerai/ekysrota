@@ -27204,8 +27204,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "icon": "🧭",
     "questionNumber": 9,
     "questionText": "Türkiye'nin mutlak konumu dikkate alındığında aşağıdakilerden hangisi yanlıştır?",
-    "hasImage": false,
-    "image": null,
+    "hasImage": true,
+    "image": "assets/questions/cogr_test_4_q9.png",
     "options": [
       {
         "key": "A",
