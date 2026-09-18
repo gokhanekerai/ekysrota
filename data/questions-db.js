@@ -29570,7 +29570,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz)<br><br>📌 <strong>Akarsu Akış Hızı ve Vadi Tipleri:</strong><br>• <strong>Doğu Karadeniz Bölümü:</strong> Dağların kıyıya çok yakın ve son derece dik yükseldiği, eğim ve engebenin en fazla olduğu sahadır. Buradaki akarsuların (Çoruh, Fırtına Deresi vb.) yatak eğimi çok fazla, akış hızları yüksek ve aşındırma güçleri çok büyüktür. Bu nedenle arazilerini derine doğru yararak derin <strong>çentik (V tipi) vadiler</strong> oluştururlar.<br>• Ergene, Güney Marmara ve Kıyı Ege gibi sahalarda ise eğim az olduğu için akarsular yana aşındırma yapar ve geniş tabanlı sığ vadilerde akarlar."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz)<br><br>📌 <strong>Akarsu Akış Hızı ve Vadi Morfolojisi:</strong><br>Bir akarsuyun derine doğru aşındırma yapabilmesi yatak eğiminin, akış hızının ve kinetik enerjisinin yüksek olmasına bağlıdır. <strong>Doğu Karadeniz Bölümü'nde</strong> Kaçkar Dağları kıyının hemen gerisinde 3.500-4.000 metrelere ulaşır. Bu dik yamaçlardan Karadeniz'e inen akarsular (Çoruh, Fırtına Deresi, İkizdere vb.) olağanüstü yüksek akış hızıyla yataklarını derine doğru yararak derin <strong>çentik (V tipi) vadiler</strong> oluştururlar.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Güney Marmara:</strong> Susurluk havzasında ortalama yükselti ve yatak eğimi azdır; akarsular sığ vadilerde akar.<br>• <strong>B) Ergene:</strong> Türkiye'nin en alçak ve en düz sahalarındandır; akarsular geniş tabanlı ve derinliği çok sığ vadilerde akar.<br>• <strong>C) Kıyı Ege:</strong> Grabende (Bakırçay, Gediz, Menderes) eğim yok denecek kadar azdır; akarsular derine değil yana aşındırma yaparak menderesli geniş tabanlı vadiler oluşturur.<br>• <strong>E) Orta Fırat:</strong> Gaziantep-Şanlıurfa platosunda arazi dalgalı düzlüklerden oluşur; Doğu Karadeniz'deki sarp eğimle kıyaslanamaz.<br><br>💡 <strong>EKYS Püf Noktası:</strong> Eğim fazla = Derine aşındırma = Çentik (V) Vadi (Doğu Karadeniz, Hakkari). Eğim az = Yana aşındırma = Geniş Tabanlı Vadi (Ergene, Ege)."
   },
   {
     "id": "cogr_test_6-q2",
@@ -29607,7 +29607,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (IV. Aras → Karadeniz Yanlıştır)<br><br>📌 <strong>Akarsular ve Havzaları:</strong><br>• <strong>Aras Nehri:</strong> Doğu Anadolu'dan doğar, Ermenistan ve Azerbaycan sınırından geçerek Kura Nehri ile birleşir ve <strong>Hazar Denizi'ne</strong> dökülür. Hazar bir iç deniz / göl olduğu için Aras açık denize ulaşamaz ve bir <strong>kapalı havza akarsuyu</strong>dur (Karadeniz'e dökülmez).<br>• Meriç Ege'ye (Saros Körfezi), Kızılırmak Karadeniz'e (Bafra), Fırat Dicle ile birleşip Şattülarap üzerinden Basra Körfezi'ne (Hint Okyanusu), Seyhan ise Akdeniz'e (Çukurova) dökülür."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV. Aras → Karadeniz Yanlıştır)<br><br>📌 <strong>Akarsular ve Döküldükleri Havzalar:</strong><br>• <strong>IV. Aras Nehri:</strong> Doğu Anadolu'dan (Erzurum-Bingöl dağları) doğar, Ermenistan ve Azerbaycan sınırları boyunca akarak Kura Nehri ile birleşir ve <strong>Hazar Denizi'ne</strong> dökülür. Hazar bir iç deniz (dünyanın en büyük gölü) olduğu ve okyanuslara açık bağlantısı bulunmadığı için Aras Nehri Karadeniz'e dökülmez; bir <strong>kapalı havza akarsuyu</strong>dur.<br><br>🔍 <strong>Doğru Eşleştirmelerin İncelemesi:</strong><br>• <strong>I. Meriç → Ege Denizi:</strong> Bulgaristan'dan doğup sınırımızı çizer ve Ege'deki Saros Körfezi'ne dökülür.<br>• <strong>II. Kızılırmak → Karadeniz:</strong> Sivas'tan doğup Samsun'da Bafra Deltası'nı oluşturarak Karadeniz'e dökülür.<br>• <strong>III. Fırat → Basra Körfezi:</strong> Doğu Anadolu'dan doğar, Suriye ve Irak'ı aşarak Şattülarap üzerinden Basra Körfezi'ne (Hint Okyanusu) dökülür.<br>• <strong>V. Seyhan → Akdeniz:</strong> Toroslar'dan beslenir ve Çukurova Deltası üzerinden Akdeniz'e dökülür.<br><br>💡 <strong>Sınav Notu:</strong> Hazar Kapalı Havzası'na dökülen nehirlerimiz: <strong>Aras ve Kura</strong>. Basra Körfezi'ne (açık havza) dökülenler: <strong>Fırat ve Dicle</strong>."
   },
   {
     "id": "cogr_test_6-q3",
@@ -29644,7 +29644,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Kıta sahanlıkları geniştir)<br><br>📌 <strong>Boyuna Kıyı Tipi ve Kıta Sahanlığı:</strong><br>• Haritada taralı alanlar <strong>Doğu Karadeniz</strong> ve <strong>Batı Akdeniz (Teke Yarımadası / Antalya kıyıları)</strong> sahalarıdır.<br>• Bu kıyılarda dağlar denize çok yakın ve paralel uzandığı için deniz aniden derinleşir, kıta sahanlığı (şelf alanı) <strong>çok dardır</strong> (geniş değildir).<br>• Kıyı dik ve derin olduğu için falezler (yalıyarlar) yaygındır, koy-körfez ve girinti-çıkıntı azdır, boyuna kıyı tipi hakimdir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kıta sahanlıkları geniştir)<br><br>📌 <strong>Boyuna Kıyı Tipi ve Kıta Sahanlığı (Şelf):</strong><br>Kıta sahanlığı (şelf alanı), kıyı çizgisinden 200 metre deniz derinliğine kadar olan sığ deniz tabanıdır. Haritada taranan alanlar <strong>Doğu Karadeniz</strong> ve <strong>Batı Akdeniz (Antalya/Taşeli kıyıları)</strong> sahalarıdır. Bu alanlarda dağlar denizin hemen kıyısından çok dik ve paralel yükseldiği için deniz aniden derinleşir; yani kıta sahanlığı <strong>geniş değil, son derece dardır</strong>.<br><br>🔍 <strong>Ortak Özelliklerin Açıklaması:</strong><br>• <strong>A) Falezler:</strong> Kıyı dik ve derin olduğu için dalgalar kıyı tabanını oyup dik uçurumlar (falez / yalıyar) oluşturur.<br>• <strong>B) Boyuna Kıyı Tipi:</strong> Dağların kıyıya paralel uzandığı sahalarda boyuna kıyı tipi hakimdir.<br>• <strong>C ve E) Koy, Körfez, Girinti-Çıkıntı Azlığı:</strong> Dağlar kıyıya paralel bir duvar gibi set çektiği için deniz içeri sokulamaz; kıyı düz bir hat şeklinde uzanır.<br><br>💡 <strong>Altın Kural:</strong> Dağlar kıyıya paralel = Kıta sahanlığı DAR = Falez ÇOK, Delta ZOR (Karadeniz, Antalya). Dağlar kıyıya dik = Kıta sahanlığı GENİŞ = Falez YOK, Delta KOLAY (Ege)."
   },
   {
     "id": "cogr_test_6-q4",
@@ -29681,7 +29681,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Asıl Ege)<br><br>📌 <strong>Kırılma (Horst - Graben) Sistemi:</strong><br>• Sert ve esnekliğini yitirmiş tabakaların yan basınçlara maruz kalmasıyla fay hatları boyunca kırılması sonucu yüksekte kalan kütlelere <strong>horst (dağ)</strong>, çöken çukurluklara ise <strong>graben (çöküntü ovası)</strong> denir.<br>• Türkiye'de bu yapının en tipik ve yaygın görüldüğü yer <strong>Asıl Ege (Kıyı Ege) Bölümü</strong>dür.<br>• Kaz Dağı, Madra, Yunt, Bozdağlar, Aydın ve Menteşe dağları birer <strong>horst</strong>; aralarında akan Bakırçay, Gediz, Küçük Menderes ve Büyük Menderes vadileri birer <strong>graben</strong> alanıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Asıl Ege)<br><br>📌 <strong>Kırılma (Horst - Graben) Morfolojisi:</strong><br>Sert, tortul ve esnekliğini yitirmiş tabakaların yan basınçlara maruz kalması durumunda tabakalar kıvrılamaz ve fay hatları boyunca kırılır. Faylar arasında yüksekte kalan kütlelere <strong>HORST (Kırık Dağı)</strong>, çöken çukurluklara ise <strong>GRABEN (Çöküntü Ovası)</strong> denir. Türkiye'de bu kırık sisteminin en yaygın ve belirgin olduğu yer <strong>Asıl Ege (Kıyı Ege)</strong> Bölümüdür.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A) Doğu Karadeniz:</strong> Esnek tabakaların kıvrılmasıyla oluşmuş <strong>Kıvrım Dağları</strong> (Antiklinal) kuşağıdır (Kaçkarlar).<br>• <strong>B) Güney Marmara:</strong> Neojen çökelleri ve dalgalı aşınım platolarından oluşur.<br>• <strong>D ve E) Antalya ve Adana:</strong> Toros Dağları kuşağıdır ve orojenez sonucu kıvrılarak yükselen <strong>Kıvrım Dağları</strong>dır (Bey Dağları, Bolkarlar).<br><br>💡 <strong>Ege Horst-Graben Sıralaması:</strong> Kaz Dağı (H) → Madra (H) → Yunt (H) → Bozdağlar (H) → Aydın (H) → Menteşe (H). Aralarında Bakırçay (G), Gediz (G), Küçük Menderes (G) ve Büyük Menderes (G) akar."
   },
   {
     "id": "cogr_test_6-q5",
@@ -29718,7 +29718,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Tamamıyla dağlık alanlardan oluşur)<br><br>📌 <strong>Fiziki Haritada Renkler ve Yer Şekilleri:</strong><br>• Fiziki haritalarda renkler yer şekillerini (dağ, ova vb.) değil, yalnızca <strong>deniz seviyesine göre yükselti basamaklarını</strong> gösterir. Kahverengi ve tonları 1500 metre ve üzerindeki yüksek sahaları ifade eder.<br>• Yüksek yerlerde dağların yanı sıra yüksek platolar (örneğin Erzurum-Kars Platosu) veya yüksek ovalar (örneğin Yüksekova, Pasinler Ovası) da yer alır. Bu nedenle bu alanların tamamının dağlık olduğunu söylemek yanlıştır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Tamamıyla dağlık alanlardan oluşur)<br><br>📌 <strong>Fiziki Haritalarda Renkler ve Anlamı:</strong><br>Fiziki haritalarda kullanılan renkler <strong>asla yer şekillerini (dağ, ova, plato) göstermez; yalnızca deniz seviyesine göre yükselti basamaklarını belirtir</strong>. Kahverengi ve tonları 1.500 metre ve üzerindeki sahaları gösterir. Bu yükseltilerde dağların yanı sıra yüksek platolar (Erzurum-Kars Platosu gibi) ve yüksek ovalar (Yüksekova, Pasinler Ovası gibi) da bulunur. Dolayısıyla bu sahaların 'tamamıyla dağlık' olduğunu söylemek coğrafi olarak yanlıştır.<br><br>🔍 <strong>Doğru Yargıların Açıklaması:</strong><br>• <strong>A) Ortalama yükselti fazladır:</strong> 1.500 metrenin üzerindedir.<br>• <strong>B ve E) Akış hızı ve hidroelektrik potansiyel:</strong> Yüksek sahalarda eğim fazla olduğundan akarsuların akış hızı ve elektrik üretim gücü yüksektir.<br>• <strong>D) Gerçek ve indirgenmiş sıcaklık farkı:</strong> Yükseldikçe her 200 metrede sıcaklık 1°C düştüğünden, yüksek yerlerde gerçek sıcaklık ile deniz seviyesine indirgenmiş sıcaklık arasındaki fark çok büyüktür (1.600 m'de 8°C fark)."
   },
   {
     "id": "cogr_test_6-q6",
@@ -29755,7 +29755,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Çamiçi / Bafa)<br><br>📌 <strong>Göl Oluşum Tipleri:</strong><br>• <strong>Çamiçi (Bafa) Gölü:</strong> Büyük Menderes Nehri'nin getirdiği alüvyonların eski bir deniz körfezinin önünü kapatmasıyla oluşmuş bir <strong>Alüvyal Set Gölü</strong>dür.<br>• <strong>Manyas, Ulubat, Sapanca ve Tuz Gölü:</strong> Fay hatlarına ve tektonik çanaklara suların dolmasıyla meydana gelmiş <strong>Tektonik Göller</strong>dir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Çamiçi / Bafa)<br><br>📌 <strong>Göl Oluşum Tipleri ve Çamiçi (Bafa):</strong><br>• <strong>Çamiçi (Bafa) Gölü:</strong> Ege Bölgesi'nde Büyük Menderes Nehri'nin getirdiği alüvyonların, eski bir Ege denizi körfezi olan Latmos Körfezi'nin önünü kapatmasıyla oluşmuş bir <strong>Alüvyal Set Gölü</strong>dür.<br><br>🔍 <strong>Çeldiricilerin Analizi (Tektonik Göller):</strong><br>• <strong>A) Manyas (Kuş Gölü):</strong> Güney Marmara'daki fay çanağına suların dolmasıyla oluşmuş tektonik göldür.<br>• <strong>B) Ulubat:</strong> Bursa havzasındaki tektonik çöküntü gölüdür.<br>• <strong>C) Sapanca:</strong> Kuzey Anadolu Fay Hattı üzerindeki tektonik olukta yer alır.<br>• <strong>E) Tuz Gölü:</strong> İç Anadolu'daki tektonik çanak gölüdür.<br><br>💡 <strong>Akılda Tutma Şifresi:</strong> Güney Marmara'daki <strong>MUSİ</strong> gölleri tektoniktir: <strong>M</strong>anyas, <strong>U</strong>lubat, <strong>S</strong>apanca, <strong>İ</strong>znik. Ege'deki Bafa ve Marmara Gölü ise alüvyal set gölüdür."
   },
   {
     "id": "cogr_test_6-q7",
@@ -29792,7 +29792,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I - Orta Karadeniz)<br><br>📌 <strong>Falez Oluşumu ve Kıyı Morfolojisi:</strong><br>• Falez (yalıyar), dağların denize paralel ve hemen kıyıdan dik yükseldiği derin kıyılarda dalga aşındırmasıyla oluşur.<br>• <strong>Orta Karadeniz (Canik Dağları):</strong> Dağların yükseltisi azdır (basıktır) ve kıyının oldukça gerisinde uzanır. Kıyı sığ olup Yeşilırmak ve Kızılırmak geniş delta ovaları (Bafra ve Çarşamba) oluşturmuştur. Bu nedenle Orta Karadeniz'de falez oluşma ihtimali <strong>çok düşüktür / yok denecek kadar azdır</strong>.<br>• Batı Karadeniz (Küre), Doğu Karadeniz (Kaçkarlar) ve Akdeniz (Taşeli Platosu) kıyılarında ise dağlar denize dik ve paralel indiği için devasa falezler yaygındır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I - Orta Karadeniz)<br><br>📌 <strong>Falez Oluşumu ve Canik Dağları Etkisi:</strong><br>Falez (yalıyar); dağların denizin hemen kenarından dik yükseldiği derin kıyılarda dalga aşındırmasıyla oluşur. <strong>Orta Karadeniz'de (Canik Dağları)</strong> dağların yükseltisi azdır (yaklaşık 1.000-1.200 m) ve dağlar kıyının onlarca kilometre gerisinde başlar. Kıyı sığdır ve Kızılırmak ile Yeşilırmak nehirleri burada devasa delta ovaları (Bafra ve Çarşamba) meydana getirmiştir. Kıyı sığ ve kumsal olduğu için falez oluşma ihtimali <strong>yok denecek kadar azdır</strong>.<br><br>🔍 <strong>Falezlerin Çok Olduğu Diğer Alanlar:</strong><br>• <strong>II) Batı Karadeniz (Küre Dağları):</strong> Kıyı dik ve derin olup falezler yaygındır.<br>• <strong>III) Taşeli Platosu (Akdeniz):</strong> Kireçtaşı kütleleri denize dik iner; yüksek falezler görülür.<br>• <strong>IV) Doğu Karadeniz (Kaçkarlar):</strong> Kıyıdan itibaren dimdik yükselir; Türkiye'nin en yoğun falez sahasıdır.<br><br>💡 <strong>Sınav Notu:</strong> Karadeniz'de falez nerede YOK? → <strong>Samsun (Orta Karadeniz)</strong>. Çünkü Canik Dağları alçaktır ve geridedir, kıyıda delta vardır."
   },
   {
     "id": "cogr_test_6-q8",
@@ -29829,7 +29829,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (III Numaralı Körfez - İzmir Körfezi)<br><br>📌 <strong>Körfezlerde Sanayileşme ve Kirlilik:</strong><br>• Haritadaki merkezler: I (Sinop), II (Saros Körfezi), III (İzmir Körfezi), IV (Antalya Körfezi), V (İskenderun Körfezi).<br>• <strong>III Numaralı Alan (İzmir Körfezi):</strong> Çevresindeki yoğun sanayi tesisleri, liman faaliyetleri, tersaneler ve milyonlarca nüfuslu metropol yerleşimi nedeniyle Türkiye'de deniz kirliliğinin en üst düzeyde olduğu körfezlerden biridir.<br>• Saros Körfezi kendi kendini temizleme özelliğine sahip olup çok temizdir; Sinop ve Antalya'da ağır sanayi kirliliği bulunmaz."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III Numaralı Körfez - İzmir Körfezi)<br><br>📌 <strong>Körfezler ve Sanayi Kirliliği:</strong><br>Haritada numaralandırılan körfezler ve çevresel özellikleri:<br>• <strong>III Numaralı Alan (İzmir Körfezi):</strong> Milyonlarca nüfuslu metropol yerleşimi, çevresindeki yoğun organize sanayi bölgeleri, liman ve tersane faaliyetleri ve kapalı iç körfez morfolojisi sebebiyle Türkiye'de deniz kirliliğinin ve ötrofikasyonun en üst düzeyde olduğu körfezdir.<br><br>🔍 <strong>Diğer Numaralı Körfezlerin Analizi:</strong><br>• <strong>I (Sinop Doğal Limanı):</strong> Ağır sanayi ve nüfus yoğunluğu bulunmaz; deniz son derece temizdir.<br>• <strong>II (Saros Körfezi):</strong> Kendi kendini temizleme akıntılarına sahip dünyadaki ender körfezlerden biridir; tertemizdir.<br>• <strong>IV (Antalya Körfezi):</strong> Turizm sahasıdır, sanayi atığı yoktur.<br>• <strong>V (Mersin Körfezi):</strong> Sanayi ve liman mevcuttur ancak İzmir Körfezi'nin içe kapalı yapısı kirliliği İzmir'de çok daha kronik hale getirmiştir."
   },
   {
     "id": "cogr_test_6-q9",
@@ -29866,7 +29866,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Aksu)<br><br>📌 <strong>Delta Oluşumu ve Aksu Çayı:</strong><br>• <strong>Aksu Çayı (Antalya):</strong> Havzasındaki kayaçlar karstik (kireçtaşı / kalker) yapıda olduğu için suyun taşıdığı malzemeler su içinde erir (alüvyon tortusu oluşturmaz) ve deniz aniden derinleştiğinden dolayı döküldüğü yerde bir <strong>delta ovası oluşturamaz</strong>.<br>• Bakırçay → Dikili Deltası<br>• Kızılırmak → Bafra Deltası<br>• Gediz → Menemen Deltası<br>• Göksu → Silifke Deltası"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Aksu Çayı)<br><br>📌 <strong>Aksu Çayı Neden Delta Oluşturamaz?</strong><br>Bir akarsuyun delta ovası oluşturabilmesi için bol alüvyon taşıması ve döküldüğü kıyının sığ (kıta sahanlığının geniş) olması gerekir. <strong>Aksu Çayı (Antalya)</strong> delta oluşturamaz; çünkü:<br>1. <strong>Karstik Yapı:</strong> Beslendiği Batı Toroslar arazisi suda eriyebilen kireçtaşından (kalker) oluşur. Su kireci kimyasal eriyik halinde taşır; kıyıyı dolduracak katı alüvyon tortusu bulunmaz.<br>2. <strong>Kıyı Derinliği:</strong> Antalya kıyıları aniden derinleşir; katı tortu birikemez.<br><br>🔍 <strong>Delta Oluşturan Diğer Akarsular:</strong><br>• <strong>A) Bakırçay:</strong> Ege'de Dikili Deltası'nı oluşturur.<br>• <strong>B) Kızılırmak:</strong> Karadeniz'de Bafra Deltası'nı oluşturur.<br>• <strong>C) Gediz:</strong> Ege'de Menemen Deltası'nı oluşturur.<br>• <strong>D) Göksu:</strong> Akdeniz'de Silifke Deltası'nı oluşturur.<br><br>💡 <strong>ÖSYM Formülü:</strong> Akdeniz'deki Çukurova (Seyhan-Ceyhan) ve Silifke (Göksu) deltadır. Ancak <strong>Aksu, Manavgat ve Dalaman</strong> karstik eriyik taşıdıkları için delta DEĞİL, falez ve traverten basamakları oluştururlar!"
   },
   {
     "id": "cogr_test_6-q10",
@@ -29903,7 +29903,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Yağış miktarı az ve bitki örtüsü cılızdır)<br><br>📌 <strong>Rüzgar Aşındırmasının Koşulları:</strong><br>• Rüzgarların yeryüzünü şekillendirebilmesi (aşındırma ve biriktirme yapabilmesi) için arazinin kurak/yarı kurak olması, yağışın yetersiz olması, toprağın gevşek taneli ve zemini koruyan <strong>bitki örtüsünün cılız veya yok</strong> olması gerekir.<br>• Türkiye'de İç Anadolu (Konya-Karapınar çevresi) ve Güneydoğu Anadolu'da rüzgar şekillerine en çok rastlanmasının temel sebebi budur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yağış miktarı az ve bitki örtüsü cılızdır)<br><br>📌 <strong>Rüzgar Aşındırmasının Coğrafi Koşulları:</strong><br>Rüzgarın bir dış kuvvet olarak yeryüzünü aşındırıp biriktirebilmesi için iki temel şartın bir arada bulunması ZORUNLUDUR:<br>1. <strong>Kurak / Yarı Kurak İklim:</strong> Yağışın yetersiz olması ve toprağın ufalanmış, kuru, gevşek taneli olması gerekir.<br>2. <strong>Cılız Bitki Örtüsü:</strong> Zemini tutan ve rüzgarın hızını kesen bitki örtüsünün olmaması gerekir.<br>Türkiye'de rüzgar aşınım ve birikim şekillerine İç Anadolu (Konya-Karapınar) ve Güneydoğu'da en çok rastlanmasının nedeni bu iki koşuldur.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A) Kalkerli arazi:</strong> Rüzgarın değil, yeraltı suları ve karstik aşınımın koşuludur (Akdeniz).<br>• <strong>B) Dağlık ve engebeli yerler:</strong> Rüzgarın hızını keser; rüzgar geniş düzlüklerde çok daha etkilidir.<br>• <strong>D) Fay kaynakları:</strong> İç kuvvetlerle (deprem/tektonizma) ilgilidir; rüzgarla ilişkisizdir.<br>• <strong>E) Açık havza özelliği:</strong> Konya gibi kapalı havzalarda da rüzgar aşındırması en üst düzeydedir; akarsuyun açık denizle bağlantısı rüzgarı etkilemez."
   },
   {
     "id": "cogr_test_6-q11",
@@ -29940,7 +29940,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Tarımda makine kullanımını)<br><br>📌 <strong>Ova Yükseltisi ve Tarımda Makineleşme:</strong><br>• <strong>Tarımda Makine Kullanımı:</strong> Yükseltiden değil, arazinin <strong>eğim ve engebe durumundan (düz veya engebeli olmasından)</strong> etkilenir. Gösterilen merkezlerin tümü 'ova' tabanı olduğundan hepsi düz ve düze yakın arazilerdir; dolayısıyla hepsinde makineleşme elverişlidir.<br>• Yükselti farkı ise sıcaklığı, donlu gün sayısını, ürünlerin yetişme ve hasat süresini ve ürün çeşitliliğini doğrudan etkiler (örneğin batıdaki Akhisar'da ürünler çok erken olgunlaşırken, doğudaki Pasinler ve Yüksekova'da kışlar sert ve ürünler geç olgunlaşır)."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tarımda makine kullanımını)<br><br>📌 <strong>Ova Morfolojisi ve Makineleşme İlişkisi:</strong><br><strong>Tarımda makine kullanımını belirleyen yegane coğrafi faktör yükselti DEĞİL, arazinin EĞİM ve ENGEBE durumudur</strong>. Bir arazi deniz seviyesinde olsa bile engebeliyse (örneğin Rize kıyıları) makine çalışamaz. Ancak 2.000 metre yükseklikte olsa bile düz bir ova ise (Yüksekova, Pasinler) traktör ve biçerdöver rahatlıkla kullanılır. Soruda verilen merkezlerin (Düzce, Pasinler, Akhisar, Aksaray, Yüksekova) hepsi birer 'ova' tabanı olduğundan hepsi düzdür ve makineleşmeye uygundur; yükselti farkı makineleşmeyi engellemez.<br><br>🔍 <strong>Yükseltiden Doğrudan Etkilenenler:</strong><br>• <strong>A) Olgunlaşma süresi:</strong> Yüksekte hava soğuktur; Akhisar'da erken hasat edilirken Yüksekova'da ürünler çok geç olgunlaşır.<br>• <strong>B) Donlu gün sayısı:</strong> Yükseldikçe donlu ve karla kaplı gün sayısı belirgin artar.<br>• <strong>C) Endüstriyel ürün çeşitliliği:</strong> Yüksek ovalarda pamuk, zeytin, tütün gibi sanayi bitkileri soğuktan dolayı yetişemez.<br>• <strong>E) Sıcaklık ortalamaları:</strong> Her 200 metrede sıcaklık 1°C azaldığından yükseltiye bağlı olarak sıcaklıklar doğrudan değişir."
   },
   {
     "id": "cogr_test_6-q12",
@@ -29977,7 +29977,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Akarsu vadilerinin geniş tabanlı olmasına)<br><br>📌 <strong>Taşkın Riski ve Vadi Tipleri:</strong><br>• Marmara Bölgesi genelinde yükselti ve yatak eğimi çok azdır. Akarsular (özellikle Meriç ve Ergene) <strong>geniş tabanlı ve yatak derinliği son derece sığ</strong> vadilerde akarlar.<br>• Yatak sığ ve taban geniş olduğu için ilkbahar veya kış yağışlarında debi azıcık arttığında dahi sular derine gömülemez ve anında yatağından taşarak tarım arazilerini su altında bırakır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Akarsu vadilerinin geniş tabanlı olmasına)<br><br>📌 <strong>Vadi Tipi ve Taşkın Riski İlişkisi:</strong><br>Marmara Bölgesi'nde (özellikle Meriç ve Ergene havzalarında) ortalama yükselti ve yatak eğimi çok azdır. Akarsular yataklarını derine aşındıramadığı için vadiler <strong>geniş tabanlı ve yatak derinliği son derece sığ</strong>dır. Akarsu yatağı derine gömülü olmadığı için yağışlar arttığında veya karlar eridiğinde sular yatak içinde yükselemez; anında yanlara doğru taşarak kilometrelerce genişlikteki tarım arazilerini su altında bırakır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A) Havza darlığı:</strong> Ergene ve Meriç'in havzaları dar değil, oldukça geniştir.<br>• <strong>B) Alüvyon azlığı:</strong> Taşkın alüvyon miktarından değil, yatak sığlığından kaynaklanır.<br>• <strong>D) Rejim düzensizliği:</strong> Taşkını tetikleyebilir ancak taşkının asıl morfolojik sebebi yatağın sığ ve tabanın geniş olmasıdır (Örneğin derin kanyon veya çentik vadilerde su çok yükselse dahi yüksek vadi duvarları taşkını engeller)."
   },
   {
     "id": "cogr_test_6-q13",
@@ -30014,7 +30014,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Dağların kıyıya uzanış biçimlerinin farklı olması)<br><br>📌 <strong>Kıyı Tipleri ve Dağların Uzanış Yönü:</strong><br>• <strong>I Numaralı Alan (Ege):</strong> Dağlar kıyı çizgisine <strong>dik uzanır (enine kıyı tipi)</strong>. Dağların arasına deniz sokulduğu için sayısız koy, körfez, yarımada ve doğal liman oluşmuş; kıyıda girinti-çıkıntı en üst seviyeye ulaşmıştır.<br>• <strong>II Numaralı Alan (Karadeniz):</strong> Dağlar kıyı çizgisine <strong>paralel uzanır (boyuna kıyı tipi)</strong>. Kıyı düz bir hat şeklinde ilerler, deniz içeri sokulamaz; girinti, çıkıntı, koy ve körfez sayısı son derece azdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Dağların kıyıya uzanış biçimlerinin farklı olması)<br><br>📌 <strong>Kıyı Tipleri ve Dağların Doğrultusu:</strong><br>Kıyının girintili-çıkıntılı veya düz olmasını belirleyen temel morfolojik etken dağların kıyı çizgisine göre uzanış doğrultusudur:<br>• <strong>I Numaralı Alan (Kıyı Ege):</strong> Dağlar kıyıya <strong>DİK uzanır (Enine Kıyı Tipi)</strong>. Çöken graben oluklarına deniz sokulmuş, horst dağları ise yarımadalar olarak denize uzanmıştır. Sayısız koy, körfez ve doğal liman oluşmuş; kıyı girintisi Türkiye'de en üst düzeye çıkmıştır.<br>• <strong>II Numaralı Alan (Karadeniz):</strong> Dağlar kıyıya <strong>PARALEL uzanır (Boyuna Kıyı Tipi)</strong>. Dağlar kesintisiz bir set gibi denizin önünü kestiği için deniz içeri sokulamaz; kıyı düz bir hat şeklinde uzanır, girinti-çıkıntı ve koy sayısı yok denecek kadar azdır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A) Gelgit genliği:</strong> Türkiye iç denizlerde yer aldığı için gelgit genliği her iki kıyıda da çok düşüktür (~30-50 cm); fark yaratmaz.<br>• <strong>B, C, D) İklim, dağ yükseltisi ve tabaka yapısı:</strong> Kıyı girintisini belirlemez; belirleyici olan dağların kıyıya dik mi yoksa paralel mi uzandığıdır."
   },
   {
     "id": "cogr_test_6-q14",
@@ -30051,7 +30051,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Kolay çözünebilen kayaçların geniş yer tutması)<br><br>📌 <strong>Karstik Şekiller ve Litolojik Yapı:</strong><br>• Mağara, sarkıt, dikit, sütun, obruk (Cennet-Cehennem), dolin, uvala ve polye gibi yer şekilleri kimyasal aşınım ve birikimle meydana gelen <strong>karstik şekiller</strong>dir.<br>• Bu şekillerin Akdeniz kuşağında (Teke ve Taşeli yörelerinde) bu denli yoğun olmasının birincil sebebi, suda kolayca eriyebilen <strong>kalker (kireçtaşı)</strong> kayaçlarının bölgede çok yaygın olmasıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kolay çözünebilen kayaçların geniş yer tutması)<br><br>📌 <strong>Karstik Şekiller ve Litolojik Koşul:</strong><br>Mağaralar (Damlataş, Karain, Dim, İnsuyu), obruklar (Cennet-Cehennem, Kızören), dolin ve polyeler suyun kimyasal eritme gücüyle oluşan <strong>karstik aşınım şekilleri</strong>dir. Bu şekillerin Akdeniz kuşağında (Teke ve Taşeli platoları) bu kadar yoğun ve anıtsal olmasının temel ve vazgeçilmez sebebi; bölge arazisinin suda çok kolay eriyebilen <strong>kalker (kireçtaşı)</strong> kayaçlarından meydana gelmiş olmasıdır (Litolojik faktör).<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A ve C) Nem ve ılık kışlar:</strong> İklim özellikleridir; arazi karstik değilse iklim ne kadar nemli olursa olsun mağara ve obruk oluşamaz (Örn: Rize çok yağışlıdır ama arazisi volkanik/granit olduğu için obruk oluşmaz).<br>• <strong>B ve E) Yeraltı suları ve akarsu ağı:</strong> Eritme sürecine katkı sağlar ancak kayacın cinsi (kalker) uygun değilse kimyasal çözünme şekli meydana gelemez."
   },
   {
     "id": "cogr_test_6-q15",
@@ -30088,7 +30088,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz Bölümü'ndeki dağlarda buzullara rastlanması)<br><br>📌 <strong>Buzullar ve Dağların Uzanışı:</strong><br>• Dağlarda kalıcı kar ve buzullara rastlanması dağların kıyıya uzanışıyla değil; dağların <strong>yükseltisinin 3500-4000 metreyi aşmasıyla (mutlak konum / matematiksel konum ve yükseltiyle)</strong> ilgilidir.<br>• İklimin içeri sokulabilmesi, kıyı ile iç kesim ulaşımı, falez oluşumu ve orografik (yamaç) yağış miktarları ise doğrudan dağların kıyıya göre uzanış doğrultusunun bir sonucudur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz Bölümü'ndeki dağlarda buzullara rastlanması)<br><br>📌 <strong>Buzullar ve Yükselti İlişkisi:</strong><br>Bir dağın üzerinde kalıcı kar ve buzul aşınım/birikim şekillerinin (sirk gölleri, morenler) bulunabilmesi dağların kıyıya dik veya paralel uzanmasıyla değil; tamamen **dağın yükseltisinin kalıcı kar sınırını (3.500-4.000 metre) aşmasıyla** ilgilidir (Yükselti ve mutlak konum faktörüdür). Kaçkar Dağları kıyıya dik uzansaydı bile 3.900 metre yüksekliğe sahip olduğu için yine buzul barındıracaktı.<br><br>🔍 <strong>Dağların Uzanışından Doğrudan Etkilenenler:</strong><br>• <strong>A) Ege'de denizel iklimin içeri girmesi:</strong> Dağlar dik olduğu için graben oluklarından nemli deniz havası 150-200 km içerilere sokulur.<br>• <strong>C) Akdeniz'de ulaşımın geçitlerle sağlanması:</strong> Dağlar paralel bir duvar oluşturduğu için iç kesimlere ulaşım ancak Zigana, Kop, Gülek, Sertavul gibi geçitlerle yapılır.<br>• <strong>D) Antalya'da falezler:</strong> Dağlar kıyıdan dik yükseldiği için dalga aşındırmasıyla falezler oluşur.<br>• <strong>E) Yağış miktarı:</strong> Paralel dağlara çarpan nemli hava kütleleri bol orografik (yamaç) yağış bırakır; bu nedenle Karadeniz ve Akdeniz kıyıları Ege'den çok daha fazla yağış alır."
   },
   {
     "id": "cogr_test_6-q16",
@@ -30125,7 +30125,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (III numaralı alanda rüzgar aşındırma ve biriktirme faaliyetleri şiddetlidir Yanlıştır)<br><br>📌 <strong>Haritadaki Alanların Coğrafi Özellikleri:</strong><br>• <strong>III Numaralı Alan:</strong> Akdeniz kıyısında nemli, yağışlı ve karstik araziye sahip Taşeli / Anamur kuşağıdır. Rüzgar aşınımı değil, dalga ve karstik aşınım hakimdir.<br>• <strong>I Numaralı Alan (Kaçkarlar):</strong> 3900 metreye varan zirvelerinde güncel sirk ve vadi buzulları yer alır.<br>• <strong>II Numaralı Alan (Hakkari / Cilo):</strong> Türkiye'nin en sarp ve engebeli yöresi olduğundan gerçek alan ile izdüşüm alan farkı çok büyüktür.<br>• <strong>IV Numaralı Alan (Büyük Menderes Grabeni):</strong> Taban eğimi çok az olduğundan akarsular menderes (büklüm) çizer.<br>• <strong>V Numaralı Alan (Çatalca Platosu):</strong> Aşınım sonucu oluşmuş alçak bir aşınım düzlüğü / platodur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III numaralı alanda rüzgar aşındırma ve biriktirme faaliyetleri şiddetlidir Yanlıştır)<br><br>📌 <strong>Haritada Numaralandırılan Alanların Jeomorfolojik Analizi:</strong><br>• <strong>III Numaralı Alan (Taşeli / Anamur Kıyısı):</strong> Akdeniz kıyısında nemli, yağışlı ve karstik arazinin hakim olduğu bir alandır. Rüzgar aşındırması burada değil; kurak, bitki örtüsünden yoksun ve gevşek taneli topraklara sahip İç Anadolu (Karapınar) ve Güneydoğu'da şiddetlidir. III numaralı alanda dalga aşınımı ve karstik süreçler hakimdir.<br><br>🔍 <strong>Doğru Yargıların Açıklaması:</strong><br>• <strong>A) I Numaralı Alan (Kaçkarlar):</strong> 3.900 metrelik zirvelerinde güncel sirk ve vadi buzulları yer alır.<br>• <strong>B) II Numaralı Alan (Hakkari / Cilo):</strong> Türkiye'nin en sarp ve engebeli yöresidir; yüzey engebeli olduğundan gerçek alan ile izdüşüm alan farkı çok büyüktür.<br>• <strong>D) IV Numaralı Alan (Büyük Menderes Grabeni):</strong> Taban eğimi çok az olduğundan akarsular menderes (büklüm) çizerek akar.<br>• <strong>E) V Numaralı Alan (Çatalca-Kocaeli Platosu):</strong> Aşınım sonucu deniz seviyesine kadar alçalmış düzleşmiş bir aşınım platosudur."
   },
   {
     "id": "cogr_test_6-q17",
@@ -30162,7 +30162,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Ilıca ve kaplıcaların yaygın olması)<br><br>📌 <strong>Jeomorfoloji vs. Tektonizma:</strong><br>• Ilıca, kaplıca, gayzer ve jeotermal kaynaklar yer şekilleri veya engebeyle değil; <strong>yer kabuğunun kırıklı yapısı (fay hatları ve tektonik gençlik)</strong> ile doğrudan ilgilidir. Örneğin düz ve engebesiz bir graben ovasında bile fay hattı varsa kaplıcalar fışkırabilir.<br>• Tarım arazilerinin parçalı olması, hidroelektrik potansiyel, gerçek-izdüşüm alan farkı ve heyelan/çığ olayları ise doğrudan <strong>engebe ve eğimin</strong> bir sonucudur."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ilıca ve kaplıcaların yaygın olması)<br><br>📌 <strong>Jeomorfoloji (Yer Şekilleri) vs. Jeoloji (Fay Hatları):</strong><br>Ilıca, kaplıca, gayzer ve jeotermal sıcak sular yer şekilleri, eğim veya engebeyle değil; **yer kabuğunun kırıklı yapısı, fay hatları ve genç tektonizma (iç kuvvetler)** ile doğrudan ilgilidir. Örneğin yer şekli bakımından dümdüz bir graben ovasında bile fay hattı varsa kaplıcalar fışkırabilir.<br><br>🔍 <strong>Engebenin Doğrudan Neden Olduğu Sonuçlar:</strong><br>• <strong>A) Tarım alanlarının dar ve parçalı olması:</strong> Düzlük sahalar kısıtlı olduğundan tarım alanları küçük parçalar halindedir.<br>• <strong>B) Hidroelektrik enerji potansiyeli:</strong> Eğim fazla olduğundan sular hızlı akar ve baraj potansiyeli artar.<br>• <strong>C) Gerçek ve izdüşüm alan farkı:</strong> Engebeli topoğrafyada arazinin gerçek alanı ile kuşuçuşu izdüşüm alanı arasındaki fark büyür.<br>• <strong>D) Erozyon ve çığ afetleri:</strong> Dik yamaçlar erozyon ve kış aylarında çığ tehlikesini tetikler."
   },
   {
     "id": "cogr_test_6-q18",
@@ -30199,7 +30199,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (I: Tuz | II: Van | III: Tortum)<br><br>📌 <strong>Göllerin Karakteristik Özellikleri:</strong><br>• <strong>I. Madde (Tuz Gölü):</strong> Türkiye'nin en sığ büyük gölüdür (ortalama 1-2 metre). Yaz buharlaşmasıyla alanı yarı yarıya küçülür; tektonik çanak gölüdür.<br>• <strong>II. Madde (Van Gölü):</strong> Tektonik çanağın önünün Nemrut Dağı'ndan çıkan lavlarla kapanmasıyla (volkanik set + tektonik) oluşmuş karma bir göldür. Tatvan-Van arasında tren feribotuyla demiryolu transit taşımacılığı yapılır.<br>• <strong>III. Madde (Tortum Gölü):</strong> Erzurum'da bir heyelan sonucu Tortum Çayı'nın önünün kapanmasıyla oluşmuş heyelan set gölüdür; göl çıkışındaki Tortum Şelalesi üzerinde hidroelektrik santrali bulunur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (I: Tuz | II: Van | III: Tortum)<br><br>📌 <strong>Göllerin Karakteristik Oluşum ve Özellik Analizi:</strong><br>• <strong>I. Öncül (Tuz Gölü):</strong> Tektonik bir çöküntü alanında oluşmuştur. Ortalama derinliği yalnızca 1-2 metredir. Sığ olduğu için yazın şiddetli buharlaşmayla alanı yarı yarıya küçülür, kışın yağışlarla tekrar genişler.<br>• <strong>II. Öncül (Van Gölü):</strong> Tektonik çanağın önünün Nemrut volkanından çıkan lavlarla kapanmasıyla oluşmuş **karma oluşumlu (tektonik + volkanik set)** bir göldür. Türkiye'nin en büyük gölüdür ve Tatvan-Van arasında feribotlarla tren (demiryolu) transit taşımacılığı yapılır.<br>• <strong>III. Öncül (Tortum Gölü):</strong> Erzurum'da bir heyelan kütlesinin Tortum Çayı vadisinin önünü tıkaması sonucu oluşmuş bir **heyelan set gölü**dür. Göl çıkışındaki Tortum Şelalesi üzerinde Tortum Hidroelektrik Santrali (HES) kuruludur.<br><br>💡 <strong>EKYS Şifresi:</strong> Heyelan set gölleri Karadeniz kuşağındadır: **Tortum, Sera, Abant, Yedigöller, Zinav, Borabay**."
   },
   {
     "id": "cogr_test_7-q1",
@@ -30236,7 +30236,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Ege Bölgesi'nde jeotermal enerji üretiminin yaygınlaşması)<br><br>📌 <strong>Yer Şekilleri ve Ekonomik Etkinlik İlişkisi:</strong><br>• <strong>Jeotermal Enerji:</strong> Yerin derinliklerindeki magmanın yeraltı sularını ısıtmasıyla ve fay hatları boyunca yüzeye çıkmasıyla oluşur. Bu durum bir yer şekli (morfometrik) özelliği değil, <strong>iç kuvvetler ve jeolojik yapı (tektonizma/faylanma)</strong> özelliğidir.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Toroslar'da kıl keçisi yetiştiriciliği:</strong> Dağlık, taşlık ve engebeli karstik morfolojiye doğrudan bağlıdır.<br>• <strong>Karadeniz yaylacılığı:</strong> Yüksek dağ kuşağındaki yaz serinliğine ve dağ çayırlarına bağlıdır.<br>• <strong>Hakkari'de arıcılık:</strong> Engebeli morfolojinin tarımı kısıtlaması ve zengin dağ florasıyla ilgilidir.<br>• <strong>Ilgaz Dağları'nda kış turizmi:</strong> Yüksek dağ morfolojisi ve kar tutma süresiyle doğrudan ilişkilidir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ege Bölgesi'nde jeotermal enerji üretiminin yaygınlaşması)<br><br>📌 <strong>Yer Şekilleri vs. Jeolojik Yapı:</strong><br><strong>Jeotermal enerji üretimi yer şekillerinin (dağ, plato, ova) değil; yerin derinliklerindeki jeolojik yapının, kırıklı fay hatlarının ve magmatik ısınmanın (iç kuvvetlerin) doğrudan bir sonucudur</strong>. Ege'deki fay hatları boyunca magmanın ısıttığı derin yeraltı suları yüzeye çıkarılarak jeotermal santrallerde (Denizli-Sarayköy, Aydın-Germencik) elektriğe dönüştürülür.<br><br>🔍 <strong>Yer Şekillerine Bağlı Olan Diğer Faaliyetler:</strong><br>• <strong>A) Toroslar'da kıl keçisi:</strong> Sarp, taşlık ve eğimli karstik dağ yamaçlarındaki makilikleri otlatan en uygun hayvan türüdür.<br>• <strong>B) Karadeniz yaylacılığı:</strong> Yüksek dağ kuşağındaki yaz serinliği ve zengin dağ çayırları mera hayvancılığını zorunlu kılmıştır.<br>• <strong>D) Hakkari'de arıcılık:</strong> Çok dağlık ve engebeli arazi tarımı engellediği için halk zengin yüksek dağ florasından yararlanarak arıcılığa yönelmiştir.<br>• <strong>E) Ilgaz Dağları kış turizmi:</strong> Yüksek dağ morfolojisi ve kar tutma süresi kış turizmi tesislerinin kurulmasını sağlamıştır."
   },
   {
     "id": "cogr_test_7-q2",
@@ -30273,7 +30273,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Balıkesir - Bingöl)<br><br>📌 <strong>Kentlerin Yükselti Analizi:</strong><br>• <strong>Balıkesir:</strong> Güney Marmara'da deniz seviyesine çok yakın, yaklaşık <strong>140-150 m</strong> ortalama yükseltiye sahip alçak bir ovadır.<br>• <strong>Bingöl:</strong> Doğu Anadolu'da dağlık ve engebeli arazide yaklaşık <strong>1.150 m</strong> ortalama merkez yükseltisine ve çevresinde 2000-2500 m'yi aşan dağlara sahiptir.<br>• İkisi arasındaki yükselti farkı yaklaşık <strong>1.000 metreyi aşarak</strong> seçenekler arasındaki en büyük farkı oluşturur.<br><br>🔍 <strong>Diğer Seçeneklerin İncelemesi:</strong><br>• <strong>Trabzon - İstanbul:</strong> Her ikisi de deniz kıyısındadır (Fark ~0-40 m).<br>• <strong>Kars - Ardahan:</strong> İkisi de Doğu Anadolu'nun yüksek lav platosunda yer alır (Kars ~1.760 m, Ardahan ~1.800 m, fark çok azdır).<br>• <strong>Ankara - Yozgat:</strong> İkisi de İç Anadolu platosundadır (Ankara ~900 m, Yozgat ~1.300 m, fark ~400 m).<br>• <strong>Adana - Denizli:</strong> Adana deniz seviyesindedir (0-30 m), Denizli yaklaşık 350-400 m'dir (Fark ~350 m)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Balıkesir - Bingöl)<br><br>📌 <strong>Kent Merkezlerinin Ortalama Yükselti Analizi:</strong><br>• <strong>Balıkesir:</strong> Güney Marmara'da deniz seviyesine çok yakın, ortalama <strong>140-150 metre</strong> yükseltide alçak bir ova üzerindedir.<br>• <strong>Bingöl:</strong> Doğu Anadolu'nun yüksek ve dağlık topoğrafyasında yaklaşık <strong>1.150 metre</strong> merkez yükseltiye sahiptir.<br>• İki kent arasındaki net yükselti farkı yaklaşık <strong>1.010 metredir</strong> ve seçenekler arasındaki en büyük yükselti farkını oluşturur.<br><br>🔍 <strong>Diğer Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Trabzon - İstanbul:</strong> Her ikisi de deniz kıyısı kentidir (Fark ~0-40 m).<br>• <strong>B) Adana - Denizli:</strong> Adana deniz seviyesindedir (~20 m), Denizli İç Ege'dedir (~400 m; fark ~380 m).<br>• <strong>C) Ankara - Yozgat:</strong> İkisi de İç Anadolu platosundadır (Ankara ~900 m, Yozgat ~1.300 m; fark ~400 m).<br>• <strong>D) Kars - Ardahan:</strong> İkisi de Doğu Anadolu lav platosundadır (Kars ~1.760 m, Ardahan ~1.800 m; fark yalnızca 40 m'dir)."
   },
   {
     "id": "cogr_test_7-q3",
@@ -30310,7 +30310,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)<br><br>📌 <strong>Yer Şekilleri ve Sonuçları:</strong><br>• <strong>I. Su Erozyonu:</strong> Arazinin eğimli ve engebeli olması, yüzey akışına geçen suların akış hızını ve taşıma gücünü artırarak üst toprak tabakasının hızla süpürülmesine (su erozyonuna) <strong>doğrudan neden olur</strong>.<br><br>🔍 <strong>Diğer Öncüller Neden Değildir?</strong><br>• <strong>II. Tarımda Sulama Sorunu:</strong> Öncelikle iklim şartlarına (kuraklık ve yağış azlığı) bağlıdır; yer şeklinin doğrudan sonucu değildir.<br>• <strong>III. Alüvyal Tabanlı Vadiler:</strong> Eğimin azaldığı düzlük alanlarda akarsuyun menderesler çizmesiyle oluşur; engebenin sonucu değil, düzleşmenin sonucudur.<br>• <strong>IV. Deprem Kuşağı:</strong> Levha sınırları ve fay hatları gibi <strong>jeolojik (iç kuvvetler)</strong> faktörlerle ilgilidir; yüzey yer şekilleriyle (engebeyle) hiçbir ilgisi yoktur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I - Su erozyonunun şiddetli olması)<br><br>📌 <strong>Yer Şekilleri ve Doğrudan Sonuçları:</strong><br>• <strong>I. Su Erozyonu:</strong> Arazinin dik ve engebeli olması, yüzey akışına geçen yağmur ve eriyen kar sularının hızını ve taşıma gücünü artırarak toprağın en verimli üst tabakasını süpürür. Engebeli topoğrafya su erozyonunun <strong>doğrudan ve birincil nedenidir</strong>.<br><br>🔍 <strong>Diğer Öncüller Neden Değildir?</strong><br>• <strong>II. Tarımda Sulama Sorunu:</strong> Sulama ihtiyacı yer şekillerinden değil, <strong>iklimsel kuraklıktan (yağış azlığı ve şiddetli buharlaşmadan)</strong> kaynaklanır. Örneğin çok dağlık ve engebeli Rize'de bol yağış sebebiyle sulama sorunu yaşanmazken; dümdüz olan Konya Ovası veya Harran'da şiddetli sulama sorunu yaşanır.<br>• <strong>III. Alüvyal Tabanlı Vadiler:</strong> Engebeli arazilerde değil, eğimin azaldığı düz tabanlı oluklarda oluşur.<br>• <strong>IV. Deprem Kuşağı:</strong> Yüzey yer şekilleriyle değil, yer kabuğu levha sınırları ve fay hatlarıyla (jeolojik yapı) ilgilidir."
   },
   {
     "id": "cogr_test_7-q4",
@@ -30347,7 +30347,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Barla Dağı - Kaçkar Dağları)<br><br>📌 <strong>Türkiye'de Buzul Şekilleri Görülen Dağlar:</strong><br>• Türkiye Orta Kuşak'ta yer aldığı için buzul şekilleri yalnızca 2.200 - 2.500 m'yi aşan yüksek dağ zirvelerinde oluşabilmiştir.<br>• <strong>Kaçkar Dağları (3.937 m):</strong> Türkiye'de buzul aşınım (sirk, hörgüç kaya) ve birikim (moren) şekillerinin en zengin olduğu dağ sırasıdır.<br>• <strong>Barla Dağı (2.800 m):</strong> Göller Yöresi / Batı Toroslar kuşağında yüksekliği 2.500 m'yi aştığı için buzul şekillerine ev sahipliği yapan dağlarımızdandır.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Istranca (Yıldız), Bozdağlar, Küre Dağları, Madra ve Menteşe Dağları:</strong> Yükseltileri 2.000 metrenin altında kaldığı için hiçbir dönemde buzul aşınım ve birikim şekli barındırmamışlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Barla Dağı - Kaçkar Dağları)<br><br>📌 <strong>Türkiye'de Buzul Şekilleri Görülen Dağlar:</strong><br>Türkiye Orta Kuşak'ta (subtropikal kuşak) yer aldığı için hiçbir zaman toptan buzullarla kaplanmamıştır; buzul aşınım (sirk çanağı, hörgüç kaya) ve birikim (moren) şekilleri yalnızca **yükseltisi 2.200 - 2.500 metreyi aşan yüksek dağ zirvelerinde** oluşabilmiştir.<br>• <strong>Kaçkar Dağları (3.937 m):</strong> Türkiye'de buzul göllerinin ve güncel buzulların en zengin olduğu dağ silsilesidir.<br>• <strong>Barla Dağı (2.800 m):</strong> Göller Yöresi'nde (Batı Toroslar) yüksekliği 2.500 m'yi aştığı için buzul aşınım şekillerine ev sahipliği yapar.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Istranca (Yıldız), Bozdağlar, Küre Dağları, Madra ve Menteşe Dağları:</strong> Yükseltileri 2.000 metrenin altında kaldığı için hiçbir dönemde buzul aşınım ve birikim şekli barındırmamışlardır."
   },
   {
     "id": "cogr_test_7-q5",
@@ -30384,7 +30384,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Sönmüş volkan konilerinin varlığı)<br><br>📌 <strong>İç Kuvvetlerin Sınıflandırılması:</strong><br>• <strong>Orojenez (Dağ Oluşumu):</strong> Levhaların sıkıştırması sonucu tortul tabakaların kıvrılması (antiklinal-senklinal) veya kırılması (horst-graben) ve buna bağlı fay hatlarının oluşması sürecidir.<br>• <strong>Volkanizma:</strong> Magmanın kabuktaki çatlaklardan yeryüzüne çıkmasıyla gerçekleşen ayrı bir iç kuvvettir. Sönmüş volkan konileri (Ağrı, Süphan, Erciyes vb.) orojenezle değil, <strong>volkanik püskürmelerle</strong> meydana gelmiştir.<br><br>🔍 <strong>Diğer Seçenekler:</strong><br>• Fay hatları, genç kıvrım/kırık dağları, yüksek eğim sebebiyle akarsuların yüksek akış hızları ve aşındırma güçleri doğrudan Alp-Himalaya orojenezi ve genç yükselmenin sonuçlarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Sönmüş volkan konilerinin varlığı)<br><br>📌 <strong>Orojenez (Dağ Oluşumu) vs. Volkanizma:</strong><br>Alp Orojenezi; tortul tabakaların levha hareketleriyle sıkışıp kıvrılması (Kuzey Anadolu Dağları ve Toroslar) veya kırılması sürecidir. Sönmüş volkan konileri (Ağrı, Süphan, Erciyes, Hasandağı vb.) orojenezle değil; magmanın kabuktaki çatlaklardan yeryüzüne çıkmasıyla meydana gelen <strong>Volkanizma</strong> faaliyetlerinin ürünüdür.<br><br>🔍 <strong>Alp Orojenezi ve Genç Yükselmenin Doğrudan Sonuçları:</strong><br>• <strong>A ve B) Fay hatları ve genç kıvrım/kırık kütleleri:</strong> Levha sıkıştırmasıyla tabakaların kırılması ve fayların oluşması orojenezin sonucudur.<br>• <strong>C ve E) Akarsuların akış hızları ve aşındırmaları:</strong> Orojenezle birlikte toptan yükselen arazide yatak eğimleri arttığı için akarsuların akış hızı ve aşındırma gücü çok fazladır."
   },
   {
     "id": "cogr_test_7-q6",
@@ -30421,7 +30421,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (III Numaralı Alan - Kaçkar Dağları / Rize)<br><br>📌 <strong>Orografik (Yamaç) Yağışı Mekanizması:</strong><br>• <strong>III Numaralı Alan (Doğu Karadeniz / Kaçkar Dağları):</strong> Dağlar kıyı çizgisinin hemen gerisinden itibaren aniden 3.900 metrelere yükselir ve kıyıya paralel uzanır. Karadeniz'den gelen nemli hava kütleleri bu dik yamaçlara çarparak hızla yükselir ve yılda 2.400 mm'yi aşan rekor orografik yağış bırakır (Rize Türkiye'nin en çok yağış alan ilidir).<br><br>🔍 <strong>Diğer Alanların Değerlendirmesi:</strong><br>• <strong>I (Yıldız Dağları):</strong> Yükseltisi azdır (yaklaşık 1.000 m).<br>• <strong>II (Orta Karadeniz / Canik Dağları):</strong> Yükseltisi azdır ve dağlar kıyıdan içeride başlar (yağış azdır).<br>• <strong>IV (Ege):</strong> Dağlar kıyıya dik uzandığı için hava kütleleri yükselmeden iç kesimlere sokulur.<br>• <strong>V (Çukurova kıyısı):</strong> Kıyı düzlüktür, dağlar kıyıdan çok geridedir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III Numaralı Alan - Kaçkar Dağları / Rize)<br><br>📌 <strong>Orografik (Yamaç) Yağışı Mekanizması:</strong><br>• <strong>III Numaralı Alan (Doğu Karadeniz / Kaçkar Dağları):</strong> Dağlar kıyı çizgisinin hemen gerisinde aniden ve kesintisiz biçimde **3.900 metrelere yükselir** ve Karadeniz'den gelen nemli rüzgarlara tam dik açıyla set çeker. Nemli hava kütleleri dik yamaç boyunca hızla yükselip soğur ve yılda 2.400 mm'yi aşan rekor seviyede <strong>orografik yağış</strong> bırakır (Rize Türkiye'nin en çok yağış alan ilidir).<br><br>🔍 <strong>Diğer Alanların Değerlendirmesi:</strong><br>• <strong>I (Yıldız Dağları):</strong> Yükseltisi azdır (~1.000 m), Kaçkarlar kadar yağış üretemez.<br>• <strong>II (Orta Karadeniz / Canik Dağları):</strong> Dağlar alçaktır ve kıyıdan çok içeridedir; yağış azdır.<br>• <strong>IV (Kıyı Ege):</strong> Dağlar kıyıya dik uzandığı için hava yükselmeden iç kesimlere akar.<br>• <strong>V (Çukurova kıyısı):</strong> Kıyı düzlüktür, dağlar kıyının çok gerisinde başlar."
   },
   {
     "id": "cogr_test_7-q7",
@@ -30458,7 +30458,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (III Numaralı Dağ - Erciyes Dağı)<br><br>📌 <strong>Kıvrım Dağları ve Volkanik Dağ Ayrımı:</strong><br>• <strong>III Numaralı Alan (Erciyes Dağı):</strong> İç Anadolu'da yer alan Erciyes bir kıvrım dağı değil, Neojen-Kuaterner döneminde lav ve tüflerin üst üste yığılmasıyla oluşmuş <strong>volkanik bir stratovolkandır</strong>.<br><br>🔍 <strong>Kıvrım Dağları Olan Diğer Seçenekler:</strong><br>• <strong>I:</strong> Batı Toroslar (Bey Dağları) - Kıvrım Dağı<br>• <strong>II:</strong> Orta Toroslar (Bolkar Dağları) - Kıvrım Dağı<br>• <strong>IV:</strong> Kuzey Anadolu Dağları (Küre Dağları) - Kıvrım Dağı<br>• <strong>V:</strong> Güneydoğu Toroslar / Cilo (Buzul) Dağı - Kıvrım Dağı"
+    "explanation": "Doğru Cevap: <strong>C</strong> (III Numaralı Dağ - Erciyes Dağı)<br><br>📌 <strong>Kıvrım Dağları ve Volkanik Dağ Ayrımı:</strong><br>• <strong>III Numaralı Alan (Erciyes Dağı - 3.917 m):</strong> İç Anadolu'da yer alan Erciyes bir kıvrım dağı değil; yer kabuğundaki çatlaklardan çıkan lav ve tüflerin üst üste yığılmasıyla oluşmuş <strong>volkanik bir stratovolkandır</strong>.<br><br>🔍 <strong>Kıvrım Dağları Olan Diğer Numaralı Alanlar:</strong><br>• <strong>I (Batı Toroslar / Bey Dağları):</strong> Alp orojeneziyle yükselmiş kıvrım dağıdır.<br>• <strong>II (Orta Toroslar / Bolkar Dağları):</strong> Tipik bir kıvrım dağı silsilesidir.<br>• <strong>IV (Kuzey Anadolu Dağları / Küre Dağları):</strong> Karadeniz kıvrım kuşağıdır.<br>• <strong>V (Güneydoğu Toroslar / Cilo Dağı):</strong> Levha sıkıştırmasıyla yükselmiş kıvrım dağıdır.<br><br>💡 <strong>İç Anadolu Volkanik Hattı:</strong> Karadağ → Karacadağ → Hasandağı → Melendiz → Erciyes."
   },
   {
     "id": "cogr_test_7-q8",
@@ -30495,7 +30495,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (V Numaralı Alan - Güneydoğu Anadolu Karacadağ)<br><br>📌 <strong>Kalkan Volkan (Shield Volcano) Morfolojisi:</strong><br>• Bazaltik lavların çok akışkan (düşük viskoziteli) olması durumunda, lavlar dik bir koni oluşturamadan kilometrelerce çevreye yayılır. Yüksekliği az ama tabanı son derece geniş olan bu yayvan şekle <strong>Kalkan Volkan</strong> denir.<br>• Türkiye'de kalkan volkan tipinin <strong>tek ve en kusursuz örneği Diyarbakır-Şanlıurfa sınırındaki Güneydoğu Karacadağ</strong> volkanıdır.<br><br>🔍 <strong>Diğer Volkanlar:</strong><br>• I (Kula - Cüruf konileri), II (Hasandağı/Erciyes - Stratovolkan), III (Ağrı - Tabakalı volkan), IV (Nemrut - Kaldera)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V Numaralı Alan - Güneydoğu Anadolu Karacadağ)<br><br>📌 <strong>Kalkan Volkan (Shield Volcano) Morfolojisi:</strong><br>Düşük viskoziteli (çok akışkan) bazaltik lavların püskürmesi durumunda lavlar dik bir koni oluşturamadan kilometrelerce çevreye yayılır. Yükseltisi az (1.957 m) ancak taban alanı 100 kilometreyi aşan yayvan kubbeye <strong>Kalkan Volkan</strong> denir. Türkiye'de bu morfolojinin <strong>tek ve en kusursuz örneği Diyarbakır-Şanlıurfa sınırındaki Güneydoğu Karacadağ</strong> volkanıdır (V numaralı alan).<br><br>🔍 <strong>Diğer Volkanik Alanlar:</strong><br>• <strong>I (Kula Volkanları):</strong> Cüruf konileri ve lav akıntılarıdır (Kalkan değildir).<br>• <strong>II (Erciyes / Hasandağı):</strong> Dik yamaçlı kompozit stratovolkanlardır.<br>• <strong>III (Ağrı Dağı):</strong> Yüksek koni şeklindeki tabakalı volkandır.<br>• <strong>IV (Nemrut Dağı):</strong> Zirvesinde devasa kaldera ve krater gölü bulunan volkandır."
   },
   {
     "id": "cogr_test_7-q9",
@@ -30532,7 +30532,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Amanos Dağları)<br><br>📌 <strong>Dağların Jeolojik Oluşum Türleri:</strong><br>• <strong>Amanos (Nur) Dağları:</strong> Doğu Anadolu Fay Hattı ve Ölü Deniz Fayı etkisiyle kırılarak yükselmiş bir <strong>HORST (Kırık Dağı)</strong> kütlesidir.<br>• <strong>Nurhak, Kaçkar, Bey ve Samanlı Dağları:</strong> Esnek tortul tabakaların yan basınçlarla kıvrılması sonucu oluşmuş <strong>Kıvrım Dağlarıdır (Antiklinal)</strong>."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Amanos Dağları)<br><br>📌 <strong>Dağların Jeolojik Oluşum Türleri:</strong><br>• <strong>Amanos (Nur) Dağları:</strong> Akdeniz Bölgesi'nde yer almasına rağmen kıvrım dağı değil; Doğu Anadolu ve Ölü Deniz Fay hatları boyunca sert blokların kırılarak yükselmesiyle oluşmuş bir <strong>HORST (Kırık Dağı)</strong> kütlesidir. Önündeki Amik Ovası ise bir grabendir.<br><br>🔍 <strong>Kıvrım Dağları Olan Diğer Seçenekler:</strong><br>• <strong>Nurhak, Kaçkar, Bey ve Samanlı Dağları:</strong> Esnek tortul tabakaların yan basınçlarla kıvrılması sonucu oluşmuş <strong>Kıvrım Dağlarıdır (Antiklinal)</strong>.<br><br>💡 <strong>Sınav Şifresi:</strong> Türkiye'deki kırık dağlar Ege'dedir. Ege DIŞINDAKİ tek kırık dağımız: <strong>Hatay'daki Amanos (Nur) Dağları</strong>dır!"
   },
   {
     "id": "cogr_test_7-q10",
@@ -30569,7 +30569,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (X: Yunt Dağı | Y: Bozdağlar | Z: Küçük Menderes)<br><br>📌 <strong>Ege Bölgesi Horst-Graben Sıralaması (Kuzeyden Güneye):</strong><br>1. Kazdağları (Horst)<br>— Edremit Grabeni<br>2. Madra Dağı (Horst)<br>— Bakırçay Grabeni<br>3. <strong>Yunt Dağı (X) (Horst)</strong><br>— <strong>Gediz Grabeni</strong> (Blokdiyagramda ortada yer alan çöküntü)<br>4. <strong>Bozdağlar (Y) (Horst)</strong><br>— <strong>Küçük Menderes Grabeni (Z)</strong><br>5. Aydın Dağları (Horst)<br>— Büyük Menderes Grabeni<br>6. Menteşe Dağları (Horst)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (X: Yunt Dağı | Y: Bozdağlar | Z: Küçük Menderes)<br><br>📌 <strong>Ege Bölgesi Horst-Graben Sıralaması (Kuzeyden Güneye):</strong><br>1. Kazdağları (Horst) — Edremit Grabeni<br>2. Madra Dağı (Horst) — Bakırçay Grabeni<br>3. <strong>Yunt Dağı (X) (Horst)</strong> — Gediz Grabeni (Blokdiyagramda ortadaki çöküntü)<br>4. <strong>Bozdağlar (Y) (Horst)</strong> — <strong>Küçük Menderes Grabeni (Z)</strong><br>5. Aydın Dağları (Horst) — Büyük Menderes Grabeni<br>6. Menteşe Dağları (Horst)<br><br>Dolayısıyla blokdiyagramdaki X = <strong>Yunt Dağı</strong>, Y = <strong>Bozdağlar</strong>, Z = <strong>Küçük Menderes Grabeni</strong> eşleşmesi tam olarak E seçeneğidir.<br><br>💡 <strong>Akılda Kalıcı Kodlama:</strong> <strong>KAZ</strong>ma <strong>MA</strong>drasını <strong>YUNT</strong>muş <strong>BOZ</strong> ayı <strong>AYDIN</strong>'da <strong>MENTEŞE</strong>lendi."
   },
   {
     "id": "cogr_test_7-q11",
@@ -30606,7 +30606,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Sakarya)<br><br>📌 <strong>Haritada Taranan Kıyı Şeridi ve Delta Analizi:</strong><br>• Haritada taranan alan <strong>Batı Karadeniz - Kocaeli/Sakarya kıyı kuşağıdır</strong>.<br>• Sakarya Nehri, Karadeniz'e döküldüğü yerde <strong>Karasu Deltası</strong>'nı (Sakarya Deltası) oluşturur.<br><br>🔍 <strong>Diğer Akarsular Neden Değildir?</strong><br>• <strong>Kızılırmak & Yeşilırmak:</strong> Orta Karadeniz'de (Samsun) sırasıyla Bafra ve Çarşamba deltalarını oluşturur.<br>• <strong>Meriç:</strong> Ege Denizi'ne dökülerek Enez Deltası'nı oluşturur.<br>• <strong>Filyos Çayı:</strong> Zonguldak kıyısında dökülür ancak belirgin bir delta ovası oluşturmamıştır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Sakarya Nehri)<br><br>📌 <strong>Karasu (Sakarya) Deltası Analizi:</strong><br>Haritada taranarak gösterilen kıyı şeridi <strong>Batı Karadeniz - Sakarya (Karasu) kıyı kuşağıdır</strong>. Sakarya Nehri, Karadeniz'e döküldüğü noktada taşıdığı alüvyonları sığ kıyıda biriktirerek <strong>Karasu Deltası'nı (Sakarya Deltası)</strong> meydana getirmiştir.<br><br>🔍 <strong>Diğer Akarsuların Neden Olmadığı:</strong><br>• <strong>A) Kızılırmak:</strong> Orta Karadeniz'de (Samsun) Bafra Deltası'nı oluşturur.<br>• <strong>C) Yeşilırmak:</strong> Orta Karadeniz'de (Samsun) Çarşamba Deltası'nı oluşturur.<br>• <strong>D) Meriç:</strong> Ege Denizi'ne dökülerek Enez Deltası'nı oluşturur.<br>• <strong>E) Filyos Çayı:</strong> Zonguldak kıyısında dökülür ancak güçlü akıntılar sebebiyle belirgin bir delta ovası oluşturamamıştır."
   },
   {
     "id": "cogr_test_7-q12",
@@ -30643,7 +30643,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Yağış biçimi)<br><br>📌 <strong>Akarsu Debisi ve Yağış Biçimi İlişkisi:</strong><br>• Doğu Anadolu Bölgesi'nde kış mevsiminde hava sıcaklıkları uzun süre sıfırın altında seyreder.<br>• Yağan yağışlar sıvı (yağmur) değil, katı yani <strong>kar şeklinde (yağış biçimi)</strong> düşer. Kar yerde aylarca donmuş halde birikir ve akarsu yatağına hemen katılamaz. Bu nedenle akarsuların kış debileri en düşük seviyeye geriler. İlkbahar ve yaz başında karlar eridiğinde ise debi maksimuma ulaşır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yağış biçimi)<br><br>📌 <strong>Akarsu Debisi ve Yağış Biçimi (Kar) İlişkisi:</strong><br>Doğu Anadolu akarsularının kış debilerinin dip yapmasının temel nedeni yağış miktarı değil; yağışın <strong>BİÇİMİ / CİNSİDİR (Kar şeklinde olmasıdır)</strong>:<br>• Bölgede kış mevsimi boyunca sıcaklıklar sıfırın altında (-15°C / -25°C) seyreder.<br>• Yağışlar sıvı yağmur değil, katı <strong>kar şeklinde</strong> düşer. Kar erimeden aylarca toprak üzerinde donmuş halde kalır; akarsu yatağına akamaz ve akarsu beslenemez. Bu nedenle akarsuların kış debileri en düşük seviyeye iner. İlkbahar sonu ve yaz başında karlar eridiğinde ise debi aniden maksimuma fırlar.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A) Yağış rejimi:</strong> Yağışın mevsimlere dağılımıdır; kışın yağış vardır ancak kar biçimindedir.<br>• <strong>C ve D) Anakaya ve sızma:</strong> Toprak kışın donuk olduğu için sızma olmaz.<br>• <strong>E) Buharlaşma şiddeti:</strong> Kışın buharlaşma sıfıra yakındır; buharlaşma yaz mevsiminde etkilidir."
   },
   {
     "id": "cogr_test_7-q13",
@@ -30680,7 +30680,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Dalaman Çayı)<br><br>📌 <strong>Mutlak (Matematik) Konum ve Akarsu Rejimi İlişkisi:</strong><br>• Akdeniz iklimi, Türkiye'nin 30°-40° enlemleri arasında (Orta Kuşak'ta) yer almasının, yani <strong>mutlak konumunun</strong> doğrudan bir sonucudur.<br>• <strong>Dalaman Çayı</strong> tipik bir Akdeniz rejimi sergiler; kışları Akdeniz cephesel yağışlarıyla coşar, yazları ise 30°-40° subtropikal yüksek basınç kuşağının yarattığı yaz kuraklığı sebebiyle çekilir. Bu karakteri doğrudan enlem/mutlak konum belirler."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Dalaman Çayı)<br><br>📌 <strong>Mutlak (Matematiksel) Konum ve Akarsu Rejimi:</strong><br><strong>Mutlak Konum</strong>, bir coğrafyanın dünya üzerindeki enlem derecesini ve buna bağlı genel iklim kuşağını ifade eder.<br>• <strong>Akdeniz İklimi</strong>, Türkiye'nin 30°-40° enlemleri arasında (Orta Kuşak / Subtropikal kuşak) yer almasının doğrudan ve mutlak bir sonucudur.<br>• <strong>Dalaman Çayı</strong> tipik bir Akdeniz akarsu rejimi sergiler: Kış aylarında 30°-40° enlemlerindeki gezici cephesel yağışlarla taşar; yazın ise 30° enlemindeki Dinamik Yüksek Basıncın yarattığı yaz kuraklığı sebebiyle suları çekilir. Bu karakteri doğrudan enlem/mutlak konum belirler.<br><br>🔍 <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B) Çoruh Nehri:</strong> Dağların uzanışı, deniz etkisinin kesilmesi ve kar erimeleri gibi **özel (göreceli) konum** şartlarına bağlıdır.<br>• <strong>A, D, E) Sakarya, Meriç, Karasu:</strong> Havza genişliği, topoğrafya ve yerel kar erimeleri gibi özel konum faktörlerinin karma etkisindedir."
   },
   {
     "id": "cogr_test_7-q14",
@@ -30717,7 +30717,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Aksu)<br><br>📌 <strong>Aksu Çayı Neden Delta Oluşturmaz?</strong><br>• <strong>Karstik Arazi:</strong> Aksu Çayı Batı Toroslar'daki karstik (kireçtaşı/kalker) arazilerden beslenir. Karstik kayaçlar akarsu suyunda eridiği için akarsu katı alüvyon yerine kimyasal eriyik taşır.<br>• <strong>Kıyı Derinliği ve Traverten:</strong> Antalya Körfezi hızla derinleşir (kıta sahanlığı dardır) ve eriyik kireç çökelerek delta değil, <strong>traverten basamakları ve falezler</strong> oluşturur.<br><br>🔍 <strong>Delta Oluşturanlar:</strong><br>• Kızılırmak -> Bafra Deltası<br>• Ceyhan -> Çukurova Deltası<br>• Göksu -> Silifke Deltası<br>• Meriç -> Enez Deltası"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Aksu Çayı)<br><br>📌 <strong>Aksu Çayı Neden Delta Oluşturmaz?</strong><br>Akarsuların denize döküldükleri yerde delta oluşturabilmesi için bol alüvyon taşıması ve kıyının sığ olması gerekir. <strong>Aksu Çayı (Antalya)</strong> delta oluşturamaz; çünkü:<br>1. <strong>Karstik Arazi (Litoloji):</strong> Aksu Çayı Batı Toroslar'daki kireçtaşı (kalker) arazisinden beslenir. Taşınan kireç suyun içinde kimyasal olarak erir; akarsu katı alüvyon tortusu taşıyamaz.<br>2. <strong>Kıyı Derinliği:</strong> Antalya Körfezi hızla derinleşir; katı alüvyon birikemez. Kireçli sular çökelerek delta yerine traverten basamakları ve falezler oluşturur.<br><br>🔍 <strong>Delta Oluşturan Akarsular:</strong><br>• <strong>B) Kızılırmak:</strong> Bafra Deltası'nı oluşturur.<br>• <strong>C) Meriç:</strong> Enez Deltası'nı oluşturur.<br>• <strong>D) Ceyhan:</strong> Çukurova Deltası'nı oluşturur.<br>• <strong>E) Göksu:</strong> Silifke Deltası'nı oluşturur.<br><br>💡 <strong>ÖSYM Kuralı:</strong> Akdeniz'de Seyhan-Ceyhan ve Göksu deltadır. Ancak **Aksu, Manavgat ve Dalaman** karstik eriyik taşıdıkları için delta OLUŞTURAMAZ!"
   },
   {
     "id": "cogr_test_7-q15",
@@ -30754,7 +30754,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II Numaralı Alan - Sakarya Nehri Havzası)<br><br>📌 <strong>Akarsu Kirliliği ve Sanayileşme:</strong><br>• <strong>II Numaralı Alan (Sakarya Nehri):</strong> Sakarya Nehri ve kolları (Porsuk Çayı, Çark Deresi), Türkiye'nin sanayi, fabrika ve nüfus yoğunluğunun en yüksek olduğu Marmara ve İçbatı Anadolu (Eskişehir, Bilecik, Sakarya) sanayi bölgelerinden geçer. Bu nedenle kimyasal ve evsel atık yükü en yüksek akarsulardan biridir.<br><br>🔍 <strong>Diğer Alanlar:</strong><br>• III (Fırat havzası), IV (Aras havzası), V (Dicle/Zap) ve I (Gediz kıyı kısmı); Sakarya kadar ağır sanayi atığına maruz kalmaz."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II Numaralı Alan - Sakarya Nehri Havzası)<br><br>📌 <strong>Akarsu Kirliliği ve Sanayileşme İlişkisi:</strong><br>• <strong>II Numaralı Alan (Sakarya Nehri Havzası):</strong> Sakarya Nehri ve kolları (Porsuk Çayı, Çark Deresi, Ankara Çayı); Türkiye'nin sanayi, fabrika, kimyasal tesis ve nüfus yoğunluğunun en yüksek olduğu Marmara ve İçbatı Anadolu (Eskişehir, Bilecik, Kocaeli, Sakarya) sanayi havzalarından geçer. Bu sebeple Türkiye'de kimyasal ve evsel atık yükü en yüksek akarsulardan biridir.<br><br>🔍 <strong>Diğer Alanların Değerlendirilmesi:</strong><br>• <strong>I (Gediz kıyı kısmı):</strong> Sanayi mevcuttur ancak Marmara sanayi kuşağı kadar yoğun değildir.<br>• <strong>III (Fırat havzası):</strong> Ağır sanayi tesisleri bulunmaz; tarımsal niteliktedir.<br>• <strong>IV (Aras havzası):</strong> Sanayi yoktur, sular temizdir.<br>• <strong>V (Dicle/Zap havzası):</strong> Sanayileşme yok denecek kadar azdır; kirlilik düşüktür."
   },
   {
     "id": "cogr_test_7-q16",
@@ -30791,7 +30791,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Denge profiline ulaşmışlardır)<br><br>📌 <strong>Denge Profili Kavramı:</strong><br>• <strong>Denge Profili:</strong> Bir akarsuyun yatağını deniz seviyesine kadar aşındırıp taban seviyesiyle eşitlemesi, yatak eğiminin tamamen sıfırlanması durumudur.<br>• Türkiye, III. Zaman sonu ve IV. Zaman başında (yakın jeolojik geçmişte) toptan yükselmiş genç bir ülke olduğu için akarsularımızın yatak eğimleri fazladır ve <strong>hiçbiri denge profiline ULAŞMAMIŞTIR</strong>. Üzerlerinde ulaşım ve taşımacılık yapılamaz."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Denge profiline ulaşmışlardır)<br><br>📌 <strong>Denge Profili Kavramı ve Türkiye:</strong><br>• <strong>Denge Profili:</strong> Bir akarsuyun yatağını deniz seviyesine kadar aşındırıp yatak eğimini neredeyse sıfırlaması, sakin akması ve üzerinde taşımacılık yapılabilir hale gelmesidir.<br>• Türkiye, III. Jeolojik Zaman sonu ve IV. Zaman başında (yakın jeolojik geçmişte) toptan yükselmiş <strong>genç ve yüksek</strong> bir ülke olduğu için akarsularımızın yatak eğimleri fazladır ve <strong>HİÇBİRİ DENGE PROFİLİNE ULAŞMAMIŞTIR</strong>. Üzerlerinde ulaşım yapılamaz.<br><br>🔍 <strong>Doğru İfadelerin Analizi:</strong><br>• <strong>A ve C) Akış hızları, aşındırma ve bulanıklık:</strong> Yatak eğimleri fazla olduğu için akış hızları ve aşındırma güçleri çok fazladır; bol alüvyon taşıdıklarından suları bulanık akar.<br>• <strong>B) Boyları kısadır:</strong> Türkiye yarımada olduğu ve dağlar kıyıya paralel uzandığı için akarsular hızla denize ulaşır; boyları genellikle kısadır.<br>• <strong>E) Rejimleri değişir:</strong> Akdeniz ve karasal iklim şartlarına bağlı olarak yaz kuraklığı ve ilkbahar erimeleri sebebiyle rejimleri yıl içinde dalgalanır."
   },
   {
     "id": "cogr_test_7-q17",
@@ -30828,7 +30828,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I Numaralı Alan - Ege Graben Tabanı / Büyük Menderes)<br><br>📌 <strong>Geniş Tabanlı Vadi ve Taşkın Mekanizması:</strong><br>• <strong>I Numaralı Alan (Ege Bölgesi / Büyük Menderes):</strong> Akarsu graben düzlüğünde aktığı için yatak eğimi yok denecek kadar azdır. Akarsu yana aşındırma yaparak geniş menderesler çizer ve sığ geniş tabanlı vadiler oluşturur. Yağışlı dönemlerde yatak suyu taşıyamaz ve hızla etraftaki tarım arazilerine taşar.<br><br>🔍 <strong>Diğer Alanlar:</strong><br>• II (Teke Yöresi), III (İç Anadolu kanyon/çentik vadiler), IV (Güneydoğu) ve V (Doğu Karadeniz / Çoruh havzası) eğimin ve derin vadilerin hakim olduğu, taşkın riskinin Ege düzlüklerine göre çok daha az olduğu alanlardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I Numaralı Alan - Ege Graben Tabanı / Büyük Menderes)<br><br>📌 <strong>Vadi Tipi ve Taşkın Mekanizması:</strong><br>• <strong>I Numaralı Alan (Kıyı Ege / Büyük Menderes Grabeni):</strong> Deniz seviyesine yakın, eğimin sıfıra yaklaştığı geniş bir tektonik graben düzlüğüdür. Akarsu derine aşındırma yapamaz; menderesler çizerek <strong>geniş ve sığ tabanlı vadilerde</strong> akar. Yatak derinliği çok az olduğu için yağışlı dönemlerde yatak suyu taşıyamaz ve hızla yanlara taşarak kilometrelerce genişlikteki tarım arazilerini su altında bırakır.<br><br>🔍 <strong>Diğer Alanların Neden Olmadığı:</strong><br>• <strong>II (Teke Yöresi):</strong> Kanyon vadiler ve engebeli arazi hakimdir; sular derin yatakta akar.<br>• <strong>III (İç Anadolu platosu):</strong> Ege grabenleri kadar sığ taşkın zeminine sahip değildir.<br>• <strong>IV (Güneydoğu Toroslar etekleri):</strong> Eğim fazladır.<br>• <strong>V (Doğu Karadeniz / Çoruh):</strong> Derin çentik (V) vadiler içinde aktığı için yüksek vadi duvarları taşkını engeller; sular çevreye taşamaz."
   },
   {
     "id": "cogr_test_7-q18",
@@ -30865,7 +30865,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (IV Numaralı Alan - Konya / Tuz Gölü Kapalı Havzası)<br><br>📌 <strong>Kapalı Havza Morfolojisi:</strong><br>• <strong>IV Numaralı Alan:</strong> Türkiye'nin en büyük kapalı havzası olan <strong>Konya - Tuz Gölü Kapalı Havzası</strong>'dır. Etrafının yüksek dağlarla (Toroslar) çevrili olması denizel nemin girmesini engellemiş, şiddetli buharlaşma ve az yağış ile birleşerek suların denize ulaşamayıp kapalı çanakta kalmasına neden olmuştur.<br><br>🔍 <strong>Diğer Alanlar:</strong><br>• I (Sakarya havzası -> Karadeniz'e dökülür, açık havza), II (Kelkit/Yeşilırmak -> Karadeniz'e dökülür, açık havza), III (Dicle havzası -> Basra Körfezi'ne dökülür, açık havza), V (Göller Yöresi içindeki açık drenaj alanları)."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV Numaralı Alan - Konya / Tuz Gölü Kapalı Havzası)<br><br>📌 <strong>Kapalı Havza Morfolojisi:</strong><br>• <strong>IV Numaralı Alan (Konya - Tuz Gölü Havzası):</strong> Türkiye'nin en büyük <strong>kapalı havzası</strong>dır.<br>1. <strong>Yer Şekilleri Etkisi:</strong> Havzanın etrafı yüksek dağ sıralarıyla (güneyde Toros Dağları) çevrelenmiştir; suların açık denizlere akması engellenmiştir.<br>2. <strong>İklim Etkisi:</strong> Yıllık yağışın en az olduğu (300-350 mm) ve buharlaşmanın şiddetli olduğu bir sahadır; sular denize ulaşamadan kurur veya çanakta toplanır.<br><br>🔍 <strong>Diğer Alanlar (Açık Havzalar):</strong><br>• <strong>I (Sakarya Havzası):</strong> Karadeniz'e dökülür (Açık havza).<br>• <strong>II (Yeşilırmak / Kelkit Havzası):</strong> Karadeniz'e dökülür (Açık havza).<br>• <strong>III (Dicle Havzası):</strong> Basra Körfezi üzerinden Hint Okyanusu'na ulaşır (Açık havza).<br>• <strong>V (Göksu Havzası):</strong> Akdeniz'e dökülür (Açık havza)."
   },
   {
     "id": "cogr_test_8-q1",
@@ -51997,558 +51997,558 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>A</strong> (Tezhip)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br><strong>Tezhip</strong>, İslamiyet'le birlikte ortaya çıkan Kur'an-ı Kerim ve yazma eserleri altın tozu ve boyalarla bezeme sanatıdır. İslamiyet öncesi Orta Asya Türklerinde tezhip sanatı bulunmaz.<br><br>🔍 <strong>Diğer Sanat Dalları:</strong><br>• <strong>Dokuma:</strong> Halı, kilim ve kumaş dokumacılığı Türklerin en eski sanatıdır.<br>• <strong>Mimari:</strong> Uygurlarla birlikte saray, tapınak ve kent mimarisi gelişmiştir.<br>• <strong>Resim:</strong> Uygur freskleri ve ressamları (bedizci) mevcuttur.<br>• <strong>Debbaklık:</strong> Hayvancılığa bağlı olarak deri işleme ve tabaklama sanatıdır."
   },
   {
-      "id": "tarih6-q1",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 1,
-      "questionText": "İlk Türk-İslam devletlerinde devletin iç ve dış yazışmalarından sorumlu olan divanın başında aşağıdakilerden hangisi bulunur?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Müstevfi"
-        },
-        {
-          "key": "B",
-          "text": "Emir-i arz"
-        },
-        {
-          "key": "C",
-          "text": "Tuğrai"
-        },
-        {
-          "key": "D",
-          "text": "Müşrif"
-        },
-        {
-          "key": "E",
-          "text": "Camedar"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong> (Tuğrai)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>İlk Türk-İslam devletlerinde (Karahanlı, Gazneli, Büyük Selçuklu) devletin iç ve dış yazışmalarını yürüten, ferman, berat ve menşurlara sultanın tuğrasını çeken kurum <strong>Divan-ı Tuğra (Divan-ı İnşa / Divan-ı Resail)</strong>'dır. Bu divanın başındaki en yetkili devlet adamına <strong>Tuğrai</strong> (veya Münşi) adı verilir.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Müstevfi:</strong> Devletin mali işlerinden, gelir-gider hesaplarından sorumlu olan <em>Divan-ı İstifa</em>'nın başkanıdır.<br>• <strong>B) Emir-i arz:</strong> Ordunun teftişi, mevcudu, silahlandırılması ve maaşlarından sorumlu olan <em>Divan-ı Arz</em>'ın başkanıdır.<br>• <strong>D) Müşrif:</strong> Devletin idari ve mali mekanizmasını denetleyen teftiş kurumu olan <em>Divan-ı İşraf</em>'ın başkanıdır.<br>• <strong>E) Camedar:</strong> Hükümdarın elbiselerinden ve giyiminden sorumlu saray görevlisidir; divan başkanı değil saray teşkilatı mensubudur.<br><br>💡 <strong>EKYS Sınav Püf Noktası:</strong> Yazışma = Tuğra/İnşa (Tuğrai), Maliye = İstifa (Müstevfi), Askerlik = Arz (Emir-i Arz), Denetim = İşraf (Müşrif)."
-    },
-    {
-      "id": "tarih6-q2",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 2,
-      "questionText": "Türk hükümdarlarının alametleri arasında yer alan \"nevbet\" kavramının anlamı aşağıdakilerden hangisidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Bayrak"
-        },
-        {
-          "key": "B",
-          "text": "Elbise"
-        },
-        {
-          "key": "C",
-          "text": "Davul"
-        },
-        {
-          "key": "D",
-          "text": "Çadır"
-        },
-        {
-          "key": "E",
-          "text": "Para"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong> (Davul)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Nevbet</strong>, İslamiyet öncesinden itibaren Türk devletlerinde hükümdarlık ve bağımsızlık alameti olarak kabul edilen, saray kapısında veya otağ önünde namaz vakitlerinde ve törenlerde çalınan <strong>hükümdarlık davulu / bando müziği</strong> geleneğidir. Osmanlı'daki mehter takımının tarihsel kökenini oluşturur.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Bayrak / Sancak:</strong> Hükümdarlık sembolü olarak <em>Alem, Tuğ veya Sancak</em> olarak adlandırılır.<br>• <strong>B) Elbise:</strong> Halifenin hükümdara gönderdiği resmi giysi/kaftan <em>Tıraz</em> veya <em>Hilat</em> olarak bilinir.<br>• <strong>D) Çadır:</strong> Hükümdarın resmi çadırı <em>Otağ</em>'dır.<br>• <strong>E) Para:</strong> Hükümdar adına bastırılan madeni para <em>Sikke</em>'dir.<br><br>💡 <strong>EKYS Sınav Notu:</strong> Hükümdarlık sembolleri arasında Nevbet (davul), Sikke (para), Otağ (çadır), Tuğ/Sancak (bayrak), Çetr (saltanat şemsiyesi), Hutbe ve Hilat en çok sorulan kavramlardır."
-    },
-    {
-      "id": "tarih6-q3",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 3,
-      "questionText": "Aşağıdaki kavramlardan hangisinin açıklaması yanlış verilmiştir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Hutbe: Cuma ve bayram namazları esnasında hükümdarın adının unvan ve lakaplarının hatip tarafından zikredilerek kendisine dua edilmesidir."
-        },
-        {
-          "key": "B",
-          "text": "Tıraz: Abbasi halifesinin hükümdara gönderdiği elbisedir."
-        },
-        {
-          "key": "C",
-          "text": "Hilat: Halife tarafından tırazla birlikte gönderilen hediyelik eşyalardır."
-        },
-        {
-          "key": "D",
-          "text": "Emir-i Arz: Askerî işlerden sorumlu görevlidir."
-        },
-        {
-          "key": "E",
-          "text": "Alemdar: Hükümdarın temizlik işlerinden sorumludur."
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": "Doğru Cevap: <strong>E</strong> (Alemdar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Alemdar</strong>; törenlerde, resmigeçitlerde ve savaş meydanında hükümdarın ve devletin sancağını, bayrağını (alem) taşımak ve korumakla görevli muhafızdır. Hükümdarın temizlik işlerinden, el ve ayak yıkama suyundan, leğen ve ibrik hizmetinden sorumlu olan saray görevlisi ise <strong>Taştdar</strong> (veya Abdar)'dır. Bu nedenle E şıkkındaki açıklama yanlıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik İncelemesi (Doğru Tanımlar):</strong><br>• <strong>A) Hutbe:</strong> İslamiyet ile birlikte gelen en mühim bağımsızlık alametidir; hükümdarın adı hatipçe dualarla anılır.<br>• <strong>B) Tıraz:</strong> Halifenin hükümdarın meşruiyetini tanımak üzere gönderdiği, üzerinde ayet veya hükümdar unvanı işlenmiş resmi hilattir/elbisedir.<br>• <strong>C) Hilat:</strong> Halife tarafından hükümdara gönderilen kaftan, kılıç, külah, at ve hediyeler takımıdır.<br>• <strong>D) Emir-i Arz:</strong> Divan-ı Arz'ın başkanı olup ordunun ihtiyaçları ve askerî işlerle yetkilidir."
-    },
-    {
-      "id": "tarih6-q4",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 4,
-      "questionText": "Türk-İslam devletlerinde saray ile divan arasında ilişkileri düzenleyen görevli aşağıdakilerden hangisidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Camedar"
-        },
-        {
-          "key": "B",
-          "text": "Hacibülhüccap"
-        },
-        {
-          "key": "C",
-          "text": "Serhenk"
-        },
-        {
-          "key": "D",
-          "text": "Emir-i şikâr"
-        },
-        {
-          "key": "E",
-          "text": "Çaşnigir"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Doğru Cevap: <strong>B</strong> (Hacibülhüccap)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Hacibü'l-Hüccab</strong> (Büyük Hacip / Ulu Hacip / Karahanlılarda Tayangu); saray teşkilatının en yetkili ve güvenilir amiridir. Hükümdar ile halk, divan üyeleri, vezirler ve yabancı elçiler arasındaki görüşmeleri, kabul protokolünü ve ilişkileri organize eder; saray nizamını ve teşrifat kurallarını denetler.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Camedar:</strong> Hükümdarın elbiselerinden sorumlu saray görevlisidir.<br>• <strong>C) Serhenk:</strong> Seferde ve törenlerde hükümdarın yolunu açan, alayları düzenleyen çavuş/koruma amiridir.<br>• <strong>D) Emir-i şikâr:</strong> Hükümdarın av partilerini ve av hayvanlarını düzenleyen görevlidir.<br>• <strong>E) Çaşnigir:</strong> Hükümdarın yiyeceklerinden ve sofra hizmetinden sorumlu baş tadımcıdır."
-    },
-    {
-      "id": "tarih6-q5",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 5,
-      "questionText": "Aşağıdaki kavram açıklama eşleştirmelerinden hangisi yanlıştır?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Emir-i şikâr – Yiyecek işlerine bakar"
-        },
-        {
-          "key": "B",
-          "text": "Hace-i buzug – Gaznelilerde vezirlere verilen ad"
-        },
-        {
-          "key": "C",
-          "text": "Emir-i ahur – Atlardan sorumlu"
-        },
-        {
-          "key": "D",
-          "text": "Camedar – Hükümdar elbiselerinden sorumlu"
-        },
-        {
-          "key": "E",
-          "text": "Vekil-i has – Sarayla ilgili tüm işlere bakan sorumlu"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": "Doğru Cevap: <strong>A</strong> (Emir-i şikâr – Yiyecek işlerine bakar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Emir-i Şikâr</strong>, hükümdarın av seferlerini, av kuşlarını ve köpeklerini organize eden görevlidir. Sarayın yiyecek, sofra ve mutfak işlerine bakan görevli ise <strong>Çaşnigir</strong> (veya Hansalar)'dır. Bu sebeple A şıkkındaki eşleştirme yanlıştır.<br><br>🔍 <strong>Doğru Eşleştirmelerin Pedagojik Açıklaması:</strong><br>• <strong>B) Hace-i Buzurg:</strong> Gazneli Devleti'nde hükümdardan sonra gelen en yetkili yönetici olan büyük vezire verilen unvandır.<br>• <strong>C) Emir-i Ahur (İlbaşı):</strong> Saray ahırlarından, hükümdarın ve saray erkanının atlarının bakımından sorumlu görevlidir.<br>• <strong>D) Camedar:</strong> Hükümdarın elbiselerinin dikimi, bakımı ve muhafazasından sorumlu görevlidir.<br>• <strong>E) Vekil-i Has:</strong> Sarayın iç idaresini yürüten, saray masraflarını ve personelini denetleyen üst düzey saray nazırıdır."
-    },
-    {
-      "id": "tarih6-q6",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 6,
-      "questionText": "Aşağıdakilerden hangisi Türklerin İslamiyet’e geçişiyle elde edilen kazanımlar arasında yer almaz?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Divan örgütü"
-        },
-        {
-          "key": "B",
-          "text": "İkta Sistemi"
-        },
-        {
-          "key": "C",
-          "text": "Vakıf kurumu"
-        },
-        {
-          "key": "D",
-          "text": "Şeri hukuk"
-        },
-        {
-          "key": "E",
-          "text": "İkili teşkilat"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": "Doğru Cevap: <strong>E</strong> (İkili teşkilat)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>İkili teşkilat</strong> (devletin Doğu-Batı veya Sağ-Sol şeklinde iki kanat halinde idare edilmesi), İslamiyet öncesi eski Orta Asya Türk devletlerinden (Asya Hunları, Kök Türkler) beri uygulanan geleneksel bir Türk devlet yönetimi biçimidir. İslamiyet ile kazanılmış bir kurum olmayıp kökeni İslam öncesi Türk töresine dayanır.<br><br>🔍 <strong>Türklerin İslamiyet'e Geçişiyle Hayatımıza Giren Kurumlar:</strong><br>• <strong>A) Divan örgütü:</strong> Abbasi ve Sasani modellerinden etkilenilerek kurulan merkezi hükümet ve bakanlıklar teşkilatıdır.<br>• <strong>B) İkta sistemi:</strong> Toprak mülkiyetinin devlete ait olup gelirlerinin hizmet ve asker besleme karşılığı memur ve komutanlara tahsis edildiği İslami sistemdir.<br>• <strong>C) Vakıf kurumu:</strong> Sosyal yardımlaşma, medrese, kervansaray ve şifahane yapımını finanse eden dini-sosyal kurumdur.<br>• <strong>D) Şeri hukuk:</strong> İslamiyet'in kabulüyle hukuk sistemine dahil olan, Kuran, sünnet, icma ve kıyasa dayalı dini hukuk dalıdır."
-    },
-    {
-      "id": "tarih6-q7",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 7,
-      "questionText": "Aşağıdakilerden hangisi Türk-İslam devletlerinde hükümdarlık sembolleri arasında yer almaz?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Hutbe"
-        },
-        {
-          "key": "B",
-          "text": "Tıraz"
-        },
-        {
-          "key": "C",
-          "text": "Para bastırmak"
-        },
-        {
-          "key": "D",
-          "text": "Ulufe"
-        },
-        {
-          "key": "E",
-          "text": "Nevbet"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": "Doğru Cevap: <strong>D</strong> (Ulufe)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Ulufe</strong> bir hükümdarlık alameti/sembolü değildir; Türk-İslam devletlerinde ve Osmanlı'da saray muhafızlarına, hassa ordusuna (kapıkulu askerlerine) üç ayda bir ödenen <strong>düzenli maaş</strong>ın adıdır.<br><br>🔍 <strong>Hükümdarlık Sembollerinin Analizi:</strong><br>• <strong>A) Hutbe:</strong> Cuma namazlarında hükümdarın adının ve unvanlarının okunması meşruiyet ve bağımsızlık ilanıdır.<br>• <strong>B) Tıraz:</strong> Halifenin hükümdara saltanatını onayladığını göstermek için gönderdiği özel işlemeli hilat/elbisedir.<br>• <strong>C) Para bastırmak (Sikke):</strong> Hükümdarın egemenliğini gösteren en somut iktisadi ve siyasi belgedir.<br>• <strong>E) Nevbet:</strong> Hükümdarın sarayında ve otağı önünde çalınan saltanat davuludur.<br>• <em>Diğer semboller:</em> Otağ, sancak, tuğ, çetr (şemsiye), menşur (halife onay belgesi), kemer (kur) ve yüzük."
-    },
-    {
-      "id": "tarih6-q8",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 8,
-      "questionText": "Selçuklularda uygulanan Gulam sisteminde ağırlıklı olarak hangi etnik kökenden gelen çocuklar kullanılmıştır?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Arap"
-        },
-        {
-          "key": "B",
-          "text": "İranlı (Fars)"
-        },
-        {
-          "key": "C",
-          "text": "Oğuz"
-        },
-        {
-          "key": "D",
-          "text": "Moğol"
-        },
-        {
-          "key": "E",
-          "text": "Hintli"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Doğru Cevap: <strong>B</strong> (İranlı / Fars)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Büyük Selçuklu Devleti İran coğrafyasında kurulup teşkilatlandığı için devlet bürokrasisinde, divan teşkilatında ve gulamhanelerde yetişen unsurlarda ağırlıklı olarak <strong>İranlı (Fars)</strong> kökenli çocuklar ve bölgedeki savaş esirleri kullanılmıştır. Bu durum Selçuklu saray ve edebiyat dilinin Farsça olmasında da belirleyici bir rol oynamıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>C) Oğuz:</strong> Oğuzlar devletin asli kurucu Türkmen unsurudur; gulam (kul/köle) statüsünde değil, ordu omurgası ve aşiret kuvvetleri olarak yer almışlardır.<br>• <strong>A, D, E) Arap, Moğol, Hintli:</strong> Selçuklu gulam sisteminin ana etnik insan kaynağını oluşturmazlar.<br><br>💡 <strong>EKYS Sınav Notu:</strong> Gulam sistemi; Karahanlı, Gazneli ve Selçuklularda uygulanmış; Osmanlı Devleti'ndeki Devşirme ve Kapıkulu sisteminin temel ilham kaynağı olmuştur."
-    },
-    {
-      "id": "tarih6-q9",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 9,
-      "questionText": "Gulamhanelerde eğitim gören çocuklardan yetenekli ve zeki olanlar hangi görevlerde kullanılmıştır?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Çiftçi ve tüccar"
-        },
-        {
-          "key": "B",
-          "text": "Kadı ve müderris"
-        },
-        {
-          "key": "C",
-          "text": "Yönetici ve komutan"
-        },
-        {
-          "key": "D",
-          "text": "Elçi ve tercüman"
-        },
-        {
-          "key": "E",
-          "text": "Zanaatkâr ve mimar"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong> (Yönetici ve komutan)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Gulamhanelerde eğitilen gulamların bir kısmı hükümdarın muhafız ordusu olan <strong>Gulamân-ı Saray</strong> (Hassa Ordusu) askeri olurken; zihni kabiliyeti ve liderlik vasfı yüksek olan seçkin gulamlar özel saray eğitimine tabi tutularak <strong>valilik, vezirlik, emir-i ahurluk, atabeylik ve ordu komutanlığı</strong> gibi en üst düzey idari ve askeri mevkilere getirilmiştir.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Çiftçi ve tüccar:</strong> Üretici halk sınıfıdır (reaya); gulamların serbest ticaret veya tarımla uğraşması söz konusu değildir.<br>• <strong>B) Kadı ve müderris:</strong> Medrese mezunu ilmiye sınıfı mensuplarıdır; şer'i hukuk ve dini ilimler icra ederler, gulam kökenli değillerdir.<br>• <strong>D ve E) Elçi, tercüman, mimar:</strong> Gulam sisteminin temel istihdam ve kariyer hedefi üst düzey ordu komutanlığı ve bürokrasi yöneticiliğidir."
-    },
-    {
-      "id": "tarih6-q10",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 10,
-      "questionText": "Selçukluların Gulam sistemini uygulamasının amaçları arasında aşağıdakilerden hangisi yer alır?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Göçebe yaşam tarzını yaygınlaştırmak"
-        },
-        {
-          "key": "B",
-          "text": "Türkmenlerin bağımsızlığını artırmak"
-        },
-        {
-          "key": "C",
-          "text": "Merkezi otoriteyi güçlendirmek"
-        },
-        {
-          "key": "D",
-          "text": "İkta sistemini ortadan kaldırmak"
-        },
-        {
-          "key": "E",
-          "text": "Abbasi halifesinin siyasi gücünü artırmak"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong> (Merkezi otoriteyi güçlendirmek)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Gulam sisteminin en temel siyasi gayesi; doğrudan hükümdara sadık, hiçbir aşiret veya boy bağı bulunmayan profesyonel bir saray muhafız ordusu ve bürokrasi kurmaktır. Böylece bağımsız hareket etmek isteyen Türkmen beylerinin ve taht kavgası çıkaran hanedan üyelerinin baskısı kırılarak <strong>merkezi otorite güvence altına alınmıştır</strong>.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A ve B:</strong> Selçuklu yönetimi göçebe Türkmenlerin başına buyruk hareketlerini engellemeye ve onları yerleşik düzene geçirerek merkeze bağlamaya çalışmıştır.<br>• <strong>D:</strong> Gulam sistemi ile ikta sistemi birbirini tamamlayan unsurlardır; ikta sistemini kaldırmak hedeflenmemiştir.<br>• <strong>E:</strong> Selçuklu sultanları halifeyi siyasi otorite olarak değil, dini bir sembol olarak kendi korumaları altında tutmuşlardır; halifenin siyasi gücünü artırmak amaçlanmamıştır."
-    },
-    {
-      "id": "tarih6-q11",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 11,
-      "questionText": "Gulam sisteminin Selçuklu Devleti üzerindeki kültürel etkisi aşağıdakilerden hangisidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Arap kültürünün tamamen ortadan kalkması"
-        },
-        {
-          "key": "B",
-          "text": "Bizans kültürünün yaygınlaşması"
-        },
-        {
-          "key": "C",
-          "text": "Farsça ve Fars kültürünün etkisinin artması"
-        },
-        {
-          "key": "D",
-          "text": "Türkçenin resmî dil hâline gelmesi"
-        },
-        {
-          "key": "E",
-          "text": "Çin sanatının yaygınlaşması"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong> (Farsça ve Fars kültürünün etkisinin artması)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Selçuklularda gulamların önemli bir kısmının İran kökenli unsurlardan seçilmesi, vezirlerin (Nizamülmülk gibi) Fars kökenli olması ve devlet bürokrasisinin İran topraklarında şekillenmesi; <strong>sarayda, yazışmalarda ve edebiyatta Farsça ve Fars kültürünün etkisinin belirgin şekilde artmasına</strong> yol açmıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A:</strong> Arapça din, ilim ve medrese dili olarak etkinliğini daima korumuştur.<br>• <strong>B:</strong> Bizans kültürü Anadolu'da kısmi mimari etkiler gösterse de Selçuklu gulam sisteminin kültürel sonucu değildir.<br>• <strong>D:</strong> Selçuklularda resmi dil Farsça olmuştur; Türkçeyi resmi dil ilan eden devlet Karamanoğulları (1277) ve Memlüklerdir.<br>• <strong>E:</strong> Çin sanatı İslamiyet öncesi Orta Asya Türk kültüründe etkilidir; Selçuklu dönemiyle ilgisi yoktur."
-    },
-    {
-      "id": "tarih6-q12",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 12,
-      "questionText": "Türk-İslam devletlerinde örfi davalara bakmakla görevli devlet görevlisi aşağıdakilerden hangisidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Kadı"
-        },
-        {
-          "key": "B",
-          "text": "Kadılkudat"
-        },
-        {
-          "key": "C",
-          "text": "Kadıasker"
-        },
-        {
-          "key": "D",
-          "text": "Emir-i Dâd"
-        },
-        {
-          "key": "E",
-          "text": "Hacip"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": "Doğru Cevap: <strong>D</strong> (Emir-i Dâd)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Türk-İslam devletlerinde hukuk; <em>Şer'i</em> ve <em>Örfi</em> olmak üzere ikiye ayrılır. Gelenek, görenek, töre, ferman ve devlet nizamına dayalı <strong>örfi mahkemelerin başkanı Emir-i Dâd (Dâdbek)</strong>'tır. Emir-i Dâd, devlet güvenliğini bozanları, asileri ve hatta gerekirse divan üyelerini dahi yargılama salahiyetine sahipti.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Kadı:</strong> Kuran ve sünnete dayalı <em>Şer'i davalara</em> (miras, evlenme, boşanma, ticaret) bakan yerel hakimdir.<br>• <strong>B) Kadılkudat:</strong> Şer'i yargı teşkilatının en üst amiri olan başkadıdır.<br>• <strong>C) Kadıasker (Kazasker):</strong> Ordu mensuplarının ve askerlerin davalarına bakan askeri hakimdir.<br>• <strong>E) Hacip:</strong> Hukuk görevlisi değil, hükümdar ile tebaa arasındaki protokolü yürüten saray yöneticisidir.<br><br>💡 <strong>Altın Kural:</strong> Şer'i Yargı Başkanı = <em>Kadılkudat</em>, Örfi Yargı Başkanı = <em>Emir-i Dâd</em>."
-    },
-    {
-      "id": "tarih6-q13",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 13,
-      "questionText": "Türk-İslam devletlerindeki hukuk görevlileriyle ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Kadı – Örfi davalar"
-        },
-        {
-          "key": "B",
-          "text": "Emir-i Dâd – Şer’i davalar"
-        },
-        {
-          "key": "C",
-          "text": "Kadıasker – Askerî davalar"
-        },
-        {
-          "key": "D",
-          "text": "Kadılkudat – Mali davalar"
-        },
-        {
-          "key": "E",
-          "text": "Hacip – Şer’i davalar"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong> (Kadıasker – Askerî davalar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Kadıasker</strong> (Kazasker), sefere çıkan orduda yer alan, askerlerin kendi aralarındaki ihtilafları, miras ve ceza davalarını çözüme kavuşturan <strong>askerî hâkim</strong>dir. C şıkkındaki eşleştirme kesinlikle doğrudur.<br><br>🔍 <strong>Yanlış Eşleştirmelerin Düzeltilmiş Hali:</strong><br>• <strong>A) Kadı:</strong> Örfi davalara değil, <em>Şer’i davalara</em> bakar.<br>• <strong>B) Emir-i Dâd:</strong> Şer’i davalara değil, <em>Örfi davalara</em> bakar.<br>• <strong>D) Kadılkudat:</strong> Mali davalara değil; şer'i yargı sisteminin bütününe başkanlık eden <em>Baş Kadı</em>dır (Maliye Müstevfi'nin işidir).<br>• <strong>E) Hacip:</strong> Hukuk görevlisi olmayıp <em>saray protokolü</em> ve hükümdarla irtibatı sağlayan üst düzey idarecidir."
-    },
-    {
-      "id": "tarih6-q14",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 14,
-      "questionText": "Türk-İslam devletlerinde hükümdarın başkanlık ettiği ve ağır siyasi suçlarla devlet görevlileri hakkındaki şikâyetlerin görüldüğü üst mahkeme aşağıdakilerden hangisidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Divan-ı İşraf"
-        },
-        {
-          "key": "B",
-          "text": "Divan-ı İnşa"
-        },
-        {
-          "key": "C",
-          "text": "Divan-ı İstifa"
-        },
-        {
-          "key": "D",
-          "text": "Divan-ı Arz"
-        },
-        {
-          "key": "E",
-          "text": "Divan-ı Mezalim"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": "Doğru Cevap: <strong>E</strong> (Divan-ı Mezalim)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Divan-ı Mezalim</strong>; bizzat hükümdarın (veya onun görevlendirdiği yüksek vekilin) başkanlık ettiği, Türk-İslam devletlerindeki en yüksek yargı ve temyiz organıdır. Kadıların kararlarına yapılan itirazlar, haksızlığa ve zulme uğrayan halkın şikayetleri, rüşvet alan veya görevi kötüye kullanan valiler/memurlar ile devlete isyan gibi ağır siyasi suçlar burada karara bağlanır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Divan-ı İşraf:</strong> Devletin idari ve mali hesaplarını teftiş eden denetim kuruludur (Başkanı: <em>Müşrif</em>).<br>• <strong>B) Divan-ı İnşa (Tuğra):</strong> Devletin iç ve dış yazışmalarından sorumludur (Başkanı: <em>Tuğrai</em>).<br>• <strong>C) Divan-ı İstifa:</strong> Devletin genel bütçe, gelir-gider ve vergi işlerine bakar (Başkanı: <em>Müstevfi</em>).<br>• <strong>D) Divan-ı Arz:</strong> Ordunun silah, teçhizat ve maaş işlerine bakar (Başkanı: <em>Emir-i Arz</em>)."
-    },
-    {
-      "id": "tarih6-q15",
-      "testId": "tarih6",
-      "testTitle": "Genel Tarih Video Tarama Testi 6",
-      "topicId": "tarih_tarama_6",
-      "topicName": "Genel Tarih Video Tarama 6",
-      "category": "Genel Kültür - Tarih",
-      "icon": "📜",
-      "questionNumber": 15,
-      "questionText": "Türk-İslam devletlerindeki hukuk sistemi hakkında;\nI. Şer’i ve örfi hukuk birlikte uygulanmıştır.\nII. Şer’i davalara kadılar bakmıştır.\nIII. Örfi hukukun temelini töre oluşturmuştur.\nyargılarından hangilerine ulaşılabilir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "Yalnız I"
-        },
-        {
-          "key": "B",
-          "text": "Yalnız II"
-        },
-        {
-          "key": "C",
-          "text": "I ve II"
-        },
-        {
-          "key": "D",
-          "text": "II ve III"
-        },
-        {
-          "key": "E",
-          "text": "I, II ve III"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Verilen öncüllerin her üçü de Türk-İslam hukukunun temel esaslarını tam olarak yansıtmaktadır:<br>• <strong>I. Öncül Doğrudur:</strong> Hukuk sistemi ikili bir yapıya sahiptir. Dini meselelerde Şer'i hukuk, devlet idaresi ve geleneklerde Örfi hukuk birlikte yürütülmüştür. Örfi kurallar şeriat esaslarına aykırı olamazdı.<br>• <strong>II. Öncül Doğrudur:</strong> Aile, miras, borçlar ve ceza davaları gibi şer'i meselelere doğrudan bağımsız <em>kadılar</em> bakmış, kadıların amiri de <em>Kadılkudat</em> olmuştur.<br>• <strong>III. Öncül Doğrudur:</strong> Örfi hukukun temel kaynağı İslamiyet öncesi Orta Asya Türk töresi ile hükümdarların çıkardığı fermanlar, yasalar ve buyruklardır.<br><br>Bu nedenle I, II ve III yargılarının tamamına ulaşılır."
-    }
+    "id": "tarih6-q1",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 1,
+    "questionText": "İlk Türk-İslam devletlerinde devletin iç ve dış yazışmalarından sorumlu olan divanın başında aşağıdakilerden hangisi bulunur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Müstevfi"
+      },
+      {
+        "key": "B",
+        "text": "Emir-i arz"
+      },
+      {
+        "key": "C",
+        "text": "Tuğrai"
+      },
+      {
+        "key": "D",
+        "text": "Müşrif"
+      },
+      {
+        "key": "E",
+        "text": "Camedar"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Tuğrai)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>İlk Türk-İslam devletlerinde (Karahanlı, Gazneli, Büyük Selçuklu) devletin iç ve dış yazışmalarını yürüten, ferman, berat ve menşurlara sultanın tuğrasını çeken kurum <strong>Divan-ı Tuğra (Divan-ı İnşa / Divan-ı Resail)</strong>'dır. Bu divanın başındaki en yetkili devlet adamına <strong>Tuğrai</strong> (veya Münşi) adı verilir.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Müstevfi:</strong> Devletin mali işlerinden, gelir-gider hesaplarından sorumlu olan <em>Divan-ı İstifa</em>'nın başkanıdır.<br>• <strong>B) Emir-i arz:</strong> Ordunun teftişi, mevcudu, silahlandırılması ve maaşlarından sorumlu olan <em>Divan-ı Arz</em>'ın başkanıdır.<br>• <strong>D) Müşrif:</strong> Devletin idari ve mali mekanizmasını denetleyen teftiş kurumu olan <em>Divan-ı İşraf</em>'ın başkanıdır.<br>• <strong>E) Camedar:</strong> Hükümdarın elbiselerinden ve giyiminden sorumlu saray görevlisidir; divan başkanı değil saray teşkilatı mensubudur.<br><br>💡 <strong>EKYS Sınav Püf Noktası:</strong> Yazışma = Tuğra/İnşa (Tuğrai), Maliye = İstifa (Müstevfi), Askerlik = Arz (Emir-i Arz), Denetim = İşraf (Müşrif)."
+  },
+  {
+    "id": "tarih6-q2",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 2,
+    "questionText": "Türk hükümdarlarının alametleri arasında yer alan \"nevbet\" kavramının anlamı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bayrak"
+      },
+      {
+        "key": "B",
+        "text": "Elbise"
+      },
+      {
+        "key": "C",
+        "text": "Davul"
+      },
+      {
+        "key": "D",
+        "text": "Çadır"
+      },
+      {
+        "key": "E",
+        "text": "Para"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Davul)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Nevbet</strong>, İslamiyet öncesinden itibaren Türk devletlerinde hükümdarlık ve bağımsızlık alameti olarak kabul edilen, saray kapısında veya otağ önünde namaz vakitlerinde ve törenlerde çalınan <strong>hükümdarlık davulu / bando müziği</strong> geleneğidir. Osmanlı'daki mehter takımının tarihsel kökenini oluşturur.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Bayrak / Sancak:</strong> Hükümdarlık sembolü olarak <em>Alem, Tuğ veya Sancak</em> olarak adlandırılır.<br>• <strong>B) Elbise:</strong> Halifenin hükümdara gönderdiği resmi giysi/kaftan <em>Tıraz</em> veya <em>Hilat</em> olarak bilinir.<br>• <strong>D) Çadır:</strong> Hükümdarın resmi çadırı <em>Otağ</em>'dır.<br>• <strong>E) Para:</strong> Hükümdar adına bastırılan madeni para <em>Sikke</em>'dir.<br><br>💡 <strong>EKYS Sınav Notu:</strong> Hükümdarlık sembolleri arasında Nevbet (davul), Sikke (para), Otağ (çadır), Tuğ/Sancak (bayrak), Çetr (saltanat şemsiyesi), Hutbe ve Hilat en çok sorulan kavramlardır."
+  },
+  {
+    "id": "tarih6-q3",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 3,
+    "questionText": "Aşağıdaki kavramlardan hangisinin açıklaması yanlış verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hutbe: Cuma ve bayram namazları esnasında hükümdarın adının unvan ve lakaplarının hatip tarafından zikredilerek kendisine dua edilmesidir."
+      },
+      {
+        "key": "B",
+        "text": "Tıraz: Abbasi halifesinin hükümdara gönderdiği elbisedir."
+      },
+      {
+        "key": "C",
+        "text": "Hilat: Halife tarafından tırazla birlikte gönderilen hediyelik eşyalardır."
+      },
+      {
+        "key": "D",
+        "text": "Emir-i Arz: Askerî işlerden sorumlu görevlidir."
+      },
+      {
+        "key": "E",
+        "text": "Alemdar: Hükümdarın temizlik işlerinden sorumludur."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Alemdar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Alemdar</strong>; törenlerde, resmigeçitlerde ve savaş meydanında hükümdarın ve devletin sancağını, bayrağını (alem) taşımak ve korumakla görevli muhafızdır. Hükümdarın temizlik işlerinden, el ve ayak yıkama suyundan, leğen ve ibrik hizmetinden sorumlu olan saray görevlisi ise <strong>Taştdar</strong> (veya Abdar)'dır. Bu nedenle E şıkkındaki açıklama yanlıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik İncelemesi (Doğru Tanımlar):</strong><br>• <strong>A) Hutbe:</strong> İslamiyet ile birlikte gelen en mühim bağımsızlık alametidir; hükümdarın adı hatipçe dualarla anılır.<br>• <strong>B) Tıraz:</strong> Halifenin hükümdarın meşruiyetini tanımak üzere gönderdiği, üzerinde ayet veya hükümdar unvanı işlenmiş resmi hilattir/elbisedir.<br>• <strong>C) Hilat:</strong> Halife tarafından hükümdara gönderilen kaftan, kılıç, külah, at ve hediyeler takımıdır.<br>• <strong>D) Emir-i Arz:</strong> Divan-ı Arz'ın başkanı olup ordunun ihtiyaçları ve askerî işlerle yetkilidir."
+  },
+  {
+    "id": "tarih6-q4",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 4,
+    "questionText": "Türk-İslam devletlerinde saray ile divan arasında ilişkileri düzenleyen görevli aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Camedar"
+      },
+      {
+        "key": "B",
+        "text": "Hacibülhüccap"
+      },
+      {
+        "key": "C",
+        "text": "Serhenk"
+      },
+      {
+        "key": "D",
+        "text": "Emir-i şikâr"
+      },
+      {
+        "key": "E",
+        "text": "Çaşnigir"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Hacibülhüccap)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Hacibü'l-Hüccab</strong> (Büyük Hacip / Ulu Hacip / Karahanlılarda Tayangu); saray teşkilatının en yetkili ve güvenilir amiridir. Hükümdar ile halk, divan üyeleri, vezirler ve yabancı elçiler arasındaki görüşmeleri, kabul protokolünü ve ilişkileri organize eder; saray nizamını ve teşrifat kurallarını denetler.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Camedar:</strong> Hükümdarın elbiselerinden sorumlu saray görevlisidir.<br>• <strong>C) Serhenk:</strong> Seferde ve törenlerde hükümdarın yolunu açan, alayları düzenleyen çavuş/koruma amiridir.<br>• <strong>D) Emir-i şikâr:</strong> Hükümdarın av partilerini ve av hayvanlarını düzenleyen görevlidir.<br>• <strong>E) Çaşnigir:</strong> Hükümdarın yiyeceklerinden ve sofra hizmetinden sorumlu baş tadımcıdır."
+  },
+  {
+    "id": "tarih6-q5",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 5,
+    "questionText": "Aşağıdaki kavram açıklama eşleştirmelerinden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Emir-i şikâr – Yiyecek işlerine bakar"
+      },
+      {
+        "key": "B",
+        "text": "Hace-i buzug – Gaznelilerde vezirlere verilen ad"
+      },
+      {
+        "key": "C",
+        "text": "Emir-i ahur – Atlardan sorumlu"
+      },
+      {
+        "key": "D",
+        "text": "Camedar – Hükümdar elbiselerinden sorumlu"
+      },
+      {
+        "key": "E",
+        "text": "Vekil-i has – Sarayla ilgili tüm işlere bakan sorumlu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Emir-i şikâr – Yiyecek işlerine bakar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Emir-i Şikâr</strong>, hükümdarın av seferlerini, av kuşlarını ve köpeklerini organize eden görevlidir. Sarayın yiyecek, sofra ve mutfak işlerine bakan görevli ise <strong>Çaşnigir</strong> (veya Hansalar)'dır. Bu sebeple A şıkkındaki eşleştirme yanlıştır.<br><br>🔍 <strong>Doğru Eşleştirmelerin Pedagojik Açıklaması:</strong><br>• <strong>B) Hace-i Buzurg:</strong> Gazneli Devleti'nde hükümdardan sonra gelen en yetkili yönetici olan büyük vezire verilen unvandır.<br>• <strong>C) Emir-i Ahur (İlbaşı):</strong> Saray ahırlarından, hükümdarın ve saray erkanının atlarının bakımından sorumlu görevlidir.<br>• <strong>D) Camedar:</strong> Hükümdarın elbiselerinin dikimi, bakımı ve muhafazasından sorumlu görevlidir.<br>• <strong>E) Vekil-i Has:</strong> Sarayın iç idaresini yürüten, saray masraflarını ve personelini denetleyen üst düzey saray nazırıdır."
+  },
+  {
+    "id": "tarih6-q6",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 6,
+    "questionText": "Aşağıdakilerden hangisi Türklerin İslamiyet’e geçişiyle elde edilen kazanımlar arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divan örgütü"
+      },
+      {
+        "key": "B",
+        "text": "İkta Sistemi"
+      },
+      {
+        "key": "C",
+        "text": "Vakıf kurumu"
+      },
+      {
+        "key": "D",
+        "text": "Şeri hukuk"
+      },
+      {
+        "key": "E",
+        "text": "İkili teşkilat"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (İkili teşkilat)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>İkili teşkilat</strong> (devletin Doğu-Batı veya Sağ-Sol şeklinde iki kanat halinde idare edilmesi), İslamiyet öncesi eski Orta Asya Türk devletlerinden (Asya Hunları, Kök Türkler) beri uygulanan geleneksel bir Türk devlet yönetimi biçimidir. İslamiyet ile kazanılmış bir kurum olmayıp kökeni İslam öncesi Türk töresine dayanır.<br><br>🔍 <strong>Türklerin İslamiyet'e Geçişiyle Hayatımıza Giren Kurumlar:</strong><br>• <strong>A) Divan örgütü:</strong> Abbasi ve Sasani modellerinden etkilenilerek kurulan merkezi hükümet ve bakanlıklar teşkilatıdır.<br>• <strong>B) İkta sistemi:</strong> Toprak mülkiyetinin devlete ait olup gelirlerinin hizmet ve asker besleme karşılığı memur ve komutanlara tahsis edildiği İslami sistemdir.<br>• <strong>C) Vakıf kurumu:</strong> Sosyal yardımlaşma, medrese, kervansaray ve şifahane yapımını finanse eden dini-sosyal kurumdur.<br>• <strong>D) Şeri hukuk:</strong> İslamiyet'in kabulüyle hukuk sistemine dahil olan, Kuran, sünnet, icma ve kıyasa dayalı dini hukuk dalıdır."
+  },
+  {
+    "id": "tarih6-q7",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 7,
+    "questionText": "Aşağıdakilerden hangisi Türk-İslam devletlerinde hükümdarlık sembolleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hutbe"
+      },
+      {
+        "key": "B",
+        "text": "Tıraz"
+      },
+      {
+        "key": "C",
+        "text": "Para bastırmak"
+      },
+      {
+        "key": "D",
+        "text": "Ulufe"
+      },
+      {
+        "key": "E",
+        "text": "Nevbet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ulufe)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Ulufe</strong> bir hükümdarlık alameti/sembolü değildir; Türk-İslam devletlerinde ve Osmanlı'da saray muhafızlarına, hassa ordusuna (kapıkulu askerlerine) üç ayda bir ödenen <strong>düzenli maaş</strong>ın adıdır.<br><br>🔍 <strong>Hükümdarlık Sembollerinin Analizi:</strong><br>• <strong>A) Hutbe:</strong> Cuma namazlarında hükümdarın adının ve unvanlarının okunması meşruiyet ve bağımsızlık ilanıdır.<br>• <strong>B) Tıraz:</strong> Halifenin hükümdara saltanatını onayladığını göstermek için gönderdiği özel işlemeli hilat/elbisedir.<br>• <strong>C) Para bastırmak (Sikke):</strong> Hükümdarın egemenliğini gösteren en somut iktisadi ve siyasi belgedir.<br>• <strong>E) Nevbet:</strong> Hükümdarın sarayında ve otağı önünde çalınan saltanat davuludur.<br>• <em>Diğer semboller:</em> Otağ, sancak, tuğ, çetr (şemsiye), menşur (halife onay belgesi), kemer (kur) ve yüzük."
+  },
+  {
+    "id": "tarih6-q8",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 8,
+    "questionText": "Selçuklularda uygulanan Gulam sisteminde ağırlıklı olarak hangi etnik kökenden gelen çocuklar kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Arap"
+      },
+      {
+        "key": "B",
+        "text": "İranlı (Fars)"
+      },
+      {
+        "key": "C",
+        "text": "Oğuz"
+      },
+      {
+        "key": "D",
+        "text": "Moğol"
+      },
+      {
+        "key": "E",
+        "text": "Hintli"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (İranlı / Fars)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Büyük Selçuklu Devleti İran coğrafyasında kurulup teşkilatlandığı için devlet bürokrasisinde, divan teşkilatında ve gulamhanelerde yetişen unsurlarda ağırlıklı olarak <strong>İranlı (Fars)</strong> kökenli çocuklar ve bölgedeki savaş esirleri kullanılmıştır. Bu durum Selçuklu saray ve edebiyat dilinin Farsça olmasında da belirleyici bir rol oynamıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>C) Oğuz:</strong> Oğuzlar devletin asli kurucu Türkmen unsurudur; gulam (kul/köle) statüsünde değil, ordu omurgası ve aşiret kuvvetleri olarak yer almışlardır.<br>• <strong>A, D, E) Arap, Moğol, Hintli:</strong> Selçuklu gulam sisteminin ana etnik insan kaynağını oluşturmazlar.<br><br>💡 <strong>EKYS Sınav Notu:</strong> Gulam sistemi; Karahanlı, Gazneli ve Selçuklularda uygulanmış; Osmanlı Devleti'ndeki Devşirme ve Kapıkulu sisteminin temel ilham kaynağı olmuştur."
+  },
+  {
+    "id": "tarih6-q9",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 9,
+    "questionText": "Gulamhanelerde eğitim gören çocuklardan yetenekli ve zeki olanlar hangi görevlerde kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çiftçi ve tüccar"
+      },
+      {
+        "key": "B",
+        "text": "Kadı ve müderris"
+      },
+      {
+        "key": "C",
+        "text": "Yönetici ve komutan"
+      },
+      {
+        "key": "D",
+        "text": "Elçi ve tercüman"
+      },
+      {
+        "key": "E",
+        "text": "Zanaatkâr ve mimar"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yönetici ve komutan)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Gulamhanelerde eğitilen gulamların bir kısmı hükümdarın muhafız ordusu olan <strong>Gulamân-ı Saray</strong> (Hassa Ordusu) askeri olurken; zihni kabiliyeti ve liderlik vasfı yüksek olan seçkin gulamlar özel saray eğitimine tabi tutularak <strong>valilik, vezirlik, emir-i ahurluk, atabeylik ve ordu komutanlığı</strong> gibi en üst düzey idari ve askeri mevkilere getirilmiştir.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Çiftçi ve tüccar:</strong> Üretici halk sınıfıdır (reaya); gulamların serbest ticaret veya tarımla uğraşması söz konusu değildir.<br>• <strong>B) Kadı ve müderris:</strong> Medrese mezunu ilmiye sınıfı mensuplarıdır; şer'i hukuk ve dini ilimler icra ederler, gulam kökenli değillerdir.<br>• <strong>D ve E) Elçi, tercüman, mimar:</strong> Gulam sisteminin temel istihdam ve kariyer hedefi üst düzey ordu komutanlığı ve bürokrasi yöneticiliğidir."
+  },
+  {
+    "id": "tarih6-q10",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 10,
+    "questionText": "Selçukluların Gulam sistemini uygulamasının amaçları arasında aşağıdakilerden hangisi yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Göçebe yaşam tarzını yaygınlaştırmak"
+      },
+      {
+        "key": "B",
+        "text": "Türkmenlerin bağımsızlığını artırmak"
+      },
+      {
+        "key": "C",
+        "text": "Merkezi otoriteyi güçlendirmek"
+      },
+      {
+        "key": "D",
+        "text": "İkta sistemini ortadan kaldırmak"
+      },
+      {
+        "key": "E",
+        "text": "Abbasi halifesinin siyasi gücünü artırmak"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Merkezi otoriteyi güçlendirmek)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Gulam sisteminin en temel siyasi gayesi; doğrudan hükümdara sadık, hiçbir aşiret veya boy bağı bulunmayan profesyonel bir saray muhafız ordusu ve bürokrasi kurmaktır. Böylece bağımsız hareket etmek isteyen Türkmen beylerinin ve taht kavgası çıkaran hanedan üyelerinin baskısı kırılarak <strong>merkezi otorite güvence altına alınmıştır</strong>.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A ve B:</strong> Selçuklu yönetimi göçebe Türkmenlerin başına buyruk hareketlerini engellemeye ve onları yerleşik düzene geçirerek merkeze bağlamaya çalışmıştır.<br>• <strong>D:</strong> Gulam sistemi ile ikta sistemi birbirini tamamlayan unsurlardır; ikta sistemini kaldırmak hedeflenmemiştir.<br>• <strong>E:</strong> Selçuklu sultanları halifeyi siyasi otorite olarak değil, dini bir sembol olarak kendi korumaları altında tutmuşlardır; halifenin siyasi gücünü artırmak amaçlanmamıştır."
+  },
+  {
+    "id": "tarih6-q11",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 11,
+    "questionText": "Gulam sisteminin Selçuklu Devleti üzerindeki kültürel etkisi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Arap kültürünün tamamen ortadan kalkması"
+      },
+      {
+        "key": "B",
+        "text": "Bizans kültürünün yaygınlaşması"
+      },
+      {
+        "key": "C",
+        "text": "Farsça ve Fars kültürünün etkisinin artması"
+      },
+      {
+        "key": "D",
+        "text": "Türkçenin resmî dil hâline gelmesi"
+      },
+      {
+        "key": "E",
+        "text": "Çin sanatının yaygınlaşması"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Farsça ve Fars kültürünün etkisinin artması)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Selçuklularda gulamların önemli bir kısmının İran kökenli unsurlardan seçilmesi, vezirlerin (Nizamülmülk gibi) Fars kökenli olması ve devlet bürokrasisinin İran topraklarında şekillenmesi; <strong>sarayda, yazışmalarda ve edebiyatta Farsça ve Fars kültürünün etkisinin belirgin şekilde artmasına</strong> yol açmıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A:</strong> Arapça din, ilim ve medrese dili olarak etkinliğini daima korumuştur.<br>• <strong>B:</strong> Bizans kültürü Anadolu'da kısmi mimari etkiler gösterse de Selçuklu gulam sisteminin kültürel sonucu değildir.<br>• <strong>D:</strong> Selçuklularda resmi dil Farsça olmuştur; Türkçeyi resmi dil ilan eden devlet Karamanoğulları (1277) ve Memlüklerdir.<br>• <strong>E:</strong> Çin sanatı İslamiyet öncesi Orta Asya Türk kültüründe etkilidir; Selçuklu dönemiyle ilgisi yoktur."
+  },
+  {
+    "id": "tarih6-q12",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 12,
+    "questionText": "Türk-İslam devletlerinde örfi davalara bakmakla görevli devlet görevlisi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kadı"
+      },
+      {
+        "key": "B",
+        "text": "Kadılkudat"
+      },
+      {
+        "key": "C",
+        "text": "Kadıasker"
+      },
+      {
+        "key": "D",
+        "text": "Emir-i Dâd"
+      },
+      {
+        "key": "E",
+        "text": "Hacip"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Emir-i Dâd)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Türk-İslam devletlerinde hukuk; <em>Şer'i</em> ve <em>Örfi</em> olmak üzere ikiye ayrılır. Gelenek, görenek, töre, ferman ve devlet nizamına dayalı <strong>örfi mahkemelerin başkanı Emir-i Dâd (Dâdbek)</strong>'tır. Emir-i Dâd, devlet güvenliğini bozanları, asileri ve hatta gerekirse divan üyelerini dahi yargılama salahiyetine sahipti.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Kadı:</strong> Kuran ve sünnete dayalı <em>Şer'i davalara</em> (miras, evlenme, boşanma, ticaret) bakan yerel hakimdir.<br>• <strong>B) Kadılkudat:</strong> Şer'i yargı teşkilatının en üst amiri olan başkadıdır.<br>• <strong>C) Kadıasker (Kazasker):</strong> Ordu mensuplarının ve askerlerin davalarına bakan askeri hakimdir.<br>• <strong>E) Hacip:</strong> Hukuk görevlisi değil, hükümdar ile tebaa arasındaki protokolü yürüten saray yöneticisidir.<br><br>💡 <strong>Altın Kural:</strong> Şer'i Yargı Başkanı = <em>Kadılkudat</em>, Örfi Yargı Başkanı = <em>Emir-i Dâd</em>."
+  },
+  {
+    "id": "tarih6-q13",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 13,
+    "questionText": "Türk-İslam devletlerindeki hukuk görevlileriyle ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kadı – Örfi davalar"
+      },
+      {
+        "key": "B",
+        "text": "Emir-i Dâd – Şer’i davalar"
+      },
+      {
+        "key": "C",
+        "text": "Kadıasker – Askerî davalar"
+      },
+      {
+        "key": "D",
+        "text": "Kadılkudat – Mali davalar"
+      },
+      {
+        "key": "E",
+        "text": "Hacip – Şer’i davalar"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kadıasker – Askerî davalar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Kadıasker</strong> (Kazasker), sefere çıkan orduda yer alan, askerlerin kendi aralarındaki ihtilafları, miras ve ceza davalarını çözüme kavuşturan <strong>askerî hâkim</strong>dir. C şıkkındaki eşleştirme kesinlikle doğrudur.<br><br>🔍 <strong>Yanlış Eşleştirmelerin Düzeltilmiş Hali:</strong><br>• <strong>A) Kadı:</strong> Örfi davalara değil, <em>Şer’i davalara</em> bakar.<br>• <strong>B) Emir-i Dâd:</strong> Şer’i davalara değil, <em>Örfi davalara</em> bakar.<br>• <strong>D) Kadılkudat:</strong> Mali davalara değil; şer'i yargı sisteminin bütününe başkanlık eden <em>Baş Kadı</em>dır (Maliye Müstevfi'nin işidir).<br>• <strong>E) Hacip:</strong> Hukuk görevlisi olmayıp <em>saray protokolü</em> ve hükümdarla irtibatı sağlayan üst düzey idarecidir."
+  },
+  {
+    "id": "tarih6-q14",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 14,
+    "questionText": "Türk-İslam devletlerinde hükümdarın başkanlık ettiği ve ağır siyasi suçlarla devlet görevlileri hakkındaki şikâyetlerin görüldüğü üst mahkeme aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divan-ı İşraf"
+      },
+      {
+        "key": "B",
+        "text": "Divan-ı İnşa"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı İstifa"
+      },
+      {
+        "key": "D",
+        "text": "Divan-ı Arz"
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı Mezalim"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Divan-ı Mezalim)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Divan-ı Mezalim</strong>; bizzat hükümdarın (veya onun görevlendirdiği yüksek vekilin) başkanlık ettiği, Türk-İslam devletlerindeki en yüksek yargı ve temyiz organıdır. Kadıların kararlarına yapılan itirazlar, haksızlığa ve zulme uğrayan halkın şikayetleri, rüşvet alan veya görevi kötüye kullanan valiler/memurlar ile devlete isyan gibi ağır siyasi suçlar burada karara bağlanır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Divan-ı İşraf:</strong> Devletin idari ve mali hesaplarını teftiş eden denetim kuruludur (Başkanı: <em>Müşrif</em>).<br>• <strong>B) Divan-ı İnşa (Tuğra):</strong> Devletin iç ve dış yazışmalarından sorumludur (Başkanı: <em>Tuğrai</em>).<br>• <strong>C) Divan-ı İstifa:</strong> Devletin genel bütçe, gelir-gider ve vergi işlerine bakar (Başkanı: <em>Müstevfi</em>).<br>• <strong>D) Divan-ı Arz:</strong> Ordunun silah, teçhizat ve maaş işlerine bakar (Başkanı: <em>Emir-i Arz</em>)."
+  },
+  {
+    "id": "tarih6-q15",
+    "testId": "tarih6",
+    "testTitle": "Genel Tarih Video Tarama Testi 6",
+    "topicId": "tarih_tarama_6",
+    "topicName": "Genel Tarih Video Tarama 6",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 15,
+    "questionText": "Türk-İslam devletlerindeki hukuk sistemi hakkında;\nI. Şer’i ve örfi hukuk birlikte uygulanmıştır.\nII. Şer’i davalara kadılar bakmıştır.\nIII. Örfi hukukun temelini töre oluşturmuştur.\nyargılarından hangilerine ulaşılabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Verilen öncüllerin her üçü de Türk-İslam hukukunun temel esaslarını tam olarak yansıtmaktadır:<br>• <strong>I. Öncül Doğrudur:</strong> Hukuk sistemi ikili bir yapıya sahiptir. Dini meselelerde Şer'i hukuk, devlet idaresi ve geleneklerde Örfi hukuk birlikte yürütülmüştür. Örfi kurallar şeriat esaslarına aykırı olamazdı.<br>• <strong>II. Öncül Doğrudur:</strong> Aile, miras, borçlar ve ceza davaları gibi şer'i meselelere doğrudan bağımsız <em>kadılar</em> bakmış, kadıların amiri de <em>Kadılkudat</em> olmuştur.<br>• <strong>III. Öncül Doğrudur:</strong> Örfi hukukun temel kaynağı İslamiyet öncesi Orta Asya Türk töresi ile hükümdarların çıkardığı fermanlar, yasalar ve buyruklardır.<br><br>Bu nedenle I, II ve III yargılarının tamamına ulaşılır."
+  }
 ];
