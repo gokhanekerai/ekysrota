@@ -26907,33 +26907,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 1,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q1.png",
+    "questionText": "Türkiye'nin dünya üzerindeki yerini belirlemede mutlak ve göreceli konum kullanılır.\n\nAşağıdaki ifadelerden hangisi Türkiye'nin göreceli konumu ile ilgili değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Aynı anda farklı iklim tiplerinin görülmesi"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ankara'dan Erzurum'a doğru gittikçe sıcaklık değerlerinin azalması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ortalama yükselti fazla olduğu için akarsuların akış hızlarının fazla olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Akdeniz kıyılarından Karadeniz kıyılarına doğru gittikçe sıcaklığın düzenli bir şekilde azalması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yarımada özelliğine bağlı olarak deniz turizminin ve balıkçılığın varlığı"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Akdeniz kıyılarından Karadeniz kıyılarına doğru gittikçe sıcaklığın düzenli bir şekilde azalması)<br><br>📌 <strong>Mutlak (Matematik) vs Göreceli (Özel) Konum:</strong><br>• Akdeniz'den Karadeniz'e (güneyden kuzeye) gidildikçe Güneş ışınlarının geliş açısının daralması ve buna bağlı olarak sıcaklığın düzenli azalması <strong>Enlem (Mutlak Konum)</strong> sonucudur.<br><br>❌ <strong>Göreceli Konum Olan Seçenekler:</strong><br>• <strong>A) Aynı anda farklı iklim tiplerinin görülmesi:</strong> Yer şekilleri ve yükselti çeşitliliği.<br>• <strong>B) Ankara'dan Erzurum'a gidildikçe sıcaklığın düşmesi:</strong> Batıdan doğuya yükselti artışı.<br>• <strong>C) Akarsuların akış hızının fazla olması:</strong> Ortalama yükselti ve eğim fazlalığı.<br>• <strong>E) Deniz turizmi ve balıkçılık:</strong> Üç tarafının denizlerle çevrili olması (Yarımada)."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Akdeniz kıyılarından Karadeniz kıyılarına doğru gittikçe sıcaklığın düzenli bir şekilde azalması)<br><br>📌 <strong>Mutlak (Matematik) vs Göreceli (Özel) Konum:</strong><br>• Akdeniz'den Karadeniz'e (güneyden kuzeye) gidildikçe Güneş ışınlarının geliş açısının daralması ve buna bağlı olarak sıcaklığın düzenli azalması <strong>Enlem (Mutlak Konum)</strong> sonucudur.<br><br>❌ <strong>Göreceli Konum Olan Seçenekler:</strong><br>• <strong>A) Aynı anda farklı iklim tiplerinin görülmesi:</strong> Yer şekilleri ve yükselti çeşitliliği.<br>• <strong>B) Ankara'dan Erzurum'a gidildikçe sıcaklığın düşmesi:</strong> Batıdan doğuya yükselti artışı.<br>• <strong>C) Akarsuların akış hızının fazla olması:</strong> Ortalama yükselti ve eğim fazlalığı.<br>• <strong>E) Deniz turizmi ve balıkçılık:</strong> Üç tarafının denizlerle çevrili olması (Yarımada özelliği)."
   },
   {
     "id": "cogr_test_4-q2",
@@ -26944,29 +26944,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 2,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q2.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'nin göreceli konumunun sonuçlarından biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kış aylarında en düşük sıcaklıkların Doğu Anadolu Bölgesi'nde görülmesi"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İstanbul ve Çanakkale boğazlarına sahip olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Zengin bor minerali yataklarına sahip olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kış aylarında cephe yağışlarının etkili olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Dağların doğu-batı yönünde uzanması"
       }
     ],
     "correctAnswer": "D",
@@ -26981,29 +26981,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 3,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q3.png",
+    "questionText": "Bulgaristan'dan Türkiye'ye en işlek sınır kapısından giriş yaparak, Habur Sınır Kapısı'ndan tekrar yurt dışına çıkan bir araç sürücüsü, sırasıyla hangi sınır kapısından geçmiştir ve hangi ülkeye geçiş yapmıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İpsala - İran"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kapıkule - Irak"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Sarp - Gürcistan"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kapıkule - İran"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Dereköy - Suriye"
       }
     ],
     "correctAnswer": "B",
@@ -27018,29 +27018,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 4,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 4)",
+    "questionText": "Haritada gösterilen il merkezlerinin (İzmit, Trabzon, Balıkesir, Mersin, Sinop) hangi ikisi arasında yerel saat farkı en azdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_4_q4.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İzmit - Balıkesir"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Sinop - Trabzon"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Trabzon - Balıkesir"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sinop - Mersin"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "İzmit - Mersin"
       }
     ],
     "correctAnswer": "D",
@@ -27055,29 +27055,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 5,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q5.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'nin mutlak konumunun sonuçlarından biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Aynı anda tek ortak saat kullanılması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Dört mevsimin belirgin olarak görülmesi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Aynı anda farklı iklim özelliklerinin görülmesi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kıyılarımız boyunca güneyden kuzeye doğru sıcaklığın azalması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Güneş ışınlarının düz zeminlere dik açıyla gelmemesi"
       }
     ],
     "correctAnswer": "C",
@@ -27092,29 +27092,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 6,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 6)",
+    "questionText": "Türkiye dönencelerin dışında yer aldığı için düz zeminlerde cisimlerin gölge boyları sıfır olmaz. Bununla birlikte gölge uzunlukları merkezlere göre yıl içinde değişir.\n\nYukarıdaki haritada işaretli alanların (I: Sinop, II: Çanakkale/Ege, III: İç Anadolu, IV: Akdeniz, V: Güneydoğu) hangisinde gölge boyu yıl boyunca daha uzundur?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_4_q6.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
@@ -27129,29 +27129,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 7,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q7.png",
+    "questionText": "Türkiye, mutlak konuma bağlı orta kuşak ülkesidir. Bu durum ülkede dört mevsim özelliğinin yaşanmasında temel sebeptir.\n\nBuna göre;\nI. Tarım ürünlerinin çeşitlilik göstermesi\nII. Doğal bitki örtüsünün çeşitlilik göstermesi\nIII. Yaz ve kış turizmine elverişli olması\nIV. Kuzeye gittikçe gölge boylarının uzaması\ngibi durumlardan hangileri yukarıda verilen açıklamaya bağlı olarak ortaya çıkmaz?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız IV"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve II"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II, III ve IV"
       }
     ],
     "correctAnswer": "B",
@@ -27166,29 +27166,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 8,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 8)",
+    "questionText": "Dünya üzerinde herhangi bir yerin kıtalara, komşularına, önemli geçitlere, boğazlara, su yollarına, ticaret merkezlerine ve denizlere göre durumu ile fiziki ve beşerî özellikleri o yerin göreceli konumunu belirler.\n\nBuna göre yukarıda verilen Türkiye haritasında A merkezinden (Ege kıyıları) B merkezine (Doğu Anadolu) hareket edildiğinde özel konuma bağlı olarak;\nI. Buharlaşma oranı azalır.\nII. Öğle vaktinde güneş ışığının tutulma oranı eşittir.\nIII. Karın yerde kalma süresi değişir.\nIV. Gündüz süreleri eşittir.\ngibi durumlardan hangileri ortaya çıkar?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_4_q8.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "III ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I, III ve IV"
       }
     ],
     "correctAnswer": "B",
@@ -27203,29 +27203,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 9,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q9.png",
+    "questionText": "Türkiye'nin mutlak konumu dikkate alındığında aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Ülkede dört mevsim belirgin yaşanır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Güneye doğru gidildikçe alacakaranlık süresi azalır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kuzeye gidildikçe güneş ışığının tutulma oranı azalır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Güneş ışınları düz zeminlere dik açıyla gelmez."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kış döneminde cephe yağışları etkilidir."
       }
     ],
     "correctAnswer": "C",
@@ -27240,33 +27240,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 10,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 10)",
+    "questionText": "Haritada numaralandırılmış merkezlerle (I: Sinop, II: Orta Karadeniz, III: Iğdır/Doğu, IV: Akdeniz kıyısı) ilgili aşağıdakilerden hangisi yanlıştır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_4_q10.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "III merkezinde yerel saat ile ortak saat arasındaki fark en azdır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I merkezinde 21 Haziran tarihinde gece süresi en kısadır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II merkezinde gece-gündüz süre farkı tüm yıl boyunca IV merkezinden fazladır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II merkezinde güneş ışığının atmosferde aldığı yol IV merkezinden daha uzundur."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "IV merkezinde Güneş'in ufuktaki hızı (çizgisel hız) daha fazladır."
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (III merkezinde gece - gündüz süre farkı tüm yıl boyunca IV merkezinden fazladır)<br><br>📌 <strong>Ekinoks Tarihleri Kuralı:</strong><br>• 21 Mart ve 23 Eylül (Ekinoks) tarihlerinde Dünya'nın her yerinde 12 saat gündüz, 12 saat gece yaşanır ve gece-gündüz süre farkı <strong>tüm merkezlerde 0 (sıfır)</strong> olur. Dolayısıyla hiçbir merkezin gece-gündüz süre farkı 'tüm yıl boyunca' diğerinden fazla olamaz.<br><br>❌ <strong>Doğru Olan Yargılar:</strong><br>• <strong>A:</strong> III merkezi 45°D ulusal saat meridyenine en yakın yerdir, saat farkı en azdır.<br>• <strong>B:</strong> En kuzeydeki I merkezinde 21 Haziran'da gündüz en uzun, gece en kısadır.<br>• <strong>D:</strong> Kuzeydeki II merkezinde güneş ışınlarının atmosferde aldığı yol güneydeki IV'e göre daha uzundur.<br>• <strong>E:</strong> Güneydeki IV merkezinde çizgisel hız daha fazladır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (II merkezinde gece - gündüz süre farkı tüm yıl boyunca IV merkezinden fazladır)<br><br>📌 <strong>Ekinoks Tarihleri Kuralı:</strong><br>• 21 Mart ve 23 Eylül (Ekinoks) tarihlerinde Dünya'nın her yerinde 12 saat gündüz, 12 saat gece yaşanır ve gece-gündüz süre farkı <strong>tüm merkezlerde 0 (sıfır)</strong> olur. Dolayısıyla hiçbir merkezin gece-gündüz süre farkı 'tüm yıl boyunca' diğerinden fazla olamaz.<br><br>❌ <strong>Doğru Olan Yargılar:</strong><br>• <strong>A:</strong> III merkezi 45°D ulusal saat meridyenine en yakın yerdir, saat farkı en azdır.<br>• <strong>B:</strong> En kuzeydeki I merkezinde 21 Haziran'da gündüz en uzun, gece en kısadır.<br>• <strong>D:</strong> Kuzeydeki II merkezinde güneş ışınlarının atmosferde aldığı yol güneydeki IV'e göre daha uzundur.<br>• <strong>E:</strong> Güneydeki IV merkezinde çizgisel hız daha fazladır."
   },
   {
     "id": "cogr_test_4-q11",
@@ -27277,29 +27277,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 11,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q11.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'nin matematik (mutlak) konumuna bağlı olarak ortaya çıkmıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bolkar, Aladağ, Ağrı, Süphan gibi kütlelerde kalıcı karın bulunması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Anadolu'da frontal (cephesel) yağışın oluşumu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Karadeniz Bölgesi'nde orman alt sınırının en düşük olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "İç Anadolu Bölgesi'ne göre Karadeniz Bölgesi'nde hidroelektrik potansiyelin yüksek olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Alpin-Sibirya kökenli bitki örtüsünün varlığı"
       }
     ],
     "correctAnswer": "B",
@@ -27314,29 +27314,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 12,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q12.png",
+    "questionText": "Türkiye'de yer alan X ve Y merkezlerinin yıl boyunca yaşadığı öğle vakitleri aynıdır. Bu merkezlerde alacakaranlık süresi yıl içinde değişkenlik göstermesine rağmen ekinoks tarihlerinde Güneş'in doğuşu ve batışı aynı anda gerçekleşmektedir. 6 Temmuz tarihinde X merkezinde yaşanan gece süresi Y merkezine göre 12 dakika daha kısadır.\n\nYukarıda verilen açıklamaya göre X ve Y merkezleri ile ilgili verilen bilgilerden hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Y merkezinin bulunduğu paralel çapı X merkezine göre daha kısadır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "X merkezinde güneş ışınlarının tutulma oranı daha azdır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Y merkezinde bu tarihte Güneş daha erken batar."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Y merkezinde alacakaranlık süresi daha uzundur."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "X merkezinde gece-gündüz süre farkı değişimi daha azdır."
       }
     ],
     "correctAnswer": "C",
@@ -27351,29 +27351,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 13,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q13.png",
+    "questionText": "Muğla'dan Bartın'ın Çakrazova köyüne 15 günlüğüne tatile giden Rızvan Bey, köyünde gündüz süresinin Muğla'dan daha uzun olduğunu, ancak tatil süresi boyunca gündüz süresinin sürekli kısaldığını gözlemlemiştir.\n\nBuna göre Rızvan Bey, 15 günlük tatilini hangi tarihler arasında yapmış olabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "16 Mart - 30 Mart"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "19 Haziran - 3 Temmuz"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "21 Ekim - 4 Kasım"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "6 Eylül - 21 Eylül"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "22 Aralık - 5 Ocak"
       }
     ],
     "correctAnswer": "D",
@@ -27388,29 +27388,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 14,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 14)",
+    "questionText": "Haritada aynı enlem (40° Kuzey) üzerinde yer alan iki şehir merkezi (Balıkesir ve Erzincan) verilmiştir.\n\nBuna göre aşağıdakilerden hangisi bu merkezlerde kesinlikle aynıdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_4_q14.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Güneş'in doğuş saati"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Sıcaklık ortalamaları"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Matematik iklim kuşağı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Buharlaşma şiddeti"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "En çok yağış aldıkları dönem"
       }
     ],
     "correctAnswer": "C",
@@ -27425,29 +27425,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 15,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q15.png",
+    "questionText": "Gürcistan'dan Artvin üzerinden Türkiye'ye ve buradan da kara yoluyla doğrudan İran'a gidecek olan bir turist kafilesinin sırasıyla aşağıdaki sınır kapılarının hangilerinden geçmesi gerekir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sarp - Gürbulak"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kapıkule - Cilvegözü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Dilucu - Habur"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sarp - Cilvegözü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Gürbulak - Ceylanpınar"
       }
     ],
     "correctAnswer": "A",
@@ -27462,29 +27462,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 16,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q16.png",
+    "questionText": "İzmir'in merkez ilçesine bağlı bir köye kara yoluyla ulaşabilmek için ortalama 10 kilometre yol almak gerekirken, Kütahya'da kuş uçumu mesafesi aynı olan köye 15 kilometre yol almak gerekmektedir.\n\nBu durum, aşağıdakilerden hangisiyle açıklanabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yerleşme birimlerinin sıklığıyla"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Doğal bitki örtüsünün farklılığıyla"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İklim koşullarının farklılığıyla"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Tarım alanlarının genişliğiyle"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yer şekillerinin engebeliliğiyle"
       }
     ],
     "correctAnswer": "E",
@@ -27499,29 +27499,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 17,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q17.png",
+    "questionText": "Türkiye'nin kara sınırlarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kuzeybatıda Bulgaristan'la sınırı vardır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yunanistan'la olan sınırının büyük kısmını Meriç Nehri oluşturur."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Suriye'yle olan sınırının tamamında demir yolu vardır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "İran dışındaki diğer sınırlar Millî Mücadele sırasında ya da sonrasında imzalanan antlaşmalarla belirlenmiştir."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "En fazla ülkeyle doğu sınırında komşudur."
       }
     ],
     "correctAnswer": "C",
@@ -27536,33 +27536,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 18,
-    "questionText": "Coğrafi Konum ve Jeopolitik - Test 4: Coğrafi Konum & Jeopolitik (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_4_q18.png",
+    "questionText": "Aşağıdaki coğrafi koordinatlardan hangisi Türkiye sınırları içinde kalmaktadır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "28° Doğu - 35° Kuzey"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "40° Doğu - 30° Kuzey"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "38° Doğu - 28° Kuzey"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "36° Doğu - 38° Kuzey"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "26° Doğu - 45° Kuzey"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (36° Doğu 38° Kuzey)<br><br>📌 <strong>Türkiye'nin Matematik Konum Koordinatları:</strong><br>• <strong>Paraleller:</strong> 36° Kuzey - 42° Kuzey<br>• <strong>Meridyenler:</strong> 26° Doğu - 45° Doğu<br><br>Seçeneklerin Analizi:<br>• <strong>A) 28° Doğu, 35° Kuzey:</strong> 35°K Türkiye'nin güneyinde (Akdeniz'de) kalır.<br>• <strong>B) 40° Doğu, 30° Kuzey:</strong> 30°K Türkiye'nin çok güneyinde (Ortadoğu'da) kalır.<br>• <strong>C) 38° Doğu, 28° Kuzey:</strong> 28°K Türkiye sınırları dışındadır.<br>• <strong>D) 36° Doğu, 38° Kuzey:</strong> 36°D (26-45 aralığında) ve 38°K (36-42 aralığında) olup <strong>Türkiye sınırları içerisindedir</strong> (Kahramanmaraş/Gaziantep civarı).<br>• <strong>E) 26° Doğu, 45° Kuzey:</strong> 45°K Türkiye'nin kuzeyinde (Romanya civarı) kalır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (36° Doğu - 38° Kuzey)<br><br>📌 <strong>Türkiye'nin Matematik Konum Koordinatları:</strong><br>• <strong>Paraleller:</strong> 36° Kuzey - 42° Kuzey<br>• <strong>Meridyenler:</strong> 26° Doğu - 45° Doğu<br>• <strong>36° Doğu</strong> meridyeni (26°-45° D aralığında) ve <strong>38° Kuzey</strong> paraleli (36°-42° K aralığında) Türkiye sınırları içerisinde (Kayseri-Kahramanmaraş civarı) yer alır.<br><br>❌ <strong>Sınır Dışında Kalanlar:</strong><br>• A: 35°K (Güneyde, Akdeniz açıklarında kalır).<br>• B: 30°K (Mısır/Sina civarında kalır).<br>• C: 28°K (Kuzey Afrika'da kalır).<br>• E: 45°K (Kuzeyde, Romanya/Ukrayna civarında kalır)."
   },
   {
     "id": "cogr_test_2-q1",
@@ -30875,33 +30875,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 1)",
+    "questionText": "Yükseltinin fazla olduğu eğimli arazilerde akan akarsuların, hidroelektrik enerji potansiyelleri fazla olur.\n\nBuna göre, haritadaki işaretli merkezlerin hangisinden akan akarsuyun, hidroelektrik enerji potansiyeli daha azdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_8_q1.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Fırat, Dicle ve Çoruh)<br><br>📌 <strong>Hidroelektrik Potansiyeli En Yüksek Akarsular:</strong><br>• Doğu Anadolu ve Doğu Karadeniz'in sarp ve yüksek dağlık arazilerinden beslenen <strong>Fırat, Dicle ve Çoruh nehirleri</strong>, Türkiye'nin yatak eğimi, debisi ve hidroelektrik enerji üretim kapasitesi en yüksek nehirleridir.<br>• Üzerlerinde Atatürk, Keban, Karakaya, Ilısu (Veysel Eroğlu), Yusufeli ve Deriner gibi dev barajlar yer alır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Marmara / Ergene Havzası)<br><br>📌 <strong>Akarsularda Hidroelektrik Enerji Potansiyeli:</strong><br>• Bir akarsuyun hidroelektrik potansiyeli; aktığı arazinin <strong>yatak eğimine, ortalama yükseltisine ve akış hızına</strong> doğrudan bağlıdır.<br>• Haritada IV numarayla gösterilen Marmara (Ergene Havzası) arazisi ortalama yükseltisi ve eğimi en az olan yerdir; akarsular menderes çizerek yavaş akar, bu nedenle hidroelektrik enerji potansiyeli en düşüktür.<br>• Doğu Anadolu ve Doğu Karadeniz ise yükselti ve eğim nedeniyle en yüksek potansiyele sahiptir."
   },
   {
     "id": "cogr_test_8-q2",
@@ -30912,33 +30912,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q2.png",
+    "questionText": "Akarsuyun taşıdığı materyalleri denize ulaştıkları yerde biriktirmesi sonucunda, Milet antik kenti liman kenti özelliğini kaybetmiştir.\n\nBu duruma neden olan akarsu, aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Küçük Menderes"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Büyük Menderes"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Gediz"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bakırçay"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Meriç"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Çarşamba - Yeşilırmak / Bafra - Kızılırmak)<br><br>📌 <strong>Karadeniz Delta Ovaları ve Nehirleri:</strong><br>• <strong>Çarşamba Ovası:</strong> Yeşilırmak Nehri'nin taşıdığı alüvyonlarla Karadeniz kıyısında oluşturduğu deltadır.<br>• <strong>Bafra Ovası:</strong> Kızılırmak Nehri'nin oluşturduğu deltadır.<br>• (Güneyde ise Seyhan ve Ceyhan nehirleri Çukurova deltasını oluşturur)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Büyük Menderes)<br><br>📌 <strong>Ege Deltaları ve Antik Liman Kentleri:</strong><br>• <strong>Büyük Menderes:</strong> Taşıdığı yoğun alüvyonlarla denizi doldurmuş ve tarihi <strong>Milet Antik Kenti</strong>'nin denizle olan bağlantısını keserek liman kenti özelliğini kaybettirmiştir (Bafa / Çamiçi Gölü de bu süreçte körfezden lagün/göle dönüşmüştür).<br>• <strong>Küçük Menderes:</strong> Benzer şekilde <strong>Efes Antik Kenti</strong>'nin denizle bağlantısını kesmiştir.<br>• <strong>Gediz:</strong> İzmir Körfezi'ni doldurmaması için Osmanlı döneminde yatağı kuzeye kaydırılmıştır."
   },
   {
     "id": "cogr_test_8-q3",
@@ -30949,33 +30949,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q3.png",
+    "questionText": "Beslenme kaynaklarına göre akarsuların taşıdıkları su potansiyelleri, yıl içerisinde farklılık gösterir.\n\nBuna göre;\nI. Gediz\nII. Fırat\nIII. Aras\nIV. Çoruh\ngibi akarsulardan hangisinin debisi kış döneminde en fazladır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Çoruh ve Zap Suyu)<br><br>📌 <strong>Kar ve Buzul Erimeleriyle Beslenen Akarsular:</strong><br>• Yüksek dağ zirvelerinden (2500 m+) doğan akarsular kışın donar, ilkbahar sonu ve yaz başı kar/buzul erimeleriyle en yüksek debilerine ulaşır.<br>• Doğu Karadeniz'deki <strong>Çoruh Nehri</strong> ile Hakkâri yöresindeki <strong>Zap Suyu</strong> tipik kar erimeli akarsulardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I - Gediz)<br><br>📌 <strong>Akarsu Beslenme Kaynakları ve Akdeniz Rejimi:</strong><br>• <strong>Gediz Nehri:</strong> Akdeniz iklim bölgesinde yer alır. Akdeniz iklimi en fazla yağışı kış mevsiminde yağmur şeklinde aldığı için Gediz Nehri'nin debisi (akımı) <strong>kış aylarında en yüksek seviyeye ulaşır</strong>.<br>• <strong>Fırat, Aras ve Çoruh:</strong> Karasal ve yüksek dağlık bölgelerden doğarlar. Kışın yağışlar kar şeklinde düşüp donduğu için kış debileri düşer; ilkbahar sonu ve yaz başında kar erimeleriyle en yüksek seviyelerine çıkarlar."
   },
   {
     "id": "cogr_test_8-q4",
@@ -30986,33 +30986,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 4)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q4.png",
+    "questionText": "Türkiye'de aşağıdaki akarsulardan hangisi farklı iklim bölgelerinden geçtiği için karma rejimlidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bakırçay"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ergene"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Gediz"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Fırat"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Botan Çayı"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Kızılırmak ve Fırat)<br><br>📌 <strong>Karma Rejimli Akarsular:</strong><br>• Havzası çok geniş olan, farklı iklim bölgelerinden ve birden çok kaynaktan (yağmur, kar, karstik kaynaklar) beslenen akarsulara <strong>karma rejimli akarsu</strong> denir.<br>• Türkiye'de sınırları içindeki en uzun nehir olan <strong>Kızılırmak</strong> ile en büyük havzaya sahip <strong>Fırat Nehri</strong> karma rejimli nehirlerin en belirgin örnekleridir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Fırat)<br><br>📌 <strong>Karma Rejimli Akarsu Nedir?</strong><br>• Havzası çok geniş olan, birden çok coğrafi bölgeden, farklı iklim tiplerinden geçen ve farklı beslenme kaynaklarından (kar erimeleri, yağmur, karstik yeraltı suları) beslenen akarsulara <strong>karma rejimli akarsu</strong> denir.<br>• <strong>Fırat Nehri:</strong> Doğu Anadolu'nun yüksek dağlarından (karasallık ve kar erimesi) doğup Güneydoğu Anadolu'nun kurak step ikliminden geçer ve Suriye-Irak topraklarına ulaşır. Bu yönüyle tipik bir karma rejimli nehirdir (Kızılırmak da bir diğer örnektir)."
   },
   {
     "id": "cogr_test_8-q5",
@@ -31023,33 +31023,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 5)",
+    "questionText": "Akarsuyun belirli bir kesitinden bir saniyede geçen su miktarına debi (akım) denir.\n\nYukarıdaki haritada belirtilen alanların hangisindeki akarsuyun debisi daha yüksektir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_8_q5.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Yatağın genişliği ve deniz seviyesine olan derinliği)<br><br>📌 <strong>Akarsu Debisini (Akımını) Etkileyen Faktörler:</strong><br>• <strong>Debi:</strong> Akarsu kesitinden 1 saniyede geçen su miktarıdır ($m^3/sn$).<br>• <strong>Doğrudan Etkileyenler:</strong> Havzaya düşen yağış miktarı ve cinsi (kar/yağmur), sıcaklık ve buharlaşma şiddeti, havzanın genişliği, yer altı kaynakları ve karstik beslenme durumudur.<br>• Yatağın deniz seviyesinden mutlak derinliği debiyi belirleyen hidrolojik bir faktör değildir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Fırat / Çoruh / Doğu Karadeniz)<br><br>📌 <strong>Debi (Akım) ve Türkiye Akarsuları:</strong><br>• Debi; havzanın büyüklüğüne, düşen yağış miktarına, kar ve buzul erimelerine bağlıdır.<br>• Türkiye'de debisi ve su taşıma kapasitesi en yüksek akarsu <strong>Fırat Nehri</strong>'dir (yıllık yaklaşık 31 milyar metreküp su taşır). Akarsu debisinin en az olduğu yerler ise İç ve Güneydoğu Anadolu'nun kurak havzalarıdır."
   },
   {
     "id": "cogr_test_8-q6",
@@ -31060,33 +31060,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q6.png",
+    "questionText": "Türkiye'de akarsulardan;\nI. Taşımacılık\nII. Sulama\nIII. Elektrik üretme\nIV. Balıkçılık\nalanlarının hangilerinden en yaygın ve en yüksek ekonomik katkıyla yararlanılır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II ve III"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Tarımsal sulama ve hidroelektrik enerji üretimi)<br><br>📌 <strong>Türkiye Akarsularından Yararlanma Alanları:</strong><br>• Türkiye'de akarsulardan en yaygın ve en yüksek ekonomik katkıyla yararlanılan iki temel alan: <strong>Tarımsal sulama (GAP vb.)</strong> ve <strong>hidroelektrik enerji üretimidir (HES)</strong>.<br>• Akarsuların rejimlerinin düzensiz ve yatak eğimlerinin fazla olması nedeniyle nehir taşımacılığı yapılamaz."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (II ve III - Sulama ve Elektrik Üretme)<br><br>📌 <strong>Türkiye Akarsularından Yararlanma Alanları:</strong><br>• Türkiye'de akarsulardan en yaygın ve en stratejik yararlanma alanları <strong>Tarımsal Sulama (II)</strong> ve <strong>Hidroelektrik Enerji Üretimidir (III)</strong>.<br>• Akarsularımızın yatak eğimlerinin fazla, akış hızlarının yüksek ve rejimlerinin düzensiz olması nedeniyle <strong>iç su taşımacılığı (I)</strong> yapılamaz (yalnızca Bartın Çayı'nın ağız kısmında küçük teknelerle sınırlı taşımacılık yapılabilir)."
   },
   {
     "id": "cogr_test_8-q7",
@@ -31097,33 +31097,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q7.png",
+    "questionText": "Aşağıdaki akarsulardan hangi ikisi kaynağını yurt dışından alarak ülkemiz sınırları içerisinde denize dökülür?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Fırat - Dicle"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Aras - Kura"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Meriç - Asi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kızılırmak - Yeşilırmak"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Seyhan - Ceyhan"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Meriç ve Asi Nehirleri)<br><br>📌 <strong>Kaynağını Dışarıdan Alıp Türkiye'de Denize Dökülen Akarsular:</strong><br>• <strong>Meriç Nehri:</strong> Kaynağını Bulgaristan'dan alır, Türkiye-Yunanistan sınırını oluşturur ve Ege Denizi'ne (Saros) dökülür.<br>• <strong>Asi Nehri:</strong> Kaynağını Lübnan'dan alır, Suriye'yi geçer ve Hatay Samandağ'dan Akdeniz'e dökülür."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Meriç - Asi)<br><br>📌 <strong>Kaynağını Dışarıdan Alıp Türkiye'de Denize Dökülen Akarsular:</strong><br>• <strong>Meriç Nehri:</strong> Kaynağını Bulgaristan'dan alır, Türkiye-Yunanistan sınırını çizer ve Ege Denizi'ne dökülür.<br>• <strong>Asi Nehri:</strong> Kaynağını Lübnan dağlarından (Bekaa Vadisi) alır, Suriye'yi geçer ve Hatay Samandağ'dan Akdeniz'e dökülür.<br><br>❌ <strong>Kaynağını Türkiye'den Alıp Dışarıda Dökülenler:</strong><br>• Fırat ve Dicle (Basra Körfezi), Aras ve Kura (Hazar Denizi), Çoruh (Gürcistan/Karadeniz)."
   },
   {
     "id": "cogr_test_8-q8",
@@ -31134,33 +31134,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q8.png",
+    "questionText": "Havzalarının bulunduğu yerlerin sanayileşme ve kentleşme durumu göz önüne alındığında aşağıdaki akarsuların hangisinin kirlenme oranı en azdır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Murat"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Seyhan"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ceyhan"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sakarya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Gediz"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Ergene Nehri)<br><br>📌 <strong>Kirlilik Oranı En Yüksek Akarsu (Ergene):</strong><br>• Trakya'da Çorlu, Çerkezköy ve Muratlı sanayi bölgelerindeki yüzlerce tekstil, kimya ve deri fabrikasının kimyasal atıklarını alması nedeniyle <strong>Ergene Nehri</strong>, Türkiye'nin kirlilik derecesi en yüksek (4. sınıf kirli su) akarsuyudur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Murat Nehri)<br><br>📌 <strong>Akarsu Kirliliği ve Sanayileşme İlişkisi:</strong><br>• Sakarya, Gediz, Seyhan ve Ceyhan nehirleri yoğun sanayi tesisleri, tarımsal kimyasal ilaçlama/gübreleme ve büyük şehir atıklarının etkisi altında kalarak ciddi oranda kirlenmektedir (En kirli akarsuyumuz ise Ergene'dir).<br>• <strong>Murat Nehri:</strong> Doğu Anadolu Bölgesi'nde sanayileşmenin ve nüfus yoğunluğunun düşük olduğu dağlık arazilerden aktığı için seçenekler arasında kirlenme oranı <strong>en az</strong> olan nehirdir."
   },
   {
     "id": "cogr_test_8-q9",
@@ -31171,33 +31171,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q9.png",
+    "questionText": "Türkiye'nin en yüksek barajı olma özelliğine sahip olan Yusufeli Barajı hangi akarsu üzerinde yer alır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Aras"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Fırat"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kızılırmak"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çoruh"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kura"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Çoruh Nehri - Yusufeli Barajı)<br><br>📌 <strong>Türkiye'nin En Yüksek Barajı (Yusufeli Barajı):</strong><br>• <strong>Yusufeli Barajı ve HES:</strong> Artvin'de <strong>Çoruh Nehri</strong> üzerinde inşa edilmiştir.<br>• 275 metre gövde yüksekliğiyle Türkiye'nin en yüksek, çift eğrilikli ince kemer baraj kategorisinde dünyanın 5. en yüksek barajıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Çoruh)<br><br>📌 <strong>Türkiye'nin En Yüksek Barajı (Yusufeli Barajı):</strong><br>• Artvin'de <strong>Çoruh Nehri</strong> üzerinde inşa edilen <strong>Yusufeli Barajı ve HES</strong>, 275 metre gövde yüksekliğiyle Türkiye'nin en yüksek, dünyada ise kendi sınıfında 5. en yüksek barajıdır.<br>• Çoruh Nehri üzerinde ayrıca Deriner, Borçka ve Muratlı barajları da yer alır."
   },
   {
     "id": "cogr_test_8-q10",
@@ -31208,33 +31208,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q10.png",
+    "questionText": "Akarsular iki komşu ülke arasında doğal sınır kabul edilebilir.\n\nTürkiye'nin komşularıyla, aşağıdaki akarsulardan hangisi doğal sınır oluşturmaz?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Meriç"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Asi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Çoruh"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Dicle"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Aras"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Meriç, Arpaçay ve Hezil Çayı)<br><br>📌 <strong>Doğal Sınır Oluşturan Akarsular:</strong><br>• <strong>Meriç Nehri:</strong> Türkiye - Yunanistan sınırını çizer.<br>• <strong>Arpaçay & Aras:</strong> Türkiye - Ermenistan sınırını çizer.<br>• <strong>Hezil Çayı & Dicle:</strong> Türkiye - Irak ve Suriye sınırının bir kısmını oluşturur.<br>• <strong>Mutlukent (Rezve) Deresi:</strong> Türkiye - Bulgaristan sınırını çizer."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Çoruh)<br><br>📌 <strong>Akarsular ve Doğal Sınırlar:</strong><br>• <strong>Meriç:</strong> Türkiye - Yunanistan sınırını çizer.<br>• <strong>Asi:</strong> Türkiye - Suriye sınırının kısa bir bölümünü oluşturur.<br>• <strong>Aras ve Arpaçay:</strong> Türkiye - Ermenistan ve Azerbaycan/Nahçıvan sınırını oluşturur.<br>• <strong>Dicle ve Hezil Çayı:</strong> Türkiye - Suriye ve Irak sınırının bir kısmını çizer.<br>• <strong>Çoruh Nehri:</strong> Doğu Karadeniz dağlarından doğup Artvin'den geçerek Gürcistan topraklarına girer; iki ülke arasında sınır hattı oluşturmaz, sınırı dikine kesip dışarı çıkar."
   },
   {
     "id": "cogr_test_8-q11",
@@ -31245,33 +31245,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q11.png",
+    "questionText": "Türkiye akarsularının;\nI. Boylarının kısa olması\nII. Hidroelektrik enerji potansiyellerinin yüksek olması\nIII. Taşımacılığa elverişli olmamaları\nözellikleri Türkiye'nin aşağıdaki özelliklerinden hangisinin bir sonucudur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Dağların doğu-batı yönlü uzanması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ortalama yükseltisi fazla, genç bir araziye sahip olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Platoların geniş yer kaplaması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Akdeniz iklim kuşağı içerisinde yer alması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Orta kuşakta yer alması"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Boylarının genellikle kısa, akış hızlarının ve aşındırma güçlerinin fazla olması)<br><br>📌 <strong>Türkiye Akarsularının Genel Coğrafi Özellikleri:</strong><br>• Türkiye bir yarımada olduğu ve dağlar kıyıya paralel uzandığı için akarsular hızla denize dökülür, bu nedenle <strong>boyları genellikle kısadır</strong>.<br>• Genç ve yüksek bir topoğrafyada aktıkları için <strong>akış hızları, yatak eğimleri ve hidroelektrik potansiyelleri çok yüksektir</strong>."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ortalama yükseltisi fazla, genç bir araziye sahip olması)<br><br>📌 <strong>Türkiye Akarsularının Morfolojik Özellikleri:</strong><br>• Türkiye III. Zaman sonu ve IV. Zaman başında toptan yükselmiş (epirojenez) genç oluşumlu bir ülkedir.<br>• Ortalama yükseltinin (1.132 m) ve yatak eğimlerinin fazla olması nedeniyle akarsular hızla denize ulaşır (boyları kısadır), akış hızları ve hidroelektrik enerji potansiyelleri çok yüksektir, denge profiline ulaşamadıkları için de akarsu taşımacılığına elverişli değillerdir."
   },
   {
     "id": "cogr_test_8-q12",
@@ -31282,33 +31282,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q12.png",
+    "questionText": "Aşağıdaki seçeneklerde verilen Türkiye akarsularından hangileri, tarihteki ünlü Mezopotamya medeniyetlerinin doğuşunu sağlamıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Fırat - Dicle"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Aras - Kura"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Seyhan - Ceyhan"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Meriç - Asi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Gediz - Bakırçay"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Fırat ve Dicle)<br><br>📌 <strong>Mezopotamya Medeniyetlerini Besleyen Nehirler:</strong><br>• Doğu Anadolu dağlarından doğup Güneydoğu Anadolu'yu sulayan ve Irak topraklarında birleşerek Basra Körfezi'ne dökülen <strong>Fırat ve Dicle nehirleri</strong>, tarihteki bereketli hilal ve Mezopotamya uygarlıklarının doğuşunu sağlamıştır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Fırat - Dicle)<br><br>📌 <strong>Mezopotamya (İki Nehir Arası):</strong><br>• Kelime anlamı olarak 'iki nehir arası' demek olan Mezopotamya; Doğu Anadolu dağlarından doğup Güneydoğu Anadolu'dan geçerek Irak'ta Şattülarap'ta birleşen <strong>Fırat ve Dicle nehirlerinin</strong> hayat verdiği bereketli topraklardır (Sümer, Babil, Asur, Akad uygarlıkları burada doğmuştur)."
   },
   {
     "id": "cogr_test_8-q13",
@@ -31319,33 +31319,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q13.png",
+    "questionText": "Türkiye'nin aşağıdaki akarsularından hangi ikisinin ağız kısmı Hazar Denizi'nde (Hazar Kapalı Havzası) yer alır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Susurluk - Sakarya"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çoruh - Asi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Aras - Kura"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Meriç - Göksu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Fırat - Dicle"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Aras ve Kura Nehirleri)<br><br>📌 <strong>Hazar Kapalı Havzasına Dökülen Akarsular:</strong><br>• Doğu Anadolu Bölgesi'nden (Erzurum-Kars platosu ve Bingöl dağları) doğan <strong>Aras ve Kura nehirleri</strong>, Türkiye sınırları dışına çıkarak Azerbaycan'da birleşir ve dünyanın en büyük kapalı havzası olan <strong>Hazar Gölü'ne dökülürler</strong>."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Aras - Kura)<br><br>📌 <strong>Hazar Kapalı Havzası Nehirleri:</strong><br>• Doğu Anadolu Bölgesi'nden doğan <strong>Aras ve Kura nehirleri</strong>, Türkiye sınırlarını terk ettikten sonra Azerbaycan'da (Cevat yakınlarında) birleşir ve dünyanın en büyük gölü olan <strong>Hazar Kapalı Havzası'na</strong> dökülürler."
   },
   {
     "id": "cogr_test_8-q14",
@@ -31356,33 +31356,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q14.png",
+    "questionText": "Türkiye'nin en fazla elektrik üreten hidroelektrik santralinin (barajının) üzerinde bulunduğu akarsu aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Aras"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Dicle"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Çoruh"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Fırat"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kura"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Atatürk Barajı - Fırat Nehri)<br><br>📌 <strong>En Fazla Elektrik Üreten Baraj:</strong><br>• Şanlıurfa ile Adıyaman arasında <strong>Fırat Nehri</strong> üzerinde kurulu olan <strong>Atatürk Barajı</strong>, kurulu güç ve yıllık elektrik üretimi açısından Türkiye'nin 1 numaralı hidroelektrik santralidir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Fırat)<br><br>📌 <strong>En Fazla Elektrik Üreten Baraj:</strong><br>• Şanlıurfa ile Adıyaman arasında Fırat Nehri üzerinde kurulu olan <strong>Atatürk Barajı</strong> (2.400 MW kurulu güç), Türkiye'nin en fazla hidroelektrik enerji üreten santralidir.<br>• Fırat üzerinde ayrıca Karakaya ve Keban barajları da devasa enerji üretimi sağlar."
   },
   {
     "id": "cogr_test_8-q15",
@@ -31393,33 +31393,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q15.png",
+    "questionText": "Türkiye'nin akarsuları ile ilgili belirtilen yargılardan hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bartın Çayı üzerinde kıyıdan itibaren belirli bir bölüme kadar taşımacılık yapılabilir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Manavgat, karstik kaynaklarla beslendiği için su potansiyeli yıl içerisinde daha düzenlidir."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Gediz'in yatağı, İzmir Körfezi'ni alüvyonlarla doldurmasın diye kuzeye kaydırılmıştır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Küçük Menderes, Efes Antik Kenti'nin liman kenti olma özelliğini ortadan kaldırmıştır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Doğu Anadolu'daki akarsular denge profiline ulaşmaya yaklaşmışlardır."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Tüm akarsularımızın üzerinde düzenli ve ticari nehir taşımacılığı yapılabilmesi)<br><br>📌 <strong>Akarsularımız Hakkında Yanlış Bilgi Analizi:</strong><br>• Türkiye akarsuları <strong>denge profiline ulaşmamıştır</strong>; yatak eğimleri fazladır ve su debileri mevsimden mevsime çok büyük dalgalanmalar gösterir.<br>• Bu sebeple akarsularımız üzerinde düzenli yük ve yolcu taşımacılığı <strong>kesinlikle yapılamaz</strong>."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Anadolu'daki akarsular denge profiline ulaşmaya yaklaşmışlardır)<br><br>📌 <strong>Denge Profili ve Akarsu Gençliği:</strong><br>• Türkiye arazisi genç olduğu için akarsularımız <strong>denge profiline (deniz seviyesine kadar aşındırma düzeyine) ulaşmamıştır</strong>.<br>• Özellikle Doğu Anadolu akarsuları engebeli ve çok yüksek arazide aktıkları için denge profiline <strong>en uzak</strong> akarsulardır. Dolayısıyla E seçeneğindeki ifade kesinlikle yanlıştır."
   },
   {
     "id": "cogr_test_8-q16",
@@ -31430,33 +31430,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q16.png",
+    "questionText": "Akarsular, havzalarındaki sularını denize ulaştırıyorlarsa açık havza; ulaştıramıyorlarsa kapalı havzaları oluştururlar.\n\nAşağıdaki akarsulardan hangisi kapalı havzaya dökülür?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kura"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Fırat"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Dicle"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çoruh"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Meriç"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Sularını açık denizlere veya okyanuslara ulaştırabilmesi)<br><br>📌 <strong>Açık Havza Tanımı:</strong><br>• Bir akarsu topladığı suları denizlere ya da okyanuslara kadar ulaştırabiliyorsa bu havzaya <strong>açık havza</strong> denir (Örn: Karadeniz, Akdeniz, Ege ve Marmara'ya dökülen tüm nehirlerimiz açık havzadır)."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kura)<br><br>📌 <strong>Kapalı Havza Akarsuları:</strong><br>• <strong>Kura ve Aras nehirleri:</strong> Sularını açık denizlere değil, dünyanın en büyük kapalı gölü olan <strong>Hazar Gölü'ne</strong> ulaştırırlar; bu nedenle kapalı havza nehirleridir.<br>• Fırat ve Dicle (Basra Körfezi / Hint Okyanusu), Çoruh (Karadeniz), Meriç (Ege Denizi) açık havzadır."
   },
   {
     "id": "cogr_test_8-q17",
@@ -31467,33 +31467,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 17)",
+    "questionText": "Akarsular havzalarındaki suyu denize ulaştıramazlarsa, kapalı havza özelliği gösterirler.\n\nHaritada işaretli alanların hangisi Türkiye'nin en büyük kapalı havza alanıdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_8_q17.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Etrafının yüksek dağ sıralarıyla çevrili olması ve kurak iklim koşulları)<br><br>📌 <strong>Kapalı Havzaların Oluşma Nedenleri:</strong><br>• Bir alanın kapalı havza olmasında en temel iki faktör: <strong>Yer şekillerinin çanak şeklinde olması / etrafının yüksek dağlarla çevrili olması</strong> ve <strong>iklimin kurak geçmesi / buharlaşmanın yağıştan fazla olmasıdır</strong> (Örn: Konya-Tuz Gölü havzası)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II - Konya / Tuz Gölü Kapalı Havzası)<br><br>📌 <strong>Türkiye'nin En Büyük Kapalı Havzası:</strong><br>• Haritada II numarayla gösterilen <strong>Konya - Tuz Gölü Kapalı Havzası</strong>, etrafının yüksek dağlarla çevrili olması ve kurak/yarı kurak iklim şartları nedeniyle Türkiye'nin en geniş kapalı havzasıdır."
   },
   {
     "id": "cogr_test_8-q18",
@@ -31504,33 +31504,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 8: Akarsular (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_8_q18.png",
+    "questionText": "Aşağıdaki akarsulardan hangisi Ermenistan ile Türkiye arasında doğal sınır oluşturur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Arpaçay"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çoruh"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Fırat"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Dicle"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Asi"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Arpaçay Nehri)<br><br>📌 <strong>Ermenistan Sınırını Oluşturan Akarsu:</strong><br>• Çıldır Gölü yakınlarından doğan ve Aras Nehri ile birleşen <strong>Arpaçay</strong>, Kars ve Iğdır hattı boyunca Türkiye ile <strong>Ermenistan arasındaki doğal devlet sınırını</strong> çizer."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Arpaçay)<br><br>📌 <strong>Ermenistan Sınırındaki Akarsular:</strong><br>• <strong>Arpaçay:</strong> Çıldır Gölü'nden doğup Aras Nehri'ne katılan, Türkiye ile Ermenistan arasındaki resmî sınır hattını çizen akarsudur.<br>• Arpaçay birleştikten sonra <strong>Aras Nehri</strong> de Ermenistan ve Azerbaycan (Nahçıvan) sınırımızı oluşturur."
   },
   {
     "id": "cogr_test_9-q1",
@@ -31541,33 +31541,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q1.png",
+    "questionText": "Türkiye'nin akarsuları için yapılan açık ve kapalı havza eşleştirmelerinden hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Açık Havza: Fırat / Kapalı Havza: Dicle"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Açık Havza: Aras / Kapalı Havza: Kura"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Açık Havza: Asi / Kapalı Havza: Aras"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Açık Havza: Meriç / Kapalı Havza: Kızılırmak"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Açık Havza: Sakarya / Kapalı Havza: Aksu"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de platoların geniş yer kaplamasının ve yüksekte bulunmasının temel nedeni, III. Jeolojik Zaman sonu ile IV. Jeolojik Zaman başında (Senozoyik/Kuvaterner) Anadolu kütlesinin toptan yükselmesidir (epirojenez).\n• Anadolu arazisi önce peneplen (hafif dalgalı düzlük) haline gelmiş, ardından epirojenik hareketlerle toptan yükselerek yüksek düzlükler (platolar) halini almıştır.\n\n❌ **Çeldiriciler:**\n• Volkanizma, buzul aşındırması veya orojenez genel plato dağılışının temel toptan yükselme mekanizmasını tek başına açıklamaz."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Açık Havza: Asi / Kapalı Havza: Aras)<br><br>📌 <strong>Açık ve Kapalı Havza Eşleştirmesi:</strong><br>• <strong>Asi Nehri:</strong> Sularını Akdeniz'e (açık deniz) ulaştırdığı için <strong>açık havza</strong>dır.<br>• <strong>Aras Nehri:</strong> Sularını açık denizlere ulaştıramayıp Hazar Gölü'ne döküldüğü için <strong>kapalı havza</strong>dır.<br><br>❌ <strong>Diğer Seçeneklerin Hataları:</strong><br>• A: Fırat ve Dicle her ikisi de Basra Körfezi'ne (açık havza) dökülür.<br>• B: Aras ve Kura her ikisi de Hazar Kapalı Havzası'na dökülür.<br>• D: Meriç ve Kızılırmak her ikisi de açık denizlere (Ege ve Karadeniz) dökülür.<br>• E: Sakarya ve Aksu her ikisi de açık denizlere (Karadeniz ve Akdeniz) dökülür."
   },
   {
     "id": "cogr_test_9-q2",
@@ -31578,33 +31578,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 2)",
+    "questionText": "Kumlu, killi yatay tabaka tortullarının akarsular tarafından derin vadilerle yarılmasıyla tabaka düzlüğü platoları oluşur.\n\nHaritada işaretli alanlarda yer alan platolardan hangisi tabaka düzlüğü platolarına örnek değildir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q2.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nKarstik aşınım ve erime sonucu oluşan platolarımız Akdeniz Bölgesi'nde yer alan **Teke** ve **Taşeli** platolarıdır. Kalker (kireç taşı) arazisinin yaygın olduğu bu platolarda yüzey suları yer altına sızar, toprak verimsizdir ve nüfus seyrektir.\n\n❌ **Çeldiriciler:**\n• Haymana, Bozok, Cihanbeyli, Obruk: Tabaka düzlüğü (yatay duruşlu) platolardır.\n• Erzurum-Kars-Ardahan: Lav örtüsü (volkanik) platosudur.\n• Çatalca-Kocaeli: Aşınım platosudur."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V Numaralı Alan - Taşeli Platosu)<br><br>📌 <strong>Platoların Oluşum Tipleri:</strong><br>• Haritada I, II, III ve IV numaralı alanlar İç Anadolu'daki (Haymana, Cihanbeyli, Bozok, Uzunyayla) <strong>tabaka düzlüğü (yatay duruşlu)</strong> platolarıdır.<br>• Akdeniz kuşağında yer alan V numaralı <strong>Taşeli Platosu</strong> ise kireçtaşlarının (kalkerin) erimesiyle meydana gelen <strong>karstik plato</strong> özelliğindedir."
   },
   {
     "id": "cogr_test_9-q3",
@@ -31615,33 +31615,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q3.png",
+    "questionText": "Çöküntü depremleri mağara ve galeri tavanlarının yer altı sularının aşındırması sonucu çökmesiyle meydana gelir.\n\nTürkiye'nin aşağıdaki platolarının hangisi üzerinde çöküntü depremler daha fazla görülür?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Obruk"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Bozok"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yazılıkaya"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Haymana"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ardahan"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Çatalca-Kocaeli Platosu**, Türkiye'nin ortalama yükseltisi en az olan (aşınım platosu) platosudur. Sanayi, ticaret, ulaşım ve nüfus yoğunluğunun en fazla olduğu, tarım ve hayvancılığın ise sanayileşme nedeniyle en az yapıldığı platodur.\n\n❌ **Çeldiriciler:**\n• Taşeli, Haymana, Erzurum-Kars ve Ardahan platoları yüksek platolar olup sanayi yoğunluğu Çatalca-Kocaeli ile kıyaslanamaz."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Obruk Platosu)<br><br>📌 <strong>Karstik Çöküntü Depremleri ve Obruklar:</strong><br>• Konya havzasının kuzeydoğusundaki <strong>Obruk Platosu</strong>, yoğun kireçtaşı ve jips arazisine sahiptir. Yer altı sularının kalkeri eritmesiyle oluşan devasa yer altı boşlukları zamanla çökmekte ve çöküntü depremlerine neden olmaktadır (Kızören, Çıralı vb. obruklar)."
   },
   {
     "id": "cogr_test_9-q4",
@@ -31652,33 +31652,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 4)",
+    "questionText": "Bir grup bilim insanı araştırma yaptığı plato üzerinde geven, üzerlik, koyun yumağı otu ve gelincik gibi bitki türlerine rastlamıştır.\n\nBuna göre bu bilim insanları Türkiye haritasında numaralandırılmış platoların hangisinde araştırma yapmış olabilir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q4.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Erzurum-Kars ve Ardahan platoları** volkanik lav örtüsü platolarıdır. Yüksek platolar olup yaz yağışları nedeniyle gür çayır örtüsüne sahiptir. Bu durum **büyükbaş mera hayvancılığının (özellikle sığır/dana yetiştiriciliği)** en yaygın ekonomik faaliyet olmasını sağlamıştır.\n\n❌ **Çeldiriciler:**\n• Kıl keçisi Akdeniz (Teke-Taşeli), tiftik keçisi İç Anadolu (Ankara/Haymana), ipek böcekçiliği Güney Marmara/Diyarbakır, küçükbaş koyun İç Anadolu bozkırlarına özgüdür."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II Numaralı Alan - İç Anadolu / Cihanbeyli-Haymana Bozkır Platosu)<br><br>📌 <strong>Bozkır (Step) Florası ve Platolar:</strong><br>• Geven, üzerlik, koyun yumağı ve gelincik gibi kurakçıl otsu türler <strong>ılıman karasal iklimin ve bozkır (step)</strong> formasyonunun tipik göstergeleridir.<br>• Haritada II numarayla gösterilen İç Anadolu platosu bu bitki örtüsünün en yaygın olduğu sahadır."
   },
   {
     "id": "cogr_test_9-q5",
@@ -31689,33 +31689,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 5)",
+    "questionText": "Yükselti arttıkça, sıcaklık değerleri düşer ve yağışın görülme ihtimali artar.\n\nBuna göre haritada işaretli platoların (Obruk, Cihanbeyli, Haymana, Bozok, Uzunyayla) hangisinde yıllık yağış miktarı diğerlerinden daha fazladır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q5.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Obruk"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Cihanbeyli"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Haymana"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bozok"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Uzunyayla"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nİç Anadolu platoları (Haymana, Cihanbeyli, Bozok, Obruk, Uzunyayla) yarı kurak karasal iklim ve bozkır (step) bitki örtüsünün etkisi altındadır. Bu platolarda en yaygın ekonomik faaliyet **kuru tarım (tahıl üretimi - buğday, arpa vb.) ve küçükbaş hayvancılıktır (koyun)**.\n\n❌ **Çeldiriciler:**\n• Fındık/Çay (Karadeniz), Sanayi/Finans (Çatalca-Kocaeli), Büyükbaş mera (Kuzeydoğu Anadolu), Kıl keçisi/Ormancılık (Teke-Taşeli)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Uzunyayla Platosu)<br><br>📌 <strong>İç Anadolu Platolarında Yükselti ve Yağış:</strong><br>• İç Anadolu'nun en doğusunda Sivas-Kayseri arasında yer alan <strong>Uzunyayla Platosu</strong>, ortalama 1.500-1.600 metre yükseltisiyle İç Anadolu'nun en yüksek platosudur.<br>• Yükseltinin fazla olması sebebiyle yıllık ortalama yağış miktarı diğer basık platolara (Obruk, Cihanbeyli vb.) göre daha fazladır."
   },
   {
     "id": "cogr_test_9-q6",
@@ -31726,33 +31726,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 6)",
+    "questionText": "Türkiye'de bütün bölgelerde plato oluşumu gözlemlenir. Her platonun kendine ait fiziki, jeolojik ve ekonomik özellikleri vardır.\n\nBuna göre yukarıda Türkiye haritasında numaralandırılarak verilen platoların hangisinde arazideki kayaç yapısına bağlı yüzey suyu oranı en azdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q6.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Taşeli ve Teke Platoları** karstik yapıları, engebeli yüzeyleri ve kalkerli toprakların suyu tutamaması sebebiyle tarıma elverişsizdir; bu yüzden nüfus yoğunluğu çok düşüktür. Bu alanlarda maki bitki örtüsüne bağlı olarak **kıl keçisi yetiştiriciliği** öne çıkar.\n\n❌ **Çeldiriciler:**\n• Sanayi, yoğun tarım ve yerleşme bu arazilerde gelişmemiştir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II Numaralı Alan - Taşeli/Teke Platosu)<br><br>📌 <strong>Karstik Arazide Yüzey Suları:</strong><br>• II numarayla gösterilen Akdeniz'deki Teke ve Taşeli platoları karstik (kalkerli) kayaç yapısına sahiptir.<br>• Kalker oldukça geçirimli ve eriyebilen bir kayaç olduğundan yüzeye düşen yağmur ve kar suları yer altına sızar. Bu sebeple arazide yüzey suyu akışı son derece azdır."
   },
   {
     "id": "cogr_test_9-q7",
@@ -31763,33 +31763,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q7.png",
+    "questionText": "Geniş yüzeyleri kaplayan lav tabakalarının akarsular tarafından yarılmasıyla \"lav platoları\" (volkanik platolar) oluşur.\n\nTürkiye'nin aşağıdaki platolarından hangisi bu tür platolara örnektir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Çatalca"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Obruk"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Uzunyayla"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Taşeli"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Erzurum-Kars"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\n**Gaziantep ve Şanlıurfa Platoları**, Güneydoğu Anadolu Bölgesi'nde tabaka düzlüğü platoları olup GAP (Güneydoğu Anadolu Projesi) ile sulama olanaklarının artması sonucu pamuk, mısır, Antep fıstığı ve kırmızı mercimek tarımının en yoğun yapıldığı alanlar haline gelmiştir.\n\n❌ **Çeldiriciler:**\n• Çatalca-Kocaeli aşınım platosudur.\n• Erzurum-Kars volkanik lav platosudur.\n• Teke-Taşeli karstik platolardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Erzurum-Kars)<br><br>📌 <strong>Volkanik Lav Platoları:</strong><br>• Türkiye'de volkanik patlamalar sonucu geniş alanlara yayılan bazaltik lavların akarsularca yarılmasıyla oluşan en tipik lav platosu <strong>Erzurum-Kars ve Ardahan platolarıdır</strong>.<br>• Çatalca aşınım, Obruk ve Uzunyayla tabaka düzlüğü, Taşeli karstik platodur."
   },
   {
     "id": "cogr_test_9-q8",
@@ -31800,33 +31800,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q8.png",
+    "questionText": "Kıl keçisi yetiştiriciliği, maki bitki örtüsünün yoğun olduğu ve arazi şartlarının engebeli olduğu alanlarda ön plana çıkar.\n\nAşağıdaki platoların hangisinde kıl keçisi yetiştiriciliği en fazla yapılır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Teke"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yazılıkaya"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Obruk"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Haymana"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Cihanbeyli"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Obruk Platosu** (Tuz Gölü'nün güneyi), kireçtaşı arazisinde yer altı sularının karbonik asitli sularla kalkeri eritmesi sonucu oluşan mağara ve galerilerin tavanlarının çökmesiyle meydana gelen derin çukurlukların (obrukların) en yaygın görüldüğü karstik tabaka düzlüğü platosudur.\n\n❌ **Çeldiriciler:**\n• Bozok Yozgat çevresindedir.\n• Cihanbeyli Konya'nın batısındadır.\n• Haymana Ankara güneyindedir.\n• Yazılıkaya Ege-İç Anadolu sınırındadır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Teke Platosu)<br><br>📌 <strong>Kıl Keçisi Yetiştiriciliği ve Karstik Platolar:</strong><br>• Akdeniz Bölgesi'nde yer alan <strong>Teke ve Taşeli platoları</strong> sarp, kayalık ve engebeli arazisi ile maki ve çalı topluluklarının varlığı nedeniyle Türkiye'de <strong>kıl keçisi</strong> yetiştiriciliğinin bir numaralı merkezidir."
   },
   {
     "id": "cogr_test_9-q9",
@@ -31837,33 +31837,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q9.png",
+    "questionText": "Türkiye'nin platoları için aşağıdaki ifadelerden hangisine ulaşılamaz?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Akarsular tarafından derin vadilerle yarılmış yüksek düzlüklerdir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "IV. Jeolojik Zaman'da yaşanan yükselme hareketi her yerde aynı olmadığı için yükselti değerleri birbirinden farklıdır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "En geniş alanda tabaka düzlüğü platolarına rastlanır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Tarım ve hayvancılık, yaygın olarak yapılan ekonomik faaliyetlerdir."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Platolar içerisinden geçen akarsular yüzeyde aktıkları için, taşkın alanları ortaya çıkarırlar."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nPlatoların genel özellikleri değerlendirildiğinde:\n• Çatalca-Kocaeli: En alçak plato (aşınım platosu)\n• Erzurum-Kars: En yüksek ve volkanik plato\n• Teke-Taşeli: Karstik plato\n• Cihanbeyli-Haymana-Bozok: Tabaka düzlüğü platosu\nVerilen eşleştirmeler ve plato oluşum tipleri incelendiğinde E seçeneğinde verilen ifade doğru sınıflandırmayı sunar."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Platolar içerisinden geçen akarsuların taşkın yapması)<br><br>📌 <strong>Platolardaki Akarsu Morfolojisi:</strong><br>• Platoları yaran akarsular plato yüzeyinde sığ akmaz; aksine plato düzlüğünü <strong>derin kanyon, çentik veya boğaz vadiler</strong> şeklinde yararak akarlar.<br>• Akarsu tabanı çok derinde olduğu için çevreye taşıp taşkın alanları oluşturmazlar. Bu nedenle E seçeneği kesinlikle yanlıştır."
   },
   {
     "id": "cogr_test_9-q10",
@@ -31874,33 +31874,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 10)",
+    "questionText": "Yağışın az ve aşırı yaz sıcaklığının görüldüğü alanlar kurak yerlerdir.\n\nBuna göre haritada işaretli platoların hangisi, en kurak alandır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q10.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nEge Bölgesi'nde yer alan **Yazılıkaya (Bayat) Platosu**, İç Batı Anadolu bölümünde yer alır. Aşınım ve tabaka düzlüğü karakteri taşır; İç Anadolu ile Ege geçiş kuşağında yer alır.\n\n❌ **Çeldiriciler:**\n• Erzurum-Kars Doğu Anadolu'da, Ardahan Doğu Anadolu'da, Bozok İç Anadolu'da, Şanlıurfa Güneydoğu Anadolu'dadır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV Numaralı Alan - Şanlıurfa Platosu)<br><br>📌 <strong>Türkiye'nin En Kurak Platosu:</strong><br>• Güneydoğu Anadolu Bölgesi'nde yer alan IV numaralı <strong>Şanlıurfa Platosu</strong>, güneyden gelen Basra alçak basıncının sıcak çöl rüzgarları ve şiddetli buharlaşma nedeniyle Türkiye'de yaz kuraklığının en şiddetli yaşandığı plato sahasıdır."
   },
   {
     "id": "cogr_test_9-q11",
@@ -31911,33 +31911,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 11)",
+    "questionText": "Sanayi faaliyetlerinin geliştiği alanlar nüfusun da yoğunlaştığı yerlerdir.\n\nBuna göre Türkiye haritasında numaralandırılmış platoların hangisinde yukarıda verilen açıklamaya uygun bir durum söz konusudur?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q11.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nKarstik erime sonucu yer altı boşluklarının çökmesiyle oluşan ve son yıllarda aşırı yer altı suyu çekimi nedeniyle sayısı hızla artan çöküntü çukurlarına **Obruk** denir ve en fazla **Konya - Obruk Platosu** çevresinde görülür.\n\n❌ **Çeldiriciler:**\n• Lapya (en küçük karstik oluk), Dolin (küçük tava şekilli erime çukuru), Uvala (birleşmiş dolinler), Polye (karstik ova)."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV Numaralı Alan - Çatalca-Kocaeli Platosu)<br><br>📌 <strong>Çatalca-Kocaeli Platosunun Ekonomik Niteliği:</strong><br>• Türkiye'de sanayi, ticaret, finans ve ulaşım ağlarının en yoğun toplandığı ve buna bağlı olarak Türkiye nüfusunun en yoğun olduğu plato <strong>Çatalca - Kocaeli Aşınım Platosu</strong>'dur (Haritada IV numara)."
   },
   {
     "id": "cogr_test_9-q12",
@@ -31948,33 +31948,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q12.png",
+    "questionText": "• Lav örtüsü platosudur.\n• Nüfus yoğunluğu azdır.\n• Kardelen, taşkıran otu ve yıldız otu gibi dağ çayırları yaygındır.\n\nYukarıda verilen bazı özellikler aşağıdaki platolardan hangisine aittir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Haymana Platosu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Taşeli Platosu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ardahan Platosu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Teke Platosu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Cihanbeyli Platosu"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de platoların kullanım alanları:\n• Çatalca-Kocaeli: Sanayi, ulaşım, ticaret ve yerleşme\n• Erzurum-Kars: Büyükbaş hayvancılık\n• Teke-Taşeli: Kıl keçisi yetiştiriciliği\n• İç Anadolu Platoları: Tahıl tarımı ve küçükbaş hayvancılık\nC seçeneğinde belirtilen eşleştirme doğru ekonomik fonksiyonu yansıtır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ardahan Platosu)<br><br>📌 <strong>Ardahan Platosu Özellikleri:</strong><br>• Erzurum-Kars bölümünün kuzeyinde yer alan <strong>Ardahan Platosu</strong>, volkanik lav örtüsü platosudur. Sert karasal iklim koşulları, yaz yağışları ve alpin dağ çayırları (kardelen, taşkıran vb.) ile karakterizedir."
   },
   {
     "id": "cogr_test_9-q13",
@@ -31985,33 +31985,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 13)",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralanmış platolardan hangisi oluşum itibarıyla diğerlerinden farklıdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q13.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\n**Ardahan Platosu**, Erzurum-Kars platosu gibi lav örtüsü platosudur. Yüksekte yer alması sebebiyle kışlar çok sert ve uzun, yazlar serin ve yağışlı geçer; Çernezyom topraklar yaygındır.\n\n❌ **Çeldiriciler:**\n• Akdeniz iklimi görülmez, karstik aşınım arazisi değildir, zeytin ve pamuk yetiştirilemez."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V Numaralı Alan - Erzurum-Kars Platosu)<br><br>📌 <strong>Plato Oluşum Kökenleri:</strong><br>• Haritada I, II, III ve IV numaralı platolar İç ve Güneydoğu Anadolu'daki <strong>tabaka düzlüğü (sedimanter)</strong> platolarıdır.<br>• V numaralı <strong>Erzurum-Kars Platosu</strong> ise volkanik lavların soğumasıyla oluşan <strong>lav örtüsü (volkanik) platosu</strong> olarak diğerlerinden tamamen ayrılır."
   },
   {
     "id": "cogr_test_9-q14",
@@ -32022,33 +32022,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q14.png",
+    "questionText": "Erzurum-Kars Platosu volkanik platolar sınıfında olmasına ve verimli çernezyom topraklara sahip olmasına karşın tarım faaliyetleri yeterli düzeyde gelişmemiştir.\n\nBu durumun temel sebebi aşağıdakilerden hangisi ile açıklanabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Büyükbaş hayvancılığın maliyetinin daha düşük olması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yükseltinin fazla olması ve hasat mevsiminde sıcaklığın düşük olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Nüfus yoğunluğunun düşük olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Tarımda makineleşmenin gelişmemesi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Hayvansal tüketimin fazla olması"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Perşembe Platosu**, Karadeniz Bölgesi'nde (Ordu - Aybastı) yer alan ve eşsiz menderesleri (kıvrımlı akarsu yatakları) ile ünlü yayla ve plato alanıdır.\n\n❌ **Çeldiriciler:**\n• Haymana Ankara'da, Bozok Yozgat'ta, Taşeli Mersin-Antalya arasındadır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yükseltinin fazla olması ve hasat mevsiminde sıcaklığın düşük olması)<br><br>📌 <strong>Kuzeydoğu Anadolu'da Tarımı Sınırlayan İklim Faktörü:</strong><br>• Erzurum-Kars platosu ortalama 1.800-2.000 m yükseltiye sahiptir. Yükseltinin çok fazla olması sebebiyle kışlar çok sert geçer, vejetasyon (tarımsal olgunlaşma) süresi çok kısadır ve yaz sıcaklıkları tahılların olgunlaşması için yetersiz kalır."
   },
   {
     "id": "cogr_test_9-q15",
@@ -32059,33 +32059,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q15.png",
+    "questionText": "• Nüfus yoğunluğu fazladır.\n• Doğal nüfus artış hızı düşüktür.\n• Aşınım düzlüğü platosudur.\n• Ekonomik faaliyetler çok gelişmiştir.\n\nYukarıda verilen bazı özellikler aşağıdaki platolardan hangisine aittir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Haymana Platosu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Gaziantep Platosu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Erzurum-Kars Platosu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kocaeli Platosu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Taşeli Platosu"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nPlatolar akarsular tarafından derin vadilerle yarılmış yüksek düzlüklerdir. Türkiye'de akarsu aşındırmasının gücü ve eğim fazlalığı, platoların akarsularca derin kanyon veya çentik vadilerle yarılmasına neden olmuştur.\n\n❌ **Çeldiriciler:**\n• Platolar sadece alçak kıyılarda bulunmaz; rüzgar biriktirmesiyle oluşmazlar."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kocaeli Platosu)<br><br>📌 <strong>Kocaeli Platosu Özellikleri:</strong><br>• Türkiye'nin en alçak platosu olan <strong>Çatalca - Kocaeli Platosu</strong>, peneplenleşmiş bir <strong>aşınım düzlüğü</strong> platosudur. Sanayi ve kentleşmeye bağlı olarak yoğun göç alır, bu yüzden nüfus yoğunluğu çok fazladır."
   },
   {
     "id": "cogr_test_9-q16",
@@ -32096,33 +32096,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 16)",
+    "questionText": "Aşağıdaki Türkiye haritasında bazı platolar numaralandırılarak verilmiştir:\nI. Platoda; gelincik, koyun yumağı, çoban yastığı gibi bitki türleri yaygındır.\nII. Plato, aşınım düzlüğü platosudur.\nIII. Plato, fiziki haritalarda sarı renk ile gösterilir.\nIV. Platoda kar yağışı görülür.\nV. Platoda yaz sıcaklığı en fazladır.\n\nBuna göre, yukarıda konumları ve bazı özellikleri verilen platoların hangisinde yanlış bir bilgi verilmiştir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q16.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nİç Anadolu'da yer alan **Bozok Platosu** Yozgat ili sınırları içinde yer alır ve Kızılırmak yayının içinde kalan geniş tabaka düzlüğü platosudur.\n\n❌ **Çeldiriciler:**\n• Haymana (Ankara), Cihanbeyli (Konya), Obruk (Konya/Aksaray), Uzunyayla (Sivas/Kayseri)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II Numaralı Plato)<br><br>📌 <strong>Plato Özellikleri Analizi:</strong><br>• II numarayla gösterilen plato İç Anadolu'daki (Cihanbeyli/Obruk) <strong>tabaka düzlüğü</strong> platosudur; aşınım platosu değildir. Türkiye'deki aşınım platosu Marmara'daki Çatalca-Kocaeli'dir. Bu sebeple II numaralı bilgi yanlıştır."
   },
   {
     "id": "cogr_test_9-q17",
@@ -32133,33 +32133,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 17)",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralanmış platoların hangisinde karstik şekillere (lapya, dolin, polye, mağara) daha çok rastlanır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_9_q17.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de platoların ekonomik faaliyetleri karşılaştırıldığında, **Çatalca-Kocaeli Platosu** sanayi, finans ve hizmet sektörünün payının en yüksek olduğu platodur.\n\n❌ **Çeldiriciler:**\n• Diğer tüm platolarımızda tarım ve hayvancılık ön plandadır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I Numaralı Alan - Teke Platosu)<br><br>📌 <strong>Karstik Şekillerin En Yaygın Olduğu Plato:</strong><br>• Haritada I numarayla gösterilen <strong>Teke Platosu</strong> (Antalya batısı), kalker kayaçlarının kalın tabakalar oluşturduğu ve karstik aşınım-birikim şekillerinin (lapya, dolin, uvala, kanyon, mağara) Türkiye'de en yoğun bulunduğu sahadır."
   },
   {
     "id": "cogr_test_9-q18",
@@ -32170,33 +32170,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🏞️",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 9: Platolar (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_9_q18.png",
+    "questionText": "Türkiye'de Tersiyer'in başında oluşan peneplen alanları, Tersiyer'in sonunda Kuaterner'in başında toptan yükselmiştir.\n\nBu duruma bağlı olarak aşağıdaki yüzey şekillerinden hangisi yaygın olarak ortaya çıkmıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kırgıbayırlar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kıvrım dağ sıraları"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kırık dağ sıraları"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Platolar"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ovalar"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nHaritada işaretli plato merkezleri incelendiğinde;\n• 1 numara Teke, 2 numara Taşeli, 3 numara Cihanbeyli/Obruk, 4 numara Erzurum-Kars, 5 numara Çatalca-Kocaeli eşleşmeleriyle D seçeneğindeki konum-özellik eşleşmesi doğrudur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Platolar)<br><br>📌 <strong>Epirojenez ve Plato Oluşumu:</strong><br>• Türkiye arazisi II. Zaman ve III. Zaman başında aşınarak deniz seviyesinde düzleşmiş (peneplen), Senozoyik sonu ve Kuaterner başında ise <strong>toptan yükselmiştir (epirojenez)</strong>.<br>• Bu toptan yükselme sonucunda akarsular derine gömülmüş ve bu eski düzlükler yüksekte kalarak bugünkü geniş <strong>platoları</strong> meydana getirmiştir."
   },
   {
     "id": "cogr_test_10-q1",
@@ -32207,33 +32207,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q1.png",
+    "questionText": "I. Akarsuyun bol alüvyon taşıması\nII. Akarsuyun denge profiline ulaşması\nIII. Kıta sahanlığının (şelf) geniş olması\nIV. Güçlü gelgit (haliçli kıyıların) görülmemesi\n\nTürkiye'de delta ovalarının oluşabilmesinde, yukarıdaki durumlardan hangilerinin gerçekleşmesi gerekmektedir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve II"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I, III ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II, III ve IV"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nDelta ovaları akarsuların taşıdığı alüvyonları deniz kıyısında biriktirmesiyle oluşur. Delta oluşumu için:\n1. Kıyıda derinliğin az olması (kıta sahanlığının / şelfin geniş olması),\n2. Kıyıda güçlü dalga ve gelgit (akıntı) olmaması,\n3. Akarsuyun bol miktarda alüvyon taşıması (erozyonun güçlü olması) gerekir.\n\n❌ **Çeldiriciler:**\n• Kıyıda güçlü gelgit akıntılarının bulunması delta oluşumunu engeller (Haliç oluşturur)."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Delta Oluşumu Şartları:</strong>\nBir akarsuyun denize döküldüğü yerde delta ovası oluşturabilmesi için:\n1. Akarsuyun havzasından bol miktarda alüvyon taşıması (I),\n2. Kıyının sığ olması yani <strong>kıta sahanlığının (şelf alanının) geniş olması</strong> (III),\n3. Kıyıda güçlü dalga, akıntı ve <strong>gelgit genliğinin az olması</strong> (haliç oluşmaması) (IV) gerekir.\n\n❌ <strong>Çeldiriciler:</strong>\n• <strong>II. öncül yanlıştır:</strong> Türkiye akarsuları genç oluştukları için hiçbir zaman denge profiline ulaşmamıştır. Denge profiline ulaşmak yatak eğiminin sıfırlanması ve aşındırmanın durması demektir; bu delta oluşumu için bir şart değildir.\n\n📌 <strong>EKYS İpucu:</strong> İç denizlerimizde gelgit genliği az olduğu için haliç oluşmaz, deltalar rahatlıkla gelişir."
   },
   {
     "id": "cogr_test_10-q2",
@@ -32244,33 +32244,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q2.png",
+    "questionText": "Çevresine göre alçakta kalan, çoğunlukla alüvyonla örtülü, akarsuların derine gömülmemiş olduğu, eğimi az, geniş ya da dar olabilen düz toprak parçasına ova denir. Ovalar fiziki, beşerî ve ekonomik yönden farklı özellikler gösterebilir.\n\nBuna göre aşağıda verilen ovaların hangisinde tarım, sanayi ve ticaret faaliyetleri maksimum seviyede gelişmiştir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Antalya Ovası"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Bursa Ovası"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ceylanpınar Ovası"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Soma Ovası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Erzurum Ovası"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'nin en büyük delta ovası, Seyhan ve Ceyhan nehirlerinin Akdeniz kıyısında oluşturduğu **Çukurova**'dır.\n\n❌ **Çeldiriciler:**\n• Bafra (Kızılırmak), Çarşamba (Yeşilırmak), Silifke (Göksu), Balat (Büyük Menderes) diğer önemli delta ovalarımızdır ancak Çukurova yüzölçümü olarak en büyüğüdür."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Konu Analizi:</strong>\n<strong>Bursa Ovası</strong>, verimli alüvyal toprakları sayesinde yoğun tarımsal üretimin (şeftali, sebze, meyve) yapıldığı, aynı zamanda otomotiv, tekstil, gıda sanayisi ve gelişmiş ulaşım ağı ile ticaretin bir arada en üst düzeyde geliştiği çok fonksiyonlu bir ovadır.\n\n❌ <strong>Çeldiriciler:</strong>\n• Antalya Ovası tarım ve turizm odaklıdır, sanayi kısıtlıdır.\n• Ceylanpınar ve Erzurum ovalarında sanayi ve ticaret çeşitliliği düşüktür.\n• Soma madencilik ağırlıklıdır.\n\n📌 <strong>EKYS İpucu:</strong> Bursa Ovası, sanayileşme ve kentleşme baskısı altında en fazla tarım arazisi kaybeden ovalarımızın başında gelir."
   },
   {
     "id": "cogr_test_10-q3",
@@ -32281,33 +32281,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q3.png",
+    "questionText": "Türkiye'nin iki önemli ovası olan Konya Ovası ve Çukurova, fiziki haritalarda farklı renk tonlarıyla gösterilir.\n\nBu durumun temel sebebi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Farklı iklim tiplerinin görülmesi"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Bulundukları arazide oluşan toprakların farklı olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Doğal bitki örtülerinin farklı olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sulama olanaklarının farklı olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yükselti basamaklarının farklı olması"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nKaradeniz Bölgesi'nde yer alan delta ovaları:\n• **Bafra Ovası:** Kızılırmak nehri tarafından oluşturulmuştur.\n• **Çarşamba Ovası:** Yeşilırmak nehri tarafından oluşturulmuştur.\n\n❌ **Çeldiriciler:**\n• Sakarya Nehri kıyı akıntıları ve derinlik sebebiyle belirgin bir delta çıkıntısı oluşturamamıştır (küçük ağız deltası). Çukurova ve Silifke Akdeniz'dedir."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Fiziki Haritalarda Renkler:</strong>\nFiziki haritalardaki renkler bitki örtüsünü veya toprağı değil, <strong>sadece ve sadece deniz seviyesine göre yükselti basamaklarını</strong> gösterir:\n• <strong>Çukurova (0-200 m):</strong> Yeşil renkle gösterilir (deniz seviyesine yakın kıyı ovası).\n• <strong>Konya Ovası (~1000 m):</strong> Sarı ve açık kahverengi tonlarıyla gösterilir (yüksek plato ve iç ova tabanı).\n\n❌ <strong>Çeldiriciler:</strong>\nİklim, toprak, bitki örtüsü veya tarımsal verimlilik fiziki harita renklerini belirlemez.\n\n📌 <strong>EKYS İpucu:</strong> \"Yeşil renk orman veya verimli tarım alanını gösterir\" algısı harita bilgisindeki en yaygın yanılgıdır; fiziki haritada yeşil sadece 0-500 m yükselti demektir."
   },
   {
     "id": "cogr_test_10-q4",
@@ -32318,33 +32318,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 4)",
+    "questionText": "Aşağıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nHaritada işaretli alanların hangisi yer şekilleri sade olduğu için tarıma daha uygundur?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_10_q4.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nEge Bölgesi'ndeki delta ovaları ve nehir eşleştirmeleri:\n• **Dikili Ovası:** Bakırçay\n• **Menemen Ovası:** Gediz\n• **Selçuk Ovası:** Küçük Menderes\n• **Balat Ovası:** Büyük Menderes\nBu nehirler graben çukurlukları boyunca akarak Ege Denizi kıyısında geniş deltalar oluşturmuştur."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Konu Analizi:</strong>\n• <strong>I Numara (Kıyı Ege - Gediz / Bakırçay Grabeni ve Deltaları):</strong> Graben ovaları ve delta sahaları yer şekillerinin son derece sade, eğimin az ve alüvyal toprakların yaygın olduğu, makineli tarıma en elverişli sahalardır.\n• Diğer numaralar (II Menteşe, III Doğu Karadeniz dağlık kıyısı, IV Hakkari Yöresi vb.) engebeli ve eğimli sahalardır; yer şekilleri sade değildir."
   },
   {
     "id": "cogr_test_10-q5",
@@ -32355,33 +32355,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q5.png",
+    "questionText": "Aşağıda verilen ova ve oluşum şekli eşleştirmelerinden hangisi yanlıştır?\n\n        Ova                 Oluşum Şekli\nA) Çarşamba             Delta\nB) Çukurova             Delta\nC) Suluova              Tektonik\nD) Iğdır                Tektonik\nE) Menemen              Karstik",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Çarşamba - Delta"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çukurova - Delta"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Suluova - Tektonik"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Iğdır - Tektonik"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Menemen - Karstik"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTektonik ovalar, yer kabuğu hareketleri (fay hatları, kırılmalar ve çökmeler) sonucu oluşan çöküntü alanlarının alüvyonlarla dolmasıyla meydana gelir. Türkiye aktif fay hatları kuşağında (KAF, DAF, BAF) yer aldığı için ülkemizde **en yaygın ova türü tektonik ovalardır**.\n\n❌ **Çeldiriciler:**\n• Delta ovaları sadece deniz kıyılarında bulunur; karstik ovalar kalkerli Akdeniz arazisinde sınırlıdır."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Ova Oluşum Türleri:</strong>\n• <strong>Menemen Ovası:</strong> Gediz Nehri'nin Ege Denizi kıyısında oluşturduğu bir <strong>Delta Ovası</strong>dır (Karstik ova değildir).\n\n📌 <strong>Diğer Seçeneklerin Doğruluğu:</strong>\n• Çarşamba: Yeşilırmak Deltasıdır (Doğru).\n• Çukurova: Seyhan ve Ceyhan Deltasıdır (Doğru).\n• Suluova (Amasya): KAF kuşağında Tektonik ovadır (Doğru).\n• Iğdır Ovası: Aras Nehri çöküntü oluğunda Tektonik ovadır (Doğru)."
   },
   {
     "id": "cogr_test_10-q6",
@@ -32392,33 +32392,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q6.png",
+    "questionText": "Aşağıdaki ovaların hangisi diğerlerinden farklı bir oluşum özelliğine sahiptir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Tefenni"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Gembos"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Isparta"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Muğla"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Çukurova"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nKarstik ovalar (Polye), kireç taşı, jips ve kaya tuzu gibi kolay eriyebilen arazilerde erime sonucu oluşan çanakların alüvyonla dolmasıyla oluşur. Akdeniz Bölgesi'nde yaygındır.\n• **Şifre: TAKKEM** (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla ovaları karstik ovalardır).\n\n❌ **Çeldiriciler:**\n• Erbaa, Niksar, Tosya tektonik (KAF); Çarşamba deltadır."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Konu Analizi:</strong>\n• <strong>Çukurova:</strong> Seyhan ve Ceyhan nehirlerinin taşıdığı alüvyonlarla oluşmuş bir <strong>Kıyı Delta Ovası</strong>dır.\n• <strong>Tefenni, Gembos, Isparta ve Muğla ovaları:</strong> Akdeniz karst kuşağında kalkerli arazinin erimesiyle oluşan <strong>Karstik Ovalar (Polye Ovaları / TAKKEM)</strong> grubundadır."
   },
   {
     "id": "cogr_test_10-q7",
@@ -32429,33 +32429,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 7)",
+    "questionText": "Sıcaklık değerlerinin yüksek ve yaz süresinin uzun olduğu alanlarda, sulama faaliyetlerinde problem yoksa aynı yıl içinde bir tarım alanından birden fazla ürün elde edilebilir.\n\nYukarıdaki haritada işaretli alanların hangisi yıl içerisinde birden fazla ürün almaya en elverişlidir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_10_q7.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nKuzey Anadolu Fay Hattı (KAF) üzerinde yer alan önemli tektonik ovalar:\n• Düzce, Bolu, Çerkeş, Tosya, Kargı, Merzifon, Suluova, Taşova, Erbaa, Niksar, Reşadiye, Suşehri, Erzincan, Pasinler ovalarıdır.\n\n❌ **Çeldiriciler:**\n• Muğla karstik ovadır; Çukurova ve Silifke delta ovasıdır; Amik DAF üzerindedir."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Konu Analizi:</strong>\n• <strong>III Numara (Çukurova):</strong> Akdeniz iklim bölgesinde yer alması, güneşlenme süresinin ve sıcaklık birikiminin yüksek olması, kışların ılık geçmesi ve sulama olanaklarının gelişmiş olması sayesinde yılda <strong>2 veya 3 ürün</strong> alınabilen en verimli ovamızdır.\n• İç ve yüksek kesimlerdeki ovalarda (İç ve Doğu Anadolu) don olayları ve kısa yaz süresi nedeniyle yılda tek ürün alınabilir."
   },
   {
     "id": "cogr_test_10-q8",
@@ -32466,33 +32466,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q8.png",
+    "questionText": "Tektonik ovalar, fay hatları boyunca kırılma ve çökme sonucunda meydana gelen, çevresine göre çukurda kalan düz alanlardır.\n\nAşağıdaki ovalardan hangisi Batı Anadolu Fay Hattı (BAF) üzerinde oluşmamıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Alaşehir Ovası"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Amik Ovası"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Bergama Ovası"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Torbalı Ovası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Aydın Ovası"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nDoğu Anadolu Fay Hattı (DAF / Güneydoğu Anadolu Fayı) üzerinde yer alan tektonik ovalar:\n• Amik (Hatay), Maraş, Elbistan, Malatya, Elazığ (Uluova), Bingöl ve Muş ovalarıdır."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Fay Kuşakları ve Ovalar:</strong>\n• <strong>Amik Ovası (Hatay):</strong> Afrika-Kızıldeniz grabeninin uzantısı olan <strong>Doğu Anadolu Fay Hattı (DAF / Güneydoğu Fay Kuşağı)</strong> graben oluğu üzerinde yer alır.\n• <strong>Alaşehir (Gediz), Bergama (Bakırçay), Torbalı (Küçük Menderes) ve Aydın (Büyük Menderes):</strong> Batı Anadolu Fay Hattı (BAF) graben çöküntü ovalarıdır."
   },
   {
     "id": "cogr_test_10-q9",
@@ -32503,33 +32503,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 9)",
+    "questionText": "Türkiye nüfusunun büyük bir kısmı çevresine göre alçakta kalan ova tabanlarında toplanmaktadır. Bu durumun temel sebebi ekonomik faaliyetlerin gelişimi ve çeşitliliğidir.\n\nBuna göre yukarıda Türkiye haritasında numaralandırılarak verilen sahaların hangisinde ekonomik faaliyet çeşitliliği daha az olduğu için nüfus yoğunluğu da azdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_10_q9.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\n**Konya Ovası**, Türkiye'nin yüzölçümü bakımından en büyük iç ovasıdır. Eski bir göl tabanı (tektonik-göl tabanı ovası) özelliği taşır ve Türkiye'nin tahıl ambarı olarak bilinir.\n\n❌ **Çeldiriciler:**\n• Çukurova en büyük delta ovasıdır; Konya Ovası ise en büyük iç ovadır."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Konu Analizi:</strong>\n• <strong>IV Numara (Hakkari / Yüksekova Çevresi):</strong> Ortalama yükseltinin yaklaşık 2000 metreye ulaştığı, kış şartlarının çok sert geçtiği, sanayi, ticaret ve ulaşımın yetersiz olduğu bir sahadır; bu nedenle ekonomik faaliyet çeşitliliği ve nüfus yoğunluğu oldukça azdır.\n• I, II, III ve V numaralı sahalar kıyı kuşağı veya sanayi-tarım kavşaklarında yer aldığı için nüfus yoğundur."
   },
   {
     "id": "cogr_test_10-q10",
@@ -32540,33 +32540,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q10.png",
+    "questionText": "Aşağıdaki ovalardan hangisi karstik ovalara (polye) örnek oluşturur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Amik Ovası"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Varto Ovası"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Muğla Ovası"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Turgutlu Ovası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ödemiş Ovası"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\n**Yüksekova (Hakkari)**, Türkiye'nin ortalama yükseltisi en fazla olan ovalarından biridir (yaklaşık 1950-2000 m yükselti). Tektonik kökenlidir.\n\n❌ **Çeldiriciler:**\n• Çukurova, Bafra deniz seviyesindedir; Bursa 150-200 m, Malatya 900 m civarındadır."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Karstik Ovalar (Polye Ovaları):</strong>\nKalker (kireçtaşı) arazisinin kimyasal erimesiyle oluşan çukurlukların tabanında alüvyon birikmesiyle oluşur.\n• Akdeniz kuşağında yer alan <strong>Muğla Ovası</strong>, Tefenni, Acıpayam, Korkuteli, Kestel ve Elmalı (TAKKEM) ovaları karstik ovalardır.\n\n❌ <strong>Çeldiriciler:</strong>\n• Amik ve Varto: DAF tektonik ovalarıdır.\n• Turgutlu ve Ödemiş: Ege graben (BAF) tektonik ovalarıdır."
   },
   {
     "id": "cogr_test_10-q11",
@@ -32577,33 +32577,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q11.png",
+    "questionText": "• Modern tarım yöntemleri uygulanır.\n• Tarımsal ürün çeşitliliği oldukça fazladır.\n• Türkiye'nin en büyük delta ovasıdır.\n• Gerisinde bulunan Tahtalı, Bolkar ve Aladağlar kıyıdan daha içeride uzandığı için ovanın gelişimine geniş zemin hazırlamıştır.\n\nYukarıda özellikleri verilen ova aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Antalya Ovası"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çarşamba Ovası"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Çukurova"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Menemen Deltası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Silifke Ovası"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nOvaların ekonomik önemi ve tarımsal niteliği:\n• Delta ve tektonik ovalar kalın ve verimli alüvyal topraklarla kaplıdır.\n• Yeraltı suları zengindir ve sulama kolaydır.\n• Sanayi, ulaşım ve yerleşme için çekim merkezidir.\nBu alanların tarım dışı (sanayi ve konut) amaçla kullanılması toprak kaybına ve deprem riskine yol açmaktadır."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Çukurova:</strong>\nSeyhan ve Ceyhan nehirlerinin Akdeniz kıyısında oluşturduğu Türkiye'nin en büyük delta ovasıdır. Toroslar'ın (Bolkar, Aladağ ve Tahtalı dağları) geride ve yay şeklinde uzanması nehirlerin taşıdığı muazzam alüvyonların kıyıda birikmesine olanak sağlamıştır."
   },
   {
     "id": "cogr_test_10-q12",
@@ -32614,33 +32614,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q12.png",
+    "questionText": "• Kalsiyum bikarbonat (kireçtaşı) içerikli kayaçlarda erimeye bağlı oluşan ova türüdür.\n• Kısmen verimli arazilerdir.\n• Polye ovası ve gölova olarak da adlandırılırlar.\n\nYukarıda verilen özelliklere sahip ova aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Konya Ovası"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Tavas Ovası"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kırkağaç Ovası"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Ceylanpınar Ovası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Tosya Ovası"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Göksu Nehri**, Taşeli Platosu'ndan geçerek Akdeniz'e döküldüğü yerde **Silifke Deltası**'nı oluşturur.\n\n❌ **Çeldiriciler:**\n• Seyhan ve Ceyhan Çukurova'yı, Yeşilırmak Çarşamba'yı, Kızılırmak Bafra'yı oluşturur."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Polye (Gölova) Arazisi:</strong>\nDenizli il sınırlarında yer alan <strong>Tavas Ovası</strong>, karstik aşınım (polye) kökenli bir ovadır (gölova özelliği gösterir).\n\n❌ <strong>Çeldiriciler:</strong>\n• Konya: Eski göl tabanı / tektonik iç ovadır.\n• Kırkağaç (Bakırçay grabeni): Tektoniktir.\n• Ceylanpınar: GD Anadolu tabakalı aşınım/tektonik ovadır.\n• Tosya: KAF hattı tektonik ovadır."
   },
   {
     "id": "cogr_test_10-q13",
@@ -32651,33 +32651,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q13.png",
+    "questionText": "• Batı Anadolu Fay Hattı (BAF) üzerinde yer alırlar.\n• Üzüm, tütün, pamuk, incir ve zeytin en önemli yetişen tarım ürünleridir.\n• Deprem riski yüksektir.\n• Verimli alüvyal arazilere ve zengin sıcak su kaynaklarına (jeotermal) sahiptirler.\n• Fiziki haritalarda yeşil renkle gösterilirler.\n\nYukarıda özellikleri verilen ova çifti aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Manyas - Erbaa"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İncirliova - Amik"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tokat - Turhal"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Torbalı - Alaşehir"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ereğli - Salihli"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nBatı Karadeniz ve Doğu Karadeniz kıyılarında dağlar hemen kıyıdan itibaren çok dik yükseldiği ve deniz aniden derinleştiği için (kıta sahanlığı çok dar olduğu için) geniş delta ovaları oluşamamıştır.\n\n❌ **Çeldiriciler:**\n• Orta Karadeniz'de (Samsun) dağlar geride ve alçak olduğu için Bafra ve Çarşamba deltaları oluşabilmiştir."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Konu Analizi:</strong>\n• <strong>Torbalı (Küçük Menderes grabeni)</strong> ve <strong>Alaşehir (Gediz grabeni)</strong> ovaları Batı Anadolu Fay Kuşağı'nda (Ege) yer alan, jeotermal kaynakların yaygın olduğu, üzüm ve incir üretiminde lider, deniz seviyesine yakın oldukları için fiziki haritada yeşil renkle gösterilen çöküntü ovalarıdır.\n\n❌ <strong>Çeldiriciler:</strong>\n• Erbaa ve Tokat KAF üzerindedir.\n• Amik DAF üzerindedir.\n• Ereğli İç Anadolu'dadır (yeşil renkle gösterilmez, sarı/kahverengidir)."
   },
   {
     "id": "cogr_test_10-q14",
@@ -32688,33 +32688,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q14.png",
+    "questionText": "• Deprem riski düşüktür.\n• Ülkenin en önemli pamuk ve tahıl ekim alanlarından biridir.\n• Tarım sezonunda yoğun mevsimlik göç alır.\n• Güneydoğu Anadolu Bölgesi'nde yer alan bir tektonik ovadır.\n\nYukarıda bazı özellikleri verilen ova aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Çukurova"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Altınbaşak (Harran) Ovası"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Konya Ovası"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Turhal Ovası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Gediz Ovası"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Iğdır Ovası** (Sürmeli Ovası), Doğu Anadolu'da etrafı yüksek dağlarla çevrili bir tektonik çöküntü oluğu içinde yer aldığı için mikroklima iklim özelliğine sahiptir. Fön rüzgarları etkisiyle pamuk ve Akdeniz ürünleri yetiştirilebilir.\n\n❌ **Çeldiriciler:**\n• Erzurum, Kars, Yüksekova kışları çok sert geçen yüksek ovalardır."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Altınbaşak (Harran) Ovası:</strong>\nŞanlıurfa sınırlarında yer alan Altınbaşak (Harran) Ovası, Güneydoğu Anadolu'nun deprem riski düşük masif arazisi üzerinde bulunur. GAP sulamasıyla birlikte Türkiye'nin en büyük pamuk üretim merkezi haline gelmiş ve yoğun mevsimlik tarım işçisi göçü alan bir ova olmuştur.\n\n❌ <strong>Çeldiriciler:</strong>\n• Çukurova ve Gediz aktif fay zonlarına yakındır, deprem riski mevcuttur."
   },
   {
     "id": "cogr_test_10-q15",
@@ -32725,33 +32725,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 15)",
+    "questionText": "Aşağıdaki haritada beş farklı ova sahası numaralandırılarak gösterilmiştir.\n\nHaritada numaralandırılarak gösterilen ovaların genel özellikleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_10_q15.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "V numaralı ovada küçükbaş koyun yetiştiriciliği yaygındır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "III numaralı ovanın toprak yapısı içinde kireç eriği yüksektir."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "IV numaralı ova, ülkenin en önemli şeker pancarı üretim alanlarından biridir."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II numaralı ova, deprem riski yüksek tektonik bir ova tabanıdır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I numaralı ova, epirojenik hareketlerle toptan yükselmektedir."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\n**Develi Ovası** (Kayseri), Erciyes Dağı'nın eteklerinde yer alan volkanik küller ve alüvyonlarla dolmuş tektonik/volkanik bir iç ovadır.\n\n❌ **Çeldiriciler:**\n• Tefenni karstiktir, Menemen deltadır, Düzce KAF tektonik ovasıdır."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Konu Analizi:</strong>\n• <strong>I Numara (Ergene Havzası):</strong> Epirojenik olarak toptan yükselmemekte, aksine üzerindeki biriken tortulların ağırlığıyla <strong>epirojenik olarak çökmektedir (sürekli alçalma sahasıdır)</strong>. Aynı durum Çukurova için de geçerlidir; deltalar ve Ergene çöküntü alanları çöken epirojenik sahalardır.\n• Diğer maddelerdeki bilgiler (karstik kireç yapısı, İç Anadolu şeker pancarı, küçükbaş hayvancılık ve tektonik fay hatları) doğrudur."
   },
   {
     "id": "cogr_test_10-q16",
@@ -32762,33 +32762,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 16)",
+    "questionText": "Aşağıdaki Türkiye haritasında beş farklı ova alanı numaralandırılarak verilmiştir.\n\nHaritada numaralandırılarak verilen ovaların hangisinde volkanizmaya bağlı olarak topraktaki mineral madde oranı oldukça yüksektir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_10_q16.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'deki ovaların genel dağılışı ve özellikleri incelendiğinde; kıyı ovaları ile iç ovalar arasında sıcaklık, yağış, yetiştirilen ürün çeşitliliği ve hasat olgunlaşma süreleri açısından belirgin farklar bulunur. Kıyı ovalarında yılda birden fazla ürün alınabilir."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Volkanik Topraklar ve Develi Ovası:</strong>\n• <strong>IV Numara (Kayseri - Develi Ovası):</strong> Erciyes Dağı volkanik kütlesinin eteklerinde yer alır. Volkanik kül ve tüflerin alüvyonlarla karışması sonucu topraklar mineral ve potasyum yönünden oldukça zengindir (patates, elma ve tarım için çok elverişlidir).\n• Diğer numaralar volkanik kökenli verimli kül arazisi niteliğinde değildir."
   },
   {
     "id": "cogr_test_10-q17",
@@ -32799,33 +32799,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 17)",
+    "questionText": "Polye; kolay eriyebilen kayaçların çözünmesiyle ve tektonik çökme ile meydana gelen, yüksek dağlar arasında bulunan geniş düzlüklere denir. Bu alanların tabanının alüvyal toprakla dolması sonucu polye ovaları ya da karstik ovalar meydana gelir.\n\nBuna göre haritada numaralandırılmış alanların hangisinde yukarıda verilen açıklamaya uygun ovalar (polye ovaları) yaygındır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_10_q17.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nHarita üzerinde işaretlenen karstik ovalar (polye alanları) Akdeniz kuşağında Muğla, Antalya, Burdur, Isparta çevrelerinde yoğunlaşır (TAKKEM ovaları).\n\n❌ **Çeldiriciler:**\n• İç Anadolu, Doğu Anadolu ve Karadeniz'de karstik polye ovaları yaygın değildir."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Karstik Polye Sahaları:</strong>\n• <strong>II Numara (Akdeniz - Teke ve Göller Yöresi kuşağı):</strong> Kireçtaşının (kalker) en yaygın olduğu karst kuşağıdır. Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı ve Muğla ovaları bu kuşaktadır.\n• Diğer bölgelerimizde (I Marmara, III Karadeniz, IV-V Doğu / GD Anadolu) karstik polye ovaları bulunmaz."
   },
   {
     "id": "cogr_test_10-q18",
@@ -32836,33 +32836,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 10: Ovalar (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_10_q18.png",
+    "questionText": "Delta, akarsuların sığ deniz kıyısında yapmış olduğu alüvyal birikimdir. Ülkemizde farklı kıyı bölgelerimizde delta oluşumu mevcuttur.\n\nBuna göre, ülkemizde verimli ve geniş delta ovalarının oluşabilmesinin temel sebebi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Akarsuların havzalarında güçlü erozyon sebebiyle bol alüvyon taşıması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Akarsuların denge profiline ulaşmış olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Arazinin genç ve engebeli yapıda olması nedeniyle derin vadiler açması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Akarsuların deniz kıyısında yatak değiştirmemesi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kıyı kesimde akarsu vadilerinin tamamen ortadan kalkması"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nFay hatları ile tektonik ovaların dağılışı arasında doğrudan bir paralellik vardır. Fay hatları boyunca yer alan tektonik ovalar birinci derece deprem riski taşıyan sahalardır."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Delta Oluşumunun Temel Sebebi:</strong>\nTürkiye'de deltanın hızla büyümesi ve gelişmesinin en önemli itici gücü, arazimizin genç ve yüksek olması ve buna bağlı şiddetli erozyon nedeniyle <strong>akarsuların bol miktarda malzeme (alüvyon) taşıması</strong>dır.\n\n❌ <strong>Çeldiriciler:</strong>\n• Türkiye akarsuları genç oluşumludur ve hiçbir zaman denge profiline ulaşmamıştır (B yanlıştır).\n• D ve E seçenekleri delta oluşumunun nedeni olamaz."
   },
   {
     "id": "cogr_test_11-q1",
@@ -32873,33 +32873,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q1.png",
+    "questionText": "Aşağıdaki göllerden hangisi diğerlerinden farklı bir coğrafi bölgede yer alır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sapanca"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İznik"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ulubat"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Manyas (Kuş Gölü)"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Tuz Gölü"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nBir gölün suyunun tatlı, acı, tuzlu veya sodalı olmasını belirleyen faktörler:\n1. **Gölün gideğeninin (ayağının / dışarıya akışının) bulunup bulunmaması** (En önemli faktör; gideğeni olan göllerin suları tatlıdır),\n2. İklim koşulları ve buharlaşma şiddeti,\n3. Beslenme kaynaklarının zenginliği,\n4. Göl çanağını oluşturan kayaçların kimyasal yapısıdır.\n\n❌ **Çeldiriciler:**\n• Gölün denizden yüksekliği veya gölde yapılan taşımacılık suyun kimyasal yapısını doğrudan belirlemez."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Göllerin Coğrafi Dağılımı:</strong>\n• <strong>Tuz Gölü:</strong> İç Anadolu Bölgesi'nde yer alır (Ankara, Konya ve Aksaray il sınırlarında).\n• <strong>Sapanca, İznik, Ulubat ve Manyas Gölleri:</strong> Marmara Bölgesi'nin (Güney Marmara tektonik çukurluklarında) yer alan tektonik göllerdir."
   },
   {
     "id": "cogr_test_11-q2",
@@ -32910,33 +32910,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q2.png",
+    "questionText": "Göllerin bulundukları alanların iklim özelliklerine ve su bilançosuna bağlı olarak, yıl içerisinde su seviyesi ve su potansiyeli belirgin değişiklik gösterebilir.\n\nBuna göre, aşağıdaki göllerden hangisinin yıl içerisinde su potansiyeli ve yüzölçümü en fazla değişim gösterir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Van Gölü"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Tuz Gölü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Beyşehir Gölü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Eğirdir Gölü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Hazar Gölü"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Van Gölü**, Türkiye'nin en büyük gölüdür. Hem tektonik çöküntü hem de Nemrut volkanından çıkan lavların çanağın önünü kapatmasıyla oluşmuş **Volkanik Set Gölü** (Karma yapılı) niteliğindedir. Suları **sodalır** ve inci kefali yaşar.\n\n❌ **Çeldiriciler:**\n• Beyşehir tatlı sulu karstik/tektoniktir; Tuz Gölü tuzludur; Çıldır lav set gölüdür ancak tatlı suludur."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Tuz Gölü'nün Su Seviyesi Değişimi:</strong>\n<strong>Tuz Gölü</strong>, ortalama derinliği çok sığ olan (yaklaşık 40-50 cm), kapalı havza özelliği taşıyan ve İç Anadolu'nun yarı kurak iklim kuşağında yer alan bir göldür. Yaz mevsiminde aşırı sıcaklık ve şiddetli buharlaşma nedeniyle yüzölçümü ve su seviyesi en fazla daralan/değişen gölümüzdür.\n\n❌ <strong>Çeldiriciler:</strong>\n• Van, Beyşehir, Eğirdir ve Hazar gölleri daha derin çanaklarda yer aldığından yüzölçümü ve su hacmi dalgalanması Tuz Gölü kadar radikal değildir."
   },
   {
     "id": "cogr_test_11-q3",
@@ -32947,33 +32947,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q3.png",
+    "questionText": "Açık havza; sularını akarsular (gideğen/ayak) aracılığıyla denizlere ve okyanuslara ulaştırabilen göl ve akarsu havzalarıdır. Gideğeni bulunan göllerin suları tatlı olurken, gideğeni olmayan kapalı havza göllerinin suları acı, tuzlu ya da sodalı olur.\n\nBuna göre aşağıda verilen göllerden hangisi açık havza özelliği göstermektedir (suları tatlıdır)?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Eğirdir Gölü"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Van Gölü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tuz Gölü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Salda Gölü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Burdur Gölü"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Beyşehir Gölü**, Türkiye'nin en büyük tatlı su gölüdür. Çarşamba Çayı adında bir gideğeni (ayağı) bulunduğu için suları tatlıdır ve Konya Ovası'nın sulanmasında kullanılır.\n\n❌ **Çeldiriciler:**\n• Eğirdir tatlı sulu ikinci büyük göldür; Van sodalıdır; Tuz Gölü ve Burdur acı/tuzludur."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Göl Ayağı (Gideğen) ve Açık Havza:</strong>\n• <strong>Eğirdir Gölü:</strong> Kovada Kanalı ve Çayı aracılığıyla sularını Kovada Gölü'ne ve oradan Akdeniz'e boşalttığı için gideğeni vardır ve <strong>suları tatlıdır (açık havza)</strong>. Aynı şekilde Beyşehir Gölü'nün de gideğeni (Çarşamba Çayı) vardır.\n• <strong>Van Gölü, Tuz Gölü, Salda ve Burdur gölleri:</strong> Sularını dışarıya boşaltamayan <strong>kapalı havzalardır</strong>; bu nedenle suları sodalı, tuzlu veya acıdır."
   },
   {
     "id": "cogr_test_11-q4",
@@ -32984,33 +32984,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 4)",
+    "questionText": "Anadolu'nun jeolojik oluşumu sırasında tektonik hareketler ve faylanmalar sonucu meydana gelmiş çanakların içerisine suların dolmasıyla tektonik göller oluşmuştur.\n\nBuna göre aşağıdaki Türkiye haritasında numaralandırılmış yörelerin hangisinde tektonik göller (çöküntü gölleri) daha yaygındır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_11_q4.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nKarstik göller, kireçtaşı ve alçıtaşı gibi kolay eriyen kayaların bulunduğu karstik çanaklarda oluşur. Akdeniz / Göller Yöresi'nde yaygındır:\n• **Salda, Kestel, Avlan, Elmalı, Suğla, Karagöl, Yarışlı** karstik göllerdir.\n\n❌ **Çeldiriciler:**\n• Manyas, İznik, Sapanca, Ulubat: Güney Marmara Tektonik gölleridir.\n• Erçek, Nazik, Balık, Haçlı: Doğu Anadolu Volkanik Set gölleridir."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Tektonik Göller Kuşağı:</strong>\n• <strong>I Numara (Güney Marmara Kuşağı):</strong> Kuzey Anadolu Fay Hattı'nın (KAF) güney kollarındaki tektonik graben çukurluklarında oluşan <strong>Sapanca, İznik, Ulubat ve Manyas gölleri</strong> tektonik göllerin en tipik örnekleridir.\n• II Akdeniz karstik göller yöresidir, III ve IV sirk ve volkanik dağlık alanlardır, V Güneydoğu'da doğal göl bulunmaz."
   },
   {
     "id": "cogr_test_11-q5",
@@ -33021,33 +33021,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q5.png",
+    "questionText": "• Suyu sodalıdır.\n• Üzerinde feribotlarla yolcu ve yük taşımacılığı (demiryolu bağlantılı) yapılır.\n• Üzerinde tarihi Akdamar Adası ve kilisesi bulunmaktadır.\n\nYukarıda özellikleri verilen göl aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Çıldır Gölü"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Nazik Gölü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Erçek Gölü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Hazar Gölü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Van Gölü"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nHeyelan set gölleri, heyelan sonucu kayan kütlelerin vadi önünü tıkamasıyla oluşur. En çok heyelanın görüldüğü **Karadeniz Bölgesi**'nde yaygındır:\n• **Tortum (Erzurum), Sera (Trabzon), Abant ve Yedigöller (Bolu), Zinav (Tokat), Boraboy (Amasya)** heyelan set gölleridir.\n\n❌ **Çeldiriciler:**\n• Nemrut kalderadır; Bafa alüvyal settir; Mogan alüvyal settir; Çıldır volkanik settir."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Van Gölü:</strong>\nTürkiye'nin yüzölçümü en büyük gölüdür. Nemrut Dağı'ndan çıkan lavların tektonik çanağın önünü tıkamasıyla oluşmuş <strong>volkanik set (karma) gölüdür</strong>. Suları sodalıdır; Tatvan ile Van arasında tren feribotlarıyla demiryolu taşımacılığı yapılır ve içinde Akdamar Kilisesi'nin yer aldığı Akdamar Adası bulunur."
   },
   {
     "id": "cogr_test_11-q6",
@@ -33058,33 +33058,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q6.png",
+    "questionText": "Volkanik patlamalar sonucunda oluşan çukur alanlar içerisine suların dolmasıyla volkanik göller meydana gelir. Kraterlerin çökmesi ya da patlamalarla genişlemesi sonucu devasa çanaklarda \"kaldera gölleri\" oluşur.\n\nTürkiye'nin aşağıdaki göllerinden hangisi kaldera gölü niteliğindedir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Nemrut Gölü"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Tortum Gölü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kovada Gölü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Manyas Gölü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Van Gölü"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nVolkanik Set Gölleri, volkandan çıkan lavların bir vadi önünü kapatmasıyla oluşur. Volkanizmanın yoğun olduğu **Doğu Anadolu Bölgesi**'nde yaygındır:\n• **Van Gölü, Erçek, Nazik, Çıldır, Balık, Haçlı** gölleri volkanik set gölleridir.\n\n❌ **Çeldiriciler:**\n• Manyas tektonik, Köyceğiz alüvyal set, Abant heyelan set, Terkos kıyı set gölüdür."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Kaldera Gölleri:</strong>\nBitlis'te Nemrut Volkanı'nın tepesinde bulunan <strong>Nemrut Kaldera Gölü</strong>, Türkiye'nin ve Avrupa'nın en büyük, dünyanın ise ikinci büyük kaldera gölüdür (ödüllü jeopark alanıdır).\n\n❌ <strong>Çeldiriciler:</strong>\n• Tortum heyelan set, Kovada karstik, Manyas tektonik, Van volkanik settir."
   },
   {
     "id": "cogr_test_11-q7",
@@ -33095,33 +33095,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 7)",
+    "questionText": "Koy veya körfezlerin önünün dalga ve akıntıların getirdiği kum ve çakıl gibi materyallerden oluşan kıyı kordonu ile kapatılması sonucu deniz kulağı veya kıyı set gölleri (lagün) oluşur.\n\nBuna göre Türkiye haritasında işaretli kıyı kesimlerinin hangisinde kıyı set göllerine (lagünlere) rastlanır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_11_q7.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nAlüvyal Set Gölleri, akarsuların taşıdığı alüvyonların bir koy, körfez veya yan vadi önünü tıkamasıyla oluşur:\n• **Mogan ve Eymir (Ankara)**\n• **Bafa / Çamiçi ve Marmara Gölü (Ege)**\n• **Köyceğiz Gölü (Muğla)**\n• **Uzungöl (Trabzon - alüvyal/heyelan set)**\n\n❌ **Çeldiriciler:**\n• Sapanca tektoniktir; Terkos kıyı setidir; Eğirdir karstik-tektoniktir."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Kıyı Set Gölleri (Lagünler):</strong>\n• <strong>IV Numara (Çukurova Kıyı Kuşağı):</strong> Seyhan ve Ceyhan nehirlerinin deltalarında oluşan <strong>Akyatan ve Ağyatan lagünleri</strong> Türkiye'nin en büyük kıyı set göllerindendir. (Ayrıca Marmara'daki Büyükçekmece, Küçükçekmece ve Durusu/Terkos da kıyı settir).\n• Dağların kıyıya dik ve çok yüksek indiği dik falezli kıyılarda kıyı kordonu oluşamaz."
   },
   {
     "id": "cogr_test_11-q8",
@@ -33132,33 +33132,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q8.png",
+    "questionText": "Karstik arazide kolay eriyebilen kalker ve jips tabakalarının erimesiyle oluşan dolin, uvala ve polye çanaklarına suların dolmasıyla karstik göller meydana gelir.\n\nBuna göre, aşağıdaki göllerden hangisi karstik göllerden biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Avlan Gölü"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Elmalı Gölü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kestel Gölü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Suğla Gölü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Köyceğiz Gölü"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nKıyı Set Gölleri (Lagün / Denizkulağı), dalga ve akıntıların taşıdığı kumların bir koyun önünü kıyı kordonu ile kapatmasıyla oluşur:\n• **Büyükçekmece, Küçükçekmece, Durusu (Terkos)** - Marmara kıyılarında,\n• **Akyatan ve Ağyatan** - Çukurova kıyılarında yer alır.\n\n❌ **Çeldiriciler:**\n• İznik ve Manyas tektoniktir; Salda karstiktir; Tortum heyelan settir."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Köyceğiz Gölü'nün Oluşumu:</strong>\n<strong>Köyceğiz Gölü (Muğla)</strong>, Namnam Çayı'nın taşıdığı alüvyonların eski bir koyun önünü kapatmasıyla meydana gelmiş bir <strong>Alüvyal Set Gölü</strong>dür.\n\n❌ <strong>Karstik Göller:</strong>\n• Avlan, Elmalı, Kestel, Suğla, Salda, Yarışlı gölleri kalkerli arazide erime sonucu oluşmuş karstik göllerdir."
   },
   {
     "id": "cogr_test_11-q9",
@@ -33169,33 +33169,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 9)",
+    "questionText": "Türkiye'de buzul aşındırması sonucu oluşan sirk (buzul) gölleri ortalama 2000 metrenin üzerindeki yüksek dağlık arazilerde görülmektedir.\n\nBuna göre, yukarıdaki haritada işaretli alanların hangisinde sirk (buzul) göllerine rastlanmaz?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_11_q9.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nVolkanik patlama çukurlarında oluşan göller:\n• **Kaldera Gölleri:** Nemrut Kaldera Gölü (Bitlis - Türkiye'nin ve Avrupa'nın en büyük kalderası).\n• **Krater Gölleri:** Isparta Gölcük krateri.\n• **Maar Gölleri:** Meke Tuzlası (Konya - 'Dünyanın Nazar Boncuğu') ve Acıgöl (Nevşehir/Konya).\n\n❌ **Çeldiriciler:**\n• Manyas, İznik, Sapanca, Ulubat Güney Marmara tektonik gölleridir."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Buzul (Sirk) Gölleri Dağılımı:</strong>\n• <strong>III Numara (Güneydoğu Anadolu - Mardin Eşiği / Şanlıurfa Platosu):</strong> Bölgede buzul aşındırmasına ve sirk çanaklarının oluşumuna imkan verecek yükseklikte (2000 m üzerinde) sıradağlar bulunmaz.\n• Uludağ (I), Kaçkarlar (II), Bolkar-Aladağlar ve Cilo-Sat Dağları (IV, V) sirk göllerinin yoğun görüldüğü yüksek alanlardır."
   },
   {
     "id": "cogr_test_11-q10",
@@ -33206,33 +33206,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 10)",
+    "questionText": "Volkanik patlama sonucunda ortaya çıkan lav ve piroklastik materyallerin akarsu vadilerinin önünü kapatmasıyla meydana gelen çanaklarda \"volkanik set gölleri\" oluşur.\n\nHaritada işaretli alanların hangisinde volkanik set gölleri yaygın olarak yer almaktadır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_11_q10.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Meke Tuzlası (Maar Gölü)**, Konya Karapınar'da volkanik gaz patlaması sonucu oluşan çanakta yer alan ve ortasında volkan konisi bulunan, 'Dünyanın Nazar Boncuğu' olarak adlandırılan maar gölüdür.\n\n❌ **Çeldiriciler:**\n• Nemrut kalderadır; Tortum heyelan settir; Bafa alüvyal settir; Terkos lagündür."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Volkanik Set Gölleri Yöresi:</strong>\n• <strong>I Numara (Yukarı Murat-Van / Doğu Anadolu Bölgesi):</strong> Genç volkanik arazinin (Nemrut, Süphan, Tendürek, Ağrı dağları) lav akıntıları sonucu vadi önlerinin kapanmasıyla oluşan volkanik set gölleri bu sahadadır: <strong>Van Gölü, Erçek, Nazik, Çıldır, Balık ve Haçlı gölleri</strong>."
   },
   {
     "id": "cogr_test_11-q11",
@@ -33243,33 +33243,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q11.png",
+    "questionText": "Aşağıdakilerden hangisi akarsuların taşıdığı alüvyonların vadi önlerini kapatması sonucu oluşan alüvyal set göllerine örnek olarak verilebilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sülüklü Göl"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Borabay Gölü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tuz Gölü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Uzungöl"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Tortum Gölü"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nBuzul (Sirk) Gölleri, dağların yüksek kesimlerinde buzulların aşındırmasıyla oluşan sirk çanaklarında biriken sulardır. Türkiye'de matematik konum (orta kuşak) nedeniyle sadece **yüksek dağların zirvelerinde** (Kaçkarlar, Cilo-Sat, Uludağ, Bolkarlar, Aladağlar vb.) görülür.\n\n❌ **Çeldiriciler:**\n• Ege ve Güneydoğu Anadolu'nun alçak düzlüklerinde buzul gölü bulunmaz."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Alüvyal Set Gölleri:</strong>\n• <strong>Uzungöl (Trabzon):</strong> Haldizen Deresi'nin getirdiği alüvyonların ve yamaç döküntülerinin vadi önünü tıkamasıyla oluşmuş tipik bir alüvyal/yamaç set gölüdür.\n• Diğer önemli alüvyal set gölleri: Mogan ve Eymir (Ankara), Marmara Gölü (Manisa), Bafa Gölü (Aydın-Muğla), Köyceğiz Gölü (Muğla).\n\n❌ <strong>Çeldiriciler:</strong>\n• Borabay, Tortum, Sülüklü Göl: Heyelan set gölleridir.\n• Tuz Gölü: Tektonik göldür."
   },
   {
     "id": "cogr_test_11-q12",
@@ -33280,33 +33280,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q12.png",
+    "questionText": "Türkiye'nin gölleri ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Tektonik hareketler sonucu oluşan çöküntü alanlarında meydana gelen göller en yaygın göl grubudur."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Göllerimizden tuz üretimi, soda üretimi ve tatlı su balıkçılığı alanlarında yararlanılır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Türkiye'nin yüzölçümü en büyük gölü Van Gölü'dür."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Gideğenleri üzerinde hidroelektrik santralleri kurulan doğal göller bulunmaktadır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Doğal gölün bulunmadığı tek coğrafi bölge Ege Bölgesi'dir."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTektonik Göller, fay hatlarına bağlı olarak yer kabuğunun çökmesiyle oluşan çanaklarda yer alan göllerdir:\n• Güney Marmara: **İznik, Sapanca, Ulubat, Manyas (Kuş)**\n• İç Anadolu / Göller Yöresi: **Tuz Gölü, Akşehir, Eber, Burdur, Ilgın (Çavuşçu)**\n• Doğu Anadolu: **Hazar Gölü (Elazığ)**\n\n❌ **Çeldiriciler:**\n• Abant heyelan settir; Çıldır volkanik settir; Bafa alüvyal settir; Salda karstiktir."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Konu Analizi:</strong>\n• <strong>E seçeneği yanlıştır:</strong> Doğal gölün bulunmadığı tek coğrafi bölgemiz <strong>Güneydoğu Anadolu Bölgesi</strong>'dir (şiddetli kuraklık, yer şekillerinin düzlüğü ve karstik yeraltı sızıntıları sebebiyle). Ege Bölgesi'nde ise Bafa (Çamiçi) ve Marmara Gölü gibi doğal alüvyal set gölleri bulunmaktadır.\n• A, B, C ve D seçeneklerindeki bilgiler Türkiye gölleri için tamamen doğrudur."
   },
   {
     "id": "cogr_test_11-q13",
@@ -33317,33 +33317,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 13)",
+    "questionText": "Türkiye genelinde göller dengeli bir dağılım göstermez; bazı yörelerde göl sayısı oldukça fazla iken bazı sahalarda doğal göl hemen hemen hiç bulunmamaktadır.\n\nBuna göre yukarıda Türkiye haritasında numaralandırılmış yörelerin hangisinde göl sayısı ve göl yoğunluğu diğerlerine göre daha fazladır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_11_q13.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Hazar Gölü (Elazığ)**, Doğu Anadolu Fay Hattı (DAF) üzerinde yer alan ve gideğeni (Dicle Nehri'nin kaynağı) bulunan tektonik bir göldür. Aynı zamanda üzerinde batık şehir kalıntıları bulunur.\n\n❌ **Çeldiriciler:**\n• Tortum heyelan, Nazik volkanik set, Nemrut kaldera, Çıldır lav setidir."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Göller Yöresi:</strong>\n• <strong>II Numara (Göller Yöresi - Akdeniz / İç Anadolu geçişi):</strong> Beyşehir, Eğirdir, Burdur, Acıgöl, Suğla, Salda, Kovada, Ilgın gibi irili ufaklı çok sayıda tektonik ve karstik gölün bir arada yer aldığı, göl yoğunluğunun en yüksek olduğu sahadır."
   },
   {
     "id": "cogr_test_11-q14",
@@ -33354,33 +33354,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q14.png",
+    "questionText": "Akarsuların önüne kurulan baraj gölleri enerji, sulama ve taşkın önleme işlevlerinin yanında bazen tarihi ve kentsel yerleşim alanlarını sular altında bırakabilir.\n\nBuna göre, Türkiye'nin gövde yüksekliği en fazla olan barajı konumundaki ve Yusufeli ilçe merkezinin sular altında kalmasına neden olan baraj aşağıdaki akarsulardan hangisi üzerindedir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Çoruh Nehri"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Fırat Nehri"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Dicle Nehri"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kızılırmak"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Aras Nehri"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de doğal göllerin enerji (elektrik) üretiminde kullanılması:\n• **Hazar Gölü (Elazığ)**\n• **Tortum Gölü (Erzurum)**\n• **Kovada Gölü (Isparta)**\n• **Çıldır Gölü (Ardahan/Kars)**\nBu göllerin gideğenleri üzerinde hidroelektrik santralleri kurulmuştur.\n\n❌ **Çeldiriciler:**\n• Tuz Gölü, Manyas, Akşehir üzerinde HES kurulmamıştır."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Yusufeli Barajı ve Çoruh Nehri:</strong>\nArtvin sınırlarında yer alan ve 275 metre gövde yüksekliği ile Türkiye'nin en yüksek, dünyanın 5. en yüksek çift eğrilikli beton kemer barajı olan <strong>Yusufeli Barajı</strong>, <strong>Çoruh Nehri</strong> üzerinde inşa edilmiştir.\n\n❌ <strong>Çeldiriciler:</strong>\n• Fırat üzerinde Atatürk, Keban, Karakaya;\n• Dicle üzerinde Ilısu (Prof. Dr. Veysel Eroğlu) ve Devegeçidi;\n• Kızılırmak üzerinde Hirfanlı ve Altınkaya barajları yer alır."
   },
   {
     "id": "cogr_test_11-q15",
@@ -33391,33 +33391,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 15)",
+    "questionText": "Heyelan olayları engebeli ve killi akarsu vadilerinde gerçekleştiğinde, kayan kütleler akarsuyun önünü bir baraj gibi kapatarak gerisinde heyelan set göllerinin oluşmasına zemin hazırlar.\n\nBuna göre Türkiye haritasında numaralandırılmış sahaların hangisinde yukarıda açıklaması verilen heyelan set gölleri yaygın olarak görülür?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_11_q15.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\n**Tuz Gölü**, derinliği çok az (ortalama 40-50 cm), yaz aylarında buharlaşma ile alanı daralan ve Türkiye'nin tuz ihtiyacının büyük bir kısmının karşılandığı tektonik ve kapalı havza gölüdür.\n\n❌ **Çeldiriciler:**\n• Suları tatlı değildir, derinliği fazla değildir, üzerinde düzenli yük taşımacılığı yapılmaz."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Heyelan Set Gölleri Kuşağı:</strong>\n• <strong>III Numara (Karadeniz Dağlık Kuşağı):</strong> Bol yağış, eğimli yamaçlar ve killi toprak yapısı nedeniyle heyelanların en sık yaşandığı bölgedir. <strong>Tortum (Erzurum), Sera (Trabzon), Abant ve Yedigöller (Bolu), Zinav (Tokat), Borabay (Amasya) ve Sülüklü Göl</strong> bu kuşakta yer alan heyelan set gölleridir."
   },
   {
     "id": "cogr_test_11-q16",
@@ -33428,33 +33428,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q16.png",
+    "questionText": "2014 yılında suların çekilmesi ve hava fotoğraflarıyla göl tabanında keşfedilen, su altı arkeolojisinde yüzyılın keşifleri arasında gösterilen Saint Neophytos Bazilikası, Türkiye'de aşağıdaki göllerin hangisinin suları altında yer almaktadır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sapanca Gölü"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İznik Gölü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Manyas Gölü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Küçükçekmece Gölü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Terkos Gölü"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Çıldır Gölü (Kars-Ardahan)**, kış aylarında yüzeyi tamamen buz tutan, üzerinde atlı kızaklarla gezinti yapılan ve buzu kırılarak balık (sarıbalık) avlanan volkanik set gölüdür.\n\n❌ **Çeldiriciler:**\n• Salda Burdur'da, Bafa Aydın-Muğla sınırında, Sapanca Marmara'dadır."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>İznik Gölü Batık Bazilika:</strong>\nBursa il sınırlarında yer alan <strong>İznik Gölü</strong> kıyısında, 2014 yılında su seviyesinin düşmesiyle kıyıdan 20 metre açıkta ve yaklaşık 2 metre derinlikte Erken Hristiyanlık dönemine ait (MS 4. yüzyıl) Saint Neophytos Bazilikası gün yüzüne çıkarılmıştır.\n\n📌 <strong>EKYS İpucu:</strong> Tarih ve coğrafya ortak kültürel miras sorularında İznik Gölü bazilikası sıkça sorulan bir güncel-coğrafi bilgidir."
   },
   {
     "id": "cogr_test_11-q17",
@@ -33465,33 +33465,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q17.png",
+    "questionText": "Eğimli ve yüksek arazilerden akan, akış hızı ve taşıdığı su miktarı (debisi) yüksek akarsular üzerine inşa edilen hidroelektrik barajların enerji üretim potansiyeli çok yüksektir.\n\nAşağıdaki barajlardan hangisi Türkiye'nin kurulu güç ve yıllık üretim miktarı bakımından en fazla elektrik üreten barajıdır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Oymapınar Barajı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Keban Barajı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Karakaya Barajı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Devegeçidi Barajı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Atatürk Barajı"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nBaraj göllerinin kurulma amaçları:\n• Elektrik enerjisi üretmek,\n• Tarım alanlarını sulamak,\n• İçme ve kullanma suyu sağlamak,\n• Taşkın ve selleri önlemek.\nAtatürk, Keban, Karakaya, Deriner, Ilısu (Prof. Dr. Veysel Eroğlu) Türkiye'nin en büyük yapay baraj gölleridir."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Atatürk Barajı:</strong>\nŞanlıurfa-Adıyaman arasında Fırat Nehri üzerinde kurulu olan <strong>Atatürk Barajı ve HES</strong>, 2.400 MW kurulu gücüyle Türkiye'nin açık ara en fazla hidroelektrik enerji üreten barajıdır. Aynı zamanda gövde hacmi ve göl alanı büyüklüğü bakımından da ülkemizin en büyük yapay baraj gölüdür."
   },
   {
     "id": "cogr_test_11-q18",
@@ -33502,33 +33502,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⛵",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 11: Göller (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_11_q18.png",
+    "questionText": "\"Dünyanın nazar boncuğu\" olarak anılan ve volkanik gaz patlaması sonucu oluşan çanakta yer alan, ortasında ikinci bir volkan konisi barındıran maar gölü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sera Gölü"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ilgın Gölü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Abant Gölü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Meke Gölü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Marmara Gölü"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nGöl oluşum tipleri ve örnek eşleştirmeleri:\n• Nemrut -> Kaldera\n• Sera -> Heyelan Set\n• Terkos -> Kıyı Set (Lagün)\n• Salda -> Karstik\nD seçeneğindeki eşleştirme doğru bilimsel sınıflandırmayı sunar."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Meke Maar Gölü:</strong>\nKonya Karapınar'da yer alan <strong>Meke Gölü</strong>, volkanik gaz patlaması (maar) sonucu oluşmuş bir krater çanağının sularla dolması ve ortasında lav çıkışıyla oluşan cüruf konisiyle adeta bir nazar boncuğunu andırdığı için \"Dünyanın Nazar Boncuğu\" unvanını almıştır.\n\n❌ <strong>Çeldiriciler:</strong>\n• Sera ve Abant heyelan set, Ilgın tektonik, Marmara Gölü alüvyal settir."
   },
   {
     "id": "cogr_test_15-q1",
