@@ -1,0 +1,154 @@
+Değerli arkadaşlarım, sevgili hocalarım, hepinize iyi akşamlar. Sesimiz ve görüntümüz netse kontrollerimizi tamamlayıp doğrudan dersimize geçiyoruz. En son Türkiye'nin yağışlı alanlarını bitirmiştik; bugün ise hem sınavların vazgeçilmezi olan **Türkiye'yi Etkileyen Basınç Merkezleri ve İklim Tipleri** konusunu eksiksiz ele alacağız hem de hemen ardından yer şekillerine dair bolca soru çözerek konularımızı pekiştireceğiz.
+
+---
+
+### 1. Türkiye'yi Etkileyen Basınç Merkezleri
+
+Türkiye'deki iklim çeşitliliğinin temel belirleyicilerinden biri basınç sistemleridir. Ülkemizi dört ana basınç merkezi etkiler:
+
+| Basınç Merkezi | Kökeni | Karakteri ve Mevsimi | Yönü | Temel Etkisi |
+| --- | --- | --- | --- | --- |
+| **İzlanda** | Dinamik Alçak Basınç (DAB) | Yıl boyu etkili (Kışın belirgin) | Kuzeybatı | Balkanlar üzerinden gelir; nem, sis, yağış ve kışın kar getirir. |
+| **Asor** | Dinamik Yüksek Basınç (DYB) | Yıl boyu etkili | Güneybatı | Lodos rüzgarını taşır. Önce ısıtır, sonra yağış bırakır ("gözü yaşlı rüzgar"). |
+| **Sibirya** | Termik Yüksek Basınç (TYB) | Sadece Kışın | Kuzeydoğu | Kuru soğuk, ayaz ve don olayı yapar; kar getirmez, hava açıktır. |
+| **Basra** | Termik Alçak Basınç (TAB) | Sadece Yazın | Güneydoğu | Muson/Hint kökenlidir; çöl üzerinden geçtiği için aşırı sıcak ve kuraktır. |
+
+> **Pratik Kural:** Çaprazlama kodlayabilirsiniz: Kuzeybatıdaki İzlanda Alçak Basınç iken, güneydoğudaki Basra da Alçak Basınçtır. Kuzeydoğudaki Sibirya Yüksek Basınç iken, güneybatıdaki Asor da Yüksek Basınçtır. Dinamik kökenliler yıl boyu, termik kökenliler ise sadece ilgili mevsimde (Sibirya kışın, Basra yazın) etkilidir.
+
+---
+
+### 2. Türkiye'de Etkili Olan Rüzgarlar
+
+* **Kuzey Sektörlü Rüzgarlar (Sıcaklığı Düşürür):** Karayel (KB), Yıldız (K), Poyraz (KD). Kutup yönünden geldikleri için sıcaklığı azaltırlar.
+* **Güney Sektörlü Rüzgarlar (Sıcaklığı Yükseltir):** Samyeli/Keşişleme (GD), Kıble (G), Lodos (GB). Ekvator yönünden geldikleri için sıcaklığı artırırlar.
+* **Yön Kuralı:** Rüzgarın nereden çıktığı değil, **hangi yöne doğru estiği (okun yönü)** esastır. Kuzeybatıdan güneydoğuya esen daima Karayeldir.
+* **Yerel Rüzgarlar:**
+* **Etezyen:** Ege'de kuzeyden esen serin rüzgardır.
+* **İmbat:** Ege kıyılarındaki serinletici deniz meltemidir. Meltemler günlük sıcaklık ve basınç farkıyla oluşur.
+* **Fön Rüzgarı:** Dağı aşan hava kütlesinin yamaçtan aşağı hızla inerken sürtünmeyle her 100 metrede 1°C ısınmasıyla oluşur. Kurutucu ve yakıcıdır; Doğu Karadeniz'de yaygındır. Tarım ürünlerini erken olgunlaştırır veya yakar. Halk arasında **"bakır sattıran"** ya da **"deste bozan"** olarak anılır; ayrıca yerel mikroklima alanları oluşturur.
+
+
+* **Rüzgar Gülü Frekansı:** Bir merkezin hâkim rüzgar yönü, doğrudan o yerin **topografyası (yer şekilleri uzanışı)** hakkında bilgi verir. Ege'de dağlar denize dik uzandığından rüzgar doğu-batı yönlü; boğazlarda (İstanbul, Çanakkale) kuzeydoğu-güneybatı yönlü; yer şekillerinin sade olduğu İç Anadolu ve Güneydoğu'da ise her yöne dairesel/dengeli dağılır.
+
+---
+
+### 3. Türkiye'nin İklim Tipleri ve Bitki Örtüsü
+
+* **Akdeniz İklimi:**
+* Yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır. Yıllık yağış 600–1000 mm arasındadır; en fazla yağış **kışın** düşer.
+* Akdeniz, Ege ve Güney Marmara kıyılarında görülür.
+* Bitki örtüsü kızılçam ormanlarıdır. Kızılçamın tahribiyle **maki** (defne, zeytin, keçiboynuzu, mersin, menengiç, zakkum, lavanta, funda, kermez meşesi), makinin tahribiyle **garig** oluşur.
+
+
+* **Karadeniz (Okyanusal) İklimi:**
+* Her mevsim yağışlıdır; bağıl nem çok yüksektir. Yıllık yağış 2000 mm'ye kadar çıkar; en fazla yağış **sonbaharda** düşer.
+* Kıyı kuşağında alçaklarda geniş yapraklı (kayın, gürgen, kestane, meşe), yükseklerde iğne yapraklı (ladin, sarıçam) ormanlar yer alır.
+* Orman tahribiyle sahte maki anlamına gelen **psödomaki** (fındık, şimşir, kızılağaç) oluşur.
+
+
+* **Ilıman Karasal (Bozkır) İklimi:**
+* Türkiye'de en geniş alana yayılan iklimdir. Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlıdır. Yıllık yağış 300–500 mm'dir; en fazla yağış **ilkbaharda** (konveksiyonel) düşer.
+* Bitki örtüsü ilkbaharda yeşerip yazın kuruyan kısa boylu ot topluluğu olan step (bozkır)dir.
+* Ormanların tahribiyle **antropojen bozkır** gelişir (geven, gelincik, üzerlik, yavşan otu, sığırkuyruğu, çobanyastığı).
+
+
+* **Sert Karasal İklim:**
+* Erzurum-Kars-Ardahan platosunda görülür. Kışlar çok uzun, sert ve karlı; yazlar kısa ve serindir. Kar örtüsü yerde 6–7 ay kalır.
+* En fazla yağış **yazın** düşer.
+* Bitki örtüsü yaz yağışlarıyla yeşeren uzun boylu **Alpin çayırlar**dır (kardelen, taşkıran, yıldız otu, sarıçam).
+
+
+
+---
+
+### 4. Mikroklima, Endemik ve Relikt Türler
+
+* **Mikroklimalar (Dar Alanlı Özel İklimler):**
+* **Rize:** Kivi, turunçgil ve çay tarımı (aşırı nem ve fön etkisi).
+* **Artvin (Yusufeli - Çoruh Vadisi):** Zeytin tarımı.
+* **Iğdır Ovası:** Çevresine göre çukurda kaldığı için pamuk tarımı.
+* **Anamur - Alanya:** Muz tarımı (subtropikal karakter).
+
+
+* **Endemik Türler (Yalnızca Belirli Bir Alanda Yetişen Ender Türler):**
+* Türkiye'de en fazla endemik tür **Toros Dağları kuşağında** bulunur.
+* **Sığla (Günlük) Ağacı:** Muğla - Fethiye, Köyceğiz çevresi.
+* **Kasnak Meşesi:** Göller Yöresi (Eğirdir, Isparta).
+* **İstranca Meşesi:** Yıldız Dağları - Zonguldak hattı.
+* **İspir Meşesi:** Kastamonu ve Yozgat çevresi.
+* **Datça Hurması:** Datça ve Teke Yarımadası.
+* **Kazdağı Göknarı:** Çanakkale - Balıkesir (Kaz Dağları).
+* **Ters Lale:** Hakkâri, Van, Tunceli çevresi.
+* **Karagül:** Şanlıurfa (Halfeti).
+
+
+* **Relikt (Kalıntı) Bitki:** Geçmiş jeolojik dönemlerin iklim koşullarından günümüze kadar korunaklı alanlarda kalmayı başarmış bitkilerdir (Örn: Karadeniz türü olan kestanenin Ege'de, fındığın Akdeniz Torosları'nda sığınak bulması).
+
+---
+
+### 5. Türkiye'nin Toprak Tipleri ve Ayrışma Süreçleri
+
+* **Zonal (Yerli) Topraklar:** İklim ve bitki örtüsünün yansımasıdır, tüm horizonları (A, B, C, D) gelişmiştir.
+* **Kahverengi Orman:** Karadeniz ikliminde gür orman örtüsü altında; humusça zengindir.
+* **Terra Rossa:** Akdeniz iklimi; kalker (kireçtaşı) üzerinde gelişen, demir oksitten dolayı kırmızı renkli topraktır.
+* **Çernezyom (Kara Toprak):** Erzurum-Kars platosunda çayır altında gelişen, dünyanın en verimli yerli toprağıdır.
+* **Kahverengi ve Kestane Renkli Bozkır Toprakları:** İç bölgelerde yaygın, organik maddece fakir, kireçli topraklardır.
+* **Podzol:** Batı Karadeniz'in yüksek dağlık alanlarında (Zonguldak, Bolu), soğuk-nemli ortamda yıkanmış, kül renkli topraklardır.
+* **Lateritimsi Toprak:** Doğu Karadeniz'de (Rize) aşırı yıkanmış, asitli topraklardır.
+
+
+* **İntrazonal Topraklar:** Yerel yer şekli ve ana kaya özelliklerine bağlıdır, A ve C horizonları belirgindir.
+* **Vertisol (Dönen Toprak / Taş Doğan / Karakepir):** Killi ana kaya üzerinde oluşur; kurak dönemde çatlar, yağışla şişerek çatlaklara dolan taşları yukarı fırlatır. Ergene Havzası ve Muş Ovası'nda yaygındır; ayçiçeği tarımına uygundur.
+* **Rendzina:** Göller Yöresi'nde yumuşak kireçtaşları üzerinde gelişen kireçli topraktır.
+* **Halomorfik (Tuzlu):** Tuz Gölü havzasında buharlaşmayla yüzeyde tuz birikmesiyle oluşur.
+* **Hidromorfik:** Bataklık ve taban suyu seviyesi yüksek sulak arazilerde görülür.
+
+
+* **Azonal (Taşınmış) Topraklar:** Dış kuvvetlerin taşıyıp yığdığı verimli topraklardır; katmanlaşma (horizon) göstermezler, iklim hakkında doğrudan bilgi vermezler.
+* **Alüvyal:** Akarsuların biriktirdiği; delta ve taban arazilerdeki en verimli tarım topraklarıdır (Çukurova, Bafra, Çarşamba vb.).
+* **Kolüvyal:** Dağ eteklerinden yer çekimi ve sel sularıyla yamaç diplerinde biriken iri taneli topraklardır.
+* **Lös:** Rüzgarın taşıdığı ince unsurlu topraklardır (Konya, Güneydoğu).
+* **Moren:** Buzulların taşıdığı topraklardır (Cilo Dağı gibi yüksek buzul sahalarında).
+* **Regosol:** Volkanik kum ve tüfler üzerinde gelişen topraklardır (Nevşehir, Van çevresi).
+
+
+* **Ayrışma Türleri:**
+* **Fiziksel (Mekanik) Ayrışma:** Kurak ve yarı kurak yerlerde, günlük sıcaklık farkının yüksek olması nedeniyle taşların genleşip büzülerek parçalanmasıdır (İç Anadolu, Güneydoğu Anadolu, Doğu Anadolu, Ergene). Toprak oluşumu yavaştır. Van Gölü havzası yüksek ve karasal olduğu için fiziksel ayrışma etkilidir.
+* **Kimyasal Ayrışma:** Suyun, nemin ve yağışın fazla, sıcaklık farkının az olduğu alanlarda minerallerin suyla çözünmesidir (Kıyı kuşakları, özellikle Doğu ve Batı Karadeniz). Toprak oluşum hızı son derece yüksektir.
+
+
+
+---
+
+### 6. Yer Şekilleri Soru Çözümü ve Kritik Analizler
+
+* **Soru 20 (Ege'de Dağların Kıyıya Dik Uzanması):** Dağların kıyıya dik uzanması; denizel etkinin iç kısımlara sokulmasına, karayollarının doğu-batı doğrultusunda geçit vermesine, limanların art bölgesinin (hinterlant) genişlemesine ve grabenler boyunca akarsuların akmasına yol açar. Ancak kızılçam tahribiyle makilerin, maki tahribiyle gariglerin oluşması doğrudan **biyolojik insan tahribatının** sonucudur; jeomorfolojik uzanışla ilgisi yoktur. Cevap: **E**.
+* **Soru 21 (Türkiye'nin Dağ Kuşakları):** Haritada hatlar boyunca gösterilen alanlar sıra dağları (Kuzey Anadolu Dağları ve Toroslar), iç kısımdaki hatlar ise volkanik dağ dizilimlerini (Erciyes, Hasan, Melendiz, Karadağ, Karacadağ) temsil eder. Cevap: **Dağlar**.
+* **Soru 22 (Horst ve Graben Sistemleri):** Kırıklı dağ oluşumu Batı Anadolu'da (Ege) toplanmıştır: Kaz, Madra, Yunt, Bozdağlar, Aydın Dağları ve Menteşe Dağları horst; Edremit, Bakırçay, Gediz, Küçük ve Büyük Menderes ise graben sahalarıdır. Ayrıca Akdeniz'deki Nur (Amanos) Dağları da kırık dağdır. Cevap: **A (1)**.
+* **Soru 23 (Fay Hatları ve Jeotermal Enerji):** Fay hatlarının yoğunluğu doğrudan genç tektonik yapı, yüksek sismik aktivite ve **jeotermal enerji / sıcak su (kaplıca)** kaynaklarının varlığını gösterir. Türkiye'deki levhalar birbirinden uzaklaşmaz, tersine Avrasya, Arap ve Afrika levhaları birbirine yaklaşarak Anadolu'yu sıkıştırır. Birinci jeolojik zamanda (Paleozoik) masif araziler oluşmuştur. Cevap: **B**.
+* **Soru 24 (Jeomorfolojik Özellikler):** Karadeniz kıyılarında sıra dağlar uzanır, Batı Anadolu'da çöküntü havzaları (grabenler) yer alır, Anadolu epirojenik olarak toptan yükselerek yüksek platolarını kazanmıştır. Karadeniz kıyılarında volkanizma ürünü volkan konileri bulunmaz. Cevap: **D**.
+* **Soru 25 (Kıvrım Dağları):** Ağrı, Erciyes ve Hasan Dağı volkanik; Yunt Dağı kırıklı dağdır. Kastamonu sınırlarında yer alan ve zengin bakır yataklarıyla bilinen Küre Dağları ise kıvrımlı dağ kuşağına (Kuzey Anadolu Dağları) aittir. Cevap: **B (Küre Dağları)**.
+* **Soru 26 (İç ve Dış Kuvvet Ayrımı):** Çukurova ve Çarşamba deltaları (akarsu birikimi), Damlataş Mağarası ve Pamukkale travertenleri (karstik yeraltı suyu çözünme/çökelmesi) dış kuvvetler etkisinde oluşur. Toros Dağları ise orojenez (dağ oluşumu) neticesinde meydana gelen bir iç kuvvet ürünüdür. Hem iç hem dış kuvvetin ortak etkisi sorulduğunda ise akla volkanik tüf + akarsu/rüzgar aşındırmasıyla oluşan **Peri Bacaları (Kapadokya)** gelir. Cevap: **C (Toros Dağları)**.
+* **Soru 27 (Fay Hatları Üzerinde Yer Almayan Merkez):** Türkiye'de üç ana fay kuşağı bulunur:
+* KAF (Kuzey Anadolu Fay Hattı): Saros Körfezi'nden başlar; Marmara Denizi, İzmit, Bolu, Erbaa, Niksar, Erzincan üzerinden Karlıova'ya uzanır.
+* DAF (Doğu Anadolu Fay Hattı): Hatay'dan girer; Kahramanmaraş, Malatya, Elazığ, Bingöl Karlıova'da KAF ile birleşir.
+* BAF (Batı Anadolu Fay Hattı): Ege graben sistemlerini kapsar.
+* Haritada 4 numarayla gösterilen Güneydoğu Anadolu güneyi (Mardin Masifi ve çevresi) fay hatlarının dışındaki deprem riski düşük sahadır. Cevap: **D (4)**.
+
+
+* **Soru 28 (Karstik Arazi ve Çökme Depremleri):** Suda kolay eriyebilen kalkerli arazilerde yer altı boşluklarının çökmesiyle oluşan çöküntü depremleri en çok **Teke - Taşeli platoları ve Göller Yöresi (Antalya, Burdur, Isparta, Konya Obruk platosu)** civarında görülür. Cevap: **Antalya**.
+* **Soru 29 (Kuzey Anadolu Fay Hattı Dışında Kalan İl):** İstanbul, Bolu, Adapazarı ve Erzincan doğrudan KAF kuşağı üzerindeyken; İzmir, Batı Anadolu Fay Hattı (BAF) üzerinde yer alır. Cevap: **İzmir**.
+* **Soru 30 (Kırık Dağ Olmayan Kütle):** Madra, Yunt, Bozdağlar ve Aydın Dağları horst (kırık dağ) iken; Melendiz Dağı (İç Anadolu - Aksaray/Niğde) volkanik bir dağdır. Cevap: **Melendiz**.
+* **Soru 31 ve 32 (Rüzgar Şekilleri ve Kurak Alanlar):** Rüzgar aşındırma (mantarkaya/şeytan masası, şahittepe, tafoni, yardang) ve biriktirme şekilleri (kumul, lös, barkan); bitki örtüsünün cılız, yağışın az, mekanik ayrışmanın şiddetli, günlük sıcaklık farkının yüksek olduğu kurak alanlarda (İç Anadolu - Konya Karapınar, Güneydoğu Anadolu) etkilidir. Buralarda toprak yıl boyunca donmuş değildir (donmuş toprak tundra/kutup kuşağına aittir). Cevap 31: **2 ve 3**; Cevap 32: **E**.
+* **Soru 33 (Çözünebilen / Karstik Kayaçlar):** Karstik kayaçlar (kalker/kireçtaşı) en fazla Teke ve Taşeli platolarında (Akdeniz) yaygındır. Jips (alçıtaşı) sorulduğunda **Sivas-Erzincan**, kaya tuzu sorulduğunda **Çankırı** merkez alınmalıdır. Cevap: **A (1)**.
+* **Soru 34 (Falez / Yalıyar Oluşumu):** Falezler, dağların kıyıya çok yakın ve paralel uzandığı, kıyı derinliğinin (kıta sahanlığının dar olduğu) yüksek olduğu falezli kıyılarda (Doğu ve Batı Karadeniz, Antalya-Teke kıyıları) oluşur. Deltaların, lagünlerin yer aldığı veya dağların denize dik uzandığı sığ kıyılarda (Çukurova kıyıları) falez oluşamaz. Cevap: **A (1)**.
+* **Soru 35 (Akarsu Aşındırması ve Çentik Vadiler):** Akarsu aşındırmasının ve akış hızının en yüksek olduğu yerler yatak eğiminin fazla olduğu engebeli arazilerdir. Doğu Karadeniz (5 numara), tabanı dar ve derin "V" profilli çentik vadilerin, dolayısıyla hidroelektrik enerji potansiyelinin en yüksek olduğu alandır. Türkiye'nin en yüksek kemer barajı olan **Yusufeli Barajı** (ve öncesinde Deriner Barajı) Çoruh Nehri üzerinde burada yer alır. Cevap: **E (5)**.
+* **Soru 36 (Ria Tipi Kıyılar):** Eski akarsu vadilerinin deniz istilasına uğramasıyla oluşan boğulmuş vadi kıyılarıdır. Türkiye'de **İstanbul Boğazı, Çanakkale Boğazı, Haliç ve Gökova Körfezi** ria tipi kıyılardır. Antalya Kaş-Finike kıyıları ise kıyıya paralel adacıklardan oluşan **Dalmaçya kıyı tipi** örneğidir. Cevap: **B (2)**.
+* **Soru 37 (Karstik Aşınım Şekilleri):** Karstik sahalarda suların kimyasal eritmesiyle kaya yüzeylerinde oluşan küçük oluk ve pürüzlere **lapya** denir. Karstik aşınım şekilleri küçükten büyüğe: **Lapya $\rightarrow$ Dolin $\rightarrow$ Uvala $\rightarrow$ Polye (Karstik Ova / Gölova)** şeklinde sıralanır. Mantarkaya rüzgar, peribacası iç+dış kuvvet, birikinti konisi akarsu birikim, falez dalga aşınım şeklidir. Cevap: **C (Lapya)**.
+* **Soru 38 (Türkiye'de Bulunmayan Kıyı Tipleri):** Boyuna kıyılar (Karadeniz, Akdeniz), Enine kıyılar (Ege), Ria kıyıları (Boğazlar, Gökova) ve Dalmaçya kıyıları (Kaş-Finike) ülkemizde mevcuttur. Buzul vadilerinin sular altında kalmasıyla oluşan **Fiyort ve Skyer** kıyı tipleri Türkiye'de kesinlikle bulunmaz; sebebi matematik konumdur (orta kuşakta yer almamız ve kıyılarımızda buzul aşındırmasının etkili olmamasıdır). Cevap: **Fiyort**.
+* **Soru 39 (Türkiye'yi Şekillendiren Dış Kuvvetler):** Türkiye'nin yer şekillerini oluşturmada **en etkili dış kuvvet akarsular**, mutlak konumu nedeniyle deniz seviyesinde etkili olamadığı için **en az etkili dış kuvvet ise buzullar**dır. Cevap: **Edirne**.
+* **Soru 40 (Rüzgar Şekillerinin Görülmeyeceği Alan):** İç Anadolu, Güneydoğu Anadolu ve Iğdır çevresinde kuraklıktan ötürü rüzgar yer şekilleri görülürken; Doğu Karadeniz kıyı kuşağında nem miktarının yüksek, yağışın bol ve bitki örtüsünün gür ormanlardan oluşması rüzgarın aşındırma ve biriktirme yapmasını engeller. Cevap: **A (1)**.
+
+---
+
+Böylece iklim ve rüzgarlardan başlayıp toprak türlerine, ayrışma süreçlerinden ayrıntılı yer şekilleri tarama sorularına kadar tüm kritik başlıkları tamamlamış olduk. Gelecek dersimizde programımıza doğrudan **Nüfus, Yerleşme ve Göç** ünitesiyle devam edeceğiz.

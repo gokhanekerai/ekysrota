@@ -1,0 +1,274 @@
+Değerli meslektaşım, iyi akşamlar.
+
+Eğitim bilimleri ve sınav hazırlık serüvenimizin bu üçüncü dersinde; Millî Eğitim Bakanlığı EKYS sınavında her yıl doğrudan en az 2 ila 3 soru getiren, eğitim bilimlerinin omurgası ve kalbi niteliğindeki **Öğretim Yöntem ve Teknikleri (ÖYT)** konusunu ele alıyoruz.
+
+Dersimize başlarken hocamızın canlı yayında çizdiği stratejik çerçeveyi hatırlayalım: 
+* Sınav geçmişine baktığımızda 2024 ve 2025 EKYS'de ÖYT alanından 3'er soru geldi; 2026'da ise ağırlık program okuryazarlığına kayarak 1 soru çıktı. Bu dalgalanma, 2027 EKYS'de ÖYT'den kesinlikle çok güçlü ve belirleyici sorularla karşılaşacağımızı gösteriyor.
+* ÖYT konuları kendi içinde bir hiyerarşiye sahiptir: **Model** en genel pedagojik felsefedir; **Strateji** hedefe ulaşmak için belirlenen genel yoldur; **Yöntem** izlenen düzenli yoldur; **Teknik** ise yöntemin sınıftaki somut uygulama biçimidir.
+* **Öğretim ilkeleri ise evrenseldir;** sunuşta da buluşta da tam öğrenmede de yapılandırmacılıkta da öğretimin verimini ve kalıcılığını artıran ortak pedagojik yasalardır.
+
+Şimdi canlı yayında hocamızın slaytların dışına çıkarak verdiği tüm sözlü hayat örneklerini, ÖSYM tuzaklarını, anekdotları ve 9 kritik sorunun detaylı tahlilini adım adım zihnimizde yapılandıralım.
+
+---
+
+### 1. BÖLÜM: ÖĞRENME - ÖĞRETME SÜRECİNİN TEMEL İLKELERİ (ÖĞRETİM İLKELERİ)
+
+Öğretim ilkeleri, hangi yöntemi veya modeli kullanırsak kullanalım öğrenci başarısını ve kalıcılığı artıran temel kurallardır.
+
+#### 1. Öğrenciye Görelik (Çocuğa Uygunluk / Bireyselleştirme)
+* **Kilit Mantık:** Öğretim sürecini öğrencinin yaşına, gelişim düzeyine, hazırbulunuşluğuna, ilgi ve bireysel farklılıklarına göre tasarlamaktır.
+* **Hocanın Canlı Yayındaki Özel Vurgusu:**
+  * Türkiye Yüzyılı Maarif Modeli'ndeki *"farklılaştırma"* uygulamaları (özellikle destekleme ve zenginleştirme çalışmaları) doğrudan öğrenciye görelik ilkesidir.
+  * **Kritik Sınav Tuzağı:** Sınıfta dersi *"ortalama bir öğrenci düzeyine"* göre anlatmak öğrenciye görelik ilkesine **AYKIRIDIR!** Çünkü ortalama bir seviye belirlemek, sınıfın alt ve üst düzeydeki öğrencilerini dışlamak demektir. Çağdaş eğitimde her öğrencinin kendi hızında ilerlemesi esastır.
+  * *Örnek:* Beden eğitimi öğretmeninin yeteneğine göre bazı öğrencileri voleybola, bazılarını futbola, bazılarını basketbola yönlendirmesi ya da resim yeteneği olan bir öğrenciyi keşfedip ona özel alan açması çocuğa göreliktir.
+
+#### 2. Hayatilik (Yaşama Yakınlık)
+* **Kilit Mantık:** Okulda öğretilen bilginin dört duvar arasında hapsolmaması; günlük hayatta karşılık bulması, işe yaraması ve hayata transfer edilebilmesidir.
+* **Felsefi Temeli:** İlerlemecilik felsefesi ve John Dewey’in *"Okul hayata hazırlık değil, hayatın ta kendisidir"* görüşüdür.
+* *Hocanın Canlı Yayın Örnekleri:*
+  * Yıllarca İngilizce dersi alan bir öğrenci sınıftan çıktığında sokakta yabancı biriyle konuşamıyorsa hayatilik ilkesi ihlal edilmiştir; konuşabiliyorsa hayatilik sağlanmıştır.
+  * Matematik dersinde dört işlemi öğrenen bir çocuğun markette veya pazarda para üstü hesabı yapabilmesi hayatilik ilkesidir.
+
+#### 3. İş / Aktivite (Yaparak - Yaşayarak Öğrenme)
+* **Kilit Mantık:** Öğrencinin dinleyici olmaktan çıkıp bizzat üretimin, eylemin ve deneyin merkezinde yer almasıdır.
+* Öğrenmede kalıcılığı en yüksek olan ilkedir (Edgar Dale'in Yaşantı Konisi'nde doğrudan yaşantılar). Öğrenci ne kadar çok sürece dâhil olursa, bilgi o kadar kalıcı olur.
+
+#### 4. Ekonomiklik
+* **Kilit Mantık:** **En az emek, en az zaman ve en düşük maliyetle, en yüksek verimi** sağlamaktır.
+* **Püf Noktası:** Ders planı yapmak ve plana sadık kalmak zaman israfını önlediği için ekonomikliğe hizmet eder. Ayrıca bir öğretmen tek bir etkinlik yaptırarak iki farklı kazanımı aynı anda gerçekleştiriyorsa (halk tabiriyle bir taşla iki kuş vuruyorsa) bu doğrudan ekonomiklik ilkesidir.
+
+#### 5. Aktüalite (Güncellik)
+* **Kilit Mantık:** Ders konusunun o günlerde yaşanan güncel bir olayla, bilimsel bir gelişmeyle, doğal bir hadiseyle veya haberle ilişkilendirilerek anlatılmasıdır.
+
+#### 6. Açıklık (Ayanilik)
+İki boyutu vardır ve ÖSYM sınavlarında ikisi de sıkça yoklanır:
+1. **Dilsel Boyut:** Öğretmenin kullandığı Türkçenin açık, net, pürüzsüz ve öğrencinin kelime dağarcığına uygun olmasıdır. Öğrencinin anlamını bilmediği yabancı ya da ağır felsefi terimler kullanıp öğrencinin *"Hocam ben hiçbir şey anlamadım"* demesine yol açmak açıklık ilkesini ihlal eder.
+2. **Duyu Organı / Materyal Boyutu:** Derste ne kadar çok duyu organı (göz, kulak, dokunma) işe koşulursa öğrenme o kadar açık olur. Araç-gereç kullanımı açıklığı artırır.
+
+#### 7. Somuttan Soyuta (Açıklık ile Arasındaki İnce Fark!)
+* **Hocamızın Tahtada Çizerek Açıkladığı Altın Ayrım:**
+  * Eğer soyut bir kavramı (örneğin matematiğin soyut sayılarını) **kuru fasulye taneleriyle** somutlaştırarak anlatıyorsanız bu **Somuttan Soyuta** ilkesidir.
+  * Fakat zaten somut olan bir varlığı (örneğin **Güneş Sistemi'ni** veya insan vücudundaki **iç organları**) sınıfa getirdiğiniz bir üç boyutlu maket ya da küre modeli üzerinden anlatıyorsanız bu **Açıklık (Ayanilik)** ilkesidir. Çünkü organlar ve gezegenler zaten somuttur; model kullanımı onları göze hitap ettirerek daha anlaşılır kılmak (açıklık) içindir.
+
+#### 8. Bilinenden Bilinmeyene
+* Yeni konuyu anlatırken öğrencinin geçmiş yıllardan getirdiği eski/mevcut bilgilerini hatırlatmak ve yeni konuyu bu temel üzerine bina etmektir.
+* *Örnek:* Matematik öğretmeninin çarpma konusuna geçmeden önce toplama işlemini hatırlatması.
+
+#### 9. Yakından Uzağa
+* Mekân olarak (okuldan $\rightarrow$ mahalleye, şehre, ülkeye ve dünyaya), zaman olarak (bugünden $\rightarrow$ geçmişe veya geleceğe), sosyal olarak (çocuğun kendisinden $\rightarrow$ uzak çevreye) ilerlemedir.
+* *Örnek:* Antik Yunan demokrasisini anlatacak bir öğretmenin önce günümüz Türkiye'sindeki seçim ve demokrasi sisteminden yola çıkıp geriye doğru gitmesi.
+
+#### 10. Basitten Karmaşığa (Kolaydan Zora)
+* Öğretimin az işlem gerektirenden çok işlem gerektirene doğru kurgulanmasıdır.
+* *Hocanın Örnekleri:* Matematikte önce bir bilinmeyenli, sonra iki bilinmeyenli denklemler; Türkçede önce sadece özne ve yüklemden oluşan cümleler, ardından tümleçli karmaşık cümleler kurdurmak; olasılık konusunda önce tek bir zar atma deneyinden başlayıp karmaşık süreçlere gitmek.
+
+#### 11. Sosyallik (Otoriteye İtaat ve Özgürlük)
+* İki dengeli kutbu barındırır: Öğrencinin okul ve sınıf kurallarına riayet etmesi **otoriteye itaattir**; ancak bu kurallar çerçevesinde kendi duygu ve fikirlerini baskı hissetmeden serbestçe ifade edebilmesi ise **özgürlüktür**.
+
+---
+
+### Derste Çözülen Örnek Soruların Analizi (Öğretim İlkeleri)
+
+> **Örnek Soru 01 (2022 EKYS Çıkmış Soru):**  
+> Bir öğretmen, öğrencilerinden yaşadıkları çevrede geçmişte meydana gelmiş doğal afetler konusunda yetişkinlerden bilgi almalarını ve bunları not ederek sınıfa gelmelerini ister. Sınıfta bu bilgiler paylaşıldıktan sonra öğrencilere Türkiye'de yaşanan başlıca doğal afetlerle ilgili bir video izleterek farklı afetleri ve sonuçlarını açıklar. Ardından öğrencilerinden dünyanın farklı kıtalarında yaşanan afetleri araştırmalarını ister.  
+> **Öğretmenin öne çıkardığı ilke hangisidir?**  
+> * **Çözüm ve Tahlil:** Öğretmen önce öğrencinin yaşadığı yerel çevreden (yakın çevre) başlamış, ardından Türkiye ölçeğine geçmiş, en son dünyanın farklı kıtalarına (uzak çevre) uzanmıştır. Süreç yerelden küresele doğru genişlediği için cevap **Yakından Uzağa** ilkesidir. *(Doğru Cevap: D)*
+
+> **Örnek Soru 02 (Öğretim İlkeleri):**  
+> Bir lise müdürü öğretmenler kurulunda: *"Öğrencilere ağaç sevgisi aşılamak istiyorsak ayağının toprağa basmasını sağlamalıyız. Okul bahçesine kendisi ağaç dikecek, sulayacak, ilaçlayacak. Küreği saplarken fizikten, su miktarında biyolojiden, ilaçlamada kimya dersi bilgilerinden bizzat yararlanacaktır."* demiştir.  
+> **Müdürün vurguladığı ilke hangisidir?**  
+> * **Çözüm ve Tahlil:** Bazı meslektaşlarımız "somuttan soyuta" şıkkına kayabilir; ancak burada soyut bir kavramın aktarılmasından ziyade öğrencinin bizzat bedeniyle, emeğiyle toprağa basması ve teoriyi iş başında eyleme dönüştürmesi vurgulanmaktadır. Bu durum doğrudan **Yaparak Yaşayarak Öğrenme (İş/Aktivite)** ilkesidir. *(Doğru Cevap: D)*
+
+---
+
+### 2. BÖLÜM: DÜŞÜNME BECERİLERİ
+
+1. **Yaratıcı Düşünme:**
+   * Alışılmış kalıpları yıkma, özgün, sıra dışı, esnek ve yeni bir sentez ortaya koyma becerisidir (*"Farklı düşün, yeni yollar keşfet"*).
+   * *Hocanın Canlı Yayındaki Çarpıcı Örnekleri:* Evde vida sıkarken tornavida bulamayıp bıçağın sivri ucunu tornavida niyetine kullanmak; toka bulamayan bir kız çocuğunun saçını kalemle tutturup toplaması. Daha önce karşılaşılmamış pratik ve özgün çözümler yaratıcılıktır.
+
+2. **Eleştirel Düşünme:**
+   * Bir bilgiyi, iddiayı veya haberi körü körüne kabul etmeyip sorgulama; kanıtlara dayandırma, kaynağın güvenilirliğini araştırma ve tutarsızlıkları süzgeçten geçirme becerisidir (*"Sorgula, değerlendir, doğruya ulaş"*).
+   * *Hocamızın Canlı Yayındaki Güncel Örneği:* 
+     > *"Bugün öğrencilerimiz ChatGPT veya Gemini gibi yapay zekâ uygulamalarına sorular soruyor ve gelen cevabı sanki kutsal bir metinmiş gibi hiç sorgulamadan doğru kabul ediyor. Hatta geçenlerde ben denemek için sordum: 'Evimin 50 metre ötesinde oto yıkama var, arabamı yıkatmaya arabayla mı gideyim yürüyerek mi?' dedim; yapay zekâ bana 'Yürüyerek git' dedi! Düşünün, arabayı yıkatmaya yürüyerek gitmemi önerdi. İşte internetteki ve yapay zekâdaki bilgiyi başka kaynaklarla teyit etmek, sorgulamak tam olarak ELEŞTİREL DÜŞÜNMEDİR. Aynı şekilde telefona gelen 'Hakkınızda dava açıldı, linke tıklayın' mesajına hemen inanmayıp şüpheyle yaklaşmak da eleştirel düşünmedir."*
+
+3. **Yansıtıcı Düşünme (John Dewey):**
+   * Bireyin kendi tecrübelerini, hatalarını ve öğrenme/öğretme sürecini bir aynaya bakar gibi gözden geçirmesidir. 
+   * *Hocanın Deyimiyle:* "İlmiyle amel etmektir." Bir öğretmenin ders çıkışında *"Ben bugün nerede eksik kaldım, öğrenciler neden sıkıldı, bir dahaki derse hangi yöntemi değiştirmeliyim?"* diyerek özeleştiri yapması ve geleceğini bu tecrübeyle yeniden şekillendirmesidir.
+
+4. **Analitik Düşünme:**
+   * Bir bütünü veya karmaşık problemi yapısal parçalarına ayırma, parçalar arasındaki neden-sonuç bağlarını kurma, sınıflandırma ve kategorize etme becerisidir.
+
+5. **Metabilişsel Düşünme (Üstbiliş / Yürütücü Biliş):**
+   * Bireyin **"düşünme süreçleri üzerine düşünmesi"**, yani kendi zihninin ve öğrenme tarzının farkında olmasıdır. *"Ben sabah saatlerinde daha iyi öğreniyorum"*, *"Ben kavram haritası çizersem aklımda kalıyor"* diyebilmek ve kendi öğrenme yolunu bizzat planlayıp yönetebilmektir.
+
+6. **Lateral Düşünme (Yanal / Etraflı Düşünme - Edward de Bono):**
+   * Tek yönlü, katı dikey mantıktan kurtulup olaya farklı pencerelerden (iyimser, kötümser, duygusal, nesnel, yaratıcı) bakabilme becerisidir. Edward de Bono'nun "Altı Şapkalı Düşünme Tekniği" lateral düşünmenin en bilinen aracıdır.
+
+> **Örnek Soru 03 (Düşünme Becerileri):**  
+> Nilay Öğretmen, dijital ortamlardaki yoğun bilgi kirliliği nedeniyle ulaşılan bilginin doğruluğunu, güvenilirliğini, kaynağını sorgulamanın ve kaynaklar arasında karşılaştırma yapmanın zorunlu hale geldiğini belirtir.  
+> **Öğretmenlerin vurgu yaptığı beceri hangisidir?**  
+> * **Çözüm ve Tahlil:** Bilginin doğruluğunu ve kaynağını sorgulamak, kanıt aramak doğrudan **Eleştirel Düşünme** becerisidir. *(Doğru Cevap: E)*
+
+---
+
+### 3. BÖLÜM: ÖĞRETİM STRATEJİLERİ
+
+```
+                     ÖĞRETİM STRATEJİLERİ
+                              │
+       ┌──────────────────────┼──────────────────────┐
+       ▼                      ▼                      ▼
+  BULUŞ YOLU             SUNUŞ YOLU          ARAŞTIRMA-İNCELEME
+(Jerome Bruner)        (David Ausubel)         (John Dewey)
+   Tümevarım             Tümdengelim        Tümevarım + Tümdengelim
+  Öğrenci Aktif         Öğretmen Aktif        Tamamen Öğrenci Aktif
+ (Sınıf İçi Keşif)     (Sınıf İçi Anlamlı)   (Sınıf İçi + Dışı Bilimsel)
+```
+
+#### A. Buluş Yoluyla Öğretim Stratejisi (Jerome Bruner)
+* **Tarihsel Önemi:** İlk ortaya çıkan çağdaş stratejidir. Bruner, o döneme kadar öğrenciyi pasif kılan geleneksel anlatım yöntemlerine isyan ederek buluş modelini geliştirmiştir.
+* **Yaklaşım:** **Tümevarım** (Özel örneklerden ve olaylardan $\rightarrow$ Genel kural ve tanımlara).
+* **Bruner'in İnsan Doğası Görüşü:** Bütün insanlar doğuştan üç temel özelliğe sahiptir: 1. Meraklıdır ve öğrenme arzusu vardır, 2. Birlikte olma (sosyalleşme) güdüsü vardır, 3. Başarma güdüsü vardır.
+* **Kritik Uygulama İlkeleri:**
+  * İçerik **sarmal (spiral)** düzenlenir; konular derinleşerek tekrar eder.
+  * **Sezgisel Düşünme:** Öğrenci hata yapmaktan korkmadan, içinden geldiği gibi tahmin yürütebilmelidir.
+  * **Örnek olan ve örnek olmayanlar (zıt örnekler)** mutlaka birlikte verilmelidir; böylece ayırt etme sağlanır.
+  * **EN KRİTİK SINAV KURALI: Dersin başında hedeften haberdar etme KESİNLİKLE YOKTUR!** Ulaşılacak kural veya tanım dersin başında söylenirse öğrencinin merakı yok olur, keşif süreci çöker ve ders sunuşa döner.
+* **Buluş Stratejisinin 9 Aşaması:**
+  1. Öğretmen ilk örneği sunar (örn: tahtaya bir dik üçgen çizer).
+  2. Öğrenci örneği tanımlar (üçgen olduğunu söyler).
+  3. Öğretmen ek/benzer örnekler sunar (farklı boyutlarda dik üçgenler).
+  4. Öğrenci ek örnekleri tanımlar ve öncekiyle benzerlik ilişkisini kurar.
+  5. Öğretmen ek örneklerle birlikte **örnek olmayanları (zıt örnekleri)** sunar (geniş açılı ve dar açılı üçgenler).
+  6. Öğrenci örnekleri karşılaştırır ve zıt örnekleri ayıklar (farklılık ilişkisi).
+  7. Öğrenci ilkeler arasındaki ilişkileri yorumlar.
+  8. Öğrenci kurala, tanıma ve genellemeye bizzat kendisi ulaşır (Keşif gerçekleşir).
+  9. Öğrenci kendi özgün örneklerini verir.
+* **Sınırlılığı:** Çok zaman alıcıdır, maliyetlidir; tarih ve isim gibi olgusal/ezber bilgilerin öğretilmesine uygun değildir (kavram ve ilkelerde etkilidir).
+
+#### B. Sunuş Yoluyla Öğretim Stratejisi (David Ausubel)
+* **Temel Mantık:** **Anlamlı Öğrenme**. Ausubel ezbere karşıdır; fakat öğrencinin her şeyi sıfırdan keşfetmeye kalkışmasının hem imkânsız hem de zaman açısından çok verimsiz olduğunu savunur. Bilgi öğretmen tarafından önceden yapılandırılıp sunulmalıdır.
+* **Yaklaşım:** **Tümdengelim** (Genel ilkeden ve kavramdan $\rightarrow$ Özel örneklere ve ayrıntılara).
+* **Ön Organize Ediciler (Örgütleyiciler):** Yeni öğrenilecek bilgiler ile zihindeki eski bilgiler arasında bilişsel köprü kuran şema, kavram haritası veya tablolardır. Mutlaka dersin başında verilir.
+* **Doğrusal Programlama:** Konular aşamalı, ön koşul ilişkili ve mantıklı bir silsileyle aktarılır.
+* **Hocanın Canlı Yayın Uyarısı:** Sunuşta öğretmen sürekli düz anlatım yaparsa sınıf uyur! Bu nedenle öğretmen ses tonunu dinamik kullanmalı (vurgu, tonlama), jest-mimiklerini devreye sokmalı ve soru-cevap/tartışma ile öğrenciyi zihnen uyanık tutmalıdır.
+* **Sınırlılığı:** Öğrenci tam aktif olamaz; üst düzey (analiz, sentez) hedeflere ulaşamaz; ezbere kayma riski vardır.
+
+> **Örnek Soru 04 (Sunuş Stratejisi):**  
+> Bir okul müdürü "Etkili Matematik Öğretimi" semineri için sunuş yolu stratejisine dayalı bir plan hazırlar.  
+> **Aşağıdakilerden hangisi bu planın basamaklarına uygun değildir?**  
+> *A) Çerçeve vermek, B) Tablo ve grafik kullanmak, C) Bol örnek vermek, D) Yoğun etkileşim sağlamak, E) Bir durumla ilgili özel örnekler vererek katılımcıların genellemeye ulaşmasını sağlamak.*  
+> * **Çözüm ve Tahlil:** Özel örneklerden yola çıkarak genellemeye varmak tümevarımdır; yani Bruner'in Buluş stratejisidir. Sunuş stratejisinde ise önce genel kural verilir, sonra örneklere inilir (Tümdengelim). Dolayısıyla E seçeneği sunuş stratejisine kesinlikle uymaz. *(Doğru Cevap: E)*
+
+#### C. Araştırma - İnceleme Yoluyla Öğretim Stratejisi (John Dewey)
+* **Temel Felsefe:** Okul hayatın ta kendisidir. Öğrenci yapay sınıf ortamından çıkarılıp günlük yaşamdaki gerçek problemlerle yüz yüze getirilmelidir.
+* **Yaklaşım:** Hem **tümevarım** hem **tümdengelim** birlikte kullanılır.
+* **Uygulama Alanı:** Sunuş ve buluş daha çok okul içi/sınıf içi etkinlikken; araştırma-inceleme okul dışını, saha çalışmalarını ve laboratuvar projelerini de kapsar.
+* **Bilimsel Problem Çözme Basamakları:**
+  1. Problemin hissedilmesi / fark edilmesi (örn: COVID-19 salgınının veya trafik sorununun bir kriz olarak görülmesi).
+  2. Problemin tanımlanması ve sınırlandırılması.
+  3. Problemle ilgili ilk verilerin ve literatürün toplanması.
+  4. Çözüme yönelik hipotezlerin (denencelerin) kurulması (örn: maske, aşı, mesafe tedbirleri).
+  5. Hipotezleri test etmek için veri toplanması ve analiz edilmesi (araştırma, anket, deney).
+  6. Hipotezlerin denenmesi / test edilmesi.
+  7. Sonuca / çözüme ulaşılması ve raporlanması (Hipotez doğrulanmazsa 4. basamağa dönülür).
+
+> **Örnek Soru 05 (Araştırma-İnceleme):**  
+> Bir öğretmenin su arıtma tesisine yönelik gezi-gözlem planında; tanımlanan bir problem, denenceler, veri toplama, denenceleri test etme ve sonuca ulaşma adımlarının yer alması hangi yaklaşımdır?  
+> * **Çözüm ve Tahlil:** Hipotez (denence) kurma, veri toplama ve bilimsel araştırma basamakları doğrudan **Araştırma-İnceleme Yoluyla Öğretim** stratejisidir. *(Doğru Cevap: E)*
+
+---
+
+### 4. BÖLÜM: ÇAĞDAŞ VE KLASİK ÖĞRETİM MODELLERİ
+
+#### 1. Tam Öğrenme Modeli (Benjamin Bloom)
+* **Temel İlke:** *"Yeterli ek zaman ve nitelikli öğrenme koşulları sağlandığında hemen hemen her öğrenci (%90-95, asgari %70) her şeyi tam olarak öğrenebilir."*
+* **Hocanın Canlı Yayındaki Müthiş Benzetmesi:**
+  > *"Bloom der ki; 'Öğrenemeyen öğrenci yoktur, öğretemeyen öğretmen vardır.' Bizi birbirimizden ayıran şey doğuştan getirdiğimiz zekâ değildir; geçmişteki öğrenmelerimizdir. Eğer ben de çocukken bir matematikçi gibi eğitim alsaydım bugün matematikçi olurdum; siz de geçmişte benim gibi eğitim bilimleri eğitimi alsaydınız bugün bu dersi ben değil siz anlatıyor olurdunuz."*
+* **Değişkenler:**
+  1. **Öğrenci Giriş Nitelikleri:**
+     * *Bilişsel Giriş Davranışları:* Ön öğrenmeler, okuduğunu anlama becerisi (Başarı farkının **%50'sini** açıklar).
+     * *Duyuşsal Giriş Özellikleri:* Derse ilgi, tutum ve en önemlisi **akademik özgüven (benlik algısı)** (Başarı farkının **%25'ini** açıklar). Derse *"Ben zaten matematiği yapamam"* diyerek giren bir öğrenci, baştan %25'lik başarı payını kaybetmiş demektir.
+  2. **Öğretim Hizmetinin Niteliği (PİDE):**
+     * **P**ekiştireç, **İ**pucu (PİDE olarak kodlamak bir ipucudur), **D**önüt-Düzeltme (**en kritiğidir**), **E**tkin Katılım.
+* **Kural:** Bir ünite en az %70 oranında öğrenilmeden bir sonraki üniteye geçilemez. Ünite sonu izleme testi (formatif test) yapılır. Eksikler ek öğretimle kapatılır (birebir öğretim, eğitsel oyun, ek ödev vb.).
+* **HAYATİ SINAV KURALI: Tam öğrenmede ek öğretim faaliyeti olarak "AKRAN ÖĞRETİMİ" KESİNLİKLE KULLANILMAZ!** Çünkü konuyu henüz tam kavrayamamış bir öğrencinin arkadaşına yanlış veya eksik bilgi aktarma riski vardır.
+
+> **Örnek Soru 06 (Tam Öğrenme):**  
+> Ceyda Öğretmen ilk derste sadece çoktan seçmeli bir başarı testi uygulayarak hazırbulunuşluk düzeylerini belirler, ara değerlendirmeler yapar, dönüt-düzeltmeler sağlar.  
+> **Tam öğrenmeyi amaçlayan Ceyda Öğretmen neyi ihmal etmiştir?**  
+> * **Çözüm ve Tahlil:** Ceyda Öğretmen hazırbulunuşluk için sadece bilişsel test yapmıştır; Bloom'un başarıda %25 pay biçtiği **öğrencilerin duyuşsal giriş davranışlarını (derse ilgi, tutum ve akademik özgüven)** belirlemeyi ve ölçmeyi ihmal etmiştir. *(Doğru Cevap: A)*
+
+#### 2. Öğretim Etkinlikleri Modeli (Robert Gagne)
+* Davranışçı kuram ile Bilişsel kuramı sentezlemiştir. Öğrenme beyinde gerçekleşir; ancak dışarıdan gözlenen davranışlar vasıtasıyla dolaylı olarak anlaşılır.
+* **Gagne'nin 5 Öğrenme Ürünü:** Sözel bilgi (şiiri ezberlemek), Bilişsel strateji (şiiri daha kolay ezberlemek için kendine özgü bir yöntem geliştirmek), Tutum, Psikomotor beceri, Zihinsel (entelektüel) beceri.
+* **Zihinsel Beceriler Piramidi (Basitten Karmaşığa 8 Basamak):**
+  * *Hocamızın Canlı Yayındaki Efsane Mutfak ve Zil Örnekleri:*
+  1. **İşaret Öğrenme:** Uyarıcının farkına varma (Çaydanlığın suyunun kaynadığını görmek, ders zilini duymak, öğretmenin sınıfa girdiğini görmek).
+  2. **Uyarıcı - Tepki Bağı:** Uyarıcıya uygun tepkiyi verme (Kaynayan çayın altını kısmak/kapatmak, kırmızı ışığı görünce durmak, öğretmen içeri girince ayağa kalkmak).
+  3. **Basit Zincirleme:** Birden fazla uyarıcı-tepki bağını sırayla art arda dizmek (Yemek yaparken önce soğanı kavurmak, ardından salçayı eklemek, sonra suyu koyup baharatı atmak).
+  4. **Sözel Öğrenme:** Kelimeler ve kavramlar arasında bağ kurarak ezberlemek.
+  5. **Ayırt Etmeyi Öğrenme:** Benzer uyarıcılar arasındaki farkı görmek (Köpek ile kurdu ayırt etmek; beyaz önlük giyen öğretmen ile doktoru ayırt etmek; dik üçgenle eşkenar üçgeni ayırt etmek).
+  6. **Kavram Öğrenme:** Ortak özelliklerine göre sınıflandırma/kategorize etme (İşçileri mavi yakalı, memurları beyaz yakalı diye ayırmak; canlıları kuşlar, balıklar, memeliler olarak gruplamak).
+  7. **İlke ve Kural Öğrenme:** Kavramlar arası neden-sonuç bağı (Suyun 100 derecede kaynadığını bilmek, formüller).
+  8. **Problem Çözme (En Üst Basamak):** İlkeleri yeni ve karmaşık durumlarda kullanarak sonuca varmak.
+  *(Kodlama: Pİ-KAS-ZUB veya tersten FİKASU).*
+* **Gagne'nin 9 Basamaklı Ders Akışı:** Dikkati çekme $\rightarrow$ Hedeften haberdar etme $\rightarrow$ Ön bilgileri hatırlatma $\rightarrow$ Uyarıcı materyali sunma $\rightarrow$ Rehberlik etme $\rightarrow$ Performansı ortaya çıkarma $\rightarrow$ Dönüt-düzeltme $\rightarrow$ Değerlendirme $\rightarrow$ Kalıcılığı ve transferi sağlama.
+
+> **Örnek Soru 07 (2024 EKYS Çıkmış Soru):**  
+> Bir matematik öğretmeni sayılar konusunu işleyeceği derse başlarken öğrencilere *"Galata Köprüsü'nün uzunluğunu kürdanla ölçmek istesem kaç tane kürdan kullanırdım?"* diye sorar.  
+> **Gagne'ye göre bu soru hangi aşamaya aittir?**  
+> * **Çözüm ve Tahlil:** Dersin en başında öğrencilerin ilgisini çekmek, onları tahtaya odaklamak için sorulan sıra dışı bir soru doğrudan **Dikkati Çekme** aşamasıdır. *(Doğru Cevap: A)*
+
+#### 3. Çoklu Zekâ Kuramı (Howard Gardner)
+* 1983 yılında *"Zihin Çerçeveleri"* kitabıyla ortaya çıkmıştır. Tek tip IQ anlayışına karşıdır.
+* *Hocanın Canlı Yayın Benzetmesi:* *"Nasıl ki müzikte 8 temel nota ile binlerce farklı beste üretiliyorsa; insanda da 8 farklı zekâ alanı ile milyonlarca farklı insan yapısı ve yetenek profili ortaya çıkar."*
+* Zekâ alanları birbirinden bağımsız değildir; kaynaşarak çalışır ve eğitimle geliştirilebilir.
+* **8 Zekâ Alanı:** Sözel-Dilsel (kelime hazinesi, hitabet), Mantıksal-Matematiksel (neden-sonuç, akıl yürütme), Görsel-Uzamsal (hayal gücü, resim, renk duyarlılığı - yavruağzı ile kavuniçini ayırt edebilenler), Bedensel-Kinestetik (cerrahlar, dansçılar, beden dili, alet kullanma), Müziksel-Ritmik (ses perdeleri, melodi), Sosyal (doğal liderler, ikna kabiliyeti), İçsel (öz farkındalık, sınırlarını bilme, günlük tutma), Doğacı (çevre, bitki, hayvan duyarlılığı, belgesel izleme).
+
+> **Örnek Soru 08 (Çoklu Zekâ):**  
+> Taner Öğretmen gruptaki öğrencileri özelliklerine göre seçer:  
+> I. Konuşkan ve ikna edicidir $\rightarrow$ **Sosyal Zekâ**  
+> II. Hayal gücü yüksek ve resimle ifade eder $\rightarrow$ **Görsel Zekâ**  
+> III. Araç-gereçleri iyi kullanır ve materyal hazırlar $\rightarrow$ **Kinestetik Zekâ**  
+> * Sıralama: **Sosyal - Görsel - Kinestetik**. *(Doğru Cevap: B)*
+
+#### 4. Yapılandırmacılık / Oluşturmacılık (Piaget, Vygotsky, Dewey)
+* **Temel Felsefe:** Bilgi öğretmen tarafından öğrenciye hazır paket olarak verilemez. Bilgi, öğrencinin deneyimleri ve aktif katılımı ile zihninde **bizzat yaratılır ve inşa edilir**.
+* **Öğretmen ve Öğrenci Rolü:** Öğretmen egemenliği ve ders kitaplarına aşırı bağımlılık reddedilir. Öğretmen de bazen öğrenciden öğrenebilir.
+* **Birincil Veri Kaynakları:** Yardımcı kaynaklar değil, ana metinler ve somut veriler kullanılır. (Örn: Lozan Antlaşması işlenecekse başkalarının yorumu yerine doğrudan Lozan'ın orijinal maddeleri incelenir; Platon işlenecekse doğrudan Platon'un kendi felsefi diyalogları okunur).
+* **5E Öğrenme Modeli:**
+  1. **Giriş (Engage):** Merak uyandırma, güdüleme, ön bilgileri yoklama.
+  2. **Keşfetme (Explore):** Öğrencinin bizzat deney, gözlem ve araştırma yaptığı en aktif aşama.
+  3. **Açıklama (Explain):** Öğrenci bulgularını sunar; öğretmen eksik kavramları tanımlar.
+  4. **Derinleştirme (Elaborate):** Bilginin yeni durumlara ve günlük hayata transfer edilmesi.
+  5. **Değerlendirme (Evaluate):** Sonuç kadar sürecin (portfolyo, rubrik, öz değerlendirme) değerlendirilmesi.
+
+> **Örnek Soru 09 (Yapılandırmacılık):**  
+> Toplumsal cinsiyet eşitsizliği konusunda farkındalık oluşturmak isteyen yapılandırmacı bir öğretmenin aşağıdakilerden hangisini yapması uygun değildir?  
+> *A) Birincil kaynaklarla çalışılmasına rehberlik etmesi, B) Ön öğrenmeleri işe koşması, C) Poster hazırlatması, D) Konuyu toplumsal bağlamından soyutlayarak ele alması, E) Çalışma gruplarıyla tartışma yaptırması.*  
+> * **Çözüm ve Tahlil:** Yapılandırmacılık hayatın ve toplumun içindedir. Bir konuyu "toplumsal bağlamından soyutlamak" yapılandırmacı yaklaşıma taban tabana zıttır; konu daima gerçek hayat bağlamında işlenmelidir. *(Doğru Cevap: D)*
+
+---
+
+### DERSİN KAPANIŞI VE SONRAKİ HAFTAYA DEVREDİLEN KONULAR
+
+Canlı yayının son dakikalarında (saat 23.00 sularında) katılımcı meslektaşlarımızın yoğun tempo nedeniyle yorulması üzerine Sedat Hoca dersi burada noktalamış; normalde planlanan **Basamaklı Öğretim (Kathie Nunley)** ve **İşbirlikli (Kubaşık) Öğrenme** modellerinin alt tekniklerini, diğer çağdaş modelleri (Aktif Öğrenme, Beyin Temelli Öğrenme vb.) ve Öğretim Yöntemlerini 4. derse bırakmıştır.
+
+---
+
+### DERS ÖZETİ VE SINAV PUSULASI TABLOSU
+
+| Kuramcı / Model | Temel Mantık ve Yöntem | ÖSYM İçin En Kritik Anahtar Kelime |
+| :--- | :--- | :--- |
+| **Buluş Yolu (Bruner)** | Tümevarım, merak, sezgisel düşünme | **Kural baştan söylenmez**, zıt örnekler mutlaka sunulur. |
+| **Sunuş Yolu (Ausubel)** | Tümdengelim, anlamlı öğrenme | **Ön organize ediciler** dersin başında verilir; soyut konularda etkilidir. |
+| **Araştırma-İnceleme (Dewey)**| Bilimsel problem çözme, gerçek hayat | **Hipotez (denence) kurma**, veri toplama ve test etme. |
+| **Tam Öğrenme (Bloom)** | "Herkes öğrenir", %70 barajı, PİDE | Ek öğretimde **akran öğretimi KESİNLİKLE YOKTUR**. |
+| **Öğretim Etkinlikleri (Gagne)**| Davranışçı + Bilişsel sentez | **Pİ-KAS-ZUB** (İşaret, U-T bağı, Zincirleme, Sözel, Ayırt etme, Kavram, Kural, Problem çözme). |
+| **Çoklu Zekâ (Gardner)** | Zekâ çok yönlüdür ve geliştirilebilir | Zekâ IQ puanına indirgenemez; 8 zekâ alanı kaynaşarak çalışır. |
+| **Yapılandırmacılık (Piaget/Dewey)**| Bilgi hazır alınmaz, zihinde inşa edilir | **Birincil kaynaklar**, 5E modeli, toplumsal bağlamdan koparılamaz. |
+
+---
+*Değerli meslektaşım, bu metin dersin tüm ses kayıtları, hocanın sözlü açıklamaları, canlı yayındaki anekdotları ve 9 adet çıkmış/örnek sorunun tam pedagojik tahlili harmanlanarak hazırlanmıştır. İyi çalışmalar ve üstün başarılar dilerim!*

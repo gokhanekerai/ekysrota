@@ -1,0 +1,1376 @@
+# 2027 EKYS EĞİTİM BİLİMLERİ 3. DERS BİREBİR SES DEŞİFRESİ (SPEECH-TO-TEXT)
+# Video: https://youtu.be/DUWTQM3E_5U
+# Anlatıcı: Sedat ÇOLAK
+# Toplam Süre: 123.3 dakika
+
+[00:00:00] Yer şey onları arkadaşlar. Bugün yeni bir konuyla tekrar yeni bir dersimizde bir aradayız.
+[00:00:10] Bugün öğretim üntem ve tekniklerinden bahsedeceğiz. Geçen haftalarda program okuyazarlığından bahsettik.
+[00:00:16] Program okuyazarlığından iki tane soru geliyordu. Geçen seni bir tane geldi.
+[00:00:20] Öğretim üntem ve tekniklerinden de geçen seneye kadar üç tane soru geliyordu. Yani her sene üç tane,
+[00:00:26] iki bin yirmi beşle üç geldi iki bin yirmi dörtte üç geldi iki bin yirmi altı
+[00:00:30] daha mı gelmedi. Yani gelme ihtimali yüksek olan konulardan birisi diye
+[00:00:35] bekliyoruz. Geçen sene gelmeden bu sene gelmesini bekliyoruz. O
+[00:00:39] yüzden yine aynı şeyimizden aynı detayımızda aynı yoğunluğumuzda
+[00:00:45] ele alacağımız bir konu. Önümüzde yani iki hafta sürecek yine bu konuda
+[00:00:49] iki haftadan belki önümüzde iki hafta birazcık erken bitmedi
+[00:00:52] ve durumu olabilir. Daha sonra üç ve daha sonra marik
+[00:00:55] modeline geçerek artık eğitim sistemi, eğitim uygulamadır
+[00:00:59] ya da eğitim kısmını tamamlayacağız. eğitim yönetimi
+[00:01:03] kısmına yavaş yavaş geçeceğiz. Daha sonra da arkadaşlar
+[00:01:07] öğretim yönetem ve teknikleri alt başına baktığımızda
+[00:01:11] öğretim ilkeleri, düşünme becerileri, öğretim
+[00:01:15] stratejileri, modelleri, yöntemleri ve teknikleri
+[00:01:18] olmak üzere altı alt başlıkta el aldığımız bir konu
+[00:01:22] arkadaşlar ve yine program geliştirmede olduğu gibi
+[00:01:25] el aldığımız her konu ile girip mutlaka önceki yıllarda
+[00:01:29] sorular geldi. Bu yüzden eee böyle buradan gelir mi
+[00:01:34] gelmez mi diyeceğimiz bir durum yok hepsinden de
+[00:01:37] gelebiliyor arkadaşlar. Eee hemen öğretim ilkelerinden
+[00:01:41] başlayacağız. Öğretim ilkeleri aslında ilke dediğimiz
+[00:01:46] şeyindedir. Öğretim ikisi dediğimiz şey, eee, genel anlamda hangi yöntem
+[00:01:52] teknik model ya da stratejiyi kullanırsa kullanalım. Eğitimin verimlerini
+[00:01:56] artırdığını inandığımız, eğitimde kalitliği artırdığını inandığımız,
+[00:02:00] öğrendi başarısını veya öğrencilik, kendini gerçekleşmenin salını inandığımız
+[00:02:05] öğretim kuralları olarak ifade edebiliriz. Dolayısıyla,
+[00:02:09] bütün konuyu ele aldığımız zaman ilerleyen kısımlardan. Şimdi model
+[00:02:14] strateji yöntem teknik gibi kavramları genel kapsam da el alacağız. Mesela modern genel
+[00:02:19] felsepedir. Statıcı genel yoldu. Yöntem takip edilen yoldu. Tekniksi yöntemin uygulama
+[00:02:24] biçimidir. Ama öğretimi hikayelerinde hangi model yazı stratejiye uygulun hareket ederizlik edelim?
+[00:02:30] Her stratecin geçer. Ona niykelerdir. Yani sunuş yolu içinde geçerlidir. Buluş yolu
+[00:02:35] içinde geçerlidir. Yapılandım hocanın içinde geçerlidir. Tam öğrenme modeli içinde geçerlidir.
+[00:02:41] bütün yöntem ve tekniklerde mutlaka verinliği artırdığına inandığımız genel
+[00:02:46] ülkelerimiz öğretip ilkese diyoruz. Öğretimi ilkeleri çok fazla bazen kaynaklarda
+[00:02:52] bakıyoruz. KPS'i saldırı kaynaklarında 20-30 gidiyorlar. Yani her şey yazıyorlar ama
+[00:02:57] genellikle öseğimini yaptığı tüm sınavlardan. Yani KPSS'de, AGS'de, AKS'de, şu anda
+[00:03:06] ekrandı gördüğünüz on bin hatta ilk on tane ilkiden bahsediliyor arkadaşlar.
+[00:03:12] Nedir bu ilkelerimiz kim? Aslında yani kolaylıkla adından da yorumlayabileceğimiz ilkelerdir.
+[00:03:19] Birincisi ve hepsinden el önemlisi, hepsinden önemlisi olarak göremeceğimiz ilkim.
+[00:03:25] Öğrence uygunluk ya da çocuğa göledik ilkisi bu ülkeyi göre adından oluşacağı gibi
+[00:03:30] eğitim öldüm, sürecim, öğrencilerin ilgi, ihtiyaç ve beklentilerin uygun olmadır.
+[00:03:36] Öğrencilerin düzeni uygun olmadır, eğitim bir reselleştirilirdir.
+[00:03:40] Yani çocuğa görük ikisi eğitim bir reselleştirilmesi.
+[00:03:48] Bolesi ile bu malik moderndeki farklılaştırma uygulamaların
+[00:03:57] özellikle destekleme ve zenginleştirme çalışmaları
+[00:04:00] öğrenciye görelim. Öğrenci uygunluk ikisiyle ilgili kavranlardır arkadaşlar. Yani öğretim sürecini düzenlerken öğrencinin düzenini gözönde
+[00:04:09] bulacağız. Herhangi bir öğrenci dışlamayacağız farklı öğrencilere, farklı yöntem tekniklerde ve kendi ilgi alanına, kendi zeki alanına, kendi öğrenmesini uygun şekilde eğitim
+[00:04:23] alacak şekilde eğitim sürecini düzenlememiz öğrenci uygunluk ikisidır. Dolayısıyla her öğrenci. Bakın eğitimi bir
+[00:04:29] bir reselliştirmesi diyor. Dolayısıyla dersimizin ortalama öğrenciye
+[00:04:34] ortalama bir öğrenciye göre anlatmak öğrenci uygunluk ikesine aykırıldır
+[00:04:39] arkadaşlar çünkü ortalama bir öğrenciye göre anlatmak demek belli bir
+[00:04:43] seviyeye göre anlatmak demektir. Ama biz eğitim verirken farklı seviyeyle
+[00:04:48] gözünde bulunmalıyız. Bu yüzden arkadaşlar öğrenciye göre ikesine göre her
+[00:04:52] öğrenciye kendi göre ders anlatılması gerekiyor. Mesela bedeni itim
+[00:04:56] öğretmeninin bazı öğrencileri, eee vorey bola, bazı öğrencileri
+[00:05:01] refut bola, bazı öğrencileri de basket bola yöneldimesi
+[00:05:05] öğrenci uygun kilkesiyle ilgilidır. Ya dersimiz anlatıra gün bir
+[00:05:09] öğrencilik ki resim yeteneni keşfetti ki onu resmen
+[00:05:12] yönelindik. Bu öğrenciyi görelim kilkesiyle ilgili. Çünkü
+[00:05:15] öğrencinin yeterlilik alanları gözöndüm olarak ona göre
+[00:05:18] eğitim almak zorundur. Kekincisi hayat edik ya da yaşam
+[00:05:23] yakalık ilkisi, meşhur ilerlemecilik felşifesine, en iyi yastayı ki budur. Bu da diyor ki, o kulda
+[00:05:33] öğrenen konuların hayatta bir karşılığı olmalı olmalıdır diyor. Hayat ülke ilkesinden,
+[00:05:39] bertimiz hayattan koku olmayacak, hayatın bir parçası olarak ele alması gerekiyor. Mesela İngilizce dersinde
+[00:05:48] konuşma eğitim veren bir örgün. İngilizce konuşma dersin almış olan bir öğrencinin,
+[00:05:53] Eğer İngilizce konuşabiliyorsa hayat ilkisine uygun davranılmıştır. Eğer konuşamıyorsa hayat ilkisine haykır davranılmıştır.
+[00:06:00] Matematik dersinde dört diştemi öğrenen bir öğrencinin marketten pazara alışveriş yaptığından bu dört diştemi kullanarak hesaplamalar yapabilmesi arkadaşlar.
+[00:06:09] Hayat ilkisini ilgildi. Yani öğrencinin ders de öğrendiği konuyu hayattık kullanabilmesidır.
+[00:06:16] Hayata uyarlayabilmesi ya da hayatı attınızver edebilmesidır.
+[00:06:19] Üçüncü el alacağımızı iken iş aktivite ya da yaparak iş yaratı öğrenme ki bu da zaten ne olduğunu kendisi söylüyor, sürece öğrenin ne kadar dair olursa ne kadar üretim sürecinin içinde olursa yani o bilgi üretli sürecinin içinde olursa bilgiler o kadar kalıcı olur.
+[00:06:37] Orangiler dersin pasif dinleyicisi ise kalıcılık düşük oluyor ama aktif bir öğrenmek
+[00:06:42] gerçekleşiyorsa süreci kalılıyorsa öde evlerle projelerle etkiliklerle süreci
+[00:06:46] kalılıyorsa kalıcı öğrenmeler daha fazla oluyor.
+[00:06:50] Diğer ilkimiz ekonomik ilkesi, adından dolayısıncağı gibi ne kadar mükçemiz varsa
+[00:06:57] eğitim sürecini ona göre üzerlememiz gerekiyor.
+[00:07:00] Bunun dışından daha az zamanda.
+[00:07:04] Yani bunu şöyle diyebiliriz. Daha az, emek, zaman ve maliyetle daha verimli, eğitimi sağlamak.
+[00:07:18] Arkadaşlar, ekonomiklik. Yani ben bir etkinlik yaparak iki kazanımı gerçekleştirebizim.
+[00:07:24] Bu ekonomiklik ikisiyle ilgilidir. Ekonomiklik, özellikle planında hareket etmek.
+[00:07:30] Yani ders planı yapmak ve bu planı uygun bir şekilde dersi işlemek ekonomik ilkesiyle ilgilidir arkadaşlar.
+[00:07:38] Bir diğeri aktualite ya da güncellik ilkesi öğretmen dersi anlatırken güncel olaylarla balını kurarak anlatmalıdır.
+[00:07:48] Yani bir öğretmen dersi geldi işte yakın geçmişe yaşanmış bir olayı anlattı ve oradan hareketle dersi geçerse bu aktualitik ya da günciye ettir.
+[00:07:56] Bakın, bilgi hayatta kullanabilmesi hayat edilik,
+[00:07:59] öğrencinin sürece dahil olması yaparak yaşayarak öğrenmeyen aktiviti ilkisi,
+[00:08:03] güncel örnekler vermesi, güncel süreçleri takip etmesi,
+[00:08:06] güncel bilgileri öğrencilerle paylaşması, aktu altı ilkisidir.
+[00:08:11] Bunlar içerisinde mağazen işte karıştıbirliğimiz bilgim,
+[00:08:15] açıklık ya da ayağınelik ilkisin,
+[00:08:18] deste öğrenilen konular, işlenen konular öğrenci için ne kadar açık bir anlaşılır olursa,
+[00:08:23] kalıcı öğrenmeden o kadar fazla olur.
+[00:08:26] Buradan bu düşüne göre açıklık ilkesin iki boyutu var.
+[00:08:30] Biri duyu oradan boyutun.
+[00:08:33] Yani derslik kullandığımız materyaller öğrencinin ne kadar duyu organı hitap ediyorsa
+[00:08:40] verimlik o kadar artır. Dolayısıyla burada araç kereç kullanımı söz konusu.
+[00:08:45] Bir de arkadaşlar değilsen boyut var.
+[00:08:48] Burada da öğretmenin derste kulağında tüm müfade eder, öğretmenin üstü bu, öğretmenin
+[00:08:58] konuşma biçimi, öğrencinin düzene uygun olmalıdır, öğrencinin anlayamayacağı,
+[00:09:05] öğrenci için karmaşık olabilecek kelimeler cümleler kullanmak açıklık ikisine aykırıdır.
+[00:09:10] Yani karma karışık, genelde kulağın özeymiş tarz soruları sormayı seviyor.
+[00:09:16] Büyükümlü yazı, işte öğretmenin bir anlaşılmaz bir kelimek kullanmış oluyum.
+[00:09:20] Öğrendi ülkeye bundan da bir şey anlamadım diyor.
+[00:09:22] Öğrendi ben hangi ilki ihler etmiştir?
+[00:09:25] E öğrendiğimi anlayamayacağı cümlülür, anlayamayacağı kelimeleri kullanıyorsa eğer arkadaşlar
+[00:09:30] açıklık ilkesi göz vardı, edilmiştir, açıklık ilkesi ilkiler edilmiştir arkadaşlar.
+[00:09:35] Bir diğer ilkemiz, somuttan soyut ilkisi, somuttan soyut ilkisi özellikle soyut kavramlar öğretileceği zaman.
+[00:09:43] Somut bir materyale ya da somut bir örnekten hareketle anlatılmasıdır arkadaşlar işlenmesidir yani bir öğretmenin sevgi kavramını ele alırken
+[00:09:56] Anne koruyuculuğunu örnek olarak vermesi herkese son mutlaka soyuta ilkesidir.
+[00:10:09] Burada esas olan şudur arkadaşlar, soyut bir kavram öğretileceği zaman, soyut bir kavram
+[00:10:15] öğretileceği zaman, son muttanın hareketle yola çıkmak esastır.
+[00:10:20] Aslında Sumut'tan suyuta ilk esini de şey gibi düşünebiliriz. Açıklık ilk esiyle benzer düşünebiliriz.
+[00:10:26] Ama orada şöyle bir ayrılmımız olabilir arkadaşlar.
+[00:10:29] Şöyle bir...
+[00:10:32] Hala açacağım kendime.
+[00:10:34] Şurada.
+[00:10:43] Şimdi arkadaşlar, eğer bir öğretmen sayıları...
+[00:10:50] Fasuyeler üzerinden anlatıyorsa sesin geliyor değil mi arkadaşlar?
+[00:10:58] Seste bir problem var, çünkü mikrofonla ilgili bir yazı geldi de ekranıma onla doluyuz.
+[00:11:09] Sayı Fasuyelerden anlatıyorsa bu somuttan soytadır.
+[00:11:13] Çünkü soyut bir kavram olan sayıları fasulye tanedeyle somut baştırmıştır ama güneş sistemini
+[00:11:25] model üzerinden anlatıyorsa bu açıklık ilkisidir arkadaşlar.
+[00:11:35] Çünkü soyut bir şey diye somut bir şey anlatıyordur ve somut bir şey daha anlaşılır
+[00:11:41] herhalde getirmek için araç kereç kullanmıştır arkadaşlar. Bu açıklıktır.
+[00:11:46] Ya da işte organları yine bu müslikli bir model var ya bu model üzerinden anlatmak
+[00:11:57] açıklıktır. Dolayısıyla somuttan suyutla ilk kez için suyut bir şiinin öğretilmesi
+[00:12:05] sastırı ama açıklık ilkisi için daha çok var olan bir şeyi daha kolay alışacak bir materli
+[00:12:14] düğene alatmak esastır. Tabi ki bunları ikisini birbirini yerine kullanabiliriz. Benim söyledim sadece aynı
+[00:12:21] sorda aynı seçeneklerde ikisi de varsa bunları bu şekilde değerlendirebiliriz arkadaşlar.
+[00:12:29] İkiyorum, siliyorum bu kısmı.
+[00:12:35] Diğerleri zaten ne olduğunu söylüyor, bilinenden bilinmeyene ilkesin, ders istedirken öğrencenin bildiği konman hareketle yavaş yavaş bilmediği konuya doğru anlatmamızdır.
+[00:12:57] Arkadaşlar burada önemli olan öğrencenin bildiğinden bilmediğine doğru anlatmaktır.
+[00:13:02] Mesela öğretmenin...
+[00:13:04] Pardon, yürüntü mi gitti?
+[00:13:10] Mesela arkadaşlar, öğretmenin dersin başında
+[00:13:16] Ölcik altı da işlenen kumluru hatırlatarak ondan sonra konuyu girmesi
+[00:13:20] Bilinenden bilinmeyene ilkesiyle ilgilidir ya da matematik dersinde
+[00:13:24] çartma konusu, işecek bir öğretmenin önce bölme konusu hatırlatıp, önce toplumu konusu hatırlatıp oradan çartma konuza geçmesi bilinenden bilinmeyen edip, yani öğrencenin birliğinden hareketle bilmediğine doğru anlatılmasıdır arkadaşlar konunun.
+[00:13:41] yakının uzay ikisi dersi senirken öğreninin yakın çevresinden uzak çevresine yakın yaşantısını uzak yaşantısına onun için yakın zamandan yakın olanla uzaha doğru anlatılmasına yakının uzay ikisi diyoruz.
+[00:13:58] Mesela bir öğretmen antik günandaki demokrasi anlayışını anlatırken günümüzdeki demokrasi anlayışından yavaş yavaş geri doğru diyorsa bu yakından uzadır.
+[00:14:09] Yada bir şey anlatacağım bu zaman. Önce öğrencenin şehrinden daha sonra bölgesinden, daha sonra ülkesinden yavaş yavaş, uzal doğru gidiyorsak buna yıkından uzal diyoruz.
+[00:14:21] Basitten karmaşa ilkesinde daha az işlem gerektirenden, daha çok işlem gerektirmeyi doğru yavaş yavaş dersin işlerine söz konusudu.
+[00:14:30] Yani önce bir bilinmeyen deniklem, daha sonra iki bilinmeyen deniklem, daha sonra üç bir çok bilinmeyen deniklemleri doğru gitmek
+[00:14:36] ya da tümçe dersinden önce özüne bir yüklemden olacağın cümleler kurmak, daha sonra üclem ve cümleçten olacağın cümleler kurmak
+[00:14:47] gittikçe daha da karmaşı kale getirmek arkadaşlar basitten karmaşıya ilkesidir.
+[00:14:53] bir matematik öğretmenin olasılık konusluğundurken önce basit bir zardan konuyu almaya başlaması
+[00:15:00] gittikçe daha karmaşı süreçtire gidiyor olması basitten karmaşıya.
+[00:15:04] Son olarak sosyallik yani otoriteyi itaat ve özgürlüklikesi burada otoriteyi itaat
+[00:15:13] gazetimiz, ama bir otorite var da ona itaat ediyiz diye kuralar uygun davranma kardeşim.
+[00:15:19] Öğrencilerin sınıf kuralları çerçevesinde kendini serbest şifad edilmesi, sınıf kuralları
+[00:15:28] buradan otoride, özgürlükte serbest şifad edilmesi, sınıf kusunun kuralları içerisinde
+[00:15:34] kendini serbest şifad edilmesi, sosyal ilkisi olarak fifad edilir.
+[00:15:39] Evet, öğretim ülkelerimiz bunlar içerisinde en temel ilke tabii ki öğrenciyi merkeze aldığımızcıl,
+[00:15:48] Öğrence uygunluk ilkisidir arkadaşlar, uzunluğum kısası, dersin öğrenin iki yaşına görüldürenle nesi,
+[00:15:56] Farklaştırmış eğitim, öğrence uygunluk, bilgileri günlük hayatı kullanmak, hayatilik,
+[00:16:02] öğrencinin sürece dahil olması, aktivitem, daha azemekle, daha fazla,
+[00:16:09] Hedef'i gerçekleştirmek, ekonomiklik, güncel örnekler vermek, aktualitem,
+[00:16:15] öğrenci, uygum bir dil kullanmak, araç kereci kullanmak, açıklık,
+[00:16:19] sohut kavramları, somut örnekler üzerinden gitmek, somuttan, sohutta,
+[00:16:23] öğrencenin bildiğinden bilmeninle doğru işlemek, yani ilk konulardan,
+[00:16:27] önceki konulara hatırlatarak dersek iki kişi yapmak bilindeninden bilinmeyene,
+[00:16:31] yakın çevreden uzak çevreği doğru gidiyorsak, yakından uzak,
+[00:16:35] az işlem gerektirenler çok işleme doğru gidiyorsak,
+[00:16:37] basitten kalmaşa, kurallar çerçevesinde de öğrenginin,
+[00:16:41] Serbeç ikenin nüfad edilmesi de sosyalik ilkisi olarak nüfad edilebilir.
+[00:16:48] Ekrandakileriliyorum arkadaşlar.
+[00:16:50] Öğretim ülkelerimiz bunlar.
+[00:16:57] Buyurun. Bu sorulara bir bakalım.
+[00:17:00] Tekrar hatırlatıyorum.
+[00:17:02] Ders esnasında çözdüğümüz tüm sorular.
+[00:17:04] AKS'de çıkmış sorular yani. Başka sınavlarda değil.
+[00:17:08] AKS'de çıkmış sorular arkadaşlar.
+[00:17:10] Ezev bu iki bin yirmi iki de çıkmış.
+[00:17:35] Çok güzel.
+[00:17:36] Söreye baktığımızda ne görüyoruz? Bir öğretmen.
+[00:17:40] Öğrencilerinden yaşadıkları çevirdik, geçmişte meydana gelmiş doğal affetler kuzlu yetişkinlerden milyalmalarına yaşadıkları çevirdik, affetler konusunda yetişkinlerden milyalmalarına ve bunları not ederek sınıfa gelmedir ister.
+[00:17:52] Sınıfta bu bilgiler paylaşıldıktan sonra, öğrenilere Türkiye'de yaşanan başlıca doğal affetlerli ilgili bir videozleterek,
+[00:18:01] Farklı doğal hafifleri ve olunça evlenir. Sonuçlar birlikte açıklar. Ardından da öğrenilen dünyanın farklı kıtalarında ejanın doğal hafifleri araştırarak sonra giderse bunları paylaşmamışlar.
+[00:18:13] Yani öğrenciyi yakın olan da yavaş yavaş uzak olanı doğru gittiği için yakından uzay fikirse olur. Doğru cağımız D seçeneği oluyor.
+[00:18:23] İçiyorum.
+[00:18:26] Buyurun bir de bana bakalım.
+[00:18:31] Çok güzel, bir lise müdürü öğretmenlerle yaptığı toplumda da var.
+[00:18:56] bir lise müdürü öğretmenlerle yaptığı toplantı da öğretilikiler
+[00:19:03] hakkında şunları söylemiştir. Eğer öğrencileri ağaç
+[00:19:07] sevgisini açlamak istiyorsak öğrenin nayanın toprağı basmasın
+[00:19:11] sağlamımız gerekiyor. Bakın öğrenciyi sürecin içine
+[00:19:13] dailepmeyi izliyor. Sağlamımız gerekir. Öğrenci okul
+[00:19:19] bahçesine kendisi ağaç dikecek. Onu kendisi sulaayacak.
+[00:19:22] Gerektiğinde kendisi ilaçlayacak. Bak etinliklerine
+[00:19:25] yapıyor. Hep öğrencik kendisi yapıyor. Kendisi dikecek, kendisi
+[00:19:29] solayacak, kendisi ilaçlayacaktır. Hacı dikerken kri toprağın
+[00:19:34] gerçeği resaplar ise daha zeneci harcanı düşünürken, hem
+[00:19:37] matematik hem fizik dersin bilgilerinden. Hacı sularken bir
+[00:19:41] hacı sulamayın için gelikli olansığım ik tanıdışını, sulun
+[00:19:44] yüzüne eee göz önünde bulunurken bir yoloji dersin bilgilerinden
+[00:19:47] ilaçlayamayın ve fark ettiğin etiyen matlısını düşünür.
+[00:19:50] Gerik dönemdir almada, kimiye ders bilgilerinden
+[00:19:52] Anlayacaktı. Dolayısıyla öğreneni süreci aktif katılmasın ve bu katılmış sonucunda
+[00:19:57] uygulamalı bir şekilde bir şeyleri öğrenmesi söz konusu olduğundan yaparak ve yaşayarak
+[00:20:02] öğrenme oluyor. Yani bu karşımıza iş ilkisi ya da aktiviti ilkisi olarak da gelebilir.
+[00:20:08] Somut'dan soyuta diyen bazı arkadaşlarımız var. Somut'dan soyut olabilmesi için de soyut
+[00:20:15] bir kavramı, soyut bir şeyin öğretiliyor olması gereken, ancak Metin'e baktığımızda soyut
+[00:20:20] kavramın somut olanla yola çıkarak anlatılmaz. Nasıl yani?
+[00:20:24] Öğrenci'nin süreci aktif bir şekilde katılamından bahsettiği için doğru
+[00:20:28] cevabımız değil seçeneği yaparak yaşayarak öğrenme olur.
+[00:20:33] Geçiyorum arkadaşlar. Evet öğretim ilkelerimiz bunlardın.
+[00:20:40] Öğretim ilkeleri eee sınavdan ar yani birkaç senedir çıkmıyor ama
+[00:20:46] daha önce çıkmış bir konuydu. İkinci el alacağımız alt başığımız
+[00:20:51] düşünme becerileri, düşünme becerileri arkadaşlar direkt bize
+[00:20:56] sorulabilir de sorulmayabilir de ama şöyle düşünün. Mesela
+[00:21:01] Türkiye Yüzdüm Maluk modelinde üstleri düşünme becerilerin üst
+[00:21:04] beceriler olarak karar verme, elişler düşünme ve problem
+[00:21:09] türlü becerisi gibi becerilerden bahsettir. Dolayısıyla düşünme
+[00:21:13] becerileri biz buradan direkt eee üyete başlı altında olmasa bile
+[00:21:17] yaratıcı düşünce yansı düşünce işler düşünce gibi kavramları
+[00:21:21] biz yeri gelin de program geliştirmede yeri gelin de eee
+[00:21:26] marif modelinde yeri gelin de ölçümede ya da ne bileyim bu
+[00:21:30] eee örgüt yönetiminde bir de karşımıza çıkacak bir konuda
+[00:21:34] çünkü öğrendi gelişimi diye girdi. Bu yüzden düştüğüne
+[00:21:37] becerileri direkt öyete olarak değil kavram olarak ne olduğunu
+[00:21:41] bilmemiz gerektiren becerileri içeriyorum. Burada altı tane düşünme
+[00:21:45] becerisinden bahsedeceğiz ki burada da çok farklı düşünme
+[00:21:48] becerilerini ele alabilecekken bu altı tanesi biraz daha
+[00:21:51] öne çıkan hatta daha özel anlamda yaratıcı düşünüyor,
+[00:21:56] yansıcıcı ve eleşte düşünme biraz daha öne çıkan
+[00:22:00] düşünme becerileridir. Neler bunlar? Birinci olarak yaratıcı
+[00:22:04] düşünme. Adından danışarı gibi yaratmak demek bir şey yoktan
+[00:22:08] var etmek demektir. Dolayısıyla bir kişinin daha
+[00:22:11] önceden kaçta çıkmayan karşılaşmamış olduğu bir konuda
+[00:22:16] fikir üretmesi, özgün, yeni, orijinal daha önceden ortaya
+[00:22:21] koyulmamış gibi fikir, ortaya koymak arkadaşlar yaratıcı
+[00:22:24] düşünmedir. Yaratıcı düşünmede bakın ne diyor? Farklı
+[00:22:27] düşün yeni yollar keşfet. Dolayısıyla yaratıcı düşünmede
+[00:22:30] risk alma, yenilikleri açık olman, hayal gücünü kullanma
+[00:22:34] gibi becerilerde işin içine giriyor. Yaratıcılık, yenikleri
+[00:22:38] bulmak. Mesela evde ton evde ihtiyaç yolunda, ton evde
+[00:22:44] bulamadığında bıçağın ucunu kullanmak. Bir kız çocuğunun
+[00:22:48] saçını toplaması gerektiği zaman, tokak bulamadığı zaman
+[00:22:51] kalemi, toka niyetine kullanması. Bunları tabii ki daha
+[00:22:56] önceden karşılaşmayıp kendisi düşünerek bulabiliyorsa
+[00:22:59] yaratıcı düşünme oluyor. Yaratıcı düşünme de ördüğünü,
+[00:23:02] orijinal bir düşünün ortaya çıkması esastır. Bir diğeri burada dediğimiz gibi özgün
+[00:23:09] olmak esas yeni olmak esas bir de orijinal gibi ifadesi kaşımda çıkıyor.
+[00:23:17] Eleşler düşünmese sorgulamadır arkadaşlar. Bir bilgiyi sorgulaya erak, belli kalanları
+[00:23:25] dayı olarak anas ederek tutarlı bir şekilde ortaya koymak eleşler düşünmedir. Yani
+[00:23:30] bir bakıma sorgulayıca düşünmedir arkadaşlar.
+[00:23:34] Şu altı değil mi sorgulama ve değerlendir mi ipadeleri?
+[00:23:38] Ya da bir ölçükle karşılaşma gibi ipadeler,
+[00:23:41] el işte düşünmeli, ilgilidir.
+[00:23:43] Yani mesela bize bir mesaj geliyor.
+[00:23:47] Diyor ki hakkınızda açılan işte bilmemle davasi için
+[00:23:52] işte avukatlık şirketimize arayınız diyor.
+[00:23:55] Şimdi bir kişinin gelen bu mesajı
+[00:23:58] Hiç yargılamadan, sorgulamadan doğruymuş ve hemen o numaraya araması, hemen veya linkettiklayın diyor, hemen o linkettiklaması, eleşter düşünmen gelişmedi anlamında geliyor. Niye geldi? Neden oldu?
+[00:24:09] Nasıl olması gerekiyordu? Kişinin bu durum doğruluğunu önce sorgulaması gerekiyor.
+[00:24:15] Özellikle son yıllarda internetin değer kalanması, ya da yapay zekyanın çok fazla ilerlemesine bağvolarak arkadaşlar,
+[00:24:24] Aslında bir bakıma eleşler düşüncenin daha da gerekli olduğunu görüyoruz.
+[00:24:29] Şöyle gerekler, birçok öğrencimiz, çekki impiti Cemile gibi birtakın uygun bulamalara sorusunu soruyor
+[00:24:40] ve gelence var bu, sanki kustal bilmetini bir hiç sorgulamadan eleştirmeden doğru kabul ediyor.
+[00:24:47] Halbuki önce bir değerlenmemiz lazım, nasıl değerlenmemiz lazım, güvendir kaynaklardan araştırmamız lazım.
+[00:24:53] önceki bilgilerimize yalı bir de bu kütelleri göre
+[00:24:56] sorgulamamız lazım. Bütün bu sorgulamaların sonunda
+[00:25:00] eğer doğru olduğuna kanat getiriyorsak
+[00:25:04] kullanmamız lazım.
+[00:25:05] Bize bunları arkadaşlar yapayız eğer çetçiyi bitiye
+[00:25:08] evimin 50 metre ötesindeki
+[00:25:12] araba yıkamaya
+[00:25:13] araba mı yıkatacağım?
+[00:25:15] 50 metre ötesi, araba yıkama var
+[00:25:17] araba ile mi gideyim?
+[00:25:18] Yürüyerek mi dediğimiz zaman çetçiyi bitiyor bana?
+[00:25:20] Yürüyerek gitme mi önerdi?
+[00:25:22] arabayı yıkamaya, arabayla değil, yürere gitmemi önerdi arkadaşlar.
+[00:25:26] Dolayısıyla, hani bununla denemek için kullanmıştım.
+[00:25:29] Demek istediğimi o ki bazen interneti ki bilgiler hata yapabiliyor, yan olabiliyor.
+[00:25:34] Dolayısıyla bir takım kriterlerle sorgulamamız gerekiyor.
+[00:25:39] Ondan sonra, iyi kabul edin.
+[00:25:43] Ya da reddederken aynı şey söz konusu arkadaşlar.
+[00:25:46] Şu da var, bir öğrencinin öğretmenin söylediğini,
+[00:25:49] ya da bir çocuğun annesinin babasını söylediği sözü hiç eleştirme de direk doğru kabul etmesi de eleşte alışmanın gelişmediği anlamına geliyordu.
+[00:25:58] Yastıcı düşünme, kişinin sahip olduğu bilgileri kullanmasıdır arkadaşlar.
+[00:26:05] Kişinin aslında burada biraz daha imliyle amel etmek diyebileceğimiz kişinin sahip olduğu bir iyi kullanması.
+[00:26:13] Yani benim dert çalışmaya başlamam lazım, bir takım eksiklerim var, dert çalışmaya başlamam lazım.
+[00:26:20] Yani haftaya yaparım. Demek değil, ondan sonra bir haftaya yaparım demek değil.
+[00:26:24] Yazdıklı şünce kişinin doğru olduğunu inandığı davranışı yerine getirmesidır.
+[00:26:29] Ben müdür yarısı olduğum zaman daha mutlu olduğumu diyorum ama müdür yarısı olmak için mücadele etmiyorum.
+[00:26:35] O zaman benim yazdığı şüncem dağıtam olarak gelişmemiştir arkadaşlar.
+[00:26:39] Yadık kişinin kendi eksiklerini gözlemlemesi, kendi eksiklerini bulup geleceğine yön çizmesi arkadaşlar, o da yaslı düşünmeyiyle eggildir.
+[00:26:49] Kişinin kendi düşünme biçimleriyle kendi eksiklerini görüp bunları gidemezsin.
+[00:26:56] Anlarız etmeden düşünebiliriz.
+[00:26:59] Kişinin bir takım bilgileri, bir takım düşünceleri, yürüdelemesiydir.
+[00:27:06] sınıklandırmasıdır. Bakın parçaları analizet bütün ülkür. Yani
+[00:27:11] yürdeylemek parça alamak, deteyim bilgisine sahip olmak
+[00:27:15] anledik düşünmedir. Neyse bir problemle karşılaşan bir kişinin
+[00:27:19] elindeki verilere ve amaçlarının aydı bir şekilde sınıklandırabilmesine
+[00:27:24] kategoriyeler almak. Mesela burada bunlar var. Mesela sınıklandırma.
+[00:27:27] Katar golüze etme gibi kavramları anahtik düşünmeyle ilgili neden sonuç ilikse ortaya koymak, nedenleri bulmak.
+[00:27:41] Bu da anahtik düşünmeyle gider, anahtik düşünme, ildeleyi düşünmeleri bir bütün parçalar ayırmamızı sağlayan düşünme biçimidir.
+[00:27:54] Metabilisel düşünme ise aslında en üze talihle düşünme üzerine düşünmedin.
+[00:28:02] Yani kişinin problem ettiği kaynağı, çözüm, bu meclisi kaynağı yönelmesin dışında.
+[00:28:08] Bunun yaparken kendi düşünsel süreçlerini düşünmesin.
+[00:28:12] Ben nelerde hata yapıyorum.
+[00:28:13] Bunu araştırırken, hankı düşünsel süreçlere göre hareketminim diye düşünce öğretme serkeşler.
+[00:28:19] Metabilisel düşünmetir.
+[00:28:21] Aslında kişinin düşüncelerin, düşünmek konusu yapmasıdır arkadaşlar.
+[00:28:26] Kişini kendi düşünme sürecinin farkı bulması, bu süreci, planlılması, yani kendini bir araştırma yolu belirlemesi arkadaşlar, Metaprisel düşünmedir.
+[00:28:37] Latera düşünme ise, aslında altı şapkıl düşünme teklinde olduğu gibi herhangi bir konunun ya da herhangi bir düşüncenin sadece belirlenmiş bir bakış açısıyla değil, farklı bakış açısıyla değil.
+[00:28:49] nasıl iyiyim ser, kötüm ser, duygu sal, nesler, yaratıcı ya da karar verici olmak üzere farklı bakış açıları ile da düşününmesine çözüm bulunmaya çalışınmasına da latera düşünme diyoruz.
+[00:29:03] Bu zunlatın kısasını yeni özgün orijinal düşünüyorlar üretmek yaratıcı düşündü.
+[00:29:09] Sorbulayıcı değerlenmeye dayalı, kriterede düşünmek, eleşter düşünme.
+[00:29:15] Kişinin saygı olduğu bilgileri kullanabilmesi, hayatını uyarlayabilmesi, yastıcı düşünme,
+[00:29:22] evdeleyece, anlariz edece, sınıflandırıcı ya da nedenleri bulmamız ayarımı yollan
+[00:29:29] düşünme, anarttik düşünme, düşünme süreçleri üzerine düşünmek, metabolisel düşünme, son olarak
+[00:29:36] da kişinin komuya, sadece bildi bir bakış açıçla değil, farklı bakış açıçların
+[00:29:42] kullanılarak yaklaşabilmesi de lateral düşünme olarak ipu adı edilir.
+[00:29:47] Düşünme becerilerimiz bunlar dediğim gibi özellikle karşımıza çıkacak
+[00:29:52] düşünme becerileri yaratıcı düşünme, yansı düşüye eleşte düşündedir arkadaşlar.
+[00:29:57] Özgünlük yaratıcı sorgulayıcılık eleştire ve bilgileri kullanmakta yansı düşünme
+[00:30:03] oluyor.
+[00:30:04] Siliyorum.
+[00:30:12] Buradan çıkan bir sormuz.
+[00:30:42] Çok güzel.
+[00:30:48] Sınıfında elektrik öğrenme yaklaşınlığı kullanmayı planlarını ile öğretmen ve meslekte
+[00:30:53] şarısı da şu konuşma geçmek için.
+[00:30:55] Ne ile öğretmen internet zamanını öğrenme, bilgi yeri için kolay linsa alırsa beraberine
+[00:31:00] doğru ve güvenilir bilgi ulaşma sorunluğu yarattı.
+[00:31:03] Doğru ve güvenilir bilgi ulaşma sorunluğu var.
+[00:31:06] Özellikle diştir ortamladık yuvum bilgi kirliliği biliğin ulaştı bilginin doğruluğunu
+[00:31:11] doğrululuğunu, güvenilirliğini, kaynağını sorgulamayı, kaynaklar ilişkin araştırma ve
+[00:31:18] karşılaştırma yapmayın zorunu kıvılır. Bakın zaten burada ne var? Zaten kendi
+[00:31:22] söylüyor, elişler düşünce. VCR önkendiğini diyor, öğrencilerde bu durumun farkında
+[00:31:30] olmuyor mu? Ve gereken yapmalı ki e öğren mortamlanan en üstüyde faydana bir sinler dolayısıyla
+[00:31:36] arkadaşlar burada eee kullanman düşme becerisi eleşter düşünme
+[00:31:41] oluyor. Doğru cevabımız en seçeni ki gelen
+[00:31:43] cevapların hepsini de buradan doğru olduğunu söyleyebiliriz.
+[00:31:48] Geçiyorum.
+[00:31:54] Evet geldik. Öğretin stratejilerine. Altı tane at başlığımız
+[00:31:58] var dedik. Iki tanesine tamamladık. Öğretim ülkeleri ve
+[00:32:03] Düşünme becerilerini gördük, geldik öğretim stratejilerine, öğretim stratejiler arkadaşlar üç tane öğretim stratejimiz var.
+[00:32:11] Neşur buluşsunmuş ve araşımın yeni bir yolu öğretim stratejisi, biz burada bir tıkın detaylarına gireceğiz.
+[00:32:17] Ama aslında komuğum en özetali şu anda ekranda olan birçime.
+[00:32:22] Yani öğretim stratejinde de öğrenme sözünde belirleneğine ulaşmak için öğretmeni öğrenince dediği genel yolu biz öğretim stratejisi diyoruz.
+[00:32:31] Örtüm stratejimiz üç ayrılıyor, sunmuş, buluş ve araştırın en genelimi yolu örtüm stratejisi.
+[00:32:37] Mu stratejilerden arkadaşlar, ilk olarak ortaya çıkan strateji, sizce nedir?
+[00:32:44] Hangisidir sizce?
+[00:32:51] Değil, ilk ortaya çıkan stratejimiz arkadaşlar, buluş yolu ile örtüm stratejistidir, ilk olarak.
+[00:32:57] burunlar o zamanla kadar ki eee öğretim uygulamalarını
+[00:33:01] eleştiriyor. Ve o eleşçilerden hareketine buluş oluyordu
+[00:33:05] öğretim stratejisine ortaya koyuyor. Arkadaşlar. Şimdi
+[00:33:08] bir tabi biz bunların detaylarını göreceğiz. Burada özet
+[00:33:11] hali var eee buradan şimdi lıksaçın şunu alacağız.
+[00:33:15] Static seçimlikle etmenlerde bakın en başlarına
+[00:33:20] var. Öğretimi nedefleri var? Bu birinci en önemli
+[00:33:23] istirarkaja. Yöntem teknik strateji seçiminde önce öğretim edipleri
+[00:33:28] basalımır. Daha sonra öğrenci özellikleri daha sonra içerik
+[00:33:32] öğrenme üretim ortamı ve zaman gibi imkanlar göz önünde
+[00:33:37] bulundurdu. Ve bu konunun en özetale şum eğer öğretmen dersi
+[00:33:42] anlatıyorsa öğretmenin kullandığı bir cümle olsun bir tanım olsun
+[00:33:47] hemen gibi bir gibi yiyorsa bu sunuşturarkaja. Yani bir
+[00:33:50] yirmi eee öğretmen tarafından aktarılıyorsa buna sunuşlıyoruz. Mesela bizim şu anda
+[00:33:56] işleme biçimimiz sunuş yolunu uygundur. Dersin başına konuyla ilgili bir kavramarita
+[00:34:00] sıveriliyor. Daha sonra konunun özetine girliyor. Bu sunuş yoludur arkadaşlar. Öğretmeni
+[00:34:05] öğren önceki konularla da eee ilişlenek derse anlatmasın. Buluş yol böyle öğretim
+[00:34:11] stratejinde öğretmenin konuyu aktarması söz konusu değildir. Öğretmen örnek
+[00:34:17] durumlar olsunlar, örnek durumlar üzerinden öğrenci bilgi
+[00:34:22] kendisi keşfeder. Araşmı gelme yolu örtüm stratejinde de
+[00:34:27] aslında bilimsel yönteminde boyasım akıllar olarak ifad edileceğimiz
+[00:34:31] öğrencilerin konuyla ilgili araşmı yapması okuldujiğinde çalışmaları
+[00:34:36] önemli söz konustur. Bu bağlama, sunuş ve buluş olduğu
+[00:34:40] örtüm stratejinde daha çok okul içinde, araşmı gelme yolu
+[00:34:43] örtüm stratejinde daha çok okuldujiğinde yapılan çalışma
+[00:34:46] etkinlerini kapsar. Şimdi gelelim detaylarımıza ilk olarak
+[00:34:51] ele alacağımız ilk strateji olan buluş yolunu örtüm
+[00:34:55] strateji serkadaşlar. Ceren o bunlar tarafına ortaya koymuş
+[00:34:59] olan bir stratejidir. Burunlar dedik ya az önce o zamanla
+[00:35:03] kadar ki görüşlerileştiriyor. Bir ökü öğrenci dersi pasif
+[00:35:07] alıncı olmamalıdır. Onu yerine süreci aklı bir şekilde
+[00:35:10] katılan ara eee sorgulayan bir yol açmak için kendi süreçlerin
+[00:35:16] ön planı da tutan bir öğrenci olması gerekiyor. Ama burada da şöyle bir problem var.
+[00:35:21] Derse giriyorum. Diriyorum ki öğrenciye. Siz yediyorum. Mesela ailek
+[00:35:25] felzelezi alacağım. Sizce ailek ne demektir? Diriyorum. Ses yok.
+[00:35:29] Öğrenciyle öğrenmemerek olmadığı sürece arkadaşlar. Buluş olduğu
+[00:35:33] örtmüştü de decisinin başarı ulaşması söz konusu değildir.
+[00:35:38] Çevre sonunları karşısına felzeke nasıl hareket etmedir? Diriyorum.
+[00:35:41] ses yok. Neden? Çünkü öğrencinin ilgisini çekmiyor. O zaman öğretmenin ne yapmaz lazım?
+[00:35:47] Öğrenciyi sürece dahil edebilmek için mutlaka öğrenci de merak duyguzunu canlı tutması lazım.
+[00:35:53] Yani öğrenciyi meraklandırmalı ve öğrencinin sürecinin üstüne kendisinin ulaşmasını sağlamalıdır arkadaşlar.
+[00:36:01] Tabii, meraklandıracağı ziyeti öğrenciyi tam bir belirsi de itmeninde anlamı yoktur.
+[00:36:07] Bunu nereye gör arkadaşlar? Bütün insanlar üç temel özellikle var olurlar.
+[00:36:13] Bunlardan birincisi bütün insanlar meraklı ve öğrenme harosuyla doğalır.
+[00:36:19] O yüzden öğrendi ne yapacak?
+[00:36:20] Öğrencilerim merakını karşılık verecek ve öğrenme harosunu tatmin edecek.
+[00:36:26] İkinci olarak birlikte olma gütüse saittir bütün insanlar.
+[00:36:30] Dolayısıyla öğretmen öğrencilerin iş bildi çalışmalarının destekle melidir.
+[00:36:35] Üçüncü olarak bütün öğrenciler başarma güdüsüne sahiptir.
+[00:36:39] Bu yüzden öğretmen öğrencenin başarabileceği edetler ortaya koymalıdır.
+[00:36:44] Yani öğrencilerinin çok üstünde ya da öğrencilerinin çok altında edipler koymak
+[00:36:49] buluş olma göre uygun değildir.
+[00:36:55] Genelçe acaba bu, öğrenciler de pasif alıcı olmayacak,
+[00:36:58] aktif olacak, kendi etkinlikleri edersin,
+[00:37:02] Ehe debini kendisi keşfedecek.
+[00:37:05] Aslında keşfetme yolunu, keşif yolunu öğrenme olarak da
+[00:37:08] infadet edebiliriz.
+[00:37:10] Öğretmenin tanımvermesi değil,
+[00:37:12] öğrencenin bilgiye ulaşması,
+[00:37:14] öğrencenin bilgiye kendisinin bulması, söz konusunda buluş yolunu,
+[00:37:18] öğretmeni statisinde.
+[00:37:20] Temel özelliklerine baktığımızda,
+[00:37:23] öğretmeni, eylemsel olanların senbirlik olanı yani en somut olandan,
+[00:37:28] Soyut olan doğru olmalı ki zaten somuttan soyut ikisini bunu söylemiştik arkadaşım.
+[00:37:33] Öğrenli sürekli öğrencinin aktif katılımı sağlanmalıdır sürekli öğrenci dair olmalıdır.
+[00:37:39] Bu alnayıca göre bilgilerin standart bir yapısı yoktur, bilgiler öğrenciye göre yapılandırılmalıdır yani öğrenciye görelik ilkisine göre uygun olmalıdır.
+[00:37:48] İçeriyin sırası öğrenmenin dolaşması ya da kolaylaşması da etkildi.
+[00:37:58] Bu yüzden arkadaşlar içerik sarmal düzenlenmedir.
+[00:38:01] Sarmal programına yaklaşın bu dediğimizde aklımıza daha önce kafeside gelen bir sordan hareketle
+[00:38:07] bunun her gelecek arkadaşlar.
+[00:38:09] Buluş oluluğu öğretim sarmaldır.
+[00:38:13] maldır. Yani döndüğü şeklidir. Tekrar tekrar konunun geçen
+[00:38:17] hafta sermal programlamadan bahsetmiştik ya. Tekrar tekrar
+[00:38:20] konunun eee ele alınmasıdır. Dönüklerle düzeltmeler
+[00:38:24] tekrarlarla konunun daha detaylandırılmasıdır. Arkadaşlar
+[00:38:28] örnek olan ve olmayan birlikte verilmelidır. Öğrenginin
+[00:38:32] bezel itişkisi korabilmek için benzer örnekler. Farklı
+[00:38:35] gençkisi korabilmesi için örnek olmayan durumları görmesi
+[00:38:39] gerekiyor. Siz güzel düşünme teşvik edilmendirir. Siz
+[00:38:43] ya düşününle arkadaşak iç görüsel düşünme olarak ifade ettiğimiz
+[00:38:50] öğrencinin yeni bir konuyla karşılaştığında
+[00:38:53] onu tanımlamak için çaba göstermesi hissettiği gibi aslında burada
+[00:38:58] hissetme olarak da ifade edebiliriz
+[00:39:05] hissettiğini ortaya koyabilmesidir
+[00:39:07] bunu şöyle düşünün arkadaşlar ben bir örnek durum ortaya koyduğumdan
+[00:39:11] bir örnek durumsunduğu zaman öğrencenin bilgi üretmesi
+[00:39:14] gerekir. Ama öğrenci eğer yaha da yapmaktan korkarsa
+[00:39:19] sesgilerini güvenemezse ya da düşüncelerini yanlış olduğunu
+[00:39:24] düşünürse bu durumda arkadaşlar bilgi üretmesi mümkün değildi.
+[00:39:27] Bu yüzden öğrenci yanlış da olsa içinden geçen doğru olduğunu
+[00:39:32] inandığı düşünceyi ortaya koyabileceğim bir ortam olmadık.
+[00:39:35] Bulayısıyla serbest bir öğrendi ortamın olması buluş yoluyla
+[00:39:40] örtüm stratejisinin amacın olacağımız için gerektir. Merak
+[00:39:44] müyogusu değil, tutulmalgunu az önce söyledik. Ancak
+[00:39:47] öğrenciler belirsizde itilmemeli, öğrencinin keşfediji
+[00:39:52] öğrenir, sağlanmalı bir de şu dönemler kaşar. Biz normalde
+[00:39:57] dersi planlarken önce arkadaşlar dersimizde giriş yaparız
+[00:40:01] eee yani dikkat çekme, hedeften haberdar etme vardır. Ama
+[00:40:06] buluş oluyo örtüm stratejisinde hedeften haberdar etmiyor
+[00:40:09] yoktur. Yani sürecin sonunda öğrencinin ulaşacağı hedebler, sürecin başında
+[00:40:14] söylenmez. Çünkü başta söylersek eğer öğrencinin düşüncelerini yönlendirmiş
+[00:40:20] oluruz. Burada öğrenci yönlendirmek değil, öğrencinin keşfedeceği bir ortam oluşturmak
+[00:40:25] esastır. Geçiyorum arkadaşlar.
+[00:40:30] Buluş yolu örtüm stratejisinde bu basamaklar tek tek ezberlemisek bile.
+[00:40:37] Evet, yani son buluşacağımızı baştan söylersek sizin de söylediğiniz gibi öğrencinin
+[00:40:46] merak duygusu azalacaktır o yüzden baştan söylemiyoruz.
+[00:40:50] Bu arada arkadaşlar şimdi de söyleyeyim için burada buluş yolu örtüm stratejisinin aşamaları var.
+[00:40:55] Bu aşamaları tek tek ezberlememize gerekiyor.
+[00:40:58] Ama genel şabunu görmek açısından bu aşamalardan bahsediyorum.
+[00:41:02] Yoksa oturuşu aşamadan sonra ne olacak sorusu, gelse...
+[00:41:06] Bir genel şabunu birsek yapabiliriz.
+[00:41:09] Bakın arkadaşım, dikkat edersiniz.
+[00:41:12] Hiçbir maddede öğretmenin açıklama yapması yok.
+[00:41:16] Birinci aşamada ne oluyor, öğretmen örneği sunuyor.
+[00:41:20] Değilim ki bir matematik öğretmeni.
+[00:41:23] Dik üçkenler komuzuyla ilgili bir gibi verecek.
+[00:41:25] Ne yapacak? Önce konuyla ilgili örneği sunduğu dik üçkenin ortaya koyduğu, dedi ki arkadaşlar, şu anda tahta da ne görüyorsunuz?
+[00:41:36] Üçken görüyorsunuz. Nasıl mülçken görüyorsunuz? İşte şu örlütken görürüz, böyle üçken görürüz.
+[00:41:42] İkinci aşamada ne oldu? Bakın, birinci aşamada öğretmeni örneği sunduğu, ikinci aşamada öğrenci bu örneği tanımladı.
+[00:41:49] Tanımı öğretmen vermedi bakın, öğrenci verdi.
+[00:41:53] Ne yaptın, dersen merhaba dedi, dersen bir giriş yaptın, konuyla ilgili düşünmeye başladı.
+[00:41:59] Daha sonra öğretmen, ek örnekler sunuyor.
+[00:42:03] Yani dik, üç tane şu şekilde sunmuşken, benzer olan başka örnekler sunuyor.
+[00:42:12] Ek örnekler sunuyor ve öğrenci de örnekleri tanımlayarak önceki örnekler ilişilenir.
+[00:42:17] Yani 3.4. yaşamada ne yaptı öğrenci benzerlik ilişkisi'nin kurduğum.
+[00:42:25] Aslında ikinci yaşamada ortaya koyduğu davranışı bir genelleme yapmış oldu.
+[00:42:35] Ben sonra 5. yaşamada öğretmen ek örnek veren ben benzer örnekli vermek gibi bir de örnek olmaya da sunuyor.
+[00:42:43] Yani dükkânın önünde verdik, dükkân yerine giriş açın, üçkânlar ya da daracılık, iki skanlar üçkân gibi farklı üçkân modelleri de sunuyor arkadaşlar.
+[00:42:55] Ve öğrenikleri karşılaşacak, örnek olmayanları belirler.
+[00:42:58] Yani burada da ne yaptın, farklı ilgisi kurdu.
+[00:43:06] Yani ayırdetme gerçekleştin.
+[00:43:09] yani arkadaşlar şunu yapıyoruz. Önce örnek durumsunuyoruz. Daha sonra benzerlerle
+[00:43:16] destekliyoruz. Daha sonra farklıklarla ayırdıcık yapıyoruz. Aslında şabon dediğimiz
+[00:43:20] bu. Yani öğrenciyi mesela örneğin sunuktan sonra direkt farklı örneklerle kaç
+[00:43:26] kaşığı getirirse belirisizde itibidiriz. Ama önce benzer örneklerle konuyu daha
+[00:43:31] sağlam anlamasını sağlıyoruz. Daha sonra farklık ilişkisi kurmasını sağlıyoruz. Daha sonra
+[00:43:35] öğrenci bütün bu süreçteki örnekleri ilişkendiriyor ve yorumluyor ve
+[00:43:41] sekizinci yaşamada öğrenci, ilki tanımama ve genellemeyle kendisi
+[00:43:45] ulaşıyor. Hemen burada o zaman ne diyoruz tanımlamaya
+[00:43:48] öğrenci kendisi ulaştığı için burada bir tüme varım vardır
+[00:43:52] arkadaşlar. Yani bilgi yaptır, o bilgiye açıklamıyorum.
+[00:43:57] Öğrenci'nin adın adım ilerleyerek bütün ulaşmasını
+[00:44:02] Sağ oluyorum. En sonunda da öğrenci yeni örnekleri verir.
+[00:44:07] Artık öğrenci konuyu kavramıştır. Bu arada kavramı düzenini uygundur bu.
+[00:44:13] Öğrenci konuyu kavramıştır ve kendi örneklerini de kendisi verebilir.
+[00:44:20] En sonunda. Süricimiz bu. Ekran görüntü sadece arkadaşlar. Asımlar.
+[00:44:32] Evet, olun da yolunu isteyenlerine bakacak olursak, burada da şunu söyleyeyim.
+[00:44:36] Yani, böyle, olun mu isteyenlerinin yolunu isteyenleri, eğer buluş yolunu öğretin
+[00:44:41] strateşin nasıl uygulayacağını, gözümüzde canlandırdıysak arkadaşlar, bu olun ve
+[00:44:45] yolunu isteyenlerinden oradan yorumlayabiliriz.
+[00:44:48] Mesela, öğrencinin merak duygusunu dili tutması, öğrencinin sürece aktif katılım
+[00:44:52] göstermesi, kalıcı öğrenmeleri sağlaması, öğrencinin karşılaştırıp problemleri çözme
+[00:44:59] becerisini gelişilmesi, öğrencinin kendi hızında öğrenici bir
+[00:45:03] isel öğrenme ihtiyacının gidermesi, kavramı düzeyi bunlar
+[00:45:07] nerede var? Olumlayanlar var ama sınırlılığı nedir?
+[00:45:11] Olguların ölçülmesine yani soyt kavranların ölçülmesinde
+[00:45:16] yeterli değildir. Çünkü örnek üzerinden gittiğimiz için soyt
+[00:45:20] kavranları biraz daha konuyu anlatıp ona açıklamamız gerekiyor.
+[00:45:25] ama buradan ne yapmak gerekiyor? Daha somut olan üzerine gitmemiz gerekiyor.
+[00:45:29] Zaman alıcıdır. Yani öğretmenin anlattığından. Meseş öyle düşünün.
+[00:45:34] Şuraya kadar eee neler gördük. Ilkeleri gördük. Düşünme becerilerini gördük.
+[00:45:40] Çin stratejileri görüyoruz arkadaşlar. Eğer bunları keşletmeye kalksaydık.
+[00:45:45] Daha ilkelerin başındaydık. Dolayısıyla sumur şu anda göre zaman alıcıdır.
+[00:45:50] Dolayısıyla maliyetledir. Kalabalık kurdalar da uygulanması,
+[00:45:53] zordur kalmak buradığı çünkü tüm üyeleri hitap etmemiz mümkün olmaya
+[00:45:58] bilir. Bütün konuları uyarlanamaya bilir. Bir de bir
+[00:46:01] eser burada farlılıklar yazmış, farklılıklar olacak. Bir
+[00:46:05] eser farkı kadar süreci olumsuz etkiliyebilir. Yani bazı
+[00:46:10] öğrencilerin süreci daha fazla katılmaları bazı öğrencilerinde
+[00:46:14] sürecin dışında kalmaları söz konusu olabilir arkadaşlar.
+[00:46:18] buluş yolu örtüm stratejisi budur arkadaşlar. Geldik ikinci
+[00:46:24] stratejimiz olarak sunuş yolu ile öğretim stratejimize.
+[00:46:27] Sunuş yolu ile öğretim stratejisi dediğimiz gibi buluş yolundan
+[00:46:33] son ortaya çıkmıştır. Hatta buluş yolu örtüm stratejine
+[00:46:37] atertlik olarak çıkmıştır. Asıl ver diyor ki ya biz
+[00:46:41] öğrencileri keşetme sürecine sokuyoruz. Ama buluş yolunda
+[00:46:45] Konuyu en iyi bilen öğretmendir.
+[00:46:47] Öğrencilerin bir gün düzünün hakim olan öğretmendir, süreci yapıladıracak olan öğretmendir.
+[00:46:52] Dolayısıyla öğrencileri bir keşetme sürecine sokmak yerine
+[00:46:56] öğrenmenin daha önceden hazırladığı, düzellediğin, bastan karmaşa, bilinden de bilinmeyene, eski konma yeni konuyu olacak şekilde
+[00:47:07] Daha önceden biçimlendirdiği organizetliği planladığı içeriyi
+[00:47:12] öğreniye sunması verimliği daha da arttırır diyor.
+[00:47:15] Doğsa sunuş olur, öğretmenin aktif olduğu içeriyi öğretmenin tamamıyla hazırladığı
+[00:47:22] öğrenme sorumluğundan öğretmenin üzerindeyi bir yapı vardır.
+[00:47:27] Yani öğretmen dersi öğrenci için alınmaya, öğrenci için işlenmeyi hazır hale getirecek
+[00:47:34] ve dersin buna göre iş gidecek.
+[00:47:36] Dolayısıyla biraz sonra deyeneceğiz tabii ama sunuş olur örtüsü
+[00:47:41] tatlisine tümden ve gelim kullanılır. Yani buluşta tümye
+[00:47:46] varım varken burada tümden gelim kullanılır. Önce konunun
+[00:47:49] bütün de öğretmen gösterir. Daha sonra adım adım
+[00:47:52] adım detayı işte. Mesela bizim burada konuluş derken
+[00:47:55] önce bakın ne yaptık. Sunuş stajaya geç alınca konunun
+[00:47:59] bütünli gördük. Ya da biraz sonra modelleri geçeceğiz.
+[00:48:03] Modelleri geçtiğimizde de işte bütün modelleri böyle top
+[00:48:06] olarak görür. Ondan sonra yavaş yaşıyoruz. İşte bu sunuş yoluna
+[00:48:10] uygundur. Öğretmen hazırlamış olduğu testlerle, tabbolarla,
+[00:48:13] grafiklerle öğrenci için dersi daha kolay alıştır hale getiriyor
+[00:48:17] ve dersi bu şekilde anlatıyor. Dolayısıyla temel bilgisi
+[00:48:24] alıcı olan öğretmendir. Ha şunu da söyleyeyim bakın sunuş olur
+[00:48:28] öğretmeni size deyince ezbere karşıladır. Eee bu aynı zamansın
+[00:48:33] alınırlığıdır, ezbere karşı olmakla bir de öğrengi ezbere yönlendirebilir.
+[00:48:37] Olur da karşımızda anlamlı öğrenmediği bir kavramı çıkarsa anlandı öğrenme,
+[00:48:45] eşittir sunuş yoluyla örtüm stratejistir arkadaşlar.
+[00:48:48] Çünkü bilginin anlamlandırılması demek, eğitimininleri bağlandı, bilgin anlamlandırılması demek,
+[00:48:54] eski bilgilerle, yeni bilgiler arasında bağ kurulması demektir.
+[00:48:59] Sunuş yolu ötüm statisinde de öğretmen eski bilgilerden erkek de yeni bilgiden inşa edeceği için, eskiden yeniyi doğru konuluş diyeceği için arkadaşlar
+[00:49:08] anlandı öğrenmeyi sağlayacaktır dolayısıyla sunuş yolu ötüm statisi karşımıza anlandı öğrenme olarak da gelebilir.
+[00:49:16] Tuhanım ilkere genelleri ver dersin başında verilir yani tümden gelin bulumur.
+[00:49:21] Önce anlatırız sonra örneklerle zenginleştiriz bu arada buluş yolunda da sunuş yolunda da ikisinde de
+[00:49:27] Örnekler önemli bir yer tutar arkadaşlar.
+[00:49:31] Yeni öğrenenin öncük öğrenenlerin inişten dilmesi söz konusu du.
+[00:49:35] Zaten bu inişten dilmenin nedir anlamlandırmadır?
+[00:49:42] Bu yüzden dersler aşamalı bir şekilde inişten edin.
+[00:49:45] Hangi aşama bastan kalmışlar, bindenle bilmeyene kolaydan zor olacak şekilde.
+[00:49:50] Aslında burada dolayısıyla daha az önceki de sarmaldedik ya buluşurla.
+[00:49:55] burada daha çok doğrusal programımı uygun olduğunu söyleyebiliriz.
+[00:50:00] Konver kendi için anlamlı bir bütün olmalı,
+[00:50:03] örnekler önemli bir yer tutar dedik zaten örneklerle zenginleştirmelim.
+[00:50:07] Bir resler şiştindirken sadece düz anlatamıyorum yöndemi değil,
+[00:50:11] öğrenciydim mümkün olunca süreci dayı dediğimiz,
+[00:50:14] öğrenciin de dikkatini çekebileceğimiz,
+[00:50:16] soru cevap tartışma gibi yöndemler de yer vermemiz, gerekiyor.
+[00:50:19] Bir de öğretmenin dersi tek bir sestonda değil,
+[00:50:23] geri gelmeyi yükselteli, geri gelme sesini düşürmek anlatması gerekiyor arkadaşlar.
+[00:50:28] Çünkü öğrencinin ikisinin kolaylık da düşebileceği,
+[00:50:32] öğrencinin uykusunun gelebileceği, öğrencinin, sürecin dışında kaldıkça,
+[00:50:36] derslerinde kopabileceği bir olasın, söz konusu oluyor arkadaşlar.
+[00:50:46] Siliyorum arkadaşlar.
+[00:50:47] Haşamalarına baktığımızda zaten az önce çarçevi gördük.
+[00:50:55] Burada ne var? Ön orgaz ediciler kullanılarak öğrenci öğrenmeye hazır hale getirdir.
+[00:51:01] Ön orgaz edici dediğimiz şey, o dersinin bütünlüğü gösteren şakolunlardır.
+[00:51:05] Mesela bazen önce söylediğimiz şurada modellerle ilgili olarak mesela bu ön orgaz edici de dersin bütünlüğü gösterir.
+[00:51:14] stratejilerle ilgili olarak, işte bu dersin bütün gösteren bu çizede kavramırdası ön
+[00:51:19] organiziye edicidir. Bununla bunu görerek öğrenci öğrenmeyi hazır hale geliyor veya konu
+[00:51:26] ile genel bir konunun bütünlüğü görüyor. Daha sonra konunun ya da materiasi sunuluyor.
+[00:51:32] Yani öğrenci konunun bütünlüğü gösterdik özet olarak. Daha sonra konuyu sunuyoruz.
+[00:51:37] Birisiyle örgütlenme güçlendiriliyor. Yani burada soracağım, bekinliği olabilir, öğrenciyi süreye
+[00:51:43] dahil edeceğimiz farklı etkinlikler olabilir, yeni örnekler olabilir, hem bizden hem de
+[00:51:48] öğrenciden gelecek örnekler olabilir arkadaşlar. Burada birisiyle örgütlenir, güçlendiriliyor.
+[00:51:53] En sonunda da bilgi özetlenerek kalıca hale geliyor. Mesela az önce düşünme becerinden bahsederken
+[00:51:59] ne artık düşünme becerini yaztık. Tek tek alnattık. Daha sonra ne dedim uzunla fınksızı.
+[00:52:05] Şu düşünme budur, bu düşündüğünün şu dur diye tek tek özel durumumuz arkadaşlar, sunuş yolunu kullandığımızı gösteriyor.
+[00:52:16] Son olarak sunuş yolunu, olumlu ve olumsuz yandığını.
+[00:52:21] Az önce de belirttiğimiz gibi arkadaşlar, sunuş yolunu öğrenme,
+[00:52:24] anlandı öğrenme olarak da ifade edilir. Bu yüzden anlandı öğrenmeyi sağlaması, kalabalık
+[00:52:34] buraklarda uygulanması, çünkü arkadaşlar kısa sürede kalabalık bir kurban çok sevdiği
+[00:52:41] aktarabiliriz dersin planlayıcısı, dersin düzenleyicisi, dersi oranlardan kişi öğretmen
+[00:52:46] olduğu için, her şey öğretmenin kontorunda olduğu için, kontrolü bir süreç olduğu için
+[00:52:50] destişine sapma farklı alanları yönelme söz konusu değildir.
+[00:52:57] Bu yüzden kısa sürede çok sevdiği bilgiye aktarmanın söz konusu
+[00:53:01] oluyor. En ekonomik stratejidir. Temel bilgilerini
+[00:53:05] öğretilmesin, etkilidir diyoruz. Ha bir daha az önce
+[00:53:07] suyut kavramlar için bunun uygun değildir dedik. Suyut
+[00:53:11] kavramlar için sunuş yolu daha uygundur arkadaşlar. Ama
+[00:53:14] öğrencilerin tam olarak aktif olmaması, kalıcı da sağlamanın
+[00:53:18] Zor olması, ezberi yolaçması gibi özellikler arkadaşlar. Bu arada iki tane kalıtsın ki almışız.
+[00:53:24] Ezberi yolaçmak gibi özellikler sınırlığıdır. Ama en önemli sınırlığından bir tanesi de üst diye davranışını kazandırılmasını. Yani anlayıysa sen tez değerlendin mi gibi üst diye davranışını kazandırılmasında yeterli değildir.
+[00:53:41] Sunuş yolumuzda bu. Sunuş yoluyla ilgili bir sorumuz var. Bu soruyu bir bakalım.
+[00:54:18] İkrem de kaldığımız bir soru olmuş gördüğüm kadarıyla, biraz daha dikkat edelim.
+[00:54:29] Bir bakalım. Doktorasına matematik eğitim alanı da tamamlanmış olan bir okul müdürüm.
+[00:54:42] Okulunluk öğrendim ilk yenerinde matematik dersinde başı solduklarını öğrendikten sonra
+[00:54:47] Öğretmenleri etkili matematik ölçüme atlı bir çalıştığa bir dönemiye depplemiştir.
+[00:54:51] Bu çalıştığı ilişkin sunuş olurla öğretim stratejisini basamaklarını uygularak bir plan oluşuyor.
+[00:54:57] Sunuş olur.
+[00:54:59] Şimdi mantık yurtun sunuş olur kullanılacak.
+[00:55:04] Ben size önerede bulmuyorum sunuş olur kullanılacaksınız.
+[00:55:08] Sunuşun başında konuşma içeriyle ilgili bir çerçe över.
+[00:55:11] Evet baştan bütünü gösterdik. Bu var.
+[00:55:14] Gırfik ve tabolarını destekle. Bu tavsiye dedi. Bu olmalı örnekler ver.
+[00:55:20] Tarsizle bunu. Yoğun etkileşim sağlam. Şimdi birçok arkadaş değilse şeniydi
+[00:55:25] miş ama yani etkileşimi sağlamal mı diyeceğiz? Sumurş yolu dolusu, buluşu
+[00:55:30] dolusu mümkün olunca öğrenci sürece dairetmemiz gerekiyor.
+[00:55:34] Öğrenci sürece ne kadar dair bulursak, verimlik o kadar artar. Biz ne dedik?
+[00:55:38] Öğrenci dışarıda tutarsa diye tek düzelt sıkıcı ve uyku getirici bir sürek
+[00:55:43] olabilir dedik. Dolayısıyla etkileşimi hangi stratejiyada modeli uygularsak uygulayısıyla
+[00:55:50] özel örnekler verdik, katılıncılığının genellimi ulaşmasını sağladın.
+[00:55:54] Yani sen örnekleri ver genellemeye katılıncı ulaştın diyor. Bu tamamlamıyla tüme
+[00:56:00] korundur ve bu tamamıyla buluşuludur. Bu lezıyla etkileşimi hangi stratejiyada modeli uygularsak
+[00:56:13] uygulayalım. Sağlamayı öneririz.
+[00:56:16] Ve sunuş onu da buluş onu da öğrencinin sürece
+[00:56:18] aktip katılımı gereklidir.
+[00:56:21] Ama buluş onu da katılmı daha fazladır.
+[00:56:24] sunuş onu da katılımı sağlamak, zordur.
+[00:56:26] Yani bu anlamda düşünebiliriz arkadaşlar.
+[00:56:29] Ama yine de etkileşimi sağla önerisi her zaman verilir.
+[00:56:33] Bu yüzden doğru cevabımız e seçeneği olur.
+[00:56:37] Siliyorum.
+[00:56:39] Araferinize zamanımız geldi ama arkadaşlar
+[00:56:42] konu bütün de olması açtan bir beş dakikada şu araştırın incelemeyi de bitirelim.
+[00:56:47] En azından hani konumuz yarım kalmasın araya ondan sonra çıkalım.
+[00:56:53] Gerekirse on dakika değil, on beş dakikarı veririz ama konu bütünlüğünü sağlamış oluruz arkadaşlar.
+[00:57:01] Şimdi bir diğer stratejimiz, üçüncü ve son stratejimiz.
+[00:57:04] Arkadaşlar araştırma inceleme yolu örtüm stratejisi.
+[00:57:08] John de Ved tarafından ortaya koyulmuştur ki John de Ved'i ilerlemecirliğin babasıdır.
+[00:57:13] Aynı zamanda Pratmetis Fersife'nin de önde gelen düşündürlerinden bir tanesidır.
+[00:57:18] Pratmetis'in Bey'i ilerlemecik'le diyordu, kullanılmayan bilgi anlamsızdır diyorlar arkadaşlarına.
+[00:57:23] Bir bilgi edinmek değil o bilgiyi kullanmak esastır diyor.
+[00:57:27] Aynı şekilde araşme girin bir yolu veritim sensinde bunu söylüyor diyor ki,
+[00:57:30] öğrenciyi kullanabileceği bilgileri odaklanma olur.
+[00:57:34] bunlar nasıl sağlayacağız arkadaşlar? Güncel problemler üzerinde duracağız. Yani
+[00:57:39] John D.B'ye göre eğitim, çevre kuşlarından ve problemlerinden yani
+[00:57:44] güncel problemlerden uzak yapay bir ortama dönüştürünmesi çok saçma olacaktır.
+[00:57:50] Yani öğrenciye günlük atıyı içine yaramayacağım. Kendisinin ya da insanların gelişmine katkı
+[00:57:57] savunmayacak. Herhangi bir ezberletmeye çalışmanın bir anlamı yoktur. Okulun görevi
+[00:58:03] yaşamı zenginleştirmek. Yani günlük yaşamdaki
+[00:58:07] eee problemlerimizi çözebilmek. Öğrenleriyle yaşaması da
+[00:58:12] bal kurulabilen yani ders de öğrendiklerini hayatımda
+[00:58:15] kullanabileceği ve öğrencileri gerçek problemlerle karşı
+[00:58:19] karşıya giden bir ortam sunmalıdır. Yani arkadaşım
+[00:58:23] öğrenciye işte gidip de eee tek yaşamayacağı bir durum
+[00:58:32] üzerinden problem çözümek Amerika'nın sonuna çalışmak Türkiye'deki
+[00:58:37] bir öğrenci için saçma olacaktır. Biz önceki olarak çevremizlik
+[00:58:42] yakın çevremizlik karşılaşan sonra daha sonra geniş çevremizlik
+[00:58:45] karşılaşanımız problemlere odaklanmalıyız diyor. Dolayısıyla
+[00:58:49] öğrencilere çevirlerinde problem olarak görüklere sonlarının
+[00:58:53] çözümü için araştırmayı önderiyor arkadaşlar. Yani ne gibi
+[00:58:59] problemiz var. Eee Trenfik sorunumuz var. Trenfik sorunuyla
+[00:59:02] ilgili projeler geliştirelim. Işte eee sevisine
+[00:59:06] Keril problemimiz var. Kerilik de ilgili projeler geliştir.
+[00:59:09] Şiddet problemimiz var. Kadına şiddet, çocuğa şiddet,
+[00:59:12] ayvanları şiddet gibi ya da sokakta bir eee insanların
+[00:59:17] birbin uyguladı. Kadın erkek birbin uyguladığı şiddetliği
+[00:59:19] problemiz var. Bunlara çözüm önerileri getirin. Yani
+[00:59:22] günlük hayatta karşılaştığımız problemlere çözüm önerileri
+[00:59:26] projelerle ya da bir tekim araştırma yukarı ile ve bunlara çözüm
+[00:59:31] öylele getireyim diyen bir yaklaşım söz konustur. Burada
+[00:59:34] temel amaç öğrencileri araştırma yönetmektir. Bilimsel
+[00:59:38] çalışmanında temelini oluşuyor arkadaşlar. Tümel varım. Tümden
+[00:59:41] gelin, anoloji aklımızda gelen de gelmeyen bütün eee
+[00:59:47] ziyinsel süreçler etkin bir şekilde kullanılır. Buna
+[00:59:50] bağlılır da yaratıcılayız, eleşter düşünme becerinde gelişmesine
+[00:59:53] katkı sağlar arkadaşlar. Problem çözümü ve projü ötemleriyle
+[00:59:58] bildik kullanılır. Yani ilerleyen kısımları zaten bunlardan da
+[01:00:02] bahsedeceğiz ama zaten problem çözümü öntemiyle araşımı
+[01:00:05] yirmi yolu ötüm satısı bile bir aynıdır. Öğrencenin artık
+[01:00:09] olduğu bir yöndendir. Öğretmen yol gösterecektir. Şöyle
+[01:00:13] düşünün arkadaşlar. Eee sınıfımda yirmi kişi var. Yirmi tane
+[01:00:18] farklı düşünce yirmi tane farklı bakışçısı var. Öğretmen şu
+[01:00:22] doğrudur demeyecek burada. Öğretmen doğruyu
+[01:00:24] ulaşma konusunda, öğrencinin kendi doğrudan oluşuma
+[01:00:27] konusunda öğrenciye referlik etmedi. Öğretmen yolları
+[01:00:31] gösterir. Öğrenci o yolda kendi doğrularını kendisi
+[01:00:35] bulur arkadaşlar. Benim sen dışınyağının temelini oluşturuyor.
+[01:00:39] Lisan sütü ve Lisan seyitiminde çok etki meşeride
+[01:00:41] kullanarak, ilk bulurtoklu bir lisede de paraştırma
+[01:00:44] ödevleriyle uygulanması mümkündür. Haşemalarına
+[01:00:50] baktığımızda bakın arkadaşlar. Söylediğim gibi bu bilimsel bir araştırma gibi düşünebiliriz.
+[01:00:57] Mesela COVID-19. Biz mi problemimizde, COVID-19 diye bir problem vardı. Biz de bu problemi
+[01:01:13] içerimimiz gerekiyordu. Önce ne yaptık? Bunu bir problem olarak kisetmemiz ve bu problemi
+[01:01:20] tanımmamamız gerekiyor. Bu tanımlama aşaması aslında arkadaşlar. Yani
+[01:01:24] bunları ayırmayı bile gerekiyor. Bir problem durmusuz. Bek ve onu
+[01:01:28] anlamlandırmamız, onu sınırlandırmamız gerekiyor. Bir problem
+[01:01:32] uzar. Kovid 19'lar bir mikrop var. Bu mikroptan kurtulmamız gerekiyor.
+[01:01:35] Ya da ne bileyim? Trafik sorma uzar. Al önce söylediğimiz. Ya da
+[01:01:38] ne bileyim? Şiddet sorma uzar. Önce problemi hissedeceğiz. Önce
+[01:01:41] onu problem olduğunu çözülmesi gereken bir problem olduğunu
+[01:01:44] bileceğiz. Daha sonra problem durumu ile ilgili bilgi
+[01:01:48] toplama, COVID-19 kimlerde ortaya çıkıyor, kimler için risk
+[01:01:52] kurbuluştur. Kimler boğasılığı kolay atlatıyorlar, kimler
+[01:01:56] zor atlatıyorlar. Bu konuyla ilgili araştırmalar yapılmış mı?
+[01:02:00] Yapılan araşmalar neler gibi ya da aynı şey şiddet içinde
+[01:02:03] geçerli. Şiddet kimler daha fazla şiddet uyguluyorlar. Şiddet
+[01:02:07] mağdurları kimlerdir? Şiddete çözüm bulan yerler var mı? Ne
+[01:02:10] şekilde çözümler bulmuş? Bu bakılıyor. Yani konuyla ilgili
+[01:02:13] bilgi topluyor. Daha sonra bu bilgilerden hareketle
+[01:02:17] çözümle ilgili. Kipotöz ürcüyoruz. Yani buna denence de
+[01:02:20] diyebiliyoruz arkadaşlar. Çözüm önerileri giriştiyoruz.
+[01:02:25] Koytu onun kızı. Yırısıtmayı ile cikolarmalıyız. Aşağı
+[01:02:28] olmamıyız. Yadan evin maske takımımız gibi, problemi
+[01:02:31] çözüm ile ilgili ipotözler oluşturuyoruz. Daha sonra
+[01:02:35] ipotözümüzde ilgili veri topluyoruz. Yani direkt ipotözümüzü
+[01:02:40] uygulamaya koymuyoruz. Önce yani farklı bir çalışmalar,
+[01:02:44] Fatih'i çalışmalar, Fatih'i çalışmalar diyoruz ya, hipotenizimiz ne kadar ayaklar yerine basan bir hipoteniz, ne kadar insanların bir çözüm önerisi geliştirdik.
+[01:02:54] Buna bakıyoruz arkadaşlar. Daha sonra, hipotenizi deniyoruz, çözüm yollarını deniyoruz ve en sonunda da çözme ulaşıyoruz.
+[01:03:01] Eğer hipoteniz biz çözümü ulaştırmıyorsa tekrar yeni hipotenizlerle dönünce aşamamıza geri dönmüş oluyoruz arkadaşlar.
+[01:03:09] Tekrar söylüyorum, buluş ve sonuç oluyla öğretim stratejileri daha çok sınırttaki uygulamalara.
+[01:03:16] Araşlım incelimi oluyla öğretim stratejisi de daha çok bilinsel çalışmalar yönelik stratejilerdir.
+[01:03:23] Ve araşlım incelimi de daha çok kişilerin günlük yaşamda karşılaşıkları problemlerin çözümü amaçlanır.
+[01:03:30] geçiyorum. Olum ve onun sayanlarından da bahsedelim. Araşlı
+[01:03:35] meclermi oluyorsun. Olum eee öğretmiş stratejisi bir
+[01:03:39] kere öğrenciler araşı mesleketmesi, problem çözbe
+[01:03:42] becerilerini eee gidermesi bilimsel düşünceli teminli
+[01:03:46] oluşuması artısıdır. Bunun dışından üste öğrenme becerilerini
+[01:03:51] geliştir. Yani analiz sen tezderlenme gibi üste becerilerini
+[01:03:54] geliştirir. Kalıcı öğrenmeli sağlar çünkü öğrencisi önce
+[01:03:57] aktif katıldığı için araşına inceleğine sorgulayan kişi
+[01:04:01] öğrenciler kalıcı öğrenmeleri sağlar. Gerçek geçen
+[01:04:05] problemleriyle kaşkaşı gelmemiz sağlar. Yani gündür
+[01:04:08] kayıtta karşılaştığımız problemleri çözmemize hizmet eder.
+[01:04:12] Ancak zaman alıcı ve maaliyetledir. Yani öğrenci araştırır
+[01:04:17] sorgular için kötü sorgulamanın sonucunda eee problemi
+[01:04:22] çözemeyebilirdi. Her zaman sonuculaşmak mümkün olmayabilir.
+[01:04:26] her düzeye uygun değildir. Her konuyu uyarlanmaya bilir.
+[01:04:29] Temel bilgilerin öğretilmesi de mesela sunuş yolu,
+[01:04:32] keşfetmeye dayalı bilgilerde buluş yolu daha çok analist
+[01:04:36] sen tez değerlendirme gibi üsteye becerilerin kazanmırın
+[01:04:39] basında da araşlimincileri yolu ölçüm istatısı uygun olacaktır.
+[01:04:42] Öğrencilerin yetersiz ön bilgilerin olduğu durumlarda da
+[01:04:46] araşlimincileri yolu ölçüm istatısı çoktu uygun olmayı
+[01:04:50] geliyor. Gelelim. Çıkmış bir sorumuz var. Bu soruyu bütün
+[01:04:57] stratejiler bağlamında düşünelim. Ondan sonra da bir ara verin.
+[01:05:50] gezgözden yapacaklar. Yani çevre problemi, güncel bir problem, güncel bir konu
+[01:05:56] seçiyorlar. Okun müdürü planı geliyor. Plan tanımlanan bir problem. Bakın
+[01:06:01] aşamalara bakıyoruz. Problemi tanımlamış. Denenceler yani çözüm önderilir.
+[01:06:06] Veri toplama, eee çözüm ödelsin, test edilmesi ve sonucu ulaşma gibi
+[01:06:12] açıklamalar içeriyor. Dolayız adımlara baktığımız zaman aslı bunun araşımı
+[01:06:16] 20 yolur, örtüm statisinde uygun olduğunu görüyoruz.
+[01:06:19] Dördü doğrayalımız, e seçeniyi oluyor.
+[01:06:30] Burada bir ara verelim.
+[01:06:31] Sademize bakıyorum, 8 geçiyor.
+[01:06:34] 20 geçe kaldığımız yerden devam edelim arkadaşlar.
+[01:06:39] 10 dakika 12 dakika ara verelim.
+[01:06:41] Evet arkadaşlar geldik. Dördüncü alt başımız. İyik eder. Düşünme beciler, statiler tamamlandı.
+[01:06:52] Dördüncü alt başımız öğretim modelleri. Öğretim modelleri ilgili genel anlamda göreceğimiz on tane modelimiz.
+[01:07:01] Bunlar arkadaşlar. Şimdi bu sayı falan tek tek. Değil mi? Zaten arada da bunların açıktı.
+[01:07:07] Ama neleri göreceğiz? Tam öğrenme modelini göreceğiz.
+[01:07:11] Öğretmen teknikleri modeli galiba çok duzaki akkururumu,
+[01:07:15] ki ölçeyiminin sormi sevdiği alanlar aslında,
+[01:07:18] yıflandırmacılık, işbirlikte öğrenme,
+[01:07:21] basamaklığı öğretim,
+[01:07:24] aktif öğrenme, yaşam öğrenme,
+[01:07:26] beyin temelli öğrenme ve kontrol öğrenme olmak üzere,
+[01:07:29] 10 tane alt başlığımız olacak arkadaşlar.
+[01:07:32] Şimdi yavaş yavaş, önce tam öğrenme moderni.
+[01:07:34] Burada şunu da söyleyebilirim.
+[01:07:37] Tam öğrendim modeli bütün bu modellerizde biraz daha geleneksel kalıyor.
+[01:07:42] Öğretim etkinleri modildi sanki bu gelenekselden çağdaş biraz daha öğretmen merkezden,
+[01:07:48] öğrenci merkeziyi bir geçiş gibi düşünebilir arkadaşlar.
+[01:07:52] İsterseniz hani özretti zaten arada da gördünüz.
+[01:07:56] Şimdi ben yavaş yavaş konuya gireyim.
+[01:07:59] İlk olarak tam öğrendim modelinden bahsedeceğiz.
+[01:08:01] Tam öğrendim modeli de temsilcimiz.
+[01:08:03] Bülüm geçen hafta bu hedeflerin aşamasını bandırmasını da yani bir islet duysal ve denizler edeklerin aşamalısını bandırmasına gördüğümüz bülüm tam öğrenme modernin özündeşı olarak arkadaşlar uygun öğrenmek koşullarını ve uygun bir ortam sağlandığında herkes her şeyi öğrenebilir düşüncesi var.
+[01:08:22] Yani arkadaşlar bu yaklaşımda öğrenemeyen öğretmen yoktur, öğrenemeyen öğrenciyi yoktur, öğretemeyen öğretmen vardı.
+[01:08:32] Aynı konu ben 5 günde öğrenirim, sen 3 günde öğrenirsin, başka bir sonra 10 günde öğrenirim.
+[01:08:39] Herkes her şeyi öğrenebilir, sadece öğrenebilmesi için uygun koşulların sağlanması gerekir diyor.
+[01:08:46] Bülüm arkadaşlar.
+[01:08:47] Dolayısıyla burada ilk fırsatlar sunulmasın.
+[01:08:51] Yani öğrencilere atıyorum, 3 haftalık problemun dışında bazı öğrencilere,
+[01:08:57] ilk fırsatları bazı öğrencileri daha yoğunlaştırmış
+[01:09:00] bu konu var kullanılması söz konusu olabilir.
+[01:09:03] Bülome göre, bakın bu kısımda önemli biriyse parklarının
+[01:09:07] sebebi doğuştan getirebilen özel verdiği sonradan
+[01:09:12] meydanı gene öğrenmelerdir. Şimdi arkadaşlar bakın burada
+[01:09:15] arımızda Türkçe öğretmeni vardır, tarih öğretmeni vardır, felsepe
+[01:09:19] öğretmeni, matematik, fizik, kimiya, bir örej gibi farklı
+[01:09:22] Kuranşlardan ölmeler karşımız var. Şu anda bizi birbirimizden ayıran şey, birisinin sayısı alın, birinin sözleri yatkınlığı değil.
+[01:09:30] Bizi birbirimizden ayıran şey, bizim geçmişteki öğrenmelerimizdir.
+[01:09:35] Ben de bir matematikçi gibi eğitim alsaydım, blomagöre, ben de bir matematikçi oldurdum.
+[01:09:40] Siz de eğitim bilimleriyle ilgili eğitim almış olsaydınız ya da benim geçmiş yaşatımı sizden en ay gibi bir yaşamış olsaydın.
+[01:09:47] Şu an burada dersi o anlatır oluruz. Dolayısıyla doğuştan yetenek bekletti gibi özellikleri göz var dedik.
+[01:09:54] Bunun yerini daha çok sonu da geçileşen öğrenmediği ortaya koyan bir düşünürlerdi arkadaşlar.
+[01:10:01] Vettam öğrenme moderninde öğrenme etkiden koşullar, kontrol altına alınarak,
+[01:10:06] sürece katan tüm öğrencilerin bütün konuları öğrenmesi amaçlı diyorlar arkadaşlar buradan.
+[01:10:16] Ne var? Değiştirebilir mi nitetiklerin?
+[01:10:18] Burada bakın, okulun görevi, değiştirebilir mi nitetikleri kontrol altına alır ha.
+[01:10:23] Ne var değiştirebilir mi nitetik de?
+[01:10:24] Zaman var.
+[01:10:26] Öğrencilerin dersi başarılı bir cene daha inancı var.
+[01:10:29] Ön bilgiler var.
+[01:10:31] Bunlar arkadaşlar ya da plan program etkinlikleri var.
+[01:10:35] Ama bunları kontrol altına alarak eşirece katılan tüm öğrendilerin öğrenmesin salır.
+[01:10:40] Bunu kaçtık arkadaşları, zekyan.
+[01:10:43] O bunaşma düzeyi iyi.
+[01:10:44] Ne bileyim, geneliyetine gibi özellikler, ayrı'nın sosyal ekonomik düzey gibi özellikler, okulum müdahale diye değiştirebileceklerden değildir.
+[01:10:52] Yani arkadaşlar, okul ancak plan program etkinliklerini, ön öğrenmeleri, zamanı, eköritim fırsatlarını ya da öğrencinin motivasyonunu arttırarak öğrenmeyi sağlayabilir diyor.
+[01:11:06] Ancak arkadaşlar burada öğretmen tün sorumluluğu öğretmenidir.
+[01:11:10] Öğrenci uygum koşlarca alandığımda öğrenileceği düşüncesi vardır.
+[01:11:16] Herkes her şeyi öğrenelim de düşüncesi var.
+[01:11:18] Bir de arkadaşlar burda doğrusal problemu mu yaklaşım var yani
+[01:11:24] Tam öğreniş bu dönünde bir ünete işten deyiz zaman
+[01:11:28] Derhünteyi geçebilmek için, yani ahüntesinden, beyi müthesinde geçebilmek için, ahüntesini tamamen tamamlamış olmak gerekir, eksiksiz bir şekilde tamamlamış olmak gerekir.
+[01:11:39] Ayı tamamladıktan sonra B'ye geçiririz. Çünkü ayı tamamlamadan B'ye geçersek eksik kalır.
+[01:11:46] B'yi tamamladıktan sonra C'ye geçiririz. Bu yönüyle baktığımızda doğrusal bir programın olduğunu söyleyebiliriz.
+[01:11:53] Tabi bir okulda öğretim etkinlidir. Dolayısıyla her öğrenci birbirini bekler.
+[01:12:03] Yansınlıkta diyelim ki otuz öğrenciimiz var. Konuyu yirmi öğrenci anladın. O yirmi
+[01:12:08] öğrenci geri kalan on öğrenciyi konuyu anlaması için bekler arkadaşlar. Öllerine ve özel
+[01:12:16] ne bakacak? Olursak. Öğren genitektir. Bakın öğretim
+[01:12:21] sürecinde şu vardır. Öğren geniteklerin ve öğretimiz
+[01:12:27] metretlerini istenilen seviyeye de olursa, istenilen
+[01:12:30] öğrendiğini ulaşabiliyor. Peki nedir? Öğren geniteli
+[01:12:33] öğrendiğini sahip olduğu becerilerdir. Birincisi, birissel
+[01:12:37] giriş davranışları yani öğrendiğini ders edişkin. Öğren
+[01:12:41] öğrenmelerdir. Ön bilgilerdir. Yine arkadaşlar aslında bu
+[01:12:50] gülisel giriş tartışların şeydeki maalim modelleki temel
+[01:12:54] kabullar. Olarak düşünlebilir. Öğrencin Ön bilgilerin
+[01:13:02] öğrencinin bildiğin düşündüğümüz kavramlardır. Ön bilgiler
+[01:13:07] arkadaşlar, öğrenin üzerinde yüzde ellik bir etkiye sattır.
+[01:13:13] Yeterli ön bilgiye sahipsi, o konunun yırısını tamamlamış demektir
+[01:13:18] arkadaşlar. İkinci olarak da döysel giriş davranıştır ya
+[01:13:22] öğrenin teklenen ikinci se, bu da nedir? Öğrenci'nin dersi başaramayı
+[01:13:27] Dersi başarabileceğini alınca.
+[01:13:35] Diğer bilipade ile akademik özgüven.
+[01:13:43] Ben bunu yapırım demekle.
+[01:13:45] Ben bunu yapamam demek arasında arkadaşlar.
+[01:13:48] Blomu göre yüzde yirmi beşik fark var.
+[01:13:51] Yani bazı kişileri ya dersi başlamadan matematik dersi.
+[01:13:55] dersi. Ya ben matematiyi yapamıyorum. Neyi göre yapamıyorsun?
+[01:13:59] İşte eee işlediyosuz ki blom. Matematiyi yapamıyorum dersen zaten
+[01:14:03] başarılı yüzde yirmi beş azalacaktır. O yüzden dersi başarılabileceğine
+[01:14:08] daha inancı öğrencilerim. Motu ve ederek sağlamamız gerekiyordu.
+[01:14:11] Yani öğrenci dersler başlarken bir ön bilgileri sahip olacak.
+[01:14:16] Iki duysa olarak da hazır olacak. Dersi öğrenmiş için hazır olacak.
+[01:14:20] Öğrettiniz mi? Denizlerine bakacak olursak bu da okulun sunduğun
+[01:14:25] canlardır. Ne derdir bunlar? Tekiştirme, ip ucu,
+[01:14:29] dönük düzeltme ve etkin katılın. İyi kartlarını bir araya getirdiğimizde bir de
+[01:14:34] tekiştirmen öğrencinin ortaya koyduğu doğru davranısını yapmasıklarının
+[01:14:42] arttırılması işidir. Yani öğrenciyi bir aferinlemek, bir yüksek not vermek,
+[01:14:48] Öğrenciyi bir şey hediye etmek, pek istirmedir arkadaşlar, bunlar öğrenciyi öğrenme konusunda motive edecektir.
+[01:14:56] İpucu, öğrencilin dersi anlaması için gerekli olan tertür bir yıkırınsın, her tür bir yiyebiz ipucudur.
+[01:15:05] Mesela bu pek isteme ipucu, dört tane etkin katılma, pide olarak kotlamak bir ipucudur.
+[01:15:11] Öğrenci'nin konuyu anlaması için, konu anlamı sertürlü onzur.
+[01:15:16] Dönüp düzeltme, öğrencinin verdiği cevabını doğru mu ya da yanlış olduğunu söylemek
+[01:15:22] dönüt, yanlışın yanında doluyu ki kâme etmek düzeltmedir arkadaşlar ve etin katılım
+[01:15:28] öğrencinin sürecektif katıl budur.
+[01:15:30] Yani arkadaşlar, öğrenci derse hazır geldi, gerek bililsel gerek duysa olarak hazır
+[01:15:36] hale geldi.
+[01:15:37] Ben de ona nitelikli bir eğitim verdim, iyi bir eğitim verdim.
+[01:15:41] Eğer bu ikisini sağlayabilirsem öğrenin üründe isteyen seyrede olur.
+[01:15:45] Yani yeni bilgiler öğrendi.
+[01:15:47] Bazınızda öğrenme gerçekleşir.
+[01:15:49] Daha başarılı bir öğrenci profili ortaya koyar biliriz arkadaşlar.
+[01:15:55] Dolayısıyla süreçte bu gibi on surlarımız vardır.
+[01:16:01] Şu teşte bu şekilde işler siliyorum.
+[01:16:03] Evet, olumduk ve olumsuz yanlarına bakacak olursa karşı bir konu öğrenmeden diğerini geçilmemesi.
+[01:16:21] Böyle de konu tam olarak öğrenmesini sağlaması.
+[01:16:24] Dersin belli bir plan program ve çay çevede işleniyor olması.
+[01:16:28] Dün tüzetmeyiyle öğrenme eksiklerinde saplanıp gidilmesin ve bütün öğrencilerin konuyu öğreniyor olması artılarım.
+[01:16:36] Ancak yavaş öğrenen öğreniler, hızlı olan öğrencileri engeller yani aslında bir bakıma herkes birbirini bekler arkadaşlar.
+[01:16:48] Zaman alıcıdır çünkü yavaşları bekliyoruz ama sürecü öğretmen yöneldir için öğrenci öğrenci etkeşimi yoktur.
+[01:16:56] Bir hesap artıklar gözünde bulunmaz.
+[01:16:58] Aslında bir hesap artıklar önemsenmez.
+[01:17:01] Çünkü öğrenmeye dayıldır.
+[01:17:02] Dolayısıyla ilk oradığım Fuzadır'ı,
+[01:17:04] eklersterle, ek çözümlerle,
+[01:17:06] bir hesel öğretim etkinlikleriyle
+[01:17:08] desteklenmeye çalışılır.
+[01:17:10] Arkadaşlar,
+[01:17:11] bir hesap artıklar gözünde bulundurulmuyor.
+[01:17:14] Aslında burada şu doluyor,
+[01:17:17] teklif yetişme söz konusu.
+[01:17:23] Şöyle teklif yetişme.
+[01:17:24] Şimdi,
+[01:17:25] diyelim sen hızlısın ben daha iyi başım ama sürecin sonunda ikimizde aynı yerdeyiz. Bu şu anlamı geliyor.
+[01:17:32] İkimiz herkes aynı seviyeye getiriliyor. Kimsenin diğerinin çok önüne ya da çok gerişine kalmasına
+[01:17:38] imkan tanımmıyor arkadaşlar ve sürecin sonlu öğretmeni olduğu için öğretmene ek yuk getiriyor.
+[01:17:46] Evet, tam öğrenme modeli bu, yani uzunlafın kısası tam öğrenme modelinde uygun koşular sağlamdığında herkes her şeyi öğrenebilir düşüncesi var.
+[01:17:58] Bu yüzden uygun koşular sağlayabilmek için her öğrencin aynı sebeye de başlayıp aynı sebeye de bütün özelliğe de planır.
+[01:18:06] Bir konu bitirmeden de yerine geçilmez arkadaşlar.
+[01:18:09] Böyle bir sorumuz var bir bakalım.
+[01:18:46] Çok güzel, sorumun suçunu soruyor, bu da göre, amacı tam öğrenme moderni uygun
+[01:19:10] günler şimdik olan CID Ayrıthman aşağıda derden hangisini
+[01:19:13] ihmal etmiştir. Burada tabii ki direkt tam öğrenme
+[01:19:19] modine göre değil, tam öğrenme modimdeki konusurlarla
+[01:19:22] yukarıdaki bilgi eşleştirmemiz gerekiyor. Mesela tam
+[01:19:29] öğrenme modininle göre düşüneceğiz. CID Ayrıthman ilk dersinde
+[01:19:31] öğrenden çoktan sevmele bir başarık testi uygular.
+[01:19:34] Öğrenden hızın kuş düzeni belirliyor ve test sonuçları
+[01:19:37] göre bir plan zırlıyor. Mesela burada ne oluyor bilişsel
+[01:19:40] giriş danışını belirliyor.
+[01:19:48] Seçeneklerde bir ister giriş danışları yok.
+[01:19:52] Dersin de her bir öğrenciyle ayrı ayrı ilgilendir.
+[01:19:55] Her bir öğrenciyle ayrı ayrı ilgilendiği için ne yaptı?
+[01:19:58] Bir eser farklılır gözünü de bulundurum.
+[01:20:03] Bir eser hız.
+[01:20:05] Bu bağlandığı düşünebilir arkadaşlar.
+[01:20:07] Çünkü bazı öğrenciler, hızlı bazı öğrenciler yavaş öğrenebiliyor.
+[01:20:12] Herşeyle ayrı ayrı ilgilendiği zaman o bir eser hızı da göz önünde kundurmuş.
+[01:20:16] O diyor, ip ucu, peki şeştönü tıknısa alır, öğrenlerini destek olur.
+[01:20:20] Burası aynı zamandı, öğretim hizmetlerinin...
+[01:20:28] ...nin tekin.
+[01:20:29] Öğretimiz metrenin tercihini sağlamış oluyor.
+[01:20:33] Arada erlenmeler yaparak öğrenye eksiklerini belirler.
+[01:20:36] aradayarlarında ne yapıyor, ön değerlendirmeyi yapılıyor, bir ünitesi onları
+[01:20:40] öğrendiğine başarı testi uyguluyor, akademik başarı düzenin testi tutetiyor ve
+[01:20:53] öğrendiğin öğrenmenin işkinleri topluyor sonuçlarını, göre yeni bir değerlendirme
+[01:20:57] yapıyor. Burada ne yapıyor, öğrenme eksiklerini giderek çalışmalar yapıyor, öğrenme
+[01:21:03] düzenini artırayak çalışmalar yapıyor. Burada öğrenin ürünün
+[01:21:06] ortaya koyuyor.
+[01:21:10] Ancak yukarıdaki verilere baktığımız zaman
+[01:21:14] öğrencilerim motiv etmesi, öğrencilerin
+[01:21:17] akademik benliğini geliştirmez. Akademik özgüvan
+[01:21:21] kazandırması gibi durum söz konusu olmadığı için
+[01:21:23] öğrencilerin duysa gelişteavaşlarını belirlememiştir.
+[01:21:26] Yani dersi karşı iyi ki tutun beklentilerine
+[01:21:29] önceden belirlememiştir. O da CIDA
+[01:21:32] öğretmenin yapmadığı bir davranış olarak karşımıza çıkıyor. Bu
+[01:21:36] yüzden doğrayalımız ağa seçimidir. Eee deyi inşerden bir
+[01:21:40] çok arkadaşımız olmuş. Öğren giden bir eser öğrenmezlerine dikkate
+[01:21:43] almamıştır diye eee bir eser farklıkları gözünü de
+[01:21:49] bulunmaz tam öğrendi modeli ama eee var. Burada Ceyda
+[01:21:54] öğretmen öğrenler ayrı ayrı ilgilenlere onların bir eser
+[01:21:57] öğrenmezlerine dikkate almış olur. Siliyorum. Evet, geldik bir diğer soru. Son
+[01:22:10] yıllarda aslında özelliğiminin sinalarında sormayı sevdiği bir konu. Galinin öğretimsel
+[01:22:16] etkinlikler modeli ya da, eee, Galinin'in modeli de diyebiliyiz arkadaşlar.
+[01:22:24] Çin'in galne bilgi işlemi kurumundan hareketle hem davranışı hem de birisel kurumun özelliklerini birleştirerek bir kurum ortaya koyuyor.
+[01:22:38] Ona göre arkadaşlar öğrenme beyin de gerçekleşiyor ve davranışları vasiz dolar olarak alınışıyor.
+[01:22:45] Yani arkadaşlar biz öğrenme sürecinde sadece davranışlara bakarak değil birisel süreçleri.
+[01:22:52] İnsan süreçleri gözöndü bu durarak doğru olanı bulabiliyor.
+[01:22:56] Yani öğrencinin ne kadar öğrendiğini tesbid edebiliyoruz.
+[01:23:00] Bu yüzden öğrenmiş sürecinde bilizsel özellikle gözöndü bulmamız lazım.
+[01:23:05] Ne dedik en baştan davranışlıktan bilizseler gelinekselden
+[01:23:11] çağdaşa bir geçiş modeli gibi düşünebiliriz dedik.
+[01:23:16] Dolayısıyla burada öğrenci motivasyonu da önemli bir rol oynuyor.
+[01:23:21] Burası genel bir giriştin. Şimdi genel varzimlerine baktığımızda
+[01:23:28] burada farklı öğrenme türlerinden bahsedebiliriz.
+[01:23:32] Mesela bilisiye stratejler var veya öğrenme türlünü olarak
+[01:23:38] daha doğrusu şu var.
+[01:23:39] Farklı öğrenme türleri olacağım. Farklı yöntem teknikleri bir yerde kullanmamız gerekiyor.
+[01:23:43] Kimisi sözlerle dayı öğrenilir. Kimisi farklı bakış içleriyle öğrenebilir arkadaşlar.
+[01:23:48] Yeni öğrenmeler, öncikler üzerine icay edildi, özellikle bir issel, düzeyde öğrenmenin aşamalığından bahsedebiliyiz arkadaşlar.
+[01:23:56] Bazı önce söyleyeyim, farklı öğrenme ürünleri farklı stratejilerin bir yardı kullanılmasına bağlıdır.
+[01:24:02] Farklı öntem teklime stratejiler bir yardı kullanılmalı.
+[01:24:05] Öğrenci mümkün olunca sürece daire dilmeli ve öğrenme ürünleri önceden bedirlenmelidir ki, öğrenme ürünlerini beş kategoride ele alır.
+[01:24:15] Kad ne? Nelerdir bunlar? Bir sözler bilgiler. Anlama ya da açıklama gibi. Anlama. Ezber. Açıklama gibi.
+[01:24:29] Bilgiler ezber ediyoruz bilgiler. Tutumlar duysam. Aslında sözler bilgilerin daha çok bir listere olduğunu söyleyebiliriz.
+[01:24:37] tutumlar duysuz yani herhangi bir konuyla ilgili olarak
+[01:24:44] işte tutumumuz herhangi bir konuyla ilgili olarak önceden
+[01:24:48] oluşturmuş olduğumuz tavır, duruşumuz tutumlarımız oluyor.
+[01:24:53] Psikomotor beceriler zaten devin ister.
+[01:24:57] Bunlar daha önceki derslerimizde de indiğimiz kavramlar
+[01:25:01] Biliysel stratejiler ise arkadaşlar öğrenmüyorludur.
+[01:25:09] Yani arkadaşlar bir öğrencenin bir şiiri ezberlemesi sözel bilgidir.
+[01:25:18] Ama şiiri ezberlemek için kendi bir yol çizmesi işte önce dinlemek
+[01:25:23] sonra bir an ben dinleyerek bir andan söylemek bu biliysel stratejidir arkadaşlar.
+[01:25:29] Bu karışması, mesela sözel bilgi dediğimiz şey,
+[01:25:31] ezberlemek, öğrenmek, çalışmak, sözel bilgi.
+[01:25:35] Ama çalışmak derken, parla çalışma birçimde birisi alstatıcı olduk.
+[01:25:40] Çözüm bulma yoldursun, satışı.
+[01:25:42] Bir de ziyinsel ya da intellektör beceri olarak atlandırdığımız
+[01:25:47] sekiz tane aşaması olan becerimiz var arkadaşlar.
+[01:25:50] Galknaya göre, onlara da bahsedeceğiz şimdi.
+[01:25:53] Siliyorum bu ekranı.
+[01:25:59] Zinsel beceriler, kadine göre sekiz aşaması olan bir süreştir en temelde işaret öğrenme vardır.
+[01:26:10] Bunlar birbirinin üzerini inşa edildiler arkadaşlar.
+[01:26:13] Önce işaret öğrenme gerçekleşir sonra uyaristeki bandı öğrenmesi daha sonra basit sincirleme adım adım.
+[01:26:19] En üst eden problem çözüme vardır.
+[01:26:21] İşaret öğrenme arkadaşlar bir uyaricinin farkında olmadır.
+[01:26:29] Mesela Türevik'teki derken kırmızı işin yandığını görmek, derse öğrencenin derse öğretmenin girdiğini görmesi,
+[01:26:39] işte çay suyunu kaynatın ya da yemeğin altını kaynatığını görmek, herhangi bir uyarıcıyı fark etme arkadaşlar işaret öğrenedir.
+[01:26:47] uyarıcı tepki bağlı öğrenmek kişilerin herkese hangi uyarıcıya hangi tepkiyi verilir öğrenmesi
+[01:26:57] itir. Yani uyarıcı tepki bağlı kurmuş oluruz. Mesela kırmızı için yandığını gören bir
+[01:27:03] kişinin durmasın. Kırmızı için uyarıcı işaret öğrenmek fark ettim durdum uyarıcı
+[01:27:11] tepki bağlı kurdu. Öğretmen geldi işaret öğrenme, öğretmen geldi ayakatta öğrenciye
+[01:27:17] Yemin altın kaynıdığını gördüm, işaret öğrenme, kaynıdığı için altını kıstım ya da kapattım, uyuyurduk gibi anı öğrenmez.
+[01:27:29] Basit sincirlenmesi, birden fazla uyuyurduk gibi anı aynı durumda kullanılması.
+[01:27:35] Aslında zincir oluşturmak. Mesela bir uyuyun tepki bağımız.
+[01:27:40] İşte yemek yapacağız. Önce suanı kavurdum.
+[01:27:44] Birinci zincirimiz. Daha sonra üzerine salç ekledik.
+[01:27:48] İkinci zincirimiz. Daha sonra üzerinde şu ekledik.
+[01:27:53] Tuzunu bağırladık. Genel arkadaşlar basit zincirlemede
+[01:27:56] birden fazla uyuyuz tepki etkinliğinin arka arkaya gelmesi söz konusu.
+[01:28:01] Sözleri öğrenme alın ikisörler bilgilerle aynı bir ilginin ezberlendirsin.
+[01:28:10] Buraya kadar olan kısım arkadaşlar.
+[01:28:13] Çeyi göre, Galk Nehü göre, davranıştı.
+[01:28:20] Buradan daha yukarsın birisi.
+[01:28:24] Benzer uyuruların birbirinden ayır etmek, işte köpek netilkiyi birbirinden ayır etmek, köpek de kurdu birbirinden ayır etmek, ya da ne bileyim, dik uçkenle, eşkeler uçukların birbirinden ayır edebilmek, ya da
+[01:28:41] Dersleri gireyim de matematikleri fizik onları birbirinden ayır edeyim ve kişinin benzer uyarıcılar birbirinden ayır edeyim meseh.
+[01:28:50] Beyaz önlükleri işte öğretmenle doktoru birbirinden ayır edeyim meseh.
+[01:28:56] Benzer uyarıcılar arasında fark ortaya koyayım meseh ayır edeyim ve öğrendim.
+[01:29:00] kavramı öğrenme ise arkadaşlar, aslında bir bakıma kavramadır, sınıplandırmadı.
+[01:29:09] Kategoriyede ayırma, sınıplandırma.
+[01:29:16] Benzer olanların aynı kategoriyede sınıplandırma.
+[01:29:20] Mesela işçileri mavi yakalılar.
+[01:29:27] işte memurları beyaz yakıllar olarak sınıtlandırmak arkadaşlar.
+[01:29:31] Ya da canlıların, işte balıklar, kuşlar, memeliler gibi sınıtlandırmak arkadaşlar, sınıtlandırma bilirse kavramı öğrendir.
+[01:29:43] İki ya da kural öğrenme, olanla hızlı ki neden sonuç bağlı öğrenmektir.
+[01:29:49] İşte sül normal şart tarafında yüz denici de kaynatalımı öğrenmek, problem çözmese
+[01:30:01] daha önceki bilgilerini kullanarak karşılaştığı bir problem çözmüyor.
+[01:30:04] Şimdi bunu sıralamasını bilmek gerekir diyoruz ama şöyle düşünün arkadaşlar soru geldiği
+[01:30:10] zaman aşağıda gelmeden gitsi kalmaya göre daha üstelde daha 167 şekilde soru gelebilir.
+[01:30:16] baktığımızda bana karmaşık işlem gerektiyorsa daha az
+[01:30:19] dedir. Mesela eee iki tane varlığı birbirinden ayır etmek
+[01:30:24] mi? Kata gülere ayırmak mı? Ayır etmek daha aldı
+[01:30:27] değil. Kata gülere ayırmak daha az diye gibi düşünebiliriz
+[01:30:30] arkadaşlar. Ama bu aşamalı olduğu için ııı sıralamayı
+[01:30:35] bilmemiz de fayda var. Eee üç tane şey doğru fika suyu
+[01:30:40] olarak kotlayanlar vardı.
+[01:30:46] Problem çözme, ilki öğrenme, kavram öğrenme, ayırıtme, sözler, zincirleme, uyaristri, piwa ve işaret öğrenme
+[01:30:53] şeklinde bir kan suyu ilk adeti kotlayanlar var.
+[01:31:02] Arkadaşlar dersimiz saat 11'e kadar devam ediyor.
+[01:31:06] Bir arada daha verceğiz.
+[01:31:09] 11'le bitireceğiz.
+[01:31:14] Çok mu yoğun gittik bugün?
+[01:31:16] Ya biraz yoğun gittik ama eee şöyle söyleyeyim biraz da eee hızlı gittik
+[01:31:29] sebebi şu geçen seni soru gelmedi. Geçen seni soru gelmedi. Soru gelmediği için
+[01:31:34] yani eee genel bilgiler olarak gidiyorum. Haa soru gelmedi o zaman niye işliyoruz?
+[01:31:41] Önniksenin üç soru geldi. Ondan daha en yüksenin üç soru geldi. Daha en yükseneler iki şer soru gelmişti.
+[01:31:47] Dolayısıyla hani genel bir bilgimiz olsun diye düşünüyorum.
+[01:31:52] Problem şu tabii ki çok yoğun gittiğimiz için.
+[01:31:57] Biraz daha gidelim yorulursak belki saat 11'e kadar uzatmayabiliriz.
+[01:32:01] Belki baktık ki yorulduk. Olmuşluk da bırakırız yani hocam.
+[01:32:04] Tamam.
+[01:32:06] İlk dersimiz bir de biraz uzadı. Bakıyorum daha 49 geçiyor.
+[01:32:10] O, yani ilk dersimizin uzaması da biraz yorumuş olabilir.
+[01:32:13] Bir on dakika sonra bir arı vereceğiz, 5-10 dakika sonra bir arı vereceğiz ocağım, tamam mı?
+[01:32:20] Çünkü zamanınızda var, konuyu yetiştirmeliydi, sorunuuz da yok.
+[01:32:24] Eğer yorum olursa artık gitmiyor dersek biraz şey yapabiliriz.
+[01:32:31] Galne'ye güne arkadaşlar, ders işlemenin basamakları.
+[01:32:35] Aslında sadece ders işlemenin basamakları deyip burada şöyle düşenbiliriz.
+[01:32:40] garneye göre değil daha doğrusu. Genevamlı dersin nasıl iştirir. Genevamlı'nda
+[01:32:45] arkadaşlar dersimizi işlerken önce dikkat çekmedir. Dikkat çekmedediğimiz
+[01:32:50] şey, öğrencinin algısını, öğrencinin duyularını tahta yöneldinmektir.
+[01:32:55] Öğretmenin sesini yükseltmez ya da alçatması. Dersten bir materden getirmesi
+[01:33:03] bunlar öğrencinin dikkatini çeker ya da öğretmenin direkt dersi geldiği zaman
+[01:33:08] öğrencinin işte dikkatini çeker. Daha sonra öğrencinin artık bana
+[01:33:13] bakarken dersi çeker. Bugün şu konuları işleyeceğiz diyerek
+[01:33:16] hedeften haberdar ediyoruz. Daha sonra eski bilgilerini
+[01:33:20] bilgiler arasında bal kuruyoruz. Dersimizi anlatıyoruz. Bakın
+[01:33:24] bunu zaten ders olunca yapıyoruz. Ne yaptın? Dikkat
+[01:33:28] çektim. Dersin konusundan bahsettim. Eski konuları hatırlattım.
+[01:33:32] Yeni konu işledim. Daha sonra ve aslında uyarıcı
+[01:33:36] materlisindirken aynı zamanda öğrencinin onu anlayabilmesi için
+[01:33:39] rehberlik ediyorum ve soru cevap gibi etkinliklerle öğrencinin konuyu
+[01:33:44] anlayıp anlamadığını test ediyorum. Eğer anlamadığı program yaşadığı
+[01:33:49] yerlere varsa geri bildirimlerle eee eksiklerini güzel diyorum. Daha
+[01:33:53] sonra eee süreci bir bütün olarak değerlendirerek öğrenen
+[01:33:57] kullanın kalıcılığını sağlıyorum. Aslında bu aşamalar bizim
+[01:34:01] normansını da dersinize girdiğimizde takip ettiğimiz aşamalar
+[01:34:06] olarak da ifade edilebilir ve kaç çektim, konuyu hatırlattım.
+[01:34:11] İşte önceki bilgilerle bakordum ve onu işledim aslında.
+[01:34:14] Olay bu.
+[01:34:28] Evet bu soru yadayım bakalım.
+[01:34:36] Çok güzel benim matematik öğretmeni.
+[01:34:57] Bu da yeni geldi.
+[01:35:00] Kıçın soru bu, yirmi dörtte geldiği alışıklarımızın yediğin soru, yirmi dörtte
+[01:35:04] yapayım. Evet. Bir matematik ötme ne? Sayılar konusunu
+[01:35:08] işledir. Örtüm sürecinde öğrencilerine galata köprüsünün
+[01:35:11] uzunluğunu kürdamlığı ölçmek istesem kaç tane kürdam
+[01:35:14] kullanılırın diye sorar. Çinim bu da aynı yaşamadığı yapar.
+[01:35:19] Eee şimdi dikkat çekme düşünsenize öğrenci başka bir
+[01:35:25] şeyle ilgilendiriyor. Galata köprüsünün kürdamlı ucunu dikkat
+[01:35:28] çeker arkadaşlar. Dolayısıyla bu dikkat çekmeye tıkın
+[01:35:30] iyetir. Ta şöyle olsaydım bugün Galata Köpüsün'ün Kürdan'ın ölçmeyi
+[01:35:35] öğreneceğiz deseydi. Edefterine haberdar etme olurdu. En son
+[01:35:39] Galata Köpüsün'ün Kürdan'ın ölçmeyi nasıl olduğunu görmüştük
+[01:35:42] dersi Ölkuş'la öğrendiğine rahatlatma olur. Kürdan'ın ölçme
+[01:35:47] konusunda öğrendiğe yardımcı olursa verbelik etme olur. Sünününün
+[01:35:52] sonunda derlenmeyorsa derlenme olur. Ama burada daha çok dikkat
+[01:35:56] çekmeğer öğrendiğin ilgisi çekmek olduğu için dikkat
+[01:36:00] çıkma aşamasında. Oldur. Ocağın asetçini yorulur.
+[01:36:05] Ne bunun yurulduk mu? Araveriyelim arkadaşlar.
+[01:36:10] Çaday çöntemleri geçmeden. Birikmeden yada kolum.
+[01:36:15] Ne dersiniz? Yarım saat oldu ama dediğiniz doğru yoğun bir ders gidiyor bugün.
+[01:36:21] Peki burada şöyle yapalım, bir ara veririm.
+[01:36:26] Yok, devam edersek çok daha yorucu olur, çünkü şöyle düşünün.
+[01:36:34] 45 dakika bir yarım saat, belki 40 dakika ders içeceğimiz düşünük olsak, bayağı bir konu olur.
+[01:36:41] Burada bir 10 dakika ara veririm hocam.
+[01:36:43] İlk ders uzatmıştık, 2. ders de kıslatmış olalım.
+[01:36:47] Ama işte şunu söyleyeyim, bundan sonraki konver biraz daha kolay.
+[01:36:52] Teorikten ziyade bildiğimiz kavramlar olacağı için çok kavram göreceğiz.
+[01:36:58] Bu altı bölümdeki hafta yani bu konuda ama daha kolay gidecek kısım bundan sonraki kısım.
+[01:37:04] Tamam, bir onla kahve verin, onla kısım sonra görüşürüz.
+[01:37:11] Evet arkadaşlar, geldik bir diğer kuramımız olan çoklu zekiak kuramına.
+[01:37:15] Ovard Karnım tarafının ortaya atılmış bir Kur'an'dır arkadaşlar.
+[01:37:18] 1971 yılı diyanlaşatılamıyorsam, 1971 yılında Zihin'in çay çevirdiği bir kitap yazıyor ve geleneksel
+[01:37:27] Zekay görüşünden birden fazla Zekay alanın olduğunu farkı Zekay alanların olduğunu ve her Zekay alanında geliştirebiliriz.
+[01:37:36] Bir geliştirebiliriz ve değiştirebilir yapıda olduğunu ifa edilen bir görüş ortaya koyuyor.
+[01:37:42] buna da çoklu zeka kurumu diyoruz ki bugün de geçerli olan bir kuramdır. Çoklu zeka kurumu
+[01:37:48] ne gibi özellikleri var. Çoklu zeka kurumu zeka tanımının gerçek yaşamdaki zeka
+[01:37:54] yada yandırıyor. Yani kişinin aslında çevreyle uyum sağlayı bilmesi ve farklı alanlarda
+[01:38:00] ortaya koyduğu bir takımın başarılara bağlı olarak yorumlıyor arkadaşlar. Zeka'ya
+[01:38:04] çoğuncu bakışı istiyor yaklaşıyor ki en başta yit tane zeka alından bahsediyordu. Daha sonra
+[01:38:10] bozak yasın ekleyerek sekizinci bir zekyalığından bahsetmeye başladı.
+[01:38:14] Ona göre tüm zekyalar evlenseldir ama bunun şöyle düşünebiliriz arkadaşlar.
+[01:38:21] Mesela elimizde bir kisi var.
+[01:38:26] Bu kisiye zekyaları ve atıyorum bir tutam sözler zekyal, iki tutam sayısal zek, matematik zekyalısı,
+[01:38:32] üç tutam işte görsel zekyal olabilir.
+[01:38:35] Yani nasıl ki 8 notayla binlerce şarkı üretiliyorsa 8 tane zekâ alanı ile da milyonlarca farklı insan yapısından bahsedebiliyoruz.
+[01:38:46] Dolayısıyla zekâlı sey sallaştırması yerine bir zekâ profilinin çıkarılmasından bahsede.
+[01:38:52] Yani herkesin keresine göğbül zekâ profili vardır ve o zekâ profiline göre zekâsının geliştirebilir düşüncesi var.
+[01:39:01] o eve arkadaşlar zekaların zeki alanının birbirinden bağımsız olmadığını birleşerek ve kaynaşarak daha iyiye doğru ilerlediğini söylüyor arkadaşlar.
+[01:39:14] Çoklu zeka kurumu bir şey öğretmenin tek bir yolunun değil farklı yollarında olabileceğini dolayısıyla öğretmenin dersi işlerken farklı zeka alanını gözöndü bu durak dersini işlemesi gerektiğini söylüyor.
+[01:39:27] Yani aynı etkinlik, sözel bilgiyle de aktarılabilir, matematisel bilgiyle de aktarılabilir,
+[01:39:35] görsel olarak ifade edilebilir arkadaşlar.
+[01:39:37] Mesela ikili ikinin toplamının niçin dört olduğunu anlatıyorsak, mantık zekası,
+[01:39:45] ikili ikinin toplamın dört olduğunu ezberletiyorsak sözel zekiyatır.
+[01:39:50] Görsel bir öykulundan sonra bunu anlatıyorsak arkadaşlar, görsel zekiyat oluyor.
+[01:39:56] Zeki alanlar dediğimiz gibi sekiz tanedir. Bu zeki alanlarının hemen gözden geçirecek olursak
+[01:40:02] birinci olarak sözler yada disel zeka kelimeler zeka asıdır.
+[01:40:07] Daha çok kelim hazinesiyle ilgildir.
+[01:40:13] Yada kişinin sahip olduğu dilin kavramlarını etkilmecik dilimizi, sahip olduğu dilin etkilmecik'de kullanılması sözler zeki alandır.
+[01:40:23] Sözler zekâsı kuvvetli olan kişiler geniş bir kelime hazinesine sahiptir.
+[01:40:28] Kendini çok iyi fâde edebilirler. Başkalar mı ya? Sözler zekâsı daha zayıf olan kişinin
+[01:40:34] daha uzun tümcederli almattıklarını daha az daha özet kifadelerler, daha anlaşılır.
+[01:40:41] Vareli getirebilirler. Özellikle arkadaşlar edi bir açıların şairlerin, öğretmenlerin
+[01:40:47] bulur zeki alını olarak ifade edilebilir. Mantık matematik teki alsın. Bir
+[01:40:54] ellerin olaylar arasındaki mesela seyillere yatkın olmak vardır. Bunun
+[01:40:59] dışında birilerin olaylar arasındaki neden sonuç bağlı kurmuşsun, neden
+[01:41:04] sallik düşüncesi ya da sınıklandınma becerisi mantık matematik
+[01:41:13] tekasıyla ilgili. Yani bir düşünceli bir fikir, bir
+[01:41:17] bir daha bir görüş ortaya koyulduğu zaman, onun nedenlerini
+[01:41:22] ortaya çıkarabilmek, onu temellendirebilmek, onu
+[01:41:26] katılırlar aerilbimek mantıksa kiasıyla ilgili. Ya da
+[01:41:29] rakamları adim, rakamları etkin bir şekilde kullanabiliyor.
+[01:41:33] İşte bir bulmacı çözeceği zaman bile sayıları dayalı
+[01:41:38] bulmacılar odaklanıyorsa yine bu da mantık matematik
+[01:41:41] biraz daha göz de ilgildir, resimler zekası, resim zekası, yiyada hayal gücüyle
+[01:41:53] ilgildir arkadaşlar. Gözler zekası, kuvvet olan kişiden hayal gücü kuvvetli olan,
+[01:41:59] olan gördüğünü kolay kolay unutmayan, hatta şun da ekleyebiliriz buna. Bu renkler arasındaki
+[01:42:07] farkı net bir şekilde görebilen işte kavun içiyle yavru hazırız
+[01:42:12] sarzındaki, narç içerisindeki şeylerin o renk farklığını
+[01:42:17] kolaylıkla kavrayabilen kişiler görsezlik yazık kuvvetli olan
+[01:42:20] kişilerdi. Bunlar kendilerini resimle şekille şemayla
+[01:42:24] ipayde ederler herkes konuyla ilgili not alırken bu kenarda
+[01:42:28] bir bakmışsınız bir resim bir şabdolun bir karikatür çiziyor
+[01:42:32] bu kişiler daha çok görsezlik yaz o kuvvetli olan
+[01:42:35] kişilerdir. Müzik zekiyazı ise rütmek zekiyaz olarak da atlandırılabilir.
+[01:42:42] Daha çok seslere karşı duyarlı olan kişilerin eee say bulduğu zeki alındır.
+[01:42:48] Sessler hızındaki ince farklarda birbirinden ayır dediği bilen bir zeki
+[01:42:52] alındır arkadaşlar. Müzik zekiyazsın. Ritim tutmakta becerikledirler.
+[01:42:57] İşte eee normal konuşmak yerine daha çok murlundanarak böyle eee
+[01:43:03] Melodi tuttulara konuşan kişilerdir.
+[01:43:06] Bu unhanin notasız müzikaleti çalanlara var ya.
+[01:43:09] İşte sesin yükselmesi ya da düşüne göre müzikaleti çalanlar.
+[01:43:14] Sesteki farklı tonları, farklı tizleri yakalayabilenler arkadaşlar müzik tekiyası kuvveti olan kişilerdir.
+[01:43:20] Bedensel zekâh bedelini etkilmiş gibi kullanan kişilerin sahip olduğu zeki alındır.
+[01:43:26] Bedensel zekâh, kuvvetli olan kişiler daha çok ne iş yaparlar?
+[01:43:30] Ceral olurlar.
+[01:43:31] uyunca olurlar, sporcu olurlar, danscu olurlar, dansçılık için, her müzik zekiyasemde
+[01:43:45] bedelzer zekiyah gerekir. Yani beden etkimişik kullanılar, cestenin mümklerine etkimişik
+[01:43:50] ilgi kullanırlar. Arkadaşlar ince kastanın etkimişikide kullanırlar bedelzer zekiyası kuvvet
+[01:43:56] olan kişiler. Sosyal zekâ. Kişilerin zekâ olarak da atlandırılır.
+[01:44:04] Yine dişini kuvvetli olan, bulunduğu burada doğal bir lider konuğunda
+[01:44:09] olan etrafının insanları çok kolay etkiley bilen kişileri sahip olduğu
+[01:44:12] zekâ alındır. Sosyal zekâ su kuvvetli olan kişiler eee
+[01:44:17] kendi söyledikleri doğurdu olsa yanlış dosa çevresini kişileri
+[01:44:21] kolaylıkla inandırabilirler. Bu yüzden bunlar daha çok işte
+[01:44:25] öğretmen olabilirler, politikacı olabilirler, hatip olabilirler.
+[01:44:29] İşte dediğimiz gibi içinde bunda gruta lider konumundadır, ki
+[01:44:34] insanları çok kolay etkileyebilen kişilerdir. İçsel zekâ ya ya da
+[01:44:39] içe dönük zekâ, biriyin daha çok kendisiyle baş başa kalabildiği
+[01:44:46] zekâ alındır. Yalnız başına kalmaktan sıkılmazlar. Yani bir
+[01:44:53] bir etkini yapmak için başkalarına bağ mı değillerini, başkalarına bağlı değillerini,
+[01:44:57] kendi potasiyenin kendi güçlü ve zevk önlerini farkında olan kişilerdir.
+[01:45:02] Başlı başına işseze kası, kuvvet olanlar şu iş yapar, bu iş yapar demek çok da doğru olmuyor arkadaşlar.
+[01:45:09] Ama işseze kası kuvvet olan kişiler, kendi potasiyenin farkında olduğu için bazı alanlarda
+[01:45:15] kendini geliştebiliriz, ayıp odukları alanlar da kendini gelişebilirler ya da güçlü oldukları alanları fark edip
+[01:45:21] o alanlar eee iyi projeler ortaya koyabilirler arkadaşlar.
+[01:45:28] Kendin kendini konuşabilirler. Gülnük tutmayı severler.
+[01:45:32] eee bu kişiler biraz daha içe dönük olarak hareket edebilirler.
+[01:45:38] Doğazdaki yaz kuvveti olanlarda doğal olanları doğal olaylarına doğada var olanlara karşı
+[01:45:44] hassas olan kişilerdir arkadaşlar. Bu kişiler böyle tü böcek ağaç yaprak gibi
+[01:45:49] konular da çok fazla bilgisay bir diriler.
+[01:45:56] Bir yalnız kaldıklandı ya da bir etkilik yapacakları zaman diğer
+[01:46:00] insanlarla ettireceğimi girmek ya da
+[01:46:02] televizyonize ekranın peşine koşmak fark etkilik araya yapmak yerine
+[01:46:06] doğaya koşarlar, trekking yaparlar, belgesel yüzlerler
+[01:46:10] yani daha çok doğal olayları takip eden kişileri sahip olduğu zekaya alındır.
+[01:46:15] Zeki alanları bunlar arkadaşlar siliyorum.
+[01:46:45] Çok güzel.
+[01:46:52] Tanrı ödümen derslik grup çözmüze yapacağı için öğrendiğiniz zeki alanlarını görüntü öleceğim gruplara yırmıştır.
+[01:47:05] Bir buradaki öğrendiğin aşağıdaki üç farklı zeki alanına göre seçmiştir.
+[01:47:09] Birinci öğrenci konuşkan ve ikna edeceğiz, sosyal olduğunu görürüz zaten sosyal zekâh.
+[01:47:16] Yadık kişileriz zekâh.
+[01:47:18] İkinci öğrenciğin hayırlı yüksektir kendini resimleyip adede görsel uzapsan.
+[01:47:28] Üçüncü öğrenci araç kereçine iyi kullanır ve dersyedir ki material hazırlar.
+[01:47:32] Eee kullanma, material hazırlama, bedenini kullanabilmiyor. Bu da keresitlik zekâh.
+[01:47:39] Ya da bedenzer zekâh. Dolayısıyla doğuracağımız B seçeni sosyal, görsel ve kinesitlik sekâh oluyuz.
+[01:47:48] Geçiyorum.
+[01:47:50] Geldik bir diğer kuralımız yapılandırmacılık ki bu 5-e modeli ve 7-e model olarak el alacağımız kuranlar da aslında yapılandırmacılık alt başlıklar olarak kabul edebileceğimiz kuranlardır arkadaşlar.
+[01:48:09] Yapılandırmacıdır. Gün müdeki çadaş eğitim anlayışını en iyi yastan modeldir.
+[01:48:17] Aynı zamanda ilerlemek ile feslevesi ile de birlikte aldım.
+[01:48:20] Geneldi arkadaşlar. Çıklı sorular soruldursan.
+[01:48:23] Hem ilerlemek için yapılandırmacıdır.
+[01:48:25] Aynı seçenek de doğru olarak kabul edebiliriz arkadaşlar.
+[01:48:28] Yom de veyin görüşleri ve bir koskünün görüşlerinden etkileyerek geliştiriliyor.
+[01:48:33] Yapılandırmacıdır. Bakın evimiz çadaş eğitim anlayışında
+[01:48:39] bilginin var, öğrenin aktif olmasından bahsediyordu. Yaplandırmacılar da öğrenin aktif olmasını savunulur. Ama yaplandırmacılığın özünde şu vardır.
+[01:48:48] Öğrencenin bilgiyi yaratması vardır. Yani bilgi dışarıdan aktırılan bir şey değildir.
+[01:48:54] Öğrencenin kendi etkinlikleriyle kendi yorumlarıyla kendi çalışma öyle, kendi bilgisini yarattığı bir durum söz konstur arkadaşı.
+[01:49:03] Yıklandınmacı persefe.
+[01:49:05] Öğretmenin ders teki muttaki gemelini.
+[01:49:07] Dersi, kitaplarına aşırı bağımlılığı,
+[01:49:10] bilgi aktağımı ve öğrencinin basip kalmasına eleşiyorlar.
+[01:49:13] Yani öğretmenin de dersi oğluluyor.
+[01:49:16] Aslında bunun tememinde şu var, pardon.
+[01:49:22] Şimdi bir durum, insan düşünün arkadaşlar.
+[01:49:25] Sırntaki öğrenciler düşünebiliriz.
+[01:49:29] Öğrencilerde yorum yapabilir.
+[01:49:31] öğrenciler de bir yürüde bizi, öğrenciler de bir bireydir. Dolayısıyla benim konuyla ilgili yorumumu,
+[01:49:37] öğrencileri yorumuna üstünklendiriyor. Yani ben nasıl yorumlayıbıyorsam,
+[01:49:42] öğrenci de yorumlayabilir. Bu yüzden, öğrencinin yorumuna değer vermemiz gerekiyor.
+[01:49:47] Öğrencinin konuyla ilgili yorum yapabileceği, bilgi yürütebileceği,
+[01:49:51] ama kaynaklı üzerinden dersi yürütebileceği bir etkinlik vermemiz gerekiyor.
+[01:49:57] Bu yüzden öğretmen egemen değil, ders kitaplarına bağlı değil, bilgi aktarma değil,
+[01:50:02] onun yerine öğrencinin sırta aktif olduğu.
+[01:50:07] Düşünce öğretme bağlamında, düşüncelerine değer verme, değer görme bağlamında aktif olduğu.
+[01:50:13] İletişim kurabildiği, yani öğrenci öğretmen etkileşiminin, öğrenci, öğrenci iletişmi şeklinde de gerçekleşebilecek.
+[01:50:21] Öğrencilerinin birbirine bir şeyler öğrendiği.
+[01:50:24] Hatta süreçte öğretme vurgustan daha ziyade öğrenme vurgusunu ön planlı olduğu.
+[01:50:30] Öğretmenin de öğrenciden yer gelinde bir şeyler öğrenebileceği düşüncesinde olduğu bir yaklaşım var arkadaşlar.
+[01:50:36] Derimleri ve gözlemleri sonuçta bilgileri ziyininde kendisinin yaplandırdığı bir sınıf ortamı vardır.
+[01:50:43] Yani yaplandım acı yaklaşımda bir giye almak, bir giye ezberlemek, bir giye öğrenmek değil,
+[01:50:49] bilgiyi yaratmak, öğrencinin süreci aktif katılmını sağlamak vardır arkadaşım.
+[01:50:56] Bu yaklaşıma göre bilgi ve anlam, bir evden bağım siz olarak var olmaz.
+[01:51:02] Bir ev deninleriyle, bir ev eski bilgileri mevcut bilgine bir yiğin zilinde yapılandırır.
+[01:51:08] Bir de burada derslerin birinci kaynaklardan işlenmesi vardır.
+[01:51:13] Birinci kaynak dediğimiz şey, ana metinlerdir.
+[01:51:19] Yani herhangi bir onda yazılmış yardımcı bir metindeyi. Anlametin üzerinden dersen niçtenmesi vardır.
+[01:51:28] Yani öğretmen mesela, lozandan bahsedeceği zaman, lozanı derken, diyorumun değil, lozanın maddelerini ortaya koymaldı.
+[01:51:38] Ben felsepedersinde, plato'nun idalar kuramından bahsedeceği mi zaman bana göre plato'nun şöyle düşünür demek yerine plato'nun idalar kuramini giydiril olarak,
+[01:51:49] Pilatonun eserlerini bazı almalıyım diyor.
+[01:51:51] Anakal ne güzelini dersmişler.
+[01:51:53] Bunu izlediğiniz gerekiyor.
+[01:51:54] Aktif olarak öğrenelim bir giyi inşa etmesi söz konusu öğretmenin de
+[01:52:00] rehberlik ettiği bir yaklaşık söz konustura kaçtık.
+[01:52:03] Zaten yapılandırmacını dediğimiz zaman
+[01:52:07] herkese genelikle girliksel görüşe karşılaştırarak ifade ediriz
+[01:52:11] ve çağda şey ettim anlayışında karşıma da çıkan her şey yapılanmış içinde geçerli.
+[01:52:16] Şimdi söylediğiniz yine burada toparlayacak olsak sıvıl olurum, öğrencinin iyi
+[01:52:21] duyduğu konular çerçeğizin dersi işlenir, öğrencinin aktif katılımı vardır, birincil kaynaklar,
+[01:52:28] kullanılır, öğrencinin iyi kendisi inşa eder, bu süreçte öğretmen ona rehberlik eder,
+[01:52:34] yani yardımcılık eder. Öğretme değil öğrenme söz konusudur, dolayısıyla herkes
+[01:52:40] potansiyel olarak konuyla ilgili bir şeyler öğrenebilecek bize edildi, öğretmen de
+[01:52:44] öğrenciler bir şeyler öğrenbilir. Öğrencileri sorgulamaya yapması
+[01:52:49] teşvik eder. Yani kendisi de sular bilgileri ezberlemesi deyip
+[01:52:52] sorgulayarak bir giy üretmesi teşvik edilir. Hiç
+[01:52:57] birlikte çasmaları desteklerindir. Öğrenci öğrenci etkilişime
+[01:53:00] vardır. Sonuçta çok suç önemlidir. Ve öğrenciler iyi
+[01:53:05] gibi tutuları önemlidir. Genel söylediğimiz ifadelerdi.
+[01:53:11] Bir de gelinliksel güçlü karşılaştırakta ifade edebiltirse yani şöyle düşünemedirse yapılan
+[01:53:21] dırım acı felsefe geleneksel eğitim anlayıcından köklü bir kokuş köklü bir değişikliği işaret edir.
+[01:53:29] Mesela gelinliksel eğitim anlayıcından öğrenci posikin yapılanırmacı da öğrenci yaptıktır.
+[01:53:36] Gelinlikle yapıda öğrenme, öğrenciden bağırsız, öğrencidara öğretmen tarafından öğrenci artırılan bir süreşke,
+[01:53:43] bilgi edin mi sürecinde öğrencinin aktif olduğu bir yapıya dönüyoruz.
+[01:53:49] Ezbere dayılayı için yerini yaratıcılığa bırakıyor, öğrencinin sürece dahil edin olmadığı eğitim,
+[01:53:57] öğrencinin yaratıcılığı öpülenini çıkartıyor.
+[01:54:01] not almak yerine artık belirin notlar almak, not almak için çalışmak yerine kendini girişmek için çalışmalar öne çıkıyor.
+[01:54:10] Yen arkadaşlar, kısa çoğunuzu ödeyebilirsin.
+[01:54:13] Çaldaş eğitim adına bildiğimiz her şey.
+[01:54:17] Bugün ki zaten arkadaşlar okular da gerekma arif model olsun.
+[01:54:20] Geleksek 2007'den itibaren düzenlenen bütün eğitim programlarında biz yıplandırmacılır merkezal olarak eğitim veriyoruz.
+[01:54:28] Yıplandım acılın aşamalarına bakacak olursak bu aşamaları karşımıza 5.7M model olarak da gelebiliyor.
+[01:54:35] 7M model için ne kadar sınavda hiç sorulmadı ama 5M model olarak da gelebiliyor.
+[01:54:43] 5M model dediğimiz yıplandım acılın şey itir aşamaları.
+[01:54:49] İlk aşama giriş ya da şeydeki yediği modelindeki teşvik etme burada motivasyonu
+[01:54:59] sağlıklıyorum arkadaşlar ya da gülülenme öğrence dersi başarı bileceği konuslu
+[01:55:10] motiv edilir.
+[01:55:11] Ders de öğrenceyi konuların günlük hatta ne işine yarayacağı söylenerek öğrencinin
+[01:55:16] öğrenme sürecine hazır hale getirilmesi sağlıklıyorum.
+[01:55:18] salladır. İkinci acaması keşfetme. Bakın ikisinde aynı.
+[01:55:24] Keşfetmedi arkadaşlar. Öğrencilerin birbirlerine sorular
+[01:55:30] sorması ve eee yani sorular sorma. Ve buluş. Öğrenci yeni
+[01:55:42] bilgi keşfeder sahip olduğu bilgilerden hareketi de yeni bilgi
+[01:55:45] yavaş yavaş üretmeye başlar. Açıklamanın yine bakın üçüncü
+[01:55:51] yaşamada ikisinde de aynı. Açıklamanın öğrencinin eee
+[01:55:56] sayık olduğu bilgilerle ilgili olarak açıklamalar yapması
+[01:55:59] yeri geldiğinde yanlış öğrendiler söz konuz olduğunda
+[01:56:02] öğretmen de bir takım açıklamalar yapılır yapar. Burada bilgi
+[01:56:07] sunma vardır. Ancak öğretmen burada çok fazla açıklama
+[01:56:12] yapmamalıdır yani eee daha çok açıklamayı
+[01:56:15] öğrencini yapması gerekir. Derinleştim ve bilgilerin
+[01:56:20] sınıklandırılmasıdır.
+[01:56:24] Bu yediği modelindeki genişletme ve kapsamana alma
+[01:56:29] öyle derin ikisinde kapsır. Yani arkadaşı deninleşti
+[01:56:34] maaşamasını öğrenci edilmiş olduğu üretmiş olduğu bilgilere
+[01:56:38] Yenilerine ekler genişletir ve bu bilgilerin ziyininde sınıflandırır. O da kapsamın almadır arkadaşlar.
+[01:56:46] Yani aslında yediye modeli, bir beşye modeli, aşamaları aynı olur.
+[01:56:51] Söylesi geldi, öğrenciyi motiv ettik.
+[01:56:55] Öğrenli bilgiyi keşfedir, çaba gösterdi, edindiği bilgileri açıkladın ve daha sonunda bilgiyi
+[01:57:03] bilgi doğru bir şekilde zilini sınıklandı.
+[01:57:08] Yediği modelindeki değiştik, maaşıması iş birlikli çalışmalardır.
+[01:57:15] Yani öğrencilerin birbirinin çalışmasından destek almasıdır.
+[01:57:25] 5 emmodelinde böyle bir basamaktan bahsedilmez.
+[01:57:27] gelen anlamda işbirliğinden bahsettir arkadaşlar ve son aşama değerlendir maaşamasıdır.
+[01:57:34] Derlen maaşamasında da süreç artı ürün birlikte değerlendir.
+[01:57:49] Ve şart ürün birlikte değerlendir diyor böyle de süreçimize tamamlatılmış oku.
+[01:57:57] Haşemalarımız bunlar. Ekran görüksence karte aşırı alsınlar. Bir de buradan çıkmış bir sorumuzlar ona bakalım.
+[01:58:13] Geçiyor oğlum.
+[01:58:18] Şurada sorumuza bakalım.
+[01:58:57] Evet çok güzel.
+[01:59:01] Yapılandım manyak yaklaşım benimsemiş bir öğretmen toplumsal cinsiyet eşitsizli konusunda
+[01:59:12] farkında konuşmak istemektedir.
+[01:59:14] Bu amaçta konuyu toplumun farklı kesimlerinin görüşlerini yıcerem bir problem
+[01:59:19] senaryüz üzerinden işlemeyi planlamaktadır.
+[01:59:22] Bakın yapılandırmacı yaklaşıma göre bir ders içecek.
+[01:59:26] Buna gır aşağıdılarına gizli yapması uygun değildir.
+[01:59:30] Cinset eşitli konusunu birinci bir kaynaklarına çalışmasınlar
+[01:59:35] reperkitmesi. Birinci bir kaynaklarız zaten.
+[01:59:38] Yapılanmayacak dışında var. Dolayısıyla bunu kabul ediyoruz.
+[01:59:43] Öğrencilerin konu ile ilgili önlü öğrenme ve deneyimlerini işe koşması zaten
+[01:59:48] teşvik ya da giriş aşamasında ön bi' giden atılması ve
+[01:59:53] Motivasyonuza alanması vardı. Üzerine keşfedebilmesi için önmeyi gidin, bir şey kojuması vardır. Bu da var arkadaşlar.
+[02:00:04] C. Tomzac'ın set farkındalığını artırmak için, öğrencilerini poster hazırlatması, öğrencilerini yaparak yaşayarak öğrenmesi söz konusu olduğu için bu da var.
+[02:00:13] Konuyu toplumsal bağlamından soyutlayarak ilatmasın. Burada soyutlama demek, aslında bir bakımı uzaklaştırma.
+[02:00:23] Yani biraz daha topundan kopuk, biraz daha gün can hayattan uzak meşik değil alması, bu yok arkadaşlar, öğretmenin bunu yapması uygun değildir.
+[02:00:36] oluşturduğu çalışma gruplarıda konuşurumdan
+[02:00:39] konunun tartışması sağlaması,
+[02:00:41] tartışması sağlamakta vardır.
+[02:00:43] O silah,
+[02:00:44] dehzecini, yani
+[02:00:45] toplumsal bağlamdan koparmak
+[02:00:48] huykun değildir arkadaşlar.
+[02:00:50] Burada öğretmenin
+[02:00:52] dehzecini uygulaması
+[02:00:54] huykun değildir.
+[02:00:58] İçiyorum arkadaşlar.
+[02:01:00] Ne durumdayız?
+[02:01:06] Devam edelim mi? Bir iki tane daha bitirin ne dersin? En azından işbirli. Bakayım.
+[02:01:14] İşbirlik öğrenme. Aslında sanki modelleri bitirebiliriz gibi geliyor.
+[02:01:24] Yorulduk çok konu aldan ama bence şu modelleri toparlayalım. Ondan sonra,
+[02:01:30] Eee ona zor bırakamıyorum yöntemlerden. Benim yorulmak
+[02:01:37] da ya da bugünlerde ilginç şekilde ya uzun zamanda konuşmadığım
+[02:01:40] için belki de okulda da şey var. Eee sesimle bir
+[02:01:45] rahatsız yok. Ama o da su içtikçe geçir. Ben ya da devam edelim
+[02:01:49] bitirelim.
+[02:01:53] Hadi ilk beş kişinin yorularına bakacağım. Ona göre devam edici
+[02:01:57] Ben bitirmek taraftarıyım. Bir bitirmektedik.
+[02:02:02] Beş kişiden yorum ekliyorum. Devam edeyim diyorum.
+[02:02:05] Yani konuyu bitirebliyorum. Devam edeyim ben onu.
+[02:02:18] Çok yorulduk diyen arkadaşlar var.
+[02:02:20] Bitir diyenler var.
+[02:02:22] Ders planında zaten buraları göre buraları kadar gelmek vardı hocam. Yani
+[02:02:29] haftaya öylediğin yani 1 planı da şu var. Haftaya öylediği
+[02:02:31] bitirmek var. Burada bıraksakta bittiririz. Ama şu olur
+[02:02:35] hocam. Devam edersek yorum ona göre yapalım. Devam edersek haftaya
+[02:02:39] ölçmeye de giriş yapabiliriz. Diye düşünüyorum.
+[02:02:46] Haftaya bunu bittir, ölçmeye giriş yaparız. Ama bu sefer
+[02:02:49] haftaya da haftaya da dersimiz yoğun olur. Genel yorumların bir çoğu hocam burada bitirelim yorulduk
+[02:02:55] şeklinde. O zaman burada bırakalım eee kaydımı bitireyim ondan sonra devam edelim
+[02:03:04] konuşmaya eee arkadaşlar burada bitiriz teşekkür ediyorum hepinizle bu saatte kadar
+[02:03:11] dinlediğiniz için sorularınız olursa ben şimdi kayıt dışı olarak sorularınızı çözmeye
+[02:03:16] ve devam edeceğim.

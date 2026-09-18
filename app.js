@@ -439,6 +439,14 @@ class EKYSApp {
             badge: '20 Soru Video Test'
           },
           {
+            id: 'tarih6_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 6',
+            icon: '📜',
+            desc: 'İlk Türk-İslam Devletleri Teşkilatı, Gulam Sistemi, Hukuk ve Saray (15 Soru).',
+            filterKey: 'tarih6',
+            badge: '15 Soru Video Test'
+          },
+          {
             id: 'inkilap_konu_cat',
             name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
             icon: '🇹🇷',
@@ -458,7 +466,7 @@ class EKYSApp {
             id: 'tarih_tum_karma',
             name: '🏆 Tüm Tarih & İnkılap Tarihi (Büyük Karma)',
             icon: '🎯',
-            desc: 'Genel Tarih 1-4 ve İnkılap Tarihi tüm soru havuzundan karma test.',
+            desc: 'Genel Tarih 1-6 ve İnkılap Tarihi tüm soru havuzundan karma test.',
             filterKey: 'tarih_tum',
             badge: 'Tüm Tarih Karma'
           }
@@ -508,6 +516,14 @@ class EKYSApp {
             desc: 'İlk Türk Devletleri Kültür, Medeniyet, Sanat, Yazıtlar ve Destanlar.',
             filterKey: 'tarih5',
             badge: '20 Soru'
+          },
+          {
+            id: 'tarih6',
+            name: 'Genel Tarih Video Tarama Testi 6',
+            icon: '📜',
+            desc: 'İlk Türk-İslam Devletleri Teşkilatı, Gulam Sistemi, Hukuk ve Saray.',
+            filterKey: 'tarih6',
+            badge: '15 Soru'
           },
           {
             id: 'ekys_2026_tarih',
@@ -2508,7 +2524,8 @@ class EKYSApp {
       if (filterKey === 'tarih3') return (q.testId === 'tarih3' || tId === 'tarih_tarama_3' || (tName.includes('tarama 3') && tName.includes('tarih')));
       if (filterKey === 'tarih4') return (q.testId === 'tarih4' || tId === 'tarih_tarama_4' || (tName.includes('tarama 4') && tName.includes('tarih')));
       if (filterKey === 'tarih5') return (q.testId === 'tarih5' || tId === 'tarih_tarama_5' || (tName.includes('tarama 5') && tName.includes('tarih')));
-      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || tId.startsWith('tarih_tarama'));
+      if (filterKey === 'tarih6') return (q.testId === 'tarih6' || tId === 'tarih_tarama_6' || (tName.includes('tarama 6') && tName.includes('tarih')));
+      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || tId.startsWith('tarih_tarama'));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);

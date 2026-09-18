@@ -1,0 +1,123 @@
+Değerli meslektaşım, Milli Eğitim Bakanlığı Eğitim Kurumlarına Yönetici Seçme Sınavı (EKYS) hazırlığında Genel Kültür Tarih alanı, kavramların net ayrıştırılmasını ve kurumların tarihsel süreklilik içindeki karşılıklarını bilmeyi gerektirir.
+
+ÖSYM, Türk-İslam Kültür ve Medeniyeti konusunda doğrudan kavram eşleştirmelerini, işlev analizlerini ve İslamiyet öncesi–Selçuklu–Osmanlı karşılaştırmalarını sıklıkla yoklar. Ders metninde yer alan tüm kritik başlıklar, sınav odaklı bir pedagojik yaklaşımla aşağıda yapılandırılmıştır.
+
+---
+
+### 1. Taşra Teşkilatı ve İdari Görevliler
+
+Taşra, başkentin (merkezin) dışında kalan tüm ülke topraklarıdır. Selçuklularda idari hiyerarşi **Eyalet $\rightarrow$ Vilayet $\rightarrow$ Kaza $\rightarrow$ Köy** şeklinde yapılandırılmıştır.
+
+* **Melik:** Yönetim tecrübesi kazanması amacıyla eyaletlere vali olarak atanan **hanedan üyesi şehzadelerdir**.
+* **Şıhne (Şehne):** Hanedan dışından gelen, özellikle gulam sistemiyle yetişmiş **asker kökenli valilerdir**.
+* **Atabey:** Melikleri devlet idaresinde eğiten, tecrübeli devlet adamlarıdır.
+* **İmid (Âmit):** Taşrada sivil ve mülki idareden sorumlu en üst düzey yöneticidir (günümüz kaymakamı/valisi dengi).
+* **Âmil:** Taşrada doğrudan devlet adına mali işleri yürüten ve **vergileri toplayan** görevlidir.
+* **Kadı:** Taşradaki şeri yargı, noterlik ve vakıf denetiminden sorumlu adalet görevlisidir.
+* **Subaşı:** Taşra merkezlerinde kamu düzeni ve asayişten sorumlu kolluk amiridir.
+* **Sahib-i Şurta:** Özellikle kırsal bölgelerde güvenliği sağlayan kolluk kuvvetidir (günümüz jandarma muadili).
+* **İdişbaşı (Reis):** Yerel belediye işlerini koordine eden görevlidir. *(Sarayda içeceklerden sorumlu "İdişçibaşı" ile karıştırılmamalıdır).*
+* **Muhtesip:** Çarşı ve pazar denetimini yapan; tartı, ölçü aletleri, mal kalitesi ve narh (fiyat) kurallarını kontrol eden zabıta niteliğindeki görevlidir.
+* **Ulak:** Haberleşme ve posta ağından sorumlu devlet görevlisidir.
+
+| Dönem / Medeniyet | Şehzade / Melik Eğitmeni |
+| --- | --- |
+| **İslamiyet Öncesi Türk Devletleri** | İnal / İnanç / Ataman |
+| **Büyük Selçuklu Devleti** | Atabey |
+| **Osmanlı Devleti** | Lala |
+
+---
+
+### 2. Ordu Teşkilatı
+
+Selçuklu ordusu temelde **Merkez Ordusu** ve **Eyalet Ordusu** olarak iki ana gövdeden oluşur:
+
+**Merkez Ordusu**
+
+* **Hassa Ordusu:** Doğrudan sultana bağlı, başkenti koruyan seçkin **Türk atlı birlikleridir**. Geçimleri tahsis edilen iktalardan veya doğrudan hazineden sağlanır.
+* **Gulamân-ı Saray:** Farklı etnik kökenlerden küçük yaşta alınıp *Gulamhâne* bünyesinde eğitilen saray muhafızlarıdır. Üç ayda bir hazineden **bistegâni** adı verilen düzenli maaş alırlar. Doğrudan Osmanlı'daki **Kapıkulu/Devşirme** sisteminin temelidir.
+
+**Eyalet Ordusu**
+
+* **İkta Askerleri (Sipâhiyân):** Ordunun **asli ve en kalabalık vurucu gücüdür**. Devlet hazinesine yük olmadan, ikta sahiplerinin topladığı tarımsal vergilerle donatılan tamamı Türkmen ve atlı birliklerdir. Osmanlı'daki karşılığı **Cebelü**dür.
+* **Türkmenler (Uç Kuvvetleri):** Sınır boylarında konuşlanan, keşif, istihbarat ve yıpratma savaşları yürüten öncü akıncı birlikleridir.
+* **Bağlı Beylik ve Devlet Askerleri:** Savaş zamanı sefere çağrılan yardımcı kuvvetlerdir.
+* **Önemli Unvanlar:** Ordu komutanına **Emirü’l-Ümerâ**, donanma komutanına ise **Emîr-i Sevâhil** veya **Reisü’l-Bahr** denir. *(Not: Donanma teşkilatlanması Büyük Selçuklu'da değil, Anadolu Selçuklu Devleti'nde mevcuttur).*
+
+---
+
+### 3. Hukuk Sistemi ve Yargı Mekanizması
+
+İslamiyet’in kabulüyle birlikte hukukta ikilik meydana gelmiş, sözlü Türk töresinin yanına İslami prensipler eklenmiştir:
+
+* **Şeri Hukuk:** Kaynağını Kur’an, sünnet, icma ve kıyastan alır. Miras, evlenme, boşanma, nafaka ve şahıslar arası borç-alacak ilişkilerine bakar. Yargılamayı **Kadı**, kadıların atama ve denetimini ise başkadı olan **Kâdı’l-Kudât** yürütür.
+* **Örfi Hukuk:** Kaynağını Türk töresi, divan kararları ve sultanın ferman/beratlarından alır. Asayiş, vergi düzeni ve devlete karşı işlenen suçları kapsar. Başında **Emîr-i Dâd** (Adalet Bakanı dengi) bulunur.
+* **Askeri Hukuk:** Ordu mensuplarının davalarına **Kadıasker (Kadı-ı Leşker)** bakar.
+* **Dîvân-ı Mezâlim:** Hükümdarın bizzat başkanlık ettiği yüksek yargı organıdır. Ağır siyasi suçlar, yöneticilerin halka yönelik haksızlıkları ve kadı kararlarına yapılan üst düzey itirazlar burada karara bağlanır.
+
+---
+
+### 4. Sosyal Yapı ve Toprak Sistemi
+
+Toplum; yönetenler (**Berâyâ**) ve yönetilen vergi mükellefleri (**Reâyâ**) olmak üzere ikiye ayrılır. Sınıf ayrımı (kast) yoktur; şartları sağlayan bir reâyâ mensubu devlet hizmetine girerek yöneten sınıfına geçebilir (**dikey hareketlilik**). Gayrimüslim tebaa ise canı ve malı devlet güvencesinde olan **zımmî** statüsündedir.
+
+Toprak mülkiyeti, feodalleşmeyi önlemek ve merkezi otoriteyi korumak adına büyük oranda devlete aittir:
+
+```
+                          TOPRAK YÖNETİMİ
+                                 |
+         +-----------------------+-----------------------+
+         |                                               |
+   MÎRÎ TOPRAKLAR                                 MÜLK TOPRAKLAR
+  (Devlet Mülkiyeti)                             (Şahıs Mülkiyeti)
+         |                                               |
+         +-- Has (Hükümdar ve ailesine)                  +-- Öşrî (Müslüman mülkü, %10 vergi)
+         +-- Vakıf (Hayır/sosyal hizmet arazisi)         +-- Harâcî (Gayrimüslim mülkü, %20 vergi)
+         +-- İkta (Maaş/asker karşılığı hizmete)
+
+```
+
+* **Vakıf Arazisi (Mevkuf):** Geliri cami, medrese, bimarhane gibi sosyal ve dini kurumların idamesine ayrılan topraktır; alınıp satılamaz, devredilemez. Vakıf şartnamesine **vakfiye**, yönetici kuruluna **mütevelli** denir. Tescili ve denetimi kadı tarafından yapılır.
+* **İkta Sistemi:** Üretimde sürekliliği sağlar, taşra güvenliğini bedelsiz tesis eder ve hazineden doğrudan nakit çıkışı olmadan büyük bir ordu kurulmasını mümkün kılar. Üst üste mazeretsiz toprağı işlemeyenden üretim güvenliğini korumak adına yaptırım uygulanır.
+
+---
+
+### 5. Ekonomik Yapı, Ticaret ve Ahilik Teşkilatı
+
+* **Ticaretin Teşviki:** Gümrük vergileri düşürülmüş, kervan yolları üzerine kervansaraylar inşa edilmiş ve tüccarların güvenliği devlet teminatına alınmıştır. Şehir dışındaki korunaklı büyük konaklama yapılarına **kervansaray** (Karahanlılardaki askeri/ticari ilk örneklerine **ribat**), şehir içindeki konaklama ve ticaret merkezlerine **han** denir.
+* **Pazar Tipleri:**
+* **Kapan:** Belirli bir cins gıda veya hammaddenin (un, yağ, pamuk, tütün) toptan getirildiği ve dağıtımının yapıldığı toptancı halleridir.
+* **Arasta:** Aynı meslek grubundan esnafın dükkânlarının sağlı sollu sıralandığı perakende ticaret çarşılarıdır (Bakırcılar Arastası, Kuyumcular Arastası vb.).
+
+
+* **Ahi Teşkilatı:** Abbasilerdeki Fütüvvet anlayışının Anadolu Selçuklu'daki yansımasıdır. Kurucusu Kırşehir merkezli **Ahi Evran**'dır; felsefesi *Letâif-i Hikmet* eserinde özetlenir.
+* Yalnızca **Müslüman** esnaf kabul edilir (Osmanlı'daki Lonca teşkilatında gayrimüslimler de yer alır).
+* Mesleki eğitim verir, başarı gösterene ustalık belgesi (**icazet**) tahsis eder.
+* Fiyatları belirleyip haksız rekabeti ve enflasyonu önleyen sabit fiyat sistemini (**Narh sistemi**) uygular. Siyasi ve askeri bir örgütlenme değildir; sosyal, iktisadi ve ahlaki bir yapıdır.
+
+
+
+**Vergi Düzeni:**
+
+* **Şeri Vergiler:**
+* *Öşür:* Müslüman üreticiden alınan 1/10 oranındaki ürün vergisi.
+* *Haraç:* Gayrimüslim üreticiden alınan 1/5 (veya 2/10) oranındaki ürün vergisi.
+* *Cizye:* Gayrimüslimlerin askerlik çağına gelmiş, sağlıklı ve gelir sahibi erkeklerinden güvenlik ve askerlik muafiyeti karşılığı alınan baş vergisidir (Kadınlardan, çocuklardan, din adamlarından ve yoksullardan alınmaz).
+
+
+* **Örfi Vergiler:** Sultanın fermanı ve divan kararıyla olağanüstü veya yerel ihtiyaçlar doğrultusunda konulan tekâlif/resim kalemleridir.
+
+---
+
+### Sınavda Çeldirici Olabilecek Kritik Eşleştirmeler
+
+* **Sistem Karşılaştırması:**
+* Gulam sistemini ilk başlatan: **Karahanlılar** $\rightarrow$ Esaslı uygulayan: **Gazneliler** $\rightarrow$ Osmanlı karşılığı: **Devşirme**.
+* İkta sistemini ilk uygulayan Türk devleti: **Büyük Selçuklu Devleti** $\rightarrow$ Osmanlı karşılığı: **Tımar / Dirlik**.
+
+
+* **İsim Benzerlikleri:**
+* *İdişçi Başı:* Sarayda hükümdarın içeceklerinden sorumlu iç kiler görevlisi.
+* *İdiş Başı:* Taşrada yerel belediye hizmetlerinden sorumlu idareci.
+* *Âmit:* Mülki/idari yönetici $\leftrightarrow$ *Âmil:* Maliye ve vergi sorumlusu.
+* *Kâdı’l-Kudât:* Şeri yargının başı $\leftrightarrow$ *Emîr-i Dâd:* Örfi yargının başı.

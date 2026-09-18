@@ -51995,5 +51995,560 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Tezhip)<br><br>📌 <strong>Konu ve Çözüm Analizi:</strong><br><strong>Tezhip</strong>, İslamiyet'le birlikte ortaya çıkan Kur'an-ı Kerim ve yazma eserleri altın tozu ve boyalarla bezeme sanatıdır. İslamiyet öncesi Orta Asya Türklerinde tezhip sanatı bulunmaz.<br><br>🔍 <strong>Diğer Sanat Dalları:</strong><br>• <strong>Dokuma:</strong> Halı, kilim ve kumaş dokumacılığı Türklerin en eski sanatıdır.<br>• <strong>Mimari:</strong> Uygurlarla birlikte saray, tapınak ve kent mimarisi gelişmiştir.<br>• <strong>Resim:</strong> Uygur freskleri ve ressamları (bedizci) mevcuttur.<br>• <strong>Debbaklık:</strong> Hayvancılığa bağlı olarak deri işleme ve tabaklama sanatıdır."
-  }
+  },
+  {
+      "id": "tarih6-q1",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 1,
+      "questionText": "İlk Türk-İslam devletlerinde devletin iç ve dış yazışmalarından sorumlu olan divanın başında aşağıdakilerden hangisi bulunur?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Müstevfi"
+        },
+        {
+          "key": "B",
+          "text": "Emir-i arz"
+        },
+        {
+          "key": "C",
+          "text": "Tuğrai"
+        },
+        {
+          "key": "D",
+          "text": "Müşrif"
+        },
+        {
+          "key": "E",
+          "text": "Camedar"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Doğru Cevap: <strong>C</strong> (Tuğrai)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>İlk Türk-İslam devletlerinde (Karahanlı, Gazneli, Büyük Selçuklu) devletin iç ve dış yazışmalarını yürüten, ferman, berat ve menşurlara sultanın tuğrasını çeken kurum <strong>Divan-ı Tuğra (Divan-ı İnşa / Divan-ı Resail)</strong>'dır. Bu divanın başındaki en yetkili devlet adamına <strong>Tuğrai</strong> (veya Münşi) adı verilir.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Müstevfi:</strong> Devletin mali işlerinden, gelir-gider hesaplarından sorumlu olan <em>Divan-ı İstifa</em>'nın başkanıdır.<br>• <strong>B) Emir-i arz:</strong> Ordunun teftişi, mevcudu, silahlandırılması ve maaşlarından sorumlu olan <em>Divan-ı Arz</em>'ın başkanıdır.<br>• <strong>D) Müşrif:</strong> Devletin idari ve mali mekanizmasını denetleyen teftiş kurumu olan <em>Divan-ı İşraf</em>'ın başkanıdır.<br>• <strong>E) Camedar:</strong> Hükümdarın elbiselerinden ve giyiminden sorumlu saray görevlisidir; divan başkanı değil saray teşkilatı mensubudur.<br><br>💡 <strong>EKYS Sınav Püf Noktası:</strong> Yazışma = Tuğra/İnşa (Tuğrai), Maliye = İstifa (Müstevfi), Askerlik = Arz (Emir-i Arz), Denetim = İşraf (Müşrif)."
+    },
+    {
+      "id": "tarih6-q2",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 2,
+      "questionText": "Türk hükümdarlarının alametleri arasında yer alan \"nevbet\" kavramının anlamı aşağıdakilerden hangisidir?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Bayrak"
+        },
+        {
+          "key": "B",
+          "text": "Elbise"
+        },
+        {
+          "key": "C",
+          "text": "Davul"
+        },
+        {
+          "key": "D",
+          "text": "Çadır"
+        },
+        {
+          "key": "E",
+          "text": "Para"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Doğru Cevap: <strong>C</strong> (Davul)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Nevbet</strong>, İslamiyet öncesinden itibaren Türk devletlerinde hükümdarlık ve bağımsızlık alameti olarak kabul edilen, saray kapısında veya otağ önünde namaz vakitlerinde ve törenlerde çalınan <strong>hükümdarlık davulu / bando müziği</strong> geleneğidir. Osmanlı'daki mehter takımının tarihsel kökenini oluşturur.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Bayrak / Sancak:</strong> Hükümdarlık sembolü olarak <em>Alem, Tuğ veya Sancak</em> olarak adlandırılır.<br>• <strong>B) Elbise:</strong> Halifenin hükümdara gönderdiği resmi giysi/kaftan <em>Tıraz</em> veya <em>Hilat</em> olarak bilinir.<br>• <strong>D) Çadır:</strong> Hükümdarın resmi çadırı <em>Otağ</em>'dır.<br>• <strong>E) Para:</strong> Hükümdar adına bastırılan madeni para <em>Sikke</em>'dir.<br><br>💡 <strong>EKYS Sınav Notu:</strong> Hükümdarlık sembolleri arasında Nevbet (davul), Sikke (para), Otağ (çadır), Tuğ/Sancak (bayrak), Çetr (saltanat şemsiyesi), Hutbe ve Hilat en çok sorulan kavramlardır."
+    },
+    {
+      "id": "tarih6-q3",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 3,
+      "questionText": "Aşağıdaki kavramlardan hangisinin açıklaması yanlış verilmiştir?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Hutbe: Cuma ve bayram namazları esnasında hükümdarın adının unvan ve lakaplarının hatip tarafından zikredilerek kendisine dua edilmesidir."
+        },
+        {
+          "key": "B",
+          "text": "Tıraz: Abbasi halifesinin hükümdara gönderdiği elbisedir."
+        },
+        {
+          "key": "C",
+          "text": "Hilat: Halife tarafından tırazla birlikte gönderilen hediyelik eşyalardır."
+        },
+        {
+          "key": "D",
+          "text": "Emir-i Arz: Askerî işlerden sorumlu görevlidir."
+        },
+        {
+          "key": "E",
+          "text": "Alemdar: Hükümdarın temizlik işlerinden sorumludur."
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": "Doğru Cevap: <strong>E</strong> (Alemdar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Alemdar</strong>; törenlerde, resmigeçitlerde ve savaş meydanında hükümdarın ve devletin sancağını, bayrağını (alem) taşımak ve korumakla görevli muhafızdır. Hükümdarın temizlik işlerinden, el ve ayak yıkama suyundan, leğen ve ibrik hizmetinden sorumlu olan saray görevlisi ise <strong>Taştdar</strong> (veya Abdar)'dır. Bu nedenle E şıkkındaki açıklama yanlıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik İncelemesi (Doğru Tanımlar):</strong><br>• <strong>A) Hutbe:</strong> İslamiyet ile birlikte gelen en mühim bağımsızlık alametidir; hükümdarın adı hatipçe dualarla anılır.<br>• <strong>B) Tıraz:</strong> Halifenin hükümdarın meşruiyetini tanımak üzere gönderdiği, üzerinde ayet veya hükümdar unvanı işlenmiş resmi hilattir/elbisedir.<br>• <strong>C) Hilat:</strong> Halife tarafından hükümdara gönderilen kaftan, kılıç, külah, at ve hediyeler takımıdır.<br>• <strong>D) Emir-i Arz:</strong> Divan-ı Arz'ın başkanı olup ordunun ihtiyaçları ve askerî işlerle yetkilidir."
+    },
+    {
+      "id": "tarih6-q4",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 4,
+      "questionText": "Türk-İslam devletlerinde saray ile divan arasında ilişkileri düzenleyen görevli aşağıdakilerden hangisidir?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Camedar"
+        },
+        {
+          "key": "B",
+          "text": "Hacibülhüccap"
+        },
+        {
+          "key": "C",
+          "text": "Serhenk"
+        },
+        {
+          "key": "D",
+          "text": "Emir-i şikâr"
+        },
+        {
+          "key": "E",
+          "text": "Çaşnigir"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Doğru Cevap: <strong>B</strong> (Hacibülhüccap)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Hacibü'l-Hüccab</strong> (Büyük Hacip / Ulu Hacip / Karahanlılarda Tayangu); saray teşkilatının en yetkili ve güvenilir amiridir. Hükümdar ile halk, divan üyeleri, vezirler ve yabancı elçiler arasındaki görüşmeleri, kabul protokolünü ve ilişkileri organize eder; saray nizamını ve teşrifat kurallarını denetler.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Camedar:</strong> Hükümdarın elbiselerinden sorumlu saray görevlisidir.<br>• <strong>C) Serhenk:</strong> Seferde ve törenlerde hükümdarın yolunu açan, alayları düzenleyen çavuş/koruma amiridir.<br>• <strong>D) Emir-i şikâr:</strong> Hükümdarın av partilerini ve av hayvanlarını düzenleyen görevlidir.<br>• <strong>E) Çaşnigir:</strong> Hükümdarın yiyeceklerinden ve sofra hizmetinden sorumlu baş tadımcıdır."
+    },
+    {
+      "id": "tarih6-q5",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 5,
+      "questionText": "Aşağıdaki kavram açıklama eşleştirmelerinden hangisi yanlıştır?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Emir-i şikâr – Yiyecek işlerine bakar"
+        },
+        {
+          "key": "B",
+          "text": "Hace-i buzug – Gaznelilerde vezirlere verilen ad"
+        },
+        {
+          "key": "C",
+          "text": "Emir-i ahur – Atlardan sorumlu"
+        },
+        {
+          "key": "D",
+          "text": "Camedar – Hükümdar elbiselerinden sorumlu"
+        },
+        {
+          "key": "E",
+          "text": "Vekil-i has – Sarayla ilgili tüm işlere bakan sorumlu"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Doğru Cevap: <strong>A</strong> (Emir-i şikâr – Yiyecek işlerine bakar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Emir-i Şikâr</strong>, hükümdarın av seferlerini, av kuşlarını ve köpeklerini organize eden görevlidir. Sarayın yiyecek, sofra ve mutfak işlerine bakan görevli ise <strong>Çaşnigir</strong> (veya Hansalar)'dır. Bu sebeple A şıkkındaki eşleştirme yanlıştır.<br><br>🔍 <strong>Doğru Eşleştirmelerin Pedagojik Açıklaması:</strong><br>• <strong>B) Hace-i Buzurg:</strong> Gazneli Devleti'nde hükümdardan sonra gelen en yetkili yönetici olan büyük vezire verilen unvandır.<br>• <strong>C) Emir-i Ahur (İlbaşı):</strong> Saray ahırlarından, hükümdarın ve saray erkanının atlarının bakımından sorumlu görevlidir.<br>• <strong>D) Camedar:</strong> Hükümdarın elbiselerinin dikimi, bakımı ve muhafazasından sorumlu görevlidir.<br>• <strong>E) Vekil-i Has:</strong> Sarayın iç idaresini yürüten, saray masraflarını ve personelini denetleyen üst düzey saray nazırıdır."
+    },
+    {
+      "id": "tarih6-q6",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 6,
+      "questionText": "Aşağıdakilerden hangisi Türklerin İslamiyet’e geçişiyle elde edilen kazanımlar arasında yer almaz?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Divan örgütü"
+        },
+        {
+          "key": "B",
+          "text": "İkta Sistemi"
+        },
+        {
+          "key": "C",
+          "text": "Vakıf kurumu"
+        },
+        {
+          "key": "D",
+          "text": "Şeri hukuk"
+        },
+        {
+          "key": "E",
+          "text": "İkili teşkilat"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": "Doğru Cevap: <strong>E</strong> (İkili teşkilat)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>İkili teşkilat</strong> (devletin Doğu-Batı veya Sağ-Sol şeklinde iki kanat halinde idare edilmesi), İslamiyet öncesi eski Orta Asya Türk devletlerinden (Asya Hunları, Kök Türkler) beri uygulanan geleneksel bir Türk devlet yönetimi biçimidir. İslamiyet ile kazanılmış bir kurum olmayıp kökeni İslam öncesi Türk töresine dayanır.<br><br>🔍 <strong>Türklerin İslamiyet'e Geçişiyle Hayatımıza Giren Kurumlar:</strong><br>• <strong>A) Divan örgütü:</strong> Abbasi ve Sasani modellerinden etkilenilerek kurulan merkezi hükümet ve bakanlıklar teşkilatıdır.<br>• <strong>B) İkta sistemi:</strong> Toprak mülkiyetinin devlete ait olup gelirlerinin hizmet ve asker besleme karşılığı memur ve komutanlara tahsis edildiği İslami sistemdir.<br>• <strong>C) Vakıf kurumu:</strong> Sosyal yardımlaşma, medrese, kervansaray ve şifahane yapımını finanse eden dini-sosyal kurumdur.<br>• <strong>D) Şeri hukuk:</strong> İslamiyet'in kabulüyle hukuk sistemine dahil olan, Kuran, sünnet, icma ve kıyasa dayalı dini hukuk dalıdır."
+    },
+    {
+      "id": "tarih6-q7",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 7,
+      "questionText": "Aşağıdakilerden hangisi Türk-İslam devletlerinde hükümdarlık sembolleri arasında yer almaz?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Hutbe"
+        },
+        {
+          "key": "B",
+          "text": "Tıraz"
+        },
+        {
+          "key": "C",
+          "text": "Para bastırmak"
+        },
+        {
+          "key": "D",
+          "text": "Ulufe"
+        },
+        {
+          "key": "E",
+          "text": "Nevbet"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Doğru Cevap: <strong>D</strong> (Ulufe)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Ulufe</strong> bir hükümdarlık alameti/sembolü değildir; Türk-İslam devletlerinde ve Osmanlı'da saray muhafızlarına, hassa ordusuna (kapıkulu askerlerine) üç ayda bir ödenen <strong>düzenli maaş</strong>ın adıdır.<br><br>🔍 <strong>Hükümdarlık Sembollerinin Analizi:</strong><br>• <strong>A) Hutbe:</strong> Cuma namazlarında hükümdarın adının ve unvanlarının okunması meşruiyet ve bağımsızlık ilanıdır.<br>• <strong>B) Tıraz:</strong> Halifenin hükümdara saltanatını onayladığını göstermek için gönderdiği özel işlemeli hilat/elbisedir.<br>• <strong>C) Para bastırmak (Sikke):</strong> Hükümdarın egemenliğini gösteren en somut iktisadi ve siyasi belgedir.<br>• <strong>E) Nevbet:</strong> Hükümdarın sarayında ve otağı önünde çalınan saltanat davuludur.<br>• <em>Diğer semboller:</em> Otağ, sancak, tuğ, çetr (şemsiye), menşur (halife onay belgesi), kemer (kur) ve yüzük."
+    },
+    {
+      "id": "tarih6-q8",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 8,
+      "questionText": "Selçuklularda uygulanan Gulam sisteminde ağırlıklı olarak hangi etnik kökenden gelen çocuklar kullanılmıştır?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Arap"
+        },
+        {
+          "key": "B",
+          "text": "İranlı (Fars)"
+        },
+        {
+          "key": "C",
+          "text": "Oğuz"
+        },
+        {
+          "key": "D",
+          "text": "Moğol"
+        },
+        {
+          "key": "E",
+          "text": "Hintli"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Doğru Cevap: <strong>B</strong> (İranlı / Fars)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Büyük Selçuklu Devleti İran coğrafyasında kurulup teşkilatlandığı için devlet bürokrasisinde, divan teşkilatında ve gulamhanelerde yetişen unsurlarda ağırlıklı olarak <strong>İranlı (Fars)</strong> kökenli çocuklar ve bölgedeki savaş esirleri kullanılmıştır. Bu durum Selçuklu saray ve edebiyat dilinin Farsça olmasında da belirleyici bir rol oynamıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>C) Oğuz:</strong> Oğuzlar devletin asli kurucu Türkmen unsurudur; gulam (kul/köle) statüsünde değil, ordu omurgası ve aşiret kuvvetleri olarak yer almışlardır.<br>• <strong>A, D, E) Arap, Moğol, Hintli:</strong> Selçuklu gulam sisteminin ana etnik insan kaynağını oluşturmazlar.<br><br>💡 <strong>EKYS Sınav Notu:</strong> Gulam sistemi; Karahanlı, Gazneli ve Selçuklularda uygulanmış; Osmanlı Devleti'ndeki Devşirme ve Kapıkulu sisteminin temel ilham kaynağı olmuştur."
+    },
+    {
+      "id": "tarih6-q9",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 9,
+      "questionText": "Gulamhanelerde eğitim gören çocuklardan yetenekli ve zeki olanlar hangi görevlerde kullanılmıştır?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Çiftçi ve tüccar"
+        },
+        {
+          "key": "B",
+          "text": "Kadı ve müderris"
+        },
+        {
+          "key": "C",
+          "text": "Yönetici ve komutan"
+        },
+        {
+          "key": "D",
+          "text": "Elçi ve tercüman"
+        },
+        {
+          "key": "E",
+          "text": "Zanaatkâr ve mimar"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Doğru Cevap: <strong>C</strong> (Yönetici ve komutan)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Gulamhanelerde eğitilen gulamların bir kısmı hükümdarın muhafız ordusu olan <strong>Gulamân-ı Saray</strong> (Hassa Ordusu) askeri olurken; zihni kabiliyeti ve liderlik vasfı yüksek olan seçkin gulamlar özel saray eğitimine tabi tutularak <strong>valilik, vezirlik, emir-i ahurluk, atabeylik ve ordu komutanlığı</strong> gibi en üst düzey idari ve askeri mevkilere getirilmiştir.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Çiftçi ve tüccar:</strong> Üretici halk sınıfıdır (reaya); gulamların serbest ticaret veya tarımla uğraşması söz konusu değildir.<br>• <strong>B) Kadı ve müderris:</strong> Medrese mezunu ilmiye sınıfı mensuplarıdır; şer'i hukuk ve dini ilimler icra ederler, gulam kökenli değillerdir.<br>• <strong>D ve E) Elçi, tercüman, mimar:</strong> Gulam sisteminin temel istihdam ve kariyer hedefi üst düzey ordu komutanlığı ve bürokrasi yöneticiliğidir."
+    },
+    {
+      "id": "tarih6-q10",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 10,
+      "questionText": "Selçukluların Gulam sistemini uygulamasının amaçları arasında aşağıdakilerden hangisi yer alır?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Göçebe yaşam tarzını yaygınlaştırmak"
+        },
+        {
+          "key": "B",
+          "text": "Türkmenlerin bağımsızlığını artırmak"
+        },
+        {
+          "key": "C",
+          "text": "Merkezi otoriteyi güçlendirmek"
+        },
+        {
+          "key": "D",
+          "text": "İkta sistemini ortadan kaldırmak"
+        },
+        {
+          "key": "E",
+          "text": "Abbasi halifesinin siyasi gücünü artırmak"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Doğru Cevap: <strong>C</strong> (Merkezi otoriteyi güçlendirmek)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Gulam sisteminin en temel siyasi gayesi; doğrudan hükümdara sadık, hiçbir aşiret veya boy bağı bulunmayan profesyonel bir saray muhafız ordusu ve bürokrasi kurmaktır. Böylece bağımsız hareket etmek isteyen Türkmen beylerinin ve taht kavgası çıkaran hanedan üyelerinin baskısı kırılarak <strong>merkezi otorite güvence altına alınmıştır</strong>.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A ve B:</strong> Selçuklu yönetimi göçebe Türkmenlerin başına buyruk hareketlerini engellemeye ve onları yerleşik düzene geçirerek merkeze bağlamaya çalışmıştır.<br>• <strong>D:</strong> Gulam sistemi ile ikta sistemi birbirini tamamlayan unsurlardır; ikta sistemini kaldırmak hedeflenmemiştir.<br>• <strong>E:</strong> Selçuklu sultanları halifeyi siyasi otorite olarak değil, dini bir sembol olarak kendi korumaları altında tutmuşlardır; halifenin siyasi gücünü artırmak amaçlanmamıştır."
+    },
+    {
+      "id": "tarih6-q11",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 11,
+      "questionText": "Gulam sisteminin Selçuklu Devleti üzerindeki kültürel etkisi aşağıdakilerden hangisidir?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Arap kültürünün tamamen ortadan kalkması"
+        },
+        {
+          "key": "B",
+          "text": "Bizans kültürünün yaygınlaşması"
+        },
+        {
+          "key": "C",
+          "text": "Farsça ve Fars kültürünün etkisinin artması"
+        },
+        {
+          "key": "D",
+          "text": "Türkçenin resmî dil hâline gelmesi"
+        },
+        {
+          "key": "E",
+          "text": "Çin sanatının yaygınlaşması"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Doğru Cevap: <strong>C</strong> (Farsça ve Fars kültürünün etkisinin artması)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Selçuklularda gulamların önemli bir kısmının İran kökenli unsurlardan seçilmesi, vezirlerin (Nizamülmülk gibi) Fars kökenli olması ve devlet bürokrasisinin İran topraklarında şekillenmesi; <strong>sarayda, yazışmalarda ve edebiyatta Farsça ve Fars kültürünün etkisinin belirgin şekilde artmasına</strong> yol açmıştır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A:</strong> Arapça din, ilim ve medrese dili olarak etkinliğini daima korumuştur.<br>• <strong>B:</strong> Bizans kültürü Anadolu'da kısmi mimari etkiler gösterse de Selçuklu gulam sisteminin kültürel sonucu değildir.<br>• <strong>D:</strong> Selçuklularda resmi dil Farsça olmuştur; Türkçeyi resmi dil ilan eden devlet Karamanoğulları (1277) ve Memlüklerdir.<br>• <strong>E:</strong> Çin sanatı İslamiyet öncesi Orta Asya Türk kültüründe etkilidir; Selçuklu dönemiyle ilgisi yoktur."
+    },
+    {
+      "id": "tarih6-q12",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 12,
+      "questionText": "Türk-İslam devletlerinde örfi davalara bakmakla görevli devlet görevlisi aşağıdakilerden hangisidir?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Kadı"
+        },
+        {
+          "key": "B",
+          "text": "Kadılkudat"
+        },
+        {
+          "key": "C",
+          "text": "Kadıasker"
+        },
+        {
+          "key": "D",
+          "text": "Emir-i Dâd"
+        },
+        {
+          "key": "E",
+          "text": "Hacip"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Doğru Cevap: <strong>D</strong> (Emir-i Dâd)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Türk-İslam devletlerinde hukuk; <em>Şer'i</em> ve <em>Örfi</em> olmak üzere ikiye ayrılır. Gelenek, görenek, töre, ferman ve devlet nizamına dayalı <strong>örfi mahkemelerin başkanı Emir-i Dâd (Dâdbek)</strong>'tır. Emir-i Dâd, devlet güvenliğini bozanları, asileri ve hatta gerekirse divan üyelerini dahi yargılama salahiyetine sahipti.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Kadı:</strong> Kuran ve sünnete dayalı <em>Şer'i davalara</em> (miras, evlenme, boşanma, ticaret) bakan yerel hakimdir.<br>• <strong>B) Kadılkudat:</strong> Şer'i yargı teşkilatının en üst amiri olan başkadıdır.<br>• <strong>C) Kadıasker (Kazasker):</strong> Ordu mensuplarının ve askerlerin davalarına bakan askeri hakimdir.<br>• <strong>E) Hacip:</strong> Hukuk görevlisi değil, hükümdar ile tebaa arasındaki protokolü yürüten saray yöneticisidir.<br><br>💡 <strong>Altın Kural:</strong> Şer'i Yargı Başkanı = <em>Kadılkudat</em>, Örfi Yargı Başkanı = <em>Emir-i Dâd</em>."
+    },
+    {
+      "id": "tarih6-q13",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 13,
+      "questionText": "Türk-İslam devletlerindeki hukuk görevlileriyle ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Kadı – Örfi davalar"
+        },
+        {
+          "key": "B",
+          "text": "Emir-i Dâd – Şer’i davalar"
+        },
+        {
+          "key": "C",
+          "text": "Kadıasker – Askerî davalar"
+        },
+        {
+          "key": "D",
+          "text": "Kadılkudat – Mali davalar"
+        },
+        {
+          "key": "E",
+          "text": "Hacip – Şer’i davalar"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Doğru Cevap: <strong>C</strong> (Kadıasker – Askerî davalar)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Kadıasker</strong> (Kazasker), sefere çıkan orduda yer alan, askerlerin kendi aralarındaki ihtilafları, miras ve ceza davalarını çözüme kavuşturan <strong>askerî hâkim</strong>dir. C şıkkındaki eşleştirme kesinlikle doğrudur.<br><br>🔍 <strong>Yanlış Eşleştirmelerin Düzeltilmiş Hali:</strong><br>• <strong>A) Kadı:</strong> Örfi davalara değil, <em>Şer’i davalara</em> bakar.<br>• <strong>B) Emir-i Dâd:</strong> Şer’i davalara değil, <em>Örfi davalara</em> bakar.<br>• <strong>D) Kadılkudat:</strong> Mali davalara değil; şer'i yargı sisteminin bütününe başkanlık eden <em>Baş Kadı</em>dır (Maliye Müstevfi'nin işidir).<br>• <strong>E) Hacip:</strong> Hukuk görevlisi olmayıp <em>saray protokolü</em> ve hükümdarla irtibatı sağlayan üst düzey idarecidir."
+    },
+    {
+      "id": "tarih6-q14",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 14,
+      "questionText": "Türk-İslam devletlerinde hükümdarın başkanlık ettiği ve ağır siyasi suçlarla devlet görevlileri hakkındaki şikâyetlerin görüldüğü üst mahkeme aşağıdakilerden hangisidir?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Divan-ı İşraf"
+        },
+        {
+          "key": "B",
+          "text": "Divan-ı İnşa"
+        },
+        {
+          "key": "C",
+          "text": "Divan-ı İstifa"
+        },
+        {
+          "key": "D",
+          "text": "Divan-ı Arz"
+        },
+        {
+          "key": "E",
+          "text": "Divan-ı Mezalim"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": "Doğru Cevap: <strong>E</strong> (Divan-ı Mezalim)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br><strong>Divan-ı Mezalim</strong>; bizzat hükümdarın (veya onun görevlendirdiği yüksek vekilin) başkanlık ettiği, Türk-İslam devletlerindeki en yüksek yargı ve temyiz organıdır. Kadıların kararlarına yapılan itirazlar, haksızlığa ve zulme uğrayan halkın şikayetleri, rüşvet alan veya görevi kötüye kullanan valiler/memurlar ile devlete isyan gibi ağır siyasi suçlar burada karara bağlanır.<br><br>🔍 <strong>Çeldiricilerin Pedagojik Analizi:</strong><br>• <strong>A) Divan-ı İşraf:</strong> Devletin idari ve mali hesaplarını teftiş eden denetim kuruludur (Başkanı: <em>Müşrif</em>).<br>• <strong>B) Divan-ı İnşa (Tuğra):</strong> Devletin iç ve dış yazışmalarından sorumludur (Başkanı: <em>Tuğrai</em>).<br>• <strong>C) Divan-ı İstifa:</strong> Devletin genel bütçe, gelir-gider ve vergi işlerine bakar (Başkanı: <em>Müstevfi</em>).<br>• <strong>D) Divan-ı Arz:</strong> Ordunun silah, teçhizat ve maaş işlerine bakar (Başkanı: <em>Emir-i Arz</em>)."
+    },
+    {
+      "id": "tarih6-q15",
+      "testId": "tarih6",
+      "testTitle": "Genel Tarih Video Tarama Testi 6",
+      "topicId": "tarih_tarama_6",
+      "topicName": "Genel Tarih Video Tarama 6",
+      "category": "Genel Kültür - Tarih",
+      "icon": "📜",
+      "questionNumber": 15,
+      "questionText": "Türk-İslam devletlerindeki hukuk sistemi hakkında;\nI. Şer’i ve örfi hukuk birlikte uygulanmıştır.\nII. Şer’i davalara kadılar bakmıştır.\nIII. Örfi hukukun temelini töre oluşturmuştur.\nyargılarından hangilerine ulaşılabilir?",
+      "hasImage": false,
+      "image": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Yalnız I"
+        },
+        {
+          "key": "B",
+          "text": "Yalnız II"
+        },
+        {
+          "key": "C",
+          "text": "I ve II"
+        },
+        {
+          "key": "D",
+          "text": "II ve III"
+        },
+        {
+          "key": "E",
+          "text": "I, II ve III"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Tarihsel Bilgi ve Çözüm Analizi:</strong><br>Verilen öncüllerin her üçü de Türk-İslam hukukunun temel esaslarını tam olarak yansıtmaktadır:<br>• <strong>I. Öncül Doğrudur:</strong> Hukuk sistemi ikili bir yapıya sahiptir. Dini meselelerde Şer'i hukuk, devlet idaresi ve geleneklerde Örfi hukuk birlikte yürütülmüştür. Örfi kurallar şeriat esaslarına aykırı olamazdı.<br>• <strong>II. Öncül Doğrudur:</strong> Aile, miras, borçlar ve ceza davaları gibi şer'i meselelere doğrudan bağımsız <em>kadılar</em> bakmış, kadıların amiri de <em>Kadılkudat</em> olmuştur.<br>• <strong>III. Öncül Doğrudur:</strong> Örfi hukukun temel kaynağı İslamiyet öncesi Orta Asya Türk töresi ile hükümdarların çıkardığı fermanlar, yasalar ve buyruklardır.<br><br>Bu nedenle I, II ve III yargılarının tamamına ulaşılır."
+    }
 ];
