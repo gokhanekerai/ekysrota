@@ -678,10 +678,10 @@ class EKYSApp {
             id: 'cogr_tarama_cat',
             name: '🎥 Coğrafya Video Tarama Testleri',
             icon: '🎥',
-            desc: 'Konu Tarama 1, Tarama 2 ve Tarama 3 Video Soru Çözüm Testleri.',
+            desc: 'Konu Tarama 1, 2, 3 ve 4. Ders Video Soru Çözüm Testleri.',
             filterKey: 'cogr_tarama',
             targetSubtopic: 'cogr-tarama-subtopics',
-            badge: '3 Test (60 Soru)'
+            badge: '4 Test (82 Soru)'
           },
           {
             id: 'cogr_cikmis_cat',
@@ -3352,7 +3352,7 @@ class EKYSApp {
     const imgBox = document.getElementById('quiz-image-box');
     const imgEl = document.getElementById('quiz-q-image');
     if ((q.hasImage || q.image) && q.image) {
-      const cacheBust = 'v=129.0';
+      const cacheBust = 'v=130.0';
       const imgSrc = q.image.includes('?') ? q.image : `${q.image}?${cacheBust}`;
       if (imgEl) imgEl.src = imgSrc;
       if (imgBox) imgBox.style.display = 'block';
