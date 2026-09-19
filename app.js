@@ -1014,12 +1014,20 @@ class EKYSApp {
             badge: '20 Soru'
           },
           {
+            id: 'cogr4',
+            name: 'Coğrafya Video Tarama Testi 4',
+            icon: '🏔️',
+            desc: 'Türkiye\'nin Yer Şekilleri, Dağlar, Fay Kuşakları, Karstik Şekiller, Rüzgarlar ve Kıyı Tipleri.',
+            filterKey: 'cogr4',
+            badge: '22 Soru'
+          },
+          {
             id: 'cogr_tarama_tum',
             name: '🌟 Video Tarama Karma Testi',
             icon: '🎯',
-            desc: 'Üç video tarama testinin tüm sorularından oluşan 60 soruluk karma havuz.',
+            desc: 'Dört video tarama testinin tüm sorularından oluşan 82 soruluk karma havuz.',
             filterKey: 'cogr_tarama',
-            badge: '60 Soru'
+            badge: '82 Soru'
           }
         ]
       },
@@ -2523,7 +2531,8 @@ class EKYSApp {
       if (filterKey === 'cogr1') return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
       if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
       if (filterKey === 'cogr3') return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));
-      if (filterKey === 'cogr_tarama') return (q.testId === 'cogr1' || q.testId === 'cogr2' || q.testId === 'cogr3' || tId.startsWith('cogr_tarama'));
+      if (filterKey === 'cogr4') return (q.testId === 'cogr4' || tId === 'cogr_tarama_4' || (tName.includes('tarama 4') && tName.includes('coğrafya')));
+      if (filterKey === 'cogr_tarama') return (q.testId === 'cogr1' || q.testId === 'cogr2' || q.testId === 'cogr3' || q.testId === 'cogr4' || tId.startsWith('cogr_tarama'));
 
       // Münferit Coğrafya Testleri (Örn: cogr_test_22 Tarım, cogr_test_23 Hayvancılık vb.)
       if (filterKey.startsWith('cogr_test_')) {
@@ -3326,7 +3335,7 @@ class EKYSApp {
     const imgBox = document.getElementById('quiz-image-box');
     const imgEl = document.getElementById('quiz-q-image');
     if ((q.hasImage || q.image) && q.image) {
-      const cacheBust = 'v=126.0';
+      const cacheBust = 'v=127.0';
       const imgSrc = q.image.includes('?') ? q.image : `${q.image}?${cacheBust}`;
       if (imgEl) imgEl.src = imgSrc;
       if (imgBox) imgBox.style.display = 'block';
