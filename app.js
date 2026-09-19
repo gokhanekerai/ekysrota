@@ -709,7 +709,7 @@ class EKYSApp {
         items: [
           {
             id: 'cogr_test_22',
-            name: '🌾 Test 22: Tarım',
+            name: '🌾 TEST - 22: Tarım',
             icon: '🌾',
             desc: 'Türkiye\'de Tarımı Etkileyen Faktörler ve Tarım Ürünlerinin Dağılışı.',
             filterKey: 'cogr_test_22',
@@ -717,7 +717,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_23',
-            name: '🐑 Test 23: Hayvancılık',
+            name: '🐑 TEST - 23: Hayvancılık',
             icon: '🐑',
             desc: 'Büyükbaş, Küçükbaş, Kümes Hayvancılığı, Arıcılık ve Balıkçılık.',
             filterKey: 'cogr_test_23',
@@ -725,7 +725,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_24',
-            name: '⛏️ Test 24: Madenler ve Enerji Kaynakları',
+            name: '⛏️ TEST - 24: Madenler ve Enerji Kaynakları',
             icon: '⛏️',
             desc: 'Maden Yatakları, Yenilenebilir ve Tükenebilir Enerji Kaynakları.',
             filterKey: 'cogr_test_24',
@@ -733,7 +733,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_25',
-            name: '🏭 Test 25: Sanayi, Ulaşım ve Turizm',
+            name: '🏭 TEST - 25: Sanayi, Ulaşım ve Turizm',
             icon: '🏭',
             desc: 'Sanayi Tesisleri Kuruluşu, Ulaşım Sistemleri ve Turizm Çeşitleri.',
             filterKey: 'cogr_test_25',
@@ -756,7 +756,7 @@ class EKYSApp {
         items: [
           {
             id: 'cogr_test_2',
-            name: '🏔️ Test 2: Coğrafi Konum ve Yer Şekilleri',
+            name: '🏔️ TEST - 2: Coğrafi Konum ve Yer Şekilleri',
             icon: '🏔️',
             desc: 'Jeolojik Yapı, Dağ Kuşakları ve Ana Jeomorfolojik Özellikler.',
             filterKey: 'cogr_test_2',
@@ -764,7 +764,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_3',
-            name: '🏔️ Test 3: Yer Şekilleri',
+            name: '🏔️ TEST - 3: Yer Şekilleri',
             icon: '🏔️',
             desc: 'Kıvrım, Kırık Dağlar ve Volkanik Oluşumlar.',
             filterKey: 'cogr_test_3',
@@ -772,7 +772,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_5',
-            name: '🏔️ Test 5: Yer Şekilleri',
+            name: '🏔️ TEST - 5: Yer Şekilleri',
             icon: '🏔️',
             desc: 'Yükselti, Engebe ve Dağların Kıyıya Uzanış Sonuçları.',
             filterKey: 'cogr_test_5',
@@ -780,7 +780,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_6',
-            name: '🏔️ Test 6: Yer Şekilleri',
+            name: '🏔️ TEST - 6: Yer Şekilleri',
             icon: '🏔️',
             desc: 'Fay Hatları, Deprem Kuşakları ve Jeolojik Devirler.',
             filterKey: 'cogr_test_6',
@@ -788,7 +788,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_7',
-            name: '🌊 Test 7: Yer Şekilleri ve Dış Kuvvetler',
+            name: '🌊 TEST - 7: Yer Şekilleri ve Dış Kuvvetler',
             icon: '🌊',
             desc: 'Aşınım ve Birikim Süreçleri, Akarsu ve Rüzgâr Şekilleri.',
             filterKey: 'cogr_test_7',
@@ -796,7 +796,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_8',
-            name: '🌊 Test 8: Akarsular',
+            name: '🌊 TEST - 8: Akarsular',
             icon: '🌊',
             desc: 'Akarsu Havzaları, Rejimleri, Açık/Kapalı Havzalar ve Aşınım Şekilleri.',
             filterKey: 'cogr_test_8',
@@ -804,7 +804,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_9',
-            name: '🏞️ Test 9: Platolar',
+            name: '🏞️ TEST - 9: Platolar',
             icon: '🏞️',
             desc: 'Karstik, Volkanik (Lav), Tabaka Düzlüğü ve Aşınım Platoları.',
             filterKey: 'cogr_test_9',
@@ -812,7 +812,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_10',
-            name: '🌾 Test 10: Ovalar',
+            name: '🌾 TEST - 10: Ovalar',
             icon: '🌾',
             desc: 'Delta Ovaları, Tektonik Ovalar ve Karstik Ovalar (Polye).',
             filterKey: 'cogr_test_10',
@@ -820,7 +820,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_11',
-            name: '⛵ Test 11: Göller',
+            name: '⛵ TEST - 11: Göller',
             icon: '⛵',
             desc: 'Tektonik, Volkanik, Karstik, Buzul ve Set Gölleri (Heyelan, Alüvyal, Kıyı set).',
             filterKey: 'cogr_test_11',
@@ -828,7 +828,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_15',
-            name: '💨 Test 15: Dış Kuvvetler - 1',
+            name: '💨 TEST - 15: Dış Kuvvetler',
             icon: '💨',
             desc: 'Rüzgâr, Buzul ve Dalga-Akıntı Aşınım ve Birikim Şekilleri.',
             filterKey: 'cogr_test_15',
@@ -836,7 +836,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_16',
-            name: '💨 Test 16: Dış Kuvvetler - 2',
+            name: '💨 TEST - 16: Dış Kuvvetler - 2',
             icon: '💨',
             desc: 'Kıyı Tipleri, Karstik Aşınım-Birikim ve Yeraltı Suları.',
             filterKey: 'cogr_test_16',
@@ -859,7 +859,7 @@ class EKYSApp {
         items: [
           {
             id: 'cogr_test_17',
-            name: '☀️ Test 17: İklim - 1 (Sıcaklık ve Basınç)',
+            name: '☀️ TEST - 17: İklim - 1',
             icon: '☀️',
             desc: 'Güneş Işınları Açısı, Sıcaklık Dağılışı, İndirgenmiş Sıcaklık ve Basınç.',
             filterKey: 'cogr_test_17',
@@ -867,7 +867,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_18_1',
-            name: '🌧️ Test 18: İklim - 2 (Rüzgârlar ve Yağış)',
+            name: '🌧️ TEST - 18: İklim - 2',
             icon: '🌧️',
             desc: 'Yerel Rüzgârlar, Nem Türleri ve Yağış Oluşum Tipleri.',
             filterKey: 'cogr_test_18_1',
@@ -875,7 +875,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_18_2',
-            name: '🌲 Test 18(3): İklim - 3 & Bitki Örtüsü',
+            name: '🌲 TEST - 18: İklim - 3',
             icon: '🌲',
             desc: 'Akdeniz, Karadeniz, Karasal İklim Tipleri ve Bitki Formasyonları.',
             filterKey: 'cogr_test_18_2',
@@ -898,7 +898,7 @@ class EKYSApp {
         items: [
           {
             id: 'cogr_test_14',
-            name: '🌱 Test 14: Topraklar',
+            name: '🌱 TEST - 14: Topraklar',
             icon: '🌱',
             desc: 'Zonal (Kahverengi, Terra Rossa, Podzol), İntrazonal ve Azonal Topraklar.',
             filterKey: 'cogr_test_14',
@@ -906,7 +906,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_13',
-            name: '⚠️ Test 13: Afetler',
+            name: '⚠️ TEST - 13: Afetler',
             icon: '⚠️',
             desc: 'Deprem, Heyelan, Kütle Hareketleri, Erozyon, Sel, Çığ ve Yangınlar.',
             filterKey: 'cogr_test_13',
@@ -914,7 +914,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_12',
-            name: '🌋 Test 12: Çıkmış Yer Şekilleri & Afetler',
+            name: '🌋 TEST - 12: Çıkmış Yer Şekilleri ve Afetler',
             icon: '🌋',
             desc: 'ÖSYM/MEB Sınavlarında Çıkmış Yer Şekilleri ve Doğal Afet Soruları.',
             filterKey: 'cogr_test_12',
@@ -937,7 +937,7 @@ class EKYSApp {
         items: [
           {
             id: 'cogr_test_19',
-            name: '👥 Test 19: Nüfus - 1',
+            name: '👥 TEST - 19: Nüfus - 1',
             icon: '👥',
             desc: 'Nüfusun Değişimi, Yoğunluğu, Aritmetik-Fizyolojik Yoğunluk ve Sayımlar.',
             filterKey: 'cogr_test_19',
@@ -945,7 +945,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_20',
-            name: '👥 Test 20: Nüfus - 2',
+            name: '👥 TEST - 20: Nüfus - 2',
             icon: '👥',
             desc: 'Nüfus Piramitleri, Yaş Grupları, Cinsiyet Oranı ve Sektörel Dağılım.',
             filterKey: 'cogr_test_20',
@@ -953,7 +953,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_21',
-            name: '🏘️ Test 21: Yerleşme ve Göç',
+            name: '🏘️ TEST - 21: Yerleşme ve Göç',
             icon: '🏘️',
             desc: 'Kır/Kent Yerleşmeleri, Geçici/Kalıcı Köy Altı Yerleşmeleri, İç ve Dış Göçler.',
             filterKey: 'cogr_test_21',
@@ -976,7 +976,7 @@ class EKYSApp {
         items: [
           {
             id: 'cogr_test_1',
-            name: '🧭 Test 1: Coğrafi Konum Soruları',
+            name: '🧭 TEST - 1: Coğrafi Konum Soruları',
             icon: '🧭',
             desc: 'Türkiye\'nin Matematik Konumu, Paraleller, Meridyenler ve Yerel Saat.',
             filterKey: 'cogr_test_1',
@@ -984,7 +984,7 @@ class EKYSApp {
           },
           {
             id: 'cogr_test_4',
-            name: '🧭 Test 4: Coğrafi Konum & Jeopolitik',
+            name: '🧭 TEST - 4: Coğrafi Konum ve Jeopolitik',
             icon: '🧭',
             desc: 'Türkiye\'nin Jeopolitik Konumu, Sınır Kapıları, Boğazlar ve Stratejik Önemi.',
             filterKey: 'cogr_test_4',
@@ -1007,7 +1007,7 @@ class EKYSApp {
         items: [
           {
             id: 'cogr1',
-            name: 'Coğrafya Video Tarama Testi 1',
+            name: '🎥 EKYS Coğrafya Video Tarama 1',
             icon: '🗺️',
             desc: 'Türkiye\'nin Coğrafi Konumu, Sınırları, Enlem-Boylam ve Yerel Saat.',
             filterKey: 'cogr1',
@@ -1015,7 +1015,7 @@ class EKYSApp {
           },
           {
             id: 'cogr2',
-            name: 'Coğrafya Video Tarama Testi 2',
+            name: '🎥 EKYS Coğrafya Video Tarama 2',
             icon: '🏔️',
             desc: 'Türkiye\'nin Yer Şekilleri, Jeolojik Yapı, Dağlar, Ovalar ve Platolar.',
             filterKey: 'cogr2',
@@ -1023,7 +1023,7 @@ class EKYSApp {
           },
           {
             id: 'cogr3',
-            name: 'Coğrafya Video Tarama Testi 3',
+            name: '🎥 EKYS Coğrafya Video Tarama 3',
             icon: '🌍',
             desc: 'Türkiye\'nin İklimi, Bitki Örtüsü, Akarsuları ve Doğal Kaynakları.',
             filterKey: 'cogr3',
@@ -1031,7 +1031,7 @@ class EKYSApp {
           },
           {
             id: 'cogr4',
-            name: 'Coğrafya Video Tarama Testi 4',
+            name: '🎥 4. Ders Video İçi Soruları',
             icon: '🏔️',
             desc: 'Türkiye\'nin Yer Şekilleri, Dağlar, Fay Kuşakları, Karstik Şekiller, Rüzgarlar ve Kıyı Tipleri.',
             filterKey: 'cogr4',
@@ -1054,7 +1054,7 @@ class EKYSApp {
         items: [
           {
             id: 'cogr_test_cikmis_secki',
-            name: '📜 2022-2023 Çıkmış Coğrafya Özel Seçkisi',
+            name: '📜 TEST - Çıkmış Coğrafya 2022-2023',
             icon: '⭐',
             desc: 'ÖSYM Coğrafya Çıkmış Sorularından Derlenen Özel 51 Soruluk Seçki.',
             filterKey: 'cogr_test_cikmis_secki',
@@ -3352,7 +3352,7 @@ class EKYSApp {
     const imgBox = document.getElementById('quiz-image-box');
     const imgEl = document.getElementById('quiz-q-image');
     if ((q.hasImage || q.image) && q.image) {
-      const cacheBust = 'v=130.0';
+      const cacheBust = 'v=131.0';
       const imgSrc = q.image.includes('?') ? q.image : `${q.image}?${cacheBust}`;
       if (imgEl) imgEl.src = imgSrc;
       if (imgBox) imgBox.style.display = 'block';

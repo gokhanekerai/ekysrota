@@ -41,7 +41,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=130.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=131.0').then(reg => {
           reg.update();
         }).catch(err => console.log('SW register failed:', err));
       });
@@ -1181,13 +1181,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=130.0"></script>
-  <script src="data/questions-db.js?v=130.0"></script>
-  <script src="services/storage-service.js?v=130.0"></script>
-  <script src="services/firebase-service.js?v=130.0"></script>
-  <script src="services/pdf-service.js?v=130.0"></script>
-  <script src="services/youtube-service.js?v=130.0"></script>
-  <script src="services/question-generator.js?v=130.0"></script>
-  <script src="app.js?v=130.0"></script>
+  <script src="data/ekys-sample-questions.js?v=131.0"></script>
+  <script src="data/questions-db.js?v=131.0"></script>
+  <script src="services/storage-service.js?v=131.0"></script>
+  <script src="services/firebase-service.js?v=131.0"></script>
+  <script src="services/pdf-service.js?v=131.0"></script>
+  <script src="services/youtube-service.js?v=131.0"></script>
+  <script src="services/question-generator.js?v=131.0"></script>
+  <script src="app.js?v=131.0"></script>
 </body>
 </html>
