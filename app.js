@@ -424,11 +424,11 @@ class EKYSApp {
           },
           {
             id: 'tarih4_direct',
-            name: '📜 Genel Tarih Video Tarama Testi 4',
-            icon: '📜',
-            desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği (20 Soru).',
+            name: '📜 Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti',
+            icon: '🏛️',
+            desc: '4. Ders videosunda çözülen Taşra, Saray, Divanlar, Ordu, Hukuk, İkta ve Ticaret (27 Soru).',
             filterKey: 'tarih4',
-            badge: '20 Soru Video Test'
+            badge: '27 Soru Video Test'
           },
           {
             id: 'tarih5_direct',
@@ -503,11 +503,11 @@ class EKYSApp {
           },
           {
             id: 'tarih4',
-            name: 'Genel Tarih Video Tarama Testi 4',
-            icon: '📜',
-            desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği.',
+            name: 'Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti',
+            icon: '🏛️',
+            desc: '4. Ders videosunda çözülen Taşra, Saray, Divanlar, Ordu, Hukuk, İkta ve Ticaret (27 Soru).',
             filterKey: 'tarih4',
-            badge: '20 Soru'
+            badge: '27 Soru'
           },
           {
             id: 'tarih5',
@@ -3335,7 +3335,7 @@ class EKYSApp {
     const imgBox = document.getElementById('quiz-image-box');
     const imgEl = document.getElementById('quiz-q-image');
     if ((q.hasImage || q.image) && q.image) {
-      const cacheBust = 'v=127.0';
+      const cacheBust = 'v=128.0';
       const imgSrc = q.image.includes('?') ? q.image : `${q.image}?${cacheBust}`;
       if (imgEl) imgEl.src = imgSrc;
       if (imgBox) imgBox.style.display = 'block';
