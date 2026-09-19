@@ -424,10 +424,18 @@ class EKYSApp {
           },
           {
             id: 'tarih4_direct',
-            name: '📜 Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti',
+            name: '📜 Genel Tarih Video Tarama Testi 4',
+            icon: '📜',
+            desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği (20 Soru).',
+            filterKey: 'tarih4',
+            badge: '20 Soru Video Test'
+          },
+          {
+            id: 'tarih_video4_direct',
+            name: '🎥 Genel Tarih 4. Ders: Video İçi Soru Çözümü',
             icon: '🏛️',
             desc: '4. Ders videosunda çözülen Taşra, Saray, Divanlar, Ordu, Hukuk, İkta ve Ticaret (27 Soru).',
-            filterKey: 'tarih4',
+            filterKey: 'tarih_video4',
             badge: '27 Soru Video Test'
           },
           {
@@ -503,10 +511,18 @@ class EKYSApp {
           },
           {
             id: 'tarih4',
-            name: 'Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti',
-            icon: '🏛️',
-            desc: '4. Ders videosunda çözülen Taşra, Saray, Divanlar, Ordu, Hukuk, İkta ve Ticaret (27 Soru).',
+            name: 'Genel Tarih Video Tarama Testi 4',
+            icon: '📜',
+            desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği.',
             filterKey: 'tarih4',
+            badge: '20 Soru'
+          },
+          {
+            id: 'tarih_video4',
+            name: 'Genel Tarih 4. Ders: Video İçi Soru Çözümü',
+            icon: '🏛️',
+            desc: '4. Ders videosunda çözülen Taşra, Saray, Divanlar, Ordu, Hukuk, İkta ve Ticaret.',
+            filterKey: 'tarih_video4',
             badge: '27 Soru'
           },
           {
@@ -2553,7 +2569,8 @@ class EKYSApp {
       if (filterKey === 'tarih4') return (q.testId === 'tarih4' || tId === 'tarih_tarama_4' || (tName.includes('tarama 4') && tName.includes('tarih')));
       if (filterKey === 'tarih5') return (q.testId === 'tarih5' || tId === 'tarih_tarama_5' || (tName.includes('tarama 5') && tName.includes('tarih')));
       if (filterKey === 'tarih6') return (q.testId === 'tarih6' || tId === 'tarih_tarama_6' || (tName.includes('tarama 6') && tName.includes('tarih')));
-      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || tId.startsWith('tarih_tarama'));
+      if (filterKey === 'tarih_video4') return (q.testId === 'tarih_video4' || tId === 'tarih_video4');
+      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama'));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);
@@ -3335,7 +3352,7 @@ class EKYSApp {
     const imgBox = document.getElementById('quiz-image-box');
     const imgEl = document.getElementById('quiz-q-image');
     if ((q.hasImage || q.image) && q.image) {
-      const cacheBust = 'v=128.0';
+      const cacheBust = 'v=129.0';
       const imgSrc = q.image.includes('?') ? q.image : `${q.image}?${cacheBust}`;
       if (imgEl) imgEl.src = imgSrc;
       if (imgBox) imgBox.style.display = 'block';

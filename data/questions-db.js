@@ -47408,7 +47408,747 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "tarih4-q1",
     "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Orta Asya Türk Devletlerinde ülkenin boylardan oluşması ve ikili teşkilat yapısının uygulanmasının aşağıdakilerden hangisine neden olduğu savunulabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tarımda ilerleme sağlamasına"
+      },
+      {
+        "key": "B",
+        "text": "Düzenli ordunun kurulmasına"
+      },
+      {
+        "key": "C",
+        "text": "Avrupa'da fetih faaliyetlerine başlamalarına"
+      },
+      {
+        "key": "D",
+        "text": "Merkeziyetçi yapının zayıflamasına"
+      },
+      {
+        "key": "E",
+        "text": "Din değiştirmelerin yapılmasına"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>Boyların kendi iç işlerinde serbest olması ve devletin doğu-batı olarak ikili teşkilatla yönetilmesi federatif bir yapı oluşturmuş, bu durum merkeziyetçi yapıyı zayıflatarak taht kavgalarını ve devletlerin kısa sürede bölünmesini kolaylaştırmıştır."
+  },
+  {
+    "id": "tarih4-q2",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "İslamiyet öncesi Türk devletlerindeki din ve inanışla ilgili aşağıda verilen kavramlar ve açıklamalar hangisinde yanlış verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kam → Şamanizm'de din adamı"
+      },
+      {
+        "key": "B",
+        "text": "Kurgan → Toprakla örtülü mezar"
+      },
+      {
+        "key": "C",
+        "text": "Sagu → Ölen kişinin arkasından yakılan ağıt"
+      },
+      {
+        "key": "D",
+        "text": "Yuğ → Türklerde cennete verilen isim"
+      },
+      {
+        "key": "E",
+        "text": "Balbal → Ölen kişinin mezarına dikilen taş heykel"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><strong>Yuğ:</strong> Cenaze törenine verilen addır. İslamiyet öncesi Türklerde cennete <strong>Uçmağ</strong>, cehenneme ise <strong>Tamu</strong> denilirdi."
+  },
+  {
+    "id": "tarih4-q3",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Türklerin İslamiyet öncesi dönemde yaşadığı yerler ve yaşamları ile ilgili olarak;\nI. İklim ve arazi şartlarının etkisiyle toplumda farklı sınıflar ortaya çıkmıştır.\nII. Tabiat şartlarına uygun 'atlı göçebe' (konargöçer) hayat tarzı benimsenmiştir.\nIII. Yaşanılan coğrafya toplumun karakterinin şekillenmesinde oldukça etkili olmuştur.\n\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br>I. öncül yanlıştır çünkü Orta Asya bozkır kültüründe toprak özel mülk değil devlet malı olduğu için feodalizm ve sınıflı toplum yapısı (köle-soylu ayrımı) oluşmamıştır. II ve III. öncüller ise bozkır coğrafyasının doğrudan sonucudur."
+  },
+  {
+    "id": "tarih4-q4",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "İlk Türk devletlerinde belirli bir toprağı, halkı ve hukuki düzeni olan siyasi teşkilata ne ad verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Urug"
+      },
+      {
+        "key": "B",
+        "text": "Oguş"
+      },
+      {
+        "key": "C",
+        "text": "İl (El)"
+      },
+      {
+        "key": "D",
+        "text": "Boy"
+      },
+      {
+        "key": "E",
+        "text": "Budun"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Eski Türk toplumsal yapısı küçükten büyüğe: <strong>Oguş (Aile) → Urug (Sülale) → Boy (Kabile) → Budun (Millet) → İl/El (Devlet)</strong> şeklindedir."
+  },
+  {
+    "id": "tarih4-q5",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Türk kültürünün çıkış bölgesi olan Tanrı ve Altay dağları arasındaki Orta Asya bozkırlarında, iklimin değişken ve sert olması, uzun mesafelere ulaşmada hızlı hareket edilmesini gerektirmiştir.\n\nBu duruma göre Türklerle ilgili olarak;\nI. Tabiatla mücadele etmek zorunda kaldıklarına,\nII. Atın, yaşamlarında önemli bir yeri olduğuna,\nIII. Dinamik bir toplum olduğuna\n\nyukarıdakilerden hangilerine ulaşılabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Metinden hareketle sert iklim şartları tabiatla mücadeleyi (I), mesafeleri aşma ihtiyacı atın önemini (II) ve hızlı hareket kabiliyeti toplumun dinamik yapısını (III) doğrudan açıklar."
+  },
+  {
+    "id": "tarih4-q6",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "İslamiyet öncesi Türk topluluklarından bazılarının, Orta Asya dışına göç ettikten sonra milli benliklerini kaybettikleri görülmüştür.\n\nBu duruma;\nI. yeni devletler kurmaları,\nII. aralarında taht kavgaları yaşamaları,\nIII. dinlerini değiştirmeleri (Hristiyanlığı benimsemeleri)\n\ngelişmelerinden hangilerinin yol açtığı söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Avrupa'ya göç eden Avarlar, Macarlar, Peçenekler, Uzlar ve Tuna Bulgarları Hristiyanlığı kabul ederek zamanla dillerini, geleneklerini ve milli kimliklerini kaybedip asimile olmuşlardır."
+  },
+  {
+    "id": "tarih4-q7",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Türklerin ilk anayurdu olan Orta Asya coğrafi kapsamı içinde;\nI. Hindikuş ve Karanlık Dağları\nII. Kingan ve Ural-Altay Dağları\nIII. Alp Dağları\n\nyukarıdakilerin hangisinden bahsedilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Orta Asya; doğuda Kingan, batıda Hazar/Ural, kuzeyde Altay/Sibirya, güneyde Hindikuş ve Karanlık dağları ile çevrilidir. <strong>Alp Dağları</strong> ise Orta ve Batı Avrupa'da yer alır."
+  },
+  {
+    "id": "tarih4-q8",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "İslamiyet öncesi dönemde Türk Devletlerinde görülen;\nI. kut anlayışı (ülkenin hanedan ortak malı sayılması),\nII. ordu-millet anlayışı,\nIII. ikili teşkilat yapısı,\nIV. yazının geç kullanılması\n\nözelliklerinden hangileri merkezi otoritenin zayıflamasına doğrudan sebep olmuştur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "II ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve IV"
+      },
+      {
+        "key": "E",
+        "text": "III ve IV"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Kut anlayışının getirdiği veraset sistemi ('ülke hanedanın ortak malıdır') taht kavgalarına yol açarken, ikili teşkilat (doğu-batı yönetimi) batıdaki yabgunun bağımsızlaşmasına zemin hazırlayarak merkezi otoriteyi zayıflatmıştır."
+  },
+  {
+    "id": "tarih4-q9",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "İlk Türk devletlerinin konar-göçer bir yaşam sürmelerinin sonuçlarıyla ilgili olarak;\nI. Türk tarihinin belli bir coğrafyada incelenmesi zorlaşmıştır.\nII. Ekonomilerinin temeli hayvancılık olmuştur.\nIII. Devlet teşkilatlanması yönünde son derece geri kalmışlardır.\n\nyargılarından hangileri söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>Geniş alanlara yayılmaları Türk tarihini bir bütün olarak incelemeyi zorlaştırmış (I), iklim şartları ekonomiyi hayvancılığa dayandırmıştır (II). Ancak Türkler devlet teşkilatlanması ve askeri organizasyonda son derece ileri düzeyde olmuşlardır (III söylenemez)."
+  },
+  {
+    "id": "tarih4-q10",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "I. Uygurlar döneminde Budistler ve Şamanistler\nII. Hazarlar döneminde Museviler, Hristiyanlar ve Müslümanlar\nIII. İtil Bulgarları döneminde Hristiyanlar ve Müslümanlar\n\nbirlikte barış içinde yaşamışlardır.\n\nBuna göre Türk devlet geleneğinde aşağıdakilerden hangisine önem verildiği öne sürülebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merkeziyetçi yapıya"
+      },
+      {
+        "key": "B",
+        "text": "Dini hoşgörüye"
+      },
+      {
+        "key": "C",
+        "text": "Diplomatik ilişkilere"
+      },
+      {
+        "key": "D",
+        "text": "Toplumsal sınıflara"
+      },
+      {
+        "key": "E",
+        "text": "Güçlü askeri teşkilata"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Farklı inançlara sahip toplulukların kendi ibadetlerini özgürce yapabilmeleri ve Hazar ülkesinde her din için ayrı mahkeme hâkimlerinin bulunması Türklerdeki güçlü <strong>dini hoşgörüyü</strong> kanıtlar."
+  },
+  {
+    "id": "tarih4-q11",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "İslamiyet'ten önceki Türk devletlerinde;\nI. Hakanın kurultay kararlarına uyması,\nII. Devlet işlerinin kurultayda görüşülüp tartışılması,\nIII. Savaşa ve barışa kurultayda karar verilmesi\n\ndurumları Türk yönetim anlayışının hangi özelliğini kanıtlar niteliktedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Barışçı"
+      },
+      {
+        "key": "B",
+        "text": "Demokratik"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal"
+      },
+      {
+        "key": "D",
+        "text": "Diplomatik"
+      },
+      {
+        "key": "E",
+        "text": "Savaşçı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Kurultayın danışma ve karar organı olması, boy beylerinin ve hatunun katılımıyla kararların müzakere edilmesi ve hükümdarın mutlak yetkilerinin sınırlandırılması <strong>demokratik</strong> yönetim anlayışını kanıtlar."
+  },
+  {
+    "id": "tarih4-q12",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "İslamiyet öncesinde kurulan Türk devletlerinde;\nI. Bitikçi (Kâtip/Yazıcı)\nII. Yabgu (Batı Kanadı Yöneticisi)\nIII. Tüdün (Vergi Memuru/Vali)\nIV. Kam (Şaman/Din Adamı)\n\nkavramlarından hangileri devlet görevlileri ve bürokrasi arasında gösterilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız IV"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve IV"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><strong>Kam (Baksı):</strong> Din adamıdır; idari, mali veya siyasi bir devlet memuriyeti unvanı değildir. Bitikçi (kâtip/yazışma sorumlusu), Yabgu (hükümdar yardımcısı/vali) ve Tüdün (vergi memuru) ise resmî devlet görevlileridir."
+  },
+  {
+    "id": "tarih4-q13",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "İslamiyet öncesi Türklerde;\nI. Ölen kişilerin eşyaları ile birlikte gömülmesi,\nII. Ölen kişiler için yuğ denilen cenaze törenlerinin yapılması,\nIII. Ölen kişiler için sagu denilen ağıtların yakılması\n\ndurumlarından hangileri öldükten sonra yaşama (ahiret inancına) inanıldığının doğrudan kanıtı olarak gösterilebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Ölen kişinin silahları, atı ve değerli eşyalarıyla gömülmesi (kurgan) onun ikinci yaşamında bunlara ihtiyaç duyacağı inancına (ahiret inancı) doğrudan kanıttır. Yuğ ve sagu ise ölüm sonrası duyulan üzüntü ve cenaze merasimiyle ilgilidir."
+  },
+  {
+    "id": "tarih4-q14",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Aşağıdakilerden hangisi Uygurların, kağanlarının gücünü Ay'dan aldıklarına inanmalarından dolayı unvanlarının başına 'Ay' kelimesini eklemelerinde (Ay Tengride Kut Bulmış) etkili olan dindir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Manihaizm (Maniheizm)"
+      },
+      {
+        "key": "B",
+        "text": "Budizm"
+      },
+      {
+        "key": "C",
+        "text": "İslamiyet"
+      },
+      {
+        "key": "D",
+        "text": "Hristiyanlık"
+      },
+      {
+        "key": "E",
+        "text": "Şamanizm"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br>Bögü Kağan döneminde kabul edilen <strong>Manihaizm</strong> (Işık dini) inancında Ay ve Güneş kutsal kabul edildiği için Uygur hükümdarları unvanlarında 'Ay Tengri' tabirini kullanmışlardır."
+  },
+  {
+    "id": "tarih4-q15",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "Aşağıdakilerden hangisi İslamiyet'ten önce Türklerde ölen kişinin eşyalarıyla birlikte gömüldüğü mezara verilen addır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yuğ"
+      },
+      {
+        "key": "B",
+        "text": "Şad"
+      },
+      {
+        "key": "C",
+        "text": "Kurgan"
+      },
+      {
+        "key": "D",
+        "text": "Toy"
+      },
+      {
+        "key": "E",
+        "text": "Tigin"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><strong>Kurgan:</strong> Ahşap odalar şeklinde yapılan ve üzerine toprak/taş yığılarak tepe oluşturulan eski Türk mezarlarıdır."
+  },
+  {
+    "id": "tarih4-q16",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "I. Ongun (Kutsal kabul edilen totem hayvanı)\nII. Kült (Kutsal sayılan inanç / Atalar Kültü)\nIII. Örgin (Hükümdarlık tahtı)\n\nYukarıda İslamiyet öncesi Türk devletlerine ait kavramlardan hangileri dini inanışlarla ilgilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><strong>Ongun:</strong> Boyların kutsal saydığı koruyucu totem hayvanıdır (Dini). <strong>Kült:</strong> Atalar ve doğa ruhlarına saygıyı içeren inanç sistemidir (Dini). <strong>Örgin:</strong> Hükümdarlık tahtıdır (Siyasi)."
+  },
+  {
+    "id": "tarih4-q17",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "Orta Asya'da kurulan ilk Türk devletleriyle ilgili olarak;\nI. Ülke, töre adı verilen yazılı olmayan hukuk kurallarına göre yönetilmiştir.\nII. Toprak, vatan olarak kabul edilip yurt olarak adlandırılmıştır.\nIII. Hükümdara devlet yönetimiyle ilgili konularda yardımcı olmak üzere danışma meclisleri (Kurultay/Toy) kurulmuştur.\n\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br>Töre yazısız hukuk kurallarıdır (I), yurt bağımsız toprak parçası ve vatandır (II), kurultay ise devlet meselelerinin görüşüldüğü meclistir (III). Her üç yargı da doğrudur."
+  },
+  {
+    "id": "tarih4-q18",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Aşağıdakilerden hangisi Orta Asya'da kurulan Türk devletlerinin askeri özellikleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Savaşlarda Turan (Hilal/Kurt Kapanı) taktiğinin uygulanması"
+      },
+      {
+        "key": "B",
+        "text": "Askerliğin maaşlı özel bir meslek sayılması"
+      },
+      {
+        "key": "C",
+        "text": "Başkomutanlığı hakanın yapması"
+      },
+      {
+        "key": "D",
+        "text": "Mete Han tarafından onluk sistemin uygulanması"
+      },
+      {
+        "key": "E",
+        "text": "Sürek avları ile savaş talimlerinin yapılması"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Ordu-millet anlayışı nedeniyle eli silah tutan herkes askerdir; askerlik özel ve ücretli bir meslek sınıfı oluşturmamıştır."
+  },
+  {
+    "id": "tarih4-q19",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Türk yurdunu ekonomik olarak zenginleştirip halkın refahını artırabilmesi ve bereketi dağıtması amacıyla Tanrı tarafından kağana verildiğine inanılan güç/yetenek aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Güç (Küç)"
+      },
+      {
+        "key": "B",
+        "text": "Ülüş (Paylaştırma/Bolluk)"
+      },
+      {
+        "key": "C",
+        "text": "Tüz"
+      },
+      {
+        "key": "D",
+        "text": "Kut"
+      },
+      {
+        "key": "E",
+        "text": "Çav"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br>Kağana Tanrı tarafından verilen 3 ilahi bağış:<br>• <strong>Kut:</strong> Siyasi iktidar ve yönetme yetkisi<br>• <strong>Ülüş:</strong> İktisadi güç, bolluk, bereket ve adil paylaştırma yetkisi<br>• <strong>Küç (Güç):</strong> Askeri savaşma ve zafer kazanma yeteneğidir."
+  },
+  {
+    "id": "tarih4-q20",
+    "testId": "tarih4",
+    "testTitle": "Genel Tarih Video Tarama Testi 4",
+    "topicId": "tarih_tarama_4",
+    "topicName": "Genel Tarih Video Tarama 4",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "İslamiyet'ten önceki Türklerde yetiştirilmek istenen cesur, yiğit ve bilge savaşçı ideal insan tipi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pir"
+      },
+      {
+        "key": "B",
+        "text": "Ata"
+      },
+      {
+        "key": "C",
+        "text": "Alp"
+      },
+      {
+        "key": "D",
+        "text": "Veli"
+      },
+      {
+        "key": "E",
+        "text": "Gazi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br>İslamiyet öncesi Türk toplumunda cesaret, bilgelik ve kahramanlığı temsil eden ideal insan tipi <strong>Alp</strong> tipidir. İslamiyet'in kabulüyle birlikte bu anlayış <strong>Alp-Eren</strong> ve <strong>Gazi</strong> tipine dönüşmüştür."
+  },
+  {
+    "id": "tarih_video4-q1",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47443,9 +48183,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>E (I, II ve III)</strong><br><br>📌 <strong>Türk-İslam Hukuk Sisteminin Kaynakları:</strong><br>• Türklerin İslamiyet'i kabulüyle birlikte hukuk sistemi <strong>Şeri</strong> ve <strong>Örfi</strong> olmak üzere iki ana kola ayrılmıştır.<br>• <strong>Din (İslam Hukuku):</strong> Kur'an, sünnet, icma ve kıyasa dayanarak Şeri hukukun temelini oluşturur.<br>• <strong>Örf ve Adetler (Türk Töresi):</strong> İslamiyet öncesinden gelen köklü gelenekler, İslam inancına aykırı olmamak kaydıyla Örfi hukukun temel kaynağıdır.<br>• <strong>Divan Kararları ve Hükümdar Fermanları:</strong> Hükümdarın yasama yetkisi ve Divan-ı Saltanat kararları da Örfi hukukun yazılı mevzuatını oluşturur."
   },
   {
-    "id": "tarih4-q2",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q2",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47480,9 +48220,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>D (Ok)</strong><br><br>📌 <strong>Türk-İslam Devletlerinde Hükümdarlık Sembolleri (Alametleri):</strong><br>• <strong>Yay ve Ok Ayrımı (Kritik EKYS Tuzağı):</strong> İslamiyet öncesinde ve Türk-İslam geleneğinde <strong>Yay</strong> hükümdarlık/egemenlik sembolü iken; <strong>Ok</strong> hükümdara bağlılığı, itaati ve tabiyeti simgeler, bağımsızlık alameti sayılmaz.<br>• <strong>Türk-İslam'a Özgü Hükümdarlık Alametleri:</strong> Hutbe okutmak, Hilat giymek (halifenin gönderdiği hükümdarlık giysisi), Çetr (saltanat şemsiyesi), Sikke (para bastırmak), Menşur (halife onay belgesi), Nevbet (davul), Tıraz.<br>• <strong>Taht, Otağ, Sancak, Kılıç, Tuğ</strong> ise hem İslam öncesi hem İslam sonrası ortak hakimiyet sembolleridir."
   },
   {
-    "id": "tarih4-q3",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q3",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47517,9 +48257,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>C (Serhenk / Çavuş)</strong><br><br>📌 <strong>Saray Teşkilatında Görevliler ve Sorumlulukları:</strong><br>• <strong>Serhenk (Çavuş):</strong> Hükümdarın seyahatlerinde, seferlerinde ve törenlerde kafilenin önünde giderek yol düzenini, intizamı ve protokol güvenliğini sağlayan görevlidir.<br><br>❌ <strong>Diğer Görevliler:</strong><br>• <strong>Câmedâr:</strong> Hükümdarın giysi ve elbiselerinden sorumlu saray görevlisi.<br>• <strong>Emîr-i Candar:</strong> Sarayın ve hükümdarın can güvenliğinden sorumlu muhafız birliği komutanı.<br>• <strong>Taştdâr (Âbdâr):</strong> Hükümdarın temizlik, abdest ve leğen-ibrik işlerine bakan görevli.<br>• <strong>Hâcibü'l-Hüccâb:</strong> Hükümdar ile halk/devlet adamları arasındaki irtibatı ve protokolü sağlayan sarayın baş yöneticisi."
   },
   {
-    "id": "tarih4-q4",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q4",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47554,9 +48294,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>E (Emîr-i Candar)</strong><br><br>📌 <strong>Saray Güvenliği ve Candarlar:</strong><br>• <strong>Emîr-i Candar:</strong> Hükümdarı ve sarayı her türlü iç ve dış suikast tehdidine karşı koruyan özel saray muhafızları olan Candarların başkomutanıdır.<br><br>❌ <strong>Diğer Seçenekler:</strong><br>• <strong>Emîr-i Alem:</strong> Devletin sancağını, bayrağını ve saltanat alametlerini taşıyan/koruyan görevli.<br>• <strong>Emîr-i Silah:</strong> Hükümdarın silahlarından ve cephaneliğinden sorumlu görevli.<br>• <strong>Kıssadâr:</strong> Halka ait dilekçe ve şikayetleri toplayıp hükümdara sunan görevli."
   },
   {
-    "id": "tarih4-q5",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q5",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47591,9 +48331,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>A (Ulu Hâcib / Hâcibü'l-Hüccâb)</strong><br><br>📌 <strong>Haciblik Müessesesi:</strong><br>• Hâcibler, hükümdar ile halk, divan üyeleri ve yabancı elçiler arasındaki teması ve protokol kurallarını düzenleyen saray teşkilatının en itibarlı görevlileridir.<br>• Bunların başındaki en kıdemli yöneticiye <strong>Hâcibü'l-Hüccâb (Ulu Hâcib / Baş Hâcib / Karahanlılarda Tayangu)</strong> denir. Hükümdardan sonra sarayın en yetkili ikinci kişisidir.<br>• <em>Çaşnigîr:</em> Hükümdarın yemeklerini tadan aşçıbaşı.<br>• <em>Devâtdâr:</em> Yazı takımlarını ve mürekkep hokkalarını koruyan görevli."
   },
   {
-    "id": "tarih4-q6",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q6",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47628,9 +48368,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>C (I ve II)</strong><br><br>📌 <strong>Saray ve Taşra Görevlileri Ayrımı:</strong><br>• <strong>I. Hâcibü'l-Hüccâb:</strong> Saray teşkilatının protokol ve idari amiridir (Saray görevlisidir).<br>• <strong>II. Emîr-i Âhur (İmrahor):</strong> Hükümdarın ve sarayın atlarının bakımından ve harasından sorumlu saray görevlisidir.<br>• <strong>III. İğdişbaşı (Reis):</strong> Taşrada ve şehirlerde yerel belediye işlerini yürüten ve asayişe yardımcı olan <strong>taşra/şehir görevlisidir</strong>; saray teşkilatında yer almaz.<br><br>⚠️ <em>Pedagojik Not:</em> Sarayda hükümdarın içeceklerinden sorumlu görevli ise <strong>İdişçibaşı (Şarapdar)</strong> olarak adlandırılır; taşradaki İğdişbaşı ile karıştırılmamalıdır!"
   },
   {
-    "id": "tarih4-q7",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q7",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47665,9 +48405,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>D (Dîvân-ı Arz / Arzü'l-Ceyş)</strong><br><br>📌 <strong>Dîvân-ı Arz (Askeri Divan):</strong><br>• Savunma ve ordu işlerinden sorumludur. Ordunun mevcudunu tutar, teçhizat, donatım, lojistik ve maaş dağıtımını koordine eder.<br>• Başkanına <strong>Emîr-i Arz (Ârız)</strong> denir.<br><br>❌ <strong>Diğer Büyük Divanlar:</strong><br>• <strong>Dîvân-ı İnşâ (Tuğra):</strong> İç ve dış yazışmalar, fermanlar (Başkanı: Tuğraî).<br>• <strong>Dîvân-ı İstifâ:</strong> Maliye, bütçe ve gelir-gider işleri (Başkanı: Müstevfî).<br>• <strong>Dîvân-ı İşrâf:</strong> Mali ve idari teftiş/denetim (Başkanı: Müşrif).<br>• <strong>Dîvân-ı Mezâlim:</strong> Hükümdarın başkanlık ettiği yüksek temyiz ve adalet mahkemesi."
   },
   {
-    "id": "tarih4-q8",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q8",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47702,9 +48442,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>C (Dîvân-ı İnşâ / Dîvân-ı Tuğra)</strong><br><br>📌 <strong>Dîvân-ı İnşâ:</strong><br>• Devletin diplomatik yazışmalarını, hükümdarın emirname, ferman ve beratlarını hazırlar, üzerlerine hükümdarın tuğrasını çeker.<br>• Başkanına <strong>Münşî</strong> veya <strong>Tuğraî</strong> adı verilir."
   },
   {
-    "id": "tarih4-q9",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q9",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47739,9 +48479,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>E (Dîvân-ı Berîd)</strong><br><br>📌 <strong>Dîvân-ı Berîd (Posta ve İstihbarat Teşkilatı):</strong><br>• Ülke genelinde haberleşme ağını kuran, taşradaki gelişmeleri ve memurların tutumlarını gizlice merkeze rapor eden <strong>posta ve istihbarat divanıdır</strong>.<br>• Görevlilerine <strong>Ulak</strong> veya <strong>Berîd</strong> denir."
   },
   {
-    "id": "tarih4-q10",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q10",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47776,9 +48516,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>B (Atabey)</strong><br><br>📌 <strong>Şehzade / Melik Eğitmenleri Karşılaştırma Tablosu:</strong><br>• <strong>İslamiyet Öncesi Türk Devletleri:</strong> Ataman / İnal / İnanç<br>• <strong>Büyük Selçuklu Devleti:</strong> Atabey<br>• <strong>Osmanlı Devleti:</strong> Lala<br><br>⚠️ <em>Kritik Bilgi:</em> Melik şehzadenin kendisidir; Âmil taşradaki vergi tahsildarıdır; Şıhne ise gulam kökenli askeri validir."
   },
   {
-    "id": "tarih4-q11",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q11",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47813,9 +48553,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>A (Muhtesip)</strong><br><br>📌 <strong>İhtisap Sistemi ve Muhtesip:</strong><br>• Çarşı ve pazar düzenini sağlamak, eksik tartı ve hileli üretimi engellemek, narh (fiyat tavanı) kurallarına uyulup uyulmadığını kontrol etmekle görevli zabıta amiridir.<br>• Esnafın ahlak ve kalite kurallarına uymasını sağlar, cezai yaptırım uygulama yetkisi bulunur."
   },
   {
-    "id": "tarih4-q12",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q12",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47850,9 +48590,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>D (Bistegâni)</strong><br><br>📌 <strong>Askeri Maaş Karşılaştırması:</strong><br>• <strong>Selçuklu ve Gaznelilerde:</strong> Gulamân-ı Saray ve Hassa askerlerine yılda 4 defa (üç ayda bir) hazineden ödenen nakit maaşa <strong>Bistegâni</strong> denir.<br>• <strong>Osmanlı Devleti'ndeki Karşılığı:</strong> Kapıkulu / Yeniçeri askerlerine üç ayda bir verilen <strong>Ulûfe</strong> maaşıdır.<br>• <em>Cebelü:</em> İkta/Tımar sahiplerinin yetiştirdiği atlı askerlerdir."
   },
   {
-    "id": "tarih4-q13",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q13",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47887,9 +48627,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>E (Büyük Selçuklular)</strong><br><br>📌 <strong>İkta Sisteminin Kurumsallaşması:</strong><br>• Hz. Ömer döneminde İslam dünyasında ilk temelleri atılan ikta düzenini, <strong>Türk devlet teşkilatına ilk kez kazandıran ve ordu ile tarım sisteminin temeline oturtan devlet Büyük Selçuklu Devleti</strong> olmuştur.<br>• Bu sistemin mimarı ünlü Selçuklu veziri <strong>Nizamülmülk</strong>'tür. Sistem daha sonra Anadolu Selçuklularında sürdürülmüş ve Osmanlı'da <strong>Tımar (Dirlik)</strong> adını almıştır."
   },
   {
-    "id": "tarih4-q14",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q14",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47924,9 +48664,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>A (Devşirme Sistemi)</strong><br><br>📌 <strong>Gulam ve Devşirme Sistemi:</strong><br>• Gulam sistemi; esir ya da gulamhânede yetiştirilen çocukların hem saray bürokrasisine (bürokrat/yönetici) hem de hükümdarın merkez ordusuna (Gulamân-ı Saray) kazandırılmasıdır.<br>• Osmanlı Devleti bu sistemi geliştirerek <strong>Pencik ve Devşirme Sistemi</strong> (Enderun ve Kapıkulu Ocakları) olarak uygulamıştır.<br>• <em>Müsadere:</em> Haksız kazanç sağlayan memurun malına devletin el koymasıdır.<br>• <em>Gedik:</em> İş yeri açma ve dükkan ruhsatıdır.<br>• <em>İltizam:</em> Vergi gelirlerinin ihale ile peşin satılmasıdır."
   },
   {
-    "id": "tarih4-q15",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q15",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47961,9 +48701,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>D (I ve II)</strong><br><br>📌 <strong>Hukuk Teşkilatı ve Yetkililer:</strong><br>• <strong>I. Kâdı'l-Kudât (Baş Kadı):</strong> Şeri mahkemelerin ve kadıların en üst amiridir; şeri yargının başıdır.<br>• <strong>II. Emîr-i Dâd (Dâdbeg):</strong> Örfi yargının başıdır; devlete karşı işlenen suçlara bakar, gerektiğinde vezirleri bile yargılayabilir.<br>• <strong>III. Niyâbet-i Saltanat:</strong> Hükümdar başkentte olmadığında veya sefere çıktığında devlet işlerini yürüten nâibin başkanlığındaki yönetim divanıdır; doğrudan yargı organı değildir."
   },
   {
-    "id": "tarih4-q16",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q16",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -47998,9 +48738,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>C (I ve II)</strong><br><br>📌 <strong>Toprak Yönetimi Sınıflandırması:</strong><br>• <strong>Mîrî Topraklar (Devlet Mülkiyeti):</strong><br>  1. <em>Has:</em> Geliri sultana ve hanedan üyelerine ayrılan arazi.<br>  2. <em>İkta:</em> Geliri hizmet ve asker besleme karşılığı memur ve sipahilere verilen arazi.<br>  3. <em>Vakıf (Mevkuf):</em> Geliri kamu hayır kurumlarına ve medreselere ayrılan arazi.<br>• <strong>Mülk Topraklar (Şahıs Mülkiyeti):</strong> Şahısların tasarrufunda olan, miras bırakılabilen ve satılabilen topraklardır (Müslümanların Öşrî, gayrimüslimlerin Harâcî toprakları). Mîrî araziye dahil değildir."
   },
   {
-    "id": "tarih4-q17",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q17",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48035,9 +48775,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>C (Emîr-i Dâd)</strong><br><br>📌 <strong>Örfi Hukuk ve Emîr-i Dâd:</strong><br>• Türk töresine, fermanlara ve devlet düzenine dayanan örfi davalara <strong>Emîr-i Dâd (Adalet Emiri)</strong> bakar.<br>• Emîr-i Dâd sarayda yüksek nüfuza sahiptir; sultanın izniyle divan üyelerini ve devlet ricalini dahi yargılayabilir.<br>• <em>Kâdı'l-Kudât:</em> Şeri hukukun başıdır.<br>• <em>Melikü's-Sevâhil:</em> Anadolu Selçuklu donanma komutanıdır."
   },
   {
-    "id": "tarih4-q18",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q18",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48072,9 +48812,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>E (I, II ve III)</strong><br><br>📌 <strong>İkta Sisteminin Çok Yönlü Faydaları (EKYS Banko Konu):</strong><br>• <strong>Askeri Fayda:</strong> Devlet hazinesinden tek kuruş çıkmadan yüz binlerce kişilik atlı ordu (İkta sipahileri/Cebelüler) beslenir.<br>• <strong>Ekonomik Fayda:</strong> Toprağını mazeretsiz 3 yıl boş bırakanın iktası geri alınarak tarımsal üretimde süreklilik güvenceye bağlanır.<br>• <strong>İdari/Güvenlik Faydası:</strong> Askerler barış zamanında bulundukları bölgenin asayişini sağlayarak taşrada merkezi otoriteyi tesis ederler."
   },
   {
-    "id": "tarih4-q19",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q19",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48109,9 +48849,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>B (Vakıf / Mevkuf)</strong><br><br>📌 <strong>Vakıf Arazileri:</strong><br>• Gelirleri kamu yararına, imarethane (aşevi), bimarhane (şifahane/hastane), cami, medrese ve kervansaray gibi kurumların masraflarına tahsis edilen mîrî topraklardır.<br>• Vakıf malları satılamaz, devredilemez, haczedilemez ve miras bırakılamaz. Vakıf tüzüğüne <strong>Vakfiye</strong>, yönetim kuruluna <strong>Mütevelli Heyeti</strong> denir."
   },
   {
-    "id": "tarih4-q20",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q20",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48146,9 +48886,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>D (II ve III)</strong><br><br>📌 <strong>Şeri Vergilerin Karşılaştırması:</strong><br>• <strong>Öşür:</strong> <em>Müslüman</em> çiftçilerden ürettikleri tarım ürünleri üzerinden alınan 1/10 oranındaki zekat nitelikli vergidir.<br>• <strong>Haraç:</strong> <em>Gayrimüslim</em> çiftçilerden alınan 1/5 (2/10) oranındaki arazi ve ürün vergisidir.<br>• <strong>Cizye:</strong> <em>Gayrimüslim</em> tebaanın askerlik çağına gelmiş, sağlıklı ve kazanç sahibi erkeklerinden can-mal güvenliği ve askerlik muafiyeti karşılığı alınan baş vergisidir (Kadın, çocuk, din adamı ve yoksullardan alınmaz)."
   },
   {
-    "id": "tarih4-q21",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q21",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48183,9 +48923,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>C (Siyasetnâme)</strong><br><br>📌 <strong>İlk Türk-İslam Edebi Eserleri:</strong><br>• <strong>Siyasetnâme:</strong> Karahanlılara değil, <strong>Büyük Selçuklu Devleti</strong>'nin veziri <strong>Nizamülmülk</strong> tarafından Sultan Melikşah'a sunulmak üzere Farsça kaleme alınmış bir devlet yönetimi şaheseridir.<br><br>📚 <strong>Karahanlı Dönemi Türk-İslam Eserleri:</strong><br>• <em>Kutadgu Bilig:</em> Yusuf Has Hacib (İlk Türk-İslam eseri)<br>• <em>Dîvânü Lugāti't-Türk:</em> Kaşgarlı Mahmud (İlk Türkçe sözlük)<br>• <em>Atabetü'l-Hakāyık:</em> Edip Ahmet Yükneki<br>• <em>Dîvân-ı Hikmet:</em> Hoca Ahmet Yesevi (İlk Türk tasavvuf eseri)"
   },
   {
-    "id": "tarih4-q22",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q22",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48220,9 +48960,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>E (Ribat)</strong><br><br>📌 <strong>Ribat Yapıları (2020 EKYS Çıkmış Soru):</strong><br>• Karahanlılar döneminde başlangıçta sınır boylarında cihat ve askeri savunma amacıyla kurulan korunaklı karakol yapıları, sınırların genişlemesiyle birlikte kervanların güvenle konakladığı <strong>ticari kervansaraylara</strong> dönüşmüştür.<br>• Türk-İslam mimarisinde kervansarayların atası <strong>Ribat</strong> olarak kabul edilir."
   },
   {
-    "id": "tarih4-q23",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q23",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48257,9 +48997,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>E (Asayiş ve Devlete Karşı Suçlar)</strong><br><br>📌 <strong>Şeri ve Örfi Hukukun Görev Alanları:</strong><br>• <strong>Şeri Hukuk (Kadı bakar):</strong> Aile hukuku (evlenme, boşanma, nafaka, velayet), miras taksimi, vakıf tescili ve şahıslar arası borç-alacak ilişkilerini kapsar.<br>• <strong>Örfi Hukuk (Emîr-i Dâd bakar):</strong> Kamu düzeni, asayiş, isyan, vergi kaçakçılığı, devlete ve sultana karşı işlenen siyasi ve adli suçları kapsar."
   },
   {
-    "id": "tarih4-q24",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q24",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48294,9 +49034,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>C (Dîvân-ı İşrâf)</strong><br><br>📌 <strong>Dîvân-ı İşrâf (Teftiş ve Denetim Divanı):</strong><br>• Devletin mali, idari ve hukuki tüm kurumlarının işleyişini hükümdar adına denetleyen (günümüz Sayıştay/Devlet Denetleme Kurulu benzeri) yüksek teftiş kuruludur.<br>• Başkanına <strong>Müşrif-i Memâlik</strong> veya <strong>Müşrif</strong> denir."
   },
   {
-    "id": "tarih4-q25",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q25",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48331,9 +49071,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>D (Yargucı)</strong><br><br>📌 <strong>Tarihsel Kavram Analizi:</strong><br>• <strong>Yargucı (Yargu):</strong> İslamiyet <em>öncesi</em> eski Türk devletlerinde töre mahkemelerine ve bu mahkemelerdeki yargıçlara verilen unvandır.<br>• Türk-İslam hukukunda ise yerini <strong>Kadı</strong> (şeri) ve <strong>Emîr-i Dâd</strong> (örfi) makamlarına bırakmıştır.<br>• <em>Fıkıh:</em> İslam hukuk bilimidir."
   },
   {
-    "id": "tarih4-q26",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q26",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
@@ -48368,9 +49108,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>A (Yalnız I)</strong><br><br>📌 <strong>Ticari ve Dini Mimari Yapılar:</strong><br>• <strong>I. Zaviye:</strong> Şehirlerde veya kırsalda tarikat mensuplarının, dervişlerin ibadet ettiği ve dinî eğitim verdiği küçük tekke/tasavvuf yapılarıdır; ticari bir işlevi yoktur.<br>• <strong>II. Ribat & III. Kervansaray:</strong> Kervan yolları üzerinde ticaret kervanlarının konakladığı, mallarını güvenceye aldığı doğrudan ticari mimari eserlerdir."
   },
   {
-    "id": "tarih4-q27",
-    "testId": "tarih4",
-    "testTitle": "Genel Tarih 4. Ders: Türk-İslam Kültür ve Medeniyeti",
+    "id": "tarih_video4-q27",
+    "testId": "tarih_video4",
+    "testTitle": "Genel Tarih 4. Ders: Video İçi Soru Çözümü",
     "topicId": "tarih_tarama_4",
     "topicName": "Genel Tarih Video Tarama 4",
     "category": "Genel Kültür - Tarih",
