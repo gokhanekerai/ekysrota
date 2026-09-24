@@ -1,4 +1,3 @@
-// EKYS 2027 Odakli Soru Veritabani
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -220,7 +219,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Türkiye'de tek ortak saat kullanılması)<br><br>📌 <strong>Enlem vs Boylam Analizi:</strong><br>• Türkiye'de tek bir ortak / ulusal saatin (+3 Iğdır - 45°D) kullanılması; doğu-batı yönünde meridyen farkının az olmasıyla (19 boylam) ve idari düzenlemeyle ilgilidir; <strong>enlemle hiçbir ilgisi yoktur</strong>.<br><br>❌ <strong>Enleme Bağlı Matematik Konum Sonuçları:</strong><br>• <strong>A)</strong> Güneyden kuzeye sıcaklığın azalması (Güneş açısı).<br>• <strong>B)</strong> Akdeniz'in Karadeniz'den tuzlu olması (Buharlaşma/Enlem).<br>• <strong>C)</strong> Toroslar'da kalıcı kar sınırının Kaçkarlar'dan yüksek olması (Sıcaklık/Enlem).<br>• <strong>E)</strong> Çizgisel hızın Hatay'da Sinop'tan fazla olması (Ekvator'a yakınlık)."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Aynı anda tek ortak saatin kullanılması)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Türkiye'de tek bir ortak/ulusal saatin (+3 Iğdır - 45°D) kullanılması; doğu-batı yönünde meridyen farkının az olmasıyla (19 boylam) ve idari bir kararla ilgilidir; <strong>enlemle (paralellerle) hiçbir ilgisi yoktur</strong> (Boylam sonucudur).<br><br>❌ <strong>Enleme Bağlı Matematik Konum Sonuçları:</strong><br>• <strong>A) Gölge yönünün daima kuzeyi göstermesi:</strong> Türkiye'nin Yengeç Dönencesi'nin (23°27'K) kuzeyinde yer almasının (enleminin) sonucudur.<br>• <strong>B) 21 Haziran'da Antalya'nın gündüzünün Ankara'dan kısa olması:</strong> 21 Haziran'da kuzeye gidildikçe gündüzlerin uzaması enlem sonucudur.<br>• <strong>C) Güneş ışınlarının dik gelmemesi:</strong> Dönenceler dışında (orta kuşakta) yer almanın (enlemin) sonucudur.<br>• <strong>E) Fiyort ve skyer kıyı tiplerine rastlanılmaması:</strong> Buzul şekillerinin deniz seviyesine inemediği orta/ılıman kuşakta yer almanın (enlemin) sonucudur."
   },
   {
     "id": "cogr1-q7",
@@ -590,7 +589,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Artvin)<br><br>📌 <strong>Ulusal Saat (45°D Iğdır) ve Yerel Saat Farkı:</strong><br>• Türkiye'nin resmi ulusal saati 45° Doğu Iğdır meridyenine göre ayarlanır. Ulusal saat ile yerel saat arasındaki farkın en az olması için Iğdır meridyenine boylam olarak <strong>en yakın (en doğudaki)</strong> il seçilmelidir.<br>• Seçenekler (İzmir, Muğla, Sinop, Artvin, Ankara) arasında 45°D meridyenine en yakın olan ilimiz <strong>Artvin</strong>'dir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Artvin)<br><br>📌 <strong>Ulusal Saat (45°D Iğdır) ve Yerel Saat Farkı:</strong><br>• Türkiye'nin resmi ulusal saati <strong>45° Doğu Iğdır</strong> meridyeninin yerel saatine göre ayarlanır.<br>• Bir merkez ile ulusal saat arasındaki zaman farkının <strong>en az</strong> olması için o merkezin 45°D boylamına en yakın (yani en doğuda) olması gerekir.<br><br>🎯 <strong>Seçeneklerin Boylam Analizi:</strong><br>• <strong>D) Artvin:</strong> Yaklaşık 41°50' Doğu boylamında olup seçeneklerdeki kentler arasında Iğdır (45°D) meridyenine <strong>en yakın (en doğudaki)</strong> ildir. Dolayısıyla ulusal saat ile yerel saat farkı en azdır.<br>• <strong>A) Gümüşhane:</strong> Yaklaşık 39°30' Doğu boylamındadır.<br>• <strong>C) Hatay:</strong> Yaklaşık 36° Doğu boylamındadır.<br>• <strong>E) Antalya:</strong> Yaklaşık 30°38' Doğu boylamındadır.<br>• <strong>B) İzmir:</strong> Yaklaşık 27° Doğu boylamında olup farkın en fazla olduğu ildir."
   },
   {
     "id": "cogr1-q17",
@@ -701,7 +700,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Başlangıç Meridyeni'ne kuş uçuşu uzaklıkları aynıdır)<br><br>📌 <strong>Aynı Meridyen (Boylam) Üzerindeki Merkezlerin Analizi (Gümüşhane - Tunceli):</strong><br>• Meridyenler kutuplara doğru birbirine yaklaştığı için, aynı boylam üzerinde kuzeyde yer alan Gümüşhane'nin Greenwich'e olan kilometre uzaklığı güneydeki Tunceli'den <strong>daha azdır</strong> (eşit olamaz). Bu nedenle A seçeneği söylenemez.<br><br>❌ <strong>Doğru Olan Özellikler:</strong><br>• <strong>B:</strong> Yerel saatleri yıl boyunca aynıdır.<br>• <strong>C:</strong> Öğle vakti (Güneş'in tepeye çıktığı an) aynı anda yaşanır.<br>• <strong>D:</strong> Gölgenin en kısa olduğu an (12:00) aynıdır.<br>• <strong>E:</strong> 21 Mart ve 23 Eylül ekinokslarında Güneş aynı anda doğar ve batar."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Başlangıç meridyenine olan uzaklıkları eşittir)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Meridyen yayları kutuplara doğru birbirine yaklaştığı için meridyenler arası mesafe Ekvator'dan kutuplara gidildikçe daralır.<br>• Aynı boylam üzerinde daha kuzeyde yer alan <strong>Gümüşhane</strong>'nin Greenwich'e (Başlangıç Meridyeni'ne) olan kilometre uzaklığı, daha güneydeki <strong>Tunceli</strong>'den daha azdır. Bu nedenle kuş uçuşu uzaklıkları eşit olamaz.<br><br>✔️ <strong>Aynı Boylamda Yer Alan Noktaların Ortak Özellikleri (Söylenebilir):</strong><br>• <strong>B) Öğle vakitleri:</strong> Güneş'in ufuk düzleminde en tepeye ulaştığı an (öğle vakti) yıl boyunca aynıdır.<br>• <strong>C) Ulusal saat ile yerel saat farkı:</strong> Boylam dereceleri aynı olduğu için Iğdır (45°D) meridyenine boylam farkları ve dolayısıyla zaman farkları aynıdır.<br>• <strong>D) Yerel saatleri:</strong> Yıl boyunca her an yerel saatleri birbiriyle aynıdır.<br>• <strong>E) En kısa gölge anı:</strong> Öğle vakti saat tam 12:00'de yaşandığı için gün içinde gölgelerinin en kısa olduğu an aynıdır."
   },
   {
     "id": "cogr1-q20",
@@ -738,7 +737,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Aynı anda farklı mevsim koşullarının yaşanabilmesi)<br><br>📌 <strong>Enlem vs Göreceli Konum:</strong><br>• Türkiye'de aynı günde Antalya'da denize girilirken Erzurum'da kayak yapılabilmesi; kısa mesafelerde yükselti, denizellik ve dağ sıralarının değişmesinden kaynaklanır; yani <strong>Göreceli (Özel) Konum</strong> sonucudur (Enlemle açıklanamaz).<br><br>❌ <strong>Enlemin Etkili Olduğu Durumlar:</strong><br>• <strong>A)</strong> Karadeniz'de deniz turizmi sezonunun Akdeniz'den kısa olması (Enlem/Sıcaklık).<br>• <strong>C)</strong> Akdeniz kıyılarında buharlaşmanın fazla olması (Enlem).<br>• <strong>D)</strong> Güneyden esen rüzgarların sıcaklığı artırması (Enlem).<br>• <strong>E)</strong> Çukurova'da buğdayın Bafra'dan erken hasat edilmesi (Enlem)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Aynı anda farklı mevsim koşullarının yaşanabilmesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de <strong>aynı anda / aynı gün içinde</strong> bir yerde (Antalya) denize girilirken diğer bir yerde (Erzurum) kayak yapılabilmesi; kısa mesafelerde yükselti, denizellik ve dağ sıralarının değişmesinin bir sonucudur; yani <strong>Göreceli (Özel) Konum</strong> ile açıklanır (Enlemle açıklanamaz).<br><br>❌ <strong>Enleme (Mutlak Konuma) Bağlı Seçenekler:</strong><br>• <strong>A) Cephesel yağışların görülmesi:</strong> Orta kuşakta kutup kökenli soğuk hava ile tropikal sıcak havanın karşılaşmasının (enlemin) sonucudur.<br>• <strong>C) Akdeniz'de kıyı turizm süresinin Karadeniz'den uzun olması:</strong> Ekvator'a yakın olan Akdeniz'de sıcaklık ortalamalarının ve yaz süresinin fazla olmasının (enlemin) sonucudur.<br>• <strong>D) Aydın'da tarım ürünlerinin Çanakkale'den önce olgunlaşması:</strong> Daha güneyde (enlemce Ekvator'a yakın) olan Aydın'da Güneş ışınlarının geliş açısının daha büyük olması ve sıcaklığın yüksek olması (enlem) sonucudur.<br>• <strong>E) Dört mevsimin belirgin yaşanabilmesi:</strong> Türkiye'nin Orta Kuşak'ta (enlem) bulunmasının sonucudur."
   },
   {
     "id": "cogr2-q1",
