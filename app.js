@@ -678,10 +678,10 @@ class EKYSApp {
             id: 'cogr_tarama_cat',
             name: '🎥 Coğrafya Video Tarama Testleri',
             icon: '🎥',
-            desc: 'Konu Tarama 1, 2, 3 ve 4. Ders Video Soru Çözüm Testleri.',
+            desc: 'Konu Tarama 1, 2, 3, 4 ve 5. Ders Video Soru Çözüm Testleri.',
             filterKey: 'cogr_tarama',
             targetSubtopic: 'cogr-tarama-subtopics',
-            badge: '4 Test (82 Soru)'
+            badge: '5 Test (122 Soru)'
           },
           {
             id: 'cogr_cikmis_cat',
@@ -1038,12 +1038,20 @@ class EKYSApp {
             badge: '22 Soru'
           },
           {
+            id: 'cogr5',
+            name: '🎥 5. Ders Video İçi Soruları',
+            icon: '🌦️',
+            desc: 'Türkiye İklimi, Akarsuları, Yer Şekilleri, Toprak Tipleri ve Bitki Örtüsü Soru Çözümleri.',
+            filterKey: 'cogr5',
+            badge: '40 Soru'
+          },
+          {
             id: 'cogr_tarama_tum',
             name: '🌟 Video Tarama Karma Testi',
             icon: '🎯',
-            desc: 'Dört video tarama testinin tüm sorularından oluşan 82 soruluk karma havuz.',
+            desc: 'Beş video tarama testinin tüm sorularından oluşan 122 soruluk karma havuz.',
             filterKey: 'cogr_tarama',
-            badge: '82 Soru'
+            badge: '122 Soru'
           }
         ]
       },
@@ -2548,7 +2556,8 @@ class EKYSApp {
       if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
       if (filterKey === 'cogr3') return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));
       if (filterKey === 'cogr4') return (q.testId === 'cogr4' || tId === 'cogr_tarama_4' || (tName.includes('tarama 4') && tName.includes('coğrafya')));
-      if (filterKey === 'cogr_tarama') return (q.testId === 'cogr1' || q.testId === 'cogr2' || q.testId === 'cogr3' || q.testId === 'cogr4' || tId.startsWith('cogr_tarama'));
+      if (filterKey === 'cogr5') return (q.testId === 'cogr5' || tId === 'cogr_tarama_5' || (tName.includes('tarama 5') && tName.includes('coğrafya')));
+      if (filterKey === 'cogr_tarama') return (q.testId === 'cogr1' || q.testId === 'cogr2' || q.testId === 'cogr3' || q.testId === 'cogr4' || q.testId === 'cogr5' || tId.startsWith('cogr_tarama'));
 
       // Münferit Coğrafya Testleri (Örn: cogr_test_22 Tarım, cogr_test_23 Hayvancılık vb.)
       if (filterKey.startsWith('cogr_test_')) {
