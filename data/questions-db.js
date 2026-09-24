@@ -1,3 +1,4 @@
+// EKYS 2027 Odakli Soru Veritabani
 window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
@@ -34,7 +35,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>C</strong> (36°-42° Kuzey Paralelleri, 26°-45° Doğu Meridyenleri)<br><br>📌 <strong>Türkiye'nin Uç Noktaları ve Matematik Koordinatları:</strong><br>• <strong>En Kuzey:</strong> Sinop (İnceburun) - <strong>42° Kuzey</strong><br>• <strong>En Güney:</strong> Hatay (Topraktutan Köyü) - <strong>36° Kuzey</strong><br>• <strong>En Batı:</strong> Çanakkale (Gökçeada / Avlaka Burnu) - <strong>26° Doğu</strong><br>• <strong>En Doğu:</strong> Iğdır (Dilucu / Aras Nehri kavşağı) - <strong>45° Doğu</strong><br><br>➡️ Türkiye bütünüyle <strong>Kuzey Yarım Küre'de</strong> ve Başlangıç Meridyeni'nin (Greenwich) <strong>Doğusunda</strong> yer alır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Mutlak: I - IV / Göreceli: II - III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>I. Yer Çekimi (Mutlak Konum):</strong> Dünya'nın geoit şekli ve enlem etkisi nedeniyle Ekvator'dan kutuplara ve deniz seviyesine yaklaştıkça yer çekimi artar. Trabzon'un hem kuzeyde hem de deniz seviyesinde olması yer çekimini Erzurum'a göre artırır.<br>• <strong>IV. Güneş'in Doğuşu (Mutlak Konum):</strong> Dünya'nın batıdan doğuya dönmesi ve boylam farkları sebebiyle doğudaki Iğdır'da yerel saat daima ileridir ve Güneş Çanakkale'den önce doğar.<br>• <strong>II. Aynı Anda Farklı Mevsimler (Göreceli Konum):</strong> Kısa mesafelerde yükselti, denizellik ve yer şekillerinin değişmesinin sonucudur.<br>• <strong>III. Orografik Yağışlar (Göreceli Konum):</strong> Dağların kıyı çizgisine paralel uzanması ve yükseltinin sonucudur."
   },
   {
     "id": "cogr1-q2",
@@ -71,7 +72,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Sinop)<br><br>📌 <strong>21 Haziran Yaz Gün Dönümü ve Gündüz Süresi:</strong><br>• 21 Haziran'da Güneş ışınları Yengeç Dönencesi'ne dik gelir. Bu tarihte Kuzey Yarım Küre'de güneyden kuzeye gidildikçe gündüz süresi uzar.<br>• Türkiye'nin en kuzey uç noktası <strong>Sinop (42°K)</strong> olduğu için 21 Haziran günü yaklaşık 15 saat 15 dakika ile <strong>yılın en uzun gündüz süresi</strong> Sinop'ta yaşanır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kutuplara göre yeri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Kutuplara veya Ekvator'a olan konum;</strong> bir yerin enlem derecesini (paralelini) ifade eder ve bu durum doğrudan <strong>Matematik (Mutlak) Konum</strong>un konusudur. Bir yerin özel (göreceli) konumunu incelerken kutuplara göre yerini bilmek şart değildir.<br><br>❌ <strong>Özel (Göreceli) Konum Faktörleri:</strong><br>• <strong>A) Karalar üzerindeki yeri:</strong> Kıtalar, ticaret yolları ve komşu ülkelere göre konum görecelidir.<br>• <strong>B) Denizlere göre yeri:</strong> Denizellik, okyanus, boğaz ve kıyı özellikleri görecelidir.<br>• <strong>D) Yer altı zenginlikleri:</strong> Madenler, enerji kaynakları ve jeolojik yapı görecelidir.<br>• <strong>E) Yükseltisi:</strong> Dağlar, platolar ve morfolojik yapı görecelidir."
   },
   {
     "id": "cogr1-q3",
@@ -108,7 +109,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Hatay)<br><br>📌 <strong>21 Aralık Kış Gün Dönümü ve Gündüz Süresi:</strong><br>• 21 Aralık'ta Güneş ışınları Oğlak Dönencesi'ne dik gelir. Bu tarihte Kuzey Yarım Küre'de güneye (Ekvator'a) doğru gidildikçe gündüz süresi uzar, gece süresi kısalır.<br>• Türkiye'nin en güney uç noktası olan <strong>Hatay (36°K)</strong>, 21 Aralık'ta diğer tüm illerimize göre <strong>en uzun gündüz</strong> (en kısa gece) süresine sahiptir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Enlem itibarıyla daha kuzeyde olması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Kutup Yıldızı (Polaris);</strong> yalnızca Kuzey Yarım Küre'den görülür ve bir yerdeki görünüm açısı doğrudan o yerin <strong>enlem derecesine</strong> eşittir (Kutup noktasında 90°, Ekvator'da 0°).<br>• Türkiye'nin en kuzey uç noktası olan <strong>Sinop (42° Kuzey)</strong> Kutup Yıldızı'nı yaklaşık 42° açı ile görürken, daha güneyde yer alan <strong>Hakkâri (37° Kuzey)</strong> yaklaşık 37° açı ile görür. Bu fark doğrudan <strong>enlem (kuzeyde olma)</strong> ile açıklanır.<br><br>❌ <strong>Çeldirici Şıkların Analizi:</strong><br>• Yer şekilleri, deniz kenarı olması veya çizgisel hız gök cisimlerinin kutupsal ufuk yükselim açısını belirlemez."
   },
   {
     "id": "cogr1-q4",
