@@ -710,10 +710,10 @@ class EKYSApp {
             id: 'cogr_tarama_cat',
             name: '🎥 Coğrafya Video Tarama Testleri',
             icon: '🎥',
-            desc: 'Konu Tarama 1, 2, 3, 4 ve 5. Ders Video Soru Çözüm Testleri.',
+            desc: 'Konu Tarama 1, 2, 3, 4, 5. Ders ve 1-4. Hafta Kamp Soru Çözümleri.',
             filterKey: 'cogr_tarama',
             targetSubtopic: 'cogr-tarama-subtopics',
-            badge: '5 Test (122 Soru)'
+            badge: '8 Test (282 Soru)'
           },
           {
             id: 'cogr_cikmis_cat',
@@ -1038,6 +1038,14 @@ class EKYSApp {
         desc: 'Çözmek istediğiniz Video Tarama Testini seçin:',
         items: [
           {
+            id: 'cogr_hafta1',
+            name: '🎥 Coğrafya Kampı 1. Hafta: Konum, Yer Şekilleri ve İklim',
+            icon: '🗺️',
+            desc: 'Türkiye\'nin Coğrafi Konumu, Jeolojik Yapı, Dağlar, Ovalar, Platolar ve İklim.',
+            filterKey: 'cogr_hafta1',
+            badge: '40 Soru'
+          },
+          {
             id: 'cogr1',
             name: '🎥 EKYS Coğrafya Video Tarama 1',
             icon: '🗺️',
@@ -1071,19 +1079,35 @@ class EKYSApp {
           },
           {
             id: 'cogr5',
-            name: '🎥 5. Ders Video İçi Soruları',
+            name: '🎥 5. Ders & 2. Hafta: Yer Şekilleri, İklim ve Bitki Örtüsü',
             icon: '🌦️',
-            desc: 'Türkiye İklimi, Akarsuları, Yer Şekilleri, Toprak Tipleri ve Bitki Örtüsü Soru Çözümleri.',
+            desc: 'Türkiye İklimi, Akarsuları, Yer Şekilleri, Toprak Tipleri ve Bitki Örtüsü Soru Çözümleri (50 Soru Tam).',
             filterKey: 'cogr5',
-            badge: '40 Soru'
+            badge: '50 Soru'
+          },
+          {
+            id: 'cogr_hafta3',
+            name: '🎥 Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç',
+            icon: '👥',
+            desc: 'Türkiye İklim Elemanları, Nüfus Dağılışı, Demografik Yapı, Yerleşmeler ve Göç Hareketleri.',
+            filterKey: 'cogr_hafta3',
+            badge: '50 Soru'
+          },
+          {
+            id: 'cogr_hafta4',
+            name: '🎥 Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım',
+            icon: '🏭',
+            desc: 'Türkiye\'nin Tarım, Hayvancılık, Madenler, Enerji Kaynakları, Sanayi ve Ulaşım Ağları.',
+            filterKey: 'cogr_hafta4',
+            badge: '60 Soru'
           },
           {
             id: 'cogr_tarama_tum',
             name: '🌟 Video Tarama Karma Testi',
             icon: '🎯',
-            desc: 'Beş video tarama testinin tüm sorularından oluşan 122 soruluk karma havuz.',
+            desc: 'Tüm video tarama ve kamp testlerinden oluşan 282 soruluk karma havuz.',
             filterKey: 'cogr_tarama',
-            badge: '122 Soru'
+            badge: '282 Soru'
           }
         ]
       },
@@ -2589,7 +2613,10 @@ class EKYSApp {
       if (filterKey === 'cogr3') return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));
       if (filterKey === 'cogr4') return (q.testId === 'cogr4' || tId === 'cogr_tarama_4' || (tName.includes('tarama 4') && tName.includes('coğrafya')));
       if (filterKey === 'cogr5') return (q.testId === 'cogr5' || tId === 'cogr_tarama_5' || (tName.includes('tarama 5') && tName.includes('coğrafya')));
-      if (filterKey === 'cogr_tarama') return (q.testId === 'cogr1' || q.testId === 'cogr2' || q.testId === 'cogr3' || q.testId === 'cogr4' || q.testId === 'cogr5' || tId.startsWith('cogr_tarama'));
+      if (filterKey === 'cogr_hafta1') return (q.testId === 'cogr_hafta1');
+      if (filterKey === 'cogr_hafta3') return (q.testId === 'cogr_hafta3');
+      if (filterKey === 'cogr_hafta4') return (q.testId === 'cogr_hafta4');
+      if (filterKey === 'cogr_tarama') return (['cogr1', 'cogr2', 'cogr3', 'cogr4', 'cogr5', 'cogr_hafta1', 'cogr_hafta3', 'cogr_hafta4'].includes(q.testId) || tId.startsWith('cogr_tarama'));
 
       // Münferit Coğrafya Testleri (Örn: cogr_test_22 Tarım, cogr_test_23 Hayvancılık vb.)
       if (filterKey.startsWith('cogr_test_')) {
