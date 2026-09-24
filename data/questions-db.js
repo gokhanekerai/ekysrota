@@ -811,7 +811,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Yengeç Dönencesi'nin kuzeyinde yer alması)<br><br>📌 <strong>Gölge Yönü Kuralı:</strong><br>• Kuzey Yarım Küre'de Yengeç Dönencesi'nin (23° 27'K) kuzeyinde yer alan alanlara Güneş ışınları daima güneyden gelir.<br>• Bu nedenle Türkiye'deki düz zeminlerde cisimlerin gölgesi öğle vaktinde <strong>yıl boyunca daima kuzeyi gösterir</strong> ve hiçbir zaman sıfır olmaz."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III numaralı merkez)<br><br>🎯 <strong>21 Aralık Kış Gün Dönümü Analizi:</strong><br>• 21 Aralık tarihinde Güneş ışınları Oğlak Dönencesi'ne dik gelir. Bu tarihte Kuzey Yarım Küre'de güneyden kuzeye doğru gidildikçe <strong>gece süresi uzar</strong>, gündüz süresi kısalır.<br>• Haritada en kuzeyde yer alan merkez <strong>III</strong> numaralı merkez olduğu için 21 Aralık'ta en uzun gece bu merkezde yaşanır."
   },
   {
     "id": "cogr2-q3",
@@ -848,7 +848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Hakkâri)<br><br>📌 <strong>21 Haziran Tarihinde Yön ve İl Tespiti:</strong><br>1. <strong>Gece Süresinin Uzaması:</strong> 21 Haziran'da kuzeyde gündüz en uzun, gece en kısadır. Sinop'tan güneye (<strong>Ekvator'a</strong>) doğru gidildikçe gece süresi uzar.<br>2. <strong>Yerel Saatin İleri Olması:</strong> <strong>Doğuya</strong> gidildikçe yerel saat daha ileri olur.<br><br>➡️ Sinop'tan Güneydoğu yönüne gidildiğinde hem en güneyde hem de en doğuda yer alan ilimiz <strong>Hakkâri</strong>'dir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (21 Aralık)<br><br>🎯 <strong>Gölge Boyu Değişimi Analizi:</strong><br>• Türkiye'de Güneş ışınlarının yıl içindeki en eğik açıyla geldiği ve öğle vakti gölge boyunun <strong>en uzun</strong> olduğu tarih <strong>21 Aralık (Kış Gün Dönümü)</strong>'tür.<br>• 21 Aralık'tan itibaren Güneş ışınlarının geliş açısı büyümeye başladığı için, bu tarihten sonra gölge boyları <strong>kısalmaya</strong> başlar.<br>• (21 Haziran'da ise gölge en kısadır ve o tarihten sonra gölgeler uzamaya başlar)."
   },
   {
     "id": "cogr2-q4",
@@ -5961,7 +5961,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (I ve II)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"I ve II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) I, II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)"
   },
   {
     "id": "ekys2026-q2",
@@ -5998,7 +5998,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Yalnız I)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Yalnız I\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yalnız I** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) I, II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)"
   },
   {
     "id": "ekys2026-q3",
@@ -6035,7 +6035,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Yunus Emre)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Yunus Emre\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yunus Emre** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Hoca Dehhanî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Mevlana Celaleddin Rumî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bahaeddin Veled:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ömer Hayyam:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yunus Emre)"
   },
   {
     "id": "ekys2026-q4",
@@ -6072,7 +6072,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İçtihat)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İçtihat\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İçtihat** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Volkan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Mahfil:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Meşveret:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mizan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İçtihat)"
   },
   {
     "id": "ekys2026-q5",
@@ -6109,7 +6109,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Mekteb-i Mülkiye)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Mekteb-i Mülkiye\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mekteb-i Mülkiye** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Mühendishane-i Berrî-i Hümayun:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Mühendishane-i Bahrî-i Hümayun:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tıbhane-i Âmire:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mekteb-i Harbiye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Mekteb-i Mülkiye)"
   },
   {
     "id": "ekys2026-q6",
@@ -6146,7 +6146,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Akarsu sıklığına bağlı olarak hidroelektrik enerji potansiyelinin yüksek olması)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Akarsu sıklığına bağlı olarak hidroelektrik enerji potansiyelinin yüksek olması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Akarsu sıklığına bağlı olarak hidroelektrik enerji potansiyelinin yüksek olması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Güneye bakan yamaçların kuzeye bakan yamaçlara göre daha sıcak olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Güneş ışınlarının geliş açısının güneyden kuzeye doğru daralması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kuzeyden esen rüzgârların genellikle sıcaklık ortalamalarını düşürmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Dört mevsimin belirgin olması nedeniyle turizm aktivitelerinin çeşitlenmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Akarsu sıklığına bağlı olarak hidroelektrik enerji potansiyelinin yüksek olması)"
   },
   {
     "id": "ekys2026-q7",
@@ -6183,7 +6183,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Gediz)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Gediz\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gediz** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Manavgat:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Aksu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Göksu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Zamantı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Gediz)"
   },
   {
     "id": "ekys2026-q8",
@@ -6220,7 +6220,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Uygulanan nüfus politikaları)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Uygulanan nüfus politikaları\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uygulanan nüfus politikaları** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Evlenme yaşının yükselmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Kentlerde yaşayan nüfusun artması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kadınların iş gücüne daha fazla katılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Eğitimli nüfus oranının artması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Uygulanan nüfus politikaları)"
   },
   {
     "id": "ekys2026-q9",
@@ -6257,7 +6257,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (II ve IV)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"II ve IV\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **II ve IV** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) III ve IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve IV)"
   },
   {
     "id": "ekys2026-q10",
@@ -6294,7 +6294,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (III ve IV)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"III ve IV\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **III ve IV** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (III ve IV)"
   },
   {
     "id": "ekys2026-q11",
@@ -6331,7 +6331,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Temel hak ve hürriyetlerin kötüye kullanılamaması)"
   },
   {
     "id": "ekys2026-q12",
@@ -6368,7 +6368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (1 yıl)"
   },
   {
     "id": "ekys2026-q13",
@@ -6405,7 +6405,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Eğitim ve öğretim kurumlarında okutulacak yabancı diller Cumhurbaşkanlığı kararnamesiyle düzenlenir.)"
   },
   {
     "id": "ekys2026-q14",
@@ -6442,7 +6442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Selvi Boylum Al Yazmalım)"
   },
   {
     "id": "ekys2026-q15",
@@ -6479,7 +6479,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Lebdeğmez)"
   },
   {
     "id": "ekys2026-q16",
@@ -6516,7 +6516,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Aliya İzzetbegoviç)"
   },
   {
     "id": "ekys2026-q17",
@@ -6553,7 +6553,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Balkan Savaşları)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Balkan Savaşları\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Balkan Savaşları** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Trablusgarp Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) 93 Harbi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Birinci Dünya Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) 1897 Osmanlı-Yunan Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Balkan Savaşları)"
   },
   {
     "id": "ekys2026-q18",
@@ -6590,7 +6590,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Mondros Ateşkes Antlaşması)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Mondros Ateşkes Antlaşması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mondros Ateşkes Antlaşması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Erzincan Ateşkes Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Sevr Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Brest-Litovsk Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mudanya Ateşkes Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Mondros Ateşkes Antlaşması)"
   },
   {
     "id": "ekys2026-q19",
@@ -6627,7 +6627,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Osmanlı Hükûmeti'ni Sevr Antlaşması'nı imzalamaya zorlamak)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Osmanlı Hükûmeti'ni Sevr Antlaşması'nı imzalamaya zorlamak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Osmanlı Hükûmeti'ni Sevr Antlaşması'nı imzalamaya zorlamak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Millî cemiyetlerin tek çatı altında birleşmesinin önüne geçmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Mebusan Meclisi'nde Misakımillî'nin onaylanmasını önlemek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ankara'da yeni bir meclisin toplanmasına engel olmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Osmanlı Sadrazamı Tevfik Paşa'yı istifa etmeye zorlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Osmanlı Hükûmeti'ni Sevr Antlaşması'nı imzalamaya zorlamak)"
   },
   {
     "id": "ekys2026-q20",
@@ -6664,7 +6664,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (İstiklal Mahkemelerinin kurulması)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"İstiklal Mahkemelerinin kurulması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İstiklal Mahkemelerinin kurulması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Manda ve himayenin reddedilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Heyet-i Temsiliyenin oluşturulması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Mustafa Kemal'in askerlikten istifa etmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Millî cemiyetlerin birleştirilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (İstiklal Mahkemelerinin kurulması)"
   },
   {
     "id": "ekys2026-q21",
@@ -6701,7 +6701,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (I ve II)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"I ve II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) I, II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)"
   },
   {
     "id": "ekys2026-q22",
@@ -6738,7 +6738,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Mehmet Âkif (Ersoy))\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Mehmet Âkif (Ersoy)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mehmet Âkif (Ersoy)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Adnan (Adıvar):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hamdullah Suphi (Tanrıöver):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Şevket Süreyya (Aydemir):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ahmet Hamdi (Tanpınar):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mehmet Âkif (Ersoy))"
   },
   {
     "id": "ekys2026-q23",
@@ -6775,7 +6775,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Gediz Taarruzu)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Gediz Taarruzu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gediz Taarruzu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kütahya-Eskişehir Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İkinci İnönü Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sakarya Meydan Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Büyük Taarruz:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Gediz Taarruzu)"
   },
   {
     "id": "ekys2026-q24",
@@ -6812,7 +6812,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Gümrü Antlaşması)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Gümrü Antlaşması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gümrü Antlaşması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Ankara Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Moskova Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kars Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Lozan Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gümrü Antlaşması)"
   },
   {
     "id": "ekys2026-q25",
@@ -6849,7 +6849,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (I ve III)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"I ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) I, II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve III)"
   },
   {
     "id": "ekys2026-q26",
@@ -6886,7 +6886,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Mübadele Sözleşmesi)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Mübadele Sözleşmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mübadele Sözleşmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Boğazlar Rejimine İlişkin Sözleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Trakya Sınırına İlişkin Sözleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Genel Affa İlişkin Bildiri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Karaağaç Arazisi ile Bozcaada ve İmroz Adalarına İlişkin Protokol:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Mübadele Sözleşmesi)"
   },
   {
     "id": "ekys2026-q27",
@@ -6923,7 +6923,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dokuz Umde)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dokuz Umde\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dokuz Umde** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Misak-ı İktisadi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Halkçılık Beyannamesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tekalif-i Milliye Emirleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Misakımillî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dokuz Umde)"
   },
   {
     "id": "ekys2026-q28",
@@ -6960,7 +6960,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Darülfünun)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Darülfünun\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Darülfünun** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Millet Mektepleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Harp Okulu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ankara Hukuk Mektebi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Dil ve Tarih-Coğrafya Fakültesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Darülfünun)"
   },
   {
     "id": "ekys2026-q29",
@@ -6997,7 +6997,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Komuta birliği)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Komuta birliği\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Komuta birliği** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Düzen:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Merkezîleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yetki:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İş bölümü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Komuta birliği)"
   },
   {
     "id": "ekys2026-q30",
@@ -7034,7 +7034,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Max Weber - Bürokrasi Kuramı)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Max Weber - Bürokrasi Kuramı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Max Weber - Bürokrasi Kuramı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Frederick Taylor - Bilimsel Yönetim Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Henri Fayol - Yönetim Süreci Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Elton Mayo - İnsan İlişkileri Yaklaşımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Douglas McGregor - X ve Y Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Max Weber - Bürokrasi Kuramı)"
   },
   {
     "id": "ekys2026-q31",
@@ -7071,7 +7071,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Bilimsel - Klinik)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Bilimsel - Klinik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bilimsel - Klinik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Klinik - Gelişimsel:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Bilimsel - Sanatsal:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğretimsel - Klinik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğretimsel - Gelişimsel:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bilimsel - Klinik)"
   },
   {
     "id": "ekys2026-q32",
@@ -7108,7 +7108,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Ortak deneyim alanının genişletilmesi)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Ortak deneyim alanının genişletilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Ortak deneyim alanının genişletilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kişi odaklı geri bildirim alınması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İletişim kanalının değiştirilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sosyal gürültünün ortadan kaldırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Velilerin empati yeteneğinin geliştirilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ortak deneyim alanının genişletilmesi)"
   },
   {
     "id": "ekys2026-q33",
@@ -7145,7 +7145,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Örgüt ile çevre arasındaki çatışma)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Örgüt ile çevre arasındaki çatışma\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örgüt ile çevre arasındaki çatışma** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Rol içi çatışma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Roller arası çatışma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bireyin kendisinden kaynaklanan çatışma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Grup içi çatışma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Örgüt ile çevre arasındaki çatışma)"
   },
   {
     "id": "ekys2026-q34",
@@ -7182,7 +7182,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Her iki sınava göre 55 öğrenci başarısız olarak sınıflandırılmıştır.)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Her iki sınava göre 55 öğrenci başarısız olarak sınıflandırılmıştır.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Her iki sınava göre 55 öğrenci başarısız olarak sınıflandırılmıştır.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I. sınava göre 160 öğrenci başarılı olarak sınıflandırılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) II. sınava göre 50 öğrenci başarısız olarak sınıflandırılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Her iki sınava göre toplam 20 öğrenci farklı sınıflandırılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrencilerin %90'ı her iki sınava göre aynı sınıflandırılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Her iki sınava göre 55 öğrenci başarısız olarak sınıflandırılmıştır.)"
   },
   {
     "id": "ekys2026-q35",
@@ -7219,7 +7219,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Okuldaki süreçlerin öngörüldüğü gibi aksamadan gerçekleşmesini sağlaması)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Okuldaki süreçlerin öngörüldüğü gibi aksamadan gerçekleşmesini sağlaması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Okuldaki süreçlerin öngörüldüğü gibi aksamadan gerçekleşmesini sağlaması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kişilerin ahlaki değerleriyle uyumlu bir tavır içerisinde olmalarını desteklemesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Söylemek istediği şeyi açık ve net bir şekilde ifade etmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bir karara varmadan önce farklı bakış açılarını da değerlendirmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bulunduğu ortamda güvene dayalı bir iklim oluşturması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Okuldaki süreçlerin öngörüldüğü gibi aksamadan gerçekleşmesini sağlaması)"
   },
   {
     "id": "ekys2026-q36",
@@ -7256,7 +7256,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Değerler - Kutlamalar)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Değerler - Kutlamalar\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Değerler - Kutlamalar** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İletişim ağları - Kutlamalar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Değerler - Kahramanlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İletişim ağları - Kahramanlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İletişim ağları - Değerler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Değerler - Kutlamalar)"
   },
   {
     "id": "ekys2026-q37",
@@ -7293,7 +7293,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (I, II ve III)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"I, II ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I, II ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)"
   },
   {
     "id": "ekys2026-q38",
@@ -7330,7 +7330,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Sarmal)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Sarmal\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sarmal** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Konu ağı - Proje merkezli:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Modüler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Piramitsel:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Çekirdek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sarmal)"
   },
   {
     "id": "ekys2026-q39",
@@ -7367,7 +7367,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Premack ilkesi)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Premack ilkesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Premack ilkesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Olumsuz pekiştirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Üst düzey koşullama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Şekillendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Karşıt koşullama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Premack ilkesi)"
   },
   {
     "id": "ekys2026-q40",
@@ -7404,7 +7404,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Her bir alternatifin her adımını ayrıntılı olarak incelemesi)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Her bir alternatifin her adımını ayrıntılı olarak incelemesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Her bir alternatifin her adımını ayrıntılı olarak incelemesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yararlanabileceği eylem planlarını uygun ölçütler kullanarak oluşturması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İçinde bulunulan bağlama yönelik bilgi modellemesi yapması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Durumsal değerlendirmeyi ön plana çıkarması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Karar vermede süreç odaklı yaklaşımı kullanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Her bir alternatifin her adımını ayrıntılı olarak incelemesi)"
   },
   {
     "id": "ekys2026-q41",
@@ -7441,7 +7441,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (I, II ve III)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"I, II ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I, II ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)"
   },
   {
     "id": "ekys2026-q42",
@@ -7478,7 +7478,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Sorumluluklarını yerine getirme konusunda tutarlı davranır.)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Sorumluluklarını yerine getirme konusunda tutarlı davranır.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sorumluluklarını yerine getirme konusunda tutarlı davranır.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Öğrenme sürecine merakla yaklaşır ve konulara derinlemesine ilgi gösterir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Bilgi, olgu ya da sorunların nedenini anlamada farklı kaynaklardan yararlanır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Etkili iletişim becerilerine sahiptir ve takım çalışmasına katkı verir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Değişen koşullara uyum sağlama ve yeni fikirlere açık olma becerisine sahiptir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sorumluluklarını yerine getirme konusunda tutarlı davranır.)"
   },
   {
     "id": "ekys2026-q43",
@@ -7515,7 +7515,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Toplumca sahip olunan ortak bilinci ve kültürü eğitim yoluyla kazandırma)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Toplumca sahip olunan ortak bilinci ve kültürü eğitim yoluyla kazandırma\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Toplumca sahip olunan ortak bilinci ve kültürü eğitim yoluyla kazandırma** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Ruh ve beden bütünlüğünü korumada kendi kendini yönetme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Hayatta karşılaşacağı problemleri anlama ve çözmede bilgiyi etkili kullanma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ahlaki ilkeleri anlayıp değerlendirme ve davranışa dönüştürme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Zihinsel gelişimin yanında bedensel ve duygusal gelişimi de dikkate alma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Toplumca sahip olunan ortak bilinci ve kültürü eğitim yoluyla kazandırma)"
   },
   {
     "id": "ekys2026-q44",
@@ -7552,7 +7552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Eğitim programı ögelerinin birbirinden bağımsız olduğu sistematik bir model oluşturmak)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Eğitim programı ögelerinin birbirinden bağımsız olduğu sistematik bir model oluşturmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Eğitim programı ögelerinin birbirinden bağımsız olduğu sistematik bir model oluşturmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) İnsanı temel erdemler doğrultusunda yetiştirmek ve geleceğe hazırlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hedeflenen öğrenci profiline uyumlu paydaş rol ve sorumlulukları kazandırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Eğitim öğretim ve ölçme değerlendirme yöntem ve tekniklerine yol gösterici olmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bireyin tüm yönleriyle gelişimini temel alan özgün bir eğitim modeli tasarlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Eğitim programı ögelerinin birbirinden bağımsız olduğu sistematik bir model oluşturmak)"
   },
   {
     "id": "ekys2026-q45",
@@ -7589,7 +7589,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Bireysel durumların dikkate alınarak nitelikli çeşitliliğin sağlanması)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Bireysel durumların dikkate alınarak nitelikli çeşitliliğin sağlanması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bireysel durumların dikkate alınarak nitelikli çeşitliliğin sağlanması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Okulların yerel ve bölgesel eğitim ihtiyaçlarını dikkate alma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Program dışında sosyal sorumluluk etkinlikleri yürütme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Gelecekteki uygulamaları iyileştirmeye yönelik uygulayıcı yansıtmaları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğretmenin merkezde olduğu öğrenme yaşantıları düzenleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bireysel durumların dikkate alınarak nitelikli çeşitliliğin sağlanması)"
   },
   {
     "id": "ekys2026-q46",
@@ -7626,7 +7626,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Özetleme Becerisi)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Özetleme Becerisi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Özetleme Becerisi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Gözlemleme Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bilgi Toplama Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yapılandırma Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yansıtma Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Özetleme Becerisi)"
   },
   {
     "id": "ekys2026-q47",
@@ -7663,7 +7663,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Görsel Mesajı Okuma Becerisi)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Görsel Mesajı Okuma Becerisi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Görsel Mesajı Okuma Becerisi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Mantıksal Muhakeme Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Tablo, Grafik, Şekil ve/veya Diyagram Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Mekânsal Düşünme Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sosyal Katılım Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Görsel Mesajı Okuma Becerisi)"
   },
   {
     "id": "ekys2026-q48",
@@ -7700,7 +7700,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Merak, azim ve kararlılık, kendine inanma)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Merak, azim ve kararlılık, kendine inanma\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Merak, azim ve kararlılık, kendine inanma** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Merak, kendine güvenme, azim ve kararlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Bağımsızlık, azim ve kararlılık, kendine güvenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bağımsızlık, seçicilik, kendine inanma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kendine inanma, merak, seçicilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Merak, azim ve kararlılık, kendine inanma)"
   },
   {
     "id": "ekys2026-q49",
@@ -7737,7 +7737,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Süreç Bileşeni)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Süreç Bileşeni\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Süreç Bileşeni** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Alan Becerisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Okuryazarlık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrenme Kanıtları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Köprü Kurma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Süreç Bileşeni)"
   },
   {
     "id": "ekys2026-q50",
@@ -7774,7 +7774,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Sorumlu karar verme ile İş birliği)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Sorumlu karar verme ile İş birliği\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sorumlu karar verme ile İş birliği** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) İletişim ile Esneklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Sorumlu karar verme ile Esneklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sosyal farkındalık ile Uyum:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sosyal farkındalık ile İş birliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sorumlu karar verme ile İş birliği)"
   },
   {
     "id": "ekys2026-q51",
@@ -7811,7 +7811,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Estetik)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Estetik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Estetik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sabır:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Çalışkanlık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mütevazılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mahremiyet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Estetik)"
   },
   {
     "id": "ekys2026-q52",
@@ -7848,7 +7848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Farkındalık)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Farkındalık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Farkındalık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Esneklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) İşlevsellik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Eylemsellik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bütünlük:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Farkındalık)"
   },
   {
     "id": "ekys2026-q53",
@@ -7885,7 +7885,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (I ve II)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"I ve II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) I, II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)"
   },
   {
     "id": "ekys2026-q54",
@@ -7922,7 +7922,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Beceriler arası ilişkiler öğretim programlarında nasıl ele alınmıştır)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Beceriler arası ilişkiler öğretim programlarında nasıl ele alınmıştır\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Beceriler arası ilişkiler öğretim programlarında nasıl ele alınmıştır** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yaşam becerilerinin temel aşamaları hangi bilişsel düzeye göre biçimlendirilmiştir:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Öğretim programlarında yer alan beceriler hangi yöntem/tekniklerle öğretilecektir:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Becerilerin ölçülüp değerlendirmesinde hangi araçlar kullanılacaktır:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Becerilerin okul dışındaki yaşamla ilişkilendirilmesi hangi boyutlarda ele alınmıştır:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Beceriler arası ilişkiler öğretim programlarında nasıl ele alınmıştır)"
   },
   {
     "id": "ekys2026-q55",
@@ -7959,7 +7959,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Öğrenci ne bilmelidir?)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Öğrenci ne bilmelidir?\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrenci ne bilmelidir?** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Öğretmen nasıl öğretmelidir?:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Öğrenci ne zaman öğrenmelidir?:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrenci ihtiyaçları nelerdir?:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrenci beklentileri nelerdir?:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Öğrenci ne bilmelidir?)"
   },
   {
     "id": "ekys2026-q56",
@@ -7996,7 +7996,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Temel kabuller)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Temel kabuller\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Temel kabuller** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Öğrenme kanıtı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Köprü kurma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Zenginleştirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Biçimlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Temel kabuller)"
   },
   {
     "id": "ekys2026-q57",
@@ -8033,7 +8033,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Öğrencilerin derse aktif katılımlarını sağlamak)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Öğrencilerin derse aktif katılımlarını sağlamak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrencilerin derse aktif katılımlarını sağlamak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Öğrencilerin mevcut bilgi ve beceri düzeylerini belirlemek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Öğrenme sürecinde öğrenci ihtiyaçlarını tespit etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrencilerin öğrenme çıktı ve beklentilerini anlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğretim programının içeriğini özelleştirmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğrencilerin derse aktif katılımlarını sağlamak)"
   },
   {
     "id": "ekys2026-q58",
@@ -8070,7 +8070,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Köprü kurma)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Köprü kurma\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Köprü kurma** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Temel kabuller:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Ön değerlendirme süreci:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrenme-öğretme uygulamaları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Farklılaştırma uygulamaları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Köprü kurma)"
   },
   {
     "id": "ekys2026-q59",
@@ -8107,7 +8107,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Artırılmış gerçeklik tabanlı öğrenme ortamları - Web seminerleri)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Artırılmış gerçeklik tabanlı öğrenme ortamları - Web seminerleri\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Artırılmış gerçeklik tabanlı öğrenme ortamları - Web seminerleri** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Çevrim içi öğrenme ortamları - Eğitim portalları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Geleneksel fiziksel ortamlar - Atölyeler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sosyal öğrenme ortamları - Kulüpler ve organizasyonlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Açık alan öğrenme ortamları - Spor eğitimi merkezleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Artırılmış gerçeklik tabanlı öğrenme ortamları - Web seminerleri)"
   },
   {
     "id": "ekys2026-q60",
@@ -8144,7 +8144,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Sorgulamaya dayalı öğrenme)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Sorgulamaya dayalı öğrenme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sorgulamaya dayalı öğrenme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Bağlam temelli öğrenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yaşantı temelli öğrenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İş birlikli öğrenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Proje temelli öğrenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sorgulamaya dayalı öğrenme)"
   },
   {
     "id": "ekys2026-q61",
@@ -8181,7 +8181,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Yapılandırılmış grid)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Yapılandırılmış grid\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yapılandırılmış grid** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kontrol listesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kelime ilişkilendirme testi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tanılayıcı dallanmış ağaç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Dereceli puanlama anahtarı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yapılandırılmış grid)"
   },
   {
     "id": "ekys2026-q62",
@@ -8218,7 +8218,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Dönüşümler)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Dönüşümler\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dönüşümler** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Üst düzey düşünme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Açık uçluluk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğretim hızı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Akıl yürütme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Dönüşümler)"
   },
   {
     "id": "ekys2026-q63",
@@ -8255,7 +8255,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Farklı zümre uygulamaları için ölçüt oluşturulmalıdır.)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Farklı zümre uygulamaları için ölçüt oluşturulmalıdır.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Farklı zümre uygulamaları için ölçüt oluşturulmalıdır.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Öğrenci katılımını destekler nitelikte olmalıdır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yaparak ve yaşayarak öğrenmeye olanak tanımalıdır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrencinin bütüncül gelişimine hizmet etmelidir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrenme çıktıları dikkate alınmalıdır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Farklı zümre uygulamaları için ölçüt oluşturulmalıdır.)"
   },
   {
     "id": "ekys2026-q64",
@@ -8292,7 +8292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (II ve III)\n\n📌 **Konu / Çözüm Açıklaması (2026 EKYS - Türkiye Yüzyılı Maarif Modeli):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"II ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **II ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) II ve V:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) III ve IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) IV ve V:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (II ve III)"
   },
   {
     "id": "ekys2026-q65",
@@ -8329,7 +8329,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (15)"
   },
   {
     "id": "ekys2026-q66",
@@ -8366,7 +8366,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanlığı Genel Sekreteri)"
   },
   {
     "id": "ekys2026-q67",
@@ -8403,7 +8403,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Türkiye Büyük Millet Meclisi Başkanlığı)"
   },
   {
     "id": "ekys2026-q68",
@@ -8440,7 +8440,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (15)"
   },
   {
     "id": "ekys2026-q69",
@@ -8477,7 +8477,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (İhtiyar kurulu)"
   },
   {
     "id": "ekys2026-q70",
@@ -8514,7 +8514,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (Eğitim hakkı)"
   },
   {
     "id": "ekys2026-q71",
@@ -8551,7 +8551,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Millî Eğitim Bakanlığı)"
   },
   {
     "id": "ekys2026-q72",
@@ -8588,7 +8588,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak)"
   },
   {
     "id": "ekys2026-q73",
@@ -8625,7 +8625,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Talim ve Terbiye Kurulu Başkanlığı)"
   },
   {
     "id": "ekys2026-q74",
@@ -8662,7 +8662,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (Üyeliğin öğrenildiği tarihten itibaren 6 ay)"
   },
   {
     "id": "ekys2026-q75",
@@ -8699,7 +8699,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Aylıktan kesme)"
   },
   {
     "id": "ekys2026-q76",
@@ -8736,7 +8736,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yargı ve adalet hizmetleri)"
   },
   {
     "id": "ekys2026-q77",
@@ -8773,7 +8773,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Cumhurbaşkanlığı İletişim Başkanlığında çalışan kamu görevlileri)"
   },
   {
     "id": "ekys2026-q78",
@@ -8810,7 +8810,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı)"
   },
   {
     "id": "ekys2026-q79",
@@ -8847,7 +8847,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)"
   },
   {
     "id": "ekys2026-q80",
@@ -8884,7 +8884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız III)"
   },
   {
     "id": "ekys2025-q1",
@@ -8921,7 +8921,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (II ve III)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"II ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **II ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (II ve III)"
   },
   {
     "id": "ekys2025-q2",
@@ -8958,7 +8958,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Nâib-i saltanat)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Nâib-i saltanat\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Nâib-i saltanat** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Emîrü'l-Ümerâ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Müstevfî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Müşrif:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Emîr-i Dâd:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Nâib-i saltanat)"
   },
   {
     "id": "ekys2025-q3",
@@ -8995,7 +8995,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Nişancı)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Nişancı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Nişancı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kazasker:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Defterdar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Reisülküttap:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sadrazam:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Nişancı)"
   },
   {
     "id": "ekys2025-q4",
@@ -9032,7 +9032,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Yalnız II)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Yalnız II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yalnız II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II)"
   },
   {
     "id": "ekys2025-q5",
@@ -9069,7 +9069,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Enderun)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Enderun\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Enderun** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Defterhâne:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Rüus Kalemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Menzilhâne:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sıbyan Mektebi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Enderun)"
   },
   {
     "id": "ekys2025-q6",
@@ -9106,7 +9106,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Suat Uğurlu)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Suat Uğurlu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Suat Uğurlu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Ataköy:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Hirfanlı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Almus:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kılıçkaya:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Suat Uğurlu)"
   },
   {
     "id": "ekys2025-q7",
@@ -9143,7 +9143,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Geyik Dağları — Aladağlar — Tecer Dağları)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Geyik Dağları — Aladağlar — Tecer Dağları\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Geyik Dağları — Aladağlar — Tecer Dağları** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Dedegöl Dağları — Bolkar Dağları — Kaçkar Dağları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Geyik Dağları — Bey Dağları — Kaçkar Dağları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bolkar Dağları — Geyik Dağları — Tecer Dağları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Aladağlar — Bolkar Dağları — Bey Dağları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Geyik Dağları — Aladağlar — Tecer Dağları)"
   },
   {
     "id": "ekys2025-q8",
@@ -9180,7 +9180,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Yalnız II)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Yalnız II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yalnız II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II)"
   },
   {
     "id": "ekys2025-q9",
@@ -9217,7 +9217,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (II)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) V:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (II)"
   },
   {
     "id": "ekys2025-q10",
@@ -9254,7 +9254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Doğu Karadeniz)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Doğu Karadeniz\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Doğu Karadeniz** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Ortadoğu Anadolu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Batı Marmara:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Güneydoğu Anadolu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Batı Anadolu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Doğu Karadeniz)"
   },
   {
     "id": "ekys2025-q11",
@@ -9291,7 +9291,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (Cumhurbaşkanı)"
   },
   {
     "id": "ekys2025-q12",
@@ -9328,7 +9328,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (En az 20 Türk vatandaşının bir araya gelmesiyle kurulurlar.)"
   },
   {
     "id": "ekys2025-q13",
@@ -9365,7 +9365,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Radyo ve Televizyon Üst Kurulu (RTÜK))"
   },
   {
     "id": "ekys2025-q14",
@@ -9402,7 +9402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yel Değirmenleri)"
   },
   {
     "id": "ekys2025-q15",
@@ -9439,7 +9439,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (Akira Kurosawa)"
   },
   {
     "id": "ekys2025-q16",
@@ -9476,7 +9476,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Lale)"
   },
   {
     "id": "ekys2025-q17",
@@ -9513,7 +9513,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (I ve II)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"I ve II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) I, II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)"
   },
   {
     "id": "ekys2025-q18",
@@ -9550,7 +9550,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Heyet-i Temsiliyenin oluşturulması)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Heyet-i Temsiliyenin oluşturulması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Heyet-i Temsiliyenin oluşturulması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Hıyanet-i Vataniye Kanunu'nun çıkarılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İstanbul Hükümetinin yapmış olduğu işlemlerin geçersiz sayılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Teşkilat-ı Esasiye Kanunu'nun yürürlüğe girmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İstiklal Mahkemelerinin faaliyete geçmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Heyet-i Temsiliyenin oluşturulması)"
   },
   {
     "id": "ekys2025-q19",
@@ -9587,7 +9587,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Trabzon Muhafaza-i Hukuk-ı Milliye Cemiyeti)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Trabzon Muhafaza-i Hukuk-ı Milliye Cemiyeti\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Trabzon Muhafaza-i Hukuk-ı Milliye Cemiyeti** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kilikyalılar Cemiyeti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Redd-i İlhak Cemiyeti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Millî Kongre Cemiyeti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Trakya Paşaeli Müdafaa-i Hukuk Cemiyeti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Trabzon Muhafaza-i Hukuk-ı Milliye Cemiyeti)"
   },
   {
     "id": "ekys2025-q20",
@@ -9624,7 +9624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (I, II ve III)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"I, II ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I, II ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)"
   },
   {
     "id": "ekys2025-q21",
@@ -9661,7 +9661,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (I ve II)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"I ve II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) I, II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve II)"
   },
   {
     "id": "ekys2025-q22",
@@ -9698,7 +9698,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (I, II ve III)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"I, II ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I, II ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)"
   },
   {
     "id": "ekys2025-q23",
@@ -9735,7 +9735,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Halkçılık)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Halkçılık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Halkçılık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Laiklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Devletçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Milliyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Cumhuriyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Halkçılık)"
   },
   {
     "id": "ekys2025-q24",
@@ -9772,7 +9772,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Tevfik Rüştü Aras)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Tevfik Rüştü Aras\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Tevfik Rüştü Aras** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Bekir Sami Kunduh:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yusuf Kemal Tengirşenk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İsmet İnönü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Numan Menemencioğlu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tevfik Rüştü Aras)"
   },
   {
     "id": "ekys2025-q25",
@@ -9809,7 +9809,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Öz Yönelim (Özerklik))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Değerler Eğitimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Öz Yönelim (Özerklik)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öz Yönelim (Özerklik)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Uyum:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Güvenlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Geleneksellik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Evrenselcilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Öz Yönelim (Özerklik))"
   },
   {
     "id": "ekys2025-q26",
@@ -9846,7 +9846,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dedikodu)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Değerler Eğitimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dedikodu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dedikodu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İstasyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Akvaryum:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Beyin eseri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Listeleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dedikodu)"
   },
   {
     "id": "ekys2025-q27",
@@ -9883,7 +9883,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Değer kavramının tanımları)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Değerler Eğitimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Değer kavramının tanımları\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Değer kavramının tanımları** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Değerler eğitiminin gerekliliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Değer erozyonunun nedenleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Değer aktarmanın önemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Değerlerin programlardaki yeri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Değer kavramının tanımları)"
   },
   {
     "id": "ekys2025-q28",
@@ -9920,7 +9920,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Dayanışma)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Değerler Eğitimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Dayanışma\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dayanışma** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Bilimsellik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Barış:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Dürüstlük:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Özgürlük:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Dayanışma)"
   },
   {
     "id": "ekys2025-q29",
@@ -9957,7 +9957,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Adil topluluk okulları (Kohlberg))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Değerler Eğitimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Adil topluluk okulları (Kohlberg)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Adil topluluk okulları (Kohlberg)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Değer aşılama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Değer açıklama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gözlem yoluyla öğrenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ahlaki muhakeme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Adil topluluk okulları (Kohlberg))"
   },
   {
     "id": "ekys2025-q30",
@@ -9994,7 +9994,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Çözüm önerilerini kendisinin sunması)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Değerler Eğitimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Çözüm önerilerini kendisinin sunması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Çözüm önerilerini kendisinin sunması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Karar verme aşamasına uygulamanın sonunda yer vermesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Ek kanıtlar toplatması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrencilerine soru sorması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Örnek olayın tartışmalı olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Çözüm önerilerini kendisinin sunması)"
   },
   {
     "id": "ekys2025-q31",
@@ -10031,7 +10031,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Eduard Spranger)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Değerler Eğitimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Eduard Spranger\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Eduard Spranger** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) C. Peterson:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Milton Rokeach:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Shalom Schwartz:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) M. E. P. Seligman:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Eduard Spranger)"
   },
   {
     "id": "ekys2025-q32",
@@ -10068,7 +10068,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Atabetü'l-Hakâyık)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Değerler Eğitimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Atabetü'l-Hakâyık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Atabetü'l-Hakâyık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kutadgu Bilig:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Tehzîbü'l-Ahlâk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Dîvânu Lugâti't-Türk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ahlâk-ı Alâî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Atabetü'l-Hakâyık)"
   },
   {
     "id": "ekys2025-q33",
@@ -10105,7 +10105,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Profesyonellik (Mesleki Yeterlilik))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitimde Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Profesyonellik (Mesleki Yeterlilik)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Profesyonellik (Mesleki Yeterlilik)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kaynakların etkili kullanımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Adalet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Eşitlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tarafsızlık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Profesyonellik (Mesleki Yeterlilik))"
   },
   {
     "id": "ekys2025-q34",
@@ -10142,7 +10142,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Saygı)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitimde Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Saygı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Saygı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Duyarlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Erdem:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Adalet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Hoşgörü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Saygı)"
   },
   {
     "id": "ekys2025-q35",
@@ -10179,7 +10179,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dur ve düşün)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitimde Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dur ve düşün\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dur ve düşün** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Amaçların tanımlanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sonuçları göz önüne almak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Gerçekleri bilmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dur ve düşün)"
   },
   {
     "id": "ekys2025-q36",
@@ -10216,7 +10216,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Teleolojik etik (Faydacılık / Sonuçsalcılık))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitimde Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Teleolojik etik (Faydacılık / Sonuçsalcılık)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Teleolojik etik (Faydacılık / Sonuçsalcılık)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Feministik etik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Deontolojik etik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Erdem temeline dayalı etik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sezgilere dayalı etik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Teleolojik etik (Faydacılık / Sonuçsalcılık))"
   },
   {
     "id": "ekys2025-q37",
@@ -10253,7 +10253,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İrtikâp)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitimde Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İrtikâp\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İrtikâp** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kronizm:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Angarya:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Partizanlık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Nepotizm:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İrtikâp)"
   },
   {
     "id": "ekys2025-q38",
@@ -10290,7 +10290,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Ahlaki rasyonalizasyon (Akla uydurma))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitimde Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Ahlaki rasyonalizasyon (Akla uydurma)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Ahlaki rasyonalizasyon (Akla uydurma)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Etik iklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Etik ikilem:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Etik kod:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Etik kültür:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ahlaki rasyonalizasyon (Akla uydurma))"
   },
   {
     "id": "ekys2025-q39",
@@ -10327,7 +10327,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Fârâbî)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitimde Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Fârâbî\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Fârâbî** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Hârizmî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Râzî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İbn Sînâ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İbn Rüşd:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Fârâbî)"
   },
   {
     "id": "ekys2025-q40",
@@ -10364,7 +10364,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Öz çıkar politikalarını desteklemek)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitimde Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Öz çıkar politikalarını desteklemek\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öz çıkar politikalarını desteklemek** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yapıcı iş birliğini sağlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hesap verebilir olmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Gücü paylaşmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tutarlılık ve uyum için çaba göstermek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öz çıkar politikalarını desteklemek)"
   },
   {
     "id": "ekys2025-q41",
@@ -10401,7 +10401,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Objektiflik ve Eşitlik (Adil Yönetim))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Objektiflik ve Eşitlik (Adil Yönetim)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Objektiflik ve Eşitlik (Adil Yönetim)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Bürokrasi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Merkeziyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yetki devri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ödüllendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Objektiflik ve Eşitlik (Adil Yönetim))"
   },
   {
     "id": "ekys2025-q42",
@@ -10438,7 +10438,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (İnsan İlişkileri Yaklaşımı (Neo-Klasik))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"İnsan İlişkileri Yaklaşımı (Neo-Klasik)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İnsan İlişkileri Yaklaşımı (Neo-Klasik)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Bilimsel Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Bürokrasi Yaklaşımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sistem Yaklaşımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Durumsallık Yaklaşımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (İnsan İlişkileri Yaklaşımı (Neo-Klasik))"
   },
   {
     "id": "ekys2025-q43",
@@ -10475,7 +10475,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Klinik / Öğretimsel Denetim)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Klinik / Öğretimsel Denetim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Klinik / Öğretimsel Denetim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Soruşturma Denetimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Mali Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Süreç Dışı Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Beklenmedik sonuçlar denetimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Klinik / Öğretimsel Denetim)"
   },
   {
     "id": "ekys2025-q44",
@@ -10512,7 +10512,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Öğretimsel liderlik)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Öğretimsel liderlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretimsel liderlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Otokratik liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Karizmatik liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İşlemsel liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Laissez-faire liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğretimsel liderlik)"
   },
   {
     "id": "ekys2025-q45",
@@ -10549,7 +10549,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Yönlendirme ve Talimat Verme)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Yönlendirme ve Talimat Verme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yönlendirme ve Talimat Verme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Geri bildirim alma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Açıklama / Bilgilendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Duygusal destek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yatay koordinasyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yönlendirme ve Talimat Verme)"
   },
   {
     "id": "ekys2025-q46",
@@ -10586,7 +10586,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Örgütsel Bağlılık / Vatandaşlık)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Örgütsel Bağlılık / Vatandaşlık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örgütsel Bağlılık / Vatandaşlık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Örgütsel Sinizm:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örgütsel Yabancılaşma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Rol Çatışması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tükenmişlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Örgütsel Bağlılık / Vatandaşlık)"
   },
   {
     "id": "ekys2025-q47",
@@ -10623,7 +10623,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Uzmanlık gücü)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Uzmanlık gücü\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uzmanlık gücü** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yasal güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Ödül gücü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Zorlayıcı güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Karizmatik güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Uzmanlık gücü)"
   },
   {
     "id": "ekys2025-q48",
@@ -10660,7 +10660,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Toplumsal istem / Açık sistem uyumu)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Toplumsal istem / Açık sistem uyumu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Toplumsal istem / Açık sistem uyumu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kapalı sistem:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Mekanik yapı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İçe dönük örgüt:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bürokratik kontrol:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Toplumsal istem / Açık sistem uyumu)"
   },
   {
     "id": "ekys2025-q49",
@@ -10697,7 +10697,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Politik yaklaşma)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Politik yaklaşma\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Politik yaklaşma** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yumuşatma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Meşgul etme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kayıtsız kalma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İnandırma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Politik yaklaşma)"
   },
   {
     "id": "ekys2025-q50",
@@ -10734,7 +10734,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öz Yeterlik Kuramı (Bandura))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öz Yeterlik Kuramı (Bandura)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öz Yeterlik Kuramı (Bandura)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İhtiyaçlar Hiyerarşisi (Maslow):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Beklenti Kuramı (Vroom):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrenilmiş İhtiyaçlar (McClelland):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Çift Faktör Kuramı (Herzberg):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öz Yeterlik Kuramı (Bandura))"
   },
   {
     "id": "ekys2025-q51",
@@ -10771,7 +10771,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (I ve II)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"I ve II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)"
   },
   {
     "id": "ekys2025-q52",
@@ -10808,7 +10808,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Süper Liderlik (Kendi Kendinin Lideri Olma))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Süper Liderlik (Kendi Kendinin Lideri Olma)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Süper Liderlik (Kendi Kendinin Lideri Olma)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Dönüşümcü Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Etik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Paylaşılmış Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğretimsel Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Süper Liderlik (Kendi Kendinin Lideri Olma))"
   },
   {
     "id": "ekys2025-q53",
@@ -10845,7 +10845,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (II ve III)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"II ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **II ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (II ve III)"
   },
   {
     "id": "ekys2025-q54",
@@ -10882,7 +10882,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Okul kültürü, okul iklimine göre daha kısa süreli ve değişkendir.)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Okul kültürü, okul iklimine göre daha kısa süreli ve değişkendir.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Okul kültürü, okul iklimine göre daha kısa süreli ve değişkendir.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Okul iklimi ve okul kültürü okulun iç çevresine odaklanır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Okul iklimi ve okul kültürü okuldaki sosyal bağlamın betimlenmesidir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Okul kültürü normlar ve varsayımlarla, okul iklimi ise algılanan psikolojik hava ile ilgilidir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Okul kültürü ve okul iklimi, okulun değerler sistemine vurgu yapar.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Okul kültürü, okul iklimine göre daha kısa süreli ve değişkendir.)"
   },
   {
     "id": "ekys2025-q55",
@@ -10919,7 +10919,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Örgütsel bağlılık - Örgütsel sinizm - Örgütsel vatandaşlık)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Örgütsel bağlılık - Örgütsel sinizm - Örgütsel vatandaşlık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örgütsel bağlılık - Örgütsel sinizm - Örgütsel vatandaşlık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Örgütsel bağlılık - Örgütsel tükenmişlik - Örgütsel güven:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örgütsel öğrenme - Örgütsel sinizm - Örgütsel bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Örgütsel öğrenme - Örgütsel tükenmişlik - Örgütsel bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Örgütsel vatandaşlık - Örgütsel sinizm - Örgütsel güven:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Örgütsel bağlılık - Örgütsel sinizm - Örgütsel vatandaşlık)"
   },
   {
     "id": "ekys2025-q56",
@@ -10956,7 +10956,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Kaizen (Sürekli İyileştirme))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Kaizen (Sürekli İyileştirme)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kaizen (Sürekli İyileştirme)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Beyin Fırtınası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Juran-Pareto Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kalite Çemberleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Akış Diyagramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Kaizen (Sürekli İyileştirme))"
   },
   {
     "id": "ekys2025-q57",
@@ -10993,7 +10993,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Geliştirme (Eğitim ve Kariyer))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Geliştirme (Eğitim ve Kariyer)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Geliştirme (Eğitim ve Kariyer)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) İş değerlemesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ücret belirleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bütünleştirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Personel planlaması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Geliştirme (Eğitim ve Kariyer))"
   },
   {
     "id": "ekys2025-q58",
@@ -11030,7 +11030,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Felsefe)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Felsefe\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Felsefe** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Psikoloji:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Tarih:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ekonomi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sosyoloji:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Felsefe)"
   },
   {
     "id": "ekys2025-q59",
@@ -11067,7 +11067,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Modüler)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Modüler\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Modüler** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Doğrusal:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Sarmal:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Piramitsel:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Çekirdek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Modüler)"
   },
   {
     "id": "ekys2025-q60",
@@ -11104,7 +11104,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Konu alanına özgün bir hikâye / ürün oluşturma)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Konu alanına özgün bir hikâye / ürün oluşturma\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Konu alanına özgün bir hikâye / ürün oluşturma** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kesirlerle ilgili ders kitabındaki soruları cevaplama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Konu alanında uzman bir kişiyle görüşme yapma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Farklı kaynaklardan kesirlerle ilgili bilgileri tarama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kesirler konusunu sözlü olarak özetleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Konu alanına özgün bir hikâye / ürün oluşturma)"
   },
   {
     "id": "ekys2025-q61",
@@ -11141,7 +11141,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Eleştirel düşünme)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Eleştirel düşünme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Eleştirel düşünme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yakınsak düşünme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yansıtıcı düşünme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Analojik düşünme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Iraksak düşünme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Eleştirel düşünme)"
   },
   {
     "id": "ekys2025-q62",
@@ -11178,7 +11178,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (SWOT (GZFT) Analizi)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"SWOT (GZFT) Analizi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **SWOT (GZFT) Analizi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) PESTLE Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Paydaş Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kök Neden Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Maliyet-Fayda Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (SWOT (GZFT) Analizi)"
   },
   {
     "id": "ekys2025-q63",
@@ -11215,7 +11215,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Kaynak Yönetimi ve Kullanımı)\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Kaynak Yönetimi ve Kullanımı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kaynak Yönetimi ve Kullanımı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Planlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Denetleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Eşgüdüm:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kaynak Yönetimi ve Kullanımı)"
   },
   {
     "id": "ekys2025-q64",
@@ -11252,7 +11252,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Eksik bilgi ve zaman kısıtı (Sınırlı Rasyonellik))\n\n📌 **Konu / Çözüm Açıklaması (2025 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Eksik bilgi ve zaman kısıtı (Sınırlı Rasyonellik)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Eksik bilgi ve zaman kısıtı (Sınırlı Rasyonellik)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yeterli personelin olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Mevzuatın açık olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Örgüt kültürünün güçlü olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Demokratik okul iklimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Eksik bilgi ve zaman kısıtı (Sınırlı Rasyonellik))"
   },
   {
     "id": "ekys2025-q65",
@@ -11289,7 +11289,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (I, II ve III)"
   },
   {
     "id": "ekys2025-q66",
@@ -11326,7 +11326,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Millî Güvenlik Kurulu Genel Sekreteri (Üye değildir, raportördür))"
   },
   {
     "id": "ekys2025-q67",
@@ -11363,7 +11363,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve III (Veli, Vasi veya Aile Başkanı))"
   },
   {
     "id": "ekys2025-q68",
@@ -11400,7 +11400,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (3 gün)"
   },
   {
     "id": "ekys2025-q69",
@@ -11437,7 +11437,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (1 yıl)"
   },
   {
     "id": "ekys2025-q70",
@@ -11474,7 +11474,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>E</strong> (Devlet memurluğundan çıkarma)"
   },
   {
     "id": "ekys2025-q71",
@@ -11511,7 +11511,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (8 yıl)"
   },
   {
     "id": "ekys2025-q72",
@@ -11548,7 +11548,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yükseköğretim Kurulu (YÖK))"
   },
   {
     "id": "ekys2025-q73",
@@ -11585,7 +11585,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>E</strong> (Toplu yaşama, dayanışma ve örgütlenme alışkanlıkları kazandırmak (İlköğretim amaçları arasındadır))"
   },
   {
     "id": "ekys2025-q74",
@@ -11622,7 +11622,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sendika merkezinin bulunacağı ilin valiliğine)"
   },
   {
     "id": "ekys2025-q75",
@@ -11659,7 +11659,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Çekilme bildiriminin kamu işverenine verildiği tarihten itibaren 30 günlük sürenin bittiği an)"
   },
   {
     "id": "ekys2025-q76",
@@ -11696,7 +11696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Türkiye'de ikamet eden yabancılar, karşılıklılık esası gözetilmeksizin kendi dillerinde dilekçe hakkından yararlanabilirler.)"
   },
   {
     "id": "ekys2025-q77",
@@ -11733,7 +11733,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve III)"
   },
   {
     "id": "ekys2025-q78",
@@ -11770,7 +11770,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kanun)"
   },
   {
     "id": "ekys2025-q79",
@@ -11807,7 +11807,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek (YEĞİTEK'in görevidir))"
   },
   {
     "id": "ekys2025-q80",
@@ -11844,7 +11844,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve III)"
   },
   {
     "id": "ekys_2024_q1",
@@ -11877,7 +11877,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (I. Kök Türk Devleti)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"I. Kök Türk Devleti\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I. Kök Türk Devleti** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Uygur Devleti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Avar Devleti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Hazar Kağanlığı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Karluklar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (I. Kök Türk Devleti)",
     "hasImage": false,
     "image": null
   },
@@ -11912,7 +11912,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Divan-ı Mezalim)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Divan-ı Mezalim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Divan-ı Mezalim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Divan-ı İstifa:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Divan-ı Arz:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Divan-ı İnşa:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Divan-ı İşraf:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Divan-ı Mezalim)",
     "hasImage": false,
     "image": null
   },
@@ -11947,7 +11947,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Karesioğulları)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Karesioğulları\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Karesioğulları** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Aydınoğulları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Saruhanoğulları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Candaroğulları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Menteşeoğulları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Karesioğulları)",
     "hasImage": false,
     "image": null
   },
@@ -11982,7 +11982,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İskân Politikası — İstimâlet Politikası)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İskân Politikası — İstimâlet Politikası\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İskân Politikası — İstimâlet Politikası** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İltizam Sistemi — Malikâne Sistemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Dirlik Sistemi — Pençik Sistemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Devşirme Sistemi — Müdara Politikası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İstimalet Politikası — İskân Politikası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İskân Politikası — İstimâlet Politikası)",
     "hasImage": false,
     "image": null
   },
@@ -12017,7 +12017,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Nişancı)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Nişancı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Nişancı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Şeyhülislam:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Kazasker:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kadı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Müderris:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Nişancı)",
     "hasImage": false,
     "image": null
   },
@@ -12052,7 +12052,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Meclis-i Âyan — Meclis-i Mebusan)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Meclis-i Âyan — Meclis-i Mebusan\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Meclis-i Âyan — Meclis-i Mebusan** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Danışma Meclisi — Temsilciler Meclisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Divan-ı Hümayun — Meclis-i Vâlâ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Meclis-i Has — Meclis-i Şûra:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Encümen-i Dâniş — Meclis-i Ahkâm-ı Adliye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Meclis-i Âyan — Meclis-i Mebusan)",
     "hasImage": false,
     "image": null
   },
@@ -12087,7 +12087,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (V)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"V\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **V** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>E</strong> (V)",
     "hasImage": true,
     "image": "assets/questions/ekys2024_q7_map.png"
   },
@@ -12122,7 +12122,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (I ve II)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"I ve II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve II)",
     "hasImage": false,
     "image": null
   },
@@ -12157,7 +12157,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Aydın)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Aydın\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Aydın** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Sinop:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Kastamonu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Elazığ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Çankırı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Aydın)",
     "hasImage": false,
     "image": null
   },
@@ -12192,7 +12192,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kayseri)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kayseri\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kayseri** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kırıkkale:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yozgat:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kırşehir:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Nevşehir:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kayseri)",
     "hasImage": false,
     "image": null
   },
@@ -12227,7 +12227,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)",
     "hasImage": false,
     "image": null
   },
@@ -12262,7 +12262,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Kar erimeleri ve toprak suya doygunluğunun artması)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Kar erimeleri ve toprak suya doygunluğunun artması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kar erimeleri ve toprak suya doygunluğunun artması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Rüzgâr hızının artması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bitki örtüsünün yaprak dökmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Deprem aktivitesinin yoğunlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tarımsal sulamanın başlaması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kar erimeleri ve toprak suya doygunluğunun artması)",
     "hasImage": false,
     "image": null
   },
@@ -12297,7 +12297,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Anayasa — Kanun / CBK — Yönetmelik — Genelge)",
     "hasImage": false,
     "image": null
   },
@@ -12332,7 +12332,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı)",
     "hasImage": false,
     "image": null
   },
@@ -12367,7 +12367,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gordion)",
     "hasImage": false,
     "image": null
   },
@@ -12402,7 +12402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>C</strong> (İMECE)",
     "hasImage": false,
     "image": null
   },
@@ -12437,7 +12437,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Samsun Raporu)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Samsun Raporu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Samsun Raporu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Havza Genelgesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Amasya Genelgesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Erzurum Kongresi Bildirisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Amasya Protokolü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Samsun Raporu)",
     "hasImage": false,
     "image": null
   },
@@ -12472,7 +12472,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Amaç ve Yöntemini)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Amaç ve Yöntemini\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Amaç ve Yöntemini** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Sadece gerekçesini:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Dış politikasını:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Askeri teşkilatlanma planını:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Uluslararası antlaşma şartlarını:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Amaç ve Yöntemini)",
     "hasImage": false,
     "image": null
   },
@@ -12507,7 +12507,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Ulusal egemenlik / Hükümet sistemi)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Ulusal egemenlik / Hükümet sistemi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Ulusal egemenlik / Hükümet sistemi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kapitülasyonlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Boğazlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Azınlık hakları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Arap toprakları ve Batı Trakya:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ulusal egemenlik / Hükümet sistemi)",
     "hasImage": false,
     "image": null
   },
@@ -12542,7 +12542,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (I. İnönü Muharebesi)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"I. İnönü Muharebesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I. İnönü Muharebesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) II. İnönü Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sakarya Meydan Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Büyük Taarruz:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Aslıhanlar Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I. İnönü Muharebesi)",
     "hasImage": false,
     "image": null
   },
@@ -12577,7 +12577,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Sakarya Meydan Muharebesi)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Sakarya Meydan Muharebesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sakarya Meydan Muharebesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Çanakkale Savaşları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) I. İnönü Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Büyük Taarruz:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Dumlupınar Meydan Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sakarya Meydan Muharebesi)",
     "hasImage": false,
     "image": null
   },
@@ -12612,7 +12612,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Saltanatın kaldırılması)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Saltanatın kaldırılması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Saltanatın kaldırılması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Cumhuriyetin ilanı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Halifeliğin kaldırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ankara'nın başkent yapılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tekalif-i Milliye Emirlerinin çıkarılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Saltanatın kaldırılması)",
     "hasImage": false,
     "image": null
   },
@@ -12647,7 +12647,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Terakkiperver Cumhuriyet Fırkası)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Terakkiperver Cumhuriyet Fırkası\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Terakkiperver Cumhuriyet Fırkası** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Serbest Cumhuriyet Fırkası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ahali Cumhuriyet Fırkası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Demokrat Parti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Milli Kalkınma Partisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Terakkiperver Cumhuriyet Fırkası)",
     "hasImage": false,
     "image": null
   },
@@ -12682,7 +12682,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Türkiye'deki tüm eğitim ve öğretim kurumları Millî Eğitim Bakanlığına bağlanmıştır.)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Türkiye'deki tüm eğitim ve öğretim kurumları Millî Eğitim Bakanlığına bağlanmıştır.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Türkiye'deki tüm eğitim ve öğretim kurumları Millî Eğitim Bakanlığına bağlanmıştır.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yeni Türk harfleri kabul edilmiştir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Üniversite Reformu yapılarak İstanbul Üniversitesi kurulmuştur.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Millet Mektepleri açılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Türk Dil Kurumu kurulmuştur.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Türkiye'deki tüm eğitim ve öğretim kurumları Millî Eğitim Bakanlığına bağlanmıştır.)",
     "hasImage": false,
     "image": null
   },
@@ -12717,7 +12717,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Kabotaj Kanunu)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Kabotaj Kanunu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kabotaj Kanunu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Teşvik-i Sanayi Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gümrük Tarife Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ticaret-i Bahriye Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Men-i İsrafat Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kabotaj Kanunu)",
     "hasImage": false,
     "image": null
   },
@@ -12752,7 +12752,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Halkçılık)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Halkçılık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Halkçılık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Devletçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İnkılapçılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Laiklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Cumhuriyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Halkçılık)",
     "hasImage": false,
     "image": null
   },
@@ -12787,7 +12787,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Montrö Boğazlar Sözleşmesi)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Montrö Boğazlar Sözleşmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Montrö Boğazlar Sözleşmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Sadabat Paktı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Balkan Antantı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Lozan Boğazlar Sözleşmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ankara Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Montrö Boğazlar Sözleşmesi)",
     "hasImage": false,
     "image": null
   },
@@ -12822,7 +12822,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Hatay)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Hatay\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Hatay** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Musul:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Batum:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kıbrıs:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) On İki Ada:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Hatay)",
     "hasImage": false,
     "image": null
   },
@@ -12857,7 +12857,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Lawrence Kohlberg)\n\n📌 **Konu / Çözüm Açıklaması (Değerler Eğitimi ve Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Lawrence Kohlberg\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Lawrence Kohlberg** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Jean Piaget:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Lev Vygotsky:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Albert Bandura:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) John Dewey:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Lawrence Kohlberg)",
     "hasImage": false,
     "image": null
   },
@@ -12892,7 +12892,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme (Eylem))\n\n📌 **Konu / Çözüm Açıklaması (Değerler Eğitimi ve Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme (Eylem)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme (Eylem)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Koşullanma — Pekiştirme — Model Alma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Taklit — Özümseme — Uyumsama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bilgi — Kavrama — Uygulama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Farkında Olma — Karşı Koyma — Kabullenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme (Eylem))",
     "hasImage": false,
     "image": null
   },
@@ -12927,7 +12927,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Kişisel ve siyasi çıkarlar doğrultusunda takdir yetkisini esnetme)\n\n📌 **Konu / Çözüm Açıklaması (Değerler Eğitimi ve Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Kişisel ve siyasi çıkarlar doğrultusunda takdir yetkisini esnetme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kişisel ve siyasi çıkarlar doğrultusunda takdir yetkisini esnetme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Görevin yerine getirilmesinde kamu hizmeti bilinci:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Halka hizmet bilinci ve şeffaflık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Nezaket, saygı ve dürüstlük:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Çıkar çatışmasından kaçınma ve kaynakların etkili kullanımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kişisel ve siyasi çıkarlar doğrultusunda takdir yetkisini esnetme)",
     "hasImage": false,
     "image": null
   },
@@ -12962,7 +12962,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları)\n\n📌 **Konu / Çözüm Açıklaması (Değerler Eğitimi ve Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Bakanlık genel müdürleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Valiler ve kaymakamlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Belediye başkanları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İl milli eğitim müdürleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları)",
     "hasImage": false,
     "image": null
   },
@@ -12997,7 +12997,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Bilişsel Çıraklık / İskele Kurma (Scaffolding))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Bilişsel Çıraklık / İskele Kurma (Scaffolding)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bilişsel Çıraklık / İskele Kurma (Scaffolding)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Programlı Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Tam Öğrenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Basamaklı Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Beyin Temelli Öğrenme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bilişsel Çıraklık / İskele Kurma (Scaffolding))",
     "hasImage": false,
     "image": null
   },
@@ -13032,7 +13032,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Değerlendirme)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Değerlendirme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Değerlendirme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Hatırlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Anlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Uygulama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yaratma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Değerlendirme)",
     "hasImage": false,
     "image": null
   },
@@ -13067,7 +13067,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Örtük Program (Gizil Program))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Örtük Program (Gizil Program)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örtük Program (Gizil Program)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Resmî Program:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İhmal Edilen (Görmezden Gelinen) Program:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ekstra Program:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Desteklenen Program:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Örtük Program (Gizil Program))",
     "hasImage": false,
     "image": null
   },
@@ -13102,7 +13102,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir.)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Sadece kriz ve problem odaklıdır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnızca akademik başarısızlık yaşayanlara uygulanır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sadece rehber öğretmen tarafından yürütülür, idareci ve öğretmenler katılmaz.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ölçme sonuçlarına dayalı katı eleme yapar.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir.)",
     "hasImage": false,
     "image": null
   },
@@ -13137,7 +13137,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Probleme Dayalı Öğrenme (PDÖ))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Probleme Dayalı Öğrenme (PDÖ)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Probleme Dayalı Öğrenme (PDÖ)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Doğrudan Öğretim Modeli:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sunuş Yoluyla Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ezber Dayalı Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tam Öğrenme Stratejisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Probleme Dayalı Öğrenme (PDÖ))",
     "hasImage": false,
     "image": null
   },
@@ -13172,7 +13172,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Geçerlik)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Geçerlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Geçerlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Güvenirlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kullanışlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Objektiflik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Standart sapma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Geçerlik)",
     "hasImage": false,
     "image": null
   },
@@ -13207,7 +13207,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Öğrencilere geçme/kalma notu vermek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrencileri başarı sıralamasına göre elemek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Dönem sonu diploma derecesini hesaplamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Okullar arası LGS/YKS sıralaması yapmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak)",
     "hasImage": false,
     "image": null
   },
@@ -13242,7 +13242,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Farkındalık / Her Yerde Olma (Withitness))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Farkındalık / Her Yerde Olma (Withitness)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Farkındalık / Her Yerde Olma (Withitness)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Grup Odağı (Group Focus):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Doygunluk ve Hız (Momentum):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Pürüzsüzlük (Smoothness):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Geçiş Kolaylığı (Overlapping):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Farkındalık / Her Yerde Olma (Withitness))",
     "hasImage": false,
     "image": null
   },
@@ -13277,7 +13277,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Planlama — Örgütleme — Yöneltme (Emir-Komuta) — Koordinasyon — Kontrol (Denetim))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Planlama — Örgütleme — Yöneltme (Emir-Komuta) — Koordinasyon — Kontrol (Denetim)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Planlama — Örgütleme — Yöneltme (Emir-Komuta) — Koordinasyon — Kontrol (Denetim)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Karar — Uygulama — Raporlama — Ödül:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İletişim — Çatışma — Motivasyon — Değerlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yetki Devri — Hiyerarşi — Disiplin — Ceza:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Üretim — Pazarlama — Finans — Muhasebe:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Planlama — Örgütleme — Yöneltme (Emir-Komuta) — Koordinasyon — Kontrol (Denetim))",
     "hasImage": false,
     "image": null
   },
@@ -13312,7 +13312,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Kişisel ve sübjektif ilişkilere dayalı terfi ve görevlendirme)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Kişisel ve sübjektif ilişkilere dayalı terfi ve görevlendirme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kişisel ve sübjektif ilişkilere dayalı terfi ve görevlendirme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Açık ve kesin bir iş bölümü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Kademeli bir hiyerarşik otorite yapısı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yazılı kural ve prosedürler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Resmî pozisyonun kişisel mülkiyetten ayrılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kişisel ve sübjektif ilişkilere dayalı terfi ve görevlendirme)",
     "hasImage": false,
     "image": null
   },
@@ -13347,7 +13347,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Okul paydaşlarına ilham veren bir vizyon sunarak onları ortak amaçlar etrafında motive etmek ve değişimi yönetmek)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Okul paydaşlarına ilham veren bir vizyon sunarak onları ortak amaçlar etrafında motive etmek ve değişimi yönetmek\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Okul paydaşlarına ilham veren bir vizyon sunarak onları ortak amaçlar etrafında motive etmek ve değişimi yönetmek** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Sadece mevcut kuralları ve rutinleri ödül-ceza sistemiyle korumak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Tüm kararları tek başına alıp çalışanlara danışmamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Okuldaki hiçbir sürece karışmayıp tam serbestlik tanımak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sadece evrak ve bütçe kontrolleriyle ilgilenmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Okul paydaşlarına ilham veren bir vizyon sunarak onları ortak amaçlar etrafında motive etmek ve değişimi yönetmek)",
     "hasImage": false,
     "image": null
   },
@@ -13382,7 +13382,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğretimsel Liderlik (Instructional Leadership))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğretimsel Liderlik (Instructional Leadership)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretimsel Liderlik (Instructional Leadership)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Otokratik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Serbest Bırakıcı Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Pazarlıkçı Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Geleneksel Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretimsel Liderlik (Instructional Leadership))",
     "hasImage": false,
     "image": null
   },
@@ -13417,7 +13417,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dağıtımcı / Paylaşılan Liderlik (Distributed Leadership))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dağıtımcı / Paylaşılan Liderlik (Distributed Leadership)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dağıtımcı / Paylaşılan Liderlik (Distributed Leadership)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Bürokratik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Karizmatik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Gözetici Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Hiyerarşik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dağıtımcı / Paylaşılan Liderlik (Distributed Leadership))",
     "hasImage": false,
     "image": null
   },
@@ -13452,7 +13452,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Başarı, tanınma, sorumluluk alma ve kişisel gelişim)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Başarı, tanınma, sorumluluk alma ve kişisel gelişim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Başarı, tanınma, sorumluluk alma ve kişisel gelişim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Maaş ve ücret artışı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Çalışma koşulları ve fiziksel ortam:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kurum politikası ve idari kurallar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İş güvencesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Başarı, tanınma, sorumluluk alma ve kişisel gelişim)",
     "hasImage": false,
     "image": null
   },
@@ -13487,7 +13487,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Örgüt Kültürü (Okul Kültürü))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Örgüt Kültürü (Okul Kültürü)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örgüt Kültürü (Okul Kültürü)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Örgüt Yapısı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örgütsel Hiyerarşi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Resmî Şema:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mevzuat Çerçevesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Örgüt Kültürü (Okul Kültürü))",
     "hasImage": false,
     "image": null
   },
@@ -13522,7 +13522,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Uzlaşma (Ödün Verme / Compromising))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Uzlaşma (Ödün Verme / Compromising)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uzlaşma (Ödün Verme / Compromising)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kaçınma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hükmetme / Zorlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Uyum Sağlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yok Sayma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Uzlaşma (Ödün Verme / Compromising))",
     "hasImage": false,
     "image": null
   },
@@ -13557,7 +13557,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Gözlem Öncesi Görüşme — Sınıf İçi Gözlem — Analiz ve Strateji — Gözlem Sonrası Görüşme — Değerlendirme)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Gözlem Öncesi Görüşme — Sınıf İçi Gözlem — Analiz ve Strateji — Gözlem Sonrası Görüşme — Değerlendirme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gözlem Öncesi Görüşme — Sınıf İçi Gözlem — Analiz ve Strateji — Gözlem Sonrası Görüşme — Değerlendirme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yazılı Sınav — Not Verme — İdari Soruşturma — Rapor:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Haberli Baskın — Ceza Verme — Tebligat — İtiraz:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ders Planı İsteme — Evrak Kontrolü — İdareye Bildirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğrenci Anketi — Not Ortalaması Hesaplama — Sonuç Açıklama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gözlem Öncesi Görüşme — Sınıf İçi Gözlem — Analiz ve Strateji — Gözlem Sonrası Görüşme — Değerlendirme)",
     "hasImage": false,
     "image": null
   },
@@ -13592,7 +13592,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Güçlü Yönler (Strengths))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Güçlü Yönler (Strengths)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Güçlü Yönler (Strengths)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Fırsatlar (Opportunities):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Tehditler (Threats):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Zayıf Yönler (Weaknesses):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Dışsal Riskler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Güçlü Yönler (Strengths))",
     "hasImage": false,
     "image": null
   },
@@ -13627,7 +13627,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (C Şubesi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"C Şubesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **C Şubesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) A Şubesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) B Şubesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) D Şubesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) A ve B Şubeleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (C Şubesi)",
     "hasImage": true,
     "image": "assets/questions/ekys2024_q51_graph.png"
   },
@@ -13662,7 +13662,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Çalışanların uygun koşullar sağlandığında işten zevk alacağına, yaratıcı ve sorumluluk sahibi olabileceğine inanarak yetki devretmek)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Çalışanların uygun koşullar sağlandığında işten zevk alacağına, yaratıcı ve sorumluluk sahibi olabileceğine inanarak yetki devretmek\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Çalışanların uygun koşullar sağlandığında işten zevk alacağına, yaratıcı ve sorumluluk sahibi olabileceğine inanarak yetki devretmek** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Çalışanların doğuştan tembel olduğuna inanarak onları sürekli sıkı denetim altında tutmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Çalışanların sorumluluk almaktan kaçındığını düşünmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Motivasyonu yalnızca cezalandırma korkusuyla sağlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tüm kararları merkeziyetçi biçimde tek başına almak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Çalışanların uygun koşullar sağlandığında işten zevk alacağına, yaratıcı ve sorumluluk sahibi olabileceğine inanarak yetki devretmek)",
     "hasImage": false,
     "image": null
   },
@@ -13697,7 +13697,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Planla — Uygula — Kontrol Et — Önlem Al)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Planla — Uygula — Kontrol Et — Önlem Al\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Planla — Uygula — Kontrol Et — Önlem Al** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Programla — Uyarla — Kaydet — Ödüllendir:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Paylaş — Uzlaş — Katıl — Ölç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Projelendir — Uygula — Koru — Özetle:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Puanla — Uygula — Kıyasla — Öngör:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Planla — Uygula — Kontrol Et — Önlem Al)",
     "hasImage": false,
     "image": null
   },
@@ -13732,7 +13732,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Yukarıdan Aşağıya İletişim)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Yukarıdan Aşağıya İletişim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yukarıdan Aşağıya İletişim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Aşağıdan Yukarıya İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yatay İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Çapraz İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İnformel (Dedikodu) İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yukarıdan Aşağıya İletişim)",
     "hasImage": false,
     "image": null
   },
@@ -13767,7 +13767,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Halo (Hale) Etkisi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Halo (Hale) Etkisi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Halo (Hale) Etkisi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Horn (Ters Hale) Etkisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Merkeze Yığma Hatası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Cömertlik / Müsamaha Hatası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kontrast Hatası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Halo (Hale) Etkisi)",
     "hasImage": false,
     "image": null
   },
@@ -13802,7 +13802,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Okul İklimi (Örgütsel İklim))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Okul İklimi (Örgütsel İklim)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Okul İklimi (Örgütsel İklim)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Fiziki Donanım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hukuki Çerçeve:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Resmî Teşkilat Şeması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bütçe Dengesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Okul İklimi (Örgütsel İklim))",
     "hasImage": false,
     "image": null
   },
@@ -13837,7 +13837,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Yönlendirici (Direktif) Yaklaşım)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Yönlendirici (Direktif) Yaklaşım\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yönlendirici (Direktif) Yaklaşım** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yönlendirici Olmayan (Non-direktif) Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İş Birlikçi (Kollaboratif) Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tamamen Serbest Bırakıcı Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Gözetimsiz Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yönlendirici (Direktif) Yaklaşım)",
     "hasImage": false,
     "image": null
   },
@@ -13872,7 +13872,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Etkileme / Liderlik)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Etkileme / Liderlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Etkileme / Liderlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Arşivleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Tahakkuk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bürokratik Evrak Kayıt:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yazışma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Etkileme / Liderlik)",
     "hasImage": false,
     "image": null
   },
@@ -13907,7 +13907,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Misyon)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Misyon\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Misyon** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Vizyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Eylem Planı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Performans Göstergesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Risk Matrisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Misyon)",
     "hasImage": false,
     "image": null
   },
@@ -13942,7 +13942,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Mentorluk (Mentoring))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Mentorluk (Mentoring)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mentorluk (Mentoring)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Rotasyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İdari Teftiş:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Merkeziyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Soruşturma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mentorluk (Mentoring))",
     "hasImage": false,
     "image": null
   },
@@ -13977,7 +13977,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kurumdan ayrılmanın getireceği maddi/manevi maliyet ve alternatif iş bulma zorluğu sebebiyle kurumda kalma zorunluluğu hissetme)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kurumdan ayrılmanın getireceği maddi/manevi maliyet ve alternatif iş bulma zorluğu sebebiyle kurumda kalma zorunluluğu hissetme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kurumdan ayrılmanın getireceği maddi/manevi maliyet ve alternatif iş bulma zorluğu sebebiyle kurumda kalma zorunluluğu hissetme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kurumun amaç ve değerlerini gönülden benimseme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kuruma karşı ahlaki bir borç ve minnet duygusu hissetme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kurumdaki arkadaşlarla sadece sosyal etkinlik yapma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kurumu terk etmek için fırsat kollama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kurumdan ayrılmanın getireceği maddi/manevi maliyet ve alternatif iş bulma zorluğu sebebiyle kurumda kalma zorunluluğu hissetme)",
     "hasImage": false,
     "image": null
   },
@@ -14012,7 +14012,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Sakin, kararlı, şeffaf ve doğru bilgi akışını sağlayarak can güvenliğini ön planda tutan bir eylem planını devreye sokmak)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Sakin, kararlı, şeffaf ve doğru bilgi akışını sağlayarak can güvenliğini ön planda tutan bir eylem planını devreye sokmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sakin, kararlı, şeffaf ve doğru bilgi akışını sağlayarak can güvenliğini ön planda tutan bir eylem planını devreye sokmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Sorumluluğu başkalarına atarak olay yerinden uzaklaşmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sosyal medyada yayılan dedikoduları doğrulamadan açıklama yapmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Olayı tamamen gizleyip hiçbir paydaşa bilgi vermemek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sadece olay bittikten sonra rapor tutmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Sakin, kararlı, şeffaf ve doğru bilgi akışını sağlayarak can güvenliğini ön planda tutan bir eylem planını devreye sokmak)",
     "hasImage": false,
     "image": null
   },
@@ -14047,7 +14047,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Öğretmenleri sürekli cezalandırma tehdidiyle çalıştırmak)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Öğretmenleri sürekli cezalandırma tehdidiyle çalıştırmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretmenleri sürekli cezalandırma tehdidiyle çalıştırmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Okulun kendi ihtiyaç ve önceliklerine uygun eğitim planları yapmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Öğretmenlerin mesleki deneyimlerini zümreler arası paylaşmalarını sağlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Merkeziyetçi ve okulların şartlarını gözetmeyen tek tip seminer anlayışını aşmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Okulun kurumsal kapasitesini ve öğrenci başarısını yükseltmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğretmenleri sürekli cezalandırma tehdidiyle çalıştırmak)",
     "hasImage": false,
     "image": null
   },
@@ -14082,7 +14082,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Katılımcı (Demokratik) Karar Verme)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Katılımcı (Demokratik) Karar Verme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Katılımcı (Demokratik) Karar Verme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Otokratik Karar Verme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sezgisel / Gelişigüzel Karar Verme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kaderci Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Baskıcı Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Katılımcı (Demokratik) Karar Verme)",
     "hasImage": false,
     "image": null
   },
@@ -14117,7 +14117,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>C</strong> (5)",
     "hasImage": false,
     "image": null
   },
@@ -14152,7 +14152,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (15 üye — 12 yıl)",
     "hasImage": false,
     "image": null
   },
@@ -14187,7 +14187,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>D</strong> (10 gün)",
     "hasImage": false,
     "image": null
   },
@@ -14222,7 +14222,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uyarma)",
     "hasImage": false,
     "image": null
   },
@@ -14257,7 +14257,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Genellik ve Eşitlik)",
     "hasImage": false,
     "image": null
   },
@@ -14292,7 +14292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğretmenlik kariyer basamakları sadece hizmet yılına göre otomatik olarak kazanılır.)",
     "hasImage": false,
     "image": null
   },
@@ -14327,7 +14327,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (6-14 yaş)",
     "hasImage": false,
     "image": null
   },
@@ -14362,7 +14362,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yukarıdakilerin hepsi)",
     "hasImage": false,
     "image": null
   },
@@ -14397,7 +14397,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Bakanlıklarda Bakan, diğer kamu idarelerinde en üst yönetici, il özel idarelerinde vali, belediyelerde belediye başkanı)",
     "hasImage": false,
     "image": null
   },
@@ -14432,7 +14432,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kaymakam)",
     "hasImage": false,
     "image": null
   },
@@ -14467,7 +14467,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>C</strong> (4 yılda bir)",
     "hasImage": false,
     "image": null
   },
@@ -14502,7 +14502,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Vali)",
     "hasImage": false,
     "image": null
   },
@@ -14537,7 +14537,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (30 gün)",
     "hasImage": false,
     "image": null
   },
@@ -14572,7 +14572,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Talim ve Terbiye Kurulu Başkanlığı)",
     "hasImage": false,
     "image": null
   },
@@ -14607,7 +14607,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Temel Eğitim Genel Müdürlüğü)",
     "hasImage": false,
     "image": null
   },
@@ -14642,7 +14642,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Türkiye Büyük Millet Meclisi Genel Sekreteri)",
     "hasImage": false,
     "image": null
   },
@@ -14677,7 +14677,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (I, II ve III)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"I, II ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I, II ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnız I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)",
     "hasImage": false,
     "image": null
   },
@@ -14712,7 +14712,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Nizamiye Medreseleri)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Nizamiye Medreseleri\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Nizamiye Medreseleri** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sahn-ı Seman Medreseleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Cacabey Medresesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Karatay Medresesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yağıbasan Medresesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Nizamiye Medreseleri)",
     "hasImage": false,
     "image": null
   },
@@ -14747,7 +14747,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Enderun Mektebi)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Enderun Mektebi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Enderun Mektebi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Şehzade Mektebi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hendesehâne:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mekteb-i Mülkiye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Darülmuallimin:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Enderun Mektebi)",
     "hasImage": false,
     "image": null
   },
@@ -14782,7 +14782,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Mukataa Arazi)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Mukataa Arazi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mukataa Arazi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Vakıf Arazi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yurtluk Arazi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ocaklık Arazi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Paşmaklık Arazi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Mukataa Arazi)",
     "hasImage": false,
     "image": null
   },
@@ -14817,7 +14817,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Padişahın kendi yetkilerini sınırlandırarak kanun üstünlüğünü (hukukun üstünlüğü) resmen kabul etmesi)\n\n📌 **Konu / Çözüm Açıklaması (Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Padişahın kendi yetkilerini sınırlandırarak kanun üstünlüğünü (hukukun üstünlüğü) resmen kabul etmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Padişahın kendi yetkilerini sınırlandırarak kanun üstünlüğünü (hukukun üstünlüğü) resmen kabul etmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Padişahın ilk kez halk tarafından seçilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Cumhuriyet rejimine geçilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Çok partili parlamenter sisteme geçilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tüm dirlik sisteminin kaldırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Padişahın kendi yetkilerini sınırlandırarak kanun üstünlüğünü (hukukun üstünlüğü) resmen kabul etmesi)",
     "hasImage": false,
     "image": null
   },
@@ -14852,7 +14852,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (III numaralı alanda rüzgâr etkisiyle oluşan yeryüzü şekilleri yaygındır.)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"III numaralı alanda rüzgâr etkisiyle oluşan yeryüzü şekilleri yaygındır.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **III numaralı alanda rüzgâr etkisiyle oluşan yeryüzü şekilleri yaygındır.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I numaralı alandaki dağlık saha bir horst örneğidir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) II numaralı alandaki platoda karstik şekiller görülebilmektedir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV numaralı ovanın oluşumunda tektonik hareketler etkili olmuştur.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) V numaralı alanda takke buzuluna rastlanmaktadır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (III numaralı alanda rüzgâr etkisiyle oluşan yeryüzü şekilleri yaygındır.)",
     "hasImage": true,
     "image": "assets/questions/ekys2023_q6_map.png"
   },
@@ -14887,7 +14887,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Maki)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Maki\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Maki** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Garig:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Psödömaki:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Antropojen Bozkır:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tundra:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Maki)",
     "hasImage": false,
     "image": null
   },
@@ -14922,7 +14922,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Dağınık Yerleşme)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Dağınık Yerleşme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dağınık Yerleşme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Toplu Yerleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Çizgisel Yerleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Dairesel Yerleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Dönemsel Yerleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Dağınık Yerleşme)",
     "hasImage": false,
     "image": null
   },
@@ -14957,7 +14957,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Demir — Batman)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Demir — Batman\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Demir — Batman** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Boksit (Alüminyum) — Seydişehir (Konya):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Bakır — Murgul (Artvin):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Krom — Guleman (Elazığ):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bor Mineralleri — Seyitgazi (Eskişehir):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Demir — Batman)",
     "hasImage": false,
     "image": null
   },
@@ -14992,7 +14992,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kastamonu — Çankırı)\n\n📌 **Konu / Çözüm Açıklaması (Türkiye Coğrafyası):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kastamonu — Çankırı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kastamonu — Çankırı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Trabzon — Gümüşhane:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Rize — Erzurum:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Samsun — Amasya:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sinop — Kastamonu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kastamonu — Çankırı)",
     "hasImage": false,
     "image": null
   },
@@ -15027,7 +15027,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Devlet gücüyle desteklenmiş maddi yaptırımlı (müeyyideli) olması)",
     "hasImage": false,
     "image": null
   },
@@ -15062,7 +15062,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Milletvekilleri)",
     "hasImage": false,
     "image": null
   },
@@ -15097,7 +15097,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (13 üye — 2 daire)",
     "hasImage": false,
     "image": null
   },
@@ -15132,7 +15132,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa Mahkemesi (Sayıştay yardımıyla) — Anayasa Mahkemesi)",
     "hasImage": false,
     "image": null
   },
@@ -15167,7 +15167,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Gemlik)",
     "hasImage": false,
     "image": null
   },
@@ -15202,7 +15202,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>C</strong> (2023)",
     "hasImage": false,
     "image": null
   },
@@ -15237,7 +15237,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Trabzon)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Trabzon\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Trabzon** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Erzurum:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Van:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Diyarbakır:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sivas:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Trabzon)",
     "hasImage": false,
     "image": null
   },
@@ -15272,7 +15272,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Hem vatanın bağımsızlığını sağlamak hem de millet egemenliğine dayalı bir yönetim kurmak)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Hem vatanın bağımsızlığını sağlamak hem de millet egemenliğine dayalı bir yönetim kurmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Hem vatanın bağımsızlığını sağlamak hem de millet egemenliğine dayalı bir yönetim kurmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Manda ve himayeyi kabul etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İstanbul Hükûmeti ile koşulsuz uzlaşmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yalnızca Doğu Anadolu'yu kurtarmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Saltanat şurasını genişletmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Hem vatanın bağımsızlığını sağlamak hem de millet egemenliğine dayalı bir yönetim kurmak)",
     "hasImage": false,
     "image": null
   },
@@ -15307,7 +15307,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kilikyalılar Cemiyeti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Milli Kongre Cemiyeti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Karakol Cemiyeti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Temsil Heyeti İcra Vekilleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti)",
     "hasImage": false,
     "image": null
   },
@@ -15342,7 +15342,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Gümrü Antlaşması)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Gümrü Antlaşması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gümrü Antlaşması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Moskova Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Kars Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Brest-Litovsk Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ankara Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Gümrü Antlaşması)",
     "hasImage": false,
     "image": null
   },
@@ -15377,7 +15377,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Tekâlif-i Milliye Emirleri)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Tekâlif-i Milliye Emirleri\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Tekâlif-i Milliye Emirleri** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Hıyanet-i Vataniye Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Teşkilat-ı Esasiye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Firariler Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Men-i Müskirat Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tekâlif-i Milliye Emirleri)",
     "hasImage": false,
     "image": null
   },
@@ -15412,7 +15412,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (İsmet İnönü)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"İsmet İnönü\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İsmet İnönü** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Rauf Orbay:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ali Fethi Okyar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bekir Sami Kunduh:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yusuf Kemal Tengirşenk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (İsmet İnönü)",
     "hasImage": false,
     "image": null
   },
@@ -15447,7 +15447,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Irak Sınırı (Musul Meselesi))\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Irak Sınırı (Musul Meselesi)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Irak Sınırı (Musul Meselesi)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Suriye Sınırı (Hatay):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Batı Trakya Sınırı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sovyet Rusya Sınırı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ege Adaları Sınırı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Irak Sınırı (Musul Meselesi))",
     "hasImage": false,
     "image": null
   },
@@ -15482,7 +15482,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Milletvekili seçme ve seçilme hakkı)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Milletvekili seçme ve seçilme hakkı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Milletvekili seçme ve seçilme hakkı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Tek eşle evlilik zorunluluğu ve resmî nikâh:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Miras ve mahkeme şahitliğinde kadın-erkek eşitliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kadınlara boşanma hakkı tanınması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kadınlara istediği mesleği seçme hakkı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Milletvekili seçme ve seçilme hakkı)",
     "hasImage": false,
     "image": null
   },
@@ -15517,7 +15517,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Devletçilik)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Devletçilik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Devletçilik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Cumhuriyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Laiklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İnkılapçılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Milliyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Devletçilik)",
     "hasImage": false,
     "image": null
   },
@@ -15552,7 +15552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Balkan Antantı)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Balkan Antantı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Balkan Antantı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sadabat Paktı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Akdeniz Paktı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bağdat Paktı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kellogg-Briand Paktı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Balkan Antantı)",
     "hasImage": false,
     "image": null
   },
@@ -15587,7 +15587,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Nutuk)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Nutuk\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Nutuk** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Zâbit ve Kumandan ile Hasbihal:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Vatandaş İçin Medeni Bilgiler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Geometri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bölüğün Muharebe Eğitimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Nutuk)",
     "hasImage": false,
     "image": null
   },
@@ -15622,7 +15622,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Barışçılık ve uluslararası hukuka saygı)\n\n📌 **Konu / Çözüm Açıklaması (İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Barışçılık ve uluslararası hukuka saygı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Barışçılık ve uluslararası hukuka saygı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yayılmacılık ve sömürgecilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnızlık politikası (İzolasyonizm):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tek taraflı askeri müdahalecilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İdeolojik bloklaşma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Barışçılık ve uluslararası hukuka saygı)",
     "hasImage": false,
     "image": null
   },
@@ -15657,7 +15657,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İtaat ve Ceza Eğilimi)\n\n📌 **Konu / Çözüm Açıklaması (Değerler Eğitimi ve Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İtaat ve Ceza Eğilimi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İtaat ve Ceza Eğilimi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Saf Çıkarcı (Araçsal İlişkiler) Eğilimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İyi Çocuk (Kişilerarası Uyum) Eğilimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kanun ve Düzen Eğilimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Evrensel Ahlak İlkeleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İtaat ve Ceza Eğilimi)",
     "hasImage": false,
     "image": null
   },
@@ -15692,7 +15692,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Kurum bütçesinden karşılanan ve tanıtım amacıyla dağıtılan kitap, ajanda, takvim ve plaketler)\n\n📌 **Konu / Çözüm Açıklaması (Değerler Eğitimi ve Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Kurum bütçesinden karşılanan ve tanıtım amacıyla dağıtılan kitap, ajanda, takvim ve plaketler\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kurum bütçesinden karşılanan ve tanıtım amacıyla dağıtılan kitap, ajanda, takvim ve plaketler** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Hizmetten yararlananlardan alınan cep telefonu veya bilgisayar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İş takibi yapan firmaların tahsis ettiği lüks araçlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Burs veya ücretsiz konaklama imkânları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Borç para veya kredi kartı ödemeleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kurum bütçesinden karşılanan ve tanıtım amacıyla dağıtılan kitap, ajanda, takvim ve plaketler)",
     "hasImage": false,
     "image": null
   },
@@ -15727,7 +15727,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Herkese hak ettiği şekilde, liyakat, tarafsızlık ve eşitlik ilkeleriyle muamele etmeyi)\n\n📌 **Konu / Çözüm Açıklaması (Değerler Eğitimi ve Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Herkese hak ettiği şekilde, liyakat, tarafsızlık ve eşitlik ilkeleriyle muamele etmeyi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Herkese hak ettiği şekilde, liyakat, tarafsızlık ve eşitlik ilkeleriyle muamele etmeyi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Tanıdıklara ve yakınlara öncelik tanımayı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hizmet sunumunda zengin vatandaşlara özel ayrıcalık sağlamayı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Denetimlerde arkadaşları korumayı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kuralları duruma göre keyfi değiştirmeyi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Herkese hak ettiği şekilde, liyakat, tarafsızlık ve eşitlik ilkeleriyle muamele etmeyi)",
     "hasImage": false,
     "image": null
   },
@@ -15762,7 +15762,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Model Olma / Model Alma Yoluyla Değer Öğretimi)\n\n📌 **Konu / Çözüm Açıklaması (Değerler Eğitimi ve Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Model Olma / Model Alma Yoluyla Değer Öğretimi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Model Olma / Model Alma Yoluyla Değer Öğretimi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Değer Açıklama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Değer Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ahlaki İkilem Tartışması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Doğrudan Telkin:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Model Olma / Model Alma Yoluyla Değer Öğretimi)",
     "hasImage": false,
     "image": null
   },
@@ -15797,7 +15797,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Bilginin öğretmen tarafından öğrenciye pasif olarak doğrudan aktarılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnızca mekanik tekrar ve ezbere dayanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğretmenin mutlak otorite olduğu geleneksel model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tüm öğrencilere tek tip test uygulanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması)",
     "hasImage": false,
     "image": null
   },
@@ -15832,7 +15832,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Özedönük (İçsel) Zekâ)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Özedönük (İçsel) Zekâ\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Özedönük (İçsel) Zekâ** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kişilerarası (Sosyal) Zekâ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Görsel-Uzamsal Zekâ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mantıksal-Matematiksel Zekâ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bedensel-Kinestetik Zekâ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Özedönük (İçsel) Zekâ)",
     "hasImage": false,
     "image": null
   },
@@ -15867,7 +15867,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (David Ausubel (Anlamlı Öğrenme))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"David Ausubel (Anlamlı Öğrenme)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **David Ausubel (Anlamlı Öğrenme)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Jerome Bruner (Buluş Yolu):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) B.F. Skinner (Edimsel Koşullanma):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Howard Gardner (Çoklu Zeka):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Benjamin Bloom (Tam Öğrenme):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (David Ausubel (Anlamlı Öğrenme))",
     "hasImage": false,
     "image": null
   },
@@ -15902,7 +15902,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kaynaştırma / Bütünleştirme Eğitimi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kaynaştırma / Bütünleştirme Eğitimi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kaynaştırma / Bütünleştirme Eğitimi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Ayrıştırma Eğitimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Evde Eğitim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Özel Eğitim İş Okulu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yatılı Bölge Okulu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kaynaştırma / Bütünleştirme Eğitimi)",
     "hasImage": false,
     "image": null
   },
@@ -15937,7 +15937,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Grubun heterojen (farklılaşmış) olduğunu)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Grubun heterojen (farklılaşmış) olduğunu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Grubun heterojen (farklılaşmış) olduğunu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Grubun homojen (benzer) olduğunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Testin tüm öğrencilere çok kolay geldiğini:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrencilerin hepsinin aynı notu aldığını:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sınavın geçersiz olduğunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Grubun heterojen (farklılaşmış) olduğunu)",
     "hasImage": false,
     "image": null
   },
@@ -15972,7 +15972,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Bekleme Süresi (Wait Time))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Bekleme Süresi (Wait Time)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bekleme Süresi (Wait Time)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İpucu Verme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Dönüt Süresi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Pekiştirme Aralığı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Güdüleme Evresi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bekleme Süresi (Wait Time))",
     "hasImage": false,
     "image": null
   },
@@ -16007,7 +16007,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Konuların birbirinden tamamen bağımsız modüller halinde işlenmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrencinin kendi seçeceği konuların işlenmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Konuların tek bir kez anlatılıp bir daha hiç dönülmemesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tüm konuların sadece ezberletilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi)",
     "hasImage": false,
     "image": null
   },
@@ -16042,7 +16042,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kuralların öğretmen tarafından tek başına belirlenip katı biçimde dikte edilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kuralların sadece ağır cezalar içermesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kuralların gizli tutulması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Hiçbir kural konulmaması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması)",
     "hasImage": false,
     "image": null
   },
@@ -16077,7 +16077,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (İş süreçlerini standartlaştırarak, zaman ve hareket etütleri yoluyla iş verimliliğini en üst düzeye çıkarmak)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"İş süreçlerini standartlaştırarak, zaman ve hareket etütleri yoluyla iş verimliliğini en üst düzeye çıkarmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İş süreçlerini standartlaştırarak, zaman ve hareket etütleri yoluyla iş verimliliğini en üst düzeye çıkarmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Çalışanların sosyal ve duygusal tatminini sağlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örgütte hiyerarşiyi tamamen kaldırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Çalışanlara sınırsız serbestlik tanımak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Üretimi tamamen durdurmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (İş süreçlerini standartlaştırarak, zaman ve hareket etütleri yoluyla iş verimliliğini en üst düzeye çıkarmak)",
     "hasImage": false,
     "image": null
   },
@@ -16112,7 +16112,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Neoklasik (İnsan İlişkileri) Yaklaşımı)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Neoklasik (İnsan İlişkileri) Yaklaşımı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Neoklasik (İnsan İlişkileri) Yaklaşımı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Klasik Yönetim Yaklaşımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bürokrasi Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bilimsel Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sistem Yaklaşımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Neoklasik (İnsan İlişkileri) Yaklaşımı)",
     "hasImage": false,
     "image": null
   },
@@ -16147,7 +16147,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Açık Sistem Kuramı)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Açık Sistem Kuramı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Açık Sistem Kuramı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kapalı Sistem Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Geleneksel Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mekanik Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Otokratik Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Açık Sistem Kuramı)",
     "hasImage": false,
     "image": null
   },
@@ -16182,7 +16182,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Liderin tarzı (İlişki veya Görev odaklı) ile Durumun uygunluk/elverişlilik derecesi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Liderin tarzı (İlişki veya Görev odaklı) ile Durumun uygunluk/elverişlilik derecesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Liderin tarzı (İlişki veya Görev odaklı) ile Durumun uygunluk/elverişlilik derecesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Liderin yaşı ile cinsiyeti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Okul binasının büyüklüğü ile bütçesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sadece liderin karizması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ceza miktarı ile ödül sayısı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Liderin tarzı (İlişki veya Görev odaklı) ile Durumun uygunluk/elverişlilik derecesi)",
     "hasImage": false,
     "image": null
   },
@@ -16217,7 +16217,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Hizmetkâr Liderlik (Servant Leadership))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Hizmetkâr Liderlik (Servant Leadership)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Hizmetkâr Liderlik (Servant Leadership)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Otokratik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İşlemci (Sürdürümcü) Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bürokratik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Makyevelist Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hizmetkâr Liderlik (Servant Leadership))",
     "hasImage": false,
     "image": null
   },
@@ -16252,7 +16252,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Kendini Gerçekleştirme)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Kendini Gerçekleştirme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kendini Gerçekleştirme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Fizyolojik İhtiyaçlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Güvenlik İhtiyacı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sevgi ve Ait Olma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Saygınlık (Statü):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Kendini Gerçekleştirme)",
     "hasImage": false,
     "image": null
   },
@@ -16287,7 +16287,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Valans (Ödülün Değeri))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Valans (Ödülün Değeri)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Valans (Ödülün Değeri)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Maaş × Ceza × Hiyerarşi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kıdem × Yaş × Disiplin:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Görev × Yetki × Sorumluluk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Planlama × Örgütleme × Kontrol:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Valans (Ödülün Değeri))",
     "hasImage": false,
     "image": null
   },
@@ -16322,7 +16322,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Açık İklim)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Açık İklim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Açık İklim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kapalı İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Özerk İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Babacan İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kontrollü İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Açık İklim)",
     "hasImage": false,
     "image": null
   },
@@ -16357,7 +16357,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Açık Alan)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Açık Alan\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Açık Alan** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kör Alan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gizli Alan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bilinmeyen (Karanlık) Alan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Gölge Alan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Açık Alan)",
     "hasImage": false,
     "image": null
   },
@@ -16392,7 +16392,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Öğretim süreçlerini geliştirmek, öğretmene rehberlik etmek ve mesleki gelişimi desteklemek)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Öğretim süreçlerini geliştirmek, öğretmene rehberlik etmek ve mesleki gelişimi desteklemek\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretim süreçlerini geliştirmek, öğretmene rehberlik etmek ve mesleki gelişimi desteklemek** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Öğretmenlerin açıklarını ve hatalarını yakalayıp cezalandırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sadece evrak ve imza kontrolleri yapmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mevcut durumu değiştirmeden korumak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tüm yetkileri merkezi idarede toplamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğretim süreçlerini geliştirmek, öğretmene rehberlik etmek ve mesleki gelişimi desteklemek)",
     "hasImage": false,
     "image": null
   },
@@ -16427,7 +16427,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İş Birliği Yapma (Entegrasyon / Problem Çözme))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İş Birliği Yapma (Entegrasyon / Problem Çözme)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İş Birliği Yapma (Entegrasyon / Problem Çözme)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kaçınma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Zorlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Görmezden Gelme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Teslim Olma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İş Birliği Yapma (Entegrasyon / Problem Çözme))",
     "hasImage": false,
     "image": null
   },
@@ -16462,7 +16462,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kaizen)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kaizen\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kaizen** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kanban:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Poka-Yoke:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Muda:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Benchmarking:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kaizen)",
     "hasImage": false,
     "image": null
   },
@@ -16497,7 +16497,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kıyaslama (Benchmarking))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kıyaslama (Benchmarking)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kıyaslama (Benchmarking)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Dış Kaynak Kullanımı (Outsourcing):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Küçülme (Downsizing):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Süreç Yenileme (Reengineering):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Beyin Fırtınası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kıyaslama (Benchmarking))",
     "hasImage": false,
     "image": null
   },
@@ -16532,7 +16532,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kararın kalitesi ve kararın astlar tarafından kabul edilme derecesi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kararın kalitesi ve kararın astlar tarafından kabul edilme derecesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kararın kalitesi ve kararın astlar tarafından kabul edilme derecesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Okul müdürünün yaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Haftalık ders saati:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mevzuat sayısı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğrenci mevcudu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kararın kalitesi ve kararın astlar tarafından kabul edilme derecesi)",
     "hasImage": false,
     "image": null
   },
@@ -16567,7 +16567,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dağıtım Adaleti (Distributive Justice))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dağıtım Adaleti (Distributive Justice)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dağıtım Adaleti (Distributive Justice)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İşlemsel / Prosedürel Adalet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Etkileşimsel Adalet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bilgilendirme Adaleti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Cezai Adalet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dağıtım Adaleti (Distributive Justice))",
     "hasImage": false,
     "image": null
   },
@@ -16602,7 +16602,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Psikolojik Güvenlik (Psychological Safety))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Psikolojik Güvenlik (Psychological Safety)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Psikolojik Güvenlik (Psychological Safety)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Örgütsel Sessizlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örgütsel Sinizm:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tükenmişlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sosyal Kaytarma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Psikolojik Güvenlik (Psychological Safety))",
     "hasImage": false,
     "image": null
   },
@@ -16637,7 +16637,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Uzmanlık Gücü ve Karizmatik (Referent) Güç)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Uzmanlık Gücü ve Karizmatik (Referent) Güç\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uzmanlık Gücü ve Karizmatik (Referent) Güç** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yasal Güç ve Zorlayıcı Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ödül Gücü ve Baskı Gücü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yalnızca Zorlayıcı Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bürokratik Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uzmanlık Gücü ve Karizmatik (Referent) Güç)",
     "hasImage": false,
     "image": null
   },
@@ -16672,7 +16672,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Etkin / Empatik Dinleme)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Etkin / Empatik Dinleme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Etkin / Empatik Dinleme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Seçici Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Görünüşte Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tuzak Kurucu Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Savunmacı Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Etkin / Empatik Dinleme)",
     "hasImage": false,
     "image": null
   },
@@ -16707,7 +16707,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Çalışanın resmî görev tanımında yer almayan, zorunlu olmayan, tamamen gönüllü olarak kurum yararına fazladan çaba göstermesi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Çalışanın resmî görev tanımında yer almayan, zorunlu olmayan, tamamen gönüllü olarak kurum yararına fazladan çaba göstermesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Çalışanın resmî görev tanımında yer almayan, zorunlu olmayan, tamamen gönüllü olarak kurum yararına fazladan çaba göstermesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sadece maaş karşılığı çalışması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Mesai saatini doldurur doldurmaz okulu terk etmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kurum kurallarına isteksizce uyması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ödül verilmedikçe hiçbir işe el sürmemesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Çalışanın resmî görev tanımında yer almayan, zorunlu olmayan, tamamen gönüllü olarak kurum yararına fazladan çaba göstermesi)",
     "hasImage": false,
     "image": null
   },
@@ -16742,7 +16742,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Bilinmezlik korkusu, alışkanlıkların bozulması ve yetkinlik kaybı endişesi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Bilinmezlik korkusu, alışkanlıkların bozulması ve yetkinlik kaybı endişesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bilinmezlik korkusu, alışkanlıkların bozulması ve yetkinlik kaybı endişesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Maaşların çok yüksek olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Okul binasının yeni olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrenci sayısının artması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ders kitaplarının değişmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bilinmezlik korkusu, alışkanlıkların bozulması ve yetkinlik kaybı endişesi)",
     "hasImage": false,
     "image": null
   },
@@ -16777,7 +16777,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (II. Kadran (Planlama / Kalite Kadranı))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"II. Kadran (Planlama / Kalite Kadranı)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **II. Kadran (Planlama / Kalite Kadranı)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) I. Kadran (Kriz Kadranı):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) III. Kadran (Aldanma Kadranı):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV. Kadran (Zaman Tuzağı / İsraf):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Hiçbiri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (II. Kadran (Planlama / Kalite Kadranı))",
     "hasImage": false,
     "image": null
   },
@@ -16812,7 +16812,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Örgütsel Sessizlik (Organizational Silence))\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Örgütsel Sessizlik (Organizational Silence)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örgütsel Sessizlik (Organizational Silence)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Örgütsel Muhalefet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Girişimcilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Dönüşümcü Eylem:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Takım Çalışması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Örgütsel Sessizlik (Organizational Silence))",
     "hasImage": false,
     "image": null
   },
@@ -16847,7 +16847,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğretmenlerin iş birliği içinde sürekli öğrenmesi ve tüm öğrencilerin başarısının kolektif sorumluluk kabul edilmesi)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğretmenlerin iş birliği içinde sürekli öğrenmesi ve tüm öğrencilerin başarısının kolektif sorumluluk kabul edilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretmenlerin iş birliği içinde sürekli öğrenmesi ve tüm öğrencilerin başarısının kolektif sorumluluk kabul edilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Öğretmenleri bireysel yarışa sokmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Okulu dış çevreye kapatmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sadece sınav notlarını yükseltmek için ezber yaptırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bürokratik yazışmaları artırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretmenlerin iş birliği içinde sürekli öğrenmesi ve tüm öğrencilerin başarısının kolektif sorumluluk kabul edilmesi)",
     "hasImage": false,
     "image": null
   },
@@ -16882,7 +16882,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kaynakların israf edilmesini önler ve paydaşların kuruma olan güvenini artırır)\n\n📌 **Konu / Çözüm Açıklaması (Eğitim Yönetimi ve Denetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kaynakların israf edilmesini önler ve paydaşların kuruma olan güvenini artırır\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kaynakların israf edilmesini önler ve paydaşların kuruma olan güvenini artırır** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Okul müdürünün harcamaları gizlemesini sağlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Mevzuatı işlevsiz kılar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Denetimleri gereksiz hale getirir:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Okul Aile Birliğini kapatır:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kaynakların israf edilmesini önler ve paydaşların kuruma olan güvenini artırır)",
     "hasImage": false,
     "image": null
   },
@@ -16917,7 +16917,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (2)",
     "hasImage": false,
     "image": null
   },
@@ -16952,7 +16952,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı Yardımcısı)",
     "hasImage": false,
     "image": null
   },
@@ -16987,7 +16987,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (20 gün)",
     "hasImage": false,
     "image": null
   },
@@ -17022,7 +17022,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yüksek Disiplin Kurulu)",
     "hasImage": false,
     "image": null
   },
@@ -17057,7 +17057,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Fırsat ve İmkân Eşitliği)",
     "hasImage": false,
     "image": null
   },
@@ -17092,7 +17092,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Örgün Eğitim ve Yaygın Eğitim)",
     "hasImage": false,
     "image": null
   },
@@ -17127,7 +17127,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (500 Türk Lirası)",
     "hasImage": false,
     "image": null
   },
@@ -17162,7 +17162,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>C</strong> (180 gün)",
     "hasImage": false,
     "image": null
   },
@@ -17197,7 +17197,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İç Denetçi)",
     "hasImage": false,
     "image": null
   },
@@ -17232,7 +17232,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (10 gün)",
     "hasImage": false,
     "image": null
   },
@@ -17267,7 +17267,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hizmet süresi şartı yoktur (kamu görevlisi olmak yeterlidir))",
     "hasImage": false,
     "image": null
   },
@@ -17302,7 +17302,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kanun ile)",
     "hasImage": false,
     "image": null
   },
@@ -17337,7 +17337,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>C</strong> (60 gün)",
     "hasImage": false,
     "image": null
   },
@@ -17372,7 +17372,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Personel Genel Müdürlüğü)",
     "hasImage": false,
     "image": null
   },
@@ -17407,7 +17407,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Teftiş Kurulu Başkanlığı)",
     "hasImage": false,
     "image": null
   },
@@ -17442,7 +17442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kınama)",
     "hasImage": false,
     "image": null
   },
@@ -17480,7 +17480,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Hükümdarın güvenliği ücretli askerlerden oluşan daimi muhafız kıtalarıyla sağlanmıştır.)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Hükümdarın güvenliği ücretli askerlerden oluşan daimi muhafız kıtalarıyla sağlanmıştır.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Hükümdarın güvenliği ücretli askerlerden oluşan daimi muhafız kıtalarıyla sağlanmıştır.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Ordunun temeli atlı süvarilere dayandırılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Mete Han tarafından onlu teşkilat sistemi kurulmuştur.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Savaşlarda sahte ricat ve hilal taktiği uygulanmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ordu-millet anlayışı hâkim olup kadınlar da gerektiğinde savaşa katılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Hükümdarın güvenliği ücretli askerlerden oluşan daimi muhafız kıtalarıyla sağlanmıştır.)"
   },
   {
     "id": "ekys_2022_q2",
@@ -17516,7 +17516,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Karahanlılar)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Karahanlılar\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Karahanlılar** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Gazneliler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Büyük Selçuklular:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tolunoğulları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İhşidîler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Karahanlılar)"
   },
   {
     "id": "ekys_2022_q3",
@@ -17552,7 +17552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Fethedilen bölgelerde kalıcı egemenlik ve asayişi sağlamak)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Fethedilen bölgelerde kalıcı egemenlik ve asayişi sağlamak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Fethedilen bölgelerde kalıcı egemenlik ve asayişi sağlamak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Gayrimüslim halkı zorla Müslümanlaştırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Anadolu'daki tüm Türk nüfusunu Balkanlara nakletmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Merkeziyetçi yönetimi zayıflatarak feodal beylikler kurmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kapitülasyon gelirlerini artırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Fethedilen bölgelerde kalıcı egemenlik ve asayişi sağlamak)"
   },
   {
     "id": "ekys_2022_q4",
@@ -17588,7 +17588,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İbrahim Müteferrika ve Sait Efendi öncülüğünde ilk sivil matbaanın kurulması)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İbrahim Müteferrika ve Sait Efendi öncülüğünde ilk sivil matbaanın kurulması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İbrahim Müteferrika ve Sait Efendi öncülüğünde ilk sivil matbaanın kurulması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yeniçeri Ocağı'nın kaldırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Tulumbarcılar Ocağı'nın kurulması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İlk kez çiçek aşısının uygulanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yalova'da kâğıt imalathanesinin açılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İbrahim Müteferrika ve Sait Efendi öncülüğünde ilk sivil matbaanın kurulması)"
   },
   {
     "id": "ekys_2022_q5",
@@ -17624,7 +17624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Divan-ı Hümayun'un kaldırılarak yerine Nezaretlerin (Bakanlıkların) kurulması)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Divan-ı Hümayun'un kaldırılarak yerine Nezaretlerin (Bakanlıkların) kurulması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Divan-ı Hümayun'un kaldırılarak yerine Nezaretlerin (Bakanlıkların) kurulması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sened-i İttifak'ın imzalanmasıyla ayanların yetkilerinin artırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İlk anayasa olan Kanun-i Esasi'nin ilan edilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mecelle'nin yürürlüğe konulması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Düyun-ı Umumiye İdaresi'nin açılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Divan-ı Hümayun'un kaldırılarak yerine Nezaretlerin (Bakanlıkların) kurulması)"
   },
   {
     "id": "ekys_2022_q6",
@@ -17660,7 +17660,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (I)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"I\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) V:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (I)"
   },
   {
     "id": "ekys_2022_q7",
@@ -17696,7 +17696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Yalnız I)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Yalnız I\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yalnız I** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)"
   },
   {
     "id": "ekys_2022_q8",
@@ -17732,7 +17732,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Dalyan)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Dalyan\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dalyan** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kom:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Ağıl:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Oba:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yayla:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Dalyan)"
   },
   {
     "id": "ekys_2022_q9",
@@ -17768,7 +17768,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (II)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) V:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (II)"
   },
   {
     "id": "ekys_2022_q10",
@@ -17804,7 +17804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Milet Antik Kenti – İzmir)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Milet Antik Kenti – İzmir\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Milet Antik Kenti – İzmir** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kız Kalesi – Mersin:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Selimiye Camii – Edirne:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sümela Manastırı – Trabzon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İshak Paşa Sarayı – Ağrı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Milet Antik Kenti – İzmir)"
   },
   {
     "id": "ekys_2022_q11",
@@ -17840,7 +17840,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Zigana Geçidi)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Zigana Geçidi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Zigana Geçidi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Gülek Geçidi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Belen Geçidi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Çubuk Geçidi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ilgaz Geçidi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Zigana Geçidi)"
   },
   {
     "id": "ekys_2022_q12",
@@ -17876,7 +17876,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Doğu Karadeniz Bölümü)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Doğu Karadeniz Bölümü\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Doğu Karadeniz Bölümü** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Ergene Bölümü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Konya Bölümü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Güneydoğu Anadolu Bölgesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kıyı Ege Bölümü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Karadeniz Bölümü)"
   },
   {
     "id": "ekys_2022_q13",
@@ -17912,7 +17912,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Anayasa)"
   },
   {
     "id": "ekys_2022_q14",
@@ -17948,7 +17948,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>E</strong> (Bakanlıklar genelge çıkararak kişi hürriyeti ve güvenliği hakkını sınırlandırabilir.)"
   },
   {
     "id": "ekys_2022_q15",
@@ -17984,7 +17984,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Türk Keneşi (Türk Konseyi))"
   },
   {
     "id": "ekys_2022_q16",
@@ -18020,7 +18020,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (1915 Çanakkale Köprüsü)"
   },
   {
     "id": "ekys_2022_q17",
@@ -18056,7 +18056,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Uşi Antlaşması (1912))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Uşi Antlaşması (1912)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uşi Antlaşması (1912)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Londra Antlaşması (1913):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bükreş Antlaşması (1913):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Atina Antlaşması (1913):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İstanbul Antlaşması (1913):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uşi Antlaşması (1912))"
   },
   {
     "id": "ekys_2022_q18",
@@ -18092,7 +18092,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (7. Madde)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"7. Madde\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **7. Madde** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) 1. Madde:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) 24. Madde:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) 12. Madde:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) 19. Madde:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (7. Madde)"
   },
   {
     "id": "ekys_2022_q19",
@@ -18128,7 +18128,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Gerekçesini, amacını ve yöntemini)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Gerekçesini, amacını ve yöntemini\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gerekçesini, amacını ve yöntemini** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Saltanat ve hilafetin mutlak gücünü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnızca bölgesel savunma yapılacağını:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Manda ve himayenin kabul edileceğini:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İtilaf Devletleri ile derhal barış yapılacağını:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gerekçesini, amacını ve yöntemini)"
   },
   {
     "id": "ekys_2022_q20",
@@ -18164,7 +18164,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Cumhuriyet rejimine geçilerek halifeliğin kaldırılması)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Cumhuriyet rejimine geçilerek halifeliğin kaldırılması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Cumhuriyet rejimine geçilerek halifeliğin kaldırılması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Kapitülasyonların kaldırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Boğazların dünya ticaretine açılması ve güvenliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Batı Trakya, Kars-Ardahan-Batum ve Arap topraklarında halk oylaması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Azınlık haklarının komşu ülkelerdeki Müslüman hakları ile dengelenmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Cumhuriyet rejimine geçilerek halifeliğin kaldırılması)"
   },
   {
     "id": "ekys_2022_q21",
@@ -18200,7 +18200,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Çok partili parlamenter sisteme geçerek ilk muhalefet partisini kurmuştur.)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Çok partili parlamenter sisteme geçerek ilk muhalefet partisini kurmuştur.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Çok partili parlamenter sisteme geçerek ilk muhalefet partisini kurmuştur.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Güçler birliği ilkesini benimsemiştir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Meclis hükümeti sistemiyle çalışmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kurucu ve ihtilalci bir meclistir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Milli egemenliği ve vatanın kurtuluşunu esas almıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Çok partili parlamenter sisteme geçerek ilk muhalefet partisini kurmuştur.)"
   },
   {
     "id": "ekys_2022_q22",
@@ -18236,7 +18236,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Sakarya Meydan Muharebesi)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Sakarya Meydan Muharebesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sakarya Meydan Muharebesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I. İnönü Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) II. İnönü Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kütahya-Eskişehir Muharebeleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Büyük Taarruz:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sakarya Meydan Muharebesi)"
   },
   {
     "id": "ekys_2022_q23",
@@ -18272,7 +18272,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Doğu Trakya, İstanbul ve Boğazlar)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Doğu Trakya, İstanbul ve Boğazlar\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Doğu Trakya, İstanbul ve Boğazlar** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İzmir ve Aydın:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kars, Ardahan ve Batum:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Urfa, Antep ve Maraş:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Musul ve Kerkük:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Trakya, İstanbul ve Boğazlar)"
   },
   {
     "id": "ekys_2022_q24",
@@ -18308,7 +18308,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Kapitülasyonlar)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Kapitülasyonlar\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kapitülasyonlar** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Dış borçların tamamı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gümrük tarifelerinin tümü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yabancı okulların tümü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Boğazlar Komisyonu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kapitülasyonlar)"
   },
   {
     "id": "ekys_2022_q25",
@@ -18344,7 +18344,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Tüm eğitim kurumlarını Millî Eğitim Bakanlığına bağlayarak eğitimde birlik ve laikliği sağlamak)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Tüm eğitim kurumlarını Millî Eğitim Bakanlığına bağlayarak eğitimde birlik ve laikliği sağlamak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Tüm eğitim kurumlarını Millî Eğitim Bakanlığına bağlayarak eğitimde birlik ve laikliği sağlamak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yabancı okulların tamamını kapatmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Üniversite reformunu gerçekleştirmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Latin harflerine geçişi derhal başlatmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Karma eğitime son vermek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tüm eğitim kurumlarını Millî Eğitim Bakanlığına bağlayarak eğitimde birlik ve laikliği sağlamak)"
   },
   {
     "id": "ekys_2022_q26",
@@ -18380,7 +18380,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Halkçılık)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Halkçılık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Halkçılık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Devletçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İnkılapçılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Cumhuriyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Laiklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Halkçılık)"
   },
   {
     "id": "ekys_2022_q27",
@@ -18416,7 +18416,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Uluslararası Boğazlar Komisyonu'nun kaldırılarak Boğazların yönetim ve savunmasının tamamen Türkiye'ye verilmesi)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Uluslararası Boğazlar Komisyonu'nun kaldırılarak Boğazların yönetim ve savunmasının tamamen Türkiye'ye verilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uluslararası Boğazlar Komisyonu'nun kaldırılarak Boğazların yönetim ve savunmasının tamamen Türkiye'ye verilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Boğazların tüm yabancı savaş gemilerine süresiz açılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Boğazlar çevresinin silahsızlandırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Karadeniz'e kıyısı olmayan devletlere sınırsız geçiş hakkı verilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Milletler Cemiyeti denetiminin artırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uluslararası Boğazlar Komisyonu'nun kaldırılarak Boğazların yönetim ve savunmasının tamamen Türkiye'ye verilmesi)"
   },
   {
     "id": "ekys_2022_q28",
@@ -18452,7 +18452,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Sadabat Paktı)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Sadabat Paktı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sadabat Paktı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Balkan Antantı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bağdat Paktı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) CENTO:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Akdeniz Paktı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Sadabat Paktı)"
   },
   {
     "id": "ekys_2022_q29",
@@ -18488,7 +18488,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Ahlaki Muhakeme (Kohlberg Yaklaşımı))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Ahlaki Muhakeme (Kohlberg Yaklaşımı)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Ahlaki Muhakeme (Kohlberg Yaklaşımı)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Değer Aşılama (Telkin):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örtük Program:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Doğrudan Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Değer Koşullandırması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ahlaki Muhakeme (Kohlberg Yaklaşımı))"
   },
   {
     "id": "ekys_2022_q30",
@@ -18524,7 +18524,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Kanun ve Düzen Eğilimi)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Kanun ve Düzen Eğilimi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kanun ve Düzen Eğilimi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) İtaat ve Ceza Eğilimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Saf Çıkarcı (Bireysel Araç) Eğilim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İyi Çocuk (Kişilerarası Uyum) Eğilimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Evrensel Ahlak İlkeleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kanun ve Düzen Eğilimi)"
   },
   {
     "id": "ekys_2022_q31",
@@ -18560,7 +18560,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dürüstlük ve Tarafsızlık)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dürüstlük ve Tarafsızlık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dürüstlük ve Tarafsızlık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Gizlilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hiyerarşik İtaat:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tasarruf İlkesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Nezaket ve Saygı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dürüstlük ve Tarafsızlık)"
   },
   {
     "id": "ekys_2022_q32",
@@ -18596,7 +18596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Adalet ve Eşitlik)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Adalet ve Eşitlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Adalet ve Eşitlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sır Saklama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Tutumluluk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sadakat:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Esneklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Adalet ve Eşitlik)"
   },
   {
     "id": "ekys_2022_q33",
@@ -18632,7 +18632,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Öğrenen (Çocuk) Merkezli Tasarım)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Öğrenen (Çocuk) Merkezli Tasarım\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrenen (Çocuk) Merkezli Tasarım** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Konu Merkezli Tasarım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sorun Merkezli Tasarım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Disiplin Tasarımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Geniş Alanlı Tasarım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrenen (Çocuk) Merkezli Tasarım)"
   },
   {
     "id": "ekys_2022_q34",
@@ -18668,7 +18668,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Hayatilik (Yaşama Yakınlık))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Hayatilik (Yaşama Yakınlık)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Hayatilik (Yaşama Yakınlık)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Açıklık (Ayanilik):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Tasarruf (Ekonomiklik):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bilinenden Bilinmeyene:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Somuttan Soyuta:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Hayatilik (Yaşama Yakınlık))"
   },
   {
     "id": "ekys_2022_q35",
@@ -18704,7 +18704,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (%70)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"%70\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **%70** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) %50:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) %60:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) %85:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) %100:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (%70)"
   },
   {
     "id": "ekys_2022_q36",
@@ -18740,7 +18740,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Giriş (Engage))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Giriş (Engage)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Giriş (Engage)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Keşfetme (Explore):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Açıklama (Explain):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Derinleştirme (Elaborate):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Değerlendirme (Evaluate):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Giriş (Engage))"
   },
   {
     "id": "ekys_2022_q37",
@@ -18776,7 +18776,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kapsam Geçerliği)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kapsam Geçerliği\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kapsam Geçerliği** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yordama Geçerliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yapı Geçerliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Puanlayıcı Güvenirliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Görünüş Geçerliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kapsam Geçerliği)"
   },
   {
     "id": "ekys_2022_q38",
@@ -18812,7 +18812,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Doğrudan Ölçme - Dolaylı Ölçme)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Doğrudan Ölçme - Dolaylı Ölçme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Doğrudan Ölçme - Dolaylı Ölçme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Dolaylı Ölçme - Türetilmiş Ölçme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Türetilmiş Ölçme - Doğrudan Ölçme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Dolaylı Ölçme - Doğrudan Ölçme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Doğrudan Ölçme - Türetilmiş Ölçme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğrudan Ölçme - Dolaylı Ölçme)"
   },
   {
     "id": "ekys_2022_q39",
@@ -18848,7 +18848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Oryantasyon (Duruma Alıştırma))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Oryantasyon (Duruma Alıştırma)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Oryantasyon (Duruma Alıştırma)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Psikolojik Danışma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sevk (Konsültasyon):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İzleme ve Değerlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yöneltme ve Yerleştirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Oryantasyon (Duruma Alıştırma))"
   },
   {
     "id": "ekys_2022_q40",
@@ -18884,7 +18884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Önleyici (Proaktif) Model)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Önleyici (Proaktif) Model\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Önleyici (Proaktif) Model** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Tepkisel Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gelişimsel Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Baskıcı Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Geleneksel Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Önleyici (Proaktif) Model)"
   },
   {
     "id": "ekys_2022_q41",
@@ -18920,7 +18920,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Planlama - Örgütleme - Emir/Yöneltme - Koordinasyon - Denetim (Kontrol))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Planlama - Örgütleme - Emir/Yöneltme - Koordinasyon - Denetim (Kontrol)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Planlama - Örgütleme - Emir/Yöneltme - Koordinasyon - Denetim (Kontrol)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Üretim - Pazarlama - Finans - Muhasebe - İnsan Kaynakları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Girdi - Süreç - Çıktı - Dönüt - Çevre:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Amaç - Kriter - Değerlendirme - Raporlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yetki - Sorumluluk - Hiyerarşi - Disiplin:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Planlama - Örgütleme - Emir/Yöneltme - Koordinasyon - Denetim (Kontrol))"
   },
   {
     "id": "ekys_2022_q42",
@@ -18956,7 +18956,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Kişisel ve gayriresmî ilişkilere göre esnek kararlar verilmesi)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Kişisel ve gayriresmî ilişkilere göre esnek kararlar verilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kişisel ve gayriresmî ilişkilere göre esnek kararlar verilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Görev ve yetkilerin hiyerarşik kademelere göre dağıtılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) İşe alım ve terfilerde liyakat ve mesleki uzmanlığın esas alınması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yazılı kural ve prosedürlere mutlak bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Görevlerin ifasında gayrişahsilik (nesnellik) ilkesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kişisel ve gayriresmî ilişkilere göre esnek kararlar verilmesi)"
   },
   {
     "id": "ekys_2022_q43",
@@ -18992,7 +18992,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Y Kuramı)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Y Kuramı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Y Kuramı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) X Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Z Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Klasik Kuram:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bilimsel Yönetim Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Y Kuramı)"
   },
   {
     "id": "ekys_2022_q44",
@@ -19028,7 +19028,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Takım (Ekip) Liderliği (9.9))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Takım (Ekip) Liderliği (9.9)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Takım (Ekip) Liderliği (9.9)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Otoriter (Görev) Liderlik (9.1):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Kır Kulübü Liderliği (1.9):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Zayıf / Fakirleşmiş Liderlik (1.1):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Orta Yolcu Liderlik (5.5):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Takım (Ekip) Liderliği (9.9))"
   },
   {
     "id": "ekys_2022_q45",
@@ -19064,7 +19064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Dönüşümcü (Transformasyonel) Liderlik)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Dönüşümcü (Transformasyonel) Liderlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dönüşümcü (Transformasyonel) Liderlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Etkileşimci (İşlemci) Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Otokratik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Serbest Bırakıcı (Laissez-faire) Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bürokratik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Dönüşümcü (Transformasyonel) Liderlik)"
   },
   {
     "id": "ekys_2022_q46",
@@ -19100,7 +19100,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dağıtımcı (Paylaşılan) Liderlik)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dağıtımcı (Paylaşılan) Liderlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dağıtımcı (Paylaşılan) Liderlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Karizmatik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Geleneksel Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Hiyerarşik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Baskıcı Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dağıtımcı (Paylaşılan) Liderlik)"
   },
   {
     "id": "ekys_2022_q47",
@@ -19136,7 +19136,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Gözlemlenebilir Yapay Öğeler (Artefaktlar))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Gözlemlenebilir Yapay Öğeler (Artefaktlar)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gözlemlenebilir Yapay Öğeler (Artefaktlar)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Benimsenen Değerler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Temel Sayıtlılar (Varsayımlar):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Gizil Amaçlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Normatif Kurallar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gözlemlenebilir Yapay Öğeler (Artefaktlar))"
   },
   {
     "id": "ekys_2022_q48",
@@ -19172,7 +19172,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Açık İklim)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Açık İklim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Açık İklim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kapalı İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Babacan İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Özerk İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kontrollü İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Açık İklim)"
   },
   {
     "id": "ekys_2022_q49",
@@ -19208,7 +19208,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Öğretmene rehberlik etmek ve öğretim sürecini geliştirmeye destek olmak)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Öğretmene rehberlik etmek ve öğretim sürecini geliştirmeye destek olmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretmene rehberlik etmek ve öğretim sürecini geliştirmeye destek olmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Yalnızca eksik ve hataları bularak cezalandırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Evrak ve defterleri biçimsel olarak kontrol etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Okul yöneticisinin yetkilerini devralmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sınıfta sessizliği mutlak biçimde sağlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğretmene rehberlik etmek ve öğretim sürecini geliştirmeye destek olmak)"
   },
   {
     "id": "ekys_2022_q50",
@@ -19244,7 +19244,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Klinik Denetim)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Klinik Denetim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Klinik Denetim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Bürokratik Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Geleneksel Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mali Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Otomatik Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Klinik Denetim)"
   },
   {
     "id": "ekys_2022_q51",
@@ -19280,7 +19280,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İş Birliği Yapma (Problem Çözme))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İş Birliği Yapma (Problem Çözme)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İş Birliği Yapma (Problem Çözme)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kaçınma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Uyma (Ödün Verme):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Hükmetme (Zorlama):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Uzlaşma (Yarı Yarıya Paylaşma):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İş Birliği Yapma (Problem Çözme))"
   },
   {
     "id": "ekys_2022_q52",
@@ -19316,7 +19316,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (SWOT (GZFT) Analizi)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"SWOT (GZFT) Analizi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **SWOT (GZFT) Analizi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Balık Kılçığı Diyagramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Pareto Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Gantt Şeması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Histogram:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (SWOT (GZFT) Analizi)"
   },
   {
     "id": "ekys_2022_q53",
@@ -19352,7 +19352,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Sürekli İyileştirme (Kaizen))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Sürekli İyileştirme (Kaizen)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sürekli İyileştirme (Kaizen)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sonuç Odaklılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hiyerarşik Kontrol:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Katı Standartlaşma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bölümlere Ayırma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sürekli İyileştirme (Kaizen))"
   },
   {
     "id": "ekys_2022_q54",
@@ -19388,7 +19388,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Örgütsel Vatandaşlık Davranışı (ÖVD))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Örgütsel Vatandaşlık Davranışı (ÖVD)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örgütsel Vatandaşlık Davranışı (ÖVD)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Örgütsel Sinizm:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örgütsel Sessizlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tükenmişlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yabancılaşma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Örgütsel Vatandaşlık Davranışı (ÖVD))"
   },
   {
     "id": "ekys_2022_q55",
@@ -19424,7 +19424,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Örgütsel Sessizlik)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Örgütsel Sessizlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örgütsel Sessizlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Örgütsel Bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örgütsel Sosyalleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İş Doyumu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yönetsel Şeffaflık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Örgütsel Sessizlik)"
   },
   {
     "id": "ekys_2022_q56",
@@ -19460,7 +19460,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Mesleki Öğrenme Toplulukları (PLC))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Mesleki Öğrenme Toplulukları (PLC)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mesleki Öğrenme Toplulukları (PLC)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Disiplin Kurulu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Satın Alma Komisyonu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Geleneksel Bürokrasi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kriz Masası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mesleki Öğrenme Toplulukları (PLC))"
   },
   {
     "id": "ekys_2022_q57",
@@ -19496,7 +19496,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Uzmanlık Gücü)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Uzmanlık Gücü\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uzmanlık Gücü** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yasal (Makam) Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ödül Gücü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Zorlayıcı (Cezalandırma) Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Karizma Gücü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uzmanlık Gücü)"
   },
   {
     "id": "ekys_2022_q58",
@@ -19532,7 +19532,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğretmenleri karar ve planlama süreçlerine katarak iletişimi açık tutmak)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğretmenleri karar ve planlama süreçlerine katarak iletişimi açık tutmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretmenleri karar ve planlama süreçlerine katarak iletişimi açık tutmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yeniliği katı bir emirle uygulamaya zorlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Karşı çıkan öğretmenleri idari ceza ile tehdit etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yeniliği gizli tutarak aniden yürürlüğe koymak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tüm yetkileri tek elde toplamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretmenleri karar ve planlama süreçlerine katarak iletişimi açık tutmak)"
   },
   {
     "id": "ekys_2022_q59",
@@ -19568,7 +19568,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Akıcılık ve İlerleme (Momentum))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Akıcılık ve İlerleme (Momentum)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Akıcılık ve İlerleme (Momentum)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Farkında Oluş (Withitness):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Grup Odağı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Aşırı Tepki:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bölünme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Akıcılık ve İlerleme (Momentum))"
   },
   {
     "id": "ekys_2022_q60",
@@ -19604,7 +19604,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Can güvenliğini sağlamak ve kriz masasını toplayarak doğru bilgi akışını yönetmek)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Can güvenliğini sağlamak ve kriz masasını toplayarak doğru bilgi akışını yönetmek\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Can güvenliğini sağlamak ve kriz masasını toplayarak doğru bilgi akışını yönetmek** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Medyaya acele ve doğrulanmamış açıklamalar yapmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Olayı gizlemeye çalışarak derslere devam etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tüm personeli derhal suçlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Okul binasını süresiz tatil etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Can güvenliğini sağlamak ve kriz masasını toplayarak doğru bilgi akışını yönetmek)"
   },
   {
     "id": "ekys_2022_q61",
@@ -19640,7 +19640,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğretim Liderliği)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğretim Liderliği\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretim Liderliği** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Mali Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ayniyat Yönetimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Halkla İlişkiler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Protokol Yönetimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretim Liderliği)"
   },
   {
     "id": "ekys_2022_q62",
@@ -19676,7 +19676,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Mali (Finansal) Hesap Verebilirlik)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Mali (Finansal) Hesap Verebilirlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mali (Finansal) Hesap Verebilirlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Pedagojik Hesap Verebilirlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Siyasal Hesap Verebilirlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mesleki Hesap Verebilirlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yasal Olmayan Hesap Verebilirlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mali (Finansal) Hesap Verebilirlik)"
   },
   {
     "id": "ekys_2022_q63",
@@ -19712,7 +19712,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Empatik (Etkin) Dinleme)\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Empatik (Etkin) Dinleme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Empatik (Etkin) Dinleme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yüzeysel Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Seçici Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Savunmacı Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tuzak Kurucu Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Empatik (Etkin) Dinleme)"
   },
   {
     "id": "ekys_2022_q64",
@@ -19748,7 +19748,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Mentorluk (Akıl Hocalığı))\n\n📌 **Konu / Çözüm Açıklaması (2022 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Mentorluk (Akıl Hocalığı)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mentorluk (Akıl Hocalığı)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Bürokratik Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Rotasyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Akreditasyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Stratejik Değerlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mentorluk (Akıl Hocalığı))"
   },
   {
     "id": "ekys_2022_q65",
@@ -19784,7 +19784,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (600)"
   },
   {
     "id": "ekys_2022_q66",
@@ -19820,7 +19820,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (Siyasi haklar ve ödevler olağan dönem CBK'ları ile serbestçe düzenlenebilir.)"
   },
   {
     "id": "ekys_2022_q67",
@@ -19856,7 +19856,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (10 gün)"
   },
   {
     "id": "ekys_2022_q68",
@@ -19892,7 +19892,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>D</strong> (10 gün)"
   },
   {
     "id": "ekys_2022_q69",
@@ -19928,7 +19928,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Genellik ve Eşitlik)"
   },
   {
     "id": "ekys_2022_q70",
@@ -19964,7 +19964,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Öğretmenlik formasyonu sadece lise düzeyinde mesleki derslerle verilir.)"
   },
   {
     "id": "ekys_2022_q71",
@@ -20000,7 +20000,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (6 yaşını bitirdiği yılın eylül ayı sonundan 14 yaşını bitirip 15 yaşına bastığı yılın öğretim yılı sonuna kadar)"
   },
   {
     "id": "ekys_2022_q72",
@@ -20036,7 +20036,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (180 iş günü)"
   },
   {
     "id": "ekys_2022_q73",
@@ -20072,7 +20072,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Harcama Yetkilisi)"
   },
   {
     "id": "ekys_2022_q74",
@@ -20108,7 +20108,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kaymakam)"
   },
   {
     "id": "ekys_2022_q75",
@@ -20144,7 +20144,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (4 yılda bir)"
   },
   {
     "id": "ekys_2022_q76",
@@ -20180,7 +20180,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Vali)"
   },
   {
     "id": "ekys_2022_q77",
@@ -20216,7 +20216,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (30 gün)"
   },
   {
     "id": "ekys_2022_q78",
@@ -20252,7 +20252,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Talim ve Terbiye Kurulu Başkanlığı)"
   },
   {
     "id": "ekys_2022_q79",
@@ -20288,7 +20288,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Temel Eğitim Genel Müdürlüğü)"
   },
   {
     "id": "ekys_2022_q80",
@@ -20324,7 +20324,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kademe İlerlemesinin Durdurulması ve Devlet Memurluğundan Çıkarma)"
   },
   {
     "id": "ekys_2021_q1",
@@ -20358,7 +20358,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kut Anlayışı)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kut Anlayışı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kut Anlayışı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Veraset Sistemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Töre Geleneği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kurultay Hukuku:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Toy Meclisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kut Anlayışı)"
   },
   {
     "id": "ekys_2021_q2",
@@ -20392,7 +20392,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Malazgirt Meydan Muharebesi)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Malazgirt Meydan Muharebesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Malazgirt Meydan Muharebesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Pasinler Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Miryokefalon Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Dandanakan Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Katvan Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Malazgirt Meydan Muharebesi)"
   },
   {
     "id": "ekys_2021_q3",
@@ -20426,7 +20426,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Has)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Has\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Has** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Zeamet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Tımar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Vakıf:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yurtluk:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Has)"
   },
   {
     "id": "ekys_2021_q4",
@@ -20460,7 +20460,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Padişahın yetkilerini kendi isteğiyle sınırlandırarak kanun üstünlüğünü tanıması)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Padişahın yetkilerini kendi isteğiyle sınırlandırarak kanun üstünlüğünü tanıması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Padişahın yetkilerini kendi isteğiyle sınırlandırarak kanun üstünlüğünü tanıması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Halkın ilk kez Meclis-i Mebusan yoluyla yönetime katılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yabancı devletlere ilk kez ekonomik ve siyasi kapitülasyonların verilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yeniçeri Ocağı'nın kaldırılarak yerine Asakir-i Mansure-i Muhammediye'nin kurulması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Gayrimüslimlerin ilk kez devlet memurluğuna atanma hakkı elde etmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Padişahın yetkilerini kendi isteğiyle sınırlandırarak kanun üstünlüğünü tanıması)"
   },
   {
     "id": "ekys_2021_q5",
@@ -20494,7 +20494,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Malikâne Sistemi)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Malikâne Sistemi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Malikâne Sistemi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Müsadere Sistemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gedik Sistemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Narz Sistemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İane-i Cihadiye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Malikâne Sistemi)"
   },
   {
     "id": "ekys_2021_q6",
@@ -20528,7 +20528,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Yalnız I)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Yalnız I\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yalnız I** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yalnız II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnız III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)"
   },
   {
     "id": "ekys_2021_q7",
@@ -20562,7 +20562,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (Seyfe Gölü)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"Seyfe Gölü\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Seyfe Gölü** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Erçek Gölü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Nazik Gölü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Arin Gölü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Haçlı Gölü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Seyfe Gölü)"
   },
   {
     "id": "ekys_2021_q8",
@@ -20596,7 +20596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Çoruh - Kelkit Oluğu)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Çoruh - Kelkit Oluğu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Çoruh - Kelkit Oluğu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Edremit - Havran Oluğu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Hatay - Maraş Grabeni:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bakırçay Grabeni:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Gediz Grabeni:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Çoruh - Kelkit Oluğu)"
   },
   {
     "id": "ekys_2021_q9",
@@ -20632,7 +20632,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (I)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"I\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) V:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (I)"
   },
   {
     "id": "ekys_2021_q10",
@@ -20668,7 +20668,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (II)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) V:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (II)"
   },
   {
     "id": "ekys_2021_q11",
@@ -20702,7 +20702,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı)"
   },
   {
     "id": "ekys_2021_q12",
@@ -20736,7 +20736,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (13)"
   },
   {
     "id": "ekys_2021_q13",
@@ -20770,7 +20770,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Vatan Hizmeti (Askerlik))"
   },
   {
     "id": "ekys_2021_q14",
@@ -20804,7 +20804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mevzu Hukuk (Mevzuat))"
   },
   {
     "id": "ekys_2021_q15",
@@ -20838,7 +20838,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yunus Emre)"
   },
   {
     "id": "ekys_2021_q16",
@@ -20872,7 +20872,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (İMECE)"
   },
   {
     "id": "ekys_2021_q17",
@@ -20906,7 +20906,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kafkas Cephesi)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kafkas Cephesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kafkas Cephesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kanal Cephesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Çanakkale Cephesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Hicaz-Yemen Cephesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Irak Cephesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kafkas Cephesi)"
   },
   {
     "id": "ekys_2021_q18",
@@ -20940,7 +20940,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Sivas Kongresi)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Sivas Kongresi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sivas Kongresi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Erzurum Kongresi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Amasya Genelgesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Havza Genelgesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Misakımillî Kararları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sivas Kongresi)"
   },
   {
     "id": "ekys_2021_q19",
@@ -20974,7 +20974,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Amaç, Gerekçe ve Yöntemi)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Amaç, Gerekçe ve Yöntemi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Amaç, Gerekçe ve Yöntemi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sadece Askerî Hedefini:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Saltanatın Yetkilerini:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Manda ve Himaye Fikrını:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bölgesel Kurtuluş Planını:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Amaç, Gerekçe ve Yöntemi)"
   },
   {
     "id": "ekys_2021_q20",
@@ -21008,7 +21008,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Misakımillî)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Misakımillî\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Misakımillî** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Tekalif-i Milliye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Teşkilat-ı Esasiye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Amasya Protokolü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mudanya Mütarekesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Misakımillî)"
   },
   {
     "id": "ekys_2021_q21",
@@ -21042,7 +21042,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (1921 Anayasası'nı (Teşkilat-ı Esasiye Kanunu) kabul etmesi)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"1921 Anayasası'nı (Teşkilat-ı Esasiye Kanunu) kabul etmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **1921 Anayasası'nı (Teşkilat-ı Esasiye Kanunu) kabul etmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İstiklal Mahkemelerini kurması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hıyanet-i Vataniye Kanunu'nu çıkarması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Düzenli orduyu kurması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Hükümet üyelerini seçmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (1921 Anayasası'nı (Teşkilat-ı Esasiye Kanunu) kabul etmesi)"
   },
   {
     "id": "ekys_2021_q22",
@@ -21076,7 +21076,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Başkomutanlık Meydan Muharebesi (Büyük Taarruz))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Başkomutanlık Meydan Muharebesi (Büyük Taarruz)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Başkomutanlık Meydan Muharebesi (Büyük Taarruz)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sakarya Meydan Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) I. İnönü Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II. İnönü Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Eskişehir-Kütahya Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Başkomutanlık Meydan Muharebesi (Büyük Taarruz))"
   },
   {
     "id": "ekys_2021_q23",
@@ -21110,7 +21110,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Başkanı Türk olan uluslararası bir Boğazlar Komisyonu tarafından yönetilmesi)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Başkanı Türk olan uluslararası bir Boğazlar Komisyonu tarafından yönetilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Başkanı Türk olan uluslararası bir Boğazlar Komisyonu tarafından yönetilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Boğazların tamamen yabancı devletlerin denetimine bırakılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Boğazlardan geçişin tamamen yasaklanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Boğazların Birleşmiş Milletler kontrolüne verilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Boğazların sadece ticari gemilere açık tutulması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Başkanı Türk olan uluslararası bir Boğazlar Komisyonu tarafından yönetilmesi)"
   },
   {
     "id": "ekys_2021_q24",
@@ -21144,7 +21144,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Tevhid-i Tedrisat Kanunu)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Tevhid-i Tedrisat Kanunu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Tevhid-i Tedrisat Kanunu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Maarif Teşkilatı Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Medreselerin Kapatılması Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Harf İnkılabı Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tekke ve Zaviyelerin Kapatılması Kanunu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tevhid-i Tedrisat Kanunu)"
   },
   {
     "id": "ekys_2021_q25",
@@ -21178,7 +21178,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Siyasi haklar (Seçme ve seçilme hakkı))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Siyasi haklar (Seçme ve seçilme hakkı)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Siyasi haklar (Seçme ve seçilme hakkı)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Mirasta eşitlik hakkı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Mahkemede şahitlikte eşitlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İstediği mesleğe girebilme hakkı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tek eşle evlilik ve resmî nikâh zorunluluğu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Siyasi haklar (Seçme ve seçilme hakkı))"
   },
   {
     "id": "ekys_2021_q26",
@@ -21212,7 +21212,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (1929 Dünya Ekonomik Buhranı (Büyük Buhran))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"1929 Dünya Ekonomik Buhranı (Büyük Buhran)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **1929 Dünya Ekonomik Buhranı (Büyük Buhran)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) I. Dünya Savaşı'nın çıkması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İkinci Dünya Savaşı tehlikesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Milletler Cemiyeti'nin kurulması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Balkan Antantı'nın imzalanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (1929 Dünya Ekonomik Buhranı (Büyük Buhran))"
   },
   {
     "id": "ekys_2021_q27",
@@ -21246,7 +21246,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Tayfur Sökmen)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Tayfur Sökmen\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Tayfur Sökmen** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Abdülgani Türkmen:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Abdurrahman Melek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Şükrü Saracoğlu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İsmet İnönü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tayfur Sökmen)"
   },
   {
     "id": "ekys_2021_q28",
@@ -21280,7 +21280,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Milletler Cemiyeti (Cemiyet-i Akvam))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Milletler Cemiyeti (Cemiyet-i Akvam)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Milletler Cemiyeti (Cemiyet-i Akvam)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Birleşmiş Milletler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kuzey Atlantik Paktı (NATO):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Varşova Paktı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Avrupa Konseyi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Milletler Cemiyeti (Cemiyet-i Akvam))"
   },
   {
     "id": "ekys_2021_q29",
@@ -21314,7 +21314,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Cumhurbaşkanı, TBMM Üyeleri ve Yargı Mensupları)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Cumhurbaşkanı, TBMM Üyeleri ve Yargı Mensupları\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Cumhurbaşkanı, TBMM Üyeleri ve Yargı Mensupları** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Genel Müdürler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Valiler ve Kaymakamlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Belediye Başkanları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İl Millî Eğitim Müdürleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı, TBMM Üyeleri ve Yargı Mensupları)"
   },
   {
     "id": "ekys_2021_q30",
@@ -21348,7 +21348,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kamu Görevlileri Mesleki Etiği)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kamu Görevlileri Mesleki Etiği\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kamu Görevlileri Mesleki Etiği** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Bürokratik Otorite:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hiyerarşik Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kariyer İlkesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Liyakat İlkesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kamu Görevlileri Mesleki Etiği)"
   },
   {
     "id": "ekys_2021_q31",
@@ -21382,7 +21382,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İyi Çocuk Eğilimi (Kişiler Arası Uyum))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İyi Çocuk Eğilimi (Kişiler Arası Uyum)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İyi Çocuk Eğilimi (Kişiler Arası Uyum)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İtaat ve Ceza:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Saf Çıkarcı (Araçsal İlişkiler):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kanun ve Düzen:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Evrensel Ahlak İlkeleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İyi Çocuk Eğilimi (Kişiler Arası Uyum))"
   },
   {
     "id": "ekys_2021_q32",
@@ -21416,7 +21416,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Değer Belirginleştirme (Açıklama))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Değer Belirginleştirme (Açıklama)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Değer Belirginleştirme (Açıklama)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Değer Telkini:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Değer Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Karakter Eğitimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Doğrudan Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Değer Belirginleştirme (Açıklama))"
   },
   {
     "id": "ekys_2021_q33",
@@ -21450,7 +21450,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Program içeriğinin öğrencinin ilgi ve ihtiyaçlarına göre önceden değil, süreç içinde öğrenciyle birlikte belirlenmesi)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Program içeriğinin öğrencinin ilgi ve ihtiyaçlarına göre önceden değil, süreç içinde öğrenciyle birlikte belirlenmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Program içeriğinin öğrencinin ilgi ve ihtiyaçlarına göre önceden değil, süreç içinde öğrenciyle birlikte belirlenmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Konuların mantıksal bir sıra içinde uzmanlarca yapılandırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Toplumsal sorunların çözülmesini merkeze alması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Evrensel temel eserlerin incelenmesine dayanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ölçme ve değerlendirmede mutlak başarıya odaklanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Program içeriğinin öğrencinin ilgi ve ihtiyaçlarına göre önceden değil, süreç içinde öğrenciyle birlikte belirlenmesi)"
   },
   {
     "id": "ekys_2021_q34",
@@ -21484,7 +21484,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğrenmeyi kolaylaştıran rehber ve yönlendirici olmak)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğrenmeyi kolaylaştıran rehber ve yönlendirici olmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrenmeyi kolaylaştıran rehber ve yönlendirici olmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Bilgiyi doğrudan aktaran tek otorite olmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Katı disiplin kurallarıyla sınıfı kontrol etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sadece sonuç odaklı ölçme değerlendirme yapmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ders kitabındaki içeriği harfiyen ezberletmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrenmeyi kolaylaştıran rehber ve yönlendirici olmak)"
   },
   {
     "id": "ekys_2021_q35",
@@ -21518,7 +21518,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Yaratma (Sentez))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Yaratma (Sentez)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yaratma (Sentez)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Değerlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Çözümleme (Analiz):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Uygulama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Anlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yaratma (Sentez))"
   },
   {
     "id": "ekys_2021_q36",
@@ -21552,7 +21552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Geçerlik)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Geçerlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Geçerlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Güvenirlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kullanışlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Objektiflik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ayırt Edicilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Geçerlik)"
   },
   {
     "id": "ekys_2021_q37",
@@ -21586,7 +21586,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Güvenirlik (Kararlılık / Tutarlılık))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Güvenirlik (Kararlılık / Tutarlılık)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Güvenirlik (Kararlılık / Tutarlılık)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kapsam Geçerliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yordama Geçerliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yapı Geçerliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Görünüş Geçerliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Güvenirlik (Kararlılık / Tutarlılık))"
   },
   {
     "id": "ekys_2021_q38",
@@ -21620,7 +21620,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Probleme Dayalı Öğrenme (PDÖ))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Probleme Dayalı Öğrenme (PDÖ)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Probleme Dayalı Öğrenme (PDÖ)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Doğrudan Anlatım Yöntemi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Programlı Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tümdengelim Stratejisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mikro Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Probleme Dayalı Öğrenme (PDÖ))"
   },
   {
     "id": "ekys_2021_q39",
@@ -21654,7 +21654,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Gelişimsel / Çağdaş Rehberlik Anlayışı)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Gelişimsel / Çağdaş Rehberlik Anlayışı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gelişimsel / Çağdaş Rehberlik Anlayışı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Geleneksel / Kriz Odaklı Rehberlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Çare Bulucu Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yalnızca Uyum Sağlayıcı Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Klinik Model:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gelişimsel / Çağdaş Rehberlik Anlayışı)"
   },
   {
     "id": "ekys_2021_q40",
@@ -21688,7 +21688,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Göz teması kurma veya görmezden gelip pekiştireci kesme)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Göz teması kurma veya görmezden gelip pekiştireci kesme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Göz teması kurma veya görmezden gelip pekiştireci kesme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Öğrenciye derhal ceza verme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrenciyi dersten çıkarma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tüm sınıfa toplu uyarıda bulunma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Veliyi derhal okula çağırma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Göz teması kurma veya görmezden gelip pekiştireci kesme)"
   },
   {
     "id": "ekys_2021_q41",
@@ -21722,7 +21722,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Planlama - Örgütleme - Yöneltme (Emir-Komuta) - Koordinasyon - Denetim)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Planlama - Örgütleme - Yöneltme (Emir-Komuta) - Koordinasyon - Denetim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Planlama - Örgütleme - Yöneltme (Emir-Komuta) - Koordinasyon - Denetim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Planlama - Bütçeleme - Denetim - Değerlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Karar Verme - İletişim - Etkileme - Değerlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Örgütleme - Liderlik - Vizyon - Misyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Hedef Belirleme - Görev Dağılımı - Ödüllendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Planlama - Örgütleme - Yöneltme (Emir-Komuta) - Koordinasyon - Denetim)"
   },
   {
     "id": "ekys_2021_q42",
@@ -21756,7 +21756,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Görevlerin yasal-rasyonel kurallara ve hiyerarşik yapıya bağlanması)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Görevlerin yasal-rasyonel kurallara ve hiyerarşik yapıya bağlanması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Görevlerin yasal-rasyonel kurallara ve hiyerarşik yapıya bağlanması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kişisel ilişkilerin ve inisiyatifin öne çıkması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Çalışanların duygusal bağlarına göre terfi etmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kuralların esnek ve durumsal olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yetki devrinin tamamen sınırlandırılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Görevlerin yasal-rasyonel kurallara ve hiyerarşik yapıya bağlanması)"
   },
   {
     "id": "ekys_2021_q43",
@@ -21790,7 +21790,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Y Kuramı)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Y Kuramı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Y Kuramı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) X Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Z Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sistem Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Durumsallık Kuramı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Y Kuramı)"
   },
   {
     "id": "ekys_2021_q44",
@@ -21824,7 +21824,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Takım (Ekip) Liderliği (9,9))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Takım (Ekip) Liderliği (9,9)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Takım (Ekip) Liderliği (9,9)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Şehir Kulübü Liderliği (1,9):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Otoriter / Görev Liderliği (9,1):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Fakirleşmiş / Cılız Liderlik (1,1):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Orta Yol Liderliği (5,5):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Takım (Ekip) Liderliği (9,9))"
   },
   {
     "id": "ekys_2021_q45",
@@ -21858,7 +21858,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dönüşümcü (Transformasyonel) Liderlik)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dönüşümcü (Transformasyonel) Liderlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dönüşümcü (Transformasyonel) Liderlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Etkileşimci (İşlemci) Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Otokratik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Serbest Bırakıcı (Laissez-Faire) Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Geleneksel Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dönüşümcü (Transformasyonel) Liderlik)"
   },
   {
     "id": "ekys_2021_q46",
@@ -21892,7 +21892,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dağıtılmış (Paylaşılan) Liderlik)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dağıtılmış (Paylaşılan) Liderlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dağıtılmış (Paylaşılan) Liderlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Karizmatik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hizmetkâr Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kültürel Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğretimsel Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dağıtılmış (Paylaşılan) Liderlik)"
   },
   {
     "id": "ekys_2021_q47",
@@ -21926,7 +21926,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Görünür Ögeler ve Yapay Olgular (Artifaktlar))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Görünür Ögeler ve Yapay Olgular (Artifaktlar)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Görünür Ögeler ve Yapay Olgular (Artifaktlar)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Temel Sayıltılar (Varsayımlar):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Benimsenen Değerler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kişisel İnançlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yazılı Olmayan Kurallar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Görünür Ögeler ve Yapay Olgular (Artifaktlar))"
   },
   {
     "id": "ekys_2021_q48",
@@ -21960,7 +21960,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Açık İklim)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Açık İklim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Açık İklim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kapalı İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Özerk İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Babacan İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İdareci İklim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Açık İklim)"
   },
   {
     "id": "ekys_2021_q49",
@@ -21994,7 +21994,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğretmene mesleki rehberlik ve koçluk yapmak)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğretmene mesleki rehberlik ve koçluk yapmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretmene mesleki rehberlik ve koçluk yapmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yalnızca mevzuat eksikliklerini ve hataları aramak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sert yaptırımlarla disiplini sağlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sınıfı teftiş edip sadece not vermek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğretmenin yöntemini zorla değiştirmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretmene mesleki rehberlik ve koçluk yapmak)"
   },
   {
     "id": "ekys_2021_q50",
@@ -22028,7 +22028,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Klinik Denetim)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Klinik Denetim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Klinik Denetim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Geleneksel Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İdari Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bilimsel Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mali Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Klinik Denetim)"
   },
   {
     "id": "ekys_2021_q51",
@@ -22062,7 +22062,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İş Birliği / Problem Çözme)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İş Birliği / Problem Çözme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İş Birliği / Problem Çözme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kaçınma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Uyum Sağlama / Ödün Verme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Hükmetme / Zorlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Uzlaşma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İş Birliği / Problem Çözme)"
   },
   {
     "id": "ekys_2021_q52",
@@ -22096,7 +22096,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Vizyon)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Vizyon\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Vizyon** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Misyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Stratejik Amaç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Faaliyet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) SWOT Analizi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Vizyon)"
   },
   {
     "id": "ekys_2021_q53",
@@ -22130,7 +22130,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Önleyici Yaklaşım (Proaktif Kalite Güvencesi))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Önleyici Yaklaşım (Proaktif Kalite Güvencesi)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Önleyici Yaklaşım (Proaktif Kalite Güvencesi)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Düzeltici Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Reaktif Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sonuç Kontrolü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Numune Testi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Önleyici Yaklaşım (Proaktif Kalite Güvencesi))"
   },
   {
     "id": "ekys_2021_q54",
@@ -22164,7 +22164,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Örgütsel Vatandaşlık Davranışı (ÖVD))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Örgütsel Vatandaşlık Davranışı (ÖVD)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Örgütsel Vatandaşlık Davranışı (ÖVD)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Örgütsel Bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Örgütsel Adalet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Örgütsel Sinizm:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Örgütsel Özdeşleşme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Örgütsel Vatandaşlık Davranışı (ÖVD))"
   },
   {
     "id": "ekys_2021_q55",
@@ -22198,7 +22198,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Katılımcı / Demokratik Yönetim)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Katılımcı / Demokratik Yönetim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Katılımcı / Demokratik Yönetim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Merkeziyetçi Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bürokratik Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Otokratik Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Geleneksel Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Katılımcı / Demokratik Yönetim)"
   },
   {
     "id": "ekys_2021_q56",
@@ -22232,7 +22232,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Mesleki Öğrenme Topluluğu (MÖT))\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Mesleki Öğrenme Topluluğu (MÖT)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mesleki Öğrenme Topluluğu (MÖT)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Zümre Kurulu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Disiplin Kurulu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Okul Aile Birliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sosyal Etkinlik Kurulu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mesleki Öğrenme Topluluğu (MÖT))"
   },
   {
     "id": "ekys_2021_q57",
@@ -22266,7 +22266,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Uzmanlık Gücü)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Uzmanlık Gücü\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uzmanlık Gücü** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yasal (Meşru) Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ödül Gücü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Zorlayıcı (Baskıcı) Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Karizmatik Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uzmanlık Gücü)"
   },
   {
     "id": "ekys_2021_q58",
@@ -22300,7 +22300,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Değişimin nedenlerini, hedeflerini ve faydalarını açıkça iletişimle paylaşmak)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Değişimin nedenlerini, hedeflerini ve faydalarını açıkça iletişimle paylaşmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Değişimin nedenlerini, hedeflerini ve faydalarını açıkça iletişimle paylaşmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Değişimi emir yoluyla zorunlu kılmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İtiraz eden öğretmenlere idari soruşturma açmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Değişimi gizli tutup aniden uygulamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sadece kendi kararlarına güvenmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Değişimin nedenlerini, hedeflerini ve faydalarını açıkça iletişimle paylaşmak)"
   },
   {
     "id": "ekys_2021_q59",
@@ -22334,7 +22334,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Görev ve yetki devri (Delegasyon) yapmak)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Görev ve yetki devri (Delegasyon) yapmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Görev ve yetki devri (Delegasyon) yapmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Tüm işleri tek başına yürütmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Plansız anlık toplantılar düzenlemek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kapısını sürekli açık tutup her kesintiye izin vermek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Rutin evrakları mesai sonrasına ertelemek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Görev ve yetki devri (Delegasyon) yapmak)"
   },
   {
     "id": "ekys_2021_q60",
@@ -22368,7 +22368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Can güvenliğini sağlamak ve kriz koordinasyon ekibini devreye sokmak)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Can güvenliğini sağlamak ve kriz koordinasyon ekibini devreye sokmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Can güvenliğini sağlamak ve kriz koordinasyon ekibini devreye sokmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Basına açıklama yapmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Maddi zararı hesaplamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sorumluları cezalandırmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Okulu süresiz tatil etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Can güvenliğini sağlamak ve kriz koordinasyon ekibini devreye sokmak)"
   },
   {
     "id": "ekys_2021_q61",
@@ -22402,7 +22402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğretimsel (Akademik) Liderlik)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğretimsel (Akademik) Liderlik\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretimsel (Akademik) Liderlik** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Mali Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hukuki Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Politik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sembolik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretimsel (Akademik) Liderlik)"
   },
   {
     "id": "ekys_2021_q62",
@@ -22436,7 +22436,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Sıfır Tabanlı Bütçeleme)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Sıfır Tabanlı Bütçeleme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Sıfır Tabanlı Bütçeleme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Geleneksel Bütçeleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Performans Bütçeleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Program Bütçeleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Torba Bütçeleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sıfır Tabanlı Bütçeleme)"
   },
   {
     "id": "ekys_2021_q63",
@@ -22470,7 +22470,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Empatik Dinleme)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Empatik Dinleme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Empatik Dinleme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Seçici Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Görünüşte Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Savunucu Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Tuzak Kurucu Dinleme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Empatik Dinleme)"
   },
   {
     "id": "ekys_2021_q64",
@@ -22504,7 +22504,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Mentorluk)\n\n📌 **Konu / Çözüm Açıklaması (2021 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Mentorluk\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Mentorluk** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Süpervizyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Teftiş:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Akreditasyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kariyer Basamağı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mentorluk)"
   },
   {
     "id": "ekys_2021_q65",
@@ -22538,7 +22538,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (600)"
   },
   {
     "id": "ekys_2021_q66",
@@ -22572,7 +22572,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kanunlarda açıkça düzenlenen konularda Cumhurbaşkanlığı Kararnamesi çıkarılabilir.)"
   },
   {
     "id": "ekys_2021_q67",
@@ -22606,7 +22606,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (10 gün)"
   },
   {
     "id": "ekys_2021_q68",
@@ -22640,7 +22640,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (10 gün)"
   },
   {
     "id": "ekys_2021_q69",
@@ -22674,7 +22674,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Genellik ve Eşitlik)"
   },
   {
     "id": "ekys_2021_q70",
@@ -22708,7 +22708,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir.)"
   },
   {
     "id": "ekys_2021_q71",
@@ -22742,7 +22742,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (6-14 yaş)"
   },
   {
     "id": "ekys_2021_q72",
@@ -22776,7 +22776,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (180 iş günü)"
   },
   {
     "id": "ekys_2021_q73",
@@ -22810,7 +22810,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı)"
   },
   {
     "id": "ekys_2021_q74",
@@ -22844,7 +22844,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kaymakam)"
   },
   {
     "id": "ekys_2021_q75",
@@ -22878,7 +22878,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sendika kurucusu olmak için herhangi bir hizmet süresi şartı aranmaz (kamu görevlisi olmak yeterlidir).)"
   },
   {
     "id": "ekys_2021_q76",
@@ -22912,7 +22912,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Vali)"
   },
   {
     "id": "ekys_2021_q77",
@@ -22946,7 +22946,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (30 gün)"
   },
   {
     "id": "ekys_2021_q78",
@@ -22980,7 +22980,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Personel Genel Müdürlüğü)"
   },
   {
     "id": "ekys_2021_q79",
@@ -23014,7 +23014,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Talim ve Terbiye Kurulu Başkanlığı)"
   },
   {
     "id": "ekys_2021_q80",
@@ -23048,7 +23048,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (7 gün)"
   },
   {
     "id": "ekys_2020_q1",
@@ -23082,7 +23082,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E** (Ribat)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **E** seçeneğinde yer alan **\"Ribat\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Ribat** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Hazire:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Külliye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İmaret:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bedesten:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ribat)"
   },
   {
     "id": "ekys_2020_q2",
@@ -23116,7 +23116,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Ali Kuşçu)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Ali Kuşçu\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Ali Kuşçu** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Mîrim Çelebi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Uluğ Bey:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kadızâde-i Rûmî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Molla Lütfî:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ali Kuşçu)"
   },
   {
     "id": "ekys_2020_q3",
@@ -23150,7 +23150,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Şeyh / Pir)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Şeyh / Pir\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Şeyh / Pir** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kethüda:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yiğitbaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ehl-i Hibre:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Muhtesip:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Şeyh / Pir)"
   },
   {
     "id": "ekys_2020_q4",
@@ -23184,7 +23184,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Nizam-ı Cedid)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Nizam-ı Cedid\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Nizam-ı Cedid** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Asakir-i Mansure-i Muhammediye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Eşkinci Ocağı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sekban-ı Cedid:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Humbaracı Ocağı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Nizam-ı Cedid)"
   },
   {
     "id": "ekys_2020_q5",
@@ -23218,7 +23218,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Hamidiye Alayları)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Genel Tarih):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Hamidiye Alayları\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Hamidiye Alayları** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kuvâ-yı İnzibatiye:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gönüllü Süvari Kıtaları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sipahiler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Hareket Ordusu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hamidiye Alayları)"
   },
   {
     "id": "ekys_2020_q6",
@@ -23252,7 +23252,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B** (I ve III)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **B** seçeneğinde yer alan **\"I ve III\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve III** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) I ve II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) III ve IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)"
   },
   {
     "id": "ekys_2020_q7",
@@ -23288,7 +23288,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (I)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"I\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) II:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) V:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (I)"
   },
   {
     "id": "ekys_2020_q8",
@@ -23322,7 +23322,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (I ve II)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"I ve II\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **I ve II** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) I ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) II ve III:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) II ve IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) III ve IV:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)"
   },
   {
     "id": "ekys_2020_q9",
@@ -23356,7 +23356,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D** (Bulgaristan)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **D** seçeneğinde yer alan **\"Bulgaristan\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bulgaristan** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Ermenistan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Yunanistan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gürcistan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İran:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bulgaristan)"
   },
   {
     "id": "ekys_2020_q10",
@@ -23390,7 +23390,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C** (Cankurtaran Geçidi)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Coğrafya):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **C** seçeneğinde yer alan **\"Cankurtaran Geçidi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Cankurtaran Geçidi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **A) Gülek Geçidi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **B) Sertavul Geçidi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Çubuk Geçidi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Belen Geçidi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Cankurtaran Geçidi)"
   },
   {
     "id": "ekys_2020_q11",
@@ -23424,7 +23424,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>C</strong> (Cumhuriyet Senatosu)"
   },
   {
     "id": "ekys_2020_q12",
@@ -23458,7 +23458,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>E</strong> (Anayasa Mahkemesi)"
   },
   {
     "id": "ekys_2020_q13",
@@ -23492,7 +23492,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)"
   },
   {
     "id": "ekys_2020_q14",
@@ -23526,7 +23526,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Maddi yaptırıma (Devlet gücüne / Cebre) dayanması)"
   },
   {
     "id": "ekys_2020_q15",
@@ -23560,7 +23560,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>B</strong> (Gaziantep)"
   },
   {
     "id": "ekys_2020_q16",
@@ -23594,7 +23594,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Göbeklitepe)"
   },
   {
     "id": "ekys_2020_q17",
@@ -23628,7 +23628,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Çanakkale - Kafkas - Suriye-Filistin)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Çanakkale - Kafkas - Suriye-Filistin\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Çanakkale - Kafkas - Suriye-Filistin** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kafkas - Çanakkale - Suriye-Filistin:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Çanakkale - Suriye-Filistin - Kafkas:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Kanal - Çanakkale - Kafkas:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Irak - Kafkas - Çanakkale:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Çanakkale - Kafkas - Suriye-Filistin)"
   },
   {
     "id": "ekys_2020_q18",
@@ -23662,7 +23662,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Tam Bağımsızlık)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Tam Bağımsızlık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Tam Bağımsızlık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Bölgesel Kurtuluş:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Saltanatın Korunması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Hilafetin Yetkileri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ekonomik İş Birliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tam Bağımsızlık)"
   },
   {
     "id": "ekys_2020_q19",
@@ -23696,7 +23696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Ermenistan)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Ermenistan\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Ermenistan** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Gürcistan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sovyet Rusya:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Fransa:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Afganistan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ermenistan)"
   },
   {
     "id": "ekys_2020_q20",
@@ -23730,7 +23730,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Londra Konferansı)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Londra Konferansı\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Londra Konferansı** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Paris Barış Konferansı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) San Remo Konferansı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Lozan Konferansı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Cenevre Konferansı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Londra Konferansı)"
   },
   {
     "id": "ekys_2020_q21",
@@ -23764,7 +23764,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Eskişehir-Kütahya Muharebeleri)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Eskişehir-Kütahya Muharebeleri\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Eskişehir-Kütahya Muharebeleri** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) I. İnönü Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) II. İnönü Savaşı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sakarya Meydan Muharebesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Büyük Taarruz:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Eskişehir-Kütahya Muharebeleri)"
   },
   {
     "id": "ekys_2020_q22",
@@ -23798,7 +23798,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Ankara Antlaşması (1921))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Ankara Antlaşması (1921)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Ankara Antlaşması (1921)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Moskova Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kars Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Gümrü Antlaşması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Mudanya Mütarekesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ankara Antlaşması (1921))"
   },
   {
     "id": "ekys_2020_q23",
@@ -23832,7 +23832,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Doğu Trakya (Edirne, Kırklareli, Tekirdağ))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Doğu Trakya (Edirne, Kırklareli, Tekirdağ)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Doğu Trakya (Edirne, Kırklareli, Tekirdağ)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Batı Trakya:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İzmir ve Çevresi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Antalya:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Adana ve Çukurova:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Trakya (Edirne, Kırklareli, Tekirdağ))"
   },
   {
     "id": "ekys_2020_q24",
@@ -23866,7 +23866,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kapitülasyonlar tamamen ve şartsız kaldırılmıştır.)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kapitülasyonlar tamamen ve şartsız kaldırılmıştır.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kapitülasyonlar tamamen ve şartsız kaldırılmıştır.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kapitülasyonlar 10 yıl süreyle dondurulmuştur.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sadece Fransız kapitülasyonları kaldırılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yalnızca gümrük vergileri artırılmıştır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kapitülasyonlar Milletler Cemiyeti'ne devredilmiştir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kapitülasyonlar tamamen ve şartsız kaldırılmıştır.)"
   },
   {
     "id": "ekys_2020_q25",
@@ -23900,7 +23900,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Cumhuriyetçilik ve Halkçılık)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Cumhuriyetçilik ve Halkçılık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Cumhuriyetçilik ve Halkçılık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Devletçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Milliyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İnkılapçılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Laiklik ve Devletçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhuriyetçilik ve Halkçılık)"
   },
   {
     "id": "ekys_2020_q26",
@@ -23934,7 +23934,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Terakkiperver Cumhuriyet Fırkası)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Terakkiperver Cumhuriyet Fırkası\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Terakkiperver Cumhuriyet Fırkası** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Serbest Cumhuriyet Fırkası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Demokrat Parti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Milli Kalkınma Partisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ahali Cumhuriyet Fırkası:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Terakkiperver Cumhuriyet Fırkası)"
   },
   {
     "id": "ekys_2020_q27",
@@ -23968,7 +23968,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kadınlara Siyasi Hakların Tanınması)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kadınlara Siyasi Hakların Tanınması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kadınlara Siyasi Hakların Tanınması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Eğitim Alanındaki İnkılaplar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hukuk Alanındaki İlk Düzenlemeler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sosyal Alandaki İnkılaplar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ekonomik Alandaki Atılımlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kadınlara Siyasi Hakların Tanınması)"
   },
   {
     "id": "ekys_2020_q28",
@@ -24002,7 +24002,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Halkçılık)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - İnkılap Tarihi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Halkçılık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Halkçılık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Devletçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Laiklik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Cumhuriyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Milliyetçilik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Halkçılık)"
   },
   {
     "id": "ekys_2020_q29",
@@ -24036,7 +24036,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kurul kararları Başbakanlık/Cumhurbaşkanlığına ve ilgili kuruma bildirilir, Resmî Gazete'de yayımlanarak kamuoyuna duyurulabilir.)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kurul kararları Başbakanlık/Cumhurbaşkanlığına ve ilgili kuruma bildirilir, Resmî Gazete'de yayımlanarak kamuoyuna duyurulabilir.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kurul kararları Başbakanlık/Cumhurbaşkanlığına ve ilgili kuruma bildirilir, Resmî Gazete'de yayımlanarak kamuoyuna duyurulabilir.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kurul kararları gizli tutulur, hiçbir şekilde açıklanamaz.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yalnızca para cezası verildiğinde yayımlanır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Hapis cezası istendiğinde yayımlanır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sadece ilgili memura tebliğ edilir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kurul kararları Başbakanlık/Cumhurbaşkanlığına ve ilgili kuruma bildirilir, Resmî Gazete'de yayımlanarak kamuoyuna duyurulabilir.)"
   },
   {
     "id": "ekys_2020_q30",
@@ -24070,7 +24070,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Çıkar Çatışması (İlgi Çatışması))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Çıkar Çatışması (İlgi Çatışması)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Çıkar Çatışması (İlgi Çatışması)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Görevi Kötüye Kullanma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) İltimas:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Rüşvet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yetki Aşımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Çıkar Çatışması (İlgi Çatışması))"
   },
   {
     "id": "ekys_2020_q31",
@@ -24104,7 +24104,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Gelenek Sonrası (Özerk / İlkelere Dayalı) Düzey)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Gelenek Sonrası (Özerk / İlkelere Dayalı) Düzey\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gelenek Sonrası (Özerk / İlkelere Dayalı) Düzey** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Geleneksel Düzey:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Gelenek Öncesi Düzey:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İtaat ve Ceza Düzeyi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Araçsal İlişkiler Düzeyi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gelenek Sonrası (Özerk / İlkelere Dayalı) Düzey)"
   },
   {
     "id": "ekys_2020_q32",
@@ -24138,7 +24138,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Model Olma (Örtük Program / Sosyal Öğrenme))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Değerler & Etik):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Model Olma (Örtük Program / Sosyal Öğrenme)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Model Olma (Örtük Program / Sosyal Öğrenme)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Değer Telkini:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ezbere Dayalı Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yalnızca Sınav Odaklı Öğretim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ceza Yoluyla Şartlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Model Olma (Örtük Program / Sosyal Öğrenme))"
   },
   {
     "id": "ekys_2020_q33",
@@ -24172,7 +24172,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** ('Niçin öğretiyoruz?' / 'Hangi davranışlar kazandırılacak?')\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"'Niçin öğretiyoruz?' / 'Hangi davranışlar kazandırılacak?'\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **'Niçin öğretiyoruz?' / 'Hangi davranışlar kazandırılacak?'** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) 'Ne öğreteceğiz?':** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) 'Nasıl öğreteceğiz?':** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) 'Ne kadar öğrendik?':** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) 'Hangi araçları kullanacağız?':** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> ('Niçin öğretiyoruz?' / 'Hangi davranışlar kazandırılacak?')"
   },
   {
     "id": "ekys_2020_q34",
@@ -24206,7 +24206,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Dikkati Çekme (Güdüleme))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Dikkati Çekme (Güdüleme)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Dikkati Çekme (Güdüleme)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Hedeflerden Haberdar Etme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ön Bilgileri Hatırlatma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Uyarıcı Materyali Sunma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Rehberlik Etme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dikkati Çekme (Güdüleme))"
   },
   {
     "id": "ekys_2020_q35",
@@ -24240,7 +24240,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğrenme eksikliklerini ve kavram yanılgılarını tespit edip gidermek)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğrenme eksikliklerini ve kavram yanılgılarını tespit edip gidermek\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrenme eksikliklerini ve kavram yanılgılarını tespit edip gidermek** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Öğrenciye geçme-kalma notu vermek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğrencileri başarı sırasına dizmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Dönem sonu başarı düzeyini belirlemek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğrenciyi bir üst kuruma yerleştirmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrenme eksikliklerini ve kavram yanılgılarını tespit edip gidermek)"
   },
   {
     "id": "ekys_2020_q36",
@@ -24274,7 +24274,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (p = 0.50 (Orta Güçlük))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"p = 0.50 (Orta Güçlük)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **p = 0.50 (Orta Güçlük)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) p = 0.00 (Çok Zor):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) p = 1.00 (Çok Kolay):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) p = 0.20:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) p = 0.80:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (p = 0.50 (Orta Güçlük))"
   },
   {
     "id": "ekys_2020_q37",
@@ -24308,7 +24308,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Fikir üretimi sırasında hiçbir fikrin eleştirilmemesi ve yargılanmaması)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Fikir üretimi sırasında hiçbir fikrin eleştirilmemesi ve yargılanmaması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Fikir üretimi sırasında hiçbir fikrin eleştirilmemesi ve yargılanmaması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yalnızca en mantıklı fikrin söylenmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Fikirlerin anında oylanıp elenmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Söz hakkının sadece liderde olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sürecin yazılı sınavla tamamlanması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Fikir üretimi sırasında hiçbir fikrin eleştirilmemesi ve yargılanmaması)"
   },
   {
     "id": "ekys_2020_q38",
@@ -24342,7 +24342,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğrencilerin hazırbulunuşluk düzeyi, ilgi ve öğrenme profillerine göre)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğrencilerin hazırbulunuşluk düzeyi, ilgi ve öğrenme profillerine göre\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrencilerin hazırbulunuşluk düzeyi, ilgi ve öğrenme profillerine göre** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yalnızca öğrencinin zekâ puanına göre:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Öğretmenin o günkü tercihine göre:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sınıfın fiziksel büyüklüğüne göre:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Ders kitabındaki sayfa sayısına göre:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrencilerin hazırbulunuşluk düzeyi, ilgi ve öğrenme profillerine göre)"
   },
   {
     "id": "ekys_2020_q39",
@@ -24376,7 +24376,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Okuldaki öğretmenler, yöneticiler ve veliler)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Okuldaki öğretmenler, yöneticiler ve veliler\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Okuldaki öğretmenler, yöneticiler ve veliler** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yalnızca sorunlu öğrenciler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Okul aile birliği başkanı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Sadece rehber öğretmenler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) İlçe millî eğitim personeli:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Okuldaki öğretmenler, yöneticiler ve veliler)"
   },
   {
     "id": "ekys_2020_q40",
@@ -24410,7 +24410,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kuralların öğretmen ve öğrencilerin katılımıyla birlikte belirlenmesi ve gerekçelendirilmesi)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Bilimleri):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kuralların öğretmen ve öğrencilerin katılımıyla birlikte belirlenmesi ve gerekçelendirilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kuralların öğretmen ve öğrencilerin katılımıyla birlikte belirlenmesi ve gerekçelendirilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kuralların öğretmen tarafından tek taraflı dikte edilmesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kuralların okul idaresi tarafından yazılıp asılması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Hiç kural konulmaması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sadece velilerin kuralları belirlemesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kuralların öğretmen ve öğrencilerin katılımıyla birlikte belirlenmesi ve gerekçelendirilmesi)"
   },
   {
     "id": "ekys_2020_q41",
@@ -24444,7 +24444,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Hawthorne Araştırmaları (Elton Mayo))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Hawthorne Araştırmaları (Elton Mayo)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Hawthorne Araştırmaları (Elton Mayo)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Tavistock Kömür Madeni Çalışması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Michigan Liderlik Çalışmaları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Ohio Eyalet Çalışmaları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Galler Araştırması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hawthorne Araştırmaları (Elton Mayo))"
   },
   {
     "id": "ekys_2020_q42",
@@ -24478,7 +24478,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğrenci, öğretmen, bütçe, bina ve mevzuat)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğrenci, öğretmen, bütçe, bina ve mevzuat\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğrenci, öğretmen, bütçe, bina ve mevzuat** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Mezun olan öğrenci:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Akademik başarı düzeyi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğretim süreçleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sınıf içi etkinlikler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrenci, öğretmen, bütçe, bina ve mevzuat)"
   },
   {
     "id": "ekys_2020_q43",
@@ -24512,7 +24512,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** ('Her durum ve koşulda geçerli tek bir en iyi yönetim yolu yoktur; en iyi yol duruma göre değişir.')\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"'Her durum ve koşulda geçerli tek bir en iyi yönetim yolu yoktur; en iyi yol duruma göre değişir.'\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **'Her durum ve koşulda geçerli tek bir en iyi yönetim yolu yoktur; en iyi yol duruma göre değişir.'** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) 'Her örgütte tek bir evrensel bilimsel yönetim kuralı uygulanmalıdır.':** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) 'Yöneticinin kişisel sezgileri her zaman kurallardan üstündür.':** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) 'Çalışanlar tamamen serbest bırakılmalıdır.':** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) 'Sadece ekonomik ödüller etkilidir.':** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> ('Her durum ve koşulda geçerli tek bir en iyi yönetim yolu yoktur; en iyi yol duruma göre değişir.')"
   },
   {
     "id": "ekys_2020_q44",
@@ -24546,7 +24546,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Telif Edici / Yönlendirici (Otoriter) Liderlik (S1))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Telif Edici / Yönlendirici (Otoriter) Liderlik (S1)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Telif Edici / Yönlendirici (Otoriter) Liderlik (S1)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Koçluk Eden Liderlik (S2):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Destekleyici Liderlik (S3):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yetki Devreden Liderlik (S4):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Demokratik Liderlik:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Telif Edici / Yönlendirici (Otoriter) Liderlik (S1))"
   },
   {
     "id": "ekys_2020_q45",
@@ -24580,7 +24580,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kişiler Arası Rol (Temsilci / İrtibat Sağlayıcı))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kişiler Arası Rol (Temsilci / İrtibat Sağlayıcı)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kişiler Arası Rol (Temsilci / İrtibat Sağlayıcı)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Bilgi Sağlama Rolü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Karar Alma Rolü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Girişimci Rolü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Müzakereci Rolü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kişiler Arası Rol (Temsilci / İrtibat Sağlayıcı))"
   },
   {
     "id": "ekys_2020_q46",
@@ -24614,7 +24614,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğretim programının uygulanması, ders denetimi ve öğrenci öğrenmesinin geliştirilmesi)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğretim programının uygulanması, ders denetimi ve öğrenci öğrenmesinin geliştirilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretim programının uygulanması, ders denetimi ve öğrenci öğrenmesinin geliştirilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sadece rutin evrak ve muhasebe işleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Okul binasının fiziki güvenliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrenci disiplin cezaları:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Protokol ziyaretleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretim programının uygulanması, ders denetimi ve öğrenci öğrenmesinin geliştirilmesi)"
   },
   {
     "id": "ekys_2020_q47",
@@ -24648,7 +24648,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Temel Sayıltılar (Varsayımlar))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Temel Sayıltılar (Varsayımlar)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Temel Sayıltılar (Varsayımlar)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Artifaktlar:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Benimsenen Değerler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Törenler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Hikâyeler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Temel Sayıltılar (Varsayımlar))"
   },
   {
     "id": "ekys_2020_q48",
@@ -24682,7 +24682,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İşlemsel (Prosedürel) Adalet)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İşlemsel (Prosedürel) Adalet\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İşlemsel (Prosedürel) Adalet** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Dağıtım Adaleti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Etkileşim Adaleti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bilgilendirme Adaleti:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Cezalandırıcı Adalet:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İşlemsel (Prosedürel) Adalet)"
   },
   {
     "id": "ekys_2020_q49",
@@ -24716,7 +24716,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Gözlem Öncesi Görüşme - Sınıf Gözlemi - Verilerin Analizi - Gözlem Sonrası Görüşme - Sürecin Değerlendirilmesi)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Gözlem Öncesi Görüşme - Sınıf Gözlemi - Verilerin Analizi - Gözlem Sonrası Görüşme - Sürecin Değerlendirilmesi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gözlem Öncesi Görüşme - Sınıf Gözlemi - Verilerin Analizi - Gözlem Sonrası Görüşme - Sürecin Değerlendirilmesi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Sınıf Denetimi - Ceza Verme - Rapor Yazma - Tebliğ:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ders Planı İnceleme - Not Verme - Teftiş:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Öğrenciyle Görüşme - Sınav Yapma - Değerlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Öğretmene Emir Verme - Uygulama - Kontrol:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gözlem Öncesi Görüşme - Sınıf Gözlemi - Verilerin Analizi - Gözlem Sonrası Görüşme - Sürecin Değerlendirilmesi)"
   },
   {
     "id": "ekys_2020_q50",
@@ -24750,7 +24750,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Yönlendirici Olmayan (Özerk / Kolaylaştırıcı) Yaklaşım)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Yönlendirici Olmayan (Özerk / Kolaylaştırıcı) Yaklaşım\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yönlendirici Olmayan (Özerk / Kolaylaştırıcı) Yaklaşım** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yönlendirici Kontrolcü Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yönlendirici Bilgilendirici Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İş Birlikçi Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bürokratik Yaklaşım:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yönlendirici Olmayan (Özerk / Kolaylaştırıcı) Yaklaşım)"
   },
   {
     "id": "ekys_2020_q51",
@@ -24784,7 +24784,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Uyum Sağlama / Ödün Verme (Accommodating))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Uyum Sağlama / Ödün Verme (Accommodating)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Uyum Sağlama / Ödün Verme (Accommodating)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kaçınma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Rekabet / Hükmetme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İş Birliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Uzlaşma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uyum Sağlama / Ödün Verme (Accommodating))"
   },
   {
     "id": "ekys_2020_q52",
@@ -24818,7 +24818,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Güçlü Yönler (İç Çevre))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Güçlü Yönler (İç Çevre)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Güçlü Yönler (İç Çevre)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Zayıf Yönler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Fırsatlar (Dış Çevre):** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tehditler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Stratejik Amaç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Güçlü Yönler (İç Çevre))"
   },
   {
     "id": "ekys_2020_q53",
@@ -24852,7 +24852,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Kaizen)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Kaizen\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Kaizen** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Poka-Yoke:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Kanban:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Muda:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Just-in-Time:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kaizen)"
   },
   {
     "id": "ekys_2020_q54",
@@ -24886,7 +24886,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Çalışanın kurumuna, yönetime ve işleyişe karşı geliştirdiği güvensizlik, hayal kırıklığı ve alaycı olumsuz tutum)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Çalışanın kurumuna, yönetime ve işleyişe karşı geliştirdiği güvensizlik, hayal kırıklığı ve alaycı olumsuz tutum\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Çalışanın kurumuna, yönetime ve işleyişe karşı geliştirdiği güvensizlik, hayal kırıklığı ve alaycı olumsuz tutum** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Kuruma aşırı bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Çalışanlar arası yüksek dayanışma:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) İşe karşı duyulan aşırı heyecan:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yöneticinin aşırı otoriter olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Çalışanın kurumuna, yönetime ve işleyişe karşı geliştirdiği güvensizlik, hayal kırıklığı ve alaycı olumsuz tutum)"
   },
   {
     "id": "ekys_2020_q55",
@@ -24920,7 +24920,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Gürültü (Parazit))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Gürültü (Parazit)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Gürültü (Parazit)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Dönüt:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Filtre:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Empati:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Kod Çözümü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gürültü (Parazit))"
   },
   {
     "id": "ekys_2020_q56",
@@ -24954,7 +24954,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Nihai Sorumluluk (Hesap Verme Yükümlülüğü))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Nihai Sorumluluk (Hesap Verme Yükümlülüğü)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Nihai Sorumluluk (Hesap Verme Yükümlülüğü)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) İmza Yetkisi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Rutin İşler:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Toplantı Yönetimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bütçe Hazırlama:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Nihai Sorumluluk (Hesap Verme Yükümlülüğü))"
   },
   {
     "id": "ekys_2020_q57",
@@ -24988,7 +24988,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Karizmatik / Karizma (Kişisel) Güç)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Karizmatik / Karizma (Kişisel) Güç\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Karizmatik / Karizma (Kişisel) Güç** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Yasal Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Ödül Gücü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Zorlayıcı Güç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Uzmanlık Gücü:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Karizmatik / Karizma (Kişisel) Güç)"
   },
   {
     "id": "ekys_2020_q58",
@@ -25022,7 +25022,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Buzları Çözme (Hazırlık) - Değişimi Gerçekleştirme (Uygulama) - Yeniden Dondurma (Kalıcılaştırma))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Buzları Çözme (Hazırlık) - Değişimi Gerçekleştirme (Uygulama) - Yeniden Dondurma (Kalıcılaştırma)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Buzları Çözme (Hazırlık) - Değişimi Gerçekleştirme (Uygulama) - Yeniden Dondurma (Kalıcılaştırma)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Planlama - Uygulama - Denetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Hedef - Süreç - Değerlendirme:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Fikir - Tartışma - Kabul:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Giriş - Gelişme - Sonuç:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Buzları Çözme (Hazırlık) - Değişimi Gerçekleştirme (Uygulama) - Yeniden Dondurma (Kalıcılaştırma))"
   },
   {
     "id": "ekys_2020_q59",
@@ -25056,7 +25056,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Hemen bizzat yapmak (Kriz / Öncelikli))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Hemen bizzat yapmak (Kriz / Öncelikli)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Hemen bizzat yapmak (Kriz / Öncelikli)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Başkasına devretmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Daha sonraki bir zamana planlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Tamamen iptal etmek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Rutin evrak havuzuna atmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hemen bizzat yapmak (Kriz / Öncelikli))"
   },
   {
     "id": "ekys_2020_q60",
@@ -25090,7 +25090,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Bilgi kirliliğini, paniği ve spekülasyonları önlemek)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Bilgi kirliliğini, paniği ve spekülasyonları önlemek\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bilgi kirliliğini, paniği ve spekülasyonları önlemek** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Olayı basından tamamen gizlemek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Sorumluluğu tek kişiye yıkmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yasal süreçleri durdurmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Velilerin okula gelmesini yasaklamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bilgi kirliliğini, paniği ve spekülasyonları önlemek)"
   },
   {
     "id": "ekys_2020_q61",
@@ -25124,7 +25124,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Öğretim Liderliği ve Akademik İzleme)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Öğretim Liderliği ve Akademik İzleme\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Öğretim Liderliği ve Akademik İzleme** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Ayni ve Nakdi Kaynak Yönetimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Bina Bakım Onarımı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Personel Özlük İşleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sivil Savunma Planlaması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğretim Liderliği ve Akademik İzleme)"
   },
   {
     "id": "ekys_2020_q62",
@@ -25158,7 +25158,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (TEFBİS (Türkiye Eğitim Finansmanı ve Eğitim Harcamaları Bilgi Sistemi))\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"TEFBİS (Türkiye Eğitim Finansmanı ve Eğitim Harcamaları Bilgi Sistemi)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **TEFBİS (Türkiye Eğitim Finansmanı ve Eğitim Harcamaları Bilgi Sistemi)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) MEBBİS:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) e-Okul:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) DYS:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) KBS:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (TEFBİS (Türkiye Eğitim Finansmanı ve Eğitim Harcamaları Bilgi Sistemi))"
   },
   {
     "id": "ekys_2020_q63",
@@ -25192,7 +25192,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Resmî ve şeffaf bilgi kanallarını sürekli açık ve hızlı tutmak)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Resmî ve şeffaf bilgi kanallarını sürekli açık ve hızlı tutmak\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Resmî ve şeffaf bilgi kanallarını sürekli açık ve hızlı tutmak** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Öğretmenler odasını kapatmak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Tüm iletişimi yasaklamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Dedikodu yapanları sürgüne göndermek:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yalnızca yazılı emir yayınlamak:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Resmî ve şeffaf bilgi kanallarını sürekli açık ve hızlı tutmak)"
   },
   {
     "id": "ekys_2020_q64",
@@ -25226,7 +25226,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Bireyin kendi potansiyelini keşfetmesini ve kendi çözümlerini üretmesini sağlayan güçlü sorulara dayalı süreçtir.)\n\n📌 **Konu / Çözüm Açıklaması (2020 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Bireyin kendi potansiyelini keşfetmesini ve kendi çözümlerini üretmesini sağlayan güçlü sorulara dayalı süreçtir.\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bireyin kendi potansiyelini keşfetmesini ve kendi çözümlerini üretmesini sağlayan güçlü sorulara dayalı süreçtir.** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Koçun sürekli hazır tavsiyeler vermesidir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Koçun memura disiplin cezası uygulamasıdır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yalnızca başarısız çalışanlara uygulanır.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Geleneksel teftiş yöntemidir.:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bireyin kendi potansiyelini keşfetmesini ve kendi çözümlerini üretmesini sağlayan güçlü sorulara dayalı süreçtir.)"
   },
   {
     "id": "ekys_2020_q65",
@@ -25260,7 +25260,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Üye tamsayısının beşte üç (3/5) çoğunluğu (360 Milletvekili))"
   },
   {
     "id": "ekys_2020_q66",
@@ -25294,7 +25294,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (1 yıl)"
   },
   {
     "id": "ekys_2020_q67",
@@ -25328,7 +25328,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uyarma, Kınama ve Aylıktan Kesme)"
   },
   {
     "id": "ekys_2020_q68",
@@ -25362,7 +25362,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (İlişikleri kesilerek memuriyetten çıkarılırlar ve 3 yıl süreyle memurluğa alınmazlar.)"
   },
   {
     "id": "ekys_2020_q69",
@@ -25396,7 +25396,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Süreklilik İlkesi)"
   },
   {
     "id": "ekys_2020_q70",
@@ -25430,7 +25430,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (4 yıl)"
   },
   {
     "id": "ekys_2020_q71",
@@ -25464,7 +25464,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (İlköğretim Haftası)"
   },
   {
     "id": "ekys_2020_q72",
@@ -25498,7 +25498,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Okul Müdürü ve Muhtarlık)"
   },
   {
     "id": "ekys_2020_q73",
@@ -25532,7 +25532,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Harcama Yetkilisi (Okul Müdürü vb.))"
   },
   {
     "id": "ekys_2020_q74",
@@ -25566,7 +25566,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (30 gün (Zorunlu hallerde en fazla 15 gün uzatılabilir))"
   },
   {
     "id": "ekys_2020_q75",
@@ -25600,7 +25600,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (4 yılda bir)"
   },
   {
     "id": "ekys_2020_q76",
@@ -25634,7 +25634,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kanun ile)"
   },
   {
     "id": "ekys_2020_q77",
@@ -25668,7 +25668,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (60 gün)"
   },
   {
     "id": "ekys_2020_q78",
@@ -25702,7 +25702,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Teftiş Kurulu Başkanlığı)"
   },
   {
     "id": "ekys_2020_q79",
@@ -25736,7 +25736,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Özel Öğretim Kurumları Genel Müdürlüğü)"
   },
   {
     "id": "ekys_2020_q80",
@@ -25770,7 +25770,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (10 gün)"
   },
   {
     "id": "ekys_2019_q1",
@@ -25804,7 +25804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nOsmanlı Devleti'nde eğitim-öğretim kurumları:\n• **Enderun:** Saray okulu olup devlet adamı yetiştirir.\n• **Medrese:** Orta ve yükseköğretim kurumudur.\n• **Cami ve Tekke:** Dinî, ahlakî ve ilmî eğitimin verildiği yaygın eğitim kurumlarıdır.\n• **Türbe** ise önemli devlet ve din büyüklerinin mezarlarının bulunduğu anıt yapılardır; doğrudan bir eğitim-öğretim işlevi yoktur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Türbe)"
   },
   {
     "id": "ekys_2019_q2",
@@ -25838,7 +25838,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nİslamiyet öncesi Türk devletlerinde hükümdara devleti yönetme yetkisinin Gök Tanrı tarafından verildiğine inanılan anlayışa **Kut Anlayışı** denir. Kut'un kan yoluyla babadan oğula geçtiğine inanıldığı için hanedanın tüm erkek üyeleri taht üzerinde hak iddia edebilmiş ve bu durum taht kavgalarına yol açmıştır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ülke hanedan üyelerinin ortak malı sayılmış ve sık sık taht kavgaları yaşanmıştır.)"
   },
   {
     "id": "ekys_2019_q3",
@@ -25872,7 +25872,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nBüyük Selçuklu Devleti'nde vezir Nizamülmülk tarafından Bağdat'ta kurulan **Nizamiye Medreseleri**; Şii Fatımi ve Bâtınî (Haşhaşi) zararlı propagandalarına karşı Ehl-i Sünnet inancını savunmak, devlete nitelikli memur ve din adamı yetiştirmek amacıyla kurulmuş ilk sistemli üniversite niteliğindeki kurumlardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Nizamiye Medreseleri)"
   },
   {
     "id": "ekys_2019_q4",
@@ -25905,8 +25905,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Sadrazam"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nOsmanlı Devleti'nde **İltizam Sistemi**, devlet gelirlerinin (mukataa arazilerinin) açık artırma usulüyle peşin para karşılığında mültezimlere kiralanması sistemidir. Bu sistem devletin hazineye acil nakit para ihtiyacını karşılamak amacıyla uygulanmıştır."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kazasker)"
   },
   {
     "id": "ekys_2019_q5",
@@ -25939,8 +25939,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Teşkilât-ı Esâsîye"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nOsmanlı Devleti'nde XVII. yüzyıldan itibaren görülen **Celali İsyanları**, Anadolu'da merkezî otoritenin zayıflaması, ağır vergiler ve tımarlı sipahi sisteminin bozulması sebebiyle köylülerin ve yerel unsurların devlete karşı çıkardığı isyanlardır. İsyanlar sonucunda tarımsal üretim düşmüş ve 'Büyük Kaçgun' adı verilen iç göçler yaşanmıştır."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tanzimat Fermanı)"
   },
   {
     "id": "ekys_2019_q6",
@@ -25975,8 +25975,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "V"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de yer şekillerinin ve yükseltinin batıdan doğuya doğru artması; sıcaklık ortalamalarının düşmesine, karın yerde kalma süresinin uzamasına ve tarım ürünlerinin olgunlaşma süresinin gecikmesine yol açar."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV)"
   },
   {
     "id": "ekys_2019_q7",
@@ -26009,8 +26009,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Üç tarafının denizlerle çevrili olması"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de karstik araziler kalker (kireçtaşı) varlığına bağlı olarak en fazla **Akdeniz Bölgesi (Teke ve Taşeli Platoları ile Göller Yöresi)** kuşağında yer alır."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Batıdan doğuya gidildikçe yükseltinin artması)"
   },
   {
     "id": "ekys_2019_q8",
@@ -26045,8 +26045,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "65+ yaş grubundaki nüfus 1950 yılından 2015 yılına kadar yaklaşık on kat artmıştır."
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de akarsuların hidroelektrik enerji potansiyeli; akarsu yatak eğiminin fazla olduğu, engebeli ve yüksek Doğu Anadolu ile Karadeniz bölgelerinde en yüksektir."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (65+ yaş grubundaki nüfus 1950 yılından 2015 yılına kadar yaklaşık on kat artmıştır.)"
   },
   {
     "id": "ekys_2019_q9",
@@ -26079,8 +26079,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Çok yönlü ve gelişmiş ulaşım ağları"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de nüfusun mekânsal dağılışında iklim, su kaynakları, verimli tarım alanları, sanayi ve ulaşım çekim merkezleri en önemli belirleyicilerdir. Çatalca-Kocaeli platosu sanayi sebebiyle en yoğun nüfuslu yerdir."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Sermaye birikiminin yüksek olması)"
   },
   {
     "id": "ekys_2019_q10",
@@ -26114,7 +26114,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de iç ticaret hacminin yüksek olmasının temel nedeni, bölgeler arasında iklim, yer şekilleri ve yetiştirilen tarım ürünleri ile sanayi kollarının çeşitlilik göstermesidir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Garig (Frigana))"
   },
   {
     "id": "ekys_2019_q11",
@@ -26148,7 +26148,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Milletvekilleri)"
   },
   {
     "id": "ekys_2019_q12",
@@ -26182,7 +26182,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Anayasa)"
   },
   {
     "id": "ekys_2019_q13",
@@ -26216,7 +26216,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gensoru)"
   },
   {
     "id": "ekys_2019_q14",
@@ -26250,7 +26250,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Fiil Ehliyeti)"
   },
   {
     "id": "ekys_2019_q15",
@@ -26284,7 +26284,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Prof. Dr. Fuat Sezgin Yılı)"
   },
   {
     "id": "ekys_2019_q16",
@@ -26318,7 +26318,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Avrupa İnsan Hakları Sözleşmesi (AİHS))"
   },
   {
     "id": "ekys_2019_q17",
@@ -26351,8 +26351,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "15. Madde"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nMustafa Kemal Paşa'nın 19 Mayıs 1919'da Samsun'a çıkışı Millî Mücadele'nin fiilen başlangıcıdır. Ardından yayınlanan **Amasya Genelgesi** ile 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' denilerek Millî Mücadele'nin amacı, gerekçesi ve yöntemi ilk kez ilan edilmiştir."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (1. Madde)"
   },
   {
     "id": "ekys_2019_q18",
@@ -26385,8 +26385,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Bölgesel direnişle yetinileceğini"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Erzurum Kongresi**'nde 'Millî sınırlar içinde vatan bir bütündür, bölünemez' kararı alınarak ilk kez millî sınırlardan (Misak-ı Millî) bahsedilmiş ve manda-himaye kesin olarak reddedilmiştir."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Saltanata bağlı kalınacağını)"
   },
   {
     "id": "ekys_2019_q19",
@@ -26419,8 +26419,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Felah-ı Vatan"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\n**Sivas Kongresi**'nde tüm millî cemiyetler **Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti** adı altında tek çatı altında birleştirilmiş ve Temsil Heyeti tüm yurdu temsil eder hale getirilmiştir."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Meclis-i Mebusan)"
   },
   {
     "id": "ekys_2019_q20",
@@ -26454,7 +26454,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nI. TBMM'nin açılması (23 Nisan 1920) ile yeni bir devletin temelleri atılmış; güçler birliği ilkesi benimsenmiş ve meclis hükümeti sistemi uygulanmıştır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Misakımillî (Milli Ant))"
   },
   {
     "id": "ekys_2019_q21",
@@ -26487,8 +26487,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "İhtilalci ve savaşçı bir meclistir."
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\n**I. İnönü Zaferi**'nin uluslararası sonuçları:\n• Londra Konferansı toplanmıştır,\n• Sovyet Rusya ile Moskova Antlaşması imzalanmıştır,\n• Afganistan ile Dostluk Antlaşması imzalanmıştır."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (İhtilalci ve savaşçı bir meclistir.)"
   },
   {
     "id": "ekys_2019_q22",
@@ -26521,8 +26521,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Çanakkale Savaşı"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\n**Sakarya Meydan Muharebesi** sonrası Mustafa Kemal Paşa'ya TBMM tarafından 'Gazi' unvanı ve 'Mareşal' rütbesi verilmiş; Fransa ile Ankara Antlaşması imzalanarak Güney Cephesi kapanmıştır."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sakarya Savaşı)"
   },
   {
     "id": "ekys_2019_q23",
@@ -26555,8 +26555,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Kafkas Cephesi"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Mudanya Ateşkes Antlaşması** ile Doğu Trakya, İstanbul ve Boğazlar savaş yapılmadan diplomatik yolla kurtarılmıştır."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (I. İnönü Savaşı)"
   },
   {
     "id": "ekys_2019_q24",
@@ -26589,8 +26589,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Vardar Nehri"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\n**Lozan Barış Antlaşması** ile kapitülasyonlar ve Düyun-ı Umumiye idaresi tamamen kaldırılmış, Türkiye'nin tam bağımsızlığı uluslararası alanda tescil edilmiştir."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Karasu Nehri)"
   },
   {
     "id": "ekys_2019_q25",
@@ -26624,7 +26624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nCumhuriyetçilik ilkesi; halkın kendi kendini yönetmesini, millî egemenliği, seçme ve seçilme hakkını ve çok partili hayatı esas alır. Saltanatın ve halifeliğin kaldırılması, TBMM'nin açılması bu ilkenin doğrudan sonucudur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Milletvekili seçme ve seçilme hakkı (Siyasi hak))"
   },
   {
     "id": "ekys_2019_q26",
@@ -26657,8 +26657,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Ticaret Kanunu"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nLaiklik ilkesi; din ve devlet işlerinin birbirinden ayrılmasını, akıl ve bilimin rehber edinilmesini, vicdan ve inanç özgürlüğünün güvence altına alınmasını savunur."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Gümrük Tarifesi Kanunu)"
   },
   {
     "id": "ekys_2019_q27",
@@ -26691,8 +26691,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Varlık Vergisi"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nDevletçilik ilkesi; özel sektörün yetersiz kaldığı alanlarda devletin doğrudan ekonomik yatırımlar (fabrikalar, demir yolları, bankalar) yapmasını öngören karma ekonomik modeldir."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ağnam Vergisi)"
   },
   {
     "id": "ekys_2019_q28",
@@ -26725,8 +26725,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Sadabat Paktı"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nİnkılapçılık ilkesi; toplumun çağdaş medeniyet seviyesinin üzerine çıkması için sürekli dinamik bir gelişim, yenileşme ve modernleşme içinde olmasını ifade eder."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sadabat Paktı)"
   },
   {
     "id": "ekys_2019_q29",
@@ -26759,8 +26759,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Başvuru için dava harcı ödenmesi gerekir."
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nDeğerler eğitiminde **Adalet değeri**, hakkaniyetli olma, herkese hakkını verme, tarafsızlık ve kanun önünde eşitlik ilkelerini kapsar."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Avukat tutma zorunluluğu vardır.)"
   },
   {
     "id": "ekys_2019_q30",
@@ -26793,8 +26793,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Personel arası hediyeleşmeyi teşvik etmek"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nMesleki etik ilkelerinden **Liyakat**, kamu görevine alınmada ve görevde yükselmede bilgi, beceri, başarı ve uzmanlığın esas alınmasıdır."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kırtasiye harcamalarını kısmak)"
   },
   {
     "id": "ekys_2019_q31",
@@ -26827,8 +26827,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Disiplin Tüzüğü"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nKamu Görevlileri Etik Kurulu ilkelerine göre kamu görevlilerinin hediye alma yasağı, tarafsızlık ve şeffaflık ilkelerine uyması zorunludur."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Hukuki Yaptırım)"
   },
   {
     "id": "ekys_2019_q32",
@@ -26862,7 +26862,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nDeğerler eğitiminde model olma ve örtük program yoluyla değer aktarımı; öğrencinin öğretmenin tutum ve davranışlarını gözlemleyerek içselleştirmesini sağlar."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrencilerin kendi değerlerini fark etmelerine, alternatifleri düşünüp özgürce seçim yapmalarına rehberlik etmek)"
   },
   {
     "id": "ekys_2019_q33",
@@ -26895,8 +26895,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Ödül-ceza şartlandırmasıyla kazanılır."
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nEğitim programı ögeleri:\n1. **Hedef (Kazanım):** Ne için eğitilecek?\n2. **İçerik (Kapsam):** Ne öğretilecek?\n3. **Öğrenme-Öğretme Süreci:** Nasıl öğretilecek?\n4. **Ölçme ve Değerlendirme:** Ne kadar öğrenildi?\nBu ögeler dinamik ve birbirini sürekli etkileyen bir sistem yapısındadır."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Sadece test çözerek pekiştirilir.)"
   },
   {
     "id": "ekys_2019_q34",
@@ -26929,8 +26929,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Anlama (Understanding)"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Örtük Program**, resmî programda yazılı olarak yer almayan, ancak okul iklimi, öğretmen tutumları, fiziksel çevre ve okul kültürü yoluyla öğrencilerin edindiği kazanımları ifade eder."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Değerlendirme (Evaluating))"
   },
   {
     "id": "ekys_2019_q35",
@@ -26963,8 +26963,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "%90"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nÖğretim stratejilerinden **Buluş Yoluyla Öğretim (Bruner)**; öğrencinin merak duygusunu harekete geçirerek örnekleri incelemesi, karşılaştırması ve genel kural veya ilkeye kendisinin ulaşmasını hedefler."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (%60)"
   },
   {
     "id": "ekys_2019_q36",
@@ -26998,7 +26998,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Sunuş Yoluyla Öğretim (Ausubel)**; öğretmen merkezli olup anlamlı öğrenmeyi hedefler; ön organize ediciler (kavram haritaları, şemalar) kullanılarak tümdengelim yöntemiyle sunulur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Geçerlilik (Validity))"
   },
   {
     "id": "ekys_2019_q37",
@@ -27031,8 +27031,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Standart puanlar toplamı"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTam Öğrenme Modeli (Bloom); ek süre ve nitelikli öğretim hizmeti (ipucu, pekiştireç, dönüt-düzeltme, etkin katılım - PİDE) sağlandığında öğrencilerin en az %90'ının hedef seviyeye ulaşabileceğini savunur."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Standart puanlar toplamı)"
   },
   {
     "id": "ekys_2019_q38",
@@ -27065,8 +27065,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Grupça toplu not verilmesi"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nFormatif (Biçimlendirici / Yetiştirmeye Yönelik) Değerlendirme; ünite veya konu işlenirken öğrenme eksikliklerini ve kavram yanılgılarını belirleyip gidermek amacıyla yapılır (İzleme testleri). Not verme amacı gütmez."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Sınavların kaldırılması)"
   },
   {
     "id": "ekys_2019_q39",
@@ -27099,8 +27099,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Okul Aile Birliği Başkanı"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nRehberlik hizmetlerinin temel ilkesi **Gizlilik**, bireye saygı, özerklik ve koşulsuz kabuldür. Rehberlik tüm öğrencilere açıktır ve iş birliği gerektirir."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Psikolojik Danışman)"
   },
   {
     "id": "ekys_2019_q40",
@@ -27133,8 +27133,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Yalnızca teorik kavramları sunmasını"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nSınıf yönetiminde **Kural Oluşturma**; kuralların dönem başında öğrencilerle birlikte belirlenmesi, az sayıda, açık, anlaşılır ve olumlu ifadelerle yazılması durumunda kurallara uyum oranı artar."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Hiç konu anlatmadan soru çözmesini)"
   },
   {
     "id": "ekys_2019_q41",
@@ -27168,7 +27168,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nKlasik Yönetim Kuramları (Taylor - Bilimsel Yönetim, Fayol - Yönetim Süreçleri, Weber - Bürokrasi); insan unsurunu rasyonel bir araç olarak görür; örgütün biçimsel yapısına, hiyerarşiye ve verimliliğe odaklanır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kişisel ve keyfî kararlara dayalı yönetim)"
   },
   {
     "id": "ekys_2019_q42",
@@ -27201,8 +27201,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Fizyolojik İhtiyaçlar"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nNeoklasik (İnsan İlişkileri) Kuramı (Mayo - Hawthorne Araştırmaları); örgütlerde informal grupların, çalışanların moral, motivasyon ve aidiyet duygularının verimlilik üzerindeki etkisini vurgular."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Fizyolojik İhtiyaçlar)"
   },
   {
     "id": "ekys_2019_q43",
@@ -27235,8 +27235,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Güvenlik ve denetim sıklığı"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nSistem Kuramına göre örgüt; girdi, süreç, çıktı, dönüt ve çevre unsurlarından oluşan dinamik ve açık bir sistemdir."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Şirket politikaları)"
   },
   {
     "id": "ekys_2019_q44",
@@ -27269,8 +27269,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Otoriter Emir-Komuta"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nLiderlik türlerinden **Dönüşümcü Liderlik (Transformational)**; vizyon oluşturan, çalışanlara ilham veren, değişimi yöneten ve yüksek beklentilerle astlarını motive eden liderlik tarzıdır."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Koşullu Ödüllendirme)"
   },
   {
     "id": "ekys_2019_q45",
@@ -27303,8 +27303,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Babacan İklim"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\n**Etkileşimci Liderlik (Transactional)**; mevcut düzeni koruyan, ödül ve ceza mekanizmalarına (şartlı ödüllendirme) dayalı çalışan liderlik tarzıdır."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Özerk İklim)"
   },
   {
     "id": "ekys_2019_q46",
@@ -27338,7 +27338,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Öğretimsel Liderlik (Instructional)**; okul müdürünün öğretim programlarına, öğretmenlerin mesleki gelişimine ve öğrenci başarısına doğrudan odaklandığı liderlik türüdür."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gizli Alan (Saklı Alan))"
   },
   {
     "id": "ekys_2019_q47",
@@ -27371,8 +27371,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Çağdaş denetim sadece özel okullarda yapılır."
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nOkul Kültürü; bir okulda paylaşılan ortak değerler, inançlar, normlar, gelenekler, ritüeller ve sembollerin bütünüdür. Güçlü okul kültürü kurumsal başarıyı artırır."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Geleneksel denetim sadece öğrencilere uygulanır.)"
   },
   {
     "id": "ekys_2019_q48",
@@ -27405,8 +27405,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Politik Liderlik"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nOkul İklimi; okulun psikolojik atmosferi ve paydaşların okuldaki ortamı nasıl algıladığıdır (Açık iklim, kapalı iklim, özerk iklim vb.)."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Politik Liderlik)"
   },
   {
     "id": "ekys_2019_q49",
@@ -27439,8 +27439,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Maliyetlendirme"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nToplam Kalite Yönetimi (TKY); müşteri/paydaş odaklılık, sürekli iyileştirme (Kaizen), tam katılım, verilerle yönetim ve önleyici yaklaşım ilkelerine dayanır."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Vizyon)"
   },
   {
     "id": "ekys_2019_q50",
@@ -27473,8 +27473,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Yöneticinin çok sert olması"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nÖrgütsel İletişimde engeller; fiziksel engeller, anlamsal/semantik engeller, psikolojik engeller ve hiyerarşik engellerdir. Empati ve açık iletişim bu engelleri aşmayı sağlar."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Çalışanların şeffaf yönetilmesi)"
   },
   {
     "id": "ekys_2019_q51",
@@ -27508,7 +27508,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nÇatışma Yönetimi Stratejileri (Thomas-Kilmann Modeli):\n• **İş birliği (Problem Çözme):** Hem kendi çıkarını hem karşı tarafın çıkarını en üst düzeyde gözeten 'Kazan-Kazan' stratejisidir.\n• **Uyum Sağlama (Ödün Verme):** Karşı tarafın çıkarını önceleme.\n• **Kaçınma:** Çatışmayı görmezden gelme."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Değer/Valans (Ödülün Önemi))"
   },
   {
     "id": "ekys_2019_q52",
@@ -27541,8 +27541,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Yalnızca velilere sorulması"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nKarar Verme Sürecinde rasyonel model; problemin tanımlanması, veri toplama, alternatiflerin belirlenmesi, alternatiflerin değerlendirilmesi, en uygun kararın seçilmesi ve uygulanması aşamalarından oluşur."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yazı-tura atılması)"
   },
   {
     "id": "ekys_2019_q53",
@@ -27575,8 +27575,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "'Parası olan kuralı koyar.'"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nMotivasyon kuramlarından Maslow'un İhtiyaçlar Hiyerarşisi:\nFizyolojik -> Güvenlik -> Sevgi/Ait Olma -> Saygınlık -> Kendini Gerçekleştirme."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> ('Parası olan kuralı koyar.')"
   },
   {
     "id": "ekys_2019_q54",
@@ -27609,8 +27609,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "'Çalışanlar sadece paraya bakar.'"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nHerzberg'in Çift Faktör Kuramı:\n• **Motivasyonel Faktörler (İçsel):** Başarı, takdir, işin niteliği, sorumluluk, terfi.\n• **Hijyen Faktörleri (Dışsal):** Maaş, çalışma koşulları, şirket politikası, iş güvenliği (Bunların yokluğu doyumsuzluk yaratır ancak varlığı tek başına yüksek motivasyon sağlamaz)."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> ('Liderler doğuştan liderdir.')"
   },
   {
     "id": "ekys_2019_q55",
@@ -27643,8 +27643,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Sivil Erdem"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nDenetim türlerinden **Klinik Denetim (Çağdaş Denetim)**; öğretmen ile denetmenin sınıf içi öğretimi geliştirmek amacıyla iş birliği içinde planlama, gözlem ve dönüt toplantıları yaptığı yüz yüze denetim modelidir."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Nezaket)"
   },
   {
     "id": "ekys_2019_q56",
@@ -27678,7 +27678,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nFarklılaştırılmış Denetim; öğretmenlerin mesleki kıdem, ihtiyaç ve gelişim düzeylerine göre bireysel gelişim planı, akran koçluğu veya yoğunlaştırılmış denetim yollarının uygulanmasıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (İş Birliği / Problem Çözme (Kazan-Kazan))"
   },
   {
     "id": "ekys_2019_q57",
@@ -27711,8 +27711,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Zorlayıcı Güç"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nStratejik Planlama; bir kurumun 'Neredeyiz?', 'Nereye gitmek istiyoruz?', 'Gitmek istediğimiz yere nasıl ulaşabiliriz?' ve 'Başarımızı nasıl ölçeriz?' sorularına yanıt arayan orta ve uzun vadeli yol haritasıdır."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ödül Gücü)"
   },
   {
     "id": "ekys_2019_q58",
@@ -27745,8 +27745,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Öğrenci kulüplerini listelemek"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nSWOT Analizi; örgütün Güçlü Yönleri (Strengths), Zayıf Yönleri (Weaknesses), Fırsatları (Opportunities) ve Tehditleri (Threats) belirlemek için yapılan iç ve dış çevre analizidir."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Bütçe tablosu hazırlamak)"
   },
   {
     "id": "ekys_2019_q59",
@@ -27780,7 +27780,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Profesyonel Öğrenme Topluluğu (PÖT))\n\n📌 **Konu / Çözüm Açıklaması (2019 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Profesyonel Öğrenme Topluluğu (PÖT)\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Profesyonel Öğrenme Topluluğu (PÖT)** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Zorunlu Çalışma Grubu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Klasik Komisyon:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Disiplin Kurulu:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Sendika Temsilciliği:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Profesyonel Öğrenme Topluluğu (PÖT))"
   },
   {
     "id": "ekys_2019_q60",
@@ -27814,7 +27814,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Bir yöneticiye doğrudan bağlı ve rapor veren ast sayısının çok olması)\n\n📌 **Konu / Çözüm Açıklaması (2019 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Bir yöneticiye doğrudan bağlı ve rapor veren ast sayısının çok olması\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Bir yöneticiye doğrudan bağlı ve rapor veren ast sayısının çok olması** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Okul bahçesinin geniş olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Müfettiş sayısının fazla olması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Bakanlığın tüm okulları denetlemesi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Yöneticinin tüm gün okulda kalması:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bir yöneticiye doğrudan bağlı ve rapor veren ast sayısının çok olması)"
   },
   {
     "id": "ekys_2019_q61",
@@ -27848,7 +27848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İnsan Kaynakları Yönetimi)\n\n📌 **Konu / Çözüm Açıklaması (2019 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İnsan Kaynakları Yönetimi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İnsan Kaynakları Yönetimi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Klasik Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Taylorizm:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Mekanik Örgüt Modeli:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Bilimsel Yönetim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İnsan Kaynakları Yönetimi)"
   },
   {
     "id": "ekys_2019_q62",
@@ -27882,7 +27882,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Normatif (Ahlaki) Bağlılık)\n\n📌 **Konu / Çözüm Açıklaması (2019 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Normatif (Ahlaki) Bağlılık\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Normatif (Ahlaki) Bağlılık** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Duygusal Bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Devamlılık Bağlılığı:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Maddi Bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Zorunlu Bağlılık:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Normatif (Ahlaki) Bağlılık)"
   },
   {
     "id": "ekys_2019_q63",
@@ -27916,7 +27916,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (İyimserlik, avantajlar ve olumlu fırsatları düşünmeyi)\n\n📌 **Konu / Çözüm Açıklaması (2019 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"İyimserlik, avantajlar ve olumlu fırsatları düşünmeyi\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **İyimserlik, avantajlar ve olumlu fırsatları düşünmeyi** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Duyguları ve sezgileri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Karamsarlık ve tehlikeleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Yaratıcı yeni fikirleri:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Süreç kontrolünü ve yönetimi:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (İyimserlik, avantajlar ve olumlu fırsatları düşünmeyi)"
   },
   {
     "id": "ekys_2019_q64",
@@ -27950,7 +27950,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A** (Yukarıdan Aşağıya İletişim)\n\n📌 **Konu / Çözüm Açıklaması (2019 EKYS - Eğitim Yönetimi):**\nSoruda yöneltilen bilgi ve ilgili ders kazanımına göre doğru yanıt **A** seçeneğinde yer alan **\"Yukarıdan Aşağıya İletişim\"** ifadesidir.\n• **Temel Gerekçe:** İlgili konu anlatım ilkeleri ve resmî EKYS sınav kazanımları doğrultusunda, sorudaki öncül ve kriterleri karşılayan doğru kavram **Yukarıdan Aşağıya İletişim** olarak tanımlanmıştır.\n\n❌ **Çeldiriciler:**\n• **B) Aşağıdan Yukarıya İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **C) Yatay İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **D) Çapraz İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n• **E) Gayriresmî İletişim:** Bu seçenek soruda aranan temel tanım veya bağlamın dışındadır.\n"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yukarıdan Aşağıya İletişim)"
   },
   {
     "id": "ekys_2019_q65",
@@ -27984,7 +27984,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Temel haklar, kişi hakları ve siyasi haklar)"
   },
   {
     "id": "ekys_2019_q66",
@@ -28018,7 +28018,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (2 defa (İlk seçilenlerin görev süresi 2 yıl, ikinci seçilenlerin görev süresi o yasama döneminin sonuna kadardır))"
   },
   {
     "id": "ekys_2019_q67",
@@ -28052,7 +28052,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uyarma Cezası)"
   },
   {
     "id": "ekys_2019_q68",
@@ -28086,7 +28086,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (40 saat (Cumartesi ve Pazar tatil))"
   },
   {
     "id": "ekys_2019_q69",
@@ -28120,7 +28120,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (İlk ve ortaöğretim kurumlarında okutulan zorunlu dersler arasında yer alır.)"
   },
   {
     "id": "ekys_2019_q70",
@@ -28154,7 +28154,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Okul Yönetimi ve Millî Eğitim Bakanlığı)"
   },
   {
     "id": "ekys_2019_q71",
@@ -28188,7 +28188,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Çocuğun 5 yaşını bitirdiği yılın eylül ayı sonunda başlar, 13 yaşını bitirip 14 yaşına bastığı yılın öğretim yılı sonunda biter.)"
   },
   {
     "id": "ekys_2019_q72",
@@ -28222,7 +28222,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Köy okulu ihtiyaçlarına ve köy ihtiyar heyetince okul bütçesine)"
   },
   {
     "id": "ekys_2019_q73",
@@ -28256,7 +28256,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı (Yılbaşından en az 75 gün önce))"
   },
   {
     "id": "ekys_2019_q74",
@@ -28290,7 +28290,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kaymakam)"
   },
   {
     "id": "ekys_2019_q75",
@@ -28324,7 +28324,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (En az 2 yıl)"
   },
   {
     "id": "ekys_2019_q76",
@@ -28358,7 +28358,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (İlde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır.)"
   },
   {
     "id": "ekys_2019_q77",
@@ -28392,7 +28392,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (30 gün)"
   },
   {
     "id": "ekys_2019_q78",
@@ -28426,7 +28426,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Personel Genel Müdürlüğü)"
   },
   {
     "id": "ekys_2019_q79",
@@ -28460,7 +28460,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (Millî Eğitim Şûrası)"
   },
   {
     "id": "ekys_2019_q80",
@@ -28494,7 +28494,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
+    "explanation": "Doğru Cevap: <strong>A</strong> (7 gün)"
   },
   {
     "id": "cogr_test_1-q1",
@@ -28605,7 +28605,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Çizgisel hızın artması)<br><br>📌 <strong>Ekvator'dan Kutuplara (Güneyden Kuzeye) Değişen Özellikler:</strong><br>• Dünya'nın geoit şeklinden dolayı Ekvator'dan kutuplara doğru gidildikçe paralel dairelerinin çevreleri daralır ve <strong>çizgisel hız AZALIR</strong> (artmaz). Bu nedenle C seçeneğindeki ifade yanlıştır.<br><br>❌ <strong>Doğru Olan Diğer Değişimler:</strong><br>• <strong>A) Güneş ışınlarının geliş açısının küçülmesi:</strong> Kutuplara yaklaşıldıkça açılar daralır.<br>• <strong>B) Cisimlerin gölge boyunun uzaması:</strong> Işınlar daha eğik geldiği için gölgeler uzar.<br>• <strong>D) Yer çekiminin artması:</strong> Kutuplardan basık olunduğu için yerin merkezine yaklaşılır ve yer çekimi artar.<br>• <strong>E) Deniz suyu tuzluluk oranının azalması:</strong> Sıcaklık ve buharlaşma azaldığı için tuzluluk düşer."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bu tarihten itibaren gündüzler uzamaya, geceler kısalmaya başlar)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Türkiye'de gölge boyunun en kısa olduğu tarih <strong>21 Haziran (Yaz Gün Dönümü)</strong>'dir.<br>• 21 Haziran'da Türkiye'de <strong>en uzun gündüz</strong> yaşanır; bu tarihten itibaren gündüzler uzamaz, aksine <strong>kısalmaya</strong> ve geceler uzamaya başlar. Bu nedenle A seçeneğindeki ifade beklenmez ve yanlıştır."
   },
   {
     "id": "cogr_test_1-q4",
@@ -28642,7 +28642,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Öğle vakti ve yerel saat)<br><br>📌 <strong>Aynı Meridyen (Boylam) Üzerindeki Merkezlerin Özellikleri:</strong><br>• Aynı boylam üzerinde bulunan tüm noktalarda Güneş gün içerisinde tam tepe noktasına aynı anda ulaşır (saat 12:00 olur) ve <strong>yerel saatleri yıl boyunca daima aynıdır</strong>.<br><br>❌ <strong>Farklılık Gösteren Unsurlar:</strong><br>• <strong>Güneşin Doğuş ve Batış Saati:</strong> Yalnızca 21 Mart ve 23 Eylül (ekinoks) tarihlerinde aynıdır; diğer günlerde gece-gündüz süreleri enleme göre değiştiği için farklı saatlerde doğar ve batar.<br>• <strong>Gündüz Süresi ve Sıcaklık:</strong> Enlem derecesine ve özel konum koşullarına bağlıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Gümüşhane)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>1. <strong>Gündüz Süresinin Daha Uzun Olması:</strong> Haziran ayında (yaz mevsiminde) Kuzey Yarım Küre'de kuzeye gidildikçe gündüz süresi uzar; bu durum Ankara'dan daha <strong>kuzeye</strong> gidildiğini gösterir.<br>2. <strong>Yerel Saatin Daha İleri Olması:</strong> Güneş daha önce doğduğu için daha <strong>doğuya</strong> gidildiğini gösterir.<br><br>➡️ Ankara'nın <strong>Kuzeydoğusunda</strong> yer alan il seçeneklerdeki <strong>Gümüşhane</strong>'dir."
   },
   {
     "id": "cogr_test_1-q5",
@@ -28790,7 +28790,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Kuzey sektörlü rüzgarların sıcaklığı düşürmesi)<br><br>📌 <strong>Mutlak Konum (Kuzey Yarım Küre) Sonucu:</strong><br>• Türkiye'de kuzeyden esen rüzgarların (Karayel, Yıldız, Poyraz) sıcaklığı düşürmesi, güneyden esenlerin (Lodos, Kıble, Samyeli) sıcaklığı artırması ülkemizin <strong>Kuzey Yarım Küre'de (Matematik/Mutlak Konum)</strong> yer almasının doğrudan bir sonucudur.<br><br>❌ <strong>Göreceli (Özel) Konum Sonuçları:</strong><br>• <strong>A) Üç tarafının denizlerle çevrili olması:</strong> Yarımada özelliği.<br>• <strong>B) Ortalama yükseltinin batıdan doğuya artması:</strong> Jeolojik ve topoğrafik yapı.<br>• <strong>D) Transit ticaret yolları ve enerji koridoru olması:</strong> Jeopolitik/coğrafi konum.<br>• <strong>E) Kısa mesafelerde bitki çeşitliliği:</strong> Yer şekillerinin engebeli yapısı."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ankara)<br><br>🎯 <strong>Eşleştirme Analizi:</strong><br>• <strong>Gurup ve tan süresinin en uzun olması:</strong> Çizgisel hızın en az olduğu en kuzeydeki ilimiz <strong>Sinop</strong> (A).<br>• <strong>Yer çekiminin en az olması:</strong> Ekvator'a en yakın (en güneydeki) ilimiz <strong>Hatay</strong> (C).<br>• <strong>Güneşin en erken doğması:</strong> En doğudaki ilimiz <strong>Iğdır</strong> (D).<br>• <strong>Yerel saat ile ulusal saat (45°D) farkının en fazla olması:</strong> En batıdaki ilimiz <strong>Çanakkale</strong> (E).<br><br>➡️ Verilen öncüllerde <strong>Ankara</strong> iline ait herhangi bir özellik yer almamaktadır."
   },
   {
     "id": "cogr_test_1-q9",
@@ -28826,8 +28826,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "E şıkkındaki şekil (güneş merkezde)"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Tepe Noktasını Geçmiş / Batıya Yaklaşmış Durum)<br><br>📌 <strong>Ufuk Düzleminde Güneşin Konumu ve Yerel Saat:</strong><br>• Şekilde İzmir'de Güneş tam tepe noktasındadır; yani İzmir'de yerel saat <strong>12:00 (öğle vakti)</strong>'dir.<br>• Ardahan (yaklaşık 43°D), İzmir'e (yaklaşık 27°D) göre yaklaşık 16° daha doğudadır ve yerel saati İzmir'den yaklaşık <strong>1 saat 4 dakika daha ileridir</strong> (Ardahan'da saat ~13:04).<br>• Yerel saati 12:00'yi geçen bir merkezde Güneş tepe noktasını aşmış ve batış ufkuna (B) doğru ilerlemiştir. Bu durumu gösteren doğru şekil <strong>B</strong> seçeneğidir."
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (B şıkkındaki şekil - Güneş batıya yaklaşmış durum)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Şekilde İzmir'de Güneş tam tepe noktasında olduğundan yerel saat <strong>12:00 (öğle vakti)</strong>'dir.<br>• Ardahan (yaklaşık 43°D), İzmir'e (yaklaşık 27°D) göre daha doğudadır ve yerel saati İzmir'den yaklaşık 1 saat daha ileridir (Ardahan'da saat ~13:00'ü geçmiştir).<br>• Öğle vaktini geçen merkezlerde Güneş tepe noktasını aşmış ve batış ufkuna doğru ilerlemiştir. Bu durumu gösteren şekil <strong>B</strong> seçeneğidir."
   },
   {
     "id": "cogr_test_1-q10",
@@ -28864,7 +28864,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Akdeniz iklim kuşağında yer alması)<br><br>📌 <strong>Türkiye'nin Orta Kuşak'ta Yer Almasının Sonuçları (A-B-C-D Kuralı):</strong><br>• <strong>A - Akdeniz İklimi:</strong> Türkiye makroiklim olarak Akdeniz iklim kuşağında yer alır.<br>• <strong>B - Batı Rüzgarları:</strong> Yıl boyunca genel hava dolaşımında Batı rüzgarları kuşağındadır.<br>• <strong>C - Cephesel (Frontal) Yağışlar:</strong> Kutuplardan gelen soğuk hava ile Ekvator'dan gelen sıcak havanın karşılaşma alanıdır.<br>• <strong>D - Dört Mevsim:</strong> Yıl içerisinde dört mevsim belirgin olarak yaşanır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Erzincan)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Yerel Saatin İleri Olması:</strong> Bodrum'dan daha <strong>doğuya</strong> gidildiğini gösterir.<br>• <strong>21 Haziran'da Gündüz Süresinin Daha Uzun Olması:</strong> 21 Haziran günü kuzeye gidildikçe gündüzler uzadığı için Bodrum'dan daha <strong>kuzeye</strong> gidildiğini gösterir.<br><br>➡️ Bodrum'un <strong>Kuzeydoğusunda</strong> yer alan tek seçenek <strong>Erzincan</strong>'dır."
   },
   {
     "id": "cogr_test_1-q11",
@@ -46337,7 +46337,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'nin matematiksel konumu (36°-42° Kuzey paralelleri, 26°-45° Doğu meridyenleri) gereği Orta Kuşak'ta ve Kuzey Yarımküre'de yer almasının sonuçları:\n• Dört mevsim belirgin olarak yaşanır,\n• Cephesel yağışlar (fronta yağışlar) etkilidir,\n• Batı rüzgarları kuşağındadır,\n• Güneyden kuzeye gidildikçe Güneş ışınlarının geliş açısı ve sıcaklık azalır."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q2",
@@ -46374,7 +46374,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında denizel iklim iç kesimlere sokulamazken; Ege Bölgesi'nde dağlar kıyıya dik uzandığı için denizel hava kütleleri graben vadileri boyunca 150-200 km kadar iç kesimlere rahatlıkla sokulabilir."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q3",
@@ -46411,7 +46411,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de tarım ürünlerinin olgunlaşma ve hasat süreleri kıyı bölgelerinden iç ve doğu bölgelere gidildikçe yükselti ve karasallık nedeniyle gecikir. En erken hasat Akdeniz kıyılarında (Çukurova), en geç hasat ise Erzurum-Kars platosunda gerçekleşir."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q4",
@@ -46448,7 +46448,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nAkdeniz iklim bölgesinde maki bitki örtüsünün tahrip edildiği alanlarda ortaya çıkan dikenli, bodur çalı topluluklarına **Garig (Frigana)** denir (Lavanta, abdestbozan, yasemin, kekik, laden vb.). Karadeniz'de orman tahribiyle oluşan çalılara ise **Psödomaki** denir."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q5",
@@ -46485,7 +46485,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de kırsal yerleşmelerde konut yapı malzemesi doğrudan iklim ve doğal çevre şartlarına bağlıdır:\n• Karadeniz: Ahşap malzeme (Orman varlığı)\n• İç ve Güneydoğu Anadolu: Kerpiç malzeme (Kuraklık, toprak/saman karışımı)\n• Akdeniz ve volkanik yöreler (Nevşehir, Kayseri): Taş malzeme"
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q6",
@@ -46522,7 +46522,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de nüfusun mekânsal dağılışında doğal faktörler (iklim, yer şekilleri, su kaynakları, toprak verimi) ve beşeri faktörler (sanayileşme, ulaşım, ticaret, madencilik, turizm) belirleyicidir. Sanayileşmiş Marmara ve Kıyı Ege en yoğun, dağlık Hakkari, Teke-Taşeli platoları en seyrek nüfuslu alanlardır."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q7",
@@ -46559,7 +46559,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nGAP (Güneydoğu Anadolu Projesi), Fırat ve Dicle nehirleri üzerinde barajlar, hidroelektrik santralleri ve sulama tünelleri (Şanlıurfa tünelleri) inşa ederek bölgenin sosyo-ekonomik kalkınmasını hedefleyen çok sektörlü entegre bölgesel kalkınma projesidir."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q8",
@@ -46596,7 +46596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de yetiştirilen sanayi bitkileri içerisinde **Pamuk**, yüksek sıcaklık ve yetişme döneminde bol su, hasat döneminde ise kuraklık ve güneşlenme ister. Şanlıurfa (GAP ile), Çukurova, Aydın ve Ege grabenlerinde yoğun üretilir; Karadeniz'de yaz yağışları nedeniyle yetiştirilemez."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q9",
@@ -46633,7 +46633,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de şeker pancarı üretimi; çabuk bozulabilen bir ürün olması sebebiyle fabrikaların ekim alanlarının hemen yakınına kurulmasını zorunlu kılmıştır. Üretim kotaya tabidir ve İç Anadolu üretimde ilk sıradadır."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q10",
@@ -46670,7 +46670,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de tiftik keçisi (Ankara keçisi) yetiştiriciliğinin en yoğun olduğu merkez **Ankara ve İç Anadolu** yöresidir. Tiftiği değerli bir sanayi hammaddesidir."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q11",
@@ -46707,7 +46707,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de demir-çelik sanayisinin Karabük ve İskenderun'da kurulma nedenleri farklıdır:\n• Karabük-Ereğli: Taş kömürü yataklarına (Enerji kaynağına) yakınlık,\n• İskenderun: Liman ve ulaşım kolaylığı (Ulaşım / Hinterland).\n• Sivas Divriği: Demir madeni yatağına (Hammaddeye) yakınlık."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q12",
@@ -46744,7 +46744,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nBor mineralleri rezervinde Türkiye dünya 1.'sidir (Dünya rezervlerinin %73'ü). Çıkarıldığı ve işlendiği yerler: Balıkesir (Bigadiç, Bandırma), Bursa (Mustafakemalpaşa), Kütahya (Emet), Eskişehir (Kırka). Bandırma ve Kırka'da bor işleme tesisleri bulunur."
+    "explanation": "Doğru Cevap: <strong>D</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q13",
@@ -46781,7 +46781,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de petrol rafinerileri:\n• **Batman:** Hammaddeye (petrol kuyularına) yakınlık nedeniyle kurulmuştur.\n• **İzmit (İpraş), İzmir (Aliağa), Kırıkkale (Orta Anadolu):** Ulaşım, tüketim merkezi ve pazar olanakları nedeniyle kurulmuştur."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q14",
@@ -46818,7 +46818,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de rüzgar enerjisi potansiyeli en yüksek bölgeler; sürekli ve güçlü rüzgarlar alan **Ege ve Marmara** (Çanakkale, Balıkesir, İzmir, Manisa) bölgeleridir. Türkiye'nin ilk rüzgar santrali İzmir Çeşme (Alaçatı)'de kurulmuştur."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q15",
@@ -46855,7 +46855,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de jeotermal enerji fay hatlarına ve genç kırıklı volkanik arazilere bağlı olarak en çok **Ege Bölgesi'nde (Denizli - Sarayköy, Aydın - Germencik, Manisa - Alaşehir)** yaygındır. Elektrik üretimi, sera ve konut ısıtmasında kullanılır."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q16",
@@ -46892,7 +46892,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de demir yolu ulaşım ağı engebeli yapısı nedeniyle her ilimize ulaşamaz. Demir yolu bağlantısı bulunmayan önemli kıyı kentlerimiz: **Antalya, Muğla, Trabzon, Rize, Giresun, Sinop, Çanakkale**'dir."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q17",
@@ -46929,7 +46929,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nKültür turizmi ve UNESCO Dünya Miras Listesi'nde yer alan varlıklarımızdan **Göbeklitepe** Şanlıurfa'da, **Çatalhöyük** Konya'da, **Hattuşa** Çorum'da, **Efes** İzmir'de, **Nemrut Dağı Heykelleri** Adıyaman'da yer alır."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q18",
@@ -46966,7 +46966,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'nin sınır komşuları ve sınır kapıları:\n• Kapıkule (Bulgaristan - en işlek sınır kapımız)\n• Sarp (Gürcistan)\n• Habur (Irak - Ortadoğu ticaret kapısı)\n• Gürbulak (İran - transit ticaret yolu)\n• İpsala (Yunanistan)\n• Dilucu (Nahçıvan/Azerbaycan)"
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q19",
@@ -47003,7 +47003,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de akarsuların hidroelektrik potansiyeli doğuya doğru gidildikçe yükselti ve eğimin artmasına bağlı olarak yükselir. Fırat ve Dicle nehirleri hidroelektrik üretiminde ilk sırada yer alır."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q20",
@@ -47040,7 +47040,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de kıyı ve iç kesimler arasındaki yağış miktarı farkı yer şekillerinin dağ sıraları halinde kıyıya paralel uzanmasıyla ilgilidir. Rize yıllık 2400 mm yağışla Türkiye'nin en çok yağış alan merkezidir; Iğdır ve Konya ise en az yağış alan yerlerdendir."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q21",
@@ -47077,7 +47077,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de karstik topoğrafya kalkerli arazinin yaygın olduğu Akdeniz Bölgesi'nde (Toros kuşağı) en gelişmiş düzeydedir. Lapya, dolin, uvala, polye, mağara, obruk ve düden karstik aşınım şekilleridir."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q22",
@@ -47114,7 +47114,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de erozyonla mücadelede en etkili yöntemler; arazinin bitki örtüsüyle (ağaçlandırma) korunması, meraların korunması, tarlaların eğime dik sürülmesi ve nöbetleşe ekim yapılmasıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q23",
@@ -47151,7 +47151,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de göllerin oluşum tipleri tektonik, volkanik, karstik, buzul ve set gölleri olarak ayrılır. Van Gölü lav seti ve tektonik karma yapılıdır; Beyşehir en büyük tatlı su gölüdür."
+    "explanation": "Doğru Cevap: <strong>D</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q24",
@@ -47188,7 +47188,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de dış ticaret hacminde en büyük pay sanayi ürünlerine aittir. İthalatta enerji (petrol, doğalgaz), makine ve kimya ürünleri ilk sırada yer alırken; ihracatta motorlu kara taşıtları, hazır giyim/tekstil, demir-çelik ve beyaz eşya öne çıkar."
+    "explanation": "Doğru Cevap: <strong>D</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q25",
@@ -47225,7 +47225,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nBölgesel kalkınma projeleri (DOKAP, DAP, GAP, KOP, ZBK, YHGP) bölgeler arası gelişmişlik farklarını azaltmak, göçü önlemek ve yerel kaynakları harekete geçirmek amacıyla hazırlanmıştır."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q26",
@@ -47262,7 +47262,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de seracılık faaliyetlerinin en yoğun yapıldığı bölge kış ılıklığı ve güneşlenme süresinin yüksek olduğu **Akdeniz Bölgesi (Antalya, Mersin, Adana)**'dir."
+    "explanation": "Doğru Cevap: <strong>D</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q27",
@@ -47299,7 +47299,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nKarasal iklimin hakim olduğu İç Anadolu'da ilkbahar aylarında ısınan havanın yükselmesiyle oluşan konveksiyonel yağışlara halk arasında **Kırkikindi Yağışları** denir."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q28",
@@ -47336,7 +47336,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de dağ oluşumu (Orojenez) sonucunda kırılma ile oluşan dağlar horst-graben sistemini oluşturur (Kaz, Madra, Yunt, Bozdağlar, Aydın Dağları, Menteşe ve Amanos Dağları). Kıvrılma ile oluşanlar ise Kuzey Anadolu Dağları ve Toroslar'dır."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q29",
@@ -47373,7 +47373,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nBakır madeninin çıkarıldığı ve işlendiği önemli merkezler: Artvin (Murgul), Kastamonu (Küre), Elazığ (Maden), Rize (Çayeli). Samsun ve Murgul'da bakır işletmeleri yer alır."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q30",
@@ -47410,7 +47410,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de nüfus piramidinin tabanının daralması doğum oranlarının azaldığını, ortalama yaşam süresinin uzaması ise yaşlı nüfus oranının arttığını gösterir (Gelişmiş ülke nüfus yapısına geçiş süreci)."
+    "explanation": "Doğru Cevap: <strong>D</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q31",
@@ -47447,7 +47447,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de turizm gelirlerinin artırılmasında dört mevsime yayılan kış turizmi (Uludağ, Palandöken, Erciyes, Kartalkaya), yayla turizmi, inanç turizmi ve termal turizm çeşitliliği büyük rol oynamaktadır."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q32",
@@ -47484,7 +47484,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de yaylacılık faaliyeti geleneksel olarak hayvancılık amaçlı başlasa da günümüzde özellikle Karadeniz ve Akdeniz'de turizm ve rekreasyon amaçlı önemli bir faaliyet haline gelmiştir."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q33",
@@ -47521,7 +47521,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de fön rüzgarları dağ yamacını aşarak alçalan havanın sürtünmeyle her 100 metrede 1°C ısınması sonucu oluşur. Kışın kar erimelerine ve çığlara, yazın ise tarım ürünlerinin erken olgunlaşmasına veya kurumasına yol açar (Rize ve Iğdır mikroklimasında etkilidir)."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q34",
@@ -47558,7 +47558,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'nin yer altı suları ve kaynak türleri incelendiğinde; karstik kaynaklar (voklüz) suları kireçli ve soğuk sulardır; fay kaynakları ise suları sıcak ve mineralli sulardır."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q35",
@@ -47595,7 +47595,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de orman varlığının coğrafi dağılışında yağış ve nemlilik belirleyicidir. En fazla orman Karadeniz ve Akdeniz bölgelerinde yer alırken; en az orman Güneydoğu Anadolu Bölgesi'ndedir."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q36",
@@ -47632,7 +47632,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de ipek böcekçiliği dut yaprağı ile beslenen ipek böceği tırtılı yetiştiriciliğidir. Diyarbakır, Antalya, Bursa ve Ankara'da yapılır. Son yıllarda suni ipek üretimi nedeniyle doğal ipek üretimi azalmıştır."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q37",
@@ -47669,7 +47669,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de krom madeni çeliğin sertleştirilmesinde ve paslanmaz çelik üretiminde kullanılır. Elazığ (Guleman), Muğla (Fethiye-Köyceğiz) önemli yataklarıdır. Elazığ ve Antalya'da Ferrokrom fabrikaları vardır."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q38",
@@ -47706,7 +47706,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de kıyı set gölleri (Lagün) dalga ve akıntı biriktirmesiyle oluşur: Terkos (Durusu), Büyükçekmece, Küçükçekmece ve Akyatan lagünleri buna örnektir."
+    "explanation": "Doğru Cevap: <strong>D</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q39",
@@ -47743,7 +47743,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de göç hareketlerinde sanayileşmiş, iş olanakları geniş, eğitim ve sağlık imkanları yüksek büyükşehirler ve sanayi merkezleri en çok net göç alan yerlerdir."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q40",
@@ -47780,7 +47780,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nDoğu Karadeniz Projesi (DOKAP), bölgedeki yayla koridoru (Yeşil Yol), balıkçılık, tarım (çay, fındık) ve ormancılığı geliştirerek kalkınmayı hedeflemektedir."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q41",
@@ -47817,7 +47817,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de yer şekillerinin akarsu rejimleri üzerindeki etkisi; akarsuların kış ve ilkbahar aylarında karların erimesi ve yağmurlarla debilerinin yükselmesi, yaz kuraklığında ise debilerinin düşmesi sonucunu doğurur."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q42",
@@ -47854,7 +47854,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de kıta sahanlığının en dar olduğu bölgeler dağların kıyıdan dik yükseldiği Doğu Karadeniz ve Batı Akdeniz (Teke Yarımadası) kıyılarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q43",
@@ -47891,7 +47891,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de rüzgar erozyonunun en etkili olduğu yerler; bitki örtüsünün tahrip edildiği ve kurak iklimin sürdüğü Konya Karapınar çevresi ile Güneydoğu Anadolu ovalarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q44",
@@ -47928,7 +47928,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nKOP (Konya Ovası Projesi), Göksu Nehri'nin sularını Mavi Tünel vasıtasıyla Konya Kapalı Havzası'na aktararak yeraltı suyu seviyesini yükseltmeyi ve sulu tarımı yaygınlaştırmayı amaçlamaktadır."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q45",
@@ -47965,7 +47965,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de nükleer enerji santrali projeleri Mersin (Akkuyu) ve Sinop'ta yürütülmektedir. Akkuyu Nükleer Güç Santrali Türkiye'nin ilk nükleer santralidir."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q46",
@@ -48002,7 +48002,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de güneş enerjisi potansiyeli güneyden kuzeye gidildikçe enlem ve bulutluluk farkı nedeniyle azalır. En yüksek potansiyel Güneydoğu ve Akdeniz'de; en düşük potansiyel ise bulutluluğun fazla olduğu Karadeniz'dedir."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q47",
@@ -48039,7 +48039,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de büyükbaş sığır hayvancılığı içerisinde ahır (besi) hayvancılığı pazara yakınlık ve tüketim talebi nedeniyle büyük kentlerin çevresinde (Marmara, Ege, İç Anadolu) gelişmiştir."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q48",
@@ -48076,7 +48076,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de volkanik dağların üzerinde krater gölleri, maar gölleri ve kalderalar yer alır. Nemrut Kalderası (Bitlis) ve Meke Maar Gölü (Konya) en bilinen örneklerdir."
+    "explanation": "Doğru Cevap: <strong>A</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q49",
@@ -48113,7 +48113,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de deniz turizmi sezonu Akdeniz ve Ege'de güneşlenme süresi ve deniz suyu sıcaklığının yüksek olması nedeniyle en uzundur (Mayıs-Ekim arası 6 ay)."
+    "explanation": "Doğru Cevap: <strong>B</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q50",
@@ -48150,7 +48150,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de toprak tiplerinin dağılışında Terra-Rossa Akdeniz'de maki-kalker üzerinde; Çernezyom Erzurum-Kars'ta çayır altında; Vertisol Trakya'da kil üzerinde; Alüvyal ise deltalar üzerinde yer alır."
+    "explanation": "Doğru Cevap: <strong>E</strong>"
   },
   {
     "id": "cogr_test_cikmis_secki-q51",
@@ -48187,7 +48187,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'nin transit boru hatları (BTC - Bakü Tiflis Ceyhan, TANAP - Trans Anadolu Doğalgaz Boru Hattı, Mavi Akım, TürkAkım) Türkiye'yi Doğu-Batı enerji koridorunda stratejik bir merkez (enerji köprüsü ve ticaret üssü) haline getirmiştir."
+    "explanation": "Doğru Cevap: <strong>C</strong>"
   },
   {
     "id": "tarih3-q1",
