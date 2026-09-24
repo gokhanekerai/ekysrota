@@ -56404,5 +56404,1445 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C (Programlı öğretim)</strong><br><br>📌 <strong>Pedagojik Analiz:</strong><br>• B.F. Skinner'ın edimsel koşullanma kuramına dayanan <strong>Programlı Öğretim</strong>, öğretim sürecini <strong>'KEBAP'</strong> ilkeleri doğrultusunda yapılandırır:<br>  • <strong>K - Küçük Adımlar:</strong> Bilgi küçük ve anlamlı adımlara bölünür.<br>  • <strong>E - Etkin Katılım:</strong> Öğrenci her adımda aktif olarak soruya cevap verir.<br>  • <strong>B - Başarı:</strong> Sorular öğrencinin başarabileceği düzeyde tasarlanır.<br>  • <strong>A - Anında Düzeltme (Dönüt):</strong> Öğrenciye cevabının doğruluğu anında bildirilir.<br>  • <strong>P - Progressif İlerleme / Bireysel Hız:</strong> Her öğrenci kendi öğrenme hızına göre ilerler ve bir adımı öğrenmeden diğerine geçemez.<br>• Paragraftaki ilkeler bu 5 ilkeyi birebir karşılamaktadır.<br><br>🔍 <strong>Çeldirici Seçeneklerin İncelenmesi:</strong><br>• <strong>A) Modüler öğretim:</strong> Birbirinden bağımsız geniş mesleki modüllerdir; küçük adımlar ve anında dönüt döngüsü programlı öğretime özgüdür.<br>• <strong>B) Kuantum öğrenme:</strong> Hızlı okuma, hafıza ve bütüncül beyin potansiyeli odaklıdır.<br>• <strong>D) Mikro öğretim:</strong> 'Öğret-yeniden öğret' döngüsüyle öğretmen adaylarına mesleki beceri kazandırma tekniğidir.<br>• <strong>E) Buluş yolu:</strong> Örneklerden kurala tümevarımla ulaşma stratejisidir.<br><br>💡 <strong>EKYS İpucu:</strong> Soruda <em>'Küçük adımlar, bir birimi öğrenmeden diğerine geçememe, anında dönüt ve bireysel hız'</em> anahtar kavramları yer alıyorsa cevap <strong>Programlı Öğretim (KEBAP)</strong>tir."
+  },
+  {
+    "id": "tarih7-q1",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "I. Çetr\nII. Hutbe\nIII. Sikke\n\nYukarıdakilerden hangileri Türk-İslam devletlerinde görülen hükümdarlık alametleri arasında yer alır?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>Türklerin İslamiyeti kabulüyle birlikte hükümdarlık alametlerine İslami unsurlar da eklenmiştir:<br>• <strong>I. Çetr:</strong> Saltanat şemsiyesidir; hükümdarlık ve hâkimiyet sembolüdür.<br>• <strong>II. Hutbe:</strong> Cuma namazlarında hükümdarın adı anılarak meşruiyeti halka duyurulur.<br>• <strong>III. Sikke:</strong> Hükümdar adına para bastırılması en temel bağımsızlık alametlerindendir.<br><br>➡️ Verilen öncüllerin üçü de Türk-İslam devletlerinde meşru hükümdarlık alametleri arasındadır."
+  },
+  {
+    "id": "tarih7-q2",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Büyük Selçuklu Devleti'nde iç ve dış yazışmaları yürüten divan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divan-ı Tuğra"
+      },
+      {
+        "key": "B",
+        "text": "Niyâbet-i Saltanat"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı İşrâf"
+      },
+      {
+        "key": "D",
+        "text": "Divan-ı İstifâ"
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı Arz"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Divan-ı Tuğra / Divan-ı İnşâ)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Divan-ı Tuğra (İnşâ):</strong> Devletin tüm iç ve dış resmî yazışmalarını hazırlayan, ferman ve beratlara sultanın tuğrasını çeken divandır. Başkanına <em>Tuğraî</em> veya <em>Münşi</em> denir.<br><br>❌ <strong>Çeldirici Divanların Analizi:</strong><br>• <strong>B) Niyâbet-i Saltanat:</strong> Hükümdar başkentte olmadığında veya sefere çıktığında devleti yöneten vekillik makamıdır (Başı: Nâib).<br>• <strong>C) Divan-ı İşrâf:</strong> İdari ve mali işlerin denetimini (teftişini) yapar (Başı: Müşrif).<br>• <strong>D) Divan-ı İstifâ:</strong> Devletin maliye, bütçe ve gelir-gider işlerine bakar (Başı: Müstevfî).<br>• <strong>E) Divan-ı Arz:</strong> Ordunun ihtiyaçları ve asker maaşlarıyla ilgilenir (Başı: Emîr-i Arz)."
+  },
+  {
+    "id": "tarih7-q3",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Türk-İslam devletlerinde ordunun ihtiyaçları için toplanan divan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Arz'ul Ceyş (Divan-ı Arz)"
+      },
+      {
+        "key": "B",
+        "text": "Divan-ı Tuğra"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı İnşâ"
+      },
+      {
+        "key": "D",
+        "text": "Divan-ı İstifâ"
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı Saltanat"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Arz'ul Ceyş / Divan-ı Arz)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Arz'ul Ceyş (Divan-ı Arz):</strong> Ordunun asker sayımı, maaş ödemeleri (bistegani), silah temini, levazım ve lojistik ihtiyaçlarının karşılandığı askerî divandır. Başkanı <em>Emîr-i Arz</em>'dır.<br><br>❌ <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve C) Tuğra ve İnşâ:</strong> İç ve dış yazışmaları yürütür.<br>• <strong>D) İstifâ:</strong> Genel maliye divanıdır.<br>• <strong>E) Divan-ı Saltanat:</strong> Hükümdar başkanlığındaki büyük divandır (Bakanlar Kurulu)."
+  },
+  {
+    "id": "tarih7-q4",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "Aşağıdakilerden hangisi ikta sisteminin devlete sağladığı faydalar arasında yer almaz?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bütün devlet görevlilerinin maaşlarının karşılanması"
+      },
+      {
+        "key": "B",
+        "text": "Üretimde sürekliliğin sağlanması"
+      },
+      {
+        "key": "C",
+        "text": "Asker ihtiyacının karşılanması"
+      },
+      {
+        "key": "D",
+        "text": "Vergilerin düzenli olarak toplanması"
+      },
+      {
+        "key": "E",
+        "text": "Taşrada devlet otoritesinin sağlanması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bütün devlet görevlilerinin maaşlarının karşılanması)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• İkta sistemi ile yalnızca taşrada görev yapan <strong>sipahiler ve memurlar</strong> finanse edilir. Saray ve merkez ordusu (Gulamlar / Gulaman-ı Saray) ile üst düzey merkez bürokratlarının maaşları hazineden nakit olarak (bistegani vb.) ödenir; dolayısıyla bütün devlet görevlilerinin maaşı iktadan karşılanmaz.<br><br>✔️ <strong>İkta Sisteminin Sağladığı Faydalar:</strong><br>• B) Boş bırakılan araziler denetlenerek tarımsal üretimde süreklilik sağlanır.<br>• C) Hazineye yük olmadan savaşa hazır devasa bir süvari ordusu yetiştirilir.<br>• D) Vergiler yerinde ve düzenli olarak tahsil edilir.<br>• E) Sipahiler taşrada asayişi sağlayarak devlet otoritesini ülkenin en uç köşesine yayar."
+  },
+  {
+    "id": "tarih7-q5",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Türklerin İslamiyet'i kabul etmelerinden sonra, ilk Türk-İslam devletlerinde;\nI. Sanat\nII. Kut\nIII. Vergi\nIV. Veraset\nalanlarından hangilerinde bir değişim olmamıştır?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız IV"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve IV"
+      },
+      {
+        "key": "E",
+        "text": "II, III ve IV"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve IV - Kut ve Veraset)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>II. Kut Anlayışı:</strong> 'Devleti yönetme yetkisinin Tanrı/Allah tarafından verilmesi' inancı İslamiyet öncesinden Türk-İslam devletlerine aynen aktarılmıştır.<br>• <strong>IV. Veraset Sistemi:</strong> 'Ülke hükümdar ve hanedanın ortak malıdır' kuralı devam etmiş, taht kavgaları engellenememiştir.<br><br>❌ <strong>Değişime Uğrayan Alanlar:</strong><br>• I. Sanat: İslam ile birlikte hat, tezhip, minyatür, çini ve cami mimarisi gibi yeni formlar girmiştir.<br>• III. Vergi: Şer'i vergiler (öşür, haraç, cizye, zekat) uygulanmaya başlanmıştır."
+  },
+  {
+    "id": "tarih7-q6",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Büyük Selçuklu Devleti'nde ağır siyasi suçların görüşülüp karara bağlandığı divan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divan-ı Tuğra"
+      },
+      {
+        "key": "B",
+        "text": "Divan-ı Arz"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı Mezalim"
+      },
+      {
+        "key": "D",
+        "text": "Divan-ı İstifâ"
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı İşrâf"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Divan-ı Mezalim)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Divan-ı Mezalim:</strong> Doğrudan <strong>hükümdarın başkanlık ettiği</strong> en yüksek yargı organıdır. Ağır siyasi suçlar, devlete ve sultana karşı isyanlar, halkın devlet adamlarından olan şikayetleri ve kadı kararlarına yapılan itirazlar burada karara bağlanır.<br><br>❌ <strong>Diğer Divanlar:</strong><br>• A) Tuğra: Yazışmalar.<br>• B) Arz: Askeriye.<br>• D) İstifâ: Maliye.<br>• E) İşrâf: İdari denetim."
+  },
+  {
+    "id": "tarih7-q7",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Büyük Selçuklu Devleti'nde mali işlere bakan divan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divan-ı Arz"
+      },
+      {
+        "key": "B",
+        "text": "Meşveret Meclisi"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı İstifâ"
+      },
+      {
+        "key": "D",
+        "text": "Divan-ı Pervâne"
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı İşrâf"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Divan-ı İstifâ)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Divan-ı İstifâ:</strong> Devletin bütçesini, hazinesini, vergi gelirlerini ve devlet harcamalarını yöneten maliye divanıdır. Başkanına <strong>Müstevfî</strong> adı verilir.<br><br>❌ <strong>Çeldirici Seçenekler:</strong><br>• A) Divan-ı Arz: Ordu işleri.<br>• B) Meşveret Meclisi: Devlet meselelerinin istişare edildiği danışma meclisi.<br>• D) Divan-ı Pervâne: Türkiye Selçuklularında ikta arazilerini dağıtan divan.<br>• E) Divan-ı İşrâf: İdari-mali teftiş divanı."
+  },
+  {
+    "id": "tarih7-q8",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Aşağıdakilerden hangisi Türk-İslam devletlerinde görülen bağımsızlık sembollerinden değildir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hutbe okutmak"
+      },
+      {
+        "key": "B",
+        "text": "Menşur almak"
+      },
+      {
+        "key": "C",
+        "text": "Nevbet çaldırmak"
+      },
+      {
+        "key": "D",
+        "text": "Para bastırmak"
+      },
+      {
+        "key": "E",
+        "text": "Fetva vermek"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Fetva vermek)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Fetva Vermek:</strong> Yapılan bir işin veya kanunun İslam dinine uygun olup olmadığına dair din adamları (müftüler, şeyhülislamlar veya fakihler) tarafından verilen dini görüştür; hükümdarlık ve devlet bağımsızlık alameti değildir.<br><br>✔️ <strong>Hükümdarlık ve Bağımsızlık Sembolleri:</strong><br>• A) Hutbe okutmak: Cuma namazında hükümdarın adını zikretmek.<br>• B) Menşur almak: Abbasi halifesinden hükümdarlık onay belgesi almak.<br>• C) Nevbet çaldırmak: Saltanat davulu/müziği çaldırmak.<br>• D) Para bastırmak (Sikke): Hükümdar adına altın/gümüş para basmak."
+  },
+  {
+    "id": "tarih7-q9",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "I. Bedesten\nII. Bimarhane\nIII. Kervansaray\n\nYukarıdakilerden hangileri Türk-İslam devletlerinde iktisadi yaşam ile ilgili eserler arasında yer alır?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve III - Bedesten ve Kervansaray)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>I. Bedesten:</strong> Kıymetli eşyaların, mücevherlerin ve kumaşların satıldığı kapalı ticaret merkezidir (İktisadi).<br>• <strong>III. Kervansaray:</strong> Ticaret yolları üzerindeki tüccarların konaklama ve güvenlik merkezidir (İktisadi).<br><br>❌ <strong>II. Bimarhane:</strong> Akıl ve ruh sağlığı dahil olmak üzere hastaların tedavi edildiği <strong>hastanelerdir</strong> (Sağlık / Sosyal)."
+  },
+  {
+    "id": "tarih7-q10",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "I. Darüşşifalar\nII. İmarethaneler\nIII. Medreseler\n\nYukarıdakilerden hangileri Türk-İslam devletlerinde 'sosyal devlet' anlayışının benimsendiğine kanıt olarak gösterilebilir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>Sosyal devlet; vatandaşlarının sağlık, beslenme, barınma ve eğitim ihtiyaçlarını ücretsiz veya vakıflar aracılığıyla karşılayan devlettir:<br>• <strong>I. Darüşşifalar:</strong> Hastalara ücretsiz sağlık ve tedavi hizmeti sunar.<br>• <strong>II. İmarethaneler:</strong> Yoksullara, yolculara ve öğrencilere ücretsiz sıcak yemek dağıtır.<br>• <strong>III. Medreseler:</strong> Öğrencilere ücretsiz eğitim, barınma ve burs imkânı sağlar.<br><br>➡️ Üç kurum da sosyal devlet anlayışının somut örnekleridir."
+  },
+  {
+    "id": "tarih7-q11",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Çoğunlukla eski yazma kitaplarda görülen; ışık, gölge ve hacim duygusu yansıtılmayan küçük renkli resim sanatına ne ad verilir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Minyatür"
+      },
+      {
+        "key": "B",
+        "text": "Gravür"
+      },
+      {
+        "key": "C",
+        "text": "Hat"
+      },
+      {
+        "key": "D",
+        "text": "Ebru"
+      },
+      {
+        "key": "E",
+        "text": "Tezhip"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Minyatür)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Minyatür:</strong> El yazması eserlerde olayları tasvir eden, derinlik, ışık ve gölge kaygısı güdülmeyen, figürlerin önem derecesine göre büyük ya da küçük çizildiği geleneksel kitap resim sanatıdır. Bu sanatla uğraşanlara <em>Nakkaş</em> veya <em>Musavvir</em> denir.<br><br>❌ <strong>Diğer Sanatlar:</strong><br>• B) Gravür: Metal veya ahşap oyma baskı sanatı.<br>• C) Hat: Güzel yazı yazma sanatı.<br>• D) Ebru: Su üzerine boyalarla yapılan kâğıt süsleme sanatı.<br>• E) Tezhip: Altın tozu ve boyalarla yapılan kitap süsleme sanatı."
+  },
+  {
+    "id": "tarih7-q12",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "I. Dini-iktisadi bir özellik taşır.\nII. Fiyat ve kalite kontrolü (narh) yapar.\nIII. Anadolu'daki kurucusu Şeyh Edebali'dir.\n\nSelçuklularda sosyal hayatın temelinde bulunan Ahi teşkilatının özellikleri arasında yukarıdakilerden hangileri yer almaz?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız III)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>III. Öncül YANLIŞTIR:</strong> Ahilik teşkilatının Anadolu'daki kurucusu Kırşehir merkezli teşkilatlanan <strong>Ahi Evran</strong>'dır. (Şeyh Edebali ise Osmanlı'nın kuruluş döneminde etkili olan önemli bir Ahi şeyhidir).<br><br>✔️ <strong>Ahiliğin Doğru Özellikleri:</strong><br>• I. Dini, ahlaki ve iktisadi eğitimi bir arada verir (Fütüvvet geleneği).<br>• II. Üretilen malların kalitesini kontrol eder ve tavan fiyat (narh) uygular."
+  },
+  {
+    "id": "tarih7-q13",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "Anadolu'daki kervansaraylar daha çok aşağıdaki alanlardan hangisine hizmet etmiştir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ordu"
+      },
+      {
+        "key": "B",
+        "text": "Sanat"
+      },
+      {
+        "key": "C",
+        "text": "Hukuk"
+      },
+      {
+        "key": "D",
+        "text": "Ticaret"
+      },
+      {
+        "key": "E",
+        "text": "Tarım"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ticaret)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Türkiye Selçuklu Devleti döneminde İpek ve Baharat Yolları üzerinde inşa edilen kervansaraylar (hanlar); yerli ve yabancı tüccarların 3 gün boyunca ücretsiz konakladığı, mallarının sigortalandığı ve ticari hayatın canlandırıldığı <strong>uluslararası ticaret</strong> yapılarıdır."
+  },
+  {
+    "id": "tarih7-q14",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "'Gel, gel, ne olursan ol yine gel! Kâfirsen, ateşe tapsan, puta tapsan yine gel! Bizim dergâhımız ümitsizlik dergâhı değildir, yüz kere tövbeni bozmuş olsan da yine gel!' sözüyle hoşgörüsünü ve insan sevgisini yansıtan Anadolu Selçuklu Devleti Dönemi ünlü düşünürü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yunus Emre"
+      },
+      {
+        "key": "B",
+        "text": "Mevlânâ Celâleddîn-i Rûmî"
+      },
+      {
+        "key": "C",
+        "text": "Hacı Bektâş-ı Velî"
+      },
+      {
+        "key": "D",
+        "text": "Fârâbî"
+      },
+      {
+        "key": "E",
+        "text": "Gazzâlî"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Mevlânâ Celâleddîn-i Rûmî)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• XIII. yüzyılda Konya'da yaşayan, evrensel insan sevgisi ve hoşgörüsüyle tanınan, <em>Mesnevî</em> ve <em>Dîvân-ı Kebîr</em> eserlerinin müellifi ünlü mutasavvıf <strong>Mevlânâ Celâleddîn-i Rûmî</strong>'dir."
+  },
+  {
+    "id": "tarih7-q15",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "I. İkta askerleri\nII. Donanma\nIII. Gulam askerleri\n\nYukarıdaki alanlardan hangilerinde Büyük Selçuklu ordusu ile Anadolu Selçuklu ordusu önemli farklılıklar göstermiştir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II - Donanma)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Büyük Selçuklu Devleti:</strong> Karasal bir imparatorluk olduğu ve açık deniz kıyılarında limanları bulunmadığı için donanması yoktur.<br>• <strong>Türkiye (Anadolu) Selçuklu Devleti:</strong> Sinop, Alanya, Antalya ve Sudak gibi stratejik limanları fethederek tersaneler kurmuş ve güçlü bir <strong>donanmaya (Reisü'l-Bahr / Melikü's-Sevahil)</strong> sahip olmuştur.<br>• İkta ve Gulam sistemleri ise her iki devlette de ortak askeri unsurlardır."
+  },
+  {
+    "id": "tarih7-q16",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "I. Emîr-i Dâd - Örfi davalara bakan kişi\nII. Kadıasker (Kadıleşker) - Askeri davalara bakan kişi\nIII. Muhtesip - Çarşı ve pazarı denetleyen kişi\n\nYukarıdaki eşleştirmelerden hangileri doğrudur?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "II ve III"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>I. Emîr-i Dâd:</strong> Örfi hukukun başıdır; örfi davalara bakar ve adaleti tesis eder.<br>• <strong>II. Kadıasker (Kadıleşker):</strong> Ordu mensuplarının ve askerlerin davalarına bakar.<br>• <strong>III. Muhtesip:</strong> Çarşı, pazar, tartı-ölçü aletleri ve narh denetimini yürüten belediye zabıtası işlevindeki görevlidir.<br><br>➡️ Eşleştirmelerin üçü de doğrudur."
+  },
+  {
+    "id": "tarih7-q17",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "I. Vakıf\nII. İkta\nIII. Mülk\n\nYukarıdaki topraklardan hangileri mîrî arazinin kapsamına girerek gelirlerinin bir kısmıyla atlı asker yetiştirilirdi?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II - İkta)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>İkta Arazisi:</strong> Mülkiyeti devlete ait olan ve gelirleri hizmet karşılığı komutanlara, memurlara bırakılan topraktır. İkta sahibi gelirinin bir kısmıyla devlete savaşa hazır atlı asker (sipahi) yetiştirmek zorundadır.<br>• <strong>Vakıf:</strong> Geliri hayır işlerine ve kamu hizmetlerine ayrılır; asker yetiştirilmez.<br>• <strong>Mülk:</strong> Kişilerin şahsi mülküdür; alınıp satılabilir, miras bırakılabilir; asker yetiştirme zorunluluğu yoktur."
+  },
+  {
+    "id": "tarih7-q18",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Büyük Selçuklulardaki Gulâmân-ı Saray askerleri ile ilgili aşağıda verilen bilgilerden hangisi doğru değildir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Farklı milletlerden ve savaş esirlerinden oluşurlar."
+      },
+      {
+        "key": "B",
+        "text": "Her üç ayda bir bistegâni denilen maaş alırlar."
+      },
+      {
+        "key": "C",
+        "text": "Doğrudan sultana bağlıdırlar."
+      },
+      {
+        "key": "D",
+        "text": "Osmanlı'daki karşılığı Kapıkulu askerleridir."
+      },
+      {
+        "key": "E",
+        "text": "Ordunun en kalabalık kısmını oluştururlar."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ordunun en kalabalık kısmını oluştururlar)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Selçuklu ordusunun en kalabalık kısmını Gulâmân-ı Saray değil, taşrada ikta topraklarının gelirleriyle beslenen <strong>İkta Askerleri (Sipahiler)</strong> ile Türkmen birlikleri oluşturur. Gulâmân-ı Saray ise sarayda sultanı koruyan çekirdek ve az sayıdaki maaşlı merkez birliğidir.<br><br>✔️ <strong>Diğer Seçeneklerin Doğruluğu:</strong><br>• Gulam sistemiyle farklı etnik kökenlerden yetiştirilirler (A), yılda 4 kez üç ayda bir 'bistegâni' maaşı alırlar (B), sultana bağlıdırlar (C) ve Osmanlı'daki Kapıkulu Ocağı'nın temelidir (D)."
+  },
+  {
+    "id": "tarih7-q19",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Türkiye Selçuklu Devleti Dönemi'nde kurumsallaşarak sosyal yardımlaşma ve dayanışmada çok etkili bir kurum haline gelen, Abbasilerdeki fütüvvet teşkilatının devamı olan sosyal ve ekonomik oluşum aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Vakıf"
+      },
+      {
+        "key": "B",
+        "text": "Ahilik"
+      },
+      {
+        "key": "C",
+        "text": "Tekke"
+      },
+      {
+        "key": "D",
+        "text": "Kervansaray"
+      },
+      {
+        "key": "E",
+        "text": "Bedesten"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ahilik)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Abbasiler dönemindeki dini ve ahlaki <em>fütüvvet</em> teşkilatının Anadolu şartlarında iktisadi, mesleki ve sosyal bir esnaf teşkilatına dönüştürülmüş hâli <strong>Ahilik Teşkilatı</strong>'dır (Kurucusu Ahi Evran)."
+  },
+  {
+    "id": "tarih7-q20",
+    "testId": "tarih7",
+    "testTitle": "Genel Tarih Video Tarama Testi 7 (Türk-İslam Tarihi)",
+    "topicId": "tarih_tarama_7",
+    "topicName": "Genel Tarih Video Tarama 7",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Türklerin İslam inancını kabul ettikten sonra yaşamlarında meydana gelen değişiklikler arasında aşağıdakilerden hangisi gösterilemez?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Savaşçılık özelliklerinin kaybedilmesi"
+      },
+      {
+        "key": "B",
+        "text": "Yerleşik devlet kültürünün gelişmesi"
+      },
+      {
+        "key": "C",
+        "text": "Arapça ve Farsça isimlerin yaygınlaşması"
+      },
+      {
+        "key": "D",
+        "text": "Şer'i hukuk kurallarının görülmesi"
+      },
+      {
+        "key": "E",
+        "text": "Dini mimarinin gelişmesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Savaşçılık özelliklerinin kaybedilmesi)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Türkler İslamiyet'i kabul ettikten sonra savaşçılık özelliklerini <strong>kaybetmemiş</strong>; aksine 'Cihat ve Gaza' anlayışıyla bu dinamizm daha da pekişmiş ve İslam dünyasının koruyuculuğu ve liderliği Türk devletleri tarafından üstlenilmiştir."
+  },
+  {
+    "id": "tarih8-q1",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "İlk örneklerini Karahanlıların Ribat olarak verdikleri, tüccar kafilelerinin yolculuklarının emniyet içinde gerçekleşmesini sağlayan, savaş zamanında da kale görevini gören kuruluş aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kervansaray"
+      },
+      {
+        "key": "B",
+        "text": "İmaret"
+      },
+      {
+        "key": "C",
+        "text": "Vakıf"
+      },
+      {
+        "key": "D",
+        "text": "Bedesten"
+      },
+      {
+        "key": "E",
+        "text": "Kapanhanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kervansaray)<br><br>🎯 <strong>Doğru Cevabın Analizi (5. Ders Anlatımı):</strong><br>• Karahanlılar tarafından sınır güvenliği amacıyla kurulan <strong>Ribatlar</strong>, ticaret yollarının güvenliğini sağlamış ve zamanla <strong>Kervansaray</strong> mimarisinin ilk örnekleri hâline gelmiştir. Barışta tüccarlara konaklama ve emniyet sağlarken savaşta askerî üs (kale) görevi görmüştür.<br><br>❌ <strong>Çeldirici Kurumlar:</strong><br>• B) İmaret: Yoksullara ve öğrencilere ücretsiz yemek dağıtılan aşevidir.<br>• C) Vakıf: Kamu hizmetlerini finanse eden hayri sistemdir.<br>• D) Bedesten: Değerli eşyaların satıldığı kapalı çarşıdır.<br>• E) Kapanhanı: Tek cins toptan malın satıldığı toptancı halidir."
+  },
+  {
+    "id": "tarih8-q2",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Büyük Selçuklularda şehzadelerin (meliklerin) eğitim ve yönetim konusunda tecrübe kazanmalarından sorumlu olan devlet görevlisi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ataman"
+      },
+      {
+        "key": "B",
+        "text": "İnal"
+      },
+      {
+        "key": "C",
+        "text": "Lala"
+      },
+      {
+        "key": "D",
+        "text": "Atabey"
+      },
+      {
+        "key": "E",
+        "text": "Şıhne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Atabey)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Atabey:</strong> Selçuklularda eyaletlere vali olarak gönderilen meliklerin (şehzadelerin) yanına verilen tecrübeli devlet adamı ve eğitmendir.<br><br>❌ <strong>Dönem Karşılaştırması:</strong><br>• A ve B) Ataman / İnal: İslamiyet öncesi Türk devletlerindeki şehzade eğitmeni.<br>• C) Lala: Osmanlı Devleti'ndeki şehzade eğitmeni.<br>• E) Şıhne: Taşradaki askerî vali."
+  },
+  {
+    "id": "tarih8-q3",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisi Türk-İslam devletlerinde divanda görev yapan görevlilerden birisi değildir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Müstevfî"
+      },
+      {
+        "key": "B",
+        "text": "Müşrif"
+      },
+      {
+        "key": "C",
+        "text": "Pervâneci"
+      },
+      {
+        "key": "D",
+        "text": "Tuğraî"
+      },
+      {
+        "key": "E",
+        "text": "Şıhne"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Şıhne)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Şıhne:</strong> Selçuklularda eyalet ve vilayetlerde asayişi sağlayan <strong>taşra askerî valisidir</strong>; merkezdeki Divan-ı Saltanat üyesi değildir.<br><br>✔️ <strong>Divan Üyeleri:</strong><br>• A) Müstevfî: Maliye divanı (İstifâ) başkanı.<br>• B) Müşrif: İdari denetim divanı (İşrâf) başkanı.<br>• C) Pervâneci: Arazi kayıt ve ikta dağıtım divanı başkanı.<br>• D) Tuğraî: Yazışma divanı (Tuğra/İnşâ) başkanı."
+  },
+  {
+    "id": "tarih8-q4",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "Mülkiyeti devlete, vergisi sipahiye, işletme görevi de köylüye ait olan toprak aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mülk"
+      },
+      {
+        "key": "B",
+        "text": "Vakıf"
+      },
+      {
+        "key": "C",
+        "text": "İkta"
+      },
+      {
+        "key": "D",
+        "text": "Haraciye"
+      },
+      {
+        "key": "E",
+        "text": "Öşriye"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (İkta)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>İkta Sistemi:</strong> Mülkiyeti devlete ait olan arazilerin tasarruf hakkının köylüye, vergi toplama ve asker besleme hakkının ise hizmet karşılığı devlet görevlisine (sipahiye) bırakıldığı mîrî arazi türüdür.<br><br>❌ <strong>Diğer Toprak Türleri:</strong><br>• A) Mülk: Şahıslara ait araziler.<br>• B) Vakıf: Kamu yararına ayrılan araziler.<br>• D ve E) Haraciye / Öşriye: Gayrimüslim ve Müslüman mülk sahiplerinin arazileri."
+  },
+  {
+    "id": "tarih8-q5",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi Türk-İslam devletlerinde sultanlar tahta çıktıklarında halifenin sultana gönderdikleri alametlerden olan, tahta çıkan kişinin halife tarafından onaylandığı ve kendi adına meşru olarak hüküm sürebileceği anlamına gelen onay belgesidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hilat"
+      },
+      {
+        "key": "B",
+        "text": "Tıraz"
+      },
+      {
+        "key": "C",
+        "text": "Çetr"
+      },
+      {
+        "key": "D",
+        "text": "Asa"
+      },
+      {
+        "key": "E",
+        "text": "Menşur"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Menşur)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Menşur:</strong> Abbasi halifesinin, yeni tahta çıkan Türk-İslam hükümdarına gönderdiği resmî <strong>onay ve meşruiyet belgesidir</strong>.<br><br>❌ <strong>Diğer Alametler:</strong><br>• A) Hilat: Halifenin hükümdara hediye ettiği kıymetli kaftan/giysi.<br>• B) Tıraz: Üzerinde halifenin veya hükümdarın adı yazılı süslü elbise.<br>• C) Çetr: Saltanat şemsiyesi.<br>• D) Asa: Hükümdarlık bastonu."
+  },
+  {
+    "id": "tarih8-q6",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Türk-İslam devletlerinde saray teşkilatında hükümdarın gerek resmî gerekse özel işlerini yürüten görevliler bulunmaktadır.\n\nAşağıdaki saray görevlileri ve görevleri eşleştirmelerinden hangisi yanlış verilmiştir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hâcibü'l-Hüccâb - Hükümdarın halk ve elçilerle ilişkilerini düzenler."
+      },
+      {
+        "key": "B",
+        "text": "Taştdâr (Âbdâr) - Hükümdarın temizlik işlerinden ve leğen-ibrik hizmetinden sorumludur."
+      },
+      {
+        "key": "C",
+        "text": "Serhenk - Sultana ait kuvvetlerin önünde giderek korteje yol açar."
+      },
+      {
+        "key": "D",
+        "text": "Câmedâr - Hükümdarın elbiseleri ve giyimiyle ilgilenir."
+      },
+      {
+        "key": "E",
+        "text": "Emîr-i Candâr - Hükümdara karşı suç işleyenleri yargılayıp cezalandırır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Emîr-i Candâr - Hükümdara karşı suç işleyenleri yargılayıp cezalandırır)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Emîr-i Candâr:</strong> Sarayın ve hükümdarın can güvenliğinden sorumlu olan <strong>muhafız birliğinin komutanıdır</strong>. Yargılama ve cezalandırma görevi adli makamlara (Kadılar / Emîr-i Dâd / Divan-ı Mezalim) aittir.<br><br>✔️ Diğer eşleştirmelerin tamamı doğrudur."
+  },
+  {
+    "id": "tarih8-q7",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Türk-İslam devletlerinde var olan idareciler ve görevleri ile ilgili aşağıda verilen eşleştirmelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Şıhne - Suçluları yargılamak"
+      },
+      {
+        "key": "B",
+        "text": "Pervâneci - Fethedilen arazileri ve iktaları kaydetmek/dağıtmak"
+      },
+      {
+        "key": "C",
+        "text": "Hâcip - Halk ile hükümdarın ilişkilerini düzenlemek"
+      },
+      {
+        "key": "D",
+        "text": "Âmil - Taşrada mali işleri yürütmek ve vergi toplamak"
+      },
+      {
+        "key": "E",
+        "text": "Sâhibü'ş-Şurta - Taşrada emniyet ve zabıta işlerini yürütmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Şıhne - Suçluları yargılamak)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Şıhne:</strong> Eyaletlerdeki asayiş ve güvenliği sağlayan askerî validir. Suçluları yargılama ve hukuk işleri kesinlikle <strong>Kadı</strong> tarafından yerine getirilir.<br><br>✔️ Diğer seçenekler görevleriyle doğru eşleştirilmiştir."
+  },
+  {
+    "id": "tarih8-q8",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Türkiye Selçukluları hükümdarlarının kullandıkları;\nI. Keykubad\nII. Keyhüsrev\nIII. Keykavus\nunvanlarından hangilerinde Fars (İran) kültürünün etkisi vardır?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Analizi (5. Ders Anlatımı):</strong><br>• Türkiye Selçuklu Devleti hükümdarları Fars mitolojisi ve edebiyatından (özellikle Firdevsi'nin Şehname'sinden) etkilenerek <strong>Keykubad, Keyhüsrev ve Keykavus</strong> unvanlarını yaygın olarak kullanmışlardır. Bu durum İran/Fars kültürünün saray ve devlet geleneğindeki derin etkisini gösterir."
+  },
+  {
+    "id": "tarih8-q9",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Türk-İslam devletlerinde geliri kamu yararına ve hayır kurumlarına ayrılan topraklar aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Haraciye"
+      },
+      {
+        "key": "B",
+        "text": "İkta"
+      },
+      {
+        "key": "C",
+        "text": "Mülk"
+      },
+      {
+        "key": "D",
+        "text": "Has"
+      },
+      {
+        "key": "E",
+        "text": "Vakıf"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Vakıf)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Vakıf Arazisi:</strong> Gelirleri cami, medrese, darüşşifa, kütüphane, kervansaray gibi dini, ilmi ve sosyal kurumların giderlerine ayrılan; alınıp satılamayan ve miras bırakılamayan arazilerdir."
+  },
+  {
+    "id": "tarih8-q10",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Türk-İslam devletlerinde Vezir Nizamülmülk tarafından sistemleştirilen ikta sisteminin devlete sağladığı faydalar arasında aşağıdakilerden hangisi gösterilemez?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Taşrada devlet otoritesi sağlanır."
+      },
+      {
+        "key": "B",
+        "text": "Vergilerin toplanması kolaylaşır."
+      },
+      {
+        "key": "C",
+        "text": "Üretimin sürekliliği güvenceye alınır."
+      },
+      {
+        "key": "D",
+        "text": "İltizam sisteminin uygulanması kolaylaşır."
+      },
+      {
+        "key": "E",
+        "text": "Devlet hazineden para harcamadan ordu sahibi olur."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (İltizam sisteminin uygulanması kolaylaşır)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• İltizam sistemi, devlet gelirlerinin açık artırma ile peşin para karşılığı mültezimlere devredilmesidir ve Osmanlı'da sıcak para ihtiyacıyla yaygınlaşmıştır. İkta sistemi ile iltizamın hiçbir ilgisi yoktur; aksine ikta ayni ve doğrudan tarımsal-askerî bir teşkilattır."
+  },
+  {
+    "id": "tarih8-q11",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Türkiye Selçuklularında merkeze bağlı önemli vilayetlerde görev yapan askerî valilere verilen isim aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Şıhne"
+      },
+      {
+        "key": "B",
+        "text": "Ulak"
+      },
+      {
+        "key": "C",
+        "text": "Pervâne"
+      },
+      {
+        "key": "D",
+        "text": "Şad"
+      },
+      {
+        "key": "E",
+        "text": "İğdişbaşı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Şıhne)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Şıhne:</strong> Selçuklu vilayetlerinde asayiş ve düzeni sağlayan, askerî idareyi yürüten askerî valilere verilen unvandır.<br><br>❌ <strong>Diğer Kavramlar:</strong><br>• B) Ulak: Posta ve haberleşme görevlisi.<br>• C) Pervâne: Arazi kayıtlarını tutan divan başkanı.<br>• D) Şad: İslamiyet öncesi hanedan üyesi ordu komutanı/vali.<br>• E) İğdişbaşı: Kentlerde halk ile yönetim arasındaki ilişkileri yürüten belediye/esnaf temsilcisi."
+  },
+  {
+    "id": "tarih8-q12",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "İlk Türk-İslam devletlerinde posta ve haberleşme işleriyle uğraşan divan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divan-ı Mezalim"
+      },
+      {
+        "key": "B",
+        "text": "Divan-ı Arz"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı İnşâ"
+      },
+      {
+        "key": "D",
+        "text": "Divan-ı Pervâne"
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı Berîd"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Divan-ı Berîd)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Divan-ı Berîd:</strong> Ülke genelindeki resmî haberleşmeyi, posta iletimini ve aynı zamanda gizli istihbarat faaliyetlerini yürüten teşkilattır."
+  },
+  {
+    "id": "tarih8-q13",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "Aşağıdaki Türk-İslam şehirlerinden hangisi 'İslam'ın Roması' (veya Kubbetü'l-İslam) olarak adlandırılmıştır?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Buhara"
+      },
+      {
+        "key": "B",
+        "text": "Semerkant"
+      },
+      {
+        "key": "C",
+        "text": "Ahlat"
+      },
+      {
+        "key": "D",
+        "text": "Merv"
+      },
+      {
+        "key": "E",
+        "text": "Bağdat"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Buhara)<br><br>🎯 <strong>Doğru Cevabın Analizi (Şehirlerin Unvanları):</strong><br>• <strong>Buhara:</strong> 'İslam'ın Roması' ve 'Kubbetü'l-İslam' (İslam'ın Kubbesi) olarak anılmıştır.<br>• <strong>Semerkant:</strong> 'Şehirlerin Şahı' unvanıyla bilinir.<br>• <strong>Ahlat:</strong> Anadolu'daki 'Kubbetü'l-İslam' unvanlı şehirdir.<br>• <strong>Kaşgar:</strong> 'Işıldayan İnci' olarak bilinir."
+  },
+  {
+    "id": "tarih8-q14",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "XIII. yüzyılda Anadolu'da Ahi Evran tarafından kurulan; Konya, Kayseri, Kırşehir bölgelerinde faaliyet gösteren ve esnaf birliği olan Ahilik Teşkilatının görevleri arasında aşağıdakilerden hangisi gösterilemez?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Üretici ve tüketici haklarını korumak"
+      },
+      {
+        "key": "B",
+        "text": "Malların kalite kontrolünü yapmak"
+      },
+      {
+        "key": "C",
+        "text": "Devlet adına halktan vergi toplamak"
+      },
+      {
+        "key": "D",
+        "text": "Gedik hakkı (iş yeri açma ruhsatı) tanımak"
+      },
+      {
+        "key": "E",
+        "text": "Narh kesmek (fiyat belirlemek)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Devlet adına halktan vergi toplamak)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Ahilik teşkilatı bir sivil toplum ve esnaf meslek örgütüdür. Vergi toplama yetkisi münhasıran <strong>devlet organlarına (Âmil / Divan-ı İstifâ)</strong> aittir; lonca ve ahilerin halktan vergi toplama görevi yoktur."
+  },
+  {
+    "id": "tarih8-q15",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "Karahanlılar ve Selçuklularda aşağıdakilerden hangisi Sultan ile Divan-ı Saltanat arasındaki ilişkileri sürdüren ve güvenilir kişilerden seçilen üst düzey saray görevlisidir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hâs Hâcip (Hâcibü'l-Hüccâb)"
+      },
+      {
+        "key": "B",
+        "text": "Vezir"
+      },
+      {
+        "key": "C",
+        "text": "İğdişbaşı"
+      },
+      {
+        "key": "D",
+        "text": "Müstevfî"
+      },
+      {
+        "key": "E",
+        "text": "Câmedâr"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hâs Hâcip / Hâcibü'l-Hüccâb)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• <strong>Hâs Hâcip:</strong> Saray teşkilatının en yetkili amiri olup sultan ile halk, vezir ve divan üyeleri arasındaki iletişimi ve protokolü sağlayan en güvenilir saray görevlisidir (Yusuf Has Hacib bu unvana sahiptir)."
+  },
+  {
+    "id": "tarih8-q16",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "Aşağıdakilerden hangisi 'ikta' uygulamasının faydalarından biri değildir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tarımsal üretimde sürekliliği sağlaması"
+      },
+      {
+        "key": "B",
+        "text": "Taşrada asayiş ve devlet otoritesini sağlaması"
+      },
+      {
+        "key": "C",
+        "text": "Yargılamanın yerinde ve bağımsız yapılmasını sağlaması"
+      },
+      {
+        "key": "D",
+        "text": "Toprağın şahısların mülkü haline gelmesini ve feodalleşmeyi önlemesi"
+      },
+      {
+        "key": "E",
+        "text": "Hazineden para çıkmadan savaşa hazır ordu ihtiyacını karşılaması"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yargılamanın yerinde ve bağımsız yapılmasını sağlaması)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Yargılama işleri ikta sahiplerine değil, bağımsız hareket eden ve doğrudan devlete bağlı <strong>Kadılara</strong> aittir. İkta sahiplerinin kesinlikle yargılama veya ceza verme yetkisi yoktur."
+  },
+  {
+    "id": "tarih8-q17",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "İslami kimlik kazanılmasıyla Türklerin aşağıdaki alanlardan hangisinde köklü bir değişim yaşadıkları söylenemez?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hukuk"
+      },
+      {
+        "key": "B",
+        "text": "Ordu"
+      },
+      {
+        "key": "C",
+        "text": "Egemenlik ve veraset anlayışı"
+      },
+      {
+        "key": "D",
+        "text": "Sanat"
+      },
+      {
+        "key": "E",
+        "text": "Mimari"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Egemenlik ve veraset anlayışı)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Türkler İslamiyet'i kabul ettikten sonra egemenliğin kaynağı olarak 'Kut' inancı ve 'ülkenin hanedan üyelerinin ortak malı olması' anlayışı aynen sürmüştür. Hukukta (şer'i hukuk), sanatta (hat/tezhip), mimaride (cami/medrese) ve orduda (gulam sistemi) köklü değişimler yaşanırken veraset ve egemenlik anlayışı değişmemiştir."
+  },
+  {
+    "id": "tarih8-q18",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Aşağıdaki Türk-İslam devletlerinin hangisinde veraset kuralı uygulanmamış; her güçlü emîrin veya başarılı komutanın sultan olma hakkı bulunmuştur?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Karahanlılar"
+      },
+      {
+        "key": "B",
+        "text": "Büyük Selçuklular"
+      },
+      {
+        "key": "C",
+        "text": "Memlükler"
+      },
+      {
+        "key": "D",
+        "text": "Gazneliler"
+      },
+      {
+        "key": "E",
+        "text": "İhşîdîler"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Memlükler)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Memlüklerde (Kölemenler) geleneksel Türk veraset sistemi (babadan oğula geçiş) uygulanmamış; <strong>'Her güçlü komutanın sultan olma hakkı vardır'</strong> ilkesi geçerli olmuştur. Bu nedenle Memlüklerde sık sık hükümdar değişikliği yaşanmıştır."
+  },
+  {
+    "id": "tarih8-q19",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Büyük Selçuklularda;\nI. Eyalet (İkta) Askerleri\nII. Gulâmân-ı Saray\nIII. Hassa Ordusu\nbirliklerinden hangilerine doğrudan devlet hazinesinden maaş (bistegâni) ödemesi yapılmıştır?\n\n(Not: 2027 yeni MEB müfredatına göre)",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (II ve III - Gulâmân-ı Saray ve Hassa Ordusu)<br><br>🎯 <strong>Doğru Cevabın Analizi (2027 MEB Müfredat Notu):</strong><br>• 2027 yeni MEB Türk Kültür ve Medeniyeti ders kitabında netleştirildiği üzere: Selçuklu merkez ordusunda yer alan <strong>Gulâmân-ı Saray</strong> ve <strong>Hassa Ordusu</strong> doğrudan devlete bağlı olup üç ayda bir <em>bistegâni</em> adıyla nakit maaş alırlar.<br>• Eyalet (İkta) askerleri ise hazineden maaş almaz; ikta topraklarının gelirleriyle geçinirler."
+  },
+  {
+    "id": "tarih8-q20",
+    "testId": "tarih8",
+    "testTitle": "Genel Tarih Video Tarama Testi 8 (Türk-İslam Kültürü)",
+    "topicId": "tarih_tarama_8",
+    "topicName": "Genel Tarih Video Tarama 8",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Büyük Selçuklu ordusunun oluşmasında;\nI. İkta\nII. Vakıf\nIII. Lonca\nsistemlerinden hangilerinin doğrudan etkili olduğu söylenebilir?",
+    "hasImage": false,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I - İkta)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Selçuklu ordusunun en kalabalık bölümü olan atlı sipahiler <strong>İkta sistemi</strong> sayesinde yetiştirilir.<br>• <strong>Vakıf:</strong> Sosyal, hayri ve dini hizmet kurumudur; asker yetiştirmez.<br>• <strong>Lonca (Ahilik):</strong> Esnaf ve zanaatkâr meslek örgütüdür; ordu teşkilatı ile doğrudan ilgisi yoktur."
   }
 ];
