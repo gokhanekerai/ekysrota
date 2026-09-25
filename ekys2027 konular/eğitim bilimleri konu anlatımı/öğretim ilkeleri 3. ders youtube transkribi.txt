@@ -1,0 +1,119 @@
+İyi akşamlar değerli meslektaşlarım. Bu dersimizde Eğitim Bilimleri ve sınav hazırlık sürecimizin en stratejik alanlarından biri olan **Öğretim Yöntem ve Teknikleri (ÖYT)** modülünü ele alıyoruz.
+
+ÖYT; öğretim ilkeleri, düşünme becerileri, öğretim stratejileri, öğretim modelleri, yöntemleri ve teknikleri olmak üzere altı ana sacayağı üzerine kuruludur. Bugün bu yapının ilk dört başlığını hem kuramsal temelleri hem de sınav mantığı doğrultusunda yapılandırarak inceleyeceğiz.
+
+---
+
+### 1. Temel Öğretim İlkeleri
+
+Öğretim ilkeleri; hangi yaklaşım, model veya teknik tercih edilirse edilsin sürecin niteliğini ve öğrenci başarısını güvence altına alan evrensel pedagojik kurallardır.
+
+* **Öğrenciye Uygunluk (Çocuğa Görelik):** Çağdaş eğitimin merkezidir; öğretimin öğrencinin hazırbulunuşluk düzeyine, ilgi ve bireysel öğrenme hızına göre yapılandırılmasıdır. Dersi ortalama bir öğrenci profiline göre işlemek bu ilkeye aykırıdır; öğretim bireyselleştirilmeli ve farklılaştırılmalıdır.
+* **Hayatilik (Yaşama Yakınlık):** İlerlemecilik felsefesinin yansımasıdır. Okulda edinilen bilginin günlük yaşamda işlevsel bir karşılığının bulunması ve hayata transfer edilebilmesidir.
+* **İş / Aktivite (Yaparak Yaşayarak Öğrenme):** Öğrencinin bizzat sürecin içinde yer alması, bilgiyi üreten ve uygulayan konumda olmasıdır. Kalıcılığı en yüksek ilkedir.
+* **Ekonomiklik:** En az zaman, emek ve maliyetle en yüksek verimi ve hedef kazanımını elde etmektir. Planlı hareket etmek bu ilkenin temel şartıdır.
+* **Aktüalite (Güncellik):** Ders içeriğinin ve verilen örneklerin toplumda veya dünyada gerçekleşen güncel olaylarla ilişkilendirilmesidir.
+* **Açıklık (Ayanilik):** İki boyutu bulunur:
+* *Dilsel açıklık:* Öğretmenin anlaşılır, sade ve öğrenci düzeyine uygun bir üslup kullanması.
+* *Duyusal açıklık:* Ne kadar çok duyu organına hitap edilirse öğrenme o derece netleşir; somut materyal ve araç-gereç kullanımıdır.
+
+
+* **Somuttan Soyuta:** Soyut kavramların somut materyaller, modeller veya yaşantılar üzerinden aşamalı olarak kavratılmasıdır. *(Açıklık ile farkı: Açıklıkta zaten var olan somut bir nesne modelle anlaşılır kılınırken; somuttan soyutada amaç doğrudan soyut bir yapıyı somutlaştırmaktır.)*
+* **Bilinenden Bilinmeyene:** Yeni öğrenmelerin öğrencinin mevcut bilişsel şemaları ve ön bilgileri üzerine inşa edilmesidir.
+* **Yakından Uzağa:** İçeriğin öğrencinin yakın çevresinden, yakın yaşantısından ve yakın zaman diliminden uzağa doğru genişlemesidir.
+* **Basitten Karmaşığa:** Öğrenme adımlarının az işlem gerektirenden çok işlem gerektirene doğru hiyerarşik yapılandırılmasıdır.
+* **Sosyallik (Otoriteye İtaat ve Özgürlük):** Bireyin ortak kurallara uyum sağlarken aynı zamanda özgürce kendini ifade edebilme dengesini kurmasıdır.
+
+---
+
+### 2. Üst Düzey Düşünme Becerileri
+
+* **Yaratıcı Düşünme:** Yeni, özgün, orijinal çözümler üretme; kalıpların dışına çıkarak esnek ve akıcı düşünebilme sürecidir.
+* **Eleştirel Düşünme:** Bilgiyi doğrudan kabul etmeyip ölçütlere, kanıtlara ve kaynak güvenirliğine göre sorgulama, analiz etme ve tutarlılığını değerlendirmedir.
+* **Yansıtıcı Düşünme:** Bireyin kendi öğrenme süreçlerini, eksiklerini ve deneyimlerini analiz ederek elde ettiği kazanımları gelecekteki davranışlarına ve yaşamına aktarmasıdır.
+* **Analitik Düşünme:** Bir bütünü parçalarına ayırma, verileri sınıflandırma ve neden-sonuç ilişkilerini sistemli bir şekilde irdeleme becerisidir.
+* **Metabilişsel Düşünme (Üstbiliş):** Bireyin kendi bilişsel süreçlerinin farkında olması, "nasıl öğrendiğini bilmesi", öğrenmesini planlaması ve denetlemesidir.
+* **Lateral (Yanal) Düşünme:** Bir duruma tek bir açıdan değil, geniş bir yelpazeden (altı şapkalı düşünme tekniğindeki gibi farklı roller ve bakış açılarıyla) yaklaşabilmektir.
+
+---
+
+### 3. Temel Öğretim Stratejileri
+
+Öğretim hedeflerine ulaşmak için öğretim elemanı ve öğrencinin izlediği ana yoldur.
+
+```
+                    Öğretim Stratejileri
+      ┌──────────────────────┼──────────────────────┐
+      ▼                      ▼                      ▼
+Sunuş Yolu             Buluş Yolu            Araştırma-İnceleme
+(Ausubel)              (Bruner)              (Dewey)
+Tümden Gelim           Tümevarım             Bilimsel Problem Çözme
+Öğretmen Merkezli      Öğrenci Merkezli      Sınıf İçi / Dışı Uygulama
+
+```
+
+* **Sunuş Yoluyla Öğretim (Ausubel):**
+* Anlamlı öğrenmeyi hedefler. Kavram ve ilkeler dersin başında öğretmen tarafından sunulur.
+* Mantıksal akış **tümden gelimdir**.
+* Ön organize ediciler (kavram haritaları, şemalar) ile bilişsel yapı hazır hale getirilir.
+* Kalabalık gruplarda, zaman kısıtında ve temel/soyut kavramların aktarımında en ekonomik stratejidir.
+
+
+* **Buluş Yoluyla Öğretim (Bruner):**
+* Öğrenci pasif alıcı değildir; merak duygusu tetiklenerek keşif yapması sağlanır.
+* Mantıksal akış **tümevarımdır**. Öğretmen kuralı söylemez; örnekler ve örnek olmayan durumlar sunar, öğrenci karşılaştırmalar yaparak kurala ve genellemeye kendisi ulaşır.
+* Sürecin başında hedef açıkça söylenmez; merak canlı tutulur. İçerik **sarmal** bir yapıyla derinleşir.
+
+
+* **Araştırma-İnceleme Yoluyla Öğretim (Dewey):**
+* Pragmatist ve ilerlemeci felsefeye dayanır; gerçek yaşam problemlerinin çözümünü odakta tutar.
+* Bilimsel problem çözme basamakları işletilir: Problemi hissetme, tanımlama, veri toplama, hipotez kurma, hipotezi test etme ve sonuca ulaşma.
+* Üst düzey bilişsel hedeflerin (analiz, sentez, değerlendirme) kazandırılmasında en etkili stratejidir.
+
+
+
+---
+
+### 4. Çağdaş ve Klasik Öğretim Modelleri
+
+* **Tam Öğrenme Modeli (Bloom):**
+* *Temel tez:* "Uygun koşullar ve yeterli zaman sağlandığında herkes her şeyi öğrenebilir."
+* Öğrenme ürününü belirleyen temel bileşenler:
+* *Bilişsel Giriş Davranışları (%50 etki):* Ön öğrenmeler ve hazırbulunuşluk düzeyi.
+* *Duyuşsal Giriş Davranışları (%25 etki):* Akademik özgüven, ilgi ve tutum.
+* *Öğretim Hizmetinin Niteliği (PİDE):* **P**ekiştirme, **İ**pucu, **D**önüt-Düzeltme, **E**tkin Katılım.
+
+
+* Bir ünite en az %70 oranında öğrenilmeden diğerine geçilmez; doğrusal bir ilerleme söz konusudur.
+
+
+* **Öğretim Etkinlikleri Modeli (Gagne):**
+* Bilgi işleme kuramı ile davranışçı ilkeleri bütünleştirir. Öğrenme ürünlerini beş alanda tanımlar: *Sözel bilgi, zihinsel beceriler, bilişsel stratejiler, tutumlar ve psikomotor beceriler.*
+* Ders işlenişinin dokuz adımı standart bir pedagojik sıra izler:
+1. Dikkati çekme
+2. Hedeften haberdar etme (Güdüleme)
+3. Ön öğrenmeleri hatırlatma
+4. Uyarıcı materyali sunma
+5. Öğrenmeye rehberlik etme
+6. Davranışı ortaya çıkarma (Performans)
+7. Dönüt ve düzeltme sağlama
+8. Performansı değerlendirme
+9. Kalıcılığı ve transferi sağlama
+
+
+
+
+* **Çoklu Zekâ Kuramı (Gardner):**
+* Zekâ tek bir sayısal değer (IQ) değildir; geliştirilebilir, dinamik ve çoğulcudur.
+* Sekiz temel zekâ alanı mevcuttur: *Sözel-Dilsel, Mantıksal-Matematiksel, Görsel-Uzamsal, Müziksel-Ritmik, Bedensel-Kinestetik, Sosyal (Kişilerarası), İçsel (Özedönük) ve Doğa Zekâsı.*
+
+
+* **Yapılandırmacılık (Constructivism):**
+* Bilgi dış dünyadan pasif olarak kopyalanmaz; birey tarafından birincil veri kaynakları ve yaşantılar yoluyla zihinde aktif biçimde inşa edilir.
+* Öğretmen rehberdir; süreç değerlendirmesi (öz değerlendirme, portfolyo) esastır.
+* Uygulama basamakları genellikle **5E Modeli** ile yürütülür:
+* *Giriş (Engage):* Dikkat çekme, merak uyandırma ve ön bilgileri harekete geçirme.
+* *Keşfetme (Explore):* Birlikte çalışma, veri toplama ve problemi araştırma.
+* *Açıklama (Explain):* Öğrencilerin ulaştıkları sonuçları açıklaması; öğretmenin kavramsal çerçeveyi netleştirmesi.
+* *Derinleştirme (Elaborate):* Edinilen bilginin yeni durumlara ve problemlere transfer edilmesi.
+* *Değerlendirme (Evaluate):* Sürecin ve ürünün birlikte değerlendirilmesi.

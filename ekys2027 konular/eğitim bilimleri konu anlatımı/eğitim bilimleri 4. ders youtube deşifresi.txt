@@ -1,0 +1,238 @@
+# Eğitim Kurumlarına Yönetici Seçme Sınavı (EKYS) — Öğretim Yöntem ve Teknikleri (ÖYT) Ders Notları
+
+Öğretim Yöntem ve Teknikleri (ÖYT), geçmiş yılların sınav dağılımları incelendiğinde her yıl ortalama 2 ila 3 sorunun yöneltildiği kritik bir alandır. Daha önce ele alınan öğretim ilkeleri, düşünme becerileri, öğretim stratejileri ve ilk grup öğretim modellerinin (Tam Öğrenme, Gagne’nin Öğretim Etkinlikleri, Çoklu Zekâ Kuramı, Yapılandırmacılık ile 5E-7E modelleri) ardından bu ders kapsamında kalan modeller, öğretim yöntemleri ve sınıf içi öğretim teknikleri sistematik bir bütünlükle ele alınmıştır.
+
+---
+
+## 1. Öğretim Modelleri
+
+### İşbirliğine Dayalı (Kollaboratif) Öğrenme Modeli
+
+Temelini Lev Vygotsky’nin sosyal yapılandırmacı görüşlerinden ve **Yakınsak Gelişim Alanı (ZPD)** kuramından alır. Vygotsky’ye göre bireyler, akran etkileşimi ve grup dinamiği içinde tek başlarına öğrenebileceklerinden çok daha fazlasını edinirler.
+
+* **Grup Dinamiği ve Büyüklüğü:** Gruplar 2 ila 6 kişiden oluşur; en verimli çalışma grubu 4 kişiliktir. Gruplar mutlaka **heterojen** (farklı başarı düzeyi, yetenek, ilgi alanı ve cinsiyet) olmalıdır. Grupların oluşturulması asla öğrencilerin inisiyatifine bırakılmaz; öğretmen tarafından planlanır.
+* **Olumlu Bağımlılık (Pozitif Dayanışma):** "Birimiz hepimiz, hepimiz birimiz için" anlayışıdır. Bireyin başarısı grubun başarısına, grubun başarısı ise bireyin katkısına bağlıdır.
+* **Paylaşılmış Liderlik ve Sorumluluk:** Geleneksel gruplardaki tekil lider otoritesi yerine liderlik tüm üyelere dağıtılmıştır. Birey sadece kendi öğrenmesinden değil, tüm arkadaşlarının öğrenmesinden de sorumludur.
+* **Eşit Başarı Fırsatı:** Her öğrencinin kendi gelişim düzeyine göre ortaya koyduğu çaba eşit derecede değer görür.
+* **Değerlendirme:** Süreç ve ürün birlikte değerlendirilir. Öğretmen doğrudan aktarıcı değil, sürece rehberlik eden ve dönüt veren kolaylaştırıcıdır.
+* **Sınırlılıkları:** Başarı düzeyi yüksek öğrencilerin diğerlerini taşımak zorunda kalması (sosyal asalaklık/tembellik) ve bireysel katkı payının tespitindeki zorluklar en belirgin dezavantajlarıdır.
+
+---
+
+### Basamaklı Öğretim Modeli (Kathie Nunley)
+
+Kathie Nunley tarafından geliştirilen bu model, Bloom taksonomisinin aşamalılık ilkesini temel alır ve öğrenci merkezli bir görev seçimi sunar. Etkinlikler hiyerarşik olarak **C basamağından A basamağına** doğru yürütülür:
+
+* **C Basamağı (Temel Bilgi ve Kavrama):** Konuya ilişkin temel kavramların, olguların ve tanımların öğrenildiği basamaktır. Öğretmenin yönlendiriciliği ve etkinliği bu aşamada en üst düzeydedir.
+* **B Basamağı (Uygulama):** C basamağında kazanılan bilgilerin somut problemlerde kullanılması, alıştırmaların yapılması ve uygulamaya dökülmesidir.
+* **A Basamağı (Üst Düzey Düşünme):** Analiz, sentez, değerlendirme ve yaratıcılık boyutudur. Öğrenci özgün bir ürün, eleştirel bir yaklaşım veya bağımsız bir stil ortaya koyar. Bu basamakta öğretmenin doğrudan müdahalesi asgariye iner, yalnızca rehber rolü kalır.
+
+> **Örnek Soru Analizi:**
+> Kesirler konusunda basamaklı öğretim uygulayan bir öğretmenin verdiği görevlerden "Konu alanında özgün bir hikâye tasarlama" görevi; sentez ve yaratıcılık gerektirdiği için A basamağına (en üst düzeye) karşılık gelir.
+
+---
+
+### Aktif (Etkin) Öğrenme
+
+Öğrencinin öğrenme sürecinin pasif bir alıcısı olmayı reddedip; araştıran, sorgulayan, karar alan ve öğrenmenin öz sorumluluğunu taşıyan bir konuma geçmesidir.
+
+* **Yapılandırmacılık ile Farkı:** Aktif öğrenme öğrencinin dinamik katılımı ve yaparak-yaşayarak öğrenme sürecine odaklanırken; yapılandırmacılık bilginin zihinde sıfırdan, öznel olarak inşa edilmesi ve üretilmesi sürecini merkeze alır.
+
+---
+
+### Yaşam Boyu (Hayat Boyu) Öğrenme
+
+Öğrenmenin yalnızca okulla ve belirli yaş dönemleriyle sınırlı olmadığını, doğumdan ölüme kadar devam eden kesintisiz bir süreç olduğunu kabul eder. Örgün ve yaygın eğitimin tümünü kapsar. Temel bileşenleri **süreklilik**, **yaratıcılık** ve **kendi kendine öğrenme** becerisidir.
+
+---
+
+### Beyin Temelli (Nörofizyolojik) Öğrenme (Caine & Caine)
+
+Öğrenmenin beynin biyolojik ve nörofizyolojik yapısına uygun olarak yapılandırılması gerektiğini savunur.
+
+* **Bütüncül Beyin:** Sol lobun parçalı/analitik bakışı ile sağ lobun bütüncül/sezgisel bakışı birlikte koordine edildiğinde öğrenme en üst düzeye çıkar.
+* **Duygusal Durum:** Beyin tehdit, aşırı kaygı ve korku anında kendini korumaya alarak öğrenmeyi ketler; güven, huzur ve merak duygusu nörokimyasal salgılarla öğrenmeyi kolaylaştırır.
+* **Çevresel Algı ve Gizil Öğrenme:** Beyin doğrudan odaklanılan bilginin yanı sıra çevresel uyarıcıları (panolar, görsel unsurlar, ortam tasarımı) eş zamanlı olarak kaydeder.
+
+---
+
+### Kuantum Öğrenme
+
+Bireyin içsel enerjisini, motivasyonunu ve inancını açığa çıkararak "öğrenmeyi öğrenme" becerisini kazandırmayı hedefler. Hızlı okuma, hafıza teknikleri, NLP eğitimleri ve kişisel gelişim kampları gibi yöntemlerle zihinsel kapasiteyi ve özgüveni maksimize etmeye odaklanır.
+
+---
+
+### Modüler Öğretim
+
+Öğretim programının kendi içinde bağımsız, anlamlı ve bütünlük taşıyan parçalara (modüllere) ayrılarak yapılandırılmasıdır. Esnek, bireysel hıza uyarlanabilir ve uygulamaya dönük yapısıyla özellikle mesleki ve teknik eğitim programlarında temel model olarak kullanılır.
+
+---
+
+## 2. Öğretim Yöntemleri ve Seçim Ölçütleri
+
+Yöntem, hedeflere ulaşmak amacıyla öğretmenin izlediği en genel yoldur. Teknik ise bu yolun somut uygulama biçimidir. Yöntem seçimini etkileyen unsurların başında **kazanım/hedef** gelir (en belirleyici faktör). Ardından konunun doğası, öğrenci özellikleri, maliyet, zaman, fiziksel olanaklar ve öğretmenin yatkınlığı sıralanır.
+
+### Temel Öğretim Yöntemleri
+
+```
+                                    ÖĞRETİM YÖNTEMLERİ
+    ┌────────────┬────────────┬─────────────┼──────────────┬────────────┬─────────────┐
+ Anlatım     Tartışma    Örnek Olay   Gösterip      Problem       Proje       Bireysel
+ (Takrir)                             Yaptırma       Çözme                     Çalışma
+
+```
+
+#### 1. Anlatım Yöntemi ve İlgili Teknikler
+
+Öğretmen merkezli, ekonomik ve kalabalık gruplarda kısa sürede temel bilgi düzeyindeki kazanımları aktarmak için kullanılan geleneksel yöntemdir.
+
+* **Düz Anlatım:** Hazırlanan bilginin tek yönlü olarak öğrenciye aktarılmasıdır.
+* **Konferans:** Alanında uzman bir kişinin bilimsel, akademik veya düşünsel bir tezi tek bir oturumda dinleyicilere aktarmasıdır.
+* **Brifing:** Astın üste veya karar alıcılara bir iş, kurum veya durum hakkında sunduğu kısa, öz ve görsel destekli rapordur.
+* **Demeç:** Yetkili bir kişinin basın ve yayın organları aracılığıyla kamuoyuna yaptığı resmî açıklamadır.
+* **Nutuk (Söylev):** Dinleyici kitlesini belirli bir amaca, inanca veya değere yönlendirmek için yapılan duygusal ve coşkulu hitabet türüdür.
+
+#### 2. Tartışma Yöntemi ve İlgili Teknikler
+
+Öğrenci-öğrenci ve öğrenci-öğretmen etkileşimine dayalı, eleştirel düşünme, dinleme ve kendini ifade etme becerilerini geliştiren yöntemdir.
+
+* **Münazara:** Bir tezin ve karşı tezin (antitez) jüri ve dinleyiciler önünde iki karşıt grupça savunulduğu tartışmadır. Bilimsel veya dinî dogmalar münazara konusu yapılmaz. En ayırt edici özelliği **kazanan ve kaybedenin** olmasıdır.
+* **Panel:** 3 ila 5 kişilik uzman grubun dinleyiciler karşısında bir konuyu samimi bir sohbet havasında, farklı yönleriyle ele almasıdır. Süreç sonunda dinleyiciler soru sorabilir.
+* **Forum:** Dinleyicilerin en baştan itibaren tartışmaya aktif olarak dahil olduğu, görüş bildirdiği geniş katılımlı büyük grup tartışmasıdır.
+* **Kolegyum:** İki grubun yer aldığı tekniktir: Biri dinleyicileri temsil eden öğrenci/soru grubu, diğeri ise uzman kaynak gruptur. Öğrenci grubu soruları kaynak gruba yöneltir.
+* **Zıt Panel:** İşlenmiş bir konunun tekrarı amacıyla sınıfın "soru soranlar" ve "cevap verenler" şeklinde ikiye ayrıldığı tekniktir.
+* **Sempozyum (Bilgi Şöleni):** Akademik, bilimsel veya sanatsal bir konunun uzmanlarca eş zamanlı/farklı oturumlarda ve genellikle birkaç gün boyunca sunulmasıdır. Sunumlar **bildiri (tebliğ)** niteliğindedir ve sonrasında kitaplaştırılır.
+* **Açık Oturum:** Toplumu ilgilendiren güncel veya siyasal bir konunun, bir başkan yönetiminde farklı görüşteki kişilerce geniş kitleler önünde tartışılmasıdır. Amaç birbirini ikna etmek değil, dinleyiciyi bilgilendirmektir.
+* **Vızıltı Grupları (Phillips):** Katılımcı sayısı kadar dakika tartışma yürütülmesidir (örneğin Vızıltı 44: 4 kişi 4 dakika; Vızıltı 66: 6 kişi 6 dakika).
+* **Çalıştay (Workshop):** Alanında deneyimli kişilerin bir soruna pratik ve somut çözüm yolları geliştirmek için toplanarak ortak bir ürün ya da rapor ortaya koyduğu uygulamalı süreçtir.
+* **Fikir Taraması:** Dersin monotonlaştığı anlarda dikkati toplamak ve canlılık kazandırmak amacıyla öğretmenin ortaya attığı konu dışı bir başlık üzerinden yapılan kısa süreli tartışmadır.
+* **Çember:** 10-15 öğrencinin dairesel oturup bir lider kontrolünde sırayla birer ikişer dakika söz alarak fikirlerini beyan ettiği tekniktir.
+
+#### 3. Örnek Olay Yöntemi
+
+Gerçek hayatta yaşanmış ya da yaşanması muhtemel bir çatışmanın/durumun sınıfa getirilerek analiz edilmesi ve çözüm önerileri aranmasıdır. Buluş yoluyla öğretim stratejisiyle doğrudan örtüşür; kavrama ve üstü becerileri geliştirir.
+
+#### 4. Gösterip Yaptırma Yöntemi
+
+Psikomotor becerilerin öğretiminde kullanılır. İlk aşamada öğretmen davranışı adım adım sergiler (**gösteri/demonstrasyon**), ikinci aşamada ise öğrenciler davranışı uygulayarak tekrarlar (**yaptırma**). Anında dönüt-düzeltme ve güvenlik önlemleri esastır.
+
+#### 5. Problem Çözme Yöntemi
+
+Araştırma-inceleme stratejisine dayanır. Bilimsel araştırma basamakları (problemi tanımlama, veri toplama, hipotez kurma, hipotezi test etme ve sonuca varma) işletilerek gerçek bir yaşam sorununa çözüm aranır.
+
+#### 6. Proje Yöntemi
+
+Bilimsel problem çözme sürecine ek olarak süreç sonunda **somut bir ürün, model, rapor veya sunum** ortaya koymayı gerektiren, disiplinler arası bağı vurgulayan yöntemdir.
+
+#### 7. Bireysel Çalışma Yöntemi
+
+Öğrencinin kendi ilgi, ihtiyaç ve öğrenme hızına göre tek başına yürüttüğü çalışmadır. Bireysel hız avantajı sağlarken sosyalleşmeyi sınırlandırır.
+
+---
+
+## 3. Öğretim Teknikleri
+
+### Beyin Fırtınası (Alex Osborn)
+
+Kısa sürede çok sayıda yaratıcı ve özgün fikir üretmeyi amaçlar.
+
+1. **Aşama (Nicelik):** Fikir sayısı önemlidir. Her türlü eleştiri, yargılama, alay veya onaylama kesinlikle yasaktır; tüm görüşler olduğu gibi tahtaya yazılır.
+2. **Aşama (Nitelik):** Süre bitiminde fikirler sınıfça ayıklanır, gruplandırılır ve en yaratıcı/uygulanabilir çözüm belirlenir.
+
+* **Ters Beyin Fırtınası:** İstenmeyen bir durumun (örneğin bir okulun nasıl işlevsizleştirilebileceği) tartışılması yoluyla doğruya ulaşma sürecidir.
+* **Beyin Ürünü:** Öğrencilerin fikirlerini tahtaya yazmak yerine anonim olarak kâğıtlara yazdığı varyasyondur.
+
+### Soru-Cevap Tekniği
+
+Öğretim sürecini desteklemek amacıyla kullanılır; bir sınav/sözlü yoklama değildir. Öğrenci yanlış cevap verdiğinde mutlaka ipuçları ve yönlendirici sorularla doğruya ulaştırılır.
+
+* **Sokratik Buldurma:** İki aşamalıdır: *İroni* (öğrencinin bildiğini sandığı şeylerdeki çelişkiler ortaya çıkarılır) ve *Doğurtma* (yeni sorularla öğrencinin zihnindeki doğru bilginin doğması sağlanır).
+* **Sokrat Semineri:** Üst düzey, ağır felsefi ve akademik bir metnin grupça satır satır çözümlenmesidir.
+* **Soru Turu:** Her öğrencinin bir soru yazarak kâğıdı yanındakine aktardığı, soruların dolaşıp sahibine dönmesiyle tamamlanan süreçtir.
+
+### Görüş Geliştirme, Köşelenme ve Kart Gösterme
+
+* **Görüş Geliştirme:** Öğrenciler sınıftaki dereceleme kartonlarının (Kesinlikle Katılıyorum, Katılıyorum, Kararsızım vb.) altına geçer ve görüşlerini savunur. En belirgin özelliği **tartışma sırasında fikirlerin değiştirilebilmesidir**.
+* **Köşelenme:** Görüş geliştirmenin aksine, öğrenciler seçtikleri köşede kalırlar; süreçte fikir değiştirmek yoktur.
+* **Kart Gösterme:** Öğrencilerin yerlerinden kalkmadan, ellerindeki farklı renkli/yazılı kartları kaldırarak görüş belirtmesidir.
+
+### Rol Oynama ve Yaratıcı Drama
+
+Ortak noktaları **canlandırma** yapılmasıdır.
+
+* **Rol Oynama:** Önceden hazırlanmış bir senaryoya, yazılı metne veya belirlenmiş şablona bağlı kalınarak icra edilir.
+* **Drama:** Yazılı bir metin olmaksızın, tamamen o anda gelişen **doğaçlama** ve yaratıcılığa dayanır.
+
+### Benzetim (Simülasyon) ve Analoji
+
+* **Benzetim (Simülasyon):** Gerçek uygulamanın riskli, maliyetli veya tehlikeli olduğu durumlarda (pilotaj, tıp ameliyatları, sürücü kursları) gerçeğe birebir uygun yapay düzeneklerde deneyim kazanılmasıdır.
+* **Analoji (Metaforik Anlatım):** Bilinmeyen soyut bir kavramın, bilinen somut bir kavrama benzetilerek öğretilmesidir (örneğin kan dolaşımının şehir trafiğine benzetilmesi).
+
+### Altı Şapkalı Düşünme Tekniği (Edward de Bono)
+
+Bireylere sistematik biçimde farklı bakış açıları kazandırmayı amaçlar:
+
+* **Beyaz:** Tarafsız, nesnel ve olgusal veriler.
+* **Kırmızı:** Duygusal, sezgisel ve sübjektif hisler.
+* **Siyah:** Karamsar, tedbirli, tehlikeleri ve olumsuzlukları gören bakış.
+* **Sarı:** İyimser, pozitif, avantajları ve faydaları gören bakış.
+* **Yeşil:** Yaratıcı, özgün alternatifler ve yeni çözümler üreten bakış.
+* **Mavi:** Süreci yöneten, değerlendiren ve karar veren metakognitif şapka.
+
+### Mikroöğretim
+
+Öğretmen yetiştirmede kullanılan laboratuvar tekniğidir. "Öğret - kaydet - izle/değerlendir - yeniden öğret" döngüsüne dayanır. Video kaydı sayesinde öğretmen adayı kendi eksikliklerini somut olarak görür.
+
+### İstasyon Tekniği
+
+Tüm sınıfın eş zamanlı olarak farklı çalışma masalarında (örneğin afiş, öykü, slogan masaları) yer aldığı ve grupların sırayla yer değiştirerek **önceki grubun yarım bıraktığı işe katkı sağlayıp onu tamamladığı** tekniktir.
+
+### Konuşma Halkası
+
+Öğrencilerin dairesel düzende oturduğu, bir konuşma nesnesi aracılığıyla sırayla söz aldığı ve sunulan bir durumdaki kişinin yerine kendilerini koyarak **empati** kurdukları tekniktir.
+
+### Bilişsel Çıraklık
+
+Karmaşık bir becerinin uzmandan öğrenciye aşamalı aktarımıdır. Basamakları:
+
+1. **Model Olma:** Uzman davranışı sergiler.
+2. **Çalıştırma:** Öğrenci uzmanın gözetiminde yapar.
+3. **Destekleme (İskele Kurma):** Uzman takıldığı yerlerde anında ipucu ve yardım sunar.
+4. **İfade Etme:** Öğrenci neyi, nasıl yaptığını gerekçeleriyle açıklar.
+5. **Yansıtma:** Öğrenci kendi performansını uzman performansı veya standartla karşılaştırır.
+6. **Öteleme (Bağımsızlaşma):** Destek tamamen çekilir, öğrenci beceriyi tek başına yürütür.
+
+### Programlı Öğretim (B. F. Skinner)
+
+Öğrencinin kendi hızıyla bağımsız olarak ilerlediği bireysel öğretim tekniğidir. **KEBAP** kodlamasıyla özetlenir:
+
+* **K**üçük Adımlar: Konunun en küçük anlamlı birimlere bölünmesi.
+* **E**tkin Katılım: Öğrencinin her aşamada soru cevaplaması.
+* **B**aşarı: Bir birim öğrenilmeden diğerine geçilememesi.
+* **A**nında Düzeltme: Yanıta ilişkin anında dönüt verilmesi.
+* **B**ireysel Hız: Herkesin kendi kapasitesine göre ilerlemesi.
+* **P**ekiştirme: Doğru davranışın ödüllendirilmesi.
+
+> **Tam Öğrenme ile Karşılaştırması:** Tam Öğrenme sınıfla/grupla yürütülür; yavaş öğrenen öğrenci grubu bekletebilir. Programlı Öğretim ise tamamen bireyseldir; hızlı öğrenenler yavaş öğrenenleri beklemez.
+
+### Diğer Tamamlayıcı Teknikler
+
+* **Bireyselleştirilmiş Öğretim (Keller Planı):** Bireysel öğrenme eksikliklerini gidermek için homojen küçük gruplarla yürütülen planlı destek sürecidir.
+* **Harmanlanmış (Karma/Hibrit) Öğrenme:** Geleneksel yüz yüze eğitim ile çevrim içi uzaktan eğitimin planlı biçimde entegre edilmesidir.
+* **Düşün - Eşleş - Paylaş:** Bireysel düşünme $\rightarrow$ İkili eşleşip tartışma $\rightarrow$ Sınıfla paylaşma sırasını izler.
+* **Kartopu:** 1 kişi $\rightarrow$ 2 kişi $\rightarrow$ 4 kişi $\rightarrow$ 8 kişi şeklinde ikiye katlanarak genişleyen tartışma sürecidir.
+* **Dedikodu:** İkişerli grupların konuyu tartıştıktan sonra yeni eşlerle bir araya gelerek önceki eşlerinin fikirlerini yeni partnere aktarmasıdır.
+* **Tutor Destekli Öğretim:** Konuda yetkin bir uzmanın veya ileri düzey bir akranın öğrenciye bire bir özel ders vermesidir.
+* **Akvaryum:** İç içe iki halka kurulur; iç halkadaki öğrenciler tartışmayı yürütürken dış halkadakiler izler ve gerektiğinde içeriye soru yöneltir veya dahil olur.
+* **Rulman (Top Arabası):** İç içe iki halkanın yüz yüze baktığı, belirlenen süre bitiminde halkanın dönerek eşlerin sürekli değiştiği tartışma tekniğidir.
+
+---
+
+## 4. Ders Kapsamında Çözülen Soruların Özeti
+
+* **Konuşma Halkası Sorusu:** Çember düzeninde oturulması, rencide edici ifadelerden kaçınılması, empati odaklı olarak bir görsel/hikâye üzerinden sırayla duygu ve düşüncelerin aktarılması "Konuşma Halkası" tekniğine işaret etmiştir.
+* **İstasyon Sorusu:** Slogan, afiş ve öykü gibi farklı masaların kurulması, grupların beşer dakika arayla masaları dolaşarak birbirinin bıraktığı işe katkı sağlaması "İstasyon" tekniğini örneklemiştir.
+* **Beyin Fırtınası Sorusu:** Sınıf kurallarının belirlenmesi sürecinde fikirlerin eleştirilmeden doğrudan tahtaya yazılması, ardından benzer fikirlerin gruplanıp ayıklanarak en uygun kuralların seçilmesi "Beyin Fırtınası" tekniğini karşılamıştır.
+* **Programlı Öğretim Sorusu:** Ders içeriğinin anlamlı birimlere ayrılması (küçük adımlar), öğrencinin sürece aktif katılması, bir birim öğrenilmeden diğerine geçilmemesi (başarı) ve her öğrencinin kendi hızında ilerlemesi "Programlı Öğretim" tekniğinin doğrudan göstergesidir.
+
+Bu kapsamla birlikte Öğretim Yöntem ve Teknikleri ünitesi tamamlanmış olup, takip eden süreçte iki haftalık Ölçme ve Değerlendirme modülüne geçilecektir.
