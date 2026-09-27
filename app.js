@@ -1471,12 +1471,44 @@ class EKYSApp {
             badge: '30 Soru • Video Test 4'
           },
           {
+            id: 'egitim_video_test_5_eb',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 5',
+            icon: '🎯',
+            desc: 'Eğitimin Temelleri, Örgün & Yaygın Eğitim, Posner Program Türleri (16 Soru • 2. Video).',
+            filterKey: 'egitim_video_test_5',
+            badge: '16 Soru • Video Test 5'
+          },
+          {
+            id: 'egitim_video_test_6_eb',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 6',
+            icon: '🎯',
+            desc: 'Eğitim Felsefeleri (Daimicilik, Esasicilik, İlerlemecilik) & İhtiyaç Belirleme (15 Soru • 2. Video).',
+            filterKey: 'egitim_video_test_6',
+            badge: '15 Soru • Video Test 6'
+          },
+          {
+            id: 'egitim_video_test_7_eb',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 7',
+            icon: '🎯',
+            desc: 'Programın Ögeleri: Hedef Kavramı, Hedeflerin Nitelikleri, Uzak-Genel-Özel Hedefler (16 Soru • 2. Video).',
+            filterKey: 'egitim_video_test_7',
+            badge: '16 Soru • Video Test 7'
+          },
+          {
+            id: 'egitim_video_test_8_eb',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 8',
+            icon: '🎯',
+            desc: 'Yenilenmiş Bloom Taksonomisi (Bilişsel Süreç & Bilgi Boyutu), Duyuşsal ve Devinişsel Alan (15 Soru • 2. Video).',
+            filterKey: 'egitim_video_test_8',
+            badge: '15 Soru • Video Test 8'
+          },
+          {
             id: 'egitim_video_tarama_tum_eb',
-            name: '🌟 Eğitim Bilimleri Video Tarama (4 Test Karma)',
+            name: '🌟 Eğitim Bilimleri Video Tarama (8 Test Karma)',
             icon: '⚡',
-            desc: 'Tüm video tarama testlerinden oluşan 90 soruluk kapsamlı Eğitim Bilimleri soru havuzu.',
+            desc: 'Tüm 1. ve 2. video tarama testlerinden oluşan 152 soruluk kapsamlı Eğitim Bilimleri soru havuzu.',
             filterKey: 'egitim_video_tarama_tum',
-            badge: '90 Soru Karma'
+            badge: '152 Soru Karma'
           },
           {
             id: 'ekys_2026_egitim',
@@ -2437,12 +2469,44 @@ class EKYSApp {
             badge: '30 Soru • Video Test 4'
           },
           {
+            id: 'egitim_video_test_5',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 5',
+            icon: '🎯',
+            desc: 'Eğitimin Temelleri, Örgün & Yaygın Eğitim, Posner Program Türleri (16 Soru • 2. Video).',
+            filterKey: 'egitim_video_test_5',
+            badge: '16 Soru • Video Test 5'
+          },
+          {
+            id: 'egitim_video_test_6',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 6',
+            icon: '🎯',
+            desc: 'Eğitim Felsefeleri (Daimicilik, Esasicilik, İlerlemecilik) & İhtiyaç Belirleme (15 Soru • 2. Video).',
+            filterKey: 'egitim_video_test_6',
+            badge: '15 Soru • Video Test 6'
+          },
+          {
+            id: 'egitim_video_test_7',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 7',
+            icon: '🎯',
+            desc: 'Programın Ögeleri: Hedef Kavramı, Hedeflerin Nitelikleri, Uzak-Genel-Özel Hedefler (16 Soru • 2. Video).',
+            filterKey: 'egitim_video_test_7',
+            badge: '16 Soru • Video Test 7'
+          },
+          {
+            id: 'egitim_video_test_8',
+            name: '🎯 Eğitim Bilimleri Video Tarama Testi 8',
+            icon: '🎯',
+            desc: 'Yenilenmiş Bloom Taksonomisi (Bilişsel Süreç & Bilgi Boyutu), Duyuşsal ve Devinişsel Alan (15 Soru • 2. Video).',
+            filterKey: 'egitim_video_test_8',
+            badge: '15 Soru • Video Test 8'
+          },
+          {
             id: 'egitim_video_tarama_tum',
-            name: '🌟 Eğitim Bilimleri Video Tarama (4 Test Karma)',
+            name: '🌟 Eğitim Bilimleri Video Tarama (8 Test Karma)',
             icon: '⚡',
-            desc: 'Tüm video tarama testlerinden oluşan 90 soruluk kapsamlı Eğitim Bilimleri soru havuzu.',
+            desc: 'Tüm 1. ve 2. video tarama testlerinden oluşan 152 soruluk kapsamlı Eğitim Bilimleri soru havuzu.',
             filterKey: 'egitim_video_tarama_tum',
-            badge: '90 Soru Karma'
+            badge: '152 Soru Karma'
           },
           {
             id: 'egitim_yonetimi_cat',
@@ -2615,8 +2679,12 @@ class EKYSApp {
       if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
       if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');
       if (filterKey === 'egitim_video_test_4') return (q.testId === 'egitim_video_test_4' || tId === 'egitim_video_test_4');
+      if (filterKey === 'egitim_video_test_5') return (q.testId === 'egitim_video_test_5' || tId === 'egitim_video_test_5');
+      if (filterKey === 'egitim_video_test_6') return (q.testId === 'egitim_video_test_6' || tId === 'egitim_video_test_6');
+      if (filterKey === 'egitim_video_test_7') return (q.testId === 'egitim_video_test_7' || tId === 'egitim_video_test_7');
+      if (filterKey === 'egitim_video_test_8') return (q.testId === 'egitim_video_test_8' || tId === 'egitim_video_test_8');
       if (filterKey === 'egitim_video_tarama_tum' || filterKey === 'egitim_video_tarama') {
-        return ['egitim_video_test_1', 'egitim_video_test_2', 'egitim_video_test_3', 'egitim_video_test_4'].includes(q.testId) || (q.testId && q.testId.startsWith('egitim_video_test_'));
+        return ['egitim_video_test_1', 'egitim_video_test_2', 'egitim_video_test_3', 'egitim_video_test_4', 'egitim_video_test_5', 'egitim_video_test_6', 'egitim_video_test_7', 'egitim_video_test_8'].includes(q.testId) || (q.testId && q.testId.startsWith('egitim_video_test_'));
       }
       if (filterKey === 'egitim_program_okuryazarligi' || filterKey === 'egitim_prog_gel_1' || filterKey === 'prog_gel_test_1') {
         return (q.testId === 'egitim_program_okuryazarligi' || q.testId === 'egitim_prog_gel_1' || tId === 'egitim_program_okuryazarligi' || (tName.includes('program okuryazarlığı') || (tName.includes('program geliştirme') && tName.includes('1'))));

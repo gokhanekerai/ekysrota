@@ -63764,5 +63764,2237 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I - İkta)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Selçuklu ordusunun en kalabalık bölümü olan atlı sipahiler <strong>İkta sistemi</strong> sayesinde yetiştirilir.<br>• <strong>Vakıf:</strong> Sosyal, hayri ve dini hizmet kurumudur; asker yetiştirmez.<br>• <strong>Lonca (Ahilik):</strong> Esnaf ve zanaatkâr meslek örgütüdür; ordu teşkilatı ile doğrudan ilgisi yoktur."
+  },
+  {
+    "id": "egitim_video_test_5_q1",
+    "questionNumber": 1,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi örgün eğitimin özelliklerinden biridir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Farklı yaş gruplarına yönelik olması"
+      },
+      {
+        "key": "B",
+        "text": "Gönüllülük esasına dayanması"
+      },
+      {
+        "key": "C",
+        "text": "Aşamalı ve sürekli olması"
+      },
+      {
+        "key": "D",
+        "text": "Okul dışı ortamlarda gerçekleştirilmesi"
+      },
+      {
+        "key": "E",
+        "text": "Belirli konularla sınırlandırılması"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Aşamalı ve sürekli olması)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Örgün eğitim, öğretim kademelerinden oluşan aşamalı ve sürekli bir eğitim türüdür.<br>• Diğer seçenekler yaygın eğitimin özellikleridir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Aşamalı ve sürekli olması:</strong> Örgün eğitim, öğretim kademelerinden oluşan aşamalı ve sürekli bir eğitim türüdür."
+  },
+  {
+    "id": "egitim_video_test_5_q2",
+    "questionNumber": 2,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir belediyenin farklı yaş gruplarındaki bireylere yönelik kısa süreli bilgisayar kursu düzenlemesi aşağıdaki eğitim türlerinden hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Örgün eğitim"
+      },
+      {
+        "key": "B",
+        "text": "Yaygın eğitim"
+      },
+      {
+        "key": "C",
+        "text": "Zorunlu eğitim"
+      },
+      {
+        "key": "D",
+        "text": "Özel eğitim"
+      },
+      {
+        "key": "E",
+        "text": "Yükseköğretim"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yaygın eğitim)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Farklı yaş gruplarına yönelik, kısa süreli ve belirli bir konuda düzenlenen kurslar yaygın eğitim kapsamındadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Yaygın eğitim:</strong> Farklı yaş gruplarına yönelik, kısa süreli ve belirli bir konuda düzenlenen kurslar yaygın eğitim kapsamındadır."
+  },
+  {
+    "id": "egitim_video_test_5_q3",
+    "questionNumber": 3,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yaygın eğitimle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Genellikle kısa sürelidir."
+      },
+      {
+        "key": "B",
+        "text": "Gönüllülük esastır."
+      },
+      {
+        "key": "C",
+        "text": "Farklı yaş gruplarına yöneliktir."
+      },
+      {
+        "key": "D",
+        "text": "Sürecin sonunda mutlaka diploma verilir."
+      },
+      {
+        "key": "E",
+        "text": "Belirli konularla sınırlandırılabilir."
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Sürecin sonunda mutlaka diploma verilir.)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Yaygın eğitimin sonunda genellikle katılım belgesi veya sertifika verilir.<br>• Diploma verilmesi örgün eğitime özgü bir durumdur.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Sürecin sonunda mutlaka diploma verilir.:</strong> Yaygın eğitimin sonunda genellikle katılım belgesi veya sertifika verilir."
+  },
+  {
+    "id": "egitim_video_test_5_q4",
+    "questionNumber": 4,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Örgün ve yaygın eğitimle ilgili; I. Örgün eğitim genellikle okullarda gerçekleştirilir. II. Yaygın eğitimde gönüllülük esastır. III. Her iki eğitim türü de yalnızca belirli yaş gruplarına yöneliktir. ifadelerinden hangileri doğrudur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• I ve II doğrudur.<br>• III yanlıştır; örgün eğitim belirli yaş gruplarına, yaygın eğitim ise farklı yaş gruplarına yöneliktir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>I ve II:</strong> I ve II doğrudur."
+  },
+  {
+    "id": "egitim_video_test_5_q5",
+    "questionNumber": 5,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Örgün eğitim – Gönüllülük esastır"
+      },
+      {
+        "key": "B",
+        "text": "Yaygın eğitim – Öğretim kademelerinden oluşur"
+      },
+      {
+        "key": "C",
+        "text": "Örgün eğitim – Süreç sonunda diploma verilebilir"
+      },
+      {
+        "key": "D",
+        "text": "Yaygın eğitim – Yalnızca okullarda gerçekleştirilir"
+      },
+      {
+        "key": "E",
+        "text": "Örgün eğitim – Belirli konularla sınırlandırılmıştır"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Örgün eğitim – Süreç sonunda diploma verilebilir)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Örgün eğitim belirli öğretim kademelerinden oluşur ve sürecin sonunda diploma verilebilir.<br>• Yaygın eğitimde ise genellikle sertifika veya katılım belgesi düzenlenir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Örgün eğitim – Süreç sonunda diploma verilebilir:</strong> Örgün eğitim belirli öğretim kademelerinden oluşur ve sürecin sonunda diploma verilebilir."
+  },
+  {
+    "id": "egitim_video_test_5_q6",
+    "questionNumber": 6,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Posner’ın program sınıflandırmasına göre Talim ve Terbiye Kurulu tarafından hazırlanarak okullara gönderilen yazılı ve zorunlu program aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Örtük program"
+      },
+      {
+        "key": "B",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "C",
+        "text": "Resmî program"
+      },
+      {
+        "key": "D",
+        "text": "Geçersiz program"
+      },
+      {
+        "key": "E",
+        "text": "Uygulamadaki program"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Resmî program)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Talim ve Terbiye Kurulu tarafından hazırlanan, ülkenin eğitim felsefesini ve politikalarını yansıtan yazılı program resmî programdır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Resmî program:</strong> Talim ve Terbiye Kurulu tarafından hazırlanan, ülkenin eğitim felsefesini ve politikalarını yansıtan yazılı program resmî programdır."
+  },
+  {
+    "id": "egitim_video_test_5_q7",
+    "questionNumber": 7,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğretmenin resmî programı temel alarak sınıfta gerçekleştirdiği öğretme-öğrenme etkinlikleri aşağıdaki program türlerinden hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uygulamadaki program"
+      },
+      {
+        "key": "B",
+        "text": "İhmal edilen program"
+      },
+      {
+        "key": "C",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "D",
+        "text": "Örtük program"
+      },
+      {
+        "key": "E",
+        "text": "Resmî program"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Uygulamadaki program)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Öğretmenin resmî programdan hareketle sınıfta fiilen gerçekleştirdiği etkinlikler uygulamadaki (işlevsel) programı oluşturur.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Uygulamadaki program:</strong> Öğretmenin resmî programdan hareketle sınıfta fiilen gerçekleştirdiği etkinlikler uygulamadaki (işlevsel) programı oluşturur."
+  },
+  {
+    "id": "egitim_video_test_5_q8",
+    "questionNumber": 8,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğrencilerin okulun kuralları, değerleri, gelenekleri ve öğretmenlerin tutumları yoluyla planlanmadan kazandıkları davranışlar hangi program kapsamında değerlendirilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî program"
+      },
+      {
+        "key": "B",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "C",
+        "text": "Geçersiz program"
+      },
+      {
+        "key": "D",
+        "text": "Örtük program"
+      },
+      {
+        "key": "E",
+        "text": "Uygulamadaki program SERKAN HOCA EKYS 2027"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Örtük program)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Yazılı olmayan; okulun iklimi, kuralları, değerleri ve ilişkileri aracılığıyla ortaya çıkan öğrenmeler örtük programın kapsamındadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Örtük program:</strong> Yazılı olmayan; okulun iklimi, kuralları, değerleri ve ilişkileri aracılığıyla ortaya çıkan öğrenmeler örtük programın kapsamındadır."
+  },
+  {
+    "id": "egitim_video_test_5_q9",
+    "questionNumber": 9,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Okulda gönüllülük esasına dayalı olarak gerçekleştirilen; I. Spor kulübü, II. Koro çalışması, III. Resim atölyesi etkinliklerinden hangileri ekstra program kapsamında yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Resmî programın dışında, planlı ve gönüllülük esasına dayalı sosyal, kültürel, sportif ve sanatsal çalışmalar ekstra programdır.<br>• Bu nedenle üç etkinlik de bu kapsamdadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>I, II ve III:</strong> Resmî programın dışında, planlı ve gönüllülük esasına dayalı sosyal, kültürel, sportif ve sanatsal çalışmalar ekstra programdır."
+  },
+  {
+    "id": "egitim_video_test_5_q10",
+    "questionNumber": 10,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir dersin öğretim programında yer almasına rağmen zaman yetersizliği nedeniyle bazı konuların öğretmen tarafından işlenmemesi hangi program türüne örnek oluşturur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Resmî program"
+      },
+      {
+        "key": "B",
+        "text": "Örtük program"
+      },
+      {
+        "key": "C",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "D",
+        "text": "Uygulamadaki program"
+      },
+      {
+        "key": "E",
+        "text": "Geçersiz (ihmal edilen) program"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Geçersiz (ihmal edilen) program)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Programda bulunmasına rağmen kasıtlı olarak öğretilmeyen, eksik bırakılan veya atlanan konu ve kazanımlar geçersiz (ihmal edilen) program kapsamında değerlendirilir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Geçersiz (ihmal edilen) program:</strong> Programda bulunmasına rağmen kasıtlı olarak öğretilmeyen, eksik bırakılan veya atlanan konu ve kazanımlar geçersiz (ihmal edilen) program kapsamında değerlendirilir."
+  },
+  {
+    "id": "egitim_video_test_5_q11",
+    "questionNumber": 11,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir eğitim programının hedeflerinin kendi içinde çelişmemesi ve benimsenen eğitim anlayışına uygun olması, program geliştirmenin hangi temeliyle ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ekonomik temel"
+      },
+      {
+        "key": "B",
+        "text": "Tarihsel temel"
+      },
+      {
+        "key": "C",
+        "text": "Felsefi temel"
+      },
+      {
+        "key": "D",
+        "text": "Psikolojik temel"
+      },
+      {
+        "key": "E",
+        "text": "Toplumsal temel"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Felsefi temel)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Programın hedeflerine yön veren, hedeflerin uygunluğunu ve kendi içindeki tutarlılığını sağlayan unsur felsefi temeldir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Felsefi temel:</strong> Programın hedeflerine yön veren, hedeflerin uygunluğunu ve kendi içindeki tutarlılığını sağlayan unsur felsefi temeldir."
+  },
+  {
+    "id": "egitim_video_test_5_q12",
+    "questionNumber": 12,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğretim programı hazırlanırken öğrencilerin gelişim özelliklerinin, hazırbulunuşluk düzeylerinin ve öğrenme biçimlerinin dikkate alınması hangi temele dayanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Konu alanı temeli"
+      },
+      {
+        "key": "B",
+        "text": "Psikolojik temel"
+      },
+      {
+        "key": "C",
+        "text": "Ekonomik temel"
+      },
+      {
+        "key": "D",
+        "text": "Tarihsel temel"
+      },
+      {
+        "key": "E",
+        "text": "Felsefi temel"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Psikolojik temel)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Öğrencilerin gelişim ve öğrenme özelliklerinin dikkate alınması psikolojik temelle ilgilidir.<br>• Bu temel, programın uygulanabilir ve öğrenmelerin gerçekleştirilebilir olmasını sağlar.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Psikolojik temel:</strong> Öğrencilerin gelişim ve öğrenme özelliklerinin dikkate alınması psikolojik temelle ilgilidir."
+  },
+  {
+    "id": "egitim_video_test_5_q13",
+    "questionNumber": 13,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir eğitim programında toplumun değerlerine, ihtiyaçlarına ve değişen sosyal yapısına yer verilmesi aşağıdaki temellerden hangisinin gereğidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bireysel temel"
+      },
+      {
+        "key": "B",
+        "text": "Tarihsel temel"
+      },
+      {
+        "key": "C",
+        "text": "Ekonomik temel"
+      },
+      {
+        "key": "D",
+        "text": "Toplumsal temel"
+      },
+      {
+        "key": "E",
+        "text": "Konu alanı temeli"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Toplumsal temel)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Eğitim programının toplumun ihtiyaçlarına ve değerlerine uygun hazırlanması toplumsal (sosyal) temele dayanır.<br>• Bu temel, bireyin toplumla uyumunu amaçlar.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Toplumsal temel:</strong> Eğitim programının toplumun ihtiyaçlarına ve değerlerine uygun hazırlanması toplumsal (sosyal) temele dayanır."
+  },
+  {
+    "id": "egitim_video_test_5_q14",
+    "questionNumber": 14,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Program geliştirmenin temelleriyle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bireysel temel – Kendini gerçekleştirme"
+      },
+      {
+        "key": "B",
+        "text": "Toplumsal temel – Topluma uyum"
+      },
+      {
+        "key": "C",
+        "text": "Felsefi temel – Uygunluk ve tutarlılık"
+      },
+      {
+        "key": "D",
+        "text": "Psikolojik temel – Oluşturulabilirlik ve uygulanabilirlik"
+      },
+      {
+        "key": "E",
+        "text": "Ekonomik temel – Geçmiş program deneyimlerinden yararlanma"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ekonomik temel – Geçmiş program deneyimlerinden yararlanma)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Geçmiş program deneyimlerinden yararlanma tarihsel temelle ilgilidir.<br>• Ekonomik temel ise kaynakların verimli kullanılması ve toplumun ihtiyaç duyduğu insan gücünün yetiştirilmesiyle ilişkilidir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Ekonomik temel – Geçmiş program deneyimlerinden yararlanma:</strong> Geçmiş program deneyimlerinden yararlanma tarihsel temelle ilgilidir."
+  },
+  {
+    "id": "egitim_video_test_5_q15",
+    "questionNumber": 15,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir ülkenin ihtiyaç duyduğu nitelikli iş gücünün yetiştirilmesi ve eğitim kaynaklarının verimli kullanılması, program geliştirmenin hangi temeliyle doğrudan ilişkilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ekonomik temel"
+      },
+      {
+        "key": "B",
+        "text": "Bireysel temel"
+      },
+      {
+        "key": "C",
+        "text": "Felsefi temel"
+      },
+      {
+        "key": "D",
+        "text": "Psikolojik temel"
+      },
+      {
+        "key": "E",
+        "text": "Tarihsel temel"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ekonomik temel)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Eğitim yoluyla nitelikli insan gücü yetiştirilmesi ve mevcut kaynakların verimli kullanılması ekonomik temelin kapsamındadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Ekonomik temel:</strong> Eğitim yoluyla nitelikli insan gücü yetiştirilmesi ve mevcut kaynakların verimli kullanılması ekonomik temelin kapsamındadır."
+  },
+  {
+    "id": "egitim_video_test_5_q16",
+    "questionNumber": 16,
+    "testId": "egitim_video_test_5",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 5 (Eğitimin Temelleri & Program Türleri)",
+    "topicId": "egitim_video_test_5",
+    "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir eğitim programı hazırlanırken bilim dalındaki güncel gelişmelerin, temel kavramların ve konular arasındaki ilişkilerin dikkate alınması aşağıdaki temellerden hangisiyle ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tarihsel temel"
+      },
+      {
+        "key": "B",
+        "text": "Toplumsal temel"
+      },
+      {
+        "key": "C",
+        "text": "Konu alanı temeli"
+      },
+      {
+        "key": "D",
+        "text": "Bireysel temel"
+      },
+      {
+        "key": "E",
+        "text": "Ekonomik temel SERKAN HOCA EKYS 2027"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Konu alanı temeli)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Öğretilecek alanın temel kavramları, bilgi yapısı, güncel gelişmeleri ve konular arasındaki ilişkiler konu alanı temeli kapsamında değerlendirilir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Konu alanı temeli:</strong> Öğretilecek alanın temel kavramları, bilgi yapısı, güncel gelişmeleri ve konular arasındaki ilişkiler konu alanı temeli kapsamında değerlendirilir."
+  },
+  {
+    "id": "egitim_video_test_6_q1",
+    "questionNumber": 1,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğretmen, derslerinde klasik eserleri merkeze almakta ve öğrencilerin değişmez, evrensel doğrulara akıl yoluyla ulaşmasını amaçlamaktadır. Bu öğretmenin benimsediği eğitim felsefesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "B",
+        "text": "Esasicilik"
+      },
+      {
+        "key": "C",
+        "text": "Yeniden kurmacılık"
+      },
+      {
+        "key": "D",
+        "text": "Daimicilik"
+      },
+      {
+        "key": "E",
+        "text": "Varoluşçuluk"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Daimicilik)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Daimicilik, değişmez ve evrensel doğruların bulunduğunu savunur.<br>• Klasik eserleri, aklı ve entelektüel gelişimi merkeze alır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Daimicilik:</strong> Daimicilik, değişmez ve evrensel doğruların bulunduğunu savunur."
+  },
+  {
+    "id": "egitim_video_test_6_q2",
+    "questionNumber": 2,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğretmenin alanında uzman ve otorite olduğu, öğrencinin ise aktarılan temel bilgileri öğrenmekle yükümlü bulunduğu eğitim anlayışı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Esasicilik"
+      },
+      {
+        "key": "B",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "C",
+        "text": "Yeniden kurmacılık"
+      },
+      {
+        "key": "D",
+        "text": "Varoluşçuluk"
+      },
+      {
+        "key": "E",
+        "text": "Doğalcılık"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Esasicilik)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Esasicilikte öğretmen sınıfın otoritesi ve konunun uzmanıdır.<br>• Eğitim, temel bilgi ve kültürel değerlerin öğrencilere aktarılmasına dayanır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Esasicilik:</strong> Esasicilikte öğretmen sınıfın otoritesi ve konunun uzmanıdır."
+  },
+  {
+    "id": "egitim_video_test_6_q3",
+    "questionNumber": 3,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir okulda öğrenciler, günlük yaşamda karşılaştıkları sorunlardan hareketle projeler hazırlamakta; öğretmen ise onlara doğrudan bilgi vermek yerine rehberlik etmektedir. Bu uygulama hangi eğitim felsefesine uygundur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Daimicilik"
+      },
+      {
+        "key": "B",
+        "text": "Esasicilik"
+      },
+      {
+        "key": "C",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "D",
+        "text": "İdealizm"
+      },
+      {
+        "key": "E",
+        "text": "Realizm"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (İlerlemecilik)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• İlerlemecilikte öğrenci aktiftir, öğretmen rehberdir.<br>• Problem çözme, yaparak yaşayarak öğrenme ve gerçek yaşam deneyimleri önemlidir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>İlerlemecilik:</strong> İlerlemecilikte öğrenci aktiftir, öğretmen rehberdir."
+  },
+  {
+    "id": "egitim_video_test_6_q4",
+    "questionNumber": 4,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi yeniden kurmacılık eğitim felsefesinin temel amacıdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Değişmez doğruları yeni kuşaklara aktarmak"
+      },
+      {
+        "key": "B",
+        "text": "Öğrencilere temel bilgi ve becerileri kazandırmak"
+      },
+      {
+        "key": "C",
+        "text": "Bireyi mevcut toplumsal düzene uyumlu hâle getirmek"
+      },
+      {
+        "key": "D",
+        "text": "Toplumu eğitim yoluyla değiştirmek ve yeniden düzenlemek"
+      },
+      {
+        "key": "E",
+        "text": "Öğrencileri klasik eserlerle entelektüel yönden geliştirmek"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Toplumu eğitim yoluyla değiştirmek ve yeniden düzenlemek)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Yeniden kurmacılık, eğitimi toplumsal değişimin aracı olarak görür.<br>• Okulların ve öğretmenlerin toplumsal sorunların çözümüne öncülük etmesini amaçlar.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Toplumu eğitim yoluyla değiştirmek ve yeniden düzenlemek:</strong> Yeniden kurmacılık, eğitimi toplumsal değişimin aracı olarak görür."
+  },
+  {
+    "id": "egitim_video_test_6_q5",
+    "questionNumber": 5,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim felsefeleriyle ilgili; I. Daimicilikte akıl ve evrensel doğrular önemlidir. II. İlerlemecilikte okul, yaşama hazırlık değil yaşamın kendisidir. III. Esasicilikte öğrenci, eğitim sürecinin tek otoritesidir. ifadelerinden hangileri doğrudur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• I ve II doğrudur.<br>• III yanlıştır; esasicilikte öğretmen otoritedir, öğrenci ise daha çok bilgiyi alan ve çalışmakla sorumlu olan konumdadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>I ve II:</strong> I ve II doğrudur."
+  },
+  {
+    "id": "egitim_video_test_6_q6",
+    "questionNumber": 6,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir kurumda çalışanların sahip oldukları bilgisayar kullanma becerileri ile görevlerini etkili biçimde yerine getirebilmeleri için sahip olmaları gereken beceriler karşılaştırılmıştır. Bu çalışmada kullanılan ihtiyaç belirleme yaklaşımı hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "B",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "D",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "E",
+        "text": "Bireysel yaklaşım"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Farklar yaklaşımı)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Var olan beceri düzeyi ile ulaşılması istenen beceri düzeyi arasındaki farkın belirlenmesi farklar yaklaşımına dayanır<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Farklar yaklaşımı:</strong> Var olan beceri düzeyi ile ulaşılması istenen beceri düzeyi arasındaki farkın belirlenmesi farklar yaklaşımına dayanır"
+  },
+  {
+    "id": "egitim_video_test_6_q7",
+    "questionNumber": 7,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir eğitim programı hazırlanırken siyasi partilerin, sendikaların, sivil toplum kuruluşlarının ve farklı toplumsal grupların görüşlerinin alınması hangi ihtiyaç belirleme yaklaşımına örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "B",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "C",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "E",
+        "text": "Teknik yaklaşım"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Demokratik yaklaşım)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Toplumdaki farklı grupların ihtiyaç belirleme sürecine katılması ve görüşlerinin programa yansıtılması demokratik yaklaşımın özelliğidir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Demokratik yaklaşım:</strong> Toplumdaki farklı grupların ihtiyaç belirleme sürecine katılması ve görüşlerinin programa yansıtılması demokratik yaklaşımın özelliğidir."
+  },
+  {
+    "id": "egitim_video_test_6_q8",
+    "questionNumber": 8,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Teknolojik gelişmeler dikkate alınarak gelecekte yapay zekâ alanında yetişmiş insan gücüne ihtiyaç duyulacağının öngörülmesi hangi yaklaşımla açıklanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "B",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "E",
+        "text": "Mesleki yaklaşım SERKAN HOCA EKYS 2027"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Analitik yaklaşım)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Gelecekte ortaya çıkabilecek durumları ulusal ve uluslararası gelişmelerden hareketle önceden tahmin etmek analitik yaklaşımdır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Analitik yaklaşım:</strong> Gelecekte ortaya çıkabilecek durumları ulusal ve uluslararası gelişmelerden hareketle önceden tahmin etmek analitik yaklaşımdır."
+  },
+  {
+    "id": "egitim_video_test_6_q9",
+    "questionNumber": 9,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğretim programındaki ilk yardım konularının yetersiz olduğu belirlenmiştir. Bu yetersizliğin yol açtığı zararlar ile eksiklik giderildiğinde sağlanacak yararlar karşılaştırılmıştır. Bu ihtiyaç belirleme çalışmasında hangi yaklaşım kullanılmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Demokratik yaklaşım"
+      },
+      {
+        "key": "B",
+        "text": "Analitik yaklaşım"
+      },
+      {
+        "key": "C",
+        "text": "Betimsel yaklaşım"
+      },
+      {
+        "key": "D",
+        "text": "Farklar yaklaşımı"
+      },
+      {
+        "key": "E",
+        "text": "Toplumsal yaklaşım"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Betimsel yaklaşım)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Mevcut programdaki bir eksikliğin doğurduğu zararlar ile eksiklik giderildiğinde ortaya çıkacak faydaların karşılaştırılması betimsel yaklaşıma örnektir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Betimsel yaklaşım:</strong> Mevcut programdaki bir eksikliğin doğurduğu zararlar ile eksiklik giderildiğinde ortaya çıkacak faydaların karşılaştırılması betimsel yaklaşıma örnektir."
+  },
+  {
+    "id": "egitim_video_test_6_q10",
+    "questionNumber": 10,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İhtiyaç belirleme yaklaşımlarıyla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Farklar yaklaşımı – Var olan ile olması gerekenin karşılaştırılması"
+      },
+      {
+        "key": "B",
+        "text": "Demokratik yaklaşım – Farklı grupların görüşlerinin alınması"
+      },
+      {
+        "key": "C",
+        "text": "Analitik yaklaşım – Gelecekteki durumların tahmin edilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Betimsel yaklaşım – Eksikliğin zarar ve faydalarının karşılaştırılması"
+      },
+      {
+        "key": "E",
+        "text": "Demokratik yaklaşım – Yalnızca uzman görüşlerine başvurulması"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Demokratik yaklaşım – Yalnızca uzman görüşlerine başvurulması)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Demokratik yaklaşımda yalnızca uzmanların değil, toplumdaki farklı kesimlerin ve grupların görüşleri alınır.<br>• Bu nedenle E seçeneği yanlıştır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Demokratik yaklaşım – Yalnızca uzman görüşlerine başvurulması:</strong> Demokratik yaklaşımda yalnızca uzmanların değil, toplumdaki farklı kesimlerin ve grupların görüşleri alınır."
+  },
+  {
+    "id": "egitim_video_test_6_q11",
+    "questionNumber": 11,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İhtiyaç belirleme sürecinde; I. Mevcut yeterlik düzeyi ile hedeflenen düzey arasındaki uzaklığın belirlenmesi, II. Gelecekte ortaya çıkabilecek mesleklerin öngörülmesi, III. Sivil toplum kuruluşlarının görüşlerine başvurulması uygulamalarında kullanılan yaklaşımlar sırasıyla hangileridir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Farklar – Analitik – Demokratik"
+      },
+      {
+        "key": "B",
+        "text": "Betimsel – Farklar – Analitik"
+      },
+      {
+        "key": "C",
+        "text": "Analitik – Demokratik – Betimsel"
+      },
+      {
+        "key": "D",
+        "text": "Demokratik – Betimsel – Farklar"
+      },
+      {
+        "key": "E",
+        "text": "Farklar – Demokratik – Analitik"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Farklar – Analitik – Demokratik)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Mevcut durum ile hedeflenen durumun karşılaştırılması farklar, geleceğin tahmin edilmesi analitik, farklı toplumsal kesimlerin görüşlerinin alınması ise demokratik yaklaşımın özelliğidir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Farklar – Analitik – Demokratik:</strong> Mevcut durum ile hedeflenen durumun karşılaştırılması farklar, geleceğin tahmin edilmesi analitik, farklı toplumsal kesimlerin görüşlerinin alınması ise demokratik yaklaşımın özelliğidir."
+  },
+  {
+    "id": "egitim_video_test_6_q12",
+    "questionNumber": 12,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yeni geliştirilecek bir eğitim programının hangi yeterlikleri kazandırması gerektiğini belirlemek isteyen komisyon, farklı şehirlerdeki alan uzmanlarına birkaç tur hâlinde anket uygular. Her tur sonunda cevaplar özetlenerek uzmanlara yeniden gönderilir ve ortak görüş oluşturulmaya çalışılır. Bu süreçte kullanılan ihtiyaç belirleme tekniği hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gözlem"
+      },
+      {
+        "key": "B",
+        "text": "Delphi"
+      },
+      {
+        "key": "C",
+        "text": "Meslek analizi"
+      },
+      {
+        "key": "D",
+        "text": "Kaynak tarama"
+      },
+      {
+        "key": "E",
+        "text": "Görüşme"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Delphi)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Delphi tekniğinde, konuyla ilgili seçilmiş uzmanların görüşleri genellikle birden fazla anket turuyla alınır.<br>• Her turun sonuçları uzmanlarla paylaşılır ve görüşlerin ortak bir noktada birleşmesi amaçlanır.<br>• Uzmanların farklı yerlerde bulunması yüz yüze çalışmayı zorunlu kılmaz.<br>•  Gözlem, bireylerin davranışlarının doğal ortamda izlenmesidir.<br>•  Meslek analizi, bir meslekte çalışan kişilerin yaptığı işlerin ve sahip olması gereken yeterliklerin incelenmesidir.<br>•  Kaynak tarama, yazılı belge ve dokümanların incelenmesine dayanır.<br>•  Görüşme, katılımcıların düşüncelerinin sözlü veya yazılı biçimde doğrudan alınmasıdır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Delphi:</strong> Delphi tekniğinde, konuyla ilgili seçilmiş uzmanların görüşleri genellikle birden fazla anket turuyla alınır."
+  },
+  {
+    "id": "egitim_video_test_6_q13",
+    "questionNumber": 13,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Henüz yaygınlaşmamış yeni bir meslek alanı için program hazırlanacaktır. Bu amaçla söz konusu alanı iyi tanıyan deneyimli ve uzman kişiler bir araya getirilerek mesleğin gerektirdiği görev ve yeterlikler belirlenmiştir. Bu çalışmada kullanılan teknik aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Progel (DACUM)"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme araçları"
+      },
+      {
+        "key": "C",
+        "text": "Gözlem"
+      },
+      {
+        "key": "D",
+        "text": "Kaynak tarama"
+      },
+      {
+        "key": "E",
+        "text": "Meslek analizi"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Progel (DACUM))<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Progel (DACUM) tekniğinde, söz konusu işi veya meslek alanını iyi bilen deneyimli ve uzman kişilerden yararlanılarak gerekli görevler, beceriler ve yeterlikler belirlenir.<br>• Özellikle bir mesleğe yönelik eğitim programı geliştirilirken kullanılabilir.<br>•  Meslek analizinde ihtiyaçları belirleyenler, genellikle mesleği hâlen fiilen yapan çalışanlardır.<br>•  Ölçme araçları, test ve ölçeklerden elde edilen sonuçlara dayanır.<br>•  Gözlem, davranışların doğrudan izlenmesidir.<br>•  Kaynak tarama, rapor ve belgelerin incelenmesini gerektirir.<br>• SERKAN HOCA EKYS 2027<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Progel (DACUM):</strong> Progel (DACUM) tekniğinde, söz konusu işi veya meslek alanını iyi bilen deneyimli ve uzman kişilerden yararlanılarak gerekli görevler, beceriler ve yeterlikler belirlenir."
+  },
+  {
+    "id": "egitim_video_test_6_q14",
+    "questionNumber": 14,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir rehber öğretmen, öğrencilerin teneffüslerde arkadaşlarıyla iletişim kurma biçimlerini önceden hazırlanmış bir forma kaydetmiştir. Elde ettiği verilerden hareketle öğrencilerin sosyal beceri eğitimi ihtiyaçlarını belirlemiştir. Rehber öğretmenin kullandığı teknik hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaynak tarama"
+      },
+      {
+        "key": "B",
+        "text": "Görüşme"
+      },
+      {
+        "key": "C",
+        "text": "Delphi"
+      },
+      {
+        "key": "D",
+        "text": "Gözlem"
+      },
+      {
+        "key": "E",
+        "text": "Progel"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Gözlem)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Öğrencilerin davranışlarının okul ortamında doğrudan izlenmesi ve bir gözlem formuna kaydedilmesi gözlem tekniğine örnektir.<br>• Bu teknik, kişilerin söylediklerinden ziyade sergiledikleri gerçek davranışlar hakkında bilgi sağlar.<br>• - Kaynak taramada yazılı belgeler incelenir.<br>• - Görüşmede öğrencilere sorular yöneltilerek düşünceleri alınır.<br>• - Delphi’de uzman grubundan aşamalı olarak görüş alınır.<br>• - Progel’de deneyimli kişiler yardımıyla mesleki yeterlikler belirlenir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Gözlem:</strong> Öğrencilerin davranışlarının okul ortamında doğrudan izlenmesi ve bir gözlem formuna kaydedilmesi gözlem tekniğine örnektir."
+  },
+  {
+    "id": "egitim_video_test_6_q15",
+    "questionNumber": 15,
+    "testId": "egitim_video_test_6",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 6 (Eğitim Felsefeleri & İhtiyaç Belirleme)",
+    "topicId": "egitim_video_test_6",
+    "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir okul müdürü, okulda yaşanan sorunları belirlemek amacıyla önce on öğrenciyle yüz yüze konuşmuş; daha sonra öğrenci sayısının fazla olması nedeniyle diğer öğrencilerin görüşlerini yazılı sorularla toplamıştır. Bu uygulamada kullanılan temel ihtiyaç belirleme tekniği hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meslek analizi"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme araçları"
+      },
+      {
+        "key": "C",
+        "text": "Görüşme"
+      },
+      {
+        "key": "D",
+        "text": "Delphi"
+      },
+      {
+        "key": "E",
+        "text": "Kaynak tarama SERKAN HOCA EKYS 2027"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Görüşme)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Öğrencilerin okul, ders ve öğretmenler hakkındaki görüşlerinin doğrudan alınması görüşme tekniği kapsamındadır.<br>• Katılımcı sayısı az olduğunda yüz yüze sözlü görüşme; sayı fazla olduğunda ise yazılı sorular kullanılabilir.<br>•  Meslek analizi, bir mesleğin görev ve yeterliklerini belirlemeye yöneliktir.<br>•  Ölçme araçları, başarı, yetenek, tutum veya bilişsel özellikleri standart test ve ölçeklerle belirler.<br>•  Delphi’de seçilmiş uzmanların ortak görüşü aranır.<br>•  Kaynak tarama, mevcut belgelerin incelenmesine dayanır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Görüşme:</strong> Öğrencilerin okul, ders ve öğretmenler hakkındaki görüşlerinin doğrudan alınması görüşme tekniği kapsamındadır."
+  },
+  {
+    "id": "egitim_video_test_7_q1",
+    "questionNumber": 1,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim programında hedef kavramı aşağıdakilerden hangisiyle en doğru biçimde açıklanır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmenin ders süresince gerçekleştireceği faaliyetlerdir."
+      },
+      {
+        "key": "B",
+        "text": "Öğrenciye aktarılacak konu başlıklarının sıralanmasıdır."
+      },
+      {
+        "key": "C",
+        "text": "Planlanmış yaşantılar yoluyla öğrenciye kazandırılması kararlaştırılan davranış değişiklikleridir."
+      },
+      {
+        "key": "D",
+        "text": "Eğitim kurumunda uygulanacak yönetim kurallarının bütünüdür."
+      },
+      {
+        "key": "E",
+        "text": "Öğrencilerin ders öncesindeki bilgi düzeyidir."
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Planlanmış yaşantılar yoluyla öğrenciye kazandırılması kararlaştırılan davranış değişiklikleridir.)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Hedefler, planlanmış ve düzenlenmiş eğitim yaşantıları yoluyla öğrencilere kazandırılması öngörülen davranış değişikliklerini ifade eder.<br>• Hedefler öğretmenin yapacaklarını değil, eğitim sonunda öğrencide oluşması beklenen özellikleri gösterir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Planlanmış yaşantılar yoluyla öğrenciye kazandırılması kararlaştırılan davranış değişiklikleridir.:</strong> Hedefler, planlanmış ve düzenlenmiş eğitim yaşantıları yoluyla öğrencilere kazandırılması öngörülen davranış değişikliklerini ifade eder."
+  },
+  {
+    "id": "egitim_video_test_7_q2",
+    "questionNumber": 2,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki hedef ifadelerinden hangisi öğrenci davranışına dönüklük ilkesine uygun yazılmıştır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmen, öğrencilere çevre kirliliğini anlatır."
+      },
+      {
+        "key": "B",
+        "text": "Derste Türkiye’nin iklim özellikleri incelenir."
+      },
+      {
+        "key": "C",
+        "text": "Öğrenci, Türkiye’de görülen iklim türlerini karşılaştırır."
+      },
+      {
+        "key": "D",
+        "text": "Sınıfta demokratik değerlerin önemi üzerinde durulur."
+      },
+      {
+        "key": "E",
+        "text": "Konuyla ilgili örneklere yer verilir."
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Öğrenci, Türkiye’de görülen iklim türlerini karşılaştırır.)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Hedef, öğretmenin veya programın yapacağını değil, öğrencinin kazanacağı davranışı ifade etmelidir.<br>• “Öğrenci karşılaştırır.” ifadesi doğrudan öğrenci davranışına yöneliktir.<br>• Diğer seçenekler öğretmenin veya öğretim sürecinin faaliyetlerini belirtmektedir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Öğrenci, Türkiye’de görülen iklim türlerini karşılaştırır.:</strong> Hedef, öğretmenin veya programın yapacağını değil, öğrencinin kazanacağı davranışı ifade etmelidir."
+  },
+  {
+    "id": "egitim_video_test_7_q3",
+    "questionNumber": 3,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir hedefin farklı kişiler tarafından okunduğunda aynı şekilde anlaşılması ve farklı yorumlara yol açmaması, hedeflerin hangi özelliğiyle ilgilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Süreklilik"
+      },
+      {
+        "key": "B",
+        "text": "Açık-seçiklik"
+      },
+      {
+        "key": "C",
+        "text": "Bitişiklik"
+      },
+      {
+        "key": "D",
+        "text": "İşlevsellik"
+      },
+      {
+        "key": "E",
+        "text": "Ulaşılabilirlik"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Açık-seçiklik)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Açık seçiklik, hedefin anlaşılır, net ve yoruma kapalı olmasıdır.<br>• “Öğrenci konuyu iyi bilir.” gibi belirsiz ifadeler yerine “Öğrenci verilen kavramları sınıflandırır.” gibi gözlenebilir ve anlaşılır ifadeler kullanılmalıdır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Açık-seçiklik:</strong> Açık seçiklik, hedefin anlaşılır, net ve yoruma kapalı olmasıdır."
+  },
+  {
+    "id": "egitim_video_test_7_q4",
+    "questionNumber": 4,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "İlkokul birinci sınıf öğrencileri için “Karmaşık bilimsel araştırmaları bağımsız olarak değerlendirir.” hedefinin belirlenmesi, hedeflerin taşıması gereken öncelikle hangi özelliğe aykırıdır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kenetlilik"
+      },
+      {
+        "key": "B",
+        "text": "Tutarlılık"
+      },
+      {
+        "key": "C",
+        "text": "Ulaşılabilirlik"
+      },
+      {
+        "key": "D",
+        "text": "Süreklilik"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenme ürününe dönüklük"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ulaşılabilirlik)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bir hedef, öğrencilerin gelişim özellikleri, hazırbulunuşluk düzeyleri, eğitim süresi ve mevcut imkânlar dikkate alınarak gerçekleştirilebilir olmalıdır.<br>• Verilen hedef birinci sınıf öğrencilerinin düzeyinin üzerinde olduğu için ulaşılabilir değildir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Ulaşılabilirlik:</strong> Bir hedef, öğrencilerin gelişim özellikleri, hazırbulunuşluk düzeyleri, eğitim süresi ve mevcut imkânlar dikkate alınarak gerçekleştirilebilir olmalıdır."
+  },
+  {
+    "id": "egitim_video_test_7_q5",
+    "questionNumber": 5,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir matematik dersinde “Öğrenci, temel geometrik şekilleri ayırt eder.” hedefine yer verilmesi, hedeflerin kenetlilik özelliği bakımından nasıl değerlendirilir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hedef, matematik alanıyla ilişkili olduğu için uygundur."
+      },
+      {
+        "key": "B",
+        "text": "Hedef, yalnızca öğretmen davranışını açıkladığı için uygun değildir."
+      },
+      {
+        "key": "C",
+        "text": "Hedef, öğrencinin bütün yaşamını kapsadığı için çok geneldir."
+      },
+      {
+        "key": "D",
+        "text": "Hedef, ulaşılamaz bir davranış içerdiği için uygun değildir."
+      },
+      {
+        "key": "E",
+        "text": "Hedef, ekonomik ihtiyaçlara dayanmadığı için uygun değildir."
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hedef, matematik alanıyla ilişkili olduğu için uygundur.)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Kenetlilik, hedefin ait olduğu konu alanıyla ilişkili olmasıdır.<br>• Geometrik şekilleri ayırt etme davranışı matematik dersinin içeriğiyle doğrudan bağlantılı olduğundan hedef, kenetlilik özelliğine uygundur.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Hedef, matematik alanıyla ilişkili olduğu için uygundur.:</strong> Kenetlilik, hedefin ait olduğu konu alanıyla ilişkili olmasıdır."
+  },
+  {
+    "id": "egitim_video_test_7_q6",
+    "questionNumber": 6,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim hedeflerinin özellikleriyle ilgili; I. Öğrencilerin ve toplumun ihtiyaçlarına cevap vermelidir. II. Birbirleriyle çelişen davranışlar içermemelidir. III. Eğitim süreci boyunca birbirini destekleyerek devam etmelidir. ifadeleri sırasıyla hangi özelliklerle ilişkilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "İşlevsellik – Tutarlılık – Süreklilik"
+      },
+      {
+        "key": "B",
+        "text": "Açık seçiklik – Kenetlilik – Ulaşılabilirlik"
+      },
+      {
+        "key": "C",
+        "text": "Tutarlılık – İşlevsellik – Sınırlılık"
+      },
+      {
+        "key": "D",
+        "text": "Ulaşılabilirlik – Bitişiklik – Açık seçiklik"
+      },
+      {
+        "key": "E",
+        "text": "Kenetlilik – Süreklilik – İşlevsellik"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (İşlevsellik – Tutarlılık – Süreklilik)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• - İhtiyaçlara cevap verme, hedefin işlevsel ve yararlı olmasıdır.<br>• Hedeflerin birbirleriyle çelişmemesi tutarlılık özelliğidir.<br>• Hedeflerin farklı sınıf ve eğitim kademelerinde birbirini destekleyerek devam etmesi ise süreklilik özelliğidir.<br>• Bu nedenle doğru sıralama İşlevsellik – Tutarlılık – Süreklilik şeklindedir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>İşlevsellik – Tutarlılık – Süreklilik:</strong> - İhtiyaçlara cevap verme, hedefin işlevsel ve yararlı olmasıdır."
+  },
+  {
+    "id": "egitim_video_test_7_q7",
+    "questionNumber": 7,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Eğitim hedeflerinin dikey sınıflandırılması aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilişsel – Duyuşsal – Devinişsel"
+      },
+      {
+        "key": "B",
+        "text": "Uzak – Genel – Özel"
+      },
+      {
+        "key": "C",
+        "text": "Bilgi – Beceri – Tutum"
+      },
+      {
+        "key": "D",
+        "text": "Hatırlama – Anlama – Uygulama"
+      },
+      {
+        "key": "E",
+        "text": "Kuramsal – Uygulamalı – İşlevsel"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Uzak – Genel – Özel)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Hedefler dikey boyutta uzak, genel ve özel hedefler şeklinde sınıflandırılır.<br>• Bilişsel, duyuşsal ve devinişsel hedefler ise yatay sınıflandırmaya aittir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Uzak – Genel – Özel:</strong> Hedefler dikey boyutta uzak, genel ve özel hedefler şeklinde sınıflandırılır."
+  },
+  {
+    "id": "egitim_video_test_7_q8",
+    "questionNumber": 8,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "“Çağdaş, demokratik, üretken ve ülkesinin gelişmesine katkıda bulunan bireyler yetiştirmek” hedefi aşağıdaki hedef türlerinden hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Özel hedef"
+      },
+      {
+        "key": "B",
+        "text": "Bilişsel hedef"
+      },
+      {
+        "key": "C",
+        "text": "Genel hedef"
+      },
+      {
+        "key": "D",
+        "text": "Uzak hedef"
+      },
+      {
+        "key": "E",
+        "text": "Devinişsel hedef SERKAN HOCA EKYS 2027"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Uzak hedef)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Uzak hedefler, ülkenin eğitim felsefesini ve yetiştirmek istediği ideal insan tipini ifade eden geniş kapsamlı ve uzun vadeli hedeflerdir.<br>• Verilen ifade belirli bir ders veya okul düzeyine ait olmadığı için uzak hedeftir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Uzak hedef:</strong> Uzak hedefler, ülkenin eğitim felsefesini ve yetiştirmek istediği ideal insan tipini ifade eden geniş kapsamlı ve uzun vadeli hedeflerdir."
+  },
+  {
+    "id": "egitim_video_test_7_q9",
+    "questionNumber": 9,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "“Ortaöğretimi tamamlayan öğrencilerin yükseköğretime ve mesleğe hazırlanması” ifadesi dikey hedef sınıflandırmasına göre hangisine örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Genel hedef"
+      },
+      {
+        "key": "B",
+        "text": "Özel hedef"
+      },
+      {
+        "key": "C",
+        "text": "Uzak hedef"
+      },
+      {
+        "key": "D",
+        "text": "Duyuşsal hedef"
+      },
+      {
+        "key": "E",
+        "text": "Devinişsel hedef"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Genel hedef)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Genel hedefler, belirli bir eğitim kademesinin, okulun veya eğitim programının amaçlarını açıklar.<br>• Burada ortaöğretim kademesinden mezun olacak öğrenciler için bir amaç belirtildiğinden genel hedeftir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Genel hedef:</strong> Genel hedefler, belirli bir eğitim kademesinin, okulun veya eğitim programının amaçlarını açıklar."
+  },
+  {
+    "id": "egitim_video_test_7_q10",
+    "questionNumber": 10,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "“Öğrenci, verilen ikinci dereceden denklemleri doğru biçimde çözer.” hedefi aşağıdaki sınıflandırmalardan hangisinde doğru verilmiştir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uzak – Duyuşsal"
+      },
+      {
+        "key": "B",
+        "text": "Genel – Devinişsel"
+      },
+      {
+        "key": "C",
+        "text": "Özel – Bilişsel"
+      },
+      {
+        "key": "D",
+        "text": "Genel – Bilişsel"
+      },
+      {
+        "key": "E",
+        "text": "Özel – Duyuşsal"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Özel – Bilişsel)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Hedef belirli bir dersin sonunda öğrenciye kazandırılacak somut bir davranışı açıkladığı için özel hedeftir.<br>• Zihinsel işlem ve problem çözme gerektirdiği için aynı zamanda bilişsel alanda yer alır<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Özel – Bilişsel:</strong> Hedef belirli bir dersin sonunda öğrenciye kazandırılacak somut bir davranışı açıkladığı için özel hedeftir."
+  },
+  {
+    "id": "egitim_video_test_7_q11",
+    "questionNumber": 11,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "“Öğrenci, tarihî ve kültürel mirasın korunmasına değer verir.” hedefi yatay sınıflandırmaya göre hangi alanda yer alır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilişsel"
+      },
+      {
+        "key": "B",
+        "text": "Devinişsel"
+      },
+      {
+        "key": "C",
+        "text": "Duyuşsal"
+      },
+      {
+        "key": "D",
+        "text": "Genel"
+      },
+      {
+        "key": "E",
+        "text": "Uzak"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Duyuşsal)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• İlgi, tutum, değer, inanç ve duygu içeren kazanımlar duyuşsal hedeflerdir.<br>• “Değer verir.” ifadesi öğrencinin tutum ve değer geliştirmesine yönelik olduğu için duyuşsal alandadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Duyuşsal:</strong> İlgi, tutum, değer, inanç ve duygu içeren kazanımlar duyuşsal hedeflerdir."
+  },
+  {
+    "id": "egitim_video_test_7_q12",
+    "questionNumber": 12,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki hedeflerden hangisi devinişsel (psikomotor) alana yöneliktir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrenci, fotosentezin aşamalarını açıklar."
+      },
+      {
+        "key": "B",
+        "text": "Öğrenci, farklı düşüncelere saygı gösterir."
+      },
+      {
+        "key": "C",
+        "text": "Öğrenci, demokrasinin temel ilkelerini sıralar."
+      },
+      {
+        "key": "D",
+        "text": "Öğrenci, mikroskobu kurallarına uygun biçimde kullanır."
+      },
+      {
+        "key": "E",
+        "text": "Öğrenci, çevreyi korumanın önemini kavrar."
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğrenci, mikroskobu kurallarına uygun biçimde kullanır.)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Devinişsel hedefler, kas ve zihin koordinasyonu gerektiren becerileri kapsar.<br>• Mikroskobu kurallarına uygun kullanmak uygulamalı bir beceri gerektirir.<br>• Açıklama ve sıralama bilişsel; saygı gösterme ise duyuşsal alana yöneliktir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Öğrenci, mikroskobu kurallarına uygun biçimde kullanır.:</strong> Devinişsel hedefler, kas ve zihin koordinasyonu gerektiren becerileri kapsar."
+  },
+  {
+    "id": "egitim_video_test_7_q13",
+    "questionNumber": 13,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bloom’un bilişsel alan sınıflamasındaki basamakların basitten karmaşığa doğru sıralanışı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi – Uygulama – Kavrama – Analiz – Değerlendirme – Sentez"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi – Kavrama – Uygulama – Analiz – Sentez – Değerlendirme"
+      },
+      {
+        "key": "C",
+        "text": "Kavrama – Bilgi – Analiz – Uygulama – Sentez – Değerlendirme"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi – Kavrama – Analiz – Uygulama – Değerlendirme – Sentez"
+      },
+      {
+        "key": "E",
+        "text": "Kavrama – Uygulama – Bilgi – Sentez – Analiz – Değerlendirme"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Bilgi – Kavrama – Uygulama – Analiz – Sentez – Değerlendirme)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Klasik Bloom taksonomisinde bilişsel hedefler basitten karmaşığa doğru bilgi, kavrama, uygulama, analiz, sentez ve değerlendirme biçiminde sıralanır.<br>• Bir üst basamağa geçebilmek için alt düzeydeki becerilerin kazanılmış olması beklenir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Bilgi – Kavrama – Uygulama – Analiz – Sentez – Değerlendirme:</strong> Klasik Bloom taksonomisinde bilişsel hedefler basitten karmaşığa doğru bilgi, kavrama, uygulama, analiz, sentez ve değerlendirme biçiminde sıralanır."
+  },
+  {
+    "id": "egitim_video_test_7_q14",
+    "questionNumber": 14,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "“Öğrenci, Türkiye’nin coğrafi bölgelerini sıralar.” kazanımı bilişsel alanın hangi basamağındadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi"
+      },
+      {
+        "key": "B",
+        "text": "Kavrama"
+      },
+      {
+        "key": "C",
+        "text": "Uygulama"
+      },
+      {
+        "key": "D",
+        "text": "Analiz"
+      },
+      {
+        "key": "E",
+        "text": "Sentez"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bilgi)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Daha önce öğrenilen bilgilerin hatırlanması ve aynen ifade edilmesi bilgi basamağına girer.<br>• “Sıralar, tanımlar, söyler, listeler ve eşleştirir” gibi davranışlar genellikle bilgi düzeyindedir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Bilgi:</strong> Daha önce öğrenilen bilgilerin hatırlanması ve aynen ifade edilmesi bilgi basamağına girer."
+  },
+  {
+    "id": "egitim_video_test_7_q15",
+    "questionNumber": 15,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğrencinin okuduğu metnin ana düşüncesini kendi cümleleriyle açıklaması bilişsel alanın hangi basamağına örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Değerlendirme"
+      },
+      {
+        "key": "B",
+        "text": "Sentez"
+      },
+      {
+        "key": "C",
+        "text": "Kavrama"
+      },
+      {
+        "key": "D",
+        "text": "Uygulama"
+      },
+      {
+        "key": "E",
+        "text": "Analiz"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kavrama)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Öğrenilen bir bilgiyi yorumlama, özetleme, örneklendirme veya kendi ifadeleriyle açıklama kavrama basamağıdır.<br>• Öğrenci burada bilgiyi yalnızca hatırlamamakta, anlamlandırarak yeniden ifade etmektedir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Kavrama:</strong> Öğrenilen bir bilgiyi yorumlama, özetleme, örneklendirme veya kendi ifadeleriyle açıklama kavrama basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_7_q16",
+    "questionNumber": 16,
+    "testId": "egitim_video_test_7",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 7 (Programın Ögeleri & Hedef Boyutu)",
+    "topicId": "egitim_video_test_7",
+    "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Matematik dersinde yüzde hesaplama kuralını öğrenen bir öğrencinin mağazadaki indirimli ürünün yeni fiyatını hesaplaması hangi bilişsel basamakla ilişkilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi"
+      },
+      {
+        "key": "B",
+        "text": "Kavrama"
+      },
+      {
+        "key": "C",
+        "text": "Analiz"
+      },
+      {
+        "key": "D",
+        "text": "Uygulama"
+      },
+      {
+        "key": "E",
+        "text": "Değerlendirme SERKAN HOCA EKYS 2027"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Uygulama)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Önceden öğrenilmiş bir ilke, yöntem veya kuralın yeni bir problem durumunda kullanılması uygulama basamağıdır.<br>• Öğrenci, yüzde hesaplama bilgisini gerçek yaşam problemi üzerinde kullanmaktadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Uygulama:</strong> Önceden öğrenilmiş bir ilke, yöntem veya kuralın yeni bir problem durumunda kullanılması uygulama basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_8_q1",
+    "questionNumber": 1,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Yenilenmiş Bloom taksonomisinde bilişsel süreç basamaklarının basitten karmaşığa doğru sıralanışı hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hatırlama – Anlama – Uygulama – Çözümleme – Değerlendirme – Yaratma"
+      },
+      {
+        "key": "B",
+        "text": "Hatırlama – Uygulama – Anlama – Değerlendirme – Çözümleme – Yaratma"
+      },
+      {
+        "key": "C",
+        "text": "Anlama – Hatırlama – Uygulama – Çözümleme – Yaratma – Değerlendirme"
+      },
+      {
+        "key": "D",
+        "text": "Hatırlama – Anlama – Çözümleme – Uygulama – Yaratma – Değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Anlama – Uygulama – Hatırlama – Değerlendirme – Yaratma – Çözümleme"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hatırlama – Anlama – Uygulama – Çözümleme – Değerlendirme – Yaratma)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Yenilenmiş Bloom taksonomisinde bilişsel süreç boyutu; hatırlama, anlama, uygulama, çözümleme, değerlendirme ve yaratma şeklinde sıralanır.<br>• En üst basamak yaratmadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Hatırlama – Anlama – Uygulama – Çözümleme – Değerlendirme – Yaratma:</strong> Yenilenmiş Bloom taksonomisinde bilişsel süreç boyutu; hatırlama, anlama, uygulama, çözümleme, değerlendirme ve yaratma şeklinde sıralanır."
+  },
+  {
+    "id": "egitim_video_test_8_q2",
+    "questionNumber": 2,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdakilerden hangisi yenilenmiş Bloom taksonomisinde yapılan değişikliklerden biri değildir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Basamakların isimleri eylem biçiminde ifade edilmiştir."
+      },
+      {
+        "key": "B",
+        "text": "Sentez basamağı yaratma olarak yeniden düzenlenmiştir."
+      },
+      {
+        "key": "C",
+        "text": "Yaratma basamağı değerlendirmeden sonra yer almıştır."
+      },
+      {
+        "key": "D",
+        "text": "Taksonomi bilgi ve bilişsel süreç olmak üzere iki boyutlu hâle getirilmiştir."
+      },
+      {
+        "key": "E",
+        "text": "Hatırlama basamağı taksonominin en üstüne çıkarılmıştır."
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Hatırlama basamağı taksonominin en üstüne çıkarılmıştır.)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Hatırlama, yenilenmiş taksonominin ilk ve en alt basamağıdır.<br>• Yenilenmiş taksonomide isim ifadeleri eylemlere dönüştürülmüş, sentezin yerini yaratma almış ve yaratma en üst basamak olmuştur.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Hatırlama basamağı taksonominin en üstüne çıkarılmıştır.:</strong> Hatırlama, yenilenmiş taksonominin ilk ve en alt basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_8_q3",
+    "questionNumber": 3,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğrencinin enerji tasarrufu sağlamaya yönelik daha önce bulunmayan özgün bir araç tasarlaması yenilenmiş Bloom taksonomisinin hangi basamağına örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hatırlama"
+      },
+      {
+        "key": "B",
+        "text": "Anlama"
+      },
+      {
+        "key": "C",
+        "text": "Uygulama"
+      },
+      {
+        "key": "D",
+        "text": "Değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Yaratma"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yaratma)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bilgileri farklı biçimde bir araya getirerek özgün bir ürün, plan veya tasarım ortaya koymak yaratma basamağında yer alır.<br>• Yaratma, yenilenmiş Bloom taksonomisinin en üst basamağıdır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Yaratma:</strong> Bilgileri farklı biçimde bir araya getirerek özgün bir ürün, plan veya tasarım ortaya koymak yaratma basamağında yer alır."
+  },
+  {
+    "id": "egitim_video_test_8_q4",
+    "questionNumber": 4,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğrencinin iki araştırma raporunu güvenilirlik ölçütlerine göre inceleyerek hangisinin daha nitelikli olduğuna gerekçeleriyle karar vermesi hangi bilişsel süreç basamağındadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hatırlama"
+      },
+      {
+        "key": "B",
+        "text": "Anlama"
+      },
+      {
+        "key": "C",
+        "text": "Uygulama"
+      },
+      {
+        "key": "D",
+        "text": "Değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Yaratma"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Değerlendirme)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Belirli ölçütlerden yararlanarak bir ürünün, görüşün veya çalışmanın niteliği hakkında karar vermek değerlendirme basamağıdır.<br>• Öğrenci yalnızca parçaları incelememekte, ölçütlere dayalı bir yargıya ulaşmaktadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Değerlendirme:</strong> Belirli ölçütlerden yararlanarak bir ürünün, görüşün veya çalışmanın niteliği hakkında karar vermek değerlendirme basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_8_q5",
+    "questionNumber": 5,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki kazanımlardan hangisi yenilenmiş Bloom taksonomisinin çözümleme basamağındadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkiye’nin başkentini söyler."
+      },
+      {
+        "key": "B",
+        "text": "Bir metnin ana düşüncesini açıklar."
+      },
+      {
+        "key": "C",
+        "text": "Öğrendiği formülü yeni bir problemde kullanır."
+      },
+      {
+        "key": "D",
+        "text": "Bir olayın nedenleri ile sonuçları arasındaki ilişkileri belirler."
+      },
+      {
+        "key": "E",
+        "text": "Bir sorunun çözümüne yönelik özgün bir model geliştirir."
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bir olayın nedenleri ile sonuçları arasındaki ilişkileri belirler.)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bir bütünü parçalara ayırma, parçalar arasındaki ilişkileri belirleme ve neden-sonuç bağlantısı kurma çözümleme basamağının özellikleridir.<br>• - A seçeneği hatırlama, - B seçeneği anlama, - C seçeneği uygulama, - E seçeneği ise yaratma basamağındadır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Bir olayın nedenleri ile sonuçları arasındaki ilişkileri belirler.:</strong> Bir bütünü parçalara ayırma, parçalar arasındaki ilişkileri belirleme ve neden-sonuç bağlantısı kurma çözümleme basamağının özellikleridir."
+  },
+  {
+    "id": "egitim_video_test_8_q6",
+    "questionNumber": 6,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğrenci, iklim değişikliğiyle ilgili farklı çözüm önerilerini belirli ölçütlere göre incelemiş, güçlü ve zayıf yönlerini belirlemiş ve en uygulanabilir öneriyi seçmiştir. Bu öğrencinin gerçekleştirdiği baskın bilişsel süreç hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hatırlama"
+      },
+      {
+        "key": "B",
+        "text": "Anlama"
+      },
+      {
+        "key": "C",
+        "text": "Uygulama"
+      },
+      {
+        "key": "D",
+        "text": "Değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Yaratma"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Değerlendirme)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Öğrenci, mevcut önerileri belirli ölçütlere göre yargılayarak en uygun olanı seçmiştir.<br>• Ölçüt kullanarak karar verme, eleştirme, denetleme ve yargıda bulunma değerlendirme basamağına girer.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Değerlendirme:</strong> Öğrenci, mevcut önerileri belirli ölçütlere göre yargılayarak en uygun olanı seçmiştir."
+  },
+  {
+    "id": "egitim_video_test_8_q7",
+    "questionNumber": 7,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Duyuşsal alan basamaklarının basitten karmaşığa doğru sıralanışı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alma – Tepkide bulunma – Değer verme – Örgütleme – Kişilik hâline getirme"
+      },
+      {
+        "key": "B",
+        "text": "Alma – Değer verme – Tepkide bulunma – Kişilik hâline getirme – Örgütleme"
+      },
+      {
+        "key": "C",
+        "text": "Tepkide bulunma – Alma – Örgütleme – Değer verme – Kişilik hâline getirme"
+      },
+      {
+        "key": "D",
+        "text": "Alma – Tepkide bulunma – Örgütleme – Değer verme – Kişilik hâline getirme"
+      },
+      {
+        "key": "E",
+        "text": "Değer verme – Alma – Tepkide bulunma – Örgütleme – Kişilik hâline getirme SERKAN HOCA EKYS 2027"
+      }
+    ],
+    "correctAnswer": "A",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>A</strong> (Alma – Tepkide bulunma – Değer verme – Örgütleme – Kişilik hâline getirme)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Duyuşsal alan basamakları alma, tepkide bulunma, değer verme, örgütleme ve kişilik hâline getirme şeklinde sıralanır.<br>• Basamaklar, bireyin bir uyarıcının farkına varmasından değeri yaşam biçimine dönüştürmesine kadar ilerler.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Alma – Tepkide bulunma – Değer verme – Örgütleme – Kişilik hâline getirme:</strong> Duyuşsal alan basamakları alma, tepkide bulunma, değer verme, örgütleme ve kişilik hâline getirme şeklinde sıralanır."
+  },
+  {
+    "id": "egitim_video_test_8_q8",
+    "questionNumber": 8,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Öğretmenin çevre kirliliğiyle ilgili açıklamalarını dikkatle dinleyen bir öğrenci, duyuşsal alanın hangi basamağında davranış göstermektedir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Değer verme"
+      },
+      {
+        "key": "B",
+        "text": "Örgütleme"
+      },
+      {
+        "key": "C",
+        "text": "Alma"
+      },
+      {
+        "key": "D",
+        "text": "Tepkide bulunma"
+      },
+      {
+        "key": "E",
+        "text": "Kişilik hâline getirme"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Alma)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bir uyarıcının farkına varma, ona dikkat etme ve dinlemeye istekli olma alma basamağıdır.<br>• Öğrenci henüz etkinliğe katılmamakta, yalnızca konuya dikkat yöneltmektedir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Alma:</strong> Bir uyarıcının farkına varma, ona dikkat etme ve dinlemeye istekli olma alma basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_8_q9",
+    "questionNumber": 9,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğrencinin gönüllü olarak okulun düzenlediği kitap okuma etkinliğine katılması duyuşsal alanın hangi basamağına örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alma"
+      },
+      {
+        "key": "B",
+        "text": "Tepkide bulunma"
+      },
+      {
+        "key": "C",
+        "text": "Değer verme"
+      },
+      {
+        "key": "D",
+        "text": "Örgütleme"
+      },
+      {
+        "key": "E",
+        "text": "Kişilik hâline getirme"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tepkide bulunma)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bireyin bir uyarıcıya yalnızca dikkat etmekle kalmayıp etkinliğe gönüllü olarak katılması ve karşılık vermesi tepkide bulunma basamağıdır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Tepkide bulunma:</strong> Bireyin bir uyarıcıya yalnızca dikkat etmekle kalmayıp etkinliğe gönüllü olarak katılması ve karşılık vermesi tepkide bulunma basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_8_q10",
+    "questionNumber": 10,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğrencinin tarihî eserlerin korunmasını önemli bulması ve bunların korunmasına yönelik çalışmalara destek vermesi hangi duyuşsal basamakla ilişkilidir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alma"
+      },
+      {
+        "key": "B",
+        "text": "Tepkide bulunma"
+      },
+      {
+        "key": "C",
+        "text": "Değer verme"
+      },
+      {
+        "key": "D",
+        "text": "Örgütleme"
+      },
+      {
+        "key": "E",
+        "text": "Kişilik hâline getirme"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Değer verme)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bireyin bir davranışın veya düşüncenin önemini kabul etmesi, onu benimsemesi ve savunması değer verme basamağıdır.<br>• Öğrenci, tarihî eserleri korumayı kendisi için önemli bir değer olarak görmektedir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Değer verme:</strong> Bireyin bir davranışın veya düşüncenin önemini kabul etmesi, onu benimsemesi ve savunması değer verme basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_8_q11",
+    "questionNumber": 11,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Dürüstlüğü temel yaşam ilkesi hâline getiren ve farklı koşullarda çıkarına aykırı olsa bile dürüst davranmayı sürdüren bir kişi, duyuşsal alanın hangi basamağındadır?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alma"
+      },
+      {
+        "key": "B",
+        "text": "Tepkide bulunma"
+      },
+      {
+        "key": "C",
+        "text": "Değer verme"
+      },
+      {
+        "key": "D",
+        "text": "Örgütleme"
+      },
+      {
+        "key": "E",
+        "text": "Kişilik hâline getirme"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (Değer verme)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bir değerin bireyin davranışlarına sürekli yön vermesi ve kişiliğinin ayrılmaz bir parçasına dönüşmesi kişilik hâline getirme basamağıdır.<br>• Bu basamak duyuşsal alanın en üst düzeyidir.<br>• SERKAN HOCA EKYS 2027<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Değer verme:</strong> Bir değerin bireyin davranışlarına sürekli yön vermesi ve kişiliğinin ayrılmaz bir parçasına dönüşmesi kişilik hâline getirme basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_8_q12",
+    "questionNumber": 12,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Bir öğrenci; başarı, dürüstlük ve arkadaşlık değerleri arasında çatışma yaşadığında dürüstlüğü öncelikli değer olarak belirleyip davranışlarını buna göre düzenlemektedir. Bu durum duyuşsal alanın hangi basamağına örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alma"
+      },
+      {
+        "key": "B",
+        "text": "Tepkide bulunma"
+      },
+      {
+        "key": "C",
+        "text": "Değer verme"
+      },
+      {
+        "key": "D",
+        "text": "Örgütleme"
+      },
+      {
+        "key": "E",
+        "text": "Kişilik hâline getirme"
+      }
+    ],
+    "correctAnswer": "D",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>D</strong> (Örgütleme)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bireyin benimsediği farklı değerleri karşılaştırması, aralarındaki çatışmaları çözmesi ve bu değerleri bir sistem içinde düzenlemesi örgütleme basamağıdır.<br>• Burada öğrenci, değerleri arasında bir öncelik sırası oluşturmuştur.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Örgütleme:</strong> Bireyin benimsediği farklı değerleri karşılaştırması, aralarındaki çatışmaları çözmesi ve bu değerleri bir sistem içinde düzenlemesi örgütleme basamağıdır."
+  },
+  {
+    "id": "egitim_video_test_8_q13",
+    "questionNumber": 13,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki davranışlardan hangisi duyuşsal alanın tepkide bulunma basamağına örnektir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmenin konuşmasını dikkatle dinleme"
+      },
+      {
+        "key": "B",
+        "text": "Çevre temizliği etkinliğine gönüllü olarak katılma"
+      },
+      {
+        "key": "C",
+        "text": "Çevreyi korumayı önemli bir değer olarak benimseme"
+      },
+      {
+        "key": "D",
+        "text": "Çevreci değerleri kendi değer sistemiyle bütünleştirme"
+      },
+      {
+        "key": "E",
+        "text": "Yaşamı boyunca çevreye duyarlı davranma"
+      }
+    ],
+    "correctAnswer": "B",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>B</strong> (Çevre temizliği etkinliğine gönüllü olarak katılma)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bir etkinliğe gönüllü olarak katılma ve uyarıcıya karşı etkin davranış gösterme tepkide bulunmadır.<br>• - Dikkatle dinleme alma, - Bir değeri benimseme değer verme, - Değerleri bütünleştirme örgütleme, - Davranışı yaşam biçimine dönüştürme ise kişilik hâline getirme basamağıdır.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Çevre temizliği etkinliğine gönüllü olarak katılma:</strong> Bir etkinliğe gönüllü olarak katılma ve uyarıcıya karşı etkin davranış gösterme tepkide bulunmadır."
+  },
+  {
+    "id": "egitim_video_test_8_q14",
+    "questionNumber": 14,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Duyuşsal alan basamaklarıyla ilgili; I. Alma basamağında birey, uyarıcının farkına varır. II. Örgütleme basamağında birey, farklı değerleri bir sistem içinde düzenler. III. Kişilik hâline getirme basamağında davranışlar geçici ve duruma bağlıdır. ifadelerinden hangileri doğrudur?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• I ve II doğrudur.<br>• III yanlıştır; kişilik hâline getirme basamağında davranışlar sürekli, tutarlı ve bireyin karakterini yansıtacak duruma gelir.<br>• Geçici davranışlar bu basamağın özelliği değildir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>I ve II:</strong> I ve II doğrudur."
+  },
+  {
+    "id": "egitim_video_test_8_q15",
+    "questionNumber": 15,
+    "testId": "egitim_video_test_8",
+    "testTitle": "Eğitim Bilimleri 2. Video - Test 8 (Bloom Taksonomisi & Alanlar)",
+    "topicId": "egitim_video_test_8",
+    "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
+    "category": "Eğitim Bilimleri",
+    "questionText": "Aşağıdaki kazanımlardan hangisi duyuşsal alanın en üst basamağına yöneliktir?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrenci, farklı kültürlerle ilgili açıklamaları dinler."
+      },
+      {
+        "key": "B",
+        "text": "Öğrenci, kültürel etkinliklere istekli biçimde katılır."
+      },
+      {
+        "key": "C",
+        "text": "Öğrenci, kültürel farklılıklara saygı göstermenin önemini kabul eder."
+      },
+      {
+        "key": "D",
+        "text": "Öğrenci, eşitlik ve saygı değerleri arasında tutarlı bir ilişki kurar."
+      },
+      {
+        "key": "E",
+        "text": "Öğrenci, kültürel farklılıklara saygıyı yaşamının her alanında sürekli gösterir. SERKAN HOCA EKYS 2027"
+      }
+    ],
+    "correctAnswer": "E",
+    "hasImage": false,
+    "image": null,
+    "explanation": "Doğru Cevap: <strong>E</strong> (Öğrenci, kültürel farklılıklara saygıyı yaşamının her alanında sürekli gösterir. SERKAN HOCA EKYS 2027)<br><br>📌 <strong>Serkan Hoca Çözüm Analizi:</strong><br>• Bir değerin farklı durumlarda sürekli ve tutarlı biçimde davranışlara yön vermesi kişilik hâline getirme basamağıdır.<br>• Bu, duyuşsal alanın en üst düzeyidir.<br>• Öğrenci saygı değerini geçici olarak değil, yaşam biçimi hâlinde göstermektedir.<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• <strong>Öğrenci, kültürel farklılıklara saygıyı yaşamının her alanında sürekli gösterir. SERKAN HOCA EKYS 2027:</strong> Bir değerin farklı durumlarda sürekli ve tutarlı biçimde davranışlara yön vermesi kişilik hâline getirme basamağıdır."
   }
 ];
