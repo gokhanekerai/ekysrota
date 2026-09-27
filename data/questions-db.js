@@ -34727,27 +34727,27 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "A şıkkındaki şekil (güneş tepede)"
+        "text": "A şıkkındaki şekil (Güneş tam tepe noktasında - Saat 12:00)"
       },
       {
         "key": "B",
-        "text": "B şıkkındaki şekil (güneş batı tarafında alçakta)"
+        "text": "B şıkkındaki şekil (Güneş batmak üzere - Akşamüzeri ~17:00)"
       },
       {
         "key": "C",
-        "text": "C şıkkındaki şekil (güneş doğu tarafında alçakta)"
+        "text": "C şıkkındaki şekil (Güneş yeni doğmuş - Sabah ~07:00)"
       },
       {
         "key": "D",
-        "text": "D şıkkındaki şekil (güneş tam tepede)"
+        "text": "D şıkkındaki şekil (Güneş tepeyi biraz geçmiş, batı yönünde - Saat ~13:04)"
       },
       {
         "key": "E",
-        "text": "E şıkkındaki şekil (güneş merkezde)"
+        "text": "E şıkkındaki şekil (Güneş tepeye yaklaşmakta - Öğleden önce ~11:00)"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (B şıkkındaki şekil - Güneş batıya yaklaşmış durum)<br><br>🎯 <strong>Doğru Cevabın Analizi:</strong><br>• Şekilde İzmir'de Güneş tam tepe noktasında olduğundan yerel saat <strong>12:00 (öğle vakti)</strong>'dir.<br>• Ardahan (yaklaşık 43°D), İzmir'e (yaklaşık 27°D) göre daha doğudadır ve yerel saati İzmir'den yaklaşık 1 saat daha ileridir (Ardahan'da saat ~13:00'ü geçmiştir).<br>• Öğle vaktini geçen merkezlerde Güneş tepe noktasını aşmış ve batış ufkuna doğru ilerlemiştir. Bu durumu gösteren şekil <strong>B</strong> seçeneğidir."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (D şıkkındaki şekil - Güneş tepe noktasını yaklaşık 1 saat aşmış durum)<br><br>🎯 <strong>Doğru Cevabın Detaylı Analizi:</strong><br>• Şekilde İzmir'de Güneş tam tepe noktasında olduğundan İzmir'de yerel saat <strong>12:00 (öğle vakti)</strong>'dir.<br>• İzmir (~27° Doğu) ile Ardahan (~43° Doğu) arasında <strong>16 meridyen farkı</strong> bulunur.<br>• İki meridyen arası 4 dakika olduğundan zaman farkı: <strong>16 × 4 = 64 dakika (yaklaşık 1 saat 4 dakika)</strong>'dır.<br>• Doğu'da yerel saat ileri olduğundan İzmir'de saat 12:00 iken Ardahan'da yerel saat <strong>13:04</strong>'tür.<br>• Türkiye'nin en doğusu ile en batısı arasındaki toplam zaman farkı yalnızca 76 dakikadır. Bu nedenle Ardahan'da Güneş B seçeneğindeki gibi batmaya yaklaşamaz (B şıkkı akşamüzeri ~17:00'yi temsil eder).<br>• Saat 13:04 durumunu, yani Güneş'in tepe noktasını yaklaşık 1 saat (15-16 derece) aşıp batıya hafifçe kaydığını gösteren doğru şekil <strong>D seçeneğidir</strong>.<br>• Orijinal testin cevap anahtarında da doğru yanıt <strong>D</strong> olarak belirtilmiştir."
   },
   {
     "id": "cogr_test_1-q10",
