@@ -6337,12 +6337,12 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "id": "cogr_h3-q1",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 1,
-    "questionText": "Türkiye'nin göreceli konumundan kaynaklanan ozel-\nlikleri kuzeye doğru gidildikçe sıcaklığın düzenli aza-\nlisgostermesiniengellemektedir.\nAşağıdaki illerden hangisinin ortalama kis sicak-\nik degerinin Yozgat'tan daha yüksek olmasi en-\nlem sicaklikiliskisiile çelişir?",
+    "questionText": "Türkiye'nin göreceli (özel) konumundan kaynaklanan özellikleri, güneyden kuzeye doğru gidildikçe sıcaklığın düzenli bir şekilde azalmasını engellemektedir.\n\nBuna göre, aşağıdaki illerden hangisinin kış mevsimi ortalama sıcaklık değerinin Yozgat'tan daha yüksek olması enlem-sıcaklık ilişkisi ile çelişir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -6368,18 +6368,18 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Giresun)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Enlem-sıcaklık ilişkisine göre güneydeki merkezlerin daha sıcak, kuzeydeki merkezlerin daha soğuk olması gerekir. Yozgat (İç Anadolu, ~39.8° K) Giresun'a (Karadeniz kıyısı, ~40.9° K) göre daha güneydedir. Normalde enlem gereği Yozgat'ın kışın daha sıcak olması beklenir; ancak Giresun'un denizel ve düşük rakımlı olması sebebiyle kış ortalama sıcaklığı Yozgat'tan belirgin şekilde yüksektir. Bu durum <strong>enlem-sıcaklık ilişkisiyle çelişir (özel konum / denizellik)</strong>.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Adana, Muğla, Burdur ve Hatay Yozgat'ın güneyindedir; bu illerin Yozgat'tan sıcak olması enlem ilişkisine uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz kıyılarındaki illerin (Samsun, Trabzon, Giresun, Sinop) kışın İç Anadolu illerinden (Ankara, Yozgat, Sivas) daha ılık olması ÖSYM'nin klasik 'Enlemle Çelişen Özel Konum' sorusudur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Giresun)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Enlem-sıcaklık ilişkisine göre güneydeki merkezlerin Güneş ışınlarını daha büyük açıyla alması nedeniyle kuzeydeki merkezlerden daha sıcak olması gerekir.<br>• Yozgat (~39.8° K) İç Anadolu'da yer alır ve Karadeniz kıyısındaki Giresun'a (~40.9° K) göre daha güneydedir. Matematik konum gereği kışın Yozgat'ın daha sıcak olması beklenirken; Giresun'un deniz kıyısında bulunması (denizellik) ve alçak rakıma sahip olması nedeniyle kış ortalaması Yozgat'tan belirgin şekilde yüksektir. Bu durum enlem kuralına uymaz, <strong>özel konum (denizellik ve yükselti)</strong> etkisiyle açıklanır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Adana, Hatay, Muğla ve Burdur illeri Yozgat'ın güneyinde yer almaktadır. Bu illerin Yozgat'tan daha sıcak olması enlem-sıcaklık ilişkisine zaten uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kış mevsiminde Karadeniz kıyılarındaki kentlerin (Samsun, Trabzon, Giresun, Sinop) İç Anadolu'daki kentlerden (Ankara, Yozgat, Sivas) daha ılık olması, ÖSYM'nin 'enlemle çelişen özel konum' sorularında en çok sorduğu klasik örnektir."
   },
   {
     "id": "cogr_h3-q2",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 2,
-    "questionText": "Bir merkezin bulunduğu yükseltideki sıcaklığına ger-\ncek sicaklik, deniz seviyesinde kabul edilerek he-\nsaplanan sıcaklığına indirgenmiş sicaklik adi verilir.\nYükselti farkı arttıkça gerçek sicaklik ile indirgenmiş\nsicaklik arasindaki fark da artar.",
+    "questionText": "Bir merkezin bulunduğu yükseltide ölçülen sıcaklığına 'gerçek sıcaklık', deniz seviyesinde (0 m) kabul edilerek hesaplanan sıcaklığına ise 'indirgenmiş sıcaklık' adı verilir. Bir merkezin yükseltisi arttıkça gerçek sıcaklığı ile indirgenmiş sıcaklığı arasındaki fark da artar.\n\nBuna göre, deniz seviyesine yakınlığı dikkate alındığında aşağıdaki merkezlerden hangisinde gerçek sıcaklık ile indirgenmiş sıcaklık arasındaki fark en azdır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -6389,7 +6389,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "Edirne"
+        "text": "Sivas"
       },
       {
         "key": "C",
@@ -6397,100 +6397,100 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Sivas -Erzincan"
+        "text": "Erzincan"
       },
       {
         "key": "E",
-        "text": "Balıkesir-Çanakkale"
+        "text": "Afyonkarahisar"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Antalya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Gerçek sıcaklık ile deniz seviyesine indirgenmiş sıcaklık arasındaki fark doğrudan <strong>yükselti</strong> ile doğru orantılıdır (Her 200 metrede 1 °C fark oluşur). Deniz kıyısında yer alan ve yükseltisi 0 metreye en yakın olan Antalya'da gerçek sıcaklık ile indirgenmiş sıcaklık arasındaki fark en azdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Antalya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Gerçek sıcaklık ile indirgenmiş sıcaklık arasındaki fark doğrudan o merkezin <strong>yükseltisine</strong> bağlıdır. Atmosferde yükseldikçe her 200 metrede sıcaklık yaklaşık 1 °C azalır.<br>• Antalya deniz seviyesinde (rakım ~0-30 metre) yer aldığından, gerçek sıcaklığı ile indirgenmiş sıcaklığı neredeyse birbirine eşittir (fark sıfıra yakındır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sivas (~1285 m), Erzincan (~1185 m), Konya (~1020 m) ve Afyonkarahisar (~1030 m) yüksek platolar üzerinde yer aldığından bu illerde gerçek ile indirgenmiş sıcaklık arasındaki fark 5-7 °C civarındadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Farkın en az olduğu yerler deniz kıyılarımız (Antalya, İzmir, Samsun), farkın en fazla olduğu yerler ise Doğu Anadolu platolarıdır (Erzurum, Kars, Ardahan)."
   },
   {
     "id": "cogr_h3-q3",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 3,
-    "questionText": "Karadeniz'in dogusunda yağış rejiminin düzenli\nve yağış miktarinin fazla olmasinin asagidakiler-\nden hangisi uzerinde etkili oidugu soylenemez?",
+    "questionText": "Doğu Karadeniz Bölümü'nde yağış rejiminin düzenli ve yıllık yağış miktarının oldukça fazla olmasının aşağıdakilerden hangisi üzerinde etkili olduğu söylenemez?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Cayvefindik Uretilebilmesi"
+        "text": "Çay ve fındık gibi nemcil tarım ürünlerinin yetiştirilmesi"
       },
       {
         "key": "B",
-        "text": "Ulasim maliyetlerinin yüksek olmasi"
+        "text": "Yol yapım ve ulaşım maliyetlerinin oldukça yüksek olması"
       },
       {
         "key": "C",
-        "text": "Topraklardaki yikanmanin fazla olmas"
+        "text": "Topraklarda kimyasal çözünme ve yıkanmanın fazla olması"
       },
       {
         "key": "D",
-        "text": "Heyelan olaylarinin sik yasanmasi"
+        "text": "Heyelan ve kütle hareketlerinin sık yaşanması"
       },
       {
         "key": "E",
-        "text": "Akarsu debilerinin yüksek olmasi"
+        "text": "Akarsu rejimlerinin diğer bölgelere göre daha dengeli olması"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Ulasim maliyetlerinin yüksek olmasi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yol yapım ve ulaşım maliyetlerinin oldukça yüksek olması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz'de yol yapım maliyetlerinin yüksek olması, tünel ve viyadük ihtiyacının fazla olması <strong>iklim ya da yağışın değil, arazinin aşırı dağlık ve engebeli (morfolojik) olmasının</strong> doğrudan sonucudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, C, D ve E seçenekleri doğrudan bol yağış ve nemli iklimin sonuçlarıdır: Çay/fındık nemcil tarım ürünüdür; bol yağış toprakta yıkanmayı artırır (lateritleşmiş kahverengi orman toprakları); killi yapıyla birleşen aşırı yağış heyelanı tetikler; düzenli yağış rejimi akarsu akımlarını daha dengeli kılar.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sınavlarda 'iklimin sonucu' ile 'yer şekillerinin (jeomorfolojinin) sonucu' sıkça birbirine çeldirici olarak verilir. Ulaşım zorluğu yer şekillerine aittir."
   },
   {
     "id": "cogr_h3-q4",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 4,
-    "questionText": "Akdeniz ikliminde yetisen zeytin, Karadeniz iklimi\nicindeki Coruh Vadisi'nde de yetismektedir.\nAşağıdakilerden hangisinde buna benzer bir du-\nrum yasanmaktadir?",
+    "questionText": "Normalde Akdeniz iklim sahasında yetişen zeytin bitkisi, Karadeniz iklim bölgesi içerisindeki Çoruh Vadisi'nde (Artvin-Yusufeli) etrafı dağlarla çevrili korunaklı çukur alanda da yetişebilmektedir.\n\nAşağıdakilerden hangisi bu duruma benzer bir 'mikroklima' örneğidir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Yozgat'ta yesil mercimek yetismesi"
+        "text": "Yozgat ve Konya çevresinde yeşil mercimek yetiştirilmesi"
       },
       {
         "key": "B",
-        "text": "Kilis'te Antep fistigl yetismesi"
+        "text": "Gaziantep ve Kilis çevresinde Antep fıstığı yetiştirilmesi"
       },
       {
         "key": "C",
-        "text": "Diyarbakir'da pamuk yetismes"
+        "text": "Diyarbakır ve Şanlıurfa ovalarında pamuk yetiştirilmesi"
       },
       {
         "key": "D",
-        "text": "Rize'de narenciye yetismesi"
+        "text": "Doğu Karadeniz'de Rize ve çevresinde mandalina ve narenciye yetiştirilmesi"
       },
       {
         "key": "E",
-        "text": "Aydin'da inciryetismesi"
+        "text": "Aydın ve İzmir'de incir üretimi yapılması"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Rize'de narenciye yetismesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz'de Rize ve çevresinde mandalina ve narenciye yetiştirilmesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Çoruh Vadisi'nde zeytin yetişmesi dar alanda görülen özel yerel iklim (<strong>mikroklima</strong>) şartlarının ve fön rüzgârlarının sonucudur.<br>• Akdeniz iklimine özgü bir ürün olan narenciyenin (turunçgil) Doğu Karadeniz kıyısında Rize'de yetişmesi de Kaçkar Dağları'nın arkadan esen rüzgârları fönleştirmesi ve kış ılıklığı sayesinde oluşan kusursuz bir mikroklima örneğidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yozgat'ta mercimek, Antep'te fıstık, Diyarbakır'da pamuk, Aydın'da incir yetiştirilmesi o bölgelerin hâkim geniş iklim kuşaklarının (makroklima) doğal ürünleridir; mikroklima değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'deki en meşhur 3 mikroklima alanı: 1) Rize'de turunçgil, 2) Artvin/Çoruh Vadisi'nde zeytin, 3) Iğdır Ovası'nda pamuk yetiştirilmesidir."
   },
   {
     "id": "cogr_h3-q5",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 5,
-    "questionText": "Bir yorede yağışin olusmus olmasi bagil nemin en\nyüksek dizeye ulasmis olmasini ifade eder. Neme\ndoymus hava kutlesinin fazla nemi yağış olarak dus-\nmektedir.\nAşağıdaki illerin en fazla yağış aldiklari mevsim\ndikkate alindiginda hangisinde yaz doneminde\nbagil nemin daha fazla oldugu soylenebilir?",
+    "questionText": "Bir yörede yağışın başlamış olması, o havadaki bağıl nem oranının %100'e (doyma noktasına) ulaştığını gösterir.\n\nAşağıdaki illerin en fazla yağış aldıkları mevsimler dikkate alındığında, hangisinde yaz döneminde bağıl nem oranının diğerlerinden belirgin şekilde daha yüksek olması beklenir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -6504,7 +6504,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Adiyaman"
+        "text": "Adıyaman"
       },
       {
         "key": "D",
@@ -6512,65 +6512,65 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Usak"
+        "text": "Uşak"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Kars)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kars)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Bağıl nem yağış olasılığı ile doğru orantılıdır; en fazla yağış alınan dönemde bağıl nem en yüksek düzeye ulaşır.<br>• Kars (Erzurum-Kars-Ardahan platosu), sert karasal iklim bölgesinde yer alır ve Türkiye'de en fazla yağışını <strong>yaz mevsiminde</strong> konveksiyonel (ısınma kaynaklı yükselim) şeklinde alan yegâne yöremizdir. Bu nedenle yaz aylarında bağıl nemi diğer illere göre çok daha yüksektir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Karaman, Bilecik ve Uşak en çok yağışı ilkbahar/kışın; Adıyaman ise kış aylarında alır. Yazın bu illerde kuraklık ve yüksek sıcaklık nedeniyle bağıl nem dibe vurur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Mevsimlere Göre En Çok Yağış Formülü (E Kuralı)': İç Anadolu İlkbahar, Erzurum-Kars Yaz, Karadeniz Sonbahar, Akdeniz/Ege/Güneydoğu Kış."
   },
   {
     "id": "cogr_h3-q6",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 6,
-    "questionText": "Akdeniz ikliminin belirgin oldugu yerlerde yaz\nmevsiminin sicak ve kurak gecmesi, asagidaki-\nlerden hangisinde etkili degildir?",
+    "questionText": "Akdeniz iklim bölgesinde yaz mevsiminin çok sıcak ve kurak geçmesi, aşağıdakilerden hangisi üzerinde belirleyici bir etkiye sahip değildir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Ormanyanginlari"
+        "text": "Kızılçam ormanlarında yangın riskinin artması"
       },
       {
         "key": "B",
-        "text": "Tarimda sulamaya gereksinimi"
+        "text": "Tarım arazilerinde yapay sulamaya duyulan ihtiyacın artması"
       },
       {
         "key": "C",
-        "text": "Kil kecisi yetistiriciligi"
+        "text": "Engebeli ve karstik arazilerde kıl keçisi yetiştiriciliğinin yaygınlaşması"
       },
       {
         "key": "D",
-        "text": "Deniz turizmi suresi"
+        "text": "Deniz turizmi sezonunun uzun sürmesi"
       },
       {
         "key": "E",
-        "text": "Pamukuretimi"
+        "text": "Pamuk ve mısır gibi tarım ürünlerinin olgunlaşma ve hasat sürecinin kısalması"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Kil kecisi yetistiriciligi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Engebeli ve karstik arazilerde kıl keçisi yetiştiriciliğinin yaygınlaşması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Akdeniz kuşağında (Teke ve Taşeli platolarında) kıl keçisi yetiştiriciliğinin yaygın olması yaz kuraklığının değil; arazinin <strong>engebeli, dağlık ve karstik olması</strong> ile bitki örtüsünün bodur maki/çalı topluluklarından oluşmasının bir sonucudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, D ve E seçenekleri doğrudan yaz mevsiminin kurak, güneşli ve aşırı sıcak geçmesiyle ilişkilidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kıl keçisi = Engebeli karstik arazi + Maki formasyonu. Tiftik keçisi = İç Anadolu (Ankara)."
   },
   {
     "id": "cogr_h3-q7",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 7,
-    "questionText": "Yasadigi yer ile ilgili bilgi veren bir kisi mevsimler\narasinda belirgin yağış farklarinin olmadigini, kisla\nrin genel olarak llik gectigini ve yilik yağış miktarinin\nfazlaoldugunu soylemistir.\nVerilen bilgilere gore bu kisinin asagidaki iller-\nden hangisinde yasadigi soylenemez?",
+    "questionText": "Yaşadığı yerin iklimi hakkında bilgi veren bir coğrafyacı: 'Mevsimler arasında belirgin bir kurak dönem yaşanmaz, yıllık yağış miktarı 1000 mm'nin üzerindedir, kışlar genel olarak ılık geçer ve kar örtüsünün yerde kalma süresi oldukça kısadır.' demiştir.\n\nVerilen bu bilgilere göre, bu kişinin aşağıdaki illerden hangisinde yaşadığı söylenemez?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Bartin"
+        "text": "Bartın"
       },
       {
         "key": "B",
@@ -6586,40 +6586,40 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Artvin"
+        "text": "Rize"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Bayburt)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Bayburt)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Paragrafta özellikleri verilen iklim tipi <strong>Karadeniz kıyı iklimidir</strong> (her mevsim yağışlı, ılıman kışlar).<br>• Bayburt, Karadeniz Bölgesi sınırlarında yer alsa da Kuzey Anadolu Dağları'nın arkasında, iç kesimde kalır. Yıllık yağışı azdır (~450 mm), kışları çok sert, karlı ve soğuk karasal iklime sahiptir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bartın, Trabzon, Sinop ve Rize doğrudan Karadeniz kıyı kuşağındadır; denizel ılıman ve bol yağışlı özellik gösterirler.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz Bölgesi'nde yer alıp denizel iklim değil sert karasal iklim yaşayan iller: Bayburt ve Gümüşhane'dir."
   },
   {
     "id": "cogr_h3-q8",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 8,
-    "questionText": "Türkiye'nin bir yarimada ulkesi olmasi ulasim cesit-\nliligi, denizel kiyi iklimlerinin olusmasi ve turizm ce-\nsitliligi gibi ozellikler uzerinde etkili oldugu gibi bazl\nrüzgârlarin da gorulmesinde etkili olmaktadir.\nAşağıdaki rüzgârlardan hangisinin gorulmesi an-\nlatlan ozelligin sonucudur?",
+    "questionText": "Türkiye'nin üç tarafının denizlerle çevrili bir yarımada ülkesi olması; karalar ile denizlerin gün içinde farklı ısınıp soğumasına ve buna bağlı olarak yön değiştiren yerel rüzgârların oluşmasına yol açar.\n\nAşağıdaki yerel rüzgârlardan hangisi bu durumun (günlük ısınma farkının) doğrudan bir sonucudur?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Fon"
+        "text": "Fön rüzgârı"
       },
       {
         "key": "B",
-        "text": "Meltem"
+        "text": "Meltem rüzgârı"
       },
       {
         "key": "C",
-        "text": "Yildiz"
+        "text": "Yıldız rüzgârı"
       },
       {
         "key": "D",
-        "text": "Samyeli"
+        "text": "Samyeli (Keşişleme)"
       },
       {
         "key": "E",
@@ -6627,61 +6627,61 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Meltem)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Meltem rüzgârı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Günlük hareket ve komşu yüzeylerin (deniz-kara veya dağ-vadi) gün içindeki farklı ısınması sonucu oluşan devirli yerel rüzgârlara <strong>meltem rüzgârları</strong> denir. Ege'de esen deniz meltemine yerel dilde 'İmbat' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Fön rüzgârı dağ yamacından aşağı inen havanın sürtünmeyle ısınmasıdır.<br>• Poyraz, Yıldız ve Samyeli ise büyük basınç kuşaklarına bağlı bölgesel rüzgârlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Meltemler iklimi değiştirmez, yağış bırakmaz; sadece gün içinde hafif bir serinlik sağlar."
   },
   {
     "id": "cogr_h3-q9",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 9,
-    "questionText": "Deniz uzerinden karalara dogru hareket eden hava\nyunca yukselerek sogumaya baslar. Soguma ile bir-\nlikte havanin nem tasima kapasitesi azalarak nemin",
+    "questionText": "Deniz üzerinden gelen nemli hava kütleleri kıyıya paralel uzanan dağ sıralarına çarparak yamaç boyunca yükselir. Yükselen hava soğur, nem taşıma kapasitesi azalır ve dağın denize bakan yamacına bol miktarda yamaç (orografik) yağışı bırakır.\n\nBuna göre, aşağıdaki dağ yamaçlarından hangisinde bu şekilde oluşan orografik yağışların görülme olasılığı en azdır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Kure Daglari'nin kuzey bakt yamaclarinda"
+        "text": "Küre Dağları'nın Karadeniz'e bakan kuzey yamaçlarında"
       },
       {
         "key": "B",
-        "text": "Rize Daglari'nin kuzeybaki yamaclarinda"
+        "text": "Rize (Kaçkar) Dağları'nın denize bakan kuzey yamaçlarında"
       },
       {
         "key": "C",
-        "text": "Canik Daglari'nin guney baki yamaclarinda"
+        "text": "Toroslar'da Bolkar Dağları'nın iç kesime bakan kuzey yamaçlarında"
       },
       {
         "key": "D",
-        "text": "Bolkarlar'in guney baki yamaclarinda"
+        "text": "Batı Toroslar'da Beydağları'nın denize bakan güney yamaçlarında"
       },
       {
         "key": "E",
-        "text": "Istranca Daglart'nin kuzey baki yamaclarinda"
+        "text": "Yıldız (Istranca) Dağları'nın Karadeniz'e bakan kuzeydoğu yamaçlarında"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Canik Daglari'nin guney baki yamaclarinda)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Toroslar'da Bolkar Dağları'nın iç kesime bakan kuzey yamaçlarında)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Orografik (yamaç) yağışı oluşabilmesi için havanın denizden gelip dağın <strong>denize bakan yamacına</strong> çarpması gerekir.<br>• Akdeniz'deki Bolkar Dağları'nın iç kesime (İç Anadolu'ya) bakan kuzey yamaçları deniz etkisinden uzaktır, havanın alçaldığı (fönleştiği) taraftır; bu nedenle orografik yağış almaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Küre, Rize ve Yıldız dağlarının kuzey yamaçları doğrudan Karadeniz'e; Beydağları'nın güney yamaçları doğrudan Akdeniz'e bakar ve yoğun orografik yağış alır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Dağların denize bakan yamaçları bol yağış alır; içe bakan yamaçları ise yağış gölgesinde (yağmur gölgesi) kalır."
   },
   {
     "id": "cogr_h3-q10",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 10,
-    "questionText": "Turkiye'de Akdeniz iklimi olarak genis bir alanda\netkili olan makro klima sahasi Marmara Denizi cev-\nresinden Bati Anadolu'nun kiyiya yakin alanlari ve",
+    "questionText": "Türkiye'de Akdeniz iklimi; Akdeniz ve Ege kıyı kuşağı boyunca, Marmara Denizi çevresinde ve Güneydoğu Anadolu'nun batı kesiminde (Gaziantep yöresinde) etkili olmaktadır.\n\nBuna göre, aşağıdaki illerden hangisi Akdeniz iklim sahası içerisinde yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Tekirdag"
+        "text": "Tekirdağ"
       },
       {
         "key": "B",
@@ -6701,18 +6701,18 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Karaman)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Karaman)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Karaman, Toros Dağları'nın arkasında, İç Anadolu Bölgesi'nde yer alır ve tipik bir <strong>karasal (step) iklim</strong> bölgesidir; Akdeniz iklim sahasında değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tekirdağ ve Yalova Marmara Akdeniz geçiş iklimindedir (zeytin yetişir).<br>• Gaziantep Akdeniz ikliminin bozulmuş karasal formunu yaşar (kızılçam ve zeytin yetişir).<br>• Hatay tipik Akdeniz iklimindedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Akdeniz iklimi Ege'de dağlar denize dik uzandığı için 150-200 km iç kısımlara sokulabilirken, Akdeniz Bölgesi'nde dağlar paralel olduğu için sadece dar kıyı şeridinde kalır."
   },
   {
     "id": "cogr_h3-q11",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 11,
-    "questionText": "I. Sibirya Termik Yüksek Basıncı\nII. Yükselti ve karasallık\nIII. Toprak yapısı\n\nKış aylarında Türkiye'nin en soğuk yerlerinin Kuzeydoğu Anadolu (Erzurum-Kars çevresi) olmasında yukarıda verilenlerden hangileri etkilidir?",
+    "questionText": "I. Kış mevsiminde etkisini artıran Sibirya Termik Yüksek Basıncı\nII. Ortalama yükseltinin 2000 metrenin üzerinde olması ve deniz etkisinden uzak şiddetli karasallık\nIII. Volkanik bazaltik toprakların geniş alan kaplaması\n\nKış aylarında Türkiye'nin en düşük sıcaklıklarının Kuzeydoğu Anadolu'da (Erzurum, Kars ve Ardahan çevresi) ölçülmesinde yukarıdakilerden hangileri etkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -6738,20 +6738,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kuzeydoğu Anadolu'nun (Erzurum-Kars) kışın Türkiye'nin en soğuk yeri olmasında kışın etkili olan Sibirya Termik Yüksek Basıncı (I) ve arazinin ortalama 2000 metrenin üzerinde olması ile deniz etkisinden uzak karasallık (II) belirleyicidir. Toprak yapısının (III) kış sıcaklık ortalamaları üzerinde doğrudan bir etkisi yoktur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Erzurum-Kars platosunda kışların aşırı dondurucu ve soğuk geçmesinde kışın kuzeydoğudan sarkan soğuk kökenli Sibirya Yüksek Basıncı (I) ve sahanın aşırı yüksek ve denizden uzak olması (II) belirleyicidir.<br>• Volkanik toprak yapısı (III) jeolojik/edafik bir unsurdur, iklim ve sıcaklık üzerinde doğrudan belirleyici bir etkiye sahip değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Toprak cinsi kışın sıcaklık değerlerini düşürmez; toprak verimliliği ve tarım deseni üzerinde etkilidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kışın en soğuk yer: Erzurum-Kars (Yükselti + Sibirya YB + Karasallık). Kışın en sıcak yer: Akdeniz kıyıları (Enlem + Denizellik)."
   },
   {
     "id": "cogr_h3-q12",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 12,
-    "questionText": "Türkiye'deki farklı iklim bölgelerinin özellikleri ile ilgili olarak aşağıda verilen yargılardan hangisi yanlıştır?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q12_img.png",
+    "questionText": "Türkiye'deki farklı iklim bölgelerinin yağış özellikleri ile ilgili olarak aşağıda verilen yargılardan hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -6759,36 +6759,36 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "İç Anadolu Bölgesi'nde en fazla yağış yaz aylarında konveksiyonel olarak düşer."
+        "text": "İç Anadolu Bölgesi'nde en fazla yağış yaz aylarında konveksiyonel hareketlerle düşer."
       },
       {
         "key": "C",
-        "text": "Karadeniz ikliminde her mevsim yağışlı olup en fazla yağış sonbaharda gerçekleşir."
+        "text": "Karadeniz ikliminde her mevsim yağış görülür ve en fazla yağış sonbahar aylarında düşer."
       },
       {
         "key": "D",
-        "text": "Erzurum-Kars platosunda en fazla yağış yaz mevsiminde yükselim (konveksiyonel) şeklinde düşer."
+        "text": "Erzurum-Kars platosunda en fazla yağış yaz mevsiminde yükselim (konveksiyonel) şeklinde gerçekleşir."
       },
       {
         "key": "E",
-        "text": "Güneydoğu Anadolu'da yaz kuraklığı ve buharlaşma şiddeti Akdeniz'den daha fazladır."
+        "text": "Güneydoğu Anadolu'da yaz kuraklığı ve buharlaşma şiddeti Akdeniz Bölgesi'nden daha fazladır."
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İç Anadolu Bölgesi karasal iklim bölgesidir ve en fazla yağışını <strong>ilkbahar</strong> aylarında (Kırkikindi yağışları) alır. En fazla yağışı yaz aylarında alan bölge İç Anadolu değil, Kuzeydoğu Anadolu (Erzurum-Kars) platosudur."
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İç Anadolu Bölgesi karasal (step) iklim sahasıdır ve en fazla yağışını <strong>ilkbahar</strong> mevsiminde ısınan havanın yükselmesiyle (Kırkikindi yağışları) alır. Yaz ayları ise oldukça sıcak ve kuraktır. En çok yağışı yaz aylarında alan bölgemiz Erzurum-Kars'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, C, D ve E seçeneklerindeki tüm bilgiler Türk coğrafyasının temel yağış rejim kurallarına harfiyen uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kırkikindi = İlkbahar konveksiyonel yağışları (İç Anadolu). Çayır ve mera varlığı = Yaz konveksiyonel yağışları (Erzurum-Kars)."
   },
   {
     "id": "cogr_h3-q13",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 13,
-    "questionText": "Bağıl nem, havanın neme doyma oranıdır ve sıcaklıkla ters orantılıdır. Bağıl nemin %100'e ulaşması yağışın başladığını gösterir.\n\nBuna göre, Türkiye'de yıl boyunca bağıl nem oranının en yüksek olduğu ve bulutluluğun en fazla görüldüğü yöre aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q13_img.png",
+    "questionText": "Bağıl nem; havadaki mevcut su buharının, o sıcaklıkta havanın taşıyabileceği maksimum neme oranıdır. Bağıl nemin yıl boyunca yüksek olması; bulutluluk oranının fazla, güneşlenme süresinin az ve yağış ihtimalinin yüksek olmasını beraberinde getirir.\n\nBuna göre, Türkiye'de yıl boyunca bağıl nem oranının en yüksek, yıllık güneşlenme süresinin ise en az olduğu yöre aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -6812,94 +6812,94 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyı kuşağı her mevsim bol yağış alması, denizel hava kütlelerinin yamaç boyunca yükselmesi sebebiyle Türkiye'de bağıl nemin, bulutluluğun en yüksek ve güneşlenme süresinin en az olduğu yerdir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyısı her mevsim yağışlı olması, denizel hava kütlelerinin dağlar boyunca sürekli yükselmesi nedeniyle Türkiye'de bulutluluğun ve bağıl nemin en yüksek, güneşlenme süresinin ise en düşük (~1750 saat) olduğu yerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Güneydoğu Anadolu güneşlenme süresinin en fazla, bağıl nemin yazın en düşük olduğu bölgedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneş enerjisinden yararlanma potansiyeli en düşük bölgemiz Doğu Karadeniz; en yüksek bölgemiz Güneydoğu Anadolu'dur."
   },
   {
     "id": "cogr_h3-q14",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 14,
-    "questionText": "Aşağıda verilen merkezlerden hangisinde en çok yağışın düştüğü mevsim diğerlerinden farklıdır?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q14_img.png",
+    "questionText": "Türkiye'de yer alan merkezlerin en fazla yağış aldıkları mevsimler farklılık göstermektedir.\n\nAşağıda verilen illerden hangisinin en çok yağış aldığı mevsim diğerlerinden farklıdır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Antalya (Akdeniz İklimi - Kış)"
+        "text": "Antalya"
       },
       {
         "key": "B",
-        "text": "Erzurum (Sert Karasal İklim - Yaz)"
+        "text": "Erzurum"
       },
       {
         "key": "C",
-        "text": "İzmir (Akdeniz İklimi - Kış)"
+        "text": "İzmir"
       },
       {
         "key": "D",
-        "text": "Mersin (Akdeniz İklimi - Kış)"
+        "text": "Mersin"
       },
       {
         "key": "E",
-        "text": "Çanakkale (Akdeniz İklimi - Kış)"
+        "text": "Çanakkale"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Erzurum)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Antalya, İzmir, Mersin ve Çanakkale Akdeniz iklim sahasında yer aldıkları için en fazla yağışlarını <strong>kış</strong> mevsiminde alırlar. Erzurum ise sert karasal iklim nedeniyle en fazla yağışını <strong>yaz</strong> mevsiminde alır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Erzurum)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Antalya, İzmir, Mersin ve Çanakkale Akdeniz iklim sahasında yer aldıkları için en fazla yağışlarını <strong>kış</strong> mevsiminde cephesel olarak alırlar.<br>• Erzurum ise sert karasal iklim etkisiyle en fazla yağışını <strong>yaz</strong> mevsiminde konveksiyonel olarak alır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, C, D ve E şıklarının dördü de kış yağışları rejimindedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Erzurum-Kars ve Ardahan Türkiye'de yaz yağışlarıyla meşhur tek yöredir; bu durum yazın gür çayırların yeşermesine ve büyükbaş hayvancılığa zemin hazırlar."
   },
   {
     "id": "cogr_h3-q15",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 15,
-    "questionText": "Türkiye'de genel olarak güneyden kuzeye gidildikçe enlem etkisiyle, batıdan doğuya gidildikçe ise yükselti etkisiyle sıcaklık ortalamaları azalır.\n\nAşağıda verilen doğrultulardan hangisinde sıcaklığın değişimi bu genel kural ile çelişir (özel konum etkilidir)?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q15_img.png",
+    "questionText": "Türkiye'de genel bir kural olarak güneyden kuzeye gidildikçe Güneş ışınlarının geliş açısına bağlı olarak (enlem etkisiyle) sıcaklık ortalamaları düşer.\n\nAşağıdaki durumlardan hangisi bu genel kural ile çelişir ve özel konum şartları ile açıklanır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Mersin'den Konya'ya doğru gidildikçe sıcaklığın düşmesi"
+        "text": "Mersin'in yıllık sıcaklık ortalamasının Ankara'dan yüksek olması"
       },
       {
         "key": "B",
-        "text": "İzmir'den Afyonkarahisar'a gidildikçe sıcaklığın düşmesi"
+        "text": "Antalya'nın kış sıcaklığının Samsun'dan daha yüksek olması"
       },
       {
         "key": "C",
-        "text": "Hatay'dan Sinop'a gidildikçe yıllık sıcaklık ortalamasının azalması"
+        "text": "Hatay'dan Sinop'a doğru gidildikçe çizgisel hızın ve sıcaklığın azalması"
       },
       {
         "key": "D",
-        "text": "Kış mevsiminde Yozgat'tan Giresun kıyılarına gidildikçe sıcaklığın artması"
+        "text": "Kış mevsiminde kuzeydeki Trabzon'un, daha güneydeki Erzurum'dan çok daha ılık olması"
       },
       {
         "key": "E",
-        "text": "Ankara'dan Erzurum'a gidildikçe sıcaklığın belirgin şekilde azalması"
+        "text": "Muğla'nın deniz suyu sıcaklığının Çanakkale'den yüksek olması"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Yozgat güneyde, Giresun kuzeydedir. Normalde enlem kuralına göre kuzeydeki Giresun'un daha soğuk olması beklenir. Ancak denizellik ve alçak rakım sebebiyle kışın Giresun Yozgat'tan daha ılıktır; bu durum enlem-sıcaklık ilişkisiyle çelişen özel konum örneğidir."
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Trabzon (~41° K) Erzurum'a (~39.9° K) göre daha kuzeydedir. Enlem kuralına göre Trabzon'un kışın daha soğuk olması gerekirken, denizellik ve alçak rakım sayesinde ortalama 7-8 °C iken, Erzurum yüksek rakım ve karasallıkla -8 ila -10 °C'ye düşer. Bu durum enlem-sıcaklık ilişkisine tamamen terstir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, C ve E şıklarında güneydeki merkez kuzeydekinden daha sıcaktır; bu durum enlem kuralına tam uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Özel konumun enlemle çelişmesi sorularında her zaman 'kuzeydeki deniz kıyısı kent' ile 'güneydeki yüksek/iç kesim kent' karşılaştırılır."
   },
   {
     "id": "cogr_h3-q16",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 16,
-    "questionText": "Türkiye'de etkili olan yerel rüzgârlar sıcaklık üzerinde belirgin etkiye sahiptir. Kuzey sektörlü rüzgârlar sıcaklığı düşürürken, güney sektörlü rüzgârlar sıcaklığı artırır.\n\nBuna göre, Türkiye'ye kuzeybatıdan eserek kışın sıcaklığı düşürüp Trakya ve Marmara'da kar yağışı getiren rüzgâr ile kuzeydoğudan esen soğuk rüzgâr sırasıyla aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q16_img.png",
+    "questionText": "Türkiye'de etkili olan yerel rüzgârların sıcaklık üzerindeki etkisi geldikleri enlem derecesine bağlıdır. Kuzeyden esen rüzgârlar sıcaklığı düşürürken, güneyden esen rüzgârlar sıcaklığı artırır.\n\nBuna göre, Türkiye'ye kuzeybatıdan eserek kışın Trakya ve Marmara'da sıcaklığı aniden düşürüp kar yağışı getiren rüzgâr ile kuzeydoğudan esen kuru-soğuk rüzgâr sırasıyla aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -6923,28 +6923,28 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Karayel ve Poyraz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kuzey sektörlü yerel rüzgârlar: Karayel (Kuzeybatı), Yıldız (Kuzey), Poyraz (Kuzeydoğu) şeklindedir (Kayıp-Sakal kuralı)."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Karayel ve Poyraz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'deki yerel rüzgârlar saat yönünde 'KAYIP SAKAL' şifresiyle kodlanır:<br>  - Kuzeybatı: <strong>Karayel</strong> (soğuk, kar getirir)<br>  - Kuzey: <strong>Yıldız</strong><br>  - Kuzeydoğu: <strong>Poyraz</strong> (soğuk, kışın ayaz yapar)<br>  - Güneybatı: <strong>Lodos</strong> (ılık, soba zehirlenmesi ve fırtına)<br>  - Güney: <strong>Kıble</strong><br>  - Güneydoğu: <strong>Samyeli / Keşişleme</strong> (sıcak, kurutucu)<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lodos ve Samyeli güney sektörlü sıcak rüzgârlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Soba gazı zehirlenmesi = Lodos. Balkanlar üzerinden kar getiren = Karayel. Rusya üzerinden ayaz getiren = Poyraz."
   },
   {
     "id": "cogr_h3-q17",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 17,
-    "questionText": "Türkiye'de dağların kıyıya paralel uzandığı kıyılarda denizel etki iç kesimlere sokulamaz ve yıllık yağış miktarı oldukça yüksektir.\n\nAşağıdaki alanlardan hangisinde bu durumun bir sonucu olarak yıllık yağış miktarı 1500 mm'nin üzerinde gerçekleşir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q17_img.png",
+    "questionText": "Türkiye'de dağların kıyı çizgisine hemen bitişik ve dik yükseldiği kıyılarda denizel nemli hava kütleleri hızla yükselerek bol miktarda yamaç yağışına neden olur.\n\nAşağıdaki alanlardan hangisinde bu durumun bir sonucu olarak yıllık yağış miktarı 2000 mm'nin üzerine çıkarak Türkiye rekoru kırar?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Güneydoğu Anadolu (Şanlıurfa-Mardin)"
+        "text": "Güneydoğu Anadolu (Şanlıurfa-Mardin eşiği)"
       },
       {
         "key": "B",
-        "text": "İç Anadolu (Konya-Karapınar)"
+        "text": "İç Anadolu (Konya-Karapınar çevresi)"
       },
       {
         "key": "C",
@@ -6952,100 +6952,100 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Malatya Ovası"
+        "text": "Malatya-Elazığ çöküntü alanı"
       },
       {
         "key": "E",
-        "text": "Doğu Karadeniz kıyı kuşağı (Rize-Trabzon)"
+        "text": "Doğu Karadeniz kıyı kuşağı (Rize çevresi)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kaçkar Dağları kıyıya çok yakın ve dik yükseldiği için nemli hava kütleleri yamaç boyunca hızla yükselerek yamaç (orografik) yağışları oluşturur ve yıllık yağış Rize'de 2300 mm'yi aşar."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Karadeniz kıyı kuşağı / Rize)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kaçkar Dağları'nın kıyıya çok yakın ve yaklaşık 4000 metreye kadar duvar gibi yükselmesi, Karadeniz üzerinden gelen nemli hava kütlelerinin tamamının yükselip yoğuşmasını sağlar. Rize yılda ortalama 2400 mm yağışla Türkiye'nin en çok yağış alan merkezidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Konya-Karapınar, Iğdır ve Güneydoğu düzlükleri Türkiye'nin en kurak ve en az yağış alan yöreleridir (300-400 mm).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> En çok yağış alan ilimiz: Rize (~2400 mm). En az yağış alan yerlerimiz: Iğdır Ovası ve Konya-Karapınar çevresidir."
   },
   {
     "id": "cogr_h3-q18",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 18,
-    "questionText": "Turkiye'yi etkileyen asagidaki basinc merkezle-\nrinden hangisi muson sisteminin bir parcasidir?",
+    "questionText": "Türkiye'yi özellikle yaz mevsiminde güneydoğu yönünden etkisi altına alan, Hint Yarımadası'ndaki Muson termik alçak basınç sisteminin bir uzantısı olan ve Güneydoğu Anadolu ile İç Anadolu'da çöl sıcaklarına ve şiddetli buharlaşmaya neden olan basınç merkezi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "izlanda Alcak Basinc Merkezi"
+        "text": "İzlanda Dinamik Alçak Basıncı"
       },
       {
         "key": "B",
-        "text": "Basra Alcak Basinc Merkezi"
+        "text": "Basra Termik Alçak Basıncı"
       },
       {
         "key": "C",
-        "text": "Azor Yuksek Basinc Merkezi"
+        "text": "Azor Dinamik Yüksek Basıncı"
       },
       {
         "key": "D",
-        "text": "Akdeniz Alcak Basinc Merkezi"
+        "text": "Sibirya Termik Yüksek Basıncı"
       },
       {
         "key": "E",
-        "text": "Sibirye Yuksek Basinc Merkezi"
+        "text": "Kutup Dinamik Yüksek Basıncı"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Basra Alcak Basinc Merkezi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Basra Termik Alçak Basıncı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Basra Termik Alçak Basıncı</strong>; yazın Basra Körfezi ve Arap Yarımadası'nın aşırı ısınmasıyla oluşur ve Muson alçak basınç sisteminin kara üzerindeki batı uzantısıdır. Güneydoğudan Türkiye'ye sokularak yaz kuraklığını ve buharlaşmayı doruk noktasına çıkarır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İzlanda DAB kışın ılık ve yağışlı hava getirir.<br>• Sibirya TYB kışın dondurucu kuru ayaz getirir.<br>• Azor DYB yazın Türkiye'de genel Akdeniz yaz kuraklığını oluşturur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Termik kökenliler: Sibirya (kışın soğuk) ve Basra (yazın sıcak). Dinamik kökenliler: İzlanda ve Azor'dur."
   },
   {
     "id": "cogr_h3-q19",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 19,
-    "questionText": "Türkiye'nin iç kesimlerinde aynı enlem derecesine yakın olan istasyonlarda yıllık ortalama sıcaklıklar batıdan doğuya doğru;\n• Eskişehir'de: 10.6 °C\n• Sivas'ta: 9.1 °C\n• Erzurum'da ise: 5.9 °C\nolarak ölçülmektedir.\n\nBatıdan doğuya doğru sıcaklığın düzenli olarak düşmesinde temel faktör aşağıdakilerden hangisidir?",
+    "questionText": "Türkiye'nin iç kesimlerinde birbirine çok yakın enlem derecelerinde yer alan şehirlerde yıllık ortalama sıcaklıklar batıdan doğuya gidildikçe düzenli olarak azalır:\n• Eskişehir: ~10.6 °C\n• Sivas: ~9.1 °C\n• Erzurum: ~5.9 °C\n\nBenzer enlemde olmalarına rağmen batıdan doğuya doğru sıcaklık ortalamalarının düşmesinde en temel faktör aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Yükseltinin batıdan doğuya doğru artması"
+        "text": "Ortalama yükseltinin batıdan doğuya doğru kademeli olarak artması"
       },
       {
         "key": "B",
-        "text": "Enlem derecelerinin farklı olması"
+        "text": "Şehirlerin enlem derecelerinin Güneş açısını belirlemesi"
       },
       {
         "key": "C",
-        "text": "Hâkim rüzgâr yönlerinin değişmesi"
+        "text": "Hâkim rüzgâr frekanslarının tamamen değişmesi"
       },
       {
         "key": "D",
-        "text": "Bitki örtüsünün bozkır olması"
+        "text": "Doğal bitki örtüsünün bozkır formasyonunda olması"
       },
       {
         "key": "E",
-        "text": "Yerel saat farklarının bulunması"
+        "text": "Merkezler arasındaki yerel saat farkları"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yükseltinin batıdan doğuya doğru artması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Aynı enlem civarında yer alan iç kesim şehirlerinde batıdan doğuya gidildikçe sıcaklığın azalması ortalama yükseltinin artmasıyla açıklanır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ortalama yükseltinin batıdan doğuya doğru kademeli olarak artması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Aynı enlem üzerinde Güneş ışınlarının geliş açısı aynıdır. Batıdan doğuya gidildikçe sıcaklığın düzenli şekilde düşmesi (Eskişehir ~800 m -> Sivas ~1285 m -> Erzurum ~1900 m) doğrudan <strong>ortalama yükseltinin artması</strong> ile açıklanır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Enlem dereceleri benzer olduğu için sıcaklık farkının nedeni enlem olamaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Batı-Doğu yönlü sıcaklık değişiminin temel nedeni = Yükselti ve karasallık. Güney-Kuzey yönlü sıcaklık değişiminin temel nedeni = Enlemdir."
   },
   {
     "id": "cogr_h3-q20",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 20,
-    "questionText": "Çevresine göre çukurda kalan ve etrafı yüksek dağlarla çevrili korunaklı alanlarda görülen dar alanlı iklimlere 'mikroklima' denir.\n\nBuna göre;\nI. Iğdır Ovası'nda pamuk yetiştirilmesi\nII. Çukurova'da mısır ve soya yetiştirilmesi\nIII. Çoruh Vadisi (Artvin-Yusufeli)'nde zeytin yetiştirilmesi\nIV. Meriç Vadisi'nde çeltik (pirinç) yetiştirilmesi\n\nuygulamalarından hangileri mikroklima alanlarına doğrudan örnektir?",
+    "questionText": "Geniş bir iklim bölgesi içerisinde çevresine göre alçakta kalan, dağlarla korunan ve yerel rüzgârların (fön vb.) etkisiyle etrafından farklılaşan dar alanlı iklim adacıklarına 'mikroklima' adı verilir.\n\nBuna göre;\nI. Iğdır Ovası'nda çevresi yüksek dağlarla çevrili çukur alanda pamuk yetiştirilmesi\nII. Çukurova deltasında ikinci ürün olarak mısır ve soya yetiştirilmesi\nIII. Çoruh Vadisi'nde (Artvin-Yusufeli) kış ılıklığı sayesinde zeytin yetiştirilmesi\nIV. Meriç Havzası'nda yazın taban suları ile çeltik (pirinç) üretilmesi\n\nyukarıda verilenlerden hangileri mikroklima alanı özelliği gösterir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -7071,57 +7071,57 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Anadolu'da Iğdır Ovası çukurda kaldığı için fön rüzgârları etkisiyle pamuk yetişir (Mikroklima). Çoruh Vadisi'nde Akdeniz iklimi ürünü olan zeytin yetişir (Mikroklima). Çukurova ve Meriç ise geniş tabanlı zonal tarım ovalarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Iğdır Ovası Doğu Anadolu'nun soğuk platosunda ~850 metrede çukurda kalmış bir çöküntü havzasıdır; fön etkisiyle sıcaklık artar ve pamuk yetişir (Mikroklima - I).<br>• Çoruh Vadisi Karadeniz ormanları içinde derin bir vadidir; kış ılıklığı sayesinde Akdeniz bitkisi olan zeytin yetişir (Mikroklima - III).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çukurova ve Meriç geniş alüvyal delta/taban ovalarıdır; ürün çeşitliliği mikroklimadan değil bölgenin doğal makro iklimi ve sulama imkânlarından kaynaklanır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> ÖSYM mikroklima sorarsa cevabınız kesinlikle: Rize (turunçgil), Iğdır (pamuk), Artvin/Yusufeli (zeytin), Anamur (muz) eksenindedir."
   },
   {
     "id": "cogr_h3-q21",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 21,
-    "questionText": "verilmistir.\nTaseli Platosu\nMenteseDaglikBolgesi\nTeke Platosu\nBu yerlerde nüfus yogunlugunun az olmasinin temel\nnedeni asagidakilerden hangisidir?",
+    "questionText": "Türkiye'de;\n• Taşeli Platosu\n• Menteşe Dağlık Yöresi\n• Teke Platosu\n\ngibi Akdeniz ve Ege kıyı kuşağına çok yakın olan bu alanlarda nüfus yoğunluğunun oldukça seyrek olmasının en temel nedeni aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "iklim kosulari"
+        "text": "Yıllık sıcaklık ortalamalarının çok düşük ve dondurucu olması"
       },
       {
         "key": "B",
-        "text": "Yer sekli özellikleri"
+        "text": "Yer şekillerinin aşırı engebeli, dağlık ve karstik yapıda olması"
       },
       {
         "key": "C",
-        "text": "Enlemdereceleri"
+        "text": "Yıllık yağış miktarının yetersiz olup kuraklık yaşanması"
       },
       {
         "key": "D",
-        "text": "Bakl özellikleri"
+        "text": "Bulundukları enlem derecelerinin tarıma elverişsiz olması"
       },
       {
         "key": "E",
-        "text": "Hidrografik özellikleri"
+        "text": "Bataklık ve göl alanlarının geniş yer kaplaması"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Yer sekli özellikleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yer şekillerinin aşırı engebeli, dağlık ve karstik yapıda olması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Menteşe yöresi Ege'nin en dağlık ve engebeli kesimidir.<br>• Teke ve Taşeli platoları kireçtaşı (kalker) tabakalarından oluşan aşırı engebeli, kireçli, yüzey sularının düdenlerle yeraltına kaçtığı ve tarım toprağının son derece kısıtlı olduğu arazilerdir. Bu nedenle iklimleri ılıman olmasına rağmen nüfusları çok seyrektir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bu yörelerin hiçbirinde don veya yağış yetersizliği yoktur; tam aksine Menteşe yılda 1000 mm'nin üzerinde yağış alır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklimi müsait ve kıyıda olduğu halde yer şekilleri ve karstik yapı yüzünden seyrek nüfuslu yerler: Menteşe, Teke ve Taşeli platolarıdır."
   },
   {
     "id": "cogr_h3-q22",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 22,
-    "questionText": "Aşağıdaki alanlardan hangisinde karstik arazi yapısı, engebeli yüzey şekilleri ve arazinin su tutmaması nedeniyle nüfus yoğunluğu belirgin şekilde seyrektir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q22_img.png",
+    "questionText": "Aşağıdaki coğrafi alanların hangisinde arazinin kalın kireçtaşı (karstik) tabakalarından oluşması, yağış sularının yer altına hızla sızarak yüzey suyunun bulunamaması ve engebeli topoğrafya nedeniyle nüfus yoğunluğu çok düşüktür?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -7133,7 +7133,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Bursa Ovası Çevresi"
+        "text": "Bursa Ovası ve Çevresi"
       },
       {
         "key": "D",
@@ -7141,61 +7141,61 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Kıyı Ege Grabenleri"
+        "text": "Gediz ve Büyük Menderes Grabenleri"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Teke ve Taşeli platoları kalkerli (kireçtaşı) karstik yapıda olduğu için yüzey suları hızla yeraltına sızar, zemin tarıma elverişsizdir ve engebeli olduğu için nüfus seyrektir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Akdeniz Bölgesi'ndeki Teke ve Taşeli platoları litolojik yapı olarak çözünebilen kireçtaşı (kalker) tabakalarıyla kaplıdır. Su yüzeyde durmaz, mağara ve düdenlerle yeraltına sızar; tarımsal toprak tabakası çok incedir. Bu hidrolojik ve jeolojik faktörler nüfusun seyrek kalmasına yol açmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çatalca-Kocaeli sanayi/ticaret merkezi olarak Türkiye'nin en yoğun nüfuslu yeridir.<br>• Bursa ve Kıyı Ege grabenleri verimli alüvyal topraklara ve yoğun nüfusa sahiptir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Karstik arazi yapısı nedeniyle seyrek nüfus' ifadesi doğrudan Teke ve Taşeli platolarını işaret eder."
   },
   {
     "id": "cogr_h3-q23",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 23,
-    "questionText": "Türkiye'nin güncel nüfus yapısı ve demografik özellikleri ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "questionText": "Türkiye'nin güncel nüfus özellikleri ve demografik yapısı ile ilgili olarak aşağıda verilen yargılardan hangisi yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Doğal nüfus artış hızı ve doğum oranları son yıllarda belirgin şekilde azalmaktadır."
+        "text": "Doğal nüfus artış hızı ve toplam doğurganlık hızı son yıllarda belirgin şekilde düşmektedir."
       },
       {
         "key": "B",
-        "text": "Sağlık imkânlarının gelişmesiyle ortalama yaşam süresi ve ortanca yaş artmaktadır."
+        "text": "Sağlık ve beslenme koşullarının iyileşmesiyle ortalama yaşam süresi ve ortanca yaş yükselmektedir."
       },
       {
         "key": "C",
-        "text": "Çalışan nüfusun sektörel dağılımında en yüksek pay hizmet (%70 civarı) sektöründedir."
+        "text": "Çalışan aktif nüfusun sektörel dağılımında en yüksek istihdam payı hizmet sektöründedir."
       },
       {
         "key": "D",
-        "text": "Kent nüfus oranı kır nüfus oranından çok daha fazladır (%90'ın üzerindedir)."
+        "text": "Kent nüfusu oranı kır nüfusu oranından çok daha fazladır (%90'ın üzerindedir)."
       },
       {
         "key": "E",
-        "text": "Kadın nüfusun genel okuma-yazma ve yükseköğretim düzeyi erkek nüfustan fazladır."
+        "text": "Kadın nüfusun genel okur-yazarlık ve istihdama katılım oranı erkek nüfustan daha yüksektir."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TÜİK verilerine göre Türkiye'de genel okuma-yazma oranı erkeklerde kadınlara göre hâlen az da olsa daha yüksektir. Kadın nüfusun eğitim düzeyinin erkekten yüksek olduğu bilgisi yanlıştır."
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TÜİK güncel demografik verilerine göre Türkiye'de genel okur-yazarlık oranı ve iş gücüne/istihdama katılım oranı <strong>erkeklerde kadınlara göre daha yüksektir</strong>. Dolayısıyla kadın nüfusun oranının erkeklerden yüksek olduğunu belirten E seçeneği yanlıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Doğurganlık hızı 1.51'e kadar gerilemiştir (nüfus yaşlanma sürecindedir). Ortanca yaş 34'ü aşmıştır. Kent nüfusu büyükşehir yasalarıyla %93'ü bulmuştur. İstihdamın %55-60'ı hizmet sektöründedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye gelişmekte olan bir ülkeden 'olgun/yaşlanan demografik yapıya' geçiş yapmaktadır; ortanca yaş artmakta, çocuk nüfus payı azalmaktadır."
   },
   {
     "id": "cogr_h3-q24",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 24,
-    "questionText": "Tarımsal nüfus yoğunluğu; tarımla uğraşan çiftçi sayısının tarım arazisi alanına bölünmesiyle elde edilir. Tarım arazisinin dar ve parçalı, insan gücüne ihtiyacın fazla olduğu engebeli yörelerde bu yoğunluk çok yüksek çıkar.\n\nBuna göre, aşağıdaki yörelerin hangisinde tarımsal nüfus yoğunluğunun en fazla olması beklenir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q24_img.png",
+    "questionText": "Tarımsal nüfus yoğunluğu; tarım sektöründe çalışan insan sayısının doğrudan tarım arazilerinin yüzölçümüne bölünmesiyle hesaplanır. Tarım alanlarının dar ve parçalı, arazinin engebeli olduğu ve makineleşmenin zor olup insan gücüne ihtiyaç duyulduğu yörelerde tarımsal nüfus yoğunluğu çok yüksek çıkar.\n\nBuna göre, aşağıdaki yörelerin hangisinde tarımsal nüfus yoğunluğunun en yüksek olması beklenir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -7211,26 +7211,26 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Doğu Karadeniz (Rize-Trabzon kıyı ardı)"
+        "text": "Doğu Karadeniz kıyı ardı dağlık kuşağı (Rize-Trabzon)"
       },
       {
         "key": "E",
-        "text": "Ceyhan Ovası"
+        "text": "Çukurova deltamız"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz'de arazi aşırı engebeli olduğundan ekilebilir alan azdır, makine kullanımı zordur ve çok sayıda insan gücüne ihtiyaç duyulur. Bu nedenle tarımsal nüfus yoğunluğu en yüksek bölgedir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz kıyı ardı dağlık kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz'de arazi çok engebeli ve dik yamaçlardan oluştuğu için ekilebilir tarım arazisi son derece az ve dardır. Çay ve fındık tarımı makineyle yapılamaz, insan gücüyle yapılır. Daracık araziye çok sayıda çiftçi düştüğü için <strong>tarımsal nüfus yoğunluğu en yüksek</strong> çıkar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Konya Ovası, Şanlıurfa, Çukurova ve Ergene düzlüklerinde tarım arazisi devasa büyüklüktedir ve makineleşme yaygındır; bu nedenle tarımsal nüfus yoğunluğu düşüktür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tarımsal nüfus yoğunluğu en yüksek: Doğu Karadeniz ve Hakkari. Tarımsal nüfus yoğunluğu en düşük: İç Anadolu ve Marmara'dır."
   },
   {
     "id": "cogr_h3-q25",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 25,
-    "questionText": "Sanayi faaliyetlerinin yogun oldugu yerlerde erkek nüfus\noraninin kadin nüfus oranina gore yüksek olmasi beklenir.\nBuna gore, asagida verilen sehirlerin hangisinde erkek\nnüfus orani kadin nüfus oranina gore daha yüksektir?",
+    "questionText": "Ağır sanayi tesislerinin, inşaat ve fabrika faaliyetlerinin yoğun olduğu ve dışarıdan yoğun göç alan şehirlerde erkek nüfus oranı kadın nüfus oranından belirgin şekilde daha yüksektir. Buna karşılık dışarıya sürekli göç veren kırsal şehirlerde ise kadın nüfus oranı erkek nüfustan fazladır.\n\nBuna göre, aşağıdaki şehirlerin hangisinde erkek nüfus oranının kadın nüfus oranından daha yüksek olması beklenir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -7248,7 +7248,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Mus"
+        "text": "Muş"
       },
       {
         "key": "E",
@@ -7256,32 +7256,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Kocaeli)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Kocaeli)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kocaeli (Gebze, İzmit) Türkiye'nin sanayi kalbidir. Sanayi, liman ve inşaat sektörlerindeki yoğun iş gücü talebi nedeniyle ülke genelinden çalışmak üzere göç eden erkek iş gücünü mıknatıs gibi çeker; bu yüzden erkek nüfus oranı kadın nüfustan fazladır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kastamonu, Sinop, Artvin ve Muş sanayisi gelişmemiş, sürekli dışarıya göç veren illerdir. Erkek nüfus büyük şehirlere çalışmaya gittiği için bu illerde kadın nüfus oranı daha fazladır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Göç alan sanayi kentlerinde (Kocaeli, İstanbul, Tekirdağ) erkek nüfus fazladır; göç veren kırsal illerde kadın nüfus oranı fazladır."
   },
   {
     "id": "cogr_h3-q26",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 26,
-    "questionText": "Aşağıdaki haritada dort farkli bölge numaralandirilarak\nVerilmistir.\nBuna gore, haritada verilen bölgelerden hangilerinde\nnüfusun daglisinda sanayi kuruluslarinin etkisi daha\nfazladir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q26_img.png",
+    "questionText": "Türkiye'de nüfusun dağılışını etkileyen faktörler doğal (fiziki) ve beşerî faktörler olarak ikiye ayrılır.\n\nAşağıda verilen yörelerden hangilerinin yoğun nüfuslanmasında sanayi kuruluşları ve fabrikaların varlığı doğrudan belirleyici olmuştur?\nI. Çatalca-Kocaeli Yöresi\nII. Bursa ve İnegöl Çevresi\nIII. Menteşe Yöresi\nIV. Yıldız Dağları Yöresi",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "I ve"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "I ve I!"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "II ve I!"
+        "text": "II ve III"
       },
       {
         "key": "D",
@@ -7289,32 +7289,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "IveIV"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I ve)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Çatalca-Kocaeli (İstanbul-İzmit) ve Bursa-İnegöl çevresi Türkiye'nin otomotiv, tekstil, kimya ve makine sanayisinin toplandığı başlıca merkezlerdir; nüfusun buralarda çok yoğun olmasında sanayi faktörü belirleyicidir (I ve II).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Menteşe Yöresi (Muğla) ve Yıldız Dağları yöresi (Kırklareli) engebeli arazi ve ana ulaşım yollarına sapa kalmaları nedeniyle sanayileşememiş ve seyrek nüfuslu kalmış alanlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sanayiye bağlı yoğun nüfus: Çatalca-Kocaeli, Bursa, İzmir, Adana, İskenderun."
   },
   {
     "id": "cogr_h3-q27",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 27,
-    "questionText": "Grafikte Türkiye'nin 1927 - 2020 yillarl arasindaki nüfus\nartis hizi gosterilmistir.\nNuru8 Artis Hiz (Binda)\n1927 1935\n5 1990 1997 2000 2007 2010 2018 2020\nYillar\n1940\n1945°1950\n1955\n196019651970197519801985\nBuna gore;\nI. nüfus yogunlugunun fazla oldugu bölgelere,\nIl. nüfus artis hizinin en az oldugu doneme,\nl. toplam nüfus miktarina\nVerilenlerden hangilerine ulasilabilir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q27_img.png",
+    "questionText": "Yalnızca Türkiye'nin 1927-2023 yılları arasındaki nüfus artış hızı grafiğine bakılarak;\nI. Nüfus yoğunluğunun en fazla olduğu coğrafi bölgelere\nII. Nüfus artış hızının tarihteki en düşük seviyeye indiği döneme (1940-1945 II. Dünya Savaşı)\nIII. Türkiye'nin toplam nüfus miktarının ve cinsiyet dağılımının kesin sayısal değerine\n\nbilgilerinden hangilerine kesinlikle ulaşılabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Yalniz I"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "Yalniz II"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
@@ -7326,102 +7326,102 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "I, II ve"
+        "text": "I, II ve III"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Yalniz II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Bir ülkenin yalnızca 'nüfus artış hızı (‰ binde)' grafiğine bakılarak hangi yıllarda artış hızının azalıp hangi yıllarda arttığı, dolayısıyla en düşük olduğu dönem (II. Dünya Savaşı seferberlik dönemi ‰10.5) kesin olarak görülebilir (Yalnız II).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Artış hızı grafiğinden coğrafi bölgelerin nüfus dağılımına (I) veya kesin kişi sayısına ve kadın-erkek oranına (III) ulaşılamaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Nüfus artış hızı binde değer olarak sıfırın altına düşmediği sürece (eksiye inmedikçe) ülkenin toplam nüfusu sürekli artmaya devam eder! Hızın azalması nüfusun azaldığı anlamına gelmez."
   },
   {
     "id": "cogr_h3-q28",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 28,
-    "questionText": "Turkiye haritasi uzerinde bes farkli yer numaralandirila-\nrak verilmistir.\nIV\nBuna gore, asagidakilerden hangisi soylenemez?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q28_img.png",
+    "questionText": "Türkiye'de nüfusun dağılışı ve yörelerin özellikleri ile ilgili olarak aşağıda verilen yargılardan hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "I numarali yerde nüfusun yogun olmasinda tarım ve sanayi faaliyetleri etkilidir."
+        "text": "Çukurova yöresinde nüfusun yoğun olmasında verimli delta toprağı, tarım ve tarıma dayalı sanayi etkilidir."
       },
       {
         "key": "B",
-        "text": "ll numarali yerde nüfusun yogun olmasinda sehrin idari fonksiyonu etkilidir."
+        "text": "Ankara ve çevresinde nüfusun yoğun olmasında başkent olması ve idari fonksiyonu belirleyicidir."
       },
       {
         "key": "C",
-        "text": "Ill numarali yerde tarımda kuraklık sorunu nedeniyle nüfus yogunlugu azdir."
+        "text": "Tuz Gölü çevresinde yağış azlığı ve kuraklık sorunu nedeniyle nüfus yoğunluğu düşüktür."
       },
       {
         "key": "D",
-        "text": "IV numarali yerde yaz mevsiminde nüfus yogunlugu artmaktadir."
+        "text": "Antalya kıyılarında deniz turizmi faaliyetleri nedeniyle yaz mevsiminde nüfus yoğunluğu katlanarak artar."
       },
       {
         "key": "E",
-        "text": "V numarali yerde kiyidan ic kesimlere gittikce nüfus artis gosterir."
+        "text": "Doğu Karadeniz'de kıyıdan iç kesimlere doğru gidildikçe yükselti azaldığı için nüfus yoğunluğu düzenli olarak artış gösterir."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (V numarali yerde kiyidan ic kesimlere gittikce nüfus artis gosterir.)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz'de kıyıdan iç kesimlere doğru gidildikçe denizel ılıman iklim biter, Kaçkar Dağları nedeniyle yükselti artar ve engebe sertleşir. Bu yüzden iç kesimlere gidildikçe nüfus yoğunluğu artmaz, tam aksine <strong>şiddetle azalır</strong>; nüfusun %85'i dar kıyı şeridinde toplanmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, C ve D şıklarındaki eşleştirmeler coğrafi ilkelerle tamamen örtüşmektedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz'de nüfusun kıyıda toplanması (kıyı-iç kesim zıtlığı) dağların kıyıya paralel uzanmasının doğal sonucudur."
   },
   {
     "id": "cogr_h3-q29",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 29,
-    "questionText": "Türkiye'de özellikle 1950'li yıllardan itibaren kırsal alanlardan kentlere doğru hızlı bir iç göç dalgası başlamıştır.\n\nBu göç hareketinde aşağıdakilerden hangisi 'itici (kırsal kaynaklı)' faktörler arasında yer almaz?",
+    "questionText": "Türkiye'de özellikle 1950'li yıllardan itibaren kırsal alanlardan büyük kentlere doğru çok hızlı bir iç göç dalgası yaşanmıştır.\n\nBu göç hareketinde aşağıdakilerden hangisi 'itici (kırsal kaynaklı)' faktörler arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Tarımda makineleşmenin yaygınlaşmasıyla tarım işçilerinin işsiz kalması"
+        "text": "Tarımda makineleşmenin yaygınlaşmasıyla çok sayıda tarım işçisinin işsiz kalması"
       },
       {
         "key": "B",
-        "text": "Miras yoluyla tarım topraklarının bölünerek aile geçimini sağlayamaz hale gelmesi"
+        "text": "Miras yoluyla tarım topraklarının küçülüp bölünerek aileyi geçindiremez hale gelmesi"
       },
       {
         "key": "C",
-        "text": "Büyükşehirlerde sanayi ve ticaret imkânlarının, eğitim-sağlık hizmetlerinin gelişmiş olması"
+        "text": "Büyükşehirlerde sanayi ve ticaret imkânlarının, eğitim ve sağlık hizmetlerinin gelişmiş olması"
       },
       {
         "key": "D",
-        "text": "Kırsal kesimde iş olanaklarının sınırlı olması ve tarımsal verimin iklime bağımlılığı"
+        "text": "Kırsal kesimde iş sahalarının sınırlı olması ve tarımsal üretimin doğa koşullarına bağımlılığı"
       },
       {
         "key": "E",
-        "text": "Kırsal alanlarda erozyon ve toprak kayıpları sebebiyle verimin düşmesi"
+        "text": "Kırsal alanlarda erozyon ve toprak kayıpları sebebiyle tarımsal verimin giderek düşmesi"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• C seçeneğindeki büyükşehirlerin sanayi, eğitim ve sağlık imkânları göçün 'itici' değil, kentsel 'çekici' faktörüdür."
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Göç faktörleri 'itici' (kırsalın insanı göçe zorlayan olumsuz şartları) ve 'çekici' (kentin sunduğu cezbedici imkânlar) olarak ayrılır.<br>• Büyükşehirlerdeki iş, eğitim, sağlık ve modern yaşam standartları kentsel <strong>'çekici'</strong> faktördür; kırsal kaynaklı itici faktör değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, D ve E seçenekleri doğrudan kırsaldaki olumsuzluklar ve insanı doğup büyüdüğü yerden göçe mecbur bırakan itici nedenlerdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Göç sorularında itici faktör kırsaldaki sorundur; çekici faktör kentteki cazibedir."
   },
   {
     "id": "cogr_h3-q30",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 30,
-    "questionText": "insanlarin her yil belirli aylar icinde bulunduklari ortam-\ndan baska bir ortama calismak icin bir sureligine gitmele\nrine mevsimlik göç denilmektedir.\nBuna gore;\nAntalyaa ve cevresi.\nII. Sivas ve cevresi.\n. Adana ve cevresi\nIV. Afyon ve cevresi\nverilen yerlerin hangilerinde mevsimlik göç nedeniy\nle belirli aylarda daha fazla nüfus artisl olmaktadir?",
+    "questionText": "İnsanların yılın belirli dönemlerinde tarım, turizm veya inşaat gibi işlerde çalışmak ya da dinlenmek amacıyla bir süreliğine başka bir yere gitmelerine 'mevsimlik (geçici) göç' denir.\n\nBuna göre;\nI. Antalya ve çevresi (Deniz turizmi ve seracılık)\nII. Sivas ve çevresi (Karasal kırsal alan)\nIII. Adana ve Çukurova çevresi (Pamuk, mısır ve narenciye hasadı)\nIV. Afyonkarahisar ve çevresi (Termal ve kavşak noktası)\n\nverilen merkezlerden hangilerinde mevsimlik göç hareketi nedeniyle yılın belirli aylarında belirgin bir nüfus patlaması yaşanır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "I ve I"
+        "text": "I ve II"
       },
       {
         "key": "B",
@@ -7429,147 +7429,147 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "II ve II"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "I ve IV"
+        "text": "II ve IV"
       },
       {
         "key": "E",
-        "text": "I ve IV"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Antalya yaz aylarında deniz turizmi sayesinde milyonlarca yerli-yabancı turisti ve turizm emekçisini çekerek nüfusunu katlar (I).<br>• Adana/Çukurova ilkbahar ve sonbahar döneminde pamuk, karpuz ve narenciye hasadı için Güneydoğu'dan yüz binlerce mevsimlik tarım işçisi alır (III).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sivas ve Afyon mevsimlik yoğun işçi göçü mıknatısı değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevsimlik tarım göçü çeken yerler: Çukurova (pamuk), Ordu-Giresun (fındık), Rize (çay), Malatya (kayısı), Ege (üzüm/tütün)."
   },
   {
     "id": "cogr_h3-q31",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 31,
-    "questionText": "Düz ve sade yer şekillerine sahip tarım alanlarında traktör ve biçerdöver gibi makinelerin hızla yaygınlaşması, kırsalda insan gücüne ihtiyacı azaltarak kente göçü artırmıştır.\n\nBuna göre, aşağıdaki alanların hangisinde arazinin aşırı dağlık ve engebeli olması sebebiyle tarımda makineleşmeye bağlı göç görülmez?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q31_img.png",
+    "questionText": "Düz ve geniş tarım arazilerinde traktör ve biçerdöver gibi makinelerin yaygınlaşması, kırsal kesimde insan gücüne duyulan ihtiyacı azaltarak köyden kente göçü hızlandırmıştır.\n\nBuna göre, aşağıdaki alanların hangisinde arazinin aşırı dağlık, dik ve engebeli olması sebebiyle tarımda makine kullanımına bağlı bir göç yaşanması beklenemez?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "İç Anadolu (Konya Ovası)"
+        "text": "İç Anadolu Bölgesi (Konya Ovası)"
       },
       {
         "key": "B",
-        "text": "Doğu Karadeniz kıyı ardı dağlık kuşağı"
+        "text": "Doğu Karadeniz kıyı ardı dağlık kuşağı (Rize-Artvin)"
       },
       {
         "key": "C",
-        "text": "Güneydoğu Anadolu ovaları"
+        "text": "Güneydoğu Anadolu ovaları (Ceylanpınar-Harran)"
       },
       {
         "key": "D",
-        "text": "Çukurova deltamız"
+        "text": "Akdeniz'in Çukurova deltamız"
       },
       {
         "key": "E",
-        "text": "Ergene düzlükleri"
+        "text": "Marmara'nın Ergene düzlükleri"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz aşırı engebeli olduğu için makineleşme zaten yapılamamaktadır; dolayısıyla makineleşme kaynaklı bir işsizlik/göç söz konusu olamaz."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz kıyı ardı dağlık kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz aşırı dik yamaçlara sahip olduğu için tarlalara traktör ve biçerdöver sokulamaz. Çay makasla, fındık elle toplanır. Makineleşme yapılamadığı için makineden kaynaklı bir işsizlik ve göç de gerçekleşemez.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Konya, Harran, Çukurova ve Ergene düzlüklerinde tarım arazileri geniştir ve tamamında makine kullanılır; buralarda insan gücüne ihtiyaç azaldığı için göç tetiklenmiştir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Tarımda makineleşme nerede göçe yol açmaz?' sorusunun tek ve değişmez yanıtı dağlık yer şekilleridir (Doğu Karadeniz, Hakkari, Menteşe)."
   },
   {
     "id": "cogr_h3-q32",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 32,
-    "questionText": "Aşağıdaki merkezlerden hangisi yaz aylarında deniz turizmi faaliyetlerine bağlı olarak Türkiye'de en fazla mevsimlik geçici göç alan merkezlerden biridir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q32_img.png",
+    "questionText": "Yaz aylarında deniz turizmi faaliyetlerine bağlı olarak Türkiye'de geçici nüfus artışının ve mevsimlik göç hareketinin en yoğun yaşandığı merkez aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Alanya / Antalya çevresi"
+        "text": "Alanya - Manavgat kıyı kuşağı (Antalya)"
       },
       {
         "key": "B",
-        "text": "Erzurum / Palandöken çevresi"
+        "text": "Palandöken kış merkezi (Erzurum)"
       },
       {
         "key": "C",
-        "text": "Bolu / Abant çevresi"
+        "text": "Abant ve Gölcük yöresi (Bolu)"
       },
       {
         "key": "D",
-        "text": "Kars / Sarıkamış çevresi"
+        "text": "Sarıkamış kayak merkezi (Kars)"
       },
       {
         "key": "E",
-        "text": "Nevşehir / Kapadokya çevresi"
+        "text": "Kapadokya volkanik yöresi (Nevşehir)"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Alanya / Antalya çevresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Alanya ve Antalya yaz turizmi sebebiyle nüfusunu yaz aylarında ikiye-üçe katlayacak düzeyde geçici mevsimlik göç alır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Alanya - Manavgat kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Akdeniz kıyısında Alanya, Manavgat, Kemer ve Bodrum gibi merkezler yaz sezonunda deniz-kum-güneş turizmi sayesinde nüfuslarını yerleşik sayılarının 3-5 katına çıkarırlar; devasa bir mevsimlik turizm göçü yaşanır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Palandöken ve Sarıkamış kış sporları merkezidir; hareketlilik kış aylarındadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaz mevsiminde turizme bağlı nüfus artışında Ege ve Akdeniz kıyıları liderdir."
   },
   {
     "id": "cogr_h3-q33",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 33,
-    "questionText": "Aşağıdaki merkezlerin hangisi fındık ve çay hasadı döneminde Karadeniz Bölgesi'ne doğru yönelen tarımsal mevsimlik işçi göçünün en yoğun yaşandığı yerlerden biridir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q33_img.png",
+    "questionText": "Ağustos ve eylül aylarında fındık hasadı döneminde Doğu ve Güneydoğu Anadolu'dan gelen yüz binlerce mevsimlik tarım işçisinin göç ettiği başlıca kıyı yöremiz aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Konya"
+        "text": "Konya Kapalı Havzası"
       },
       {
         "key": "B",
-        "text": "Edirne"
+        "text": "Edirne ve Meriç kıyıları"
       },
       {
         "key": "C",
-        "text": "Ordu - Giresun kıyı kuşağı"
+        "text": "Ordu ve Giresun kıyı kuşağı"
       },
       {
         "key": "D",
-        "text": "Muğla"
+        "text": "Muğla ve Menteşe yöresi"
       },
       {
         "key": "E",
-        "text": "Kayseri"
+        "text": "Kayseri ve Develi Ovası"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Ordu - Giresun kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Ağustos aylarında fındık hasadı için Doğu ve Güneydoğu Anadolu'dan Ordu ve Giresun'a yoğun mevsimlik tarım işçisi göçü gerçekleşir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ordu ve Giresun kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye dünya fındık üretiminin yaklaşık %70'ini karşılar. Karadeniz'de Ordu ve Giresun fındığın merkezidir. Her yıl ağustos ayında hasat için binlerce mevsimlik işçi bu illere akın eder.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde fındık tarımı ve hasadı yapılmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Fındık hasadı = Ordu, Giresun, Trabzon. Pamuk hasadı = Adana, Şanlıurfa. Çay hasadı = Rize."
   },
   {
     "id": "cogr_h3-q34",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 34,
-    "questionText": "Güneydoğu Anadolu ve İç Anadolu gibi kurak bölgelerde tarımda sulamanın yaygınlaşması (GAP vb.) nadas alanlarını azaltmış, ürün verimini artırmış ve kırsaldan kente göçü yavaşlatmıştır.\n\nBuna karşılık, aşağıdaki alanların hangisinde iklim zaten her mevsim yağışlı olduğu için sulamaya duyulan ihtiyaç en azdır?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q34_img.png",
+    "questionText": "Türkiye'de kurak ve yarı kurak bölgelerde tarımsal verimi artırmak ve nadas alanlarını azaltmak için sulama projelerine (GAP, KOP vb.) büyük yatırımlar yapılmaktadır.\n\nBuna karşılık, aşağıdaki alanların hangisinde iklim her mevsim düzenli yağışlı geçtiği için tarımda yapay sulamaya duyulan ihtiyaç en azdır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Doğu Karadeniz kıyı kesimi"
+        "text": "Doğu Karadeniz kıyı kuşağı"
       },
       {
         "key": "B",
@@ -7581,7 +7581,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Ege graben ovaları"
+        "text": "Gediz ve Bakırçay graben ovaları"
       },
       {
         "key": "E",
@@ -7589,98 +7589,98 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Karadeniz kıyı kesimi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz her mevsim düzenli yağış aldığından tarımda sulamaya ihtiyaç duyulmayan tek bölgemizdir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyı kesiminde yağış rejimi düzenlidir; kurak bir dönem yaşanmaz. Bu nedenle çay, mısır ve fındık tarımında sulama tesislerine veya yapay sulamaya gerek duyulmaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Güneydoğu, Konya, Ege grabenleri ve Iğdır'da yaz kuraklığı çok şiddetlidir; sulama olmadan tarımsal üretim yapılamaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de nadasa (toprağı boş bırakmaya) en az ihtiyaç duyulan bölge Karadeniz; en çok ihtiyaç duyulan bölge İç ve Güneydoğu Anadolu'dur."
   },
   {
     "id": "cogr_h3-q35",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 35,
-    "questionText": "Aşağıdakilerden hangisi göçe neden olan doğal fak-\ntorlerdendr?",
+    "questionText": "Göç hareketleri nedenlerine göre; doğal (fiziki), ekonomik, sosyal ve siyasi faktörler olmak üzere gruplandırılır.\n\nAşağıdakilerden hangisi göçe neden olan doğrudan 'doğal (fiziki)' faktörlerden biridir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Erozyon"
+        "text": "Şiddetli erozyon, kuraklık ve çölleşme nedeniyle tarım arazilerinin verimsizleşmesi"
       },
       {
         "key": "B",
-        "text": "Egitim"
+        "text": "Çocukların kaliteli eğitim ve üniversite olanaklarından yararlanmak istemesi"
       },
       {
         "key": "C",
-        "text": "Savaslar"
+        "text": "Sınır çatışmaları, iç karışıklıklar ve savaşlar"
       },
       {
         "key": "D",
-        "text": "Saglik"
+        "text": "Büyükşehirlerdeki gelişmiş sağlık ve hastane imkânlarına erişim arzusu"
       },
       {
         "key": "E",
-        "text": "Mubadele"
+        "text": "Uluslararası antlaşmalar sonucu yapılan nüfus mübadelesi"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Erozyon)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Şiddetli erozyon, kuraklık ve çölleşme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Erozyon, deprem, heyelan, kuraklık, volkanizma ve taşkınlar doğanın kendi dengesinden kaynaklanan <strong>doğal (fiziki)</strong> göç faktörleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Eğitim ve sağlık sosyal faktördür.<br>• Savaş ve mübadele ise siyasi faktörlerdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Heyelan nedeniyle taşınan yerleşmeler (örneğin Rize/Trabzon köyleri) doğal faktörlü göçün tipik örneğidir."
   },
   {
     "id": "cogr_h3-q36",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 36,
-    "questionText": "Aşağıdaki sehirlerden hangisinin kurulup gelisme-\nsinde madencilik faaliyetleri etkili olmustur?",
+    "questionText": "Türkiye'de bazı şehirlerin kurulmasında ve hızla gelişmesinde yer altı zenginlikleri ile madencilik faaliyetleri belirleyici olmuştur.\n\nAşağıdaki şehir/ilçelerden hangisinin büyüyüp gelişmesinde boksit madeni ve alüminyum tesisleri doğrudan etkili olmuştur?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Seydisehir"
+        "text": "Seydişehir (Konya)"
       },
       {
         "key": "B",
-        "text": "Nevsehir"
+        "text": "Nevşehir"
       },
       {
         "key": "C",
-        "text": "Aksehir"
+        "text": "Akşehir (Konya)"
       },
       {
         "key": "D",
-        "text": "Kirsehir"
+        "text": "Kırşehir"
       },
       {
         "key": "E",
-        "text": "Viransehir"
+        "text": "Viranşehir (Şanlıurfa)"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Seydisehir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Seydişehir / Konya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Seydişehir, Toroslar kuşağındaki zengin boksit (alüminyum cevheri) yatakları ve Türkiye'nin en büyük entegre alüminyum fabrikasının kurulmasıyla hızla sanayileşen ve büyüyen bir madencilik/sanayi kentidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Nevşehir turizm kenti, Akşehir ve Viranşehir tarım/ticaret merkezleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Madencilik şehirleri: Batman (petrol), Zonguldak (taşkömürü), Soma/Yatağan (linyit), Seydişehir (boksit), Divriği/Murgul (demir/bakır)."
   },
   {
     "id": "cogr_h3-q37",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 37,
-    "questionText": "Yayla, genellikle ilkbahar ve yaz mevsimlerinde yüksek kesimlerdeki gür ot topluluklarından hayvancılık ve son yıllarda turizm amacıyla yararlanmak için kullanılan geçici bir köy altı yerleşmesidir.\n\nBuna göre, Türkiye'de yaylacılık faaliyetlerinin en gelişmiş olduğu ve en yaygın görüldüğü coğrafi bölge aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q37_img.png",
+    "questionText": "Yayla; genellikle ilkbahar ve yaz mevsimlerinde yüksek kesimlerdeki gür ot topluluklarından hayvancılık yapmak ve son yıllarda da doğa turizmi amacıyla yararlanmak için kullanılan geçici bir köy altı yerleşmesidir.\n\nBuna göre, Türkiye'de yaylacılık faaliyetlerinin gerek hayvancılık gerekse turizm açısından en gelişmiş ve en yaygın olduğu coğrafi alan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Güneydoğu Anadolu Bölgesi"
+        "text": "Güneydoğu Anadolu ovaları"
       },
       {
         "key": "B",
@@ -7696,22 +7696,22 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Karadeniz Bölgesi (Doğu Karadeniz Dağları)"
+        "text": "Doğu Karadeniz ve Toros Dağları kuşağı"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Karadeniz Bölgesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Yayla yerleşmeleri yüksekliğe bağlı gür çayırların bulunduğu Karadeniz ve Akdeniz (Toroslar) dağlarında en yaygındır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Karadeniz ve Toros Dağları kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Yaylacılık dağlık alanlardaki yüksek otlaklara çıkma faaliyetidir. Türkiye'de yaylacılığın kalbi Doğu Karadeniz (Ayder, Pokut, Anzer) ve Akdeniz'deki Toros Dağları'dır (yaylaya çıkıp yaz sıcağından korunma ve hayvancılık).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene ve Güneydoğu düzlüktür; buralarda yayla yerleşmesi bulunmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Köy altı yerleşmeleri içerisinde en yaygın olanı <strong>Yayla</strong>dır. Günümüzde Karadeniz'de yaylalar turizm fonksiyonu da kazanmıştır."
   },
   {
     "id": "cogr_h3-q38",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 38,
-    "questionText": "Türkiye'de özellikle Bolu, Kastamonu, Sinop, Düzce ve Sakarya çevrelerinde yaygın olan, birbirine mesafeli birkaç mahallenin tek bir muhtarlık çatısı altında birleşmesiyle oluşan daimi köy altı yerleşmesine ne ad verilir?",
+    "questionText": "Türkiye'de özellikle Bolu, Kastamonu, Sinop, Karabük ve Düzce çevrelerinde (Batı Karadeniz'de) yaygın olan, birbirine mesafeli birkaç mahallenin tek bir muhtarlık çatısı altında birleşmesiyle oluşan ve tarım-ormancılık yapılan daimi köy altı yerleşmesine ne ad verilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -7737,18 +7737,18 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Divan)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Batı Karadeniz'de mahallelerin birleşmesiyle oluşan ve günümüzde daimi kabul edilen köy altı yerleşmesi Divan'dır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Divan)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Divan</strong>, Batı Karadeniz Bölgesi'ne (Bolu, Kastamonu, Sinop) özgü sürekli (daimi) bir köy altı yerleşmesidir. Birbirine yakın birkaç mahallenin ortak bir muhtara bağlı olmasından doğmuştur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kom: Doğu Anadolu'da hayvancılık yapılan geçici yerleşme.<br>• Oba: Toroslar'da göçebe çadır yerleşmesi.<br>• Dalyan: Kıyılarda balıkçılık tesisleri.<br>• Ağıl: İç Anadolu'da küçükbaş hayvan barınağı.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Daimi köy altı yerleşmeleri: Çiftlik, Mahalle, Divan, Mezra. Geçici olanlar: Yayla, Kom, Ağıl, Oba, Dalyan, Güzle."
   },
   {
     "id": "cogr_h3-q39",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 39,
-    "questionText": "Aşağıdaki semada K sehrinin gelismis bazi fonksiyonel\nözellikleri gosterilmistir.\nLiman\nK Sehri\nTicaret\nTurizm\nBuna gore, K sehri asagidakilerden hangisi olabilir?",
+    "questionText": "Bir kentin gelişmesinde birden fazla fonksiyon aynı anda etkili olabilir. Örneğin bir şehir; sahip olduğu geniş limanı ile ithalat ve ihracat kapısı iken, aynı zamanda Ege'nin sanayi, ticaret ve kültür-turizm merkezi konumunda bulunabilir.\n\nFonksiyonel özellikleri arasında liman, ticaret, sanayi ve fuar-turizminin birlikte bulunduğu bu şehir aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -7762,11 +7762,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "izmir"
+        "text": "İzmir"
       },
       {
         "key": "D",
-        "text": "Kirklareli"
+        "text": "Kırklareli"
       },
       {
         "key": "E",
@@ -7774,55 +7774,55 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (izmir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İzmir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İzmir Türkiye'nin 3. büyük kenti olup; Ege'nin en büyük ihracat limanına, dev sanayi tesislerine, uluslararası fuara (Enternasyonal Fuarı) ve zengin bir ticaret-turizm fonksiyonuna sahiptir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ankara'nın denizi ve limanı yoktur. Sinop'un limanı vardır ancak hinterlandı dardır; sanayisi gelişmemiştir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin en büyük ihracat limanı İzmir; en büyük ithalat ve konteyner limanı ise İstanbul/Kocaeli (Ambarlı/Asyaport)'tur."
   },
   {
     "id": "cogr_h3-q40",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 40,
-    "questionText": "Bir limanin art bölgesinin genis veya dar olmasi o limanin\nticaret hacmi uzerinde etkili olmaktadir. Buna bagli olarak\nda art bölgesi genis bir limanin cevresinde sehirlesme\nfaaliyetleri hiz kazanir.\nSinop\nSamsun\nZonguldak\nTrabzon\nizmir",
+    "questionText": "Bir limanın iç kesimlerle olan kara ve demir yolu ulaşım bağlantılarının kolaylığına ve o limanı besleyen ekonomik etki alanına 'hinterland (art bölge)' denir. Hinterlandı geniş olan limanlar hızla gelişirken, dağların kıyıya dik ve sarp uzandığı iç kesimle bağlantısı zayıf limanlar tenhalaşır.\n\nBuna göre, aşağıdaki liman kentlerimizden hangisinin dağların uzanış yönü ve ulaşım kolaylığı sayesinde hinterlandı (art bölgesi) diğerlerine göre çok daha geniştir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Zonguldak"
+        "text": "Sinop Limanı"
       },
       {
         "key": "B",
-        "text": "Trabzon"
+        "text": "Giresun Limanı"
       },
       {
         "key": "C",
-        "text": "Samsun"
+        "text": "Hopa Limanı"
       },
       {
         "key": "D",
-        "text": "Sinop"
+        "text": "İnebolu Limanı"
       },
       {
         "key": "E",
-        "text": "izmir"
+        "text": "İzmir Limanı"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (izmir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (İzmir Limanı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Ege Bölgesi'nde dağlar denize dik uzandığı için graben ovaları boyunca kara ve demir yolları İç Anadolu'ya kadar engelsiz uzanır. Bu sayede İzmir Limanı devasa bir ekonomik art bölgeye (hinterlanda) sahiptir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sinop doğal bir liman olmasına rağmen arkasındaki Küre Dağları ve demir yolunun bulunmaması sebebiyle Türkiye'nin hinterlandı en dar limanıdır ve gelişememiştir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Hinterlandı en dar doğal liman = Sinop. Karadeniz'de hinterlandı en geniş liman = Samsun (Canik Dağları alçak olduğu için demiryolu iç kesime kolayca bağlanır)."
   },
   {
     "id": "cogr_h3-q41",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 41,
-    "questionText": "Anayol kavsaginda bulunan sehirler hizla gelismektedir.\nBu sehirlere ulasim sehirleri denir.\nBu aciklamaya gore, asagidaki\nsehirlerimizden han-\ngisi ulasim sehirlerine ornek gosterilemez?",
+    "questionText": "Türkiye'de bazı şehirler ana transit yolların, demir yollarının ve kavşak noktalarının üzerinde yer aldıkları için çok hızlı büyümüşlerdir. Bu şehirlere 'ulaşım/kavşak şehirleri' adı verilir.\n\nBuna göre, aşağıdaki şehirlerden hangisi Türkiye'nin ana kavşak şehirlerinden biri olarak gösterilemez?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -7840,7 +7840,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Antalyaa"
+        "text": "Antalya"
       },
       {
         "key": "E",
@@ -7848,24 +7848,24 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Antalyaa)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Antalya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Antalya bir turizm ve tarım şehridir; ancak coğrafi konum olarak Akdeniz kıyısında 'çıkmaz sokak' durumundadır. Arkasındaki sarp Toros Dağları nedeniyle iç kesimlerle bağlantısı sadece geçitlerle (Çubuk Geçidi vb.) sağlanır ve demir yolu ağı hiç yoktur. Dolayısıyla bir kavşak noktası şehri değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Afyonkarahisar (Ege-İç Anadolu-Akdeniz kavşağı), Ankara, Konya ve Gaziantep (Ortadoğu-Güneydoğu kapısı) Türkiye'nin en stratejik ulaşım kavşaklarıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Demir yolu ulaşımı olmayan önemli büyükşehirler: Antalya, Muğla, Trabzon, Rize, Çanakkale."
   },
   {
     "id": "cogr_h3-q42",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 42,
-    "questionText": "Deniz, gol veya akarsu kenarlarinda balik avlamak\nya da uretmek icin kurulan gecici koy alti yerleşmesi\nasagidakilerden hangisidir?",
+    "questionText": "Deniz, göl, lagün veya akarsu ağızlarında balık avlamak, balık üretmek ve balıkçılık faaliyetlerini yürütmek amacıyla kurulan geçici köy altı yerleşmesine ne ad verilir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Agil"
+        "text": "Ağıl"
       },
       {
         "key": "B",
@@ -7877,7 +7877,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Ciftlik"
+        "text": "Çiftlik"
       },
       {
         "key": "E",
@@ -7885,65 +7885,65 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Dalyan)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Dalyan)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Dalyan</strong>, deniz ve göl kenarlarında ya da lagünlerde balıkçılık faaliyetleri için kurulmuş geçici köy altı yerleşmeleridir. Ege ve Akdeniz kıyılarında (Muğla Köyceğiz-Dalyan çevresi) sıkça görülür.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ağıl ve Kom hayvancılık; Çiftlik ve Mezra tarım/hayvancılık amaçlıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Köy altı yerleşmeleri içinde doğrudan 'balıkçılık' amacıyla kurulan tek yerleşme <strong>Dalyan</strong>dır."
   },
   {
     "id": "cogr_h3-q43",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 43,
-    "questionText": "Aşağıdakilerin hangisinde verilen sehir ve sehrin ge-\nlismesinde etkili olan fonksiyon eslestirmesi yanlistir?",
+    "questionText": "Aşağıdaki şehir ve bu şehrin büyümesinde en belirleyici olan baskın fonksiyon eşleştirmelerinden hangisi yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "turizm"
+        "text": "Antalya - Turizm kenti"
       },
       {
         "key": "B",
-        "text": "izmir - liman"
+        "text": "İzmir - Liman ve Dış Ticaret kenti"
       },
       {
         "key": "C",
-        "text": "Kayseri - idari"
+        "text": "Kayseri - İdari başkent fonksiyonu"
       },
       {
         "key": "D",
-        "text": "Antalya"
+        "text": "Batman - Maden (Petrol) kenti"
       },
       {
         "key": "E",
-        "text": "Eskisehir - kultur"
+        "text": "Eskişehir - Eğitim ve Üniversite kenti"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Kayseri - idari)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kayseri - İdari başkent fonksiyonu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de idari fonksiyonuyla gelişmiş tek başkent <strong>Ankara</strong>dır. Kayseri ise tarih boyunca ticaret ve sanayi fonksiyonuyla (pastırma-sucuk, mobilya, tekstil, organize sanayi) öne çıkmış bir ticaret şehridir; idari fonksiyonu yoktur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Antalya turizm, İzmir liman, Batman petrol madeni, Eskişehir ise Anadolu ve Osmangazi üniversiteleri ile eğitim kenti kimliğindedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Dünyada ve Türkiye'de idari fonksiyon sadece başkentler için kullanılır (Ankara, Washington, Londra vb.)."
   },
   {
     "id": "cogr_h3-q44",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 44,
-    "questionText": "Daginik yerleşme dokusuna sahip yerlere ornek olarak\nRize verilebilir.\nRize'nin;\nI. yer sekillerinin engebeli olmasl,\n. yillik yağış miktarinin fazla olmasl,\nM. tarım alanlarinin kucuk ve daginik olmasi\nözelliklerinden hangileri bu yerleşme\ntipinin yaygin\nolmasinda etkili olmustur?",
+    "questionText": "Türkiye'de evlerin birbirinden uzak ve yamaçlara serpiştirildiği 'dağınık kır yerleşmeleri'nin en tipik örnekleri Doğu Karadeniz Bölümü'nde (Rize, Trabzon, Artvin) görülür.\n\nBu yörede dağınık yerleşmelerin yaygın olmasında;\nI. Yer şekillerinin çok engebeli ve dik yamaçlardan oluşması\nII. Su kaynaklarının ve derelerin her yerde bol miktarda bulunması\nIII. Tarım arazilerinin küçük, dar ve parçalı olması\n\nözelliklerinden hangileri birlikte etkili olmuştur?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Yalniz I"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "Yalniz"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
@@ -7951,100 +7951,100 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "I ve I"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "Ive"
+        "text": "I, II ve III"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Ive)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Dağınık yerleşme iki ana şarta bağlıdır: 1) Yer şekillerinin engebeli ve arazinin parçalı olması (insanlar tarlalarının başına tek tek ev yapar), 2) Su sorununun olmaması (herkes evinin yanındaki pınardan su temin edebilir). Doğu Karadeniz'de bu üç öncül de eksiksiz mevcuttur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İç Anadolu'da ise arazinin düz olması ve suyun tek bir kuyuda toplanması 'toplu yerleşmeyi' doğurmuştur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Dağınık yerleşme = Karadeniz (Engebe + Bol su). Toplu yerleşme = İç ve Güneydoğu Anadolu (Düzlük + Su yetersizliği)."
   },
   {
     "id": "cogr_h3-q45",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 45,
-    "questionText": "Aşağıdaki haritada dort farkli il gosterilmistir\nBepual\nSanlurfa\nHaritada gosterilen bu illerin hangilerinde yayla yer-\nlesmelerine daha sik rastlanir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q45_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Tekirdag - Trabzon"
-      },
-      {
-        "key": "B",
-        "text": "Tekirdag - Sanliurfa"
-      },
-      {
-        "key": "C",
-        "text": "Trabzon - Sanliurfa"
-      },
-      {
-        "key": "D",
-        "text": "Trabzon - Kars"
-      },
-      {
-        "key": "E",
-        "text": "Kars - Sanliurfa"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Trabzon - Kars)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
-  },
-  {
-    "id": "cogr_h3-q46",
-    "testId": "cogr_hafta3",
-    "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
-    "questionNumber": 46,
-    "questionText": "Ciftlik\nIl. Mezra\n. Oba\nIV. Kom\nYukaridakilerden hangileri gecici koy altl yerleşmele\nrine orhektir?",
+    "questionText": "Türkiye'de yükseltisi fazla olan dağlık ve yaylalık alanlarda ilkbahar ve yaz aylarında yaylacılık faaliyetleri yoğunlaşmaktadır.\n\nAşağıda verilen il çiftlerinin hangisinde yayla yerleşmelerine ve yaylacılık faaliyetlerine en sık rastlanır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "I ve I"
+        "text": "Tekirdağ - Edirne"
       },
       {
         "key": "B",
-        "text": "I ve I"
+        "text": "Şanlıurfa - Mardin"
       },
       {
         "key": "C",
-        "text": "Il ve II"
+        "text": "Trabzon - Rize"
       },
       {
         "key": "D",
-        "text": "Il ve IV"
+        "text": "Kırklareli - Tekirdağ"
       },
       {
         "key": "E",
-        "text": "ve IV"
+        "text": "Diyarbakır - Batman"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (ve IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Trabzon - Rize)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Trabzon ve Rize Kaçkar Dağları'nın yamaçlarında yer alır. Türkiye'de yaylacılık kültürünün ve yayla sayısının en zengin olduğu iller Trabzon ve Rize'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tekirdağ, Edirne, Şanlıurfa ve Mardin düz plato ve ova alanlarıdır; yayla yerleşmesi görülmez.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaylacılık en çok Karadeniz ve Toroslar kuşağında yapılır; Marmara'nın Ergene bölümü ile Güneydoğu ovalarında yapılmaz."
+  },
+  {
+    "id": "cogr_h3-q46",
+    "testId": "cogr_hafta3",
+    "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 46,
+    "questionText": "Köy altı yerleşmeleri yerleşme süresine göre 'sürekli (daimi)' ve 'geçici' yerleşmeler olarak ikiye ayrılır.\n\nBuna göre, aşağıdakilerden hangisinde verilen köy altı yerleşmelerinin tamamı geçici yerleşmeler grubundadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çiftlik ve Mahalle"
+      },
+      {
+        "key": "B",
+        "text": "Divan ve Mezra"
+      },
+      {
+        "key": "C",
+        "text": "Mezra ve Çiftlik"
+      },
+      {
+        "key": "D",
+        "text": "Yayla, Oba ve Kom"
+      },
+      {
+        "key": "E",
+        "text": "Mahalle ve Divan"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yayla, Oba ve Kom)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Geçici Köy Altı Yerleşmeleri:</strong> Yayla, Kom, Ağıl, Oba, Dalyan, Güzle, Dam.<br>• <strong>Daimi (Sürekli) Köy Altı Yerleşmeleri:</strong> Çiftlik, Mahalle, Divan, Mezra.<br>• D seçeneğindeki Yayla, Oba ve Kom yalnızca mevsimlik kullanılan geçici yerleşmelerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çiftlik, Divan, Mezra ve Mahalle sürekli (daimi) yerleşmelerdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Daimi yerleşmeler tarım odaklıdır; geçici yerleşmeler ise genellikle hayvancılık odaklıdır."
   },
   {
     "id": "cogr_h3-q47",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 47,
-    "questionText": "Turkiye'de demir yolu ulasimini kullanarak gezi yapmak\nisteyen bir turist, seyahatine istanbul'dan baslamistir.\nBu turist yalnizca trenle seyahat ederek asagidaki se\nhirlerden hangisine ulasamaz?",
+    "questionText": "Türkiye'de demir yolu ulaşımını kullanarak seyahat etmek isteyen bir yolcu İstanbul'dan trenle yola çıkmıştır.\n\nBu yolcu yalnızca demir yolunu kullanarak aşağıdaki turistik şehirlerimizden hangisine doğrudan ulaşamaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -8058,7 +8058,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Antalyaa"
+        "text": "Antalya"
       },
       {
         "key": "D",
@@ -8070,118 +8070,118 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Antalyaa)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Antalya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Antalya'ya uzanan hiçbir demir yolu hattı bulunmamaktadır. Türkiye'de dağlık arazi engeli nedeniyle Antalya, Muğla, Trabzon ve Rize gibi büyük kıyı kentlerimize demir yolu ulaşımı yoktur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ankara (YHT), Erzurum (Doğu Ekspresi), Adana ve Malatya (Toros/Güney Ekspresi) aktif demir yolu ağına bağlıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> ÖSYM'nin demiryolu olmayan liman/şehir sorularında en çok sorduğu iller: Antalya, Trabzon ve Muğla'dır."
   },
   {
     "id": "cogr_h3-q48",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 48,
-    "questionText": "istanbul'un gelismesinde asagidaki ekonomik\netkin\nliklerden hangisinin etkisi digerlerine gore daha az\nolmustur?",
+    "questionText": "İstanbul'un hızla büyüyüp küresel ölçekte bir metropol ve Türkiye'nin en büyük nüfus odak noktası haline gelmesinde, aşağıdaki ekonomik faaliyet kollarından hangisinin katkısı diğerlerine göre en az olmuştur?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Tarim"
+        "text": "Tarım ve hayvancılık faaliyetleri"
       },
       {
         "key": "B",
-        "text": "Sanayi"
+        "text": "Sanayi ve imalat sektörü"
       },
       {
         "key": "C",
-        "text": "Ticaret"
+        "text": "Finans, bankacılık ve ticaret"
       },
       {
         "key": "D",
-        "text": "Turizm"
+        "text": "Kültür, kongre ve tarih turizmi"
       },
       {
         "key": "E",
-        "text": "Ulasim"
+        "text": "Uluslararası ulaşım ve lojistik"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Tarim)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tarım ve hayvancılık faaliyetleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İstanbul tamamen sanayi, ticaret, finans, liman, lojistik ve turizm fonksiyonları ile gelişmiş bir dünya mega kentidir. Şehir arazisinin büyük bölümü kentsel yerleşime ayrılmış olup tarımın şehir ekonomisindeki ve nüfuslanmasındaki payı neredeyse sıfıra yakındır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• B, C, D ve E sektörleri İstanbul'u Türkiye'nin ekonomik lokomotifi yapan ana fonksiyonlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Metropol şehirlerde fonksiyonel hiyerarşide birincil sektör (tarım) geriler; üçüncül (hizmet) ve ikincil (sanayi) sektörler baskındır."
   },
   {
     "id": "cogr_h3-q49",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 49,
-    "questionText": "idari olarak koye bagli olan, koyden daha kucuk yerlesim\nbirimlerine koy alti yerleşmeleri denir.\nAsagida bu yerleşmeler ile gii verilen bilgilerden\nhangisi yanlistir?",
+    "questionText": "İdari olarak bir köye bağlı olan ve köy merkezinin dışında yer alan daha küçük yerleşim birimlerine 'köy altı yerleşmeleri' denir.\n\nKöy altı yerleşmeleri ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Baslica gecim kaynaklari tarım ve hayvanciliktir."
+        "text": "Halkın başlıca geçim kaynakları tarım, hayvancılık ve ormancılıktır."
       },
       {
         "key": "B",
-        "text": "Koy alti yerleşmelerinde is bolumu yeteri kadar gelis. memistir."
+        "text": "Nüfusları az olduğu için mesleki iş bölümü gelişmemiştir."
       },
       {
         "key": "C",
-        "text": "Koy alti yerleşmeleri bagli bulunduklari koyun muhtari tarafindan yonetilirler."
+        "text": "İdari yönden bağlı bulundukları köy muhtarlığı tarafından temsil edilirler."
       },
       {
         "key": "D",
-        "text": "Yayla, mezra, kom, oba, ciftlik, mahalle ve divan bas. lica koy alti yerleşmeleridir."
+        "text": "Yayla, mezra, kom, oba, çiftlik ve divan başlıca köy altı yerleşmeleridir."
       },
       {
         "key": "E",
-        "text": "Koy alti yerleşmelerinin tamaml yaz aylarinda yerlesi len gecici yerleşmelerdir."
+        "text": "Köy altı yerleşmelerinin tamamı sadece yaz aylarında kullanılan geçici yerleşmelerdir."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Koy alti yerleşmelerinin tamaml yaz aylarinda yerlesi len gecici yerleşmelerdir.)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Köy altı yerleşmelerinin tamamı geçici değildir. Çiftlik, Mahalle, Divan ve Mezra yılın 12 ayı boyunca sürekli ikamet edilen <strong>daimi (sürekli)</strong> yerleşmelerdir. Dolayısıyla 'tamamı geçicidir' ifadesi bariz bir hatadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, C ve D seçeneklerinde verilen tüm idari ve ekonomik nitelikler köy altı yerleşmelerinin mevzuattaki ve coğrafyadaki temel özellikleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mezra ve çiftlik = Sürekli; Yayla ve oba = Geçicidir."
   },
   {
     "id": "cogr_h3-q50",
     "testId": "cogr_hafta3",
     "testTitle": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
-    "topicId": "cogr_tarama_h3",
-    "topicName": "Coğrafya Kampı 3. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "👥",
+    "topicId": "cogr_hafta3_iklim_nufus",
+    "topicName": "Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç",
+    "category": "Cografya",
+    "icon": "globe",
     "questionNumber": 50,
-    "questionText": "Aşağıdaki sehirlerden hangisinin kurulup gelisme-\nsinde, turizm faaliyetleri etkili olmustur?",
+    "questionText": "Türkiye'de bazı şehirlerin küçük birer kırsal kasaba iken kısa sürede hızla büyüyüp kentleşmesinde doğal güzellikler ve turizm hareketleri belirleyici olmuştur.\n\nAşağıdaki şehir/ilçelerden hangisinin büyümesinde ve ekonomisinde deniz, yat ve doğa turizmi faaliyetleri en baskın fonksiyondur?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "inegol"
+        "text": "İnegöl (Bursa)"
       },
       {
         "key": "B",
-        "text": "Soke"
+        "text": "Söke (Aydın)"
       },
       {
         "key": "C",
-        "text": "Tarsus"
+        "text": "Tarsus (Mersin)"
       },
       {
         "key": "D",
-        "text": "Corlu"
+        "text": "Çorlu (Tekirdağ)"
       },
       {
         "key": "E",
-        "text": "Fethiye"
+        "text": "Fethiye (Muğla)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Fethiye)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına göre bu soruda test edilen temel ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• İklim, sıcaklık-yağış dağılışı, nüfus ve yerleşme dinamikleri açısından Türkiye'nin coğrafi şartları ve bölgesel özellikleri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen coğrafi kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim ve nüfus konularında enlem-sıcaklık ilişkisi, denizellik/karasallık, yükselti ve göç faktörleri sınavda en çok sorgulanan kazanımlardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Fethiye / Muğla)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Fethiye (Ölüdeniz, Saklıkent, Kelebekler Vadisi vb.) ekonomisi ve şehirsel gelişimi neredeyse tamamen ulusal ve uluslararası turizm fonksiyonuna dayanan dünyaca ünlü bir turizm kentidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İnegöl mobilya sanayi, Söke ve Tarsus tarım/tarıma dayalı sanayi, Çorlu ise tekstil sanayi kenti olarak büyümüştür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Turizm kentleri: Fethiye, Bodrum, Marmaris, Alanya, Çeşme, Kuşadası, Ürgüp."
   },
   {
     "id": "cogr_h4-q1",
