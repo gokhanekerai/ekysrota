@@ -471,6 +471,14 @@ class EKYSApp {
             badge: '20 Soru Video Test'
           },
           {
+            id: 'tarih9_direct',
+            name: '📜 Genel Tarih Video Tarama Testi 9',
+            icon: '📜',
+            desc: '1. ve 2. Beylikler Dönemi, Türkiye Selçukluları, Divanlar ve Mimari (24 Soru).',
+            filterKey: 'tarih9',
+            badge: '24 Soru Video Test'
+          },
+          {
             id: 'inkilap_konu_cat',
             name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
             icon: '🇹🇷',
@@ -2734,8 +2742,9 @@ class EKYSApp {
       if (filterKey === 'tarih6') return (q.testId === 'tarih6' || tId === 'tarih_tarama_6' || (tName.includes('tarama 6') && tName.includes('tarih')));
       if (filterKey === 'tarih7') return (q.testId === 'tarih7' || tId === 'tarih_tarama_7' || (tName.includes('tarama 7') && tName.includes('tarih')));
       if (filterKey === 'tarih8') return (q.testId === 'tarih8' || tId === 'tarih_tarama_8' || (tName.includes('tarama 8') && tName.includes('tarih')));
+      if (filterKey === 'tarih9') return (q.testId === 'tarih9' || tId === 'tarih_tarama_9' || (tName.includes('tarama 9') && tName.includes('tarih')));
       if (filterKey === 'tarih_video4') return (q.testId === 'tarih_video4' || tId === 'tarih_video4');
-      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama'));
+      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih9' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama'));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);
