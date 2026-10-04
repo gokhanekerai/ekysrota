@@ -1121,9 +1121,9 @@ class EKYSApp {
             id: 'cogr_tarama_tum',
             name: '🌟 Video Tarama Karma Testi',
             icon: '🎯',
-            desc: 'Tüm video tarama ve kamp testlerinden oluşan 282 soruluk karma havuz.',
+            desc: 'Tüm video tarama ve kamp testlerinden oluşan 282 soruluk zengin karma havuz.',
             filterKey: 'cogr_tarama',
-            badge: '282 Soru'
+            badge: 'Tüm Konular Karma'
           }
         ]
       },
@@ -2683,7 +2683,7 @@ class EKYSApp {
       return [...allQuestions];
     }
 
-    return allQuestions.filter(q => {
+    const filtered = allQuestions.filter(q => {
       const qText = (q.questionText || q.question || '').toLowerCase();
       const tName = (q.topicName || q.testTitle || '').toLowerCase();
       const tId = (q.topicId || q.testId || '').toLowerCase();
@@ -2898,6 +2898,19 @@ class EKYSApp {
 
       return true;
     });
+
+    // Mükerrer soruları tekilleştir (karma tarama havuzlarında aynı sorunun iki kez çıkmasını engeller)
+    if (filterKey === 'cogr_tarama' || filterKey === 'tarih_tarama' || filterKey.endsWith('_tarama')) {
+      const seen = new Set();
+      return filtered.filter(q => {
+        const raw = (q.questionText || q.question || '').replace(/^Yukarıdaki\s+Türkiye\s+haritasında[^\n]*\n+/i, '').trim().replace(/\s+/g, ' ').toLowerCase();
+        if (seen.has(raw)) return false;
+        seen.add(raw);
+        return true;
+      });
+    }
+
+    return filtered;
   }
 
   getAllTestItemsForCategory(categoryKey) {
@@ -3048,11 +3061,12 @@ class EKYSApp {
                 <span style="font-size: 30px;">${item.icon}</span>
                 <div style="display: flex; gap: 6px; flex-wrap: wrap;">
                   <span class="badge badge-info" style="font-size: 0.72rem; font-weight: 700;">
-                    ${qCount > 0 ? qCount + ' Soru Mevcut' : 'Test Hazır'}
+                    ${qCount > 0 ? qCount + ' Soru' : 'Test Hazır'}
                   </span>
+                  ${item.badge && item.badge !== (qCount + ' Soru') && !item.badge.endsWith(' Soru') ? `
                   <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #a5b4fc; font-size: 0.72rem;">
                     ${item.badge}
-                  </span>
+                  </span>` : ''}
                 </div>
               </div>
               <h3 style="font-size: 1.08rem; font-weight: 700; margin-bottom: 6px; color: #ffffff;">${item.name}</h3>
@@ -3120,6 +3134,11 @@ class EKYSApp {
 
     if (filterKey === 'all_mock_80') {
       questions = this.shuffleArray([...questions]).slice(0, 80);
+    } else if (mode === 'exam' && (filterKey === 'cogr_tarama' || filterKey === 'tarih_tarama' || questions.length > 80)) {
+      // 80'den fazla sorusu olan dev karma havuzlarda sınav modu 30 soruluk odaklanmış branş denemesi olarak açılır
+      const examCount = Math.min(30, questions.length);
+      questions = this.shuffleArray([...questions]).slice(0, examCount);
+      title = `${title} (30 Soruluk Deneme)`;
     }
 
     this.activeQuiz = {
@@ -3136,7 +3155,7 @@ class EKYSApp {
       starred: {},
       isFinished: false,
       startTime: Date.now(),
-      durationSeconds: mode === 'exam' ? Math.max(questions.length * 112, 600) : 0,
+      durationSeconds: mode === 'exam' ? (questions.length === 80 ? 9000 : Math.max(questions.length * 75, 600)) : 0,
       elapsedSeconds: 0
     };
 
