@@ -2461,6 +2461,14 @@ class EKYSApp {
             badge: '16 Soru • Konu Testi'
           },
           {
+            id: 'egitim_olcme_ders_5',
+            name: '📊 Ölçme ve Değerlendirme 5. Ders Soruları',
+            icon: '📊',
+            desc: 'Ölçme Türleri, Ölçekler, Hata Türleri, Sınav Araçları ve Korelasyon Tablosu (10 Soru • 5. Ders Özel Tarama).',
+            filterKey: 'egitim_olcme_ders_5',
+            badge: '10 Soru • 5. Ders'
+          },
+          {
             id: 'egitim_video_test_1',
             name: '🎯 Eğitim Bilimleri Video Tarama Testi 1',
             icon: '🎯',
