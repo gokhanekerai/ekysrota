@@ -65996,5 +65996,893 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "hasImage": false,
     "image": null,
     "explanation": "Doğru Cevap: <strong>E</strong> (Öğrenci, kültürel farklılıklara saygıyı yaşamının her alanında sürekli gösterir.)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Duyuşsal alanın en üst basamağı 'Kişilik Hâline Getirme'dir. Bu basamakta değer, bireyin yaşamının her alanında istikrarlı, sürekli ve tutarlı bir yaşam tarzı olarak sergilenir. E seçeneğindeki 'yaşamının her alanında sürekli gösterir' ifadesi bu basamağın göstergesidir.<br><br>🔍 <strong>Seçeneklerin Pedagojik Değerlendirmesi:</strong><br>• <strong>A) Öğrenci, farklı kültürlerle ilgili açıklamaları dinler.:</strong> Açıklamaları dinler: Alma basamağıdır (en alt basamak).<br>• <strong>B) Öğrenci, kültürel etkinliklere istekli biçimde katılır.:</strong> Etkinliklere istekli katılır: Tepkide bulunma basamağıdır.<br>• <strong>C) Öğrenci, kültürel farklılıklara saygı göstermenin önemini kabul eder.:</strong> Önemini kabul eder: Değer verme basamağıdır.<br>• <strong>D) Öğrenci, eşitlik ve saygı değerleri arasında tutarlı bir ilişki kurar.:</strong> Tutarlı bir ilişki kurar: Örgütleme basamağıdır.<br>• <strong>E) Öğrenci, kültürel farklılıklara saygıyı yaşamının her alanında sürekli gösterir.:</strong> Yaşamının her alanında sürekli gösterir: Kişilik hâline getirme (en üst basamak) düzeyidir (Doğru).<br><br>💡 <strong>EKYS Sınav Notu & Kilit Kavram:</strong><br>• 'Yaşamının her anında / her alanında sürekli gösterir' = Kişilik Hâline Getirme (En Üst Düzey)."
+  },
+  {
+    "id": "tarih9-q1",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 1,
+    "questionText": "Aşağıdakilerden hangisi Divan-ı Lügati't-Türk adlı eserin özellikleri arasında gösterilebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gazneliler döneminde kaleme alınmıştır."
+      },
+      {
+        "key": "B",
+        "text": "Dönemin Türk dünyasını gösteren bir haritaya yer verilmiştir."
+      },
+      {
+        "key": "C",
+        "text": "Türklere Arapça öğretmek amacıyla yazılmıştır."
+      },
+      {
+        "key": "D",
+        "text": "Türk dilinin gelişimine engel olmuştur."
+      },
+      {
+        "key": "E",
+        "text": "Yusuf Has Hacib tarafından kaleme alınmıştır."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Dönemin Türk dünyasını gösteren bir haritaya yer verilmiştir.)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Kaşgarlı Mahmud tarafından Karahanlılar döneminde yazılan Divan-ı Lügati't-Türk, ilk Türkçe-Arapça sözlüktür. Eserin içerisinde Türk boylarının yerleşim yerlerini gösteren dairevi bir Türk dünyası haritası bulunur. Bu yönüyle Kaşgarlı Mahmud ilk Türk kartografı sayılır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Gazneliler dönemi:</strong> Yanlış; eser Karahanlılar döneminde yazılmış ve Abbasi Halifesi el-Muktedî Billah'a sunulmuştur.<br>• <strong>B) Türk dünyası haritası:</strong> Doğru; eserde Türk illerini gösteren ilk harita mevcuttur.<br>• <strong>C) Türklere Arapça öğretmek:</strong> Yanlış; Araplara Türkçe öğretmek amacıyla yazılmıştır.<br>• <strong>D) Dil gelişimine engel:</strong> Yanlış; Türkçenin zenginliğini kanıtlamıştır.<br>• <strong>E) Yusuf Has Hacib:</strong> Yanlış; eserin yazarı Kaşgarlı Mahmud'dur."
+  },
+  {
+    "id": "tarih9-q2",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 2,
+    "questionText": "Türk-İslam dünyasında cebir kitabını yazmış ve bunu Batı dünyasına öğretmiş olan, Avrupa'da 'Al-Khwarizmi / Algoritmi' olarak tanınan ve sıfırı matematikte kullanan Türk-İslam bilgini aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Farabi"
+      },
+      {
+        "key": "B",
+        "text": "İbn-i Sina"
+      },
+      {
+        "key": "C",
+        "text": "Harizmi"
+      },
+      {
+        "key": "D",
+        "text": "Biruni"
+      },
+      {
+        "key": "E",
+        "text": "Uluğ Bey"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Harizmi)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Harizmi (Al-Khwarizmi), matematik ve cebir biliminin kurucusu kabul edilir. 'Kitabü'l-Cebr ve'l-Mukabele' eseriyle cebir bilimini sistemleştirmiş ve Batı dünyasına tanıtmıştır. Sıfır rakamını (0) matematikte kullanan ilk bilim insanlarındandır ve algoritma kavramı onun adından türetilmiştir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Farabi:</strong> Muallim-i Sani (İkinci Öğretmen), felsefe ve mantık bilginidir.<br>• <strong>B) İbn-i Sina:</strong> Avicenna, tıp bilginidir (El-Kanun fi't-Tıbb).<br>• <strong>C) Harizmi:</strong> Cebir ve sıfırın kurucusu büyük matematikçidir (Doğru).<br>• <strong>D) Biruni:</strong> Gazneli Mahmut döneminde yaşamış astronomi, fizik ve coğrafya bilginidir.<br>• <strong>E) Uluğ Bey:</strong> Timur Devleti hükümdarı ve Semerkant rasathanesini kuran astronomdur."
+  },
+  {
+    "id": "tarih9-q3",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 3,
+    "questionText": "İlk Türk-İslam devletlerinde ikta sisteminin uygulandığı topraklar aşağıdakilerden hangisinin kapsamındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mülk arazi"
+      },
+      {
+        "key": "B",
+        "text": "Öşri arazi"
+      },
+      {
+        "key": "C",
+        "text": "Haraci arazi"
+      },
+      {
+        "key": "D",
+        "text": "Miri arazi"
+      },
+      {
+        "key": "E",
+        "text": "Yurtluk arazi"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Miri arazi)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Türk-İslam devletlerinde topraklar temelde mülk ve miri olarak ikiye ayrılır. Mülkiyeti devlete ait olan arazilere 'Miri Arazi' denir. İkta arazileri de mülkiyeti devlete ait olan, sadece kullanım ve vergi toplama hakkı asker ve yöneticilere maaş karşılığı verilen Miri araziler kapsamındadır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Mülk arazi:</strong> Şahıslara ait arazilerdir; miras bırakılabilir ve satılabilir.<br>• <strong>B) Öşri arazi:</strong> Mülkiyeti Müslümanlara ait mülk arazidir.<br>• <strong>C) Haraci arazi:</strong> Mülkiyeti gayrimüslimlere ait mülk arazidir.<br>• <strong>D) Miri arazi:</strong> Devlete ait arazilerdir (Has, İkta ve Vakıf toprakları bu gruptadır) (Doğru).<br>• <strong>E) Yurtluk arazi:</strong> Geliri sınır boylarını koruyanlara ayrılan arazidir."
+  },
+  {
+    "id": "tarih9-q4",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 4,
+    "questionText": "Türk-İslam edebiyatının ilk yazılı örneği olan Kutadgu Bilig eseri hakkında aşağıda verilen özelliklerden hangisi söylenemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mutluluk veren bilgi anlamına gelmektedir."
+      },
+      {
+        "key": "B",
+        "text": "Edip Ahmet Yükneki tarafından kaleme alınmıştır."
+      },
+      {
+        "key": "C",
+        "text": "Uygur / Hakaniye Türkçesi ile yazılmıştır."
+      },
+      {
+        "key": "D",
+        "text": "Siyasetname türünün ilk örneği kabul edilir."
+      },
+      {
+        "key": "E",
+        "text": "Aruz ölçüsüyle yazılan ilk Türk-İslam eseridir."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Edip Ahmet Yükneki tarafından kaleme alınmıştır.)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Kutadgu Bilig (Kutlu / Mutluluk Veren Bilgi), Yusuf Has Hacib tarafından yazılarak Karahanlı hükümdarı Tabgaç Buğra Han'a sunulmuştur. Edip Ahmet Yükneki'nin eseri ise 'Atabetü'l-Hakayık' (Hakikatlerin Eşiği) adlı ahlak ve öğüt kitabıdır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Anlamı:</strong> 'Kutlu bilgi / mutluluk veren bilgi' doğrudur.<br>• <strong>B) Edip Ahmet Yükneki:</strong> Yanlış; yazarı Yusuf Has Hacib'dir (Doğru şık).<br>• <strong>C) Hakaniye Türkçesi:</strong> Karahanlı dönemi Türkçesiyle yazılmıştır.<br>• <strong>D) Siyasetname:</strong> Devlet yönetimi ve adalet ilkelerini ele alan ilk siyasetnamedir.<br>• <strong>E) Aruz ölçüsü:</strong> Türk edebiyatında aruz vezninin ilk kullanıldığı eserdir."
+  },
+  {
+    "id": "tarih9-q5",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 5,
+    "questionText": "I. Geçim kaynağının ve ekonominin büyük oranda toprağa dayandığı\nII. Askerî ve güvenlik ihtiyaçlarının hazineye yük olmadan karşılandığı\nIII. Esnafların mesleki alanlarına göre kendi aralarında örgütlendiği\n\nSelçuklularda ikta sisteminin uygulanması yukarıdaki durumlardan hangilerini doğrudan kanıtlar?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• İkta sistemi; devlet görevlilerine maaş yerine toprak tahsis edilip burada elde edilen gelirle atlı asker (sipahi) beslenmesi esasına dayanır. Bu durum ekonominin toprağa dayandığını (I) ve hazineden para çıkmadan ordu beslendiğini (II) kanıtlar. Esnafların mesleki örgütlenmesi (III) ise tarımsal ikta ile değil, Ahilik / esnaf lonca teşkilatıyla ilgilidir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>I. Öncül:</strong> İkta sistemi tarım ve toprak gelirlerine dayanır (Kanıtlar).<br>• <strong>II. Öncül:</strong> Hazineden nakit para çıkmadan büyük bir ordu kurulmasını sağlar (Kanıtlar).<br>• <strong>III. Öncül:</strong> Esnaf örgütlenmesi Ahi teşkilatının alanıdır, iktayla doğrudan ilgisi yoktur (Kanıtlamaz)."
+  },
+  {
+    "id": "tarih9-q6",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 6,
+    "questionText": "Türk-İslam devletlerinde hukuk yapısının şekillenmesinde;\nI. Din ve şeri kurallar (Kur'an, sünnet, icma, kıyas)\nII. Örf, âdet ve gelenekler (Eski Türk töresi)\nIII. Divan kararları ve hükümdar fermanları\n\nunsurlarından hangilerinin etkisinden söz edilebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Türk-İslam hukuk sistemi Şeri Hukuk ve Örfi Hukuk olmak üzere iki ana koldan oluşur. Şeri hukukun kaynağı İslam dinidir (I). Örfi hukukun kaynağı ise eski Türk töresi, örf-âdetler (II) ile hükümdarın fermanları ve divanda alınan kararlardır (III). Dolayısıyla her üç öncül de Türk-İslam hukukunun şekillenmesinde etkilidir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>I. Öncül:</strong> Şeri hukukun temelidir (Etkili).<br>• <strong>II. Öncül:</strong> Örfi hukukun temelidir (Etkili).<br>• <strong>III. Öncül:</strong> Yasama ve idari fermanlar hukuku belirler (Etkili)."
+  },
+  {
+    "id": "tarih9-q7",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 7,
+    "questionText": "Türk-İslam devletlerinde devlete ait olan bazı toprak gelirlerinin memurlara ve komutanlara maaş ve hizmet karşılığı olarak verilmesi uygulaması aşağıdakilerden hangisiyle adlandırılır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İltizam sistemi"
+      },
+      {
+        "key": "B",
+        "text": "İkta sistemi"
+      },
+      {
+        "key": "C",
+        "text": "Muaccele usulü"
+      },
+      {
+        "key": "D",
+        "text": "Malikâne sistemi"
+      },
+      {
+        "key": "E",
+        "text": "Haraç usulü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (İkta sistemi)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Devlete ait miri toprak gelirlerinin devlet görevlilerine ve komutanlara maaş karşılığı verilmesi sistemine 'İkta' denir (Osmanlı'daki karşılığı Dirlik sistemidir).<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) İltizam:</strong> Vergi toplama hakkının açık artırmayla peşin satılmasıdır.<br>• <strong>B) İkta sistemi:</strong> Maaş karşılığı toprak geliri tahsisidir (Doğru).<br>• <strong>C) Muaccele:</strong> İltizam ihalesinde devlete ödenen peşin bedeldir.<br>• <strong>D) Malikâne:</strong> Mukataa toprakların ömür boyu kiralanmasıdır.<br>• <strong>E) Haraç:</strong> Gayrimüslimlerden alınan toprak ve ürün vergisidir."
+  },
+  {
+    "id": "tarih9-q8",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 8,
+    "questionText": "Gazneliler döneminde yaşamış matematik ve astronomi bilginidir. Güneş merkezli evren tezini savunmuş ve dünyanın yarıçapını gerçeğe çok yakın hesaplamıştır. Gazneli Mahmut tarafından 'Sarayımın en değerli hazinesidir' şeklinde övülen ve Avrupa'da 'Aliboron' olarak tanınan bilim insanı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Farabi"
+      },
+      {
+        "key": "B",
+        "text": "Biruni"
+      },
+      {
+        "key": "C",
+        "text": "İbnü'l-Heysem"
+      },
+      {
+        "key": "D",
+        "text": "Harezmi"
+      },
+      {
+        "key": "E",
+        "text": "İbn Rüşd"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Biruni)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Biruni, Gazneli Mahmut'un Hindistan seferlerine katılmış; coğrafya, matematik, fizik ve astronomi alanında çağının çok ötesinde eserler vermiştir. Gazneli Mahmut onun için 'Sarayımın en değerli hazinesi' demiştir. Batı dünyasında 'Aliboron' olarak bilinir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Farabi:</strong> Muallim-i Sani, felsefecidir.<br>• <strong>B) Biruni:</strong> Gazneliler döneminin evrensel dehasıdır (Doğru).<br>• <strong>C) İbnü'l-Heysem:</strong> Optik biliminin kurucusudur (Kitabü'l-Menazir).<br>• <strong>D) Harezmi:</strong> Cebirin kurucusu Abbasi dönemi bilginidir.<br>• <strong>E) İbn Rüşd:</strong> Endülüs'te yaşamış Aristo yorumcusu filozoftur."
+  },
+  {
+    "id": "tarih9-q9",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 9,
+    "questionText": "I. Zarara uğrayan tüccarların mallarını devlet garantisine alan devlet sigortacılığı sisteminin uygulanması\nII. Ticaret yolları üzerine güvenli hanlar, ribatlar ve kervansarayların inşa edilmesi\nIII. Ülkeye gelen yabancı ve yerli tüccarlara düşük gümrük vergisi tarifesi uygulanması\n\nYukarıdakilerden hangileri Türkiye Selçuklu Devleti'nde ticari hayatı geliştirmeye yönelik doğrudan faaliyetlerdendir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Türkiye Selçuklu Devleti tam anlamıyla bir ticaret devleti niteliğindedir. Dünyada ilk kez devlet eliyle kervan sigortacılığı başlatılmıştır (I). Tüccarların konaklaması için 3 gün ücretsiz hizmet veren kervansaraylar yapılmıştır (II). Ayrıca uluslararası ticareti Anadolu'ya çekmek için gümrük vergileri düşürülmüştür (III). Her üç öncül de ticareti geliştirmeye yöneliktir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>I. Öncül:</strong> İlk devlet sigortacılığı Selçuklulara aittir (Doğru).<br>• <strong>II. Öncül:</strong> Kervansaraylar ticari altyapıdır (Doğru).<br>• <strong>III. Öncül:</strong> Gümrük indirimi ticareti teşvik eder (Doğru)."
+  },
+  {
+    "id": "tarih9-q10",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 10,
+    "questionText": "Aşağıdakilerden hangisi Anadolu'daki Türk-İslam mimarisinde 'sivil mimari' örnekleri arasında gösterilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kale ve hisarlar"
+      },
+      {
+        "key": "B",
+        "text": "Saray ve köşkler"
+      },
+      {
+        "key": "C",
+        "text": "Hamamlar"
+      },
+      {
+        "key": "D",
+        "text": "Darüşşifalar"
+      },
+      {
+        "key": "E",
+        "text": "Çeşme ve köprüler"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kale ve hisarlar)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Türk-İslam mimarisi işlevine göre üçe ayrılır: Sivil mimari (köşk, saray, han, hamam, çeşme, darüşşifa, köprü), Dini mimari (cami, mescit, medrese, türbe, kümbet) ve Askeri mimari (kale, sur, burç, hisar, kışla, tersane). Kale ve hisarlar doğrudan savunma amaçlı 'askeri mimari' grubundadır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Kale ve hisarlar:</strong> Askeri mimaridir (Doğru cevap).<br>• <strong>B) Saray ve köşkler:</strong> Sivil / yönetim mimarisidir.<br>• <strong>C) Hamamlar:</strong> Sivil / sosyal mimaridir.<br>• <strong>D) Darüşşifalar:</strong> Sivil / sağlık mimarisidir.<br>• <strong>E) Çeşme ve köprüler:</strong> Sivil / bayındırlık mimarisidir."
+  },
+  {
+    "id": "tarih9-q11",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 11,
+    "questionText": "Yazdığı pek çok tasavvufi eserle ve 'Vahdet-i Vücud' anlayışıyla tanınan, Anadolu Selçuklu döneminde Konya ve Malatya civarında bulunmuş, İslam dünyasında 'Şeyh-i Ekber' (En Büyük Şeyh) unvanıyla anılan mutasavvıf düşünür aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İmam Gazali"
+      },
+      {
+        "key": "B",
+        "text": "Muhyiddin İbnü'l-Arabi"
+      },
+      {
+        "key": "C",
+        "text": "Hacı Bayram-ı Veli"
+      },
+      {
+        "key": "D",
+        "text": "Ahmet Yesevi"
+      },
+      {
+        "key": "E",
+        "text": "Sadreddin Konevi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Muhyiddin İbnü'l-Arabi)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Endülüs doğumlu olan ve Anadolu Selçuklu döneminde Anadolu'ya gelerek I. Keykavus gibi sultanların takdirini kazanan Muhyiddin İbnü'l-Arabi, 'Füsûsü'l-Hikem' ve 'el-Fütûhâtü'l-Mekkiyye' eserlerinin yazarıdır. İslam dünyasında 'Şeyh-i Ekber' unvanıyla anılır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) İmam Gazali:</strong> Hüccetü'l-İslam unvanlı Nizamiye medresesi başmüderrisidir.<br>• <strong>B) Muhyiddin İbnü'l-Arabi:</strong> Şeyh-i Ekber unvanlı büyük mutasavvıftır (Doğru).<br>• <strong>C) Hacı Bayram-ı Veli:</strong> Osmanlı kuruluş dönemi mutasavvıfıdır.<br>• <strong>D) Ahmet Yesevi:</strong> Pîr-i Türkistan unvanlı ilk Türk mutasavvıfıdır.<br>• <strong>E) Sadreddin Konevi:</strong> İbnü'l-Arabi'nin üvey oğlu ve talebesidir."
+  },
+  {
+    "id": "tarih9-q12",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 12,
+    "questionText": "Türkçenin Farsçadan daha üstün ve zengin bir edebiyat dili olduğunu kanıtlamak amacıyla kaleme alınan 'Muhakemetü'l-Lügateyn' (İki Dilin Yargılanması) adlı eser aşağıdakilerden hangisine aittir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaşgarlı Mahmud"
+      },
+      {
+        "key": "B",
+        "text": "Yusuf Has Hacib"
+      },
+      {
+        "key": "C",
+        "text": "Ali Şir Nevai"
+      },
+      {
+        "key": "D",
+        "text": "Ahmet Yesevi"
+      },
+      {
+        "key": "E",
+        "text": "Edip Ahmet Yükneki"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ali Şir Nevai)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Timur Devleti döneminde yaşayan büyük devlet adamı ve şair Ali Şir Nevai, Çağatay Türkçesinin en büyük temsilcisidir. 'Muhakemetü'l-Lügateyn' eserinde Türkçe ile Farsçayı karşılaştırmış ve Türkçenin Farsçadan üstün ve zengin bir dil olduğunu ortaya koymuştur.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Kaşgarlı Mahmud:</strong> Divan-ı Lügati't-Türk (Türkçe - Arapça karşılaştırması).<br>• <strong>B) Yusuf Has Hacib:</strong> Kutadgu Bilig.<br>• <strong>C) Ali Şir Nevai:</strong> Muhakemetü'l-Lügateyn (Türkçe - Farsça karşılaştırması) (Doğru).<br>• <strong>D) Ahmet Yesevi:</strong> Divan-ı Hikmet.<br>• <strong>E) Edip Ahmet Yükneki:</strong> Atabetü'l-Hakayık."
+  },
+  {
+    "id": "tarih9-q13",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 13,
+    "questionText": "I. Darüşşifa ve şifahanelerin sağlık giderleri\nII. Medrese ve kütüphanelerin eğitim-öğretim masrafları\nIII. Tersane, kışla ve ordu donanım masrafları\n\nYukarıdaki kurumlardan hangilerinin masrafları vakıf topraklarından elde edilen gelirle karşılanabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Vakıf topraklarının gelirleri yalnızca halkın sosyal, kültürel, sağlık ve eğitim ihtiyaçları için kullanılır. Darüşşifalar (I) ve medreseler (II) vakıflar eliyle finanse edilir. Ancak askeri yapılar, ordunun ve tersanelerin giderleri (III) doğrudan devlet hazinesinden karşılanır; vakıf gelirleri askeri harcamalara aktarılamaz.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>I. Öncül:</strong> Sağlık kurumları vakıf bütçesiyle karşılanır (Doğru).<br>• <strong>II. Öncül:</strong> Eğitim kurumları vakıf bütçesiyle karşılanır (Doğru).<br>• <strong>III. Öncül:</strong> Askeri masraflar vakıf gelirinden karşılanamaz; devlet hazinesince ödenir (Yanlış)."
+  },
+  {
+    "id": "tarih9-q14",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 14,
+    "questionText": "Türkiye Selçuklu Devleti'nde şehir merkezlerinde ve taşrada asayişi, iç güvenliği sağlayan zabıta ve polis/jandarma benzeri güvenlik teşkilatına ne ad verilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Berid teşkilatı"
+      },
+      {
+        "key": "B",
+        "text": "Şurta teşkilatı"
+      },
+      {
+        "key": "C",
+        "text": "Mezalim divanı"
+      },
+      {
+        "key": "D",
+        "text": "Gulamhane"
+      },
+      {
+        "key": "E",
+        "text": "İşraf teşkilatı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Şurta teşkilatı)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• İslam ve Türk-İslam devletlerinde iç güvenliği, asayişi sağlayan zabıta/polis benzeri teşkilata 'Şurta' adı verilir. Şurta teşkilatının başındaki görevliye 'Sahib-üş Şurta' denir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Berid:</strong> Posta ve istihbarat teşkilatıdır.<br>• <strong>B) Şurta:</strong> Asayiş ve polis/güvenlik teşkilatıdır (Doğru).<br>• <strong>C) Mezalim:</strong> Üst düzey siyasi davaların ve halkın şikayetlerinin görüşüldüğü divandır.<br>• <strong>D) Gulamhane:</strong> Saray muhafızları ve askeri personelin yetiştirildiği ocaktır.<br>• <strong>E) İşraf:</strong> Mali ve idari teftiş organıdır."
+  },
+  {
+    "id": "tarih9-q15",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 15,
+    "questionText": "İslam dünyasında ve Türk tarihinde yetiştirdiği ilim insanları, manevi atmosferi ve abidevi mimarisi nedeniyle 'Kubbetü'l-İslam' (İslam'ın Kubbeleri) unvanıyla anılan üç şehirden biri olan, Türkiye Selçukluları ve Ahlatşahlar dönemine ait muazzam Selçuklu Meydan Mezarlığı'nı barındıran yerleşim yeri aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Konya"
+      },
+      {
+        "key": "B",
+        "text": "Erzurum"
+      },
+      {
+        "key": "C",
+        "text": "Ahlat (Bitlis)"
+      },
+      {
+        "key": "D",
+        "text": "Sivas"
+      },
+      {
+        "key": "E",
+        "text": "Kayseri"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ahlat (Bitlis))<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• İslam tarihinde 'Kubbetü'l-İslam' unvanı verilen üç önemli şehir vardır: Belh, Buhara ve Bitlis'in <strong>Ahlat</strong> ilçesi. Ahlat, Anadolu'ya girişin kapısı ve Selçuklu Meydan Mezarlığı gibi anıt eserlerin bulunduğu çok önemli bir kültür merkezidir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Konya:</strong> Darü'l-Mülk (Selçuklu Başkenti).<br>• <strong>B) Erzurum:</strong> Saltukluların başkenti.<br>• <strong>C) Ahlat:</strong> Kubbetü'l-İslam unvanlı tarihi merkez (Doğru).<br>• <strong>D) Sivas:</strong> Danişmentli ve Selçuklu ticaret merkezi.<br>• <strong>E) Kayseri:</strong> Makarr-ı Ulema (Âlimler yurdu)."
+  },
+  {
+    "id": "tarih9-q16",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 16,
+    "questionText": "Aşağıdakilerden hangisi Anadolu Selçuklu ve Beylikler döneminde Tekke-Tasavvuf edebiyatı temsilcileri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mevlana Celaleddin Rumi"
+      },
+      {
+        "key": "B",
+        "text": "Yunus Emre"
+      },
+      {
+        "key": "C",
+        "text": "Hacı Bektaş-ı Veli"
+      },
+      {
+        "key": "D",
+        "text": "İbn Bibi"
+      },
+      {
+        "key": "E",
+        "text": "Aşık Paşa"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (İbn Bibi)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• İbn Bibi bir mutasavvıf veya tekke şairi değil; Anadolu Selçuklu Devleti'nin en ünlü resmi tarihçisidir (vakanüvisi). Eseri 'el-Evâmirü'l-Alâiyye' (Selçukname) Selçuklu siyasi tarihinin temel kaynağıdır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Mevlana:</strong> Mesnevi ve Divan-ı Kebir yazarı büyük mutasavvıftır.<br>• <strong>B) Yunus Emre:</strong> Risaletü'n-Nushiyye ve Türkçe Divan sahibi tasavvuf şairidir.<br>• <strong>C) Hacı Bektaş-ı Veli:</strong> Makalat eseri sahibi mutasavvıftır.<br>• <strong>D) İbn Bibi:</strong> Tarihçi ve divan kâtibidir (Doğru cevap).<br>• <strong>E) Aşık Paşa:</strong> Garipname yazarı tasavvuf şairidir."
+  },
+  {
+    "id": "tarih9-q17",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 17,
+    "questionText": "Anadolu Selçuklularında esnaf ve zanaatkârların oluşturduğu Ahi teşkilatı üyelerinin gündüzleri çalışıp mesleki eğitim aldıkları, akşamları ise toplanıp dini, ahlaki sohbetler ve ibadet yaptıkları mekânlara ne ad verilirdi?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bedesten"
+      },
+      {
+        "key": "B",
+        "text": "Zaviye"
+      },
+      {
+        "key": "C",
+        "text": "Arasta"
+      },
+      {
+        "key": "D",
+        "text": "Kapan"
+      },
+      {
+        "key": "E",
+        "text": "Bimarhane"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Zaviye)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Ahilerin toplanma, misafir ağırlama, sohbet etme ve manevi eğitim alma merkezlerine 'Zaviye' (Ahi tekkesi) denir. Zaviyeler hem esnaf dayanışmasının hem de toplumsal ahlakın merkezidir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Bedesten:</strong> Kıymetli eşya ve kumaşların satıldığı kapalı çarşıdır.<br>• <strong>B) Zaviye:</strong> Ahilerin toplanıp sohbet ve ibadet ettikleri mekândır (Doğru).<br>• <strong>C) Arasta:</strong> Aynı tür ürünü satan sıralı dükkânlar sokağıdır.<br>• <strong>D) Kapan:</strong> Tek tip ham maddenin toptan satıldığı ve dağıtıldığı yerdir.<br>• <strong>E) Bimarhane:</strong> Akıl ve sinir hastalarının tedavi edildiği hastanedir."
+  },
+  {
+    "id": "tarih9-q18",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 18,
+    "questionText": "Türkiye Selçuklu Devleti'nde evlenme, boşanma, miras, nafaka ve vakıf davalarına bakan şeri mahkemelerdeki kadıların başı olan, başkadı niteliğindeki yüksek adli görevli aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Emir-i Dâd"
+      },
+      {
+        "key": "B",
+        "text": "Kadı'l-Kudat"
+      },
+      {
+        "key": "C",
+        "text": "Müstevfi"
+      },
+      {
+        "key": "D",
+        "text": "Müşrif"
+      },
+      {
+        "key": "E",
+        "text": "Naip"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kadı'l-Kudat)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Selçuklularda adalet sistemi ikiye ayrılır: Şeri yargı ve Örfi yargı. Şeri davalara bakan kadıların en üst amirine 'Kadı'l-Kudat' denir. Örfi yargının başındaki kişiye ise 'Emir-i Dâd' adı verilir.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Emir-i Dâd:</strong> Örfi mahkemelerin başkanıdır.<br>• <strong>B) Kadı'l-Kudat:</strong> Şeri kadıların başıdır (Doğru).<br>• <strong>C) Müstevfi:</strong> Divan-ı İstifa başkanı (mali işler sorumlusu).<br>• <strong>D) Müşrif:</strong> Divan-ı İşraf başkanı (teftiş sorumlusu).<br>• <strong>E) Naip:</strong> Hükümdara vekâlet eden devlet vekilidir."
+  },
+  {
+    "id": "tarih9-q19",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 19,
+    "questionText": "Anadolu Selçuklu döneminde yaşamış ilk Divan edebiyatçısı kabul edilen, Türk edebiyatında din dışı konularda ilk gazel ve kasideleri yazan, Sultan I. Alaeddin Keykubad'a 'Selçuklu Şehnamesi' adlı eserini sunan şair kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hoca Dehhani"
+      },
+      {
+        "key": "B",
+        "text": "Şeyyad Hamza"
+      },
+      {
+        "key": "C",
+        "text": "Gülşehri"
+      },
+      {
+        "key": "D",
+        "text": "Ahmedi"
+      },
+      {
+        "key": "E",
+        "text": "Aşık Paşa"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Hoca Dehhani)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• 13. yüzyılda yaşayan Hoca Dehhani, Anadolu sahasında Divan edebiyatının kurucusu ve ilk temsilcisi kabul edilir. Din dışı temalarda ilk divan şiiri örneklerini vermiş ve Farsça kaleme aldığı 'Selçuklu Şehnamesi' adlı 20.000 beyitlik eseriyle tanınmıştır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Hoca Dehhani:</strong> İlk divan şairi ve Selçuklu Şehnamesi yazarıdır (Doğru).<br>• <strong>B) Şeyyad Hamza:</strong> Destan-ı Yusuf mesnevisinin yazarıdır.<br>• <strong>C) Gülşehri:</strong> Mantıku't-Tayr tercümesiyle tanınır.<br>• <strong>D) Ahmedi:</strong> İskendername ve Cemşid ü Hurşid şairidir.<br>• <strong>E) Aşık Paşa:</strong> Garipname yazarıdır."
+  },
+  {
+    "id": "tarih9-q20",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 20,
+    "questionText": "Aşağıdakilerden hangisi Türkiye Selçuklu Devleti'nde faaliyet gösteren Ahi teşkilatının görev ve faaliyetleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Esnaf arasında dayanışma, haksız rekabeti önleme ve iş ahlakını sağlama"
+      },
+      {
+        "key": "B",
+        "text": "Üretilen malların kalite kontrolünü yapıp narh (fiyat) tespitinde bulunma"
+      },
+      {
+        "key": "C",
+        "text": "Çırak, kalfa ve usta hiyerarşisiyle mesleki eğitim verme ve gedik (iş yeri ruhsatı) sağlama"
+      },
+      {
+        "key": "D",
+        "text": "Sefer zamanında devlet adına halktan zorunlu asker toplama"
+      },
+      {
+        "key": "E",
+        "text": "Üretici ile devlet ve tüketici arasındaki ilişkileri düzenleme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Sefer zamanında devlet adına halktan zorunlu asker toplama)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Ahilik bir esnaf ve zanaat örgütlenmesidir; narh belirler, kaliteyi denetler, çırak-usta eğitir, gedik (ruhsat) verir. Ahiler gerektiğinde şehri savunmak için gönüllü savaşmıştır ancak devlet adına halktan asker toplamak gibi bir askeri/idari yetkileri kesinlikle yoktur.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A, B, C, E seçenekleri:</strong> Ahi teşkilatının doğrudan ticari, ahlaki ve mesleki görevleridir.<br>• <strong>D seçeneği:</strong> Asker toplama yetkisi ordu ve devlete aittir; sivil esnaf teşkilatı olan Ahiliğin görevi değildir (Doğru şık)."
+  },
+  {
+    "id": "tarih9-q21",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 21,
+    "questionText": "Türkiye Selçuklu Devleti, ekonomik ve askerî faaliyetleri açısından aşağıdaki alanlardan hangisiyle kendisinden önceki Büyük Selçuklu Devleti'nden kesin olarak ayrılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kervan ticaretine önem verilmesi"
+      },
+      {
+        "key": "B",
+        "text": "İkta sisteminin uygulanması"
+      },
+      {
+        "key": "C",
+        "text": "Denizcilik ve denizaşırı ticaret faaliyetleri"
+      },
+      {
+        "key": "D",
+        "text": "Gulam ordusu yetiştirilmesi"
+      },
+      {
+        "key": "E",
+        "text": "Hazine gelirlerinin miri arazilere dayandırılması"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Denizcilik ve denizaşırı ticaret faaliyetleri)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Büyük Selçuklu Devleti bir kara devletiydi ve denizcilikle uğraşmamıştır. Türkiye Selçuklu Devleti ise Sinop, Alanya, Antalya gibi limanları fethederek tersaneler kurmuş, Kırım'ın Suğdak Limanı'na ilk deniz aşırı seferi düzenlemiş ve ilk donanma komutanı (Melikü's-Sevahil / Reisü'l-Bahr) atamıştır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A, B, D, E seçenekleri:</strong> Hem Büyük Selçuklu'da hem de Türkiye Selçuklu'da ortak uygulanan sistemlerdir.<br>• <strong>C seçeneği:</strong> Denizcilik ve donanma yalnızca Türkiye Selçuklularında mevcuttur (Ayırıcı fark)."
+  },
+  {
+    "id": "tarih9-q22",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 22,
+    "questionText": "Aşağıdakilerden hangisi Türk-İslam devletlerinde ticari amaçlı inşa edilen yapılardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kervansaray"
+      },
+      {
+        "key": "B",
+        "text": "Bedesten"
+      },
+      {
+        "key": "C",
+        "text": "Arasta"
+      },
+      {
+        "key": "D",
+        "text": "Kapan hanı"
+      },
+      {
+        "key": "E",
+        "text": "Hangâh"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Hangâh)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Hangâh (veya Hankah); dervişlerin, mutasavvıfların ve sufilerin zikir yaptıkları, toplandıkları ve ibadet ettikleri büyük tekkelere verilen isimdir. Ticari bir işlevi yoktur, tamamen dini ve tasavvufi bir yapıdır.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A) Kervansaray:</strong> Ticaret kervanlarının konakladığı güvenlikli yapıdır.<br>• <strong>B) Bedesten:</strong> Değerli kumaş ve mücevherlerin satıldığı kapalı çarşıdır.<br>• <strong>C) Arasta:</strong> Aynı esnaf kolunun sıralandığı dükkânlar çarşısıdır.<br>• <strong>D) Kapan:</strong> Tek cins toptan ticaretin yapıldığı merkezdir.<br>• <strong>E) Hangâh:</strong> Dini-tasavvufi tekke yapısıdır (Doğru şık)."
+  },
+  {
+    "id": "tarih9-q23",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 23,
+    "questionText": "Türkiye Selçuklu Devleti'nin egemenlik coğrafyası ve I. Haçlı Seferi sonrası başkentin İznik'ten Konya'ya taşınması göz önüne alındığında, aşağıdaki şehirlerin hangisinde Türkiye Selçuklu Devleti dönemine ait bir mimari esere rastlanmaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Konya"
+      },
+      {
+        "key": "B",
+        "text": "Kayseri"
+      },
+      {
+        "key": "C",
+        "text": "Sivas"
+      },
+      {
+        "key": "D",
+        "text": "Sinop"
+      },
+      {
+        "key": "E",
+        "text": "Bursa"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Bursa)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• Türkiye Selçukluları I. Haçlı Seferi'yle İznik'i kaybettikten sonra başkenti Konya'ya taşımış ve batı sınırları İç Batı Anadolu'da kalmıştır. Bursa ve İznik bu dönemde Bizans İmparatorluğu'nun elindeydi. Bursa ancak 1326'da Osmanlı Devleti (Orhan Bey) tarafından fethedilmiştir; dolayısıyla Bursa'da Türkiye Selçuklu eseri bulunmaz.<br><br>🔍 <strong>Seçeneklerin Değerlendirmesi:</strong><br>• <strong>A, B, C, D seçenekleri:</strong> Konya (Alaeddin Cami), Kayseri (Hunat Hatun), Sivas (Gök Medrese), Sinop (Alâeddin Cami) Selçuklu eserleriyle doludur.<br>• <strong>E seçeneği:</strong> Bursa Osmanlı fethine kadar Bizans hâkimiyetindedir (Doğru şık)."
+  },
+  {
+    "id": "tarih9-q24",
+    "testId": "tarih9",
+    "testTitle": "Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)",
+    "topicId": "tarih_tarama_9",
+    "topicName": "Türkiye Tarihi & Selçuklular",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 24,
+    "questionText": "Türkiye Selçuklu Devleti'nin askerî, ekonomik ve yönetim sistemi genişletilip biçim değiştirerek Osmanlılar tarafından da uygulanmıştır.\n\nBuna göre aşağıdaki Selçuklu - Osmanlı kurum eşleştirmelerinden hangisi yanlış olarak verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İkta - Dirlik"
+      },
+      {
+        "key": "B",
+        "text": "Ahilik - Lonca"
+      },
+      {
+        "key": "C",
+        "text": "Atabey - Lala"
+      },
+      {
+        "key": "D",
+        "text": "Gulam - Kapıkulu"
+      },
+      {
+        "key": "E",
+        "text": "Naip - Nişancı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Naip - Nişancı)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• <strong>Naip:</strong> Hükümdar sefere gittiğinde veya hükümdar küçük yaştayken yerine vekâlet eden Niyabet-i Saltanat divanının başındaki vekildir.<br>• <strong>Nişancı:</strong> Osmanlı'da ferman ve beratlara tuğra çeken, fethedilen toprakların kaydını (Tahrir) tutan görevlidir. Selçuklu'daki karşılığı Naip değil, <strong>Tuğraî</strong>'dir.<br><br>🔍 <strong>Diğer Seçeneklerin Doğruluğu:</strong><br>• <strong>A) İkta - Dirlik:</strong> Maaş ve asker besleme karşılığı toprak sistemidir.<br>• <strong>B) Ahilik - Lonca:</strong> Esnaf ve meslek teşkilatlanmasıdır.<br>• <strong>C) Atabey - Lala:</strong> Şehzade eğitmenidir.<br>• <strong>D) Gulam - Kapıkulu:</strong> Saray muhafızı ve merkez ordusudur."
   }
 ];

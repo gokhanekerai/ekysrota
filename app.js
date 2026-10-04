@@ -574,6 +574,14 @@ class EKYSApp {
             badge: '20 Soru'
           },
           {
+            id: 'tarih9',
+            name: 'Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)',
+            icon: '📜',
+            desc: '1. ve 2. Beylikler Dönemi, Türkiye Selçuklu Devleti, Divanlar, Mimari ve Sosyoekonomik Hayat.',
+            filterKey: 'tarih9',
+            badge: '24 Soru'
+          },
+          {
             id: 'ekys_2026_tarih',
             name: '2026 EKYS Tarih Çıkmış Soruları',
             icon: '📜',

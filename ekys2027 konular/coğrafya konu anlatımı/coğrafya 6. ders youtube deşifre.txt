@@ -1,0 +1,209 @@
+COĞRAFYA 6. DERS: NÜFUS, YERLEŞME VE GÖÇ (YOUTUBE DEŞİFRESİ)
+
+================================================================================
+⏱️ VİDEO ZAMAN ÇİZELGESİ (YOUTUBE CHAPTERS / ZAMAN DAMGALARI)
+================================================================================
+00:00 Giriş ve Dersin Kapsamı
+02:53 Demografi ve Demografik Yatırım Kavramı
+06:16 Aktif (Faal) Nüfus ve Bağımlı Nüfus
+08:36 Doğal Nüfus ve Gerçek Nüfus
+11:47 Ortanca Yaş ve Türkiye'nin Yaşlanma Süreci
+15:34 Nüfus Sayımları: De Facto ve De Jure (ADNKS)
+20:31 Kır ve Kent Nüfusu Değişimi (1985 Kırılma Noktası)
+23:54 Türkiye'de Cinsiyet Yapısı ve Yaşam Süresi
+27:24 Nüfus Artış Hızı Grafiği ve Yorumu
+33:23 Türkiye'de Nüfusun Dağılışı: Yoğun ve Seyrek Alanlar
+38:55 Tarımsal Nüfus Yoğunluğu (Konya vs. Trabzon)
+43:26 Nüfus Piramitleri ve Özellikleri
+1:06:58 Ekonomik Faaliyet Kolları (1'den 5'e Sektörler)
+1:11:08 Göç Türleri ve Göçü Etkileyen Faktörler
+1:13:56 Arazi Toplulaştırması ve Kamulaştırma
+1:18:30 Sürekli ve Mevsimlik Göçler (Mevsimlik Turizm Tuzağı)
+1:22:53 Yerleşme Dokuları: Dağınık ve Toplu Yerleşmeler
+1:26:53 Mesken Tipleri (Kerpiç, Taş, Ahşap, Hımış, Serender, Tonoz)
+1:36:22 Köy Altı Yerleşmeleri: Geçici ve Daimi Yerleşmeler
+1:50:55 Kapanış ve Gelecek Hafta Planı
+
+================================================================================
+📝 DERS DEŞİFRESİ VE SINAV HAP NOTLARI
+================================================================================
+
+[00:00] Giriş ve Dersin Kapsamı
+Herkese iyi akşamlar hocalarım. Geçtiğimiz hafta coğrafi konum, yer şekilleri, topraklar, afetler ve iklim konuları üzerine tamamen soru çözmüştük. Bir kısmını çözdük, kalan kısmı da duruyor. Şimdi Nüfus, Yerleşme ve Göç konusuna geçiyoruz. Bu konuda biraz mesafe kat ettikten sonra kaldığımız yerden soru çözümlerine devam edeceğiz.
+
+Nüfus, yerleşme ve göç ünitesi günlük hayatla çok iç içe, keyifli bir konudur. Buradan her yıl soru gelebiliyor; bazen nüfus politikalarından, bazen de yerleşmelerden (geçmiş yıllarda Divan, Dalyan, mevsimlik göç soruları geldi). 
+
+Bu konunun önemli bir püf noktası var: Sorular yoruma açık görünür ancak temel bilgiye sahip olmadan yapılan bireysel yorumlar bizi çok yanlış yerlere götürebilir. Bu yüzden yorumlarımızı kesin bilgi üzerine inşa etmeliyiz. Sorularda bireysel ya da politik düşünmeyeceğiz; ÖSYM’nin resmi ve akademik kabul ettiği mantıkla yaklaşacağız. Örneğin; ucuz iş gücü imkânı ya da vergi gelirlerinin artması sınavlarda devlet ekonomisi bağlamında olumlu kriterler olarak ele alınır.
+
+---
+
+[02:53] Demografi ve Demografik Yatırım Kavramı
+Demografi doğrudan nüfus bilimi demektir. ÖSYM bize tanımını değil, bununla bağlantılı kavramları sorar. Burada en kritik kavram demografik yatırımdır.
+
+Demografik yatırım; okul, hastane, yol, köprü gibi doğrudan insana yapılan altyapı yatırımlarıdır.
+- Gelişmiş Ülkeler (Örn. İsviçre): Altyapısını büyük oranda tamamladığı ve nüfus artışı dengeli olduğu için bu ülkelerde demografik yatırıma duyulan ihtiyaç azdır.
+- Az Gelişmiş Ülkeler (Örn. Bangladeş, Somali): Doğum oranları yüksek, sağlık ve eğitim altyapısı yetersiz olduğu için demografik yatırıma duyulan ihtiyaç çok fazladır.
+
+* ÖSYM Soru Tuzağı: "Türkiye'nin her geçen yıl demografik yatırıma duyduğu ihtiyaç artmaktadır." -> YANLIŞ.
+Türkiye gelişmekte olan bir ülkedir; her yıl yeni tüneller, yollar, şehir hastaneleri ve okullar yapıldığı için Türkiye’nin demografik yatırıma duyduğu ihtiyaç azalmaktadır. Sınavda bu şık gelirse doğrudan eleyeceğiz.
+
+---
+
+[06:16] Aktif (Faal) Nüfus ve Bağımlı Nüfus
+- Aktif (Faal) Nüfus (15–64 Yaş): Üretime katılan, çalışan veya çalışma potansiyeli olan nüfustur. Sanayileşme ve ekonomik kalkınma için gereklidir; sorularda olumlu bir gösterge olarak değerlendirilir.
+- Bağımlı Nüfus (0–14 Yaş ve 65+ Yaş): Doğrudan üretmeyen, tüketen nüfustur (çocuklar aileye, yaşlılar sosyal güvenlik sistemine bağımlıdır). Bir ülkede bağımlı nüfus oranının yüksek olması ekonomik kalkınma açısından istenmeyen bir durumdur (ayak bağıdır).
+
+---
+
+[08:36] Doğal Nüfus ve Gerçek Nüfus
+- Doğal Nüfus Artışı: Yalnızca doğumlar ile ölümler arasındaki farktır. Bir yerin gerçek nüfus büyüklüğü hakkında tek başına kesin bilgi vermez.
+- Gerçek Nüfus Artışı: Doğum ve ölümlerin yanına göçlerin de dahil edildiği artıştır.
+  * İzmit, Kocaeli, Bursa, İstanbul, Ankara: Sanayileşmiş ve göç alan yerlerdir. Bu şehirlerde gerçek nüfus artışı, doğal nüfus artışından fazladır.
+  * Hakkâri, Şırnak, Ağrı: Doğum oranları çok yüksektir ancak dışarıya göç verirler. Bu nedenle doğal nüfus artışı, gerçek nüfus artışından fazladır.
+
+---
+
+[11:47] Ortanca Yaş ve Türkiye'nin Yaşlanma Süreci
+Ortanca yaş; bir ülkedeki bütün bireylerin yaştan küçüğe doğru sıraya dizildiğinde tam ortada kalan kişinin yaşıdır (aritmetik ortalama değildir).
+- Doğum oranlarının çok düşük olduğu, yaşlı ülkelerde (örneğin Japonya) ortanca yaş çok yüksektir (40+).
+- Doğum oranlarının patlama yaptığı az gelişmiş ülkelerde (örneğin Somali) ortanca yaş çok düşüktür (12-15).
+- Türkiye'nin Durumu: Türkiye'de ortanca yaş hızla yükselerek 34-35 bandına çıkmıştır. Ülkemiz hızla yaşlanma sürecine girmiştir. Bu durum uzun vadede iş gücü ve dinamizm kaybı riskini beraberinde getirmektedir.
+
+---
+
+[15:34] Nüfus Sayımları: De Facto ve De Jure (ADNKS)
+Türkiye Cumhuriyeti ilk resmi nüfus sayımını 1927 yılında yapmış ve o dönem nüfusumuz yaklaşık 13,6 milyon çıkmıştır. Tarihte iki temel sayım yöntemi uygulanmıştır:
+
+1. De Facto (İlkel / Katı Sayım): İnsanların sayım gününde nerede bulunuyorlarsa orada (sokağa çıkma yasağı uygulanarak memurlar tarafından tek tek evlere girilerek) sayılmasıdır. Türkiye’de en son 2000 yılında uygulanmıştır.
+2. De Jure (Modern Sayım / Adrese Dayalı Nüfus Kayıt Sistemi - ADNKS): İkametgâh adresine göre dijital veriler (MERNİS, e-Devlet, doğum-ölüm tescilleri) üzerinden yapılan modern sayım sistemidir. Türkiye’de ilk kez 2007 yılında uygulanmaya başlanmıştır ve halen bu sistem geçerlidir.
+
+---
+
+[20:31] Kır ve Kent Nüfusu Değişimi (1985 Kırılma Noktası)
+Cumhuriyetin ilk yıllarında nüfusun büyük çoğunluğu kırsalda yaşarken sanayileşme ile birlikte yoğun göç dalgaları başlamıştır.
+- Kritik Yıl (1985): Türkiye'de kent nüfusu, kır nüfusunu ilk kez 1985 yılında geçmiştir.
+- 1985'ten sonra kentleşmenin hızlanması, kadının iş hayatına girmesi ve geniş aile yapısından çekirdek aileye geçilmesiyle birlikte doğum oranları hızla azalmıştır.
+- Günümüzde nüfusun yaklaşık %90'ından fazlası kentlerde yaşamaktadır. Bu nedenle Türkiye'de en fazla göç yönü: Kentten kente gerçekleşmektedir.
+
+---
+
+[23:54] Türkiye'de Cinsiyet Yapısı ve Yaşam Süresi
+- Güncel verilere göre Türkiye'de erkek sayısı kadın sayısından az bir farkla fazladır.
+- Ortalama Yaşam Süresi: Kadınların ortalama yaşam süresi (yaklaşık 76-78 yıl), erkeklerin yaşam süresinden (yaklaşık 73-75 yıl) daha uzundur.
+- Göç alan sanayi kentlerinde (ör. Kocaeli/İzmit) erkek oranı daha yüksekken, dışarıya göç veren kırsal/doğu illerinde kadın nüfus oranı nispeten daha yüksek çıkabilmektedir.
+
+---
+
+[27:24] Nüfus Artış Hızı Grafiği ve Yorumu
+Türkiye’nin nüfus artış hızı grafiğinde dalgalanmalar görülür. 
+- Temel Kural: Nüfus artış hızı grafiği hiçbir zaman sıfırın (0) altına düşmemiştir.
+- Çizgi sıfırın üstünde kaldığı sürece hız düşse bile Türkiye'nin toplam nüfus miktarı sürekli artmıştır. Düşen şey nüfus miktarı değil, nüfusun artış hızıdır (yavaş artmıştır).
+
+---
+
+[33:23] Türkiye'de Nüfusun Dağılışı: Yoğun ve Seyrek Alanlar
+- Yoğun Alanlar: İstanbul, Kocaeli, Bursa, İzmir, Ankara, Adana, Gaziantep, Samsun.
+  * İstisna: Doğu Karadeniz Kıyı Şeridi. Bölgede sanayi gelişmemiş olmasına rağmen yer şekilleri aşırı engebeli olduğu için nüfus dar kıyı şeridine toplanmış ve buralarda yoğunluk yüksek çıkmıştır.
+- Seyrek Nüfuslu Alanlar ve Temel Nedenleri:
+  * Yıldız Dağları: Engebeli yer şekilleri, ana ulaşım hatlarına sapa kalması.
+  * Çanakkale (Gelibolu / Biga): Ana yollara sapa kalması, sit ve tarihi milli park alanları (şehitlikler).
+  * Menteşe Yöresi (Muğla): Aşırı dağlık ve engebeli arazi yapısı.
+  * Teke ve Taşeli Platoları: Karstik (kireçtaşı) arazi yapısı, arazinin su tutmaması, engebe.
+  * Tuz Gölü Çevresi ve Konya Ovası: Şiddetli kuraklık ve su kaynaklarının azlığı (alanın çok geniş olması da yoğunluğu düşürür).
+  * Sinop: Limanın hinterlandının dar olması, Küre Dağları nedeniyle iç kesimlerle bağlantının zorluğu.
+  * Doğu Anadolu (Hakkâri, Erzurum-Kars): Temel sebep yükseltidir. Yükseltiye bağlı sert karasal iklim ve engebedir.
+
+---
+
+[38:55] Tarımsal Nüfus Yoğunluğu (Konya vs. Trabzon)
+Tarımsal Nüfus Yoğunluğu = Tarımla Uğraşan Nüfus (Çiftçi) / Tarımsal Arazi Miktarı
+- Trabzon / Doğu Karadeniz: Yer şekilleri dağlık, tarım arazisi çok az ve parçalıdır. Makine giremediği için çok sayıda insan gücüne ihtiyaç vardır. Bu yüzden tarımsal nüfus yoğunluğu fazladır.
+- Konya / İç Anadolu: Araziler düz ve geniştir. Makineleşme geliştiği için az insanla devasa araziler işlenebilir. Bu yüzden tarımsal nüfus yoğunluğu azdır.
+
+---
+
+[43:26] Nüfus Piramitleri ve Özellikleri
+Nüfus piramidinin tabanı genç/çocuk nüfusu, tavanı ise yaşlı nüfusu gösterir.
+- Türkiye'nin son yıllardaki piramidinde tabanın belirgin şekilde daraldığı görülür. Bu durum doğum oranlarının hızla azaldığını kanıtlar.
+- Tavan kısmının genişlemesi ise sağlık imkânlarının gelişmesi ve yaşlı nüfus oranının arttığını gösterir.
+- Piramitlerden: Cinsiyet yapısı, yaş grupları ve gelişmişlik düzeyi okunabilir. Ancak nüfus yoğunluğu hesaplanamaz (çünkü piramitte ülkenin yüz ölçümü bilgisi yer almaz).
+
+---
+
+[1:06:58] Ekonomik Faaliyet Kolları (1'den 5'e Sektörler)
+1. Birincil (Primer): Doğrudan doğadan ham madde çıkarma (Tarım, hayvancılık, ormancılık, maden çıkarma, balıkçılık). Türkiye çalışanlarının yaklaşık %10'u.
+2. İkincil (Sekonder): Ham maddenin işlenip mamul maddeye dönüştürülmesi (Sanayi, fabrikalar, imalat, inşaat, enerji santralleri). Türkiye çalışanlarının yaklaşık %20'si.
+3. Üçüncül (Tersiyer): Hizmet sektörü (Eğitim, sağlık, ulaşım, ticaret, turizm, bankacılık). Türkiye çalışanlarının yaklaşık %70'i bu gruptadır.
+4. Dördüncül (Kuvaterner): Bilişim, yazılım, AR-GE, internet teknolojileri, e-ticaret, reklamcılık.
+5. Beşincil (Kuinere): Üst düzey karar vericiler ve yöneticiler (CEO’lar, genel müdürler, icra kurulu başkanları).
+
+---
+
+[1:11:08] Göç Türleri ve Göçü Etkileyen Faktörler
+- Ekonomik Göçler: İş bulma, geçim sıkıntısı, miras yoluyla tarım topraklarının küçülmesi, tarımda makineleşme (özellikle düz arazilerde insan gücüne ihtiyacın bitmesi).
+- Sosyal Göçler: Eğitim, sağlık, tatil/turizm, beyin göçü.
+- Siyasi Göçler: Nüfus mübadelesi (ör. Lozan ile Türkiye-Yunanistan mübadelesi), savaş, ihtilal, terör (zorunlu göçlerdir).
+- Doğal Göçler: Deprem (ör. 6 Şubat depremi sonrası iç göçler), sel, heyelan, volkanizma, kuraklık (zorunlu göçlerdir).
+
+---
+
+[1:13:56] Arazi Toplulaştırması ve Kamulaştırma
+- Arazi Toplulaştırması: Miras yoluyla parçalanmış küçük tarım arazilerinin devlet eliyle birleştirilerek verimli hale getirilmesidir. Göçe sebep olmaz; tam aksine tarımsal verimi artırarak göçü engeller.
+- Kamulaştırma: Devletin kamu yararı gerekçesiyle (baraj, otoyol, havalimanı yapımı için) özel mülkiyete bedelini ödeyerek el koymasıdır. Birey açısından zorunlu göç niteliği taşır.
+
+---
+
+[1:18:30] Sürekli ve Mevsimlik Göçler (Mevsimlik Turizm Tuzağı)
+- Sürekli (Kalıcı) Göç: Sanayileşmiş merkezlere (İstanbul, Kocaeli, Bursa, İzmir, Ankara, Gaziantep vb.) temelli yerleşmek üzere yapılan göçlerdir.
+- Mevsimlik (Geçici) Göç: Belirli bir dönem çalışıp geri dönülen göçlerdir (Tarım: Rize-çay, Ordu-fındık, Çukurova-pamuk; Turizm: Antalya-yaz, Uludağ/Palandöken-kış).
+- Mevsimlik Göçte Turizm Tuzağı:
+  * Erzurum (kış turizmi), Alanya (yaz turizmi) mevsimlik göç alır.
+  * Kapadokya (Nevşehir) ve Pamukkale (Denizli) kültürel/doğal turizm alanlarıdır; yılın 12 ayı ziyaret edilebilir, belirli bir mevsimi yoktur. Bu yüzden mevsimlik turizm göçü kapsamında değerlendirilmezler.
+
+---
+
+[1:22:53] Yerleşme Dokuları: Dağınık ve Toplu Yerleşmeler
+- Dağınık Yerleşme:
+  * Şartları: Engebeli arazi + bol su kaynağı + parçalı küçük tarım arazileri.
+  * Görüldüğü Yer: Karadeniz Bölgesi.
+- Toplu Yerleşme:
+  * Şartları: Düz/sade yer şekilleri + su kaynaklarının yetersiz olması (insanların tek bir su kuyusu veya çeşme etrafında toplanması).
+  * Görüldüğü Yer: İç Anadolu ve Güneydoğu Anadolu Bölgeleri.
+
+---
+
+[1:26:53] Mesken Tipleri
+- Ahşap Meskenler: Bol orman örtüsü ve yağışın olduğu Karadeniz Bölgesi.
+- Kerpiç Meskenler (Killi Çamur + Saman): Kurak/yarı kurak iklim, taş ve ahşabın bulunmadığı İç Anadolu ve Güneydoğu Anadolu.
+- Taş Meskenler:
+  * Akdeniz Bölgesi: Kalker (kireçtaşı) yapı.
+  * Mardin: Geleneksel kalker taş mimarisi.
+  * Nevşehir / Kapadokya: Volkanik tüf kayaların oyulması.
+  * Doğu Anadolu (Erzurum, Kars, Bitlis): Bazalt/volkanik taşlar; alt katın büyükbaş ahırı, üst katın ev yapıldığı sağlam taş binalar.
+- Hımış Evler: Alt katı taş, üst katı ahşap iskelet arası kerpiç dolgulu geleneksel konutlar (Safranbolu, Beypazarı, Odunpazarı, Cumalıkızık).
+- Serender: Karadeniz’de neme, sele ve yaban hayvanlarına karşı 4–6 ahşap direk üzerine yerden yüksekte kurulan kiler/zahire ambarı.
+- Tonoz (Harran Evleri): Şanlıurfa Harran'da killi topraktan yapılan konik kubbeli geleneksel evler.
+
+---
+
+[1:36:22] Köy Altı Yerleşmeleri: Geçici ve Daimi Yerleşmeler
+Bir köy altı yerleşmesinin geçici mi yoksa daimi mi olacağını belirleyen temel faktör: Ekonomik faaliyet türü / geçim kaynağıdır (tarım genellikle daimi, hayvancılık genellikle geçicidir).
+
+A) Geçici Köy Altı Yerleşmeleri (Genelde Hayvancılık)
+1. Yayla: Türkiye'deki en yaygın köy altı yerleşmesidir. Temel koşul yükseltidir. Karadeniz, Akdeniz ve Doğu Anadolu'da yaygındır (günümüzde yayla turizmi de gelişmiştir).
+2. Ağıl: Etrafı çit veya taş duvarla çevrili, küçükbaş hayvanların gecelediği yerlerdir (İç ve Doğu Anadolu).
+3. Kom: Dağların yüksek kesimlerinde çoban ve ailesinin kaldığı, etrafı taşla çevrili büyükbaş hayvancılık alanlarıdır (Doğu Anadolu).
+4. Dam: Çanakkale, Balıkesir, Gökçeada/Bozcaada ve Ege'de küçük çaplı hayvancılık yapılan yerel işletmelerdir.
+5. Oba: Toroslar’da göçebe Yörüklerin kurduğu çadır yerleşmeleridir (Akdeniz).
+6. Dalyan: Güneybatı Ege kıyılarında (özellikle Muğla - Dalyan/Ortaca) kurulan deniz balıkçılığı / balık çiftlikleri yerleşmeleridir.
+
+B) Daimi (Kalıcı) Köy Altı Yerleşmeleri (Genelde Tarım)
+1. Mahalle: Köyden biraz uzakta yer alan 5–30 hanelik yerleşmelerdir (Karadeniz).
+2. Divan (Sınavın Favorisi): Birbirine mesafeli birkaç mahallenin tek bir muhtarlık çatısı altında birleşmesiyle oluşan yerleşmelerdir. Batı Karadeniz'de (Bolu, Sakarya, Düzce, Çankırı) çok yaygındır.
+3. Mezra: Tarım ve hayvancılık yapılan alanlardır. Eski kaynaklarda geçici geçerken günümüz MEB müfredatında kesinlikle daimi kabul edilmektedir. Doğu ve Güneydoğu Anadolu'da yaygındır.
+4. Çiftlik: Düz ve geniş araziler üzerine kurulu, tarım ve hayvancılığın bir arada yapıldığı yerleşmelerdir (Trakya/Marmara, Ege, İç Anadolu).
+
+---
+
+[1:50:55] Kapanış ve Gelecek Hafta Planı
+Bu dersimizle birlikte Nüfus, Yerleşme ve Göç konusunun konu anlatımını tamamlamış olduk. Önümüzdeki hafta bu üniteye dair çıkmış ve çıkabilecek tarzdaki soru çözümleriyle kaldığımız yerden devam edeceğiz. Kendinize çok iyi bakın, iyi akşamlar.
