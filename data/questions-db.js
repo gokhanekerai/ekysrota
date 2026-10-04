@@ -7984,19 +7984,19 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Trabzon - Rize"
+        "text": "Kırklareli - Tekirdağ"
       },
       {
         "key": "D",
-        "text": "Kırklareli - Tekirdağ"
+        "text": "Trabzon - Kars"
       },
       {
         "key": "E",
         "text": "Diyarbakır - Batman"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Trabzon - Rize)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Trabzon ve Rize Kaçkar Dağları'nın yamaçlarında yer alır. Türkiye'de yaylacılık kültürünün ve yayla sayısının en zengin olduğu iller Trabzon ve Rize'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tekirdağ, Edirne, Şanlıurfa ve Mardin düz plato ve ova alanlarıdır; yayla yerleşmesi görülmez.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaylacılık en çok Karadeniz ve Toroslar kuşağında yapılır; Marmara'nın Ergene bölümü ile Güneydoğu ovalarında yapılmaz."
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Trabzon - Kars)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Trabzon (Doğu Karadeniz Dağları) ve Kars (Erzurum-Kars Platosu ve Yalnızçam Dağları) yüksek rakımlı, gür alpin çayırların bulunduğu alanlardır. Türkiye'de yaz aylarında yaylacılık faaliyetlerinin ve yayla yerleşmelerinin en yoğun olduğu iller Trabzon ve Kars'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tekirdağ, Edirne, Şanlıurfa ve Mardin düz ova/plato niteliğindedir; yaylacılık yapılmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaylacılık en çok Karadeniz ve Toroslar kuşağında yapılır."
   },
   {
     "id": "cogr_h3-q46",
@@ -8007,33 +8007,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 46,
-    "questionText": "Köy altı yerleşmeleri yerleşme süresine göre 'sürekli (daimi)' ve 'geçici' yerleşmeler olarak ikiye ayrılır.\n\nBuna göre, aşağıdakilerden hangisinde verilen köy altı yerleşmelerinin tamamı geçici yerleşmeler grubundadır?",
+    "questionText": "I. Çiftlik\nII. Mezra\nIII. Oba\nIV. Kom\n\nYukarıda verilen köy altı yerleşmelerinden hangileri 'geçici' yerleşmelere örnektir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Çiftlik ve Mahalle"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "Divan ve Mezra"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "Mezra ve Çiftlik"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "Yayla, Oba ve Kom"
+        "text": "II ve IV"
       },
       {
         "key": "E",
-        "text": "Mahalle ve Divan"
+        "text": "III ve IV"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Yayla, Oba ve Kom)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Geçici Köy Altı Yerleşmeleri:</strong> Yayla, Kom, Ağıl, Oba, Dalyan, Güzle, Dam.<br>• <strong>Daimi (Sürekli) Köy Altı Yerleşmeleri:</strong> Çiftlik, Mahalle, Divan, Mezra.<br>• D seçeneğindeki Yayla, Oba ve Kom yalnızca mevsimlik kullanılan geçici yerleşmelerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çiftlik, Divan, Mezra ve Mahalle sürekli (daimi) yerleşmelerdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Daimi yerleşmeler tarım odaklıdır; geçici yerleşmeler ise genellikle hayvancılık odaklıdır."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (III ve IV - Oba ve Kom)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Geçici Köy Altı Yerleşmeleri:</strong> Oba (göçebe çadır hayvancılığı), Kom (Doğu Anadolu'da küçükbaş/büyükbaş yazlık barınağı), Yayla, Ağıl, Dalyan, Güzle'dir. Dolayısıyla III (Oba) ve IV (Kom) geçicidir.<br>• <strong>Daimi (Sürekli) Yerleşmeler:</strong> Çiftlik (I) ve Mezra (II) tarım ve hayvancılığın sürekli yapıldığı yıl boyu ikamet edilen daimi yerleşmelerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I (Çiftlik) ve II (Mezra) sürekli yerleşme olduğu için A, B, C ve D seçenekleri elenir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Geçici yerleşmeler hayvancılık ağırlıklıdır (Oba, Kom, Yayla, Ağıl); daimi yerleşmeler tarım ağırlıklıdır (Çiftlik, Mezra, Mahalle, Divan)."
   },
   {
     "id": "cogr_h3-q47",
