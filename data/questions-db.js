@@ -66884,5 +66884,375 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E</strong> (Naip - Nişancı)<br><br>📌 <strong>Pedagojik Çözüm Analizi:</strong><br>• <strong>Naip:</strong> Hükümdar sefere gittiğinde veya hükümdar küçük yaştayken yerine vekâlet eden Niyabet-i Saltanat divanının başındaki vekildir.<br>• <strong>Nişancı:</strong> Osmanlı'da ferman ve beratlara tuğra çeken, fethedilen toprakların kaydını (Tahrir) tutan görevlidir. Selçuklu'daki karşılığı Naip değil, <strong>Tuğraî</strong>'dir.<br><br>🔍 <strong>Diğer Seçeneklerin Doğruluğu:</strong><br>• <strong>A) İkta - Dirlik:</strong> Maaş ve asker besleme karşılığı toprak sistemidir.<br>• <strong>B) Ahilik - Lonca:</strong> Esnaf ve meslek teşkilatlanmasıdır.<br>• <strong>C) Atabey - Lala:</strong> Şehzade eğitmenidir.<br>• <strong>D) Gulam - Kapıkulu:</strong> Saray muhafızı ve merkez ordusudur."
+  },
+  {
+    "id": "egitim_olcme_d5-q1",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 1,
+    "questionText": "Ölçek türleri; sınıflama, sıralama, eşit aralıklı ve eşit oranlı ölçekler olarak hiyerarşik biçimde ele alınır.\n\nBuna göre, \"Ali, Ankara'nın Mamak ilçesinde 252. Sokak'ta ikamet etmektedir.\" ifadesinde geçen '252. Sokak' numarası hangi ölçek düzeyindedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sıralama Ölçeği"
+      },
+      {
+        "key": "B",
+        "text": "Eşit Aralıklı Ölçek"
+      },
+      {
+        "key": "C",
+        "text": "Sınıflama (Adlandırma) Ölçeği"
+      },
+      {
+        "key": "D",
+        "text": "Eşit Oranlı Ölçek"
+      },
+      {
+        "key": "E",
+        "text": "Derecelendirme Ölçeği"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sınıflama Ölçeği)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın derste vurguladığı gibi: <em>\"Burada ha Ali Papatya Sokak'ta oturuyor demişiz, ha 252. Sokak'ta oturuyor demişiz; hiçbir farkı yoktur. 252. sokağı 251. sokaktan daha üstün, daha önemli ya da başarıda daha öncelikli kılan bir durum söz konusu değildir. Sokağa sadece bir kod/isim verilmiştir, derecelendirme değildir.\"</em><br>• Bu nedenle il plaka kodları (06, 34), telefon alan kodları, futbolcu forma numaraları ve sokak numaraları <strong>sınıflama (adlandırma) ölçeğindedir</strong>.<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• Sayısal görünüm adayları 'sıralama' şıkkına yönlendirebilir; ancak bir büyüklük veya aşamalılık sırası olmadığı için sıralama olamaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sayılar miktar veya sıra bildirmeyip sadece etiketleme/kodlama amacıyla kullanılıyorsa sınıflama ölçeğidir."
+  },
+  {
+    "id": "egitim_olcme_d5-q2",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 2,
+    "questionText": "Bir lisede görev yapan branş öğretmeni, yaptığı sınavda sınıf başarı düzeyinin beklenenden düşük çıktığını görerek sınıftaki bütün öğrencilerin puanını \"sınav aritmetik ortalamasının %10'u kadar\" artırarak not çizelgesine işlemiştir.\n\nBuna göre, öğretmenin yaptığı bu işlemde ölçme sonuçlarına karışan hata türü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sistematik Hata"
+      },
+      {
+        "key": "B",
+        "text": "Sabit Hata"
+      },
+      {
+        "key": "C",
+        "text": "Tesadüfi Hata"
+      },
+      {
+        "key": "D",
+        "text": "Bağıl Hata"
+      },
+      {
+        "key": "E",
+        "text": "Standart Hata"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Sabit Hata)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın dersteki çözümü: <em>\"Sınavın aritmetik ortalaması diyelim ki 50 olsun. Ortalamanın %10'u 5 puandır. 20 alan öğrenciye de 5 puan, 50 alana da 5 puan, 70 alana da 5 puan eklenmiş olur. Ortalama tek ve sabit bir değer olduğu için herkese eşit miktarda hata eklenmiş olur, dolayısıyla SABİT HATADIR.\"</em><br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• Eğer öğretmen <em>'her öğrencinin kendi aldığı notun %10'u kadar'</em> artırsaydı (20 alana 2, 50 alana 5 puan eklenip miktar değişeceği için) sistematik hata olurdu. Ortalamanın %10'u dendiğinde ise eklenen puan miktarı herkes için aynıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sınav ortalamasının yüzdesi herkes için aynı puana karşılık geldiğinden sabit hatadır."
+  },
+  {
+    "id": "egitim_olcme_d5-q3",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 3,
+    "questionText": "Bir öğretmen, yaptığı 100 puanlık yazılı yoklama sonrasında sınıfta 20, 50 ve 70 alan öğrencilerin tamamının notunu sistemde \"70 puana tamamlamıştır\". (20 alan öğrenciye 50 puan, 50 alana 20 puan eklemiş; 70 alan öğrenciye ise hiç puan eklememiştir).\n\nÖğretmenin uyguladığı bu işlem hangi hata türüne örnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tesadüfi Hata"
+      },
+      {
+        "key": "B",
+        "text": "Sabit Hata"
+      },
+      {
+        "key": "C",
+        "text": "Sistematik Hata"
+      },
+      {
+        "key": "D",
+        "text": "Ölçme Hatası Oluşmamıştır"
+      },
+      {
+        "key": "E",
+        "text": "Standart Sapma Hatası"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sistematik Hata)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın dersteki açıklaması: <em>\"Bütün öğrencilerin puanını 70'e yanlışlıkla tamamlayamayız, bilinçli yapılmıştır. 20 alana 50 ekledim, 50 alana 20 ekledim, 70 alana hiç eklemedim. Bir kişiyi bile bilinçli olarak ayırıyorsak ve hata miktarı kişiden kişiye değişiyorsa bu SİSTEMATİK HATADIR.\"</em><br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• Hata miktarı öğrenciler arasında eşit olmadığı için sabit hata olamaz.<br>• Yanlışlıkla değil bilinçli kural uygulandığı için tesadüfi hata olamaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Puanları taban veya tavan bir baraja tamamlama işlemleri sistematik hatadır; doğrudan geçerliği düşürür."
+  },
+  {
+    "id": "egitim_olcme_d5-q4",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 4,
+    "questionText": "İki değişken arasındaki ilişkinin yönünü ve miktarını gösteren korelasyon katsayısı (r) dikkate alındığında;\n\nI. +1,1\nII. -1,0\nIII. +0,9\nIV. -0,8\n\nyukarıda verilen değerlerden hangisi iki değişken arasında 'en yüksek ilişki'yi gösterir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "I ve II"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (II: -1,0)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın dersteki uyarısı: <em>\"Korelasyon değeri -1.00 ile +1.00 aralığında değer alır. +1.1 bir korelasyon değeri olamaz (%110'luk ilişki olamaz). Eksi işareti sadece yönü belirtir, ilişki miktarını rakam değeri (mutlak değer) belirler. 0'dan en uzak olan ve tam ilişkiyi gösteren değer -1.0'dır!\"</em><br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• +1.1 teorik olarak imkansız bir katsayıdır.<br>• -1.0 negatif yönde mükemmel (tam) ilişkiyi temsil ettiği için listedeki en güçlü ilişkidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Korelasyonda büyüklük kıyaslanırken eksi işareti görmezden gelinir; mutlak değerce 1'e en yakın olan en güçlüdür."
+  },
+  {
+    "id": "egitim_olcme_d5-q5",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 5,
+    "questionText": "İki değişken arasındaki ilişkinin karşılıklı olması (korelasyon) ilkesi gereğince; dersler arası başarı ilişkilerini gösteren bir korelasyon tablosunda Fizik dersi ile Tarih dersinin kesişim hücresinde \"-0,80\" katsayısı yer almaktadır.\n\nBuna göre, aynı tablodaki Tarih dersi ile Fizik dersinin kesişim hücresine yazılması gereken korelasyon katsayısı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+0,80"
+      },
+      {
+        "key": "B",
+        "text": "-0,80"
+      },
+      {
+        "key": "C",
+        "text": "0,00"
+      },
+      {
+        "key": "D",
+        "text": "+0,20"
+      },
+      {
+        "key": "E",
+        "text": "-0,20"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (-0,80)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın dersteki tahta çizimi: <em>\"Korelasyonda karşılıklı ilişki (co-relation) söz konusudur. Fiziğin matematikle ilişkisi neyse, matematiğin de fizikle ilişkisi odur. Dolayısıyla Fizik ile Tarih kesişimi -0,80 ise, Tarih ile Fizik kesişim hücresine de aynen -0,80 yazılır.\"</em><br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• İlişkinin yönü (işareti) simetride değişmez; $+0,80$ olamaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Korelasyon matrisleri simetriktir; köşegenin altındaki ve üstündeki karşılıklı hücreler birbirine eşittir."
+  },
+  {
+    "id": "egitim_olcme_d5-q6",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 6,
+    "questionText": "Aşağıdaki değişkenlerin hangi ikisi arasında 'negatif yönde yüksek bir korelasyon' olması beklenir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ders çalışma süresi — Sınav başarısı"
+      },
+      {
+        "key": "B",
+        "text": "Eğitim düzeyi — Sosyalleşme düzeyi"
+      },
+      {
+        "key": "C",
+        "text": "Elde edilen gelir miktarı — Aylık gider miktarı"
+      },
+      {
+        "key": "D",
+        "text": "Bireyin dış görünüş güzelliği — Zeka düzeyi"
+      },
+      {
+        "key": "E",
+        "text": "Uykusuz kalma süresi — Gün içindeki dikkat ve odaklanma düzeyi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Uykusuzluk — Dikkat düzeyi)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın dersteki uyarısı: <em>\"Soru bize hangisi pozitif değildir diye sormuyor; hangisi negatif yöndedir diye soruyor. Uykusuzluk arttıkça dikkat azalır; biri artarken diğeri azaldığı için aralarında negatif yönde yüksek bir korelasyon vardır. Doğru cevap E'dir.\"</em><br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• A, B ve C seçeneklerinde değişkenler birlikte arttığı için pozitif korelasyondur.<br>• D seçeneğinde (Güzellik - Zeka) ilişki yoktur, nötr (sıfır) korelasyondur. Sınavda en çok yapılan hata nötr olan D'yi işaretlemektir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Zıt yönlü hareket (biri artarken diğeri azalan) = Negatif korelasyondur."
+  },
+  {
+    "id": "egitim_olcme_d5-q7",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 7,
+    "questionText": "İki değişken arasındaki ilişkinin grafiksel gösterimi olan saçılma diyagramları incelendiğinde; 'uykusuzluk süresi ile dikkat düzeyi' arasındaki ilişkinin grafiği aşağıdakilerden hangisi gibi olmalıdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sol alttan sağ üste doğru düz bir doğru şeklinde uzanan mükemmel pozitif grafik (+1.00)"
+      },
+      {
+        "key": "B",
+        "text": "Noktaların grafiğin tamamına dairesel ve rastgele dağıldığı sıfır korelasyon grafiği (0.00)"
+      },
+      {
+        "key": "C",
+        "text": "Sol üstten sağ alta doğru genel bir hat etrafında toplanarak inen negatif korelasyon grafiği (-r)"
+      },
+      {
+        "key": "D",
+        "text": "Önce yükselen sonra hızla alçalan çan eğrisi şeklindeki grafik"
+      },
+      {
+        "key": "E",
+        "text": "Yatay eksene tamamen paralel uzanan sabit korelasyon grafiği"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sol üstten sağ alta doğru eğimli negatif grafik)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın dersteki çizimi: <em>\"Uykusuzluk arttıkça dikkat azalacağı için aralarında negatif korelasyon vardır. Negatif korelasyon grafiklerinde eğim sol üstten sağ alta doğru iner. İnsan faktörü söz konusu olduğu için tam düz bir çizgi (-1.00) değil, çizgi etrafında hafif dağılmış yüksek negatif eğim gösterir.\"</em><br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• A seçeneği çalışma-başarı gibi pozitif korelasyona aittir.<br>• B seçeneği boy-zeka gibi nötr korelasyona aittir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yukarı yönlü eğilim = Pozitif; Aşağı yönlü eğilim = Negatif korelasyon saçılma grafiğidir."
+  },
+  {
+    "id": "egitim_olcme_d5-q8",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 8,
+    "questionText": "Bir lisedeki dersler arası başarı ilişkilerini gösteren korelasyon matrisi tablosu şu şekildedir:\n• Fizik — Matematik: +0,80\n• Fizik — Tarih: -0,80\n• Kimya — Matematik: +0,60\n• Kimya — Türkçe: +0,35\n• Kimya — Tarih: +0,15\n• Türkçe — Tarih: +0,75\n• Türkçe — Matematik: +0,40\n\nBu tabloya göre aşağıdaki yorumlardan hangisini yapmak DOĞRU OLMAZ?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fizik dersinin matematik ve tarih dersleri ile olan ilişki güçleri birbirine eşittir."
+      },
+      {
+        "key": "B",
+        "text": "Kimya dersinin en az ilişkiye sahip olduğu ders Türkçedir."
+      },
+      {
+        "key": "C",
+        "text": "Türkçe dersi ile tarih dersi arasında yüksek ve pozitif bir ilişki vardır."
+      },
+      {
+        "key": "D",
+        "text": "Türkçe başarısı arttıkça matematik başarısının da artması beklenir."
+      },
+      {
+        "key": "E",
+        "text": "Matematik başarısı, fizik ve kimya başarısını pozitif yönde etkilemektedir."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kimya dersinin en az ilişkiye sahip olduğu ders Türkçedir)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın dersteki çözümü: <em>\"Kimyanın ilişkili olduğu derslere bakıyoruz: Matematik +0.60, Türkçe +0.35, Tarih +0.15. En düşük rakam değeri 0.15 ile Tarih dersidir. Dolayısıyla kimyanın en az ilişkiye sahip olduğu ders Türkçe değil, Tarih dersidir. B seçeneği yanlıştır!\"</em><br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• A seçeneği doğrudur çünkü $+0.80$ ile $-0.80$ mutlak değerce eşit güçtedir.<br>• C, D ve E seçenekleri tablodaki katsayılarla tam uyumludur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'En az ilişkili' dendiğinde mutlak değerce sıfıra (0.00) en yakın olan katsayı bulunur."
+  },
+  {
+    "id": "egitim_olcme_d5-q9",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 9,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde yer alan ölçme araçlarından biri öğrencilerin bilgileri düzenleme, ilişkilendirme ve analiz etme becerilerini değerlendirmek için oldukça işlevseldir. Bu ölçme aracında öğrencilere bir dizi veri, ifade veya soru verilir; öğrencilerden bu bilgileri verilen kategorilere göre sınıflandırmaları istenir. Öğrencilere 3x3 veya 4x4'lük kutulardan oluşan cevap alanları verilir ve bir kutu birden fazla sorunun cevabı olabilir.\n\n2024 EKYS Maarif Modeli kapsamında da sorulan bu çağdaş ölçme aracı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yapılandırılmış Grid"
+      },
+      {
+        "key": "B",
+        "text": "Tanılayıcı Dallanmış Ağaç"
+      },
+      {
+        "key": "C",
+        "text": "Kelime İlişkilendirme Testi"
+      },
+      {
+        "key": "D",
+        "text": "Dereceli Puanlama Anahtarı (Rubrik)"
+      },
+      {
+        "key": "E",
+        "text": "Kontrol Listesi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yapılandırılmış Grid)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• Hocanın derste çözdüğü 2024 çıkmış sorusu: <em>\"3x3, 4x4 veya 5x5 kutucuklardan oluşan, öğrencilerin sınıflandırma ve ilişkilendirme becerilerini ölçen ve bir kutunun birden fazla soruya cevap olabildiği çağdaş araç kesinlikle Yapılandırılmış Grid'dir.\"</em><br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• Tanılayıcı dallanmış ağaç doğru-yanlış önermeleriyle gidiş yolunu ölçer.<br>• Kelime ilişkilendirme kavram çağrışımlarını ölçer.<br>• Rubrik dereceli puanlama anahtarıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Kutucuklar (Grid)', 'Sınıflandırma' ve 'Bir kutunun çoklu soruya cevap olması' = Yapılandırılmış Grid'dir."
+  },
+  {
+    "id": "egitim_olcme_d5-q10",
+    "testId": "egitim_olcme_ders_5",
+    "testTitle": "Eğitim Bilimleri 5. Ders: Ölçme ve Değerlendirme (Video İçi 10 Soru)",
+    "topicId": "egitim_olcme_ders_5",
+    "topicName": "Eğitim Bilimleri 5. Ders - Ölçme ve Değerlendirme",
+    "category": "Egitim",
+    "icon": "clipboard-check",
+    "questionNumber": 10,
+    "questionText": "Bir okul müdürü, lise öğrencilerinin ders çalışma, ders dışı kitap okuma ve ders dışı bilgisayar/cep telefonu kullanımına ayırdıkları zamanın Matematik ve Türkçe başarılarıyla ilişkisini incelemiş ve şu korelasyon tablosunu elde etmiştir:\n• Ders çalışmaya ayrılan zaman: Matematik (+0,65) / Türkçe (+0,40)\n• Ders dışı kitap okumaya ayrılan zaman: Matematik (+0,25) / Türkçe (+0,75)\n• Ders dışı telefon/bilgisayar kullanımı: Matematik (-0,67) / Türkçe (-0,78)\n\nTablodaki verilere göre;\nI. Ders çalışmaya ayrılan zaman arttıkça matematik dersindeki başarı da artma eğilimindedir.\nII. Türkçe dersindeki başarıyla en çok ilişkili değişken ders dışı kitap okumadır.\nIII. Ders amacı dışında telefon kullanımının matematik dersi ile ilişkisi, Türkçe dersi ile olan ilişkisinden daha güçlüdür.\n\nyargılarından hangileri DOĞRUDUR? (2020 EKYS Çıkmış Soru)",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• <strong>I. Öncül DOĞRUDUR:</strong> Ders çalışma ile matematik başarısı katsayısı +0.65'tir; pozitif olduğu için çalışma arttıkça matematik başarısı artar.<br>• <strong>II. Öncül YANLIŞTIR:</strong> Türkçe ile ilişkiler: Kitap okuma +0.75, telefon kullanımı -0.78'dir. Mutlak değerce 0.78 > 0.75 olduğundan Türkçe ile en çok ilişkili değişken telefon kullanımıdır (işarete bakılmaz).<br>• <strong>III. Öncül YANLIŞTIR:</strong> Telefon kullanımının matematikle ilişkisi 0.67, Türkçeyle 0.78'dir. Türkçeyle olan ilişki daha güçlüdür.<br>• Dolayısıyla doğru cevap <strong>Yalnız I</strong>'dir.<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• II. öncülde -0.78 negatif olduğu için küçük zannedilip +0.75'e düşülmesi en büyük çeldiricidir; oysa ilişki gücünü mutlak değer belirler.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 2020 EKYS'de bizzat sorulmuş bu soru, korelasyonda işaretin yönü, mutlak değerin ise gücü belirttiği kuralını test eder."
   }
 ];

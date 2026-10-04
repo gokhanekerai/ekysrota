@@ -1,0 +1,292 @@
+İyi akşamlar arkadaşlar. Bugün EKYS'de üçüncü alt başlığımız ölçme değerlendirmeye geçeceğiz. Daha önceki haftalarda program geliştirme ve öğretim yöntem ve tekniklerini tamamladık. Bugün ölçme değerlendirme ve önümüzdeki hafta, yani iki gün ölçme değerlendirmeye ayıracağız arkadaşlar.
+
+Ölçme değerlendirmeden şimdiye kadar EKYS'de her sene bir soru geldi. Sadece bir soru geldi sadece. Geçen sene bir de Maarif Modeli soruları arasında bir soru daha geldi, bizim işlediğimiz ölçme değerlendirme kapsamında. Dolayısıyla geçen seneye kadar bir soru geliyordu; geçen sene iki tane soru geldi. Ben yine bu sene de bir tane tablo ya da grafik sorusu bekliyorum. Yine Maarif Modelinden geçen sene olduğu gibi 24 tane soru sorulursa, hani kapsamda bir değişiklik olmazsa, yine bir soru daha gelmesi olası bir durumdur.
+
+Ölçme değerlendirme dört tane alt başlığı olan bir konu:
+
+1. Birinci kısmı temel kavramlarımız; yani ölçme, ölçek, değerlendirme ve ölçme türleri ile değerlendirme türleri olan kavramımız. Bir de hata ve hata türleri tabii ki temel kavramlarımız.
+2. İkinci olarak ölçme aracının taşıması gereken nitelikler başlığı altında güvenilirlik, geçerlilik ve kullanışlılık konularını ele alıyoruz.
+3. Üçüncü olarak da ölçme araç ve yöntemleri başlığı altında geleneksel ölçme araç ve yöntemleri ve çağdaş ölçme araç ve yöntemleri konularını görüyoruz.
+4. Daha sonra istatistik konusunu işliyoruz.
+
+Bir haftada bitmeyecek hocam konu. Çünkü şu şekilde düşünüyorum: Bu hafta bu sözel kısmı, istatistikten önceki kısmı bitiririz. Kısa bir istatistiğe belki giriş yapabilirsek güzel olur. Önümüzdeki hafta da ölçme değerlendirmeyi tamamlamış oluruz. Çünkü hepsini bir arada bitirdiğimizde gerçekten çok yükleniyoruz. Bir tarafta güvenilirlik, geçerlilik, kullanışlılık; öbür tarafta madde analizi, ranj, çeyrek sapma, standart sapma... Gerçekten yorucu oluyor. O yüzden ikiye böleceğiz arkadaşlar. İkiye böldüğümüzde dediğimiz gibi sözel kısmı, birazcık da istatistiğe bugün girebilirsek, o değişken konusunu ve korelasyon konusunu işlesek bizim için çok iyi yol katetmiş olacağız arkadaşlar. Çünkü slaytımız sayı olarak belki az ama üzerine anlatacağım, konuşacağım şeyler biraz daha fazla olabiliyor arkadaşlar. Şundan dolayı: Şimdiye kadar hep istatistik konuları ağırlıklı geliyordu. Ben hem istatistiği hem de ilk konuları anlatıyordum. Bu sene ölçme araç yöntemlerinden de bir soru geldi. O yüzden ilk konuları belki birazcık daha hızlı geçeceğiz ama istatistikte daha yavaş gideceğiz. Ondan dolayı bir hafta yetmez.
+
+---
+
+### 1. Temel Kavramlar
+
+İlk konumuz temel kavramlar olarak sınıflandırdığım ölçme, ölçek, değerlendirme ve hata kavramlarını ele alacağımız konu olacak arkadaşlar. Nedir bunlar? Ölçme ve değerlendirme kavramları zaten kavram olarak da her alanda karşımıza çıkıyor. Şudur arkadaşlar:
+
+**Ölçme:** Öğrenci niteliklerinin gözlenmesi ve gözlem sonuçlarının sayı ve sembollerle ifade edilmesidir. Bakın ne yapıyoruz? Nitelik var; bu niteliği gözlemliyoruz ve sayı, sembolle ifade ediyoruz. Bu kısım ölçmedir arkadaşlar.
+
+**Değerlendirme:** Ama bu sayı ve sembolle ifade ettiğimiz kısmı bir ölçütle (bakın ölçek başka bir şey, ölçütle) karşılaştırıp bir karar veriyorsak o zaman değerlendirme olur.
+
+Dolayısıyla arkadaşlar, bir şeyi olduğu gibi nesnel bir şekilde tanımlıyorsak, birtakım nitelikleri niceliksel olarak ifade ediyorsak buna ölçme diyoruz:
+
+* "Ali sınavdan 70 puan aldı." ölçmedir.
+* "Sınıfta şu anda 22 kişi var." ölçmedir.
+* "Ali uzun boylu bir öğrencidir." ölçmedir.
+
+Bunlar hep var olanı olduğu gibi ifade eden kavramlar olduğu için ölçmedir.
+
+Ama:
+
+* "Ali 170 cm boyunda olduğu için okul basketbol takımına seçilmeye hak kazanamadı." dersek; bakın ne yaptık, "hak kazandı" ya da "kazanamadı" diye bir karar verdiğimizde değerlendirme oluyor.
+* "Ali sınavdan alması gereken 70 puanın üstünde puan aldığı için başarılı kabul edildi." dersek yine değerlendirme olur.
+
+Dolayısıyla bir öğrencinin sadece bir özelliğini betimliyorsak ölçme; betimlediğimiz o değerin yeterliliği hakkında karar veriyorsak, yargıda bulunuyorsak, hüküm veriyorsak o zaman değerlendirme oluyor. Ölçmede nesnellik, değerlendirmede kriter ya da ölçüt durumu söz konusudur. Ölçüt zaten başarılı sayılmak için gerekli olan alt sınırdır.
+
+---
+
+### Ölçme Türleri
+
+Ölçme üçe ayırdığımız bir kavram: Doğrudan ölçme, dolaylı ölçme (göstergeyle ölçme) ve türetilmiş ölçme.
+
+Burada önemli olan, ölçme türlerinde neyi ölçtüğümüz değil, nasıl ölçtüğümüzdür. Neyi değil, nasıl ölçtüğümüz.
+
+**1. Doğrudan Ölçme:**
+Bir özelliğin kendi cinsinden bir araç kullanılarak ya da hiç araç kullanılmadan ölçülmesine doğrudan ölçme diyoruz. Dolayısıyla iki biçimde oluyor: Ya araç kullanılmaz ya da kendi cinsinden araç kullanılır.
+
+* Kişi sayısını araçsız ölçmek (bütün araçsız ölçümler doğrudan ölçmedir).
+* Uzunluğu, uzunluk ölçüsü birimi olan metre ile ölçmek.
+* Hacim ölçümü.
+* Ağırlığı ya da kütleyi kefeli teraziyle ölçmek (bir tarafa ağırlıkları koyduk, diğer tarafa tartacağımız nesneyi koyduk).
+* Süre ölçeceğimiz zaman "2 saatten beri seni bekliyorum" gibi durumlar.
+* Çocuğumuzun ateşi olup olmadığını elimizi alnına koyarak ya da öperek araçsız ölçüyorsak doğrudan ölçmedir.
+* Denize, havuza gireceğiz; suyun sıcaklığına elimizle dokunup "Su çok sıcakmış/soğukmuş" diyorsak araç kullanmadığımız için doğrudan ölçmedir. Araç kullanmadığımız tüm ölçümler doğrudan ölçmedir.
+
+Doğrudan ölçme eğitimde çok fazla kullanılmaz; çünkü öğrencinin başarısını doğrudan ölçebileceğimiz bir aracımız yoktur. Bu daha çok nesnel durumlarda karşımıza çıkar.
+
+**2. Dolaylı (Göstergeyle) Ölçme:**
+Doğrudan ölçmenin yapılamadığı durumlarda, ölçülen özellikle ilişkili olduğu düşünülen başka bir araç kullanılır.
+
+* Öğrencinin başarısını sınavla ölçmek.
+* İlgi, tutum, kişilik testleri.
+* Sıcaklığı termometre ile ölçmek. Bazen "Uzunluğu metreyle ölçtüğümüzde doğrudan oluyor da sıcaklığı termometreyle ölçtüğümüzde neden dolaylı oluyor?" deniyor. Termometre cıva ile çalışır; biz orada cıvanın genleşmesine göre ölçüm yapıyoruz, doğrudan sıcaklığı değil.
+* Ağırlığı yaylı terazi (dinamometre) ile ölçmek dolaylıdır. Çünkü kütleyi kendi cinsinden bir ağırlıkla değil, yayın genleşmesine bağlı olarak ölçüyoruz.
+* Çocuğun koltuğunun altına termometre koyuyorsak göstergeyle (dolaylı) ölçme olur.
+
+**3. Türetilmiş Ölçme:**
+Eldeki ölçümlerden yeni bir ölçme sonucuna ulaşmaktır. Bütün formüllerimiz türetilmiş ölçmeye örnektir.
+
+* $\text{Yol} = \text{Hız} \times \text{Zaman}$ (Hızı ve zamanı biliyorum, yolu türetiyorum).
+* $T = 10Z + 50$ ($Z$ puanını biliyorum, $T$ puanını türetiyorum).
+* Nüfus yoğunluğu formülleri vb.
+
+Özetle; kendi cinsinden bir araçla ya da araçsız yapıyorsak doğrudan, ilişkili başka bir araçla yapıyorsak dolaylı, formülle yapıyorsak türetilmiş ölçmedir.
+
+---
+
+### Ölçek Türleri
+
+Ölçek, ölçme ile ilgili bir kavramdır; değerlendirme ile ölçmenin arasında değildir. Yaptığımız ölçme işleminde sonuçları nasıl ele alacağımız ve değerlendireceğimiz konusunda yorum yapmamıza olanak sağlayan çizelge veya yönergelerdir.
+
+Örneğin elimizde iki çubuk olsun: A çubuğu 50 cm, B çubuğu 100 cm. "B çubuğu A'nın iki katıdır", "A çubuğu B'nin yarısıdır" diyebiliriz. İkisini uç uca ekleyip 150 cm bulabiliriz. Ancak sınavdan Ali 50, Bülent 100 aldıysa; "Bülent, Ali'nin iki katı bilgiye sahiptir" veya "Ali, Bülent'in yarısı kadar biliyor" diyemeyiz. İkisi bir araya gelince 150 puanlık bilgi etmez. İşte aynı sayılar olmasına rağmen birinde oranlama yapabilip diğerinde yapamamamızın sebebi kullandığımız ölçek türüdür.
+
+Dört ölçek türü vardır. Basitten karmaşığa, en az işlem yapılandan en çok işlem yapılana doğru:
+
+$$\text{Sınıflama} \rightarrow \text{Sıralama} \rightarrow \text{Eşit Aralıklı} \rightarrow \text{Eşit Oranlı}$$
+
+**1. Sınıflama (Adlandırma) Ölçeği:**
+Kategorilere ayırma, gruplamadır.
+
+* Öğrencileri kız-erkek, gözlüklü-gözlüksüz, evli-bekâr şeklinde ayırmak.
+* Değerler arasında bir önem sırası, üstünlük, başarı sırası ya da derece yoktur.
+* İllerin plaka kodları veya telefon alan kodları sınıflama ölçeğindedir. Bir öncelik-sonralık yoktur, sadece kodlama ve gruplamadır.
+* "Ali, Mamak'ta 252. Sokak'ta oturuyor." ifadesindeki 252 sokak numarası sınıflamadır. Ha Papatya Sokak demişiz ha 252. Sokak; bir derece ya da sıralama bildirmez, sokağın ismidir.
+
+**2. Sıralama Ölçeği:**
+Bir derecelendirme, öncelik-sonralık, büyüklük-küçüklük ilişkisi vardır.
+
+* "Ali sınavda birinci oldu."
+* "En" ifadeleri: "En kalabalık ilimiz İstanbul, ikinci Ankara'dır."
+* ÖSYM sınav sonuçlarına göre öğrencileri başarı sırasına dizmek.
+* Başlangıç noktası olan gerçek bir sıfır yoktur (0. olmak diye bir şey yoktur, 1'den başlar).
+
+**3. Eşit Aralıklı Ölçek:**
+Farka dayalı karşılaştırmaların yapıldığı ölçeklerdir. Rakamlar anlamlıdır ancak oranlama yapılamaz. Bağıl (izafi/tanımlanmış) sıfır vardır; sıfır, yokluk anlamına gelmez.
+
+* Ali sınavdan 60 aldı, Veli 30 aldı. 60 alan, 30 alanın iki katı bilgiye sahiptir diyemeyiz. Notlar eşit aralıklıdır (0 alan öğrenci hiçbir şey bilmiyor demek değildir).
+* Sıcaklık: 20°C, 10°C'nin iki katı sıcaklıkta demek değildir. 0°C sıcaklığın hiç olmadığı anlamına gelmez; eksi dereceler de vardır.
+* İlgi, tutum, kişilik testleri puanları.
+* Takvimler ve yerel saatler: "Saat 7'den beri bekliyorum" veya "2000 yılından beri buradayım" ifadeleri başlangıcı izafi olduğu için eşit aralıklıdır.
+
+**4. Eşit Oranlı Ölçek:**
+Oranlama yapılabilen, gerçek (mutlak) sıfır noktasına sahip ölçeklerdir. Sıfır, gerçek yokluk bildirir.
+
+* "Sınıfta 40 öğrenci var." ifadesindeki 40, 20 öğrencinin tam 2 katıdır. Sayma sayıları oranlıdır.
+* Uzunluk, ağırlık ölçümleri (0 metre = hiç uzunluk yok).
+* Zaman/süre açısından: Yerel saat aralıklıdır ama kronometre ve geçen süre oranlıdır. "2 saattir bekliyorum" (2 saat, 1 saatin 2 katıdır) veya "20 senedir buradayım" (20 sene, 40 senenin yarısıdır) süre bildirdiği için eşit oranlıdır.
+
+---
+
+### Değerlendirme Türleri
+
+Ölçme sonuçlarının bir ölçütle karşılaştırılarak bir yargıya, karara varılması sürecidir. "EKYS'den 85 puan aldınız" ölçmedir; "85 puanla okul müdürü olarak atanmaya hak kazandınız" değerlendirmedir.
+
+**A. Ölçütüne Göre Değerlendirme:**
+
+1. **Mutlak Değerlendirme:** Ölçütün sınavdan önce, gruba bağlı olmadan kesin olarak belirlendiği değerlendirmedir.
+* "Dersten geçmek için en az 70 almak gerekir."
+* "Soruların %50'sini yapan başarılı sayılır." (Kaç soru yapılacağı önceden bellidir).
+
+
+2. **Bağıl Değerlendirme:** Ölçütün grubun başarısına göre sınavdan sonra belirlendiği değerlendirmedir.
+* Aritmetik ortalama, çan eğrisi.
+* "Sınıfın %50'si başarılı sayılacak." (Kimin bu dilime gireceği sınıfın genel düzeyine bağlıdır).
+* Standart sapma, $Z$ ve $T$ puanlarına göre yapılan değerlendirmeler.
+
+
+
+**B. Amacına Göre Değerlendirme:**
+
+1. **Tanıma ve Yerleştirmeye Yönelik (Diagnostik):** Sürecin başında yapılır. Öğrenciyi tanıyıp uygun programa veya sınıfa yerleştirmek esastır. Muafiyet sınavları, seviye/kur belirleme sınavları, seçme sınavları.
+2. **Biçimlendirme ve Yetiştirmeye Yönelik (Formatif):** Süreç devam ederken yapılır. Not verme amacı güdülmez; öğrenme eksikliklerini ve güçlüklerini belirleyip gidermek esastır. Ünite tarama testleri, yaprak testler, izleme testleri.
+3. **Değer Biçmeye / Düzey Belirlemeye Yönelik (Summatif):** Sürecin sonunda yapılır. Not vermek, geçme-kalma ya da sertifika kararı almak amaçlanır. Dönem sonu finalleri, bitirme sınavları, kur bitirme sınavları.
+
+---
+
+### Hata ve Hata Türleri
+
+Hata, ölçme sonuçlarına istenmeyen etkenlerin karışması, sonuçların gerçeği yansıtmaması durumudur. Pozitif ya da negatif yönde olması fark etmez; amaç öğrencinin düzeyini hatasız ve tam olarak ölçmektir.
+
+* **Sabit Hata:** Ölçmeden ölçmeye miktarı değişmeyen, her ölçüm sonucuna aynı miktarda karışan hatadır.
+* Öğretmenin her öğrenciye fazladan 10 puan vermesi.
+* Bir soruyu okumayı unutup hiçbir öğrenciye o sorunun puanını vermemek.
+* Sınav ortalamasının %10'u kadar herkese puan eklemek (örneğin ortalama 50 ise herkese 5 puan eklenmiş olur, miktar sabit kalır).
+
+
+* **Sistematik Hata:** Hatanın miktarının ölçülen büyüklüğe, ölçmeciye ya da belirli bir kurala göre sistemli bir şekilde değiştiği veya belirli kişilere yanlı olarak uygulandığı hatalardır. Bilinçli ve yanlı durumlar genellikle buradadır.
+* Yazısı güzel olanlara ya da kız öğrencilere fazladan puan vermek.
+* Herkesin puanını aldığı notun %10'u kadar artırmak (20 alana 2, 50 alana 5, 70 alana 7 puan eklenir; miktar değişkendir).
+* Tüm öğrencilerin notunu 70'e tamamlamak (20 alana 50 eklenirken, 70 alana hiç eklenmez; kişiye göre hata değişir).
+* Terazinin her 10 kg'da 1 kg fazla tartması (10'da 1, 20'de 2, 30'da 3).
+* Kopya çekilmesi sistematik hatadır (geçerliliği düşürür).
+
+
+* **Tesadüfi (Rastgele) Hata:** Kaynağı, yönü ve miktarı kesin olarak bilinmeyen, ölçme sonuçlarına rastgele karışan hatalardır. Yanlışlıkla yapılan hatalardır.
+* Öğrencinin optik formda kaydırma yapması, soruyu görmemesi.
+* Şans başarısı ile sorunun tutturulması.
+* Öğrenciden (yorgunluk, hastalık, stres) veya ortamdan (sıcaklık, gürültü, yetersiz ışık) kaynaklanan tüm faktörler herkesi aynı etkilemediği için tesadüfi hatadır.
+* **Not:** Tesadüfi hatalar doğrudan güvenilirliği düşürür; sabit ve sistematik hatalar ise öncelikle geçerliliği etkiler.
+
+
+
+---
+
+### 2. Ölçme Aracında Bulunması Gereken Nitelikler
+
+İyi bir ölçme aracında üç temel nitelik aranır:
+
+* **Geçerlilik:** Aracın amacına uygun ölçüm yapması, başka özelliklerle karıştırmadan ölçmek isteneni ölçmesidir.
+* **Güvenilirlik:** Aracın tutarlı, kararlı ve duyarlı sonuçlar vermesidir.
+* **Kullanışlılık:** Aracın hazırlama, uygulama ve puanlama açısından ekonomik (emek, zaman, para) ve pratik olmasıdır.
+
+#### Geçerlilik ve Türleri
+
+* **Kapsam Geçerliliği:** Testteki soruların işlenen ders konularını ve kazanımlarını dengeli ve yeterli şekilde temsil etmesidir (En önemli geçerlilik türüdür; belirtke tablosu ile sağlanır).
+* **Ölçüte Dayalı Geçerlilik:**
+* **Uygunluk Geçerliliği:** Test sonuçlarının geçmişteki geçerli bir ölçütle (önceki başarılı sınav sonuçlarıyla) paralellik göstermesidir.
+* **Yordama Geçerliliği:** Test sonuçlarına bakılarak gelecekteki başarı veya durum hakkında doğru tahminlerde bulunulabilmesidir (Seçme sınavlarında aranır).
+
+
+* **Yapı Geçerliliği:** Testin ölçmek istediği kuramsal yapıyı, psikolojik özelliği, ilgi veya bilişsel yatkınlığı başka alanlarla karıştırmadan ölçebilmesidir.
+* **Görünüş Geçerliliği:** Testin dışarıdan bakıldığında neyi ölçüyor görünüyorsa gerçekten onu ölçer nitelikte görünmesidir (Örn: Matematik testinin şekil ve düzen olarak matematik sorusuna benzemesi; sayfa düzeni, yazı puntosunun uygunluğu).
+
+#### Güvenilirlik ve Güvenilirlik Belirleme Yöntemleri
+
+Güvenilirlik tutarlılık, kararlılık, objektiflik ve duyarlılık boyutlarını içerir:
+
+* **Test-Tekrar Test Yöntemi:** Aynı test aynı gruba belirli bir zaman aralığıyla iki kez uygulanır. İki uygulama arasındaki korelasyona bakılır; zamana karşı kararlılığı ölçer.
+* **Paralel (Eşdeğer) Formlar Yöntemi:** Aynı kazanımları ölçen eşdeğer iki farklı test aynı gruba uygulanır; tutarlılığı ölçer.
+* **Testi Yarılama (Eşdeğer Yarılar) Yöntemi:** Test tek oturumda uygulanır; tek-çift ya da ilk yarı-ikinci yarı olarak ikiye bölünerek yarılar arasındaki korelasyona bakılır. İç tutarlılığı verir.
+* **KR-20 ve KR-21 / Cronbach Alfa:** Testin bir defa uygulanmasıyla maddelerin birbiriyle uyumuna bakılarak hesaplanan iç tutarlılık katsayılarıdır.
+* **Puanlayıcı Güvenilirliği:** Aynı kağıtların birden fazla öğretmen/puanlayıcı tarafından okunması sonucu verilen puanlar arasındaki tutarlılıktır; objektifliği gösterir.
+
+#### Kullanışlılık
+
+* **Hazırlaması en zor (en az kullanışlı):** Çoktan seçmeli testler (seçenek ve çeldirici yazımı zordur).
+* **Uygulaması en zor:** Sözlü yoklamalar (her öğrenciyle tek tek ilgilenilir).
+* **Puanlaması en zor:** Yazılı yoklamalar (uzun cevapların okunması zaman alır).
+* Soru sayısını artırmak geçerlilik ve güvenilirliği artırırken; zaman, maliyet ve emek gerektirdiği için kullanışlılığı düşürür.
+
+---
+
+### 3. Ölçme Araç ve Yöntemleri
+
+#### Geleneksel Ölçme Araçları
+
+* **Çoktan Seçmeli Testler:** Güvenilirlik ve geçerliliği en yüksek testlerdir. Puanlaması tamamen objektiftir. Analiz düzeyine kadar ölçebilir. Şans başarısı seçenek sayısına bağlıdır.
+* **Yazılı Yoklamalar (Açık Uçlu):** Üst düzey zihinsel davranışları (sentez, değerlendirme) ölçmede en etkili araçtır. Puanlaması subjektiftir, puanlama anahtarı kullanılmalıdır. Şans başarısı düşüktür.
+* **Kısa Cevaplı Testler:** Şans başarısı en düşük testtir (cevap net olduğu için atıp tutturma zordur). Çok sayıda soru sorulabilir. En büyük sınırlılığı öğrenciyi ezbere yöneltmesidir; bilgi düzeyini ölçer. Yarı objektiftir.
+* **Doğru-Yanlış Testleri:** Şans başarısı en yüksek olan testtir (%50). Hazırlaması, uygulaması ve puanlaması kolaydır. Bilgi düzeyindedir.
+* **Sözlü Yoklamalar:** Nitelikleri, geçerlilik ve güvenilirliği en düşük; subjektifliği en yüksek sınav türüdür. Bireysel uygulanır.
+
+#### Çağdaş (Alternatif / Tamamlayıcı) Değerlendirme Yaklaşımları
+
+Not vermekten ziyade öğrencinin gelişim sürecini, bilginin günlük hayatta kullanımını ve yaratıcılığı değerlendirmeyi hedefler:
+
+* **Portfolyo (Öğrenci Ürün Dosyası):** Süreç değerlendirmesidir (tümel değerlendirme). Öğrencinin dönem/yıl boyunca gelişimini ortaya koyan tüm çalışmaların bir araya getirildiği bütüncül dosyadır.
+* **Performans Değerlendirme:** Öğrencinin sahip olduğu bilgi ve becerileri gerçek ya da gerçeğe yakın durumlarda nasıl sergilediğinin, eyleme döktüğünün gözlenerek değerlendirilmesidir.
+* **Otantik Değerlendirme:** Değerlendirmenin doğrudan gerçek yaşam koşullarında yapılmasıdır (Örn: Sürücü adayının gerçek trafikte direksiyon sınavına girmesi).
+* **Öz Değerlendirme ve Akran Değerlendirme:** Öğrencinin kendi öğrenmesini ya da grup arkadaşlarının çalışmaya katkılarını değerlendirmesidir.
+* **Kontrol Listesi:** Davranışın varlığını ya da yokluğunu (Var/Yok, Evet/Hayır, +/-) gösteren iki kategorili araçlardır; derece bildirmez.
+* **Dereceli Puanlama Anahtarı (Rubrik):** Ölçütlerin düzeyler halinde derecelendirildiği kılavuzlardır.
+* *Analitik Rubrik:* Sürecin ve her bir alt basamağın ayrı ayrı detaylı incelendiği puanlama anahtarıdır.
+* *Holistik Rubrik:* Ortaya konan ürünün bütüncül olarak genel düzeyini belirleyen anahtardır.
+
+
+* **Tanılayıcı Dallanmış Ağaç (TDA):** Doğru-yanlış mantığıyla birbirine bağlı önermeler üzerinden öğrencinin bilişsel yol haritasını, kavram yanılgılarını ve çıkış noktasını tespit eden sistemdir.
+* **Yapılandırılmış Grid:** $3 \times 3$, $4 \times 4$ gibi kutucuklardan oluşan; kutucuklardaki kavramların birden fazla soruya yanıt olabildiği ya da bir sorunun birden fazla kutucuğu kapsayabildiği, sınıflandırma becerisini ölçen çağdaş araçtır.
+* **Kelime İlişkilendirme Testi (KİT):** Verilen anahtar bir kavramın öğrencinin zihninde belirli bir süre içinde çağrıştırdığı kelimelerin yazılması esasına dayanır; kavram ağlarını ve anlamsal bağlantıları ölçer.
+
+---
+
+### 4. İstatistik, Değişkenler ve Korelasyon
+
+İstatistik, ham verilerin tablolar ve grafiklerle daha anlamlı, anlaşılır ve yorumlanabilir hale getirilmesidir.
+
+#### Deneysel Yöntem ve Değişkenler
+
+* **Bağımsız Değişken:** Araştırmada etkisi incelenen, sebep olan, etkileyen değişkendir.
+* **Bağımlı Değişken:** Bağımsız değişkene bağlı olarak değişen, etkilenen, sonuç olan değişkendir.
+* Bir çalışmada "A'nın B'ye etkisi" inceleniyorsa; **A bağımsız değişken**, **B bağımlı değişkendir**.
+* Örnek: "Gürültünün okuduğunu anlamaya etkisi" $\rightarrow$ Gürültü: Bağımsız değişken, Okuduğunu anlama: Bağımlı değişken.
+* Kontrol Grubu: Standart koşulların sağlandığı, bağımsız değişkenin uygulanmadığı (gürültüsüz) grup.
+* Deney Grubu: Üzerinde çalışmanın yürütüldüğü, bağımsız değişkenin verildiği (gürültülü) grup.
+
+
+
+#### Korelasyon ($r$)
+
+İki değişken arasındaki ilişkinin yönünü ve miktarını gösteren istatistiksel katsayıdır.
+
+* Korelasyon katsayısı **$-1$ ile $+1$** arasında değer alır.
+* **İlişkinin Yönü:** Başındaki işaretle belirlenir ($+$ ya da $-$).
+* *Pozitif Korelasyon ($r > 0$):* Değişkenler aynı yönde hareket eder. Biri artarken diğeri de artar (veya biri azalırken diğeri de azalır). Örn: Ders çalışma süresi ile başarı.
+* *Negatif Korelasyon ($r < 0$):* Değişkenler ters yönde hareket eder. Biri artarken diğeri azalır. Örn: Uykusuzluk ile dikkat düzeyi.
+* *Nötr (Sıfır) Korelasyon ($r = 0$):* Değişkenler arasında anlamlı bir ilişki yoktur. Örn: Boy uzunluğu ile zekâ düzeyi.
+
+
+* **İlişkinin Miktarı (Gücü):** Katsayının $0$'a olan uzaklığı (mutlak değeri) ile ölçülür. Sayısal değer $0$'dan uzaklaşıp $+1$ ya da $-1$'e yaklaştıkça ilişki kuvvetlenir.
+* İşarete bakılmaksızın mutlak değerce büyük olan sayı daha güçlü bir ilişkiyi gösterir:
+
+$$-0{,}80 = +0{,}80 \quad \text{(İlişki güçleri eşittir, yönleri farklıdır)}$$
+
+
+$$-0{,}75 > +0{,}70 \quad \text{(Negatif yöndeki } 0{,}75 \text{ ilişkisi, pozitif yöndeki } 0{,}70 \text{'ten daha güçlüdür)}$$
+
+
+$$-0{,}52 > +0{,}51$$
+
+
+
+
+* $+1{,}1$ gibi bir korelasyon değeri olamaz; çünkü ilişki en fazla tam ilişki ($\%100$, yani $\pm 1$) olabilir.
+* Standart puanlar olan $Z$ puanı ile $T$ puanı arasındaki korelasyon formüle dayalı tam doğrusal artış gösterdiği için $+1$'dir.
+
+#### Tablo ve Grafik Yorumlama
+
+* İki değişkenin kesiştiği tablolarda matris simetriktir; A dersinin B dersi ile korelasyonu ne ise B dersinin A dersi ile korelasyonu da odur.
+* Grafiklerde noktalar sol alttan sağ üste doğru bir doğru etrafında toplanıyorsa pozitif, sol üstten sağ alta doğru iniyorsa negatif korelasyondur. Noktalar bir çizgi üzerinde kusursuz dizilirse $\pm 1$; noktalar daire şeklinde dağılıyorsa $0$'dır.
+* Sorularda "ilişki en güçlüdür" denildiğinde işarete bakılmaksızın mutlak değerce $1$'e en yakın sayı aranmalıdır. "Artarken artar" diyorsa pozitif korelasyona, "biri artarken diğeri azalır" diyorsa negatif korelasyona bakılmalıdır.

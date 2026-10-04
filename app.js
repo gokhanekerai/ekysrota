@@ -1455,6 +1455,14 @@ class EKYSApp {
             badge: '16 Soru • Konu Testi'
           },
           {
+            id: 'egitim_olcme_ders_5_eb',
+            name: '📊 Ölçme ve Değerlendirme 5. Ders Soruları',
+            icon: '📊',
+            desc: 'Ölçme Türleri, Ölçekler, Hata Türleri, Sınav Araçları ve Korelasyon Tablosu (10 Soru • 5. Ders Özel Tarama).',
+            filterKey: 'egitim_olcme_ders_5',
+            badge: '10 Soru • 5. Ders'
+          },
+          {
             id: 'egitim_video_test_1_eb',
             name: '🎯 Eğitim Bilimleri Video Tarama Testi 1',
             icon: '🎯',
@@ -2710,6 +2718,9 @@ class EKYSApp {
       }
       if (filterKey === 'egitim_oyt_konu_testi' || filterKey === 'egitim_oyt_1' || filterKey === 'oyt_test_1') {
         return (q.testId === 'egitim_oyt_konu_testi' || tId === 'egitim_oyt' || tName.includes('öğretim yöntem ve teknikleri'));
+      }
+      if (filterKey === 'egitim_olcme_ders_5' || filterKey === 'olcme_ders_5') {
+        return (q.testId === 'egitim_olcme_ders_5' || tId === 'egitim_olcme_ders_5');
       }
       if (filterKey === 'cogr1') return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
       if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));

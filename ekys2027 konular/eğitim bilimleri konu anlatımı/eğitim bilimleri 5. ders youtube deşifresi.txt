@@ -1,0 +1,336 @@
+# Eğitim Kurumlarına Yönetici Seçme Sınavı (EKYS) — Ölçme ve Değerlendirme (5. Ders Notları)
+
+Ölçme ve Değerlendirme, Millî Eğitim Bakanlığı EKYS sınavında Eğitim Bilimleri alanı altında her yıl istikrarlı olarak en az 1 sorunun, 2024 yılından itibaren ise Türkiye Yüzyılı Maarif Modeli kapsamında çağdaş ölçme yaklaşımlarının da dahil edilmesiyle 2 sorunun geldiği son derece belirleyici bir alandır. Bu ders kapsamında; ölçme ve değerlendirmenin temel kavramları, ölçek türleri, değerlendirme çeşitleri, hata türleri, ölçme araçlarının psikometrik nitelikleri (geçerlik, güvenirlik, kullanışlılık), geleneksel ve çağdaş ölçme araçları ile istatistiğin temeli olan değişkenler ve korelasyon konuları tüm ayrıntıları, ders içi soru diyalogları ve çıkmış sınav analizleriyle ele alınmıştır.
+
+---
+
+## 1. Temel Kavramlar: Ölçme, Ölçüt ve Değerlendirme
+
+### Ölçme
+* **Tanım:** Bir niteliğin, özelliğin veya değişkenin gözlenerek gözlem sonuçlarının sayı, sembol veya sıfatlarla ifade edilmesidir.
+* **Temel Özelliği:** Ölçme tamamen **betimsel ve nesneldir**. Olanı olduğu gibi ortaya koyar; durum hakkında herhangi bir iyi-kötü, başarılı-başarısız yargısı veya kararı içermez.
+* **Örnekler:**
+  * "Ali sınavdan 70 puan aldı." (Ölçme)
+  * "Sınıfta şu anda 22 öğrenci bulunmaktadır." (Ölçme)
+  * "Ali uzun boylu bir öğrencidir." (Ölçme - sembol/sıfatla betimleme)
+  * "Bugün hava sıcaklığı 24°C olarak ölçüldü." (Ölçme)
+
+---
+
+### Değerlendirme
+* **Tanım:** Ölçme sonuçlarının bir **ölçütle (kriterle)** karşılaştırılarak ölçülen nitelik veya birey hakkında bir **yargıya, karara veya hükme** varılması sürecidir.
+* **Formül:** $\text{Ölçme Sonucu} + \text{Ölçüt (Kriter)} \rightarrow \text{Karar / Yargı (Değerlendirme)}$
+* **Temel Özelliği:** Değerlendirmede mutlaka bir kabul/red, başarılı/başarısız, geçti/kaldı, atandı/atanamadı veya hak kazandı/kazanamadı hükmü yer alır.
+* **Örnekler:**
+  * "Ali 170 cm boyunda olduğu için okul basketbol takımına seçilmeye hak kazanamadı." (Boyunun 170 cm olması ölçme; basketbol takımına seçilememesi bir karar olduğu için değerlendirmedir).
+  * "Ali sınavdan geçmek için gerekli olan 70 puanın üzerinde puan aldığı için dersten başarılı kabul edildi." (Değerlendirme).
+  * "EKYS'den 85 puan alan Ahmet Bey, okul müdürü olarak atanmaya hak kazandı." (85 puan alması ölçme; müdür olarak atanması değerlendirmedir).
+
+---
+
+### Ölçme Türleri: Doğrudan, Dolaylı ve Türetilmiş Ölçme
+
+> **Altın Kural:** Ölçme türlerinde **neyi** ölçtüğümüz değil, o özelliği **NASIL** ölçtüğümüz belirleyicidir!
+
+```
+                    ÖLÇME TÜRLERİ
+                          │
+         ┌────────────────┴────────────────┐
+         ▼                                 ▼
+   DOĞRUDAN ÖLÇME                    DOLAYLI ÖLÇME
+  (Temel / Araçsız veya            (Göstergeyle Ölçme)
+  kendi cinsinden araçla)                  │
+                                           ▼
+                                    TÜRETİLMİŞ ÖLÇME
+                                 (Formüle / Bağıntıya dayalı)
+```
+
+#### 1. Doğrudan (Temel) Ölçme
+* Ölçülmek istenen özelliğin araya başka bir değişken sokulmadan, **kendi cinsinden bir araçla** veya **hiçbir araç kullanılmadan (araçsız gözlemle)** ölçülmesidir.
+* **Araçsız Ölçümler:** Araç kullanılmadan yapılan tüm ölçümler doğrudan ölçmedir.
+  * Sınıftaki öğrencileri tek tek saymak.
+  * Çocuğun ateşinin olup olmadığını anlamak için elini alnına koymak veya alnından öpmek.
+  * Denize ya da havuza girerken suyun sıcaklığını elimizle/ayağımızla kontrol edip "su sıcak" veya "su soğuk" demek.
+* **Kendi Cinsinden Araçla Yapılan Ölçümler:**
+  * Bir masanın veya kumaşın uzunluğunu uzunluk birimi olan **metre / mezura** ile ölçmek.
+  * Sıvı hacmini dereceli silindirle ölçmek.
+  * Bir nesnenin kütlesini **eşit kollu (kefeli) terazi** ile ölçmek (Bir kefeye kütle birimi olan standart ağırlıklar konur, diğer kefeye tartılacak nesne konur; doğrudan kütleler karşılaştırılır).
+  * "Seni 2 saattir durakta bekliyorum." ifadesi (zaman aralığının doğrudan tespiti).
+* *Eğitimdeki Yeri:* Eğitimde öğrencilerin bilgi, yetenek ve başarısını doğrudan ölçecek somut bir metre/terazi bulunmadığı için eğitimsel ölçmeler doğrudan ölçme olamaz.
+
+#### 2. Dolaylı (Göstergeyle) Ölçme
+* Doğrudan gözlenemeyen veya kendi cinsinden bir araçla ölçülemeyen özelliklerin, o özellikle ilişkili olduğu kabul edilen başka bir **gösterge veya araç vasıtasıyla** ölçülmesidir.
+* **Örnekler:**
+  * **Öğrenci Başarısının Sınavla Ölçülmesi:** Öğrencinin zihnindeki matematik bilgisi doğrudan görülemez; sorulara verdiği cevaplar (göstergeler) üzerinden dolaylı olarak ölçülür.
+  * **İlgi, Tutum, Yetenek, Kaygı ve Kişilik Testleri:** Psikolojik yapıların tamamı dolaylı ölçülür.
+  * **Sıcaklığın Termometre ile Ölçülmesi:** Termometre sıcaklığı doğrudan ölçmez; haznedeki civanın veya alkolün ısıyla **genleşme miktarını** gösterge kabul ederek ölçüm yapar.
+  * **Ağırlığın Yaylı Terazi (Dinamometre) ile Ölçülmesi:** Yaylı terazi kütleyi doğrudan karşılaştırmaz; yer çekiminin uyguladığı kuvvete bağlı olarak **yayın esnemesi ve uzaması** üzerinden dolaylı ölçüm yapar.
+  * Çocuğun ateşini koltuk altına dijital veya civalı termometre koyarak ölçmek.
+
+#### 3. Türetilmiş Ölçme
+* Eldeki iki ya da daha fazla ölçme sonucundan matematiksel bir formül, denklem veya bağıntı yardımıyla yeni bir ölçme sonucuna ulaşılmasıdır.
+* **Örnekler:**
+  * $Yol = Hız \times Zaman$
+  * $Nüfus\ Yoğunluğu = \frac{Toplam\ Nüfus}{Yüzölçümü}$
+  * $Vücut\ Kitle\ İndeksi\ (VKİ) = \frac{Kilo}{(Boy)^2}$
+  * Standart Puan Dönüşümü: $T = 10Z + 50$
+  * Z Puanı Hesabı: $Z = \frac{X - \bar{X}}{S}$
+
+---
+
+## 2. Ölçek Türleri
+
+Ölçek; ölçme sonuçlarının hangi matematiksel işlemlerle değerlendirilebileceğini ve nasıl yorumlanacağını belirleyen ölçme düzeyleridir.  
+Hiyerarşik düzen (en basitten en gelişmişe, işlem kapasitesi en az olandan en fazla olana):
+$$\text{Sınıflama} \longrightarrow \text{Sıralama} \longrightarrow \text{Eşit Aralıklı} \longrightarrow \text{Eşit Oranlı}$$
+
+| Ölçek Türü | Başlangıç Noktası (0) | Temel İşlem / Özellik | Örnekler |
+| :--- | :--- | :--- | :--- |
+| **Sınıflama (Adlandırma)** | Sıfır yoktur / anlamsızdır | Gruplama, kategorilere ayırma. Büyüklük, önem veya öncelik-sonralık yoktur. | Kız-erkek, evli-bekar, il plaka kodları (06, 34), telefon alan kodları, futbolcu forma numaraları, 252. Sokak. |
+| **Sıralama (Derecelendirme)** | Gerçek sıfır yoktur (1'den başlar) | Büyüklük-küçüklük, öncelik-sonralık, aşamalılık ("en", "daha", "birinci"). | Sınavda 1. olmak, boy sırasına dizilmek, Türkiye'nin en kalabalık 1. ili İstanbul, 2. ili Ankara. |
+| **Eşit Aralıklı** | **Bağıl / İzafi Sıfır** (Tanımlanmış, yapay sıfırdır; gerçek yokluk belirtmez). | Farka dayalı karşılaştırma yapılır. Toplama/çıkarma yapılabilir ancak **kat hesabı ve oranlama yapılamaz!** | Termometre (20°C, 10°C'nin iki katı sıcak değildir), Sınav notları (60 alan 30 alanın iki katı bilmez), Takvimler (2024 yılı), Yerel saatler ("Saat 07.00"). |
+| **Eşit Oranlı** | **Mutlak / Gerçek Sıfır** (Doğal sıfırdır; özelliğin gerçekten hiç olmadığını gösterir). | **Kat hesabı ve oranlama yapılabilir.** Çarpma ve bölme işlemleri dahil tüm matematiksel işlemler geçerlidir. | Sayma sayıları ("Sınıfta 40 öğrenci var" ifadesi 20 öğrencinin tam 2 katıdır), metreyle boy/uzunluk, kütle (kg), süre/kronometre ("2 saat bekledim", "20 senedir buradayım"). |
+
+### Kritik Ders İçi Soru ve Ayrım Analizleri:
+1. **"Ali Mamak'ta 252. Sokakta oturuyor" ifadesi sıralama mıdır sınıflama mıdır?**  
+   *Cevap:* **Sınıflamadır.** Çünkü 252. Sokak, 251. Sokaktan daha üstün, daha önemli ya da derecelendirme bakımından daha öncelikli değildir. Sokağa isim verilmiştir (Ha Papatya Sokak denmiş ha 252. Sokak denmiş).
+2. **Saat ve Takvim Ayrımı (Aralıklı vs. Oranlı):**
+   * "Saat 07.00'den beri bekliyorum" $\rightarrow$ **Eşit Aralıklı** (Türkiye yerel saat sistemindeki tanımlı bir başlangıca göredir).
+   * "2 saattir durakta bekliyorum" $\rightarrow$ **Eşit Oranlı** (Süre/kronometre belirtir; 2 saat 1 saatin tam iki katıdır).
+   * "2000 yılından beri Bursa'dayım" $\rightarrow$ **Eşit Aralıklı** (Milat takviminin yapay sıfırına göredir).
+   * "20 senedir Bursa'dayım" $\rightarrow$ **Eşit Oranlı** (20 yıl 40 yılın yarısıdır, kat hesabı yapılabilir).
+
+---
+
+## 3. Değerlendirme Türleri
+
+### A. Ölçütüne Göre Değerlendirme
+1. **Mutlak Değerlendirme:**  
+   * Ölçüt sınavdan önce kesin olarak belirlenmiştir.
+   * Ölçüt gruptan, sınıf ortalamasından veya diğer adayların başarısından bağımsızdır.
+   * *Örnekler:* "Sınavdan en az 70 alan geçer.", "Soruların %50'sini doğru cevaplayan başarılı sayılır.", "Sürücü belgesi sınavında 70 barajını aşanlar sertifika alır."
+2. **Bağıl Değerlendirme:**  
+   * Ölçüt önceden net olarak bilinemez; sınav uygulandıktan sonra grubun/sınıfın genel başarı düzeyine, aritmetik ortalamaya veya çan eğrisine göre belirlenir.
+   * Bireyin başarısı diğer adayların performansına bağlıdır.
+   * *Örnekler:* "Sınıf ortalamasının üzerinde puan alanlar geçer.", "Sınava giren en başarılı ilk %50 öğrenci seçilecektir.", "En yüksek puanı alan 10 kişi yönetici olarak atanacaktır."
+
+---
+
+### B. Amacına Göre Değerlendirme
+1. **Tanıma ve Yerleştirme (Diagnostik Değerlendirme):**  
+   * **Zamanı:** Eğitim-öğretim sürecinin başında uygulanır.
+   * **Amacı:** Öğrencinin hazırbulunuşluk düzeyini, ilgi ve yeteneklerini belirleyip uygun sınıfa, programa veya kura yerleştirmektir. Not verme amacı yoktur.
+   * **Örnekler:** Muafiyet sınavları, seviye belirleme ve kur sınavları, seçme sınavları.
+2. **Biçimlendirme ve Yetiştirme (Formatif Değerlendirme):**  
+   * **Zamanı:** Öğretim süreci devam ederken, ünite/konu aralarında uygulanır.
+   * **Amacı:** Kesinlikle not vermek veya geçip kalmayı belirlemek değildir; öğrencinin öğrenme eksikliklerini ve kavram yanılgılarını zamanında saptayıp gidermektir.
+   * **Örnekler:** Ünite tarama testleri, yaprak testler, izleme testleri, quizler, deneme sınavları.
+3. **Değer Biçme / Sonuç Görme (Summatif Değerlendirme):**  
+   * **Zamanı:** Öğretim sürecinin, dönemin veya programın sonunda uygulanır.
+   * **Amacı:** Öğrencinin hedeflere ulaşıp ulaşmadığına karar vermek, başarı notu takdir etmek, sertifika veya diploma vermek, geçme/kalma kararı almaktır.
+   * **Örnekler:** Dönem sonu final sınavları, vize-final ortalamaları, kur bitirme sınavları, mezuniyet sınavları.
+
+---
+
+## 4. Hata ve Hata Türleri
+
+Ölçme hatası; ölçülmek istenen gerçek değer ile ölçüm sonucunda elde edilen gözlenen değer arasındaki farktır. Hata olumlu (puanı haksız yükselten) veya olumsuz (puanı haksız düşüren) yönde olabilir.
+
+```
+                         HATA TÜRLERİ
+                              │
+         ┌────────────────────┼────────────────────┐
+         ▼                    ▼                    ▼
+   TESADÜFİ HATA        SİSTEMATİK HATA        SABİT HATA
+ (Rastgele / Bilinmeyen) (Bilinçli / Kurala bağlı) (Her ölçümde eşit)
+  Güvenirliği düşürür   Geçerliliği düşürür   Geçerliliği düşürür
+```
+
+### 1. Tesadüfi (Rastgele) Hata
+* Kaynağı, yönü (artı mı eksi mi) ve miktarı kesin olarak bilinmeyen, ölçmeye şans eseri/sehven karışan hatadır.
+* **Doğrudan GÜVENİRLİĞİ düşürür.**
+* *İpucu:* **Öğrenciden veya ortamdan kaynaklanan tüm hatalar tesadüfidir.**  
+  (Öğrencinin sınav anında hasta, yorgun, uykusuz olması, dalgınlıkla optik formda kaydırma yapması, arka sayfadaki soruları fark etmemesi; sınav salonunun aşırı soğuk, sıcak, loş veya gürültülü olması). Çünkü ortam koşulları veya yorgunluk her öğrenciyi aynı miktarda etkilemez.
+
+### 2. Sistematik Hata
+* Ölçmecinin yanlılığıyla, bilinçli tercihiyle veya belirli bir kural/oran dahilinde ölçmeye karışan hatadır.
+* Ölçülen büyüklüğün miktarına göre hata miktarı değişir veya belirli bir öğrenci grubu kayrılır.
+* **Doğrudan GEÇERLİLİĞİ düşürür.**
+* *Örnekler:* Öğretmenin sadece kız öğrencilere fazladan 10 puan vermesi; yazısı güzel olanlara ek puan vermesi; bir manav terazisinin her 10 kg'da 1 kg, 20 kg'da 2 kg, 30 kg'da 3 kg fazla tartması; sınavda kopya çekilmesi (kopya çeken öğrenci haksız avantaj elde eder).
+* *Bütün öğrencilerin puanını aldıkları notun %10'u kadar artırmak:*  
+  20 alan öğrenciye $2$ puan, 50 alan öğrenciye $5$ puan, 70 alan öğrenciye $7$ puan eklenir. Hata miktarı öğrenciden öğrenciye değiştiği ve başarılı olanı daha çok kayırdığı için **sistematik hatadır**.
+
+### 3. Sabit Hata
+* İster bilerek ister sehven olsun; yapılan her ölçmeye veya her öğrenciye **aynı yönde ve eşit miktarda** yansıyan hatadır.
+* **Doğrudan GEÇERLİLİĞİ düşürür** (Test amacından sapar).
+* *Örnekler:* Öğretmenin sınıftaki herkese istisnasız 10 puan eklemesi; sınav kağıdındaki 10 puanlık bir soruyu okumayı unutup tüm sınıfta o soruyu puanlamaması; cetvelin başından 2 cm kırık olması sebebiyle her ölçümü 2 cm eksik yapması.
+
+---
+
+### ⚠️ Eğitmenin Derste Çözdüğü 2 Kritik Hata Tuzağı (EKYS Soru Adayları)
+
+#### Tuzak 1: "Bir öğretmen bütün öğrencilerin puanını sınav ortalamasının %10'u kadar artırmıştır."
+* **Cevap:** **SABİT HATA**.
+* **Gerekçe:** Sınavın aritmetik ortalaması tek bir sabit sayıdır (Örneğin sınıf ortalaması 50 ise %10'u 5 puandır). Öğretmen 20 alan öğrenciye de 5 puan, 50 alana da 5 puan, 70 alana da 5 puan eklemiştir. Hata miktarı herkese eşit yansıdığı için sabittir!
+
+#### Tuzak 2: "Bir öğretmen bütün öğrencilerin puanını 70'e tamamlamıştır."
+* **Cevap:** **SİSTEMATİK HATA**.
+* **Gerekçe:** 20 alan öğrenciye 50 puan, 50 alan öğrenciye 20 puan eklenmiş; 70 alan öğrenciye ise hiç puan eklenmemiştir. Bilinçli bir müdahale ve kişiye göre değişen oransal bir ayrım olduğu için sistematiktir.
+
+---
+
+## 5. Ölçme Aracının Taşıması Gereken Nitelikler
+
+```
+               ÖLÇME ARACININ NİTELİKLERİ
+                           │
+       ┌───────────────────┼───────────────────┐
+       ▼                   ▼                   ▼
+   GEÇERLİLİK          GÜVENİLİRLİK        KULLANIŞLILIK
+(Amaca uygunluk)   (Tutarlılık/Kararlılık) (Ekonomiklik/Pratiklik)
+```
+
+### 1. Geçerlilik
+Ölçme aracının ölçmeyi amaçladığı özelliği başka hiçbir özellikle karıştırmadan, tam ve doğru olarak ölçebilme derecesidir.
+* **Kapsam Geçerliği (En Önemlisi):** Sınav sorularının dersin tüm hedef ve konularını dengeli temsil etmesidir. Belirtke tablosu hazırlanarak güvenceye alınır.
+* **Yordama Geçerliği:** Test puanlarına bakılarak bireylerin gelecekteki başarı veya performanslarının doğru tahmin edilmesidir. Merkezi seçme sınavlarında (YKS, KPSS, EKYS) mutlaka aranır.
+* **Uygunluk (Hâlihazır) Geçerliği:** Test sonuçlarının adayın geçmişteki geçerli başarı ölçütleriyle paralellik göstermesidir.
+* **Yapı Geçerliği:** Testin ölçülmek istenen kuramsal, psikolojik yapıyı (zeka, eleştirel düşünme, kaygı) gerçekten ölçebilme derecesidir.
+* **Görünüş Geçerliği:** Testin kapağı, yazı stili, sayfa düzeni ve görsel yapısıyla dışarıdan bakıldığında ölçtüğü alanı yansıtmasıdır.
+* *Geçerliliği Düşürenler:* Ders dışından soru sormak, gereksiz ipucu vermek, her sene aynı soruları sormak, sınav sorularını önceden öğrencilere söylemek/sızdırmak, sınavda kopya çekilmesi.
+
+---
+
+### 2. Güvenilirlik
+Ölçme aracının farklı zamanlarda ve farklı puanlayıcılar tarafından uygulandığında tutarlı, kararlı ve duyarlı sonuçlar vermesidir. **Tesadüfi hatalardan arınıklık derecesidir.**
+* **Temel Kavramları:**
+  * *Tutarlılık:* Maddelerin birbiriyle uyumu.
+  * *Kararlılık:* Ölçümün zamana karşı dirençli olması (Bugün 70 alan öğrencinin yarın da benzer puan alması).
+  * *Objektiflik:* Farklı puanlayıcıların aynı kağıda aynı puanı takdir etmesi.
+  * *Duyarlık:* Ölçme biriminin küçülmesi ve soru sayısının artmasıyla hassasiyetin artması.
+* **Güvenirlik Belirleme Yöntemleri:**
+  1. *Test-Tekrar Test Yöntemi:* Aynı testin aynı gruba belli bir zaman aralığıyla (2-4 hafta) iki kez uygulanıp aralarındaki korelasyona bakılmasıdır. **Kararlılığı** gösterir.
+  2. *Paralel (Eşdeğer) Formlar Yöntemi:* Kapsamı, zorluğu ve yapısı eşdeğer iki farklı testin aynı gruba uygulanıp korelasyonuna bakılmasıdır. **Eşdeğerlik ve tutarlılığı** gösterir.
+  3. *Testi Yarılama Yöntemi:* Testin tek ve çift numaralı sorular şeklinde iki eş yarıya bölünerek yarılar arasındaki korelasyonun incelenmesidir. **İç tutarlılığı** gösterir (Tek oturumda uygulanır).
+  4. *Puanlayıcı Güvenirliği:* Aynı sınav kağıtlarının birden fazla bağımsız öğretmen tarafından puanlanıp puanlar arasındaki korelasyonun hesaplanmasıdır. **Objektifliği** gösterir.
+  5. *KR-20 ve KR-21:* Test maddelerinin doğru (1) / yanlış (0) puanlandığı durumlarda maddeler arası uyumu ve **testin homojenliğini** gösteren iç tutarlık katsayılarıdır.
+
+---
+
+### 3. Kullanışlılık
+Ölçme aracının geliştirilmesinin, çoğaltılmasının, uygulanmasının ve puanlanmasının zaman, emek ve maliyet açısından kolay ve ekonomik olmasıdır.
+* **Zorluk / Kullanışsızlık Karşılaştırması:**
+  * *Hazırlanması en kullanışsız (en zor) sınav:* **Çoktan seçmeli testler** (nitelikli soru ve çeldirici yazmak büyük uzmanlık ve zaman ister).
+  * *Uygulanması en kullanışsız (en zor) sınav:* **Sözlü yoklamalar** (her öğrenci tek tek içeri alınır, çok uzun sürer).
+  * *Puanlanması en kullanışsız (en zor) sınav:* **Yazılı yoklamalar** (uzun metinlerin tek tek okunup objektif değerlendirilmesi aşırı zaman alır).
+* *Kritik İlke:* Soru sayısını artırmak ölçmenin duyarlığını, dolayısıyla geçerliğini ve güvenirliğini artırır; ancak harcanan zaman ve maliyeti artırdığı için **kullanışlılığı düşürür**.
+
+---
+
+## 6. Ölçme Araç ve Yöntemleri
+
+### Geleneksel Ölçme Araçlarının Karşılaştırmalı Özellikleri
+
+| Ölçme Aracı | Güvenirlik & Geçerlik | Şans Başarısı | Ölçtüğü Düzey (Bloom) | Hazırlama | Puanlama / Uygulama |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Yazılı Yoklama (Klasik)** | Düşük (Puanlama subjektiftir) | **En Düşük** (Sallayarak tutturulamaz) | Üst düzey düşünme becerileri (Analiz, Sentez, Değerlendirme) | Kolay | Puanlaması en zor, en subjektif |
+| **Çoktan Seçmeli Test** | **En Yüksek** | Seçenek sayısına göre değişir (4 seçenek: %25, 5 seçenek: %20) | Bilgi, kavrama, uygulama, analiz (Analize kadar) | **En Zor** (Çeldirici yazımı emek ister) | En hızlı, tamamen objektif |
+| **Kısa Cevaplı Test** | Yüksek | **En Düşük** (Cevap net bir kelime/tarihtir) | Hatırlama / Bilgi düzeyi (**En büyük zaafı ezbere yönlendirmesidir**) | Orta (Çok sayıda soru hazırlanır) | Hızlı ve yarı objektif |
+| **Doğru-Yanlış Testi** | Orta | **En Yüksek (%50)** | Bilgi düzeyi | Kolay | Çok kolay ve objektif |
+| **Sözlü Yoklama** | **En Düşük** | Düşük | Sözel ifade, kavrama, sentez | Soru hazırlama kolay | **En subjektif**, uygulaması en uzun süren |
+
+---
+
+### Çağdaş (Alternatif / Tamamlayıcı) Ölçme Araçları
+
+Çağdaş değerlendirmede amaç not vermek veya öğrencileri birbirine rakip kılmak değil; öğrencinin güçlü-zayıf yönlerini saptamak ve **süreci değerlendirmektir**.
+
+1. **Portfolyo (Öğrenci Gelişim / Ürün Dosyası - Tümel Değerlendirme):**  
+   Öğrencinin bir dönem veya yıl boyunca ortaya koyduğu tüm ürünleri, ödevleri, ders planlarını, gözlem formlarını ve gelişim basamaklarını içeren sistemli koleksiyondur. **Süreci değerlendirir.**
+2. **Performans Değerlendirme:**  
+   Öğrencilerin edindikleri teorik bilgileri gerçek yaşam problemlerine nasıl aktardıklarını, eyleme nasıl döktüklerini ölçer. Bilişsel, duyuşsal ve psikomotor (devinişsel) becerileri bir bütün olarak değerlendirir.
+3. **Otantik Değerlendirme:**  
+   Performans değerlendirmenin doğrudan **gerçek yaşam koşullarında** yapılmasıdır. (Örnek: Ehliyet sınavında adayın doğrudan trafiğe çıkarılarak araç kullanımının değerlendirilmesi).
+4. **Öz Değerlendirme & Akran Değerlendirme:**  
+   Bireyin kendi performansını değerlendirmesi öz değerlendirmedir; grup çalışmalarında arkadaşlarının katkısını değerlendirmesi akran değerlendirmedir. (Mikro öğretimde her ikisi de mevcuttur).
+5. **Kontrol Listeleri:**  
+   Öğrencide beklenen hedef davranışların yalnızca **VAR** ya da **YOK** (Evet/Hayır, $+/-$) olduğunu gösteren ikili listelerdir. Davranışın kalitesi veya derecesi hakkında bilgi vermez.
+6. **Rubrik (Dereceli Puanlama Anahtarı):**  
+   Öğrenci performansını aşama aşama, düzey düzey ve kriter kriter puanlamayı sağlayan rehberlerdir.
+   * *Analitik Rubrik:* Performans alt boyutlara ayrılır ve her boyut (araştırma, sunum, dil bilgisi vb.) bağımsız değerlendirilir. **Süreci değerlendirir.**
+   * *Holistik Rubrik:* Performansı bir bütün olarak ele alır ve genel kalite düzeyini belirler. **Ürünü değerlendirir.**
+7. **Kelime İlişkilendirme Testi (KİT):**  
+   Öğrenciye anahtar bir kavram (Örn: "Ölçme") verilir. Belirli bir süre (15-20 saniye) içinde öğrencinin bu kavramın zihninde çağrıştırdığı diğer kavramları alt alta yazması istenir. Bilişsel yapıdaki kavram ağlarını ortaya çıkarır.
+8. **Tanılayıcı Dallanmış Ağaç (TDA):**  
+   Temelden başlayarak birbirine bağımlı Doğru/Yanlış önermelerinden oluşan ve öğrencinin seçimlerine göre farklı çıkış kapılarına ulaştıran şablonlardır. Öğrencinin problem çözmedeki gidiş yolunu ve kavram yanılgılarını net gösterir.
+9. **Yapılandırılmış Grid:**  
+   Öğrencilere 9'lu ($3 \times 3$), 16'lı ($4 \times 4$) veya 25'li ($5 \times 5$) kutucuklardan oluşan bir tablo verilir. Kutularda kavramlar, formüller veya resimler yer alır. Soruların cevabı bir ya da birden fazla kutucuk olabilir; bir kutucuk birden fazla soruya yanıt teşkil edebilir. Bilgiyi düzenleme, sınıflandırma ve ilişkilendirme becerisini ölçer.
+
+> 🎯 **2024 EKYS Maarif Modeli Soru Analizi:**  
+> Sınavda sorulan "3x3 veya 4x4'lük kutulardan oluşan, öğrencilerin sınıflandırma ve ilişkilendirme becerilerini ölçen çağdaş ölçme aracı" sorusunun doğru yanıtı **Yapılandırılmış Grid** olmuştur.
+
+---
+
+## 7. İstatistiğe Giriş: Deneysel Yöntem, Değişkenler ve Korelasyon
+
+### Deneysel Yöntem ve Değişken Türleri
+* **Bağımsız Değişken (Neden / Etkileyen):** Araştırmacının manipüle ettiği, etkisini incelediği değişkendir.
+* **Bağımlı Değişken (Sonuç / Etkilenen):** Bağımsız değişkene bağlı olarak değişen, ortaya çıkan sonuçtur.
+* **Pratik Çözüm Kuralı:** Cümle ne kadar karmaşık olursa olsun metin **"A'nın B'ye Etkisi"** kalıbına sokulur.  
+  $$\mathbf{A} \rightarrow \text{Bağımsız Değişken} \quad \Big\vert \quad \mathbf{B} \rightarrow \text{Bağımlı Değişken}$$
+  * *Örnek:* "Gürültünün okuduğunu anlamaya etkisi" $\rightarrow$ Gürültü: Bağımsız, Okuduğunu Anlama: Bağımlı.
+  * *Örnek:* "Düzenli spor yapmanın kalp sağlığına etkisi" $\rightarrow$ Spor: Bağımsız, Kalp Sağlığı: Bağımlı.
+* **Kontrol Grubu:** Bağımsız değişkenin uygulanmadığı, standart koşulların korunduğu gruptur (Gürültüsüz sınıf).
+* **Deney Grubu:** Üzerinde bağımsız değişkenin denendiği gruptur (Gürültülü sınıf).
+
+---
+
+### Korelasyon Katsayısı ($r$)
+
+İki değişken arasındaki karşılıklı ilişkinin **yönünü ($+$ veya $-$)** ve **miktarını (gücünü)** gösteren istatistiksel katsayıdır.
+
+```
+                    KORELASYON DOĞRUSU
+  -1.00 ◄─────────────── 0.00 ───────────────► +1.00
+Mükemmel Negatif     İlişkisizlik          Mükemmel Pozitif
+   İlişki               (Nötr)                 İlişki
+```
+
+#### Temel Kurallar:
+1. Korelasyon katsayısı daima **$-1.00$ ile $+1.00$ arasında** değer alır. Asla $+1.10$ veya $-1.25$ gibi değerler alamaz!
+2. **0 (Sıfır):** İki değişken arasında hiçbir ilişki olmadığını (ilişkisizlik / nötr durum) gösterir.
+3. Sıfırdan uzaklaştıkça (ister eksi yönde ister artı yönde olsun) **ilişkinin gücü ve miktarı ARTAR!**
+4. **Hayati Püf Noktası:**  
+   Korelasyondaki **işaret ($+$ ya da $-$) sadece ilişkinin yönünü belirtir; ilişki miktarını sayının mutlak değeri belirler!**
+   * $-0.80$ ile $+0.80$'in ilişki gücü **birbirine eşittir** (Her ikisi de %80 güçlü ilişkidir).
+   * **$-0.52 > +0.51$** (Mutlak değerce $0.52 > 0.51$ olduğu için negatif olan ilişki daha güçlüdür).
+
+#### Korelasyon Yönleri:
+* **Pozitif Korelasyon ($r > 0$):** İki değişken aynı yönde hareket eder; biri artarken diğeri de artar veya biri azalırken diğeri de azalır.
+  * *Örnekler:* Ders çalışma süresi $\uparrow$ ile Sınav başarısı $\uparrow$, Gelir $\uparrow$ ile Gider $\uparrow$, $Z$ puanı ile $T$ puanı ($r = +1.00$).
+* **Negatif Korelasyon ($r < 0$):** İki değişken zıt yönde hareket eder; biri artarken diğeri azalır.
+  * *Örnekler:* Uykusuzluk $\uparrow$ ile Dikkat düzeyi $\downarrow$, Rakım (yükselti) $\uparrow$ ile Sıcaklık $\downarrow$, Hata sayısı $\uparrow$ ile Test puanı $\downarrow$.
+* **Nötr (Sıfır) Korelasyon ($r \approx 0$):** Değişkenler arasında hiçbir bağ yoktur.
+  * *Örnekler:* Boy uzunluğu ile Zeka, Göz rengi ile Matematik başarısı, Güzellik ile Dürüstlük.
+
+---
+
+### 🎯 2020 EKYS Çıkmış Sınav Sorusu ve Çözüm Analizi
+
+Bir okul müdürü, lise öğrencilerinin ders dışı etkinlik alışkanlıklarının Matematik ve Türkçe başarılarıyla ilişkisini aşağıdaki korelasyon tablosu ile tespit etmiştir:
+
+| Değişkenler | Matematik Başarısı | Türkçe Başarısı |
+| :--- | :---: | :---: |
+| **I. Ders çalışmaya ayrılan zaman** | $+0.65$ | $+0.40$ |
+| **II. Ders dışı kitap okumaya ayrılan zaman** | $+0.25$ | $+0.75$ |
+| **III. Ders dışı telefon / bilgisayar kullanımı** | $-0.67$ | $-0.78$ |
+
+#### Öncüllerin Değerlendirilmesi:
+* **I. Öncül:** "Ders çalışmaya ayrılan zaman arttıkça matematik dersindeki başarı da artma eğilimindedir."  
+  *Analiz:* Ders çalışmaya ayrılan zaman ile matematik başarısı arasındaki katsayı $+0.65$'tir. Pozitif olduğu için biri arttıkça diğeri de artar. $\rightarrow$ **DOĞRU**.
+* **II. Öncül:** "Türkçe dersindeki başarıyla en çok ilişkili değişken ders dışı kitap okumadır."  
+  *Analiz:* Türkçe başarısının değişkenlerle ilişkisi incelendiğinde; kitap okuma $+0.75$, telefon kullanımı ise $-0.78$'dir. İşarete bakılmaksızın mutlak değerce $0.78 > 0.75$ olduğundan, Türkçe başarısıyla en güçlü ilişkili değişken telefon kullanımıdır. $\rightarrow$ **YANLIŞ**.
+* **III. Öncül:** "Ders amacı dışında telefon kullanımının matematik dersi ile ilişkisi, Türkçe dersi ile olan ilişkisinden daha güçlüdür."  
+  *Analiz:* Matematikle ilişki mutlak değerce $0.67$, Türkçeyle ilişki mutlak değerce $0.78$'dir. $0.78 > 0.67$ olduğundan Türkçeyle olan ilişki daha güçlüdür. $\rightarrow$ **YANLIŞ**.
+
+**Doğru Cevap: Yalnız I**
