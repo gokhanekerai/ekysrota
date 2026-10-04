@@ -6749,9 +6749,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 12,
-    "questionText": "Türkiye'deki farklı iklim bölgelerinin yağış özellikleri ile ilgili olarak aşağıda verilen yargılardan hangisi yanlıştır?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nTürkiye'de yer şekillerinin uzanışı ve yükselti farklılıkları nedeniyle kısa mesafelerde belirgin iklim ve yağış değişiklikleri yaşanır.\n\nBuna göre, haritada numaralandırılan alanlardan hangisi Türkiye'nin yıllık ortalama yağış miktarı en fazla olan yöresi içinde yer alır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q12_img.png",
     "options": [
       {
         "key": "A",
@@ -6786,9 +6786,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 13,
-    "questionText": "Bağıl nem; havadaki mevcut su buharının, o sıcaklıkta havanın taşıyabileceği maksimum neme oranıdır. Bağıl nemin yıl boyunca yüksek olması; bulutluluk oranının fazla, güneşlenme süresinin az ve yağış ihtimalinin yüksek olmasını beraberinde getirir.\n\nBuna göre, Türkiye'de yıl boyunca bağıl nem oranının en yüksek, yıllık güneşlenme süresinin ise en az olduğu yöre aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nBağıl nem; havadaki mevcut su buharının, o sıcaklıkta havanın taşıyabileceği maksimum neme oranıdır. Bağıl nemin yıl boyunca yüksek olması; bulutluluk oranının fazla, güneşlenme süresinin az ve yağış ihtimalinin yüksek olmasını beraberinde getirir.\n\nBuna göre, Türkiye'de yıl boyunca bağıl nem oranının en yüksek, yıllık güneşlenme süresinin ise en az olduğu yöre aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q13_img.png",
     "options": [
       {
         "key": "A",
@@ -6823,9 +6823,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 14,
-    "questionText": "Türkiye'de yer alan merkezlerin en fazla yağış aldıkları mevsimler farklılık göstermektedir.\n\nAşağıda verilen illerden hangisinin en çok yağış aldığı mevsim diğerlerinden farklıdır?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de yer alan merkezlerin en fazla yağış aldıkları mevsimler farklılık göstermektedir.\n\nAşağıda verilen illerden hangisinin en çok yağış aldığı mevsim diğerlerinden farklıdır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q14_img.png",
     "options": [
       {
         "key": "A",
@@ -6860,9 +6860,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 15,
-    "questionText": "Türkiye'de genel bir kural olarak güneyden kuzeye gidildikçe Güneş ışınlarının geliş açısına bağlı olarak (enlem etkisiyle) sıcaklık ortalamaları düşer.\n\nAşağıdaki durumlardan hangisi bu genel kural ile çelişir ve özel konum şartları ile açıklanır?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de genel bir kural olarak güneyden kuzeye gidildikçe Güneş ışınlarının geliş açısına bağlı olarak (enlem etkisiyle) sıcaklık ortalamaları düşer.\n\nAşağıdaki durumlardan hangisi bu genel kural ile çelişir ve özel konum şartları ile açıklanır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q15_img.png",
     "options": [
       {
         "key": "A",
@@ -6897,9 +6897,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 16,
-    "questionText": "Türkiye'de etkili olan yerel rüzgârların sıcaklık üzerindeki etkisi geldikleri enlem derecesine bağlıdır. Kuzeyden esen rüzgârlar sıcaklığı düşürürken, güneyden esen rüzgârlar sıcaklığı artırır.\n\nBuna göre, Türkiye'ye kuzeybatıdan eserek kışın Trakya ve Marmara'da sıcaklığı aniden düşürüp kar yağışı getiren rüzgâr ile kuzeydoğudan esen kuru-soğuk rüzgâr sırasıyla aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de etkili olan yerel rüzgârların sıcaklık üzerindeki etkisi geldikleri enlem derecesine bağlıdır. Kuzeyden esen rüzgârlar sıcaklığı düşürürken, güneyden esen rüzgârlar sıcaklığı artırır.\n\nBuna göre, Türkiye'ye kuzeybatıdan eserek kışın Trakya ve Marmara'da sıcaklığı aniden düşürüp kar yağışı getiren rüzgâr ile kuzeydoğudan esen kuru-soğuk rüzgâr sırasıyla aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q16_img.png",
     "options": [
       {
         "key": "A",
@@ -6934,9 +6934,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 17,
-    "questionText": "Türkiye'de dağların kıyı çizgisine hemen bitişik ve dik yükseldiği kıyılarda denizel nemli hava kütleleri hızla yükselerek bol miktarda yamaç yağışına neden olur.\n\nAşağıdaki alanlardan hangisinde bu durumun bir sonucu olarak yıllık yağış miktarı 2000 mm'nin üzerine çıkarak Türkiye rekoru kırar?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de dağların kıyı çizgisine hemen bitişik ve dik yükseldiği kıyılarda denizel nemli hava kütleleri hızla yükselerek bol miktarda yamaç yağışına neden olur.\n\nAşağıdaki alanlardan hangisinde bu durumun bir sonucu olarak yıllık yağış miktarı 2000 mm'nin üzerine çıkarak Türkiye rekoru kırar?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q17_img.png",
     "options": [
       {
         "key": "A",
@@ -7119,9 +7119,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 22,
-    "questionText": "Aşağıdaki coğrafi alanların hangisinde arazinin kalın kireçtaşı (karstik) tabakalarından oluşması, yağış sularının yer altına hızla sızarak yüzey suyunun bulunamaması ve engebeli topoğrafya nedeniyle nüfus yoğunluğu çok düşüktür?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nHaritada numaralandırılan alanların hangisinde arazinin kalın kireçtaşı (karstik) tabakalarından oluşması, yağış sularının yer altına hızla sızması ve engebeli topoğrafya nedeniyle nüfus yoğunluğu çok seyrektir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q22_img.png",
     "options": [
       {
         "key": "A",
@@ -7193,9 +7193,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 24,
-    "questionText": "Tarımsal nüfus yoğunluğu; tarım sektöründe çalışan insan sayısının doğrudan tarım arazilerinin yüzölçümüne bölünmesiyle hesaplanır. Tarım alanlarının dar ve parçalı, arazinin engebeli olduğu ve makineleşmenin zor olup insan gücüne ihtiyaç duyulduğu yörelerde tarımsal nüfus yoğunluğu çok yüksek çıkar.\n\nBuna göre, aşağıdaki yörelerin hangisinde tarımsal nüfus yoğunluğunun en yüksek olması beklenir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTarımsal nüfus yoğunluğu; tarım sektöründe çalışan insan sayısının doğrudan tarım arazilerinin yüzölçümüne bölünmesiyle hesaplanır. Tarım alanlarının dar ve parçalı, arazinin engebeli olduğu ve makineleşmenin zor olup insan gücüne ihtiyaç duyulduğu yörelerde tarımsal nüfus yoğunluğu çok yüksek çıkar.\n\nBuna göre, aşağıdaki yörelerin hangisinde tarımsal nüfus yoğunluğunun en yüksek olması beklenir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q24_img.png",
     "options": [
       {
         "key": "A",
@@ -7267,9 +7267,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 26,
-    "questionText": "Türkiye'de nüfusun dağılışını etkileyen faktörler doğal (fiziki) ve beşerî faktörler olarak ikiye ayrılır.\n\nAşağıda verilen yörelerden hangilerinin yoğun nüfuslanmasında sanayi kuruluşları ve fabrikaların varlığı doğrudan belirleyici olmuştur?\nI. Çatalca-Kocaeli Yöresi\nII. Bursa ve İnegöl Çevresi\nIII. Menteşe Yöresi\nIV. Yıldız Dağları Yöresi",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de nüfusun dağılışını etkileyen faktörler doğal (fiziki) ve beşerî faktörler olarak ikiye ayrılır.\n\nAşağıda verilen yörelerden hangilerinin yoğun nüfuslanmasında sanayi kuruluşları ve fabrikaların varlığı doğrudan belirleyici olmuştur?\nI. Çatalca-Kocaeli Yöresi\nII. Bursa ve İnegöl Çevresi\nIII. Menteşe Yöresi\nIV. Yıldız Dağları Yöresi",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q26_img.png",
     "options": [
       {
         "key": "A",
@@ -7304,9 +7304,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 27,
-    "questionText": "Yalnızca Türkiye'nin 1927-2023 yılları arasındaki nüfus artış hızı grafiğine bakılarak;\nI. Nüfus yoğunluğunun en fazla olduğu coğrafi bölgelere\nII. Nüfus artış hızının tarihteki en düşük seviyeye indiği döneme (1940-1945 II. Dünya Savaşı)\nIII. Türkiye'nin toplam nüfus miktarının ve cinsiyet dağılımının kesin sayısal değerine\n\nbilgilerinden hangilerine kesinlikle ulaşılabilir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki grafikte Türkiye'nin 1927-2023 yılları arasındaki nüfus artış hızı verilmiştir.\n\nYalnızca Türkiye'nin 1927-2023 yılları arasındaki nüfus artış hızı grafiğine bakılarak;\nI. Nüfus yoğunluğunun en fazla olduğu coğrafi bölgelere\nII. Nüfus artış hızının tarihteki en düşük seviyeye indiği döneme (1940-1945 II. Dünya Savaşı)\nIII. Türkiye'nin toplam nüfus miktarının ve cinsiyet dağılımının kesin sayısal değerine\n\nbilgilerinden hangilerine kesinlikle ulaşılabilir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q27_img.png",
     "options": [
       {
         "key": "A",
@@ -7341,9 +7341,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 28,
-    "questionText": "Türkiye'de nüfusun dağılışı ve yörelerin özellikleri ile ilgili olarak aşağıda verilen yargılardan hangisi yanlıştır?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı yöre numaralandırılarak gösterilmiştir.\n\nHaritada numaralandırılan yöreler ve bu yörelerin nüfus özellikleri ile ilgili olarak aşağıda verilen yargılardan hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q28_img.png",
     "options": [
       {
         "key": "A",
@@ -7452,9 +7452,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 31,
-    "questionText": "Düz ve geniş tarım arazilerinde traktör ve biçerdöver gibi makinelerin yaygınlaşması, kırsal kesimde insan gücüne duyulan ihtiyacı azaltarak köyden kente göçü hızlandırmıştır.\n\nBuna göre, aşağıdaki alanların hangisinde arazinin aşırı dağlık, dik ve engebeli olması sebebiyle tarımda makine kullanımına bağlı bir göç yaşanması beklenemez?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nDüz ve geniş tarım arazilerinde traktör ve biçerdöver gibi makinelerin yaygınlaşması, kırsal kesimde insan gücüne duyulan ihtiyacı azaltarak köyden kente göçü hızlandırmıştır.\n\nBuna göre, aşağıdaki alanların hangisinde arazinin aşırı dağlık, dik ve engebeli olması sebebiyle tarımda makine kullanımına bağlı bir göç yaşanması beklenemez?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q31_img.png",
     "options": [
       {
         "key": "A",
@@ -7489,9 +7489,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 32,
-    "questionText": "Yaz aylarında deniz turizmi faaliyetlerine bağlı olarak Türkiye'de geçici nüfus artışının ve mevsimlik göç hareketinin en yoğun yaşandığı merkez aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nYaz aylarında deniz turizmi faaliyetlerine bağlı olarak Türkiye'de geçici nüfus artışının ve mevsimlik göç hareketinin en yoğun yaşandığı merkez aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q32_img.png",
     "options": [
       {
         "key": "A",
@@ -7526,9 +7526,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 33,
-    "questionText": "Ağustos ve eylül aylarında fındık hasadı döneminde Doğu ve Güneydoğu Anadolu'dan gelen yüz binlerce mevsimlik tarım işçisinin göç ettiği başlıca kıyı yöremiz aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nAğustos ve eylül aylarında fındık hasadı döneminde Doğu ve Güneydoğu Anadolu'dan gelen yüz binlerce mevsimlik tarım işçisinin geçici göç ettiği alan haritada kaç numara ile gösterilmiştir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q33_img.png",
     "options": [
       {
         "key": "A",
@@ -7563,9 +7563,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 34,
-    "questionText": "Türkiye'de kurak ve yarı kurak bölgelerde tarımsal verimi artırmak ve nadas alanlarını azaltmak için sulama projelerine (GAP, KOP vb.) büyük yatırımlar yapılmaktadır.\n\nBuna karşılık, aşağıdaki alanların hangisinde iklim her mevsim düzenli yağışlı geçtiği için tarımda yapay sulamaya duyulan ihtiyaç en azdır?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de kurak ve yarı kurak bölgelerde tarımsal verimi artırmak ve nadas alanlarını azaltmak için sulama projelerine (GAP, KOP vb.) büyük yatırımlar yapılmaktadır.\n\nBuna karşılık, aşağıdaki alanların hangisinde iklim her mevsim düzenli yağışlı geçtiği için tarımda yapay sulamaya duyulan ihtiyaç en azdır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q34_img.png",
     "options": [
       {
         "key": "A",
@@ -7674,9 +7674,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 37,
-    "questionText": "Yayla; genellikle ilkbahar ve yaz mevsimlerinde yüksek kesimlerdeki gür ot topluluklarından hayvancılık yapmak ve son yıllarda da doğa turizmi amacıyla yararlanmak için kullanılan geçici bir köy altı yerleşmesidir.\n\nBuna göre, Türkiye'de yaylacılık faaliyetlerinin gerek hayvancılık gerekse turizm açısından en gelişmiş ve en yaygın olduğu coğrafi alan aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nYayla; genellikle ilkbahar ve yaz mevsimlerinde yüksek kesimlerdeki gür ot topluluklarından hayvancılık yapmak ve son yıllarda da doğa turizmi amacıyla yararlanmak için kullanılan geçici bir köy altı yerleşmesidir.\n\nBuna göre, Türkiye'de yaylacılık faaliyetlerinin gerek hayvancılık gerekse turizm açısından en gelişmiş ve en yaygın olduğu coğrafi alan aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q37_img.png",
     "options": [
       {
         "key": "A",
@@ -7970,9 +7970,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 45,
-    "questionText": "Türkiye'de yükseltisi fazla olan dağlık ve yaylalık alanlarda ilkbahar ve yaz aylarında yaylacılık faaliyetleri yoğunlaşmaktadır.\n\nAşağıda verilen il çiftlerinin hangisinde yayla yerleşmelerine ve yaylacılık faaliyetlerine en sık rastlanır?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de yükseltisi fazla olan dağlık ve yaylalık alanlarda ilkbahar ve yaz aylarında yaylacılık faaliyetleri yoğunlaşmaktadır.\n\nAşağıda verilen il çiftlerinin hangisinde yayla yerleşmelerine ve yaylacılık faaliyetlerine en sık rastlanır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q45_img.png",
     "options": [
       {
         "key": "A",
@@ -8229,9 +8229,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 2,
-    "questionText": "Türkiye'de dağların kıyıya paralel uzandığı ve ortalama yükseltinin fazla olduğu sarp engebeli alanlarda kara ve demir yolu yapım maliyetleri çok yüksektir.\n\nBuna göre, aşağıda verilen güzergâhlardan hangilerinde yapılacak aynı standarttaki demir yolu hatlarının kilometre yapım maliyetinin engebe nedeniyle daha yüksek olması beklenir?\nI. Doğu Karadeniz kıyı ardı dağlık kuşağı (Rize-Artvin)\nII. Kıyı Ege graben ovaları (İzmir-Aydın hattı)\nIII. Hakkâri Dağlık Yöresi\nIV. Konya-Aksaray düzlükleri",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında dört farklı güzergâh numaralandırılarak gösterilmiştir.\n\nTürkiye'de dağların kıyıya paralel uzandığı ve ortalama yükseltinin fazla olduğu sarp engebeli alanlarda kara ve demir yolu yapım maliyetleri çok yüksektir.\n\nBuna göre, haritada numaralandırılan güzergâhlardan hangilerinde yapılacak aynı standarttaki demir yolu hatlarının kilometre yapım maliyetinin engebe nedeniyle daha yüksek olması beklenir?\nI. Doğu Karadeniz kıyı ardı kuşağı (Rize-Artvin)\nII. Kıyı Ege graben ovaları\nIII. Hakkâri Dağlık Yöresi\nIV. Konya-Aksaray düzlükleri",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q2_img.png",
     "options": [
       {
         "key": "A",
@@ -8340,9 +8340,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 5,
-    "questionText": "Türkiye'deki bazı şehirlerin öne çıkan temel ekonomik fonksiyonları aşağıdakilerin hangisinde doğru eşleştirilmiştir?\n\n• Zonguldak\n• Antalya\n• İzmit (Kocaeli)\n• Rize",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'deki bazı şehirlerin öne çıkan temel ekonomik fonksiyonları aşağıdakilerin hangisinde doğru eşleştirilmiştir?\n\n• Zonguldak\n• Antalya\n• İzmit (Kocaeli)\n• Rize",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q5_img.png",
     "options": [
       {
         "key": "A",
@@ -8377,9 +8377,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 6,
-    "questionText": "Türkiye'de sanayi kuruluşlarının ve fabrikaların dağılışı dengeli değildir; belirli ulaşım ve pazar odaklarında yoğunlaşmıştır.\n\nBuna göre, aşağıda verilen yörelerden hangilerinde sanayi sektörünün ülke ekonomisine ve istihdama katkısı diğerlerine göre çok daha fazladır?\nI. Çatalca-Kocaeli Yöresi (İstanbul, İzmit, Gebze)\nII. Kıyı Ege Bölümü (İzmir, Manisa, Torbalı)\nIII. Hakkâri Dağlık Yöresi\nIV. Taşeli Platosu",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de sanayi kuruluşlarının ve fabrikaların dağılışı dengeli değildir; belirli ulaşım ve pazar odaklarında yoğunlaşmıştır.\n\nBuna göre, aşağıda verilen yörelerden hangilerinde sanayi sektörünün ülke ekonomisine ve istihdama katkısı diğerlerine göre çok daha fazladır?\nI. Çatalca-Kocaeli Yöresi (İstanbul, İzmit, Gebze)\nII. Kıyı Ege Bölümü (İzmir, Manisa, Torbalı)\nIII. Hakkâri Dağlık Yöresi\nIV. Taşeli Platosu",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q6_img.png",
     "options": [
       {
         "key": "A",
@@ -8451,9 +8451,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 8,
-    "questionText": "Yer şekillerinin çok engebeli ve dağlık olduğu yörelerde ekilebilir tarım arazileri vadiler ve yamaçlar arasında dar ve parçalı kalmıştır.\n\nBuna göre, aşağıdaki coğrafi bölümlerin hangisinde tarım alanlarının diğerlerine göre çok daha dar ve parçalı olması beklenir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nYer şekillerinin çok engebeli ve dağlık olduğu yörelerde ekilebilir tarım arazileri vadiler ve yamaçlar arasında dar ve parçalı kalmıştır.\n\nBuna göre, aşağıdaki coğrafi bölümlerin hangisinde tarım alanlarının diğerlerine göre çok daha dar ve parçalı olması beklenir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q8_img.png",
     "options": [
       {
         "key": "A",
@@ -8525,9 +8525,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 10,
-    "questionText": "Türkiye'de özellikle Ege Bölgesi kıyılarında (Edremit Körfezi, Aydın, Manisa, İzmir), Akdeniz kıyı kuşağında, Güney Marmara'da (Gemlik, Mudanya) ve Güneydoğu'nun batısında (Gaziantep, Kilis) yoğun olarak yetiştirilen, kış ılıklığı isteyen maki formasyonuna ait temel tarım ürünü aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de özellikle Ege Bölgesi kıyılarında (Edremit Körfezi, Aydın, Manisa, İzmir), Akdeniz kıyı kuşağında, Güney Marmara'da (Gemlik, Mudanya) ve Güneydoğu'nun batısında (Gaziantep, Kilis) yoğun olarak yetiştirilen, kış ılıklığı isteyen maki formasyonuna ait temel tarım ürünü aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q10_img.png",
     "options": [
       {
         "key": "A",
@@ -8673,9 +8673,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 14,
-    "questionText": "Temel besin maddelerimizden olan buğday; ilkbahar büyüme evresinde neme, yaz hasat ve olgunlaşma döneminde ise tam kuraklığa ve yüksek sıcaklığa ihtiyaç duyar.\n\nBuna göre, aşağıdaki yörelerin hangisinde yaz mevsiminin de sürekli yağışlı ve nemli geçmesi sebebiyle buğday tarımı kesinlikle yapılamaz?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTemel besin maddelerimizden olan buğday; ilkbahar büyüme evresinde neme, yaz hasat ve olgunlaşma döneminde ise tam kuraklığa ve yüksek sıcaklığa ihtiyaç duyar.\n\nBuna göre, aşağıdaki yörelerin hangisinde yaz mevsiminin de sürekli yağışlı ve nemli geçmesi sebebiyle buğday tarımı kesinlikle yapılamaz?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q14_img.png",
     "options": [
       {
         "key": "A",
@@ -8747,9 +8747,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 16,
-    "questionText": "Türkiye'de yetiştirilen aşağıdaki tarım ürünleri ile Türkiye üretiminde ilk sırada yer alan coğrafi bölgeler eşleştirmelerinden hangisi doğrudur?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de yetiştirilen aşağıdaki tarım ürünleri ile Türkiye üretiminde ilk sırada yer alan coğrafi bölgeler eşleştirmelerinden hangisi doğrudur?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q16_img.png",
     "options": [
       {
         "key": "A",
@@ -8784,9 +8784,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 17,
-    "questionText": "Türkiye'de bir yörenin iklim özellikleri incelendiğinde; kışların çok sert ve dondurucu geçtiği, en fazla yağışın yaz aylarında düştüğü ve bu sayede yaz boyunca yeşil kalan gür Alpin çayır örtüsünün bulunduğu görülmektedir (Erzurum-Kars Platosu).\n\nBöyle bir iklim ve bitki örtüsüne sahip yörede aşağıdaki hayvancılık türlerinden hangisinin doğal koşullara bağlı olarak en fazla gelişmesi beklenir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de bir yörenin iklim özellikleri incelendiğinde; kışların çok sert ve dondurucu geçtiği, en fazla yağışın yaz aylarında düştüğü ve bu sayede yaz boyunca yeşil kalan gür Alpin çayır örtüsünün bulunduğu görülmektedir (Erzurum-Kars Platosu).\n\nBöyle bir iklim ve bitki örtüsüne sahip yörede aşağıdaki hayvancılık türlerinden hangisinin doğal koşullara bağlı olarak en fazla gelişmesi beklenir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q17_img.png",
     "options": [
       {
         "key": "A",
@@ -8895,9 +8895,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 20,
-    "questionText": "Türkiye'de mera hayvancılığı doğrudan doğal bitki örtüsü ve iklime bağlıdır.\n\nBuna göre;\n• Yaz yağışlarıyla yeşeren gür çayırlar üzerinde: Büyükbaş sığır yetiştiriciliği,\n• İlkbahar yağışlarıyla yeşeren bozkırlar üzerinde: Küçükbaş koyun yetiştiriciliği,\n• Maki ve kayalık dağlık alanlarda: Kıl keçisi yetiştiriciliği\n\nyaygındır. Buna göre, maki ve engebeli karstik araziye bağlı olarak kıl keçisi yetiştiriciliğinin en yaygın olduğu coğrafi bölge aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de mera hayvancılığı doğrudan doğal bitki örtüsü ve iklime bağlıdır.\n\nBuna göre;\n• Yaz yağışlarıyla yeşeren gür çayırlar üzerinde: Büyükbaş sığır yetiştiriciliği,\n• İlkbahar yağışlarıyla yeşeren bozkırlar üzerinde: Küçükbaş koyun yetiştiriciliği,\n• Maki ve kayalık dağlık alanlarda: Kıl keçisi yetiştiriciliği\n\nyaygındır. Buna göre, maki ve engebeli karstik araziye bağlı olarak kıl keçisi yetiştiriciliğinin en yaygın olduğu coğrafi bölge aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q20_img.png",
     "options": [
       {
         "key": "A",
@@ -9006,9 +9006,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 23,
-    "questionText": "Kıl keçisi, yer şekilleri bakımından sarp ve dağlık, bitki örtüsü bakımından maki ve çalılık araziye çok iyi uyum sağlamış dayanıklı bir küçükbaş hayvandır.\n\nBuna göre aşağıdaki alanların hangisi kıl keçisi yetiştiriciliği açısından Türkiye'nin en önemli merkezidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nKıl keçisi, yer şekilleri bakımından sarp ve dağlık, bitki örtüsü bakımından maki ve çalılık araziye çok iyi uyum sağlamış dayanıklı bir küçükbaş hayvandır.\n\nBuna göre aşağıdaki alanların hangisi kıl keçisi yetiştiriciliği açısından Türkiye'nin en önemli merkezidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q23_img.png",
     "options": [
       {
         "key": "A",
@@ -9043,9 +9043,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 24,
-    "questionText": "Geleneksel yöntemlerle yapılan mera hayvancılığı, yer şekillerinin engebeli veya iklim şartlarının sert olup tarımsal faaliyetlere elverişsiz olduğu alanlarda halkın en temel geçim kaynağıdır.\n\nBuna göre, aşağıdaki yörelerin hangilerinde arazinin engebeli veya yüksek olması sebebiyle mera hayvancılığı tarıma göre çok daha baskın bir ekonomik faaliyettir?\nI. Ergene Havzası\nII. Erzurum-Kars Platosu (Yüksek çayırlar)\nIII. Çukurova Deltası\nIV. Konya Ovası\nV. Teke ve Taşeli Platoları (Karstik engebe)",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nGeleneksel yöntemlerle yapılan mera hayvancılığı, yer şekillerinin engebeli veya iklim şartlarının sert olup tarımsal faaliyetlere elverişsiz olduğu alanlarda halkın en önemli geçim kaynağıdır.\n\nBuna göre, haritada numaralandırılan alanların hangilerinde büyükbaş veya küçükbaş mera hayvancılığının yaygın bir ekonomik faaliyet olması beklenir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q24_img.png",
     "options": [
       {
         "key": "A",
@@ -9080,9 +9080,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 25,
-    "questionText": "Türkiye'de volkanik arazilerin yaygınlığı, farklı jeolojik zamanlara ait kayaçların bir arada bulunması ve kırıklı metamorfik yapılar sebebiyle maden çeşitliliği ve yataklarının en zengin olduğu coğrafi bölüm aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de volkanik arazilerin yaygınlığı, farklı jeolojik zamanlara ait kayaçların bir arada bulunması ve kırıklı metamorfik yapılar sebebiyle maden çeşitliliği ve yataklarının en zengin olduğu coğrafi bölüm aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q25_img.png",
     "options": [
       {
         "key": "A",
@@ -9265,9 +9265,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 30,
-    "questionText": "Aşağıda Türkiye'nin önemli maden yataklarının bulunduğu merkezler verilmiştir:\n• Sivas (Divriği, Kangal)\n• Malatya (Hekimhan, Hasançelebi)\n• Balıkesir (Havran, Eymir)\n• İzmir (Torbalı)\n\nBu merkezlerde ortak olarak çıkarılan ve ağır sanayinin temel ham maddesi olan maden aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nAşağıda Türkiye'nin önemli maden yataklarının bulunduğu merkezler verilmiştir:\n• Sivas (Divriği, Kangal)\n• Malatya (Hekimhan, Hasançelebi)\n• Balıkesir (Havran, Eymir)\n• İzmir (Torbalı)\n\nBu merkezlerde ortak olarak çıkarılan ve ağır sanayinin temel ham maddesi olan maden aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q30_img.png",
     "options": [
       {
         "key": "A",
@@ -9339,9 +9339,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 32,
-    "questionText": "Aşağıda verilen enerji üretim santrallerinden hangisi doğal gaz yakıtı kullanarak elektrik enerjisi üretmektedir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nAşağıda verilen enerji üretim santrallerinden hangisi doğal gaz yakıtı kullanarak elektrik enerjisi üretmektedir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q32_img.png",
     "options": [
       {
         "key": "A",
@@ -9413,9 +9413,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 34,
-    "questionText": "Yerin derinliklerindeki kırıklı fay hatlarından gelen yüksek sıcaklıktaki su buharı türbinleri döndürerek jeotermal elektrik üretilmesini sağlar.\n\nBuna göre, Türkiye'de ilk jeotermal elektrik üretim tesisinin kurulduğu merkez aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nYerin derinliklerindeki kırıklı fay hatlarından gelen yüksek sıcaklıktaki su buharı türbinleri döndürerek jeotermal elektrik üretilmesini sağlar.\n\nBuna göre, Türkiye'de ilk jeotermal elektrik üretim tesisinin kurulduğu merkez aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q34_img.png",
     "options": [
       {
         "key": "A",
@@ -9450,9 +9450,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 35,
-    "questionText": "Güneş enerjisi potansiyeli; atmosferdeki bulutluluk oranına ve yıllık güneşlenme süresine doğrudan bağlıdır.\n\nBuna göre, her mevsim düzenli yağış alması ve bulutluluk oranının yıl boyu çok yüksek olması sebebiyle güneş enerjisi yatırımları için en verimsiz coğrafi alan aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nGüneş enerjisi potansiyeli; atmosferdeki bulutluluk oranına ve yıllık güneşlenme süresine doğrudan bağlıdır.\n\nBuna göre, her mevsim düzenli yağış alması ve bulutluluk oranının yıl boyu çok yüksek olması sebebiyle güneş enerjisi yatırımları için en verimsiz coğrafi alan aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q35_img.png",
     "options": [
       {
         "key": "A",
@@ -9709,9 +9709,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 42,
-    "questionText": "Kıyı Ege Bölümü'nde (İzmir, Manisa, Aydın çevresi) tarım, petrokimya ve metal sanayi oldukça gelişmiştir.\n\nAşağıdaki sanayi kollarından hangisi Kıyı Ege Bölümü'nde yer alan sanayi tesisleri arasında bulunmaz?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nKıyı Ege Bölümü'nde (İzmir, Manisa, Aydın çevresi) tarım, petrokimya ve metal sanayi oldukça gelişmiştir.\n\nAşağıdaki sanayi kollarından hangisi Kıyı Ege Bölümü'nde yer alan sanayi tesisleri arasında bulunmaz?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q42_img.png",
     "options": [
       {
         "key": "A",
@@ -9746,9 +9746,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 43,
-    "questionText": "Aşağıda verilen illerimiz ile bu illerde bulunan ağır sanayi ve maden işleme tesisleri eşleştirmelerinden hangisi yanlıştır?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nAşağıda verilen illerimiz ile bu illerde bulunan ağır sanayi ve maden işleme tesisleri eşleştirmelerinden hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q43_img.png",
     "options": [
       {
         "key": "A",
@@ -9820,9 +9820,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 45,
-    "questionText": "Türkiye'de bölgesel gelişmişlik farklarını azaltmak amacıyla Bölgesel Kalkınma Projeleri yürütülmektedir.\n\nBuna göre, aşağıdaki illerden hangisi doğrudan 'Doğu Anadolu Projesi (DAP)' kapsamında yer alan illerden biridir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de bölgesel gelişmişlik farklarını azaltmak amacıyla Bölgesel Kalkınma Projeleri yürütülmektedir.\n\nBuna göre, aşağıdaki illerden hangisi doğrudan 'Doğu Anadolu Projesi (DAP)' kapsamında yer alan illerden biridir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q45_img.png",
     "options": [
       {
         "key": "A",
@@ -10079,9 +10079,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 52,
-    "questionText": "Kış sporları ve kayak turizmi için dağlık yer şekilleri, yüksek eğim ve kış mevsiminde aylarca yerde kalan kalın kar örtüsü gereklidir.\n\nAşağıdaki alanların hangisinde yer şekilleri ve kış iklimi özellikleri sebebiyle kış ve kayak turizminin gelişmesi beklenemez?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nKış sporları ve kayak turizmi için dağlık yer şekilleri, yüksek eğim ve kış mevsiminde aylarca yerde kalan kalın kar örtüsü gereklidir.\n\nAşağıdaki alanların hangisinde yer şekilleri ve kış iklimi özellikleri sebebiyle kış ve kayak turizminin gelişmesi beklenemez?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q52_img.png",
     "options": [
       {
         "key": "A",
@@ -10116,9 +10116,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 53,
-    "questionText": "Mağara turizmi; yer altı sularının kolay eriyebilen kireçtaşı (kalker) arazilerini aşındırması sonucu oluşan sarkıt, dikit ve sütunlarla bezeli karstik boşluklara dayanır.\n\nBuna göre; Damlataş, Karain, Dim ve İnsuyu gibi Türkiye'nin en ünlü turizm mağaralarının yoğunlaştığı coğrafi bölge aşağıdakilerden hangisidir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nMağara turizmi; yer altı sularının kolay eriyebilen kireçtaşı (kalker) arazilerini aşındırması sonucu oluşan sarkıt, dikit ve sütunlarla bezeli karstik boşluklara dayanır.\n\nBuna göre; Damlataş, Karain, Dim ve İnsuyu gibi Türkiye'nin en ünlü turizm mağaralarının yoğunlaştığı coğrafi bölge aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q53_img.png",
     "options": [
       {
         "key": "A",
@@ -10153,9 +10153,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 54,
-    "questionText": "Türkiye'nin önemli kültür turizmi kentleri olan Edirne, İzmir ve Antalya düşünüldüğünde;\n\nAşağıda verilen turizm değerlerinden hangisi bu üç şehirden herhangi birine ait değildir?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'nin önemli kültür turizmi kentleri olan Edirne, İzmir ve Antalya düşünüldüğünde;\n\nAşağıda verilen turizm değerlerinden hangisi bu üç şehirden herhangi birine ait değildir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q54_img.png",
     "options": [
       {
         "key": "A",
@@ -10264,9 +10264,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 57,
-    "questionText": "Türkiye'de Uludağ (Bursa), Kartalkaya (Bolu), Erciyes (Kayseri), Palandöken (Erzurum) ve Sarıkamış (Kars) merkezlerinin tamamı aşağıdaki turizm türlerinden hangisine uygun destinasyonlardır?",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de Uludağ (Bursa), Kartalkaya (Bolu), Erciyes (Kayseri), Palandöken (Erzurum) ve Sarıkamış (Kars) merkezlerinin tamamı aşağıdaki turizm türlerinden hangisine uygun destinasyonlardır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q57_img.png",
     "options": [
       {
         "key": "A",
@@ -10375,9 +10375,9 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 60,
-    "questionText": "Türkiye'de yaz aylarında sıcak ve bunaltıcı havadan uzaklaşmak ve serin yaylalara çıkmak amacıyla yapılan 'yayla turizmi' dağlık kıyı kuşaklarında çok gelişmiştir.\n\nBuna göre, aşağıdaki yörelerin hangilerinde yayla turizmi diğerlerine göre daha fazla gelişmiştir?\nI. Doğu Karadeniz Dağları (Rize, Trabzon, Artvin)\nII. Ergene Düzlükleri (Edirne)\nIII. Tuz Gölü Çevresi\nIV. Akdeniz Toroslar Kuşağı (Antalya, Mersin, Adana)",
-    "hasImage": false,
-    "image": null,
+    "questionText": "Yukarıdaki Türkiye haritasında dört farklı alan numaralandırılarak gösterilmiştir.\n\nTürkiye'de yaz aylarında sıcak ve bunaltıcı havadan uzaklaşmak ve serin yaylalara çıkmak amacıyla yapılan 'yayla turizmi' dağlık kıyı kuşaklarında çok yaygındır.\n\nBuna göre, haritada numaralandırılan alanların hangilerinde yayla turizmi potansiyeli en yüksektir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h4_q60_img.png",
     "options": [
       {
         "key": "A",
