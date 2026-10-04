@@ -8186,19 +8186,19 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr_h4-q1",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 1,
-    "questionText": "Türkiye'de coğrafi konum, yer şekilleri ve üç tarafının denizlerle çevrili olması iklim ve bitki örtüsü çeşitliliğini büyük ölçüde artırmıştır.\n\nİklim çeşitliliğinin fazla olması aşağıda verilenlerden hangisini doğrudan en az etkiler?",
+    "questionText": "Türkiye'de coğrafi konum, engebeli yer şekilleri ve üç tarafının denizlerle çevrili olması iklim ve doğal bitki örtüsü çeşitliliğini büyük ölçüde artırmıştır.\n\nİklim çeşitliliğinin fazla olması aşağıda verilenlerden hangisini doğrudan en az etkiler?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Hayvancılık faaliyetleri ve türlerini"
+        "text": "Hayvancılık faaliyetleri ve beslenen hayvan türlerini"
       },
       {
         "key": "B",
@@ -8206,32 +8206,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Akarsuların rejimlerini ve debilerini"
+        "text": "Akarsuların akım (debi) ve rejim özelliklerini"
       },
       {
         "key": "D",
-        "text": "Yeraltı maden çeşitliliği ve rezervlerini"
+        "text": "Yeraltı maden çeşitliliği ve maden rezervlerini"
       },
       {
         "key": "E",
-        "text": "Yaz ve kış turizmi etkinliklerini"
+        "text": "Yaz ve kış turizmi etkinliklerinin süresini"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Maden çeşitliliği)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Maden çeşitliliği iklimle değil, jeolojik yapı, volkanizma ve arazinin farklı jeolojik dönemlerde oluşmasıyla (iç kuvvetler) ilgilidir. İklim ise tarım, hayvancılık, akarsular ve turizmi doğrudan etkiler."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yeraltı maden çeşitliliği ve rezervleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Madenlerin oluşumu ve yataklanması yerin derinliklerindeki <strong>jeolojik yapı, volkanizma, metamorfizma ve tektonik hareketlerle</strong> (iç kuvvetler) ilgilidir. İklimin maden çeşitliliği üzerinde doğrudan hiçbir etkisi yoktur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İklim; bitki örtüsünü belirleyerek hayvancılığı, tarım ürünlerini, akarsu rejimlerini ve turizmi doğrudan şekillendirir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklimden etkilenmeyen unsurlar: Madenler, jeotermal enerji, fay hatları ve depremlerdir."
   },
   {
     "id": "cogr_h4-q2",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 2,
-    "questionText": "Aşağıdaki harita uzerinde ayni uzunlukta dort tane guzer-\ngah numaralandirilarak belirlenmistir.\nBu gizergahlarda aynl standartta yapilacak demir\nyolu hatlarindan hangilerinin maliyetinin daha yuk.\nsek olmasl beklenir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q2_img.png",
+    "questionText": "Türkiye'de dağların kıyıya paralel uzandığı ve ortalama yükseltinin fazla olduğu sarp engebeli alanlarda kara ve demir yolu yapım maliyetleri çok yüksektir.\n\nBuna göre, aşağıda verilen güzergâhlardan hangilerinde yapılacak aynı standarttaki demir yolu hatlarının kilometre yapım maliyetinin engebe nedeniyle daha yüksek olması beklenir?\nI. Doğu Karadeniz kıyı ardı dağlık kuşağı (Rize-Artvin)\nII. Kıyı Ege graben ovaları (İzmir-Aydın hattı)\nIII. Hakkâri Dağlık Yöresi\nIV. Konya-Aksaray düzlükleri",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -8239,11 +8239,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "I ve I"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "II ve"
+        "text": "II ve III"
       },
       {
         "key": "D",
@@ -8251,98 +8251,98 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "veIV"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve I)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz (I) ve Hakkâri Yöresi (III) Türkiye'nin en yüksek, dik ve sarp dağlık alanlarıdır. Tünel, viyadük ve köprü ihtiyacı çok fazla olduğu için yol yapım maliyeti en yüksektir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kıyı Ege grabenleri ve Konya düzlüklerinde yer şekilleri sade olduğundan yapım maliyeti çok düşüktür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yol yapım maliyeti en yüksek yerler: Doğu Karadeniz, Batı Karadeniz, Hakkâri ve Menteşe Yöresi'dir."
   },
   {
     "id": "cogr_h4-q3",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 3,
-    "questionText": "Turkiye ekonomisinde, enerji nakil hatlarindan gelen gelir\nmiktari onemli bir paya sahiptir.\nTürkiye'nin boyle bir gelir kaynagina sahip olmasinin\ntemel nedeni asagidakilerden hangisidir?",
+    "questionText": "Türkiye ekonomisinde uluslararası petrol ve doğal gaz boru hatlarından (BTC, Kerkük-Yumurtalık, TANAP, Mavi Akım, TürkAkım vb.) elde edilen transit geçiş gelirleri ve jeopolitik kazanımlar önemli bir paya sahiptir.\n\nTürkiye'nin küresel ölçekte böyle stratejik bir enerji nakil merkezi (enerji koridoru) olmasının temel nedeni aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Sermaye"
+        "text": "Yurt içi sermaye ve finans birikiminin bolluğu"
       },
       {
         "key": "B",
-        "text": "Siyasi otorite"
+        "text": "Yüksek sanayi teknolojisine ve makine parkına sahip olması"
       },
       {
         "key": "C",
-        "text": "is gucu"
+        "text": "Nüfusunun genç ve dinamik iş gücünden oluşması"
       },
       {
         "key": "D",
-        "text": "Kulturel ozellikler"
+        "text": "Kültürel ve tarihi bağlarının çeşitliliği"
       },
       {
         "key": "E",
-        "text": "Cografi konum"
+        "text": "Zengin enerji üreticisi Ortadoğu/Hazar ile büyük tüketici Avrupa arasındaki eşsiz jeopolitik ve coğrafi konumu"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Cografi konum)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Coğrafi ve Jeopolitik Konum)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye, dünyanın en büyük petrol/gaz rezervlerine sahip Hazar ve Ortadoğu ile sanayileşmiş tüketici Avrupa arasında doğal köprüdür. Bu durum doğrudan <strong>jeopolitik coğrafi konumun</strong> sonucudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Boru hatları sermaye veya iş gücüyle değil, Türkiye'nin sağladığı en kısa, güvenli ve ekonomik transit kara güzergâhı olmasıyla açıklanır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye 'Enerji Terminali/Koridoru' unvanını jeopolitik coğrafi konumu sayesinde kazanmıştır."
   },
   {
     "id": "cogr_h4-q4",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 4,
-    "questionText": "Bir yerde kis turizminin gelisebilmesi icin;\nkarin yerde kalma siresi.\nyer sekilleri özellikleri,\nulaşım imkanlarl\nkar kalinligi,\nsermaye\netmenlerinin uygun olmasl gereklidir.\nBuna gore, asagida verilen yerlerden hangisinde bu\nturizm turunun gelismesi beklenmez?",
+    "questionText": "Bir merkezde kış turizmi ve kayak sporlarının gelişebilmesi için;\n• Kar örtüsünün uzun süre yerde kalması ve yeterli kalınlığa ulaşması,\n• Uygun eğimli ve yüksek dağlık yer şekillerinin bulunması,\n• Ulaşım ve konaklama altyapısının yeterli olması gereklidir.\n\nBuna göre, kış mevsimi sıcaklıkları ve iklim koşulları dikkate alındığında aşağıdaki şehirlerimizin hangisinde kış turizminin gelişmesi beklenemez?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Bolu"
+        "text": "Bolu (Köroğlu Dağları - Kartalkaya)"
       },
       {
         "key": "B",
-        "text": "izmir"
+        "text": "İzmir (Kıyı Ege kuşağı)"
       },
       {
         "key": "C",
-        "text": "Kayseri"
+        "text": "Kayseri (Erciyes Dağı)"
       },
       {
         "key": "D",
-        "text": "Bursa"
+        "text": "Bursa (Uludağ)"
       },
       {
         "key": "E",
-        "text": "Erzurum"
+        "text": "Erzurum (Palandöken Dağları)"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (izmir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (İzmir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İzmir Akdeniz iklim sahasında yer alır; kış ayları oldukça ılık ve yağmurludur. Kar yağışı nadiren görülür ve yerde kalmaz; bu nedenle kayak turizmi gelişemez.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Uludağ (Bursa), Kartalkaya (Bolu), Erciyes (Kayseri) ve Palandöken (Erzurum) Türkiye'nin en önemli kış sporları merkezleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kış turizminde Türkiye'nin en eski merkezi Uludağ; en uzun pist ve yüksek kar kalitesine sahip merkezi ise Palandöken'dir."
   },
   {
     "id": "cogr_h4-q5",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 5,
-    "questionText": "Türkiye'deki bazı şehirlerin öne çıkan temel ekonomik faaliyet alanları aşağıdakilerin hangisinde doğru eşleştirilmiştir?\n\n• Zonguldak\n• Antalya\n• İzmit (Kocaeli)\n• Rize",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q5_img.png",
+    "questionText": "Türkiye'deki bazı şehirlerin öne çıkan temel ekonomik fonksiyonları aşağıdakilerin hangisinde doğru eşleştirilmiştir?\n\n• Zonguldak\n• Antalya\n• İzmit (Kocaeli)\n• Rize",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -8366,20 +8366,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Zonguldak taş kömürü havzasıyla madencilik; Antalya kıyı turizmi; İzmit rafineri ve otomotiv sanayisi; Rize çay tarımıyla özdeşleşmiştir."
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Zonguldak taş kömürü çıkarımı ile <strong>madencilik</strong>; Antalya deniz ve kültür değerleriyle <strong>turizm</strong>; İzmit rafineri, kimya ve otomotiv tesisleriyle <strong>sanayi</strong>; Rize ise çay üretimiyle <strong>tarım</strong> fonksiyonu ile özdeşleşmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerdeki fonksiyonlar şehirlerin baskın ekonomik kimlikleriyle uyuşmamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Fonksiyonel şehir eşleştirmelerinde taş kömürü = Zonguldak, petrol = Batman, çay = Rize, seracılık/turizm = Antalya'dır."
   },
   {
     "id": "cogr_h4-q6",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 6,
-    "questionText": "Aşağıdaki harita uzerinde dort alan numaralandirilarak\nkoyu renk ile gosterilmistir.\nHaritada numaralandiriimis alanlardan hangilerinde\nsanayi sektorunun ulke ekonomisine katkisl daha\nfazladir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q6_img.png",
+    "questionText": "Türkiye'de sanayi kuruluşlarının ve fabrikaların dağılışı dengeli değildir; belirli ulaşım ve pazar odaklarında yoğunlaşmıştır.\n\nBuna göre, aşağıda verilen yörelerden hangilerinde sanayi sektörünün ülke ekonomisine ve istihdama katkısı diğerlerine göre çok daha fazladır?\nI. Çatalca-Kocaeli Yöresi (İstanbul, İzmit, Gebze)\nII. Kıyı Ege Bölümü (İzmir, Manisa, Torbalı)\nIII. Hakkâri Dağlık Yöresi\nIV. Taşeli Platosu",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -8387,11 +8387,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "I ve"
+        "text": "I ve III"
       },
       {
         "key": "C",
-        "text": "II ve"
+        "text": "II ve III"
       },
       {
         "key": "D",
@@ -8399,61 +8399,61 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "ve IV"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Çatalca-Kocaeli Türkiye imalat sanayisinin %40'tan fazlasını barındıran en büyük sanayi merkezidir (I). Kıyı Ege (İzmir-Manisa) ise liman ve hammadde avantajıyla Türkiye'nin ikinci büyük sanayi sahasıdır (II).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hakkâri ve Taşeli platoları sarp engebeli yer şekilleri ve ulaşım yetersizliği sebebiyle sanayileşememiştir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sanayi yoğunluğu en yüksek bölge: Marmara; en düşük bölge: Doğu Anadolu'dur."
   },
   {
     "id": "cogr_h4-q7",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 7,
-    "questionText": "Türkiye'de aynı anda birbirinden farklı iklim tiplerinin yaşanması, çok farklı iklim isteklerine sahip tarım ürünlerinin aynı ülkede yetiştirilebilmesini sağlamıştır.\n\nAşağıda verilen tarım ürünü ikililerinden hangisinin aynı ülkede yetiştirilmesi, Türkiye'de farklı iklim tiplerinin görüldüğüne en kesin kanıttır?",
+    "questionText": "Türkiye'de yer şekillerinin ve denizellik-karasallığın etkisiyle çok kısa mesafelerde farklı iklim tipleri yaşanabilmektedir.\n\nAşağıda verilen tarım ürünü ikililerinden hangisinin aynı ülkede doğal olarak yetiştirilebilmesi, Türkiye'de birbirinden tamamen farklı iklim tiplerinin bir arada görüldüğüne en güçlü kanıttır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Çay ve Fındık (İkisi de Karadeniz iklimi)"
+        "text": "Çay ve Fındık (İkisi de bol yağışlı Karadeniz iklimi)"
       },
       {
         "key": "B",
-        "text": "Buğday ve Arpa (İkisi de Karasal iklim)"
+        "text": "Buğday ve Arpa (İkisi de kurak karasal iklim)"
       },
       {
         "key": "C",
-        "text": "Zeytin ve Çay (Akdeniz iklimi ve Karadeniz iklimi)"
+        "text": "Zeytin ve Çay (Kış ılıklığı-yaz kuraklığı isteyen Akdeniz iklimi ile her mevsim bol yağış isteyen Karadeniz iklimi)"
       },
       {
         "key": "D",
-        "text": "Portakal ve Mandalina (İkisi de Akdeniz iklimi)"
+        "text": "Portakal ve Mandalina (İkisi de ılıman Akdeniz iklimi)"
       },
       {
         "key": "E",
-        "text": "Mercimek ve Nohut (İkisi de Karasal iklim)"
+        "text": "Kırmızı Mercimek ve Nohut (İkisi de kurak karasal iklim)"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Zeytin ve Çay)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Zeytin kış ılıklığı ve yaz kuraklığı isteyen tipik bir Akdeniz iklimi ürünü iken; çay her mevsim bol nem ve yağış isteyen Karadeniz iklimi ürünüdür. İkisinin bir arada üretilebilmesi farklı iklim tiplerinin kanıtıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Zeytin ve Çay)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Zeytin tipik bir Akdeniz iklimi ürünüdür; yaz kuraklığı ve kış ılıklığı ister. Çay ise her mevsim düzenli bol yağış ve yüksek nem isteyen Karadeniz iklimi ürünüdür. Bu iki zıt ekolojik ihtiyaca sahip ürünün aynı ülkede yetişebilmesi Türkiye'deki iklim çeşitliliğinin en net kanıtıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, D ve E seçeneklerindeki ürünler aynı iklim kuşağının benzer isteklerine sahip ürünleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklim çeşitliliğinin göstergesi zıt iklim ürünlerinin (örneğin muz ile elma, zeytin ile çay) bir arada üretilmesidir."
   },
   {
     "id": "cogr_h4-q8",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 8,
-    "questionText": "Yer şekillerinin dağlık ve engebeli, eğimin fazla olduğu alanlarda tarım alanları dar ve parçalıdır; bu alanlarda makine kullanımı oldukça zordur.\n\nBuna göre, aşağıdaki coğrafi bölümlerin hangisinde tarım alanlarının diğerlerine göre daha dar ve parçalı olması beklenir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q8_img.png",
+    "questionText": "Yer şekillerinin çok engebeli ve dağlık olduğu yörelerde ekilebilir tarım arazileri vadiler ve yamaçlar arasında dar ve parçalı kalmıştır.\n\nBuna göre, aşağıdaki coğrafi bölümlerin hangisinde tarım alanlarının diğerlerine göre çok daha dar ve parçalı olması beklenir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -8473,69 +8473,69 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Çukurova Yöresi"
+        "text": "Adana Bölümü (Çukurova)"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz Bölümü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz aşırı engebeli topoğrafyası sebebiyle tarım arazilerinin en dar ve parçalı olduğu yerdir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz Bölümü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz'de Kaçkar Dağları kıyıdan itibaren dimdik yükselir; vadi tabanları çok dardır. Düz ova bulunmadığı için tarım alanları küçük bahçeler halinde parçalıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Konya Ovası, Ergene düzlükleri, Şanlıurfa platoları ve Çukurova deltamız geniş ve kesintisiz devasa tarım arazilerine sahiptir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Parçalı ve dar tarım alanı = Doğu Karadeniz ve Hakkâri. Geniş yekpare tarım arazisi = İç Anadolu ve Güneydoğu'dur."
   },
   {
     "id": "cogr_h4-q9",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 9,
-    "questionText": "I. Uretim sürecinde doganin dengesini bozacak ve\ninsan sagligina zararli olabilecek kimyasal madde\nkullanmadan yapilan bir tarım seklidir.\nIl. Yagisin az, sulamanin yetersiz oldugu alanlarda\ntarlalarin bir yil ekilip, bir yil dinlendirilmesi seklinde\nuygulanan bir tarım yontemidir.\nIll. Kis sicaklik ortalamasinin 0 °C'nin altina inmedigi\nyerlerde uygulanan tarım yontemidir. Bu yontem\ntarım urunlerinin mevsimi disinda yetistirilmesine\nolanak saglar.\nYukarida anlatilan tarımsal\nfaaliyetler hangisinde\ndogru verilmistir?",
+    "questionText": "I. Üretim sürecinde sentetik gübre ve kimyasal ilaç kullanmadan, doğaya saygılı yöntemlerle yapılan tarım şeklidir.\nII. Yağışın az ve sulamanın yetersiz olduğu kurak alanlarda tarlaların nem ve mineral toplaması için bir yıl ekilip bir yıl boş bırakılmasıdır.\nIII. Kış sıcaklık ortalamasının yüksek olduğu yerlerde cam veya naylon örtü altında turfanda ürün yetiştirilmesidir.\n\nYukarıda özellikleri verilen tarımsal yöntemler sırasıyla aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Organik Nadas Seracilik"
+        "text": "I: Organik Tarım / II: Nadas / III: Seracılık"
       },
       {
         "key": "B",
-        "text": "intansif Organik Ekstansif"
+        "text": "I: İntansif Tarım / II: Nöbetleşe Ekim / III: Ekstansif Tarım"
       },
       {
         "key": "C",
-        "text": "Seracillk Nadas Organik"
+        "text": "I: Seracılık / II: Nadas / III: Organik Tarım"
       },
       {
         "key": "D",
-        "text": "Organik Ekstansif Seraclik"
+        "text": "I: Organik Tarım / II: Ekstansif Tarım / III: Seracılık"
       },
       {
         "key": "E",
-        "text": "Ekstansif Nadas Organik"
+        "text": "I: Ekstansif Tarım / II: Nadas / III: Nöbetleşe Ekim"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Organik Nadas Seracilik)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I: Organik Tarım / II: Nadas / III: Seracılık)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• I: Kimyasal gübre ve ilaçsız yapılan tarım <strong>organik (ekolojik) tarımdır</strong>.<br>• II: Kurak alanlarda toprağı bir yıl boş bırakma yöntemi <strong>nadas</strong>tır.<br>• III: Kış ılıklığından yararlanılarak örtü altında sebze-meyve üretimi <strong>seracılık</strong>tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İntansif modern sulu tarımdır; ekstansif ise geleneksel kaba yöntemdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Nadas erozyonu hızlandırır; modern tarımda nadas yerine nöbetleşe (münavebeli) ekim yapılır."
   },
   {
     "id": "cogr_h4-q10",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 10,
-    "questionText": "Aşağıdaki haritada Turkiye'de yetistirilen bir tarım urunun\ndağılışi verilmistir.\nBu tarım urunu asagidakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q10_img.png",
+    "questionText": "Türkiye'de özellikle Ege Bölgesi kıyılarında (Edremit Körfezi, Aydın, Manisa, İzmir), Akdeniz kıyı kuşağında, Güney Marmara'da (Gemlik, Mudanya) ve Güneydoğu'nun batısında (Gaziantep, Kilis) yoğun olarak yetiştirilen, kış ılıklığı isteyen maki formasyonuna ait temel tarım ürünü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Aycicegi"
+        "text": "Ayçiçeği"
       },
       {
         "key": "B",
-        "text": "Celtik"
+        "text": "Çeltik (Pirinç)"
       },
       {
         "key": "C",
@@ -8543,26 +8543,26 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Uzim"
+        "text": "Üzüm"
       },
       {
         "key": "E",
-        "text": "Findik"
+        "text": "Fındık"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Zeytin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Zeytin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Zeytin, tipik Akdeniz iklimi bitkisi olup yabani zeytin (delice) maki florasının elemanıdır. Ege, Güney Marmara (Gemlik), Akdeniz ve Güneydoğu'da (Gaziantep/Kilis) yetişir. Don olayına karşı son derece hassastır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ayçiçeği Trakya'da, Fındık Karadeniz'de, Çeltik nehir boylarında yoğunlaşmıştır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sofralık zeytinde Güney Marmara (Gemlik); yağlık zeytinde ise Ege (Edremit, Aydın, İzmir) liderdir."
   },
   {
     "id": "cogr_h4-q11",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 11,
-    "questionText": "Bazi tarım urunleri devlet kontrolunde sinirli alanlarda Ure-\ntilmektedir.\nAşağıdakilerden hangisi bu urunlere ornektir?",
+    "questionText": "Türkiye'de bazı tarım ürünlerinin ekim alanları iklim koşullarından ziyade doğrudan devlet kontrolü ve yasal izinler doğrultusunda sınırlandırılmıştır.\n\nAşağıdaki tarım ürünlerinden hangisinin üretim alanlarının sınırlandırılmasında uyuşturucu ve narkotik madde yapımını engelleme amacı (güvenlik) doğrudan belirleyici olmuştur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -8576,40 +8576,40 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Hashas"
+        "text": "Haşhaş ve Kenevir"
       },
       {
         "key": "D",
-        "text": "incir"
+        "text": "İncir"
       },
       {
         "key": "E",
-        "text": "Findik"
+        "text": "Fındık"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Hashas)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Haşhaş ve Kenevir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haşhaş ve kenevir uyuşturucu madde yapımında hammadde olarak kullanılabileceği için Toprak Mahsulleri Ofisi (TMO) denetiminde ve belirlenen illerde (Afyonkarahisar, Konya vb.) kontrollü olarak ekilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Muz iklim yetersizliğinden; incir ve zeytin ise doğal iklim sınırlarından ötürü kısıtlıdır; devlet kısıtlaması yoktur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Devlet denetimindeki ürünler: Haşhaş/Kenevir (uyuşturucu riski), Pirinç/Çeltik (sıtma riski), Şeker pancarı (kota/fabrika kapasitesi), Tütün (kalite koruma)."
   },
   {
     "id": "cogr_h4-q12",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 12,
-    "questionText": "Bir yerde doğal kosullarin etkisiyle en cok yetistirilen ta-\nrim urunune o yer icin mono kultur bitki denir.\nBuna gore, asagidakilerden hangisinde verilen tarım\nurunu - yer eslestirmesi bu duruma ornek olusturmaz?",
+    "questionText": "Bir bölgede doğal koşulların (özellikle iklim ve toprak) etkisiyle en çok yetiştirilen ve o yöre ile özdeşleşen hâkim tarım ürününe 'monokültür bitki' adı verilir.\n\nBuna göre, aşağıdakilerden hangisinde verilen tarım ürünü - yöre eşleştirmesi monokültür bitki kavramına örnek oluşturmaz?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Aycicegi - Edirne"
+        "text": "Ayçiçeği - Edirne"
       },
       {
         "key": "B",
-        "text": "Findik - Ordu"
+        "text": "Fındık - Ordu"
       },
       {
         "key": "C",
@@ -8617,26 +8617,26 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Bugday - Artvin"
+        "text": "Buğday - Artvin"
       },
       {
         "key": "E",
-        "text": "Cay - Rize"
+        "text": "Çay - Rize"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Bugday - Artvin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Buğday - Artvin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Artvin her mevsim yağışlı, aşırı dağlık ve ormanlık bir ildir. Buğday ise yaz kuraklığı ve geniş düzlükler isteyen bir tahıldır; dolayısıyla Artvin'de buğday monokültür olamaz (hatta buğday tarımı neredeyse hiç yapılmaz).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Rize'de çay, Ordu'da fındık, Anamur'da muz, Edirne'de ayçiçeği o yörelerin tartışmasız monokültür bitkileridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Monokültür tarım ürünü, bölge tarım alanlarının ezici çoğunluğunu kaplayan üründür."
   },
   {
     "id": "cogr_h4-q13",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 13,
-    "questionText": "Yazlarin kisa surdugu ve sıcaklığın dusuk oldugu yerler\nsebze uretimine elverisli degildir.\nBuna gore, asagidaki\nimlerden hangisinin cevresinde\nsebze uretimi\nazdir?",
+    "questionText": "Sebze tarımı; uzun bir vejetasyon (büyüme) süresine, yüksek yaz sıcaklığına ve don olaylarının az olmasına ihtiyaç duyar. Yazların çok kısa ve serin sürdüğü yüksek platolarda açık tarlada sebze üretimi oldukça kısıtlıdır.\n\nBuna göre, aşağıdaki illerimizin hangisinde iklim şartları ve yükselti sebebiyle açık alanda sebze üretimi diğerlerine göre en azdır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -8658,32 +8658,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Canakkele"
+        "text": "Çanakkale"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Erzurum)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Erzurum)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Erzurum yaklaşık 1900 metre rakımda yer alır; sert karasal iklim egemendir. Donlu gün sayısı 150 günü aşar ve yaz dönemi çok kısadır. Bu nedenle domates, biber, patlıcan gibi sebzeler olgunlaşamaz; açık alan sebzeciliği yapılamaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Antalya, Bursa, Manisa ve Çanakkale Türkiye'nin sebze ambarı olan kıyı/çukur ova illeridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de sebzeciliğin en az geliştiği yer: Erzurum-Kars-Ardahan yöresidir."
   },
   {
     "id": "cogr_h4-q14",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 14,
-    "questionText": "Temel besin maddelerinden olan buğday; ilkbahar büyüme döneminde neme, yaz olgunlaşma döneminde ise tam kuraklığa ve yüksek sıcaklığa ihtiyaç duyar.\n\nBuna göre, aşağıdaki yörelerin hangisinde her mevsimin yağışlı geçmesi sebebiyle buğday tarımı yapılamaz?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q14_img.png",
+    "questionText": "Temel besin maddelerimizden olan buğday; ilkbahar büyüme evresinde neme, yaz hasat ve olgunlaşma döneminde ise tam kuraklığa ve yüksek sıcaklığa ihtiyaç duyar.\n\nBuna göre, aşağıdaki yörelerin hangisinde yaz mevsiminin de sürekli yağışlı ve nemli geçmesi sebebiyle buğday tarımı kesinlikle yapılamaz?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "İç Anadolu Bölgesi"
+        "text": "İç Anadolu Bölgesi (Konya Havzası)"
       },
       {
         "key": "B",
-        "text": "Güneydoğu Anadolu Bölgesi"
+        "text": "Güneydoğu Anadolu ovaları"
       },
       {
         "key": "C",
@@ -8691,36 +8691,36 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Ege Bölgesi iç kısımları"
+        "text": "Kıyı Ege graben ovaları"
       },
       {
         "key": "E",
-        "text": "Doğu Karadeniz kıyı kuşağı"
+        "text": "Doğu Karadeniz kıyı kuşağı (Rize-Trabzon)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyılarında yaz kuraklığı bulunmadığı ve her mevsim yağışlı olduğu için buğday taneleri olgunlaşamaz ve çürür."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyılarında her mevsim yağış görülür; kurak bir hasat dönemi yoktur. Sürekli nem ve yağış buğday başaklarının çürümesine ve mantar hastalıklarına yol açtığından buğday üretilemez.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İç Anadolu, Güneydoğu ve Ergene yaz kuraklığının belirgin olduğu temel buğday üretim merkezlerimizdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Doğu Karadeniz kıyılarında buğday yetişmediği için temel ekmek hammaddesi tarihsel olarak mısır (mısır ekmeği) olmuştur."
   },
   {
     "id": "cogr_h4-q15",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 15,
-    "questionText": "Ana vatani Guneydogu Asya olan bu urunun Turkiye'de-\nki baslica yetistirilme alanlari Akdeniz ve Ege kiylaridir.\nDon olaylarindan olumsuz yonde etkilenen bu urunun\nen cok yetistirildigi yerler Adana, Hatay, Mersin ve Antal-\nya'dir. Mikroklima ozelliginden dolayl Karadeniz kiyilarl-\nnin bazi kesimlerinde de yetistirilebilmektedir.\nHakkinda bilgi verilen bu urun asagidakilerden han-\ngisidir?",
+    "questionText": "• Ana vatanı Güneydoğu Asya olan bu ürün Türkiye'de Akdeniz ve Ege kıyılarında geniş alanlarda üretilir.\n• Kışın sıcaklığın 0 °C'nin altına düşmesine (don olaylarına) karşı son derece hassastır.\n• Adana, Mersin, Antalya ve Hatay en çok yetiştirildiği illerdir.\n• Fön rüzgârları ve mikroklima etkisi sayesinde Doğu Karadeniz'de Rize kıyılarında da yetiştirilebilmektedir.\n\nYukarıda özellikleri verilen tarım ürünü grubu aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Aycicegi"
+        "text": "Ayçiçeği"
       },
       {
         "key": "B",
-        "text": "Turuncgiller"
+        "text": "Turunçgiller (Portakal, Mandalina, Limon)"
       },
       {
         "key": "C",
@@ -8728,32 +8728,32 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Pirinc"
+        "text": "Pirinç (Çeltik)"
       },
       {
         "key": "E",
-        "text": "Findik"
+        "text": "Fındık"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Turuncgiller)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Turunçgiller)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Turunçgiller (narenciye) Akdeniz ikliminin kış ılıklığına bağımlıdır. Türkiye üretiminin %85'i Akdeniz kıyılarından (Adana, Mersin, Hatay, Antalya) sağlanır. Rize'de mikroklima olarak mandalina yetişmesi de meşhurdur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Elma dona en dayanıklı meyvedir; ayçiçeği ve pirinç tahıl/yağ bitkisidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Turunçgil = Akdeniz ve Ege kıyıları + Rize mikrokliması."
   },
   {
     "id": "cogr_h4-q16",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 16,
-    "questionText": "Türkiye'de yetiştirilen aşağıdaki tarım ürünleri ile en yoğun üretildikleri bölgeler eşleştirmelerinden hangisi doğrudur?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q16_img.png",
+    "questionText": "Türkiye'de yetiştirilen aşağıdaki tarım ürünleri ile Türkiye üretiminde ilk sırada yer alan coğrafi bölgeler eşleştirmelerinden hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "İncir: İç Anadolu / Pamük: Karadeniz / Ayçiçeği: Akdeniz"
+        "text": "İncir: İç Anadolu / Pamuk: Karadeniz / Ayçiçeği: Akdeniz"
       },
       {
         "key": "B",
@@ -8765,7 +8765,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Tütün: Güneydoğu / Buğday: Doğu Karadeniz / Zeytin: Erzurum"
+        "text": "Tütün: Doğu Anadolu / Buğday: Doğu Karadeniz / Zeytin: Doğu Anadolu"
       },
       {
         "key": "E",
@@ -8773,279 +8773,57 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (İncir: Ege / Ayçiçeği: Marmara / Fındık: Karadeniz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İncir üretiminde Ege (Aydın), ayçiçeğinde Marmara (Tekirdağ/Edirne), fındıkta ise Karadeniz (Ordu/Giresun) birinci sıradadır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (İncir: Ege / Ayçiçeği: Marmara / Fındık: Karadeniz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İncirde Ege Bölgesi (özellikle Aydın ili) açık ara Türkiye ve dünya lideridir.<br>• Ayçiçeğinde Marmara / Trakya Bölümü (Tekirdağ, Edirne) birinci sıradadır.<br>• Fındıkta Karadeniz Bölgesi (Ordu, Giresun, Trabzon) dünya üretiminin lideridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerdeki tüm eşleştirmeler coğrafi yönden tamamen hatalıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Ege: İncir, Zeytin, Haşhaş, Tütün, Üzüm (ZÜHTİ şifresi). Marmara: Ayçiçeği, Pirinç."
   },
   {
     "id": "cogr_h4-q17",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 17,
-    "questionText": "Aşağıdaki grafikte ulkemizde bulunan bir yere ait yllik\nsicaklik ve yağış dağılışi gosterilmistir\nSicaklik()\nYagis (mm)\n+150\n+125\n100\nSicaklik\nYagis\nSMNMHTAEEKA\n-10\nBu yerde asagidaki hayvan turlerinden hangisinin\ndaha fazla gelismesi beklenir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q17_img.png",
+    "questionText": "Türkiye'de bir yörenin iklim özellikleri incelendiğinde; kışların çok sert ve dondurucu geçtiği, en fazla yağışın yaz aylarında düştüğü ve bu sayede yaz boyunca yeşil kalan gür Alpin çayır örtüsünün bulunduğu görülmektedir (Erzurum-Kars Platosu).\n\nBöyle bir iklim ve bitki örtüsüne sahip yörede aşağıdaki hayvancılık türlerinden hangisinin doğal koşullara bağlı olarak en fazla gelişmesi beklenir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Sigir"
+        "text": "Büyükbaş mera hayvancılığı (Sığır yetiştiriciliği)"
       },
       {
         "key": "B",
-        "text": "Koyun"
+        "text": "Küçükbaş bozkır hayvancılığı (Koyun)"
       },
       {
         "key": "C",
-        "text": "Deve"
+        "text": "Deve yetiştiriciliği"
       },
       {
         "key": "D",
-        "text": "Kil kecisi"
+        "text": "Kıl keçisi yetiştiriciliği"
       },
       {
         "key": "E",
-        "text": "Tiftik kecisi"
+        "text": "Tiftik (Ankara) keçisi yetiştiriciliği"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Sigir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Büyükbaş mera hayvancılığı / Sığır)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Yaz yağışlarıyla beslenen gür otlaklar ve çayırlar büyük gövdeli sığırların otlaması için en elverişli ortamdır. Kuzeydoğu Anadolu'da (Erzurum, Kars, Ardahan) büyükbaş mera hayvancılığı hâkim ekonomik faaliyettir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Koyun kısa bozkır otlarını, kıl keçisi ise kayalık maki çalılarını sever; çayırlarda sığır öne çıkar.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaz yağışı + Gür Çayır = Büyükbaş Mera Hayvancılığı (Erzurum-Kars)."
   },
   {
     "id": "cogr_h4-q18",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 18,
-    "questionText": "Buyukbas besi hayvanciligi\nKumes hayvancilig\nWl. ipek bocekciligi\nIV. Aricllik\nYukarida verilen hayvancilik\nturlerinden hangi ikisi\nUzerinde doğal kosullarin etkisi daha fazladir?",
+    "questionText": "I. Büyükbaş besi ve ahır hayvancılığı\nII. Kümes hayvancılığı\nIII. İpek böcekçiliği (Dut yaprağına bağımlı)\nIV. Arıcılık (Çiçek ve bitki örtüsüne bağımlı)\n\nYukarıda verilen hayvancılık türlerinden hangi ikisi üzerinde doğal çevre koşullarının, iklim ve bitki örtüsünün doğrudan etkisi en fazladır?",
     "hasImage": false,
     "image": null,
-    "options": [
-      {
-        "key": "A",
-        "text": "I ve 1"
-      },
-      {
-        "key": "B",
-        "text": "I ve"
-      },
-      {
-        "key": "C",
-        "text": "II ve II!"
-      },
-      {
-        "key": "D",
-        "text": "II ve IV"
-      },
-      {
-        "key": "E",
-        "text": "l ve IV"
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (l ve IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
-  },
-  {
-    "id": "cogr_h4-q19",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 19,
-    "questionText": "Baliklar, mevsim degisimleri sonucunda soguk yerlerden\nsicak yerlere dogru göç etmektedirler. Bu nedenle balik-\nlarin gos yollari uzerinde bulunan yerlerde balikciik faa-\nliyetleri yogundur.",
-    "hasImage": false,
-    "image": null,
-    "options": [
-      {
-        "key": "A",
-        "text": "Bati Anadolu kilyilari"
-      },
-      {
-        "key": "B",
-        "text": "Canakkale Bogazl"
-      },
-      {
-        "key": "C",
-        "text": "Karaburun Yarimadasl"
-      },
-      {
-        "key": "D",
-        "text": "Antalya Korfezi"
-      },
-      {
-        "key": "E",
-        "text": "Silifke klyilari"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Canakkale Bogazl)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
-  },
-  {
-    "id": "cogr_h4-q20",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 20,
-    "questionText": "Türkiye'de mera hayvancılığı doğrudan doğal bitki örtüsü ve iklime bağlıdır.\n\nBuna göre;\n• Yaz yağışlarıyla yeşeren gür çayırlar üzerinde: Büyükbaş mera hayvancılığı (Sığır)\n• İlkbahar yağışlarıyla yeşeren bozkırlar üzerinde: Küçükbaş hayvancılık (Koyun)\n• Maki ve engebeli dağlık alanlarda: Kıl keçisi\n\nyaygındır. Buna göre maki ve engebeli dağlık alanlarda kıl keçisi yetiştiriciliğinin en yaygın olduğu coğrafi bölge hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q20_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "İç Anadolu Bölgesi"
-      },
-      {
-        "key": "B",
-        "text": "Akdeniz Bölgesi (Toroslar kuşağı)"
-      },
-      {
-        "key": "C",
-        "text": "Güneydoğu Anadolu Bölgesi"
-      },
-      {
-        "key": "D",
-        "text": "Marmara Bölgesi"
-      },
-      {
-        "key": "E",
-        "text": "Doğu Karadeniz kıyıları"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Akdeniz Bölgesi - Toroslar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kıl keçisi engebeli araziye ve çalı/maki örtüsüne dayanıklı olduğundan Akdeniz'de Toroslar, Teke ve Taşeli platolarında yoğunlaşmıştır."
-  },
-  {
-    "id": "cogr_h4-q21",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 21,
-    "questionText": "Ulkemiz doğal bitki ortusunun cesitliligine bagli olarak arl-\nclik bakimindan oldukca elverisli sartlara sahiptir. Cicekli\nbitkilerin ve cam agaclarinin varligi aricilik faaliyetlerini\nolumlu yonde etkilemistir.\nBuna gore, asagidaki\nyerlerden hangisinde aricik\nfaaliyetlerinin gelismesi icin gerekli olan doğal ko-\nsullarin en az oldugu soylenebilir?",
-    "hasImage": false,
-    "image": null,
-    "options": [
-      {
-        "key": "A",
-        "text": "Mugla ve cevresi"
-      },
-      {
-        "key": "B",
-        "text": "Rize ve cevresi"
-      },
-      {
-        "key": "C",
-        "text": "Hakkari ve cevresi"
-      },
-      {
-        "key": "D",
-        "text": "Ordu ve cevresi"
-      },
-      {
-        "key": "E",
-        "text": "Konya ve cevresi"
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Konya ve cevresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
-  },
-  {
-    "id": "cogr_h4-q22",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 22,
-    "questionText": "Turkiye'de\nurunlerin\nhayvansal\nUretiminde yildan\nylla buyuk dalgalanmalarin gorulmesi asagidakiler-\nden hangisine kanit olusturur?",
-    "hasImage": false,
-    "image": null,
-    "options": [
-      {
-        "key": "A",
-        "text": "Hayvancilik faaliyetlerinin doğal kosullara bagll yapil- digina"
-      },
-      {
-        "key": "B",
-        "text": "Hayvansal urunlerin ic tuketimin fazla olduguna"
-      },
-      {
-        "key": "C",
-        "text": "Dis piyasada cok fazla talep gormedigine"
-      },
-      {
-        "key": "D",
-        "text": "HayVan soylarinin islah edilemedigine"
-      },
-      {
-        "key": "E",
-        "text": "Hayvanciliktan elde edilen verimin dusuk olduguna"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Hayvancilik faaliyetlerinin doğal kosullara bagll yapil- digina)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
-  },
-  {
-    "id": "cogr_h4-q23",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 23,
-    "questionText": "Kıl keçisi, yer şekilleri bakımından dağlık ve engebeli, bitki örtüsü bakımından maki ve çalılık araziye çok iyi uyum sağlamış bir küçükbaş hayvandır.\n\nBuna göre aşağıdaki yörelerin hangisi kıl keçisi yetiştiriciliği açısından Türkiye'nin en önemli merkezidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q23_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Ergene Ovası"
-      },
-      {
-        "key": "B",
-        "text": "Bafra Ovası"
-      },
-      {
-        "key": "C",
-        "text": "Konya Ovası"
-      },
-      {
-        "key": "D",
-        "text": "Teke ve Taşeli Platoları (Toroslar)"
-      },
-      {
-        "key": "E",
-        "text": "Iğdır Ovası"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de kıl keçisi yetiştiriciliğinin en yaygın olduğu yer Akdeniz Bölgesi'ndeki Teke ve Taşeli platolarıdır."
-  },
-  {
-    "id": "cogr_h4-q24",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 24,
-    "questionText": "Turkiye'de geleneksel yontemlerle yapilan hayvancilik fa-\naliyetleri, yer sekilleri ve iklim sartlarinin tarımsal faaliyet-\nlere uygun olmadigi bölgelerde daha yaygindir.\nIV\nBuna gore, yukaridaki haritada gosterilen alanlarin han-\ngilerinde mera hayvanciliginin yaygin olmasi beklenir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q24_img.png",
     "options": [
       {
         "key": "A",
@@ -9053,7 +8831,229 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "I ve Im"
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "II ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve IV"
+      },
+      {
+        "key": "E",
+        "text": "III ve IV"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (III ve IV - İpek böcekçiliği ve Arıcılık)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Arıcılık (IV) tamamen hava koşullarına, ilkbahar donlarına ve çiçekli bitki florasına bağımlıdır. İpek böcekçiliği (III) doğrudan taze dut yaprağı üretimine bağlıdır. Bu iki faaliyet doğal koşullardan en çok etkilenir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Büyükbaş besi (I) ve kümes hayvancılığı (II) kapalı, iklimlendirmeli modern çiftliklerde yapay yemle yapılır; doğal hava şartlarından bağımsızdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Doğal koşullara en az bağımlı olan: Kümes ve Besi hayvancılığı; en çok bağımlı olan: Arıcılık ve Mera hayvancılığıdır."
+  },
+  {
+    "id": "cogr_h4-q19",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 19,
+    "questionText": "Göçmen balıklar mevsim geçişlerinde Karadeniz ile Ege ve Akdeniz arasındaki sıcaklık ve tuzluluk farkı nedeniyle boğazlar üzerinden göç ederler. Bu nedenle su altı akıntılarının ve göç yollarının kesiştiği alanlarda dalyan ve boğaz balıkçılığı çok yoğun yapılır.\n\nBuna göre, Türkiye'de mevsimlik balık göçü yolları üzerinde yer aldığı için geleneksel balık avcılığının en verimli yapıldığı geçiş alanı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Batı Anadolu kıyıları"
+      },
+      {
+        "key": "B",
+        "text": "Çanakkale ve İstanbul Boğazı"
+      },
+      {
+        "key": "C",
+        "text": "Karaburun Yarımadası"
+      },
+      {
+        "key": "D",
+        "text": "Antalya Körfezi"
+      },
+      {
+        "key": "E",
+        "text": "Silifke kıyıları"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Çanakkale ve İstanbul Boğazı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Karadeniz ile Akdeniz arasındaki üst ve alt akıntılar boğazlar üzerinden gerçekleşir. Palamut, lüfer, istavrit gibi göçmen balıklar sonbahar ve ilkbaharda İstanbul ve Çanakkale boğazlarından geçerken yoğun şekilde avlanır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Açık körfezler balık sürülerinin dar bir kanala sıkışmasını sağlamaz; boğazlar doğal bir balık kapanıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Boğazlar balık göç koridoru olması sebebiyle avlanma veriminin en yüksek olduğu su yollarıdır."
+  },
+  {
+    "id": "cogr_h4-q20",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 20,
+    "questionText": "Türkiye'de mera hayvancılığı doğrudan doğal bitki örtüsü ve iklime bağlıdır.\n\nBuna göre;\n• Yaz yağışlarıyla yeşeren gür çayırlar üzerinde: Büyükbaş sığır yetiştiriciliği,\n• İlkbahar yağışlarıyla yeşeren bozkırlar üzerinde: Küçükbaş koyun yetiştiriciliği,\n• Maki ve kayalık dağlık alanlarda: Kıl keçisi yetiştiriciliği\n\nyaygındır. Buna göre, maki ve engebeli karstik araziye bağlı olarak kıl keçisi yetiştiriciliğinin en yaygın olduğu coğrafi bölge aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İç Anadolu Bölgesi"
+      },
+      {
+        "key": "B",
+        "text": "Akdeniz Bölgesi (Toroslar kuşağı - Teke ve Taşeli)"
+      },
+      {
+        "key": "C",
+        "text": "Güneydoğu Anadolu Bölgesi"
+      },
+      {
+        "key": "D",
+        "text": "Marmara / Ergene Bölümü"
+      },
+      {
+        "key": "E",
+        "text": "Doğu Karadeniz kıyı kuşağı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Akdeniz Bölgesi - Toroslar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kıl keçisi engebeli ve sarp karstik kayalık arazilere kolay tırmanır; bodur çalı ve meşe/maki filizlerini yiyerek beslenir. Akdeniz'de Toroslar, Teke ve Taşeli platoları kıl keçisinin yurdudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İç Anadolu bozkırında koyun, Doğu Anadolu çayırında sığır yaygındır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kıl keçisi ormanlara ve fidanlara zarar verdiği gerekçesiyle devlet tarafından keçi sayısı belirli dönemlerde denetlenmiştir."
+  },
+  {
+    "id": "cogr_h4-q21",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 21,
+    "questionText": "Türkiye, doğal bitki örtüsünün ve zengin kır çiçeklerinin varlığı sayesinde arıcılık açısından oldukça elverişli şartlara sahiptir. Ancak tekdüze bitki örtüsüne sahip, kurak ve tarımsal ilaçlamanın yoğun olduğu düz ovalarda arıcılık potansiyeli düşüktür.\n\nBuna göre, aşağıdaki yörelerin hangisinde arıcılık faaliyetlerinin gelişmesi için gerekli doğal koşulların en az olduğu söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Muğla ve Menteşe Yöresi (Çam balı)"
+      },
+      {
+        "key": "B",
+        "text": "Rize ve Kaçkar etekleri (Anzer yayla balı)"
+      },
+      {
+        "key": "C",
+        "text": "Hakkâri Yüksek Dağlık Yöresi"
+      },
+      {
+        "key": "D",
+        "text": "Ordu ve Doğu Karadeniz kıyı ardı"
+      },
+      {
+        "key": "E",
+        "text": "Konya Kapalı Havzası ve Tuz Gölü çevresi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Konya Kapalı Havzası ve Tuz Gölü çevresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Konya ve Tuz Gölü çevresi kurak, ormansız, bitki çeşitliliği zayıf ve tekdüze tarım alanlarıyla kaplıdır; arıcılık için gerekli zengin çiçek ve orman florası bulunmaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Muğla (çam balı), Rize/Ordu (kestane ve çiçek balı) ve Hakkâri zengin dağ florasıyla Türkiye'nin bal üretim merkezleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Arıcılık dağlık, engebeli ve zengin bitki örtülü yerleri sever; düz ve kurak bozkırları sevmez."
+  },
+  {
+    "id": "cogr_h4-q22",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 22,
+    "questionText": "Türkiye'de et ve süt gibi hayvansal ürünlerin toplam üretim miktarında yıldan yıla belirgin dalgalanmaların görülmesi aşağıdakilerden hangisinin kesin bir kanıtıdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hayvancılık faaliyetlerinin açık meralara, iklime ve doğal koşullara bağımlı olarak yürütüldüğüne"
+      },
+      {
+        "key": "B",
+        "text": "Hayvansal ürünlerde iç tüketim talebinin sürekli azaldığına"
+      },
+      {
+        "key": "C",
+        "text": "Dış piyasalarda Türk hayvansal ürünlerine talebin kalmadığına"
+      },
+      {
+        "key": "D",
+        "text": "Türkiye'de hayvan soylarının ıslah edilemediğine"
+      },
+      {
+        "key": "E",
+        "text": "Hayvancılıkla uğraşan nüfusun her yıl hızla azaldığına"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğal koşullara bağımlılık)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Mera hayvancılığında üretim doğrudan o yılki yağış miktarına ve otlak verimine bağlıdır. Kurak yıllarda otlar cılız kaldığı için et ve süt üretimi düşer, yağışlı yıllarda artar. Bu dalgalanma açıkça doğal çevreye bağımlılığı kanıtlar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Modern besi ve ahır hayvancılığında ise üretim suni yemle kapalı alanda yapıldığı için yıldan yıla üretim dalgalanması yaşanmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tarımda ve hayvancılıkta 'yıldan yıla üretim dalgalanması' her zaman 'doğal koşullara/iklime bağımlılığın' göstergesidir."
+  },
+  {
+    "id": "cogr_h4-q23",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 23,
+    "questionText": "Kıl keçisi, yer şekilleri bakımından sarp ve dağlık, bitki örtüsü bakımından maki ve çalılık araziye çok iyi uyum sağlamış dayanıklı bir küçükbaş hayvandır.\n\nBuna göre aşağıdaki alanların hangisi kıl keçisi yetiştiriciliği açısından Türkiye'nin en önemli merkezidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ergene Havzası düzlükleri"
+      },
+      {
+        "key": "B",
+        "text": "Bafra ve Çarşamba deltaları"
+      },
+      {
+        "key": "C",
+        "text": "Konya Ovası"
+      },
+      {
+        "key": "D",
+        "text": "Teke ve Taşeli Platoları (Toros Dağları kuşağı)"
+      },
+      {
+        "key": "E",
+        "text": "Iğdır Ovası"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Teke ve Taşeli platoları kalkerli, kayalık, engebeli yapısı ve bol maki örtüsüyle kıl keçisi için en ideal doğal yaşam sahasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene, Konya ve Bafra düz ova niteliğinde olup koyun ve sığır besiciliğine uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kıl keçisi = Teke-Taşeli Platoları ve Toroslar."
+  },
+  {
+    "id": "cogr_h4-q24",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 24,
+    "questionText": "Geleneksel yöntemlerle yapılan mera hayvancılığı, yer şekillerinin engebeli veya iklim şartlarının sert olup tarımsal faaliyetlere elverişsiz olduğu alanlarda halkın en temel geçim kaynağıdır.\n\nBuna göre, aşağıdaki yörelerin hangilerinde arazinin engebeli veya yüksek olması sebebiyle mera hayvancılığı tarıma göre çok daha baskın bir ekonomik faaliyettir?\nI. Ergene Havzası\nII. Erzurum-Kars Platosu (Yüksek çayırlar)\nIII. Çukurova Deltası\nIV. Konya Ovası\nV. Teke ve Taşeli Platoları (Karstik engebe)",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
       },
       {
         "key": "C",
@@ -9065,24 +9065,24 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "IVveV"
+        "text": "IV ve V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (II ve V)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve V)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Erzurum-Kars Platosu'nda (II) yüksek rakım ve sert karasal iklim nedeniyle tarım sınırlıdır, mera sığırcılığı hâkimdir. Teke ve Taşeli platolarında (V) karstik kayalık arazi tarıma izin vermez, kıl keçisi mera faaliyeti hâkimdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene, Çukurova ve Konya Türkiye'nin en büyük tarım ve tahıl/endüstri bitkisi ambarlarıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tarımın yapılamadığı yüksek/engebeli arazilerde hayvancılık zorunlu ekonomik faaliyet haline gelir."
   },
   {
     "id": "cogr_h4-q25",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 25,
-    "questionText": "Türkiye'de volkanik arazilerin yaygınlığı, farklı jeolojik zamanlara ait kayaçların bulunması ve kırıklı hatlar sebebiyle maden çeşitliliğinin en fazla olduğu coğrafi bölüm aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q25_img.png",
+    "questionText": "Türkiye'de volkanik arazilerin yaygınlığı, farklı jeolojik zamanlara ait kayaçların bir arada bulunması ve kırıklı metamorfik yapılar sebebiyle maden çeşitliliği ve yataklarının en zengin olduğu coğrafi bölüm aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -9102,22 +9102,22 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Yukarı Fırat Bölümü (Elazığ - Malatya)"
+        "text": "Yukarı Fırat Bölümü (Elazığ - Malatya çevresi)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Yukarı Fırat Bölümü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de maden çeşitliliği ve rezerv bakımından en zengin yer Doğu Anadolu'da Yukarı Fırat Bölümü'dür (özellikle Elazığ ve Malatya çevresi)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yukarı Fırat Bölümü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de hem maden çeşitliliği hem de cevher rezervi bakımından en zengin coğrafi bölüm Doğu Anadolu'da yer alan <strong>Yukarı Fırat Bölümü</strong>'dür (özellikle Elazığ: krom, bakır, kurşun, çinko ve Malatya: demir).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene ve Konya düz sedimenter havzalardır; maden çeşitliliği son derece fakirdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de maden çeşitliliğinin en fazla olduğu il: Elazığ; bölüm: Yukarı Fırat Bölümü'dür."
   },
   {
     "id": "cogr_h4-q26",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 26,
-    "questionText": ": Seydisehir\nSusurluk\n.Hasancelebi\n: Mazidag!\nYukarida gelisiminde madencilik faaliyetlerinin onemli rol\noynadigi bazl sehirler verilmistir.\nBu sehirler ile uretimi yapilan maden turleri eslestiril\ndiginde asagidakilerden hangisi disarida kalir?",
+    "questionText": "Aşağıda gelişiminde madencilik faaliyetlerinin belirleyici rol oynadığı bazı merkezler verilmiştir:\n• Seydişehir\n• Susurluk\n• Hasançelebi\n• Mazıdağı\n\nBu merkezler ile buralarda çıkarılan maden türleri eşleştirildiğinde aşağıdakilerden hangisi dışarıda kalır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -9127,7 +9127,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "Boksit"
+        "text": "Boksit (Alüminyum)"
       },
       {
         "key": "C",
@@ -9143,18 +9143,18 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Tuz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tuz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Seydişehir -> Boksit (Alüminyum)<br>• Susurluk -> Bor mineralleri<br>• Hasançelebi -> Demir<br>• Mazıdağı -> Fosfat<br>Eşleştirmede <strong>Tuz</strong> madeni dışarıda kalır (Tuz; Tuz Gölü, Çankırı veya İzmir Çamaltı tuzlasında üretilir).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, C ve E şıklarındaki madenlerin tamamı verilen merkezlerle birebir örtüşür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mazıdağı = Fosfat; Seydişehir = Boksit; Divriği/Hasançelebi = Demir."
   },
   {
     "id": "cogr_h4-q27",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 27,
-    "questionText": "• Elyaf, Isiya dayanikli cam, ilac, jet yakiti gibi bircok alan-\nda kullanilir.\nTurkiye'deki baslica yataklarl Susurluk, Bigadic (Bal-",
+    "questionText": "• Isıya dayanıklı cam (borcam), seramik, deterjan, ilaç sanayisi, nükleer reaktörler ve roket/jet yakıtı gibi yüzlerce alanda kullanılır.\n• Dünya toplam rezervlerinin yaklaşık %73'ü Türkiye'de bulunmaktadır.\n• Türkiye'deki başlıca yatakları Balıkesir (Bigadiç, Susurluk, Sultançayırı), Kütahya (Emet), Eskişehir (Kırka) ve Bursa (Kestelek)'tadır.\n\nYukarıda özellikleri ve çıkarım alanları verilen stratejik maden aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -9172,7 +9172,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Altin"
+        "text": "Altın"
       },
       {
         "key": "E",
@@ -9180,18 +9180,18 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Bor mineralleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bor mineralleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'nin dünyada rezerv birincisi olduğu en stratejik maden <strong>Bor mineralleridir</strong>. Dünya rezervinin %73'ünden fazlasına sahiptir. Balıkesir, Kütahya ve Eskişehir havzalarında çıkarılır; Bandırma ve Kırka tesislerinde işlenir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Demir ağır sanayide, krom paslanmaz çelikte, boksit alüminyumda kullanılır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Bor mineralleri dünya rezerv birinciliğimiz olan en prestijli madenimizdir."
   },
   {
     "id": "cogr_h4-q28",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 28,
-    "questionText": "Alüminyumun ana ham maddesidir. Hafif ve dayanıklı olması sebebiyle inşaat, otomotiv, uçak sanayisi ve ambalaj sektöründe yaygın şekilde kullanılır. Konya Seydişehir tesislerinde işlenen bu maden aşağıdakilerden hangisidir?",
+    "questionText": "Alüminyum metalinin ana ham maddesidir. Oldukça hafif, korozyona dayanıklı ve esnek olması sebebiyle uçak, otomotiv, inşaat ve konserve ambalaj sanayisinde geniş kullanım alanına sahiptir.\n\nKonya (Seydişehir) ve Antalya (Akseki) yataklarından çıkarılıp Seydişehir Alüminyum Tesisleri'nde işlenen bu maden aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -9217,24 +9217,24 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Boksit)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Alüminyumun ham maddesi boksittir. Türkiye'de en önemli boksit yatağı Konya Seydişehir ve Antalya Akseki'dedir; Seydişehir Alüminyum Tesisleri'nde işlenir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Boksit)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Alüminyumun ham cevherine <strong>Boksit</strong> denir. Türkiye'nin en önemli boksit yatağı ve tek entegre alüminyum izabe fabrikası Konya Seydişehir'dedir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Barit sondaj çamurunda, asbest ısı yalıtımında kullanılır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Boksit = Alüminyum = Konya Seydişehir ve Antalya Akseki."
   },
   {
     "id": "cogr_h4-q29",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 29,
-    "questionText": "• Guleman, Koycegiz, Fethiye, Kopdagi, Orhaneli ilcele-\nrinden cikarilmaktadir.\nDemire sertlik vererek kirilma ve darbelere karsi daya-\nnikiik kazandirir.\nDemiri oksitlenmeye karsi korur.\nOzellikleri verilen maden asagidakilerden hangisidir?",
+    "questionText": "• Elazığ (Güleman), Muğla (Köyceğiz, Fethiye), Bayburt (Kopdağı) ve Bursa (Orhaneli)'dan çıkarılmaktadır.\n• Demire sertlik ve darbelere karşı direnç kazandırır.\n• Paslanmaz çelik üretiminde kullanılır ve metali oksitlenmeye (paslanmaya) karşı korur.\n\nYukarıda özellikleri ve çıkarım alanları verilen metalik maden aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Luletas!"
+        "text": "Lüle taşı"
       },
       {
         "key": "B",
@@ -9250,24 +9250,24 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Feldspat"
+        "text": "Feldispat"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Krom)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Krom)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Paslanmaz çelik sanayisinin vazgeçilmez hammaddesi <strong>Krom</strong>dur. Elazığ Güleman ve Muğla Fethiye en zengin yataklarıdır. Elazığ ve Antalya'daki Ferrokrom tesislerinde işlenir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lüle taşı süs eşyası (Eskişehir), Barit petrol sondajında kullanılır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Krom = Paslanmaz çelik = Elazığ (Güleman) ve Muğla (Fethiye/Köyceğiz)."
   },
   {
     "id": "cogr_h4-q30",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 30,
-    "questionText": "Havran\n. Divrigi\nKangal\nHekimhan\nTorbali\nHaritada gosterilen yerlerde cikarilan maden asagl-\ndakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q30_img.png",
+    "questionText": "Aşağıda Türkiye'nin önemli maden yataklarının bulunduğu merkezler verilmiştir:\n• Sivas (Divriği, Kangal)\n• Malatya (Hekimhan, Hasançelebi)\n• Balıkesir (Havran, Eymir)\n• İzmir (Torbalı)\n\nBu merkezlerde ortak olarak çıkarılan ve ağır sanayinin temel ham maddesi olan maden aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -9275,7 +9275,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "Bakir"
+        "text": "Bakır"
       },
       {
         "key": "C",
@@ -9283,7 +9283,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Kursun"
+        "text": "Kurşun"
       },
       {
         "key": "E",
@@ -9291,18 +9291,18 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Demir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Demir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de demir rezervinin en büyük kısmı Sivas Divriği ile Malatya Hekimhan/Hasançelebi havzasındadır. Çıkarılan demir Karabük, Ereğli ve İskenderun demir-çelik fabrikalarında işlenir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bakır Murgul ve Küre'de; fosfat Mazıdağı'nda çıkarılır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Ağır sanayinin omurgası = Demir cevheri = Sivas Divriği ve Malatya Hekimhan."
   },
   {
     "id": "cogr_h4-q31",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 31,
-    "questionText": "Türkiye'de elektrik enerjisi üretiminde linyit kömürü kullanan termik santraller yaygındır.\n\nAşağıdaki santrallerden hangileri linyit ile çalışan termik santrallere örnektir?\nI. Kütahya - Tunçbilek\nII. Muğla - Yatağan\nIII. Elazığ - Keban\nIV. Şanlıurfa - Karakaya",
+    "questionText": "Türkiye 3. Jeolojik Zaman'da (Tersiyer) oluşmuş genç bir arazi yapısına sahip olduğu için linyit kömürü yatakları açısından son derece zengindir.\n\nBuna göre, aşağıda verilen enerji üretim santrallerinden hangileri linyit kömürü ile çalışan termik santrallere örnektir?\nI. Kütahya - Tunçbilek\nII. Muğla - Yatağan\nIII. Elazığ - Keban\nIV. Şanlıurfa - Karakaya",
     "hasImage": false,
     "image": null,
     "options": [
@@ -9328,69 +9328,69 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Tunçbilek ve Yatağan linyitle çalışan termik santrallerdir. Keban ve Karakaya ise Fırat Nehri üzerindeki hidroelektrik (su gücü) santralleridir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (I ve II - Tunçbilek ve Yatağan)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Tunçbilek (Kütahya), Soma (Manisa), Yatağan (Muğla), Afşin-Elbistan (K.Maraş) ve Çayırhan (Ankara) linyit termik santralleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Keban ve Karakaya Fırat Nehri üzerindeki dev hidroelektrik (su gücü) barajlarıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Taş kömürü santrali: Çatalağzı (Zonguldak). Linyit santralleri: Soma, Yatağan, Tunçbilek, Seyitömer, Afşin-Elbistan."
   },
   {
     "id": "cogr_h4-q32",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 32,
-    "questionText": "Aşağıda verilen enerji üretim santrallerinden hangisi doğal gaz ile elektrik enerjisi üretmektedir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q32_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Kırklareli - Hamitabat"
-      },
-      {
-        "key": "B",
-        "text": "Zonguldak - Çatalağzı (Taş kömürü)"
-      },
-      {
-        "key": "C",
-        "text": "Manisa - Soma (Linyit)"
-      },
-      {
-        "key": "D",
-        "text": "Elazığ - Keban (Hidroelektrik)"
-      },
-      {
-        "key": "E",
-        "text": "Denizli - Sarayköy (Jeotermal)"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Hamitabat)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Hamitabat (Kırklareli), Ambarlı (İstanbul) ve Ovaakça (Bursa) doğal gaz kombine çevrim santralleridir."
-  },
-  {
-    "id": "cogr_h4-q33",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 33,
-    "questionText": "Hidroelektrik, Gunes ve rüzgâr enerji santrallerinin uretim\nmiktari hava sartlarina gore degisiklik gostermektedir.\nBuna gore:\nOymapinar\nIl. Yatagan,\n. Alacati.\nV. Hamitabat",
+    "questionText": "Aşağıda verilen enerji üretim santrallerinden hangisi doğal gaz yakıtı kullanarak elektrik enerjisi üretmektedir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "I ve"
+        "text": "Kırklareli - Hamitabat Termik Santrali"
       },
       {
         "key": "B",
-        "text": "I ve II"
+        "text": "Zonguldak - Çatalağzı Termik Santrali"
       },
       {
         "key": "C",
-        "text": "II ve I"
+        "text": "Manisa - Soma Termik Santrali"
+      },
+      {
+        "key": "D",
+        "text": "Elazığ - Keban Barajı Santrali"
+      },
+      {
+        "key": "E",
+        "text": "Denizli - Sarayköy Santrali"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kırklareli - Hamitabat)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Hamitabat (Kırklareli), Ambarlı (İstanbul) ve Ovaakça (Bursa) doğal gazla çalışan büyük kombine çevrim santralleridir. Hamitabat yerli doğal gaz yatağı üzerine kurulmuştur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çatalağzı taş kömürü, Soma linyit, Keban hidroelektrik, Sarayköy ise jeotermal santraldir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Doğal gaz santralleri: Hamitabat, Ambarlı, Ovaakça ve Aliağa."
+  },
+  {
+    "id": "cogr_h4-q33",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 33,
+    "questionText": "Hidroelektrik, Güneş ve rüzgâr enerji santrallerinin elektrik üretim miktarları doğrudan hava şartlarına, yağış miktarına ve mevsimsel rüzgâr/güneşlenme durumuna göre değişiklik gösterir.\n\nBuna göre, aşağıda verilen santrallerden hangilerinin elektrik üretiminde doğal hava ve iklim koşullarının etkisi doğrudan belirleyicidir?\nI. Oymapınar Barajı (Antalya - Hidroelektrik HES)\nII. Yatağan Santrali (Muğla - Linyit Termik)\nIII. Alaçatı Santrali (İzmir - Rüzgâr RES)\nIV. Hamitabat Santrali (Kırklareli - Doğal Gaz)",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "II ve III"
       },
       {
         "key": "D",
@@ -9402,20 +9402,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III - Oymapınar ve Alaçatı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Oymapınar Barajı nehir akımına ve yağışa bağlıdır (I). Alaçatı rüzgâr hızına bağlıdır (III). Bu iki yenilenebilir kaynak doğrudan iklim koşullarına bağımlıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yatağan (linyit) ve Hamitabat (doğal gaz) yakıt depolanarak çalıştırılan fosil yakıtlı termik santrallerdir; hava koşullarından etkilenmezler.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklime bağımlı santraller = HES, RES ve GES. İklimden bağımsız santraller = Kömür, petrol, gaz ve nükleerdir."
   },
   {
     "id": "cogr_h4-q34",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 34,
-    "questionText": "Yerin derinliklerindeki kırıklı fay hatlarından gelen sıcak buhar gücü kullanılarak jeotermal enerji elde edilir.\n\nBuna göre, Türkiye'de ilk jeotermal elektrik santralinin kurulduğu yer aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q34_img.png",
+    "questionText": "Yerin derinliklerindeki kırıklı fay hatlarından gelen yüksek sıcaklıktaki su buharı türbinleri döndürerek jeotermal elektrik üretilmesini sağlar.\n\nBuna göre, Türkiye'de ilk jeotermal elektrik üretim tesisinin kurulduğu merkez aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -9439,20 +9439,20 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Denizli - Sarayköy)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'nin ilk jeotermal enerji santrali Denizli Sarayköy'dedir; Aydın Germencik'te de büyük tesisler bulunmaktadır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Denizli - Sarayköy)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'nin ilk jeotermal elektrik santrali Denizli Sarayköy'de faaliyete geçmiştir. Günümüzde Aydın Germencik ve Manisa Alaşehir'de de büyük jeotermal enerji santralleri elektrik üretmektedir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çatalağzı taş kömürü, Raman petrol, Afşin linyit merkezleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Jeotermal enerji = Ege Graben kuşağı = Denizli (Sarayköy) ve Aydın (Germencik)."
   },
   {
     "id": "cogr_h4-q35",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 35,
-    "questionText": "Güneş enerjisi potansiyeli; güneşlenme süresine ve bulutluluğun azlığına bağlıdır.\n\nBuna göre, her mevsim yağışlı olması ve bulutluluğun çok yüksek olması sebebiyle güneş enerjisinden elektrik üretimi için en verimsiz bölge aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q35_img.png",
+    "questionText": "Güneş enerjisi potansiyeli; atmosferdeki bulutluluk oranına ve yıllık güneşlenme süresine doğrudan bağlıdır.\n\nBuna göre, her mevsim düzenli yağış alması ve bulutluluk oranının yıl boyu çok yüksek olması sebebiyle güneş enerjisi yatırımları için en verimsiz coğrafi alan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -9472,59 +9472,59 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Ege Bölgesi"
+        "text": "Kıyı Ege Bölümü"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz yıl boyunca yüksek bulutluluk ve yağış sebebiyle Türkiye'de güneşlenme süresinin en düşük olduğu alandır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyılarında yılın yaklaşık 250 günü bulutlu geçer; yıllık güneşlenme süresi 1750 saatin altına iner. Bu yüzden güneş paneli yatırımları için en verimsiz yerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Güneydoğu Anadolu (~3000 saat) ve Akdeniz (~2900 saat) güneş enerjisi potansiyeli en yüksek bölgelerdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneş potansiyeli en yüksek: Güneydoğu Anadolu; en düşük: Doğu Karadeniz'dir."
   },
   {
     "id": "cogr_h4-q36",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 36,
-    "questionText": "Uikemizde bulunan petrol aritma tesislerinden hangi-\nsi ham madde kaynaginin yakinina kurulmustur?",
+    "questionText": "Türkiye'de bulunan petrol rafinerilerinden hangisi, kuruluş yeri seçiminde doğrudan ham madde kaynağının (petrol kuyularının) hemen yanına kurulmasıyla diğerlerinden ayrılır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Batman (Batman)"
+        "text": "Batman Rafinerisi (Batman)"
       },
       {
         "key": "B",
-        "text": "Orta Anadolu (Kirikkal"
+        "text": "Orta Anadolu Rafinerisi (Kırıkkale)"
       },
       {
         "key": "C",
-        "text": "ipras (izmit)"
+        "text": "İPRAŞ / Tüpraş Rafinerisi (İzmit)"
       },
       {
         "key": "D",
-        "text": "Atas (Mersin)"
+        "text": "ATAŞ Rafinerisi (Mersin)"
       },
       {
         "key": "E",
-        "text": "Aliaga (izmir)"
+        "text": "Aliağa / Star Rafinerisi (İzmir)"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Batman (Batman))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Batman Rafinerisi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de çıkarılan yerli petrolün neredeyse tamamı Batman (Raman, Garzan) ve çevresindedir. Batman Rafinerisi doğrudan çıkarılan yerli petrol kuyularının yanına (hammaddeye yakınlık) kurulmuştur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İzmit, İzmir ve Mersin rafinerileri deniz yoluyla ithal petrole ve pazara yakınlık (liman); Kırıkkale rafinerisi ise stratejik güvenlik ve tüketim pazarına yakınlık sebebiyle kurulmuştur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Hammaddeye yakın kurulan tek rafinerimiz Batman Rafinerisi'dir."
   },
   {
     "id": "cogr_h4-q37",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 37,
-    "questionText": "Basinda yer alan haberlere gore 1o. Turkiye Enerji Zirve\nsi toplantisina katilan Antalya'daki otel yoneticileri, enerji\nmaliyetlerini azaltmak icin yenilenebilir enerjiye gecmek\nistediklerini belirttiler.\nBuna gore, otel yoneticilerinin kullanmak istedikleri ener-\nkaynaklarindan biri asagidakilerden hangisi olabilir?",
+    "questionText": "Antalya'da düzenlenen Türkiye Enerji Zirvesi'ne katılan turizm ve otel yöneticileri; yüksek elektrik ve su ısıtma giderlerini azaltmak ve çevre dostu tesislere dönüşmek amacıyla çatılarına paneller kurarak yenilenebilir enerjiye geçtiklerini belirtmişlerdir.\n\nBuna göre, Akdeniz kuşağında otellerin kendi elektrik ve sıcak su ihtiyacını karşılamak için yararlandıkları bu yenilenebilir enerji kaynağı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -9534,114 +9534,114 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "Dogal gaz"
+        "text": "Doğal gaz"
       },
       {
         "key": "C",
-        "text": "Linyit"
+        "text": "Linyit kömürü"
       },
       {
         "key": "D",
-        "text": "Gunes"
+        "text": "Güneş enerjisi"
       },
       {
         "key": "E",
-        "text": "Tas komuru"
+        "text": "Taş kömürü"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Gunes)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Güneş enerjisi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Akdeniz kıyılarında (Antalya) yıllık güneşlenme süresi yaklaşık 3000 saattir. Oteller çatılara kurulan güneş kolektörleri ve fotovoltaik panellerle sıcak su ve elektrik ihtiyaçlarını güneş enerjisiyle karşılarlar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Petrol, gaz, linyit ve taş kömürü fosil yakıtlardır; yenilenebilir değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneş enerjisiyle sıcak su ısıtma sistemlerinin Türkiye'de en yaygın olduğu bölge Akdeniz ve Ege'dir."
   },
   {
     "id": "cogr_h4-q38",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 38,
-    "questionText": "Celigin sertlestirilmesinde ve paslanmaz celik ureti-\nminde kullanilmaktadir.\n. Konya Seydisehir'de cikarilip islenen bu maden ha-\nfif ve dayanikli oldugu icin onemlidir.\nOzellikleri verilen madenler asagidakilerin hangisin-\nde dogru olarak verilmistir?",
+    "questionText": "I. Çeliğin sertleştirilmesinde ve paslanmaz çelik üretiminde kullanılan metalik madendir.\nII. Alüminyumun hammaddesi olup Konya Seydişehir'de çıkarılıp işlenen, hafif ve dayanıklı madendir.\n\nYukarıda özellikleri verilen madenler sırasıyla aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Krom Boksit"
+        "text": "I: Krom / II: Boksit"
       },
       {
         "key": "B",
-        "text": "Barit Mermer"
+        "text": "I: Barit / II: Mermer"
       },
       {
         "key": "C",
-        "text": "Boksit Bor mineralleri"
+        "text": "I: Boksit / II: Bor mineralleri"
       },
       {
         "key": "D",
-        "text": "Krom Demir"
+        "text": "I: Krom / II: Demir"
       },
       {
         "key": "E",
-        "text": "Barit Demir"
+        "text": "I: Barit / II: Demir"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Krom Boksit)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I: Krom / II: Boksit)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Paslanmaz çelik alaşımında kullanılan maden <strong>Krom</strong>dur (I).<br>• Konya Seydişehir tesislerinde işlenen alüminyum cevheri ise <strong>Boksit</strong>tir (II).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Barit sondaj çamuru, bor roket yakıtı/cam, demir ise ağır sanayi ana girdisidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Paslanmaz çelik = Krom; Hafif alüminyum = Boksit."
   },
   {
     "id": "cogr_h4-q39",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 39,
-    "questionText": "Asagida verilen sanayi kuruluslarindan hangisinde\nkulanlan ham maddenin uretim miktari iklim kosul\nlarina bagli olarak degismez?",
+    "questionText": "Aşağıda verilen sanayi kuruluşlarından hangisinde kullanılan ham maddenin üretim miktarı doğrudan iklim ve tarımsal rekolte koşullarına bağlı olarak değişmez?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Pamuklu dokuma sanayi"
+        "text": "Pamuklu dokuma sanayisi"
       },
       {
         "key": "B",
-        "text": "Cay sanayi"
+        "text": "Çay işleme sanayisi"
       },
       {
         "key": "C",
-        "text": "Seker sanayi"
+        "text": "Şeker pancarı sanayisi"
       },
       {
         "key": "D",
-        "text": "Un sanayi"
+        "text": "Un ve yem sanayisi"
       },
       {
         "key": "E",
-        "text": "Lastik sanayi"
+        "text": "Oto lastik ve petrokimya sanayisi"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Lastik sanayi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Oto lastik ve petrokimya sanayisi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Otomobil lastiği ve petrokimya sanayisinin girdisi petrol türevi sentetik polimerler veya ithal kauçuktur; maden/petrol kökenlidir. Dolayısıyla iklim şartları ve kuraklıktan etkilenmez.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Pamuk, çay, şeker pancarı ve buğday tarımsal ürünlerdir; kuraklık veya aşırı yağış olduğunda hammadde temini doğrudan dalgalanır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tarıma dayalı sanayiler iklime bağımlıdır; maden, petrol ve metale dayalı sanayiler iklimden bağımsızdır."
   },
   {
     "id": "cogr_h4-q40",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 40,
-    "questionText": "Sanayi uretimini desteklemek amacilyla kurulmus olan ve\nsanayi tesisleri icin gerekli olan hizmetlerin hepsinin bulun-\ndugu alanlara organize sanayi bölgesi adi verilmektedir.\nAşağıdaki illerden hangisinde organize sanayi bölge\nlerinin sayisi daha fazladir?",
+    "questionText": "Sanayi üretimini planlı şekilde geliştirmek, çevre kirliliğini önlemek ve ortak altyapı hizmeti sağlamak amacıyla kurulan alanlara 'Organize Sanayi Bölgesi (OSB)' adı verilir.\n\nBuna göre, sanayileşme düzeyi ve fabrika sayısı dikkate alındığında aşağıdaki illerden hangisinde organize sanayi bölgelerinin sayısı ve üretim kapasitesi diğerlerinden çok daha fazladır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Mugla"
+        "text": "Muğla"
       },
       {
         "key": "B",
@@ -9653,26 +9653,26 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Karabuk"
+        "text": "Karabük"
       },
       {
         "key": "E",
-        "text": "Hakkari"
+        "text": "Hakkâri"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Bursa)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Bursa)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'nin ilk organize sanayi bölgesi (Bursa OSB - 1961) Bursa'da kurulmuştur. Otomotiv, tekstil, makine ve gıda sanayisiyle Bursa Türkiye'de en çok OSB'ye ve dev sanayi kümelenmesine sahip illerimizdendir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kars ve Hakkâri'de sanayi gelişmemiştir; Muğla turizm/ormancılık ilidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ilk OSB'si 1961'de Bursa'da kurulmuştur."
   },
   {
     "id": "cogr_h4-q41",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 41,
-    "questionText": "Sanayi tesislerinin kuruluş yeri seçiminde hammaddeye yakınlık, pazar, ulaşım veya enerji kaynağına yakınlık gibi faktörler belirleyicidir.\n\nBuna göre;\nI. Samsun Bakır İşletmeleri (Liman/Ulaşım)\nII. Karabük Demir-Çelik Fabrikası (Taş kömürü - Enerji kaynağı)\nIII. Muğla Yatağan Termik Santrali (Linyit yatağı - Hammadde)\n\ntesislerinden hangilerinin kuruluşunda hammaddeye yakınlık faktörü etkili olmamıştır?",
+    "questionText": "Sanayi tesislerinin kuruluş yeri seçiminde hammaddeye yakınlık, pazar, ulaşım (liman) veya enerji kaynağına yakınlık belirleyicidir.\n\nBuna göre;\nI. Samsun Bakır İzabe Tesisleri (Liman ve ulaşım kolaylığı)\nII. Karabük Demir-Çelik Fabrikası (Taş kömürü - Enerji kaynağı)\nIII. Muğla Yatağan Termik Santrali (Linyit havzası - Ham madde)\n\nkuruluşlarından hangilerinin yer seçiminde ham maddeye yakınlık faktörü etkili olmamıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -9698,143 +9698,143 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Samsun'da bakır çıkmaz, liman ve hinterland (ulaşım) sebebiyle kurulmuştur. Karabük'te demir çıkmaz, taş kömürüne (enerji kaynağı) yakınlık sebebiyle kurulmuştur. Yatağan ise doğrudan linyit sahasının üzerine (hammaddeye) kurulmuştur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Samsun'da bakır madeni çıkmaz; liman ve demiryolu ulaşımı için kurulmuştur (I). Karabük'te demir madeni çıkmaz; taş kömürüne (enerji kaynağı) yakınlık için kurulmuştur (II). Dolayısıyla bu ikisinde hammadde değil ulaşım ve enerji etkilidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yatağan doğrudan linyit yatağının üzerine (hammaddeye yakın) kurulmuştur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karabük ve Ereğli Demir-Çelik = Enerji kaynağına yakınlık; Samsun Bakır = Ulaşım/Liman."
   },
   {
     "id": "cogr_h4-q42",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 42,
-    "questionText": "Aşağıdaki harita uzerinde bir alan taranarak gosterilmistir.\nHaritada gosterilen tarali alan icerisinde asagidakiler.\nden hangisi bulunmaz?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q42_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Zeytinyagi fabrikasl"
-      },
-      {
-        "key": "B",
-        "text": "Bakir izabe tesisleri"
-      },
-      {
-        "key": "C",
-        "text": "Ferro krom tesisleri"
-      },
-      {
-        "key": "D",
-        "text": "Demir-celik sanayisi"
-      },
-      {
-        "key": "E",
-        "text": "Pamuklu dokuma sanayisi"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Bakir izabe tesisleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
-  },
-  {
-    "id": "cogr_h4-q43",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 43,
-    "questionText": "Aşağıdaki harita uzerinde bes il numaralandrilarak gos-\nterilmistir.\nBuna gore, asagidakilerin hangisinde haritada numa-\nralanmis iller ile maden isleme tesisleri yanlis esles-\ntirilmistir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q43_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "I - Demir Celik Fabrikasi"
-      },
-      {
-        "key": "B",
-        "text": "Il - Ferro - Krom Tesisleri"
-      },
-      {
-        "key": "C",
-        "text": "l - Seydisehir Aluminyum Tesisleri"
-      },
-      {
-        "key": "D",
-        "text": "IV - Kirka Bor Isletmesi"
-      },
-      {
-        "key": "E",
-        "text": "V - Bakir izabe Tesisleri"
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (V - Bakir izabe Tesisleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
-  },
-  {
-    "id": "cogr_h4-q44",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 44,
-    "questionText": "Asagida verilen kalkinma projelerinden hangisi komur\nisletmelerinden daha verimli yararlanmayi hedefler?",
+    "questionText": "Kıyı Ege Bölümü'nde (İzmir, Manisa, Aydın çevresi) tarım, petrokimya ve metal sanayi oldukça gelişmiştir.\n\nAşağıdaki sanayi kollarından hangisi Kıyı Ege Bölümü'nde yer alan sanayi tesisleri arasında bulunmaz?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Dogu Anadolu Projesi"
+        "text": "Zeytinyağı ve sabun fabrikaları"
       },
       {
         "key": "B",
-        "text": "Guneydogu Anadolu Projesi"
+        "text": "Bakır izabe tesisleri"
       },
       {
         "key": "C",
-        "text": "Yesilirmak Havzasi Gelisim Projesi"
+        "text": "Ferrokrom alaşım tesisleri"
       },
       {
         "key": "D",
-        "text": "Zonguldak, Bartin, Karabuk Projesi"
+        "text": "Demir-çelik sanayisi (İzmir Aliağa)"
       },
       {
         "key": "E",
-        "text": "Dogu Karadeniz Bolgesel Gelisim Projesi"
+        "text": "Pamuklu dokuma ve hazır giyim sanayisi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Bakır izabe tesisleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de bakır izabe tesisleri Karadeniz'de Samsun ve Artvin (Murgul)'de bulunur; Kıyı Ege'de bakır ergitme izabe tesisi yoktur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İzmir'de Aliağa Demir-Çelik, Petkim, zeytinyağı ve pamuklu dokuma sanayisi çok gelişmiştir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Bakır izabe = Samsun (ulaşım) ve Murgul (hammadde)."
+  },
+  {
+    "id": "cogr_h4-q43",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 43,
+    "questionText": "Aşağıda verilen illerimiz ile bu illerde bulunan ağır sanayi ve maden işleme tesisleri eşleştirmelerinden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Karabük - Demir-Çelik Fabrikası (KARDEMİR)"
+      },
+      {
+        "key": "B",
+        "text": "Antalya - Ferrokrom Tesisleri"
+      },
+      {
+        "key": "C",
+        "text": "Konya - Seydişehir Alüminyum Fabrikası"
+      },
+      {
+        "key": "D",
+        "text": "Eskişehir - Kırka Bor Türevleri İşletmesi"
+      },
+      {
+        "key": "E",
+        "text": "Artvin - Alüminyum İzabe Fabrikası"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Artvin (Murgul)'de <strong>Bakır İşletmesi</strong> yer alır; alüminyum tesisi bulunmaz. Türkiye'nin tek alüminyum izabe fabrikası Konya Seydişehir'dedir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Karabük'te demir-çelik, Antalya'da ferrokrom, Seydişehir'de alüminyum, Kırka'da bor tesisleri bulunmaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Murgul = Bakır; Seydişehir = Alüminyum."
+  },
+  {
+    "id": "cogr_h4-q44",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 44,
+    "questionText": "Aşağıda verilen Bölgesel Kalkınma Projelerinden hangisi taş kömürü ve demir-çelik işletmelerini modernize etmeyi, Filyos Limanı projesi ile yeni sanayi ve lojistik koridoru oluşturmayı hedefler?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Doğu Anadolu Projesi (DAP)"
+      },
+      {
+        "key": "B",
+        "text": "Güneydoğu Anadolu Projesi (GAP)"
+      },
+      {
+        "key": "C",
+        "text": "Yeşilırmak Havzası Gelişim Projesi (YHGP)"
+      },
+      {
+        "key": "D",
+        "text": "Zonguldak, Bartın, Karabük Projesi (ZBK)"
+      },
+      {
+        "key": "E",
+        "text": "Doğu Karadeniz Projesi (DOKAP)"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Zonguldak, Bartin, Karabuk Projesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Zonguldak, Bartın, Karabük Projesi / ZBK)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• ZBK projesinin ana amacı Batı Karadeniz'deki taş kömürü ocaklarını rehabilite etmek, demir-çelik fabrikalarının verimini artırmak ve Filyos Vadisi projesiyle sanayi ve liman yatırımlarını çekmektir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• GAP sulama ve tarım, DAP hayvancılık, DOKAP yayla ve ulaşım odaklıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Taş kömürü ve Filyos Limanı = ZBK Projesi."
   },
   {
     "id": "cogr_h4-q45",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 45,
-    "questionText": "Aşağıdaki haritada Turkiye'de uygulanan bölgesel kalkin-\nma projelerinin kapsaml gosterilmistir.\nGAP\nYHGP\nZBK\nYHGP - DOKAP\nDAP\nDOKAP\nKOP\nBuna gore, asagidaki illerden hangisi Dogu Anadolu\nProjesi kapsaminda yer alir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q45_img.png",
+    "questionText": "Türkiye'de bölgesel gelişmişlik farklarını azaltmak amacıyla Bölgesel Kalkınma Projeleri yürütülmektedir.\n\nBuna göre, aşağıdaki illerden hangisi doğrudan 'Doğu Anadolu Projesi (DAP)' kapsamında yer alan illerden biridir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Sirnak"
+        "text": "Şırnak (GAP kapsamındadır)"
       },
       {
         "key": "B",
-        "text": "Diyarbakir"
+        "text": "Diyarbakır (GAP kapsamındadır)"
       },
       {
         "key": "C",
-        "text": "Kayseri"
+        "text": "Kayseri (KOP kapsamındadır)"
       },
       {
         "key": "D",
@@ -9842,22 +9842,22 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Kahramanmaras"
+        "text": "Kahramanmaraş"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Ardahan)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ardahan)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Ardahan, Kars, Erzurum, Ağrı, Iğdır, Van, Muş, Bitlis, Hakkâri vb. Doğu Anadolu Projesi (DAP) kapsamındadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Şırnak ve Diyarbakır GAP kapsamındadır. Kayseri KOP kapsamındadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> DAP Türkiye'nin il sayısı ve yüzölçümü bakımından en geniş bölgesel projesidir."
   },
   {
     "id": "cogr_h4-q46",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 46,
-    "questionText": "Aşağıdaki illerimizden hangisi Konya ovasl Projesi\nkapsaminda yer almaz?",
+    "questionText": "Konya Ovası Projesi (KOP); başlangıçta Konya ve Karaman için hazırlanmış, sonradan kapsamı genişletilerek İç Anadolu'daki 8 ile ulaşmıştır.\n\nAşağıdaki illerimizden hangisi Konya Ovası Projesi (KOP) kapsamında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -9867,7 +9867,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "Nevsehir"
+        "text": "Nevşehir"
       },
       {
         "key": "C",
@@ -9875,7 +9875,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Kirikkale"
+        "text": "Kırıkkale"
       },
       {
         "key": "E",
@@ -9883,55 +9883,55 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Sivas)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sivas)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• KOP kapsamındaki 8 il: Konya, Karaman, Aksaray, Niğde, Nevşehir, Kırşehir, Kırıkkale ve Yozgat'tır. Sivas ise DAP (Doğu Anadolu Projesi) kapsamındadır; KOP'ta yer almaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Aksaray, Nevşehir, Kırıkkale ve Yozgat KOP'un aktif üye illeridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sivas İç Anadolu'da yer almasına rağmen DAP kapsamına alınmış bir ildir."
   },
   {
     "id": "cogr_h4-q47",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 47,
-    "questionText": "Ulkemizin ortalama yukseltisinin fazla ve yer sekillerinin\nengebeli olmasi, kara yolu ve demir yolu yapim maliyeti-\nnin yüksek olmasina neden olmustur.",
+    "questionText": "Türkiye'nin ortalama yükseltisinin fazla, dağların kıyıya paralel ve engebeli olması kara yolu ve demir yolu yapım maliyetlerinin genel olarak yüksek olmasına yol açar. Ancak dağların kıyıya dik uzandığı ve graben ovalarının bulunduğu kesimlerde ulaşım iç kesimlere çok daha kolay ve az maliyetle sağlanır.\n\nBuna göre aşağıdaki doğrultuların hangisinde yer şekillerinin uygun olması sayesinde kara ve demir yolu yapım maliyeti diğerlerine göre daha düşüktür?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Isparta"
+        "text": "Trabzon - Gümüşhane hattı"
       },
       {
         "key": "B",
-        "text": "Riz"
+        "text": "Rize - Erzurum hattı (Ovit Dağları)"
       },
       {
         "key": "C",
-        "text": "Sinop - Ankara"
+        "text": "Sinop - Kastamonu hattı (Küre Dağları)"
       },
       {
         "key": "D",
-        "text": "izmir - Afyon"
+        "text": "İzmir - Afyonkarahisar hattı (Gediz Grabeni)"
       },
       {
         "key": "E",
-        "text": "Mug"
+        "text": "Muğla - Antalya hattı (Batı Toroslar)"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (izmir - Afyon)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (İzmir - Afyonkarahisar hattı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Ege Bölgesi'nde dağlar kıyıya dik uzandığı için Gediz graben vadisi boyunca iç kesimlere kadar doğal bir ulaşım koridoru oluşur; köprü/tünel masrafı az olup yol yapım maliyeti düşüktür.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Karadeniz ve Akdeniz'de kıyıdan iç kesime geçmek için Zigana, Ovit, Küre gibi sarp dağlar aşılmak zorundadır ve tünel maliyetleri çok yüksektir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Ege'de doğu-batı yönlü ulaşım maliyeti yer şekilleri sebebiyle en düşüktür."
   },
   {
     "id": "cogr_h4-q48",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 48,
-    "questionText": "Ulkemizde bazi sehirlerin gelisip buyumesinde kara yol-\nlarinin kavsak noktasinda bulunmasl etkili olmustur\nAsagida verilen\nsehirlerimizden hangisinin\ngelisimi\nUzerinde bu durumun etkisi daha fazladr?",
+    "questionText": "Türkiye'de bazı şehirlerin hızla büyüyüp ticaret merkezi haline gelmesinde farklı coğrafi bölgeleri birbirine bağlayan ana kara yollarının kavşak noktasında bulunması belirleyici olmuştur.\n\nAşağıda verilen şehirlerimizden hangisinin gelişiminde ana kara yolları ve demir yollarının kesiştiği bir 'kavşak şehri' olma özelliği en fazladır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -9945,7 +9945,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Gumishane"
+        "text": "Gümüşhane"
       },
       {
         "key": "D",
@@ -9953,172 +9953,172 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Hakkari"
+        "text": "Hakkâri"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Afyonkarahisar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Afyonkarahisar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Afyonkarahisar; Ege'yi İç Anadolu'ya, Akdeniz'i Marmara'ya bağlayan tüm otoyol ve demir yolu güzergâhlarının kesişim noktasıdır; Türkiye'nin kavşak kentidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hakkâri, Zonguldak, Gümüşhane sapa ve geçit vermez topoğrafyaları sebebiyle kavşak noktası değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Ulaşım kavşağı denince akla ilk gelen il Afyonkarahisar'dır."
   },
   {
     "id": "cogr_h4-q49",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 49,
-    "questionText": "Hinterland, bir limanin etkilesimde bulunduğu art bölge-\nsinin genisligidir.\nBuna gore asagida verilen limanlardan hangisinin\nhinterlandi digerlerine gore daha genistir?",
+    "questionText": "Hinterland (art bölge), bir limanın kara ve demir yolu ile bağlantı kurduğu, mal alıp sattığı ekonomik etki sahasının genişliğidir.\n\nBuna göre, aşağıdaki limanlarımızdan hangisi hem modern konteyner kapasitesi hem de İç Anadolu ve Ortadoğu'ya uzanan güçlü kara-demir yolu bağlantıları sayesinde en geniş hinterlanda sahiptir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Trabzon"
+        "text": "Trabzon Limanı"
       },
       {
         "key": "B",
-        "text": "Mersin"
+        "text": "Mersin Limanı"
       },
       {
         "key": "C",
-        "text": "Zonguldak"
+        "text": "Zonguldak Limanı"
       },
       {
         "key": "D",
-        "text": "Sinop"
+        "text": "Sinop Limanı"
       },
       {
         "key": "E",
-        "text": "Rize"
+        "text": "Rize Limanı"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Mersin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Mersin Limanı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Mersin Uluslararası Limanı (MIP); Akdeniz'in en büyük konteyner limanıdır. Gülek Boğazı ile İç Anadolu'ya, demiryolu ile Güneydoğu ve Ortadoğu'ya doğrudan bağlıdır; devasa bir hinterlandı vardır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sinop dağlar ve demiryolu yokluğu sebebiyle hinterlandı en dar limandır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Akdeniz'de hinterlandı en geniş liman = Mersin; Karadeniz'de = Samsun."
   },
   {
     "id": "cogr_h4-q50",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 50,
-    "questionText": "Uygarliklar besigi olarak bilinen lkemiz kulturel zengin-\nliklerinin yani sira doğal guzellikleriyle de cok fazla sayl-\nda turizm degerine sahiptir.\nBuna gore, asagida verilenlerden hangisi ilkemizin\ndoğal guzeikleri arasinda gosterilmez?",
+    "questionText": "Uygarlıklar beşiği olan Türkiye hem zengin tarihi-kültürel eserlere hem de eşsiz doğal oluşumlara (jeomorfolojik değerlere) ev sahipliği yapar.\n\nBuna göre, aşağıda verilenlerden hangisi insan eliyle yapılmış 'tarihi-beşerî' bir eser olup doğal güzellikler (fiziki oluşumlar) arasında gösterilemez?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Peribacalarl"
+        "text": "Nevşehir - Peri Bacaları"
       },
       {
         "key": "B",
-        "text": "Ayder Yaylasl"
+        "text": "Rize - Ayder Yaylası"
       },
       {
         "key": "C",
-        "text": "ishak Pasa Sarayl"
+        "text": "Ağrı / Doğubayazıt - İshak Paşa Sarayı"
       },
       {
         "key": "D",
-        "text": "Pamukkale Travertenleri"
+        "text": "Denizli - Pamukkale Travertenleri"
       },
       {
         "key": "E",
-        "text": "Cennet Cehennem Obruklarl"
+        "text": "Mersin - Cennet ve Cehennem Obrukları"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (ishak Pasa Sarayl)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İshak Paşa Sarayı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İshak Paşa Sarayı Osmanlı döneminde inşa edilmiş, merkezi ısıtma sistemine sahip mimari bir tarihi eserdir (beşerî turizm değeri).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Peribacaları, Ayder, Pamukkale travertenleri ve Cennet-Cehennem obrukları doğanın oluşturduğu fiziki turizm değerleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İshak Paşa Sarayı dünyada ilk kalorifer (merkezi sıcak su ısıtma) sisteminin kullanıldığı tarihi saraydır."
   },
   {
     "id": "cogr_h4-q51",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 51,
-    "questionText": "Asagida ulkemizin turizm degerlerine ait bilgiler verilmistir.\n. Volkanik kayaclarin asinmasi ile olusmus yer sekille-\nridir. Bu sekillerin icleri gecmis donemlerde oyularak\nyerleşme amacli kullanilmistir.\n• Bizans imparatoru tarafindan sarayin su ihtiyacini kar\nsilamak amaclyla yaptirilmistir.\n- Adiyaman ili sinirlari icerisinde yer alan tarihi kalinti\nlardir. 1987 ylinda Dunya Mirasi Listesi'ne alinmistir.\n. Osmanll padisahi Il. Selim tarafindan Mimar Sinan'a yap-\ntirilmistir. Mimar Sinan'in \"ustalik eserim\" dedigi yapidir.\nBuna gore, asagidaki turizm degerlerimizden hangi\nsine ait bilgi bulunmamaktadr?",
+    "questionText": "Aşağıda Türkiye'nin turizm değerlerine ait bazı açıklamalar verilmiştir:\n• Volkanik tüflerin sel ve rüzgârla aşınması sonucu oluşmuş, içi oyularak yerleşme olarak kullanılmış doğal oluşumlardır.\n• Bizans döneminde imparatorluk sarayının su ihtiyacını karşılamak için yer altına yaptırılmış sütunlu sarnıçtır.\n• Adıyaman sınırlarında yer alan, Kommagene Krallığı'na ait devasa heykellerin bulunduğu UNESCO Dünya Mirası kalıntılarıdır.\n• Mimar Sinan'ın 'ustalık eserim' dediği, Edirne'de bulunan anıtsal şaheserdir.\n\nBuna göre, aşağıdaki turizm değerlerimizden hangisine ait bir bilgi yukarıda verilmemiştir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Selimiye Cami"
+        "text": "Selimiye Camii"
       },
       {
         "key": "B",
-        "text": "Peribacalarl"
+        "text": "Peri Bacaları"
       },
       {
         "key": "C",
-        "text": "Cifte Minareli Medrese"
+        "text": "Çifte Minareli Medrese (Erzurum)"
       },
       {
         "key": "D",
-        "text": "Yerebatan Sarnicl"
+        "text": "Yerebatan Sarnıcı (İstanbul)"
       },
       {
         "key": "E",
-        "text": "Nemrut Heykelleri"
+        "text": "Nemrut Dağı Heykelleri (Adıyaman)"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Cifte Minareli Medrese)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Çifte Minareli Medrese)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Peri bacaları volkanik aşınım, Yerebatan saray sarnıcı, Nemrut Kommagene heykelleri, Selimiye Mimar Sinan'ın ustalık eseridir. Erzurum'daki Selçuklu eseri Çifte Minareli Medrese'ye ait bilgi verilmemiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, D ve E öncüllerdeki 4 tanımın tam karşılıklarıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mimar Sinan eserleri: Çıraklık = Şehzadebaşı, Kalfalık = Süleymaniye, Ustalık = Selimiye (Edirne)."
   },
   {
     "id": "cogr_h4-q52",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 52,
-    "questionText": "Kış turizmi ve kayak merkezleri için yeterli yükselti, eğimli arazi ve kış aylarında uzun süre yerde kalan kar örtüsü gereklidir.\n\nAşağıdaki merkezlerden hangisinde yer şekilleri ve iklim özellikleri sebebiyle kayak turizminin gelişmesi beklenmez?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q52_img.png",
+    "questionText": "Kış sporları ve kayak turizmi için dağlık yer şekilleri, yüksek eğim ve kış mevsiminde aylarca yerde kalan kalın kar örtüsü gereklidir.\n\nAşağıdaki alanların hangisinde yer şekilleri ve kış iklimi özellikleri sebebiyle kış ve kayak turizminin gelişmesi beklenemez?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Bursa - Uludağ"
+        "text": "Bursa - Uludağ Kayak Merkezi"
       },
       {
         "key": "B",
-        "text": "Erzurum - Palandöken"
+        "text": "Erzurum - Palandöken Kayak Merkezi"
       },
       {
         "key": "C",
-        "text": "Kayseri - Erciyes"
+        "text": "Kayseri - Erciyes Kayak Merkezi"
       },
       {
         "key": "D",
-        "text": "Bolu - Kartalkaya"
+        "text": "Bolu - Kartalkaya Kayak Merkezi"
       },
       {
         "key": "E",
-        "text": "Şanlıurfa - Harran Ovası"
+        "text": "Şanlıurfa - Harran Ovası düzlükleri"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Şanlıurfa - Harran Ovası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Harran Ovası düz ve alçak bir ova olup kış aylarında kar yağışı çok nadir ve kısa sürelidir; kayak turizmi yapılamaz."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Şanlıurfa - Harran Ovası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Harran Ovası yaklaşık 350-400 metre rakımda, tamamen düz bir ovadır; kışlar ılık geçer ve kar örtüsü neredeyse hiç tutmaz; kayak turizmi imkânsızdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Uludağ, Palandöken, Erciyes ve Kartalkaya Türkiye'nin en popüler kayak merkezleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneydoğu Anadolu'da kayak yapılan tek yer Karacadağ volkan kütlesidir."
   },
   {
     "id": "cogr_h4-q53",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 53,
-    "questionText": "Mağara turizmi; karstik (eriyebilen kireçtaşı/kalker) arazilerin yaygın olduğu alanlarda yer altı sularının aşındırmasıyla oluşan mağaralara dayanır.\n\nBuna göre, Türkiye'de Damlataş, Karain, Dim ve İnsuyu gibi mağara turizminin en çok geliştiği coğrafi bölge aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q53_img.png",
+    "questionText": "Mağara turizmi; yer altı sularının kolay eriyebilen kireçtaşı (kalker) arazilerini aşındırması sonucu oluşan sarkıt, dikit ve sütunlarla bezeli karstik boşluklara dayanır.\n\nBuna göre; Damlataş, Karain, Dim ve İnsuyu gibi Türkiye'nin en ünlü turizm mağaralarının yoğunlaştığı coğrafi bölge aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -10130,7 +10130,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Akdeniz Bölgesi (Toroslar kuşağı)"
+        "text": "Akdeniz Bölgesi (Toroslar Kuşağı - Antalya, Burdur)"
       },
       {
         "key": "D",
@@ -10138,59 +10138,59 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Doğu Karadeniz kıyıları"
+        "text": "Doğu Karadeniz kıyı kuşağı"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Akdeniz Bölgesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kalkerli karstik arazilerin başkenti Akdeniz Bölgesi (Antalya, Burdur, Isparta) mağara turizmi potansiyeli en zengin yerdir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Akdeniz Bölgesi - Toroslar Kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Karstik kalker yapının en kalın olduğu Akdeniz Toros kuşağında binlerce mağara oluşmuştur. Damlataş (Alanya), Karain (Antalya) ve İnsuyu (Burdur) Türkiye'nin turizme açılan ilk mağaralarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene ve Güneydoğu düzlüklerinde derin karstik kireçtaşı mağaraları bulunmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de turizme açılan ilk mağara Burdur İnsuyu Mağarası'dır."
   },
   {
     "id": "cogr_h4-q54",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 54,
-    "questionText": "Edirne\nIzmir\nAntalya\nAsagida verilen turizm degerlerinden hangisi harita\nUzerinde isaretlenen kentlerden birine ait degildir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q54_img.png",
+    "questionText": "Türkiye'nin önemli kültür turizmi kentleri olan Edirne, İzmir ve Antalya düşünüldüğünde;\n\nAşağıda verilen turizm değerlerinden hangisi bu üç şehirden herhangi birine ait değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Mevlana Turbesi"
+        "text": "Mevlânâ Türbesi ve Müzesi (Konya)"
       },
       {
         "key": "B",
-        "text": "Selimiye Cami"
+        "text": "Selimiye Camii ve Külliyesi (Edirne)"
       },
       {
         "key": "C",
-        "text": "Efes Antik Sehri"
+        "text": "Efes Antik Kenti ve Meryem Ana Evi (İzmir)"
       },
       {
         "key": "D",
-        "text": "Aspendos Tiyatrosu"
+        "text": "Aspendos Antik Tiyatrosu (Antalya)"
       },
       {
         "key": "E",
-        "text": "Akdamar Kilisesi"
+        "text": "Perge ve Kaleiçi (Antalya)"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Mevlana Turbesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mevlânâ Türbesi ve Müzesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Mevlânâ Türbesi ve Müzesi <strong>Konya</strong> ilimizdedir; Edirne, İzmir veya Antalya sınırlarında değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Selimiye Edirne'de, Efes İzmir'de, Aspendos ve Perge Antalya'dadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevlânâ Müzesi Türkiye'nin en çok ziyaretçi çeken müzeleri arasındadır."
   },
   {
     "id": "cogr_h4-q55",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 55,
-    "questionText": "Asagida verilen sehirlerden hangisinin turizm potan-\nsiyeli uzerinde tarihi tas evlerin varligindan soz edilir?",
+    "questionText": "Güneydoğu Anadolu'da yer alan ve sarı kalker taşından yapılmış geleneksel tarihi taş evleri, dar sokakları ve binlerce yıllık manastırlarıyla açık hava müzesi niteliği taşıyan kültür turizmi şehrimiz aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -10204,7 +10204,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Bingol"
+        "text": "Bingöl"
       },
       {
         "key": "D",
@@ -10212,133 +10212,133 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Aydin"
+        "text": "Aydın"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Mardin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>B</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Mardin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Mardin, Mazıdağı yamaçlarında kademeli olarak yükselen taş işçiliği mimarisi, Deyrulzafaran Manastırı ve Kasımiye Medresesi ile dünyaca ünlü bir kültür ve inanç turizmi merkezidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer illerde taş mimari odaklı bir açık hava kenti kimliği yoktur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Geleneksel mesken tipleri: Mardin = Taş evler, Safranbolu = Ahşap konaklar, Harran = Kubbeli kerpiç evler."
   },
   {
     "id": "cogr_h4-q56",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 56,
-    "questionText": "UNEsco Dunya\nMirasi Listesi'nde asagidakilerden\nhangisi yoktur?",
+    "questionText": "Türkiye'nin UNESCO Dünya Mirası Asıl Listesi'nde çok sayıda doğal ve kültürel varlığı yer almaktadır.\n\nAşağıdaki turizm değerlerimizden hangisi UNESCO Dünya Mirası Asıl Listesi'nde yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Ani Arkeolojik Alani (Kars)"
+        "text": "Ani Arkeolojik Alanı (Kars)"
       },
       {
         "key": "B",
-        "text": "Divrigi Ulu Cami ve Darussifasi (Sivas)"
+        "text": "Divriği Ulu Camii ve Darüşşifası (Sivas)"
       },
       {
         "key": "C",
-        "text": "Cennet ve Cehennem Obruklari (Mersin)"
+        "text": "Cennet ve Cehennem Obrukları (Mersin)"
       },
       {
         "key": "D",
-        "text": "Goreme Milli Parki ve Kapadokya (Nevsehir)"
+        "text": "Göreme Millî Parkı ve Kapadokya (Nevşehir)"
       },
       {
         "key": "E",
-        "text": "Diyarbakir Kalesi ve Hevsel Bahceleri(Diyarbakir)"
+        "text": "Diyarbakır Kalesi ve Hevsel Bahçeleri (Diyarbakır)"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Cennet ve Cehennem Obruklari (Mersin))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Cennet ve Cehennem Obrukları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Mersin'deki Cennet ve Cehennem obrukları doğal bir karstik çöküntü oluşumudur ve UNESCO Asıl Miras Listesi'nde yer almaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ani (2016), Divriği (1985 - ilk kültürel mirasımız), Göreme/Kapadokya (karma miras) ve Diyarbakır Surları (2015) asıl listededir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin UNESCO'ya giren ilk eseri: Divriği Ulu Camii ve Darüşşifası'dır (1985)."
   },
   {
     "id": "cogr_h4-q57",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 57,
-    "questionText": "Aşağıdaki haritada bazi turizm merkezleri koyu renkli\nnoktalarla gosterilmistir.\nBu merkezlerin tumu asagidaki\nturizm\nturlerinden\nhangisine uygun yerleri gostermektedir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q57_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Termal"
-      },
-      {
-        "key": "B",
-        "text": "Rafting"
-      },
-      {
-        "key": "C",
-        "text": "KIs"
-      },
-      {
-        "key": "D",
-        "text": "Magara"
-      },
-      {
-        "key": "E",
-        "text": "Yayla"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (KIs)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>C</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
-  },
-  {
-    "id": "cogr_h4-q58",
-    "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
-    "questionNumber": 58,
-    "questionText": "Asagida\nturizm\nVerilen\ndegerlerimizden\nhangisi\ntarafindan\nbelirlenen\nDunya\nUNESCO\nMirasi\nListesi'nde yer almaz?",
+    "questionText": "Türkiye'de Uludağ (Bursa), Kartalkaya (Bolu), Erciyes (Kayseri), Palandöken (Erzurum) ve Sarıkamış (Kars) merkezlerinin tamamı aşağıdaki turizm türlerinden hangisine uygun destinasyonlardır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Bergama Antik Kenti"
+        "text": "Termal / Kaplıca turizmi"
       },
       {
         "key": "B",
-        "text": "Kapadokya ve Goreme Milli Parkl"
+        "text": "Akarsu / Rafting turizmi"
       },
       {
         "key": "C",
-        "text": "Tarihi Safranbolu Evleri"
+        "text": "Kış ve Kayak turizmi"
       },
       {
         "key": "D",
-        "text": "Selimiye Camii ve Kulliyesi"
+        "text": "Karstik Mağara turizmi"
       },
       {
         "key": "E",
-        "text": "Marmaris Sahil Seridi"
+        "text": "Deniz ve Yat turizmi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kış ve Kayak turizmi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Uludağ, Kartalkaya, Erciyes, Palandöken ve Sarıkamış Türkiye'nin kar kalınlığı, mekanik tesisleri ve konaklama altyapısıyla öne çıkan ana kış sporları ve kayak merkezleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Termal sıcak suyla, rafting Çoruh/Köprüçay ile, mağara karstik yapıyla ilgilidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kristal kar yapısı ile dünyaca ünlü kayak merkezi: Kars Sarıkamış'tır."
+  },
+  {
+    "id": "cogr_h4-q58",
+    "testId": "cogr_hafta4",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
+    "questionNumber": 58,
+    "questionText": "Aşağıda verilen turizm değerlerimizden hangisi UNESCO tarafından belirlenen 'Dünya Kültürel Mirası Asıl Listesi'nde yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bergama Çok Katmanlı Kültürel Peyzajı (İzmir)"
+      },
+      {
+        "key": "B",
+        "text": "Kapadokya ve Göreme Millî Parkı (Nevşehir)"
+      },
+      {
+        "key": "C",
+        "text": "Tarihi Safranbolu Şehri Evleri (Karabük)"
+      },
+      {
+        "key": "D",
+        "text": "Selimiye Camii ve Külliyesi (Edirne)"
+      },
+      {
+        "key": "E",
+        "text": "Marmaris Sahil Şeridi (Muğla)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Marmaris Sahil Seridi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>E</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Marmaris Sahil Şeridi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Marmaris sahil şeridi kitle deniz turizmi alanıdır; UNESCO Dünya Kültürel Mirası Asıl Listesi'nde yer almaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bergama, Göreme, Safranbolu ve Selimiye Camii UNESCO Dünya Mirası Asıl Listesi'ndedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Hem doğal hem kültürel (Karma) miraslarımız: Pamukkale-Hierapolis ve Kapadokya-Göreme'dir."
   },
   {
     "id": "cogr_h4-q59",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 59,
-    "questionText": "Ulkemiz\nkaynak\njeotermal\npotansiyeli\nbakimindan",
+    "questionText": "Türkiye fay hatları ve genç kırıklı jeolojik yapısı nedeniyle sıcak su kaynakları ve jeotermal enerji potansiyeli bakımından oldukça zengindir. Ancak masif ve eski karasal alanlarda jeotermal kaynak varlığı çok azdır.\n\nBuna göre aşağıdaki illerin hangisinde jeotermal enerji potansiyeli ve kaplıca/termal kaynak varlığı diğerlerine göre daha azdır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -10352,44 +10352,44 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Ankara"
+        "text": "Ankara (Kızılcahamam, Ayaş)"
       },
       {
         "key": "D",
-        "text": "Afyon"
+        "text": "Afyonkarahisar (Sandıklı, Gazlıgöl)"
       },
       {
         "key": "E",
-        "text": "Kutahya"
+        "text": "Kütahya (Simav, Yoncalı)"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Karaman)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>A</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Karaman)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Karaman, Türkiye'nin deprem ve diri fay riskinin en düşük olduğu 4-5. derece deprem bölgesindedir (Konya-Karaman masif bloku). Fay hatları bulunmadığı için sıcak su ve jeotermal potansiyeli en az olan ildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Afyonkarahisar (termal başkenti), Yalova, Ankara ve Kütahya aktif fay hatları üzerinde zengin kaplıcalara sahiptir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Deprem riski az olan yerlerde (Karaman, Tuz Gölü güneyi, Ergene) jeotermal kaynak da bulunmaz."
   },
   {
     "id": "cogr_h4-q60",
     "testId": "cogr_hafta4",
-    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler, Sanayi ve Ulaşım",
-    "topicId": "cogr_tarama_h4",
-    "topicName": "Coğrafya Kampı 4. Hafta",
-    "category": "Genel Kültür - Coğrafya",
-    "icon": "🏭",
+    "testTitle": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "topicId": "cogr_hafta4_ekonomik",
+    "topicName": "Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım",
+    "category": "Cografya",
+    "icon": "factory",
     "questionNumber": 60,
-    "questionText": "IV\nHarita\nuzerinde numaralandiriarak\nyerilenalanlarin\nhangilerinde yayla turizmi digerlerine gore daha fazla\ngelismistir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h4_q60_img.png",
+    "questionText": "Türkiye'de yaz aylarında sıcak ve bunaltıcı havadan uzaklaşmak ve serin yaylalara çıkmak amacıyla yapılan 'yayla turizmi' dağlık kıyı kuşaklarında çok gelişmiştir.\n\nBuna göre, aşağıdaki yörelerin hangilerinde yayla turizmi diğerlerine göre daha fazla gelişmiştir?\nI. Doğu Karadeniz Dağları (Rize, Trabzon, Artvin)\nII. Ergene Düzlükleri (Edirne)\nIII. Tuz Gölü Çevresi\nIV. Akdeniz Toroslar Kuşağı (Antalya, Mersin, Adana)",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "I ve I"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "I ve"
+        "text": "II ve III"
       },
       {
         "key": "C",
-        "text": "II ve I"
+        "text": "II ve IV"
       },
       {
         "key": "D",
@@ -10397,11 +10397,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "IvVe IV"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (I ve IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• MEB EKYS Coğrafya müfredatına ve ÖSYM soru formatına göre bu soruda sorgulanan temel coğrafi ilke doğrultusunda doğru yanıt <strong>D</strong> seçeneğidir.<br>• Türkiye'nin ekonomik coğrafyası (tarım, hayvancılık, madenler, enerji kaynakları, sanayi, ticaret ve ulaşım) kapsamındaki coğrafi dağılış ve neden-sonuç ilişkileri belirleyicidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde yer alan merkezler veya unsurlar soruda istenen bölgesel/ekonomik kriteri karşılamamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'nin ekonomik coğrafyası sorularında harita üzerindeki dağılışlar, hammaddeye yakınlık ve liman-ulaşım bağlantıları ÖSYM'nin en sevdiği soru kalıplarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve IV - Doğu Karadeniz ve Toroslar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Yayla turizminin Türkiye'deki iki büyük merkezi: Doğu Karadeniz Dağları (Ayder, Anzer vb. - I) ve Akdeniz Toros Dağları kuşağıdır (Antalya, Mersin yaylaları - IV).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene ve Tuz Gölü düzlük alanlar olup yayla yerleşmesi ve turizmi barındırmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaylacılık en çok Karadeniz ve Akdeniz'dedir; Marmara ve Güneydoğu'da yoktur."
   },
   {
     "id": "tarih1-q1",
