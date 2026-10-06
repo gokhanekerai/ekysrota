@@ -1455,6 +1455,14 @@ class EKYSApp {
             badge: '16 Soru • Konu Testi'
           },
           {
+            id: 'egitim_olcme_test_1_eb',
+            name: '📊 Ölçme ve Değerlendirme Testi 1',
+            icon: '📊',
+            desc: 'Ölçme-Değerlendirme, Ölçekler, Hata Türleri, Geçerlik-Güvenirlik, Rubrikler, Portfolyo ve Korelasyon (15 Soru • Çözümlü Konu Testi).',
+            filterKey: 'egitim_olcme_test_1',
+            badge: '15 Soru • Konu Testi'
+          },
+          {
             id: 'egitim_olcme_ders_5_eb',
             name: '📊 Ölçme ve Değerlendirme 5. Ders Soruları',
             icon: '📊',
@@ -2461,6 +2469,14 @@ class EKYSApp {
             badge: '16 Soru • Konu Testi'
           },
           {
+            id: 'egitim_olcme_test_1',
+            name: '📊 Ölçme ve Değerlendirme Testi 1',
+            icon: '📊',
+            desc: 'Ölçme-Değerlendirme, Ölçekler, Hata Türleri, Geçerlik-Güvenirlik, Rubrikler, Portfolyo ve Korelasyon (15 Soru • Çözümlü Konu Testi).',
+            filterKey: 'egitim_olcme_test_1',
+            badge: '15 Soru • Konu Testi'
+          },
+          {
             id: 'egitim_olcme_ders_5',
             name: '📊 Ölçme ve Değerlendirme 5. Ders Soruları',
             icon: '📊',
@@ -2726,6 +2742,9 @@ class EKYSApp {
       }
       if (filterKey === 'egitim_oyt_konu_testi' || filterKey === 'egitim_oyt_1' || filterKey === 'oyt_test_1') {
         return (q.testId === 'egitim_oyt_konu_testi' || tId === 'egitim_oyt' || tName.includes('öğretim yöntem ve teknikleri'));
+      }
+      if (filterKey === 'egitim_olcme_test_1' || filterKey === 'egitim_olcme_1' || filterKey === 'olcme_test_1') {
+        return (q.testId === 'egitim_olcme_test_1' || tId === 'egitim_olcme_test_1');
       }
       if (filterKey === 'egitim_olcme_ders_5' || filterKey === 'olcme_ders_5') {
         return (q.testId === 'egitim_olcme_ders_5' || tId === 'egitim_olcme_ders_5');
