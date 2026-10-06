@@ -174,21 +174,29 @@ class FirebaseService {
   }
 
   async loginWithEmail(email, password) {
-    const cleanEmail = (email || '').trim().toLowerCase();
-    const isMaster = cleanEmail.includes('admin') || cleanEmail.includes('gokhan') || cleanEmail.includes('eker') || cleanEmail === 'admin@ekysrota.com' || cleanEmail === 'gokhan@ekysrota.com';
+    const cleanInput = (email || '').trim().toLowerCase();
+    const cleanPass = (password || '').trim();
 
-    // 1. Master Admin Girişi (Kesin Tanıma)
-    if (isMaster || cleanEmail === 'admin' || !cleanEmail || password === 'admin') {
+    if (!cleanInput) {
+      throw new Error('Lütfen kullanıcı adınızı veya e-posta adresinizi giriniz.');
+    }
+    if (!cleanPass) {
+      throw new Error('Lütfen şifrenizi giriniz.');
+    }
+
+    // 1. Master Admin Girişi (Gökhan Eker)
+    const isMasterUsername = cleanInput === 'admin' || cleanInput === 'gokhan' || cleanInput === 'gokhaneker' || cleanInput === 'admin@ekysrota.com' || cleanInput === 'gokhan@ekysrota.com';
+    if (isMasterUsername) {
       const localUser = {
         uid: 'uid_master_admin',
-        email: cleanEmail ? (cleanEmail.includes('@') ? cleanEmail : cleanEmail + '@ekysrota.com') : 'admin@ekysrota.com',
-        displayName: cleanEmail && cleanEmail !== 'admin' ? cleanEmail : 'Gökhan Eker (Yönetici)'
+        email: cleanInput.includes('@') ? cleanInput : 'admin@ekysrota.com',
+        displayName: 'Gökhan Eker (Yönetici)'
       };
       this.currentUser = localUser;
       this.currentUserDoc = {
         uid: localUser.uid,
         email: localUser.email,
-        displayName: localUser.displayName,
+        displayName: 'Gökhan Eker (Yönetici)',
         role: 'admin',
         createdAt: new Date().toISOString()
       };
@@ -198,19 +206,66 @@ class FirebaseService {
       return this.currentUser;
     }
 
-    // 2. Yönetici Tarafından Eklenen Yetkili Kullanıcı Kontrolü
-    const customUser = window.storageService ? window.storageService.findCustomUser(cleanEmail, password) : null;
+    // 2. Bulut (Firestore custom_users) Öğrenci / Yetkili Kullanıcı Kontrolü
+    if (this.db) {
+      try {
+        let uData = null;
+        let foundKey = cleanInput;
+        const docRef = await this.db.collection('custom_users').doc(cleanInput).get();
+        if (docRef.exists) {
+          uData = docRef.data();
+        } else {
+          const qSnap = await this.db.collection('custom_users').where('username', '==', cleanInput).limit(1).get();
+          if (!qSnap.empty) {
+            uData = qSnap.docs[0].data();
+            foundKey = qSnap.docs[0].id;
+          }
+        }
+
+        if (uData) {
+          if (String(uData.password).trim() === cleanPass) {
+            const displayName = uData.displayName || uData.username || cleanInput;
+            const localUser = {
+              uid: 'uid_' + (uData.username || foundKey),
+              email: uData.email || `${cleanInput}@ekysrota.local`,
+              displayName: displayName
+            };
+            this.currentUser = localUser;
+            this.currentUserDoc = {
+              uid: localUser.uid,
+              email: localUser.email,
+              displayName: displayName,
+              role: uData.role || 'student',
+              createdAt: uData.createdAt || new Date().toISOString()
+            };
+            localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
+            this.onAuthChange(this.currentUser);
+            await this.syncAllDataFromCloud();
+            return this.currentUser;
+          } else {
+            throw new Error('Girdiğiniz şifre hatalıdır. Lütfen şifrenizi kontrol ediniz.');
+          }
+        }
+      } catch (dbErr) {
+        if (dbErr.message && dbErr.message.includes('şifre hatalıdır')) throw dbErr;
+        console.warn('Bulut kullanıcı sorgu hatası:', dbErr);
+      }
+    }
+
+    // 3. Yerel Tanımlı (LocalStorage) Kullanıcı Kontrolü (Fallback)
+    const customUser = window.storageService ? window.storageService.findCustomUser(cleanInput, cleanPass) : null;
     if (customUser) {
+      const displayName = customUser.name || customUser.displayName || cleanInput;
       const localUser = {
-        uid: 'uid_' + btoa(unescape(encodeURIComponent(cleanEmail))).replace(/=/g, ''),
-        email: cleanEmail,
-        displayName: customUser.name || cleanEmail.split('@')[0]
+        uid: 'uid_' + cleanInput,
+        email: `${cleanInput}@ekysrota.local`,
+        displayName: displayName
       };
       this.currentUser = localUser;
       this.currentUserDoc = {
         uid: localUser.uid,
-        email: cleanEmail,
-        displayName: localUser.displayName,
+        email: localUser.email,
+        displayName: displayName,
         role: customUser.role || 'student',
         createdAt: customUser.createdAt || new Date().toISOString()
       };
@@ -220,10 +275,10 @@ class FirebaseService {
       return this.currentUser;
     }
 
-    // 3. Firebase Auth Denemesi
-    if (this.isInitialized && this.auth) {
+    // 4. Firebase Auth Doğrudan E-posta Girişi (Eğer @ içeriyorsa)
+    if (cleanInput.includes('@') && this.isInitialized && this.auth) {
       try {
-        const cred = await this.auth.signInWithEmailAndPassword(cleanEmail, password);
+        const cred = await this.auth.signInWithEmailAndPassword(cleanInput, cleanPass);
         this.currentUser = cred.user;
         await this.loadUserProfile(cred.user);
         localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
@@ -231,11 +286,11 @@ class FirebaseService {
         await this.syncAllDataFromCloud();
         return cred.user;
       } catch (err) {
-        console.warn('Firebase giriş denemesi:', err);
+        console.warn('Firebase email auth hatası:', err);
       }
     }
 
-    // 4. Tanımsız Kullanıcı Uyarısı
+    // 5. Tanımsız Kullanıcı Uyarısı
     throw new Error('Bu kullanıcı sisteme kayıtlı değildir veya şifre hatalıdır. Lütfen yöneticinizle görüşün.');
   }
 
@@ -382,26 +437,70 @@ class FirebaseService {
   }
 
   isAdmin() {
-    return true; // Sistemde sadece tek ana yönetici vardır (Gökhan Eker)
+    return !!(this.currentUserDoc && this.currentUserDoc.role === 'admin');
   }
 
   // --- YÖNETİCİ (ADMIN) İŞLEMLERİ: KULLANICI LİSTELE / EKLE / ÇIKAR ---
+  async saveCustomUserCloud(userData) {
+    if (!this.db) return false;
+    try {
+      const uname = (userData.username || userData.email || '').trim().toLowerCase();
+      await this.db.collection('custom_users').doc(uname).set({
+        username: uname,
+        password: String(userData.password || '').trim(),
+        displayName: userData.displayName || userData.name || uname,
+        role: userData.role || 'student',
+        createdAt: userData.createdAt || new Date().toISOString()
+      }, { merge: true });
+      return true;
+    } catch (e) {
+      console.warn('saveCustomUserCloud hatası:', e);
+      return false;
+    }
+  }
+
   async getAllUsers() {
-    return [{
+    const list = [{
       id: 'admin',
       username: 'admin',
       email: 'admin@ekysrota.com',
-      displayName: 'Gökhan Eker (Yönetici)',
+      displayName: 'Gökhan Eker (Ana Yönetici)',
       role: 'admin',
+      password: '•••••••• (Özel)',
       createdAt: new Date().toISOString()
     }];
+    if (!this.db) return list;
+    try {
+      const snap = await this.db.collection('custom_users').get();
+      snap.forEach(doc => {
+        const data = doc.data();
+        if (data && data.username && data.username !== 'admin') {
+          list.push({
+            id: doc.id,
+            username: data.username,
+            email: data.email || `${data.username}@ekysrota.local`,
+            displayName: data.displayName || data.username,
+            role: data.role || 'student',
+            password: data.password || '••••••',
+            createdAt: data.createdAt || new Date().toISOString()
+          });
+        }
+      });
+    } catch (e) {
+      console.warn('getAllUsers hatası:', e);
+    }
+    return list;
   }
 
-  async removeUser(uid) {
+  async removeUser(uidOrUsername) {
     if (!this.db) return true;
     try {
-      await this.db.collection('users').doc(uid).delete();
-    } catch (e) {}
+      const key = String(uidOrUsername).trim().toLowerCase();
+      await this.db.collection('custom_users').doc(key).delete();
+      await this.db.collection('users').doc(key).delete();
+    } catch (e) {
+      console.warn('removeUser hatası:', e);
+    }
     return true;
   }
 
@@ -413,9 +512,7 @@ class FirebaseService {
   onAuthChange(user) {
     const userProfileEl = document.getElementById('user-profile-display');
     const adminNavEl = document.getElementById('nav-admin-panel');
-
-    const name = 'Gökhan Eker (Yönetici)';
-    const role = '👑 Yönetici';
+    const settingsNavEl = document.getElementById('nav-settings');
 
     const authGateEl = document.getElementById('auth-gate-container');
     const mainAppEl = document.getElementById('main-app-container');
@@ -424,16 +521,21 @@ class FirebaseService {
       if (authGateEl) authGateEl.style.display = 'none';
       if (mainAppEl) mainAppEl.style.display = 'flex';
 
+      const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+      const displayName = (this.currentUserDoc && this.currentUserDoc.displayName) || (isUserAdmin ? 'Gökhan Eker (Yönetici)' : 'Öğrenci');
+      const roleLabel = isUserAdmin ? '👑 Yönetici' : '🎓 Öğrenci';
+      const initial = (displayName.charAt(0) || 'U').toUpperCase();
+
       if (userProfileEl) {
         userProfileEl.innerHTML = `
           <div style="padding: 12px; background: rgba(255,255,255,0.06); border-radius: 12px; border: 1px solid var(--border-active);">
             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-              <div style="width: 38px; height: 38px; border-radius: 50%; background: linear-gradient(135deg, #6366f1, #8b5cf6); display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem; color: white;">
-                G
+              <div style="width: 38px; height: 38px; border-radius: 50%; background: ${isUserAdmin ? 'linear-gradient(135deg, #6366f1, #8b5cf6)' : 'linear-gradient(135deg, #10b981, #059669)'}; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem; color: white;">
+                ${initial}
               </div>
               <div style="overflow: hidden;">
-                <div style="font-weight: 700; font-size: 0.9rem; white-space: nowrap; text-overflow: ellipsis; overflow: hidden;">${name}</div>
-                <span class="badge badge-warning" style="font-size: 0.7rem; padding: 2px 6px;">${role}</span>
+                <div style="font-weight: 700; font-size: 0.9rem; white-space: nowrap; text-overflow: ellipsis; overflow: hidden;" title="${displayName}">${displayName}</div>
+                <span class="badge ${isUserAdmin ? 'badge-warning' : 'badge-info'}" style="font-size: 0.7rem; padding: 2px 6px;">${roleLabel}</span>
               </div>
             </div>
             <button class="btn btn-danger btn-block btn-sm" onclick="firebaseService.logout()" style="display: flex; align-items: center; justify-content: center; gap: 6px;">
@@ -444,11 +546,10 @@ class FirebaseService {
       }
 
       if (adminNavEl) {
-        adminNavEl.style.display = 'flex';
+        adminNavEl.style.display = isUserAdmin ? 'flex' : 'none';
       }
-      const settingsNavEl = document.getElementById('nav-settings');
       if (settingsNavEl) {
-        settingsNavEl.style.display = 'flex';
+        settingsNavEl.style.display = isUserAdmin ? 'flex' : 'none';
       }
     } else {
       if (authGateEl) authGateEl.style.display = 'flex';

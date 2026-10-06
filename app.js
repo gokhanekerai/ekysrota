@@ -1431,6 +1431,14 @@ class EKYSApp {
         desc: 'Program Geliştirme, Öğretim İlke ve Yöntemleri, Ölçme ve Rehberlik testleri:',
         items: [
           {
+            id: 'egitim_olcme_test_1_eb',
+            name: '📊 Ölçme ve Değerlendirme Testi 1 (YENİ)',
+            icon: '📊',
+            desc: 'Ölçme-Değerlendirme, Ölçekler, Hata Türleri, Geçerlik-Güvenirlik, Rubrikler, Portfolyo ve Korelasyon (15 Soru • Çözümlü Konu Testi).',
+            filterKey: 'egitim_olcme_test_1',
+            badge: '🌟 15 Soru • Yeni Test'
+          },
+          {
             id: 'egitim_prog_okur_eb',
             name: '🎯 Program Okuryazarlığı Testi',
             icon: '🎯',
@@ -1453,14 +1461,6 @@ class EKYSApp {
             desc: 'Öğretim İlkeleri, Stratejiler (Sunuş, Buluş, Araştırma), Modeller (Tam Öğrenme, Yapılandırmacılık, Çoklu Zekâ, Basamaklı) ve Teknikler (16 Soru • Konu Anlatımı Sunu Testi).',
             filterKey: 'egitim_oyt_konu_testi',
             badge: '16 Soru • Konu Testi'
-          },
-          {
-            id: 'egitim_olcme_test_1_eb',
-            name: '📊 Ölçme ve Değerlendirme Testi 1',
-            icon: '📊',
-            desc: 'Ölçme-Değerlendirme, Ölçekler, Hata Türleri, Geçerlik-Güvenirlik, Rubrikler, Portfolyo ve Korelasyon (15 Soru • Çözümlü Konu Testi).',
-            filterKey: 'egitim_olcme_test_1',
-            badge: '15 Soru • Konu Testi'
           },
           {
             id: 'egitim_olcme_ders_5_eb',
@@ -2445,6 +2445,14 @@ class EKYSApp {
         desc: 'ÖYT ve Program Okuryazarlığı Sunu Testleri, Video Tarama Testleri, Eğitim Yönetimi ve Çıkmış Sorular:',
         items: [
           {
+            id: 'egitim_olcme_test_1',
+            name: '📊 Ölçme ve Değerlendirme Testi 1 (YENİ)',
+            icon: '📊',
+            desc: 'Ölçme-Değerlendirme, Ölçekler, Hata Türleri, Geçerlik-Güvenirlik, Rubrikler, Portfolyo ve Korelasyon (15 Soru • Çözümlü Konu Testi).',
+            filterKey: 'egitim_olcme_test_1',
+            badge: '🌟 15 Soru • Yeni Test'
+          },
+          {
             id: 'egitim_prog_okur',
             name: '🎯 Program Okuryazarlığı Testi',
             icon: '🎯',
@@ -2467,14 +2475,6 @@ class EKYSApp {
             desc: 'Öğretim İlkeleri, Stratejiler (Sunuş, Buluş, Araştırma), Modeller (Tam Öğrenme, Yapılandırmacılık, Çoklu Zekâ, Basamaklı) ve Teknikler (16 Soru • Konu Anlatımı Sunu Testi).',
             filterKey: 'egitim_oyt_konu_testi',
             badge: '16 Soru • Konu Testi'
-          },
-          {
-            id: 'egitim_olcme_test_1',
-            name: '📊 Ölçme ve Değerlendirme Testi 1',
-            icon: '📊',
-            desc: 'Ölçme-Değerlendirme, Ölçekler, Hata Türleri, Geçerlik-Güvenirlik, Rubrikler, Portfolyo ve Korelasyon (15 Soru • Çözümlü Konu Testi).',
-            filterKey: 'egitim_olcme_test_1',
-            badge: '15 Soru • Konu Testi'
           },
           {
             id: 'egitim_olcme_ders_5',
@@ -5700,11 +5700,15 @@ class EKYSApp {
         });
       }
 
-      // 2. Firebase Bulut veritabanına kaydet
+      // 2. Firebase Bulut veritabanına kaydet (Firestore custom_users koleksiyonu)
       if (window.firebaseService) {
         try {
-          const fakeEmail = username.includes('@') ? username : `${username}@ekysrota.local`;
-          await window.firebaseService.registerWithEmail(fakeEmail, pass, username, 'student');
+          await window.firebaseService.saveCustomUserCloud({
+            username: username,
+            password: pass,
+            displayName: username,
+            role: 'student'
+          });
         } catch (fbErr) {
           console.warn('Firebase bulut kayıt:', fbErr);
         }
