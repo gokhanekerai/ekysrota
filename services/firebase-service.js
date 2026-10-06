@@ -70,34 +70,13 @@ class FirebaseService {
     }, 100);
   }
 
-  // --- CANLI GERÇEK ZAMANLI SENKRONİZASYON (MOBIL & PC ANLIK EŞZAMANLAMA) ---
+  // --- CANLI GERÇEK ZAMANLI SENKRONİZASYON (KULLANICI BAZLI İZOLE) ---
   setupRealtimeSync() {
-    if (!this.db) return;
-
-    try {
-      // 1. Firestore Real-time Snapshot Dinleyicisi
-      this.db.collection('global_sync').doc('master_state').onSnapshot((doc) => {
-        if (doc && doc.exists) {
-          const data = doc.data();
-          if (data && data.storageData) {
-            // Eğer veri yerel olarak çok yeni yazıldıysa döngüyü engelle
-            const lastLocalSync = this.lastLocalWriteTime || 0;
-            if (Date.now() - lastLocalSync < 1500) {
-              return;
-            }
-            window.storageService.importAllData(data.storageData, true);
-            this.refreshActiveUI();
-          }
-        }
-      }, (err) => {
-        console.warn('Realtime snapshot dinleme uyarısı:', err.message || err);
-      });
-    } catch (e) {
-      console.warn('Realtime sync başlatılamadı:', e);
-    }
+    this.setupUserRealtimeSync();
 
     // 2. Ekran Değişimi ve Sekme Odaklanmasında Otomatik Senkronizasyon
-    if (typeof window !== 'undefined') {
+    if (typeof window !== 'undefined' && !this.visibilityListenersSet) {
+      this.visibilityListenersSet = true;
       window.addEventListener('focus', () => {
         this.syncAllDataFromCloud();
       });
@@ -116,6 +95,43 @@ class FirebaseService {
       setInterval(() => {
         this.syncAllDataFromCloud();
       }, 30000);
+    }
+  }
+
+  setupUserRealtimeSync() {
+    if (!this.db) return;
+
+    if (this.realtimeUnsubscribe && typeof this.realtimeUnsubscribe === 'function') {
+      try { this.realtimeUnsubscribe(); } catch (e) {}
+      this.realtimeUnsubscribe = null;
+    }
+
+    const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+    const targetDoc = isUserAdmin 
+      ? 'users/uid_master_admin' 
+      : (this.currentUser && this.currentUser.uid ? `users/${this.currentUser.uid}` : null);
+    
+    if (!targetDoc) return;
+
+    try {
+      const [col, docId] = targetDoc.split('/');
+      this.realtimeUnsubscribe = this.db.collection(col).doc(docId).onSnapshot((doc) => {
+        if (doc && doc.exists) {
+          const data = doc.data();
+          if (data && data.storageData && window.storageService) {
+            const lastLocalSync = this.lastLocalWriteTime || 0;
+            if (Date.now() - lastLocalSync < 1500) {
+              return;
+            }
+            window.storageService.importAllData(data.storageData, true);
+            this.refreshActiveUI();
+          }
+        }
+      }, (err) => {
+        console.warn('Realtime snapshot dinleme uyarısı:', err.message || err);
+      });
+    } catch (e) {
+      console.warn('Realtime sync başlatılamadı:', e);
     }
   }
 
@@ -522,6 +538,15 @@ class FirebaseService {
       if (mainAppEl) mainAppEl.style.display = 'flex';
 
       const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+      const uKey = isUserAdmin 
+        ? 'master_admin' 
+        : ((this.currentUserDoc && (this.currentUserDoc.username || this.currentUserDoc.displayName || this.currentUserDoc.uid)) || (user && user.uid) || 'student');
+      
+      if (window.storageService) {
+        window.storageService.setCurrentUser(uKey);
+      }
+      this.setupUserRealtimeSync();
+
       const displayName = (this.currentUserDoc && this.currentUserDoc.displayName) || (isUserAdmin ? 'Gökhan Eker (Yönetici)' : 'Öğrenci');
       const roleLabel = isUserAdmin ? '👑 Yönetici' : '🎓 Öğrenci';
       const initial = (displayName.charAt(0) || 'U').toUpperCase();
@@ -552,6 +577,14 @@ class FirebaseService {
         settingsNavEl.style.display = isUserAdmin ? 'flex' : 'none';
       }
     } else {
+      if (this.realtimeUnsubscribe && typeof this.realtimeUnsubscribe === 'function') {
+        try { this.realtimeUnsubscribe(); } catch (e) {}
+        this.realtimeUnsubscribe = null;
+      }
+      if (window.storageService) {
+        window.storageService.setCurrentUser('guest');
+      }
+
       if (authGateEl) authGateEl.style.display = 'flex';
       if (mainAppEl) mainAppEl.style.display = 'none';
 
@@ -583,79 +616,96 @@ class FirebaseService {
       const res = await this.auth.signInAnonymously();
       return res.user;
     } catch (e) {
-      // Anonymous auth might be disabled in console; proceed safely without throwing
       return null;
     }
   }
 
-  // --- BULUT İLE ÇİFT YÖNLÜ SENKRONİZASYON (MOBILE & PC EVRENSEL UYUM) ---
+  // --- BULUT İLE ÇİFT YÖNLÜ SENKRONİZASYON (KULLANICI BAZLI İZOLE) ---
   async syncAllDataToCloud(isWipe = false) {
-    if (!this.db) return;
+    if (!this.db || !window.storageService) return;
     this.lastLocalWriteTime = Date.now();
     try {
       await this.ensureAuth();
     } catch (e) {}
 
     const data = window.storageService.exportAllData();
-    const uid = (this.currentUser && this.currentUser.uid) ? this.currentUser.uid : 'uid_master_admin';
-    const email = (this.currentUser && this.currentUser.email) ? this.currentUser.email.toLowerCase() : 'admin@ekysrota.com';
+    const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+    const rawUid = (this.currentUser && this.currentUser.uid) ? this.currentUser.uid : (isUserAdmin ? 'uid_master_admin' : 'uid_guest');
+    const email = (this.currentUser && this.currentUser.email) ? this.currentUser.email.toLowerCase() : (isUserAdmin ? 'admin@ekysrota.com' : `${rawUid}@ekysrota.local`);
+    const displayName = (this.currentUser && this.currentUser.displayName) || (isUserAdmin ? 'Gökhan Eker (Yönetici)' : 'Öğrenci');
 
     const payload = {
       storageData: data,
       email: email,
-      displayName: (this.currentUser && this.currentUser.displayName) || 'Gökhan Eker (Yönetici)',
+      displayName: displayName,
+      role: isUserAdmin ? 'admin' : 'student',
       lastSyncedAt: new Date().toISOString(),
       isCleanWipe: !!isWipe
     };
 
-    try {
-      await this.db.collection('global_sync').doc('master_state').set(payload, { merge: true });
-    } catch (err) {
-      console.warn('global_sync write:', err.message || err);
-    }
-
-    try {
-      await this.db.collection('users').doc('uid_master_admin').set(payload, { merge: true });
-    } catch (err) {
-      console.warn('users/uid_master_admin write:', err.message || err);
-    }
-
-    if (uid && uid !== 'uid_master_admin') {
+    if (isUserAdmin) {
       try {
-        await this.db.collection('users').doc(uid).set(payload, { merge: true });
+        await this.db.collection('users').doc('uid_master_admin').set(payload, { merge: true });
+        await this.db.collection('global_sync').doc('master_state').set(payload, { merge: true });
       } catch (err) {
-        console.warn(`users/${uid} write:`, err.message || err);
+        console.warn('Admin cloud sync write:', err.message || err);
+      }
+    } else {
+      // Öğrenci verisi SADECE kendi users/{uid} belgesine yazılır! Asla admin ve global_sync havuzuna karışmaz!
+      try {
+        await this.db.collection('users').doc(rawUid).set(payload, { merge: true });
+      } catch (err) {
+        console.warn(`Student cloud sync write for ${rawUid}:`, err.message || err);
       }
     }
   }
 
   async syncAllDataFromCloud() {
-    if (!this.db) return false;
+    if (!this.db || !window.storageService) return false;
     try {
       await this.ensureAuth();
     } catch (e) {}
 
-    const uid = (this.currentUser && this.currentUser.uid) ? this.currentUser.uid : 'uid_master_admin';
-    const docsToTry = ['global_sync/master_state', 'users/uid_master_admin', 'users/uid_master_admin_google'];
-    if (uid && !docsToTry.includes(`users/${uid}`)) {
-      docsToTry.push(`users/${uid}`);
-    }
+    const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+    const rawUid = (this.currentUser && this.currentUser.uid) ? this.currentUser.uid : (isUserAdmin ? 'uid_master_admin' : '');
 
-    let anyFound = false;
-    for (const targetPath of docsToTry) {
+    if (isUserAdmin) {
+      const docsToTry = ['users/uid_master_admin', 'global_sync/master_state'];
+      for (const targetPath of docsToTry) {
+        try {
+          const [col, docId] = targetPath.split('/');
+          const doc = await this.db.collection(col).doc(docId).get();
+          if (doc && doc.exists) {
+            const d = doc.data();
+            if (d && d.storageData) {
+              window.storageService.importAllData(d.storageData);
+              this.refreshActiveUI();
+              return true;
+            }
+          }
+        } catch (e) {
+          console.warn('Doc fetch error for ' + targetPath, e.message || e);
+        }
+      }
+      return false;
+    } else {
+      // Öğrenci için: SADECE kendi bulut belgesini (users/{uid}) oku!
+      // Eğer bu öğrenci yeni ise veya belgesi yoksa HİÇBİR ŞEY ALMA (verileri %100 sıfır kalsın)!
+      if (!rawUid) return false;
       try {
-        const [col, docId] = targetPath.split('/');
-        const doc = await this.db.collection(col).doc(docId).get();
+        const doc = await this.db.collection('users').doc(rawUid).get();
         if (doc && doc.exists) {
           const d = doc.data();
           if (d && d.storageData) {
             window.storageService.importAllData(d.storageData);
-            anyFound = true;
+            this.refreshActiveUI();
+            return true;
           }
         }
       } catch (e) {
-        console.warn('Doc fetch error for ' + targetPath, e.message || e);
+        console.warn('Student fetch error for ' + rawUid, e.message || e);
       }
+      return false;
     }
 
     // Görünümleri yeniden render et

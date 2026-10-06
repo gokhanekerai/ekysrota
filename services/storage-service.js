@@ -2,27 +2,91 @@
 
 class StorageService {
   constructor() {
-    this.KEYS = {
+    this.BASE_KEYS = {
       TOPICS: 'ekys_topics_v5',
       QUESTIONS: 'ekys_questions_v6',
-      WRONG_POOL: 'ekys_wrong_pool_v10',
-      FAVORITES: 'ekys_favorites_v10',
-      QUIZ_HISTORY: 'ekys_quiz_history_v10',
       SOURCES: 'ekys_sources_v3',
-      SETTINGS: 'ekys_settings_v3',
-      STATS: 'ekys_stats_v3',
       CUSTOM_USERS: 'ekys_local_users_v3'
     };
 
+    let initialUser = 'master_admin';
+    try {
+      if (typeof localStorage !== 'undefined') {
+        const sess = JSON.parse(localStorage.getItem('ekys_active_session_v3') || 'null');
+        if (sess) {
+          initialUser = sess.username || sess.uid || (sess.role === 'admin' ? 'master_admin' : 'student');
+        }
+      }
+    } catch (e) {}
+
+    this.setCurrentUser(initialUser);
     this.cleanupOldVersions();
     this.initDefaults();
   }
 
+  setCurrentUser(userId) {
+    let raw = String(userId || 'master_admin').trim().toLowerCase();
+    if (raw === 'admin' || raw === 'uid_master_admin' || raw.includes('gokhan') || raw === 'admin@ekysrota.com') {
+      raw = 'master_admin';
+    }
+    const cleanId = raw.replace(/[^a-z0-9_-]/g, '_');
+    this.currentUserId = cleanId;
+
+    this.KEYS = {
+      ...this.BASE_KEYS,
+      WRONG_POOL: `ekys_user_${cleanId}_wrong_pool_v10`,
+      FAVORITES: `ekys_user_${cleanId}_favorites_v10`,
+      QUIZ_HISTORY: `ekys_user_${cleanId}_quiz_history_v10`,
+      SETTINGS: `ekys_user_${cleanId}_settings_v3`,
+      STATS: `ekys_user_${cleanId}_stats_v3`
+    };
+
+    // Eğer master_admin ise ve eski genel anahtarlarda veri varsa aktar
+    if (cleanId === 'master_admin') {
+      this.migrateLegacyAdminData();
+    }
+
+    // Yeni kullanıcı için dizileri boş olarak garanti et
+    if (typeof localStorage !== 'undefined') {
+      if (!localStorage.getItem(this.KEYS.WRONG_POOL)) {
+        localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify([]));
+      }
+      if (!localStorage.getItem(this.KEYS.FAVORITES)) {
+        localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify([]));
+      }
+      if (!localStorage.getItem(this.KEYS.QUIZ_HISTORY)) {
+        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify([]));
+      }
+    }
+  }
+
+  migrateLegacyAdminData() {
+    try {
+      if (typeof localStorage === 'undefined') return;
+      const oldHistory = localStorage.getItem('ekys_quiz_history_v10');
+      if (oldHistory && !localStorage.getItem(this.KEYS.QUIZ_HISTORY)) {
+        localStorage.setItem(this.KEYS.QUIZ_HISTORY, oldHistory);
+      }
+      const oldWrong = localStorage.getItem('ekys_wrong_pool_v10');
+      if (oldWrong && !localStorage.getItem(this.KEYS.WRONG_POOL)) {
+        localStorage.setItem(this.KEYS.WRONG_POOL, oldWrong);
+      }
+      const oldFav = localStorage.getItem('ekys_favorites_v10');
+      if (oldFav && !localStorage.getItem(this.KEYS.FAVORITES)) {
+        localStorage.setItem(this.KEYS.FAVORITES, oldFav);
+      }
+      const oldSet = localStorage.getItem('ekys_settings_v3');
+      if (oldSet && !localStorage.getItem(this.KEYS.SETTINGS)) {
+        localStorage.setItem(this.KEYS.SETTINGS, oldSet);
+      }
+    } catch (e) {}
+  }
+
   cleanupOldVersions() {
-    // Önceki sürümlerden kalan tüm eski çözüm/test ve kullanıcı verilerini kesin olarak temizle
+    // Önceki sürümlerden kalan eski sürümleri temizle
     const oldKeys = [
       'ekys_questions_v5',
-      'ekys_local_users_v3', 'ekys_local_users_v2', 'ekys_local_users',
+      'ekys_local_users_v2', 'ekys_local_users',
       'ekys_wrong_pool_v9', 'ekys_favorites_v9', 'ekys_quiz_history_v9',
       'ekys_wrong_pool_v8', 'ekys_favorites_v8', 'ekys_quiz_history_v8',
       'ekys_wrong_pool_v7', 'ekys_favorites_v7', 'ekys_quiz_history_v7',

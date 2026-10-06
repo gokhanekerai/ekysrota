@@ -5476,11 +5476,24 @@ class EKYSApp {
       if (mainAppEl) mainAppEl.style.display = 'flex';
 
       this.showToast(`Giriş başarılı! Hoş geldiniz.`, 'success');
-      this.renderDashboard();
-      this.renderTestHub();
+      this.onAuthStateUpdated(window.firebaseService ? window.firebaseService.currentUserDoc : null);
     } catch (err) {
       this.showToast(`Giriş başarısız: ${err.message}`, 'error');
     }
+  }
+
+  onAuthStateUpdated(user) {
+    if (window.storageService && user) {
+      const uKey = (user.role === 'admin' || user.username === 'admin') 
+        ? 'master_admin' 
+        : (user.username || user.displayName || user.uid || 'student');
+      window.storageService.setCurrentUser(uKey);
+    }
+    this.renderDashboard();
+    this.renderTestHub();
+    if (typeof this.renderStatsView === 'function') this.renderStatsView();
+    if (typeof this.renderWrongPoolList === 'function') this.renderWrongPoolList();
+    if (typeof this.renderFavoritesList === 'function') this.renderFavoritesList();
   }
 
   showAuthGate() {
