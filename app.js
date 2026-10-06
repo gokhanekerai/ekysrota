@@ -5705,6 +5705,7 @@ class EKYSApp {
     try {
       // 1. Yerel veritabanına yetkili kullanıcı adı ve şifreyle kaydet
       if (window.storageService) {
+        window.storageService.clearUserLocalData(username);
         window.storageService.saveCustomUser({
           name: username,
           username: username,
@@ -5739,6 +5740,7 @@ class EKYSApp {
     if (confirm(`"${username}" kullanıcısını sistemden tamamen çıkarmak istediğinize emin misiniz? Artık sisteme giriş yapamayacak.`)) {
       try {
         if (window.storageService) {
+          window.storageService.clearUserLocalData(username);
           window.storageService.removeCustomUser(username);
         }
         if (window.firebaseService) {
