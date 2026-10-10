@@ -67256,558 +67256,854 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)<br><br>🎯 <strong>Hocanın Dersteki Çözümü ve Pedagojik Analizi:</strong><br>• <strong>I. Öncül DOĞRUDUR:</strong> Ders çalışma ile matematik başarısı katsayısı +0.65'tir; pozitif olduğu için çalışma arttıkça matematik başarısı artar.<br>• <strong>II. Öncül YANLIŞTIR:</strong> Türkçe ile ilişkiler: Kitap okuma +0.75, telefon kullanımı -0.78'dir. Mutlak değerce 0.78 > 0.75 olduğundan Türkçe ile en çok ilişkili değişken telefon kullanımıdır (işarete bakılmaz).<br>• <strong>III. Öncül YANLIŞTIR:</strong> Telefon kullanımının matematikle ilişkisi 0.67, Türkçeyle 0.78'dir. Türkçeyle olan ilişki daha güçlüdür.<br>• Dolayısıyla doğru cevap <strong>Yalnız I</strong>'dir.<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>• II. öncülde -0.78 negatif olduğu için küçük zannedilip +0.75'e düşülmesi en büyük çeldiricidir; oysa ilişki gücünü mutlak değer belirler.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 2020 EKYS'de bizzat sorulmuş bu soru, korelasyonda işaretin yönü, mutlak değerin ise gücü belirttiği kuralını test eder."
   },
   {
-      "id": "olcme1-q1",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 1,
-      "questionText": "Bir öğretmen, öğrencinin sınavdan aldığı puanı 72\nolarak kaydetmiş ve önceden belirlenen 60 puanlık\nbaşarı sınırına göre öğrencinin başarılı olduğuna karar\nvermiştir.\nBu uygulamada puanın kaydedilmesi ve başarı\nkararının verilmesi, sırasıyla hangi kavramlarla\naçıklanır?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Ölçüt – Ölçme"
-          },
-          {
-              "key": "B",
-              "text": "Değerlendirme – Ölçüt"
-          },
-          {
-              "key": "C",
-              "text": "Ölçme – Değerlendirme"
-          },
-          {
-              "key": "D",
-              "text": "Ölçme – Ölçüt"
-          },
-          {
-              "key": "E",
-              "text": "Değerlendirme – Ölçme"
-          }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>72 puanın kaydedilmesi, özelliğin sayıyla ifade edilmesi olduğu için ölçmedir. Bu puanın 60 puanlık ölçütle karşılaştırılarak başarı kararı verilmesi değerlendirmedir. 60 puan ise değerlendirmede kullanılan ölçüttür."
+    "id": "olcme1-q1",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 1,
+    "questionText": "Bir öğretmen, öğrencinin sınavdan aldığı puanı 72 olarak kaydetmiş ve önceden belirlenen 60 puanlık başarı sınırına göre öğrencinin başarılı olduğuna karar vermiştir.\n\nBu uygulamada puanın kaydedilmesi ve başarı kararının verilmesi, sırasıyla hangi kavramlarla açıklanır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ölçüt – Ölçme"
+      },
+      {
+        "key": "B",
+        "text": "Değerlendirme – Ölçüt"
+      },
+      {
+        "key": "C",
+        "text": "Ölçme – Değerlendirme"
+      },
+      {
+        "key": "D",
+        "text": "Ölçme – Ölçüt"
+      },
+      {
+        "key": "E",
+        "text": "Değerlendirme – Ölçme"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Puanın gözlenip sayı veya sembolle ifade edilmesi (72 puan) <strong>ölçme</strong>; elde edilen ölçüm sonucunun ölçütle (60 puan) karşılaştırılarak bir yargıya/karara varılması (başarılı kabul edilmesi) ise <strong>değerlendirme</strong> işlemidir."
   },
   {
-      "id": "olcme1-q2",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 2,
-      "questionText": "Aşağıdaki ölçek türlerinden hangisinde gerçek sıfır\nnoktası bulunur ve ölçülen değerler arasında oran\nkarşılaştırması yapılabilir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Eşit oranlı"
-          },
-          {
-              "key": "B",
-              "text": "Sıralama"
-          },
-          {
-              "key": "C",
-              "text": "Sınıflama"
-          },
-          {
-              "key": "D",
-              "text": "Eşit aralıklı"
-          },
-          {
-              "key": "E",
-              "text": "Adlandırma"
-          }
-      ],
-      "correctAnswer": "A",
-      "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Eşit oranlı ölçekte sıfır, ölçülen özelliğin yokluğunu gösterir. Bu nedenle 20 kg kütlenin 10 kg kütlenin iki katı olduğu söylenebilir. Eşit aralıklı ölçekte ise başlangıç noktası göreli olduğundan bu tür oran karşılaştırmaları yapılamaz."
+    "id": "olcme1-q2",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 2,
+    "questionText": "Aşağıdaki ölçek türlerinden hangisinde gerçek (mutlak) sıfır noktası bulunur ve ölçülen değerler arasında oran karşılaştırması yapılabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Eşit oranlı ölçek"
+      },
+      {
+        "key": "B",
+        "text": "Sıralama ölçeği"
+      },
+      {
+        "key": "C",
+        "text": "Sınıflama ölçeği"
+      },
+      {
+        "key": "D",
+        "text": "Eşit aralıklı ölçek"
+      },
+      {
+        "key": "E",
+        "text": "Adlandırma ölçeği"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Gerçek (doğal/mutlak) sıfır noktası, ölçülen özelliğin yokluğunu bildirir. Gerçek sıfırın bulunduğu ve kat/oran karşılaştırması (2 katı, yarısı vb.) yapılabilen tek ölçek türü <strong>eşit oranlı</strong> ölçektir."
   },
   {
-      "id": "olcme1-q3",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 3,
-      "questionText": "Ölçme hatalarıyla ilgili aşağıdaki eşleştirmeler\nverilmiştir.\nI. Bütün öğrencilere yanlışlıkla 4 puan fazla\nverilmesi — Sabit hata\nII. Öğrencilere, tanıdık olma durumlarına göre ek\npuan verilmesi — Sistematik hata\nIII. Puanlama sırasında bazı cevapların\ndikkatsizlikle atlanması — Tesadüfi hata\nBu eşleştirmelerden hangileri doğrudur?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Yalnız I"
-          },
-          {
-              "key": "B",
-              "text": "Yalnız II"
-          },
-          {
-              "key": "C",
-              "text": "I ve II"
-          },
-          {
-              "key": "D",
-              "text": "II ve III"
-          },
-          {
-              "key": "E",
-              "text": "I, II ve III"
-          }
-      ],
-      "correctAnswer": "E",
-      "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>I’de her puana aynı miktar eklendiğinden sabit hata vardır. II’de puanlamaya öğrenciyle tanışıklığa bağlı bir yanlılık karıştığından sistematik hata vardır. III’te belirli bir kurala dayanmayan dikkatsizlik, tesadüfi hataya yol açar. Üç eşleştirme de doğrudur."
+    "id": "olcme1-q3",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 3,
+    "questionText": "Ölçme hatalarıyla ilgili aşağıdaki eşleştirmeler verilmiştir:\n\nI. Bütün öğrencilere yanlışlıkla 4 puan fazla verilmesi — Sabit hata\nII. Öğrencilere, tanıdık olma durumlarına göre ek puan verilmesi — Sistematik hata\nIII. Puanlama sırasında bazı cevapların dikkatsizlikle atlanması — Tesadüfi hata\n\nBu eşleştirmelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Herkese eşit miktarda karışan hata <strong>sabit hatadır</strong> (I doğru).<br>• Belli bir kurala, taraflılığa veya özelliğe bağlı olarak karışan hata <strong>sistematik hatadır</strong> (II doğru).<br>• Kaynağı, yönü ve miktarı kestirilemeyen dikkatsizlik kaynaklı hata ise <strong>tesadüfi hatadır</strong> (III doğru)."
   },
   {
-      "id": "olcme1-q4",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 4,
-      "questionText": "Bir öğretmen, kavramları numaralandırılmış kutulara\nyerleştirmiştir. Öğrencilerden her sorunun cevabına\nuygun kutuların numaralarını seçmelerini istemiştir.\nAynı kutu, birden fazla sorunun cevabında\nkullanılabilmektedir.\nÖğretmenin kullandığı ölçme aracı aşağıdakilerden\nhangisidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Tanılayıcı dallanmış ağaç"
-          },
-          {
-              "key": "B",
-              "text": "Yapılandırılmış grid"
-          },
-          {
-              "key": "C",
-              "text": "Kelime ilişkilendirme testi"
-          },
-          {
-              "key": "D",
-              "text": "Kontrol listesi"
-          },
-          {
-              "key": "E",
-              "text": "Dereceli puanlama anahtarı"
-          }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Yapılandırılmış gridde kavramlar, ifadeler veya görseller kutularda sunulur. Öğrenci, soruya uygun kutuların numaralarını seçer. Tanılayıcı dallanmış ağaçta ise verilen cevaplara göre farklı dallar izlenerek bir çıkışa ulaşılır."
+    "id": "olcme1-q4",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 4,
+    "questionText": "Bir öğretmen, kavramları numaralandırılmış kutulara yerleştirmiştir. Öğrencilerden her sorunun cevabına uygun kutuların numaralarını seçmelerini istemiştir. Aynı kutu, birden fazla sorunun cevabında kullanılabilmektedir.\n\nÖğretmenin kullandığı ölçme aracı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tanılayıcı dallanmış ağaç"
+      },
+      {
+        "key": "B",
+        "text": "Yapılandırılmış grid"
+      },
+      {
+        "key": "C",
+        "text": "Kelime ilişkilendirme testi"
+      },
+      {
+        "key": "D",
+        "text": "Kontrol listesi"
+      },
+      {
+        "key": "E",
+        "text": "Dereceli puanlama anahtarı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Genellikle 9, 12 veya 16 kutucuktan oluşan, kavramların yerleştirildiği ve bir kutunun birden fazla sorunun cevabı olabildiği çağdaş alternatif ölçme aracı <strong>yapılandırılmış grid</strong>dir."
   },
   {
-      "id": "olcme1-q5",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 5,
-      "questionText": "Ölçme araçlarının nitelikleriyle ilgili aşağıdaki ifadeler\nverilmiştir.\nI. Bir araç tutarlı sonuçlar verdiği hâlde\namaçlanan özelliği yeterince ölçmeyebilir.\nII. Tesadüfi hataların artması, ölçme sonuçlarının\ngüvenirliğini düşürür.\nIII. Bir aracın düşük maliyetle uygulanması,\nkapsam geçerliğinin kanıtıdır.\nBu ifadelerden hangileri doğrudur?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Yalnız I"
-          },
-          {
-              "key": "B",
-              "text": "Yalnız III"
-          },
-          {
-              "key": "C",
-              "text": "I ve III"
-          },
-          {
-              "key": "D",
-              "text": "I ve II"
-          },
-          {
-              "key": "E",
-              "text": "II ve III"
-          }
-      ],
-      "correctAnswer": "D",
-      "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>I doğrudur. Tutarlılık, aracın amaçlanan özelliği ölçtüğünü tek başına göstermez. II de doğrudur. Tesadüfi hatalar güvenirliği azaltır. III yanlıştır. Düşük maliyet kullanışlılıkla ilgilidir; kapsam geçerliği, ölçülecek içeriğin yeterince temsil edilmesiyle ilişkilidir."
+    "id": "olcme1-q5",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 5,
+    "questionText": "Ölçme araçlarının nitelikleriyle ilgili aşağıdaki ifadeler verilmiştir:\n\nI. Bir araç tutarlı sonuçlar verdiği hâlde amaçlanan özelliği yeterince ölçmeyebilir.\nII. Tesadüfi hataların artması, ölçme sonuçlarının güvenirliğini düşürür.\nIII. Bir aracın düşük maliyetle uygulanması, kapsam geçerliğinin kanıtıdır.\n\nBu ifadelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Bir test güvenilir olduğu hâlde geçerli olmayabilir (I doğru).<br>• Tesadüfi hatalar doğrudan güvenirliği azaltır (II doğru).<br>• Maliyet, zaman ve emek uygunluğu kapsam geçerliğini değil, <strong>kullanışlılığı</strong> gösterir (III yanlış)."
   },
   {
-      "id": "olcme1-q6",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 6,
-      "questionText": "Aşağıdakilerden hangisi kısa cevaplı testlerin ayırt\nedici bir özelliğidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Öğrencinin verilen iki yargıdan birini seçmesi"
-          },
-          {
-              "key": "B",
-              "text": "Öğrencinin cevabı bir sözcük, sayı veya kısa ifadeyle üretmesi"
-          },
-          {
-              "key": "C",
-              "text": "Öğrencinin iki listedeki öğeleri eşleştirmesi"
-          },
-          {
-              "key": "D",
-              "text": "Öğrencinin seçenekler arasından uygun cevabı işaretlemesi"
-          },
-          {
-              "key": "E",
-              "text": "Öğrencinin cevabına göre farklı soru dallarını izlemesi"
-          }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kısa cevaplı testte öğrenci cevabı kendisi üretir. Cevap genellikle bir sözcük, sayı ya da kısa ifadedir. Hazır seçeneklerin işaretlenmesi çoktan seçmeli testlere, iki listedeki öğelerin ilişkilendirilmesi eşleştirme testlerine aittir."
+    "id": "olcme1-q6",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 6,
+    "questionText": "Aşağıdakilerden hangisi kısa cevaplı testlerin ayırt edici bir özelliğidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencinin verilen iki yargıdan birini seçmesi"
+      },
+      {
+        "key": "B",
+        "text": "Öğrencinin cevabı bir sözcük, sayı veya kısa ifadeyle kendisinin üretmesi"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencinin iki listedeki öğeleri eşleştirmesi"
+      },
+      {
+        "key": "D",
+        "text": "Öğrencinin seçenekler arasından uygun cevabı işaretlemesi"
+      },
+      {
+        "key": "E",
+        "text": "Öğrencinin cevabına göre farklı soru dallarını izlemesi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kısa cevaplı testler, cevabı öğrencinin kendisinin hatırlayıp tek bir sözcük, sembol, rakam veya kısa bir cümle ile yazdığı (ürettiği) testlerdir. Seçenek sunulmaz."
   },
   {
-      "id": "olcme1-q7",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 7,
-      "questionText": "Bir öğretmen, ünite işlenirken kısa etkinliklerle\nöğrencilerin eksik öğrenmelerini belirlemekte,\nöğrencilere geri bildirim vermekte ve elde ettiği\nsonuçlara göre öğretimini yeniden düzenlemektedir.\nBu uygulamanın temel amacı hangi değerlendirme\ntürüne uygundur?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Tanıma ve yerleştirme"
-          },
-          {
-              "key": "B",
-              "text": "Düzey belirleme"
-          },
-          {
-              "key": "C",
-              "text": "Bağıl değerlendirme"
-          },
-          {
-              "key": "D",
-              "text": "Mutlak değerlendirme"
-          },
-          {
-              "key": "E",
-              "text": "Biçimlendirme ve yetiştirme"
-          }
-      ],
-      "correctAnswer": "E",
-      "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Öğrenme sürerken eksikleri belirlemek, geri bildirim vermek ve öğretimi iyileştirmek biçimlendirme ve yetiştirmeye yönelik değerlendirmedir. Tanıma ve yerleştirme daha çok öğretim öncesindeki hazırbulunuşlukla, düzey belirleme ise süreç sonundaki kazanımlarla ilgilidir."
+    "id": "olcme1-q7",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 7,
+    "questionText": "Bir öğretmen, ünite işlenirken kısa etkinliklerle öğrencilerin eksik öğrenmelerini belirlemekte, öğrencilere geri bildirim vermekte ve elde ettiği sonuçlara göre öğretimini yeniden düzenlemektedir.\n\nBu uygulamanın temel amacı hangi değerlendirme türüne uygundur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tanıma ve yerleştirmeye dönük değerlendirme"
+      },
+      {
+        "key": "B",
+        "text": "Düzey belirlemeye dönük değerlendirme"
+      },
+      {
+        "key": "C",
+        "text": "Bağıl değerlendirme"
+      },
+      {
+        "key": "D",
+        "text": "Mutlak değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Biçimlendirme ve yetiştirmeye dönük değerlendirme (Formatif)"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Öğretim süreci devam ederken öğrenme eksikliklerini ve güçlüklerini belirleyip süreci iyileştirmek amacıyla yapılan değerlendirme <strong>biçimlendirici/formatif</strong> değerlendirmedir (İzleme testi)."
   },
   {
-      "id": "olcme1-q8",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 8,
-      "questionText": "Aşağıdakilerden hangisi türetilmiş ölçmeye örnektir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Bir masanın uzunluğunun metreyle belirlenmesi"
-          },
-          {
-              "key": "B",
-              "text": "Bir sınıftaki öğrencilerin sayılması"
-          },
-          {
-              "key": "C",
-              "text": "Alınan yolun geçen süreye bölünerek hızın hesaplanması"
-          },
-          {
-              "key": "D",
-              "text": "Bir öğrencinin başarısının sınav cevaplarından belirlenmesi"
-          },
-          {
-              "key": "E",
-              "text": "Bir cismin kütlesinin eşit kollu teraziyle belirlenmesi"
-          }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türetilmiş ölçmede bir özellik, başka özelliklerin ölçümleri arasındaki matematiksel ilişkiden elde edilir. Hız, yolun zamana bölünmesiyle hesaplanır. Sınav cevaplarından başarı belirlemek dolaylı ölçmeye örnektir."
+    "id": "olcme1-q8",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 8,
+    "questionText": "Aşağıdakilerden hangisi türetilmiş ölçmeye örnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bir masanın uzunluğunun metreyle belirlenmesi"
+      },
+      {
+        "key": "B",
+        "text": "Bir sınıftaki öğrencilerin sayılması"
+      },
+      {
+        "key": "C",
+        "text": "Alınan yolun geçen süreye bölünerek hızın hesaplanması"
+      },
+      {
+        "key": "D",
+        "text": "Bir öğrencinin başarısının sınav cevaplarından belirlenmesi"
+      },
+      {
+        "key": "E",
+        "text": "Bir cismin kütlesinin eşit kollu teraziyle belirlenmesi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İki ya da daha fazla değişken arasındaki matematiksel bir bağıntı (formül) yardımıyla yapılan ölçümlere <strong>türetilmiş ölçme</strong> denir (Hız = Yol / Zaman, Yoğunluk = Kütle / Hacim vb.)."
   },
   {
-      "id": "olcme1-q9",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 9,
-      "questionText": "Performans değerlendirme araçlarıyla ilgili aşağıdaki\nifadeler verilmiştir.\nI. Kontrol listesi, davranışın niteliğini başarı\ndüzeyleriyle puanlar.\nII. Analitik rubrik, performansın ölçütlerini ayrı\nayrı puanlar.\nIII. Holistik rubrik, her ölçüt için ayrı bir başarı\npuanı verir.\nBu ifadelerden hangileri doğrudur?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Yalnız II"
-          },
-          {
-              "key": "B",
-              "text": "Yalnız I"
-          },
-          {
-              "key": "C",
-              "text": "I ve II"
-          },
-          {
-              "key": "D",
-              "text": "II ve III"
-          },
-          {
-              "key": "E",
-              "text": "I, II ve III"
-          }
-      ],
-      "correctAnswer": "A",
-      "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Yalnız II doğrudur. Analitik rubrikte ölçütler ayrı ayrı puanlanır. Kontrol listesi, davranışın bulunup bulunmadığını veya gerçekleşip gerçekleşmediğini kaydeder. Holistik rubrikte performansın bütünü için tek bir genel puan verilir."
+    "id": "olcme1-q9",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 9,
+    "questionText": "Performans değerlendirme araçlarıyla ilgili aşağıdaki ifadeler verilmiştir:\n\nI. Kontrol listesi, davranışın niteliğini başarı düzeyleriyle puanlar.\nII. Analitik rubrik, performansın ölçütlerini ayrı ayrı puanlar.\nIII. Holistik rubrik, her ölçüt için ayrı bir başarı puanı verir.\n\nBu ifadelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kontrol listesi sadece davranışın varlığını/yokluğunu (evet/hayır) gösterir, derece belirtmez (I yanlış).<br>• Analitik rubrik performansı alt boyutlara ayırarak her ölçütü ayrı ayrı puanlar (II doğru).<br>• Holistik rubrik performansın bütününe tek bir genel puan verir; ayrı ölçüt puanlaması yapmaz (III yanlış)."
   },
   {
-      "id": "olcme1-q10",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 10,
-      "questionText": "Bir araştırmacı, iki denk öğrenci grubundan birinde\netkileşimli video, diğerinde basılı metin kullanmıştır.\nDers süresini ve işlenen konuyu aynı tutmuş, uygulama\nsonunda iki grubun başarı testi puanlarını\nkarşılaştırmıştır.\nBu araştırmanın bağımsız ve bağımlı değişkenleri\nsırasıyla aşağıdakilerden hangisidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Ders süresi – Kullanılan materyal türü"
-          },
-          {
-              "key": "B",
-              "text": "Başarı testi puanı – İşlenen konu"
-          },
-          {
-              "key": "C",
-              "text": "İşlenen konu – Ders süresi"
-          },
-          {
-              "key": "D",
-              "text": "Kullanılan materyal türü – Başarı testi puanı"
-          },
-          {
-              "key": "E",
-              "text": "Kullanılan materyal türü – Ders süresi"
-          }
-      ],
-      "correctAnswer": "D",
-      "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Araştırmacının değiştirdiği ve etkisini incelediği materyal türü bağımsız değişkendir. Bu uygulamanın sonucu olarak ölçülen başarı testi puanı bağımlı değişkendir. Ders süresi ve işlenen konu ise sabit tutulan değişkenlerdir."
+    "id": "olcme1-q10",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 10,
+    "questionText": "Bir araştırmacı, iki denk öğrenci grubundan birinde etkileşimli video, diğerinde basılı metin kullanmıştır. Ders süresini ve işlenen konuyu aynı tutmuş, uygulama sonunda iki grubun başarı testi puanlarını karşılaştırmıştır.\n\nBu araştırmanın bağımsız ve bağımlı değişkenleri sırasıyla aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ders süresi – Kullanılan materyal türü"
+      },
+      {
+        "key": "B",
+        "text": "Başarı testi puanı – İşlenen konu"
+      },
+      {
+        "key": "C",
+        "text": "İşlenen konu – Ders süresi"
+      },
+      {
+        "key": "D",
+        "text": "Kullanılan materyal türü – Başarı testi puanı"
+      },
+      {
+        "key": "E",
+        "text": "Kullanılan materyal türü – Ders süresi"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Araştırmacının bizzat değiştirdiği/etkisini incelediği faktör (neden) <strong>bağımsız değişken</strong> (Materyal türü); bundan etkilenen sonuç faktörü ise <strong>bağımlı değişken</strong>dir (Başarı testi puanı)."
   },
   {
-      "id": "olcme1-q11",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 11,
-      "questionText": "Bir testin, aynı gruba belirli bir zaman aralığıyla\nyeniden uygulanması ve iki uygulamadan elde edilen\npuanlar arasındaki ilişkinin incelenmesi hangi\ngüvenirlik belirleme yöntemidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Test tekrar test"
-          },
-          {
-              "key": "B",
-              "text": "Testi yarılama"
-          },
-          {
-              "key": "C",
-              "text": "Paralel formlar"
-          },
-          {
-              "key": "D",
-              "text": "Puanlayıcılar arası tutarlılık"
-          },
-          {
-              "key": "E",
-              "text": "İç tutarlılık"
-          }
-      ],
-      "correctAnswer": "A",
-      "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Test tekrar test yönteminde aynı test, aynı gruba iki ayrı zamanda uygulanır. Puanlar arasındaki ilişki, ölçülen özelliğin bu aralıkta değişmediği varsayımıyla sonuçların zaman içindeki kararlılığı hakkında bilgi verir."
+    "id": "olcme1-q11",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 11,
+    "questionText": "Bir testin, aynı gruba belirli bir zaman aralığıyla yeniden uygulanması ve iki uygulamadan elde edilen puanlar arasındaki ilişkinin incelenmesi hangi güvenirlik belirleme yöntemidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Test-tekrar test yöntemi (Kararlılık)"
+      },
+      {
+        "key": "B",
+        "text": "Testi yarılama yöntemi (Eşdeğer yarılar)"
+      },
+      {
+        "key": "C",
+        "text": "Paralel formlar yöntemi (Eşdeğerlik)"
+      },
+      {
+        "key": "D",
+        "text": "Puanlayıcılar arası tutarlılık"
+      },
+      {
+        "key": "E",
+        "text": "İç tutarlılık yöntemi (KR-20 / Cronbach Alfa)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Aynı ölçme aracının aynı gruba belli bir zaman aralığı verilerek iki kez uygulanmasıyla zamana karşı direnç/kararlılık katsayısı hesaplanır; bu yöntem <strong>test-tekrar test</strong> yöntemidir."
   },
   {
-      "id": "olcme1-q12",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 12,
-      "questionText": "Ölçüte göre değerlendirmeyle ilgili aşağıdaki\nuygulamalar verilmiştir.\nI. Önceden belirlenen 70 puan ve üstünü başarılı\nkabul etme — Mutlak değerlendirme\nII. Grubun en yüksek puanlı yüzde 10’luk\nbölümünü seçme — Mutlak değerlendirme\nIII. Sınıf ortalamasının üstündeki puanları başarılı\nkabul etme — Bağıl değerlendirme\nBu eşleştirmelerden hangileri doğrudur?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Yalnız I"
-          },
-          {
-              "key": "B",
-              "text": "Yalnız II"
-          },
-          {
-              "key": "C",
-              "text": "I ve III"
-          },
-          {
-              "key": "D",
-              "text": "I ve II"
-          },
-          {
-              "key": "E",
-              "text": "II ve III"
-          }
-      ],
-      "correctAnswer": "C",
-      "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>I’de ölçüt, grubun puanlarından bağımsız olarak önceden belirlendiğinden mutlak değerlendirme vardır. III’te sınıf ortalaması ölçüt alındığından bağıl değerlendirme vardır. II’de seçim grubun sıralamasına bağlıdır; dolayısıyla bu uygulama da bağıl değerlendirmedir."
+    "id": "olcme1-q12",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 12,
+    "questionText": "Ölçüte göre değerlendirmeyle ilgili aşağıdaki uygulamalar verilmiştir:\n\nI. Önceden belirlenen 70 puan ve üstünü başarılı kabul etme — Mutlak değerlendirme\nII. Grubun en yüksek puanlı yüzde 10’luk bölümünü seçme — Mutlak değerlendirme\nIII. Sınıf ortalamasının üstündeki puanları başarılı kabul etme — Bağıl değerlendirme\n\nBu eşleştirmelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Önceden net belirlenmiş kriter (70 puan) <strong>mutlak ölçüttür</strong> (I doğru).<br>• Grubun en iyi yüzde 10'u gruba bağlı olduğu için mutlak değil, <strong>bağıl ölçüttür</strong> (II yanlış).<br>• Sınıf ortalaması grup başarısına göre değiştiğinden <strong>bağıl ölçüttür</strong> (III doğru)."
   },
   {
-      "id": "olcme1-q13",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 13,
-      "questionText": "Bir öğrenci; ilk taslaklarını, öğretmen geri\nbildirimlerini, düzeltilmiş çalışmalarını ve kendi\ndeğerlendirme notlarını dönem boyunca bir dosyada\nbiriktirmiştir. Öğretmen, bu dosyayı öğrencinin\ngelişimini izlemek için kullanmıştır.\nBu uygulamada kullanılan temel değerlendirme\naracı aşağıdakilerden hangisidir?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Kontrol listesi"
-          },
-          {
-              "key": "B",
-              "text": "Öğrenci ürün dosyası"
-          },
-          {
-              "key": "C",
-              "text": "Tanılayıcı dallanmış ağaç"
-          },
-          {
-              "key": "D",
-              "text": "Kelime ilişkilendirme testi"
-          },
-          {
-              "key": "E",
-              "text": "Çoktan seçmeli test"
-          }
-      ],
-      "correctAnswer": "B",
-      "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Öğrenci ürün dosyası (portfolyo), öğrencinin belirli bir süreçteki çalışmalarını ve gelişimini gösteren kanıtları içerir. Taslakların, geri bildirimlerin, düzeltmelerin ve öz değerlendirmelerin birlikte bulunması, süreç içindeki gelişimin izlenmesini sağlar."
+    "id": "olcme1-q13",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 13,
+    "questionText": "Bir öğrenci; ilk taslaklarını, öğretmen geri bildirimlerini, düzeltilmiş çalışmalarını ve kendi değerlendirme notlarını dönem boyunca bir dosyada biriktirmiştir. Öğretmen, bu dosyayı öğrencinin gelişimini izlemek için kullanmıştır.\n\nBu uygulamada kullanılan temel değerlendirme aracı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kontrol listesi"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenci ürün dosyası (Portfolyo)"
+      },
+      {
+        "key": "C",
+        "text": "Tanılayıcı dallanmış ağaç"
+      },
+      {
+        "key": "D",
+        "text": "Kelime ilişkilendirme testi"
+      },
+      {
+        "key": "E",
+        "text": "Çoktan seçmeli test"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Öğrencinin bir dönem veya yıl boyunca gelişimini, çabasını ve başarılarını kanıtlayan sistemli ürün koleksiyonu <strong>öğrenci ürün dosyası (portfolyo)</strong> olarak adlandırılır."
   },
   {
-      "id": "olcme1-q14",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 14,
-      "questionText": "Bir ölçme aracının hazırlanması, uygulanması ve\npuanlanmasının emek, zaman ve maliyet\nbakımından uygun olması hangi niteliği ifade eder?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Kapsam geçerliği"
-          },
-          {
-              "key": "B",
-              "text": "Yapı geçerliği"
-          },
-          {
-              "key": "C",
-              "text": "Güvenirlik"
-          },
-          {
-              "key": "D",
-              "text": "Kullanışlılık"
-          },
-          {
-              "key": "E",
-              "text": "Yordama geçerliği"
-          }
-      ],
-      "correctAnswer": "D",
-      "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kullanışlılık, ölçme aracının hazırlanması, uygulanması ve puanlanmasındaki pratiklik ve ekonomiklikle ilgilidir. Geçerlik amaçlanan özelliğin ölçülmesiyle, güvenirlik ise sonuçların tutarlılığı ve tesadüfi hatalardan arınıklığıyla ilişkilidir."
+    "id": "olcme1-q14",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 14,
+    "questionText": "Bir ölçme aracının hazırlanması, uygulanması ve puanlanmasının emek, zaman ve maliyet bakımından ekonomik ve uygun olması hangi niteliği ifade eder?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kapsam geçerliği"
+      },
+      {
+        "key": "B",
+        "text": "Yapı geçerliği"
+      },
+      {
+        "key": "C",
+        "text": "Güvenirlik"
+      },
+      {
+        "key": "D",
+        "text": "Kullanışlılık"
+      },
+      {
+        "key": "E",
+        "text": "Yordama geçerliği"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bir testin maliyetinin az olması, hazırlanmasının, çoğaltılmasının, uygulanmasının ve puanlanmasının kolay ve pratik olması onun <strong>kullanışlılığı</strong> ile ilgilidir."
   },
   {
-      "id": "olcme1-q15",
-      "testId": "egitim_olcme_test_1",
-      "testTitle": "Ölçme ve Değerlendirme Testi 1",
-      "topicId": "egitim_olcme_test_1",
-      "topicName": "Ölçme ve Değerlendirme Testi 1",
-      "category": "Eğitim Bilimleri",
-      "icon": "📊",
-      "questionNumber": 15,
-      "questionText": "Korelasyon katsayısının yorumlanmasıyla ilgili\naşağıdaki ifadeler verilmiştir.\nI. −0,85 katsayısı, +0,40 katsayısından daha\ngüçlü bir doğrusal ilişki gösterir.\nII. Negatif katsayı, değişkenlerin ters yönde\ndeğişme eğilimini gösterir.\nIII. Sıfır katsayı, değişkenler arasında ilişki\nbulunmadığını gösterir.\nBu ifadelerden hangileri doğrudur?",
-      "hasImage": false,
-      "image": null,
-      "options": [
-          {
-              "key": "A",
-              "text": "Yalnız I"
-          },
-          {
-              "key": "B",
-              "text": "Yalnız II"
-          },
-          {
-              "key": "C",
-              "text": "I ve III"
-          },
-          {
-              "key": "D",
-              "text": "II ve III"
-          },
-          {
-              "key": "E",
-              "text": "I, II VE III"
-          }
-      ],
-      "correctAnswer": "E",
-      "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>I doğrudur. İlişkinin gücü katsayının mutlak değeriyle karşılaştırılır; 0,85, 0,40’tan büyüktür. II doğrudur. Negatif işaret ilişkinin ters yönlü olduğunu gösterir. III doğrudur. Sıfır korelasyon, değişkenler arasında ilişki bulunmadığını gösterir."
+    "id": "olcme1-q15",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 15,
+    "questionText": "Korelasyon katsayısının yorumlanmasıyla ilgili aşağıdaki ifadeler verilmiştir:\n\nI. −0,85 katsayısı, +0,40 katsayısından daha güçlü bir doğrusal ilişki gösterir.\nII. Negatif katsayı, değişkenlerin ters yönde değişme eğilimini gösterir.\nIII. Sıfır katsayı, değişkenler arasında doğrusal bir ilişki bulunmadığını gösterir.\n\nBu ifadelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İlişkinin derecesini işaret değil mutlak değer belirler (|-0,85| > |+0,40| olduğundan I doğru).<br>• Eksi işaret ters orantıyı/yönü belirtir (II doğru).<br>• r = 0 doğrusal ilişkinin olmadığını ifade eder (III doğru)."
+  },
+  {
+    "id": "olcme1-q16",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 16,
+    "questionText": "Bir okuldaki 200 öğrenci, benzer içerikte hazırlanan iki sınava katılmış ve bu sınav sonuçlarına göre başarılı ve başarısız olarak sınıflandırılmıştır. Bu sınıflama sonucunda elde edilen başarılı ve başarısız öğrenci sayıları aşağıdaki tabloda verilmiştir:\n\n<div class=\"quiz-table-wrapper\"><table class=\"quiz-data-table\"><thead><tr><th rowspan=\"2\" style=\"vertical-align: middle;\">Sınavlar</th><th colspan=\"2\">II. Sınav</th></tr><tr><th class=\"table-sub-header\">Başarılı</th><th class=\"table-sub-header\">Başarısız</th></tr></thead><tbody><tr><td class=\"table-row-title\">I. Sınav: Başarılı</td><td class=\"highlight-num\">145</td><td>15</td></tr><tr><td class=\"table-row-title\">I. Sınav: Başarısız</td><td>5</td><td class=\"highlight-num\">35</td></tr></tbody></table></div>\n\nBuna göre öğrencilerin sınıflandırılmasına ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I. sınava göre 160 öğrenci başarılı olarak sınıflandırılmıştır."
+      },
+      {
+        "key": "B",
+        "text": "II. sınava göre 50 öğrenci başarısız olarak sınıflandırılmıştır."
+      },
+      {
+        "key": "C",
+        "text": "Her iki sınava göre toplam 20 öğrenci farklı sınıflandırılmıştır."
+      },
+      {
+        "key": "D",
+        "text": "Öğrencilerin %90'ı her iki sınava göre aynı sınıflandırılmıştır."
+      },
+      {
+        "key": "E",
+        "text": "Her iki sınava göre 55 öğrenci başarısız olarak sınıflandırılmıştır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• I. Sınavda başarılı olanlar: 145 + 15 = 160 kişidir.<br>• II. Sınavda başarısız olanlar: 15 + 35 = 50 kişidir.<br>• Farklı düzeyde sınıflandırılanlar: 15 + 5 = 20 kişidir.<br>• Aynı düzeyde sınıflandırılanlar: 145 + 35 = 180 kişi (180 / 200 = %90).<br>• Her iki sınava göre başarısız olan öğrenci sayısı tabloda açıkça görüldüğü üzere 55 değil, <strong>35 kişidir</strong>."
+  },
+  {
+    "id": "olcme1-q17",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 17,
+    "questionText": "Bir okulda öğrencilerin matematik başarısı ile matematik dersine yönelik tutum puanları arasındaki ilişki incelenmiş ve aşağıdaki grafik elde edilmiştir:\n\nBuna göre;\nI. Matematik başarısı ile matematik dersine yönelik tutum puanları arasında pozitif yönlü bir ilişki vardır.\nII. Matematik başarısı yüksek olan öğrencilerin, matematik dersine yönelik tutum puanları da yüksek olma eğilimindedir.\nIII. Öğrencilerin matematik dersine yönelik tutum puanının azalması, matematik başarısının düşük olmasına neden olmaktadır.\n\nyorumlarından hangileri kesinlikle doğrudur?",
+    "hasImage": true,
+    "image": "assets/questions/olcme_ornek_soru_08.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• I. Öncül: Saçılma grafiğindeki noktalar soldan sağa yukarıya doğru bir eğilim gösterdiğinden değişkenler arasında pozitif yönlü doğrusal bir ilişki vardır (Doğru).<br>• II. Öncül: Pozitif korelasyon gereği, bir değişkende yüksek puan alanların diğerinde de yüksek puan alma eğilimi bulunur (Doğru).<br>• III. Öncül: Korelasyon katsayısı iki değişken arasındaki ilişkinin yönü ve miktarını gösterir; <strong>neden-sonuç (illiyet) ilişkisi bildirmez</strong>. Biri diğerinin nedeni olarak yorumlanamaz (Ulaşılamaz)."
+  },
+  {
+    "id": "olcme1-q18",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 18,
+    "questionText": "Aşağıda bir okulun sınıf mevcutları eşit olan dört farklı şubesinde eğitim gören 8. sınıf öğrencilerine uygulanan ortak bir matematik testinden elde edilen puanlara ilişkin frekans dağılımları verilmiştir:\n\nBu grafiklere göre aşağıdaki yorumlardan hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/olcme_ornek_soru_09.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Şubeler arasında puan değişkenliği en az olan D şubesidir."
+      },
+      {
+        "key": "B",
+        "text": "B şubesinin matematik başarısı D şubesinden daha fazladır."
+      },
+      {
+        "key": "C",
+        "text": "C ve A şubelerinde alınan en düşük puanlar birbirinden farklıdır."
+      },
+      {
+        "key": "D",
+        "text": "Şubeler arasında puan değişkenliği en fazla olan A şubesidir."
+      },
+      {
+        "key": "E",
+        "text": "Yüksek puan alan öğrenci sayısının en fazla olduğu şube C şubesidir."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• Puan ranjı en dar olan şube D şubesidir (45 - 10 = 35), değişkenlik en azdır (A doğru).<br>• B şubesinde puanlar 40-100 arasında yığılmışken D'de 10-45 arasındadır, B'nin başarısı fazladır (B doğru).<br>• En düşük puan C'de 30, A'da 10'dur (C doğru).<br>• Ranjı en geniş olan şube A şubesidir (100 - 10 = 90), değişkenlik en fazladır (D doğru).<br>• Yüksek puanlarda (sağ tarafta) yığılmanın en belirgin olduğu şube B şubesidir. C şubesinde yığılma düşük puanlardadır (sağa çarpıktır); dolayısıyla C şubesinin yüksek puanlı olduğu ifadesi yanlıştır."
+  },
+  {
+    "id": "olcme1-q19",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 19,
+    "questionText": "Bir okuldaki sekizinci sınıf öğrencilerine 2015 yılında bir başarı testi uygulanmıştır. Bu okul, aynı testi 2020 yılındaki sekizinci sınıf öğrencilerine tekrar uygulamış ve 2015 ile 2020 yılları arasındaki öğrenci başarılarını karşılaştırmak istemiştir. Öğrencilerin ilgili yıllara ait puan dağılımları aşağıdaki grafikte gösterilmiştir:\n\nBu grafikteki bilgilere göre 2020 yılında öğrenim gören sekizinci sınıf öğrencilerinin 2015 yılına göre;\nI. Sayısı artmıştır.\nII. Başarısı artmıştır.\nIII. Puanları homojenleşmiştir.\n\nifadelerinden hangileri kesinlikle doğrudur?",
+    "hasImage": true,
+    "image": "assets/questions/olcme_ornek_soru_10.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• I. Öncül: Frekans ekseninde öğrenci sayıları sayısal olarak verilmediği için öğrenci sayısının değişimi bilinemez (Kesin değildir).<br>• II. Öncül: 2020 yılı eğrisi şeklini koruyarak bütünüyle sağa (yüksek puanlar tarafına) kaymıştır. Dolayısıyla başarı kesinlikle artmıştır (Doğru).<br>• III. Öncül: İki eğrinin taban genişliği (ranj) ve basıklığı değişmediği için homojenlik düzeyi korunmuştur (Kesin değildir)."
+  },
+  {
+    "id": "olcme1-q20",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 20,
+    "questionText": "Aşağıdaki tabloda uluslararası bir uygulama kapsamında öğrencilere yöneltilen bir ölçek maddesine 2011, 2015 ve 2019 yıllarında verilen cevapların dağılımı görülmektedir:\n\n<div class=\"quiz-table-wrapper\"><table class=\"quiz-data-table\"><thead><tr><th rowspan=\"2\" style=\"vertical-align: middle;\">Yıl</th><th colspan=\"2\">Matematik dersine<br>çok değer veririm.</th><th colspan=\"2\">Matematik dersine<br>değer veririm.</th><th colspan=\"2\">Matematik dersine<br>değer vermem.</th></tr><tr><th class=\"table-sub-header\">%</th><th class=\"table-sub-header\">Başarı ort.</th><th class=\"table-sub-header\">%</th><th class=\"table-sub-header\">Başarı ort.</th><th class=\"table-sub-header\">%</th><th class=\"table-sub-header\">Başarı ort.</th></tr></thead><tbody><tr><td class=\"table-row-title\" style=\"text-align: center;\">2019</td><td>49</td><td class=\"highlight-num\">502</td><td>32</td><td class=\"highlight-num\">480</td><td>19</td><td>445</td></tr><tr><td class=\"table-row-title\" style=\"text-align: center;\">2015</td><td>38</td><td class=\"highlight-num\">499</td><td>30</td><td class=\"highlight-num\">475</td><td>32</td><td>430</td></tr><tr><td class=\"table-row-title\" style=\"text-align: center;\">2011</td><td>25</td><td>460</td><td>29</td><td>455</td><td>46</td><td>400</td></tr></tbody></table></div>\n\nBu tabloya göre;\nI. Diğer yıllarla kıyaslandığında 2019 yılında matematik dersine değer veren öğrenci oranı daha yüksektir.\nII. 2015 yılında matematik dersine değer veren öğrencilerin başarısı, değer vermeyenlere göre daha yüksektir.\nIII. 2011 yılında sınava giren öğrencilerin başarısı, diğer yıllarla kıyaslandığında daha yüksektir.\n\nifadelerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• I. Öncül: 2019'da değer verenler (%49 + %32 = %81) diğer yıllardan daha yüksektir (Doğru).<br>• II. Öncül: 2015'te değer verenlerin başarı ortalamaları (499 ve 475), değer vermeyenlerden (430) daha yüksektir (Doğru).<br>• III. Öncül: 2011 başarı ortalamaları diğer yıllardan daha düşüktür; en yüksek değildir (Yanlış)."
+  },
+  {
+    "id": "olcme1-q21",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 21,
+    "questionText": "Bir okulda, sekizinci sınıflara aşağıdaki tabloda yer alan derslerden düzey belirleme sınavı yapılmıştır. Her dersten alınabilecek en yüksek puanın 100 olduğu sınavda, puanların aritmetik ortalaması ve standart sapması hesaplanmış ve tablolaştırılmıştır:\n\n<div class=\"quiz-table-wrapper\"><table class=\"quiz-data-table\"><thead><tr><th>Dersler</th><th>Aritmetik Ortalama (X̄)</th><th>Standart Sapma (S)</th></tr></thead><tbody><tr><td class=\"table-row-title\">Matematik</td><td>60</td><td>7</td></tr><tr><td class=\"table-row-title\">Türkçe</td><td class=\"highlight-num\">80</td><td>9</td></tr><tr><td class=\"table-row-title\">Fen Bilimleri</td><td>40</td><td class=\"highlight-num\" style=\"color: #f97316;\">15</td></tr><tr><td class=\"table-row-title\">Sosyal Bilgiler</td><td>68</td><td>6</td></tr><tr><td class=\"table-row-title\">Yabancı Dil</td><td>60</td><td>5</td></tr></tbody></table></div>\n\nTabloyu inceleyen okul müdürünün;\nI. Öğrencilerin yabancı dil testindeki puanları matematik dersine göre daha heterojendir.\nII. Öğrenci puanları arasındaki en yüksek farklılaşma fen bilimleri dersindedir.\nIII. Öğrencilerin mutlak başarı düzeyinin en yüksek olduğu ders Türkçe'dir.\n\nyorumlarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• I. Öncül: Yabancı dilin standart sapması (5), matematik dersinden (7) küçüktür. Dolayısıyla Yabancı Dil grubu daha homojendir, heterojen değildir (Yanlış).<br>• II. Öncül: Standart sapması en büyük ders (15) Fen Bilimleridir; dolayısıyla farklılaşma en fazla bu derstedir (Doğru).<br>• III. Öncül: Aritmetik ortalaması en yüksek ders Türkçe (80) olduğundan mutlak başarı düzeyi en yüksek derstir (Doğru)."
+  },
+  {
+    "id": "olcme1-q22",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 22,
+    "questionText": "Bir okul müdürü okulundaki öğrencilerden bir hafta boyunca;\n• Ders çalışmaya,\n• Ders dışı kitap okumaya,\n• Ders amacı dışında bilgisayar / cep telefonu kullanımına\nayırdıkları zamanı dakika cinsinden kaydetmelerini istemiştir. Daha sonra bu verilerle öğrencilerin matematik ve Türkçe derslerine ait başarıları arasındaki korelasyonları hesaplamış ve aşağıdaki tabloda göstermiştir:\n\n<div class=\"quiz-table-wrapper\"><table class=\"quiz-data-table\"><thead><tr><th>Değişkenler</th><th>Matematik</th><th>Türkçe</th></tr></thead><tbody><tr><td class=\"table-row-title\">Ders çalışmaya ayrılan zaman</td><td class=\"highlight-num\">+0,82</td><td>+0,70</td></tr><tr><td class=\"table-row-title\">Ders dışı kitap okumaya ayrılan zaman</td><td>+0,60</td><td class=\"highlight-num\">+0,75</td></tr><tr><td class=\"table-row-title\">Ders amacı dışında bilgisayar / cep telefonu kullanımına ayrılan zaman</td><td>-0,67</td><td class=\"highlight-num\" style=\"color: #ef4444;\">-0,78</td></tr></tbody></table></div>\n\nTablodaki verilere göre okul müdürünün yaptığı;\nI. Ders çalışmaya ayrılan zaman arttıkça matematik dersindeki başarı da artma eğilimindedir.\nII. Türkçe dersindeki başarı ile en çok ilişkili değişken, ders dışı kitap okumaya ayrılan zamandır.\nIII. Ders amacı dışında bilgisayar/cep telefonu kullanımına ayrılan zamanın matematik dersi ile ilişkisi, Türkçe dersiyle olan ilişkisinden güçlüdür.\n\nyorumlarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• I. Öncül: Ders çalışma ile matematik başarısı katsayısı +0,82'dir (pozitif ve yüksek). Zaman arttıkça başarı artma eğilimindedir (Doğru).<br>• II. Öncül: Türkçe başarısıyla ilişkide mutlak değerce en büyük katsayı |-0,78| = 0,78 ile telefon kullanımıdır. İlişkinin gücünü mutlak değer belirler. Dolayısıyla en ilişkili değişken kitap okuma (0,75) değil, telefondur (Yanlış).<br>• III. Öncül: Telefonun matematikle ilişkisi |-0,67| = 0,67; Türkçe ile ilişkisi |-0,78| = 0,78'dir. Türkçe ile olan ilişki daha güçlüdür (Yanlış)."
+  },
+  {
+    "id": "olcme1-q23",
+    "testId": "egitim_olcme_test_1",
+    "testTitle": "Ölçme ve Değerlendirme Testi 1",
+    "topicId": "egitim_olcme_test_1",
+    "topicName": "Ölçme ve Değerlendirme Testi 1",
+    "category": "Eğitim Bilimleri",
+    "icon": "📊",
+    "questionNumber": 23,
+    "questionText": "Bir okuldaki 7. sınıf A ve B şubeleri öğrencilerine okuduğunu anlama testi uygulanmıştır. Test sonuçlarına göre A şubesindeki öğrenciler, ölçülen değişken bakımından daha homojen ve daha başarılı bulunmuştur.\n\nBuna göre, A ve B şubelerinin puan dağılımlarına ait kutu grafikleri aşağıdakilerden hangisi olabilir?",
+    "hasImage": true,
+    "image": "assets/questions/olcme_ornek_soru_14.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A Grafiği"
+      },
+      {
+        "key": "B",
+        "text": "B Grafiği"
+      },
+      {
+        "key": "C",
+        "text": "C Grafiği"
+      },
+      {
+        "key": "D",
+        "text": "D Grafiği"
+      },
+      {
+        "key": "E",
+        "text": "E Grafiği"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• Kutu Grafiğinde (Box Plot):<br>1. <strong>Daha Başarılı Olmak:</strong> Kutunun dikey eksende 100 puan yönünde daha yukarıda bulunması demektir. A şubesinin kutusu yukarıda, B şubesi aşağıda olmalıdır (C, D ve E elenir).<br>2. <strong>Daha Homojen Olmak:</strong> Puan farklılaşmasının az olması, yani kutunun boyunun ve uç çizgilerinin (bıyıklarının) daha kısa ve dar olması demektir.<br>A seçeneğinde A şubesinin kutusu hem yukarıda hem de oldukça dardır (homojen). B seçeneğinde ise kutu geniştir (heterojen). Doğru seçenek A'dır."
   }
 ];

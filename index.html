@@ -25,11 +25,11 @@
   <meta name="application-name" content="EKYSrota">
   <link rel="manifest" href="manifest.json">
 
-  <!-- PDF.js CDN -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <!-- PDF.js CDN (Deferred for faster app startup) -->
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
   
-  <!-- Chart.js CDN -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <!-- Chart.js CDN (Deferred for faster app startup) -->
+  <script defer src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 
   <!-- Firebase SDKs (Compat) -->
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
@@ -37,11 +37,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=119.0">
+  <link rel="stylesheet" href="styles.css?v=159.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=132.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=159.0').then(reg => {
           reg.update();
         }).catch(err => console.log('SW register failed:', err));
       });
@@ -546,21 +546,18 @@
                 <span class="quiz-mode-tag" id="quiz-q-mode">🎯 Öğrenme Modu</span>
               </div>
 
+              <!-- Question Text -->
+              <div class="quiz-question-text" id="quiz-q-text">Soru metni yükleniyor...</div>
+
               <!-- Question Image Section (with Zoom Lightbox) -->
               <div class="quiz-image-container" id="quiz-image-box" style="display: none;">
                 <div class="quiz-image-card" onclick="app.openImageZoom()" title="Tam ekran büyütmek için dokunun">
                   <img id="quiz-q-image" src="" alt="Soru Görseli">
-                  <div class="quiz-image-tap-hint">
-                    <span>🔍 Büyütmek için Görsele Dokunun</span>
-                  </div>
                 </div>
                 <button type="button" class="btn btn-secondary btn-block btn-sm btn-image-zoom-action" onclick="app.openImageZoom()">
-                  <span>🔍</span> <strong>Görseli / Haritayı Tam Ekran Büyüt &amp; İncele</strong>
+                  <span>🔍</span> <strong>Görseli Tam Ekran Büyüt &amp; İncele</strong>
                 </button>
               </div>
-
-              <!-- Question Text -->
-              <div class="quiz-question-text" id="quiz-q-text">Soru metni yükleniyor...</div>
 
               <!-- Options List with 2-column Grid -->
               <div class="options-list" id="quiz-options-list"></div>
@@ -1181,13 +1178,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=153.0"></script>
-  <script src="data/questions-db.js?v=153.0"></script>
-  <script src="services/storage-service.js?v=153.0"></script>
-  <script src="services/firebase-service.js?v=153.0"></script>
-  <script src="services/pdf-service.js?v=153.0"></script>
-  <script src="services/youtube-service.js?v=153.0"></script>
-  <script src="services/question-generator.js?v=153.0"></script>
-  <script src="app.js?v=153.0"></script>
+  <script src="data/ekys-sample-questions.js?v=159.0"></script>
+  <script src="data/questions-db.js?v=159.0"></script>
+  <script src="services/storage-service.js?v=159.0"></script>
+  <script src="services/firebase-service.js?v=159.0"></script>
+  <script src="services/pdf-service.js?v=159.0"></script>
+  <script src="services/youtube-service.js?v=159.0"></script>
+  <script src="services/question-generator.js?v=159.0"></script>
+  <script src="app.js?v=159.0"></script>
 </body>
 </html>

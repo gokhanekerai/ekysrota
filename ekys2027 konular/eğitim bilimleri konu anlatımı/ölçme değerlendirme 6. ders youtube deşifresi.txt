@@ -1,0 +1,378 @@
+İyi akşamlar arkadaşlar. Yeni bir dersimizle beraberiz. Ölçme değerlendirmeye geçen hafta başladık, bu hafta bitireceğiz. Rakamların, tabloların, grafiklerin olduğu bir ders olacak bugünkü dersimiz. Matematikçi arkadaşların çok sevdiği ama sözelci arkadaşların belki biraz zorlanacaklarını düşündükleri bir kısım oluyor; ama açıkçasını söylemek gerekirse çok da zorlanacağımızı düşünmüyorum. Birazcık dikkatli olduğumuzda rahatlıkla çözeceğimiz sorular olacak arkadaşlar.
+
+Şöyle yapacağım; dersimize geçerken önce şu sağ tarafı kapatacağım. Güçlük indeksine falan hiç geçmeden şurayı bir kapatayım.
+
+Şimdi arkadaşlar, ölçme değerlendirmeden genelde her sene bir ya da iki soru geliyor; istatistik konularından, yani tablo ve grafik yorumlamadan geliyor. Geçen sene iki tane soru geldi. Bir tane geçen hafta işlediğimiz konulardan geldi, bir tane de bu istatistik konularından gelecek. Biraz dikkatli olursak çok rahat çözeceğiz arkadaşlar. Sadece neyin ne olduğuna dikkatli bakarsak çok zorlanacağımız bir konu olmayacak.
+
+Bugün iki tane ana başlığımız olacak aslında:
+
+1. **Madde analizi:** Madde dediğimiz, testte yer alan her bir sorumuzdur. Madde analizinde her bir sorunun kolay mı, zor mu, ayırt edici mi, değil mi olduğunu ölçüyoruz.
+2. **Test istatistikleri:** Onda da testin bütününe yorum yapacağız.
+
+Önce madde analiziyle başlıyoruz.
+
+---
+
+### Madde Analizi
+
+Madde analizinde şunu yapıyoruz: Öncelikle elimizde bir tablo var, bu tablonun ne anlama geldiğini yorumlamak istiyorum arkadaşlar.
+
+Bir test uyguluyoruz; diyelim ki bu bizim A testimiz olsun. 5 ya da 10 soruluk bir A testi var.
+
+* Test uygulandı,
+* Puanlandı,
+* Puanlandıktan sonra öğrenci puanlarını en yüksek puan alandan en düşük puan alana doğru sıralıyoruz.
+
+Bu ezberlememiz gereken bir süreç değil ama tabloyu anlayabilmek için bu yorumu yapıyorum. Bir sınava (deneme sınavı, YKS, KPSS vb.) öğrenciler girdi. Öğrencileri birinci, ikinci, üçüncü... diyelim ki 400 öğrencimiz var; 400'üncüye kadar sıraladık. Bunları sıraladığımızda en yüksek puanı alan grup üst grup, en düşük puanı alan grup ise alt grup olarak belirlenir. (Genelde bu %27 civarı alınır ama %50-%50'ye kadar da yapılabilir; o yüzden kesin bir yüzdeye takılmayalım.)
+
+Örnek tablomuzda bir testin 1. maddesini ele alalım. Her bir madde için birer sütun oluşturuyoruz.
+
+* **Üst grup:** Sınavdan en yüksek puanı alan öğrenciler.
+* **Alt grup:** Sınavdan en düşük puanı alan öğrenciler.
+* En alta da toplamlarını yazıyoruz.
+
+Biz burada yüzer kişi aldık: Üst grupta 100 öğrencimiz, alt grupta 100 öğrencimiz var; toplam 200 kişi. Sonra yaptığımız işlem sadece şu: Üst gruptaki bu 100 öğrenciden kaç tanesi A, kaç tanesi B, C, D veya E seçeneğini işaretlemiş, tek tek sayıyoruz. Diyelim ki üst gruptan 60 kişi A, 18 kişi B, 7 kişi C, 10 kişi D, 5 kişi E seçeneğini işaretlemiş olsun (toplamı 100'ü verir). Alt gruptan da aynı işlemi yapıyoruz ve tablomuzu oluşturuyoruz.
+
+Bu 1. sorunun doğru cevabının A seçeneği olduğunu varsayalım. Madde analizini doğru cevap üzerinden yapıyoruz; dolayısıyla doğru cevap A seçeneği olduğu için analizimizi A seçeneğine göre yürüteceğiz. Buradan hareketle önce güçlük indeksini bulacağız.
+
+#### Madde Güçlük İndeksi ($p$)
+
+Güçlük indeksi, soruyu doğru cevaplayanların oranıdır. Soruyu doğru cevap veren öğrenci sayısını toplam öğrenci sayısına böldüğümüzde güçlük indeksini elde ederiz:
+
+$$p = \frac{\text{Doğru Cevap Veren Öğrenci Sayısı}}{\text{Toplam Öğrenci Sayısı}}$$
+
+Örneğimizde üst gruptan 60 kişi, alt gruptan 30 kişi doğru cevap vermiş olsun; toplam 90 kişi doğru cevap vermiştir. Sınıf mevcudu toplam 200 kişidir:
+
+$$p = \frac{90}{200} = 0{,}45$$
+
+Bu 0,45 değerini şöyle yorumluyorum: **Soruyu sınıfın %45'i doğru cevaplandırmıştır.** Yani güçlük indeksi, soruyu sınıfın yüzde kaçlık diliminin doğru cevaplandırdığını gösterir.
+
+Burada önemli detaylar şunlardır:
+
+* Bir testteki tüm maddelerin güçlük indeksleri toplamı, o testin **aritmetik ortalamasını** verir.
+* Örneğin 5 soruluk bir testte güçlük indeksleri sırasıyla $0{,}45$, $0{,}35$, $0{,}50$, $0{,}70$ ve $0{,}60$ ise; bunların toplamı olan $2{,}6$, bu 5 soruluk testin aritmetik ortalamasıdır.
+
+
+* Bir de **testin güçlüğü** vardır. Testin güçlüğü, ortalamayı soru sayısına bölerek hesaplanır:
+
+$$\text{Testin Güçlüğü} = \frac{\text{Aritmetik Ortalama}}{\text{Soru Sayısı}}$$
+
+Örneğimizde ortalama $2{,}6$, soru sayısı 5 ise: $2{,}6 / 5 = 0{,}52$ bulunur. Bu da testin ortalamasının 100 puan üzerinden 52 olduğunu ifade eder.
+
+**Güçlük İndeksinin Yorumlanması:**
+
+* Güçlük indeksi ($p$), **0 ile +1 arasında** değer alır; 0'dan küçük ya da 1'den büyük olamaz.
+* **0:** Soruyu hiç kimse doğru cevaplandıramamıştır (%0); en zor halidir.
+* **+1:** Soruyu herkes doğru cevaplandırmıştır (%100); en kolay halidir.
+* Değer 0'dan 1'e yaklaştıkça soru kolaylaşır, başarı artar.
+* Değer 1'den 0'a yaklaştıkça soru zorlaşır, başarı azalır.
+* **0,50:** En ideal değerdir; orta güçlüktür.
+
+Eğer bize sınıfların veya testlerin madde güçlük indeksleri verilip aritmetik ortalaması sorulursa bölme işlemi yapmıyoruz; sadece güçlük indekslerini topluyoruz.
+
+**En başarılı test veya sınıf sorulduğunda:**
+
+* Eğer testlerdeki **soru sayıları eşitse**, doğrudan aritmetik ortalaması en yüksek olan teste bakarız; ortalaması en yüksek olan en başarılıdır.
+* Ancak **soru sayıları farklı verilmişse**, sadece ortalamaya bakmak yanıltır. Mutlaka **testin güçlüğü** (Ortalama / Soru Sayısı) hesaplanır. Güçlük indeksi en yüksek çıkan testte öğrenciler en başarılıdır.
+* Örneğin:
+* 1. Test: Ortalama 12, Soru sayısı 30 $\rightarrow 12 / 30 = 0{,}40$ (%40 başarı)
+
+
+* 2. Test: Ortalama 15, Soru sayısı 25 $\rightarrow 15 / 25 = 0{,}60$ (%60 başarı)
+
+
+* 3. Test: Ortalama 12, Soru sayısı 15 $\rightarrow 12 / 15 = 0{,}80$ (%80 başarı)
+
+
+* 4. Test: Ortalama 10, Soru sayısı 50 $\rightarrow 10 / 50 = 0{,}20$ (%20 başarı)
+
+
+* 5. Test: Ortalama 60, Soru sayısı 100 $\rightarrow 60 / 100 = 0{,}60$ (%60 başarı)
+
+
+
+
+* Burada ortalaması 60 diye 5. teste en başarılı diyemeyiz; test güçlüğü en yüksek olan 3. test (%80) en başarılı testtir. En başarısız test ise %20 ile 4. testtir.
+
+
+
+---
+
+#### Madde Ayırt Edicilik İndeksi ($r$)
+
+Ayırt etmek; bilen ile bilmeyeni birbirinden ayırmaktır. Bizim ön kabulümüze göre üst gruptakiler bilenler, alt gruptakiler bilmeyenlerdir.
+
+Ayırt edicilik indeksi şöyle hesaplanır: Üst grupta doğru cevap veren öğrenci sayısından alt grupta doğru cevap veren öğrenci sayısı çıkarılır, ardından grubun yarısına (yani sadece bir grubun mevcuduna) bölünür:
+
+$$r = \frac{D_{\text{üst}} - D_{\text{alt}}}{N / 2}$$
+
+Örnek tablomuzda: Doğru cevap A seçeneği; üst grupta doğru cevap veren 60, alt grupta doğru cevap veren 30 kişi vardı. Bir grubun mevcudu 100 olduğuna göre:
+
+$$r = \frac{60 - 30}{100} = \frac{30}{100} = 0{,}30$$
+
+Testin ayırt ediciliği doğrudan hesaplanan bir istatistik değildir; test genelinde ayırt ediciliğe bakılacağı zaman standart sapması yüksek olan test seçilir. Standart sapma verilmemişse güçlük indeksi 0,50'ye en yakın olan test daha ayırt edici kabul edilir.
+
+**Ayırt Edicilik İndeksinin Yorumlanması:**
+
+* Ayırt edicilik indeksi, **-1 ile +1 arasında** değer alır.
+* **Pozitif ise:** Soruyu üst gruptan doğru cevaplayanların sayısı alt gruptan fazladır.
+* **Negatif ise:** Soruyu alt gruptan doğru cevaplayanların sayısı üst gruptan fazladır. Yani bilmeyenler doğru yapmış, bilenler yanlış yapmıştır; bu istenmeyen bir durumdur ve bu maddeler testten mutlaka çıkarılmalıdır.
+* Ayırt edicilikte değer +1'e ne kadar yakınsa madde o kadar kalitelidir; genel kabul olarak **0,30 ve üzeri** kabul edilebilir düzeydir.
+
+---
+
+#### İyi Bir Test Maddesinin ve Çeldiricilerin Özellikleri
+
+İyi bir test maddesi:
+
+1. **Orta güçlükte olmalıdır:** Güçlük indeksi ($p$) 0,50 civarında olmalıdır. (Çok zor veya çok kolay olması genel başarı testlerinde istenmez; ancak özel eleme/seçme sınavlarında kontenjana göre zor sorular tercih edilebilir.)
+2. **Ayırt ediciliği yüksek olmalıdır:** Ayırt edicilik indeksi ($r$) mümkün olduğunca +1'e yakın olmalıdır.
+3. **Doğru cevap:** Üst gruptaki öğrenciler tarafından daha fazla işaretlenmelidir.
+4. **Çeldiriciler (yanlış seçenekler):** Alt gruptaki öğrenciler tarafından daha fazla işaretlenmelidir. Bilen öğrenci (üst grup) çeldiriciye düşmemeli, bilmeyen öğrenci (alt grup) çeldiriciye takılmalıdır.
+5. **Çeldiricilerin dağılımı:** Seçeneklere verilen cevap sayıları birbirine yaklaşık olarak eşit (dengeli) dağılmalıdır. Eğer bir çeldirici hiç işaretlenmemişse işlevini yerine getirmiyor demektir ve bu durum şans başarısını artırır.
+
+**Çeldirici Analizi:**
+
+* Bir çeldiriciyi üst grup alt gruptan daha fazla işaretlemişse o çeldirici ters çalışıyordur, hatalıdır ve **değiştirilmelidir**.
+* **En iyi çeldirici:** Alt grup ile üst grup arasındaki farkın ($Alt - Üst$) en yüksek olduğu çeldiricidir; yani bilmeyeni en çok yakalayan, bileni ise en az yanıltan seçenektir.
+* **En güçlü çeldirici:** Toplamda en çok kişi tarafından işaretlenen seçenektir. En çok kişiyi çekmek başka şeydir (güçlü çeldirici), görevini doğru yapmak başka şeydir (iyi çeldirici).
+
+**Madde Seçimi Örnek Değerlendirmesi:**
+
+* **Kolay ve ayırt edici madde:** $p$ değeri 1'e yakın, $r$ değeri de 0,30'un üzerinde pozitif olan maddedir.
+* **Testten kesinlikle çıkarılması gereken madde:** $r$ değeri negatif olan maddedir.
+* **En zor ve en ayırt edici madde:** $p$ değeri 0'a en yakın (en düşük), $r$ değeri +1'e en yakın olan maddedir.
+* **En ideal test maddesi:** $p$ değeri 0,50'ye en yakın, $r$ değeri ise +1'e en yakın olan maddedir.
+
+---
+
+### Test İstatistikleri
+
+Madde istatistikleri sorunun niteliğini incelerken; test istatistikleri testin bütününe bakarak grubun başarısını, homojenliğini veya heterojenliğini değerlendirmemizi sağlar.
+
+Test sonuçları üzerinde işlem yapılırken ilk yapılması gereken şey **notların sıraya dizilmesidir**. Notlar sıraya dizildikten sonra frekans tablosu oluşturulur.
+
+#### Frekans ve Yığılmalı Frekans
+
+* **Frekans ($f$):** Bir notun kaç kişi tarafından alındığını, yani tekrar etme sayısını gösterir.
+* **Yığılmalı Frekans:** Belirli bir puana kadar olan frekansların toplamıdır. Yığılmalı frekans sütunundaki en son (en büyük) değer, bize **sınıf mevcudunu** verir. Aynı şekilde tüm frekansların toplamı da sınıf mevcudunu verir.
+
+> **Örnek:**
+> Puanlar: 10 alan 2 kişi, 20 alan 4 kişi, 40 alan 7 kişi, 60 alan 12 kişi, 70 alan 3 kişi, 80 alan 2 kişi.
+> * Toplam mevcut: $2 + 4 + 7 + 12 + 3 + 2 = 30$ kişidir.
+> * Geçme notu 50 olursa; 60, 70 ve 80 alanlar geçer ($12 + 3 + 2 = 17$ kişi geçer; 13 kişi kalır).
+> * Geçme notu 60 olursa; 60 ve üzeri alanlar geçeceği için yine 17 kişi geçer.
+> * Sıralamada 6. öğrencinin puanı 20'dir; 15. ve 16. sıradaki öğrencilerin puanları ise 60'a denk gelir.
+> 
+> 
+
+#### Grafikler
+
+* **Çizgi Grafiği ve Histogram (Sütun Grafiği):** Dikey eksen daima frekansı (öğrenci sayısını), yatay eksen ise puanları gösterir. Sınıf mevcudu istendiğinde dikey eksendeki frekans değerleri toplanır.
+* **Gruplandırılmış Veriler:** Veriler "20-30 arası 2 kişi, 30-40 arası 4 kişi..." şeklinde aralıklarla verilmişse, mod, medyan veya ortalama hesaplanırken daima **aralıkların orta noktaları** esas alınır (Örn: 20-30 aralığının orta noktası 25 kabul edilir).
+
+---
+
+### Merkezi Yığılma (Eğilim / Vasat) Ölçüleri
+
+Puanların nerede toplandığını gösterir; başarı düzeyi hakkında bilgi verir.
+
+#### 1. Mod (Tepe Değer)
+
+Dağılımda frekansı en yüksek olan, yani en çok tekrar eden puandır.
+
+* Frekans tablosunda en büyük frekansa sahip puan moddur. Grafikte en tepe noktadır.
+* Mod bir frekans değeri değildir, o frekansa karşılık gelen **puandır**.
+* **Tüm frekanslar eşitse:** Dağılımın modu yoktur (tepe oluşmaz).
+* **En yüksek frekansa sahip değerler birden fazla ve ardışıksa:** Bu değerlerin ortalaması alınır, tek mod bulunur.
+* **En yüksek frekansa sahip değerler birden fazla ama ardışık değilse (arada başka puanlar varsa):** Dağılım çok modludur; her bir tepe ayrı bir mod olarak kabul edilir.
+
+#### 2. Medyan (Ortanca)
+
+Büyükten küçüğe veya küçükten büyüğe sıralanmış bir puan dizisini tam ortadan ikiye bölen puandır.
+
+* Medyan hesaplanırken puanlar **mutlaka sıraya dizilmelidir**.
+* Medyanın sırası $\frac{N + 1}{2}$ formülüyle bulunur.
+* Tek sayıda veri varsa tam ortadaki değerdir.
+* Çift sayıda veri varsa (örneğin 30 kişi), 15. ve 16. kişilerin aldığı puanların aritmetik ortalamasıdır.
+
+
+* Medyan, **aşırı uç puanlardan etkilenmez**. Dağılımda çok yüksek ya da sıfır alan uç değerler medyanı değiştirmez; bu yüzden çarpık dağılımlarda ortalamaya göre daha güvenilirdir.
+
+#### 3. Aritmetik Ortalama ($\bar{X}$)
+
+Tüm puanların toplamının öğrenci sayısına bölünmesiyle elde edilir:
+
+$$\bar{X} = \frac{\sum X}{N}$$
+
+Frekans tablosunda hesaplanırken her bir puan kendi frekansıyla çarpılır, çarpımların toplamı toplam öğrenci sayısına bölünür. Uç değerlerden en çok etkilenen yığılma ölçüsüdür.
+
+---
+
+### Dağılım Eğrileri ve Çarpıklık
+
+Dağılımın yönünü belirlemek için aritmetik ortalama ile medyan karşılaştırılır. Pratik kural olarak araya "küçüktür" ($<$) işareti konulur:
+
+| Dağılım Türü | Değer İlişkisi | Özellikleri ve Yorumu |
+| --- | --- | --- |
+| **Simetrik Dağılım** | $\text{Mod} = \text{Medyan} = \bar{X}$ | Dengeli dağılımdır. Ortalamanın üstündeki ve altındaki öğrenci sayıları birbirine eşittir. Orta düzey başarı vardır. |
+| **Sola Çarpık Dağılım** | $\bar{X} < \text{Medyan} < \text{Mod}$ | Ortalama sol tarafta kaldığı için dağılım sola çarpıktır. Yığılma sağ tarafta (yüksek puanlarda) toplanmıştır. Çoğunluk ortalamanın üzerinde puan almıştır; **başarılı bir gruptur**. |
+| **Sağa Çarpık Dağılım** | $\text{Mod} < \text{Medyan} < \bar{X}$ | Ortalama sağ tarafta kaldığı için dağılım sağa çarpıktır. Yığılma sol tarafta (düşük puanlarda) toplanmıştır. Çoğunluk ortalamanın altında kalmıştır; **başarısız bir gruptur**. |
+
+---
+
+### Merkezi Dağılım (Değişim / Farklılaşma) Ölçüleri
+
+Puanların nasıl bir aralığa yayıldığını gösterir. Grubun homojen mi yoksa heterojen mi olduğu hakkında bilgi verir. Başarı hakkında bilgi vermez.
+
+#### 1. Ranj (Dizi Genişliği)
+
+Bir dağılımdaki en yüksek puan ile en düşük puan arasındaki farktır:
+
+$$\text{Ranj} = X_{\text{en yüksek}} - X_{\text{en düşük}}$$
+
+* Hesaplanması en kolay dağılım ölçüsüdür.
+* Sadece iki uç değere bağlı olduğu için **uç değerlerden en çok etkilenen** ve güvenilirliği en düşük olan ölçüdür.
+* Gruplandırılmış verilerde yine en üst ve en alt aralıkların orta noktaları alınarak fark bulunur.
+
+#### 2. Standart Sapma ($S$) ve Varyans ($S^2$)
+
+Her bir puanın aritmetik ortalamadan olan farkları hesaplamaya dahil edildiği için değişkenlik hakkında en güvenilir bilgiyi verir.
+
+* Varyans, standart sapmanın karesidir ($S^2$). Standart sapma ise varyansın kareköküdür.
+* Standart sapma bir **farklılaşma katsayısıdır**.
+* **Standart sapma büyükse:** Farklılaşma fazladır, puanlar geniş bir alana yayılmıştır, grup **heterojendir**, ayırt edicilik, güvenirlik ve geçerlik yüksektir. Grafik basık ve yayvandır.
+* **Standart sapma küçükse:** Farklılaşma azdır, puanlar dar bir aralıkta toplanmıştır, grup **homojendir** (öğrenciler birbirine benzer puanlar almıştır). Grafik sivridir.
+
+---
+
+### Standart Puanlar: Z ve T Puanı
+
+Farklı derslerdeki, farklı sınıflardaki veya farklı yıllardaki öğrenci başarılarını birbiriyle karşılaştırabilmek amacıyla ham puanlar standart puanlara dönüştürülür.
+
+* **Z Puanı:** Öğrencinin aldığı puanın, aritmetik ortalamadan kaç standart sapma uzaklaştığını gösterir.
+* $Z = 0$, öğrencinin tam ortalama aldığını gösterir.
+* $Z = +2$, ortalamanın 2 standart sapma üzerinde olduğunu gösterir.
+
+
+* **T Puanı:** Z puanının negatif değerlerinden ve kesirlerinden kurtulmak için geliştirilmiştir ($T = 50 + 10Z$).
+* Hem Z hem de T puanında değer ne kadar yüksekse öğrencinin bağıl başarısı o kadar yüksektir.
+
+---
+
+### Çıkmış Soruların Analizi ve Çözümleri
+
+#### Soru 1 (Çapraz Tablo Okuma)
+
+> Bir okuldaki 200 öğrenci benzer içerikte iki sınava girmiş; 1. ve 2. sınav sonuçlarına göre başarılı/başarısız olarak sınıflandırılmıştır.
+> * Her iki sınavdan da başarılı: 145
+> * 1. sınavdan başarılı, 2. sınavdan başarısız: 15
+> 
+> 
+> * 1. sınavdan başarısız, 2. sınavdan başarılı: 5
+> 
+> 
+> * Her iki sınavdan da başarısız: 35
+> 
+> 
+> *Hangisi yanlıştır?*
+
+* 1. sınavdan başarılı olanlar: $145 + 15 = 160$ kişidir (Doğru).
+
+
+* 2. sınavdan başarısız olanlar: $15 + 35 = 50$ kişidir (Doğru).
+
+
+* İki sınava göre farklı sınıflandırılanlar: Birinde başarılı diğerinde başarısız olan $15 + 5 = 20$ kişidir (Doğru).
+* Her iki sınava göre aynı sınıflandırılanlar: İkisinde de başarılı (145) + İkisinde de başarısız (35) = 180 kişi. $180 / 200 = \%90$'dır (Doğru).
+* Her iki sınava göre başarısız olanlar: Tabloda açıkça görüldüğü üzere 55 değil, **35 kişidir**.
+**Cevap: E** (Yanlış olan ifade).
+
+---
+
+#### Soru 2 (Korelasyon ve Neden-Sonuç İlişkisi)
+
+> Matematik başarısı ile matematik tutumu arasındaki ilişki grafiği verilmiştir (Pozitif yönlü doğrusal ilişki).
+> *I. Matematik başarısı ile tutum arasında pozitif yönlü ilişki vardır.*
+> *II. Matematik başarısı yüksek olanların tutumları da yüksek olma eğilimindedir.*
+> *III. Tutum puanının azalması başarının düşük olmasına neden olmaktadır.*
+
+Korelasyon katsayısı iki değişken arasındaki karşılıklı ilişkiyi ve bu ilişkinin yönü ile miktarını gösterir; **neden-sonuç ilişkisi göstermez**. Biri diğerinin nedeni veya sonucu olarak yorumlanamaz. Bu nedenle I ve II kesinlikle doğru iken, III söylenemez.
+
+**Cevap: C (I ve II)**
+
+---
+
+#### Soru 3 (Frekans Dağılımları ve Değişkenlik)
+
+> Mevcutları eşit dört şubenin puan aralıkları:
+> * A şubesi: 10 - 100 arası (Ranj: 90)
+> * B şubesi: 40 - 100 arası (Ranj: 60)
+> * C şubesi: 30 - 100 arası (Ranj: 70)
+> * D şubesi: 10 - 45 arası (Ranj: 35)
+> 
+> 
+> *Hangisi yanlıştır?*
+
+* Değişkenliği en az olan D şubesidir ($45 - 10 = 35$, Doğru).
+* B şubesinin başarısı D'den fazladır (Puanlar 40-100 arasında yığılmış, Doğru).
+* C ve A şubelerinde alınan en düşük puanlar farklıdır (C'de 30, A'da 10, Doğru).
+* Puan değişkenliği en fazla olan A şubesidir (Ranj 90, Doğru).
+* "Yüksek puan alan öğrenci sayısının en fazla olduğu şube C'dir" ifadesi yanlıştır; grafik incelendiğinde yüksek puanlarda yığılmanın en belirgin olduğu şube B şubesidir.
+**Cevap: E**
+
+---
+
+#### Soru 4 (Yıllara Göre Dağılım Karşılaştırması)
+
+> Bir okulda 2015 yılında uygulanan test ile 2020 yılında uygulanan testin eğrileri karşılaştırılıyor. 2015'te 0-50 arasında olan eğri, 2020'de şeklini bozmadan 25-75 aralığına (sağa/yüksek puanlara) kaymıştır.
+> *Hangisi kesinlikle doğrudur?*
+
+* Öğrenci sayısı hakkında bilgi yoktur; frekans ekseni verilmemiştir (Kesin değil).
+* Eğrinin genişliği/yayılması değişmediği için homojenlik ya da heterojenlikte belirgin bir değişim yoktur.
+* Puan dağılımı bütünüyle yüksek puanlar yönüne kaydığı için **öğrenci başarısı kesinlikle artmıştır**.
+**Cevap: B (Yalnız II)**
+
+---
+
+#### Soru 5 (Standart Sapma ve Başarı Yorumu)
+
+> Derslere ait aritmetik ortalama ve standart sapma tablosu:
+> * Türkçe: Ortalama 65, SS 6
+> * Matematik: Ortalama 50, SS 7
+> * Fen Bilimleri: Ortalama 55, SS 9
+> * Yabancı Dil: Ortalama 60, SS 5
+> 
+> 
+> *Öncüller:*
+> *I. Yabancı dil puanları matematiğe göre daha heterojendir.* (Yanlış; SS'si küçük olan yabancı dil daha homojendir.)
+> *II. En yüksek farklılaşma Fen Bilimleri dersindedir.* (Doğru; SS en yüksek 9 ile Fen'dedir.)
+> *III. Mutlak başarı düzeyinin en yüksek olduğu ders Türkçedir.* (Doğru; ortalaması en yüksek olan ders Türkçedir.)
+> **Cevap: E (II ve III)**
+
+---
+
+#### Soru 6 (Korelasyon Tablosu Yorumu)
+
+> Korelasyonda işaret (+/-) sadece ilişkinin yönünü belirtir. İlişkinin gücünü/miktarını belirleyen şey işaretine bakılmaksızın sayının mutlak değerce 1'e yakınlığıdır.
+> * Ders çalışma süresi arttıkça matematik başarısı artmaktadır (Pozitif korelasyon, Doğru).
+> * İlişkinin en yüksek olduğu değişken incelenirken katsayının büyüklüğüne bakılır.
+> **Cevap: A (Yalnız I)**
+> 
+> 
+
+---
+
+#### Soru 7 (Grafikte Homojenlik ve Başarı)
+
+> A şubesinin B şubesine göre **daha homojen** ve **daha başarılı** olduğu durum soruluyor.
+> * **Daha başarılı:** Dağılım grafiği 100 puan yönüne (sağa) daha yakın olmalıdır.
+> * **Daha homojen:** Dağılım dar bir puan aralığında toplanmalı, yani eğri daha sivri ve dar tabanlı olmalıdır.
+> 
+> 
+> A şubesinin eğrisinin hem daha dar bir alana yayıldığı (homojen) hem de tepe noktasının daha yüksek puanlarda yer aldığı grafik doğru seçenektir.
+> **Cevap: A**
+
+---
+
+Ölçme ve değerlendirme ünitesini bu şekilde tamamlamış olduk arkadaşlar. Önümüzdeki haftadan itibaren Türkiye Yüzyılı Maarif Modeli konusuna başlayacağız. Yaklaşık 3-4 haftalık bir planlamayla modelin tüm detaylarını ve soru çözümlerini ele alacağız. Hepinize iyi akşamlar ve iyi çalışmalar diliyorum.

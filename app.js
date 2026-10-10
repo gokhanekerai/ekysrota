@@ -1432,11 +1432,11 @@ class EKYSApp {
         items: [
           {
             id: 'egitim_olcme_test_1_eb',
-            name: '📊 Ölçme ve Değerlendirme Testi 1 (YENİ)',
+            name: '📊 Ölçme ve Değerlendirme Testi 1 (GÜNCELLENDİ)',
             icon: '📊',
-            desc: 'Ölçme-Değerlendirme, Ölçekler, Hata Türleri, Geçerlik-Güvenirlik, Rubrikler, Portfolyo ve Korelasyon (15 Soru • Çözümlü Konu Testi).',
+            desc: 'Ölçme-Değerlendirme, Ölçekler, Hata Türleri, Geçerlik-Güvenirlik, Madde Analizi, Test İstatistikleri, Tablo & Grafikler (23 Soru • Kapsamlı & Görselli).',
             filterKey: 'egitim_olcme_test_1',
-            badge: '🌟 15 Soru • Yeni Test'
+            badge: '🌟 23 Soru • Kapsamlı & Grafikli'
           },
           {
             id: 'egitim_prog_okur_eb',
@@ -3583,7 +3583,7 @@ class EKYSApp {
     const imgBox = document.getElementById('quiz-image-box');
     const imgEl = document.getElementById('quiz-q-image');
     if ((q.hasImage || q.image) && q.image) {
-      const cacheBust = 'v=131.0';
+      const cacheBust = 'v=156.0';
       const imgSrc = q.image.includes('?') ? q.image : `${q.image}?${cacheBust}`;
       if (imgEl) imgEl.src = imgSrc;
       if (imgBox) imgBox.style.display = 'block';
@@ -3594,7 +3594,11 @@ class EKYSApp {
     // Soru Metni
     const textEl = document.getElementById('quiz-q-text');
     if (textEl) {
-      textEl.innerHTML = (q.questionText || q.question || '').replace(/\n/g, '<br>');
+      let rawText = q.questionText || q.question || '';
+      if (rawText.includes('<table') || rawText.includes('quiz-table-wrapper')) {
+        rawText = rawText.replace(/>\s*\n\s*</g, '><');
+      }
+      textEl.innerHTML = rawText.replace(/\n/g, '<br>');
     }
 
     // Şıklar

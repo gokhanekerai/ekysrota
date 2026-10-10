@@ -1209,8 +1209,10 @@ body {
 
 /* Quiz Image & Zoom System */
 .quiz-image-container {
-  margin-bottom: 16px;
+  margin: 10px auto 14px auto;
+  max-width: 400px;
   width: 100%;
+  text-align: center;
 }
 
 .quiz-image-card {
@@ -1218,11 +1220,14 @@ body {
   border-radius: var(--radius-md);
   overflow: hidden;
   background: #ffffff;
+  padding: 4px;
   border: 1px solid rgba(249, 115, 22, 0.35);
   cursor: zoom-in;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
   text-align: center;
   transition: transform 0.2s ease, border-color 0.2s ease;
+  display: inline-block;
+  width: 100%;
 }
 
 .quiz-image-card:hover {
@@ -1232,7 +1237,7 @@ body {
 
 .quiz-image-card img {
   max-width: 100%;
-  max-height: 480px;
+  max-height: 210px;
   width: auto;
   height: auto;
   object-fit: contain;
@@ -1254,9 +1259,10 @@ body {
 }
 
 .btn-image-zoom-action {
-  margin-top: 8px;
-  font-size: 0.88rem;
-  padding: 10px 14px;
+  margin: 6px auto 0 auto;
+  max-width: 270px;
+  font-size: 0.80rem;
+  padding: 6px 12px;
   border: 1px solid rgba(249, 115, 22, 0.45);
   background: rgba(249, 115, 22, 0.14);
   color: #ffffff;
@@ -1787,18 +1793,40 @@ body {
     padding: 12px 10px !important;
   }
 
+  .quiz-image-container {
+    max-width: 320px !important;
+    margin: 8px auto 10px auto !important;
+  }
+
   .quiz-image-card img {
-    max-height: 250px !important;
+    max-height: 165px !important;
   }
 
   .btn-image-zoom-action {
-    padding: 7px 10px !important;
-    font-size: 0.82rem !important;
+    padding: 5px 10px !important;
+    font-size: 0.75rem !important;
+    max-width: 230px !important;
+    margin: 6px auto 0 auto !important;
   }
 
   .quiz-question-text {
-    font-size: 0.92rem !important;
+    font-size: 0.90rem !important;
+    line-height: 1.5 !important;
     margin-bottom: 8px !important;
+  }
+
+  .quiz-table-wrapper {
+    margin: 8px 0 !important;
+  }
+
+  .quiz-data-table {
+    font-size: 0.76rem !important;
+    min-width: 260px !important;
+  }
+
+  .quiz-data-table th,
+  .quiz-data-table td {
+    padding: 5px 6px !important;
   }
 
   .grid-cards,
@@ -1893,6 +1921,41 @@ body {
 }
 
 @media (max-width: 540px) {
+  .quiz-card {
+    padding: 10px 8px !important;
+  }
+  .quiz-image-container {
+    max-width: 290px !important;
+    margin: 6px auto 8px auto !important;
+  }
+  .quiz-image-card img {
+    max-height: 155px !important;
+  }
+  .btn-image-zoom-action {
+    padding: 4px 8px !important;
+    font-size: 0.72rem !important;
+    max-width: 210px !important;
+  }
+  .quiz-question-text {
+    font-size: 0.88rem !important;
+    line-height: 1.48 !important;
+  }
+  .quiz-option {
+    padding: 9px 10px !important;
+    font-size: 0.86rem !important;
+    margin-bottom: 6px !important;
+  }
+  .quiz-table-wrapper {
+    margin: 6px 0 8px 0 !important;
+  }
+  .quiz-data-table {
+    font-size: 0.72rem !important;
+    min-width: 240px !important;
+  }
+  .quiz-data-table th,
+  .quiz-data-table td {
+    padding: 4px 5px !important;
+  }
   .countdown-title {
     font-size: 0.74rem !important;
   }
@@ -2277,4 +2340,70 @@ body {
     max-width: 98vw;
     max-height: 80vh;
   }
+}
+
+
+/* Modern Responsive Quiz Data Table System */
+.quiz-table-wrapper {
+  margin: 14px 0 16px 0;
+  overflow-x: auto;
+  border-radius: 10px;
+  border: 1px solid rgba(249, 115, 22, 0.35);
+  background: rgba(15, 23, 42, 0.85);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+  -webkit-overflow-scrolling: touch;
+}
+
+.quiz-data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  text-align: center;
+  color: #f1f5f9;
+  min-width: 300px;
+}
+
+.quiz-data-table th,
+.quiz-data-table td {
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  line-height: 1.45;
+}
+
+.quiz-data-table th {
+  background: rgba(30, 41, 59, 0.95);
+  color: #fb923c;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.quiz-data-table th.table-sub-header {
+  background: rgba(30, 41, 59, 0.7);
+  color: #fdba74;
+  font-size: 0.82rem;
+}
+
+.quiz-data-table tr:nth-child(even) td {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.quiz-data-table tr:hover td {
+  background: rgba(249, 115, 22, 0.08);
+}
+
+.quiz-data-table td.table-row-title {
+  text-align: left;
+  font-weight: 600;
+  color: #e2e8f0;
+  background: rgba(15, 23, 42, 0.5);
+  white-space: nowrap;
+}
+
+.quiz-data-table td.highlight-num {
+  font-weight: 700;
+  color: #38bdf8;
+}
+
+.quiz-table-wrapper br {
+  display: none !important;
 }

@@ -113,7 +113,7 @@ class StorageService {
   cleanupOldVersions() {
     // Önceki sürümlerden kalan eski sürümleri temizle
     const oldKeys = [
-      'ekys_questions_v5',
+      'ekys_questions_v6', 'ekys_questions_v5',
       'ekys_local_users_v2', 'ekys_local_users',
       'ekys_wrong_pool_v9', 'ekys_favorites_v9', 'ekys_quiz_history_v9',
       'ekys_wrong_pool_v8', 'ekys_favorites_v8', 'ekys_quiz_history_v8',
@@ -129,22 +129,20 @@ class StorageService {
 
   initDefaults() {
     const realQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
-      ? [...window.EKYS_EXTRACTED_QUESTIONS] 
+      ? window.EKYS_EXTRACTED_QUESTIONS 
       : [];
 
-    const stored = (typeof localStorage !== 'undefined' && localStorage.getItem(this.KEYS.QUESTIONS))
-      ? JSON.parse(localStorage.getItem(this.KEYS.QUESTIONS) || '[]')
-      : [];
-
-    const dbIds = new Set(realQuestions.map(q => q.id));
-    const customQuestions = stored.filter(q => !dbIds.has(q.id));
-    const merged = [...realQuestions, ...customQuestions];
-
-    this.saveQuestions(merged);
+    // Bellek önbelleği (RAM): 2.8 MB veriyi localStorage diske yazıp ana iş parçacığını dondurmayı önler
+    this._cachedQuestions = realQuestions;
+    try {
+      if (typeof localStorage !== 'undefined') {
+        localStorage.removeItem(this.KEYS.QUESTIONS);
+      }
+    } catch(e) {}
 
     // 2. Dinamik Konu Listesini Sadece Bu Gerçek Testlerden Oluştur
     const dynamicTopicMap = new Map();
-    merged.forEach(q => {
+    realQuestions.forEach(q => {
       if (q.topicId && !dynamicTopicMap.has(q.topicId)) {
         dynamicTopicMap.set(q.topicId, {
           id: q.topicId,
@@ -224,24 +222,14 @@ class StorageService {
 
   // --- SORULAR ---
   getQuestions() {
-    try {
-      const stored = JSON.parse(localStorage.getItem(this.KEYS.QUESTIONS)) || [];
-      const dbQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
-        ? window.EKYS_EXTRACTED_QUESTIONS 
-        : [];
-      
-      const dbIds = new Set(dbQuestions.map(q => q.id));
-      const customQuestions = stored.filter(q => !dbIds.has(q.id));
-      const merged = [...dbQuestions, ...customQuestions];
-
-      if (merged.length !== stored.length) {
-        this.saveQuestions(merged);
-      }
-      return merged;
-    } catch (e) {
-      console.error('Soru getirme hatası:', e);
-      return (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) ? window.EKYS_EXTRACTED_QUESTIONS : [];
+    if (this._cachedQuestions && Array.isArray(this._cachedQuestions) && this._cachedQuestions.length > 0) {
+      return this._cachedQuestions;
     }
+    const dbQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
+      ? window.EKYS_EXTRACTED_QUESTIONS 
+      : [];
+    this._cachedQuestions = dbQuestions;
+    return dbQuestions;
   }
 
   saveQuestions(questions) {
@@ -400,7 +388,7 @@ class StorageService {
 
     history.unshift(entry);
     localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(history.slice(0, 100)));
-    this.syncCloud();
+    this.syncCloudImmediate();
     return entry;
   }
 
@@ -510,25 +498,30 @@ class StorageService {
   }
 
   syncCloud() {
+    if (this._syncTimer) {
+      clearTimeout(this._syncTimer);
+    }
+    this._syncTimer = setTimeout(() => {
+      if (typeof window !== 'undefined' && window.firebaseService) {
+        window.firebaseService.syncAllDataToCloud();
+      }
+    }, 2500);
+  }
+
+  syncCloudImmediate() {
+    if (this._syncTimer) {
+      clearTimeout(this._syncTimer);
+      this._syncTimer = null;
+    }
     if (typeof window !== 'undefined' && window.firebaseService) {
       window.firebaseService.syncAllDataToCloud();
     }
   }
 
   exportAllData() {
-    // Sadece kullanıcıya özel durumları buluta gönder (statik soru bankası hariç, 1MB limitini korur)
-    let customQuestions = [];
-    try {
-      const storedQuestions = JSON.parse(localStorage.getItem(this.KEYS.QUESTIONS)) || [];
-      const dbQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
-        ? window.EKYS_EXTRACTED_QUESTIONS 
-        : [];
-      const dbIds = new Set(dbQuestions.map(q => q.id));
-      customQuestions = storedQuestions.filter(q => !dbIds.has(q.id));
-    } catch (e) {}
-
+    // 2.8 MB soru bankasını ayrıştırmadan sadece kullanıcının kişisel durumunu (15 KB) anında döndürür
     return {
-      customQuestions: customQuestions,
+      customQuestions: [],
       wrongPool: this.getWrongPool(),
       favorites: this.getFavorites(),
       quizHistory: this.getQuizHistory(),
