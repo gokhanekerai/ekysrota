@@ -68105,5 +68105,1485 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Çözüm Analizi:</strong><br>• Kutu Grafiğinde (Box Plot):<br>1. <strong>Daha Başarılı Olmak:</strong> Kutunun dikey eksende 100 puan yönünde daha yukarıda bulunması demektir. A şubesinin kutusu yukarıda, B şubesi aşağıda olmalıdır (C, D ve E elenir).<br>2. <strong>Daha Homojen Olmak:</strong> Puan farklılaşmasının az olması, yani kutunun boyunun ve uç çizgilerinin (bıyıklarının) daha kısa ve dar olması demektir.<br>A seçeneğinde A şubesinin kutusu hem yukarıda hem de oldukça dardır (homojen). B seçeneğinde ise kutu geniştir (heterojen). Doğru seçenek A'dır."
+  },
+  {
+    "id": "tarih10-q1",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Osmanlı mutlak monarşisinde padişah egemenliği şahsında toplamıştır. Buna göre padişah genel idareye ve icraya ilişkin yürütme yetkisini doğrudan hangi organ ve makam vasıtasıyla icra eder?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Şeyhülislamlık (Bâb-ı Meşîhat)"
+      },
+      {
+        "key": "B",
+        "text": "Kazaskerlik Makamı"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı Hümayun ve Sadrazam"
+      },
+      {
+        "key": "D",
+        "text": "Enderun Mektebi"
+      },
+      {
+        "key": "E",
+        "text": "Yeniçeri Ocağı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Divan-ı Hümayun ve Sadrazam)<br><br>🎯 <strong>Pedagojik Çözüm & Sınav Tüyosu:</strong><br>Osmanlı Devleti'nde padişah yürütme yetkisini hükümet niteliğindeki <strong>Divan-ı Hümayun</strong> vasıtasıyla ve mutlak vekili olan <strong>Sadrazam</strong> aracılığıyla kullanır."
+  },
+  {
+    "id": "tarih10-q2",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Osmanlı Devleti’nde padişah yasama, yürütme ve yargı yetkilerini şahsında toplamıştır. Ancak devlet hiyerarşisinde üst düzey yöneticilerin de astlarına emir iletme yetkisi bulunmaktadır.\n\nAşağıdakilerden hangisi doğrudan padişaha ait bir hukuki veya idari belge niteliği taşımaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ferman"
+      },
+      {
+        "key": "B",
+        "text": "Berat"
+      },
+      {
+        "key": "C",
+        "text": "Buyrultu"
+      },
+      {
+        "key": "D",
+        "text": "Hatt-ı Hümayun"
+      },
+      {
+        "key": "E",
+        "text": "Adaletname"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Buyrultu)<br><br>🎯 <strong>ÖSYM Çeldirici Tuzağı:</strong><br><strong>Buyrultu</strong>, padişaha ait bir metin değildir; sadrazam ve vezirlerin astlarına gönderdiği idari emir yazısıdır. Ferman, berat, hatt-ı hümayun ve adaletname ise doğrudan padişahın yasama iradesiyle çıkar."
+  },
+  {
+    "id": "tarih10-q3",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Osmanlı Devleti'nde taşradaki idarecilerin (beylerbeyi, sancakbeyi, kadı vb.) halka kanun dışı vergiler koymasını ve baskı yapmasını önlemek, reayanın hukukunu korumak ve merkezi otoriteyi tahkim etmek amacıyla padişah tarafından yayımlanan bildirilere ne ad verilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yasakname"
+      },
+      {
+        "key": "B",
+        "text": "Adaletname"
+      },
+      {
+        "key": "C",
+        "text": "Ahitname"
+      },
+      {
+        "key": "D",
+        "text": "Fetihname"
+      },
+      {
+        "key": "E",
+        "text": "Berat"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Adaletname)<br><br>🎯 <strong>Kavram Analizi:</strong><br><strong>Adaletname:</strong> Taşradaki idarecilerin halka zulmetmesini önlemek ve halkın hukukunu korumak için çıkarılan beyannamelerdir. Ahitname yabancılara verilen kapitülasyon/antlaşma; Fetihname ise zafer müjdesidir."
+  },
+  {
+    "id": "tarih10-q4",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "Osmanlı Devleti'nde padişahın yetkileri ve bunların somutlaşmış biçimleri hakkında:\n\nI. Yasama: Ferman, Berat, Hatt-ı Hümayun ve Kanunnameler yayımlaması\nII. Yürütme: Divan-ı Hümayun kararlarını sadrazam ve vezirler eliyle tatbik ettirmesi\nIII. Yargı: Suç işleyen veya haksız kazanç sağlayan devlet adamına Müsadere ve Kul Sistemi uygulaması\n\neşleştirmelerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Detaylı Açıklama:</strong><br>Padişah mutlak monarşi gereği kuvvetler birliğine sahiptir: Yasamayı ferman/kanunname/berat ile; yürütmeyi Divan-ı Hümayun ile; yargıyı ise Müsadere ve Kul sistemi tasarruflarıyla bizzat şahsında somutlaştırır."
+  },
+  {
+    "id": "tarih10-q5",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Fatih Sultan Mehmet Dönemi’nde kanunlaşan \"müsadere sistemi\" ile haksız kazanç sağladığı tespit edilen veya suç işleyen devlet adamlarının mallarına devletçe el konulmuştur.\n\nBu uygulamanın Osmanlı Devleti’ndeki sonuçları ve etkileriyle ilgili olarak:\nI. Merkezi otoriteye rakip olabilecek güçlü bir aristokrat sınıfın doğmasını engellemiştir.\nII. Reayanın mülkiyet haklarını tamamen ortadan kaldırarak devlete olan güveni sarsmıştır.\nIII. Sermaye birikimini ve özel mülkiyet güvencesini sınırlandırarak uzun vadede sanayileşmeyi geciktirmiştir.\n\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve III)<br><br>🎯 <strong>Kritik Sınav Tuzağı:</strong><br>Müsadere sistemi sıradan halka (reayaya) uygulanmaz; sadece devşirme devlet adamları ve yöneticiler için geçerlidir. Dolayısıyla II. öncül yanlıştır. Hanedana rakip aristokrasiyi önlemiş (I), ancak özel sermaye birikimini kısıtlamıştır (III)."
+  },
+  {
+    "id": "tarih10-q6",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Osmanlı Devleti’nde hükümdarın mutlak yargı yetkisini yansıtan en önemli müesseselerden biri \"Kul Sistemi\"dir.\n\nKul Sistemi ile ilgili olarak aşağıda verilen bilgilerden hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Reayadan herhangi bir suç işleyen vatandaşın yargılanmadan idam edilebilmesidir."
+      },
+      {
+        "key": "B",
+        "text": "Padişahın, kapıkulu ve devşirme kökenli devlet adamlarının canı üzerindeki mutlak tasarruf hakkıdır."
+      },
+      {
+        "key": "C",
+        "text": "Medrese mezunu ulema sınıfının can ve mal dokunulmazlığının kaldırılmasıdır."
+      },
+      {
+        "key": "D",
+        "text": "Lonca teşkilatına bağlı esnafın devlet denetimine alınması yöntemidir."
+      },
+      {
+        "key": "E",
+        "text": "Gayrimüslim tebaanın cizye vergisi karşılığı askerlikten muaf tutulmasıdır."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Açıklama:</strong><br><strong>Kul Sistemi:</strong> Padişaha kul olarak intisap etmiş kapıkulu statüsündeki devşirme devlet adamlarının canı üzerindeki mutlak tasarruf hakkıdır. Sıradan reaya (halk) bu kapsamda değildir."
+  },
+  {
+    "id": "tarih10-q7",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Osmanlı Devleti'nde padişahlar örfi kuralları ve emirlerini kanunlaştırmışlardır.\n\nTürk töresini ve örfi hukuku İLK KEZ yazılı hale getirerek genel bir kanunname (Kânûnnâme-i Âl-i Osmân) tanzim eden Osmanlı padişahı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Orhan Bey"
+      },
+      {
+        "key": "B",
+        "text": "I. Murad"
+      },
+      {
+        "key": "C",
+        "text": "Fatih Sultan Mehmet"
+      },
+      {
+        "key": "D",
+        "text": "Kanuni Sultan Süleyman"
+      },
+      {
+        "key": "E",
+        "text": "II. Mahmut"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Fatih Sultan Mehmet)<br><br>🎯 <strong>Sınav Tüyosu:</strong><br>Örfi hukuku ve Türk töresini ilk kez yazılı hale getirip kanunname çıkaran hükümdar <strong>Fatih Sultan Mehmet</strong>'tir. Kanuni de çıkarmıştır ancak ilk düzenleyici Fatih'tir."
+  },
+  {
+    "id": "tarih10-q8",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Osmanlı padişahlarının unvanları ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sultan unvanını ilk kullanan: Orhan Bey (\"Sultânü'l-Guzât\")"
+      },
+      {
+        "key": "B",
+        "text": "Padişah / Hünkar unvanını resmileştiren: Fatih Sultan Mehmet"
+      },
+      {
+        "key": "C",
+        "text": "Halife unvanını fiilen devlet politikası yapan: Yavuz Sultan Selim"
+      },
+      {
+        "key": "D",
+        "text": "Abbasi halifesince Sultân-ı İklîm-i Rûm unvanı verilen: I. Murad"
+      },
+      {
+        "key": "E",
+        "text": "Hâdimü'l-Haremeyni'ş-Şerîfeyn unvanını kullanan: Yavuz Sultan Selim"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Çeldirici Bilgi:</strong><br><strong>Sultân-ı İklîm-i Rûm</strong> (Anadolu Diyarının Sultanı) unvanı Niğbolu Zaferi sonrası Abbasi halifesi tarafından I. Murad'a değil, <strong>I. Bayezid'e (Yıldırım Bayezid)</strong> verilmiştir."
+  },
+  {
+    "id": "tarih10-q9",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Osmanlı Devleti, Orta Asya Türk hâkimiyet gelenekleri ile İslami devlet teamüllerini sentezlemiştir.\n\nAşağıdakilerden hangisi Osmanlı Devleti'nde hükümdarlık ve hâkimiyet sembolleri arasında yer alırken, İslamiyet öncesi Türk devletlerinde kullanılmamıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tuğ"
+      },
+      {
+        "key": "B",
+        "text": "Otağ"
+      },
+      {
+        "key": "C",
+        "text": "Taht"
+      },
+      {
+        "key": "D",
+        "text": "Hilat giymek"
+      },
+      {
+        "key": "E",
+        "text": "Davul (Tabıl / Kös)"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Hilat giymek)<br><br>🎯 <strong>ÖSYM Favori Karşılaştırması:</strong><br><strong>Hilat giymek:</strong> Abbasi halifelerinden ve İslam devletleri geleneğinden geçmiştir (hükümdarın elbise giymesi/giydirmesi). Tuğ, otağ, taht ve davul İslamiyet öncesi Türklerde de vardı."
+  },
+  {
+    "id": "tarih10-q10",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Osmanlı padişahlarının tahta geçtikten sonra meşruiyetlerini tescil ettirmek amacıyla Şeyhülislam veya Nakibüleşraf eliyle \"Kılıç Kuşanma Merasimi\" (Kılıç Alayı) icra ettikleri tarihi mekân aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ayasofya Camii"
+      },
+      {
+        "key": "B",
+        "text": "Eyüp Sultan Türbesi"
+      },
+      {
+        "key": "C",
+        "text": "Fatih Camii"
+      },
+      {
+        "key": "D",
+        "text": "Sultanahmet Camii"
+      },
+      {
+        "key": "E",
+        "text": "Hacı Bayram-ı Veli Türbesi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Eyüp Sultan Türbesi)<br><br>🎯 <strong>Tarihi Arka Plan:</strong><br>Osmanlı padişahları tahta çıktıklarında saltanat kayığı ile Haliç'ten gelerek <strong>Eyüp Sultan Türbesi</strong>'nde kılıç kuşanırlardı."
+  },
+  {
+    "id": "tarih10-q11",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Osmanlı Devleti’nde hükümdarın bağımsızlığını ve devletin bekasını temsil eden maddi ve manevi hâkimiyet sembolleriyle ilgili aşağıda verilen tanımlardan hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sorguç: Hükümdarın sarığına taktığı, mücevherli iktidar alametidir."
+      },
+      {
+        "key": "B",
+        "text": "Cülus: Hükümdarın tahta çıkışını ve bu esnada askerlere bahşiş dağıtılmasını ifade eder."
+      },
+      {
+        "key": "C",
+        "text": "Tuğra: Hükümdarın isminin ve unvanının yer aldığı hanedan nişanıdır."
+      },
+      {
+        "key": "D",
+        "text": "Biat: Devlet ricalinin ve halk temsilcilerinin hükümdara sadakat bildirmesidir."
+      },
+      {
+        "key": "E",
+        "text": "Buyrultu: Yeni padişahın tahta çıktığında komşu hükümdarlara gönderdiği tebliğ mektubudur."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Çeldirici Analizi:</strong><br>Buyrultu komşu hükümdarlara gönderilen mektup değildir; sadrazam ve vezirlerin astlarına gönderdiği idari emirdir. Zafer tebliği mektuplarına ise <strong>Fetihname</strong> denir."
+  },
+  {
+    "id": "tarih10-q12",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "Topkapı Sarayı; Bîrun (Dış Saray), Enderun (İç Saray) ve Harem olmak üzere üç ana kısımdan oluşur.\n\nBuna göre aşağıdakilerden hangisi padişahın devlet idaresindeki şahsi mesaisini yürüttüğü, sadrazamın kararları padişaha sunduğu \"Arz Odası\"nın ve Hırka-i Saadet Dairesi'nin yer aldığı saray bölümüdür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bîrun"
+      },
+      {
+        "key": "B",
+        "text": "Enderun"
+      },
+      {
+        "key": "C",
+        "text": "Harem"
+      },
+      {
+        "key": "D",
+        "text": "Kasr-ı Adl"
+      },
+      {
+        "key": "E",
+        "text": "Matbah-ı Âmire"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Enderun)<br><br>🎯 <strong>Saray Yapısı:</strong><br><strong>Enderun:</strong> Arz Odası, Enderun Mektebi, Hazine-i Hümayun, Kiler Koğuşu ve Kutsal Emanetler (Hırka-i Saadet) bu iç saray bölümündedir."
+  },
+  {
+    "id": "tarih10-q13",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "Topkapı Sarayı'nın dış bölümü olan Bîrun (Dış Saray) ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Padişahın resmi ve kamusal hayatının geçtiği, törenlerin yapıldığı yerdir."
+      },
+      {
+        "key": "B",
+        "text": "Divan-ı Hümayun toplantılarının yapıldığı Divanhane (Kubbealtı) bu bölümdedir."
+      },
+      {
+        "key": "C",
+        "text": "Padişahın kafes arkasından divan müzakerelerini izlediği Kasr-ı Adl kulesi buradadır."
+      },
+      {
+        "key": "D",
+        "text": "Sarayın muhafazasını sağlayan Altı Bölük Halkı süvarileri burada yer alır."
+      },
+      {
+        "key": "E",
+        "text": "Üstün yetenekli devşirme çocukların bürokrat olarak yetiştirildiği saray mektebi bu bölümdedir."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Ayrım:</strong><br>Enderun Mektebi (devşirmelerin yetiştirildiği okul) Bîrun'da değil, iç saray olan <strong>Enderun</strong>'dadır."
+  },
+  {
+    "id": "tarih10-q14",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Topkapı Sarayı'nda Bîrun (Dış Saray) ile Enderun (İç Saray) arasındaki geçişi sağlayan; cülus törenlerinin ve bayramlaşmaların önünde yapıldığı, elçilerin karşılandığı kapı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bâb-ı Hümâyun"
+      },
+      {
+        "key": "B",
+        "text": "Bâbüsselâm (Selam Kapısı)"
+      },
+      {
+        "key": "C",
+        "text": "Bâbüssaade (Saadet / Ak Ağalar Kapısı)"
+      },
+      {
+        "key": "D",
+        "text": "Otluk Kapısı"
+      },
+      {
+        "key": "E",
+        "text": "Soğukçeşme Kapısı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bâbüssaade)<br><br>🎯 <strong>Sınav Tüyosu:</strong><br><strong>Bâbüssaade (Saadet / Ak Ağalar / Orta Kapı):</strong> Birun'u Enderun'a bağlar. Padişah cülus töreninde ve bayramlaşmada tahtını bu kapının önüne kurdurur."
+  },
+  {
+    "id": "tarih10-q15",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "Topkapı Sarayı'nda padişahın ailesiyle birlikte yaşadığı Harem dairesiyle ilgili olarak:\n\nI. Harem teşkilatının idari ve güvenlik amiri Dârüssaade Ağası (Kızlar Ağası)'dır.\nII. Hiyerarşik olarak saray kadınlarının başında padişahın annesi olan Valide Sultan yer alır.\nIII. Harem yalnızca bir ikametgâh değil; saray adabı, İslami ilimler, nakış ve musiki öğretilen kadınlara mahsus bir eğitim mektebidir.\n\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Harem Teşkilatı:</strong><br>Üç öncül de kesinlikle doğrudur. Harem hem aile ikametgahı hem de eğitim mektebidir. Başında Valide Sultan, idari amiri ise Dârüssaade Ağası'dır."
+  },
+  {
+    "id": "tarih10-q16",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "Osmanlı sarayları inşa edildikleri dönemin mimari üslubunu yansıtır. 18. yüzyıldan itibaren Batılaşmanın etkisiyle barok, rokoko ve ampir tarzda saraylar inşa edilmiştir.\n\nAşağıdaki saraylardan hangisi inşa tarzı bakımından Batı mimarisinin etkisinin görülmediği klasik dönem sarayları arasında yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dolmabahçe Sarayı"
+      },
+      {
+        "key": "B",
+        "text": "Beylerbeyi Sarayı"
+      },
+      {
+        "key": "C",
+        "text": "İshak Paşa Sarayı"
+      },
+      {
+        "key": "D",
+        "text": "Çırağan Sarayı"
+      },
+      {
+        "key": "E",
+        "text": "Bursa Bey Sarayı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Bursa Bey Sarayı)<br><br>🎯 <strong>Mimari Ayrım:</strong><br>Bursa Bey Sarayı, Edirne Sarayı ve Topkapı Sarayı <strong>Batı etkisi olmayan</strong> klasik saraylardır. Diğerleri Batı etkisi taşır."
+  },
+  {
+    "id": "tarih10-q17",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "Ağrı Doğubayazıt’ta bulunan ve yapımı yaklaşık 100 yıl süren İshak Paşa Sarayı’nın dünya mimarlık tarihindeki en ayırt edici teknik özelliği aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tamamen kurşun kaplamalı kubbelere sahip ilk saray olması"
+      },
+      {
+        "key": "B",
+        "text": "Dünya tarihindeki ilk merkezi ısıtmalı (kalorifer sistemli) saray yapılarından biri olması"
+      },
+      {
+        "key": "C",
+        "text": "İçinde hiçbir süsleme unsuruna yer verilmeyen ilk sade saray olması"
+      },
+      {
+        "key": "D",
+        "text": "Tamamen ahşap karkas mimari tekniğiyle inşa edilen en büyük saray olması"
+      },
+      {
+        "key": "E",
+        "text": "Osmanlı'da ilk kez kafes usulü şehzade dairesi barındıran saray olması"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Özgün Detay:</strong><br>İshak Paşa Sarayı, dünya tarihindeki ilk <strong>merkezi ısıtmalı (kalorifer/sıcak su kanallı)</strong> saray örneklerindendir."
+  },
+  {
+    "id": "tarih10-q18",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Klasik dönem Osmanlı mimarisinin en önemli payitaht saraylarından biri olan Edirne Sarayı'nın günümüze büyük ölçüde harabe halinde ulaşmasının sebebi olan tarihi gelişme aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Celali İsyanları sırasında asiler tarafından ateşe verilmesi"
+      },
+      {
+        "key": "B",
+        "text": "1877-1878 Osmanlı-Rus Harbi'nde (93 Harbi) Rusların eline geçmemesi için cephaneliğin havaya uçurulması"
+      },
+      {
+        "key": "C",
+        "text": "Patrona Halil İsyanı sırasında yağmalanması"
+      },
+      {
+        "key": "D",
+        "text": "I. Balkan Savaşı'nda Bulgar topçusu tarafından tamamen yıkılması"
+      },
+      {
+        "key": "E",
+        "text": "II. Viyana Kuşatması sonrası çıkan büyük yangında kül olması"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Tarihi Olay:</strong><br>Edirne Sarayı, <strong>93 Harbi (1877-1878)</strong> sırasında cephanelik olarak kullanılmış ve Rus kuvvetlerinin eline geçmemesi için dönemin valisi/komutanı emriyle havaya uçurulmuştur."
+  },
+  {
+    "id": "tarih10-q19",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Batı etkisinde inşa edilen 19. yüzyıl saraylarıyla ilgili olarak:\n\nI. Dolmabahçe Sarayı: Sultan Abdülmecid döneminde Balyan ailesine inşa ettirilmiş olup Atatürk'ün \"milletimin sarayıdır\" dediği yapıdır.\nII. Yıldız Sarayı: II. Abdülhamid devrinde elden geçirilerek devletin fiili yönetim merkezi (Yıldız Teşkilatı) haline getirilmiştir.\nIII. Beylerbeyi ve Çırağan Sarayları: Sultan Abdülaziz döneminde inşa ettirilmiştir.\n\nbilgilerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Özet Bilgi:</strong><br>Her üç saray bilgisi de dönemsel ve mimari açıdan tam doğrudur."
+  },
+  {
+    "id": "tarih10-q20",
+    "testId": "tarih10",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 1",
+    "topicId": "tarih_osmanli_1",
+    "topicName": "Hükümdar, Yönetim Gücü ve Saray Teşkilatı",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Osmanlı Devleti'nin kuruluş sürecinde uygulanan politikalarla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İstimalet politikası ile gayrimüslim halkın inancına ve malına saygı gösterilerek devlete sadakat sağlanmıştır."
+      },
+      {
+        "key": "B",
+        "text": "İskân politikasıyla Balkanlarda fethedilen topraklara Anadolu'dan Türkmen nüfus yerleştirilmiştir."
+      },
+      {
+        "key": "C",
+        "text": "Osman Bey, Şeyh Edebali'nin kızıyla evlenerek Ahilerin dini ve iktisadi desteğini almıştır."
+      },
+      {
+        "key": "D",
+        "text": "Karesioğulları Beyliği kanlı bir meydan savaşıyla zorla fethedilerek ortadan kaldırılmıştır."
+      },
+      {
+        "key": "E",
+        "text": "Tımar sistemi ile toprağın işletilmesi sağlanmış ve masrafsız tımarlı sipahi ordusu kurulmuştur."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Sınav Tüyosu:</strong><br>Karesioğulları Beyliği savaşla değil; beyliğin iç çekişmeleri sonucu <strong>kendi idarecilerinin ricasıyla ve kan dökülmeden</strong> Osmanlı sınırlarına katılmıştır."
+  },
+  {
+    "id": "tarih11-q1",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 1,
+    "questionText": "Osmanlı Devleti'nde merkezi otoriteyi güçlendirmek ve taht kavgalarını önlemek amacıyla yapılan veraset düzenlemeleri şunlardır:\n\nI. \"Ülke padişah ve oğullarının malıdır.\" ilkesinin getirilmesi\nII. \"Ekber ve Erşed\" (en yaşlı ve olgun üye) sistemine geçilmesi\nIII. Nizam-ı alem için kardeş katlinin kanunlaştırılması\n\nBu düzenlemeleri hayata geçiren Osmanlı padişahları aşağıdakilerden hangisinde sırasıyla ve doğru verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I. Murad — Fatih Sultan Mehmet — I. Ahmed"
+      },
+      {
+        "key": "B",
+        "text": "Orhan Bey — I. Murad — Fatih Sultan Mehmet"
+      },
+      {
+        "key": "C",
+        "text": "I. Murad — I. Ahmed — Fatih Sultan Mehmet"
+      },
+      {
+        "key": "D",
+        "text": "Fatih Sultan Mehmet — I. Ahmed — III. Mehmet"
+      },
+      {
+        "key": "E",
+        "text": "I. Murad — III. Mehmet — I. Ahmed"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I. Murad — I. Ahmed — Fatih Sultan Mehmet)<br><br>🎯 <strong>Veraset Kronolojisi:</strong><br>• I (Padişah ve oğullarının): <strong>I. Murad</strong><br>• II (Ekber ve Erşed): <strong>I. Ahmed</strong><br>• III (Kardeş katli): <strong>Fatih Sultan Mehmet</strong>"
+  },
+  {
+    "id": "tarih11-q2",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 2,
+    "questionText": "I. Ahmed Dönemi’nde uygulamaya konulan \"Ekber ve Erşed\" sistemi ile ilgili aşağıdakilerden hangisi söylenemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hanedanın en yaşlı ve aklı başında üyesinin tahta geçmesi kurala bağlanmıştır."
+      },
+      {
+        "key": "B",
+        "text": "Taht verasetindeki belirsizlik ve hanedan içi taht kavgaları asgariye indirilmiştir."
+      },
+      {
+        "key": "C",
+        "text": "Şehzadelerin taşra sancaklarında liyakat kazanması zorunlu hale getirilmiştir."
+      },
+      {
+        "key": "D",
+        "text": "Kardeş katli uygulaması fiilen büyük ölçüde sınırlandırılmıştır."
+      },
+      {
+        "key": "E",
+        "text": "Kafes usulüyle birleştiğinde yönetim tecrübesinden yoksun padişahların tahta geçmesine yol açmıştır."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Açıklama:</strong><br>Ekber ve Erşed sistemi sancağa çıkmayı zorunlu kılmamış; tam aksine III. Mehmed'in kaldırdığı sancak usulü yerine <strong>Kafes (Şimşirlik)</strong> sistemi yerleşmiştir."
+  },
+  {
+    "id": "tarih11-q3",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 3,
+    "questionText": "Osmanlı Devleti'nde şehzadelerin eyaletlerde deneyim kazanması için uygulanan Sancak Usulü ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sancak usulünü başlatan hükümdar Orhan Bey’dir."
+      },
+      {
+        "key": "B",
+        "text": "Sancaktan yetişerek tahta çıkan ilk padişah I. Murad’dır."
+      },
+      {
+        "key": "C",
+        "text": "Şehzadeler batı sınırındaki kışkırtma ve isyan riskleri nedeniyle Rumeli sancaklarına gönderilmemiştir."
+      },
+      {
+        "key": "D",
+        "text": "Anadolu coğrafyası dışındaki tek şehzade sancağı Kefe’dir."
+      },
+      {
+        "key": "E",
+        "text": "Sancak usulünü kaldıran ve şehzadeleri sarayda tutan padişah Kanuni Sultan Süleyman’dır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Kritik Bilgi:</strong><br>Sancak usulünü kaldıran ve şehzadeleri sarayda tutan padişah Kanuni değil, <strong>III. Mehmet</strong>'tir."
+  },
+  {
+    "id": "tarih11-q4",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 4,
+    "questionText": "Şehzadelerin sarayda Şimşirlik dairesinde gözetim altında tutulduğu \"Kafes Usulü\"nde yaklaşık 50 yıl kalarak Osmanlı tarihinde kafeste en uzun süre bekledikten sonra tahta çıkan padişah kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I. Mustafa"
+      },
+      {
+        "key": "B",
+        "text": "Sultan İbrahim"
+      },
+      {
+        "key": "C",
+        "text": "III. Osman"
+      },
+      {
+        "key": "D",
+        "text": "II. Süleyman"
+      },
+      {
+        "key": "E",
+        "text": "IV. Murad"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (III. Osman)<br><br>🎯 <strong>Eleyici Soru:</strong><br>Yaklaşık 50 yıl kafeste kalarak tahta çıkan ve bu alanda en uzun süre tecrit altında kalan hükümdar <strong>III. Osman</strong>'dır."
+  },
+  {
+    "id": "tarih11-q5",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 5,
+    "questionText": "Osmanlı Devleti'nde Sancak Usulü'nden yetişerek tahta çıkan İLK padişah ile sancaktan tahta çıkan SON padişah hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İlk: Orhan Bey — Son: I. Ahmed"
+      },
+      {
+        "key": "B",
+        "text": "İlk: I. Murad — Son: III. Mehmet"
+      },
+      {
+        "key": "C",
+        "text": "İlk: I. Bayezid — Son: II. Selim"
+      },
+      {
+        "key": "D",
+        "text": "İlk: I. Murad — Son: IV. Murad"
+      },
+      {
+        "key": "E",
+        "text": "İlk: Fatih Sultan Mehmet — Son: III. Mehmet"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>İlkler ve Sonlar:</strong><br>• Sancaktan yetişip tahta çıkan ilk padişah: <strong>I. Murad</strong><br>• Sancaktan tahta çıkan son padişah (ve kaldıran): <strong>III. Mehmet</strong>"
+  },
+  {
+    "id": "tarih11-q6",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 6,
+    "questionText": "Divan-ı Hümayun'un işleyişi ve yapısındaki dönüşümlerle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Orhan Bey devrinde kurulmuş, II. Mahmut devrinde bakanlıklara (nezaretler) dönüştürülmüştür."
+      },
+      {
+        "key": "B",
+        "text": "Fatih Sultan Mehmet'ten itibaren divan başkanlığı sadrazamlara bırakılmıştır."
+      },
+      {
+        "key": "C",
+        "text": "Zamanla divan toplantıları Topkapı Sarayı yerine sadrazam konağında (Bâb-ı Âlî) yapılmaya başlanmıştır."
+      },
+      {
+        "key": "D",
+        "text": "Divanda alınan kararlara hüküm denmiş ve bunlar mühimme defterlerine kaydedilmiştir."
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı Hümayun yalnızca şeri davalara bakan bir yüksek mahkemedir; idari ve askeri karar alamaz."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Divan Fonksiyonu:</strong><br>Divan-ı Hümayun sadece mahkeme değildir; siyasi, askeri, idari, mali ve adli tüm devlet işlerinin görüşüldüğü en üst yürütme organıdır."
+  },
+  {
+    "id": "tarih11-q7",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 7,
+    "questionText": "Osmanlı Devleti'nde sadrazamlık makamı ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Padişahın mutlak vekilidir ve padişah mührünü (Mühr-i Hümâyun) taşır."
+      },
+      {
+        "key": "B",
+        "text": "Padişah sefere katılmadığında orduya \"Serdâr-ı Ekrem\" unvanıyla başkumandanlık eder."
+      },
+      {
+        "key": "C",
+        "text": "İlk Osmanlı sadrazamı Çandarlı Kara Halil Hayreddin Paşa'dır."
+      },
+      {
+        "key": "D",
+        "text": "Son Osmanlı sadrazamı Ahmet Tevfik Paşa'dır."
+      },
+      {
+        "key": "E",
+        "text": "Sadrazamın astlarına verdiği yazılı emirler doğrudan ferman niteliği taşır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Çeldirici Tuzağı:</strong><br>Sadrazamın emirlerine <strong>buyrultu</strong> denir; ferman doğrudan padişaha aittir."
+  },
+  {
+    "id": "tarih11-q8",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 8,
+    "questionText": "Osmanlı Devleti'nde atanan İLK Vezir kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çandarlı Kara Halil Paşa"
+      },
+      {
+        "key": "B",
+        "text": "Alâeddin Paşa"
+      },
+      {
+        "key": "C",
+        "text": "Lala Şahin Paşa"
+      },
+      {
+        "key": "D",
+        "text": "Zağanos Paşa"
+      },
+      {
+        "key": "E",
+        "text": "Gedik Ahmet Paşa"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Alâeddin Paşa)<br><br>🎯 <strong>İlkler:</strong><br>İlk vezir, Orhan Bey’in kardeşi <strong>Alâeddin Paşa</strong>'dır. İlk sadrazam ise Çandarlı Kara Halil Paşa'dır."
+  },
+  {
+    "id": "tarih11-q9",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 9,
+    "questionText": "Divan kararlarına ve padişah fermanlarına tuğra çeken, devletin iç ve dış yazışmalarını tanzim eden, mühimme ve tahrir defterlerini tutan, örfi hukukun uzmanı olan divan üyesi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Defterdar"
+      },
+      {
+        "key": "B",
+        "text": "Kazasker"
+      },
+      {
+        "key": "C",
+        "text": "Nişancı (Tevkii)"
+      },
+      {
+        "key": "D",
+        "text": "Reisülküttap"
+      },
+      {
+        "key": "E",
+        "text": "Şeyhülislam"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Nişancı)<br><br>🎯 <strong>Nişancı Görevleri:</strong><br>Tuğra çekmek, <strong>Tahrir</strong> defterlerini tutmak, arazi kayıtlarını yönetmek ve örfi hukuk uzmanlığı Nişancı'nın (Tevkii) temel vazifeleridir."
+  },
+  {
+    "id": "tarih11-q10",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 10,
+    "questionText": "Osmanlı Devleti'nde maliye teşkilatının başında bulunan, devlet bütçesini hazırlayan, akçenin değerini koruyan ve günlük gelir-giderleri \"rûznâmçe\" defterine kaydettiren görevli aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kazasker"
+      },
+      {
+        "key": "B",
+        "text": "Defterdar"
+      },
+      {
+        "key": "C",
+        "text": "Nişancı"
+      },
+      {
+        "key": "D",
+        "text": "Kapan Emini"
+      },
+      {
+        "key": "E",
+        "text": "Şehremini"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Defterdar)<br><br>🎯 <strong>Maliye Teşkilatı:</strong><br>Maliye başı <strong>Defterdar</strong>dır. Rumeli ve Anadolu defterdarı olarak ikiye ayrılmıştır. Günlük mali deftere <strong>rûznâmçe</strong> denir."
+  },
+  {
+    "id": "tarih11-q11",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 11,
+    "questionText": "Osmanlı Divan-ı Hümayun üyesi olan Kazasker (Kadıasker) ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Adalet ve eğitim işlerinden mesuldür."
+      },
+      {
+        "key": "B",
+        "text": "Kadıların ve medreselerdeki müderrislerin atama, terfi ve azil işlemlerini yürütür."
+      },
+      {
+        "key": "C",
+        "text": "Divana gelen şeri davaları inceler; kadı kararlarını bozan ya da onayan en üst temyiz merciidir."
+      },
+      {
+        "key": "D",
+        "text": "Divan kararlarının ve kanunların fıkha uygunluğunu denetleyerek bağlayıcı fetva verir."
+      },
+      {
+        "key": "E",
+        "text": "Sınırların genişlemesiyle Rumeli ve Anadolu kazaskeri olarak ikiye çıkarılmıştır."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Büyük Tuzak:</strong><br>Fetva vermek Kazasker'in değil, <strong>Şeyhülislam</strong>'ın yetkisindedir. Kazasker adalet ve eğitim teşkilatının idari başıdır."
+  },
+  {
+    "id": "tarih11-q12",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 12,
+    "questionText": "Osmanlı Devleti'nde kanun ve divan kararlarının İslam fıkhına uygunluğunu denetleyen fetva makamı Şeyhülislamlık (Bâb-ı Meşîhat) ile ilgili olarak:\n\nI. İlk Osmanlı şeyhülislamı Molla Fenari'dir.\nII. Kanuni Sultan Süleyman devrinde protokolde sadrazama denk kabul edilmiştir.\nIII. Zamanla kadı ve müderris tayinlerinde kazaskerin yetkilerini devralarak gücünü pekiştirmiştir.\n\nbilgilerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Şeyhülislamlık Gelişimi:</strong><br>Üç bilgi de doğrudur. İlk şeyhülislam Molla Fenari'dir; Kanuni devrinde Ebussuud Efendi ile birlikte protokolde sadrazama denk sayılmıştır."
+  },
+  {
+    "id": "tarih11-q13",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 13,
+    "questionText": "Divan-ı Hümayun'a üye olarak katılan İLK Kaptan-ı Derya aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Piri Reis"
+      },
+      {
+        "key": "B",
+        "text": "Turgut Reis"
+      },
+      {
+        "key": "C",
+        "text": "Barbaros Hayreddin Paşa"
+      },
+      {
+        "key": "D",
+        "text": "Karamürsel Alp"
+      },
+      {
+        "key": "E",
+        "text": "Kılıç Ali Paşa"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Barbaros Hayreddin Paşa)<br><br>🎯 <strong>İlkler:</strong><br>Kanuni devrinde Kaptan-ı Deryalığa getirilen ve vezir rütbesi alarak divana üye katılan ilk amiral <strong>Barbaros Hayreddin Paşa</strong>'dır."
+  },
+  {
+    "id": "tarih11-q14",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 14,
+    "questionText": "Önceleri Nişancı'ya bağlı kâtiplerin başıyken, 17. yüzyıldan itibaren diplomasinin ve devletlerarası hukukun önem kazanmasıyla Nişancı'dan ayrılarak bağımsız bir divan üyesi ve hariciye nazırı (Dışişleri Bakanı) haline gelen görevli kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Reisülküttap"
+      },
+      {
+        "key": "B",
+        "text": "Beylikçi"
+      },
+      {
+        "key": "C",
+        "text": "Vak'anüvis"
+      },
+      {
+        "key": "D",
+        "text": "Çavuşbaşı"
+      },
+      {
+        "key": "E",
+        "text": "Teşrifatçı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Reisülküttap)<br><br>🎯 <strong>Bürokrasi Evrimi:</strong><br>Reisülküttaplık diplomasinin gelişmesiyle Nişancı'dan ayrılmış ve bugünkü Dışişleri Bakanlığı konumuna yükselmiştir."
+  },
+  {
+    "id": "tarih11-q15",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 15,
+    "questionText": "Osmanlı bürokrasisinde vezir, beylerbeyi ve sancakbeyi gibi üst düzey devlet adamlarının berat, tayin, azil, terfi ve has-zeamet dirlik kayıtlarını tutan özlük kalemi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Beylikçi Kalemi"
+      },
+      {
+        "key": "B",
+        "text": "Tahvil Kalemi"
+      },
+      {
+        "key": "C",
+        "text": "Rüus Kalemi"
+      },
+      {
+        "key": "D",
+        "text": "Âmedî Kalemi"
+      },
+      {
+        "key": "E",
+        "text": "Vak'anüvis Kalemi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tahvil Kalemi)<br><br>🎯 <strong>Kalemler Ayrımı:</strong><br>• Üst düzey rical (vezir, beylerbeyi): <strong>Tahvil Kalemi</strong><br>• Düşük rütbeli memur ve sipahiler: <strong>Rüus Kalemi</strong>"
+  },
+  {
+    "id": "tarih11-q16",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 16,
+    "questionText": "Dış ilişkilerden, yabancı devletlerle yapılan resmi yazışmalardan ve elçilik evrakının tercümesinden sorumlu büro kalemi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Âmedî Kalemi"
+      },
+      {
+        "key": "B",
+        "text": "Tahvil Kalemi"
+      },
+      {
+        "key": "C",
+        "text": "Rüus Kalemi"
+      },
+      {
+        "key": "D",
+        "text": "Beylikçi Kalemi"
+      },
+      {
+        "key": "E",
+        "text": "Divan Çavuşluğu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Âmedî Kalemi)<br><br>🎯 <strong>Diplomasi Kalemi:</strong><br><strong>Âmedî Kalemi:</strong> Dış işleri ve yabancı devlet evrakı tercümesiyle ilgilenen bürodur."
+  },
+  {
+    "id": "tarih11-q17",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 17,
+    "questionText": "Yabancı elçilerin kabul edildiği, devletin azamet ve ihtişamının sergilendiği ve yeniçerilere üç ayda bir ulufe maaşlarının dağıtıldığı divan türü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Galebe Divanı"
+      },
+      {
+        "key": "B",
+        "text": "İkindi Divanı"
+      },
+      {
+        "key": "C",
+        "text": "Ayak Divanı"
+      },
+      {
+        "key": "D",
+        "text": "Çarşamba Divanı"
+      },
+      {
+        "key": "E",
+        "text": "Cuma Divanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Galebe Divanı)<br><br>🎯 <strong>Divan Türleri:</strong><br>Elçi kabulü ve ulufe dağıtımı yapılan muhteşem divan <strong>Galebe Divanı</strong>'dır."
+  },
+  {
+    "id": "tarih11-q18",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 18,
+    "questionText": "Sadrazamın başkanlığında İstanbul’un asayişi, iaşesi (gıda temini) ve belediye meselelerinin görüşülüp karara bağlandığı divan türü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "At Divanı"
+      },
+      {
+        "key": "B",
+        "text": "İkindi Divanı"
+      },
+      {
+        "key": "C",
+        "text": "Çarşamba Divanı"
+      },
+      {
+        "key": "D",
+        "text": "Cuma Divanı"
+      },
+      {
+        "key": "E",
+        "text": "Ayak Divanı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Çarşamba Divanı)<br><br>🎯 <strong>İstanbul İdaresi:</strong><br>İstanbul'un belediye ve asayiş işleri <strong>Çarşamba Divanı</strong>'nda karara bağlanır. Cuma divanı kazasker nezaretinde şeri davalar içindir."
+  },
+  {
+    "id": "tarih11-q19",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 19,
+    "questionText": "Aşıkpaşazade Tarihi’nde Osmanlı Beyliği’nin kuruluş sürecinde gaza ve cihat ruhuyla fetihlere destek veren zümrelerin yanında fütüvvet ehli \"Anadolu Gençleri / Yiğitleri\" olarak anılan sosyal zümre aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fityân-ı Rûm"
+      },
+      {
+        "key": "B",
+        "text": "Müsellemân-ı Rûm"
+      },
+      {
+        "key": "C",
+        "text": "Yörükân-ı Rûm"
+      },
+      {
+        "key": "D",
+        "text": "Dervişân-ı Rûm"
+      },
+      {
+        "key": "E",
+        "text": "Cündiyân-ı Rûm"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Fityân-ı Rûm)<br><br>🎯 <strong>Eleyici Soru:</strong><br>Ahiyân, Gâziyân, Bâciyân ve Abdâlân-ı Rûm zümrelerinin yanında metinde geçen 5. zümre <strong>Fityân-ı Rûm</strong> (Anadolu Gençleri)'dur."
+  },
+  {
+    "id": "tarih11-q20",
+    "testId": "tarih11",
+    "testTitle": "Genel Tarih: Osmanlı Kültür ve Medeniyeti - 2",
+    "topicId": "tarih_osmanli_2",
+    "topicName": "Veraset, Divan-ı Hümayun ve Bürokrasi",
+    "category": "Genel Kültür - Tarih",
+    "icon": "📜",
+    "questionNumber": 20,
+    "questionText": "Dönemin kaynaklarında Osmanlılar gibi Bizans sınırında tampon bölge oluşturan uç beyliklerine verilen unvan ile Osmanlı Devleti'nin menşei aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Uç Beyliği Unvanı: Sahib-i Etrak / Soy Kütüğü: Bozok kolu - Kayı boyu - Karakeçili aşireti"
+      },
+      {
+        "key": "B",
+        "text": "Uç Beyliği Unvanı: Sultânü'l-Guzât / Soy Kütüğü: Üçok kolu - Kınık boyu - Karakeçili aşireti"
+      },
+      {
+        "key": "C",
+        "text": "Uç Beyliği Unvanı: Hadimü'l-Haremeyn / Soy Kütüğü: Bozok kolu - Avşar boyu - Çepni aşireti"
+      },
+      {
+        "key": "D",
+        "text": "Uç Beyliği Unvanı: Sahib-i Etrak / Soy Kütüğü: Üçok kolu - Kayı boyu - Dodurga aşireti"
+      },
+      {
+        "key": "E",
+        "text": "Uç Beyliği Unvanı: Serdar-ı Ekrem / Soy Kütüğü: Bozok kolu - Salur boyu - Karakeçili aşireti"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Detay Bilgi:</strong><br>Uç beyliklerine dönemin kaynaklarında <strong>\"Sahib-i Etrak\"</strong> denir. Osmanlılar Oğuzların <strong>Bozok</strong> kolunun, <strong>Kayı</strong> boyunun, <strong>Karakeçili</strong> aşiretine mensuptur."
   }
 ];

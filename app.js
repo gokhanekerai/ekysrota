@@ -479,6 +479,22 @@ class EKYSApp {
             badge: '24 Soru Video Test'
           },
           {
+            id: 'tarih10_direct',
+            name: '🏛️ Osmanlı Kültür ve Medeniyeti - 1 (Ders 7)',
+            icon: '🏛️',
+            desc: 'Hükümdar, Yönetim Gücü (Yasama-Yürütme-Yargı), Saray Teşkilatı ve Hâkimiyet Sembolleri (20 Soru).',
+            filterKey: 'tarih10',
+            badge: '20 Soru Konu Testi'
+          },
+          {
+            id: 'tarih11_direct',
+            name: '📜 Osmanlı Kültür ve Medeniyeti - 2 (Ders 7)',
+            icon: '📜',
+            desc: 'Veraset Sistemi, Divan-ı Hümayun, Bürokrasi, İlkler ve Eleyici Sorular (20 Soru).',
+            filterKey: 'tarih11',
+            badge: '20 Soru Konu Testi'
+          },
+          {
             id: 'inkilap_konu_cat',
             name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
             icon: '🇹🇷',
@@ -588,6 +604,22 @@ class EKYSApp {
             desc: '1. ve 2. Beylikler Dönemi, Türkiye Selçuklu Devleti, Divanlar, Mimari ve Sosyoekonomik Hayat.',
             filterKey: 'tarih9',
             badge: '24 Soru'
+          },
+          {
+            id: 'tarih10',
+            name: 'Osmanlı Kültür ve Medeniyeti - 1 (Hükümdar, Yönetim Gücü ve Saray)',
+            icon: '🏛️',
+            desc: 'Hükümdarlık Kurumu, Yasama-Yürütme-Yargı, Topkapı Sarayı ve Hâkimiyet Sembolleri.',
+            filterKey: 'tarih10',
+            badge: '20 Soru'
+          },
+          {
+            id: 'tarih11',
+            name: 'Osmanlı Kültür ve Medeniyeti - 2 (Veraset, Divan ve Bürokrasi)',
+            icon: '📜',
+            desc: 'Veraset Dönüşümleri, Divan Üyeleri, Bürokrasi Kalemleri, İlkler ve Eleyici Sorular.',
+            filterKey: 'tarih11',
+            badge: '20 Soru'
           },
           {
             id: 'ekys_2026_tarih',
@@ -2781,8 +2813,10 @@ class EKYSApp {
       if (filterKey === 'tarih7') return (q.testId === 'tarih7' || tId === 'tarih_tarama_7' || (tName.includes('tarama 7') && tName.includes('tarih')));
       if (filterKey === 'tarih8') return (q.testId === 'tarih8' || tId === 'tarih_tarama_8' || (tName.includes('tarama 8') && tName.includes('tarih')));
       if (filterKey === 'tarih9') return (q.testId === 'tarih9' || tId === 'tarih_tarama_9' || (tName.includes('tarama 9') && tName.includes('tarih')));
+      if (filterKey === 'tarih10' || filterKey === 'tarih_osmanli_1') return (q.testId === 'tarih10' || tId === 'tarih_osmanli_1' || (tName.includes('osmanlı') && tName.includes('1')));
+      if (filterKey === 'tarih11' || filterKey === 'tarih_osmanli_2') return (q.testId === 'tarih11' || tId === 'tarih_osmanli_2' || (tName.includes('osmanlı') && tName.includes('2')));
       if (filterKey === 'tarih_video4') return (q.testId === 'tarih_video4' || tId === 'tarih_video4');
-      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih9' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama'));
+      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih9' || q.testId === 'tarih10' || q.testId === 'tarih11' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama') || tId.startsWith('tarih_osmanli'));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);
