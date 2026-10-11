@@ -788,6 +788,22 @@ class EKYSApp {
         desc: 'Çözmek istediğiniz Ekonomik Coğrafya testini seçin:',
         items: [
           {
+            id: 'cogr_ders7_1',
+            name: '🌾 7. Ders: Tarım ve Hayvancılık',
+            icon: '🌾',
+            desc: 'Tarım Yöntemleri, Tahıllar, Sanayi Bitkileri, Meyveler, Büyükbaş ve Küçükbaş Hayvancılık (15 Soru).',
+            filterKey: 'cogr_ders7_1',
+            badge: '15 Soru Video Test'
+          },
+          {
+            id: 'cogr_ders7_2',
+            name: '⛏️ 7. Ders: Madenler ve Sanayi Tesisleri',
+            icon: '⛏️',
+            desc: 'Maden Dağılışı, Dolomit, Linyit, Mermer, Bor, Demir-Çelik ve Bakır Tesisleri (15 Soru).',
+            filterKey: 'cogr_ders7_2',
+            badge: '15 Soru Video Test'
+          },
+          {
             id: 'cogr_test_22',
             name: '🌾 TEST - 22: Tarım',
             icon: '🌾',
@@ -1148,6 +1164,22 @@ class EKYSApp {
             desc: 'Türkiye\'nin Tarım, Hayvancılık, Madenler, Enerji Kaynakları, Sanayi ve Ulaşım Ağları.',
             filterKey: 'cogr_hafta4',
             badge: '60 Soru'
+          },
+          {
+            id: 'cogr_video_ders7_1',
+            name: '🎥 7. Ders: Tarım ve Hayvancılık',
+            icon: '🌾',
+            desc: 'Ekonomik Coğrafya 1. Bölüm: Tarım Metotları, Ürünler ve Hayvancılık.',
+            filterKey: 'cogr_ders7_1',
+            badge: '15 Soru'
+          },
+          {
+            id: 'cogr_video_ders7_2',
+            name: '🎥 7. Ders: Madenler ve Sanayi Tesisleri',
+            icon: '⛏️',
+            desc: 'Ekonomik Coğrafya 2. Bölüm: Madenler, Enerji Kaynakları ve Ağır Sanayi Tesisleri.',
+            filterKey: 'cogr_ders7_2',
+            badge: '15 Soru'
           },
           {
             id: 'cogr_tarama_tum',
@@ -2789,7 +2821,9 @@ class EKYSApp {
       if (filterKey === 'cogr_hafta1') return (q.testId === 'cogr_hafta1');
       if (filterKey === 'cogr_hafta3') return (q.testId === 'cogr_hafta3');
       if (filterKey === 'cogr_hafta4') return (q.testId === 'cogr_hafta4');
-      if (filterKey === 'cogr_tarama') return (['cogr1', 'cogr2', 'cogr3', 'cogr4', 'cogr5', 'cogr_hafta1', 'cogr_hafta3', 'cogr_hafta4'].includes(q.testId) || tId.startsWith('cogr_tarama'));
+      if (filterKey === 'cogr_ders7_1') return (q.testId === 'cogr_ders7_1' || tId === 'cogr_ders7_1');
+      if (filterKey === 'cogr_ders7_2') return (q.testId === 'cogr_ders7_2' || tId === 'cogr_ders7_2');
+      if (filterKey === 'cogr_tarama') return (['cogr1', 'cogr2', 'cogr3', 'cogr4', 'cogr5', 'cogr_ders7_1', 'cogr_ders7_2', 'cogr_hafta1', 'cogr_hafta3', 'cogr_hafta4'].includes(q.testId) || tId.startsWith('cogr_tarama'));
 
       // Münferit Coğrafya Testleri (Örn: cogr_test_22 Tarım, cogr_test_23 Hayvancılık vb.)
       if (filterKey.startsWith('cogr_test_')) {
@@ -2797,7 +2831,7 @@ class EKYSApp {
       }
 
       // Konu Bazlı Coğrafya Karma Filtreleri
-      if (filterKey === 'cogr_ekonomi') return q.topicId === 'cogr_ekonomi' || (q.testId && ['cogr_test_22', 'cogr_test_23', 'cogr_test_24', 'cogr_test_25'].includes(q.testId));
+      if (filterKey === 'cogr_ekonomi') return q.topicId === 'cogr_ekonomi' || (q.testId && ['cogr_test_22', 'cogr_test_23', 'cogr_test_24', 'cogr_test_25', 'cogr_ders7_1', 'cogr_ders7_2'].includes(q.testId));
       if (filterKey === 'cogr_yer') return q.topicId === 'cogr_yer' || (q.testId && ['cogr_test_2', 'cogr_test_3', 'cogr_test_5', 'cogr_test_6', 'cogr_test_7', 'cogr_test_8', 'cogr_test_9', 'cogr_test_10', 'cogr_test_11', 'cogr_test_15', 'cogr_test_16'].includes(q.testId));
       if (filterKey === 'cogr_iklim') return q.topicId === 'cogr_iklim' || (q.testId && ['cogr_test_17', 'cogr_test_18_1', 'cogr_test_18_2'].includes(q.testId));
       if (filterKey === 'cogr_toprak_afet') return q.topicId === 'cogr_toprak_afet' || (q.testId && ['cogr_test_12', 'cogr_test_13', 'cogr_test_14'].includes(q.testId));

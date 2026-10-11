@@ -69585,5 +69585,1115 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Detay Bilgi:</strong><br>Uç beyliklerine dönemin kaynaklarında <strong>\"Sahib-i Etrak\"</strong> denir. Osmanlılar Oğuzların <strong>Bozok</strong> kolunun, <strong>Kayı</strong> boyunun, <strong>Karakeçili</strong> aşiretine mensuptur."
+  },
+  {
+    "id": "cogr_ders7_1-q1",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 1,
+    "questionText": "Türkiye'de tarımsal faaliyetler incelendiğinde Ege ve Akdeniz kıyılarında birim alandan alınan verimin çok yüksek olduğu ve üretimde yıllara göre sert dalgalanmalar yaşanmadığı; buna karşın İç ve Doğu Anadolu'da birim alandan alınan verimin düşük olduğu ve kurak yıllarda rekoltede büyük düşüşler yaşandığı görülmektedir.\n\nİki bölge arasındaki bu verim ve üretim istikrarı farkı, öncelikle aşağıdakilerden hangisiyle açıklanabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kıyı kesimlerde ekstansif, iç kesimlerde intensif tarım yöntemlerinin uygulanmasıyla"
+      },
+      {
+        "key": "B",
+        "text": "Kıyı bölgelerinde tarım arazilerinin tamamen nadasa bırakılmasıyla"
+      },
+      {
+        "key": "C",
+        "text": "Kıyı kesimlerde modern (intensif), iç kesimlerde ise doğaya bağımlı (ekstansif) tarım yöntemlerinin yaygın olmasıyla"
+      },
+      {
+        "key": "D",
+        "text": "İç kesimlerde tarımsal nüfus yoğunluğunun kıyı kesimlerden daha fazla olmasıyla"
+      },
+      {
+        "key": "E",
+        "text": "Kıyı kesimlerde yalnızca tahıl, iç kesimlerde ise yalnızca sanayi bitkilerinin yetiştirilmesiyle"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kıyı bölgelerimizde uygulanan <strong>intensif (modern)</strong> tarımda sulama, tohum ıslahı, gübreleme ve sera teknolojisi kullanılır; üretim iklim koşullarına bağımlı olmaktan çıktığı için yıllara göre dalgalanma yaşanmaz ve verim tavan yapar. İç ve Doğu Anadolu'da ise halen <strong>ekstansif (ilkel/kaba)</strong> yöntemler yaygındır; yağışa bağımlılık nedeniyle kurak yıllarda üretim sert şekilde düşer.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Kavramlar tam ters verilmiştir. Kıyıda ekstansif değil intensif tarım yapılır.<br>• <strong>B:</strong> Kıyı kesimlerde nadas uygulanmaz, yılda birden çok ürün alınır.<br>• <strong>D:</strong> Tarımsal nüfus yoğunluğu çiftçi sayısı/arazi oranıdır; birim alan verimini açıklamaz.<br>• <strong>E:</strong> Kıyıda sanayi ve meyve/sebze; iç kesimde tahıl üretilir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Üretimde dalgalanma yok, verim çok yüksek' diyorsa İNTENSİF (Modern); 'İklime bağımlı, verim düşük' diyorsa EKSTANSİF (Geleneksel) tarımdır.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q2",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 2,
+    "questionText": "Türkiye'de kurak ve yarı kurak bölgelerde toprağın bir yıl ekilip ertesi yıl boş bırakılması şeklinde uygulanan nadas yöntemi yaygındır.\n\nNadas yöntemi ve alternatif uygulamalarla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nadasa bırakılan toprak bitki örtüsünden yoksun kaldığı için rüzgâr ve su erozyonuna açık hale gelir."
+      },
+      {
+        "key": "B",
+        "text": "Nadasın en bilimsel ve modern alternatifi toprağın her yıl farklı ürünlerle dönüşümlü ekildiği \"Nöbetleşe Ekim\"dir."
+      },
+      {
+        "key": "C",
+        "text": "Nöbetleşe ekimde toprağın azot dengesini korumak için tahıllardan sonra genellikle baklagiller ekilir."
+      },
+      {
+        "key": "D",
+        "text": "Sulama imkânlarının genişlemesi nadas alanlarının giderek daralmasını sağlar."
+      },
+      {
+        "key": "E",
+        "text": "Nadas yöntemi birim alandan en yüksek verimi almayı hedefleyen modern (intensif) tarımın vazgeçilmez bir parçasıdır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Nadas modern (intensif) bir yöntem kesinlikle DEĞİLDİR; çaresizlikten yapılan ilkel bir kuru tarım uygulamasıdır. Toprağın boş bırakılması rüzgar ve su erozyonunu hızlandırarak en verimli üst toprağın süpürülmesine yol açar.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Doğrudur; örtüsüz toprak erozyonla yok olur.<br>• <strong>B:</strong> Doğrudur; nadasın tek doğru çözümü nöbetleşe ekimdir.<br>• <strong>C:</strong> Doğrudur; baklagil kökleri toprağa doğal azot bağlar.<br>• <strong>D:</strong> Doğrudur; sulama geldikçe nadas alanları hızla daralır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM nadası 'toprağı dinlendiren faydalı bir yöntem' olarak DEĞİL; 'erozyonu artıran zararlı bir yöntem' olarak sorar. Alternatifi Nöbetleşe Ekim (Münavebe)'dir.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q3",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 3,
+    "questionText": "Seracılık (örtü altı tarım), mevsim dışı sebze ve meyve yetiştiriciliğinde önemli bir ekonomik faaliyettir.\n\nTürkiye'de seracılık faaliyetlerinin Akdeniz ve Güney Ege kıyılarında yoğunlaşmasında aşağıdakilerden hangisinin etkisi yoktur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kış mevsiminin ılık geçmesi ve ısıtma maliyetinin düşük olması"
+      },
+      {
+        "key": "B",
+        "text": "Yıllık güneşlenme süresinin fazla olması"
+      },
+      {
+        "key": "C",
+        "text": "Kış aylarında don olaylarının çok nadir görülmesi"
+      },
+      {
+        "key": "D",
+        "text": "Jeotermal sıcak su kaynaklarının Türkiye'de yalnızca bu bölgede bulunması"
+      },
+      {
+        "key": "E",
+        "text": "Bulutlu gün sayısının az olması"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Akdeniz ve Ege seracılığı için jeotermal enerji şart değildir; Akdeniz kıyılarında seralar kış ılıklığı ve bol güneşlenme sayesinde doğal olarak ısınır. Ayrıca jeotermal kaynaklar sadece burada değil, İç Anadolu (Afyon) ve Ege'de de yaygındır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Kış ılıklığı seranın ısıtma masrafını düşürür.<br>• <strong>B:</strong> Güneşlenme süresi sebzelerin olgunlaşması için temel gereksinimdir.<br>• <strong>C:</strong> Don olayları seradaki tüm ürünü yok eder.<br>• <strong>E:</strong> Bulutluluğun az olması seraya güneş girişini sağlar.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Seracılık kapalı alanda olduğu için iklimden bağımsızdır' tuzağına düşmeyin; seracılık doğrudan kış ılıklığı ve güneşlenme iklimine bağımlıdır.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q4",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 4,
+    "questionText": "Türkiye'de buğday en yaygın tahıl olmasına rağmen bazı alanlarda yetiştirilemez.\n\nBuna göre; Doğu Karadeniz kıyı şeridi ile Erzurum-Kars platosunda buğday tarımının yapılamamasının temel iklimsel nedenleri aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Karadeniz Kıyısı: Yaz kuraklığının olmaması / Erzurum-Kars: Yaz mevsiminin serin ve yağışlı geçmesi"
+      },
+      {
+        "key": "B",
+        "text": "Karadeniz Kıyısı: Kış ılıklığının yetersiz olması / Erzurum-Kars: Aşırı kuraklık yaşanması"
+      },
+      {
+        "key": "C",
+        "text": "Karadeniz Kıyısı: Taban suyunun yetersiz olması / Erzurum-Kars: Kar yağışının hiç görülmemesi"
+      },
+      {
+        "key": "D",
+        "text": "Karadeniz Kıyısı: Toprağın aşırı kireçli olması / Erzurum-Kars: Güneşlenme süresinin çok uzun olması"
+      },
+      {
+        "key": "E",
+        "text": "Karadeniz Kıyısı: Don olaylarının çok sık yaşanması / Erzurum-Kars: Akarsu debilerinin düşük olması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Buğday hasat döneminde kavurucu yaz kuraklığı ve sıcaklık ister. Doğu Karadeniz kıyısı her mevsim yağışlı olduğu için buğday çürür. Erzurum-Kars'ta ise yazlar serin ve yağışlı geçer; buğday olgunlaşamaz (burada yerini soğuğa dayanıklı arpa alır).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B:</strong> Karadeniz kışı ılıktır; Erzurum-Kars kurak değil yaz yağışlıdır.<br>• <strong>C:</strong> Karadeniz'de su fazladır; Erzurum-Kars yoğun kar alır.<br>• <strong>D:</strong> Karadeniz toprağı yıkanmış asitlidir.<br>• <strong>E:</strong> Karadeniz'de don nadirdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Buğdayın yetişmediği 2 yer: 1) Her mevsim yağışlı Karadeniz kıyısı, 2) Yazı serin ve yağışlı geçen Erzurum-Kars platosu.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q5",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 5,
+    "questionText": "Mısır bol nem ve sulama isteyen bir üründür. Doğal yetişme ortamı Karadeniz kıyıları olmasına rağmen günümüzde ticari üretim birincisi Konya Ovası'dır.\n\nMısırın Konya'da üretim lideri olmasını sağlayan proje ve ürünün temel ekonomik kullanım alanı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "DAP Projesi — Un ve ekmek sanayisi"
+      },
+      {
+        "key": "B",
+        "text": "GAP Projesi — Tekstil lifi üretimi"
+      },
+      {
+        "key": "C",
+        "text": "KOP (Mavi Tünel) Projesi — Sıvı yağ sanayisi ve büyükbaş hayvan yemi (silaj)"
+      },
+      {
+        "key": "D",
+        "text": "ZBK Projesi — Maden kömürü zenginleştirmesi"
+      },
+      {
+        "key": "E",
+        "text": "DOKAP Projesi — Konserve gıda sanayisi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>KOP kapsamında Göksu Nehri Mavi Tünel ile Konya Ovası'na aktarılınca sulama sorunu çözülmüş ve mısır üretimi patlamıştır. Mısır yağ sanayisi ve süt verimini artıran silaj yemi olarak endüstriyel değer kazandığı için Konya Türkiye 1.si olmuştur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> DAP Doğu Anadolu'dur.<br>• <strong>B:</strong> GAP Güneydoğu'dur (Pamuk).<br>• <strong>D:</strong> ZBK kömür projesidir.<br>• <strong>E:</strong> DOKAP Doğu Karadeniz projesidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Mısır Karadeniz'de halkın kendi tüketimi için geçimlik; Konya'da ise sanayi ve hayvan yemi için ticari olarak üretilir.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q6",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 6,
+    "questionText": "Çeltik (pirinç) üretimi akarsu boylarında ve delta ovalarında (Edirne Meriç 1., Samsun, Çorum) su dolu havuzlarda yapılır.\n\nÇeltik tarımının yerleşim birimlerinin hemen yakınına ekiminin yasaklanması ve devlet ruhsatına tabi olmasının temel sebebi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Toprağı aşırı tuzlandırarak erozyona zemin hazırlaması"
+      },
+      {
+        "key": "B",
+        "text": "Durgun su birikintilerinde üreyen sivrisineklerin \"Sıtma Hastalığı\" yayma riski"
+      },
+      {
+        "key": "C",
+        "text": "Pirinç kalitesinin dünya pazarında korunmak istenmesi"
+      },
+      {
+        "key": "D",
+        "text": "Çeltik saplarının uyuşturucu madde yapımında kullanılması"
+      },
+      {
+        "key": "E",
+        "text": "Akarsularda taban suyunun çekilerek obruk oluşumunu tetiklemesi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Çeltik tarlaları suyla dolu göletlerdir. Durgun sularda üreyen anofel cinsi sivrisinekler halk sağlığını tehdit eden sıtma salgınlarına yol açtığı için 1936 tarihli Çeltik Kanunu gereğince yerleşim birimleri yakınına ekimi yasaktır ve doğrudan devlet iznine bağlıdır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Çeltik tabanlı vadidedir, tuzlanma gerekçe değildir.<br>• <strong>C:</strong> Kalite standardı için kontrol edilen ürün <strong>Tütün</strong>dür.<br>• <strong>D:</strong> Uyuşturucu riskiyle kontrol edilenler <strong>Haşhaş ve Kenevir</strong>dir.<br>• <strong>E:</strong> Obruk oluşumu karstik kayaçlarda yer altı suyu çekimiyle olur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Devlet kontrolü sebepleri: Sıtma -> Çeltik; Kalite -> Tütün; Uyuşturucu -> Haşhaş ve Kenevir.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q7",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 7,
+    "questionText": "Şeker pancarı tarımı ile ilgili aşağıdaki özelliklerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hasat edildikten sonra hızla şeker oranını kaybettiği için fabrikalar tarlanın dibine kurulmak zorundadır (Hammaddeye yakınlık)."
+      },
+      {
+        "key": "B",
+        "text": "Şeker üretiminden arta kalan küspe mükemmel bir yem olduğu için fabrikaların etrafında besi hayvancılığı gelişmiştir."
+      },
+      {
+        "key": "C",
+        "text": "Kıyı kesimlerde iklim elverişsiz olduğu için şeker pancarı fiziki olarak yetiştirilemez."
+      },
+      {
+        "key": "D",
+        "text": "İlk şeker fabrikalarımız Cumhuriyet döneminde Alpullu ve Uşak'ta kurulmuştur."
+      },
+      {
+        "key": "E",
+        "text": "Güneydoğu Anadolu'da GAP ile sulama gelse dahi çiftçiler daha karlı olan pamuğu tercih ettiği için yaygınlaşmamıştır."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Şeker pancarı kıyıda iklim şartları uygun olmadığı için değil; çiftçi daha çok gelir getiren turunçgil, sera sebzesi, pamuk ve zeytini tercih ettiği için (ekonomik karlılık nedeniyle) ekilmez. Fiziki olarak kıyıda çok iyi yetişir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Doğrudur; pancar sökülünce hızla bozulur, fabrika tarlanın yanına kurulur.<br>• <strong>B:</strong> Doğrudur; küspe besi hayvancılığının temel yemidir.<br>• <strong>D:</strong> Doğrudur; 1925-1926 Alpullu ve Uşak cumhuriyetin öncü fabrikalarıdır.<br>• <strong>E:</strong> Doğrudur; GAP ile çiftçi getirisi yüksek pamuğa yönelmiştir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Şeker fabrikaları 'hammaddeye yakınlık şartının' ve 'tarım-hayvancılık entegrasyonunun' Türkiye'deki en klasik örneğidir.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q8",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 8,
+    "questionText": "Pamuk hasat döneminde kavurucu sıcak ve kuraklık ister. Yağış lifleri çürüttüğü için Karadeniz'de yetişmez.\n\nSulama imkânları sağlansa dahi kış ve ilkbahar donları nedeniyle pamuk tarımının yapılamadığı alan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çukurova"
+      },
+      {
+        "key": "B",
+        "text": "Harran Ovası"
+      },
+      {
+        "key": "C",
+        "text": "Konya Ovası"
+      },
+      {
+        "key": "D",
+        "text": "Gediz Ovası"
+      },
+      {
+        "key": "E",
+        "text": "Iğdır Ovası"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İç Anadolu Bölgesi'nde yaz kuraklığı olmasına rağmen ilkbahar sonuna kadar süren gece donları ve düşük sıcaklıklar pamuk tohumunun çimlenmesini engeller; sulama gelse dahi İç Anadolu'da pamuk yetişemez. Iğdır Ovası ise çukurda kalıp fön rüzgârı aldığı için mikroklima olarak pamuk yetiştirir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A, B, D:</strong> Çukurova, Harran (Şanlıurfa 1.), Gediz pamuğun dev üretim merkezleridir.<br>• <strong>E:</strong> Iğdır Doğu Anadolu'da istisnai olarak pamuk yetiştiren mikroklimadır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>İç Anadolu'da sulama sorunu çözülse bile ne yetişmez? Pamuk yetişmez (sıcaklık/don engeli).</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q9",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 9,
+    "questionText": "Türkiye'de çay tarımı yalnızca Doğu Karadeniz kıyı şeridinde yapılır.\n\nÇay tarımının yapılabilmesi için arazinin mutlaka eğimli yamaç olması ve toprağın yıkanmış asitli (lateritimsi) olmasının temel sebebi nedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çay köklerinin taban suyunda göllenmesi halinde çürümesini önlemek ve suyun süzülmesini sağlamak"
+      },
+      {
+        "key": "B",
+        "text": "Makineli tarımla hasat hızını artırmak"
+      },
+      {
+        "key": "C",
+        "text": "Topraktaki kireç oranını maksimum seviyeye çıkararak yaprakları sertleştirmek"
+      },
+      {
+        "key": "D",
+        "text": "Eğimli arazide rüzgâr erozyonunu teşvik etmek"
+      },
+      {
+        "key": "E",
+        "text": "Kar sularının donarak fidanları toprak altında dondurmasını sağlamak"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Çay bol yağış ister fakat köklerinde suyun göllenmesine dayanamaz; düz arazide kökler çürür. Eğimli yamaçlar fazla suyun süzülüp akmasını sağlar. Toprak ise kireçsiz ve yıkanmış asitli olmalıdır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B:</strong> Eğimli yamaçta makine çalışamaz, elle toplanır.<br>• <strong>C:</strong> Çay kireçten nefret eder.<br>• <strong>D:</strong> Erozyon tarımda asla istenmez.<br>• <strong>E:</strong> Doğu Karadeniz kıyısında kış ılıktır, kar yerde uzun kalmaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Çayı Türkiye'ye getiren ve millileştiren ziraat mühendisi Zihni Derin'dir (Cumhuriyet dönemi).</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q10",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 10,
+    "questionText": "Türkiye'de soğuğa en dayanıklı (-30°C) ve yetişme alanı en geniş olan meyve ile; kış ılıklığı isteyip don olayına toleransı en düşük olan meyve hangisinde doğru eşleştirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "En Geniş: Elma — En Hassas: Kayısı"
+      },
+      {
+        "key": "B",
+        "text": "En Geniş: Üzüm — En Hassas: Muz"
+      },
+      {
+        "key": "C",
+        "text": "En Geniş: Fındık — En Hassas: Turunçgil"
+      },
+      {
+        "key": "D",
+        "text": "En Geniş: Üzüm — En Hassas: Elma"
+      },
+      {
+        "key": "E",
+        "text": "En Geniş: İncir — En Hassas: Zeytin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'de soğuğa en dayanıklı ve yetişme alanı en geniş meyve <strong>Üzüm</strong>dür (onu Elma izler; volkanik tüflü toprakları sever). Don olayına sıfır toleransı olan tropikal meyve ise sadece Anamur-Alanya kıyısında yetişen <strong>Muz</strong>dur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Elma 2. sıradadır; kayısı don olayına muz kadar hassas değildir.<br>• <strong>C:</strong> Fındık kış ılıklığı ve nem ister ama alanı dardır.<br>• <strong>D:</strong> Elma don olayına hassas değil, soğuğa dayanıklıdır.<br>• <strong>E:</strong> İncir kış ılıklığı ister ama muz kadar dar tropikal alana hapsolmamıştır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Yetişme alanı en geniş meyveler: 1. Üzüm, 2. Elma. Dünya kuru meyve ihracatında 1. olduğumuz üçlü: Kuru Üzüm, Kuru İncir, Kuru Kayısı.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q11",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 11,
+    "questionText": "Erzurum-Kars platosu ve Doğu Karadeniz yaylalarında yapılan mera hayvancılığı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yaz yağışlarıyla yeşeren gür çayırlar üzerinde büyükbaş hayvanlar otlatılır."
+      },
+      {
+        "key": "B",
+        "text": "Doğal çevre şartlarına ve iklime bağımlılık son derece yüksektir."
+      },
+      {
+        "key": "C",
+        "text": "Kurak geçen yıllarda otlar erken kuruduğu için et ve süt üretiminde sert dalgalanmalar yaşanır."
+      },
+      {
+        "key": "D",
+        "text": "Birim hayvandan elde edilen et ve süt verimi modern besi hayvancılığına göre oldukça düşüktür."
+      },
+      {
+        "key": "E",
+        "text": "Tüketici nüfusu fazla olan büyükşehir çevrelerinde kapalı tesislerde fenni yemle yapılır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>E şıkkındaki ifade <strong>Besi ve Ahır (Modern) Hayvancılığı</strong>nın tanımıdır. Mera hayvancılığı ise açık yaylalarda doğaya bağımlı geleneksel yöntemlerle yapılır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A, B, C, D:</strong> Doğrudur; mera hayvancılığı yaz yağışına bağımlıdır, verimi düşüktür ve iklimden doğrudan etkilenir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye hayvancılığının temel sorunu hayvan sayısı azlığı değil; verim düşüklüğüdür. Çözüm: Mera'dan Besi hayvancılığına geçiştir.</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q12",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 12,
+    "questionText": "Akdeniz kuşağında, Toros Dağları'nın kayalık ve sarp arazilerinde yetiştirilen Kıl Keçisi ile ilgili yeni MEB müfredatında vurgulanan ekolojik fayda aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Orman tabanındaki kuru çalıları ve yanıcı alt örtüyü otlayarak orman yangınlarının yayılmasını önlemesi"
+      },
+      {
+        "key": "B",
+        "text": "Moher adı verilen yüksek yalıtımlı dokuma yünü üretmesi"
+      },
+      {
+        "key": "C",
+        "text": "Düz bozkır alanlarında rüzgâr erozyonunu durdurması"
+      },
+      {
+        "key": "D",
+        "text": "Sulak bataklık alanları temizleyerek tarıma açması"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca yaprak döken ormanlarda beslenerek tohum yayması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Son MEB müfredatında kıl keçilerinin orman altındaki yanıcı çalıları (makileri) otlayarak Akdeniz'de orman yangınlarının yayılmasını engellediği ve ekolojik denge sağladığı vurgulanmaktadır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B:</strong> Moher yününü üreten keçi kıl keçisi değil, <strong>Tiftik (Ankara) Keçisi</strong>dir.<br>• <strong>C:</strong> Kıl keçisi düz bozkırı değil sarp kayalıkları sever.<br>• <strong>D:</strong> Sulak bataklığı seven hayvan <strong>Manda</strong>dır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Koyun -> Düz arazi ve Bozkır. Kıl Keçisi -> Engebeli Toroslar ve Çalı/Maki. Tiftik Keçisi -> Ankara (Moher yünü).</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q13",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 13,
+    "questionText": "Türkiye'de tonaj ve miktar bakımından en fazla bal üretimi yapan coğrafi bölge aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Karadeniz Bölgesi"
+      },
+      {
+        "key": "B",
+        "text": "Ege Bölgesi"
+      },
+      {
+        "key": "C",
+        "text": "Doğu Anadolu Bölgesi"
+      },
+      {
+        "key": "D",
+        "text": "İç Anadolu Bölgesi"
+      },
+      {
+        "key": "E",
+        "text": "Güneydoğu Anadolu Bölgesi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'de arıcılık denince akla Karadeniz gelse de, çam ormanlarından elde edilen çam balı üretimindeki dev tonaj nedeniyle Muğla önderliğindeki <strong>Ege Bölgesi</strong> toplam bal üretiminde Türkiye 1.sidir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Karadeniz çiçek/kestane balıyla bilinir ama tonajda Ege'nin gerisindedir.<br>• <strong>C:</strong> Doğu Anadolu kaliteli yayla balı üretir ama miktarı azdır.<br>• <strong>D, E:</strong> Kurak bitki örtüsüz düzlüklerde arıcılık yapılamaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Arıcılıkta bölge birincisi sorulursa sakın Karadeniz'e atlamayın; cevap EGE BÖLGESİ'dir (Muğla çam balı etkisi).</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q14",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 14,
+    "questionText": "Sulak ve bataklık alanları seven manda yetiştiriciliğinde birinci olan il ile; dut yaprağıyla beslenen ipek böcekçiliğinde birinci olan il aşağıdakilerden hangisinde doğru verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Manda: Samsun — İpek Böcekçiliği: Diyarbakır"
+      },
+      {
+        "key": "B",
+        "text": "Manda: Konya — İpek Böcekçiliği: Bursa"
+      },
+      {
+        "key": "C",
+        "text": "Manda: Afyon — İpek Böcekçiliği: Edirne"
+      },
+      {
+        "key": "D",
+        "text": "Manda: Rize — İpek Böcekçiliği: Antalya"
+      },
+      {
+        "key": "E",
+        "text": "Manda: Trabzon — İpek Böcekçiliği: Manisa"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Manda sulak delta ovalarını sever; Kızılırmak Deltası sayesinde <strong>Samsun 1.</strong> sıradadır. İpek böcekçiliğinde ise geleneksel merkez Bursa olmasına rağmen günümüzde yaş koza üretiminde <strong>Diyarbakır 1.</strong> sıradadır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B:</strong> Bursa ipek kumaş dokumasında meşhurdur ancak ipek böceği yetiştiriciliğinde liderliği Diyarbakır'a kaptırmıştır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Manda -> Samsun (Kızılırmak Deltası). İpek Böcekçiliği -> Diyarbakır (Dut ağacı yaprağı).</em>"
+  },
+  {
+    "id": "cogr_ders7_1-q15",
+    "testId": "cogr_ders7_1",
+    "testTitle": "Ekonomik Coğrafya - 1 (Tarım ve Hayvancılık)",
+    "topicId": "cogr_ekonomi_tarim",
+    "topicName": "Tarım ve Hayvancılık Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "🌾",
+    "questionNumber": 15,
+    "questionText": "Güneydoğu Anadolu Projesi (GAP) ile Fırat ve Dicle nehirlerinin suları Şanlıurfa ovalarına ulaştırılmıştır.\n\nSulama imkânlarının devreye girmesiyle birlikte bölgede pamuk ve mısır ekimi patlama yaparken, aşağıdaki ürünlerden hangisinin ekim alanında belirgin bir azalma görülmüştür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pamuk"
+      },
+      {
+        "key": "B",
+        "text": "Ayçiçeği"
+      },
+      {
+        "key": "C",
+        "text": "Kırmızı Mercimek"
+      },
+      {
+        "key": "D",
+        "text": "Mısır"
+      },
+      {
+        "key": "E",
+        "text": "Soya Fasulyesi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kırmızı mercimek kuraklık ve sıcaklık isteyen bir baklagildir; sulak araziden hoşlanmaz. GAP ile topraklar sulanınca çiftçi kurakçıl mercimek yerine dönüm başına çok daha fazla para kazandıran pamuk ve mısıra yönelmiş; mercimek alanları daralmıştır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A, B, D, E:</strong> Sulama ile bu ürünlerin tamamının ekim alanı artmıştır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>GAP sonrası ne arttı? Pamuk ve Mısır. Ne azaldı? Kırmızı Mercimek ve Nadas alanları.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q1",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 1,
+    "questionText": "Türkiye maden çeşitliliği bakımından dünyanın en zengin ülkelerinden biridir.\n\nTürkiye'de maden çeşitliliğinin bu denli fazla olmasının temel jeolojik nedenleri aşağıdakilerden hangisinde doğru verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Farklı jeolojik zamanlara ait arazilerin bulunması ve volkanik faaliyetlerin yoğun yaşanmış olması"
+      },
+      {
+        "key": "B",
+        "text": "Arazinin tamamının 1. Jeolojik Zaman'a (Paleozoik) ait masiflerden oluşması"
+      },
+      {
+        "key": "C",
+        "text": "Dış kuvvetlerden en çok rüzgârların etkili olması"
+      },
+      {
+        "key": "D",
+        "text": "Akarsuların rejimlerinin düzensiz olması"
+      },
+      {
+        "key": "E",
+        "text": "Dört mevsimin belirgin olarak yaşanması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Madenler yer kabuğunun farklı jeolojik devirlerinde ve özellikle magma sokulumları (volkanizma) sırasında hidrotermal eriyiklerle oluşur. Türkiye'de 1, 2, 3 ve 4. zamana ait arazilerin bir arada bulunması ve geçmişte şiddetli volkanizma yaşanması çeşitliliği zirveye taşımıştır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B:</strong> Türkiye masif değil genç oluşumludur.<br>• <strong>C, D, E:</strong> İklim ve atmosfer olayları yer altı madenini belirlemez.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Maden çeşitliliği en zengin bölge Doğu Anadolu, en zengin bölüm Yukarı Fırat (Elazığ-Malatya)'dır.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q2",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 2,
+    "questionText": "Türkiye'de yer altı rezerv miktarı (toplam tonajı) bakımından EN FAZLA bulunan maden aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bor Mineralleri"
+      },
+      {
+        "key": "B",
+        "text": "Dolomit"
+      },
+      {
+        "key": "C",
+        "text": "Taş Kömürü"
+      },
+      {
+        "key": "D",
+        "text": "Bakır"
+      },
+      {
+        "key": "E",
+        "text": "Krom"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'de toplam rezerv miktarı en yüksek maden yaklaşık 16 milyar ton ile <strong>Dolomit</strong>tir. Karstik bir kayaç olup çimento, cam, demir-çelik ve inşaatta kullanılır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Bor dünya rezervinin %73'üne sahip olduğumuz madendir; Türkiye'de en çok bulunan maden DEĞİLDİR.<br>• <strong>C:</strong> Taş kömürü çok kısıtlıdır.<br>• <strong>D, E:</strong> Bakır ve krom tonaj olarak azdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Dünya rezerv şampiyonluğumuz: BOR. Türkiye'de en çok bulunan maden: DOLOMİT.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q3",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 3,
+    "questionText": "Türkiye'de toplam rezervi en fazla olan ve tüm coğrafi bölgelerimizde yatakları bulunan enerji kaynağı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Taş Kömürü"
+      },
+      {
+        "key": "B",
+        "text": "Doğal Gaz"
+      },
+      {
+        "key": "C",
+        "text": "Petrol"
+      },
+      {
+        "key": "D",
+        "text": "Linyit"
+      },
+      {
+        "key": "E",
+        "text": "Uranyum"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Linyit 3. Jeolojik Zaman (Tersiyer) mirasıdır. Türkiye arazisinin büyük kısmı bu dönemde oluştuğu için linyit her bölgemizde çıkar ve en büyük enerji rezervimizdir (Afşin-Elbistan, Soma, Yatağan, Tunçbilek).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Taş kömürü 1. Zaman mirasıdır, sadece Zonguldak'ta vardır.<br>• <strong>B, C:</strong> Petrol ve doğal gazda dışa bağımlıyız (%90+ ithal).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Taş kömürü 1. Zaman (az bulunur); Linyit 3. Zaman (her yerde bulunur).</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q4",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 4,
+    "questionText": "Türkiye'nin maden ihracatında (dış satımında) devlete en fazla döviz girdisi sağlayan 1. maden aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bor"
+      },
+      {
+        "key": "B",
+        "text": "Mermer"
+      },
+      {
+        "key": "C",
+        "text": "Krom"
+      },
+      {
+        "key": "D",
+        "text": "Bakır"
+      },
+      {
+        "key": "E",
+        "text": "Demir"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kalkerin başkalaşımıyla (metamorfizma) oluşan mermer, Türkiye maden ihracat gelirlerinin yaklaşık yarısını tek başına karşılar. Afyonkarahisar, Balıkesir (Marmara Adası), Bursa, Bilecik ve Elazığ (vişne mermeri) önderdir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Bor stratejiktir ama toplam ihracat gelirinde mermerin gerisindedir.<br>• <strong>C:</strong> Krom ihraç edilir ama mermer kadar tonaj ve gelir sağlamaz.<br>• <strong>E:</strong> Demir yetersizdir, ithal ederiz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Maden ihracat şampiyonumuz MERMER'dir.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q5",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 5,
+    "questionText": "Dünya rezervinin yaklaşık %73'üne sahip olduğumuz Bor madeni ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Jet ve roket yakıtı, borcam, deterjan, optik ve savunma sanayisinde kullanılır."
+      },
+      {
+        "key": "B",
+        "text": "Balıkesir (Bigadiç, Susurluk), Bursa (Mustafakemalpaşa), Eskişehir (Seyitgazi) ve Kütahya'da (Emet) çıkarılır."
+      },
+      {
+        "key": "C",
+        "text": "Ham borun işlendiği ve ihraç edildiği en büyük tesis Balıkesir Bandırma'da yer alır (Liman avantajı)."
+      },
+      {
+        "key": "D",
+        "text": "Eskişehir Kırka'da bor türevleri işleme tesisi bulunmaktadır."
+      },
+      {
+        "key": "E",
+        "text": "Güneydoğu Anadolu Bölgesi petrol havzalarında zengin bor yatakları tespit edilmiştir."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bor yatakları Güney Marmara ve İç Batı Anadolu havzasında (Balıkesir, Bursa, Kütahya, Eskişehir) toplanmıştır. Güneydoğu Anadolu'da bor yatağı yoktur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A, B, C, D:</strong> Borun kullanım alanları, çıkarıldığı yerler ve Bandırma/Kırka işleme tesisleri tam doğrudur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Bor madeni çıkarılan dörtgen: Balıkesir, Bursa, Kütahya, Eskişehir.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q6",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 6,
+    "questionText": "Sivas Divriği ve Malatya Hekimhan'dan çıkarılan demir cevheri işlenmek üzere yüzlerce kilometre taşınarak Karabük (KARDEMİR) ve Zonguldak Ereğli'ye (ERDEMİR) götürülür.\n\nKarabük ve Ereğli'de demir madeni yatağı OLMAMASINA rağmen, demir-çelik fabrikalarının burada kurulmasının temel sebebi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bölgede zengin demir yataklarının bulunması (Hammadde)"
+      },
+      {
+        "key": "B",
+        "text": "Taş kömürü yataklarına yakınlık (Enerji kaynağına yakınlık)"
+      },
+      {
+        "key": "C",
+        "text": "Bölgede nitelikli iş gücü fazlalığı"
+      },
+      {
+        "key": "D",
+        "text": "Demir-çelik tüketim pazarının yalnızca Karadeniz'de olması"
+      },
+      {
+        "key": "E",
+        "text": "Bölgenin deprem riskinin tamamen sıfır olması"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1 ton demir cevherini eritmek için binlerce ton taş kömürüne ihtiyaç vardır. Kömürü demirin yanına taşımaktansa, demiri kömürün yanına taşımak daha ekonomiktir. Bu yüzden Karabük ve Ereğli'de fabrikanın kurulma nedeni <strong>Taş Kömürüne (Enerji Kaynağına) Yakınlık</strong>tır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Karabük'te demir yoktur, Divriği'den taşınır.<br>• <strong>D:</strong> Pazar tüm Türkiye ve dünyadır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Karabük ve Ereğli Demir-Çelik -> ENERJİ KAYNAĞINA (Taş kömürü) YAKINLIK.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q7",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 7,
+    "questionText": "İskenderun (İSDEMİR) ve Kırıkkale demir-çelik fabrikalarının kuruluş gerekçeleri aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İskenderun: Ulaşım ve Liman Kolaylığı — Kırıkkale: Savunma Sanayisi ve Stratejik İç Güvenlik"
+      },
+      {
+        "key": "B",
+        "text": "İskenderun: Taş Kömürüne Yakınlık — Kırıkkale: Zengin Demir Yatakları"
+      },
+      {
+        "key": "C",
+        "text": "İskenderun: İş Gücü Ucuzluğu — Kırıkkale: Liman Ticareti"
+      },
+      {
+        "key": "D",
+        "text": "İskenderun: Zengin Su Kaynakları — Kırıkkale: Jeotermal Enerji"
+      },
+      {
+        "key": "E",
+        "text": "İskenderun: Petrol Rafinerisi Varlığı — Kırıkkale: İhracat Kolaylığı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İskenderun deniz kıyısındadır; ithal taş kömürü ve hammaddeyi limandan kolayca alır ve mamul çeliği deniz yoluyla ihraç eder (<strong>Ulaşım/Liman</strong>). Kırıkkale ise düşman işgalinden uzak iç bölgede güvenli bir savunma sanayisi ve silah fabrikası kurmak amacıyla seçilmiştir (<strong>Stratejik Güvenlik</strong>).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B:</strong> İskenderun'da kömür çıkmaz, ithaldir. Kırıkkale'de demir yatağı yoktur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Demir-çelik fabrikalarının kuruluş nedenleri: Karabük/Ereğli -> Enerji kaynağı; İskenderun -> Liman/Ulaşım; Kırıkkale -> Savunma sanayisi/Güvenlik.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q8",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 8,
+    "questionText": "Elektrik ve elektronik sanayisinin iletkeni olan Bakır madeninin Türkiye'de çıkarıldığı başlıca merkezler \"KADER\" formülüyle kodlanmaktadır.\n\nBuna göre aşağıdakilerden hangisi bakır madeni çıkarılan bu merkezlerden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kastamonu (Küre)"
+      },
+      {
+        "key": "B",
+        "text": "Artvin (Murgul)"
+      },
+      {
+        "key": "C",
+        "text": "Diyarbakır (Ergani)"
+      },
+      {
+        "key": "D",
+        "text": "Elazığ (Maden)"
+      },
+      {
+        "key": "E",
+        "text": "Konya (Seydişehir)"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>KADER şifresi: <strong>K</strong>astamonu-Küre, <strong>A</strong>rtvin-Murgul, <strong>D</strong>iyarbakır-Ergani, <strong>E</strong>lazığ-Maden, <strong>R</strong>ize-Çayeli'dir. Konya Seydişehir'de ise bakır değil, alüminyumun hammaddesi olan <strong>BOKSİT</strong> çıkarılır ve işlenir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A, B, C, D:</strong> Şifrenin ilk dört harfini oluşturan gerçek bakır havzalarıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Bakır = KADER (Küre, Murgul, Ergani, Maden, Rize-Çayeli).</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q9",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 9,
+    "questionText": "Karadeniz Bölgesi'nde Samsun Bakır İşletmesi Türkiye'nin en büyük bakır işleme tesislerinden biridir.\n\nSamsun ilinde bakır madeni yatağı OLMAMASINA rağmen fabrikanın burada kurulmasının temel sebebi nedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Samsun'da taş kömürü yataklarının bulunması"
+      },
+      {
+        "key": "B",
+        "text": "Gelişmiş Hinterlandı (art bölgesi) ve deniz yolu Liman ulaşım avantajı"
+      },
+      {
+        "key": "C",
+        "text": "Samsun'da bakır tüketiminin çok yüksek olması"
+      },
+      {
+        "key": "D",
+        "text": "Samsun'un volkanik arazilere sahip olması"
+      },
+      {
+        "key": "E",
+        "text": "Fabrikanın yabancı sermaye tarafından hibe edilmesi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Küre ve Çayeli'nden çıkarılan bakır cevheri deniz yoluyla Samsun'a taşınır. Samsun Karadeniz'in en gelişmiş limanına ve iç kesimlerle en kolay demiryolu/karayolu bağlantısına (geniş hinterlanda) sahip olduğu için fabrika buraya kurulmuştur (<strong>Ulaşım/Liman</strong>).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> Samsun'da taş kömürü yoktur.<br>• <strong>C:</strong> Bakır tüm Türkiye ve dünyaya satılır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM tuzağı: 'Samsun'da bakır çıktığı için fabrika vardır' derse YANLIŞ! Samsun'da maden yok, LİMAN vardır.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q10",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 10,
+    "questionText": "Paslanmaz çelik üretiminde, demirin sertleştirilmesinde ve kaplama sanayisinde kullanılan stratejik madenimiz Kromdur.\n\nTürkiye'de krom madeninin çıkarım alanları ile ferrokrom tesisleri hakkında aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Muğla (Fethiye, Köyceğiz) ve Elazığ (Guleman) en önemli çıkarım alanlarıdır."
+      },
+      {
+        "key": "B",
+        "text": "Elazığ Guleman Ferrokrom Tesisi, kromun hem çıkarıldığı hem de işlendiği hammaddeye yakın bir tesistir."
+      },
+      {
+        "key": "C",
+        "text": "Antalya Ferrokrom Tesisi, zengin Antalya krom yataklarını yerinde işlemek için kurulmuştur."
+      },
+      {
+        "key": "D",
+        "text": "Krom, Türkiye'nin önemli maden ihracat ürünleri arasında yer alır."
+      },
+      {
+        "key": "E",
+        "text": "Denizaltı, gemi, uçak ve silah sanayisinde aşınmaya karşı koruyucu olarak kullanılır."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Antalya'da zengin krom madeni yatağı YOKTUR! Fethiye ve Göller yöresinden çıkarılan krom, ihracat kolaylığı ve deniz ulaşımı nedeniyle Antalya Limanı'ndaki ferrokrom tesisinde işlenir (<strong>Ulaşım/Liman</strong>).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A, B, D, E:</strong> Kromun özellikleri, Elazığ'da hammaddeye yakınlık ve ihraç edilmesi bilgileri tam doğrudur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Elazığ Ferrokrom -> Hammaddeye yakınlık; Antalya Ferrokrom -> Liman/Ulaşım.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q11",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 11,
+    "questionText": "Hafif ve dayanıklı olması sebebiyle uçak, otomotiv, izolasyon ve ambalaj sanayisinde kullanılan Alüminyumun hammaddesi Boksittir.\n\nTürkiye'de boksit madeninin çıkarıldığı ve entegre alüminyum tesislerinin bulunduğu merkez aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Konya (Seydişehir)"
+      },
+      {
+        "key": "B",
+        "text": "Batman (Raman)"
+      },
+      {
+        "key": "C",
+        "text": "Zonguldak (Ereğli)"
+      },
+      {
+        "key": "D",
+        "text": "Sivas (Divriği)"
+      },
+      {
+        "key": "E",
+        "text": "Artvin (Murgul)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Boksit denince akla gelen tek dev merkez <strong>Konya Seydişehir</strong>'dir. Maden burada çıkarılır ve Seydişehir Alüminyum Tesisleri'nde işlenir (Antalya Akseki'de de çıkarılır).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B:</strong> Batman petroldür.<br>• <strong>C:</strong> Ereğli demir-çeliktir.<br>• <strong>D:</strong> Divriği demirdir.<br>• <strong>E:</strong> Murgul bakırdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Boksit / Alüminyum = Konya Seydişehir.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q12",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 12,
+    "questionText": "Taş kömürü demir-çelik sanayisinde yüksek ısı kalorisi nedeniyle eritici enerji kaynağı olarak kullanılır.\n\nTaş kömürünün Türkiye'de yalnızca Zonguldak ve çevresinde sınırlı bir alanda bulunmasının temel jeolojik sebebi nedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkiye arazisinin büyük kısmının genç oluşumlu (3 ve 4. Zaman) olması, 1. Zaman (Paleozoik) arazilerinin çok az bulunması"
+      },
+      {
+        "key": "B",
+        "text": "Türkiye'de volkanik patlamaların taş kömürü damarlarını tamamen eritmiş olması"
+      },
+      {
+        "key": "C",
+        "text": "Taş kömürünün yalnızca deniz seviyesinin altındaki çukurlarda oluşabilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Türkiye akarsularının rejimlerinin düzensiz olması"
+      },
+      {
+        "key": "E",
+        "text": "Akdeniz ikliminin taş kömürü oluşumuna engel olması"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Taş kömürü 1. Jeolojik Zaman'da (Karbonifer döneminde) gür ormanların havasız ortamda kömürleşmesiyle oluşmuştur. Türkiye ise genç bir ülkedir (3. ve 4. Zaman); 1. Zaman'a ait masif araziler çok az olduğu için taş kömürü yalnızca Zonguldak havzasında kalmıştır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B, C, D, E:</strong> İklim veya akarsular jeolojik taş kömürü oluşumunu belirlemez.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Taş kömürü = 1. Zaman (az); Linyit = 3. Zaman (çok).</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q13",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 13,
+    "questionText": "Demir-çelik fabrikaları ve termik santraller kurulurken mutlaka deniz kıyıları veya bol su taşıyan akarsu kenarları tercih edilir.\n\nBu ağır sanayi tesislerinin kuruluşunda bol su kaynağı aranmasının temel teknik gerekçesi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fabrikada çalışan işçilerin içme suyu ihtiyacını karşılamak"
+      },
+      {
+        "key": "B",
+        "text": "Fırınlarda eritilen yüksek sıcaklıktaki cevheri ve türbinleri soğutmak (soğutma suyu ihtiyacı)"
+      },
+      {
+        "key": "C",
+        "text": "Hammaddeleri su kanallarında yıkayarak tozdan arındırmak"
+      },
+      {
+        "key": "D",
+        "text": "Çevredeki tarım alanlarını sanayi atık suyuyla sulamak"
+      },
+      {
+        "key": "E",
+        "text": "Tesislerin etrafında balık çiftlikleri kurarak ek gelir elde etmek"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Demir-çelik yüksek fırınlarında sıcaklık 1500°C'yi aşar. Çeliği şekillendirmek, dondurmak ve devasa kazanları soğutmak için saniyede tonlarca suya ihtiyaç vardır. Bu yüzden İskenderun ve Ereğli deniz kenarına; Karabük ise Soğanlı ve Araç çaylarının birleştiği vadiye kurulmuştur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A, C, D, E:</strong> İçme suyu veya balıkçılık ana sanayi gereksinimi değildir; kimyasal/sıcak sanayi suyu tarımda kullanılamaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Ağır sanayide su = Soğutma suyu ihtiyacıdır.</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q14",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 14,
+    "questionText": "Aşağıdaki madenler ve temel sanayi kullanım alanları eşleştirmelerinden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bor: Roket/jet yakıtı, borcam, deterjan ve nükleer sanayi"
+      },
+      {
+        "key": "B",
+        "text": "Krom: Paslanmaz çelik üretimi ve kaplama sanayisi"
+      },
+      {
+        "key": "C",
+        "text": "Bakır: Yüksek elektrik iletkenliği nedeniyle elektrik-elektronik sanayisi"
+      },
+      {
+        "key": "D",
+        "text": "Mermer: İnşaat, heykelcilik ve dekorasyon"
+      },
+      {
+        "key": "E",
+        "text": "Dolomit: Uçak gövdesi ve hafif metal ambalaj üretimi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Uçak gövdesi ve hafif metal üretiminde kullanılan maden Dolomit değil, <strong>Boksit (Alüminyum)</strong>dur. Dolomit ise çimento, cam, refrakter tuğla ve demir-çelik cüruf yapımında kullanılan karstik bir kayaçtır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A, B, C, D:</strong> Bor, krom, bakır ve mermerin kullanım alanları tam doğrudur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Uçak gövdesi / hafif metal derse: BOKSİT (Alüminyum).</em>"
+  },
+  {
+    "id": "cogr_ders7_2-q15",
+    "testId": "cogr_ders7_2",
+    "testTitle": "Ekonomik Coğrafya - 2 (Madenler ve Sanayi)",
+    "topicId": "cogr_ekonomi_maden",
+    "topicName": "Madenler ve Sanayi Coğrafyası",
+    "category": "Genel Kültür - Coğrafya",
+    "icon": "⛏️",
+    "questionNumber": 15,
+    "questionText": "Türkiye'nin maden coğrafyasıyla ilgili olarak:\n\nI. Türkiye'de maden çeşitliliğinin en fazla olduğu coğrafi bölüm Yukarı Fırat Bölümü (Elazığ-Malatya)'dür.\nII. Türkiye dünyadaki toplam bor rezervinin yaklaşık %73'üne sahiptir.\nIII. Karabük ve Samsun'daki fabrikaların kuruluşunda hammaddeye yakınlık temel kriter olmuştur.\n\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>I ve II. öncüller kesinlikle doğrudur. III. öncül ise yanlıştır; çünkü ne Karabük'te demir madeni vardır (taş kömürüne/enerjiye yakınlık) ne de Samsun'da bakır madeni vardır (limana/ulaşıma yakınlık). Her iki fabrika da hammaddeye değil, enerji ve ulaşıma yakın kurulmuştur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• III. öncülü içeren D ve E şıkları elenir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM bu üçlüyü (Karabük, Samsun, İskenderun) her sınavda sorar; üçünde de hammadde YOKTUR!</em>"
   }
 ];
