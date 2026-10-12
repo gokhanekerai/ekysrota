@@ -2356,7 +2356,7 @@ class EKYSApp {
       },
       'cikmis': {
         title: '📜 MEB EKYS Çıkmış Sınav Soruları (2019 - 2026)',
-        desc: 'Geçmiş yıllarda ÖSYM tarafından uygulanan tüm resmî EKYS sınavları. Yıllara göre çözün veya yeni çıkmış sorular ekleyin.',
+        desc: '2019–2026 ÖSYM MEB EKYS resmî sınav kitapçıkları ve ayrıntılı pedagojik çözümleri. Yıllara göre çözün, 100 üzerinden puanınızı görün.',
         items: [
           {
             id: 'ekys_2026',
@@ -2404,7 +2404,7 @@ class EKYSApp {
             icon: '📜',
             desc: '2021 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
             filterKey: 'ekys_2021',
-            badge: '80 Soru Hedef'
+            badge: '80 Soru Hazır 🎯'
           },
           {
             id: 'ekys_2020',
@@ -2412,7 +2412,7 @@ class EKYSApp {
             icon: '📜',
             desc: '2020 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
             filterKey: 'ekys_2020',
-            badge: '80 Soru Hedef'
+            badge: '80 Soru Hazır 🎯'
           },
           {
             id: 'ekys_2019',
@@ -2420,7 +2420,7 @@ class EKYSApp {
             icon: '📜',
             desc: '2019 MEB Yönetici Seçme Sınavı soruları ve detaylı çözümleri.',
             filterKey: 'ekys_2019',
-            badge: '80 Soru Hedef'
+            badge: '80 Soru Hazır 🎯'
           }
         ]
       },
