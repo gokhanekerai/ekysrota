@@ -807,10 +807,10 @@ class EKYSApp {
             id: 'cogr_cikmis_cat',
             name: '📜 MEB EKYS Çıkmış Coğrafya Soruları',
             icon: '📜',
-            desc: '2019-2026 Resmî MEB EKYS Çıkmış Soruları ve 51 Soruluk Özel Seçki.',
+            desc: '2019-2026 Resmî MEB EKYS Sınavlarında Çıkmış Tüm Coğrafya Soruları (Soru 6-12).',
             filterKey: 'cogr_cikmis',
             targetSubtopic: 'cogr-cikmis-subtopics',
-            badge: '9 Farklı Test'
+            badge: '8 Sınav (2019-2026)'
           }
         ]
       },
@@ -866,14 +866,6 @@ class EKYSApp {
             desc: 'Sanayi Tesisleri Kuruluşu, Ulaşım Sistemleri ve Turizm Çeşitleri.',
             filterKey: 'cogr_test_25',
             badge: '24 Soru'
-          },
-          {
-            id: 'cogr_ekonomi_tum',
-            name: '🌟 Ekonomik Coğrafya Karma Testi',
-            icon: '🎯',
-            desc: 'Tüm Tarım, Hayvancılık, Maden ve Sanayi sorularından oluşan karma test.',
-            filterKey: 'cogr_ekonomi',
-            badge: '86 Soru Karma'
           }
         ]
       },
@@ -969,14 +961,6 @@ class EKYSApp {
             desc: 'Kıyı Tipleri, Karstik Aşınım-Birikim ve Yeraltı Suları.',
             filterKey: 'cogr_test_16',
             badge: '18 Soru'
-          },
-          {
-            id: 'cogr_yer_tum',
-            name: '🌟 Yer Şekilleri & Dış Kuvvetler Karma Testi',
-            icon: '🎯',
-            desc: 'Tüm yer şekilleri, dağ, ova, plato, akarsu ve göl soruları havuzu.',
-            filterKey: 'cogr_yer',
-            badge: '198 Soru Karma'
           }
         ]
       },
@@ -1008,14 +992,6 @@ class EKYSApp {
             desc: 'Akdeniz, Karadeniz, Karasal İklim Tipleri ve Bitki Formasyonları.',
             filterKey: 'cogr_test_18_2',
             badge: '18 Soru'
-          },
-          {
-            id: 'cogr_iklim_tum',
-            name: '🌟 İklim & Bitki Örtüsü Karma Testi',
-            icon: '🎯',
-            desc: 'Tüm iklim, sıcaklık, rüzgâr, yağış ve bitki örtüsü soruları havuzu.',
-            filterKey: 'cogr_iklim',
-            badge: '54 Soru Karma'
           }
         ]
       },
@@ -1047,14 +1023,6 @@ class EKYSApp {
             desc: 'ÖSYM/MEB Sınavlarında Çıkmış Yer Şekilleri ve Doğal Afet Soruları.',
             filterKey: 'cogr_test_12',
             badge: '18 Soru'
-          },
-          {
-            id: 'cogr_toprak_afet_tum',
-            name: '🌟 Toprak & Afetler Karma Testi',
-            icon: '🎯',
-            desc: 'Tüm toprak çeşitleri ve doğal afetler sorularından oluşan karma test.',
-            filterKey: 'cogr_toprak_afet',
-            badge: '54 Soru Karma'
           }
         ]
       },
@@ -1086,14 +1054,6 @@ class EKYSApp {
             desc: 'Kır/Kent Yerleşmeleri, Geçici/Kalıcı Köy Altı Yerleşmeleri, İç ve Dış Göçler.',
             filterKey: 'cogr_test_21',
             badge: '18 Soru'
-          },
-          {
-            id: 'cogr_nufus_tum',
-            name: '🌟 Nüfus & Yerleşme Karma Testi',
-            icon: '🎯',
-            desc: 'Tüm nüfus, demografi, yerleşme ve göç sorularından oluşan karma test.',
-            filterKey: 'cogr_nufus',
-            badge: '54 Soru Karma'
           }
         ]
       },
@@ -1117,14 +1077,6 @@ class EKYSApp {
             desc: 'Türkiye\'nin Jeopolitik Konumu, Sınır Kapıları, Boğazlar ve Stratejik Önemi.',
             filterKey: 'cogr_test_4',
             badge: '18 Soru'
-          },
-          {
-            id: 'cogr_konum_tum',
-            name: '🌟 Coğrafi Konum Karma Testi',
-            icon: '🎯',
-            desc: 'Tüm coğrafi konum, matematik/özel konum ve jeopolitik soruları havuzu.',
-            filterKey: 'cogr_konum',
-            badge: '36 Soru Karma'
           }
         ]
       },
@@ -1212,14 +1164,6 @@ class EKYSApp {
             desc: 'Ekonomik Coğrafya 2. Bölüm: Madenler, Enerji Kaynakları ve Ağır Sanayi Tesisleri.',
             filterKey: 'cogr_ders7_2',
             badge: '15 Soru'
-          },
-          {
-            id: 'cogr_tarama_tum',
-            name: '🌟 Video Tarama Karma Testi',
-            icon: '🎯',
-            desc: 'Tüm video tarama ve kamp testlerinden oluşan 282 soruluk zengin karma havuz.',
-            filterKey: 'cogr_tarama',
-            badge: 'Tüm Konular Karma'
           }
         ]
       },
@@ -1228,14 +1172,6 @@ class EKYSApp {
         title: '📜 MEB EKYS Çıkmış Coğrafya Soruları',
         desc: 'Çözmek istediğiniz Çıkmış Coğrafya sınavını seçin:',
         items: [
-          {
-            id: 'cogr_test_cikmis_secki',
-            name: '📜 TEST - Çıkmış Coğrafya 2022-2023',
-            icon: '⭐',
-            desc: 'ÖSYM Coğrafya Çıkmış Sorularından Derlenen Özel 51 Soruluk Seçki.',
-            filterKey: 'cogr_test_cikmis_secki',
-            badge: '51 Soru'
-          },
           {
             id: 'ekys_2026_cogr',
             name: '2026 EKYS Coğrafya Çıkmış Soruları',
