@@ -480,19 +480,27 @@ class EKYSApp {
           },
           {
             id: 'tarih10_direct',
-            name: '🏛️ Osmanlı Kültür ve Medeniyeti - 1 (Ders 7)',
-            icon: '🏛️',
-            desc: 'Hükümdar, Yönetim Gücü (Yasama-Yürütme-Yargı), Saray Teşkilatı ve Hâkimiyet Sembolleri (20 Soru).',
+            name: '📜 Genel Tarih Test 10: Türkiye Tarihi',
+            icon: '📜',
+            desc: 'Anadolu Selçuklu Devleti, I. Beylikler Dönemi, İmar Faaliyetleri ve Medreseler (19 Soru).',
             filterKey: 'tarih10',
-            badge: '20 Soru Konu Testi'
+            badge: '19 Soru Video Test'
           },
           {
             id: 'tarih11_direct',
-            name: '📜 Osmanlı Kültür ve Medeniyeti - 2 (Ders 7)',
-            icon: '📜',
-            desc: 'Veraset Sistemi, Divan-ı Hümayun, Bürokrasi, İlkler ve Eleyici Sorular (20 Soru).',
+            name: '🏛️ Genel Tarih Test 11: Osmanlı Kültür ve Medeniyeti - I',
+            icon: '🏛️',
+            desc: 'Klasik Dönem Hukuk Sistemi, Merkez Teşkilatı, Millet Sistemi ve Hükümdarlık Alametleri (18 Soru).',
             filterKey: 'tarih11',
-            badge: '20 Soru Konu Testi'
+            badge: '18 Soru Video Test'
+          },
+          {
+            id: 'tarih12_direct',
+            name: '📜 Genel Tarih Test 12: Osmanlı Kültür ve Medeniyeti - II',
+            icon: '📜',
+            desc: 'Şehzadeler ve Sancak Sistemi, Padişahın Yasama/Kulluk Yetkisi, Divan Hiyerarşisi (20 Soru).',
+            filterKey: 'tarih12',
+            badge: '20 Soru Video Test'
           },
           {
             id: 'inkilap_konu_cat',
