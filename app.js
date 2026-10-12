@@ -2614,55 +2614,55 @@ class EKYSApp {
       },
       'denemeler': {
         title: '🎯 EKYS Deneme Sınavları (100 Tam Puan)',
-        desc: 'Gerçek ÖSYM EKYS sınav standartlarında, 100 tam puan üzerinden değerlendirilen genel ve ders bazlı deneme sınavları:',
+        desc: 'Gerçek ÖSYM EKYS sınav standartlarında, 100 tam puan üzerinden değerlendirilen genel ve branş deneme sınavları:',
         items: [
           {
             id: 'deneme_80_genel',
             name: '🏆 80 Soruluk Resmî Format EKYS Genel Deneme Sınavı',
             icon: '🏆',
-            desc: 'Tüm sınav konularından dengeli 80 soru, 150 dakika sınav süresi ve 100 tam puan üzerinden genel deneme simülasyonu.',
+            desc: 'Tüm sınav konularından dengeli 80 soru (GK 16, İnkılap 12, Eğitim 12, Maarif 24, Mevzuat 16), 150 dakika ve 100 tam puan simülasyonu.',
             filterKey: 'all_mock_80',
-            badge: '80 Soru • 150 Dk'
+            badge: '80 Soru • 150 Dk • Tam Sınav'
           },
           {
             id: 'deneme_maarif',
-            name: '🌟 Türkiye Yüzyılı Maarif Modeli Özel Deneme Sınavı',
+            name: '🌟 Türkiye Yüzyılı Maarif Modeli Branş Denemesi',
             icon: '🌟',
-            desc: '2026-2027 EKYS yeni müfredat Maarif Modeli ve Ortak Metin odaklı 24 soruluk özel alan denemesi.',
-            filterKey: 'maarif',
-            badge: '24 Soru • Maarif'
+            desc: '2026-2027 EKYS yeni müfredat Maarif Modeli ve Ortak Metin odaklı 24 soruluk resmî branş denemesi (%30).',
+            filterKey: 'maarif_deneme_24',
+            badge: '24 Soru • %30 Maarif'
           },
           {
             id: 'deneme_mevzuat',
-            name: '⚖️ Mevzuat & Kanunlar Özel Deneme Sınavı',
+            name: '⚖️ Mevzuat & Kanunlar Branş Denemesi',
             icon: '⚖️',
-            desc: 'Anayasa, 657, 1739, 222, 5018, 4483, 4688, 5442, 3071 ve 1 Sayılı CBK kapsamlı mevzuat denemesi.',
-            filterKey: 'mevzuat_tum',
-            badge: 'Mevzuat Özel'
+            desc: 'Anayasa, 657, 1739, 222, 5018, 4483, 4688, 5442, 3071 ve 1 Sayılı CBK odaklı 16 soruluk resmî branş denemesi (%20).',
+            filterKey: 'mevzuat_deneme_16',
+            badge: '16 Soru • %20 Mevzuat'
           },
           {
             id: 'deneme_tarih',
-            name: '⚔️ Tarih, İnkılap Tarihi & Atatürkçülük Deneme Sınavı',
+            name: '⚔️ T.C. İnkılâp Tarihi ve Atatürkçülük Branş Denemesi',
             icon: '⚔️',
-            desc: 'İlk Türk Devletleri, Türk-İslam, Osmanlı, Milli Mücadele, Atatürk İlkeleri ve İnkılap Tarihi denemesi.',
-            filterKey: 'inkilap_tum',
-            badge: 'Tarih & İnkılap'
+            desc: 'Milli Mücadele, Atatürk İlkeleri ve İnkılap Tarihi odaklı 12 soruluk resmî branş denemesi (%15).',
+            filterKey: 'inkilap_deneme_12',
+            badge: '12 Soru • %15 İnkılap'
           },
           {
             id: 'deneme_egitim',
-            name: '🎓 Eğitim Bilimleri & Yönetimi Özel Deneme Sınavı',
+            name: '🎓 Eğitim Bilimleri Branş Denemesi',
             icon: '🎓',
-            desc: 'Eğitim Yönetimi Süreçleri, Liderlik Kuramları, Örgütsel Davranış, Ölçme ve Değerlendirme denemesi.',
-            filterKey: 'egitim_tum',
-            badge: 'Eğitim Bilimleri'
+            desc: 'Eğitim Yönetimi, Ölçme ve Değerlendirme, ÖYT ve Program Geliştirme odaklı 12 soruluk resmî branş denemesi (%15).',
+            filterKey: 'egitim_deneme_12',
+            badge: '12 Soru • %15 Eğitim'
           },
           {
             id: 'deneme_genel_kultur',
-            name: '🌍 Genel Kültür (Coğrafya, Yurttaşlık, Güncel) Deneme Sınavı',
+            name: '🌍 Genel Kültür Branş Denemesi',
             icon: '🌍',
-            desc: 'Türkiye Coğrafyası, Temel Hukuk, Anayasa Esasları ve Güncel Sosyoekonomik Gelişmeler denemesi.',
-            filterKey: 'genel_kultur_tum',
-            badge: 'Genel Kültür'
+            desc: 'Türkiye Coğrafyası (6), Temel Yurttaşlık (6) ve Güncel Olaylar (4) odaklı 16 soruluk resmî branş denemesi (%20).',
+            filterKey: 'genel_kultur_deneme_16',
+            badge: '16 Soru • %20 GK'
           }
         ]
       }
@@ -2697,6 +2697,90 @@ class EKYSApp {
 
     if (!filterKey || filterKey === 'all') {
       return [...allQuestions];
+    }
+
+    // 0. Resmî EKYS Deneme Sınavları (80 Soruluk Genel Deneme & Branş Denemeleri)
+    if (filterKey === 'all_mock_80') {
+      const gk = [], ink = [], egt = [], mrf = [], mvz = [];
+      for (let i = 0; i < allQuestions.length; i++) {
+        const q = allQuestions[i];
+        const qNum = q.questionNumber || 0;
+        const tName = (q.topicName || q.testTitle || '').toLowerCase();
+        const tId = (q.topicId || q.testId || '').toLowerCase();
+        const isCik = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
+
+        if (tName.includes('2026') && qNum >= 41 && qNum <= 64) {
+          mrf.push(q);
+        } else if ((isCik && qNum >= 65 && qNum <= 80) || tId.includes('mevzuat')) {
+          mvz.push(q);
+        } else if ((isCik && qNum >= 29 && qNum <= 40) || tId.includes('egitim') || tId.includes('olcme') || tId.includes('oyt')) {
+          egt.push(q);
+        } else if ((isCik && qNum >= 17 && qNum <= 28) || tId.includes('inkilap')) {
+          ink.push(q);
+        } else if ((isCik && qNum >= 1 && qNum <= 16) || tId.includes('cogr') || tId.includes('yurttaslik') || tId.includes('guncel')) {
+          gk.push(q);
+        }
+      }
+      return [
+        ...this.shuffleArray(gk).slice(0, 16),
+        ...this.shuffleArray(ink).slice(0, 12),
+        ...this.shuffleArray(egt).slice(0, 12),
+        ...this.shuffleArray(mrf).slice(0, 24),
+        ...this.shuffleArray(mvz).slice(0, 16)
+      ];
+    }
+
+    if (filterKey === 'maarif_deneme_24') {
+      const mrf = allQuestions.filter(q => {
+        const qNum = q.questionNumber || 0;
+        const tName = (q.topicName || q.testTitle || '').toLowerCase();
+        return tName.includes('2026') && qNum >= 41 && qNum <= 64;
+      });
+      return this.shuffleArray(mrf).slice(0, 24);
+    }
+
+    if (filterKey === 'mevzuat_deneme_16') {
+      const mvz = allQuestions.filter(q => {
+        const qNum = q.questionNumber || 0;
+        const tName = (q.topicName || q.testTitle || '').toLowerCase();
+        const tId = (q.topicId || q.testId || '').toLowerCase();
+        const isCik = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
+        return (isCik && qNum >= 65 && qNum <= 80) || tId.includes('mevzuat');
+      });
+      return this.shuffleArray(mvz).slice(0, 16);
+    }
+
+    if (filterKey === 'inkilap_deneme_12') {
+      const ink = allQuestions.filter(q => {
+        const qNum = q.questionNumber || 0;
+        const tName = (q.topicName || q.testTitle || '').toLowerCase();
+        const tId = (q.topicId || q.testId || '').toLowerCase();
+        const isCik = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
+        return (isCik && qNum >= 17 && qNum <= 28) || tId.includes('inkilap');
+      });
+      return this.shuffleArray(ink).slice(0, 12);
+    }
+
+    if (filterKey === 'egitim_deneme_12') {
+      const egt = allQuestions.filter(q => {
+        const qNum = q.questionNumber || 0;
+        const tName = (q.topicName || q.testTitle || '').toLowerCase();
+        const tId = (q.topicId || q.testId || '').toLowerCase();
+        const isCik = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
+        return (isCik && qNum >= 29 && qNum <= 40) || tId.includes('egitim') || tId.includes('olcme') || tId.includes('oyt');
+      });
+      return this.shuffleArray(egt).slice(0, 12);
+    }
+
+    if (filterKey === 'genel_kultur_deneme_16') {
+      const gk = allQuestions.filter(q => {
+        const qNum = q.questionNumber || 0;
+        const tName = (q.topicName || q.testTitle || '').toLowerCase();
+        const tId = (q.topicId || q.testId || '').toLowerCase();
+        const isCik = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
+        return (isCik && qNum >= 1 && qNum <= 16) || tId.includes('cogr') || tId.includes('yurttaslik') || tId.includes('guncel');
+      });
+      return this.shuffleArray(gk).slice(0, 16);
     }
 
     const filtered = allQuestions.filter(q => {
@@ -2918,10 +3002,13 @@ class EKYSApp {
       if (filterKey === 'mevzuat_1cbk') {
         return (isCikmis && (qNum === 78 || qNum === 79 || qNum === 80)) || tId.includes('1cbk') || qText.includes('kararname') || qText.includes('cbk');
       }
-      if (filterKey === 'mevzuat') {
+      if (filterKey === 'mevzuat' || filterKey === 'mevzuat_tum') {
         if (isCikmis && qNum >= 65 && qNum <= 80) return true;
-        if (qText.includes('kanun') || qText.includes('mevzuat') || qText.includes('yönetmelik')) return true;
+        if (tId.includes('mevzuat') || qText.includes('kanun') || qText.includes('mevzuat') || qText.includes('yönetmelik')) return true;
         return false;
+      }
+      if (filterKey === 'inkilap_tum') {
+        return (isCikmis && qNum >= 17 && qNum <= 28) || tId.includes('inkilap');
       }
 
       return true;
@@ -3161,7 +3248,7 @@ class EKYSApp {
     const isScored = isDeneme || isCikmis;
 
     if (filterKey === 'all_mock_80') {
-      questions = this.shuffleArray([...questions]).slice(0, 80);
+      // 80 soruluk resmî denemede sorular ÖSYM bölüm sırasıyla (GK 16, İnkılap 12, Eğitim 12, Maarif 24, Mevzuat 16) gelir
     } else if (mode === 'exam' && (filterKey === 'cogr_tarama' || filterKey === 'tarih_tarama' || questions.length > 80)) {
       // 80'den fazla sorusu olan dev karma havuzlarda sınav modu 30 soruluk odaklanmış branş denemesi olarak açılır
       const examCount = Math.min(30, questions.length);
@@ -3176,7 +3263,7 @@ class EKYSApp {
       isCikmis: isCikmis,
       isScored: isScored,
       mode: mode,
-      questions: mode === 'exam' ? [...questions] : this.shuffleArray([...questions]),
+      questions: (mode === 'exam' || filterKey === 'all_mock_80') ? [...questions] : this.shuffleArray([...questions]),
       currentIndex: 0,
       userAnswers: {},
       struckOptions: {},
