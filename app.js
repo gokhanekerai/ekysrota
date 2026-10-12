@@ -2628,27 +2628,11 @@ class EKYSApp {
         items: [
           {
             id: 'maarif_2026',
-            name: '🌟 2026 EKYS Maarif Modeli Soruları (Soru 41-64)',
+            name: '🌟 2026 EKYS Maarif Modeli Çıkmış Soruları (Soru 41-64)',
             icon: '🌟',
-            desc: '2026 Mart MEB EKYS sınavında sorulan 24 resmî Maarif Modeli sorusunun tamamı.',
+            desc: '2026 Mart MEB EKYS sınavında sorulan 24 resmî Türkiye Yüzyılı Maarif Modeli sorusunun tamamı.',
             filterKey: 'maarif',
-            badge: '24 Soru (Tam Liste)'
-          },
-          {
-            id: 'maarif_temel',
-            name: '📑 Öğretim Programları Ortak Metni & Beceriler',
-            icon: '📑',
-            desc: 'Bütüncül Eğitim, Erdem-Değer-Eylem, Kavramsal Beceriler ve Sosyal-Duygusal Öğrenme.',
-            filterKey: 'maarif',
-            badge: '24 Soru'
-          },
-          {
-            id: 'maarif_tum',
-            name: '🏆 Maarif Modeli Deneme Sınavı',
-            icon: '🎯',
-            desc: '2026 ve 2027 EKYS Maarif Modeli soruları odaklı pratik ve sınav modu.',
-            filterKey: 'maarif',
-            badge: '24 Soru'
+            badge: '24 Soru (Resmî Sınav)'
           }
         ]
       },
@@ -2914,10 +2898,8 @@ class EKYSApp {
         return false;
       }
 
-      if (filterKey === 'maarif') {
-        if (is2026 && qNum >= 41 && qNum <= 64) return true;
-        if (qText.includes('maarif modeli') || qText.includes('öğretim programları ortak metni')) return true;
-        return false;
+      if (filterKey === 'maarif' || filterKey === 'maarif_2026') {
+        return is2026 && qNum >= 41 && qNum <= 64;
       }
 
       if (filterKey === 'egitim_cikmis') {
