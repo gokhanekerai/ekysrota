@@ -495,20 +495,68 @@ class EKYSApp {
             badge: '20 Soru Video Test'
           },
           {
-            id: 'inkilap_konu_cat',
-            name: '🇹🇷 Atatürk İlkeleri ve İnkılap Tarihi',
-            icon: '🇹🇷',
-            desc: 'Milli Mücadele, Genelgeler/Kongreler, Muharebeler, Lozan, Cumhuriyet Dönemi ve İlkeler.',
-            filterKey: 'inkilap',
-            badge: 'Çıkmış + Konu Testleri'
+            id: 'ekys_2026_tarih_card',
+            name: '📜 2026 EKYS Çıkmış Tarih & İnkılap Tarihi',
+            icon: '📜',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            filterKey: 'ekys_2026_tarih_all',
+            badge: '18 Soru • 2026 Çıkmış'
           },
           {
-            id: 'tarih_cikmis_cat',
-            name: '📜 2019 - 2026 Çıkmış Tarih & İnkılap Soruları',
+            id: 'ekys_2025_tarih_card',
+            name: '📜 2025 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
-            desc: 'Tüm resmî MEB EKYS sınavlarında çıkmış Genel Tarih ve İnkılap Tarihi soruları (Soru 1-6 & 17-28).',
-            filterKey: 'tarih_cikmis',
-            badge: '100+ Soru Çıkmış'
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            filterKey: 'ekys_2025_tarih_all',
+            badge: '18 Soru • 2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_tarih_card',
+            name: '📜 2024 EKYS Çıkmış Tarih & İnkılap Tarihi',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            filterKey: 'ekys_2024_tarih_all',
+            badge: '18 Soru • 2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_tarih_card',
+            name: '📜 2023 EKYS Çıkmış Tarih & İnkılap Tarihi',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            filterKey: 'ekys_2023_tarih_all',
+            badge: '18 Soru • 2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_tarih_card',
+            name: '📜 2022 EKYS Çıkmış Tarih & İnkılap Tarihi',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            filterKey: 'ekys_2022_tarih_all',
+            badge: '18 Soru • 2022 Çıkmış'
+          },
+          {
+            id: 'ekys_2021_tarih_card',
+            name: '📜 2021 EKYS Çıkmış Tarih & İnkılap Tarihi',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            filterKey: 'ekys_2021_tarih_all',
+            badge: '18 Soru • 2021 Çıkmış'
+          },
+          {
+            id: 'ekys_2020_tarih_card',
+            name: '📜 2020 EKYS Çıkmış Tarih & İnkılap Tarihi',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            filterKey: 'ekys_2020_tarih_all',
+            badge: '18 Soru • 2020 Çıkmış'
+          },
+          {
+            id: 'ekys_2019_tarih_card',
+            name: '📜 2019 EKYS Çıkmış Tarih & İnkılap Tarihi',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            filterKey: 'ekys_2019_tarih_all',
+            badge: '18 Soru • 2019 Çıkmış'
           }
         ]
       },
@@ -2838,6 +2886,7 @@ class EKYSApp {
         if (!isYear) return false;
 
         if (sub === 'tarih') return (qNum >= 1 && qNum <= 6) || (tName.includes('tarih') && !tName.includes('inkılap'));
+        if (sub === 'tarih_all' || sub === 'tarih_tam' || sub === 'tarih_inkilap') return ((qNum >= 1 && qNum <= 6) || (qNum >= 17 && qNum <= 28));
         if (sub === 'cogr' || sub === 'cografya') return (qNum >= 6 && qNum <= 12) || tName.includes('coğrafya');
         if (sub === 'yurttaslik') return (qNum >= 11 && qNum <= 14) || tName.includes('yurttaşlık') || qText.includes('hukuk') || qText.includes('normlar') || qText.includes('yurttaşlık');
         if (sub === 'guncel') return (qNum >= 15 && qNum <= 16) || tName.includes('güncel') || qText.includes('unesco') || qText.includes('gözlem') || qText.includes('gordion') || qText.includes('mevlânâ') || qText.includes('togg');
