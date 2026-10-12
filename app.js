@@ -373,7 +373,7 @@ class EKYSApp {
             desc: 'Temel Hukuk, Anayasa Esasları, Devlet Yapısı ve Çıkmış Yurttaşlık Soruları.',
             filterKey: 'yurttaslik',
             targetSubtopic: 'yurttaslik-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: '2019-2026 Çıkmış Sınavlar'
           },
           {
             id: 'guncel',
@@ -382,7 +382,7 @@ class EKYSApp {
             desc: 'Türkiye ve Dünya ile İlgili Kültürel, Bilimsel ve Güncel Sosyoekonomik Gelişmeler.',
             filterKey: 'guncel',
             targetSubtopic: 'guncel-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: '2019-2026 Çıkmış Sınavlar'
           }
         ]
       },
@@ -1306,14 +1306,6 @@ class EKYSApp {
             desc: '2019 MEB EKYS sınavında çıkmış Temel Yurttaşlık soruları (Soru 11-14).',
             filterKey: 'ekys_2019_yurttaslik',
             badge: '2019 Çıkmış'
-          },
-          {
-            id: 'yurttaslik_tum',
-            name: '🌟 Tüm Yurttaşlık Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış yurttaşlık sorularından oluşan karma soru havuzu.',
-            filterKey: 'yurttaslik',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -1371,12 +1363,20 @@ class EKYSApp {
             badge: '2021 Çıkmış'
           },
           {
-            id: 'guncel_tum',
-            name: '🌟 Tüm Güncel Sorular (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış güncel ve genel kültür sorularından oluşan karma test.',
-            filterKey: 'guncel',
-            badge: 'Karma Test'
+            id: 'ekys_2020_guncel',
+            name: '2020 EKYS Güncel Bilgiler Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış resmî Güncel Bilgiler soruları (Soru 15-16).',
+            filterKey: 'ekys_2020_guncel',
+            badge: '2020 Çıkmış'
+          },
+          {
+            id: 'ekys_2019_guncel',
+            name: '2019 EKYS Güncel Bilgiler Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış resmî Güncel Bilgiler soruları (Soru 15-16).',
+            filterKey: 'ekys_2019_guncel',
+            badge: '2019 Çıkmış'
           }
         ]
       },
