@@ -1751,7 +1751,7 @@ class EKYSApp {
             desc: 'Temel Hak ve Ödevler, Yasama, Yürütme, Yargı ve İdare Esasları.',
             filterKey: 'mevzuat_anayasa',
             targetSubtopic: 'mevzuat-anayasa-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_657',
@@ -1760,7 +1760,7 @@ class EKYSApp {
             desc: 'Genel İlkeler, Ödev ve Sorumluluklar, Haklar, Disiplin ve Cezalar.',
             filterKey: 'mevzuat_657',
             targetSubtopic: 'mevzuat-657-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_1739',
@@ -1769,7 +1769,7 @@ class EKYSApp {
             desc: 'Türk Millî Eğitiminin Temel İlkeleri, Okul Kademeleri ve Öğretmenlik Mesleği.',
             filterKey: 'mevzuat_1739',
             targetSubtopic: 'mevzuat-1739-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_222',
@@ -1778,7 +1778,7 @@ class EKYSApp {
             desc: 'İlköğretim Çağı, Kayıt-Kabul, Devam Takibi, Okul Gelirleri ve Cezalar.',
             filterKey: 'mevzuat_222',
             targetSubtopic: 'mevzuat-222-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_5018',
@@ -1787,7 +1787,7 @@ class EKYSApp {
             desc: 'Bütçe İlkeleri, Harcama Yetkilisi, Gerçekleştirme Görevlisi ve İç Kontrol.',
             filterKey: 'mevzuat_5018',
             targetSubtopic: 'mevzuat-5018-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_4483',
@@ -1796,7 +1796,7 @@ class EKYSApp {
             desc: 'Ön İnceleme, İzin Vermeye Yetkili Merciler ve Yargılama Usulü.',
             filterKey: 'mevzuat_4483',
             targetSubtopic: 'mevzuat-4483-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_4688',
@@ -1805,7 +1805,7 @@ class EKYSApp {
             desc: 'Sendika Kurulması, Organları, Toplu Sözleşme ve Sendikal Güvenceler.',
             filterKey: 'mevzuat_4688',
             targetSubtopic: 'mevzuat-4688-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_5442',
@@ -1814,7 +1814,7 @@ class EKYSApp {
             desc: 'Vali ve Kaymakamın Yetkileri, İl ve İlçe İdare Teşkilatı.',
             filterKey: 'mevzuat_5442',
             targetSubtopic: 'mevzuat-5442-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_3071',
@@ -1823,7 +1823,7 @@ class EKYSApp {
             desc: 'Dilekçe Hakkının Kullanımı, Başvuru ve Cevap Verme Süreleri.',
             filterKey: 'mevzuat_3071',
             targetSubtopic: 'mevzuat-3071-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
             id: 'mevzuat_1cbk',
@@ -1832,15 +1832,71 @@ class EKYSApp {
             desc: 'MEB Hizmet Birimleri, Görev ve Yetkileri ve Teşkilat Yapısı.',
             filterKey: 'mevzuat_1cbk',
             targetSubtopic: 'mevzuat-1cbk-subtopics',
-            badge: 'Çıkmış + Karma'
+            badge: 'Çıkmış Sorular'
           },
           {
-            id: 'mevzuat_tum',
-            name: '🏆 Tüm Mevzuat Karma Testi',
-            icon: '🎯',
-            desc: 'Tüm kanun ve yönetmeliklerden derlenmiş karma pratik ve sınav.',
-            filterKey: 'mevzuat',
-            badge: '58+ Soru'
+            id: 'ekys_2026_mevzuat_card',
+            name: '2026 EKYS Mevzuat Çıkmış Testi',
+            icon: '⚖️',
+            desc: '2026 Mart MEB EKYS sınavındaki tüm mevzuat soruları (Soru 65-80).',
+            filterKey: 'ekys_2026_mevzuat_all',
+            badge: '16 Soru • 2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_mevzuat_card',
+            name: '2025 EKYS Mevzuat Çıkmış Testi',
+            icon: '⚖️',
+            desc: '2025 MEB EKYS sınavındaki tüm mevzuat soruları (Soru 65-80).',
+            filterKey: 'ekys_2025_mevzuat_all',
+            badge: '16 Soru • 2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_mevzuat_card',
+            name: '2024 EKYS Mevzuat Çıkmış Testi',
+            icon: '⚖️',
+            desc: '2024 MEB EKYS sınavındaki tüm mevzuat soruları (Soru 65-80).',
+            filterKey: 'ekys_2024_mevzuat_all',
+            badge: '16 Soru • 2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_mevzuat_card',
+            name: '2023 EKYS Mevzuat Çıkmış Testi',
+            icon: '⚖️',
+            desc: '2023 MEB EKYS sınavındaki tüm mevzuat soruları (Soru 65-80).',
+            filterKey: 'ekys_2023_mevzuat_all',
+            badge: '16 Soru • 2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_mevzuat_card',
+            name: '2022 EKYS Mevzuat Çıkmış Testi',
+            icon: '⚖️',
+            desc: '2022 MEB EKYS sınavındaki tüm mevzuat soruları (Soru 65-80).',
+            filterKey: 'ekys_2022_mevzuat_all',
+            badge: '16 Soru • 2022 Çıkmış'
+          },
+          {
+            id: 'ekys_2021_mevzuat_card',
+            name: '2021 EKYS Mevzuat Çıkmış Testi',
+            icon: '⚖️',
+            desc: '2021 MEB EKYS sınavındaki tüm mevzuat soruları (Soru 65-80).',
+            filterKey: 'ekys_2021_mevzuat_all',
+            badge: '16 Soru • 2021 Çıkmış'
+          },
+          {
+            id: 'ekys_2020_mevzuat_card',
+            name: '2020 EKYS Mevzuat Çıkmış Testi',
+            icon: '⚖️',
+            desc: '2020 MEB EKYS sınavındaki tüm mevzuat soruları (Soru 65-80).',
+            filterKey: 'ekys_2020_mevzuat_all',
+            badge: '16 Soru • 2020 Çıkmış'
+          },
+          {
+            id: 'ekys_2019_mevzuat_card',
+            name: '2019 EKYS Mevzuat Çıkmış Testi',
+            icon: '⚖️',
+            desc: '2019 MEB EKYS sınavındaki tüm mevzuat soruları (Soru 65-80).',
+            filterKey: 'ekys_2019_mevzuat_all',
+            badge: '16 Soru • 2019 Çıkmış'
           }
         ]
       },
@@ -1880,14 +1936,6 @@ class EKYSApp {
             desc: '2023 MEB EKYS Anayasa Hukuku soruları ve çözümleri (Soru 65-66).',
             filterKey: 'ekys_2023_mevzuat_anayasa',
             badge: '2023 Çıkmış'
-          },
-          {
-            id: 'mevzuat_anayasa_tum',
-            name: '🌟 Tüm Anayasa Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 1982 Anayasası sorularından oluşan karma test.',
-            filterKey: 'mevzuat_anayasa',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -1935,14 +1983,6 @@ class EKYSApp {
             desc: '2022 MEB EKYS 657 DMK soruları ve çözümleri (Soru 67-68, 80).',
             filterKey: 'ekys_2022_mevzuat_657',
             badge: '2022 Çıkmış'
-          },
-          {
-            id: 'mevzuat_657_tum',
-            name: '🌟 Tüm 657 Sayılı Kanun Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 657 DMK sorularından oluşan karma test.',
-            filterKey: 'mevzuat_657',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -1990,14 +2030,6 @@ class EKYSApp {
             desc: '2022 MEB EKYS 1739 Millî Eğitim Temel Kanunu soruları (Soru 69-70).',
             filterKey: 'ekys_2022_mevzuat_1739',
             badge: '2022 Çıkmış'
-          },
-          {
-            id: 'mevzuat_1739_tum',
-            name: '🌟 Tüm 1739 Sayılı Kanun Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 1739 Millî Eğitim Temel Kanunu soruları.',
-            filterKey: 'mevzuat_1739',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2045,14 +2077,6 @@ class EKYSApp {
             desc: '2022 MEB EKYS 222 İlköğretim Kanunu soruları (Soru 71-72).',
             filterKey: 'ekys_2022_mevzuat_222',
             badge: '2022 Çıkmış'
-          },
-          {
-            id: 'mevzuat_222_tum',
-            name: '🌟 Tüm 222 Sayılı Kanun Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 222 İlköğretim ve Eğitim Kanunu soruları.',
-            filterKey: 'mevzuat_222',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2100,14 +2124,6 @@ class EKYSApp {
             desc: '2022 MEB EKYS 5018 Kamu Mali Yönetimi soruları (Soru 73).',
             filterKey: 'ekys_2022_mevzuat_5018',
             badge: '2022 Çıkmış'
-          },
-          {
-            id: 'mevzuat_5018_tum',
-            name: '🌟 Tüm 5018 Sayılı Kanun Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 5018 Kamu Mali Yönetimi ve Kontrol Kanunu soruları.',
-            filterKey: 'mevzuat_5018',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2155,14 +2171,6 @@ class EKYSApp {
             desc: '2022 MEB EKYS 4483 Memurların Yargılanması soruları (Soru 74).',
             filterKey: 'ekys_2022_mevzuat_4483',
             badge: '2022 Çıkmış'
-          },
-          {
-            id: 'mevzuat_4483_tum',
-            name: '🌟 Tüm 4483 Sayılı Kanun Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 4483 Memurların Yargılanması Kanunu soruları.',
-            filterKey: 'mevzuat_4483',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2210,14 +2218,6 @@ class EKYSApp {
             desc: '2022 MEB EKYS 4688 Sendikalar Kanunu soruları (Soru 75).',
             filterKey: 'ekys_2022_mevzuat_4688',
             badge: '2022 Çıkmış'
-          },
-          {
-            id: 'mevzuat_4688_tum',
-            name: '🌟 Tüm 4688 Sayılı Kanun Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 4688 Sendikalar ve Toplu Sözleşme Kanunu soruları.',
-            filterKey: 'mevzuat_4688',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2265,14 +2265,6 @@ class EKYSApp {
             desc: '2022 MEB EKYS 5442 İl İdaresi Kanunu soruları (Soru 76).',
             filterKey: 'ekys_2022_mevzuat_5442',
             badge: '2022 Çıkmış'
-          },
-          {
-            id: 'mevzuat_5442_tum',
-            name: '🌟 Tüm 5442 Sayılı Kanun Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 5442 İl İdaresi Kanunu soruları.',
-            filterKey: 'mevzuat_5442',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2320,14 +2312,6 @@ class EKYSApp {
             desc: '2022 MEB EKYS 3071 Dilekçe Kanunu soruları (Soru 77).',
             filterKey: 'ekys_2022_mevzuat_3071',
             badge: '2022 Çıkmış'
-          },
-          {
-            id: 'mevzuat_3071_tum',
-            name: '🌟 Tüm 3071 Sayılı Kanun Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 3071 Dilekçe Hakkı Kanunu soruları.',
-            filterKey: 'mevzuat_3071',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2367,14 +2351,6 @@ class EKYSApp {
             desc: '2023 MEB EKYS 1 Sayılı CBK soruları (Soru 78-79).',
             filterKey: 'ekys_2023_mevzuat_1cbk',
             badge: '2023 Çıkmış'
-          },
-          {
-            id: 'mevzuat_1cbk_tum',
-            name: '🌟 Tüm 1 Sayılı CBK Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm yılların çıkmış 1 Sayılı Cumhurbaşkanlığı Kararnamesi soruları.',
-            filterKey: 'mevzuat_1cbk',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2825,6 +2801,7 @@ class EKYSApp {
         if (sub === 'mevzuat_5442') return qNum === 76 || tId.includes('5442') || qText.includes('5442');
         if (sub === 'mevzuat_3071') return qNum === 77 || tId.includes('3071') || qText.includes('3071');
         if (sub === 'mevzuat_1cbk') return qNum === 78 || qNum === 79 || (qNum === 80 && year === '2026') || tId.includes('1cbk') || qText.includes('cbk') || qText.includes('kararname');
+        if (sub === 'mevzuat_all' || sub === 'mevzuat_tam') return (qNum >= 65 && qNum <= 80);
       }
 
       // 3. Tam Yıl Çıkmış Sınavlar (Örn: ekys_2026, ekys_2025, ekys_2024, ekys_2023)
