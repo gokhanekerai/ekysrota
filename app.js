@@ -383,14 +383,6 @@ class EKYSApp {
             filterKey: 'guncel',
             targetSubtopic: 'guncel-subtopics',
             badge: 'Çıkmış + Karma'
-          },
-          {
-            id: 'genel_kultur_tum',
-            name: '🏆 Tüm Genel Kültür Karma Test',
-            icon: '🎯',
-            desc: 'Tüm Coğrafya, Yurttaşlık ve Güncel sorulardan oluşan karma soru havuzu.',
-            filterKey: 'genel_kultur_tum',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -517,14 +509,6 @@ class EKYSApp {
             desc: 'Tüm resmî MEB EKYS sınavlarında çıkmış Genel Tarih ve İnkılap Tarihi soruları (Soru 1-6 & 17-28).',
             filterKey: 'tarih_cikmis',
             badge: '100+ Soru Çıkmış'
-          },
-          {
-            id: 'tarih_tum_karma',
-            name: '🏆 Tüm Tarih & İnkılap Tarihi (Büyük Karma)',
-            icon: '🎯',
-            desc: 'Genel Tarih 1-6 ve İnkılap Tarihi tüm soru havuzundan karma test.',
-            filterKey: 'tarih_tum',
-            badge: 'Tüm Tarih Karma'
           }
         ]
       },
@@ -700,14 +684,6 @@ class EKYSApp {
             desc: '2019 MEB EKYS sınavında çıkmış Genel Tarih soruları (Soru 1-5).',
             filterKey: 'ekys_2019_tarih',
             badge: '2019 Çıkmış'
-          },
-          {
-            id: 'tarih_tum',
-            name: '🌟 Tüm Tarih Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm video tarama ve çıkmış tarih sorularından oluşan karma soru havuzu.',
-            filterKey: 'tarih',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -787,14 +763,6 @@ class EKYSApp {
             filterKey: 'cogr_cikmis',
             targetSubtopic: 'cogr-cikmis-subtopics',
             badge: '9 Farklı Test'
-          },
-          {
-            id: 'cografya_tum',
-            name: '🌟 Tüm Coğrafya Soruları (Büyük Karma Test)',
-            icon: '🎯',
-            desc: 'Veritabanındaki tüm 620+ Coğrafya sorusundan oluşan büyük soru havuzu.',
-            filterKey: 'cografya',
-            badge: '620+ Soru Karma'
           }
         ]
       },
