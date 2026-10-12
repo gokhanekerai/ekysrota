@@ -2573,36 +2573,68 @@ class EKYSApp {
             badge: '15 Soru • Video Test 8'
           },
           {
-            id: 'egitim_yonetimi_cat',
-            name: '🎓 Eğitim Yönetimi, Liderlik & Okul Denetimi',
-            icon: '🎓',
-            desc: 'Yönetim Süreçleri, Liderlik Kuramları, Örgütsel Davranış, İletişim ve Okul Denetimi.',
-            filterKey: 'egitim_yonetimi',
-            badge: '190+ Soru'
-          },
-          {
-            id: 'egitim_bilimleri_cat',
-            name: '📚 Öğrenme Kuramları, Gelişim & Ölçme-Değerlendirme',
-            icon: '📚',
-            desc: 'Öğrenme Kuramları, Gelişim Psikolojisi, Program Geliştirme ve Ölçme Araçları.',
-            filterKey: 'egitim_bilimleri',
-            badge: '140+ Soru'
-          },
-          {
-            id: 'degerler_egitimi_cat',
-            name: '💎 Değerler Eğitimi & Meslek Etiği',
-            icon: '💎',
-            desc: 'Değerler Eğitimi Yaklaşımları, Kohlberg Ahlak Gelişimi ve Kamu Görevlileri Etik İlkeleri.',
-            filterKey: 'degerler',
-            badge: '45+ Soru'
-          },
-          {
-            id: 'egitim_cikmis_cat',
-            name: '📜 2019 - 2025 Çıkmış Eğitim Yönetimi & Bilimleri Soruları',
+            id: 'ekys_2026_egitim_card',
+            name: '📜 2026 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
             icon: '📜',
-            desc: 'Tüm resmî EKYS sınavlarında çıkmış 215+ Eğitim Yönetimi ve Eğitim Bilimleri sorusu.',
-            filterKey: 'egitim_cikmis',
-            badge: '215 Soru Çıkmış'
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Değerler, Eğitim Bilimleri ve Maarif Modeli soruları (36 Soru).',
+            filterKey: 'ekys_2026_egitim_all',
+            badge: '36 Soru • 2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_egitim_card',
+            name: '📜 2025 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi, Eğitim Bilimleri ve Eğitim Yönetimi soruları (36 Soru).',
+            filterKey: 'ekys_2025_egitim_all',
+            badge: '36 Soru • 2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_egitim_card',
+            name: '📜 2024 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi, Eğitim Bilimleri ve Eğitim Yönetimi soruları (36 Soru).',
+            filterKey: 'ekys_2024_egitim_all',
+            badge: '36 Soru • 2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_egitim_card',
+            name: '📜 2023 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi, Eğitim Bilimleri ve Eğitim Yönetimi soruları (36 Soru).',
+            filterKey: 'ekys_2023_egitim_all',
+            badge: '36 Soru • 2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_egitim_card',
+            name: '📜 2022 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi, Eğitim Bilimleri ve Eğitim Yönetimi soruları (36 Soru).',
+            filterKey: 'ekys_2022_egitim_all',
+            badge: '36 Soru • 2022 Çıkmış'
+          },
+          {
+            id: 'ekys_2021_egitim_card',
+            name: '📜 2021 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi, Eğitim Bilimleri ve Eğitim Yönetimi soruları (36 Soru).',
+            filterKey: 'ekys_2021_egitim_all',
+            badge: '36 Soru • 2021 Çıkmış'
+          },
+          {
+            id: 'ekys_2020_egitim_card',
+            name: '📜 2020 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi, Eğitim Bilimleri ve Eğitim Yönetimi soruları (36 Soru).',
+            filterKey: 'ekys_2020_egitim_all',
+            badge: '36 Soru • 2020 Çıkmış'
+          },
+          {
+            id: 'ekys_2019_egitim_card',
+            name: '📜 2019 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış resmî Değerler Eğitimi, Eğitim Bilimleri ve Eğitim Yönetimi soruları (36 Soru).',
+            filterKey: 'ekys_2019_egitim_all',
+            badge: '36 Soru • 2019 Çıkmış'
           }
         ]
       },
@@ -2813,6 +2845,7 @@ class EKYSApp {
         if (sub === 'degerler') return (qNum >= 29 && qNum <= 32) || tName.includes('değerler') || tName.includes('etik');
         if (sub === 'egitim') return (qNum >= 33 && qNum <= 40) || tName.includes('eğitim bilimleri');
         if (sub === 'yonetim') return (qNum >= 41 && qNum <= 64) || tName.includes('yönetim') || tName.includes('denetim');
+        if (sub === 'egitim_all' || sub === 'egitim_tam' || sub === 'egitim_yonetim') return (qNum >= 29 && qNum <= 64);
         if (sub === 'mevzuat_anayasa') return qNum === 65 || qNum === 66 || tId.includes('anayasa') || qText.includes('anayasa') || qText.includes('1982');
         if (sub === 'mevzuat_657') return qNum === 67 || qNum === 68 || qNum === 80 || tId.includes('657') || qText.includes('657');
         if (sub === 'mevzuat_1739') return qNum === 69 || qNum === 70 || tId.includes('1739') || qText.includes('1739');
