@@ -4749,7 +4749,7 @@ class EKYSApp {
         title: 'Tarih, İnkılâp Tarihi & Atatürkçülük',
         subTitle: 'İlk Türk Dev., Selçuklu, Osmanlı, İnkılap',
         icon: '⚔️',
-        badge: '%20 (16 Soru)',
+        badge: '%15 (12 Soru)',
         theme: {
           color: '#f43f5e',
           gradStart: '#fb7185',
