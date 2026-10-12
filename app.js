@@ -1583,14 +1583,6 @@ class EKYSApp {
             badge: '15 Soru • Video Test 8'
           },
           {
-            id: 'egitim_video_tarama_tum_eb',
-            name: '🌟 Eğitim Bilimleri Video Tarama (8 Test Karma)',
-            icon: '⚡',
-            desc: 'Tüm 1. ve 2. video tarama testlerinden oluşan 152 soruluk kapsamlı Eğitim Bilimleri soru havuzu.',
-            filterKey: 'egitim_video_tarama_tum',
-            badge: '152 Soru Karma'
-          },
-          {
             id: 'ekys_2026_egitim',
             name: '2026 EKYS Eğitim Bilimleri Çıkmış Soruları',
             icon: '📜',
@@ -1653,14 +1645,6 @@ class EKYSApp {
             desc: '2019 MEB EKYS sınavında çıkmış Eğitim Bilimleri soruları (Soru 33-40).',
             filterKey: 'ekys_2019_egitim',
             badge: '2019 Çıkmış'
-          },
-          {
-            id: 'egitim_tum',
-            name: '🌟 Tüm Eğitim Bilimleri Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm çıkmış Eğitim Bilimleri ve pedagoji sorularından oluşan karma soru havuzu.',
-            filterKey: 'egitim_bilimleri',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -1731,14 +1715,6 @@ class EKYSApp {
             desc: '2019 MEB EKYS sınavında çıkmış Eğitim Yönetimi soruları (Soru 41-64).',
             filterKey: 'ekys_2019_yonetim',
             badge: '2019 Çıkmış'
-          },
-          {
-            id: 'yonetim_tum',
-            name: '🌟 Tüm Eğitim Yönetimi Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Tüm çıkmış Eğitim Yönetimi, Liderlik ve Denetim sorularından oluşan karma test.',
-            filterKey: 'egitim_yonetimi',
-            badge: 'Karma Test'
           }
         ]
       },
@@ -2597,14 +2573,6 @@ class EKYSApp {
             badge: '15 Soru • Video Test 8'
           },
           {
-            id: 'egitim_video_tarama_tum',
-            name: '🌟 Eğitim Bilimleri Video Tarama (8 Test Karma)',
-            icon: '⚡',
-            desc: 'Tüm 1. ve 2. video tarama testlerinden oluşan 152 soruluk kapsamlı Eğitim Bilimleri soru havuzu.',
-            filterKey: 'egitim_video_tarama_tum',
-            badge: '152 Soru Karma'
-          },
-          {
             id: 'egitim_yonetimi_cat',
             name: '🎓 Eğitim Yönetimi, Liderlik & Okul Denetimi',
             icon: '🎓',
@@ -2635,14 +2603,6 @@ class EKYSApp {
             desc: 'Tüm resmî EKYS sınavlarında çıkmış 215+ Eğitim Yönetimi ve Eğitim Bilimleri sorusu.',
             filterKey: 'egitim_cikmis',
             badge: '215 Soru Çıkmış'
-          },
-          {
-            id: 'egitim_tum',
-            name: '🏆 Tüm Eğitim Bilimleri & Yönetim Karma Test',
-            icon: '🎯',
-            desc: 'Veritabanındaki tüm 380+ Eğitim Bilimleri ve Yönetimi sorusundan oluşan büyük soru havuzu.',
-            filterKey: 'egitim_tum',
-            badge: '380+ Soru Karma'
           }
         ]
       },
