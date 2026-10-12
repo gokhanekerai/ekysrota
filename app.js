@@ -607,18 +607,26 @@ class EKYSApp {
           },
           {
             id: 'tarih10',
-            name: 'Osmanlı Kültür ve Medeniyeti - 1 (Hükümdar, Yönetim Gücü ve Saray)',
-            icon: '🏛️',
-            desc: 'Hükümdarlık Kurumu, Yasama-Yürütme-Yargı, Topkapı Sarayı ve Hâkimiyet Sembolleri.',
+            name: 'Genel Tarih Test 10: Türkiye Tarihi (Anadolu Selçukluları & Beylikler)',
+            icon: '📜',
+            desc: 'Anadolu Selçuklu Devleti, I. Beylikler Dönemi, İmar Faaliyetleri, Medreseler ve Sosyal Yapı.',
             filterKey: 'tarih10',
-            badge: '20 Soru'
+            badge: '19 Soru'
           },
           {
             id: 'tarih11',
-            name: 'Osmanlı Kültür ve Medeniyeti - 2 (Veraset, Divan ve Bürokrasi)',
-            icon: '📜',
-            desc: 'Veraset Dönüşümleri, Divan Üyeleri, Bürokrasi Kalemleri, İlkler ve Eleyici Sorular.',
+            name: 'Genel Tarih Test 11: Osmanlı Kültür ve Medeniyeti - I (Merkez Teşkilatı & Hukuk)',
+            icon: '🏛️',
+            desc: 'Klasik Dönem Hukuk Sistemi, Merkez Teşkilatı, Millet Sistemi ve Hükümdarlık Alametleri.',
             filterKey: 'tarih11',
+            badge: '18 Soru'
+          },
+          {
+            id: 'tarih12',
+            name: 'Genel Tarih Test 12: Osmanlı Kültür ve Medeniyeti - II (Saray, Divan & İdari Hiyerarşi)',
+            icon: '📜',
+            desc: 'Şehzadeler ve Sancak Sistemi, Padişahın Yasama/Kulluk Yetkisi, Divan Hiyerarşisi ve Taşra Teşkilatı.',
+            filterKey: 'tarih12',
             badge: '20 Soru'
           },
           {
@@ -2847,10 +2855,11 @@ class EKYSApp {
       if (filterKey === 'tarih7') return (q.testId === 'tarih7' || tId === 'tarih_tarama_7' || (tName.includes('tarama 7') && tName.includes('tarih')));
       if (filterKey === 'tarih8') return (q.testId === 'tarih8' || tId === 'tarih_tarama_8' || (tName.includes('tarama 8') && tName.includes('tarih')));
       if (filterKey === 'tarih9') return (q.testId === 'tarih9' || tId === 'tarih_tarama_9' || (tName.includes('tarama 9') && tName.includes('tarih')));
-      if (filterKey === 'tarih10' || filterKey === 'tarih_osmanli_1') return (q.testId === 'tarih10' || tId === 'tarih_osmanli_1' || (tName.includes('osmanlı') && tName.includes('1')));
-      if (filterKey === 'tarih11' || filterKey === 'tarih_osmanli_2') return (q.testId === 'tarih11' || tId === 'tarih_osmanli_2' || (tName.includes('osmanlı') && tName.includes('2')));
+      if (filterKey === 'tarih10' || filterKey === 'tarih_turkiye') return (q.testId === 'tarih10' || tId === 'tarih_turkiye' || tName.includes('tarih 10'));
+      if (filterKey === 'tarih11' || filterKey === 'tarih_osmanli_1') return (q.testId === 'tarih11' || tId === 'tarih_osmanli_1' || tName.includes('tarih 11'));
+      if (filterKey === 'tarih12' || filterKey === 'tarih_osmanli_2') return (q.testId === 'tarih12' || tId === 'tarih_osmanli_2' || tName.includes('tarih 12'));
       if (filterKey === 'tarih_video4') return (q.testId === 'tarih_video4' || tId === 'tarih_video4');
-      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih9' || q.testId === 'tarih10' || q.testId === 'tarih11' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama') || tId.startsWith('tarih_osmanli'));
+      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih9' || q.testId === 'tarih10' || q.testId === 'tarih11' || q.testId === 'tarih12' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama') || tId.startsWith('tarih_osmanli'));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);
