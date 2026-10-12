@@ -4369,7 +4369,7 @@ class EKYSApp {
     const settingInput = document.getElementById('setting-daily-target-input');
     if (settingInput && document.activeElement !== settingInput) settingInput.value = dailyTarget;
 
-    const totalPoolCount = allQuestions.length || 1438;
+    const totalPoolCount = allQuestions.length || 1965;
     totalQuestionsAnswered = Math.min(totalQuestionsAnswered, totalPoolCount);
     const answeredTotal = (totalCorrectAnswers + totalWrongAnswers);
     const overallAccuracy = answeredTotal > 0 ? Math.round((totalCorrectAnswers / answeredTotal) * 100) : 0;
@@ -4378,13 +4378,13 @@ class EKYSApp {
     const accBadgeEl = document.getElementById('stats-accuracy-badge');
     if (overallAccEl) overallAccEl.textContent = `%${overallAccuracy}`;
     if (accBarEl) accBarEl.style.width = `${overallAccuracy}%`;
-    if (accBadgeEl) accBadgeEl.textContent = `${totalQuestionsAnswered} Benzersiz Soru / ${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
+    if (accBadgeEl) accBadgeEl.textContent = `${totalQuestionsAnswered} Çözülen Soru / ${totalCorrectAnswers} D / ${totalWrongAnswers} Y`;
 
     // 3. Testler Menüsündeki Tüm Sınav Kartlarının Tanımları
     const testHubCards = this.getTestHubCardsDefinition();
 
-    // 3.1 Üst 3 Ana İlerleme Kartı Verileri (Farklı Soru, Test Çözümü, Kümülatif Soru)
-    // 1) Farklı Soru Havuzu
+    // 3.1 Üst 2 Ana İlerleme Kartı Verileri (Çözülen Soru Sayısı, Toplam Test Çözümü)
+    // 1) Çözülen Soru Sayısı
     const farkliPct = totalPoolCount > 0 ? Math.min(100, Math.round((totalQuestionsAnswered / totalPoolCount) * 100)) : 0;
     const farkliRemain = Math.max(0, totalPoolCount - totalQuestionsAnswered);
     const farkliOffset = (163.36 * (1 - farkliPct / 100)).toFixed(1);
@@ -4411,14 +4411,12 @@ class EKYSApp {
     if (totalSolvedBarEl) totalSolvedBarEl.style.width = `${farkliPct}%`;
     if (totalPoolBadgeEl) totalPoolBadgeEl.textContent = `%${farkliPct} Tamamlandı`;
 
-    // 2) Toplam Test Çözümü ve 3) Kümülatif Soru Hacmi
+    // 2) Toplam Test Çözümü
     let totalAllTests = 0;
     let distinctSolvedAllTests = 0;
-    let totalCumulativePool = 0;
 
     testHubCards.forEach(card => {
       const catTests = this.getAllTestItemsForCategory(card.id);
-      const cardTotalPool = this.getCardTotalPool(card.id);
 
       if (catTests && catTests.length > 0) {
         totalAllTests += catTests.length;
@@ -4432,20 +4430,11 @@ class EKYSApp {
                    (hTitle && (hTitle.includes(name) || name.includes(hTitle)));
           });
           if (isSolved) distinctSolvedAllTests++;
-
-          const qList = this.getQuestionsForFilter(testItem.filterKey);
-          totalCumulativePool += (qList && qList.length) ? qList.length : 0;
         });
       } else {
-        const fallbackCount = (card.id === 'cikmis' ? 8 : card.id === 'denemeler' ? 8 : 10);
+        const fallbackCount = (card.id === 'cikmis' ? 8 : card.id === 'denemeler' ? 6 : 10);
         totalAllTests += fallbackCount;
-        totalCumulativePool += (card.id === 'cikmis' ? 640 : card.id === 'denemeler' ? 480 : cardTotalPool);
       }
-    });
-
-    let cumulativeSolvedCount = 0;
-    history.forEach(h => {
-      cumulativeSolvedCount += (h.totalQuestions || ((h.correctCount || 0) + (h.wrongCount || 0) + (h.emptyCount || 0)) || 0);
     });
 
     const testPct = totalAllTests > 0 ? Math.min(100, Math.round((distinctSolvedAllTests / totalAllTests) * 100)) : 0;
@@ -4465,23 +4454,6 @@ class EKYSApp {
     if (testCircleEl) testCircleEl.style.strokeDashoffset = testOffset;
     if (testCirclePctEl) testCirclePctEl.textContent = `%${testPct}`;
     if (testRemainEl) testRemainEl.textContent = `${testRemain} test kaldı`;
-
-    const cumulPct = totalCumulativePool > 0 ? Math.min(100, Math.round((cumulativeSolvedCount / totalCumulativePool) * 100)) : 0;
-    const cumulOffset = (163.36 * (1 - cumulPct / 100)).toFixed(1);
-
-    const cumulCountEl = document.getElementById('stats-cumul-count');
-    const cumulBarEl = document.getElementById('stats-cumul-bar');
-    const cumulBadgeEl = document.getElementById('stats-cumul-badge');
-    const cumulCircleEl = document.getElementById('stats-cumul-circle');
-    const cumulCirclePctEl = document.getElementById('stats-cumul-circle-pct');
-    const cumulRemainEl = document.getElementById('stats-cumul-remain');
-
-    if (cumulCountEl) cumulCountEl.textContent = `${cumulativeSolvedCount.toLocaleString('tr-TR')} / ${totalCumulativePool.toLocaleString('tr-TR')} Soru`;
-    if (cumulBarEl) cumulBarEl.style.width = `${cumulPct}%`;
-    if (cumulBadgeEl) cumulBadgeEl.textContent = `%${cumulPct} Tamamlandı`;
-    if (cumulCircleEl) cumulCircleEl.style.strokeDashoffset = cumulOffset;
-    if (cumulCirclePctEl) cumulCirclePctEl.textContent = `%${cumulPct}`;
-    if (cumulRemainEl) cumulRemainEl.textContent = `${totalAllTests} testlik pratik hacmi`;
 
     // 4. Her Test Hub Kartı İçin İstatistik Hesapla & HTML Üret
     const cardsGridEl = document.getElementById('stats-cards-grid');
@@ -4508,7 +4480,7 @@ class EKYSApp {
 
         // Bu kategorideki toplam testler ve çözülen test sayısı hesabı
         const catTests = this.getAllTestItemsForCategory(card.id);
-        const totalTests = catTests.length > 0 ? catTests.length : (card.id === 'cikmis' ? 8 : card.id === 'denemeler' ? 8 : 10);
+        const totalTests = catTests.length > 0 ? catTests.length : (card.id === 'cikmis' ? 8 : card.id === 'denemeler' ? 6 : 10);
 
         let distinctSolvedTests = 0;
         if (catTests.length > 0) {
@@ -4529,17 +4501,6 @@ class EKYSApp {
         const testSolveRate = totalTests > 0 ? Math.min(100, Math.round((distinctSolvedTests / totalTests) * 100)) : 0;
         const solveRate = totalPool > 0 ? Math.min(100, Math.round((solvedCount / totalPool) * 100)) : 0;
 
-        // 3. Metrik: Kümülatif Soru Hacmi (Tüm münferit testlerdeki soruların toplamı)
-        let cumulativePool = 0;
-        catTests.forEach(t => {
-          const q = this.getQuestionsForFilter(t.filterKey);
-          cumulativePool += q.length;
-        });
-        if (cumulativePool === 0) {
-          cumulativePool = card.id === 'cikmis' ? 640 : card.id === 'denemeler' ? 480 : totalPool;
-        }
-        const cumulativeRate = cumulativePool > 0 ? Math.min(100, Math.round((solvedCount / cumulativePool) * 100)) : 0;
-
         const theme = card.theme || {
           color: '#6366f1',
           gradStart: '#818cf8',
@@ -4554,7 +4515,6 @@ class EKYSApp {
         const circ = 150.8;
         const diffOffset = (circ * (1 - solveRate / 100)).toFixed(1);
         const testOffset = (circ * (1 - testSolveRate / 100)).toFixed(1);
-        const cumuOffset = (circ * (1 - cumulativeRate / 100)).toFixed(1);
 
         return `
           <div class="card" style="border: 1px solid ${theme.border}; background: ${theme.bg}; display: flex; flex-direction: column; justify-content: space-between; border-radius: 14px; transition: all 0.25s ease; box-shadow: 0 4px 18px rgba(0,0,0,0.25);" onmouseover="this.style.transform='translateY(-3px)'; this.style.borderColor='${theme.color}'; this.style.boxShadow='0 8px 25px ${theme.glow}'" onmouseout="this.style.transform='none'; this.style.borderColor='${theme.border}'; this.style.boxShadow='0 4px 18px rgba(0,0,0,0.25)'">
@@ -4566,13 +4526,13 @@ class EKYSApp {
               <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; color: #ffffff;">${card.title}</h3>
               <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.4;">${card.subTitle}</p>
 
-              <!-- 3'lü İstatistik Gösterge Çemberleri (Farklı Soru, Test Çözümü, Kümülatif Hacim) -->
-              <div style="background: rgba(15, 23, 42, 0.75); padding: 12px 6px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06); margin-bottom: 14px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px; text-align: center;">
+              <!-- 2'li İstatistik Gösterge Çemberleri (Çözülen Soru, Test Çözümü) -->
+              <div style="background: rgba(15, 23, 42, 0.75); padding: 12px 10px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.06); margin-bottom: 14px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; text-align: center;">
                 
-                <!-- 1. Çember: Farklı Soru Çözümü -->
+                <!-- 1. Çember: Çözülen Soru -->
                 <div style="display: flex; flex-direction: column; align-items: center;">
-                  <div style="position: relative; width: 58px; height: 58px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
-                    <svg width="58" height="58" viewBox="0 0 58 58" style="transform: rotate(-90deg); filter: drop-shadow(0 0 3px rgba(6, 182, 212, 0.45));">
+                  <div style="position: relative; width: 62px; height: 62px; display: flex; align-items: center; justify-content: center; margin-bottom: 6px;">
+                    <svg width="62" height="62" viewBox="0 0 58 58" style="transform: rotate(-90deg); filter: drop-shadow(0 0 3px rgba(6, 182, 212, 0.45));">
                       <defs>
                         <linearGradient id="ring-grad-diff-${card.id}" x1="0%" y1="0%" x2="100%" y2="100%">
                           <stop offset="0%" stop-color="#06b6d4" />
@@ -4591,17 +4551,17 @@ class EKYSApp {
                       />
                     </svg>
                     <div style="position: absolute; display: flex; align-items: center; justify-content: center; pointer-events: none;">
-                      <span style="font-size: 0.82rem; font-weight: 800; color: #ffffff; line-height: 1;">%${solveRate}</span>
+                      <span style="font-size: 0.88rem; font-weight: 800; color: #ffffff; line-height: 1;">%${solveRate}</span>
                     </div>
                   </div>
-                  <div style="font-size: 0.7rem; font-weight: 700; color: #67e8f9; margin-bottom: 2px;">📌 Farklı Soru</div>
-                  <div style="font-size: 0.65rem; font-weight: 700; color: #cbd5e1;">${solvedCount} / ${totalPool}</div>
+                  <div style="font-size: 0.74rem; font-weight: 700; color: #67e8f9; margin-bottom: 2px;">📌 Çözülen Soru</div>
+                  <div style="font-size: 0.7rem; font-weight: 700; color: #cbd5e1;">${solvedCount} / ${totalPool}</div>
                 </div>
 
                 <!-- 2. Çember: Test Çözümü -->
                 <div style="display: flex; flex-direction: column; align-items: center;">
-                  <div style="position: relative; width: 58px; height: 58px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
-                    <svg width="58" height="58" viewBox="0 0 58 58" style="transform: rotate(-90deg); filter: drop-shadow(0 0 3px rgba(99, 102, 241, 0.45));">
+                  <div style="position: relative; width: 62px; height: 62px; display: flex; align-items: center; justify-content: center; margin-bottom: 6px;">
+                    <svg width="62" height="62" viewBox="0 0 58 58" style="transform: rotate(-90deg); filter: drop-shadow(0 0 3px rgba(99, 102, 241, 0.45));">
                       <defs>
                         <linearGradient id="ring-grad-test-${card.id}" x1="0%" y1="0%" x2="100%" y2="100%">
                           <stop offset="0%" stop-color="#6366f1" />
@@ -4620,40 +4580,11 @@ class EKYSApp {
                       />
                     </svg>
                     <div style="position: absolute; display: flex; align-items: center; justify-content: center; pointer-events: none;">
-                      <span style="font-size: 0.82rem; font-weight: 800; color: #ffffff; line-height: 1;">%${testSolveRate}</span>
+                      <span style="font-size: 0.88rem; font-weight: 800; color: #ffffff; line-height: 1;">%${testSolveRate}</span>
                     </div>
                   </div>
-                  <div style="font-size: 0.7rem; font-weight: 700; color: #a5b4fc; margin-bottom: 2px;">📋 Test Çözümü</div>
-                  <div style="font-size: 0.65rem; font-weight: 700; color: #cbd5e1;">${distinctSolvedTests} / ${totalTests}</div>
-                </div>
-
-                <!-- 3. Çember: Kümülatif Soru Çözümü -->
-                <div style="display: flex; flex-direction: column; align-items: center;">
-                  <div style="position: relative; width: 58px; height: 58px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
-                    <svg width="58" height="58" viewBox="0 0 58 58" style="transform: rotate(-90deg); filter: drop-shadow(0 0 3px rgba(16, 185, 129, 0.45));">
-                      <defs>
-                        <linearGradient id="ring-grad-cumul-${card.id}" x1="0%" y1="0%" x2="100%" y2="100%">
-                          <stop offset="0%" stop-color="#10b981" />
-                          <stop offset="100%" stop-color="#34d399" />
-                        </linearGradient>
-                      </defs>
-                      <circle cx="29" cy="29" r="24" stroke="rgba(255,255,255,0.08)" stroke-width="4" fill="none" />
-                      <circle cx="29" cy="29" r="24" 
-                        stroke="url(#ring-grad-cumul-${card.id})" 
-                        stroke-width="4" 
-                        stroke-linecap="round" 
-                        fill="none" 
-                        stroke-dasharray="150.8" 
-                        stroke-dashoffset="${cumuOffset}" 
-                        style="transition: stroke-dashoffset 0.8s cubic-bezier(0.4, 0, 0.2, 1);"
-                      />
-                    </svg>
-                    <div style="position: absolute; display: flex; align-items: center; justify-content: center; pointer-events: none;">
-                      <span style="font-size: 0.82rem; font-weight: 800; color: #ffffff; line-height: 1;">%${cumulativeRate}</span>
-                    </div>
-                  </div>
-                  <div style="font-size: 0.7rem; font-weight: 700; color: #6ee7b7; margin-bottom: 2px;">🎯 Kümülatif</div>
-                  <div style="font-size: 0.65rem; font-weight: 700; color: #cbd5e1;">${solvedCount} / ${cumulativePool.toLocaleString('tr-TR')}</div>
+                  <div style="font-size: 0.74rem; font-weight: 700; color: #a5b4fc; margin-bottom: 2px;">📋 Test Çözümü</div>
+                  <div style="font-size: 0.7rem; font-weight: 700; color: #cbd5e1;">${distinctSolvedTests} / ${totalTests}</div>
                 </div>
 
               </div>
@@ -4683,7 +4614,7 @@ class EKYSApp {
     const group = dataMap[cardId];
     if (!group || !Array.isArray(group.items) || group.items.length === 0) {
       if (cardId === 'cikmis') return 640;
-      if (cardId === 'denemeler') return 480;
+      if (cardId === 'denemeler') return 160;
       return 100;
     }
 
@@ -4700,7 +4631,7 @@ class EKYSApp {
 
     // 2. Özel durumlar: cikmis ve denemeler
     if (cardId === 'cikmis') return 640;
-    if (cardId === 'denemeler') return 480;
+    if (cardId === 'denemeler') return 160;
 
     // 3. Doğrudan alt testler (Karma test hariç tutularak tek tek testlerin toplam soru sayısı)
     let sum = 0;
@@ -4904,13 +4835,13 @@ class EKYSApp {
     uniqueBest.forEach(h => {
       totalQuestionsAnswered += (h.totalQuestions || ((h.correctCount || 0) + (h.wrongCount || 0) + (h.emptyCount || 0)) || 0);
     });
-    const totalPoolCount = allQuestions.length || 1272;
+    const totalPoolCount = allQuestions.length || 1965;
     totalQuestionsAnswered = Math.min(totalQuestionsAnswered, totalPoolCount);
 
     this.renderStatsCharts(history, allQuestions, dailyTarget, this.getTestHubCardsDefinition(), totalQuestionsAnswered, totalPoolCount);
   }
 
-  renderStatsCharts(history, allQuestions, dailyTarget, testHubCards, totalQuestionsAnswered = 0, totalPoolCount = 1272) {
+  renderStatsCharts(history, allQuestions, dailyTarget, testHubCards, totalQuestionsAnswered = 0, totalPoolCount = 1965) {
     if (typeof Chart === 'undefined') return;
 
     // --- 1. ÇUBUK GRAFİK (BAR CHART): Son 7 Günlük Çözülen Soru vs Günlük Hedef ---
@@ -5007,7 +4938,7 @@ class EKYSApp {
       }
 
       const solved = totalQuestionsAnswered || 0;
-      const totalPool = totalPoolCount || 1272;
+      const totalPool = totalPoolCount || 1965;
       const remaining = Math.max(0, totalPool - solved);
       const solvedPct = totalPool > 0 ? Math.round((solved / totalPool) * 100) : 0;
       const remainingPct = 100 - solvedPct;
