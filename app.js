@@ -598,6 +598,14 @@ class EKYSApp {
             badge: '20 Soru Video Test'
           },
           {
+            id: 'tarih13_direct',
+            name: '🏛️ Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III',
+            icon: '🏛️',
+            desc: 'Başkent Teşkilatı, Taşra & Eyalet İdaresi, Kapıkulu Ordusu ve Hukuk Sistemi (20 Soru).',
+            filterKey: 'tarih13',
+            badge: '20 Soru Video Test'
+          },
+          {
             id: 'ekys_2026_tarih_card',
             name: '📜 2026 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
@@ -770,6 +778,14 @@ class EKYSApp {
             icon: '📜',
             desc: 'Şehzadeler ve Sancak Sistemi, Padişahın Yasama/Kulluk Yetkisi, Divan Hiyerarşisi ve Taşra Teşkilatı.',
             filterKey: 'tarih12',
+            badge: '20 Soru'
+          },
+          {
+            id: 'tarih13',
+            name: 'Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)',
+            icon: '🏛️',
+            desc: 'Başkent Teşkilatı, 1871 Vilayet Nizamnamesi, Salyaneli/İmtiyazlı Eyaletler, Altı Bölük Halkı ve Hukuk.',
+            filterKey: 'tarih13',
             badge: '20 Soru'
           },
           {
@@ -2957,8 +2973,9 @@ class EKYSApp {
       if (filterKey === 'tarih10' || filterKey === 'tarih_turkiye') return (q.testId === 'tarih10' || tId === 'tarih_turkiye' || tName.includes('tarih 10'));
       if (filterKey === 'tarih11' || filterKey === 'tarih_osmanli_1') return (q.testId === 'tarih11' || tId === 'tarih_osmanli_1' || tName.includes('tarih 11'));
       if (filterKey === 'tarih12' || filterKey === 'tarih_osmanli_2') return (q.testId === 'tarih12' || tId === 'tarih_osmanli_2' || tName.includes('tarih 12'));
+      if (filterKey === 'tarih13' || filterKey === 'tarih_osmanli_3') return (q.testId === 'tarih13' || tId === 'tarih_osmanli_3' || tName.includes('tarih 13'));
       if (filterKey === 'tarih_video4') return (q.testId === 'tarih_video4' || tId === 'tarih_video4');
-      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih9' || q.testId === 'tarih10' || q.testId === 'tarih11' || q.testId === 'tarih12' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama') || tId.startsWith('tarih_osmanli'));
+      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih9' || q.testId === 'tarih10' || q.testId === 'tarih11' || q.testId === 'tarih12' || q.testId === 'tarih13' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama') || tId.startsWith('tarih_osmanli'));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);

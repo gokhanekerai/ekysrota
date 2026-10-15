@@ -71325,5 +71325,745 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı'da taht kavgaları (örneğin Cem Sultan Olayı, Fetret Devri):<br>• Merkezi otoriteyi zayıflatmış (I),<br>• Veraset sisteminin zorunlu olarak I. Murad, Fatih ve I. Ahmed tarafından değiştirilmesine yol açmış (II),<br>• Papalık, Şövalyeler veya Safeviler gibi dış güçlerin iç işlere karışmasına zemin hazırlamıştır (III)."
+  },
+  {
+    "id": "tarih13-q1",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Osmanlı Devleti'nde beylik dönemindeki idare merkezlerinin ardından başkentin sırasıyla Bursa, Edirne ve İstanbul'a taşınmasında;\nI. Gaza ve cihat politikasını Rumeli ve Balkanlara doğru sürdürme,\nII. Fetih alanlarına yakın olarak askeri sevkıyat ve lojistiği kolaylaştırma,\nIII. Anadolu Türk siyasi birliğini barışçıl yollarla tamamlama\ngerekçelerinden hangileri temel belirleyici etken olmuştur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti başkentini stratejik olarak batıya (Bursa → Edirne → İstanbul) taşımıştır. Bu taşınmaların temel gerekçesi gaza ve cihat politikasını sürdürmek (I) ve Rumeli/Balkanlardaki fetih sahalarına yakın olarak askeri sevkıyat ile lojistiği hızlandırmaktır (II). Anadolu beylikleriyle mücadele başkentin batıya taşınmasının gerekçesi değil, aksine batıya yoğunlaşmanın önündeki iç siyasi meseledir (III elenir).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I. Öncül:</strong> Doğrudur, batı yönlü gaza ve cihat politikasının gereğidir.<br>• <strong>II. Öncül:</strong> Doğrudur, fetih hatlarına yakınlık lojistik ve askeri avantaj sağlar.<br>• <strong>III. Öncül:</strong> Yanlıştır, başkentin Edirne'ye nakli Anadolu birliği için değil, Balkan fetihleri içindir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Söğüt ve Yenişehir beylik karargâhıdır; ilk resmi başkent Bursa'dır. Başkent nakillerinde ÖSYM'nin aradığı anahtar ölçüt <em>'Fetih sahasına yakın olma'</em> ilkesidir."
+  },
+  {
+    "id": "tarih13-q2",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Osmanlı Devleti'nde payitahtın (İstanbul) idare ve asayişinde görev alan;\nI. Sadaret Kethüdası,\nII. Şehremini,\nIII. Asesbaşı\nyetkililerinden hangileri doğrudan mülki idare veya asayiş hizmetleriyle görevlendirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sadaret Kethüdası, Sadrazamın vekili olarak İstanbul'un genel mülki asayiş amiridir ve XIX. yüzyılda Dahiliye (İçişleri) Nezareti'ne dönüştürülmüştür (I). Şehremini başkentin belediye başkanı olup kamu düzeni, temizlik ve imardan sorumludur (II). Asesbaşı ise başkentin gece bekçibaşısı ve gece güvenliği amiridir (III). Üç görevli de payitahtın idari ve asayiş zincirinde yer alır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I, II ve III:</strong> Öncüllerin tamamı payitahtın mülki ve asayiş mekanizmasının temel unsurlarıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Sadrazam (Genel amir) → Sadaret Kethüdası (Mülki vekil / İçişleri) → Şehremini (Belediye) → Asesbaşı (Gece güvenliği) hiyerarşisi soru köklerinde sıkça test edilir."
+  },
+  {
+    "id": "tarih13-q3",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Osmanlı Devleti'nde başkentin belediye ve imar hizmetlerini yürüten görevli ile çarşı ve pazarların fiyat, kalite ve tartı denetimini yapan görevli aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Muhtesip — Şehremini"
+      },
+      {
+        "key": "B",
+        "text": "Şehremini — Muhtesip"
+      },
+      {
+        "key": "C",
+        "text": "Kapan Emini — Asesbaşı"
+      },
+      {
+        "key": "D",
+        "text": "Şehremini — Kapan Emini"
+      },
+      {
+        "key": "E",
+        "text": "Subaşı — Muhtesip"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Şehremini — Muhtesip)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Başkentin belediye başkanı <strong>Şehremini</strong>dir (Şehremaneti). Çarşı, pazar, tartı aletleri, narh (fiyat standardı) ve dükkân temizliğini denetleyen zabıta amiri ise <strong>Muhtesip</strong>tir (İhtisap ağası).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A Şıkkı:</strong> Görevler ters çevrilmiştir; ÖSYM'nin en sevdiği terim tuzağıdır.<br>• <strong>C Şıkkı:</strong> Kapan emini toptancı hal müdürüdür; Asesbaşı ise gece bekçisidir.<br>• <strong>D Şıkkı:</strong> Kapan emini toptan gıda tartım ve dağıtım memurudur.<br>• <strong>E Şıkkı:</strong> Subaşı taşradaki güvenlik amiridir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br><em>Şehremini = Belediye Başkanı</em>, <em>Muhtesip = Zabıta</em>. Soru köklerinde bu iki kavramı kesinlikle birbirine karıştırmayınız."
+  },
+  {
+    "id": "tarih13-q4",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "Osmanlı başkentinde geceleri sokakların asayişini sağlayan, devriyeleri idare eden ve emrindeki bekçilerle kamu düzenini temin eden güvenlik yetkilisi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Subaşı"
+      },
+      {
+        "key": "B",
+        "text": "Böcekbaşı"
+      },
+      {
+        "key": "C",
+        "text": "Asesbaşı"
+      },
+      {
+        "key": "D",
+        "text": "Çorbacıbaşı"
+      },
+      {
+        "key": "E",
+        "text": "Bostancıbaşı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Asesbaşı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Başkent İstanbul'da gece asayişinden sorumlu olan, bekçileri (asesleri) sevk ve idare eden güvenlik amirine <strong>Asesbaşı</strong> denir. Gündüz güvenliğinden ise Yeniçeri Ağası sorumludur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A) Subaşı:</strong> Taşra sancak ve kazalarının genel güvenlik amiridir.<br>• <strong>B) Böcekbaşı:</strong> Suçluları ve hırsızları yakalayan gizli polis/hafiye amiridir.<br>• <strong>D) Çorbacıbaşı:</strong> Yeniçeri bölüklerinin (orta) komutanıdır.<br>• <strong>E) Bostancıbaşı:</strong> Saray çevresinin, Boğaziçi ve iskelelerin güvenliğinden sorumludur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Gündüz güvenliği: Yeniçeri Ağası / Gece güvenliği: Asesbaşı / Suçlu takibi: Böcekbaşı ayrımı esastır."
+  },
+  {
+    "id": "tarih13-q5",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Osmanlı taşra teşkilatında Beylerbeyi veya Sancakbeyi sefere çıktığında, merkezde kalan yönetim bölgesinin idari ve mülki işlerini yürütmek üzere vekil bıraktığı görevliye ne ad verilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mütesellim"
+      },
+      {
+        "key": "B",
+        "text": "Yiğitbaşı"
+      },
+      {
+        "key": "C",
+        "text": "Kethüda"
+      },
+      {
+        "key": "D",
+        "text": "Naib"
+      },
+      {
+        "key": "E",
+        "text": "Mültezim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mütesellim)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sancakbeyi veya Beylerbeyi sefere çıktığında veya başkente çağrıldığında, sancak ve vilayetin yönetimini vekâleten üstlenen kişiye <strong>Mütesellim</strong> denir. Mütesellim, yöneticinin yokluğunda asayişi ve vergi düzenini sağlar.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B) Yiğitbaşı:</strong> Esnaf teşkilatında disiplin ve güvenliği sağlayan esnaf temsilcisidir.<br>• <strong>C) Kethüda:</strong> Loncalarda veya devlet ricalinde kâhya/yardımcıdır.<br>• <strong>D) Naib:</strong> Kadının yerine bakan vekil hâkimdir.<br>• <strong>E) Mültezim:</strong> İltizam ihalesini kazanıp peşin vergi toplayan şahıstır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Kadının vekili = <strong>Naib</strong>, Sancakbeyi veya Valinin vekili = <strong>Mütesellim</strong>dir."
+  },
+  {
+    "id": "tarih13-q6",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Osmanlı Devleti'nde taşra teşkilatının yeniden düzenlendiği 1864 ve 1871 Vilayet Nizamnameleri ile ilgili;\nI. Eyalet sisteminden vilayet sistemine geçilmesi,\nII. 1871 düzenlemesiyle kaza ile köy arasına 'nahiye' biriminin eklenmesi,\nIII. Nahiyelerin başına 'nahiye müdürü' tayin edilmesi\nbilgilerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1864 Vilayet Nizamnamesi ile eyaletler vilayete dönüştürülmüştür (I). 1871 Vilayet Nizamnamesi ile kaza ile köy arasına <strong>nahiye</strong> kademesi eklenmiş (II) ve bu birimin idaresine 'nahiye müdürü' atanmıştır (III). Verilen öncüllerin tümü bu iki nizamnamenin getirdiği temel yeniliklerdir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I, II ve III:</strong> Öncüllerin üçü de taşra teşkilatlanmasının reform sürecini doğru aktarmaktadır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>1871 Nizamnamesi'nin tek ve en belirleyici ayırt edici sınav sorusu: <em>'Kaza ile köy arasına eklenen idari kademe hangisidir? → Nahiye'</em>dir."
+  },
+  {
+    "id": "tarih13-q7",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Osmanlı Devleti'nde merkeze uzak olan Salyaneli (yıllıklı) eyaletlerle ilgili;\nI. Vergilerin açık artırma usulüyle iltizam sistemine göre toplanması,\nII. Toprakların tımarlı sipahilere dirlik olarak dağıtılıp cebelü yetiştirilmesi,\nIII. Elde edilen gelirlerin doğrudan devlet hazinesine nakit aktarılması\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Salyaneli eyaletler merkeze uzak bölgelerdir (Mısır, Trablusgarp, Bağdat, Tunus vb.). Buralarda vergi iltizam yoluyla toplanır (I) ve hazineye nakit gelir aktarılır (III). Tımar sistemi ve cebelü (atlı asker) yetiştirilmesi ise merkeze yakın <strong>Salyanesiz (yıllıksız)</strong> eyaletlerde uygulanır (II elenir).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I. Öncül:</strong> Doğrudur, iltizam sistemi esastır.<br>• <strong>II. Öncül:</strong> Yanlıştır, Salyaneli eyaletlerde Tımar uygulanmaz!<br>• <strong>III. Öncül:</strong> Doğrudur, mukataa araziler doğrudan hazineye nakit sağlar.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Salyane = Yıllık maaş/nakit demektir. Salyaneli eyaletlerde Tımar <strong>YOKTUR</strong>, İltizam <strong>VARDIR</strong>!"
+  },
+  {
+    "id": "tarih13-q8",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Osmanlı Devleti'nde XVIII. yüzyıldan itibaren uygulanan 'Malikâne sistemi' ile ilgili;\nI. Hazineye nakit sağlamak amacıyla mukataa arazilerinin mültezimlere ömür boyu kiralanmasıdır,\nII. Taşrada merkezi otoriteyi zayıflatan âyan ve eşraf sınıfının güçlenmesine zemin hazırlamıştır,\nIII. Tımar arazilerinin hızla genişlemesini ve cebelü sayısının artmasını sağlamıştır\nifadelerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Malikâne sistemi, mukataa arazilerinin mültezimlere kaydıhayat (ömür boyu) şartıyla kiralanmasıdır (I). Toprağı ömür boyu elinde tutan mültezimler yerel nüfuz kazanarak <strong>Âyan ve Eşraf</strong> sınıfını doğurmuş, merkezi otoriteyi sarsmıştır (II). Bu sistem tımar arazilerinin iltizama devredilmesiyle tımarı genişletmemiş, aksine yok etmiştir (III elenir).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I. Öncül:</strong> Doğrudur, ömür boyu iltizam modelidir.<br>• <strong>II. Öncül:</strong> Doğrudur, Sened-i İttifak'a giden âyan gücünün kaynağıdır.<br>• <strong>III. Öncül:</strong> Yanlıştır, tımar sistemini çökerten temel unsurdur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Ömür boyu iltizam = <strong>Malikâne</strong>; Malikâne sisteminin taşrada doğurduğu yerel feodal güç = <strong>Âyanlar</strong>."
+  },
+  {
+    "id": "tarih13-q9",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Osmanlı Devleti'nde 'Garp Ocakları' olarak adlandırılan eyaletler ve bu eyaletlerin yöneticilerine verilen unvan aşağıdakilerin hangisinde doğru verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Trablusgarp - Tunus - Cezayir / Dayı"
+      },
+      {
+        "key": "B",
+        "text": "Kırım - Boğdan - Erdel / Voyvoda"
+      },
+      {
+        "key": "C",
+        "text": "Mısır - Yemen - Hicaz / Hidiv"
+      },
+      {
+        "key": "D",
+        "text": "Bosna - Hersek - Belgrad / Kaptan-ı Derya"
+      },
+      {
+        "key": "E",
+        "text": "Eflak - Boğdan - Kırım / Giray"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Trablusgarp - Tunus - Cezayir / Dayı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kuzey Afrika'daki denizci eyaletler olan <strong>Trablusgarp, Tunus ve Cezayir</strong> Osmanlı terminolojisinde <strong>Garp Ocakları</strong> olarak adlandırılır. Bu eyaletlerin başında bulunan yöneticilere ise <strong>Dayı</strong> unvanı verilir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B ve E Şıkları:</strong> Eflak ve Boğdan yöneticilerine Voyvoda; Kırım hanlarına Giray denir.<br>• <strong>C Şıkkı:</strong> Hidiv XIX. yüzyılda Mısır valilerine verilen özel unvandır.<br>• <strong>D Şıkkı:</strong> Bosna ve Belgrad Balkan vilayetleridir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Garp Ocakları yöneticisi = <strong>Dayı</strong>, Mısır valisi = <strong>Hidiv</strong>, Eflak-Boğdan yöneticisi = <strong>Voyvoda</strong>."
+  },
+  {
+    "id": "tarih13-q10",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Osmanlı Devleti'nin imtiyazlı (ayrıcalıklı) eyaletlerinden;\nI. Hicaz,\nII. Kırım Hanlığı,\nIII. Eflak ve Boğdan\nhangileri devlete 'yıllık vergi ödemekle' yükümlü tutulmamıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hicaz kutsal bölgedir; devlete vergi vermez, asker göndermez, üstüne her yıl Surre Alayı ile hediye ve yardım alır (I). Kırım Hanlığı ise savaş zamanı orduya süvari desteği gönderir ancak devlete vergi vermez (II). Eflak ve Boğdan ise devlete hem vergi verir hem asker gönderir (III vergi verdiği için elenir). Vergi vermeyenler I ve II'dir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I (Hicaz):</strong> Ne vergi verir ne asker gönderir.<br>• <strong>II (Kırım):</strong> Asker gönderir, vergi vermez.<br>• <strong>III (Eflak-Boğdan):</strong> Hem vergi verir hem asker gönderir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Vergi ödemeyen iki imtiyazlı eyalet: <strong>Hicaz</strong> ve <strong>Kırım</strong>'dır. Bu ayrım sınavların en yüksek ayırt ediciliğe sahip sorusudur."
+  },
+  {
+    "id": "tarih13-q11",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Acemi Oğlanlar Ocağı'ndaki eğitimini tamamlayan devşirmelerin Yeniçeri Ocağı'na veya diğer Kapıkulu ocaklarına geçiş yapmalarını ifade eden tabir aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bedergâh (Kapıya Çıkma)"
+      },
+      {
+        "key": "B",
+        "text": "Pençik"
+      },
+      {
+        "key": "C",
+        "text": "Cülus"
+      },
+      {
+        "key": "D",
+        "text": "Esame"
+      },
+      {
+        "key": "E",
+        "text": "İltizam"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bedergâh / Kapıya Çıkma)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Acemi Ocağı'nda temel eğitimini ve Türk-İslam terbiyesini tamamlayan askerlerin Yeniçeri Ocağı'na veya diğer saray birimlerine atanıp asıl askerliğe başlamalarına <strong>Bedergâh</strong> ya da halk tabiriyle <strong>Kapıya Çıkma</strong> denir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B) Pençik:</strong> Savaş esirlerinin beşte birinin orduya alınması kanunudur.<br>• <strong>C) Cülus:</strong> Padişahın tahta çıkış töreni ve dağıttığı bahşiştir.<br>• <strong>D) Esame:</strong> Yeniçerilerin maaş defterleri ve cüzdanlarıdır.<br>• <strong>E) İltizam:</strong> Vergi toplama ihale usulüdür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Acemi Ocağı'ndan Yeniçeri Ocağı'na terfi/geçiş = <strong>Bedergâh</strong>."
+  },
+  {
+    "id": "tarih13-q12",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "Osmanlı Yeniçeri Ocağı ile ilgili;\nI. Bölüklerine 'orta', bölük komutanlarına 'çorbacıbaşı' denmesi,\nII. Maaşlarının ve kimliklerinin 'esame' adı verilen defterlere kaydedilmesi,\nIII. Manevi olarak Hacı Bektaş-ı Veli felsefesine (Bektaşilik) bağlı olmaları\nözelliklerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Yeniçeri bölüklerine orta, komutanlarına çorbacıbaşı denir (I). Maaş kayıt defterlerine esame denir (II). Yeniçeriler manevi pir olarak Hacı Bektaş-ı Veli'yi kabul eder, törenlerde gülbank okur ve Bektaşilik tarikatına bağlıdır (III). Öncüllerin üçü de doğrudur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I, II ve III:</strong> Öncüllerin tamamı Yeniçeri teşkilatının müfredattaki temel kavramsal dayanaklarıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Orta → Çorbacıbaşı → Esame → Gülbank → Bektaşilik. Bu 5 kavram Yeniçeri Ocağı sorularının iskeletidir."
+  },
+  {
+    "id": "tarih13-q13",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "Osmanlı Kapıkulu Süvarileri (Altı Bölük Halkı) içinde yer alan;\nI. Sipahi ve Silahtarlar,\nII. Sağ ve Sol Ulufeciler,\nIII. Sağ ve Sol Garipler\nbirliklerinden hangileri sefer ve savaş esnasında 'saltanat sancaklarını ve bayrakları' korumakla görevlendirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Savaş esnasında saltanat sancaklarını ve ordu bayraklarını koruyan süvari birliği <strong>Sağ ve Sol Ulufeciler</strong>dir (II). Sipahi ve Silahtarlar padişahın çadırını ve canını korur (I). Sağ ve Sol Garipler ise ordu hazinesini ve ordu ağırlıklarını korur (III).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I (Sipahi/Silahtar):</strong> Padişahı korur.<br>• <strong>II (Ulufeciler):</strong> Bayrak ve sancakları korur.<br>• <strong>III (Garipler):</strong> Hazine ve ağırlıkları korur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br><strong>Ulufeciler = Bayrak/Sancak</strong>, <strong>Garipler = Para/Hazine ve Ağırlık</strong>, <strong>Silahtar/Sipahi = Padişah</strong>."
+  },
+  {
+    "id": "tarih13-q14",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Osmanlı ordusunda yer alan;\nI. Sağ Garip,\nII. Cebeci,\nIII. Silahtar\naskeri sınıflarından hangileri 'Kapıkulu Süvarileri (Altı Bölük Halkı)' grubuna dahildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sağ Garip ve Silahtar, Kapıkulu ordusunun <strong>Süvari (atlı)</strong> sınıfı olan Altı Bölük Halkı içindedir (I ve III). <strong>Cebeciler</strong> ise silah yapım ve onarımıyla görevli <strong>Kapıkulu Piyadeleri (yaya)</strong> sınıfındandır; süvari değildir (II elenir).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I ve III:</strong> Altı Bölük Halkı atlılarıdır.<br>• <strong>II (Cebeci):</strong> Kapıkulu piyadesidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Altı Bölük Halkı sadece <strong>Süvari (Atlı)</strong> olanlardır! Yeniçeri, Cebeci veya Topçular saray askeri olsalar bile piyadedir, süvari değildir."
+  },
+  {
+    "id": "tarih13-q15",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "Osmanlı askeri teşkilatında görev yapan;\nI. Martolos — Sarp dağ geçitlerini ve kaleleri koruyan Hristiyan muhafızlar,\nII. Voynuk — Ordunun ve sarayın at bakımıyla ilgilenen Bulgar Hristiyan askerler,\nIII. Azap — Ordunun en ön saflarında hücum eden Müslüman bekar Türk gençleri\neşleştirmelerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Martoloslar stratejik geçitleri ve kaleleri koruyan Hristiyan muhafızlardır (I). Voynuklar saray ve ordu atlarının çayır ve bakımından sorumlu Hristiyan Bulgar birlikleridir (II). Azaplar ise ordu önünde savaşan bekar Müslüman Türk piyadeleridir (III). Üç eşleştirme de ders içeriğiyle birebir örtüşür.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I, II ve III:</strong> Öncüllerin üçü de hocanın sınavda soru getireceğini belirttiği askeri unsurlardır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>ÖSYM 2014 KPSS'de 'Voynuk' sorusunu sormuştu. Bir sonraki favori: <strong>Martolos</strong> (Hristiyan geçit muhafızı) ve <strong>Cerrahor</strong> (Hristiyan hendekçi/istihkâmcı) birlikleridir."
+  },
+  {
+    "id": "tarih13-q16",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "Osmanlı hukukunda kadılar ile ilgili;\nI. Yargı yetkisinin yanında bulundukları kazanın belediye ve genel idari amiri olmaları,\nII. Atama, tayin ve azillerinin Kazasker tarafından yapılması,\nIII. Verdikleri kararların kesin olup hiçbir makam tarafından temyiz edilememesi\nyargılarından hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kadı sadece yargıç değil, kazanın mülki amiridir (I). Kadıların atama ve denetimi Kazasker tarafından yürütülür (II). Ancak kadı kararları nihai ve değiştirilemez değildir; haksızlığa uğrayanlar Divân-ı Hümâyun'a başvurabilir ve <strong>Kazasker</strong> kadı kararını temyizen bozar ya da onar (III kesinlikle yanlıştır).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I. Öncül:</strong> Doğrudur (yargı + mülki idare görevi).<br>• <strong>II. Öncül:</strong> Doğrudur (Kazasker atar).<br>• <strong>III. Öncül:</strong> Yanlıştır, kadı kararlarının temyizi vardır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Hocanın derste defalarca vurguladığı ÖSYM tuzağı: <em>'Kadı kararlarına itiraz edilemez'</em> cümlesi tarihi bir yanlıştır. Kazasker bir nevi <strong>Yargıtay / Temyiz</strong> makamıdır."
+  },
+  {
+    "id": "tarih13-q17",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "Osmanlı mahkemelerinde davalı ve davacı tarafları mahkemeye çağıran, celbeden ve hâkim huzuruna çıkmasını sağlayan zabıta/mübaşir niteliğindeki adli görevli aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Naib"
+      },
+      {
+        "key": "B",
+        "text": "Muhzır"
+      },
+      {
+        "key": "C",
+        "text": "Kassam"
+      },
+      {
+        "key": "D",
+        "text": "Muid"
+      },
+      {
+        "key": "E",
+        "text": "Katip"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Muhzır)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Mahkemede kadının emirlerini uygulayan, davalıları mahkemeye getiren, tutuklama ve çağrı işlemlerini yürüten zabıta görevlisine <strong>Muhzır</strong> denir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A) Naib:</strong> Kadı vekili yardımcı hâkimdir.<br>• <strong>C) Kassam:</strong> Miras taksim eden şer'i memurdur.<br>• <strong>D) Muid:</strong> Medreselerde profesörün asistanı, ders tekrarlatıcısıdır.<br>• <strong>E) Katip:</strong> Mahkeme tutanaklarını sicile yazan kişidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Mahkemeye çağıran/celbeden = <strong>Muhzır</strong>; Mirası taksim eden = <strong>Kassam</strong>."
+  },
+  {
+    "id": "tarih13-q18",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Osmanlı mahkemelerinde görülen davalar sırasında duruşma salonunda hazır bulunan 'Şuhûdü'l-hâl' heyeti ile ilgili;\nI. Kararın rüşvetsiz, adil ve şeffaf alındığına kamu adına tanıklık ederler,\nII. Mahallenin güvenilir, dürüst ve saygın ileri gelenlerinden oluşurlar,\nIII. Mahkeme kararlarını nihai olarak onaylayan temyiz merciidirler\nbilgilerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Şuhûdü'l-hâl</strong> (durumun tanıkları), duruşmanın aleniyetine ve kararın adalete uygun alındığına kamu adına tanıklık eden saygın halk heyetidir (I ve II). Ancak karar verici veya temyiz mercii değillerdir; temyiz mercii sadece Kazaskerdir (III elenir).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I. Öncül:</strong> Doğrudur, şeffaflık ve adalet tanıklarıdır.<br>• <strong>II. Öncül:</strong> Doğrudur, mahallenin güvenilir eşrafından seçilirler.<br>• <strong>III. Öncül:</strong> Yanlıştır, temyiz makamı Kazaskerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Şuhûdü'l-hâl = Duruşmayı izleyen ve kararın meşruiyetine şahitlik eden tarafsız kamu heyeti."
+  },
+  {
+    "id": "tarih13-q19",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Vefat eden kişilerin geride bıraktığı menkul ve gayrimenkul malların, borç ve alacaklarının, aile fertlerinin dökümünün tutulduğu ve Osmanlı'nın sosyo-ekonomik yapısını aydınlatmada birincil kaynak olan mahkeme defterleri aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tahrir Defterleri"
+      },
+      {
+        "key": "B",
+        "text": "Şer'iye Sicilleri"
+      },
+      {
+        "key": "C",
+        "text": "Mühimme Defterleri"
+      },
+      {
+        "key": "D",
+        "text": "Tereke (Muhallefat) Defterleri"
+      },
+      {
+        "key": "E",
+        "text": "Ahkâm Defterleri"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Tereke / Muhallefat Defterleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Vefat eden kişinin geride bıraktığı mirasın, eşyaların, borç ve alacaklarının dökümünün yapıldığı belgelere <strong>Tereke (Muhallefat) Defterleri / Sicilleri</strong> denir. Bir ailenin gelir düzeyini, harcama alışkanlıklarını ve sosyo-ekonomik yapısını aydınlatmada en kıymetli birincil kaynaktır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A) Tahrir Defterleri:</strong> Sancaktaki nüfus ve vergi sayım kayıtlarıdır.<br>• <strong>B) Şer'iye Sicilleri:</strong> Mahkemedeki tüm davaların genel kayıt defteridir.<br>• <strong>C) Mühimme Defterleri:</strong> Divân-ı Hümâyun kararlarının kaydedildiği defterdir.<br>• <strong>E) Ahkâm Defterleri:</strong> Taşraya gönderilen ferman ve hükümlerin derlendiği defterdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Miras paylaşımı + Aile malları dökümü + Sosyo-ekonomik tarih araştırmaları → <strong>Tereke Sicilleri</strong>."
+  },
+  {
+    "id": "tarih13-q20",
+    "testId": "tarih13",
+    "testTitle": "Genel Tarih Test 13: Osmanlı Kültür ve Medeniyeti - III (Başkent, Taşra, Ordu, Hukuk)",
+    "topicId": "tarih_osmanli_3",
+    "topicName": "Genel Tarih Test 13 (Osmanlı Kültür ve Medeniyeti - III)",
+    "category": "Genel Kültür - Tarih",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Tanzimat Dönemi'nden itibaren Osmanlı Devleti'nde Şer'i Mahkemelerin yanında Ticaret ve Nizamiye mahkemelerinin kurulmasıyla ilgili;\nI. Mahkemelerde hukuk birliğinin sağlanması,\nII. Yargıda ikiliğin ortaya çıkması ve yetki çatışmalarının yaşanması,\nIII. Eski ve yeni kurumların bir arada varlığını sürdürmesi\ndurumlarından hangileri gerçekleşmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tanzimat döneminde eski şer'i mahkemeler kapatılmadan yanlarına Batı tarzı Nizamiye ve Ticaret mahkemeleri açılmıştır. Bu durum eski ve yeninin bir arada yaşamasına (III) ve yargıda ikilik ile yetki kargaşasına (II) yol açmıştır. Hukuk birliği asla sağlanamamış, aksine bozulmuştur (I elenir). Hukuk birliği ancak Cumhuriyet döneminde (1926 Medeni Kanun) sağlanabilmiştir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I. Öncül:</strong> Yanlıştır, hukuk birliği bozulmuş ve parçalanmıştır (ÖSYM'nin en popüler çeldiricisidir).<br>• <strong>II ve III. Öncüller:</strong> Doğrudur, Tanzimat reformlarının genel karakteristiği ikiliktir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu / EKYS İpucu:</strong><br>Tanzimat'ta yeni mahkemelerin veya mekteplerin açılması sorulduğunda aranacak temel sonuç: <em>'Yargıda/Eğitimde İKİLİK ortaya çıkmasıdır'</em>."
   }
 ];
