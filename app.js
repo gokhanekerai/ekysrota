@@ -850,7 +850,7 @@ class EKYSApp {
             desc: 'Tarım, Hayvancılık, Madenler, Enerji Kaynakları, Sanayi, Ulaşım ve Turizm Testleri.',
             filterKey: 'cogr_ekonomi',
             targetSubtopic: 'cogr-ekonomi-subtopics',
-            badge: '4 Test (86 Soru)'
+            badge: '6 Test (116 Soru)'
           },
           {
             id: 'cogr_yer_cat',
