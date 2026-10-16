@@ -1582,6 +1582,30 @@ class EKYSApp {
         desc: 'Program Geliştirme, Öğretim İlke ve Yöntemleri, Ölçme ve Rehberlik testleri:',
         items: [
           {
+            id: 'egitim_tymm_1_eb',
+            name: '🌱 TYMM Test 1: Yetkin ve Erdemli İnsan Özellikleri',
+            icon: '🌱',
+            desc: 'Modelin Öğrenci Profili: Bilge, Ahlaklı, Estetik, Üretken, Sağlıklı, Cesaretli, İnisiyatif Alma ve Merhamet (16 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_1',
+            badge: '🌱 16 Soru • Yeni Maarif'
+          },
+          {
+            id: 'egitim_tymm_2_eb',
+            name: '🌱 TYMM Test 2: Temel Yaklaşım ve Program Yapısı',
+            icon: '🌱',
+            desc: 'Bütüncül İnsan Yaklaşımı, Farklılaştırılmış Öğretim (Zenginleştirme & Destekleme), Süreç Odaklı Ölçme (15 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_2',
+            badge: '🌱 15 Soru • Yeni Maarif'
+          },
+          {
+            id: 'egitim_tymm_3_eb',
+            name: '🌱 TYMM Test 3: Beceriler ve Eğilimler',
+            icon: '🌱',
+            desc: 'Kavramsal Beceriler (Temel, Bütünleşik, Üst Düzey Düşünme: Karar Verme, Çözümleme), Eğilimler ve SDÖ (15 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_3',
+            badge: '🌱 15 Soru • Yeni Maarif'
+          },
+          {
             id: 'egitim_olcme_test_1_eb',
             name: '📊 Ölçme ve Değerlendirme Testi 1 (GÜNCELLENDİ)',
             icon: '📊',
@@ -2548,6 +2572,30 @@ class EKYSApp {
         desc: 'ÖYT ve Program Okuryazarlığı Sunu Testleri, Video Tarama Testleri, Eğitim Yönetimi ve Çıkmış Sorular:',
         items: [
           {
+            id: 'egitim_tymm_1',
+            name: '🌱 TYMM Test 1: Yetkin ve Erdemli İnsan Özellikleri',
+            icon: '🌱',
+            desc: 'Modelin Öğrenci Profili: Bilge, Ahlaklı, Estetik, Üretken, Sağlıklı, Cesaretli, İnisiyatif Alma ve Merhamet (16 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_1',
+            badge: '🌱 16 Soru • Yeni Maarif'
+          },
+          {
+            id: 'egitim_tymm_2',
+            name: '🌱 TYMM Test 2: Temel Yaklaşım ve Program Yapısı',
+            icon: '🌱',
+            desc: 'Bütüncül İnsan Yaklaşımı, Farklılaştırılmış Öğretim (Zenginleştirme & Destekleme), Süreç Odaklı Ölçme (15 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_2',
+            badge: '🌱 15 Soru • Yeni Maarif'
+          },
+          {
+            id: 'egitim_tymm_3',
+            name: '🌱 TYMM Test 3: Beceriler ve Eğilimler',
+            icon: '🌱',
+            desc: 'Kavramsal Beceriler (Temel, Bütünleşik, Üst Düzey Düşünme: Karar Verme, Çözümleme), Eğilimler ve SDÖ (15 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_3',
+            badge: '🌱 15 Soru • Yeni Maarif'
+          },
+          {
             id: 'egitim_olcme_test_1',
             name: '📊 Ölçme ve Değerlendirme Testi 1 (YENİ)',
             icon: '📊',
@@ -2908,6 +2956,13 @@ class EKYSApp {
       const tId = (q.topicId || q.testId || '').toLowerCase();
       const isCikmis = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
       const qNum = q.questionNumber || 0;
+      // TYMM (Türkiye Yüzyılı Maarif Modeli) Testleri
+      if (filterKey === 'egitim_tymm_1' || filterKey === 'tymm_1') return (q.testId === 'egitim_tymm_1' || tId === 'egitim_tymm_1' || tName.includes('yetkin ve erdemli'));
+      if (filterKey === 'egitim_tymm_2' || filterKey === 'tymm_2') return (q.testId === 'egitim_tymm_2' || tId === 'egitim_tymm_2' || tName.includes('temel yaklaşım'));
+      if (filterKey === 'egitim_tymm_3' || filterKey === 'tymm_3') return (q.testId === 'egitim_tymm_3' || tId === 'egitim_tymm_3' || tName.includes('beceriler ve eğilimler'));
+      if (filterKey === 'egitim_tymm_tum' || filterKey === 'tymm_all') {
+        return q.testId === 'egitim_tymm_1' || q.testId === 'egitim_tymm_2' || q.testId === 'egitim_tymm_3' || (q.testId && q.testId.startsWith('egitim_tymm_'));
+      }
 
       // 1. Özel Video Tarama & Yeni Münferit Coğrafya & Eğitim Bilimleri Testleri
       if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
