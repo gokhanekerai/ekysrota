@@ -1856,22 +1856,6 @@ class EKYSApp {
             desc: '2026 Mart MEB EKYS sınavında sorulan 24 resmî Türkiye Yüzyılı Maarif Modeli sorusunun tamamı.',
             filterKey: 'maarif',
             badge: '24 Soru • Resmî Sınav'
-          },
-          {
-            id: 'deneme_maarif',
-            name: '🏆 Türkiye Yüzyılı Maarif Modeli Branş Denemesi',
-            icon: '🏆',
-            desc: '2026-2027 EKYS yeni müfredat Maarif Modeli ve Ortak Metin odaklı 24 soruluk resmî branş denemesi (%30).',
-            filterKey: 'maarif_deneme_24',
-            badge: '24 Soru • %30 Maarif'
-          },
-          {
-            id: 'maarif_tum',
-            name: '🎯 Tüm Maarif Modeli Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Münferit konu testleri ve çıkmış sınav sorularından oluşan 70 soruluk dev Maarif Modeli soru havuzu.',
-            filterKey: 'egitim_tymm_tum',
-            badge: '70 Soru • Dev Havuz'
           }
         ]
       },
@@ -2768,22 +2752,6 @@ class EKYSApp {
             desc: '2026 Mart MEB EKYS sınavında sorulan 24 resmî Türkiye Yüzyılı Maarif Modeli sorusunun tamamı.',
             filterKey: 'maarif',
             badge: '24 Soru • Resmî Sınav'
-          },
-          {
-            id: 'deneme_maarif',
-            name: '🏆 Türkiye Yüzyılı Maarif Modeli Branş Denemesi',
-            icon: '🏆',
-            desc: '2026-2027 EKYS yeni müfredat Maarif Modeli ve Ortak Metin odaklı 24 soruluk resmî branş denemesi (%30).',
-            filterKey: 'maarif_deneme_24',
-            badge: '24 Soru • %30 Maarif'
-          },
-          {
-            id: 'maarif_tum',
-            name: '🎯 Tüm Maarif Modeli Soruları (Karma Test)',
-            icon: '🎯',
-            desc: 'Münferit konu testleri ve çıkmış sınav sorularından oluşan 70 soruluk dev Maarif Modeli soru havuzu.',
-            filterKey: 'egitim_tymm_tum',
-            badge: '70 Soru • Dev Havuz'
           }
         ]
       },
