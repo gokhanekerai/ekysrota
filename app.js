@@ -1582,30 +1582,6 @@ class EKYSApp {
         desc: 'Program Geliştirme, Öğretim İlke ve Yöntemleri, Ölçme ve Rehberlik testleri:',
         items: [
           {
-            id: 'egitim_tymm_1_eb',
-            name: '🌱 TYMM Test 1: Yetkin ve Erdemli İnsan Özellikleri',
-            icon: '🌱',
-            desc: 'Modelin Öğrenci Profili: Bilge, Ahlaklı, Estetik, Üretken, Sağlıklı, Cesaretli, İnisiyatif Alma ve Merhamet (16 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_1',
-            badge: '🌱 16 Soru • Yeni Maarif'
-          },
-          {
-            id: 'egitim_tymm_2_eb',
-            name: '🌱 TYMM Test 2: Temel Yaklaşım ve Program Yapısı',
-            icon: '🌱',
-            desc: 'Bütüncül İnsan Yaklaşımı, Farklılaştırılmış Öğretim (Zenginleştirme & Destekleme), Süreç Odaklı Ölçme (15 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_2',
-            badge: '🌱 15 Soru • Yeni Maarif'
-          },
-          {
-            id: 'egitim_tymm_3_eb',
-            name: '🌱 TYMM Test 3: Beceriler ve Eğilimler',
-            icon: '🌱',
-            desc: 'Kavramsal Beceriler (Temel, Bütünleşik, Üst Düzey Düşünme: Karar Verme, Çözümleme), Eğilimler ve SDÖ (15 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_3',
-            badge: '🌱 15 Soru • Yeni Maarif'
-          },
-          {
             id: 'egitim_olcme_test_1_eb',
             name: '📊 Ölçme ve Değerlendirme Testi 1 (GÜNCELLENDİ)',
             icon: '📊',
@@ -1846,40 +1822,56 @@ class EKYSApp {
         ]
       },
       'maarif': {
-        title: '🌟 Türkiye Yüzyılı Maarif Modeli (Soru 41-64)',
-        desc: 'Ortak Metin, Beceriler, Erdem-Değer-Eylem ve Öğrenci Profili testleri:',
+        title: '🌟 Türkiye Yüzyılı Maarif Modeli (%30 • 24 Soru)',
+        desc: 'Türkiye Yüzyılı Maarif Modeli Öğrenci Profili, Temel Yaklaşım, Beceriler, Eğilimler ve Çıkmış Sorular:',
         items: [
           {
-            id: 'maarif_ortak_metin',
-            name: 'Öğretim Programları Ortak Metni',
-            icon: '📑',
-            desc: 'Maarif Modelinin Felsefesi, Temel Yaklaşımı, Öğrenme Tasarımı ve Esasları.',
-            filterKey: 'maarif',
-            badge: '%30 Maarif Modeli'
+            id: 'egitim_tymm_1',
+            name: '🌱 TYMM Test 1: Yetkin ve Erdemli İnsan Özellikleri',
+            icon: '🌱',
+            desc: 'Modelin Öğrenci Profili: Bilge, Ahlaklı, Estetik, Üretken, Sağlıklı, Cesaretli, İnisiyatif Alma ve Merhamet (16 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_1',
+            badge: '🌱 16 Soru • Test 1'
           },
           {
-            id: 'maarif_beceriler',
-            name: 'Beceriler Çerçevesi',
-            icon: '🧩',
-            desc: 'Kavramsal Beceriler, Alan Becerileri, Sosyo-Duygusal Beceriler ve Eğilimler.',
-            filterKey: 'maarif',
-            badge: '%30 Maarif Modeli'
+            id: 'egitim_tymm_2',
+            name: '🌱 TYMM Test 2: Temel Yaklaşım ve Program Yapısı',
+            icon: '🌱',
+            desc: 'Bütüncül İnsan Yaklaşımı, Farklılaştırılmış Öğretim (Zenginleştirme & Destekleme), Süreç Odaklı Ölçme (15 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_2',
+            badge: '🌱 15 Soru • Test 2'
           },
           {
-            id: 'maarif_erdem_deger',
-            name: 'Erdem - Değer - Eylem Modeli',
-            icon: '💎',
-            desc: 'Adalet, Saygı, Sorumluluk, Sevgi, Dostluk, Dürüstlük ve Özdenetim Değerleri.',
-            filterKey: 'maarif',
-            badge: '%30 Maarif Modeli'
+            id: 'egitim_tymm_3',
+            name: '🌱 TYMM Test 3: Beceriler ve Eğilimler',
+            icon: '🌱',
+            desc: 'Kavramsal Beceriler (Temel, Bütünleşik, Üst Düzey Düşünme: Karar Verme, Çözümleme), Eğilimler ve SDÖ (15 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_3',
+            badge: '🌱 15 Soru • Test 3'
           },
           {
-            id: 'maarif_ogrenci_profili',
-            name: 'Program Bileşenleri & Öğrenci Profili',
+            id: 'maarif_2026',
+            name: '🌟 2026 EKYS Maarif Modeli Çıkmış Soruları (Soru 41-64)',
+            icon: '🌟',
+            desc: '2026 Mart MEB EKYS sınavında sorulan 24 resmî Türkiye Yüzyılı Maarif Modeli sorusunun tamamı.',
+            filterKey: 'maarif',
+            badge: '24 Soru • Resmî Sınav'
+          },
+          {
+            id: 'deneme_maarif',
+            name: '🏆 Türkiye Yüzyılı Maarif Modeli Branş Denemesi',
+            icon: '🏆',
+            desc: '2026-2027 EKYS yeni müfredat Maarif Modeli ve Ortak Metin odaklı 24 soruluk resmî branş denemesi (%30).',
+            filterKey: 'maarif_deneme_24',
+            badge: '24 Soru • %30 Maarif'
+          },
+          {
+            id: 'maarif_tum',
+            name: '🎯 Tüm Maarif Modeli Soruları (Karma Test)',
             icon: '🎯',
-            desc: 'Yetkin ve Erdemli İnsan Profili, Farklılaştırılmış Öğretim ve Disiplinlerarası Yaklaşım.',
-            filterKey: 'maarif',
-            badge: '%30 Maarif Modeli'
+            desc: 'Münferit konu testleri ve çıkmış sınav sorularından oluşan 70 soruluk dev Maarif Modeli soru havuzu.',
+            filterKey: 'egitim_tymm_tum',
+            badge: '70 Soru • Dev Havuz'
           }
         ]
       },
@@ -2572,30 +2564,6 @@ class EKYSApp {
         desc: 'ÖYT ve Program Okuryazarlığı Sunu Testleri, Video Tarama Testleri, Eğitim Yönetimi ve Çıkmış Sorular:',
         items: [
           {
-            id: 'egitim_tymm_1',
-            name: '🌱 TYMM Test 1: Yetkin ve Erdemli İnsan Özellikleri',
-            icon: '🌱',
-            desc: 'Modelin Öğrenci Profili: Bilge, Ahlaklı, Estetik, Üretken, Sağlıklı, Cesaretli, İnisiyatif Alma ve Merhamet (16 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_1',
-            badge: '🌱 16 Soru • Yeni Maarif'
-          },
-          {
-            id: 'egitim_tymm_2',
-            name: '🌱 TYMM Test 2: Temel Yaklaşım ve Program Yapısı',
-            icon: '🌱',
-            desc: 'Bütüncül İnsan Yaklaşımı, Farklılaştırılmış Öğretim (Zenginleştirme & Destekleme), Süreç Odaklı Ölçme (15 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_2',
-            badge: '🌱 15 Soru • Yeni Maarif'
-          },
-          {
-            id: 'egitim_tymm_3',
-            name: '🌱 TYMM Test 3: Beceriler ve Eğilimler',
-            icon: '🌱',
-            desc: 'Kavramsal Beceriler (Temel, Bütünleşik, Üst Düzey Düşünme: Karar Verme, Çözümleme), Eğilimler ve SDÖ (15 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_3',
-            badge: '🌱 15 Soru • Yeni Maarif'
-          },
-          {
             id: 'egitim_olcme_test_1',
             name: '📊 Ölçme ve Değerlendirme Testi 1 (YENİ)',
             icon: '📊',
@@ -2766,16 +2734,56 @@ class EKYSApp {
         ]
       },
       'maarif': {
-        title: '🌟 Türkiye Yüzyılı Maarif Modeli (2026 EKYS Soru 41-64)',
-        desc: 'İlk kez 2026 EKYS sınavında sorulan 24 adet resmî Türkiye Yüzyılı Maarif Modeli sorusu:',
+        title: '🌟 Türkiye Yüzyılı Maarif Modeli (%30 • 24 Soru)',
+        desc: 'Türkiye Yüzyılı Maarif Modeli Öğrenci Profili, Temel Yaklaşım, Beceriler, Eğilimler ve Çıkmış Sorular:',
         items: [
+          {
+            id: 'egitim_tymm_1',
+            name: '🌱 TYMM Test 1: Yetkin ve Erdemli İnsan Özellikleri',
+            icon: '🌱',
+            desc: 'Modelin Öğrenci Profili: Bilge, Ahlaklı, Estetik, Üretken, Sağlıklı, Cesaretli, İnisiyatif Alma ve Merhamet (16 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_1',
+            badge: '🌱 16 Soru • Test 1'
+          },
+          {
+            id: 'egitim_tymm_2',
+            name: '🌱 TYMM Test 2: Temel Yaklaşım ve Program Yapısı',
+            icon: '🌱',
+            desc: 'Bütüncül İnsan Yaklaşımı, Farklılaştırılmış Öğretim (Zenginleştirme & Destekleme), Süreç Odaklı Ölçme (15 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_2',
+            badge: '🌱 15 Soru • Test 2'
+          },
+          {
+            id: 'egitim_tymm_3',
+            name: '🌱 TYMM Test 3: Beceriler ve Eğilimler',
+            icon: '🌱',
+            desc: 'Kavramsal Beceriler (Temel, Bütünleşik, Üst Düzey Düşünme: Karar Verme, Çözümleme), Eğilimler ve SDÖ (15 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_3',
+            badge: '🌱 15 Soru • Test 3'
+          },
           {
             id: 'maarif_2026',
             name: '🌟 2026 EKYS Maarif Modeli Çıkmış Soruları (Soru 41-64)',
             icon: '🌟',
             desc: '2026 Mart MEB EKYS sınavında sorulan 24 resmî Türkiye Yüzyılı Maarif Modeli sorusunun tamamı.',
             filterKey: 'maarif',
-            badge: '24 Soru (Resmî Sınav)'
+            badge: '24 Soru • Resmî Sınav'
+          },
+          {
+            id: 'deneme_maarif',
+            name: '🏆 Türkiye Yüzyılı Maarif Modeli Branş Denemesi',
+            icon: '🏆',
+            desc: '2026-2027 EKYS yeni müfredat Maarif Modeli ve Ortak Metin odaklı 24 soruluk resmî branş denemesi (%30).',
+            filterKey: 'maarif_deneme_24',
+            badge: '24 Soru • %30 Maarif'
+          },
+          {
+            id: 'maarif_tum',
+            name: '🎯 Tüm Maarif Modeli Soruları (Karma Test)',
+            icon: '🎯',
+            desc: 'Münferit konu testleri ve çıkmış sınav sorularından oluşan 70 soruluk dev Maarif Modeli soru havuzu.',
+            filterKey: 'egitim_tymm_tum',
+            badge: '70 Soru • Dev Havuz'
           }
         ]
       },
@@ -4814,6 +4822,7 @@ class EKYSApp {
         },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
+          if (t.includes('maarif') || t.includes('tymm')) return false;
           return t.includes('egitim') || t.includes('eğitim') || t.includes('yönetim') || t.includes('yonetim') || t.includes('denetim') || t.includes('liderlik') || t.includes('değerler') || t.includes('degerler') || t.includes('etik') || t.includes('ölçme') || t.includes('olcme');
         }
       },
@@ -4835,7 +4844,7 @@ class EKYSApp {
         },
         match: (item) => {
           const t = ((item.category || '') + ' ' + (item.title || '') + ' ' + (item.topicName || '') + ' ' + (item.topicId || '')).toLowerCase();
-          return t.includes('maarif');
+          return t.includes('maarif') || t.includes('tymm');
         }
       },
       {
