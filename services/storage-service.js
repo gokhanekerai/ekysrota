@@ -387,7 +387,7 @@ class StorageService {
     };
 
     history.unshift(entry);
-    localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(history.slice(0, 100)));
+    localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(history.slice(0, 1000)));
     this.syncCloudImmediate();
     return entry;
   }
@@ -557,7 +557,7 @@ class StorageService {
     if (Array.isArray(data.quizHistory)) {
       if (isRealtimeSync) {
         // Canlı otomatik senkronizasyonda buluttaki güncel listeyi doğrudan al
-        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(data.quizHistory.slice(0, 300)));
+        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(data.quizHistory.slice(0, 1000)));
       } else {
         const localHistory = this.getQuizHistory();
         const map = new Map();
@@ -570,7 +570,7 @@ class StorageService {
           map.set(key, h);
         });
         const mergedHistory = Array.from(map.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
-        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(mergedHistory.slice(0, 300)));
+        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(mergedHistory.slice(0, 1000)));
       }
     }
 

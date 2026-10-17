@@ -247,7 +247,8 @@ class EKYSApp {
           const cleanItemName = (testItem.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
           
           const itemHistory = history.filter(h => {
-            if (h.topicId && (h.topicId === filterKey || h.topicId === testItem.id || h.topicId.startsWith(filterKey))) return true;
+            const hTopic = (h.topicId || '').replace(/^subtopic_/, '').toLowerCase().trim();
+            if (hTopic && (hTopic === filterKey || hTopic === (testItem.id || '').toLowerCase().trim() || hTopic.startsWith(filterKey))) return true;
             const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
             return (hTitle && cleanItemName && (hTitle.includes(cleanItemName) || cleanItemName.includes(hTitle)));
           });
@@ -3229,8 +3230,12 @@ class EKYSApp {
 
         // Bu alt konuya / teste ait çözülen geçmiş
         const cleanItemName = (item.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
+        const itemFilterKey = (item.filterKey || '').toLowerCase().trim();
+        const itemId = (item.id || '').toLowerCase().trim();
+
         const itemHistory = history.filter(h => {
-          if (h.topicId && (h.topicId === item.filterKey || h.topicId === item.id || h.topicId.startsWith(item.filterKey))) return true;
+          const hTopic = (h.topicId || '').replace(/^subtopic_/, '').toLowerCase().trim();
+          if (hTopic && (hTopic === itemFilterKey || hTopic === itemId || hTopic.startsWith(itemFilterKey))) return true;
           const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
           if (hTitle && cleanItemName && (hTitle.includes(cleanItemName) || cleanItemName.includes(hTitle))) return true;
           return false;
@@ -3267,10 +3272,11 @@ class EKYSApp {
           subTests.forEach(st => {
             const stName = (st.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
             const filterKey = (st.filterKey || '').toLowerCase().trim();
+            const stId = (st.id || '').toLowerCase().trim();
             const isSolved = history.some(h => {
               const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
-              const hTopic = (h.topicId || '').toLowerCase().trim();
-              return (hTopic && (hTopic === filterKey || hTopic.startsWith(filterKey))) ||
+              const hTopic = (h.topicId || '').replace(/^subtopic_/, '').toLowerCase().trim();
+              return (hTopic && (hTopic === filterKey || hTopic === stId || hTopic.startsWith(filterKey))) ||
                      (hTitle && stName && (hTitle.includes(stName) || stName.includes(hTitle)));
             });
             if (isSolved) subSolvedCount++;
@@ -3410,6 +3416,7 @@ class EKYSApp {
     this.activeQuiz = {
       title: title,
       filterKey: filterKey,
+      topicId: filterKey,
       isDeneme: isDeneme,
       isCikmis: isCikmis,
       isScored: isScored,
@@ -3539,38 +3546,6 @@ class EKYSApp {
       const activeCat = filterKey.startsWith('ekys_') ? 'cikmis' : 'genel-kultur';
       this.openSubTopicModal(activeCat);
     }
-  }
-
-  startSubTopicQuiz(filterKey, title, mode = 'practice') {
-    const modal = document.getElementById('subtopic-modal');
-    if (modal) modal.style.display = 'none';
-
-    let questions = this.getQuestionsForFilter(filterKey);
-    if (questions.length === 0) {
-      // Eğer spesifik filtrede az soru varsa ana kategoriyi al
-      const allQuestions = window.storageService.getQuestions();
-      questions = allQuestions.slice(0, 20);
-    }
-
-    this.activeQuiz = {
-      title: title,
-      topicId: `subtopic_${filterKey}`,
-      mode: mode,
-      questions: this.shuffleArray([...questions]),
-      currentIndex: 0,
-      userAnswers: {},
-      struckOptions: {},
-      starred: {},
-      isFinished: false,
-      startTime: Date.now(),
-      durationSeconds: mode === 'exam' ? questions.length * 90 : 0,
-      elapsedSeconds: 0
-    };
-
-    this.navigateTo('quiz-active');
-    this.startQuizTimer();
-    this.renderCurrentQuestion();
-    this.showToast(`${title} başlatıldı (${questions.length} Soru)`, 'success');
   }
 
   renderTestHub() {
