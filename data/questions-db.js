@@ -40713,7 +40713,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Konu Analizi:</strong>\n• <strong>IV Numara (Hakkari / Yüksekova Çevresi):</strong> Ortalama yükseltinin yaklaşık 2000 metreye ulaştığı, kış şartlarının çok sert geçtiği, sanayi, ticaret ve ulaşımın yetersiz olduğu bir sahadır; bu nedenle ekonomik faaliyet çeşitliliği ve nüfus yoğunluğu oldukça azdır.\n• I, II, III ve V numaralı sahalar kıyı kuşağı veya sanayi-tarım kavşaklarında yer aldığı için nüfus yoğundur."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Coğrafi ve Pedagojik Analiz:</strong>\n• <strong>IV Numaralı Alan (Ceylanpınar Ovası / Güneydoğu Sınır Kuşağı):</strong> Yaz kuraklığının ve buharlaşmanın son derece şiddetli olduğu, sanayi, ulaşım ve ekonomik faaliyet çeşitliliğinin yetersiz kaldığı bir sahadır. Bu nedenle nüfus yoğunluğu düşüktür.\n• <strong>I (Gediz), II (Bursa), III (İç Batı Anadolu / Eskişehir-Ankara) ve V (Çukurova)</strong> ise verimli tarım, sanayi, ulaşım ve ticaret kavşakları olmaları sebebiyle ekonomik çeşitliliğin ve nüfus yoğunluğunun oldukça yüksek olduğu ova tabanlarıdır."
   },
   {
     "id": "cogr_test_10-q10",
