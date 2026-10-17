@@ -40342,8 +40342,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "V"
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I Numaralı Alan - Teke Platosu)<br><br>📌 <strong>Karstik Şekillerin En Yaygın Olduğu Plato:</strong><br>• Haritada I numarayla gösterilen <strong>Teke Platosu</strong> (Antalya batısı), kalker kayaçlarının kalın tabakalar oluşturduğu ve karstik aşınım-birikim şekillerinin (lapya, dolin, uvala, kanyon, mağara) Türkiye'de en yoğun bulunduğu sahadır."
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (V Numaralı Alan - Teke Platosu)<br><br>📌 <strong>Karstik Şekillerin En Yaygın Olduğu Plato:</strong><br>• Haritada <strong>V numara</strong> ile gösterilen <strong>Teke Platosu</strong> (Antalya batısı), kalker (kireç taşı) kayaçlarının kalın tabakalar oluşturduğu ve karstik aşınım-birikim şekillerinin (lapya, dolin, uvala, polye, kanyon vadi, mağara) Türkiye'de en yoğun bulunduğu sahadır.<br>• <strong>I Numaralı Alan (Çatalca-Kocaeli):</strong> Aşınım (peneplen) platosudur; sanayi ve yerleşmenin en yoğun olduğu yerdir.<br>• <strong>II ve III Numaralı Alanlar (Bozok / Haymana / Uzunyayla):</strong> Yatay duruşlu tabaka düzlüğü platolarıdır; bozkır bitki örtüsü ve tahıl tarımı yaygındır.<br>• <strong>IV Numaralı Alan (Erzurum-Kars):</strong> Volkanik lav örtüsü platosudur; çernozyom topraklar ve büyükbaş hayvancılık yaygındır."
   },
   {
     "id": "cogr_test_9-q18",
