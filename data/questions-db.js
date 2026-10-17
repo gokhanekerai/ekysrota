@@ -39788,7 +39788,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (V Numaralı Alan - Taşeli Platosu)<br><br>📌 <strong>Platoların Oluşum Tipleri:</strong><br>• Haritada I, II, III ve IV numaralı alanlar İç Anadolu'daki (Haymana, Cihanbeyli, Bozok, Uzunyayla) <strong>tabaka düzlüğü (yatay duruşlu)</strong> platolarıdır.<br>• Akdeniz kuşağında yer alan V numaralı <strong>Taşeli Platosu</strong> ise kireçtaşlarının (kalkerin) erimesiyle meydana gelen <strong>karstik plato</strong> özelliğindedir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V Numaralı Alan - Erzurum-Kars Platosu)<br><br>📌 <strong>Platoların Oluşum Tipleri:</strong><br>• Haritada I (Yazılıkaya), II (Taşeli/İç Anadolu geçişi), III (Uzunyayla) ve IV (Gaziantep) numaralı platolar <strong>tabaka düzlüğü (yatay duruşlu)</strong> platoları kapsamındadır.<br>• Kuzeydoğu Anadolu'da yer alan V numaralı <strong>Erzurum-Kars Platosu</strong> ise volkanik lavların birikmesiyle oluşmuş bir <strong>lav örtüsü (volkanik) platosu</strong>dur; tabaka düzlüğü platosu değildir."
   },
   {
     "id": "cogr_test_9-q3",
@@ -40121,7 +40121,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (IV Numaralı Alan - Çatalca-Kocaeli Platosu)<br><br>📌 <strong>Çatalca-Kocaeli Platosunun Ekonomik Niteliği:</strong><br>• Türkiye'de sanayi, ticaret, finans ve ulaşım ağlarının en yoğun toplandığı ve buna bağlı olarak Türkiye nüfusunun en yoğun olduğu plato <strong>Çatalca - Kocaeli Aşınım Platosu</strong>'dur (Haritada IV numara)."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV Numaralı Alan - Gaziantep Platosu)<br><br>📌 <strong>Gaziantep Platosunun Sanayi ve Nüfus Özellikleri:</strong><br>• Haritada IV numara ile gösterilen <strong>Gaziantep Platosu</strong>, Güneydoğu Anadolu'nun en gelişmiş sanayi, ticaret ve ihracat merkezidir. Sanayi faaliyetlerinin (tekstil, gıda, kimya vb.) çok ileri düzeyde olması nedeniyle yoğun göç almış ve nüfus yoğunluğu oldukça artmıştır."
   },
   {
     "id": "cogr_test_9-q12",
@@ -40194,8 +40194,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "V"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (V Numaralı Alan - Erzurum-Kars Platosu)<br><br>📌 <strong>Plato Oluşum Kökenleri:</strong><br>• Haritada I, II, III ve IV numaralı platolar İç ve Güneydoğu Anadolu'daki <strong>tabaka düzlüğü (sedimanter)</strong> platolarıdır.<br>• V numaralı <strong>Erzurum-Kars Platosu</strong> ise volkanik lavların soğumasıyla oluşan <strong>lav örtüsü (volkanik) platosu</strong> olarak diğerlerinden tamamen ayrılır."
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I Numaralı Alan - Çatalca-Kocaeli Platosu)<br><br>📌 <strong>Plato Oluşum Kökenleri Analizi:</strong><br>• <strong>I Numaralı Alan (Çatalca - Kocaeli Platosu):</strong> Aşınım (peneplen) düzlüğü platosudur. Deniz seviyesine kadar aşınmış eski bir düzlüğün epirojenik olarak hafif yükselmesiyle oluşmuştur.<br>• <strong>II, III, IV ve V Numaralı Platolar (Yazılıkaya, Bozok, Uzunyayla, Gaziantep):</strong> Yatay duruşlu (tabaka düzlüğü) tortul platolardır.<br>• Dolayısıyla haritada <strong>I numaralı alan</strong>, oluşum kökeni (aşınım platosu) itibarıyla diğerlerinden tamamen farklıdır."
   },
   {
     "id": "cogr_test_9-q14",
