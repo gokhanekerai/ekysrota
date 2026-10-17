@@ -72075,7 +72075,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "Bir okul yöneticisi, öğrencilere ait özel bilgilerin\nizinsiz paylaşılmasını engeller. Etkinliklere katılım\nkararlarında her öğrencinin eşit haklara sahip\nolduğunu gözetir.\nBu davranışlar, yetkin ve erdemli insanın hangi\nözelliğiyle ilişkilidir?",
+    "questionText": "Bir okul yöneticisi, öğrencilere ait özel bilgilerin izinsiz paylaşılmasını engeller. Etkinliklere katılım kararlarında her öğrencinin eşit haklara sahip olduğunu gözetir.\n\n<b>Bu davranışlar, yetkin ve erdemli insanın hangi özelliğiyle ilişkilidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72112,7 +72112,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Bir öğretmen, bir konuyu anlatırken sözcüklerini\nözenle seçmekte, söz sanatlarından yararlanmakta ve\nanlatımını dinleyicilerin anlayabileceği biçimde\ndüzenlemektedir.\nBu öğretmenin sergilediği alt özellik aşağıdakilerden\nhangisidir?",
+    "questionText": "Bir öğretmen, bir konuyu anlatırken sözcüklerini özenle seçmekte, söz sanatlarından yararlanmakta ve anlatımını dinleyicilerin anlayabileceği biçimde düzenlemektedir.\n\n<b>Bu öğretmenin sergilediği alt özellik aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72149,7 +72149,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "Bir öğretmen, görevini aksatan öğrencisiyle\ngörüşür. Öğrenci hatasını kabul eder ve telafi etmek\niçin bir plan sunar. Öğretmen, öğrencinin hatasını\naffederek ona yeniden deneme fırsatı verir.\nBu tutum, “merhametli” insanın hangi alt özelliğini\ngöstermektedir?",
+    "questionText": "Bir öğretmen, görevini aksatan öğrencisiyle görüşür. Öğrenci hatasını kabul eder ve telafi etmek için bir plan sunar. Öğretmen, öğrencinin hatasını affederek ona yeniden deneme fırsatı verir.\n\n<b>Bu tutum, “merhametli” insanın hangi alt özelliğini göstermektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72186,7 +72186,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Bir öğrenci, su tüketimiyle ilgili iki farklı iddiayı\ndeğerlendirirken her iddianın dayandığı verileri\ninceler ve farklı başvuru kaynaklarındaki açıklamaları\nkarşılaştırır.\nBu davranış, “sorgulayıcı” insanın hangi alt özelliğini\ngöstermektedir?",
+    "questionText": "Bir öğrenci, su tüketimiyle ilgili iki farklı iddiayı değerlendirirken her iddianın dayandığı verileri inceler ve farklı başvuru kaynaklarındaki açıklamaları karşılaştırır.\n\n<b>Bu davranış, “sorgulayıcı” insanın hangi alt özelliğini göstermektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72223,7 +72223,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Bir çalışan, mesleğinde yeni bir uygulama\ngeliştirildiğini öğrenince eğitimlere katılır. Meslek\nyaşamı boyunca yeni öğrenme fırsatları aramayı\nsürdürür.\nBu davranış, “üretken” insanın hangi alt özelliğine\nörnektir?",
+    "questionText": "Bir çalışan, mesleğinde yeni bir uygulama geliştirildiğini öğrenince eğitimlere katılır. Meslek yaşamı boyunca yeni öğrenme fırsatları aramayı sürdürür.\n\n<b>Bu davranış, “üretken” insanın hangi alt özelliğine örnektir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72260,7 +72260,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "“Vatansever” insanın alt özellikleriyle ilgili\naşağıdaki ifadelerden hangisi doğrudur?",
+    "questionText": "<b>“Vatansever” insanın alt özellikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72297,7 +72297,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Aşağıdaki davranışlardan hangisi “ahlaklı” insanın\ngüvenilir olma alt özelliğini en belirgin biçimde\nörneklendirir?",
+    "questionText": "<b>Aşağıdaki davranışlardan hangisi “ahlaklı” insanın güvenilir olma alt özelliğini en belirgin biçimde örneklendirir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72334,7 +72334,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bir öğrenci, öğrenmek istediği bir konu için bilgiye\nulaşma yolları arar. Edindiği bilgileri ve deneyimlerini\ndaha sonra arkadaşlarına aktarır.\nBu iki davranış, “bilge” insanın sırasıyla hangi alt\nözellikleriyle ilişkilidir?",
+    "questionText": "Bir öğrenci, öğrenmek istediği bir konu için bilgiye ulaşma yolları arar. Edindiği bilgileri ve deneyimlerini daha sonra arkadaşlarına aktarır.\n\n<b>Bu iki davranış, “bilge” insanın sırasıyla hangi alt özellikleriyle ilişkilidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72371,7 +72371,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "“Sağlıklı” insanın özellikleri kapsamında\naşağıdakilerden hangisi yer almaz?",
+    "questionText": "<b>“Sağlıklı” insanın özellikleri kapsamında aşağıdakilerden hangisi yer almaz?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72408,7 +72408,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "Bir okulda iletişim aksaklığı yaşandığını gören\nöğretmen, kendisine görev verilmesini beklemeden\nbir çözüm önerisi hazırlar; çalışmayı başlatır ve ekibin\nişlerini yönlendirir.\nBu davranış, “cesaretli” insanın hangi alt özelliğini en\nkapsamlı biçimde örneklendirir?",
+    "questionText": "Bir okulda iletişim aksaklığı yaşandığını gören öğretmen, kendisine görev verilmesini beklemeden bir çözüm önerisi hazırlar; çalışmayı başlatır ve ekibin işlerini yönlendirir.\n\n<b>Bu davranış, “cesaretli” insanın hangi alt özelliğini en kapsamlı biçimde örneklendirir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72445,7 +72445,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "I. Bir sanat eserindeki güzelliği fark edip takdir\netme\nII. Üzücü bir olay karşısında kaba sözlerden kaçınarak\nnazik iletişim kurma\nIII. Günlük yaşamında aşırılıklardan kaçınarak dengeli\ndavranma\nBu davranışlar, “estetik” insanın sırasıyla hangi alt\nözellikleriyle ilişkilidir?",
+    "questionText": "I. Bir sanat eserindeki güzelliği fark edip takdir etme\nII. Üzücü bir olay karşısında kaba sözlerden kaçınarak nazik iletişim kurma\nIII. Günlük yaşamında aşırılıklardan kaçınarak dengeli davranma\n\n<b>Bu davranışlar, “estetik” insanın sırasıyla hangi alt özellikleriyle ilişkilidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72482,7 +72482,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "Bir öğretmen, bir uygulamanın öğrenciler\naçısından haksız sonuçlar doğuracağını fark eder.\nKendisine kolaylık sağlayacak olmasına rağmen bu\nuygulamayı benimsemez; kararında ahlaki ve\ntoplumsal değerleri temel alır.\nBu davranış, “iradeli” insanın hangi alt özelliğine\nörnektir?",
+    "questionText": "Bir öğretmen, bir uygulamanın öğrenciler açısından haksız sonuçlar doğuracağını fark eder. Kendisine kolaylık sağlayacak olmasına rağmen bu uygulamayı benimsemez; kararında ahlaki ve toplumsal değerleri temel alır.\n\n<b>Bu davranış, “iradeli” insanın hangi alt özelliğine örnektir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72519,7 +72519,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "“Merhametli” insanın alt özellikleriyle ilgili\naşağıdaki eşleştirmelerden hangileri doğrudur?\nI. İyilik yapmaktan mutluluk duyma — İyiliksever\nII. İhtiyaç sahibi kişilere yardım etme — Yardımsever\nIII. Bilgi, kaynak ve zamanını başkalarıyla paylaşma —\nPaylaşımcı\nIV. İnsanlara sevgi ve saygıyla yaklaşma — Affedici",
+    "questionText": "<b>“Merhametli” insanın alt özellikleriyle ilgili aşağıdaki eşleştirmelerden hangileri doğrudur?</b>\n\nI. İyilik yapmaktan mutluluk duyma — İyiliksever\nII. İhtiyaç sahibi kişilere yardım etme — Yardımsever\nIII. Bilgi, kaynak ve zamanını başkalarıyla paylaşma — Paylaşımcı\nIV. İnsanlara sevgi ve saygıyla yaklaşma — Affedici",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72556,7 +72556,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Bir proje ekibi, çalışma koşulları değiştiğinde\nplanını yeni duruma uyarlar. Üyeler birbirlerinin farklı\ngörüşlerini dinler ve ortak çalışmaya katkıda bulunur.\nBu davranışlarda “sorgulayıcı” insanın hangi iki alt\nözelliği birlikte görülmektedir?",
+    "questionText": "Bir proje ekibi, çalışma koşulları değiştiğinde planını yeni duruma uyarlar. Üyeler birbirlerinin farklı görüşlerini dinler ve ortak çalışmaya katkıda bulunur.\n\n<b>Bu davranışlarda “sorgulayıcı” insanın hangi iki alt özelliği birlikte görülmektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72593,7 +72593,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "“Üretken” insanın alt özellikleriyle ilgili aşağıdaki\neşleştirmelerden hangileri doğrudur?\nI. Geleceğe ilişkin amaçlar belirleyip plan yapma —\nHayal ve hedefleri olan\nII. Sorunlara yenilikçi çözümler geliştirme — Yaratıcı\nIII. Güçlükle karşılaşınca çabasını sürdürme — Azimli\nve sabırlı\nIV. Öğrenme sürecine aktif ve düzenli katılma —\nÇalışkan",
+    "questionText": "<b>“Üretken” insanın alt özellikleriyle ilgili aşağıdaki eşleştirmelerden hangileri doğrudur?</b>\n\nI. Geleceğe ilişkin amaçlar belirleyip plan yapma — Hayal ve hedefleri olan\nII. Sorunlara yenilikçi çözümler geliştirme — Yaratıcı\nIII. Güçlükle karşılaşınca çabasını sürdürme — Azimli ve sabırlı\nIV. Öğrenme sürecine aktif ve düzenli katılma — Çalışkan",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72630,7 +72630,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 16,
-    "questionText": "“Vatansever” insanın özellikleriyle ilgili aşağıdaki\neşleştirmelerden hangisi yanlıştır?",
+    "questionText": "<b>“Vatansever” insanın özellikleriyle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72667,7 +72667,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "yaklaşımına uygun bir eğitim planında\naşağıdakilerden hangisine yer verilmesi beklenir?",
+    "questionText": "<b>Türkiye Yüzyılı Maarif Modeli’nin temel yaklaşımına uygun bir eğitim planında aşağıdakilerden hangisine yer verilmesi beklenir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72704,7 +72704,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Bir öğrenci bir alandaki bilgi ve becerileri edinmiş;\naynı zamanda ahlaki davranışlarıyla olgunluk\ngöstermiştir.\nBu iki yön, öğrenci profilinde sırasıyla hangi\nkavramlarla açıklanır?",
+    "questionText": "Bir öğrenci bir alandaki bilgi ve becerileri edinmiş; aynı zamanda ahlaki davranışlarıyla olgunluk göstermiştir.\n\n<b>Bu iki yön, öğrenci profilinde sırasıyla hangi kavramlarla açıklanır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72741,7 +72741,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "Bir öğretmen, öğrencinin bedenini ve ruhsal\nyönünü birbirinden koparmadan gelişimini\ndesteklemek gerektiğini belirtmektedir.\nBu vurgu aşağıdaki kavramlardan hangisiyle\nilişkilidir?",
+    "questionText": "Bir öğretmen, öğrencinin bedenini ve ruhsal yönünü birbirinden koparmadan gelişimini desteklemek gerektiğini belirtmektedir.\n\n<b>Bu vurgu aşağıdaki kavramlardan hangisiyle ilişkilidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72778,7 +72778,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Bir eğitimci, “Öğrencinin bilgiye sahip olması\nkadar bu bilgiyi hayatı anlamlandırmada bilgece\nkullanması da önemlidir.” demektedir.\nBu görüş, öğrenci profilinin hangi boyutunu vurgular?",
+    "questionText": "Bir eğitimci, “Öğrencinin bilgiye sahip olması kadar bu bilgiyi hayatı anlamlandırmada bilgece kullanması da önemlidir.” demektedir.\n\n<b>Bu görüş, öğrenci profilinin hangi boyutunu vurgular?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72815,7 +72815,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "I. Kültürel birikimi geçmişten geleceğe eğitim\nyoluyla taşıma\nII. Ahlaki bilinç ve estetik bakış açısını geliştirme\nBu amaçlar sırasıyla hangi kavramlarla ilişkilidir?",
+    "questionText": "I. Kültürel birikimi geçmişten geleceğe eğitim yoluyla taşıma\nII. Ahlaki bilinç ve estetik bakış açısını geliştirme\n\n<b>Bu amaçlar sırasıyla hangi kavramlarla ilişkilidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72852,7 +72852,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "Yetkin ve erdemli insanın özellikleri dikkate\nalındığında “öfkesini kontrol eden” alt özelliği\naşağıdaki başlıklardan hangilerinde birlikte yer alır?",
+    "questionText": "<b>Yetkin ve erdemli insanın özellikleri dikkate alındığında “öfkesini kontrol eden” alt özelliği aşağıdaki başlıklardan hangilerinde birlikte yer alır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72889,7 +72889,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Erdem-Değer-Eylem Çerçevesi’nin genel\ngörünümünde saygı, sorumluluk ve adalet\ndeğerleriyle birlikte hangi üç alan yer alır?",
+    "questionText": "<b>Erdem-Değer-Eylem Çerçevesi’nin genel görünümünde saygı, sorumluluk ve adalet değerleriyle birlikte hangi üç alan yer alır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72926,7 +72926,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bütüncül gelişimi desteklemek için bir okulun;\nI. öğretim programları ile sosyal etkinlikleri\nilişkilendirmesi,\nII. dijital ekosistemi öğrenmeyi destekleyecek\nbiçimde kullanması,\nIII. öğretmen gelişimini öğrenci gelişimiyle birlikte ele\nalması\nuygulamalarından hangileri uygundur?",
+    "questionText": "Bütüncül gelişimi desteklemek için bir okulun;\n\nI. öğretim programları ile sosyal etkinlikleri ilişkilendirmesi,\nII. dijital ekosistemi öğrenmeyi destekleyecek biçimde kullanması,\nIII. öğretmen gelişimini öğrenci gelişimiyle birlikte ele alması\n\n<b>uygulamalarından hangileri uygundur?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72963,7 +72963,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Bir öğretmen aynı öğrenme amacı için, desteğe\nihtiyaç duyan öğrencilere yönlendirmeli etkinlikler;\ndaha ileri düzeydeki öğrencilere derinleştirici\ngörevler sunar.\nBu uygulama aşağıdaki yaklaşımlardan hangisine\nörnektir?",
+    "questionText": "Bir öğretmen aynı öğrenme amacı için, desteğe ihtiyaç duyan öğrencilere yönlendirmeli etkinlikler; daha ileri düzeydeki öğrencilere derinleştirici görevler sunar.\n\n<b>Bu uygulama aşağıdaki yaklaşımlardan hangisine örnektir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73000,7 +73000,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "uygulamalardan hangisi benimsenen öğrenme\nanlayışına uygun değildir?",
+    "questionText": "<b>Türkiye Yüzyılı Maarif Modeli’nde aşağıdaki uygulamalardan hangisi benimsenen öğrenme anlayışına uygun değildir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73037,7 +73037,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "I. Sosyal-duygusal öğrenme becerileri\nII. Erdem-Değer-Eylem Çerçevesi\nIII. Sistem düşüncesi ve okuryazarlık becerileri\nIV. Eğilimler\nBunlardan hangileri programlar arası bileşenlerdir?",
+    "questionText": "I. Sosyal-duygusal öğrenme becerileri\nII. Erdem-Değer-Eylem Çerçevesi\nIII. Sistem düşüncesi ve okuryazarlık becerileri\nIV. Eğilimler\n\n<b>Bunlardan hangileri programlar arası bileşenlerdir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73074,7 +73074,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "Modelin program geliştirme tasarımında\nöğrenme çıktıları hangi unsurların bütünleşmesiyle\noluşturulur?",
+    "questionText": "<b>Modelin program geliştirme tasarımında öğrenme çıktıları hangi unsurların bütünleşmesiyle oluşturulur?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73111,7 +73111,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "Bir öğretmen, öğrencilerin hedeflenen çıktılara\nne ölçüde ulaştığını belirlemek için süreçteki\nçalışmalarını ve ortaya koydukları ürünleri inceler.\nBu çalışmalar ve ürünler modelde hangi kavramla\nilişkilidir?",
+    "questionText": "Bir öğretmen, öğrencilerin hedeflenen çıktılara ne ölçüde ulaştığını belirlemek için süreçteki çalışmalarını ve ortaya koydukları ürünleri inceler.\n\n<b>Bu çalışmalar ve ürünler modelde hangi kavramla ilişkilidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73148,7 +73148,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Dersin ardından bir öğretmen, kullandığı\netkinliklerin güçlü yanlarını ve programın\nuygulamada güçlük oluşturan yönlerini gözden\ngeçirip sonraki ders için düzenleme yapar.\nBu süreç aşağıdakilerden hangisidir?",
+    "questionText": "Dersin ardından bir öğretmen, kullandığı etkinliklerin güçlü yanlarını ve programın uygulamada güçlük oluşturan yönlerini gözden geçirip sonraki ders için düzenleme yapar.\n\n<b>Bu süreç aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73185,7 +73185,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Öğrenciler, yerel bir müzede farklı derslerle\nilişkili incelemeler yaparak ilgi alanlarını keşfeder ve\nkültürel mirasa ilişkin toplumsal sorumluluklarını\ntartışır.\nBu çalışma aşağıdakilerden hangisinin işlevini\nörneklendirir?",
+    "questionText": "Öğrenciler, yerel bir müzede farklı derslerle ilişkili incelemeler yaparak ilgi alanlarını keşfeder ve kültürel mirasa ilişkin toplumsal sorumluluklarını tartışır.\n\n<b>Bu çalışma aşağıdakilerden hangisinin işlevini örneklendirir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73222,7 +73222,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "Kavramsal becerilerle ilgili aşağıdaki ifadelerden\nhangisi doğrudur?",
+    "questionText": "<b>Kavramsal becerilerle ilgili aşağıdaki ifadelerden hangisi doğrudur?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73259,7 +73259,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Bir öğrenci, bir okulun iletişim sistemini incelerken\nsistemi oluşturan birimleri belirler; birimler\narasındaki bilgi akışının nasıl kurulduğunu açıklar.\nBu çalışmada hangi bütünleşik beceri öne çıkar?",
+    "questionText": "Bir öğrenci, bir okulun iletişim sistemini incelerken sistemi oluşturan birimleri belirler; birimler arasındaki bilgi akışının nasıl kurulduğunu açıklar.\n\n<b>Bu çalışmada hangi bütünleşik beceri öne çıkar?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73296,7 +73296,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "I. Bahçedeki bitkilerin yaprak dokusunu ve\nkokusunu duyularıyla inceleme\nII. Bir konu için farklı belgelerden bilgi edinme, bilgiyi\ndoğrulayıp kaydetme\nBu çalışmalar sırasıyla hangi becerilerle ilişkilidir?",
+    "questionText": "I. Bahçedeki bitkilerin yaprak dokusunu ve kokusunu duyularıyla inceleme\nII. Bir konu için farklı belgelerden bilgi edinme, bilgiyi doğrulayıp kaydetme\n\n<b>Bu çalışmalar sırasıyla hangi becerilerle ilişkilidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73333,7 +73333,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Bir öğrenci, uzun bir konuşmanın ana düşüncesini\nbelirleyip yardımcı düşünceleri düzenler; konuşmayı\nkendi cümleleriyle kısa ve bütünlüklü biçimde aktarır.\nBu çalışma hangi beceriye örnektir?",
+    "questionText": "Bir öğrenci, uzun bir konuşmanın ana düşüncesini belirleyip yardımcı düşünceleri düzenler; konuşmayı kendi cümleleriyle kısa ve bütünlüklü biçimde aktarır.\n\n<b>Bu çalışma hangi beceriye örnektir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73370,7 +73370,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Bir öğrenci önce atık malzemeleri türlerine göre\ngruplandırır; ardından bu grupların geri dönüşüm\nsüreçlerindeki benzerlik ve farklılıklarını belirler.\nÖğrenci sırasıyla hangi becerileri kullanmıştır?",
+    "questionText": "Bir öğrenci önce atık malzemeleri türlerine göre gruplandırır; ardından bu grupların geri dönüşüm süreçlerindeki benzerlik ve farklılıklarını belirler.\n\n<b>Öğrenci sırasıyla hangi becerileri kullanmıştır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73407,7 +73407,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "Bir öğrenci, okul kütüphanesinden haftada 40\nkitap ödünç alındığını gösteren kayıtları inceler. Aynı\nhızın sürmesi varsayımıyla sonraki üç haftada 120\nkitap alınacağını hesaplar.\nBu işlem hangi beceriyi örneklendirir?",
+    "questionText": "Bir öğrenci, okul kütüphanesinden haftada 40 kitap ödünç alındığını gösteren kayıtları inceler. Aynı hızın sürmesi varsayımıyla sonraki üç haftada 120 kitap alınacağını hesaplar.\n\n<b>Bu işlem hangi beceriyi örneklendirir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73444,7 +73444,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Bir öğretmen, gerçekleştirdiği grup çalışmasını\ngözden geçirir; katılımı azaltan etkenlerden sonuçlar\nçıkararak bu sonuçları sonraki etkinliğin planına\naktarır.\nBu süreç hangi bütünleşik becerinin örneğidir?",
+    "questionText": "Bir öğretmen, gerçekleştirdiği grup çalışmasını gözden geçirir; katılımı azaltan etkenlerden sonuçlar çıkararak bu sonuçları sonraki etkinliğin planına aktarır.\n\n<b>Bu süreç hangi bütünleşik becerinin örneğidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73481,7 +73481,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bir öğrenci;\nI. tek tek örneklerden genel bir kurala ulaşır,\nII. genel bir kuralı özel bir duruma uygular,\nIII. iki sistemin benzer işleyişinden yararlanarak\ndüşünür.\nBu işlemlerin doğru sırası hangisidir?",
+    "questionText": "Bir öğrenci;\n\nI. tek tek örneklerden genel bir kurala ulaşır,\nII. genel bir kuralı özel bir duruma uygular,\nIII. iki sistemin benzer işleyişinden yararlanarak düşünür.\n\n<b>Bu işlemlerin doğru sırası hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73518,7 +73518,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Bir öğrenci, tasarlanan afişler için okunaklılık ve\nbilgi doğruluğu ölçütleri belirler. Afişleri bu ölçütlere\ngöre inceleyip her biri hakkında yargıya varır.\nHangi bütünleşik beceri kullanılmıştır?",
+    "questionText": "Bir öğrenci, tasarlanan afişler için okunaklılık ve bilgi doğruluğu ölçütleri belirler. Afişleri bu ölçütlere göre inceleyip her biri hakkında yargıya varır.\n\n<b>Hangi bütünleşik beceri kullanılmıştır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73555,7 +73555,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "Bir kurul, etkinlik yeri seçerken amacını belirler,\nbilgi toplar, alternatifleri oluşturur, seçeneklerin\nuygunluğunu inceler ve seçim yapar. Sonuçları daha\nsonra gözden geçirir.\nBu sürecin bütünü hangi beceridir?",
+    "questionText": "Bir kurul, etkinlik yeri seçerken amacını belirler, bilgi toplar, alternatifleri oluşturur, seçeneklerin uygunluğunu inceler ve seçim yapar. Sonuçları daha sonra gözden geçirir.\n\n<b>Bu sürecin bütünü hangi beceridir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73592,7 +73592,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "Aşağıdaki beceri üçlülerinden hangisi eleştirel\ndüşünmenin açıklamasında birlikte yer alır?",
+    "questionText": "<b>Aşağıdaki beceri üçlülerinden hangisi eleştirel düşünmenin açıklamasında birlikte yer alır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73629,7 +73629,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "Modelin fiziksel becerilere yaklaşımına uygun\ndeğerlendirme aşağıdakilerden hangisidir?",
+    "questionText": "<b>Modelin fiziksel becerilere yaklaşımına uygun değerlendirme aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73666,7 +73666,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "I. Merak — Benlik eğilimi\nII. Empati — Sosyal eğilim\nIII. Gerçeği arama — Entelektüel eğilim\nIV. Odaklanma — Sosyal eğilim\nBu eşleştirmelerden hangileri doğrudur?",
+    "questionText": "I. Merak — Benlik eğilimi\nII. Empati — Sosyal eğilim\nIII. Gerçeği arama — Entelektüel eğilim\nIV. Odaklanma — Sosyal eğilim\n\n<b>Bu eşleştirmelerden hangileri doğrudur?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73703,7 +73703,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Bir öğrenci, grup baskısına rağmen kendi\ngerekçelerine göre bir çalışma konusu seçer ve\nseçiminin sorumluluğunu üstlenir.\nBu tutum hangi benlik eğilimiyle ilişkilidir?",
+    "questionText": "Bir öğrenci, grup baskısına rağmen kendi gerekçelerine göre bir çalışma konusu seçer ve seçiminin sorumluluğunu üstlenir.\n\n<b>Bu tutum hangi benlik eğilimiyle ilişkilidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73740,7 +73740,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Eğilimlerle ilgili;\nI. becerilerin eyleme geçirilmesini destekler,\nII. niyet, duyarlılık ve isteklilikle ilişkilidir,\nIII. benlik, sosyal ve entelektüel boyutlarda ele alınır\nifadelerinden hangileri doğrudur?",
+    "questionText": "Eğilimlerle ilgili;\n\nI. becerilerin eyleme geçirilmesini destekler,\nII. niyet, duyarlılık ve isteklilikle ilişkilidir,\nIII. benlik, sosyal ve entelektüel boyutlarda ele alınır\n\n<b>ifadelerinden hangileri doğrudur?</b>",
     "hasImage": false,
     "image": null,
     "options": [
