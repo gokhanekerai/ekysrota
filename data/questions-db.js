@@ -39084,8 +39084,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "V"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Marmara / Ergene Havzası)<br><br>📌 <strong>Akarsularda Hidroelektrik Enerji Potansiyeli:</strong><br>• Bir akarsuyun hidroelektrik potansiyeli; aktığı arazinin <strong>yatak eğimine, ortalama yükseltisine ve akış hızına</strong> doğrudan bağlıdır.<br>• Haritada IV numarayla gösterilen Marmara (Ergene Havzası) arazisi ortalama yükseltisi ve eğimi en az olan yerdir; akarsular menderes çizerek yavaş akar, bu nedenle hidroelektrik enerji potansiyeli en düşüktür.<br>• Doğu Anadolu ve Doğu Karadeniz ise yükselti ve eğim nedeniyle en yüksek potansiyele sahiptir."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (III - Marmara / Ergene Havzası)<br><br>📌 <strong>Akarsularda Hidroelektrik Enerji Potansiyeli:</strong><br>• Bir akarsuyun hidroelektrik enerji potansiyeli; aktığı arazinin <strong>ortalama yükseltisine, yatak eğimine ve akış hızına</strong> doğrudan bağlıdır.<br>• Haritada <strong>III numara</strong> ile gösterilen Marmara (Ergene / Güney Marmara) arazisi ortalama yükseltisi ve eğimi en az olan yerdir; akarsular menderes çizerek yavaş akar, bu nedenle hidroelektrik enerji potansiyeli en düşüktür.<br>• <strong>I (Doğu Karadeniz / Çoruh):</strong> Yükselti ve eğim nedeniyle potansiyelin en yüksek olduğu yerdir.<br>• <strong>II (Batı Karadeniz):</strong> Dağlık ve engebeli arazi nedeniyle akış hızı ve potansiyeli yüksektir.<br>• <strong>IV (Orta Toroslar / Göksu):</strong> Dağlık araziden Akdeniz'e dik indiği için potansiyeli yüksektir.<br>• <strong>V (Güneydoğu Toroslar / Fırat Havzası):</strong> Türkiye'nin en büyük hidroelektrik barajlarının bulunduğu yüksek potansiyelli sahadır."
   },
   {
     "id": "cogr_test_8-q2",
