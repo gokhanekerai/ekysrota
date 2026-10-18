@@ -43055,33 +43055,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 1,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 1)",
+    "questionText": "Türkiye'de dağların güneye bakan yamaçları, kuzeye bakan yamaçlarına göre güneş ışınlarını daha büyük açıyla alır ve daha çok ısınır. Bu duruma bakı etkisi denir.<br><br>Buna göre, yukarıdaki Türkiye haritasında numaralandırılan alanların hangisinde <strong>bakı etkisi en azdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q1.png",
+    "image": "assets/questions/cogr_test_17_q1_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Bakı Etkisi ve Sıcaklık:\n• Türkiye Kuzey Yarım Küre'de ve Yengeç Dönencesi'nin kuzeyinde yer aldığı için dağların güneye bakan yamaçları (bakı yamacı) Güneş ışınlarını daha dik açıyla alır ve daha sıcaktır.\n• Toroslar'ın güney yamaçlarının kuzey yamaçlarına göre daha sıcak olması, tarım ürünlerinin daha erken olgunlaşması ve yerleşmelerin güneyde toplanması bakı etkisinin sonucudur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bakı etkisinin belirgin şekilde hissedilebilmesi için arazinin engebeli, dağlık ve belirgin yamaçlara sahip olması gerekir. <strong>III numara (Güneydoğu Anadolu - Şanlıurfa Platosu)</strong> düz, sade ve engebesiz bir topoğrafyaya sahip olduğu için dağlık yamaç barındırmaz ve bakı etkisi en az hissedilir.<br><br>❌ <strong>Haritadaki Diğer Noktaların Analizi:</strong><br>• <strong>I Numara (Biga Yöresi / Kazdağı):</strong> Dağlık ve engebeli yamaçlarda bakı farkı belirgindir.<br>• <strong>II Numara (Küre Dağları / Sinop):</strong> Karadeniz dağlarının kuzey ve güney yamaçlarında belirgin bakı farkı yaşanır.<br>• <strong>IV Numara (Aladağlar / Orta Toroslar):</strong> Yüksek dağlık yamaçlarda güney yamaç çok daha sıcaktır.<br>• <strong>V Numara (Batı Toroslar / Beydağları):</strong> Dik dağ yamaçlarında bakı etkisi son derece güçlüdür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Bakı etkisi sorularında dağlık olmayan düz ovalık ve platoluk alanlarda (Güneydoğu Anadolu, Konya Ovası, Ergene Havzası) bakı etkisinin minimum olduğu unutulmamalıdır.</em>"
   },
   {
     "id": "cogr_test_17-q2",
@@ -43092,33 +43092,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 2,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q2.png",
+    "questionText": "Aşağıdaki merkez çiftlerinden hangisinin sıcaklık farkı <strong>yalnızca yükselti</strong> ile açıklanabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İzmir - Van"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Sinop - Konya"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ankara - Erzurum"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Trabzon - Erzurum"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Çanakkale - Ağrı"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Sıcaklık Dağılışını Etkileyen Faktörler:\n• Türkiye'de batıdan doğuya doğru gidildikçe sıcaklıkların düzenli olarak azalmasının temel nedeni Yükseltinin artmasıdır.\n• Deniz kıyılarından iç kesimlere gidildikçe sıcaklık farklarının artması ise karasallık ve nem azlığı ile açıklanır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ankara - Erzurum)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bir merkez çiftinin sıcaklık farkının <em>yalnızca yükselti</em> ile açıklanabilmesi için; merkezlerin yaklaşık olarak <strong>aynı enlemde</strong> yer alması (enlem etkisini sıfırlamak için) ve her ikisinin de <strong>denizden uzak, karasal</strong> olması (denizellik etkisini sıfırlamak için) gerekir.<br>• <strong>Ankara (~39.9°K, ~900 m)</strong> ve <strong>Erzurum (~39.9°K, ~1900 m)</strong> yaklaşık aynı enlemdedir ve ikisi de iç kesimde karasaldır. Aralarındaki yaklaşık 7-8°C'lik sıcaklık farkı <em>yalnızca Erzurum'un 1000 metre daha yüksek olmasıyla</em> açıklanır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>İzmir - Van:</strong> İzmir kıyıda denizel, Van iç kesimde karasaldır (hem denizellik hem yükselti etkilidir).<br>• <strong>Sinop - Konya:</strong> Enlemleri farklıdır (enlem faktörü devreye girer).<br>• <strong>Trabzon - Erzurum:</strong> Trabzon denizel ve nemli, Erzurum karasal ve kurudur.<br>• <strong>Çanakkale - Ağrı:</strong> Denizellik-karasallık ve boylam faktörleri birliktedir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>\"Yalnızca yükselti\" sorulduğunda daima aynı paralel/enlem üzerindeki iki karasal merkez aranmalıdır (Ankara-Erzurum, İzmir-Afyon gibi).</em>"
   },
   {
     "id": "cogr_test_17-q3",
@@ -43129,33 +43129,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 3,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q3.png",
+    "questionText": "Güneydoğu Anadolu Bölgesi'nde yaz mevsiminde sıcaklıkların Akdeniz Bölgesi'nden daha yüksek olmasında;<br><br>I. Basra alçak basıncının etkisi,<br>II. Samyeli (keşişleme) rüzgarlarının esmesi,<br>III. Nem oranının düşük olması,<br>IV. Buharlaşma şiddetinin fazla olması<br><br>faktörlerinden hangisi bir neden değil, <strong>sıcaklığın bir sonucudur</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız III"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız IV"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve II"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Temmuz Ayı Sıcaklık Dağılışı:\n• Temmuz ayında Türkiye'nin en sıcak yeri Güneydoğu Anadolu (Şanlıurfa vb.) bölgesidir.\n• Nedenleri: Güneyden gelen sıcak çöl rüzgarları (Samyeli/Keşişleme), Basra Alçak Basıncı ve aşırı karasallık/nem azlığıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Coğrafyada neden-sonuç ayrımı ÖSYM'nin en sevdiği tuzaklardandır:<br>• <strong>Basra Alçak Basıncı (I):</strong> Sıcak hava taşır (NEDENDİR).<br>• <strong>Samyeli Rüzgarı (II):</strong> Çöl üzerinden kuru sıcak hava getirir (NEDENDİR).<br>• <strong>Nem Oranının Düşük Olması (III):</strong> Havanın aşırı ısınmasını kolaylaştırır (NEDENDİR).<br>• <strong>Buharlaşma Şiddetinin Fazla Olması (IV):</strong> Sıcaklık ve kuraklık yüksek olduğu için yerdeki su hızla buharlaşır; yani buharlaşma şiddeti yüksek sıcaklığın sebebi değil, doğrudan <strong>SONUCUDUR</strong>.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Buharlaşma şiddeti, tarımsal sulama ihtiyacı ve kuraklık yüksek sıcaklığın birer \"sonucudur\"; basınç, rüzgar ve nem düşüklüğü ise \"nedenidir\".</em>"
   },
   {
     "id": "cogr_test_17-q4",
@@ -43166,33 +43166,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 4,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 4)",
+    "questionText": "Gerçek sıcaklık ile deniz seviyesine indirgenmiş sıcaklık arasındaki farkın az olduğu yerlerde yükselti azdır.<br><br>Buna göre, yukarıdaki Türkiye haritasında numaralandırılan alanların hangisinde <strong>gerçek sıcaklık ile indirgenmiş sıcaklık arasındaki fark en azdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q4.png",
+    "image": "assets/questions/cogr_test_17_q4_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 İndirgenmiş Sıcaklık Kavramı:\n• İndirgenmiş sıcaklık; bir merkezin gerçek yükseltisinin yok sayılarak deniz seviyesine (0 metreye) uyarlandığı kuramsal sıcaklıktır (her 200 m yükselti için sıcaklığa +1°C eklenir).\n• İndirgenmiş sıcaklık haritalarında YÜKSELTİ faktörü tamamen ortadan kaldırıldığı için sıcaklık farkları sadece Enlem, Karasallık ve Denizellik ile açıklanır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İndirgenmiş sıcaklık ile gerçek sıcaklık arasındaki fark yükseltiyle doğru orantılıdır: <strong>Fark = Yükselti / 200 m</strong>.<br>• <strong>I Numara (Marmara - Ergene Havzası):</strong> Ortalama yükseltisi 50-100 metredir. Türkiye'nin ortalama yükseltisi en az olan bölgesi Marmara olduğu için gerçek sıcaklık ile indirgenmiş sıcaklık arasındaki fark 0.5°C'den azdır (En az fark).<br><br>❌ <strong>Haritadaki Diğer Noktaların Analizi:</strong><br>• <strong>II Numara (İç Ege - Afyon):</strong> Yükselti ~1000 m, fark ~5°C.<br>• <strong>III Numara (Taşeli Platosu):</strong> Yükselti ~1500-2000 m, fark ~8-10°C.<br>• <strong>IV Numara (Erzurum-Kars):</strong> Yükselti ~2000 m, fark ~10°C ile en fazladır.<br>• <strong>V Numara (Diyarbakır Havzası):</strong> Yükselti ~600-800 m, fark ~3-4°C.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Gerçek ile indirgenmiş sıcaklık farkının EN AZ olduğu bölge Marmara, EN FAZLA olduğu bölge Doğu Anadolu'dur.</em>"
   },
   {
     "id": "cogr_test_17-q5",
@@ -43203,33 +43203,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 5,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 5)",
+    "questionText": "Nem oranının fazla olduğu yerlerde havanın aşırı ısınması ve aşırı soğuması engellendiği için yıllık sıcaklık farkı az olur.<br><br>Buna göre, haritada numaralandırılan merkezlerin hangisinde <strong>yıllık sıcaklık farkı en azdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q5.png",
+    "image": "assets/questions/cogr_test_17_q5_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Sıcaklık Farkı ve Nemlilik:\n• Nem oranının yüksek olduğu kıyı bölgelerinde (örneğin Karadeniz ve Akdeniz) hava yavaş ısınır, yavaş soğur; günlük ve yıllık sıcaklık farkı azdır.\n• Nem oranının düşük olduğu kurak iç kesimlerde (İç Anadolu, Güneydoğu, Doğu Anadolu) ise aşırı ısınma ve aşırı soğuma nedeniyle sıcaklık farkı çok yüksektir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Nem ve bulutluluk ısınma ve soğumayı dengeleyerek yıllık sıcaklık farkını azaltır.<br>• <strong>I Numara (Rize / Doğu Karadeniz):</strong> Türkiye'nin yıl boyu en nemli, en bulutlu ve en fazla yağış alan yeridir. Yazlar serin, kışlar ılık geçer; bu sayede yıllık sıcaklık farkı Türkiye'de <strong>en az</strong> olan yerdir (~13-14°C).<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>II Numara (Ankara):</strong> Karasal iklim, yıllık fark ~22°C.<br>• <strong>III Numara (İzmir):</strong> Denizeldir ancak yazları Akdeniz kuraklığı nedeniyle Karadeniz kadar nemli değildir.<br>• <strong>IV Numara (Erzurum-Kars):</strong> Sert karasal iklim ve yüksek rakım nedeniyle yıllık sıcaklık farkının Türkiye'de <strong>en fazla</strong> olduğu yerdir (>30°C).<br>• <strong>V Numara (Şanlıurfa):</strong> Aşırı yaz sıcaklığı ve kış soğumasıyla fark oldukça yüksektir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de yıllık ve günlük sıcaklık farkının en az olduğu yer Doğu Karadeniz kıyıları (Rize), en fazla olduğu yer ise sert karasallıktan dolayı Erzurum-Kars Platosu'dur.</em>"
   },
   {
     "id": "cogr_test_17-q6",
@@ -43240,33 +43240,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 6,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 6)",
+    "questionText": "Ekvator'dan kutuplara doğru gidildikçe güneş ışınlarının geliş açısı küçülür ve sıcaklık azalır. Buna enlem etkisi denir. Aynı enlem üzerinde yer alan merkezlerin sıcaklıklarının da yaklaşık olarak birbirine yakın olması beklenir.<br><br>Buna göre, haritada gösterilen merkez çiftlerinden hangisinin sıcaklıklarının farklı olması <strong>enlem-sıcaklık ilişkisi ile çelişir (açıklanamaz)</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q6.png",
+    "image": "assets/questions/cogr_test_17_q6_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sinop - Mersin"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Trabzon - Şanlıurfa"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İzmir - Elazığ"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Samsun - Adana"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Zonguldak - Antalya"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Ocak Ayı Sıcaklık Dağılışı:\n• Ocak ayında Türkiye'nin en sıcak yerleri denizellik ve enlem etkisiyle Akdeniz kıyıları (10°C civarı), en soğuk yerleri ise aşırı yükselti ve karasallıkla Doğu Anadolu (Erzurum-Kars, -10°C altı) platolarıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İzmir - Elazığ)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada <strong>İzmir ve Elazığ</strong> yaklaşık aynı enlem (~38.5°K) üzerinde gösterilmiştir. Enlem kuralına göre güneş ışınlarını yıl boyunca aynı açıyla aldıkları için sıcaklıklarının benzer olması gerekirdi.<br>Ancak <strong>İzmir deniz seviyesinde ve denizel</strong> iken, <strong>Elazığ karasal ve ~1060 m yüksekte</strong> yer alır. İzmir'in yıllık ortalaması ~17.5°C iken Elazığ'ın ~13°C'dir. Bu sıcaklık farkı enlemle açıklanamaz, doğrudan enlem kuralına <strong>çelişki</strong> teşkil eder (karasallık ve yükselti nedeniyledir).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Sinop-Mersin, Trabzon-Şanlıurfa, Samsun-Adana, Zonguldak-Antalya çiftlerinde güneydeki merkezlerin daha sıcak olması enlem etkisine tamamen uygundur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>\"Enleme ters düşer / çelişir\" sorularında iki kalıp vardır: 1) Aynı enlemde olup sıcaklığı farklı olanlar (İzmir-Elazığ), 2) Kuzeyde olup güneydekinden daha sıcak olanlar (Kışın Trabzon'un Erzurum'dan sıcak olması).</em>"
   },
   {
     "id": "cogr_test_17-q7",
@@ -43277,33 +43277,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 7,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 7)",
+    "questionText": "Türkiye'de kış mevsiminde etkili olan, dondurucu soğuklara, ayaza ve kar yağışına neden olan Sibirya Termik Yüksek Basınç merkezi ülkemize kuzeydoğu yönünden giriş yapar.<br><br>Buna göre, haritada numaralandırılan alanların hangisinde bu basınç merkezinin etkisi kış aylarında <strong>en belirgin olarak hissedilir</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q7.png",
+    "image": "assets/questions/cogr_test_17_q7_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Türkiye'yi Etkileyen Basınç Merkezleri:\n• Kışın Türkiye'de aşırı soğuk, don ve ayaz getiren basınç merkezi Sibirya Termik Yüksek Basıncı'dır.\n• Kışın ılık, yağışlı ve fırtınalı havalara yol açan ise İzlanda Dinamik Alçak Basıncı'dır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Sibirya Termik Yüksek Basıncı (TYB)</strong>, kışın Asya kıtasının aşırı soğumasıyla oluşur ve Türkiye'ye <strong>kuzeydoğudan</strong> giriş yapar. Kafkaslar üzerinden ilk olarak <strong>IV numara ile gösterilen Erzurum-Kars-Ardahan Platosu</strong>'nu etkisi altına alır.<br>Bu basınç merkezi etkili olduğunda gökyüzü açıktır fakat dondurucu ayaz, şiddetli don olayları ve sıcaklıkların -30°C'lere kadar düşmesi yaşanır.<br><br>❌ <strong>Haritadaki Diğer Noktaların Analizi:</strong><br>• I Numara: Yıldız Dağları (Marmara)<br>• II Numara: Batı Karadeniz Kıyısı<br>• III Numara: Ege Kıyısı (İzmir)<br>• V Numara: Çukurova (Akdeniz)<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Sibirya Termik Yüksek Basıncı: Sadece kışın etkilidir, kuzeydoğudan gelir, ayaz ve kuru soğuk yapar, en çok Erzurum-Kars'ı etkiler.</em>"
   },
   {
     "id": "cogr_test_17-q8",
@@ -43314,33 +43314,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 8,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 8)",
+    "questionText": "Yukarıdaki Türkiye yıllık indirgenmiş izoterm (eş sıcaklık) haritası incelendiğinde, aşağıdaki yargılardan <strong>hangisine ulaşılamaz</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q8.png",
+    "image": "assets/questions/cogr_test_17_q8_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "En yüksek sıcaklıklar Güneydoğu Anadolu'da görülmektedir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Sıcaklıklar genel olarak güneyden kuzeye doğru azalmaktadır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Doğu Anadolu'da sıcaklıkların düşük olmasında yükseltinin fazla olması etkilidir."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kıyılar ile iç kesimler arasında sıcaklık farkları bulunmaktadır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "En düşük sıcaklıklar Kuzeydoğu Anadolu'da ölçülmektedir."
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Yıllık İndirgenmiş İzoterm Haritası Analizi:\n• İndirgenmiş izoterm haritasında en yüksek sıcaklıklar güneyde (Güneydoğu ve Akdeniz), en düşük sıcaklıklar ise kuzeydoğuda görülür. Sıcaklığın genel olarak güneyden kuzeye azalması enlem etkisini gösterir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Doğu Anadolu'da yükselti yargısı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Harita bir <strong>İNDİRGENMİŞ</strong> izoterm haritasıdır. İndirgenmiş sıcaklık haritalarında yer şekillerinin yükseltisi formülle 0 metreye (deniz seviyesine) indirgenir.<br>Bu nedenle bir indirgenmiş haritaya bakılarak sıcaklığın dağılışında <strong>yükseltinin etkisi ASLA ileri sürülemez ve ulaşılamaz</strong>. Doğu Anadolu'daki sıcaklık düşüklüğü bu haritada yalnızca karasallık ve enlemle açıklanabilir.<br><br>❌ <strong>Haritadan Ulaşılabilen Diğer Bilgiler:</strong><br>• <strong>A:</strong> Haritada 20°C ve üstü eğriler Güneydoğu'dadır (Doğru).<br>• <strong>B:</strong> Güneyden (19-20°C) kuzeye (13-14°C) sıcaklık genel olarak azalır (Doğru).<br>• <strong>D:</strong> Eğriler kıyılarda ve iç kesimlerde bükülmeler yapar (Doğru).<br>• <strong>E:</strong> 13°C altı en düşük sıcaklıklar Kuzeydoğu Anadolu'dadır (Doğru).<br><br>💡 <strong>ÖSYM Altın Kuralı:</strong> <em>Soru kökünde \"indirgenmiş harita\" ifadesini gördüğünüz anda aklınıza ilk gelecek kural: \"İndirgenmiş haritada yükselti faktörü aranmaz ve yükseltiye bağlı açıklama yapılamaz!\"</em>"
   },
   {
     "id": "cogr_test_17-q9",
@@ -43351,33 +43351,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 9,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q9.png",
+    "questionText": "21 Mart ve 23 Eylül ekinoks tarihlerinde güneş ışınları Türkiye'ye aynı açıyla gelmesine rağmen, 23 Eylül'de sıcaklıkların 21 Mart'tan belirgin şekilde daha yüksek olmasının <strong>temel nedeni</strong> aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Isı birikimi (yaz mevsiminden çıkılmış olması)"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Gündüz süresinin daha uzun olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Basınç merkezlerinin yer değiştirmesi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Türkiye'nin güneşe olan mesafesinin azalması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Bakı etkisinin yön değiştirmesi"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Ekinoks ve Güneş Işınlarının Geliş Açısı:\n• 21 Mart ve 23 Eylül (Ekinoks) tarihlerinde Güneş ışınları Ekvator'a dik açıyla gelir. Ankara (39°K) için öğle vakti Güneş ışınlarının geliş açısı: 90° - 39° = 51°'dir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Isı birikimi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>21 Mart ve 23 Eylül tarihlerinde ekinoks yaşanır; güneş ışınları Ekvator'a dik gelir ve Türkiye'deki bütün noktalara her iki tarihte de güneş ışınları tamamen <strong>aynı açıyla</strong> düşer.<br>Ancak 21 Mart'ta kış mevsiminden yeni çıkıldığı için yeryüzünde <strong>ısı kaybı</strong> en üst düzeydedir. 23 Eylül'de ise sıcak yaz mevsiminden yeni çıkıldığı için toprakta ve denizlerde <strong>ısı birikimi</strong> devam etmektedir. Bu nedenle 23 Eylül, 21 Mart'tan çok daha sıcaktır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Tıpkı günün en sıcak anının Güneş'in tepeye geldiği 12:00 değil, ısı birikiminden dolayı 14:00 olması gibi; ekinokslarda da 23 Eylül'ün 21 Mart'tan sıcak olması tamamen ISI BİRİKİMİ ile ilgilidir.</em>"
   },
   {
     "id": "cogr_test_17-q10",
@@ -43388,33 +43388,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 10,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q10.png",
+    "questionText": "Türkiye'de Akdeniz ikliminin karakteristik bitki örtüsü olan makilerin deniz seviyesinden itibaren yetişebildiği üst sınır;<br>• Antalya çevresinde yaklaşık 800-900 metre,<br>• İzmir çevresinde yaklaşık 500-600 metre,<br>• Çanakkale çevresinde yaklaşık 300-400 metredir.<br><br>Makilerin üst sınırının güneyden kuzeye doğru alçalması, aşağıdakilerden hangisiyle <strong>doğrudan açıklanır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Karasallık derecesinin artmasıyla"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Bakı yönünün değişmesiyle"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yağış rejiminin düzensizleşmesiyle"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Enlem etkisiyle sıcaklığın azalmasıyla"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yükseltinin batıya doğru azalmasıyla"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Enlem Etkisine Kanıt:\n• Akdeniz kıyılarındaki ortalama sıcaklık ve deniz suyu sıcaklığının Karadeniz kıyılarından daha yüksek olması doğrudan Ekvator'a yakınlık (Enlem) ile açıklanır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Enlem etkisiyle sıcaklığın azalmasıyla)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Antalya'dan Çanakkale'ye doğru gidildikçe <strong>enlem derecesi büyür</strong>, güneş ışınlarının geliş açısı küçülür ve sıcaklıklar azalır.<br>Bitkiler belirli bir sıcaklık eşiğinin altına düşüldüğünde yaşayamazlar. Kuzeye doğru gidildikçe dağ yamaçları daha çabuk soğuduğu için bitkilerin çıkabildiği en yüksek seviye (üst sınır) deniz seviyesine doğru giderek alçalır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de güneyden kuzeye doğru gidildikçe: 1) Kalıcı kar alt sınırı alçalır, 2) Orman üst sınırı alçalır, 3) Maki üst sınırı alçalır, 4) Tarım ve yerleşme üst sınırı alçalır. Bu sınırların hepsinin güneyden kuzeye alçalmasının temel nedeni ENLEM (sıcaklığın azalması) etkisidir.</em>"
   },
   {
     "id": "cogr_test_17-q11",
@@ -43425,33 +43425,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 11,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 11)",
+    "questionText": "Nemlilik oranının fazla olduğu deniz kıyılarında sıcaklık farkları iç kesimlere göre daha azdır.<br><br>Buna göre, yukarıdaki haritada numaralandırılan merkezlerden hangisinde <strong>yıllık sıcaklık farkı en azdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q11.png",
+    "image": "assets/questions/cogr_test_17_q11_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Merkezler Arası Sıcaklık Karşılaştırması:\n• Aynı enlem üzerinde yer alan merkezlerde sıcaklıkların farklı olması özel konum (denizellik, yükselti, karasallık) şartlarıyla açıklanır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Havadaki su buharı (nem), yerin aşırı ısınmasını ve aşırı soğumasını önleyen doğal bir yorgan görevi görür.<br>• <strong>V Numara (Mersin / Akdeniz Kıyısı):</strong> Deniz kıyısında yer aldığı için bağıl nem oranı yıl boyunca oldukça yüksektir. Bu nem kışın havanın aşırı soğumasını engeller ve yıllık sıcaklık farkının haritadaki diğer karasal merkezlere göre <strong>en az</strong> olmasını sağlar.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (Kırıkkale / Ankara çevresi):</strong> Karasal, nem az, sıcaklık farkı yüksektir.<br>• <strong>II Numara (Konya Havzası):</strong> İç Anadolu karasallığı, yıllık fark ~20-22°C.<br>• <strong>III Numara (Sivas Yöresi):</strong> Yüksek ve karasal, kışlar çok soğuktur.<br>• <strong>IV Numara (Erzurum-Kars):</strong> Sert karasal iklim nedeniyle yıllık sıcaklık farkı Türkiye'de en yüksek alandır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Yıllık sıcaklık farkı kıyılardan iç kesimlere ve batıdan doğuya gidildikçe karasallık ve yükseltinin artmasına bağlı olarak artar.</em>"
   },
   {
     "id": "cogr_test_17-q12",
@@ -43462,33 +43462,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 12,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q12.png",
+    "questionText": "Türkiye'de kış mevsiminde etkili olan;<br><br>I. İzlanda Dinamik Alçak Basıncı,<br>II. Asor Dinamik Yüksek Basıncı,<br>III. Sibirya Termik Yüksek Basıncı<br><br>basınç merkezlerinden hangisi etkili olduğunda Türkiye genelinde <strong>aşırı dondurucu soğuklar, ayaz ve şiddetli don olayları</strong> yaşanır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II ve III"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Basınç Merkezleri Özellikleri:\n• Asor Yüksek Basıncı (DYB): 30° dinamik kökenlidir, yazın Türkiye'de kurak ve sıcak havanın egemen olmasını sağlar.\n• Basra Alçak Basıncı (TAB): Termik kökenlidir, yaz aylarında Güneydoğu'da aşırı sıcaklık ve buharlaşmaya neden olur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yalnız III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Sibirya Termik Yüksek Basıncı (III):</strong> Yalnızca kış mevsiminde etkili olur. Asya kıtasının aşırı soğumasıyla oluşur. Kuzeydoğudan ülkemize sokulduğunda havadaki nemi süpürür; gökyüzünü açar ve dondurucu kuru kutup ayazına, şiddetli don ve buzlanma olaylarına sebep olur.<br>• <strong>İzlanda Dinamik Alçak Basıncı (I):</strong> Kışın etkili olduğunda ılık, nemli ve bol cephesel yağışlı (kar ve yağmur) hava getirir; kuru ayaz yapmaz.<br>• <strong>Asor Dinamik Yüksek Basıncı (II):</strong> Subtropikal kökenlidir, genelde ılık ve kurak hava şartları oluşturur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Kışın hava \"ılık ve bol yağışlı\" ise İzlanda AB; hava \"açık, dondurucu ayaz ve şiddetli don\" varsa Sibirya YB etkilidir.</em>"
   },
   {
     "id": "cogr_test_17-q13",
@@ -43499,33 +43499,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 13,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 13)",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralandırılarak oklarla gösterilen yerel rüzgarlar aşağıdakilerden hangisinde doğru olarak verilmiştir?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>I</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>II</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>III</u></strong>",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q13.png",
+    "image": "assets/questions/cogr_test_17_q13_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Karayel - Günbatısı - Lodos"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yıldız - Günbatısı - Kıble"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Poyraz - İmbat - Samyeli"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yıldız - Lodos - Keşişleme"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Karayel - İmbat - Kıble"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Yerel Rüzgarlar:\n• Kuzeybatıdan esen: Karayel\n• Kuzeyden esen: Yıldız\n• Kuzeydoğudan esen: Poyraz\n• Güneybatıdan esen: Lodos\n• Güneyden esen: Kıble\n• Güneydoğudan esen: Samyeli (Keşişleme)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yıldız - Günbatısı - Kıble)<br><br>🎯 <strong>Rüzgarların Yön Analizi:</strong><br>• <strong>I Numaralı Ok:</strong> Doğrudan kuzeyden Karadeniz üzerinden güneye doğru esmektedir → <strong>YILDIZ</strong>.<br>• <strong>II Numaralı Ok:</strong> Doğrudan batıdan Ege kıyılarından doğuya doğru esmektedir → <strong>GÜNBATISI</strong>.<br>• <strong>III Numaralı Ok:</strong> Doğrudan güneyden Akdeniz üzerinden kuzeye doğru esmektedir → <strong>KIBLE</strong>.<br><br>💡 <strong>ÖSYM Kodlaması (KAYIP SAKAL):</strong><br>• <em>Kuzeyden Esenler (Soğuk):</em> <strong>Ka</strong>rayel (KB) - <strong>Yı</strong>ldız (K) - <strong>P</strong>oyraz (KD)<br>• <em>Güneyden Esenler (Sıcak):</em> <strong>Sa</strong>myeli (GD) - <strong>K</strong>ıble (G) - <strong>L</strong>odos (GB)<br>• Doğrudan batıdan: Günbatısı, doğrudan doğudan: Gündoğusu."
   },
   {
     "id": "cogr_test_17-q14",
@@ -43536,33 +43536,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 14,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 14)",
+    "questionText": "Bir bölgede rüzgarın yıl içinde en sık estiği yöne \"hâkim rüzgar yönü\" denir ve rüzgar frekans gülleri yer şekillerinin uzanış doğrultusuna doğrudan uyum sağlar.<br><br>Buna göre, Ege Bölgesi'nde dağların ve graben ovalarının (Bakırçay, Gediz, Küçük ve Büyük Menderes) <strong>doğu-batı doğrultusunda</strong> uzandığı göz önüne alındığında, İzmir yöresine ait rüzgar frekans gülü aşağıdakilerden hangisidir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q14.png",
+    "image": "assets/questions/cogr_test_17_q14_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kuzey-Güney uzanımlı frekans gülü"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Her yöne eşit dairesel frekans gülü"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kuzeydoğu-Güneybatı uzanımlı frekans gülü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kuzeybatı-Güneydoğu uzanımlı frekans gülü"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Doğu-Batı uzanımlı yatay frekans gülü"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Rüzgar Frekans Gülü ve Boğazlar:\n• Çanakkale ve İstanbul Boğazı'nda yer şekilleri KD-GB doğrultusunda uzandığı için rüzgar frekans gülleri kuzeydoğu-güneybatı yönlü hakim rüzgar kanallarını gösterir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu-Batı uzanımlı yatay frekans gülü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Rüzgar frekans güllerinde kollar rüzgarın en sık estiği yönleri gösterir. Rüzgarlar yer şekillerinin açık olduğu koridorlardan (vadi, graben, boğaz) rahatça eserken, dağ sıralarının önünde engellenir.<br>Ege Bölgesi'nde (İzmir) dağlar denize dik uzanır ve aralarında <strong>Doğu-Batı doğrultulu graben vadileri</strong> (Gediz, Menderes) yer alır. Bu nedenle rüzgar en çok Doğu ve Batı yönlerinden eser; Kuzey ve Güney dağlarla kapalıdır. Bu durumu yansıtan şekil <strong>E şıkkındaki yatay Doğu-Batı rüzgar gülüdür</strong>.<br><br>💡 <strong>ÖSYM Frekans Gülü Kalıpları:</strong><br>• Çanakkale ve İstanbul Boğazları → <em>Kuzeydoğu - Güneybatı</em> uzanımlı gül.<br>• İzmir ve Ege Grabenleri → <em>Doğu - Batı</em> uzanımlı gül.<br>• Etrafı dağlarla çevrili düzlükler (Konya) → <em>Dairesel / her yöne eşit</em> gül."
   },
   {
     "id": "cogr_test_17-q15",
@@ -43573,33 +43573,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 15,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 15)",
+    "questionText": "Türkiye'de etkili olan yerel rüzgarların genel esiş yönleri dikkate alındığında, yukarıdaki haritada numaralandırılan oklardan <strong>hangisinin esiş yönü yanlış gösterilmiştir</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q15.png",
+    "image": "assets/questions/cogr_test_17_q15_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Rüzgarların Sıcaklığa Etkisi:\n• Kuzey Yarım Küre'de yer aldığımız için kuzey yönlü rüzgarlar (Yıldız, Karayel, Poyraz) sıcaklığı düşürür; güney yönlü rüzgarlar (Lodos, Kıble, Samyeli) sıcaklığı artırır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V numara)<br><br>🎯 <strong>Haritadaki Okların ve Rüzgarların Doğruluk Analizi:</strong><br>• <strong>I Numara:</strong> Kuzeybatıdan esen Karayel rüzgarıdır (Doğru).<br>• <strong>II Numara:</strong> Kuzeydoğudan esen Poyraz rüzgarıdır (Doğru).<br>• <strong>III Numara:</strong> Güneybatıdan esen Lodos rüzgarıdır (Doğru).<br>• <strong>IV Numara:</strong> Güneydoğudan esen Samyeli (Keşişleme) rüzgarıdır (Doğru).<br>• <strong>V Numara:</strong> Kıble rüzgarı doğrudan güneyden kuzeye doğru (↑) esmesi gerekirken, haritada doğudan batıya (←) doğru esen ters bir okla gösterilmiştir. Bu nedenle <strong>V numaralı okun esiş yönü yanlıştır</strong>.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Rüzgarların esiş yönleri pusulaya göre belirlenir: Karayel (KB), Yıldız (K), Poyraz (KD), Samyeli (GD), Kıble (G), Lodos (GB).</em>"
   },
   {
     "id": "cogr_test_17-q16",
@@ -43610,33 +43610,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 16,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q16.png",
+    "questionText": "Türkiye'de kış mevsiminde güneybatı yönünden esen, deniz üzerinden geldiği için ılık ve nemli olan, kar erimelerine, taşkınlara ve deniz ulaşımında aksamalara neden olan, aynı zamanda soba zehirlenmelerine yol açtığı için halk arasında \"gözü yaşlı\" olarak da bilinen rüzgar aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Karayel"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Poyraz"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Samyeli"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Lodos"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Keşişleme"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Lodos Rüzgarı:\n• Güneybatı yönünden esen sıcak ve nemli rüzgardır. Kış aylarında kar erimelerine, soba zehirlenmelerine ve deniz ulaşımında fırtınalara neden olur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Lodos)<br><br>🎯 <strong>Lodos Rüzgarının Belirgin Özellikleri:</strong><br>• <strong>Esiş Yönü:</strong> Güneybatıdan (Akdeniz ve Ege üzerinden) gelir.<br>• <strong>Karakteri:</strong> Ilık ve nemlidir. Kış aylarında estiğinde ani sıcaklık artışıyla karları eritip su baskınlarına ve çığlara sebep olur.<br>• <strong>Deniz Ulaşımı:</strong> Özellikle Marmara ve Ege'de dev dalgalar oluşturarak deniz seferlerini iptal ettirir.<br>• <strong>Soba Zehirlenmesi:</strong> Alçak basınç getirdiği için bacaların çekişini bozar ve dumanı odaya geri basarak zehirlenmelere yol açar; bu nedenle halk arasında \"soba katili\" ve getirdiği yağmurlardan dolayı \"gözü yaşlı rüzgar\" olarak bilinir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Soruda \"güneybatı\", \"kar erimesi\", \"soba zehirlenmesi\", \"deniz ulaşımında iptal\" ve \"gözü yaşlı\" kavramları görülüyorsa cevap tartışmasız LODOS'tur.</em>"
   },
   {
     "id": "cogr_test_17-q17",
@@ -43647,33 +43647,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 17,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 17)",
+    "questionText": "Basınç merkezleri oluşum kökenlerine göre termik (ısınma ve soğumaya bağlı) ve dinamik (Dünya'nın günlük hareketine bağlı) olmak üzere ikiye ayrılır.<br><br>Buna göre, yukarıdaki haritada gösterilen basınç merkezlerinden hangileri <strong>termik kökenlidir</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q17.png",
+    "image": "assets/questions/cogr_test_17_q17_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sibirya YB - Basra AB"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İzlanda AB - Asor YB"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İzlanda AB - Sibirya YB"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Asor YB - Basra AB"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Sibirya YB - Asor YB"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Termik Basınç Merkezleri:\n• Dünyanın şekli ve ısınma/soğuma farklarına bağlı olarak oluşan termik basınçlar Sibirya TYB (kışın soğumayla) ve Basra TAB (yazın aşırı ısınmayla)'dır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sibirya YB - Basra AB)<br><br>🎯 <strong>Basınç Merkezlerinin Köken Analizi:</strong><br>1. <strong>Termik Kökenliler (Isınma - Soğuma):</strong><br>• <em>Sibirya Termik Yüksek Basıncı (TYB):</em> Kışın Asya karasının aşırı soğuması sonucu ağırlaşan havanın çökmesiyle oluşur.<br>• <em>Basra Termik Alçak Basıncı (TAB):</em> Yazın Basra çöl sahasının aşırı ısınması sonucu havanın genleşip yükselmesiyle oluşur.<br>2. <strong>Dinamik Kökenliler (Dünya'nın Günlük Hareketi):</strong><br>• <em>İzlanda Dinamik Alçak Basıncı (DAB):</em> 60° enlemlerinde rüzgarların karşılaşmasıyla dinamik olarak oluşur.<br>• <em>Asor Dinamik Yüksek Basıncı (DYB):</em> 30° subtropikal enlemlerde havanın yığılıp alçalmasıyla dinamik olarak oluşur.<br><br>💡 <strong>ÖSYM Altın Kodlaması:</strong><br>• <strong>S</strong> ve <strong>B</strong> (Sibirya ve Basra) = <strong>TERMİK</strong> kökenlidir.<br>• <strong>İ</strong> ve <strong>A</strong> (İzlanda ve Asor) = <strong>DİNAMİK</strong> kökenlidir."
   },
   {
     "id": "cogr_test_17-q18",
@@ -43684,33 +43684,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "☀️",
     "questionNumber": 18,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 17: İklim - 1 (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_17_q18.png",
+    "questionText": "Türkiye'de yaz mevsiminde Güneydoğu Anadolu Bölgesi'nde sıcaklıkların Akdeniz kıyılarından daha yüksek olmasında ve şiddetli kuraklık yaşanmasında etkili olan <strong>basınç merkezi ve yerel rüzgar</strong> aşağıdakilerin hangisinde birlikte verilmiştir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sibirya YB - Poyraz"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İzlanda AB - Karayel"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Asor YB - Lodos"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Basra AB - Samyeli"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Basra AB - Etezyen"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Güneydoğu'nun Yaz Sıcaklığı Nedenleri:\n• Basra Alçak Basıncı'nın çekim alanı, güneyden esen Samyeli rüzgarı, şiddetli karasallık ve bulutsuzluk Güneydoğu'yu Türkiye'nin en sıcak yeri yapar."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Basra AB - Samyeli)<br><br>🎯 <strong>Güneydoğu'da Yaz Sıcaklığını Artıran Faktörler:</strong><br>• <strong>Basra Termik Alçak Basıncı:</strong> Yaz mevsiminde Basra Körfezi ve çevresinin aşırı ısınmasıyla oluşur, ülkemizi güneydoğudan etkisi altına alarak aşırı sıcak ve kuru çöl havasını Güneydoğu Anadolu'ya pompalar.<br>• <strong>Samyeli (Keşişleme) Rüzgarı:</strong> Suriye ve Irak çölleri üzerinden güneydoğudan eser; fön karakterli sıcak ve kuru bir rüzgardır, bağıl nemi tüketir ve buharlaşma şiddetini rekor seviyelere ulaştırır.<br>• Bu iki etken bir araya geldiğinde Güneydoğu Anadolu, yaz aylarında Akdeniz kıyılarından bile daha sıcak bir hal alır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Güneydoğu Anadolu'yu yazın kavuran muhteşem ikili: Basra Alçak Basıncı ve Samyeli (Keşişleme) rüzgarıdır.</em>"
   },
   {
     "id": "cogr_test_18_1-q1",
