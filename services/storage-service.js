@@ -322,8 +322,14 @@ class StorageService {
     let pool = this.getWrongPool();
     pool = pool.filter(item => item.id !== questionId);
     localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
-    this.syncCloud();
+    this.syncCloudImmediate();
     return pool;
+  }
+
+  clearWrongPool() {
+    localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify([]));
+    this.syncCloudImmediate();
+    return [];
   }
 
   // --- FAVORİ (YILDIZLI) SORULAR ---
@@ -349,7 +355,7 @@ class StorageService {
     }
 
     localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(favs));
-    this.syncCloud();
+    this.syncCloudImmediate();
     return isFav;
   }
 
@@ -593,22 +599,40 @@ class StorageService {
       }
     }
 
-    // 2. Yanlış Havuzunu Senkronize Et (Kayıpsız birleştirme)
+    // 2. Yanlış Havuzunu Senkronize Et
     if (Array.isArray(data.wrongPool)) {
-      const localWrong = this.getWrongPool();
-      const map = new Map();
-      localWrong.forEach(q => { if (q && q.id) map.set(q.id, q); });
-      data.wrongPool.forEach(q => { if (q && q.id) map.set(q.id, q); });
-      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
+      if (isRealtimeSync) {
+        // Canlı bulut bildiriminde kullanıcının yaptığı silmeler/temizlemeler doğrudan kabul edilir
+        localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
+      } else {
+        // Bulut havuzu boş ise (kullanıcı daha önce temizlemiş ise) yereli de boşalt
+        if (data.wrongPool.length === 0) {
+          localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify([]));
+        } else {
+          const localWrong = this.getWrongPool();
+          const map = new Map();
+          localWrong.forEach(q => { if (q && q.id) map.set(q.id, q); });
+          data.wrongPool.forEach(q => { if (q && q.id) map.set(q.id, q); });
+          localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
+        }
+      }
     }
 
-    // 3. Yıldızlı Soruları Senkronize Et (Kayıpsız birleştirme)
+    // 3. Yıldızlı Soruları Senkronize Et
     if (Array.isArray(data.favorites)) {
-      const localFav = this.getFavorites();
-      const map = new Map();
-      localFav.forEach(q => { if (q && q.id) map.set(q.id, q); });
-      data.favorites.forEach(q => { if (q && q.id) map.set(q.id, q); });
-      localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
+      if (isRealtimeSync) {
+        localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(data.favorites));
+      } else {
+        if (data.favorites.length === 0) {
+          localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify([]));
+        } else {
+          const localFav = this.getFavorites();
+          const map = new Map();
+          localFav.forEach(q => { if (q && q.id) map.set(q.id, q); });
+          data.favorites.forEach(q => { if (q && q.id) map.set(q.id, q); });
+          localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
+        }
+      }
     }
 
     // 4. Özel Sorular

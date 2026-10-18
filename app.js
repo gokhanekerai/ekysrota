@@ -4329,7 +4329,12 @@ class EKYSApp {
 
   clearWrongPool() {
     if (confirm('Tüm yanlış havuzunu sıfırlamak istediğinize emin misiniz?')) {
-      localStorage.setItem(window.storageService.KEYS.WRONG_POOL, JSON.stringify([]));
+      if (window.storageService && typeof window.storageService.clearWrongPool === 'function') {
+        window.storageService.clearWrongPool();
+      } else {
+        localStorage.setItem(window.storageService.KEYS.WRONG_POOL, JSON.stringify([]));
+        if (window.storageService) window.storageService.syncCloudImmediate();
+      }
       this.renderWrongPoolList();
       this.renderDashboard();
       this.showToast('Yanlış havuzu temizlendi.', 'success');
