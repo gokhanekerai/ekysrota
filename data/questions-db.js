@@ -45053,33 +45053,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 1,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q1.png",
+    "questionText": "Bazı göl çanaklarının oluşumunda karstik süreçler etkilidir.\n\nAşağıdakilerden hangisi bu süreçte oluşmuş göllerden biridir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Hazar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Sapanca"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Abant"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Uluabat"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Hafik"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de yer şekillerinin engebeli ve yüksek olması;\n• İklim ve bitki örtüsü çeşitliliğini artırır,\n• Kısa mesafelerde sıcaklık ve yağış değişimlerine yol açar,\n• Tarım ürünlerinin olgunlaşma sürelerini farklılaştırır,\n• Akarsuların akış hızını ve hidroelektrik potansiyelini artırır.\nE seçeneğindeki ifade genel yer şekilleri etkisini eksiksiz özetler."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Göl Türleri ve Oluşumları:</strong>\n• <strong>Hafik Gölü (Sivas):</strong> Jips (alçıtaşı) erimesiyle oluşan çanakta su birikmesi sonucu meydana gelmiş tipik bir <strong>karstik göldür</strong>.\n• <strong>Hazar, Sapanca, Uluabat:</strong> Fay hatlarına bağlı çöküntü alanlarında oluşan <strong>tektonik göllerdir</strong>.\n• <strong>Abant Gölü:</strong> Heyelan kütlesinin vadi önünü kapatmasıyla oluşan <strong>heyelan set gölüdür</strong>."
   },
   {
     "id": "cogr_test_12-q2",
@@ -45090,33 +45090,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 2,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 2)",
+    "questionText": "Aşağıdaki haritada bazı dağ sıraları numaralandırılarak gösterilmiştir.\n\nBu dağ sıralarının adları aşağıdakilerin hangisinde doğru olarak verilmiştir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_12_q2.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I: Sultan / II: Ilgaz / III: Mercan"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I: Ilgaz / II: Mercan / III: Sultan"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I: Sultan / II: Mercan / III: Ilgaz"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I: Mercan / II: Sultan / III: Ilgaz"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I: Mercan / II: Ilgaz / III: Sultan"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nDelta ovaları alüvyon birikintileriyle oluşur ve taban suyu seviyesi yüksektir. Bu sahalarda deprem anında sıvılaşma riski yüksektir; ayrıca taşkın riski bulunur. Bu ovaların yerleşime ve sanayiye açılması yerine tarımsal sit alanı olarak korunması gerekir.\n\n❌ **Çeldiriciler:**\n• Sanayi ve yoğun konut inşası için en riskli arazilerdir."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Türkiye'nin Dağ Sıraları:</strong>\n• <strong>I Numaralı Alan (Sultan Dağları):</strong> İç Batı Anadolu ile Göller Yöresi (Afyon-Konya-Isparta) sınırında uzanan kıvrım dağıdır.\n• <strong>II Numaralı Alan (Ilgaz Dağları):</strong> Batı Karadeniz'de Kastamonu ve Çankırı sınırında yer alan sıradağlardır.\n• <strong>III Numaralı Alan (Mercan / Munzur Dağları):</strong> Doğu Anadolu'da Tunceli-Erzincan hattında uzanan yüksek kıvrım dağlarıdır."
   },
   {
     "id": "cogr_test_12-q3",
@@ -45127,33 +45127,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 3,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q3.png",
+    "questionText": "Anadolu'da jeolojik dönemler boyunca yağışlı ve nemli iklim koşullarına bağlı olarak gür bir bitki örtüsü gelişmiştir. Bu bitkilerin göl ve bataklık ortamlarda birikmesi sonucu zamanla zengin kömür yatakları oluşmuştur. Bunlardan rezerv bakımından en zengin olanı linyit yataklarıdır. Soma, Yatağan, Elbistan gibi linyit yatakları bunlardan bazılarıdır.\n\nBu yataklar aşağıdaki jeolojik dönemlerin hangisinde oluşmuştur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Prekambriyen"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Paleozoyik"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Mesozoyik"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Tersiyer"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kuvaterner"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nKarstik arazilerde (kireçtaşı / kalker) yeraltı sularının eritmesiyle mağaralar oluşur. Bu mağara tavanlarının çökmesiyle **obruklar** meydana gelir. Son yıllarda İç Anadolu'da (Konya/Karapınar) aşırı yeraltı suyu kullanımı obruk oluşumunu hızlandırmıştır.\n\n❌ **Çeldiriciler:**\n• Heyelan eğim ve aşırı yağışla, çığ kar birikimiyle, rüzgar erozyonu kuraklıkla ilgilidir."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Jeolojik Zamanlar ve Kaynaklar:</strong>\n• <strong>Tersiyer (III. Jeolojik Zaman / Neojen):</strong> Türkiye'deki zengin linyit yatakları (Soma, Yatağan, Afşin-Elbistan), petrol, bor ve tuz yatakları bu dönemdeki göl/bataklık tortullaşmalarıyla meydana gelmiştir.\n• <strong>Paleozoyik (I. Zaman):</strong> Zonguldak taş kömürü yataklarının oluştuğu zamandır.\n• <strong>Kuvaterner (IV. Zaman):</strong> Günümüz kıyı çizgisi, boğazlar ve delta ovalarının teşekkül ettiği dönemdir."
   },
   {
     "id": "cogr_test_12-q4",
@@ -45164,33 +45164,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 4,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 4)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q4.png",
+    "questionText": "Bitki coğrafyası üzerine araştırma yapan bir grup, yapacakları araştırma gezisinde farklı bitki türlerini görmeyi hedeflemektedir. Grup lideri yükseltinin kısa mesafede değiştiği sahalarda bitki türlerinin farklılaşacağını dikkate alarak bir güzergâh belirlemeye çalışmaktadır.\n\nAşağıdaki güzergâhlardan hangisi bu grubun çalışmalarına daha uygundur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Eskişehir - Ankara"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Diyarbakır - Siirt"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ordu - Tokat"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Edirne - Tekirdağ"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Bayburt - Erzurum"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de erozyonun en şiddetli olduğu bölgeler bitki örtüsünün zayıf, kurak ve yarı kurak iklimin hakim olduğu **İç Anadolu ve Güneydoğu Anadolu** bölgeleridir.\n\n❌ **Çeldiriciler:**\n• Karadeniz'de gür orman örtüsü nedeniyle rüzgar erozyonu değil, kütle hareketleri (heyelan) görülür."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Yükselti ve Bitki Çeşitliliği Kuşakları:</strong>\n• <strong>Ordu - Tokat Güzergâhı:</strong> Karadeniz kıyısından iç kesimlere doğru Canik Dağları aşıldığı için deniz seviyesindeki nemli geniş yapraklı ormanlardan (kayın, kestane), yükseldikçe iğne yapraklı ormanlara, dağ çayırlarına ve iç havzada karasal bozkırlara (step) çok kısa bir mesafede geçilir.\n• <strong>Diğer Güzergâhlar:</strong> Belirgin bir dağ sırası aşılmadığı için morfoloji ve bitki örtüsü tekdüzedir."
   },
   {
     "id": "cogr_test_12-q5",
@@ -45201,33 +45201,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 5,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 5)",
+    "questionText": "Türkiye'de dalga aşındırmasının yoğun olduğu kıyılarda yalıyar (falez) adı verilen diklik veya uçurumlara sıklıkla rastlanır.\n\nHaritada numaralandırılan kıyıların hangisinde bu yer şekli daha az görülmektedir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_12_q5.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nHeyelan riskinin en fazla olduğu bölge **Doğu ve Batı Karadeniz**'dir. Nedenleri:\n1. Eğim ve engebenin fazla olması,\n2. Yağış miktarının yüksek olması,\n3. Killi toprak yapısının suyu emerek kayganlaşması,\n4. İlkbaharda kar erimeleri ve tabakaların eğim yönünde uzanmasıdır.\n\n❌ **Çeldiriciler:**\n• Heyelanın en çok görüldüğü mevsim ilkbahardır (kar erimeleri + yağış)."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Falez (Yalıyar) ve Delta Kıyıları Morfolojisi:</strong>\n• <strong>II Numaralı Alan (Çukurova Deltası):</strong> Seyhan ve Ceyhan nehirlerinin alüvyon biriktirmesiyle oluşan geniş bir delta ovasıdır. Kıyı derinliği az (sığ) olduğundan dalga aşındırması (falez) oluşamaz; aksine dalga biriktirme şekilleri (kumsal, lagün) yaygındır.\n• <strong>I, III, IV, V Numaralı Alanlar:</strong> Dağların kıyıya paralel ve dik indiği Karadeniz ve Akdeniz (Teke/Taşeli) kıyılarında yüksek falezler yaygındır."
   },
   {
     "id": "cogr_test_12-q6",
@@ -45238,33 +45238,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 6,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 6)",
+    "questionText": "Yukarıdaki haritada numaralarla gösterilen ve kuş uçumu uzaklıkları aynı olan yerlerin doğal koşulları göz önüne alındığında, hangilerinde demir yolu yapım maliyetinin daha yüksek olması beklenir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_12_q6.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve IV"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nÇığ felaketi, eğimli yamaçlarda biriken kalın kar örtüsünün yerçekimi, ses, titreşim veya rüzgar etkisiyle aşağı kaymasıdır. Türkiye'de en fazla **Doğu Anadolu (Hakkari, Van, Bitlis, Erzurum vb.) ve Doğu Karadeniz'in yüksek dağlık kesimlerinde** görülür.\n\n❌ **Çeldiriciler:**\n• Marmara ve Ege ovalarında yükselti ve kar kalınlığı yetersiz olduğu için çığ riski yoktur."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Engebe ve Ulaşım Maliyetleri:</strong>\n• <strong>I Numaralı Alan (Doğu Karadeniz):</strong> Kıyı ile iç kesim arasında Kaçkar ve Doğu Karadeniz sıradağları yükseldiğinden çok sayıda tünel ve viyadük yapımı gerektirir; maliyet en yüksektir.\n• <strong>IV Numaralı Alan (Teke Yöresi / Toroslar):</strong> Engebeli ve karstik dağlık arazi demir yolu inşasını çok zorlaştırır ve pahalı kılar.\n• <strong>II (İç Anadolu) ve III (Güneydoğu Anadolu):</strong> Düz ve dalgasız plato sahaları olduğu için demir yolu yapımı en ucuzdur."
   },
   {
     "id": "cogr_test_12-q7",
@@ -45275,33 +45275,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 7,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q7.png",
+    "questionText": "I. Uzunyayla Platosu'nda buzul şekilleri yaygındır.\nII. Cihanbeyli Platosu'nda derin kanyon vadiler yaygındır.\nIII. Kapadokya Platosu'nda volkanik şekiller yaygındır.\n\nTürkiye'nin platolarıyla ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II ve III"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de deprem riskinin en düşük olduğu (masif ve eski kütleler):\n• **Tuz Gölü'nün güneyi - Konya/Karaman çevresi**\n• **Mardin Eşiği / Taşman Masifi**\n• **Alanya - Anamur Masifi**\n• **Yıldız Dağları (Istranca)**\n• **Ergene Havzası ve Doğu Karadeniz kıyı şeridi**\n\n❌ **Çeldiriciler:**\n• KAF (Erzincan, Düzce), BAF (İzmir, Manisa), DAF (Hatay, Kahramanmaraş) birinci derece deprem bölgeleridir."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Platolar ve Jeomorfolojik Şekiller:</strong>\n• <strong>III. Kapadokya Platosu (Doğru):</strong> Erciyes ve Hasan Dağı volkanlarından çıkan tüf ve lavların akarsu/rüzgâr erozyonuyla aşınması sonucu peribacaları gibi volkanik şekiller yaygındır.\n• <strong>I. Uzunyayla Platosu (Yanlış):</strong> Buzul aşınım şekilleri sadece 2200-2500 m üzerindeki yüksek dağ zirvelerindedir (Kaçkarlar, Ağrı, Cilo vb.).\n• <strong>II. Cihanbeyli Platosu (Yanlış):</strong> Yatay duruşlu tabaka düzlüğü platosudur; kanyon vadiler karstik Toroslar kuşağında görülür."
   },
   {
     "id": "cogr_test_12-q8",
@@ -45312,33 +45312,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 8,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q8.png",
+    "questionText": "Aşağıdakilerin hangisinde akarsu havzalarının açık veya kapalı olma durumuna ilişkin eşleştirme doğru verilmiştir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Gediz: Açık / Aras: Kapalı / Çoruh: Açık"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Gediz: Kapalı / Aras: Kapalı / Çoruh: Açık"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Gediz: Açık / Aras: Açık / Çoruh: Kapalı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Gediz: Kapalı / Aras: Açık / Çoruh: Kapalı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Gediz: Açık / Aras: Kapalı / Çoruh: Kapalı"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nKıyı kumulları ve dalga biriktirme şekillerinin (tombolo, lagün, kumsal) oluşabilmesi için kıyının sığ olması, dalga ve akıntıların taşıdığı materyalleri biriktirmesi gerekir. Kapıdağ Yarımadası ve Sinop İnceburun tombolo örnekleridir."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Akarsu Havzaları (Açık - Kapalı):</strong>\n• <strong>Gediz Nehri (Açık Havza):</strong> Ege Denizi'ne dökülür.\n• <strong>Aras Nehri (Kapalı Havza):</strong> Türkiye'den doğup kapalı bir göl olan Hazar Denizi'ne/Gölü'ne sularını boşaltır.\n• <strong>Çoruh Nehri (Açık Havza):</strong> Gürcistan sınırından Karadeniz'e dökülür."
   },
   {
     "id": "cogr_test_12-q9",
@@ -45349,33 +45349,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 9,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q9.png",
+    "questionText": "Tektonik hareketlere bağlı olarak oluşan göl, kapalı bir havzada yer alır. Türkiye'de göçmen kuşların önemli uğrak yerleri arasında olan gölün su seviyesi son yıllarda önemli miktarda alçalmış ve alanı daralmıştır.\n\nBazı özellikleri belirtilen bu göl aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Tortum"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Nemrut"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Burdur"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Küçükçekmece"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Durusu"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nPeribacaları hem iç kuvvet (volkanizma - andezit, bazalt lavları ve tüf tabakaları) hem de dış kuvvetlerin (selinti suları, akarsular ve ikincil olarak rüzgar aşındırması) ortak etkisiyle oluşan karma yapılı yer şekilleridir. Nevşehir-Ürgüp-Göreme çevresinde yaygındır."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Burdur Gölü ve Ekolojik Durumu:</strong>\n• Göller Yöresi'nde fay kırıklarına bağlı oluşan tektonik kökenli kapalı havza gölüdür.\n• Dikkuyruk ördeğinin dünya popülasyonunun önemli kısmını barındıran Ramsar alanıdır; ancak kuraklık ve kaçak kuyu sulaması nedeniyle seviyesi tehlikeli biçimde azalmıştır.\n• <strong>Diğer Göller:</strong> Tortum (heyelan set), Nemrut (volkanik kaldera), Küçükçekmece ve Durusu (kıyı set gölleri)."
   },
   {
     "id": "cogr_test_12-q10",
@@ -45386,33 +45386,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 10,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 10)",
+    "questionText": "Aşağıda bir bölümü gösterilen harita parçasında Anamur Burnu'ndan Karataş Burnu'na hareket eden bir teknenin rotası gösterilmiştir.\n\nBu rotada yolcuların aşağıdaki akarsulardan hangisinin denize döküldüğü yeri görmesi beklenir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_12_q10.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Ceyhan Nehri"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Göksu Nehri"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Manavgat Çayı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Aksu Çayı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Köprü Çayı"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nKarasallığın ve kuraklığın belirgin olduğu platolarda bitki örtüsünün tahrip edilmesi, yüzey toprağının rüzgar ve yağmur sularıyla süpürülmesine (erozyona) yol açar. Ağaçlandırma, nöbetleşe ekim ve taraçalama erozyonu önlemenin temel yollarıdır."
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Akdeniz Kıyı Morfolojisi ve Akarsular:</strong>\n• <strong>Göksu Nehri:</strong> Taşeli Platosu'nu aşarak Silifke'den Akdeniz'e dökülür ve Silifke Deltası'nı oluşturur. Mersin Anamur Burnu ile Adana Karataş Burnu arasındaki kıyı seyrinde tam rota üzerindedir.\n• <strong>Manavgat, Aksu ve Köprü Çayı:</strong> Antalya Körfezi'ndedir (rotanın batısında geride kalır).\n• <strong>Ceyhan Nehri:</strong> Karataş Burnu'nun doğusunda İskenderun Körfezi yönünde denize kavuşur."
   },
   {
     "id": "cogr_test_12-q11",
@@ -45423,33 +45423,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 11,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q11.png",
+    "questionText": "Bozcaada'dan Aydın Kuşadası'na gemiyle kıyı boyunca seyahat eden bir kişinin sırasıyla aşağıdaki körfezlerin hangilerinden geçmesi beklenir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Saros - Edremit - Çandarlı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Edremit - Saros - İzmir"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Güllük - İzmir - Çandarlı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çandarlı - Edremit - Güllük"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Edremit - Çandarlı - İzmir"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nOrman yangınlarının en fazla görüldüğü alanlar yaz kuraklığının şiddetli ve sıcaklıkların yüksek olduğu **Akdeniz ve Ege kıyı kuşağıdır** (Kızılçam ormanları ve maki alanları). Karadeniz'de her mevsim yağış olduğundan orman yangını riski çok düşüktür."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Ege Körfezleri Kuzey-Güney Sıralaması:</strong>\n• Bozcaada'dan güneye Kuşadası'na inen bir rota kıyı boyunca sırasıyla:\n1. <strong>Edremit Körfezi</strong> (Balıkesir/Çanakkale güneyi)\n2. <strong>Çandarlı Körfezi</strong> (İzmir kuzeyi)\n3. <strong>İzmir Körfezi</strong> (İzmir merkez)\ngeçilerek Kuşadası'na ulaşılır.\n• Saros Körfezi Boğaz'ın kuzeyinde (Gelibolu), Güllük Körfezi ise Kuşadası'nın güneyindedir (Muğla)."
   },
   {
     "id": "cogr_test_12-q12",
@@ -45460,33 +45460,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 12,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 12)",
+    "questionText": "Aşağıda, harita üzerinde numaralandırılarak gösterilmiş beş alan ve bu alanların dördüne ait bilgi verilmiştir:\n• Kalkan şekilli volkan dağı bulunur.\n• Karstik şekiller yaygın olarak bulunur.\n• Grabenler arasında yer alan bir horst yapısı bulunur.\n• Buzul aşındırma ve biriktirme şekilleri bulunur.\n\nBuna göre haritada hangi numarayla gösterilen alana ait bilgi verilmemiştir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_12_q12.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nAkarsuların oluşturduğu kanyon vadiler, dirençli ve farklı çözünebilen kireçtaşı tabakalarının derinlemesine yarılmasıyla oluşur. En tipik örnekleri Akdeniz Bölgesi'nde (Köprülü Kanyon, Göksu Kanyonu, Saklıkent) ve Ege'de (Uşak - Ulubey Kanyonu) yer alır."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Haritadaki Yer Şekilleri Eşleştirmesi:</strong>\n• <strong>Kalkan biçimli volkan:</strong> Güneydoğu Karacadağ (IV numara)\n• <strong>Karstik şekiller:</strong> Teke/Taşeli karst sahası (II numara)\n• <strong>Horst yapısı:</strong> Kıyı Ege horst-graben sistemi (III numara)\n• <strong>Buzul şekilleri:</strong> Doğu Karadeniz Kaçkar Dağları (V numara)\n• <strong>I Numaralı Alan (Ergene Havzası):</strong> Alüvyal dolgulu düzlük olup öncüllerdeki şekillerin hiçbirini barındırmaz."
   },
   {
     "id": "cogr_test_12-q13",
@@ -45497,33 +45497,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 13,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q13.png",
+    "questionText": "Türkiye'deki ovalarda ana ekonomik faaliyet tarımsal etkinliklerdir. Bununla birlikte büyük şehirlere yakın olan bazı ovalarda ulaşım ve sanayi gibi diğer faaliyetler de önemli oranda yapılmaktadır.\n\nAşağıdaki ovalardan hangisinin belirtilen tarım dışı faaliyetlerde yoğun bir kullanımı söz konusudur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Tercan"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Pasinler"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tefenni"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Pınarbaşı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "İnegöl"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nDoğal afetlerin sınıflandırılmasında:\n• Jeolojik/Jeomorfolojik: Deprem, Volkanizma, Tsunami, Heyelan, Kaya düşmesi\n• Klimatik/Hidrometeorolojik: Sel, Taşkın, Kuraklık, Fırtına, Çığ, Orman yangını\nE seçeneğindeki sınıflandırma doğrudur."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Ovaların Tarım Dışı Kullanımı:</strong>\n• <strong>İnegöl Ovası (Bursa):</strong> Marmara Bölgesi'nin ana sanayi ve ulaşım koridorunda yer alır. Mobilya sanayisi, otomotiv yan sanayisi ve yoğun şehirleşme nedeniyle tarım dışı sektörlerde baskı altında kalan en tipik ovadır.\n• <strong>Tercan, Pasinler, Tefenni, Pınarbaşı:</strong> Sanayileşmenin sınırlı kaldığı kırsal tarım ovalarıdır."
   },
   {
     "id": "cogr_test_12-q14",
@@ -45534,33 +45534,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 14,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 14)",
+    "questionText": "Türkiye'de iklim ve yer şekilleri özelliklerine bağlı olarak yıl içerisinde birçok doğal afet görülebilmektedir.\n\nYukarıdaki haritada, etkili olduğu alanlar gösterilen doğal afet aşağıdakilerden hangisidir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_12_q14.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Erozyon"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Heyelan"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Taşkınlar"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Tektonik depremler"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Çığ"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de dağların uzanış yönünün kıyıya paralel olduğu Akdeniz ve Karadeniz'de;\n• Boyuna kıyı tipi görülür,\n• Kıta sahanlığı dardır,\n• Falezler (yalıyarlar) yaygındır,\n• Kıyı ile iç kesimler arasında ulaşım geçitlerle sağlanır."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Doğal Afet Kuşakları:</strong>\n• Haritada taranan alanlar Kuzey Anadolu Fay Hattı (Saros Körfezi'nden Van Gölü'ne), Doğu Anadolu Fay Hattı (Hatay'dan Bingöl'e) ve Batı Anadolu graben sistemlerini gösteren 1. derece <strong>tektonik deprem</strong> kuşaklarıdır."
   },
   {
     "id": "cogr_test_12-q15",
@@ -45571,33 +45571,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 15,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q15.png",
+    "questionText": "Türkiye'de en fazla yıkıcı etkiye sahip doğal afet aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sel ve taşkınlar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Deprem"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Erozyon"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Heyelan"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Orman yangınları"
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nEge Bölgesi'nde dağlar kıyıya dik uzandığı için enine kıyı tipi görülür. Girinti-çıkıntı, koy, körfez ve doğal liman sayısı fazladır; denizel etki iç kesimlere kadar sokulabilir."
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Doğal Afetlerin Yıkıcılığı:</strong>\n• Türkiye'de can kaybı, bina yıkımı ve ekonomik kayıp açısından <strong>en yıkıcı doğal afet Deprem</strong>'dir (Türkiye'deki afet kaynaklı can kayıplarının %65'inden fazlası depremlere aittir).\n• <em>Not:</em> Heyelan sayıca en sık yaşanan afet olsa da depremin yıkıcılık ve etki ölçeğiyle kıyaslanamaz."
   },
   {
     "id": "cogr_test_12-q16",
@@ -45608,33 +45608,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 16,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 16)",
+    "questionText": "Anadolu genç bir araziye sahip olduğu için tektonik depremin görülme ihtimali fazladır.\n\nHaritada işaretli merkezlerin hangisinde tektonik depremlerin görülme ihtimali daha azdır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_12_q16.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve V"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I, III ve IV"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nSel ve taşkınların en çok can ve mal kaybına yol açtığı alanlar dar vadi tabanlarına kurulan yerleşmeler (özellikle Karadeniz Bölgesi kıyı ve vadi içi yerleşmeleri) ile yatak eğimi azalan nehir çevreleridir (Meriç, Ergene vb.)."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Türkiye'de Deprem Riski En Düşük Masif Alanlar:</strong>\n• <strong>Tuz Gölü güneyi - Konya/Karaman havzası</strong> (masif kütle),\n• <strong>Doğu Karadeniz kıyı kuşağı</strong> (Rize-Artvin kıyıları),\n• <strong>Mardin-Şanlıurfa eşiği</strong> (Güneydoğu tabaka düzlüğü),\nfay hatlarına uzak masif kütleler olup tektonik deprem tehlikesinin en düşük olduğu güvenli bölgelerdir."
   },
   {
     "id": "cogr_test_12-q17",
@@ -45645,33 +45645,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 17,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q17.png",
+    "questionText": "Türkiye'de;\nI. nadas uygulaması,\nII. geniş alanda karasal iklim özelliklerinin görülmesi,\nIII. nöbetleşe ekim yapılması,\nIV. arazinin eğim yönüne dik sürülmesi\n\nözelliklerinden hangileri erozyonu önleyici faaliyetlerdir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de buzul aşınım ve birikim şekillerinin (hörgüç kaya, sirk, moren) bulunduğu dağlar genellikle 2500-3000 metrenin üzerindeki zirvelerdir (Ağrı, Cilo, Kaçkar, Bolkar, Aladağ, Erciyes, Uludağ vb.)."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Erozyonu Önleme Yöntemleri:</strong>\n• <strong>III. Nöbetleşe ekim:</strong> Toprağın sürekli bitki örtüsüyle kaplı kalmasını sağlayarak rüzgâr ve su aşındırmasını önler.\n• <strong>IV. Arazinin eğime dik sürülmesi:</strong> Yüzey sularının akış hızını keserek toprağın sürüklenmesini engeller.\n• <strong>I. Nadas (Zararlıdır):</strong> Toprağın bir yıl boş bırakılması rüzgâr ve yağmur erozyonunu artırır."
   },
   {
     "id": "cogr_test_12-q18",
@@ -45682,33 +45682,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌋",
     "questionNumber": 18,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 12: Çıkmış Yer Şekilleri & Afetler (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_12_q18.png",
+    "questionText": "Aşağıdakilerden hangisi erozyonun sonuçlarından biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Delta ovalarının çaplarını genişletir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Toprağın su tutma kapasitesi azalır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tarımda verim azalır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Barajların ömrü kısalır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Akarsuların taşkın yapma ihtimali artar."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nHarita üzerinde gösterilen doğal afet risk sahaları incelendiğinde; fay hatları depremle, Karadeniz yamaçları heyelanla, Akdeniz kıyıları orman yangınıyla, Doğu Anadolu dağları çığ ile eşleşir."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Erozyonun Sonuçları:</strong>\n• Erozyonla süpürülen alüvyonlar deltaları genişletir (olumlu tek sonuç), tarım alanlarını çoraklaştırır, toprağın su tutmasını engeller ve baraj göllerini hızla doldurur.\n• Akarsuların taşkın yapma riski erozyonun doğrudan bir sonucu olmayıp, aşırı yağışlar ve drenaj yatağının tıkatılması kaynaklı bir hidrolojik afettir."
   },
   {
     "id": "cogr_test_13-q1",
@@ -45719,33 +45719,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 1,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 1)",
+    "questionText": "Arazinin engebeli ve eğimli olması erozyonun oluşumunu tetikleyen önemli bir etkendir.\n\nBuna göre haritada işaretli alanların hangisi, yukarıdaki açıklamaya uygun olarak gerçekleşen erozyon alanlarından biridir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_13_q1.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de can ve mal kaybına en fazla neden olan, en yıkıcı doğal afet **Deprem (Seizmizma)**'dir. Ülkemiz Alp-Himalaya orojenez kuşağında ve genç oluşumlu fay hatları üzerinde yer alır.\n\n❌ **Çeldiriciler:**\n• Heyelan, sel ve çığ lokal hasarlar verirken depremler geniş bölgeleri etkiler."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Eğimli Arazi ve Su Erozyonu:</strong>\n• <strong>I Numaralı Alan (Doğu Karadeniz Dağlık Kuşağı):</strong> Yüksek eğim ve engebe nedeniyle yüzey akışına geçen yağmur suları şiddetli su erozyonuna neden olur.\n• Düz ovalık platolarda ise akarsu erozyonundan ziyade rüzgâr erozyonu görülür."
   },
   {
     "id": "cogr_test_13-q2",
@@ -45756,33 +45756,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 2,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q2.png",
+    "questionText": "Toprak katmanı ve altındaki tabakanın eğim doğrultusunda kayması ile heyelan meydana gelir.\n\nAşağıdakilerden hangisi heyelan oluşumunu tetikleyen faktörlerden biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Eğimin fazla olması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yer çekimi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ormanların varlığı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kaya ve toprağın cinsi (killi yapı)"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kar erimeleri"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de erozyonu artıran beşeri ve doğal faktörler:\n• Doğal bitki örtüsünün tahrip edilmesi,\n• Tarlaların eğime dik yerine eğime paralel sürülmesi,\n• Eğimli arazilerde anız örtüsünün yakılması,\n• Meraların aşırı ve erken otlatılması,\n• Kurak ve yarı kurak iklim şartları.\n\n❌ **Çeldiriciler:**\n• Tarlaların eğime dik (eğim doğrultusuna dik/yatay) sürülmesi ve taraçalama erozyonu önler."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Heyelanı Tetikleyen Unsurlar:</strong>\n• Eğim, yer çekimi, killi ve kaygan jeolojik yapı, aşırı yağış ve kar erimeleri heyelanı doğrudan tetikler.\n• Orman örtüsü heyelanı tetiklemez; kökleriyle yüzeysel toprağı bir miktar tutsa da derin kütle kaymalarını tek başına durduramaz ancak kesinlikle heyelanı artıran bir etken değildir."
   },
   {
     "id": "cogr_test_13-q3",
@@ -45793,33 +45793,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 3,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q3.png",
+    "questionText": "Türkiye'de heyelan olaylarının yıl içerisinde en fazla ilkbahar döneminde görülmesinin nedeni aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kar erimeleri ve yağışlar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Bitkilerin vejetasyon sürecine bu dönemde girmeleri"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Konveksiyonel yağışların etkili olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Rüzgârların aşındırma gücünün bu dönemde daha fazla etkili olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Akarsu taşkınlarının etkili olması"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Anız yakılması**, hasattan sonra tarlada kalan kök ve sapların yakılmasıdır. Bu işlem toprağın üst katmanındaki organik maddeleri ve canlı mikroorganizmaları yok eder, toprağı rüzgar ve yağmur erozyonuna karşı tamamen korumasız bırakır."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Heyelan ve İlkbahar Mevsimi:</strong>\n• İlkbaharda sıcaklıkların yükselmesiyle karların hızla erimesi ve yağmurlar toprağın suya aşırı doymasına (ağırlığının artmasına) ve killi tabakaların kayganlaşmasına yol açar. Bu nedenle heyelanların %60'ından fazlası ilkbaharda görülür."
   },
   {
     "id": "cogr_test_13-q4",
@@ -45830,33 +45830,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 4,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 4)",
+    "questionText": "Türkiye'de görülen doğal afetlerin etkili olduğu yerler harita üzerinde işaretli alanlarda gösterilmiştir.\n\nBuna göre aşağıdaki seçeneklerde doğal afetlerin daha fazla etkili olduğu yer eşleştirmelerinden hangisi doğrudur?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_13_q4.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Heyelan - Çığ - Erozyon - Taşkın - Orman Yangını"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çığ - Heyelan - Erozyon - Taşkın - Orman Yangını"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Heyelan - Sel - Erozyon - Çığ - Taşkın"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çığ - Sel - Erozyon - Çığ - Heyelan"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Heyelan - Çığ - Erozyon - Taşkın - Çığ"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nHeyelan oluşumunu artıran faktörler:\n1. Eğim ve engebenin fazla olması,\n2. Şiddetli yağışlar ve karların hızlı erimesi,\n3. Killi tabakaların suyu emip kayganlaşması,\n4. Tabakaların eğim yönünde uzanması,\n5. Yol yapımı ve yamaç kazıları (antropojenik etki).\n\n❌ **Çeldiriciler:**\n• Orman örtüsünün varlığı yüzeysel erozyonu önler ancak derin heyelan kütle hareketlerini tek başına tamamen engelleyemez."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Doğal Afet Bölgeleri Eşleştirmesi:</strong>\n• <strong>Hakkari/Van (I):</strong> Çığ felaketi,\n• <strong>Doğu Karadeniz (II):</strong> Heyelan,\n• <strong>İç/Güneydoğu Anadolu (III):</strong> Erozyon,\n• <strong>Ergene/Meriç Havzası (IV):</strong> Sel ve Taşkın,\n• <strong>Ege/Akdeniz kıyı kuşağı (V):</strong> Orman yangınları ile eşleşir."
   },
   {
     "id": "cogr_test_13-q5",
@@ -45867,33 +45867,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 5,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q5.png",
+    "questionText": "Türkiye'de orman yangınlarının en az Karadeniz kıyı kuşağında görülmesinin nedeni aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yağış miktarı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yağış rejimi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yükselti"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yer şekilleri"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Arazinin yapısı"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nHeyelanın Türkiye'de en çok meydana geldiği dönem **İlkbahar** mevsimidir. Çünkü ilkbaharda artan sıcaklıklarla birlikte karlar erir, toprak suya doyar ve yağışlarla birleşerek kütlelerin kaymasına yol açar.\n\n❌ **Çeldiriciler:**\n• En çok yağış sonbaharda düşse bile, kar erimeleriyle toprağın en çok suya doyduğu mevsim ilkbahardır."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Orman Yangını ve Yağış Rejimi:</strong>\n• Karadeniz Bölgesi'nde her mevsim yağışlı düzenli bir yağış rejimi vardır; belirgin bir yaz kuraklığı yaşanmaz. Havadaki bağıl nem oranının yıl boyu yüksek olması orman örtüsünün kurumasını önler ve yangın riskini en aza indirir."
   },
   {
     "id": "cogr_test_13-q6",
@@ -45904,33 +45904,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 6,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 6)",
+    "questionText": "Konveksiyonel yağışların etkili olduğu yerlerde, sağanak yağışların etkisiyle sel rejimli akarsular ortaya çıkar.\n\nBuna göre haritada işaretli alanların hangisinde ilkbaharda sel rejimli akarsular görülür?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_13_q6.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nÇığ oluşumunu tetikleyen unsurlar:\n• Yamaç eğiminin 30°-45° arasında olması,\n• Kısa sürede yoğun kar yağışı,\n• Rüzgar ve fırtına etkisiyle kar kalkanlarının oluşması,\n• Ses, titreşim, patlama veya kayak faaliyetleri.\n\n❌ **Çeldiriciler:**\n• Ağaçlandırma ve ormanlık alanlar çığ riskini azaltır."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Konveksiyonel Yağışlar ve Sel Rejimi:</strong>\n• <strong>II Numaralı Alan (İç Anadolu):</strong> İlkbaharda ısınan havanın hızla yükselmesiyle oluşan 'kırkikindi' sağanakları şiddetli yüzey akışına geçerek sel rejimli kurak dereleri taşırır."
   },
   {
     "id": "cogr_test_13-q7",
@@ -45941,33 +45941,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 7,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q7.png",
+    "questionText": "Suya doymuş malzemenin hızlı bir şekilde eğim doğrultusunda vadileri izleyerek akışa geçmesi olayına çamur akıntısı denir.\n\nBuna göre ülkemizde çamur akıntısının meydana gelmesinde;\nI. yamacın eğimi,\nII. tabakaların killi yapısı,\nIII. sağanak yağışlar\n\netkenlerinden hangileri temel nedeni oluşturmaktadır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I, II ve III"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nOrman yangınlarının çıkış nedenleri arasında insan faktörü (ihmal, dikkatsizlik, anız yakma, piknik ateşi, kasıt) %90'ın üzerindedir. Doğal faktör olarak ise **yıldırım düşmesi** ve aşırı sıcaklık/kuraklık rol oynar."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Çamur Akıntısını Başlatan Faktörler:</strong>\n• Yüksek yamaç eğimi (I), suyu bünyesine alarak akışkanlaşan killi toprak yapısı (II) ve ani sağanak yağışlar (III) malzemenin vadi tabanına çamur seli halinde akmasına neden olur."
   },
   {
     "id": "cogr_test_13-q8",
@@ -45978,33 +45978,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 8,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 8)",
+    "questionText": "Erozyon; bitki örtüsünün tahrip edilmesi sonucu toprağın su, rüzgâr ve insanların çeşitli faaliyetleriyle aşınarak taşınması olayıdır.\n\nBuna göre yukarıdaki Türkiye haritasında numaralandırılarak verilen arazilerin hangisinde akarsu erozyonu en fazladır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_13_q8.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nKarstik erime sonucu yer altı tavanlarının çökmesiyle oluşan **Obruk felaketleri**, son yıllarda yeraltı sularının aşırı ve kaçak kuyularla tarımsal sulamada kullanılması yüzünden hızla artmıştır. Özellikle **Konya Kapalı Havzası**'nda yüzlerce yeni obruk oluşmuştur.\n\n❌ **Çeldiriciler:**\n• Doğu Karadeniz, Trakya ve Ege'de obruk riski düşüktür."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Akarsu Erozyonu Dağılışı:</strong>\n• <strong>IV Numaralı Alan (Fırat-Dicle Yukarı Havzası / Doğu-Güneydoğu Geçişi):</strong> Dağlık, engebeli ve bitki örtüsünden yoksun arazilerde akarsuların hidroelektrik ve aşındırma gücü en üst düzeydedir; akarsu erozyonu en şiddetli alandır."
   },
   {
     "id": "cogr_test_13-q9",
@@ -46015,33 +46015,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 9,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q9.png",
+    "questionText": "Ülkemizde ve dünyada sel ve taşkın olayının afete dönüşmesi doğal etken ve insan faaliyetleri ile doğrudan ilişkilidir. Özellikle altyapı yetersizliği, bitki örtüsünün tahrip edilmesi, çarpık kentleşme, hızlı nüfus artışı bu afetin ortaya çıkmasındaki temel etkenlerdir.\n\nBuna göre aşağıdakilerden hangisi Türkiye'de sel ve taşkın riskinin azaltılmasında uygulanacak önlemlerden biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Riskin olduğu akarsular üzerinde baraj inşası"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Akarsu yataklarında ıslah çalışmaları"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ağaçlandırma faaliyetinin artırılması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kurumuş eski dere yataklarının doldurulması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Akarsu kenarlarında yapay setlerin inşası"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de sel ve taşkın afetlerinin en sık yaşandığı ve can/mal kaybına yol açtığı bölgeler:\n1. **Karadeniz Bölgesi** (Özellikle Batı ve Doğu Karadeniz'de dar vadi tabanları - Kastamonu/Bozkurt, Rize, Giresun, Trabzon),\n2. **Marmara Bölgesi** (Ergene ve Meriç boyları).\n\n❌ **Çeldiriciler:**\n• Güneydoğu ve İç Anadolu'da selinti suları görülse de taşkın afetinin tahribatı Karadeniz'deki kadar büyük değildir."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Sel ve Taşkın Yönetimi:</strong>\n• Kurumuş dere yataklarının moloz ve toprakla doldurularak imara veya yola açılması, sağanak yağış anında suyun doğal boşalımını engelleyerek felakete neden olan en büyük beşeri hatadır."
   },
   {
     "id": "cogr_test_13-q10",
@@ -46052,33 +46052,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 10,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 10)",
+    "questionText": "Ülkemiz genel olarak yarı kurak iklim koşullarının yaşandığı bir bölgede yer almaktadır. Bu durum insan faaliyetlerinin etkisi ile birlikte orman yangınlarının artmasına neden olmaktadır.\n\nBuna göre yukarıda verilen Türkiye haritasında numaralanmış alanların hangisinde orman yangını riski en fazladır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_13_q10.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nKaya düşmesi afeti, dik ve çatlaklı yamaçlarda fiziksel ufalanma ve donma-çözülme etkisiyle ayrılan kaya bloklarının aşağı yuvarlanmasıdır. En fazla **Kapadokya volkanik yöresinde (Ürgüp, Uçhisar)** ve **Doğu Anadolu ile Toros dağlık kuşaklarında** görülür."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Orman Yangını Risk Kuşakları:</strong>\n• <strong>III Numaralı Alan (Akdeniz - Muğla/Antalya Kıyı Kuşağı):</strong> Şiddetli yaz kuraklığı, yüksek sıcaklıklar, poyraz rüzgârları ve reçineli kızılçam ormanları nedeniyle Türkiye'de yangın riskinin en yüksek olduğu 1. derece risk sahasıdır."
   },
   {
     "id": "cogr_test_13-q11",
@@ -46089,33 +46089,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 11,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q11.png",
+    "questionText": "Aşağıda verilen kıyıların hangisinde tsunami riski en fazladır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kocaeli kıyısı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Antalya kıyısı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Trabzon kıyısı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "İskenderun kıyısı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Mersin kıyısı"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nKuraklık, yağışların normal değerlerin çok altına düşmesiyle oluşan, etkisi en yavaş gelişen (sinsi) ancak en uzun süren ve geniş alanları etkileyen klimatik bir afettir. Türkiye'de en fazla **Güneydoğu Anadolu ve İç Anadolu**'da hissedilir."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>Marmara Denizi ve Tsunami Riski:</strong>\n• Marmara Denizi tabanından geçen Kuzey Anadolu Fay Hattı segmentleri ve derin çukurluklarda meydana gelebilecek denizaltı heyelanları sebebiyle İzmit Körfezi / Kocaeli kıyıları tarihsel ve sismolojik olarak en yüksek tsunami riskine sahip kıyımızdır."
   },
   {
     "id": "cogr_test_13-q12",
@@ -46126,33 +46126,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 12,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q12.png",
+    "questionText": "Deprem veya yer sarsıntısı yer kabuğunda beklenmedik bir anda ortaya çıkan enerji sonucunda meydana gelen sismik dalgalanmalar ve bu dalgaların yeryüzünü sarsması olayıdır. Depremler; tektonik, volkanik ve çökme (karstlaşma ve insan etkisi) depremleri olmak üzere türlere ayrılmaktadır.\n\nBuna göre, Türkiye'de aşağıda verilen arazilerin hangisinde insan karakterli çökme depremi riski en yüksektir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Zonguldak çevresi"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Antalya çevresi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Menteşe yöresi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Balıkesir çevresi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Şanlıurfa çevresi"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nTürkiye'de tsunami riski; deniz tabanında meydana gelen büyük depremler ve deniz altı heyelanlarına bağlı olarak özellikle **Marmara Denizi, Ege kıyıları ve Doğu Akdeniz** kıyılarında bulunmaktadır. Okyanus tsunamileri kadar devasa olmasa da 2-3 metrelik dalgalar oluşturabilir."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong>\n\n📌 <strong>İnsan Kökenli (Antropojenik) Çökme Depremleri:</strong>\n• <strong>Zonguldak Çevresi:</strong> Yeraltı taş kömürü madenciliği nedeniyle yer kabuğunda açılan devasa galerilerin tavanlarının çökmesiyle oluşan sarsıntılar 'insan karakterli çökme depremleri'ne örnektir.\n• Antalya ve Konya'daki obruklar ise insan kaynaklı değil doğal karstik erime kökenlidir."
   },
   {
     "id": "cogr_test_13-q13",
@@ -46163,33 +46163,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 13,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 13)",
+    "questionText": "Yukarıdaki Türkiye haritasında taranarak numaralandırılan yörelerin hangisinde deprem, çığ ve heyelan gibi afetlerin hepsinin görülme olasılığı en fazladır?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_13_q13.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nDepremden korunma ve zararları azaltma yöntemleri:\n• Fay hatları ve sıvılaşma riski yüksek alüvyal ovaların imara kapatılması,\n• Zemin etütlerinin doğru yapılması ve deprem yönetmeliğine uygun yapılaşma,\n• Erken uyarı ve arama-kurtarma sistemlerinin güçlendirilmesi,\n• Halkın afet bilinci ve tatbikatlarla eğitilmesi."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Çoklu Doğal Afet Kuşakları:</strong>\n• <strong>V Numaralı Alan (Hakkari / Doğu Anadolu Dağlık Yöresi):</strong> Aktif fay hatları nedeniyle deprem; dik yamaçlar ve yoğun kar örtüsü nedeniyle çığ; ilkbahardaki karların erimesi ve killi yapıyla heyelan felaketlerinin tamamını bünyesinde barındırır."
   },
   {
     "id": "cogr_test_13-q14",
@@ -46200,33 +46200,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 14,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q14.png",
+    "questionText": "Erozyon toprağın verimli olan üst kısmının dış kuvvetler tarafından süpürülmesi işlemidir. Özellikle erozyon uzun süreçte gerçekleşen yavaş bir doğa olayıdır.\n\nAşağıdakilerden hangisi erozyonun olumlu sonuçlarından biridir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Barajların su tutma kapasitelerinin azalması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Delta oluşumu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Akarsu tabanında tortul birikimi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Rüzgâr etkisi ile birlikte toprağın verimli üst tabakasının taşınması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kumul depolarının yer değiştirmesi"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nOrman yangınlarıyla mücadelede erken müdahale için insansız hava araçları (İHA), yangın gözetleme kuleleri, yangın emniyet şeritleri ve havadan müdahale filoları kritik öneme sahiptir."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Erozyonun Olumlu Sonucu:</strong>\n• Akarsuların havzalarından aşındırdığı mineralce zengin alüvyonları deniz kıyısında biriktirmesi sonucu tarımsal verimi çok yüksek olan <strong>delta ovaları</strong> (Çukurova, Bafra, Çarşamba vb.) meydana gelir."
   },
   {
     "id": "cogr_test_13-q15",
@@ -46237,33 +46237,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 15,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q15.png",
+    "questionText": "Türkiye'de heyelanların daha çok Doğu Karadeniz bölümünde görülmesinin nedeni aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Dağların kıyıya paralel uzanması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Orman örtüsünün geniş yer kaplaması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yağış ve eğimin fazla olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Akarsuların bol su taşıması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Orta kuşakta yer alması"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye'de heyelan olaylarının mekânsal dağılışına bakıldığında, Trabzon, Rize, Artvin, Kastamonu, Sinop gibi Karadeniz illeri listenin ilk sıralarında yer alır."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong>\n\n📌 <strong>Doğu Karadeniz ve Heyelan:</strong>\n• Yıllık 2000 mm'yi aşan yüksek yağış miktarı (toprağın suya aşırı doyması), dik yamaç eğimleri ve tabakaların killi yapısı Doğu Karadeniz'i Türkiye'nin heyelan başkenti yapmıştır."
   },
   {
     "id": "cogr_test_13-q16",
@@ -46274,33 +46274,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 16,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q16.png",
+    "questionText": "I. Ergene\nII. Aras\nIII. Zap\nIV. Gediz\n\nHavzalarındaki sanayi ve kentleşme göz önüne alınırsa, yukarıda verilen nehirlerin hangilerinde kirlilik oranı daha az olur?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II ve III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II ve IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nErozyon ile mücadele etmek için kurulan sivil toplum kuruluşu **TEMA (Türkiye Erozyonla Mücadele, Ağaçlandırma ve Doğal Varlıkları Koruma Vakfı)**'dır. Hayrettin Karaca ve Nihat Gökyiğit tarafından kurulmuştur."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Akarsu Havzalarında Kirlilik:</strong>\n• <strong>II. Aras ve III. Zap:</strong> Sanayileşme ve nüfus yoğunluğunun çok düşük olduğu Doğu Anadolu havzalarında aktıklarından kirlilik oranları oldukça düşüktür.\n• <strong>I. Ergene ve IV. Gediz:</strong> Yoğun fabrika atıkları, kimyasal gübre ve kentsel atıklar nedeniyle Türkiye'nin en kirli akarsularıdır."
   },
   {
     "id": "cogr_test_13-q17",
@@ -46311,33 +46311,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 17,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q17.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'de erozyonun doğrudan bir etkisi değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bitki türünün azalması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Meraların yok olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Koy ve körfezlerin dolması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Tarımsal alanların veriminin düşmesi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kırdan kente göçün artması"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nAfet yönetiminde 'Zarar Azaltma ve Hazırlık' (Risk Yönetimi) evresi afetten önce yapılan planlama, risk haritalandırma, güçlendirme ve mevzuat çalışmalarını kapsar."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Doğrudan - Dolaylı Etki:</strong>\n• Toprağın süpürülmesi meraların tahribine, bitki kaybına, verim düşüşüne ve koyların alüvyonla dolmasına <strong>doğrudan</strong> yol açar.\n• Kırsalda geçim sıkıntısının doğması ve çiftçilerin kente göç etmesi ise sosyal ve ekonomik bir <strong>dolaylı etkidir</strong>."
   },
   {
     "id": "cogr_test_13-q18",
@@ -46348,33 +46348,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "⚠️",
     "questionNumber": 18,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 13: Afetler (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_13_q18.png",
+    "questionText": "Aşağıdaki körfezlerin hangisinde, endüstri kuruluşlarının oluşturduğu çevre kirliliği nedeniyle deniz turizmi diğerlerinden daha az gelişmiştir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İzmit"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Gökova"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Edremit"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Antalya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "İskenderun"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nHarita üzerinde verilen işaretli alanlar incelendiğinde; doğal afet türlerinin Türkiye'deki coğrafi dağılış paternini tam olarak yansıtan seçenek E'dir."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong>\n\n📌 <strong>Körfezler ve Sanayi Kirliliği:</strong>\n• <strong>İskenderun Körfezi:</strong> Demir-çelik tesisleri, gübre ve kimya fabrikaları, petrol dolum terminalleri ve yoğun liman trafiği nedeniyle deniz turizminin yapılamadığı sanayi körfezidir.\n• Gökova, Antalya ve Edremit körfezleri Türkiye'nin önde gelen deniz turizmi merkezleridir."
   },
   {
     "id": "cogr_test_14-q1",
