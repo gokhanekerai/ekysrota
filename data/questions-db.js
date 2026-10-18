@@ -41723,33 +41723,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 1)",
+    "questionText": "Kurak ve yarı kurak alanlarda, bitki örtüsünün zayıf olduğu mekanlarda, rüzgâr aşındırma ve biriktirme şekillerine rastlanır.\n\nYukarıdaki haritada numaralanmış alanların hangilerinde rüzgâr aşındırma - biriktirme şekilleri daha yaygındır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q1.png",
+    "image": "assets/questions/cogr_test_15_q1_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "IV ve V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nRüzgarların aşındırma ve biriktirme faaliyetleri; kurak ve yarı kurak iklim bölgelerinde, bitki örtüsünün zayıf/cılız olduğu, toprağın gevşek yapılı ve kumlu olduğu alanlarda etkilidir.\n• Türkiye'de en fazla **İç Anadolu (Konya/Karapınar) ve Güneydoğu Anadolu**'da görülür."
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Rüzgârların yer şekillerini aşındırma ve biriktirme yoluyla biçimlendirebilmesi için; iklimin <strong>kurak veya yarı kurak</strong> olması, bitki örtüsünün <strong>cılız/seyrek</strong> olması ve zemin toprağının <strong>gevşek yapılı/kumlu</strong> olması gerekir. Haritada <strong>II numara (İç Anadolu - Konya/Tuz Gölü çevresi)</strong> ve <strong>III numara (Güneydoğu Anadolu - Şanlıurfa yöresi)</strong> rüzgâr erozyonu ve birikim şekillerinin Türkiye'de en şiddetli görüldüğü sahalardır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I (Doğu Karadeniz):</strong> Türkiye'nin en yağışlı ve en gür orman örtüsüne sahip yeridir; rüzgâr etkisi en azdır (Akarsu aşındırması hâkimdir).<br>• <strong>IV ve V (Menteşe ve Batı Karadeniz):</strong> Nemli ve dağlık ormanlık sahalardır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Rüzgâr aşınım/birikim şekilleri' veya 'Rüzgâr erozyonu' dendiğinde akla ilk gelecek iki bölge sırasıyla İÇ ANADOLU (Konya-Karapınar) ve GÜNEYDOĞU ANADOLU'dur.</em>"
   },
   {
     "id": "cogr_test_15-q2",
@@ -41760,33 +41760,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 2)",
+    "questionText": "İç Anadolu ve Güneydoğu Anadolu, ülkemizde rüzgâr erozyonunun fazla olduğu alanlardır. Bu alanlar içinde rüzgâr biriktirmesiyle oluşan kumullara Konya Karapınar çevresinde rastlanmaktadır. Ülkemizde rüzgâr biriktirmesiyle oluşan kumullara rastlanan diğer bir yer, kıyılarımızdaki kumsallardır.\n\nBuna göre yukarıda Türkiye haritasında numaralandırılmış kıyıların hangisinde kumul oluşumu yaygın değildir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q2.png",
+    "image": "assets/questions/cogr_test_15_q2_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nRüzgar aşınım ve birikim şekilleri:\n• **Aşınım:** Mantarkaya (Şeytan Masası), Tafoni (Kuş yuvası / delikli kaya), Şahitkaya, Yardang, Hamada (Çöl kaldırımı)\n• **Birikim:** Barkan (Hilal kumul), Kumul tepecikleri, Lös depoları\nD seçeneğindeki sınıflandırma eksiksizdir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kıyı kumullarının oluşabilmesi için; kıyının <strong>sığ</strong> olması, dalga ve akıntıların bol kum getirmesi, kıyıda geniş kumsalların (plajların) bulunması ve rüzgârın bu kumları kıyı gerisine doğru taşıyabilmesi gerekir. <strong>IV numara ile gösterilen Doğu Karadeniz (Rize-Trabzon) kıyılarında</strong> dağlar hemen deniz kıyısından çok dik yükselir, kıyı derinleşir ve dik falezler (yalıyarlar) oluşur; bu nedenle geniş kumsallar ve kıyı kumulları oluşamaz.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I (Ege - Çeşme/Selçuk):</strong> Kıyı sığdır, geniş kumsallar ve kumullar vardır.<br>• <strong>II (Antalya - Patara):</strong> Türkiye'nin en uzun kumul plajlarından biridir.<br>• <strong>III (Çukurova kıyıları):</strong> Alüvyal birikim ve kumullar yaygındır.<br>• <strong>V (Şile/Kilyos - Karadeniz):</strong> Geniş kıyı kumulları mevcuttur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Falezli dik kıyılarda kumsal ve kumul gelişemez. Doğu Karadeniz ve Batı Akdeniz (Teke) bu kuralın en net örneğidir.</em>"
   },
   {
     "id": "cogr_test_15-q3",
@@ -41797,33 +41797,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q3.png",
+    "questionText": "• Kıta sahanlığı dar olur.\n• Delta ovaları bulunmaz.\n• Limanların hinterlandı dar olur.\n\nYukarıda verilen özellikler aşağıdaki yer şekillerinin hangisinin bulunduğu alanlarda görülür?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Enine kıyı tipleri"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Falezler"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tombolo"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Lagün"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Obruklar"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nDalga aşındırmasının güçlü olduğu, dağların kıyıya paralel ve hemen kıyıdan dik uzandığı alanlarda kıyı dikliklerine **Falez (Yalıyar)** denir. Türkiye'de falezlerin en çok görüldüğü alanlar **Doğu ve Batı Karadeniz kıyıları ile Akdeniz'de Teke-Taşeli platoları kıyıları (Antalya falezleri)**'dir.\n\n❌ **Çeldiriciler:**\n• Ege kıyılarında ve delta alanlarında falez yaygın değildir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Falezler)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Falezler (Yalıyar)</strong>, dağların kıyıya paralel ve hemen deniz kıyısından dik yükseldiği yüksek kıyılarda dalga aşındırması sonucu oluşan dik uçurumlardır. Bu kıyılarda deniz aniden derinleştiği için <strong>kıta sahanlığı (şelf) dardır</strong>, akarsular alüvyon biriktiremediği için <strong>delta ovası oluşamaz</strong> ve dağlar ulaşımı zorlaştırdığı için <strong>limanların ard bölgesi (hinterlandı) dardır</strong> (Örn: Doğu-Batı Karadeniz ve Antalya falezleri).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Enine kıyı tipinde (Ege) tam tersine kıta sahanlığı geniştir, hinterland geniştir ve deltalar yaygındır.<br>• Tombolo ve Lagün dalga biriktirme şekilleridir ve sığ kıyılarda görülür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Kıta sahanlığı dar, delta yok, hinterland dar' üçlemesi doğrudan dağların kıyıdan dik yükseldiği FALEZLİ (BOYUNA) KIYILARI işaret eder.</em>"
   },
   {
     "id": "cogr_test_15-q4",
@@ -41834,33 +41834,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 4)",
+    "questionText": "Falezler, diğer adıyla yalıyarlar, dağların kıyının hemen gerisinde yüksek bir şekilde uzandığı kıyılarda; dalgaların aşındırması ile oluşan yer şekilleridir.\n\nYukarıda oluşum özellikleri verilen bu yer şekilleri, haritada işaretli alanların hangilerinde görülmez?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q4.png",
+    "image": "assets/questions/cogr_test_15_q4_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I ve V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nDalga ve akıntıların biriktirme şekilleri:\n• **Kıyı Oku / Kordonu:** Kıyıdan denize doğru uzanan kum şeritleri\n• **Lagün (Kıyı Set Gölü / Denizkulağı):** Kıyı kordonunun bir koyun önünü kapatması (Terkos, Büyükçekmece, Küçükçekmece, Akyatan)\n• **Tombolo (Saplı Ada):** Bir adanın kıyı kordonuyla karaya bağlanması (Kapıdağ Yarımadası, Sinop İnceburun)\n• **Kumsal / Plaj:** Kıyı birikim düzlüğü"
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Falez dalga aşındırmasıyla oluşan dik kayalıktır. <strong>II numara (Orta Karadeniz - Çarşamba/Bafra Deltası)</strong> ve <strong>IV numara (Akdeniz - Çukurova Deltası)</strong> Türkiye'nin en büyük alüvyal delta ovalarıdır. Bu alanlarda kıyı tamamen düz, alçak ve sığdır; dalgalar aşındırma değil biriktirme yapar. Dolayısıyla delta ovalarında kesinlikle falez görülmez.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I (Doğu Karadeniz):</strong> Dağlar kıyıdan dik yükselir, falez çok yaygındır.<br>• <strong>III (Antalya falezleri):</strong> Karstik traverten basamakları üzerinde Türkiye'nin en meşhur falezleri yer alır.<br>• <strong>V (Yıldız Dağları Karadeniz kıyıları):</strong> Falezlidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Karadeniz ve Akdeniz'de falez genelde fazladır ANCAK Çukurova, Silifke, Bafra ve Çarşamba delta düzlüklerinde FALEZ ASLA BULUNMAZ!</em>"
   },
   {
     "id": "cogr_test_15-q5",
@@ -41871,33 +41871,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q5.png",
+    "questionText": "Gelgit genliği az olduğundan ülkemizde gelgit etkisiyle oluşan kıyı şekillerine rastlanmamaktadır. Ülkemizdeki kıyıları biçimlendiren başlıca etmenler dalga ve akıntılardır.\n\nBuna göre aşağıdakilerden hangisi Türkiye'de dalga ve akıntılara bağlı oluşan birikim şekillerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Lagün"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Tombolo"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tafoni"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Plaj"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kıyı kordonu"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nTürkiye kıyılarında **Haliç ve Watt tipi kıyılar** görülmez. Bunun temel nedeni, Türkiye'nin okyanuslara kıyısının olmaması ve iç denizlerde **gelgit (med-cezir) genliğinin çok az (20-40 cm)** olmasıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Tafoni)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Tafoni</strong>, kurak ve yarı kurak bölgelerde kayaların yüzeyinde rüzgârın ve tuz çatlamasının etkisiyle oluşan kuş yuvası veya sünger benzeri oyuklardır; yani bir <strong>rüzgâr aşınım şeklidir</strong>. Dalga ve akıntı birikimiyle hiçbir ilgisi yoktur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Lagün (Denizkulağı):</strong> Kıyı kordonunun koyun önünü kapatmasıyla oluşan göldür (Dalga birikimi).<br>• <strong>Tombolo (Saplı ada):</strong> Adanın kıyı oku ile karaya bağlanmasıdır (Dalga birikimi).<br>• <strong>Plaj (Kumsal):</strong> Kıyıda kum birikmesidir (Dalga birikimi).<br>• <strong>Kıyı kordonu:</strong> Dalga ve akıntıların taşıdığı kum şeritleridir (Dalga birikimi).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Tafoni, Mantarkaya, Şahitkaya, Yardang ve Barkan RÜZGÂR şekilleridir; kıyı dalga şekilleriyle karıştırılmamalıdır.</em>"
   },
   {
     "id": "cogr_test_15-q6",
@@ -41908,33 +41908,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 6)",
+    "questionText": "Yukarıdaki haritada işaretli alanların hangilerinde tombolo (saplı ada) oluşum şekillerine rastlanır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q6.png",
+    "image": "assets/questions/cogr_test_15_q6_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "IV ve V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\n**Tombolo (Saplı Ada)** örnekleri:\n1. **Kapıdağ Yarımadası (Balıkesir - Erdek):** Eski bir ada iken iki kıyı kordonuyla karaya bağlanmıştır (En tipik tombolo).\n2. **Sinop İnceburun:** Ada karaya bağlanmıştır.\n\n❌ **Çeldiriciler:**\n• Datça tektonik yarımadadır; Çeşme tektoniktir; Gelibolu tektonik yarımadadır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Tombolo (Saplı Ada)</strong>, açıkta bulunan bir adanın dalga ve akıntıların biriktirdiği kum kordonu (kıyı oku) ile ana karaya bağlanarak yarımadaya dönüşmesidir. Türkiye'deki en tipik iki tombolo örneği:<br>1. <strong>I numara: Kapıdağ Yarımadası (Balıkesir - Marmara Denizi):</strong> Çift kıyı kordonuyla karaya bağlanmış mükemmel bir tombolodur.<br>2. <strong>II numara: Sinop İnceburun Yarımadası (Karadeniz):</strong> Eski bir ada iken kıyı okuyla karaya bağlanmıştır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• III (Çeşme), IV (Teke), V (İskenderun) tektonik oluşumlu yarımada ve körfezlerdir, tombolo değillerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM tombolo sorduğunda cevap %99 ihtimalle ya KAPIDAĞ YARIMADASI ya da SİNOP İNCEBURUN'dur.</em>"
   },
   {
     "id": "cogr_test_15-q7",
@@ -41945,33 +41945,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q7.png",
+    "questionText": "I. Kıta sahanlığı geniştir.\nII. Limanların hinterlandı geniş olur.\nIII. Koy ve körfez sayısı fazla olur.\nIV. Delta alanları geniştir.\n\nTürkiye'de yukarıdaki özelliklerin görüldüğü alandaki kıyı tipi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Limanlı kıyılar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Enine kıyılar"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Boyuna kıyılar"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kalanklı kıyılar"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Skayer kıyılar"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nKıta sahanlığı (şelf), kıyı çizgisinden 200 metre derinliğe kadar olan deniz tabanıdır. Dağların kıyıya dik uzandığı **Ege kıyılarında** ve delta ovalarının bulunduğu sahalarda kıta sahanlığı çok geniştir; dağların kıyıdan dik yükseldiği Karadeniz ve Akdeniz'de ise dardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Enine kıyılar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Dağların kıyı çizgisine <strong>dik uzandığı</strong> alanlarda <strong>Enine Kıyı Tipi</strong> görülür. Türkiye'de tipik olarak Ege Bölgesi'nde (Edremit ile Kuşadası arasında) görülür. Dağlar dik uzandığı için deniz vadilere sokulur; <strong>koy, körfez, doğal liman ve ada sayısı çok fazladır</strong>. Kıyı sığ olduğu için <strong>kıta sahanlığı geniştir</strong>, akarsular kolayca <strong>delta</strong> oluşturur (Dikili, Menemen, Selçuk, Balat) ve iç kesimlerle ulaşım çok kolay olduğu için limanların <strong>hinterlandı (art bölgesi) çok geniştir</strong>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Boyuna kıyılarda (Karadeniz, Akdeniz) kıta sahanlığı ve hinterland dardır, koy-körfez azdır.<br>• Skayer buzul kıyısıdır (Türkiye'de yoktur).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Dağlar denize dik, koy-körfez çok, hinterland ve şelf geniş, denizel iklim içeri sokulur' $\\rightarrow$ ENİNE KIYI (EGE).</em>"
   },
   {
     "id": "cogr_test_15-q8",
@@ -41982,33 +41982,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 8)",
+    "questionText": "Eski akarsu vadilerinin suların altında kalmasıyla 'Ria kıyı tipi' ortaya çıkar.\n\nHaritada işaretli alanların hangisinde ria kıyı tipi görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q8.png",
+    "image": "assets/questions/cogr_test_15_q8_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II, III ve V"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II, III ve IV"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\n**Ria Tipi Kıyılar**, epirojenik çökme veya deniz seviyesi yükselmesiyle eski akarsu vadilerinin sular altında kalmasıyla oluşan boğulmuş vadi kıyılarıdır.\n• **İstanbul Boğazı, Çanakkale Boğazı, Haliç (İstanbul) ve Güneybatı Ege (Menteşe - Muğla kıyıları)** ria tipi kıyılardır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (II, III ve IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Ria Tipi Kıyılar</strong>, IV. Jeolojik Zaman'daki deniz seviyesi yükselmesi (veya epirojenik çökme) sonucunda derin akarsu vadilerinin ve boğazların deniz suları altında kalmasıyla oluşmuş 'boğulmuş vadi kıyıları'dır. Türkiye'deki başlıca örnekleri:<br>• <strong>II numara:</strong> İstanbul Boğazı ve Haliç<br>• <strong>III numara:</strong> Çanakkale Boğazı<br>• <strong>IV numara:</strong> Güneybatı Ege (Menteşe - Muğla kıyıları / Gökova)<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I numara (Doğu Karadeniz) ve V numara (Antalya) boyuna kıyı tipidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Ria kıyı tipi = İstanbul Boğazı + Çanakkale Boğazı + Haliç + Muğla/Menteşe kıyıları.</em>"
   },
   {
     "id": "cogr_test_15-q9",
@@ -42019,33 +42019,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q9.png",
+    "questionText": "İnsanlar tarafından yeryüzüne çekilen artezyen kaynaklar aşağıdaki illerin hangisinde daha fazla kullanılır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Rize"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Konya"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kastamonu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Afyon"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Erzurum"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Artezyen Kaynaklar**, iki geçirimsiz tabaka arasında sıkışmış geçirimli tabakadaki yer altı suyunun insanlar tarafından sondaj yapılarak basınçla yüzeye fışkırtılmasıdır. Türkiye'de özellikle kurak tarım ovalarında (İç Anadolu, Ergene, Güneydoğu) yaygındır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Konya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Artezyen Kaynağı</strong>; iki geçirimsiz tabaka arasında sıkışmış geçirimli tabakadaki yer altı suyunun, insanlar tarafından sondaj kuyuları açılarak basınçla yüzeye çıkarılmasıdır (beşerî müdahale vardır). Yarı kurak iklimi, yetersiz yüzey suları ve devasa tarım alanlarının sulama ihtiyacı nedeniyle Türkiye'de artezyen kuyularının en yoğun açıldığı ve yer altı suyunun en çok çekildiği yer <strong>Konya Kapalı Havzası</strong>'dır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Rize ve Kastamonu bol yağışlıdır, yüzey suları boldur, artezyene ihtiyaç duyulmaz.<br>• Afyon jeotermal/fay kaynaklarıyla öne çıkar.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>İç Anadolu (özellikle Konya) ve Ergene havzası, tarımsal sulama için artezyen sondajlarının en fazla kullanıldığı alanlardır. Bu aşırı çekim obruk oluşumunu da tetikler.</em>"
   },
   {
     "id": "cogr_test_15-q10",
@@ -42056,33 +42056,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q10.png",
+    "questionText": "Fay hatları boyunca oluşan, mineral bakımından zengin, yer altı sularına fay kaynağı denir.\n\nBuna göre, Türkiye'de aşağıdaki kentlerin hangisinde fay kaynaklara rastlanmaz?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Mardin"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Sivas"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Bolu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Manisa"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Bursa"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Fay Kaynakları (Kaplıca / Ilıca / Madensuyu)**, fay hatları boyunca kırık hatlardan derine sızıp magmatik ısı ile ısınıp minerallerce zenginleşerek yüzeye çıkan sulardır. Suları sıcaktır, debisi yıl boyu sabittir ve suları mevsime göre sıcaklık değiştirmez."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mardin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fay kaynakları (kaplıca, ılıca, maden suyu); yer kabuğunun kırıklı olduğu aktif fay hatları boyunca yer altına sızan suların derindeki magmatik ısıyla ısınıp mineralleri çözerek yüzeye çıkmasıyla oluşur. <strong>Mardin (Mardin Eşiği)</strong>, I. Jeolojik Zaman'a (Paleozoyik) ait yaşlı ve oturmuş sert bir <strong>masif kütledir</strong>; aktif fay hattı ve deprem riski bulunmadığı için burada fay kaynağına rastlanmaz.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Bursa ve Bolu: Kuzey Anadolu Fay Hattı (KAF) üzerindedir.<br>• Manisa: Batı Anadolu Fay Hattı (BAF) üzerindedir.<br>• Sivas: KAF-DAF geçiş kuşağı fay hatları üzerindedir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Fay hattı olmayan masif sahalarda (Mardin Masifi, Yıldız Masifi, Alanya-Anamur, Konya-Karaman) fay kaynağı ve jeotermal su bulunmaz.</em>"
   },
   {
     "id": "cogr_test_15-q11",
@@ -42093,33 +42093,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q11.png",
+    "questionText": "Çentik vadiler akarsuların akış hızlarının fazla olduğu, eğimli yamaçlarda oluşan 'V' şeklindeki vadilerdir.\n\nTürkiye'de aşağıdaki bölümlerin hangisinde bu vadiler daha yaygındır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Doğu Karadeniz"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Orta Karadeniz"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ergene"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yukarı Sakarya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Orta Fırat"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Çentik Vadi (V tipi vadi)**, akarsuyun yukarı çığırında, eğimin ve akış hızının fazla olduğu dağlık alanlarda derine aşındırma yapmasıyla oluşan dik yamaçlı vadidir. Türkiye'de genç ve engebeli arazilerde (özellikle Karadeniz ve Doğu Anadolu) çok yaygındır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Karadeniz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Çentik Vadi (Kertik / 'V' Şekilli Vadi)</strong>; akarsuyun yatak eğiminin, akış hızının ve aşındırma gücünün çok yüksek olduğu yukarı çığırda (dağlık alanlarda), akarsuyun yana değil <strong>derine doğru şiddetle aşındırma</strong> yapmasıyla oluşur. Tabanı yoktur. Türkiye'de ortalama yükselti ve yatak eğiminin en fazla olduğu, akarsuların dar ve dik vadilerden çağlayarak aktığı <strong>Doğu Karadeniz Bölümü</strong> çentik vadilerin en yaygın olduğu sahadır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Ergene: Türkiye'nin en düz, en alçak yerlerinden biridir; geniş tabanlı vadiler ve menderesler vardır.<br>• Orta Karadeniz, Yukarı Sakarya ve Orta Fırat'ta eğim Doğu Karadeniz'e göre çok daha azdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Çentik vadi = V tipi = Derine aşındırma = Yüksek eğim ve akış hızı = Doğu Karadeniz ve Doğu Anadolu akarsuları.</em>"
   },
   {
     "id": "cogr_test_15-q12",
@@ -42130,33 +42130,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q12.png",
+    "questionText": "Türkiye fiziki haritasında yeşil tonların hâkim olduğu bir alan için aşağıdakilerden hangisi söylenemez?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Geniş tabanlı vadiler yaygındır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Akarsular menderesler oluşturur."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Taşkın olaylarına rastlanır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Akarsular üzerinde kum adaları oluşur."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Akarsu rejimleri düzenlidir."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nFiziki haritalarda yeşil tonlar deniz seviyesine yakın alçak yerleri (0 - 500 m) gösterir. Bu alanlarda akarsuların yatak eğimi ve akış hızı azalır, hidroelektrik potansiyelleri düşer, biriktirme ve menderes oluşturma eğilimleri artar."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Akarsu rejimleri düzenlidir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fiziki haritalarda renkler bitki örtüsünü değil, yalnızca <strong>deniz seviyesinden yüksekliği</strong> ifade eder. <strong>Yeşil renk 0 - 500 metre arasındaki alçak sahaları</strong> (kıyı ovaları, Marmara/Ergene vb.) gösterir. Bu alanlarda akarsuların eğimi azaldığı için menderes çizerler, geniş tabanlı vadi oluştururlar, akış hızı düştüğünden yatak içinde kum adacıkları biriktirirler ve kolay taşkın yaparlar. ANCAK <strong>akarsu rejiminin düzenli olması yükseltiyle değil, bölgenin yağış rejimi ve iklimiyle ilgilidir</strong> (Örn: Ege veya Akdeniz kıyısındaki akarsular yeşil renktedir ama yaz kuraklığı yüzünden rejimleri düzensizdir).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A, B, C ve D şıkları eğimin az olduğu (0-500 m) alçak tabanların doğrudan hidrografik özellikleridir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Fiziki haritadaki YEŞİL renk sadece '0-500 m yükselti' demektir; orman varlığı veya rejim düzenliliği ile doğrudan hiçbir ilgisi yoktur!</em>"
   },
   {
     "id": "cogr_test_15-q13",
@@ -42167,33 +42167,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 13)",
+    "questionText": "Türkiye'de görülen vadi türlerinden biri kanyon vadilerdir. Bu vadilerin önemli bir kısmı, akarsuların kalkerli araziyi çözündürerek derinlere gömülmesiyle oluşur.\n\nBuna göre yukarıda Türkiye haritasında numaralandırılmış arazilerin hangisinde kanyon vadi oluşumu yaygın görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q13.png",
+    "image": "assets/questions/cogr_test_15_q13_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Kanyon Vadiler**, karstik arazilerde farklı dirençteki kalker tabakalarının akarsu tarafından basamaklar halinde derine aşındırılmasıyla oluşur. Akdeniz Bölgesi'nde (Köprülü Kanyon, Göksu Kanyonu, Saklıkent) ve Ege'de (Ulubey Kanyonu) yaygındır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Kanyon Vadi</strong>; karstik arazilerde farklı dirençteki kalker (kireçtaşı) tabakalarının akarsu tarafından hem kimyasal çözünme hem de derine aşındırma ile oyulması sonucu oluşan basamaklı, çok derin ve dik yamaçlı vadilerdir. Türkiye'de karstik kalker arazisinin en yaygın olduğu yer <strong>II numara ile gösterilen Akdeniz Bölgesi (Toros Dağları kuşağı - Teke, Taşeli, Antalya, Göksu Kanyonu, Saklıkent Kanyonu, Köprülü Kanyon)</strong>'dur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I (Marmara), III (Doğu Anadolu), IV (Güneydoğu), V (İç Anadolu) arazilerinde kalker karstına bağlı tipik basamaklı kanyon vadiler yaygın değildir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Kanyon vadi = Basamaklı yamaç + Karstik kalker arazisi = Akdeniz / Toroslar (Köprülü, Göksu, Saklıkent vb.).</em>"
   },
   {
     "id": "cogr_test_15-q14",
@@ -42204,33 +42204,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q14.png",
+    "questionText": "Akarsuların menderes oluşturduğu bir alanda akarsuların özellikleri için aşağıdakilerden hangisine ulaşılabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Akarsuların boyları uzar."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Hidroelektrik enerji potansiyelleri yüksektir."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Çentik vadiler oluştururlar."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Aşındırma güçleri fazladir."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Taşkın yapma ihtimalleri azdır."
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nAkarsuyun **menderes (kıvrım)** yapması durumunda:\n• Yatak eğimi ve akış hızı azalmıştır,\n• Aşındırma gücü ve hidroelektrik potansiyeli düşmüştür,\n• Akarsuyun gerçek uzunluğu ile kuş uçuşu uzunluğu arasındaki fark artmıştır,\n• Hem aşındırma (çarpak) hem biriktirme (yığınak) yapar."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Akarsuların boyları uzar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bir akarsu yatak eğiminin azaldığı düzlüklerde büklümler (kıvrımlar) yaparak akmaya başladığında <strong>menderes</strong> oluşturur. Menderes oluşturan bir akarsu 'S' harfi gibi kıvrılarak aktığı için <strong>akarsuyun gerçek uzunluğu kuş uçuşu mesafesine göre belirgin biçimde uzar</strong>. Menderes çizen akarsuda ayrıca eğim azaldığından akış hızı, aşındırma gücü ve hidroelektrik potansiyeli düşer; çarpak (aşınım) ve yığınak (birikim) oluşur; taşkın riski artar.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• B, C ve D seçenekleri eğimi ve akış hızı yüksek olan çentik vadili genç akarsuların özellikleridir.<br>• E şıkkının aksine yatak sığlaştığı için menderesli akarsularda taşkın ihtimali çok fazladır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Menderes yapan akarsuda: Boyu uzar, akış hızı düşer, eğim azalır, hidroelektrik potansiyel düşer, hem aşındırma (çarpak) hem biriktirme (yığınak) yapar.</em>"
   },
   {
     "id": "cogr_test_15-q15",
@@ -42241,33 +42241,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q15.png",
+    "questionText": "Akarsuların araziyi aşındırıp düzleştirmesiyle, yükseltinin sıfırlandığı alanlar; aşındırmanın son şekli olarak da adlandırılan 'peneplen' alanları ortaya çıkar.\n\nBuna göre aşağıdaki bölgelerden hangisi peneplen alanı oluşturmaya daha yakındır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Karadeniz"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Marmara"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İç Anadolu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Güneydoğu Anadolu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Akdeniz"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Peneplen (Yontukdüz)**, akarsu aşındırmasının son evresinde arazinin deniz seviyesine yakın, hafif dalgalı bir düzlük haline gelmesidir. Türkiye III. Zaman sonunda peneplenleşmiş, IV. Zaman başında toptan yükselerek yüksek platolar haline gelmiştir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Marmara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Peneplen (Yontukdüz)</strong>, akarsu aşındırmasının son evresinde, engebeli dağlık sahaların aşındırılarak deniz seviyesine yakın, hafif dalgalı düzlükler haline gelmesidir. Türkiye genç oluşumlu (III. ve IV. Zaman) ve toptan yükselmiş yüksek bir ülke olduğu için peneplenleşme sonrasında tekrar yükselmiştir. Ancak bölgelerimiz arasında <strong>ortalama yükseltisi en az olan, fiziki haritada yeşil rengin en çok yer kapladığı ve peneplen görünümüne (aşınımın son safhasına) en yakın olan bölge Marmara Bölgesi'dir (özellikle Çatalca-Kocaeli ve Ergene platosu)</strong>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Doğu Anadolu, Karadeniz ve Akdeniz genç, yüksek ve dağlık bölgeler olup peneplen aşamasından çok uzaktır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Peneplenleşmeye en yakın' ya da 'aşınımın en ileri düzeyde olduğu' bölge MARMARA (Çatalca-Kocaeli)'dır.</em>"
   },
   {
     "id": "cogr_test_15-q16",
@@ -42278,33 +42278,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 16)",
+    "questionText": "Akarsu havzaları içerisinde, eğimli yamaçlardan aşağı düşen akarsuların düştükleri alanlarda oluşturdukları çukurluklara 'dev kazanı' adı verilir.\n\nYukarıdaki haritada numaralanmış alanların hangisinde dev kazanlarına rastlanır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q16.png",
+    "image": "assets/questions/cogr_test_15_q16_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\n**Dev Kazanı**, çağlayan ve şelalelerden (şelale düşüş noktalarından) dökülen suların düştükleri yeri oymasıyla oluşan derin çukurluklardır. Manavgat, Düden, Kurşunlu, Tortum, Muradiye şelalelerinde yaygındır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Dev Kazanı</strong>; şelale, çağlayan ve çağlayık gibi su düşüşü olan yerlerde, suyun yüksekten hızla dökülerek çarptığı tabandaki kayaları ve çakılları burgu gibi döndürüp oymasıyla oluşan derin çukurluklardır. Haritada <strong>V numara ile gösterilen Antalya ve Toroslar yöresi</strong>; karstik basamaklardan dökülen Düden, Manavgat ve Kurşunlu gibi Türkiye'nin en meşhur şelalelerine ev sahipliği yapar ve dev kazanlarının en belirgin görüldüğü alandır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I (Ergene), II (Güneydoğu düzlüğü), III (Tuz Gölü çevresi) ve IV (Ege grabeni) eğimin az olduğu düzlüklerdir; buralarda çağlayan ve dev kazanı oluşamaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Dev kazanı = Şelale / Çağlayan aşındırması = Antalya (Düden, Kurşunlu, Manavgat), Erzurum (Tortum), Van (Muradiye).</em>"
   },
   {
     "id": "cogr_test_15-q17",
@@ -42315,33 +42315,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q17.png",
+    "questionText": "Volkanik tüflerin selinti suları tarafından aşındırılmasıyla oluşan peribacalarının tipik örneklerine ... rastlanır.\n\nBuna göre yukarıda verilen açıklamada boş bırakılan yere aşağıdaki yörelerin hangisi yazılamaz?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Van çevresi"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ürgüp - Göreme yöresi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Manisa - Kula yöresi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sivas - Zara arazisi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Erzurum - Narman arazisi"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\n**Peribacaları**, volkanik tüf ve bazalt lavlarının bulunduğu arazide selinti sularının ve akarsuların aşındırması, rüzgarın ise ikincil etkisiyle oluşan özel aşınım şekilleridir. Nevşehir-Ürgüp-Göreme'de yaygındır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Sivas - Zara arazisi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Peribacaları volkanik tüf, kül ve bazalt katmanlarının sel suları ve rüzgâr tarafından aşındırılmasıyla oluşur. <strong>Sivas - Zara yöresi</strong> volkanik bir arazi değil, jips (alçıtaşı) arazisidir; dolayısıyla burada jips karstı (erime şekilleri) görülür, peribacası bulunmaz.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>B (Ürgüp-Göreme):</strong> Kapadokya, Türkiye'nin en büyük peribacası merkezidir.<br>• <strong>C (Manisa-Kula):</strong> 'Kuladokya' peribacaları olarak tescillidir.<br>• <strong>E (Erzurum-Narman):</strong> 'Kırmızı Periler Diyarı' olarak bilinen kırmızı peribacalarıdır.<br>• <strong>A (Van-Başkale):</strong> 'Vanadokya' peribacaları yer alır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de peribacası denince Kapadokya dışında KULA (Manisa), NARMAN (Erzurum) ve BAŞKALE (Van) mutlaka bilinmelidir! Sivas ise jips (alçıtaşı) karstı merkezidir.</em>"
   },
   {
     "id": "cogr_test_15-q18",
@@ -42352,33 +42352,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 15: Dış Kuvvetler - 1 (Soru 18)",
+    "questionText": "Kalker, jips, kaya tuzu gibi kayaçların bulunduğu araziler karstik arazilerdir. Bu arazilerde yer altı ve yer üstü sularının etkisiyle lapya, dolin, uvala ve polye gibi yüzey şekillerinin oluşumu yaygındır.\n\nBuna göre Türkiye haritasında numaralandırılmış yörelerin hangisinde yukarıda verilen yüzey şekilleri yaygın görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_15_q18.png",
+    "image": "assets/questions/cogr_test_15_q18_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nKarstik Aşınım Şekilleri küçükten büyüğe:\n**Lapya -> Dolin -> Uvala -> Polye (Gölova)**\n• Lapya en küçük karstik oyuntudur; Polye en geniş karstik erime ovasıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kolay eriyebilen kalker (kireçtaşı) arazisi üzerinde kimyasal çözünme sonucu oluşan aşınım şekillerinin (küçükten büyüğe: <strong>Lapya $\\rightarrow$ Dolin $\\rightarrow$ Uvala $\\rightarrow$ Polye</strong>) Türkiye'de en yoğun ve gelişmiş olduğu alan <strong>I numara ile gösterilen Akdeniz Bölgesi (Batı ve Orta Toroslar - Teke ve Taşeli Platoları kuşağı)</strong>'dır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• II (Güneydoğu düzlüğü), III (Erzurum-Kars lav platosu), IV (Doğu Karadeniz granitik dağları) ve V (Ergene killi sahası) kalker karstına sahip değildir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Karstik şekillerin sıralaması: Lapya (en küçük oluk) $\\rightarrow$ Dolin $\\rightarrow$ Uvala $\\rightarrow$ Polye (Gölova / en büyük karstik ova). En yaygın yer: AKDENİZ / TOROSLAR.</em>"
   },
   {
     "id": "cogr_test_16-q1",
@@ -42389,33 +42389,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 1,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q1.png",
+    "questionText": "Türkiye'de Akdeniz Bölgesi ve Toros dağ sisteminde oluşan bazı yer şekilleri ile ilgili aşağıda bilgiler verilmiştir:\n• En küçük karstik aşınım şeklidir.\n• Uvalaların birleşmesi ile oluşurlar.\n• Mağara tavanlarının çökmesi sonucu oluşur.\n• Basamaklı birikim şeklidir.\n\nBuna göre verilen bilgiler ile aşağıdaki şekiller eşleştirildiğinde hangisi dışarıda kalır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Dolin"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Polye"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Obruk"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Lapya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Traverten"
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de buzul aşınım ve birikim şekillerinin (sirk çanağı, buzul vadisi, hörgüç kaya, moren seti) görülmesi **Mutlak Konum (Matematiksel Konum)** ile değil, **Göreceli Konum (Yükselti)** ile açıklanır. Çünkü Türkiye orta kuşaktadır ve deniz seviyesinde buzul oluşamaz; ancak 2500-3000 m üzerindeki yüksek dağ zirvelerinde buzullaşma görülür."
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dolin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Verilen öncülleri karstik şekillerle eşleştirdiğimizde:<br>• <em>'En küçük karstik aşınım şeklidir'</em> $\\rightarrow$ <strong>Lapya</strong> (D seçeneği eşleşir)<br>• <em>'Uvalaların birleşmesi ile oluşurlar'</em> $\\rightarrow$ <strong>Polye (Gölova)</strong> (B seçeneği eşleşir)<br>• <em>'Mağara tavanlarının çökmesi sonucu oluşur'</em> $\\rightarrow$ <strong>Obruk</strong> (C seçeneği eşleşir)<br>• <em>'Basamaklı birikim şeklidir'</em> $\\rightarrow$ <strong>Traverten</strong> (E seçeneği eşleşir)<br>Eşleşmeyen ve dışarıda kalan şekil <strong>DOLİN</strong>'dir (Dolin, lapyaların birleşmesiyle oluşan tava şeklindeki küçük erime çukurlarıdır).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Lapya, Polye, Obruk ve Traverten öncüllerde birebir tanımlanmıştır; Dolin'in tanımına yer verilmemiştir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Karstik aşınım boyut sırası: LAPYA (birkaç cm) $\\rightarrow$ DOLİN (onlarca m) $\\rightarrow$ UVALA (yüzlerce m) $\\rightarrow$ POLYE (kilometrelerce geniş ova). Çökme çukuru = OBRUK; kireç çökelmesi basamağı = TRAVERTEN.</em>"
   },
   {
     "id": "cogr_test_16-q2",
@@ -42426,33 +42426,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 2,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 2)",
+    "questionText": "Aşağıdaki Türkiye haritasında bazı yöreler numaralandırılarak verilmiştir.\n\nBuna göre Türkiye haritasında numaralandırılmış merkezlerin hangisinde ırmak adası, menderes ve taban seviyesi ovası yüzey şekillerinin yaygın olduğu söylenebilir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q2.png",
+    "image": "assets/questions/cogr_test_16_q2_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de güncel buzul ve buzul izlerinin bulunduğu dağlar:\n• Doğu Karadeniz: Kaçkar, Verçenik\n• Toroslar: Bolkarlar, Aladağlar, Beydağları\n• Doğu Anadolu: Cilo (Buzul Dağı / Uludoruk - en büyük buzul), Sat, Ağrı, Süphan, Mercan (Munzur)\n• İç Anadolu: Erciyes\n• Marmara: Uludağ (sadece Kuaterner buzul izleri)\n\n❌ **Çeldiriciler:**\n• Yıldız Dağları, Aydın Dağları, Canik Dağları ve Güneydoğu Torosların alçak kesimlerinde buzul şekilleri bulunmaz."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Irmak adası (kum adacığı), menderes ve taban seviyesi ovaları; akarsuyun yatak eğiminin ve akış hızının çok azaldığı, derine aşındırmanın durup yana aşındırma ve biriktirmenin öne çıktığı alçak düzlüklerde görülür. Haritada <strong>IV numara ile gösterilen Kıyı Ege (Büyük ve Küçük Menderes, Gediz, Bakırçay grabenleri)</strong> yatak eğiminin en az olduğu, mendereslerin, ırmak adalarının ve kıyı birikim ovalarının en yaygın görüldüğü sahadır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I (Doğu Karadeniz), II (Hakkari Cilo yöresi) ve V (Erzurum-Kars): Yüksek, engebeli ve eğimli alanlardır; akarsular menderes çizemez, çentik vadilerde hızla akar.<br>• III (Tuz Gölü): Kapalı havza ve geçici akarsu alanıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Menderes, ırmak adası, taban seviyesi ovası' dendiğinde Türkiye'de ilk bakılacak adres EGE BÖLGESİ grabenleridir.</em>"
   },
   {
     "id": "cogr_test_16-q3",
@@ -42463,33 +42463,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 3,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 3)",
+    "questionText": "Kıyıya paralel uzanan dağların çökmesi sonucu deniz suyu altında kalan bu kıyılarda kıyıya paralel uzanan yarımadalar, adalar ve koylar yer almaktadır. Bu tip kıyılara Dalmaçya kıyı denir.\n\nBuna göre yukarıda temel özellikleri verilen kıyı tipi haritada numaralandırılmış kıyıların hangisinde görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q3.png",
+    "image": "assets/questions/cogr_test_16_q3_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'nin en yüksek zirvesi ve en büyük vadi/örtü buzulu:\n• En yüksek tepe: **Ağrı Dağı (Atatürk Zirvesi - 5137 m)** - Zirvesinde takke buzulu bulunur.\n• En büyük vadi buzulu: **Cilo Dağı (Uludoruk / Reşko - 4135 m - Hakkari)** üzerinde yer alır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Dalmaçya Kıyı Tipi</strong>; kıyı çizgisine paralel uzanmış kıvrımlı dağ sıralarının arasındaki vadilerin deniz suları altında kalmasıyla, dağların su üstünde kalan tepelerinin kıyıya paralel yüzlerce adacığa ve yarımadaya dönüşmesiyle oluşur. Türkiye'deki en tipik ve tek örneği <strong>II numara ile gösterilen Antalya - Kaş ile Finike arasındaki kıyı şerididir</strong>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I (İstanbul Boğazı): Ria kıyı tipidir.<br>• III (Ege): Enine kıyı tipidir.<br>• IV ve V (Orta ve Doğu Karadeniz): Boyuna kıyı tipidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de DALMAÇYA KIYI TİPİ dendiğinde istisnasız tek bir yer vardır: ANTALYA (KAŞ - FİNİKE KIYILARI).</em>"
   },
   {
     "id": "cogr_test_16-q4",
@@ -42500,33 +42500,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 4,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 4)",
+    "questionText": "Tüf veya mil gibi materyalden oluşan yamaçlarda eğer bitki örtüsü de cılız ise sel suları ile yarılma sonucu birbirine girmiş çok sayıda kertikler oluşur. Bu tür arazilerde kırgıbayır (badlands) adı verilen yüzey şekilleri oluşur.\n\nBuna göre, yukarıdaki haritada numaralanmış yörelerin hangilerinde kırgıbayır arazisi yaygındır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q4.png",
+    "image": "assets/questions/cogr_test_16_q4_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "III ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "IV ve V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\n**Sirk Gölleri (Buzul Gölleri)**, dağ zirvelerindeki sirk çanaklarının sularla dolmasıyla oluşur. Kaçkarlar, Uludağ, Bolkarlar, Aladağlar ve Cilo Dağları üzerinde çok sayıda sirk gölü (Aynalıgöl, Kilimli Göl, Karagöl vb.) bulunur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Kırgıbayır (Badlands / Kötü Arazi)</strong>; kurak ve yarı kurak iklim bölgelerinde, bitki örtüsünden yoksun, killi-tüflü eğimli yamaçların sağanak yağışlar sonrası oluşan selinti suları tarafından derin oyuntularla ve yarıklarla parçalanması sonucu ortaya çıkan yürünmesi zor, tarıma elverişsiz arazilerdir. Haritada <strong>II numara (İç Anadolu - Ankara/Nallıhan yöresi)</strong> ve <strong>III numara (İç Anadolu - Nevşehir/Kapadokya volkanik tüf arazisi)</strong> kırgıbayırların Türkiye'de en yaygın olduğu sahalardır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I (Doğu Karadeniz) ve IV (Muğla/Menteşe): Gür bitki ve orman örtüsüyle kaplıdır; selinti erozyonuyla kırgıbayır oluşamaz.<br>• V (Erzurum): Gür dağ çayırları hâkimdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Kırgıbayır = Cılız bitki örtüsü + Killi/tüflü yamaç + Selinti suları aşındırması = İÇ ANADOLU (Nallıhan ve Kapadokya).</em>"
   },
   {
     "id": "cogr_test_16-q5",
@@ -42537,33 +42537,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 5,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 5)",
+    "questionText": "Ülkemizde tekne vadi olarak da adlandırılan buzul vadilerinin tipik örneklerine rastlanır. Ancak bu oluşumlar ülkemizde yaygın değildir. En önemli örnek Reşat İzbırak buzuludur.\n\nBuna göre Türkiye'nin en önemli vadi buzulu olan Reşat İzbırak buzulu haritada numaralandırılarak verilen merkezlerin hangisinde yer almaktadır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q5.png",
+    "image": "assets/questions/cogr_test_16_q5_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Hörgüç Kaya**, buzulun aşındırması sırasında sert kayaların cilalanıp deve hörgücü şeklinde pürüzsüzleştirilmiş tepecikler haline gelmesidir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'nin en büyük güncel vadi buzulu olan <strong>Reşat İzbırak Buzulu (yaklaşık 4 km uzunluğunda)</strong>, <strong>I numara ile gösterilen Hakkari - Cilo (Buzul) Dağları</strong> üzerinde (Uludoruk zirvesi eteklerinde) yer alır. Türkiye orta kuşakta yer aldığı için buzul şekilleri sadece 2500 - 3000 m üzerindeki yüksek dağ zirvelerinde görülür.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• II (Konya), III (Çukurova), IV (Kıyı Ege), V (Ergene): Ortalama yükseltileri az olan alçak düzlüklerdir; buralarda asla buzul veya buzul vadisi bulunmaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'nin en büyük vadi buzulu = REŞAT İZBIRAK BUZULU = CİLO DAĞI (HAKKARİ). En büyük takke buzulu ise AĞRI DAĞI zirvesindedir.</em>"
   },
   {
     "id": "cogr_test_16-q6",
@@ -42574,33 +42574,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 6,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q6.png",
+    "questionText": "Ülkemizde; dolomit, jips, kalker, kaya tuzu gibi kayaçların yaygın olduğu yörelerin şekillenmesinde etkili olan dış kuvvet aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Akarsu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Dalga"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Rüzgâr"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yeraltı suyu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Buzul"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nTürkiye'de kıyı tipleri:\n• **Boyuna Kıyı:** Dağların kıyıya paralel uzandığı Akdeniz ve Karadeniz kıyıları\n• **Enine Kıyı:** Dağların kıyıya dik uzandığı Ege kıyıları (Edremit - Kuşadası arası)\n• **Ria Tipi:** İstanbul-Çanakkale Boğazları, Haliç, Menteşe kıyıları\n• **Dalmaçya Tipi:** Kıyıya paralel uzanan dağların sular altında kalmasıyla kıyıya paralel ada dizileri (Antalya - Kaş / Finike kıyıları)\n• **Kalanklı Kıyı:** Kanyon vadilerin sular altında kalması (Mersin / Silifke kıyıları)\n• **Limanlı Kıyı:** Lagünlerin olduğu Büyükçekmece, Küçükçekmece kıyıları"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yeraltı suyu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kalker (kireçtaşı), jips (alçıtaşı), kaya tuzu ve dolomit su ile temas ettiğinde kimyasal olarak kolayca çözünebilen (eriyebilen) karstik kayaçlardır. Bu kayaçların bulunduğu sahalarda çatlaklardan sızan <strong>yeraltı suları</strong> ve yüzey suları kimyasal aşındırma yaparak mağara, galeri, obruk, düden ve traverten gibi karstik şekilleri meydana getirir. Dolayısıyla karstik topoğrafyanın oluşumundaki birincil dış kuvvet <strong>YER ALTI SULARIDIR</strong>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Dalgalar kıyı şekillerini, rüzgârlar kurak alanları, buzullar ise sadece yüksek dağ zirvelerini şekillendirir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Kalker, Jips, Dolomit ve Kaya Tuzu = KARSTİK KAYAÇLAR. Bunların şekillenmesindeki temel kuvvet: YER ALTI VE YÜZEY SULARI (Karstlaşma).</em>"
   },
   {
     "id": "cogr_test_16-q7",
@@ -42611,33 +42611,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 7,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 7)",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralandırılarak verilen kıyılarda sırasıyla hangi tip kıyı oluşmuştur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q7.png",
+    "image": "assets/questions/cogr_test_16_q7_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kalanklı - Skayer - Ria"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Enine - Boyuna - Dalmaçya"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ria - Enine - Dalmaçya"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Boyuna - Enine - Ria"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Enine - Ria - Kalanklı"
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nTürkiye'de **Fiyort ve Skayer tipi kıyılar** GÖRÜLMEZ. Çünkü bu kıyı tipleri buzul aşındırmasının deniz seviyesine kadar indiği kutup ve kutup altı enlemlerde (İskandinavya, Kanada vb.) görülür. Türkiye'nin orta kuşakta yer alması (matematik konum) buna engeldir."
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ria - Enine - Dalmaçya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada gösterilen kıyı merkezleri sırasıyla incelendiğinde:<br>• <strong>I numara:</strong> İstanbul Boğazı kıyıları $\\rightarrow$ Eski akarsu vadisinin boğulmasıyla oluşan <strong>RİA KIYI TİPİ</strong>dir.<br>• <strong>II numara:</strong> Ege kıyıları (İzmir çevresi) $\\rightarrow$ Dağların denize dik uzandığı <strong>ENİNE KIYI TİPİ</strong>dir.<br>• <strong>III numara:</strong> Antalya (Kaş-Finike kıyıları) $\\rightarrow$ Kıyıya paralel adacıklardan oluşan <strong>DALMAÇYA KIYI TİPİ</strong>dir.<br>Dolayısıyla doğru sıralama <strong>Ria - Enine - Dalmaçya</strong> şeklindedir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Skayer buzul kıyısıdır (Türkiye'de asla görülmez).<br>• Kalanklı kıyı Mersin/Silifke kanyon kıyılarında görülür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM kıyı tipleri harita eşleştirmesinde en çok bu üçlüyü sorar: Boğazlar = RİA, Ege = ENİNE, Kaş = DALMAÇYA.</em>"
   },
   {
     "id": "cogr_test_16-q8",
@@ -42648,33 +42648,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 8,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 8)",
+    "questionText": "Yukarıdaki şekilde verilen kaynak tipinin temel özellikleri arasında aşağıdakilerden hangisi yer almaz?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q8.png",
+    "image": "assets/questions/cogr_test_16_q8_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kaynak sularının mineral madde oranı yüksektir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Su, ara ara basınçlı çıkar."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ülkemizde bütün bölgelerde görülebilir."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Suları sıcaktır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kaynağın bulunduğu alanlarda termal turizm gelişebilir."
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Dalmaçya Kıyı Tipi**, kıyı çizgisine paralel uzanmış dağ sıralarının epirojenik çökme veya deniz seviyesi yükselmesiyle sular altında kalarak kıyıya paralel çok sayıda adacığa dönüşmesidir. Türkiye'de en belirgin örneği **Antalya'nın Kaş - Finike kıyıları**dır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Su, ara ara basınçlı çıkar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Şekilde gösterilen kaynak türü bir <strong>Fay Kaynağı (Kaplıca / Ilıca / Jeotermal Kaynak)</strong>dır. Fay kaynaklarının suları sıcaktır, mineralce zengindir, debisi ve sıcaklığı yıl boyunca fazla değişmez ve termal turizmde/sağlıkta kullanılır. Ancak <strong>'Suyun ara ara fışkırarak, kesik kesik ve basınçla çıkması' GAYZER kaynaklarının özelliğidir</strong>. Gayzerler aktif volkanik sahalarda (İzlanda, Yeni Zelanda, ABD vb.) bulunur; Türkiye'de aktif volkanizma olmadığı için gayzer kesinlikle bulunmaz.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A, C, D ve E maddeleri fay kaynaklarının tipik özellikleridir (Türkiye genç oluşumlu kırıklı bir ülke olduğu için her bölgemizde fay kaynaklarına rastlanabilir).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Suları aralıklarla basınçla fışkıran' kaynak GAYZERDİR. Türkiye'de aktif volkan olmadığı için GAYZER GÖRÜLMEZ!</em>"
   },
   {
     "id": "cogr_test_16-q9",
@@ -42685,33 +42685,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 9,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 9)",
+    "questionText": "Aşağıda verilen dağlardan hangisi yukarıda oluşum şekli gösterilen dağ oluşumuna örnek olur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q9.png",
+    "image": "assets/questions/cogr_test_16_q9_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Menteşe"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Karadağ"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Karacadağ"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Hasandağı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Melendiz"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Enine Kıyı Tipi (Ege Kıyıları)** özellikleri:\n• Dağlar denize dik uzanır.\n• Kıta sahanlığı (şelf) çok geniştir.\n• Koy, körfez, doğal liman ve ada sayısı çok fazladır.\n• Kıyı ile iç kesimler arasında iklim ve ulaşım engeli yoktur; denizel hava iç kısımlara kadar girer."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Menteşe)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Şekilde yer kabuğunun sert kütlelerinin orojenez sırasında kırılmasıyla oluşan <strong>Kırıklı Dağ Sistemi (Horst - Graben sistemi)</strong> gösterilmiştir. Fay hatları boyunca yükselen bloklara <strong>Horst (Kırık Dağ)</strong>, çöken bloklara ise <strong>Graben (Çöküntü Ovası)</strong> denir. Seçenekler incelendiğinde <strong>Menteşe Dağları</strong> (ve Kaz, Madra, Yunt, Bozdağlar, Aydın Dağları) Ege Bölgesi'ndeki kırıklı dağlara (Horst) örnektir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Karadağ, Hasandağı, Melendiz (İç Anadolu) ve Karacadağ (Güneydoğu/İç Anadolu) volkanizma sonucu oluşan <strong>Volkanik Dağlardır</strong>.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Ege'deki dağlar (Kaz, Madra, Yunt, Boz, Aydın, Menteşe) HORST (kırık); Karadağ, Karacadağ, Hasan, Erciyes, Melendiz, Nemrut, Süphan, Tendürek, Ağrı ise VOLKANİK dağlardır.</em>"
   },
   {
     "id": "cogr_test_16-q10",
@@ -42722,33 +42722,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 10,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q10.png",
+    "questionText": "Türkiye'de aşındırma konusunda en fazla etkiye sahip dış kuvvet akarsulardır.\n\nAşağıda verilen akarsu aşındırma şekillerinden hangisi, Anadolu'da diğerlerine göre daha yaygındır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Taraça"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Menderes"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Vadi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Peneplen"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Peribacaları"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\n**Boyuna Kıyı Tipi (Karadeniz ve Akdeniz)** özellikleri:\n• Dağlar denize paralel uzanır.\n• Kıyı dikliği (falez) fazladır.\n• Kıta sahanlığı dardır.\n• Kıyı ile iç kesimler arasında ulaşım zor ve geçitlerle sağlanır (Zigana, Kop, Çubuk, Sertavul, Gülek, Belen).\n• Kıyı ile iç kesim arasında iklim farklılığı çok yüksektir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Vadi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye dağlık, engebeli ve genç bir ülke olduğu için akarsuların tamamı kaynağından ağzına kadar bir yatak (vadi) boyunca akar. Çentik vadiler, kanyon vadiler, boğaz (yarma) vadiler ve geniş tabanlı vadiler olmak üzere <strong>VADİLER, Anadolu'da en yaygın görülen akarsu aşındırma şeklidir</strong>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Peneplen aşınmanın en son aşamasıdır ve Türkiye gibi genç yüksek ülkelerde yaygın değildir.<br>• Peribacaları sadece volkanik tüflü sahalarla (Kapadokya vb.) sınırlıdır.<br>• Menderes ve taraça ise her akarsuda görülmeyen özel aşınım/birikim şekilleridir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'yi en çok şekillendiren dış kuvvet AKARSU, akarsuyun en yaygın aşındırma şekli ise VADİ'dir.</em>"
   },
   {
     "id": "cogr_test_16-q11",
@@ -42759,33 +42759,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 11,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q11.png",
+    "questionText": "Türkiye'de sirk gölleri dağların daha çok kuzey yamaçlarında görülür.\n\nBu durumun temel sebebi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Orta kuşakta yer alması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yağış miktarı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Boylam"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bakı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "İklim çeşidi"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nKarstik birikim şekilleri:\n• **Traverten:** Kalsiyum bikarbonatlı yer altı sularının yüzeye çıkıp karbondioksitin uçmasıyla kirecin çökelmesi (Pamukkale, Antalya traverten platosu)\n• **Sarkıt, Dikit, Sütun:** Mağara tavan ve tabanlarında kirecin çökelmesi (Damlataş, Karain, İnsuyu, Ballıca, Dim mağaraları)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bakı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye Kuzey Yarımküre'de Yengeç Dönencesi'nin kuzeyinde yer aldığı için dağların güney yamaçları Güneş ışınlarını daha dik ve daha uzun süre alır (Bakı etkisi). Dağların <strong>kuzey yamaçları ise daha az güneş aldığı ve gölgede kaldığı için daha soğuktur</strong>; bu sebeple karlar kuzey yamaçlarda daha geç erir, kalıcı kar sınırı daha aşağılara iner ve buzulların açtığı çanaklar olan <strong>sirk gölleri kuzey yamaçlarda daha fazla korunur ve yaygın olarak görülür</strong>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Dağın bir yamacının diğer yamacına göre sıcaklık ve gölgeleme farkı yaşaması doğrudan <strong>BAKI (güneşe göre yönelme)</strong> faktörüyle açıklanır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Kuzey yamaçta kalıcı kar sınırının daha alçakta olması ve sirk göllerinin kuzey yamaçta toplanması = BAKI ETKİSİ.</em>"
   },
   {
     "id": "cogr_test_16-q12",
@@ -42796,33 +42796,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 12,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q12.png",
+    "questionText": "Karstik arazi üzerinde aşınma sonucunda oluşan uvaladan daha büyük çukur alanlar polyelerdir (karstik ovalar / gölova).\n\nAşağıdaki ovalardan hangisi polyelere örnektir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Çukurova"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Muğla Ovası"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Gediz Ovası"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bafra Ovası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Iğdır Ovası"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Polye (Gölova)**, karstik aşınım şekillerinin en büyüğüdür. Birkaç uvalanın birleşmesi veya tektonik çöküntü çanaklarının karstik erimeyle genişlemesiyle oluşan geniş düzlüklerdir (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla ovaları)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Muğla Ovası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Polye (Gölova)</strong>; karstik erime çanaklarının en büyüğüdür. Geniş kireçtaşı arazilerinin tektonik çökmeler ve kimyasal çözünmeyle birleşmesi sonucu oluşan bu çanakların tabanı alüvyonla kaplanarak karstik ovaları oluşturur. <strong>Muğla Ovası</strong>, Türkiye'nin en tipik polye ovalarından biridir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Çukurova ve Bafra: Akarsu alüvyonlarının denizde birikmesiyle oluşan <strong>Delta ovalarıdır</strong>.<br>• Gediz ve Iğdır: Fay hatları çöküntülerinde oluşan <strong>Tektonik ovalardır</strong>.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Karstik (Polye) Ovaları Şifresi: <strong>TAKKEM</strong> $\\rightarrow$ <strong>T</strong>efenni, <strong>A</strong>cıpayam, <strong>K</strong>orkuteli, <strong>K</strong>estel, <strong>E</strong>lmalı, <strong>M</strong>uğla.</em>"
   },
   {
     "id": "cogr_test_16-q13",
@@ -42833,33 +42833,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 13,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q13.png",
+    "questionText": "Dünya üzerindeki konumundan dolayı, etkili olan dış kuvvetler aşındırma ve biriktirme faaliyetleri sonucunda Anadolu'nun bugünkü görünümüne kavuşmasına katkı sağlamışlardır.\n\nBuna göre, aşağıdaki yer şekillerinden hangisi Anadolu'da görülmez?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Falez"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Tombolo"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Drumlin"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Lagün"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Lapya"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\n**Kalker (Kireçtaşı)** arazisi en çok **Batı ve Orta Toroslar (Akdeniz)**'da görülürken; **Jips (Alçıtaşı)** arazisi en çok **Sivas - Çankırı - Erzincan havzalarında** görülür. Kaya tuzu ise Çankırı, Tuzluca (Iğdır) ve Nevşehir'dedir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Drumlin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Drumlin</strong>; örtü buzullarının taşıdığı morenleri (buzul yığıntılarını) ters dönmüş kaşık veya balina sırtı şeklinde biriktirmesiyle oluşan buzul biriktirme tepeleridir. Bu şekiller yalnızca kutup kuşağında ve İskandinavya, Kanada gibi kıta buzullarının deniz seviyesine kadar indiği sahalarda görülür. Türkiye orta kuşakta yer aldığı için buzul örtüsü alçaklara inemez ve Anadolu'da drumlin tepeleri kesinlikle bulunmaz.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Falez: Karadeniz ve Akdeniz'de çok yaygındır.<br>• Tombolo: Kapıdağ ve Sinop'ta bulunur.<br>• Lagün: Terkos, Çekmece gölleri örnektir.<br>• Lapya: Toroslar'da çok yaygındır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de Matematik Konumdan (Orta Kuşak) dolayı görülmeyen buzul kıyı ve birikim şekilleri: FİYORT, SKAYER, DRUMLİN, SANDUR DÜZLÜĞÜ.</em>"
   },
   {
     "id": "cogr_test_16-q14",
@@ -42870,33 +42870,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 14,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q14.png",
+    "questionText": "Jeotermal kaynakların bulunduğu alanlarda buhar gücünden elektrik üretme, ev, iş yeri ve seraların içini ısıtma konusunda yararlanılır.\n\nBuna göre Türkiye'de aşağıdaki kentlerden hangisi bu özelliklere bağlı olarak 'enerjisi kendi kendine yeten kent' unvanını kazanmıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Edirne"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Bolu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Bursa"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Afyon"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Konya"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\nKarstik aşınım şekillerinden biri olan **Düden (Su batan / Su çıkan)**, yüzey sularının yer altına daldığı veya yer altı sularının tekrar yüzeye çıktığı doğal kuyu veya yarıklardır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Afyon)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Afyonkarahisar</strong>, zengin jeotermal yer altı su kaynaklarına sahiptir. Kurulan AFJET jeotermal merkezi ısıtma sistemiyle on binlerce konut, otel, termal tesis ve yüzlerce dekarlık jeotermal sera ısıtılmakta; bu entegre ve çevre dostu yapısı sayesinde 'kendi enerjisini kendi üreten ve kendine yeten kent' unvanını almıştır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Edirne ve Konya jeotermal merkezi konut/sera ısıtmasıyla bu unvana sahip değildir.<br>• Bursa ve Bolu kaplıca turizmiyle bilinse de Afyon çapında devasa bir jeotermal kentsel ısıtma altyapısına öncülük etmemiştir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Jeotermal enerjiden elektrik üretiminde Denizli (Sarayköy), Aydın (Germencik), Manisa (Alaşehir); jeotermal merkezi konut/sera ısıtmasında ise AFYON, İZMİR (Balçova) ve KÜTAHYA (Simav) öne çıkar.</em>"
   },
   {
     "id": "cogr_test_16-q15",
@@ -42907,33 +42907,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 15,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q15.png",
+    "questionText": "Türkiye'de aşağıdaki kıyı tiplerinin hangisi matematik konuma (enlem etkisine) bağlı olarak görülmez?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Haliçli kıyılar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kalanklı kıyılar"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Fiyort kıyılar"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Ria kıyılar"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Dalmaçya kıyılar"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nMağara turizmi bakımından zengin olan Türkiye'de karstik mağaralar:\n• **Karain Mağarası (Antalya):** Paleolitik yerleşim izleri taşır.\n• **İnsuyu Mağarası (Burdur):** Türkiye'nin turizme açılan ilk mağarasıdır.\n• **Ballıca Mağarası (Tokat):** Soğan sarkıtları ile ünlüdür.\n• **Damlataş ve Dim Mağaraları (Antalya/Alanya):** Astım tedavisi ve turizmde önemlidir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Fiyort kıyılar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Fiyort ve Skayer tipi kıyılar</strong>; buzul aşındırmasının (buzul vadilerinin) deniz kıyısına kadar inip sular altında kalmasıyla oluşan girintili çıkıntılı kıyılardır. Bu kıyı tiplerinin oluşabilmesi için kutup kuşağına yakın soğuk enlemlerde (İskandinavya, Norveç, Kanada vb.) yer almak gerekir. Türkiye <strong>Orta Kuşak'ta (36°-42° Kuzey)</strong> yer aldığı için deniz seviyesinde buzullaşma yaşanmamıştır; bu nedenle fiyort kıyılar Türkiye'de <strong>MATEMATİKSEL KONUM (ENLEM)</strong> sebebiyle kesinlikle görülmez.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Haliç ve Watt kıyıları da Türkiye'de görülmez ancak bunların görülmeme sebebi okyanusa kıyımızın olmaması ve iç deniz olmamızdır, yani <strong>ÖZEL KONUMDUR</strong>.<br>• Kalanklı (Mersin), Ria (Boğazlar) ve Dalmaçya (Kaş) kıyıları Türkiye'de görülür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM'nin en sevdiği klasik soru: Türkiye'de Fiyort-Skayer görülmemesi = MATEMATİK KONUM (Orta kuşak); Haliç-Watt görülmemesi = ÖZEL KONUM (Okyanusa kıyısı olmaması / Gelgit azlığı).</em>"
   },
   {
     "id": "cogr_test_16-q16",
@@ -42944,33 +42944,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 16,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 16)",
+    "questionText": "Türkiye kıyılarındaki kıyı tipleri haritada işaretli alanlarda gösterilmiştir.\n\nHaritada gösterilen alanlarda bulunan kıyı tipleri aşağıdaki seçeneklerin hangisinde doğru eşleştirilmiştir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q16.png",
+    "image": "assets/questions/cogr_test_16_q16_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Dalmaçya - Enine - Boyuna - Ria - Kalanklı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Boyuna - Enine - Dalmaçya - Kalanklı - Ria"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ria - Enine - Boyuna - Kalanklı - Dalmaçya"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Boyuna - Kalanklı - Dalmaçya - Enine - Ria"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Enine - Ria - Dalmaçya - Kalanklı - Boyuna"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nDalga ve akıntıların taşıdığı kumların bir adayı ana karaya bağlamasıyla oluşan saplı adalara **Tombolo** denir. Marmara'daki **Kapıdağ Yarımadası** ve Karadeniz'deki **Sinop İnceburun** en belirgin örnekleridir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Boyuna - Enine - Dalmaçya - Kalanklı - Ria)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada işaretlenen 5 kritik kıyı merkezinin özellikleri:<br>1. <strong>Karadeniz Kıyısı:</strong> Dağlar kıyıya paraleldir $\\rightarrow$ <strong>Boyuna Kıyı</strong><br>2. <strong>Ege Kıyısı:</strong> Dağlar kıyıya dik uzanır $\\rightarrow$ <strong>Enine Kıyı</strong><br>3. <strong>Antalya (Kaş-Finike) Kıyısı:</strong> Kıyıya paralel adacıklar $\\rightarrow$ <strong>Dalmaçya Kıyı</strong><br>4. <strong>Mersin (Silifke) Kıyısı:</strong> Kanyon vadilerin deniz suyuyla dolması $\\rightarrow$ <strong>Kalanklı Kıyı</strong><br>5. <strong>İstanbul Boğazı Kıyısı:</strong> Eski akarsu vadisinin boğulması $\\rightarrow$ <strong>Ria Kıyı</strong><br>Doğru sıralama B seçeneğinde eksiksiz verilmiştir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Diğer seçeneklerde Karadeniz'e Dalmaçya veya Ria denilerek hatalı eşleştirmeler yapılmıştır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye Kıyı Tipleri Haritası: Karadeniz/Akdeniz geneli = BOYUNA, Ege = ENİNE, Kaş = DALMAÇYA, Mersin/Silifke = KALANKLI, Boğazlar/Menteşe = RİA.</em>"
   },
   {
     "id": "cogr_test_16-q17",
@@ -42981,33 +42981,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 17,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q17.png",
+    "questionText": "Karstik arazilerin bulunduğu alanlarda, suları soğuk ve kireçli olan karstik kaynaklara (voklüz) rastlanır.\n\nAşağıdaki kentlerin hangisinde bu tür kaynaklar daha yaygındır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Mersin"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İstanbul"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Trabzon"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bursa"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Sinop"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nDalga aşındırmasının etkili olduğu dik falezli kıyılarda, falezlerin gerilemesi sonucu su yüzeyinde oluşan kayalık düzlüklere **Aşınım Düzlüğü (Abrazyon Platformu)** denir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mersin)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Karstik Kaynaklar (Voklüz)</strong>; kalker, jips gibi eriyebilen kayaçların tabanındaki yer altı boşluklarında biriken suların yeryüzüne çıktığı kaynaklardır. Bu kaynakların suları kireçli ve soğuktur; debileri yağış ve erimelere bağlı olarak mevsimsel dalgalanma gösterir. Türkiye'de kalker karstının ve Toros dağ sisteminin en yaygın olduğu <strong>Mersin (ve Antalya, Isparta, Muğla)</strong> karstik kaynakların en bol bulunduğu yerdir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• İstanbul, Trabzon, Bursa ve Sinop karstik arazide yer almaz; bu kentlerde yamaç veya fay kaynakları görülür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Voklüz (Karstik Kaynak) = Suları kireçli ve soğuk = Akdeniz / Toroslar kuşağı (Antalya, Mersin vb.).</em>"
   },
   {
     "id": "cogr_test_16-q18",
@@ -43018,33 +43018,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "💨",
     "questionNumber": 18,
-    "questionText": "Yer Şekilleri & Dış Kuvvetler - Test 16: Dış Kuvvetler - 2 (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_16_q18.png",
+    "questionText": "Aşağıdakilerden hangisi bir karstik obruk şeklidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Cennet - Cehennem"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Pamukkale"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Safranbolu Evleri"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Meke Tuzlası"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Peribacaları"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nDış kuvvetlerin oluşturduğu yer şekilleri genel olarak incelendiğinde; rüzgarlar İç Anadolu ve Güneydoğu'da, dalgalar kıyılarda, karstik erimeler Akdeniz'de, akarsular tüm Türkiye'de, buzullar ise sadece yüksek dağ zirvelerinde etkilidir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cennet - Cehennem)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Obruk</strong>; karstik arazilerde yer altı sularının kalkeri eriterek oluşturduğu devasa yer altı mağara ve boşluklarının tavanlarının aniden çökmesiyle meydana gelen derin çöküntü çukurlarıdır. <strong>Mersin'in Silifke ilçesinde bulunan Cennet ve Cehennem Çökükleri</strong>, Türkiye'nin ve dünyanın en meşhur doğal karstik obruk örneklerindendir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Pamukkale:</strong> Karstik birikim şeklidir (Traverten).<br>• <strong>Meke Tuzlası:</strong> Volkanik gaz patlamasıyla oluşan çanaktır (Maar gölü).<br>• <strong>Peribacaları:</strong> Volkanik tüflerin sel suları ve rüzgârla aşınmasıdır.<br>• <strong>Safranbolu Evleri:</strong> Kültürel mimari varlıktır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'nin en ünlü obrukları: Mersin Silifke CENNET-CEHENNEM OBRUKLARI ve Konya OBRUK PLATOSU'ndaki (Kızören vb.) çöküntü obruklarıdır.</em>"
   },
   {
     "id": "cogr_test_17-q1",
