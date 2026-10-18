@@ -43721,33 +43721,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 1,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 1)",
+    "questionText": "Türkiye'de belirli bir günde etkili olan basınç merkezlerinin değerleri yukarıdaki haritada belirtilmiştir.<br><br>Basınç merkezlerinin konumu dikkate alındığında, etkili olan yerel rüzgâr aşağıdakilerden hangisidir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q1.png",
+    "image": "assets/questions/cogr_test_18_1_q1_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Karayel"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yıldız"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Poyraz"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sam yeli"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Lodos"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Basınç Gradyanı ve Rüzgar Yönü:\n• Rüzgar daima Yüksek Basınç (YB) merkezinden Alçak Basınç (AB) merkezine doğru eser. İki merkez arasındaki basınç farkı ne kadar fazlaysa rüzgarın şiddeti o kadar yüksek olur."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Poyraz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Rüzgâr daima <strong>Yüksek Basınç (YB)</strong> alanından <strong>Alçak Basınç (AB)</strong> alanına doğru eser.<br>• Harita incelendiğinde; Türkiye'nin kuzeydoğusunda (Kafkaslar ve Doğu Karadeniz yönünde) basınç değeri <strong>1038 mb</strong> ile en yüksektir.<br>• Ülkenin güneybatısında (Ege ve Akdeniz açıklarında) ise basınç değeri <strong>1028 mb</strong> ile en düşüktür.<br>• Bu durumda rüzgâr yüksek basıncın olduğu <strong>kuzeydoğudan</strong>, alçak basıncın olduğu <strong>güneybatıya</strong> doğru esecektir. Türkiye'ye kuzeydoğudan esen yerel rüzgâr <strong>POYRAZ</strong>'dır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Karayel:</strong> Kuzeybatıdan (Balkanlar'dan) eser.<br>• <strong>Yıldız:</strong> Doğrudan kuzeyden (Karadeniz üzerinden) eser.<br>• <strong>Sam yeli:</strong> Güneydoğudan (Suriye/Irak çöllerinden) eser.<br>• <strong>Lodos:</strong> Güneybatıdan (Akdeniz'den) eser.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>İzobar haritalarında rüzgârın yönü rakamın büyük olduğu yerden küçük olduğu yere doğrudur (1038 → 1028 mb). Kuzeydoğu yönünden estiğinde cevap Poyraz'dır.</em>"
   },
   {
     "id": "cogr_test_18_1-q2",
@@ -43758,33 +43758,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 2,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q2.png",
+    "questionText": "I. Kıble<br>II. Sam yeli<br>III. Karayel<br>IV. Poyraz<br><br>Yukarıda belirtilen rüzgârlardan hangileri etkili olduğu yerde <strong>sıcaklık değerlerini düşürür</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Sıcaklığı Artıran Rüzgarlar:\n• Türkiye'de güney sektörlü esen Kıble (Güney) ve Samyeli (Güneydoğu) rüzgarları Ekvator ve çöl kökenli oldukları için sıcaklığı belirgin şekilde yükseltir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (III ve IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye Kuzey Yarım Küre'de yer aldığı için kutup yönünden (kuzeyden) esen rüzgârlar sıcaklığı düşürürken, Ekvator yönünden (güneyden) esen rüzgârlar sıcaklığı artırır.<br>• <strong>III. Karayel (Kuzeybatı)</strong> ve <strong>IV. Poyraz (Kuzeydoğu):</strong> Kuzey sektörlü rüzgârlardır; hava sıcaklığını belirgin şekilde <strong>düşürürler</strong>.<br>• <strong>I. Kıble (Güney)</strong> ve <strong>II. Sam yeli (Güneydoğu):</strong> Güney sektörlü rüzgârlardır; hava sıcaklığını belirgin şekilde <strong>artırırlar</strong>.<br><br>💡 <strong>ÖSYM Altın Kodlaması (KAYIP SAKAL):</strong><br>• <em>Sıcaklığı Düşürenler (Kuzey):</em> <strong>Ka</strong>rayel (KB) - <strong>Yı</strong>ldız (K) - <strong>P</strong>oyraz (KD)<br>• <em>Sıcaklığı Artıranlar (Güney):</em> <strong>Sa</strong>myeli (GD) - <strong>K</strong>ıble (G) - <strong>L</strong>odos (GB)"
   },
   {
     "id": "cogr_test_18_1-q3",
@@ -43795,33 +43795,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 3,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 3)",
+    "questionText": "Föhn rüzgârları etkili olduğu alanlarda kurutucu ve ısıtıcı etki yapar ve bu durum mikroklima alanlarının oluşmasına zemin hazırlar.<br><br>Buna göre yukarıdaki Türkiye haritasında numaralandırılmış alanların hangisinde <strong>föhn rüzgârına bağlı mikroklima alan</strong> oluşmuştur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q3.png",
+    "image": "assets/questions/cogr_test_18_1_q3_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Fön (Föhn) Rüzgarı ve Mikroklima:\n• Dağı aşıp yamaçtan aşağı inen hava her 100 metrede 1°C ısınır. Kurutucu ve ısıtıcı bu etki sayesinde Rize'de turunçgil, Iğdır'da pamuk, Anamur'da muz gibi mikroklima ürünleri yetişir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numara - Anamur)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Dağları aşıp yamaçtan aşağı inen hava her 100 metrede 1°C ısınarak föhn rüzgârı oluşturur. Bu rüzgârlar kışın o yöreyi normalden ılık hale getirerek mikroklima sahaları meydana getirir.<br>• <strong>II Numara (Anamur / Mersin kıyısı):</strong> İç Anadolu'dan gelen hava kütleleri Toros Dağları'nı aşıp Akdeniz kıyısına doğru hızla alçalırken şiddetli föhn etkisi yapar. Bu sayede kış sıcaklıkları yüksek kalır ve Türkiye'de yalnızca burada <strong>MUZ</strong> tarımı (mikroklima) yapılabilir.<br><br>❌ <strong>Haritadaki Diğer Noktaların Analizi:</strong><br>• I Numara: İç Batı Anadolu (Uşak)<br>• III Numara: Niğde / Nevşehir Platosu<br>• IV Numara: Çankırı / Kastamonu<br>• V Numara: Erzurum Yöresi<br><br>💡 <strong>ÖSYM Mikroklima Tüyosu:</strong> <em>Türkiye'deki en meşhur föhn mikroklimaları: 1) Rize (Kaçkarlar'ı aşan föhn → Turunçgil & Kivi), 2) Anamur (Toroslar'ı aşan föhn → Muz), 3) Iğdır (Kafkaslar/Ağrı gölgesinde föhn → Pamuk).</em>"
   },
   {
     "id": "cogr_test_18_1-q4",
@@ -43832,33 +43832,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 4,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 4)",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralandırılarak gösterilen yerel rüzgârlar aşağıdakilerin hangisinde doğru olarak verilmiştir?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>I</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>II</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>III</u></strong>",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q4.png",
+    "image": "assets/questions/cogr_test_18_1_q4_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İmbat - Kıble - Sam yeli"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Etezyen - Lodos - Yıldız"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Karayel - Sam yeli - Poyraz"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Etezyen - İmbat - Sam yeli"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Lodos - Kıble - Sam yeli"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Türkiye Yerel Rüzgarları Şifresi (KAYIP SAKAL):\n• Kuzeyden esenler: K-arayel, Y-ıldız, P-oyraz\n• Güneyden esenler: S-amyeli, K-ıble, L-odos."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Lodos - Kıble - Sam yeli)<br><br>🎯 <strong>Rüzgâr Oklarının Yön Analizi:</strong><br>• <strong>I Numaralı Ok (Güneybatıdan Kuzeydoğuya esiyor):</strong> Akdeniz ve Ege üzerinden kuzeydoğuya doğru esen rüzgâr <strong>LODOS</strong>'tur.<br>• <strong>II Numaralı Ok (Doğrudan Güneyden Kuzeye esiyor):</strong> Akdeniz üzerinden Orta Anadolu'ya esen rüzgâr <strong>KIBLE</strong>'dir.<br>• <strong>III Numaralı Ok (Güneydoğudan Kuzeybatıya esiyor):</strong> Suriye ve Irak üzerinden Güneydoğu Anadolu'ya esen rüzgâr <strong>SAM YELİ (Keşişleme)</strong>'dir.<br><br>💡 <strong>ÖSYM Kodlaması (KAYIP SAKAL):</strong><br>Güney rüzgarları doğudan batıya: <strong>S</strong>am yeli (GD) → <strong>K</strong>ıble (G) → <strong>L</strong>odos (GB)."
   },
   {
     "id": "cogr_test_18_1-q5",
@@ -43869,33 +43869,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 5,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 5)",
+    "questionText": "Yukarıda Türkiye'de yer alan bir merkezde rüzgârın yıl içinde hangi yönlerden kaç kez estiğini gösteren rüzgâr frekans gülü verilmiştir.<br><br>Buna göre verilen rüzgâr frekans gülü Türkiye haritasında numaralandırılmış merkezlerin <strong>hangisine ait olabilir</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q5.png",
+    "image": "assets/questions/cogr_test_18_1_q5_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Hakim Rüzgar Yönü:\n• Bir merkezde rüzgarın yıl içinde en fazla estiği yön o merkezin hâkim rüzgar yönüdür ve boğaz, vadi ya da ova uzanışıyla birebir uyumludur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numara - Çanakkale Boğazı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Rüzgâr frekans gülünde kolların en uzun olduğu doğrultu <strong>Kuzeydoğu (KD) ve Güneybatı (GB)</strong> yönleridir. Esme sayısı bu eksende 200-250 kez iken diğer yönlerde oldukça azdır. Rüzgârlar yer şekillerinin açık olduğu koridorlardan (boğazlar ve vadiler) rahatça eser.<br>• <strong>I Numara (Çanakkale Boğazı):</strong> Çanakkale ve İstanbul Boğazları Kuzeydoğu - Güneybatı doğrultusunda uzanan dar su yollarıdır. Bu nedenle buralarda rüzgâr neredeyse sadece KD (Poyraz) ve GB (Lodos) ekseninde eser.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• II Numara: Antalya (Deniz-kara yönlü)<br>• III Numara: Ankara / İç Anadolu (Dairesel)<br>• IV Numara: Sivas<br>• V Numara: Çukurova / İskenderun<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Frekans gülünde KD - GB uzanımı görülüyorsa soru Çanakkale veya İstanbul Boğazı'nı sormaktadır. Doğu - Batı uzanıyorsa İzmir / Ege Grabenlerini sormaktadır.</em>"
   },
   {
     "id": "cogr_test_18_1-q6",
@@ -43906,33 +43906,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 6,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q6.png",
+    "questionText": "Türkiye'nin Kuzey Yarım Küre'de bulunması sebebiyle kuzey yönlü rüzgârlar sıcaklığı azaltırken güney yönlü rüzgârlar sıcaklığı artırır. Ayrıca denizler üzerinden Türkiye'ye doğru esen rüzgârlar mevsime göre sıcaklığı etkiler; denizin nemli hava kütlesini karaya taşıdığı için yağış oluşmasını sağlar.<br><br>Buna göre aşağıdaki rüzgârlardan hangisi Türkiye'de kış döneminde <strong>Antalya kıyı şeridine yamaç yağışı</strong> bırakabilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Lodos"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Karayel"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İmbat"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Etezyen"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Poyraz"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Matematik Konum ve Rüzgar Sıcaklığı:\n• Türkiye Kuzey Yarım Küre orta kuşakta yer aldığı için kutup kökenli kuzey rüzgarları soğutucu, ekvator kökenli güney rüzgarları ısıtıcı etki yapar."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Lodos)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bir rüzgârın kıyıya yamaç (orografik) yağışı bırakabilmesi için <strong>deniz üzerinden bol nem alarak gelmesi</strong> ve kıyıdaki yüksek dağ sıralarına dik şekilde çarpıp yükselmesi gerekir.<br>• <strong>Lodos:</strong> Güneybatıdan, Akdeniz üzerinden nem yüklenerek gelir ve Antalya kıyısında denize paralel uzanan <strong>Batı Toroslar (Beydağları)</strong>'na dik olarak çarpar. Dağ yamacı boyunca yükselen nemli hava soğuyarak Antalya kıyı şeridine kış aylarında şiddetli yamaç yağışları bırakır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Karayel ve Poyraz:</strong> Karadan (kuzeyden) estiği için Toroslar'ın güney yamacına yağış bırakamaz; fönleşerek iner.<br>• <strong>İmbat:</strong> Ege'de yazın öğleden sonra esen serinletici deniz meltemidir, yağış bırakmaz.<br>• <strong>Etezyen:</strong> Ege Denizi'nde yazın kuzeyden esen kuru rüzgârdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Akdeniz'de (Antalya ve Muğla kıyılarında) kış mevsiminde yağış getiren en etkili rüzgâr Akdeniz üzerinden nem toplayıp gelen LODOS'tur.</em>"
   },
   {
     "id": "cogr_test_18_1-q7",
@@ -43943,33 +43943,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 7,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q7.png",
+    "questionText": "• Ülkemizi kuzeybatı yönlü etkiler.<br>• Kış aylarında sıcaklıkların belirgin azalmasını sağlar.<br>• Karalar üzerinde etkili olursa etkilediği alanı kurutur ve soğutur.<br>• Karadeniz üzerinden etkilerse Batı ve Doğu Karadeniz'de yamaç yağışları oluşturur.<br><br>Yukarıda bazı özellikleri verilen yerel rüzgâr aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Poyraz"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Karayel"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Lodos"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kıble"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Etezyen"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Karayel Rüzgarı:\n• Kuzeybatı yönünden esen, özellikle Balkanlar üzerinden gelerek Trakya, Marmara ve Batı Karadeniz'de sıcaklığı aniden düşüren ve kışın kar getiren rüzgardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Karayel)<br><br>🎯 <strong>Rüzgâr Özelliklerinin Analizi:</strong><br>• <strong>Esiş Yönü:</strong> Türkiye'ye <strong>kuzeybatıdan (KB)</strong>, yani Balkanlar ve Rusya stepleri üzerinden giriş yapar.<br>• <strong>Sıcaklık Etkisi:</strong> Kutup kökenli olduğu için kış aylarında Trakya ve Marmara'da sıcaklıkları hızla sıfırın altına düşürür ve yoğun kar yağışlarına zemin hazırlar.<br>• <strong>Nem & Yağış Durumu:</strong> Karadeniz üzerinden geçerken denizden nem toplarsa Batı Karadeniz (Küre Dağları) kıyılarına çarparak orografik yağış bırakır.<br>Bu özelliklerin tamamı <strong>KARAYEL</strong> rüzgârına aittir.<br><br>💡 <strong>ÖSYM Kodlaması (KAYIP SAKAL):</strong><br>Kuzey rüzgarlarının yönleri: <strong>Karayel (Kuzeybatı)</strong>, Yıldız (Kuzey), Poyraz (Kuzeydoğu)."
   },
   {
     "id": "cogr_test_18_1-q8",
@@ -43980,33 +43980,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 8,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q8.png",
+    "questionText": "Bir bölgede rüzgârın esiş yönünü etkileyen en önemli unsurlardan biri yeryüzü şekillerinin uzanış doğrultusudur.<br><br>Buna göre aşağıdaki kentlerin hangisinde rüzgârların esiş yönünde <strong>yeryüzü şekillerinin yönlendirici etkisi en azdır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Muğla"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Antalya"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Van"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çanakkale"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Niğde"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Rüzgar ve Yer Şekilleri İlişkisi:\n• Dağların uzanış doğrultusu rüzgarın esiş yönünü belirler. Ege'de doğu-batı yönlü graben vadileri rüzgarın iç kesimlere kolayca sokulmasını sağlar."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Niğde)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Rüzgâr esiş yönünde yer şekillerinin yönlendirici kanal etkisi yapabilmesi için arazinin derin boğazlara, graben vadilerine veya yüksek dağ sıralarına sahip olması gerekir.<br>• <strong>Çanakkale:</strong> Boğaz koridoru nedeniyle rüzgârı kesin olarak KD-GB yönüne kanalize eder.<br>• <strong>Muğla ve Antalya:</strong> Kıyıya paralel yüksek Toros Dağları ve dik kıyı topoğrafyası rüzgâr yönünü belirler.<br>• <strong>Van:</strong> Yüksek volkanik dağlar ve çanak havza yer şekli rüzgârı sınırlandırır.<br>• <strong>Niğde:</strong> Geniş, açık, sade ve düz plato-ova yüzeyine sahiptir. Belirgin bir vadi veya kanalize edici dar koridor bulunmadığından rüzgâr her yönden rahatça eser; yani yer şekillerinin etkisi <strong>en azdır</strong>.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Rüzgâr yönünde yer şekillerinin etkisinin en az olduğu yerler düz platolar ve ovalardır (Konya, Niğde, Şanlıurfa). Frekans gülleri dairesel çıkar.</em>"
   },
   {
     "id": "cogr_test_18_1-q9",
@@ -44017,33 +44017,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 9,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 9)",
+    "questionText": "Maksimum nem, havanın belirli bir sıcaklıkta taşıyabileceği en yüksek nem miktarıdır ve sıcaklıkla doğru orantılıdır (sıcaklık arttıkça maksimum nem artar).<br><br>Buna göre, haritada belirtilen merkezlerin hangisinde <strong>yaz aylarında maksimum nem miktarı daha fazladır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q9.png",
+    "image": "assets/questions/cogr_test_18_1_q9_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Maksimum Nem ve Sıcaklık:\n• Maksimum nem, 1 m³ havanın taşıyabileceği en yüksek nem miktarıdır ve sıcaklıkla doğru orantılıdır. Bu nedenle yaz aylarında maksimum nem kapasitesi en yüksek bölge Güneydoğu Anadolu'dur."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V numara - Şanlıurfa)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Maksimum nem = <strong>Havanın Taşıma Kapasitesi</strong> (Havanın büyüklüğü/hacmi). Sıcak hava genleşir ve daha fazla su buharı alabilir. Bu nedenle sıcaklığın en yüksek olduğu yerde maksimum nem en fazladır.<br>• Yaz mevsiminde Türkiye'de sıcaklıkların en yüksek olduğu bölge Basra Alçak Basıncı ve Samyeli etkisiyle <strong>Güneydoğu Anadolu Bölgesi (V numara - Şanlıurfa çevresi)</strong>'dir (sıcaklıklar 40-45°C'ye ulaşır). Bu sebeple yazın havanın nem taşıma kapasitesi (maksimum nem) burada en fazladır.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• I Numara (Sinop): Yazları serindir, maksimum nem azdır.<br>• II Numara (Bursa) ve III Numara (İzmir): Kıyı merkezleridir fakat Güneydoğu kadar sıcak olamazlar.<br>• IV Numara (Mersin): Sıcaktır fakat Güneydoğu'nun karasal aşırı sıcaklığı daha üstündür.<br><br>💡 <strong>ÖSYM Altın Kuralı:</strong> <em>\"Maksimum Nem\" sorularını gördüğünüzde aklınıza tek bir kelime gelmelidir: SICAKLIK. Türkiye'de yazın en yüksek yer Güneydoğu Anadolu (Şanlıurfa), kışın ise Akdeniz kıyılarıdır (Antalya/Mersin).</em>"
   },
   {
     "id": "cogr_test_18_1-q10",
@@ -44054,33 +44054,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 10,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 10)",
+    "questionText": "Bağıl nem, havadaki mevcut su buharının havanın taşıyabileceği maksimum neme oranıdır (yağış ihtimalini gösterir) ve sıcaklıkla ters orantılıdır.<br><br>Buna göre, haritadaki merkezlerin hangisinde, <strong>yaz mevsiminde, bağıl nem en fazladır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q10.png",
+    "image": "assets/questions/cogr_test_18_1_q10_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Bağıl Nem (Nispi Nem):\n• Mutlak nemin maksimum neme oranıdır (yağış ihtimalidir). Sıcaklık düştükçe bağıl nem artar. Türkiye'de yıl boyunca bağıl nemin en yüksek olduğu bölge Doğu Karadeniz kıyılarıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V numara - Erzurum-Kars / Kuzeydoğu Anadolu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bağıl nem = <strong>Yağış İhtimali</strong> (Mutlak Nem / Maksimum Nem × 100). Havanın soğuk olması maksimum nemi küçülterek bağıl nemi yükseltir.<br>• Haritadaki noktalar incelendiğinde; I (İç Batı Anadolu), II (Konya), III (Şanlıurfa) ve IV (Sivas) yaz aylarında sıcak ve kuraktır, bağıl nemleri düşüktür (Özellikle Şanlıurfa'da bağıl nem dip yapar).<br>• <strong>V Numara (Erzurum-Kars Platosu):</strong> Türkiye'de <strong>en fazla yağışını YAZ MEVSİMİNDE alan</strong> tek karasal bölgedir. Yaz aylarında havanın serin kalması ve konveksiyonel yağışların başlamasıyla havada bağıl nem oranı haritadaki diğer karasal merkezlere göre <strong>en yüksektir</strong>.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Yaz mevsiminde bağıl nemin en yüksek olduğu sahalar: Doğu Karadeniz kıyıları ve yaz yağışları alan Erzurum-Kars Platosu'dur. Bağıl nemin en düşük olduğu yer ise aşırı buharlaşma ve sıcaklıktan dolayı Güneydoğu Anadolu'dur.</em>"
   },
   {
     "id": "cogr_test_18_1-q11",
@@ -44091,33 +44091,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 11,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q11.png",
+    "questionText": "Rize ve Samsun kentlerinde aynı makroiklim özellikleri (Karadeniz iklimi) görülmesine rağmen, Rize'de yıl içerisindeki yağış miktarının (~2400 mm) Samsun'dan (~750 mm) çok daha fazla olmasının <strong>temel nedeni</strong> aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Dağların doğu-batı yönlü uzanması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yağış rejimlerinin farklı olması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Rize'de kıyının hemen gerisinde yüksek dağların uzanması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Ormanların Rize'de daha geniş yer kaplaması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Rize'deki maksimum nem miktarının daha fazla olması"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Rize ve Samsun Yağış Farkı:\n• Rize'de dağlar (Kaçkarlar) kıyının hemen gerisinden çok yüksek (3900 m) başlar; Samsun'da ise Canik Dağları daha alçaktır ve geridedir. Bu nedenle Rize'de yamaç yağışı ve toplam yağış miktarı Samsun'dan çok daha fazladır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Rize'de kıyının hemen gerisinde yüksek dağların uzanması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Karadeniz kıyılarında yağışın dağılışını dağların yükseltisi ve kıyıya uzaklığı belirler:<br>• <strong>Rize (Doğu Karadeniz):</strong> Kaçkar Dağları kıyının hemen gerisinden dik bir duvar gibi yükselir (3900 metreye kadar çıkar). Denizden gelen nemli rüzgârlar bu dik duvara çarparak hemen yükselir ve soğuyarak yıllık 2400 mm yağış bırakır.<br>• <strong>Samsun (Orta Karadeniz):</strong> Canik Dağları hem alçaktır (~1000-1500 m) hem de kıyıdan oldukça geride uzanır. Bu yüzden denizel hava iç kısımlara kadar sokulur ve kıyıda yeterince yükselemediği için yağış miktarı ~750 mm'de kalır.<br><br>💡 <strong>ÖSYM'nin En Klasik Sorusu:</strong> <em>Samsun'un Doğu ve Batı Karadeniz'den daha az yağış almasının sebebi: Canik Dağları'nın alçak olması ve kıyıdan geride uzanmasıdır.</em>"
   },
   {
     "id": "cogr_test_18_1-q12",
@@ -44128,33 +44128,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 12,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q12.png",
+    "questionText": "Yamaç (orografik) yağışları kıyının hemen gerisinde uzanan dağların yamaçları boyunca yükselen hava kütlelerinin soğumasıyla meydana gelir.<br><br>Buna göre, Ege Bölgesi'nde Muğla'da yamaç yağışları etkili olurken, İzmir'de etkili olmaması bu iki kentin <strong>hangi özelliklerinin farklı olmasının sonucudur</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kırık dağların varlığının"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Akdeniz iklim özelliklerinin görülmesinin"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Dağların kıyıya uzanış doğrultusunun"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Zeytin ve turunçgil gibi tarım ürünlerinin yetiştirilmesinin"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Buharlaşma miktarlarının farklı olmasının"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Orografik (Yamaç) Yağışları:\n• Denizden gelen nemli hava kütlelerinin kıyıya paralel uzanan dağ yamaçlarına çarparak yükselmesiyle oluşur. Türkiye'de en çok Karadeniz (özellikle Doğu ve Batı Karadeniz) ve Akdeniz (Teke, Taşeli, Toroslar, Menteşe) kıyılarında görülür."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Dağların kıyıya uzanış doğrultusunun)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Muğla (Menteşe Yöresi):</strong> Dağlar kıyı çizgisine <strong>PARALEL</strong> uzanır. Akdeniz'den gelen nemli hava kütleleri (Lodos) dağlara dik çarparak hızla yükselir ve bol yamaç yağışı bırakır (yıllık yağış 1000-1200 mm'yi aşar; Türkiye'nin en çok yağış alan alanlarındandır).<br>• <strong>İzmir:</strong> Dağlar kıyıya <strong>DİK</strong> uzanır. Denizden gelen nemli hava kütleleri dağ engeline takılmadan graben vadilerinden (Bakırçay, Gediz, Küçük Menderes) iç kesimlere doğru rahatça sokulur; dağ yamacı boyunca yükselemediği için yamaç yağışı oluşmaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Ege Bölgesi'nde dağların kıyıya dik uzanma kuralının tek istisnası Menteşe Yöresi (Muğla)'dir. Burada dağlar kıyıya paralel uzandığı için Ege'nin en çok yağış alan yeridir.</em>"
   },
   {
     "id": "cogr_test_18_1-q13",
@@ -44165,33 +44165,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 13,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q13.png",
+    "questionText": "Hakkâri ve Konya kentleri karasal iklim özelliklerine sahip olmalarına rağmen, bu iki kentin yıllık yağış miktarlarının birbirinden belirgin şekilde farklı olması (Hakkâri: ~1000 mm, Konya: ~320 mm);<br><br>I. enlem,<br>II. yükselti ve yer şekilleri,<br>III. denize uzaklık (karasallık),<br>IV. bakı durumu<br><br>faktörlerinden hangisi ile doğrudan açıklanır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "II ve IV"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Hakkari ve Konya Yağış Farkı:\n• Her ikisi de karasal iklimde olmasına rağmen Hakkari çok engebeli ve yüksek olduğu için orografik yağışlarla Konya'dan (~300 mm) çok daha fazla yağış (~1000 mm) alır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II - Yükselti ve yer şekilleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Her iki merkez de denizden uzaktır ve karasaldır (III elenir).<br>• Enlemleri birbirine yakındır; enlem yağış miktarındaki 3 katlık farkı açıklamaz (I elenir).<br>• <strong>Temel Fark Yükselti ve Engebedir:</strong> Konya, etrafı yüksek dağlarla çevrili alçak bir çanak (kapalı havza) tabanında yer aldığı için rüzgârlar nemini dağlara bırakır ve çanağa fönleşerek iner (~320 mm ile en kurak yerlerdendir). Hakkâri ise ortalama 2000-3000 metre yükseltiye sahip, son derece dağlık ve sarp bir topoğrafyaya (Cilo Dağları) sahiptir; yükselen hava kütleleri soğuyarak ~1000 mm bol yağış bırakır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Doğu Anadolu Bölgesi'nde Iğdır ve Malatya havzaları çukurda kaldığı için az yağış alırken; Hakkâri ve Bingöl çok yüksek ve engebeli olduğu için Türkiye ortalamasının üzerinde yağış alır.</em>"
   },
   {
     "id": "cogr_test_18_1-q14",
@@ -44202,33 +44202,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 14,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 14)",
+    "questionText": "Şekil - I'de ısınan havanın dikey yükselerek soğumasıyla oluşan konveksiyonel (yükselim) yağış çeşidi gösterilmiştir.<br><br>Buna göre Şekil - I'de gösterilen yağış çeşidi, Şekil - II'deki haritada işaretli noktaların hangisinde <strong>yaz aylarında</strong> belirgin olarak görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q14.png",
+    "image": "assets/questions/cogr_test_18_1_q14_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Konveksiyonel (Yükselim / Kırkikindi) Yağışları:\n• Isınan havanın dikey olarak yükselip soğumasıyla oluşan yağışlardır. İlkbaharda İç Anadolu'da (Kırkikindi), yaz başlarında ise Doğu Anadolu (Erzurum-Kars) platolarında yaygındır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V numara - Erzurum-Kars)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Konveksiyonel (yükselim / kırkikindi) yağışları ısınan havanın genleşip yükselmesiyle oluşur.<br>• <strong>İç Anadolu'da (II numara - Konya çevresi):</strong> Karalar ilkbaharda erken ısındığı için konveksiyonel yağışlar <strong>İLKBAHARDA</strong> görülür.<br>• <strong>Kuzeydoğu Anadolu'da (V numara - Erzurum-Kars Platosu):</strong> Yükselti çok fazla olduğu için karlar geç erir ve toprak ancak <strong>YAZ MEVSİMİNDE</strong> ısınır. Karaların yazın ısınmasıyla dikey yükselen hava soğur ve yaz sağanaklarını (konveksiyonel yağışları) oluşturur.<br><br>💡 <strong>ÖSYM Türkiye Yağış Takvimi (e harfi kuralı):</strong><br>Türkiye haritasına küçük bir <strong>'e'</strong> harfi çizildiğinde mevsimler sırayla çıkar:<br>1. İç Anadolu → İLKBAHAR (Konveksiyonel)<br>2. Erzurum-Kars → YAZ (Konveksiyonel)<br>3. Karadeniz → SONBAHAR (Orografik)<br>4. Akdeniz-Ege-Marmara → KIŞ (Cephesel)"
   },
   {
     "id": "cogr_test_18_1-q15",
@@ -44239,33 +44239,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 15,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 15)",
+    "questionText": "Haritada yıllık yağış miktarları Türkiye geneline göre fazla olan kıyı merkezleri taranarak gösterilmiştir.<br><br>Bu merkezlerden hangisinin <strong>yıllık yağış miktarı diğerlerine göre daha azdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q15.png",
+    "image": "assets/questions/cogr_test_18_1_q15_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Türkiye'de En Çok Yağış Alan Merkezler:\n• Rize (Doğu Karadeniz), Zonguldak (Batı Karadeniz), Muğla/Menteşe Yöresi ve Antalya kıyıları Türkiye'nin en fazla yağış alan alanlarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara - Orta Karadeniz / Samsun)<br><br>🎯 <strong>Haritadaki Yağış Alanlarının Karşılaştırmalı Analizi:</strong><br>• <strong>I Numara (Menteşe Yöresi / Muğla):</strong> Dağlar kıyıya paralel, yıllık yağış ~1000-1200 mm.<br>• <strong>II Numara (Antalya Kıyı Kuşağı):</strong> Toroslar kıyıda yükselir, yıllık yağış ~1000 mm.<br>• <strong>III Numara (Batı Karadeniz / Zonguldak):</strong> Küre Dağları kıyıda, yıllık yağış ~1200 mm.<br>• <strong>V Numara (Doğu Karadeniz / Rize):</strong> Kaçkarlar kıyıda dik yükselir, yıllık yağış ~2400 mm ile Türkiye rekorudur.<br>• <strong>IV Numara (Orta Karadeniz / Samsun):</strong> Canik Dağları hem alçaktır (~1000 m) hem de kıyıdan oldukça geridedir. Bu yüzden denizel hava yükselemez ve yıllık yağış miktarı <strong>~700-750 mm</strong> ile haritadaki diğer kıyılara göre <strong>belirgin şekilde daha azdır</strong>.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Karadeniz ve Akdeniz'in genelinde yağışlar 1000 mm'nin çok üzerindeyken, Orta Karadeniz (Samsun) 700 mm civarı yağışıyla ÖSYM'nin en klasik \"en az yağış alan kıyı tuzağı\"dır.</em>"
   },
   {
     "id": "cogr_test_18_1-q16",
@@ -44276,33 +44276,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 16,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 16)",
+    "questionText": "Haritada işaretli merkezlerin hangisinde <strong>yıllık yağış miktarı diğerlerinden daha fazladır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q16.png",
+    "image": "assets/questions/cogr_test_18_1_q16_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Türkiye'de En Az Yağış Alan Merkezler:\n• Çevresi yüksek dağlarla çevrili çukur havzalar (Tuz Gölü çevresi, Konya Kapalı Havzası, Iğdır Ovası, Güneydoğu'nun güneyi) Türkiye'nin en az yağış alan yerleridir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara - Hakkâri Yöresi)<br><br>🎯 <strong>Haritadaki Merkezlerin Yağış Karşılaştırması:</strong><br>• <strong>I Numara (Ergene Havzası - Edirne):</strong> Çevresi dağlarla çevrili çanakta kaldığı için kuraktır (~500 mm).<br>• <strong>II Numara (Tuz Gölü çevresi / Konya):</strong> Türkiye'nin yıllık yağışı en az olan yeridir (~300-320 mm).<br>• <strong>III Numara (Güneydoğu Anadolu - Şanlıurfa):</strong> Kurak plato sahasıdır (~400 mm).<br>• <strong>V Numara (Iğdır Ovası):</strong> Ağrı ve Kafkas dağlarının çanağında kaldığı için Doğu Anadolu'nun en az yağış alan mikroklima çukurudur (~250-300 mm).<br>• <strong>IV Numara (Hakkâri - Cilo Dağları Yöresi):</strong> Ortalama 2500-3500 metrelik sarp sıradağlar nedeniyle orografik ve cephesel yağışları bolca toplar; yıllık yağış miktarı <strong>1000-1200 mm</strong>'yi bularak haritadaki tüm merkezlerden belirgin şekilde daha fazladır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Haritada kurak alanlar (Tuz Gölü, Iğdır, Ergene, Şanlıurfa) arasına Hakkâri gizlenmişse, yüksek engebe nedeniyle yağış miktarı en fazla olan yer Hakkâri'dir.</em>"
   },
   {
     "id": "cogr_test_18_1-q17",
@@ -44313,33 +44313,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 17,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 17)",
+    "questionText": "Şekil - I'de dağ yamacında yükselen orografik yağış, Şekil - II'de dikey yükselen konveksiyonel yağış, Şekil - III'te farklı karakterdeki hava kütlelerinin karşılaşmasıyla oluşan cephesel (frontal) yağış gösterilmiştir.<br><br>Türkiye'de etkili olan bu yağış çeşitleri ve <strong>en fazla etkili olduğu bölge</strong> eşleştirmelerinden hangisi doğrudur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q17.png",
+    "image": "assets/questions/cogr_test_18_1_q17_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Şekil I: Karadeniz | Şekil II: İç Anadolu | Şekil III: Akdeniz"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Şekil I: Akdeniz | Şekil II: İç Anadolu | Şekil III: Karadeniz"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Şekil I: Ege | Şekil II: Akdeniz | Şekil III: D. Anadolu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Şekil I: Marmara | Şekil II: Ege | Şekil III: Akdeniz"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Şekil I: Karadeniz | Şekil II: Ege | Şekil III: Marmara"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Cephesel (Frontal) Yağışlar:\n• Sıcak ve soğuk hava kütlelerinin karşılaşma alanlarında meydana gelir. Türkiye'nin orta kuşakta bulunmasının doğrudan kanıtıdır; en çok kış mevsiminde Akdeniz İklim kuşağında görülür."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Şekil I: Karadeniz | Şekil II: İç Anadolu | Şekil III: Akdeniz)<br><br>🎯 <strong>Yağış Tipleri ve Türkiye'deki Coğrafi Dağılımı:</strong><br>• <strong>Şekil - I (Orografik / Yamaç Yağışı):</strong> Denizden gelen nemli havanın kıyıya paralel uzanan dağ yamaçları boyunca yükselip soğumasıyla oluşur. Türkiye'de en yaygın görüldüğü yer <strong>Karadeniz Bölgesi</strong> (ve Akdeniz Menteşe/Toroslar)'dir.<br>• <strong>Şekil - II (Konveksiyonel / Yükselim Yağışı):</strong> Karaların ısınmasıyla havanın dikey yükselmesi sonucu oluşur (Kırkikindi). Türkiye'de en yaygın görüldüğü yer <strong>İç Anadolu Bölgesi</strong>'dir.<br>• <strong>Şekil - III (Cephesel / Frontal Yağış):</strong> Sıcak ve soğuk hava kütlelerinin karşılaşma alanlarında oluşur. Türkiye'nin orta kuşakta bulunmasının doğrudan bir sonucudur ve kış aylarında en fazla <strong>Akdeniz Bölgesi</strong>'nde etkilidir.<br><br>💡 <strong>ÖSYM Altın Eşleştirmesi:</strong><br>• Yamaç (Orografik) → Karadeniz<br>• Yükselim (Konveksiyonel) → İç Anadolu<br>• Cephesel (Frontal) → Akdeniz"
   },
   {
     "id": "cogr_test_18_1-q18",
@@ -44350,33 +44350,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌧️",
     "questionNumber": 18,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18: İklim - 2 (Soru 18)",
+    "questionText": "Türkiye'nin genelinde nemlilik durumu; dağların kıyıya uzanış doğrultusu, yükselti, denize olan uzaklık ve çevresindeki basınç merkezlerinin etkisi gibi faktörler nedeniyle belirgin değişimler gösterir.<br><br>Buna göre yukarıdaki Türkiye haritasında numaralandırılmış merkezlerin hangisinde <strong>dağların kıyıya paralel uzanışı ve yükselti faktörüne bağlı nem oranı daha fazladır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_1_q18.png",
+    "image": "assets/questions/cogr_test_18_1_q18_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Nemlilik ve İklim Kuşakları Dağılışı:\n• Dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz'de nem iç kesimlere sokulamaz, kıyıda hapsolur; Ege'de ise dik uzandığı için nemli hava graben vadileri boyunca 150-200 km içeriye kadar sokulur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numara - Batı Karadeniz / Sinop)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Soruda özellikle iki koşul aranmaktadır: <em>dağların kıyıya uzanışı</em> ve <em>yükselti</em> faktörüyle nemin kıyıda hapsolması.<br>• <strong>I Numara (Sinop / Batı Karadeniz):</strong> Küre Dağları kıyının hemen gerisinde kıyıya paralel ve yüksek olarak uzanır. Deniz üzerinden gelen nemli hava dağ engeline çarparak kıyı kuşağında toplanır ve yüksek bağıl nem oranı oluşturur.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• II Numara: Trakya / Ergene (Dağlık yükselti yoktur, nem düşüktür).<br>• III Numara: Ege kıyı kuşağı (Dağlar denize dik uzandığı için nem iç kesimlere dağılır, kıyıda sıkışmaz).<br>• IV Numara: Mersin / Akdeniz (Sıcaklık yüksek olduğundan nemlilik tipi farklıdır).<br>• V Numara: Şanlıurfa (Karasal ve kuraktır).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında denizel nem içeriye sokulamaz ve kıyı kuşağında yüksek nemlilik olarak toplanır.</em>"
   },
   {
     "id": "cogr_test_18_2-q1",
