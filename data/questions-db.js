@@ -41304,7 +41304,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Kıyı Set Gölleri (Lagünler):</strong>\n• <strong>IV Numara (Çukurova Kıyı Kuşağı):</strong> Seyhan ve Ceyhan nehirlerinin deltalarında oluşan <strong>Akyatan ve Ağyatan lagünleri</strong> Türkiye'nin en büyük kıyı set göllerindendir. (Ayrıca Marmara'daki Büyükçekmece, Küçükçekmece ve Durusu/Terkos da kıyı settir).\n• Dağların kıyıya dik ve çok yüksek indiği dik falezli kıyılarda kıyı kordonu oluşamaz."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong>\n\n📌 <strong>Kıyı Set Gölleri (Lagün / Deniz Kulağı) Oluşum Şartları:</strong>\n• Bir koy veya körfezin önünün dalga ve akıntıların getirdiği materyallerle kapatılarak lagün oluşabilmesi için; kıyının <strong>sığ olması, kıta sahanlığının (şelf alanının) geniş olması ve çok sayıda koy/körfez bulunması</strong> gerekir.\n• <strong>IV Numaralı Profil (Ege Kıyıları):</strong> Dağların kıyıya dik uzandığı (enine kıyı) bu alanda kıta sahanlığı geniştir, sığlıklar ve girinti-çıkıntı (koy/körfez) fazladır. Dalga biriktirmesi ve lagün/dalyan oluşumu için Türkiye'nin en uygun kıyı kuşağıdır (İzmir Homa Dalyanı, Çakalburnu vb.).\n\n❌ <strong>Diğer Alanlar:</strong>\n• <strong>I, II ve V Numaralı Kıyılar:</strong> Karadeniz ve Akdeniz'de dağlar kıyıya paralel ve dik uzandığı için kıyı derinliği fazladır (falezli kıyılar), kıta sahanlığı çok dardır ve dalga biriktirmesi zorlaşır.\n• <strong>III Numaralı Alan (Güney Marmara):</strong> Bu kıyı hattı lagünden ziyade dalga birikim şekli olan <strong>tombolo (Kapıdağ Yarımadası / Belkıs)</strong> ile karakterizedir."
   },
   {
     "id": "cogr_test_11-q8",
