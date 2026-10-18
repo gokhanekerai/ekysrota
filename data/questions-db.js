@@ -42452,7 +42452,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Irmak adası (kum adacığı), menderes ve taban seviyesi ovaları; akarsuyun yatak eğiminin ve akış hızının çok azaldığı, derine aşındırmanın durup yana aşındırma ve biriktirmenin öne çıktığı alçak düzlüklerde görülür. Haritada <strong>IV numara ile gösterilen Kıyı Ege (Büyük ve Küçük Menderes, Gediz, Bakırçay grabenleri)</strong> yatak eğiminin en az olduğu, mendereslerin, ırmak adalarının ve kıyı birikim ovalarının en yaygın görüldüğü sahadır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I (Doğu Karadeniz), II (Hakkari Cilo yöresi) ve V (Erzurum-Kars): Yüksek, engebeli ve eğimli alanlardır; akarsular menderes çizemez, çentik vadilerde hızla akar.<br>• III (Tuz Gölü): Kapalı havza ve geçici akarsu alanıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Menderes, ırmak adası, taban seviyesi ovası' dendiğinde Türkiye'de ilk bakılacak adres EGE BÖLGESİ grabenleridir.</em>"
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Irmak adası (kum adacığı), menderes ve taban seviyesi ovaları; akarsuyun yatak eğiminin ve akış hızının çok azaldığı, derine aşındırmanın durup yana aşındırma ve biriktirmenin öne çıktığı alçak düzlüklerde görülür. Haritada <strong>IV numara ile gösterilen Kıyı Ege (Aydın / Büyük Menderes grabeni)</strong> yatak eğiminin en az olduğu, mendereslerin, ırmak adalarının ve taban seviyesi alüvyal ovalarının en yaygın görüldüğü sahadır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I (Erzurum-Kars / Kuzeydoğu Anadolu):</strong> Yüksek ve engebeli dağlık platodur; akarsular çentik vadilerde hızla akar, menderes çizemez.<br>• <strong>II (Malatya / Fırat yukarı havzası):</strong> Yüksek plato ve dağlık havzadır.<br>• <strong>III (Antalya / Finike-Kumluca yöresi):</strong> Eğimli dağ etekleridir.<br>• <strong>V (Batı Karadeniz / Kastamonu dağlık sahası):</strong> Dik ve engebeli arazidir; akarsular derine aşındırma yapar.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Menderes, ırmak adası, taban seviyesi ovası' dendiğinde Türkiye'de ilk bakılacak adres EGE BÖLGESİ grabenleridir.</em>"
   },
   {
     "id": "cogr_test_16-q3",
@@ -42489,7 +42489,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Dalmaçya Kıyı Tipi</strong>; kıyı çizgisine paralel uzanmış kıvrımlı dağ sıralarının arasındaki vadilerin deniz suları altında kalmasıyla, dağların su üstünde kalan tepelerinin kıyıya paralel yüzlerce adacığa ve yarımadaya dönüşmesiyle oluşur. Türkiye'deki en tipik ve tek örneği <strong>II numara ile gösterilen Antalya - Kaş ile Finike arasındaki kıyı şerididir</strong>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I (İstanbul Boğazı): Ria kıyı tipidir.<br>• III (Ege): Enine kıyı tipidir.<br>• IV ve V (Orta ve Doğu Karadeniz): Boyuna kıyı tipidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de DALMAÇYA KIYI TİPİ dendiğinde istisnasız tek bir yer vardır: ANTALYA (KAŞ - FİNİKE KIYILARI).</em>"
+    "explanation": "Doğru Cevap: <strong>B</strong> (II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Dalmaçya Kıyı Tipi</strong>; kıyı çizgisine paralel uzanmış kıvrımlı dağ sıralarının arasındaki vadilerin deniz suları altında kalmasıyla, dağların su üstünde kalan tepelerinin kıyıya paralel yüzlerce adacığa ve yarımadaya dönüşmesiyle oluşur. Türkiye'deki en tipik ve tek örneği <strong>II numara ile gösterilen Antalya (Kaş ile Finike arasındaki kıyı şeridi)</strong>'dir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I (Mersin / Silifke kıyıları):</strong> Kanyon vadilerin sular altında kalmasıyla oluşan Kalanklı kıyı tipidir.<br>• <strong>III (Kıyı Ege / İzmir):</strong> Dağların denize dik uzandığı Enine kıyı tipidir.<br>• <strong>IV ve V (Batı ve Doğu Karadeniz):</strong> Dağların kıyıya paralel uzandığı Boyuna kıyı tipidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de DALMAÇYA KIYI TİPİ dendiğinde istisnasız tek bir yer vardır: ANTALYA (KAŞ - FİNİKE KIYILARI).</em>"
   },
   {
     "id": "cogr_test_16-q4",
@@ -42526,7 +42526,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Kırgıbayır (Badlands / Kötü Arazi)</strong>; kurak ve yarı kurak iklim bölgelerinde, bitki örtüsünden yoksun, killi-tüflü eğimli yamaçların sağanak yağışlar sonrası oluşan selinti suları tarafından derin oyuntularla ve yarıklarla parçalanması sonucu ortaya çıkan yürünmesi zor, tarıma elverişsiz arazilerdir. Haritada <strong>II numara (İç Anadolu - Ankara/Nallıhan yöresi)</strong> ve <strong>III numara (İç Anadolu - Nevşehir/Kapadokya volkanik tüf arazisi)</strong> kırgıbayırların Türkiye'de en yaygın olduğu sahalardır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I (Doğu Karadeniz) ve IV (Muğla/Menteşe): Gür bitki ve orman örtüsüyle kaplıdır; selinti erozyonuyla kırgıbayır oluşamaz.<br>• V (Erzurum): Gür dağ çayırları hâkimdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Kırgıbayır = Cılız bitki örtüsü + Killi/tüflü yamaç + Selinti suları aşındırması = İÇ ANADOLU (Nallıhan ve Kapadokya).</em>"
+    "explanation": "Doğru Cevap: <strong>C</strong> (II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Kırgıbayır (Badlands / Kötü Arazi)</strong>; kurak ve yarı kurak iklim bölgelerinde, bitki örtüsünden yoksun, killi-tüflü eğimli yamaçların sağanak yağışlar sonrası oluşan selinti suları tarafından derin oyuntularla ve yarıklarla parçalanması sonucu ortaya çıkan yürünmesi zor, tarıma elverişsiz arazilerdir. Haritada <strong>II numara (İç Anadolu - Ankara/Nallıhan yöresi)</strong> ve <strong>III numara (İç Anadolu - Nevşehir/Kapadokya volkanik tüf arazisi)</strong> kırgıbayırların Türkiye'de en yaygın olduğu sahalardır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I (Ergene Havzası / Edirne):</strong> Alçak, düz ve tarımsal tortul ovadır; eğimli tüflü yamaç ve kırgıbayır topoğrafyası yoktur.<br>• <strong>IV (Kelkit-Çoruh / Kuzeydoğu Anadolu iç kuşağı):</strong> Kırgıbayır merkezi değildir.<br>• <strong>V (Güneydoğu Anadolu sınır kuşağı):</strong> Platoluk düz sahadır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Kırgıbayır = Cılız bitki örtüsü + Killi/tüflü yamaç + Selinti suları aşındırması = İÇ ANADOLU (Nallıhan ve Kapadokya).</em>"
   },
   {
     "id": "cogr_test_16-q5",
@@ -42563,7 +42563,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'nin en büyük güncel vadi buzulu olan <strong>Reşat İzbırak Buzulu (yaklaşık 4 km uzunluğunda)</strong>, <strong>I numara ile gösterilen Hakkari - Cilo (Buzul) Dağları</strong> üzerinde (Uludoruk zirvesi eteklerinde) yer alır. Türkiye orta kuşakta yer aldığı için buzul şekilleri sadece 2500 - 3000 m üzerindeki yüksek dağ zirvelerinde görülür.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• II (Konya), III (Çukurova), IV (Kıyı Ege), V (Ergene): Ortalama yükseltileri az olan alçak düzlüklerdir; buralarda asla buzul veya buzul vadisi bulunmaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'nin en büyük vadi buzulu = REŞAT İZBIRAK BUZULU = CİLO DAĞI (HAKKARİ). En büyük takke buzulu ise AĞRI DAĞI zirvesindedir.</em>"
+    "explanation": "Doğru Cevap: <strong>A</strong> (I)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'nin en büyük güncel vadi buzulu olan <strong>Reşat İzbırak Buzulu (yaklaşık 4 km uzunluğunda)</strong>, <strong>I numara ile gösterilen Hakkari - Cilo (Buzul) Dağları</strong> üzerinde (Uludoruk zirvesi eteklerinde) yer alır. Türkiye orta kuşakta yer aldığı için buzul şekilleri sadece 2500 - 3000 m üzerindeki yüksek dağ zirvelerinde görülür.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>II (Van Gölü kuzeyi / Süphan çevresi):</strong> Reşat İzbırak buzulu burada değil, Cilo Dağı'ndadır.<br>• <strong>III (Kuzeydoğu Anadolu / Kaçkarlar):</strong> Kaçkarlar üzerinde sirk ve buzul vadileri vardır ancak Reşat İzbırak Buzulu Cilo'dadır.<br>• <strong>IV ve V (Güneydoğu platoları - Diyarbakır/Gaziantep):</strong> Yükseltisi az olan sıcak platolardır; buzul bulunmaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'nin en büyük vadi buzulu = REŞAT İZBIRAK BUZULU = CİLO DAĞI (HAKKARİ). En büyük takke buzulu ise AĞRI DAĞI zirvesindedir.</em>"
   },
   {
     "id": "cogr_test_16-q6",
@@ -42617,15 +42617,15 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "Kalanklı - Skayer - Ria"
+        "text": "Kalanklı - Ria - Skayer"
       },
       {
         "key": "B",
-        "text": "Enine - Boyuna - Dalmaçya"
+        "text": "Boyuna - Enine - Dalmaçya"
       },
       {
         "key": "C",
-        "text": "Ria - Enine - Dalmaçya"
+        "text": "Enine - Ria - Dalmaçya"
       },
       {
         "key": "D",
@@ -42636,8 +42636,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "Enine - Ria - Kalanklı"
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Ria - Enine - Dalmaçya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada gösterilen kıyı merkezleri sırasıyla incelendiğinde:<br>• <strong>I numara:</strong> İstanbul Boğazı kıyıları → Eski akarsu vadisinin boğulmasıyla oluşan <strong>RİA KIYI TİPİ</strong>dir.<br>• <strong>II numara:</strong> Ege kıyıları (İzmir çevresi) → Dağların denize dik uzandığı <strong>ENİNE KIYI TİPİ</strong>dir.<br>• <strong>III numara:</strong> Antalya (Kaş-Finike kıyıları) → Kıyıya paralel adacıklardan oluşan <strong>DALMAÇYA KIYI TİPİ</strong>dir.<br>Dolayısıyla doğru sıralama <strong>Ria - Enine - Dalmaçya</strong> şeklindedir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Skayer buzul kıyısıdır (Türkiye'de asla görülmez).<br>• Kalanklı kıyı Mersin/Silifke kanyon kıyılarında görülür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM kıyı tipleri harita eşleştirmesinde en çok bu üçlüyü sorar: Boğazlar = RİA, Ege = ENİNE, Kaş = DALMAÇYA.</em>"
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Enine - Ria - Kalanklı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada numaralandırılan kıyı merkezleri sırasıyla incelendiğinde:<br>• <strong>I numara (Kıyı Ege / İzmir çevresi):</strong> Dağlar kıyı çizgisine dik uzandığı için <strong>ENİNE KIYI TİPİ</strong> görülür (Koy, körfez ve doğal liman çoktur).<br>• <strong>II numara (Güneybatı Anadolu / Muğla - Gökova Körfezi / Menteşe kıyıları):</strong> Eski akarsu vadilerinin deniz seviyesi yükselmesiyle sular altında kalması sonucu oluşan <strong>RİA KIYI TİPİ</strong>dir.<br>• <strong>III numara (Mersin / Silifke kıyıları):</strong> Karstik kalker kanyonlarının deniz suyuyla dolmasıyla oluşan girintili çıkıntılı <strong>KALANKLI KIYI TİPİ</strong>dir.<br>Dolayısıyla I, II ve III numaralı kıyıların doğru sıralaması <strong>Enine - Ria - Kalanklı</strong> olup <strong>E</strong> seçeneğidir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A:</strong> I Kalanklı değil Enine'dir; Skayer buzul kıyısıdır ve Türkiye'de asla görülmez.<br>• <strong>B ve D:</strong> I numara Karadeniz veya Akdeniz boyuna kıyısı değil, Ege enine kıyısıdır.<br>• <strong>C:</strong> III numara Dalmaçya değil (Dalmaçya Antalya Kaş'tadır), Mersin/Silifke Kalanklı kıyısıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Kıyı Tipleri Şifreleri: Ege = ENİNE; Boğazlar & Muğla/Gökova = RİA; Antalya/Kaş = DALMAÇYA; Mersin/Silifke = KALANKLI.</em>"
   },
   {
     "id": "cogr_test_16-q8",
@@ -42950,27 +42950,27 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "options": [
       {
         "key": "A",
-        "text": "Dalmaçya - Enine - Boyuna - Ria - Kalanklı"
+        "text": "Boyuna - Enine - Enine - Dalmaçya - Boyuna"
       },
       {
         "key": "B",
-        "text": "Boyuna - Enine - Dalmaçya - Kalanklı - Ria"
+        "text": "Boyuna - Ria - Enine - Dalmaçya - Kalanklı"
       },
       {
         "key": "C",
-        "text": "Ria - Enine - Boyuna - Kalanklı - Dalmaçya"
+        "text": "Enine - Boyuna - Ria - Ria - Boyuna"
       },
       {
         "key": "D",
-        "text": "Boyuna - Kalanklı - Dalmaçya - Enine - Ria"
+        "text": "Boyuna - Ria - Enine - Kalanklı - Dalmaçya"
       },
       {
         "key": "E",
-        "text": "Enine - Ria - Dalmaçya - Kalanklı - Boyuna"
+        "text": "Enine - Ria - Enine - Dalmaçya - Kalanklı"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Boyuna - Enine - Dalmaçya - Kalanklı - Ria)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada işaretlenen 5 kritik kıyı merkezinin özellikleri:<br>1. <strong>Karadeniz Kıyısı:</strong> Dağlar kıyıya paraleldir → <strong>Boyuna Kıyı</strong><br>2. <strong>Ege Kıyısı:</strong> Dağlar kıyıya dik uzanır → <strong>Enine Kıyı</strong><br>3. <strong>Antalya (Kaş-Finike) Kıyısı:</strong> Kıyıya paralel adacıklar → <strong>Dalmaçya Kıyı</strong><br>4. <strong>Mersin (Silifke) Kıyısı:</strong> Kanyon vadilerin deniz suyuyla dolması → <strong>Kalanklı Kıyı</strong><br>5. <strong>İstanbul Boğazı Kıyısı:</strong> Eski akarsu vadisinin boğulması → <strong>Ria Kıyı</strong><br>Doğru sıralama B seçeneğinde eksiksiz verilmiştir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Diğer seçeneklerde Karadeniz'e Dalmaçya veya Ria denilerek hatalı eşleştirmeler yapılmıştır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye Kıyı Tipleri Haritası: Karadeniz/Akdeniz geneli = BOYUNA, Ege = ENİNE, Kaş = DALMAÇYA, Mersin/Silifke = KALANKLI, Boğazlar/Menteşe = RİA.</em>"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Boyuna - Ria - Enine - Dalmaçya - Kalanklı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada işaretlenen 5 kritik kıyı merkezinin özellikleri ve Roma rakamlarıyla birebir eşleşmesi:<br>• <strong>I (Karadeniz Kıyısı / Sinop-Kastamonu):</strong> Dağlar kıyıya paralel uzandığı için → <strong>Boyuna Kıyı</strong><br>• <strong>II (Çanakkale Boğazı / Gelibolu):</strong> Eski akarsu vadisinin boğulmasıyla oluşan → <strong>Ria Kıyı</strong><br>• <strong>III (Kıyı Ege / İzmir-Aydın):</strong> Dağlar kıyıya dik uzandığı için → <strong>Enine Kıyı</strong><br>• <strong>IV (Antalya / Kaş-Finike Kıyısı):</strong> Kıyıya paralel sıra adacıklardan oluşan → <strong>Dalmaçya Kıyı</strong><br>• <strong>V (Mersin / Silifke Kıyısı):</strong> Kanyon vadilerin deniz suyuyla dolmasıyla oluşan → <strong>Kalanklı Kıyı</strong><br>Sırasıyla I-Boyuna, II-Ria, III-Enine, IV-Dalmaçya, V-Kalanklı eşleştirmesi <strong>B seçeneğinde eksiksiz ve doğru olarak</strong> verilmiştir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• D seçeneğinde IV ve V yer değiştirilerek (Kalanklı - Dalmaçya) çeldirici oluşturulmuştur.<br>• Diğer seçeneklerde Karadeniz'e (I) Enine veya Kaş'a (IV) Boyuna denilerek yanlış eşleştirmeler yapılmıştır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM Kıyı Haritası Formülü: I Karadeniz = BOYUNA, II Boğazlar/Gelibolu = RİA, III Ege = ENİNE, IV Kaş = DALMAÇYA, V Silifke = KALANKLI.</em>"
   },
   {
     "id": "cogr_test_16-q17",
