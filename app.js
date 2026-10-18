@@ -3319,12 +3319,9 @@ class EKYSApp {
                   </div>
                 </div>
               </div>
-              <div style="display: flex; gap: 6px; margin-top: auto; flex-wrap: wrap;" onclick="event.stopPropagation()">
-                <button class="btn btn-primary btn-sm" style="flex: 2; font-weight: 700; background: linear-gradient(135deg, #6366f1, #8b5cf6);" onclick="app.openSubTopicModal('${item.targetSubtopic}')">
-                  📂 Testleri Listele &amp; Seç
-                </button>
-                <button class="btn btn-secondary btn-sm" style="flex: 1;" onclick="app.startSubTopicQuiz('${item.filterKey}', '${item.name} (Karma)', 'practice')" title="Tüm soruları karma çöz">
-                  🎯 Karma
+              <div style="margin-top: auto;" onclick="event.stopPropagation()">
+                <button class="btn btn-primary btn-block btn-sm" style="font-weight: 700; background: linear-gradient(135deg, #6366f1, #8b5cf6); padding: 9px 12px; font-size: 0.88rem; display: flex; align-items: center; justify-content: center; gap: 8px;" onclick="app.openSubTopicModal('${item.targetSubtopic}')">
+                  <span>📂</span> <span>Testleri İncele &amp; Seç</span> <span style="font-size: 0.8rem; opacity: 0.85;">➡️</span>
                 </button>
               </div>
             </div>
