@@ -44387,33 +44387,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 1,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q1.png",
+    "questionText": "Türkiye'de yıl içinde yağışın mevsimlere dağılışına bağlı olarak aşağıdaki il çiftlerinden hangisinin <strong>yağış rejimi birbirinden farklıdır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Antalya - Gaziantep"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kars - Iğdır"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Konya - Malatya"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Aydın - Çanakkale"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Bartın - Rize"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Yağış Rejimi ve İller:\n• Karadeniz İklimi (Rize, Trabzon): En çok yağış Sonbaharda düşer, rejim düzenlidir.\n• Akdeniz İklimi (Antalya, İzmir): En çok yağış Kışın düşer.\n• Karasal İklim (Konya, Ankara): En çok yağış İlkbaharda düşer.\n• Sert Karasal İklim (Erzurum, Kars): En çok yağış Yazın düşer."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kars - Iğdır)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Yağış rejimi, yağışın yılın hangi mevsiminde en fazla düştüğünü ifade eder.<br>• <strong>Kars (Sert Karasal İklim):</strong> En fazla yağışını <strong>YAZ</strong> mevsiminde (konveksiyonel sağanaklar olarak) alır.<br>• <strong>Iğdır (Ilıman Karasal / Çukur Saha):</strong> Çevresi dağlarla çevrili bir ova olduğu için İç Anadolu tipi karasal rejim gösterir ve en fazla yağışını <strong>İLKBAHAR</strong> mevsiminde alır.<br>Dolayısıyla Kars ve Iğdır birbirine komşu olmalarına rağmen yağış rejimleri birbirinden <strong>farklıdır</strong>.<br><br>❌ <strong>Diğer Şıkların Analizi (Aynı Rejime Sahip Olanlar):</strong><br>• <strong>Antalya - Gaziantep:</strong> İkisi de Akdeniz yağış rejimindedir (en çok kışın alır).<br>• <strong>Konya - Malatya:</strong> İkisi de İç Anadolu/İç karasal rejimdedir (en çok ilkbaharda alır).<br>• <strong>Aydın - Çanakkale:</strong> İkisi de Akdeniz yağış rejimindedir (en çok kışın alır).<br>• <strong>Bartın - Rize:</strong> İkisi de Karadeniz rejimindedir (en çok sonbaharda alır).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Doğu Anadolu'da Erzurum-Kars-Ardahan platosu YAZ yağışları alırken; Malatya, Elazığ ve Iğdır çanakları İLKBAHAR yağışları alır. Bu fark klasik bir sınav tuzağıdır.</em>"
   },
   {
     "id": "cogr_test_18_2-q2",
@@ -44424,33 +44424,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 2,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 2)",
+    "questionText": "Denizden gelen nemli hava kütlesinin bir dağ yamacı boyunca yükselip soğumasıyla oluşan yağış türüne orografik (yamaç) yağışları denir.<br><br>Buna göre yukarıdaki Türkiye haritasında numaralandırılmış merkezlerin hangisinde <strong>kış döneminde orografik yağış görülme olasılığı en fazladır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q2.png",
+    "image": "assets/questions/cogr_test_18_2_q2_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Yamaç (Orografik) Yağış Oluşumu:\n• Nemli deniz havası dağ yamacı boyunca yükseldikçe adyabatik olarak soğur, bağıl nemi artar (%100'e ulaşır) ve yamaç yağışını bırakır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III numara - Menteşe Yöresi / Muğla)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>III Numara (Muğla - Menteşe Yöresi):</strong> Ege Bölgesi'nde dağların kıyıya paralel uzandığı tek alandır. Kış mevsiminde Akdeniz üzerinden nem yüklenerek gelen <strong>Lodos</strong> rüzgârı, Menteşe Dağları'na dik çarparak yükselir ve kış aylarında şiddetli orografik yamaç yağışları bırakır.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• I Numara: Yıldız Dağları (Karadeniz üzerinden gelen kuzey rüzgarları etkilidir, kışın Akdeniz kadar yoğun yamaç yağışı almaz).<br>• II Numara: İzmir (Dağlar denize dik uzandığından yamaç yağışı oluşmaz).<br>• IV Numara: Kastamonu (Karasal iç kesim).<br>• V Numara: Hakkâri (Kışın kar yağışı etkilidir ancak denizel orografik yağış değildir).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de kışın orografik yağışın en fazla görüldüğü iki kıyı sahası: Menteşe Yöresi (Muğla) ve Batı Toroslar (Antalya kıyıları)'dır.</em>"
   },
   {
     "id": "cogr_test_18_2-q3",
@@ -44461,33 +44461,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 3,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 3)",
+    "questionText": "Yukarıdaki grafikte Türkiye'nin bir bölgesine ait yağış ve sıcaklık grafiği verilmiştir.<br><br>Buna göre verilen yağış ve sıcaklık grafiği Türkiye haritasında numaralandırılmış merkezlerin <strong>hangisine ait olabilir</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q3.png",
+    "image": "assets/questions/cogr_test_18_2_q3_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 İklim Grafiği Analizi (Akdeniz İklimi):\n• Yazları sıcak ve kurak, kışları ılık ve bol yağışlı geçen, kış sıcaklığı 10°C civarında olan grafik tipik Akdeniz İklimine aittir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara - Adana / Çukurova)<br><br>🎯 <strong>Grafiğin ve Haritanın Analizi:</strong><br>• <strong>Grafik İncelemesi:</strong> Kış aylarında (Aralık, Ocak) yağışlar 200 mm'nin üzerindedir. Yaz aylarında (Temmuz, Ağustos) yağış neredeyse sıfıra iner (şiddetli yaz kuraklığı). Kış sıcaklıkları 8-10°C, yaz sıcaklıkları 28-30°C'dir. Bu veriler tipik bir <strong>Akdeniz İklimi</strong> grafiğidir.<br>• <strong>Haritadaki Eşleşme:</strong> Haritada Akdeniz iklim sahasında yer alan kıyı merkezi <strong>IV numaralı Adana / Çukurova</strong>'dır.<br><br>❌ <strong>Haritadaki Diğer Merkezler:</strong><br>• I Numara: Edirne (Karasal, kışlar soğuk geçer).<br>• II Numara: Batı Karadeniz (Her mevsim yağışlıdır, yaz kuraklığı yoktur).<br>• III Numara: Karaman (İç Anadolu karasallığı, kış sıcaklığı 0°C civarıdır).<br>• V Numara: Van (Sert karasal, kışlar donludur).<br><br>💡 <strong>ÖSYM Grafik Tüyosu:</strong> <em>Kış sıcaklığı 8-10°C üzerinde ve yaz yağış sütunları tamamen kuruyup dibe vurmuşsa o grafik kesinlikle Akdeniz İklimi'ne aittir.</em>"
   },
   {
     "id": "cogr_test_18_2-q4",
@@ -44498,33 +44498,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 4,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 4)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q4.png",
+    "questionText": "Türkiye'de topoğrafik yapı ve etrafındaki dağ sıralarının etkisiyle yöreler arasında yağış miktarı bakımından belirgin farklılıklar bulunur.<br><br>Buna göre aşağıda verilen illerden hangisi <strong>yıl içinde en az miktarda yağış</strong> almaktadır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Afyonkarahisar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Ankara"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Konya"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Samsun"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Bursa"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Yöresel Yağış Farklılıkları:\n• Yer şekillerinin uzanışı, yükselti ve denize olan mesafe Türkiye'de çok kısa mesafelerde belirgin yağış ve iklim farklılıklarına yol açar."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Konya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Konya Havzası:</strong> Etrafı yüksek dağ sıralarıyla (güneyde Toroslar, kuzeyde İç Anadolu platoları) çevrili kapalı bir havza tabanında yer alır. Deniz üzerinden gelen nemli hava kütleleri bu dağları aşarken nemini bırakır ve havzaya doğru alçalırken fönleşerek kurutucu etki yapar.<br>• Bu durum Konya'nın yıllık ortalama <strong>~320 mm</strong> yağış almasına yol açar ve Konya'yı Türkiye'nin en kurak ve en az yağış alan illerinden biri yapar.<br><br>❌ <strong>Diğer İllerin Yağış Miktarları:</strong><br>• Afyonkarahisar: ~450 mm<br>• Ankara: ~400 mm<br>• Samsun: ~750 mm<br>• Bursa: ~700 mm<br><br>💡 <strong>ÖSYM Altın Bilgisi:</strong> <em>Türkiye'de yıllık yağış miktarının en az olduğu yer Tuz Gölü çevresi ve Konya Kapalı Havzası'dır (Doğu Anadolu'da ise Iğdır Ovası'dır).</em>"
   },
   {
     "id": "cogr_test_18_2-q5",
@@ -44535,33 +44535,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 5,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 5)",
+    "questionText": "Yukarıda Türkiye'de bir yöreye ait yağışın mevsimlere dağılışını gösteren daire grafik verilmiştir (%61 Kış, %21 Sonbahar, %17 İlkbahar, %1 Yaz).<br><br>Buna göre verilen daire grafik dikkate alındığında bu ortamın iklimi hakkında;<br><br>I. Yörede kış ılıklığı yaşanmaktadır.<br>II. Doğal bitki örtüsü kış döneminde yapraklarını döker.<br>III. Yağış rejimi düzensizdir.<br><br>yargılarından <strong>hangileri yanlış olur</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q5.png",
+    "image": "assets/questions/cogr_test_18_2_q5_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I, II ve III"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Yağış Dağılış Grafiği:\n• Yağışın yarıya yakını (%40+) kış mevsiminde düşüyorsa bu Akdeniz iklim bölgesidir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II)<br><br>🎯 <strong>Grafik ve Yargıların Analizi:</strong><br>Yağışın %61'i kışın, yalnızca %1'i yazın düşüyorsa bu iklim tartışmasız <strong>Akdeniz İklimi</strong>'dir.<br>• <strong>I. Yörede kış ılıklığı yaşanmaktadır:</strong> DOĞRUDUR (Akdeniz ikliminde don olayları çok nadirdir, kış ortalaması 10°C civarıdır).<br>• <strong>II. Doğal bitki örtüsü kış döneminde yapraklarını döker:</strong> YANLIŞTIR! Akdeniz ikliminin karakteristik bitki örtüsü olan <strong>makiler (kocayemiş, defne, zeytin, mersin, zakkum vb.)</strong> kuraklığa ve kış ılıklığına uyum sağlamış her dem yeşil, sert, cilalı yapraklı bodur ağaççıklardır; kışın yaprak dökmezler.<br>• <strong>III. Yağış rejimi düzensizdir:</strong> DOĞRUDUR (Yaz ile kış arasında %60'lık uçurum vardır).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Maki türleri 4 mevsim yeşildir, yaprak dökmez. Kışın yaprak döken ormanlar Karadeniz iklimine aittir.</em>"
   },
   {
     "id": "cogr_test_18_2-q6",
@@ -44572,33 +44572,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 6,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q6.png",
+    "questionText": "Türkiye'de bağıl nem oranının yıl boyu yüksek olduğu (Karadeniz kıyı kuşağı gibi) bir yöre ile ilgili aşağıdakilerden <strong>hangisi yanlıştır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yöredeki akarsular su taşımacılığına uygundur."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yerin ışıma ile enerji kaybı azdır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Günlük ve yıllık sıcaklık farkı azdır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bulutluluk oranı ve yağış ihtimali fazladır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Aşırı yıkanmadan dolayı topraklar asidik reaksiyon gösterir."
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Yıl Boyu Bağıl Nemi Yüksek Yöre (Karadeniz):\n• Yıl boyu bulutluluk fazladır, güneşlenme süresi azdır, kimyasal çözünme etkilidir ve bitki örtüsü gür ormanlardır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Akarsuların taşımacılığa uygun olması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye akarsuları yatak eğimlerinin fazla olması, akış hızlarının yüksek ve rejimlerinin düzensiz olması, derin vadilerden akmaları sebebiyle <strong>su taşımacılığına (ulaşıma) elverişli DEĞİLDİR</strong> (Tek istisna Bartın Çayı'nın denize dökülen son 7-8 km'lik kısmında tomruk/motor taşımacılığıdır; genel bir kural değildir). Dolayısıyla akarsuların taşımacılığa uygun olması ifadesi yanlıştır.<br><br>❌ <strong>Bağıl Nemi Yüksek Yörenin Doğru Özellikleri:</strong><br>• B: Nem örtüsü ısıyı tuttuğu için geceleri ışıma ile yerin enerji kaybı azdır.<br>• C: Nem aşırı ısınma ve soğumayı engeller, sıcaklık farkı azdır.<br>• D: Bağıl nem yüksekse hava neme doymuştur; bulutluluk ve yağış ihtimali yüksektir.<br>• E: Bol yağış topraktaki kireç ve tuzu yıkayarak asidik (yıkanmış orman toprağı) yapar.<br><br>💡 <strong>ÖSYM Altın Kuralı:</strong> <em>Türkiye genç oluşumlu, engebeli bir ülke olduğu için akarsularımız hidroelektrik ve rafting için elverişlidir; ancak taşımacılık/ulaşım için elverişsizdir.</em>"
   },
   {
     "id": "cogr_test_18_2-q7",
@@ -44609,33 +44609,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 7,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q7.png",
+    "questionText": "Farklı sıcaklık ve nem özelliklerine sahip iki hava kütlesinin karşılaşma alanlarında oluşan ve Türkiye'nin matematiksel (mutlak) konumu gereği orta kuşakta bulunmasına bağlı olarak ülkemizde en yaygın görülen yağış oluşum tipi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Cephe (frontal) yağışları"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Orografik (yamaç) yağışları"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Konveksiyonel (yükselim) yağışları"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Muson yağışları"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kasırga (siklonik) yağışları"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Cephe Yağışlarının Nedeni:\n• Farklı karakterdeki sıcak ve soğuk hava kütlelerinin karşılaşması (Polar ve Tropikal hava) orta kuşak özelliği olup cephesel yağışları oluşturur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Cephe / frontal yağışları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Cephesel (Frontal) Yağışlar:</strong> Kutuplardan gelen soğuk hava kütleleri ile Ekvator/subtropikalden gelen sıcak hava kütlelerinin karşılaşma alanında sıcak havanın soğuk havanın üzerine tırmanıp soğumasıyla meydana gelir.<br>• Türkiye 36°-42° Kuzey enlemlerinde, yani <strong>Orta Kuşak</strong>'ta yer aldığı için bu hava kütlelerinin doğrudan karşılaşma sahasıdır.<br>• Ülkemizde özellikle kış aylarında Akdeniz, Ege ve Marmara bölgeleri başta olmak üzere Türkiye genelinde en yaygın görülen yağış tipi <strong>CEPHE YAĞIŞLARI</strong>'dır.<br><br>💡 <strong>ÖSYM Matematik Konum Tüyosu:</strong> <em>Orta Kuşak (Akdeniz İklimi, Batı Rüzgarları, Cephe Yağışları, Dört Mevsim) Türkiye'nin MUTLAK (MATEMATİK) konumunun sonucudur (A-B-C-D kodlaması).</em>"
   },
   {
     "id": "cogr_test_18_2-q8",
@@ -44646,33 +44646,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 8,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 8)",
+    "questionText": "Yukarıdaki şekilde karaların ısınmasıyla havanın dikey yükselerek soğuması sonucu oluşan konveksiyonel (yükselim) yağış şekli verilmiştir.<br><br>Buna göre, bu yağış oluşum şeklinin karakteristik olarak görüldüğü bir yöre (İç Anadolu) için aşağıdaki <strong>yorumlardan hangisi yanlıştır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q8.png",
+    "image": "assets/questions/cogr_test_18_2_q8_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bu yağış türü yörede ısınmanın arttığı ilkbahar döneminde gerçekleşir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yörede geven, koyun yumağı, gelincik ve yavşan otu gibi bozkır türleri yaygındır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kış döneminde ortalama sıcaklıklar sıfırın altına düşmektedir."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bu yağış oluşum türü, yörede en çok kış döneminde gerçekleşir."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yörede gerçekleştirilecek tahıl tarımını olumlu yönde etkiler."
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Karakteristik Yağış Tipleri Eşleştirmesi:\n• Akdeniz: Cephesel\n• İç Anadolu: Konveksiyonel (İlkbahar)\n• Karadeniz: Orografik (Yamaç)\n• Erzurum-Kars: Konveksiyonel (Yaz)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yörede en çok kış döneminde gerçekleşmesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Konveksiyonel yağışın oluşabilmesi için yer yüzeyinin <strong>aşırı ısınması</strong> ve temas eden havanın genleşerek dikey yükselmesi şarttır.<br>• İç Anadolu Bölgesi'nde kış mevsiminde yer yüzeyi soğuktur; dolayısıyla bu yağış kışın gerçekleşemez. Kış aylarında cephesel kar ve yağmur yağışları görülür.<br>• Konveksiyonel yağışlar İç Anadolu'da havanın ısınmaya başladığı <strong>İLKBAHAR</strong> aylarında (Kırkikindi yağışları olarak) gerçekleşir. Bu nedenle \"en çok kış döneminde gerçekleşir\" yargısı yanlıştır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>İç Anadolu'da Kırkikindi (konveksiyonel) yağışları ilkbaharda; Erzurum-Kars'ta ise yaz başlarında gerçekleşir. Kış mevsiminde konveksiyonel yağış oluşmaz.</em>"
   },
   {
     "id": "cogr_test_18_2-q9",
@@ -44683,33 +44683,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 9,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 9)",
+    "questionText": "Sis; yatay görüş mesafesini 1 km'nin altına düşüren, stratus bulutlarının yere temas etmesiyle oluşan bir yoğuşma ürünüdür. Nemli havanın bir dağ yamacı boyunca yükselirken soğumasıyla yamaç sisi oluşur.<br><br>Buna göre yukarıdaki Türkiye haritasında numaralandırılmış merkezlerin hangisinde yıl içinde <strong>yamaç ve vadi sisi oluşumu en yüksektir</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q9.png",
+    "image": "assets/questions/cogr_test_18_2_q9_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Sis Oluşumu ve Türleri:\n• Sıcak ve nemli havanın soğuk bir yüzey üzerinden geçmesiyle adveksiyon (yamaç/kıyı) sisi, açık kış gecelerinde yeryüzünün aşırı soğumasıyla radyasyon sisi oluşur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numara - Doğu Karadeniz Dağları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Yamaç Sisi:</strong> Sıcak ve nemli bir hava kütlesinin dağ yamacı boyunca yükselirken adyabatik olarak soğuması ve doymasıyla oluşur.<br>• <strong>II Numara (Doğu Karadeniz - Kaçkar Dağları Yöresi):</strong> Karadeniz üzerinden gelen aşırı nemli hava kütleleri kıyıdan hemen yükselen dik Kaçkar Dağları'nın yamaçlarına tırmanır. Bu tırmanış sırasında dağın orta ve yüksek yamaçlarında yılın 150-200 günü yoğun <strong>yamaç ve yayla sisleri</strong> oluşur.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• I Numara: İzmir (Ege'de dağlar dik uzanır, yamaç sisi yaygın değildir).<br>• III Numara: Konya (Radyasyon sisi kış gecelerinde görülür; yamaç sisi yoktur).<br>• IV Numara: Mersin (Deniz sisi baharda görülür).<br>• V Numara: Şanlıurfa (Hava kuru olduğu için sis nadirdir).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de yamaç sisi ve orografik sis denildiğinde akla ilk gelen yer Karadeniz Dağları (özellikle Doğu Karadeniz yaylaları)'dır.</em>"
   },
   {
     "id": "cogr_test_18_2-q10",
@@ -44720,33 +44720,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 10,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 10)",
+    "questionText": "Yukarıda Türkiye'de ortalama yıllık yağış miktarı ve sıcaklık değerleri gösterilen bir merkez (Doğu Karadeniz / Rize) için grafikteki bilgilerden yararlanılarak <strong>aşağıdakilerden hangisine ulaşılamaz</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q10.png",
+    "image": "assets/questions/cogr_test_18_2_q10_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yıllık toplam yağış miktarı 2000 mm'nin üzerindedir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Nem ve yağış isteği fazla olan tarım ürünleri doğal olarak yetişme şansı bulur."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Karadeniz kıyı kuşağına ait bir merkezdir."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yıllık sıcaklık farkları fazladır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Bağıl nem ve bulutluluk oranı yıl boyu yüksektir."
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 İklim Grafiği Değerlendirmesi:\n• Yıllık sıcaklık ortalaması, yıllık yağış miktarı ve mevsimsel dağılım o yörenin iklim tipini ve doğal bitki örtüsünü belirler."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yıllık sıcaklık farkları fazladır)<br><br>🎯 <strong>Grafik Bilgilerinin Analizi:</strong><br>Grafik incelendiğinde;<br>• Kış sıcaklıkları ~7°C, yaz sıcaklıkları ~22°C civarındadır. Yıllık sıcaklık farkı yalnızca <strong>14-15°C</strong>'dir.<br>• Nem oranı çok yüksek olduğu için aşırı ısınma ve aşırı soğuma önlenmiştir; dolayısıyla bu merkezde sıcaklık farkları fazla değil, Türkiye'de <strong>en azdır</strong>. Bu nedenle D şıkkına ulaşılamaz.<br>• Yağış her mevsim düzenlidir ve yıllık 2000 mm'nin üstündedir (Çay ve fındık tarımına uygundur).<br><br>💡 <strong>ÖSYM Altın Bilgisi:</strong> <em>Doğu Karadeniz (Rize) Türkiye'nin yıllık ve günlük sıcaklık farkının EN AZ olduğu yerdir.</em>"
   },
   {
     "id": "cogr_test_18_2-q11",
@@ -44757,33 +44757,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 11,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 11)",
+    "questionText": "İklim ve bitki örtüsü özellikleri dikkate alındığında yukarıdaki haritada belirtilen merkezlerin hangisinde doğal bitki örtüsü <strong>diğerlerinden farklıdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q11.png",
+    "image": "assets/questions/cogr_test_18_2_q11_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve V"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Harita İklim Tipleri Eşleştirmesi:\n• Kıyı Ege ve Akdeniz: Akdeniz İklimi (Maki)\n• Karadeniz kıyıları: Karadeniz İklimi (Geniş/Karma Orman)\n• İç Anadolu: Ilıman Karasal (Bozkır)\n• Erzurum-Kars: Sert Karasal (Çayır)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I - Samsun)<br><br>🎯 <strong>Haritadaki Merkezlerin Bitki Örtüsü Analizi:</strong><br>• <strong>II (Bursa), III (İzmir), IV (Mersin), V (İskenderun):</strong> Bu merkezlerin tamamı Akdeniz iklim bölgesinde yer alır ve doğal bitki örtüleri <strong>MAKİ</strong> (kızılçam tahribatıyla oluşan maki ve garig) topluluklarıdır.<br>• <strong>I Numara (Samsun - Orta Karadeniz):</strong> Karadeniz iklim bölgesindedir ve doğal bitki örtüsü <strong>Geniş ve Karışık Yapraklı ORMAN</strong>'dır.<br>Bu nedenle bitki örtüsü diğer dört merkezden tamamen farklı olan merkez <strong>yalnız I</strong>'dir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Marmara Denizi'nin güney kıyıları (Bursa, Çanakkale) da Akdeniz iklimi etki sahasındadır ve maki kuşağı içerisinde yer alır.</em>"
   },
   {
     "id": "cogr_test_18_2-q12",
@@ -44794,33 +44794,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 12,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q12.png",
+    "questionText": "Nemli ve ılıman iklim bölgelerinde yaprak döken ormanların tahribatı sonucunda ortaya çıkan, kışın yaprak döken çalılarla her mevsim yeşil kalan çalıların bir arada bulunduğu ve halk arasında \"yalancı maki\" olarak da bilinen <strong>psödomaki</strong> topluluklarına Türkiye'de en yaygın olarak aşağıdaki merkezlerin hangisinde rastlanır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Mersin"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Konya"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Erzurum"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Trabzon"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Edirne"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Garig ve Psödomaki Oluşumu:\n• Makilerin tahrip edilmesiyle Garig (Frigana), Karadeniz ormanlarının tahrip edilmesiyle Psödomaki (Yalancı maki) oluşur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Trabzon)<br><br>🎯 <strong>Çalı Formasyonlarının Tahribat Haritası:</strong><br>• <strong>Psödomaki (Yalancı Maki):</strong> Karadeniz iklim bölgesinde (özellikle Karadeniz kıyı kuşağı ve Marmara'nın Karadeniz kıyılarında) kıyı ormanlarının (kestane, gürgen, meşe, kayın) tahrip edilmesiyle ortaya çıkan fındık, yabani erik, kızılcık, böğürtlen, şimşir gibi nemcil çalı topluluklarıdır. Bu nedenle <strong>Trabzon</strong>'da son derece yaygındır.<br>• <strong>Maki:</strong> Akdeniz, Ege ve Güney Marmara'da kızılçam tahribatıyla oluşur (Mersin).<br>• <strong>Garig:</strong> Makilerin tahribatıyla oluşan çok cılız diz boyu çalılardır (lavanta, abdestbozan, kekik).<br>• <strong>Antropojen Bozkır:</strong> Karasal bölgelerde meşe ve karaçam ormanlarının tahribatıyla oluşur (Konya, Ankara, Ergene).<br><br>💡 <strong>ÖSYM Altın Eşleştirmesi:</strong> <em>Psödomaki denildiğinde akla ilk Karadeniz kıyıları (Trabzon, Rize, Zonguldak, Şile) gelmelidir.</em>"
   },
   {
     "id": "cogr_test_18_2-q13",
@@ -44831,33 +44831,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 13,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q13.png",
+    "questionText": "Türkiye'de Akdeniz iklim sahasının klimaks (asıl) ağaç türü olan <strong>kızılçam ormanlarının tahribatı sonucunda</strong> ortaya çıkan bodur, yaprak dökmeyen çalı topluluğu aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Maki"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Bozkır"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Alpin çayırları"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Antropojen bozkır"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Savan"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Kızılçam Tahribatı ve Maki:\n• Akdeniz ikliminin ana ağacı olan Kızılçam ormanlarının tahrip edilmesi sonucu bodur ve sert yapraklı çalılardan oluşan Maki (Zeytin, defne, mersin, zakkum, keçiboynuzu vb.) topluluğu ortaya çıkar."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Maki)<br><br>🎯 <strong>Bitki Kuşakları ve Tahribat Evreleri:</strong><br>• Akdeniz ikliminin asıl (klimaks) doğal bitki örtüsü <strong>kızılçam (Pinus brutia) ormanlarıdır</strong>.<br>• İnsanlar tarafından asırlar boyunca yakılan veya kesilen kızılçam ormanlarının tahrip olduğu alanlarda yerlerini zeytin, defne, mersin, sandal, kocayemiş, menengiç, keçiboynuzu ve zakkum gibi bodur ağaççıklardan oluşan <strong>MAKİ</strong> toplulukları almıştır.<br>• Makilerin de tahrip edildiği aşırı bozulmuş sahalarda ise <strong>Garig (Frigana)</strong> toplulukları oluşur.<br><br>💡 <strong>ÖSYM Formülü:</strong> <em>Kızılçam Ormanı --(Tahrip)--> Maki --(Tahrip)--> Garig</em>"
   },
   {
     "id": "cogr_test_18_2-q14",
@@ -44868,33 +44868,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 14,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q14.png",
+    "questionText": "Türkiye'de yıl içerisinde en fazla yağışın yaz aylarında düştüğü, kışların dondurucu ve uzun sürdüğü, yıllık sıcaklık farklarının en yüksek olduğu bir merkezin (Erzurum-Kars Platosu) doğal bitki topluluğu aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Geniş yapraklı orman"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Maki"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Alpin (Dağ) çayırları"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Bozkır (Step)"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Garig"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Sert Karasal İklim ve Alpin Çayırlar:\n• Yaz yağışlarının fazla olduğu Erzurum-Kars ve Doğu Karadeniz yaylalarında yaz boyu yeşil kalan gür Alpin çayırlar gelişir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Alpin / Dağ çayırları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Yaz yağışlarının görüldüğü ve kışın çok soğuk geçtiği sert karasal iklim sahalarında (Kuzeydoğu Anadolu - Erzurum, Kars, Ardahan) ilkbaharda karlar erir, yaz başındaki bol konveksiyonel yağışlarla birlikte yaz boyunca yeşil kalan gür otlar boy verir.<br>• Bu gür ve uzun boylu ot topluluklarına <strong>Alpin (Dağ) çayırları</strong> denir. Bu bitki örtüsü altında <strong>Çernezyom (kara toprak)</strong> oluşur ve buna bağlı olarak bölgede <strong>Büyükbaş mera hayvancılığı</strong> gelişmiştir.<br><br>💡 <strong>ÖSYM Altın Zinciri:</strong> <em>Sert Karasal İklim → Yaz Yağışları → Alpin Çayırları → Çernezyom Toprak → Büyükbaş Mera Hayvancılığı.</em>"
   },
   {
     "id": "cogr_test_18_2-q15",
@@ -44905,33 +44905,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 15,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 15)",
+    "questionText": "Karasal iklim bölgelerinde geçmişte ormanlarla kaplı olan alanlardaki ormanların insanlar tarafından tahrip edilmesi sonucu ağaçsız kalan yerlerde oluşan ot topluluklarına <strong>antropojen bozkır</strong> denir.<br><br>Buna göre, yukarıdaki haritada işaretli merkezlerin hangisinde antropojen bozkırlara <strong>daha fazla rastlanır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q15.png",
+    "image": "assets/questions/cogr_test_18_2_q15_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Antropojen Bozkır:\n• İç Anadolu ve Ergene gibi karasal bölgelerde insanların asırlar boyunca ormanları tahrip etmesiyle ortaya çıkan bozkırlara 'Antropojen Bozkır' denir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numara - Ergene Havzası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>I Numara (Ergene Havzası - Trakya):</strong> Tarih boyunca çok yoğun yerleşime ve tarımsal faaliyetlere sahne olmuştur. Aslında meşe ormanlarıyla kaplı olan havza, insanların aşırı tarla açma, yakacak temini ve yerleşim baskısıyla tahrip edilmiş ve geriye geniş <strong>antropojen bozkırlar</strong> kalmıştır.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• II Numara: Ege kıyısı (Kızılçam tahribatıyla Maki ve Garig oluşur).<br>• III Numara: Akdeniz kıyısı (Maki oluşur).<br>• IV Numara: Hakkari (Yüksek dağ çayırları ve doğal bozkırlar yer alır).<br>• V Numara: Doğu Karadeniz (Orman tahribatıyla Psödomaki oluşur).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de antropojen bozkırların en geniş yer kapladığı iki saha: İç Anadolu Bölgesi ve Marmara'da Ergene Havzası'dır.</em>"
   },
   {
     "id": "cogr_test_18_2-q16",
@@ -44942,33 +44942,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 16,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q16.png",
+    "questionText": "Bir bölgede tahrip olan ormanların kendi kendine yeniden yetişebilmesi (ormanın kendini yenileme süresi) yağış miktarı ve nemlilik oranıyla doğrudan ilişkilidir (nem ve yağış arttıkça yenilenme süresi kısalır ve kolaylaşır).<br><br>Buna göre, Türkiye'de tahribata uğrayan ormanların <strong>kendini yenilemesinin diğerlerine göre en zor ve en uzun olduğu kent</strong> aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Konya"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kırklareli"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Bolu"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Muğla"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Rize"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Ormanların Kendini Yenileme Hızı:\n• Nem ve yağışın en bol olduğu Doğu Karadeniz ormanları tahribat sonrası kendini en hızlı yenileyen sahadır; kurak iç bölgelerde ise yenilenme çok zordur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Konya)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ormanların kendini yenileyebilmesi için tohumların çimlenmesini sağlayacak yeterli neme ve düzenli yağışa ihtiyaç vardır.<br>• <strong>Konya:</strong> Yıllık ~320 mm yağışla Türkiye'nin en kurak yeridir. Havanın kuru ve yağışın yetersiz olması nedeniyle tahrip edilen bir ağacın yerine yenisinin doğal yolla çıkması onlarca yıl sürer veya hiç gerçekleşmez (yenilenme süresi en uzundur).<br>• <strong>Rize:</strong> Yıllık ~2400 mm bol yağış ve yüksek nem sayesinde Türkiye'de ormanların kendini en hızlı ve en kolay yenilediği yerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Ormanın kendini yenileme hızının EN FAZLA olduğu yer Karadeniz (Rize-Trabzon), EN AZ ve EN ZOR olduğu yer İç Anadolu (Konya-Karaman)'dır.</em>"
   },
   {
     "id": "cogr_test_18_2-q17",
@@ -44979,33 +44979,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 17,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 17)",
+    "questionText": "Yukarıdaki sıcaklık ve yağış grafiğinde kış aylarında bol yağış alan (Aralık-Ocak: 250-300 mm), yaz aylarında ise şiddetli kuraklık yaşayan (Temmuz-Ağustos: 30-50 mm) ve kış sıcaklıkları 10°C'nin altına düşmeyen Akdeniz iklimi gösterilmiştir.<br><br>Buna göre grafikte belirtilen merkeze ait <strong>doğal bitki örtüsü</strong> aşağıdakilerden hangisidir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q17.png",
+    "image": "assets/questions/cogr_test_18_2_q17_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Maki"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Geniş yapraklı orman"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Bozkır (Step)"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Alpin çayırlar"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Savan"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Karadeniz İklim Grafiği:\n• Her mevsimi yağışlı, en çok yağışı sonbaharda alan, kış sıcaklığı 5-7°C civarında olan grafik tipik Karadeniz İklimidir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Maki)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Grafik İncelemesi:</strong> Yaz aylarında sıcaklıkların 28°C'ye çıktığı ve yağışın neredeyse kesildiği, kış aylarında ise sıcaklıkların 12-13°C olup yağışın en üst seviyeye ulaştığı bu grafik <strong>Akdeniz İklimi</strong>'nin tipik temsilcisidir (Antalya/Mersin).<br>• Akdeniz iklim bölgesinde kızılçam ormanlarının tahribatıyla oluşan bodur ve kuraklığa dayanıklı ağaççıklardan meydana gelen doğal bitki topluluğu <strong>MAKİ</strong>'dir.<br><br>💡 <strong>ÖSYM Bitki Örtüsü Eşleştirmesi:</strong><br>• Akdeniz İklimi → Maki<br>• Karadeniz İklimi → Karışık/Geniş Yapraklı Orman<br>• Ilıman Karasal İklim → Bozkır (Step)<br>• Sert Karasal İklim → Alpin Çayırlar"
   },
   {
     "id": "cogr_test_18_2-q18",
@@ -45016,33 +45016,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌲",
     "questionNumber": 18,
-    "questionText": "Türkiye'nin İklimi & Bitki Örtüsü - Test 18(3): İklim - 3 & Bitki Örtüsü (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_18_2_q18.png",
+    "questionText": "Dünya üzerinde 30° ile 40° enlemleri arası Akdeniz iklim kuşağıdır. Türkiye'nin de bu enlemler arasında toprakları yer aldığı için ülkemiz Akdeniz ikliminin genel etki alanı içerisindedir.<br><br>Buna göre, aşağıda verilen kentlerin hangisinde <strong>Akdeniz iklim özellikleri en belirgin ve tipik olarak</strong> görülür?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Isparta"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Burdur"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Karaman"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kahramanmaraş"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "İzmir"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Akdeniz İklim Sahası ve Matematik Konum:\n• Türkiye'nin 36°-42° Kuzey enlemlerinde yer alması (Orta Kuşak) Akdeniz iklim kuşağında yer almasını sağlayan temel matematik konum sonucudur."
+    "explanation": "Doğru Cevap: <strong>E</strong> (İzmir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>İzmir:</strong> Deniz kıyısında, 0 metre yükseltide ve Ege kıyı kuşağında yer alır. Kışları son derece ılık geçer (don olayı nadirdir), yazları sıcak ve kuraktır, doğal bitki örtüsü makidir. Asıl Akdeniz iklim özelliklerini bozulmadan en net yaşayan merkezdir.<br>• <strong>Isparta ve Burdur (Göller Yöresi):</strong> Yükseltileri 1000 metrenin üzerindedir ve Toroslar'ın arkasında kaldıkları için karasallaşmış Akdeniz iklimi (kışlar soğuk ve karlı) görülür.<br>• <strong>Karaman:</strong> Toroslar'ın kuzeyinde kalır, karasal bozkır iklimine sahiptir.<br>• <strong>Kahramanmaraş:</strong> Denizden uzak ve yükseltisi fazladır, karasallık baskındır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Ege kıyıları (İzmir, Aydın, Muğla) ve Akdeniz kıyı kuşağı (Antalya, Mersin, Adana) Akdeniz ikliminin en saf hissedildiği yerlerdir; iç kesimlere ve Göller Yöresi'ne geçildikçe karasallık iklimi bozar.</em>"
   },
   {
     "id": "cogr_test_12-q1",
