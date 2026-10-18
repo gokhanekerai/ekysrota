@@ -511,20 +511,28 @@ class EKYSApp {
             badge: '18 Soru Video Test'
           },
           {
-            id: 'tarih4_direct',
-            name: '📜 Genel Tarih Video Tarama Testi 4',
+            id: 'tarih4_1_direct',
+            name: '📜 Tarih 4: Bölüm 1 (İslamiyet Öncesi Teşkilatlanma)',
             icon: '📜',
             desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği (20 Soru).',
-            filterKey: 'tarih4',
+            filterKey: 'tarih4_1',
             badge: '20 Soru Video Test'
           },
           {
-            id: 'tarih_video4_direct',
-            name: '🎥 Genel Tarih 4. Ders: Video İçi Soru Çözümü',
+            id: 'tarih4_2_direct',
+            name: '🏛️ Tarih 4: Bölüm 2 (Türk-İslam Saray & Divan)',
             icon: '🏛️',
-            desc: '4. Ders videosunda çözülen Taşra, Saray, Divanlar, Ordu, Hukuk, İkta ve Ticaret (27 Soru).',
-            filterKey: 'tarih_video4',
-            badge: '27 Soru Video Test'
+            desc: 'Hükümdarlık Alametleri, Saray Teşkilatı, Görevliler ve Divan-ı Saltanat (14 Soru).',
+            filterKey: 'tarih4_2',
+            badge: '14 Soru Video Test'
+          },
+          {
+            id: 'tarih4_3_direct',
+            name: '⚔️ Tarih 4: Bölüm 3 (Taşra, İkta, Ordu & Hukuk)',
+            icon: '⚔️',
+            desc: 'Taşra Görevlileri, İkta Sistemi, Hassa/Gulam Ordusu ve Şer\'i-Örfi Hukuk (13 Soru).',
+            filterKey: 'tarih4_3',
+            badge: '13 Soru Video Test'
           },
           {
             id: 'tarih5_direct',
@@ -559,12 +567,20 @@ class EKYSApp {
             badge: '20 Soru Video Test'
           },
           {
-            id: 'tarih9_direct',
-            name: '📜 Genel Tarih Video Tarama Testi 9',
+            id: 'tarih9_1_direct',
+            name: '📜 Tarih 9: Bölüm 1 (Bilim, Edebiyat & İlk Eserler)',
             icon: '📜',
-            desc: '1. ve 2. Beylikler Dönemi, Türkiye Selçukluları, Divanlar ve Mimari (24 Soru).',
-            filterKey: 'tarih9',
-            badge: '24 Soru Video Test'
+            desc: 'Türk-İslam Bilim İnsanları, Kutadgu Bilig, Divan-ı Lügati\'t-Türk ve Kültür (12 Soru).',
+            filterKey: 'tarih9_1',
+            badge: '12 Soru Video Test'
+          },
+          {
+            id: 'tarih9_2_direct',
+            name: '📜 Tarih 9: Bölüm 2 (Türkiye Selçukluları & Ahilik)',
+            icon: '📜',
+            desc: 'Anadolu Selçukluları Teşkilatı, Beylikler, Ahilik, Ticaret ve Mimari (12 Soru).',
+            filterKey: 'tarih9_2',
+            badge: '12 Soru Video Test'
           },
           {
             id: 'tarih10_direct',
@@ -694,20 +710,28 @@ class EKYSApp {
             badge: '18 Soru'
           },
           {
-            id: 'tarih4',
-            name: 'Genel Tarih Video Tarama Testi 4',
+            id: 'tarih4_1',
+            name: 'Genel Tarih 4 (Bölüm 1: İslamiyet Öncesi Teşkilatlanma)',
             icon: '📜',
             desc: 'İlk Türk Devletleri Teşkilatlanma, Boylar Birliği, Toplum ve İdare Geleneği.',
-            filterKey: 'tarih4',
+            filterKey: 'tarih4_1',
             badge: '20 Soru'
           },
           {
-            id: 'tarih_video4',
-            name: 'Genel Tarih 4. Ders: Video İçi Soru Çözümü',
+            id: 'tarih4_2',
+            name: 'Genel Tarih 4 (Bölüm 2: Türk-İslam Saray & Divan)',
             icon: '🏛️',
-            desc: '4. Ders videosunda çözülen Taşra, Saray, Divanlar, Ordu, Hukuk, İkta ve Ticaret.',
-            filterKey: 'tarih_video4',
-            badge: '27 Soru'
+            desc: 'Hükümdarlık Alametleri, Saray Teşkilatı, Görevliler ve Divan-ı Saltanat.',
+            filterKey: 'tarih4_2',
+            badge: '14 Soru'
+          },
+          {
+            id: 'tarih4_3',
+            name: 'Genel Tarih 4 (Bölüm 3: Taşra, İkta, Ordu & Hukuk)',
+            icon: '⚔️',
+            desc: 'Taşra Görevlileri, İkta Sistemi, Hassa/Gulam Ordusu ve Şer\'i-Örfi Hukuk.',
+            filterKey: 'tarih4_3',
+            badge: '13 Soru'
           },
           {
             id: 'tarih5',
@@ -742,12 +766,20 @@ class EKYSApp {
             badge: '20 Soru'
           },
           {
-            id: 'tarih9',
-            name: 'Genel Tarih Video Tarama Testi 9 (Türkiye Tarihi & Selçuklular)',
+            id: 'tarih9_1',
+            name: 'Genel Tarih 9: Bölüm 1 (Bilim, Edebiyat & İlk Eserler)',
             icon: '📜',
-            desc: '1. ve 2. Beylikler Dönemi, Türkiye Selçuklu Devleti, Divanlar, Mimari ve Sosyoekonomik Hayat.',
-            filterKey: 'tarih9',
-            badge: '24 Soru'
+            desc: 'Türk-İslam Bilim İnsanları, Kutadgu Bilig, Divan-ı Lügati\'t-Türk ve Kültür.',
+            filterKey: 'tarih9_1',
+            badge: '12 Soru'
+          },
+          {
+            id: 'tarih9_2',
+            name: 'Genel Tarih 9: Bölüm 2 (Türkiye Selçukluları & Ahilik)',
+            icon: '📜',
+            desc: 'Anadolu Selçuklu Devleti, Beylikler Dönemi, Ahilik, Ticaret ve Mimari.',
+            filterKey: 'tarih9_2',
+            badge: '12 Soru'
           },
           {
             id: 'tarih10',
@@ -1695,12 +1727,20 @@ class EKYSApp {
             badge: '20 Soru • Video Test 3'
           },
           {
-            id: 'egitim_video_test_4_eb',
-            name: '🎯 Eğitim Bilimleri Video Tarama Testi 4',
+            id: 'egitim_video_test_4_1_eb',
+            name: '🎯 Video Tarama 4: Bölüm 1 (Felsefi Akımlar)',
             icon: '🎯',
-            desc: 'Felsefe Alanları, Eğitim Felsefeleri (Daimicilik, Esasicilik, İlerlemecilik) & İhtiyaç Belirleme (30 Soru).',
-            filterKey: 'egitim_video_test_4',
-            badge: '30 Soru • Video Test 4'
+            desc: 'Felsefe Alanları, İdealizm, Realizm, Pragmatizm, Varoluşçuluk ve Eğitim Felsefeleri (15 Soru).',
+            filterKey: 'egitim_video_test_4_1',
+            badge: '15 Soru • Video Test 4.1'
+          },
+          {
+            id: 'egitim_video_test_4_2_eb',
+            name: '🎯 Video Tarama 4: Bölüm 2 (İhtiyaç Belirleme)',
+            icon: '🎯',
+            desc: 'Program Geliştirme İhtiyaç Belirleme Yaklaşımları & Teknikleri (Delphi, DACUM vb.) (15 Soru).',
+            filterKey: 'egitim_video_test_4_2',
+            badge: '15 Soru • Video Test 4.2'
           },
           {
             id: 'egitim_video_test_5_eb',
@@ -2661,12 +2701,20 @@ class EKYSApp {
             badge: '20 Soru • Video Test 3'
           },
           {
-            id: 'egitim_video_test_4',
-            name: '🎯 Eğitim Bilimleri Video Tarama Testi 4',
+            id: 'egitim_video_test_4_1',
+            name: '🎯 Video Tarama 4: Bölüm 1 (Felsefi Akımlar)',
             icon: '🎯',
-            desc: 'Felsefe Alanları, Eğitim Felsefeleri (Daimicilik, Esasicilik, İlerlemecilik) & İhtiyaç Belirleme (30 Soru).',
-            filterKey: 'egitim_video_test_4',
-            badge: '30 Soru • Video Test 4'
+            desc: 'Felsefe Alanları, İdealizm, Realizm, Pragmatizm, Varoluşçuluk ve Eğitim Felsefeleri (15 Soru).',
+            filterKey: 'egitim_video_test_4_1',
+            badge: '15 Soru • Video Test 4.1'
+          },
+          {
+            id: 'egitim_video_test_4_2',
+            name: '🎯 Video Tarama 4: Bölüm 2 (İhtiyaç Belirleme)',
+            icon: '🎯',
+            desc: 'Program Geliştirme İhtiyaç Belirleme Yaklaşımları & Teknikleri (Delphi, DACUM vb.) (15 Soru).',
+            filterKey: 'egitim_video_test_4_2',
+            badge: '15 Soru • Video Test 4.2'
           },
           {
             id: 'egitim_video_test_5',
@@ -2993,13 +3041,15 @@ class EKYSApp {
       if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
       if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
       if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');
-      if (filterKey === 'egitim_video_test_4') return (q.testId === 'egitim_video_test_4' || tId === 'egitim_video_test_4');
+      if (filterKey === 'egitim_video_test_4_1') return (q.testId === 'egitim_video_test_4_1' || tId === 'egitim_video_tarama_4_1');
+      if (filterKey === 'egitim_video_test_4_2') return (q.testId === 'egitim_video_test_4_2' || tId === 'egitim_video_tarama_4_2');
+      if (filterKey === 'egitim_video_test_4') return (q.testId === 'egitim_video_test_4_1' || q.testId === 'egitim_video_test_4_2' || q.testId === 'egitim_video_test_4');
       if (filterKey === 'egitim_video_test_5') return (q.testId === 'egitim_video_test_5' || tId === 'egitim_video_test_5');
       if (filterKey === 'egitim_video_test_6') return (q.testId === 'egitim_video_test_6' || tId === 'egitim_video_test_6');
       if (filterKey === 'egitim_video_test_7') return (q.testId === 'egitim_video_test_7' || tId === 'egitim_video_test_7');
       if (filterKey === 'egitim_video_test_8') return (q.testId === 'egitim_video_test_8' || tId === 'egitim_video_test_8');
       if (filterKey === 'egitim_video_tarama_tum' || filterKey === 'egitim_video_tarama') {
-        return ['egitim_video_test_1', 'egitim_video_test_2', 'egitim_video_test_3', 'egitim_video_test_4', 'egitim_video_test_5', 'egitim_video_test_6', 'egitim_video_test_7', 'egitim_video_test_8'].includes(q.testId) || (q.testId && q.testId.startsWith('egitim_video_test_'));
+        return (q.testId && q.testId.startsWith('egitim_video_test_'));
       }
       if (filterKey === 'egitim_program_okuryazarligi' || filterKey === 'egitim_prog_gel_1' || filterKey === 'prog_gel_test_1') {
         return (q.testId === 'egitim_program_okuryazarligi' || q.testId === 'egitim_prog_gel_1' || tId === 'egitim_program_okuryazarligi' || (tName.includes('program okuryazarlığı') || (tName.includes('program geliştirme') && tName.includes('1'))));
@@ -3042,18 +3092,23 @@ class EKYSApp {
       if (filterKey === 'tarih1') return (q.testId === 'tarih1' || tId === 'tarih_tarama_1' || (tName.includes('tarama 1') && tName.includes('tarih')));
       if (filterKey === 'tarih2') return (q.testId === 'tarih2' || tId === 'tarih_tarama_2' || (tName.includes('tarama 2') && tName.includes('tarih')));
       if (filterKey === 'tarih3') return (q.testId === 'tarih3' || tId === 'tarih_tarama_3' || (tName.includes('tarama 3') && tName.includes('tarih')));
-      if (filterKey === 'tarih4') return (q.testId === 'tarih4' || tId === 'tarih_tarama_4' || (tName.includes('tarama 4') && tName.includes('tarih')));
+      if (filterKey === 'tarih4_1') return (q.testId === 'tarih4_1' || tId === 'tarih_tarama_4_1');
+      if (filterKey === 'tarih4_2') return (q.testId === 'tarih4_2' || tId === 'tarih_tarama_4_2');
+      if (filterKey === 'tarih4_3') return (q.testId === 'tarih4_3' || tId === 'tarih_tarama_4_3');
+      if (filterKey === 'tarih4') return (q.testId === 'tarih4_1' || q.testId === 'tarih4_2' || q.testId === 'tarih4_3' || q.testId === 'tarih4');
       if (filterKey === 'tarih5') return (q.testId === 'tarih5' || tId === 'tarih_tarama_5' || (tName.includes('tarama 5') && tName.includes('tarih')));
       if (filterKey === 'tarih6') return (q.testId === 'tarih6' || tId === 'tarih_tarama_6' || (tName.includes('tarama 6') && tName.includes('tarih')));
       if (filterKey === 'tarih7') return (q.testId === 'tarih7' || tId === 'tarih_tarama_7' || (tName.includes('tarama 7') && tName.includes('tarih')));
       if (filterKey === 'tarih8') return (q.testId === 'tarih8' || tId === 'tarih_tarama_8' || (tName.includes('tarama 8') && tName.includes('tarih')));
-      if (filterKey === 'tarih9') return (q.testId === 'tarih9' || tId === 'tarih_tarama_9' || (tName.includes('tarama 9') && tName.includes('tarih')));
+      if (filterKey === 'tarih9_1') return (q.testId === 'tarih9_1' || tId === 'tarih_tarama_9_1');
+      if (filterKey === 'tarih9_2') return (q.testId === 'tarih9_2' || tId === 'tarih_tarama_9_2');
+      if (filterKey === 'tarih9') return (q.testId === 'tarih9_1' || q.testId === 'tarih9_2' || q.testId === 'tarih9');
       if (filterKey === 'tarih10' || filterKey === 'tarih_turkiye') return (q.testId === 'tarih10' || tId === 'tarih_turkiye' || tName.includes('tarih 10'));
       if (filterKey === 'tarih11' || filterKey === 'tarih_osmanli_1') return (q.testId === 'tarih11' || tId === 'tarih_osmanli_1' || tName.includes('tarih 11'));
       if (filterKey === 'tarih12' || filterKey === 'tarih_osmanli_2') return (q.testId === 'tarih12' || tId === 'tarih_osmanli_2' || tName.includes('tarih 12'));
       if (filterKey === 'tarih13' || filterKey === 'tarih_osmanli_3') return (q.testId === 'tarih13' || tId === 'tarih_osmanli_3' || tName.includes('tarih 13'));
-      if (filterKey === 'tarih_video4') return (q.testId === 'tarih_video4' || tId === 'tarih_video4');
-      if (filterKey === 'tarih_tarama') return (q.testId === 'tarih1' || q.testId === 'tarih2' || q.testId === 'tarih3' || q.testId === 'tarih4' || q.testId === 'tarih5' || q.testId === 'tarih6' || q.testId === 'tarih7' || q.testId === 'tarih8' || q.testId === 'tarih9' || q.testId === 'tarih10' || q.testId === 'tarih11' || q.testId === 'tarih12' || q.testId === 'tarih13' || q.testId === 'tarih_video4' || tId.startsWith('tarih_tarama') || tId.startsWith('tarih_osmanli'));
+      if (filterKey === 'tarih_video4') return (q.testId === 'tarih4_2' || q.testId === 'tarih4_3' || q.testId === 'tarih_video4');
+      if (filterKey === 'tarih_tarama') return (q.testId && (q.testId.startsWith('tarih') || q.testId.startsWith('tarih_video')));
 
       // 2. Yıl + Konu Bazlı Çıkmış Soru Filtreleri (Örn: ekys_2024_mevzuat_222, ekys_2023_cogr, ekys_2025_tarih)
       const yrMatch = filterKey.match(/^ekys_(\d{4})_(.+)$/);
