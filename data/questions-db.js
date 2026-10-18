@@ -46385,33 +46385,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 1)",
+    "questionText": "Kayaçların toprak hâline gelmesinde fiziksel ve kimyasal yollarla çözülme etkilidir.<br><br>Yukarıdaki Türkiye haritasında işaretli alanların hangileri kimyasal ve fiziksel çözülmenin <strong>daha fazla</strong> etkili olduğu alanlardır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q1.png",
+    "image": "assets/questions/cogr_test_14_q1_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kimyasal: I / Fiziksel: II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kimyasal: II / Fiziksel: III"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kimyasal: III / Fiziksel: IV"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kimyasal: IV / Fiziksel: V"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kimyasal: IV / Fiziksel: III"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nZonal (Yerli) Topraklar, anakayanın iklim ve bitki örtüsü etkisiyle yerinde ayrışmasıyla oluşan ve A, B, C horizonlarının tümünü içeren topraklardır.\n• **Terra-Rossa, Kahverengi Orman, Podzol, Çernezyom, Kestane/Kahverengi Bozkır (Step), Tundra, Laterit** zonal topraklardır.\n• Alüvyal, Kolüvyal, Regosol, Litosol ise **Azonal (Taşınmış)** topraklardır.\n\n❌ **Çeldiriciler:**\n• Alüvyal topraklar akarsu taşımasıyla oluştuğu için horizonlaşma göstermez (Azonaldir)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Kimyasal: IV / Fiziksel: III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Kimyasal Çözülme:</strong> Suyun ve sıcaklığın bol olduğu, nemli ve yağışlı kıyı bölgelerinde kayaçların mineralleri eriyerek kimyasal olarak parçalanır. Haritada <strong>IV numara (Doğu Karadeniz kıyıları - Rize/Trabzon çevresi)</strong> Türkiye'de yıllık yağış miktarının ve nemliliğin en yüksek olduğu yer olduğu için kimyasal çözülmenin en şiddetli olduğu sahadır.<br>• <strong>Fiziksel (Mekanik) Çözülme:</strong> Nem oranının düşük, günlük ve yıllık sıcaklık farklarının yüksek olduğu kurak ve karasal iç kesimlerde kayaçların ısınıp genleşmesi ve soğuyup büzüşmesiyle oluşur. Haritada <strong>III numara (Tuz Gölü ve Konya Havzası)</strong> kuraklığın ve sıcaklık farklarının en yüksek olduğu alan olduğu için mekanik parçalanma maksimumdur.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (Ergene Havzası):</strong> Karasal özellik taşır ancak kuraklık derecesi İç Anadolu kadar şiddetli değildir.<br>• <strong>II Numara (Kıyı Ege / İzmir):</strong> Akdeniz iklimi nemlidir fakat Karadeniz kadar kesintisiz kimyasal çözülme görülmez.<br>• <strong>V Numara (Hakkâri / Güneydoğu Sınırı):</strong> Yüksek dağlık karasaldır, donma-çözülme etkilidir fakat en belirgin kimyasal-fiziksel zıt çift IV ve III'tür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM sorularında 'Kimyasal çözülme' sorulduğunda doğrudan Doğu Karadeniz ve Akdeniz kıyıları; 'Fiziksel / mekanik parçalanma' sorulduğunda ise İç Anadolu (Konya/Tuz Gölü) ve Doğu Anadolu karasal alanları aranmalıdır.</em>"
   },
   {
     "id": "cogr_test_14-q2",
@@ -46422,33 +46422,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 2)",
+    "questionText": "Ana kayada kimyasal parçalanmanın yoğun olduğu yerlerde toprak oluşumu daha hızlıdır.<br><br>Buna göre, Türkiye haritasında numaralandırılarak verilen merkezlerin hangisinde <strong>toprak oluşumu daha hızlı</strong> gerçekleşir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q2.png",
+    "image": "assets/questions/cogr_test_14_q2_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\n**Terra-Rossa (Kırmızı Akdeniz Toprakları)**, Akdeniz iklim bölgesinde kalker (kireç taşı) arazisi üzerinde oluşur. Bileşimindeki demir oksit (Fe2O3) nedeniyle kırmızı renklidir. Kireç oranı yüksek, organik maddece orta/fakirdir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Toprak oluşum hızını belirleyen en temel faktör, iklim koşulları ve özellikle <strong>nem ile yağış miktarının fazlalığına bağlı kimyasal çözülmedir</strong>. Kimyasal çözülmenin hızlı olduğu yerlerde ana kaya çok daha kısa sürede ayrışır ve toprak tabakası hızla kalınlaşır.<br>Haritada <strong>III numara (Orta/Doğu Karadeniz kıyı kuşağı - Ordu/Giresun)</strong> yıl boyu düzenli ve bol yağış aldığı için kimyasal parçalanma en yüksektir ve toprak oluşumu diğer tüm merkezlerden çok daha hızlı gerçekleşir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I Numara (Ergene):</strong> Yarı kurak karasal iklim nedeniyle kimyasal çözülme yavaştır.<br>• <strong>II Numara (Tuz Gölü çevresi):</strong> Kuraklık ve nem azlığı sebebiyle toprak oluşumu en yavaş olan alanlardandır.<br>• <strong>IV Numara (Erzurum-Kars çevresi):</strong> Soğuk iklim ve kışların çok uzun sürmesi nedeniyle kimyasal parçalanma yavaştır.<br>• <strong>V Numara (Güneydoğu Anadolu - İskenderun/Kilis hattı):</strong> Yaz kuraklığı ve şiddetli buharlaşma kimyasal çözülmeyi sınırlar.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de toprak oluşumunun en hızlı olduğu bölge Karadeniz kıyı kuşağı; en yavaş olduğu bölge ise kuraklık nedeniyle İç ve Güneydoğu Anadolu ile aşırı soğuk nedeniyle Kuzeydoğu Anadolu'dur.</em>"
   },
   {
     "id": "cogr_test_14-q3",
@@ -46459,33 +46459,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q3.png",
+    "questionText": "Aşağıdaki topraklardan hangisi, <strong>zonal topraklardan biri değildir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Laterit"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Podzol"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Terra rossa"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Rendzina"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Çernezyom"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\n**Çernezyom (Kara Topraklar)**, sert karasal iklim bölgelerinde, yaz yağışlarıyla yeşeren gür dağ çayırları altında oluşur. Humus bakımından Türkiye'nin ve dünyanın en zengin, en verimli zonal toprağıdır. Türkiye'de **Erzurum-Kars ve Ardahan platolarında** yaygındır.\n\n❌ **Çeldiriciler:**\n• Kahverengi orman Karadeniz'de, Podzol Batı Karadeniz yükseklerinde, Terra-Rossa Akdeniz'dedir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Rendzina)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Topraklar oluşumlarına göre üçe ayrılır:<br>1. <strong>Zonal (Yerli) Topraklar:</strong> Bulundukları yerin iklimi ve bitki örtüsüne bağlı oluşan, tam horizonlu (A, B, C) topraklardır (Laterit, Podzol, Terra-Rossa, Çernezyom, Kahverengi Orman, Kahverengi/Kestane Step, Tundra).<br>2. <strong>İntrazonal Topraklar:</strong> Ana kaya ve topoğrafya (yerel morfolojik) şartlara bağlı oluşan topraklardır (Kalsimorfik: Vertisol, <strong>Rendzina</strong>; Halomorfik: Tuzlu; Hidromorfik: Bataklık).<br>3. <strong>Azonal (Taşınmış) Topraklar:</strong> Dış kuvvetlerin taşıyıp biriktirdiği horizonsuz topraklardır (Alüvyal, Kolüvyal, Litosol, Regosol, Lös, Moren).<br><strong>Rendzina</strong>, yumuşak kireç taşları (marn ve tebeşir) üzerinde oluşan bir <em>kalsimorfik intrazonal</em> topraktır; zonal toprak değildir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Laterit:</strong> Sıcak ve aşırı nemli ekvatoral bölgenin zonal toprağıdır.<br>• <strong>Podzol:</strong> Soğuk ve nemli iğne yapraklı orman bölgesinin zonal toprağıdır.<br>• <strong>Terra rossa:</strong> Akdeniz iklim bölgesinin zonal toprağıdır.<br>• <strong>Çernezyom:</strong> Sert karasal iklim dağ çayırlarının zonal toprağıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM toprak sınıflandırmasında özellikle 'Vertisol' ve 'Rendzina'nın İNTRAZONAL (kalsimorfik) olduğunu sıklıkla çeldirici olarak sorar.</em>"
   },
   {
     "id": "cogr_test_14-q4",
@@ -46496,33 +46496,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 4)",
+    "questionText": "İklim özelliklerinin etkisiyle topraklar çeşitlenir.<br><br>Yukarıdaki Türkiye haritasında işaretli merkezlerin hangisinde bulunan topraklarda, <strong>tuz ve kireç birikimi daha azdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q4.png",
+    "image": "assets/questions/cogr_test_14_q4_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Kahverengi Orman Toprakları**, ılıman ve nemli iklim bölgelerinde geniş yapraklı ve karışık orman örtüsü altında oluşur. Yıkanma yeterlidir, humusça zengindir ve tarımsal verimi yüksektir. Türkiye'de en yaygın **Karadeniz Bölgesi ve Marmara'nın nemli yamaçlarında** görülür."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Topraktaki tuz ve kireç oranı, doğrudan <strong>yağış miktarı ve yıkanma şiddeti</strong> ile ters orantılıdır. Bol yağış alan yerlerde sızan sular mineralleri, tuzu ve kireci alt katmanlara taşıyarak toprağı yıkar; bu nedenle nemli orman alanlarında tuz ve kireç birikimi minimumdur.<br>Haritada <strong>II numara (Batı Karadeniz - Zonguldak/Bartın/Kastamonu kıyı kuşağı)</strong> her mevsim bol yağış alan, gür orman örtüsü ve yoğun yıkanmanın yaşandığı bir bölge olduğu için toprağında tuz ve kireç birikimi en azdır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I Numara (Ergene Havzası):</strong> Yarı kurak karasal iklim nedeniyle yıkanma yetersizdir.<br>• <strong>III Numara (Tuz Gölü / İç Anadolu):</strong> Yağışın en az ve buharlaşmanın yüksek olduğu yerdir; tuz ve kireç oranı çok yüksektir.<br>• <strong>IV Numara (Göller Yöresi / Burdur):</strong> Karstik kalkerli yapı nedeniyle kireç oranı fazladır.<br>• <strong>V Numara (Iğdır Ovası):</strong> Çevresine göre çukurda kalan kurak mikroklima alanıdır; tuzlanma ve kireç birikimi yüksektir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Tuz ve kireç oranı en az / yıkanma en fazla' denildiğinde daima Karadeniz kıyıları; 'tuz ve kireç birikimi en fazla / yıkanma en az' denildiğinde ise Tuz Gölü çevresi ve Güneydoğu Anadolu aranmalıdır.</em>"
   },
   {
     "id": "cogr_test_14-q5",
@@ -46533,33 +46533,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q5.png",
+    "questionText": "Türkiye'de <strong>en geniş alanda</strong> bulunan toprak tipi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Terra rossa"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kestane ve kahverengi bozkır toprakları"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Çernezyom"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kahverengi orman toprakları"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Podzol"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Podzol Topraklar**, soğuk ve çok nemli iklim bölgelerinde iğne yapraklı ormanlar (tayga) altında oluşur. Aşırı yıkanma nedeniyle mineral ve besin maddeleri alt katmana taşınmış, rengi kül rengine/boza dönmüş verimsiz ve asidik topraklardır. Türkiye'de **Batı Karadeniz'in (Bolu, Kastamonu) ve Doğu Karadeniz'in yüksek kesimlerinde** görülür."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kestane ve kahverengi bozkır toprakları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bir ülkede en geniş yer kaplayan toprak tipi, o ülkede en geniş alana yayılan iklim tipinin bir sonucudur. Türkiye arazisinin yaklaşık %60'ından fazlasında yarı kurak <strong>ılıman karasal (step) iklimi</strong> ve bozkır bitki örtüsü hakimdir.<br>Bu nedenle İç Anadolu, Doğu Anadolu'nun çöküntü havzaları, Güneydoğu Anadolu ve İç Ege platolarını kaplayan <strong>Kestane ve Kahverengi Bozkır (Step) Toprakları</strong> Türkiye'de kapsadığı alan bakımından birinci sıradadır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Terra rossa:</strong> Yalnızca Akdeniz iklim bölgesinde (kalker üzerinde) lokaldir.<br>• <strong>Çernezyom:</strong> Sadece Kuzeydoğu Anadolu'da (Erzurum-Kars-Ardahan) sınırlıdır.<br>• <strong>Kahverengi orman:</strong> Karadeniz ve Marmara'nın ormanlık yamaçlarında bulunur.<br>• <strong>Podzol:</strong> Yalnızca Batı ve Doğu Karadeniz'in yüksek iğne yapraklı dağ kuşaklarında dar alandadır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'nin en yaygın bitki örtüsü 'Bozkır (Step)', en yaygın iklimi 'Ilıman Karasal', en yaygın toprak türü ise 'Kahverengi ve Kestane Bozkır Toprakları'dır.</em>"
   },
   {
     "id": "cogr_test_14-q6",
@@ -46570,33 +46570,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q6.png",
+    "questionText": "Türkiye'de aşağıdaki topraklardan hangisinin oluşumunda, <strong>mutlak konumun sonucu</strong> daha fazla etkilidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Terra rossa"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Bozkır toprağı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Alüvyal"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Lös"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Litoseller"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Bozkır (Step) Toprakları (Kahverengi ve Kestane Renkli)**, Türkiye'de en geniş alana yayılan zonal toprak türüdür. Yarı kurak karasal iklim bölgelerinde (İç Anadolu, Doğu Anadolu, Güneydoğu Anadolu, İç Ege) bozkır örtüsü altında oluşur. Yıkanma az olduğu için kireç ve tuz birikimi fazladır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Terra rossa)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Mutlak (Matematiksel) Konum:</strong> Türkiye'nin 36°-42° Kuzey paralellerinde, yani <strong>Orta Kuşak'ta ve subtropikal Akdeniz iklim kuşağında</strong> yer almasıdır.<br>• <strong>Terra rossa (Kırmızı Akdeniz Toprağı)</strong>, karakteristik olarak yalnızca Akdeniz iklim bölgesinde kalker kayaçları üzerinde oluşur. Türkiye'de Akdeniz ikliminin görülmesi ise tamamen Türkiye'nin matematiksel (orta kuşak / mutlak) konumunun bir sonucudur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Bozkır toprağı:</strong> Karasallık ve etrafın dağlarla çevrili olması (özel konum) ile daha çok şekillenir.<br>• <strong>Alüvyal toprak:</strong> Akarsu aşındırma ve biriktirmesi sonucu oluşur (dış kuvvet / göreceli konum).<br>• <strong>Lös:</strong> Rüzgar biriktirmesidir (göreceli konum).<br>• <strong>Litosel:</strong> Dağlık eğimli arazide taşlı döküntüdür (topoğrafya / göreceli konum).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM sınavlarında 'Akdeniz İklimi', 'Maki bitki örtüsü' ve 'Terra-Rossa toprakları' Türkiye'nin ORTA KUŞAKTA (Mutlak Konumda) yer almasının doğrudan kanıtları olarak sorulur.</em>"
   },
   {
     "id": "cogr_test_14-q7",
@@ -46607,33 +46607,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 7)",
+    "questionText": "Topraklar ana kaya üzerinde bulundukları alanların iklim özelliklerine göre oluşurlar ve o bölgenin iklim özelliklerini yansıtırlar.<br><br>Buna göre haritada işaretli alanların hangisindeki toprak, <strong>bulunduğu bölgenin iklim özelliğini yansıtmaz</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q7.png",
+    "image": "assets/questions/cogr_test_14_q7_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nİntrazonal Topraklar anakaya ve topoğrafya (yerel şartlar) etkisiyle oluşan topraklardır:\n1. **Halomorfik:** Tuzlu topraklar (Tuz Gölü çevresi),\n2. **Hidromorfik:** Bataklık ve sazlık alan toprakları (Çukurova, Çarşamba tabanları),\n3. **Kalsimorfik:** Kireçli topraklar:\n   • **Vertisol (Dönen toprak / Taş doğuran / Kepir / Karakepir):** Killi kireçli killi arazilerde oluşur (Trakya - Ergene Havzası, Bursa, Muş).\n   • **Rendzina:** Yumuşak kireçtaşı üzerinde oluşur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Zonal (yerli) topraklar ana kayanın yerinde ayrışmasıyla oluştuğundan oluştukları bölgenin iklimini ve bitki örtüsünü doğrudan yansıtır. Ancak <strong>Azonal (Taşınmış) topraklar</strong> akarsu, rüzgar veya buzulların başka sahalardan taşıyıp biriktirdiği materyallerden oluştuğu için <em>bulundukları yörenin iklimini yansıtmazlar</em> ve katmanlaşma (horizon) göstermezler.<br>Haritada <strong>II numara (Çukurova Deltası)</strong> Seyhan ve Ceyhan nehirlerinin yüzlerce kilometre öteden (İç ve Doğu Anadolu'dan) getirdiği <strong>Alüvyal topraklarla</strong> kaplıdır. Bu nedenle bulunduğu yerin iklim özelliğini yansıtmaz.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (Teke Yöresi):</strong> Akdeniz iklimini yansıtan yerli Terra-Rossa toprağıdır.<br>• <strong>III Numara (Hakkâri Yöresi):</strong> Sert dağ iklimi taşlı/kahverengi topraklarıdır.<br>• <strong>IV Numara (Erzurum-Kars):</strong> Sert karasal iklimi yansıtan zonal Çernezyom toprağıdır.<br>• <strong>V Numara (Kastamonu/Ilgaz):</strong> Karadeniz nemli iklimini yansıtan zonal orman toprağıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Delta ovalarında (Çukurova, Bafra, Çarşamba, Silifke, Menemen) yer alan topraklar Alüvyal (azonal) topraklardır; bu topraklar anakayanın yapısını ve o yörenin iklimini asla yansıtmaz!</em>"
   },
   {
     "id": "cogr_test_14-q8",
@@ -46644,33 +46644,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q8.png",
+    "questionText": "Ana kaya üzerinde çözülme sonucunda oluşan topraklarda, horizonlar ortaya çıkar.<br><br>Türkiye'de görülen aşağıdaki toprakların hangisinde, <strong>horizonlar gelişmemiştir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Alüvyal"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Podzol"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Terra rossa"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çernezyom"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kahverengi orman toprakları"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Vertisol Topraklar** (Dönen Toprak / Taş Doğuran / Kepir), killi anakaya üzerinde oluşur. Kurak yaz döneminde çatlar ve içine dökülen topraklar, yağışlı kış döneminde şişerek yukarı doğru itilir ve yüzeye taşlar çıkar. Türkiye'de en çok **Trakya'da (Ergene Havzası)** görülür ve ayçiçeği ile buğday tarımına çok uygundur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Alüvyal)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Toprak horizonları (A, B, C, D katmanları), ana kayanın yerinde ayrışması ve zaman içinde üst katmandan alt katmana yıkanma/birikme süreçlerinin işlemesiyle ortaya çıkar. Bu durum sadece <strong>Zonal (Yerli) topraklarda</strong> tam olarak gelişir.<br><strong>Alüvyal topraklar</strong> ise akarsuların taşıdığı tortulların sürekli üst üste yığılmasıyla (azonal/taşınmış) oluşur. Toprak sürekli yeni alüvyonlarla beslendiği ve yerinde ayrışmadığı için <strong>horizonlaşma süreci gerçekleşemez</strong>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Podzol:</strong> A, B, C horizonları belirgin zonal topraktır.<br>• <strong>Terra rossa:</strong> A ve B horizonları gelişmiş zonal Akdeniz toprağıdır.<br>• <strong>Çernezyom:</strong> Kalın A horizonuna sahip çok gelişmiş zonal topraktır.<br>• <strong>Kahverengi orman:</strong> Tam horizonlaşma gösteren zonal orman toprağıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Horizonları gelişmemiş topraklar' sorulduğunda daima taşınmış (Azonal) topraklar aranmalıdır: Alüvyal, Kolüvyal, Regosol, Litosol, Lös ve Moren.</em>"
   },
   {
     "id": "cogr_test_14-q9",
@@ -46681,33 +46681,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 9)",
+    "questionText": "Killi ana kaya üzerinde oluşan ve ayçiçeği tarımının yoğun olduğu yerlerdeki bu topraklar; dönen toprak olarak ifade edilir. Halk arasında \"Kepir, Taş Doğuran\" olarak da anılır.<br><br>Yukarıda ifade edilen <strong>vertisoller</strong> haritada işaretli alanların hangisinde görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q9.png",
+    "image": "assets/questions/cogr_test_14_q9_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "IV ve V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ **Doğru Cevap: D**\n\n📌 **Açıklama:**\n**Rendzina Toprakları**, yumuşak kireç taşları (marn ve tebeşirli depolar) üzerinde gelişen kalsimorfik intrazonal topraklardır. Kireç oranı yüksektir; Marmara, Ege ve Akdeniz'de lokal olarak görülür."
+    "explanation": "Doğru Cevap: <strong>D</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Vertisoller (Kalsimorfik İntrazonal Topraklar):</strong><br>• Eski göl tabanlarındaki killi kireçli tortullarda oluşur.<br>• Kurak yaz aylarında killi yapı derin yarıklarla çatlar; çatlaklara yüzeydeki taş ve topraklar dökülür. Yağışlı kış aylarında kil şişer ve alttaki taşları yukarı doğru püskürtür. Bu nedenle <strong>'Taş Doğuran'</strong> veya <strong>'Dönen Toprak (Vertisol)'</strong>, Trakya'da ise <strong>'Karakepir / Kepir'</strong> denir.<br>• Türkiye'de en yaygın bulunduğu alanlar: <strong>I Numara (Trakya - Ergene Havzası)</strong> ve <strong>III Numara (Konya Kapalı Havzası / Eski göl tabanı)</strong> ile Muş Ovası ve Bursa Ovası'dır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>II Numara (Küre Dağları):</strong> Kireçsiz kahverengi orman ve podzol arazisidir.<br>• <strong>IV Numara (Taşeli Platosu kıyısı):</strong> Karstik Terra-Rossa ve kalker kayalıklarıdır.<br>• <strong>V Numara (Doğu Karadeniz yaylaları):</strong> Asidik orman ve dağ çayırı topraklarıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM'nin en sevdiği toprak sorularından biridir: 'Dönen toprak / Kepir / Taş doğuran / Ayçiçeği tarımı' anahtar kelimeleri doğrudan Ergene Havzası (Trakya) ve Konya Ovası Vertisollerini işaret eder.</em>"
   },
   {
     "id": "cogr_test_14-q10",
@@ -46718,33 +46718,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q10.png",
+    "questionText": "Türkiye'de Kuzey Anadolu Dağları ile Marmara Denizi çevresindeki dağlık alanlarda yaprak döken ağaçların oluşturduğu ormanların altında görülür. Humus bakımından zengin, verimli ve koyu renkte olan bu topraklar tarım açısından oldukça elverişlidir.<br><br>Yukarıda temel özellikleri verilen toprak türü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kahverengi-kestane step toprağı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kestane-kahverengi orman toprağı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Lateritik topraklar"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Podzol toprağı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Vertisol toprağı"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nAzonal (Taşınmış) Topraklar:\n• **Alüvyal:** Akarsuların taşıdığı (en verimli, deltalar ve vadi tabanları)\n• **Kolüvyal:** Dağ yamaçlarından yerçekimi ve sel sularıyla eteklerde biriken\n• **Litosol:** Kolüvyal depoların ince unsurlarının süpürülmesiyle kalan taşlı topraklar\n• **Regosol:** Volkanik kumlu arazilerde veya akarsu kum depolarında oluşan topraklar (Nevşehir, Ağrı, Manisa-Kula)\n• **Lös:** Rüzgar taşıması\n• **Moren:** Buzul taşıması"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kestane-kahverengi orman toprağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Orta kuşağın nemli ılıman iklim sahalarında, özellikle <strong>geniş yapraklı ve karışık orman örtüsü</strong> (kayın, gürgen, meşe, kestane) altında gelişen topraklara <strong>Kahverengi Orman Toprakları</strong> denir.<br>Yaprak döküntülerinin düzenli ayrışması sonucu humus oranı oldukça yüksektir, rengi koyu kahverengidir ve tarımsal üretkenliği çok fazladır. Türkiye'de en tipik olarak Kuzey Anadolu Dağları'nın denize bakan nemli yamaçları ile Marmara Bölgesi'nin (Yıldız Dağları, Samanlı Dağları) ormanlık alanlarında yaygındır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Step toprağı:</strong> Ağaç altında değil, otsu bozkır altında oluşur; humusça fakirdir.<br>• <strong>Laterit:</strong> Sıcak-aşırı yıkanmış ekvatoral topraktır; Türkiye'de gerçek laterit bulunmaz.<br>• <strong>Podzol:</strong> İğne yapraklı soğuk tayga ormanlarında aşırı yıkanmış, kül renkli ve asidiktir; verimsizdir.<br>• <strong>Vertisol:</strong> Orman altında değil, killi göl tabanı ovalarında oluşur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Geniş yapraklı nemli orman altı + zengin humus + Karadeniz/Marmara' tanımı doğrudan Kahverengi Orman Toprağı'nı verir.</em>"
   },
   {
     "id": "cogr_test_14-q11",
@@ -46755,33 +46755,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 11)",
+    "questionText": "Lösler, rüzgârın taşıyıp biriktirdiği materyaller üzerinde oluşan topraklardır. Mineralce zengin olduğu için lös toprakları verimlidir.<br><br>Buna göre yukarıda Türkiye haritasında numaralandırılmış arazilerin hangisinde <strong>lös toprağı</strong> yaygın görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q11.png",
+    "image": "assets/questions/cogr_test_14_q11_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\n**Alüvyal Topraklar**, akarsuların taşıyıp biriktirdiği mineral zengini malzemelerden oluşur. Farklı ana kayalardan malzeme getirdiği için son derece verimlidir; horizonları (A, B, C) gelişmemiştir. Kıyı deltalarında ve iç vadi tabanlarında bulunur."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Lös Toprakları:</strong> Rüzgârların kurak sahalardan havalandırıp taşıdığı çok ince toz ve mineral parçacıklarının rüzgâr hızının kesildiği alanlarda yığılmasıyla oluşan <em>azonal (taşınmış)</em> topraklardır.<br>• Rüzgâr aşındırma ve biriktirme süreçlerinin Türkiye'de en etkili olabilmesi için bitki örtüsünün seyrek, iklimin kurak ve arazinin düz olması gerekir. Haritada <strong>I numara (İç Batı Anadolu / İç Anadolu düzlükleri)</strong> rüzgâr süpürme ve biriktirmesinin en aktif olduğu sahadır ve lös birikintileri görülür.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>II Numara (Küre Dağları):</strong> Yoğun orman örtüsü rüzgâr biriktirmesine izin vermez.<br>• <strong>III Numara (Mersin/Anamur kıyısı):</strong> Denizel kıyı kuşağıdır, dalga ve akarsu şekilleri hakimdir.<br>• <strong>IV Numara (Doğu Karadeniz):</strong> Aşırı nem ve orman sahasıdır, rüzgar erozyonu ve lös görülmez.<br>• <strong>V Numara (Hakkâri Cilo dağları):</strong> Yüksek buzul ve akarsu topoğrafyasıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Rüzgâr biriktirme toprağı olan 'Lös' ve rüzgâr aşındırma şekilleri Türkiye'de sadece kurak-yarı kurak İç Anadolu ve Güneydoğu platolarında görülebilir.</em>"
   },
   {
     "id": "cogr_test_14-q12",
@@ -46792,33 +46792,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 12)",
+    "questionText": "Podzol topraklar, dağların yüksek kesimlerinde iğne yapraklı ormanların altında oluşur. Kül renkli topraklardır. Yıkanmadan ötürü renkleri açıktır. Asidik reaksiyondaki bu topraklar verimsizdir. Kireç oranı düşüktür.<br><br>Buna göre, yukarıdaki Türkiye haritasında numaralanmış alanların hangisinde <strong>podzol toprağı en yaygındır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q12.png",
+    "image": "assets/questions/cogr_test_14_q12_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "V"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "IV"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Regosol Topraklar**, volkanik tüf, kül ve kumlu depolar üzerinde veya yamaç eteklerindeki kumlu malzemeler üzerinde oluşur. Geçirgenliği yüksektir; bağcılık ve patates tarımına çok uygundur. **Nevşehir-Niğde (Kapadokya) ve Manisa-Kula volkanik yörelerinde** yaygındır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (IV numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Podzol Topraklar:</strong><br>• Soğuk ve aşırı nemli iklim bölgelerinde, özellikle <strong>iğne yapraklı ormanlar (köknar, ladin, sarıçam)</strong> altında oluşur.<br>• Aşırı yıkanma nedeniyle besin maddeleri, kil ve mineraller alt katmanlara sızmıştır. Toprağın üst kısmı kül rengi (boz) bir görünüm alır, asit karakterlidir ve tarımsal verimi düşüktür.<br>• Türkiye'de podzolik toprakların en tipik ve yaygın görüldüğü alan <strong>IV numara (Batı Karadeniz - Bolu, Kastamonu, Ilgaz Dağları ve Küre Dağları'nın yüksek kesimleri)</strong> ile Doğu Karadeniz'in yüksek dağ kuşaklarıdır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>I Numara (Biga Yarımadası):</strong> Akdeniz iklim geçiş kuşağıdır (Terra-Rossa ve Kahverengi orman).<br>• <strong>II Numara (İç Anadolu):</strong> Step toprakları yaygındır.<br>• <strong>III Numara (Doğu Karadeniz iç kesimleri / Çoruh-Kelkit):</strong> Karasal vadi tabanıdır.<br>• <strong>V Numara (Mersin/Silifke):</strong> Kırmızı Akdeniz (Terra-Rossa) ve alüvyal sahadır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM sorularında 'Kül renkli, aşırı yıkanmış, iğne yapraklı orman altı, asidik ve verimsiz toprak' ifadesi doğrudan BATI KARADENİZ PODZOL TOPRAKLARI'nı işaret eder.</em>"
   },
   {
     "id": "cogr_test_14-q13",
@@ -46829,33 +46829,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q13.png",
+    "questionText": "• Taşkıran otu, yıldız otu, mine çiçeği gibi ot toplulukları altında oluşur.<br>• Humus bakımından zengindir, rengi koyudur.<br>• Verim oranı çok yüksektir.<br>• Zonal topraktır.<br><br>Yukarıda temel özellikleri verilen toprak türü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Çernezyom toprağı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Halomorfik toprak"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kahverengi orman toprağı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kahverengi step toprağı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Rendzina toprağı"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nToprağın humus miktarını belirleyen en önemli etken bitki örtüsünün yoğunluğu ve iklimin organik maddeyi ayrıştırma hızıdır. Erzurum-Kars Çernezyomları gür çayır örtüsü ve düşük sıcaklık nedeniyle organik maddenin yavaş ayrışıp birikmesi sonucu en yüksek humusa sahiptir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Çernezyom toprağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Çernezyom (Kara Topraklar):</strong><br>• Sert karasal iklim bölgelerinde yaz yağışlarıyla yeşeren uzun boylu <strong>alpin ve subalpin dağ çayırları</strong> (taşkıran otu, yıldız otu, mine çiçeği, düğün çiçeği vb.) altında oluşur.<br>• Düşük kış sıcaklıkları mikroorganizma faaliyetini yavaşlatır; kuruyan organik ot kalıntıları tam parçalanmadan toprakta birikir. Bu sayede dünyanın ve Türkiye'nin <strong>en yüksek humus oranına</strong> sahip, en zengin zonal toprağı meydana gelir.<br>• Türkiye'de <strong>Erzurum-Kars ve Ardahan platolarında</strong> yaygındır. Ancak kışların çok uzun ve soğuk olması (iklim engeli) tarımsal kullanımını kısıtlar; alanda daha çok büyükbaş mera hayvancılığı yapılır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Halomorfik:</strong> Kurak alan tuzlu toprağıdır.<br>• <strong>Kahverengi orman:</strong> Ağaç ormanları altında oluşur, alpin otlar altında değil.<br>• <strong>Kahverengi step:</strong> Kısa boylu cılız bozkır otları altında oluşur, humusu azdır.<br>• <strong>Rendzina:</strong> Kireçli intrazonal topraktır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Dağ çayırları altı + yüksek humus + kara toprak + Erzurum-Kars' dörtlüsü istisnasız Çernezyom toprağını verir.</em>"
   },
   {
     "id": "cogr_test_14-q14",
@@ -46866,33 +46866,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 14)",
+    "questionText": "Aşağıda bir toprak türünün genel özellikleri verilmiştir:<br>• Kalsimorfik toprak türüdür.<br>• Killi topraklardır.<br>• Su tutma kapasitesi yüksektir.<br>• Anadolu'da kara kepir, taşdoğuran toprak ya da dönen toprak olarak da bilinir.<br><br>Buna göre yukarıda temel özellikleri verilen toprak türü Türkiye haritasında numaralandırılmış yörelerin hangisinde <strong>yaygın görülür</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q14.png",
+    "image": "assets/questions/cogr_test_14_q14_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ **Doğru Cevap: E**\n\n📌 **Açıklama:**\nKireç ve tuz birikiminin toprağın üst yüzeyinde fazla olması **yetersiz yağış ve şiddetli buharlaşmanın (kuraklığın)** göstergesidir. Türkiye'de Tuz Gölü çevresi ve Güneydoğu Anadolu'da bu durum belirgindir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Özellikleri verilen toprak türü <strong>Vertisol (Dönen Toprak / Karakepir / Taşdoğuran)</strong>'dür. Killi ve marnlı kalsimorfik intrazonal topraklardır.<br>Haritada <strong>V numara (Trakya - Ergene Havzası)</strong> Türkiye'de vertisol toprakların en tipik, en geniş ve en bilinen yayılış sahasıdır. Bu topraklar su tutma kapasitesi yüksek killi yapısıyla Trakya'da ayçiçeği ve buğday tarımının temel zeminini oluşturur.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (Güneydoğu Anadolu - Şanlıurfa):</strong> Kırmızı kahverengi kireçli step topraklarıdır.<br>• <strong>II Numara (İç Doğu Karadeniz / Tokat-Sivas geçişi):</strong> Kahverengi orman ve step geçişidir.<br>• <strong>III Numara (Köyceğiz / Fethiye kıyısı):</strong> Alüvyal ve Terra-Rossa arazisidir.<br>• <strong>IV Numara (Batı Karadeniz iç dağları):</strong> Orman ve podzolik sahadır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Haritada Trakya (Ergene Havzası) işaretlenip intrazonal killi toprak soruluyorsa cevap %100 Vertisol (Kara kepir / Dönen toprak)'dür.</em>"
   },
   {
     "id": "cogr_test_14-q15",
@@ -46903,33 +46903,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q15.png",
+    "questionText": "Çukurova, Çarşamba ve Balat deltalarının taşkın alanlarındaki sazlık ve kamışlıkların altında oluşan toprak türü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Halomorfik topraklar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Hidromorfik topraklar"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Alüvyal topraklar"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kalsimorfik topraklar"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Regosol topraklar"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\n**Hidromorfik Topraklar**, drenajı kötü, taban suyu seviyesi yüksek bataklık, sazlık ve delta taşkın alanlarında oluşan oksijensiz intrazonal topraklardır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Hidromorfik topraklar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Hidromorfik Topraklar (İntrazonal):</strong> Drenajı (su tahliyesi) yetersiz, taban suyu seviyesi yıl boyunca yüzeye çok yakın veya yüzeyde olan <strong>bataklık, sazlık, turbalık ve delta taşkın yataklarında</strong> oluşan topraklardır.<br>• Sürekli su altında kaldıkları için oksijensiz (anaerobik) ortamda mavi-gri renkli gley horizonu gelişir. Çukurova, Çarşamba, Bafra ve Balat deltalarının denize yakın lagün, sazlık ve drenajsız çukur taşkın sahalarında bu topraklar görülür.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Halomorfik:</strong> Aşırı kurak sahaların tuzlu topraklarıdır (Tuz Gölü çevresi).<br>• <strong>Alüvyal topraklar:</strong> Deltaların drenajı iyi olan verimli tarım topraklarıdır; sürekli sazlık/bataklık alanlar özel olarak hidromorfik adını alır.<br>• <strong>Kalsimorfik:</strong> Kireçli ana kaya topraklarıdır (Vertisol, Rendzina).<br>• <strong>Regosol:</strong> Volkanik kumlu arazilerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Bataklık, sazlık, drenajı bozuk, taban suyu yüksek' ifadeleri doğrudan 'Hidromorfik (Hydro = Su)' toprakları gösterir.</em>"
   },
   {
     "id": "cogr_test_14-q16",
@@ -46940,33 +46940,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 16,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 16)",
+    "questionText": "Aşağıda Türkiye'de yer alan bir merkeze ait sıcaklık ve yağış grafiği verilmiştir.<br><br>Sıcaklık ve yağış grafiği verilen bu merkezde aşağıdaki toprak türlerinden hangisi <strong>yaygın bir şekilde</strong> görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q16.png",
+    "image": "assets/questions/cogr_test_14_q16_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kahverengi orman toprağı"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kestane-kahverengi step toprağı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Terra rossa toprağı"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çernezyom toprağı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Rendzina toprağı"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ **Doğru Cevap: C**\n\n📌 **Açıklama:**\nVerilen iklim ve toprak eşleştirmesi:\n• Akdeniz İklimi -> Terra-Rossa\n• Karadeniz Nemli İklimi -> Kahverengi Orman ve Podzol\n• Sert Karasal İklim (Kuzeydoğu Anadolu) -> Çernezyom\n• Ilıman Karasal / Step İklimi -> Kahverengi / Kestane Bozkır"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Terra rossa toprağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Verilen iklim grafiği incelendiğinde:<br>1. Kış sıcaklıkları 10°C civarındadır ve sıfırın altına hiç düşmez (don olayı çok nadirdir).<br>2. Yaz ayları (Haziran, Temmuz, Ağustos) sıcaklık 28-30°C'ye ulaşırken yağış neredeyse sıfıra inmektedir (belirgin yaz kuraklığı).<br>3. Yağışların ezici çoğunluğu kış mevsiminde (Aralık, Ocak, Şubat aylarında 200 mm'nin üzerinde) düşmektedir.<br>Bu veriler tipik bir <strong>Akdeniz İklimi (Antalya / Mersin)</strong> grafiğidir. Akdeniz iklim bölgesinde kalker kayaçları üzerinde gelişen karakteristik zonal toprak ise <strong>Terra-Rossa (Kırmızı Akdeniz Toprağı)</strong>'dır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Kahverengi orman:</strong> Her mevsim yağışlı Karadeniz ikliminde görülür.<br>• <strong>Step toprağı:</strong> Kış sıcaklıkları 0°C civarında veya altında, en çok yağış ilkbaharda olan ılıman karasal iklimde görülür.<br>• <strong>Çernezyom:</strong> Yazları yağışlı, kışları çok sert (-10°C altı) Kuzeydoğu Anadolu ikliminde görülür.<br>• <strong>Rendzina:</strong> İklim grafiğine göre değil, yerel yumuşak kireçtaşına göre oluşan intrazonal topraktır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>İklim grafiğinde 'Kışları ılık ve bol yağışlı + yazları sıcak ve kurak' çanı görüldüğünde iklim Akdeniz iklimi, zonal toprak ise kesinlikle Terra-Rossa'dır.</em>"
   },
   {
     "id": "cogr_test_14-q17",
@@ -46977,33 +46977,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 17,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 17)",
+    "questionText": "Regosol topraklar, özellikle volkanik arazilerde akarsuların taşıdığı kum depoları üzerinde oluşur. Kumlu ve yumuşak olan bu topraklar, patates, üzüm ve soğan tarımı açısından oldukça elverişlidir.<br><br>Buna göre, yukarıdaki Türkiye haritasında numaralandırılarak gösterilen alanların hangisinde <strong>regosol topraklar yaygındır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q17.png",
+    "image": "assets/questions/cogr_test_14_q17_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ **Doğru Cevap: B**\n\n📌 **Açıklama:**\nTürkiye'de toprak erozyonunu artıran en büyük etken, bitki örtüsünün tahrip edilmesi, aşırı otlatma ve arazinin eğim yönünde sürülmesidir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Regosol Topraklar (Azonal / Taşınmış):</strong><br>• Volkanik arazilerdeki tüf, kül ve kum depoları veya akarsuların biriktirdiği kumlu materyaller üzerinde oluşan topraklardır.<br>• Horizonlaşma zayıftır; son derece süzek, geçirgen, yumuşak ve işlemesi kolaydır. Yumrulu bitkilerin (patates, soğan, havuç) ve bağcılığın en yüksek verim verdiği topraklardır.<br>• Türkiye'de volkanik tüf ve kum örtüsünün yaygın olduğu <strong>İç Anadolu (Nevşehir-Niğde / Kapadokya volkanik arazisi)</strong> ile <strong>Doğu Anadolu volkanik dağ eteklerinde (II numara - Van Gölü çevresi / Ağrı, Tendürek etekleri)</strong> ve Manisa Kula volkanik yöresinde yaygındır.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (Ergene Havzası):</strong> Vertisol ve step toprağıdır; volkanik regosol bulunmaz.<br>• <strong>III Numara (Güneydoğu Anadolu - Şanlıurfa düzlükleri):</strong> Kırmızı kireçli step toprağıdır.<br>• <strong>IV Numara (Antalya / Teke kıyısı):</strong> Karstik kalker üzerinde Terra-Rossa toprağıdır.<br>• <strong>V Numara (Kıyı Ege / Gediz):</strong> Alüvyal ve kireçli topraklardır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Volkanik tüf / kumlu toprak + yumrulu bitki (patates/soğan) ve bağcılık' eşleştirmesi doğrudan REGOSOL toprağını verir.</em>"
   },
   {
     "id": "cogr_test_14-q18",
@@ -47014,33 +47014,33 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌱",
     "questionNumber": 18,
-    "questionText": "Toprak Tipleri & Doğal Afetler - Test 14: Topraklar (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_14_q18.png",
+    "questionText": "Toprak katmanındaki pedojenik süreçlere bağlı olarak gerçekleşen olaylar, toprak oluşumunda iklimin temel yansımasını ortaya çıkarmaktadır.<br><br>Bu süreçlere bağlı olarak toprakta meydana gelen <strong>tuzlaşma olayı</strong> aşağıdaki yörelerin hangisinde <strong>maksimum seviyede</strong> gerçekleşmektedir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Konya - Karapınar"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Mersin - Taşucu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Rize - Çayeli"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Çorum - İskilip"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Şanlıurfa - Ceylanpınar"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ **Doğru Cevap: A**\n\n📌 **Açıklama:**\nToprak horizonları (katmanları):\n• **A Horizonu:** Organik maddece zengin, yıkanma katı, tarımın yapıldığı en üst katman.\n• **B Horizonu:** A'dan yıkanan tuz, kireç ve killerin biriktiği katman.\n• **C Horizonu:** Anakayanın iri bloklar halinde parçalandığı katman.\n• **D Horizonu:** Sert ve ayrışmamış anakaya tabakası."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Konya - Karapınar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Pedojenik tuzlaşma süreci; yıllık yağış miktarının çok düşük, yaz sıcaklığının ve şiddetli buharlaşmanın çok yüksek olduğu kapalı havza düzlüklerinde gerçekleşir. Yetersiz yağış nedeniyle yıkanamayan yer altı suları kılcallık (kapilarite) etkisiyle yüzeye doğru yükselir; su buharlaşınca taşıdığı tuz ve mineraller toprağın üst yüzeyinde beyaz bir kabuk tabakası halinde birikir.<br>Türkiye'de bu sürecin en şiddetli yaşandığı, çölleşme ve aşırı tuzlanma riskinin en yüksek olduğu alan <strong>Konya - Karapınar ve Tuz Gölü çevresi</strong>dir (Halomorfik tuzlu topraklar).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Rize - Çayeli:</strong> Türkiye'nin en çok yağış alan yeridir; yıkanma maksimum, tuzlaşma sıfıra yakındır.<br>• <strong>Mersin - Taşucu:</strong> Akdeniz nemli kıyısıdır, tuzlaşma kapalı havza kadar aşırı değildir.<br>• <strong>Çorum - İskilip:</strong> Karadeniz ardı vadisidir, yağış Karapınar'dan fazladır.<br>• <strong>Şanlıurfa - Ceylanpınar:</strong> Kuraktır ve tuzlanma riski vardır ancak Konya-Karapınar kapalı göl tabanı hidrolojik olarak en ekstrem tuzlaşma alanıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Toprakta tuzlaşma / Halomorfik toprak / Çölleşme tehlikesi' denildiğinde Türkiye'deki 1 numaralı merkez Konya - Karapınar ve Tuz Gölü havzasıdır.</em>"
   },
   {
     "id": "cogr_test_19-q1",
