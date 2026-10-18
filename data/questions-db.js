@@ -41008,6 +41008,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
         "text": "V"
       }
     ],
+    "correctAnswer": "B",
     "explanation": "✅ <strong>Doğru Cevap: B</strong>\n\n📌 <strong>Karstik Polye Sahaları (Gölova / TAKKEM):</strong>\n• <strong>II Numara (Akdeniz - Teke ve Göller Yöresi Kuşağı):</strong> Kireçtaşının (kalker) en yaygın olduğu karst kuşağıdır. Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı ve Muğla karstik polye ovaları bu sahadadır.\n• <strong>Diğer Numaralar:</strong> I Numara (Kıyı Ege / graben kuşağı), III Numara (Orta Akdeniz kıyı kuşağı / delta-alüvyon), IV Numara (Güneydoğu Anadolu tabaka düzlüğü), V Numara (Siirt / Güneydoğu tektonik kuşağı) olup karstik polye özelliği taşımazlar."
   },
   {
