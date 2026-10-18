@@ -243,15 +243,7 @@ class EKYSApp {
 
       if (catTests.length > 0) {
         catTests.forEach(testItem => {
-          const filterKey = (testItem.filterKey || '').toLowerCase().trim();
-          const cleanItemName = (testItem.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
-          
-          const itemHistory = history.filter(h => {
-            const hTopic = (h.topicId || '').replace(/^subtopic_/, '').toLowerCase().trim();
-            if (hTopic && (hTopic === filterKey || hTopic === (testItem.id || '').toLowerCase().trim() || hTopic.startsWith(filterKey))) return true;
-            const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
-            return (hTitle && cleanItemName && (hTitle.includes(cleanItemName) || cleanItemName.includes(hTitle)));
-          });
+          const itemHistory = history.filter(h => this.isHistoryMatchForTest(h, testItem));
 
           if (itemHistory.length > 0) {
             distinctSolvedTests++;
@@ -3204,6 +3196,38 @@ class EKYSApp {
     return tests;
   }
 
+  isHistoryMatchForTest(h, testItem) {
+    if (!h || !testItem) return false;
+
+    const itemFilterKey = (testItem.filterKey || '').toLowerCase().trim();
+    const itemId = (testItem.id || '').toLowerCase().trim();
+
+    const hFilter = (h.filterKey || '').toLowerCase().trim();
+    const hTopic = (h.topicId || '').replace(/^subtopic_/, '').toLowerCase().trim();
+
+    // 1. Kesin Anahtar Eşleşmesi (En yüksek öncelik: filterKey veya topicId)
+    if (itemFilterKey) {
+      if (hFilter && hFilter === itemFilterKey) return true;
+      if (hTopic && hTopic === itemFilterKey) return true;
+    }
+    if (itemId) {
+      if (hFilter && hFilter === itemId) return true;
+      if (hTopic && hTopic === itemId) return true;
+    }
+
+    // 2. Başlık Temelli Birebir Eşleşme (Geriye dönük uyumluluk)
+    const cleanItemName = (testItem.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
+    const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
+
+    if (cleanItemName && hTitle) {
+      const baseHTitle = hTitle.replace(/\s*\([^)]*\)\s*$/, '').trim();
+      const baseItemName = cleanItemName.replace(/\s*\([^)]*\)\s*$/, '').trim();
+      if (baseHTitle === baseItemName) return true;
+    }
+
+    return false;
+  }
+
   openSubTopicModal(categoryKey) {
     const dataMap = this.getSubTopicData();
     const data = dataMap[categoryKey];
@@ -3228,18 +3252,8 @@ class EKYSApp {
         const questions = this.getQuestionsForFilter(item.filterKey);
         const qCount = questions.length;
 
-        // Bu alt konuya / teste ait çözülen geçmiş
-        const cleanItemName = (item.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
-        const itemFilterKey = (item.filterKey || '').toLowerCase().trim();
-        const itemId = (item.id || '').toLowerCase().trim();
-
-        const itemHistory = history.filter(h => {
-          const hTopic = (h.topicId || '').replace(/^subtopic_/, '').toLowerCase().trim();
-          if (hTopic && (hTopic === itemFilterKey || hTopic === itemId || hTopic.startsWith(itemFilterKey))) return true;
-          const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
-          if (hTitle && cleanItemName && (hTitle.includes(cleanItemName) || cleanItemName.includes(hTitle))) return true;
-          return false;
-        });
+        // Bu alt konuya / teste ait çözülen geçmiş (Birebir kesin eşleşme)
+        const itemHistory = history.filter(h => this.isHistoryMatchForTest(h, item));
 
         // Bu teste ait tüm denemeler içerisinden EN YÜKSEK DOĞRU SAYISINA sahip denemeyi bul
         let bestAttempt = null;
@@ -3270,15 +3284,7 @@ class EKYSApp {
           const subTotalTests = subTests.length;
           let subSolvedCount = 0;
           subTests.forEach(st => {
-            const stName = (st.name || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
-            const filterKey = (st.filterKey || '').toLowerCase().trim();
-            const stId = (st.id || '').toLowerCase().trim();
-            const isSolved = history.some(h => {
-              const hTitle = (h.title || '').replace(/^[^\w\s\dçğıöşüÇĞİÖŞÜ]+/, '').trim().toLowerCase();
-              const hTopic = (h.topicId || '').replace(/^subtopic_/, '').toLowerCase().trim();
-              return (hTopic && (hTopic === filterKey || hTopic === stId || hTopic.startsWith(filterKey))) ||
-                     (hTitle && stName && (hTitle.includes(stName) || stName.includes(hTitle)));
-            });
+            const isSolved = history.some(h => this.isHistoryMatchForTest(h, st));
             if (isSolved) subSolvedCount++;
           });
           const subTestRate = subTotalTests > 0 ? Math.min(100, Math.round((subSolvedCount / subTotalTests) * 100)) : 0;
@@ -3417,6 +3423,7 @@ class EKYSApp {
       title: title,
       filterKey: filterKey,
       topicId: filterKey,
+      category: questions[0] && questions[0].category ? questions[0].category : '',
       isDeneme: isDeneme,
       isCikmis: isCikmis,
       isScored: isScored,
@@ -4058,6 +4065,8 @@ class EKYSApp {
       netScore: calculatedScore,
       durationSeconds: this.activeQuiz.elapsedSeconds,
       topicId: this.activeQuiz.topicId,
+      filterKey: this.activeQuiz.filterKey || this.activeQuiz.topicId || '',
+      category: this.activeQuiz.category || '',
       isDeneme: !!this.activeQuiz.isDeneme,
       isCikmis: !!this.activeQuiz.isCikmis,
       isScored: isScored
@@ -4092,7 +4101,11 @@ class EKYSApp {
 
   retryCurrentQuiz() {
     if (this.activeQuiz) {
-      this.startTopicQuiz(this.activeQuiz.topicId, this.activeQuiz.mode);
+      if (this.activeQuiz.filterKey) {
+        this.startSubTopicQuiz(this.activeQuiz.filterKey, this.activeQuiz.title, this.activeQuiz.mode || 'practice');
+      } else {
+        this.startTopicQuiz(this.activeQuiz.topicId, this.activeQuiz.mode);
+      }
     } else {
       this.navigateTo('test-hub');
     }

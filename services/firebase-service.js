@@ -54,8 +54,23 @@ class FirebaseService {
             this.currentUser = { uid: this.currentUserDoc.uid, email: this.currentUserDoc.email, displayName: this.currentUserDoc.displayName };
             await this.syncAllDataFromCloud();
           } else {
-            this.currentUser = null;
-            this.currentUserDoc = null;
+            let localSess = null;
+            try {
+              localSess = JSON.parse(localStorage.getItem('ekys_active_session_v3') || 'null');
+            } catch (e) {}
+
+            if (localSess && (localSess.username || localSess.uid)) {
+              this.currentUser = {
+                uid: localSess.uid || (localSess.role === 'admin' ? 'uid_master_admin' : 'uid_student'),
+                email: localSess.email || `${localSess.username}@ekysrota.com`,
+                displayName: localSess.displayName || localSess.username,
+                role: localSess.role || 'student'
+              };
+              this.currentUserDoc = this.currentUser;
+            } else {
+              this.currentUser = null;
+              this.currentUserDoc = null;
+            }
           }
           this.onAuthChange(this.currentUser);
         });
@@ -581,7 +596,19 @@ class FirebaseService {
         try { this.realtimeUnsubscribe(); } catch (e) {}
         this.realtimeUnsubscribe = null;
       }
-      if (window.storageService) {
+      
+      let hasActiveLocalSession = false;
+      try {
+        const sess = JSON.parse(localStorage.getItem('ekys_active_session_v3') || 'null');
+        if (sess && (sess.uid || sess.username)) {
+          hasActiveLocalSession = true;
+          if (window.storageService) {
+            window.storageService.setCurrentUser(sess.username || sess.uid);
+          }
+        }
+      } catch (e) {}
+
+      if (!hasActiveLocalSession && window.storageService) {
         window.storageService.setCurrentUser('guest');
       }
 

@@ -380,7 +380,9 @@ class StorageService {
       score: result.score !== undefined ? result.score : (result.totalQuestions > 0 ? ((result.correctCount / result.totalQuestions) * 100) : 0),
       netScore: result.score !== undefined ? result.score : (result.netScore !== undefined ? result.netScore : (result.totalQuestions > 0 ? ((result.correctCount / result.totalQuestions) * 100) : 0)),
       durationSeconds: result.durationSeconds || 0,
-      topicId: result.topicId || 'all',
+      topicId: result.topicId || result.filterKey || 'all',
+      filterKey: result.filterKey || result.topicId || '',
+      category: result.category || '',
       isDeneme: !!result.isDeneme,
       isCikmis: !!result.isCikmis,
       isScored: result.isScored !== undefined ? !!result.isScored : (!!result.isDeneme || !!result.isCikmis)
@@ -553,51 +555,60 @@ class StorageService {
       return;
     }
 
-    // 1. Sınav Geçmişini Senkronize Et (Realtime Sync'te tam listeyi veya birleşimi al)
+    // 1. Sınav Geçmişini Senkronize Et (Her zaman birleştir, çözülen testler ASLA kaybolmaz)
     if (Array.isArray(data.quizHistory)) {
-      if (isRealtimeSync) {
-        // Canlı otomatik senkronizasyonda buluttaki güncel listeyi doğrudan al
-        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(data.quizHistory.slice(0, 1000)));
-      } else {
-        const localHistory = this.getQuizHistory();
-        const map = new Map();
-        localHistory.forEach(h => {
-          const key = h.id || `${h.date}_${h.title}`;
+      const localHistory = this.getQuizHistory();
+      const map = new Map();
+
+      // Önce mevcut yerel geçmişi ekle
+      localHistory.forEach(h => {
+        if (!h) return;
+        const key = h.id || `${h.date}_${h.filterKey || h.topicId || ''}_${h.title}`;
+        map.set(key, h);
+      });
+
+      // Buluttan gelen geçmişi birleştir
+      data.quizHistory.forEach(h => {
+        if (!h) return;
+        const key = h.id || `${h.date}_${h.filterKey || h.topicId || ''}_${h.title}`;
+        if (!map.has(key)) {
           map.set(key, h);
-        });
-        data.quizHistory.forEach(h => {
-          const key = h.id || `${h.date}_${h.title}`;
-          map.set(key, h);
-        });
-        const mergedHistory = Array.from(map.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
-        localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(mergedHistory.slice(0, 1000)));
+        } else {
+          // Aynı deneme varsa en yüksek doğru sayısına veya puana sahip olanı muhafaza et
+          const existing = map.get(key);
+          const existCorrect = Number(existing.correctCount) || 0;
+          const newCorrect = Number(h.correctCount) || 0;
+          if (newCorrect > existCorrect) {
+            map.set(key, { ...existing, ...h });
+          }
+        }
+      });
+
+      const mergedHistory = Array.from(map.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
+      localStorage.setItem(this.KEYS.QUIZ_HISTORY, JSON.stringify(mergedHistory.slice(0, 1000)));
+
+      // Yerelde bulutta olmayan yeni çözümler varsa buluta da aktar
+      if (mergedHistory.length > data.quizHistory.length && typeof window !== 'undefined' && window.firebaseService) {
+        window.firebaseService.syncAllDataToCloud(false);
       }
     }
 
-    // 2. Yanlış Havuzunu Senkronize Et
+    // 2. Yanlış Havuzunu Senkronize Et (Kayıpsız birleştirme)
     if (Array.isArray(data.wrongPool)) {
-      if (isRealtimeSync) {
-        localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
-      } else {
-        const localWrong = this.getWrongPool();
-        const map = new Map();
-        localWrong.forEach(q => map.set(q.id, q));
-        data.wrongPool.forEach(q => map.set(q.id, q));
-        localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
-      }
+      const localWrong = this.getWrongPool();
+      const map = new Map();
+      localWrong.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      data.wrongPool.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
     }
 
-    // 3. Yıldızlı Soruları Senkronize Et
+    // 3. Yıldızlı Soruları Senkronize Et (Kayıpsız birleştirme)
     if (Array.isArray(data.favorites)) {
-      if (isRealtimeSync) {
-        localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(data.favorites));
-      } else {
-        const localFav = this.getFavorites();
-        const map = new Map();
-        localFav.forEach(q => map.set(q.id, q));
-        data.favorites.forEach(q => map.set(q.id, q));
-        localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
-      }
+      const localFav = this.getFavorites();
+      const map = new Map();
+      localFav.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      data.favorites.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
     }
 
     // 4. Özel Sorular
