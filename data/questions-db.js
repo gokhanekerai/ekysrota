@@ -48376,669 +48376,399 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   },
   {
     "id": "cogr_test_21-q1",
+    "questionNumber": 1,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 1,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q1.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Türkiye’de bir bölgenin kırsalında dağınık yerleşmenin ortaya çıkması;<br><br>I. sanayi faaliyetinin dağılımı,<br>II. yüzey şekli engebesi fazla,<br>III. su kaynaklarının yeterli olması<br><br>gibi durumların hangilerine bağlıdır?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "Yalnız III",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Kırsalda Dağınık Yerleşmenin Temel Sebepleri:\n• I. Engebeli ve parçalı arazi yapısı\n• II. Su kaynaklarının her yerde bol olması (Doğu Karadeniz tipi yerleşme)."
+    "explanation": "<b>🎯 Doğru Cevap: D (II ve III)</b><br><br>Türkiye'de kırsal yerleşmelerin dokusunu (dağınık veya toplu) belirleyen iki temel doğal faktör vardır: <b>yer şekilleri</b> ve <b>su kaynakları</b>.<br><br><b>1. Yüzey şekli engebesinin fazla olması (II):</b> Arazinin çok parçalı, eğimli ve engebeli olduğu yerlerde (özellikle Doğu ve Batı Karadeniz) tarım alanları küçük parseller halindedir; her aile kendi tarlasının veya çay/fındık bahçesinin yakınına evini kurar.<br><b>2. Su kaynaklarının bol ve yaygın olması (III):</b> Her vadide, yamaçta kaynak ve dere bulunduğu için insanların tek bir su kaynağı etrafında toplanma zorunluluğu yoktur.<br><br><b>❌ Çeldiricilerin Analizi:</b><br>• <b>I (Sanayi faaliyeti):</b> Kırsal yerleşme dokusu üzerinde sanayi faaliyetlerinin doğrudan bir etkisi yoktur; sanayi daha çok kentlerin büyümesini ve kentsel yerleşmeleri şekillendirir.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Karadeniz = Engebeli arazi + Bol su = <b>Dağınık kır yerleşmesi</b>.<br>İç / Güneydoğu Anadolu = Düz/sade arazi + Yetersiz su = <b>Toplu kır yerleşmesi</b>."
   },
   {
     "id": "cogr_test_21-q2",
+    "questionNumber": 2,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 2,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 2)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q2.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Ülke sınırları içerisindeki nüfus hareketleri iç göçleri ortaya çıkarır.<br><br>Aşağıdakilerden hangisi <b>iç göç sebeplerinden biri değildir</b>?",
+    "options": {
+      "A": "Erozyon sonucunda toprakların verimsizleşmesi",
+      "B": "Tarımda makineleşme",
+      "C": "Hayat standardını yükseltme isteği",
+      "D": "Eğitim ve sağlık hizmetlerindeki aksamalar",
+      "E": "Kırsalda besi ve ahır hayvancılığının yaygınlaşması"
+    },
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 İç Göçün Doğal Sonuçları:\n• İç göçler ülke içi nüfus dağılışını ve şehirleşme oranını değiştirir; ancak ülke toplam nüfus miktarını kesinlikle DEĞİŞTİRMEZ."
+    "explanation": "<b>🎯 Doğru Cevap: E</b><br><br>Kırsal alanlarda besi ve ahır (modern/kapalı) hayvancılığının yaygınlaştırılması; iklime ve mera koşullarına olan bağımlılığı azaltır, et ve süt verimini katbekat artırarak kırsal halkın gelirini yükseltir. Çiftçinin kendi toprağında doymasını sağladığı için bu durum bir <b>göç sebebi değil</b>, aksine <b>iç göçü önlemeye ve azaltmaya yönelik pozitif bir tedbirdir</b>.<br><br><b>❌ Diğer Şıkların Analizi (Göç Nedenleri):</b><br>• <b>A (Erozyon):</b> Verimli üst toprağın kaybolması tarımsal geliri düşürür ve köylüyü göçe zorlar (doğal/itici faktör).<br>• <b>B (Tarımda makineleşme):</b> Traktör ve biçerdöverler insan gücüne duyulan ihtiyacı azaltarak kırsal işsizliğe yol açar (ekonomik/itici faktör).<br>• <b>C (Hayat standardı):</b> Büyükşehirlerdeki daha iyi iş, kazanç ve sosyal imkanlar insanları çeker (sosyo-ekonomik/çekici faktör).<br>• <b>D (Eğitim ve sağlık aksamaları):</b> Nitelikli eğitim ve sağlık hizmetlerine erişme arzusu göçü hızlandırır.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Besi ve ahır hayvancılığı, sulama projeleri (GAP gibi) ve kırsala sanayi yatırımı yapılması iç göçü <b>tetiklemez</b>, göçü <b>frenler</b>."
   },
   {
     "id": "cogr_test_21-q3",
+    "questionNumber": 3,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 3,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 3)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q3.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Türkiye’de iç göçü önleyebilmek için alınacak tedbirlerden biri aşağıdakilerden hangisi <b>değildir</b>?",
+    "options": {
+      "A": "Sulanabilir tarım alanlarını genişletmek",
+      "B": "Modern tarım yöntemlerini yaygınlaştırmak",
+      "C": "Tarıma dayalı sanayi kollarını, kırsal alanlara kaydırmak",
+      "D": "Kırsal alanlarda eğitim, sağlık, yol, su ve elektrik gibi hizmetleri yaygınlaştırmak",
+      "E": "Tarım arazilerini kamulaştırmak"
+    },
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 İç Göçü Önleme Tedbirleri:\n• Kırsalda sulu tarıma geçilmesi, besi ve ahır hayvancılığının desteklenmesi, tarıma dayalı küçük sanayi kollarının köylere kurulması ve kırsalda eğitim/sağlık hizmetlerinin artırılması göçü frenler."
+    "explanation": "<b>🎯 Doğru Cevap: E</b><br><br><b>Tarım arazilerini kamulaştırmak</b> (devlet mülkiyetine geçirmek), kırsaldaki çiftçilerin ve köylülerin mülkiyet haklarını ellerinden alarak onları topraksız bırakır. Topraksız kalan köylü kırsalda geçimini sağlayamayacağı için kente göç etmek zorunda kalır; dolayısıyla bu uygulama göçü önlemez, aksine kitlesel göçü körükler.<br><br><b>❌ Göçü Önleyici Tedbirler (A, B, C, D):</b><br>• <b>A ve B:</b> Sulamanın yaygınlaştırılması nadas alanlarını daraltır, ürün çeşitliliğini ve yılda birden fazla ürün alma imkânını artırarak kırsal geliri katlar.<br>• <b>C:</b> Tarıma dayalı fabrikaların kırsala kurulması, hasat edilen ürünün değerinde satılmasını ve yerinde istihdam yaratılmasını sağlar.<br>• <b>D:</b> Kırsal altyapı (yol, su, elektrik, internet) ve sosyal hizmetlerin (okul, sağlık ocağı) güçlendirilmesi kent-kır arasındaki refah uçurumunu kapatır.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>İç göçü önlemenin altın kuralı <b>'insanları doğduğu yerde doyurmak ve insanca yaşayabileceği altyapıyı sunmaktır'</b>."
   },
   {
     "id": "cogr_test_21-q4",
+    "questionNumber": 4,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 4,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 4)",
+    "icon": "👥",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q4.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "image": "assets/questions/cogr_test_21_q4_clean.png",
+    "question": "Yukarıdaki haritada işaretli alanların hangileri <b>turizm amaçlı mevsimlik göçü daha fazla alır</b>?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "Yalnız III",
+      "D": "II ve V",
+      "E": "III ve IV"
+    },
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Turizm Amaçlı Mevsimlik Göç:\n• Akdeniz ve Ege kıyı kuşağı (Antalya, Muğla, Kuşadası, Çeşme, Bodrum) yaz aylarında turizm personeli ve tatilcilerle devasa mevsimlik göç alır."
+    "explanation": "<b>🎯 Doğru Cevap: E (III ve IV)</b><br><br>Haritada işaretli merkezlerin göç nitelikleri:<br>• <b>III Numaralı Alan (Antalya Kıyıları):</b> Türkiye'nin turizm başkentidir; yaz aylarında hem yerli/yabancı turist akınına uğrar hem de turizm sektöründe çalışmak üzere Türkiye'nin dört bir yanından yoğun mevsimlik işgücü göçü alır.<br>• <b>IV Numaralı Alan (Muğla / Güney Ege Kıyıları - Bodrum, Marmaris, Fethiye):</b> Türkiye'nin en popüler kıyı turizm merkezlerindendir; yaz sezonunda turizm amaçlı yoğun mevsimlik göç çeker.<br><br><b>❌ Diğer Merkezlerin Fonksiyonları:</b><br>• <b>I (Doğu Karadeniz / Rize-Trabzon):</b> Çay ve fındık tarımına bağlı tarımsal mevsimlik göç alır.<br>• <b>II (Çukurova / Adana):</b> Pamuk ve narenciye tarımına bağlı tarımsal mevsimlik işçi göçü alır.<br>• <b>V (İstanbul / Doğu Marmara):</b> Sanayi ve hizmet sektörüne bağlı sürekli (daimi) göç alır.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Mevsimlik göç ikiye ayrılır: <b>Tarım amaçlı</b> (Çukurova, Çukurova pamuk, Ordu fındık, Rize çay) ve <b>Turizm amaçlı</b> (Antalya, Muğla, İzmir)."
   },
   {
     "id": "cogr_test_21-q5",
+    "questionNumber": 5,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 5,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q5.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Aşağıdakilerden hangisi, <b>devamlı (sürekli) köy altı yerleşmelerindendir</b>?",
+    "options": {
+      "A": "Yayla",
+      "B": "Ağıl",
+      "C": "Kom",
+      "D": "Oba",
+      "E": "Mahalle"
+    },
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Sürekli (Devamlı) Köy Altı Yerleşmeleri:\n• Mahalle, Divan (Batı Karadeniz), Çiftlik ve Mezra (Doğu Anadolu) sürekli yerleşmelerdir.\n• Yayla, Kom, Ağıl, Oba, Dam, Dalyan ise GEÇİCİ yerleşmelerdir."
+    "explanation": "<b>🎯 Doğru Cevap: E (Mahalle)</b><br><br>Köy altı yerleşmeleri yerleşme süresine göre iki ana gruba ayrılır:<br><br><b>1. Devamlı (Sürekli) Köy Altı Yerleşmeleri:</b><br>Ekonomik faaliyetin temelini genellikle <b>tarım</b> oluşturur ve yılın 12 ayı kesintisiz ikamet edilir:<br>• <b>Mahalle</b> (Köyden ayrılmış, zamanla büyüyüp köye dönüşebilen sürekli yerleşim)<br>• <b>Divan</b> (Özellikle Batı Karadeniz'de birkaç mahallenin birleşimi)<br>• <b>Mezra</b> (Doğu ve Güneydoğu Anadolu'da tarım ve hayvancılık)<br>• <b>Çiftlik</b> (Geniş arazilerde tarım ve hayvancılık)<br><br><b>2. Geçici Köy Altı Yerleşmeleri:</b><br>Ekonomik faaliyetin temelini <b>hayvancılık</b> oluşturur ve sadece yılın belirli dönemlerinde (ilkbahar/yaz) kullanılır:<br>• <b>Yayla</b> (Karadeniz, Toroslar, Doğu Anadolu)<br>• <b>Ağıl</b> (Küçükbaş hayvan barınağı - İç Anadolu, Doğu Anadolu)<br>• <b>Kom</b> (Doğu Anadolu'da hayvancılık odaklı taş yapılar)<br>• <b>Oba</b> (Toroslar'da kıl keçisi yetiştiren Yörük çadırları)<br>• <b>Dam, Dalyan, Güzle</b><br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Sürekli yerleşmeleri kodlayın: <b>M-Ç-D-M</b> (<b>M</b>ahalle, <b>Ç</b>iftlik, <b>D</b>ivan, <b>M</b>ezra). Geri kalan köy altı yerleşmelerinin neredeyse tamamı geçicidir!"
   },
   {
     "id": "cogr_test_21-q6",
+    "questionNumber": 6,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 6,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 6)",
+    "icon": "👥",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q6.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "image": "assets/questions/cogr_test_21_q6_clean.png",
+    "question": "Çiftlikler; bir veya birkaç ev, ambar ve tarım arazisinden oluşan, tarım ve hayvancılık faaliyetlerinin yapıldığı alanlardır.<br><br>Yukarıdaki haritada işaretli alanların hangisi <b>çiftliklerin yoğun olduğu alanlardan biridir</b>?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Çiftlik Yerleşmeleri:\n• Düzlük ve geniş arazilerde (Marmara/Trakya, Ege grabenleri, Çukurova, İç Anadolu) tarım ve hayvancılık yapılan sürekli köy altı yerleşmesidir."
+    "explanation": "<b>🎯 Doğru Cevap: C (III)</b><br><br>Çiftlik yerleşmelerinin kurulabilmesi için en temel coğrafi şart <b>geniş, düz ve verimli tarım arazilerinin (ovalık düzlüklerin)</b> bulunmasıdır.<br><br>• <b>III Numaralı Alan (Ergene Havzası / Trakya):</b> Yer şekilleri oldukça sade ve düzlüktür; geniş ayçiçeği ve buğday tarlaları, modern tarım ve büyük ölçekli çiftlik yerleşmelerinin Türkiye'de en yoğun görüldüğü alanların başında gelir.<br><br><b>❌ Diğer Alanların Analizi:</b><br>• <b>I (Doğu Karadeniz):</b> Dağlık, çok engebeli ve tarım arazileri son derece dar ve parçalıdır; çiftlik kurulamaz.<br>• <b>II (Küre Dağları / Kastamonu kıyıları):</b> Engebeli ve ormanlıktır.<br>• <b>IV (Teke Yarımadası / Batı Toroslar):</b> Karstik, engebeli ve çorak arazidir.<br>• <b>V (Hakkâri Yöresi):</b> Çok yüksek ve sarp dağlık arazidir; tarım arazisi yetersizdir.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Çiftlik yerleşmesi denince aklınıza <b>Trakya (Ergene)</b>, <b>Ege ovaları</b>, <b>İç Anadolu düzlükleri</b> ve <b>Çukurova</b> gelmelidir."
   },
   {
     "id": "cogr_test_21-q7",
+    "questionNumber": 7,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 7,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 7)",
+    "icon": "👥",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q7.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "image": "assets/questions/cogr_test_21_q7_clean.png",
+    "question": "Yukarıdaki haritada işaretli alanların hangisinde <b>yayla yerleşmeleri görülmez</b>?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Yaylacılığın Görülmediği Alanlar:\n• Marmara'nın alçak düzlükleri ve Ergene Havzası yükseltisi az olduğu için yayla yerleşmelerine uygun değildir; yaylacılık Karadeniz ve Toroslar'da yaygındır."
+    "explanation": "<b>🎯 Doğru Cevap: E (V)</b><br><br>Yayla yerleşmeleri; ilkbahar ve yaz aylarında yüksek dağ kuşaklarındaki gür otlaklardan (alpin çayırlar) yararlanmak amacıyla hayvancılık için, ya da sıcak dönemde serinlemek amacıyla rekreasyon/turizm amaçlı kurulan geçici yerleşmelerdir.<br><br>• <b>V Numaralı Alan (Güneydoğu Anadolu - Şanlıurfa/Mardin güney düzlükleri):</b> Yer şekilleri son derece düz, yükseltisi az ve yaz kuraklığı/sıcaklığı çok şiddetlidir. Bölgede yüksek dağlık kuşak ve gür alpin çayırlar bulunmadığı için <b>yayla yerleşmesi görülmez</b>.<br><br><b>❌ Yaylacılığın Yaygın Olduğu Alanlar:</b><br>• <b>I (Erzurum-Kars Platoları):</b> Yaz yağışlarıyla yeşeren alpin çayırlarda büyükbaş hayvancılık yaylacılığı.<br>• <b>II (Doğu Karadeniz Dağları - Kaçkarlar):</b> Türkiye'de yaylacılığın en gelişmiş olduğu sahadır (hayvancılık ve turizm).<br>• <b>III (Batı Toroslar):</b> Göller Yöresi ve Teke kuşağında Yörük yaylacılığı.<br>• <b>IV (Orta Toroslar - Bolkar ve Aladağlar):</b> Çukurova ve Akdeniz sıcağından kaçanların serinleme ve hayvancılık yaylaları.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Türkiye'de yer şekillerinin düz ve yükseltisinin az olması nedeniyle yaylacılığın görülmediği iki ana bölge: <b>Marmara (Ergene)</b> ve <b>Güneydoğu Anadolu düzlükleridir</b>."
   },
   {
     "id": "cogr_test_21-q8",
+    "questionNumber": 8,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 8,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q8.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Oba yerleşmeleri göçebe çobanların çadırlarından oluşan, kıl keçisi yetiştiriciliğinin ön planda olduğu geçici köy altı yerleşmeleridir.<br><br>Aşağıdaki kentlerin hangisinin kırsal kesiminde <b>bu yerleşmeler daha yaygındır</b>?",
+    "options": {
+      "A": "Mersin",
+      "B": "Erzurum",
+      "C": "Van",
+      "D": "Bolu",
+      "E": "Edirne"
+    },
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Oba Yerleşmeleri:\n• Toros Dağları'nda Yörüklerin kıl keçisi otlatmak amacıyla çadırlardan kurduğu tipik geçici köy altı yerleşmesidir."
+    "explanation": "<b>🎯 Doğru Cevap: A (Mersin)</b><br><br><b>Oba yerleşmeleri:</b> Göçebe hayvancılık yapan Yörük aşiretlerinin genellikle kıl çadırlarda geçici olarak konakladığı yerleşmelerdir. Makilik ve dağlık alanlarda rahatlıkla beslenebilen <b>kıl keçisi yetiştiriciliği</b> ile doğrudan özdeşleşmiştir.<br><br>Türkiye'de kıl keçisi yetiştiriciliği ve oba yerleşmeleri en çok <b>Akdeniz Bölgesi'nde Toros Dağları kuşağında (Mersin, Antalya, Adana kırsalında)</b> yaygındır.<br><br><b>❌ Diğer Kentlerin Kırsal Yerleşmeleri:</b><br>• <b>Erzurum ve Van (Doğu Anadolu):</b> Kom (büyükbaş hayvancılık taş ağılları).<br>• <b>Bolu (Batı Karadeniz):</b> Divan ve Mahalle yerleşmeleri.<br>• <b>Edirne (Trakya):</b> Çiftlik ve Mahalle yerleşmeleri.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br><b>Oba + Çadır + Kıl Keçisi + Yörük</b> eşleştirmesi doğrudan <b>Akdeniz / Toroslar (Mersin, Antalya)</b> cevabını verir."
   },
   {
     "id": "cogr_test_21-q9",
+    "questionNumber": 9,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 9,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q9.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "I. Sanayi faaliyeti gelişmiştir.<br>II. Bitki örtüsü ormandır.<br>III. Yer şekilleri sadedir.<br>IV. Yağış miktarı azdır.<br><br>Kırsal kesimde <b>toplu yerleşmelerin</b> görüldüğü bir yerde yukarıdakilerden hangileri görülür?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "Yalnız III",
+      "D": "I ve II",
+      "E": "III ve IV"
+    },
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Toplu Yerleşme Koşulları:\n• Yeryüzü şekillerinin sade/düz olduğu, su kaynaklarının kısıtlı ve kuyular etrafında toplandığı kurak bozkır alanlarında toplu yerleşme görülür."
+    "explanation": "<b>🎯 Doğru Cevap: E (III ve IV)</b><br><br>Kırsal alanda evlerin birbirine çok yakın inşa edildiği <b>toplu kır yerleşmelerinin</b> ortaya çıkmasında iki temel doğal çevre unsuru belirleyicidir:<br><br><b>1. Yağış miktarının az ve su kaynaklarının kısıtlı olması (IV):</b> İklimin kurak ve yarı kurak olduğu sahalarda yüzey suyu azdır. İnsanlar su bulabildikleri tek bir kuyu, çeşme veya pınar etrafında toplanarak evlerini bitişik kurarlar.<br><b>2. Yer şekillerinin sade (düz) olması (III):</b> Engellerin ve derin vadilerin bulunmadığı düzlük sahalarda evlerin bir arada toplanması kolaylaşır.<br><br>Türkiye'de toplu yerleşmeler en belirgin olarak <b>İç Anadolu</b> ve <b>Güneydoğu Anadolu</b> bölgelerinde görülür.<br><br><b>❌ Diğer Öncüller:</b><br>• <b>I (Sanayi faaliyeti):</b> Kırsal yerleşim dokusunu belirlemez, kentsel bir unsurdur.<br>• <b>II (Bitki örtüsünün orman olması):</b> Ormanlık ve nemli alanlarda (Karadeniz) su bol, arazi engebeli olduğu için <i>dağınık</i> yerleşme görülür.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br><b>Toplu yerleşme:</b> Kurak/Yarı kurak iklim + Kıt su kaynağı + Düz/Sade yer şekilleri."
   },
   {
     "id": "cogr_test_21-q10",
+    "questionNumber": 10,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 10,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q10.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Aşağıdaki platoların hangisinde nüfus yoğunluğu <b>arazi şartlarına bağlı olarak</b> daha azdır?",
+    "options": {
+      "A": "Çatalca",
+      "B": "Yazılıkaya",
+      "C": "Teke",
+      "D": "Cihanbeyli",
+      "E": "Haymana"
+    },
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Karstik Platolarda Seyrek Yerleşme:\n• Teke ve Taşeli Platoları: Kireçtaşlı (karstik) arazinin suyu derine sızdırması ve engebeli yapısı nedeniyle nüfus yoğunluğu çok azdır."
+    "explanation": "<b>🎯 Doğru Cevap: C (Teke)</b><br><br><b>Teke Platosu (ve komşusu Taşeli Platosu):</b><br>Akdeniz Bölgesi'nde yer alan bu platolar <b>karstik kireçtaşı (kalker)</b> arazisinden oluşur.<br>• Yağan yağmur suları karstik çatlak ve erime boşluklarından (lapya, dolin, düden) derine sızdığı için yüzey suları son derece fakirdir.<br>• Arazi çok engebeli, kayalık, taşlık ve toprak örtüsünden yoksundur (terra rossa cepler halindedir).<br>• Bu olumsuz arazi ve jeomorfolojik şartlar tarımı ve yerleşmeyi engellediği için Teke ve Taşeli platoları Türkiye'de nüfus yoğunluğunun en düşük olduğu tenhe alanlardandır.<br><br><b>❌ Diğer Platolar:</b><br>• <b>A (Çatalca):</b> İstanbul'un yer aldığı aşınım platosudur; Türkiye'nin en yoğun nüfuslu platosudur.<br>• <b>D ve E (Cihanbeyli ve Haymana):</b> İç Anadolu'da tahıl tarımı yapılan geniş düzlük platolardır.<br>• <b>B (Yazılıkaya / Haymana civarı):</b> Ege-İç Anadolu geçişinde tarım ve hayvancılık yapılır.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Akdeniz'de iklim elverişli olduğu halde nüfusun seyrek olduğu iki yer vardır: <b>Teke</b> ve <b>Taşeli</b> platoları. Sebebi iklim değil, <b>karstik arazi yapısı ve engebedir</b>!"
   },
   {
     "id": "cogr_test_21-q11",
+    "questionNumber": 11,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 11,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q11.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Köy altı yerleşmeleri; yıl boyunca konaklama süresine göre devamlı veya geçici yerleşmeler şeklinde sınıflandırılır.<br><br>Buna göre aşağıda verilen köy altı yerleşmelerinden hangisi <b>sürekli (devamlı) köy altı yerleşmesine</b> örnektir?",
+    "options": {
+      "A": "Yayla",
+      "B": "Kom",
+      "C": "Dam",
+      "D": "Divan",
+      "E": "Oba"
+    },
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Geçici vs Sürekli Ayrımı:\n• Divan, Mahalle, Çiftlik, Mezra = Sürekli\n• Yayla, Kom, Ağıl, Oba, Dalyan = Geçici."
+    "explanation": "<b>🎯 Doğru Cevap: D (Divan)</b><br><br><b>Divan Yerleşmesi:</b><br>Birbirinden uzakta kurulmuş birkaç mahallenin bir araya gelmesiyle oluşan, muhtarlığın ortak paylaşıldığı <b>sürekli (devamlı)</b> köy altı yerleşmesidir. Özellikle <b>Batı Karadeniz'de (Bolu, Sinop, Kastamonu, Karabük, Zonguldak)</b> yaygındır.<br><br><b>❌ Diğer Şıkların Analizi (Geçici Yerleşmeler):</b><br>• <b>A (Yayla):</b> Hayvancılık ve turizm amaçlı yazlık geçici yerleşme.<br>• <b>B (Kom):</b> Doğu Anadolu'da küçük ve büyükbaş hayvanların barınması için yapılan taş duvarlı geçici yerleşme.<br>• <b>C (Dam):</b> Ege, Gökçeada, Bozcaada ve Göller Yöresi'nde kısmen tarım ama ağırlıklı küçükbaş hayvancılık için kullanılan geçici yerleşme.<br>• <b>E (Oba):</b> Toroslar'da göçebe Yörüklerin çadırlardan oluşan geçici yerleşmesi.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Sürekli Köy Altı Yerleşmeleri: <b>Mahalle, Divan, Çiftlik, Mezra</b>.<br>Soruda 'Batı Karadeniz' veya 'mahallelerin birleşmesi' deniyorsa cevap kesinlikle <b>Divan</b>'dır."
   },
   {
     "id": "cogr_test_21-q12",
+    "questionNumber": 12,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 12,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 12)",
+    "icon": "👥",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q12.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "image": "assets/questions/cogr_test_21_q12_clean.png",
+    "question": "Türkiye’de arazinin yapısına bağlı olarak, kırsal kesimlerde taş evlerin yaygın olduğu alanlar bulunmaktadır.<br><br>Yukarıdaki haritada işaretli alanların hangilerinde <b>bu malzemelerden (taş) yapılan evler daha yaygındır</b>?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "Yalnız III",
+      "D": "I, IV ve V",
+      "E": "II, III ve V"
+    },
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Kırsal Konut Malzemesi ve Jeoloji:\n• Taş evler: Akdeniz (kireçtaşı/karstik), Doğu Anadolu ve İç Anadolu (volkanik tüf/bazalt, Kapadokya, Mardin).\n• Ahşap evler: Karadeniz (orman zenginliği).\n• Kerpiç evler: İç ve Güneydoğu Anadolu (kurak/killi toprak)."
+    "explanation": "<b>🎯 Doğru Cevap: D (I, IV ve V)</b><br><br>Kırsal meskenlerde kullanılan yapı malzemesi doğrudan yörenin jeolojik yapısı ve doğal bitki örtüsüyle uyumludur:<br><br>• <b>I (Erzurum-Kars Platosu):</b> Volkanik bazalt ve andezit taşlarının bol olması nedeniyle kırsalda <b>taş meskenler</b> yaygındır.<br>• <b>IV (Nevşehir / Kapadokya Yöresi):</b> Volkanik tüflerin kolay oyulabilmesi ve kesme taş ocaklarının bolluğu nedeniyle geleneksel mimaride <b>volkanik tüf taş meskenler</b> egemendir.<br>• <b>V (Akdeniz / Toroslar - Taşeli/Teke):</b> Karstik kireçtaşının (kalker) bol olması sebebiyle kırsal meskenlerde <b>taş malzeme</b> kullanılır.<br><br><b>❌ Ahşap Malzemenin Yaygın Olduğu Alanlar:</b><br>• <b>II (Doğu Karadeniz) ve III (Batı Karadeniz):</b> Gür orman örtüsünün ve bol yağışın bulunduğu Karadeniz Bölgesi kırsalında temel yapı malzemesi <b>ahşaptır</b>.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>• Karadeniz = <b>Ahşap</b><br>• Akdeniz, Ege ve Doğu Anadolu (volkanik dağlar) = <b>Taş</b><br>• İç Anadolu ve Güneydoğu Anadolu (kurak/bozkır) = <b>Kerpiç</b> (toprak+saman)."
   },
   {
     "id": "cogr_test_21-q13",
+    "questionNumber": 13,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 13,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q13.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Tarım, ticaret, turizm ve sanayi kentlerde nüfusun yoğunlaşmasında önemli birer etkendir.<br><br>Aşağıdaki kentlerin hangisi <b>bu etkenlerin tamamına (tarım, ticaret, turizm ve sanayi) bağlı olarak</b> daha fazla gelişmiştir?",
+    "options": {
+      "A": "İzmir",
+      "B": "Muğla",
+      "C": "Çanakkale",
+      "D": "Adana",
+      "E": "Bursa"
+    },
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Fonksiyonlarına Göre Şehirler:\n• Sanayi: Kocaeli, Karabük, İskenderun\n• İdari: Ankara\n• Turizm: Antalya, Muğla\n• Maden: Zonguldak, Batman, Soma."
+    "explanation": "<b>🎯 Doğru Cevap: A (İzmir)</b><br><br>İzmir, soruda belirtilen dört fonksiyonun (tarım, ticaret, turizm, sanayi) dördünü de en üst düzeyde ve dengeli bir biçimde bünyesinde barındıran Türkiye'nin 3. büyük metropolüdür:<br>• <b>Tarım:</b> Gediz, Küçük ve Büyük Menderes grabenlerindeki verimli alüvyal ovalarda zeytin, incir, pamuk, üzüm üretimi.<br>• <b>Ticaret:</b> Türkiye'nin en büyük ihracat limanlarından biri, uluslararası fuarlar (İzmir Enternasyonal Fuarı) ve finans.<br>• <b>Turizm:</b> Çeşme, Alaçatı, Efes-Selçuk, Bergama gibi uluslararası çapta deniz ve kültür turizmi merkezleri.<br>• <b>Sanayi:</b> Aliağa rafinerisi, kimya, tekstil, makine, gıda sanayii ve organize sanayi bölgeleri.<br><br><b>❌ Diğer Kentlerin Eksik Fonksiyonları:</b><br>• <b>Muğla:</b> Turizm çok güçlüdür ancak sanayi ve nüfus yoğunlaşması sınırlıdır.<br>• <b>Çanakkale:</b> Sanayi ve turizm ölçeği İzmir ile kıyaslanamayacak düzeydedir.<br>• <b>Adana:</b> Tarım ve sanayi çok güçlüdür ancak turizm fonksiyonu zayıftır.<br>• <b>Bursa:</b> Sanayi ve tarım çok güçlüdür fakat kıyı/yaz turizmi ve deniz ticareti İzmir ölçeğinde değildir.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Çok fonksiyonlu metropol sorularında <b>İzmir</b>; limanı, fuarları, sanayisi, hinterlandındaki tarımı ve dünyaca ünlü Çeşme/Efes turizmiyle tipik cevaptır."
   },
   {
     "id": "cogr_test_21-q14",
+    "questionNumber": 14,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 14,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 14)",
+    "icon": "👥",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q14.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "image": "assets/questions/cogr_test_21_q14_clean.png",
+    "question": "Ülkemizde çizgisel veya doğrusal yerleşme dokusu dağların ve akarsuların uzanışına bağlı ortaya çıkmaktadır.<br><br>Buna göre, yukarıdaki Türkiye haritasında numaralanmış merkezlerin hangisi <b>akarsu boyu yerleşmesine</b> örnektir?",
+    "options": {
+      "A": "V",
+      "B": "IV",
+      "C": "III",
+      "D": "II",
+      "E": "I"
+    },
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Çizgisel (Doğrusal) Yerleşme Dokusu:\n• Bir vadi tabanı, akarsu boyu veya kara yolu hattı boyunca uzanan yerleşmelerdir (Örn: Amasya - Yeşilırmak boyu)."
+    "explanation": "<b>🎯 Doğru Cevap: D (II)</b><br><br><b>Çizgisel (Doğrusal) Yerleşme Dokusu:</b><br>Bir akarsu vadisi, boğaz, demiryolu veya karayolu boyunca bir hat üzerinde uzanan yerleşmelerdir. Evler bu eksenin iki yakasında şerit halinde sıralanır.<br><br>• <b>II Numaralı Merkez (Amasya):</b> <b>Yeşilırmak Vadisi</b> boyunca, ırmağın her iki yakasına kurulmuş ve nehir yatağını takip eden Türkiye'deki en tipik ve klasik <b>akarsu boyu (çizgisel) yerleşme</b> örneğidir.<br><br><b>❌ Diğer Merkezler:</b><br>• <b>I (Rize/Artvin):</b> Kıyı boyu çizgisel veya dağınık yamaç yerleşmeleri.<br>• <b>III (İzmir):</b> Körfez çevresinde dairesel/ışınsal gelişen metropol.<br>• <b>IV (Mersin):</b> Kıyı boyunca uzanan kıyı yerleşmesi.<br>• <b>V (Gaziantep):</b> Düzlükte dairesel/toplu dokulu plato kenti.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>ÖSYM 'vadi/akarsu boyu çizgisel yerleşme' sorduğunda akla ilk gelecek şehir <b>Yeşilırmak boyunca uzanan Amasya</b>'dır."
   },
   {
     "id": "cogr_test_21-q15",
+    "questionNumber": 15,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 15,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q15.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Aşağıdakilerden hangisi Türkiye’de hızlı nüfus artışının ortaya çıkardığı <b>sorunlardan biri değildir</b>?",
+    "options": {
+      "A": "Mal ve hizmete olan talebin artması",
+      "B": "Doğal kaynak tüketiminin artması",
+      "C": "Sosyal sorunların artması",
+      "D": "Sanayi merkezlerinin şehir içinde kalması",
+      "E": "İç göçlerin artması"
+    },
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Hızlı Kentleşmenin Yarattığı Sorunlar:\n• Gecekondulaşma/çarpık kentleşme, altyapı yetersizliği, trafik sıkışıklığı, çevre kirliliği ve tarım alanlarının betonlaşmasıdır."
+    "explanation": "<b>🎯 Doğru Cevap: A</b><br><br>Nüfus artışının sonuçları <b>olumlu</b> ve <b>olumsuz (sorunlar)</b> olarak ikiye ayrılır:<br><br><b>1. Nüfus Artışının Olumlu Sonuçları (Devlet/Ekonomi Açısından):</b><br>• <b>Mal ve hizmetlere olan talep artar</b> (piyasa canlanır, ticaret ve üretim büyür).<br>• İşgücü potansiyeli ve vergi gelirleri artar.<br>• Yeni sanayi ve iş kolları doğar.<br><br><b>2. Nüfus Artışının Olumsuz Sonuçları (Sorunlar):</b><br>• <b>Doğal kaynakların hızla tükenmesi</b> ve çevre kirliliği (B)<br>• Eğitim, sağlık, altyapı yetersizliği ve suç oranlarının artması gibi <b>sosyal sorunlar</b> (C)<br>• Çarpık kentleşme sonucu <b>fabrikaların yerleşim yerleri içinde kalması</b> (D)<br>• Kırsal işsizlik nedeniyle <b>iç göçlerin artması</b> (E)<br>• Kişi başına düşen milli gelirin azalması ve demografik yatırımların artması.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>'Mal ve hizmete talep artması', 'vergi gelirlerinin artması' ve 'işgücü arzının artması' nüfus artışının <b>olumlu ekonomik sonuçlarıdır</b>; sorun değildir!"
   },
   {
     "id": "cogr_test_21-q16",
+    "questionNumber": 16,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 16,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 16)",
+    "icon": "👥",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q16.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "image": "assets/questions/cogr_test_21_q16_clean.png",
+    "question": "Yukarıdaki Türkiye haritasında numaralanmış merkezlerden hangisi <b>madencilik faaliyetlerine bağlı olarak sürekli göç almaktadır</b>?",
+    "options": {
+      "A": "V",
+      "B": "IV",
+      "C": "III",
+      "D": "II",
+      "E": "I"
+    },
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Madencilik Sayesinde Büyüyen Şehir:\n• Batman: 1940'larda küçük bir köy iken Raman Dağı'nda petrolün bulunması ve rafineri kurulmasıyla hızla büyüyüp il olmuştur (Aynı durum Zonguldak ve taş kömürü için de geçerlidir)."
+    "explanation": "<b>🎯 Doğru Cevap: E (I)</b><br><br>Haritada işaretli merkezlerin ekonomik fonksiyonları incelendiğinde:<br>• <b>I Numaralı Merkez (Manisa - Soma):</b> Türkiye'nin en büyük ve en önemli <b>linyit kömürü</b> havzalarından ve termik santral merkezlerinden biridir. Maden ocakları ve enerji sektörü binlerce kişiye istihdam sağladığı için Türkiye'nin dört bir yanından sürekli olarak maden işçisi göçü almaktadır.<br><br><b>❌ Diğer Merkezlerin Fonksiyonları:</b><br>• <b>II (İç Anadolu / Aksaray-Konya çevresi):</b> Tarım ve hayvancılık.<br>• <b>III (Karadeniz / Sinop-Samsun kırsalı):</b> Tarım/balıkçılık; dışarıya göç veren sahalardır.<br>• <b>IV (Antalya / Teke kıyısı):</b> Turizm ve seracılık.<br>• <b>V (Güneydoğu Anadolu / Mardin-Şırnak platosu):</b> Tarım ve hayvancılık; dışarıya net göç veren alandır.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Madencilik sebebiyle göç alan merkezler ÖSYM sorularında genellikle şunlardır: <b>Zonguldak</b> (taş kömürü), <b>Batman</b> (petrol), <b>Soma / Manisa</b> (linyit), <b>Seydişehir / Konya</b> (alüminyum/boksit)."
   },
   {
     "id": "cogr_test_21-q17",
+    "questionNumber": 17,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 17,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 17)",
+    "icon": "👥",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q17.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "image": "assets/questions/cogr_test_21_q17_clean.png",
+    "question": "Türkiye’de tarımda makineleşme oranı arttıkça kırdan kente olan göç artar. Bu durumun temel sebebi makine kullanımına bağlı işgücü ihtiyacının azalmasıdır.<br><br>Buna göre, yukarıdaki Türkiye haritasında numaralanmış merkezlerin hangisinde <b>tarımda makine kullanımına bağlı kırdan şehre olan göç oranı daha azdır</b>?",
+    "options": {
+      "A": "V",
+      "B": "IV",
+      "C": "III",
+      "D": "II",
+      "E": "I"
+    },
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Tarımda Makineleşme ve Göç:\n• Düz ovalarda (İç Anadolu, Güneydoğu, Çukurova) makineleşme insan gücüne ihtiyacı azaltarak göçü artırmıştır; Doğu Karadeniz ve Menteşe gibi engebeli yerlerde ise makine kullanımı zaten kısıtlıdır."
+    "explanation": "<b>🎯 Doğru Cevap: B (IV)</b><br><br>Tarımda makineleşmenin (traktör, biçerdöver) uygulanabilmesi için yer şekillerinin düz veya az eğimli olması gerekir. Düz arazilerde makineler insan gücünün yerini alarak kırsal işsizlik yaratır ve göçü hızlandırır.<br><br>• <b>IV Numaralı Merkez (Doğu Karadeniz Dağları - Rize/Trabzon/Artvin):</b> Yer şekilleri son derece engebeli, dik ve sarp dağ yamaçlarından oluşur. Çay ve fındık tarımı yapılan bu dik yamaçlarda <b>traktör ve biçerdöver gibi tarım makineleri kullanılamaz</b>. Tarımsal faaliyetler tamamen insan emeğine ve beden gücüne dayalı olarak yürütülür; dolayısıyla burada makineleşmeye bağlı işsizlik ve buna dayalı göç <b>görülmez</b>.<br><br><b>❌ Makineli Tarımın Yaygın Olduğu Düzlük Alanlar:</b><br>• <b>I (Trakya - Edirne / Ergene):</b> Geniş ve düz tarım alanları, yoğun makineleşme.<br>• <b>II (İç Ege - Eskişehir/Afyon):</b> Düzlük araziler, yüksek makineleşme.<br>• <b>III (Konya Ovası):</b> Türkiye'nin tahıl ambarı, düz arazi ve en yüksek makineleşme oranı.<br>• <b>V (Güneydoğu Anadolu - Şanlıurfa/Diyarbakır):</b> Geniş düzlük platolar ve ovalar, yoğun makine kullanımı.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>ÖSYM'nin en klasik kalıbıdır: 'Tarımda makineleşmeye bağlı göç nerede görülmez?' Cevap: Yer şekillerinin engebeli olduğu <b>Doğu Karadeniz (Rize, Artvin, Trabzon)</b> ve <b>Hakkâri</b> yöresidir!"
   },
   {
     "id": "cogr_test_21-q18",
+    "questionNumber": 18,
     "testId": "cogr_test_21",
     "testTitle": "TEST - 21: Yerleşme ve Göç",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
-    "icon": "🏘️",
-    "questionNumber": 18,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 21: Yerleşme ve Göç (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_21_q18.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "A"
-      },
-      {
-        "key": "B",
-        "text": "B"
-      },
-      {
-        "key": "C",
-        "text": "C"
-      },
-      {
-        "key": "D",
-        "text": "D"
-      },
-      {
-        "key": "E",
-        "text": "E"
-      }
-    ],
+    "icon": "👥",
+    "hasImage": false,
+    "image": null,
+    "question": "Türkiye’de yer alan A merkezinde yapılan toprak incelemesinde toprağın <b>asidik reaksiyonda</b> olduğu tespit edilmiştir.<br><br>Yukarıda verilen bilgiye bağlı olarak oluşan toprakların Türkiye’de bulunduğu yörelerde kırsal bölgede <b>hangi mesken tipi yaygındır</b>?",
+    "options": {
+      "A": "Ahşap meskenler",
+      "B": "Kerpiç meskenler",
+      "C": "Hımış meskenler",
+      "D": "Düğmeli evler",
+      "E": "Taş meskenler"
+    },
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Toprak Özelliği ve Asitlik:\n• Bol yıkanmış asidik orman toprakları (Kahverengi orman ve Podzol) Doğu Karadeniz kıyı kuşağında görülür."
+    "explanation": "<b>🎯 Doğru Cevap: A (Ahşap meskenler)</b><br><br><b>Coğrafi Neden-Sonuç Zinciri:</b><br><b>1. Asidik Reaksiyonlu Toprak:</b> Bir bölgede toprağın asidik karakterde olması, o bölgenin <b>aşırı ve bol yağış alarak kireç ve tuzun topraktan yıkanıp uzaklaşmış olmasından</b> kaynaklanır. Türkiye'de toprağın en asidik olduğu yer bol yağış alan <b>Karadeniz Bölgesi (özellikle Doğu Karadeniz)</b> orman altı topraklarıdır (kahverengi orman ve podzol topraklar).<br><b>2. Mesken Tipi:</b> Bol yağış alan bu iklim kuşağında gür orman örtüsü hakimdir. İnsanlar çevrelerinde en kolay ve bol buldukları doğal malzeme olan orman ağaçlarını kullanarak <b>ahşap meskenler</b> inşa ederler.<br><br><b>❌ Diğer Mesken Tipleri:</b><br>• <b>B (Kerpiç meskenler):</b> Yağışın az, kireçli/bazik toprakların ve bozkırın bulunduğu İç ve Güneydoğu Anadolu'da yaygındır.<br>• <b>C (Hımış meskenler):</b> Ahşap iskelet arasına kerpiç veya tuğla doldurularak yapılan meskenlerdir (Batı Karadeniz/Safranbolu).<br>• <b>D (Düğmeli evler):</b> Antalya Akseki ve İbradı yöresine özgü sedir/katran ağacı ve kalker taşından yapılan harçsız özel mimaridir.<br>• <b>E (Taş meskenler):</b> Akdeniz kireçtaşı arazisinde veya Doğu Anadolu volkanik arazisinde yaygındır.<br><br><b>💡 ÖSYM Sınav Tüyosu:</b><br>Bol yağış + Yıkanmış asidik toprak + Geniş orman örtüsü = <b>Karadeniz</b> = <b>Ahşap Meskenler</b>."
   },
   {
     "id": "cogr_test_22-q1",
