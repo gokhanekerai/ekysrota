@@ -913,7 +913,7 @@ class EKYSApp {
             desc: 'Konu Tarama 1, 2, 3, 4, 5. Ders ve 1-4. Hafta Kamp Soru Çözümleri.',
             filterKey: 'cogr_tarama',
             targetSubtopic: 'cogr-tarama-subtopics',
-            badge: '8 Test (282 Soru)'
+            badge: '17 Test (312 Soru)'
           },
           {
             id: 'cogr_cikmis_cat',
@@ -1195,16 +1195,8 @@ class EKYSApp {
       'cogr-tarama-subtopics': {
         parentKey: 'cografya-subtopics',
         title: '🎥 Coğrafya Video Tarama Testleri',
-        desc: 'Çözmek istediğiniz Video Tarama Testini seçin:',
+        desc: 'Çözmek istediğiniz Video Tarama Testini seçin (Tüm testler ortalama 15-20 sorudur):',
         items: [
-          {
-            id: 'cogr_hafta1',
-            name: '🎥 Coğrafya Kampı 1. Hafta: Konum, Yer Şekilleri ve İklim',
-            icon: '🗺️',
-            desc: 'Türkiye\'nin Coğrafi Konumu, Jeolojik Yapı, Dağlar, Ovalar, Platolar ve İklim.',
-            filterKey: 'cogr_hafta1',
-            badge: '40 Soru'
-          },
           {
             id: 'cogr1',
             name: '🎥 EKYS Coğrafya Video Tarama 1',
@@ -1238,28 +1230,92 @@ class EKYSApp {
             badge: '22 Soru'
           },
           {
-            id: 'cogr5',
-            name: '🎥 5. Ders & 2. Hafta: Yer Şekilleri, İklim ve Bitki Örtüsü',
+            id: 'cogr5_1',
+            name: '🎥 Tarama 5: Bölüm 1 (Dış Kuvvetler & Karstik)',
+            icon: '🌊',
+            desc: 'Bitki Örtüsü, Rüzgâr Aşındırma-Biriktirme, Karstik Aşınım ve Kanyon Vadiler (17 Soru).',
+            filterKey: 'cogr5_1',
+            badge: '17 Soru'
+          },
+          {
+            id: 'cogr5_2',
+            name: '🎥 Tarama 5: Bölüm 2 (Dağlar, Faylar & Platolar)',
+            icon: '🏔️',
+            desc: 'Orojenez, Kırık ve Kıvrım Dağlar, Horst-Graben, Fay Hatları ve Platolar (17 Soru).',
+            filterKey: 'cogr5_2',
+            badge: '17 Soru'
+          },
+          {
+            id: 'cogr5_3',
+            name: '🎥 Tarama 5: Bölüm 3 (Akarsular, Göller & Kıyılar)',
+            icon: '🏞️',
+            desc: 'Akarsu Rejimleri, Doğal Göller, Kıyı Tipleri ve Plajlar (16 Soru).',
+            filterKey: 'cogr5_3',
+            badge: '16 Soru'
+          },
+          {
+            id: 'cogr_hafta1_1',
+            name: '🎥 1. Hafta Kampı: Bölüm 1 (Konum & Enlem)',
+            icon: '🧭',
+            desc: 'Türkiye\'nin Matematik ve Özel Konumu, Enlem Etkileri, Saat Dilimleri ve Sınırlar (20 Soru).',
+            filterKey: 'cogr_hafta1_1',
+            badge: '20 Soru'
+          },
+          {
+            id: 'cogr_hafta1_2',
+            name: '🎥 1. Hafta Kampı: Bölüm 2 (Yer Şekilleri & Dağlar)',
+            icon: '🏔️',
+            desc: 'Jeolojik Zamanlar, Dağ Kuşakları, Masif Araziler ve Jeomorfolojik Dağılış (20 Soru).',
+            filterKey: 'cogr_hafta1_2',
+            badge: '20 Soru'
+          },
+          {
+            id: 'cogr_hafta3_1',
+            name: '🎥 3. Hafta Kampı: Bölüm 1 (İklim & Sıcaklık)',
             icon: '🌦️',
-            desc: 'Türkiye İklimi, Akarsuları, Yer Şekilleri, Toprak Tipleri ve Bitki Örtüsü Soru Çözümleri (50 Soru Tam).',
-            filterKey: 'cogr5',
-            badge: '50 Soru'
+            desc: 'Türkiye\'nin İklimi, Sıcaklık Dağılışı, İndirgenmiş Sıcaklık ve Basınç Merkezleri (17 Soru).',
+            filterKey: 'cogr_hafta3_1',
+            badge: '17 Soru'
           },
           {
-            id: 'cogr_hafta3',
-            name: '🎥 Coğrafya Kampı 3. Hafta: İklim, Nüfus, Yerleşme ve Göç',
+            id: 'cogr_hafta3_2',
+            name: '🎥 3. Hafta Kampı: Bölüm 2 (Yağış, Bitki & Toprak)',
+            icon: '🌱',
+            desc: 'Yağış Rejimleri, Doğal Bitki Örtüsü Kuşakları ve Zonal-Azonal Toprak Tipleri (17 Soru).',
+            filterKey: 'cogr_hafta3_2',
+            badge: '17 Soru'
+          },
+          {
+            id: 'cogr_hafta3_3',
+            name: '🎥 3. Hafta Kampı: Bölüm 3 (Nüfus, Yerleşme & Göç)',
             icon: '👥',
-            desc: 'Türkiye İklim Elemanları, Nüfus Dağılışı, Demografik Yapı, Yerleşmeler ve Göç Hareketleri.',
-            filterKey: 'cogr_hafta3',
-            badge: '50 Soru'
+            desc: 'Demografik Yapı, Nüfus Dağılışı, Köy Altı Yerleşmeleri ve Göç Dinamikleri (16 Soru).',
+            filterKey: 'cogr_hafta3_3',
+            badge: '16 Soru'
           },
           {
-            id: 'cogr_hafta4',
-            name: '🎥 Coğrafya Kampı 4. Hafta: Ekonomik Coğrafya, Madenler ve Ulaşım',
-            icon: '🏭',
-            desc: 'Türkiye\'nin Tarım, Hayvancılık, Madenler, Enerji Kaynakları, Sanayi ve Ulaşım Ağları.',
-            filterKey: 'cogr_hafta4',
-            badge: '60 Soru'
+            id: 'cogr_hafta4_1',
+            name: '🎥 4. Hafta Kampı: Bölüm 1 (Ulaşım & Dış Ticaret)',
+            icon: '🚢',
+            desc: 'Karayolları, Demiryolu Ağları, Deniz Limanları ve Uluslararası Boru Hatları (20 Soru).',
+            filterKey: 'cogr_hafta4_1',
+            badge: '20 Soru'
+          },
+          {
+            id: 'cogr_hafta4_2',
+            name: '🎥 4. Hafta Kampı: Bölüm 2 (Tarım & Hayvancılık)',
+            icon: '🌾',
+            desc: 'Tarımsal Ürün Dağılışı, Sulama, Gübreleme, Mera ve Ahır Hayvancılığı (20 Soru).',
+            filterKey: 'cogr_hafta4_2',
+            badge: '20 Soru'
+          },
+          {
+            id: 'cogr_hafta4_3',
+            name: '🎥 4. Hafta Kampı: Bölüm 3 (Madenler & Sanayi)',
+            icon: '⛏️',
+            desc: 'Maden Rezervleri, Enerji Kaynakları, Ağır Sanayi ve OSB Tesisleri (20 Soru).',
+            filterKey: 'cogr_hafta4_3',
+            badge: '20 Soru'
           },
           {
             id: 'cogr_video_ders7_1',
@@ -2964,13 +3020,11 @@ class EKYSApp {
       if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));
       if (filterKey === 'cogr3') return (q.testId === 'cogr3' || tId === 'cogr_tarama_3' || (tName.includes('tarama 3') && tName.includes('coğrafya')));
       if (filterKey === 'cogr4') return (q.testId === 'cogr4' || tId === 'cogr_tarama_4' || (tName.includes('tarama 4') && tName.includes('coğrafya')));
-      if (filterKey === 'cogr5') return (q.testId === 'cogr5' || tId === 'cogr_tarama_5' || (tName.includes('tarama 5') && tName.includes('coğrafya')));
-      if (filterKey === 'cogr_hafta1') return (q.testId === 'cogr_hafta1');
-      if (filterKey === 'cogr_hafta3') return (q.testId === 'cogr_hafta3');
-      if (filterKey === 'cogr_hafta4') return (q.testId === 'cogr_hafta4');
+      if (filterKey === 'cogr5' || filterKey.startsWith('cogr5_')) return (q.testId === filterKey || (filterKey === 'cogr5' && q.testId.startsWith('cogr5_')));
+      if (filterKey.startsWith('cogr_hafta')) return q.testId === filterKey || (filterKey === 'cogr_hafta1' && q.testId.startsWith('cogr_hafta1_')) || (filterKey === 'cogr_hafta3' && q.testId.startsWith('cogr_hafta3_')) || (filterKey === 'cogr_hafta4' && q.testId.startsWith('cogr_hafta4_'));
       if (filterKey === 'cogr_ders7_1') return (q.testId === 'cogr_ders7_1' || tId === 'cogr_ders7_1');
       if (filterKey === 'cogr_ders7_2') return (q.testId === 'cogr_ders7_2' || tId === 'cogr_ders7_2');
-      if (filterKey === 'cogr_tarama') return (['cogr1', 'cogr2', 'cogr3', 'cogr4', 'cogr5', 'cogr_ders7_1', 'cogr_ders7_2', 'cogr_hafta1', 'cogr_hafta3', 'cogr_hafta4'].includes(q.testId) || tId.startsWith('cogr_tarama'));
+      if (filterKey === 'cogr_tarama') return (['cogr1', 'cogr2', 'cogr3', 'cogr4', 'cogr_ders7_1', 'cogr_ders7_2'].includes(q.testId) || (q.testId && (q.testId.startsWith('cogr5') || q.testId.startsWith('cogr_hafta'))) || tId.startsWith('cogr_tarama') || tId.startsWith('cogr_hafta'));
 
       // Münferit Coğrafya Testleri (Örn: cogr_test_22 Tarım, cogr_test_23 Hayvancılık vb.)
       if (filterKey.startsWith('cogr_test_')) {
