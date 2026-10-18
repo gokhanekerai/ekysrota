@@ -47713,666 +47713,666 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 1,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 1)",
+    "questionText": "Aşağıdaki grafikte Türkiye'nin 2022 yılı içerisindeki nüfusun, yaş gruplarına ve cinsiyete göre dağılışını gösteren nüfus piramidi verilmiştir.<br><br><strong>Yalnızca grafikteki bilgilerden yararlanarak</strong> aşağıdakilerden hangisine <strong>ulaşılamaz</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q1.png",
+    "image": "assets/questions/cogr_test_20_q1_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Erkek ve kadın nüfus oranına"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çalışma çağındaki nüfusun yaşlı nüfusa göre oranına"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Nüfusu en fazla olan yaş grubuna"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Nüfus yoğunluğuna"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yaşlı nüfusun, genç nüfusa göre oranına"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Yaş Grupları ve Nüfus Piramidi:\n• 0-14 yaş: Çocuk/Genç bağımlı nüfus\n• 15-64 yaş: Çalışma çağındaki aktif (üretken) nüfus\n• 65+ yaş: Yaşlı bağımlı nüfus. Türkiye'de son yıllarda doğum oranlarının düşmesiyle piramidin tabanı daralmakta, ortanca yaş yükselmekte ve nüfus yaşlanmaktadır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Nüfus yoğunluğuna)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Nüfus Yoğunluğu Formülü:</strong> Toplam Nüfus / Yüzölçümü (km²)<br>• Verilen grafikte yalnızca yaş grupları (0-4'ten 90+'ya kadar) ve cinsiyet oranları (%) yer almaktadır. Ülkenin <strong>yüzölçümü (alanı)</strong> grafikte yer almadığı için yalnızca piramitten yararlanılarak kilometrekareye kaç kişi düştüğü (nüfus yoğunluğu) <strong>asla hesaplanamaz</strong>.<br><br>❌ <strong>Ulaşılabilen Bilgilerin Analizi:</strong><br>• <strong>A:</strong> Sol (Erkek) ve Sağ (Kadın) sütunların toplamından cinsiyet oranlarına ulaşılır.<br>• <strong>B ve E:</strong> Çocuk/Genç (0-14), Aktif/Çalışma çağı (15-64) ve Yaşlı (65+) yaş gruplarının oranları toplanıp birbirine oranlanabilir.<br>• <strong>C:</strong> En geniş taban basamağına bakılarak nüfusu en fazla olan yaş aralığı (örneğin 35-39 yaş) doğrudan tespit edilir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM'nin en klasik piramit tuzağıdır: 'Yalnızca nüfus piramidine bakılarak yüzölçümü bilinemeyeceği için NÜFUS YOĞUNLUĞUNA (Aritmetik/Fizyolojik/Tarımsal) ulaşılamaz!'</em>"
   },
   {
     "id": "cogr_test_20-q2",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 2,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 2)",
+    "questionText": "Ülkemizde ekonomi başta olmak üzere çeşitli nedenlere bağlı olarak meydana gelen göçler, genellikle sanayi faaliyetlerinin yoğunlaştığı şehirlere doğru gerçekleşir.<br><br>Buna göre Türkiye haritasında numaralandırılmış merkezlerin hangisi yukarıda verilen açıklamaya uygun olarak <strong>sanayi göçleriyle şehirleşmiştir</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q2.png",
+    "image": "assets/questions/cogr_test_20_q2_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 İç Göçlerin Temel Nedeni:\n• Türkiye'de kırsaldan kentlere ve doğudan batıya göçün en temel itici gücü ekonomik nedenler (iş imkanlarının kısıtlılığı, tarımda makineleşme, mirasla arazilerin bölünmesi) ve çekici güçler (sanayi ve istihdam)dir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numara - Manisa)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada <strong>I numara (Manisa)</strong>, İzmir metropolüne yakınlığı, gelişmiş ulaşım ağları ve devasa Organize Sanayi Bölgesi (beyaz eşya, otomotiv yan sanayi, elektronik fabrikaları) sayesinde son yıllarda sanayi yatırımlarının odak noktası olmuş ve yoğun iş göçü alarak hızla büyümüş tipik bir <strong>sanayi kenti</strong> örneğidir.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>II Numara (Edirne):</strong> Tarım, sınır ticareti ve tarihî turizm fonksiyonlu bir şehirdir; sanayi göçüyle büyümemiştir.<br>• <strong>III Numara (Sinop):</strong> Hinterlandı dar, sanayisi gelişmemiş, göç veren sakin bir şehirdir.<br>• <strong>IV Numara (Konya):</strong> Tarım, gıda ve ticaret kentidir.<br>• <strong>V Numara (Gümüşhane/Bayburt):</strong> Sanayisi bulunmayan ve yoğun dış göç veren dağlık illerimizdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Ege Bölgesi'nde sanayileşmeye ve fabrikalara bağlı olarak en hızlı göç alan merkez İzmir ile birlikte Manisa'dır (Manisa OSB).</em>"
   },
   {
     "id": "cogr_test_20-q3",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 3,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 3)",
+    "questionText": "Fizyolojik nüfus yoğunluğu, toplam nüfusun tarım arazilerine bölünmesi ile tespit edilir.<br><br>Buna göre, yukarıda Türkiye haritasında numaralandırılarak gösterilen merkezlerin hangisinde <strong>fizyolojik nüfus yoğunluğu en fazladır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q3.png",
+    "image": "assets/questions/cogr_test_20_q3_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Fizyolojik Nüfus Yoğunluğu:\n• Fizyolojik Nüfus Yoğunluğu = Toplam Nüfus / Tarım Alanı. İstanbul (devasa nüfus/dar tarım alanı) ve Rize/Trabzon (engebeli yapı/dar tarım alanı) gibi yerlerde fizyolojik yoğunluk çok yüksektir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara - Teke Yöresi / Batı Toroslar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Fizyolojik Nüfus Yoğunluğu Formülü:</strong> Toplam Nüfus / Tarım Alanı (km²)<br>• Bir merkezde fizyolojik nüfus yoğunluğunun <strong>en fazla</strong> çıkabilmesi için: Tarım arazilerinin yer şekilleri (dağlık/engebe) nedeniyle <strong>çok dar ve parçalı olması</strong>, buna karşılık nüfusun fazla olması gerekir.<br>• Haritada <strong>IV numara (Batı Toroslar / Teke kıyı kuşağı - Antalya batısı)</strong> sarp dağlık ve karstik topoğrafyası sebebiyle tarım alanları yok denecek kadar dardır (payda küçüktür). Kıyı kuşağındaki turizm ve yerleşim nüfusu da eklendiğinde tarım alanına düşen insan sayısı (fizyolojik yoğunluk) en yüksek seviyeye çıkar.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (Edirne / Ergene) ve V Numara (Güneydoğu / Şanlıurfa):</strong> Tarım arazileri devasa genişlikte olduğu için fizyolojik yoğunluk düşüktür.<br>• <strong>II Numara (İç Anadolu / Eskişehir-Ankara) ve III Numara (Konya güneyi):</strong> Geniş düzlük tarım arazilerine sahiptir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Fizyolojik nüfus yoğunluğunun en fazla olduğu yerler daima tarım alanlarının çok dar olduğu engebeli bölgelerdir: Doğu Karadeniz (Rize-Trabzon) ve Akdeniz'in dağlık kıyıları (Teke/Antalya/Mersin dağları).</em>"
   },
   {
     "id": "cogr_test_20-q4",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 4,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 4)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q4.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'deki herhangi bir merkezde nüfus artış hızının fazla olmasının <strong>olumsuz sonuçlarından biri değildir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kalkınma hızı azalır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kamu tasarrufları azalır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İş gücü ucuzlar."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Demografik yatırımlar artar."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Doğal kaynak tüketimi artar."
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Gerçek vs Doğal Nüfus Artışı:\n• Doğal Nüfus Artışı: Doğumlar ile ölümler arasındaki fark.\n• Gerçek Nüfus Artışı: Doğal artışa GÖÇLERİN eklenmesiyle oluşan artış. Sanayileşmiş Marmara kentlerinde gerçek nüfus artışı çok yüksektir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İş gücü ucuzlar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Nüfus artış hızının yüksek olmasının ekonomi ve devlet yönetimi açısından doğurduğu sonuçlar:<br>• <strong>Olumsuz Sonuçlar:</strong> Kişi başına düşen millî gelir azalır, kalkınma hızı yavaşlar (A), kamu tasarrufları erir (B), demografik temel harcamalar bütçeyi tüketir (D), çevre kirliliği ve doğal kaynak tüketimi artar (E), işsizlik artar.<br>• <strong>Olumlu Sonuçlar:</strong> Genç ve dinamik iş gücü potansiyeli artar, <strong>iş gücü arzının artmasıyla işçi ücretleri ucuzlar</strong> (üretim maliyetleri düşer ve uluslararası rekabet gücü artar), vergi gelirleri artar, iç pazar genişler.<br>Bu nedenle iş gücünün ucuzlaması, sermaye birikimi ve üretim maliyetleri açısından nüfus artışının <em>olumlu (ekonomiyi canlandırıcı) bir sonucu</em> olarak kabul edilir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A, B, D ve E seçeneklerindeki tüm durumlar ekonomik kalkınmayı doğrudan engelleyen olumsuz etkilerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'İşçi ücretlerinin ucuzlaması' işçi açısından olumsuz gibi görünse de coğrafya ve kalkınma literatüründe 'üretim maliyetini düşürüp rekabet gücü kazandırdığı' için devlet/ekonomi açısından OLUMLU bir sonuçtur.</em>"
   },
   {
     "id": "cogr_test_20-q5",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 5,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q5.png",
+    "questionText": "• Ülkemizde Doğu Anadolu Bölgesi'nde ve Güneydoğu Anadolu Bölgesi'nde yaygındır.<br>• Temel ekonomik faaliyet büyükbaş mera hayvancılığıdır.<br>• Bir veya birkaç evden oluşan yerleşmelerdir.<br>• Yaz mevsiminde kullanılmaktadır.<br>• Taş meskenlerdir; sürü barınağı ve çoban kulübesi bulunur.<br><br>Yukarıda bazı özellikleri verilen <strong>köy altı yerleşmesi</strong> aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Dam"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Mezra"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kom"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Ağıl"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yayla"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Mezra Yerleşmeleri:\n• Doğu ve Güneydoğu Anadolu'da yaygın olan, tarım ve hayvancılığın bir arada yapıldığı geçici veya sürekli köy altı yerleşmesidir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kom)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Kom Yerleşmeleri:</strong><br>• Doğu Anadolu Bölgesi'nde (Erzurum, Kars, Ağrı, Van vb.) yaygın olan geçici köy altı yerleşmesidir.<br>• Temel ekonomik faaliyet <strong>büyükbaş hayvancılıktır</strong>.<br>• Genellikle taştan yapılmış birkaç odalı çoban kulübesi, hayvan barınağı ve ot depolarından oluşur.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Dam:</strong> Ege Bölgesi (Gökçeada, Bozcaada) ve Göller Yöresi'nde küçükbaş hayvancılık yapılan yerleşmedir.<br>• <strong>Mezra:</strong> Doğu ve Güneydoğu'da tarım ve hayvancılığın bir arada yapıldığı <em>sürekli (kalıcı)</em> köy altı yerleşmesidir.<br>• <strong>Ağıl:</strong> İç Anadolu ve Güneydoğu'da <em>küçükbaş hayvanların</em> gece barınması için çitlerle çevrili geçici yerleşmedir.<br>• <strong>Yayla:</strong> Türkiye'nin her bölgesinde görülen, en yaygın geçici yerleşmedir (Karadeniz ve Akdeniz'de turizm ve hayvancılık).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM köy altı yerleşmelerinde bölgeleri eşleştirir: Kom -> Doğu Anadolu (Büyükbaş); Dam -> Ege; Divan -> Batı Karadeniz; Mezra -> Doğu/Güneydoğu (Sürekli); Oba -> Akdeniz/Toroslar (Yörükler).</em>"
   },
   {
     "id": "cogr_test_20-q6",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 6,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q6.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'de yerleşmeyi etkileyen <strong>faktörlerden biri değildir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "İklim özellikleri"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Enlem"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ekonomik faaliyet"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yükselti"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Engebe"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Yerleşmeyi Etkileyen Faktörler:\n• İklim, yer şekilleri, su kaynakları, sanayi ve ulaşım yerleşmeyi doğrudan belirler. Maden rezervinin varlığı tek başına her yerde nüfuslanma sağlamaz; işletilip istihdam oluşturması gerekir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Enlem)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye yaklaşık 36° - 42° Kuzey enlemleri arasında yer alır. Bu 6 derecelik enlem farkı, yerleşmelerin kuruluş yerini ve sınırlarını belirlemede doğrudan bir faktör olamaz.<br>Örneğin Türkiye'nin en kuzey enleminde yer alan İstanbul, Sinop, Samsun, Trabzon gibi merkezler kıyıda yaşanabilir ve yoğun yerleşmeler iken; daha güneydeki Hakkâri veya Taşeli platosu tenhadır. Türkiye'de yerleşmeyi kontrol eden ana faktörler <strong>İklim (A), Ekonomik faaliyetler (C), Yükselti (D) ve Engebedir (E)</strong>; enlem etkisi yerleşme dağılışında belirleyici değildir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• İklim, ekonomik güç, yükselti ve engebe yerleşilebilirliği doğrudan tayin eden ana coğrafi faktörlerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Türkiye'de nüfusun ve yerleşmenin dağılışında enlem faktörü etkili değildir!' Bu kural hem nüfus hem de yerleşme sorularında değişmez bir sınav standardıdır.</em>"
   },
   {
     "id": "cogr_test_20-q7",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 7,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 7)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q7.png",
+    "questionText": "Ülkelerin, nicelik ve nitelik özellikleri bakımından nüfus değişimlerini etkileyecek bilinçli uygulamaların tamamına nüfus politikası adı verilir. Türkiye'de belirli dönemlerde bazı nüfus politikaları uygulanmış ve uygulanmaya devam edilmektedir.<br><br>Buna göre, aşağıdakilerden hangisi Türkiye'nin <strong>2005 ve sonrası dönemde</strong> uyguladığı nüfus politikasının temel özelliklerinden <strong>biri değildir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Doğum yapan annelere çocuk sayısına göre maddî destek sağlanması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Doğum oranlarının artırılması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Doğum yapan ve çalışan annelere bakıcı yardımı yapılması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Şehirlerde aritmetik nüfus yoğunluğunun azaltılması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Eğitim hizmetlerinin geliştirilmesi"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Nüfusun Cinsiyet ve Eğitim Yapısı:\n• Gelişmiş kentlerde kadınların okullaşma ve iş gücüne katılım oranı yüksektir; göç veren kırsal alanlarda ise erkek nüfus göç ettiği için kadın nüfus oranı dönemsel olarak artar."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Şehirlerde aritmetik nüfus yoğunluğunun azaltılması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2005 sonrası ve özellikle 2014'ten günümüze uygulanan nüfus politikalarının temel amacı:<br>1. Doğurganlık hızını artırmak (A ve B),<br>2. Çalışan annelere doğum izni, kreş ve bakıcı teşviki vermek (C),<br>3. Genç nüfus oranını koruyarak nüfusun niteliğini (eğitim ve sağlık) artırmaktır (E).<br>Türkiye'nin nüfus politikaları arasında <strong>'şehirlerdeki aritmetik nüfus yoğunluğunu azaltmak'</strong> gibi bir hedef veya nüfus politikası maddesi hiçbir dönemde yer almamıştır. Aritmetik nüfus yoğunluğu doğrudan yüzölçümü ve nüfus miktarı ilişkisi olup kentleşme planlarıyla yönetilir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A, B, C ve E şıkları günümüz Türkiye nüfus politikalarının çekirdek maddeleridir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'nin güncel nüfus politikasının özeti: 'Nüfus artış hızını artırmak + Nüfusun niteliğini (eğitim, sağlık) yükseltmektir'.</em>"
   },
   {
     "id": "cogr_test_20-q8",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 8,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 8)",
+    "questionText": "Kuruldukları alan üzerinde evlerin dağılış düzenine veya yerleşmelerin genel dış görünümüne yerleşme dokusu denir. Yerleşme, dokularına göre toplu, dağınık ve çizgiseldir.<br><br>Buna göre Türkiye haritasında numaralandırılmış merkezlerin hangisinde <strong>yerleşme dokusu diğerlerinden farklıdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q8.png",
+    "image": "assets/questions/cogr_test_20_q8_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Dağınık vs Toplu Yerleşme:\n• Dağınık Yerleşme: Su kaynaklarının bol, arazinin çok engebeli olduğu Doğu Karadeniz'de görülür.\n• Toplu Yerleşme: Su kaynaklarının kısıtlı, arazinin düz olduğu İç ve Güneydoğu Anadolu'da kuyu/çeşme etrafında görülür."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara - Karadeniz kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kırsal yerleşme dokusunu belirleyen iki temel unsur: <strong>Yer şekilleri (engebe)</strong> ve <strong>Su kaynaklarının varlığıdır</strong>.<br>• <strong>Toplu Yerleşme:</strong> Yer şekillerinin düz/sade olduğu ve su kaynaklarının kısıtlı olduğu yerlerde evler tek bir su kuyusu veya çeşme etrafında toplanır. Haritada <strong>I (İç Batı Anadolu), II (Konya-Karaman), III (Kırşehir/İç Anadolu) ve V (Güneydoğu Anadolu)</strong> kurak iklim ve düz arazileri sebebiyle tipik <em>toplu yerleşme dokusuna</em> sahiptir.<br>• <strong>Dağınık Yerleşme:</strong> Arazinin çok engebeli ve dağlık olduğu, su kaynaklarının ise her vadide bol bulunduğu sahalarda evler yamaçlara birbirinden kilometrelerce uzakta kurulur. Haritada <strong>IV numara (Karadeniz kuşağı)</strong> Türkiye'de <em>dağınık yerleşme dokusunun</em> en karakteristik merkezidir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I, II, III ve V numaralı merkezlerin dördü de toplu dokulu kırsal yerleşmelerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Dağınık yerleşme' eşittir 'Karadeniz Bölgesi (engebe + bol su)'; 'Toplu yerleşme' eşittir 'İç Anadolu ve Güneydoğu Anadolu (düz arazi + su yetersizliği)'.</em>"
   },
   {
     "id": "cogr_test_20-q9",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 9,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q9.png",
+    "questionText": "Aşağıdakilerden hangisi Türkiye'de yapılan nüfus sayımlarından elde edilen bilgilerden <strong>biri değildir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Nüfusun yerleştiği alanlardaki mesken tipleri"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Cinsiyete göre ortanca yaş"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Hane halkı büyüklüğü"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yasal medenî durum"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Yaş bağımlılık oranı"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Nüfus Sayımlarından Elde Edilemeyen Bilgi:\n• Nüfus sayımlarından nüfus miktarı, cinsiyet, yaş yapısı, okuryazarlık ve sektörel dağılım elde edilir; ancak vatandaşların şahsi 'aylık gelir / servet miktarı' sayımlardan elde edilemez."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Nüfusun yerleştiği alanlardaki mesken tipleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>TÜİK tarafından yapılan nüfus sayımlarında ve ADNKS kayıtlarında toplanan demografik veriler:<br>• Nüfus miktarı, cinsiyet yapısı, yaş grupları ve ortanca yaş (B),<br>• Hane halkı büyüklüğü (ortalama kaç kişi yaşadığı) (C),<br>• Medenî durum (evli, bekâr, boşanmış, eşi vefat etmiş) (D),<br>• Yaş bağımlılık oranları (genç ve yaşlı bağımlı nüfus) (E),<br>• Eğitim düzeyi, okur-yazarlık, çalışan nüfusun sektörel dağılımı ve göç hareketleridir.<br>Evlerin inşa malzemesi olan <strong>mesken tipleri (ahşap, taş, kerpiç vb.)</strong> fiziki coğrafya ve jeoloji/iklim konusudur; nüfus sayımlarıyla tespit edilen demografik bir gösterge değildir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• B, C, D ve E seçeneklerindeki tüm göstergeler TÜİK'in her yıl düzenli açıkladığı temel demografik verilerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM sayımlarda elde edilen verileri sıkça sorar: Mesken tipleri ve yer altı kaynakları nüfus sayımıyla değil, fiziki coğrafya ve maden araştırmalarıyla belirlenir.</em>"
   },
   {
     "id": "cogr_test_20-q10",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 10,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q10.png",
+    "questionText": "Aşağıdaki şehirlerin hangisinde <strong>yıl içinde nüfus değişimi en fazladır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yozgat"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Giresun"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Mardin"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Batman"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ankara"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Mevsimlik Nüfus Dalgalanması En Fazla Olan Kent (Muğla / Antalya):\n• Yaz turizmi ve tarım işçiliği sayesinde Bodrum, Marmaris, Fethiye ve Alanya gibi merkezlerde kış nüfusu ile yaz nüfusu arasında 4-5 kat fark oluşur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Giresun)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bir şehirde yıl içinde nüfusun belirgin biçimde dalgalanması (mevsimsel nüfus değişimi) <strong>mevsimlik tarım veya turizm göçleriyle</strong> gerçekleşir.<br><strong>Giresun</strong>, Türkiye'nin en önemli fındık üretim merkezidir. Her yıl ağustos ve eylül aylarında fındık hasadı için hem gurbetteki Giresunluların memleketlerine dönmesi hem de Güneydoğu ve Doğu Anadolu'dan on binlerce mevsimlik tarım işçisinin kente gelmesiyle şehir nüfusu yaz aylarında kendi yerleşik nüfusunun neredeyse iki katına fırlar. Bu nedenle yıl içindeki nüfus değişimi verilen diğer illere göre çok daha fazladır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Ankara:</strong> Memur ve öğrenci şehri olup nüfusu yıl boyunca çok stabildir.<br>• <strong>Yozgat, Mardin ve Batman:</strong> Mevsimlik tarım işçisi çeken değil, aksine başka şehirlere tarım işçisi gönderen illerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Yıl içinde mevsimsel nüfus değişimi en fazla olan iller': Turizme bağlı olarak ANTALYA ve MUĞLA; tarım hasadına bağlı olarak ise RİZE, GİRESUN, ORDU ve ADANA'dır.</em>"
   },
   {
     "id": "cogr_test_20-q11",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 11,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q11.png",
+    "questionText": "Türkiye'de son dönemdeki iç göç hareketi <strong>en çok hangi alanlar arasında</strong> gerçekleşir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kırdan şehre doğru"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Şehirden kıra doğru"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kırdan kıra doğru"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Şehirden şehire doğru"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ülke içinden ülke dışına doğru"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Günümüz Göç Hareketleri:\n• Türkiye'de nüfusun %93'ünden fazlası il ve ilçe merkezlerinde yaşadığı için son dönemdeki en yoğun göç hareketi 'KENTTEN KENTE' gerçekleşmektedir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Şehirden şehire doğru)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• 1950 - 1980 yılları arasında Türkiye'de iç göçün ana yönü <em>\"Kırdan Şehre\"</em> doğruydu.<br>• Ancak günümüzde Türkiye'de şehirleşme oranı <strong>%93'ün üzerine çıkmıştır</strong>; kırsal nüfus oranı ise %7'lere kadar gerilemiştir.<br>• Kırsalda zaten göç edecek nüfus kalmadığı için, günümüzde gerçekleşen iç göçlerin yaklaşık <strong>%80'den fazlası \"Şehirden Şehire (Kentten Kente)\"</strong> doğru gerçekleşmektedir (küçük şehirlerden büyükşehirlere veya metropollerden çevre illere).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A seçeneği (Kırdan şehre) geçmiş dönemin (1950-80) özelliğidir, günümüzün değil.<br>• B seçeneği emeklilik ve tersine göçle sınırlı bir trenddir.<br>• E seçeneği dış göçtür, iç göç değildir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>TÜİK verilerine göre günümüz Türkiye'sinde en yaygın göç tipi açık farkla 'KENTTEN KENTE (Şehirden Şehire)' göçtür!</em>"
   },
   {
     "id": "cogr_test_20-q12",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 12,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q12.png",
+    "questionText": "Aktif nüfus (15 - 64 yaş) içerisinde meslekler, ekonomik faaliyet sınıflandırmasına göre; birincil, ikincil, üçüncül, dördüncül ve beşincil olmak üzere gruplanırlar.<br><br>Buna göre, aşağıdaki meslek dallarından hangisi <strong>birincil ekonomik faaliyetler</strong> içerisindedir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Doktor"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Öğretmen"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İnşaat Mühendisi"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Madenci"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Bankacı"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Ekonomik Faaliyet Kolları:\n• Birincil: Tarım, hayvancılık, madencilik, ormancılık\n• İkincil: Sanayi, imalat, inşaat, enerji\n• Üçüncül: Hizmet (eğitim, sağlık, ulaşım, ticaret, bankacılık)\n• Dördüncül: Yazılım, bilişim, AR-GE, grafik tasarım\n• Beşincil: Üst düzey CEO ve karar verici yöneticiler."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Madenci)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ekonomik Faaliyetlerin Sınıflandırılması:<br>1. <strong>Birincil Faaliyetler:</strong> Doğrudan doğadan ham madde temin edilen sektörlerdir: <em>Tarım, Hayvancılık, Ormancılık, Balıkçılık ve <strong>Madencilik</strong> (yer altı kaynaklarının çıkarılması)</em>.<br>2. <strong>İkincil Faaliyetler:</strong> Ham maddenin işlendiği sanayi, imalat ve inşaat sektörüdür (Fabrika işçisi, inşaat mühendisi vb.).<br>3. <strong>Üçüncül Faaliyetler:</strong> Hizmet sektörüdür (Doktor, Öğretmen, Bankacı, Şoför, Polis, Avukat vb.).<br>4. <strong>Dördüncül Faaliyetler:</strong> Bilişim, yazılım, AR-GE, grafik ve bilgi işlem.<br>5. <strong>Beşincil Faaliyetler:</strong> Karar verme makamı olan üst düzey yöneticiler (CEO'lar).<br>Bu sınıflandırmada maden cevherini doğrudan doğadan çıkaran <strong>Madenci</strong> birincil ekonomik faaliyet içerisindedir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Doktor, Öğretmen ve Bankacı üçüncül (hizmet); İnşaat mühendisi ikincil (inşaat/sanayi) sektördür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM'nin standart tanımı: 'Ham maddeyi doğadan doğrudan toplayan veya çıkaran meslekler (çiftçi, balıkçı, ormancı, madenci)' BİRİNCİL ekonomik faaliyettir.</em>"
   },
   {
     "id": "cogr_test_20-q13",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 13,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 13)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q13.png",
+    "questionText": "Bilgi işlem, yazılım, reklam, grafik, tasarım işlerini yapan insanların oluşturduğu meslek grubu, günümüz dünyasında meslek dalları içerisinde önemli bir konuma ulaşmıştır.<br><br>Türkiye'de son yıllarda gelişim gösteren bu meslek grubu <strong>hangi ekonomik faaliyet içerisinde</strong> değerlendirilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Birincil ekonomik faaliyetler"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İkincil ekonomik faaliyetler"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Üçüncül ekonomik faaliyetler"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Dördüncül ekonomik faaliyetler"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Beşincil ekonomik faaliyetler"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Dördüncül Ekonomik Faaliyet:\n• Bilgisayar programcılığı, yazılım, web tasarımı, veri işleme, network ve reklam ajansları 4. sektör (bilişim) çalışanlarıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Dördüncül ekonomik faaliyetler)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bilgi çağı ve dijitalleşme ile birlikte hizmet sektöründen ayrışan yeni nesil faaliyet kolları:<br>• <strong>Dördüncül Ekonomik Faaliyetler:</strong> Bilgi üretme, bilgiyi işleme, yazılım geliştirme, veri tabanı yöneticiliği, internet hizmetleri, AR-GE (araştırma-geliştirme), grafik tasarım ve reklamcılık gibi doğrudan <strong>bilgi ve teknoloji tabanlı</strong> iş kollarını kapsar.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Birincil:</strong> Tarım, maden, ormancılık.<br>• <strong>İkincil:</strong> Sanayi ve imalat.<br>• <strong>Üçüncül:</strong> Geleneksel hizmet sektörü (sağlık, eğitim, ulaşım, ticaret, bankacılık).<br>• <strong>Beşincil:</strong> Küresel ve ulusal ölçekte stratejik karar veren üst düzey yöneticiler (CEO, bakanlar, yönetim kurulu başkanları).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Yazılım, bilişim, internet, AR-GE ve veri işleme' anahtar kelimeleri doğrudan DÖRDÜNCÜL ekonomik sektörü işaret eder.</em>"
   },
   {
     "id": "cogr_test_20-q14",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 14,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q14.png",
+    "questionText": "Aşağıdaki meslekler ve ekonomik faaliyet eşleştirmelerinden <strong>hangisi yanlıştır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Çiftçi — Birincil"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İnşaatçı — İkincil"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Doktor — Üçüncül"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Üst düzey yönetici — Beşincil"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Öğretmen — İkincil"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Yanlış Sektör Eşleştirmesi:\n• Çiftçi (Birincil), Fabrika işçisi (İkincil), Doktor/Öğretmen (Üçüncül), Yazılımcı (Dördüncül)."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Öğretmen — İkincil)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>İkincil Sektör:</strong> Sanayi, imalat ve inşaat alanında ham maddeleri işleyen üretim kollarıdır (Fabrika işçisi, marangoz, inşaat ustası, kimyager vb.).<br>• <strong>Öğretmenlik</strong> ise eğitim hizmeti sunan bir meslek olup doğrudan <strong>Üçüncül (Hizmet) Ekonomik Faaliyetler</strong> grubunda yer alır. İkincil sektörle hiçbir ilgisi yoktur.<br><br>❌ <strong>Doğru Eşleştirmelerin Analizi:</strong><br>• Çiftçi -> Birincil (Tarım)<br>• İnşaatçı -> İkincil (İnşaat/Sanayi)<br>• Doktor -> Üçüncül (Sağlık/Hizmet)<br>• Üst düzey yönetici (CEO) -> Beşincil (Karar verici)<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Tüm eğitim personeli (öğretmen, akademisyen), sağlık personeli (doktor, hemşire) ve güvenlik personeli (polis, asker) ÜÇÜNCÜL (Hizmet) sektöründedir.</em>"
   },
   {
     "id": "cogr_test_20-q15",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 15,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 15)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q15.png",
+    "questionText": "Türkiye'de 2022 TÜİK verilerine göre; il ve ilçe merkezinde yaşayanlar %93.4'lük oranla, belde ve köylerde yaşayan nüfusa göre oldukça fazladır.<br><br>Aşağıdakilerden hangisi, <strong>bu durumun sebeplerinden biri değildir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kentlerin eğitim, sağlık ve sosyokültürel açıdan cazibe merkezleri olması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kırsalda tarımda makineleşme sonucunda işsizlik oranının artması ve kent merkezlerine göçün yaşanması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yasa ile kent merkezlerine bağlı köylerin mahalle statüsü kazanması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Avrupa'da yaşanan ekonomik kriz nedeniyle, gurbetçi vatandaşların kent merkezlerine göç etmesi"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kentlerde iş imkânlarının kırsala göre daha fazla olması"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Kır/Kent Nüfus Oranı:\n• Türkiye'de cumhuriyetin ilk yıllarında nüfusun %75'i kırsalda yaşarken günümüzde %93.4'ü il ve ilçe merkezlerinde yaşamaktadır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Avrupa'da yaşanan ekonomik kriz nedeniyle, gurbetçi vatandaşların kent merkezlerine göç etmesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'de kentsel nüfus oranının %93.4 gibi rekor bir seviyeye ulaşmasının ana dinamikleri:<br>1. <strong>Büyükşehir Yasası (6360 Sayılı Kanun):</strong> 30 büyükşehirde köylerin ve beldelerin tüzel kişiliği kaldırılarak doğrudan 'mahalle' statüsüne geçirilmiş, böylece bir gecede milyonlarca kırsal nüfus resmen şehirli sayılmıştır (C).<br>2. <strong>Kırsaldaki İtici Güçler:</strong> Tarımda makineleşmeyle işsiz kalanların şehre göçmesi (B), mirasla tarım arazilerinin bölünmesi.<br>3. <strong>Şehirlerdeki Çekici Güçler:</strong> Sanayi ve hizmet iş imkânları (E), eğitim ve sağlık hizmetlerinin kalitesi (A).<br>Avrupa'daki gurbetçilerin kitlesel olarak Türkiye şehirlerine göç etmesi gibi bir demografik süreç yaşanmamıştır; dolayısıyla bu durum şehirleşme oranının sebebi olamaz.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A, B, C ve E seçenekleri Türkiye'de kentleşmeyi hızlandıran en önemli iç göç ve yasal faktörlerdir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Şehir nüfusunun aniden %90'ların üzerine fırlamasının en büyük yasal sebebi 6360 sayılı 'Büyükşehir Kanunu ile köylerin mahalleye dönüştürülmesi'dir!</em>"
   },
   {
     "id": "cogr_test_20-q16",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 16,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q16.png",
+    "questionText": "Türkiye'nin aşağıdaki bölgelerinin hangisinde <strong>nüfus yoğunluğu en azdır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Doğu Anadolu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Marmara"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Ege"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Karadeniz"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Akdeniz"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Nüfus Yoğunluğunun En Az Olduğu Bölge:\n• Doğu Anadolu Bölgesi: Geniş yüzölçümüne karşın zorlu iklim ve engebeli arazi nedeniyle aritmetik nüfus yoğunluğunun en az olduğu coğrafi bölgedir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Anadolu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Aritmetik Nüfus Yoğunluğu = Toplam Nüfus / Yüzölçümü</strong><br>• <strong>Doğu Anadolu Bölgesi:</strong> Türkiye'nin yüzölçümü en büyük (%21) bölgesi olmasına karşılık; ikliminin çok sert ve kışlarının uzun olması, dağlık ve sarp engebeli yer şekilleri, sanayinin yetersizliği ve sürekli yoğun dış göç vermesi nedeniyle toplam nüfusu en az olan bölgelerimizdendir.<br>Geniş yüzölçümüne karşılık az nüfus barındırdığı için <strong>kilometrekareye en az insanın düştüğü (nüfus yoğunluğu en az olan) bölgemiz Doğu Anadolu'dur</strong> (yaklaşık 40-45 kişi/km²).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Marmara:</strong> Nüfus yoğunluğu açık ara en fazla olan bölgemizdir (~300+ kişi/km²).<br>• Ege, Akdeniz ve Güneydoğu Anadolu nüfus yoğunluğu bakımından Doğu Anadolu'dan çok daha yoğundur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Bölge bazında 'Nüfus yoğunluğu en fazla olan bölge' MARMARA; 'Nüfus yoğunluğu en az olan bölge' ise DOĞU ANADOLU'dur.</em>"
   },
   {
     "id": "cogr_test_20-q17",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 17,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 17)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q17.png",
+    "questionText": "Aşağıdakilerden hangisi, <strong>İzmir'deki nüfus yoğunluğunun Manisa'dan daha fazla olmasının</strong> nedenlerinden biri <strong>değildir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Türkiye'nin en önemli liman kentlerinden biri olması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Dağların doğu-batı yönlü uzanması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İş olanaklarının daha fazla olması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Ticarî faaliyetlerin gelişmiş olması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Sosyokültürel açıdan gelişmiş olması"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 İzmir ve Manisa Yoğunluk Farkı:\n• İzmir'in sanayi, liman, ticaret ve turizm fonksiyonları nedeniyle devasa göç alması ve yüzölçümüne oranla çok daha kalabalık olmasıdır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Dağların doğu-batı yönlü uzanması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ege Bölgesi'nde dağların denize dik (doğu-batı doğrultusunda) uzanması; hem <strong>İzmir</strong> hem de hemen doğusundaki komşusu <strong>Manisa</strong> için ortak ve farksız bir jeomorfolojik özelliktir. Her iki ilde de graben olukları doğu-batı uzanışlıdır. Dolayısıyla ortak olan bir fiziki özellik, iki komşu il arasındaki nüfus yoğunluğu farkının sebebi olamaz.<br>İzmir'in Manisa'dan çok daha yoğun nüfuslu olmasını sağlayan etkenler; uluslararası dev bir <strong>liman kenti</strong> olması (A), iş olanaklarının çeşitliliği (C), ticaret, finans ve fuarcılık merkezi olması (D) ve sosyokültürel metropol niteliğidir (E).<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A, C, D ve E seçenekleri İzmir'i Manisa'dan ayıran ve nüfusunu çeken üstün fonksiyonlardır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>İki komşu il veya bölge kıyaslandığında; 'her ikisinde de aynı olan coğrafi özellikler (dağların uzanışı, enlem vb.) aralarındaki farkın nedeni olamaz!</em>"
   },
   {
     "id": "cogr_test_20-q18",
     "testId": "cogr_test_20",
     "testTitle": "TEST - 20: Nüfus - 2",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 18,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 20: Nüfus - 2 (Soru 18)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_20_q18.png",
+    "questionText": "Türkiye'de yerleşim alanları hem göç almakta hem de göç vermektedir.<br><br>Buna göre aşağıda verilen illerden hangisi Türkiye'de <strong>kişi sayısı olarak en çok göç veren</strong> ildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Van"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Gaziantep"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "İstanbul"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Antalya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Trabzon"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Net Göç ve Göç Hızı:\n• Sanayileşmiş metropoller (İstanbul, Kocaeli, İzmir, Bursa, Antalya) sürekli net göç alırken iç ve doğu Anadolu illeri net göç vermektedir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (İstanbul)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>TÜİK iç göç istatistiklerinde çok önemli bir kural vardır:<br>• <strong>Kişi Sayısı Olarak (Miktar):</strong> Yaklaşık 16 milyonluk dev nüfusuyla <strong>İstanbul</strong>, Türkiye'de sayısal olarak <em>en çok göç alan</em> il olduğu gibi aynı zamanda <em>sayısal olarak en çok göç veren</em> ildir (her yıl yüz binlerce öğrenci mezun olup dönmekte, emekliler memleketine gitmekte veya hayat pahalılığı nedeniyle çevre illere göç yaşanmaktadır).<br>• Ancak İstanbul'un aldığı göç, verdiği göçten fazla olduğu için <em>net göçü pozitiftir</em>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Van, Trabzon gibi iller nüfuslarına oranla (% olarak) çok göç verseler de toplam insan sayısı (mutlak miktar) olarak İstanbul'un verdiği göç sayısının yanına bile yaklaşamazlar.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM'nin en bilinen ayırt edici sorusudur: Türkiye'de 'sayısal kişi miktarı olarak' en çok göç alan il de en çok göç veren il de İSTANBUL'dur!</em>"
   },
   {
     "id": "cogr_test_21-q1",
