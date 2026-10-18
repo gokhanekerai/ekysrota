@@ -47047,666 +47047,666 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 1,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 1)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q1.png",
+    "questionText": "Türkiye'nin Cumhuriyet Dönemi'nden itibaren uyguladığı nüfus politikalarıyla ilgili, aşağıdaki ifadelerden hangisi <strong>yanlıştır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Nüfus miktarını artırıcı politika uygulanmıştır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Nüfusun niteliğini arttırıcı politika uygulanmıştır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Son yıllarda nüfus miktarını azaltıcı politika uygulanmaktadır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Cumhuriyetin ilk yıllarında savaşlardan dolayı erkek nüfusun az olması, nüfus artış hızını ve belirlenen nüfus politikasını etkilemiştir."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Nüfus politikalarının belirlenmesinde, nüfus projeksiyonları etkili olmuştur."
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Türkiye'de Nüfus Politikaları Dönemleri:\n• 1923 - 1965 Dönemi: Savaş sonrası nüfus kaybını telafi etmek için Nüfus Artışını Teşvik Edici (Pro-natalist) politika uygulanmıştır.\n• 1965 Sonrası: Nüfus Planlaması Kanunu ile nüfus artış hızını düşürme ve niteliği iyileştirme politikasına geçilmiştir.\n• 2014 Sonrası: Nüfusun yaşlanması tehlikesine karşı yeniden nüfus artışını teşvik edici politikalar gündeme gelmiştir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Son yıllarda nüfus miktarını azaltıcı politika uygulanmaktadır)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye Cumhuriyeti'nde uygulanan nüfus politikaları üç ana döneme ayrılır:<br>1. <strong>1923 - 1963 Dönemi:</strong> Savaşlardan çıkmış ülkenin kalkınması, tarımda iş gücü ve savunma ihtiyacı için <em>nüfus artış hızını artırıcı (pronatalist)</em> politika uygulanmıştır.<br>2. <strong>1963 - 2014 Dönemi:</strong> Hızlı nüfus artışının ekonomik kalkınmayı yavaşlatması sebebiyle <em>nüfus artış hızını azaltıcı ve nüfusun niteliğini iyileştirici (antinatalist)</em> politika (Aile Planlaması) benimsenmiştir.<br>3. <strong>2014 Sonrası (Günümüz):</strong> Doğurganlık oranlarının nüfusun kendini yenileme eşiği olan 2.10'un altına düşmesi, yaşlı nüfus oranının hızla artması ve çalışma çağındaki dinamik nüfusun azalma riski nedeniyle <strong>nüfus artış hızını yeniden artırıcı politikalar (en az 3 çocuk teşviki, doğum izinleri vb.)</strong> uygulanmaktadır. Dolayısıyla günümüzde azaltıcı politika uygulanmaz.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A seçeneği doğrudur (1923-1963 ve 2014 sonrası artırıcıdır).<br>• B seçeneği doğrudur (eğitim ve sağlık standartlarını yükseltme tüm kalkınma planlarında esastır).<br>• D seçeneği doğrudur (Kurtuluş Savaşı ve I. Dünya Savaşı kayıpları nüfus politikasını belirlemiştir).<br>• E seçeneği doğrudur (TÜİK'in nüfus projeksiyonları gelecek planlamasında temel kılavuzdur).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM nüfus politikalarında dönüm noktalarını çok sorar: 1963 (Nüfus Planlaması Kanunu ile azaltıcı döneme geçiş) ve 2014 (yaşlanma tehlikesiyle yeniden artırıcı teşvik politikalarına dönüş).</em>"
   },
   {
     "id": "cogr_test_19-q2",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 2,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 2)",
+    "questionText": "Yukarıdaki haritada işaretli alanların hangisinde, <strong>nüfus miktarı daha fazladır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q2.png",
+    "image": "assets/questions/cogr_test_19_q2_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: A\n\n📌 Nüfusun En Fazla Olduğu Alan:\n• Çatalca-Kocaeli Bölümü (İstanbul ve çevresi): Sanayi, ticaret, finans, ulaşım ve eğitim olanaklarıyla Türkiye nüfusunun yaklaşık beşte birini barındıran en yoğun nüfuslu alandır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numara - İstanbul)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada işaretli merkezler incelendiğinde:<br>• <strong>I Numara:</strong> İstanbul ve Çatalca Yarımadası (~16 milyon nüfus)<br>• <strong>II Numara:</strong> Bursa ve Güney Marmara (~3.2 milyon nüfus)<br>• <strong>III Numara:</strong> İzmir ve Kıyı Ege (~4.5 milyon nüfus)<br>• <strong>IV Numara:</strong> Ankara (~5.8 milyon nüfus)<br>• <strong>V Numara:</strong> Antalya (~2.7 milyon nüfus)<br>Türkiye'nin sanayi, ticaret, finans, ulaşım ve hizmet sektörlerinin ana merkezi olan <strong>I numara (İstanbul)</strong>, Türkiye nüfusunun yaklaşık %18-19'unu tek başına barındırarak nüfus miktarı en fazla olan merkezdir.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• Ankara (IV), İzmir (III), Bursa (II) ve Antalya (V) Türkiye'nin en kalabalık ilk 5 ili arasında yer alsalar da hiçbiri İstanbul'un (I) nüfus büyüklüğüne yaklaşamaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de hem nüfus miktarı hem de km²'ye düşen kişi sayısı (aritmetik nüfus yoğunluğu) en fazla olan il açık ara İstanbul'dur.</em>"
   },
   {
     "id": "cogr_test_19-q3",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 3,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 3)",
+    "questionText": "Ülkemizde nüfus dağılışını etkileyen etmenlerden bir diğeri yağış koşullarıdır. Yıllık yağış miktarı az olan yerler, seyrek nüfusludur.<br><br>Buna göre Türkiye haritasında numaralandırılarak verilen yörelerin hangisinde <strong>yukarıdaki açıklamaya uygun</strong> bir durum söz konusudur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q3.png",
+    "image": "assets/questions/cogr_test_19_q3_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Yağış ve Nüfus Dağılışı:\n• Kıyı kesimlerde yağış ve nemin yeterli olması tarım ve yerleşmeyi kolaylaştırarak nüfusun kıyılarda yoğunlaşmasını sağlamıştır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III numara)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Soru kökünde nüfusun seyrek olma gerekçesi olarak <strong>\"yıllık yağış miktarının az olması (kuraklık)\"</strong> şartı verilmiştir.<br>Haritada <strong>III numara (Güneydoğu Anadolu - Şanlıurfa güneyi / Suriye sınır kuşağı)</strong> Türkiye'de yıllık yağışın en düşük olduğu, şiddetli yaz kuraklığı ve aşırı buharlaşmanın yaşandığı sahadır. Bu alanda nüfusun seyrekliğinde temel etken yağış azlığı ve su yetersizliğidir.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (İç Batı Anadolu / Uşak-Manisa):</strong> Yağış koşulları Güneydoğu kadar kurak değildir; nüfus dağılışında tarım ve ulaşım etkilidir.<br>• <strong>II Numara (Menteşe Yöresi):</strong> Türkiye'nin en çok yağış alan yerlerindendir (~1000 mm); nüfusun seyrek olma nedeni yağış azlığı değil, <em>dağlık ve engebeli yer şekilleridir</em>.<br>• <strong>IV Numara (Doğu Karadeniz iç kesimleri):</strong> Yer şekilleri ve engebe ön plandadır.<br>• <strong>V Numara (Küre Dağları / Kastamonu):</strong> Yağış bol olup yer şekilleri engebelidir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Menteşe Yöresi ile Tuz Gölü / Şanlıurfa güneyi karşılaştırması ÖSYM'nin favorisidir: Menteşe bol yağış almasına rağmen engebeden dolayı; Tuz Gölü ve Güneydoğu güneyi ise düz olmasına rağmen kuraklık (yağış azlığı) nedeniyle seyrek nüfusludur.</em>"
   },
   {
     "id": "cogr_test_19-q4",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 4,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 4)",
+    "questionText": "Türkiye'de aşağıdaki haritada, nüfus miktarının az olduğu merkezler belirtilmiştir.<br><br>Bu merkezlerden hangisinde nüfus miktarının az olması, <strong>diğerlerinden farklı bir nedene</strong> bağlıdır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q4.png",
+    "image": "assets/questions/cogr_test_19_q4_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Nüfusun Seyrek Olduğu Alanlar:\n• Yıldız Dağları, Gelibolu/Biga Yarımadaları, Menteşe Yöresi, Teke ve Taşeli Platoları, Tuz Gölü çevresi ve Hakkari Yöresi engebe veya kuraklık nedeniyle seyrek nüfusludur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara - Taşeli Platosu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Haritada işaretlenen merkezlerin nüfus seyrekliğinin nedenleri incelendiğinde:<br>• <strong>I Numara (Doğu Karadeniz Dağları):</strong> Dağlık ve aşırı engebeli topoğrafya.<br>• <strong>II Numara (Yıldız Dağları):</strong> Engebe ve ana ulaşım hatlarına sapa kalma.<br>• <strong>III Numara (Menteşe Yöresi):</strong> Dağlık arazi ve engebeli yer şekilleri.<br>• <strong>V Numara (Hakkâri Yöresi):</strong> Yüksek, dağlık ve sarp engebeli arazi.<br>• <strong>IV Numara (Taşeli Platosu):</strong> Bir plato düzlüğü olmasına rağmen <strong>karstik yapı (kireçtaşı/kalker arazinin yüzey sularını yer altına sızdırması, su tutamaması ve tarıma elverişsiz toprak yapısı)</strong> nedeniyle seyrek nüfusludur. Yani IV numarada temel faktör yer şekilleri değil, <em>karstik litolojik (kayaç) yapıdır</em>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I, II, III ve V numaralı alanların ortak seyrek nüfuslanma sebebi doğrudan dik yamaçlar, yükselti ve engebedir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Teke ve Taşeli Platolarında nüfus neden seyrektir?' sorusunun klasik yanıtı 'Karstik arazi yapısı ve kireçtaşının suyu tutamamasıdır'.</em>"
   },
   {
     "id": "cogr_test_19-q5",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 5,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 5)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q5.png",
+    "questionText": "Türkiye'de bir bölgede nüfusun seyrek olması üzerinde:<br>I. Ekonomik faaliyet çeşitliliğinin az olması<br>II. Yükselti ve engebe<br>III. Enlem etkisi<br><br>gibi durumlardan hangileri <strong>etkili değildir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "I ve II"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I, II ve III"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Seyrek Nüfuslu Olma Nedenleri:\n• Menteşe ve Teke/Taşeli yörelerinde karstik arazi yapısı ve aşırı dağlık/engebeli topoğrafya nüfusun seyrek kalmasına yol açmıştır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yalnız III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'de nüfusun mekânsal dağılışında fiziki ve beşerî faktörler belirleyicidir:<br>• <strong>I. Ekonomik faaliyet çeşitliliği:</strong> Sanayi, ticaret, turizm ve tarımın gelişmediği sahalar göç verir ve seyrek nüfuslanır (doğrudan etkilidir).<br>• <strong>II. Yükselti ve engebe:</strong> Ulaşımı zorlaştırır, tarım alanlarını daraltır ve iklimi sertleştirerek nüfusun seyrelmesine yol açar (Hakkâri, Menteşe vb. - doğrudan etkilidir).<br>• <strong>III. Enlem etkisi:</strong> Türkiye 36°-42° Kuzey paralelleri arasında dar bir enlem aralığındadır. Türkiye içinde güneyden kuzeye gidildikçe sıcaklık enlemle bir miktar değişse bile bu değişim hiçbir bölgede nüfusun seyrelmesinin temel nedeni olamaz (örneğin en kuzeydeki İstanbul, İzmit, Samsun son derece kalabalıktır). Bu nedenle enlem etkisi nüfus dağılışında belirleyici değildir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• I ve II doğrudan etkili temel faktörlerdir; etkili olmayan faktör yalnızca III'tür.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye içinde nüfus dağılışını açıklarken 'Enlem / Matematik konum' gerekçesi daima yanlıştır; belirleyici olan yer şekilleri, iklim, denizellik ve ekonomik faaliyetlerdir.</em>"
   },
   {
     "id": "cogr_test_19-q6",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 6,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 6)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q6.png",
+    "questionText": "I. Yağış miktarı<br>II. Yer şekilleri<br>III. Eğim<br>IV. Toprak yapısı<br>V. Tarım<br><br>Nüfusun dağılışını etkileyen yukarıdaki faktörlerden hangisi <strong>beşerî bir etkendir</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Beşeri Faktör (Tarım):\n• Yağış, yer şekilleri, eğim ve toprak yapısı 'Doğal/Fiziki' faktörlerdir; 'Tarım' ise insanın ekonomik faaliyeti olan 'Beşeri' faktördür."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V - Tarım)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Nüfus dağılışını etkileyen faktörler ikiye ayrılır:<br>1. <strong>Doğal (Fiziki) Faktörler:</strong> İklim ve yağış miktarı (I), yer şekilleri ve yükselti (II), yamaç eğimi (III), toprak özellikleri ve kayaç yapısı (IV), su kaynakları, bitki örtüsü.<br>2. <strong>Beşerî ve Ekonomik Faktörler:</strong> İnsan faaliyetlerine dayalı olan <strong>Tarım (V)</strong>, Sanayi, Madencilik, Ticaret, Turizm, Ulaşım ve Tarihî faktörlerdir.<br>Bu nedenle öncüller arasında yer alan Tarım faaliyeti insan emeği ve üretimine dayalı beşerî/ekonomik bir etkendir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• Yağış, yer şekilleri, eğim ve toprak insan müdahalesinden bağımsız doğal unsurlardır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Fiziki vs. Beşerî etken ayrımı ÖSYM'nin en temel soru kalıplarındandır. 'Ekonomik faaliyetlerin tümü (tarım, sanayi, turizm, ticaret, madencilik)' beşerî faktör olarak sınıflandırılır.</em>"
   },
   {
     "id": "cogr_test_19-q7",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 7,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 7)",
+    "questionText": "Türkiye'nin 1927-2010 yılları arası nüfus artış hızı grafiği aşağıda verilmiştir.<br><br>Türkiye'nin nüfus artış hızına etki eden faaliyetleri de göz önünde bulundurduğumuz zaman grafikle ilgili <strong>aşağıdakilerden hangisine ulaşılamaz</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q7.png",
+    "image": "assets/questions/cogr_test_19_q7_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Tüm sayım dönemlerinde nüfus miktarı sürekli artmıştır."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "1940-1945 yılları arasında nüfus artış hızının azalmasının sebebi, II. Dünya Savaşı'dır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "1955-1960 Dönemi'nde uygulanan nüfus politikaları sonucunda nüfus artış hızı en yüksek seviyeye ulaşmıştır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Nüfus miktarının en fazla olduğu yıl 2010'dur."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "1960-1965 yılları arasındaki nüfus artış hızının azalmasının sebebi, nüfus politikalarıdır."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Nüfus Artış Hızı Grafiği Yorumu:\n• Grafikte artış hızı sıfırın altına düşmediği sürece ülke nüfusu SÜREKLİ ARTMIŞTIR. Nüfus artış hızının azalması nüfusun azaldığı anlamına gelmez, sadece artış temposunun yavaşladığını gösterir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (1960-1965 yılları arasındaki nüfus artış hızının azalmasının sebebi, nüfus politikalarıdır)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1960-1965 döneminde nüfus artış hızının ‰28.5'ten ‰24.6'ya belirgin şekilde düşmesinin temel ve asıl sebebi, 1961 yılında Almanya ile imzalanan İşgücü Anlaşması ile başlayan ve <strong>Batı Avrupa ülkelerine (Almanya, Fransa, Hollanda vb.) gerçekleşen yoğun dış işçi göçleridir</strong>.<br>Nüfus planlaması kanunu 1965'te yürürlüğe girmiş olup politikaların asıl etkisi sonraki yıllarda hissedilmiştir. Dolayısıyla 1960-65 düşüşü dış göçlerle açıklanır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>A doğrudur:</strong> Nüfus artış hızı sıfırın altına hiç düşmediği (daima pozitif olduğu) için nüfus miktarı her sayımda sürekli artmıştır.<br>• <strong>B doğrudur:</strong> 1940-1945'te erkeklerin silah altına alınması (seferberlik) doğum oranlarını dip yaptırmıştır (‰10.6).<br>• <strong>C doğrudur:</strong> 1955-1960 dönemi ‰28.5 ile Cumhuriyet tarihinin en yüksek artış hızı rekorudur.<br>• <strong>D doğrudur:</strong> Nüfus miktarı kümülatif olarak sürekli arttığı için verilen grafikteki en son yıl (2010) nüfusun en çok olduğu yıldır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM'nin 'Grafik Yorumlama ve Nüfus Tarihi' klasik sorusudur: 1940-45 düşüşünün sebebi 'II. Dünya Savaşı / Seferberlik'; 1960-65 düşüşünün sebebi ise 'Avrupa'ya Yapılan İşçi Göçleri'dir!</em>"
   },
   {
     "id": "cogr_test_19-q8",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 8,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 8)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q8.png",
+    "questionText": "Nüfusun dağılışını etkileyen önemli faktörlerden bir tanesi de eğimdir. Eğimli yamaçlar yerleşmeye uygun olmayan alanları ortaya çıkarır.<br><br>Buna göre, aşağıdaki illerin hangisinde <strong>eğimli arazilerin varlığından dolayı</strong> nüfus azdır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Konya"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Şanlıurfa"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Edirne"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Karaman"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Hakkâri"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: E\n\n📌 Eğim ve Nüfus Yerleşimi:\n• Eğimli ve sarp dağlık alanlarda tarım arazileri dar, ulaşım zor ve heyelan/erozyon riski yüksek olduğu için yerleşme seyrektir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Hakkâri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Hakkâri Yöresi (Cilo-Sat Dağları kuşağı):</strong><br>• Türkiye'nin ortalama yükseltisi en fazla, yamaç eğimi en dik ve topoğrafyası en sarp dağlık alanıdır.<br>• Dik eğimli ve engebeli arazi; tarım alanlarını yok denecek kadar daraltmış, ulaşım altyapısı kurmayı son derece zorlaştırmış ve yerleşmeyi engellemiştir.<br>Bu nedenle Hakkâri'de nüfusun seyrek olmasının temel belirleyicisi <em>aşırı eğimli ve sarp dağlık arazi yapısıdır</em>.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Konya ve Karaman:</strong> Geniş düzlükler ve ovalardan oluşur; eğim azdır, nüfusun seyrekliği kuraklıkla ilgilidir.<br>• <strong>Şanlıurfa:</strong> Geniş ve düz platolara sahiptir.<br>• <strong>Edirne:</strong> Ergene Havzası son derece düz ve sade bir topoğrafyaya sahiptir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Türkiye'de yer şekilleri ve eğim nedeniyle nüfusu en az olan il sorulduğunda akla ilk gelecek merkez Hakkâri'dir.</em>"
   },
   {
     "id": "cogr_test_19-q9",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 9,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 9)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q9.png",
+    "questionText": "Aşağıdaki yarımadaların hangisinde <strong>nüfus miktarı en fazladır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Gelibolu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kapıdağ"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Kocaeli"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Biga"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Urla"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Çatalca-Kocaeli Yarımadası:\n• Gelibolu, Biga, Kapıdağ ve Bozburun yarımadalarına kıyasla Çatalca ve Kocaeli yarımadaları metropol nüfusla açık ara en kalabalık yarımadalardır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kocaeli)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Kocaeli Yarımadası:</strong><br>• Marmara Denizi ile Karadeniz arasında, İstanbul Boğazı'nın doğusundan başlayıp Kocaeli ve Sakarya'yı içine alan alçak aşınım platosudur.<br>• İstanbul'un Anadolu Yakası metropol ilçeleri (Kadıköy, Üsküdar, Pendik, Maltepe, Kartal, Ümraniye vb.) ile sanayi kenti Gebze ve İzmit bu yarımada üzerindedir. Toplamda 8-9 milyondan fazla nüfusu barındırarak Türkiye'nin açık ara en kalabalık yarımadasıdır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Gelibolu Yarımadası:</strong> Millî park, tarihî sit alanı ve engebeli yapısı nedeniyle nüfusu oldukça seyrektir.<br>• <strong>Kapıdağ Yarımadası:</strong> Tombolo özelliği taşır, nüfusu azdır.<br>• <strong>Biga Yarımadası:</strong> Çanakkale yöresinde yer alır, ana yollara sapa kalmıştır.<br>• <strong>Urla Yarımadası:</strong> İzmir kıyısında yazlık/turistik yerleşmeler barındırsa da Kocaeli ile kıyaslanamaz.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM yarımada karşılaştırmalarında 'Gelibolu ve Biga'yı tenhalığıyla; 'Çatalca ve Kocaeli' yarımadalarını ise aşırı sanayileşme ve nüfus yoğunluğuyla sorar.</em>"
   },
   {
     "id": "cogr_test_19-q10",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 10,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 10)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q10.png",
+    "questionText": "Türkiye'de 1940-1945 Dönemi'nde nüfus artış hızı az iken 1950-1960 Dönemi'nde ise en yüksek seviyededir.<br><br>Buna göre aşağıda Türkiye nüfusu ile ilgili verilen bilgilerden <strong>hangisi yanlıştır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Ülkede nüfus artış hızı değişkenlik göstermektedir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "1940-1960 Dönemi arasında nüfus sürekli artmıştır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "1940-1945 Dönemi'nde nüfus miktarı negatif yönde seyretmektedir."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "1950-1960 Döneminde nüfus miktarı bir önceki döneme göre daha fazladır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Ülkede nüfus artış hızı değişkenlik gösterir ancak nüfus miktarı sürekli artar."
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 1940-1945 ve 1950-1960 Nüfus Hareketleri:\n• 1940-1945 arası 2. Dünya Savaşı nedeniyle erkek nüfusun silah altına alınması nüfus artış hızını tarihi dip seviyeye (~%10.6) düşürmüştür.\n• 1950-1960 arası ise sağlık koşullarının iyileşmesi ve savaş tehlikesinin geçmesiyle en yüksek patlama seviyesine (~%28.5) ulaşmıştır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (1940 - 1945 Dönemi'nde nüfus miktarı negatif yönde seyretmektedir)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>En kritik nüfus grafiği kuralı: <strong>\"Nüfus artış hızı\" ile \"Nüfus miktarı\" asla karıştırılmamalıdır!</strong><br>• 1940-1945 döneminde II. Dünya Savaşı seferberliği nedeniyle nüfus artış hızı ‰10.6'ya kadar gerilemiştir. Ancak artış hızı <strong>sıfırın altına düşmediği (negatif olmadığı) sürece</strong> nüfus miktarı azalmaz; sadece daha yavaş artar.<br>• Türkiye nüfusu 1940'ta ~17.8 milyon iken, 1945 sayımında ~18.8 milyona yükselmiştir. Dolayısıyla nüfus miktarı negatif yönde seyretmemiş, 1 milyon artmıştır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A ve E doğrudur: Artış hızı ‰10 ile ‰28 arasında dalgalanmış, nüfus miktarı ise kesintisiz artmıştır.<br>• B ve D doğrudur: Her sayımda nüfus bir öncekine göre daima daha fazladır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM'nin en çok düşürdüğü tuzaktır: 'Nüfus artış hızı grafiğinde eğrinin aşağı inmesi nüfusun azaldığı anlamına gelmez; nüfusun daha yavaş arttığı anlamına gelir!'</em>"
   },
   {
     "id": "cogr_test_19-q11",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 11,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 11)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q11.png",
+    "questionText": "Türkiye'de 1980-2007 yıl aralığındaki dönemde nüfus artış hızının düzenli bir şekilde azaldığı görülür.<br><br>Bu durumun <strong>temel nedeni</strong> aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Tüketimin artması"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yurt dışına yapılan göçlerin artması"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Tarımda makine kullanımının artması"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Şehirleşme oranının artması"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Tarımsal çalışmaların oranının artması"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 1985 Sonrası Nüfus Artış Hızının Düşme Nedenleri:\n• Kadının iş hayatına atılması, kentleşme oranının hızla artması, eğitim seviyesinin yükselmesi ve evlenme yaşının gecikmesidir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Şehirleşme oranının artması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1980 sonrasında Türkiye'de sanayileşme ve kırdan kente göç hız kazanmış, <strong>şehirleşme oranı %50'lerden %75-80'lerin üzerine çıkmıştır</strong>.<br>Şehir hayatının getirdiği dinamikler:<br>1. Kadının eğitim seviyesinin yükselmesi ve aktif iş hayatına katılması,<br>2. Çocuk bakım maliyetlerinin artması ve çekirdek aile yapısının yaygınlaşması,<br>3. Evlilik yaşının yükselmesi ve doğum kontrol bilincinin artmasıdır.<br>Bu sosyo-ekonomik dönüşüm doğrudan doğurganlık oranlarını düşürmüş ve 1980-2007 arasında nüfus artış hızının düzenli olarak gerilemesine yol açmıştır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A seçeneği tüketim artışının doğum oranıyla ters orantılı bir sebebi olamaz.<br>• B seçeneği 1960'larda etkilidir, 1980 sonrasında Avrupa göç alımını durdurmuştur.<br>• C seçeneği 1950'lerde etkilidir.<br>• E seçeneği yanlıştır; tarımsal istihdam oranı azalmıştır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Modern toplumlarda ve Türkiye'de nüfus artış hızının sürekli düşmesinin 1 numaralı sosyo-ekonomik nedeni 'Şehirleşme ve kadının iş hayatına katılması'dır.</em>"
   },
   {
     "id": "cogr_test_19-q12",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 12,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 12)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q12.png",
+    "questionText": "Adrese Dayalı Nüfus Kayıt Sistemi, kişilerin yerleşim yerlerine göre nüfus bilgilerinin güncel olarak tutulduğu, nüfus hareketlerinin her an izlenebildiği, MERNİS kayıtlarındaki T.C. kimlik numarasına göre kişiler ile ikamet adreslerinin eşleştirildiği bir kayıt sistemidir. Günümüzde nüfus sayımları bu sistem üzerinden yapılmaktadır. Bu sayıma <em>De Jure</em> sayım denilmektedir.<br><br>Buna göre Türkiye'de hangi yıldan itibaren nüfus, <strong>Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS)</strong> ile belirlenmektedir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "2005"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "2006"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "2007"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "2008"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "2009"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 ADNKS (Adrese Dayalı Nüfus Kayıt Sistemi):\n• 2007 yılından itibaren Türkiye'de sokağa çıkma yasağı ile yapılan geleneksel sayımlar terk edilmiş; MERNİS ve İkametgah bazlı modern ADNKS sistemine geçilmiştir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (2007)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de geleneksel yöntem olan sokağa çıkma yasaklı <strong>De Facto</strong> (sayım gününde bulunulan yer esaslı) son nüfus sayımı 2000 yılında yapılmıştır.<br>• 2006 yılında çıkarılan Nüfus Hizmetleri Kanunu ile altyapısı hazırlanan <strong>Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS - De Jure / ikametgâh esaslı)</strong> ilk kez <strong>2007 yılında</strong> uygulanmaya başlanmıştır.<br>• 2007'den itibaren her yılın 31 Aralık tarihi itibarıyla Türkiye'nin resmi nüfus verileri TÜİK tarafından açıklanmaktadır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• 2005 hazırlık yılıdır, 2007 ilk resmi ADNKS sayım yılıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>KPSS ve EKYS'de doğrudan bilgi sorusu olarak sorulur: 'ADNKS ilk kez 2007 yılında uygulanmıştır ve sokağa çıkma yasağı uygulamasına son verilmiştir.'</em>"
   },
   {
     "id": "cogr_test_19-q13",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 13,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 13)",
+    "questionText": "Aşağıda Türkiye'ye ait nüfus artış hızı grafiği verilmiştir.<br><br>Buna göre, aşağıdakilerden hangisi grafikten çıkarılacak <strong>doğru bir bilgi değildir</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q13.png",
+    "image": "assets/questions/cogr_test_19_q13_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Nüfus artış hızı yıllara göre değişkenlik göstermektedir."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "1945 Dönemi'nde nüfus artış hızı azdır."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Verilen tüm yıllarda nüfus miktarı sürekli artmıştır."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "1955-1960 Dönemi'nde nüfus miktarı en fazladır."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "1985 Sonrası Dönem'de nüfus artış hızı azalmıştır."
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Nüfus Artış Hızı Grafiği Kritik Kuralı:\n• Nüfus artış hızının en düşük olduğu yıl nüfusun en az olduğu yıl DEĞİLDİR; o yıl nüfusun en yavaş arttığı yıldır. Toplam nüfus son sayım yılında daima en fazladır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (1955-1960 Dönemi'nde nüfus miktarı en fazladır)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Grafik bir <strong>Nüfus Artış Hızı (Binde)</strong> grafiğidir.<br>• 1955-1960 döneminde en yüksek olan şey <em>nüfus miktarı değil, nüfus artış hızıdır (‰28.5)</em>.<br>• Grafikte nüfus artış hızı daima sıfırın üstünde (pozitif) seyrettiği için nüfus miktarı her yıl birikimli olarak artmıştır. Dolayısıyla nüfus miktarının en fazla olduğu dönem grafikte verilen en son yıldır (2009). Bu yüzden D seçeneğindeki ifade kesinlikle yanlıştır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• A seçeneği doğrudur (‰10 ile ‰28 arasında dalgalanmıştır).<br>• B seçeneği doğrudur (1945'te ‰10.6 ile en dip seviyededir).<br>• C seçeneği doğrudur (grafik sıfırın altına inmediği için nüfus daima artmıştır).<br>• E seçeneği doğrudur (1985'ten 2009'a doğru bariz bir düşüş trendi vardır).<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>ÖSYM sınavlarında 'Nüfus artış hızı tepe noktasındayken nüfus miktarı en fazladır' seçeneği %100 YANLIŞTIR. Nüfus miktarı her zaman en son sayım yılında en fazladır!</em>"
   },
   {
     "id": "cogr_test_19-q14",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 14,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 14)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q14.png",
+    "questionText": "Aşağıdakilerden hangisi nüfus artışının <strong>olumsuz sonuçlarındandır</strong>?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Üretim artar."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İşçi ücretleri ucuzlar."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Demografik yatırımlar artar."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Mal ve hizmetlere talep artar."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Vergi gelirleri artar."
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: C\n\n📌 Hızlı Nüfus Artışının Olumsuz Sonuçları:\n• Demografik yatırımların (okul, hastane, altyapı) artması kalkınma hızını yavaşlatır; kişi başına düşen milli gelir azalır, işsizlik ve çarpık kentleşme artar."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Demografik yatırımlar artar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br><strong>Demografik Yatırımlar:</strong> Devletin artan nüfusun temel eğitim, sağlık, beslenme, barınma ve altyapı ihtiyaçlarını karşılamak için yaptığı zorunlu harcamalardır.<br>• Demografik yatırımların artması, devlet bütçesinin sanayi, teknoloji, AR-GE ve katma değerli kalkınma yatırımları yerine sürekli temel tüketim alanlarına harcanmasına neden olur. Bu durum tasarrufları eritir ve <strong>ekonomik kalkınma hızını yavaşlatır</strong>. Bu yüzden kalkınma ekonomisinde olumsuz (tüketici) bir sonuç kabul edilir.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Üretim artması (A), İşçi ücretlerinin ucuzlayarak maliyetlerin düşmesi ve rekabet gücünün artması (B), İç pazarın genişlemesi (D), Vergi gelirlerinin artması (E):</strong> Devlet ve ekonomi açısından nüfus artışının <em>olumlu sonuçları</em> arasında kabul edilir.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Demografik yatırımların artması' kulağa olumlu gibi gelse de kalkınma hızını frenlediği için sorularda daima OLUMSUZ bir sonuçtur!</em>"
   },
   {
     "id": "cogr_test_19-q15",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 15,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 15)",
+    "questionText": "İklim koşulları ve arazi şartlarının uygun olduğu yerler, sık nüfusa sahip alanlardır.<br><br>Haritada işaretli alanların hangisinde <strong>iklim şartları uygun olmasına rağmen, olumsuz arazi koşulları sebebiyle</strong> nüfus miktarı azdır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q15.png",
+    "image": "assets/questions/cogr_test_19_q15_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Yoğun Nüfuslu Ovalar:\n• Gediz, Küçük ve Büyük Menderes graben ovaları, Çukurova, Bursa ve Adapazarı ovaları verimli toprakları ve sanayileriyle yoğun nüfusludur."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara - Teke Yarımadası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Soru kökünde iki koşul verilmiştir: <em>1) İklim şartları uygun (ılık/denizel) olacak, 2) Arazi koşulları olumsuz/engebeli olduğu için nüfus seyrek kalacak</em>.<br>Haritada <strong>IV numara (Teke Yarımadası / Muğla-Antalya arası)</strong> Akdeniz iklim bölgesinde yer alıp kışları ılık, yazları sıcaktır; yani iklimi son derece elverişlidir. Ancak <strong>aşırı engebeli karstik kalker platosu (lapyalar, dolinler)</strong> nedeniyle tarım arazisi bulunmaz, yeraltı suları tabana sızar ve ulaşım zordur. Bu nedenle nüfusu son derece seyrektir.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (Gaziantep/Kilis):</strong> Düz arazi ve yoğun nüfus.<br>• <strong>II Numara (Çukurova/Adana):</strong> Düz arazi, verimli delta ve çok sık nüfus.<br>• <strong>III Numara (Tuz Gölü kuzeyi / Ankara çevresi):</strong> İklimi karasal ve kuraktır (iklimi uygun değildir).<br>• <strong>V Numara (Bursa / Güney Marmara):</strong> Hem arazisi hem iklimi uygun ve son derece yoğun nüfusludur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'İklimi uygun olduğu halde arazisi engebeli/karstik olduğu için seyrek nüfuslu olan yerler': TEKE YARIMADASI, TAŞELİ PLATOSU ve MENTEŞE YÖRESİ'dir.</em>"
   },
   {
     "id": "cogr_test_19-q16",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 16,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 16)",
-    "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q16.png",
+    "questionText": "Türkiye'de <strong>km²'ye düşen insan sayısının en az olduğu il</strong> aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Bayburt"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Tunceli"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Muş"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Konya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Sivas"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Aritmetik Nüfus Yoğunluğu En Az Olan İl:\n• Türkiye'de km²'ye düşen insan sayısının en az olduğu il Tunceli'dir (km² başına ~11-12 kişi)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tunceli)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Aritmetik Nüfus Yoğunluğu:</strong> Toplam Nüfus / Toplam Yüzölçümü (km²)<br>• Türkiye'de aritmetik nüfus yoğunluğunun en düşük olduğu il <strong>Tunceli</strong>'dir (km²'ye yaklaşık 11-12 kişi düşmektedir). Nedenleri: Dağlık ve engebeli arazi, iklim koşullarının sertliği, sanayi ve tarımın yetersizliği nedeniyle yoğun dış göç vermesi ve toplam nüfusunun (~85 bin) yüzölçümüne göre çok az olmasıdır.<br><br>❌ <strong>Çeldiricilerin Analizi:</strong><br>• <strong>Bayburt:</strong> Türkiye'nin nüfus miktarı en az olan ilidir (~84 bin) ancak yüzölçümü küçük olduğu için nüfus yoğunluğu Tunceli'den daha fazladır (yaklaşık 23-24 kişi/km²).<br>• <strong>Konya:</strong> Yüzölçümü en büyük ildir ancak nüfusu 2.3 milyon olduğu için yoğunluğu ~58 kişi/km²'dir.<br>• <strong>Sivas:</strong> Yüzölçümü geniş olmakla birlikte Tunceli'den daha yoğundur.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>Önemli ayrım: Türkiye'de 'Nüfusu en az olan il' BAYBURT; 'Aritmetik nüfus yoğunluğu (km²'ye düşen kişi) en az olan il' ise TUNCELİ'dir!</em>"
   },
   {
     "id": "cogr_test_19-q17",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 17,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 17)",
+    "questionText": "Tarım işçilerinin tarım alanlarına oranı, tarımsal nüfus yoğunluğunu ortaya çıkarır.<br><br>Yukarıda belirtilen alanların hangisinde <strong>tarımsal nüfus yoğunluğu en azdır</strong>?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q17.png",
+    "image": "assets/questions/cogr_test_19_q17_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: D\n\n📌 Tarımsal Nüfus Yoğunluğu:\n• Tarımsal Nüfus Yoğunluğu = Tarımda Çalışan Nüfus / Tarım Alanı. Arazinin çok dağlık ve tarım alanlarının dar olduğu Rize, Trabzon ve Hakkari gibi illerde tarımsal nüfus yoğunluğu çok yüksektir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numara - Konya Havzası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Tarımsal Nüfus Yoğunluğu Formülü:</strong> Tarımla Uğraşan Nüfus / Tarım Alanları (Hektar)<br>• Bir yerde tarımsal nüfus yoğunluğunun <strong>en az</strong> çıkabilmesi için; tarım alanlarının çok geniş, arazinin düz ve makineli tarımın yaygın olması gerekir.<br>• Haritada <strong>IV numara (Konya Ovası / İç Anadolu)</strong> Türkiye'nin en geniş tarım arazilerine sahip, son derece düz ve makineli tarımın en yüksek olduğu bölgesidir. Geniş tarım alanları paydayı büyüttüğü için tarımsal nüfus yoğunluğu en düşüktür.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>II Numara (Doğu Karadeniz Dağları) ve III Numara (Kastamonu/Küre):</strong> Engebeli dağlık yapıda tarım alanları küçücük ve parçalıdır; bu yüzden tarımsal nüfus yoğunluğu buralarda <em>en fazladır</em>.<br>• <strong>I Numara (Hakkâri):</strong> Dağlık arazide tarım alanları çok dardır.<br>• <strong>V Numara (Taşeli Platosu):</strong> Karstik engebeli arazide tarım alanları kısıtlıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Tarımsal nüfus yoğunluğu en az olan yerler': Konya Ovası, Ergene Havzası, Güneydoğu düzlükleridir (arazi düz, tarım alanı geniştir). 'Tarımsal nüfus yoğunluğu en fazla olan yerler': Rize, Trabzon, Hakkâri, Muğla'dır (arazi engebeli, tarım alanı çok dardır).</em>"
   },
   {
     "id": "cogr_test_19-q18",
     "testId": "cogr_test_19",
     "testTitle": "TEST - 19: Nüfus - 1",
     "topicId": "cogr_nufus",
-    "topicName": "Nüfus, Yerleşme ve Göç",
+    "topicName": "Türkiye'de Nüfus & Yerleşme",
     "category": "Genel Kültür - Coğrafya",
     "icon": "👥",
     "questionNumber": 18,
-    "questionText": "Nüfus, Yerleşme ve Göç - Test 19: Nüfus - 1 (Soru 18)",
+    "questionText": "İnsanların tarım, hayvancılık ve turizm gibi faaliyetler nedeniyle belirli bir sürede yer değiştirmelerine mevsimlik göç denir.<br><br>Buna göre yukarıdaki Türkiye haritasında numaralandırılmış merkezlerin hangisi yıl içinde <strong>turizm faaliyetine bağlı en fazla mevsimlik göç</strong> almaktadır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_test_19_q18.png",
+    "image": "assets/questions/cogr_test_19_q18_clean.png",
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "V"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: B\n\n📌 Mevsimlik (Geçici) Göçler:\n• Çukurova'ya pamuk, Karadeniz'e fındık/çay, Akdeniz/Ege kıyılarına turizm, yaylalara hayvancılık için yapılan yer değiştirmeler tipik mevsimlik göçlerdir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numara - Muğla Kıyı Kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Mevsimlik göçler tarım, yaylacılık, inşaat ve turizm amaçlı yapılır.<br>Haritada <strong>II numara (Muğla kıyı kuşağı - Bodrum, Marmaris, Fethiye)</strong> Türkiye'nin en önemli deniz turizmi merkezidir. Kış aylarında kendi yerleşik nüfusu sakin iken, yaz aylarında hem tatilciler hem de otel/hizmet sektöründe çalışmaya gelen mevsimlik işçilerle nüfusu katbekat artarak turizme bağlı en yoğun mevsimlik göçü alır.<br><br>❌ <strong>Haritadaki Diğer Merkezlerin Analizi:</strong><br>• <strong>I Numara (Bolu/Düzce):</strong> Sanayi ve ormancılık geçişidir.<br>• <strong>III Numara (Konya/Tuz Gölü):</strong> Tarımsal faaliyettir, turizm mevsimlik göçü çekmez.<br>• <strong>IV Numara (Doğu Karadeniz / Rize):</strong> Çay ve fındık tarımına bağlı tarımsal mevsimlik göç alır.<br>• <strong>V Numara (Gaziantep/Kilis):</strong> Tarım ve sanayi alanıdır.<br><br>💡 <strong>ÖSYM Sınav Tüyosu:</strong> <em>'Turizme bağlı mevsimlik göç' denildiğinde ilk akla gelen yerler Antalya ve Muğla kıyılarıdır. 'Tarıma bağlı mevsimlik göç' sorulduğunda ise Çukurova (pamuk), Ordu-Giresun (fındık) ve Rize (çay) öne çıkar.</em>"
   },
   {
     "id": "cogr_test_20-q1",
