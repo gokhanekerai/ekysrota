@@ -73497,5 +73497,782 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (I, II ve III)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Eğilimler</b> hakkında verilen üç öncül de Maarif Modeli'nin temel ilkeleridir: I. Becerilerin kuru bilgi olarak kalmayıp eyleme dönüştürülmesini destekler (Doğru); II. Bireyin niyet, duyarlılık ve isteklilik düzeyini yansıtır (Doğru); III. Benlik, sosyal ve entelektüel olmak üzere 3 boyutta ele alınır (Doğru).<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Herhangi bir öncülü dışarıda bırakan seçenekler eksiktir. Eğilimler olmadan beceriler pasif kalır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nBeceriyi eyleme dönüştüren itici güç = <b>Eğilimler</b>dir. Boyutları: <i>Benlik + Sosyal + Entelektüel</i>."
+  },
+  {
+    "id": "anayasa1-q1",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 1,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın başlangıç bölümünde yer alan ilkelerden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Anayasanın ve hukukun üstünlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hürriyetçi demokrasi ve laiklik"
+      },
+      {
+        "key": "C",
+        "text": "Kuvvetler ayrılığı"
+      },
+      {
+        "key": "D",
+        "text": "Güçlü devlet ilkesi"
+      },
+      {
+        "key": "E",
+        "text": "Eşitlik ve sosyal adalet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Güçlü devlet ilkesi)</strong><br><br>🎯 <strong>Mevzuat Analizi (Başlangıç Metni):</strong><br>1982 Anayasası Başlangıç kısmında millet iradesinin mutlak üstünlüğü, egemenliğin kayıtsız şartsız Türk Milleti'ne ait olduğu, kuvvetler ayrımı, hürriyetçi demokrasi, Türk vatanı ve milletinin ebedi varlığı ve hukukun üstünlüğü ilkeleri açıkça sayılmıştır.<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>Anayasa metninde 'sosyal adalet' ve 'hukuk devleti' kavramları yer alırken, 'güçlü devlet' şeklinde anayasal bir ilke ve normatif ifade kesinlikle bulunmaz.<br><br>⚠️ <strong>ÖSYM Sınav Notu:</strong><br>ÖSYM başlangıç ilkelerinde sıklıkla 'kuvvetler birliği' veya 'güçlü/otoriter devlet' gibi kavramları çeldirici olarak kullanır."
+  },
+  {
+    "id": "anayasa1-q2",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 2,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’na göre cumhuriyetin niteliklerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Demokratik devlet"
+      },
+      {
+        "key": "B",
+        "text": "Atatürk milliyetçiliğine bağlı devlet"
+      },
+      {
+        "key": "C",
+        "text": "Hukuk devleti"
+      },
+      {
+        "key": "D",
+        "text": "Teokratik devlet"
+      },
+      {
+        "key": "E",
+        "text": "İnsan haklarına saygılı devlet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Teokratik devlet)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 2 - Cumhuriyetin Nitelikleri):</strong><br>Türkiye Cumhuriyeti; toplumun huzuru, millî dayanışma ve adalet anlayışı içinde, insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan, demokratik, lâik, sosyal bir hukuk devletidir.<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>Teokratik devlet, egemenliğin ve hukuk kurallarının dine dayandığı devlet modelidir. Türkiye Cumhuriyeti Anayasası'nın 2. maddesi ise açıkça 'lâik devlet' ilkesini benimsemiştir.<br><br>⚠️ <strong>ÖSYM Sınav Notu:</strong><br>1982 Anayasası'nda insan haklarına 'dayalı' değil, insan haklarına <strong>'saygılı'</strong> ifadesi geçer (1961 Anayasası'nda 'dayalı' idi)."
+  },
+  {
+    "id": "anayasa1-q3",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’na göre değiştirilemeyen veya değiştirilmesi teklif dahi edilemeyen hükümler arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Başkentin Ankara olduğu"
+      },
+      {
+        "key": "B",
+        "text": "Resmi dilin Türkçe olduğu"
+      },
+      {
+        "key": "C",
+        "text": "Milli marşın İstiklal Marşı olduğu"
+      },
+      {
+        "key": "D",
+        "text": "Yasama yetkisinin TBMM'ye ait olduğu"
+      },
+      {
+        "key": "E",
+        "text": "Devletin şeklinin Cumhuriyet olduğu"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Yasama yetkisinin TBMM'ye ait olduğu)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 4 - Değiştirilemeyecek Hükümler):</strong><br>Anayasa'nın 4. maddesine göre yalnızca ilk 3 madde değiştirilemez ve değiştirilmesi teklif dahi edilemez:<br>• <strong>1. Madde:</strong> Devletin şekli (Cumhuriyet)<br>• <strong>2. Madde:</strong> Cumhuriyetin nitelikleri<br>• <strong>3. Madde:</strong> Devletin bütünlüğü, resmî dili (Türkçe), bayrağı, millî marşı (İstiklal Marşı) ve başkenti (Ankara).<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>Yasama yetkisi (Madde 7), Yürütme yetkisi (Madde 8) ve Yargı yetkisi (Madde 9) ilk 3 maddede yer almaz. Dolayısıyla bu maddeler değiştirilebilir hükümlerdir."
+  },
+  {
+    "id": "anayasa1-q4",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 4,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın başlangıç bölümünde yer alan ilkelerden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atatürk milliyetçiliği"
+      },
+      {
+        "key": "B",
+        "text": "Anayasanın ve kanunların üstünlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Hürriyetçi demokrasi"
+      },
+      {
+        "key": "D",
+        "text": "Kuvvetler birliği"
+      },
+      {
+        "key": "E",
+        "text": "Eşitlik ve sosyal devlet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Kuvvetler birliği)</strong><br><br>🎯 <strong>Mevzuat Analizi:</strong><br>1982 Anayasası Başlangıç metninde: 'Kuvvetler ayrımının, Devlet organları arasında üstünlük sıralaması anlamına gelmeyip, belli Devlet yetki ve görevlerinin kullanılmasından ibaret ve bununla sınırlı medenî bir işbölümü ve işbirliği olduğu' açıkça belirtilmiştir.<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>Kuvvetler birliği ilkesi 1921 ve 1924 Anayasalarında uygulanmış olup, 1961 ve 1982 Anayasalarında tamamen terk edilerek kuvvetler ayrılığı benimsenmiştir."
+  },
+  {
+    "id": "anayasa1-q5",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 5,
+    "questionText": "1982 Anayasası’na göre yukarıdakilerden hangileri anayasa metnine dahildir?\n\nI. Başlangıç kısmı\nII. Geçici maddeler\nIII. Madde kenar başlıkları",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (I ve II)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 176 - Anayasa Metni):</strong><br>• Anayasanın dayandığı temel görüş ve ilkeleri belirten <strong>Başlangıç kısmı</strong>, Anayasa metnine dahildir.<br>• Anayasanın ana maddeleri ve <strong>geçici maddeleri</strong> metne dahildir.<br>• <strong>Madde kenar başlıkları</strong>, sadece ilgili oldukları maddelerin konusunu ve sıralanışını gösterir; bu başlıklar, Anayasa metninden sayılmaz.<br><br>⚠️ <strong>ÖSYM Sınav Notu:</strong><br>Sayfa numaraları, kapak yazıları ve madde kenar başlıkları metne dahil DEĞİLDİR."
+  },
+  {
+    "id": "anayasa1-q6",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 6,
+    "questionText": "1982 Anayasası ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Anayasanın ilk üç maddesi değiştirilemez ve değiştirilmesi teklif dahi edilemez."
+      },
+      {
+        "key": "B",
+        "text": "1982 Anayasası Kurucu Meclis (Milli Güvenlik Konseyi ve Danışma Meclisi) tarafından hazırlanmıştır."
+      },
+      {
+        "key": "C",
+        "text": "Anayasaya başlangıç bölümü koyma geleneği 1982 Anayasası ile başlamıştır."
+      },
+      {
+        "key": "D",
+        "text": "1982 Anayasası’ndaki başlangıç bölümü anayasa metnine dahildir."
+      },
+      {
+        "key": "E",
+        "text": "1982 Anayasası’nda maddelerin kenar başlıkları anayasa metnine dahil değildir."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Başlangıç bölümü koyma geleneği 1982 Anayasası ile başlamıştır)</strong><br><br>🎯 <strong>Mevzuat & Anayasa Tarihi Analizi:</strong><br>Türk anayasa tarihinde anayasa metnine bir 'Başlangıç' (Önsöz) bölümü koyma geleneği ilk defa <strong>1961 Anayasası</strong> ile başlamıştır. 1982 Anayasası bu geleneği devam ettirmiştir.<br><br>🔍 <strong>Diğer Seçeneklerin Doğruluğu:</strong><br>• A: Md. 4 gereğince ilk 3 madde korunmuştur.<br>• B: 12 Eylül sonrası Kurucu Meclis tarafından hazırlanıp halkoylamasıyla (%91.7) kabul edilmiştir.<br>• D ve E: Md. 176 uyarınca başlangıç metne dahil, kenar başlıkları hariçtir."
+  },
+  {
+    "id": "anayasa1-q7",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 7,
+    "questionText": "1982 Anayasası’nın aşağıdaki hükümlerinden hangisi değiştirilemez niteliktedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Seçimlerin beş yılda bir yapılması kuralı"
+      },
+      {
+        "key": "B",
+        "text": "Bayrağın şekli ve büyüklüğünün kanunla belirlenmesi"
+      },
+      {
+        "key": "C",
+        "text": "Cumhuriyetin temel nitelikleri (Madde 2)"
+      },
+      {
+        "key": "D",
+        "text": "TBMM üye tamsayısının 600 olması"
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanının görev süresi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Cumhuriyetin temel nitelikleri)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 4):</strong><br>Anayasa'nın 2. maddesinde yer alan 'Cumhuriyetin Nitelikleri' (demokratik, lâik, sosyal, hukuk devleti vb.) kesinlikle değiştirilemez ve değiştirilmesi teklif dahi edilemez.<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>'Bayrağın ebadı/büyüklüğü' Türk Bayrağı Kanunu ile düzenlenir, anayasal değiştirilemez hüküm değildir. Seçim dönemleri (Md. 77) ve milletvekili sayısı (Md. 75) ise anayasa değişikliği ile geçmişte değiştirilmiştir."
+  },
+  {
+    "id": "anayasa1-q8",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 8,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi cumhuriyetin niteliklerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İnsan haklarına saygılı devlet"
+      },
+      {
+        "key": "B",
+        "text": "Laik devlet"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal devlet"
+      },
+      {
+        "key": "D",
+        "text": "Otoriter devlet"
+      },
+      {
+        "key": "E",
+        "text": "Demokratik devlet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Otoriter devlet)</strong><br><br>🎯 <strong>Mevzuat Analizi:</strong><br>Anayasa'nın 2. maddesi cumhuriyetin niteliklerini 'demokratik, lâik, sosyal bir hukuk devleti' olarak belirlemiştir. 'Otoriter devlet' anayasal bir nitelik olamaz; demokratik devlet ilkesine taban tabana zıttır."
+  },
+  {
+    "id": "anayasa1-q9",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 9,
+    "questionText": "1982 Anayasası’na göre aşağıdakilerden hangisi için devlet tarafından alınacak tedbirler kanun önünde eşitlik ilkesine aykırı sayılır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çocuklar"
+      },
+      {
+        "key": "B",
+        "text": "Yaşlılar"
+      },
+      {
+        "key": "C",
+        "text": "Özürlüler (Engelliler)"
+      },
+      {
+        "key": "D",
+        "text": "Harp ve vazife malulleri ile gaziler"
+      },
+      {
+        "key": "E",
+        "text": "Gençler"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Gençler)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 10 - Pozitif Ayrımcılık):</strong><br>Anayasa'nın 10. maddesine 2010 yılında eklenen fıkraya göre:<br>'Çocuklar, yaşlılar, özürlüler, harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gaziler için alınacak tedbirler eşitlik ilkesine aykırı sayılamaz.'<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>ÖSYM sınavlarında 'gençler', 'öğrenciler', 'işçiler' ve 'emekliler' bu maddeye çeldirici olarak konur. Bu gruplar 10. maddede pozitif ayrımcılık kapsamında sayılmamıştır."
+  },
+  {
+    "id": "anayasa1-q10",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 10,
+    "questionText": "\"Hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.\" düzenlemesi 1982 Anayasası'na göre aşağıdaki hangi madde kapsamında yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel hakların sınırlandırılması (Md. 13)"
+      },
+      {
+        "key": "B",
+        "text": "Kanun önünde eşitlik ilkesi (Md. 10)"
+      },
+      {
+        "key": "C",
+        "text": "Kişi hürriyeti ve güvenliği (Md. 19)"
+      },
+      {
+        "key": "D",
+        "text": "Hak arama hürriyeti (Md. 36)"
+      },
+      {
+        "key": "E",
+        "text": "Kanuni hâkim güvencesi (Md. 37)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Kanun önünde eşitlik ilkesi - Md. 10)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 10):</strong><br>'Herkes, dil, ırk, renk, cinsiyet, siyasî düşünce, felsefî inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir. Hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.'<br><br>⚠️ <strong>ÖSYM Sınav Notu:</strong><br>İmtiyaz yasağı ilkesi mutlak eşitliğin değil, hukuk önünde adil ve eşit işlem görmenin anayasal güvencesidir."
+  },
+  {
+    "id": "anayasa1-q11",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 11,
+    "questionText": "Sosyal devletin yaşama geçirilmesinde aşağıda belirtilen araçlardan hangisinden yararlanılmaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Herkese insan haysiyetine yakışır asgari bir hayat düzeyi sağlamaya yönelik tedbirler alma"
+      },
+      {
+        "key": "B",
+        "text": "Ekonomik hayat düzenini tamamen merkezi planlamaya bırakmaya yönelik tedbirler alma"
+      },
+      {
+        "key": "C",
+        "text": "Gelir ve servet eşitsizliklerini azaltmaya yönelik tedbirler alma"
+      },
+      {
+        "key": "D",
+        "text": "Emek ve sermaye dengesi oluşturma"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal güvenlik mekanizmalarını kurma ve geliştirme"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Ekonomik hayat düzenini tamamen merkezi planlamaya bırakmaya yönelik tedbirler alma)</strong><br><br>🎯 <strong>Mevzuat Analizi (Sosyal Devlet):</strong><br>Sosyal devlet, kapitalist piyasa ekonomisinin eksikliklerini ve eşitsizliklerini sosyal adaletle dengelemeyi amaçlar. Ekonominin tümüyle 'merkezi planlamaya' terk edilmesi kumanda/sosyalist ekonomilerin özelliğidir ve serbest teşebbüs hürriyetine aykırıdır.<br><br>🔍 <strong>Diğer Seçenekler:</strong><br>A, C, D ve E seçenekleri sosyal devletin temel müdahale ve dengeleme araçlarıdır (vergilendirmede adalet, kamulaştırma, sosyal yardımlar vb.)."
+  },
+  {
+    "id": "anayasa1-q12",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 12,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’na göre cumhuriyetin nitelikleri arasında gösterilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Atatürk milliyetçiliğine bağlı devlet"
+      },
+      {
+        "key": "B",
+        "text": "Halkçı devlet"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal devlet"
+      },
+      {
+        "key": "D",
+        "text": "Demokratik devlet"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk devleti"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Halkçı devlet)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 2):</strong><br>1982 Anayasası'nda sayılan nitelikler: İnsan haklarına saygılı, Atatürk milliyetçiliğine bağlı, başlangıç ilkelerine dayanan, demokratik, lâik, sosyal bir hukuk devletidir.<br><br>🔍 <strong>Çeldirici Analizi:</strong><br>'Halkçılık' Atatürk'ün 6 temel ilkesinden ve 1924/1937 Anayasası hükümlerinden biri olmasına rağmen, 1982 Anayasası 2. maddesinde cumhuriyetin nitelikleri arasında müstakil bir başlık olarak yer almamıştır."
+  },
+  {
+    "id": "anayasa1-q13",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 13,
+    "questionText": "Aşağıdakilerden hangisi hukuk devletinin gereklerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İdarenin mali sorumluluğunun bulunması"
+      },
+      {
+        "key": "B",
+        "text": "İdarenin işlemlerinde belirlilik ve kanunilik"
+      },
+      {
+        "key": "C",
+        "text": "Kanuni hâkim güvencesinin sağlanması"
+      },
+      {
+        "key": "D",
+        "text": "Mali güce göre vergi alınması"
+      },
+      {
+        "key": "E",
+        "text": "Yargı bağımsızlığı ve hâkimlik teminatı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Mali güce göre vergi alınması)</strong><br><br>🎯 <strong>Kavram Ayrımı (Hukuk Devleti vs. Sosyal Devlet):</strong><br>• <strong>Hukuk Devleti:</strong> İdarenin hukuka bağlılığı, kanuni hâkim güvencesi, yargı denetimi, idarenin mali sorumluluğu (tazminat yükümlülüğü).<br>• <strong>Sosyal Devlet:</strong> Gelir dağılımında adalet, sosyal güvenlik, çalışanların korunması ve verginin 'mali güce göre' (artan oranlı) alınması (Madde 73).<br><br>⚠️ <strong>ÖSYM Sınav Notu:</strong><br>'Vergide eşitlik' yanlış bir ifadedir; doğru anayasal ilke 'vergide adalet ve mali güce görelik'tir."
+  },
+  {
+    "id": "anayasa1-q14",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 14,
+    "questionText": "1982 Anayasası’nın eşitlik ile ilgili 10. maddesinde aşağıdakilerden hangisi için devlet tarafından alınacak tedbirlerin eşitlik ilkesine aykırı sayılmayacağı belirtilmemiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kadınlar"
+      },
+      {
+        "key": "B",
+        "text": "Malul ve gaziler"
+      },
+      {
+        "key": "C",
+        "text": "Çocuklar"
+      },
+      {
+        "key": "D",
+        "text": "Özürlüler"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenciler"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Öğrenciler)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 10):</strong><br>Anayasa metninde pozitif ayrımcılık tanınan gruplar: Kadınlar (2004 ve 2010 değişiklikleri), çocuklar, yaşlılar, özürlüler, harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gazilerdir. Öğrenciler bu sayılan koruma grupları içinde yer almaz."
+  },
+  {
+    "id": "anayasa1-q15",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 15,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın sosyal devlet anlayışı ilkeleri arasında gösterilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kişilerin sosyal ve ekonomik haklarındaki engelleri kaldırmaya çalışmak"
+      },
+      {
+        "key": "B",
+        "text": "Çalışanların yaşam düzeyini yükseltmek ve işsizliği önleyici tedbirler almak"
+      },
+      {
+        "key": "C",
+        "text": "Vergi yükünün adaletli ve dengeli dağılımını sağlamak"
+      },
+      {
+        "key": "D",
+        "text": "Devletin ülkesi ve milletiyle bölünmez bütünlüğünü korumak"
+      },
+      {
+        "key": "E",
+        "text": "Bireyleri sosyal güvenliğe kavuşturmak"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Devletin ülkesi ve milletiyle bölünmez bütünlüğünü korumak)</strong><br><br>🎯 <strong>Mevzuat Analizi:</strong><br>Devletin ülkesi ve milletiyle bölünmez bütünlüğü Anayasa'nın 3. maddesinde düzenlenen **üniter devlet** yapısının ve milli güvenliğin esasıdır. Sosyal devlet ise ekonomik ve sosyal refahı amaçlayan ilkedir."
+  },
+  {
+    "id": "anayasa1-q16",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 16,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın ilk 3 maddesinde yer alan değiştirilemeyecek hükümlerden birisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekili seçilme yeterliliği"
+      },
+      {
+        "key": "B",
+        "text": "Cumhuriyetin nitelikleri (Madde 2)"
+      },
+      {
+        "key": "C",
+        "text": "Siyasi partilerin mali denetimi"
+      },
+      {
+        "key": "D",
+        "text": "Temel hak ve hürriyetlerin sınırlandırılması"
+      },
+      {
+        "key": "E",
+        "text": "Meclis soruşturması usulü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Cumhuriyetin nitelikleri)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 4):</strong><br>Anayasa'nın ilk üç maddesi (Devletin Şekli, Cumhuriyetin Nitelikleri, Üniter Yapı ve Semboller) değiştirilemez ve değiştirilmesi teklif dahi edilemez."
+  },
+  {
+    "id": "anayasa1-q17",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 17,
+    "questionText": "Aşağıdakilerden hangisi demokratik devlet ilkelerinin unsurlarından biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Seçimlerin serbest, eşit ve genel oya dayanması"
+      },
+      {
+        "key": "B",
+        "text": "Muhalefetin iktidar olma şansının bulunması (Çok partili hayat)"
+      },
+      {
+        "key": "C",
+        "text": "Etkin siyasal makamların seçimle iş başına getirilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Seçimlerin periyodik ve düzenli aralıklarla yapılması"
+      },
+      {
+        "key": "E",
+        "text": "İdarenin mali açıdan sorumlu tutulabilmesi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (İdarenin mali açıdan sorumlu tutulabilmesi)</strong><br><br>🎯 <strong>Mevzuat Analizi:</strong><br>İdarenin kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlü olması (Madde 125) **Hukuk Devleti** ilkesinin bir sonucudur. A, B, C ve D seçenekleri ise doğrudan **Demokratik Devlet** ilkesinin unsurlarıdır."
+  },
+  {
+    "id": "anayasa1-q18",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 18,
+    "questionText": "1982 Anayasası’na göre aşağıdakilerden hangisi anayasa metnine dahil değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Anayasa'nın 2. maddesi"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa'nın başlangıç metni"
+      },
+      {
+        "key": "C",
+        "text": "Anayasa'nın 138. maddesi (Mahkemelerin bağımsızlığı)"
+      },
+      {
+        "key": "D",
+        "text": "Anayasa'nın geçici maddeleri"
+      },
+      {
+        "key": "E",
+        "text": "Madde kenar başlıkları"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Madde kenar başlıkları)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 176):</strong><br>'Madde kenar başlıkları, sadece ilgili oldukları maddelerin konusunu ve maddeler arasındaki sıralanış ve bağlantıyı gösterir. Bu başlıklar, Anayasa metninden sayılmaz.'"
+  },
+  {
+    "id": "anayasa1-q19",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 19,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın değiştirilemeyecek hükümleri arasında gösterilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Devletin yönetim şeklinin cumhuriyet olması (Md. 1)"
+      },
+      {
+        "key": "B",
+        "text": "Devletin dilinin Türkçe, milli marşının İstiklal Marşı olması (Md. 3)"
+      },
+      {
+        "key": "C",
+        "text": "Başkentin Ankara olması (Md. 3)"
+      },
+      {
+        "key": "D",
+        "text": "İnsan haklarına saygılı demokratik, laik, sosyal hukuk devleti olması (Md. 2)"
+      },
+      {
+        "key": "E",
+        "text": "Egemenliğin kullanılmasının hiçbir surette hiçbir kişiye, zümreye veya sınıfa bırakılamayacağı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Egemenliğin kullanılması hükmü)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 4 ve Madde 6):</strong><br>Anayasa'nın 4. maddesine göre yalnızca ilk 3 madde değiştirilemez. E seçeneğindeki egemenlik hükmü ise Anayasa'nın 6. maddesinde yer alır ve usulüne uygun anayasa değişikliği ile değiştirilebilir."
+  },
+  {
+    "id": "anayasa1-q20",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 20,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın 3. maddesinde yer alan hükümler arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkiye Devleti ülkesi ve milletiyle bölünmez bir bütündür."
+      },
+      {
+        "key": "B",
+        "text": "Dili Türkçedir."
+      },
+      {
+        "key": "C",
+        "text": "Başkenti Ankara’dır."
+      },
+      {
+        "key": "D",
+        "text": "Bayrağı, şekli kanununda belirtilen, beyaz ay yıldızlı al bayraktır."
+      },
+      {
+        "key": "E",
+        "text": "Türkiye Devleti bir Cumhuriyettir."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Türkiye Devleti bir Cumhuriyettir)</strong><br><br>🎯 <strong>Mevzuat Analizi (Madde 1 vs. Madde 3):</strong><br>• <strong>Madde 1:</strong> 'Türkiye Devleti bir Cumhuriyettir.' (Devletin Şekli)<br>• <strong>Madde 3:</strong> Üniter yapı, bölünmez bütünlük, resmi dil (Türkçe), bayrak, milli marş (İstiklal Marşı) ve başkent (Ankara)."
+  },
+  {
+    "id": "anayasa1-q21",
+    "testId": "anayasa_test_1",
+    "testTitle": "1982 Anayasası - Genel Esaslar (Test 1)",
+    "topicId": "anayasa_genel_esaslar",
+    "topicName": "1982 Anayasası ve Temel İlkeler",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 21,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın başlangıç kısmında açıkça ifadesi bulunan unsurlardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çağdaş medeniyet düzeyine ulaşma azmi"
+      },
+      {
+        "key": "B",
+        "text": "Millet iradesinin mutlak üstünlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Atatürk milliyetçiliği"
+      },
+      {
+        "key": "D",
+        "text": "Dünya milletler ailesinin şerefli bir üyesi olma"
+      },
+      {
+        "key": "E",
+        "text": "Devlet organları arasında kuvvetler birliği"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Devlet organları arasında kuvvetler birliği)</strong><br><br>🎯 <strong>Mevzuat Analizi:</strong><br>Başlangıç metni açıkça 'Kuvvetler ayrımının Devlet organları arasında üstünlük sıralaması anlamına gelmeyip... medeni bir işbölümü ve işbirliği olduğu'nu hükme bağlar; kuvvetler birliği anlayışını kesinlikle reddeder."
   }
 ];

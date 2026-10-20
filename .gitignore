@@ -10,3 +10,4 @@ scratch/
 *.py
 scratch_*.json
 .firebase/
+__pycache__/

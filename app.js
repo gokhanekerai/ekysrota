@@ -2111,8 +2111,16 @@ class EKYSApp {
       'mevzuat-anayasa-subtopics': {
         parentKey: 'mevzuat',
         title: '📘 1982 T.C. Anayasası Çıkmış & Konu Testleri',
-        desc: '1982 Anayasası ile ilgili çıkmış sınav soruları:',
+        desc: '1982 Anayasası ile ilgili konu tarama ve çıkmış sınav soruları:',
         items: [
+          {
+            id: 'anayasa_video_tarama_1',
+            name: '🌟 1982 Anayasası Video Konu Tarama Testi (21 Soru)',
+            icon: '⚖️',
+            desc: 'Genel Esaslar, Cumhuriyetin Nitelikleri, Normlar Hiyerarşisi ve Eşitlik İlkesi (Madde 1-11).',
+            filterKey: 'anayasa_video_tarama_1',
+            badge: '21 Soru • Konu Testi'
+          },
           {
             id: 'ekys_2026_mevzuat_anayasa',
             name: '2026 EKYS Anayasa Çıkmış Soruları',
@@ -3038,6 +3046,7 @@ class EKYSApp {
       }
 
       // 1. Özel Video Tarama & Yeni Münferit Coğrafya & Eğitim Bilimleri Testleri
+      if (filterKey === 'anayasa_video_tarama_1' || filterKey === 'anayasa_test_1') return (q.testId === 'anayasa_test_1' || tId === 'anayasa_test_1' || tId === 'anayasa_video_tarama_1');
       if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
       if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
       if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');
