@@ -74284,7 +74284,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 1,
-    "questionText": "Öğretmen kesirleri önce nesneleri bölerek gösterir, ardından kesir sembolleriyle ifade eder.\n\nBu sıralama hangi öğretim ilkesine örnektir?",
+    "questionText": "Öğretmen kesirleri önce nesneleri bölerek gösterir, ardından kesir sembolleriyle ifade eder. Bu sıralama hangi öğretim ilkesine örnektir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74321,7 +74321,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 2,
-    "questionText": "Öğretmen, öğrencilerin yaş, ön bilgi, ilgi ve ihtiyaçlarını dikkate alarak farklı etkinlikler seçer.\n\nHangi öğretim ilkesini gözetmiştir?",
+    "questionText": "Öğretmen, öğrencilerin yaş, ön bilgi, ilgi ve ihtiyaçlarını dikkate alarak farklı etkinlikler seçer. Hangi öğretim ilkesini gözetmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74358,7 +74358,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 3,
-    "questionText": "Öğrenci çalışmaya başlarken öğrenme yolunu planlar; çalışırken anlayıp anlamadığını kontrol eder ve gerektiğinde yolunu değiştirir.\n\nHangi düşünme becerisi öne çıkar?",
+    "questionText": "Öğrenci çalışmaya başlarken öğrenme yolunu planlar; çalışırken anlayıp anlamadığını kontrol eder ve gerektiğinde yolunu değiştirir. Hangi düşünme becerisi öne çıkar?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74395,7 +74395,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 4,
-    "questionText": "Öğretmen örnek ve karşıt örnekleri sunar. Öğrenciler bunları karşılaştırarak başlangıçta açıklanmayan ortak ilişkiye kendileri ulaşır.\n\nHangi strateji kullanılmıştır?",
+    "questionText": "Öğretmen örnek ve karşıt örnekleri sunar. Öğrenciler bunları karşılaştırarak başlangıçta açıklanmayan ortak ilişkiye kendileri ulaşır. Hangi strateji kullanılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74432,7 +74432,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 5,
-    "questionText": "Sunuş yoluyla öğretimle ilgili aşağıdaki ifadelerden\n\nhangisi yanlıştır?",
+    "questionText": "Sunuş yoluyla öğretimle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74469,7 +74469,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 6,
-    "questionText": "Öğretmen konuya başlarken, eski kavramlarla yeni ünitenin ana kavramları arasındaki bağı gösteren bir şema sunar.\n\nŞemanın işlevi hangisidir?",
+    "questionText": "Öğretmen konuya başlarken, eski kavramlarla yeni ünitenin ana kavramları arasındaki bağı gösteren bir şema sunar. Şemanın işlevi hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74506,7 +74506,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 7,
-    "questionText": "Öğrenciler bitki gelişimiyle ilgili bir sorunu tanımlar, olası açıklamalar geliştirir, verilerle bunları sınar ve sonuca ulaşır.\n\nSüreç hangi stratejiye uygundur?",
+    "questionText": "Öğrenciler bitki gelişimiyle ilgili bir sorunu tanımlar, olası açıklamalar geliştirir, verilerle bunları sınar ve sonuca ulaşır. Süreç hangi stratejiye uygundur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74543,7 +74543,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 8,
-    "questionText": "Tam öğrenmede aşağıdaki eşleştirmelerden\n\nhangisi yanlıştır?",
+    "questionText": "Tam öğrenmede aşağıdaki eşleştirmelerden hangisi yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74580,7 +74580,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 9,
-    "questionText": "Öğretmen, ünite sonunda belirlenen eksikler için farklı açıklamalar ve alıştırmalarla ek öğretim yapıp öğrenmeyi yeniden kontrol eder.\n\nHangi modeli uygulamaktadır?",
+    "questionText": "Öğretmen, ünite sonunda belirlenen eksikler için farklı açıklamalar ve alıştırmalarla ek öğretim yapıp öğrenmeyi yeniden kontrol eder. Hangi modeli uygulamaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74639,7 +74639,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "I – II – IV – III YAPRAK TEST 04 2"
+        "text": "I – II – IV – III"
       }
     ],
     "correctAnswer": "D",
@@ -74654,7 +74654,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 11,
-    "questionText": "Gagné’ye göre bir öğrencinin öğrenirken hangi zihinsel yolu kullanacağına karar vermesi ve kendi dikkatini yönetmesi hangi öğrenme ürünüyle\n\nilişkilidir?",
+    "questionText": "Gagné’ye göre bir öğrencinin öğrenirken hangi zihinsel yolu kullanacağına karar vermesi ve kendi dikkatini yönetmesi hangi öğrenme ürünüyle ilişkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74691,7 +74691,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 12,
-    "questionText": "Bir öğrenci kendi güçlü ve zayıf yanlarını değerlendirirken, diğeri bitkileri özelliklerine göre ayırt edip sınıflandırır. Gardner’a göre bu iki etkinlik sırasıyla hangi zekâ\n\nalanlarıyla ilişkilidir?",
+    "questionText": "Bir öğrenci kendi güçlü ve zayıf yanlarını değerlendirirken, diğeri bitkileri özelliklerine göre ayırt edip sınıflandırır. Gardner’a göre bu iki etkinlik sırasıyla hangi zekâ alanlarıyla ilişkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74728,7 +74728,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 13,
-    "questionText": "Yapılandırmacı bir öğrenme ortamına aşağıdaki\n\nuygulamalardan hangisi uygun değildir?",
+    "questionText": "Yapılandırmacı bir öğrenme ortamına aşağıdaki uygulamalardan hangisi uygun değildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74765,7 +74765,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 14,
-    "questionText": "5E modelinde öğrencilerin öğrendikleri ilkeyi daha önce karşılaşmadıkları bir olayın açıklanmasında kullanmaları özellikle hangi aşamaya\n\nörnektir?",
+    "questionText": "5E modelinde öğrencilerin öğrendikleri ilkeyi daha önce karşılaşmadıkları bir olayın açıklanmasında kullanmaları özellikle hangi aşamaya örnektir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74802,7 +74802,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 15,
-    "questionText": "Bir grup çalışmasında üyeler birbirlerinin öğrenmesine katkı sağlamakta; ortak başarının yanında her öğrencinin öğrendiği ayrı ayrı kontrol edilmektedir.\n\nBu iki özellik sırasıyla hangileridir?",
+    "questionText": "Bir grup çalışmasında üyeler birbirlerinin öğrenmesine katkı sağlamakta; ortak başarının yanında her öğrencinin öğrendiği ayrı ayrı kontrol edilmektedir. Bu iki özellik sırasıyla hangileridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74839,7 +74839,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 16,
-    "questionText": "Basamaklı öğretimde aşağıdaki görevlerden\n\nhangisi A basamağına uygundur?",
+    "questionText": "Basamaklı öğretimde aşağıdaki görevlerden hangisi A basamağına uygundur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74876,7 +74876,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 17,
-    "questionText": "Bir derste öğrenciler nasıl çalışacaklarına ilişkin kararlar almakta, öğrenme sorumluluğunu üstlenmekte ve etkinliklerin sonuçlarını değerlendirmektedir.\n\nBu ortamın temel özelliği hangisidir?",
+    "questionText": "Bir derste öğrenciler nasıl çalışacaklarına ilişkin kararlar almakta, öğrenme sorumluluğunu üstlenmekte ve etkinliklerin sonuçlarını değerlendirmektedir. Bu ortamın temel özelliği hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74913,7 +74913,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 18,
-    "questionText": "Bir yetişkin, mesleki eğitimden sonra da yeni ihtiyaçları için kurslara katılır, çevrim içi kaynaklarla çalışır ve kendi öğrenmesini sürdürür.\n\nBu durum hangi yaklaşımın kapsamındadır?",
+    "questionText": "Bir yetişkin, mesleki eğitimden sonra da yeni ihtiyaçları için kurslara katılır, çevrim içi kaynaklarla çalışır ve kendi öğrenmesini sürdürür. Bu durum hangi yaklaşımın kapsamındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -74987,7 +74987,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 20,
-    "questionText": "Öğretmen bir konuda önce genel kuralı açıklayıp örnekler verir; başka bir konuda örnekleri inceleterek öğrencilerin kurala ulaşmasını sağlar.\n\nKullandığı stratejiler sırasıyla hangileridir?",
+    "questionText": "Öğretmen bir konuda önce genel kuralı açıklayıp örnekler verir; başka bir konuda örnekleri inceleterek öğrencilerin kurala ulaşmasını sağlar. Kullandığı stratejiler sırasıyla hangileridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75009,11 +75009,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Sunuş ve buluş YAPRAK TEST 04 3 Cevap Anahtarı ve Ayrıntılı Çözüml er 1 / C 2 / B 3 / D 4 / E 5 / A 6 / B 7 / E 8 / C 9 / A 10 / D 11 / C 12 / A 13 / E 14 / D 15 / B 16 / A 17 / B 18 / C 19 / D 20 / E"
+        "text": "Sunuş ve buluş"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Sunuş ve buluş YAPRAK TEST 04 3 Cevap Anahtarı ve Ayrıntılı Çözüml er 1 / C 2 / B 3 / D 4 / E 5 / A 6 / B 7 / E 8 / C 9 / A 10 / D 11 / C 12 / A 13 / E 14 / D 15 / B 16 / A 17 / B 18 / C 19 / D 20 / E)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sunuşta genel açıklama önce verilir, ardından örneklerle anlamlandırılır. Buluşta öğrenci örnekleri karşılaştırıp genellemeye ulaşır. İlk uygulama genelden örneğe, ikinci uygulama örneklerden kurala ilerlediğinden sıra sunuş-buluştur. Araştırma- incelemede problem, hipotez, veri toplama ve sınama süreci belirleyicidir. Öğrencilerin etkin olması veya örnek incelemesi tek başına araştırma-inceleme değildir; örnekten kural bulma ile hipotezi sınama birbirinden ayrılmalıdır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sunuş ve buluş)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sunuşta genel açıklama önce verilir, ardından örneklerle anlamlandırılır. Buluşta öğrenci örnekleri karşılaştırıp genellemeye ulaşır. İlk uygulama genelden örneğe, ikinci uygulama örneklerden kurala ilerlediğinden sıra sunuş-buluştur. Araştırma- incelemede problem, hipotez, veri toplama ve sınama süreci belirleyicidir. Öğrencilerin etkin olması veya örnek incelemesi tek başına araştırma-inceleme değildir; örnekten kural bulma ile hipotezi sınama birbirinden ayrılmalıdır."
   },
   {
     "id": "egitim_oyt_test_5_q1",
@@ -75024,7 +75024,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 1,
-    "questionText": "Bir öğretmen, iş yerinde yaşanan bir iletişim çatışmasını yazılı senaryo olarak sunar. Öğrenciler olayı sınıfta tartışır ve farklı çözüm önerileri geliştirir.\n\nHangi yöntem kullanılmıştır?",
+    "questionText": "Bir öğretmen, iş yerinde yaşanan bir iletişim çatışmasını yazılı senaryo olarak sunar. Öğrenciler olayı sınıfta tartışır ve farklı çözüm önerileri geliştirir. Hangi yöntem kullanılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75061,7 +75061,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 2,
-    "questionText": "Öğretmen önce bir düğümün nasıl atıldığını aşama aşama gösterir. Ardından her öğrenci aynı düğümü atar ve öğretmen yanlışları anında düzeltir.\n\nHangi yöntem uygulanmaktadır?",
+    "questionText": "Öğretmen önce bir düğümün nasıl atıldığını aşama aşama gösterir. Ardından her öğrenci aynı düğümü atar ve öğretmen yanlışları anında düzeltir. Hangi yöntem uygulanmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75098,7 +75098,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 3,
-    "questionText": "Öğrenciler farklı derslerin bilgilerinden yararlanarak enerji tasarruflu bir oda modeli tasarlar, ürünü geliştirir ve çalışma süreçleriyle birlikte sergide sunar.\n\nBu uygulama hangi yöntemdir?",
+    "questionText": "Öğrenciler farklı derslerin bilgilerinden yararlanarak enerji tasarruflu bir oda modeli tasarlar, ürünü geliştirir ve çalışma süreçleriyle birlikte sergide sunar. Bu uygulama hangi yöntemdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75135,7 +75135,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 4,
-    "questionText": "Bir yönetici üst kurula yürütülen çalışmalar hakkında kısa ve öz bilgi verir. Başka bir yetkili, aynı konuda basın kuruluşlarına açıklama yapar.\n\nBu konuşmalar sırasıyla hangileridir?",
+    "questionText": "Bir yönetici üst kurula yürütülen çalışmalar hakkında kısa ve öz bilgi verir. Başka bir yetkili, aynı konuda basın kuruluşlarına açıklama yapar. Bu konuşmalar sırasıyla hangileridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75209,7 +75209,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 6,
-    "questionText": "Öğrenci temsilcileri uzman kaynak grubuna sorular yöneltir; son bölümde dinleyiciler de soru sorar.\n\nHangi teknik kullanılmıştır?",
+    "questionText": "Öğrenci temsilcileri uzman kaynak grubuna sorular yöneltir; son bölümde dinleyiciler de soru sorar. Hangi teknik kullanılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75246,7 +75246,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 7,
-    "questionText": "Öğrenciler altışar kişilik gruplarda altı dakika tartışır, sonra kısa sonuçlarını paylaşır.\n\nBu düzenleme hangi tekniktir?",
+    "questionText": "Öğrenciler altışar kişilik gruplarda altı dakika tartışır, sonra kısa sonuçlarını paylaşır. Bu düzenleme hangi tekniktir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75283,7 +75283,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 8,
-    "questionText": "Beyin fırtınasının fikir üretme aşamasında\n\naşağıdakilerden hangisi uygun değildir?",
+    "questionText": "Beyin fırtınasının fikir üretme aşamasında aşağıdakilerden hangisi uygun değildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75320,7 +75320,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 9,
-    "questionText": "Öğrenciler bir düşünceye katılma derecelerini belirtir, gerekçelerini paylaşır ve isterlerse konumlarını değiştirir. Kazanan belirlenmez.\n\nHangi teknik kullanılmıştır?",
+    "questionText": "Öğrenciler bir düşünceye katılma derecelerini belirtir, gerekçelerini paylaşır ve isterlerse konumlarını değiştirir. Kazanan belirlenmez. Hangi teknik kullanılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75357,7 +75357,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 10,
-    "questionText": "Öğrenciler öyküdeki kişinin yerinde olsalar neler hissedeceklerini ve nasıl davranacaklarını çemberde sırayla paylaşır; canlandırma yapılmaz.\n\nHangi teknik kullanılmıştır?",
+    "questionText": "Öğrenciler öyküdeki kişinin yerinde olsalar neler hissedeceklerini ve nasıl davranacaklarını çemberde sırayla paylaşır; canlandırma yapılmaz. Hangi teknik kullanılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75379,7 +75379,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Beyin fırtınası YAPRAK TEST 05 2"
+        "text": "Beyin fırtınası"
       }
     ],
     "correctAnswer": "C",
@@ -75431,7 +75431,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 12,
-    "questionText": "Bir toplantıda sırasıyla sayısal veriler sunulmuş, önerinin riskleri incelenmiş ve yeni çözüm fikirleri üretilmiştir.\n\nAltı şapkalı düşünmede doğru sıra hangisidir?",
+    "questionText": "Bir toplantıda sırasıyla sayısal veriler sunulmuş, önerinin riskleri incelenmiş ve yeni çözüm fikirleri üretilmiştir. Altı şapkalı düşünmede doğru sıra hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75468,7 +75468,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 13,
-    "questionText": "Bir öğretmen adayı kısa bir ders işler; video kaydı birlikte incelenir, adaya dönüt verilir ve aday düzeltmeler yaparak dersi yeniden işler.\n\nBu teknik hangisidir?",
+    "questionText": "Bir öğretmen adayı kısa bir ders işler; video kaydı birlikte incelenir, adaya dönüt verilir ve aday düzeltmeler yaparak dersi yeniden işler. Bu teknik hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75505,7 +75505,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 14,
-    "questionText": "Gruplar farklı masalarda bir çözüm taslağı üzerinde çalışır. Süre bitince yer değiştirir ve önceki grubun bıraktığı çalışmayı ilerletir. Her grup bütün masalara uğrar.\n\nHangi teknik uygulanmaktadır?",
+    "questionText": "Gruplar farklı masalarda bir çözüm taslağı üzerinde çalışır. Süre bitince yer değiştirir ve önceki grubun bıraktığı çalışmayı ilerletir. Her grup bütün masalara uğrar. Hangi teknik uygulanmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75542,7 +75542,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 15,
-    "questionText": "Bir uzman, bir metni nasıl çözümlediğini sesli düşünerek gösterir. Öğrenci aynı işi yaparken yardım alır; uzman desteğini giderek azaltır ve öğrenci kendi çözümleme yolunu geliştirir.\n\nBu süreç hangisidir?",
+    "questionText": "Bir uzman, bir metni nasıl çözümlediğini sesli düşünerek gösterir. Öğrenci aynı işi yaparken yardım alır; uzman desteğini giderek azaltır ve öğrenci kendi çözümleme yolunu geliştirir. Bu süreç hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75579,7 +75579,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 16,
-    "questionText": "Bir yazılım konuyu küçük adımlarla sunar. Öğrenci her adımda cevap verir, anında dönüt alır ve kendi hızında ilerler.\n\nBu düzenleme hangi öğretim tekniğidir?",
+    "questionText": "Bir yazılım konuyu küçük adımlarla sunar. Öğrenci her adımda cevap verir, anında dönüt alır ve kendi hızında ilerler. Bu düzenleme hangi öğretim tekniğidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75616,7 +75616,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 17,
-    "questionText": "Bir dersin bazı etkinlikleri sınıfta yüz yüze, birbirini tamamlayan diğer etkinlikleri ise çevrim içi öğrenme ortamında yürütülür.\n\nBu düzenleme hangi yaklaşımdır?",
+    "questionText": "Bir dersin bazı etkinlikleri sınıfta yüz yüze, birbirini tamamlayan diğer etkinlikleri ise çevrim içi öğrenme ortamında yürütülür. Bu düzenleme hangi yaklaşımdır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75653,7 +75653,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 18,
-    "questionText": "İç halkadaki öğrenciler tartışırken dış halkadakiler gözlem yapar; ardından gözlemciler görüşlerini paylaşır.\n\nBu teknik aşağıdakilerden hangisidir?",
+    "questionText": "İç halkadaki öğrenciler tartışırken dış halkadakiler gözlem yapar; ardından gözlemciler görüşlerini paylaşır. Bu teknik aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75690,7 +75690,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 19,
-    "questionText": "Öğretmen önce her öğrenciden bir soruya ilişkin bireysel düşünmesini, sonra yanındaki arkadaşıyla görüşünü paylaşmasını, son olarak ulaştıkları sonucu sınıfa aktarmalarını ister.\n\nHangi teknik kullanılmıştır?",
+    "questionText": "Öğretmen önce her öğrenciden bir soruya ilişkin bireysel düşünmesini, sonra yanındaki arkadaşıyla görüşünü paylaşmasını, son olarak ulaştıkları sonucu sınıfa aktarmalarını ister. Hangi teknik kullanılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75727,7 +75727,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 20,
-    "questionText": "Aşağıdaki uygulamalardan hangisi tutor destekli\n\nöğretime örnektir?",
+    "questionText": "Aşağıdaki uygulamalardan hangisi tutor destekli öğretime örnektir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75749,7 +75749,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Grupların farklı istasyonlarda önceki çalışmaları sürdürmesi YAPRAK TEST 05 3 Cevap Anahtarı ve Ayrıntılı Çözümler 1 / D 2 / A 3 / E 4 / B 5 / C 6 / A 7 / D 8 / B 9 / E 10 / C 11 / B 12 / E 13 / C 14 / A 15 / D 16 / E 17 / D 18 / C 19 / B 20 / A"
+        "text": "Grupların farklı istasyonlarda önceki çalışmaları sürdürmesi"
       }
     ],
     "correctAnswer": "A",
@@ -75801,7 +75801,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 2,
-    "questionText": "Genel kuralı önce açıklayıp örneklerle\n\nanlamlandıran öğretmen hangi stratejiyi kullanır?",
+    "questionText": "Genel kuralı önce açıklayıp örneklerle anlamlandıran öğretmen hangi stratejiyi kullanır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75838,7 +75838,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 3,
-    "questionText": "Merak, empati ve gerçeği arama sırasıyla hangi\n\neğilim gruplarındadır?",
+    "questionText": "Merak, empati ve gerçeği arama sırasıyla hangi eğilim gruplarındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75875,7 +75875,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 4,
-    "questionText": "Tam öğrenmede ilgi ve tutumlar ile ön koşul\n\nbilgiler sırasıyla hangi giriş davranışlarıdır?",
+    "questionText": "Tam öğrenmede ilgi ve tutumlar ile ön koşul bilgiler sırasıyla hangi giriş davranışlarıdır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75912,7 +75912,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 5,
-    "questionText": "Ruh-beden birlikteliği ve geçmişten geleceğe\n\neğitim bağı sırasıyla hangi kavramlardır?",
+    "questionText": "Ruh-beden birlikteliği ve geçmişten geleceğe eğitim bağı sırasıyla hangi kavramlardır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75949,7 +75949,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 6,
-    "questionText": "Öğretmen bir beceriyi gösterir; ardından öğrenciler beceriyi uygulayıp anında dönüt alır. Hangi\n\nyöntemdir?",
+    "questionText": "Öğretmen bir beceriyi gösterir; ardından öğrenciler beceriyi uygulayıp anında dönüt alır. Hangi yöntemdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -75986,7 +75986,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 7,
-    "questionText": "Ortak başarı için birbirini destekleme ve her üyenin öğrenmesini ayrı kontrol etme, sırasıyla hangi\n\nişbirlikli öğrenme özellikleridir?",
+    "questionText": "Ortak başarı için birbirini destekleme ve her üyenin öğrenmesini ayrı kontrol etme, sırasıyla hangi işbirlikli öğrenme özellikleridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76023,7 +76023,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 8,
-    "questionText": "Maarif Modeli’nde hangi üçlü üst düzey düşünme\n\nbecerilerinden oluşur?",
+    "questionText": "Maarif Modeli’nde hangi üçlü üst düzey düşünme becerilerinden oluşur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76060,7 +76060,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 9,
-    "questionText": "Kendi öğrenme yolunu planlama, izleme ve\n\ngerektiğinde değiştirme hangi düşünme becerisidir?",
+    "questionText": "Kendi öğrenme yolunu planlama, izleme ve gerektiğinde değiştirme hangi düşünme becerisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76097,7 +76097,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 10,
-    "questionText": "Öğrenci profiline ilişkin hangi eşleştirme\n\nyanlıştır?",
+    "questionText": "Öğrenci profiline ilişkin hangi eşleştirme yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76134,7 +76134,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 11,
-    "questionText": "Maarif Modeli’nde öğrenme kanıtlarının işlevi\n\nnedir?",
+    "questionText": "Maarif Modeli’nde öğrenme kanıtlarının işlevi nedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76171,7 +76171,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 12,
-    "questionText": "Hazırlanmış bilimsel bildiriler sunulması ve öğrenci temsilcilerinin uzman kaynak gruba soru\n\nsorması sırasıyla hangi tekniklerdir?",
+    "questionText": "Hazırlanmış bilimsel bildiriler sunulması ve öğrenci temsilcilerinin uzman kaynak gruba soru sorması sırasıyla hangi tekniklerdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76193,7 +76193,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Açık oturum ve vızıltı YAPRAK TEST 06 2"
+        "text": "Açık oturum ve vızıltı"
       }
     ],
     "correctAnswer": "A",
@@ -76208,7 +76208,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 13,
-    "questionText": "Önce bilinen bilgilerden yeni bilgilere, sonra yakın çevreden uzak çevrelere ilerleme hangi\n\nilkelerdir?",
+    "questionText": "Önce bilinen bilgilerden yeni bilgilere, sonra yakın çevreden uzak çevrelere ilerleme hangi ilkelerdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76245,7 +76245,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 14,
-    "questionText": "5E modelinde öğrenilen kavramın yeni durumlara\n\nuygulanması hangi aşamadır?",
+    "questionText": "5E modelinde öğrenilen kavramın yeni durumlara uygulanması hangi aşamadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76282,7 +76282,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 15,
-    "questionText": "Riskleri inceleme, özgün öneriler üretme ve\n\ndüşünme sürecini yönetmede şapka sırası hangisidir?",
+    "questionText": "Riskleri inceleme, özgün öneriler üretme ve düşünme sürecini yönetmede şapka sırası hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76356,7 +76356,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 17,
-    "questionText": "Bütünü parçalara ayırıp ilişkileri belirleme ve\n\nözelliklere göre gruplama sırasıyla hangi becerilerdir?",
+    "questionText": "Bütünü parçalara ayırıp ilişkileri belirleme ve özelliklere göre gruplama sırasıyla hangi becerilerdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76393,7 +76393,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 18,
-    "questionText": "Problem tanımlama, hipotez geliştirme, veri toplama ve hipotez sınama hangi stratejinin\n\nsürecidir?",
+    "questionText": "Problem tanımlama, hipotez geliştirme, veri toplama ve hipotez sınama hangi stratejinin sürecidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76430,7 +76430,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 19,
-    "questionText": "Gerçeğe yakın yapay ortamda uygulama ve bilineni kullanarak bilinmeyen kavramı açıklama\n\nsırasıyla hangileridir?",
+    "questionText": "Gerçeğe yakın yapay ortamda uygulama ve bilineni kullanarak bilinmeyen kavramı açıklama sırasıyla hangileridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76467,7 +76467,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 20,
-    "questionText": "Yapılandırmacı yaklaşım ile Maarif Modeli’nin farklılaştırma anlayışında hangi uygulama ortak\n\nbiçimde desteklenir?",
+    "questionText": "Yapılandırmacı yaklaşım ile Maarif Modeli’nin farklılaştırma anlayışında hangi uygulama ortak biçimde desteklenir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76504,7 +76504,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 21,
-    "questionText": "Küçük adım-cevap-dönüt düzeni ve kısa dersin kayıtla incelenip yeniden işlenmesi sırasıyla\n\nhangileridir?",
+    "questionText": "Küçük adım-cevap-dönüt düzeni ve kısa dersin kayıtla incelenip yeniden işlenmesi sırasıyla hangileridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76541,7 +76541,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 22,
-    "questionText": "Grupların yer değiştirerek öncekinin bıraktığı işi\n\nilerletmesi hangi tekniktir?",
+    "questionText": "Grupların yer değiştirerek öncekinin bıraktığı işi ilerletmesi hangi tekniktir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76578,7 +76578,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 23,
-    "questionText": "Gagné modelinde performansın ortaya\n\nçıkarılmasını hemen hangi aşama izler?",
+    "questionText": "Gagné modelinde performansın ortaya çıkarılmasını hemen hangi aşama izler?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76615,7 +76615,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🌟",
     "questionNumber": 24,
-    "questionText": "Basamaklı öğretimde temel bilgiden uygulamaya, ardından eleştirel değerlendirmeye ilerleme sırası\n\nhangisidir?",
+    "questionText": "Basamaklı öğretimde temel bilgiden uygulamaya, ardından eleştirel değerlendirmeye ilerleme sırası hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -76637,7 +76637,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "B – A – C YAPRAK TEST 06 3 Cevap Anahtarı ve Ayrıntılı Çözümler 1 / C 2 / B 3 / D 4 / E 5 / A 6 / B 7 / E 8 / C 9 / A 10 / D 11 / C 12 / A 13 / E 14 / D 15 / B 16 / A 17 / B 18 / C 19 / D 20 / E 21 / A 22 / B 23 / C 24 / D"
+        "text": "B – A – C"
       }
     ],
     "correctAnswer": "D",
