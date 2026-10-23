@@ -76642,5 +76642,1485 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (C – B – A)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>C bilgi-kavrama, B uygulama, A analiz-sentez- değerlendirme düzeyidir. İlerleme C-B-A şeklindedir. Görevin süresi veya materyal sayısı basamağı belirlemez; gerekli düşünme işlemi esas alınır. Yeni ürün geliştirmeye yönelik proje çalışması farklı basamaklardan işlemler içerebilir; proje adı tek başına basamak göstermez."
+  },
+  {
+    "id": "anayasa_2027_t1_q1",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 1,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasasının 3. maddesinde düzenlenen 4. maddesi ile korunan hükümler arasında gösterilemez?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q1.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkiye Devleti milleti ile bölünmez bir bütündür."
+      },
+      {
+        "key": "B",
+        "text": "Türkiye Devleti Cumhuriyettir."
+      },
+      {
+        "key": "C",
+        "text": "Milli marşı İstiklal Marşı'dır."
+      },
+      {
+        "key": "D",
+        "text": "Başkenti Ankara'dır."
+      },
+      {
+        "key": "E",
+        "text": "Resmî dili Türkçe'dir."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Türkiye Devleti Cumhuriyettir.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q2",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 2,
+    "questionText": "I. Temel hak ve özgürlüklerin güvence altına alınması\nII. Vergi adaleti\nIII. Kamulaştırma\nIV. İmkan ve fırsat eşitliği\n\nYukarıdakilerden hangileri 1982 anayasasına göre Cumhuriyetin nitelikleri arasında yer alan sosyal devletin özellikleri arasında gösterilebilir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q2.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve V"
+      },
+      {
+        "key": "D",
+        "text": "II, III ve IV"
+      },
+      {
+        "key": "E",
+        "text": "I, II, III ve IV"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (II, III ve IV)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q3",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisi hukuk devletinin unsurları arasında gösterilemez?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q3.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kuvvetler ayrılığı"
+      },
+      {
+        "key": "B",
+        "text": "Parlamenter sistem"
+      },
+      {
+        "key": "C",
+        "text": "Yargı bağımsızlığı"
+      },
+      {
+        "key": "D",
+        "text": "İdarenin mali denetimi"
+      },
+      {
+        "key": "E",
+        "text": "Kanun önünde eşitlik"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Parlamenter sistem)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q4",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 4,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasasının değişmez hükümleri arasında gösterilemez?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q4.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Egemenlik kayıtsız şartsız milletindir."
+      },
+      {
+        "key": "B",
+        "text": "Sosyal Devlet"
+      },
+      {
+        "key": "C",
+        "text": "Türkiye Devleti Cumhuriyettir."
+      },
+      {
+        "key": "D",
+        "text": "Hukuk Devleti"
+      },
+      {
+        "key": "E",
+        "text": "Başkent Ankara'dır."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Egemenlik kayıtsız şartsız milletindir.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q5",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasasının içerisinde yer almaz?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q5.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Geçici hükümler"
+      },
+      {
+        "key": "B",
+        "text": "Değişmez hükümler"
+      },
+      {
+        "key": "C",
+        "text": "Başlangıç hükümleri"
+      },
+      {
+        "key": "D",
+        "text": "Madde ve kenar başlıkları"
+      },
+      {
+        "key": "E",
+        "text": "Cumhuriyetin organları"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Madde ve kenar başlıkları)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q6",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 6,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasasının başlangıç metninde düzenlenmemiştir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q6.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Atatürk ilke ve inkılaplarına bağlılık"
+      },
+      {
+        "key": "B",
+        "text": "Çağdaş medeniyetlere ulaşma azmi"
+      },
+      {
+        "key": "C",
+        "text": "Yurtta sulh cihanda sulh ilkesi"
+      },
+      {
+        "key": "D",
+        "text": "Atatürk medeniyetçiliği"
+      },
+      {
+        "key": "E",
+        "text": "Milli devleti koruma azmi ve milliyetçiliği koruma azmi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Milli devleti koruma azmi ve milliyetçiliği koruma azmi)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q7",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 7,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasasının özellikleri arasında gösterilemez?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q7.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "12 Eylül 1980 darbesinin ürünü olan anayasa kurucu asli iktidarca hazırlanmıştır."
+      },
+      {
+        "key": "B",
+        "text": "Anayasayı hazırlayan askeri kanat Millî Birlik Komitesi sivil kanat ise Temsilciler Meclisidir."
+      },
+      {
+        "key": "C",
+        "text": "Anayasa halkoylaması Cumhurbaşkanı seçimi ile birleştirilmiştir."
+      },
+      {
+        "key": "D",
+        "text": "Yürütme organının Cumhurbaşkanı kanadı güçlendirilmiştir."
+      },
+      {
+        "key": "E",
+        "text": "Siyasi tıkanıkları giderici hükümler getirilerek Parlamenter sistem rasyonelleştirilmiştir."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Anayasayı hazırlayan askeri kanat Millî Birlik Komitesi sivil kanat ise Temsilciler Meclisidir.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q8",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 8,
+    "questionText": "1982 Anayasası ile ilgili aşağıdakilerden hangisi yanlış bir bilgidir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q8.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Anayasa 7 Kasım 1982'de halk oyuna sunularak kabul edilmiştir."
+      },
+      {
+        "key": "B",
+        "text": "Anayasası başlangıç kısmı hariç 7 bölüm 177 asil 16 geçici maddeden oluşur."
+      },
+      {
+        "key": "C",
+        "text": "Milli Güvenlik Konseyi ve Danışma meclisince hazırlanmıştır."
+      },
+      {
+        "key": "D",
+        "text": "Depolitizasyon ilkesi kabul edilerek halkın siyasete katılımı arttırılmıştır."
+      },
+      {
+        "key": "E",
+        "text": "1982 Anayasası katı ve kazuistik bir usulle hazırlanmıştır."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Depolitizasyon ilkesi kabul edilerek halkın siyasete katılımı arttırılmıştır.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q9",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 9,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi siyasi partilerin gelirleri arasında yer almamaktadır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q9.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ticari faaliyetlerden elde edilen gelirler"
+      },
+      {
+        "key": "B",
+        "text": "Devlet tarafından yapılan yardımlar"
+      },
+      {
+        "key": "C",
+        "text": "Üye aidatları"
+      },
+      {
+        "key": "D",
+        "text": "Türk vatandaşlarından gerçek kişilerden alınan yardımlar"
+      },
+      {
+        "key": "E",
+        "text": "Türk menşei tüzel kişilerden alınan yardımlar"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ticari faaliyetlerden elde edilen gelirler)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q10",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 10,
+    "questionText": "Siyasi partilerin mali denetimini aşağıdaki organlardan hangisi yapar?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q10.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uyuşmazlık Mahkemesi"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa Mahkemesi"
+      },
+      {
+        "key": "C",
+        "text": "Sayıştay"
+      },
+      {
+        "key": "D",
+        "text": "Yargıtay"
+      },
+      {
+        "key": "E",
+        "text": "Danıştay"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa Mahkemesi)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q11",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 11,
+    "questionText": "Siyasi partilerle ilgili olarak verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q11.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Siyasi partiler ticari faaliyetlerde bulunamaz."
+      },
+      {
+        "key": "B",
+        "text": "Kapatılan bir siyasi parti başka bir ad altında kurulamaz."
+      },
+      {
+        "key": "C",
+        "text": "Siyasi partiler yabancı devletten, uluslararası kuruluşlardan ve Türk uyruğunda olmayan gerçek ya da tüzel kişilerden yardım alamazlar."
+      },
+      {
+        "key": "D",
+        "text": "Siyasi partilerin mali denetimini Sayıştay'ın yardımı ile Anayasa Mahkemesi yapar."
+      },
+      {
+        "key": "E",
+        "text": "Siyasi partiler İçişleri Bakanlığından izin alarak kurulabilirler."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Siyasi partiler İçişleri Bakanlığından izin alarak kurulabilirler.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q12",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 12,
+    "questionText": "Siyasi partilerle ilgili olarak verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q12.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Siyasi partiler yurt dışında şube açamaz."
+      },
+      {
+        "key": "B",
+        "text": "Kapatılan bir siyasi parti başka bir ad altında kurulamaz."
+      },
+      {
+        "key": "C",
+        "text": "Siyasi partiler yurt dışından yardım alamaz."
+      },
+      {
+        "key": "D",
+        "text": "Siyasi partilerin mali denetimini Anayasa Mahkemesi yapar."
+      },
+      {
+        "key": "E",
+        "text": "Siyasi partiler ticari faaliyetlerde bulunamaz."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Siyasi partiler yurt dışında şube açamaz.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q13",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 13,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nın başlangıç hükümleri hakkında verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q13.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Başlangıç metnini değiştirmek için nitelikli bir karar yeter sayısı aranmaz."
+      },
+      {
+        "key": "B",
+        "text": "Anayasa metnine dahildir."
+      },
+      {
+        "key": "C",
+        "text": "Anayasanın dayandığı görüş ve ilkelere yer verir"
+      },
+      {
+        "key": "D",
+        "text": "Kuvvetler ayrılığından bahsetmiş fakat hükümet sisteminin adından söz etmemiştir."
+      },
+      {
+        "key": "E",
+        "text": "Atatürk milliyetçiliği ve Atatürk ilkelerinden bahsetmiştir."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Başlangıç metnini değiştirmek için nitelikli bir karar yeter sayısı aranmaz.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q14",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 14,
+    "questionText": "Aşağıdakilerden hangisi hukuk devleti ilkesinin bir gereği değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q14.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "İdari işlemler belirli ve idare malen sorumludur."
+      },
+      {
+        "key": "B",
+        "text": "Yargı bağımsız ve alenidir"
+      },
+      {
+        "key": "C",
+        "text": "Yasama, yürütme ve idare yargısal kararlarla bağlıdır."
+      },
+      {
+        "key": "D",
+        "text": "Milli gelir adaletli bir şekilde dağıtılır ve herkesin mali gücüne göre vergi ilkesi geçerlidir."
+      },
+      {
+        "key": "E",
+        "text": "Kuvvetler ayrılığı ilkesi benimsenmiş olmalıdır."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Milli gelir adaletli bir şekilde dağıtılır ve herkesin mali gücüne göre vergi ilkesi geçerlidir.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q15",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 15,
+    "questionText": "Aşağıdakilerden hangisi çoğulcu demokrasi modelinin özelliklerinden biri değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q15.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Çoğunluğun mutlak üstünlüğü yoktur."
+      },
+      {
+        "key": "B",
+        "text": "Azınlıkta veya muhalefette olanların korunması, düşüncelerin serbestçe hiçbir baskıyla karşılaşmadan söylenebilmesi çoğulcu demokrasi için şarttır."
+      },
+      {
+        "key": "C",
+        "text": "Çoğulcu demokrasi modelinde otoritenin dağıtılması, devletin aceleyle ve düşünmeden hareket etmesini engeller."
+      },
+      {
+        "key": "D",
+        "text": "Sivil toplum örgütleri zayıf ve gelişmemiştir."
+      },
+      {
+        "key": "E",
+        "text": "Halkın yönetim üzerinde etkin bir denetim mekanizması vardır."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Sivil toplum örgütleri zayıf ve gelişmemiştir.)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q16",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 16,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q16.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q17",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 17,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q17.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q18",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 18,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q18.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q19",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 19,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q19.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t1_q20",
+    "testId": "anayasa_2027_test_1",
+    "testTitle": "1982 Anayasası Test 1: Genel Esaslar ve Temel İlkeler",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 20,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t1_q20.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q1",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 1,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q1.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q2",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 2,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q2.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q3",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q3.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q4",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 4,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q4.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q5",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q5.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q6",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 6,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q6.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q7",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 7,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q7.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q8",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 8,
+    "questionText": "Aşağıdakilerden hangisi bir anayasayı sert kılan özellikler arasında yer almaz?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q8.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Değiştirilemeyecek maddeler içermesi"
+      },
+      {
+        "key": "B",
+        "text": "Değiştirilme sürecindeki teklif ve kabul sayılarında özel nitelikli çoğunlukların aranması"
+      },
+      {
+        "key": "C",
+        "text": "Anayasa değişikliklerinde halk oylamasına başvurulabilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Anayasada ayrıntılı düzenlemelere yer verilmesi"
+      },
+      {
+        "key": "E",
+        "text": "Değiştirilmelerinin özel yöntemlere bağlaması"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Anayasada ayrıntılı düzenlemelere yer verilmesi)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q9",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 9,
+    "questionText": "1982 Anayasası'nın eşitlik ile ilgili 10. maddesinde, aşağıdakilerden hangisi için Devlet tarafından alınacak tedbirlerin “kanun önünde eşitlik” ilkesine aykırı sayılmayacağı beyan edilmemiştir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q9.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Çocuklar"
+      },
+      {
+        "key": "B",
+        "text": "Yaşlılar"
+      },
+      {
+        "key": "C",
+        "text": "Fakirler"
+      },
+      {
+        "key": "D",
+        "text": "Özürlüler"
+      },
+      {
+        "key": "E",
+        "text": "Malul ve gaziler"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Fakirler)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q10",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 10,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi partilere üye olamayacak kişiler arasında yer almaz?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q10.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hâkimler ve savcılar"
+      },
+      {
+        "key": "B",
+        "text": "Sayıştay dâhil yüksek yargı organları mensupları"
+      },
+      {
+        "key": "C",
+        "text": "Kamu kurum ve kuruluşlarının memur statüsündeki görevlileri"
+      },
+      {
+        "key": "D",
+        "text": "Silahlı kuvvetler mensupları"
+      },
+      {
+        "key": "E",
+        "text": "Yükseköğretim öğrencileri"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yükseköğretim öğrencileri)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q11",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 11,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nın metnine dâhil değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q11.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Başlangıç kısmı"
+      },
+      {
+        "key": "B",
+        "text": "Geçici maddeler"
+      },
+      {
+        "key": "C",
+        "text": "Madde kenar başlıkları"
+      },
+      {
+        "key": "D",
+        "text": "Anayasa değişikliğine ilişkin hüküm"
+      },
+      {
+        "key": "E",
+        "text": "İnkılap kanunlarının korunmasına ilişkin madde"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Madde kenar başlıkları)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q12",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 12,
+    "questionText": "Aşağıdakilerden hangisi, 1982 Anayasası'nın 3. maddesinde belirtilen hükümlerden biri değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q12.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bayrağın şekli"
+      },
+      {
+        "key": "B",
+        "text": "Millî Marş"
+      },
+      {
+        "key": "C",
+        "text": "Başkent"
+      },
+      {
+        "key": "D",
+        "text": "Devletin dili"
+      },
+      {
+        "key": "E",
+        "text": "Vatan hizmeti"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Vatan hizmeti)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q13",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 13,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q13.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q14",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 14,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi Cumhuriyetin niteliklerinden biri değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q14.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Laik Devlet"
+      },
+      {
+        "key": "B",
+        "text": "Sosyal Devlet"
+      },
+      {
+        "key": "C",
+        "text": "Hukuk Devleti"
+      },
+      {
+        "key": "D",
+        "text": "Teokratik Devlet"
+      },
+      {
+        "key": "E",
+        "text": "Demokratik Devlet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Teokratik Devlet)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q15",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 15,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q15.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q16",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 16,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q16.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q17",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 17,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q17.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q18",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 18,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q18.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q19",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 19,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q19.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_2027_t2_q20",
+    "testId": "anayasa_2027_test_2",
+    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 20,
+    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t2_q20.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "E"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
   }
 ];

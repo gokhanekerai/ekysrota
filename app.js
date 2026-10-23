@@ -2146,6 +2146,22 @@ class EKYSApp {
             badge: '21 Soru • Konu Testi'
           },
           {
+            id: 'anayasa_2027_test_1',
+            name: '⚖️ 1982 Anayasası Test 1: Genel Esaslar & Temel İlkeler',
+            icon: '⚖️',
+            desc: 'Başlangıç Hükümleri, Değiştirilemez Maddeler (1-4), Devletin Nitelikleri ve Temel Haklar (20 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_1',
+            badge: '20 Soru • 2027 Test 1'
+          },
+          {
+            id: 'anayasa_2027_test_2',
+            name: '⚖️ 1982 Anayasası Test 2: Yasama, Yürütme ve Yargı',
+            icon: '⚖️',
+            desc: '1982 Anayasası Yenilikleri, TBMM Yasama Yetkisi, Cumhurbaşkanlığı ve Yargı Organları (20 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_2',
+            badge: '20 Soru • 2027 Test 2'
+          },
+          {
             id: 'ekys_2026_mevzuat_anayasa',
             name: '2026 EKYS Anayasa Çıkmış Soruları',
             icon: '📜',
@@ -3095,6 +3111,8 @@ class EKYSApp {
 
       // 1. Özel Video Tarama & Yeni Münferit Coğrafya & Eğitim Bilimleri Testleri
       if (filterKey === 'anayasa_video_tarama_1' || filterKey === 'anayasa_test_1') return (q.testId === 'anayasa_test_1' || tId === 'anayasa_test_1' || tId === 'anayasa_video_tarama_1');
+      if (filterKey === 'anayasa_2027_test_1' || filterKey === 'anayasa_2027_1') return q.testId === 'anayasa_2027_test_1';
+      if (filterKey === 'anayasa_2027_test_2' || filterKey === 'anayasa_2027_2') return q.testId === 'anayasa_2027_test_2';
       if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
       if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
       if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');
