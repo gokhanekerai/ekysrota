@@ -1,5 +1,5 @@
 // EKYSrota Service Worker (Stale-While-Revalidate - Şimşek Hızında Açılış)
-const CACHE_NAME = 'ekysrota-v209.0';
+const CACHE_NAME = 'ekysrota-v210.0';
 
 self.addEventListener('install', (e) => {
   self.skipWaiting();
