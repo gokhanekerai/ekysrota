@@ -1695,6 +1695,30 @@ class EKYSApp {
             badge: '16 Soru • Konu Testi'
           },
           {
+            id: 'egitim_oyt_test_4_eb',
+            name: '🎯 ÖYT Test 4: İlkeler, Düşünme Becerileri ve Stratejiler',
+            icon: '🎯',
+            desc: 'Öğretim İlkeleri (Somuttan Soyuta, Yakından Uzağa), Metabilişsel Düşünme, Sunuş & Buluş Stratejisi, Tam Öğrenme, Gagné ve 5E Modeli (20 Soru • Yaprak Test 04).',
+            filterKey: 'egitim_oyt_test_4',
+            badge: '20 Soru • Test 04'
+          },
+          {
+            id: 'egitim_oyt_test_5_eb',
+            name: '🎯 ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri',
+            icon: '🎯',
+            desc: 'Örnek Olay, Gösterip Yaptırma, Tartışma Teknikleri (Münazara, Panel, Vızıltı 66), Mikro Öğretim, İstasyon, Harmanlanmış Öğrenme ve Tutor (20 Soru • Yaprak Test 05).',
+            filterKey: 'egitim_oyt_test_5',
+            badge: '20 Soru • Test 05'
+          },
+          {
+            id: 'egitim_oyt_test_6_eb',
+            name: '🌟 ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi',
+            icon: '🌟',
+            desc: 'Maarif Modeli Öğrenci Profili, Erdem-Değer-Eylem Çerçevesi, Bütünlük Alanları, Eğilimler, Üst Düşünme Becerileri (KAP) ile ÖYT Kapsamlı Karma Tekrarı (24 Soru • Karma Test 06).',
+            filterKey: 'egitim_oyt_test_6',
+            badge: '🌟 24 Soru • Karma Test'
+          },
+          {
             id: 'egitim_olcme_ders_5_eb',
             name: '📊 Ölçme ve Değerlendirme 5. Ders Soruları',
             icon: '📊',
@@ -2677,6 +2701,30 @@ class EKYSApp {
             badge: '16 Soru • Konu Testi'
           },
           {
+            id: 'egitim_oyt_test_4',
+            name: '🎯 ÖYT Test 4: İlkeler, Düşünme Becerileri ve Stratejiler',
+            icon: '🎯',
+            desc: 'Öğretim İlkeleri (Somuttan Soyuta, Yakından Uzağa), Metabilişsel Düşünme, Sunuş & Buluş Stratejisi, Tam Öğrenme, Gagné ve 5E Modeli (20 Soru • Yaprak Test 04).',
+            filterKey: 'egitim_oyt_test_4',
+            badge: '20 Soru • Test 04'
+          },
+          {
+            id: 'egitim_oyt_test_5',
+            name: '🎯 ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri',
+            icon: '🎯',
+            desc: 'Örnek Olay, Gösterip Yaptırma, Tartışma Teknikleri (Münazara, Panel, Vızıltı 66), Mikro Öğretim, İstasyon, Harmanlanmış Öğrenme ve Tutor (20 Soru • Yaprak Test 05).',
+            filterKey: 'egitim_oyt_test_5',
+            badge: '20 Soru • Test 05'
+          },
+          {
+            id: 'egitim_oyt_test_6',
+            name: '🌟 ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi',
+            icon: '🌟',
+            desc: 'Maarif Modeli Öğrenci Profili, Erdem-Değer-Eylem Çerçevesi, Bütünlük Alanları, Eğilimler, Üst Düşünme Becerileri (KAP) ile ÖYT Kapsamlı Karma Tekrarı (24 Soru • Karma Test 06).',
+            filterKey: 'egitim_oyt_test_6',
+            badge: '🌟 24 Soru • Karma Test'
+          },
+          {
             id: 'egitim_olcme_ders_5',
             name: '📊 Ölçme ve Değerlendirme 5. Ders Soruları',
             icon: '📊',
@@ -3068,6 +3116,15 @@ class EKYSApp {
       }
       if (filterKey === 'egitim_oyt_konu_testi' || filterKey === 'egitim_oyt_1' || filterKey === 'oyt_test_1') {
         return (q.testId === 'egitim_oyt_konu_testi' || tId === 'egitim_oyt' || tName.includes('öğretim yöntem ve teknikleri'));
+      }
+      if (filterKey === 'egitim_oyt_test_4' || filterKey === 'oyt_test_4' || filterKey === 'oyt4') {
+        return (q.testId === 'egitim_oyt_test_4');
+      }
+      if (filterKey === 'egitim_oyt_test_5' || filterKey === 'oyt_test_5' || filterKey === 'oyt5') {
+        return (q.testId === 'egitim_oyt_test_5');
+      }
+      if (filterKey === 'egitim_oyt_test_6' || filterKey === 'oyt_test_6' || filterKey === 'oyt6') {
+        return (q.testId === 'egitim_oyt_test_6');
       }
       if (filterKey === 'egitim_olcme_test_1' || filterKey === 'egitim_olcme_1' || filterKey === 'olcme_test_1') {
         return (q.testId === 'egitim_olcme_test_1' || tId === 'egitim_olcme_test_1');

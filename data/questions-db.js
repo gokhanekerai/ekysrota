@@ -74274,5 +74274,2373 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E (Devlet organları arasında kuvvetler birliği)</strong><br><br>🎯 <strong>Mevzuat Analizi:</strong><br>Başlangıç metni açıkça 'Kuvvetler ayrımının Devlet organları arasında üstünlük sıralaması anlamına gelmeyip... medeni bir işbölümü ve işbirliği olduğu'nu hükme bağlar; kuvvetler birliği anlayışını kesinlikle reddeder."
+  },
+  {
+    "id": "egitim_oyt_test_4_q1",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 1,
+    "questionText": "Öğretmen kesirleri önce nesneleri bölerek gösterir, ardından kesir sembolleriyle ifade eder.\n\nBu sıralama hangi öğretim ilkesine örnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yakından uzağa"
+      },
+      {
+        "key": "B",
+        "text": "Basitten karmaşığa"
+      },
+      {
+        "key": "C",
+        "text": "Somuttan soyuta"
+      },
+      {
+        "key": "D",
+        "text": "Güncellik"
+      },
+      {
+        "key": "E",
+        "text": "Ekonomiklik"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Somuttan soyuta)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Nesneler üzerinde yapılan işlemlerden matematiksel sembollere geçilmesi somuttan soyuta ilkesidir. Yakından uzağa, yakın çevreden uzak çevrelere; basitten karmaşığa, kolay yapıdan daha karmaşık yapıya ilerlemeyi anlatır. Güncellik öğretimin güncel olaylarla ilişkilendirilmesi, ekonomiklik zaman ve kaynakların verimli kullanılmasıdır.<br><br>💡 <strong>EKYS İpucu:</strong> Önce somut varlıklarla (nesneler, materyaller, modeller) çalışıp ardından soyut matematiksel sembol ve formüllere geçmek <em>'Somuttan Soyuta'</em> ilkesidir."
+  },
+  {
+    "id": "egitim_oyt_test_4_q2",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 2,
+    "questionText": "Öğretmen, öğrencilerin yaş, ön bilgi, ilgi ve ihtiyaçlarını dikkate alarak farklı etkinlikler seçer.\n\nHangi öğretim ilkesini gözetmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Açıklık"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenciye görelik"
+      },
+      {
+        "key": "C",
+        "text": "Yakından uzağa"
+      },
+      {
+        "key": "D",
+        "text": "Sosyallik"
+      },
+      {
+        "key": "E",
+        "text": "Güncellik"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrenciye görelik)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Öğrenciye görelik, öğretimin gelişim düzeyine, hazırbulunuşluğa, ilgi ve ihtiyaçlara uygun düzenlenmesidir. Etkinliklerin bu özelliklere göre seçilmesi ilkeyi gösterir. Açıklık, anlaşılır ve duyulara hitap eden sunumla; yakından uzağa çevresel uzaklıkla; sosyallik toplumsal kurallar ve özgürlükle; güncellik güncel gelişmelerle ilgilidir."
+  },
+  {
+    "id": "egitim_oyt_test_4_q3",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 3,
+    "questionText": "Öğrenci çalışmaya başlarken öğrenme yolunu planlar; çalışırken anlayıp anlamadığını kontrol eder ve gerektiğinde yolunu değiştirir.\n\nHangi düşünme becerisi öne çıkar?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Analitik düşünme"
+      },
+      {
+        "key": "B",
+        "text": "Yaratıcı düşünme"
+      },
+      {
+        "key": "C",
+        "text": "Lateral düşünme"
+      },
+      {
+        "key": "D",
+        "text": "Metabilişsel düşünme"
+      },
+      {
+        "key": "E",
+        "text": "Eleştirel düşünme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Metabilişsel düşünme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Metabilişsel düşünme, kişinin kendi düşünme ve öğrenme sürecini planlaması, izlemesi ve düzenlemesidir. Analitik düşünmede parçalar ve ilişkiler; yaratıcı ve lateral düşünmede yeni yollar ve alışılmadık çözümler; eleştirel düşünmede bilginin dayanaklarını sorgulama öne çıkar. Öğrenci burada dışarıdan gelen bir iddiayı değerlendirmekten çok kendi öğrenmesini yönetmektedir.<br><br>💡 <strong>Metabiliş (Üstbiliş) İpucu:</strong> Bireyin kendi öğrenme sürecini planlaması, izlemesi, denetlemesi ve değerlendirmesi <em>'Nasıl öğrendiğini bilme'</em> yani metabiliştir."
+  },
+  {
+    "id": "egitim_oyt_test_4_q4",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 4,
+    "questionText": "Öğretmen örnek ve karşıt örnekleri sunar. Öğrenciler bunları karşılaştırarak başlangıçta açıklanmayan ortak ilişkiye kendileri ulaşır.\n\nHangi strateji kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sunuş yoluyla öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Araştırma-inceleme yoluyla öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Programlı öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Buluş yoluyla öğretim"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Buluş yoluyla öğretim)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Buluşta öğrenci örnek ve örnek olmayanları karşılaştırarak kavram veya genellemeye ulaşır; sonuç başlangıçta verilmez. Sunuşta genel bilgi önce açıklanır. Araştırma-incelemede problem, hipotez, veri toplama ve sınama süreci; tam öğrenmede eksikleri giderme; programlı öğretimde küçük adımlar ve bireysel hız belirleyicidir.<br><br>💡 <strong>Bruner - Buluş Stratejisi:</strong> Öğretmen örnek ve zıt örnek verir, öğrenci karşılaştırarak ilke, kural ve genellemeye kendisi ulaşır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q5",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 5,
+    "questionText": "Sunuş yoluyla öğretimle ilgili aşağıdaki ifadelerden\n\nhangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencinin bilgiyi hazır alması, anlamlı öğrenmenin gerçekleşmesini engeller."
+      },
+      {
+        "key": "B",
+        "text": "Eski ve yeni bilgiler ilişkilendirilir."
+      },
+      {
+        "key": "C",
+        "text": "Genel kavramlar başlangıçta verilebilir."
+      },
+      {
+        "key": "D",
+        "text": "Ön örgütleyiciler başlangıçta kullanılabilir."
+      },
+      {
+        "key": "E",
+        "text": "Soru-cevap ve görsellerle desteklenebilir."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrencinin bilgiyi hazır alması, anlamlı öğrenmenin gerçekleşmesini engeller.)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sunuş, hazır verilen bilginin öğrencinin mevcut bilgileriyle ilişkilendirilerek anlamlı öğrenilmesini amaçlar; hazır alma ezberle aynı değildir. Ön örgütleyiciler bağlantı kurar, genel açıklamalar örneklerle zenginleştirilir. Soru-cevap ve görsellerle destekleme de uygundur. Bağlantı kurulmadan öğrenme ezbere yol açabilir; ancak bu risk sunuşun anlamlı öğrenme amacını ortadan kaldırmaz."
+  },
+  {
+    "id": "egitim_oyt_test_4_q6",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 6,
+    "questionText": "Öğretmen konuya başlarken, eski kavramlarla yeni ünitenin ana kavramları arasındaki bağı gösteren bir şema sunar.\n\nŞemanın işlevi hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ünite sonu başarısını puanlama"
+      },
+      {
+        "key": "B",
+        "text": "Ön örgütleyici kullanma"
+      },
+      {
+        "key": "C",
+        "text": "Probleme ilişkin hipotezleri sınama"
+      },
+      {
+        "key": "D",
+        "text": "Psikomotor becerileri değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenme eksikleri için ek öğretim yapma"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ön örgütleyici kullanma)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Ön örgütleyici, içeriğe genel bir çerçeve sunar ve mevcut bilgilerle yeni bilgiler arasında bağ kurar. Konunun başındaki şema bu işlevdedir. Başarıyı puanlama değerlendirme; hipotez sınama araştırma; psikomotor beceriyi inceleme uygulama değerlendirmesi; ek öğretim eksikleri giderme amacı taşır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q7",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 7,
+    "questionText": "Öğrenciler bitki gelişimiyle ilgili bir sorunu tanımlar, olası açıklamalar geliştirir, verilerle bunları sınar ve sonuca ulaşır.\n\nSüreç hangi stratejiye uygundur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sunuş yoluyla öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Buluş yoluyla öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Basamaklı öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Araştırma-inceleme yoluyla öğretim"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Araştırma-inceleme yoluyla öğretim)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Araştırma-inceleme problem tanımlama, hipotez geliştirme, veri toplama, analiz ve sınama basamaklarını içerir. Öğrenciler araştırmayı yürütür; öğretmen rehberlik eder. Sunuş hazır bilginin anlamlı sunumuna, buluş örneklerden ilkeye ulaşmaya, tam öğrenme eksikleri gidermeye, basamaklı öğretim C-B-A görevlerine dayanır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q8",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 8,
+    "questionText": "Tam öğrenmede aşağıdaki eşleştirmelerden\n\nhangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ön koşul bilgi ve beceriler — Bilişsel giriş davranışları"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenme isteği — Duyuşsal giriş davranışları"
+      },
+      {
+        "key": "C",
+        "text": "Derse yönelik ilgi ve tutum — Bilişsel giriş davranışları"
+      },
+      {
+        "key": "D",
+        "text": "İpucu ve dönüt — Öğretim hizmetinin niteliği"
+      },
+      {
+        "key": "E",
+        "text": "Başarıdaki gelişme — Öğrenme ürünleri"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Derse yönelik ilgi ve tutum — Bilişsel giriş davranışları)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>İlgi, tutum ve öğrenme isteği duyuşsal giriş davranışlarıdır; bilişsel giriş davranışlarıyla eşleştirilmeleri yanlıştır. Bilişsel giriş davranışları gerekli ön koşul bilgi ve becerileri kapsar. İpucu, pekiştirme, katılım ve dönüt-düzeltme öğretim hizmetinin niteliğine; başarı ve öğrenme hızındaki değişimler öğrenme ürünlerine ilişkindir."
+  },
+  {
+    "id": "egitim_oyt_test_4_q9",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 9,
+    "questionText": "Öğretmen, ünite sonunda belirlenen eksikler için farklı açıklamalar ve alıştırmalarla ek öğretim yapıp öğrenmeyi yeniden kontrol eder.\n\nHangi modeli uygulamaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "B",
+        "text": "Çoklu zekâ"
+      },
+      {
+        "key": "C",
+        "text": "Kuantum öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Basamaklı öğretim"
+      },
+      {
+        "key": "E",
+        "text": "İşbirlikli öğrenme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tam öğrenme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Tam öğrenmede eksikler belirlenir, uygun tamamlayıcı etkinliklerle giderilir ve sonuç yeniden kontrol edilir. Ek zaman ve fırsat sağlama temeldir. Çoklu zekâ farklı zekâ alanlarına; kuantum öğrenme öğrenmeyi kolaylaştıran yaşantılara; basamaklı öğretim C-B-A görevlerine; işbirlikli öğrenme olumlu bağlılık ve bireysel sorumluluğa odaklanır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q10",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 10,
+    "questionText": "Gagné’nin öğretim durumlarında;\n\nI. performansı ortaya çıkarma,\n\nII. dönüt-düzeltme sağlama,\n\nIII. performansı değerlendirme,\n\nIV. kalıcılık ve transferi güçlendirme\n\naşamaları hangi sırayla yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II – I – III – IV"
+      },
+      {
+        "key": "B",
+        "text": "I – III – II – IV"
+      },
+      {
+        "key": "C",
+        "text": "III – II – I – IV"
+      },
+      {
+        "key": "D",
+        "text": "I – II – III – IV"
+      },
+      {
+        "key": "E",
+        "text": "I – II – IV – III YAPRAK TEST 04 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (I – II – III – IV)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Öğrenci önce performansını sergiler, sonra yaptığına ilişkin dönüt ve düzeltme alır. Ardından performans değerlendirilir, kalıcılık ve yeni durumlara transfer güçlendirilir. Doğru sıra I-II-III-IV’tür. Dönüt performansı iyileştirmeye, değerlendirme ulaşılan düzeyi belirlemeye hizmet eder; birbirlerinin yerine geçirilmemelidir.<br><br>💡 <strong>Gagné 9 Adım Kuralı:</strong> Performansı ortaya çıkarma (7. Adım) ➡️ Dönüt-düzeltme sağlama (8. Adım) ➡️ Performansı değerlendirme (9. Adım) ➡️ Kalıcılık ve transferi güçlendirme."
+  },
+  {
+    "id": "egitim_oyt_test_4_q11",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 11,
+    "questionText": "Gagné’ye göre bir öğrencinin öğrenirken hangi zihinsel yolu kullanacağına karar vermesi ve kendi dikkatini yönetmesi hangi öğrenme ürünüyle\n\nilişkilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sözel bilgiler"
+      },
+      {
+        "key": "B",
+        "text": "Tutumlar"
+      },
+      {
+        "key": "C",
+        "text": "Bilişsel stratejiler"
+      },
+      {
+        "key": "D",
+        "text": "Psikomotor beceriler"
+      },
+      {
+        "key": "E",
+        "text": "Zihinsel beceriler"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bilişsel stratejiler)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Bilişsel stratejiler öğrencinin öğrenme, düşünme ve dikkat süreçlerini yönetme yollarıdır. Sözel bilgiler bildiğini ifade etme; tutumlar davranış seçimine yönelim; psikomotor beceriler düzenli bedensel hareketler; zihinsel beceriler kavram ve kuralları kullanmayla ilgilidir. Bir kuralı uygulamakla, öğrenirken hangi zihinsel yolu kullanacağına karar vermek aynı ürün değildir. Soruda kendi dikkatini ve öğrenme yolunu yönetme vurgulanmaktadır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q12",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 12,
+    "questionText": "Bir öğrenci kendi güçlü ve zayıf yanlarını değerlendirirken, diğeri bitkileri özelliklerine göre ayırt edip sınıflandırır. Gardner’a göre bu iki etkinlik sırasıyla hangi zekâ\n\nalanlarıyla ilişkilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İçsel ve doğacı"
+      },
+      {
+        "key": "B",
+        "text": "Sosyal ve görsel-uzamsal"
+      },
+      {
+        "key": "C",
+        "text": "Sözel-dilsel ve müziksel"
+      },
+      {
+        "key": "D",
+        "text": "Mantıksal-matematiksel ve sosyal"
+      },
+      {
+        "key": "E",
+        "text": "Doğacı ve bedensel-kinestetik"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İçsel ve doğacı)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Kendi duygularını, güçlü ve zayıf yanlarını tanıma içsel; canlıları ve doğal çevreyi ayırt edip sınıflandırma doğacı zekâyla ilişkilidir. Sosyal zekâ başkalarını anlama; görsel-uzamsal zekâ biçim ve mekân; sözel- dilsel zekâ dil; müziksel zekâ ritim ve ses örüntüleriyle ilgilidir. Zekâ alanları öğrencileri değişmez etiketlere ayırmak için değil, farklı öğrenme olanakları sunmak için dikkate alınmalıdır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q13",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 13,
+    "questionText": "Yapılandırmacı bir öğrenme ortamına aşağıdaki\n\nuygulamalardan hangisi uygun değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrencilerin birincil kaynaklarla çalışmalarına rehberlik etme"
+      },
+      {
+        "key": "B",
+        "text": "Ön bilgilerin yeni durumları anlamlandırmadaki rolünü dikkate alma"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencilerin araştırma ve sorgulamalarına fırsat verme"
+      },
+      {
+        "key": "D",
+        "text": "Öğrenme sürecindeki değişimleri değerlendirmeye katma"
+      },
+      {
+        "key": "E",
+        "text": "Öğrencilerin deneyimlerini dışarıda bırakıp bütün yorumları tek bir açıklamayı tekrarlamaya yöneltme"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Öğrencilerin deneyimlerini dışarıda bırakıp bütün yorumları tek bir açıklamayı tekrarlamaya yöneltme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Yapılandırmacılıkta öğrenci yeni bilgiyi ön bilgileri ve deneyimleriyle ilişkilendirerek anlamlandırır. Onu tek açıklamayı tekrarlayan pasif alıcıya dönüştürmek uygun değildir. Birincil kaynak, sorgulama, ön bilgileri dikkate alma ve süreç değerlendirmesi uygundur. Öğretmenin rehberliği, yorumları hiç incelememesi demek değildir; gerekçelendirmeyi ve kanıtlarla yeniden düşünmeyi destekler. Uygun olmayan uygulama, öğrencinin anlam kurma sürecini dışlayandır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q14",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 14,
+    "questionText": "5E modelinde öğrencilerin öğrendikleri ilkeyi daha önce karşılaşmadıkları bir olayın açıklanmasında kullanmaları özellikle hangi aşamaya\n\nörnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Giriş"
+      },
+      {
+        "key": "B",
+        "text": "Keşfetme"
+      },
+      {
+        "key": "C",
+        "text": "Açıklama"
+      },
+      {
+        "key": "D",
+        "text": "Derinleştirme"
+      },
+      {
+        "key": "E",
+        "text": "Değerlendirme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Derinleştirme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Derinleştirmede öğrenilen kavram ve ilişkiler yeni durumlara uygulanır. Giriş merak oluşturma; keşfetme inceleme ve deneyim; açıklama kavramları anlamlandırıp açıklama; değerlendirme öğrenme düzeyini belirlemeyle ilgilidir. Yeni durumda uygulama değerlendirmeye de veri sağlayabilir; ancak soruda ölçme değil, ilkenin yeni bağlama taşınması vurgulanmıştır. Bu nedenle aşama derinleştirmedir; yalnızca etkinliğin dersin sonunda yapılması değerlendirme sayılması için yeterli değildir.<br><br>💡 <strong>5E Modeli:</strong> Giriş (Engage) ➡️ Keşfetme (Explore) ➡️ Açıklama (Explain) ➡️ Derinleştirme (Elaborate - Yeni durumlara uygulama) ➡️ Değerlendirme (Evaluate)."
+  },
+  {
+    "id": "egitim_oyt_test_4_q15",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 15,
+    "questionText": "Bir grup çalışmasında üyeler birbirlerinin öğrenmesine katkı sağlamakta; ortak başarının yanında her öğrencinin öğrendiği ayrı ayrı kontrol edilmektedir.\n\nBu iki özellik sırasıyla hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Grup içi rekabet ve ortak puan"
+      },
+      {
+        "key": "B",
+        "text": "Olumlu bağlılık ve bireysel sorumluluk"
+      },
+      {
+        "key": "C",
+        "text": "Homojenlik ve tek liderlik"
+      },
+      {
+        "key": "D",
+        "text": "Bireysel yarış ve görev paylaşımı"
+      },
+      {
+        "key": "E",
+        "text": "Ortak ürün ve bireysel hız"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Olumlu bağlılık ve bireysel sorumluluk)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Olumlu bağlılık, üyelerin başarılarının birbirini desteklemesi; bireysel sorumluluk her öğrencinin katkısının ve öğrenmesinin ayrıca izlenmesidir. Yalnız ortak ürün elde edilmesi iki koşulun da sağlandığını göstermez. Homojenlik ve tek liderlik ayırt edici koşullar değildir; bireysel yarış birlikte başarma anlayışıyla uyuşmaz. Ortak çalışma yapılırken her üyenin öğrenmesinin denetlenmesi işbirlikli öğrenmenin önemli güvencelerindendir."
+  },
+  {
+    "id": "egitim_oyt_test_4_q16",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 16,
+    "questionText": "Basamaklı öğretimde aşağıdaki görevlerden\n\nhangisi A basamağına uygundur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İki çözüm önerisini ölçütlerle eleştirip gerekçeli bir tercih oluşturma"
+      },
+      {
+        "key": "B",
+        "text": "Konuya ilişkin temel kavramların tanımlarını listeleme"
+      },
+      {
+        "key": "C",
+        "text": "Öğrenilen bilgileri kendi cümleleriyle özetleme"
+      },
+      {
+        "key": "D",
+        "text": "Öğretilen işlem kuralını benzer bir alıştırmada uygulama"
+      },
+      {
+        "key": "E",
+        "text": "Verilen örnekleri okuyarak temel bilgileri kaydetme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İki çözüm önerisini ölçütlerle eleştirip gerekçeli bir tercih oluşturma)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>A basamağı analiz, sentez, eleştirel düşünme ve değerlendirmeyi içerir. Çözümleri ölçütlerle inceleyip gerekçeli tercih oluşturmak bu basamağa uygundur. Tanıma, listeleme, okuma ve özetleme C’nin bilgi- kavrama; öğrenilen kuralı uygulama B’nin uygulama düzeyine karşılık gelir. İlerleme C-B-A sırasındadır.<br><br>💡 <strong>Basamaklı Öğretim (Nunley):</strong><br>• <strong>C Basamağı:</strong> Temel bilgi ve kavrama<br>• <strong>B Basamağı:</strong> Uygulama ve problem çözme<br>• <strong>A Basamağı:</strong> Analiz, sentez, değerlendirme, özgün ürün ve eleştirel analiz."
+  },
+  {
+    "id": "egitim_oyt_test_4_q17",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 17,
+    "questionText": "Bir derste öğrenciler nasıl çalışacaklarına ilişkin kararlar almakta, öğrenme sorumluluğunu üstlenmekte ve etkinliklerin sonuçlarını değerlendirmektedir.\n\nBu ortamın temel özelliği hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "B",
+        "text": "Aktif öğrenme"
+      },
+      {
+        "key": "C",
+        "text": "Programlı öğretim"
+      },
+      {
+        "key": "D",
+        "text": "Basamaklı öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Çoklu zekâ"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Aktif öğrenme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Aktif öğrenmede öğrenci sürece katılır ve öğrenmesinin sorumluluğunu üstlenir. Tam öğrenme için eksikleri giderme; programlı öğretim için küçük adımlar ve dönüt; basamaklı öğretim için C-B-A görevleri; çoklu zekâ için zekâ alanlarına göre çeşitlendirme gerekir. Senaryoda bu özel düzenlemeler verilmemiştir. Çalışma yoluna karar vermek ve sonuçları değerlendirmek öğrencinin öğrenmesini etkin yönetmesini gösterir; aktiflik yalnız bedensel hareket değildir."
+  },
+  {
+    "id": "egitim_oyt_test_4_q18",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 18,
+    "questionText": "Bir yetişkin, mesleki eğitimden sonra da yeni ihtiyaçları için kurslara katılır, çevrim içi kaynaklarla çalışır ve kendi öğrenmesini sürdürür.\n\nBu durum hangi yaklaşımın kapsamındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Programlı öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Basamaklı öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Yaşam boyu öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "Sunuş yoluyla öğretim"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yaşam boyu öğrenme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Yaşam boyu öğrenme farklı yaşlarda ve ortamlarda öğrenmeyi sürdürmektir. Yetişkinin yeni ihtiyaçları için amaçlı öğrenmesi bunun örneğidir. Programlı öğretim küçük adımlarla ilerlemeyi, basamaklı öğretim C-B-A görevlerini, tam öğrenme eksikleri gidermeyi, sunuş hazır bilgiyi anlamlı sunmayı açıklar. Bunlar yetişkin eğitiminde kullanılabilir; fakat soruda özel yöntem değil, öğrenmenin okul sonrasında da yaşam boyunca sürdürülmesi vurgulanmaktadır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q19",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 19,
+    "questionText": "I. Öğrencinin geçmiş etkinliğini gözden geçirerek sonraki uygulaması için ders çıkarması\n\nII. Bir sorunu parçalara ayırıp parçalar arasındaki ilişkileri incelemesi\n\nBu düşünme biçimleri sırasıyla hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yaratıcı ve metabilişsel"
+      },
+      {
+        "key": "B",
+        "text": "Eleştirel ve lateral"
+      },
+      {
+        "key": "C",
+        "text": "Analitik ve yansıtıcı"
+      },
+      {
+        "key": "D",
+        "text": "Yansıtıcı ve analitik"
+      },
+      {
+        "key": "E",
+        "text": "Lateral ve yaratıcı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yansıtıcı ve analitik)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Yansıtıcı düşünme, deneyim ve davranışları gözden geçirerek sonuç çıkarmaktır. Analitik düşünme bütünü parçalara ayırıp ilişkileri inceler. Yaratıcı düşünme özgün çözümler, lateral düşünme alışılmışın dışındaki yollar, metabilişsel düşünme kendi düşünme sürecini yönetmeyle ilgilidir. İlk davranışta geçmiş deneyimden sonraki uygulama için ders çıkarma; ikincide parçalara ve ilişkilere yönelme vardır."
+  },
+  {
+    "id": "egitim_oyt_test_4_q20",
+    "testId": "egitim_oyt_test_4",
+    "testTitle": "ÖYT Test 4: İlkeler, Düşünme Becerileri, Stratejiler ve Modeller",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 20,
+    "questionText": "Öğretmen bir konuda önce genel kuralı açıklayıp örnekler verir; başka bir konuda örnekleri inceleterek öğrencilerin kurala ulaşmasını sağlar.\n\nKullandığı stratejiler sırasıyla hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Buluş ve sunuş"
+      },
+      {
+        "key": "B",
+        "text": "Araştırma-inceleme ve sunuş"
+      },
+      {
+        "key": "C",
+        "text": "Sunuş ve araştırma-inceleme"
+      },
+      {
+        "key": "D",
+        "text": "Buluş ve araştırma-inceleme"
+      },
+      {
+        "key": "E",
+        "text": "Sunuş ve buluş YAPRAK TEST 04 3 Cevap Anahtarı ve Ayrıntılı Çözüml er 1 / C 2 / B 3 / D 4 / E 5 / A 6 / B 7 / E 8 / C 9 / A 10 / D 11 / C 12 / A 13 / E 14 / D 15 / B 16 / A 17 / B 18 / C 19 / D 20 / E"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sunuş ve buluş YAPRAK TEST 04 3 Cevap Anahtarı ve Ayrıntılı Çözüml er 1 / C 2 / B 3 / D 4 / E 5 / A 6 / B 7 / E 8 / C 9 / A 10 / D 11 / C 12 / A 13 / E 14 / D 15 / B 16 / A 17 / B 18 / C 19 / D 20 / E)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sunuşta genel açıklama önce verilir, ardından örneklerle anlamlandırılır. Buluşta öğrenci örnekleri karşılaştırıp genellemeye ulaşır. İlk uygulama genelden örneğe, ikinci uygulama örneklerden kurala ilerlediğinden sıra sunuş-buluştur. Araştırma- incelemede problem, hipotez, veri toplama ve sınama süreci belirleyicidir. Öğrencilerin etkin olması veya örnek incelemesi tek başına araştırma-inceleme değildir; örnekten kural bulma ile hipotezi sınama birbirinden ayrılmalıdır."
+  },
+  {
+    "id": "egitim_oyt_test_5_q1",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 1,
+    "questionText": "Bir öğretmen, iş yerinde yaşanan bir iletişim çatışmasını yazılı senaryo olarak sunar. Öğrenciler olayı sınıfta tartışır ve farklı çözüm önerileri geliştirir.\n\nHangi yöntem kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gösterip yaptırma"
+      },
+      {
+        "key": "B",
+        "text": "Düz anlatım"
+      },
+      {
+        "key": "C",
+        "text": "Bireysel çalışma"
+      },
+      {
+        "key": "D",
+        "text": "Örnek olay"
+      },
+      {
+        "key": "E",
+        "text": "Proje"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Örnek olay)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Örnek olayda yaşanmış veya yaşanabilecek sorun sınıfta incelenip tartışılır ve çözüm önerileri geliştirilir. Gösterip yaptırmada beceri gösterilir ve uygulanır; düz anlatımda hazır içerik aktarılır; bireysel çalışmada bağımsız öğrenme; projede planlı süreç sonunda ürün geliştirme öne çıkar. Burada sunulan olayın tartışılması belirleyicidir.<br><br>💡 <strong>Örnek Olay (Case Study):</strong> Yaşanmış ya da yaşanması muhtemel gerçek bir problemin/çatışmanın sınıfa getirilerek çözüm önerileri üretilmesidir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q2",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 2,
+    "questionText": "Öğretmen önce bir düğümün nasıl atıldığını aşama aşama gösterir. Ardından her öğrenci aynı düğümü atar ve öğretmen yanlışları anında düzeltir.\n\nHangi yöntem uygulanmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gösterip yaptırma"
+      },
+      {
+        "key": "B",
+        "text": "Gösteri"
+      },
+      {
+        "key": "C",
+        "text": "Anlatım"
+      },
+      {
+        "key": "D",
+        "text": "Örnek olay"
+      },
+      {
+        "key": "E",
+        "text": "Tartışma"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gösterip yaptırma)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Gösterip yaptırma, öğretmenin beceriyi göstermesinin ardından öğrencinin uygulama yapmasını içerir. Anında dönüt-düzeltme öğrenmeyi destekler. Gösteride öğrencinin uygulama yapması zorunlu değildir; yalnız izleme bulunabilir. Anlatım sözlü aktarım, örnek olay sorun inceleme, tartışma görüş alışverişidir. Düğüm atma gibi psikomotor bir beceride izleme ve uygulama birbirini tamamlar.<br><br>💡 <strong>Gösterip Yaptırma:</strong> Önce öğretmenin beceriyi aşama aşama model olması (göstermesi), ardından her öğrencinin uygulayarak yapması ve anında dönüt verilmesidir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q3",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 3,
+    "questionText": "Öğrenciler farklı derslerin bilgilerinden yararlanarak enerji tasarruflu bir oda modeli tasarlar, ürünü geliştirir ve çalışma süreçleriyle birlikte sergide sunar.\n\nBu uygulama hangi yöntemdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Örnek olay"
+      },
+      {
+        "key": "B",
+        "text": "Gösteri"
+      },
+      {
+        "key": "C",
+        "text": "Konferans"
+      },
+      {
+        "key": "D",
+        "text": "Bireysel çalışma"
+      },
+      {
+        "key": "E",
+        "text": "Proje"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Proje)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Projede öğrenci planlı çalışma yürütür, farklı disiplinlerden yararlanır ve ürün geliştirir; süreç ve ürün birlikte değerlendirilir. Oda modelinin tasarlanıp sergilenmesi bu yapıya uygundur. Örnek olayda sunulan durum tartışılır, gösteride işlem izlenir, konferansta uzman dinlenir, bireysel çalışmada bağımsız öğrenme öne çıkar."
+  },
+  {
+    "id": "egitim_oyt_test_5_q4",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 4,
+    "questionText": "Bir yönetici üst kurula yürütülen çalışmalar hakkında kısa ve öz bilgi verir. Başka bir yetkili, aynı konuda basın kuruluşlarına açıklama yapar.\n\nBu konuşmalar sırasıyla hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Konferans ve nutuk"
+      },
+      {
+        "key": "B",
+        "text": "Brifing ve demeç"
+      },
+      {
+        "key": "C",
+        "text": "Demeç ve brifing"
+      },
+      {
+        "key": "D",
+        "text": "Panel ve konferans"
+      },
+      {
+        "key": "E",
+        "text": "Nutuk ve sempozyum"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Brifing ve demeç)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Üst makama çalışmalar hakkında kısa ve öz bilgi sunmak brifing; yetkilinin basına açıklaması demeçtir. Konferansta uzman bilgi ve görüş aktarır; nutuk topluluğu heyecanlandırmayı amaçlar; panelde farklı görüşler, sempozyumda hazırlanmış bildiriler sunulur. Aynı konuda konuşulması teknikleri aynı yapmaz."
+  },
+  {
+    "id": "egitim_oyt_test_5_q5",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 5,
+    "questionText": "I. Konunun farklı yönleri hakkında önceden hazırlanmış bilimsel bildiriler sunulması\n\nII. İki grubun jüri önünde karşıt tezleri savunması\n\nBu uygulamalar sırasıyla hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Panel ve forum"
+      },
+      {
+        "key": "B",
+        "text": "Münazara ve sempozyum"
+      },
+      {
+        "key": "C",
+        "text": "Sempozyum ve münazara"
+      },
+      {
+        "key": "D",
+        "text": "Konferans ve açık oturum"
+      },
+      {
+        "key": "E",
+        "text": "Forum ve panel"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sempozyum ve münazara)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sempozyumda konuşmalar hazırlanmış bildiri veya tebliğ niteliğindedir. Münazarada iki grup karşıt tezleri jüri önünde savunur. Panel farklı görüşlerle konuyu incelemeye, forum geniş katılımlı tartışmaya, açık oturum güncel konunun uzmanlarca tartışılmasına dayanır. Konferans uzman sunumudur."
+  },
+  {
+    "id": "egitim_oyt_test_5_q6",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 6,
+    "questionText": "Öğrenci temsilcileri uzman kaynak grubuna sorular yöneltir; son bölümde dinleyiciler de soru sorar.\n\nHangi teknik kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kollegyum"
+      },
+      {
+        "key": "B",
+        "text": "Zıt panel"
+      },
+      {
+        "key": "C",
+        "text": "Münazara"
+      },
+      {
+        "key": "D",
+        "text": "Sempozyum"
+      },
+      {
+        "key": "E",
+        "text": "Vızıltı grupları"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kollegyum)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Kollegyumda temsilci öğrenci grubu uzman kaynak grubuna sorular sorar; dinleyiciler de katılabilir. Zıt panelde sınıf grupları birbirlerine soru sorar; uzman kaynak grubu zorunlu değildir. Münazara karşıt tezlerin savunulması, sempozyum bildiri sunumu, vızıltı kısa küçük grup tartışmasıdır. İki grup bulunması tek başına yeterli ipucu değildir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q7",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 7,
+    "questionText": "Öğrenciler altışar kişilik gruplarda altı dakika tartışır, sonra kısa sonuçlarını paylaşır.\n\nBu düzenleme hangi tekniktir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çalıştay"
+      },
+      {
+        "key": "B",
+        "text": "Sempozyum"
+      },
+      {
+        "key": "C",
+        "text": "Münazara"
+      },
+      {
+        "key": "D",
+        "text": "Vızıltı 66"
+      },
+      {
+        "key": "E",
+        "text": "Kollegyum"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Vızıltı 66)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Vızıltı 66, altı kişilik grupların altı dakika tartışmasına dayanır. Çalıştayda ortak çözüm veya çalışma geliştirme; sempozyumda hazırlanmış bildiriler; münazarada karşıt tezler ve jüri; kollegyumda temsilci ve uzman grupları belirleyicidir. Çalıştay da grup çalışması içerebilir; fakat yalnızca kişi sayısı onu tanımlamaz.<br><br>💡 <strong>Vızıltı / Phillips Grupları:</strong> Vızıltı 66 (6 kişi 6 dakika), Vızıltı 22 (2 kişi 2 dakika) şeklinde süre ve kişi sayısıyla adlandırılan hızlı fikir üretme tekniğidir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q8",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 8,
+    "questionText": "Beyin fırtınasının fikir üretme aşamasında\n\naşağıdakilerden hangisi uygun değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Alışılmışın dışındaki önerilerin ifade edilmesini destekleme"
+      },
+      {
+        "key": "B",
+        "text": "Her öneriyi söylenir söylenmez eleştirerek zayıf fikirleri ayıklama"
+      },
+      {
+        "key": "C",
+        "text": "Önerileri görünür biçimde kaydetme"
+      },
+      {
+        "key": "D",
+        "text": "Üretilen fikirlerin sayısını artırmaya çalışma"
+      },
+      {
+        "key": "E",
+        "text": "Fikirlerin geliştirilmesine ve birleştirilmesine fırsat verme"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Her öneriyi söylenir söylenmez eleştirerek zayıf fikirleri ayıklama)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Beyin fırtınasında üretim sırasında eleştiri ertelenir; böylece öğrenciler çekinmeden çok sayıda ve özgün öneri getirir. Hemen elemek fikir akışını keser. Kaydetme, farklı önerileri destekleme, fikirleri geliştirme ve birleştirme uygundur. Eleştirinin ertelenmesi önerilerin hiç değerlendirilmeyeceği anlamına gelmez; üretimden sonra uygunlukları incelenebilir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q9",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 9,
+    "questionText": "Öğrenciler bir düşünceye katılma derecelerini belirtir, gerekçelerini paylaşır ve isterlerse konumlarını değiştirir. Kazanan belirlenmez.\n\nHangi teknik kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Münazara"
+      },
+      {
+        "key": "B",
+        "text": "Sempozyum"
+      },
+      {
+        "key": "C",
+        "text": "Gösteri"
+      },
+      {
+        "key": "D",
+        "text": "Kollegyum"
+      },
+      {
+        "key": "E",
+        "text": "Görüş geliştirme"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Görüş geliştirme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Görüş geliştirmede öğrenci konumunu gerekçelendirir ve düşüncesini yeniden değerlendirebilir; amaç kazanan belirlemek değildir. Münazarada gruplar karşıt tezleri jüri önünde savunur. Sempozyum bildirilere, gösteri işlem izlemeye, kollegyum temsilci ve uzman gruplarına dayanır. Burada katılma derecesini ifade etme ve gerekçeler karşısında görüşünü değiştirebilme ayırt edicidir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q10",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 10,
+    "questionText": "Öğrenciler öyküdeki kişinin yerinde olsalar neler hissedeceklerini ve nasıl davranacaklarını çemberde sırayla paylaşır; canlandırma yapılmaz.\n\nHangi teknik kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rol oynama"
+      },
+      {
+        "key": "B",
+        "text": "Drama"
+      },
+      {
+        "key": "C",
+        "text": "Konuşma halkası"
+      },
+      {
+        "key": "D",
+        "text": "Akvaryum"
+      },
+      {
+        "key": "E",
+        "text": "Beyin fırtınası YAPRAK TEST 05 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Konuşma halkası)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Konuşma halkasında öğrenci kendisini bir kişinin yerine koyarak duygu ve düşüncelerini sırayla paylaşır. Rol oynama ve dramada canlandırma vardır; soruda yapılmadığı belirtilmiştir. Akvaryumda iç grup tartışır, dış grup gözlemler. Beyin fırtınasında çok sayıda çözüm fikri üretilir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q11",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 11,
+    "questionText": "I. Tehlikeli bir işlemi gerçek ortama benzeyen güvenli düzenekte uygulama\n\nII. Bilinmeyen bir kavramı, bilinen bir kavramın benzer özellikleriyle açıklama\n\nBu uygulamalar sırasıyla hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Analoji ve benzetim"
+      },
+      {
+        "key": "B",
+        "text": "Benzetim ve analoji"
+      },
+      {
+        "key": "C",
+        "text": "Drama ve rol oynama"
+      },
+      {
+        "key": "D",
+        "text": "Gösteri ve istasyon"
+      },
+      {
+        "key": "E",
+        "text": "Mikroöğretim ve konuşma halkası"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Benzetim ve analoji)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Benzetimde tehlikeli, pahalı veya güç gerçek uygulama gerçeğe yakın yapay ortamda deneyimlenir. Analojide bilinen ve bilinmeyen kavram arasındaki benzerliklerle açıklama yapılır. İlkinde uygulama ortamı modellenir, ikincisinde kavramlar ilişkilendirilir. Drama ve rol oynama canlandırma, gösteri işlem izleme, mikroöğretim kısa dersi dönütlerle geliştirmedir. Her iki teknikte benzerlik kullanılması işlevlerinin aynı olduğu anlamına gelmez; uygulama ortamı ile kavramsal açıklama ayrılmalıdır."
+  },
+  {
+    "id": "egitim_oyt_test_5_q12",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 12,
+    "questionText": "Bir toplantıda sırasıyla sayısal veriler sunulmuş, önerinin riskleri incelenmiş ve yeni çözüm fikirleri üretilmiştir.\n\nAltı şapkalı düşünmede doğru sıra hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kırmızı – sarı – mavi"
+      },
+      {
+        "key": "B",
+        "text": "Beyaz – yeşil – siyah"
+      },
+      {
+        "key": "C",
+        "text": "Mavi – siyah – sarı"
+      },
+      {
+        "key": "D",
+        "text": "Sarı – kırmızı – beyaz"
+      },
+      {
+        "key": "E",
+        "text": "Beyaz – siyah – yeşil"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Beyaz – siyah – yeşil)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Beyaz şapka nesnel bilgi ve verileri, siyah risk ve sakıncaları, yeşil yaratıcı önerileri temsil eder. Doğru sıra beyaz-siyah-yeşildir. Kırmızı duygulara, sarı olumlu yön ve yararlara, mavi düşünme sürecinin yönetimine karşılık gelir. Siyah şapka yalnız kötümserlik belirtmek değil riskleri fark edip gerekçelendirmek için kullanılır. Soruda duygusal tepki veya süreci yönetme aşaması değil veri-risk-yeni fikir sırası verilmiştir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q13",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 13,
+    "questionText": "Bir öğretmen adayı kısa bir ders işler; video kaydı birlikte incelenir, adaya dönüt verilir ve aday düzeltmeler yaparak dersi yeniden işler.\n\nBu teknik hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Programlı öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Benzetim"
+      },
+      {
+        "key": "C",
+        "text": "Mikroöğretim"
+      },
+      {
+        "key": "D",
+        "text": "Konferans"
+      },
+      {
+        "key": "E",
+        "text": "Bilişsel çıraklık"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Mikroöğretim)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Mikroöğretimde kısa ders gözlenir, değerlendirilir, dönütlerle geliştirilir ve yeniden uygulanır. Video kaydı incelemeyi kolaylaştırır. Programlı öğretim küçük adımlarla ilerlemeyi; benzetim gerçeğe yakın ortamı; konferans uzman sunumunu; bilişsel çıraklık giderek azalan uzman desteğini içerir. Belirleyici döngü öğretme, inceleme, düzeltme ve yeniden öğretmedir. Yalnızca sürenin kısa veya ortamın yapay olması yeterli değildir; dönütün yeni uygulamaya aktarılması önemlidir.<br><br>💡 <strong>Mikro Öğretim:</strong> 'Öğret - Kaydet/İzle - Dönüt Al - Yeniden Öğret' döngüsüne dayalı, öğretmen adaylarına yönelik yapay sınıf ortamında beceri geliştirme tekniğidir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q14",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 14,
+    "questionText": "Gruplar farklı masalarda bir çözüm taslağı üzerinde çalışır. Süre bitince yer değiştirir ve önceki grubun bıraktığı çalışmayı ilerletir. Her grup bütün masalara uğrar.\n\nHangi teknik uygulanmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İstasyon"
+      },
+      {
+        "key": "B",
+        "text": "Beyin fırtınası"
+      },
+      {
+        "key": "C",
+        "text": "Düşün-eşleş-paylaş"
+      },
+      {
+        "key": "D",
+        "text": "Münazara"
+      },
+      {
+        "key": "E",
+        "text": "Bireysel çalışma"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İstasyon)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>İstasyonda gruplar çalışma noktaları arasında dolaşır ve önceki grubun bıraktığı işi geliştirir. Beyin fırtınası fikir üretimine, düşün-eşleş-paylaş bireysel-ikili-sınıf paylaşımına, münazara karşıt tez savunmaya, bireysel çalışma bağımsız öğrenmeye dayanır. Grup bulunması veya masa değiştirme tek başına yeterli değildir. Burada bütün istasyonlara uğrama ve yarım bırakılmış işi ilerletme birlikte verilmiştir; dönüşümlü ve birikimli çalışma tekniği ayırt ettirmektedir.<br><br>💡 <strong>İstasyon Tekniği:</strong> Başlanmış bir işe katkı sağlama, yarım kalan işi tamamlama, farklı masalarda dönüşümlü çalışma ve ortak ürün ortaya koymadır."
+  },
+  {
+    "id": "egitim_oyt_test_5_q15",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 15,
+    "questionText": "Bir uzman, bir metni nasıl çözümlediğini sesli düşünerek gösterir. Öğrenci aynı işi yaparken yardım alır; uzman desteğini giderek azaltır ve öğrenci kendi çözümleme yolunu geliştirir.\n\nBu süreç hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gösteri"
+      },
+      {
+        "key": "B",
+        "text": "Düz anlatım"
+      },
+      {
+        "key": "C",
+        "text": "Mikroöğretim"
+      },
+      {
+        "key": "D",
+        "text": "Bilişsel çıraklık"
+      },
+      {
+        "key": "E",
+        "text": "Rol oynama"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bilişsel çıraklık)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Bilişsel çıraklıkta uzman işini ve düşünme sürecini görünür kılar; öğrenci uygularken desteklenir ve yardım giderek kaldırılır. Gösteride yalnız izleme olabilir; anlatımda içerik aktarılır; mikroöğretimde kısa ders dönütlerle yeniden işlenir; rol oynamada kişi canlandırılır. Burada model olma, destekleme ve bağımsızlaşma birlikte bulunmaktadır. Uzmanın desteği bir anda kesilmez; öğrencinin beceriyi kendi yoluyla sergileyebilmesine göre aşamalı azaltılır."
+  },
+  {
+    "id": "egitim_oyt_test_5_q16",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 16,
+    "questionText": "Bir yazılım konuyu küçük adımlarla sunar. Öğrenci her adımda cevap verir, anında dönüt alır ve kendi hızında ilerler.\n\nBu düzenleme hangi öğretim tekniğidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Modüler öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Mikroöğretim"
+      },
+      {
+        "key": "C",
+        "text": "Buluş yoluyla öğretim"
+      },
+      {
+        "key": "D",
+        "text": "İstasyon"
+      },
+      {
+        "key": "E",
+        "text": "Programlı öğretim"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Programlı öğretim)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Programlı öğretimde küçük içerik adımları, etkin cevap verme, anında dönüt ve bireysel hız birlikte bulunur. Modüler öğretimde kendi içinde bütünlüğü olan bağımsız birimler öne çıkar; içeriği bölmek tek başına ayrımı sağlamaz. Mikroöğretim kısa dersi geliştirme, buluş örneklerden ilkeye ulaşma, istasyon dönüşümlü grup çalışmasıdır. Soruda küçük adım-cevap-dönüt örüntüsü belirleyicidir; yazılım kullanılması tek başına programlı öğretim yapıldığını göstermez."
+  },
+  {
+    "id": "egitim_oyt_test_5_q17",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 17,
+    "questionText": "Bir dersin bazı etkinlikleri sınıfta yüz yüze, birbirini tamamlayan diğer etkinlikleri ise çevrim içi öğrenme ortamında yürütülür.\n\nBu düzenleme hangi yaklaşımdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnızca uzaktan öğretim"
+      },
+      {
+        "key": "B",
+        "text": "Programlı öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Basamaklı öğretim"
+      },
+      {
+        "key": "D",
+        "text": "Harmanlanmış öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "Bireysel çalışma"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Harmanlanmış öğrenme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Harmanlanmış öğrenme, yüz yüze öğretim ile internet tabanlı öğrenmenin bütünleştirilmesidir. Burada iki ortam birbirini tamamlar. Uzaktan öğretimde öğretici ve öğrenen ayrı yerlerde olabilir; programlı öğretimde küçük adım ve dönüt, basamaklı öğretimde C-B-A görevleri, bireysel çalışmada bağımsız öğrenme belirleyicidir. Dersin çevrim içi etkinlikler içermesi onu kendiliğinden programlı öğretim yapmaz; yüz yüze ve çevrim içi süreçlerin birlikte düzenlenmesi esastır.<br><br>💡 <strong>Harmanlanmış (Hibrit/Blended) Öğrenme:</strong> Yüz yüze sınıf içi etkinlikler ile çevrim içi dijital öğrenmenin pedagojik olarak bütünleştirilmesidir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q18",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 18,
+    "questionText": "İç halkadaki öğrenciler tartışırken dış halkadakiler gözlem yapar; ardından gözlemciler görüşlerini paylaşır.\n\nBu teknik aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rulman"
+      },
+      {
+        "key": "B",
+        "text": "Kartopu"
+      },
+      {
+        "key": "C",
+        "text": "Akvaryum"
+      },
+      {
+        "key": "D",
+        "text": "Düşün-eşleş-paylaş"
+      },
+      {
+        "key": "E",
+        "text": "Konuşma halkası"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Akvaryum)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Akvaryumda iç grup tartışır, dış grup gözlemler ve ardından görüşlerini paylaşır. Rulmanda iç ve dış halkadaki eşler halka kaydıkça değişir. Kartopunda gruplar birleşerek büyür. Düşün-eşleş-paylaş bireysel- ikili-sınıf sırasını; konuşma halkası sıralı duygu ve düşünce paylaşımını içerir. Burada iç-dış grupların tartışmacı ve gözlemci rolleri belirleyicidir. Yalnızca halka şeklinde oturma, akvaryum ile rulmanı ayırt etmek için yeterli değildir."
+  },
+  {
+    "id": "egitim_oyt_test_5_q19",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 19,
+    "questionText": "Öğretmen önce her öğrenciden bir soruya ilişkin bireysel düşünmesini, sonra yanındaki arkadaşıyla görüşünü paylaşmasını, son olarak ulaştıkları sonucu sınıfa aktarmalarını ister.\n\nHangi teknik kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dedikodu"
+      },
+      {
+        "key": "B",
+        "text": "Düşün-eşleş-paylaş"
+      },
+      {
+        "key": "C",
+        "text": "Rulman"
+      },
+      {
+        "key": "D",
+        "text": "Kartopu"
+      },
+      {
+        "key": "E",
+        "text": "Vızıltı 66"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Düşün-eşleş-paylaş)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Düşün-eşleş-paylaş bireysel düşünme, arkadaşla paylaşma ve sınıfa aktarma sırasını izler. Dedikoduda ikili bilgi paylaşımı; rulmanda halkalarla eş değiştirme; kartopunda grupların büyümesi; vızıltı 66’da altı kişilik altı dakikalık tartışma öne çıkar. Her ikili çalışma düşün-eşleş-paylaş değildir. Soruda paylaşım öncesi bireysel düşünme ve sonrasında sınıfa aktarma açıkça verilmiştir; doğru cevabı bu üç aşamanın birlikte bulunması belirler."
+  },
+  {
+    "id": "egitim_oyt_test_5_q20",
+    "testId": "egitim_oyt_test_5",
+    "testTitle": "ÖYT Test 5: Öğretim Yöntemleri ve Teknikleri",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 20,
+    "questionText": "Aşağıdaki uygulamalardan hangisi tutor destekli\n\nöğretime örnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Konuyu öğrenmiş bir öğrencinin arkadaşına açıklama, alıştırma ve dönütle rehberlik etmesi"
+      },
+      {
+        "key": "B",
+        "text": "Bir uzmanın dinleyicilere bilimsel bir konuşma yapması"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencilerin konuyu doğal ortamında incelemek için planlı ziyaret yapması"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmenin ders dışında tamamlanacak pekiştirme görevi vermesi"
+      },
+      {
+        "key": "E",
+        "text": "Grupların farklı istasyonlarda önceki çalışmaları sürdürmesi YAPRAK TEST 05 3 Cevap Anahtarı ve Ayrıntılı Çözümler 1 / D 2 / A 3 / E 4 / B 5 / C 6 / A 7 / D 8 / B 9 / E 10 / C 11 / B 12 / E 13 / C 14 / A 15 / D 16 / E 17 / D 18 / C 19 / B 20 / A"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Konuyu öğrenmiş bir öğrencinin arkadaşına açıklama, alıştırma ve dönütle rehberlik etmesi)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Tutor desteğinde öğrenen bir akranı veya daha deneyimli öğrenci tarafından bireysel rehberlikle desteklenir. İlk uygulamadaki açıklama, alıştırma ve dönüt bunu gösterir. Uzmanın konuşması konferans; doğal ortama planlı ziyaret gezi; ders dışı pekiştirme görevi ev ödevi; dönüşümlü çalışma noktaları istasyondur. Akranların aynı ortamda bulunması yeterli değildir; birinin diğerinin öğrenmesine yönelik düzenli ve bireysel destek sunması belirleyicidir.<br><br>💡 <strong>Tutor Destekli Öğretim:</strong> Bire bir öğrenme güçlüğü çeken öğrenciye, bir üst sınıftan veya konuyu iyi bilen bir akrandan/uzmandan bireysel rehberlik ve ders desteği sağlanmasıdır."
+  },
+  {
+    "id": "egitim_oyt_test_6_q1",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 1,
+    "questionText": "Öğrenci profiline ilişkin hangi eşleştirme yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merhametli — Affedici"
+      },
+      {
+        "key": "B",
+        "text": "Cesaretli — Risk alan"
+      },
+      {
+        "key": "C",
+        "text": "Vatansever — Belagat sahibi"
+      },
+      {
+        "key": "D",
+        "text": "İradeli — İlkeli"
+      },
+      {
+        "key": "E",
+        "text": "Sağlıklı — Düzenli uyuyan"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Vatansever — Belagat sahibi)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Belagat, dili ve söz sanatlarını etkili kullanmadır; bilge insanın alt özelliğidir. Diğer dört eşleştirme doğrudur. Vatanseverlikte bayrağa, Türkçeye, ülke çıkarlarına, vatandaşlık sorumluluklarına ve kültürel değerlere bağlılık bulunur. Türkçeye sahip çıkma ile belagat aynı alt özellik olarak sınıflandırılmamalıdır.<br><br>💡 <strong>Maarif Modeli Öğrenci Profili Notu:</strong><br><em>Bilge İnsan:</em> Bilgiyi arayan, doğru kullanan ve 'belagat sahibi' olan bireydir. <em>Vatansever İnsan:</em> Bayrağına, mukaddesatına, Türkçesine ve vatanına sadakatle bağlı bireydir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q2",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 2,
+    "questionText": "Genel kuralı önce açıklayıp örneklerle\n\nanlamlandıran öğretmen hangi stratejiyi kullanır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Buluş"
+      },
+      {
+        "key": "B",
+        "text": "Sunuş"
+      },
+      {
+        "key": "C",
+        "text": "Araştırma-inceleme"
+      },
+      {
+        "key": "D",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "Basamaklı öğretim"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Sunuş)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sunuşta genel bilgi önce verilir, örneklerle anlamlandırılır. Buluşta örneklerden kurala ulaşılır; araştırma-incelemede hipotezler sınanır. Tam öğrenme eksikleri giderme, basamaklı öğretim C-B-A görevleriyle tanınır. Hazır bilginin anlamlandırılması ezberle aynı şey değildir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q3",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 3,
+    "questionText": "Merak, empati ve gerçeği arama sırasıyla hangi\n\neğilim gruplarındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sosyal – benlik – entelektüel"
+      },
+      {
+        "key": "B",
+        "text": "Benlik – entelektüel – sosyal"
+      },
+      {
+        "key": "C",
+        "text": "Entelektüel – sosyal – benlik"
+      },
+      {
+        "key": "D",
+        "text": "Benlik – sosyal – entelektüel"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal – entelektüel – benlik"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Benlik – sosyal – entelektüel)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Merak benlik, empati sosyal, gerçeği arama entelektüel eğilimdir. Benlik kişinin içsel özelliklerini; sosyal eğilimler sosyal ortamda beceri kullanımını; entelektüel eğilimler zihinsel ve düşünsel birikimi yansıtır. Üç kavramın aynı sırayla eşleştirilmesi gerekir.<br><br>💡 <strong>Maarif Modeli Eğilimler Notu:</strong><br>• <strong>Benlik Eğilimleri:</strong> Merak, bağımsızlık, azim, kararlılık, özgüven, özyeterlilik.<br>• <strong>Sosyal Eğilimler:</strong> Empati, sorumluluk, girişkenlik, güven, oyunseverlik.<br>• <strong>Entelektüel Eğilimler:</strong> Gerçeği arama, odaklanma, analitik ve sistematik düşünme, sorgulayıcılık."
+  },
+  {
+    "id": "egitim_oyt_test_6_q4",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 4,
+    "questionText": "Tam öğrenmede ilgi ve tutumlar ile ön koşul\n\nbilgiler sırasıyla hangi giriş davranışlarıdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilişsel ve duyuşsal"
+      },
+      {
+        "key": "B",
+        "text": "Psikomotor ve duyuşsal"
+      },
+      {
+        "key": "C",
+        "text": "Bilişsel ve psikomotor"
+      },
+      {
+        "key": "D",
+        "text": "Duyuşsal ve psikomotor"
+      },
+      {
+        "key": "E",
+        "text": "Duyuşsal ve bilişsel"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Duyuşsal ve bilişsel)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>İlgi, tutum ve öğrenme isteği duyuşsal; gerekli ön bilgi ve beceriler bilişsel giriş davranışlarıdır. Yalnız bilgi testi uygulamak her iki boyutun da belirlendiğini göstermez. Psikomotor davranışlar bedensel becerilerle ilgilidir; sorudaki iki özelliğin karşılığı değildir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q5",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 5,
+    "questionText": "Ruh-beden birlikteliği ve geçmişten geleceğe\n\neğitim bağı sırasıyla hangi kavramlardır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ontolojik bütünlük ve zamansal bütünlük"
+      },
+      {
+        "key": "B",
+        "text": "Epistemolojik bütünlük ve aksiyolojik olgunluk"
+      },
+      {
+        "key": "C",
+        "text": "Zamansal bütünlük ve ontolojik bütünlük"
+      },
+      {
+        "key": "D",
+        "text": "Aksiyolojik olgunluk ve epistemolojik bütünlük"
+      },
+      {
+        "key": "E",
+        "text": "Ontolojik bütünlük ve epistemolojik bütünlük"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ontolojik bütünlük ve zamansal bütünlük)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Ruh-beden birlikteliği ontolojik, geçmiş-gelecek bağı zamansal bütünlüktür. Epistemolojik bütünlük bilgi ve bilgelikle, aksiyolojik olgunluk ahlaki bilinç ve estetik bakışla ilgilidir. Kavramların sırasını değiştiren veya ikinci açıklamayı bilgiye bakışla eşleştiren seçenekler yanlıştır.<br><br>💡 <strong>Maarif Modeli 4 Bütünlük Alanı:</strong><br>• <strong>Ontolojik:</strong> Ruh ve beden bütünlüğü.<br>• <strong>Epistemolojik:</strong> Bilgi ve bilgelik bütünlüğü.<br>• <strong>Zamansal:</strong> Geçmişten geleceğe köprü kurma.<br>• <strong>Aksiyolojik:</strong> Değerleri benimseme ve ahlaki olgunluk."
+  },
+  {
+    "id": "egitim_oyt_test_6_q6",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 6,
+    "questionText": "Öğretmen bir beceriyi gösterir; ardından öğrenciler beceriyi uygulayıp anında dönüt alır. Hangi\n\nyöntemdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gösteri"
+      },
+      {
+        "key": "B",
+        "text": "Gösterip yaptırma"
+      },
+      {
+        "key": "C",
+        "text": "Örnek olay"
+      },
+      {
+        "key": "D",
+        "text": "Anlatım"
+      },
+      {
+        "key": "E",
+        "text": "Tartışma"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Gösterip yaptırma)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Gösterip yaptırmada izleme sonrasında öğrenci uygulaması vardır. Gösteride yalnız işlemi izleme bulunabilir. Örnek olay sorun tartışma, anlatım bilgi aktarımı, tartışma görüş alışverişidir. Öğrencilerin bizzat uygulaması ve düzeltme alması, gösterip yaptırmayı yalnız gösteriden ayırır."
+  },
+  {
+    "id": "egitim_oyt_test_6_q7",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 7,
+    "questionText": "Ortak başarı için birbirini destekleme ve her üyenin öğrenmesini ayrı kontrol etme, sırasıyla hangi\n\nişbirlikli öğrenme özellikleridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bireysel yarış ve grup puanı"
+      },
+      {
+        "key": "B",
+        "text": "Tek liderlik ve homojenlik"
+      },
+      {
+        "key": "C",
+        "text": "Görev paylaşımı ve bireysel hız"
+      },
+      {
+        "key": "D",
+        "text": "Ortak ürün ve grup içi rekabet"
+      },
+      {
+        "key": "E",
+        "text": "Olumlu bağlılık ve bireysel sorumluluk"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Olumlu bağlılık ve bireysel sorumluluk)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Olumlu bağlılık üyelerin başarılarının birbirini desteklemesidir. Bireysel sorumluluk her üyenin katkı ve öğrenmesinin izlenmesidir. Ortak ürün veya görev paylaşımı tek başına yeterli değildir. Tek liderlik ve rekabet, soruda verilen iki koşulun yerine geçmez."
+  },
+  {
+    "id": "egitim_oyt_test_6_q8",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 8,
+    "questionText": "Maarif Modeli’nde hangi üçlü üst düzey düşünme\n\nbecerilerinden oluşur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Özetleme – karşılaştırma – sınıflandırma"
+      },
+      {
+        "key": "B",
+        "text": "Sayma – ölçme – kaydetme"
+      },
+      {
+        "key": "C",
+        "text": "Karar verme – problem çözme – eleştirel düşünme"
+      },
+      {
+        "key": "D",
+        "text": "Gözlemleme – çözümleme – yorumlama"
+      },
+      {
+        "key": "E",
+        "text": "Sentezleme – yansıtma – tartışma"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Karar verme – problem çözme – eleştirel düşünme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Üst düzey üçlü karar verme, problem çözme ve eleştirel düşünmedir. Sayma, ölçme ve kaydetme temel; diğer seçeneklerdeki eylemler bütünleşik becerilerdir. Temel ve bütünleşik beceriler üst düzey düşünmeyi destekler; bu ilişki listedeki bütün becerilerin sırayla bitirilmesini gerektirmez.<br><br>💡 <strong>Üst Düzey Düşünme Becerileri (KAP / ÇAP):</strong><br>1. Karar Verme (K)<br>2. Eleştirel Düşünme (E)<br>3. Problem Çözme (P)"
+  },
+  {
+    "id": "egitim_oyt_test_6_q9",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 9,
+    "questionText": "Kendi öğrenme yolunu planlama, izleme ve\n\ngerektiğinde değiştirme hangi düşünme becerisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Metabilişsel"
+      },
+      {
+        "key": "B",
+        "text": "Analitik"
+      },
+      {
+        "key": "C",
+        "text": "Yaratıcı"
+      },
+      {
+        "key": "D",
+        "text": "Lateral"
+      },
+      {
+        "key": "E",
+        "text": "Eleştirel"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Metabilişsel)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Metabilişsel düşünme kişinin kendi düşünme ve öğrenme süreçlerini yönetmesidir. Analitik düşünme parçalarla ilişkileri inceler; yaratıcı ve lateral düşünme yeni yollar geliştirir; eleştirel düşünme bilgiyi kanıt ve mantıkla sorgular. Burada kişinin kendi öğrenmesini düzenlemesi belirleyicidir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q10",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 10,
+    "questionText": "Öğrenci profiline ilişkin hangi eşleştirme\n\nyanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilge — Bilgilerini paylaşan"
+      },
+      {
+        "key": "B",
+        "text": "Estetik — Seçici"
+      },
+      {
+        "key": "C",
+        "text": "Üretken — Yaratıcı"
+      },
+      {
+        "key": "D",
+        "text": "Ahlaklı — Düzenli spor yapan"
+      },
+      {
+        "key": "E",
+        "text": "Sorgulayıcı — Esnek"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ahlaklı — Düzenli spor yapan)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Düzenli spor ve egzersiz sağlıklı insanın alt özelliğidir. Diğer dört eşleştirme doğrudur. Ahlaklı insan adil, güvenilir, dürüst ve saygılı olma gibi özelliklerle açıklanır. Her olumlu davranışı genel anlamda ahlaklılıkla ilişkilendirmek, modeldeki özel sınıflandırmanın yerine geçmez."
+  },
+  {
+    "id": "egitim_oyt_test_6_q11",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 11,
+    "questionText": "Maarif Modeli’nde öğrenme kanıtlarının işlevi\n\nnedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmenin kendi uygulamasını gözden geçirmesini sağlamak"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenilecek konuları içerik olarak sıralamak"
+      },
+      {
+        "key": "C",
+        "text": "Öğrenme çıktılarına ulaşma düzeyini belirlemek"
+      },
+      {
+        "key": "D",
+        "text": "Beceri kullanımını isteklilikle harekete geçirmek"
+      },
+      {
+        "key": "E",
+        "text": "Yeni bilgilerle eski bilgiler arasında başlangıç bağı kurmak"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Öğrenme çıktılarına ulaşma düzeyini belirlemek)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Öğrenme kanıtları çıktıların gerçekleşme düzeyini belirler. Öğretmenin uygulamasını incelemesi öğretmen yansıtmaları; konuların kapsamı içerik çerçevesi; beceriyi harekete geçiren örüntüler eğilimlerdir. Ön bilgilerle başlangıç bağı kurma ise kanıt toplamaktan farklıdır. Amaç öğrencinin öğrenmesine dayalı değerlendirme yapmaktır.<br><br>💡 <strong>Öğrenme Kanıtları (Ölçme-Değerlendirme):</strong><br>Maarif Modeli'nde klasik not vermekten ziyade öğrencinin kavramsal ve beceri gelişimini takip eden süreç odaklı, biçimlendirici değerlendirme (öğrenme kanıtları) esastır."
+  },
+  {
+    "id": "egitim_oyt_test_6_q12",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 12,
+    "questionText": "Hazırlanmış bilimsel bildiriler sunulması ve öğrenci temsilcilerinin uzman kaynak gruba soru\n\nsorması sırasıyla hangi tekniklerdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sempozyum ve kollegyum"
+      },
+      {
+        "key": "B",
+        "text": "Panel ve münazara"
+      },
+      {
+        "key": "C",
+        "text": "Kollegyum ve sempozyum"
+      },
+      {
+        "key": "D",
+        "text": "Münazara ve forum"
+      },
+      {
+        "key": "E",
+        "text": "Açık oturum ve vızıltı YAPRAK TEST 06 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sempozyum ve kollegyum)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sempozyumda hazırlanmış bildiriler, kollegyumda temsilci ve uzman grupları belirleyicidir. Panel farklı görüşleri, münazara karşıt tezleri, forum geniş katılımı, vızıltı kısa küçük grup tartışmasını içerir. İki uygulamada da konuşmacı bulunması, yöntemlerin aynı olduğunu göstermez; işleyişe bakılmalıdır."
+  },
+  {
+    "id": "egitim_oyt_test_6_q13",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 13,
+    "questionText": "Önce bilinen bilgilerden yeni bilgilere, sonra yakın çevreden uzak çevrelere ilerleme hangi\n\nilkelerdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Somuttan soyuta ve güncellik"
+      },
+      {
+        "key": "B",
+        "text": "Yakından uzağa ve bilinenden bilinmeyene"
+      },
+      {
+        "key": "C",
+        "text": "Basitten karmaşığa ve ekonomiklik"
+      },
+      {
+        "key": "D",
+        "text": "Açıklık ve öğrenciye görelik"
+      },
+      {
+        "key": "E",
+        "text": "Bilinenden bilinmeyene ve yakından uzağa"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Bilinenden bilinmeyene ve yakından uzağa)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>İlk açıklama ön bilgilerden hareket eden bilinenden bilinmeyene, ikinci açıklama çevresel uzaklığı esas alan yakından uzağa ilkesidir. Somuttan soyuta nesneden sembole; basitten karmaşığa yapısal güçlüğe ilişkindir. Güncellik güncel olaylar, ekonomiklik kaynak verimliliği, öğrenciye görelik öğrenci özellikleriyle ilgilidir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q14",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 14,
+    "questionText": "5E modelinde öğrenilen kavramın yeni durumlara\n\nuygulanması hangi aşamadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Giriş"
+      },
+      {
+        "key": "B",
+        "text": "Keşfetme"
+      },
+      {
+        "key": "C",
+        "text": "Açıklama"
+      },
+      {
+        "key": "D",
+        "text": "Derinleştirme"
+      },
+      {
+        "key": "E",
+        "text": "Değerlendirme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Derinleştirme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Derinleştirme, öğrenilen kavramın yeni bağlamlara taşınmasıdır. Giriş merak, keşfetme inceleme, açıklama kavramları anlamlandırma, değerlendirme öğrenme düzeyini belirleme işlevindedir. Uygulama değerlendirmeye veri sağlayabilir; fakat yeni bağlamda kullanma vurgusu derinleştirmeyi gösterir. Her uygulama otomatik olarak değerlendirme sayılmaz."
+  },
+  {
+    "id": "egitim_oyt_test_6_q15",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 15,
+    "questionText": "Riskleri inceleme, özgün öneriler üretme ve\n\ndüşünme sürecini yönetmede şapka sırası hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Beyaz – sarı – kırmızı"
+      },
+      {
+        "key": "B",
+        "text": "Siyah – yeşil – mavi"
+      },
+      {
+        "key": "C",
+        "text": "Yeşil – siyah – mavi"
+      },
+      {
+        "key": "D",
+        "text": "Sarı – kırmızı – beyaz"
+      },
+      {
+        "key": "E",
+        "text": "Mavi – yeşil – siyah"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Siyah – yeşil – mavi)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Siyah riskleri, yeşil yaratıcı önerileri, mavi sürecin yönetimini temsil eder. Beyaz nesnel veri, sarı olumlu yön ve yarar, kırmızı duygular içindir. Mavi diğer görüşleri düzenleyen kontrol şapkasıdır; yalnızca yeni fikir üretme veya olumsuzlukları bulmayla aynı değildir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q16",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 16,
+    "questionText": "I. Sosyal-duygusal öğrenme becerileri\n\nII. Erdem-Değer-Eylem Çerçevesi\n\nIII. Sistem düşüncesi ve okuryazarlık\n\nIV. Benlik eğilimleri\n\nHangileri programlar arası bileşenlerdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "II ve IV"
+      },
+      {
+        "key": "D",
+        "text": "I, III ve IV"
+      },
+      {
+        "key": "E",
+        "text": "I, II, III ve IV"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I, II ve III)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>I, II ve III programlar arası bileşenlerdir. Benlik eğilimleri ise becerilerin kullanılmasını destekleyen eğilimlerin boyutudur. IV’ü içeren birleşimler yanlış; yalnız I ve II’yi alan seçenek eksiktir. Bir unsurun bileşenleri desteklemesi, aynı sınıflandırmada yer aldığı anlamına gelmez.<br><br>💡 <strong>Programlar Arası Bileşenler:</strong><br>Sosyal-Duygusal Öğrenme Becerileri (SDÖB), Erdem-Değer-Eylem Çerçevesi ve Okuryazarlık Becerileri (Sistem, Bilgi, Dijital, Sanat vb.) programlar arası ortak yatay bileşenlerdir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q17",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 17,
+    "questionText": "Bütünü parçalara ayırıp ilişkileri belirleme ve\n\nözelliklere göre gruplama sırasıyla hangi becerilerdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sınıflandırma ve çözümleme"
+      },
+      {
+        "key": "B",
+        "text": "Çözümleme ve sınıflandırma"
+      },
+      {
+        "key": "C",
+        "text": "Yansıtma ve yorumlama"
+      },
+      {
+        "key": "D",
+        "text": "Gözlemleme ve özetleme"
+      },
+      {
+        "key": "E",
+        "text": "Sentezleme ve değerlendirme"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Çözümleme ve sınıflandırma)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Çözümleme parçaları ve ilişkileri; sınıflandırma özelliklere göre grupları belirler. Yansıtma deneyimi gözden geçirme, yorumlama yeniden açıklama, özetleme özü kısaltma, sentezleme özgün bütün oluşturma, değerlendirme ölçütlere göre yargıdır. Bir bütünü incelemekle onu ölçütlerle gruplamak aynı işlem değildir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q18",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 18,
+    "questionText": "Problem tanımlama, hipotez geliştirme, veri toplama ve hipotez sınama hangi stratejinin\n\nsürecidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sunuş"
+      },
+      {
+        "key": "B",
+        "text": "Buluş"
+      },
+      {
+        "key": "C",
+        "text": "Araştırma-inceleme"
+      },
+      {
+        "key": "D",
+        "text": "Basamaklı öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Programlı öğretim"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Araştırma-inceleme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Araştırma-inceleme bilimsel problem çözme sürecine dayanır. Sunuş genel bilginin anlamlı sunumu; buluş örneklerden ilkeye ulaşma; basamaklı öğretim C-B-A görevleri; programlı öğretim küçük adım ve dönütle ilerlemedir. Veriyle hipotez sınama, yalnız örnek karşılaştırmaktan farklıdır."
+  },
+  {
+    "id": "egitim_oyt_test_6_q19",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 19,
+    "questionText": "Gerçeğe yakın yapay ortamda uygulama ve bilineni kullanarak bilinmeyen kavramı açıklama\n\nsırasıyla hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Analoji ve benzetim"
+      },
+      {
+        "key": "B",
+        "text": "Rol oynama ve gösteri"
+      },
+      {
+        "key": "C",
+        "text": "Mikroöğretim ve drama"
+      },
+      {
+        "key": "D",
+        "text": "Benzetim ve analoji"
+      },
+      {
+        "key": "E",
+        "text": "Gösteri ve bilişsel çıraklık"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Benzetim ve analoji)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Benzetim uygulama ortamını modeller; analoji kavramlar arasındaki benzerliği açıklama için kullanır. Rol oynama ve drama canlandırma, gösteri işlem izleme, mikroöğretim kısa dersi dönütlerle geliştirme, bilişsel çıraklık giderek azalan uzman desteğidir. Ortam benzerliği ile kavramsal benzerlik birbirinden ayrılmalıdır."
+  },
+  {
+    "id": "egitim_oyt_test_6_q20",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 20,
+    "questionText": "Yapılandırmacı yaklaşım ile Maarif Modeli’nin farklılaştırma anlayışında hangi uygulama ortak\n\nbiçimde desteklenir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrenci deneyimlerini öğretim dışında tutma"
+      },
+      {
+        "key": "B",
+        "text": "Başarı sıralamasıyla bütün öğrencilere aynı görevi verme"
+      },
+      {
+        "key": "C",
+        "text": "Öğretmen açıklamalarını gerekçesiz tekrarlatma"
+      },
+      {
+        "key": "D",
+        "text": "Öğrenme sürecini yalnız son puana göre düzenleme"
+      },
+      {
+        "key": "E",
+        "text": "Ön bilgileri ve farklı ihtiyaçları dikkate alan etkin katılım"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ön bilgileri ve farklı ihtiyaçları dikkate alan etkin katılım)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Her iki anlayışta öğrencinin ön bilgileri, etkinliği ve farklı ihtiyaçları önemlidir. Deneyimleri dışlama ve açıklamayı gerekçesiz tekrarlatma anlam kurmayı engeller. Başarı sıralaması ihtiyaçlara uygun öğretimin yerine geçmez. Süreçteki gelişim ve kanıtlar da dikkate alınmalı; yalnız son puanla yetinilmemelidir.<br><br>💡 <strong>Farklılaştırma (Diferansiyasyon):</strong><br>Öğrencilerin öğrenme hız ve ilgilerine göre program; eksik kalanlar için <em>destekleme</em>, ileride olanlar için <em>zenginleştirme</em> etkinlikleriyle esnetilir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q21",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 21,
+    "questionText": "Küçük adım-cevap-dönüt düzeni ve kısa dersin kayıtla incelenip yeniden işlenmesi sırasıyla\n\nhangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Programlı öğretim ve mikroöğretim"
+      },
+      {
+        "key": "B",
+        "text": "Mikroöğretim ve programlı öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Tam öğrenme ve gösteri"
+      },
+      {
+        "key": "D",
+        "text": "Buluş ve istasyon"
+      },
+      {
+        "key": "E",
+        "text": "Harmanlanmış öğrenme ve bilişsel çıraklık"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Programlı öğretim ve mikroöğretim)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Programlı öğretimde küçük içerik adımları, cevap ve anında dönüt vardır. Mikroöğretimde kısa ders dönütlerle yeniden uygulanır. Tam öğrenme eksikleri giderme; istasyon dönüşümlü üretim; harmanlanmış öğrenme yüz yüze-çevrim içi bütünleşme; bilişsel çıraklık uzman desteğinin azaltılmasıyla tanınır."
+  },
+  {
+    "id": "egitim_oyt_test_6_q22",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 22,
+    "questionText": "Grupların yer değiştirerek öncekinin bıraktığı işi\n\nilerletmesi hangi tekniktir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Akvaryum"
+      },
+      {
+        "key": "B",
+        "text": "İstasyon"
+      },
+      {
+        "key": "C",
+        "text": "Rulman"
+      },
+      {
+        "key": "D",
+        "text": "Kartopu"
+      },
+      {
+        "key": "E",
+        "text": "Düşün-eşleş-paylaş"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (İstasyon)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>İstasyonda dönüşümlü ve birikimli çalışma vardır. Akvaryumda iç grup tartışır, dış grup gözlemler; rulmanda eşler dönen halkalarla değişir; kartopunda gruplar birleşerek büyür; düşün-eşleş-paylaş bireysel- ikili-sınıf sırasını izler. Yer değiştirme tek başına yeterli değildir; önceki işi geliştirme belirleyicidir."
+  },
+  {
+    "id": "egitim_oyt_test_6_q23",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 23,
+    "questionText": "Gagné modelinde performansın ortaya\n\nçıkarılmasını hemen hangi aşama izler?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hedeften haberdar etme"
+      },
+      {
+        "key": "B",
+        "text": "Önceki öğrenmeleri hatırlatma"
+      },
+      {
+        "key": "C",
+        "text": "Dönüt-düzeltme sağlama"
+      },
+      {
+        "key": "D",
+        "text": "İçeriği sunma"
+      },
+      {
+        "key": "E",
+        "text": "Kalıcılık ve transferi güçlendirme"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Dönüt-düzeltme sağlama)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Performans ortaya çıkarıldıktan sonra dönüt-düzeltme sağlanır, ardından performans değerlendirilir ve kalıcılıkla transfer güçlendirilir. Hedeften haberdar etme, ön öğrenmeleri hatırlatma ve içerik sunma daha önceki basamaklardır. Performansa dönüt vermekle performansı değerlendirmek birbirinin yerine kullanılmamalıdır."
+  },
+  {
+    "id": "egitim_oyt_test_6_q24",
+    "testId": "egitim_oyt_test_6",
+    "testTitle": "ÖYT Test 6: Maarif Modeli ve ÖYT Karma Tekrar Testi",
+    "topicId": "egitim_oyt",
+    "topicName": "Öğretim Yöntem ve Teknikleri",
+    "category": "Eğitim Bilimleri",
+    "icon": "🌟",
+    "questionNumber": 24,
+    "questionText": "Basamaklı öğretimde temel bilgiden uygulamaya, ardından eleştirel değerlendirmeye ilerleme sırası\n\nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A – B – C"
+      },
+      {
+        "key": "B",
+        "text": "B – C – A"
+      },
+      {
+        "key": "C",
+        "text": "C – A – B"
+      },
+      {
+        "key": "D",
+        "text": "C – B – A"
+      },
+      {
+        "key": "E",
+        "text": "B – A – C YAPRAK TEST 06 3 Cevap Anahtarı ve Ayrıntılı Çözümler 1 / C 2 / B 3 / D 4 / E 5 / A 6 / B 7 / E 8 / C 9 / A 10 / D 11 / C 12 / A 13 / E 14 / D 15 / B 16 / A 17 / B 18 / C 19 / D 20 / E 21 / A 22 / B 23 / C 24 / D"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (C – B – A)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>C bilgi-kavrama, B uygulama, A analiz-sentez- değerlendirme düzeyidir. İlerleme C-B-A şeklindedir. Görevin süresi veya materyal sayısı basamağı belirlemez; gerekli düşünme işlemi esas alınır. Yeni ürün geliştirmeye yönelik proje çalışması farklı basamaklardan işlemler içerebilir; proje adı tek başına basamak göstermez."
   }
 ];
