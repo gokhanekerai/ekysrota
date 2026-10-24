@@ -75790,7 +75790,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Vatansever — Belagat sahibi)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Belagat, dili ve söz sanatlarını etkili kullanmadır; bilge insanın alt özelliğidir. Diğer dört eşleştirme doğrudur. Vatanseverlikte bayrağa, Türkçeye, ülke çıkarlarına, vatandaşlık sorumluluklarına ve kültürel değerlere bağlılık bulunur. Türkçeye sahip çıkma ile belagat aynı alt özellik olarak sınıflandırılmamalıdır.<br><br>💡 <strong>Maarif Modeli Öğrenci Profili Notu:</strong><br><em>Bilge İnsan:</em> Bilgiyi arayan, doğru kullanan ve 'belagat sahibi' olan bireydir. <em>Vatansever İnsan:</em> Bayrağına, mukaddesatına, Türkçesine ve vatanına sadakatle bağlı bireydir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Vatansever — Belagat sahibi)<br><br>\n📌 <strong>Pedagojik Çözüm & Kavramsal Analiz:</strong><br>\nTürkiye Yüzyılı Maarif Modeli'nde yer alan <strong>Öğrenci Profili</strong> 10 temel yetkinlik üzerine kurulmuştur. Her profilin kendine özgü alt karakteristikleri belirlenmiştir:<br>\n• <strong>Bilge İnsan:</strong> Bilgiyi arayan, derinleştiren, hakikati savunan ve dili/söz sanatlarını ustalıkla kullanan <em>'belagat sahibi'</em> bireydir.<br>\n• <strong>Vatansever İnsan:</strong> Vatanına, bayrağına, millî ve manevi mukaddesatına bağlı, Türkçeyi koruyan, millî menfaatleri her şeyin üstünde tutan bireydir.<br><br>\n💡 <strong>ÖSYM & EKYS Maarif Modeli Öğrenci Profili Eşleştirmeleri:</strong><br>\n1. <strong>Yetkin ve Erdemli:</strong> Akıl ve ahlak dengesi, karakter bütünlüğü.<br>\n2. <strong>Bilge:</strong> Hakikati arayan, tefekkür eden, belagat sahibi.<br>\n3. <strong>Vatansever:</strong> Millî bilince ve bağımsızlık ruhuna sahip.<br>\n4. <strong>Ahlaklı:</strong> Dürüst, adil, güvenilir ve edepli.<br>\n5. <strong>Cesur:</strong> Hak bildiği yolda azimle yürüyen, inisiyatif alan.<br>\n6. <strong>Sağlıklı:</strong> Beden ve ruh sağlığını koruyan, spor yapan.<br>\n7. <strong>Üretken:</strong> Katma değer üreten, yenilikçi.<br>\n8. <strong>Estetik:</strong> Sanatı, zarafeti ve güzelliği takdir eden.<br>\n9. <strong>Merhametli:</strong> Canlılara şefkatle yaklaşan, yardımsever.<br>\n10. <strong>Sorgulayıcı:</strong> Eleştirel düşünen, araştırmacı."
   },
   {
     "id": "egitim_oyt_test_6_q2",
@@ -75827,7 +75827,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Sunuş)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sunuşta genel bilgi önce verilir, örneklerle anlamlandırılır. Buluşta örneklerden kurala ulaşılır; araştırma-incelemede hipotezler sınanır. Tam öğrenme eksikleri giderme, basamaklı öğretim C-B-A görevleriyle tanınır. Hazır bilginin anlamlandırılması ezberle aynı şey değildir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Sunuş)<br><br>\n📌 <strong>Pedagojik Çözüm & Kuramsal Analiz:</strong><br>\n• <strong>Sunuş Yoluyla Öğretim Stratejisi (David Ausubel - Anlamlı Öğrenme):</strong><br>\nÖğretmenin en aktif olduğu, içeriğin genel ilke ve kavramlardan başlayarak özel örnek ve uygulamalara doğru aktarıldığı <strong>tümdengelim (dedüktif)</strong> mantığına dayalı stratejidir.<br>\nÖğretmen önce soyut ve genel kuralı açıklar, ardından somut örnekler vererek öğrencinin zihnindeki eski şemalarla yeni bilgiyi bağdaştırmasını sağlar.<br><br>\n💡 <strong>ÖSYM & EKYS Ayırt Edici Strateji Tablosu:</strong><br>\n• <strong>Sunuş (Ausubel):</strong> Kural/İlke ➔ Örnekler (Tümdengelim, Öncü Düzenleyiciler / Kavram Haritaları).<br>\n• <strong>Buluş (Bruner):</strong> Örnekler ➔ Kural/İlke (Tümevarım, sezgisel düşünme, merak uyandırma).<br>\n• <strong>Araştırma-İnceleme (Dewey):</strong> Problem çözme basamakları, hipotez kurma ve sınama (Üst düzey beceriler)."
   },
   {
     "id": "egitim_oyt_test_6_q3",
@@ -75864,7 +75864,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Benlik – sosyal – entelektüel)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Merak benlik, empati sosyal, gerçeği arama entelektüel eğilimdir. Benlik kişinin içsel özelliklerini; sosyal eğilimler sosyal ortamda beceri kullanımını; entelektüel eğilimler zihinsel ve düşünsel birikimi yansıtır. Üç kavramın aynı sırayla eşleştirilmesi gerekir.<br><br>💡 <strong>Maarif Modeli Eğilimler Notu:</strong><br>• <strong>Benlik Eğilimleri:</strong> Merak, bağımsızlık, azim, kararlılık, özgüven, özyeterlilik.<br>• <strong>Sosyal Eğilimler:</strong> Empati, sorumluluk, girişkenlik, güven, oyunseverlik.<br>• <strong>Entelektüel Eğilimler:</strong> Gerçeği arama, odaklanma, analitik ve sistematik düşünme, sorgulayıcılık."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Benlik – sosyal – entelektüel)<br><br>\n📌 <strong>Pedagojik Çözüm & Maarif Modeli Eğilimler Boyutu:</strong><br>\nMaarif Modeli'nde becerilerin hayata geçirilmesini sağlayan itici güçler <strong>Eğilimler</strong>dir. Üç temel grupta toplanır:<br>\n1. <strong>Benlik Eğilimleri:</strong> Bireyin kendi iç dünyası, iradesi ve motivasyonudur (Örn: <em>Merak</em>, bağımsızlık, özgüven, sebat, kararlılık).<br>\n2. <strong>Sosyal Eğilimler:</strong> Bireyin toplumsal ilişkilerinde gösterdiği yönelimlerdir (Örn: <em>Empati</em>, paylaşım, sorumluluk, güven, takım ruhu).<br>\n3. <strong>Entelektüel Eğilimler:</strong> Zihinsel ve bilişsel merak ve hakikat arayışıdır (Örn: <em>Gerçeği arama</em>, akıl yürütme, analitik yaklaşım, odaklanma).<br><br>\n💡 <strong>EKYS Soru Tuzağı:</strong> Soruda verilen 'Merak' kişisel içsel yönelimdir (Benlik); 'Empati' başkalarını anlama yönelimidir (Sosyal); 'Gerçeği arama' zihinsel sorgulamadır (Entelektüel). Sıralama Benlik - Sosyal - Entelektüel'dir."
   },
   {
     "id": "egitim_oyt_test_6_q4",
@@ -75901,7 +75901,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Duyuşsal ve bilişsel)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>İlgi, tutum ve öğrenme isteği duyuşsal; gerekli ön bilgi ve beceriler bilişsel giriş davranışlarıdır. Yalnız bilgi testi uygulamak her iki boyutun da belirlendiğini göstermez. Psikomotor davranışlar bedensel becerilerle ilgilidir; sorudaki iki özelliğin karşılığı değildir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Duyuşsal ve bilişsel)<br><br>\n📌 <strong>Pedagojik Çözüm & Bloom Tam Öğrenme Modeli:</strong><br>\nBenjamin Bloom'un <strong>Tam Öğrenme Modeli</strong>'ne göre öğretim sürecinin başında öğrencilerin sahip olması gereken giriş özellikleri ikiye ayrılır:<br>\n• <strong>Duyuşsal Giriş Davranışları:</strong> Öğrencinin derse/öğrenmeye yönelik ilgisi, tutumu, akademik özgüveni ve motivasyonudur.<br>\n• <strong>Bilişsel Giriş Davranışları:</strong> Yeni konunun öğrenilmesi için zorunlu olan ön bilgi, kavram ve becerilerdir.<br><br>\n💡 <strong>ÖSYM Kritik Başarı Yüzdeleri (EKYS Hap Bilgi):</strong><br>\nBloom'a göre öğrenme ürünlerindeki (başarıdaki) varyansın (farklılığın):<br>\n• <strong>%50'sini:</strong> Bilişsel Giriş Davranışları açıklar (En etkili faktör!).<br>\n• <strong>%25'ini:</strong> Duyuşsal Giriş Davranışları açıklar.<br>\n• <strong>%25'ini:</strong> Öğretim Hizmetinin Niteliği (İpucu, Pekiştireç, Katılım, Dönüt-Düzeltme: **PİDE**) açıklar.<br>\nİlgi ve tutum = Duyuşsal; Ön koşul bilgi = Bilişseldir."
   },
   {
     "id": "egitim_oyt_test_6_q5",
@@ -75938,7 +75938,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Ontolojik bütünlük ve zamansal bütünlük)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Ruh-beden birlikteliği ontolojik, geçmiş-gelecek bağı zamansal bütünlüktür. Epistemolojik bütünlük bilgi ve bilgelikle, aksiyolojik olgunluk ahlaki bilinç ve estetik bakışla ilgilidir. Kavramların sırasını değiştiren veya ikinci açıklamayı bilgiye bakışla eşleştiren seçenekler yanlıştır.<br><br>💡 <strong>Maarif Modeli 4 Bütünlük Alanı:</strong><br>• <strong>Ontolojik:</strong> Ruh ve beden bütünlüğü.<br>• <strong>Epistemolojik:</strong> Bilgi ve bilgelik bütünlüğü.<br>• <strong>Zamansal:</strong> Geçmişten geleceğe köprü kurma.<br>• <strong>Aksiyolojik:</strong> Değerleri benimseme ve ahlaki olgunluk."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Ontolojik bütünlük ve zamansal bütünlük)<br><br>\n📌 <strong>Pedagojik Çözüm & Maarif Modeli Felsefi Temelleri:</strong><br>\nTürkiye Yüzyılı Maarif Modeli insanı ve eğitimi parçacı değil, bütüncül bir yaklaşımla ele alır. Modelin 4 temel felsefi bütünlük alanı şunlardır:<br>\n• <strong>Ontolojik Bütünlük (Varlık):</strong> İnsanın yalnızca maddi bir varlık olmayıp ruh ve beden birlikteliği (akıl, kalp, duygu, beden ahengi) olarak bir bütün kabul edilmesidir.<br>\n• <strong>Zamansal Bütünlük (Tarihsel Köprü):</strong> Dünü, bugünü ve yarını birlikte kavrayan; köklerden geleceğe uzanan, geçmişin birikimini geleceğin vizyonuyla harmanlayan eğitim bağıdır.<br>\n• <strong>Epistemolojik Bütünlük (Bilgi):</strong> Bilgi ile bilgeliğin, teorik bilgi ile pratik eylemin ayrılmazlığıdır.<br>\n• <strong>Aksiyolojik Bütünlük (Değerler):</strong> Değerlerin yalnızca öğretilmekle kalmayıp ahlaki eyleme dönüştürülmesidir."
   },
   {
     "id": "egitim_oyt_test_6_q6",
@@ -75975,7 +75975,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Gösterip yaptırma)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Gösterip yaptırmada izleme sonrasında öğrenci uygulaması vardır. Gösteride yalnız işlemi izleme bulunabilir. Örnek olay sorun tartışma, anlatım bilgi aktarımı, tartışma görüş alışverişidir. Öğrencilerin bizzat uygulaması ve düzeltme alması, gösterip yaptırmayı yalnız gösteriden ayırır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Gösterip yaptırma)<br><br>\n📌 <strong>Pedagojik Çözüm & Öğretim Yöntemleri Analizi:</strong><br>\n• <strong>Gösterip Yaptırma Yöntemi:</strong> Özellikle <strong>psikomotor (devinsel) becerilerin</strong> kazandırılmasında en etkili yöntemdir. İki aşamadan oluşur:<br>\n1. <em>Gösteri Aşaması:</em> Öğretmen merkezlidir; öğretmen beceriyi adım adım gösterir, açıklar ve modeller.<br>\n2. <em>Yaptırma Aşaması:</em> Öğrenci merkezlidir; her öğrenci beceriyi bizzat uygulayarak yapar, öğretmen anında izler, dönüt verir ve hataları düzeltir.<br><br>\n💡 <strong>ÖSYM Çeldirici Ayrımı:</strong><br>\n• <strong>Yalnız Gösteri (Demonstrasyon):</strong> Yalnızca öğretmen yapar, öğrenciler sadece izler (Duyuşsal ve görsel düzeydedir, öğrenci uygulaması yoktur).<br>\n• <strong>Gösterip Yaptırma:</strong> Öğrenci bizzat uygulamaya geçtiği ve anında dönüt-düzeltme aldığı için kalıcı beceriye dönüşür."
   },
   {
     "id": "egitim_oyt_test_6_q7",
@@ -76012,7 +76012,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Olumlu bağlılık ve bireysel sorumluluk)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Olumlu bağlılık üyelerin başarılarının birbirini desteklemesidir. Bireysel sorumluluk her üyenin katkı ve öğrenmesinin izlenmesidir. Ortak ürün veya görev paylaşımı tek başına yeterli değildir. Tek liderlik ve rekabet, soruda verilen iki koşulun yerine geçmez."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Olumlu bağlılık ve bireysel sorumluluk)<br><br>\n📌 <strong>Pedagojik Çözüm & İşbirlikli Öğrenme (Kollaboratif):</strong><br>\nBir grup çalışmasının gerçek anlamda 'İşbirlikli Öğrenme' sayılabilmesi için bulunması gereken 5 temel ilke vardır:<br>\n1. <strong>Olumlu Bağlılık (Pozitif Bağımlılık):</strong> <em>'Birimiz hepimiz, hepimiz birimiz için'</em> anlayışıdır. Grubun başarısı her üyenin başarısına bağlıdır; 'ben' değil 'biz' bilinci vardır.<br>\n2. <strong>Bireysel Değerlendirilebilirlik (Bireysel Sorumluluk):</strong> Grupta kimse diğerlerinin sırtından geçinemez (sosyal tembellik önlenir). Her üyenin kendi öğrenmesinden ve görevinden bireysel olarak sorumlu tutulması ve ölçülmesidir.<br>\n3. <strong>Yüz Yüze Destekleyici Etkileşim:</strong> Üyelerin birbirini güdülemesi, yardım etmesi ve açıklamalar yapmasıdır.<br>\n4. <strong>Sosyal Beceriler:</strong> Liderlik, iletişim, çatışma çözme ve empati becerilerinin kullanılmasıdır.<br>\n5. <strong>Grup Sürecinin Değerlendirilmesi:</strong> Grubun çalışma verimini gözden geçirmesidir."
   },
   {
     "id": "egitim_oyt_test_6_q8",
@@ -76049,7 +76049,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Karar verme – problem çözme – eleştirel düşünme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Üst düzey üçlü karar verme, problem çözme ve eleştirel düşünmedir. Sayma, ölçme ve kaydetme temel; diğer seçeneklerdeki eylemler bütünleşik becerilerdir. Temel ve bütünleşik beceriler üst düzey düşünmeyi destekler; bu ilişki listedeki bütün becerilerin sırayla bitirilmesini gerektirmez.<br><br>💡 <strong>Üst Düzey Düşünme Becerileri (KAP / ÇAP):</strong><br>1. Karar Verme (K)<br>2. Eleştirel Düşünme (E)<br>3. Problem Çözme (P)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Karar verme – problem çözme – eleştirel düşünme)<br><br>\n📌 <strong>Pedagojik Çözüm & Maarif Modeli Düşünme Becerileri:</strong><br>\nTürkiye Yüzyılı Maarif Modeli Beceriler Çerçevesi'nde <strong>Üst Düzey Düşünme Becerileri</strong> üçlü sacayağı üzerine inşa edilmiştir:<br>\n1. <strong>Karar Verme:</strong> Olasılıkları tartarak en uygun ve ahlaki tercihi belirleme.<br>\n2. <strong>Problem Çözme:</strong> Karmaşık durumlarda bilimsel basamaklarla çözüm üretme.<br>\n3. <strong>Eleştirel Düşünme:</strong> Bilgiyi kanıt, tutarlılık ve ölçütlerle sorgulayarak yargıya varma.<br><br>\n💡 <strong>EKYS Sınav Kodu (KAP Üçlüsü):</strong><br>\nÜst düzey zihinsel yönetim becerileri: <strong>K</strong>arar verme, <strong>A</strong>kıl yürütme/Eleştirel düşünme, <strong>P</strong>roblem çözme olarak kodlanır. Sayma, ölçme ve kaydetme ise 'Temel Beceriler' sınıfındadır."
   },
   {
     "id": "egitim_oyt_test_6_q9",
@@ -76086,7 +76086,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Metabilişsel)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Metabilişsel düşünme kişinin kendi düşünme ve öğrenme süreçlerini yönetmesidir. Analitik düşünme parçalarla ilişkileri inceler; yaratıcı ve lateral düşünme yeni yollar geliştirir; eleştirel düşünme bilgiyi kanıt ve mantıkla sorgular. Burada kişinin kendi öğrenmesini düzenlemesi belirleyicidir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Metabilişsel)<br><br>\n📌 <strong>Pedagojik Çözüm & Üstbiliş (Metacognition - John Flavell):</strong><br>\n• <strong>Metabilişsel (Üstbilişsel / Yürütücü Biliş) Düşünme:</strong> Bireyin kendi düşünme, anlama ve öğrenme süreçlerinin farkında olması, bunları <strong>planlaması, izlemesi ve değerlendirerek kontrol etmesi</strong>dir.<br>\n• Öğrencinin 'Ben bu konuyu en iyi nasıl öğrenirim?', 'Nerede hata yaptım ve çalışma stratejimi nasıl değiştirmeliyim?' sorularını sorarak kendi öğrenmesinin lideri olmasıdır.<br><br>\n💡 <strong>Diğer Düşünme Becerileri ile Karşılaştırma:</strong><br>\n• <strong>Analitik Düşünme:</strong> Bütünü parçalara ayırma ve neden-sonuç bağı kurma.<br>\n• <strong>Eleştirel Düşünme:</strong> Ölçütlere göre sorgulama ve nesnel yargıya varma.<br>\n• <strong>Yaratıcı / Lateral Düşünme:</strong> Alışılmışın dışında özgün, esnek ve yeni ürün/fikir üretme."
   },
   {
     "id": "egitim_oyt_test_6_q10",
@@ -76123,7 +76123,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Ahlaklı — Düzenli spor yapan)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Düzenli spor ve egzersiz sağlıklı insanın alt özelliğidir. Diğer dört eşleştirme doğrudur. Ahlaklı insan adil, güvenilir, dürüst ve saygılı olma gibi özelliklerle açıklanır. Her olumlu davranışı genel anlamda ahlaklılıkla ilişkilendirmek, modeldeki özel sınıflandırmanın yerine geçmez."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ahlaklı — Düzenli spor yapan)<br><br>\n📌 <strong>Pedagojik Çözüm & Maarif Modeli Öğrenci Profili Analizi:</strong><br>\n• <strong>Ahlaklı İnsan Profili:</strong> Adalet, dürüstlük, güvenilirlik, ahde vefa, hakkaniyet, edep ve iffet gibi manevi ve etik değerleri eylemlerine yansıtan bireydir.<br>\n• <strong>Düzenli Spor Yapan:</strong> Beden ve zihin sağlığını korumaya yönelik egzersizler <strong>'Sağlıklı İnsan'</strong> profilinin doğrudan alt özelliğidir.<br><br>\n💡 <strong>Doğru Eşleştirmeler:</strong><br>\n• <em>Yetkin ve Erdemli:</em> Aklı ve ahlakı bütünleştiren.<br>\n• <em>Cesur:</em> İnandığı değerler uğruna inisiyatif alıp kararlılık gösteren.<br>\n• <em>Merhametli:</em> Canlılara şefkatle yaklaşan ve toplumsal dayanışmayı önemseyen.<br>\n• <em>Üretken:</em> Bilgi ve becerisini katma değere dönüştüren."
   },
   {
     "id": "egitim_oyt_test_6_q11",
@@ -76160,7 +76160,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Öğrenme çıktılarına ulaşma düzeyini belirlemek)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Öğrenme kanıtları çıktıların gerçekleşme düzeyini belirler. Öğretmenin uygulamasını incelemesi öğretmen yansıtmaları; konuların kapsamı içerik çerçevesi; beceriyi harekete geçiren örüntüler eğilimlerdir. Ön bilgilerle başlangıç bağı kurma ise kanıt toplamaktan farklıdır. Amaç öğrencinin öğrenmesine dayalı değerlendirme yapmaktır.<br><br>💡 <strong>Öğrenme Kanıtları (Ölçme-Değerlendirme):</strong><br>Maarif Modeli'nde klasik not vermekten ziyade öğrencinin kavramsal ve beceri gelişimini takip eden süreç odaklı, biçimlendirici değerlendirme (öğrenme kanıtları) esastır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Öğrenme çıktılarına ulaşma düzeyini belirlemek)<br><br>\n📌 <strong>Pedagojik Çözüm & Öğrenme Kanıtları (Ölçme ve Değerlendirme):</strong><br>\n• Maarif Modeli'nde klasik not odaklı geleneksel sınav anlayışı yerine <strong>süreç ve beceri odaklı biçimlendirici değerlendirme (formative assessment)</strong> esastır.<br>\n• <strong>Öğrenme Kanıtları:</strong> Öğrencilerin belirlenen beceri ve alan öğrenme çıktılarına ne derece ulaştıklarını gösteren somut performans ürünleri, gözlemler, rubrikler, portfolyo ve görev çıktılarıdır.<br>\n• Amaç sıralama veya eleme yapmak değil; öğrenme eksikliklerini süreç içinde tespit ederek geri bildirim sağlamak ve öğretimi farklılaştırmaktır."
   },
   {
     "id": "egitim_oyt_test_6_q12",
@@ -76197,7 +76197,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Sempozyum ve kollegyum)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Sempozyumda hazırlanmış bildiriler, kollegyumda temsilci ve uzman grupları belirleyicidir. Panel farklı görüşleri, münazara karşıt tezleri, forum geniş katılımı, vızıltı kısa küçük grup tartışmasını içerir. İki uygulamada da konuşmacı bulunması, yöntemlerin aynı olduğunu göstermez; işleyişe bakılmalıdır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Sempozyum ve kollegyum)<br><br>\n📌 <strong>Pedagojik Çözüm & Tartışma Teknikleri Ayrımı:</strong><br>\n• <strong>Sempozyum (Bilgi Şöleni):</strong> Akademik, sanatsal ya da bilimsel bir konunun uzmanları tarafından hazırlanmış <strong>özgün tebliğ ve bildiriler</strong> şeklinde oturumlar halinde sunulduğu en akademik tartışma tekniğidir.<br>\n• <strong>Kollegyum (Zıt Panel Benzeri):</strong> Sınıfta iki ayrı grubun kurulduğu tekniktir: Biri <strong>'Öğrenci / Dinleyici Temsilcileri Grubu'</strong>, diğeri ise konunun uzmanı olan <strong>'Uzman / Kaynak Grup'</strong>tur. Öğrenci temsilcileri soruları yöneltir, uzman grup yanıtlar.<br><br>\n💡 <strong>Çeldirici Yöntemler:</strong><br>\n• <em>Panel:</em> Samimi bir havada bir konunun farklı yönlerinin sohbet havasında tartışılması.<br>\n• <em>Münazara:</em> Tez ve antitezin jüri önünde kazanmak amacıyla savunulması (fikir yarışı).<br>\n• <em>Forum:</em> Dinleyicilerin de aktif olarak soru ve görüşleriyle tartışmaya katılması."
   },
   {
     "id": "egitim_oyt_test_6_q13",
@@ -76234,7 +76234,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Bilinenden bilinmeyene ve yakından uzağa)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>İlk açıklama ön bilgilerden hareket eden bilinenden bilinmeyene, ikinci açıklama çevresel uzaklığı esas alan yakından uzağa ilkesidir. Somuttan soyuta nesneden sembole; basitten karmaşığa yapısal güçlüğe ilişkindir. Güncellik güncel olaylar, ekonomiklik kaynak verimliliği, öğrenciye görelik öğrenci özellikleriyle ilgilidir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Bilinenden bilinmeyene ve yakından uzağa)<br><br>\n📌 <strong>Pedagojik Çözüm & Öğretim İlkeleri:</strong><br>\n• <strong>Bilinenden Bilinmeyene:</strong> Yeni bir konu işlenirken öğrencinin mevcut ön bilgilerinden, deneyimlerinden ve kazanımlarından yola çıkılmasıdır. Ausubel'in anlamlı öğrenme kuramının temel dayanağıdır.<br>\n• <strong>Yakından Uzağa:</strong> Öğretimin öncelikle öğrencinin kendi fiziksel, sosyal ve doğal çevresinden (ailesi, mahallesi, şehri) başlatılıp zamanla ülkeye ve dünyaya doğru genişletilmesidir.<br><br>\n💡 <strong>Diğer Temel İlkelerle Karıştırmayınız:</strong><br>\n• <em>Somuttan Soyuta:</em> Önce duyu organlarıyla algılanabilen somut nesne ve modellerin kullanılması.<br>\n• <em>Basitten Karmaşığa:</em> Kolaydan zora doğru pedagojik basamaklandırma.<br>\n• <em>Açıklık (Ayanilik):</em> Dilin sadeliği ve çoklu duyu organına hitap etme."
   },
   {
     "id": "egitim_oyt_test_6_q14",
@@ -76271,7 +76271,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Derinleştirme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Derinleştirme, öğrenilen kavramın yeni bağlamlara taşınmasıdır. Giriş merak, keşfetme inceleme, açıklama kavramları anlamlandırma, değerlendirme öğrenme düzeyini belirleme işlevindedir. Uygulama değerlendirmeye veri sağlayabilir; fakat yeni bağlamda kullanma vurgusu derinleştirmeyi gösterir. Her uygulama otomatik olarak değerlendirme sayılmaz."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Derinleştirme)<br><br>\n📌 <strong>Pedagojik Çözüm & Bybee 5E Öğrenme Modeli:</strong><br>\nYapılandırmacı yaklaşımın en yaygın modelidir. 5 basamaktan oluşur:<br>\n1. <strong>Giriş (Engage):</strong> Merak uyandırma, dikkat çekme, ön bilgileri yoklama.<br>\n2. <strong>Keşfetme (Explore):</strong> Öğrencilerin aktif deney, gözlem veya grup çalışmasıyla problemi araştırması.<br>\n3. <strong>Açıklama (Explain):</strong> Kavramın tanımlanması, terimlerin öğretmen rehberliğinde adlandırılması.<br>\n4. <strong>Derinleştirme (Elaborate):</strong> Öğrenilen yeni kavram, ilke ve becerilerin <strong>farklı, yeni ve günlük yaşam durumlarına transfer edilmesi / uygulanması</strong>dır.<br>\n5. <strong>Değerlendirme (Evaluate):</strong> Öğrencinin gelişiminin ve süreç kazanımlarının değerlendirilmesi."
   },
   {
     "id": "egitim_oyt_test_6_q15",
@@ -76308,7 +76308,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Siyah – yeşil – mavi)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Siyah riskleri, yeşil yaratıcı önerileri, mavi sürecin yönetimini temsil eder. Beyaz nesnel veri, sarı olumlu yön ve yarar, kırmızı duygular içindir. Mavi diğer görüşleri düzenleyen kontrol şapkasıdır; yalnızca yeni fikir üretme veya olumsuzlukları bulmayla aynı değildir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Siyah – yeşil – mavi)<br><br>\n📌 <strong>Pedagojik Çözüm & Edward de Bono Altı Şapkalı Düşünme:</strong><br>\nLateral (yanal) düşünmeyi geliştiren ve düşünceyi çok yönlü kılan şapkaların görev dağılımı:<br>\n• <strong>Beyaz:</strong> Tarafsız, net, nesnel veriler ve istatistikler.<br>\n• <strong>Kırmızı:</strong> Duygular, sezgiler, önseziler ve içgüdüler (gerekçesiz).<br>\n• <strong>Sarı:</strong> İyimserlik, avantajlar, faydalar ve fırsatlar.<br>\n• <strong>Siyah:</strong> Kötümserlik, riskler, tehlikeler, zayıf yönler ve eleştiriler.<br>\n• <strong>Yeşil:</strong> Yaratıcılık, üretkenlik, özgün alternatifler ve yeni fikirler.<br>\n• <strong>Mavi:</strong> Sürecin yönetimi, düşünmenin düşünülmesi, karar alma ve özetleme.<br><br>\n💡 <strong>ÖSYM Sıralama Kuralı:</strong> Soru riskleri inceleme (Siyah) ➔ özgün öneriler üretme (Yeşil) ➔ süreci yönetme (Mavi) şeklinde sorulmuştur. Mavi şapka hem sürecin başında gündemi belirler hem de sonunda kararı özetler."
   },
   {
     "id": "egitim_oyt_test_6_q16",
@@ -76345,7 +76345,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I, II ve III)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>I, II ve III programlar arası bileşenlerdir. Benlik eğilimleri ise becerilerin kullanılmasını destekleyen eğilimlerin boyutudur. IV’ü içeren birleşimler yanlış; yalnız I ve II’yi alan seçenek eksiktir. Bir unsurun bileşenleri desteklemesi, aynı sınıflandırmada yer aldığı anlamına gelmez.<br><br>💡 <strong>Programlar Arası Bileşenler:</strong><br>Sosyal-Duygusal Öğrenme Becerileri (SDÖB), Erdem-Değer-Eylem Çerçevesi ve Okuryazarlık Becerileri (Sistem, Bilgi, Dijital, Sanat vb.) programlar arası ortak yatay bileşenlerdir."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I, II ve III)<br><br>\n📌 <strong>Pedagojik Çözüm & Maarif Modeli Yatay Program Bileşenleri:</strong><br>\nTürkiye Yüzyılı Maarif Modeli'nde tüm derslerin öğretim programlarına yatay olarak entegre edilen <strong>Programlar Arası Bileşenler</strong> şunlardır:<br>\n• <strong>I. Sosyal-Duygusal Öğrenme Becerileri (SDÖB):</strong> Öz farkındalık, öz yönetim, sosyal farkındalık, ilişki becerileri.<br>\n• <strong>II. Erdem-Değer-Eylem Çerçevesi:</strong> Değerlerin içselleştirilip ahlaki eyleme dönüştürülmesi.<br>\n• <strong>III. Okuryazarlık Becerileri & Sistem Düşüncesi:</strong> Bilgi, dijital, finansal, görsel, kültür, vatandaşlık ve bilim okuryazarlığı.<br><br>\n• <strong>IV. Benlik Eğilimleri:</strong> Programlar arası yatay bileşen değil; becerilerin sergilenmesini tetikleyen 'Eğilimler' (Kişisel Karakteristikler) boyutudur."
   },
   {
     "id": "egitim_oyt_test_6_q17",
@@ -76382,7 +76382,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Çözümleme ve sınıflandırma)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Çözümleme parçaları ve ilişkileri; sınıflandırma özelliklere göre grupları belirler. Yansıtma deneyimi gözden geçirme, yorumlama yeniden açıklama, özetleme özü kısaltma, sentezleme özgün bütün oluşturma, değerlendirme ölçütlere göre yargıdır. Bir bütünü incelemekle onu ölçütlerle gruplamak aynı işlem değildir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Çözümleme ve sınıflandırma)<br><br>\n📌 <strong>Pedagojik Çözüm & Zihinsel Beceri İşlemleri:</strong><br>\n• <strong>Çözümleme (Analiz Etme):</strong> Bir bütünü oluşturan parçaları, unsurları, alt bileşenleri ayrıştırmak ve bu parçalar arasındaki hiyerarşik veya işlevsel ilişkileri belirleme sürecidir.<br>\n• <strong>Sınıflandırma (Kategorize Etme):</strong> Nesneleri, kavramları veya olayları önceden belirlenmiş ortak ölçüt, benzerlik ve özelliklere göre gruplara ayırmadır.<br><br>\n💡 <strong>Bloom Taksonomisi İle Köprü:</strong> Çözümleme 'Analiz' basamağının temel eylemidir. Sentezleme yeni bir bütün üretmektir; değerlendirme ise bir ölçüte dayalı yargıya varmaktır."
   },
   {
     "id": "egitim_oyt_test_6_q18",
@@ -76419,7 +76419,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Araştırma-inceleme)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Araştırma-inceleme bilimsel problem çözme sürecine dayanır. Sunuş genel bilginin anlamlı sunumu; buluş örneklerden ilkeye ulaşma; basamaklı öğretim C-B-A görevleri; programlı öğretim küçük adım ve dönütle ilerlemedir. Veriyle hipotez sınama, yalnız örnek karşılaştırmaktan farklıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Araştırma-inceleme)<br><br>\n📌 <strong>Pedagojik Çözüm & John Dewey Araştırma-İnceleme Stratejisi:</strong><br>\nÖğrencinin tamamen aktif olduğu, öğretmen rehberliğinde gerçek yaşam problemlerinin bilimsel yöntem basamakları kullanılarak çözüldüğü stratejidir.<br><br>\n💡 <strong>Bilimsel Problem Çözme Aşamaları:</strong><br>\n1. Problemi hissetme ve fark etme,<br>\n2. Problemi tanımlama ve sınırlandırma,<br>\n3. Olası çözümlere dair <strong>hipotezler (denenceler) geliştirme</strong>,<br>\n4. <strong>Veri toplama</strong> ve bilgileri analiz etme,<br>\n5. <strong>Hipotezleri sınama</strong> (test etme),<br>\n6. Çözüme ve sonuca ulaşma (raporlaştırma).<br>\nBu süreç doğrudan tümevarım ve tümdengelim yöntemlerinin bir arada kullanılmasını gerektirir."
   },
   {
     "id": "egitim_oyt_test_6_q19",
@@ -76456,7 +76456,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Benzetim ve analoji)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Benzetim uygulama ortamını modeller; analoji kavramlar arasındaki benzerliği açıklama için kullanır. Rol oynama ve drama canlandırma, gösteri işlem izleme, mikroöğretim kısa dersi dönütlerle geliştirme, bilişsel çıraklık giderek azalan uzman desteğidir. Ortam benzerliği ile kavramsal benzerlik birbirinden ayrılmalıdır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Benzetim ve analoji)<br><br>\n📌 <strong>Pedagojik Çözüm & Benzetim vs. Analoji Ayrımı:</strong><br>\n• <strong>Benzetim (Simülasyon):</strong> Gerçek hayatta uygulanması tehlikeli, maliyetli, imkânsız veya riskli olan durumların yapay bir model veya yazılım üzerinde gerçeğe uygun olarak canlandırılıp öğrencilere uygulama yaptırılmasıdır (Örn: Uçuş simülatörü, tıp kadavra/manken eğitimi, deprem tatbikatı).<br>\n• <strong>Analoji (Benzetim / Kavramsal Köprü):</strong> Bilinen somut bir kavram ya da durumdan yola çıkılarak bilinmeyen soyut bir kavramın açıklanmasıdır (Örn: Kalbin çalışmasını su pompasına benzetmek, atom modelini güneş sistemine benzetmek)."
   },
   {
     "id": "egitim_oyt_test_6_q20",
@@ -76493,7 +76493,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Ön bilgileri ve farklı ihtiyaçları dikkate alan etkin katılım)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Her iki anlayışta öğrencinin ön bilgileri, etkinliği ve farklı ihtiyaçları önemlidir. Deneyimleri dışlama ve açıklamayı gerekçesiz tekrarlatma anlam kurmayı engeller. Başarı sıralaması ihtiyaçlara uygun öğretimin yerine geçmez. Süreçteki gelişim ve kanıtlar da dikkate alınmalı; yalnız son puanla yetinilmemelidir.<br><br>💡 <strong>Farklılaştırma (Diferansiyasyon):</strong><br>Öğrencilerin öğrenme hız ve ilgilerine göre program; eksik kalanlar için <em>destekleme</em>, ileride olanlar için <em>zenginleştirme</em> etkinlikleriyle esnetilir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ön bilgileri ve farklı ihtiyaçları dikkate alan etkin katılım)<br><br>\n📌 <strong>Pedagojik Çözüm & Farklılaştırılmış Öğretim & Yapılandırmacılık:</strong><br>\n• Hem <strong>Yapılandırmacı Yaklaşım</strong> hem de <strong>Maarif Modeli'nin Farklılaştırma İlkesi</strong> öğrencilerin bireysel hız, ilgi, öğrenme stilleri ve hazırbulunuşluk düzeylerinin birbirinden farklı olduğunu kabul eder.<br>\n• Öğrenci pasif dinleyici olamaz; kendi öğrenme sürecine aktif katılarak anlamı kendisi inşa eder.<br>\n• Farklılaştırma stratejisi kapsamında öğrenme eksikliği olanlar için <em>'destekleme'</em>, ileri düzeyde olanlar için <em>'zenginleştirme'</em> etkinlikleri sunularak fırsat adaleti sağlanır."
   },
   {
     "id": "egitim_oyt_test_6_q21",
@@ -76530,7 +76530,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Programlı öğretim ve mikroöğretim)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Programlı öğretimde küçük içerik adımları, cevap ve anında dönüt vardır. Mikroöğretimde kısa ders dönütlerle yeniden uygulanır. Tam öğrenme eksikleri giderme; istasyon dönüşümlü üretim; harmanlanmış öğrenme yüz yüze-çevrim içi bütünleşme; bilişsel çıraklık uzman desteğinin azaltılmasıyla tanınır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Programlı öğretim ve mikroöğretim)<br><br>\n📌 <strong>Pedagojik Çözüm & Bireysel & Laboratuvar Öğretim Teknikleri:</strong><br>\n• <strong>Programlı Öğretim (B.F. Skinner):</strong> Davranışçı ekole dayalı bireysel öğretim yöntemidir. Temel ilkeleri <strong>KEBAP</strong> akrostişi ile kodlanır:<br>\n  - <strong>K</strong>üçük Adımlar (Konu küçük parçalara bölünür)<br>\n  - <strong>E</strong>tkin Katılım (Öğrenci her adımda soru cevaplar)<br>\n  - <strong>B</strong>aşarı (Sorular öğrencinin çözebileceği kolaylıktadır)<br>\n  - <strong>A</strong>nında Dönüt-Düzeltme (Sonuç derhal bildirilir)<br>\n  - <strong>P</strong>ekiştirme ve Bireysel Hız (Öğrenci kendi hızında ilerler)<br><br>\n• <strong>Mikro Öğretim (Dwight Allen):</strong> Öğretmen yetiştirmede kullanılan <em>'Öğret - Kaydet (Kamera) - İzle/Dönüt Al - Yeniden Öğret'</em> döngüsüne dayalı laboratuvar ortamı uygulamasıdır."
   },
   {
     "id": "egitim_oyt_test_6_q22",
@@ -76567,7 +76567,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (İstasyon)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>İstasyonda dönüşümlü ve birikimli çalışma vardır. Akvaryumda iç grup tartışır, dış grup gözlemler; rulmanda eşler dönen halkalarla değişir; kartopunda gruplar birleşerek büyür; düşün-eşleş-paylaş bireysel- ikili-sınıf sırasını izler. Yer değiştirme tek başına yeterli değildir; önceki işi geliştirme belirleyicidir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (İstasyon)<br><br>\n📌 <strong>Pedagojik Çözüm & İstasyon Tekniği Özellikleri:</strong><br>\n• <strong>İstasyon Tekniği:</strong> Sınıfta farklı görev alanlarının (masaların) oluşturulduğu (Örn: Şiir masası, afiş masası, kompozisyon masası), öğrencilerin gruplar halinde bu masaları dönüşümlü olarak dolaştığı tekniktir.<br>\n• <strong>En Ayırt Edici Özelliği:</strong> Bir grubun <strong>yarım bıraktığı işi sonraki grubun devralıp devam ettirmesi / tamamlaması</strong>dır.<br>\n• Bütün sınıfın ortak katkısıyla bir ürün ortaya çıkar, işbirliği ve özel yetenekler açığa çıkarılır."
   },
   {
     "id": "egitim_oyt_test_6_q23",
@@ -76604,7 +76604,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Dönüt-düzeltme sağlama)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>Performans ortaya çıkarıldıktan sonra dönüt-düzeltme sağlanır, ardından performans değerlendirilir ve kalıcılıkla transfer güçlendirilir. Hedeften haberdar etme, ön öğrenmeleri hatırlatma ve içerik sunma daha önceki basamaklardır. Performansa dönüt vermekle performansı değerlendirmek birbirinin yerine kullanılmamalıdır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Dönüt-düzeltme sağlama)<br><br>\n📌 <strong>Pedagojik Çözüm & Robert Gagné'nin 9 Aşamalı Öğretim Durumları Modeli:</strong><br>\nÖğrenme sürecinin dışsal koşullarını düzenleyen basamaklar sırasıyla:<br>\n1. Dikkati çekme<br>\n2. Hedeften haberdar etme (Güdüleme)<br>\n3. Ön öğrenmeleri hatırlatma<br>\n4. Uyarıcı materyali sunma (İçerik aktarımı)<br>\n5. Öğrenmeye rehberlik etme<br>\n6. <strong>Performansı ortaya çıkarma (Davranışı sergiletme)</strong><br>\n7. <strong>Dönüt - düzeltme sağlama (Geri bildirim verme)</strong> ➔ <em>(Sorulan aşama!)</em><br>\n8. Performansı değerlendirme (Ölçme)<br>\n9. Kalıcılığı ve transferi sağlama (Özet ve pekiştirme)"
   },
   {
     "id": "egitim_oyt_test_6_q24",
@@ -76641,7 +76641,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (C – B – A)<br><br>📌 <strong>Pedagojik Çözüm & Analiz:</strong><br>C bilgi-kavrama, B uygulama, A analiz-sentez- değerlendirme düzeyidir. İlerleme C-B-A şeklindedir. Görevin süresi veya materyal sayısı basamağı belirlemez; gerekli düşünme işlemi esas alınır. Yeni ürün geliştirmeye yönelik proje çalışması farklı basamaklardan işlemler içerebilir; proje adı tek başına basamak göstermez."
+    "explanation": "Doğru Cevap: <strong>D</strong> (C – B – A)<br><br>\n📌 <strong>Pedagojik Çözüm & Kathie Nunley Basamaklı Öğretim Modeli:</strong><br>\nÖğrencinin kendi ilgi ve yeteneğine göre seçebileceği görevlerin Bloom taksonomisine uygun olarak basamaklandırıldığı öğrenci merkezli modeldir:<br>\n• <strong>C Basamağı (Temel Düzey):</strong> Bilgi ve kavrama düzeyindeki temel kavramları öğrenme (Herkes için zorunludur, temel puanı sağlar).<br>\n• <strong>B Basamağı (Orta Düzey):</strong> Uygulama ve problem çözme düzeyidir; öğrenilen bilgiyi somut bir duruma uygulama.<br>\n• <strong>A Basamağı (İleri/Üst Düzey):</strong> Analiz, sentez ve değerlendirme düzeyidir; eleştirel düşünme, özgün ürün üretme ve tartışma basamağıdır.<br>\nİlerleme sırası aşağıdan yukarıya doğru <strong>C ➔ B ➔ A</strong> şeklindedir."
   },
   {
     "id": "anayasa_2027_t1_q1",
