@@ -2155,9 +2155,9 @@ class EKYSApp {
           },
           {
             id: 'anayasa_2027_test_2',
-            name: '⚖️ 1982 Anayasası Test 2: Yasama, Yürütme ve Yargı',
+            name: '⚖️ 1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler',
             icon: '⚖️',
-            desc: '1982 Anayasası Yenilikleri, TBMM Yasama Yetkisi, Cumhurbaşkanlığı ve Yargı Organları (20 Soru • 2027 Özel).',
+            desc: '1982 Yenilikleri, Anayasa Türleri, Başlangıç & 4. Madde Korunumu, Eşitlik ve Siyasi Partiler (20 Soru • 2027 Özel).',
             filterKey: 'anayasa_2027_test_2',
             badge: '20 Soru • 2027 Test 2'
           },

@@ -77386,274 +77386,274 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   {
     "id": "anayasa_2027_t2_q1",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 1,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q1.png",
+    "questionText": "Aşağıdakilerden hangisi ilk kez 1982 Anayasası'nda düzenlenmiştir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Milli Güvenlik Kurulu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Askeri Yüksek İdare Mahkemesi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Cumhurbaşkanlığı Genel Sekreterliği"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yüksek Seçim Kurulu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Anayasa Mahkemesi"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Cumhurbaşkanlığı Genel Sekreterliği)<br><br>📌 <strong>Mevzuat Analizi & Anayasa Tarihi:</strong><br>• <strong>Cumhurbaşkanlığı Genel Sekreterliği:</strong> İlk kez <strong>1982 Anayasası'nın</strong> 107. maddesinde anayasal bir organ olarak düzenlenmiştir (Not: 2017 anayasa değişikliğiyle teşkilat yapısı Cumhurbaşkanlığı Kararnamelerine bırakılmış ve maddesi yürürlükten kaldırılmıştır).<br>• <strong>Milli Güvenlik Kurulu (MGK):</strong> İlk kez 1961 Anayasası ile kurulmuştur.<br>• <strong>Anayasa Mahkemesi:</strong> İlk kez 1961 Anayasası ile anayasal sisteme girmiştir.<br>• <strong>Yüksek Seçim Kurulu (YSK):</strong> 1950'de kanunla kurulmuş, anayasal bir kurum olarak ilk kez 1961 Anayasası'nda yer almıştır.<br>• <strong>Askeri Yüksek İdare Mahkemesi (AYİM):</strong> 1971 değişikliği ile 1961 Anayasası'na girmiş, 2017 değişikliği ile tamamen kapatılmıştır.<br><br>💡 <strong>ÖSYM & EKYS Hap Bilgi:</strong><br>İlk kez 1982 Anayasası ile kurulan başlıca kurumlar: <em>Devlet Denetleme Kurulu (DDK)</em>, <em>Cumhurbaşkanlığı Genel Sekreterliği</em>, <em>Hâkimler ve Savcılar Yüksek Kurulu (ayrı organ olarak birleşimi)</em> ve <em>YÖK</em>'tür."
   },
   {
     "id": "anayasa_2027_t2_q2",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 2,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q2.png",
+    "questionText": "Gizli oy açık sayım döküm ilkesi hangi anayasal düzenleme ile kabul edilmiştir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "1921 Anayasası'nın 1923 değişikliği"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "1924 Anayasası'nın 1946 değişikliği"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "1924 Anayasası'nın 1950 değişikliği"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "1961 Anayasası'nın 1971 değişikliği"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "1982 Anayasası'nın 2007 değişikliği"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (1924 Anayasası'nın 1950 değişikliği)<br><br>📌 <strong>Mevzuat Analizi & Seçim İlkeleri:</strong><br>Türkiye'de ilk çok partili genel seçim olan 1946 seçimlerinde 'açık oy - gizli sayım' yöntemi uygulanmış ve büyük tartışmalara yol açmıştır. Demokratik seçim standartlarına geçiş amacıyla <strong>1950 yılında</strong> seçim kanununda ve anayasal düzenlemelerde reform yapılarak <strong>gizli oy, açık sayım ve döküm</strong> ilkesi ile yargı denetimi getirilmiştir (14 Mayıs 1950 seçimleri bu sistemle yapılmıştır).<br><br>💡 <strong>ÖSYM & EKYS Kronoloji Notu:</strong><br>• <strong>1876:</strong> Çift dereceli, kısıtlı erkek oyu.<br>• <strong>1934:</strong> Kadınlara milletvekili seçme/seçilme hakkı (genel oy ilkesi tamamlandı).<br>• <strong>1946:</strong> İlk çok partili seçim (Açık oy - gizli tasnif / antidemokratik).<br>• <strong>1950:</strong> Gizli oy - açık tasnif ve yargısal güvence (YSK)."
   },
   {
     "id": "anayasa_2027_t2_q3",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 3,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q3.png",
+    "questionText": "I. Başlangıç metni\nII. Geçici maddeler\nIII. Kenar başlıkları\nIV. Anayasanın ilk üç maddesi\n\nYukarıdakilerden hangileri 1982 Anayasası'nın metnine dahil değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yalnız III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II ve III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yalnız III)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 176):</strong><br>• <strong>Madde 176/1:</strong> <em>'Anayasanın dayandığı temel görüş ve ilkeleri belirten <strong>Başlangıç kısmı, Anayasa metnine dâhildir.</strong>'</em><br>• <strong>Madde 176/2:</strong> <em>'Madde kenar başlıkları, sadece ilgili oldukları maddelerin konusunu ve maddeler arasındaki sıralanış ve bağlantıyı gösterir. <strong>Bu başlıklar, Anayasa metninden sayılmaz.</strong>'</em><br>• Geçici maddeler ve ilk üç madde de yürürlükteki bağlayıcı anayasa metninin asli unsurlarıdır.<br><br>💡 <strong>ÖSYM & EKYS Çeldirici Uyarısı:</strong><br>Sınavlarda en sık 'Başlangıç kısmı metne dahil değildir' tuzağı kurulur. Başlangıç kısmı metne <strong>DAHİLDİR</strong>; metinden sayılmayan tek unsur <strong>madde kenar başlıklarıdır</strong>."
   },
   {
     "id": "anayasa_2027_t2_q4",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 4,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q4.png",
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasasında düzenlenen kuruluşlardan biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yüksek Hakimler Kurulu"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kamu Denetçiliği Kurumu"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Cumhurbaşkanlığı Genel Sekreterliği"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yüksek Öğretim Kurumu"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Devlet Denetleme Kurulu"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yüksek Hakimler Kurulu)<br><br>📌 <strong>Mevzuat Analizi & Anayasal Organlar:</strong><br>• <strong>Yüksek Hakimler Kurulu:</strong> 1961 Anayasası'nda yer alan bir organdı (ayrıca Yüksek Savcılar Kurulu vardı). 1982 Anayasası bu iki kurulu birleştirerek <em>'Hâkimler ve Savcılar Yüksek Kurulu (HSYK)'</em> (2017 sonrası <strong>HSK</strong>) adını vermiştir. Dolayısıyla 1982 Anayasası'nda 'Yüksek Hakimler Kurulu' adında ayrı bir kurul düzenlenmemiştir.<br>• <strong>Kamu Denetçiliği Kurumu (Ombudsmanlık):</strong> 2010 anayasa değişikliğiyle 74. maddeye eklenmiştir.<br>• <strong>Cumhurbaşkanlığı Genel Sekreterliği:</strong> 1982 Anayasası md. 107'de düzenlenmişti.<br>• <strong>Yükseköğretim Kurulu (YÖK):</strong> 1982 Anayasası md. 131'de düzenlenmiştir.<br>• <strong>Devlet Denetleme Kurulu (DDK):</strong> 1982 Anayasası md. 108'de düzenlenmiştir."
   },
   {
     "id": "anayasa_2027_t2_q5",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 5,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q5.png",
+    "questionText": "Aşağıdakilerden hangisi hukuk devletinde olması gereken kriterler arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Kanuni hakim güvencesi"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Adil yargılanma hakkı"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Yasama yorumları"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Kuvvetler ayrılığı"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "İdarenin mali sorumluluğu"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yasama yorumları)<br><br>📌 <strong>Mevzuat Analizi & Hukuk Devleti İlkeleri:</strong><br>• <strong>Yasama Yorumu:</strong> Bir kanunun anlamının o kanunu yapan meclis tarafından yorumlanmasıdır. Bu yöntem kuvvetler birliği anlayışının hâkim olduğu <strong>1924 Anayasası'nda (Md. 26)</strong> mevcuttu. 1961 ve 1982 Anayasaları kuvvetler ayrılığı ve yargı bağımsızlığını benimsediği için yasama yorumunu <strong>kaldırmıştır</strong>. Yargı yetkisi ve kanunları yorumlama yetkisi münhasıran bağımsız mahkemelere aittir.<br>• Kanuni hâkim güvencesi (tabii hâkim ilkesi), adil yargılanma hakkı, kuvvetler ayrılığı ve idarenin eylem/işlemlerinden doğan zararı tazmin etmesi (mali sorumluluk) hukuk devletinin vazgeçilmez temel unsurlarıdır."
   },
   {
     "id": "anayasa_2027_t2_q6",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 6,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q6.png",
+    "questionText": "I. Türkiye Devleti'nin dilinin Türkçe olduğu\nII. Egemenlik kayıtsız şartsız milletindir ibaresi\nIII. Türkiye Devleti'nin hükümet şeklinin parlamenter sistem olduğu\nIV. Türkiye Devleti'nin başkentinin Ankara olduğu\n\nYukarıdakilerden hangileri 1982 Anayasasının değiştirilemeyecek ve değiştirilmesi dahi teklif edilemeyecek hükümlerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "I ve II"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Yalnız II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "II ve III"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Yalnız III"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "III ve IV"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (II ve III)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 4):</strong><br>Anayasa'nın 4. maddesine göre değiştirilemeyecek ve değiştirilmesi teklif dahi edilemeyecek maddeler <strong>sadece ilk 3 maddedir</strong>:<br>• <strong>1. Madde:</strong> Devletin şeklinin Cumhuriyet olduğu.<br>• <strong>2. Madde:</strong> Cumhuriyetin nitelikleri (Atatürk milliyetçiliğine bağlı, demokratik, laik, sosyal hukuk devleti).<br>• <strong>3. Madde:</strong> Ülkesi ve milletiyle bölünmez bütünlüğü, <strong>dili Türkçe</strong> (I), bayrağı, milli marşı ve <strong>başkenti Ankara</strong> (IV).<br><br>• <strong>II. Öncül (Egemenlik kayıtsız şartsız milletindir):</strong> Anayasa'nın <strong>6. maddesinde</strong> yer alır. İlk 3 maddeden biri olmadığı için 4. madde koruması altında değildir.<br>• <strong>III. Öncül (Parlamenter sistem):</strong> 1982 Anayasası metninde ilk 3 maddede yer almadığı gibi, 2017 anayasa değişikliği ile Cumhurbaşkanlığı Hükümet Sistemine geçilmiştir."
   },
   {
     "id": "anayasa_2027_t2_q7",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 7,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q7.png",
+    "questionText": "Normal kanunlarla aynı usullerle ve aynı organlarca değiştirilebilen anayasalara ne ad verilir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yumuşak anayasa"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Çerçeve anayasa"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Mutlak sert anayasa"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Sert anayasa"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Kazuistik anayasa"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yumuşak anayasa)<br><br>📌 <strong>Mevzuat Analizi & Anayasa Hukuku Tanımları:</strong><br>• <strong>Yumuşak (Esnek) Anayasa:</strong> Değiştirilmesi için normal kanunların kabul ve teklif usullerinden farklı veya ağırlaştırılmış bir prosedür aranmayan, alelade bir kanun gibi değiştirilebilen anayasalardır. Türk anayasa tarihinde tek yumuşak anayasa <strong>1921 Anayasası (Teşkilat-ı Esasiye)</strong>'dır.<br>• <strong>Sert (Katı) Anayasa:</strong> Değiştirilmesi normal kanunlardan daha zor, nitelikli çoğunluk gerektiren ve değiştirilemez maddeler içeren anayasalardır (1924, 1961, 1982).<br>• <strong>Çerçeve Anayasa:</strong> Kısa, öz ve temel ilkeleri belirleyip ayrıntıyı kanunlara bırakan anayasa (1921).<br>• <strong>Kazuistik Anayasa:</strong> Detaylı, uzun ve her ihtimali düzenleyen anayasa (1982)."
   },
   {
     "id": "anayasa_2027_t2_q8",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 8,
     "questionText": "Aşağıdakilerden hangisi bir anayasayı sert kılan özellikler arasında yer almaz?",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q8.png",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -77673,24 +77673,24 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "Değiştirilmelerinin özel yöntemlere bağlaması"
+        "text": "Değiştirilmelerinin özel yöntemlere bağlanması"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Anayasada ayrıntılı düzenlemelere yer verilmesi)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Anayasada ayrıntılı düzenlemelere yer verilmesi)<br><br>📌 <strong>Mevzuat Analizi & Kavramsal Ayrım:</strong><br>• <strong>Sert (Katı) Anayasa Kriterleri:</strong> Değiştirilmesinin olağan kanunlara göre zorlaştırılmasıdır. Teklif için üye tamsayısının en az üçte biri, kabul için en az beşte üç çoğunluk aranması, değiştirilemez hükümler konulması, halk oylaması (referandum) zorunluluğu veya ihtimali getirilmesi anayasayı 'sert' yapar.<br>• <strong>Ayrıntılı Düzenlemelere Yer Verilmesi:</strong> Bu özellik anayasanın sertliği ile değil, <strong>kazuistik (ayrıntıcı)</strong> niteliği ile ilgilidir. Bir anayasa ayrıntılı olabileceği halde yumuşak olabilir veya çerçeve olduğu halde sert olabilir.<br><br>💡 <strong>ÖSYM & EKYS Notu:</strong> Sertlik/Yumuşaklık 'değiştirilme usulü' ile; Çerçeve/Kazuistik olma durumu ise 'madde hacmi ve ayrıntı düzeyi' ile ilgilidir."
   },
   {
     "id": "anayasa_2027_t2_q9",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 9,
     "questionText": "1982 Anayasası'nın eşitlik ile ilgili 10. maddesinde, aşağıdakilerden hangisi için Devlet tarafından alınacak tedbirlerin “kanun önünde eşitlik” ilkesine aykırı sayılmayacağı beyan edilmemiştir?",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q9.png",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -77714,20 +77714,20 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Fakirler)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Fakirler)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 10 - Pozitif Ayrımcılık):</strong><br>Madde 10'a göre kanun önünde eşitlik ilkesine aykırı sayılmayacak özel himaye grupları açıkça sayılmıştır:<br>• <strong>2004 değişikliği:</strong> Kadınlar ve erkekler eşit haklara sahiptir. Bu eşitliğin yaşama geçmesini sağlamak amacıyla alınacak tedbirler eşitlik ilkesine aykırı sayılmaz.<br>• <strong>2010 değişikliği:</strong> <em>'Çocuklar, yaşlılar, özürlüler, harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gaziler için alınacak tedbirler eşitlik ilkesine aykırı sayılmaz.'</em><br>Anayasa metninde 'fakirler' veya 'yoksullar' adıyla bir zümre sayılmamıştır."
   },
   {
     "id": "anayasa_2027_t2_q10",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 10,
     "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi partilere üye olamayacak kişiler arasında yer almaz?",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q10.png",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -77751,20 +77751,20 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Yükseköğretim öğrencileri)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yükseköğretim öğrencileri)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 68/5):</strong><br>Siyasi partilere üye olamayacak kişiler:<br>1. Hâkimler ve savcılar,<br>2. Sayıştay dâhil yüksek yargı organları mensupları,<br>3. Kamu kurum ve kuruluşlarının memur statüsündeki görevlileri,<br>4. Yaptıkları hizmet bakımından işçi niteliği taşımayan diğer kamu görevlileri,<br>5. Silahlı Kuvvetler mensupları,<br>6. <strong>Yükseköğretim öncesi öğrencileri</strong>.<br><br>• <strong>1995 Değişikliği:</strong> Yükseköğretim elemanları ile <strong>yükseköğretim öğrencileri</strong> kanunun belirlediği esaslar çerçevesinde siyasi partilere <strong>üye olabilirler</strong>."
   },
   {
     "id": "anayasa_2027_t2_q11",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 11,
     "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nın metnine dâhil değildir?",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q11.png",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -77788,20 +77788,20 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Madde kenar başlıkları)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Madde kenar başlıkları)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 176):</strong><br>• <strong>Madde 176 Fıkra 1:</strong> Anayasanın dayandığı temel görüş ve ilkeleri belirten <strong>Başlangıç kısmı, Anayasa metnine dâhildir.</strong><br>• <strong>Madde 176 Fıkra 2:</strong> Madde kenar başlıkları, sadece ilgili oldukları maddelerin konusunu ve maddeler arasındaki sıralanış ve bağlantıyı gösterir. <strong>Bu başlıklar, Anayasa metninden sayılmaz.</strong><br>• Geçici maddeler, Anayasa değişikliği (Madde 175) ve İnkılap kanunlarının korunması (Madde 174) Anayasa metnine dâhildir ve tam bağlayıcıdır."
   },
   {
     "id": "anayasa_2027_t2_q12",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 12,
     "questionText": "Aşağıdakilerden hangisi, 1982 Anayasası'nın 3. maddesinde belirtilen hükümlerden biri değildir?",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q12.png",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -77825,57 +77825,57 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Vatan hizmeti)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Vatan hizmeti)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 3):</strong><br><em>'Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür. <strong>Dili Türkçedir.</strong> <strong>Bayrağı</strong>, şekli kanununda belirtilen, beyaz ay yıldızlı al bayraktır. <strong>Millî marşı</strong> 'İstiklal Marşı'dır. <strong>Başkenti Ankara'dır.</strong>'</em><br>• <strong>Vatan Hizmeti:</strong> 3. maddede değil, Anayasa'nın dördüncü bölümündeki <strong>72. maddede</strong> (Siyasi Haklar ve Ödevler) düzenlenmiştir."
   },
   {
     "id": "anayasa_2027_t2_q13",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 13,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q13.png",
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi sosyal devletin hukuki yöntemlerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Vergi adaleti"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Kamulaştırma"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Devletleştirme"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Planlama"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Özelleştirme"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Özelleştirme)<br><br>📌 <strong>Mevzuat Analizi & Sosyal Devlet İlkesi:</strong><br>• <strong>Sosyal Devlet:</strong> Ekonomik ve sosyal açıdan güçsüzleri koruyan, toplumda sosyal adaleti, refahı ve fırsat eşitliğini sağlamaya çalışan devlettir.<br>• <strong>Sosyal Devletin Araçları:</strong> Vergi adaleti (artan oranlı vergilendirme), kamulaştırma (kamu yararı için özel mülke el atma), devletleştirme (kamu hizmeti niteliği taşıyan özel teşebbüslerin devlete geçirilmesi), sosyal güvenlik hakları ve planlamadır.<br>• <strong>Özelleştirme (Madde 47/4):</strong> Devletin mülkiyetindeki kamu iktisadi teşebbüslerinin özel sektöre devredilmesidir. Sosyal devletin değil, serbest piyasa ve liberal ekonomi anlayışının bir aracıdır."
   },
   {
     "id": "anayasa_2027_t2_q14",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 14,
     "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi Cumhuriyetin niteliklerinden biri değildir?",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q14.png",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
@@ -77899,228 +77899,228 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Teokratik Devlet)<br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Teokratik Devlet)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 2):</strong><br><em>'Türkiye Cumhuriyeti, toplumun huzuru, millî dayanışma ve adalet anlayışı içinde, insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan, <strong>demokratik, lâik ve sosyal bir hukuk Devletidir.</strong>'</em><br>• <strong>Teokratik Devlet:</strong> Devlet idaresinin ve hukuk kurallarının din kurallarına dayandırıldığı devlet modelidir. Türkiye Cumhuriyeti lâik bir devlet olup teokratik nitelik taşıması Anayasa ile açıkça bağdaşmaz."
   },
   {
     "id": "anayasa_2027_t2_q15",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 15,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q15.png",
+    "questionText": "Aşağıdakilerden hangisinde devlet hayatındaki kurallar teamüli niteliktedir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Türkiye"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "İngiltere"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Fransa"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Almanya"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Rusya"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (İngiltere)<br><br>📌 <strong>Mevzuat Analizi & Anayasa Türleri:</strong><br>• <strong>Teamüli (Yazısız) Anayasa:</strong> Tek bir metinde toplanmamış, yüzyıllar boyunca oluşan gelenekler, mahkeme içtihatları ve temel tarihsel belgelerle (Magna Carta, Bill of Rights vb.) şekillenmiş anayasa türüdür. Dünyadaki en tipik ve klasik örneği <strong>İngiltere (Birleşik Krallık)</strong>'dir.<br>• Türkiye, Fransa, Almanya ve Rusya gibi ülkelerde anayasalar yetkili bir organ tarafından tek bir metin halinde kaleme alınmış <strong>yazılı anayasa</strong> niteliğindedir."
   },
   {
     "id": "anayasa_2027_t2_q16",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 16,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q16.png",
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nda “değiştirilemez ve değiştirilmesi teklif dahi edilemez” hükümler arasında sayılmamıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Devletin dilinin Türkçe olduğuna ilişkin hüküm"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Devletin başkentinin Ankara olduğuna ilişkin hüküm"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Sosyal devlet ilkesine ilişkin hüküm"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Eşitlik ilkesine ilişkin hüküm"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Laiklik ilkesine ilişkin hüküm"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Eşitlik ilkesine ilişkin hüküm)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 4):</strong><br>Değiştirilemez hükümler sadece ilk üç maddedir:<br>• <strong>Md. 1:</strong> Devletin şeklinin Cumhuriyet olduğu.<br>• <strong>Md. 2:</strong> Cumhuriyetin nitelikleri (Demokratik, lâik (E), sosyal (C) bir hukuk devleti).<br>• <strong>Md. 3:</strong> Dili Türkçe (A), başkenti Ankara (B), bayrağı, marşı, bölünmez bütünlüğü.<br><br>• <strong>Eşitlik İlkesi (Madde 10):</strong> Anayasa'nın Temel Hak ve Ödevler kısmında düzenlenmiştir. İlk 3 madde arasında yer almadığı için 4. maddenin mutlak koruması altında değildir."
   },
   {
     "id": "anayasa_2027_t2_q17",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 17,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q17.png",
+    "questionText": "I. Başlangıç metni\nII. 1. maddesindeki devletin şeklinin Cumhuriyet olduğunu öngören hüküm\nIII. 2. maddesindeki cumhuriyetin nitelikleri hakkındaki hükümler\nIV. 3. maddesindeki hükümler\n\n1982 Anayasası'nın yukarıdaki hükümlerinden hangilerinin değiştirilmesi yasaktır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yalnız I"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "I ve II"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "I ve IV"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "II, III ve IV"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "I, II, III ve IV"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (II, III ve IV)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 4):</strong><br><em>'Anayasanın 1 inci maddesindeki Devletin şeklinin Cumhuriyet olduğu hakkındaki hüküm ile, 2 nci maddesindeki Cumhuriyetin nitelikleri ve 3 üncü maddesi hükümleri değiştirilemez ve değiştirilmesi teklif edilemez.'</em><br>• <strong>Başlangıç Metni (Madde 176):</strong> Anayasa metnine dâhildir ancak <strong>değiştirilmesi yasak olan hükümler arasında DEĞİLDİR</strong>. Nitelikli çoğunlukla Anayasa değişiklik usulü işletilerek değiştirilebilir (nitekim 1995 ve 2001 yıllarında Başlangıç metninde değişiklik yapılmıştır)."
   },
   {
     "id": "anayasa_2027_t2_q18",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 18,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q18.png",
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi siyasi partiler için getirilmiş yasaklardan biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Ticari faaliyetlere girişmek"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Vakıf kurmak"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Uluslararası kuruluşlardan maddi yardım almak"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Eşitlik ilkesine aykırı eylemde bulunmak"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Demokratik Cumhuriyet ilkesine aykırı eylemde bulunmak"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Vakıf kurmak)<br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 69):</strong><br>• 1982 Anayasası'nın ilk halinde siyasi partilerin vakıf kurması kesinlikle yasaktı.<br>• Ancak <strong>2001 Anayasa Değişikliği</strong> ile siyasi partilerin kadın kolları, gençlik kolları kurabilmelerinin yanı sıra <strong>vakıf kurabilmelerinin</strong> önündeki anayasal yasak da kaldırılmıştır.<br>• <strong>Devam Eden Yasaklar:</strong> Siyasi partiler ticari faaliyetlere girişemezler (Md. 69/2), yabancı devletlerden ve uluslararası kuruluşlardan yardım alamazlar (Md. 68/son), demokratik ve laik cumhuriyet ile eşitlik ilkelerine aykırı faaliyette bulunamazlar (Md. 68/4)."
   },
   {
     "id": "anayasa_2027_t2_q19",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 19,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q19.png",
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nın Başlangıç Kısmından çıkarılabilecek ilkelerden biri değildir?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Sosyal adalet"
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Hürriyetçi demokrasi"
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Güçler birliği"
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Atatürk milliyetçiliği"
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Çağdaş medeniyet düzeyine ulaşma azmi"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Güçler birliği)<br><br>📌 <strong>Mevzuat Analizi (Başlangıç Metni İlkeleri):</strong><br>1982 Anayasası'nın Başlangıç kısmında yer alan temel değerler:<br>• Atatürk ilke ve inkılapları ile Atatürk milliyetçiliği,<br>• Çağdaş medeniyet düzeyine ulaşma azmi,<br>• Milli egemenlik ve hürriyetçi demokrasi,<br>• <strong>Kuvvetler ayrılığı:</strong> Başlangıç metninde <em>'Kuvvetler ayrımının, Devlet organları arasında üstünlük sıralaması anlamına gelmeyip, belli Devlet yetki ve görevlerinin kullanılmasından ibaret ve bununla sınırlı medenî bir işbölümü ve işbirliği olduğu...'</em> açıkça ifade edilerek güçler ayrılığı benimsenmiştir.<br>• Güçler birliği ilkesi Başlangıç metnine ve 1982 Anayasası ruhuna tamamen aykırıdır."
   },
   {
     "id": "anayasa_2027_t2_q20",
     "testId": "anayasa_2027_test_2",
-    "testTitle": "1982 Anayasası Test 2: Yasama, Yürütme ve Yargı",
+    "testTitle": "1982 Anayasası Test 2: Temel İlkeler, Anayasa Tarihi & Siyasi Partiler",
     "topicId": "mevzuat_anayasa",
     "topicName": "1982 T.C. Anayasası",
     "category": "Mevzuat (%20)",
     "icon": "⚖️",
     "questionNumber": 20,
-    "questionText": "Aşağıdaki soruyu inceleyerek doğru seçeneği işaretleyiniz.",
-    "hasImage": true,
-    "image": "assets/questions/anayasa_t2_q20.png",
+    "questionText": "1982 Anayasası'na göre, siyasi partiler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
     "options": [
       {
         "key": "A",
-        "text": "A"
+        "text": "Yükseköğretim öncesi öğrencileri siyasi partilere üye olamazlar."
       },
       {
         "key": "B",
-        "text": "B"
+        "text": "Devlet, siyasi partilere yeterli düzeyde ve hakça mali yardım yapar."
       },
       {
         "key": "C",
-        "text": "C"
+        "text": "Parti üyesi olabilmek için 18 yaşını doldurmuş olmak gerekir."
       },
       {
         "key": "D",
-        "text": "D"
+        "text": "Siyasi partilerin gelir ve giderlerinin amaçlarına uygun olması gerekir."
       },
       {
         "key": "E",
-        "text": "E"
+        "text": "Uluslararası bir kuruluştan maddi yardım alan bir siyasi partinin Devlet yardımından yoksun bırakılmasına karar verilebilir."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 Anayasası'nın ilgili maddesi ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Mevzuat Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa'nın amir hükümleri ve kavramsal tanımlar esas alınır."
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 68/son):</strong><br>• <strong>Doğru Hüküm:</strong> <em>'Yabancı devletlerden, <strong>uluslararası kuruluşlardan</strong> ve Türk uyrukluğunda olmayan gerçek ve tüzel kişilerden maddî yardım alan siyasî partiler <strong>temelli olarak kapatılır.</strong>'</em><br>• Anayasa koyucu yabancı maddi yardımı o kadar ağır bir ihlal kabul etmiştir ki, Anayasa Mahkemesi'nin takdir yetkisine (Devlet yardımından yoksun bırakma alternatifine) bırakmamış, doğrudan ve zorunlu <strong>temelli kapatma yaptırımına</strong> bağlamıştır.<br>• Diğer şıklardaki 18 yaş şartı, yükseköğretim öncesi öğrenci yasağı, hakça mali yardım ve mali denetim hükümleri anayasal doğrularıdır."
   }
 ];

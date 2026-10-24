@@ -1,5 +1,5 @@
 // EKYSrota Service Worker (Network-First for HTML, Stale-While-Revalidate for Assets)
-const CACHE_NAME = 'ekysrota-v212.0';
+const CACHE_NAME = 'ekysrota-v213.0';
 
 self.addEventListener('install', (e) => {
   self.skipWaiting();
