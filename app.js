@@ -222,7 +222,7 @@ class EKYSApp {
   getOverallPerformanceMetrics() {
     const history = window.storageService ? window.storageService.getQuizHistory() : [];
     const allQuestions = window.storageService ? window.storageService.getQuestions() : [];
-    const totalPoolCount = allQuestions.length || 1965;
+    const totalPoolCount = allQuestions.length || 2156;
     const testHubCards = this.getTestHubCardsDefinition();
 
     let totalAllTests = 0;
@@ -3001,8 +3001,9 @@ class EKYSApp {
 
   getQuestionsForFilter(filterKey) {
     let allQuestions = [];
-    if (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS) && window.EKYS_EXTRACTED_QUESTIONS.length > 0) {
-      allQuestions = [...window.EKYS_EXTRACTED_QUESTIONS];
+    const rawPool = (typeof window !== 'undefined') ? (window.EKYS_EXTRACTED_QUESTIONS || window.QUESTIONS_DB) : null;
+    if (rawPool && Array.isArray(rawPool) && rawPool.length > 0) {
+      allQuestions = [...rawPool];
     } else if (window.storageService && typeof window.storageService.getQuestions === 'function') {
       allQuestions = window.storageService.getQuestions();
     }

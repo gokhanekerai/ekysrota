@@ -128,8 +128,8 @@ class StorageService {
   }
 
   initDefaults() {
-    const realQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
-      ? window.EKYS_EXTRACTED_QUESTIONS 
+    const realQuestions = (typeof window !== 'undefined') 
+      ? (window.EKYS_EXTRACTED_QUESTIONS || window.QUESTIONS_DB || []) 
       : [];
 
     // Bellek önbelleği (RAM): 2.8 MB veriyi localStorage diske yazıp ana iş parçacığını dondurmayı önler
@@ -225,8 +225,8 @@ class StorageService {
     if (this._cachedQuestions && Array.isArray(this._cachedQuestions) && this._cachedQuestions.length > 0) {
       return this._cachedQuestions;
     }
-    const dbQuestions = (typeof window !== 'undefined' && Array.isArray(window.EKYS_EXTRACTED_QUESTIONS)) 
-      ? window.EKYS_EXTRACTED_QUESTIONS 
+    const dbQuestions = (typeof window !== 'undefined') 
+      ? (window.EKYS_EXTRACTED_QUESTIONS || window.QUESTIONS_DB || []) 
       : [];
     this._cachedQuestions = dbQuestions;
     return dbQuestions;

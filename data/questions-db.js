@@ -1,4 +1,4 @@
-window.QUESTIONS_DB = [
+window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   {
     "id": "cogr1-q1",
     "testId": "cogr1",
