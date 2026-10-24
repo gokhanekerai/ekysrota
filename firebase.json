@@ -17,6 +17,10 @@
       "EĞİTİM BİLİMLERİ SORULAR/**",
       "*.py",
       "*.pdf",
+      "*.bat",
+      "*.ps1",
+      "*.cmd",
+      "*.exe",
       "scripts/**"
     ],
     "headers": [
