@@ -1552,6 +1552,70 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 
+/* Service Worker Update Banner */
+.sw-update-banner {
+  position: fixed;
+  top: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 99999;
+  background: rgba(15, 23, 42, 0.94);
+  border: 1px solid rgba(56, 189, 248, 0.5);
+  color: white;
+  padding: 12px 20px;
+  border-radius: var(--radius-lg, 12px);
+  box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.7), 0 0 15px rgba(56, 189, 248, 0.35);
+  backdrop-filter: blur(12px);
+  animation: swSlideDown 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  max-width: 92vw;
+}
+
+.sw-update-content {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.sw-update-icon {
+  font-size: 1.3rem;
+  line-height: 1;
+}
+
+.sw-update-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 0.86rem;
+}
+
+.sw-update-text strong {
+  color: #38bdf8;
+  font-size: 0.92rem;
+}
+
+.sw-update-btn {
+  background: linear-gradient(135deg, #0ea5e9, #2563eb);
+  border: none;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.4);
+  transition: transform 0.15s, opacity 0.15s;
+}
+
+.sw-update-btn:hover {
+  transform: scale(1.04);
+  opacity: 0.95;
+}
+
+@keyframes swSlideDown {
+  from { opacity: 0; transform: translate(-50%, -24px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+
 /* Admin Users Table */
 .admin-table {
   width: 100%;

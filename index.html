@@ -43,8 +43,62 @@
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js?v=211.0').then(reg => {
           reg.update();
+
+          // Yeni Service Worker tespit edildiğinde banner göster
+          reg.addEventListener('updatefound', () => {
+            const newWorker = reg.installing;
+            if (newWorker) {
+              newWorker.addEventListener('statechange', () => {
+                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                  showUpdateNotification();
+                }
+              });
+            }
+          });
         }).catch(err => console.log('SW register failed:', err));
+
+        // Yeni worker devraldığında sayfayı yenile
+        let refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', () => {
+          if (!refreshing) {
+            refreshing = true;
+            window.location.reload();
+          }
+        });
       });
+    }
+
+    function showUpdateNotification() {
+      if (document.getElementById('sw-update-banner')) return;
+      const banner = document.createElement('div');
+      banner.id = 'sw-update-banner';
+      banner.className = 'sw-update-banner';
+      banner.innerHTML = `
+        <div class="sw-update-content">
+          <span class="sw-update-icon">✨</span>
+          <div class="sw-update-text">
+            <strong>Yeni Sürüm Hazır!</strong>
+            <span>Güncel sorular ve iyileştirmeler yüklendi.</span>
+          </div>
+          <button class="sw-update-btn" onclick="forceAppRefresh()">🔄 Şimdi Yenile</button>
+        </div>
+      `;
+      document.body.appendChild(banner);
+    }
+
+    function forceAppRefresh() {
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(regs => {
+          for (const reg of regs) {
+            if (reg.waiting) {
+              reg.waiting.postMessage({ type: 'SKIP_WAITING' });
+            }
+          }
+        });
+      }
+      setTimeout(() => {
+        window.location.reload(true);
+      }, 200);
     }
   </script>
 </head>
