@@ -2902,44 +2902,6 @@ class EKYSApp {
           }
         ]
       },
-      'maarif': {
-        title: '🌟 Türkiye Yüzyılı Maarif Modeli (%30 • 24 Soru)',
-        desc: 'Türkiye Yüzyılı Maarif Modeli Öğrenci Profili, Temel Yaklaşım, Beceriler, Eğilimler ve Çıkmış Sorular:',
-        items: [
-          {
-            id: 'egitim_tymm_1',
-            name: '🌱 TYMM Test 1: Yetkin ve Erdemli İnsan Özellikleri',
-            icon: '🌱',
-            desc: 'Modelin Öğrenci Profili: Bilge, Ahlaklı, Estetik, Üretken, Sağlıklı, Cesaretli, İnisiyatif Alma ve Merhamet (16 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_1',
-            badge: '🌱 16 Soru • Test 1'
-          },
-          {
-            id: 'egitim_tymm_2',
-            name: '🌱 TYMM Test 2: Temel Yaklaşım ve Program Yapısı',
-            icon: '🌱',
-            desc: 'Bütüncül İnsan Yaklaşımı, Farklılaştırılmış Öğretim (Zenginleştirme & Destekleme), Süreç Odaklı Ölçme (15 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_2',
-            badge: '🌱 15 Soru • Test 2'
-          },
-          {
-            id: 'egitim_tymm_3',
-            name: '🌱 TYMM Test 3: Beceriler ve Eğilimler',
-            icon: '🌱',
-            desc: 'Kavramsal Beceriler (Temel, Bütünleşik, Üst Düzey Düşünme: Karar Verme, Çözümleme), Eğilimler ve SDÖ (15 Soru • Çözümlü).',
-            filterKey: 'egitim_tymm_3',
-            badge: '🌱 15 Soru • Test 3'
-          },
-          {
-            id: 'maarif_2026',
-            name: '🌟 2026 EKYS Maarif Modeli Çıkmış Soruları (Soru 41-64)',
-            icon: '🌟',
-            desc: '2026 Mart MEB EKYS sınavında sorulan 24 resmî Türkiye Yüzyılı Maarif Modeli sorusunun tamamı.',
-            filterKey: 'maarif',
-            badge: '24 Soru • Resmî Sınav'
-          }
-        ]
-      },
       'denemeler': {
         title: '🎯 EKYS Deneme Sınavları (100 Tam Puan)',
         desc: 'Gerçek ÖSYM EKYS sınav standartlarında, 100 tam puan üzerinden değerlendirilen genel ve branş deneme sınavları:',
@@ -3121,7 +3083,7 @@ class EKYSApp {
       // TYMM (Türkiye Yüzyılı Maarif Modeli) Testleri
       if (filterKey === 'egitim_tymm_1' || filterKey === 'tymm_1') return (q.testId === 'egitim_tymm_1' || tId === 'egitim_tymm_1' || tName.includes('yetkin ve erdemli'));
       if (filterKey === 'egitim_tymm_2' || filterKey === 'tymm_2') return (q.testId === 'egitim_tymm_2' || tId === 'egitim_tymm_2' || tName.includes('temel yaklaşım'));
-      if (filterKey === 'egitim_tymm_3' || filterKey === 'tymm_3') return (q.testId === 'egitim_tymm_3' || tId === 'egitim_tymm_3' || tName.includes('beceriler ve eğilimler'));
+      if (filterKey === 'egitim_tymm_3' || filterKey === 'tymm_3') return (q.testId === 'egitim_tymm_3' || tId === 'egitim_tymm_3' || (tName.includes('beceriler ve eğilimler') && !tName.includes('kavramsal') && !tId.includes('tymm_4')));
       if (filterKey === 'egitim_tymm_4' || filterKey === 'tymm_4') return (q.testId === 'egitim_tymm_4' || tId === 'egitim_tymm_4');
       if (filterKey === 'egitim_tymm_5' || filterKey === 'tymm_5') return (q.testId === 'egitim_tymm_5' || tId === 'egitim_tymm_5');
       if (filterKey === 'egitim_tymm_tum' || filterKey === 'tymm_all') {
