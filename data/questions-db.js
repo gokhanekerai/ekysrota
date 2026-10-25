@@ -5739,7 +5739,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (D)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye arazisinin büyük kısmı III. ve IV. Jeolojik Zaman'da oluştuğu için ortalama yükseltisi fazladır, engebeli ve genç bir ülkedir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Karadeniz kıyılarında volkanizma sonucunda oluşmuş volkan konileri yer alır)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>D Şıkkı Yanlıştır:</strong> Karadeniz kıyıları boyunca uzanan Kuzey Anadolu Dağları (Kaçkar, Canik, Küre vb.) volkanik değil, III. Jeolojik Zaman'daki Alp-Himalaya orojeneziyle (levhaların tortul tabakaları sıkıştırmasıyla) kıvrılarak yükselmiş <strong>kıvrım sıra dağlarıdır</strong>. Karadeniz kıyı şeridinde belirgin volkan konileri bulunmaz.<br>• <strong>Türkiye'deki Volkan Konileri:</strong> Başlıca Doğu Anadolu (Ağrı, Tendürek, Süphan, Nemrut), İç Anadolu (Erciyes, Hasan Dağı, Melendiz, Karadağ, Karacadağ), Güneydoğu Anadolu (Karacadağ kalkan volkanı) ve Ege'de (Manisa Kula volkan konileri) toplanmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Doğruluk Analizi:</strong><br>• <strong>A (Doğru):</strong> Karadeniz kıyılarında doğu-batı yönlü Kuzey Anadolu Dağları sıradağlar halinde uzanır.<br>• <strong>B (Doğru):</strong> Batı Anadolu'da sert tabakalar kırılarak graben çöküntü ovalarını (Bakırçay, Gediz, Küçük ve Büyük Menderes) oluşturmuştur.<br>• <strong>C (Doğru):</strong> Anadolu kütlesi III. Zaman sonu ile IV. Zaman başında toptan yükselmiştir (epirojenez).<br>• <strong>E (Doğru):</strong> Batı Anadolu aktif fay hatları (BAF) sebebiyle 1. derece deprem kuşağındadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz ve Akdeniz kıyılarında dağlar 'kıvrılma' (orojenez); Ege'de 'kırılma' (horst-graben); İç ve Doğu Anadolu'da ise hatlar boyunca 'volkanizma' baskındır."
   },
   {
     "id": "cogr_hafta1_2-q5",
@@ -5776,7 +5776,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (B)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Levhaların çarpışması sonucu arada kalan jeosenklinallerdeki tortul tabakalar sıkışarak kıvrılır ve sıra dağları (Kıvrım Dağları - Kuzey Anadolu Dağları ve Toroslar) oluşturur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (Küre Dağları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Görselde jeosenklinallerde biriken esnek tortul tabakaların iki yandan kıtasal levhalarca sıkıştırılıp kıvrılarak yükselmesi (<strong>Kıvrım Dağları: Antiklinal = Sırt/Dağ, Senklinal = Çukur/Vadi</strong>) sembolize edilmiştir.<br>• <strong>Küre Dağları:</strong> Batı Karadeniz'de yer alan ve Alp-Himalaya orojenez kuşağında kıvrılma sonucu oluşmuş tipik bir <strong>kıvrım dağıdır</strong>.<br><br>🔍 <strong>Çeldirici Dağların Oluşum Türleri:</strong><br>• <strong>A (Ağrı Dağı):</strong> Doğu Anadolu'da yer alan sönmüş bir <strong>volkanik dağdır</strong>.<br>• <strong>C (Erciyes Dağı) & D (Hasan Dağı):</strong> İç Anadolu volkanik kuşağında lav ve tüf birikimiyle oluşmuş <strong>volkanik dağlardır</strong>.<br>• <strong>E (Yunt Dağı):</strong> Kıyı Ege'de sert tabakaların kırılmasıyla yükselen bir <strong>horst (kırık dağıdır)</strong>.<br><br>💡 <strong>ÖSYM/EKYS Kuralı:</strong> Türkiye'de Kuzey Anadolu Dağları ve Toroslar 'kıvrım'; Ege dağları (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe) 'kırık'; Ağrı, Erciyes, Nemrut hattı ise 'volkanik' dağlardır."
   },
   {
     "id": "cogr_hafta1_2-q6",
@@ -5813,7 +5813,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (C)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İç kuvvetler enerjisini magmadan alır (Orojenez, Epirojenez, Volkanizma, Seizma). Akarsu, rüzgâr ve buzullar ise enerjisini Güneş'ten alan dış kuvvetlerdir."
+    "explanation": "Doğru Cevap: <strong>C</strong> (Toros Dağları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>İç Kuvvetler:</strong> Enerjisini yerin derinliklerindeki magmadan alan, yeryüzüne yeni şekiller kazandıran (yapıcı) kuvvetlerdir (Orojenez, Epirojenez, Volkanizma, Seizma).<br>• <strong>Toros Dağları:</strong> Afrika ve Arabistan levhalarının Anadolu kütlesini sıkıştırmasıyla meydana gelen Alp-Himalaya <strong>orojenezi (dağ oluşumu iç kuvveti)</strong> ile meydana gelmiştir.<br><br>🔍 <strong>Çeldirici Şıkların (Dış Kuvvetler) Analizi:</strong><br>• <strong>A (Çukurova) & E (Çarşamba Ovası):</strong> Akarsuların taşıdığı alüvyonları denize döküldükleri yerde biriktirmesiyle oluşan dış kuvvet (akarsu birikim / delta) şekilleridir.<br>• <strong>B (Pamukkale Travertenleri):</strong> Yeraltından çıkan kalsiyum bikarbonatlı termal suların kirecinin çökelmesiyle oluşan dış kuvvet (karstik birikim) şeklidir.<br>• <strong>D (Damlataş Mağarası):</strong> Karstik kayaçların yeraltı suları tarafından kimyasal yolla eritilmesiyle oluşan dış kuvvet (karstik aşınım) şeklidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Dağlar, platoların toptan yükselmesi, volkanlar ve depremler iç kuvvet; ovalar, deltalar, vadiler, traverten ve mağaralar dış kuvvet eseridir."
   },
   {
     "id": "cogr_hafta1_2-q7",
@@ -5998,7 +5998,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (C)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Volkanik araziler ve volkanik dağlar Türkiye'de Doğu Anadolu ve İç Anadolu bölgelerinde belirgin fay hatları boyunca sıralanmıştır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Rüzgârların aşındırma (mantar kaya, şahit kaya, tafoini vb.) ve biriktirme (barkan, lös, kumul vb.) yapabilmesi için havanın kurak/yarı kurak, yıllık yağış ve nemin çok az, günlük sıcaklık farkı ile fiziksel ufalanmanın şiddetli ve bitki örtüsünün seyrek (bozkır) olması gerekir.<br>• <strong>II Numaralı Alan (Tuz Gölü / Konya Havzası):</strong> Türkiye'nin en kurak, rüzgâr erozyonunun en şiddetli olduğu sahasıdır (Karapınar rüzgâr kumulları).<br>• <strong>III Numaralı Alan (Güneydoğu Anadolu - Şanlıurfa Çevresi):</strong> Yüksek sıcaklık, şiddetli buharlaşma ve cılız bitki örtüsü sebebiyle rüzgâr şekillendirmesinin en yaygın olduğu sahadır.<br><br>🔍 <strong>Çeldirici Alanların Analizi:</strong><br>• <strong>I Numaralı Alan (Kıyı Ege):</strong> Yağışlı Akdeniz iklimi ve gür tarım alanları rüzgâr aşındırmasını sınırlar; akarsu etkisi baskındır.<br>• <strong>IV Numaralı Alan (Doğu Karadeniz):</strong> Türkiye'nin en yağışlı ve en gür ormanlık sahasıdır; rüzgâr aşındırması minimum düzeydedir.<br><br>💡 <strong>ÖSYM/EKYS Soru Yakalatıcı:</strong> Türkiye'de rüzgâr şekillendirmesi denince sadece iki bölge aranır: İç Anadolu ve Güneydoğu Anadolu."
   },
   {
     "id": "cogr_hafta1_2-q12",
