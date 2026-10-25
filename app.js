@@ -3589,6 +3589,7 @@ class EKYSApp {
 
     const modal = document.getElementById('subtopic-modal');
     if (modal) {
+      modal.classList.add('active');
       modal.style.display = 'flex';
       sessionStorage.setItem('ekys_last_subtopic', categoryKey);
     }
@@ -3600,6 +3601,7 @@ class EKYSApp {
     }
     const modal = document.getElementById('subtopic-modal');
     if (modal) {
+      modal.classList.remove('active');
       modal.style.display = 'none';
       sessionStorage.removeItem('ekys_last_subtopic');
     }
@@ -3607,7 +3609,10 @@ class EKYSApp {
 
   startSubTopicQuiz(filterKey, title, mode = 'practice') {
     const modal = document.getElementById('subtopic-modal');
-    if (modal) modal.style.display = 'none';
+    if (modal) {
+      modal.classList.remove('active');
+      modal.style.display = 'none';
+    }
 
     let questions = this.getQuestionsForFilter(filterKey);
     if (questions.length === 0) {

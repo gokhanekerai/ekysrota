@@ -37,11 +37,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=215.0">
+  <link rel="stylesheet" href="styles.css?v=216.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=215.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=216.0').then(reg => {
           reg.update();
 
           // Yeni Service Worker tespit edildiğinde banner göster
@@ -345,20 +345,20 @@
             </div>
 
             <!-- 4. Türkiye Yüzyılı Maarif Modeli -->
-            <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.4); background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(30, 41, 59, 0.8) 100%);">
+            <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.4); background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(30, 41, 59, 0.8) 100%); cursor: pointer;" onclick="app.openSubTopicModal('maarif')">
               <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
                 <div style="font-size: 28px;">🌟</div>
-                <div style="display: flex; gap: 5px;">
-                  <span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fde047; font-size: 0.72rem; font-weight: 700;">Soru 41-64</span>
+                <div style="display: flex; gap: 5px; flex-wrap: wrap;">
+                  <span class="badge" style="background: rgba(16, 185, 129, 0.25); color: #34d399; font-size: 0.72rem; font-weight: 800;">6 Test • 106 Soru</span>
                   <span class="badge badge-warning" style="background: #f59e0b; color: #000; font-size: 0.72rem; font-weight: 800;">%30 (24 Soru)</span>
                 </div>
               </div>
               <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #fde68a;">Türkiye Yüzyılı Maarif Modeli</h3>
               <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
-                Öğretim Programları Ortak Metni, Beceriler Çerçevesi, Erdem-Değer-Eylem, Program Bileşenleri.
+                Öğretim Programları Ortak Metni, Beceriler Çerçevesi, TYMM Test 1-5 ve 2026 Çıkmış Sorular.
               </p>
-              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('maarif')">
-                <span>📚</span> Testleri Çöz
+              <button class="btn btn-primary btn-block btn-sm" onclick="event.stopPropagation(); app.openSubTopicModal('maarif')">
+                <span>📚</span> Testleri Çöz (6 Test • 106 Soru)
               </button>
             </div>
 
@@ -495,20 +495,20 @@
             </div>
 
             <!-- 4. Türkiye Yüzyılı Maarif Modeli -->
-            <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.4); background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(30, 41, 59, 0.8) 100%);">
+            <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.4); background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(30, 41, 59, 0.8) 100%); cursor: pointer;" onclick="app.openSubTopicModal('maarif')">
               <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
                 <div style="font-size: 28px;">🌟</div>
-                <div style="display: flex; gap: 5px;">
-                  <span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fde047; font-size: 0.72rem; font-weight: 700;">Soru 41-64</span>
+                <div style="display: flex; gap: 5px; flex-wrap: wrap;">
+                  <span class="badge" style="background: rgba(16, 185, 129, 0.25); color: #34d399; font-size: 0.72rem; font-weight: 800;">6 Test • 106 Soru</span>
                   <span class="badge badge-warning" style="background: #f59e0b; color: #000; font-size: 0.72rem; font-weight: 800;">%30 (24 Soru)</span>
                 </div>
               </div>
               <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; color: #fde68a;">Türkiye Yüzyılı Maarif Modeli</h3>
               <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; line-height: 1.4;">
-                Öğretim Programları Ortak Metni, Beceriler Çerçevesi, Erdem-Değer-Eylem, Program Bileşenleri.
+                Öğretim Programları Ortak Metni, Beceriler Çerçevesi, TYMM Test 1-5 ve 2026 Çıkmış Sorular.
               </p>
-              <button class="btn btn-primary btn-block btn-sm" onclick="app.openSubTopicModal('maarif')">
-                <span>📚</span> Konu Testlerini Aç
+              <button class="btn btn-primary btn-block btn-sm" onclick="event.stopPropagation(); app.openSubTopicModal('maarif')">
+                <span>📚</span> Konu Testlerini Aç (6 Test • 106 Soru)
               </button>
             </div>
 
@@ -1201,13 +1201,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=215.0"></script>
-  <script src="data/questions-db.js?v=215.0"></script>
-  <script src="services/storage-service.js?v=215.0"></script>
-  <script src="services/firebase-service.js?v=215.0"></script>
-  <script src="services/pdf-service.js?v=215.0"></script>
-  <script src="services/youtube-service.js?v=215.0"></script>
-  <script src="services/question-generator.js?v=215.0"></script>
-  <script src="app.js?v=215.0"></script>
+  <script src="data/ekys-sample-questions.js?v=216.0"></script>
+  <script src="data/questions-db.js?v=216.0"></script>
+  <script src="services/storage-service.js?v=216.0"></script>
+  <script src="services/firebase-service.js?v=216.0"></script>
+  <script src="services/pdf-service.js?v=216.0"></script>
+  <script src="services/youtube-service.js?v=216.0"></script>
+  <script src="services/question-generator.js?v=216.0"></script>
+  <script src="app.js?v=216.0"></script>
 </body>
 </html>
