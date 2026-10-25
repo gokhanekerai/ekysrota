@@ -1963,6 +1963,22 @@ class EKYSApp {
             badge: '🌱 15 Soru • Test 3'
           },
           {
+            id: 'egitim_tymm_4',
+            name: '🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler',
+            icon: '🌱',
+            desc: 'Kavramsal Beceriler (Temel, Bütünleşik, KAP Üst Düzey), Benlik, Sosyal ve Entelektüel Eğilimler, SDÖB (18 Soru • Yaprak Test 13).',
+            filterKey: 'egitim_tymm_4',
+            badge: '🌱 18 Soru • Test 4'
+          },
+          {
+            id: 'egitim_tymm_5',
+            name: '🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi',
+            icon: '🌱',
+            desc: '10 Alan Becerisi (Türkçe Anlama/Anlatma, Din Tatbik/Tilavet, Bilgi İşlemsel Düşünme), Öğrenme Çıktıları ve Bilgi Türleri (18 Soru • Yaprak Test 14).',
+            filterKey: 'egitim_tymm_5',
+            badge: '🌱 18 Soru • Test 5'
+          },
+          {
             id: 'maarif_2026',
             name: '🌟 2026 EKYS Maarif Modeli Çıkmış Soruları (Soru 41-64)',
             icon: '🌟',
@@ -3106,8 +3122,10 @@ class EKYSApp {
       if (filterKey === 'egitim_tymm_1' || filterKey === 'tymm_1') return (q.testId === 'egitim_tymm_1' || tId === 'egitim_tymm_1' || tName.includes('yetkin ve erdemli'));
       if (filterKey === 'egitim_tymm_2' || filterKey === 'tymm_2') return (q.testId === 'egitim_tymm_2' || tId === 'egitim_tymm_2' || tName.includes('temel yaklaşım'));
       if (filterKey === 'egitim_tymm_3' || filterKey === 'tymm_3') return (q.testId === 'egitim_tymm_3' || tId === 'egitim_tymm_3' || tName.includes('beceriler ve eğilimler'));
+      if (filterKey === 'egitim_tymm_4' || filterKey === 'tymm_4') return (q.testId === 'egitim_tymm_4' || tId === 'egitim_tymm_4');
+      if (filterKey === 'egitim_tymm_5' || filterKey === 'tymm_5') return (q.testId === 'egitim_tymm_5' || tId === 'egitim_tymm_5');
       if (filterKey === 'egitim_tymm_tum' || filterKey === 'tymm_all') {
-        return q.testId === 'egitim_tymm_1' || q.testId === 'egitim_tymm_2' || q.testId === 'egitim_tymm_3' || (q.testId && q.testId.startsWith('egitim_tymm_'));
+        return q.testId === 'egitim_tymm_1' || q.testId === 'egitim_tymm_2' || q.testId === 'egitim_tymm_3' || q.testId === 'egitim_tymm_4' || q.testId === 'egitim_tymm_5' || (q.testId && q.testId.startsWith('egitim_tymm_'));
       }
 
       // 1. Özel Video Tarama & Yeni Münferit Coğrafya & Eğitim Bilimleri Testleri

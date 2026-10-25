@@ -78122,5 +78122,1337 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     ],
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E</strong><br><br>📌 <strong>Mevzuat Analizi (1982 Anayasası Madde 68/son):</strong><br>• <strong>Doğru Hüküm:</strong> <em>'Yabancı devletlerden, <strong>uluslararası kuruluşlardan</strong> ve Türk uyrukluğunda olmayan gerçek ve tüzel kişilerden maddî yardım alan siyasî partiler <strong>temelli olarak kapatılır.</strong>'</em><br>• Anayasa koyucu yabancı maddi yardımı o kadar ağır bir ihlal kabul etmiştir ki, Anayasa Mahkemesi'nin takdir yetkisine (Devlet yardımından yoksun bırakma alternatifine) bırakmamış, doğrudan ve zorunlu <strong>temelli kapatma yaptırımına</strong> bağlamıştır.<br>• Diğer şıklardaki 18 yaş şartı, yükseköğretim öncesi öğrenci yasağı, hakça mali yardım ve mali denetim hükümleri anayasal doğrularıdır."
+  },
+  {
+    "id": "egitim_tymm4-q1",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 1,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde sayma,\nkarşılaştırma ve problem çözme gibi eylemler,\nzihinsel süreçlerin farklı boyutlarını temsil\netmektedir. Bu boyutları birlikte kapsayan beceri\nkümesi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kavramsal beceriler"
+      },
+      {
+        "key": "B",
+        "text": "Yalnızca temel beceriler"
+      },
+      {
+        "key": "C",
+        "text": "Yalnızca alan becerileri"
+      },
+      {
+        "key": "D",
+        "text": "Sosyal eğilimler"
+      },
+      {
+        "key": "E",
+        "text": "Fiziksel beceriler"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nKavramsal beceriler; temel, bütünleşik ve üst düzey düşünme becerilerini kapsar. Sayma temel, karşılaştırma bütünleşik, problem çözme üst düzey düşünme becerisidir. Bu nedenle üç örneğin tamamını kapsayan başlık kavramsal becerilerdir. Alan becerileri ise bu zihinsel süreçlerin belirli bir disiplinin bilgi ve uygulamalarıyla ilişkilendirilmiş yapılarını içerir; sosyal eğilimler becerilerin kullanılmasına yönelik yatkınlıkları ifade eder.<br><br>\n• <strong>Kavramsal Beceriler:</strong> Zihinsel süreçlerin tamamını kapsayan üst şemsiyedir; <em>Temel</em> (sayma, bulma, listeleme), <em>Bütünleşik</em> (karşılaştırma, sınıflandırma, çözümleme) ve <em>Üst Düzey Düşünme Becerilerini</em> (KAP: Karar verme, Eleştirel düşünme, Problem çözme) bir arada içerir.<br><br>💡 <strong>Ders Notu (Ders 8):</strong> 'Kavramsal beceriler tek bir eylemi değil, zihnin tüm düşünme araçlarını temsil eder. Sayma temel, karşılaştırma bütünleşik, problem çözme ise üst düzey düşünmedir.'"
+  },
+  {
+    "id": "egitim_tymm4-q2",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 2,
+    "questionText": "Bir öğretmen, temel ve bütünleşik becerileri\nderslerinde birlikte kullanmak istemektedir. Modelde\nbu beceriler arasındaki ilişki dikkate alındığında\naşağıdaki açıklamalardan hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aşamalı bir sıra olmaksızın üst düzey düşünmeye altyapı oluştururlar."
+      },
+      {
+        "key": "B",
+        "text": "Bütün temel beceriler tamamlanmadan bütünleşik becerilere geçilemez."
+      },
+      {
+        "key": "C",
+        "text": "Her bütünleşik beceri yalnızca bir temel beceriyle sınırlıdır."
+      },
+      {
+        "key": "D",
+        "text": "Üst düzey düşünme, temel becerilerden bağımsız gerçekleşir."
+      },
+      {
+        "key": "E",
+        "text": "Bütünleşik beceriler yalnızca fiziksel hareketlerden oluşur."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nModelde temel ve bütünleşik beceriler arasında zorunlu bir aşamalılık ilişkisi kurulmaz. Bu beceriler iç içe kullanılarak üst düzey düşünme süreçlerini destekler. Dolayısıyla hepsinin önce tek tek bitirilmesi gerektiği söylenemez. Üst düzey düşünmenin temel becerilerden bağımsız olduğu görüşü de doğru değildir; karar verme veya problem çözme sırasında birden fazla beceri birlikte işe koşulabilir.<br><br>\n• <strong>Beceriler Arası Aşamalılık Kuralı:</strong> TYMM'de beceriler arasında 'biri bitmeden diğeri başlamaz' şeklinde katı ve zorunlu bir hiyerarşik aşamalılık yoktur. Beceriler sarmal ve iç içe işe koşulur.<br><br>💡 <strong>ÖSYM Sınav Tuzağı:</strong> Sorularda 'önce temel beceriler bitirilmeli, sonra bütünleşik becerilere geçilmelidir' ifadesi tipik bir çeldiricidir ve yanlıştır!"
+  },
+  {
+    "id": "egitim_tymm4-q3",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 3,
+    "questionText": "Bir öğrenci, okuduğu raporun ana düşüncelerini\nbelirlemiş, ayrıntıları önemlerine göre düzenlemiş ve\nmetnin özünü kendi cümleleriyle kısa biçimde\naktarmıştır. Öğrencinin bu çalışmasında hangi\nbütünleşik beceri öne çıkmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yansıtma"
+      },
+      {
+        "key": "B",
+        "text": "Özetleme"
+      },
+      {
+        "key": "C",
+        "text": "Gözlemleme"
+      },
+      {
+        "key": "D",
+        "text": "Sentezleme"
+      },
+      {
+        "key": "E",
+        "text": "Gözleme dayalı tahmin etme"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nÖğrenci metnin özünü koruyarak ana hatlarını kendi cümleleriyle kısaltmıştır; bu, özetleme becerisidir. Yansıtma, deneyimleri gelecekteki durumlar için gözden geçirmeyi; sentezleme, parçaları özgün bir bütüne dönüştürmeyi gerektirir. Gözlemleme doğrudan özellik belirlemeye, gözleme dayalı tahmin ise gözlemlerden hareketle henüz gerçekleşmemiş bir duruma ilişkin yargıya yönelir. Burada yeni bir ürün tasarlamak değil, mevcut metni özlü aktarmak amaçlanmaktadır.<br><br>\n• <strong>Özetleme Becerisi:</strong> Bir metnin, konuşmanın veya durumun öz anlamını koruyarak, gereksiz ayrıntıları eleyip ana hatları kendi cümleleriyle kısaltma işlemidir.<br><br>💡 <strong>Çeldirici Ayrımı:</strong> <em>Yansıtma</em> deneyimden geleceğe ders çıkarma; <em>Sentezleme</em> özgün yeni bir bütün üretme; <em>Çözümleme</em> ise parçalarına ayırıp ilişkileri belirlemedir."
+  },
+  {
+    "id": "egitim_tymm4-q4",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 4,
+    "questionText": "Öğrenciler, topladıkları yaprakları belirledikleri\nözelliklere göre gruplara ayırmış; ardından iki grubun\nbenzer ve farklı yönlerini açıklamıştır. Bu iki\nçalışmada sırasıyla hangi bütünleşik beceriler\nkullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Karşılaştırma – sınıflandırma"
+      },
+      {
+        "key": "B",
+        "text": "Yorumlama – gözlemleme"
+      },
+      {
+        "key": "C",
+        "text": "Sınıflandırma – karşılaştırma"
+      },
+      {
+        "key": "D",
+        "text": "Sentezleme – özetleme"
+      },
+      {
+        "key": "E",
+        "text": "Yansıtma – değerlendirme"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nYaprakları özelliklerine göre gruplara ayırmak sınıflandırmadır. Gruplar arasındaki benzerlik ve farklılıkları belirlemek ise karşılaştırmadır. Gözlemleme, bu işlemlere veri sağlayabilir; ancak gruplama işleminin adı değildir. Değerlendirmede belirlenen ölçütlere dayalı bir yargı, sentezlemede özgün bir bütün oluşturma aranır. Verilen iki aşamada ise önce gruplar kurulmuş, sonra grupların özellikleri karşılaştırılmıştır.<br><br>\n• <strong>Değerlendirme Becerisi:</strong> Belirli ölçüt, standart veya beklentilere dayanarak bir ürün, durum veya sürecin niteliği hakkında değer yargısına varma eylemidir.<br><br>💡 <strong>Ders Notu:</strong> Yalnızca benzerlik-farklılık bulmak 'karşılaştırma'dır; fakat amaca/beklentilere uygunluğuna karar vermek 'değerlendirme'dir."
+  },
+  {
+    "id": "egitim_tymm4-q5",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 5,
+    "questionText": "Ece, gökyüzündeki değişimlere bakarak yağmur\nbeklemektedir. Mert ise geçmiş aylardaki tüketim\nkayıtları üzerinden hesaplama yaparak gelecek ayın\nsu ihtiyacını kestirmektedir. Bu öğrenciler sırasıyla\nhangi tahmin becerilerini kullanmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mevcut bilgiye/veriye dayalı – gözleme dayalı"
+      },
+      {
+        "key": "B",
+        "text": "Gözleme dayalı – mevcut bilgiye/veriye dayalı"
+      },
+      {
+        "key": "C",
+        "text": "Gözleme dayalı – gözleme dayalı"
+      },
+      {
+        "key": "D",
+        "text": "Mevcut bilgiye/veriye dayalı – mevcut bilgiye/veriye dayalı"
+      },
+      {
+        "key": "E",
+        "text": "Tümdengelimsel – analojik"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nEce’nin tahmini, o anda gözlediği belirtilere ve deneyimlerine dayanmaktadır. Mert ise eldeki sayısal kayıtları hesaplamayla kullanmaktadır. Bu nedenle sırasıyla gözleme dayalı ve mevcut bilgiye/veriye dayalı tahmin söz konusudur. İki etkinlik de geleceğe ilişkin yargı içerir; aralarındaki fark, yargının gözlemsel belirtilerden mi yoksa veriler üzerinde yapılan işlemlerden mi üretildiğidir.<br><br>\n• <strong>Gözleme Dayalı Tahmin Etme:</strong> Mevcut gözlem verilerine, deney sonuçlarına veya ipuçlarına dayanarak henüz gerçekleşmemiş bir duruma ilişkin akılcı bir öngörüde bulunmaktır.<br><br>💡 <strong>Kavram Ayrımı:</strong> Doğrudan niteleme 'gözlemleme'dir; verilerden hareketle geleceğe dair olasılık üretmek 'gözleme dayalı tahmin'dir."
+  },
+  {
+    "id": "egitim_tymm4-q6",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 6,
+    "questionText": "Bir öğrenci, incelediği çok sayıda örnekte ortak bir\nörüntü bularak genel bir yargıya ulaşmıştır. Başka bir\nöğrenci, genel bir ilkeyi belirli bir olaya uygulamıştır.\nBu öğrencilerin akıl yürütmeleri sırasıyla hangileridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tümdengelimsel – tümevarımsal"
+      },
+      {
+        "key": "B",
+        "text": "Analojik – tümevarımsal"
+      },
+      {
+        "key": "C",
+        "text": "Tümevarımsal – analojik"
+      },
+      {
+        "key": "D",
+        "text": "Analojik – tümdengelimsel"
+      },
+      {
+        "key": "E",
+        "text": "Tümevarımsal – tümdengelimsel"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nÖrneklerden ortak örüntüye ve genel yargıya ulaşılması tümevarımsal akıl yürütmedir. Genel bir ilkeden belirli bir olay için sonuç çıkarılması tümdengelimsel akıl yürütmedir. Analojik akıl yürütmede ise olaylar arasındaki yapısal veya işlevsel benzerliklerden yararlanılır. İlk öğrencinin çok sayıda örnek kullanmasıyla ikinci öğrencinin genel ilkeden başlaması, yönleri ayırt etmeyi sağlayan temel ipuçlarıdır.<br><br>\n• <strong>Karar Verme Becerisi:</strong> Olası seçenekleri ahlaki, mantıksal ve pratik sonuçlarıyla tartarak amaca en uygun ve erdemli eylem yönünü seçme sürecidir (KAP üst düzey becerisi).<br><br>💡 <strong>Ders 8 Şifresi:</strong> Üst düzey düşünme becerileri <strong>KAP</strong> (Karar verme, Akıl yürütme/Eleştirel düşünme, Problem çözme) sacayağıdır."
+  },
+  {
+    "id": "egitim_tymm4-q7",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 7,
+    "questionText": "Bir öğretmen, uyguladığı etkinliğin hangi\nyönlerinin işe yaradığını incelemiş ve edindiği\ndeneyime dayanarak bir sonraki uygulamasını nasıl\ndeğiştireceğine karar vermiştir. Bu süreçte hangi\nbütünleşik beceri özellikle öne çıkmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yansıtma"
+      },
+      {
+        "key": "B",
+        "text": "Yalnızca gözlemleme"
+      },
+      {
+        "key": "C",
+        "text": "Yalnızca sınıflandırma"
+      },
+      {
+        "key": "D",
+        "text": "Gözleme dayalı tahmin etme"
+      },
+      {
+        "key": "E",
+        "text": "Özetleme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nYansıtma, yaşanmış bir deneyimi gelecekteki durumlara uyarlamak amacıyla gözden geçirmeyi, çıkarımda bulunmayı ve değerlendirmeyi içerir. Öğretmen yalnızca ne olduğunu aktarmamış; deneyimini sonraki uygulamayı geliştirmek için kullanmıştır. Özetleme, yaşananların özlü biçimde anlatılmasıyla sınırlı kalabilir. Buradaki ayırt edici yön, deneyimden hareketle gelecekteki eylemin düzenlenmesidir.<br><br>\n• <strong>Problem Çözme Süreci:</strong> Karşılaşılan engeli aşmak için problemi tanımlama, hipotez kurma, veri toplama ve test ederek çözüme ulaşma üst düzey zihinsel sürecidir.<br><br>💡 <strong>ÖSYM Vurgusu:</strong> Problem çözme, sadece formül uygulamak değil; bilinmeyen karmaşık bir durumda bilimsel basamaklarla çözüm üretmektir."
+  },
+  {
+    "id": "egitim_tymm4-q8",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 8,
+    "questionText": "Bir öğrenci, hazırlanan afişleri önceden belirlediği\nokunabilirlik ve amaca uygunluk ölçütleriyle\ninceleyerek hangilerinin beklentileri karşıladığına\nkarar vermiştir. Öğrencinin kullandığı bütünleşik\nbeceri aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gözleme dayalı tahmin etme"
+      },
+      {
+        "key": "B",
+        "text": "Değerlendirme"
+      },
+      {
+        "key": "C",
+        "text": "Genelleme"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi toplama"
+      },
+      {
+        "key": "E",
+        "text": "Sınıflandırma"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nÖğrenci ürünleri belirlediği ölçütlerle karşılaştırarak yargıya varmıştır. Bu işlem değerlendirmedir. Bilgi toplamada veri elde etme, sınıflandırmada ortak özelliklere göre gruplama, genellemede örnekler arasındaki ilişkilerden geniş bir yargı üretme öne çıkar. Ürünler arasındaki farklılıkları görmek karşılaştırmayı da gerektirebilir; ancak beklentileri karşılayıp karşılamadığına karar verilmesi değerlendirme becerisini belirleyici kılar.<br><br>\n• <strong>Eleştirel Düşünme:</strong> Bilgiyi körü körüne kabul etmeyip kanıtlara, tutarlılığa, mantık ilkelerine ve ölçütlere göre sorgulama ve yargıya varma becerisidir.<br><br>💡 <strong>Ders Notu:</strong> Eleştirel düşünme olumsuzluk aramak değil; bilginin doğruluğunu kanıt ve ölçüt süzgecinden geçirmektir."
+  },
+  {
+    "id": "egitim_tymm4-q9",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 9,
+    "questionText": "Bir öğrenci, farklı kaynaklardan seçtiği olay ve\nkarakterler arasında yeni ilişkiler kurarak daha önceki\nörnekleri tekrarlamayan özgün bir oyun metni\noluşturmuştur. Bu çalışmada hangi bütünleşik beceri\nöne çıkmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çözümleme"
+      },
+      {
+        "key": "B",
+        "text": "Özetleme"
+      },
+      {
+        "key": "C",
+        "text": "Sentezleme"
+      },
+      {
+        "key": "D",
+        "text": "Karşılaştırma"
+      },
+      {
+        "key": "E",
+        "text": "Gözlemleme"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nSentezlemede parçalar ilişkilendirilerek özgün bir bütün oluşturulur. Öğrenci farklı unsurları yeni bir oyun metninde bir araya getirmiştir. Çözümleme bütünü parçalarına ayırıp ilişkilerini incelemeye, özetleme mevcut anlamı kısaltarak aktarmaya yönelir. Metnin yalnızca hazır bölümleri art arda sıralamaması, aralarında yeni ilişkiler kurması sentezlemenin ayırt edici özelliğidir.<br><br>\n• <strong>Sentezleme Becerisi:</strong> Farklı kaynaklardan, olaylardan ve parçalardan yola çıkarak daha önce var olmayan özgün, yeni ve tutarlı bir bütün (ürün, metin, model) oluşturmadır.<br><br>💡 <strong>Çeldirici Analizi:</strong> Çözümleme bütünü parçalara ayırır; özetleme mevcut metni kısaltır; sentezleme ise yeni ve özgün bir ürün inşa eder."
+  },
+  {
+    "id": "egitim_tymm4-q10",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 10,
+    "questionText": "Bir öğrenci, metindeki birbiriyle uyuşmayan\naçıklamaları düzeltmiş; ardından çıkarılan sonuçların\nakıl yürütme kurallarına uygunluğunu incelemiştir.\nBu iki çalışmada sırasıyla hangi beceriler\nkullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mantıksal denetleme – özetleme"
+      },
+      {
+        "key": "B",
+        "text": "Sınıflandırma – gözlemleme"
+      },
+      {
+        "key": "C",
+        "text": "Yansıtma – karşılaştırma"
+      },
+      {
+        "key": "D",
+        "text": "Çelişki giderme – mantıksal denetleme"
+      },
+      {
+        "key": "E",
+        "text": "Sentezleme – genelleme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nBirbiriyle tutarsız açıklamaları düzeltme çabası çelişki gidermedir. Çıkarımların akıl ilkeleri ve akıl yürütme biçimlerine uygunluğunu incelemek ise mantıksal denetlemedir. İlk işlem içerikteki uyuşmazlığı gidermeye, ikinci işlem çıkarımın biçimsel uygunluğunu denetlemeye odaklanır. Metni kısaltmak veya gözlenen özellikleri kaydetmek bu iki işlemi karşılamaz.<br><br>\n• <strong>Benlik Eğilimleri:</strong> Bireyin kendi kişisel gelişimine, iç motivasyonuna ve iradesine odaklanan eğilimlerdir: <em>Merak, bağımsızlık, azim ve kararlılık, özyeterlilik, özgüven</em>.<br><br>💡 <strong>Ders 8 Şifresi:</strong> 'Benlik eğilimleri kişinin kendi iç pusulasıdır; önünde 'öz' olanlar (özgüven, özyeterlilik) ve merak-azim doğrudan benliktir.'"
+  },
+  {
+    "id": "egitim_tymm4-q11",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 11,
+    "questionText": "Bir öğrenci, karşılaştığı iddiaya ilişkin sorular\nsormuş, gerekçelerden hareketle çıkarımlar yapmış\nve ulaştığı sonuçları yeniden gözden geçirmiştir.\nSorgulama, akıl yürütme ve yansıtmayı birlikte içeren\nbu süreç hangi üst düzey düşünme becerisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Karar verme"
+      },
+      {
+        "key": "B",
+        "text": "Problem çözme"
+      },
+      {
+        "key": "C",
+        "text": "Yorumlama"
+      },
+      {
+        "key": "D",
+        "text": "Eleştirel düşünme"
+      },
+      {
+        "key": "E",
+        "text": "Sorgulama"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nEleştirel düşünmede sorgulama, akıl yürütme ve yansıtma birlikte kullanılır. Öğrenci iddiayı gerekçeleriyle incelemiş ve kendi çıkarımlarını da yeniden ele almıştır. Karar vermede seçenekler arasındaki seçime, problem çözmede ise karşılaşılan sorunu aşmaya odaklanılır. Burada belirleyici olan bir seçim yapmak değil, iddianın dayanaklarını ve ulaşılan sonucu sorgulamaktır.<br><br>\n• <strong>Sosyal Eğilimler:</strong> Bireyin toplumsal ilişkilerde ve grup çalışmalarında sergilediği yönelimlerdir: <em>Empati, sorumluluk, girişkenlik, güven, oyunseverlik</em>.<br><br>💡 <strong>Ders Notu:</strong> Başkalarını anlama (empati) ve üzerine düşeni yapma (sorumluluk) toplumsal birlikteliği sağlayan sosyal eğilimlerdir."
+  },
+  {
+    "id": "egitim_tymm4-q12",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 12,
+    "questionText": "Bir okul kulübü, gezi amacını belirlemiş,\nseçenekler hakkında bilgi toplamış ve uygunluklarını\ninceleyerek birini seçmiştir. Gezi sonrasında bu\nseçimin sonuçlarını da değerlendirmiştir. Bu süreç\nhangi üst düzey düşünme becerisine örnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Problem çözme"
+      },
+      {
+        "key": "B",
+        "text": "Karar verme"
+      },
+      {
+        "key": "C",
+        "text": "Eleştirel düşünme"
+      },
+      {
+        "key": "D",
+        "text": "Değerlendirme"
+      },
+      {
+        "key": "E",
+        "text": "Yorumlama"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nAmaç belirleme, seçenekleri inceleme, seçim yapma ve kararın sonuçları üzerinde yansıtma, karar verme sürecini oluşturur. Kulüp bilgiyi bir seçim yapmak için kullanmıştır. Değerlendirme veya yorumlama bu süreçte yer alabilir; ancak sürecin tamamını karşılamaz. Burada bir sorunu aşmaya ya da iddiayı sorgulamaya odaklanmak yerine, belirlenen amaca uygun seçenek seçilmiştir.<br><br>\n• <strong>Entelektüel Eğilimler:</strong> Zihinsel ve düşünsel süreçlere yönelik bilimsel yatkınlıklardır: <em>Gerçeği arama, odaklanma, analitiklik, sistematiklik, şüphe duyma ve açık fikirlilik</em>.<br><br>💡 <strong>Ders Notu:</strong> Zihinsel metodoloji ve akıl yürütmeye dayalı eğilimler entelektüel boyuttadır."
+  },
+  {
+    "id": "egitim_tymm4-q13",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 13,
+    "questionText": "Öğrenciler, okul bahçesindeki su birikmesi\nsorununu incelemiş, olası nedenleri açıklamış ve\nçözüm önerilerini deneyerek sonuçlarına göre\ndüzenlemiştir. Bu çalışmanın bütününü en iyi\nkarşılayan üst düzey düşünme becerisi hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Karar verme"
+      },
+      {
+        "key": "B",
+        "text": "Eleştirel düşünme"
+      },
+      {
+        "key": "C",
+        "text": "Problem çözme"
+      },
+      {
+        "key": "D",
+        "text": "Yorumlama"
+      },
+      {
+        "key": "E",
+        "text": "Bilgi toplama"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nÖğrenciler bir sorunla baş edebilmek için durumu anlamış, nedenler üzerinde düşünmüş, çözüm üretmiş ve sonuçlara göre yeniden düzenleme yapmıştır. Bu bütünlük problem çözmedir. Gözlemleme, yorumlama veya bilgi toplama sürecin içinde yer alabilir; ancak hiçbirinin tek başına adı bütün çalışmayı karşılamaz. Sorunun çözümüne yönelik zihinsel işlemlerin birlikte kullanılması belirleyicidir.<br><br>\n• <strong>Sosyal-Duygusal Öğrenme Becerileri (SDÖB):</strong> Bireyin duygularını tanıması (öz farkındalık), yönetmesi (öz yönetim), empati kurması (sosyal farkındalık) ve yapıcı ilişkiler kurmasını sağlayan yatay bileşendir.<br><br>💡 <strong>Programlar Arası Entegrasyon:</strong> SDÖB tek bir dersin konusu değil; tüm derslerin içine yedirilmiş ortak gelişim alanıdır."
+  },
+  {
+    "id": "egitim_tymm4-q14",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 14,
+    "questionText": "Bir öğretmen, grup oyunlarında doğru hareket\netmenin yanında planlama, iletişim ve duygu\nyönetimini de desteklemektedir. Bu uygulama,\nfiziksel becerilere ilişkin hangi açıklamayı destekler?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fiziksel beceriler bütüncül gelişim içinde ele alınır."
+      },
+      {
+        "key": "B",
+        "text": "Hareket zihinsel süreçlerden bağımsızdır."
+      },
+      {
+        "key": "C",
+        "text": "Sosyal gelişim yalnız konuşmayı kapsar."
+      },
+      {
+        "key": "D",
+        "text": "Hareket etkinliklerinde eğilimler etkisizdir."
+      },
+      {
+        "key": "E",
+        "text": "Fiziksel beceri yalnız kas gücünü ifade eder."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nModelde fiziksel beceri, kas ve eklem hareketlerinin yanı sıra zihinsel, sosyal, duygusal ve eğilim boyutlarını içeren bütüncül bir akışta gerçekleşir. Öğretmen de hareketi bu boyutlarla birlikte ele almaktadır. Fiziksel beceriler diğer beceri setlerinden koparılmaz. Dolayısıyla planlama ve iletişimin bir oyun etkinliğinde desteklenmesi modelin bütüncül yaklaşımına uygundur.<br><br>\n• <strong>Erdem-Değer-Eylem Çerçevesi:</strong> Değerlerin yalnızca teoride kalmayıp ahlaki eyleme dönüşmesini hedefler. 3 çatı değer: <strong>Saygı, Sorumluluk, Adalet</strong>. 3 amaç: <em>Huzurlu İnsan, Huzurlu Aile ve Toplum, Yaşanabilir Çevre</em>.<br><br>💡 <strong>Ders 7 & 8 Kritik Vurgusu:</strong> Değeri bilmek epistemolojik; hayatına ve eylemine aktarmak aksiyolojik olgunluktur."
+  },
+  {
+    "id": "egitim_tymm4-q15",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 15,
+    "questionText": "Bir öğrenci araştırma yapabilecek beceriye sahip\nolduğu hâlde bunu her durumda kullanmamaktadır.\nÖğretmeni, öğrencinin uygun durumlarda\naraştırmaya istek duymasını ve harekete geçmesini\ndesteklemektedir. Bu çalışma öncelikle hangi\nbileşene yöneliktir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnızca içerik çerçevesine"
+      },
+      {
+        "key": "B",
+        "text": "Yalnızca fiziksel becerilere"
+      },
+      {
+        "key": "C",
+        "text": "Eğilimlere"
+      },
+      {
+        "key": "D",
+        "text": "Yalnızca ölçme puanlarına"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca konu sıralamasına"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nEğilimler, sahip olunan becerilerin gerekli durumda niyet, duyarlılık ve isteklilikle nasıl kullanıldığını etkiler. Öğrencinin araştırmayı yapabilmesiyle bu beceriyi kullanmaya yönelmesi aynı şey değildir. Soruda beceri eksikliğinden çok onu eyleme geçirme isteği üzerinde durulmaktadır. Bu nedenle temel vurgu içerik listesine veya fiziksel yeterliğe değil, eğilimlere yöneliktir.<br><br>\n• <strong>Okuryazarlık Becerileri:</strong> TYMM'de 21. yüzyıl becerileriyle uyumlu 9 okuryazarlık tanımlanmıştır: Bilgi, Dijital, Finansal, Görsel, Kültür, Vatandaşlık, Bilim, Sanat ve Sürdürülebilirlik okuryazarlığı.<br><br>💡 <strong>Ders Notu:</strong> Okuryazar olmak o alanda temel kavramları bilmek, anlamlandırmak ve günlük yaşamda işlevsel olarak kullanabilmektir."
+  },
+  {
+    "id": "egitim_tymm4-q16",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 16,
+    "questionText": "Bir öğrenci, güçlüklerle karşılaştığında çalışmayı\nsürdürmekte ve hedefi için gerekli adımları planlayıp\nuygulayabileceğine inanmaktadır. Bu özellikler\nsırasıyla hangi benlik eğilimlerine karşılık gelir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merak – bağımsızlık"
+      },
+      {
+        "key": "B",
+        "text": "Kendine inanma – merak"
+      },
+      {
+        "key": "C",
+        "text": "Bağımsızlık – kendine güvenme"
+      },
+      {
+        "key": "D",
+        "text": "Azim ve kararlılık – kendine güvenme"
+      },
+      {
+        "key": "E",
+        "text": "Azim ve kararlılık – kendine inanma"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nGüçlükler karşısında çabayı sürdürmek azim ve kararlılıktır. Gerekli eylemleri planlayıp yürütebileceğine ilişkin kişisel inanç ise kendine inanma, yani öz yeterliliktir. Kendine güvenme kişinin kendine ve yeteneklerine genel inancını ifade ederken burada özellikle hedef için gereken eylemleri gerçekleştirebileceğine inanma vurgulanmaktadır. Merak araştırma arzusunu, bağımsızlık kendi başına hareket edebilmeyi öne çıkarır.<br><br>\n• <strong>Fiziksel Beceriler:</strong> Öğrencilerin bedensel, devinsel ve psikomotor yeterliliklerini, hareket koordinasyonunu ve fiziksel sağlığını geliştiren becerilerdir.<br><br>💡 <strong>Modeldeki Yeri:</strong> Bütüncül insan anlayışı (ontolojik bütünlük: ruh ve beden ahengi) gereği fiziksel gelişim zihinsel gelişimle eşzamanlı desteklenir."
+  },
+  {
+    "id": "egitim_tymm4-q17",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 17,
+    "questionText": "Bir öğretmen, öğrencilerinde sırasıyla benlik,\nsosyal ve entelektüel eğilimleri destekleyecek\netkinlikler planlamaktadır. Aşağıdaki eğilim\ngruplarından hangisi bu sıralamaya uygundur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Empati – merak – bağımsızlık"
+      },
+      {
+        "key": "B",
+        "text": "Odaklanma – kendine inanma – güven"
+      },
+      {
+        "key": "C",
+        "text": "Sorumluluk – yaratıcılık – merak"
+      },
+      {
+        "key": "D",
+        "text": "Açık fikirlilik – bağımsızlık – empati"
+      },
+      {
+        "key": "E",
+        "text": "Merak – sorumluluk – açık fikirlilik"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nMerak benlik, sorumluluk sosyal, açık fikirlilik entelektüel eğilimler arasındadır. Empati ve güven sosyal; bağımsızlık ve kendine inanma benlik; odaklanma ve yaratıcılık entelektüel eğilimlerdir. Seçenekler tek tek tanıdık eğilimlerden oluşsa da istenen, üçünün belirtilen boyut sırasına uygun olarak eşleştirilmesidir.<br><br>\n• <strong>Eğilimlerin İşlevi:</strong> Eğilimler becerinin kendisi değil; becerinin ortaya konmasını, sürdürülmesini ve alışkanlığa dönüşmesini sağlayan içsel ve sosyal motivasyon kaynaklarıdır.<br><br>💡 <strong>ÖSYM Mantığı:</strong> Beceri 'yapabilme gücü'dür; eğilim ise 'yapmaya istekli ve yatkın olma' durumudur."
+  },
+  {
+    "id": "egitim_tymm4-q18",
+    "testId": "egitim_tymm_4",
+    "testTitle": "🌱 TYMM Test 4: Kavramsal Beceriler ve Eğilimler",
+    "topicId": "egitim_tymm_4",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kavramsal Beceriler ve Eğilimler)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 18,
+    "questionText": "Bir öğrenci, kendi görüşünden farklı bir\naçıklamayı hemen reddetmek yerine dinlemekte ve\nyeni gerekçeler karşısında düşüncesini gözden\ngeçirmeye hazır bulunmaktadır. Bu davranışta hangi\nentelektüel eğilim öne çıkmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Odaklanma"
+      },
+      {
+        "key": "B",
+        "text": "Sistematiklik"
+      },
+      {
+        "key": "C",
+        "text": "Analitiklik"
+      },
+      {
+        "key": "D",
+        "text": "Açık fikirlilik"
+      },
+      {
+        "key": "E",
+        "text": "Yaratıcılık"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nAçık fikirlilik, farklı görüşleri dikkate almaya ve gerekçeler doğrultusunda kendi düşüncesini yeniden incelemeye yönelik yatkınlıktır. Öğrencinin farklı açıklamaya açık olması bu eğilimi gösterir. Odaklanma dikkati sürdürme, sistematiklik düzenli ilerleme, analitiklik kanıt ve akıl yürütmeyle çözüme ulaşma, yaratıcılık ise yeni fikirler geliştirme yönüyle ayrılır.<br><br>\n• <strong>Açık Fikirlilik (Entelektüel Eğilim):</strong> Kendi düşüncelerini mutlak görmeyip farklı fikirlere, yeni kanıtlara ve alternatif açıklamalara hoşgörüyle yaklaşma ve değerlendirebilme yatkınlığıdır.<br><br>💡 <strong>Çeldiriciler:</strong> Odaklanma dikkati sürdürme, sistematiklik planlı ilerleme, yaratıcılık ise özgün fikir üretmedir."
+  },
+  {
+    "id": "egitim_tymm5-q1",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 1,
+    "questionText": "Türkçe alan becerileri anlama ve anlatma\nçerçevesinde düzenlenmiştir. Aşağıdaki\neşleştirmelerden hangisi bu iki gruptaki becerileri\ndoğru göstermektedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Anlama: konuşma ve yazma; anlatma: dinleme/izleme ve okuma"
+      },
+      {
+        "key": "B",
+        "text": "Anlama: okuma ve konuşma; anlatma: yazma ve dinleme/izleme"
+      },
+      {
+        "key": "C",
+        "text": "Anlama: yazma ve okuma; anlatma: konuşma ve dinleme/izleme"
+      },
+      {
+        "key": "D",
+        "text": "Anlama: dinleme/izleme ve okuma; anlatma: konuşma ve yazma"
+      },
+      {
+        "key": "E",
+        "text": "Anlama: dinleme/izleme ve konuşma; anlatma: okuma ve yazma"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nDinleme/izleme ve okuma, anlamı kavramaya yönelik anlama becerileridir. Konuşma ve yazma ise anlamı sözlü veya yazılı olarak ifade etmeye yönelik anlatma becerileridir. Bu ayrım, dört becerinin birbirinden kopuk olduğu anlamına gelmez. Türkçe alan becerileri diğer beceri alanlarının da temel bileşenidir; öğrencinin sürecini değerlendirmesi ve kendine uyarlaması dil becerilerinin gelişimini destekler.<br><br>\n• <strong>Türkçe Alan Becerileri (Merkez Disiplin):</strong> TYMM'de iki temel sütuna ayrılır:<br>1. <strong>Anlama Becerileri:</strong> Dinleme/İzleme ve Okuma (bilgiyi ve anlamı içeri alma).<br>2. <strong>Anlatma Becerileri:</strong> Konuşma ve Yazma (düşünce ve duyguyu dışa aktarma).<br><br>💡 <strong>Ders 8 Sınav Notu:</strong> 'Türkçe tüm derslerin merkezindedir. Anlama dinleme ve okumadır; anlatma ise konuşma ve yazmadır. Bu soru sınavın favori soru kalıbıdır!'"
+  },
+  {
+    "id": "egitim_tymm5-q2",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 2,
+    "questionText": "Bir öğrenci, aynı kesri sayı doğrusu, alan modeli ve\nsembolik gösterimle ifade etmiş; bu gösterimlerin\nbirbirleriyle ilişkisini açıklamıştır. Bu çalışmada hangi\nmatematik alan becerisi özellikle öne çıkmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Matematiksel araç ve teknoloji ile çalışma"
+      },
+      {
+        "key": "B",
+        "text": "Veri ile çalışma ve veriye dayalı karar verme"
+      },
+      {
+        "key": "C",
+        "text": "Bilimsel model oluşturma"
+      },
+      {
+        "key": "D",
+        "text": "Mekânsal düşünme"
+      },
+      {
+        "key": "E",
+        "text": "Matematiksel temsil"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nMatematiksel temsil, matematiksel bir düşünceyi farklı gösterimlerle ifade etmeyi ve bu gösterimleri değerlendirmeyi içerir. Aynı kesrin farklı modellerle sunulması bu beceriyi öne çıkarır. Çalışmada istatistiksel veri toplama ya da teknolojik araç kullanma zorunluluğu yoktur. Bilimsel model oluşturma fen, mekânsal düşünme ise sosyal bilimler alan becerileri içinde ele alınır.<br><br>\n• <strong>Matematik Alan Becerileri:</strong> Matematiksel Muhakeme, Matematiksel Problem Çözme, Matematiksel Temsil, Matematiksel Araç ve Teknoloji Kullanımı ile Veriyle Çalışma/Karar Verme olmak üzere 5 boyuttan oluşur.<br><br>💡 <strong>Ders Notu:</strong> Sayısal ilişkileri inceleme, soyutlama ve kanıtlama matematiksel muhakemenin temelidir."
+  },
+  {
+    "id": "egitim_tymm5-q3",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 3,
+    "questionText": "Bir öğrenci, deneyinde “bitkinin gelişmesi”\nifadesini kullanmak yerine gelişmeyi bir haftada\noluşan yeni yaprak sayısıyla belirleyeceğini\naçıklamıştır. Bu açıklama hangi fen bilimleri alan\nbecerisine örnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hipotez oluşturma"
+      },
+      {
+        "key": "B",
+        "text": "Bilimsel model oluşturma"
+      },
+      {
+        "key": "C",
+        "text": "Tümdengelimsel akıl yürütme"
+      },
+      {
+        "key": "D",
+        "text": "Kanıt kullanma"
+      },
+      {
+        "key": "E",
+        "text": "Operasyonel tanımlama"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nOperasyonel tanımlama, araştırmadaki bir kavramın hangi gözlenebilir işlem veya ölçümle ele alınacağını belirginleştirir. Öğrenci gelişmeyi yeni yaprak sayısıyla nasıl belirleyeceğini açıklamıştır. Hipotez, değişkenler arasında sınanabilir bir beklenti kurmayı gerektirir. Burada değişkenler arası bir ilişki ileri sürülmemiş; bir özelliğin araştırmada nasıl gözleneceği tanımlanmıştır.<br><br>\n• <strong>Fen Bilimleri Alan Becerileri:</strong> Bilimsel gözlem, hipotez kurma, bilimsel modelleme, deney tasarlama ve kanıt toplama süreçlerini kapsar.<br><br>💡 <strong>Ayırt Edici Unsur:</strong> Fen bilimlerinin anahtar kelimeleri 'bilimsel yöntem, deney, hipotez ve kanıta dayalı sorgulama'dır."
+  },
+  {
+    "id": "egitim_tymm5-q4",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 4,
+    "questionText": "Bir öğrenci, geçmişte alınan bir kararı incelerken o\ndönemin bilgi, imkân ve değerlerini dikkate almış;\ninsanların davranışlarını kendi tarihsel koşulları\niçinde anlamaya çalışmıştır. Hangi sosyal bilimler alan\nbecerisi öne çıkmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zamanı algılama ve kronolojik düşünme"
+      },
+      {
+        "key": "B",
+        "text": "Mekânsal düşünme"
+      },
+      {
+        "key": "C",
+        "text": "Tarihsel empati"
+      },
+      {
+        "key": "D",
+        "text": "Girişimcilik"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal katılım"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nTarihsel empati, geçmişteki insanların düşünce ve davranışlarını yaşadıkları dönemin bağlamında anlamayı gerektirir. Bu, geçmişteki her davranışı onaylamak demek değildir. Kronolojik düşünme zaman ilişkilerini ve sıralamayı, mekânsal düşünme konum ve mekânsal bağlantıları öne çıkarır. Verilen durumda belirleyici olan olayları sıraya koymak değil, insanları kendi tarihsel koşulları içinde anlamaktır.<br><br>\n• <strong>Tarihsel Empati (Sosyal Bilimler):</strong> Geçmişte yaşamış tarihi şahsiyetleri veya toplumları bugünün yargılarıyla değil, o dönemin şartları, inançları ve imkanları çerçevesinde değerlendirme becerisidir.<br><br>💡 <strong>ÖSYM Uyarısı:</strong> Tarihsel empati geçmişi haklı bulmak veya onaylamak değil; dönemin şartları içinde anlamlandırmaktır!"
+  },
+  {
+    "id": "egitim_tymm5-q5",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 5,
+    "questionText": "Bir öğrenci, bir afişteki renk, simge ve görüntülerin\nhangi anlamı ilettiğini incelemekte ve afişin vermek\nistediği mesajı açıklamaktadır. Bu çalışmada hangi\nsanat alan becerisi özellikle öne çıkmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sanatsal üretim yapma"
+      },
+      {
+        "key": "B",
+        "text": "Sanatsal tasarım yapma"
+      },
+      {
+        "key": "C",
+        "text": "Müziksel işitme"
+      },
+      {
+        "key": "D",
+        "text": "Görsel mesajı okuma"
+      },
+      {
+        "key": "E",
+        "text": "Müziksel hareket"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nGörsel mesajı okuma, görseldeki işaret ve unsurları algılayarak bunların taşıdığı anlamı açıklamayı içerir. Öğrenci yeni bir afiş üretmemekte, mevcut afişin mesajını anlamlandırmaktadır. Sanatsal üretim ve tasarımda yeni ürün oluşturma boyutu öne çıkar. Müziksel işitme ve hareket ise verilen görsel mesaj çözümlemesini karşılamaz.<br><br>\n• <strong>Görsel Mesajı Okuma (Sanat Alan Becerisi):</strong> Bir görselde (afiş, tablo, fotoğraf) yer alan sembol, renk, kompozisyon ve figürlerin ilettiği mesajı ve anlamı çözümlemedir.<br><br>💡 <strong>Çeldirici Ayrımı:</strong> Yeni bir eser ortaya koymak 'sanatsal üretim'dir; var olan bir görselin anlamını deşifre etmek 'görsel mesajı okuma'dır."
+  },
+  {
+    "id": "egitim_tymm5-q6",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 6,
+    "questionText": "Bir öğrenci, hakemin fark etmediği bir ihlali\nkendisi bildirerek rakibinin hakkını korumuştur. Bu\ndavranış, beden eğitimi, oyun ve spor alanındaki\nhangi beceriyle doğrudan ilişkilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Adil oyun anlayışına uygun davranma"
+      },
+      {
+        "key": "B",
+        "text": "Fiziksel uygunluk sağlama"
+      },
+      {
+        "key": "C",
+        "text": "Ritmik hareket etme"
+      },
+      {
+        "key": "D",
+        "text": "Taktik ve strateji geliştirme"
+      },
+      {
+        "key": "E",
+        "text": "Hareket kavramlarını uygulama"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nÖğrencinin kişisel kazanç yerine kurallara ve rakibin hakkına uygun davranması adil oyun anlayışını yansıtır. Taktik geliştirme, oyundaki sonuca ulaşmak için stratejik seçimlerle; fiziksel uygunluk ise hareketi destekleyen bedensel yeterlikle ilgilidir. Sorudaki davranışın ayırt edici yönü sportif başarıyı artırmak değil, oyun içinde etik ve hakkaniyetli davranmaktır.<br><br>\n• <strong>Adil Oyun (Fair Play - Beden Eğitimi ve Spor):</strong> Spor ve oyun ortamında yalnızca kazanmaya odaklanmayıp kurallara saygı gösterme, rakibin hakkını gözetme ve dürüst davranma erdemidir.<br><br>💡 <strong>Erdemle Bağlantı:</strong> Fair play anlayışı TYMM'nin Adalet ve Saygı çatı değerlerinin spor alanındaki somut yansımasıdır."
+  },
+  {
+    "id": "egitim_tymm5-q7",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 7,
+    "questionText": "Öğrenciler, bir sorunu küçük parçalara ayırmış,\nçözüm adımlarını sıralamış ve bu adımlardaki hataları\ndeneyerek düzeltmiştir. Bu süreç bütünüyle hangi\nbilişim teknolojileri ve yazılım alan becerisini\nörneklendirir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnızca bilişim teknolojilerini kullanma"
+      },
+      {
+        "key": "B",
+        "text": "Yalnızca dijital güvenlik önlemleri alma"
+      },
+      {
+        "key": "C",
+        "text": "Yalnızca veri yönetimi"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi işlemsel düşünme"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca çoklu ortam sunumu"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nBilgi işlemsel düşünme; sorgulama, algoritmik düşünme, soyutlama, ayrıştırma ve test etme-hata ayıklama süreçlerini kapsar. Sorunu parçalara ayırmak ayrıştırma, adımları düzenlemek algoritmik düşünme, hataları düzeltmek test etme-hata ayıklamayla ilişkilidir. Bu becerinin kullanılması için mutlaka bir bilgisayar programı yazılması gerekmez. Verilen süreç, araç kullanmaktan daha geniş bir düşünme örüntüsüdür.<br><br>\n• <strong>Bilgi İşlemsel Düşünme (Bilişim Teknolojileri):</strong> Karmaşık bir problemi alt parçalara bölme (ayrıştırma), algoritmik adımlar tasarlama, soyutlama ve hata ayıklama (debugging) süreçlerini kapsar.<br><br>💡 <strong>Ders 8 Notu:</strong> 'Bilgisayar gibi sistematik düşünebilme, algoritma kurma ve hataları adım adım düzeltme bilgi işlemsel düşünmedir.'"
+  },
+  {
+    "id": "egitim_tymm5-q8",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 8,
+    "questionText": "Bir öğrenci, bir canlının yüzey yapısının suyu\nuzaklaştırma özelliğini incelemiş ve aynı işlevden\nyararlanarak yeni bir ürün tasarlamıştır. Hangi\ntasarım alan becerisi özellikle öne çıkmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çoklu ortam sunumu"
+      },
+      {
+        "key": "B",
+        "text": "Görsel mesajı okuma"
+      },
+      {
+        "key": "C",
+        "text": "Sanat eserini inceleme"
+      },
+      {
+        "key": "D",
+        "text": "Taktik ve strateji geliştirme"
+      },
+      {
+        "key": "E",
+        "text": "Doğa ve canlılardan esinlenme"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nCanlının yapısı ile tasarımın işlevi arasında bağ kurulması, doğa ve canlıları tasarımla ilişkilendirme/esinlenme becerisidir. Öğrenci doğal bir özelliği ürün tasarımına taşımaktadır. Çoklu ortam sunumu ürünün farklı araçlarla aktarılmasına, görsel mesajı okuma mevcut görseli anlamlandırmaya yönelir. Burada belirleyici olan ürünün sunuluşu değil, doğadaki işlevden yararlanılarak geliştirilmesidir.<br><br>\n• <strong>Doğa ve Canlılardan Esinlenme (Biyomimikri - Tasarım Becerisi):</strong> Doğadaki canlıların anatomik ve işlevsel yapılarından ilham alarak insan yaşamını kolaylaştıran yeni teknolojik ve estetik ürünler tasarlamadır.<br><br>💡 <strong>Örnek:</strong> Nilüfer çiçeğinin su tutmayan yapısından su itici kumaş veya yunus burnundan gemi pruvası tasarlamak bu becerinin göstergesidir."
+  },
+  {
+    "id": "egitim_tymm5-q9",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 9,
+    "questionText": "Bir öğretmen, öğrencilerin öğrendikleri dinî bilgiyi\nuygun günlük yaşam durumlarında davranışa\ndönüştürmelerini amaçlamaktadır. Bilginin\nuygulanmasına yönelik bu amaç hangi alan\nbecerisiyle doğrudan ilişkilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tatbik"
+      },
+      {
+        "key": "B",
+        "text": "Tilavet"
+      },
+      {
+        "key": "C",
+        "text": "Temel kaynakları kullanma"
+      },
+      {
+        "key": "D",
+        "text": "Dinî kaynakları tetkik"
+      },
+      {
+        "key": "E",
+        "text": "Dinî delillere başvurma"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nTatbik, öğrenilenin uygulanmasıyla ilgilidir. Bilginin günlük yaşamda uygun davranışa dönüşmesi bu beceriyi öne çıkarır. Tilavet okuma ve telaffuzla; temel kaynakları kullanma meal ve hadis kaynaklarına başvurmayla ilgilidir. Dinî kaynakları tetkik kaynakları incelemeyi, dinî delillere başvurma ise akli veya nakli delillerden yararlanmayı içerir.<br><br>\n• <strong>Tatbik Becerisi (Din Öğretimi):</strong> Öğrenilen dinî ve ahlaki bilgilerin günlük yaşam durumlarında somut tutum, eylem ve davranışa dönüştürülmesidir.<br><br>💡 <strong>Ders 8 Kavram Sözlüğü:</strong><br>• <em>Tatbik:</em> Uygulama ve eyleme dökme.<br>• <em>Tilavet:</em> Usulüne uygun okuma ve telaffuz.<br>• <em>Tahkik / Tetkik:</em> Delilleri derinlemesine araştırma.<br>• <em>Tefekkür:</em> Yaratılış ve hikmet üzerine derin düşünme."
+  },
+  {
+    "id": "egitim_tymm5-q10",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 10,
+    "questionText": "Aşağıdakilerden hangisi yabancı dilde alımlayıcı\nya da üretici alan becerisi olarak değil, destekleyici\nbeceri olarak ele alınmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dinleme/izleme-anlamlandırma"
+      },
+      {
+        "key": "B",
+        "text": "Okuma-anlamlandırma"
+      },
+      {
+        "key": "C",
+        "text": "Konuşma-anlatma"
+      },
+      {
+        "key": "D",
+        "text": "Dil bilgisi seçme-kullanma"
+      },
+      {
+        "key": "E",
+        "text": "Yazma-anlatma"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nYabancı dilde dinleme/izleme ve okuma alımlayıcı; konuşma ve yazma üretici becerilerdir. Dil bilgisi, sözcük ve sesletim seçme-kullanma ise destekleyici beceriler arasında yer alır. Bu beceriler diğerlerinden kopuk bir ezber alanı oluşturmaz; anlamı kavramayı ve üretmeyi destekler. Seçenekler arasında bu gruba giren, dil bilgisi seçme-kullanmadır.<br><br>\n• <strong>Yabancı Dil Destekleyici Beceriler:</strong> Dil bilgisi seçme-kullanma, sözcük bilgisi ve telaffuz (sesletim) becerileridir. Alımlayıcı (dinleme, okuma) ve üretici (konuşma, yazma) becerileri alttan besleyen destek unsurlarıdır.<br><br>💡 <strong>Sınıflandırma Şeması:</strong> Alımlayıcı = Dinleme/Okuma | Üretici = Konuşma/Yazma | Destekleyici = Dil bilgisi / Sözcük / Telaffuz."
+  },
+  {
+    "id": "egitim_tymm5-q11",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 11,
+    "questionText": "Yabancı dilde tümevarımsal yaklaşımı esas alan\nbir öğretmenin, bu yaklaşımın ayırt edici özelliğine\nuygun olarak aşağıdakilerden hangisini yapması\nbeklenir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kuralı açıklayıp örneklerde uygulatmak"
+      },
+      {
+        "key": "B",
+        "text": "Örneklerden dilsel yapıları keşfettirmek"
+      },
+      {
+        "key": "C",
+        "text": "Dili yapı inceletmeden doğal akışta sunmak"
+      },
+      {
+        "key": "D",
+        "text": "Yalnızca model metni kopyalamaya yöneltmek"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca doğru sesletimi tekrar ettirmek"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nÖrneklerden hareketle yapılar arasındaki ilişkileri keşfetmek ve genel bir örüntüye ulaşmak tümevarımsal yaklaşımın belirleyici özelliğidir. Bütüncül yaklaşımda dil, doğal akış ve anlam içinde görsel, işitsel ve bedensel destekle sunulur. Yarı bütüncül-yarı tümevarımsal yaklaşım genel anlamla dilsel işlev farkındalığını birlikte ele alır. Burada ise öğrencinin örneklerden kuralı keşfetmesi öne çıkmaktadır.<br><br>\n• <strong>Tümevarımsal Dil Öğretimi:</strong> Öğrencilere hazır kural ezberletmek yerine, zengin metin ve örneklerden hareketle dilin gramer örüntülerini ve kurallarını kendi kendilerine keşfetmelerini sağlayan yaklaşımdır.<br><br>💡 <strong>Tümdengelim vs. Tümevarım:</strong> Kuraldan örneğe = Tümdengelim; Örneklerden kural keşfine = Tümevarım."
+  },
+  {
+    "id": "egitim_tymm5-q12",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 12,
+    "questionText": "Bir öğretmen, ekosistemle ilgili bilgileri\nkarşılaştırma becerisiyle birleştirerek bir öğrenme\nçıktısı yazmıştır. Bu çalışma modelin hangi anlayışıyla\nuyumludur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrenme çıktıları bilgi ve beceriyi birlikte içerir."
+      },
+      {
+        "key": "B",
+        "text": "Öğrenme çıktısı yalnız konu adını belirtir."
+      },
+      {
+        "key": "C",
+        "text": "Beceriler içerikten bağımsızdır."
+      },
+      {
+        "key": "D",
+        "text": "İçerik, çıktının yerine tek başına geçer."
+      },
+      {
+        "key": "E",
+        "text": "Çıktılar gözlenebilir eylem içermez."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nÖğrenme çıktıları, içerikteki bilgi kümesinin ilgili alan veya kavramsal beceriyle birleştirilmesiyle oluşturulur. Öğretmen konuyu karşılaştırma becerisiyle ilişkilendirerek öğrencinin gerçekleştireceği eylemi tanımlamaktadır. Yalnızca konu adını yazmak bu yapıyı karşılamaz. İçerik ve beceri birlikte ele alındığında çıktı hem öğretim yaşantılarının hem de değerlendirme sürecinin düzenlenmesine yol gösterir.<br><br>\n• <strong>Öğrenme Çıktısının Yapısı:</strong> TYMM'de her öğrenme çıktısı iki temel bileşenin evliliğidir: <strong>[İçerik / Bilgi Kümesi] + [Beceri (Kavramsal veya Alan Becerisi)]</strong>.<br><br>💡 <strong>Örnek:</strong> 'Ekosistemdeki canlıları (içerik) özelliklerine göre karşılaştırır (beceri).' Becerisiz içerik kuru ezberdir; içeriksiz beceri havada kalır!"
+  },
+  {
+    "id": "egitim_tymm5-q13",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 13,
+    "questionText": "Bir öğretmen, temel beceriye dayalı bir öğrenme\nçıktısı için öğrencilerinin ihtiyaç duyduğu hazırlık\nadımlarını planlamaktadır. Modelin açıklamalarına\ngöre bu adımlara nasıl yer vermelidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Her temel beceriye süreç bileşeni yazmalıdır."
+      },
+      {
+        "key": "B",
+        "text": "Hazırlık adımlarını öğretim uygulamalarında ele almalıdır."
+      },
+      {
+        "key": "C",
+        "text": "Temel becerileri öğrenme çıktısına konu etmemelidir."
+      },
+      {
+        "key": "D",
+        "text": "Hazırlık etkinliklerinden vazgeçmelidir."
+      },
+      {
+        "key": "E",
+        "text": "Hazırlığı dönem sonu sınavına bırakmalıdır."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nTemel becerilerle oluşturulan öğrenme çıktılarına süreç bileşeni yazılmaz. Kademe, ders veya öğrenci özellikleri nedeniyle izlenmesi gereken adımlar varsa bunlar öğrenme-öğretme uygulamalarında ele alınır. Bu kural, öğrencinin gereksinimlerini yok saymak anlamına gelmez. Ayrım, gerekli desteğin sağlanıp sağlanmayacağı değil, programın hangi bölümünde ifade edileceğidir.<br><br>\n• <strong>Süreç Bileşeni Kuralı:</strong> Temel becerilere süreç bileşeni yazılmaz! Çünkü temel beceriler (sayma, eşleştirme) zaten en yalın zihinsel işlemlerdir. Ara adımlar öğretim uygulamaları sürecinde öğretmen tarafından planlanır.<br><br>💡 <strong>Kritik Sınav Kuralı:</strong> Yalnızca Bütünleşik Beceriler ve Alan Becerileri süreç bileşenlerine ayrıştırılır."
+  },
+  {
+    "id": "egitim_tymm5-q14",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 14,
+    "questionText": "Bir öğretmen, gözlenebilir bir öğrenme çıktısını\nöğrenci özelliklerine uygun biçimde yazmış;\netkinliklerle değerlendirme görevlerini bu çıktıya\ngöre seçmiştir. Bu uygulama hangi açıklamayı\ndestekler?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çıktılar yalnızca konu listesini sıralar."
+      },
+      {
+        "key": "B",
+        "text": "Çıktılar öğretim ve değerlendirmeye yön verir."
+      },
+      {
+        "key": "C",
+        "text": "Çıktılar öğrenci özelliklerinden bağımsızdır."
+      },
+      {
+        "key": "D",
+        "text": "Çıktılar öğretmenin yapacağı işleri sıralar."
+      },
+      {
+        "key": "E",
+        "text": "Çıktılar değerlendirmede kullanılmaz."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nÖğrenme çıktıları, öğrencinin göstereceği gözlenebilir ve ölçülebilir eylemleri ifade eder. Bu eylemler öğretim yaşantılarını düzenlemeye ve hangi öğrenme kanıtlarının aranacağını belirlemeye yol gösterir. Öğretmen aynı çıktıyı iki karar için de kullanarak bu uyumu sağlamaktadır. Çıktıların öğrenci özelliklerinden bağımsız bir konu listesi veya öğretmen görevleri listesi olarak görülmesi doğru değildir.<br><br>\n• <strong>Öğrenme Çıktılarının İşlevi:</strong> Öğretmene dersi nasıl işleyeceğinin rotasını çizer, öğrenciye neyi başaracağını gösterir ve ölçme-değerlendirmede hangi kanıtların toplanacağını belirler.<br><br>💡 <strong>Ders Notu:</strong> Öğrenme çıktıları geleneksel 'hedef' kavramının modern, gözlenebilir ve ölçülebilir halidir."
+  },
+  {
+    "id": "egitim_tymm5-q15",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 15,
+    "questionText": "Bir öğretmen, aynı sınıf düzeyindeki farklı\nderslerin ortak kavramlarını ilişkilendirmiş; bir\nkavramın farklı sınıflarda nasıl derinleştiğini de\nincelemiştir. Bu iki inceleme içerik çerçevesinin\nsırasıyla hangi boyutlarıyla ilgilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dikey – yatay"
+      },
+      {
+        "key": "B",
+        "text": "Yatay – yatay"
+      },
+      {
+        "key": "C",
+        "text": "Yatay – dikey"
+      },
+      {
+        "key": "D",
+        "text": "Dikey – dikey"
+      },
+      {
+        "key": "E",
+        "text": "Epistemik – işlemsel"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nFarklı konu alanları arasındaki ilişkiler içeriğin yatay boyutudur. Bir konu alanının farklı sınıf düzeylerindeki kapsam ve derinliği ise dikey boyutu oluşturur. Öğretmen önce dersler arası bağlantıya, sonra sınıf düzeyleri boyunca gelişime bakmıştır. Epistemik ve işlemsel ayrımı içerik boyutunu değil, bilgi türünü ifade ettiği için bu eşleştirmeyi karşılamaz.<br><br>\n• <strong>İçerik Çerçevesi Boyutları:</strong><br>• <strong>Yatay Boyut:</strong> Aynı sınıf düzeyindeki farklı ders ve disiplinler arasındaki kavramsal ilişkiler ve köprülerdir.<br>• <strong>Dikey Boyut:</strong> Bir kavramın ilkokuldan liseye farklı sınıf düzeylerinde derinleşerek (sarmal) genişlemesidir."
+  },
+  {
+    "id": "egitim_tymm5-q16",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 16,
+    "questionText": "Bir öğretmen, öğrenme sürecinde ele alınacak\ntemel kavramları, ilkeleri ve sembolleri\nbelirlemektedir. “Öğrenci ne bilmeli?” sorusunu\nyanıtlayan bu çalışma programın hangi bileşeniyle\nilgilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrenme kanıtları"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen yansıtmaları"
+      },
+      {
+        "key": "C",
+        "text": "Farklılaştırma"
+      },
+      {
+        "key": "D",
+        "text": "Okul temelli planlama"
+      },
+      {
+        "key": "E",
+        "text": "İçerik çerçevesi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nİçerik çerçevesi, öğrenme sürecinde ele alınan bilgi kümesini temsil eder ve öğrencinin ne bilmesi gerektiğini gösterir. İlgili becerilerle bir araya gelerek öğrenme çıktılarını oluşturur. Bu nedenle yalnızca ezberlenecek bilgi listesi olarak düşünülmez. Öğrenme kanıtları edinimin nasıl ortaya konacağını, diğer seçenekler ise programın farklı düzenleme alanlarını ele alır.<br><br>\n• <strong>İçerik Çerçevesi:</strong> Öğretim programında 'Öğrenci neyi bilmeli?' sorusunun karşılığı olan temel kavramlar, ilkeler, olgular ve semboller bütünüdür.<br><br>💡 <strong>Programın 4 Ögesi Karşılıkları:</strong><br>• Hedef ➔ Öğrenme Çıktısı<br>• İçerik ➔ İçerik Çerçevesi<br>• Eğitim Durumu ➔ Öğrenme-Öğretme Yaşantıları<br>• Sınama Durumu ➔ Öğrenme Kanıtları (Ölçme-Değerlendirme)"
+  },
+  {
+    "id": "egitim_tymm5-q17",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 17,
+    "questionText": "Bir öğrenci, tarihçilerin kaynakları nasıl\nsorguladığını; ardından bir haritayı çizmek için\nizlenen işlem adımlarını öğrenmektedir. Bu iki\nöğrenmenin bilgi türleri sırasıyla aşağıdakilerden\nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İşlemsel – epistemik"
+      },
+      {
+        "key": "B",
+        "text": "Disiplinler arası – epistemik"
+      },
+      {
+        "key": "C",
+        "text": "Epistemik – işlemsel"
+      },
+      {
+        "key": "D",
+        "text": "Disipline özgü – disiplinler arası"
+      },
+      {
+        "key": "E",
+        "text": "Epistemik – disiplinler arası"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nAlan uzmanlarının nasıl çalıştığını ve düşündüğünü anlamak epistemik bilgidir. Bir ürünü veya işlemi gerçekleştirmek için izlenecek adımları bilmek ise işlemsel bilgidir. Tarihçilerin kaynak sorgulama anlayışı ilkini, harita çiziminin aşamaları ikincisini örneklendirir. Disiplinler arası bilgide farklı disiplinlerin kavram ve konuları ilişkilendirilir; yalnız bir işlemin basamaklarını sıralamak bu tür bir ilişki kurmak değildir.<br><br>\n• <strong>Epistemik vs. İşlemsel Bilgi:</strong><br>• <strong>Epistemik Bilgi:</strong> O disiplinin uzmanlarının (tarihçilerin, felsefecilerin, bilim insanlarının) nasıl düşündüğünü, bilginin nasıl üretildiğini ve sorgulandığını bilmektir.<br>• <strong>İşlemsel Bilgi:</strong> Bir işi, haritayı veya deneyi adım adım hayata geçirme teknik bilgisidir."
+  },
+  {
+    "id": "egitim_tymm5-q18",
+    "testId": "egitim_tymm_5",
+    "testTitle": "🌱 TYMM Test 5: Alan Becerileri ve İçerik Çerçevesi",
+    "topicId": "egitim_tymm_5",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Alan Becerileri ve İçerik)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 18,
+    "questionText": "Öğrenciler önce bir bilim dalının temel kavram ve\nilkelerini öğrenmiş; ardından bu kavramları başka bir\ndersin konularıyla ilişkilendirmiştir. Bu çalışmalar\nsırasıyla hangi bilgi türlerini öne çıkarır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Disiplinler arası – disipline özgü"
+      },
+      {
+        "key": "B",
+        "text": "Epistemik – işlemsel"
+      },
+      {
+        "key": "C",
+        "text": "Disipline özgü – disiplinler arası"
+      },
+      {
+        "key": "D",
+        "text": "İşlemsel – epistemik"
+      },
+      {
+        "key": "E",
+        "text": "Disipline özgü – yalnız işlemsel"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nBir alanın temel kavram, ilke, genelleme ve sembollerine ilişkin anlayış disipline özgü bilgidir. Bunların başka disiplinlerin kavram ve konularıyla ilişkilendirilmesi disiplinler arası bilgiyi oluşturur. Epistemik bilgi uzmanların düşünme ve çalışma biçimlerine, işlemsel bilgi ise eylem adımlarına odaklanır. Aynı içerik farklı becerilerle işlenebilir; bir beceri de farklı içeriklerde kullanılabilir.<br><br>\n• <strong>Disipline Özgü vs. Disiplinler Arası Bilgi:</strong><br>• <strong>Disipline Özgü Bilgi:</strong> Yalnızca o bilim dalına ait temel kavram ve ilkelerdir (örn. kimyadaki periyodik cetvel).<br>• <strong>Disiplinler Arası Bilgi:</strong> Bu kavramların başka alanlarla (örn. kimyadaki bileşiklerin biyolojideki metabolizmayla) ilişkilendirilmesidir."
   }
 ];
