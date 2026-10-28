@@ -1329,7 +1329,7 @@ class EKYSApp {
             id: 'cogr_hafta4_1',
             name: '🎥 4. Hafta Kampı: Bölüm 1 (Ulaşım & Dış Ticaret)',
             icon: '🚢',
-            desc: 'Karayolları, Demiryolu Ağları, Deniz Limanları ve Uluslararası Boru Hatları (20 Soru).',
+            desc: 'Ulaşım Ağları, Enerji Koridorları, Sanayi Odakları ve Tarım-Hayvancılık (20 Soru).',
             filterKey: 'cogr_hafta4_1',
             badge: '20 Soru'
           },
@@ -1337,7 +1337,7 @@ class EKYSApp {
             id: 'cogr_hafta4_2',
             name: '🎥 4. Hafta Kampı: Bölüm 2 (Tarım & Hayvancılık)',
             icon: '🌾',
-            desc: 'Tarımsal Ürün Dağılışı, Sulama, Gübreleme, Mera ve Ahır Hayvancılığı (20 Soru).',
+            desc: 'Hayvancılık Türleri, Stratejik Madenler, Enerji Santralleri ve Sanayi (20 Soru).',
             filterKey: 'cogr_hafta4_2',
             badge: '20 Soru'
           },
@@ -1345,7 +1345,7 @@ class EKYSApp {
             id: 'cogr_hafta4_3',
             name: '🎥 4. Hafta Kampı: Bölüm 3 (Madenler & Sanayi)',
             icon: '⛏️',
-            desc: 'Maden Rezervleri, Enerji Kaynakları, Ağır Sanayi ve OSB Tesisleri (20 Soru).',
+            desc: 'Bölgesel Projeler (DAP, KOP, ZBK), Ulaşım Ağları ve Türkiye Turizm Değerleri (20 Soru).',
             filterKey: 'cogr_hafta4_3',
             badge: '20 Soru'
           },

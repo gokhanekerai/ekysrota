@@ -6741,227 +6741,227 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Erzurum-Kars platosunda kışların aşırı dondurucu ve soğuk geçmesinde kışın kuzeydoğudan sarkan soğuk kökenli Sibirya Yüksek Basıncı (I) ve sahanın aşırı yüksek ve denizden uzak olması (II) belirleyicidir.<br>• Volkanik toprak yapısı (III) jeolojik/edafik bir unsurdur, iklim ve sıcaklık üzerinde doğrudan belirleyici bir etkiye sahip değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Toprak cinsi kışın sıcaklık değerlerini düşürmez; toprak verimliliği ve tarım deseni üzerinde etkilidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kışın en soğuk yer: Erzurum-Kars (Yükselti + Sibirya YB + Karasallık). Kışın en sıcak yer: Akdeniz kıyıları (Enlem + Denizellik)."
   },
   {
-  "id": "cogr_hafta3_1-q12",
-  "testId": "cogr_hafta3_1",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-  "topicId": "cogr_hafta3_1",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 12,
-  "questionText": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir.\n\nYukarıdaki haritada numaralanmış yerlerdeki iklim özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q12_img.png?v=224.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I ve III numaralı alan en fazla yağışını aynı mevsimde almaktadır."
-    },
-    {
-      "key": "B",
-      "text": "II numaralı alanda en fazla yağış yaz aylarında düşmektedir."
-    },
-    {
-      "key": "C",
-      "text": "V numaralı alanda en fazla yağış kış mevsiminde yağmur şeklinde düşmektedir."
-    },
-    {
-      "key": "D",
-      "text": "IV numaralı alan Türkiye'nin en az yağış alan yöresidir."
-    },
-    {
-      "key": "E",
-      "text": "I, III ve V numaralı alanlarda kışlar ılık geçmektedir."
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alanda en fazla yağış yaz aylarında düşmektedir - Yanlış)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada II numaralı alan Doğu Anadolu'nun güney kesimini (Van Gölü havzası ve Güneydoğu Toroslar arkasını) göstermektedir. Bu alanda en fazla yağış ilkbahar/kış döneminde düşer. Yaz aylarında en fazla yağış alan saha ise daha kuzeydeki Erzurum-Kars-Ardahan platosudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <em>A şıkkı:</em> I nolu alan (Doğu Karadeniz kıyısı) ve III nolu alan (Yıldız Dağları Karadeniz kıyısı) Karadeniz iklimine sahiptir ve ikisi de en çok yağışı sonbaharda alır.<br>• <em>C şıkkı:</em> V nolu alan (Muğla/Menteşe ve Teke kıyıları) Akdeniz iklim sahasıdır, kış yağışları yağmur şeklindedir.<br>• <em>D şıkkı:</em> IV nolu alan (Tuz Gölü çevresi) yıllık 300-350 mm ile Türkiye'nin en kurak alanlarındandır.<br>• <em>E şıkkı:</em> Kıyıda yer alan I, III ve V nolu alanlarda kışlar denizellik etkisiyle ılık geçer.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz kıyıları = Sonbahar | Akdeniz/Ege kıyıları = Kış | İç Anadolu = İlkbahar | Erzurum-Kars = Yaz."
-},
+    "id": "cogr_hafta3_1-q12",
+    "testId": "cogr_hafta3_1",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+    "topicId": "cogr_hafta3_1",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 12,
+    "questionText": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir.\n\nYukarıdaki haritada numaralanmış yerlerdeki iklim özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q12_img.png?v=224.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve III numaralı alan en fazla yağışını aynı mevsimde almaktadır."
+      },
+      {
+        "key": "B",
+        "text": "II numaralı alanda en fazla yağış yaz aylarında düşmektedir."
+      },
+      {
+        "key": "C",
+        "text": "V numaralı alanda en fazla yağış kış mevsiminde yağmur şeklinde düşmektedir."
+      },
+      {
+        "key": "D",
+        "text": "IV numaralı alan Türkiye'nin en az yağış alan yöresidir."
+      },
+      {
+        "key": "E",
+        "text": "I, III ve V numaralı alanlarda kışlar ılık geçmektedir."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alanda en fazla yağış yaz aylarında düşmektedir - Yanlış)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada II numaralı alan Doğu Anadolu'nun güney kesimini (Van Gölü havzası ve Güneydoğu Toroslar arkasını) göstermektedir. Bu alanda en fazla yağış ilkbahar/kış döneminde düşer. Yaz aylarında en fazla yağış alan saha ise daha kuzeydeki Erzurum-Kars-Ardahan platosudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <em>A şıkkı:</em> I nolu alan (Doğu Karadeniz kıyısı) ve III nolu alan (Yıldız Dağları Karadeniz kıyısı) Karadeniz iklimine sahiptir ve ikisi de en çok yağışı sonbaharda alır.<br>• <em>C şıkkı:</em> V nolu alan (Muğla/Menteşe ve Teke kıyıları) Akdeniz iklim sahasıdır, kış yağışları yağmur şeklindedir.<br>• <em>D şıkkı:</em> IV nolu alan (Tuz Gölü çevresi) yıllık 300-350 mm ile Türkiye'nin en kurak alanlarındandır.<br>• <em>E şıkkı:</em> Kıyıda yer alan I, III ve V nolu alanlarda kışlar denizellik etkisiyle ılık geçer.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz kıyıları = Sonbahar | Akdeniz/Ege kıyıları = Kış | İç Anadolu = İlkbahar | Erzurum-Kars = Yaz."
+  },
   {
-  "id": "cogr_hafta3_1-q13",
-  "testId": "cogr_hafta3_1",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-  "topicId": "cogr_hafta3_1",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 13,
-  "questionText": "Bağıl nem sıcaklıkla ters orantılıdır. Bağıl nemin yüksek olduğu mevsimde yağışlar artmaktadır.\n\nYukarıdaki Türkiye haritasındaki numaralandırılmış alanlardan hangisinde bağıl nemin yaz aylarında yüksek olduğu söylenebilir?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q13_img.png?v=224.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: Erzurum-Kars Platosu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Bağıl nem, havadaki nem oranının doyma noktasına yaklaşmasıdır ve yağış olasılığıyla doğrudan ilişkilidir.<br>• Haritada gösterilen I (Hakkâri/Güneydoğu), III (Çukurova), IV (Ergene) ve V (Antalya/Muğla) alanları yaz mevsiminde şiddetli sıcaklık ve kuraklık yaşar, bu nedenle yazın bağıl nemleri düşer.<br>• <strong>II numaralı alan (Erzurum-Kars Platosu)</strong> ise sert karasal iklim etkisiyle Türkiye'de en fazla yağışını <strong>yaz mevsiminde</strong> konveksiyonel (ısınma kaynaklı yükselim) olarak alan sahadır. Yaz yağışları ve serin hava nedeniyle bağıl nem oranı yaz aylarında en yüksek bu alandadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de yazın bağıl nemin en yüksek olduğu ve en çok yağış alan alan = <strong>II nolu Erzurum-Kars yöresi</strong>dir."
-},
+    "id": "cogr_hafta3_1-q13",
+    "testId": "cogr_hafta3_1",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+    "topicId": "cogr_hafta3_1",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 13,
+    "questionText": "Bağıl nem sıcaklıkla ters orantılıdır. Bağıl nemin yüksek olduğu mevsimde yağışlar artmaktadır.\n\nYukarıdaki Türkiye haritasındaki numaralandırılmış alanlardan hangisinde bağıl nemin yaz aylarında yüksek olduğu söylenebilir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q13_img.png?v=224.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: Erzurum-Kars Platosu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Bağıl nem, havadaki nem oranının doyma noktasına yaklaşmasıdır ve yağış olasılığıyla doğrudan ilişkilidir.<br>• Haritada gösterilen I (Hakkâri/Güneydoğu), III (Çukurova), IV (Ergene) ve V (Antalya/Muğla) alanları yaz mevsiminde şiddetli sıcaklık ve kuraklık yaşar, bu nedenle yazın bağıl nemleri düşer.<br>• <strong>II numaralı alan (Erzurum-Kars Platosu)</strong> ise sert karasal iklim etkisiyle Türkiye'de en fazla yağışını <strong>yaz mevsiminde</strong> konveksiyonel (ısınma kaynaklı yükselim) olarak alan sahadır. Yaz yağışları ve serin hava nedeniyle bağıl nem oranı yaz aylarında en yüksek bu alandadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de yazın bağıl nemin en yüksek olduğu ve en çok yağış alan alan = <strong>II nolu Erzurum-Kars yöresi</strong>dir."
+  },
   {
-  "id": "cogr_hafta3_1-q14",
-  "testId": "cogr_hafta3_1",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-  "topicId": "cogr_hafta3_1",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 14,
-  "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak koyu renkle gösterilmiştir.\n\nBu alanlardan hangisinde en çok yağışın düştüğü mevsim diğerlerinden farklıdır?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q14_img.png?v=224.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: İç Anadolu / Tuz Gölü güneyi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada gösterilen <strong>I (Güneydoğu Toroslar eteği)</strong>, <strong>III (Çukurova)</strong>, <strong>IV (Güney Marmara)</strong> ve <strong>V (Kıyı Ege / Muğla)</strong> alanlarının tamamı Akdeniz iklimi yağış rejiminin etkisi altındadır ve en çok yağışlarını <strong>KIŞ</strong> mevsiminde cephesel olarak alırlar.<br>• <strong>II numaralı alan (İç Anadolu - Konya/Aksaray çevresi)</strong> ise karasal step iklimi kuşağında yer alır ve en çok yağışını <strong>İLKBAHAR</strong> mevsiminde konveksiyonel (Kırkikindi) yağışları olarak alır. Bu nedenle yağış mevsimi diğer dördünden farklıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> E kuralını unutmayın: İç Anadolu en çok yağışı <strong>İlkbahar</strong>da alır; Akdeniz ve kıyılar <strong>Kış</strong>ın alır."
-},
+    "id": "cogr_hafta3_1-q14",
+    "testId": "cogr_hafta3_1",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+    "topicId": "cogr_hafta3_1",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 14,
+    "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak koyu renkle gösterilmiştir.\n\nBu alanlardan hangisinde en çok yağışın düştüğü mevsim diğerlerinden farklıdır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q14_img.png?v=224.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: İç Anadolu / Tuz Gölü güneyi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada gösterilen <strong>I (Güneydoğu Toroslar eteği)</strong>, <strong>III (Çukurova)</strong>, <strong>IV (Güney Marmara)</strong> ve <strong>V (Kıyı Ege / Muğla)</strong> alanlarının tamamı Akdeniz iklimi yağış rejiminin etkisi altındadır ve en çok yağışlarını <strong>KIŞ</strong> mevsiminde cephesel olarak alırlar.<br>• <strong>II numaralı alan (İç Anadolu - Konya/Aksaray çevresi)</strong> ise karasal step iklimi kuşağında yer alır ve en çok yağışını <strong>İLKBAHAR</strong> mevsiminde konveksiyonel (Kırkikindi) yağışları olarak alır. Bu nedenle yağış mevsimi diğer dördünden farklıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> E kuralını unutmayın: İç Anadolu en çok yağışı <strong>İlkbahar</strong>da alır; Akdeniz ve kıyılar <strong>Kış</strong>ın alır."
+  },
   {
-  "id": "cogr_hafta3_1-q15",
-  "testId": "cogr_hafta3_1",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-  "topicId": "cogr_hafta3_1",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 15,
-  "questionText": "Türkiye'de genel olarak güneyden kuzeye ve batıdan doğuya gidildikçe sıcaklık ortalamalarının azaldığı bilinmektedir.\n\nBu genelleme haritada numaralandırılarak gösterilen doğrultulardan hangisi için geçerli değildir?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q15_img.png?v=224.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı doğrultu: Erzurum-Kars'tan Karadeniz kıyısına)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Genel kural gereği güneyden kuzeye enlemle, batıdan doğuya yükseltiyle sıcaklık düşer (I, II, III ve V numaralı oklarda sıcaklık düzenli azalır).<br>• Ancak <strong>IV numaralı doğrultu</strong>, yaklaşık 2000 metre rakımlı dondurucu Erzurum-Kars Platosu'ndan deniz seviyesindeki ılıman Doğu Karadeniz (Rize-Artvin) kıyı şeridine doğru inmektedir. Kuzeye gidilmesine rağmen rakım aniden 0 metreye indiği ve denizellik devreye girdiği için <strong>sıcaklık azalmaz, tam aksine belirgin biçimde artar</strong>. Bu durum özel konum nedeniyle genel kuralla çelişir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Erzurum'dan Karadeniz kıyısına inildikçe kuzeye gidilmesine rağmen sıcaklık ARTAR (Alçak rakım + Denizellik)."
-},
+    "id": "cogr_hafta3_1-q15",
+    "testId": "cogr_hafta3_1",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+    "topicId": "cogr_hafta3_1",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 15,
+    "questionText": "Türkiye'de genel olarak güneyden kuzeye ve batıdan doğuya gidildikçe sıcaklık ortalamalarının azaldığı bilinmektedir.\n\nBu genelleme haritada numaralandırılarak gösterilen doğrultulardan hangisi için geçerli değildir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q15_img.png?v=224.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı doğrultu: Erzurum-Kars'tan Karadeniz kıyısına)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Genel kural gereği güneyden kuzeye enlemle, batıdan doğuya yükseltiyle sıcaklık düşer (I, II, III ve V numaralı oklarda sıcaklık düzenli azalır).<br>• Ancak <strong>IV numaralı doğrultu</strong>, yaklaşık 2000 metre rakımlı dondurucu Erzurum-Kars Platosu'ndan deniz seviyesindeki ılıman Doğu Karadeniz (Rize-Artvin) kıyı şeridine doğru inmektedir. Kuzeye gidilmesine rağmen rakım aniden 0 metreye indiği ve denizellik devreye girdiği için <strong>sıcaklık azalmaz, tam aksine belirgin biçimde artar</strong>. Bu durum özel konum nedeniyle genel kuralla çelişir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Erzurum'dan Karadeniz kıyısına inildikçe kuzeye gidilmesine rağmen sıcaklık ARTAR (Alçak rakım + Denizellik)."
+  },
   {
-  "id": "cogr_hafta3_1-q16",
-  "testId": "cogr_hafta3_1",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-  "topicId": "cogr_hafta3_1",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 16,
-  "questionText": "Aşağıdaki haritada herhangi bir günde Türkiye'de etkili olan rüzgârların esme yönleri gösterilmiştir.\n\nHaritadaki esme yönleri dikkate alındığında aşağıdaki rüzgâr çiftlerinden hangisi etkili olmaktadır?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q16_img.png?v=224.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "Poyraz ve Lodos"
-    },
-    {
-      "key": "B",
-      "text": "Yıldız ve Samyeli"
-    },
-    {
-      "key": "C",
-      "text": "Karayel ve Yıldız"
-    },
-    {
-      "key": "D",
-      "text": "Karayel ve Poyraz"
-    },
-    {
-      "key": "E",
-      "text": "Samyeli ve Kıble"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (Karayel ve Yıldız)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'de esen yerel rüzgârlar saat yönünde 'KAYIP SAKAL' formülüyle kodlanır:<br>• <strong>Karayel (Kuzeybatı):</strong> Haritanın batısında Marmara ve Ege'ye doğru kuzeybatıdan güneydoğuya esen yatay ok Karayel'dir.<br>• <strong>Yıldız (Tam Kuzey):</strong> Karadeniz üzerinden İç Anadolu'ya doğru dikine güneye inen dikey ok Yıldız rüzgârıdır.<br>Haritada açıkça görülen rüzgâr çifti <strong>Karayel ve Yıldız</strong>'dır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kuzeybatı = <strong>Karayel</strong>, Tam Kuzey = <strong>Yıldız</strong>, Kuzeydoğu = <strong>Poyraz</strong>."
-},
+    "id": "cogr_hafta3_1-q16",
+    "testId": "cogr_hafta3_1",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+    "topicId": "cogr_hafta3_1",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 16,
+    "questionText": "Aşağıdaki haritada herhangi bir günde Türkiye'de etkili olan rüzgârların esme yönleri gösterilmiştir.\n\nHaritadaki esme yönleri dikkate alındığında aşağıdaki rüzgâr çiftlerinden hangisi etkili olmaktadır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q16_img.png?v=224.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "Poyraz ve Lodos"
+      },
+      {
+        "key": "B",
+        "text": "Yıldız ve Samyeli"
+      },
+      {
+        "key": "C",
+        "text": "Karayel ve Yıldız"
+      },
+      {
+        "key": "D",
+        "text": "Karayel ve Poyraz"
+      },
+      {
+        "key": "E",
+        "text": "Samyeli ve Kıble"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Karayel ve Yıldız)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'de esen yerel rüzgârlar saat yönünde 'KAYIP SAKAL' formülüyle kodlanır:<br>• <strong>Karayel (Kuzeybatı):</strong> Haritanın batısında Marmara ve Ege'ye doğru kuzeybatıdan güneydoğuya esen yatay ok Karayel'dir.<br>• <strong>Yıldız (Tam Kuzey):</strong> Karadeniz üzerinden İç Anadolu'ya doğru dikine güneye inen dikey ok Yıldız rüzgârıdır.<br>Haritada açıkça görülen rüzgâr çifti <strong>Karayel ve Yıldız</strong>'dır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kuzeybatı = <strong>Karayel</strong>, Tam Kuzey = <strong>Yıldız</strong>, Kuzeydoğu = <strong>Poyraz</strong>."
+  },
   {
-  "id": "cogr_hafta3_1-q17",
-  "testId": "cogr_hafta3_1",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-  "topicId": "cogr_hafta3_1",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 17,
-  "questionText": "Aşağıdaki Türkiye haritasında beş farklı alan taralı olarak numaralarla gösterilmiştir.\n\nHaritadaki numaralanmış alanlardan hangisinde kış sıcaklık ortalamaları diğerlerinden daha düşüktür?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q17_img.png?v=224.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (V numaralı alan: Hakkâri Yöresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada işaretli I (Ergene/Marmara), II (Antalya kıyısı), III (Çukurova) ve IV (Orta Karadeniz / Ordu-Giresun kıyısı) deniz seviyesine yakın alçak rakımlı sahalardır ve kışları ılık geçer.<br>• <strong>V numaralı alan (Hakkâri Yöresi - Cilo Dağları kuşağı)</strong> ise ortalama yükseltisi 2200-3000 metreyi bulan son derece engebeli ve karasal bir sahadır. Aşırı yükselti ve deniz etkisinden uzaklık sebebiyle kış sıcaklık ortalamaları diğer dört merkeze kıyasla <strong>en düşük</strong> olan yöredir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kışın en soğuk alanlar Doğu Anadolu'nun yüksek platoları ve dağlık yöreleridir (Hakkâri, Erzurum-Kars)."
-},
+    "id": "cogr_hafta3_1-q17",
+    "testId": "cogr_hafta3_1",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+    "topicId": "cogr_hafta3_1",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 17,
+    "questionText": "Aşağıdaki Türkiye haritasında beş farklı alan taralı olarak numaralarla gösterilmiştir.\n\nHaritadaki numaralanmış alanlardan hangisinde kış sıcaklık ortalamaları diğerlerinden daha düşüktür?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q17_img.png?v=224.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (V numaralı alan: Hakkâri Yöresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada işaretli I (Ergene/Marmara), II (Antalya kıyısı), III (Çukurova) ve IV (Orta Karadeniz / Ordu-Giresun kıyısı) deniz seviyesine yakın alçak rakımlı sahalardır ve kışları ılık geçer.<br>• <strong>V numaralı alan (Hakkâri Yöresi - Cilo Dağları kuşağı)</strong> ise ortalama yükseltisi 2200-3000 metreyi bulan son derece engebeli ve karasal bir sahadır. Aşırı yükselti ve deniz etkisinden uzaklık sebebiyle kış sıcaklık ortalamaları diğer dört merkeze kıyasla <strong>en düşük</strong> olan yöredir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kışın en soğuk alanlar Doğu Anadolu'nun yüksek platoları ve dağlık yöreleridir (Hakkâri, Erzurum-Kars)."
+  },
   {
     "id": "cogr_hafta3_2-q1",
     "testId": "cogr_hafta3_2",
@@ -7111,42 +7111,42 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>B</strong> (Yer şekillerinin aşırı engebeli, dağlık ve karstik yapıda olması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Menteşe yöresi Ege'nin en dağlık ve engebeli kesimidir.<br>• Teke ve Taşeli platoları kireçtaşı (kalker) tabakalarından oluşan aşırı engebeli, kireçli, yüzey sularının düdenlerle yeraltına kaçtığı ve tarım toprağının son derece kısıtlı olduğu arazilerdir. Bu nedenle iklimleri ılıman olmasına rağmen nüfusları çok seyrektir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bu yörelerin hiçbirinde don veya yağış yetersizliği yoktur; tam aksine Menteşe yılda 1000 mm'nin üzerinde yağış alır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklimi müsait ve kıyıda olduğu halde yer şekilleri ve karstik yapı yüzünden seyrek nüfuslu yerler: Menteşe, Teke ve Taşeli platolarıdır."
   },
   {
-  "id": "cogr_hafta3_2-q5",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 5,
-  "questionText": "Aşağıdaki harita üzerinde beş farklı alan numaralandırılarak gösterilmiştir.\n\nBu alanların hangisinde nüfus yoğunluğu diğerlerine göre daha azdır?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q22_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı alan: Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>IV numara ile gösterilen yer Akdeniz Bölgesi'ndeki Teke ve Taşeli platolarıdır</strong>.<br>• Bu platolar litolojik olarak kalın kireçtaşı (karstik kalker) tabakalarından oluşur. Yüzey suları düdenlerle derinlere sızdığı için tarımsal sulama ve içme suyu kıttır; toprak tabakası çok incedir ve yer şekilleri son derece engebelidir.<br>• Akdeniz kıyısında ılıman iklim kuşağında yer almasına rağmen karstik yapı ve engebe nedeniyle Türkiye'nin nüfusu <strong>en seyrek</strong> alanlarındandır.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I nolu alan (Çatalca-Kocaeli) ve II nolu alan (Bursa çevresi) sanayi ve ticaretle Türkiye'nin en yoğun nüfuslu yerleridir.<br>• III nolu alan (Gaziantep) ve V nolu alan (Kıyı Ege) tarım, sanayi ve ulaşım olanaklarıyla yoğun nüfusludur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Kıyıda olduğu halde karstik arazi ve engebe yüzünden seyrek nüfuslu alan' = <strong>IV nolu Teke ve Taşeli Platoları</strong>dır."
-},
+    "id": "cogr_hafta3_2-q5",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 5,
+    "questionText": "Aşağıdaki harita üzerinde beş farklı alan numaralandırılarak gösterilmiştir.\n\nBu alanların hangisinde nüfus yoğunluğu diğerlerine göre daha azdır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q22_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı alan: Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>IV numara ile gösterilen yer Akdeniz Bölgesi'ndeki Teke ve Taşeli platolarıdır</strong>.<br>• Bu platolar litolojik olarak kalın kireçtaşı (karstik kalker) tabakalarından oluşur. Yüzey suları düdenlerle derinlere sızdığı için tarımsal sulama ve içme suyu kıttır; toprak tabakası çok incedir ve yer şekilleri son derece engebelidir.<br>• Akdeniz kıyısında ılıman iklim kuşağında yer almasına rağmen karstik yapı ve engebe nedeniyle Türkiye'nin nüfusu <strong>en seyrek</strong> alanlarındandır.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I nolu alan (Çatalca-Kocaeli) ve II nolu alan (Bursa çevresi) sanayi ve ticaretle Türkiye'nin en yoğun nüfuslu yerleridir.<br>• III nolu alan (Gaziantep) ve V nolu alan (Kıyı Ege) tarım, sanayi ve ulaşım olanaklarıyla yoğun nüfusludur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Kıyıda olduğu halde karstik arazi ve engebe yüzünden seyrek nüfuslu alan' = <strong>IV nolu Teke ve Taşeli Platoları</strong>dır."
+  },
   {
     "id": "cogr_hafta3_2-q6",
     "testId": "cogr_hafta3_2",
@@ -7185,42 +7185,42 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TÜİK güncel demografik verilerine göre Türkiye'de genel okur-yazarlık oranı ve iş gücüne/istihdama katılım oranı <strong>erkeklerde kadınlara göre daha yüksektir</strong>. Dolayısıyla kadın nüfusun oranının erkeklerden yüksek olduğunu belirten E seçeneği yanlıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Doğurganlık hızı 1.51'e kadar gerilemiştir (nüfus yaşlanma sürecindedir). Ortanca yaş 34'ü aşmıştır. Kent nüfusu büyükşehir yasalarıyla %93'ü bulmuştur. İstihdamın %55-60'ı hizmet sektöründedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye gelişmekte olan bir ülkeden 'olgun/yaşlanan demografik yapıya' geçiş yapmaktadır; ortanca yaş artmakta, çocuk nüfus payı azalmaktadır."
   },
   {
-  "id": "cogr_hafta3_2-q7",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 7,
-  "questionText": "Tarımsal nüfus yoğunluğunun fazla olduğu yerlerde genel olarak;\n• Tarım alanları dardır.\n• Tarımla uğraşan nüfus fazladır.\n\nBuna göre, harita üzerinde numaralandırılarak verilen yerlerin hangisinde tarımsal nüfus yoğunluğunun diğerlerine göre daha fazla olması beklenir?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q24_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı alan: Doğu Karadeniz kıyı ardı / Rize-Trabzon)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <em>Tarımsal Nüfus Yoğunluğu = Tarımda Çalışan Nüfus / Tarım Alanı</em> formülüyle hesaplanır.<br>• Haritada <strong>IV numaralı alan (Doğu Karadeniz dağlık kuşağı)</strong> dik yamaçlar ve aşırı engebe nedeniyle ekilebilir tarım arazisinin en dar olduğu sahadır. Çay ve fındık tarımında makine kullanılamadığı için yoğun insan gücü çalışır. Dar alana çok sayıda çiftçi düştüğü için tarımsal nüfus yoğunluğu <strong>en yüksek</strong> çıkar.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I (Ergene), II (Konya Ovası), III (Çukurova) ve V (Güneydoğu Anadolu) geniş ve düz ova alanlarıdır. Tarım arazileri devasa büyüklükte ve makineli tarım yaygın olduğu için tarımsal nüfus yoğunluğu düşüktür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tarımsal nüfus yoğunluğu en yüksek: <strong>Doğu Karadeniz (IV) ve Hakkari</strong>; en düşük: <strong>İç Anadolu ve Marmara</strong>dır."
-},
+    "id": "cogr_hafta3_2-q7",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 7,
+    "questionText": "Tarımsal nüfus yoğunluğunun fazla olduğu yerlerde genel olarak;\n• Tarım alanları dardır.\n• Tarımla uğraşan nüfus fazladır.\n\nBuna göre, harita üzerinde numaralandırılarak verilen yerlerin hangisinde tarımsal nüfus yoğunluğunun diğerlerine göre daha fazla olması beklenir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q24_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı alan: Doğu Karadeniz kıyı ardı / Rize-Trabzon)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <em>Tarımsal Nüfus Yoğunluğu = Tarımda Çalışan Nüfus / Tarım Alanı</em> formülüyle hesaplanır.<br>• Haritada <strong>IV numaralı alan (Doğu Karadeniz dağlık kuşağı)</strong> dik yamaçlar ve aşırı engebe nedeniyle ekilebilir tarım arazisinin en dar olduğu sahadır. Çay ve fındık tarımında makine kullanılamadığı için yoğun insan gücü çalışır. Dar alana çok sayıda çiftçi düştüğü için tarımsal nüfus yoğunluğu <strong>en yüksek</strong> çıkar.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I (Ergene), II (Konya Ovası), III (Çukurova) ve V (Güneydoğu Anadolu) geniş ve düz ova alanlarıdır. Tarım arazileri devasa büyüklükte ve makineli tarım yaygın olduğu için tarımsal nüfus yoğunluğu düşüktür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tarımsal nüfus yoğunluğu en yüksek: <strong>Doğu Karadeniz (IV) ve Hakkari</strong>; en düşük: <strong>İç Anadolu ve Marmara</strong>dır."
+  },
   {
     "id": "cogr_hafta3_2-q8",
     "testId": "cogr_hafta3_2",
@@ -7259,116 +7259,116 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>E</strong> (Kocaeli)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kocaeli (Gebze, İzmit) Türkiye'nin sanayi kalbidir. Sanayi, liman ve inşaat sektörlerindeki yoğun iş gücü talebi nedeniyle ülke genelinden çalışmak üzere göç eden erkek iş gücünü mıknatıs gibi çeker; bu yüzden erkek nüfus oranı kadın nüfustan fazladır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kastamonu, Sinop, Artvin ve Muş sanayisi gelişmemiş, sürekli dışarıya göç veren illerdir. Erkek nüfus büyük şehirlere çalışmaya gittiği için bu illerde kadın nüfus oranı daha fazladır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Göç alan sanayi kentlerinde (Kocaeli, İstanbul, Tekirdağ) erkek nüfus fazladır; göç veren kırsal illerde kadın nüfus oranı fazladır."
   },
   {
-  "id": "cogr_hafta3_2-q9",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 9,
-  "questionText": "Aşağıdaki haritada dört farklı bölge numaralandırılarak verilmiştir.\n\nBuna göre, haritada verilen bölgelerden hangilerinde nüfusun dağılışında sanayi kuruluşlarının etkisi daha fazladır?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q26_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I ve II"
-    },
-    {
-      "key": "B",
-      "text": "I ve III"
-    },
-    {
-      "key": "C",
-      "text": "II ve III"
-    },
-    {
-      "key": "D",
-      "text": "II ve IV"
-    },
-    {
-      "key": "E",
-      "text": "III ve IV"
-    }
-  ],
-  "correctAnswer": "A",
-  "explanation": "Doğru Cevap: <strong>A</strong> (I ve II: Çatalca-Kocaeli & Bursa Yöresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>I numara (İstanbul - Kocaeli aksı)</strong> ve <strong>II numara (Güney Marmara - Bursa çevresi)</strong> Türkiye sanayisinin, fabrikalarının ve organize sanayi bölgelerinin kalbidir. İş imkânları nedeniyle devasa göç almış ve sanayiye bağlı olarak yoğun nüfuslanmıştır.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• III numara (Menteşe Dağlık Yöresi) ve IV numara (Kuzeydoğu Anadolu / Kars çevresi) engebeli arazi, iklim veya sapa konum nedeniyle sanayileşememiş, seyrek nüfuslu alanlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sanayiye bağlı nüfus yoğunluğu denildiğinde haritada aranacak ilk yerler: <strong>Çatalca-Kocaeli (I) ve Bursa (II)</strong> aksıdır."
-},
+    "id": "cogr_hafta3_2-q9",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 9,
+    "questionText": "Aşağıdaki haritada dört farklı bölge numaralandırılarak verilmiştir.\n\nBuna göre, haritada verilen bölgelerden hangilerinde nüfusun dağılışında sanayi kuruluşlarının etkisi daha fazladır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q26_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "II ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve IV"
+      },
+      {
+        "key": "E",
+        "text": "III ve IV"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II: Çatalca-Kocaeli & Bursa Yöresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>I numara (İstanbul - Kocaeli aksı)</strong> ve <strong>II numara (Güney Marmara - Bursa çevresi)</strong> Türkiye sanayisinin, fabrikalarının ve organize sanayi bölgelerinin kalbidir. İş imkânları nedeniyle devasa göç almış ve sanayiye bağlı olarak yoğun nüfuslanmıştır.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• III numara (Menteşe Dağlık Yöresi) ve IV numara (Kuzeydoğu Anadolu / Kars çevresi) engebeli arazi, iklim veya sapa konum nedeniyle sanayileşememiş, seyrek nüfuslu alanlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sanayiye bağlı nüfus yoğunluğu denildiğinde haritada aranacak ilk yerler: <strong>Çatalca-Kocaeli (I) ve Bursa (II)</strong> aksıdır."
+  },
   {
-  "id": "cogr_hafta3_2-q10",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 10,
-  "questionText": "Yukarıdaki grafikte Türkiye'nin 1927 - 2020 yılları arasındaki nüfus artış hızı gösterilmiştir.\n\nBuna göre;\nI. Nüfus yoğunluğunun fazla olduğu bölgelere,\nII. Nüfus artış hızının en az olduğu döneme,\nIII. Toplam nüfus miktarına\n\nbilgilerinden hangilerine kesinlikle ulaşılabilir?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q27_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "Yalnız I"
-    },
-    {
-      "key": "B",
-      "text": "Yalnız II"
-    },
-    {
-      "key": "C",
-      "text": "I ve II"
-    },
-    {
-      "key": "D",
-      "text": "II ve III"
-    },
-    {
-      "key": "E",
-      "text": "I, II ve III"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II: Nüfus artış hızının en az olduğu döneme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Grafikte verilen değer dikey eksende ‰ (binde) olarak gösterilen <strong>nüfus artış hızı</strong>dır. Bu grafikten artış hızının dip yaptığı 1940-1945 dönemi (II. Dünya Savaşı seferberlik yılları, ‰10.5) kesin olarak okunabilir (Yalnız II).<br><br>🔍 <strong>Çeldirici Öncüllerin Analizi:</strong><br>• <em>I. Öncül:</em> Grafik ulusal artış hızını verir; bölgelerin nüfus dağılışına ve yoğunluğuna ulaşılamaz.<br>• <em>III. Öncül:</em> Sadece 'hız' grafiğine bakarak toplam kişi sayısı (nüfus miktarı) bilinemez; bunun için başlangıç yılının kesin nüfus miktarının verilmesi gerekir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Nüfus artış hızı binde değeri 0'ın altına inmedikçe ülkenin toplam nüfusu artmaya devam eder! Hızın azalması nüfusun azaldığı anlamına gelmez."
-},
+    "id": "cogr_hafta3_2-q10",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 10,
+    "questionText": "Yukarıdaki grafikte Türkiye'nin 1927 - 2020 yılları arasındaki nüfus artış hızı gösterilmiştir.\n\nBuna göre;\nI. Nüfus yoğunluğunun fazla olduğu bölgelere,\nII. Nüfus artış hızının en az olduğu döneme,\nIII. Toplam nüfus miktarına\n\nbilgilerinden hangilerine kesinlikle ulaşılabilir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q27_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II: Nüfus artış hızının en az olduğu döneme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Grafikte verilen değer dikey eksende ‰ (binde) olarak gösterilen <strong>nüfus artış hızı</strong>dır. Bu grafikten artış hızının dip yaptığı 1940-1945 dönemi (II. Dünya Savaşı seferberlik yılları, ‰10.5) kesin olarak okunabilir (Yalnız II).<br><br>🔍 <strong>Çeldirici Öncüllerin Analizi:</strong><br>• <em>I. Öncül:</em> Grafik ulusal artış hızını verir; bölgelerin nüfus dağılışına ve yoğunluğuna ulaşılamaz.<br>• <em>III. Öncül:</em> Sadece 'hız' grafiğine bakarak toplam kişi sayısı (nüfus miktarı) bilinemez; bunun için başlangıç yılının kesin nüfus miktarının verilmesi gerekir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Nüfus artış hızı binde değeri 0'ın altına inmedikçe ülkenin toplam nüfusu artmaya devam eder! Hızın azalması nüfusun azaldığı anlamına gelmez."
+  },
   {
-  "id": "cogr_hafta3_2-q11",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 11,
-  "questionText": "Türkiye haritası üzerinde beş farklı yer numaralandırılarak verilmiştir.\n\nBuna göre, haritada numaralandırılan yerlerle ilgili aşağıdakilerden hangisi söylenemez?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q28_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I numaralı yerde nüfusun yoğun olmasında tarım ve sanayi faaliyetleri etkilidir."
-    },
-    {
-      "key": "B",
-      "text": "II numaralı yerde nüfusun yoğun olmasında şehrin idari fonksiyonu etkilidir."
-    },
-    {
-      "key": "C",
-      "text": "III numaralı yerde tarımda kuraklık sorunu nedeniyle nüfus yoğunluğu azdır."
-    },
-    {
-      "key": "D",
-      "text": "IV numaralı yerde yaz mevsiminde nüfus yoğunluğu artmaktadır."
-    },
-    {
-      "key": "E",
-      "text": "V numaralı yerde kıyıdan iç kesimlere gittikçe nüfus artış gösterir."
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (V numaralı yerde kıyıdan iç kesimlere gittikçe nüfus artış gösterir - Yanlış)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>V numara ile gösterilen Doğu Karadeniz</strong>'de dağlar kıyıya paralel ve hemen kıyıdan itibaren çok yüksek uzanır (Kaçkar Dağları). Kıyıdan iç kesimlere gidildikçe rakım hızla artar, iklim sertleşir ve arazi dikleşir. Bu yüzden nüfus iç kesimlerde artmaz, tam aksine <strong>şiddetle azalır</strong>; bölge nüfusunun %85'i dar kıyı şeridinde toplanmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A şıkkı: I Çukurova'dır (tarım + sanayi ile yoğundur).<br>• B şıkkı: II Ankara'dır (başkent/idari fonksiyon ile yoğundur).<br>• C şıkkı: III Tuz Gölü güneyidir (kuraklık nedeniyle seyrektir).<br>• D şıkkı: IV Antalya kıyısıdır (yaz turizmiyle nüfus patlaması yaşar).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz'de iç kesimler dağlık ve soğuk olduğu için nüfus kıyı şeridinde sıkışmıştır."
-},
+    "id": "cogr_hafta3_2-q11",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 11,
+    "questionText": "Türkiye haritası üzerinde beş farklı yer numaralandırılarak verilmiştir.\n\nBuna göre, haritada numaralandırılan yerlerle ilgili aşağıdakilerden hangisi söylenemez?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q28_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I numaralı yerde nüfusun yoğun olmasında tarım ve sanayi faaliyetleri etkilidir."
+      },
+      {
+        "key": "B",
+        "text": "II numaralı yerde nüfusun yoğun olmasında şehrin idari fonksiyonu etkilidir."
+      },
+      {
+        "key": "C",
+        "text": "III numaralı yerde tarımda kuraklık sorunu nedeniyle nüfus yoğunluğu azdır."
+      },
+      {
+        "key": "D",
+        "text": "IV numaralı yerde yaz mevsiminde nüfus yoğunluğu artmaktadır."
+      },
+      {
+        "key": "E",
+        "text": "V numaralı yerde kıyıdan iç kesimlere gittikçe nüfus artış gösterir."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (V numaralı yerde kıyıdan iç kesimlere gittikçe nüfus artış gösterir - Yanlış)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>V numara ile gösterilen Doğu Karadeniz</strong>'de dağlar kıyıya paralel ve hemen kıyıdan itibaren çok yüksek uzanır (Kaçkar Dağları). Kıyıdan iç kesimlere gidildikçe rakım hızla artar, iklim sertleşir ve arazi dikleşir. Bu yüzden nüfus iç kesimlerde artmaz, tam aksine <strong>şiddetle azalır</strong>; bölge nüfusunun %85'i dar kıyı şeridinde toplanmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A şıkkı: I Çukurova'dır (tarım + sanayi ile yoğundur).<br>• B şıkkı: II Ankara'dır (başkent/idari fonksiyon ile yoğundur).<br>• C şıkkı: III Tuz Gölü güneyidir (kuraklık nedeniyle seyrektir).<br>• D şıkkı: IV Antalya kıyısıdır (yaz turizmiyle nüfus patlaması yaşar).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz'de iç kesimler dağlık ve soğuk olduğu için nüfus kıyı şeridinde sıkışmıştır."
+  },
   {
     "id": "cogr_hafta3_2-q12",
     "testId": "cogr_hafta3_2",
@@ -7444,153 +7444,153 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Antalya yaz aylarında deniz turizmi sayesinde milyonlarca yerli-yabancı turisti ve turizm emekçisini çekerek nüfusunu katlar (I).<br>• Adana/Çukurova ilkbahar ve sonbahar döneminde pamuk, karpuz ve narenciye hasadı için Güneydoğu'dan yüz binlerce mevsimlik tarım işçisi alır (III).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sivas ve Afyon mevsimlik yoğun işçi göçü mıknatısı değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevsimlik tarım göçü çeken yerler: Çukurova (pamuk), Ordu-Giresun (fındık), Rize (çay), Malatya (kayısı), Ege (üzüm/tütün)."
   },
   {
-  "id": "cogr_hafta3_2-q14",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 14,
-  "questionText": "Türkiye'de kırsal alanlarda tarımda makine kullanımının artması sebebiyle işsiz kalan insanlar kentlere doğru göç etmek zorunda kalmışlardır.\n\nBu duruma bağlı olarak; harita üzerinde numaralandırılmış yerlerin hangisi daha çok göç vermiştir?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q31_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: İç Anadolu / Konya Ovası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Tarımda makineleşmenin (traktör, biçerdöver) insan gücünün yerini alarak işsizliğe ve dış göçe yol açabilmesi için <strong>arazinin düz ve makine kullanımına elverişli olması</strong> gerekir.<br>• Haritada <strong>II numara ile gösterilen İç Anadolu (Konya Ovası ve çevresi)</strong> Türkiye'nin en geniş tahıl tarlalarına ve düz arazilerine sahiptir. Makineleşme çok yaygınlaşmış, 100 kişinin yapacağı hasat bir biçerdöverle yapıldığı için kırsalda işsiz kalan nüfus büyük kentlere yoğun göç vermiştir.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• Haritada gösterilen I (Yıldız Dağları), III (Doğu Karadeniz), IV (Hakkari) ve V (Menteşe) gibi dağlık yörelerde yer şekilleri engebeli olduğundan makine kullanımı kısıtlıdır; buralardaki göç makineleşmeden değil arazinin yetersizliğinden kaynaklanır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Tarımda makineleşme en çok nerede göçe yol açar?' = <strong>Düz tarım ovaları (İç Anadolu, Güneydoğu)</strong>."
-},
+    "id": "cogr_hafta3_2-q14",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 14,
+    "questionText": "Türkiye'de kırsal alanlarda tarımda makine kullanımının artması sebebiyle işsiz kalan insanlar kentlere doğru göç etmek zorunda kalmışlardır.\n\nBu duruma bağlı olarak; harita üzerinde numaralandırılmış yerlerin hangisi daha çok göç vermiştir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q31_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: İç Anadolu / Konya Ovası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Tarımda makineleşmenin (traktör, biçerdöver) insan gücünün yerini alarak işsizliğe ve dış göçe yol açabilmesi için <strong>arazinin düz ve makine kullanımına elverişli olması</strong> gerekir.<br>• Haritada <strong>II numara ile gösterilen İç Anadolu (Konya Ovası ve çevresi)</strong> Türkiye'nin en geniş tahıl tarlalarına ve düz arazilerine sahiptir. Makineleşme çok yaygınlaşmış, 100 kişinin yapacağı hasat bir biçerdöverle yapıldığı için kırsalda işsiz kalan nüfus büyük kentlere yoğun göç vermiştir.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• Haritada gösterilen I (Yıldız Dağları), III (Doğu Karadeniz), IV (Hakkari) ve V (Menteşe) gibi dağlık yörelerde yer şekilleri engebeli olduğundan makine kullanımı kısıtlıdır; buralardaki göç makineleşmeden değil arazinin yetersizliğinden kaynaklanır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Tarımda makineleşme en çok nerede göçe yol açar?' = <strong>Düz tarım ovaları (İç Anadolu, Güneydoğu)</strong>."
+  },
   {
-  "id": "cogr_hafta3_2-q15",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 15,
-  "questionText": "Harita üzerinde numaralandırılarak verilen yerlerin hangisi turizm faaliyetleri nedeniyle diğerlerine göre daha fazla mevsimlik göç almaktadır?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q32_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "A",
-  "explanation": "Doğru Cevap: <strong>A</strong> (I numaralı alan: Antalya / Alanya-Manavgat kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>I numara ile gösterilen saha Akdeniz kıyısında Antalya (Alanya, Manavgat, Kemer)</strong> turizm kuşağıdır.<br>• Yaz aylarında deniz, kum, güneş turizminin açılmasıyla birlikte hem milyonlarca yerli ve yabancı turist hem de oteller, restoranlar ve eğlence sektöründe çalışmak üzere Türkiye'nin dört bir yanından yüz binlerce mevsimlik işçi bu alana göç eder.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• II (İç Anadolu), III (Orta Karadeniz), IV (Doğu Anadolu) ve V (Güneydoğu Anadolu) yaz mevsiminde yoğun deniz turizmi göçü alan merkezler değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaz mevsiminde turizm kaynaklı geçici nüfus patlamasında Türkiye lideri <strong>Antalya ve Kıyı Ege (Muğla)</strong> sahilleridir."
-},
+    "id": "cogr_hafta3_2-q15",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 15,
+    "questionText": "Harita üzerinde numaralandırılarak verilen yerlerin hangisi turizm faaliyetleri nedeniyle diğerlerine göre daha fazla mevsimlik göç almaktadır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q32_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numaralı alan: Antalya / Alanya-Manavgat kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>I numara ile gösterilen saha Akdeniz kıyısında Antalya (Alanya, Manavgat, Kemer)</strong> turizm kuşağıdır.<br>• Yaz aylarında deniz, kum, güneş turizminin açılmasıyla birlikte hem milyonlarca yerli ve yabancı turist hem de oteller, restoranlar ve eğlence sektöründe çalışmak üzere Türkiye'nin dört bir yanından yüz binlerce mevsimlik işçi bu alana göç eder.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• II (İç Anadolu), III (Orta Karadeniz), IV (Doğu Anadolu) ve V (Güneydoğu Anadolu) yaz mevsiminde yoğun deniz turizmi göçü alan merkezler değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaz mevsiminde turizm kaynaklı geçici nüfus patlamasında Türkiye lideri <strong>Antalya ve Kıyı Ege (Muğla)</strong> sahilleridir."
+  },
   {
-  "id": "cogr_hafta3_2-q16",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 16,
-  "questionText": "Harita üzerinde beş farklı alan numaralandırılarak gösterilmiştir.\n\nBu alanların hangisi daha fazla tarımsal amaçlı mevsimlik göç alır?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q33_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (III numaralı alan: Doğu Karadeniz / Ordu-Giresun kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>III numara ile gösterilen yer Orta ve Doğu Karadeniz kıyıları (Ordu-Giresun ve Trabzon)</strong> kuşağıdır.<br>• Türkiye dünya fındık üretiminin lideridir. Her yıl ağustos ve eylül aylarında fındık bahçelerinde hasat yapmak amacıyla başta Doğu ve Güneydoğu Anadolu olmak üzere Türkiye'nin birçok ilinden yüz binlerce mevsimlik tarım işçisi bu yöreye göç eder.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I (Trakya/Ergene), II (Güney Ege), IV (İç Anadolu) ve V (Hakkari) yörelerinde fındık gibi yüz binlerce mevsimlik işçiyi çeken devasa tarımsal hasat göçü yaşanmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevsimlik tarım göçü: <strong>Ordu-Giresun (Fındık - III)</strong>, Adana/Çukurova (Pamuk), Malatya (Kayısı), Rize (Çay)."
-},
+    "id": "cogr_hafta3_2-q16",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 16,
+    "questionText": "Harita üzerinde beş farklı alan numaralandırılarak gösterilmiştir.\n\nBu alanların hangisi daha fazla tarımsal amaçlı mevsimlik göç alır?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q33_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (III numaralı alan: Doğu Karadeniz / Ordu-Giresun kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>III numara ile gösterilen yer Orta ve Doğu Karadeniz kıyıları (Ordu-Giresun ve Trabzon)</strong> kuşağıdır.<br>• Türkiye dünya fındık üretiminin lideridir. Her yıl ağustos ve eylül aylarında fındık bahçelerinde hasat yapmak amacıyla başta Doğu ve Güneydoğu Anadolu olmak üzere Türkiye'nin birçok ilinden yüz binlerce mevsimlik tarım işçisi bu yöreye göç eder.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I (Trakya/Ergene), II (Güney Ege), IV (İç Anadolu) ve V (Hakkari) yörelerinde fındık gibi yüz binlerce mevsimlik işçiyi çeken devasa tarımsal hasat göçü yaşanmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevsimlik tarım göçü: <strong>Ordu-Giresun (Fındık - III)</strong>, Adana/Çukurova (Pamuk), Malatya (Kayısı), Rize (Çay)."
+  },
   {
-  "id": "cogr_hafta3_2-q17",
-  "testId": "cogr_hafta3_2",
-  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-  "topicId": "cogr_hafta3_2",
-  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-  "category": "Cografya",
-  "icon": "globe",
-  "questionNumber": 17,
-  "questionText": "Tarımda sulamanın yaygınlaştırılması kırsal alanlardan kentsel alanlara göçün azalmasını sağlayacaktır.\n\nBu durum yukarıdaki haritada işaretli bölgelerden hangisi için geçerli değildir?",
-  "hasImage": true,
-  "image": "assets/questions/cogr_h3_q34_img.png?v=226.0",
-  "options": [
-    {
-      "key": "A",
-      "text": "I"
-    },
-    {
-      "key": "B",
-      "text": "II"
-    },
-    {
-      "key": "C",
-      "text": "III"
-    },
-    {
-      "key": "D",
-      "text": "IV"
-    },
-    {
-      "key": "E",
-      "text": "V"
-    }
-  ],
-  "correctAnswer": "A",
-  "explanation": "Doğru Cevap: <strong>A</strong> (I numaralı alan: Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kurak ve yarı kurak bölgelerde sulama imkânlarının artması (GAP, KOP projeleri gibi), nadas alanlarını kaldırır, ürün çeşitliliğini ve verimini artırarak çiftçinin gelirini yükseltir ve göçü önler.<br>• Ancak haritada <strong>I numara ile gösterilen Doğu Karadeniz kıyı kuşağı</strong> her mevsim bol ve düzenli yağış alan Karadeniz iklimine sahiptir. Çay ve mısır tarımında zaten yapay sulamaya ihtiyaç duyulmaz. Dolayısıyla sulamanın yaygınlaştırılması bu bölgede göçü etkileyen veya azaltan bir faktör <strong>değildir</strong>.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• II (İç Anadolu), III (Güneydoğu Anadolu), IV (Iğdır Ovası) ve V (İç Batı Anadolu) kurak veya yarı kurak alanlar olup sulama yatırımları tarımı canlandırıp göçü azaltır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sulamaya en az ihtiyaç duyulan bölge = <strong>I nolu Doğu Karadeniz kıyıları</strong>dır."
-},
+    "id": "cogr_hafta3_2-q17",
+    "testId": "cogr_hafta3_2",
+    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+    "topicId": "cogr_hafta3_2",
+    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+    "category": "Cografya",
+    "icon": "globe",
+    "questionNumber": 17,
+    "questionText": "Tarımda sulamanın yaygınlaştırılması kırsal alanlardan kentsel alanlara göçün azalmasını sağlayacaktır.\n\nBu durum yukarıdaki haritada işaretli bölgelerden hangisi için geçerli değildir?",
+    "hasImage": true,
+    "image": "assets/questions/cogr_h3_q34_img.png?v=226.0",
+    "options": [
+      {
+        "key": "A",
+        "text": "I"
+      },
+      {
+        "key": "B",
+        "text": "II"
+      },
+      {
+        "key": "C",
+        "text": "III"
+      },
+      {
+        "key": "D",
+        "text": "IV"
+      },
+      {
+        "key": "E",
+        "text": "V"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (I numaralı alan: Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kurak ve yarı kurak bölgelerde sulama imkânlarının artması (GAP, KOP projeleri gibi), nadas alanlarını kaldırır, ürün çeşitliliğini ve verimini artırarak çiftçinin gelirini yükseltir ve göçü önler.<br>• Ancak haritada <strong>I numara ile gösterilen Doğu Karadeniz kıyı kuşağı</strong> her mevsim bol ve düzenli yağış alan Karadeniz iklimine sahiptir. Çay ve mısır tarımında zaten yapay sulamaya ihtiyaç duyulmaz. Dolayısıyla sulamanın yaygınlaştırılması bu bölgede göçü etkileyen veya azaltan bir faktör <strong>değildir</strong>.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• II (İç Anadolu), III (Güneydoğu Anadolu), IV (Iğdır Ovası) ve V (İç Batı Anadolu) kurak veya yarı kurak alanlar olup sulama yatırımları tarımı canlandırıp göçü azaltır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sulamaya en az ihtiyaç duyulan bölge = <strong>I nolu Doğu Karadeniz kıyıları</strong>dır."
+  },
   {
     "id": "cogr_hafta3_3-q1",
     "testId": "cogr_hafta3_3",
@@ -7674,33 +7674,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 3,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nYayla; genellikle ilkbahar ve yaz mevsimlerinde yüksek kesimlerdeki gür ot topluluklarından hayvancılık yapmak ve son yıllarda da doğa turizmi amacıyla yararlanmak için kullanılan geçici bir köy altı yerleşmesidir.\n\nBuna göre, Türkiye'de yaylacılık faaliyetlerinin gerek hayvancılık gerekse turizm açısından en gelişmiş ve en yaygın olduğu coğrafi alan aşağıdakilerden hangisidir?",
+    "questionText": "Yayla; genellikle ilkbahar ve yaz mevsimlerinde yüksek kesimlerdeki gür ot topluluklarından hayvancılık yapmak ve son yıllarda da doğa turizmi amacıyla yararlanmak için kullanılan geçici bir köy altı yerleşmesidir.\n\nBuna göre, harita üzerinde numaralanmış alanların hangisinde yaylacılık faaliyetleri en yaygındır?",
     "hasImage": true,
     "image": "assets/questions/cogr_h3_q37_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Güneydoğu Anadolu ovaları"
+        "text": "I (Marmara / Ergene Havzası)"
       },
       {
         "key": "B",
-        "text": "Marmara / Ergene Bölümü"
+        "text": "II (Kıyı Ege)"
       },
       {
         "key": "C",
-        "text": "Tuz Gölü Havzası"
+        "text": "III (İç Anadolu / Tuz Gölü Çevresi)"
       },
       {
         "key": "D",
-        "text": "Gaziantep Platosu"
+        "text": "IV (Güneydoğu Anadolu)"
       },
       {
         "key": "E",
-        "text": "Doğu Karadeniz ve Toros Dağları kuşağı"
+        "text": "V (Doğu Karadeniz Dağları)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Karadeniz ve Toros Dağları kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Yaylacılık dağlık alanlardaki yüksek otlaklara çıkma faaliyetidir. Türkiye'de yaylacılığın kalbi Doğu Karadeniz (Ayder, Pokut, Anzer) ve Akdeniz'deki Toros Dağları'dır (yaylaya çıkıp yaz sıcağından korunma ve hayvancılık).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene ve Güneydoğu düzlüktür; buralarda yayla yerleşmesi bulunmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Köy altı yerleşmeleri içerisinde en yaygın olanı <strong>Yayla</strong>dır. Günümüzde Karadeniz'de yaylalar turizm fonksiyonu da kazanmıştır."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V - Doğu Karadeniz Dağları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada V numara ile gösterilen Doğu Karadeniz Dağları (Kaçkarlar, Rize-Trabzon dağlık kuşağı), bol yağış ve serin iklim sayesinde gür alpin çayırların yer aldığı en önemli yaylacılık sahasıdır. Türkiye'de yaylacılığın kalbi Doğu Karadeniz ve Akdeniz'deki Toros Dağları'dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I (Ergene), II (Kıyı Ege), III (Tuz Gölü çevresi) ve IV (Güneydoğu) düz ovalık/platoluk araziler olup buralarda yaylacılık faaliyetleri bulunmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Köy altı yerleşmeleri içerisinde sayıca en fazla ve en yaygın olanı <strong>Yayla</strong>dır. Günümüzde Karadeniz yaylaları turizm fonksiyonuyla da öne çıkmaktadır."
   },
   {
     "id": "cogr_hafta3_3-q4",
@@ -7970,21 +7970,21 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "globe",
     "questionNumber": 11,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de yükseltisi fazla olan dağlık ve yaylalık alanlarda ilkbahar ve yaz aylarında yaylacılık faaliyetleri yoğunlaşmaktadır.\n\nAşağıda verilen il çiftlerinin hangisinde yayla yerleşmelerine ve yaylacılık faaliyetlerine en sık rastlanır?",
+    "questionText": "Aşağıdaki Türkiye haritasında dört farklı il gösterilmiştir:\n\nHaritada gösterilen bu illerin coğrafi özellikleri dikkate alındığında, hangilerinde yayla yerleşmelerine ve yaylacılık faaliyetlerine daha sık rastlanır?",
     "hasImage": true,
     "image": "assets/questions/cogr_h3_q45_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Tekirdağ - Edirne"
+        "text": "Tekirdağ - Trabzon"
       },
       {
         "key": "B",
-        "text": "Şanlıurfa - Mardin"
+        "text": "Tekirdağ - Şanlıurfa"
       },
       {
         "key": "C",
-        "text": "Kırklareli - Tekirdağ"
+        "text": "Trabzon - Şanlıurfa"
       },
       {
         "key": "D",
@@ -7992,11 +7992,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "Diyarbakır - Batman"
+        "text": "Kars - Şanlıurfa"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Trabzon - Kars)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Trabzon (Doğu Karadeniz Dağları) ve Kars (Erzurum-Kars Platosu ve Yalnızçam Dağları) yüksek rakımlı, gür alpin çayırların bulunduğu alanlardır. Türkiye'de yaz aylarında yaylacılık faaliyetlerinin ve yayla yerleşmelerinin en yoğun olduğu iller Trabzon ve Kars'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tekirdağ, Edirne, Şanlıurfa ve Mardin düz ova/plato niteliğindedir; yaylacılık yapılmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaylacılık en çok Karadeniz ve Toroslar kuşağında yapılır."
+    "explanation": "Doğru Cevap: <strong>D</strong> (Trabzon - Kars)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada işaretli illerden Trabzon (Doğu Karadeniz Dağları) ve Kars (Erzurum-Kars Platosu ve Yalnızçam Dağları) yüksek rakımlı, yazın serin ve gür alpin çayırlarla kaplı alanlardır. Bu nedenle Türkiye'de yayla yerleşmeleri ve yaylacılık faaliyetlerinin en yoğun olduğu il çifti Trabzon ve Kars'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tekirdağ (Ergene Havzası) ve Şanlıurfa (Güneydoğu platosu) düz ova ve alçak plato niteliğinde olup buralarda yaylacılık faaliyetleri yapılmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaylacılık en çok Karadeniz ve Toroslar kuşağında ile Erzurum-Kars yüksek platolarında yapılır."
   },
   {
     "id": "cogr_hafta3_3-q12",
@@ -8340,33 +8340,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 5,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'deki bazı şehirlerin öne çıkan temel ekonomik fonksiyonları aşağıdakilerin hangisinde doğru eşleştirilmiştir?\n\n• Zonguldak\n• Antalya\n• İzmit (Kocaeli)\n• Rize",
+    "questionText": "Yukarıdaki Türkiye haritasında dört il numaralandırılarak gösterilmiştir.\n\nHaritada gösterilen illerin öne çıkan temel ekonomik fonksiyonları aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q5_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Zonguldak: Madencilik / Antalya: Turizm / İzmit: Sanayi / Rize: Tarım"
+        "text": "I: Sanayi / II: Turizm / III: Maden / IV: Tarım"
       },
       {
         "key": "B",
-        "text": "Zonguldak: Tarım / Antalya: Madencilik / İzmit: Turizm / Rize: Sanayi"
+        "text": "I: Tarım / II: Maden / III: Turizm / IV: Sanayi"
       },
       {
         "key": "C",
-        "text": "Zonguldak: Turizm / Antalya: Sanayi / İzmit: Madencilik / Rize: Tarım"
+        "text": "I: Turizm / II: Sanayi / III: Maden / IV: Tarım"
       },
       {
         "key": "D",
-        "text": "Zonguldak: Sanayi / Antalya: Tarım / İzmit: Turizm / Rize: Madencilik"
+        "text": "I: Sanayi / II: Tarım / III: Turizm / IV: Maden"
       },
       {
         "key": "E",
-        "text": "Zonguldak: Madencilik / Antalya: Sanayi / İzmit: Tarım / Rize: Turizm"
+        "text": "I: Sanayi / II: Maden / III: Tarım / IV: Turizm"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Zonguldak taş kömürü çıkarımı ile <strong>madencilik</strong>; Antalya deniz ve kültür değerleriyle <strong>turizm</strong>; İzmit rafineri, kimya ve otomotiv tesisleriyle <strong>sanayi</strong>; Rize ise çay üretimiyle <strong>tarım</strong> fonksiyonu ile özdeşleşmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerdeki fonksiyonlar şehirlerin baskın ekonomik kimlikleriyle uyuşmamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Fonksiyonel şehir eşleştirmelerinde taş kömürü = Zonguldak, petrol = Batman, çay = Rize, seracılık/turizm = Antalya'dır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I: Sanayi / II: Turizm / III: Maden / IV: Tarım)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>I (İzmit / Kocaeli):</strong> Petrokimya, rafineri ve sanayi tesisleriyle <strong>sanayi</strong> kentidir.<br>• <strong>II (Antalya):</strong> Deniz, iklim ve kültür zenginliğiyle Türkiye'nin başkenti konumundaki <strong>turizm</strong> kentidir.<br>• <strong>III (Batman):</strong> Türkiye'de petrolün ilk bulunduğu ve çıkarıldığı <strong>madencilik</strong> merkezidir.<br>• <strong>IV (Rize):</strong> Çay tarımının merkezi olup temel fonksiyonu <strong>tarım</strong>dır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Fonksiyonel şehir eşleştirmelerinde İzmit = Sanayi, Antalya = Turizm, Batman = Petrol/Maden, Rize = Çay/Tarım."
   },
   {
     "id": "cogr_hafta4_1-q6",
@@ -8451,33 +8451,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 8,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nYer şekillerinin çok engebeli ve dağlık olduğu yörelerde ekilebilir tarım arazileri vadiler ve yamaçlar arasında dar ve parçalı kalmıştır.\n\nBuna göre, aşağıdaki coğrafi bölümlerin hangisinde tarım alanlarının diğerlerine göre çok daha dar ve parçalı olması beklenir?",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralandırılarak gösterilen alanların yer şekilleri ve yükselti özellikleri dikkate alındığında;\n\nEkilebilir tarım arazilerinin vadiler ve dik yamaçlar arasında kalarak diğerlerine göre çok daha dar ve parçalı olduğu yer numaralandırılmış alanlardan hangisidir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q8_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Konya Bölümü"
+        "text": "I (Ergene Bölümü)"
       },
       {
         "key": "B",
-        "text": "Doğu Karadeniz Bölümü"
+        "text": "II (Doğu Karadeniz Bölümü)"
       },
       {
         "key": "C",
-        "text": "Ergene Bölümü"
+        "text": "III (Kıyı Ege Bölümü)"
       },
       {
         "key": "D",
-        "text": "Güneydoğu Anadolu (Şanlıurfa Yöresi)"
+        "text": "IV (Konya Bölümü)"
       },
       {
         "key": "E",
-        "text": "Adana Bölümü (Çukurova)"
+        "text": "V (Güneydoğu Anadolu Bölümü)"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz Bölümü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz'de Kaçkar Dağları kıyıdan itibaren dimdik yükselir; vadi tabanları çok dardır. Düz ova bulunmadığı için tarım alanları küçük bahçeler halinde parçalıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Konya Ovası, Ergene düzlükleri, Şanlıurfa platoları ve Çukurova deltamız geniş ve kesintisiz devasa tarım arazilerine sahiptir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Parçalı ve dar tarım alanı = Doğu Karadeniz ve Hakkâri. Geniş yekpare tarım arazisi = İç Anadolu ve Güneydoğu'dur."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II - Doğu Karadeniz Bölümü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada II numara ile gösterilen Doğu Karadeniz'de Kaçkar Dağları kıyıdan itibaren dimdik yükselir; vadi tabanları çok dardır. Düz ova bulunmadığı için tarım alanları küçük bahçeler halinde parçalıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I (Ergene), III (Kıyı Ege), IV (Konya Havzası) ve V (Güneydoğu Anadolu) geniş ve kesintisiz tarım arazilerine sahiptir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Parçalı ve dar tarım alanı = Doğu Karadeniz ve Hakkâri. Geniş yekpare tarım arazisi = İç Anadolu ve Güneydoğu'dur."
   },
   {
     "id": "cogr_hafta4_1-q9",
@@ -8673,33 +8673,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 14,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTemel besin maddelerimizden olan buğday; ilkbahar büyüme evresinde neme, yaz hasat ve olgunlaşma döneminde ise tam kuraklığa ve yüksek sıcaklığa ihtiyaç duyar.\n\nBuna göre, aşağıdaki yörelerin hangisinde yaz mevsiminin de sürekli yağışlı ve nemli geçmesi sebebiyle buğday tarımı kesinlikle yapılamaz?",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralandırılarak gösterilen alanların iklim koşulları dikkate alındığında;\n\nTemel besin maddelerimizden olan buğday; ilkbahar büyüme evresinde neme, yaz hasat ve olgunlaşma döneminde ise tam kuraklığa ve yüksek sıcaklığa ihtiyaç duyar.\n\nBuna göre, yaz mevsiminin de sürekli yağışlı ve nemli geçmesi sebebiyle haritada numaralandırılan yerlerin hangisinde buğday tarımı kesinlikle yapılamaz?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q14_img.png",
     "options": [
       {
         "key": "A",
-        "text": "İç Anadolu Bölgesi (Konya Havzası)"
+        "text": "I (Güney Marmara kuşağı)"
       },
       {
         "key": "B",
-        "text": "Güneydoğu Anadolu ovaları"
+        "text": "II (İç Anadolu Bölgesi)"
       },
       {
         "key": "C",
-        "text": "Ergene Havzası"
+        "text": "III (Orta Anadolu / Sivas yöresi)"
       },
       {
         "key": "D",
-        "text": "Kıyı Ege graben ovaları"
+        "text": "IV (Güneydoğu Anadolu ovaları)"
       },
       {
         "key": "E",
-        "text": "Doğu Karadeniz kıyı kuşağı (Rize-Trabzon)"
+        "text": "V (Doğu Karadeniz kıyı kuşağı)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyılarında her mevsim yağış görülür; kurak bir hasat dönemi yoktur. Sürekli nem ve yağış buğday başaklarının çürümesine ve mantar hastalıklarına yol açtığından buğday üretilemez.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İç Anadolu, Güneydoğu ve Ergene yaz kuraklığının belirgin olduğu temel buğday üretim merkezlerimizdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Doğu Karadeniz kıyılarında buğday yetişmediği için temel ekmek hammaddesi tarihsel olarak mısır (mısır ekmeği) olmuştur."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V - Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada V numara ile gösterilen Doğu Karadeniz kıyılarında her mevsim yağış görülür; kurak bir hasat dönemi yoktur. Sürekli nem ve yağış buğday başaklarının çürümesine ve mantar hastalıklarına yol açtığından buğday üretilemez.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I, II, III ve IV numaralı alanlarda belirgin yaz kuraklığı yaşandığından temel buğday üretim alanlarımızdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Doğu Karadeniz kıyılarında buğday yetişmediği için temel ekmek hammaddesi tarihsel olarak mısır (mısır ekmeği) olmuştur."
   },
   {
     "id": "cogr_hafta4_1-q15",
@@ -8747,33 +8747,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 16,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de yetiştirilen aşağıdaki tarım ürünleri ile Türkiye üretiminde ilk sırada yer alan coğrafi bölgeler eşleştirmelerinden hangisi doğrudur?",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralandırılarak gösterilen alanlarda en çok yetiştirilen tarım ürünleri aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q16_img.png",
     "options": [
       {
         "key": "A",
-        "text": "İncir: İç Anadolu / Pamuk: Karadeniz / Ayçiçeği: Akdeniz"
+        "text": "I: İncir / II: Pamuk / III: Ayçiçeği"
       },
       {
         "key": "B",
-        "text": "İncir: Ege / Ayçiçeği: Marmara (Trakya) / Fındık: Karadeniz"
+        "text": "I: Ayçiçeği / II: İncir / III: Fındık"
       },
       {
         "key": "C",
-        "text": "Pamuk: Doğu Karadeniz / İncir: İç Anadolu / Çay: Ege"
+        "text": "I: Pamuk / II: Ayçiçeği / III: Çay"
       },
       {
         "key": "D",
-        "text": "Tütün: Doğu Anadolu / Buğday: Doğu Karadeniz / Zeytin: Doğu Anadolu"
+        "text": "I: Fındık / II: Ayçiçeği / III: Pamuk"
       },
       {
         "key": "E",
-        "text": "Fındık: İç Anadolu / Çeltik: Toroslar / İncir: Hakkâri"
+        "text": "I: Buğday / II: Zeytin / III: İncir"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (İncir: Ege / Ayçiçeği: Marmara / Fındık: Karadeniz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İncirde Ege Bölgesi (özellikle Aydın ili) açık ara Türkiye ve dünya lideridir.<br>• Ayçiçeğinde Marmara / Trakya Bölümü (Tekirdağ, Edirne) birinci sıradadır.<br>• Fındıkta Karadeniz Bölgesi (Ordu, Giresun, Trabzon) dünya üretiminin lideridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerdeki tüm eşleştirmeler coğrafi yönden tamamen hatalıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Ege: İncir, Zeytin, Haşhaş, Tütün, Üzüm (ZÜHTİ şifresi). Marmara: Ayçiçeği, Pirinç."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I: Ayçiçeği / II: İncir / III: Fındık)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>I (Ergene Havzası / Trakya):</strong> Türkiye ayçiçeği ve pirinç (çeltik) üretiminde ilk sırada yer alır.<br>• <strong>II (Kıyı Ege / Aydın - Büyük Menderes):</strong> İncir üretiminde Türkiye ve dünya lideridir.<br>• <strong>III (Doğu Karadeniz / Ordu - Giresun):</strong> Fındık ve çay üretiminin merkezidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerdeki tarım ürünleri haritada numaralandırılan yörelerin iklim ve tarımsal kimliğiyle uyuşmamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Trakya = Ayçiçeği, Ege = İncir & Zeytin & Haşhaş & Üzüm (ZÜHTİ), Karadeniz = Fındık & Çay."
   },
   {
     "id": "cogr_hafta4_1-q17",
@@ -8784,7 +8784,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 17,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de bir yörenin iklim özellikleri incelendiğinde; kışların çok sert ve dondurucu geçtiği, en fazla yağışın yaz aylarında düştüğü ve bu sayede yaz boyunca yeşil kalan gür Alpin çayır örtüsünün bulunduğu görülmektedir (Erzurum-Kars Platosu).\n\nBöyle bir iklim ve bitki örtüsüne sahip yörede aşağıdaki hayvancılık türlerinden hangisinin doğal koşullara bağlı olarak en fazla gelişmesi beklenir?",
+    "questionText": "Yukarıdaki grafikte Türkiye'de bulunan bir yöreye ait yıllık ortalama sıcaklık ve yağış dağılışı verilmiştir.\n\nGrafikteki sıcaklık ve yağış rejimi özellikleri dikkate alındığında, bu yörede aşağıdaki hayvancılık türlerinden hangisinin doğal çevre şartlarına bağlı olarak en fazla gelişmesi beklenir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q17_img.png",
     "options": [
@@ -8895,33 +8895,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 20,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de mera hayvancılığı doğrudan doğal bitki örtüsü ve iklime bağlıdır.\n\nBuna göre;\n• Yaz yağışlarıyla yeşeren gür çayırlar üzerinde: Büyükbaş sığır yetiştiriciliği,\n• İlkbahar yağışlarıyla yeşeren bozkırlar üzerinde: Küçükbaş koyun yetiştiriciliği,\n• Maki ve kayalık dağlık alanlarda: Kıl keçisi yetiştiriciliği\n\nyaygındır. Buna göre, maki ve engebeli karstik araziye bağlı olarak kıl keçisi yetiştiriciliğinin en yaygın olduğu coğrafi bölge aşağıdakilerden hangisidir?",
+    "questionText": "Yukarıdaki Türkiye haritasında üç farklı merkez numaralandırılarak gösterilmiştir.\n\nTürkiye'de mera ve geleneksel hayvancılık türleri doğrudan doğal bitki örtüsü ve arazi koşullarına bağlı olarak dağılmıştır.\n\nBuna göre, haritada numaralandırılan merkezlerde en fazla gelişen hayvancılık türleri aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q20_img.png",
     "options": [
       {
         "key": "A",
-        "text": "İç Anadolu Bölgesi"
+        "text": "I: Büyükbaş mera hayvancılığı / II: İpek böcekçiliği / III: Kümes hayvancılığı"
       },
       {
         "key": "B",
-        "text": "Akdeniz Bölgesi (Toroslar kuşağı - Teke ve Taşeli)"
+        "text": "I: İpek böcekçiliği ve Kümes / II: Kıl keçisi / III: Büyükbaş mera hayvancılığı"
       },
       {
         "key": "C",
-        "text": "Güneydoğu Anadolu Bölgesi"
+        "text": "I: Büyükbaş mera hayvancılığı / II: Tiftik keçisi / III: Küçükbaş koyun"
       },
       {
         "key": "D",
-        "text": "Marmara / Ergene Bölümü"
+        "text": "I: Küçükbaş koyun / II: Arıcılık / III: İpek böcekçiliği"
       },
       {
         "key": "E",
-        "text": "Doğu Karadeniz kıyı kuşağı"
+        "text": "I: Kümes hayvancılığı / II: İpek böcekçiliği / III: Küçükbaş koyun"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Akdeniz Bölgesi - Toroslar)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kıl keçisi engebeli ve sarp karstik kayalık arazilere kolay tırmanır; bodur çalı ve meşe/maki filizlerini yiyerek beslenir. Akdeniz'de Toroslar, Teke ve Taşeli platoları kıl keçisinin yurdudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İç Anadolu bozkırında koyun, Doğu Anadolu çayırında sığır yaygındır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kıl keçisi ormanlara ve fidanlara zarar verdiği gerekçesiyle devlet tarafından keçi sayısı belirli dönemlerde denetlenmiştir."
+    "explanation": "Doğru Cevap: <strong>B</strong> (I: İpek böcekçiliği ve Kümes / II: Kıl keçisi / III: Büyükbaş mera hayvancılığı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>I (Güney Marmara / Bursa yöresi):</strong> Dut ağacı yapraklarına dayalı ipek böcekçiliği ile büyük pazar odaklarına yakınlığa bağlı kümes hayvancılığı gelişmiştir.<br>• <strong>II (Akdeniz / Toroslar - Teke ve Taşeli):</strong> Engebeli, kayalık karstik dağlara ve maki çalılıklarına tırmanma yeteneği yüksek <strong>kıl keçisi</strong> yetiştiriciliğinin yurdudur.<br>• <strong>III (Kuzeydoğu Anadolu / Erzurum-Kars):</strong> Yaz yağışlarıyla beslenen gür Alpin çayırları üzerinde büyük gövdeli <strong>büyükbaş mera hayvancılığı</strong> (sığır) yaygındır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaz yağışı + Çayır = Büyükbaş (Erzurum-Kars); Maki + Karstik dağ = Kıl keçisi (Toroslar); Bozkır = Küçükbaş koyun (İç Anadolu); Dut = İpek böcekçiliği (Diyarbakır, Bursa)."
   },
   {
     "id": "cogr_hafta4_2-q1",
@@ -79456,1372 +79456,1372 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nBir alanın temel kavram, ilke, genelleme ve sembollerine ilişkin anlayış disipline özgü bilgidir. Bunların başka disiplinlerin kavram ve konularıyla ilişkilendirilmesi disiplinler arası bilgiyi oluşturur. Epistemik bilgi uzmanların düşünme ve çalışma biçimlerine, işlemsel bilgi ise eylem adımlarına odaklanır. Aynı içerik farklı becerilerle işlenebilir; bir beceri de farklı içeriklerde kullanılabilir.<br><br>\n• <strong>Disipline Özgü vs. Disiplinler Arası Bilgi:</strong><br>• <strong>Disipline Özgü Bilgi:</strong> Yalnızca o bilim dalına ait temel kavram ve ilkelerdir (örn. kimyadaki periyodik cetvel).<br>• <strong>Disiplinler Arası Bilgi:</strong> Bu kavramların başka alanlarla (örn. kimyadaki bileşiklerin biyolojideki metabolizmayla) ilişkilendirilmesidir."
   },
   {
-  "id": "anayasa_t3_q1",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 1,
-  "questionText": "TBMM'nin hiçbir kişi veya organı araya koymadan, doğrudan kanun yapması hangi ilkesine dayanır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Yasamanın genelliği"
-    },
-    {
-      "key": "B",
-      "text": "Yasamanın sürekliliği"
-    },
-    {
-      "key": "C",
-      "text": "Yasamanın asliliği (ilkelliği)"
-    },
-    {
-      "key": "D",
-      "text": "Yasamanın devredilmezliği"
-    },
-    {
-      "key": "E",
-      "text": "Yasamanın yöntemsel bağımsızlığı"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (Yasamanın asliliği)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br><strong>Yasamanın Asliliği (İlkelliği):</strong> TBMM'nin bir konuyu araya başka hiçbir makam, organ veya izin mekanizması girmeksizin, doğrudan doğruya Anayasa'dan aldığı yetkiyle ilk elden düzenleyebilmesidir. Yasama organı kanun yaparken başka bir merciin önceden yetki vermesine ihtiyaç duymaz.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>• <em>Yasamanın Genelliği (A şıkkı - En büyük çeldirici):</em> TBMM'nin anayasaya aykırı olmamak kaydıyla 'her konuda' düzenleme yapabilmesidir. 'Aracısız / ilk elden' ifadesi varsa cevap <strong>aslilik</strong>, 'her konuda sınırsız düzenleme' vurgusu varsa cevap <strong>genellik</strong>tir.<br>• <em>Devredilmezlik (D şıkkı):</em> Yasama yetkisinin Türk milleti adına münhasıran TBMM'ye ait olması ve başka hiçbir organa devredilememesidir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>İlk elden / Doğrudan / Aracısız ➔ <strong>Aslilik</strong> | Her konuda düzenleme ➔ <strong>Genellik</strong> | Kimseye devredilemez ➔ <strong>Devredilmezlik</strong>."
-},
+    "id": "anayasa_t3_q1",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 1,
+    "questionText": "TBMM'nin hiçbir kişi veya organı araya koymadan, doğrudan kanun yapması hangi ilkesine dayanır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yasamanın genelliği"
+      },
+      {
+        "key": "B",
+        "text": "Yasamanın sürekliliği"
+      },
+      {
+        "key": "C",
+        "text": "Yasamanın asliliği (ilkelliği)"
+      },
+      {
+        "key": "D",
+        "text": "Yasamanın devredilmezliği"
+      },
+      {
+        "key": "E",
+        "text": "Yasamanın yöntemsel bağımsızlığı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yasamanın asliliği)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br><strong>Yasamanın Asliliği (İlkelliği):</strong> TBMM'nin bir konuyu araya başka hiçbir makam, organ veya izin mekanizması girmeksizin, doğrudan doğruya Anayasa'dan aldığı yetkiyle ilk elden düzenleyebilmesidir. Yasama organı kanun yaparken başka bir merciin önceden yetki vermesine ihtiyaç duymaz.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>• <em>Yasamanın Genelliği (A şıkkı - En büyük çeldirici):</em> TBMM'nin anayasaya aykırı olmamak kaydıyla 'her konuda' düzenleme yapabilmesidir. 'Aracısız / ilk elden' ifadesi varsa cevap <strong>aslilik</strong>, 'her konuda sınırsız düzenleme' vurgusu varsa cevap <strong>genellik</strong>tir.<br>• <em>Devredilmezlik (D şıkkı):</em> Yasama yetkisinin Türk milleti adına münhasıran TBMM'ye ait olması ve başka hiçbir organa devredilememesidir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>İlk elden / Doğrudan / Aracısız ➔ <strong>Aslilik</strong> | Her konuda düzenleme ➔ <strong>Genellik</strong> | Kimseye devredilemez ➔ <strong>Devredilmezlik</strong>."
+  },
   {
-  "id": "anayasa_t3_q2",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 2,
-  "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisinin siyaset yapma yasağı vardır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Milletvekilleri"
-    },
-    {
-      "key": "B",
-      "text": "Cumhurbaşkanı"
-    },
-    {
-      "key": "C",
-      "text": "Bakanlar"
-    },
-    {
-      "key": "D",
-      "text": "TBMM Başkanı"
-    },
-    {
-      "key": "E",
-      "text": "Cumhurbaşkanı Yardımcıları"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (TBMM Başkanı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.94):</strong><br>TBMM Başkanı ve oturumu yöneten Başkanvekilleri, üyesi bulundukları siyasi partinin Meclis içi veya dışındaki faaliyetlerine katılamazlar; Meclis tartışmalarına katılamazlar ve hiçbir şekilde <strong>oy kullanamazlar</strong>. Amaç, Meclis yönetiminde mutlak tarafsızlığı sağlamaktır.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>• <em>Cumhurbaşkanı (B şıkkı):</em> 2017 Anayasa değişikliği ile 'Cumhurbaşkanının partisiyle ilişiği kesilir' hükmü kaldırılmış ve 'Partili Cumhurbaşkanlığı' sistemine geçilmiştir. Dolayısıyla Cumhurbaşkanının artık siyaset yapma yasağı yoktur.<br>• <em>Meclisteki Oy Sayısı Tuzağı:</em> Meclis üye tam sayısı 600 olmasına rağmen, bir kanun oylamasında çıkabilecek azami oy sayısı Meclis Başkanı oy kullanamadığı için <strong>599</strong>'dur.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM Başkanı partisine mensup kalabilir ancak siyasi faaliyette bulunamaz, Genel Kurul'da oy kullanamaz!"
-},
+    "id": "anayasa_t3_q2",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 2,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisinin siyaset yapma yasağı vardır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilleri"
+      },
+      {
+        "key": "B",
+        "text": "Cumhurbaşkanı"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlar"
+      },
+      {
+        "key": "D",
+        "text": "TBMM Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanı Yardımcıları"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (TBMM Başkanı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.94):</strong><br>TBMM Başkanı ve oturumu yöneten Başkanvekilleri, üyesi bulundukları siyasi partinin Meclis içi veya dışındaki faaliyetlerine katılamazlar; Meclis tartışmalarına katılamazlar ve hiçbir şekilde <strong>oy kullanamazlar</strong>. Amaç, Meclis yönetiminde mutlak tarafsızlığı sağlamaktır.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>• <em>Cumhurbaşkanı (B şıkkı):</em> 2017 Anayasa değişikliği ile 'Cumhurbaşkanının partisiyle ilişiği kesilir' hükmü kaldırılmış ve 'Partili Cumhurbaşkanlığı' sistemine geçilmiştir. Dolayısıyla Cumhurbaşkanının artık siyaset yapma yasağı yoktur.<br>• <em>Meclisteki Oy Sayısı Tuzağı:</em> Meclis üye tam sayısı 600 olmasına rağmen, bir kanun oylamasında çıkabilecek azami oy sayısı Meclis Başkanı oy kullanamadığı için <strong>599</strong>'dur.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM Başkanı partisine mensup kalabilir ancak siyasi faaliyette bulunamaz, Genel Kurul'da oy kullanamaz!"
+  },
   {
-  "id": "anayasa_t3_q3",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 3,
-  "questionText": "Aşağıdakilerden hangisi TBMM Başkanı'nın görev ve yetkilerinden biri değildir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Meclis iç düzenini ve idaresini sağlamak"
-    },
-    {
-      "key": "B",
-      "text": "Meclis tatilde veya ara vermedeyken doğrudan toplantıya çağırmak"
-    },
-    {
-      "key": "C",
-      "text": "Meclis toplantı gündemini belirlemek"
-    },
-    {
-      "key": "D",
-      "text": "Cumhurbaşkanlığı makamına vekâlet etmek"
-    },
-    {
-      "key": "E",
-      "text": "Meclis komisyonlarını denetlemek ve yönetmek"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (Cumhurbaşkanlığı makamına vekâlet etmek)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.106 - 2017 Değişikliği):</strong><br>2017 Anayasa değişikliğinden önce Cumhurbaşkanına hastalık, yurt dışına çıkma veya ölüm gibi hallerde TBMM Başkanı vekâlet ediyordu. 2017 değişikliğiyle bu kural tamamen değişmiş olup, Cumhurbaşkanına vekâlet etme yetkisi <strong>Cumhurbaşkanı Yardımcısı</strong>'na verilmiştir.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>ÖSYM, eski anayasa alışkanlıklarını ölçmek için bu soruyu sıkça sorar. TBMM Başkanı artık hiçbir koşulda Cumhurbaşkanına vekillik etmez!<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Cumhurbaşkanına vekillik eden makam: <strong>Cumhurbaşkanı Yardımcısı</strong>'dır (TBMM Başkanı DEĞİLDİR)."
-},
+    "id": "anayasa_t3_q3",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisi TBMM Başkanı'nın görev ve yetkilerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meclis iç düzenini ve idaresini sağlamak"
+      },
+      {
+        "key": "B",
+        "text": "Meclis tatilde veya ara vermedeyken doğrudan toplantıya çağırmak"
+      },
+      {
+        "key": "C",
+        "text": "Meclis toplantı gündemini belirlemek"
+      },
+      {
+        "key": "D",
+        "text": "Cumhurbaşkanlığı makamına vekâlet etmek"
+      },
+      {
+        "key": "E",
+        "text": "Meclis komisyonlarını denetlemek ve yönetmek"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Cumhurbaşkanlığı makamına vekâlet etmek)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.106 - 2017 Değişikliği):</strong><br>2017 Anayasa değişikliğinden önce Cumhurbaşkanına hastalık, yurt dışına çıkma veya ölüm gibi hallerde TBMM Başkanı vekâlet ediyordu. 2017 değişikliğiyle bu kural tamamen değişmiş olup, Cumhurbaşkanına vekâlet etme yetkisi <strong>Cumhurbaşkanı Yardımcısı</strong>'na verilmiştir.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>ÖSYM, eski anayasa alışkanlıklarını ölçmek için bu soruyu sıkça sorar. TBMM Başkanı artık hiçbir koşulda Cumhurbaşkanına vekillik etmez!<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Cumhurbaşkanına vekillik eden makam: <strong>Cumhurbaşkanı Yardımcısı</strong>'dır (TBMM Başkanı DEĞİLDİR)."
+  },
   {
-  "id": "anayasa_t3_q4",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 4,
-  "questionText": "Cumhurbaşkanı tarafından TBMM'ye geri gönderilen kanun teklifini TBMM en az hangi çoğunlukla aynen kabul ederse, Cumhurbaşkanı Resmi Gazete'de yayımlamak zorundadır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Meclis üye tam sayısının salt çoğunluğu (301)"
-    },
-    {
-      "key": "B",
-      "text": "Toplantıya katılanların salt çoğunluğu"
-    },
-    {
-      "key": "C",
-      "text": "Meclis üye tam sayısının beşte üçü (360)"
-    },
-    {
-      "key": "D",
-      "text": "Meclis üye tam sayısının üçte biri (200)"
-    },
-    {
-      "key": "E",
-      "text": "Meclis üye tam sayısının üçte ikisi (400)"
-    }
-  ],
-  "correctAnswer": "A",
-  "explanation": "Doğru Cevap: <strong>A</strong> (Meclis üye tam sayısının salt çoğunluğu - 301)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.89):</strong><br>Cumhurbaşkanı, yayımlanmasını uygun bulmadığı kanunları 15 gün içinde bir daha görüşülmek üzere TBMM'ye geri gönderebilir (veto). TBMM, geri gönderilen kanunu <strong>üye tam sayısının salt çoğunluğuyla (en az 301 milletvekili)</strong> aynen kabul ederse, Cumhurbaşkanı kanunu Resmi Gazete'de yayımlamak zorundadır (Anayasa Mahkemesi'ne iptal davası açma hakkı saklıdır).<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>2017 öncesinde basit çoğunluk (toplantıya katılanların salt çoğunluğu) yeterliydi. 2017 değişikliğiyle bu sayı zorlaştırılmış ve <strong>üye tam sayısının salt çoğunluğu (301)</strong> şartı getirilmiştir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Geri gönderilen kanunun aynen kabulü = <strong>Üye tamsayısının salt çoğunluğu (301)</strong>."
-},
+    "id": "anayasa_t3_q4",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 4,
+    "questionText": "Cumhurbaşkanı tarafından TBMM'ye geri gönderilen kanun teklifini TBMM en az hangi çoğunlukla aynen kabul ederse, Cumhurbaşkanı Resmi Gazete'de yayımlamak zorundadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meclis üye tam sayısının salt çoğunluğu (301)"
+      },
+      {
+        "key": "B",
+        "text": "Toplantıya katılanların salt çoğunluğu"
+      },
+      {
+        "key": "C",
+        "text": "Meclis üye tam sayısının beşte üçü (360)"
+      },
+      {
+        "key": "D",
+        "text": "Meclis üye tam sayısının üçte biri (200)"
+      },
+      {
+        "key": "E",
+        "text": "Meclis üye tam sayısının üçte ikisi (400)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Meclis üye tam sayısının salt çoğunluğu - 301)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.89):</strong><br>Cumhurbaşkanı, yayımlanmasını uygun bulmadığı kanunları 15 gün içinde bir daha görüşülmek üzere TBMM'ye geri gönderebilir (veto). TBMM, geri gönderilen kanunu <strong>üye tam sayısının salt çoğunluğuyla (en az 301 milletvekili)</strong> aynen kabul ederse, Cumhurbaşkanı kanunu Resmi Gazete'de yayımlamak zorundadır (Anayasa Mahkemesi'ne iptal davası açma hakkı saklıdır).<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>2017 öncesinde basit çoğunluk (toplantıya katılanların salt çoğunluğu) yeterliydi. 2017 değişikliğiyle bu sayı zorlaştırılmış ve <strong>üye tam sayısının salt çoğunluğu (301)</strong> şartı getirilmiştir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Geri gönderilen kanunun aynen kabulü = <strong>Üye tamsayısının salt çoğunluğu (301)</strong>."
+  },
   {
-  "id": "anayasa_t3_q5",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 5,
-  "questionText": "Aşağıdakilerden hangisi TBMM'nin görev ve yetkileri arasında yer almaz?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Milletlerarası antlaşmaları onaylamak ve yayımlamak"
-    },
-    {
-      "key": "B",
-      "text": "Olağanüstü hal (OHAL) kararlarını onaylamak ve süresini uzatmak"
-    },
-    {
-      "key": "C",
-      "text": "Milletvekillerinin yasama dokunulmazlığını kaldırmak"
-    },
-    {
-      "key": "D",
-      "text": "Sayıştay başkan ve üyelerini seçmek"
-    },
-    {
-      "key": "E",
-      "text": "Meclis İçtüzüğü'nü hazırlamak ve değiştirmek"
-    }
-  ],
-  "correctAnswer": "A",
-  "explanation": "Doğru Cevap: <strong>A</strong> (Milletlerarası antlaşmaları onaylamak ve yayımlamak)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.90 ve m.104):</strong><br>Milletlerarası antlaşmaların onaylanmasını bir kanunla <strong>uygun bulma</strong> yetkisi TBMM'ye aittir. Ancak antlaşmayı bizzat <strong>onaylayan ve yayımlayan makam CUMHURBAŞKANI</strong>'dır.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>ÖSYM'nin en sevdiği kavram tuzağıdır: 'Uygun bulma' ➔ TBMM | 'Onaylama ve yayımlama' ➔ Cumhurbaşkanı.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM antlaşmayı onaylamaz, onaylanmasını bir kanunla 'uygun bulur'."
-},
+    "id": "anayasa_t3_q5",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi TBMM'nin görev ve yetkileri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletlerarası antlaşmaları onaylamak ve yayımlamak"
+      },
+      {
+        "key": "B",
+        "text": "Olağanüstü hal (OHAL) kararlarını onaylamak ve süresini uzatmak"
+      },
+      {
+        "key": "C",
+        "text": "Milletvekillerinin yasama dokunulmazlığını kaldırmak"
+      },
+      {
+        "key": "D",
+        "text": "Sayıştay başkan ve üyelerini seçmek"
+      },
+      {
+        "key": "E",
+        "text": "Meclis İçtüzüğü'nü hazırlamak ve değiştirmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Milletlerarası antlaşmaları onaylamak ve yayımlamak)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.90 ve m.104):</strong><br>Milletlerarası antlaşmaların onaylanmasını bir kanunla <strong>uygun bulma</strong> yetkisi TBMM'ye aittir. Ancak antlaşmayı bizzat <strong>onaylayan ve yayımlayan makam CUMHURBAŞKANI</strong>'dır.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>ÖSYM'nin en sevdiği kavram tuzağıdır: 'Uygun bulma' ➔ TBMM | 'Onaylama ve yayımlama' ➔ Cumhurbaşkanı.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM antlaşmayı onaylamaz, onaylanmasını bir kanunla 'uygun bulur'."
+  },
   {
-  "id": "anayasa_t3_q6",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 6,
-  "questionText": "I. Dokunulmazlığın kaldırılması<br>II. Bakan olması<br>III. Partisinden istifa etmesi<br>IV. Cumhurbaşkanı yardımcısı seçilmesi<br>Yukarıdakilerden hangileri milletvekilliğini sona erdiren hallerden biri DEĞİLDİR?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Yalnız I"
-    },
-    {
-      "key": "B",
-      "text": "I ve II"
-    },
-    {
-      "key": "C",
-      "text": "I ve III"
-    },
-    {
-      "key": "D",
-      "text": "III ve IV"
-    },
-    {
-      "key": "E",
-      "text": "I ve IV"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (I ve III)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83 ve m.84):</strong><br>• <em>I. Dokunulmazlığın kaldırılması:</em> Milletvekilliğini sona erdirmez! Sadece isnat edilen o suçtan yargılanmanın önünü açar. Yargılama beraatle sonuçlanabilir.<br>• <em>III. Partisinden istifa etmek:</em> Milletvekilliğini düşürmez; kişi Meclis'te 'bağımsız milletvekili' olarak görevine ve özlük haklarına devam eder.<br>• <em>II ve IV (Bakan veya CB Yardımcısı atanmak):</em> Yürütme görevini üstlendikleri an milletvekillikleri Anayasa m.106 gereği doğrudan sona erer.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Dokunulmazlığın kalkması veya partiden istifa vekilliği düşürmez!"
-},
+    "id": "anayasa_t3_q6",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 6,
+    "questionText": "I. Dokunulmazlığın kaldırılması<br>II. Bakan olması<br>III. Partisinden istifa etmesi<br>IV. Cumhurbaşkanı yardımcısı seçilmesi<br>Yukarıdakilerden hangileri milletvekilliğini sona erdiren hallerden biri DEĞİLDİR?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "III ve IV"
+      },
+      {
+        "key": "E",
+        "text": "I ve IV"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve III)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83 ve m.84):</strong><br>• <em>I. Dokunulmazlığın kaldırılması:</em> Milletvekilliğini sona erdirmez! Sadece isnat edilen o suçtan yargılanmanın önünü açar. Yargılama beraatle sonuçlanabilir.<br>• <em>III. Partisinden istifa etmek:</em> Milletvekilliğini düşürmez; kişi Meclis'te 'bağımsız milletvekili' olarak görevine ve özlük haklarına devam eder.<br>• <em>II ve IV (Bakan veya CB Yardımcısı atanmak):</em> Yürütme görevini üstlendikleri an milletvekillikleri Anayasa m.106 gereği doğrudan sona erer.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Dokunulmazlığın kalkması veya partiden istifa vekilliği düşürmez!"
+  },
   {
-  "id": "anayasa_t3_q7",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 7,
-  "questionText": "Genel seçimlerde milletvekili seçilen kişinin mazbatasını düzenleyip teslim eden merci aşağıdakilerden hangisidir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Yüksek Seçim Kurulu"
-    },
-    {
-      "key": "B",
-      "text": "TBMM Başkanlığı"
-    },
-    {
-      "key": "C",
-      "text": "Danıştay"
-    },
-    {
-      "key": "D",
-      "text": "İçişleri Bakanlığı"
-    },
-    {
-      "key": "E",
-      "text": "İl Seçim Kurulu"
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (İl Seçim Kurulu)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>Milletvekili seçilen adayların seçim tutanaklarını (mazbatalarını) düzenleyip kendilerine veya vekillerine teslim eden organ <strong>İl Seçim Kurulu</strong>'dur. Kişi İl Seçim Kurulu tutanağı düzenlediği anda 'Milletvekili' sıfatını resmen kazanır.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>• <em>YSK (A şıkkı Tuzağı):</em> <strong>Cumhurbaşkanlığı</strong> seçim tutanağını (mazbatasını) Yüksek Seçim Kurulu (YSK) düzenler ve TBMM Başkanlığına sunar. Milletvekilininkini ise İl Seçim Kurulu verir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Milletvekili mazbatası ➔ <strong>İl Seçim Kurulu</strong> | Cumhurbaşkanı mazbatası ➔ <strong>YSK</strong>."
-},
+    "id": "anayasa_t3_q7",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 7,
+    "questionText": "Genel seçimlerde milletvekili seçilen kişinin mazbatasını düzenleyip teslim eden merci aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yüksek Seçim Kurulu"
+      },
+      {
+        "key": "B",
+        "text": "TBMM Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Danıştay"
+      },
+      {
+        "key": "D",
+        "text": "İçişleri Bakanlığı"
+      },
+      {
+        "key": "E",
+        "text": "İl Seçim Kurulu"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (İl Seçim Kurulu)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>Milletvekili seçilen adayların seçim tutanaklarını (mazbatalarını) düzenleyip kendilerine veya vekillerine teslim eden organ <strong>İl Seçim Kurulu</strong>'dur. Kişi İl Seçim Kurulu tutanağı düzenlediği anda 'Milletvekili' sıfatını resmen kazanır.<br><br>⚠️ <strong>Çeldirici Analizi & ÖSYM Tuzakları:</strong><br>• <em>YSK (A şıkkı Tuzağı):</em> <strong>Cumhurbaşkanlığı</strong> seçim tutanağını (mazbatasını) Yüksek Seçim Kurulu (YSK) düzenler ve TBMM Başkanlığına sunar. Milletvekilininkini ise İl Seçim Kurulu verir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Milletvekili mazbatası ➔ <strong>İl Seçim Kurulu</strong> | Cumhurbaşkanı mazbatası ➔ <strong>YSK</strong>."
+  },
   {
-  "id": "anayasa_t3_q8",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 8,
-  "questionText": "Yasama sorumsuzluğu (kürsü dokunulmazlığı) ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Süreklidir ve ömür boyu koruma sağlar."
-    },
-    {
-      "key": "B",
-      "text": "TBMM Genel Kurulu kararıyla dahi kaldırılamaz."
-    },
-    {
-      "key": "C",
-      "text": "Cezai açıdan mutlak koruma sağlar."
-    },
-    {
-      "key": "D",
-      "text": "Bakanlar bu sorumsuzluktan yararlanamaz."
-    },
-    {
-      "key": "E",
-      "text": "Meclis çalışmalarında ileri sürülen oy, söz ve düşünceler sorumsuzluk kapsamındadır."
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (Bakanlar bu sorumsuzluktan yararlanamaz.)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83 ve m.106):</strong><br>Anayasa uyarınca milletvekili olmayan <strong>Bakanlar ve Cumhurbaşkanı Yardımcıları da</strong> görevleriyle ilgili olsun olmasın yasama sorumsuzluğu ve yasama dokunulmazlığından aynen milletvekilleri gibi yararlanırlar. Dolayısıyla 'yararlanamaz' ifadesi yanlıştır.<br><br>⚠️ <strong>Önemli Ayırım (Sorumsuzluk vs. Dokunulmazlık):</strong><br>• Yasama Sorumsuzluğu: Mutlaktır, Meclis kaldıramaz, ömür boyudur.<br>• Yasama Dokunulmazlığı: Nisbidir, Meclis kaldırabilir, sadece vekillik süresince geçerlidir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Bakanlar ve CB Yardımcıları yasama dokunulmazlığı ve sorumsuzluğuna sahiptir (Bakan yardımcılarının ise bu güvencesi yoktur)."
-},
+    "id": "anayasa_t3_q8",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 8,
+    "questionText": "Yasama sorumsuzluğu (kürsü dokunulmazlığı) ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Süreklidir ve ömür boyu koruma sağlar."
+      },
+      {
+        "key": "B",
+        "text": "TBMM Genel Kurulu kararıyla dahi kaldırılamaz."
+      },
+      {
+        "key": "C",
+        "text": "Cezai açıdan mutlak koruma sağlar."
+      },
+      {
+        "key": "D",
+        "text": "Bakanlar bu sorumsuzluktan yararlanamaz."
+      },
+      {
+        "key": "E",
+        "text": "Meclis çalışmalarında ileri sürülen oy, söz ve düşünceler sorumsuzluk kapsamındadır."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bakanlar bu sorumsuzluktan yararlanamaz.)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83 ve m.106):</strong><br>Anayasa uyarınca milletvekili olmayan <strong>Bakanlar ve Cumhurbaşkanı Yardımcıları da</strong> görevleriyle ilgili olsun olmasın yasama sorumsuzluğu ve yasama dokunulmazlığından aynen milletvekilleri gibi yararlanırlar. Dolayısıyla 'yararlanamaz' ifadesi yanlıştır.<br><br>⚠️ <strong>Önemli Ayırım (Sorumsuzluk vs. Dokunulmazlık):</strong><br>• Yasama Sorumsuzluğu: Mutlaktır, Meclis kaldıramaz, ömür boyudur.<br>• Yasama Dokunulmazlığı: Nisbidir, Meclis kaldırabilir, sadece vekillik süresince geçerlidir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Bakanlar ve CB Yardımcıları yasama dokunulmazlığı ve sorumsuzluğuna sahiptir (Bakan yardımcılarının ise bu güvencesi yoktur)."
+  },
   {
-  "id": "anayasa_t3_q9",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 9,
-  "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi TBMM üyeliğinin düşme nedenlerinden biri değildir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Milletvekilinin milletvekilliğiyle bağdaşmayan bir görev veya hizmeti sürdürmekte ısrar etmesi"
-    },
-    {
-      "key": "B",
-      "text": "Anayasa Mahkemesince temelli kapatılan bir siyasi partinin üyesi olması veya kapatılmasına sebep olması"
-    },
-    {
-      "key": "C",
-      "text": "Milletvekilinin Meclis çalışmalarına özürsüz/izinsiz olarak bir ay içinde toplam 5 birleşim gününe katılmaması"
-    },
-    {
-      "key": "D",
-      "text": "Milletvekilinin kısıtlanması"
-    },
-    {
-      "key": "E",
-      "text": "Milletvekilinin istifa etmesi"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa Mahkemesince temelli kapatılan bir siyasi partinin üyesi olması)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (2010 Anayasa Değişikliği):</strong><br>Eski düzenlemede kapatılan partinin kapatılmasına beyan ve eylemleriyle sebep olan vekillerin vekilliği düşüyordu. <strong>2010 Anayasa Değişikliği</strong> ile bu hüküm yürürlükten kaldırılmıştır! Artık partisi kapatılsa bile vekilin milletvekilliği <strong>DÜŞMEZ</strong>, bağımsız olarak görevine devam eder; sadece 5 yıl süreyle başka bir partinin kurucusu, yöneticisi veya deneticisi olamaz.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Partinin kapatılmasına sebep olmak vekilliği DÜŞÜRMEZ, yalnızca 5 yıllık siyaset/parti yasağı getirir."
-},
+    "id": "anayasa_t3_q9",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 9,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi TBMM üyeliğinin düşme nedenlerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilinin milletvekilliğiyle bağdaşmayan bir görev veya hizmeti sürdürmekte ısrar etmesi"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa Mahkemesince temelli kapatılan bir siyasi partinin üyesi olması veya kapatılmasına sebep olması"
+      },
+      {
+        "key": "C",
+        "text": "Milletvekilinin Meclis çalışmalarına özürsüz/izinsiz olarak bir ay içinde toplam 5 birleşim gününe katılmaması"
+      },
+      {
+        "key": "D",
+        "text": "Milletvekilinin kısıtlanması"
+      },
+      {
+        "key": "E",
+        "text": "Milletvekilinin istifa etmesi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa Mahkemesince temelli kapatılan bir siyasi partinin üyesi olması)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (2010 Anayasa Değişikliği):</strong><br>Eski düzenlemede kapatılan partinin kapatılmasına beyan ve eylemleriyle sebep olan vekillerin vekilliği düşüyordu. <strong>2010 Anayasa Değişikliği</strong> ile bu hüküm yürürlükten kaldırılmıştır! Artık partisi kapatılsa bile vekilin milletvekilliği <strong>DÜŞMEZ</strong>, bağımsız olarak görevine devam eder; sadece 5 yıl süreyle başka bir partinin kurucusu, yöneticisi veya deneticisi olamaz.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Partinin kapatılmasına sebep olmak vekilliği DÜŞÜRMEZ, yalnızca 5 yıllık siyaset/parti yasağı getirir."
+  },
   {
-  "id": "anayasa_t3_q10",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 10,
-  "questionText": "Aşağıdaki mahkûmiyetlerden hangisi milletvekili seçilmeye engel değildir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Rüşvet suçundan affa uğramış mahkûmiyet"
-    },
-    {
-      "key": "B",
-      "text": "Kasıtlı bir suçtan dolayı 13 ay hapis cezası ile mahkûmiyet"
-    },
-    {
-      "key": "C",
-      "text": "Taksirli suçlardan dolayı 8 ay hapis cezasıyla mahkûmiyet"
-    },
-    {
-      "key": "D",
-      "text": "Hırsızlık suçundan dolayı 4 ay hapis cezasıyla mahkûmiyet"
-    },
-    {
-      "key": "E",
-      "text": "Zimmet suçundan dolayı ertelenmiş mahkûmiyet"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (Taksirli suçlardan dolayı 8 ay hapis cezasıyla mahkûmiyet)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76):</strong><br>Milletvekili seçilme yeterliliğinde ceza sınırı: <em>'Taksirli suçlar hariç, toplam bir yıl veya daha fazla hapis cezasına hüküm giymemiş olmak'</em> şeklindedir.<br>• <strong>Taksirli Suçlar:</strong> İstenmeden, kaza veya dikkatsizlik sonucu işlendiği için süresi ne olursa olsun (8 ay, 3 yıl, 15 yıl) milletvekilliğine <strong>ENGEL DEĞİLDİR</strong>.<br>• <strong>Kasıtlı Suçlar:</strong> 1 yıl (12 ay) ve üzeri hapis cezası engeldir (13 ay hapis engeldir).<br>• <strong>Yüz Kızartıcı Suçlar (Rüşvet, hırsızlık, zimmet, sahtecilik vb.):</strong> Süresi 1 gün bile olsa ve <strong>affa uğramış olsalar dahi</strong> ömür boyu milletvekili olunamaz!<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Taksirli suç ➔ Süre sınırı yok (engel değil) | Kasıtlı suç ➔ 1 yıl ve üstü engel | Yüz kızartıcı suç ➔ 1 gün bile olsa (affa uğrasa dahi) kesin engel!"
-},
+    "id": "anayasa_t3_q10",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 10,
+    "questionText": "Aşağıdaki mahkûmiyetlerden hangisi milletvekili seçilmeye engel değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rüşvet suçundan affa uğramış mahkûmiyet"
+      },
+      {
+        "key": "B",
+        "text": "Kasıtlı bir suçtan dolayı 13 ay hapis cezası ile mahkûmiyet"
+      },
+      {
+        "key": "C",
+        "text": "Taksirli suçlardan dolayı 8 ay hapis cezasıyla mahkûmiyet"
+      },
+      {
+        "key": "D",
+        "text": "Hırsızlık suçundan dolayı 4 ay hapis cezasıyla mahkûmiyet"
+      },
+      {
+        "key": "E",
+        "text": "Zimmet suçundan dolayı ertelenmiş mahkûmiyet"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Taksirli suçlardan dolayı 8 ay hapis cezasıyla mahkûmiyet)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76):</strong><br>Milletvekili seçilme yeterliliğinde ceza sınırı: <em>'Taksirli suçlar hariç, toplam bir yıl veya daha fazla hapis cezasına hüküm giymemiş olmak'</em> şeklindedir.<br>• <strong>Taksirli Suçlar:</strong> İstenmeden, kaza veya dikkatsizlik sonucu işlendiği için süresi ne olursa olsun (8 ay, 3 yıl, 15 yıl) milletvekilliğine <strong>ENGEL DEĞİLDİR</strong>.<br>• <strong>Kasıtlı Suçlar:</strong> 1 yıl (12 ay) ve üzeri hapis cezası engeldir (13 ay hapis engeldir).<br>• <strong>Yüz Kızartıcı Suçlar (Rüşvet, hırsızlık, zimmet, sahtecilik vb.):</strong> Süresi 1 gün bile olsa ve <strong>affa uğramış olsalar dahi</strong> ömür boyu milletvekili olunamaz!<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Taksirli suç ➔ Süre sınırı yok (engel değil) | Kasıtlı suç ➔ 1 yıl ve üstü engel | Yüz kızartıcı suç ➔ 1 gün bile olsa (affa uğrasa dahi) kesin engel!"
+  },
   {
-  "id": "anayasa_t3_q11",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 11,
-  "questionText": "Savaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, TBMM seçimlerin ne kadar süreyle geriye bırakılmasına (ertelenmesine) karar verebilir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "6 ay"
-    },
-    {
-      "key": "B",
-      "text": "1 yıl"
-    },
-    {
-      "key": "C",
-      "text": "2 yıl"
-    },
-    {
-      "key": "D",
-      "text": "3 yıl"
-    },
-    {
-      "key": "E",
-      "text": "Seçimler hiçbir sebeple ertelenemez"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (1 yıl)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.78):</strong><br>Savaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, TBMM, seçimlerin <strong>1 yıl</strong> geriye bırakılmasına karar verebilir. Geri bırakma sebebi ortadan kalkmamışsa, erteleme kararındaki usule göre bu işlem tekrarlanabilir.<br><br>⚠️ <strong>ÖSYM Çeldirici Tuzağı:</strong><br>1. Seçimleri erteleme yetkisi <strong>sadece ve sadece TBMM</strong>'ye aittir (Cumhurbaşkanı veya YSK erteleme kararı veremez).<br>2. Seçimlerin ertelenmesinde kabul edilen <strong>tek yasal sebep SAVAŞ</strong>'tır (Deprem, salgın hastalık veya OHAL sebebiyle seçim ertelenemez!).<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Seçim Erteleme ➔ Tek Gerekçe: <strong>Savaş</strong> | Süre: <strong>1 Yıl</strong> | Karar Veren: <strong>Yalnızca TBMM</strong>."
-},
+    "id": "anayasa_t3_q11",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 11,
+    "questionText": "Savaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, TBMM seçimlerin ne kadar süreyle geriye bırakılmasına (ertelenmesine) karar verebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6 ay"
+      },
+      {
+        "key": "B",
+        "text": "1 yıl"
+      },
+      {
+        "key": "C",
+        "text": "2 yıl"
+      },
+      {
+        "key": "D",
+        "text": "3 yıl"
+      },
+      {
+        "key": "E",
+        "text": "Seçimler hiçbir sebeple ertelenemez"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (1 yıl)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.78):</strong><br>Savaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, TBMM, seçimlerin <strong>1 yıl</strong> geriye bırakılmasına karar verebilir. Geri bırakma sebebi ortadan kalkmamışsa, erteleme kararındaki usule göre bu işlem tekrarlanabilir.<br><br>⚠️ <strong>ÖSYM Çeldirici Tuzağı:</strong><br>1. Seçimleri erteleme yetkisi <strong>sadece ve sadece TBMM</strong>'ye aittir (Cumhurbaşkanı veya YSK erteleme kararı veremez).<br>2. Seçimlerin ertelenmesinde kabul edilen <strong>tek yasal sebep SAVAŞ</strong>'tır (Deprem, salgın hastalık veya OHAL sebebiyle seçim ertelenemez!).<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Seçim Erteleme ➔ Tek Gerekçe: <strong>Savaş</strong> | Süre: <strong>1 Yıl</strong> | Karar Veren: <strong>Yalnızca TBMM</strong>."
+  },
   {
-  "id": "anayasa_t3_q12",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 12,
-  "questionText": "TBMM'deki siyasi parti grupları ile ilgili aşağıdakilerden hangisi yanlıştır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Siyasi parti grupları, yasama dokunulmazlığının kaldırılması ile ilgili Meclis'te görüşme yapamaz ve karar alamazlar."
-    },
-    {
-      "key": "B",
-      "text": "Başkanlık Divanı'na katılmaları Meclis'teki sandalye sayıları ile orantılıdır."
-    },
-    {
-      "key": "C",
-      "text": "İktidar ve ana muhalefet partisi Meclis grupları Anayasa Mahkemesi'ne doğrudan iptal davası açabilirler."
-    },
-    {
-      "key": "D",
-      "text": "TBMM'den Genel Görüşme talebinde bulunabilirler."
-    },
-    {
-      "key": "E",
-      "text": "Cumhurbaşkanlığı için aday gösterebilirler."
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (İktidar ve ana muhalefet partisi Meclis grupları...)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.150 - 2017 Değişikliği):</strong><br>2017 Anayasa değişikliği ile Anayasa metninden <em>'iktidar'</em> ve <em>'ana muhalefet'</em> kavramları tamamen çıkarılmıştır. İptal davası açma yetkisi; Cumhurbaşkanına, Meclis üye tamsayısının en az beşte birine (120 vekil) ve <strong>TBMM'de en fazla üyeye sahip iki siyasi parti grubuna</strong> verilmiştir.<br><br>⚠️ <strong>Grup Yasakları (ÖSYM'nin Çok Sevdiği Soru):</strong><br>Siyasi parti meclis grupları;<br>1. Yasama dokunulmazlığının kaldırılması hakkında,<br>2. Meclis soruşturması hakkında,<br>3. TBMM Başkanlığı adaylığı hakkında görüşme yapamaz ve bağlayıcı grup kararı ALAMAZLAR!<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Artık 'iktidar/ana muhalefet' grubu yok ➔ <strong>'En çok üyeye sahip ilk iki parti grubu'</strong> vardır."
-},
+    "id": "anayasa_t3_q12",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 12,
+    "questionText": "TBMM'deki siyasi parti grupları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Siyasi parti grupları, yasama dokunulmazlığının kaldırılması ile ilgili Meclis'te görüşme yapamaz ve karar alamazlar."
+      },
+      {
+        "key": "B",
+        "text": "Başkanlık Divanı'na katılmaları Meclis'teki sandalye sayıları ile orantılıdır."
+      },
+      {
+        "key": "C",
+        "text": "İktidar ve ana muhalefet partisi Meclis grupları Anayasa Mahkemesi'ne doğrudan iptal davası açabilirler."
+      },
+      {
+        "key": "D",
+        "text": "TBMM'den Genel Görüşme talebinde bulunabilirler."
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanlığı için aday gösterebilirler."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (İktidar ve ana muhalefet partisi Meclis grupları...)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.150 - 2017 Değişikliği):</strong><br>2017 Anayasa değişikliği ile Anayasa metninden <em>'iktidar'</em> ve <em>'ana muhalefet'</em> kavramları tamamen çıkarılmıştır. İptal davası açma yetkisi; Cumhurbaşkanına, Meclis üye tamsayısının en az beşte birine (120 vekil) ve <strong>TBMM'de en fazla üyeye sahip iki siyasi parti grubuna</strong> verilmiştir.<br><br>⚠️ <strong>Grup Yasakları (ÖSYM'nin Çok Sevdiği Soru):</strong><br>Siyasi parti meclis grupları;<br>1. Yasama dokunulmazlığının kaldırılması hakkında,<br>2. Meclis soruşturması hakkında,<br>3. TBMM Başkanlığı adaylığı hakkında görüşme yapamaz ve bağlayıcı grup kararı ALAMAZLAR!<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Artık 'iktidar/ana muhalefet' grubu yok ➔ <strong>'En çok üyeye sahip ilk iki parti grubu'</strong> vardır."
+  },
   {
-  "id": "anayasa_t3_q13",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 13,
-  "questionText": "1982 Anayasası'na göre TBMM'de bir siyasi parti grubu en az kaç milletvekilinden oluşur?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "10"
-    },
-    {
-      "key": "B",
-      "text": "20"
-    },
-    {
-      "key": "C",
-      "text": "30"
-    },
-    {
-      "key": "D",
-      "text": "40"
-    },
-    {
-      "key": "E",
-      "text": "50"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (20)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.95):</strong><br>Siyasi parti grupları en az <strong>yirmi (20) milletvekilinden</strong> oluşur.<br><br>⚠️ <strong>Karıştırılan Sayılar & Eşikler:</strong><br>• Siyasi Parti <em>Kurmak</em> için: <strong>30 Türk vatandaşı</strong> gerekir.<br>• TBMM'de Siyasi Parti <em>Grubu</em> kurmak için: <strong>20 milletvekili</strong> gerekir.<br>• Siyasi partilerin Meclis'e girmesi için ülke genel seçim barajı: <strong>%7</strong>'dir.<br>• Hazine yardımı alabilme barajı: Son genel seçimde geçerli oyların en az <strong>%3</strong>'ünü almış olmak gerekir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Parti Grubu = <strong>20 Milletvekili</strong> | Parti Kuruluşu = <strong>30 Vatandaş</strong>."
-},
+    "id": "anayasa_t3_q13",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 13,
+    "questionText": "1982 Anayasası'na göre TBMM'de bir siyasi parti grubu en az kaç milletvekilinden oluşur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "30"
+      },
+      {
+        "key": "D",
+        "text": "40"
+      },
+      {
+        "key": "E",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (20)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.95):</strong><br>Siyasi parti grupları en az <strong>yirmi (20) milletvekilinden</strong> oluşur.<br><br>⚠️ <strong>Karıştırılan Sayılar & Eşikler:</strong><br>• Siyasi Parti <em>Kurmak</em> için: <strong>30 Türk vatandaşı</strong> gerekir.<br>• TBMM'de Siyasi Parti <em>Grubu</em> kurmak için: <strong>20 milletvekili</strong> gerekir.<br>• Siyasi partilerin Meclis'e girmesi için ülke genel seçim barajı: <strong>%7</strong>'dir.<br>• Hazine yardımı alabilme barajı: Son genel seçimde geçerli oyların en az <strong>%3</strong>'ünü almış olmak gerekir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Parti Grubu = <strong>20 Milletvekili</strong> | Parti Kuruluşu = <strong>30 Vatandaş</strong>."
+  },
   {
-  "id": "anayasa_t3_q14",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 14,
-  "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi milletvekilliğinin düşme sebepleri arasında yer almaktadır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Milletvekilinin partisinden istifa etmesi"
-    },
-    {
-      "key": "B",
-      "text": "Milletvekilinin partisinin kapatılmasına beyan veya eylemleriyle sebep olması"
-    },
-    {
-      "key": "C",
-      "text": "Milletvekilinin bir ay içinde toplam 10 birleşim gününe mazeretsiz katılmaması"
-    },
-    {
-      "key": "D",
-      "text": "Milletvekilinin dokunulmazlığının kaldırılması"
-    },
-    {
-      "key": "E",
-      "text": "Milletvekilinin mahkeme kararıyla kısıtlanması"
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (Milletvekilinin mahkeme kararıyla kısıtlanması)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.84):</strong><br>Milletvekilinin kesin hüküm giymesi veya mahkeme kararıyla <strong>kısıtlanması (hacir altına alınması)</strong> halinde, bu husustaki kesin mahkeme kararının TBMM Genel Kurulu'na bildirilmesiyle milletvekilliği <strong>kendiliğinden doğrudan düşer</strong> (Oylama yapılmaz).<br><br>⚠️ <strong>Çeldirici Analizleri:</strong><br>• <em>C şıkkı Tuzağı:</em> Devamsızlık nedeniyle düşme için kural 'bir ay içinde izinsiz/özürsüz toplam <strong>5 birleşim</strong>'dir (10 değil!).<br>• <em>A ve B şıkları:</em> Partiden istifa veya kapatılan partiye mensubiyet vekilliği düşürmez.<br>• <em>D şıkkı:</em> Dokunulmazlığın kalkması vekilliği düşürmez.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Kısıtlanma ve Kesin Hüküm ➔ Bildirimle doğrudan düşer (TBMM oylaması gerekmez)."
-},
+    "id": "anayasa_t3_q14",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 14,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi milletvekilliğinin düşme sebepleri arasında yer almaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilinin partisinden istifa etmesi"
+      },
+      {
+        "key": "B",
+        "text": "Milletvekilinin partisinin kapatılmasına beyan veya eylemleriyle sebep olması"
+      },
+      {
+        "key": "C",
+        "text": "Milletvekilinin bir ay içinde toplam 10 birleşim gününe mazeretsiz katılmaması"
+      },
+      {
+        "key": "D",
+        "text": "Milletvekilinin dokunulmazlığının kaldırılması"
+      },
+      {
+        "key": "E",
+        "text": "Milletvekilinin mahkeme kararıyla kısıtlanması"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Milletvekilinin mahkeme kararıyla kısıtlanması)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.84):</strong><br>Milletvekilinin kesin hüküm giymesi veya mahkeme kararıyla <strong>kısıtlanması (hacir altına alınması)</strong> halinde, bu husustaki kesin mahkeme kararının TBMM Genel Kurulu'na bildirilmesiyle milletvekilliği <strong>kendiliğinden doğrudan düşer</strong> (Oylama yapılmaz).<br><br>⚠️ <strong>Çeldirici Analizleri:</strong><br>• <em>C şıkkı Tuzağı:</em> Devamsızlık nedeniyle düşme için kural 'bir ay içinde izinsiz/özürsüz toplam <strong>5 birleşim</strong>'dir (10 değil!).<br>• <em>A ve B şıkları:</em> Partiden istifa veya kapatılan partiye mensubiyet vekilliği düşürmez.<br>• <em>D şıkkı:</em> Dokunulmazlığın kalkması vekilliği düşürmez.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Kısıtlanma ve Kesin Hüküm ➔ Bildirimle doğrudan düşer (TBMM oylaması gerekmez)."
+  },
   {
-  "id": "anayasa_t3_q15",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 15,
-  "questionText": "TBMM tatil veya ara verme sırasındayken, aşağıdakilerden hangi oranda milletvekilinin yazılı istemi üzerine TBMM Başkanı tarafından toplantıya çağrılabilir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Üye tam sayısının onda biri"
-    },
-    {
-      "key": "B",
-      "text": "Üye tam sayısının üçte biri"
-    },
-    {
-      "key": "C",
-      "text": "Üye tam sayısının dörtte birinin bir fazlası"
-    },
-    {
-      "key": "D",
-      "text": "Üye tam sayısının beşte biri (1/5)"
-    },
-    {
-      "key": "E",
-      "text": "Üye tam sayısının salt çoğunluğu"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (Üye tam sayısının beşte biri - 1/5)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.93):</strong><br>TBMM tatilde veya ara vermedeyken Meclis'i toplantıya çağırma:<br>1. <strong>Doğrudan Çağıranlar:</strong> Cumhurbaşkanı ve TBMM Başkanı.<br>2. <strong>Dolaylı Çağıranlar:</strong> TBMM üye tamsayısının en az <strong>beşte birinin (1/5 = 120 milletvekili)</strong> yazılı istemi üzerine TBMM Başkanı Meclis'i olağanüstü toplantıya çağırmak zorundadır.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Olağanüstü Toplantı İstem Eşiği: <strong>1/5 (120 Milletvekili)</strong>."
-},
+    "id": "anayasa_t3_q15",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 15,
+    "questionText": "TBMM tatil veya ara verme sırasındayken, aşağıdakilerden hangi oranda milletvekilinin yazılı istemi üzerine TBMM Başkanı tarafından toplantıya çağrılabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Üye tam sayısının onda biri"
+      },
+      {
+        "key": "B",
+        "text": "Üye tam sayısının üçte biri"
+      },
+      {
+        "key": "C",
+        "text": "Üye tam sayısının dörtte birinin bir fazlası"
+      },
+      {
+        "key": "D",
+        "text": "Üye tam sayısının beşte biri (1/5)"
+      },
+      {
+        "key": "E",
+        "text": "Üye tam sayısının salt çoğunluğu"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Üye tam sayısının beşte biri - 1/5)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.93):</strong><br>TBMM tatilde veya ara vermedeyken Meclis'i toplantıya çağırma:<br>1. <strong>Doğrudan Çağıranlar:</strong> Cumhurbaşkanı ve TBMM Başkanı.<br>2. <strong>Dolaylı Çağıranlar:</strong> TBMM üye tamsayısının en az <strong>beşte birinin (1/5 = 120 milletvekili)</strong> yazılı istemi üzerine TBMM Başkanı Meclis'i olağanüstü toplantıya çağırmak zorundadır.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Olağanüstü Toplantı İstem Eşiği: <strong>1/5 (120 Milletvekili)</strong>."
+  },
   {
-  "id": "anayasa_t3_q16",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 16,
-  "questionText": "1982 Anayasası'na göre, TBMM seçimleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "TBMM Genel Kurulu, yasama dönemi sona ermeden seçimlerin yenilenmesine karar verebilir."
-    },
-    {
-      "key": "B",
-      "text": "TBMM savaş nedeniyle seçimlerin 1 yıl geriye bırakılmasına karar verebilir."
-    },
-    {
-      "key": "C",
-      "text": "TBMM seçimleri ile yerel seçimler arasında 1 yıldan az zaman kalmışsa seçimler birleştirilebilir."
-    },
-    {
-      "key": "D",
-      "text": "TBMM erken seçim kararı alırken herhangi bir gerekçe göstermek zorunda değildir."
-    },
-    {
-      "key": "E",
-      "text": "TBMM seçimleri ile Cumhurbaşkanlığı seçimleri kural olarak 5 yılda bir aynı günde birlikte yapılır."
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (TBMM seçimleri ile yerel seçimler birleştirilebilir - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.77 ve m.127):</strong><br>Genel seçimler ile mahalli idareler (yerel) seçimleri hiçbir şart ve koşulda <strong>BİRLEŞTİRİLEMEZ</strong>. Anayasada böyle bir birleştirme imkânı tanınmamıştır.<br><br>⚠️ <strong>Tarihsel Pedagojik Not (1988 Referandumu):</strong><br>1988 yılında genel seçimlerle yerel seçimlerin birleştirilmesi halkoylamasına (referanduma) sunulmuş ve Türk siyasi tarihinde referandumdan <strong>'HAYIR' çıkan tek referandum</strong> olarak kayıtlara geçmiştir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Genel seçimler ile Yerel seçimler asla birleşmez!"
-},
+    "id": "anayasa_t3_q16",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 16,
+    "questionText": "1982 Anayasası'na göre, TBMM seçimleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM Genel Kurulu, yasama dönemi sona ermeden seçimlerin yenilenmesine karar verebilir."
+      },
+      {
+        "key": "B",
+        "text": "TBMM savaş nedeniyle seçimlerin 1 yıl geriye bırakılmasına karar verebilir."
+      },
+      {
+        "key": "C",
+        "text": "TBMM seçimleri ile yerel seçimler arasında 1 yıldan az zaman kalmışsa seçimler birleştirilebilir."
+      },
+      {
+        "key": "D",
+        "text": "TBMM erken seçim kararı alırken herhangi bir gerekçe göstermek zorunda değildir."
+      },
+      {
+        "key": "E",
+        "text": "TBMM seçimleri ile Cumhurbaşkanlığı seçimleri kural olarak 5 yılda bir aynı günde birlikte yapılır."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (TBMM seçimleri ile yerel seçimler birleştirilebilir - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.77 ve m.127):</strong><br>Genel seçimler ile mahalli idareler (yerel) seçimleri hiçbir şart ve koşulda <strong>BİRLEŞTİRİLEMEZ</strong>. Anayasada böyle bir birleştirme imkânı tanınmamıştır.<br><br>⚠️ <strong>Tarihsel Pedagojik Not (1988 Referandumu):</strong><br>1988 yılında genel seçimlerle yerel seçimlerin birleştirilmesi halkoylamasına (referanduma) sunulmuş ve Türk siyasi tarihinde referandumdan <strong>'HAYIR' çıkan tek referandum</strong> olarak kayıtlara geçmiştir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Genel seçimler ile Yerel seçimler asla birleşmez!"
+  },
   {
-  "id": "anayasa_t3_q17",
-  "testId": "anayasa_2027_test_3",
-  "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 17,
-  "questionText": "1982 Anayasası'na göre aşağıdakilerden hangilerinin TBMM seçimlerini yenileme (erken seçim) yetkisi vardır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "TBMM ve Yüksek Seçim Kurulu"
-    },
-    {
-      "key": "B",
-      "text": "TBMM Başkanı ve Cumhurbaşkanı"
-    },
-    {
-      "key": "C",
-      "text": "TBMM ve Cumhurbaşkanı"
-    },
-    {
-      "key": "D",
-      "text": "Anayasa Mahkemesi ve TBMM"
-    },
-    {
-      "key": "E",
-      "text": "Yüksek Seçim Kurulu ve Cumhurbaşkanı"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (TBMM ve Cumhurbaşkanı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.116):</strong><br>Türkiye'de seçimlerin yenilenmesine karar verme yetkisi yalnızca iki makama aittir:<br>1. <strong>TBMM:</strong> Üye tam sayısının beşte üç (3/5 - 360) çoğunluğuyla hiçbir gerekçe göstermeksizin seçimleri yenileyebilir.<br>2. <strong>Cumhurbaşkanı:</strong> Hiçbir şarta ve gerekçeye bağlı olmaksızın dilediği zaman seçimlerin yenilenmesine karar verebilir.<br><br>⚠️ <strong>Kritik Kural (Birlikte Yenilenme):</strong><br>Seçimlerin yenilenmesine ister TBMM ister Cumhurbaşkanı karar versin; <strong>hem Meclis seçimleri hem de Cumhurbaşkanlığı seçimleri birlikte yapılır</strong>. Kararı alan organ kendi görev süresini de sonlandırmış olur.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Seçimleri yenileme yetkisi = <strong>TBMM (360 vekil) ve Cumhurbaşkanı</strong>."
-},
+    "id": "anayasa_t3_q17",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 17,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangilerinin TBMM seçimlerini yenileme (erken seçim) yetkisi vardır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM ve Yüksek Seçim Kurulu"
+      },
+      {
+        "key": "B",
+        "text": "TBMM Başkanı ve Cumhurbaşkanı"
+      },
+      {
+        "key": "C",
+        "text": "TBMM ve Cumhurbaşkanı"
+      },
+      {
+        "key": "D",
+        "text": "Anayasa Mahkemesi ve TBMM"
+      },
+      {
+        "key": "E",
+        "text": "Yüksek Seçim Kurulu ve Cumhurbaşkanı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (TBMM ve Cumhurbaşkanı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.116):</strong><br>Türkiye'de seçimlerin yenilenmesine karar verme yetkisi yalnızca iki makama aittir:<br>1. <strong>TBMM:</strong> Üye tam sayısının beşte üç (3/5 - 360) çoğunluğuyla hiçbir gerekçe göstermeksizin seçimleri yenileyebilir.<br>2. <strong>Cumhurbaşkanı:</strong> Hiçbir şarta ve gerekçeye bağlı olmaksızın dilediği zaman seçimlerin yenilenmesine karar verebilir.<br><br>⚠️ <strong>Kritik Kural (Birlikte Yenilenme):</strong><br>Seçimlerin yenilenmesine ister TBMM ister Cumhurbaşkanı karar versin; <strong>hem Meclis seçimleri hem de Cumhurbaşkanlığı seçimleri birlikte yapılır</strong>. Kararı alan organ kendi görev süresini de sonlandırmış olur.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Seçimleri yenileme yetkisi = <strong>TBMM (360 vekil) ve Cumhurbaşkanı</strong>."
+  },
   {
-  "id": "anayasa_t4_q1",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 1,
-  "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi görevinden çekilmedikçe (istifa etmedikçe) milletvekili adayı olamayacak kişiler arasında yer almaz?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Yüksek yargı organı mensupları (Hâkim ve Savcılar)"
-    },
-    {
-      "key": "B",
-      "text": "Türk Silahlı Kuvvetleri mensupları"
-    },
-    {
-      "key": "C",
-      "text": "Yükseköğretim kurumlarındaki öğretim elemanları"
-    },
-    {
-      "key": "D",
-      "text": "Baro başkanları ve serbest avukatlar"
-    },
-    {
-      "key": "E",
-      "text": "Kamu kurum ve kuruluşlarının memur statüsündeki görevlileri"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (Baro başkanları ve serbest avukatlar)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76):</strong><br>Hâkimler, savcılar, yüksek yargı mensupları, TSK mensupları, kamu personeli ve öğretim elemanları görevlerinden çekilmedikçe aday olamazlar. Ancak <strong>baro başkanları ve serbest avukatlar</strong> kamu görevlisi veya memur statüsünde olmadıkları için adaylık öncesi görevlerinden istifa etmek zorunda değillerdir.<br><br>⚠️ <strong>Geri Dönüş Yasağı Olanlar:</strong><br>Aday olup seçilemeyenlerden; <strong>Hâkimler ve Savcılar</strong> ile <strong>TSK mensupları</strong> görevlerine bir daha geri dönemezler!<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Seçilemezse geri dönemeyenler: <strong>Yargı mensupları ve Askerler</strong>."
-},
+    "id": "anayasa_t4_q1",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 1,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi görevinden çekilmedikçe (istifa etmedikçe) milletvekili adayı olamayacak kişiler arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yüksek yargı organı mensupları (Hâkim ve Savcılar)"
+      },
+      {
+        "key": "B",
+        "text": "Türk Silahlı Kuvvetleri mensupları"
+      },
+      {
+        "key": "C",
+        "text": "Yükseköğretim kurumlarındaki öğretim elemanları"
+      },
+      {
+        "key": "D",
+        "text": "Baro başkanları ve serbest avukatlar"
+      },
+      {
+        "key": "E",
+        "text": "Kamu kurum ve kuruluşlarının memur statüsündeki görevlileri"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Baro başkanları ve serbest avukatlar)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76):</strong><br>Hâkimler, savcılar, yüksek yargı mensupları, TSK mensupları, kamu personeli ve öğretim elemanları görevlerinden çekilmedikçe aday olamazlar. Ancak <strong>baro başkanları ve serbest avukatlar</strong> kamu görevlisi veya memur statüsünde olmadıkları için adaylık öncesi görevlerinden istifa etmek zorunda değillerdir.<br><br>⚠️ <strong>Geri Dönüş Yasağı Olanlar:</strong><br>Aday olup seçilemeyenlerden; <strong>Hâkimler ve Savcılar</strong> ile <strong>TSK mensupları</strong> görevlerine bir daha geri dönemezler!<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Seçilemezse geri dönemeyenler: <strong>Yargı mensupları ve Askerler</strong>."
+  },
   {
-  "id": "anayasa_t4_q2",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 2,
-  "questionText": "'TBMM genel oyla seçilmiş 600 milletvekilinden oluşur.' hükmü 1982 Anayasası'nda hangi yıl yapılan değişiklikle düzenlenmiştir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "1987"
-    },
-    {
-      "key": "B",
-      "text": "1995"
-    },
-    {
-      "key": "C",
-      "text": "2007"
-    },
-    {
-      "key": "D",
-      "text": "2010"
-    },
-    {
-      "key": "E",
-      "text": "2017"
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (2017)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.75):</strong><br>TBMM üye sayısı 16 Nisan 2017 Anayasa Değişikliği Referandumu ile 550'den <strong>600 milletvekiline</strong> çıkarılmıştır.<br><br>📊 <strong>TBMM Üye Sayısının Tarihsel Değişimi:</strong><br>• 1982 Anayasası ilk hali: <strong>400</strong><br>• 1987 Değişikliği: <strong>450</strong><br>• 1995 Değişikliği: <strong>550</strong><br>• 2017 Değişikliği: <strong>600</strong> milletvekili.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>600 Milletvekili = <strong>2017 Anayasa Değişikliği</strong>."
-},
+    "id": "anayasa_t4_q2",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 2,
+    "questionText": "'TBMM genel oyla seçilmiş 600 milletvekilinden oluşur.' hükmü 1982 Anayasası'nda hangi yıl yapılan değişiklikle düzenlenmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1987"
+      },
+      {
+        "key": "B",
+        "text": "1995"
+      },
+      {
+        "key": "C",
+        "text": "2007"
+      },
+      {
+        "key": "D",
+        "text": "2010"
+      },
+      {
+        "key": "E",
+        "text": "2017"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (2017)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.75):</strong><br>TBMM üye sayısı 16 Nisan 2017 Anayasa Değişikliği Referandumu ile 550'den <strong>600 milletvekiline</strong> çıkarılmıştır.<br><br>📊 <strong>TBMM Üye Sayısının Tarihsel Değişimi:</strong><br>• 1982 Anayasası ilk hali: <strong>400</strong><br>• 1987 Değişikliği: <strong>450</strong><br>• 1995 Değişikliği: <strong>550</strong><br>• 2017 Değişikliği: <strong>600</strong> milletvekili.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>600 Milletvekili = <strong>2017 Anayasa Değişikliği</strong>."
+  },
   {
-  "id": "anayasa_t4_q3",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 3,
-  "questionText": "Yasama dokunulmazlığı TBMM kararı ile kaldırılan bir milletvekili, yargılanması sonunda aşağıdaki cezalardan hangisini kesin hükümle alırsa milletvekilliği sona erer?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Kasten işlenen bir suçtan 6 ay hapis cezası alırsa"
-    },
-    {
-      "key": "B",
-      "text": "Taksirle işlenen bir suçtan 8 ay hapis cezası alırsa"
-    },
-    {
-      "key": "C",
-      "text": "Taksirle işlenen bir suçtan 12 ay hapis cezası alırsa"
-    },
-    {
-      "key": "D",
-      "text": "Kasten işlenen bir suçtan 13 ay hapis cezası alırsa"
-    },
-    {
-      "key": "E",
-      "text": "Taksirle işlenen bir suçtan 3 yıl hapis cezası alırsa"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (Kasten işlenen bir suçtan 13 ay hapis cezası alırsa)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76 ve m.84):</strong><br>Anayasa m.76 uyarınca: Taksirli suçlar hariç olmak üzere, kasıtlı bir suçtan <strong>toplam 1 yıl (12 ay) veya daha fazla</strong> hapis cezasına mahkûm olanların milletvekilliği kesin hükmün Genel Kurul'a bildirilmesiyle düşer.<br><br>⚠️ <strong>Çeldirici Analizleri:</strong><br>• Taksirli suçlarda (B, C, E şıkları) ceza süresi ne olursa olsun milletvekilliği düşmez!<br>• Kasıtlı suçlarda 1 yılın altındaki cezalar (6 ay - A şıkkı) vekilliği düşürmez.<br>• 13 ay hapis cezası 1 yılı aştığı için milletvekilliğini doğrudan sona erdirir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Kasıtlı suç ➔ <strong>1 yıl ve üstü</strong> ceza milletvekilliğini düşürür."
-},
+    "id": "anayasa_t4_q3",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 3,
+    "questionText": "Yasama dokunulmazlığı TBMM kararı ile kaldırılan bir milletvekili, yargılanması sonunda aşağıdaki cezalardan hangisini kesin hükümle alırsa milletvekilliği sona erer?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kasten işlenen bir suçtan 6 ay hapis cezası alırsa"
+      },
+      {
+        "key": "B",
+        "text": "Taksirle işlenen bir suçtan 8 ay hapis cezası alırsa"
+      },
+      {
+        "key": "C",
+        "text": "Taksirle işlenen bir suçtan 12 ay hapis cezası alırsa"
+      },
+      {
+        "key": "D",
+        "text": "Kasten işlenen bir suçtan 13 ay hapis cezası alırsa"
+      },
+      {
+        "key": "E",
+        "text": "Taksirle işlenen bir suçtan 3 yıl hapis cezası alırsa"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kasten işlenen bir suçtan 13 ay hapis cezası alırsa)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76 ve m.84):</strong><br>Anayasa m.76 uyarınca: Taksirli suçlar hariç olmak üzere, kasıtlı bir suçtan <strong>toplam 1 yıl (12 ay) veya daha fazla</strong> hapis cezasına mahkûm olanların milletvekilliği kesin hükmün Genel Kurul'a bildirilmesiyle düşer.<br><br>⚠️ <strong>Çeldirici Analizleri:</strong><br>• Taksirli suçlarda (B, C, E şıkları) ceza süresi ne olursa olsun milletvekilliği düşmez!<br>• Kasıtlı suçlarda 1 yılın altındaki cezalar (6 ay - A şıkkı) vekilliği düşürmez.<br>• 13 ay hapis cezası 1 yılı aştığı için milletvekilliğini doğrudan sona erdirir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Kasıtlı suç ➔ <strong>1 yıl ve üstü</strong> ceza milletvekilliğini düşürür."
+  },
   {
-  "id": "anayasa_t4_q4",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 4,
-  "questionText": "1982 Anayasası'na göre, bir milletvekili meclis çalışmalarındaki oy, söz ve düşüncelerinden dolayı ne kadar süre ile sorumsuzdur?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Milletvekilliği süresince"
-    },
-    {
-      "key": "B",
-      "text": "Bir yasama yılı boyunca"
-    },
-    {
-      "key": "C",
-      "text": "2 yıl boyunca"
-    },
-    {
-      "key": "D",
-      "text": "5 yıl boyunca"
-    },
-    {
-      "key": "E",
-      "text": "Ömür boyu (sürekli)"
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (Ömür boyu - sürekli)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83/1):</strong><br>Yasama sorumsuzluğu (Kürsü Dokunulmazlığı) <strong>mutlak ve süreklidir</strong>. Milletvekili görevi sona erse dahi, milletvekilliği döneminde Meclis çalışmalarında sarf ettiği sözler, açıkladığı fikirler ve kullandığı oylardan dolayı ömrü boyunca hukuki veya cezai takibata uğratılamaz.<br><br>⚠️ <strong>ÖSYM Tuzağı (Sorumsuzluk vs Dokunulmazlık):</strong><br>• Yasama Sorumsuzluğu ➔ <strong>Ömür boyu (Sürekli)</strong><br>• Yasama Dokunulmazlığı ➔ <strong>Yalnızca milletvekilliği süresince (Geçici)</strong>.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Söz, düşünce, oy sorumsuzluğu ömür boyu korur!"
-},
+    "id": "anayasa_t4_q4",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 4,
+    "questionText": "1982 Anayasası'na göre, bir milletvekili meclis çalışmalarındaki oy, söz ve düşüncelerinden dolayı ne kadar süre ile sorumsuzdur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilliği süresince"
+      },
+      {
+        "key": "B",
+        "text": "Bir yasama yılı boyunca"
+      },
+      {
+        "key": "C",
+        "text": "2 yıl boyunca"
+      },
+      {
+        "key": "D",
+        "text": "5 yıl boyunca"
+      },
+      {
+        "key": "E",
+        "text": "Ömür boyu (sürekli)"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ömür boyu - sürekli)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83/1):</strong><br>Yasama sorumsuzluğu (Kürsü Dokunulmazlığı) <strong>mutlak ve süreklidir</strong>. Milletvekili görevi sona erse dahi, milletvekilliği döneminde Meclis çalışmalarında sarf ettiği sözler, açıkladığı fikirler ve kullandığı oylardan dolayı ömrü boyunca hukuki veya cezai takibata uğratılamaz.<br><br>⚠️ <strong>ÖSYM Tuzağı (Sorumsuzluk vs Dokunulmazlık):</strong><br>• Yasama Sorumsuzluğu ➔ <strong>Ömür boyu (Sürekli)</strong><br>• Yasama Dokunulmazlığı ➔ <strong>Yalnızca milletvekilliği süresince (Geçici)</strong>.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Söz, düşünce, oy sorumsuzluğu ömür boyu korur!"
+  },
   {
-  "id": "anayasa_t4_q5",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 5,
-  "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi milletvekillerine sağlanan yasama bağışıklıkları ile ilgili yanlış bir bilgidir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Yasama sorumsuzluğu mutlak ve süreklidir."
-    },
-    {
-      "key": "B",
-      "text": "Yasama dokunulmazlığı parlamento (TBMM) kararı ile kaldırılabilir."
-    },
-    {
-      "key": "C",
-      "text": "Yasama sorumsuzluğu Meclis çalışmaları ile sınırlıdır."
-    },
-    {
-      "key": "D",
-      "text": "Bu güvencelerden bakanlar ve cumhurbaşkanı yardımcıları faydalanamaz."
-    },
-    {
-      "key": "E",
-      "text": "Yasama dokunulmazlığının anayasal istisnaları mevcuttur."
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (Güvencelerden bakanlar faydalanamaz - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.106):</strong><br>Bakanlar ve Cumhurbaşkanı Yardımcıları görevleriyle ilgili olsun olmasın tüm yasama bağışıklıklarından (yasama sorumsuzluğu ve yasama dokunulmazlığı) aynen milletvekilleri gibi yararlanırlar.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Bakanlar ve CB Yardımcıları yasama dokunulmazlığına sahiptir."
-},
+    "id": "anayasa_t4_q5",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 5,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi milletvekillerine sağlanan yasama bağışıklıkları ile ilgili yanlış bir bilgidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yasama sorumsuzluğu mutlak ve süreklidir."
+      },
+      {
+        "key": "B",
+        "text": "Yasama dokunulmazlığı parlamento (TBMM) kararı ile kaldırılabilir."
+      },
+      {
+        "key": "C",
+        "text": "Yasama sorumsuzluğu Meclis çalışmaları ile sınırlıdır."
+      },
+      {
+        "key": "D",
+        "text": "Bu güvencelerden bakanlar ve cumhurbaşkanı yardımcıları faydalanamaz."
+      },
+      {
+        "key": "E",
+        "text": "Yasama dokunulmazlığının anayasal istisnaları mevcuttur."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Güvencelerden bakanlar faydalanamaz - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.106):</strong><br>Bakanlar ve Cumhurbaşkanı Yardımcıları görevleriyle ilgili olsun olmasın tüm yasama bağışıklıklarından (yasama sorumsuzluğu ve yasama dokunulmazlığı) aynen milletvekilleri gibi yararlanırlar.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Bakanlar ve CB Yardımcıları yasama dokunulmazlığına sahiptir."
+  },
   {
-  "id": "anayasa_t4_q6",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 6,
-  "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM'nin olağanüstü toplantıya çağrılması ile ilgili doğru bir bilgi değildir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Cumhurbaşkanı lüzum gördüğünde TBMM'yi doğrudan olağanüstü toplantıya çağırabilir."
-    },
-    {
-      "key": "B",
-      "text": "Meclis üye tam sayısının beşte birinin yazılı isteğiyle TBMM Başkanı Meclis'i olağanüstü toplantıya çağırır."
-    },
-    {
-      "key": "C",
-      "text": "Olağanüstü toplanan TBMM, çağrılma gerekçesi olan konuyu görüşmeden başka konuyu görüşemez."
-    },
-    {
-      "key": "D",
-      "text": "TBMM Başkanı doğrudan lüzum görmesi üzerine Meclis'i toplantıya çağırabilir."
-    },
-    {
-      "key": "E",
-      "text": "Ani bir saldırı veya olağanüstü kriz durumunda herhangi bir çağrıya gerek kalmadan TBMM kendiliğinden toplanır."
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (Ani bir saldırı durumunda kendiliğinden toplanır - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.93):</strong><br>TBMM'nin kendiliğinden toplanacağı tek tarih <strong>her yıl Ekim ayının ilk günüdür (1 Ekim)</strong>. Tatil veya ara verme sırasında kriz, savaş veya saldırı çıksa dahi Meclis kendiliğinden toplanamaz; mutlaka Cumhurbaşkanı veya Meclis Başkanı'nın çağrısı gerekir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM kendiliğinden sadece <strong>1 Ekim'de</strong> toplanır."
-},
+    "id": "anayasa_t4_q6",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 6,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM'nin olağanüstü toplantıya çağrılması ile ilgili doğru bir bilgi değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı lüzum gördüğünde TBMM'yi doğrudan olağanüstü toplantıya çağırabilir."
+      },
+      {
+        "key": "B",
+        "text": "Meclis üye tam sayısının beşte birinin yazılı isteğiyle TBMM Başkanı Meclis'i olağanüstü toplantıya çağırır."
+      },
+      {
+        "key": "C",
+        "text": "Olağanüstü toplanan TBMM, çağrılma gerekçesi olan konuyu görüşmeden başka konuyu görüşemez."
+      },
+      {
+        "key": "D",
+        "text": "TBMM Başkanı doğrudan lüzum görmesi üzerine Meclis'i toplantıya çağırabilir."
+      },
+      {
+        "key": "E",
+        "text": "Ani bir saldırı veya olağanüstü kriz durumunda herhangi bir çağrıya gerek kalmadan TBMM kendiliğinden toplanır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ani bir saldırı durumunda kendiliğinden toplanır - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.93):</strong><br>TBMM'nin kendiliğinden toplanacağı tek tarih <strong>her yıl Ekim ayının ilk günüdür (1 Ekim)</strong>. Tatil veya ara verme sırasında kriz, savaş veya saldırı çıksa dahi Meclis kendiliğinden toplanamaz; mutlaka Cumhurbaşkanı veya Meclis Başkanı'nın çağrısı gerekir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM kendiliğinden sadece <strong>1 Ekim'de</strong> toplanır."
+  },
   {
-  "id": "anayasa_t4_q7",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 7,
-  "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nın değiştirilemeyecek ve değiştirilmesi teklif dahi edilemeyecek hükümlerinden biri değildir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Türkiye Devleti bir Cumhuriyettir (m.1)"
-    },
-    {
-      "key": "B",
-      "text": "Yasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisi'nindir (m.7)"
-    },
-    {
-      "key": "C",
-      "text": "Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür (m.3)"
-    },
-    {
-      "key": "D",
-      "text": "Devletin başkenti Ankara'dır (m.3)"
-    },
-    {
-      "key": "E",
-      "text": "Demokratik, laik ve sosyal bir hukuk devletidir (m.2)"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (Yasama yetkisi Türk Milleti adına TBMM'nindir)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.4):</strong><br>Anayasa'nın 4. maddesine göre, Anayasa'nın <strong>yalnızca ilk 3 maddesi</strong> değiştirilemez ve değiştirilmesi teklif edilemez. Yasama yetkisinin TBMM'ye ait olduğunu belirten hüküm ise <strong>7. maddedir</strong>. Dolayısıyla koruma kapsamında değildir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Değiştirilemez maddeler = <strong>Yalnızca 1, 2 ve 3. maddelerdir</strong> (m.4 bunların güvencesidir)."
-},
+    "id": "anayasa_t4_q7",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 7,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nın değiştirilemeyecek ve değiştirilmesi teklif dahi edilemeyecek hükümlerinden biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkiye Devleti bir Cumhuriyettir (m.1)"
+      },
+      {
+        "key": "B",
+        "text": "Yasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisi'nindir (m.7)"
+      },
+      {
+        "key": "C",
+        "text": "Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür (m.3)"
+      },
+      {
+        "key": "D",
+        "text": "Devletin başkenti Ankara'dır (m.3)"
+      },
+      {
+        "key": "E",
+        "text": "Demokratik, laik ve sosyal bir hukuk devletidir (m.2)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yasama yetkisi Türk Milleti adına TBMM'nindir)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.4):</strong><br>Anayasa'nın 4. maddesine göre, Anayasa'nın <strong>yalnızca ilk 3 maddesi</strong> değiştirilemez ve değiştirilmesi teklif edilemez. Yasama yetkisinin TBMM'ye ait olduğunu belirten hüküm ise <strong>7. maddedir</strong>. Dolayısıyla koruma kapsamında değildir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Değiştirilemez maddeler = <strong>Yalnızca 1, 2 ve 3. maddelerdir</strong> (m.4 bunların güvencesidir)."
+  },
   {
-  "id": "anayasa_t4_q8",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 8,
-  "questionText": "Aşağıdakilerden hangisi milletvekilleri ile ilgili doğru bir ifadedir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Milletvekilleri sadece kendilerini seçen bölgeyi temsil ederler."
-    },
-    {
-      "key": "B",
-      "text": "Siyasi partisi kapatılan milletvekilinin TBMM üyeliği kendiliğinden düşer."
-    },
-    {
-      "key": "C",
-      "text": "Milletvekilliği sıfatı son bulsa da dokunulmazlıktan faydalanmaya devam ederler."
-    },
-    {
-      "key": "D",
-      "text": "Milletvekilleri göreve başlarken Anayasa'da belirtildiği şekilde andiçerler."
-    },
-    {
-      "key": "E",
-      "text": "Milletvekilleri seçildiklerinde kamu kurum ve kuruluşlarındaki memuriyet görevlerine de devam edebilirler."
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (Milletvekilleri göreve başlarken Anayasa'da belirtildiği şekilde andiçerler)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.80 ve m.81):</strong><br>• Anayasa m.80: Milletvekilleri, seçildikleri bölgeyi veya kendilerini seçenleri değil, <strong>bütün Milleti temsil ederler</strong>.<br>• Anayasa m.81: TBMM üyeleri, göreve başlarken Meclis kürsüsünden ant içerler.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Milletvekili tüm milleti temsil eder; göreve başlarken ant içer."
-},
+    "id": "anayasa_t4_q8",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 8,
+    "questionText": "Aşağıdakilerden hangisi milletvekilleri ile ilgili doğru bir ifadedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilleri sadece kendilerini seçen bölgeyi temsil ederler."
+      },
+      {
+        "key": "B",
+        "text": "Siyasi partisi kapatılan milletvekilinin TBMM üyeliği kendiliğinden düşer."
+      },
+      {
+        "key": "C",
+        "text": "Milletvekilliği sıfatı son bulsa da dokunulmazlıktan faydalanmaya devam ederler."
+      },
+      {
+        "key": "D",
+        "text": "Milletvekilleri göreve başlarken Anayasa'da belirtildiği şekilde andiçerler."
+      },
+      {
+        "key": "E",
+        "text": "Milletvekilleri seçildiklerinde kamu kurum ve kuruluşlarındaki memuriyet görevlerine de devam edebilirler."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Milletvekilleri göreve başlarken Anayasa'da belirtildiği şekilde andiçerler)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.80 ve m.81):</strong><br>• Anayasa m.80: Milletvekilleri, seçildikleri bölgeyi veya kendilerini seçenleri değil, <strong>bütün Milleti temsil ederler</strong>.<br>• Anayasa m.81: TBMM üyeleri, göreve başlarken Meclis kürsüsünden ant içerler.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Milletvekili tüm milleti temsil eder; göreve başlarken ant içer."
+  },
   {
-  "id": "anayasa_t4_q9",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 9,
-  "questionText": "TBMM çalışmalarını kendi yaptığı İçtüzük hükümlerine göre yürütür. Meclis İçtüzüğü'nün yargısal denetimi hangi merci tarafından yapılır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Yönetmelik - Danıştay"
-    },
-    {
-      "key": "B",
-      "text": "İçtüzük - Danıştay"
-    },
-    {
-      "key": "C",
-      "text": "Yönetmelik - Anayasa Mahkemesi"
-    },
-    {
-      "key": "D",
-      "text": "İçtüzük - Anayasa Mahkemesi"
-    },
-    {
-      "key": "E",
-      "text": "İçtüzük - Yargısal denetimi yoktur"
-    }
-  ],
-  "correctAnswer": "D",
-  "explanation": "Doğru Cevap: <strong>D</strong> (İçtüzük - Anayasa Mahkemesi)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.95 ve m.148):</strong><br>TBMM faaliyetlerini kendi kabul ettiği <strong>İçtüzük</strong> ile düzenler (Yöntemsel Bağımsızlık). Meclis İçtüzüğü'nün hem şekil hem de esas bakımından Anayasa'ya uygunluk denetimini <strong>Anayasa Mahkemesi</strong> yapar.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM İçtüzüğü yargısal denetimi ➔ <strong>Anayasa Mahkemesi</strong> (İptal davası yoluyla)."
-},
+    "id": "anayasa_t4_q9",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 9,
+    "questionText": "TBMM çalışmalarını kendi yaptığı İçtüzük hükümlerine göre yürütür. Meclis İçtüzüğü'nün yargısal denetimi hangi merci tarafından yapılır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yönetmelik - Danıştay"
+      },
+      {
+        "key": "B",
+        "text": "İçtüzük - Danıştay"
+      },
+      {
+        "key": "C",
+        "text": "Yönetmelik - Anayasa Mahkemesi"
+      },
+      {
+        "key": "D",
+        "text": "İçtüzük - Anayasa Mahkemesi"
+      },
+      {
+        "key": "E",
+        "text": "İçtüzük - Yargısal denetimi yoktur"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (İçtüzük - Anayasa Mahkemesi)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.95 ve m.148):</strong><br>TBMM faaliyetlerini kendi kabul ettiği <strong>İçtüzük</strong> ile düzenler (Yöntemsel Bağımsızlık). Meclis İçtüzüğü'nün hem şekil hem de esas bakımından Anayasa'ya uygunluk denetimini <strong>Anayasa Mahkemesi</strong> yapar.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM İçtüzüğü yargısal denetimi ➔ <strong>Anayasa Mahkemesi</strong> (İptal davası yoluyla)."
+  },
   {
-  "id": "anayasa_t4_q10",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 10,
-  "questionText": "1982 Anayasası'na göre, boşalan üyeliklerin sayısı TBMM üye tam sayısının yüzde kaçını bulduğu hallerde, ara seçimin yapılması zorunludur?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "%2"
-    },
-    {
-      "key": "B",
-      "text": "%4"
-    },
-    {
-      "key": "C",
-      "text": "%5 (30 milletvekili)"
-    },
-    {
-      "key": "D",
-      "text": "%7"
-    },
-    {
-      "key": "E",
-      "text": "%10"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (%5 - 30 milletvekili)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.78):</strong><br>TBMM'de boşalan üyeliklerin sayısı üye tam sayısının <strong>yüzde beşini (%5 - 30 milletvekili)</strong> bulduğu takdirde, ara seçimlerin <strong>üç ay (90 gün)</strong> içinde yapılmasına karar verilmesi zorunludur.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Ara seçim zorunlu eşik = <strong>%5 (30 Milletvekili)</strong>."
-},
+    "id": "anayasa_t4_q10",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 10,
+    "questionText": "1982 Anayasası'na göre, boşalan üyeliklerin sayısı TBMM üye tam sayısının yüzde kaçını bulduğu hallerde, ara seçimin yapılması zorunludur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "%2"
+      },
+      {
+        "key": "B",
+        "text": "%4"
+      },
+      {
+        "key": "C",
+        "text": "%5 (30 milletvekili)"
+      },
+      {
+        "key": "D",
+        "text": "%7"
+      },
+      {
+        "key": "E",
+        "text": "%10"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (%5 - 30 milletvekili)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.78):</strong><br>TBMM'de boşalan üyeliklerin sayısı üye tam sayısının <strong>yüzde beşini (%5 - 30 milletvekili)</strong> bulduğu takdirde, ara seçimlerin <strong>üç ay (90 gün)</strong> içinde yapılmasına karar verilmesi zorunludur.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Ara seçim zorunlu eşik = <strong>%5 (30 Milletvekili)</strong>."
+  },
   {
-  "id": "anayasa_t4_q11",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 11,
-  "questionText": "1982 Anayasası'na göre, seçimden önce veya sonra bir suç işlediği ileri sürülen milletvekilinin yargılanabilmesi aşağıdakilerden hangisinin kararına bağlıdır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Hâkimler ve Savcılar Kurulu (HSK)"
-    },
-    {
-      "key": "B",
-      "text": "Türkiye Büyük Millet Meclisi (TBMM)"
-    },
-    {
-      "key": "C",
-      "text": "Danıştay"
-    },
-    {
-      "key": "D",
-      "text": "Anayasa Mahkemesi"
-    },
-    {
-      "key": "E",
-      "text": "Cumhurbaşkanı"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (Türkiye Büyük Millet Meclisi - TBMM)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83):</strong><br>Seçimden önce veya sonra bir suç işlediği ileri sürülen bir milletvekili, <strong>Meclis'in kararı olmadıkça (yasama dokunulmazlığı kaldırılmadıkça)</strong> tutulamaz, sorguya çekilemez, tutuklanamaz ve yargılanamaz.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Dokunulmazlığı kaldırma yetkisi ➔ <strong>TBMM Genel Kurulu</strong>'na aittir."
-},
+    "id": "anayasa_t4_q11",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 11,
+    "questionText": "1982 Anayasası'na göre, seçimden önce veya sonra bir suç işlediği ileri sürülen milletvekilinin yargılanabilmesi aşağıdakilerden hangisinin kararına bağlıdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hâkimler ve Savcılar Kurulu (HSK)"
+      },
+      {
+        "key": "B",
+        "text": "Türkiye Büyük Millet Meclisi (TBMM)"
+      },
+      {
+        "key": "C",
+        "text": "Danıştay"
+      },
+      {
+        "key": "D",
+        "text": "Anayasa Mahkemesi"
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Türkiye Büyük Millet Meclisi - TBMM)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83):</strong><br>Seçimden önce veya sonra bir suç işlediği ileri sürülen bir milletvekili, <strong>Meclis'in kararı olmadıkça (yasama dokunulmazlığı kaldırılmadıkça)</strong> tutulamaz, sorguya çekilemez, tutuklanamaz ve yargılanamaz.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Dokunulmazlığı kaldırma yetkisi ➔ <strong>TBMM Genel Kurulu</strong>'na aittir."
+  },
   {
-  "id": "anayasa_t4_q12",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 12,
-  "questionText": "1982 Anayasası'na göre aşağıdaki görevlerden hangisini kabul eden milletvekilinin milletvekilliği doğrudan sona erer?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "TBMM Başkanlığı"
-    },
-    {
-      "key": "B",
-      "text": "TBMM İdare Amirliği"
-    },
-    {
-      "key": "C",
-      "text": "Cumhurbaşkanlığı (veya CB Yardımcılığı / Bakanlık)"
-    },
-    {
-      "key": "D",
-      "text": "Siyasi parti genel başkanlığı"
-    },
-    {
-      "key": "E",
-      "text": "TBMM Komisyon Başkanlığı"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (Cumhurbaşkanlığı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.101 ve m.106):</strong><br>Cumhurbaşkanı seçilen, Cumhurbaşkanı Yardımcısı veya Bakan olarak atanan kimselerin milletvekillikleri <strong>göreve başladıkları anda doğrudan sona erer</strong>. TBMM Başkanı veya komisyon üyeleri ise zaten milletvekilidirler.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Cumhurbaşkanı, CB Yardımcısı veya Bakan olanın vekilliği doğrudan düşer."
-},
+    "id": "anayasa_t4_q12",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 12,
+    "questionText": "1982 Anayasası'na göre aşağıdaki görevlerden hangisini kabul eden milletvekilinin milletvekilliği doğrudan sona erer?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "TBMM İdare Amirliği"
+      },
+      {
+        "key": "C",
+        "text": "Cumhurbaşkanlığı (veya CB Yardımcılığı / Bakanlık)"
+      },
+      {
+        "key": "D",
+        "text": "Siyasi parti genel başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "TBMM Komisyon Başkanlığı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Cumhurbaşkanlığı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.101 ve m.106):</strong><br>Cumhurbaşkanı seçilen, Cumhurbaşkanı Yardımcısı veya Bakan olarak atanan kimselerin milletvekillikleri <strong>göreve başladıkları anda doğrudan sona erer</strong>. TBMM Başkanı veya komisyon üyeleri ise zaten milletvekilidirler.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Cumhurbaşkanı, CB Yardımcısı veya Bakan olanın vekilliği doğrudan düşer."
+  },
   {
-  "id": "anayasa_t4_q13",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 13,
-  "questionText": "1982 Anayasası'na göre, Meclis'in tatil dışında çalışmalarını ertelemesine 'ara verme' denir. Buna göre, tek seferde ara verme süresi kaç günü geçemez?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "10 gün"
-    },
-    {
-      "key": "B",
-      "text": "15 gün"
-    },
-    {
-      "key": "C",
-      "text": "20 gün"
-    },
-    {
-      "key": "D",
-      "text": "30 gün"
-    },
-    {
-      "key": "E",
-      "text": "45 gün"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (15 gün)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.93):</strong><br>TBMM bir yasama yılında en çok <strong>üç ay tatil</strong> yapabilir. Ara verme süresi ise bir seferde <strong>on beş (15) günü</strong> geçemez.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Tatil süresi = <strong>En çok 3 ay</strong> | Ara verme süresi = <strong>En çok 15 gün</strong>."
-},
+    "id": "anayasa_t4_q13",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 13,
+    "questionText": "1982 Anayasası'na göre, Meclis'in tatil dışında çalışmalarını ertelemesine 'ara verme' denir. Buna göre, tek seferde ara verme süresi kaç günü geçemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 gün"
+      },
+      {
+        "key": "B",
+        "text": "15 gün"
+      },
+      {
+        "key": "C",
+        "text": "20 gün"
+      },
+      {
+        "key": "D",
+        "text": "30 gün"
+      },
+      {
+        "key": "E",
+        "text": "45 gün"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (15 gün)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.93):</strong><br>TBMM bir yasama yılında en çok <strong>üç ay tatil</strong> yapabilir. Ara verme süresi ise bir seferde <strong>on beş (15) günü</strong> geçemez.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Tatil süresi = <strong>En çok 3 ay</strong> | Ara verme süresi = <strong>En çok 15 gün</strong>."
+  },
   {
-  "id": "anayasa_t4_q14",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 14,
-  "questionText": "Yasama meclislerinin kendi iç çalışmalarını ve çalışma kurallarını bizzat kendilerinin belirlemesi, onların yürütme organı karşısındaki özerkliğinin bir göstergesidir. Yukarıda açıklanan kavram aşağıdakilerden hangisidir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Yasama yetkisinin asliliği"
-    },
-    {
-      "key": "B",
-      "text": "Yöntemsel bağımsızlık"
-    },
-    {
-      "key": "C",
-      "text": "Yasama yetkisinin devredilmezliği"
-    },
-    {
-      "key": "D",
-      "text": "Yasama yetkisinin genelliği"
-    },
-    {
-      "key": "E",
-      "text": "Kuvvetler birliği"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (Yöntemsel bağımsızlık)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br><strong>Yöntemsel Bağımsızlık:</strong> Yasama organının kendi iç işleyişini, çalışma düzenini, oturum ve komisyon kurallarını başka hiçbir organın onayına tâbi olmadan kendi hazırladığı İçtüzük ile belirleyebilmesidir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Kendi İçtüzüğünü kendisi yapma ➔ <strong>Yöntemsel Bağımsızlık</strong>."
-},
+    "id": "anayasa_t4_q14",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 14,
+    "questionText": "Yasama meclislerinin kendi iç çalışmalarını ve çalışma kurallarını bizzat kendilerinin belirlemesi, onların yürütme organı karşısındaki özerkliğinin bir göstergesidir. Yukarıda açıklanan kavram aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yasama yetkisinin asliliği"
+      },
+      {
+        "key": "B",
+        "text": "Yöntemsel bağımsızlık"
+      },
+      {
+        "key": "C",
+        "text": "Yasama yetkisinin devredilmezliği"
+      },
+      {
+        "key": "D",
+        "text": "Yasama yetkisinin genelliği"
+      },
+      {
+        "key": "E",
+        "text": "Kuvvetler birliği"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yöntemsel bağımsızlık)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br><strong>Yöntemsel Bağımsızlık:</strong> Yasama organının kendi iç işleyişini, çalışma düzenini, oturum ve komisyon kurallarını başka hiçbir organın onayına tâbi olmadan kendi hazırladığı İçtüzük ile belirleyebilmesidir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Kendi İçtüzüğünü kendisi yapma ➔ <strong>Yöntemsel Bağımsızlık</strong>."
+  },
   {
-  "id": "anayasa_t4_q15",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 15,
-  "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi TBMM'yi yasama çalışmalarına ara verme veya tatil sırasında doğrudan toplantıya çağırmaya yetkilidir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Cumhurbaşkanı Yardımcısı"
-    },
-    {
-      "key": "B",
-      "text": "TBMM Başkanı"
-    },
-    {
-      "key": "C",
-      "text": "Milli Güvenlik Kurulu"
-    },
-    {
-      "key": "D",
-      "text": "TBMM Danışma Kurulu"
-    },
-    {
-      "key": "E",
-      "text": "Anayasa Mahkemesi Başkanı"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (TBMM Başkanı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.93):</strong><br>TBMM'yi tatil veya ara verme sırasında doğrudan toplantıya çağırma yetkisi yalnızca iki makama aittir:<br>1. <strong>Cumhurbaşkanı</strong><br>2. <strong>TBMM Başkanı</strong>.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Doğrudan çağıranlar = <strong>Cumhurbaşkanı ve Meclis Başkanı</strong>."
-},
+    "id": "anayasa_t4_q15",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 15,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi TBMM'yi yasama çalışmalarına ara verme veya tatil sırasında doğrudan toplantıya çağırmaya yetkilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı Yardımcısı"
+      },
+      {
+        "key": "B",
+        "text": "TBMM Başkanı"
+      },
+      {
+        "key": "C",
+        "text": "Milli Güvenlik Kurulu"
+      },
+      {
+        "key": "D",
+        "text": "TBMM Danışma Kurulu"
+      },
+      {
+        "key": "E",
+        "text": "Anayasa Mahkemesi Başkanı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (TBMM Başkanı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.93):</strong><br>TBMM'yi tatil veya ara verme sırasında doğrudan toplantıya çağırma yetkisi yalnızca iki makama aittir:<br>1. <strong>Cumhurbaşkanı</strong><br>2. <strong>TBMM Başkanı</strong>.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Doğrudan çağıranlar = <strong>Cumhurbaşkanı ve Meclis Başkanı</strong>."
+  },
   {
-  "id": "anayasa_t4_q16",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 16,
-  "questionText": "1982 Anayasası'na göre, Meclis İçtüzüğü'nün Anayasa'ya uygunluk yargısal denetimini başvuru üzerine aşağıdakilerden hangisi yapar?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Danıştay"
-    },
-    {
-      "key": "B",
-      "text": "Anayasa Mahkemesi"
-    },
-    {
-      "key": "C",
-      "text": "Yargıtay"
-    },
-    {
-      "key": "D",
-      "text": "Uyuşmazlık Mahkemesi"
-    },
-    {
-      "key": "E",
-      "text": "Yüksek Seçim Kurulu"
-    }
-  ],
-  "correctAnswer": "B",
-  "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa Mahkemesi)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.148):</strong><br>Anayasa Mahkemesi; kanunların, Cumhurbaşkanlığı kararnamelerinin ve <strong>Türkiye Büyük Millet Meclisi İçtüzüğü'nün</strong> Anayasaya şekil ve esas bakımlarından uygunluğunu denetler.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM İçtüzüğü denetimi ➔ <strong>Anayasa Mahkemesi</strong>."
-},
+    "id": "anayasa_t4_q16",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 16,
+    "questionText": "1982 Anayasası'na göre, Meclis İçtüzüğü'nün Anayasa'ya uygunluk yargısal denetimini başvuru üzerine aşağıdakilerden hangisi yapar?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Danıştay"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa Mahkemesi"
+      },
+      {
+        "key": "C",
+        "text": "Yargıtay"
+      },
+      {
+        "key": "D",
+        "text": "Uyuşmazlık Mahkemesi"
+      },
+      {
+        "key": "E",
+        "text": "Yüksek Seçim Kurulu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa Mahkemesi)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.148):</strong><br>Anayasa Mahkemesi; kanunların, Cumhurbaşkanlığı kararnamelerinin ve <strong>Türkiye Büyük Millet Meclisi İçtüzüğü'nün</strong> Anayasaya şekil ve esas bakımlarından uygunluğunu denetler.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>TBMM İçtüzüğü denetimi ➔ <strong>Anayasa Mahkemesi</strong>."
+  },
   {
-  "id": "anayasa_t4_q17",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 17,
-  "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM seçimlerinin yenilenmesi ile ilgili verilen YANLIŞ bir bilgidir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Yenileme kararını TBMM veya Cumhurbaşkanı alabilir."
-    },
-    {
-      "key": "B",
-      "text": "TBMM seçimleri yenilerse seçim tarihini kendisi belirler."
-    },
-    {
-      "key": "C",
-      "text": "TBMM yenileme kararını üye tamsayısının beşte üç (3/5) çoğunluğuyla alabilir."
-    },
-    {
-      "key": "D",
-      "text": "Seçimler yenilenirse TBMM ve Cumhurbaşkanlığı seçimleri aynı gün birlikte yapılır."
-    },
-    {
-      "key": "E",
-      "text": "Cumhurbaşkanının yenileme kararı alabilmesi için TBMM Başkanına danışması zorunludur."
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (Cumhurbaşkanının TBMM Başkanına danışması gerekir - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.116 - 2017 Değişikliği):</strong><br>2017 Anayasa değişikliğinden önce Cumhurbaşkanının erken seçim kararı alabilmesi için Meclis Başkanına danışması gerekiyordu. 2017 değişikliği ile bu zorunluluk tamamen kaldırılmıştır. Cumhurbaşkanı hiçbir makama danışmadan ve gerekçe göstermeden seçimleri dilediği an yenileyebilir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Cumhurbaşkanı erken seçim kararı alırken Meclis Başkanına danışmak zorunda DEĞİLDİR."
-},
+    "id": "anayasa_t4_q17",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 17,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM seçimlerinin yenilenmesi ile ilgili verilen YANLIŞ bir bilgidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yenileme kararını TBMM veya Cumhurbaşkanı alabilir."
+      },
+      {
+        "key": "B",
+        "text": "TBMM seçimleri yenilerse seçim tarihini kendisi belirler."
+      },
+      {
+        "key": "C",
+        "text": "TBMM yenileme kararını üye tamsayısının beşte üç (3/5) çoğunluğuyla alabilir."
+      },
+      {
+        "key": "D",
+        "text": "Seçimler yenilenirse TBMM ve Cumhurbaşkanlığı seçimleri aynı gün birlikte yapılır."
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanının yenileme kararı alabilmesi için TBMM Başkanına danışması zorunludur."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Cumhurbaşkanının TBMM Başkanına danışması gerekir - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.116 - 2017 Değişikliği):</strong><br>2017 Anayasa değişikliğinden önce Cumhurbaşkanının erken seçim kararı alabilmesi için Meclis Başkanına danışması gerekiyordu. 2017 değişikliği ile bu zorunluluk tamamen kaldırılmıştır. Cumhurbaşkanı hiçbir makama danışmadan ve gerekçe göstermeden seçimleri dilediği an yenileyebilir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Cumhurbaşkanı erken seçim kararı alırken Meclis Başkanına danışmak zorunda DEĞİLDİR."
+  },
   {
-  "id": "anayasa_t4_q18",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 18,
-  "questionText": "1982 Anayasası'na göre, yasama dokunulmazlığı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Milletvekillerini keyfi tutuklamalarla yasama faaliyetlerinden alıkoymamak amacını güder."
-    },
-    {
-      "key": "B",
-      "text": "Ağır cezayı gerektiren suçüstü hali dokunulmazlık kapsamı dışındadır."
-    },
-    {
-      "key": "C",
-      "text": "Milletvekillerini hem hukuk (tazminat/alacak vb.) hem de ceza davalarına karşı korur."
-    },
-    {
-      "key": "D",
-      "text": "TBMM Genel Kurulu kararıyla kaldırılabilir."
-    },
-    {
-      "key": "E",
-      "text": "Bakanlar ve Cumhurbaşkanı yardımcıları da bu haktan yararlanır."
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (Hukuk ve ceza davalarına karşı korur - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83):</strong><br>Yasama dokunulmazlığı <strong>YALNIZCA CEZA DAVALARINA</strong> karşı koruma sağlar! Hukuk davalarına (alacak-verecek, tazminat, boşanma, ticari davalar) karşı hiçbir koruma sağlamaz. Bir milletvekili aleyhine dokunulmazlığı kalkmadan da tazminat veya boşanma davası açılabilir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Yasama dokunulmazlığı sadece <strong>ceza</strong> davalarında korur, <strong>hukuk</strong> davalarında korumaz!"
-},
+    "id": "anayasa_t4_q18",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 18,
+    "questionText": "1982 Anayasası'na göre, yasama dokunulmazlığı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekillerini keyfi tutuklamalarla yasama faaliyetlerinden alıkoymamak amacını güder."
+      },
+      {
+        "key": "B",
+        "text": "Ağır cezayı gerektiren suçüstü hali dokunulmazlık kapsamı dışındadır."
+      },
+      {
+        "key": "C",
+        "text": "Milletvekillerini hem hukuk (tazminat/alacak vb.) hem de ceza davalarına karşı korur."
+      },
+      {
+        "key": "D",
+        "text": "TBMM Genel Kurulu kararıyla kaldırılabilir."
+      },
+      {
+        "key": "E",
+        "text": "Bakanlar ve Cumhurbaşkanı yardımcıları da bu haktan yararlanır."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Hukuk ve ceza davalarına karşı korur - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.83):</strong><br>Yasama dokunulmazlığı <strong>YALNIZCA CEZA DAVALARINA</strong> karşı koruma sağlar! Hukuk davalarına (alacak-verecek, tazminat, boşanma, ticari davalar) karşı hiçbir koruma sağlamaz. Bir milletvekili aleyhine dokunulmazlığı kalkmadan da tazminat veya boşanma davası açılabilir.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Yasama dokunulmazlığı sadece <strong>ceza</strong> davalarında korur, <strong>hukuk</strong> davalarında korumaz!"
+  },
   {
-  "id": "anayasa_t4_q19",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 19,
-  "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisinin gerçekleşmesi durumunda ara seçime gidilmesi anayasal bir zorunluluktur?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "Üye tam sayısında %3'lük bir eksilme olursa"
-    },
-    {
-      "key": "B",
-      "text": "Bakanlar Kurulu topluca istifa ederse"
-    },
-    {
-      "key": "C",
-      "text": "Bir ilin veya seçim çevresinin Meclis'te hiç üyesi (temsilcisi) kalmazsa"
-    },
-    {
-      "key": "D",
-      "text": "Herhangi bir sebeple Cumhurbaşkanlığı makamı boşalırsa"
-    },
-    {
-      "key": "E",
-      "text": "Anayasa'da öngörülen süre içerisinde TBMM Başkanlık Divanı kurulamazsa"
-    }
-  ],
-  "correctAnswer": "C",
-  "explanation": "Doğru Cevap: <strong>C</strong> (Bir ilin veya seçim çevresinin Meclis'te temsilcisi kalmazsa)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.78):</strong><br>Bir ilin veya seçim çevresinin TBMM'de hiç üyesi kalmaması halinde, boşalmayı takip eden <strong>doksan günden sonraki ilk Pazar günü</strong> ara seçim yapılması ZORUNLUDUR. Bu halde 30 ay ve son 1 yıl yasakları uygulanmaz.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Temsilcisiz il kalırsa ➔ <strong>90 günden sonraki ilk Pazar günü ara seçim ZORUNLUDUR</strong>."
-},
+    "id": "anayasa_t4_q19",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 19,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisinin gerçekleşmesi durumunda ara seçime gidilmesi anayasal bir zorunluluktur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Üye tam sayısında %3'lük bir eksilme olursa"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlar Kurulu topluca istifa ederse"
+      },
+      {
+        "key": "C",
+        "text": "Bir ilin veya seçim çevresinin Meclis'te hiç üyesi (temsilcisi) kalmazsa"
+      },
+      {
+        "key": "D",
+        "text": "Herhangi bir sebeple Cumhurbaşkanlığı makamı boşalırsa"
+      },
+      {
+        "key": "E",
+        "text": "Anayasa'da öngörülen süre içerisinde TBMM Başkanlık Divanı kurulamazsa"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bir ilin veya seçim çevresinin Meclis'te temsilcisi kalmazsa)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.78):</strong><br>Bir ilin veya seçim çevresinin TBMM'de hiç üyesi kalmaması halinde, boşalmayı takip eden <strong>doksan günden sonraki ilk Pazar günü</strong> ara seçim yapılması ZORUNLUDUR. Bu halde 30 ay ve son 1 yıl yasakları uygulanmaz.<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Temsilcisiz il kalırsa ➔ <strong>90 günden sonraki ilk Pazar günü ara seçim ZORUNLUDUR</strong>."
+  },
   {
-  "id": "anayasa_t4_q20",
-  "testId": "anayasa_2027_test_4",
-  "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
-  "topicId": "mevzuat_anayasa",
-  "topicName": "1982 T.C. Anayasası",
-  "category": "Mevzuat (%20)",
-  "icon": "⚖️",
-  "questionNumber": 20,
-  "questionText": "1982 Anayasası'nın yürürlükteki haline göre, aşağıdakilerden hangisi TBMM seçimleri ile ilgili doğru bir bilgi değildir?",
-  "hasImage": false,
-  "image": null,
-  "options": [
-    {
-      "key": "A",
-      "text": "TBMM üyeliğine 600 milletvekili seçilir."
-    },
-    {
-      "key": "B",
-      "text": "Milletvekili seçilebilmek için en az 18 yaşını doldurmuş olmak gerekir."
-    },
-    {
-      "key": "C",
-      "text": "Seçimlerde 18 yaşını dolduran her Türk vatandaşı oy kullanma hakkına sahiptir."
-    },
-    {
-      "key": "D",
-      "text": "Silahaltındaki er ve erbaşlar ile askeri öğrenciler oy kullanamaz."
-    },
-    {
-      "key": "E",
-      "text": "Türkiye'de ikamet eden yabancılar da gerekli izinleri alarak milletvekili seçilebilir."
-    }
-  ],
-  "correctAnswer": "E",
-  "explanation": "Doğru Cevap: <strong>E</strong> (Yabancılar milletvekili seçilebilir - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76):</strong><br>Milletvekili seçilme yeterliliğinin birinci ve mutlak şartı <strong>Türk vatandaşı olmak</strong>tır. Yabancı uyrukluların milletvekili seçilmesi hukuken kesinlikle mümkün değildir (Çifte vatandaşlar ise Türk vatandaşı oldukları için milletvekili olabilirler).<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Milletvekilliğinde ilk şart: <strong>Türk vatandaşı olmak</strong>tır."
-}
+    "id": "anayasa_t4_q20",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 20,
+    "questionText": "1982 Anayasası'nın yürürlükteki haline göre, aşağıdakilerden hangisi TBMM seçimleri ile ilgili doğru bir bilgi değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM üyeliğine 600 milletvekili seçilir."
+      },
+      {
+        "key": "B",
+        "text": "Milletvekili seçilebilmek için en az 18 yaşını doldurmuş olmak gerekir."
+      },
+      {
+        "key": "C",
+        "text": "Seçimlerde 18 yaşını dolduran her Türk vatandaşı oy kullanma hakkına sahiptir."
+      },
+      {
+        "key": "D",
+        "text": "Silahaltındaki er ve erbaşlar ile askeri öğrenciler oy kullanamaz."
+      },
+      {
+        "key": "E",
+        "text": "Türkiye'de ikamet eden yabancılar da gerekli izinleri alarak milletvekili seçilebilir."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Yabancılar milletvekili seçilebilir - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76):</strong><br>Milletvekili seçilme yeterliliğinin birinci ve mutlak şartı <strong>Türk vatandaşı olmak</strong>tır. Yabancı uyrukluların milletvekili seçilmesi hukuken kesinlikle mümkün değildir (Çifte vatandaşlar ise Türk vatandaşı oldukları için milletvekili olabilirler).<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Milletvekilliğinde ilk şart: <strong>Türk vatandaşı olmak</strong>tır."
+  }
 ];
