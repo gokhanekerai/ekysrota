@@ -7121,7 +7121,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 5,
   "questionText": "Aşağıdaki harita üzerinde beş farklı alan numaralandırılarak gösterilmiştir.\n\nBu alanların hangisinde nüfus yoğunluğu diğerlerine göre daha azdır?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q22_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q22_img.png?v=226.0",
   "options": [
     {
       "key": "A",
@@ -7195,7 +7195,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 7,
   "questionText": "Tarımsal nüfus yoğunluğunun fazla olduğu yerlerde genel olarak;\n• Tarım alanları dardır.\n• Tarımla uğraşan nüfus fazladır.\n\nBuna göre, harita üzerinde numaralandırılarak verilen yerlerin hangisinde tarımsal nüfus yoğunluğunun diğerlerine göre daha fazla olması beklenir?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q24_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q24_img.png?v=226.0",
   "options": [
     {
       "key": "A",
@@ -7269,7 +7269,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 9,
   "questionText": "Aşağıdaki haritada dört farklı bölge numaralandırılarak verilmiştir.\n\nBuna göre, haritada verilen bölgelerden hangilerinde nüfusun dağılışında sanayi kuruluşlarının etkisi daha fazladır?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q26_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q26_img.png?v=226.0",
   "options": [
     {
       "key": "A",
@@ -7306,7 +7306,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 10,
   "questionText": "Yukarıdaki grafikte Türkiye'nin 1927 - 2020 yılları arasındaki nüfus artış hızı gösterilmiştir.\n\nBuna göre;\nI. Nüfus yoğunluğunun fazla olduğu bölgelere,\nII. Nüfus artış hızının en az olduğu döneme,\nIII. Toplam nüfus miktarına\n\nbilgilerinden hangilerine kesinlikle ulaşılabilir?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q27_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q27_img.png?v=226.0",
   "options": [
     {
       "key": "A",
@@ -7343,7 +7343,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 11,
   "questionText": "Türkiye haritası üzerinde beş farklı yer numaralandırılarak verilmiştir.\n\nBuna göre, haritada numaralandırılan yerlerle ilgili aşağıdakilerden hangisi söylenemez?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q28_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q28_img.png?v=226.0",
   "options": [
     {
       "key": "A",
@@ -7454,7 +7454,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 14,
   "questionText": "Türkiye'de kırsal alanlarda tarımda makine kullanımının artması sebebiyle işsiz kalan insanlar kentlere doğru göç etmek zorunda kalmışlardır.\n\nBu duruma bağlı olarak; harita üzerinde numaralandırılmış yerlerin hangisi daha çok göç vermiştir?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q31_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q31_img.png?v=226.0",
   "options": [
     {
       "key": "A",
@@ -7491,7 +7491,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 15,
   "questionText": "Harita üzerinde numaralandırılarak verilen yerlerin hangisi turizm faaliyetleri nedeniyle diğerlerine göre daha fazla mevsimlik göç almaktadır?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q32_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q32_img.png?v=226.0",
   "options": [
     {
       "key": "A",
@@ -7528,7 +7528,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 16,
   "questionText": "Harita üzerinde beş farklı alan numaralandırılarak gösterilmiştir.\n\nBu alanların hangisi daha fazla tarımsal amaçlı mevsimlik göç alır?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q33_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q33_img.png?v=226.0",
   "options": [
     {
       "key": "A",
@@ -7565,7 +7565,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 17,
   "questionText": "Tarımda sulamanın yaygınlaştırılması kırsal alanlardan kentsel alanlara göçün azalmasını sağlayacaktır.\n\nBu durum yukarıdaki haritada işaretli bölgelerden hangisi için geçerli değildir?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q34_img.png?v=225.0",
+  "image": "assets/questions/cogr_h3_q34_img.png?v=226.0",
   "options": [
     {
       "key": "A",
