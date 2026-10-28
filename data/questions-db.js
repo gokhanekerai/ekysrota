@@ -79465,8 +79465,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 1,
   "questionText": "TBMM'nin hiçbir kişi veya organı araya koymadan, doğrudan kanun yapması hangi ilkesine dayanır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q1.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79502,8 +79502,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 2,
   "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisinin siyaset yapma yasağı vardır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q2.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79539,8 +79539,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 3,
   "questionText": "Aşağıdakilerden hangisi TBMM Başkanı'nın görev ve yetkilerinden biri değildir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q3.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79576,8 +79576,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 4,
   "questionText": "Cumhurbaşkanı tarafından TBMM'ye geri gönderilen kanun teklifini TBMM en az hangi çoğunlukla aynen kabul ederse, Cumhurbaşkanı Resmi Gazete'de yayımlamak zorundadır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q4.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79613,8 +79613,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 5,
   "questionText": "Aşağıdakilerden hangisi TBMM'nin görev ve yetkileri arasında yer almaz?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q5.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79650,8 +79650,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 6,
   "questionText": "I. Dokunulmazlığın kaldırılması<br>II. Bakan olması<br>III. Partisinden istifa etmesi<br>IV. Cumhurbaşkanı yardımcısı seçilmesi<br>Yukarıdakilerden hangileri milletvekilliğini sona erdiren hallerden biri DEĞİLDİR?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q6.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79687,8 +79687,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 7,
   "questionText": "Genel seçimlerde milletvekili seçilen kişinin mazbatasını düzenleyip teslim eden merci aşağıdakilerden hangisidir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q7.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79724,8 +79724,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 8,
   "questionText": "Yasama sorumsuzluğu (kürsü dokunulmazlığı) ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q8.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79761,8 +79761,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 9,
   "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi TBMM üyeliğinin düşme nedenlerinden biri değildir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q9.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79798,8 +79798,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 10,
   "questionText": "Aşağıdaki mahkûmiyetlerden hangisi milletvekili seçilmeye engel değildir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q10.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79835,8 +79835,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 11,
   "questionText": "Savaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, TBMM seçimlerin ne kadar süreyle geriye bırakılmasına (ertelenmesine) karar verebilir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q11.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79872,8 +79872,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 12,
   "questionText": "TBMM'deki siyasi parti grupları ile ilgili aşağıdakilerden hangisi yanlıştır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q12.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79909,8 +79909,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 13,
   "questionText": "1982 Anayasası'na göre TBMM'de bir siyasi parti grubu en az kaç milletvekilinden oluşur?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q13.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79946,8 +79946,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 14,
   "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi milletvekilliğinin düşme sebepleri arasında yer almaktadır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q14.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -79983,8 +79983,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 15,
   "questionText": "TBMM tatil veya ara verme sırasındayken, aşağıdakilerden hangi oranda milletvekilinin yazılı istemi üzerine TBMM Başkanı tarafından toplantıya çağrılabilir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q15.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80020,8 +80020,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 16,
   "questionText": "1982 Anayasası'na göre, TBMM seçimleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q16.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80057,8 +80057,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 17,
   "questionText": "1982 Anayasası'na göre aşağıdakilerden hangilerinin TBMM seçimlerini yenileme (erken seçim) yetkisi vardır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t3_q17.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80094,8 +80094,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 1,
   "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi görevinden çekilmedikçe (istifa etmedikçe) milletvekili adayı olamayacak kişiler arasında yer almaz?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q1.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80131,8 +80131,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 2,
   "questionText": "'TBMM genel oyla seçilmiş 600 milletvekilinden oluşur.' hükmü 1982 Anayasası'nda hangi yıl yapılan değişiklikle düzenlenmiştir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q2.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80168,8 +80168,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 3,
   "questionText": "Yasama dokunulmazlığı TBMM kararı ile kaldırılan bir milletvekili, yargılanması sonunda aşağıdaki cezalardan hangisini kesin hükümle alırsa milletvekilliği sona erer?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q3.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80205,8 +80205,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 4,
   "questionText": "1982 Anayasası'na göre, bir milletvekili meclis çalışmalarındaki oy, söz ve düşüncelerinden dolayı ne kadar süre ile sorumsuzdur?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q4.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80242,8 +80242,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 5,
   "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi milletvekillerine sağlanan yasama bağışıklıkları ile ilgili yanlış bir bilgidir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q5.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80279,8 +80279,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 6,
   "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM'nin olağanüstü toplantıya çağrılması ile ilgili doğru bir bilgi değildir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q6.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80316,8 +80316,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 7,
   "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nın değiştirilemeyecek ve değiştirilmesi teklif dahi edilemeyecek hükümlerinden biri değildir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q7.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80353,8 +80353,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 8,
   "questionText": "Aşağıdakilerden hangisi milletvekilleri ile ilgili doğru bir ifadedir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q8.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80390,8 +80390,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 9,
   "questionText": "TBMM çalışmalarını kendi yaptığı İçtüzük hükümlerine göre yürütür. Meclis İçtüzüğü'nün yargısal denetimi hangi merci tarafından yapılır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q9.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80427,8 +80427,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 10,
   "questionText": "1982 Anayasası'na göre, boşalan üyeliklerin sayısı TBMM üye tam sayısının yüzde kaçını bulduğu hallerde, ara seçimin yapılması zorunludur?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q10.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80464,8 +80464,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 11,
   "questionText": "1982 Anayasası'na göre, seçimden önce veya sonra bir suç işlediği ileri sürülen milletvekilinin yargılanabilmesi aşağıdakilerden hangisinin kararına bağlıdır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q11.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80501,8 +80501,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 12,
   "questionText": "1982 Anayasası'na göre aşağıdaki görevlerden hangisini kabul eden milletvekilinin milletvekilliği doğrudan sona erer?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q12.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80538,8 +80538,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 13,
   "questionText": "1982 Anayasası'na göre, Meclis'in tatil dışında çalışmalarını ertelemesine 'ara verme' denir. Buna göre, tek seferde ara verme süresi kaç günü geçemez?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q13.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80575,8 +80575,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 14,
   "questionText": "Yasama meclislerinin kendi iç çalışmalarını ve çalışma kurallarını bizzat kendilerinin belirlemesi, onların yürütme organı karşısındaki özerkliğinin bir göstergesidir. Yukarıda açıklanan kavram aşağıdakilerden hangisidir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q14.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80612,8 +80612,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 15,
   "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi TBMM'yi yasama çalışmalarına ara verme veya tatil sırasında doğrudan toplantıya çağırmaya yetkilidir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q15.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80649,8 +80649,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 16,
   "questionText": "1982 Anayasası'na göre, Meclis İçtüzüğü'nün Anayasa'ya uygunluk yargısal denetimini başvuru üzerine aşağıdakilerden hangisi yapar?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q16.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80686,8 +80686,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 17,
   "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM seçimlerinin yenilenmesi ile ilgili verilen YANLIŞ bir bilgidir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q17.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80723,8 +80723,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 18,
   "questionText": "1982 Anayasası'na göre, yasama dokunulmazlığı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q18.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80760,8 +80760,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 19,
   "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisinin gerçekleşmesi durumunda ara seçime gidilmesi anayasal bir zorunluluktur?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q19.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
@@ -80797,8 +80797,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "icon": "⚖️",
   "questionNumber": 20,
   "questionText": "1982 Anayasası'nın yürürlükteki haline göre, aşağıdakilerden hangisi TBMM seçimleri ile ilgili doğru bir bilgi değildir?",
-  "hasImage": true,
-  "image": "assets/questions/anayasa_t4_q20.png",
+  "hasImage": false,
+  "image": null,
   "options": [
     {
       "key": "A",
