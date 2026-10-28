@@ -9006,33 +9006,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 3,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nKıl keçisi, yer şekilleri bakımından sarp ve dağlık, bitki örtüsü bakımından maki ve çalılık araziye çok iyi uyum sağlamış dayanıklı bir küçükbaş hayvandır.\n\nBuna göre aşağıdaki alanların hangisi kıl keçisi yetiştiriciliği açısından Türkiye'nin en önemli merkezidir?",
+    "questionText": "Yukarıdaki Türkiye haritasında numaralandırılarak gösterilen alanların yer şekilleri ve bitki örtüsü özellikleri dikkate alındığında;\n\nKıl keçisi; sarp, engebeli ve kayalık arazilerde maki ve bodur çalılıklarla beslenerek kolaylıkla yetiştirilebilmektedir.\n\nBuna göre, haritada numaralandırılan alanların hangisi kıl keçisi yetiştiriciliğinin Türkiye'deki en önemli merkezidir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q23_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Ergene Havzası düzlükleri"
+        "text": "I (Ergene Havzası düzlükleri)"
       },
       {
         "key": "B",
-        "text": "Bafra ve Çarşamba deltaları"
+        "text": "II (Bafra ve Çarşamba deltaları)"
       },
       {
         "key": "C",
-        "text": "Konya Ovası"
+        "text": "III (Konya Ovası)"
       },
       {
         "key": "D",
-        "text": "Teke ve Taşeli Platoları (Toros Dağları kuşağı)"
+        "text": "IV (Teke ve Taşeli Platoları - Toroslar)"
       },
       {
         "key": "E",
-        "text": "Iğdır Ovası"
+        "text": "V (Güneydoğu Anadolu ovaları)"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Teke ve Taşeli platoları kalkerli, kayalık, engebeli yapısı ve bol maki örtüsüyle kıl keçisi için en ideal doğal yaşam sahasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene, Konya ve Bafra düz ova niteliğinde olup koyun ve sığır besiciliğine uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kıl keçisi = Teke-Taşeli Platoları ve Toroslar."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV - Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada IV numara ile gösterilen Teke ve Taşeli platoları (Akdeniz - Toros Dağları kuşağı), karstik kireç taşı arazisi, sarp kayalık yamaçları ve zengin maki çalılıkları ile kıl keçisinin en yaygın yetiştirildiği doğal yaşam sahasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I (Ergene), II (Bafra-Çarşamba), III (Konya Ovası) ve V (Güneydoğu) düz arazi yapısına sahip olup sığır ve koyun besiciliğine uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kıl keçisi = Toroslar, Teke ve Taşeli platoları (Maki + Karstik kayalık arazi)."
   },
   {
     "id": "cogr_hafta4_2-q4",
@@ -9080,33 +9080,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 5,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de volkanik arazilerin yaygınlığı, farklı jeolojik zamanlara ait kayaçların bir arada bulunması ve kırıklı metamorfik yapılar sebebiyle maden çeşitliliği ve yataklarının en zengin olduğu coğrafi bölüm aşağıdakilerden hangisidir?",
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı coğrafi alan numaralandırılarak taranmıştır.\n\nTürkiye'de volkanizma, metamorfizma ve tektonik kırık hatlarının çeşitliliği maden yataklarının zenginliğini belirler.\n\nBuna göre, haritada numaralandırılan alanların hangisinde maden çeşitliliği ve rezervleri diğerlerine göre çok daha zengindir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q25_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Yıldız Dağları Bölümü"
+        "text": "I (Ergene Bölümü)"
       },
       {
         "key": "B",
-        "text": "Konya Bölümü"
+        "text": "II (Orta Karadeniz kuşağı)"
       },
       {
         "key": "C",
-        "text": "Ergene Bölümü"
+        "text": "III (Kıyı Ege - Menteşe Yöresi)"
       },
       {
         "key": "D",
-        "text": "Antalya Bölümü"
+        "text": "IV (Antalya / Teke Bölümü)"
       },
       {
         "key": "E",
-        "text": "Yukarı Fırat Bölümü (Elazığ - Malatya çevresi)"
+        "text": "V (Yukarı Fırat Bölümü - Elazığ ve Malatya)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Yukarı Fırat Bölümü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'de hem maden çeşitliliği hem de cevher rezervi bakımından en zengin coğrafi bölüm Doğu Anadolu'da yer alan <strong>Yukarı Fırat Bölümü</strong>'dür (özellikle Elazığ: krom, bakır, kurşun, çinko ve Malatya: demir).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene ve Konya düz sedimenter havzalardır; maden çeşitliliği son derece fakirdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de maden çeşitliliğinin en fazla olduğu il: Elazığ; bölüm: Yukarı Fırat Bölümü'dür."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V - Yukarı Fırat Bölümü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada V numara ile gösterilen Doğu Anadolu'daki <strong>Yukarı Fırat Bölümü</strong> (özellikle Elazığ ve Malatya çevresi); demir, krom, bakır, kurşun ve çinko yataklarıyla Türkiye'nin maden çeşitliliği ve rezervi en zengin sahasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I (Ergene), II (Karadeniz), III (Menteşe) ve IV (Antalya) tortul ve kireç taşı ağırlıklı olup maden çeşitliliği sınırlıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de maden çeşitliliğinin en fazla olduğu il: Elazığ; coğrafi bölüm: Yukarı Fırat Bölümü'dür."
   },
   {
     "id": "cogr_hafta4_2-q6",
@@ -9339,33 +9339,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 12,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nAşağıda verilen enerji üretim santrallerinden hangisi doğal gaz yakıtı kullanarak elektrik enerjisi üretmektedir?",
+    "questionText": "Yukarıdaki Türkiye haritasında bazı elektrik enerjisi üretim santralleri numaralandırılarak gösterilmiştir.\n\nHaritada gösterilen enerji santrallerinden hangisinde elektrik üretiminde doğal gaz yakıtı kullanılmaktadır?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q32_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Kırklareli - Hamitabat Termik Santrali"
+        "text": "I (Kırklareli - Hamitabat Santrali)"
       },
       {
         "key": "B",
-        "text": "Zonguldak - Çatalağzı Termik Santrali"
+        "text": "II (Manisa - Soma Termik Santrali)"
       },
       {
         "key": "C",
-        "text": "Manisa - Soma Termik Santrali"
+        "text": "III (Denizli - Sarayköy Jeotermal Santrali)"
       },
       {
         "key": "D",
-        "text": "Elazığ - Keban Barajı Santrali"
+        "text": "IV (Zonguldak - Çatalağzı Termik Santrali)"
       },
       {
         "key": "E",
-        "text": "Denizli - Sarayköy Santrali"
+        "text": "V (Elazığ - Keban Barajı Santrali)"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kırklareli - Hamitabat)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Hamitabat (Kırklareli), Ambarlı (İstanbul) ve Ovaakça (Bursa) doğal gazla çalışan büyük kombine çevrim santralleridir. Hamitabat yerli doğal gaz yatağı üzerine kurulmuştur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çatalağzı taş kömürü, Soma linyit, Keban hidroelektrik, Sarayköy ise jeotermal santraldir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Doğal gaz santralleri: Hamitabat, Ambarlı, Ovaakça ve Aliağa."
+    "explanation": "Doğru Cevap: <strong>A</strong> (I - Hamitabat Santrali)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada I numara ile gösterilen Kırklareli - Hamitabat Termik Santrali, yerli doğal gaz yatakları üzerinde kurulmuş kombine çevrim doğal gaz santralidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• II (Soma) linyit, III (Sarayköy) jeotermal, IV (Çatalağzı) taş kömürü, V (Keban) ise hidroelektrik santralidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Doğal gaz santralleri: Kırklareli (Hamitabat), İstanbul (Ambarlı), Bursa (Ovaakça), İzmir (Aliağa)."
   },
   {
     "id": "cogr_hafta4_2-q13",
@@ -9413,33 +9413,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 14,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nYerin derinliklerindeki kırıklı fay hatlarından gelen yüksek sıcaklıktaki su buharı türbinleri döndürerek jeotermal elektrik üretilmesini sağlar.\n\nBuna göre, Türkiye'de ilk jeotermal elektrik üretim tesisinin kurulduğu merkez aşağıdakilerden hangisidir?",
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı coğrafi alan taranarak numaralandırılmıştır.\n\nYerin derinliklerindeki kırıklı fay hatlarından gelen yüksek sıcaklıktaki su buharı türbinleri döndürerek jeotermal elektrik üretilmesini sağlar.\n\nBuna göre, Türkiye'de ilk jeotermal elektrik üretim santralinin kurulduğu yer haritada numaralandırılan alanların hangisinde yer alır?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q34_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Zonguldak - Çatalağzı"
+        "text": "I (Trakya / Ergene Havzası)"
       },
       {
         "key": "B",
-        "text": "Denizli - Sarayköy"
+        "text": "II (Denizli - Sarayköy jeotermal sahası)"
       },
       {
         "key": "C",
-        "text": "Batman - Raman"
+        "text": "III (İç Batı Anadolu düzlükleri)"
       },
       {
         "key": "D",
-        "text": "Kahramanmaraş - Afşin-Elbistan"
+        "text": "IV (Göller Yöresi / Batı Toroslar)"
       },
       {
         "key": "E",
-        "text": "Sivas - Kangal"
+        "text": "V (Doğu Anadolu yüksek kuşağı)"
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Denizli - Sarayköy)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'nin ilk jeotermal elektrik santrali Denizli Sarayköy'de faaliyete geçmiştir. Günümüzde Aydın Germencik ve Manisa Alaşehir'de de büyük jeotermal enerji santralleri elektrik üretmektedir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çatalağzı taş kömürü, Raman petrol, Afşin linyit merkezleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Jeotermal enerji = Ege Graben kuşağı = Denizli (Sarayköy) ve Aydın (Germencik)."
+    "explanation": "Doğru Cevap: <strong>B</strong> (II - Denizli / Sarayköy)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada II numara ile gösterilen Büyük Menderes graben kuşağındaki Denizli - Sarayköy, Türkiye'nin ilk jeotermal elektrik santralinin kurulduğu yerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I, III, IV ve V numaralı alanlarda jeotermal elektrik santrali bulunmamaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Jeotermal elektrik üretimi Ege Graben sahasında yoğunlaşmıştır (Denizli-Sarayköy, Aydın-Germencik, Manisa-Alaşehir)."
   },
   {
     "id": "cogr_hafta4_2-q15",
@@ -9450,33 +9450,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 15,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nGüneş enerjisi potansiyeli; atmosferdeki bulutluluk oranına ve yıllık güneşlenme süresine doğrudan bağlıdır.\n\nBuna göre, her mevsim düzenli yağış alması ve bulutluluk oranının yıl boyu çok yüksek olması sebebiyle güneş enerjisi yatırımları için en verimsiz coğrafi alan aşağıdakilerden hangisidir?",
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı merkez numaralandırılarak gösterilmiştir.\n\nGüneş enerjisi potansiyeli; atmosferdeki bulutluluk oranına ve yıllık güneşlenme süresine doğrudan bağlıdır.\n\nBuna göre, her mevsim düzenli yağış alması ve bulutluluk oranının çok yüksek olması sebebiyle haritada numaralandırılan yerlerin hangisi güneş enerjisi yatırımları için en verimsiz alandır?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q35_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Güneydoğu Anadolu Bölgesi"
+        "text": "I (Kıyı Ege Bölümü)"
       },
       {
         "key": "B",
-        "text": "Akdeniz kıyı kuşağı"
+        "text": "II (Akdeniz kıyı kuşağı)"
       },
       {
         "key": "C",
-        "text": "İç Anadolu Bölgesi"
+        "text": "III (İç Anadolu Bölgesi)"
       },
       {
         "key": "D",
-        "text": "Doğu Karadeniz kıyı kuşağı"
+        "text": "IV (Doğu Karadeniz kıyı kuşağı)"
       },
       {
         "key": "E",
-        "text": "Kıyı Ege Bölümü"
+        "text": "V (Güneydoğu Anadolu Bölgesi)"
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyılarında yılın yaklaşık 250 günü bulutlu geçer; yıllık güneşlenme süresi 1750 saatin altına iner. Bu yüzden güneş paneli yatırımları için en verimsiz yerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Güneydoğu Anadolu (~3000 saat) ve Akdeniz (~2900 saat) güneş enerjisi potansiyeli en yüksek bölgelerdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneş potansiyeli en yüksek: Güneydoğu Anadolu; en düşük: Doğu Karadeniz'dir."
+    "explanation": "Doğru Cevap: <strong>D</strong> (IV - Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada IV numara ile gösterilen Doğu Karadeniz kıyı kuşağı, yıl boyu devam eden yağış rejimi ve Türkiye'nin en yüksek bulutluluk oranına sahiptir. Yıllık güneşlenme süresi en az (yaklaşık 1750 saat) olduğu için güneş enerjisi üretimine en elverişsiz sahadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• V (Güneydoğu) ve II (Akdeniz) Türkiye'nin en yüksek güneş enerjisi potansiyeline sahip alanlarıdır; I ve III'te de potansiyel yüksektir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneş enerjisi potansiyeli en yüksek bölge: Güneydoğu Anadolu; en düşük bölge: Doğu Karadeniz'dir."
   },
   {
     "id": "cogr_hafta4_2-q16",
