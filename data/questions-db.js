@@ -7111,42 +7111,42 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>B</strong> (Yer şekillerinin aşırı engebeli, dağlık ve karstik yapıda olması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Menteşe yöresi Ege'nin en dağlık ve engebeli kesimidir.<br>• Teke ve Taşeli platoları kireçtaşı (kalker) tabakalarından oluşan aşırı engebeli, kireçli, yüzey sularının düdenlerle yeraltına kaçtığı ve tarım toprağının son derece kısıtlı olduğu arazilerdir. Bu nedenle iklimleri ılıman olmasına rağmen nüfusları çok seyrektir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bu yörelerin hiçbirinde don veya yağış yetersizliği yoktur; tam aksine Menteşe yılda 1000 mm'nin üzerinde yağış alır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İklimi müsait ve kıyıda olduğu halde yer şekilleri ve karstik yapı yüzünden seyrek nüfuslu yerler: Menteşe, Teke ve Taşeli platolarıdır."
   },
   {
-    "id": "cogr_hafta3_2-q5",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 5,
-    "questionText": "Yukarıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nHaritada numaralandırılan alanların hangisinde arazinin kalın kireçtaşı (karstik) tabakalarından oluşması, yağış sularının yer altına hızla sızması ve engebeli topoğrafya nedeniyle nüfus yoğunluğu çok seyrektir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q22_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Çatalca-Kocaeli Yöresi"
-      },
-      {
-        "key": "B",
-        "text": "Gaziantep Platosu"
-      },
-      {
-        "key": "C",
-        "text": "Bursa Ovası ve Çevresi"
-      },
-      {
-        "key": "D",
-        "text": "Teke ve Taşeli Platoları"
-      },
-      {
-        "key": "E",
-        "text": "Gediz ve Büyük Menderes Grabenleri"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Akdeniz Bölgesi'ndeki Teke ve Taşeli platoları litolojik yapı olarak çözünebilen kireçtaşı (kalker) tabakalarıyla kaplıdır. Su yüzeyde durmaz, mağara ve düdenlerle yeraltına sızar; tarımsal toprak tabakası çok incedir. Bu hidrolojik ve jeolojik faktörler nüfusun seyrek kalmasına yol açmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çatalca-Kocaeli sanayi/ticaret merkezi olarak Türkiye'nin en yoğun nüfuslu yeridir.<br>• Bursa ve Kıyı Ege grabenleri verimli alüvyal topraklara ve yoğun nüfusa sahiptir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Karstik arazi yapısı nedeniyle seyrek nüfus' ifadesi doğrudan Teke ve Taşeli platolarını işaret eder."
-  },
+  "id": "cogr_hafta3_2-q5",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 5,
+  "questionText": "Aşağıdaki harita üzerinde beş farklı alan numaralandırılarak gösterilmiştir.\n\nBu alanların hangisinde nüfus yoğunluğu diğerlerine göre daha azdır?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q22_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "D",
+  "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı alan: Teke ve Taşeli Platoları)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>IV numara ile gösterilen yer Akdeniz Bölgesi'ndeki Teke ve Taşeli platolarıdır</strong>.<br>• Bu platolar litolojik olarak kalın kireçtaşı (karstik kalker) tabakalarından oluşur. Yüzey suları düdenlerle derinlere sızdığı için tarımsal sulama ve içme suyu kıttır; toprak tabakası çok incedir ve yer şekilleri son derece engebelidir.<br>• Akdeniz kıyısında ılıman iklim kuşağında yer almasına rağmen karstik yapı ve engebe nedeniyle Türkiye'nin nüfusu <strong>en seyrek</strong> alanlarındandır.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I nolu alan (Çatalca-Kocaeli) ve II nolu alan (Bursa çevresi) sanayi ve ticaretle Türkiye'nin en yoğun nüfuslu yerleridir.<br>• III nolu alan (Gaziantep) ve V nolu alan (Kıyı Ege) tarım, sanayi ve ulaşım olanaklarıyla yoğun nüfusludur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Kıyıda olduğu halde karstik arazi ve engebe yüzünden seyrek nüfuslu alan' = <strong>IV nolu Teke ve Taşeli Platoları</strong>dır."
+},
   {
     "id": "cogr_hafta3_2-q6",
     "testId": "cogr_hafta3_2",
@@ -7185,42 +7185,42 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TÜİK güncel demografik verilerine göre Türkiye'de genel okur-yazarlık oranı ve iş gücüne/istihdama katılım oranı <strong>erkeklerde kadınlara göre daha yüksektir</strong>. Dolayısıyla kadın nüfusun oranının erkeklerden yüksek olduğunu belirten E seçeneği yanlıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Doğurganlık hızı 1.51'e kadar gerilemiştir (nüfus yaşlanma sürecindedir). Ortanca yaş 34'ü aşmıştır. Kent nüfusu büyükşehir yasalarıyla %93'ü bulmuştur. İstihdamın %55-60'ı hizmet sektöründedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye gelişmekte olan bir ülkeden 'olgun/yaşlanan demografik yapıya' geçiş yapmaktadır; ortanca yaş artmakta, çocuk nüfus payı azalmaktadır."
   },
   {
-    "id": "cogr_hafta3_2-q7",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 7,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTarımsal nüfus yoğunluğu; tarım sektöründe çalışan insan sayısının doğrudan tarım arazilerinin yüzölçümüne bölünmesiyle hesaplanır. Tarım alanlarının dar ve parçalı, arazinin engebeli olduğu ve makineleşmenin zor olup insan gücüne ihtiyaç duyulduğu yörelerde tarımsal nüfus yoğunluğu çok yüksek çıkar.\n\nBuna göre, aşağıdaki yörelerin hangisinde tarımsal nüfus yoğunluğunun en yüksek olması beklenir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q24_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Konya Ovası"
-      },
-      {
-        "key": "B",
-        "text": "Şanlıurfa Platosu"
-      },
-      {
-        "key": "C",
-        "text": "Ergene Havzası"
-      },
-      {
-        "key": "D",
-        "text": "Doğu Karadeniz kıyı ardı dağlık kuşağı (Rize-Trabzon)"
-      },
-      {
-        "key": "E",
-        "text": "Çukurova deltamız"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Doğu Karadeniz kıyı ardı dağlık kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz'de arazi çok engebeli ve dik yamaçlardan oluştuğu için ekilebilir tarım arazisi son derece az ve dardır. Çay ve fındık tarımı makineyle yapılamaz, insan gücüyle yapılır. Daracık araziye çok sayıda çiftçi düştüğü için <strong>tarımsal nüfus yoğunluğu en yüksek</strong> çıkar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Konya Ovası, Şanlıurfa, Çukurova ve Ergene düzlüklerinde tarım arazisi devasa büyüklüktedir ve makineleşme yaygındır; bu nedenle tarımsal nüfus yoğunluğu düşüktür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tarımsal nüfus yoğunluğu en yüksek: Doğu Karadeniz ve Hakkari. Tarımsal nüfus yoğunluğu en düşük: İç Anadolu ve Marmara'dır."
-  },
+  "id": "cogr_hafta3_2-q7",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 7,
+  "questionText": "Tarımsal nüfus yoğunluğunun fazla olduğu yerlerde genel olarak;\n• Tarım alanları dardır.\n• Tarımla uğraşan nüfus fazladır.\n\nBuna göre, harita üzerinde numaralandırılarak verilen yerlerin hangisinde tarımsal nüfus yoğunluğunun diğerlerine göre daha fazla olması beklenir?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q24_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "D",
+  "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı alan: Doğu Karadeniz kıyı ardı / Rize-Trabzon)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <em>Tarımsal Nüfus Yoğunluğu = Tarımda Çalışan Nüfus / Tarım Alanı</em> formülüyle hesaplanır.<br>• Haritada <strong>IV numaralı alan (Doğu Karadeniz dağlık kuşağı)</strong> dik yamaçlar ve aşırı engebe nedeniyle ekilebilir tarım arazisinin en dar olduğu sahadır. Çay ve fındık tarımında makine kullanılamadığı için yoğun insan gücü çalışır. Dar alana çok sayıda çiftçi düştüğü için tarımsal nüfus yoğunluğu <strong>en yüksek</strong> çıkar.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I (Ergene), II (Konya Ovası), III (Çukurova) ve V (Güneydoğu Anadolu) geniş ve düz ova alanlarıdır. Tarım arazileri devasa büyüklükte ve makineli tarım yaygın olduğu için tarımsal nüfus yoğunluğu düşüktür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tarımsal nüfus yoğunluğu en yüksek: <strong>Doğu Karadeniz (IV) ve Hakkari</strong>; en düşük: <strong>İç Anadolu ve Marmara</strong>dır."
+},
   {
     "id": "cogr_hafta3_2-q8",
     "testId": "cogr_hafta3_2",
@@ -7259,116 +7259,116 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>E</strong> (Kocaeli)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kocaeli (Gebze, İzmit) Türkiye'nin sanayi kalbidir. Sanayi, liman ve inşaat sektörlerindeki yoğun iş gücü talebi nedeniyle ülke genelinden çalışmak üzere göç eden erkek iş gücünü mıknatıs gibi çeker; bu yüzden erkek nüfus oranı kadın nüfustan fazladır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kastamonu, Sinop, Artvin ve Muş sanayisi gelişmemiş, sürekli dışarıya göç veren illerdir. Erkek nüfus büyük şehirlere çalışmaya gittiği için bu illerde kadın nüfus oranı daha fazladır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Göç alan sanayi kentlerinde (Kocaeli, İstanbul, Tekirdağ) erkek nüfus fazladır; göç veren kırsal illerde kadın nüfus oranı fazladır."
   },
   {
-    "id": "cogr_hafta3_2-q9",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 9,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de nüfusun dağılışını etkileyen faktörler doğal (fiziki) ve beşerî faktörler olarak ikiye ayrılır.\n\nAşağıda verilen yörelerden hangilerinin yoğun nüfuslanmasında sanayi kuruluşları ve fabrikaların varlığı doğrudan belirleyici olmuştur?\nI. Çatalca-Kocaeli Yöresi\nII. Bursa ve İnegöl Çevresi\nIII. Menteşe Yöresi\nIV. Yıldız Dağları Yöresi",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q26_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "I ve II"
-      },
-      {
-        "key": "B",
-        "text": "I ve III"
-      },
-      {
-        "key": "C",
-        "text": "II ve III"
-      },
-      {
-        "key": "D",
-        "text": "II ve IV"
-      },
-      {
-        "key": "E",
-        "text": "III ve IV"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Çatalca-Kocaeli (İstanbul-İzmit) ve Bursa-İnegöl çevresi Türkiye'nin otomotiv, tekstil, kimya ve makine sanayisinin toplandığı başlıca merkezlerdir; nüfusun buralarda çok yoğun olmasında sanayi faktörü belirleyicidir (I ve II).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Menteşe Yöresi (Muğla) ve Yıldız Dağları yöresi (Kırklareli) engebeli arazi ve ana ulaşım yollarına sapa kalmaları nedeniyle sanayileşememiş ve seyrek nüfuslu kalmış alanlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sanayiye bağlı yoğun nüfus: Çatalca-Kocaeli, Bursa, İzmir, Adana, İskenderun."
-  },
+  "id": "cogr_hafta3_2-q9",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 9,
+  "questionText": "Aşağıdaki haritada dört farklı bölge numaralandırılarak verilmiştir.\n\nBuna göre, haritada verilen bölgelerden hangilerinde nüfusun dağılışında sanayi kuruluşlarının etkisi daha fazladır?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q26_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "I ve II"
+    },
+    {
+      "key": "B",
+      "text": "I ve III"
+    },
+    {
+      "key": "C",
+      "text": "II ve III"
+    },
+    {
+      "key": "D",
+      "text": "II ve IV"
+    },
+    {
+      "key": "E",
+      "text": "III ve IV"
+    }
+  ],
+  "correctAnswer": "A",
+  "explanation": "Doğru Cevap: <strong>A</strong> (I ve II: Çatalca-Kocaeli & Bursa Yöresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>I numara (İstanbul - Kocaeli aksı)</strong> ve <strong>II numara (Güney Marmara - Bursa çevresi)</strong> Türkiye sanayisinin, fabrikalarının ve organize sanayi bölgelerinin kalbidir. İş imkânları nedeniyle devasa göç almış ve sanayiye bağlı olarak yoğun nüfuslanmıştır.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• III numara (Menteşe Dağlık Yöresi) ve IV numara (Kuzeydoğu Anadolu / Kars çevresi) engebeli arazi, iklim veya sapa konum nedeniyle sanayileşememiş, seyrek nüfuslu alanlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sanayiye bağlı nüfus yoğunluğu denildiğinde haritada aranacak ilk yerler: <strong>Çatalca-Kocaeli (I) ve Bursa (II)</strong> aksıdır."
+},
   {
-    "id": "cogr_hafta3_2-q10",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 10,
-    "questionText": "Yukarıdaki grafikte Türkiye'nin 1927-2023 yılları arasındaki nüfus artış hızı verilmiştir.\n\nYalnızca Türkiye'nin 1927-2023 yılları arasındaki nüfus artış hızı grafiğine bakılarak;\nI. Nüfus yoğunluğunun en fazla olduğu coğrafi bölgelere\nII. Nüfus artış hızının tarihteki en düşük seviyeye indiği döneme (1940-1945 II. Dünya Savaşı)\nIII. Türkiye'nin toplam nüfus miktarının ve cinsiyet dağılımının kesin sayısal değerine\n\nbilgilerinden hangilerine kesinlikle ulaşılabilir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q27_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Yalnız I"
-      },
-      {
-        "key": "B",
-        "text": "Yalnız II"
-      },
-      {
-        "key": "C",
-        "text": "I ve II"
-      },
-      {
-        "key": "D",
-        "text": "II ve III"
-      },
-      {
-        "key": "E",
-        "text": "I, II ve III"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Bir ülkenin yalnızca 'nüfus artış hızı (‰ binde)' grafiğine bakılarak hangi yıllarda artış hızının azalıp hangi yıllarda arttığı, dolayısıyla en düşük olduğu dönem (II. Dünya Savaşı seferberlik dönemi ‰10.5) kesin olarak görülebilir (Yalnız II).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Artış hızı grafiğinden coğrafi bölgelerin nüfus dağılımına (I) veya kesin kişi sayısına ve kadın-erkek oranına (III) ulaşılamaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Nüfus artış hızı binde değer olarak sıfırın altına düşmediği sürece (eksiye inmedikçe) ülkenin toplam nüfusu sürekli artmaya devam eder! Hızın azalması nüfusun azaldığı anlamına gelmez."
-  },
+  "id": "cogr_hafta3_2-q10",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 10,
+  "questionText": "Yukarıdaki grafikte Türkiye'nin 1927 - 2020 yılları arasındaki nüfus artış hızı gösterilmiştir.\n\nBuna göre;\nI. Nüfus yoğunluğunun fazla olduğu bölgelere,\nII. Nüfus artış hızının en az olduğu döneme,\nIII. Toplam nüfus miktarına\n\nbilgilerinden hangilerine kesinlikle ulaşılabilir?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q27_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "Yalnız I"
+    },
+    {
+      "key": "B",
+      "text": "Yalnız II"
+    },
+    {
+      "key": "C",
+      "text": "I ve II"
+    },
+    {
+      "key": "D",
+      "text": "II ve III"
+    },
+    {
+      "key": "E",
+      "text": "I, II ve III"
+    }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Doğru Cevap: <strong>B</strong> (Yalnız II: Nüfus artış hızının en az olduğu döneme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Grafikte verilen değer dikey eksende ‰ (binde) olarak gösterilen <strong>nüfus artış hızı</strong>dır. Bu grafikten artış hızının dip yaptığı 1940-1945 dönemi (II. Dünya Savaşı seferberlik yılları, ‰10.5) kesin olarak okunabilir (Yalnız II).<br><br>🔍 <strong>Çeldirici Öncüllerin Analizi:</strong><br>• <em>I. Öncül:</em> Grafik ulusal artış hızını verir; bölgelerin nüfus dağılışına ve yoğunluğuna ulaşılamaz.<br>• <em>III. Öncül:</em> Sadece 'hız' grafiğine bakarak toplam kişi sayısı (nüfus miktarı) bilinemez; bunun için başlangıç yılının kesin nüfus miktarının verilmesi gerekir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Nüfus artış hızı binde değeri 0'ın altına inmedikçe ülkenin toplam nüfusu artmaya devam eder! Hızın azalması nüfusun azaldığı anlamına gelmez."
+},
   {
-    "id": "cogr_hafta3_2-q11",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 11,
-    "questionText": "Yukarıdaki Türkiye haritasında beş farklı yöre numaralandırılarak gösterilmiştir.\n\nHaritada numaralandırılan yöreler ve bu yörelerin nüfus özellikleri ile ilgili olarak aşağıda verilen yargılardan hangisi yanlıştır?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q28_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Çukurova yöresinde nüfusun yoğun olmasında verimli delta toprağı, tarım ve tarıma dayalı sanayi etkilidir."
-      },
-      {
-        "key": "B",
-        "text": "Ankara ve çevresinde nüfusun yoğun olmasında başkent olması ve idari fonksiyonu belirleyicidir."
-      },
-      {
-        "key": "C",
-        "text": "Tuz Gölü çevresinde yağış azlığı ve kuraklık sorunu nedeniyle nüfus yoğunluğu düşüktür."
-      },
-      {
-        "key": "D",
-        "text": "Antalya kıyılarında deniz turizmi faaliyetleri nedeniyle yaz mevsiminde nüfus yoğunluğu katlanarak artar."
-      },
-      {
-        "key": "E",
-        "text": "Doğu Karadeniz'de kıyıdan iç kesimlere doğru gidildikçe yükselti azaldığı için nüfus yoğunluğu düzenli olarak artış gösterir."
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz'de kıyıdan iç kesimlere doğru gidildikçe denizel ılıman iklim biter, Kaçkar Dağları nedeniyle yükselti artar ve engebe sertleşir. Bu yüzden iç kesimlere gidildikçe nüfus yoğunluğu artmaz, tam aksine <strong>şiddetle azalır</strong>; nüfusun %85'i dar kıyı şeridinde toplanmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, C ve D şıklarındaki eşleştirmeler coğrafi ilkelerle tamamen örtüşmektedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz'de nüfusun kıyıda toplanması (kıyı-iç kesim zıtlığı) dağların kıyıya paralel uzanmasının doğal sonucudur."
-  },
+  "id": "cogr_hafta3_2-q11",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 11,
+  "questionText": "Türkiye haritası üzerinde beş farklı yer numaralandırılarak verilmiştir.\n\nBuna göre, haritada numaralandırılan yerlerle ilgili aşağıdakilerden hangisi söylenemez?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q28_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "I numaralı yerde nüfusun yoğun olmasında tarım ve sanayi faaliyetleri etkilidir."
+    },
+    {
+      "key": "B",
+      "text": "II numaralı yerde nüfusun yoğun olmasında şehrin idari fonksiyonu etkilidir."
+    },
+    {
+      "key": "C",
+      "text": "III numaralı yerde tarımda kuraklık sorunu nedeniyle nüfus yoğunluğu azdır."
+    },
+    {
+      "key": "D",
+      "text": "IV numaralı yerde yaz mevsiminde nüfus yoğunluğu artmaktadır."
+    },
+    {
+      "key": "E",
+      "text": "V numaralı yerde kıyıdan iç kesimlere gittikçe nüfus artış gösterir."
+    }
+  ],
+  "correctAnswer": "E",
+  "explanation": "Doğru Cevap: <strong>E</strong> (V numaralı yerde kıyıdan iç kesimlere gittikçe nüfus artış gösterir - Yanlış)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>V numara ile gösterilen Doğu Karadeniz</strong>'de dağlar kıyıya paralel ve hemen kıyıdan itibaren çok yüksek uzanır (Kaçkar Dağları). Kıyıdan iç kesimlere gidildikçe rakım hızla artar, iklim sertleşir ve arazi dikleşir. Bu yüzden nüfus iç kesimlerde artmaz, tam aksine <strong>şiddetle azalır</strong>; bölge nüfusunun %85'i dar kıyı şeridinde toplanmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A şıkkı: I Çukurova'dır (tarım + sanayi ile yoğundur).<br>• B şıkkı: II Ankara'dır (başkent/idari fonksiyon ile yoğundur).<br>• C şıkkı: III Tuz Gölü güneyidir (kuraklık nedeniyle seyrektir).<br>• D şıkkı: IV Antalya kıyısıdır (yaz turizmiyle nüfus patlaması yaşar).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz'de iç kesimler dağlık ve soğuk olduğu için nüfus kıyı şeridinde sıkışmıştır."
+},
   {
     "id": "cogr_hafta3_2-q12",
     "testId": "cogr_hafta3_2",
@@ -7444,153 +7444,153 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Antalya yaz aylarında deniz turizmi sayesinde milyonlarca yerli-yabancı turisti ve turizm emekçisini çekerek nüfusunu katlar (I).<br>• Adana/Çukurova ilkbahar ve sonbahar döneminde pamuk, karpuz ve narenciye hasadı için Güneydoğu'dan yüz binlerce mevsimlik tarım işçisi alır (III).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sivas ve Afyon mevsimlik yoğun işçi göçü mıknatısı değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevsimlik tarım göçü çeken yerler: Çukurova (pamuk), Ordu-Giresun (fındık), Rize (çay), Malatya (kayısı), Ege (üzüm/tütün)."
   },
   {
-    "id": "cogr_hafta3_2-q14",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 14,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nDüz ve geniş tarım arazilerinde traktör ve biçerdöver gibi makinelerin yaygınlaşması, kırsal kesimde insan gücüne duyulan ihtiyacı azaltarak köyden kente göçü hızlandırmıştır.\n\nBuna göre, aşağıdaki alanların hangisinde arazinin aşırı dağlık, dik ve engebeli olması sebebiyle tarımda makine kullanımına bağlı bir göç yaşanması beklenemez?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q31_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "İç Anadolu Bölgesi (Konya Ovası)"
-      },
-      {
-        "key": "B",
-        "text": "Doğu Karadeniz kıyı ardı dağlık kuşağı (Rize-Artvin)"
-      },
-      {
-        "key": "C",
-        "text": "Güneydoğu Anadolu ovaları (Ceylanpınar-Harran)"
-      },
-      {
-        "key": "D",
-        "text": "Akdeniz'in Çukurova deltamız"
-      },
-      {
-        "key": "E",
-        "text": "Marmara'nın Ergene düzlükleri"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz kıyı ardı dağlık kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz aşırı dik yamaçlara sahip olduğu için tarlalara traktör ve biçerdöver sokulamaz. Çay makasla, fındık elle toplanır. Makineleşme yapılamadığı için makineden kaynaklı bir işsizlik ve göç de gerçekleşemez.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Konya, Harran, Çukurova ve Ergene düzlüklerinde tarım arazileri geniştir ve tamamında makine kullanılır; buralarda insan gücüne ihtiyaç azaldığı için göç tetiklenmiştir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Tarımda makineleşme nerede göçe yol açmaz?' sorusunun tek ve değişmez yanıtı dağlık yer şekilleridir (Doğu Karadeniz, Hakkari, Menteşe)."
-  },
+  "id": "cogr_hafta3_2-q14",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 14,
+  "questionText": "Türkiye'de kırsal alanlarda tarımda makine kullanımının artması sebebiyle işsiz kalan insanlar kentlere doğru göç etmek zorunda kalmışlardır.\n\nBu duruma bağlı olarak; harita üzerinde numaralandırılmış yerlerin hangisi daha çok göç vermiştir?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q31_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: İç Anadolu / Konya Ovası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Tarımda makineleşmenin (traktör, biçerdöver) insan gücünün yerini alarak işsizliğe ve dış göçe yol açabilmesi için <strong>arazinin düz ve makine kullanımına elverişli olması</strong> gerekir.<br>• Haritada <strong>II numara ile gösterilen İç Anadolu (Konya Ovası ve çevresi)</strong> Türkiye'nin en geniş tahıl tarlalarına ve düz arazilerine sahiptir. Makineleşme çok yaygınlaşmış, 100 kişinin yapacağı hasat bir biçerdöverle yapıldığı için kırsalda işsiz kalan nüfus büyük kentlere yoğun göç vermiştir.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• Haritada gösterilen I (Yıldız Dağları), III (Doğu Karadeniz), IV (Hakkari) ve V (Menteşe) gibi dağlık yörelerde yer şekilleri engebeli olduğundan makine kullanımı kısıtlıdır; buralardaki göç makineleşmeden değil arazinin yetersizliğinden kaynaklanır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 'Tarımda makineleşme en çok nerede göçe yol açar?' = <strong>Düz tarım ovaları (İç Anadolu, Güneydoğu)</strong>."
+},
   {
-    "id": "cogr_hafta3_2-q15",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 15,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nYaz aylarında deniz turizmi faaliyetlerine bağlı olarak Türkiye'de geçici nüfus artışının ve mevsimlik göç hareketinin en yoğun yaşandığı merkez aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q32_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Alanya - Manavgat kıyı kuşağı (Antalya)"
-      },
-      {
-        "key": "B",
-        "text": "Palandöken kış merkezi (Erzurum)"
-      },
-      {
-        "key": "C",
-        "text": "Abant ve Gölcük yöresi (Bolu)"
-      },
-      {
-        "key": "D",
-        "text": "Sarıkamış kayak merkezi (Kars)"
-      },
-      {
-        "key": "E",
-        "text": "Kapadokya volkanik yöresi (Nevşehir)"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Alanya - Manavgat kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Akdeniz kıyısında Alanya, Manavgat, Kemer ve Bodrum gibi merkezler yaz sezonunda deniz-kum-güneş turizmi sayesinde nüfuslarını yerleşik sayılarının 3-5 katına çıkarırlar; devasa bir mevsimlik turizm göçü yaşanır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Palandöken ve Sarıkamış kış sporları merkezidir; hareketlilik kış aylarındadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaz mevsiminde turizme bağlı nüfus artışında Ege ve Akdeniz kıyıları liderdir."
-  },
+  "id": "cogr_hafta3_2-q15",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 15,
+  "questionText": "Harita üzerinde numaralandırılarak verilen yerlerin hangisi turizm faaliyetleri nedeniyle diğerlerine göre daha fazla mevsimlik göç almaktadır?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q32_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "A",
+  "explanation": "Doğru Cevap: <strong>A</strong> (I numaralı alan: Antalya / Alanya-Manavgat kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>I numara ile gösterilen saha Akdeniz kıyısında Antalya (Alanya, Manavgat, Kemer)</strong> turizm kuşağıdır.<br>• Yaz aylarında deniz, kum, güneş turizminin açılmasıyla birlikte hem milyonlarca yerli ve yabancı turist hem de oteller, restoranlar ve eğlence sektöründe çalışmak üzere Türkiye'nin dört bir yanından yüz binlerce mevsimlik işçi bu alana göç eder.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• II (İç Anadolu), III (Orta Karadeniz), IV (Doğu Anadolu) ve V (Güneydoğu Anadolu) yaz mevsiminde yoğun deniz turizmi göçü alan merkezler değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yaz mevsiminde turizm kaynaklı geçici nüfus patlamasında Türkiye lideri <strong>Antalya ve Kıyı Ege (Muğla)</strong> sahilleridir."
+},
   {
-    "id": "cogr_hafta3_2-q16",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 16,
-    "questionText": "Yukarıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nAğustos ve eylül aylarında fındık hasadı döneminde Doğu ve Güneydoğu Anadolu'dan gelen yüz binlerce mevsimlik tarım işçisinin geçici göç ettiği alan haritada kaç numara ile gösterilmiştir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q33_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Konya Kapalı Havzası"
-      },
-      {
-        "key": "B",
-        "text": "Edirne ve Meriç kıyıları"
-      },
-      {
-        "key": "C",
-        "text": "Ordu ve Giresun kıyı kuşağı"
-      },
-      {
-        "key": "D",
-        "text": "Muğla ve Menteşe yöresi"
-      },
-      {
-        "key": "E",
-        "text": "Kayseri ve Develi Ovası"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Ordu ve Giresun kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye dünya fındık üretiminin yaklaşık %70'ini karşılar. Karadeniz'de Ordu ve Giresun fındığın merkezidir. Her yıl ağustos ayında hasat için binlerce mevsimlik işçi bu illere akın eder.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer seçeneklerde fındık tarımı ve hasadı yapılmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Fındık hasadı = Ordu, Giresun, Trabzon. Pamuk hasadı = Adana, Şanlıurfa. Çay hasadı = Rize."
-  },
+  "id": "cogr_hafta3_2-q16",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 16,
+  "questionText": "Harita üzerinde beş farklı alan numaralandırılarak gösterilmiştir.\n\nBu alanların hangisi daha fazla tarımsal amaçlı mevsimlik göç alır?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q33_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "C",
+  "explanation": "Doğru Cevap: <strong>C</strong> (III numaralı alan: Doğu Karadeniz / Ordu-Giresun kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada <strong>III numara ile gösterilen yer Orta ve Doğu Karadeniz kıyıları (Ordu-Giresun ve Trabzon)</strong> kuşağıdır.<br>• Türkiye dünya fındık üretiminin lideridir. Her yıl ağustos ve eylül aylarında fındık bahçelerinde hasat yapmak amacıyla başta Doğu ve Güneydoğu Anadolu olmak üzere Türkiye'nin birçok ilinden yüz binlerce mevsimlik tarım işçisi bu yöreye göç eder.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• I (Trakya/Ergene), II (Güney Ege), IV (İç Anadolu) ve V (Hakkari) yörelerinde fındık gibi yüz binlerce mevsimlik işçiyi çeken devasa tarımsal hasat göçü yaşanmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevsimlik tarım göçü: <strong>Ordu-Giresun (Fındık - III)</strong>, Adana/Çukurova (Pamuk), Malatya (Kayısı), Rize (Çay)."
+},
   {
-    "id": "cogr_hafta3_2-q17",
-    "testId": "cogr_hafta3_2",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
-    "topicId": "cogr_hafta3_2",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 17,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de kurak ve yarı kurak bölgelerde tarımsal verimi artırmak ve nadas alanlarını azaltmak için sulama projelerine (GAP, KOP vb.) büyük yatırımlar yapılmaktadır.\n\nBuna karşılık, aşağıdaki alanların hangisinde iklim her mevsim düzenli yağışlı geçtiği için tarımda yapay sulamaya duyulan ihtiyaç en azdır?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q34_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Doğu Karadeniz kıyı kuşağı"
-      },
-      {
-        "key": "B",
-        "text": "Güneydoğu Anadolu Bölgesi"
-      },
-      {
-        "key": "C",
-        "text": "Konya Kapalı Havzası"
-      },
-      {
-        "key": "D",
-        "text": "Gediz ve Bakırçay graben ovaları"
-      },
-      {
-        "key": "E",
-        "text": "Iğdır Ovası"
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyı kesiminde yağış rejimi düzenlidir; kurak bir dönem yaşanmaz. Bu nedenle çay, mısır ve fındık tarımında sulama tesislerine veya yapay sulamaya gerek duyulmaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Güneydoğu, Konya, Ege grabenleri ve Iğdır'da yaz kuraklığı çok şiddetlidir; sulama olmadan tarımsal üretim yapılamaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de nadasa (toprağı boş bırakmaya) en az ihtiyaç duyulan bölge Karadeniz; en çok ihtiyaç duyulan bölge İç ve Güneydoğu Anadolu'dur."
-  },
+  "id": "cogr_hafta3_2-q17",
+  "testId": "cogr_hafta3_2",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 2: Yağış, Bitki Örtüsü & Toprak)",
+  "topicId": "cogr_hafta3_2",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 2)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 17,
+  "questionText": "Tarımda sulamanın yaygınlaştırılması kırsal alanlardan kentsel alanlara göçün azalmasını sağlayacaktır.\n\nBu durum yukarıdaki haritada işaretli bölgelerden hangisi için geçerli değildir?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q34_img.png?v=225.0",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "A",
+  "explanation": "Doğru Cevap: <strong>A</strong> (I numaralı alan: Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kurak ve yarı kurak bölgelerde sulama imkânlarının artması (GAP, KOP projeleri gibi), nadas alanlarını kaldırır, ürün çeşitliliğini ve verimini artırarak çiftçinin gelirini yükseltir ve göçü önler.<br>• Ancak haritada <strong>I numara ile gösterilen Doğu Karadeniz kıyı kuşağı</strong> her mevsim bol ve düzenli yağış alan Karadeniz iklimine sahiptir. Çay ve mısır tarımında zaten yapay sulamaya ihtiyaç duyulmaz. Dolayısıyla sulamanın yaygınlaştırılması bu bölgede göçü etkileyen veya azaltan bir faktör <strong>değildir</strong>.<br><br>🔍 <strong>Çeldirici Numaraların Analizi:</strong><br>• II (İç Anadolu), III (Güneydoğu Anadolu), IV (Iğdır Ovası) ve V (İç Batı Anadolu) kurak veya yarı kurak alanlar olup sulama yatırımları tarımı canlandırıp göçü azaltır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sulamaya en az ihtiyaç duyulan bölge = <strong>I nolu Doğu Karadeniz kıyıları</strong>dır."
+},
   {
     "id": "cogr_hafta3_3-q1",
     "testId": "cogr_hafta3_3",

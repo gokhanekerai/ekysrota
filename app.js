@@ -1311,9 +1311,9 @@ class EKYSApp {
           },
           {
             id: 'cogr_hafta3_2',
-            name: '🎥 3. Hafta Kampı: Bölüm 2 (Yağış, Bitki & Toprak)',
-            icon: '🌱',
-            desc: 'Yağış Rejimleri, Doğal Bitki Örtüsü Kuşakları ve Zonal-Azonal Toprak Tipleri (17 Soru).',
+            name: '🎥 3. Hafta Kampı: Bölüm 2 (Nüfus & Demografi)',
+            icon: '👥',
+            desc: 'Türkiye\'de Nüfusun Dağılışı, Yoğunluk Türleri, Demografik Yapı ve Göç Hareketleri (17 Soru).',
             filterKey: 'cogr_hafta3_2',
             badge: '17 Soru'
           },
