@@ -9746,33 +9746,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 3,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nAşağıda verilen illerimiz ile bu illerde bulunan ağır sanayi ve maden işleme tesisleri eşleştirmelerinden hangisi yanlıştır?",
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı merkez numaralandırılarak gösterilmiştir.\n\nHaritada numaralandırılan iller ile bu illerde bulunan ağır sanayi ve maden işleme tesisleri eşleştirmelerinden hangisi yanlıştır?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q43_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Karabük - Demir-Çelik Fabrikası (KARDEMİR)"
+        "text": "I (Karabük - Demir-Çelik Fabrikası / KARDEMİR)"
       },
       {
         "key": "B",
-        "text": "Antalya - Ferrokrom Tesisleri"
+        "text": "II (Antalya - Ferrokrom Tesisleri)"
       },
       {
         "key": "C",
-        "text": "Konya - Seydişehir Alüminyum Fabrikası"
+        "text": "III (Konya / Seydişehir - Alüminyum Tesisleri)"
       },
       {
         "key": "D",
-        "text": "Eskişehir - Kırka Bor Türevleri İşletmesi"
+        "text": "IV (Eskişehir / Kırka - Bor İşletmesi)"
       },
       {
         "key": "E",
-        "text": "Artvin - Alüminyum İzabe Fabrikası"
+        "text": "V (Artvin / Murgul - Alüminyum Fabrikası)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Artvin (Murgul)'de <strong>Bakır İşletmesi</strong> yer alır; alüminyum tesisi bulunmaz. Türkiye'nin tek alüminyum izabe fabrikası Konya Seydişehir'dedir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Karabük'te demir-çelik, Antalya'da ferrokrom, Seydişehir'de alüminyum, Kırka'da bor tesisleri bulunmaktadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Murgul = Bakır; Seydişehir = Alüminyum."
+    "explanation": "Doğru Cevap: <strong>E</strong> (Artvin - Alüminyum Fabrikası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Artvin (Murgul)'de <strong>Bakır İşleme Tesisleri</strong> yer alır; alüminyum tesisi bulunmaz. Türkiye'nin tek alüminyum tesisi III numara ile gösterilen Konya Seydişehir'dedir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I (Karabük) demir-çelik, II (Antalya) ferrokrom, III (Seydişehir) alüminyum, IV (Kırka) bor işletmelerine ev sahipliği yapar.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Murgul = Bakır; Seydişehir = Alüminyum; Kırka = Bor; Karabük = Demir-çelik."
   },
   {
     "id": "cogr_hafta4_3-q4",
@@ -10079,33 +10079,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 12,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nKış sporları ve kayak turizmi için dağlık yer şekilleri, yüksek eğim ve kış mevsiminde aylarca yerde kalan kalın kar örtüsü gereklidir.\n\nAşağıdaki alanların hangisinde yer şekilleri ve kış iklimi özellikleri sebebiyle kış ve kayak turizminin gelişmesi beklenemez?",
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı merkez numaralandırılarak gösterilmiştir.\n\nKış sporları ve kayak turizmi için eğimli dağlık yer şekilleri ve kışın yerde uzun süre kalan kalın kar örtüsü gereklidir.\n\nBuna göre, haritada numaralandırılan merkezlerin hangisinde kış ve kayak turizminin gelişmesi beklenemez?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q52_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Bursa - Uludağ Kayak Merkezi"
+        "text": "I (Bursa - Uludağ Kayak Merkezi)"
       },
       {
         "key": "B",
-        "text": "Erzurum - Palandöken Kayak Merkezi"
+        "text": "II (Bolu - Kartalkaya Kayak Merkezi)"
       },
       {
         "key": "C",
-        "text": "Kayseri - Erciyes Kayak Merkezi"
+        "text": "III (Kayseri - Erciyes Kayak Merkezi)"
       },
       {
         "key": "D",
-        "text": "Bolu - Kartalkaya Kayak Merkezi"
+        "text": "IV (Erzurum - Palandöken Kayak Merkezi)"
       },
       {
         "key": "E",
-        "text": "Şanlıurfa - Harran Ovası düzlükleri"
+        "text": "V (Şanlıurfa - Harran Ovası düzlükleri)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Şanlıurfa - Harran Ovası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Harran Ovası yaklaşık 350-400 metre rakımda, tamamen düz bir ovadır; kışlar ılık geçer ve kar örtüsü neredeyse hiç tutmaz; kayak turizmi imkânsızdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Uludağ, Palandöken, Erciyes ve Kartalkaya Türkiye'nin en popüler kayak merkezleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneydoğu Anadolu'da kayak yapılan tek yer Karacadağ volkan kütlesidir."
+    "explanation": "Doğru Cevap: <strong>E</strong> (V - Şanlıurfa / Harran Ovası)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada V numara ile gösterilen Harran Ovası düz bir havzadır; kışlar ılık geçer ve kar örtüsü oluşmaz; dolayısıyla kayak turizmi imkânsızdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I (Uludağ), II (Kartalkaya), III (Erciyes) ve IV (Palandöken) Türkiye'nin en popüler kayak ve kış turizmi merkezleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneydoğu Anadolu'da kayak yapılan tek yer sönmüş volkan olan Karacadağ'dır."
   },
   {
     "id": "cogr_hafta4_3-q13",
@@ -10116,33 +10116,33 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 13,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nMağara turizmi; yer altı sularının kolay eriyebilen kireçtaşı (kalker) arazilerini aşındırması sonucu oluşan sarkıt, dikit ve sütunlarla bezeli karstik boşluklara dayanır.\n\nBuna göre; Damlataş, Karain, Dim ve İnsuyu gibi Türkiye'nin en ünlü turizm mağaralarının yoğunlaştığı coğrafi bölge aşağıdakilerden hangisidir?",
+    "questionText": "Yukarıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nMağara turizmi; yer altı sularının kolay eriyebilen kireçtaşı (kalker) arazilerini aşındırması sonucu oluşan sarkıt, dikit ve sütunlarla bezeli karstik boşluklara dayanır.\n\nBuna göre; Damlataş, Karain, Dim ve İnsuyu gibi Türkiye'nin dünyaca ünlü turizm mağaralarının yoğunlaştığı alan haritada numaralandırılan yerlerin hangisidir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q53_img.png",
     "options": [
       {
         "key": "A",
-        "text": "Güneydoğu Anadolu Bölgesi"
+        "text": "I (Kıyı Ege Bölümü)"
       },
       {
         "key": "B",
-        "text": "Marmara / Ergene Bölümü"
+        "text": "II (Marmara / Batı Karadeniz kıyı kuşağı)"
       },
       {
         "key": "C",
-        "text": "Akdeniz Bölgesi (Toroslar Kuşağı - Antalya, Burdur)"
+        "text": "III (Akdeniz Bölgesi - Antalya ve Burdur Toros Kuşağı)"
       },
       {
         "key": "D",
-        "text": "İç Anadolu Bölgesi"
+        "text": "IV (İç Doğu Anadolu kuşağı)"
       },
       {
         "key": "E",
-        "text": "Doğu Karadeniz kıyı kuşağı"
+        "text": "V (Kuzeydoğu Anadolu platosu)"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Akdeniz Bölgesi - Toroslar Kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Karstik kalker yapının en kalın olduğu Akdeniz Toros kuşağında binlerce mağara oluşmuştur. Damlataş (Alanya), Karain (Antalya) ve İnsuyu (Burdur) Türkiye'nin turizme açılan ilk mağaralarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ergene ve Güneydoğu düzlüklerinde derin karstik kireçtaşı mağaraları bulunmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de turizme açılan ilk mağara Burdur İnsuyu Mağarası'dır."
+    "explanation": "Doğru Cevap: <strong>C</strong> (III - Akdeniz Toroslar Kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Karstik kalker yapısının en yaygın olduğu Akdeniz Toros kuşağında (III) binlerce mağara oluşmuştur. Damlataş, Karain, Dim (Antalya) ve İnsuyu (Burdur) Türkiye'nin turizme kazandırılan en önemli karstik mağaralarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I, II, IV ve V numaralı alanlarda kalın kalker tabakalarına bağlı turistik karstik mağara yoğunluğu bulunmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de turizme açılan ilk mağara Burdur İnsuyu Mağarası'dır (1965). Damlataş ise Alanya'dadır."
   },
   {
     "id": "cogr_hafta4_3-q14",
@@ -10153,7 +10153,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Cografya",
     "icon": "factory",
     "questionNumber": 14,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'nin önemli kültür turizmi kentleri olan Edirne, İzmir ve Antalya düşünüldüğünde;\n\nAşağıda verilen turizm değerlerinden hangisi bu üç şehirden herhangi birine ait değildir?",
+    "questionText": "Yukarıdaki Türkiye haritasında Edirne, İzmir, Antalya ve Van kentleri işaretlenmiştir.\n\nAşağıda verilen turizm değerlerinden hangisi harita üzerinde işaretlenen kentlerden herhangi birine ait değildir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h4_q54_img.png",
     "options": [
@@ -10175,11 +10175,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "Perge ve Kaleiçi (Antalya)"
+        "text": "Akdamar Kilisesi ve Tarihi Adası (Van)"
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Mevlânâ Türbesi ve Müzesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Mevlânâ Türbesi ve Müzesi <strong>Konya</strong> ilimizdedir; Edirne, İzmir veya Antalya sınırlarında değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Selimiye Edirne'de, Efes İzmir'de, Aspendos ve Perge Antalya'dadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevlânâ Müzesi Türkiye'nin en çok ziyaretçi çeken müzeleri arasındadır."
+    "explanation": "Doğru Cevap: <strong>A</strong> (Mevlânâ Türbesi ve Müzesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Mevlânâ Türbesi ve Müzesi <strong>Konya</strong> ilimizdedir; haritada işaretlenen Edirne, İzmir, Antalya veya Van illerinden birine ait değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Selimiye Camii Edirne'de, Efes Antik Kenti İzmir'de, Aspendos Tiyatrosu Antalya'da, Akdamar Kilisesi ise Van'dadır (hepsi haritada işaretlidir).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Mevlânâ Müzesi Türkiye'nin en çok ziyaret edilen müzeleri arasında Topkapı Sarayı ile ilk iki sıradadır."
   },
   {
     "id": "cogr_hafta4_3-q15",
