@@ -175,7 +175,7 @@ class StorageService {
     if (!localStorage.getItem(this.KEYS.SETTINGS)) {
       const defaultSettings = {
         theme: 'dark',
-        targetDate: '2027-03-15T09:30:00',
+        targetDate: '2027-02-21T10:15:00',
         aiProvider: 'none',
         geminiApiKey: '',
         groqApiKey: '',

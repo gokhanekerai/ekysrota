@@ -37,11 +37,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=216.0">
+  <link rel="stylesheet" href="styles.css?v=220.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=216.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=220.0').then(reg => {
           reg.update();
 
           // Yeni Service Worker tespit edildiğinde banner göster
@@ -229,7 +229,7 @@
 
         <div class="top-header-row top-header-sub">
           <div class="countdown-bar" id="countdown-display">
-            <span class="countdown-title">🎯 2027 Mart EKYS:</span>
+            <span class="countdown-title">🎯 2027 EKYS (21 Şubat):</span>
             <div class="countdown-digits">
               <span class="countdown-item"><strong id="cd-days">0</strong>g</span>
               <span class="countdown-item"><strong id="cd-hours">00</strong>s</span>
@@ -246,7 +246,7 @@
         <section id="view-dashboard" class="view-section active">
           <div class="page-header">
             <h1 class="page-title">Hoş Geldiniz, Geleceğin Yöneticisi 👋</h1>
-            <p class="page-subtitle">2027 Mart EKYS hazırlığınız için kişisel soru bankanız ve çalışma alanınız.</p>
+            <p class="page-subtitle">2027 EKYS (21 Şubat 2027) hazırlığınız için kişisel soru bankanız ve çalışma alanınız.</p>
           </div>
 
           <!-- Quick Stats Grid -->
@@ -254,7 +254,7 @@
             <div class="card stat-card">
               <div class="stat-icon">📚</div>
               <div class="stat-info">
-                <div class="stat-value" id="stat-total-questions">2.156</div>
+                <div class="stat-value" id="stat-total-questions">2.229</div>
                 <div class="stat-label">Toplam Soru Havuzu</div>
               </div>
             </div>
@@ -1201,13 +1201,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=216.0"></script>
-  <script src="data/questions-db.js?v=216.0"></script>
-  <script src="services/storage-service.js?v=216.0"></script>
-  <script src="services/firebase-service.js?v=216.0"></script>
-  <script src="services/pdf-service.js?v=216.0"></script>
-  <script src="services/youtube-service.js?v=216.0"></script>
-  <script src="services/question-generator.js?v=216.0"></script>
-  <script src="app.js?v=216.0"></script>
+  <script src="data/ekys-sample-questions.js?v=220.0"></script>
+  <script src="data/questions-db.js?v=220.0"></script>
+  <script src="services/storage-service.js?v=220.0"></script>
+  <script src="services/firebase-service.js?v=220.0"></script>
+  <script src="services/pdf-service.js?v=220.0"></script>
+  <script src="services/youtube-service.js?v=220.0"></script>
+  <script src="services/question-generator.js?v=220.0"></script>
+  <script src="app.js?v=220.0"></script>
 </body>
 </html>

@@ -153,7 +153,7 @@ class EKYSApp {
 
   // --- GERİ SAYIM SAYACI ---
   startExamCountdown() {
-    const target = new Date('2027-03-15T09:30:00').getTime();
+    const target = new Date('2027-02-21T10:15:00').getTime();
 
     const update = () => {
       const now = new Date().getTime();
@@ -2178,6 +2178,22 @@ class EKYSApp {
             badge: '20 Soru • 2027 Test 2'
           },
           {
+            id: 'anayasa_2027_test_3',
+            name: '⚖️ 1982 Anayasası Test 3: TBMM ve Yasama Yetkisi',
+            icon: '⚖️',
+            desc: 'Yasama Yetkisinin Özellikleri, TBMM Görev ve Yetkileri, Kanun Teklif ve Kabul Usulü (17 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_3',
+            badge: '17 Soru • 2027 Test 3'
+          },
+          {
+            id: 'anayasa_2027_test_4',
+            name: '⚖️ 1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi',
+            icon: '⚖️',
+            desc: 'Adaylık Şartları, Yasama Dokunulmazlığı & Sorumsuzluğu, Meclis Toplantı ve Karar Yeter Sayıları (20 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_4',
+            badge: '20 Soru • 2027 Test 4'
+          },
+          {
             id: 'ekys_2026_mevzuat_anayasa',
             name: '2026 EKYS Anayasa Çıkmış Soruları',
             icon: '📜',
@@ -3094,6 +3110,8 @@ class EKYSApp {
       if (filterKey === 'anayasa_video_tarama_1' || filterKey === 'anayasa_test_1') return (q.testId === 'anayasa_test_1' || tId === 'anayasa_test_1' || tId === 'anayasa_video_tarama_1');
       if (filterKey === 'anayasa_2027_test_1' || filterKey === 'anayasa_2027_1') return q.testId === 'anayasa_2027_test_1';
       if (filterKey === 'anayasa_2027_test_2' || filterKey === 'anayasa_2027_2') return q.testId === 'anayasa_2027_test_2';
+      if (filterKey === 'anayasa_2027_test_3' || filterKey === 'anayasa_2027_3') return q.testId === 'anayasa_2027_test_3';
+      if (filterKey === 'anayasa_2027_test_4' || filterKey === 'anayasa_2027_4') return q.testId === 'anayasa_2027_test_4';
       if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
       if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
       if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');

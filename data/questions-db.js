@@ -79454,5 +79454,1374 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     ],
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong><br><br>\n📌 <strong>Pedagojik Çözüm & Kavram Analizi:</strong><br>\nBir alanın temel kavram, ilke, genelleme ve sembollerine ilişkin anlayış disipline özgü bilgidir. Bunların başka disiplinlerin kavram ve konularıyla ilişkilendirilmesi disiplinler arası bilgiyi oluşturur. Epistemik bilgi uzmanların düşünme ve çalışma biçimlerine, işlemsel bilgi ise eylem adımlarına odaklanır. Aynı içerik farklı becerilerle işlenebilir; bir beceri de farklı içeriklerde kullanılabilir.<br><br>\n• <strong>Disipline Özgü vs. Disiplinler Arası Bilgi:</strong><br>• <strong>Disipline Özgü Bilgi:</strong> Yalnızca o bilim dalına ait temel kavram ve ilkelerdir (örn. kimyadaki periyodik cetvel).<br>• <strong>Disiplinler Arası Bilgi:</strong> Bu kavramların başka alanlarla (örn. kimyadaki bileşiklerin biyolojideki metabolizmayla) ilişkilendirilmesidir."
+  },
+  {
+    "id": "anayasa_t3_q1",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 1,
+    "questionText": "TBMM'nin hiçbir kİşi veya organı, araya koymadan, doğrudan kanun yapması hangi yetkisine dayanır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q1.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yasamanın Genelliği"
+      },
+      {
+        "key": "B",
+        "text": "Yasamanın sürekliliği"
+      },
+      {
+        "key": "C",
+        "text": "Yasamanın asliliği"
+      },
+      {
+        "key": "D",
+        "text": "Yasamanın devredilmezliği"
+      },
+      {
+        "key": "E",
+        "text": "Yasamanın yöntemsel bağımsızlığı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Yasamanın asliliği)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q2",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 2,
+    "questionText": "1982 Anayasasına göre aşağıdakilerden hangisinin siyaset yapma yasağı vardır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q2.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilleri"
+      },
+      {
+        "key": "B",
+        "text": "Cumhurbaşkanı"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlar"
+      },
+      {
+        "key": "D",
+        "text": "Meclis Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanı Yardımcıları"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Meclis Başkanı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q3",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisi TBMM kanın görev ve yetkilerinden biri değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q3.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meclis iç düzenini sağlamak"
+      },
+      {
+        "key": "B",
+        "text": "Meclis   tatildeyken  doğrudan meclisi olağanüstü toplantıya çağırmak"
+      },
+      {
+        "key": "C",
+        "text": "Meclis toplantılı gündemini belirlemek"
+      },
+      {
+        "key": "D",
+        "text": "Cumhurbaşkanına vekalet etmek"
+      },
+      {
+        "key": "E",
+        "text": "Meclis komisyonlarını denetlemek Baş-"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Cumhurbaşkanına vekalet etmek)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q4",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 4,
+    "questionText": "Cumhurbaşkanı tarafından TBMM'ye gönderilen kanun teklifini TBMM en az hangi çoğunlukta aynen kabul ederse, Cumhurbaşkanı Resmi Gazetede yayımlamak zorundadır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q4.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meclis üye tam sayısının salt çoğunluğu"
+      },
+      {
+        "key": "B",
+        "text": "Toplantıya katılanların salt çoğunluğu"
+      },
+      {
+        "key": "C",
+        "text": "Meclis üye tam sayısının beşte üçü"
+      },
+      {
+        "key": "D",
+        "text": "Meclis üye tam sayısının üçte birisi"
+      },
+      {
+        "key": "E",
+        "text": "Meclis üye tam sayısının üçte ikisi geri"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Meclis üye tam sayısının salt çoğunluğu)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q5",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi TBMM'nin görev ve yetkileri arasında yer almaz?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q5.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletlerarası antlaşmaları onaylamak"
+      },
+      {
+        "key": "B",
+        "text": "Olağanüstü h~l kararlarını onaylamak"
+      },
+      {
+        "key": "C",
+        "text": "Dokunulmazlığı kaldırmak"
+      },
+      {
+        "key": "D",
+        "text": "Sayıştay başkan ve üyelerini seçmek"
+      },
+      {
+        "key": "E",
+        "text": "İçtüzük hazırlamak"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Milletlerarası antlaşmaları onaylamak)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>A</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q6",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 6,
+    "questionText": "Dokunulmazlığın kaldırılması IL. Bakan olması IIL Partiden istifa etmek IV. Cumhurbaşkanı yardımcısı olmak Yukarıdakilerden hangileri milletvekillerini sona erdiren hallerden biri değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q6.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız /"
+      },
+      {
+        "key": "B",
+        "text": "ve II"
+      },
+      {
+        "key": "C",
+        "text": "ve III"
+      },
+      {
+        "key": "D",
+        "text": "Ill ve IV"
+      },
+      {
+        "key": "E",
+        "text": "/ ve IV"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (ve III)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q7",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 7,
+    "questionText": "Genel   seçimlerde milletvekili   seçilen kişinin mazbatasını alacağı yer aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q7.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yüksek Seçim Kurulu"
+      },
+      {
+        "key": "B",
+        "text": "TBMM Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Danıştay"
+      },
+      {
+        "key": "D",
+        "text": "İçişleri Bakanlığı"
+      },
+      {
+        "key": "E",
+        "text": "İl Seçim Kurulu"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (İl Seçim Kurulu)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q8",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 8,
+    "questionText": "Yasama sorumsuzluğu ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q8.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Süreklidir ."
+      },
+      {
+        "key": "B",
+        "text": "Meclis tarafından kaldırılamaz."
+      },
+      {
+        "key": "C",
+        "text": "Cezai açıdan koruma sağlar."
+      },
+      {
+        "key": "D",
+        "text": "Bakanlar bu sorumsuzluktan yararla - namaz."
+      },
+      {
+        "key": "E",
+        "text": "Meclis çalışmalarında ileri sürülen oy, söz ve düşünceler sorumsuzluk samına dahildir. kap-"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bakanlar bu sorumsuzluktan yararla - namaz.)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q9",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 9,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi TBMM üyeliğinin düşme nedenlerinden biri değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q9.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilinin milletvekilliğiyle bağdaşmayan bir görev veya hizmeti sürdürmekte ısrar etmesi"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa   Mahkemesince temelli kapatılan bir siyasi partinin üyesi olması"
+      },
+      {
+        "key": "C",
+        "text": "Milletvekilinin TBMM çalışmalarına özürsüz veya izinsiz olarak ay içinde toplam 5 birleşim gününe katılmaması"
+      },
+      {
+        "key": "D",
+        "text": "Milletvekilinin kısıtlanması"
+      },
+      {
+        "key": "E",
+        "text": "Milletvekilinin istifa etmesi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa   Mahkemesince temelli kapatılan bir siyasi partinin üyesi olması)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q10",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 10,
+    "questionText": "Aşağıdaki   mahkumiyetlerden hangisi milletvekili olmaya engel değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q10.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rüşvet suçundan affa uğramış mahkumiyet"
+      },
+      {
+        "key": "B",
+        "text": "Kasıtlı bir suçtan dolayı 13 ay hapis cezası ile mahkumiyet"
+      },
+      {
+        "key": "C",
+        "text": "Taksirli suçlardan dolayı sekiz ay hapis cezasıyla mahk'miyet"
+      },
+      {
+        "key": "D",
+        "text": "Hırsızlık suçundan dolayı 4 ay hapis cezasıyla mahkumiyet"
+      },
+      {
+        "key": "E",
+        "text": "Zimmet suçundan dolayı tecil edilmiş mahk'miyet"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Taksirli suçlardan dolayı sekiz ay hapis cezasıyla mahk'miyet)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q11",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 11,
+    "questionText": "Savaş sebebi ile yeni seçimlerin yapılmasına imkan görülmez ise TBMM ne kadar   süre seçimlerin geriye bırakılmasına karar verebilir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q11.png",
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": "1 yıl"
+      },
+      {
+        "key": "C",
+        "text": "2 yıl"
+      },
+      {
+        "key": "D",
+        "text": "3 yıl"
+      },
+      {
+        "key": "E",
+        "text": "3 ay 6 ay"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (1 yıl)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q12",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 12,
+    "questionText": "Meclisteki siyasi parti grupları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q12.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Siyasi parti grupları yasama dokunulmazlığı ile ilgili görüşme yapamazlar ."
+      },
+      {
+        "key": "B",
+        "text": "Başkanlık divanına katılmaları meclisteki üye sayıları ile orantılıdır ."
+      },
+      {
+        "key": "C",
+        "text": "İktidar ve ana muhalefet partisi meclis grupları Anayasa Mahkemesine iptal davası açabilirler ."
+      },
+      {
+        "key": "D",
+        "text": "TBMMden Genel Görüşme talebinde bulunabilirler."
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanlığı için aday gösterebilirler ."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (İktidar ve ana muhalefet partisi meclis grupları Anayasa Mahkemesine iptal davası açabilirler .)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q13",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 13,
+    "questionText": "1982 Anayasasına göre bir siyasi grubu en az kaç milletvekilinden oluşur?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q13.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "30"
+      },
+      {
+        "key": "D",
+        "text": "40"
+      },
+      {
+        "key": "E",
+        "text": "4 parti"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (20)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q14",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 14,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi milletvekilliğinin düşme sebepleri arasında yer almaktadır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q14.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilinin partisinden istifa etmesi"
+      },
+      {
+        "key": "B",
+        "text": "Milletvekilinin   partisinin  kapatılmasına beyan veya eylemleriyle sebep olması"
+      },
+      {
+        "key": "C",
+        "text": "Milletvekilinin ay içinde toplam 10 birleşim gününe izinsiz özürsüz katılmaması"
+      },
+      {
+        "key": "D",
+        "text": "Milletvekilinin dokunulmazlığının kaldırılması"
+      },
+      {
+        "key": "E",
+        "text": "Milletvekilinin mahkeme kararıyla kısıtlanması"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Milletvekilinin mahkeme kararıyla kısıtlanması)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q15",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 15,
+    "questionText": "TBMM tatil veya ara verme sırasında iken aşağıdakilerden hangisi   oranında milletvekilinin yazılı istemi üzerine TBMM başkanı tarafından toplantıya çağrılabilir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q15.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Üye tam sayısının onda biri"
+      },
+      {
+        "key": "B",
+        "text": "Üye tam sayısının üçte biri"
+      },
+      {
+        "key": "C",
+        "text": "Üye tam sayısının dörtte birinin bir fazlası"
+      },
+      {
+        "key": "D",
+        "text": "Üye tam sayısının beşte biri"
+      },
+      {
+        "key": "E",
+        "text": "Üye tam sayısının salt çoğunluğu"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Üye tam sayısının beşte biri)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q16",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 16,
+    "questionText": "1982 Anayasası'na göre, TBMM   seçimleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q16.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM Genel Kurulu   yasama dönemi sona ermeden seçimlerin yenilenmesine karar verebilir."
+      },
+      {
+        "key": "B",
+        "text": "TBMM savaş nedeniyle seçimlerin 1 yıl geriye bırakılmasına karar verebilir ."
+      },
+      {
+        "key": "C",
+        "text": "TBMM seçimleri ile yerel seçimler arasında bir zaman farkı var ise birlestirilebilinir ."
+      },
+      {
+        "key": "D",
+        "text": "TBMM erken seçim kararı alırken herhangi bir gerekçe göstermek zorunda değildir."
+      },
+      {
+        "key": "E",
+        "text": "TBMM seçimleri ile Cumhurbaşkanlığı seçimleri kural olarak yılda bir birlikte yapılır. yıllık beş"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (TBMM seçimleri ile yerel seçimler arasında bir zaman farkı var ise birlestirilebilinir .)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t3_q17",
+    "testId": "anayasa_2027_test_3",
+    "testTitle": "1982 Anayasası Test 3: TBMM ve Yasama Yetkisi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 17,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangilerinin, TBMM   seçimlerini   yenileme   yetkisi vardır?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t3_q17.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM ve Yüksek Seçim Kurulu"
+      },
+      {
+        "key": "B",
+        "text": "TBMM Başkanı ve Cumhurbaşkanı"
+      },
+      {
+        "key": "C",
+        "text": "TBMM ve Cumhurbaşkanı'"
+      },
+      {
+        "key": "D",
+        "text": "Anayasa Mahkemesi ve TBMM"
+      },
+      {
+        "key": "E",
+        "text": "Yüksek Seçim Kurulu ve Cumhurbaşkanı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (TBMM ve Cumhurbaşkanı')<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q1",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 1,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi görevinden çekilmedikçe milletvekilliğine olamayacak kişiler arasında yer almaz?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q1.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yüksek yargı organı mensupları"
+      },
+      {
+        "key": "B",
+        "text": "Silahlı kuvvetler mensupları"
+      },
+      {
+        "key": "C",
+        "text": "Yükseköğretim kurumlarındaki öğretim görevlileri"
+      },
+      {
+        "key": "D",
+        "text": "Baro başkanları ve üyeleri"
+      },
+      {
+        "key": "E",
+        "text": "Kamu kurumlarındaki memurlar aday"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Baro başkanları ve üyeleri)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q2",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 2,
+    "questionText": "'TBMM   genel oyla seçilmiş 600 milletvekilinden oluşur. hükmü 1982 Anayasasında hangi yıl yapılan değişiklikle düzenlenmiştir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q2.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "1987"
+      },
+      {
+        "key": "B",
+        "text": "1995"
+      },
+      {
+        "key": "C",
+        "text": "2007"
+      },
+      {
+        "key": "D",
+        "text": "2010"
+      },
+      {
+        "key": "E",
+        "text": "2017"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (2017)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q3",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 3,
+    "questionText": "Yasama dokunulmazlığı TBMM kararı ile kaldırılan bir milletvekili, yargılanması sonunda aşağıdaki hükümlerden hangisini alırsa milletvekilliği bu hüküm ile sona erer?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q3.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kasten işlenen bir   suçtan ay hapis   cezası alırsa"
+      },
+      {
+        "key": "B",
+        "text": "Taksirle işlenen bir suçtan 8 ay hapis cezası alırsa"
+      },
+      {
+        "key": "C",
+        "text": "Taksirle işlenen bir suçtan 12 ay hapis cezası alırsa"
+      },
+      {
+        "key": "D",
+        "text": "Kasten işlenen bir suçtan 13 ay hapis cezası alırsa"
+      },
+      {
+        "key": "E",
+        "text": "Taksirle işlenen bir suçtan 3 ay hapis cezası alırsa"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kasten işlenen bir suçtan 13 ay hapis cezası alırsa)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q4",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 4,
+    "questionText": "1982 Anayasası'na göre, bir milletvekili, milletvekilliği  boyunca meclis çalışmalarında söylediği sözlerden, verdiği oylardan ve serglledlklerl düşüncelerden dolayı ne kadar süre ile sorumsuzdur?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q4.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilliği boyunca"
+      },
+      {
+        "key": "B",
+        "text": "Bir yasama yılı boyunca"
+      },
+      {
+        "key": "C",
+        "text": "2 yıl boyunca"
+      },
+      {
+        "key": "D",
+        "text": "5 yıl boyunca"
+      },
+      {
+        "key": "E",
+        "text": "Ömür boyunca"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ömür boyunca)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q5",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 5,
+    "questionText": "1982 Anayasasına göre, aşağıdakilerden hangisi milletvekillerine sağlanan güvenceler ile ilgili yanlıs bir bilgidir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q5.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yasama sorumsuzluğu mutlak ve süreklidir"
+      },
+      {
+        "key": "B",
+        "text": "Yasama dokunulmazlığı   parlamento kararı ile kaldırılabilir ."
+      },
+      {
+        "key": "C",
+        "text": "Yasama sorumsuzluğu meclis çalışmaları ile sınırlıdır."
+      },
+      {
+        "key": "D",
+        "text": "Güvencelerden bakanlar faydalanamaz."
+      },
+      {
+        "key": "E",
+        "text": "Yasama dokunulmazlığı ile ilgili istisnai durumlar mevcuttur."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Güvencelerden bakanlar faydalanamaz.)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q6",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 6,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM nin olağanüstü toplantıya çağrılması ile ilgili doğru bir bilgi değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q6.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı gerek gördüğünde   TBMMyi olağanüstü toplantıya çağırabilir."
+      },
+      {
+        "key": "B",
+        "text": "Meclis üye tam sayısının beşte bir çoğunluğunun yazılı   isteğiyle TBMM Başkanı TBMMyi olağanüstü toplantıya çağırır."
+      },
+      {
+        "key": "C",
+        "text": "Olağanüstü toplanan TBMM çağrılma gerekçesi olan konuyu görüşmeden başka konuyu görüşemez."
+      },
+      {
+        "key": "D",
+        "text": "TBMM Başkanı göreceği üzerine TBMM'yi toplantıya çağırır."
+      },
+      {
+        "key": "E",
+        "text": "Ani bir saldırı durumunda herhangi bir çağrıya gerek kalmadan TBMM kendiliğinden toplanır. lüzum"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Ani bir saldırı durumunda herhangi bir çağrıya gerek kalmadan TBMM kendiliğinden toplanır. lüzum)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q7",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 7,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası'nın değistirilemeyecek hükümlerinden biri değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q7.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkiye devleti bir Cumhuriyettir ."
+      },
+      {
+        "key": "B",
+        "text": "Yasama   yetkisini   Türk Milleti  adına TBMMye aittir ."
+      },
+      {
+        "key": "C",
+        "text": "Türkiye devleti ülkesi ve milletiyle bölünmez bir bütündür ."
+      },
+      {
+        "key": "D",
+        "text": "Başkent Ankara' dır."
+      },
+      {
+        "key": "E",
+        "text": "Demokratik, laik sosyal bir hukuk devletidir."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yasama   yetkisini   Türk Milleti  adına TBMMye aittir .)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q8",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 8,
+    "questionText": "Aşağıdakilerden hangisi   milletvekilleri   ile   ilgili doğru bir ifadedir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q8.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Milletvekilleri sadece kendilerini   seçenleri ve seçildikleri bölgeyi temsil ederler."
+      },
+      {
+        "key": "B",
+        "text": "Siyasi partisi kapatılan milletvekilinin TBMM üyeliği kendiliğinden düşer."
+      },
+      {
+        "key": "C",
+        "text": "Milletvekilliği sıfatı son bulsa da dokunulmazlık ve sorumsuzluktan faydalanırlar."
+      },
+      {
+        "key": "D",
+        "text": "Milletvekilleri göreve başlarken anayasada belirtildiği şekilde and içerler"
+      },
+      {
+        "key": "E",
+        "text": "Milletvekilleri   ayrıca vekil   seçilidiğinde bu revde bulunmak şartıyla kamu tüzel kişiliklerindeki görevlerine devam edebilirler, bu görevlerde bulunabilirler. gö -"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Milletvekilleri göreve başlarken anayasada belirtildiği şekilde and içerler)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q9",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 9,
+    "questionText": "TBMM çalışmalarını aşağıdaki düzenlemelerden hangisine göre yürütür ve bu düzenlemenin yargısal denetimi hangi makam tarafından ne getirilir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q9.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yönetmelik-Danıştay"
+      },
+      {
+        "key": "B",
+        "text": "Içtüzük-Danıştay"
+      },
+      {
+        "key": "C",
+        "text": "Yönetmelik-Anayasa Mahkemesi"
+      },
+      {
+        "key": "D",
+        "text": "lçtüzük-Anayasa Mahkemesi"
+      },
+      {
+        "key": "E",
+        "text": "lçtüzük-Yargısal Denetimi yeri - Yok"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (lçtüzük-Anayasa Mahkemesi)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>D</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q10",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 10,
+    "questionText": "1982 Anayasası'na göre, boşalan üyeliklerin sayısı TBMM üye tam sayısının ne kadarını bulduğu hallerde ara seçimin yapılmasına karar verilmesi zorunludur?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q10.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "%2"
+      },
+      {
+        "key": "B",
+        "text": "%4"
+      },
+      {
+        "key": "C",
+        "text": "%5"
+      },
+      {
+        "key": "D",
+        "text": "%7"
+      },
+      {
+        "key": "E",
+        "text": "%10"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (%5)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q11",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 11,
+    "questionText": "1982 Anayasası'na göre, seçimden önce veya sonra bir suç işlediği   ileri   sürülen milletvekili aşağıdakilerden hangisinin kararıyla yargılanabilir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q11.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "HSK"
+      },
+      {
+        "key": "B",
+        "text": "TBMM"
+      },
+      {
+        "key": "C",
+        "text": "Danıştay"
+      },
+      {
+        "key": "D",
+        "text": "Anayasa Mahkemesi"
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (TBMM)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q12",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 12,
+    "questionText": "1982 Anayasasına göre aşağıdaki görevlerden hangisini kabul eden kimsenin milletvekilliği sona erer?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q12.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meclis Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Meclis Idare Amirliği"
+      },
+      {
+        "key": "C",
+        "text": "Cumhurbaşkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Siyasi parti liderliği"
+      },
+      {
+        "key": "E",
+        "text": "Meclis Soruşturma Komisyonu üyeliği"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Cumhurbaşkanlığı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q13",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 13,
+    "questionText": "1982 Anayasası'na göre, meclisin tatil   dışında çalışmalarını ertelemesine ara verme denir. Buna göre, ara verme süresi günü gece mez?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q13.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 gün"
+      },
+      {
+        "key": "B",
+        "text": "15 gün"
+      },
+      {
+        "key": "C",
+        "text": "20 gün"
+      },
+      {
+        "key": "D",
+        "text": "30 gün"
+      },
+      {
+        "key": "E",
+        "text": "40 gün kaç"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (15 gün)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q14",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 14,
+    "questionText": "Yasama meclislerinin kendi içtüzüklerini bizzat yapmalarını , onların dIğer devlet organları ve özellikle yürutme organı karşısındakl özerkliklerinin bir göstergesidir. Yukarıda açıklanan kavram aşağıdakilerden hangisidir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q14.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yasama yetkisinin asliliği"
+      },
+      {
+        "key": "B",
+        "text": "Yöntemsel bağımsızlık"
+      },
+      {
+        "key": "C",
+        "text": "Yasama yetkisinin devredilmezliği"
+      },
+      {
+        "key": "D",
+        "text": "Yasama yetkisinin genelliği"
+      },
+      {
+        "key": "E",
+        "text": "Meclis hükümeti"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yöntemsel bağımsızlık)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q15",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 15,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisi TBMMyi yasama çalışmalarına ara verme veya tatil sırasında toplantıya çağırmaya yetkilidir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q15.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı Yardımcısı"
+      },
+      {
+        "key": "B",
+        "text": "Meclis Başkanı"
+      },
+      {
+        "key": "C",
+        "text": "Millf Güvenlik Kurulu"
+      },
+      {
+        "key": "D",
+        "text": "TBMM Danışma Kurulu"
+      },
+      {
+        "key": "E",
+        "text": "TBMM üyelerinin onda biri"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Meclis Başkanı)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q16",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 16,
+    "questionText": "1982 Anayasası'na göre, Meclis İçtüzüğünün yargısal  denetimini başvuru üzerine aşağıdakilerden hangisi yapar?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q16.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Danıştay"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa Mahkemesi"
+      },
+      {
+        "key": "C",
+        "text": "Yargıtay"
+      },
+      {
+        "key": "D",
+        "text": "Uyuşmazlık Mahkemesi"
+      },
+      {
+        "key": "E",
+        "text": "Yüksek Seçim Kurulu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa Mahkemesi)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>B</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q17",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 17,
+    "questionText": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM seçimlerinin yenilenmesi ile ilgili verilen yanlıs bir bilgidir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q17.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yenileme kararını TBMM ve Cumhurbaşkanı alabilir ."
+      },
+      {
+        "key": "B",
+        "text": "TBMM seçimleri yenilerse seçim gününü kendisi belirler"
+      },
+      {
+        "key": "C",
+        "text": "TBMM yenileme kararını   beşte üç çoğunlukla alabilir ."
+      },
+      {
+        "key": "D",
+        "text": "Seçimle yenilenirse TBMM ve Cumhurbaşkanlığı seçimleri aynı gün yapılır."
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanının   yenileme kararı alabilmesi için TBMM başkanına danışması gerekir ."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Cumhurbaşkanının   yenileme kararı alabilmesi için TBMM başkanına danışması gerekir .)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q18",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 18,
+    "questionText": "1982 Anayasası'na göre, yasama dokunulmazlığı ile ilgili olarak aşağıdakilerden hangisi yanlıs",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q18.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Keyfi   tutuklamalarla yasama faaliyetlerinin aksamaması amacını güder."
+      },
+      {
+        "key": "B",
+        "text": "Ağır cezayı gerektiren   suçüstü durumlar kapsam dışındadır ."
+      },
+      {
+        "key": "C",
+        "text": "Milletvekillerini hukuk ve ceza davalarına karşı korur."
+      },
+      {
+        "key": "D",
+        "text": "TBMM Genel Kurulu kararıyla kaldırılabilir."
+      },
+      {
+        "key": "E",
+        "text": "Bakanlar da faydalanabilir . tır?"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Milletvekillerini hukuk ve ceza davalarına karşı korur.)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q19",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 19,
+    "questionText": "1982 Anayasası'na göre, aşağıdakilerden hangisinin gerçekleşmesi durumunda ara seçime gidilmesi zorunludur?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q19.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Üye tam sayısında %3'lük bir eksilme olursa"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlar toplu olarak istifa ederse"
+      },
+      {
+        "key": "C",
+        "text": "Bir ilin veya seçim çevresinin mecliste temsilcisi kalmazsa"
+      },
+      {
+        "key": "D",
+        "text": "Herhangi bir sebeple Cumhurbaşkanlığı makamı boşalırsa"
+      },
+      {
+        "key": "E",
+        "text": "Anayasa'da   öngörülen süre   içerisinde TBMM Başkanlık Divanı kurulamazsa"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bir ilin veya seçim çevresinin mecliste temsilcisi kalmazsa)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>C</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
+  },
+  {
+    "id": "anayasa_t4_q20",
+    "testId": "anayasa_2027_test_4",
+    "testTitle": "1982 Anayasası Test 4: Milletvekilliği Statüsü & Meclis İşleyişi",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 T.C. Anayasası",
+    "category": "Mevzuat (%20)",
+    "icon": "⚖️",
+    "questionNumber": 20,
+    "questionText": "1982 Anayasasının   yürürlükteki haline   göre, aşağıdakilerden hangisi TBMM seçimleri ile ilgili doğru bir bilgi değildir?",
+    "hasImage": true,
+    "image": "assets/questions/anayasa_t4_q20.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM üyeliğine 600 milletvekili seçilir."
+      },
+      {
+        "key": "B",
+        "text": "Üye seçilebilmek için en az 18 yaşını doldurmak gerekir ."
+      },
+      {
+        "key": "C",
+        "text": "Seçimlerde 18 yaşını dolduranlar oy kullanır."
+      },
+      {
+        "key": "D",
+        "text": "Askeri lise ve üniversite öğrencileri oy kullanamaz."
+      },
+      {
+        "key": "E",
+        "text": "Türkiye'de yaşayan yabancılarda milletvekili seçilebilir ."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Türkiye'de yaşayan yabancılarda milletvekili seçilebilir .)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe:</strong><br>1982 T.C. Anayasası'nın ilgili amir hükümleri ve normlar hiyerarşisi uyarınca doğru seçenek <strong>E</strong> şıkkıdır.<br><br>💡 <strong>ÖSYM & EKYS Sınav Notu:</strong><br>Anayasa Hukuku sorularında doğrudan Anayasa metnindeki kesin ifadeler, nitelikli çoğunluklar ve kavramsal tanımlar esas alınır."
   }
 ];
