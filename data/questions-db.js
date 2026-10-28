@@ -6741,227 +6741,227 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "explanation": "Doğru Cevap: <strong>B</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Erzurum-Kars platosunda kışların aşırı dondurucu ve soğuk geçmesinde kışın kuzeydoğudan sarkan soğuk kökenli Sibirya Yüksek Basıncı (I) ve sahanın aşırı yüksek ve denizden uzak olması (II) belirleyicidir.<br>• Volkanik toprak yapısı (III) jeolojik/edafik bir unsurdur, iklim ve sıcaklık üzerinde doğrudan belirleyici bir etkiye sahip değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Toprak cinsi kışın sıcaklık değerlerini düşürmez; toprak verimliliği ve tarım deseni üzerinde etkilidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kışın en soğuk yer: Erzurum-Kars (Yükselti + Sibirya YB + Karasallık). Kışın en sıcak yer: Akdeniz kıyıları (Enlem + Denizellik)."
   },
   {
-    "id": "cogr_hafta3_1-q12",
-    "testId": "cogr_hafta3_1",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-    "topicId": "cogr_hafta3_1",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 12,
-    "questionText": "Yukarıdaki Türkiye haritasında beş farklı alan numaralandırılarak gösterilmiştir.\n\nTürkiye'de yer şekillerinin uzanışı ve yükselti farklılıkları nedeniyle kısa mesafelerde belirgin iklim ve yağış değişiklikleri yaşanır.\n\nBuna göre, haritada numaralandırılan alanlardan hangisi Türkiye'nin yıllık ortalama yağış miktarı en fazla olan yöresi içinde yer alır?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q12_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Akdeniz ve Ege kıyılarında en fazla yağış kış mevsiminde cephesel kökenli olarak düşer."
-      },
-      {
-        "key": "B",
-        "text": "İç Anadolu Bölgesi'nde en fazla yağış yaz aylarında konveksiyonel hareketlerle düşer."
-      },
-      {
-        "key": "C",
-        "text": "Karadeniz ikliminde her mevsim yağış görülür ve en fazla yağış sonbahar aylarında düşer."
-      },
-      {
-        "key": "D",
-        "text": "Erzurum-Kars platosunda en fazla yağış yaz mevsiminde yükselim (konveksiyonel) şeklinde gerçekleşir."
-      },
-      {
-        "key": "E",
-        "text": "Güneydoğu Anadolu'da yaz kuraklığı ve buharlaşma şiddeti Akdeniz Bölgesi'nden daha fazladır."
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• İç Anadolu Bölgesi karasal (step) iklim sahasıdır ve en fazla yağışını <strong>ilkbahar</strong> mevsiminde ısınan havanın yükselmesiyle (Kırkikindi yağışları) alır. Yaz ayları ise oldukça sıcak ve kuraktır. En çok yağışı yaz aylarında alan bölgemiz Erzurum-Kars'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, C, D ve E seçeneklerindeki tüm bilgiler Türk coğrafyasının temel yağış rejim kurallarına harfiyen uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kırkikindi = İlkbahar konveksiyonel yağışları (İç Anadolu). Çayır ve mera varlığı = Yaz konveksiyonel yağışları (Erzurum-Kars)."
-  },
+  "id": "cogr_hafta3_1-q12",
+  "testId": "cogr_hafta3_1",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+  "topicId": "cogr_hafta3_1",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 12,
+  "questionText": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir.\n\nYukarıdaki haritada numaralanmış yerlerdeki iklim özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q12_img.png",
+  "options": [
+    {
+      "key": "A",
+      "text": "I ve III numaralı alan en fazla yağışını aynı mevsimde almaktadır."
+    },
+    {
+      "key": "B",
+      "text": "II numaralı alanda en fazla yağış yaz aylarında düşmektedir."
+    },
+    {
+      "key": "C",
+      "text": "V numaralı alanda en fazla yağış kış mevsiminde yağmur şeklinde düşmektedir."
+    },
+    {
+      "key": "D",
+      "text": "IV numaralı alan Türkiye'nin en az yağış alan yöresidir."
+    },
+    {
+      "key": "E",
+      "text": "I, III ve V numaralı alanlarda kışlar ılık geçmektedir."
+    }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alanda en fazla yağış yaz aylarında düşmektedir - Yanlış)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada II numaralı alan Doğu Anadolu'nun güney kesimini (Van Gölü havzası ve Güneydoğu Toroslar arkasını) göstermektedir. Bu alanda en fazla yağış ilkbahar/kış döneminde düşer. Yaz aylarında en fazla yağış alan saha ise daha kuzeydeki Erzurum-Kars-Ardahan platosudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <em>A şıkkı:</em> I nolu alan (Doğu Karadeniz kıyısı) ve III nolu alan (Yıldız Dağları Karadeniz kıyısı) Karadeniz iklimine sahiptir ve ikisi de en çok yağışı sonbaharda alır.<br>• <em>C şıkkı:</em> V nolu alan (Muğla/Menteşe ve Teke kıyıları) Akdeniz iklim sahasıdır, kış yağışları yağmur şeklindedir.<br>• <em>D şıkkı:</em> IV nolu alan (Tuz Gölü çevresi) yıllık 300-350 mm ile Türkiye'nin en kurak alanlarındandır.<br>• <em>E şıkkı:</em> Kıyıda yer alan I, III ve V nolu alanlarda kışlar denizellik etkisiyle ılık geçer.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Karadeniz kıyıları = Sonbahar | Akdeniz/Ege kıyıları = Kış | İç Anadolu = İlkbahar | Erzurum-Kars = Yaz."
+},
   {
-    "id": "cogr_hafta3_1-q13",
-    "testId": "cogr_hafta3_1",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-    "topicId": "cogr_hafta3_1",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 13,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nBağıl nem; havadaki mevcut su buharının, o sıcaklıkta havanın taşıyabileceği maksimum neme oranıdır. Bağıl nemin yıl boyunca yüksek olması; bulutluluk oranının fazla, güneşlenme süresinin az ve yağış ihtimalinin yüksek olmasını beraberinde getirir.\n\nBuna göre, Türkiye'de yıl boyunca bağıl nem oranının en yüksek, yıllık güneşlenme süresinin ise en az olduğu yöre aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q13_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Güneydoğu Anadolu (Şanlıurfa çevresi)"
-      },
-      {
-        "key": "B",
-        "text": "Doğu Karadeniz kıyı kuşağı (Rize-Trabzon)"
-      },
-      {
-        "key": "C",
-        "text": "Tuz Gölü ve Konya Havzası"
-      },
-      {
-        "key": "D",
-        "text": "Ergene Havzası (Edirne)"
-      },
-      {
-        "key": "E",
-        "text": "Iğdır Ovası"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Doğu Karadeniz kıyı kuşağı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Doğu Karadeniz kıyısı her mevsim yağışlı olması, denizel hava kütlelerinin dağlar boyunca sürekli yükselmesi nedeniyle Türkiye'de bulutluluğun ve bağıl nemin en yüksek, güneşlenme süresinin ise en düşük (~1750 saat) olduğu yerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Güneydoğu Anadolu güneşlenme süresinin en fazla, bağıl nemin yazın en düşük olduğu bölgedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güneş enerjisinden yararlanma potansiyeli en düşük bölgemiz Doğu Karadeniz; en yüksek bölgemiz Güneydoğu Anadolu'dur."
-  },
+  "id": "cogr_hafta3_1-q13",
+  "testId": "cogr_hafta3_1",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+  "topicId": "cogr_hafta3_1",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 13,
+  "questionText": "Bağıl nem sıcaklıkla ters orantılıdır. Bağıl nemin yüksek olduğu mevsimde yağışlar artmaktadır.\n\nYukarıdaki Türkiye haritasındaki numaralandırılmış alanlardan hangisinde bağıl nemin yaz aylarında yüksek olduğu söylenebilir?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q13_img.png",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: Erzurum-Kars Platosu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Bağıl nem, havadaki nem oranının doyma noktasına yaklaşmasıdır ve yağış olasılığıyla doğrudan ilişkilidir.<br>• Haritada gösterilen I (Hakkâri/Güneydoğu), III (Çukurova), IV (Ergene) ve V (Antalya/Muğla) alanları yaz mevsiminde şiddetli sıcaklık ve kuraklık yaşar, bu nedenle yazın bağıl nemleri düşer.<br>• <strong>II numaralı alan (Erzurum-Kars Platosu)</strong> ise sert karasal iklim etkisiyle Türkiye'de en fazla yağışını <strong>yaz mevsiminde</strong> konveksiyonel (ısınma kaynaklı yükselim) olarak alan sahadır. Yaz yağışları ve serin hava nedeniyle bağıl nem oranı yaz aylarında en yüksek bu alandadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Türkiye'de yazın bağıl nemin en yüksek olduğu ve en çok yağış alan alan = <strong>II nolu Erzurum-Kars yöresi</strong>dir."
+},
   {
-    "id": "cogr_hafta3_1-q14",
-    "testId": "cogr_hafta3_1",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-    "topicId": "cogr_hafta3_1",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 14,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de yer alan merkezlerin en fazla yağış aldıkları mevsimler farklılık göstermektedir.\n\nAşağıda verilen illerden hangisinin en çok yağış aldığı mevsim diğerlerinden farklıdır?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q14_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Antalya"
-      },
-      {
-        "key": "B",
-        "text": "Erzurum"
-      },
-      {
-        "key": "C",
-        "text": "İzmir"
-      },
-      {
-        "key": "D",
-        "text": "Mersin"
-      },
-      {
-        "key": "E",
-        "text": "Çanakkale"
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Erzurum)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Antalya, İzmir, Mersin ve Çanakkale Akdeniz iklim sahasında yer aldıkları için en fazla yağışlarını <strong>kış</strong> mevsiminde cephesel olarak alırlar.<br>• Erzurum ise sert karasal iklim etkisiyle en fazla yağışını <strong>yaz</strong> mevsiminde konveksiyonel olarak alır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, C, D ve E şıklarının dördü de kış yağışları rejimindedir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Erzurum-Kars ve Ardahan Türkiye'de yaz yağışlarıyla meşhur tek yöredir; bu durum yazın gür çayırların yeşermesine ve büyükbaş hayvancılığa zemin hazırlar."
-  },
+  "id": "cogr_hafta3_1-q14",
+  "testId": "cogr_hafta3_1",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+  "topicId": "cogr_hafta3_1",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 14,
+  "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak koyu renkle gösterilmiştir.\n\nBu alanlardan hangisinde en çok yağışın düştüğü mevsim diğerlerinden farklıdır?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q14_img.png",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Doğru Cevap: <strong>B</strong> (II numaralı alan: İç Anadolu / Tuz Gölü güneyi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada gösterilen <strong>I (Güneydoğu Toroslar eteği)</strong>, <strong>III (Çukurova)</strong>, <strong>IV (Güney Marmara)</strong> ve <strong>V (Kıyı Ege / Muğla)</strong> alanlarının tamamı Akdeniz iklimi yağış rejiminin etkisi altındadır ve en çok yağışlarını <strong>KIŞ</strong> mevsiminde cephesel olarak alırlar.<br>• <strong>II numaralı alan (İç Anadolu - Konya/Aksaray çevresi)</strong> ise karasal step iklimi kuşağında yer alır ve en çok yağışını <strong>İLKBAHAR</strong> mevsiminde konveksiyonel (Kırkikindi) yağışları olarak alır. Bu nedenle yağış mevsimi diğer dördünden farklıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> E kuralını unutmayın: İç Anadolu en çok yağışı <strong>İlkbahar</strong>da alır; Akdeniz ve kıyılar <strong>Kış</strong>ın alır."
+},
   {
-    "id": "cogr_hafta3_1-q15",
-    "testId": "cogr_hafta3_1",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-    "topicId": "cogr_hafta3_1",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 15,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de genel bir kural olarak güneyden kuzeye gidildikçe Güneş ışınlarının geliş açısına bağlı olarak (enlem etkisiyle) sıcaklık ortalamaları düşer.\n\nAşağıdaki durumlardan hangisi bu genel kural ile çelişir ve özel konum şartları ile açıklanır?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q15_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Mersin'in yıllık sıcaklık ortalamasının Ankara'dan yüksek olması"
-      },
-      {
-        "key": "B",
-        "text": "Antalya'nın kış sıcaklığının Samsun'dan daha yüksek olması"
-      },
-      {
-        "key": "C",
-        "text": "Hatay'dan Sinop'a doğru gidildikçe çizgisel hızın ve sıcaklığın azalması"
-      },
-      {
-        "key": "D",
-        "text": "Kış mevsiminde kuzeydeki Trabzon'un, daha güneydeki Erzurum'dan çok daha ılık olması"
-      },
-      {
-        "key": "E",
-        "text": "Muğla'nın deniz suyu sıcaklığının Çanakkale'den yüksek olması"
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Trabzon (~41° K) Erzurum'a (~39.9° K) göre daha kuzeydedir. Enlem kuralına göre Trabzon'un kışın daha soğuk olması gerekirken, denizellik ve alçak rakım sayesinde ortalama 7-8 °C iken, Erzurum yüksek rakım ve karasallıkla -8 ila -10 °C'ye düşer. Bu durum enlem-sıcaklık ilişkisine tamamen terstir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• A, B, C ve E şıklarında güneydeki merkez kuzeydekinden daha sıcaktır; bu durum enlem kuralına tam uygundur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Özel konumun enlemle çelişmesi sorularında her zaman 'kuzeydeki deniz kıyısı kent' ile 'güneydeki yüksek/iç kesim kent' karşılaştırılır."
-  },
+  "id": "cogr_hafta3_1-q15",
+  "testId": "cogr_hafta3_1",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+  "topicId": "cogr_hafta3_1",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 15,
+  "questionText": "Türkiye'de genel olarak güneyden kuzeye ve batıdan doğuya gidildikçe sıcaklık ortalamalarının azaldığı bilinmektedir.\n\nBu genelleme haritada numaralandırılarak gösterilen doğrultulardan hangisi için geçerli değildir?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q15_img.png",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "D",
+  "explanation": "Doğru Cevap: <strong>D</strong> (IV numaralı doğrultu: Erzurum-Kars'tan Karadeniz kıyısına)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Genel kural gereği güneyden kuzeye enlemle, batıdan doğuya yükseltiyle sıcaklık düşer (I, II, III ve V numaralı oklarda sıcaklık düzenli azalır).<br>• Ancak <strong>IV numaralı doğrultu</strong>, yaklaşık 2000 metre rakımlı dondurucu Erzurum-Kars Platosu'ndan deniz seviyesindeki ılıman Doğu Karadeniz (Rize-Artvin) kıyı şeridine doğru inmektedir. Kuzeye gidilmesine rağmen rakım aniden 0 metreye indiği ve denizellik devreye girdiği için <strong>sıcaklık azalmaz, tam aksine belirgin biçimde artar</strong>. Bu durum özel konum nedeniyle genel kuralla çelişir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Erzurum'dan Karadeniz kıyısına inildikçe kuzeye gidilmesine rağmen sıcaklık ARTAR (Alçak rakım + Denizellik)."
+},
   {
-    "id": "cogr_hafta3_1-q16",
-    "testId": "cogr_hafta3_1",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-    "topicId": "cogr_hafta3_1",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 16,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de etkili olan yerel rüzgârların sıcaklık üzerindeki etkisi geldikleri enlem derecesine bağlıdır. Kuzeyden esen rüzgârlar sıcaklığı düşürürken, güneyden esen rüzgârlar sıcaklığı artırır.\n\nBuna göre, Türkiye'ye kuzeybatıdan eserek kışın Trakya ve Marmara'da sıcaklığı aniden düşürüp kar yağışı getiren rüzgâr ile kuzeydoğudan esen kuru-soğuk rüzgâr sırasıyla aşağıdakilerden hangisidir?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q16_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Poyraz ve Lodos"
-      },
-      {
-        "key": "B",
-        "text": "Lodos ve Kıble"
-      },
-      {
-        "key": "C",
-        "text": "Karayel ve Poyraz"
-      },
-      {
-        "key": "D",
-        "text": "Samyeli ve Keşişleme"
-      },
-      {
-        "key": "E",
-        "text": "Yıldız ve Samyeli"
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Karayel ve Poyraz)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye'deki yerel rüzgârlar saat yönünde 'KAYIP SAKAL' şifresiyle kodlanır:<br>  - Kuzeybatı: <strong>Karayel</strong> (soğuk, kar getirir)<br>  - Kuzey: <strong>Yıldız</strong><br>  - Kuzeydoğu: <strong>Poyraz</strong> (soğuk, kışın ayaz yapar)<br>  - Güneybatı: <strong>Lodos</strong> (ılık, soba zehirlenmesi ve fırtına)<br>  - Güney: <strong>Kıble</strong><br>  - Güneydoğu: <strong>Samyeli / Keşişleme</strong> (sıcak, kurutucu)<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lodos ve Samyeli güney sektörlü sıcak rüzgârlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Soba gazı zehirlenmesi = Lodos. Balkanlar üzerinden kar getiren = Karayel. Rusya üzerinden ayaz getiren = Poyraz."
-  },
+  "id": "cogr_hafta3_1-q16",
+  "testId": "cogr_hafta3_1",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+  "topicId": "cogr_hafta3_1",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 16,
+  "questionText": "Aşağıdaki haritada herhangi bir günde Türkiye'de etkili olan rüzgârların esme yönleri gösterilmiştir.\n\nHaritadaki esme yönleri dikkate alındığında aşağıdaki rüzgâr çiftlerinden hangisi etkili olmaktadır?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q16_img.png",
+  "options": [
+    {
+      "key": "A",
+      "text": "Poyraz ve Lodos"
+    },
+    {
+      "key": "B",
+      "text": "Yıldız ve Samyeli"
+    },
+    {
+      "key": "C",
+      "text": "Karayel ve Yıldız"
+    },
+    {
+      "key": "D",
+      "text": "Karayel ve Poyraz"
+    },
+    {
+      "key": "E",
+      "text": "Samyeli ve Kıble"
+    }
+  ],
+  "correctAnswer": "C",
+  "explanation": "Doğru Cevap: <strong>C</strong> (Karayel ve Yıldız)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye'de esen yerel rüzgârlar saat yönünde 'KAYIP SAKAL' formülüyle kodlanır:<br>• <strong>Karayel (Kuzeybatı):</strong> Haritanın batısında Marmara ve Ege'ye doğru kuzeybatıdan güneydoğuya esen yatay ok Karayel'dir.<br>• <strong>Yıldız (Tam Kuzey):</strong> Karadeniz üzerinden İç Anadolu'ya doğru dikine güneye inen dikey ok Yıldız rüzgârıdır.<br>Haritada açıkça görülen rüzgâr çifti <strong>Karayel ve Yıldız</strong>'dır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kuzeybatı = <strong>Karayel</strong>, Tam Kuzey = <strong>Yıldız</strong>, Kuzeydoğu = <strong>Poyraz</strong>."
+},
   {
-    "id": "cogr_hafta3_1-q17",
-    "testId": "cogr_hafta3_1",
-    "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
-    "topicId": "cogr_hafta3_1",
-    "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
-    "category": "Cografya",
-    "icon": "globe",
-    "questionNumber": 17,
-    "questionText": "Yukarıdaki Türkiye haritasında gösterilen coğrafi dağılış dikkate alındığında;\n\nTürkiye'de dağların kıyı çizgisine hemen bitişik ve dik yükseldiği kıyılarda denizel nemli hava kütleleri hızla yükselerek bol miktarda yamaç yağışına neden olur.\n\nAşağıdaki alanlardan hangisinde bu durumun bir sonucu olarak yıllık yağış miktarı 2000 mm'nin üzerine çıkarak Türkiye rekoru kırar?",
-    "hasImage": true,
-    "image": "assets/questions/cogr_h3_q17_img.png",
-    "options": [
-      {
-        "key": "A",
-        "text": "Güneydoğu Anadolu (Şanlıurfa-Mardin eşiği)"
-      },
-      {
-        "key": "B",
-        "text": "İç Anadolu (Konya-Karapınar çevresi)"
-      },
-      {
-        "key": "C",
-        "text": "Ergene Havzası"
-      },
-      {
-        "key": "D",
-        "text": "Malatya-Elazığ çöküntü alanı"
-      },
-      {
-        "key": "E",
-        "text": "Doğu Karadeniz kıyı kuşağı (Rize çevresi)"
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Doğu Karadeniz kıyı kuşağı / Rize)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Kaçkar Dağları'nın kıyıya çok yakın ve yaklaşık 4000 metreye kadar duvar gibi yükselmesi, Karadeniz üzerinden gelen nemli hava kütlelerinin tamamının yükselip yoğuşmasını sağlar. Rize yılda ortalama 2400 mm yağışla Türkiye'nin en çok yağış alan merkezidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Konya-Karapınar, Iğdır ve Güneydoğu düzlükleri Türkiye'nin en kurak ve en az yağış alan yöreleridir (300-400 mm).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> En çok yağış alan ilimiz: Rize (~2400 mm). En az yağış alan yerlerimiz: Iğdır Ovası ve Konya-Karapınar çevresidir."
-  },
+  "id": "cogr_hafta3_1-q17",
+  "testId": "cogr_hafta3_1",
+  "testTitle": "Coğrafya Kampı 3. Hafta (Bölüm 1: Türkiye İklimi & Sıcaklık)",
+  "topicId": "cogr_hafta3_1",
+  "topicName": "Coğrafya Kampı 3. Hafta (Bölüm 1)",
+  "category": "Cografya",
+  "icon": "globe",
+  "questionNumber": 17,
+  "questionText": "Aşağıdaki Türkiye haritasında beş farklı alan taralı olarak numaralarla gösterilmiştir.\n\nHaritadaki numaralanmış alanlardan hangisinde kış sıcaklık ortalamaları diğerlerinden daha düşüktür?",
+  "hasImage": true,
+  "image": "assets/questions/cogr_h3_q17_img.png",
+  "options": [
+    {
+      "key": "A",
+      "text": "I"
+    },
+    {
+      "key": "B",
+      "text": "II"
+    },
+    {
+      "key": "C",
+      "text": "III"
+    },
+    {
+      "key": "D",
+      "text": "IV"
+    },
+    {
+      "key": "E",
+      "text": "V"
+    }
+  ],
+  "correctAnswer": "E",
+  "explanation": "Doğru Cevap: <strong>E</strong> (V numaralı alan: Hakkâri Yöresi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Haritada işaretli I (Ergene/Marmara), II (Antalya kıyısı), III (Çukurova) ve IV (Orta Karadeniz / Ordu-Giresun kıyısı) deniz seviyesine yakın alçak rakımlı sahalardır ve kışları ılık geçer.<br>• <strong>V numaralı alan (Hakkâri Yöresi - Cilo Dağları kuşağı)</strong> ise ortalama yükseltisi 2200-3000 metreyi bulan son derece engebeli ve karasal bir sahadır. Aşırı yükselti ve deniz etkisinden uzaklık sebebiyle kış sıcaklık ortalamaları diğer dört merkeze kıyasla <strong>en düşük</strong> olan yöredir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kışın en soğuk alanlar Doğu Anadolu'nun yüksek platoları ve dağlık yöreleridir (Hakkâri, Erzurum-Kars)."
+},
   {
     "id": "cogr_hafta3_2-q1",
     "testId": "cogr_hafta3_2",
