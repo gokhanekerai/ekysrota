@@ -5604,7 +5604,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 1,
     "questionText": "Harita üzerinde dağılışı gösterilen doğal unsur aşağıdakilerden hangisidir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q21_img.png",
+    "image": "assets/questions/cogr_h1_q21_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -5641,7 +5641,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 2,
     "questionText": "Orojenezin etkili olduğu yerlerde yerkabuğunun sert bölümleri kıvrılamadığı için yer yer kırılır. Bu kırılmalar sonucunda bazı kesimler yükselir, bazı kesimler ise çökerek alçalır. Yükselen kesime horst, alçalan kesime ise graben denir.\n\nBuna göre, harita üzerinde numaralanmış yerlerin hangisinde horst ve graben oluşumu görülür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q22_img.png",
+    "image": "assets/questions/cogr_h1_q22_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -5678,7 +5678,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 3,
     "questionText": "Aşağıdaki harita üzerinde fay hatlarının dağılışı gösterilmiştir.\n\nFay hatlarının dağılışı göz önüne alındığında Türkiye ile ilgili aşağıdakilerden hangisine ulaşılabilir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q23_img.png",
+    "image": "assets/questions/cogr_h1_q23_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -5752,7 +5752,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 5,
     "questionText": "Aşağıdaki görselde kıtasal levhaların birbirine yaklaşması sonucu oluşan kıvrım dağlar sembolize edilmiştir.\nBuna göre, aşağıdaki dağlardan hangisi bu şekilde oluşmuştur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q25_img.png",
+    "image": "assets/questions/cogr_h1_q25_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -5826,7 +5826,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 7,
     "questionText": "Aşağıdaki harita üzerinde beş farklı yer numaralandırılarak gösterilmiştir.\n\nBu yerlerden hangisinde tektonik deprem oluşma ihtimali diğerlerine göre daha azdır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q27_img.png",
+    "image": "assets/questions/cogr_h1_q27_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -5900,7 +5900,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 9,
     "questionText": "Haritada Türkiye'deki fay hatları gösterilmiştir.\n\nBuna göre, aşağıdaki şehirlerden hangisi Kuzey Anadolu Fay Hattı üzerinde değildir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q29_img.png",
+    "image": "assets/questions/cogr_h1_q29_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -5974,7 +5974,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 11,
     "questionText": "Aşağıda Türkiye haritası üzerinde dört farklı alan işaretlenmiştir.\nBu alanlardan hangi ikisinde rüzgâr aşındırma ve biriktirme şekillerine daha çok rastlanır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q31_img.png",
+    "image": "assets/questions/cogr_h1_q31_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -6048,7 +6048,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 13,
     "questionText": "Aşağıda Türkiye haritası üzerinde beş farklı alan gösterilmiştir.\n\nBu alanlardan hangisinde çözünebilen kayaçlar üzerinde oluşmuş yer şekilleri daha yaygın olarak bulunur?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q33_img.png",
+    "image": "assets/questions/cogr_h1_q33_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -6085,7 +6085,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 14,
     "questionText": "Yukarıda verilen yeryüzü şeklinin (falez / yalıyar) haritada gösterilen alanlardan hangisinde oluşması güçtür?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q34_img.png",
+    "image": "assets/questions/cogr_h1_q34_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -6122,7 +6122,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 15,
     "questionText": "Eğimin fazla olduğu alanlarda akarsu aşındırma faaliyetleri daha yaygındır.\n\nBuna göre, harita üzerinde numaralanmış yerlerin hangisinde akarsu aşındırma faaliyetlerinin yaygın olması beklenir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q35_img.png",
+    "image": "assets/questions/cogr_h1_q35_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -6159,7 +6159,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 16,
     "questionText": "Akarsu vadilerinin sular altında kalması sonucunda oluşmuş olan kıyı tipine, haritada verilen yerlerin hangisinde rastlanır?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q36_img.png",
+    "image": "assets/questions/cogr_h1_q36_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -6196,7 +6196,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 17,
     "questionText": "Yağışlarla birlikte yüzeysel akışa geçen suların kalkerli arazilerde oluşturduğu oluk, çukur veya kanal biçimindeki en küçük karstik aşınım şekline lapya denir. Türkiye'de bu tür oluşumlara Antalya, Isparta ve Burdur çevresinde rastlamak mümkündür.\n\nBuna göre, aşağıdaki yer şekillerinden hangisi bu oluşuma örnektir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q37_img.png",
+    "image": "assets/questions/cogr_h1_q37_img.png?v=227.0",
     "options": [
       {
         "key": "A",
@@ -6307,7 +6307,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "questionNumber": 20,
     "questionText": "Rüzgârlar, kurak ve yarı kurak iklim bölgelerinde etkileri belirgin olarak görülen bir dış kuvvettir. Bu açıdan Türkiye'de bitki örtüsünün seyrek olduğu iç kesimler ve kumullarla kaplı kıyılarda rüzgârların yeryüzünü şekillendirici etkilerini görmek mümkündür.\n\nBuna göre, harita üzerinde işaretlenmiş alanların hangisinde rüzgârların oluşturduğu yer şekilleri daha az görülmektedir?",
     "hasImage": true,
-    "image": "assets/questions/cogr_h1_q40_img.png",
+    "image": "assets/questions/cogr_h1_q40_img.png?v=227.0",
     "options": [
       {
         "key": "A",
