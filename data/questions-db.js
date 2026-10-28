@@ -6751,7 +6751,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 12,
   "questionText": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir.\n\nYukarıdaki haritada numaralanmış yerlerdeki iklim özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q12_img.png",
+  "image": "assets/questions/cogr_h3_q12_img.png?v=224.0",
   "options": [
     {
       "key": "A",
@@ -6788,7 +6788,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 13,
   "questionText": "Bağıl nem sıcaklıkla ters orantılıdır. Bağıl nemin yüksek olduğu mevsimde yağışlar artmaktadır.\n\nYukarıdaki Türkiye haritasındaki numaralandırılmış alanlardan hangisinde bağıl nemin yaz aylarında yüksek olduğu söylenebilir?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q13_img.png",
+  "image": "assets/questions/cogr_h3_q13_img.png?v=224.0",
   "options": [
     {
       "key": "A",
@@ -6825,7 +6825,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 14,
   "questionText": "Aşağıdaki haritada bazı alanlar numaralandırılarak koyu renkle gösterilmiştir.\n\nBu alanlardan hangisinde en çok yağışın düştüğü mevsim diğerlerinden farklıdır?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q14_img.png",
+  "image": "assets/questions/cogr_h3_q14_img.png?v=224.0",
   "options": [
     {
       "key": "A",
@@ -6862,7 +6862,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 15,
   "questionText": "Türkiye'de genel olarak güneyden kuzeye ve batıdan doğuya gidildikçe sıcaklık ortalamalarının azaldığı bilinmektedir.\n\nBu genelleme haritada numaralandırılarak gösterilen doğrultulardan hangisi için geçerli değildir?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q15_img.png",
+  "image": "assets/questions/cogr_h3_q15_img.png?v=224.0",
   "options": [
     {
       "key": "A",
@@ -6899,7 +6899,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 16,
   "questionText": "Aşağıdaki haritada herhangi bir günde Türkiye'de etkili olan rüzgârların esme yönleri gösterilmiştir.\n\nHaritadaki esme yönleri dikkate alındığında aşağıdaki rüzgâr çiftlerinden hangisi etkili olmaktadır?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q16_img.png",
+  "image": "assets/questions/cogr_h3_q16_img.png?v=224.0",
   "options": [
     {
       "key": "A",
@@ -6936,7 +6936,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
   "questionNumber": 17,
   "questionText": "Aşağıdaki Türkiye haritasında beş farklı alan taralı olarak numaralarla gösterilmiştir.\n\nHaritadaki numaralanmış alanlardan hangisinde kış sıcaklık ortalamaları diğerlerinden daha düşüktür?",
   "hasImage": true,
-  "image": "assets/questions/cogr_h3_q17_img.png",
+  "image": "assets/questions/cogr_h3_q17_img.png?v=224.0",
   "options": [
     {
       "key": "A",
