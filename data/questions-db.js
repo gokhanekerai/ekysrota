@@ -13361,7 +13361,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• 2025 Türkiye Yüzyılı Maarif Modeli (TYMM) Ortak Metni'ne göre bireyin zihinsel, sosyal, duygusal, fiziksel ve ahlaki açıdan <strong>bütüncül (çok yönlü) gelişimini</strong> desteklemek için 5 temel ekosistem unsuru birbiriyle tam uyum içinde hareket etmelidir:<br>  1. <strong>Öğretim programları (I)</strong>,<br>  2. <strong>Dijital ekosistem (II)</strong>,<br>  3. <strong>Öğretmen gelişimi (III)</strong>,<br>  4. Projeler ve programlar,<br>  5. Sosyal etkinlikler.<br>• Verilen her üç unsur da bu bütüncül yapının temel yapı taşları olduğundan doğru cevap <strong>I, II ve III</strong>'tür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Maarif Modeli eğitimi yalnızca ders içi müfredatla sınırlamaz; öğretmenin mesleki gelişimini ve dijital ekosistemi de bütüncül gelişimin ayrılmaz paydaşları kabul eder."
   },
   {
     "id": "ekys2026-q42",
@@ -13398,7 +13398,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Sorumluluklarını yerine getirme konusunda tutarlı davranır.)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sorumluluklarını yerine getirme konusunda tutarlı davranır.)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM <strong>Yetkin ve Erdemli İnsan (Öğrenci Profili)</strong> 10 ana özellikten oluşur: <em>Ahlaklı, Bilge, Cesaretli, Estetik, İradeli, Merhametli, Sağlıklı, Sorgulayıcı, Üretken ve Vatansever.</em><br>• <strong>E Şıkkı Yanlıştır:</strong> \"Sorumluluklarını yerine getirme konusunda tutarlı davranır\" ifadesi <em>Sorgulayıcı</em> öğrenci profilinin değil; öz denetim ve görev bilincini temsil eden <strong>\"İradeli\"</strong> (ve ahlaki tutarlılık yönüyle <strong>\"Ahlaklı\"</strong>) öğrenci profilinin alt göstergesidir.<br><br>🔍 <strong>Sorgulayıcı Öğrenci Profilinin Doğru Göstergeleri:</strong><br>• <strong>A, B, C ve D şıkları:</strong> Merakla yaklaşma, nedenleri anlamada farklı kaynaklardan yararlanma, etkili iletişim kurup takım çalışmasına katkı sağlama, değişen koşullara uyum ve yeni fikirlere açık olma doğrudan Ortak Metin'deki <strong>Sorgulayıcı</strong> profil maddeleridir.<br><br>💡 <strong>Hoca İpucu:</strong> Öğrenci profili sorularında başlıkları ezberlemekten ziyade kavramın kök anlamını eşleştirin: Araştırma/merak/yeni fikir → <em>Sorgulayıcı</em>; sebat/öz denetim/sorumlulukta tutarlılık → <em>İradeli</em>."
   },
   {
     "id": "ekys2026-q43",
@@ -13435,7 +13435,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Toplumca sahip olunan ortak bilinci ve kültürü eğitim yoluyla kazandırma)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Toplumca sahip olunan ortak bilinci ve kültürü eğitim yoluyla kazandırma)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM Öğrenci Profili'nde insan <strong>4 Bütünlük Alanı</strong> çerçevesinde ele alınır:<br>  • <strong>Zamansal Bütünlük (E):</strong> Modelin <em>\"Köklerden Geleceğe\"</em> mottosunu yansıtır; geçmişten devralınan toplumsal ortak bilinci, kültürel mirası ve değerleri eğitim yoluyla bugüne ve geleceğe aktarmayı esas alır.<br><br>🔍 <strong>Çeldirici Şıkların Bütünlük Alanı Eşleştirmeleri:</strong><br>• <strong>A ve D (Ontolojik Bütünlük):</strong> Varlık felsefesinden hareketle insanı <em>ruh, zihin ve beden bütünlüğü</em> içinde ele almadır.<br>• <strong>B (Epistemolojik Bütünlük):</strong> Bilgi felsefesinden hareketle <em>bilgi ve bilgeliği</em> birleştirerek hayattaki problemleri çözmede bilgiyi işlevsel kullanmadır.<br>• <strong>C (Aksiyolojik Olgunluk):</strong> Değerler felsefesinden hareketle ahlaki ilkeleri ve değerleri içselleştirip <em>davranışa/eyleme dönüştürmedir</em>.<br><br>💡 <strong>ÖSYM/EKYS Kuralı:</strong> Ruh-beden = <em>Ontolojik</em> | Bilgi-bilgelik = <em>Epistemolojik</em> | Geçmiş-gelecek/Ortak kültür = <em>Zamansal</em> | Değer-ahlaki eylem = <em>Aksiyolojik</em>."
   },
   {
     "id": "ekys2026-q44",
@@ -13472,7 +13472,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Eğitim programı ögelerinin birbirinden bağımsız olduğu sistematik bir model oluşturmak)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Eğitim programı ögelerinin birbirinden bağımsız olduğu sistematik bir model oluşturmak)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Türkiye Yüzyılı Maarif Modeli'nin merkezinde <strong>bütüncül (holistik) eğitim yaklaşımı</strong> yer alır.<br>• <strong>B Şıkkı Yanlıştır:</strong> Öğretim programının öğeleri (<em>öğrenme çıktıları, içerik çerçevesi, öğrenme-öğretme yaşantıları ve öğrenme kanıtları</em>) birbirinden kopuk veya <strong>bağımsız değil</strong>; tam aksine birbirini besleyen, dinamik, sarmal ve <strong>birbiriyle sıkı sıkıya ilişkili</strong> bir bütün olarak tasarlanmıştır.<br><br>🔍 <strong>Diğer Şıkların Analizi:</strong><br>• <strong>A, C, D ve E:</strong> İnsanı temel erdemlerle geleceğe hazırlamak, paydaş sorumlulukları tanımlamak, öğretim ve ölçme süreçlerine rehberlik etmek ve bireyi tüm yönleriyle geliştiren özgün bir model kurmak Ortak Metin'de açıkça vurgulanan hedeflerdir."
   },
   {
     "id": "ekys2026-q45",
@@ -13509,7 +13509,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Bireysel durumların dikkate alınarak nitelikli çeşitliliğin sağlanması)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Bireysel durumların dikkate alınarak nitelikli çeşitliliğin sağlanması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Farklılaştırılmış Öğretim:</strong> Her öğrencinin hazırbulunuşluk düzeyi, ilgi alanı, öğrenme hızı ve bireysel gereksinimlerinin birbirinden farklı olduğu gerçeğinden hareketle; standart/tek tip bir ders işlenişi yerine <strong>zenginleştirme</strong> ve <strong>destekleme</strong> uygulamalarıyla öğretimde esneklik ve <strong>nitelikli çeşitlilik</strong> sağlanmasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A:</strong> Okulların yerel ve bölgesel ihtiyaçlarını dikkate alma → <em>Okul Temelli Planlama</em>.<br>• <strong>B:</strong> Sosyal sorumluluk ve kulüp çalışmaları → <em>Program Dışı Etkinlikler</em>.<br>• <strong>D:</strong> Uygulayıcı (öğretmen) öz değerlendirmeleri → <em>Öğretmen Yansıtmaları</em>.<br>• <strong>E:</strong> \"Öğretmenin merkezde olduğu\" ifadesi TYMM'nin öğrenci merkezli ve aktif öğrenme doğasına tamamen aykırıdır."
   },
   {
     "id": "ekys2026-q46",
@@ -13546,7 +13546,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Özetleme Becerisi)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Özetleme Becerisi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM <strong>Kavramsal Beceriler</strong> altındaki 20 <strong>Bütünleşik Beceri</strong>'den biri olan <strong>Özetleme Becerisi (KB2.15)</strong>, Ortak Metin'de sırasıyla şu 3 süreç bileşeninden (işlem adımından) oluşur:<br>  1. Metin/olayla ilgili <strong>çözümleme yapma</strong>,<br>  2. Önemli-önemsiz bilgileri ayırarak <strong>sınıflandırma yapma</strong>,<br>  3. Ana fikri koruyarak <strong>kendi cümleleriyle yeniden ifade etme / yorumlama</strong>.<br>• Öğretmenin uygulattığı üç basamak birebir Özetleme Becerisi'nin resmi işlem adımlarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Gözlemleme:</strong> Duyu organları/araçlarla nitelik belirleme ve veri kaydetmedir.<br>• <strong>Bilgi Toplama:</strong> Bilgiye ulaşma araçlarını belirleme, doğrulama ve kaydetmedir.<br>• <strong>Yapılandırma:</strong> Nedensel ilişkiler kurarak öznel ve özgün yeni bir bütün ortaya koymadır.<br>• <strong>Yansıtma:</strong> Deneyimi gözden geçirip çıkarım yapma ve yeni durumlara değerlendirme aktarmadır."
   },
   {
     "id": "ekys2026-q47",
@@ -13583,7 +13583,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Görsel Mesajı Okuma Becerisi)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Görsel Mesajı Okuma Becerisi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM'de 10 farklı disiplin/ders grubuna ait <strong>Alan Becerileri</strong> tanımlanmıştır.<br>• <strong>Sosyal Bilimler Alan Becerileri (17 adet):</strong> Tarih, coğrafya, felsefe ve sosyoloji temellidir. <em>Mantıksal Muhakeme (A - Felsefe/Mantık), Tablo, Grafik, Şekil ve/veya Diyagram (B - Coğrafya/Sosyal), Mekânsal Düşünme (C - Coğrafya)</em> ve <em>Sosyal Katılım (E - Sosyal Bilgiler)</em> doğrudan bu 17 beceri arasındadır.<br>• <strong>D Şıkkı (Görsel Mesajı Okuma Becerisi):</strong> Sosyal Bilimler alanında değil, görsel ve işitsel sanatları kapsayan <strong>Sanat Alan Becerileri</strong> (13 beceriden biri) altında yer alır!<br><br>💡 <strong>Hoca İpucu:</strong> Alan becerisi sorularında kavramın ait olduğu dersi düşünün: Harita/mekân → <em>Sosyal Bilimler</em>; kanıt/hipotez/deney → <em>Fen Bilimleri</em>; görsel mesaj/sanat eseri/müzik → <em>Sanat</em>; tatbik/tilavet/tefekkür → <em>Din Öğretimi</em>."
   },
   {
     "id": "ekys2026-q48",
@@ -13620,7 +13620,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Merak, azim ve kararlılık, kendine inanma)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Merak, azim ve kararlılık, kendine inanma)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM'de <strong>Eğilimler</strong>; <em>Benlik Eğilimleri, Sosyal Eğilimler ve Entelektüel Eğilimler</em> olmak üzere 3 gruba ayrılır. Soruda verilen üç tanımın Benlik Eğilimleri karşılıkları:<br>  1. Yeni ve ilginç bilgi/nesneyle karşılaştığında araştırma, keşfetme ve anlama arzusu → <strong>Merak</strong>.<br>  2. Bir işi yerine getirmede gayretli olma ve zorluklar karşısında yılmaksızın çaba gösterme → <strong>Azim ve Kararlılık</strong>.<br>  3. Belirlenen hedefleri gerçekleştirme sürecinde gerekli eylemleri planlama ve yürütme becerisine olan kişisel inanç (öz yeterlilik) → <strong>Kendine İnanma</strong>.<br><br>🔍 <strong>Kritik Çeldirici Ayrımı (A vs. D):</strong><br>• Ortak Metin'de <em>\"Kendine Güvenme (Öz Güven)\"</em> bireyin kendi değerine ve genel yeterliliğine duyduğu olumlu duyguyu ifade ederken; <em>\"belirlenen hedefler için eylemleri planlama ve yürütme becerisine olan kişisel inanç\"</em> (Bandura'nın öz yeterlilik tanımı) doğrudan <strong>\"Kendine İnanma (Öz Yeterlilik)\"</strong> olarak tanımlanmıştır."
   },
   {
     "id": "ekys2026-q49",
@@ -13657,7 +13657,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Süreç Bileşeni)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Süreç Bileşeni)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM Beceriler Çerçevesi'nde hiyerarşik yapı şu şekildedir:<br>  <strong>Alan (Disiplin) → Alan Becerisi / Bütünleşik Beceri → Süreç Bileşeni</strong>.<br>• Bir kavramsal becerinin veya alan becerisinin kazanılması sürecinde öğrencinin adım adım sergilediği somut, gözlenebilir işlem basamaklarına <strong>\"Süreç Bileşeni\"</strong> adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Alan Becerisi (A):</strong> İlgili disipline (Türkçe, Fen, Matematik vb.) özgü kapsamlı yeterlilik alanıdır.<br>• <strong>Okuryazarlık (B):</strong> Programlar arası bileşenlerde yer alan 9 temel okuryazarlık alanıdır.<br>• <strong>Öğrenme Kanıtları (C):</strong> Programın ölçme ve değerlendirme boyutudur.<br>• <strong>Köprü Kurma (E):</strong> Mevcut bilgilerle yeni öğrenilecek bilgiler veya gerçek yaşam arasında bağ kurma sürecidir."
   },
   {
     "id": "ekys2026-q50",
@@ -13694,7 +13694,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Sorumlu karar verme ile İş birliği)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Sorumlu karar verme ile İş birliği)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM Programlar Arası Bileşenler'de <strong>Sosyal-Duygusal Öğrenme Becerileri (SDÖB)</strong> 3 kategoride sınıflandırılır:<br>  1. <strong>Benlik Becerileri:</strong> Kendini tanıma (öz farkındalık), kendini düzenleme (öz düzenleme), kendini uyarlama (öz yansıtma).<br>  2. <strong>Sosyal Yaşam Becerileri (İnsanlarla etkileşim):</strong> <em>İletişim</em>, <strong>İş birliği</strong>, <em>Sosyal farkındalık</em>.<br>  3. <strong>Ortak / Birleşik Beceriler (Benlik + Sosyal birlikte):</strong> <em>Uyum</em>, <em>Esneklik</em>, <strong>Sorumlu karar verme</strong>.<br>• Görseldeki tabloda <em>Sosyal Yaşam Becerileri</em> sütununa yanlışlıkla <strong>Sorumlu karar verme</strong>; <em>Ortak/Birleşik Beceriler</em> sütununa ise yanlışlıkla <strong>İş birliği</strong> yazılmıştır. Bu ikisi yer değiştirildiğinde tablo tamamen doğru hale gelir.<br><br>💡 <strong>Hoca İpucu:</strong> \"İş birliği\" doğrudan diğer insanlarla yapılan sosyal bir etkileşimdir (<em>Sosyal Yaşam</em>); \"Sorumlu karar verme\" ise hem bireysel muhakemeyi (benlik) hem de toplumsal sonuçları (sosyal) birleştirdiği için <em>Ortak/Birleşik</em> beceridir."
   },
   {
     "id": "ekys2026-q51",
@@ -13731,7 +13731,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Estetik)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Estetik)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM <strong>Erdem-Değer-Eylem Çerçevesi</strong>; 3 çatı değer ve 3 ana değer kategorisinden oluşur:<br>  • <strong>Çatı Değerler (SAS):</strong> <em>Saygı, Adalet, Sorumluluk.</em><br>  • <strong>1. İçsel Ahenge Sahip Huzurlu İnsan (6 Değer):</strong> <em>Sabır (B), Çalışkanlık (C), Mütevazılık (D), Mahremiyet (E), Tasarruf ve Sağlıklı Yaşam.</em><br>  • <strong>2. Huzurlu Aile ve Toplum (7 Değer):</strong> <em>Sevgi, Dostluk, Vatanseverlik, Yardımseverlik, Dürüstlük, Aile Bütünlüğü, Özgürlük.</em><br>  • <strong>3. Yaşanabilir Çevre (4 Değer):</strong> <em>Temizlik, Duyarlılık, Merhamet ve <strong>Estetik (A)</strong>.</em><br>• Dolayısıyla <strong>Estetik</strong> değeri Huzurlu İnsan kapsamında değil, çevreyi sanatsal bakışla güzelleştirmeyi ve korumayı ifade eden <strong>Yaşanabilir Çevre</strong> kapsamındadır!<br><br>💡 <strong>Hoca Kodlaması (\"Çalışkan MASA SATAM\"):</strong> Huzurlu İnsan'daki 6 bireysel değeri <strong>\"Çalışkan MASA SATAM\"</strong> şeklinde kodlayabilirsiniz: <strong>Çalışkan</strong>lık + <strong>MA</strong>hremiyet, <strong>SA</strong>ğlıklı yaşam, <strong>SA</strong>bır, <strong>TA</strong>sarruf, <strong>M</strong>ütevazılık."
   },
   {
     "id": "ekys2026-q52",
@@ -13768,7 +13768,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Farkındalık)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Farkındalık)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM'de <strong>Sistem Düşüncesi ve Okuryazarlık Becerileri</strong> (9 okuryazarlık alanı), okul öncesinden itibaren sarmal bir yapıda basitten karmaşığa doğru <strong>3 ana düzeyde</strong> ele alınır:<br>  1. <strong>Farkındalık Düzeyi (Temel Düzey - D):</strong> <em>\"Sistemin parçalarını belirleme\"</em>, bilgi ihtiyacını fark etme, tanıma ve anlama aşamasıdır.<br>  2. <strong>İşlevsellik Düzeyi (Orta Düzey - B):</strong> <em>\"Sistemi ve bileşenleri çözümleme ve yapılandırma\"</em>, parçalar arası ilişkileri kurma, bilgiyi toplama ve özetleme aşamasıdır.<br>  3. <strong>Eylemsellik Düzeyi (Üst Düzey - C):</strong> Sistem davranışlarını tahmin eden araçları oluşturma/seçme/kullanma, problem çözme ve <em>çözüm önerilerini eyleme/davranışa dönüştürme</em> (uygulama) aşamasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A (Esneklik) ve E (Bütünlük):</strong> Okuryazarlık becerilerinde bu isimlerle tanımlanmış herhangi bir düzey bulunmamaktadır.<br><br>💡 <strong>Hoca İpucu:</strong> Tanıma / fark etme / <em>parçaları belirleme</em> → <strong>Farkındalık</strong> | <em>Çözümleme ve yapılandırma</em> → <strong>İşlevsellik</strong> | <em>Kullanma / uygulama / eyleme dökme</em> → <strong>Eylemsellik</strong>."
   },
   {
     "id": "ekys2026-q53",
@@ -13805,7 +13805,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Disiplinler Arası İlişkiler</strong>, öğretim programlarını tek bir dersin (disiplinin) bilgi aktarımının ötesine taşıyarak farklı disiplinlerin anlamlı bir bütünlük içinde ilişkilendirilmesidir.<br>• Ortak Metin'e göre disiplinler arası ilişkiler öğrencilere şu üç temel katkıyı sağlar:<br>  1. <strong>Çoklu bakış açıları geliştirme (I - Doğru)</strong>,<br>  2. <strong>Farklı disiplinlerin konu alanları arasında bağlantılar kurma (II - Doğru)</strong>,<br>  3. Karmaşık problemlere çözüm bulma.<br><br>🔍 <strong>III. Öncül Neden Yanlıştır?</strong><br>• Disiplinler arası ilişkilerin yapay zekâ veya dijital teknolojilerde <em>\"uzmanlaşma\"</em> sağlama gibi bir amacı yoktur; ayrıca TYMM'deki 9 okuryazarlık becerisi arasında <em>\"aile okuryazarlığı\"</em> adında bir okuryazarlık yer almaz (okuryazarlıklar zaten disiplinler arası ilişkiler değil, <em>programlar arası bileşenler</em> başlığındadır)."
   },
   {
     "id": "ekys2026-q54",
@@ -13842,7 +13842,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Beceriler arası ilişkiler öğretim programlarında nasıl ele alınmıştır)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Beceriler arası ilişkiler öğretim programlarında nasıl ele alınmıştır)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Parçada yer alan <em>\"Öğrenme çıktılarında odağa alınan becerilerin yanı sıra bu becerilerle ilişkilendirilen ve öğrenme öğretme faaliyetlerinde anlam bulan diğer becerilere de yer verildiği...\"</em> cümlesi, 2025 TYMM Ortak Metni'ndeki <strong>\"Beceriler Arası İlişkiler\"</strong> başlığının birebir tanımıdır.<br>• MEB bu bileşenle öğretmene şunu söyler: Öğrenme çıktılarında (hedeflerde) doğrudan yazmayan ancak hedef becerilerin kazanılmasına ve üst düzey düşünmenin gelişmesine hizmet eden diğer kavramsal/alan becerilerini de ders sürecinde ilişkilendirerek kullan.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Parçada bilişsel aşamalardan (A), öğretim yöntem/tekniklerinden (B), ölçme araçlarından (D) veya okul dışı yaşam boyutlarından (E) değil; doğrudan hedef becerilerle diğer becerilerin ilişkilendirilmesinden (<strong>C</strong>) söz edilmektedir."
   },
   {
     "id": "ekys2026-q55",
@@ -13879,7 +13879,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Öğrenci ne bilmelidir?)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Öğrenci ne bilmelidir?)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• Eğitimde program geliştirmenin 4 temel öğesi ve TYMM karşılıkları:<br>  1. <em>Hedef (Niçin?)</em> → <strong>Öğrenme Çıktıları</strong> (İçerik çerçevesi + Becerilerin birleşimi)<br>  2. <em>İçerik (Ne? / Öğrenci ne bilmelidir?)</em> → <strong>İçerik Çerçevesi (E)</strong> (Öğrenme sürecinde ele alınan bilgi kümesi: genellemeler, ilkeler, anahtar kavramlar, semboller)<br>  3. <em>Eğitim Durumları (Nasıl? / Öğretmen nasıl öğretmelidir?)</em> → <strong>Öğrenme-Öğretme Yaşantıları (A)</strong><br>  4. <em>Sınama Durumları (Ne kadar?)</em> → <strong>Öğrenme Kanıtları</strong><br>• İçerik çerçevesi doğrudan öğrenilecek bilgi kümesini temsil ettiği için <strong>\"Öğrenci ne bilmelidir?\"</strong> sorusuna yanıt verir."
   },
   {
     "id": "ekys2026-q56",
@@ -13916,7 +13916,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Temel kabuller)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Temel kabuller)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM'de <em>Öğrenme-Öğretme Yaşantıları</em> 5 bileşenden oluşur: <em>Temel Kabuller, Ön Değerlendirme Süreci, Köprü Kurma, Öğrenme-Öğretme Uygulamaları ve Farklılaştırma Uygulamaları.</em><br>• <strong>Temel Kabuller (B):</strong> Yeni bir ünite, tema veya konuya (örneğin çarpma-bölme) başlarken öğrencinin önceki öğrenmelerinden dolayı halihazırda <strong>bildiği varsayılan ön öğrenmeleri / ön bilgileri</strong> (toplama-çıkarma) ifade eder.<br><br>🔍 <strong>Karıştırılan Kavramların Ayrımı (Hoca Notu):</strong><br>• Öğrencinin sahip olması gereken ön bilgiler / bildiğini varsayma → <strong>Temel Kabuller (B)</strong>.<br>• Bu ön bilgilere sahip olup olmadığını dersin başında test etme → <strong>Ön Değerlendirme Süreci</strong>.<br>• Mevcut (eski) bilgi ile yeni bilgi veya güncel hayat arasında bağ kurma → <strong>Köprü Kurma (C)</strong>.<br>• Ölçme ve değerlendirme etkinlikleri → <strong>Öğrenme Kanıtları (A)</strong>."
   },
   {
     "id": "ekys2026-q57",
@@ -13953,7 +13953,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Öğrencilerin derse aktif katılımlarını sağlamak)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğrencilerin derse aktif katılımlarını sağlamak)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Ön Değerlendirme Süreci</strong>, ünite veya temanın başında <em>temel kabullerde</em> yer alan ön bilgilere öğrencilerin ne ölçüde sahip olduğunu (hazırbulunuşluk düzeyini) belirlemek için yapılan tanılayıcı değerlendirmedir.<br>• <strong>D Şıkkı Yanlıştır:</strong> Öğrencilerin derse aktif katılımlarını sağlamak sürecin başında yapılan ön değerlendirmenin değil; ders işlenişi sırasındaki <strong>öğrenme-öğretme uygulamalarının</strong> (soru-cevap, tartışma, iş birlikli öğrenme, sorgulama vb.) amacıdır.<br><br>🔍 <strong>Ön Değerlendirmenin Resmi Amaçları (Ortak Metin):</strong><br>• Mevcut bilgi ve beceri düzeyini belirlemek (A),<br>• Öğrenme sürecindeki öğrenci ihtiyaçlarını tespit etmek (B),<br>• Öğrencilerin öğrenme çıktı ve beklentilerini anlamak (C),<br>• Elde edilen verilerle öğretim programının içeriğini ve süreci öğrenciye göre özelleştirmek (E)."
   },
   {
     "id": "ekys2026-q58",
@@ -13990,7 +13990,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Köprü kurma)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Köprü kurma)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Köprü Kurma:</strong> Öğrencilerin mevcut bilgi ve deneyimleri ile yeni edinecekleri bilgi ve beceriler arasında ya da <strong>güncel (aktüel) gerçek yaşam durumları ile ders konusu arasında bağlantı oluşturma</strong> (anlamlandırma ve transferi başlatma) sürecidir.<br>• Sosyal bilgiler öğretmeninin \"Toplumsal sorun\" konusuna giriş yaparken Avrupa Çevre Ajansı'nın su kıtlığına ilişkin güncel haberini yansıtıp tartıştırarak yeni konuya zihinsel hazırlık ve bağ kurdurması doğrudan <strong>Köprü Kurma</strong> bileşenidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Temel kabuller (A):</strong> Öğrencinin önceden bildiği varsayılan ön bilgilerdir.<br>• <strong>Ön değerlendirme (B):</strong> Ön bilgilerin varlığını ölçen tanılayıcı yoklamadır.<br>• <strong>Farklılaştırma (E):</strong> Zenginleştirme ve destekleme uyarlamalarıdır."
   },
   {
     "id": "ekys2026-q59",
@@ -14027,7 +14027,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Artırılmış gerçeklik tabanlı öğrenme ortamları - Web seminerleri)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Artırılmış gerçeklik tabanlı öğrenme ortamları - Web seminerleri)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• 2025 TYMM Ortak Metni'nde öğrenme ortamları <strong>5 ana kategoride</strong> sınıflandırılmıştır:<br>  1. <strong>Geleneksel Fiziksel Ortamlar:</strong> Sınıflar, laboratuvarlar, kütüphaneler, <em>atölyeler (C - Doğru)</em>.<br>  2. <strong>Çevrim İçi Öğrenme Ortamları:</strong> Canlı ders platformları, <em>eğitim portalları (B - Doğru)</em>, web tabanlı uygulamalar ve <strong>web seminerleri (webinarlar)</strong>.<br>  3. <strong>Sosyal Öğrenme Ortamları:</strong> Öğrenci <em>kulüpleri, topluluklar ve organizasyonlar (D - Doğru)</em>.<br>  4. <strong>Açık Alan (Sınıf Dışı) Öğrenme Ortamları:</strong> Doğa gezileri, müzeler, bilim merkezleri, <em>spor eğitimi merkezleri (E - Doğru)</em>.<br>  5. <strong>Sanal Gerçeklik (VR) ve Artırılmış Gerçeklik (AR) Ortamları:</strong> Fiziksel dünyaya 3B dijital/sanal öğelerin harmanlanarak eklendiği ortamlardır.<br>• <strong>A Şıkkı Yanlıştır:</strong> <em>Web seminerleri</em> artırılmış gerçeklik ortamı değil, <strong>çevrim içi öğrenme ortamıdır</strong>!"
   },
   {
     "id": "ekys2026-q60",
@@ -14064,7 +14064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Sorgulamaya dayalı öğrenme)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sorgulamaya dayalı öğrenme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi (Sınavın En Seçici Sorusu):</strong><br>• TYMM'de temel alınan 5 öğrenme yaklaşımı: <em>Yaşantı temelli, Bağlam temelli, Proje temelli, Sorgulamaya dayalı ve İş birlikli öğrenme</em>dir.<br>• Öğretmen sürece merak uyandıran bir <strong>soruyla</strong> (<em>\"Yerel yönetimler hakkında neler biliyorsunuz?\"</em>) başlamış; devamında öğrencileri kaynaklardan bilgi toplamaya, görüşme formu hazırlayıp veri toplamaya, bulguları karşılaştırıp sunmaya yönlendirmiştir. Bilginin hazır verilmeyip bir soru etrafında <strong>araştırma-inceleme-sorgulama</strong> yoluyla yapılandırılması <strong>Sorgulamaya Dayalı Öğrenme (E)</strong> yaklaşımıdır.<br><br>🔍 <strong>En Güçlü Çeldirici — Neden Proje Temelli (D) Değildir? (Hoca Vurgusu):</strong><br>• IV. öncüldeki \"sunum hazırlama\" ifadesi akla hemen <em>Proje Temelli Öğrenme</em>yi getirse de Proje Temelli Öğrenme'nin ayırt edici şartı, <strong>günlük hayatta karşılaşılan somut bir problemin çözümüne odaklanması ve problemi çözecek disiplinler arası bir ürün ortaya koymasıdır</strong>. Soruda çözülmesi gereken bir problem yoktur; bir konunun araştırılıp soruşturulması vardır.<br>• Ayrıca görevler \"her bir öğrenciden\" bireysel istendiği için <em>İş birlikli öğrenme (C)</em> de olamaz."
   },
   {
     "id": "ekys2026-q61",
@@ -14101,7 +14101,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yapılandırılmış grid)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yapılandırılmış grid)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Yapılandırılmış Grid:</strong> Öğrencilerin sınıf seviyesine göre <strong>3×3 (9 kutucuk), 3×4 (12 kutucuk) veya 4×4 (16 kutucuk)</strong> şeklinde numaralandırılmış tablo/ızgara alanları verilerek; yöneltilen sorulara karşılık gelen doğru kutucukları seçmelerinin ve mantıksal/kronolojik sıraya dizmelerinin istendiği alternatif ölçme aracıdır.<br>• Kavramlar arası ilişkileri, sınıflandırma ve analiz becerisini ölçer; çoktan seçmeli testlerdeki şans başarısını ortadan kaldırır ve kısmi puanlamaya olanak tanır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Kontrol listesi (B):</strong> Bir davranışın varlığını/yokluğunu (Evet-Hayır / Var-Yok) gözlemler.<br>• <strong>Kelime ilişkilendirme testi - KİT (C):</strong> Anahtar bir kavramın zihinde oluşturduğu çağrışımları (bilişsel yapıyı) sınırlı sürede ölçer.<br>• <strong>Tanılayıcı dallanmış ağaç (D):</strong> Temelden detaya giden Doğru-Yanlış (D/Y) dallanmalarıyla kavram yanılgılarını tespit eder.<br>• <strong>Dereceli puanlama anahtarı - Rubrik (E):</strong> Performans görevlerini ölçüt ve düzeylere göre puanlama aracıdır."
   },
   {
     "id": "ekys2026-q62",
@@ -14138,7 +14138,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Dönüşümler)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Dönüşümler)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• 2024 TYMM Farklılaştırma Uygulamaları'nda <strong>Zenginleştirme</strong>; akranlarına göre ileri düzeyde olan öğrenciler için <strong>İçerik, Süreç ve Ürün</strong> olmak üzere 3 boyutta gerçekleştirilir:<br>  1. <strong>İçeriğe Dayalı Zenginleştirme:</strong> Soyutluk, karmaşıklık, çeşitlilik, organizasyon, seçkin yöntem, ekonomiklik.<br>  2. <strong>Sürece Dayalı Zenginleştirme:</strong> <em>Üst düzey düşünme (A), Açık uçluluk (B), Öğretim hızı (D), Akıl yürütme (E)</em>, keşfetme, seçme özgürlüğü, farklı yöntemler ve grup etkileşimi.<br>  3. <strong>Ürüne Dayalı Zenginleştirme:</strong> Gerçek hayat problemleri, gerçek dinleyici kitlesi, ürün değerlendirme, sentez ve <strong>Dönüşümler (C)</strong>.<br>• Dolayısıyla <strong>Dönüşümler</strong> sürece dayalı değil; öğrencinin öğrendiklerini yeni ve özgün bir çıktıya/üretime dönüştürmesini ifade eden <strong>Ürüne Dayalı Zenginleştirme</strong> boyutuna aittir!"
   },
   {
     "id": "ekys2026-q63",
@@ -14175,7 +14175,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Farklı zümre uygulamaları için ölçüt oluşturulmalıdır.)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Farklı zümre uygulamaları için ölçüt oluşturulmalıdır.)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM'de <strong>Okul Temelli Planlama</strong>; öğretim programlarının okulların yerel, bölgesel, sosyoekonomik şartlarına ve öğrenci ihtiyaçlarına göre zümre öğretmenleri tarafından esnek biçimde uyarlanabilmesine (saha çalışmaları, müze gezileri, yerel projeler vb.) imkân tanıyan yapıdır.<br>• <strong>E Şıkkı Söylenemez:</strong> Okul temelli planlama her okulun ve zümrenin kendi şartlarına göre esnek kararlar almasına dayanır; diğer/farklı zümrelerin uygulamalarını bağlayıcı standart bir <strong>\"ölçüt oluşturma\"</strong> amacı veya görevi yoktur.<br><br>🔍 <strong>Okul Temelli Planlamanın Doğru İlkeleri:</strong><br>• Öğrenci aktif katılımını destekler (A), yaparak-yaşayarak öğrenmeye fırsat verir (B), bütüncül gelişime hizmet eder (C) ve programdaki öğrenme çıktılarını dikkate alır (D)."
   },
   {
     "id": "ekys2026-q64",
@@ -14212,7 +14212,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II ve III)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (II ve III)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• TYMM Ortak Metni'nde <strong>Program Dışı Etkinlikler</strong>, öğrencinin bütüncül gelişimini destekleyen 5 alt alandan oluşur. Görseldeki tabloyu incelediğimizde:<br>  • <strong>I. Bireysel gelişim:</strong> İlgi ve yetenekleri keşfetme, öz güven ve güçlü şahsiyet oluşturma → <em>Doğru</em>.<br>  • <strong>II. Zihinsel gelişim:</strong> Karşısına <em>\"stres, kaygı ve zorluklarla başa çıkma, akranları ve çevreleriyle etkileşim kurma\"</em> yazılmıştır → <strong>YANLIŞ!</strong> Bu açıklama <strong>Sosyal-duygusal gelişime</strong> aittir.<br>  • <strong>III. Sosyal-duygusal gelişim:</strong> Karşısına <em>\"entelektüel büyüme, karar verme, eleştirel düşünme ve problem çözmeyi geliştirme\"</em> yazılmıştır → <strong>YANLIŞ!</strong> Bu açıklama <strong>Zihinsel gelişime</strong> aittir.<br>  • <strong>IV. Fiziksel gelişim:</strong> Sağlıklı gelişim ve hayat boyu sağlıklı yaşam tarzı → <em>Doğru</em>.<br>  • <strong>V. Ahlaki gelişim:</strong> Birlikte çalışma, merhamet, dayanışma, adil rekabet, yardımlaşma değerlerini deneyimleme → <em>Doğru</em>.<br>• Bu nedenle <strong>II ve III</strong> numaralı alt alanlar yer değiştirildiğinde tablodaki tüm eşleştirmeler doğru olur."
   },
   {
     "id": "ekys2026-q65",
