@@ -18917,7 +18917,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Bilişsel Çıraklık / İskele Kurma (Scaffolding))",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bilişsel Çıraklık / İskele Kurma (Scaffolding))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>İskele Kurma (Scaffolding) ve Bilişsel Çıraklık:</strong> Vygotsky'nin <em>Yakınsak Gelişim Alanı (ZPD)</em> kuramına dayanır. Öğrencinin tek başına yapamadığı ancak bir uzman veya öğretmenin rehberliğiyle başarabileceği görevlerde, başlangıçta yoğun destek sunulması; öğrenci ustalaşıp bağımsızlaştıkça bu desteğin tıpkı inşaat bittiğinde sökülen bir iskele gibi <strong>kademeli olarak geri çekilmesi</strong> sürecidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Programlı Öğretim (B):</strong> Skinner'ın edimsel koşullanmasına dayanır; KEBAB ilkeleriyle (Küçük adımlar, Etkin katılım, Başarı, Anında düzeltme, Bireysel hız) içeriğin parçalanarak sunulmasıdır.<br>• <strong>Tam Öğrenme (C):</strong> Bloom'un modelidir; uygun koşullar ve ek zaman sağlandığında tüm öğrencilerin (%70-%90 ölçütünde) öğrenebileceğini savunur.<br>• <strong>Basamaklı Öğretim (D):</strong> Nunley'in modelidir; öğrencilerin C (bilgi), B (uygulama) ve A (üst düzey düşünme) basamaklarından kendi seviyelerine uygun görev seçmesine dayanır.<br>• <strong>Beyin Temelli Öğrenme (E):</strong> Caine & Caine'in nörofizyolojik ilkelere dayalı, dikkat, duygu ve anlam arayışını merkeze alan yaklaşımıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Soru kökünde <em>'başlangıçta yoğun destek / ipucu verme, öğrenci bağımsızlaştıkça desteği yavaş yavaş (kademeli) çekme'</em> ifadeleri geçtiğinde doğrudan <strong>İskele Kurma (Scaffolding) / Bilişsel Çıraklık</strong> işaretlenmelidir.",
     "hasImage": false,
     "image": null
   },
@@ -18952,7 +18952,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Değerlendirme)",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Değerlendirme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Değerlendirme (Evaluating):</strong> Anderson ve Krathwohl tarafından güncellenen <em>Yenilenmiş Bloom Bilişsel Alan Taksonomisi</em>'nde 5. basamaktır. Bir ürünün, politikanın, yöntemin veya fikrin güçlü ve zayıf yönlerini <strong>belirli ölçütlere (kriterlere) ve standartlara dayanarak eleştirme, kontrol etme ve değer yargısına varma</strong> sürecidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Hatırlama (A):</strong> Bilgiyi uzun süreli bellekten olduğu gibi geri çağırma, tanıma ve sıralama (en alt basamak).<br>• <strong>Anlama (B):</strong> Bilgiyi kendi cümleleriyle açıklama, yorumlama, örneklendirme ve özetleme.<br>• <strong>Uygulama (C):</strong> Öğrenilen kural, ilke veya yöntemi yeni bir durumda ya da problem çözümünde kullanma.<br>• <strong>Yaratma (E):</strong> Yenilenmiş taksonominin en üst (6.) basamağıdır; parçaları özgün ve yeni bir bütün/ürün oluşturacak şekilde birleştirme (eski taksonomideki Sentez).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Eski Bloom taksonomisinde en üst basamak <em>Değerlendirme</em> iken, <strong>Yenilenmiş Bloom Taksonomisi'nde</strong> sıralama <em>Hatırlama → Anlama → Uygulama → Çözümleme (Analiz) → Değerlendirme → Yaratma</em> şeklindedir. Ölçüte göre eleştirme ve yargıda bulunma her zaman <strong>Değerlendirme</strong> basamağıdır.",
     "hasImage": false,
     "image": null
   },
@@ -18987,7 +18987,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Örtük Program (Gizil Program))",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Örtük Program (Gizil Program))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Örtük (Gizil) Program:</strong> Posner'ın program sınıflamasında yazılı ve resmî belgelerde yer almayan; ancak okulun demokratik veya otoriter iklimi, idareci ve öğretmenlerin tutumları, sınıf içi etkileşim biçimleri, mimari düzen ve okul kültürü aracılığıyla öğrencilere <strong>farkında olmadan veya dolaylı yoldan kazandırılan</strong> norm, değer, inanç ve alışkanlıkların bütünüdür.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Resmî Program (A):</strong> MEB/TTKB tarafından yazılı olarak hazırlanan ve hukuki bağlayıcılığı olan çerçeve ve öğretim programlarıdır.<br>• <strong>İhmal Edilen (Görmezden Gelinen / Geçersiz) Program (C):</strong> Resmî programda yer aldığı halde sınavda çıkmadığı, zaman yetmediği veya öğretmen gereksiz gördüğü için atlanan, işlenmeyen konulardır.<br>• <strong>Ekstra (Fazladan) Program (D):</strong> Resmî programın dışında ancak okulun bilgisi ve planlaması dahilinde yürütülen sportif, sanatsal, kültürel kulüp ve gezi etkinlikleridir.<br>• <strong>Desteklenen Program (E):</strong> Programın uygulanması için sağlanan ders kitabı, laboratuvar, bütçe, zaman ve personel gibi fiziki/maddi kaynaklardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>'Okul iklimi, okul kültürü, öğretmenlerin rol model olması, yazılı olmayan kurallar'</em> anahtar kelimeleri <strong>Örtük Programı</strong>; <em>'planlı ders dışı kulüp/turnuva etkinlikleri'</em> ise <strong>Ekstra Programı</strong> işaret eder.",
     "hasImage": false,
     "image": null
   },
@@ -19022,7 +19022,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir.)",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir.)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Kapsamlı Gelişimsel Rehberlik Programı (KGRP):</strong> Çağdaş rehberlik anlayışının temelini oluşturur. Yalnızca sorunlu veya kriz yaşayan öğrencilere değil, <strong>okuldaki tüm öğrencilere</strong> yöneliktir. Temel felsefesi; öğrencilerin içinde bulundukları gelişim döneminin görevlerini (akademik, kariyer ve sosyal-duygusal gelişim alanlarında) başarıyla yerine getirmelerini sağlamak, <strong>önleyici (proaktif)</strong> ve gelişimsel bir yaklaşımla yeterlik kazandırmaktır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A ve C şıkları:</strong> Sadece kriz, problem veya başarısızlık yaşayanlara odaklanmak <em>Geleneksel (Kriz Odaklı / Çare Bulucu)</em> rehberlik anlayışının özelliğidir.<br>• <strong>D şıkkı:</strong> Kapsamlı gelişimsel rehberlikte sadece psikolojik danışman değil; okul müdürü, sınıf rehber öğretmenleri, branş öğretmenleri ve veliler iş birliği içinde rol alır.<br>• <strong>E şıkkı:</strong> Rehberlik hiçbir zaman öğrenciyi eleyen, yargılayan veya etiketleyen bir mekanizma değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Gelişimsel rehberlik; <strong>tüm öğrencilere</strong> yöneliktir, <strong>süreklidir</strong>, <strong>önleyici (proaktif)</strong> niteliktedir, öğretim programıyla kaynaşıktır ve <strong>iş birliği</strong> gerektirir.",
     "hasImage": false,
     "image": null
   },
@@ -19057,7 +19057,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Probleme Dayalı Öğrenme (PDÖ))",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Probleme Dayalı Öğrenme (PDÖ))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Probleme Dayalı Öğrenme (PDÖ):</strong> John Dewey'nin ilerlemecilik felsefesine ve yapılandırmacı yaklaşıma dayanır. Öğrenme sürecinin merkezine <strong>gerçek yaşamdan alınmış, tek bir doğru cevabı olmayan, karmaşık (yapılandırılmamış) ve merak uyandırıcı bir problem senaryosu</strong> yerleştirilir. Öğrenciler küçük iş birlikli gruplar halinde problemi tanımlar, bilgi toplar, hipotez kurar ve bilimsel problem çözme basamaklarını kullanarak çözüm önerileri geliştirir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Doğrudan Öğretim (B) ve Sunuş Yoluyla Öğretim (C):</strong> Öğretmen merkezlidir; kavram ve ilkeler öğretmen tarafından yapılandırılarak açıklanır.<br>• <strong>Ezber Dayalı Öğretim (D):</strong> Bilginin anlamlandırılmadan mekanik tekrarla belleğe alınmasıdır; çağdaş yaklaşımlara tamamen aykırıdır.<br>• <strong>Tam Öğrenme (E):</strong> Sınıf içi öğretimde izleme testleri ve tamamlayıcı öğretimle tüm sınıfı hedef ölçüte ulaştırma modelidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>Proje Tabanlı Öğrenme</em> sonunda mutlaka somut bir <strong>ürün/eser/sergi</strong> ortaya konulurken; <em>Probleme Dayalı Öğrenme (PDÖ)</em>'de odak noktası gerçek yaşam probleminin <strong>çözüm süreci ve araştırma basamaklarıdır</strong>.",
     "hasImage": false,
     "image": null
   },
@@ -19092,7 +19092,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Geçerlik)",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Geçerlik)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Geçerlik (Validity):</strong> Bir ölçme aracının <strong>hizmet주 (amaca) uygunluk</strong> derecesidir; yani ölçmek istediği özelliği, başka hiçbir özellikle (örneğin matematik bilgisini ölçerken okuma hızı veya yazı güzelliğiyle) karıştırmadan <strong>tam ve doğru olarak ölçebilme</strong> niteliğidir. Bir ölçme aracında aranan en önemli nitelik geçerliktir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Güvenirlik (A):</strong> Ölçme sonuçlarının tesadüfi hatalardan arınıklık, kararlılık, tutarlılık ve duyarlılık derecesidir.<br>• <strong>Kullanışlılık (C):</strong> Ölçme aracının hazırlanması, uygulanması ve puanlanmasının ekonomik (zaman, emek, maliyet açısından pratik) olmasıdır.<br>• <strong>Objektiflik (D):</strong> Puanlamanın puanlayıcı öznelliğinden bağımsız olması, farklı puanlayıcıların aynı kağıda aynı puanı vermesidir.<br>• <strong>Standart Sapma (E):</strong> Puanların aritmetik ortalamadan ne kadar uzaklaştığını gösteren merkezi dağılım (yayılım) ölçüsüdür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>'Başka değişkenlerle karıştırmadan amaca uygun ölçme'</em> = <strong>Geçerlik</strong> (Sabit, sistematik ve tesadüfi tüm hatalardan etkilenir). <em>'Tesadüfi hatalardan arınık ve tutarlı ölçme'</em> = <strong>Güvenirlik</strong>.",
     "hasImage": false,
     "image": null
   },
@@ -19127,7 +19127,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak)",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Biçimlendirici (Formatif / İzlemeye Yönelik) Değerlendirme:</strong> Öğretim süreci devam ederken (ünite veya ders esnasında) yapılır. Temel amacı öğrenciye geçme-kalma notu vermek değil; <strong>öğrenme eksikliklerini, güçlüklerini ve kavram yanılgılarını zamanında tespit ederek</strong> hem öğrenciye hem öğretmene yapıcı geri bildirim (dönüt-düzeltme) sağlamak ve öğretimi iyileştirmektir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A ve D şıkları:</strong> Geçme-kalma notu vermek veya diploma derecesi belirlemek öğretim sonunda yapılan <em>Düzey Belirleyici (Summatif / Değer Biçmeye Yönelik)</em> değerlendirmenin işlevidir.<br>• <strong>C ve E şıkları:</strong> Öğrencileri sıralamak ve seçmek <em>Tanılayıcı/Seçmeye Yönelik (Norm Dayanaklı)</em> sınavların işlevidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Değerlendirme amacına göre üçe ayrılır:<br>1. Süreç başında → <strong>Tanılayıcı (Diagnostik)</strong>: Hazırbulunuşluk ve muafiyet.<br>2. Süreç içinde → <strong>Biçimlendirici (Formatif)</strong>: İzleme testi, eksikleri tamamlama (not verilmez!).<br>3. Süreç sonunda → <strong>Düzey Belirleyici (Summatif)</strong>: Erişi testi, not ve sertifika verme.",
     "hasImage": false,
     "image": null
   },
@@ -19162,7 +19162,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Farkındalık / Her Yerde Olma (Withitness))",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Farkındalık / Her Yerde Olma (Withitness))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Farkındalık / Şahitlik / Her Yerde Olma (Withitness):</strong> Jacob Kounin'in sınıf yönetimi araştırmalarında ortaya koyduğu kavramdır. Öğretmenin adeta <em>'ensesinde gözü varmış gibi'</em> sınıfın her köşesinde olup bitenden haberdar olması, bunu öğrencilere hissettirmesi ve olası disiplin sorunlarını daha büyümeden fark edip önlemesidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Grup Odağı (Group Focus) (B):</strong> Öğretmenin sınıf içindeki tek bir öğrenciyle ilgilenirken bile tüm sınıfın dikkatini ve katılımını ders üzerinde tutabilmesidir.<br>• <strong>Doygunluk ve Hız (Momentum) (C):</strong> Dersin akış hızının, temposunun öğrencileri sıkmayacak ve koparmayacak biçimde ayarlanmasıdır.<br>• <strong>Pürüzsüzlük (Smoothness) (D):</strong> Dersin gereksiz bölünmeler, konu dışına çıkmalar veya ani geçişler olmadan akıcı bir şekilde sürdürülmesidir.<br>• <strong>Binişiklik / Çoklu Görev (Overlapping) (E):</strong> Öğretmenin dersin akışını bozmadan aynı anda iki veya daha fazla işle (örneğin bir yandan konuyu anlatırken diğer yandan konuşan öğrencinin yanına yaklaşarak uyarması) ilgilenebilmesidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kounin'in kavramlarından <strong>Withitness (Şahitlik/Farkındalık)</strong> sınıftaki her şeyden haberdar olmayı; <strong>Overlapping (Binişiklik)</strong> aynı anda birden fazla işi dersi kesmeden yürütmeyi; <strong>Ripple Effect (Dalga Etkisi)</strong> ise bir öğrenciye yapılan uyarının diğer öğrencileri de etkilemesini ifade eder.",
     "hasImage": false,
     "image": null
   },
@@ -21717,7 +21717,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması)",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Yapılandırmacı (Konstrüktivist) Yaklaşım:</strong> Piaget, Vygotsky, Bruner ve Dewey'nin görüşlerine dayanan çağdaş öğrenme kuramıdır. Bu yaklaşıma göre bilgi bireyden bağımsız olarak dışarıdan zihne aktarılan nesnel bir kalıp değildir; aksine <strong>öğrenenin kendi ön bilgileri, zihinsel şemaları ve sosyal/fiziksel çevreyle girdiği birincil deneyimler aracılığıyla aktif olarak inşa ettiği (yapılandırdığı)</strong> öznel ve anlamlı bir süreçtir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A, C, D ve E şıkları:</strong> Bilginin pasif aktarımı, mekanik ezber, öğretmenin mutlak otoritesi ve tek tip sonuç odaklı testler <em>geleneksel (davranışçı ve esasici)</em> eğitim anlayışının özellikleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yapılandırmacılıkta <strong>birincil bilgi kaynakları</strong> (ham veriler, deney, gözlem), <strong>üst düzey düşünme</strong>, <strong>iş birlikli çalışma</strong> ve <strong>süreç + sonuç odaklı alternatif değerlendirme</strong> esastır.",
     "hasImage": false,
     "image": null
   },
@@ -21752,7 +21752,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Özedönük (İçsel) Zekâ)",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Özedönük (İçsel) Zekâ)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Özedönük / İçsel (Intrapersonal) Zekâ:</strong> Howard Gardner'ın <em>Çoklu Zekâ Kuramı</em>'nda bireyin kendi iç dünyasını tanıması; duygularının, motivasyonlarının, güçlü ve zayıf yönlerinin farkında olması; <strong>öz değerlendirme, öz düzenleme ve bağımsız (bireysel) hedef belirleme</strong> kapasitesinin yüksek olmasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Kişilerarası / Sosyal Zekâ (B):</strong> Başkalarının duygu, niyet ve davranışlarını anlama, empati kurma, grup çalışması ve liderlik becerisidir.<br>• <strong>Görsel-Uzamsal Zekâ (C):</strong> Üç boyutlu düşünme, harita, grafik, renk ve şekillerle öğrenme becerisidir.<br>• <strong>Mantıksal-Matematiksel Zekâ (D):</strong> Neden-sonuç ilişkisi kurma, sayılarla akıl yürütme ve analitik problem çözme becerisidir.<br>• <strong>Bedensel-Kinestetik Zekâ (E):</strong> Zihin ve beden koordinasyonunu kullanarak yaparak-yaşayarak, hareket ve jestlerle öğrenme becerisidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>'Kendini tanıma, öz değerlendirme, bireysel çalışma'</em> → <strong>Özedönük (İçsel) Zekâ</strong>; <em>'Empati, grup liderliği, ikna, iş birliği'</em> → <strong>Sosyal (Kişilerarası) Zekâ</strong>.",
     "hasImage": false,
     "image": null
   },
@@ -21787,7 +21787,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (David Ausubel (Anlamlı Öğrenme))",
+    "explanation": "Doğru Cevap: <strong>A</strong> (David Ausubel (Anlamlı Öğrenme))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>David Ausubel (Sunuş Yoluyla Anlamlı Öğrenme):</strong> Ausubel'e göre öğrenmeyi etkileyen en önemli faktör öğrencinin mevcut bilgi birikimidir. Yeni bilgilerin öğrencinin zihnindeki mevcut şemalarla ilişkilendirilerek <strong>tümdengelim (bütünden parçaya / genelden özele)</strong> yöntemiyle anlamlandırılması için dersin başında <strong>Ön Organize Ediciler (Örgütleyiciler) ve Kavram Haritaları</strong> kullanılır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Jerome Bruner (B):</strong> <em>Buluş Yoluyla Öğretim</em> kuramcısıdır; tümevarım (örneklerden kurala ulaşma) ve sarmal programı savunur.<br>• <strong>B.F. Skinner (C):</strong> <em>Edimsel Koşullanma</em> ve <em>Programlı Öğretim</em> kuramcısıdır.<br>• <strong>Howard Gardner (D):</strong> <em>Çoklu Zekâ Kuramı</em>'nın kurucusudur.<br>• <strong>Benjamin Bloom (E):</strong> <em>Tam Öğrenme Modeli</em> ve <em>Bilişsel Alan Taksonomisi</em>'nin öncüsüdür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Soruda <em>'Sunuş yolu, anlamlı öğrenme, ön organize ediciler (örgütleyiciler), tümdengelim, kavram haritaları'</em> kavramları bir arada verildiğinde doğru cevap her zaman <strong>David Ausubel</strong>'dir.",
     "hasImage": false,
     "image": null
   },
@@ -21822,7 +21822,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kaynaştırma / Bütünleştirme Eğitimi)",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kaynaştırma / Bütünleştirme Eğitimi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Kaynaştırma / Bütünleştirme Yoluyla Eğitim:</strong> Özel Eğitim Hizmetleri Yönetmeliği uyarınca, özel eğitim ihtiyacı olan bireylerin her tür ve kademede diğer bireylerle karşılıklı etkileşim içinde bulunmalarını ve eğitim amaçlarını en üst düzeyde gerçekleştirmelerini sağlamak amacıyla; <strong>destek eğitim hizmetleri de sunularak akranlarıyla birlikte genel eğitim sınıflarında tam zamanlı veya özel eğitim sınıflarında yarı zamanlı</strong> eğitim görmeleri uygulamasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Ayrıştırma Eğitimi (B):</strong> Özel gereksinimli bireylerin tipik gelişim gösteren akranlarından tamamen ayrı özel eğitim okullarında veya kurumlarında eğitim almasıdır.<br>• <strong>Evde Eğitim (C):</strong> Sağlık problemi nedeniyle örgün eğitim kurumlarından doğrudan yararlanamayan öğrencilere evde sunulan eğitim hizmetidir.<br>• <strong>Özel Eğitim İş Okulu (D) ve Yatılı Bölge Okulu (E):</strong> Farklı kurumsal okul türleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Özel eğitimde temel ilke <strong>'En Az Kısıtlayıcı Eğitim Ortamı'</strong> ilkesidir; bu ilkenin birincil karşılığı öğrencinin akranlarıyla aynı sınıfta <strong>Bireyselleştirilmiş Eğitim Programı (BEP)</strong> desteğiyle aldığı <strong>Kaynaştırma/Bütünleştirme</strong> eğitimidir.",
     "hasImage": false,
     "image": null
   },
@@ -21857,7 +21857,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Grubun heterojen (farklılaşmış) olduğunu)",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Grubun heterojen (farklılaşmış) olduğunu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Standart Sapma ve Grup Yapısı:</strong> Standart sapma, bir gruptaki öğrenci puanlarının aritmetik ortalamadan ne kadar uzaklaştığını (yayıldığını) gösteren en güvenilir dağılım ölçüsüdür. <strong>Standart sapmanın büyük olması</strong>; puanların birbirinden uzaklaştığını, bilen ile bilmeyen arasındaki farkın açıldığını, yani <strong>grubun heterojen (farklılaşmış) olduğunu, testin ayırt ediciliğinin ve güvenirliğinin yüksek olduğunu</strong> gösterir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve D şıkları:</strong> Standart sapmanın küçük (0'a yakın) olması grubun <em>homojen (benzer)</em> olduğunu gösterir; herkes aynı notu alırsa standart sapma $0$ olur.<br>• <strong>C şıkkı:</strong> Testin kolay veya zor olması standart sapmayla değil, aritmetik ortalama, mod, medyan (çarpıklık) ve madde güçlük indeksiyle anlaşılır.<br>• <strong>E şıkkı:</strong> Standart sapmanın yüksek olması sınavı geçersiz kılmaz; aksine norm dayanaklı seçme sınavlarında arzu edilen bir özelliktir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <strong>Standart Sapma Büyükse</strong> → Grup <em>heterojen</em>, puan aralığı (ranj) geniş, ayırt edicilik ve güvenirlik <em>yüksek</em>.<br><strong>Standart Sapma Küçükse</strong> → Grup <em>homojen</em>, puanlar birbirine yakın, ayırt edicilik <em>düşük</em>.",
     "hasImage": false,
     "image": null
   },
@@ -21892,7 +21892,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Bekleme Süresi (Wait Time))",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Bekleme Süresi (Wait Time))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Bekleme Süresi (Wait Time):</strong> Mary Budd Rowe tarafından geliştirilen etkili soru sorma ilkesidir. Öğretmenin sınıfa bir soru yönelttikten sonra hemen parmak kaldıran ilk öğrenciye söz vermeyip, tüm öğrencilerin soruyu zihinsel olarak işlemesi, üst düzey düşünmesi ve cevabı organize etmesi için tanıdığı <strong>3–5 saniyelik bilinçli sessizlik süresidir</strong>.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>İpucu Verme (B):</strong> Öğrenci soruya cevap veremediğinde doğru cevaba ulaşmasını kolaylaştıracak yönlendirici işaretler sunulmasıdır.<br>• <strong>Dönüt Süresi (C):</strong> Öğrencinin cevabının doğruluğu hakkında geri bildirim verilmesidir.<br>• <strong>Pekiştirme Aralığı (D):</strong> Davranışçı kuramda doğru davranışın ardından ödülün verilme sıklığı/zamanlamasıdır.<br>• <strong>Güdüleme Evresi (E):</strong> Dersin giriş aşamasında konunun ne işe yarayacağının açıklanarak istek uyandırılmasıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Etkili soru sorma sürecinde sıra şöyledir: <em>1) Soruyu tüm sınıfa sor → 2) 3–5 saniye Bekleme Süresi tanı → 3) Gönüllü/seçilen öğrenciye isimle söz ver → 4) Cevabı dinle ve dönüt ver.</em>",
     "hasImage": false,
     "image": null
   },
@@ -21927,7 +21927,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi)",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Sarmal (Helezonik) Programlama Yaklaşımı:</strong> Jerome Bruner tarafından geliştirilmiştir. Temel ilkesi; konuların doğrusal bir çizgide bir kez işlenip bırakılması yerine, <strong>yıllar veya sınıf kademeleri ilerledikçe önceki öğrenmelerin üzerine bina edilerek kapsamının genişletilmesi ve derinleştirilerek tekrar edilmesi</strong>dir (örneğin Hayat Bilgisi, Sosyal Bilgiler ve Yabancı Dil öğretim programları).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B şıkkı:</strong> Konuların birbirinden bağımsız öbekler/üniteler halinde düzenlenmesi <em>Modüler Programlama</em> yaklaşımıdır.<br>• <strong>C şıkkı:</strong> İçeriğin süreç içinde öğrenciyle birlikte belirlenmesi <em>Sorgulama Merkezli / Çocuk Merkezli</em> yaklaşımdır.<br>• <strong>D şıkkı:</strong> Ardışık ve ön koşul ilişkisiyle tek seferde ilerleyen yapı <em>Doğrusal (Lineer) Programlama</em> yaklaşımıdır.<br>• <strong>E şıkkı:</strong> Çağdaş içerik düzenleme ilkelerine aykırıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İçerik düzenleme yaklaşımları:<br>• <strong>Doğrusal:</strong> Ön koşul ilişkisi yüksek dersler (ardışık zincir).<br>• <strong>Sarmal:</strong> Yeri geldikçe kapsamı genişleyerek tekrar eden yapı.<br>• <strong>Modüler:</strong> Birbirinden bağımsız, sırası değiştirilebilen öbekler (örn. Beden Eğitimi spor branşları).<br>• <strong>Piramitsel:</strong> Geniş tabandan daralan uzmanlaşmaya doğru katı yapı.",
     "hasImage": false,
     "image": null
   },
@@ -21962,7 +21962,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması)",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Çağdaş Sınıf Yönetimi ve Sınıf Kuralları:</strong> Demokratik ve gelişimsel sınıf yönetimi anlayışında kurallar, öğretmenin tek taraflı dayatması değil, <strong>öğrencilerin de katılımıyla (birlikte)</strong> dönem başında belirlenen ortak yaşam sözleşmeleridir. Kurallar öğrencilerin içselleştirebilmesi için <strong>az sayıda (genellikle 5-7 madde), açık, anlaşılır ve 'yapılmaması gerekeni' değil 'yapılması gerekeni' vurgulayan olumlu cümlelerle</strong> (örn. 'Çöp atma!' yerine 'Sınıfımızı temiz tutalım') ifade edilmelidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A ve C şıkları:</strong> Kuralların dikte edilmesi ve ağır cezalar içermesi <em>geleneksel, otoriter ve tepkisel</em> sınıf yönetimi anlayışıdır.<br>• <strong>D ve E şıkları:</strong> Kuralların gizli tutulması veya hiç kural olmaması (başıboş/serbest yönetim) sınıf düzenini ve öğrenme iklimini bozar.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sınıf kuralları <strong>okulun ilk haftasında</strong>, <strong>öğrencilerle birlikte</strong>, <strong>gerekçeleri açıklanarak</strong> ve <strong>olumlu dil kalıplarıyla</strong> oluşturulmalıdır.",
     "hasImage": false,
     "image": null
   },
@@ -24552,7 +24552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrenen (Çocuk) Merkezli Tasarım)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Öğrenen (Çocuk) Merkezli Tasarım)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Öğrenen (Çocuk) Merkezli Program Tasarımları:</strong> İlerlemecilik eğitim felsefesine (John Dewey) dayanır. Programın merkezine konuyu değil <strong>öğrenciyi</strong> alır. İçerik ve öğrenme yaşantıları öğrencinin <strong>ilgi, ihtiyaç, hazırbulunuşluk ve gelişimsel özelliklerine</strong> göre şekillendirilir; yaparak-yaşayarak öğrenme esastır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Konu Merkezli (A), Disiplin (D) ve Geniş Alanlı Tasarım (E):</strong> Esasicilik ve daimicilik felsefesine dayanan <em>Konu Merkezli Tasarımlar</em> grubundadır; merkeze akademik bilgiyi ve uzmanların önceden hazırladığı içeriği alır.<br>• <strong>Sorun Merkezli Tasarım (C):</strong> Yeniden kurmacılık ve ilerlemeciliğe dayanır; merkeze toplumsal sorunların çözümünü ve yaşam şartlarını alır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Eğitim programı tasarımları 3 ana başlıkta toplanır:<br>1. <strong>Konu Merkezli:</strong> Konu, Disiplin, Geniş Alan, Korelasyonel, Süreç.<br>2. <strong>Öğrenen Merkezli:</strong> Çocuk Merkezli, Yaşantı Merkezli, Romantik (Radikal), Hümanistik.<br>3. <strong>Sorun Merkezli:</strong> Yaşam Şartları, Çekirdek (Core), Toplumsal Sorunlar ve Yeniden Kurmacılık."
   },
   {
     "id": "ekys_2022_q34",
@@ -24588,7 +24588,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Hayatilik (Yaşama Yakınlık))"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Hayatilik (Yaşama Yakınlık))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Hayatilik (Yaşama Yakınlık / İşevurukluk) İlkesi:</strong> Okulun hayattan kopuk olmaması, bizzat hayatın kendisi olması gerektiğini (John Dewey) savunur. Öğretmenin derste işlediği konunun <strong>günlük yaşamda öğrencinin ne işine yarayacağını açıklaması ve gerçek yaşam becerileriyle/problemleriyle ilişkilendirmesi</strong> doğrudan Hayatilik ilkesinin gereğidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Açıklık / Ayanilik (A):</strong> Öğretmenin kullandığı dilin net olması ve birden fazla duyu organına hitap eden materyaller kullanılmasıdır.<br>• <strong>Tasarruf / Ekonomiklik (C):</strong> En az zaman, emek ve maliyetle en yüksek verimin (birden fazla kazanımın) elde edilmesidir.<br>• <strong>Bilinenden Bilinmeyene (D):</strong> Yeni konunun öğrencinin önceki öğrenmeleri (ön bilgileri) üzerine inşa edilmesidir.<br>• <strong>Somuttan Soyuta (E):</strong> Soyut kavramların gerçek eşya, model veya görsellerle somutlaştırılarak öğretilmesidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>'Öğrendiği bilgiyi günlük hayatta kullanma, gerçek yaşamla ilişkilendirme, ne işe yarayacağını bilme'</em> = <strong>Hayatilik (Yaşama Yakınlık)</strong>."
   },
   {
     "id": "ekys_2022_q35",
@@ -24624,7 +24624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (%70)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (%70)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Bloom'un Tam Öğrenme Modeli ve Başarı Ölçütü:</strong> Benjamin Bloom'un <em>Okulda Öğrenme (Tam Öğrenme)</em> modelinde öğretim ünitelere ayrılır ve bir ünitedeki kazanımlar tam öğrenilmeden bir sonraki üniteye geçilmez. Ünite sonunda yapılan <em>izleme testi (formatif değerlendirme)</em> sonucunda öğrencilerin bir üst üniteye geçebilmesi için ulaşması gereken <strong>asgari tam öğrenme ölçütü (mutlak ölçüt) en az %70</strong> (literatürde %70–%90 aralığı, taban değer %70) olarak kabul edilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>%50 (A) ve %60 (B):</strong> Tam öğrenme standardının altında kalan, tamamlayıcı (ek) öğretim gerektiren düzeylerdir.<br>• <strong>%85 (D) ve %100 (E):</strong> Modelin asgari alt sınırını (%70) temsil etmez.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Tam Öğrenme Modeli'nde %70 ölçütüne ulaşamayan öğrencilere <strong>farklı yöntem ve tekniklerle tamamlayıcı ek öğretim</strong> (birebir öğretim, küçük grup çalışması, eğitsel oyun vb.) uygulanır; asla aynı yöntemle tekrar anlatım yapılmaz!"
   },
   {
     "id": "ekys_2022_q36",
@@ -24660,7 +24660,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Giriş (Engage))"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Giriş (Engage))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>5E Öğretim Modeli - Giriş (Engage) Basamağı:</strong> Roger Bybee tarafından geliştirilen yapılandırmacı 5E modelinin ilk basamağı <strong>Giriş (Engage / Dikkat Çekme ve Ön Bilgileri Yoklama)</strong> aşamasıdır. Bu aşamada öğretmen ilginç bir soru, olay, hikâye veya problem durumu sunarak <strong>öğrencilerin merakını uyandırır, dikkatini çeker ve konuyla ilgili ön bilgilerini/kavram yanılgılarını harekete geçirir</strong>.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Keşfetme (Explore) (B):</strong> 2. aşamadır; öğrencilerin deney, gözlem ve grup çalışması yaparak kavramı bizzat keşfettiği en aktif öğrenci aşamasıdır.<br>• <strong>Açıklama (Explain) (C):</strong> 3. aşamadır; öğrencilerin bulgularını paylaştığı ve öğretmenin bilimsel terimleri/tanımları resmî olarak açıkladığı aşamadır.<br>• <strong>Derinleştirme (Elaborate) (D):</strong> 4. aşamadır; öğrenilen kavramların yeni ve farklı durumlara uyarlandığı (transfer edildiği) aşamadır.<br>• <strong>Değerlendirme (Evaluate) (E):</strong> 5. aşamadır; hem süreç hem sonuç odaklı öz/akran/öğretmen değerlendirmesinin yapıldığı aşamadır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> 5E Modelinin sırasını <strong>G-K-A-D-D</strong> (<em>Giriş → Keşfetme → Açıklama → Derinleştirme → Değerlendirme</em>) kodlamasıyla kolayca hatırlayabilirsiniz."
   },
   {
     "id": "ekys_2022_q37",
@@ -24696,7 +24696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kapsam Geçerliği)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kapsam Geçerliği)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Kapsam Geçerliği:</strong> Özellikle <strong>başarı (erişi) testlerinde</strong> aranan en önemli geçerlik türüdür. Hazırlanan sınavdaki soruların, öğretim programında yer alan <strong>konu ve kazanım (hedef davranış) evrenini dengeli, eksiksiz ve yeterli bir biçimde temsil etme</strong> derecesidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Yordama Geçerliği (B):</strong> Ölçme aracından alınan puanların bireylerin gelecekteki başarılarını doğru tahmin etme (öngörme) gücüdür.<br>• <strong>Yapı Geçerliği (C):</strong> Psikolojik ve soyut yapıların (zekâ, tutum, kaygı) kuramsal temeline uygun olarak ölçülebilme derecesidir.<br>• <strong>Puanlayıcı Güvenirliği (D):</strong> Farklı puanlayıcıların aynı cevaba verdikleri puanlar arasındaki tutarlılıktır.<br>• <strong>Görünüş Geçerliği (E):</strong> Bir testin dışarıdan bakıldığında neyi ölçüyor gibi göründüğüdür (kapağı, soru biçimi).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Bir başarı testinde <strong>Kapsam Geçerliğini</strong> sağlamanın en bilimsel ve pratik yolu, ünite kazanımlarını ve bilişsel taksonomi basamaklarını eşleştiren <strong>Belirtke Tablosu</strong> hazırlamaktır."
   },
   {
     "id": "ekys_2022_q38",
@@ -24732,7 +24732,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Doğrudan Ölçme - Dolaylı Ölçme)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Doğrudan Ölçme - Dolaylı Ölçme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Doğrudan (Temel) Ölçme:</strong> Ölçülmek istenen özelliğin, kendisiyle aynı cinsten bir araçla veya doğrudan gözlenerek araya başka bir değişken sokulmadan ölçülmesidir. Öğrencinin <strong>boyunun mezura ile ölçülmesi</strong> (uzunluğun uzunlukla karşılaştırılması) veya sınıftaki öğrenci sayısının sayılması doğrudan ölçmedir.<br>• <strong>Dolaylı (Göstergeyle) Ölçme:</strong> Doğrudan gözlenemeyen soyut özelliklerin (zekâ, başarı, tutum, kaygı, sıcaklık), o özelliğin bir göstergesi/etkisi aracılığıyla ölçülmesidir. <strong>Zekâ düzeyinin bir testteki sorulara verilen cevaplar üzerinden ölçülmesi</strong> dolaylı ölçmedir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Türetilmiş Ölçme (B, C, E):</strong> En az iki farklı ölçme sonucunun matematiksel bir formülle birleştirilmesiyle elde edilen ölçmedir (örneğin: $\\text{Hız} = \\text{Yol} / \\text{Zaman}$, $\\text{Yoğunluk} = \\text{Kütle} / \\text{Hacim}$).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Eğitimde ve psikolojide kullanılan tüm test, ölçek ve sınavlar (başarı, zekâ, ilgi, tutum) <strong>Dolaylı Ölçme</strong> ve <strong>İzafi (Bağıl) Sıfır / Eşit Aralıklı Ölçek</strong> kapsamındadır."
   },
   {
     "id": "ekys_2022_q39",
@@ -24768,7 +24768,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Oryantasyon (Duruma Alıştırma))"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Oryantasyon (Duruma Alıştırma))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Oryantasyon (Duruma Alıştırma / Yeni Ortama Uyum) Hizmeti:</strong> Okula yeni kayıt olan veya bir üst kademeye geçen öğrencilerin; okulun fiziksel birimlerini (kütüphane, laboratuvar, kantin, rehberlik servisi), okul kurallarını, yönetici ve öğretmenleri tanımaları ve <strong>yeni eğitim ortamına kısa sürede uyum sağlamaları</strong> amacıyla özellikle eğitim-öğretim yılının başında sunulan doğrudan rehberlik hizmetidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Psikolojik Danışma (B):</strong> Uzman psikolojik danışmanın bireyin duygusal/kişisel sorunlarını çözmesine yönelik yürüttüğü profesyonel yardım sürecidir.<br>• <strong>Müşavirlik / Konsültasyon (C):</strong> Öğretmen, yönetici ve velilere ortak bir rehberlik anlayışı kazandırmak için sunulan dolaylı hizmettir.<br>• <strong>İzleme ve Değerlendirme (D):</strong> Sunulan rehberlik hizmetlerinin veya yönlendirilen öğrencilerin durumunun takip edilmesidir.<br>• <strong>Yöneltme ve Yerleştirme (E):</strong> Öğrencinin ilgi ve yeteneklerine uygun seçmeli ders, kulüp, üst okul veya mesleğe yönlendirilmesidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Oryantasyon hizmeti sadece dönem başında değil, dönem ortasında okula <strong>nakil gelen bir öğrenciye de</strong> bireysel olarak sunulmalıdır."
   },
   {
     "id": "ekys_2022_q40",
@@ -24804,7 +24804,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Önleyici (Proaktif) Model)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Önleyici (Proaktif) Model)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Önleyici (Proaktif) Sınıf Yönetimi Modeli:</strong> Sınıf içinde disiplin sorunları ve istenmeyen davranışlar <strong>henüz ortaya çıkmadan önce</strong> olası riskleri öngörerek kuralları belirleyen, fiziksel düzenlemeleri yapan ve öğretim sürecini dikkatle planlayarak <strong>sorunun oluşmasını baştan engelleyen</strong> ileri görüşlü sınıf yönetimi yaklaşımıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Tepkisel Model (A):</strong> İstenmeyen davranış ortaya çıktıktan sonra ödül-ceza veya uyarıyla anlık tepki verme modelidir (en zayıf modeldir).<br>• <strong>Gelişimsel Model (C):</strong> Sınıf yönetimi uygulamalarını öğrencilerin fiziksel, bilişsel ve duygusal gelişim dönemlerine/yaş özelliklerine uygun olarak düzenleyen modeldir.<br>• <strong>Baskıcı (D) ve Geleneksel Model (E):</strong> Öğretmen otoritesine ve katı disipline dayanan yaklaşımlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Çağdaş sınıf yönetimi modellerinin dördünü (<em>Tepkisel + Önleyici + Gelişimsel</em>) duruma göre bir arada kullanan yaklaşıma <strong>Bütünsel (Sistem) Sınıf Yönetimi Modeli</strong> denir."
   },
   {
     "id": "ekys_2022_q41",
@@ -27370,7 +27370,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Program içeriğinin öğrencinin ilgi ve ihtiyaçlarına göre önceden değil, süreç içinde öğrenciyle birlikte belirlenmesi)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Program içeriğinin öğrencinin ilgi ve ihtiyaçlarına göre önceden değil, süreç içinde öğrenciyle birlikte belirlenmesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Öğrenen / Çocuk ve Yaşantı Merkezli Tasarımlar:</strong> İlerlemecilik felsefesine dayanan öğrenen merkezli yaklaşımlarda (özellikle çocuk ve yaşantı merkezli tasarımlarda) bireyin ilgi, ihtiyaç ve gelişimsel özellikleri esastır. Yaşantı merkezli vurguda öğrencilerin ilgi ve ihtiyaçları önceden kestirilemeyeceği için <strong>program içeriği süreç içinde öğrencilerle etkileşim halinde belirlenir ve şekillendirilir</strong>.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve E şıkları:</strong> Konuların uzmanlarca önceden katı biçimde yapılandırılması ve mutlak başarı odaklılık <em>Konu Merkezli (Esasici)</em> tasarımların özelliğidir.<br>• <strong>C şıkkı:</strong> Toplumsal sorunları merkeze almak <em>Sorun Merkezli (Yeniden Kurmacı)</em> tasarımların özelliğidir.<br>• <strong>D şıkkı:</strong> Evrensel klasik eserlerin (Büyük Kitaplar) incelenmesi <em>Daimicilik</em> felsefesinin özelliğidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>Çocuk Merkezli Tasarım</em>'da içerik öğrencinin gelişim özelliklerine göre önceden esnek biçimde çerçevelenebilirken, <em>Yaşantı Merkezli Tasarım</em>'da içerik tamamen <strong>süreç içinde</strong> öğrenciyle birlikte oluşturulur. EKYS'de her iki özellik de 'Öğrenen/Çocuk Merkezli' şemsiye kavramı altında sorgulanabilmektedir."
   },
   {
     "id": "ekys_2021_q34",
@@ -27404,7 +27404,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrenmeyi kolaylaştıran rehber ve yönlendirici olmak)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrenmeyi kolaylaştıran rehber ve yönlendirici olmak)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Yapılandırmacı Yaklaşımda Öğretmen Rolü:</strong> Yapılandırmacı (konstrüktivist) eğitimde öğretmen her şeyi bilen ve hazır bilgiyi dikte eden tek otorite değildir. Öğretmen; zengin öğrenme ortamları tasarlayan, açık uçlu sorularla düşündüren, öğrencinin bilgiyi kendi zihninde inşa etmesine <strong>rehberlik eden, süreci kolaylaştıran (facilitator) ve öğrenciyle birlikte öğrenen bir yönlendirici (pusula)</strong> konumundadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B, C, D ve E şıkları:</strong> Bilginin doğrudan aktarımı, katı disiplin, sadece sonuç odaklı değerlendirme ve ders kitabını ezberletme <em>geleneksel (davranışçı/esasici)</em> öğretmen rolleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yapılandırmacı öğretmenin 3 altın rolü: <strong>1) Öğrenmeyi kolaylaştırıcı rehber</strong>, <strong>2) Demokratik ortam düzenleyici</strong>, <strong>3) Süreç odaklı gözlemci ve öğrenme ortağı</strong>."
   },
   {
     "id": "ekys_2021_q35",
@@ -27438,7 +27438,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yaratma (Sentez))"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yaratma (Sentez))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Yaratma (Eski Taksonomide: Sentez):</strong> Yenilenmiş Bloom Bilişsel Alan Taksonomisi'nin en üst (6.) basamağıdır. Öğrencinin öğrendiği kavram, ilke ve elemanları yeni bir örüntü içinde bir araya getirerek <strong>özgün, orijinal, yeni bir proje, model, çözüm veya ürün ortaya koyması</strong>dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Değerlendirme (B):</strong> Ölçüte dayanarak eleştirme ve yargıya varma.<br>• <strong>Çözümleme / Analiz (C):</strong> Bütünü bileşenlerine ayırma ve parçalar arasındaki ilişkileri inceleme.<br>• <strong>Uygulama (D):</strong> Bilinen bir kural veya formülü yeni bir problemde kullanma.<br>• <strong>Anlama (E):</strong> Bilgiyi kendi ifadeleriyle açıklama ve yorumlama.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Soru kökünde <em>'özgün, orijinal, yeni bir ürün/proje/tasarım ortaya koyma, farklı parçaları birleştirip yeni bir bütün oluşturma'</em> ifadeleri varsa cevap kesinlikle <strong>Yaratma (Sentez)</strong> basamağıdır."
   },
   {
     "id": "ekys_2021_q36",
@@ -27472,7 +27472,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Geçerlik)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Geçerlik)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Geçerlik (Validity):</strong> Bir ölçme aracının geliştirilme amacına hizmet etme derecesidir; başka bir ifadeyle <strong>ölçmek istediği özelliği başka değişkenlerle karıştırmadan tam ve doğru ölçebilme</strong> niteliğidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Güvenirlik (B):</strong> Ölçme sonuçlarının tesadüfi hatalardan arınık, kararlı ve tutarlı olmasıdır.<br>• <strong>Kullanışlılık (C):</strong> Aracın zaman, emek ve maliyet açısından pratik ve ekonomik olmasıdır.<br>• <strong>Objektiflik (D):</strong> Puanlamanın yanlılıktan uzak, nesnel olmasıdır.<br>• <strong>Ayırt Edicilik (E):</strong> Testin bilen öğrenci ile bilmeyen öğrenciyi birbirinden ayırma gücüdür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Bu soru 2019, 2021 ve 2024 EKYS'de neredeyse birebir aynı kökle sorulmuştur! <em>'Başka özelliklerle karıştırmadan amaca uygun ölçme'</em> = <strong>Geçerlik</strong>."
   },
   {
     "id": "ekys_2021_q37",
@@ -27506,7 +27506,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Güvenirlik (Kararlılık / Tutarlılık))"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Güvenirlik (Kararlılık / Tutarlılık))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Güvenirlik ve Kararlılık (Test-Tekrar Test):</strong> Bir ölçme aracının aynı gruba <strong>farklı zamanlarda iki kez uygulandığında benzer/tutarlı sonuçlar vermesi</strong>, o aracın zamana karşı dirençli olduğunu yani <strong>Güvenirliğini (özellikle Kararlılık anlamındaki güvenirliğini)</strong> gösterir. Güvenirlik, ölçme sonuçlarının tesadüfi hatalardan arınıklık derecesidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Kapsam Geçerliği (B):</strong> Soruların konu evrenini temsil etme gücüdür.<br>• <strong>Yordama Geçerliği (C):</strong> Gelecekteki performansı tahmin etme gücüdür.<br>• <strong>Yapı Geçerliği (D):</strong> Soyut psikolojik yapıyı ölçebilme gücüdür.<br>• <strong>Görünüş Geçerliği (E):</strong> Testin dış görünüşüyle ölçmek istediği alanı yansıtmasıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Güvenirliğin 3 temel boyutu:<br>1. <strong>Kararlılık:</strong> Farklı zamanlarda aynı sonucu vermesi (Test-Tekrar Test yöntemi).<br>2. <strong>Tutarlılık / İç Tutarlılık:</strong> Maddelerin birbiriyle uyumlu olması (KR-20, KR-21, Cronbach Alfa).<br>3. <strong>Duyarlılık:</strong> Ölçme biriminin küçük, soru sayısının fazla olması."
   },
   {
     "id": "ekys_2021_q38",
@@ -27540,7 +27540,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Probleme Dayalı Öğrenme (PDÖ))"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Probleme Dayalı Öğrenme (PDÖ))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Probleme Dayalı Öğrenme (PDÖ):</strong> John Dewey'nin ilerlemecilik anlayışına dayanan bu yaklaşımda, öğrenciler <strong>gerçek yaşamdan seçilmiş açık uçlu ve karmaşık problemlere</strong> bilimsel problem çözme basamaklarını (problemi tanımlama, hipotez kurma, veri toplama, hipotezi test etme, çözüme ulaşma) kullanarak iş birliği içinde çözüm üretirler.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Doğrudan Anlatım (B):</strong> Öğretmenin konuyu monolog şeklinde aktardığı geleneksel yöntemdir.<br>• <strong>Programlı Öğretim (C):</strong> İçeriğin küçük adımlara bölünerek bireysel hızda ilerlenmesidir.<br>• <strong>Tümdengelim Stratejisi (D):</strong> Genel ilke ve kurallardan özel örneklere doğru akıl yürütmedir (Sunuş yolu).<br>• <strong>Mikro Öğretim (E):</strong> Öğretmen adaylarının 5-20 dakikalık ders anlatımlarının kameraya kaydedilip izlenerek değerlendirildiği ”küçültülmüş öğretim” tekniğidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>'Gerçek yaşam problemi + Bilimsel yöntem basamakları (John Dewey) + Küçük grup araştırması'</em> = <strong>Probleme Dayalı Öğrenme (PDÖ)</strong>."
   },
   {
     "id": "ekys_2021_q39",
@@ -27574,7 +27574,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Gelişimsel / Çağdaş Rehberlik Anlayışı)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Gelişimsel / Çağdaş Rehberlik Anlayışı)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Gelişimsel / Çağdaş Rehberlik Anlayışı:</strong> Rehberlik ve psikolojik danışma hizmetlerinde <strong>'tüm öğrencilere açık olma, süreklilik, özerklik ve gönüllülük'</strong> ilkeleri çağdaş gelişimsel rehberlik yaklaşımının temel yapı taşlarıdır. Hiçbir öğrenciye zorla psikolojik danışma yapılamaz ve rehberlik yalnızca sorunlu öğrencilere değil, okuldaki bütün öğrencilere yöneliktir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Geleneksel / Kriz Odaklı (B), Çare Bulucu (C), Uyum Sağlayıcı (D) ve Klinik Model (E):</strong> Sadece sorun ortaya çıktığında müdahale eden, patoloji veya problem odaklı geleneksel yaklaşımlardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Rehberliğin değişmez evrensel ilkeleri: <strong>Gizlilik</strong>, <strong>Gönüllülük</strong>, <strong>Süreklilik</strong>, <strong>Özerklik</strong>, <strong>Bireye ve Bireysel Farklılıklara Saygı</strong> ve <strong>Tüm Öğrencilere Açık Olma</strong>."
   },
   {
     "id": "ekys_2021_q40",
@@ -27608,7 +27608,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Göz teması kurma veya görmezden gelip pekiştireci kesme)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Göz teması kurma veya görmezden gelip pekiştireci kesme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Sınıf Yönetiminde İstenmeyen Davranışlara Müdahale Sırası:</strong> Sınıfta dersin akışını bozan hafif düzeyli istenmeyen bir davranış ortaya çıktığında, öğretmenin dersi kesmeden ve öğrenciyi rencide etmeden başvuracağı ilk adımlar <strong>sözel olmayan düşük profilli tepkilerdir</strong>: <em>1) Planlı görmezden gelme (pekiştireci kesme) → 2) Göz teması kurma / Mimik kullanma → 3) Öğrencinin yanına yaklaşma (fiziksel yakınlık) → 4) Dokunma veya masasına hafifçe vurma → 5) Soru sorarak derse katma.</em><br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B, C, D ve E şıkları:</strong> Derhal ceza vermek, öğrenciyi dersten atmak (eğitim hakkının engellenmesidir ve mevzuata aykırıdır!), tüm sınıfı topluca azarlamak veya hemen veliyi çağırmak pedagojik ilkelere tamamen aykırı olan tepkisel hatalardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İstenmeyen davranışa müdahalede temel ilke <strong>'dersin akışını bozmadan en az müdahaleyle (sözel olmayan ipuçlarıyla) davranışı söndürmek'</strong>tir."
   },
   {
     "id": "ekys_2021_q41",
@@ -30092,7 +30092,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> ('Niçin öğretiyoruz?' / 'Hangi davranışlar kazandırılacak?')"
+    "explanation": "Doğru Cevap: <strong>A</strong> ('Niçin öğretiyoruz?' / 'Hangi davranışlar kazandırılacak?')<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Eğitim Programının Temel Ögeleri ve Soruları:</strong> Bir eğitim programı 4 temel ögeden oluşur ve başlangıç ögesi her zaman <strong>Hedef (Kazanım)</strong> ögesidir. Hedef ögesi, <strong>'Bireyleri niçin eğitiyoruz? Öğretim sonunda öğrencilere hangi bilgi, beceri, tutum ve davranışları kazandıracağız?'</strong> sorusuna yanıt verir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>'Ne öğreteceğiz?' (B):</strong> Programın 2. ögesi olan <em>İçerik (Kapsam / Muhteva)</em> ögesinin sorusudur.<br>• <strong>'Nasıl öğreteceğiz?' (C) ve 'Hangi araçları kullanacağız?' (E):</strong> Programın 3. ögesi olan <em>Eğitim Durumları (Öğrenme-Öğretme Süreci)</em> ögesinin sorusudur.<br>• <strong>'Ne kadar öğrendik?' (D):</strong> Programın 4. ögesi olan <em>Sınama Durumları (Ölçme ve Değerlendirme)</em> ögesinin sorusudur.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Eğitim programının 4 ögesi ve soruları EKYS'nin klasik sorusudur:<br>1. <strong>Hedef (Kazanım):</strong> <em>Niçin?</em><br>2. <strong>İçerik (Kapsam):</strong> <em>Ne?</em><br>3. <strong>Eğitim Durumları (Yöntem-Teknik):</strong> <em>Nasıl?</em><br>4. <strong>Sınama Durumları (Değerlendirme):</strong> <em>Ne kadar?</em>"
   },
   {
     "id": "ekys_2020_q34",
@@ -30126,7 +30126,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Dikkati Çekme (Güdüleme))"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Dikkati Çekme (Güdüleme))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Gagne'nin Öğretim Durumları Modeli:</strong> Robert Gagne, bilgiyi işleme kuramına dayanarak içsel öğrenme süreçlerini dışsal öğretim etkinlikleriyle eşleştirmiştir. Gagne'ye göre bir dersin <strong>ilk basamağı her zaman 'Dikkati Çekme'dir</strong>. Öğretmen derse ilginç bir soru, fıkra, görsel, materyal veya şaşırtıcı bir olayla girerek öğrencilerin duyu kaydına uyarıcı gönderir ve dikkatlerini derse toplar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Hedeflerden Haberdar Etme (B):</strong> Dersin 2. adımıdır (beklenti oluşturma ve güdüleme).<br>• <strong>Ön Bilgileri Hatırlatma (C):</strong> Dersin 3. adımıdır (uzun süreli bellekten geri getirme).<br>• <strong>Uyarıcı Materyali Sunma (D):</strong> Dersin 4. adımıdır (seçici algıyı sağlama).<br>• <strong>Öğrenciye Rehberlik Etme (E):</strong> Dersin 5. adımıdır (anlamlı kodlamayı destekleme).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Gagne'ye göre dersin giriş aşamasındaki ilk 3 sıra asla değişmez: <strong>1) Dikkati Çekme → 2) Hedeften Haberdar Etme (Güdüleme) → 3) Ön Bilgileri Hatırlatma (Gözden Geçirme)</strong>."
   },
   {
     "id": "ekys_2020_q35",
@@ -30160,7 +30160,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrenme eksikliklerini ve kavram yanılgılarını tespit edip gidermek)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrenme eksikliklerini ve kavram yanılgılarını tespit edip gidermek)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Biçimlendirici ve Yetiştirici (Formatif) Değerlendirme:</strong> Öğretim süreci devam ederken, ünite sonlarında veya ders içinde uygulanan izleme testleri ve çalışma yaprakları aracılığıyla yürütülür. Temel amacı öğrenciye not vermek değil; <strong>öğrenme eksikliklerini, güçlüklerini ve kavram yanılgılarını zamanında saptayıp tamamlayıcı öğretimle gidermek</strong>tir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve D şıkları:</strong> Geçme-kalma notu vermek ve dönem sonu başarıyı belirlemek <em>Düzey Belirleyici (Summatif)</em> değerlendirmenin amacıdır.<br>• <strong>C ve E şıkları:</strong> Başarı sırasına dizmek ve bir üst kuruma yerleştirmek <em>Seçme/Yerleştirme (Bağıl/Norm Dayanaklı)</em> değerlendirmenin amacıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Biçimlendirici (Formatif) değerlendirmede kullanılan testlere <strong>İzleme Testleri</strong> denir, <strong>mutlak ölçüt</strong> kullanılır ve sonuçlarına göre <strong>kesinlikle not verilmez</strong>."
   },
   {
     "id": "ekys_2020_q36",
@@ -30194,7 +30194,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (p = 0.50 (Orta Güçlük))"
+    "explanation": "Doğru Cevap: <strong>A</strong> (p = 0.50 (Orta Güçlük))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Madde Güçlük İndeksi ($p_j$), Varyans ve Standart Sapma İlişkisi:</strong> Bir maddenin güçlük indeksi $p_j$, o soruyu doğru cevaplayanların tüm sınava girenlere oranıdır ($0.00 \\le p_j \\le 1.00$). Bir maddenin varyansı $s_j^2 = p_j \\cdot (1 - p_j)$, standart sapması ise $s_j = \\sqrt{p_j \\cdot (1 - p_j)}$ formülüyle hesaplanır. Bu çarpımın alabileceği maksimum değer <strong>$p = 0.50$ (orta güçlük)</strong> olduğunda gerçekleşir ($s_j^2 = 0.50 \\times 0.50 = 0.25$ ve $s_j = 0.50$).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>$p = 0.00$ (B) ve $p = 1.00$ (C):</strong> Kimsenin yapamadığı ($p=0$) veya herkesin yaptığı ($p=1$) sorularda madde varyansı ve standart sapması $0$ olur; bu maddeler hiçbir ayırt edicilik sağlamaz.<br>• <strong>$p = 0.20$ (D) ve $p = 0.80$ (E):</strong> Varyansları $0.20 \\times 0.80 = 0.16$, standart sapmaları $0.40$ olur; orta güçlükteki ($0.50$) maddeye göre daha düşüktür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Ölçme değerlendirmede ideal bir testin ortalama güçlüğünün <strong>$p = 0.50$ (orta güçlükte)</strong> olması istenir; çünkü <strong>orta güçlükteki sorular bilenle bilmeyeni en iyi ayırt eden, standart sapması, varyansı ve güvenirliğe katkısı en yüksek olan sorulardır</strong>."
   },
   {
     "id": "ekys_2020_q37",
@@ -30228,7 +30228,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Fikir üretimi sırasında hiçbir fikrin eleştirilmemesi ve yargılanmaması)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Fikir üretimi sırasında hiçbir fikrin eleştirilmemesi ve yargılanmaması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Beyin Fırtınası (Brainstorming) Tekniği:</strong> Alex Osborn tarafından geliştirilen, yaratıcı düşünmeyi ve kısa sürede çok sayıda özgün fikir üretmeyi amaçlayan grup tartışma tekniğidir. En temel altın kuralı; fikir üretimi (ilk aşama) sırasında <strong>söylenen hiçbir fikrin (ne kadar uçuk veya saçma görünürse görünsün) kesinlikle eleştirilmemesi, yargılanmaması, alay edilmemesi ve ayrım yapılmadan tahtaya/kâğıda yazılması</strong>dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve C şıkları:</strong> Fikir üretimi sırasında mantık süzgeci veya anında eleme yapmak öğrencilerin yaratıcılığını ve konuşma cesaretini kırar; değerlendirme ve eleme <em>ikinci aşamada (fikir üretimi bittikten sonra)</em> yapılır.<br>• <strong>D ve E şıkları:</strong> Beyin fırtınasının demokratik ve özgür ortam ilkelerine tamamen aykırıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Beyin fırtınasında ilk aşamada <strong>nitelik değil nicelik (çok sayıda fikir üretimi ve eleştiri yasağı)</strong>; ikinci aşamada ise üretilen fikirlerin <strong>gruplandırılıp değerlendirilmesi (nitelik)</strong> esastır."
   },
   {
     "id": "ekys_2020_q38",
@@ -30262,7 +30262,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrencilerin hazırbulunuşluk düzeyi, ilgi ve öğrenme profillerine göre)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Öğrencilerin hazırbulunuşluk düzeyi, ilgi ve öğrenme profillerine göre)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Farklılaştırılmış Öğretim (Carol Ann Tomlinson):</strong> Her öğrencinin parmak izi kadar biricik olduğu gerçeğinden hareket eden çağdaş öğretim yaklaşımıdır (Türkiye Yüzyılı Maarif Modeli'nin de temel taşlarından biridir!). Bu yaklaşımda öğretmen; öğrencilerin <strong>1) Hazırbulunuşluk düzeyleri</strong>, <strong>2) İlgileri</strong> ve <strong>3) Öğrenme profillerine (öğrenme stilleri ve zekâ alanları)</strong> göre öğretimin <strong>İçerik, Süreç, Ürün ve Öğrenme Ortamı</strong> boyutlarını farklılaştırır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B, C, D ve E şıkları:</strong> Farklılaştırma tek bir zekâ puanına, öğretmenin keyfine, sınıf büyüklüğüne veya sayfa sayısına göre değil; öğrencinin bireysel öğrenme gereksinimlerine göre yapılır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Farklılaştırılmış öğretim formülü:<br>• <strong>Neye Göre Farklılaştırılır?</strong> → <em>Hazırbulunuşluk + İlgi + Öğrenme Profili</em>.<br>• <strong>Ne Farklılaştırılır?</strong> → <em>İçerik + Süreç + Ürün + Öğrenme Ortamı</em>."
   },
   {
     "id": "ekys_2020_q39",
@@ -30296,7 +30296,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Okuldaki öğretmenler, yöneticiler ve veliler)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Okuldaki öğretmenler, yöneticiler ve veliler)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Müşavirlik (Konsültasyon) Hizmeti:</strong> Okul psikolojik danışmanının (rehber öğretmenin), öğrencilere sunulan eğitim ve rehberlik hizmetlerinin etkinliğini artırmak amacıyla; öğrenciyle doğrudan ilişkisi olan <strong>okul yöneticileri, öğretmenler ve velilerle (ailelerle) ortak bir anlayış ve iş birliği oluşturmaya yönelik</strong> yürüttüğü <em>dolaylı</em> rehberlik hizmetidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B şıkkı:</strong> Öğrenciye doğrudan sunulan hizmetler (oryantasyon, bireyi tanıma, psikolojik danışma, bilgi toplama-yayma, yöneltme) müşavirlik değildir.<br>• <strong>C, D ve E şıkları:</strong> Müşavirliğin hedef kitlesini daraltan veya yanlış tanımlayan ifadelerdir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Rehberlikte <strong>öğrenciye doğrudan</strong> sunulan hizmetler ile <strong>öğrenciye dolaylı</strong> sunulan hizmetleri ayırın: <em>Müşavirlik (Konsültasyon), Çevre ve Veli İlişkileri, Araştırma-Değerlendirme ve Okul Rehberlik Programını Hazırlama</em> <strong>dolaylı hizmetlerdir</strong>; Müşavirliğin muhatabı öğrenci değil <strong>öğretmen, idareci ve velidir</strong>."
   },
   {
     "id": "ekys_2020_q40",
@@ -30330,7 +30330,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kuralların öğretmen ve öğrencilerin katılımıyla birlikte belirlenmesi ve gerekçelendirilmesi)"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Kuralların öğretmen ve öğrencilerin katılımıyla birlikte belirlenmesi ve gerekçelendirilmesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Demokratik Sınıf Yönetimi ve Kuralların Belirlenmesi:</strong> Çağdaş ve demokratik sınıf yönetimi anlayışında sınıf kuralları dönem başında <strong>öğretmen ve öğrencilerin ortak katılımıyla birlikte</strong> belirlenir ve her kuralın <strong>neden gerekli olduğu (gerekçesi)</strong> tartışılarak ortak karara bağlanır. Kendisinin de söz hakkı olduğu kuralları öğrenci çok daha güçlü biçimde sahiplenir ve öz denetim geliştirir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve C şıkları:</strong> Kuralların tek taraflı dikte edilmesi <em>otoriter/geleneksel</em> sınıf yönetimi anlayışıdır.<br>• <strong>D şıkkı:</strong> Hiç kural konulmaması <em>başıboş (serbest)</em> sınıf yönetimi anlayışıdır.<br>• <strong>E şıkkı:</strong> Sınıf içi kuralların sadece velilerce belirlenmesi pedagojik değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Bu soru 2020 ve 2023 EKYS'de tekrar sorulmuştur: Demokratik sınıfta kurallar <strong>birlikte belirlenir, gerekçelendirilir, olumlu ifadelerle yazılır ve herkes için adil uygulanır</strong>."
   },
   {
     "id": "ekys_2020_q41",
@@ -31806,11 +31806,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Şeyhülislam"
+        "text": "Kazasker"
       },
       {
         "key": "B",
-        "text": "Kazasker"
+        "text": "Şeyhülislam"
       },
       {
         "key": "C",
@@ -31826,7 +31826,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Kazasker)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Şeyhülislam)"
   },
   {
     "id": "ekys_2019_q5",
@@ -31840,11 +31840,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Kānûn-ı Esâsî"
+        "text": "Tanzimat Fermanı"
       },
       {
         "key": "B",
-        "text": "Tanzimat Fermanı"
+        "text": "Kānûn-ı Esâsî"
       },
       {
         "key": "C",
@@ -31860,7 +31860,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Tanzimat Fermanı)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Kānûn-ı Esâsî)"
   },
   {
     "id": "ekys_2019_q6",
@@ -31910,7 +31910,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Kısa mesafelerde yer şekilleri ve yükseltinin hızla değişmesi, çukur alanların fön rüzgârlarıyla korunması"
+        "text": "Batıdan doğuya gidildikçe yükseltinin artması"
       },
       {
         "key": "B",
@@ -31918,7 +31918,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Batıdan doğuya gidildikçe yükseltinin artması"
+        "text": "Kısa mesafelerde yer şekilleri ve yükseltinin hızla değişmesi, çukur alanların fön rüzgârlarıyla korunması"
       },
       {
         "key": "D",
@@ -31930,7 +31930,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Batıdan doğuya gidildikçe yükseltinin artması)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kısa mesafelerde yer şekilleri ve yükseltinin hızla değişmesi, çukur alanların fön rüzgârlarıyla korunması)"
   },
   {
     "id": "ekys_2019_q8",
@@ -31980,11 +31980,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Zengin yerel hammadde ve maden kaynaklarına sahip olması"
+        "text": "Sermaye birikiminin yüksek olması"
       },
       {
         "key": "B",
-        "text": "Sermaye birikiminin yüksek olması"
+        "text": "Zengin yerel hammadde ve maden kaynaklarına sahip olması"
       },
       {
         "key": "C",
@@ -32000,7 +32000,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Sermaye birikiminin yüksek olması)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Zengin yerel hammadde ve maden kaynaklarına sahip olması)"
   },
   {
     "id": "ekys_2019_q10",
@@ -32252,7 +32252,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "7. Madde"
+        "text": "1. Madde"
       },
       {
         "key": "B",
@@ -32260,7 +32260,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "1. Madde"
+        "text": "7. Madde"
       },
       {
         "key": "D",
@@ -32272,7 +32272,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (1. Madde)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (7. Madde)"
   },
   {
     "id": "ekys_2019_q18",
@@ -32286,11 +32286,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Millî Mücadele'nin gerekçesi, amacı ve yöntemini belirlemiş, milli egemenlik fikrini ilk kez ortaya koymuştur."
+        "text": "Saltanata bağlı kalınacağını"
       },
       {
         "key": "B",
-        "text": "Saltanata bağlı kalınacağını"
+        "text": "Millî Mücadele'nin gerekçesi, amacı ve yöntemini belirlemiş, milli egemenlik fikrini ilk kez ortaya koymuştur."
       },
       {
         "key": "C",
@@ -32306,7 +32306,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Saltanata bağlı kalınacağını)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Millî Mücadele'nin gerekçesi, amacı ve yöntemini belirlemiş, milli egemenlik fikrini ilk kez ortaya koymuştur.)"
   },
   {
     "id": "ekys_2019_q19",
@@ -32320,7 +32320,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Temsil Heyeti (Heyet-i Temsiliye)"
+        "text": "Meclis-i Mebusan"
       },
       {
         "key": "B",
@@ -32332,7 +32332,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Meclis-i Mebusan"
+        "text": "Temsil Heyeti (Heyet-i Temsiliye)"
       },
       {
         "key": "E",
@@ -32340,7 +32340,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Meclis-i Mebusan)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Temsil Heyeti (Heyet-i Temsiliye))"
   },
   {
     "id": "ekys_2019_q20",
@@ -32388,7 +32388,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Çok partili sisteme dayalı koalisyon hükümetleri kurmuştur."
+        "text": "İhtilalci ve savaşçı bir meclistir."
       },
       {
         "key": "B",
@@ -32404,11 +32404,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "İhtilalci ve savaşçı bir meclistir."
+        "text": "Çok partili sisteme dayalı koalisyon hükümetleri kurmuştur."
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (İhtilalci ve savaşçı bir meclistir.)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Çok partili sisteme dayalı koalisyon hükümetleri kurmuştur.)"
   },
   {
     "id": "ekys_2019_q22",
@@ -32422,7 +32422,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "I. İnönü Savaşı sonrası (12 Mart 1921)"
+        "text": "Sakarya Savaşı"
       },
       {
         "key": "B",
@@ -32430,7 +32430,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Sakarya Savaşı"
+        "text": "I. İnönü Savaşı sonrası (12 Mart 1921)"
       },
       {
         "key": "D",
@@ -32442,7 +32442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Sakarya Savaşı)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (I. İnönü Savaşı sonrası (12 Mart 1921))"
   },
   {
     "id": "ekys_2019_q23",
@@ -32456,11 +32456,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Sakarya Meydan Muharebesi"
+        "text": "I. İnönü Savaşı"
       },
       {
         "key": "B",
-        "text": "I. İnönü Savaşı"
+        "text": "Sakarya Meydan Muharebesi"
       },
       {
         "key": "C",
@@ -32476,7 +32476,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I. İnönü Savaşı)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Sakarya Meydan Muharebesi)"
   },
   {
     "id": "ekys_2019_q24",
@@ -32490,7 +32490,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Meriç Nehri"
+        "text": "Karasu Nehri"
       },
       {
         "key": "B",
@@ -32502,7 +32502,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Karasu Nehri"
+        "text": "Meriç Nehri"
       },
       {
         "key": "E",
@@ -32510,7 +32510,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Karasu Nehri)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Meriç Nehri)"
   },
   {
     "id": "ekys_2019_q25",
@@ -32558,7 +32558,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Kabotaj Kanunu"
+        "text": "Gümrük Tarifesi Kanunu"
       },
       {
         "key": "B",
@@ -32566,7 +32566,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Gümrük Tarifesi Kanunu"
+        "text": "Kabotaj Kanunu"
       },
       {
         "key": "D",
@@ -32578,7 +32578,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Gümrük Tarifesi Kanunu)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kabotaj Kanunu)"
   },
   {
     "id": "ekys_2019_q27",
@@ -32592,11 +32592,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Aşar (Öşür) Vergisi"
+        "text": "Ağnam Vergisi"
       },
       {
         "key": "B",
-        "text": "Ağnam Vergisi"
+        "text": "Aşar (Öşür) Vergisi"
       },
       {
         "key": "C",
@@ -32612,7 +32612,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Ağnam Vergisi)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Aşar (Öşür) Vergisi)"
   },
   {
     "id": "ekys_2019_q28",
@@ -32626,7 +32626,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Milletler Cemiyeti (Cemiyet-i Akvam)"
+        "text": "Sadabat Paktı"
       },
       {
         "key": "B",
@@ -32642,11 +32642,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "Sadabat Paktı"
+        "text": "Milletler Cemiyeti (Cemiyet-i Akvam)"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Sadabat Paktı)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Milletler Cemiyeti (Cemiyet-i Akvam))"
   },
   {
     "id": "ekys_2019_q29",
@@ -32660,7 +32660,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Türkiye Cumhuriyeti vatandaşı olması veya Türkiye'de oturan yabancı olması ve başvuru hakkının kötüye kullanılmaması"
+        "text": "Avukat tutma zorunluluğu vardır."
       },
       {
         "key": "B",
@@ -32668,7 +32668,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Avukat tutma zorunluluğu vardır."
+        "text": "Türkiye Cumhuriyeti vatandaşı olması veya Türkiye'de oturan yabancı olması ve başvuru hakkının kötüye kullanılmaması"
       },
       {
         "key": "D",
@@ -32680,7 +32680,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Avukat tutma zorunluluğu vardır.)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Türkiye Cumhuriyeti vatandaşı olması veya Türkiye'de oturan yabancı olması ve başvuru hakkının kötüye kullanılmaması)"
   },
   {
     "id": "ekys_2019_q30",
@@ -32694,7 +32694,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Kamu görevlisinin tarafsızlığını, performansını ve kararını etkileyecek her türlü borç, menfaat ve maddi avantajı önlemek"
+        "text": "Kırtasiye harcamalarını kısmak"
       },
       {
         "key": "B",
@@ -32706,7 +32706,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Kırtasiye harcamalarını kısmak"
+        "text": "Kamu görevlisinin tarafsızlığını, performansını ve kararını etkileyecek her türlü borç, menfaat ve maddi avantajı önlemek"
       },
       {
         "key": "E",
@@ -32714,7 +32714,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Kırtasiye harcamalarını kısmak)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Kamu görevlisinin tarafsızlığını, performansını ve kararını etkileyecek her türlü borç, menfaat ve maddi avantajı önlemek)"
   },
   {
     "id": "ekys_2019_q31",
@@ -32728,11 +32728,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Meslek Etiği"
+        "text": "Hukuki Yaptırım"
       },
       {
         "key": "B",
-        "text": "Hukuki Yaptırım"
+        "text": "Meslek Etiği"
       },
       {
         "key": "C",
@@ -32748,7 +32748,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Hukuki Yaptırım)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Meslek Etiği)"
   },
   {
     "id": "ekys_2019_q32",
@@ -32796,7 +32796,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Öğrenen tarafından ön bilgilerle yeni deneyimler ilişkilendirilerek aktif olarak inşa edilir."
+        "text": "Sadece test çözerek pekiştirilir."
       },
       {
         "key": "B",
@@ -32808,7 +32808,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Sadece test çözerek pekiştirilir."
+        "text": "Öğrenen tarafından ön bilgilerle yeni deneyimler ilişkilendirilerek aktif olarak inşa edilir."
       },
       {
         "key": "E",
@@ -32816,7 +32816,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Sadece test çözerek pekiştirilir.)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğrenen tarafından ön bilgilerle yeni deneyimler ilişkilendirilerek aktif olarak inşa edilir.)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Yapılandırmacı (Oluşturmacı / Konstrüktivist) Öğrenme Yaklaşımı:</strong> Piaget, Vygotsky ve Bruner gibi kuramcıların öncülük ettiği bu yaklaşıma göre bilgi, dışarıdan pasif olarak zihne kopyalanan hazır bir nesne değildir; <strong>öğrenen birey tarafından mevcut ön bilgileriyle (şemalarıyla) yeni yaşantıları ilişkilendirilerek aktif biçimde inşa edilir (yapılandırılır)</strong>.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve C şıkları:</strong> Bilginin hazır kurallar olarak aktarılması ve ezberlenmesi <em>geleneksel (esasici/davranışçı)</em> yaklaşımdır.<br>• <strong>A ve E şıkları:</strong> Sadece test çözerek pekiştirme ve ödül-ceza şartlandırması <em>davranışçı (edimsel koşullanma)</em> yaklaşıma aittir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yapılandırmacılıkta öğrenen <strong>aktif anlam oluşturucu</strong>, öğretmen ise <strong>rehber ve ortam düzenleyici</strong>dir."
   },
   {
     "id": "ekys_2019_q34",
@@ -32830,11 +32830,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Yaratma (Creating)"
+        "text": "Değerlendirme (Evaluating)"
       },
       {
         "key": "B",
-        "text": "Değerlendirme (Evaluating)"
+        "text": "Yaratma (Creating)"
       },
       {
         "key": "C",
@@ -32850,7 +32850,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Değerlendirme (Evaluating))"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Yaratma (Creating))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Yenilenmiş Bloom Bilişsel Alan Taksonomisi:</strong> 2001 yılında Anderson ve Krathwohl tarafından güncellenen Yenilenmiş Bloom Taksonomisi'nde basamak isimleri <em>isim</em> formundan <em>fiil (eylem)</em> formuna dönüştürülmüş ve son iki basamak yer değiştirmiştir. Buna göre en üst (6.) basamak <strong>Yaratma (Creating / Sentez)</strong> basamağıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Değerlendirme (Evaluating) (A):</strong> Eski (1956) Bloom taksonomisinde en üst basamak iken, Yenilenmiş (2001) taksonomide 5. basamaktır (Yaratma'nın bir alt basamağıdır).<br>• <strong>Çözümleme / Analiz (C):</strong> 4. basamaktır.<br>• <strong>Uygulama (D):</strong> 3. basamaktır.<br>• <strong>Anlama (E):</strong> 2. basamaktır (1. basamak: Hatırlama).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sınavda <em>'Orijinal/Eski (1956) Bloom Taksonomisi'</em> sorulursa en üst basamak <strong>Değerlendirme</strong>; <em>'Yenilenmiş/Güncellenmiş (2001) Bloom Taksonomisi'</em> sorulursa en üst basamak <strong>Yaratma (Creating)</strong>'dır."
   },
   {
     "id": "ekys_2019_q35",
@@ -32864,7 +32864,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "%70"
+        "text": "%60"
       },
       {
         "key": "B",
@@ -32872,7 +32872,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "%60"
+        "text": "%70"
       },
       {
         "key": "D",
@@ -32884,7 +32884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (%60)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (%70)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Bloom'un Tam Öğrenme Modeli Başarı Ölçütü:</strong> Benjamin Bloom'un Tam Öğrenme Modeli'nde her ünite sonunda uygulanan biçimlendirici (formatif) izleme testlerinde, öğrencilerin bir sonraki üniteye geçebilmesi için ulaşmaları gereken <strong>en az (asgari) tam öğrenme başarı standardı %70</strong>'tir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>%60 (A) ve %50 (B):</strong> Tam öğrenme alt sınırının (%70) altında kalan oranlardır; bu düzeydeki öğrencilere tamamlayıcı ek öğretim uygulanır.<br>• <strong>%80 (D) ve %90 (E):</strong> Tam öğrenme aralığı (%70–%90) içinde yer alsa da modelin 'en az / asgari' taban kriteri %70'tir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Bu soru 2019 ve 2022 EKYS'de tekrar sorulmuştur: Tam öğrenmede asgari ölçüt <strong>en az %70</strong>'tir."
   },
   {
     "id": "ekys_2019_q36",
@@ -32918,7 +32918,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Geçerlilik (Validity))"
+    "explanation": "Doğru Cevap: <strong>A</strong> (Geçerlilik (Validity))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Geçerlilik (Validity):</strong> Bir ölçme aracının ölçmeyi amaçladığı özelliği, başka hiçbir özellikle karıştırmadan <strong>tam, doğru ve amaca uygun olarak ölçebilme derecesi</strong>dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Güvenilirlik (B):</strong> Ölçme sonuçlarının tesadüfi hatalardan arınık ve tutarlı olmasıdır.<br>• <strong>Kullanışlılık (C):</strong> Ölçme aracının ekonomik ve pratik olmasıdır.<br>• <strong>Objektiflik (D):</strong> Puanlamanın kişisel yargılardan bağımsız olmasıdır.<br>• <strong>Standartlaşma (E):</strong> Uygulama ve puanlama koşullarının herkes için standart olmasıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Bir ölçme aracı <em>güvenilir olabilir ama geçerli olmayabilir</em>; ancak <strong>geçerli olan her ölçme aracı aynı zamanda güvenilirdir</strong> (Güvenirlik, geçerliğin ön koşuludur)."
   },
   {
     "id": "ekys_2019_q37",
@@ -32932,7 +32932,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "En yüksek puan ile en düşük puan arasındaki fark"
+        "text": "Standart puanlar toplamı"
       },
       {
         "key": "B",
@@ -32948,11 +32948,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "Standart puanlar toplamı"
+        "text": "En yüksek puan ile en düşük puan arasındaki fark"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Standart puanlar toplamı)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (En yüksek puan ile en düşük puan arasındaki fark)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Ranj (Dizi Genişliği / Açıklık):</strong> Bir puan dağılımındaki <strong>en yüksek (maksimum) puan ile en düşük (minimum) puan arasındaki farktır</strong> ($\\text{Ranj} = X_{\\max} - X_{\\min}$). Grubun homojenliği veya heterojenliği hakkında en hızlı ve kaba bilgiyi veren merkezi dağılım (yayılım) ölçüsüdür.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Standart puanlar toplamı (A):</strong> $Z$ ve $T$ gibi standart puanlarla ilgilidir ($Z$ puanlarının toplamı ve ortalaması her zaman $0$'dır).<br>• <strong>Puanların aritmetik ortalaması (B) ve Medyan-Mod (C):</strong> Merkezi eğilim (yığılma) ölçüleridir.<br>• <strong>Varyansın karekökü (D):</strong> <em>Standart Sapma</em>'nın tanımıdır ($s = \\sqrt{s^2}$).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Merkezi dağılım (yayılım) ölçüleri 4 tanedir: <strong>Ranj (Dizi Genişliği)</strong>, <strong>Çeyrek Sapma</strong>, <strong>Standart Sapma</strong> ve <strong>Varyans</strong>."
   },
   {
     "id": "ekys_2019_q38",
@@ -32966,7 +32966,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Öğrencinin kendi öğrenme hızına göre ilerlemesi ve üniteyi tam başarmadan diğerine geçememesi"
+        "text": "Sınavların kaldırılması"
       },
       {
         "key": "B",
@@ -32978,7 +32978,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Sınavların kaldırılması"
+        "text": "Öğrencinin kendi öğrenme hızına göre ilerlemesi ve üniteyi tam başarmadan diğerine geçememesi"
       },
       {
         "key": "E",
@@ -32986,7 +32986,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Sınavların kaldırılması)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Öğrencinin kendi öğrenme hızına göre ilerlemesi ve üniteyi tam başarmadan diğerine geçememesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Keller Planı (Bireyselleştirilmiş Öğretim Sistemi - PSI):</strong> Fred Keller tarafından geliştirilen ve Bloom'un Tam Öğrenme Modeli ile Skinner'ın Programlı Öğretim yaklaşımını birleştiren modeldir. En belirgin özelliği; yazılı materyallerle <strong>her öğrencinin kendi bireysel öğrenme hızına göre ilerlemesi, grup/sınıf hızına bağımlı olmaması ve bir ünitede tam öğrenme ölçütünü sağlamadan bir sonraki üniteye geçememesi</strong>dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve E şıkları:</strong> Tüm sınıfın aynı anda ilerlemesi Bloom'un <em>Grup/Sınıf Temelli Tam Öğrenme</em> modelinin özelliğidir; Keller Planı ise tamamen <em>bireysel hıza</em> dayanır.<br>• <strong>A ve C şıkları:</strong> Keller Planı'nda ünite sonu değerlendirme sınavları kaldırılmaz (aksine her ünite sonunda bireysel sınav yapılır) ve öğretmen sürekli ders anlatmaz.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>Bloom'un Tam Öğrenmesi</em> <strong>grup/sınıf</strong> temellidir (sınıfça diğer üniteye geçilir); <em>Keller Planı</em> ise <strong>bireysel tam öğrenme</strong> temellidir (her öğrenci kendi hızında üniteyi bitirip diğerine geçer)."
   },
   {
     "id": "ekys_2019_q39",
@@ -33000,11 +33000,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Okul Müdürü"
+        "text": "Psikolojik Danışman"
       },
       {
         "key": "B",
-        "text": "Psikolojik Danışman"
+        "text": "Okul Müdürü"
       },
       {
         "key": "C",
@@ -33020,7 +33020,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Psikolojik Danışman)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Okul Müdürü)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Okul Rehberlik Hizmetlerinde Yönetimsel Sorumluluk ve Destek:</strong> MEB Rehberlik ve Psikolojik Danışma Hizmetleri Yönetmeliği'ne göre, rehberlik hizmetlerinin okulda planlanması, fiziksel/idari olanakların sağlanması, eşgüdümü ve başarıyla yürütülmesinde <strong>birinci derecede idari/yönetimsel sorumluluk ve destek Okul Müdürüne</strong> aittir (Okul müdürü aynı zamanda Rehberlik Hizmetleri Yürütme Komisyonu'nun doğal başkanıdır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Psikolojik Danışman / Rehber Öğretmen (A):</strong> Hizmetlerin uzmanlık düzeyinde yürütülmesi ve okul rehberlik programının hazırlanmasından sorumludur; ancak 'en geniş idari/yönetimsel sorumluluk ve destek' okul müdüründedir.<br>• <strong>Sınıf Rehber Öğretmeni (C):</strong> Kendi sınıfının rehberlik etkinliklerini yürütmekle sorumludur.<br>• <strong>Nöbetçi Öğretmen (D) ve Okul Aile Birliği Başkanı (E):</strong> Rehberlik örgütlenmesinde birincil yürütücü veya yönetimsel sorumlu değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Soruda <em>'en geniş idari/yönetimsel sorumluluk ve komisyon başkanlığı'</em> sorulursa cevap <strong>Okul Müdürü</strong>; <em>'uzmanlık gerektiren psikolojik danışma ve servis koordinasyonu'</em> sorulursa cevap <strong>Psikolojik Danışman (Rehber Öğretmen)</strong> olur."
   },
   {
     "id": "ekys_2019_q40",
@@ -33034,7 +33034,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Öğrencilerin sahip olduğu mevcut ön bilgilerden hareketle yeni konuyu temellendirmesini"
+        "text": "Hiç konu anlatmadan soru çözmesini"
       },
       {
         "key": "B",
@@ -33042,7 +33042,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Hiç konu anlatmadan soru çözmesini"
+        "text": "Öğrencilerin sahip olduğu mevcut ön bilgilerden hareketle yeni konuyu temellendirmesini"
       },
       {
         "key": "D",
@@ -33054,7 +33054,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Hiç konu anlatmadan soru çözmesini)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Öğrencilerin sahip olduğu mevcut ön bilgilerden hareketle yeni konuyu temellendirmesini)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Bilinenden Bilinmeyene İlkesi:</strong> Öğretim sürecinde yeni bir konu veya kavram öğretilirken, öğrencinin daha önce öğrendiği <strong>mevcut ön bilgilerinden ve bildiği kavramlardan yola çıkılarak yeni bilginin eski şemalar üzerine inşa edilmesi</strong> (köprü kurulması) ilkesidir. Böylece anlamlı öğrenme ve bilişsel hazırbulunuşluk desteklenir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B şıkkı:</strong> Dersin en zor yerinden değil, <em>Kolaydan Zora (Basitten Karmaşığa)</em> ilkesine göre en kolay adımından başlanmalıdır.<br>• <strong>A, D ve E şıkları:</strong> Hiç konu anlatmadan soru çözmek, sırayı ezberletmek veya sadece teorik kavram sunmak pedagojik öğretim ilkelerine tamamen aykırıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Derse başlarken <em>önceki dersin kısaca tekrar edilmesi veya ön bilgilerin yoklanarak yeni konuya bağlanması</em> doğrudan <strong>Bilinenden Bilinmeyene</strong> ilkesidir."
   },
   {
     "id": "ekys_2019_q41",
@@ -33102,7 +33102,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Kendini Gerçekleştirme İhtiyacı"
+        "text": "Fizyolojik İhtiyaçlar"
       },
       {
         "key": "B",
@@ -33118,11 +33118,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "Fizyolojik İhtiyaçlar"
+        "text": "Kendini Gerçekleştirme İhtiyacı"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Fizyolojik İhtiyaçlar)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Kendini Gerçekleştirme İhtiyacı)"
   },
   {
     "id": "ekys_2019_q43",
@@ -33136,7 +33136,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Başarı, tanınma, sorumluluk ve kişisel gelişim fırsatları"
+        "text": "Şirket politikaları"
       },
       {
         "key": "B",
@@ -33148,7 +33148,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Şirket politikaları"
+        "text": "Başarı, tanınma, sorumluluk ve kişisel gelişim fırsatları"
       },
       {
         "key": "E",
@@ -33156,7 +33156,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Şirket politikaları)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Başarı, tanınma, sorumluluk ve kişisel gelişim fırsatları)"
   },
   {
     "id": "ekys_2019_q44",
@@ -33170,11 +33170,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "İdealleştirilmiş Etki (Karizma), İlham Verici Motivasyon, Entelektüel Uyarım, Bireysel İlgi"
+        "text": "Koşullu Ödüllendirme"
       },
       {
         "key": "B",
-        "text": "Koşullu Ödüllendirme"
+        "text": "İdealleştirilmiş Etki (Karizma), İlham Verici Motivasyon, Entelektüel Uyarım, Bireysel İlgi"
       },
       {
         "key": "C",
@@ -33190,7 +33190,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Koşullu Ödüllendirme)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (İdealleştirilmiş Etki (Karizma), İlham Verici Motivasyon, Entelektüel Uyarım, Bireysel İlgi)"
   },
   {
     "id": "ekys_2019_q45",
@@ -33204,7 +33204,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Açık İklim"
+        "text": "Özerk İklim"
       },
       {
         "key": "B",
@@ -33212,7 +33212,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Özerk İklim"
+        "text": "Açık İklim"
       },
       {
         "key": "D",
@@ -33224,7 +33224,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Özerk İklim)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Açık İklim)"
   },
   {
     "id": "ekys_2019_q46",
@@ -33272,7 +33272,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Geleneksel denetim hata bulma ve ceza odaklıyken; çağdaş denetim rehberlik, gelişim ve öğretimi iyileştirme odaklıdır."
+        "text": "Geleneksel denetim sadece öğrencilere uygulanır."
       },
       {
         "key": "B",
@@ -33284,7 +33284,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Geleneksel denetim sadece öğrencilere uygulanır."
+        "text": "Geleneksel denetim hata bulma ve ceza odaklıyken; çağdaş denetim rehberlik, gelişim ve öğretimi iyileştirme odaklıdır."
       },
       {
         "key": "E",
@@ -33292,7 +33292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Geleneksel denetim sadece öğrencilere uygulanır.)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Geleneksel denetim hata bulma ve ceza odaklıyken; çağdaş denetim rehberlik, gelişim ve öğretimi iyileştirme odaklıdır.)"
   },
   {
     "id": "ekys_2019_q48",
@@ -33306,7 +33306,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Öğretimsel Liderlik"
+        "text": "Politik Liderlik"
       },
       {
         "key": "B",
@@ -33322,11 +33322,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "Politik Liderlik"
+        "text": "Öğretimsel Liderlik"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Politik Liderlik)"
+    "explanation": "Doğru Cevap: <strong>E</strong> (Öğretimsel Liderlik)"
   },
   {
     "id": "ekys_2019_q49",
@@ -33340,11 +33340,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Misyon"
+        "text": "Vizyon"
       },
       {
         "key": "B",
-        "text": "Vizyon"
+        "text": "Misyon"
       },
       {
         "key": "C",
@@ -33360,7 +33360,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Vizyon)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Misyon)"
   },
   {
     "id": "ekys_2019_q50",
@@ -33374,7 +33374,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Kadınların ve dezavantajlı grupların üst düzey yönetsel pozisyonlara yükselmesini engelleyen görünmez yapay engeller"
+        "text": "Çalışanların şeffaf yönetilmesi"
       },
       {
         "key": "B",
@@ -33382,7 +33382,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Çalışanların şeffaf yönetilmesi"
+        "text": "Kadınların ve dezavantajlı grupların üst düzey yönetsel pozisyonlara yükselmesini engelleyen görünmez yapay engeller"
       },
       {
         "key": "D",
@@ -33394,7 +33394,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Çalışanların şeffaf yönetilmesi)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Kadınların ve dezavantajlı grupların üst düzey yönetsel pozisyonlara yükselmesini engelleyen görünmez yapay engeller)"
   },
   {
     "id": "ekys_2019_q51",
@@ -33442,7 +33442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Uzmanların bir araya gelmeden, birbirini görmeden anketler yoluyla bağımsız fikir bildirerek uzlaşmaya varması"
+        "text": "Yazı-tura atılması"
       },
       {
         "key": "B",
@@ -33454,7 +33454,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Yazı-tura atılması"
+        "text": "Uzmanların bir araya gelmeden, birbirini görmeden anketler yoluyla bağımsız fikir bildirerek uzlaşmaya varması"
       },
       {
         "key": "E",
@@ -33462,7 +33462,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Yazı-tura atılması)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Uzmanların bir araya gelmeden, birbirini görmeden anketler yoluyla bağımsız fikir bildirerek uzlaşmaya varması)"
   },
   {
     "id": "ekys_2019_q53",
@@ -33476,7 +33476,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "'Bir iş, kendisi için ayrılan sürenin tamamını dolduracak şekilde genişler.'"
+        "text": "'Parası olan kuralı koyar.'"
       },
       {
         "key": "B",
@@ -33492,11 +33492,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "'Parası olan kuralı koyar.'"
+        "text": "'Bir iş, kendisi için ayrılan sürenin tamamını dolduracak şekilde genişler.'"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> ('Parası olan kuralı koyar.')"
+    "explanation": "Doğru Cevap: <strong>E</strong> ('Bir iş, kendisi için ayrılan sürenin tamamını dolduracak şekilde genişler.')"
   },
   {
     "id": "ekys_2019_q54",
@@ -33510,11 +33510,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "'Hiyerarşik bir yapıda her çalışan eninde sonunda yeteneksiz olduğu (başarısız kalacağı) bir üst kademeye kadar yükselir.'"
+        "text": "'Liderler doğuştan liderdir.'"
       },
       {
         "key": "B",
-        "text": "'Liderler doğuştan liderdir.'"
+        "text": "'Hiyerarşik bir yapıda her çalışan eninde sonunda yeteneksiz olduğu (başarısız kalacağı) bir üst kademeye kadar yükselir.'"
       },
       {
         "key": "C",
@@ -33530,7 +33530,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> ('Liderler doğuştan liderdir.')"
+    "explanation": "Doğru Cevap: <strong>B</strong> ('Hiyerarşik bir yapıda her çalışan eninde sonunda yeteneksiz olduğu (başarısız kalacağı) bir üst kademeye kadar yükselir.')"
   },
   {
     "id": "ekys_2019_q55",
@@ -33544,7 +33544,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Özgecilik (Altruism)"
+        "text": "Nezaket"
       },
       {
         "key": "B",
@@ -33552,7 +33552,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Nezaket"
+        "text": "Özgecilik (Altruism)"
       },
       {
         "key": "D",
@@ -33564,7 +33564,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Nezaket)"
+    "explanation": "Doğru Cevap: <strong>C</strong> (Özgecilik (Altruism))"
   },
   {
     "id": "ekys_2019_q56",
@@ -33612,7 +33612,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Yasal (Meşru) Güç"
+        "text": "Ödül Gücü"
       },
       {
         "key": "B",
@@ -33624,7 +33624,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Ödül Gücü"
+        "text": "Yasal (Meşru) Güç"
       },
       {
         "key": "E",
@@ -33632,7 +33632,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Ödül Gücü)"
+    "explanation": "Doğru Cevap: <strong>D</strong> (Yasal (Meşru) Güç)"
   },
   {
     "id": "ekys_2019_q58",
@@ -33646,11 +33646,11 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "options": [
       {
         "key": "A",
-        "text": "Ortaya çıkan bir problemin kök nedenlerini kategorize ederek sistematik şekilde tespit etmek"
+        "text": "Bütçe tablosu hazırlamak"
       },
       {
         "key": "B",
-        "text": "Bütçe tablosu hazırlamak"
+        "text": "Ortaya çıkan bir problemin kök nedenlerini kategorize ederek sistematik şekilde tespit etmek"
       },
       {
         "key": "C",
@@ -33666,7 +33666,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Bütçe tablosu hazırlamak)"
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ortaya çıkan bir problemin kök nedenlerini kategorize ederek sistematik şekilde tespit etmek)"
   },
   {
     "id": "ekys_2019_q59",
