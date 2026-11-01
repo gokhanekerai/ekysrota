@@ -4246,6 +4246,8 @@ class EKYSApp {
           this.showToast(`✅ Doğru! Soru ${res.stage}. Aşamaya (${res.days} Gün Sonra Tekrar) yükseldi.`, 'success');
         } else if (res && res.status === 'graduated') {
           this.showToast('🎓 Tebrikler! 3 tekrar aşamasını da tamamladınız; soru Yanlış Defterinden mezun oldu!', 'success');
+        } else if (res && res.status === 'not_due_yet') {
+          this.showToast(`✅ Doğru! (Anlık pratik — ${res.stage}. Aşama tekrarı ${res.daysLeft} gün sonra açılacak)`, 'info');
         }
       }
     }

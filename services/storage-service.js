@@ -291,13 +291,17 @@ class StorageService {
     try {
       const pool = JSON.parse(localStorage.getItem(this.KEYS.WRONG_POOL)) || [];
       let changed = false;
-      const migKey = 'ekys2027_wrong_pool_v242_fixed';
-      const needsDoubleCountFix = !localStorage.getItem(migKey);
+      const migKey = 'ekys2027_wrong_pool_v243_secenek_a';
+      const needsV243Fix = !localStorage.getItem(migKey);
 
       pool.forEach(item => {
-        if (needsDoubleCountFix && Number(item.wrongCount) === 2) {
+        if (needsV243Fix) {
+          const baseTime = item.addedDate ? new Date(item.addedDate).getTime() : Date.now();
+          item.srsStage = 1;
           item.wrongCount = 1;
           item.isCritical = false;
+          item.nextReviewDate = new Date(baseTime + 24 * 60 * 60 * 1000).toISOString();
+          delete item.lastReviewedDate;
           changed = true;
         }
         if ((item.srsStage || 1) >= 2 && (item.isCritical || Number(item.wrongCount) >= 2)) {
@@ -307,7 +311,7 @@ class StorageService {
         }
       });
 
-      if (needsDoubleCountFix) {
+      if (needsV243Fix) {
         localStorage.setItem(migKey, '1');
       }
       if (changed) {
@@ -322,14 +326,16 @@ class StorageService {
   addToWrongPool(question, userAnswer) {
     const pool = this.getWrongPool();
     const existing = pool.find(item => item.id === question.id);
-    const nowIso = new Date().toISOString();
+    const nowMs = Date.now();
+    const nowIso = new Date(nowMs).toISOString();
+    const nextDayIso = new Date(nowMs + 24 * 60 * 60 * 1000).toISOString(); // 1. Gün tekrarı 24 saat sonra açılır
 
     if (existing) {
       existing.wrongCount = (existing.wrongCount || 1) + 1;
       existing.srsStage = 1; // Tekrar yanlış yapıldığında 1. Aşamaya (1. Gün) sıfırlanır
       existing.isCritical = existing.wrongCount >= 2;
       existing.lastWrongDate = nowIso;
-      existing.nextReviewDate = nowIso;
+      existing.nextReviewDate = nextDayIso;
       existing.lastUserAnswer = userAnswer;
     } else {
       pool.push({
@@ -339,7 +345,7 @@ class StorageService {
         isCritical: false,
         addedDate: nowIso,
         lastWrongDate: nowIso,
-        nextReviewDate: nowIso,
+        nextReviewDate: nextDayIso,
         lastUserAnswer: userAnswer
       });
     }
@@ -357,6 +363,13 @@ class StorageService {
     const item = pool[idx];
     const currentStage = item.srsStage || 1;
     const now = Date.now();
+    const nextTime = item.nextReviewDate ? new Date(item.nextReviewDate).getTime() : 0;
+
+    // Seçenek A: Tekrar zamanı (1. Gün / 7. Gün / 30. Gün) henüz gelmediyse anlık pratik sayılır, aşama atlamaz
+    if (nextTime && nextTime > now) {
+      const daysLeft = Math.max(1, Math.ceil((nextTime - now) / (1000 * 60 * 60 * 24)));
+      return { status: 'not_due_yet', stage: currentStage, daysLeft };
+    }
 
     if (currentStage === 1) {
       item.srsStage = 2;
