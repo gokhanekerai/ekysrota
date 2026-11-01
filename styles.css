@@ -2471,3 +2471,26 @@ body {
 .quiz-table-wrapper br {
   display: none !important;
 }
+
+/* ÖĞRENCİ İÇERİK KORUMA KALKANI (Kopyalama & Yazdırma Engeli) */
+body.student-protected-mode {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+body.student-protected-mode input,
+body.student-protected-mode textarea {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
+
+@media print {
+  body.student-protected-mode {
+    display: none !important;
+  }
+}

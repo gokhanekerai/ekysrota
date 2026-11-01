@@ -14,6 +14,7 @@ class EKYSApp {
   }
 
   init() {
+    this.setupSecurityShield();
     this.bindNavigation();
     this.startExamCountdown();
     this.renderDashboard();
@@ -5818,6 +5819,83 @@ class EKYSApp {
     }
   }
 
+  // --- İÇERİK VE KOD KORUMA KALKANI (ÖĞRENCİ KİLİT MODU) ---
+  setupSecurityShield() {
+    this.updateSecurityShieldMode();
+
+    const isProtected = () => {
+      return !(window.firebaseService && typeof window.firebaseService.isAdmin === 'function' && window.firebaseService.isAdmin());
+    };
+
+    const isInputTarget = (el) => {
+      if (!el || !el.tagName) return false;
+      const tag = el.tagName.toUpperCase();
+      return tag === 'INPUT' || tag === 'TEXTAREA' || el.isContentEditable;
+    };
+
+    document.addEventListener('contextmenu', (e) => {
+      if (isProtected() && !isInputTarget(e.target)) {
+        e.preventDefault();
+      }
+    });
+
+    document.addEventListener('copy', (e) => {
+      if (isProtected() && !isInputTarget(e.target)) {
+        e.preventDefault();
+      }
+    });
+
+    document.addEventListener('cut', (e) => {
+      if (isProtected() && !isInputTarget(e.target)) {
+        e.preventDefault();
+      }
+    });
+
+    document.addEventListener('dragstart', (e) => {
+      if (isProtected()) {
+        e.preventDefault();
+      }
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (!isProtected()) return;
+      const key = (e.key || '').toUpperCase();
+      const ctrlOrCmd = e.ctrlKey || e.metaKey;
+
+      // F12 veya Ctrl+Shift+I / J / C (Geliştirici Araçları)
+      if (e.key === 'F12' || (ctrlOrCmd && e.shiftKey && (key === 'I' || key === 'J' || key === 'C'))) {
+        e.preventDefault();
+        e.stopPropagation();
+        return false;
+      }
+
+      // Ctrl+U (Kaynağı Gör), Ctrl+S (Kaydet), Ctrl+P (Yazdır)
+      if (ctrlOrCmd && (key === 'U' || key === 'S' || key === 'P')) {
+        e.preventDefault();
+        e.stopPropagation();
+        return false;
+      }
+
+      // Input alanı dışında Ctrl+C veya Ctrl+A
+      if (ctrlOrCmd && (key === 'C' || key === 'A') && !isInputTarget(e.target)) {
+        e.preventDefault();
+        e.stopPropagation();
+        return false;
+      }
+    });
+  }
+
+  updateSecurityShieldMode() {
+    const isAdminUser = !!(window.firebaseService && typeof window.firebaseService.isAdmin === 'function' && window.firebaseService.isAdmin());
+    if (document.body) {
+      if (isAdminUser) {
+        document.body.classList.remove('student-protected-mode');
+      } else {
+        document.body.classList.add('student-protected-mode');
+      }
+    }
+  }
+
   async handleGateLogin(e) {
     if (e) e.preventDefault();
     const usernameInput = document.getElementById('gate-login-username') || document.getElementById('gate-login-email');
@@ -5829,12 +5907,7 @@ class EKYSApp {
       if (window.firebaseService) {
         await window.firebaseService.loginWithEmail(username, pass);
       } else {
-        localStorage.setItem('ekys_active_session_v3', JSON.stringify({
-          uid: 'uid_admin',
-          email: 'admin@ekysrota.com',
-          displayName: 'Gökhan Eker (Yönetici)',
-          role: 'admin'
-        }));
+        throw new Error('Kimlik doğrulama servisi yüklenemedi. Lütfen sayfayı yenileyin.');
       }
 
       // Giriş ekranını gizle ve ana paneli aç
@@ -5851,8 +5924,10 @@ class EKYSApp {
   }
 
   onAuthStateUpdated(user) {
+    this.updateSecurityShieldMode();
     if (window.storageService && user) {
-      const uKey = (user.role === 'admin' || user.username === 'admin') 
+      const isAdminUser = window.firebaseService && typeof window.firebaseService.isAdmin === 'function' && window.firebaseService.isAdmin();
+      const uKey = isAdminUser 
         ? 'master_admin' 
         : (user.username || user.displayName || user.uid || 'student');
       window.storageService.setCurrentUser(uKey);
@@ -5985,10 +6060,10 @@ class EKYSApp {
       // 1. Master Admin (Ana Hesap)
       userMap.set('admin', {
         id: 'admin',
-        username: 'admin',
+        username: 'gokhaneker',
         displayName: 'Gökhan Eker (Ana Yönetici)',
         role: 'admin',
-        password: '•••••••• (Özel)',
+        password: '•••••••• (SHA-256 Korumalı)',
         createdAt: new Date().toISOString()
       });
 
@@ -5998,7 +6073,7 @@ class EKYSApp {
           if (!u) return;
           const raw = u.username || u.email || u.name || '';
           const key = String(raw).trim().toLowerCase();
-          if (key && key !== 'admin') {
+          if (key && key !== 'admin' && key !== 'gokhaneker') {
             userMap.set(key, { ...u, id: key, username: key, password: u.password || '••••••' });
           }
         });
@@ -6010,7 +6085,7 @@ class EKYSApp {
           if (!u) return;
           const raw = u.username || u.email || u.name || '';
           const key = String(raw).trim().toLowerCase();
-          if (key && key !== 'admin') {
+          if (key && key !== 'admin' && key !== 'gokhaneker') {
             const existing = userMap.get(key) || {};
             userMap.set(key, { ...existing, ...u, id: key, username: key, password: u.password || existing.password || '••••••' });
           }
@@ -6042,7 +6117,7 @@ class EKYSApp {
                 </td>
                 <td>${u.createdAt ? new Date(u.createdAt).toLocaleDateString('tr-TR') : 'Aktif'}</td>
                 <td>
-                  ${(u.username === 'admin' || u.username === 'gokhan') ? '<span style="color: var(--text-secondary); font-size: 0.8rem;">(Ana Yönetici)</span>' : `
+                  ${(u.role === 'admin' || u.username === 'admin' || u.username === 'gokhaneker') ? '<span style="color: var(--text-secondary); font-size: 0.8rem;">(Ana Yönetici)</span>' : `
                     <button class="btn btn-danger btn-sm" onclick="app.handleAdminDeleteUser('${u.username || u.id}', '${u.username || u.displayName || u.id}')">
                       🗑️ Çıkar / Sil
                     </button>

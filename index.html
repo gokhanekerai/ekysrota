@@ -37,11 +37,11 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <!-- Styles -->
-  <link rel="stylesheet" href="styles.css?v=220.0">
+  <link rel="stylesheet" href="styles.css?v=238.0">
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js?v=220.0').then(reg => {
+        navigator.serviceWorker.register('./sw.js?v=238.0').then(reg => {
           reg.update();
 
           // Yeni Service Worker tespit edildiğinde banner göster
@@ -123,7 +123,7 @@
       <form id="gate-form-login" onsubmit="app.handleGateLogin(event)">
         <div class="form-group">
           <label class="form-label">Kullanıcı Adı</label>
-          <input type="text" id="gate-login-username" class="form-control" placeholder="Kullanıcı Adınız (Örn: admin)" required autocomplete="username">
+          <input type="text" id="gate-login-username" class="form-control" placeholder="Kullanıcı Adınızı Giriniz" required autocomplete="username">
         </div>
         <div class="form-group">
           <label class="form-label">Giriş Şifresi</label>
@@ -1201,13 +1201,13 @@
   </div>
 
   <!-- Core Scripts -->
-  <script src="data/ekys-sample-questions.js?v=227.0"></script>
-  <script src="data/questions-db.js?v=237.0"></script>
-  <script src="services/storage-service.js?v=237.0"></script>
-  <script src="services/firebase-service.js?v=227.0"></script>
-  <script src="services/pdf-service.js?v=227.0"></script>
-  <script src="services/youtube-service.js?v=227.0"></script>
-  <script src="services/question-generator.js?v=227.0"></script>
-  <script src="app.js?v=237.0"></script>
+  <script src="data/ekys-sample-questions.js?v=238.0"></script>
+  <script src="data/questions-db.js?v=238.0"></script>
+  <script src="services/storage-service.js?v=238.0"></script>
+  <script src="services/firebase-service.js?v=238.0"></script>
+  <script src="services/pdf-service.js?v=238.0"></script>
+  <script src="services/youtube-service.js?v=238.0"></script>
+  <script src="services/question-generator.js?v=238.0"></script>
+  <script src="app.js?v=238.0"></script>
 </body>
 </html>

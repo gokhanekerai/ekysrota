@@ -17,20 +17,127 @@ class FirebaseService {
     this.currentUserDoc = null;
     this.auth = null;
     this.db = null;
+    this.MASTER_USER_HASH = '6836709e8b442526079bf97fedf6150d00398e8df5c6b97f1763185a3eaf4eeb';
+    this.MASTER_PASS_HASH = '1310bcdbfbb4ee4514d0d6d9af2a9a3b31a83d4d6457c8f0d37aecfdc368d3d8';
+    this.MASTER_AUTH_TOKEN = 'sec_v238_6836709e';
 
-    // Kayıtlı yerel oturum varsa doğrudan başlat
+    // Kayıtlı yerel oturum varsa doğrula ve başlat
     const savedSession = localStorage.getItem('ekys_active_session_v3');
     if (savedSession) {
       try {
         const doc = JSON.parse(savedSession);
-        this.currentUserDoc = doc;
-        this.currentUser = { uid: doc.uid, email: doc.email, displayName: doc.displayName };
+        if (doc && doc.role === 'admin' && doc.authToken !== this.MASTER_AUTH_TOKEN) {
+          localStorage.removeItem('ekys_active_session_v3');
+        } else if (doc) {
+          this.currentUserDoc = doc;
+          this.currentUser = { uid: doc.uid, email: doc.email, displayName: doc.displayName };
+        }
       } catch (e) {
         console.warn('Session parse hatası:', e);
       }
     }
 
     this.initFirebase(DEFAULT_FIREBASE_CONFIG);
+  }
+
+  // Saf JS SHA-256 Kriptografik Özet Fonksiyonu (Tüm tarayıcılarda çalışır)
+  sha256(str) {
+    function rightRotate(value, amount) {
+      return (value >>> amount) | (value << (32 - amount));
+    }
+    let ascii = unescape(encodeURIComponent(String(str || '')));
+    const mathPow = Math.pow;
+    const maxWord = mathPow(2, 32);
+    const lengthProperty = 'length';
+    let i, j;
+    let result = '';
+    const words = [];
+    const asciiBitLength = ascii[lengthProperty] * 8;
+    let hash = [];
+    const k = [];
+    let primeCounter = 0;
+    const isComposite = {};
+    for (let candidate = 2; primeCounter < 64; candidate++) {
+      if (!isComposite[candidate]) {
+        for (i = 0; i < 313; i += candidate) {
+          isComposite[i] = candidate;
+        }
+        hash[primeCounter] = (mathPow(candidate, 0.5) * maxWord) | 0;
+        k[primeCounter++] = (mathPow(candidate, 1 / 3) * maxWord) | 0;
+      }
+    }
+    ascii += '\x80';
+    while (ascii[lengthProperty] % 64 - 56) ascii += '\x00';
+    for (i = 0; i < ascii[lengthProperty]; i++) {
+      j = ascii.charCodeAt(i);
+      if (j >> 8) return '';
+      words[i >> 2] |= j << ((3 - i) % 4) * 8;
+    }
+    words[words[lengthProperty]] = ((asciiBitLength / maxWord) | 0);
+    words[words[lengthProperty]] = (asciiBitLength);
+    for (j = 0; j < words[lengthProperty];) {
+      const w = words.slice(j, j += 16);
+      const oldHash = hash;
+      hash = hash.slice(0, 8);
+      for (i = 0; i < 64; i++) {
+        const w15 = w[i - 15], w2 = w[i - 2];
+        const a = hash[0], e = hash[4];
+        const temp1 = hash[7]
+          + (rightRotate(e, 6) ^ rightRotate(e, 11) ^ rightRotate(e, 25))
+          + ((e & hash[5]) ^ ((~e) & hash[6]))
+          + k[i]
+          + (w[i] = (i < 16) ? w[i] : (
+              w[i - 16]
+              + (rightRotate(w15, 7) ^ rightRotate(w15, 18) ^ (w15 >>> 3))
+              + w[i - 7]
+              + (rightRotate(w2, 17) ^ rightRotate(w2, 19) ^ (w2 >>> 10))
+            ) | 0
+          );
+        const temp2 = (rightRotate(a, 2) ^ rightRotate(a, 13) ^ rightRotate(a, 22))
+          + ((a & hash[1]) ^ (a & hash[2]) ^ (hash[1] & hash[2]));
+        hash = [(temp1 + temp2) | 0].concat(hash);
+        hash[4] = (hash[4] + temp1) | 0;
+      }
+      for (i = 0; i < 8; i++) {
+        hash[i] = (hash[i] + oldHash[i]) | 0;
+      }
+    }
+    for (i = 0; i < 8; i++) {
+      for (j = 3; j + 1; j--) {
+        const b = (hash[i] >> (j * 8)) & 255;
+        result += ((b < 16) ? 0 : '') + b.toString(16);
+      }
+    }
+    return result;
+  }
+
+  encodeStudentPass(plain) {
+    try {
+      const key = 'EKYS_ROTA_2027_SEC_KEY';
+      const raw = unescape(encodeURIComponent(String(plain || '')));
+      let out = '';
+      for (let i = 0; i < raw.length; i++) {
+        out += String.fromCharCode(raw.charCodeAt(i) ^ key.charCodeAt(i % key.length));
+      }
+      return 'enc1_' + btoa(out);
+    } catch (e) {
+      return '';
+    }
+  }
+
+  decodeStudentPass(enc) {
+    try {
+      if (!enc || !String(enc).startsWith('enc1_')) return enc || '';
+      const key = 'EKYS_ROTA_2027_SEC_KEY';
+      const raw = atob(String(enc).slice(5));
+      let out = '';
+      for (let i = 0; i < raw.length; i++) {
+        out += String.fromCharCode(raw.charCodeAt(i) ^ key.charCodeAt(i % key.length));
+      }
+      return decodeURIComponent(escape(out));
+    } catch (e) {
+      return '••••••';
+    }
   }
 
   initFirebase(config) {
@@ -59,6 +166,11 @@ class FirebaseService {
               localSess = JSON.parse(localStorage.getItem('ekys_active_session_v3') || 'null');
             } catch (e) {}
 
+            if (localSess && localSess.role === 'admin' && localSess.authToken !== this.MASTER_AUTH_TOKEN) {
+              localStorage.removeItem('ekys_active_session_v3');
+              localSess = null;
+            }
+
             if (localSess && (localSess.username || localSess.uid)) {
               this.currentUser = {
                 uid: localSess.uid || (localSess.role === 'admin' ? 'uid_master_admin' : 'uid_student'),
@@ -66,7 +178,7 @@ class FirebaseService {
                 displayName: localSess.displayName || localSess.username,
                 role: localSess.role || 'student'
               };
-              this.currentUserDoc = this.currentUser;
+              this.currentUserDoc = localSess;
             } else {
               this.currentUser = null;
               this.currentUserDoc = null;
@@ -121,7 +233,7 @@ class FirebaseService {
       this.realtimeUnsubscribe = null;
     }
 
-    const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+    const isUserAdmin = this.isAdmin();
     const targetDoc = isUserAdmin 
       ? 'users/uid_master_admin' 
       : (this.currentUser && this.currentUser.uid ? `users/${this.currentUser.uid}` : null);
@@ -209,32 +321,44 @@ class FirebaseService {
     const cleanPass = (password || '').trim();
 
     if (!cleanInput) {
-      throw new Error('Lütfen kullanıcı adınızı veya e-posta adresinizi giriniz.');
+      throw new Error('Lütfen kullanıcı adınızı giriniz.');
     }
     if (!cleanPass) {
       throw new Error('Lütfen şifrenizi giriniz.');
     }
 
-    // 1. Master Admin Girişi (Gökhan Eker)
-    const isMasterUsername = cleanInput === 'admin' || cleanInput === 'gokhan' || cleanInput === 'gokhaneker' || cleanInput === 'admin@ekysrota.com' || cleanInput === 'gokhan@ekysrota.com';
-    if (isMasterUsername) {
+    const inputUserHash = this.sha256(cleanInput);
+    const inputPassHash = this.sha256(cleanPass);
+
+    // 1. Master Admin Girişi (SHA-256 Kriptografik Doğrulama - gokhaneker)
+    if (inputUserHash === this.MASTER_USER_HASH) {
+      if (inputPassHash !== this.MASTER_PASS_HASH) {
+        throw new Error('Yönetici şifresi hatalıdır! Lütfen şifrenizi kontrol ediniz.');
+      }
       const localUser = {
         uid: 'uid_master_admin',
-        email: cleanInput.includes('@') ? cleanInput : 'admin@ekysrota.com',
+        email: 'admin@ekysrota.com',
         displayName: 'Gökhan Eker (Yönetici)'
       };
       this.currentUser = localUser;
       this.currentUserDoc = {
         uid: localUser.uid,
+        username: cleanInput,
         email: localUser.email,
         displayName: 'Gökhan Eker (Yönetici)',
         role: 'admin',
+        authToken: this.MASTER_AUTH_TOKEN,
         createdAt: new Date().toISOString()
       };
       localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
       this.onAuthChange(this.currentUser);
       await this.syncAllDataFromCloud();
       return this.currentUser;
+    }
+
+    // Eski standart 'admin' veya 'gokhan' denemelerini engelle
+    if (cleanInput === 'admin' || cleanInput === 'gokhan' || cleanInput === 'admin@ekysrota.com' || cleanInput === 'gokhan@ekysrota.com') {
+      throw new Error('Bu kullanıcı sisteme kayıtlı değildir veya şifre hatalıdır.');
     }
 
     // 2. Bulut (Firestore custom_users) Öğrenci / Yetkili Kullanıcı Kontrolü
@@ -254,7 +378,12 @@ class FirebaseService {
         }
 
         if (uData) {
-          if (String(uData.password).trim() === cleanPass) {
+          const passMatched =
+            (uData.passwordHash && uData.passwordHash === inputPassHash) ||
+            (uData.passwordEnc && this.decodeStudentPass(uData.passwordEnc) === cleanPass) ||
+            (uData.password && String(uData.password).trim() === cleanPass);
+
+          if (passMatched) {
             const displayName = uData.displayName || uData.username || cleanInput;
             const localUser = {
               uid: 'uid_' + (uData.username || foundKey),
@@ -264,9 +393,10 @@ class FirebaseService {
             this.currentUser = localUser;
             this.currentUserDoc = {
               uid: localUser.uid,
+              username: uData.username || foundKey,
               email: localUser.email,
               displayName: displayName,
-              role: uData.role || 'student',
+              role: 'student',
               createdAt: uData.createdAt || new Date().toISOString()
             };
             localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
@@ -295,9 +425,10 @@ class FirebaseService {
       this.currentUser = localUser;
       this.currentUserDoc = {
         uid: localUser.uid,
+        username: cleanInput,
         email: localUser.email,
         displayName: displayName,
-        role: customUser.role || 'student',
+        role: 'student',
         createdAt: customUser.createdAt || new Date().toISOString()
       };
       localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
@@ -306,112 +437,16 @@ class FirebaseService {
       return this.currentUser;
     }
 
-    // 4. Firebase Auth Doğrudan E-posta Girişi (Eğer @ içeriyorsa)
-    if (cleanInput.includes('@') && this.isInitialized && this.auth) {
-      try {
-        const cred = await this.auth.signInWithEmailAndPassword(cleanInput, cleanPass);
-        this.currentUser = cred.user;
-        await this.loadUserProfile(cred.user);
-        localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
-        this.onAuthChange(this.currentUser);
-        await this.syncAllDataFromCloud();
-        return cred.user;
-      } catch (err) {
-        console.warn('Firebase email auth hatası:', err);
-      }
-    }
-
-    // 5. Tanımsız Kullanıcı Uyarısı
+    // 4. Tanımsız Kullanıcı Uyarısı
     throw new Error('Bu kullanıcı sisteme kayıtlı değildir veya şifre hatalıdır. Lütfen yöneticinizle görüşün.');
   }
 
-  async registerWithEmail(email, password, displayName = '', role = 'student') {
-    const cleanEmail = (email || '').toLowerCase();
-    const isMaster = cleanEmail.includes('admin') || cleanEmail.includes('gokhan');
-    const finalRole = isMaster ? 'admin' : role;
-    const finalName = displayName || (isMaster ? 'Gökhan Eker (Yönetici)' : cleanEmail.split('@')[0]);
-
-    if (this.isInitialized && this.auth) {
-      try {
-        const cred = await this.auth.createUserWithEmailAndPassword(email, password);
-        if (finalName) {
-          await cred.user.updateProfile({ displayName: finalName });
-        }
-        if (this.db) {
-          const userProfile = {
-            uid: cred.user.uid,
-            email: email,
-            displayName: finalName,
-            role: finalRole,
-            createdAt: new Date().toISOString(),
-            lastLoginAt: new Date().toISOString()
-          };
-          await this.db.collection('users').doc(cred.user.uid).set(userProfile, { merge: true });
-          this.currentUserDoc = userProfile;
-        }
-        this.currentUser = cred.user;
-        localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
-        this.onAuthChange(this.currentUser);
-        return cred.user;
-      } catch (err) {
-        console.warn('Firebase kayıt hatası, yerel hesap açılıyor:', err);
-      }
-    }
-
-    // Yerel Kayıt Fallback
-    const localUser = {
-      uid: 'uid_' + btoa(unescape(encodeURIComponent(email))).replace(/=/g, ''),
-      email: email,
-      displayName: finalName
-    };
-    this.currentUser = localUser;
-    this.currentUserDoc = {
-      uid: localUser.uid,
-      email: email,
-      displayName: finalName,
-      role: finalRole,
-      createdAt: new Date().toISOString()
-    };
-
-    localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
-    this.onAuthChange(this.currentUser);
-    return this.currentUser;
+  async registerWithEmail() {
+    throw new Error('Yeni kullanıcı kaydı yalnızca Yönetici tarafından yapılabilir.');
   }
 
   async loginWithGoogle() {
-    if (this.isInitialized && this.auth) {
-      try {
-        const provider = new firebase.auth.GoogleAuthProvider();
-        const result = await this.auth.signInWithPopup(provider);
-        this.currentUser = result.user;
-        await this.loadUserProfile(result.user);
-        await this.syncAllDataFromCloud();
-        localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
-        this.onAuthChange(this.currentUser);
-        return result.user;
-      } catch (err) {
-        console.warn('Google Popup hatası, Master Admin yerel oturum fallback uygulanıyor:', err);
-      }
-    }
-
-    // Google ile tek tıkla Master Admin Girişi Fallback
-    const localUser = {
-      uid: 'uid_master_admin_google',
-      email: 'gokhanekerai@gmail.com',
-      displayName: 'Gökhan Eker (Yönetici)'
-    };
-    this.currentUser = localUser;
-    this.currentUserDoc = {
-      uid: localUser.uid,
-      email: localUser.email,
-      displayName: localUser.displayName,
-      role: 'admin',
-      createdAt: new Date().toISOString()
-    };
-
-    localStorage.setItem('ekys_active_session_v3', JSON.stringify(this.currentUserDoc));
-    this.onAuthChange(this.currentUser);
-    return this.currentUser;
+    throw new Error('Lütfen yönetici tarafından tanımlanan kullanıcı adı ve şifrenizle giriş yapınız.');
   }
 
   async logout() {
@@ -430,45 +465,14 @@ class FirebaseService {
 
   async loadUserProfile(user) {
     if (!user) return;
-    try {
-      const email = (user.email || '').toLowerCase();
-      const isMasterAdmin = email === 'admin@ekysrota.com' || email === 'gokhan@ekysrota.com' || email.includes('gokhan');
-
-      if (this.db) {
-        const doc = await this.db.collection('users').doc(user.uid).get();
-        if (doc.exists) {
-          this.currentUserDoc = doc.data();
-          if (isMasterAdmin && this.currentUserDoc.role !== 'admin') {
-            this.currentUserDoc.role = 'admin';
-            await this.db.collection('users').doc(user.uid).update({ role: 'admin' });
-          }
-        } else {
-          const profile = {
-            uid: user.uid,
-            email: user.email,
-            displayName: user.displayName || (isMasterAdmin ? 'Gökhan Eker (Yönetici)' : user.email.split('@')[0]),
-            role: isMasterAdmin ? 'admin' : 'student',
-            createdAt: new Date().toISOString(),
-            lastLoginAt: new Date().toISOString()
-          };
-          await this.db.collection('users').doc(user.uid).set(profile);
-          this.currentUserDoc = profile;
-        }
-      } else {
-        this.currentUserDoc = {
-          uid: user.uid,
-          email: user.email,
-          displayName: isMasterAdmin ? 'Gökhan Eker (Yönetici)' : user.email,
-          role: isMasterAdmin ? 'admin' : 'student'
-        };
-      }
-    } catch (err) {
-      console.warn('Kullanıcı profili yüklenirken hata:', err);
-    }
   }
 
   isAdmin() {
-    return !!(this.currentUserDoc && this.currentUserDoc.role === 'admin');
+    return !!(
+      this.currentUserDoc &&
+      this.currentUserDoc.role === 'admin' &&
+      this.currentUserDoc.authToken === this.MASTER_AUTH_TOKEN
+    );
   }
 
   // --- YÖNETİCİ (ADMIN) İŞLEMLERİ: KULLANICI LİSTELE / EKLE / ÇIKAR ---
@@ -476,13 +480,15 @@ class FirebaseService {
     if (!this.db) return false;
     try {
       const uname = (userData.username || userData.email || '').trim().toLowerCase();
+      const rawPass = String(userData.password || '').trim();
       await this.db.collection('custom_users').doc(uname).set({
         username: uname,
-        password: String(userData.password || '').trim(),
+        passwordHash: this.sha256(rawPass),
+        passwordEnc: this.encodeStudentPass(rawPass),
         displayName: userData.displayName || userData.name || uname,
-        role: userData.role || 'student',
+        role: 'student',
         createdAt: userData.createdAt || new Date().toISOString()
-      }, { merge: true });
+      });
       return true;
     } catch (e) {
       console.warn('saveCustomUserCloud hatası:', e);
@@ -493,11 +499,11 @@ class FirebaseService {
   async getAllUsers() {
     const list = [{
       id: 'admin',
-      username: 'admin',
+      username: 'gokhaneker',
       email: 'admin@ekysrota.com',
       displayName: 'Gökhan Eker (Ana Yönetici)',
       role: 'admin',
-      password: '•••••••• (Özel)',
+      password: '•••••••• (SHA-256 Korumalı)',
       createdAt: new Date().toISOString()
     }];
     if (!this.db) return list;
@@ -505,14 +511,17 @@ class FirebaseService {
       const snap = await this.db.collection('custom_users').get();
       snap.forEach(doc => {
         const data = doc.data();
-        if (data && data.username && data.username !== 'admin') {
+        if (data && data.username && data.username !== 'admin' && data.username !== 'gokhaneker') {
+          const decodedPass = data.passwordEnc
+            ? this.decodeStudentPass(data.passwordEnc)
+            : (data.password || '••••••');
           list.push({
             id: doc.id,
             username: data.username,
             email: data.email || `${data.username}@ekysrota.local`,
             displayName: data.displayName || data.username,
-            role: data.role || 'student',
-            password: data.password || '••••••',
+            role: 'student',
+            password: decodedPass,
             createdAt: data.createdAt || new Date().toISOString()
           });
         }
@@ -552,7 +561,7 @@ class FirebaseService {
       if (authGateEl) authGateEl.style.display = 'none';
       if (mainAppEl) mainAppEl.style.display = 'flex';
 
-      const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+      const isUserAdmin = this.isAdmin();
       const uKey = isUserAdmin 
         ? 'master_admin' 
         : ((this.currentUserDoc && (this.currentUserDoc.username || this.currentUserDoc.displayName || this.currentUserDoc.uid)) || (user && user.uid) || 'student');
@@ -656,7 +665,7 @@ class FirebaseService {
     } catch (e) {}
 
     const data = window.storageService.exportAllData();
-    const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+    const isUserAdmin = this.isAdmin();
     const rawUid = (this.currentUser && this.currentUser.uid) ? this.currentUser.uid : (isUserAdmin ? 'uid_master_admin' : 'uid_guest');
     const email = (this.currentUser && this.currentUser.email) ? this.currentUser.email.toLowerCase() : (isUserAdmin ? 'admin@ekysrota.com' : `${rawUid}@ekysrota.local`);
     const displayName = (this.currentUser && this.currentUser.displayName) || (isUserAdmin ? 'Gökhan Eker (Yönetici)' : 'Öğrenci');
@@ -693,7 +702,7 @@ class FirebaseService {
       await this.ensureAuth();
     } catch (e) {}
 
-    const isUserAdmin = this.currentUserDoc && this.currentUserDoc.role === 'admin';
+    const isUserAdmin = this.isAdmin();
     const rawUid = (this.currentUser && this.currentUser.uid) ? this.currentUser.uid : (isUserAdmin ? 'uid_master_admin' : '');
 
     if (isUserAdmin) {

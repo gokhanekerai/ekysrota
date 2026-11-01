@@ -1,8 +1,21 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
+    match /users/{userId} {
+      allow get, create, update: if true;
+      allow list: if false;
+      allow delete: if userId != 'uid_master_admin';
+    }
+    match /custom_users/{userId} {
+      allow get, list, create, update: if true;
+      allow delete: if userId != 'admin' && userId != 'gokhaneker';
+    }
+    match /global_sync/{docId} {
+      allow get, create, update: if true;
+      allow list, delete: if false;
+    }
     match /{document=**} {
-      allow read, write: if true;
+      allow read, write: if false;
     }
   }
 }
