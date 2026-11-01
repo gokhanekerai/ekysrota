@@ -17797,9 +17797,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I. Kök Türk Devleti)",
+    "explanation": "Doğru Cevap: <strong>B (I. Kök Türk Devleti)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> İslamiyet öncesi Türk tarihinde <strong>I. Kök Türk Devleti</strong> (Bumin ve İstemi Yabgu dönemi), İpek Yolu ticaretini ele geçirmek için <em>denge siyaseti</em> izlemiştir: Önce <strong>Akhun (Eftalit) Devleti'ni yıkabilmek için Sasanilerle ittifak</strong> kurmuş; ardından Sasanilerin İpek Yolu geçişini engellemesi üzerine <strong>Sasanilere karşı Bizans İmparatorluğu ile diplomatik ve askerî ittifak</strong> yapmıştır (Maniah elçilik heyeti).<br>• <strong>Uygurlar (A):</strong> Yerleşik hayata ve Maniheizm'e geçen ilk Türk devletidir.<br>• <strong>Avarlar (C):</strong> İstanbul'u kuşatan ilk Türk devletidir.<br>• <strong>Hazarlar (D):</strong> Museviliği benimseyen ve 'Hazar Barış Çağı'nı yaşatan devlettir.<br>• <strong>Karluklar (E):</strong> 751 Talas Savaşı'nda Abbasileri destekleyip İslamiyet'i kabul eden ilk Türk boyudur.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2024_q2",
@@ -17832,9 +17833,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Divan-ı Mezalim)",
+    "explanation": "Doğru Cevap: <strong>C (Divan-ı Mezalim)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Büyük Selçuklu ve Türk-İslam devletlerinde bizzat <strong>Sultanın (hükümdarın) başkanlığında</strong> toplanan, siyasi suçları, devlet otoritesine karşı isyanları, halkın (tebaanın) üst düzey yöneticiler ve vezirler hakkındaki şikâyetlerini karara bağlayan en yüksek yargı ve idari denetim organı <strong>Divan-ı Mezalim</strong>'dir.<br>• <strong>Divan-ı İstifa (A):</strong> Devletin maliye ve bütçe işlerine bakar (Başkanı: Müstevfi).<br>• <strong>Divan-ı Arz (B):</strong> Ordunun maaş, teçhizat ve askerlik işlerine bakar (Başkanı: Emir-i Arz).<br>• <strong>Divan-ı İnşa / Tuğra (D):</strong> İç ve dış yazışmaları yürütür (Başkanı: Münşi / Tuğrai).<br>• <strong>Divan-ı İşraf (E):</strong> İdari ve mali teftiş/denetim işlerine bakar (asayiş ve yargı hariç; Başkanı: Müşrif).",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2024_q3",
@@ -17867,9 +17869,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Karesioğulları)",
+    "explanation": "Doğru Cevap: <strong>C (Karesioğulları)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Balıkesir ve Çanakkale (Mysia) dolaylarında kurulan <strong>Karesioğulları Beyliği</strong>, Orhan Bey döneminde (1345) <strong>Osmanlı Devleti'ne katılan ilk Türk beyliğidir</strong>. Bu katılım ile Anadolu Türk siyasi birliğini sağlama yolunda ilk adım atılmış, Karesi donanması ve ünlü komutanları (Hacı İlbey, Evrenos Bey, Ece Halil) Osmanlı hizmetine girerek <strong>Rumeli'ye geçişte</strong> kilit rol oynamıştır.<br>• <strong>Aydınoğulları (A):</strong> İzmir-Aydın çevresinde kurulmuş denizci beyliktir (Umur Bey).<br>• <strong>Saruhanoğulları (B):</strong> Manisa çevresinde kurulmuştur.<br>• <strong>Candaroğulları (D):</strong> Kastamonu-Sinop çevresinde kurulmuştur.<br>• <strong>Menteşeoğulları (E):</strong> Muğla çevresinde kurulmuştur.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2024_q4",
@@ -17902,9 +17905,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (İskân Politikası — İstimâlet Politikası)",
+    "explanation": "Doğru Cevap: <strong>A (İskân Politikası — İstimâlet Politikası)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı Devleti'nin Rumeli ve Balkan fetihlerinin kalıcı olmasını sağlayan iki temel siyaset vardır:<br>1. <strong>İskân (Yerleştirme) Politikası:</strong> Anadolu'daki konargöçer Türkmenlerin fethedilen Balkan topraklarına planlı biçimde yerleştirilerek bölgenin Türkleştirilmesi ve güvenliğinin sağlanmasıdır.<br>2. <strong>İstimâlet (Gönül Alma / Hoşgörü) Politikası:</strong> Fethedilen bölgelerdeki gayrimüslim yerli halka din, dil ve vicdan özgürlüğü tanınması, vergi kolaylığı sağlanması ve adaletle yaklaşılarak halkın Osmanlı yönetimine bağlılığının kazanılmasıdır.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2024_q5",
@@ -17937,9 +17941,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Nişancı)",
+    "explanation": "Doğru Cevap: <strong>C (Nişancı)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı yönetici (Askerî) sınıfı <strong>Seyfiye</strong> (askerî/yönetim), <strong>İlmiye</strong> (din, eğitim, hukuk) ve <strong>Kalemiye</strong> (bürokrasi, maliye, yazışma) olmak üzere üçe ayrılır.<br>• <strong>Nişancı (C):</strong> Padişahın ferman ve beratlarına tuğra çeken, örfi hukuku bilen ve tımar/tahrir defterlerini tutan görevli olup <strong>Kalemiye</strong> sınıfı mensubudur.<br>• <strong>Şeyhülislam (A), Kazasker (B), Kadı (D) ve Müderris (E):</strong> Medrese çıkışlı olup din (fetva), adalet (yargı) ve eğitim işlerini yürüten <strong>İlmiye (Ulema)</strong> sınıfı üyeleridir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2024_q6",
@@ -17972,9 +17977,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Meclis-i Âyan — Meclis-i Mebusan)",
+    "explanation": "Doğru Cevap: <strong>A (Meclis-i Âyan — Meclis-i Mebusan)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1876 yılında II. Abdülhamit döneminde ilan edilen Türk tarihinin ilk yazılı anayasası <strong>Kanun-i Esasi</strong> ile çift meclisli bir parlamento (<strong>Meclis-i Umumi</strong>) kurulmuştur:<br>1. <strong>Meclis-i Âyan (Heyet-i Âyan):</strong> Üyeleri doğrudan Padişah tarafından ömür boyu görev yapmak üzere seçilen üst meclistir.<br>2. <strong>Meclis-i Mebusan (Heyet-i Mebusan):</strong> Üyeleri halk tarafından iki dereceli seçimle (4 yıllığına) seçilen meclistir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2024_q7",
@@ -18007,9 +18013,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (V)",
+    "explanation": "Doğru Cevap: <strong>E (V)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'de sert karasal iklimin ve yaz yağışlarıyla yeşeren <strong>dağ çayırlarının</strong> görüldüğü <strong>Erzurum-Kars-Ardahan Platosu</strong> (haritada <strong>V numaralı</strong> Kuzeydoğu Anadolu alanı), organik madde (humus) bakımından Türkiye'nin en zengin toprağı olan koyu renkli <strong>Çernezyom (Kara Toprak)</strong> toprakların görüldüğü yerdir. Verimli olmasına rağmen yükselti ve kısa yaz süresi nedeniyle tarımsal kullanımı sınırlıdır.",
     "hasImage": true,
-    "image": "assets/questions/ekys2024_q7_map.png"
+    "image": "assets/questions/ekys2024_q7_map.png",
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2024_q8",
@@ -18042,9 +18049,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (I ve II)",
+    "explanation": "Doğru Cevap: <strong>D (I ve II)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'de 1985-1990 sonrasında nüfus artış hızının düzenli olarak gerilemesinin temel sosyoekonomik nedenleri şunlardır:<br>• <strong>I. Eğitim seviyesinin yükselmesi ve kadının iş hayatına katılması:</strong> Evlilik yaşının yükselmesine ve aile planlaması bilincinin artmasına yol açmıştır (Doğru).<br>• <strong>II. Kentleşme (şehir nüfusunun artması):</strong> Kırsalda çocuk iş gücü olarak görülürken, şehir yaşamında çocuğun bakım ve eğitim maliyetinin artması doğurganlığı azaltmıştır (Doğru).<br>• <strong>III. Tarım alanlarının azalması:</strong> Doğurganlık veya nüfus artış hızı üzerinde doğrudan belirleyici bir demografik faktör değildir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2024_q9",
@@ -18077,9 +18085,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Aydın)",
+    "explanation": "Doğru Cevap: <strong>D (Aydın)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Jeotermal enerji (sıcak su ve buhar gücü), kırıklı (horst-graben) fay hatlarının yoğun olduğu <strong>Batı Anadolu (Ege Bölgesi)</strong>'nde en yüksek potansiyele sahiptir. Türkiye'de jeotermal elektrik santrallerinin (Germencik, Kızıldere vb.) ve kaynaklarının en zengin olduğu il <strong>Aydın</strong> (ve Denizli) ilimizdir. Sinop ve Kastamonu'da aktif fay hattı ve jeotermal potansiyel oldukça düşüktür.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2024_q10",
@@ -18112,9 +18121,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kayseri)",
+    "explanation": "Doğru Cevap: <strong>A (Kayseri)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> <strong>Konya Ovası Projesi (KOP)</strong> kapsamındaki 8 il şunlardır: <strong>Konya, Karaman, Aksaray, Niğde</strong> (ilk 4 il) ile sonradan dahil edilen <strong>Nevşehir, Kırşehir, Kırıkkale ve Yozgat</strong>'tır.<br>• <strong>Kayseri (A):</strong> KOP kapsamında yer almaz. *(Sınav İpucu: KOP illeri arasında İç Anadolu'nun büyük merkezlerinden Ankara, Eskişehir, Sivas ve Kayseri bulunmaz).* ",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2024_q11",
@@ -18147,9 +18157,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)",
+    "explanation": "Doğru Cevap: <strong>E (I, II ve III)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 124. maddesine göre; <strong>Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri</strong> kendi görev alanlarını ilgilendiren kanunların ve Cumhurbaşkanlığı kararnamelerinin uygulanmasını sağlamak üzere <strong>yönetmelik</strong> çıkarabilirler.<br>• <strong>I. Tokat Barosu:</strong> Kamu kurumu niteliğinde meslek kuruluşu olup kamu tüzel kişiliğine sahiptir.<br>• <strong>II. Gazi Üniversitesi:</strong> Hizmet yönünden yerinden yönetim kuruluşu olup kamu tüzel kişiliğine sahiptir.<br>• <strong>III. Yozgat Belediyesi:</strong> Mahalli idare (yerel yönetim) olup kamu tüzel kişiliğine sahiptir.<br>Dolayısıyla her üç kurum da <strong>kamu tüzel kişisi</strong> olduğu için yönetmelik çıkarabilir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Yurttaşlık"
   },
   {
     "id": "ekys_2024_q12",
@@ -18184,7 +18195,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Kar erimeleri ve toprak suya doygunluğunun artması)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2024_q13",
@@ -18217,9 +18229,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Anayasa — Kanun / CBK — Yönetmelik — Genelge)",
+    "explanation": "Doğru Cevap: <strong>A (Anayasa — Kanun / CBK — Yönetmelik — Genelge)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Hans Kelsen tarafından sistemleştirilen <strong>Normlar Hiyerarşisi (Hukuk Düzeni Piramidi)</strong>'nde alt kademedeki norm, üst kademedeki norma aykırı olamaz. Türk hukuk sisteminde üstten alta doğru sıralama şöyledir:<br>1. <strong>Anayasa</strong> (En üst norm)<br>2. <strong>Kanun</strong>, Milletlerarası Antlaşmalar ve Olağanüstü Hal CBK<br>3. <strong>Cumhurbaşkanlığı Kararnamesi (CBK)</strong><br>4. <strong>Yönetmelik</strong><br>5. <strong>Adsız Düzenleyici İşlemler</strong> (Yönerge, Genelge, Tebliğ, Sirküler).<br>*(Not: 2017 Anayasa değişikliği ile Tüzük kaldırılmıştır).* ",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Yurttaşlık"
   },
   {
     "id": "ekys_2024_q14",
@@ -18254,7 +18267,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Yurttaşlık"
   },
   {
     "id": "ekys_2024_q15",
@@ -18289,7 +18303,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Gordion)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Güncel"
   },
   {
     "id": "ekys_2024_q16",
@@ -18324,7 +18339,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (İMECE)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Güncel"
   },
   {
     "id": "ekys_2024_q17",
@@ -18359,7 +18375,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Samsun Raporu)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q18",
@@ -18394,7 +18411,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Amaç ve Yöntemini)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q19",
@@ -18429,7 +18447,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (Ulusal egemenlik / Hükümet sistemi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q20",
@@ -18464,7 +18483,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (I. İnönü Muharebesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q21",
@@ -18499,7 +18519,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Sakarya Meydan Muharebesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q22",
@@ -18534,7 +18555,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Saltanatın kaldırılması)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q23",
@@ -18569,7 +18591,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Terakkiperver Cumhuriyet Fırkası)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q24",
@@ -18604,7 +18627,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Türkiye'deki tüm eğitim ve öğretim kurumları Millî Eğitim Bakanlığına bağlanmıştır.)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q25",
@@ -18639,7 +18663,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Kabotaj Kanunu)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q26",
@@ -18674,7 +18699,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Halkçılık)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q27",
@@ -18709,7 +18735,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Montrö Boğazlar Sözleşmesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q28",
@@ -18744,7 +18771,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Hatay)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2024_q29",
@@ -18779,7 +18807,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Lawrence Kohlberg)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Değerler Eğitimi ve Etik"
   },
   {
     "id": "ekys_2024_q30",
@@ -18814,7 +18843,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Seçme — Ödüllendirme/Değer Verme — Davranışa Dönüştürme (Eylem))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Değerler Eğitimi ve Etik"
   },
   {
     "id": "ekys_2024_q31",
@@ -18849,7 +18879,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Kişisel ve siyasi çıkarlar doğrultusunda takdir yetkisini esnetme)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Değerler Eğitimi ve Etik"
   },
   {
     "id": "ekys_2024_q32",
@@ -18884,7 +18915,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Cumhurbaşkanı, TBMM üyeleri, Bakanlar ve Yargı Mensupları)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Değerler Eğitimi ve Etik"
   },
   {
     "id": "ekys_2024_q33",
@@ -18919,7 +18951,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Bilişsel Çıraklık / İskele Kurma (Scaffolding))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>İskele Kurma (Scaffolding) ve Bilişsel Çıraklık:</strong> Vygotsky'nin <em>Yakınsak Gelişim Alanı (ZPD)</em> kuramına dayanır. Öğrencinin tek başına yapamadığı ancak bir uzman veya öğretmenin rehberliğiyle başarabileceği görevlerde, başlangıçta yoğun destek sunulması; öğrenci ustalaşıp bağımsızlaştıkça bu desteğin tıpkı inşaat bittiğinde sökülen bir iskele gibi <strong>kademeli olarak geri çekilmesi</strong> sürecidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Programlı Öğretim (B):</strong> Skinner'ın edimsel koşullanmasına dayanır; KEBAB ilkeleriyle (Küçük adımlar, Etkin katılım, Başarı, Anında düzeltme, Bireysel hız) içeriğin parçalanarak sunulmasıdır.<br>• <strong>Tam Öğrenme (C):</strong> Bloom'un modelidir; uygun koşullar ve ek zaman sağlandığında tüm öğrencilerin (%70-%90 ölçütünde) öğrenebileceğini savunur.<br>• <strong>Basamaklı Öğretim (D):</strong> Nunley'in modelidir; öğrencilerin C (bilgi), B (uygulama) ve A (üst düzey düşünme) basamaklarından kendi seviyelerine uygun görev seçmesine dayanır.<br>• <strong>Beyin Temelli Öğrenme (E):</strong> Caine & Caine'in nörofizyolojik ilkelere dayalı, dikkat, duygu ve anlam arayışını merkeze alan yaklaşımıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Soru kökünde <em>'başlangıçta yoğun destek / ipucu verme, öğrenci bağımsızlaştıkça desteği yavaş yavaş (kademeli) çekme'</em> ifadeleri geçtiğinde doğrudan <strong>İskele Kurma (Scaffolding) / Bilişsel Çıraklık</strong> işaretlenmelidir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2024_q34",
@@ -18954,7 +18987,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (Değerlendirme)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Değerlendirme (Evaluating):</strong> Anderson ve Krathwohl tarafından güncellenen <em>Yenilenmiş Bloom Bilişsel Alan Taksonomisi</em>'nde 5. basamaktır. Bir ürünün, politikanın, yöntemin veya fikrin güçlü ve zayıf yönlerini <strong>belirli ölçütlere (kriterlere) ve standartlara dayanarak eleştirme, kontrol etme ve değer yargısına varma</strong> sürecidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Hatırlama (A):</strong> Bilgiyi uzun süreli bellekten olduğu gibi geri çağırma, tanıma ve sıralama (en alt basamak).<br>• <strong>Anlama (B):</strong> Bilgiyi kendi cümleleriyle açıklama, yorumlama, örneklendirme ve özetleme.<br>• <strong>Uygulama (C):</strong> Öğrenilen kural, ilke veya yöntemi yeni bir durumda ya da problem çözümünde kullanma.<br>• <strong>Yaratma (E):</strong> Yenilenmiş taksonominin en üst (6.) basamağıdır; parçaları özgün ve yeni bir bütün/ürün oluşturacak şekilde birleştirme (eski taksonomideki Sentez).<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Eski Bloom taksonomisinde en üst basamak <em>Değerlendirme</em> iken, <strong>Yenilenmiş Bloom Taksonomisi'nde</strong> sıralama <em>Hatırlama → Anlama → Uygulama → Çözümleme (Analiz) → Değerlendirme → Yaratma</em> şeklindedir. Ölçüte göre eleştirme ve yargıda bulunma her zaman <strong>Değerlendirme</strong> basamağıdır.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2024_q35",
@@ -18989,7 +19023,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Örtük Program (Gizil Program))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Örtük (Gizil) Program:</strong> Posner'ın program sınıflamasında yazılı ve resmî belgelerde yer almayan; ancak okulun demokratik veya otoriter iklimi, idareci ve öğretmenlerin tutumları, sınıf içi etkileşim biçimleri, mimari düzen ve okul kültürü aracılığıyla öğrencilere <strong>farkında olmadan veya dolaylı yoldan kazandırılan</strong> norm, değer, inanç ve alışkanlıkların bütünüdür.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Resmî Program (A):</strong> MEB/TTKB tarafından yazılı olarak hazırlanan ve hukuki bağlayıcılığı olan çerçeve ve öğretim programlarıdır.<br>• <strong>İhmal Edilen (Görmezden Gelinen / Geçersiz) Program (C):</strong> Resmî programda yer aldığı halde sınavda çıkmadığı, zaman yetmediği veya öğretmen gereksiz gördüğü için atlanan, işlenmeyen konulardır.<br>• <strong>Ekstra (Fazladan) Program (D):</strong> Resmî programın dışında ancak okulun bilgisi ve planlaması dahilinde yürütülen sportif, sanatsal, kültürel kulüp ve gezi etkinlikleridir.<br>• <strong>Desteklenen Program (E):</strong> Programın uygulanması için sağlanan ders kitabı, laboratuvar, bütçe, zaman ve personel gibi fiziki/maddi kaynaklardır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>'Okul iklimi, okul kültürü, öğretmenlerin rol model olması, yazılı olmayan kurallar'</em> anahtar kelimeleri <strong>Örtük Programı</strong>; <em>'planlı ders dışı kulüp/turnuva etkinlikleri'</em> ise <strong>Ekstra Programı</strong> işaret eder.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2024_q36",
@@ -19024,7 +19059,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Tüm öğrencilerin gelişimini hedefler, önleyici ve proaktiftir.)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Kapsamlı Gelişimsel Rehberlik Programı (KGRP):</strong> Çağdaş rehberlik anlayışının temelini oluşturur. Yalnızca sorunlu veya kriz yaşayan öğrencilere değil, <strong>okuldaki tüm öğrencilere</strong> yöneliktir. Temel felsefesi; öğrencilerin içinde bulundukları gelişim döneminin görevlerini (akademik, kariyer ve sosyal-duygusal gelişim alanlarında) başarıyla yerine getirmelerini sağlamak, <strong>önleyici (proaktif)</strong> ve gelişimsel bir yaklaşımla yeterlik kazandırmaktır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A ve C şıkları:</strong> Sadece kriz, problem veya başarısızlık yaşayanlara odaklanmak <em>Geleneksel (Kriz Odaklı / Çare Bulucu)</em> rehberlik anlayışının özelliğidir.<br>• <strong>D şıkkı:</strong> Kapsamlı gelişimsel rehberlikte sadece psikolojik danışman değil; okul müdürü, sınıf rehber öğretmenleri, branş öğretmenleri ve veliler iş birliği içinde rol alır.<br>• <strong>E şıkkı:</strong> Rehberlik hiçbir zaman öğrenciyi eleyen, yargılayan veya etiketleyen bir mekanizma değildir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Gelişimsel rehberlik; <strong>tüm öğrencilere</strong> yöneliktir, <strong>süreklidir</strong>, <strong>önleyici (proaktif)</strong> niteliktedir, öğretim programıyla kaynaşıktır ve <strong>iş birliği</strong> gerektirir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2024_q37",
@@ -19059,7 +19095,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Probleme Dayalı Öğrenme (PDÖ))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Probleme Dayalı Öğrenme (PDÖ):</strong> John Dewey'nin ilerlemecilik felsefesine ve yapılandırmacı yaklaşıma dayanır. Öğrenme sürecinin merkezine <strong>gerçek yaşamdan alınmış, tek bir doğru cevabı olmayan, karmaşık (yapılandırılmamış) ve merak uyandırıcı bir problem senaryosu</strong> yerleştirilir. Öğrenciler küçük iş birlikli gruplar halinde problemi tanımlar, bilgi toplar, hipotez kurar ve bilimsel problem çözme basamaklarını kullanarak çözüm önerileri geliştirir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Doğrudan Öğretim (B) ve Sunuş Yoluyla Öğretim (C):</strong> Öğretmen merkezlidir; kavram ve ilkeler öğretmen tarafından yapılandırılarak açıklanır.<br>• <strong>Ezber Dayalı Öğretim (D):</strong> Bilginin anlamlandırılmadan mekanik tekrarla belleğe alınmasıdır; çağdaş yaklaşımlara tamamen aykırıdır.<br>• <strong>Tam Öğrenme (E):</strong> Sınıf içi öğretimde izleme testleri ve tamamlayıcı öğretimle tüm sınıfı hedef ölçüte ulaştırma modelidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>Proje Tabanlı Öğrenme</em> sonunda mutlaka somut bir <strong>ürün/eser/sergi</strong> ortaya konulurken; <em>Probleme Dayalı Öğrenme (PDÖ)</em>'de odak noktası gerçek yaşam probleminin <strong>çözüm süreci ve araştırma basamaklarıdır</strong>.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2024_q38",
@@ -19094,7 +19131,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Geçerlik)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Geçerlik (Validity):</strong> Bir ölçme aracının <strong>hizmet주 (amaca) uygunluk</strong> derecesidir; yani ölçmek istediği özelliği, başka hiçbir özellikle (örneğin matematik bilgisini ölçerken okuma hızı veya yazı güzelliğiyle) karıştırmadan <strong>tam ve doğru olarak ölçebilme</strong> niteliğidir. Bir ölçme aracında aranan en önemli nitelik geçerliktir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Güvenirlik (A):</strong> Ölçme sonuçlarının tesadüfi hatalardan arınıklık, kararlılık, tutarlılık ve duyarlılık derecesidir.<br>• <strong>Kullanışlılık (C):</strong> Ölçme aracının hazırlanması, uygulanması ve puanlanmasının ekonomik (zaman, emek, maliyet açısından pratik) olmasıdır.<br>• <strong>Objektiflik (D):</strong> Puanlamanın puanlayıcı öznelliğinden bağımsız olması, farklı puanlayıcıların aynı kağıda aynı puanı vermesidir.<br>• <strong>Standart Sapma (E):</strong> Puanların aritmetik ortalamadan ne kadar uzaklaştığını gösteren merkezi dağılım (yayılım) ölçüsüdür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>'Başka değişkenlerle karıştırmadan amaca uygun ölçme'</em> = <strong>Geçerlik</strong> (Sabit, sistematik ve tesadüfi tüm hatalardan etkilenir). <em>'Tesadüfi hatalardan arınık ve tutarlı ölçme'</em> = <strong>Güvenirlik</strong>.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2024_q39",
@@ -19129,7 +19167,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Öğrenme eksikliklerini ve kavram yanılgılarını belirleyip geri bildirim sağlamak)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Biçimlendirici (Formatif / İzlemeye Yönelik) Değerlendirme:</strong> Öğretim süreci devam ederken (ünite veya ders esnasında) yapılır. Temel amacı öğrenciye geçme-kalma notu vermek değil; <strong>öğrenme eksikliklerini, güçlüklerini ve kavram yanılgılarını zamanında tespit ederek</strong> hem öğrenciye hem öğretmene yapıcı geri bildirim (dönüt-düzeltme) sağlamak ve öğretimi iyileştirmektir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A ve D şıkları:</strong> Geçme-kalma notu vermek veya diploma derecesi belirlemek öğretim sonunda yapılan <em>Düzey Belirleyici (Summatif / Değer Biçmeye Yönelik)</em> değerlendirmenin işlevidir.<br>• <strong>C ve E şıkları:</strong> Öğrencileri sıralamak ve seçmek <em>Tanılayıcı/Seçmeye Yönelik (Norm Dayanaklı)</em> sınavların işlevidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Değerlendirme amacına göre üçe ayrılır:<br>1. Süreç başında → <strong>Tanılayıcı (Diagnostik)</strong>: Hazırbulunuşluk ve muafiyet.<br>2. Süreç içinde → <strong>Biçimlendirici (Formatif)</strong>: İzleme testi, eksikleri tamamlama (not verilmez!).<br>3. Süreç sonunda → <strong>Düzey Belirleyici (Summatif)</strong>: Erişi testi, not ve sertifika verme.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2024_q40",
@@ -19164,7 +19203,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Farkındalık / Her Yerde Olma (Withitness))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Farkındalık / Şahitlik / Her Yerde Olma (Withitness):</strong> Jacob Kounin'in sınıf yönetimi araştırmalarında ortaya koyduğu kavramdır. Öğretmenin adeta <em>'ensesinde gözü varmış gibi'</em> sınıfın her köşesinde olup bitenden haberdar olması, bunu öğrencilere hissettirmesi ve olası disiplin sorunlarını daha büyümeden fark edip önlemesidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Grup Odağı (Group Focus) (B):</strong> Öğretmenin sınıf içindeki tek bir öğrenciyle ilgilenirken bile tüm sınıfın dikkatini ve katılımını ders üzerinde tutabilmesidir.<br>• <strong>Doygunluk ve Hız (Momentum) (C):</strong> Dersin akış hızının, temposunun öğrencileri sıkmayacak ve koparmayacak biçimde ayarlanmasıdır.<br>• <strong>Pürüzsüzlük (Smoothness) (D):</strong> Dersin gereksiz bölünmeler, konu dışına çıkmalar veya ani geçişler olmadan akıcı bir şekilde sürdürülmesidir.<br>• <strong>Binişiklik / Çoklu Görev (Overlapping) (E):</strong> Öğretmenin dersin akışını bozmadan aynı anda iki veya daha fazla işle (örneğin bir yandan konuyu anlatırken diğer yandan konuşan öğrencinin yanına yaklaşarak uyarması) ilgilenebilmesidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Kounin'in kavramlarından <strong>Withitness (Şahitlik/Farkındalık)</strong> sınıftaki her şeyden haberdar olmayı; <strong>Overlapping (Binişiklik)</strong> aynı anda birden fazla işi dersi kesmeden yürütmeyi; <strong>Ripple Effect (Dalga Etkisi)</strong> ise bir öğrenciye yapılan uyarının diğer öğrencileri de etkilemesini ifade eder.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2024_q41",
@@ -19199,7 +19239,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Planlama — Örgütleme — Yöneltme (Emir-Komuta) — Koordinasyon — Kontrol (Denetim))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q42",
@@ -19234,7 +19275,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Kişisel ve sübjektif ilişkilere dayalı terfi ve görevlendirme)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q43",
@@ -19269,7 +19311,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Okul paydaşlarına ilham veren bir vizyon sunarak onları ortak amaçlar etrafında motive etmek ve değişimi yönetmek)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q44",
@@ -19304,7 +19347,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Öğretimsel Liderlik (Instructional Leadership))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q45",
@@ -19339,7 +19383,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Dağıtımcı / Paylaşılan Liderlik (Distributed Leadership))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q46",
@@ -19374,7 +19419,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Başarı, tanınma, sorumluluk alma ve kişisel gelişim)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q47",
@@ -19409,7 +19455,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Örgüt Kültürü (Okul Kültürü))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q48",
@@ -19444,7 +19491,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Uzlaşma (Ödün Verme / Compromising))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q49",
@@ -19479,7 +19527,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Gözlem Öncesi Görüşme — Sınıf İçi Gözlem — Analiz ve Strateji — Gözlem Sonrası Görüşme — Değerlendirme)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q50",
@@ -19514,7 +19563,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Güçlü Yönler (Strengths))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q51",
@@ -19549,7 +19599,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (C Şubesi)",
     "hasImage": true,
-    "image": "assets/questions/ekys2024_q51_graph.png"
+    "image": "assets/questions/ekys2024_q51_graph.png",
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q52",
@@ -19584,7 +19635,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Çalışanların uygun koşullar sağlandığında işten zevk alacağına, yaratıcı ve sorumluluk sahibi olabileceğine inanarak yetki devretmek)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q53",
@@ -19619,7 +19671,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Planla — Uygula — Kontrol Et — Önlem Al)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q54",
@@ -19654,7 +19707,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Yukarıdan Aşağıya İletişim)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q55",
@@ -19689,7 +19743,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Halo (Hale) Etkisi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q56",
@@ -19724,7 +19779,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Okul İklimi (Örgütsel İklim))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q57",
@@ -19759,7 +19815,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Yönlendirici (Direktif) Yaklaşım)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q58",
@@ -19794,7 +19851,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Etkileme / Liderlik)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q59",
@@ -19829,7 +19887,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Misyon)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q60",
@@ -19864,7 +19923,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Mentorluk (Mentoring))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q61",
@@ -19899,7 +19959,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Kurumdan ayrılmanın getireceği maddi/manevi maliyet ve alternatif iş bulma zorluğu sebebiyle kurumda kalma zorunluluğu hissetme)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q62",
@@ -19934,7 +19995,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Sakin, kararlı, şeffaf ve doğru bilgi akışını sağlayarak can güvenliğini ön planda tutan bir eylem planını devreye sokmak)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q63",
@@ -19969,7 +20031,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (Öğretmenleri sürekli cezalandırma tehdidiyle çalıştırmak)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q64",
@@ -20004,7 +20067,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Katılımcı (Demokratik) Karar Verme)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2024_q65",
@@ -20037,9 +20101,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (5)",
+    "explanation": "Doğru Cevap: <strong>C (5)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 77. maddesine (2017 değişikliği) göre; <strong>Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri 5 yılda bir aynı günde</strong> yapılır. Süresi biten milletvekili yeniden seçilebilir; bir kimse en fazla iki defa Cumhurbaşkanı seçilebilir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q66",
@@ -20072,9 +20137,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (15 üye — 12 yıl)",
+    "explanation": "Doğru Cevap: <strong>A (15 üye — 12 yıl)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 146. ve 147. maddelerine göre:<br>• <strong>Anayasa Mahkemesi (AYM) 15 üyeden</strong> kurulur (<strong>12 üyeyi Cumhurbaşkanı, 3 üyeyi TBMM</strong> seçer).<br>• AYM üyeleri <strong>12 yıl</strong> için seçilirler. Bir kimse <strong>iki defa Anayasa Mahkemesi üyesi seçilemez</strong> ve üyeler 65 yaşını doldurunca emekliye ayrılırlar.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q67",
@@ -20109,7 +20175,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (10 gün)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q68",
@@ -20144,7 +20211,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Uyarma)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q69",
@@ -20179,7 +20247,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Genellik ve Eşitlik)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q70",
@@ -20214,7 +20283,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (Öğretmenlik kariyer basamakları sadece hizmet yılına göre otomatik olarak kazanılır.)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q71",
@@ -20249,7 +20319,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (6-14 yaş)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q72",
@@ -20284,7 +20355,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E</strong> (Yukarıdakilerin hepsi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q73",
@@ -20319,7 +20391,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Bakanlıklarda Bakan, diğer kamu idarelerinde en üst yönetici, il özel idarelerinde vali, belediyelerde belediye başkanı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q74",
@@ -20354,7 +20427,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Kaymakam)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q75",
@@ -20389,7 +20463,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (4 yılda bir)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q76",
@@ -20424,7 +20499,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Vali)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q77",
@@ -20459,7 +20535,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (30 gün)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q78",
@@ -20494,7 +20571,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Talim ve Terbiye Kurulu Başkanlığı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q79",
@@ -20529,7 +20607,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Temel Eğitim Genel Müdürlüğü)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2024_q80",
@@ -20564,7 +20643,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Türkiye Büyük Millet Meclisi Genel Sekreteri)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q1",
@@ -20597,9 +20677,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)",
+    "explanation": "Doğru Cevap: <strong>E (I, II ve III)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> İslamiyet öncesi Türk devletlerinde kağanın eşi olan <strong>Katun (Hatun)</strong> devlet yönetiminde geniş yetkilere sahipti:<br>• <strong>I.</strong> Yabancı elçilerin kabul törenlerinde kağanın yanında yer alırdı (Doğru).<br>• <strong>II.</strong> Devlet işlerinin görüşüldüğü Kurultay (Toy) toplantılarına katılıp oy kullanabilirdi (Doğru).<br>• <strong>III.</strong> Kağan seferde olduğunda veya öldüğünde küçük yaştaki tigin büyüyene kadar devlete ve kurultaya naiplik (vekillik) ederek yönetirdi (Doğru).",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2023_q2",
@@ -20632,9 +20713,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Nizamiye Medreseleri)",
+    "explanation": "Doğru Cevap: <strong>A (Nizamiye Medreseleri)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Büyük Selçuklu Devleti döneminde Sultan Alparslan ve Melikşah'ın ünlü veziri <strong>Nizamülmülk</strong> tarafından başta Bağdat olmak üzere Nişabur, Belh ve İsfahan'da kurulan <strong>Nizamiye Medreseleri</strong>, dönemin ilk üniversitesi niteliğindedir. Temel amacı devlet memuru/kadı yetiştirmek ve Batınilik/Şiilik faaliyetlerine karşı Sünni İslam düşüncesini ilmî olarak savunmaktır.<br>• <strong>Sahn-ı Seman (B):</strong> Fatih Sultan Mehmet'in İstanbul'da kurduğu Osmanlı medresesidir.<br>• <strong>Yağıbasan (E):</strong> Danişmentlilerin Tokat Niksar'da kurduğu Anadolu'nun ilk medresesidir.<br>• <strong>Cacabey (C) ve Karatay (D):</strong> Anadolu Selçuklu dönemi medreseleridir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2023_q3",
@@ -20667,9 +20749,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Enderun Mektebi)",
+    "explanation": "Doğru Cevap: <strong>B (Enderun Mektebi)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı Devleti'nde devşirme sistemiyle alınan zeki ve yetenekli çocukların Acemi Ocağı eğitiminden sonra sarayda üst düzey mülki ve askerî yönetici (sadrazam, vezir, sancakbeyi) ve sanatkâr olarak yetiştirildiği saray okulu <strong>Enderun Mektebi</strong>'dir. II. Murad döneminde Edirne Sarayı'nda temeli atılmış, Fatih Sultan Mehmet döneminde Topkapı Sarayı'nda kurumsallaşmıştır.<br>• <strong>Şehzade Mektebi (A):</strong> Şehzadelerin ilköğretim gördüğü saray okuludur.<br>• <strong>Hendesehâne (C):</strong> I. Mahmut döneminde açılan ilk Batı tarzı askerî teknik okuldur.<br>• <strong>Mekteb-i Mülkiye (D):</strong> 1859'da Abdülmecid döneminde sivil memur yetiştirmek için açılmıştır.<br>• <strong>Darülmuallimin (E):</strong> 1848'de açılan ilk erkek öğretmen okuludur.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2023_q4",
@@ -20702,9 +20785,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Mukataa Arazi)",
+    "explanation": "Doğru Cevap: <strong>B (Mukataa Arazi)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı toprak düzeninde mirî arazinin bölümlerinden:<br>• <strong>Mukataa Arazi (B):</strong> Gelirleri hiçbir görevliye dirlik olarak verilmeyip doğrudan devlet hazinesine (Hazine-i Âmire) aktarılan ve vergileri <strong>iltizam usulüyle (açık artırma/ihale ile mültezimlere verilerek)</strong> toplanan arazilerdir.<br>• <strong>Vakıf (A):</strong> Geliri hayır ve sosyal kurumlara ayrılan arazidir.<br>• <strong>Yurtluk (C) ve Ocaklık (D):</strong> Geliri sınır boylarındaki beylere ve kale muhafızlarına/tersane giderlerine ayrılan arazidir.<br>• <strong>Paşmaklık (E):</strong> Geliri padişahın annesi, eşleri ve kızlarına ayrılan arazidir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2023_q5",
@@ -20739,7 +20823,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Padişahın kendi yetkilerini sınırlandırarak kanun üstünlüğünü (hukukun üstünlüğü) resmen kabul etmesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Tarih"
   },
   {
     "id": "ekys_2023_q6",
@@ -20774,7 +20859,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (III numaralı alanda rüzgâr etkisiyle oluşan yeryüzü şekilleri yaygındır.)",
     "hasImage": true,
-    "image": "assets/questions/ekys2023_q6_map.png"
+    "image": "assets/questions/ekys2023_q6_map.png",
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2023_q7",
@@ -20807,9 +20893,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Maki)",
+    "explanation": "Doğru Cevap: <strong>A (Maki)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'de Akdeniz iklim kuşağının asli (klimaks) bitki örtüsü <strong>kızılçam ormanlarıdır</strong>. Kızılçam ormanlarının insanlar tarafından tahrip edilmesiyle ortaya çıkan, yaz kuraklığına dayanıklı, kısa boylu, cilalı/sert yapraklı ve her mevsim yeşil kalan çalı topluluğuna <strong>Maki</strong> (zeytin, defne, mersin, zakkum, keçiboynuzu, kocayemiş) denir.<br>• <strong>Garig / Frigana (B):</strong> Makilerin tahrip edilmesiyle oluşan dikenli küçük çalılardır (lavanta, kekik, süpürge çalısı).<br>• <strong>Psödömaki (C):</strong> Karadeniz kıyılarında ormanların tahribiyle oluşan yalancı makidir (fındık, şimşir, muşmula).<br>• <strong>Antropojen Bozkır (D):</strong> İç bölgelerde kurakçıl ormanların tahribiyle oluşan bozkırdır.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2023_q8",
@@ -20842,9 +20929,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Dağınık Yerleşme)",
+    "explanation": "Doğru Cevap: <strong>B (Dağınık Yerleşme)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'de kırsal yerleşme dokusunu belirleyen iki temel etken <strong>arazinin engebe durumu</strong> ve <strong>su kaynaklarının bolluğudur</strong>:<br>• <strong>Dağınık Yerleşme (B):</strong> Arazinin dağlık ve engebeli, tarım alanlarının parçalı ve küçük, su kaynaklarının ise bol olduğu <strong>Doğu ve Batı Karadeniz</strong> kıyılarında evlerin birbirinden uzak kurulduğu yerleşme tipidir.<br>• <strong>Toplu Yerleşme (A):</strong> Düz arazilerin geniş, su kaynaklarının kısıtlı olduğu İç Anadolu ve Güneydoğu Anadolu'da evlerin su başında toplandığı yerleşme tipidir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2023_q9",
@@ -20877,9 +20965,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Demir — Batman)",
+    "explanation": "Doğru Cevap: <strong>E (Demir — Batman)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'de maden yatakları eşleştirmelerinde:<br>• <strong>Demir (E):</strong> Başlıca <strong>Sivas (Divriği) ve Malatya (Hekimhan - Hasançelebi)</strong>'de çıkarılır. <strong>Batman (Raman, Garzan)</strong> ise demir değil, Türkiye'de <strong>petrol</strong> çıkarımı ve rafinerisi ile öne çıkan ilimizdir.<br>• Diğer seçeneklerdeki <strong>Boksit — Konya Seydişehir (A)</strong>, <strong>Bakır — Artvin Murgul (B)</strong>, <strong>Krom — Elazığ Guleman (C)</strong> ve <strong>Bor — Eskişehir Seyitgazi/Kırka (D)</strong> eşleştirmeleri tamamen doğrudur.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2023_q10",
@@ -20912,9 +21001,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kastamonu — Çankırı)",
+    "explanation": "Doğru Cevap: <strong>A (Kastamonu — Çankırı)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Batı Karadeniz'i İç Anadolu'ya bağlayan Ilgaz Dağları üzerinde inşa edilen <strong>Ilgaz 15 Temmuz İstiklal Tüneli</strong>, <strong>Kastamonu ile Çankırı</strong> illeri arasında yer almaktadır.<br>• <strong>Trabzon — Gümüşhane (B):</strong> Zigana Tüneli.<br>• <strong>Rize — Erzurum (C):</strong> Ovit Tüneli.<br>• <strong>Artvin Hopa — Borçka:</strong> Cankurtaran Tüneli.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Coğrafya"
   },
   {
     "id": "ekys_2023_q11",
@@ -20949,7 +21039,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Devlet gücüyle desteklenmiş maddi yaptırımlı (müeyyideli) olması)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Yurttaşlık"
   },
   {
     "id": "ekys_2023_q12",
@@ -20982,9 +21073,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Milletvekilleri)",
+    "explanation": "Doğru Cevap: <strong>B (Milletvekilleri)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 88. maddesine göre (2017 Anayasa değişikliği sonrasında): <strong>Kanun teklif etmeye yalnız milletvekilleri yetkilidir.</strong><br>⚠️ <strong>Önemli Sınav Tuzağı:</strong> 2017 değişikliği ile Bakanlar Kurulu ve 'kanun tasarısı' kavramı kaldırılmıştır. Tek istisna olarak <strong>Bütçe ve Kesinhesap Kanun Tekliflerini</strong> TBMM'ye sunma yetkisi <strong>Cumhurbaşkanına</strong> aittir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Yurttaşlık"
   },
   {
     "id": "ekys_2023_q13",
@@ -21017,9 +21109,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (13 üye — 2 daire)",
+    "explanation": "Doğru Cevap: <strong>A (13 üye — 2 daire)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 159. maddesine (2017 değişikliği) göre <strong>Hâkimler ve Savcılar Kurulu (HSK)</strong>:<br>• <strong>13 üyeden</strong> oluşur ve <strong>2 daire</strong> halinde çalışır.<br>• Kurulun Başkanı <strong>Adalet Bakanıdır</strong>; Adalet Bakanlığı Müsteşarı (Bakan Yardımcısı) kurulun doğal üyesidir.<br>• Kalan 11 üyenin <strong>4'ünü Cumhurbaşkanı</strong>, <strong>7'sini TBMM</strong>4 yıl için seçer (süresi biten üye bir kez daha seçilebilir).",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Yurttaşlık"
   },
   {
     "id": "ekys_2023_q14",
@@ -21054,7 +21147,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Anayasa Mahkemesi (Sayıştay yardımıyla) — Anayasa Mahkemesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Yurttaşlık"
   },
   {
     "id": "ekys_2023_q15",
@@ -21089,7 +21183,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Gemlik)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Güncel"
   },
   {
     "id": "ekys_2023_q16",
@@ -21124,7 +21219,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (2023)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Genel Kültür - Güncel"
   },
   {
     "id": "ekys_2023_q17",
@@ -21159,7 +21255,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "D",
     "explanation": "Doğru Cevap: <strong>D</strong> (Trabzon)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q18",
@@ -21194,7 +21291,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Hem vatanın bağımsızlığını sağlamak hem de millet egemenliğine dayalı bir yönetim kurmak)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q19",
@@ -21229,7 +21327,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q20",
@@ -21264,7 +21363,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Gümrü Antlaşması)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q21",
@@ -21299,7 +21399,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Tekâlif-i Milliye Emirleri)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q22",
@@ -21334,7 +21435,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (İsmet İnönü)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q23",
@@ -21369,7 +21471,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Irak Sınırı (Musul Meselesi))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q24",
@@ -21404,7 +21507,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E</strong> (Milletvekili seçme ve seçilme hakkı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q25",
@@ -21439,7 +21543,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Devletçilik)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q26",
@@ -21474,7 +21579,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Balkan Antantı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q27",
@@ -21509,7 +21615,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Nutuk)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q28",
@@ -21544,7 +21651,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Barışçılık ve uluslararası hukuka saygı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "İnkılap Tarihi"
   },
   {
     "id": "ekys_2023_q29",
@@ -21579,7 +21687,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (İtaat ve Ceza Eğilimi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Değerler Eğitimi ve Etik"
   },
   {
     "id": "ekys_2023_q30",
@@ -21614,7 +21723,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Kurum bütçesinden karşılanan ve tanıtım amacıyla dağıtılan kitap, ajanda, takvim ve plaketler)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Değerler Eğitimi ve Etik"
   },
   {
     "id": "ekys_2023_q31",
@@ -21649,7 +21759,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Herkese hak ettiği şekilde, liyakat, tarafsızlık ve eşitlik ilkeleriyle muamele etmeyi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Değerler Eğitimi ve Etik"
   },
   {
     "id": "ekys_2023_q32",
@@ -21684,7 +21795,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Model Olma / Model Alma Yoluyla Değer Öğretimi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Değerler Eğitimi ve Etik"
   },
   {
     "id": "ekys_2023_q33",
@@ -21719,7 +21831,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Öğrencinin bilgiyi önceki deneyimleriyle ilişkilendirerek aktif olarak kendisinin yapılandırması ve anlamlandırması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Yapılandırmacı (Konstrüktivist) Yaklaşım:</strong> Piaget, Vygotsky, Bruner ve Dewey'nin görüşlerine dayanan çağdaş öğrenme kuramıdır. Bu yaklaşıma göre bilgi bireyden bağımsız olarak dışarıdan zihne aktarılan nesnel bir kalıp değildir; aksine <strong>öğrenenin kendi ön bilgileri, zihinsel şemaları ve sosyal/fiziksel çevreyle girdiği birincil deneyimler aracılığıyla aktif olarak inşa ettiği (yapılandırdığı)</strong> öznel ve anlamlı bir süreçtir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A, C, D ve E şıkları:</strong> Bilginin pasif aktarımı, mekanik ezber, öğretmenin mutlak otoritesi ve tek tip sonuç odaklı testler <em>geleneksel (davranışçı ve esasici)</em> eğitim anlayışının özellikleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Yapılandırmacılıkta <strong>birincil bilgi kaynakları</strong> (ham veriler, deney, gözlem), <strong>üst düzey düşünme</strong>, <strong>iş birlikli çalışma</strong> ve <strong>süreç + sonuç odaklı alternatif değerlendirme</strong> esastır.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2023_q34",
@@ -21754,7 +21867,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Özedönük (İçsel) Zekâ)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Özedönük / İçsel (Intrapersonal) Zekâ:</strong> Howard Gardner'ın <em>Çoklu Zekâ Kuramı</em>'nda bireyin kendi iç dünyasını tanıması; duygularının, motivasyonlarının, güçlü ve zayıf yönlerinin farkında olması; <strong>öz değerlendirme, öz düzenleme ve bağımsız (bireysel) hedef belirleme</strong> kapasitesinin yüksek olmasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Kişilerarası / Sosyal Zekâ (B):</strong> Başkalarının duygu, niyet ve davranışlarını anlama, empati kurma, grup çalışması ve liderlik becerisidir.<br>• <strong>Görsel-Uzamsal Zekâ (C):</strong> Üç boyutlu düşünme, harita, grafik, renk ve şekillerle öğrenme becerisidir.<br>• <strong>Mantıksal-Matematiksel Zekâ (D):</strong> Neden-sonuç ilişkisi kurma, sayılarla akıl yürütme ve analitik problem çözme becerisidir.<br>• <strong>Bedensel-Kinestetik Zekâ (E):</strong> Zihin ve beden koordinasyonunu kullanarak yaparak-yaşayarak, hareket ve jestlerle öğrenme becerisidir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <em>'Kendini tanıma, öz değerlendirme, bireysel çalışma'</em> → <strong>Özedönük (İçsel) Zekâ</strong>; <em>'Empati, grup liderliği, ikna, iş birliği'</em> → <strong>Sosyal (Kişilerarası) Zekâ</strong>.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2023_q35",
@@ -21789,7 +21903,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (David Ausubel (Anlamlı Öğrenme))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>David Ausubel (Sunuş Yoluyla Anlamlı Öğrenme):</strong> Ausubel'e göre öğrenmeyi etkileyen en önemli faktör öğrencinin mevcut bilgi birikimidir. Yeni bilgilerin öğrencinin zihnindeki mevcut şemalarla ilişkilendirilerek <strong>tümdengelim (bütünden parçaya / genelden özele)</strong> yöntemiyle anlamlandırılması için dersin başında <strong>Ön Organize Ediciler (Örgütleyiciler) ve Kavram Haritaları</strong> kullanılır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Jerome Bruner (B):</strong> <em>Buluş Yoluyla Öğretim</em> kuramcısıdır; tümevarım (örneklerden kurala ulaşma) ve sarmal programı savunur.<br>• <strong>B.F. Skinner (C):</strong> <em>Edimsel Koşullanma</em> ve <em>Programlı Öğretim</em> kuramcısıdır.<br>• <strong>Howard Gardner (D):</strong> <em>Çoklu Zekâ Kuramı</em>'nın kurucusudur.<br>• <strong>Benjamin Bloom (E):</strong> <em>Tam Öğrenme Modeli</em> ve <em>Bilişsel Alan Taksonomisi</em>'nin öncüsüdür.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Soruda <em>'Sunuş yolu, anlamlı öğrenme, ön organize ediciler (örgütleyiciler), tümdengelim, kavram haritaları'</em> kavramları bir arada verildiğinde doğru cevap her zaman <strong>David Ausubel</strong>'dir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2023_q36",
@@ -21824,7 +21939,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Kaynaştırma / Bütünleştirme Eğitimi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Kaynaştırma / Bütünleştirme Yoluyla Eğitim:</strong> Özel Eğitim Hizmetleri Yönetmeliği uyarınca, özel eğitim ihtiyacı olan bireylerin her tür ve kademede diğer bireylerle karşılıklı etkileşim içinde bulunmalarını ve eğitim amaçlarını en üst düzeyde gerçekleştirmelerini sağlamak amacıyla; <strong>destek eğitim hizmetleri de sunularak akranlarıyla birlikte genel eğitim sınıflarında tam zamanlı veya özel eğitim sınıflarında yarı zamanlı</strong> eğitim görmeleri uygulamasıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>Ayrıştırma Eğitimi (B):</strong> Özel gereksinimli bireylerin tipik gelişim gösteren akranlarından tamamen ayrı özel eğitim okullarında veya kurumlarında eğitim almasıdır.<br>• <strong>Evde Eğitim (C):</strong> Sağlık problemi nedeniyle örgün eğitim kurumlarından doğrudan yararlanamayan öğrencilere evde sunulan eğitim hizmetidir.<br>• <strong>Özel Eğitim İş Okulu (D) ve Yatılı Bölge Okulu (E):</strong> Farklı kurumsal okul türleridir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Özel eğitimde temel ilke <strong>'En Az Kısıtlayıcı Eğitim Ortamı'</strong> ilkesidir; bu ilkenin birincil karşılığı öğrencinin akranlarıyla aynı sınıfta <strong>Bireyselleştirilmiş Eğitim Programı (BEP)</strong> desteğiyle aldığı <strong>Kaynaştırma/Bütünleştirme</strong> eğitimidir.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2023_q37",
@@ -21859,7 +21975,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Grubun heterojen (farklılaşmış) olduğunu)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Standart Sapma ve Grup Yapısı:</strong> Standart sapma, bir gruptaki öğrenci puanlarının aritmetik ortalamadan ne kadar uzaklaştığını (yayıldığını) gösteren en güvenilir dağılım ölçüsüdür. <strong>Standart sapmanın büyük olması</strong>; puanların birbirinden uzaklaştığını, bilen ile bilmeyen arasındaki farkın açıldığını, yani <strong>grubun heterojen (farklılaşmış) olduğunu, testin ayırt ediciliğinin ve güvenirliğinin yüksek olduğunu</strong> gösterir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B ve D şıkları:</strong> Standart sapmanın küçük (0'a yakın) olması grubun <em>homojen (benzer)</em> olduğunu gösterir; herkes aynı notu alırsa standart sapma $0$ olur.<br>• <strong>C şıkkı:</strong> Testin kolay veya zor olması standart sapmayla değil, aritmetik ortalama, mod, medyan (çarpıklık) ve madde güçlük indeksiyle anlaşılır.<br>• <strong>E şıkkı:</strong> Standart sapmanın yüksek olması sınavı geçersiz kılmaz; aksine norm dayanaklı seçme sınavlarında arzu edilen bir özelliktir.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> <strong>Standart Sapma Büyükse</strong> → Grup <em>heterojen</em>, puan aralığı (ranj) geniş, ayırt edicilik ve güvenirlik <em>yüksek</em>.<br><strong>Standart Sapma Küçükse</strong> → Grup <em>homojen</em>, puanlar birbirine yakın, ayırt edicilik <em>düşük</em>.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2023_q38",
@@ -21894,7 +22011,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Bekleme Süresi (Wait Time))<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Bekleme Süresi (Wait Time):</strong> Mary Budd Rowe tarafından geliştirilen etkili soru sorma ilkesidir. Öğretmenin sınıfa bir soru yönelttikten sonra hemen parmak kaldıran ilk öğrenciye söz vermeyip, tüm öğrencilerin soruyu zihinsel olarak işlemesi, üst düzey düşünmesi ve cevabı organize etmesi için tanıdığı <strong>3–5 saniyelik bilinçli sessizlik süresidir</strong>.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>İpucu Verme (B):</strong> Öğrenci soruya cevap veremediğinde doğru cevaba ulaşmasını kolaylaştıracak yönlendirici işaretler sunulmasıdır.<br>• <strong>Dönüt Süresi (C):</strong> Öğrencinin cevabının doğruluğu hakkında geri bildirim verilmesidir.<br>• <strong>Pekiştirme Aralığı (D):</strong> Davranışçı kuramda doğru davranışın ardından ödülün verilme sıklığı/zamanlamasıdır.<br>• <strong>Güdüleme Evresi (E):</strong> Dersin giriş aşamasında konunun ne işe yarayacağının açıklanarak istek uyandırılmasıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Etkili soru sorma sürecinde sıra şöyledir: <em>1) Soruyu tüm sınıfa sor → 2) 3–5 saniye Bekleme Süresi tanı → 3) Gönüllü/seçilen öğrenciye isimle söz ver → 4) Cevabı dinle ve dönüt ver.</em>",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2023_q39",
@@ -21929,7 +22047,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Konuların her yıl genişletilerek ve derinleştirilerek tekrar edilmesi)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Sarmal (Helezonik) Programlama Yaklaşımı:</strong> Jerome Bruner tarafından geliştirilmiştir. Temel ilkesi; konuların doğrusal bir çizgide bir kez işlenip bırakılması yerine, <strong>yıllar veya sınıf kademeleri ilerledikçe önceki öğrenmelerin üzerine bina edilerek kapsamının genişletilmesi ve derinleştirilerek tekrar edilmesi</strong>dir (örneğin Hayat Bilgisi, Sosyal Bilgiler ve Yabancı Dil öğretim programları).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>B şıkkı:</strong> Konuların birbirinden bağımsız öbekler/üniteler halinde düzenlenmesi <em>Modüler Programlama</em> yaklaşımıdır.<br>• <strong>C şıkkı:</strong> İçeriğin süreç içinde öğrenciyle birlikte belirlenmesi <em>Sorgulama Merkezli / Çocuk Merkezli</em> yaklaşımdır.<br>• <strong>D şıkkı:</strong> Ardışık ve ön koşul ilişkisiyle tek seferde ilerleyen yapı <em>Doğrusal (Lineer) Programlama</em> yaklaşımıdır.<br>• <strong>E şıkkı:</strong> Çağdaş içerik düzenleme ilkelerine aykırıdır.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> İçerik düzenleme yaklaşımları:<br>• <strong>Doğrusal:</strong> Ön koşul ilişkisi yüksek dersler (ardışık zincir).<br>• <strong>Sarmal:</strong> Yeri geldikçe kapsamı genişleyerek tekrar eden yapı.<br>• <strong>Modüler:</strong> Birbirinden bağımsız, sırası değiştirilebilen öbekler (örn. Beden Eğitimi spor branşları).<br>• <strong>Piramitsel:</strong> Geniş tabandan daralan uzmanlaşmaya doğru katı yapı.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2023_q40",
@@ -21964,7 +22083,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Kuralların öğrencilerle birlikte belirlenmesi, az sayıda, açık, net ve olumlu ifadelerle yazılması)<br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>• <strong>Çağdaş Sınıf Yönetimi ve Sınıf Kuralları:</strong> Demokratik ve gelişimsel sınıf yönetimi anlayışında kurallar, öğretmenin tek taraflı dayatması değil, <strong>öğrencilerin de katılımıyla (birlikte)</strong> dönem başında belirlenen ortak yaşam sözleşmeleridir. Kurallar öğrencilerin içselleştirebilmesi için <strong>az sayıda (genellikle 5-7 madde), açık, anlaşılır ve 'yapılmaması gerekeni' değil 'yapılması gerekeni' vurgulayan olumlu cümlelerle</strong> (örn. 'Çöp atma!' yerine 'Sınıfımızı temiz tutalım') ifade edilmelidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• <strong>A ve C şıkları:</strong> Kuralların dikte edilmesi ve ağır cezalar içermesi <em>geleneksel, otoriter ve tepkisel</em> sınıf yönetimi anlayışıdır.<br>• <strong>D ve E şıkları:</strong> Kuralların gizli tutulması veya hiç kural olmaması (başıboş/serbest yönetim) sınıf düzenini ve öğrenme iklimini bozar.<br><br>💡 <strong>ÖSYM/EKYS Notu:</strong> Sınıf kuralları <strong>okulun ilk haftasında</strong>, <strong>öğrencilerle birlikte</strong>, <strong>gerekçeleri açıklanarak</strong> ve <strong>olumlu dil kalıplarıyla</strong> oluşturulmalıdır.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Bilimleri"
   },
   {
     "id": "ekys_2023_q41",
@@ -21999,7 +22119,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (İş süreçlerini standartlaştırarak, zaman ve hareket etütleri yoluyla iş verimliliğini en üst düzeye çıkarmak)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q42",
@@ -22034,7 +22155,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Neoklasik (İnsan İlişkileri) Yaklaşımı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q43",
@@ -22069,7 +22191,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Açık Sistem Kuramı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q44",
@@ -22104,7 +22227,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Liderin tarzı (İlişki veya Görev odaklı) ile Durumun uygunluk/elverişlilik derecesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q45",
@@ -22139,7 +22263,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Hizmetkâr Liderlik (Servant Leadership))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q46",
@@ -22174,7 +22299,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E</strong> (Kendini Gerçekleştirme)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q47",
@@ -22209,7 +22335,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Beklenti (Çaba-Performans) × Araçsallık (Performans-Ödül) × Valans (Ödülün Değeri))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q48",
@@ -22244,7 +22371,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Açık İklim)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q49",
@@ -22279,7 +22407,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Açık Alan)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q50",
@@ -22314,7 +22443,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Öğretim süreçlerini geliştirmek, öğretmene rehberlik etmek ve mesleki gelişimi desteklemek)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q51",
@@ -22349,7 +22479,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (İş Birliği Yapma (Entegrasyon / Problem Çözme))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q52",
@@ -22384,7 +22515,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Kaizen)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q53",
@@ -22419,7 +22551,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Kıyaslama (Benchmarking))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q54",
@@ -22454,7 +22587,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Kararın kalitesi ve kararın astlar tarafından kabul edilme derecesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q55",
@@ -22489,7 +22623,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Dağıtım Adaleti (Distributive Justice))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q56",
@@ -22524,7 +22659,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Psikolojik Güvenlik (Psychological Safety))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q57",
@@ -22559,7 +22695,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Uzmanlık Gücü ve Karizmatik (Referent) Güç)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q58",
@@ -22594,7 +22731,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Etkin / Empatik Dinleme)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q59",
@@ -22629,7 +22767,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Çalışanın resmî görev tanımında yer almayan, zorunlu olmayan, tamamen gönüllü olarak kurum yararına fazladan çaba göstermesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q60",
@@ -22664,7 +22803,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Bilinmezlik korkusu, alışkanlıkların bozulması ve yetkinlik kaybı endişesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q61",
@@ -22699,7 +22839,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (II. Kadran (Planlama / Kalite Kadranı))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q62",
@@ -22734,7 +22875,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Örgütsel Sessizlik (Organizational Silence))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q63",
@@ -22769,7 +22911,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Öğretmenlerin iş birliği içinde sürekli öğrenmesi ve tüm öğrencilerin başarısının kolektif sorumluluk kabul edilmesi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q64",
@@ -22804,7 +22947,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Kaynakların israf edilmesini önler ve paydaşların kuruma olan güvenini artırır)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Eğitim Yönetimi ve Denetimi"
   },
   {
     "id": "ekys_2023_q65",
@@ -22837,9 +22981,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (2)",
+    "explanation": "Doğru Cevap: <strong>B (2)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 94. maddesine göre; <strong>TBMM Başkanlık Divanı için bir yasama döneminde (5 yılda) 2 defa seçim yapılır.</strong> İlk seçilenlerin görev süresi <strong>2 yıl</strong>, ikinci devre için seçilenlerin görev süresi ise <strong>o yasama döneminin sonuna kadardır (3 yıl)</strong>.",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q66",
@@ -22872,9 +23017,10 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı Yardımcısı)",
+    "explanation": "Doğru Cevap: <strong>A (Cumhurbaşkanı Yardımcısı)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 118. maddesine göre; <strong>Millî Güvenlik Kurulu (MGK)</strong> iki ayda bir <strong>Cumhurbaşkanının başkanlığında</strong> toplanır. Cumhurbaşkanının katılamadığı zamanlarda MGK'ya <strong>Cumhurbaşkanı Yardımcısı</strong> başkanlık eder. *(Not: MGK Genel Sekreteri toplantılara katılır ancak kurul üyesi değildir ve oy hakkı yoktur).* ",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q67",
@@ -22909,7 +23055,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (20 gün)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q68",
@@ -22944,7 +23091,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (Yüksek Disiplin Kurulu)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q69",
@@ -22979,7 +23127,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Fırsat ve İmkân Eşitliği)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q70",
@@ -23014,7 +23163,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Örgün Eğitim ve Yaygın Eğitim)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q71",
@@ -23049,7 +23199,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (500 Türk Lirası)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q72",
@@ -23084,7 +23235,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (180 gün)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q73",
@@ -23119,7 +23271,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (İç Denetçi)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q74",
@@ -23154,7 +23307,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (10 gün)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q75",
@@ -23189,7 +23343,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Hizmet süresi şartı yoktur (kamu görevlisi olmak yeterlidir))",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q76",
@@ -23224,7 +23379,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Kanun ile)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q77",
@@ -23259,7 +23415,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "C",
     "explanation": "Doğru Cevap: <strong>C</strong> (60 gün)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q78",
@@ -23294,7 +23451,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Personel Genel Müdürlüğü)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q79",
@@ -23329,7 +23487,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "A",
     "explanation": "Doğru Cevap: <strong>A</strong> (Teftiş Kurulu Başkanlığı)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2023_q80",
@@ -23364,7 +23523,8 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B</strong> (Kınama)",
     "hasImage": false,
-    "image": null
+    "image": null,
+    "category": "Mevzuat"
   },
   {
     "id": "ekys_2022_q1",
@@ -23436,7 +23596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Karahanlılar)"
+    "explanation": "Doğru Cevap: <strong>B (Karahanlılar)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 840 yılında Karluk, Yağma, Çiğil ve Tuhsi boyları tarafından kurulan <strong>Karahanlılar</strong>, Satuk Buğra Han (Abdülkerim) döneminde <strong>Orta Asya'da İslamiyet'i resmî din olarak kabul eden ilk Türk devletidir</strong>.<br>• <strong>İtil (Volga) Bulgarları:</strong> Doğu Avrupa'da İslamiyet'i kabul eden ilk Türk devletidir (Orta Asya'da değildir).<br>• <strong>Tolunoğulları (D) ve İhşidîler (E):</strong> Mısır'da kurulan Türk-İslam devletleridir.<br>• <strong>Gazneliler (A):</strong> Afganistan/Gazne merkezli kurulmuş olup Sultan Mahmut döneminde Hindistan'a İslamiyet'i yaymıştır."
   },
   {
     "id": "ekys_2022_q3",
@@ -23580,7 +23740,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I)"
+    "explanation": "Doğru Cevap: <strong>A (I)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Akarsuların dar ve derin vadiler (çentik/boğaz/kanyon vadiler) oluşturması için arazinin yüksek, dağlık ve eğimli olması gerekir. Haritada <strong>I numaralı alan (Güney Marmara / Balıkesir-Bursa ovaları ve kıyı kuşağı)</strong> yükseltinin ve eğimin az olduğu, akarsuların geniş tabanlı vadiler içinde menderesler çizerek aktığı bir bölgedir. Doğu Karadeniz, Batı Karadeniz, Toroslar ve Hakkâri bölümlerinde ise dar ve derin vadiler çok yaygındır."
   },
   {
     "id": "ekys_2022_q7",
@@ -23616,7 +23776,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)"
+    "explanation": "Doğru Cevap: <strong>A (Yalnız I)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> <strong>Jeotermal enerji</strong> (sıcak su ve buhar kaynakları), yer kabuğundaki kırık (fay) hatlarından sızan suların yerin derinliklerindeki mağma ısısıyla ısınıp yüzeye çıkmasıyla oluşur. Dolayısıyla bir ülkenin jeotermal potansiyelinin yüksek olması doğrudan <strong>I. genç oluşumlu ve aktif bir tektonik (deprem/fay) kuşağı üzerinde yer almasıyla</strong> ilgilidir. Masif (eski/sert) araziler (II) ve kayaç çeşitliliği (III) jeotermal enerji oluşumunu sağlamaz."
   },
   {
     "id": "ekys_2022_q8",
@@ -23652,7 +23812,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Dalyan)"
+    "explanation": "Doğru Cevap: <strong>D (Dalyan)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Köy altı yerleşmelerinden:<br>• <strong>Kom (A)</strong> (Doğu Anadolu), <strong>Ağıl (B)</strong> (İç ve Güneydoğu Anadolu), <strong>Oba (C)</strong> (Toroslar ve Karadeniz) ve <strong>Yayla (E)</strong>: Temel ekonomik faaliyeti <strong>hayvancılık</strong> olan geçici yerleşmelerdir.<br>• <strong>Dalyan (D):</strong> Ege ve Akdeniz kıyılarında (özellikle Muğla-Köyceğiz çevresinde) <strong>balıkçılık (kültür balıkçılığı / su ürünleri avcılığı)</strong> amacıyla kurulan geçici yerleşmedir."
   },
   {
     "id": "ekys_2022_q9",
@@ -23688,7 +23848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II)"
+    "explanation": "Doğru Cevap: <strong>B (II)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'de <strong>rüzgâr enerjisi potansiyelinin (RES)</strong> en yüksek olduğu bölge, batı rüzgârlarına ve deniz meltemlerine açık olan <strong>Ege ve Güney Marmara kıyılarıdır</strong> (İzmir-Çeşme-Alaçatı, Balıkesir, Çanakkale, Manisa). Haritada Çanakkale-Balıkesir-İzmir hattını gösteren <strong>II numaralı alan</strong> Türkiye'de rüzgâr enerjisi santrallerinin en yoğun olduğu yerdir."
   },
   {
     "id": "ekys_2022_q10",
@@ -23724,7 +23884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Milet Antik Kenti – İzmir)"
+    "explanation": "Doğru Cevap: <strong>D (Milet Antik Kenti – İzmir)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> İyonya uygarlığının önemli liman ve bilim merkezlerinden biri olan (Thales ve Anaksimandros'un yetiştiği) <strong>Milet (Miletos) Antik Kenti</strong>, İzmir'de değil, <strong>Aydın'ın Didim ilçesinde</strong> (Büyük Menderes Nehri'nin eski ağzında) yer almaktadır.<br>• <strong>İzmir</strong>'deki başlıca antik kentler <strong>Efes (Selçuk), Bergama (Pergamon) ve Teos (Seferihisar)</strong>'tur.<br>• Diğer şıklardaki Kız Kalesi (Mersin), Selimiye Camii (Edirne), Sümela Manastırı (Trabzon) ve İshak Paşa Sarayı (Ağrı-Doğubayazıt) eşleştirmeleri doğrudur."
   },
   {
     "id": "ekys_2022_q11",
@@ -23760,7 +23920,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Zigana Geçidi)"
+    "explanation": "Doğru Cevap: <strong>A (Zigana Geçidi)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Doğu Karadeniz kıyısındaki <strong>Trabzon Limanı'nı Gümüşhane üzerinden Erzurum'a ve İran'a (tarihî İpek Yolu'na)</strong> bağlayan en önemli geçit <strong>Zigana (Kalkanlı) Geçidi</strong>'dir.<br>• <strong>Gülek Geçidi (B):</strong> Çukurova'yı (Adana) İç Anadolu'ya (Niğde) bağlar.<br>• <strong>Belen Geçidi (C):</strong> Çukurova'yı Hatay/İskenderun'a bağlar.<br>• <strong>Çubuk Geçidi (D):</strong> Antalya'yı Göller Yöresi'ne (Burdur-Isparta) bağlar.<br>• <strong>Ilgaz Geçidi (E):</strong> Kastamonu'yu Çankırı'ya bağlar."
   },
   {
     "id": "ekys_2022_q12",
@@ -23796,7 +23956,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Doğu Karadeniz Bölümü)"
+    "explanation": "Doğru Cevap: <strong>A (Doğu Karadeniz Bölümü)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> <strong>Heyelan (toprak kayması)</strong> oluşumu için 4 temel koşul gerekir: <strong>1. Kuvvetli eğim ve engebe, 2. Bol yağış ve kar erimeleri, 3. Suyu tutarak kayganlaşan killi toprak yapısı, 4. Tabakaların eğim yönünde uzanması.</strong> Türkiye'de bu koşulların tamamının bir arada bulunduğu ve heyelanın en fazla görüldüğü yer <strong>Doğu Karadeniz Bölümü</strong>'dür (özellikle ilkbahar aylarında kar erimeleriyle zirveye ulaşır)."
   },
   {
     "id": "ekys_2022_q13",
@@ -23832,7 +23992,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Anayasa)"
+    "explanation": "Doğru Cevap: <strong>C (Anayasa)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 11. maddesine ('Anayasanın bağlayıcılığı ve üstünlüğü') göre; <strong>Anayasa hükümleri</strong>, yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlayan <strong>temel hukuk kurallarıdır</strong>. Kanunlar, Cumhurbaşkanlığı kararnameleri, yönetmelikler ve genelgeler normlar hiyerarşisinde en üstte yer alan <strong>Anayasa'ya aykırı olamaz</strong>."
   },
   {
     "id": "ekys_2022_q14",
@@ -25704,7 +25864,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (600)"
+    "explanation": "Doğru Cevap: <strong>D (600)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 75. maddesine göre; 2017 Anayasa değişikliği ile Türkiye Büyük Millet Meclisi (TBMM) üye tamsayısı 550'den <strong>600 milletvekiline</strong> çıkarılmıştır. *(TBMM'de toplantı yeter sayısı üye tamsayısının üçte biri olan 200; karar yeter sayısı ise kural olarak katılanların salt çoğunluğudur, ancak üye tamsayısının dörtte birinin bir fazlası olan 151'den az olamaz).* "
   },
   {
     "id": "ekys_2022_q66",
@@ -26278,7 +26438,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kut Anlayışı)"
+    "explanation": "Doğru Cevap: <strong>A (Kut Anlayışı)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> İlk Türk devletlerinde hükümdara (Kağan/Han) devleti yönetme yetkisinin <strong>Gök Tanrı tarafından verildiğine</strong> ve bu yetkinin kan yoluyla hükümdar ailesinin (hanedanın) erkek üyelerine geçtiğine inanılan siyasi meşruiyet anlayışına <strong>Kut Anlayışı</strong> denir. Kut, hükümdara sınırsız keyfilik vermez; kağan töreye uymak ve halkı doyurup giydirmek zorundadır."
   },
   {
     "id": "ekys_2021_q2",
@@ -26312,7 +26472,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Malazgirt Meydan Muharebesi)"
+    "explanation": "Doğru Cevap: <strong>B (Malazgirt Meydan Muharebesi)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türk-İslam tarihinin dönüm noktası olan savaşların kodlaması (<strong>Y-A-T</strong>):<br>• <strong>1048 Pasinler Savaşı (A):</strong> Büyük Selçuklu ile Bizans arasındaki ilk büyük savaştır (Anadolu'yu <strong>Y</strong>oklama).<br>• <strong>1071 Malazgirt Meydan Muharebesi (B):</strong> Sultan Alparslan'ın Bizans İmparatoru Romen Diyojen'i mağlup ederek Anadolu'nun kapılarını Türklere <strong>A</strong>çtığı savaştır (Yurt Açan).<br>• <strong>1176 Miryokefalon Savaşı (C):</strong> II. Kılıç Arslan döneminde Anadolu'nun kesin Türk yurdu olduğunu <strong>T</strong>apu'layan savaştır (Yurt Tutan)."
   },
   {
     "id": "ekys_2021_q3",
@@ -26346,7 +26506,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Has)"
+    "explanation": "Doğru Cevap: <strong>A (Has)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı Devleti'nde mirî arazinin en önemli kolu olan <strong>Dirlik (Tımar)</strong> toprakları yıllık gelir miktarına göre 3'e ayrılır:<br>1. <strong>Has (A):</strong> Yıllık geliri <strong>100.000 akçeden fazla</strong> olan, padişah, hanedan üyeleri, veziriazam, vezirler, beylerbeyi ve sancakbeylerine ayrılan topraklardır.<br>2. <strong>Zeamet (B):</strong> Yıllık geliri <strong>20.000 ile 100.000 akçe</strong> arasında olan, orta dereceli memurlara (kadı, subaşı, alaybeyi, divan kâtipleri) verilen topraklardır.<br>3. <strong>Tımar (C):</strong> Yıllık geliri <strong>3.000 ile 20.000 akçe</strong> arasında olan, savaşta yararlılık gösteren sipahilere verilen topraklardır."
   },
   {
     "id": "ekys_2021_q4",
@@ -26414,7 +26574,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Malikâne Sistemi)"
+    "explanation": "Doğru Cevap: <strong>A (Malikâne Sistemi)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı Devleti'nde hazinenin nakit ihtiyacını karşılamak için mukataa gelirlerinin önce 1–3 yıllığına açık artırmayla mültezimlere kiralandığı <strong>İltizam Sistemi</strong> uygulanmış; XVII. yüzyıl sonlarında (1695) bütçe açıklarının büyümesi üzerine bu mukataaların <strong>mültezimlere 'kaydıhayat' (ömür boyu) şartıyla satılması/kiralanması</strong> usulü olan <strong>Malikâne Sistemi</strong>'ne geçilmiştir. Bu sistem taşrada âyanların güçlenmesine zemin hazırlamıştır."
   },
   {
     "id": "ekys_2021_q6",
@@ -26448,7 +26608,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)"
+    "explanation": "Doğru Cevap: <strong>A (Yalnız I)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'nin <strong>Mutlak (Matematik) Konumu</strong> (36°–42° Kuzey paralelleri, Orta Kuşak) ile <strong>Göreceli (Özel) Konumu</strong> ayrımı ÖSYM'nin en sevdiği soru kalıbıdır:<br>• <strong>I. Dört mevsimin belirgin olarak yaşanması:</strong> Yıl içinde güneş ışınlarının geliş açısının değişmesine bağlı olup <strong>Orta Kuşakta yer almanın (Mutlak Konum)</strong> doğrudan sonucudur. *(Kodlama: <strong>A-B-C-D</strong> -> Akdeniz iklimi, Batı rüzgârları, Cephe yağışları, Dört mevsim).*<br>• <strong>II. Batıdan doğuya sıcaklıkların düşmesi ve III. Ortalama yükseltinin fazla olması:</strong> Türkiye'nin yer şekilleriyle (<strong>Göreceli / Özel Konum</strong>) ilgilidir."
   },
   {
     "id": "ekys_2021_q7",
@@ -26482,7 +26642,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Seyfe Gölü)"
+    "explanation": "Doğru Cevap: <strong>B (Seyfe Gölü)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Van Gölü Havzası'nda (Doğu Anadolu) yer alan başlıca göller <strong>Van, Erçek (A), Nazik (C), Arin (D), Haçlı (E), Nemrut ve Çıldır/Balık</strong> gölleridir.<br>• <strong>Seyfe Gölü (B):</strong> Doğu Anadolu'da değil, <strong>İç Anadolu Bölgesi'nde Kırşehir</strong> sınırları içerisinde yer alan tektonik kökenli bir göldür ve önemli bir kuş cennetidir."
   },
   {
     "id": "ekys_2021_q8",
@@ -26516,7 +26676,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Çoruh - Kelkit Oluğu)"
+    "explanation": "Doğru Cevap: <strong>E (Çoruh - Kelkit Oluğu)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Batı Anadolu'daki <strong>Edremit-Havran (A), Bakırçay (C), Gediz (D)</strong> grabenleri ile Güneydeki <strong>Hatay-Maraş (Amik) Grabeni (B)</strong> hem ılıman iklime hem de geniş alüvyal ovalara ve ulaşım kolaylığına sahip oldukları için yoğun nüfuslanmıştır.<br>• Buna karşılık Kuzey Anadolu Fay Hattı üzerinde yer alan <strong>Çoruh - Kelkit Oluğu (E)</strong>, vadilerin çok dar ve derin olması, engebenin fazlalığı ve ana ulaşım/sanayi hatlarına uzaklığı nedeniyle <strong>seyrek nüfuslanmıştır</strong>."
   },
   {
     "id": "ekys_2021_q9",
@@ -26552,7 +26712,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I)"
+    "explanation": "Doğru Cevap: <strong>A (I)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye, dünya <strong>bor mineralleri</strong> rezervinin yaklaşık %73'üne sahiptir. Türkiye'de bor yatakları <strong>Güney Marmara ve İç Batı Anadolu</strong> hattında (haritada <strong>I numaralı alan</strong>) toplanmıştır.<br>📌 <strong>Bor Yatakları Kodlaması (B-E-B-K):</strong><br>• <strong>B</strong>alıkesir (Susurluk, Bigadiç)<br>• <strong>E</strong>skişehir (Kırka, Seyitgazi)<br>• <strong>B</strong>ursa (Mustafakemalpaşa / Kestelek)<br>• <strong>K</strong>ütahya (Emet)."
   },
   {
     "id": "ekys_2021_q10",
@@ -26588,7 +26748,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (II)"
+    "explanation": "Doğru Cevap: <strong>B (II)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Haritada <strong>II numaralı alan (Kıyı Ege / Gediz ve Menderes ovaları ile Çukurova/Akdeniz kuşağı)</strong>; ılıman iklim, verimli alüvyal topraklar ve gelişmiş sulama olanakları sayesinde <strong>ekonomik değeri yüksek endüstriyel ve ihracat ürünlerinin</strong> (incir, çekirdeksiz kuru üzüm, zeytin, pamuk, tütün, turunçgiller, sebze-meyve) en yoğun ve çeşitli yetiştirildiği alandır."
   },
   {
     "id": "ekys_2021_q11",
@@ -26622,7 +26782,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Cumhurbaşkanı)"
+    "explanation": "Doğru Cevap: <strong>A (Cumhurbaşkanı)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 118. maddesine göre; <strong>Millî Güvenlik Kurulu (MGK)</strong>, <strong>Cumhurbaşkanının başkanlığında</strong>; Cumhurbaşkanı yardımcıları, Adalet, Millî Savunma, İçişleri, Dışişleri Bakanları, Genelkurmay Başkanı, Kara, Deniz ve Hava Kuvvetleri komutanlarından kurulur. Cumhurbaşkanı katılamadığında MGK'ya Cumhurbaşkanı Yardımcısı başkanlık eder."
   },
   {
     "id": "ekys_2021_q12",
@@ -26656,7 +26816,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (13)"
+    "explanation": "Doğru Cevap: <strong>B (13)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 159. maddesine göre (2017 Anayasa değişikliği ile); <strong>Hâkimler ve Savcılar Kurulu (HSK) 13 üyeden oluşur</strong> ve 2 daire halinde çalışır (Adalet Bakanı + Adalet Bakanlığı Bakan Yardımcısı/Müsteşarı + Cumhurbaşkanının seçtiği 4 üye + TBMM'nin seçtiği 7 üye = 13 üye)."
   },
   {
     "id": "ekys_2021_q13",
@@ -26690,7 +26850,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Vatan Hizmeti (Askerlik))"
+    "explanation": "Doğru Cevap: <strong>A (Vatan Hizmeti (Askerlik))</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nda temel hak ve ödevler 3 gruba ayrılır:<br>1. <strong>Kişinin Hakları ve Ödevleri (Negatif Statü):</strong> Mülkiyet hakkı (B), Konut dokunulmazlığı (D), Kişi dokunulmazlığı, Özel hayatın gizliliği.<br>2. <strong>Sosyal ve Ekonomik Haklar ve Ödevler (Pozitif Statü):</strong> Çalışma ve sözleşme hürriyeti (C), Sağlık ve çevre hakkı (E), Eğitim hakkı, Sendika kurma.<br>3. <strong>Siyasi Haklar ve Ödevler (Aktif Statü):</strong> Türk vatandaşlığı, Seçme-seçilme hakkı, Kamu hizmetlerine girme, <strong>Vatan hizmeti (A)</strong>, Vergi ödevi, Dilekçe ve bilgi edinme hakkı."
   },
   {
     "id": "ekys_2021_q14",
@@ -26724,7 +26884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Mevzu Hukuk (Mevzuat))"
+    "explanation": "Doğru Cevap: <strong>A (Mevzu Hukuk (Mevzuat))</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Hukuk türleri arasındaki temel ayrım şöyledir:<br>• <strong>Mevzu Hukuk / Mevzuat (A):</strong> Bir ülkede <em>yetkili bir makam tarafından konulmuş</em> ve yürürlükte olan <strong>sadece yazılı hukuk kurallarının</strong> (Anayasa, Kanun, CBK, Yönetmelik) bütünüdür.<br>• <strong>Pozitif / Müspet Hukuk (B):</strong> Bir ülkede belli bir dönemde yürürlükte olan <strong>hem yazılı hem de yazısız (örf ve âdet hukuku dahil)</strong> tüm hukuk kurallarıdır.<br>• <strong>İdeal / Tabii Hukuk (C):</strong> Olanı değil, ulaşılması hedeflenen en adil hukuku ifade eder.<br>• <strong>Tarihî Hukuk (D):</strong> Yürürlükten kalkmış hukuktur."
   },
   {
     "id": "ekys_2021_q15",
@@ -28458,7 +28618,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (600)"
+    "explanation": "Doğru Cevap: <strong>A (600)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 75. maddesine göre; Türkiye Büyük Millet Meclisi (TBMM), genel oyla seçilen <strong>600 milletvekilinden</strong> oluşur. Milletvekili seçilme yaşı 18'dir."
   },
   {
     "id": "ekys_2021_q66",
@@ -29002,7 +29162,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Ribat)"
+    "explanation": "Doğru Cevap: <strong>E (Ribat)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Karahanlılar döneminde sınır boylarında İslamiyet'i yaymak, güvenliği sağlamak ve gazileri barındırmak amacıyla kurulan; sınırların genişlemesiyle iç bölgelerde kalarak ticaret kervanlarının konakladığı <strong>kervansaraylara</strong> dönüşen müstahkem yapılara <strong>Ribat</strong> adı verilir.<br>• <strong>Külliye (B):</strong> Merkezinde cami bulunan yapı topluluğudur.<br>• <strong>İmaret (C):</strong> Yoksullara ve öğrencilere ücretsiz yemek dağıtan aşevidir.<br>• <strong>Bedesten (D):</strong> Değerli kumaş ve mücevherlerin satıldığı kapalı çarşıdır.<br>• <strong>Hazire (A):</strong> Cami ve türbe bahçelerindeki etrafı çevrili mezarlıktır."
   },
   {
     "id": "ekys_2020_q2",
@@ -29036,7 +29196,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Ali Kuşçu)"
+    "explanation": "Doğru Cevap: <strong>A (Ali Kuşçu)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Timur İmparatorluğu'nda Uluğ Bey'in Semerkant Rasathanesi müdürlüğünü yapan, ardından Akkoyunlu hükümdarı Uzun Hasan'ın elçisi olarak İstanbul'a gelen ünlü astronom ve matematikçi <strong>Ali Kuşçu</strong>, Fatih Sultan Mehmet'in davetiyle İstanbul'a yerleşmiş ve <strong>Ayasofya Medresesi müderrisliğine</strong> atanarak Osmanlı'da matematik ve astronomi çalışmalarını başlatmıştır (<em>Risaletü'l-Fethiye</em> ve <em>Muhammediye</em> adlı eserleri ünlüdür)."
   },
   {
     "id": "ekys_2020_q3",
@@ -29070,7 +29230,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Şeyh / Pir)"
+    "explanation": "Doğru Cevap: <strong>A (Şeyh / Pir)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı <strong>Lonca Teşkilatı</strong>'nda görevlilerin görev tanımları:<br>• <strong>Şeyh (Pir) (A):</strong> Lonca teşkilatının <strong>en üst düzey yöneticisi ve manevi lideridir</strong>; çıraklık-kalfalık-ustalık (şed kuşatma) törenlerini yönetir.<br>• <strong>Kethüda (B):</strong> Loncanın devletle (kadı ve hükümetle) olan ilişkilerini yürüten dış temsilcisidir.<br>• <strong>Yiğitbaşı (C):</strong> Loncanın iç güvenliğinden, disiplininden ve hammadde dağıtımından sorumludur.<br>• <strong>Ehl-i Hibre (D):</strong> Üretilen malların kalitesini ve fiyatını (narh) belirleyen bilirkişi heyetidir.<br>• <strong>Muhtesip (E):</strong> Kadı adına çarşı ve pazarı denetleyen belediye/zabıta görevlisidir."
   },
   {
     "id": "ekys_2020_q4",
@@ -29104,7 +29264,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Nizam-ı Cedid)"
+    "explanation": "Doğru Cevap: <strong>A (Nizam-ı Cedid)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı Padişahı <strong>III. Selim</strong> (1789–1807) döneminde gerçekleştirilen bütün yenilik hareketlerine ve Avrupa tarzında kurulan modern orduya <strong>Nizam-ı Cedid (Yeni Düzen)</strong> adı verilmiştir (bu ordunun masraflarını karşılamak için de <em>İrad-ı Cedid</em> hazinesi kurulmuştur).<br>• <strong>Asakir-i Mansure-i Muhammediye (B):</strong> II. Mahmut'un 1826'da Yeniçeri Ocağı'nı (Vaka-i Hayriye) kaldırdıktan sonra kurduğu ordudur.<br>• <strong>Sekban-ı Cedid (D) ve Eşkinci Ocağı (C):</strong> II. Mahmut döneminde Yeniçeri Ocağı kaldırılmadan önce kurulan askerî birliklerdir."
   },
   {
     "id": "ekys_2020_q5",
@@ -29138,7 +29298,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Hamidiye Alayları)"
+    "explanation": "Doğru Cevap: <strong>A (Hamidiye Alayları)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1891 yılında Sultan <strong>II. Abdülhamit</strong> tarafından Doğu Anadolu'da Rus destekli Ermeni çetelerinin faaliyetlerini önlemek, sınır güvenliğini ve asayişi sağlamak amacıyla bölgedeki Sünni aşiretlerden oluşturulan hafif süvari birliklerine padişahın adına izafeten <strong>Hamidiye Alayları</strong> adı verilmiştir.<br>• <strong>Kuvâ-yı İnzibatiye (B):</strong> TBMM'ye karşı İstanbul Hükümeti'nin kurduğu ordudur.<br>• <strong>Hareket Ordusu (E):</strong> 31 Mart Vakası'nı bastıran ordudur."
   },
   {
     "id": "ekys_2020_q6",
@@ -29172,7 +29332,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I ve III)"
+    "explanation": "Doğru Cevap: <strong>B (I ve III)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'deki akarsu ve oluşturdukları <strong>delta ovaları</strong> eşleştirmeleri:<br>• <strong>I. Kızılırmak — Bafra Ovası:</strong> Doğru.<br>• <strong>II. Aksu — Silifke Ovası:</strong> Yanlış! <strong>Silifke Deltası'nı Göksu Nehri</strong> oluşturur (Aksu Nehri Antalya'da akar ve delta oluşturmaz).<br>• <strong>III. Gediz — Menemen Ovası:</strong> Doğru.<br>• <strong>IV. Filyos — Çarşamba Ovası:</strong> Yanlış! <strong>Çarşamba Deltası'nı Yeşilırmak</strong> oluşturur.<br>Dolayısıyla doğru eşleştirmeler <strong>I ve III (B)</strong>'tür."
   },
   {
     "id": "ekys_2020_q7",
@@ -29208,7 +29368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I)"
+    "explanation": "Doğru Cevap: <strong>A (I)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'de <strong>IV. Jeolojik Zaman (Kuaterner) buzullaşmasından</strong> ve güncel buzullardan etkilenmesi için dağların yükseltisinin genellikle <strong>2.200 – 2.500 metrenin üzerinde</strong> olması gerekir. Uludağ, Kaçkarlar, Erciyes, Bolkar-Aladağlar ve Cilo (Buzul) Dağları'nda buzul şekillerine rastlanırken; haritada <strong>I numara ile gösterilen Yıldız (Istranca) Dağları</strong> yükseltisi az (yaklaşık 1.031 m) olduğu için buzullaşmaya uğramamıştır."
   },
   {
     "id": "ekys_2020_q8",
@@ -29242,7 +29402,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (I ve II)"
+    "explanation": "Doğru Cevap: <strong>A (I ve II)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'deki iç göçlerin temel özellikleri:<br>• <strong>I.</strong> İç göçlere çalışma çağındaki <strong>genç ve erkek nüfus</strong> daha fazla katılır (Doğru).<br>• <strong>II.</strong> Göçlerin en büyük nedeni ekonomik sıkıntılar, <strong>daha iyi iş (istihdam), eğitim ve yaşam koşullarıdır</strong> (Doğru).<br>• <strong>III.</strong> Göç veren kırsal yerlerde gençler gittiği için yaşlı nüfus oranı azalmaz, tam tersine <strong>yaşlı nüfus oranı artar</strong> (Yanlış).<br>• <strong>IV.</strong> İç göçlerin çoğunluğu beyin göçü değil, iş gücü göçüdür (Yanlış)."
   },
   {
     "id": "ekys_2020_q9",
@@ -29276,7 +29436,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Bulgaristan)"
+    "explanation": "Doğru Cevap: <strong>D (Bulgaristan)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Kırklareli il sınırları içerisinde yer alan <strong>Dereköy (Aziziye) Sınır Kapısı</strong>, Türkiye ile <strong>Bulgaristan</strong> arasındaki önemli karayolu sınır kapılarımızdan biridir.<br>📌 <strong>Bulgaristan Sınır Kapılarımız:</strong> <strong>Kapıkule</strong> (Edirne), <strong>Hamzabeyli</strong> (Edirne) ve <strong>Dereköy</strong> (Kırklareli).<br>• <strong>Yunanistan (B):</strong> İpsala, Pazarkule, Uzunköprü.<br>• <strong>Gürcistan (C):</strong> Sarp, Türkgözü, Aktaş.<br>• <strong>İran (E):</strong> Gürbulak, Kapıköy, Esendere."
   },
   {
     "id": "ekys_2020_q10",
@@ -29310,7 +29470,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Cankurtaran Geçidi)"
+    "explanation": "Doğru Cevap: <strong>C (Cankurtaran Geçidi)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Doğu Karadeniz'de <strong>Artvin'in kıyı ilçesi Hopa'yı iç kesimdeki Borçka ve Artvin merkezine</strong> bağlayan önemli dağ geçidi <strong>Cankurtaran Geçidi</strong>'dir.<br>• Diğer şıklardaki <strong>Çubuk (Antalya-Burdur), Sertavul (Mersin-Karaman), Gülek (Adana-Niğde) ve Belen (Adana-Hatay)</strong> geçitleri Karadeniz'de değil, <strong>Akdeniz Bölgesi'nde</strong> yer alır. *(Kodlama: Akdeniz geçitleri -> <strong>Ço-k Sa-yıda Ge-çit Bu-lunur</strong>: Çubuk, Sertavul, Gülek, Belen).* "
   },
   {
     "id": "ekys_2020_q11",
@@ -29344,7 +29504,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Cumhuriyet Senatosu)"
+    "explanation": "Doğru Cevap: <strong>C (Cumhuriyet Senatosu)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> <strong>Cumhuriyet Senatosu</strong>, yalnızca <strong>1961 Anayasası</strong> döneminde (Millet Meclisi ile birlikte çift meclisli yapıda) yer almış; <strong>1982 Anayasası ile kaldırılarak</strong> yeniden tek meclisli (TBMM) sisteme geçilmiştir.<br>• <strong>Ekonomik ve Sosyal Konsey (A)</strong> (2010 değişikliğiyle Md. 166), <strong>Yüksek Hakem Kurulu (B)</strong> (Md. 54), <strong>Diyanet İşleri Başkanlığı (D)</strong> (Md. 136) ve <strong>Atatürk Kültür, Dil ve Tarih Yüksek Kurumu (E)</strong> (Md. 134) 1982 Anayasası'nda açıkça düzenlenen anayasal kurumlardır."
   },
   {
     "id": "ekys_2020_q12",
@@ -29378,7 +29538,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Anayasa Mahkemesi)"
+    "explanation": "Doğru Cevap: <strong>E (Anayasa Mahkemesi)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 69. ve 148. maddelerine göre; <strong>siyasi partilerin kapatılması davalarını</strong> <em>Yargıtay Cumhuriyet Başsavcısı</em> açar ve davaya <strong>Anayasa Mahkemesi (AYM)</strong> bakar. AYM, bir siyasi partinin temelli kapatılmasına veya devlet yardımından yoksun bırakılmasına toplantıya katılan üyelerin <strong>üçte iki (2/3) oy çokluğuyla</strong> karar verebilir."
   },
   {
     "id": "ekys_2020_q13",
@@ -29412,7 +29572,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)"
+    "explanation": "Doğru Cevap: <strong>E (I, II ve III)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 106. maddesine göre <strong>Cumhurbaşkanı yardımcıları ve bakanlar</strong>:<br>• <strong>III.</strong> <em>Milletvekili seçilme yeterliliğine sahip olanlar</em> arasından Cumhurbaşkanı tarafından atanır ve görevden alınır (Doğru).<br>• <strong>I ve II.</strong> Hem <strong>milletvekilleri arasından</strong> hem de <strong>milletvekili olmayanlar (TBMM dışından)</strong> arasından atanabilirler. Ancak TBMM üyeleri (milletvekilleri), Cumhurbaşkanı yardımcısı veya bakan olarak atanırlarsa <strong>milletvekubeliği üyelikleri sona erer</strong> (Doğru)."
   },
   {
     "id": "ekys_2020_q14",
@@ -31214,7 +31374,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (1 yıl)"
+    "explanation": "Doğru Cevap: <strong>A (1 yıl)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 78. maddesine ('Seçimlerin geriye bırakılması ve ara seçimler') göre; <strong>savaş sebebiyle</strong> yeni seçimlerin yapılmasına imkân görülmezse, Türkiye Büyük Millet Meclisi seçimlerinin <strong>1 yıl geriye bırakılmasına (ertelenmesine)</strong> karar verebilir. Geri bırakma sebebi ortadan kalkmamışsa, erteleme kararındaki usule göre bu işlem tekrarlanabilir."
   },
   {
     "id": "ekys_2020_q67",
@@ -31724,7 +31884,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Türbe)"
+    "explanation": "Doğru Cevap: <strong>B (Türbe)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı eğitim ve kültür hayatında <strong>Medrese (D)</strong> örgün yükseköğretim kurumudur; <strong>Enderun (A)</strong> devlet adamı yetiştiren saray okuludur; <strong>Cami (C)</strong> ve <strong>Tekke/Zaviye (E)</strong> ise hem ibadet hem de halka yönelik yaygın eğitim ve tasavvuf terbiyesi verilen mekânlardır. Buna karşılık <strong>Türbe (B)</strong>, devlet büyükleri ve din âlimlerinin mezarlarının bulunduğu anıt mezar yapısı olup doğrudan eğitim-öğretim işlevi yoktur."
   },
   {
     "id": "ekys_2019_q2",
@@ -31792,7 +31952,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Nizamiye Medreseleri)"
+    "explanation": "Doğru Cevap: <strong>A (Nizamiye Medreseleri)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Büyük Selçuklu Veziri <strong>Nizamülmülk</strong> tarafından Bağdat başta olmak üzere önemli merkezlerde kurulan <strong>Nizamiye Medreseleri</strong>, İslam dünyasının ilk büyük üniversite ağı olup Sünni düşünceyi korumak ve nitelikli devlet görevlisi yetiştirmek amacıyla açılmıştır (Ünlü İslam âlimi İmam Gazali de Bağdat Nizamiye Medresesi'nde müderrislik yapmıştır)."
   },
   {
     "id": "ekys_2019_q4",
@@ -31826,7 +31986,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Şeyhülislam)"
+    "explanation": "Doğru Cevap: <strong>B (Şeyhülislam)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Osmanlı Devleti'nde İlmiye sınıfının başı olan <strong>Şeyhülislam (Müftü)</strong>, Divan-ı Hümayun'da alınan kararların İslam hukukuna (şeriata) uygun olup olmadığı konusunda <strong>fetva</strong> verme yetkisine sahipti.<br>• <strong>Kazasker (A):</strong> Divan'daki büyük davalara bakar, kadı ve müderris atamalarını yapardı.<br>• <strong>Nişancı (C):</strong> Fermanlara padişahın tuğrasını çeker, tapu-tahrir defterlerini tutardı.<br>• <strong>Defterdar (D):</strong> Devletin maliye ve bütçe işlerinden sorumluydu.<br>• <strong>Sadrazam (E):</strong> Padişahın mutlak vekili ve Divan başkanıydı."
   },
   {
     "id": "ekys_2019_q5",
@@ -31860,7 +32020,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Kānûn-ı Esâsî)"
+    "explanation": "Doğru Cevap: <strong>B (Kānûn-ı Esâsî)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türk anayasal gelişim tarihinin kronolojik aşamaları:<br>• <strong>1808 Sened-i İttifak (D):</strong> Padişahın (II. Mahmut) yetkilerini âyanlar karşısında kısıtlayan ilk belgedir.<br>• <strong>1839 Tanzimat Fermanı (A):</strong> Hukukun üstünlüğünü kabul eden ilk belgedir.<br>• <strong>1856 Islahat Fermanı (C):</strong> Gayrimüslimlere geniş haklar tanıyan fermandır.<br>• <strong>1876 Kānûn-ı Esâsî (B):</strong> II. Abdülhamit döneminde Genç Osmanlılar (Mithat Paşa) tarafından hazırlanan <strong>Türk tarihinin ilk yazılı anayasasıdır</strong>.<br>• <strong>1921 Teşkilât-ı Esâsîye (E):</strong> Yeni Türk devletinin (TBMM'nin) ilk anayasasıdır."
   },
   {
     "id": "ekys_2019_q6",
@@ -31896,7 +32056,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (IV)"
+    "explanation": "Doğru Cevap: <strong>D (IV)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türkiye'de kalker (kireç taşı) arazilerin geniş yer kapladığı <strong>Batı ve Orta Toroslar (Akdeniz Bölgesi)</strong>'da yer alan <strong>Teke ve Taşeli Platoları</strong> (haritada <strong>IV numaralı alan</strong>) <strong>karstik platodur</strong>.<br>📌 <strong>Türkiye'de Platoların Oluşum Türleri:</strong><br>• <strong>Karstik Platolar:</strong> Teke ve Taşeli (Akdeniz).<br>• <strong>Volkanik (Lav) Platolar:</strong> Erzurum, Kars, Ardahan (Doğu Anadolu).<br>• <strong>Aşınım Platoları:</strong> Çatalca-Kocaeli ve Perşembe.<br>• <strong>Yatay Duruşlu (Tabaka Düzlüğü) Platolar:</strong> Obruk, Cihanbeyli, Haymana, Bozok, Uzunyayla, Gaziantep, Şanlıurfa."
   },
   {
     "id": "ekys_2019_q7",
@@ -32034,7 +32194,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Garig (Frigana))"
+    "explanation": "Doğru Cevap: <strong>A (Garig (Frigana))</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Bitki örtüsünün tahrip zinciri sınavlarda sıkça sorulur:<br>1. Akdeniz'de <strong>Kızılçam ormanlarının</strong> tahrip edilmesiyle -> <strong>Maki</strong> oluşur.<br>2. <strong>Makilerin</strong> tahrip edilmesiyle -> Kısa boylu, dikenli çalı topluluğu olan <strong>Garig (Frigana)</strong> (lavanta, kekik, funda, süpürge çalısı) oluşur.<br>3. Karadeniz'de <strong>nemli ormanların</strong> tahrip edilmesiyle -> <strong>Psödömaki (Yalancı Maki)</strong> oluşur.<br>4. İç bölgelerde <strong>kurakçıl ormanların</strong> tahrip edilmesiyle -> <strong>Antropojen Bozkır</strong> oluşur."
   },
   {
     "id": "ekys_2019_q11",
@@ -32068,7 +32228,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Milletvekilleri)"
+    "explanation": "Doğru Cevap: <strong>A (Milletvekilleri)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 88. maddesine göre; <strong>kanun teklif etmeye milletvekilleri yetkilidir</strong> (bir milletvekili tek başına da kanun teklifi verebilir). Cumhurbaşkanı ise yalnızca <em>bütçe ve kesinhesap kanun tekliflerini</em> TBMM'ye sunar."
   },
   {
     "id": "ekys_2019_q12",
@@ -32102,7 +32262,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Anayasa)"
+    "explanation": "Doğru Cevap: <strong>A (Anayasa)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Normlar hiyerarşisinin en tepesinde <strong>Anayasa</strong> yer alır (1982 Anayasası Md. 11). Kanunlar, Cumhurbaşkanlığı kararnameleri, yönetmelikler ve diğer tüm alt düzenleyici işlemler Anayasa'ya uygun olmak zorundadır."
   },
   {
     "id": "ekys_2019_q13",
@@ -32136,7 +32296,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Gensoru)"
+    "explanation": "Doğru Cevap: <strong>A (Gensoru)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 2017 Anayasa değişikliği ile Cumhurbaşkanlığı Hükümet Sistemi'ne geçilmiş ve <strong>Gensoru</strong> ile <strong>Sözlü Soru</strong> kaldırılmıştır.<br>📌 <strong>TBMM'nin Güncel Bilgi Edinme ve Denetim Yolları (4 Adet - Md. 98):</strong><br>1. <strong>Yazılı Soru (B):</strong> Cumhurbaşkanı yardımcıları ve bakanlara yazılı olarak sorulur (en geç 15 gün içinde cevaplanır).<br>2. <strong>Genel Görüşme (C)</strong><br>3. <strong>Meclis Araştırması (D)</strong><br>4. <strong>Meclis Soruşturması (E)</strong>."
   },
   {
     "id": "ekys_2019_q14",
@@ -32170,7 +32330,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Fiil Ehliyeti)"
+    "explanation": "Doğru Cevap: <strong>A (Fiil Ehliyeti)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> Türk Medeni Kanunu'na göre:<br>• <strong>Fiil (Eylem) Ehliyeti (A):</strong> Bir kimsenin bizzat kendi fiil ve işlemleriyle hak edinebilmesi ve borç altına girebilmesi yeteneğidir. Şartları: <strong>1. Ayırt etme gücüne sahip olmak, 2. Ergin (reşit - 18 yaş) olmak, 3. Kısıtlı olmamak.</strong><br>• <strong>Hak Ehliyeti (B):</strong> Haklara ve borçlara sahip olabilme yeteneğidir; kişinin <strong>sağ ve tam doğmak şartıyla ana rahmine düştüğü andan</strong> itibaren başlar (her insanın hak ehliyeti vardır)."
   },
   {
     "id": "ekys_2019_q15",
@@ -33904,7 +34064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Temel haklar, kişi hakları ve siyasi haklar)"
+    "explanation": "Doğru Cevap: <strong>A (Temel haklar, kişi hakları ve siyasi haklar)</strong><br><br>📚 <strong>Pedagojik Çözüm:</strong> 1982 Anayasası'nın 104. maddesine göre; <strong>Olağan Cumhurbaşkanlığı Kararnamesi (CBK)</strong> ile Anayasa'nın İkinci Kısmının Birinci ve İkinci Bölümlerinde yer alan <strong>Temel Haklar, Kişi Hakları ve Ödevleri</strong> ile Dördüncü Bölümde yer alan <strong>Siyasi Haklar ve Ödevler DÜZENLENEMEZ!</strong><br>📌 <strong>Sınav Şifresi:</strong> Olağan CBK ile yalnızca Üçüncü Bölümde yer alan <strong>Sosyal ve Ekonomik Haklar ve Ödevler</strong> düzenlenebilir. Üst düzey kamu yöneticilerinin atanması (C), bakanlıkların kurulması/kaldırılması (E) ve MGK/DKDK gibi konular ise CBK ile düzenlenir."
   },
   {
     "id": "ekys_2019_q66",
