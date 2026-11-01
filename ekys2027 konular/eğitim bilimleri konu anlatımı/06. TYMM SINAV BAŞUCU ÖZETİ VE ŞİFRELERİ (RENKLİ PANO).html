@@ -1,0 +1,1090 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TYMM Tek Bakışta Sınav Başucu Panosu ve Tam Kapsamlı Rehber</title>
+  <style>
+    :root {
+      --bg: #f1f5f9;
+      --card-bg: #ffffff;
+      --text: #0f172a;
+      --muted: #475569;
+      --border: #e2e8f0;
+      --blue-bg: #eff6ff; --blue-border: #3b82f6; --blue-title: #1d4ed8;
+      --purple-bg: #faf5ff; --purple-border: #8b5cf6; --purple-title: #6d28d9;
+      --green-bg: #f0fdf4; --green-border: #10b981; --green-title: #047857;
+      --orange-bg: #fff7ed; --orange-border: #f97316; --orange-title: #c2410c;
+      --rose-bg: #fff1f2; --rose-border: #f43f5e; --rose-title: #be123c;
+      --teal-bg: #f0fdfa; --teal-border: #14b8a6; --teal-title: #0f766e;
+      --indigo-bg: #eef2ff; --indigo-border: #6366f1; --indigo-title: #4338ca;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding: 14px 18px;
+      line-height: 1.44;
+      font-size: 13.5px;
+    }
+
+    /* Üst Başlık Barı */
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+      color: #fff;
+      padding: 12px 20px;
+      border-radius: 14px;
+      margin-bottom: 14px;
+      box-shadow: 0 4px 15px rgba(15, 23, 42, 0.14);
+      flex-wrap: wrap;
+      gap: 10px;
+      position: sticky;
+      top: 8px;
+      z-index: 100;
+    }
+    .header-left h1 {
+      font-size: 1.2rem;
+      font-weight: 800;
+      letter-spacing: -0.3px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .header-left p {
+      font-size: 0.78rem;
+      color: #94a3b8;
+      margin-top: 2px;
+    }
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .search-box {
+      padding: 7px 12px;
+      border-radius: 8px;
+      border: 1px solid #334155;
+      background: #0f172a;
+      color: #fff;
+      font-size: 0.82rem;
+      width: 230px;
+      outline: none;
+    }
+    .search-box:focus { border-color: #38bdf8; }
+    .btn {
+      padding: 7px 13px;
+      border-radius: 8px;
+      border: none;
+      font-weight: 700;
+      font-size: 0.78rem;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.15s;
+    }
+    .btn:hover { transform: translateY(-1px); }
+    .btn-toggle-all { background: #3b82f6; color: #fff; }
+    .btn-print { background: #10b981; color: #fff; }
+
+    /* Bento Grid */
+    .bento-grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 12px;
+    }
+    .col-4 { grid-column: span 4; }
+    .col-5 { grid-column: span 5; }
+    .col-6 { grid-column: span 6; }
+    .col-7 { grid-column: span 7; }
+    .col-8 { grid-column: span 8; }
+    .col-12 { grid-column: span 12; }
+
+    @media (max-width: 1200px) {
+      .col-4, .col-5, .col-6, .col-7, .col-8 { grid-column: span 6; }
+    }
+    @media (max-width: 768px) {
+      .col-4, .col-5, .col-6, .col-7, .col-8 { grid-column: span 12; }
+    }
+
+    /* Kart Stilleri */
+    .card {
+      background: var(--card-bg);
+      border-radius: 14px;
+      padding: 14px 16px;
+      border-top: 5px solid var(--border);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .card-blue   { border-top-color: var(--blue-border);   background: linear-gradient(180deg, var(--blue-bg) 0%, #fff 55px); }
+    .card-purple { border-top-color: var(--purple-border); background: linear-gradient(180deg, var(--purple-bg) 0%, #fff 55px); }
+    .card-green  { border-top-color: var(--green-border);  background: linear-gradient(180deg, var(--green-bg) 0%, #fff 55px); }
+    .card-orange { border-top-color: var(--orange-border); background: linear-gradient(180deg, var(--orange-bg) 0%, #fff 55px); }
+    .card-rose   { border-top-color: var(--rose-border);   background: linear-gradient(180deg, var(--rose-bg) 0%, #fff 55px); }
+    .card-teal   { border-top-color: var(--teal-border);   background: linear-gradient(180deg, var(--teal-bg) 0%, #fff 55px); }
+    .card-indigo { border-top-color: var(--indigo-border); background: linear-gradient(180deg, var(--indigo-bg) 0%, #fff 55px); }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid rgba(0,0,0,0.07);
+      padding-bottom: 8px;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .card-title {
+      font-size: 0.98rem;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+    }
+    .card-blue .card-title   { color: var(--blue-title); }
+    .card-purple .card-title { color: var(--purple-title); }
+    .card-green .card-title  { color: var(--green-title); }
+    .card-orange .card-title { color: var(--orange-title); }
+    .card-rose .card-title   { color: var(--rose-title); }
+    .card-teal .card-title   { color: var(--teal-title); }
+    .card-indigo .card-title { color: var(--indigo-title); }
+
+    /* Rozetler (Badges) */
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 0.71rem;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .badge-code { background: #1e293b; color: #fde047; letter-spacing: 0.4px; }
+    .badge-exam { background: #fef2f2; color: #dc2626; border: 1px solid #fecaca; }
+    .badge-trap { background: #fffbeb; color: #b45309; border: 1px solid #fde68a; }
+    .badge-ok   { background: #ecfdf5; color: #047857; border: 1px solid #a7f3d0; }
+
+    /* Açılır-Kapanır (Details/Accordion) Stili */
+    details.more-box {
+      border: 1px dashed #94a3b8;
+      border-radius: 10px;
+      background: #f8fafc;
+      overflow: hidden;
+      margin-top: 2px;
+    }
+    details.more-box summary {
+      padding: 7px 12px;
+      font-weight: 800;
+      font-size: 0.8rem;
+      color: #1e293b;
+      cursor: pointer;
+      background: #e2e8f0;
+      user-select: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      list-style: none;
+    }
+    details.more-box summary::-webkit-details-marker { display: none; }
+    details.more-box summary::after {
+      content: "➕ Tıkla Aç";
+      font-size: 0.72rem;
+      background: #fff;
+      padding: 2px 8px;
+      border-radius: 99px;
+      color: #0f172a;
+      border: 1px solid #cbd5e1;
+    }
+    details.more-box[open] summary {
+      background: #1e293b;
+      color: #fde047;
+    }
+    details.more-box[open] summary::after {
+      content: "➖ Kapat";
+      background: #fde047;
+      color: #0f172a;
+      border-color: #fde047;
+    }
+    .more-content {
+      padding: 10px 12px;
+      font-size: 0.79rem;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      background: #ffffff;
+    }
+
+    /* İkili Karşılaştırma Kutuları */
+    .pair-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+    @media (max-width: 1024px) {
+      .pair-grid { grid-template-columns: 1fr; }
+    }
+    .pair-box {
+      border: 1px solid #e9d5ff;
+      background: #fdfaff;
+      border-radius: 10px;
+      padding: 10px;
+    }
+    .pair-header {
+      text-align: center;
+      font-weight: 800;
+      font-size: 0.84rem;
+      color: #5b21b6;
+      background: #f3e8ff;
+      padding: 4px 8px;
+      border-radius: 6px;
+      margin-bottom: 8px;
+    }
+    .pair-cols {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    .pair-col {
+      background: #fff;
+      border: 1px solid #f1f5f9;
+      border-radius: 8px;
+      padding: 7px 8px;
+    }
+    .pair-col h4 {
+      font-size: 0.8rem;
+      font-weight: 800;
+      margin-bottom: 4px;
+      color: #1e293b;
+      border-bottom: 2px solid #ddd6fe;
+      padding-bottom: 2px;
+    }
+    .pair-col ul {
+      list-style: none;
+      font-size: 0.78rem;
+    }
+    .pair-col ul li {
+      margin-bottom: 3px;
+      padding-left: 10px;
+      position: relative;
+    }
+    .pair-col ul li::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: #8b5cf6;
+      font-weight: bold;
+    }
+
+    /* Diğer 4 Profil Şeridi */
+    .four-strip {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+    }
+    @media (max-width: 900px) {
+      .four-strip { grid-template-columns: repeat(2, 1fr); }
+    }
+    .mini-box {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 7px 9px;
+      font-size: 0.78rem;
+    }
+    .mini-box strong {
+      display: block;
+      color: #4c1d95;
+      font-size: 0.82rem;
+      margin-bottom: 2px;
+    }
+
+    /* Tablo ve Satır Stilleri */
+    .kv-list {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .kv-row {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      background: #f8fafc;
+      padding: 6px 10px;
+      border-radius: 8px;
+      border-left: 4px solid #3b82f6;
+      font-size: 0.81rem;
+    }
+    .kv-key {
+      font-weight: 800;
+      min-width: 155px;
+      color: #0f172a;
+      flex-shrink: 0;
+    }
+    .kv-arrow {
+      color: #dc2626;
+      font-weight: 900;
+    }
+
+    /* Çok Sütunlu Yardımcı Izgaralar */
+    .three-cols {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+    }
+    .two-cols {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+    }
+    @media (max-width: 900px) {
+      .three-cols, .two-cols { grid-template-columns: 1fr; }
+    }
+    .sub-card {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 9px;
+      padding: 8px 10px;
+      font-size: 0.79rem;
+    }
+    .sub-card h4 {
+      font-size: 0.82rem;
+      font-weight: 800;
+      margin-bottom: 5px;
+      color: #0f172a;
+    }
+
+    /* Adım Okları (Ders İşleniş Sırası) */
+    .steps-flow {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 7px;
+    }
+    @media (max-width: 1000px) {
+      .steps-flow { grid-template-columns: repeat(2, 1fr); }
+    }
+    .step-item {
+      background: #fff;
+      border: 2px solid #fecdd3;
+      border-radius: 10px;
+      padding: 7px 9px;
+    }
+    .step-num {
+      display: inline-block;
+      background: #e11d48;
+      color: #fff;
+      font-weight: 800;
+      font-size: 0.7rem;
+      padding: 1px 6px;
+      border-radius: 99px;
+      margin-bottom: 3px;
+    }
+    .step-item h5 {
+      font-size: 0.81rem;
+      font-weight: 800;
+      color: #881337;
+      margin-bottom: 2px;
+    }
+    .step-item p {
+      font-size: 0.75rem;
+      color: #334155;
+    }
+
+    /* Zenginleştirme vs Destekleme */
+    .diff-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+    @media (max-width: 800px) {
+      .diff-grid { grid-template-columns: 1fr; }
+    }
+    .diff-box {
+      border-radius: 10px;
+      padding: 9px 11px;
+      font-size: 0.8rem;
+    }
+    .diff-zeng { background: #ecfdf5; border: 1px solid #6ee7b7; }
+    .diff-dest { background: #eff6ff; border: 1px solid #93c5fd; }
+
+    /* Tablo Stili */
+    table.mini-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.77rem;
+    }
+    table.mini-table th, table.mini-table td {
+      border: 1px solid #cbd5e1;
+      padding: 5px 7px;
+      text-align: left;
+      vertical-align: top;
+    }
+    table.mini-table th {
+      background: #f1f5f9;
+      font-weight: 800;
+      color: #0f172a;
+    }
+
+    mark.hl {
+      background: #fef08a;
+      padding: 0 3px;
+      border-radius: 3px;
+      font-weight: 700;
+    }
+
+    @media print {
+      body { padding: 0; background: #fff; font-size: 11px; }
+      .header { position: static; }
+      .header-actions { display: none; }
+      .card { break-inside: avoid; box-shadow: none; border: 1px solid #cbd5e1; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ÜST BAŞLIK -->
+  <div class="header">
+    <div class="header-left">
+      <h1>🎯 TÜRKİYE YÜZYILI MAARİF MODELİ (TYMM) — TEK BAKIŞTA BAŞUCU PANOSU + TAM KAPSAM</h1>
+      <p>Sedat Çolak PDF (165 syf) + 7., 8., 9. Ders Videoları + 2024/2025 Ortak Metin (158 syf) + 2025/2026 EKYS Çıkmış Soruları</p>
+    </div>
+    <div class="header-actions">
+      <input type="text" id="searchInput" class="search-box" placeholder="🔍 Kavram ara (ör. Tilavet, Dönüşümler)..." oninput="filterHighlight(this.value)">
+      <button class="btn btn-toggle-all" id="toggleAllBtn" onclick="toggleAllDetails()">📂 Tüm Detay Kutularını Aç</button>
+      <button class="btn btn-print" onclick="window.print()">🖨️ Yazdır / PDF Kaydet</button>
+    </div>
+  </div>
+
+  <!-- ANA BENTO GRID -->
+  <div class="bento-grid" id="mainGrid">
+
+    <!-- 1. KUTU: ANA HEDEF & BÜTÜNCÜL EĞİTİM (SOL ÜST - 5 SÜTUN) -->
+    <div class="card card-blue col-5">
+      <div class="card-header">
+        <div class="card-title">🟦 1. MODELİN ANA HEDEFİ VE BÜTÜNCÜL EĞİTİM</div>
+        <div>
+          <span class="badge badge-code">Motto: Köklerden Geleceğe</span>
+          <span class="badge badge-exam">🔥 2026'da 2 Soru</span>
+        </div>
+      </div>
+      <div class="kv-list">
+        <div class="kv-row">
+          <span class="kv-key">🎯 Nihai Hedef:</span>
+          <span><strong>"Yetkin ve Erdemli İnsan"</strong> (<em>Yetkin</em> = Bilgi/Beceri | <em>Erdemli</em> = Ruhsal Olgunluk/Ahlak)</span>
+        </div>
+        <div class="kv-row">
+          <span class="kv-key">🧭 3 Selim & 5 Denge:</span>
+          <span><strong>Aklıselim, Kalbiselim, Zevkiselim</strong> nesiller için; <em>madde-mana, akıl-duygu, nefis-vicdan, insan-toplum, zaman-mekân</em> dengesi gözetilir.</span>
+        </div>
+        <div class="kv-row">
+          <span class="kv-key">🌐 Çok Yönlü Gelişim 5'lisi:</span>
+          <span><strong>1)</strong> Öğretim programları, <strong>2)</strong> Dijital ekosistem, <strong>3)</strong> Öğretmen gelişimi, <strong>4)</strong> Projeler ve programlar, <strong>5)</strong> Sosyal etkinlikler <span class="badge badge-exam">2026</span></span>
+        </div>
+        <div class="kv-row" style="border-left-color:#f59e0b; background:#fffbeb;">
+          <span class="kv-key">⚠️ 2 Büyük ÖSYM Tuzağı:</span>
+          <span>
+            • "Program ögeleri birbirinden <strong>bağımsızdır</strong>" ➔ <strong>YANLIŞ!</strong> <span class="badge badge-exam">2026</span><br>
+            • "Yarıştırıcı ve rekabetçi anlayış vardır / Statiktir" ➔ <strong>YANLIŞ!</strong> (Dinamik ve esnektir)
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2. KUTU: 4 BÜTÜNLÜK ALANI (SAĞ ÜST - 7 SÜTUN) -->
+    <div class="card card-blue col-7">
+      <div class="card-header">
+        <div class="card-title">🟦 2. ÖĞRENCİ PROFİLİNİN 4 BÜTÜNLÜK ALANI</div>
+        <div>
+          <span class="badge badge-code">🔑 ŞİFRE: O - E - Z - A</span>
+          <span class="badge badge-exam">🔥 2026 Sorusu</span>
+        </div>
+      </div>
+      <div class="kv-list">
+        <div class="kv-row">
+          <span class="kv-key">1. <u>O</u>ntolojik Bütünlük</span>
+          <span class="kv-arrow">➔</span>
+          <span><strong>İnsana Bakış = "RUH ve BEDEN BÜTÜNLÜĞÜ"</strong> (Zihinsel, bedensel, duygusal ve ruhsal denge)</span>
+        </div>
+        <div class="kv-row">
+          <span class="kv-key">2. <u>E</u>pistemolojik Bütünlük</span>
+          <span class="kv-arrow">➔</span>
+          <span><strong>Bilgiye Bakış = "BİLGİ ve BİLGELİK"</strong> (Bilgiyi günlük hayattaki problemleri çözmede işlevsel kullanma)</span>
+        </div>
+        <div class="kv-row" style="background:#eff6ff; border-left-color:#1d4ed8;">
+          <span class="kv-key">3. <u>Z</u>amansal Bütünlük</span>
+          <span class="kv-arrow">➔</span>
+          <span><strong>Eğitim Sürecine Bakış = "GEÇMİŞTEN GELECEĞE EĞİTİM"</strong> (Toplumca sahip olunan <mark class="hl">ortak bilinci ve kültürü</mark> eğitim yoluyla kazandırma) <span class="badge badge-exam">2026</span></span>
+        </div>
+        <div class="kv-row">
+          <span class="kv-key">4. <u>A</u>ksiyolojik Olgunluk</span>
+          <span class="kv-arrow">➔</span>
+          <span><strong>Değerlere Bakış = "AHLAKİ BİLİNÇ ve ESTETİK BAKIŞ"</strong> (Erdem-Değer-Eylem Çerçevesi'nin temelini oluşturur; değerleri eyleme yansıtma)</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. KUTU: ÖĞRENCİ PROFİLİ (10 ÖZELLİK - İKİLİ KARŞILAŞTIRMA) (TAM GENİŞLİK - 12 SÜTUN) -->
+    <div class="card card-purple col-12">
+      <div class="card-header">
+        <div class="card-title">🟪 3. ÖĞRENCİ PROFİLİ: "YETKİN VE ERDEMLİ İNSAN"IN 10 ÖZELLİĞİ (Karıştırılan İkililer Karşılaştırması)</div>
+        <div>
+          <span class="badge badge-code">🔑 Baş Harf Kodlaması: "ESEVİMSU ABC"</span>
+          <span class="badge badge-exam">🔥 2026 Sorusu</span>
+        </div>
+      </div>
+
+      <div class="pair-grid">
+        <!-- 1. İKİLİ -->
+        <div class="pair-box">
+          <div class="pair-header">🔹 1. İKİLİ: SORGULAYICI ↔ BİLGE (Bilgi ve Düşünme)</div>
+          <div class="pair-cols">
+            <div class="pair-col">
+              <h4>🔍 SORGULAYICI (6 Alt Özellik)</h4>
+              <ul>
+                <li><strong>Meraklı</strong> (derinlemesine ilgi)</li>
+                <li><strong>Araştırmacı</strong> (nedenleri araştırır)</li>
+                <li><strong>Eleştirel düşünen</strong> (farklı kaynaklar)</li>
+                <li><strong>Esnek</strong> (değişen koşullara uyum, yeni fikirlere açık)</li>
+                <li><strong>Problem çözen</strong> (çözüm odaklı)</li>
+                <li><mark class="hl">İş birliği yapan</mark> (etkili iletişim, <strong>takım çalışmasına katkı</strong>) <span class="badge badge-trap">Tuzak!</span></li>
+              </ul>
+            </div>
+            <div class="pair-col">
+              <h4>🦉 BİLGE (5 Alt Özellik)</h4>
+              <ul>
+                <li><strong>İlme ulaşan</strong> (dünyayı anlamlandırma)</li>
+                <li><strong>Bağımsız ve özgür düşünen</strong></li>
+                <li><mark class="hl">Belagat sahibi</mark> (<strong>dilin inceliklerini ve söz sanatlarını</strong> kullanır)</li>
+                <li><strong>Bilgilerini paylaşan</strong></li>
+                <li><strong>Estetik duyarlılık sahibi</strong> (sanat ve kültürel değerlere bilinçli)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2. İKİLİ -->
+        <div class="pair-box">
+          <div class="pair-header">🔹 2. İKİLİ: İRADELİ ↔ AHLAKLI (Karakter ve Öz Denetim)</div>
+          <div class="pair-cols">
+            <div class="pair-col">
+              <h4>💪 İRADELİ (6 Alt Özellik)</h4>
+              <ul>
+                <li><strong>Kararlı ve iddialı</strong> (zorlukta yılmaz)</li>
+                <li><mark class="hl">Tutarlı</mark> (süreçlerde tutarlıdır)</li>
+                <li><mark class="hl">Sorumluluk alan</mark> (<strong>görevlerini düzenli yerine getirir</strong>) <span class="badge badge-exam">2026</span></li>
+                <li><strong>İlkeli</strong> (ahlaki kuralları temel alır)</li>
+                <li><strong>Kendine güvenen</strong> (öz güveni yüksek)</li>
+                <li><strong>Öfkesini kontrol eden</strong> (stres anında)</li>
+              </ul>
+            </div>
+            <div class="pair-col">
+              <h4>⚖️ AHLAKLI (7 Alt Özellik)</h4>
+              <ul>
+                <li><strong>Adil</strong> (eşit haklara inanır)</li>
+                <li><strong>Doğru</strong> ve <strong>Dürüst</strong> (yalandan kaçınır)</li>
+                <li><strong>Güvenilir</strong> (sözünü tutar)</li>
+                <li><strong>Saygılı</strong></li>
+                <li><strong>Başkalarının hak ve mahremiyetine saygı duyan</strong></li>
+                <li><strong>Tabiata ve toplumsal sorunlara duyarlı</strong></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3. İKİLİ -->
+        <div class="pair-box">
+          <div class="pair-header">🔹 3. İKİLİ: CESARETLİ ↔ ÜRETKEN (Girişim ve Çalışma)</div>
+          <div class="pair-cols">
+            <div class="pair-col">
+              <h4>🦁 CESARETLİ (6 Alt Özellik)</h4>
+              <ul>
+                <li><strong>Yiğit ve mert</strong> (korkuya rağmen cesur)</li>
+                <li><strong>Risk alan</strong> (fırsatlara cesur yaklaşır)</li>
+                <li><strong>İnisiyatif alan</strong> (liderlik yapar)</li>
+                <li><strong>Girişimci</strong> (ilk adımı cesurca atar)</li>
+                <li><strong>Öfkesini kontrol eden</strong> (çatışmayı yapıcı çözer)</li>
+                <li><strong>Destekleyici</strong> (yardım için çabalar)</li>
+              </ul>
+            </div>
+            <div class="pair-col">
+              <h4>⚙️ ÜRETKEN (6 Alt Özellik)</h4>
+              <ul>
+                <li><strong>Hayal ve hedefleri olan</strong> (plan yapar)</li>
+                <li><strong>Çalışkan</strong> (emek harcar)</li>
+                <li><strong>Öğrenmeye istekli</strong> (hayat boyu)</li>
+                <li><strong>Azimli ve sabırlı</strong> (zorlukta yılmaz)</li>
+                <li><strong>Yaratıcı</strong> (yenilikçi çözümler)</li>
+                <li><strong>İletişime ve dayanışmaya açık</strong> (ekip parçası olur)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- DİĞER 4 ÖZELLİK -->
+      <div class="four-strip">
+        <div class="mini-box">
+          <strong>❤️ 7. MERHAMETLİ (6 Madde)</strong>
+          • Şefkatli • <em>Affedici (ikinci şans veren)</em> • İyiliksever • Yardımsever • Paylaşımcı • Sevecen.
+        </div>
+        <div class="mini-box">
+          <strong>🇹🇷 8. VATANSEVER (7 Madde)</strong>
+          • Bayrağını seven • <mark class="hl">Türkçeye sahip çıkan</mark> • Vatanını/milletini seven ve savunan • Gelişmiş devlet bilincine sahip • Ülke çıkarlarını üstün tutan • Vatandaşlık haklarını bilen • Millî-manevi değerlere bağlı.
+        </div>
+        <div class="mini-box">
+          <strong>🏃 9. SAĞLIKLI (6 Madde)</strong>
+          • Sağlıklı beslenen • Düzenli uyuyan/dinlenen • Düzenli spor yapan • Temiz • <mark class="hl">Bağımlılıktan kaçınan ve mücadele eden</mark> • <mark class="hl">Manevi sağlığını koruyan</mark>.
+        </div>
+        <div class="mini-box">
+          <strong>🎨 10. ESTETİK (6 Madde)</strong>
+          • Güzelliğe duyarlı • Sanatsal yeteneklerini bilen ve kullanan • <em>Zarif</em> • <em>Ölçülü (aşırılıktan kaçınan)</em> • <em>Seçici</em> • <mark class="hl">Olgun</mark> (zorlukları olgunlukla karşılar, sorumluluklarında tutarlıdır).
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. KUTU: ERDEM-DEĞER-EYLEM ÇERÇEVESİ (6 SÜTUN) -->
+    <div class="card card-green col-6">
+      <div class="card-header">
+        <div class="card-title">🟩 4. ERDEM - DEĞER - EYLEM ÇERÇEVESİ (20 DEĞER TAMAMI)</div>
+        <div>
+          <span class="badge badge-code">🔑 ÇATI: S - A - S</span>
+          <span class="badge badge-exam">🔥 2026 Sorusu</span>
+        </div>
+      </div>
+      <div class="kv-list">
+        <div class="kv-row" style="border-left-color:#10b981; background:#ecfdf5;">
+          <span class="kv-key">🏆 1. ÇATI DEĞERLER (3):</span>
+          <span><strong><u>S</u>aygı &nbsp;|&nbsp; <u>A</u>dalet &nbsp;|&nbsp; <u>S</u>orumluluk</strong> &nbsp;<span class="badge badge-code">Şifre: SAS</span></span>
+        </div>
+        <div class="kv-row" style="border-left-color:#10b981;">
+          <span class="kv-key">🧘 2. Huzurlu İnsan (6):<br><small>(İçsel Ahenge Sahip)</small></span>
+          <span>
+            <span class="badge badge-code">🔑 Şifre: Çalışkan MASA SATAM</span> <span class="badge badge-exam">2026 Sorusu!</span><br>
+            <strong>Çalışkan</strong>lık, <strong>MA</strong>hremiyet, <strong>SA</strong>ğlıklı Yaşam, <strong>SA</strong>bır, <strong>TA</strong>sarruf, <strong>M</strong>ütevazılık.
+          </span>
+        </div>
+        <div class="kv-row" style="border-left-color:#10b981;">
+          <span class="kv-key">👨‍👩‍👧 3. Huzurlu Aile ve Toplum (7):</span>
+          <span>Sevgi, Dostluk <em>(Diğergamlık/Özgecilik)</em>, Özgürlük, Dürüstlük, Vatanseverlik, Yardımseverlik, Aile Bütünlüğü.</span>
+        </div>
+        <div class="kv-row" style="border-left-color:#10b981;">
+          <span class="kv-key">🌱 4. Yaşanabilir Çevre (4):<br><small>(Fiziksel Çevre)</small></span>
+          <span>Temizlik, Duyarlılık, <mark class="hl">Estetik</mark> <em>(2026'da Huzurlu İnsan çeldiricisi olarak soruldu!)</em>, <mark class="hl">Merhamet</mark> (tüm canlılara şefkat).</span>
+        </div>
+      </div>
+
+      <!-- AÇILIR KUTU: 20 DEĞER TANIMI VE DEĞER ÖĞRETİM YAKLAŞIMLARI -->
+      <details class="more-box">
+        <summary>📚 20 Değerin Tanımı + Değer Öğretimi Yaklaşımları (Telkin, Açıklama, Analiz, Muhakeme...)</summary>
+        <div class="more-content">
+          <strong>1) Değerlerin Kazandırılmasında Kullanılan Yaklaşımlar (9. Ders & Ortak Metin):</strong>
+          <table class="mini-table">
+            <tr><th>Yaklaşım</th><th>Ayırt Edici Anahtar Kelime</th></tr>
+            <tr><td><strong>1. Değer Telkini (Geleneksel)</strong></td><td>Öğretmenin değeri doğrudan <strong>dikte etmesi, aşılaması</strong> ve kabullendirmesi (Öğretmen merkezli).</td></tr>
+            <tr><td><strong>2. Davranış Değiştirme</strong></td><td>Uygun davranışa <strong>ödül (pekiştireç)</strong>, uygun olmayana <strong>ceza</strong> verilmesi (Davranışçı).</td></tr>
+            <tr><td><strong>3. Gözlem Yoluyla Öğrenme</strong></td><td>Öğrencinin büyükleri/öğretmeni <strong>taklit etmesi ve rol model alması</strong> (Bandura).</td></tr>
+            <tr><td><strong>4. Değer Belirginleştirme (Açıklama)</strong></td><td><mark class="hl">En Çok Karışan!</mark> Öğretmen açıklamaz! Öğrenci alternatifler arasından değeri <strong>özgürce kendisi seçer</strong> ve niçin seçtiğini <strong>kendisi açıklar</strong> (Varoluşçu).</td></tr>
+            <tr><td><strong>5. Değer Analizi</strong></td><td>Değer sorunlarını <strong>mantıksal, akılcı ve bilimsel yöntem basamaklarıyla</strong> analiz edip çözme.</td></tr>
+            <tr><td><strong>6. Ahlaki Muhakeme (Kohlberg)</strong></td><td><strong>Ahlaki ikilem (dilemma)</strong> içeren örnek olay hikayelerinin sınıfça tartışılması.</td></tr>
+            <tr><td><strong>7. Eylem Öğrenme</strong></td><td>Değerlerin toplumsal yaşamda bizzat <strong>yaparak-yaşayarak ve sosyal projelerle</strong> öğrenilmesi.</td></tr>
+            <tr><td><strong>8. Karakter Eğitimi</strong></td><td>Geleneksel ve çağdaş yaklaşımları birleştirerek ahlaki davranışı <strong>kalıcı alışkanlığa (karaktere)</strong> dönüştürme.</td></tr>
+          </table>
+          <strong>2) Kritik Değer Tanımları:</strong>
+          • <strong>Adalet:</strong> Hak ve özgürlük, eşitlik, hakkaniyet, önyargısızlık, ölçülülük ve <em>liyakat</em>.<br>
+          • <strong>Duyarlılık:</strong> Kültürel zenginliklere, tüm varlıklara değer verme, sürdürülebilirlik ve <em>afetlere karşı hazırlıklı olma</em>.<br>
+          • <strong>Mütevazılık:</strong> Kendini bilme, gösterişten ve kibirden uzak sade yaşam.<br>
+          • <strong>Mahremiyet:</strong> Kendisinin, ailesinin ve başkalarının kişisel alanını ve özel bilgilerini koruma.
+        </div>
+      </details>
+    </div>
+
+    <!-- 5. KUTU: EĞİLİMLER (3 KÜME - 2024 & 2025 TAM LİSTE) (6 SÜTUN) -->
+    <div class="card card-green col-6">
+      <div class="card-header">
+        <div class="card-title">🟩 5. EĞİLİMLER (BECERİLERİ TETİKLEYEN ZİHİNSEL ÖRÜNTÜLER)</div>
+        <span class="badge badge-exam">🔥 2026'da Soruldu</span>
+      </div>
+      <div class="three-cols">
+        <div class="sub-card" style="border-top:3px solid #10b981;">
+          <h4>👤 1. Benlik Eğilimleri (6)</h4>
+          <p style="color:#64748b; font-size:0.72rem; margin-bottom:4px;">(Kişisel / "Öz" Vurgulu)</p>
+          1. <mark class="hl">Merak</mark> <em>(keşfetme arzusu)</em><br>
+          2. <strong>Bağımsızlık</strong><br>
+          3. <mark class="hl">Azim ve Kararlılık</mark> <em>(zorlukta yılmama)</em><br>
+          4. <mark class="hl">Kendine İnanma (Öz Yeterlilik)</mark> <em>(planlama ve yürütme inancı)</em><br>
+          5. <strong>Kendine Güvenme (Öz Güven)</strong><br>
+          6. <strong>Seçicilik</strong> <em>(2024)</em>
+        </div>
+        <div class="sub-card" style="border-top:3px solid #0ea5e9;">
+          <h4>🤝 2. Sosyal Eğilimler (5)</h4>
+          <p style="color:#64748b; font-size:0.72rem; margin-bottom:4px;">(İnsanlarla Etkileşim)</p>
+          1. <mark class="hl">Empati</mark> <span class="badge badge-exam">2026</span><br>
+          2. <strong>Sorumluluk</strong><br>
+          3. <mark class="hl">Girişkenlik</mark><br>
+          4. <strong>Güven</strong><br>
+          5. <strong>Oyunseverlik</strong>
+        </div>
+        <div class="sub-card" style="border-top:3px solid #8b5cf6;">
+          <h4>🔬 3. Entelektüel Eğilimler (12)</h4>
+          <p style="color:#64748b; font-size:0.72rem; margin-bottom:4px;">(Zihinsel / Bilimsel Tavır)</p>
+          1. <strong>Odaklanma</strong> | 2. <strong>Yaratıcılık</strong><br>
+          3. <strong>Gerçeği Arama</strong> | 4. <strong>Açık Fikirlilik</strong><br>
+          5. <strong>Analitik Düşünme</strong> | 6. <strong>Sistematik Olma</strong><br>
+          7. <strong>Soru Sorma</strong> | 8. <mark class="hl">Şüphe Duyma (Kuşkuculuk)</mark><br>
+          9. <strong>Eleştirel Bakma</strong> | 10. <strong>Özgün Düşünme</strong><br>
+          11. <strong>Uzmanlaşma</strong> | 12. <strong>Muhakeme</strong>
+        </div>
+      </div>
+      <div style="font-size:0.77rem; background:#fffbeb; padding:6px 10px; border-radius:8px; border:1px solid #fde68a;">
+        ⚠️ <strong>Dikkat:</strong> <strong>"Girişkenlik"</strong> bir <em>Sosyal Eğilim</em>dir; ancak <strong>"Girişimcilik"</strong> Entelektüel Eğilim değildir (Öğrenci profilinde ve Sosyal Bilimler alan becerisinde yer alır — <em>Örnek Soru 8</em>).
+      </div>
+    </div>
+
+    <!-- 6. KUTU: KAVRAMSAL BECERİLER PİRAMİDİ & FİZİKSEL BECERİLER (6 SÜTUN) -->
+    <div class="card card-orange col-6">
+      <div class="card-header">
+        <div class="card-title">🟧 6. KAVRAMSAL BECERİLER PİRAMİDİ VE SÜREÇ BİLEŞENLERİ</div>
+        <div>
+          <span class="badge badge-code">🔑 ÜST DÜZEY: K - E - P</span>
+          <span class="badge badge-exam">🔥 2026'da 2 Soru!</span>
+        </div>
+      </div>
+      <div class="kv-list">
+        <div class="kv-row" style="border-left-color:#ea580c; background:#fff7ed;">
+          <span class="kv-key">🔺 3. Üst Düzey Düşünme<br><small>(SADECE 3 TANEDİR!)</small></span>
+          <span>
+            <strong>1) <u>K</u>arar Verme &nbsp;|&nbsp; 2) <u>E</u>leştirel Düşünme &nbsp;|&nbsp; 3) <u>P</u>roblem Çözme</strong> <span class="badge badge-code">Şifre: KEP</span><br>
+            <small>💡 <em>"Hangisi Bütünleşik Beceri değildir?"</em> derse şıklarda <strong>KEP</strong>'i ara! (<mark class="hl">Karar Verme</mark> - 2026)</small>
+          </span>
+        </div>
+        <div class="kv-row" style="border-left-color:#f97316;">
+          <span class="kv-key">🔸 2. Bütünleşik Beceriler<br><small>(20 Adet - Süreç Modellemesi Yapılabilen)</small></span>
+          <span>
+            🎯 <mark class="hl">Özetleme Becerisi 3 Adımı (2026):</mark> <strong>1) Çözümleme ➔ 2) Sınıflandırma ➔ 3) Kendi cümleleriyle yorumlama/aktarma.</strong><br>
+            🎯 <strong>Süreç Bileşeni Nedir?</strong> Beceri kazanma sürecindeki gözlenebilir <strong>işlem adımlarıdır</strong> <em>(2024 Sınav Sorusu!)</em>.
+          </span>
+        </div>
+        <div class="kv-row" style="border-left-color:#fdba74;">
+          <span class="kv-key">▫️ 1. Temel Beceriler (12)<br><small>(Tek Adımlı - Süreç Bileşeni Yazılmaz!)</small></span>
+          <span>Saymak, okumak, yazmak, çizmek, bulmak, seçmek, belirlemek, işaret etmek, ölçmek, sunmak, çevirmek, kaydetmek.</span>
+        </div>
+      </div>
+
+      <!-- AÇILIR KUTU: 20 BÜTÜNLEŞİK BECERİ VE 3 ÜST DÜZEY BECERİNİN TAM LİSTESİ VE TANIMLARI -->
+      <details class="more-box">
+        <summary>📋 20 Bütünleşik Beceri + 3 Üst Düzey Becerinin Tam Listesi ve Tanımları (Eksiksiz)</summary>
+        <div class="more-content">
+          <table class="mini-table">
+            <tr><th>No</th><th>Bütünleşik Beceri</th><th>Ortak Metin Kısa Tanımı / İşlem Adımları</th></tr>
+            <tr><td>1</td><td><strong>Çelişki Giderme</strong></td><td>İki veya daha fazla olay/konu/durum arasındaki <strong>tutarsızlığı düzeltme</strong> çabası.</td></tr>
+            <tr><td>2</td><td><strong>Gözlemleme</strong></td><td>Doğal ortamdaki nesne ve olaylara ait özelliklerin <strong>duyular aracılığıyla</strong> belirlenmesi.</td></tr>
+            <tr><td>3</td><td><strong>Özetleme</strong> <span class="badge badge-exam">2026</span></td><td>Özünü anlama (<strong>çözümleme</strong>), önemli-önemsiz ayırma (<strong>sınıflandırma</strong>) ve <strong>kendi cümleleriyle yorumlama/aktarma</strong>.</td></tr>
+            <tr><td>4</td><td><strong>Çözümleme (Analiz)</strong></td><td>Bir bütünü parçalarına ayırarak <strong>parçalar arasındaki ilişkileri</strong> belirleme.</td></tr>
+            <tr><td>5</td><td><strong>Sınıflandırma</strong></td><td>Nesne ve olayları özelliklerine ve ilişkilerine göre <strong>gruplara ayırma</strong>.</td></tr>
+            <tr><td>6</td><td><strong>Bilgi Toplama</strong></td><td>İstenen bilgiyi çeşitli yöntemlerle <strong>elde etme, doğrulama ve kaydetme</strong>.</td></tr>
+            <tr><td>7</td><td><strong>Karşılaştırma</strong></td><td>Birden fazla kavram/durum arasındaki <strong>benzerlik ve farklılıkları</strong> belirleme.</td></tr>
+            <tr><td>8</td><td><strong>Sorgulama</strong></td><td>Farkında olma, <strong>anlamlı sorular sorma</strong>, bilgi edinme ve değerlendirme.</td></tr>
+            <tr><td>9</td><td><strong>Genelleme</strong></td><td>Olayları araştırma ve özellikleri <strong>ilişkilendirip genişleterek genel yargıya varma</strong>.</td></tr>
+            <tr><td>10</td><td><strong>Çıkarım Yapma</strong></td><td>Önerme ve <strong>varsayımlara dayalı olarak</strong> sonuca ulaşma.</td></tr>
+            <tr><td>11</td><td><strong>Gözleme Dayalı Tahmin</strong></td><td><strong>Ön gözlemlerden veya deneyimlerden</strong> yola çıkarak çıkarım ve yargıda bulunma.</td></tr>
+            <tr><td>12</td><td><strong>Mevcut Bilgiye/Veriye Dayalı Tahmin</strong></td><td>Eldeki <strong>veriler üzerinden hesaplamalar yaparak</strong> yargıda bulunma.</td></tr>
+            <tr><td>13</td><td><strong>Yapılandırma</strong></td><td>Mevcut durumdan hareketle ilişkileri görme ve bunlardan <strong>uyumlu bir bütün oluşturma</strong>.</td></tr>
+            <tr><td>14</td><td><strong>Yorumlama</strong></td><td>Mevcut olay/konuyu <strong>bağlamından koparmadan yeniden açıklama</strong>.</td></tr>
+            <tr><td>15</td><td><strong>Yansıtma</strong></td><td>Bir durumu <strong>gelecekteki durumlara uygulamak için</strong> deneyimleri gözden geçirme, çıkarım ve değerlendirme yapma.</td></tr>
+            <tr><td>16</td><td><strong>Muhakeme (Akıl Yürütme)</strong></td><td>3 türü vardır: <strong>a) Tümevarımsal</strong> (gözlemden örüntü/genelleme), <strong>b) Tümdengelimsel</strong> (genelden özele), <strong>c) Analojik</strong> (yapısal/işlevsel benzerlikten düşünme).</td></tr>
+            <tr><td>17</td><td><strong>Değerlendirme</strong></td><td><strong>Ölçüt belirleyerek</strong> ölçme yapma ve sonuçları ölçütle karşılaştırıp yargıda bulunma.</td></tr>
+            <tr><td>18</td><td><strong>Tartışma</strong></td><td>Görüşlerini mantıksal sunma, başka görüşleri dinleme ve <strong>mantıksal açıdan kıyaslama</strong>.</td></tr>
+            <tr><td>19</td><td><strong>Mantıksal Denetleme</strong></td><td>Önerme veya çıkarımı biçimsel olarak <strong>akıl ilkelerine uygun şekilde</strong> denetleme.</td></tr>
+            <tr><td>20</td><td><strong>Sentezleme</strong></td><td>Parçalar arasında ilişki kurarak <strong>özgün yeni bir bütün</strong> oluşturacak şekilde birleştirme.</td></tr>
+          </table>
+          <strong>Üst Düzey Düşünme Becerilerinin (KEP) Alt İşlemleri:</strong><br>
+          • <strong>Karar Verme:</strong> Amacı belirleme ➔ Bilgi arama/toplama ➔ Alternatif seçenekler oluşturma ➔ Mantıksal denetleme ➔ Seçim yapma ➔ Sonuçlar üzerinde yansıtma.<br>
+          • <strong>Problem Çözme:</strong> Yapılandırma ➔ Özetleme ➔ Gözleme/veriye dayalı tahmin ➔ Akıl yürütme ➔ Yansıtma/değerlendirme.<br>
+          • <strong>Eleştirel Düşünme:</strong> Karşılaşılan bilgilere ilişkin <em>sorgulama + akıl yürütme + yansıtma</em>.
+        </div>
+      </details>
+    </div>
+
+    <!-- 7. KUTU: 10 BRANŞIN ALAN BECERİLERİ (6 SÜTUN) -->
+    <div class="card card-teal col-6">
+      <div class="card-header">
+        <div class="card-title">🟩 7. ALAN BECERİLERİ (10 DİSİPLİN / DERS ALANI)</div>
+        <span class="badge badge-exam">🔥 2026 Sorusu</span>
+      </div>
+      <div class="kv-list">
+        <div class="kv-row" style="border-left-color:#0d9488;">
+          <span class="kv-key">🇹🇷 1. Türkçe (Merkezde!):</span>
+          <span>Tüm beceri, okuryazarlık ve değerlerin temelidir! <strong>Anlama:</strong> <em>Dinleme/İzleme, Okuma</em> | <strong>Anlatma:</strong> <em>Konuşma, Yazma</em> + Son işlem: <mark class="hl">Kendine Uyarlama (Öz Yansıtma)</mark>.</span>
+        </div>
+        <div class="kv-row" style="border-left-color:#0d9488;">
+          <span class="kv-key">🌍 4. Sosyal Bilimler (17):</span>
+          <span><em>Tarih + Coğrafya + Felsefe + Sosyoloji:</em> Mekânsal düşünme, Zaman/Kronoloji, Tarihsel empati, <mark class="hl">Tablo/Grafik/Şekil/Diyagram</mark>, <mark class="hl">Mantıksal muhakeme</mark>, Sosyal katılım, Girişimcilik.</span>
+        </div>
+        <div class="kv-row" style="border-left-color:#0d9488;">
+          <span class="kv-key">🎨 5. Sanat (13) & 🔬 3. Fen (13):</span>
+          <span><strong>Sanat:</strong> <mark class="hl">Görsel mesajı okuma (2026!)</mark>, Sanatsal algılama/üretim/tasarım, Müziksel işitme/okuma/yazma/çalma.<br>
+          <strong>Fen:</strong> Bilimsel gözlem/tahmin/çıkarım/model/sorgulama, Hipotez, Deney, Kanıt kullanma, <mark class="hl">Operasyonel tanımlama</mark>.</span>
+        </div>
+      </div>
+
+      <!-- AÇILIR KUTU: 10 BRANŞIN TÜM ALAN BECERİLERİ TAM LİSTESİ -->
+      <details class="more-box">
+        <summary>🗂️ 10 Branşın Tüm Alan Becerileri Tam Listesi (Matematik, Bilişim, Tasarım, Din, Beden, Yabancı Dil...)</summary>
+        <div class="more-content">
+          <table class="mini-table">
+            <tr><th>Alan (Branş)</th><th>Alan Becerileri Tam Listesi ve Ayırt Edici İpuçları</th></tr>
+            <tr><td><strong>1. Türkçe (4+1)</strong></td><td>• <strong>Anlama:</strong> Dinleme/İzleme, Okuma (<em>Yönetme ➔ Anlam oluşturma ➔ Çözümleme ➔ Süreci değerlendirme</em>)<br>• <strong>Anlatma:</strong> Konuşma, Yazma (<em>Yönetme ➔ İçerik oluşturma ➔ Kural uygulama ➔ Süreci değerlendirme</em>)<br>• <strong>Alana Özgü Son İşlem:</strong> Kendine Uyarlama (Öz Yansıtma - Benlik becerilerinden alınmıştır).</td></tr>
+            <tr><td><strong>2. Matematik (5)</strong></td><td>1) Matematiksel Problem Çözme, 2) Matematiksel Muhakeme (<em>Çözümleme ➔ Yorumlama ➔ Çıkarım ➔ İspat</em>), 3) Matematiksel Temsil, 4) Matematiksel Araç ve Teknoloji ile Çalışma, 5) <strong>Veri ile Çalışma ve Veriye Dayalı Karar Verme</strong> (<em>İstatistiksel problem belirleme</em>).</td></tr>
+            <tr><td><strong>3. Fen Bilimleri (13)</strong></td><td>1) Bilimsel Gözlem, 2) Sınıflandırma, 3) Bilimsel Gözleme Dayalı Tahmin, 4) Bilimsel Veriye Dayalı Tahmin, 5) <strong>Operasyonel Tanımlama</strong>, 6) Hipotez Oluşturma, 7) Deney Yapma, 8) Bilimsel Çıkarım Yapma, 9) Bilimsel Model Oluşturma, 10) Tümevarımsal Akıl Yürütme, 11) Tümdengelimsel Akıl Yürütme, 12) <strong>Kanıt Kullanma</strong>, 13) Bilimsel Sorgulama.</td></tr>
+            <tr><td><strong>4. Sosyal Bilimler (17)</strong></td><td>1) Kanıta Dayalı Sorgulama ve Araştırma, 2) Zamanı Algılama ve Kronolojik Düşünme, 3) Tarihsel Empati, 4) Sosyal Katılım, 5) Değişim ve Sürekliliği Algılama, 6) <strong>Girişimcilik</strong>, 7) Mekânsal Düşünme, 8) Coğrafi Sorgulama, 9) Harita, 10) Coğrafi Gözlem ve Saha Çalışması, 11) <strong>Mantıksal Muhakeme</strong>, 12) <strong>Tablo, Grafik, Şekil ve/veya Diyagram</strong>, 13) Felsefi Sorgulama, 14) Felsefi Düşünce Ortaya Koyma, 15) Felsefi Muhakeme, 16) Eleştirel Sosyolojik Düşünme, 17) Tarihsel Sorun Analizi ve Karar Verme.</td></tr>
+            <tr><td><strong>5. Sanat (13)</strong></td><td>1) Sanatsal Algılama, 2) <mark class="hl">Görsel Mesajı Okuma</mark>, 3) Sanat Eserini İnceleme, 4) Sanatsal Üretim Yapma, 5) Sanatsal Tasarım Yapma, 6) Müziksel İşitme, 7) Müziksel Okuma, 8) Müziksel Yazma, 9) Müziksel Dinleme, 10) Müziksel Söyleme, 11) Müziksel Çalma, 12) Müziksel Yaratıcılık, 13) Müziksel Hareket.</td></tr>
+            <tr><td><strong>6. Beden Eğitimi, Oyun ve Spor (10)</strong></td><td>1) Hareketi Sergileme, 2) Hareket Kavramlarını Uygulama, 3) Taktik ve Strateji Geliştirme, 4) Fiziksel Aktiviteye Katılma, 5) <mark class="hl">Ritmik Hareket Etme</mark> <em>(Müzikle karıştırma, hareket vurgusu var!)</em>, 6) Fiziksel Uygunluk Sağlama, 7) Eşle/Grupla Hareket Etme, 8) Adil Oyun Anlayışına Uygun Davranma, 9) Takım/Grup Liderliği Sergileme, 10) Güvenli Ortam Oluşturma.</td></tr>
+            <tr><td><strong>7. Bilişim Teknolojileri ve Yazılım (6)</strong></td><td>1) <strong>Bilgi İşlemsel Düşünme</strong> (<em>Algoritmik düşünme, soyutlama, ayrıştırma, hata ayıklama</em>), 2) Bilişim Teknolojilerini Kullanma, 3) Yazılım Geliştirme, 4) <strong>Veri Yönetimi</strong>, 5) Dijital Güvenlik Önlemleri Alma, 6) Dijital Ürün Geliştirme (<em><mark class="hl">Simülasyon</mark> burada!</em>).</td></tr>
+            <tr><td><strong>8. Tasarım (4)</strong></td><td>1) Tasarım Ürünü Oluşturma, 2) <mark class="hl">Benzetişim / Benzetim</mark> (<em>Metafor ve Analoji yapabilme — Simülasyon Bilişim'de, Benzetim Tasarım'da!</em>), 3) Çoklu Ortam Sunum, 4) Doğa ve Canlıları Tasarımla İlişkilendirebilme / Esinlenme.</td></tr>
+            <tr><td><strong>9. Din Eğitimi ve Öğretimi (8)</strong></td><td>1) Temel Kaynakları Kullanma (<em>Meal ve Hadis</em>), 2) Dinî Kaynakları <strong>Tetkik</strong>, 3) <strong>Tahkik</strong> (<em>dinî kavramları ayırt etme/tahlil</em>), 4) <strong>Tefekkür</strong> (<em>müşahede, idrak</em>), 5) Dinî Delillere Başvurma (<em>akli/nakli delil, mukayese</em>), 6) <strong>Tatbik</strong> (<em>uygulama</em>), 7) <strong>Tilavet</strong> (<em>Kur'an'ı güzel okuma: telaffuz, yüzünden, ezbere</em>), 8) Hitabet ve Mesleki Uygulama.</td></tr>
+            <tr><td><strong>10. Yabancı Dil</strong></td><td>• <strong>Alımlayıcı:</strong> Dinleme/İzleme-Anlamlandırma, Okuma-Anlamlandırma | <strong>Üretici:</strong> Konuşma-Anlatma, Yazma-Anlatma | <strong>Destekleyici:</strong> Dil Bilgisi, Sözcük, Sesletim Seçme-Kullanma.<br>• <strong>3 Yaklaşım:</strong> 1) <em>Bütüncül</em> (doğal akış, taklit), 2) <em>Yarı Bütüncül-Yarı Tümevarımsal</em> (bağlam + farkındalık), 3) <em>Tümevarımsal</em> (örnekten kuralı bilinçli keşif).</td></tr>
+          </table>
+        </div>
+      </details>
+    </div>
+
+    <!-- 8. KUTU: SOSYAL-DUYGUSAL ÖĞRENME (SDÖ) + SİSTEM DÜŞÜNCESİ VE 9 OKURYAZARLIK (6 SÜTUN) -->
+    <div class="card card-indigo col-6">
+      <div class="card-header">
+        <div class="card-title">🟦 8. SOSYAL-DUYGUSAL BECERİLER (SDÖ) & 9 OKURYAZARLIK</div>
+        <span class="badge badge-exam">🔥 2026'da 2 Soru!</span>
+      </div>
+      <div class="three-cols">
+        <div class="sub-card" style="border-top:3px solid #6366f1;">
+          <h4>🧠 1. Benlik Becerileri (SDÖ)</h4>
+          1. <strong>Kendini Tanıma</strong> <em>(Öz Farkındalık)</em><br>
+          2. <strong>Kendini Düzenleme</strong> <em>(Öz Düzenleme)</em><br>
+          3. <strong>Kendine Uyarlama</strong> <em>(Öz Yansıtma)</em>
+        </div>
+        <div class="sub-card" style="border-top:3px solid #ec4899;">
+          <h4>💬 2. Sosyal Yaşam (SDÖ)</h4>
+          1. <strong>İletişim</strong><br>
+          2. <mark class="hl">İş Birliği</mark> <span class="badge badge-exam">2026</span><br>
+          3. <strong>Sosyal Farkındalık</strong> <em>(hemhâl olma)</em>
+        </div>
+        <div class="sub-card" style="border-top:3px solid #14b8a6;">
+          <h4>🔗 3. Ortak / Birleşik (SDÖ)</h4>
+          1. <strong>Uyum</strong><br>
+          2. <strong>Esneklik</strong><br>
+          3. <mark class="hl">Sorumlu Karar Verme</mark> <span class="badge badge-exam">2026</span>
+        </div>
+      </div>
+
+      <div class="kv-list">
+        <div class="kv-row" style="border-left-color:#6366f1; background:#eef2ff;">
+          <span class="kv-key">📊 Okuryazarlık 3 Düzeyi:<br><small>(Sarmal Yapı - 2026 Sorusu!)</small></span>
+          <span>
+            <strong>1) <mark class="hl">Farkındalık (Temel):</mark></strong> <em>"Sistemin parçalarını belirleme"</em>, tanıma, anlama <span class="badge badge-exam">2026</span><br>
+            <strong>2) İşlevsellik (Orta):</strong> <em>"Sistemi çözümleme ve yapılandırma"</em>, ilişkileri fark etme, özetleme<br>
+            <strong>3) Eylemsellik (Üst):</strong> <em>"Tahmin araçları oluşturma, problem çözme ve eyleme dönüştürme"</em>
+          </span>
+        </div>
+        <div class="kv-row" style="border-left-color:#6366f1;">
+          <span class="kv-key">📖 9 Okuryazarlık Türü:<br><small>(Örtük ve Sarmal Yapıda)</small></span>
+          <span>
+            <strong>1) Bilgi</strong> <em>(bilginin doğruluğunu tartma)</em>, <strong>2) Dijital</strong> <em>(Web 2.0 + <mark class="hl">telif/fikrî mülkiyet hakları</mark>)</em>, <strong>3) Finansal</strong> <em>(bütçe/finansman planlama)</em>, <strong>4) Görsel</strong>, <strong>5) Kültür</strong>, <strong>6) Vatandaşlık</strong>, <strong>7) Veri</strong>, <strong>8) Sürdürülebilirlik</strong> <em>(geri/ileri dönüşüm)</em>, <strong>9) Sanat</strong>.<br>
+            <small>⚠️ <em>Not: Medya, Bilgisayar ve Teknoloji okuryazarlığı TYMM'deki 9 okuryazarlık arasında ayrı başlık değildir!</em></small>
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 9. KUTU: İÇERİK ÇERÇEVESİ (4 BİLGİ TÜRÜ), ÖĞRENME ÇIKTILARI, DİSİPLİNLER VE BECERİLER ARASI İLİŞKİLER (6 SÜTUN) -->
+    <div class="card card-indigo col-6">
+      <div class="card-header">
+        <div class="card-title">🟦 9. İÇERİK ÇERÇEVESİ, ÇIKTILAR & İLİŞKİLER</div>
+        <span class="badge badge-exam">🔥 2026'da 3 Soru!</span>
+      </div>
+      <div class="kv-list">
+        <div class="kv-row" style="border-left-color:#4f46e5;">
+          <span class="kv-key">📦 İçerik Çerçevesi:<br><small>(Bilgi Kümesi)</small></span>
+          <span>
+            • <mark class="hl">"Öğrenci ne bilmelidir?"</mark> sorusuna cevap verir <span class="badge badge-exam">2026</span>. Yatay (farklı konular arası) ve Dikey (sınıf seviyesine göre derinlik) boyutta ele alınır.<br>
+            • <strong>4 Bilgi Türü:</strong> <strong>1) Disipline Özgü</strong> (kavram, ilke, sembol), <strong>2) Epistemik Bilgi</strong> (<em>alan uzmanlarının nasıl çalıştığı ve düşündüğü</em>), <strong>3) Disiplinler Arası Bilgi</strong>, <strong>4) İşlemsel Bilgi</strong> (<em>bir işin yapılma adımları</em>).
+          </span>
+        </div>
+        <div class="kv-row" style="border-left-color:#4f46e5;">
+          <span class="kv-key">🔀 Disiplinler Arası İlişki:</span>
+          <span>Farklı derslerin anlamlı bütünlükte kullanılmasıdır. Öğrencilere: <strong>I) Çoklu bakış açısı geliştirme</strong>, <strong>II) Farklı disiplinlerin konuları arasında bağ kurma</strong> ve <strong>III) Karmaşık problemlere çözüm bulma</strong> kazandırır <span class="badge badge-exam">2026</span>.</span>
+        </div>
+        <div class="kv-row" style="border-left-color:#4f46e5;">
+          <span class="kv-key">🔗 Beceriler Arası İlişki:</span>
+          <span>Öğrenme çıktılarında doğrudan yer almayan ancak <mark class="hl">öğrenme-öğretme faaliyetlerinde hedef becerilerle ilişkilendirilerek anlam bulan</mark> diğer kavramsal becerilerdir <span class="badge badge-exam">2026</span>.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 10. KUTU: ÖĞRENME-ÖĞRETME YAŞANTILARI (5 BİLEŞEN, 5 YAKLAŞIM, 5 ORTAM) VE ÖĞRENME KANITLARI (12 SÜTUN) -->
+    <div class="card card-rose col-12">
+      <div class="card-header">
+        <div class="card-title">🟥 10. ÖĞRENME-ÖĞRETME YAŞANTILARI (5 BİLEŞEN, 5 YAKLAŞIM, 5 ORTAM) VE ÖĞRENME KANITLARI</div>
+        <span class="badge badge-exam">🔥 2026'da 6 Soru!</span>
+      </div>
+
+      <!-- 5 BİLEŞEN AKIŞI -->
+      <div class="steps-flow">
+        <div class="step-item">
+          <span class="step-num">1. BİLEŞEN</span>
+          <h5><mark class="hl">Temel Kabuller</mark></h5>
+          <p>Öğrencinin üniteye başlarken <strong>bildiği varsayılan ön öğrenmelerdir</strong> (Örn: Çarpmadan önce toplamayı bildiğini düşünmek - <span class="badge badge-exam">2026</span>).</p>
+        </div>
+        <div class="step-item">
+          <span class="step-num">2. BİLEŞEN</span>
+          <h5><mark class="hl">Ön Değerlendirme</mark></h5>
+          <p>Temel kabullere sahip olup olmadığını ölçer, içeriği özelleştirir. ⚠️ <em>"Derse aktif katılım sağlama"</em> amacı <strong>YOKTUR!</strong> <span class="badge badge-exam">2026</span></p>
+        </div>
+        <div class="step-item" style="background:#fff1f2; border-color:#f43f5e;">
+          <span class="step-num">3. BİLEŞEN</span>
+          <h5><mark class="hl">Köprü Kurma</mark></h5>
+          <p><strong>Mevcut bilgi ↔ Yeni bilgi</strong> veya <strong>Ders ↔ Günlük hayat / Güncel haber</strong> (su kıtlığı haberi vb.) arasında bağ kurma <span class="badge badge-exam">2026</span>.</p>
+        </div>
+        <div class="step-item">
+          <span class="step-num">4. BİLEŞEN</span>
+          <h5>Uygulamalar</h5>
+          <p>Öğrenci merkezli, aktif, Vygotsky <em>Yakınsal Gelişim Bölgesi</em> temelli iş birlikli etkinlikler.</p>
+        </div>
+        <div class="step-item">
+          <span class="step-num">5. BİLEŞEN</span>
+          <h5>Farklılaştırma</h5>
+          <p>Bireysel durumları dikkate alarak <strong>nitelikli çeşitlilik</strong> sağlama (<em>Zenginleştirme & Destekleme</em>) <span class="badge badge-exam">2026</span>.</p>
+        </div>
+      </div>
+
+      <div class="three-cols">
+        <!-- 5 YAKLAŞIM -->
+        <div class="sub-card" style="border-top:3px solid #e11d48;">
+          <h4>🧭 Temel Alınan 5 Öğrenme Yaklaşımı</h4>
+          1. <strong>Yaşantı Temelli:</strong> Deneyimlerle, <em>yaparak-yaşayarak</em>.<br>
+          2. <strong>Bağlam Temelli:</strong> <em>Gerçek yaşam durumları</em> etrafında.<br>
+          3. <strong>Proje Temelli:</strong> <em>Gerçek bir problem + bilimsel araştırma + somut ürün</em>.<br>
+          4. <mark class="hl">Sorgulamaya Dayalı:</mark> Merak <strong>sorusuyla</strong> başlar; bilgi toplama, görüşme formu ve karşılaştırma ile bilgiyi yapılandırır <span class="badge badge-exam">2026</span>.<br>
+          5. <strong>İş Birlikli Öğrenme:</strong> Küçük takımlarla ortak amaç.
+        </div>
+
+        <!-- 5 ÖĞRENME ORTAMI -->
+        <div class="sub-card" style="border-top:3px solid #e11d48;">
+          <h4>🏫 5 Bütüncül Öğrenme Ortamı <span class="badge badge-exam">2026</span></h4>
+          1. <strong>Geleneksel Fiziksel:</strong> Sınıf, laboratuvar, kütüphane, <em>atölyeler</em>.<br>
+          2. <strong>Çevrim İçi Ortamlar:</strong> Sanal sınıf, <em>eğitim portalları</em>, mobil uygulamalar, <mark class="hl">web seminerleri (webinarlar)</mark>.<br>
+          3. <strong>Sosyal Ortamlar:</strong> Topluluklar, <em>kulüp ve organizasyonlar</em>.<br>
+          4. <strong>Açık Alan / Sınıf Dışı:</strong> Doğal çevre, müze, bilim merkezi, <em>spor eğitimi merkezleri</em>.<br>
+          5. <strong>VR / AR Tabanlı:</strong> Sanal gerçeklik (VR) ve Artırılmış gerçeklik (AR). <em>(Dikkat: Web semineri AR değildir! - 2026)</em>
+        </div>
+
+        <!-- ÖĞRENME KANITLARI -->
+        <div class="sub-card" style="border-top:3px solid #e11d48;">
+          <h4>📋 Öğrenme Kanıtları (Ölçme ve Değerlendirme)</h4>
+          • Birinci öncelik: <strong>"Öğrenme sürecinde derinleşme"</strong> ve sürekli/geliştirici (<strong>biçimlendirici</strong>) değerlendirmedir.<br>
+          • <strong>Her ünitede en az 1 performans görevi</strong> verilmelidir.<br>
+          • <mark class="hl">Değerlendirme kriterleri açık şekilde tanımlanmalıdır</mark> <span class="badge badge-exam">2026</span>.<br>
+          • Yöntemler çeşitlendirilmeli, yargılayıcı olmayan anlık geri bildirim verilmeli, öz/akran değerlendirme ve dijital teknolojiler kullanılmalıdır.
+        </div>
+      </div>
+    </div>
+
+    <!-- 11. KUTU: FARKLILAŞTIRMA (ZENGİNLEŞTİRME 3 BOYUTU & DESTEKLEME 2 TÜRÜ) + OKUL TEMELLİ PLANLAMA & PROGRAM DIŞI ETKİNLİKLER (12 SÜTUN) -->
+    <div class="card card-rose col-12">
+      <div class="card-header">
+        <div class="card-title">🟥 11. FARKLILAŞTIRMA (ZENGİNLEŞTİRME & DESTEKLEME), OKUL TEMELLİ PLANLAMA VE PROGRAM DIŞI ETKİNLİKLER</div>
+        <span class="badge badge-exam">🔥 2025 & 2026'da 4 Soru!</span>
+      </div>
+
+      <div class="diff-grid">
+        <!-- ZENGİNLEŞTİRME -->
+        <div class="diff-box diff-zeng">
+          <h4 style="color:#065f46; font-weight:800; margin-bottom:5px;">🚀 ZENGİNLEŞTİRME (Akranlarından İleri Düzeyde Olan Öğrencilere)</h4>
+          • Kendi sınıf düzeyinde derinleştirme ve genişletmedir (Üst sınıfa geçirme YOKTUR!).<br>
+          • <strong>Zenginleştirmenin 3 Boyutu (2026 Sınav Sorusu!):</strong><br>
+          &nbsp;&nbsp;1. <strong>İçeriğe Dayalı:</strong> <em>Soyutluk, karmaşıklık, çeşitlilik, organizasyon, seçkin kişiler, yöntemler, ekonomiklik.</em><br>
+          &nbsp;&nbsp;2. <strong>Sürece Dayalı:</strong> <em>Üst düzey düşünme, açık uçluluk, keşifçi öğrenme, akıl yürütme, seçimde özgürlük, araştırma yöntemleri, öğretim hızı, grup etkileşimi.</em><br>
+          &nbsp;&nbsp;3. <strong>Ürüne Dayalı:</strong> <em>Gerçek hayat problemleri, gerçek alıcı kitle, ürün değerlendirmesi, sentez ürün, çeşitlilik ve <mark class="hl">DÖNÜŞÜMLER</mark></em> <span class="badge badge-exam">2026</span>.<br>
+          • <strong>Dönüşümler Tablosu Yönü (2025 Sorusu):</strong> <em>Basitten ➔ Karmaşığa | Somuttan ➔ Soyuta | Tek boyuttan ➔ Çok boyuta | Bağımlıdan ➔ Bağımsıza.</em>
+        </div>
+
+        <!-- DESTEKLEME -->
+        <div class="diff-box diff-dest">
+          <h4 style="color:#1e40af; font-weight:800; margin-bottom:5px;">🛟 DESTEKLEME (Daha Fazla Zaman ve Tekrara İhtiyaç Duyanlara)</h4>
+          • Öğrencinin kendi hızında ilerlemesi ve akranlarına yetişmesi için içerik, süreç, ürün ve ortam uyarlamasıdır (SDÖ benlik becerilerini de destekler).<br>
+          • <strong>Desteklemenin 2 Türü:</strong><br>
+          &nbsp;&nbsp;1. <strong>Destekleyici Öğretim:</strong> Anlamakta güçlük çekilen konuları <em>farklı yollarla</em> (yazılı metin yerine resim, video, eğitsel oyun, grup çalışmasıyla) somutlaştırarak sunma.<br>
+          &nbsp;&nbsp;2. <strong>Telafi Edici Öğretim:</strong> Zayıf olunan, kaçırılan veya anlaşılmayan temel konular için sınıf ortamında <em>ekstra ders, tekrar ve etkinlik</em> sunma.
+        </div>
+      </div>
+
+      <!-- ALT 3 KUTU: OKUL TEMELLİ PLANLAMA + PROGRAM DIŞI ETKİNLİKLER + ÖĞRETMEN YANSITMALARI -->
+      <div class="three-cols">
+        <div class="sub-card" style="border-top:3px solid #f43f5e;">
+          <h4>🗓️ Okul Temelli Planlama <span class="badge badge-exam">2026</span></h4>
+          • <strong>Zümre öğretmenler kurulu</strong> tarafından ders kapsamında kararlaştırılan <em>araştırma-gözlem, sosyal etkinlik, proje, yerel çalışmalar, okuma etkinlikleri</em> için ayrılan esnek süredir (yıllık planda gösterilir).<br>
+          • Öğretmene <strong>özerklik ve uyarlama esnekliği</strong> tanır.<br>
+          • ⚠️ <strong>2026 Tuzağı:</strong> <em>"Farklı zümre uygulamaları için ölçüt oluşturmak"</em> gibi bir amacı <strong>YOKTUR!</strong>
+        </div>
+
+        <div class="sub-card" style="border-top:3px solid #f43f5e;">
+          <h4>🏕️ Program Dışı Etkinlikler (5 Alan) <span class="badge badge-exam">2026</span></h4>
+          1. <strong>Bireysel Gelişim:</strong> İlgi/yetenek keşfi, öz güven, güçlü şahsiyet.<br>
+          2. <mark class="hl">Zihinsel Gelişim:</mark> Entelektüel büyüme, <em>karar verme, eleştirel düşünme, problem çözme</em>.<br>
+          3. <mark class="hl">Sosyal-Duygusal Gelişim:</mark> <em>Stres, kaygı ve zorluklarla başa çıkma</em>, akran etkileşimi.<br>
+          4. <strong>Fiziksel Gelişim:</strong> Sağlıklı hayat tarzı.<br>
+          5. <strong>Ahlaki Gelişim:</strong> Merhamet, dayanışma, adil rekabet.<br>
+          • Kapsamı: <em>Sosyal Sorumluluk Programı</em> ve <em>Hayat Boyu Öğrenme (istihdam öncelikli, içsel motivasyonlu)</em>.
+        </div>
+
+        <div class="sub-card" style="border-top:3px solid #f43f5e;">
+          <h4>🪞 Öğretmen Yansıtmaları</h4>
+          • Öğretmenin hem <strong>kendisinin</strong> hem de <strong>öğretim programının</strong> güçlü ve iyileştirilmesi gereken yönlerini değerlendirmesidir (paydaş geri bildirimleri de kullanılır).<br>
+          • <strong>Veri Kaynakları:</strong> Öz değerlendirme ve görüşme formları, <em>anekdot kayıtları, günlükler, münazara, zümre ve ŞÖK raporları, öğretmenler kurulu raporları, gelişim dosyaları, mikro öğretim değerlendirmeleri, ders raporları</em>.
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    let allOpen = false;
+    function toggleAllDetails() {
+      allOpen = !allOpen;
+      const detailsList = document.querySelectorAll('details.more-box');
+      detailsList.forEach(d => d.open = allOpen);
+      const btn = document.getElementById('toggleAllBtn');
+      btn.textContent = allOpen ? '📁 Tüm Detay Kutularını Kapat' : '📂 Tüm Detay Kutularını Aç';
+    }
+
+    function filterHighlight(query) {
+      const q = query.trim().toLocaleLowerCase('tr-TR');
+      const cards = document.querySelectorAll('.card');
+      cards.forEach(card => {
+        if (!q) {
+          card.style.opacity = '1';
+          card.style.transform = 'none';
+          return;
+        }
+        const text = card.innerText.toLocaleLowerCase('tr-TR');
+        if (text.includes(q)) {
+          card.style.opacity = '1';
+          card.style.transform = 'scale(1.005)';
+          // Eğer aranan kelime gizli details içindeyse otomatik aç
+          card.querySelectorAll('details.more-box').forEach(d => {
+            if (d.innerText.toLocaleLowerCase('tr-TR').includes(q)) {
+              d.open = true;
+            }
+          });
+        } else {
+          card.style.opacity = '0.22';
+          card.style.transform = 'none';
+        }
+      });
+    }
+  </script>
+</body>
+</html>

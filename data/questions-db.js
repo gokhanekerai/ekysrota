@@ -80823,5 +80823,3805 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     ],
     "correctAnswer": "E",
     "explanation": "Doğru Cevap: <strong>E</strong> (Yabancılar milletvekili seçilebilir - Yanlış)<br><br>🎯 <strong>Mevzuat Analizi & Hukuki Gerekçe (Anayasa m.76):</strong><br>Milletvekili seçilme yeterliliğinin birinci ve mutlak şartı <strong>Türk vatandaşı olmak</strong>tır. Yabancı uyrukluların milletvekili seçilmesi hukuken kesinlikle mümkün değildir (Çifte vatandaşlar ise Türk vatandaşı oldukları için milletvekili olabilirler).<br><br>💡 <strong>EKYS Hap Notu:</strong><br>Milletvekilliğinde ilk şart: <strong>Türk vatandaşı olmak</strong>tır."
+  },
+  {
+    "id": "tarih14_1_q1",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Klasik dönem Osmanlı eğitim sisteminde \naşağıdakilerden hangisi örgün eğitim \nkapsamındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sahaf"
+      },
+      {
+        "key": "B",
+        "text": "Tekke"
+      },
+      {
+        "key": "C",
+        "text": "Lonca"
+      },
+      {
+        "key": "D",
+        "text": "Kıraathane"
+      },
+      {
+        "key": "E",
+        "text": "Medrese"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Medrese)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Klasik dönem Osmanlı eğitim sistemi örgün ve yaygın eğitim olarak iki ana kola ayrılır. Medreseler; orta ve yükseköğretim kademesinde düzenli bir müfredat, sınıf/derece hiyerarşisi (Hâşiye-i Tecrid, Miftah, Sahn vb.) ve icazetnameye (diploma) dayalı en köklü örgün eğitim kurumudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lonca, Tekke ve Kıraathane: Belli bir yaş ve diplomaya bağlı olmayan yaygın eğitim/mesleki/kültürel kurumlardır.<br>• Sahaf: Kitap basımı, satımı ve okuma çevrelerinin oluştuğu sosyal/yaygın kültür alanıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Örgün Eğitim: Sıbyan Mektebi ➔ Medrese ➔ Enderun / Harem / Şehzadegan Mektebi. Yaygın Eğitim: Lonca, Tekke, Cami, Kütüphane, Kıraathane."
+  },
+  {
+    "id": "tarih14_1_q2",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Aşağıdakilerden hangisi Osmanlı saray \neğitiminin bölümlerinden biridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bedesten"
+      },
+      {
+        "key": "B",
+        "text": "Darüşşifa"
+      },
+      {
+        "key": "C",
+        "text": "Enderun"
+      },
+      {
+        "key": "D",
+        "text": "Tabhane"
+      },
+      {
+        "key": "E",
+        "text": "Arasta"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Enderun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı saray eğitimi üç ana bölümden oluşur: 1) Enderun (İç saray mektebi - devlet adamı ve asker yetiştirir), 2) Harem (saray kadınlarının eğitimi), 3) Şehzadegan Mektebi (şehzadelerin ilköğretimi). Enderun doğrudan saray teşkilatının kalbidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten ve Arasta: Ticari yapılardır (kapalı çarşı ve aynı esnafın sıralandığı çarşı).<br>• Darüşşifa: Hastane/sağlık kurumudur.<br>• Tabhane: Misafirhane/konukevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray eğitimi dendiğinde 'Enderun - Harem - Şehzadegan' üçlüsünü arayın. Enderun'a devşirme kökenli yetenekli gençler seçilirdi."
+  },
+  {
+    "id": "tarih14_1_q3",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Aşağıdaki kurumlardan hangisi yaygın \neğitimle ilişkilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Medrese"
+      },
+      {
+        "key": "B",
+        "text": "Sıbyan mektebi"
+      },
+      {
+        "key": "C",
+        "text": "Acemi Oğlanlar Ocağı"
+      },
+      {
+        "key": "D",
+        "text": "Lonca"
+      },
+      {
+        "key": "E",
+        "text": "Enderun"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Lonca)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Loncalar, Osmanlı esnaf ve zanaatkâr teşkilatı olup çırak, kalfa ve usta yetiştirme sürecinde ahilik terbiyesi veren en tipik 'mesleki yaygın eğitim' kurumudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Medrese, Sıbyan Mektebi, Enderun ve Acemi Oğlanlar Ocağı: Belli bir yaş, disiplin ve aşamalara bağlı örgün kurumlardır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ahilik ve Lonca sistemi sorularında 'meslek içi yaygın eğitim', 'narh koyma' ve 'orta sandığı' anahtar kavramlardır."
+  },
+  {
+    "id": "tarih14_1_q4",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "İlk Osmanlı medresesi olarak gösterilen \nOrhaniye Medresesi hangi şehirde açılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Amasya"
+      },
+      {
+        "key": "B",
+        "text": "İznik"
+      },
+      {
+        "key": "C",
+        "text": "Edirne"
+      },
+      {
+        "key": "D",
+        "text": "İstanbul"
+      },
+      {
+        "key": "E",
+        "text": "Bursa"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (İznik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nin ilk medresesi, Orhan Bey döneminde 1331 yılında İznik'in fethinden hemen sonra açılan Orhaniye Medresesi'dir (İznik Medresesi).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bursa ve Edirne medreseleri daha sonraki fetihlerle kurulmuştur.<br>• İstanbul medreseleri (Sahn-ı Seman vb.) Fatih Sultan Mehmet döneminde açılmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk medrese = İznik Orhaniye Medresesi (Orhan Bey, 1331). İlk müderris = Davud-ı Kayserî."
+  },
+  {
+    "id": "tarih14_1_q5",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Medrese öğrenimini tamamlayanlara verilen \nbelgenin adı nedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İcazetname"
+      },
+      {
+        "key": "B",
+        "text": "Ruznamçe"
+      },
+      {
+        "key": "C",
+        "text": "Mühimme"
+      },
+      {
+        "key": "D",
+        "text": "Kanunname"
+      },
+      {
+        "key": "E",
+        "text": "Berat defteri"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (İcazetname)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı medreselerinde öğrenimini başarıyla tamamlayan öğrencilere verilen mezuniyet ve ders verme yetki belgesine 'İcâzetnâme' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mülazemet: Medrese mezunlarının müderrislik veya kadılık sırası beklediği bekleme/staj sistemidir.<br>• Berat: Padişahın tayin veya imtiyaz fermanıdır.<br>• İntisap: Bir tarikata veya devlet büyüğüne bağlanmadır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Medrese Diploması = İcazetname. Sıra bekleme/adaylık = Mülazemet. Öğretim üyesi = Müderris."
+  },
+  {
+    "id": "tarih14_1_q6",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Osmanlı medreselerinin ilk müderrisi kabul \nedilen kişi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Davud-i Kayseri"
+      },
+      {
+        "key": "B",
+        "text": "Ali Kuşçu"
+      },
+      {
+        "key": "C",
+        "text": "Akşemsettin"
+      },
+      {
+        "key": "D",
+        "text": "Kâtip Çelebi"
+      },
+      {
+        "key": "E",
+        "text": "Matrakçı Nasuh"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Davud-i Kayseri)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Orhan Bey tarafından 1331'de açılan ilk Osmanlı medresesi olan İznik Orhaniye Medresesi'ne atanan ilk müderris Davud-ı Kayserî'dir. Kendisine günlük 30 akçe yevmiye tahsis edilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dursun Fakih: İlk Osmanlı kadısıdır (Osman Bey dönemi).<br>• Molla Fenari: İlk Şeyhülislamdır (II. Murat dönemi).<br>• Ali Kuşçu: Fatih dönemi Ayasofya müderrisidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Kadı: Dursun Fakih | İlk Müderris: Davud-ı Kayserî | İlk Şeyhülislam: Molla Fenari. Bu üçlü EKYS'de sıkça eşleştirme sorusu olarak gelir."
+  },
+  {
+    "id": "tarih14_1_q7",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Sıbyan mekteplerindeki eğitimin temel \nhedeflerinden biri aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Okuma yazma ve temel hesap bilgisi \nkazandırmak"
+      },
+      {
+        "key": "B",
+        "text": "Üst düzey hukuk uzmanı yetiştirmek"
+      },
+      {
+        "key": "C",
+        "text": "Saray ressamı yetiştirmek"
+      },
+      {
+        "key": "D",
+        "text": "Diplomatlara yabancı dil öğretmek"
+      },
+      {
+        "key": "E",
+        "text": "Deniz mühendisi yetiştirmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Okuma yazma ve temel hesap bilgisi \nkazandırmak)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sıbyan Mektebi (Taş Mektep / Mahalle Mektebi), Osmanlı ilköğretim basamağıdır. 4-6 yaş civarındaki çocuklara temel dinî bilgiler, Kur'an-ı Kerim okuma, yazı ve basit aritmetik öğretilirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yüksek idari memur yetiştirmek Enderun'un;<br>• İleri düzey tıp ve astronomi medreselerin ve ihtisas kurumlarının görevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sıbyan mektebi mahalle düzeyindedir, karma eğitim verilebilir ve vakıflar tarafından desteklenir."
+  },
+  {
+    "id": "tarih14_1_q8",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Medrese öğrencileri ve görevlileriyle ilgili \naşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Müderris – Deniz askeri"
+      },
+      {
+        "key": "B",
+        "text": "Mülazım – Başnakkaş"
+      },
+      {
+        "key": "C",
+        "text": "Danişment – Saray hekimi"
+      },
+      {
+        "key": "D",
+        "text": "Muid – Müderris yardımcısı"
+      },
+      {
+        "key": "E",
+        "text": "Softa – Kadı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Muid – Müderris yardımcısı)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Medresede görev yapan öğretim üyesine 'Müderris', onun yardımcısına/asistanına 'Muid', öğrencilerine ise 'Softa' (Suhte - alt kademe) ve 'Dânişmend' (yüksek kademe talebe) denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mütevelli: Vakıf yöneticisidir.<br>• Naib: Kadı vekilidir.<br>• Reisülküttab: Dışişleri ve bürokrasi amiridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Medrese Hiyerarşisi: Softa (alt öğrenci) ➔ Dânişmend (ileri öğrenci) ➔ Muid (asistan) ➔ Müderris (hoca)."
+  },
+  {
+    "id": "tarih14_1_q9",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Şehzadelerin ilk ders töreni için kullanılan \nad aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çıkma"
+      },
+      {
+        "key": "B",
+        "text": "Cülus bahşişi"
+      },
+      {
+        "key": "C",
+        "text": "Bed-i Besmele Merasimi"
+      },
+      {
+        "key": "D",
+        "text": "Surre alayı"
+      },
+      {
+        "key": "E",
+        "text": "Kılıç alayı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Bed-i Besmele Merasimi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı'da şehzadelerin veya çocukların sıbyan mektebine başlarken düzenlenen ilk ders törenine 'Bed-i Besmele' (Besmeleye Başlama) veya 'Âmin Alayı' denirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kılıç Alayı: Padişahın tahta çıkışında Eyüp Sultan'da yapılan taç giyme merasimidir.<br>• Cülus: Tahta çıkış ve bahşiş törenidir.<br>• Sancak Töreni: Şehzadenin sancağa çıkış merasimidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk ders, besmele ve dua töreni = Bed-i Besmele / Âmin Alayı. Çocuk 4 yaş, 4 ay, 4 günlükken yapılması gelenektir."
+  },
+  {
+    "id": "tarih14_1_q10",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Acemilerin Yeniçeri Ocağı'na kaydedilmesi \nsüreci hangi kavramla ifade edilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İltizam"
+      },
+      {
+        "key": "B",
+        "text": "Çıkma"
+      },
+      {
+        "key": "C",
+        "text": "İcazet"
+      },
+      {
+        "key": "D",
+        "text": "Mukataa"
+      },
+      {
+        "key": "E",
+        "text": "Müsadere"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Çıkma)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Devşirme çocuklarının Acemi Oğlanlar Ocağı'ndaki eğitimlerini tamamlayıp Yeniçeri Ocağı'na veya diğer Kapıkulu ocaklarına geçiş yapmalarına 'Bedergâh' ya da 'Kapıya Çıkma' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İcazet: Medrese mezuniyetidir.<br>• Tahrir: Arazi ve vergi nüfus kaydıdır.<br>• Narh: Fiyat sınırlamasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Acemi Ocağı'ndan asıl ocağa geçiş = Bedergâh (Kapıya Çıkma). Bu törenle askerler esame defterine kaydedilir ve ulufe almaya hak kazanır."
+  },
+  {
+    "id": "tarih14_1_q11",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Tımarlı sipahilerin yetiştirdiği atlı askerlere \nne ad verilirdi?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Muid"
+      },
+      {
+        "key": "B",
+        "text": "Müstensih"
+      },
+      {
+        "key": "C",
+        "text": "Levent"
+      },
+      {
+        "key": "D",
+        "text": "Mülazım"
+      },
+      {
+        "key": "E",
+        "text": "Cebelü"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Cebelü)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tımar sisteminde dirlik sahiplerinin (sipahilerin) elde ettikleri her belirli gelir (genellikle her 3.000 veya 5.000 akçe) karşılığında savaşa hazırlayıp techiz etmekle yükümlü oldukları atlı zırhlı askerlere 'Cebelü' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Levent: Deniz askeridir.<br>• Muid: Müderris yardımcısıdır.<br>• Müstensih: Kitap kopyalayan hattattır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tımarlı Sipahi = Ordunun omurgası, barışta çiftçi/güvenlik, savaşta cebelüleri ile orduya katılır. Hazineye sıfır maliyetlidir."
+  },
+  {
+    "id": "tarih14_1_q12",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "Tersanelerde eğitim gören deniz askerleri \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cebelü"
+      },
+      {
+        "key": "B",
+        "text": "Müderris"
+      },
+      {
+        "key": "C",
+        "text": "Levent"
+      },
+      {
+        "key": "D",
+        "text": "Musavvir"
+      },
+      {
+        "key": "E",
+        "text": "Softa"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Levent)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı donanmasında ve tersanelerinde görev yapan, gemi mürettebatı ve deniz piyadelerine 'Levent' adı verilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Cebelü: Tımarlı sipahinin atlı askeri;<br>• Musavvir: Minyatür ressamı;<br>• Softa: Medrese talebesidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Donanma Askeri = Levent. Donanma Komutanı = Kaptan-ı Derya. Deniz subay okulu = Mühendishane-i Bahrî-i Hümâyun."
+  },
+  {
+    "id": "tarih14_1_q13",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "1734'te Üsküdar'da açılan Hendesehane \nhangi padişah dönemine aittir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Abdülaziz"
+      },
+      {
+        "key": "B",
+        "text": "I. Mahmut"
+      },
+      {
+        "key": "C",
+        "text": "II. Mahmut"
+      },
+      {
+        "key": "D",
+        "text": "II. Abdülhamit"
+      },
+      {
+        "key": "E",
+        "text": "III. Selim"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (I. Mahmut)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1734 yılında Üsküdar'da Humbaracı Ahmet Paşa (Comte de Bonneval) öncülüğünde açılan ve Batı tarzı ilk askerî teknik okul sayılan Hendesehane, I. Mahmut dönemine aittir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• II. Mahmut: XIX. yüzyıl ıslahatçısıdır (Mekteb-i Harbiye, Tıbbiye).<br>• III. Selim: Mühendishane-i Berrî-i Hümâyun'u kurmuştur.<br>• II. Abdülhamit: Meslek ve mülkiye okullarını yaygınlaştırmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batı tarzı İLK askerî teknik eğitim kurumu = Hendesehane (1734 - I. Mahmut dönemi, Humbaracı Ahmet Paşa)."
+  },
+  {
+    "id": "tarih14_1_q14",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Mühendishane-i Bahrî-i Hümâyun'un temel \nkuruluş amacı nedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Deniz subayı ve deniz mühendisi yetiştirmek"
+      },
+      {
+        "key": "B",
+        "text": "Kız öğretmen yetiştirmek"
+      },
+      {
+        "key": "C",
+        "text": "Kadı yetiştirmek"
+      },
+      {
+        "key": "D",
+        "text": "Sivil veteriner yetiştirmek"
+      },
+      {
+        "key": "E",
+        "text": "Tiyatro sanatçısı yetiştirmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Deniz subayı ve deniz mühendisi yetiştirmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1773-1775 yıllarında kurulan Mühendishane-i Bahrî-i Hümâyun (Deniz Mühendishanesi), Osmanlı donanmasına modern deniz subayı, gemi inşa mühendisi ve kaptan yetiştirmek amacıyla açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kız öğretmen yetiştirmek Dârülmuallimât'ın (1870);<br>• Mülki idareci yetiştirmek Mekteb-i Mülkiye'nin (1859) görevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bahr = Deniz (Bahrî = Deniz subayı). Berr = Kara (Berrî = Kara istihkam ve topçu subayı)."
+  },
+  {
+    "id": "tarih14_1_q15",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "1795'te açılan Mühendishane-i Berrî-i \nHümâyun hangi padişah dönemindedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Abdülaziz"
+      },
+      {
+        "key": "B",
+        "text": "I. Mahmut"
+      },
+      {
+        "key": "C",
+        "text": "Abdülmecid"
+      },
+      {
+        "key": "D",
+        "text": "III. Selim"
+      },
+      {
+        "key": "E",
+        "text": "II. Mahmut"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (III. Selim)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1795 yılında III. Selim'in Nizâm-ı Cedîd reformları kapsamında kurulan Mühendishane-i Berrî-i Hümâyun, kara ordusuna (topçu ve istihkam sınıflarına) modern mühendis ve subay yetiştirmeyi amaçlamıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sadece esnaf denetimi lonca muhtesibinin işidir.<br>• Yabancı dil tercümanlığı Tercüme Odası'nın görevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>III. Selim dönemi = Mühendishane-i Berrî-i Hümâyun (1795). Kara istihkam, haritacılık ve topçuluk okuludur."
+  },
+  {
+    "id": "tarih14_1_q16",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "1827'de ordunun hekim ihtiyacını \nkarşılamak amacıyla açılan kurum hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Darülmuallimat"
+      },
+      {
+        "key": "B",
+        "text": "Darülmaarif"
+      },
+      {
+        "key": "C",
+        "text": "Darülbedayi"
+      },
+      {
+        "key": "D",
+        "text": "Mekteb-i Tıbbiye"
+      },
+      {
+        "key": "E",
+        "text": "Mekteb-i Mülkiye"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Mekteb-i Tıbbiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1827 yılında ordunun modern tabip ve cerrah ihtiyacını karşılamak amacıyla Tıbhane-i Âmire ve Cerrahhane-i Mâmure'yi açan Osmanlı padişahı II. Mahmut'tur (Şehzadebaşı'nda açılmıştır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Abdülaziz: Dârüşşafaka ve Sanayi-i Nefise dönemidir.<br>• I. Abdülhamit ve III. Selim: XVIII. yüzyıl ıslahatçılarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>1827 Tıbhane-i Âmire (14 Mart Tıp Bayramı buradan gelir) = II. Mahmut dönemi."
+  },
+  {
+    "id": "tarih14_1_q17",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "1834'te modern eğitimli subay yetiştirmek \namacıyla açılan kurum aşağıdakilerden \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mekteb-i Harbiye"
+      },
+      {
+        "key": "B",
+        "text": "Hamidiye Ticaret Mektebi"
+      },
+      {
+        "key": "C",
+        "text": "Darüşşafaka"
+      },
+      {
+        "key": "D",
+        "text": "Darülelhan"
+      },
+      {
+        "key": "E",
+        "text": "İnas Darülfünunu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Mekteb-i Harbiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Yeniçeri Ocağı'nın 1826'da kaldırılmasından sonra Asâkir-i Mansûre-i Muhammediye ordusuna modern kurmay subay yetiştirmek amacıyla 1834'te Mekteb-i Harbiye'yi kuran padişah II. Mahmut'tur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• V. Murat sadece 93 gün tahtta kalmıştır.<br>• III. Selim Nizam-ı Cedid'i kurmuş fakat Harbiye II. Mahmut döneminde teşkilatlanmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mekteb-i Harbiye (1834) ve Mekteb-i Tıbbiye (1827) kurucusu II. Mahmut'tur."
+  },
+  {
+    "id": "tarih14_1_q18",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Mekteb-i Maârif-i Adliye ve Mekteb-i Ulûm-ı \nEdebiye'nin ortak amacı aşağıdakilerden \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Devletin memur ihtiyacını karşılamak"
+      },
+      {
+        "key": "B",
+        "text": "Cerrah yetiştirmek"
+      },
+      {
+        "key": "C",
+        "text": "Denizci yetiştirmek"
+      },
+      {
+        "key": "D",
+        "text": "Güzel sanatlar eğitimi vermek"
+      },
+      {
+        "key": "E",
+        "text": "Saray müzisyeni yetiştirmek"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Devletin memur ihtiyacını karşılamak)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>II. Mahmut döneminde açılan Mekteb-i Maârif-i Adliye ve Mekteb-i Ulûm-ı Edebiye, Bab-ı Âli bürokrasisine Türkçe ve yabancı dil bilen, modern devlet memuru (kâtip) yetiştirmek amacıyla kurulmuştur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yalnız din adamı yetiştirmek medreselerin işidir.<br>• Yalnız deniz askeri tersane ocaklarında eğitilir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mekteb-i Maârif-i Adliye = II. Mahmut'un modern devlet memuru (bürokrat) mektebidir."
+  },
+  {
+    "id": "tarih14_1_q19",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "1848'de rüştiyelere öğretmen yetiştirmek \niçin açılan kurum hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Darülmuallimat"
+      },
+      {
+        "key": "B",
+        "text": "Mekteb-i Mülkiye"
+      },
+      {
+        "key": "C",
+        "text": "Darülelhan"
+      },
+      {
+        "key": "D",
+        "text": "Darülbedayi"
+      },
+      {
+        "key": "E",
+        "text": "Darülmuallimin"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Darülmuallimin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tanzimat Dönemi'nde (1848) Sultan Abdülmecit döneminde rüştiye (ortaokul) mekteplerine modern öğretmen yetiştirmek amacıyla açılan erkek öğretmen okulu Dârülmuallimîn'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dârülmuallimât: 1870'te kız okulları için açılan kadın öğretmen mektebidir.<br>• Dârülfünun: Üniversitedir.<br>• Dârülaceze: Yoksullar yurdudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Dârülmuallimîn = Erkek Öğretmen Okulu (1848 - Abdülmecit). Dârülmuallimât = Kız Öğretmen Okulu (1870 - Abdülaziz)."
+  },
+  {
+    "id": "tarih14_1_q20",
+    "testId": "tarih14_1",
+    "testTitle": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray Eğitimi)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Klasik Eğitim & Saray Eğitimi",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "1870'te kız okullarına kadın öğretmen \nyetiştirmek amacıyla açılan kurum hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mülkiye Baytar Mektebi"
+      },
+      {
+        "key": "B",
+        "text": "Darülmaarif"
+      },
+      {
+        "key": "C",
+        "text": "Mekteb-i Harbiye"
+      },
+      {
+        "key": "D",
+        "text": "Darülmuallimat"
+      },
+      {
+        "key": "E",
+        "text": "Darülmuallimin"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Darülmuallimat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1870 yılında Sultan Abdülaziz döneminde kız rüştiye ve sıbyan okullarına kadın öğretmen yetiştirmek amacıyla Dârülmuallimât açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dârülbedayi: Şehir tiyatrosudur.<br>• Dârülmuallimîn: Erkek öğretmen okuludur.<br>• Sanayi-i Nefise: Güzel sanatlar mektebidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Dârülmuallimât (Muallime = Kadın öğretmen) ➔ 1870 Maarif Nizamnamesi gereği Abdülaziz döneminde açılmıştır."
+  },
+  {
+    "id": "tarih14_2_q1",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Darüşşafaka ile ilgili aşağıdaki bilgilerden \nhangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fransızca eğitim veren bir tıp okuludur."
+      },
+      {
+        "key": "B",
+        "text": "Yalnız askerî subay yetiştirmiştir."
+      },
+      {
+        "key": "C",
+        "text": "II. Mahmut döneminde 1827'de açılmıştır."
+      },
+      {
+        "key": "D",
+        "text": "Yalnız saray mensuplarına eğitim vermiştir."
+      },
+      {
+        "key": "E",
+        "text": "Kurucu cemiyeti 1863'te kurulmuş, okul 1873'te \nöğretime başlamıştır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Kurucu cemiyeti 1863'te kurulmuş, okul 1873'te \nöğretime başlamıştır.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Darüşşafaka (Şefkat Yuvası), 1863'te kurulan Cemiyet-i Tedrisiye-i İslamiye tarafından temeli atılmış, 1873'te eğitime başlamış olup yetim, öksüz ve yoksul çocuklara parasız yatılı kaliteli eğitim veren kurumdur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Fransızca tıp okulu değildir.<br>• Sadece saray mensuplarına değil, halkın öksüz/yetim çocuklarına eğitim vermiştir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Darüşşafaka: 1863 Cemiyet, 1873 Okul | Öksüz, yetim ve yoksul çocukların eğitim yuvası."
+  },
+  {
+    "id": "tarih14_2_q2",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Sanayi-i Nefise Mektebi'nin kurucu \nmüdürü kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yusuf Akçura"
+      },
+      {
+        "key": "B",
+        "text": "Osman Hamdi Bey"
+      },
+      {
+        "key": "C",
+        "text": "Abdullah Cevdet"
+      },
+      {
+        "key": "D",
+        "text": "Şeker Ahmet Paşa"
+      },
+      {
+        "key": "E",
+        "text": "Eşref Edip"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Osman Hamdi Bey)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1882'de II. Abdülhamit döneminde kurulan ve bugünkü Mimar Sinan Güzel Sanatlar Üniversitesi'nin temeli olan Sanayi-i Nefise Mektebi'nin kurucusu ve ilk müdürü ünlü arkeolog ve ressam Osman Hamdi Bey'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Şeker Ahmet Paşa: İlk resim sergisini açan asker ressamdır.<br>• Yusuf Akçura: Üç Tarz-ı Siyaset yazarı Türkçü düşünürdür.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osman Hamdi Bey: Sanayi-i Nefise kurucusu + Asar-ı Atika (İstanbul Arkeoloji Müzesi) kurucusu + Kaplumbağa Terbiyecisi tablosunun ressamı."
+  },
+  {
+    "id": "tarih14_2_q3",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Darülbedayi ve Darülelhan'ın faaliyet \nalanları hangi seçenekte doğru verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ticaret – Veterinerlik"
+      },
+      {
+        "key": "B",
+        "text": "Mimari – Astronomi"
+      },
+      {
+        "key": "C",
+        "text": "Tıp – Hukuk"
+      },
+      {
+        "key": "D",
+        "text": "Tiyatro – Müzik"
+      },
+      {
+        "key": "E",
+        "text": "Öğretmenlik – Denizcilik"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Tiyatro – Müzik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1914'te kurulan Dârülbedayi konservatuvar ve tiyatro (bugünkü İstanbul Şehir Tiyatroları), 1917'de kurulan Dârülalhan ise müzik ve konservatuvar (konservatuvar/nağmeler evi) kurumudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Matbaacılık ve madencilikle ilgileri yoktur.<br>• Yalnız askeri haritacılık kurumları değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Dârülbedayi = Tiyatro (Güzellikler Evi). Dârülalhan = Müzik / Konservatuvar (Ezgi/Nağmeler Evi)."
+  },
+  {
+    "id": "tarih14_2_q4",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "1914'te kadınlara yükseköğretim imkânı \nsağlamak üzere açılan kurum hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Darüşşafaka"
+      },
+      {
+        "key": "B",
+        "text": "Mekteb-i Ulûm-ı Edebiye"
+      },
+      {
+        "key": "C",
+        "text": "İnas Darülfünunu"
+      },
+      {
+        "key": "D",
+        "text": "Mekteb-i Harbiye"
+      },
+      {
+        "key": "E",
+        "text": "Darülmuallimin"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (İnas Darülfünunu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1914 yılında Osmanlı Devleti'nde kız öğrencilere üniversite düzeyinde yükseköğretim hakkı tanımak amacıyla kurulan kurum 'İnas Dârülfünunu'dur (Kız Üniversitesi).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İnas Rüştiyesi: Ortaokul seviyesindedir (1859).<br>• Lisan Mektebi: Tercüman yetiştirir.<br>• Hendese-i Mülkiye: İnşaat mühendisliği mektebidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İnas = Kadın/Kız. İnas Dârülfünunu = Kız Üniversitesi (1914, I. Dünya Savaşı dönemi)."
+  },
+  {
+    "id": "tarih14_2_q5",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Osmanlıcılığın temel hedefi \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Saray eğitimini kaldırmak"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız Türk topluluklarını birleştirmek"
+      },
+      {
+        "key": "C",
+        "text": "Farklı toplulukları Osmanlı vatandaşlığı \netrafında birleştirmek"
+      },
+      {
+        "key": "D",
+        "text": "Tüm meslek okullarını kapatmak"
+      },
+      {
+        "key": "E",
+        "text": "Yalnız Müslümanları birleştirmek"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Farklı toplulukları Osmanlı vatandaşlığı \netrafında birleştirmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlıcılık akımının temel felsefesi; din, dil, ırk ve mezhep farkı gözetmeksizin sınırları içerisindeki tüm tebaayı eşit haklara sahip tek bir 'Osmanlı Vatandaşı' kimliği altında bir arada tutmaktır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yalnız Türkleri birleştirmek Türkçülük (Pantürkizm);<br>• Yalnız Müslümanları birleştirmek İslamcılık (İttihad-ı İslam) akımıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tanzimat, Islahat ve I. Meşrutiyet'in temel resmi ideolojisi Osmanlıcılıktır (Genç Osmanlılar / Jön Türkler savunmuştur)."
+  },
+  {
+    "id": "tarih14_2_q6",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Türkçülük akımıyla ilişkilendirilen yayınlar \nhangi seçenekte birlikte verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hürriyet ve İbret"
+      },
+      {
+        "key": "B",
+        "text": "İçtihat ve Volkan"
+      },
+      {
+        "key": "C",
+        "text": "Türk Yurdu ve Genç Kalemler"
+      },
+      {
+        "key": "D",
+        "text": "Mizan ve Mahfil"
+      },
+      {
+        "key": "E",
+        "text": "Volkan ve Mahfil"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Türk Yurdu ve Genç Kalemler)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkçülük akımının II. Meşrutiyet dönemindeki en önemli yayın organları 'Türk Yurdu' dergisi ve 'Halka Doğru' mecmuasıdır. Yusuf Akçura, Ziya Gökalp ve Mehmet Emin Yurdakul bu dergilerde yazmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İçtihad: Abdullah Cevdet'in Batıcı dergisidir.<br>• Sebilürreşad / Sırat-ı Müstakim: Mehmet Akif'in İslamcı yayın organıdır.<br>• Ceride-i Havadis: Yarı resmi gazetedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Türkçülük = Türk Yurdu, Halka Doğru, Türk Derneği. İslamcılık = Sebilürreşad, Sırat-ı Müstakim. Batıcılık = İçtihad."
+  },
+  {
+    "id": "tarih14_2_q7",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Batıcılık düşüncesiyle ilişkili kişi ve yayın \neşleştirmesi hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mehmet Akif – İbret"
+      },
+      {
+        "key": "B",
+        "text": "Ziya Gökalp – Volkan"
+      },
+      {
+        "key": "C",
+        "text": "Yusuf Akçura – Mahfil"
+      },
+      {
+        "key": "D",
+        "text": "Abdullah Cevdet – İçtihat"
+      },
+      {
+        "key": "E",
+        "text": "Namık Kemal – Türk Yurdu"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Abdullah Cevdet – İçtihat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Batıcılık akımının en radikal savunucusu Abdullah Cevdet'tir ve bu düşünceyi savunduğu meşhur yayın organı 'İçtihad' dergisidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ziya Gökalp: Türkçülüğün Esasları yazarıdır.<br>• Mehmet Akif Ersoy: İslamcılık akımının öncüsüdür.<br>• Şemsettin Sami: Taaşşuk-ı Talat ve Kamus-ı Türki yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batıcılık ➔ Abdullah Cevdet ve İçtihad dergisi. Sloganları: 'Garp medeniyetini gülüyle dikeniyle almalıyız'."
+  },
+  {
+    "id": "tarih14_2_q8",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Kadızade-i Rumî'nin uzmanlık alanları \nhangi seçenekte verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Müzik ve resim"
+      },
+      {
+        "key": "B",
+        "text": "Hat ve tezhip"
+      },
+      {
+        "key": "C",
+        "text": "Hukuk ve tarih"
+      },
+      {
+        "key": "D",
+        "text": "Cerrahi ve eczacılık"
+      },
+      {
+        "key": "E",
+        "text": "Matematik ve astronomi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Matematik ve astronomi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kadızade-i Rûmî, XIV-XV. yüzyıllarda yaşamış, Semerkant Rasathanesi ve medresesinde Uluğ Bey ve Ali Kuşçu ile birlikte çalışmış büyük bir astronomi ve matematik bilginidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yalnız minyatür veya hat sanatçısı değildir.<br>• Yalnız denizcilikle uğraşmamıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kadızade-i Rûmî ➔ Semerkant ekolünün matematik ve astronomi hocasıdır. 'Şerh-i Çagmini' eseri meşhurdur."
+  },
+  {
+    "id": "tarih14_2_q9",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Fethiye ve Muhammediye adlı eserlerini \nFatih'e sunan bilim insanı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Takiyüddin Mehmet"
+      },
+      {
+        "key": "B",
+        "text": "Mustafa Naima"
+      },
+      {
+        "key": "C",
+        "text": "Ali Kuşçu"
+      },
+      {
+        "key": "D",
+        "text": "Ahmet Cevdet Paşa"
+      },
+      {
+        "key": "E",
+        "text": "Piri Reis"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Ali Kuşçu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ali Kuşçu, Otlukbeli Zaferi sonrası Fatih Sultan Mehmet'e astronomi alanındaki 'Risale fi'l-Fethiye' (Fethiye) ve matematik alanındaki 'Risale fi'l-Muhammediye' (Muhammediye) adlı eserlerini ithaf etmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Piri Reis: Kitab-ı Bahriye yazarıdır.<br>• Sabuncuoğlu: Cerrahiyatü'l-Haniye yazarıdır.<br>• Katip Çelebi: Keşfü'z-Zünun ve Cihannüma yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Fethiye (astronomi) ve Muhammediye (matematik) = Ali Kuşçu (Fatih'e takdim etmiştir)."
+  },
+  {
+    "id": "tarih14_2_q10",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Uluğ Bey ve Ali Kuşçu'nun hocası olarak \ntanıtılan bilim insanı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yanyalı Esad Efendi"
+      },
+      {
+        "key": "B",
+        "text": "Akşemsettin"
+      },
+      {
+        "key": "C",
+        "text": "Ahi Çelebi"
+      },
+      {
+        "key": "D",
+        "text": "Sabuncuoğlu Şerafettin"
+      },
+      {
+        "key": "E",
+        "text": "Kadızade-i Rumî"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Kadızade-i Rumî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kadızade-i Rûmî, Semerkant'ta hem Timur'un torunu olan astronom Uluğ Bey'in hem de Ayasofya başmüderrisi olacak Ali Kuşçu'nun hocalığını yapmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lagari Hasan Çelebi roketçidir.<br>• Takiyüddin Mehmet İstanbul Rasathanesi'ni kurmuştur.<br>• Akşemsettin Fatih'in hocasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Uluğ Bey ve Ali Kuşçu'nun ortak hocası = Kadızade-i Rûmî."
+  },
+  {
+    "id": "tarih14_2_q11",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Cerrahiyatü'l-Haniye adlı eserle \nilişkilendirilen bilim insanı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ali Kuşçu"
+      },
+      {
+        "key": "B",
+        "text": "Sabuncuoğlu Şerafettin"
+      },
+      {
+        "key": "C",
+        "text": "Kâtip Çelebi"
+      },
+      {
+        "key": "D",
+        "text": "Seydi Ali Reis"
+      },
+      {
+        "key": "E",
+        "text": "Mirim Çelebi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Sabuncuoğlu Şerafettin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet döneminde Amasya Darüşşifası'nda çalışan ve ilk Türkçe resimli cerrahi tıp kitabı olan 'Cerrahiyetü'l-Hâniye'yi yazan ünlü hekim Sabuncuoğlu Şerafeddin'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ali Kuşçu matematikçidir.<br>• Katip Çelebi coğrafyacı ve bibliyograftır.<br>• Seydi Ali Reis denizcidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sabuncuoğlu Şerafeddin = İlk resimli cerrahi tıp eseri (Cerrahiyetü'l-Hâniye) + Mücerrebname (ilaç denemeleri)."
+  },
+  {
+    "id": "tarih14_2_q12",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "Altuncuzade'nin ilgilendiği sağlık alanı \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diş protezleri"
+      },
+      {
+        "key": "B",
+        "text": "İdrar yolu hastalıkları"
+      },
+      {
+        "key": "C",
+        "text": "Ruh hastalıkları"
+      },
+      {
+        "key": "D",
+        "text": "Göz hastalıkları"
+      },
+      {
+        "key": "E",
+        "text": "Kalp cerrahisi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (İdrar yolu hastalıkları)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet döneminde yaşayan Altuncuzade, özellikle idrar yolu hastalıkları, mesane tıkanıklıkları ve üroloji alanında geliştirdiği özel sondalar ve cerrahi aletlerle tanınmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diş protezleri veya kalp cerrahisi değildir.<br>• Ruh hastalıkları için müzikle tedavi bimarhanelerde uygulanmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Altuncuzade = İdrar yolu ve mesane hastalıkları / Üroloji cerrahı."
+  },
+  {
+    "id": "tarih14_2_q13",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "Fatih'in akıl hocası olarak tanıtılan ve \nZeyrek Camisi'nde ders veren kişi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Akşemsettin"
+      },
+      {
+        "key": "B",
+        "text": "Takiyüddin Mehmet"
+      },
+      {
+        "key": "C",
+        "text": "Naima"
+      },
+      {
+        "key": "D",
+        "text": "Yanyalı Esad Efendi"
+      },
+      {
+        "key": "E",
+        "text": "Piri Reis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Akşemsettin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet'in lalası ve manevi hocası olan, İstanbul'un fethinde ordunun maneviyatını yükselten, mikroorganizmalardan ('maddetü'l-hayat') ilk bahseden ve Zeyrek Medresesi'nde ders veren hekim Akşemsettin'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Takiyüddin Mehmet: Rasathane kurucusudur.<br>• Naima: İlk resmi vakanüvistir.<br>• Yanyalı Esad Efendi: Aristo eserlerini şerh etmiştir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Akşemsettin = Fatih'in hocası + Maddetü'l-Hayat (Mikrop teorisi) + Risaletü'n-Nuriyye."
+  },
+  {
+    "id": "tarih14_2_q14",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Kitab-ı Bahriye adlı eser kime aittir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Piri Reis"
+      },
+      {
+        "key": "B",
+        "text": "Mirim Çelebi"
+      },
+      {
+        "key": "C",
+        "text": "Ahmet Cevdet Paşa"
+      },
+      {
+        "key": "D",
+        "text": "Ali Kuşçu"
+      },
+      {
+        "key": "E",
+        "text": "Seydi Ali Reis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Piri Reis)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>'Kitâb-ı Bahriye', Akdeniz kıyılarını, limanlarını, adalarını ve haritalarını ayrıntılı anlatan ilk denizcilik kılavuzu olup büyük Türk denizcisi Pîrî Reis'e aittir (Kanuni'ye takdim etmiştir).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Seydi Ali Reis: Mir'âtü'l-Memâlik yazarıdır.<br>• Uluğ Bey: Zic hazırlamıştır.<br>• Ali Kuşçu: Fethiye'yi yazmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kitab-ı Bahriye ve ilk Dünya Haritası (1513) = Piri Reis."
+  },
+  {
+    "id": "tarih14_2_q15",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "Miratü'l-Memalik ve Muhit adlı eserler \nhangi isimle ilişkilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Naima"
+      },
+      {
+        "key": "B",
+        "text": "Piri Reis"
+      },
+      {
+        "key": "C",
+        "text": "Sabuncuoğlu Şerafettin"
+      },
+      {
+        "key": "D",
+        "text": "Kadızade-i Rumî"
+      },
+      {
+        "key": "E",
+        "text": "Seydi Ali Reis"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Seydi Ali Reis)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kanuni döneminde Hint Deniz Seferleri'ne katılan, fırtınaya yakalanıp karadan Hindistan ve İran üzerinden dönen ve maceralarını 'Mir'âtü'l-Memâlik' (Ülkelerin Aynası) ile denizcilik kitabı 'Muhît'te yazan Seydi Ali Reis'tir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Barbaros Hayreddin Paşa: Gazavatname konusudur.<br>• Evliya Çelebi: Seyahatname yazarıdır.<br>• Katip Çelebi: Cihannüma yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mir'âtü'l-Memâlik (İlk edebi seyahatname) ve Kitabü'l-Muhit = Seydi Ali Reis."
+  },
+  {
+    "id": "tarih14_2_q16",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "III. Murat döneminde İstanbul'da rasathane \nkuran bilim insanı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Takiyüddin Mehmet"
+      },
+      {
+        "key": "B",
+        "text": "Yanyalı Esad Efendi"
+      },
+      {
+        "key": "C",
+        "text": "Akşemsettin"
+      },
+      {
+        "key": "D",
+        "text": "Ahi Çelebi"
+      },
+      {
+        "key": "E",
+        "text": "Davud-i Kayseri"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Takiyüddin Mehmet)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1577 yılında III. Murat döneminde İstanbul Tophane sırtlarında ilk Osmanlı rasathanesini kuran ve ilk mekanik saati astronomide kullanan bilgin Takiyüddin Mehmet'tir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hezarfen ve Lagari IV. Murat dönemindedir.<br>• Ali Kuşçu Fatih dönemindedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Osmanlı Rasathanesi (1577) = Takiyüddin Mehmet (III. Murat dönemi, Şeyhülislam fetvasıyla yıktırılmıştır)."
+  },
+  {
+    "id": "tarih14_2_q17",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "Muallim-i Salis unvanıyla anılan düşünür \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ali Kuşçu"
+      },
+      {
+        "key": "B",
+        "text": "Mustafa Naima"
+      },
+      {
+        "key": "C",
+        "text": "Yanyalı Esad Efendi"
+      },
+      {
+        "key": "D",
+        "text": "Mirim Çelebi"
+      },
+      {
+        "key": "E",
+        "text": "Piri Reis"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Yanyalı Esad Efendi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Lale Devri bilginlerinden olan, Aristo'nun mantık ve fizik eserlerini Grekçeden Arapçaya tercüme eden ve bundan ötürü 'Muallim-i Sâlis' (Üçüncü Öğretmen) unvanıyla anılan düşünür Yanyalı Esad Efendi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Farabi: Muallim-i Sani'dir (İkinci Öğretmen).<br>• Aristo: Muallim-i Evvel'dir (Birinci Öğretmen).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Muallim-i Evvel: Aristo | Muallim-i Sani: Farabi | Muallim-i Sâlis: Yanyalı Esad Efendi (Lale Devri)."
+  },
+  {
+    "id": "tarih14_2_q18",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Mecelle'nin hazırlanmasında komisyon \nbaşkanlığı yapan kişi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yusuf Akçura"
+      },
+      {
+        "key": "B",
+        "text": "Said Halim Paşa"
+      },
+      {
+        "key": "C",
+        "text": "Ahmet Cevdet Paşa"
+      },
+      {
+        "key": "D",
+        "text": "Namık Kemal"
+      },
+      {
+        "key": "E",
+        "text": "Osman Hamdi Bey"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Ahmet Cevdet Paşa)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nin ilk medeni kanunu niteliğindeki İslam borçlar hukuku mecmuası olan 'Mecelle-i Ahkâm-ı Adliye'yi hazırlayan komisyonun başkanı büyük hukukçu ve tarihçi Ahmet Cevdet Paşa'dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mithat Paşa: Kanun-i Esasi'yi hazırlayan komisyon başkanıdır.<br>• Namık Kemal: Vatan Şairi ve Genç Osmanlı'dır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mecelle Komisyonu Başkanı + Tarih-i Cevdet yazarı = Ahmet Cevdet Paşa."
+  },
+  {
+    "id": "tarih14_2_q19",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Ali Kuşçu'nun torunu olan, matematik ve \nastronomiyle ilgilenen kişi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Seydi Ali Reis"
+      },
+      {
+        "key": "B",
+        "text": "Lagari Hasan Çelebi"
+      },
+      {
+        "key": "C",
+        "text": "Hezarfen Ahmet Çelebi"
+      },
+      {
+        "key": "D",
+        "text": "Ahi Çelebi"
+      },
+      {
+        "key": "E",
+        "text": "Mirim Çelebi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Mirim Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ali Kuşçu'nun torunu olan, II. Bayezid ve Yavuz dönemlerinde sarayda astronomi ve matematik hocalığı yapan, usturlap ve rubu tahtası risaleleri yazan bilim insanı Mîrim Çelebi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Molla Gürani: Fatih'in fıkıh hocasıdır.<br>• Ebu's-Suud Efendi: Kanuni'nin ünlü şeyhülislamıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ali Kuşçu ve Kadızade-i Rumi'nin soyundan gelen astronom = Mîrim Çelebi."
+  },
+  {
+    "id": "tarih14_2_q20",
+    "testId": "tarih14_2",
+    "testTitle": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme Okulları & Tıp/Bilim İnsanları)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Galata Kulesi'nden Üsküdar'a uçma \ngirişimiyle tanıtılan kişi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hezarfen Ahmet Çelebi"
+      },
+      {
+        "key": "B",
+        "text": "Nakkaş Osman"
+      },
+      {
+        "key": "C",
+        "text": "Lagari Hasan Çelebi"
+      },
+      {
+        "key": "D",
+        "text": "Matrakçı Nasuh"
+      },
+      {
+        "key": "E",
+        "text": "Şeyh Hamdullah"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Hezarfen Ahmet Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kendi geliştirdiği kanatlarla 1632'de Galata Kulesi'nden atlayıp boğazı geçerek Üsküdar Doğancılar Meydanı'na uçmayı başaran ilk Türk havacısı Hezarfen Ahmet Çelebi'dir (Evliya Çelebi anlatır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lagari Hasan Çelebi roketle dikey yükselmiştir.<br>• Takiyüddin astronomdur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kanatla yatay uçuş = Hezarfen Ahmet Çelebi. Roketle dikey uçuş = Lagari Hasan Çelebi."
+  },
+  {
+    "id": "tarih14_3_q1",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "1633'te roketle yükselme denemesi yaptığı \nanlatılan kişi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Takiyüddin Mehmet"
+      },
+      {
+        "key": "B",
+        "text": "Lagari Hasan Çelebi"
+      },
+      {
+        "key": "C",
+        "text": "Ali Kuşçu"
+      },
+      {
+        "key": "D",
+        "text": "Piri Reis"
+      },
+      {
+        "key": "E",
+        "text": "Hezarfen Ahmet Çelebi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Lagari Hasan Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1633 yılında IV. Murat'ın kızının doğum şenliklerinde barut macunundan yaptığı 7 kollu roketle Sarayburnu'ndan gökyüzüne fırlatılan ve paraşüt benzeri kanatlarla denize inen kişi Lagari Hasan Çelebi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hezarfen kanatla süzülmüştür.<br>• Piri Reis denizcidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk roketli insan uçuş denemesi = Lagari Hasan Çelebi (1633, IV. Murat dönemi)."
+  },
+  {
+    "id": "tarih14_3_q2",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Hezarfen Ahmet Çelebi ve Lagari Hasan \nÇelebi'nin faaliyetleri hangi padişah \ndönemiyle ilişkilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II. Abdülhamit"
+      },
+      {
+        "key": "B",
+        "text": "II. Mehmet"
+      },
+      {
+        "key": "C",
+        "text": "III. Selim"
+      },
+      {
+        "key": "D",
+        "text": "I. Abdülhamit"
+      },
+      {
+        "key": "E",
+        "text": "IV. Murat"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (IV. Murat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hem Hezarfen Ahmet Çelebi'nin Galata'dan uçuşu hem de Lagari Hasan Çelebi'nin roket denemesi XVII. yüzyılda Sultan IV. Murat döneminde gerçekleşmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• II. Mehmet (Fatih) XV. yy;<br>• III. Selim XVIII. yy sonudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hezarfen ve Lagari = Sultan IV. Murat dönemi (Bağdat Fatihi)."
+  },
+  {
+    "id": "tarih14_3_q3",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Cam sanatının karşılığı olarak kullanılan \nterim hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İcazet"
+      },
+      {
+        "key": "B",
+        "text": "Sırça"
+      },
+      {
+        "key": "C",
+        "text": "Hendese"
+      },
+      {
+        "key": "D",
+        "text": "Menzil"
+      },
+      {
+        "key": "E",
+        "text": "Mülazım"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Sırça)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı sanatında ve mimarisinde cam işleme ve cam sanatına 'Sırça' adı verilir. Cam işi yapan zanaatkâra ise 'Câmger' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İcazet: Diplomadır.<br>• Hendese: Geometridir.<br>• Menzil: Posta/ulaşım durağıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Cam Sanatı = Sırça (Örn: Konya Sırçalı Medrese). Çeşm-i Bülbül ise Beykoz cam sanatının zirvesidir."
+  },
+  {
+    "id": "tarih14_3_q4",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "Aşağıdakilerden hangisi Osmanlı sanat \ndalları arasında yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mukataa"
+      },
+      {
+        "key": "B",
+        "text": "Oyma-kakma"
+      },
+      {
+        "key": "C",
+        "text": "İltizam"
+      },
+      {
+        "key": "D",
+        "text": "Devşirme"
+      },
+      {
+        "key": "E",
+        "text": "Müsadere"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Oyma-kakma)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı'da Hat (hüsn-i hat), Tezhip, Ebru, Minyatür, Çinicilik, Ciltçilik, Ahşap oymacılığı (künüzkarî) ve Taş işlemeciliği başlıca klasik sanat dallarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mukataa: Geliri doğrudan hazineye giden iltizam toprağıdır (sanat değildir).<br>• Mülazım: Stajyer memur/müderristir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Geleneksel Türk-İslam Sanatları: Hat, Tezhip, Minyatür, Ebru, Cilt, Çini, Kakmacılık."
+  },
+  {
+    "id": "tarih14_3_q5",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi kitap sanatlarıyla \ndoğrudan ilişkili bir üçlüdür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hat, tezhip, ebru"
+      },
+      {
+        "key": "B",
+        "text": "Hariciye, maliye, adliye"
+      },
+      {
+        "key": "C",
+        "text": "Tımar, zeamet, has"
+      },
+      {
+        "key": "D",
+        "text": "Muid, mülazım, müderris"
+      },
+      {
+        "key": "E",
+        "text": "Cebelü, levent, sekban"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Hat, tezhip, ebru)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kitap sanatları; el yazması bir kitabın üretilmesinde yer alan Hat (yazı), Tezhip (altınla süsleme), Minyatür (tasvir), Ebru (kâğıt deseni) ve Ciltçilik sanatlarını kapsar. Fresk ise duvar resmidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Fresk yaş sıva üzerine yapılan duvar resmidir, kitap sanatı değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kitap Sanatları Beşlisi: Hat + Tezhip + Minyatür + Ebru + Cilt."
+  },
+  {
+    "id": "tarih14_3_q6",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Arap harfleriyle güzel yazı yazma sanatına \nne ad verilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ebru"
+      },
+      {
+        "key": "B",
+        "text": "Minyatür"
+      },
+      {
+        "key": "C",
+        "text": "Hat"
+      },
+      {
+        "key": "D",
+        "text": "Dokuma"
+      },
+      {
+        "key": "E",
+        "text": "Çinicilik"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Hat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Arap harfleriyle estetik ve orantılı güzel yazı yazma sanatına 'Hüsn-i Hat' veya kısaca 'Hat' sanatı denir. Bu sanatla uğraşanlara 'Hattat' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tezhip yaldızlama;<br>• Minyatür perspektifsiz gölgesiz resim;<br>• Ebru kâğıt süslemedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>'Kur'an-ı Kerim Mekke'de indi, Kahire'de okundu, İstanbul'da yazıldı' sözü hat sanatındaki Türk üstünlüğünü ifade eder."
+  },
+  {
+    "id": "tarih14_3_q7",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "El yazması bir kitabı çoğaltan kişiye \nverilen ad hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Musavvir"
+      },
+      {
+        "key": "B",
+        "text": "Müderris"
+      },
+      {
+        "key": "C",
+        "text": "Ebruzen"
+      },
+      {
+        "key": "D",
+        "text": "Mücellit"
+      },
+      {
+        "key": "E",
+        "text": "Müstensih"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Müstensih)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Matbaanın henüz yaygınlaşmadığı dönemde el yazması eserleri ve kitapları güzel bir yazıyla elle çoğaltıp kopyalayan kâtiplere 'Müstensih' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mücellit: Kitap ciltleyicisidir.<br>• Müzehhip: Tezhip (altın süsleme) ustasıdır.<br>• Musavvir: Minyatür ustasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İstinsah eden (kitap kopyalayan) = Müstensih. Ciltleyen = Mücellit. Yaldızlayan = Müzehhip."
+  },
+  {
+    "id": "tarih14_3_q8",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Hattatların piri olarak tanıtılan kişi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nakkaş Osman"
+      },
+      {
+        "key": "B",
+        "text": "Levnî"
+      },
+      {
+        "key": "C",
+        "text": "Kara Memi"
+      },
+      {
+        "key": "D",
+        "text": "Şeyh Hamdullah"
+      },
+      {
+        "key": "E",
+        "text": "Matrakçı Nasuh"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Şeyh Hamdullah)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı hat sanatının kurucusu ve 'Hattatların Kıblesi' (Kıbletü'l-Küttâb) unvanıyla tanınan büyük üstat Şeyh Hamdullah'tır (Amasyalıdır, II. Bayezid'in hocasıdır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hafız Osman: Hilye-i Şerif levhalarını standartlaştırmıştır.<br>• Levni: Lale Devri minyatür ustasıdır.<br>• Sinan Bey: Fatih'in gül koklayan portresini çizen nakkaştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hattatların Kıblesi / Piri = Şeyh Hamdullah. Hilye formunu geliştiren = Hafız Osman."
+  },
+  {
+    "id": "tarih14_3_q9",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Minyatür sanatçısı için kullanılan unvan \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Levent"
+      },
+      {
+        "key": "B",
+        "text": "Mücellit"
+      },
+      {
+        "key": "C",
+        "text": "Mülazım"
+      },
+      {
+        "key": "D",
+        "text": "Musavvir"
+      },
+      {
+        "key": "E",
+        "text": "Müstensih"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Musavvir)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Geleneksel minyatür sanatını icra eden sanatçılara 'Nakkaş' veya 'Musavvir' adı verilir. Saraydaki nakış atölyesine ise 'Nakkaşhâne' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Müzehhip tezhipçi;<br>• Mücellit ciltçi;<br>• Hattat hat yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Minyatür Sanatçısı = Nakkaş / Musavvir."
+  },
+  {
+    "id": "tarih14_3_q10",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Şehir ve menzil tasvirleriyle tanınan \nminyatür sanatçısı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hafız Osman"
+      },
+      {
+        "key": "B",
+        "text": "Şeyh Hamdullah"
+      },
+      {
+        "key": "C",
+        "text": "Kara Memi"
+      },
+      {
+        "key": "D",
+        "text": "Dede Efendi"
+      },
+      {
+        "key": "E",
+        "text": "Matrakçı Nasuh"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Matrakçı Nasuh)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>XVI. yüzyılda Kanuni döneminde yaşayan, şehir, kale ve konak yerlerini topoğrafik ve kuşbakışı perspektifle çizen menzil tasviri ustası ünlü minyatür ve matematik bilgini Matrakçı Nasuh'tur (Beyân-ı Menâzil-i Sefer-i Irâkeyn eseri meşhurdur).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Nakkaş Osman: Hünername minyatürlerini yapmıştır.<br>• Levni: Surname-i Vehbi minyatürcüsüdür.<br>• Dede Efendi bestekârdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Menzil ve şehir planı minyatürleri + Sopalı matrak oyunu mucidi = Matrakçı Nasuh."
+  },
+  {
+    "id": "tarih14_3_q11",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Surname-i Vehbî'nin minyatürlerini \nhazırlayan sanatçı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hacı Arif Bey"
+      },
+      {
+        "key": "B",
+        "text": "Nakkaş Osman"
+      },
+      {
+        "key": "C",
+        "text": "Şeker Ahmet Paşa"
+      },
+      {
+        "key": "D",
+        "text": "Levnî"
+      },
+      {
+        "key": "E",
+        "text": "Mustafa Rakım Efendi"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Levnî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Lale Devri'nin ünlü şairi Seyyid Vehbî'nin yazdığı ve III. Ahmet'in şehzadelerinin sünnet düğününü anlatan 'Surnâme-i Vehbî' adlı eserin minyatürlerini usta nakkaş Levnî (Abdülcelil Çelebi) çizmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Nakkaş Osman XVI. yüzyıldadır.<br>• Şeker Ahmet Paşa XIX. yüzyıl tuval ressamıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Lale Devri Minyatür Ustası + Surnâme-i Vehbî = Levnî."
+  },
+  {
+    "id": "tarih14_3_q12",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "Kitap sayfalarını süsleme sanatı ve \nsanatçısı hangi seçenekte doğru \neşleştirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Minyatür – Müstensih"
+      },
+      {
+        "key": "B",
+        "text": "Ebru – Müderris"
+      },
+      {
+        "key": "C",
+        "text": "Ciltçilik – Musavvir"
+      },
+      {
+        "key": "D",
+        "text": "Hat – Mücellit"
+      },
+      {
+        "key": "E",
+        "text": "Tezhip – Müzehhip"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Tezhip – Müzehhip)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Altın tozu ve çeşitli boyalar kullanılarak el yazması kitapların sayfalarını, başlıklarını ve levhaları süsleme sanatına 'Tezhip', bu sanatı yapan ustaya ise 'Müzehhip' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ciltçilik - Musavvir (yanlış eşleştirme, ciltçiye mücellit denir).<br>• Minyatür - Müstensih (müstensih metin çoğaltıcıdır).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Zehb = Altın. Tezhip = Altınlama süslemesi. Yapan usta = Müzehhip."
+  },
+  {
+    "id": "tarih14_3_q13",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "Su ve boya kullanılarak kâğıt süslenen \nsanat dalı hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Oyma-kakma"
+      },
+      {
+        "key": "B",
+        "text": "Ebru"
+      },
+      {
+        "key": "C",
+        "text": "Çinicilik"
+      },
+      {
+        "key": "D",
+        "text": "Mimari"
+      },
+      {
+        "key": "E",
+        "text": "Hat"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Ebru)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kitre ile yoğunlaştırılmış suyun üzerine özel toprak boyaların damlatılıp desen verilmesi ve bu desenin kâğıda aktarılmasıyla yapılan geleneksel süsleme sanatına 'Ebru' sanatı denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çinicilik pişmiş fırınlanmış toprak süslemesidir.<br>• Oyma-kakma ahşap ve taştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Su üstünde resim / kâğıt damar sanatı = Ebru (Battal ebru, hatip ebrusu vb.)."
+  },
+  {
+    "id": "tarih14_3_q14",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Kitapların ciltlenmesiyle uğraşan \nsanatçıya ne ad verilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Müstensih"
+      },
+      {
+        "key": "B",
+        "text": "Nakkaş"
+      },
+      {
+        "key": "C",
+        "text": "Ebruzen"
+      },
+      {
+        "key": "D",
+        "text": "Mücellit"
+      },
+      {
+        "key": "E",
+        "text": "Muid"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Mücellit)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>El yazması kitap sayfalarını dağılmaktan korumak, deri ve mukavva ile kaplayıp şemse ve köşebentlerle süsleme işine 'Ciltçilik', bunu yapan ustaya ise 'Mücellit' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Muid: Asistan;<br>• Mülazım: Stajyer;<br>• Musavvir: Minyatürcüdür.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Cilt ustası = Mücellit. Cildin kısımları: Sertap, miklep, şemse."
+  },
+  {
+    "id": "tarih14_3_q15",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "Kaplumbağa Terbiyecisi adlı tablo hangi \nsanatçıya aittir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nakkaş Osman"
+      },
+      {
+        "key": "B",
+        "text": "Şeker Ahmet Paşa"
+      },
+      {
+        "key": "C",
+        "text": "Levnî"
+      },
+      {
+        "key": "D",
+        "text": "Osman Hamdi Bey"
+      },
+      {
+        "key": "E",
+        "text": "Matrakçı Nasuh"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Osman Hamdi Bey)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Meşhur 'Kaplumbağa Terbiyecisi' tablosu (1906), Türk müzeciliğinin öncüsü ve Sanayi-i Nefise Mektebi'nin kurucusu olan ünlü ressam Osman Hamdi Bey'e aittir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Şeker Ahmet Paşa doğa ve natürmort ressamıdır.<br>• İbrahim Çallı empresyonist Çallı kuşağı öncüsüdür.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kaplumbağa Terbiyecisi, Silah Tacirleri, Yeşil Cami Önü = Osman Hamdi Bey."
+  },
+  {
+    "id": "tarih14_3_q16",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "Aşağıdaki isimlerden hangisi Osmanlı \nmusikisinin temsilcilerindendir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mustafa Rakım Efendi"
+      },
+      {
+        "key": "B",
+        "text": "Kara Memi"
+      },
+      {
+        "key": "C",
+        "text": "Şah Kulu"
+      },
+      {
+        "key": "D",
+        "text": "Ahmet Karahisari"
+      },
+      {
+        "key": "E",
+        "text": "Itrî"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Itrî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Itri (Buhurizade Mustafa Efendi), Klasik Türk Müziği'nin en büyük bestekârı olup 'Segâh Tekbiri' ve 'Salât-ı Ümmiye'nin bestecisidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ali Kuşçu matematikçidir.<br>• Matrakçı Nasuh minyatürcüdür.<br>• Takiyüddin astronomdur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Segâh Kurban Bayramı Tekbiri + Nevakâr Bestesi = Itrî (XVII. yüzyıl)."
+  },
+  {
+    "id": "tarih14_3_q17",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "PDF'de Osmanlı Devleti dışında, Timur \nhizmetinde olduğu belirtilen musikişinas \nkimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hacı Arif Bey"
+      },
+      {
+        "key": "B",
+        "text": "Abdülkadir Meragi"
+      },
+      {
+        "key": "C",
+        "text": "III. Selim"
+      },
+      {
+        "key": "D",
+        "text": "Itrî"
+      },
+      {
+        "key": "E",
+        "text": "Dede Efendi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Abdülkadir Meragi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ali Kuşçu, Kadızade-i Rûmî ve Uluğ Bey, Osmanlı Devleti'ne geçmeden veya ortak bilim havzasında Semerkant'ta Timur İmparatorluğu himayesinde bilimsel eserler vermişlerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Gazneliler XI. yy'da Afganistan'dadır.<br>• Memlükler Mısır'dadır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Semerkant Rasathanesi ve Bilim Akademisi = Timur İmparatorluğu (Uluğ Bey dönemi)."
+  },
+  {
+    "id": "tarih14_3_q18",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Cami merkezli toplu yapı grubuna ne ad \nverilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Şifahane"
+      },
+      {
+        "key": "B",
+        "text": "Külliye"
+      },
+      {
+        "key": "C",
+        "text": "Tabhane"
+      },
+      {
+        "key": "D",
+        "text": "Türbe"
+      },
+      {
+        "key": "E",
+        "text": "Arasta"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Külliye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ortasında bir cami bulunan ve çevresinde medrese, imaret, kütüphane, tabhane, darüşşifa ve hamam gibi sosyal yapıları barındıran toplu mimari komplekse 'Külliye' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Arasta çarşıdır.<br>• Kapan tek cins toptancı halidir.<br>• Bedesten kapalı çarşıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Cami merkezli çok işlevli kamu yapıları topluluğu = Külliye."
+  },
+  {
+    "id": "tarih14_3_q19",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Tek tip mal satan dükkânlar topluluğu \nhangi kavramla ifade edilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Şifahane"
+      },
+      {
+        "key": "B",
+        "text": "Türbe"
+      },
+      {
+        "key": "C",
+        "text": "Arasta"
+      },
+      {
+        "key": "D",
+        "text": "Tabhane"
+      },
+      {
+        "key": "E",
+        "text": "İmarethane"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Arasta)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Genellikle bir caminin veya külliyenin vakfına gelir sağlamak amacıyla inşa edilen, aynı cins esnafın (örneğin ayakkabıcılar, bakırcılar) dükkânlarının bir sokak boyunca karşılıklı dizildiği üstü açık veya kapalı çarşılara 'Arasta' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten değerli kumaş ve mücevher satılan kubbeli kapalı çarşıdır.<br>• İmarethane aşevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tek tip zanaat kolunun dükkânlar sırası = Arasta. Değerli eşya ve mücevher kapalı çarşısı = Bedesten."
+  },
+  {
+    "id": "tarih14_3_q20",
+    "testId": "tarih14_3",
+    "testTitle": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.3 (Gökhan Hoca: Bilim/Fenn & Geleneksel Sanatlar)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Aşevi işleviyle tanıtılan yapı hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kervansaray"
+      },
+      {
+        "key": "B",
+        "text": "Tabhane"
+      },
+      {
+        "key": "C",
+        "text": "Bedesten"
+      },
+      {
+        "key": "D",
+        "text": "İmarethane"
+      },
+      {
+        "key": "E",
+        "text": "Kümbet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (İmarethane)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Külliyelerde yoksullara, medrese talebelerine, dervişlere ve yolculara günde iki öğün ücretsiz sıcak yemek dağıtan aşevine 'İmaret' (İmarethane) adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bimarhane akıl hastanesidir.<br>• Tabhane konukevidir.<br>• Darülkurra Kur'an hafızlık mektebidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ücretsiz aşevi = İmaret / İmarethane (Vakıf sisteminin sosyal yardımlaşma merkezidir)."
+  },
+  {
+    "id": "tarih14_4_q1",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Kuruluş döneminin mimari eserleri genel \nolarak hangi mimari dönemde değerlendirilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Erken dönem"
+      },
+      {
+        "key": "B",
+        "text": "Tanzimat sonrası"
+      },
+      {
+        "key": "C",
+        "text": "Lale Devri"
+      },
+      {
+        "key": "D",
+        "text": "Klasik dönem"
+      },
+      {
+        "key": "E",
+        "text": "Geç dönem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Erken dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı mimarisinde 1299-1453 yılları arasını kapsayan (İznik, Bursa ve Edirne merkezli) Kuruluş dönemi eserleri 'Erken Dönem Osmanlı Mimarisi' olarak adlandırılır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Klasik dönem İstanbul'un fethinden (1453) Lale Devri'ne (1703) kadardır.<br>• Geç dönem ise Batı etkisindeki dönemdir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mimari Dönemler: Erken Dönem (Kuruluş / Bursa-Edirne) ➔ Klasik Dönem (İstanbul / Fatih-Sinan) ➔ Geç Dönem (Lale Devri ve Batı Etkisi)."
+  },
+  {
+    "id": "tarih14_4_q2",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Yükselme ve Duraklama dönemlerinin \nmimari eserlerini kapsayan dönem hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhuriyet dönemi"
+      },
+      {
+        "key": "B",
+        "text": "Beylikler öncesi dönem"
+      },
+      {
+        "key": "C",
+        "text": "Klasik dönem"
+      },
+      {
+        "key": "D",
+        "text": "Geç dönem"
+      },
+      {
+        "key": "E",
+        "text": "Erken dönem"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Klasik dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İstanbul'un fethinden (1453) başlayarak Mimar Sinan'ın eserleriyle zirveye ulaşan ve Lale Devri'ne (1703) kadar süren mimari üslup 'Klasik Dönem Osmanlı Mimarisi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Erken dönem Bursa-Edirne eserleridir.<br>• Barok ve Rokoko Geç döneme aittir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Klasik Dönem Zirvesi = Mimar Sinan (Şehzade, Süleymaniye, Selimiye)."
+  },
+  {
+    "id": "tarih14_4_q3",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Lale Devri'nden Osmanlı'nın sonuna kadar \nuzanan mimari eserler hangi gruptadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kuruluş dönemi"
+      },
+      {
+        "key": "B",
+        "text": "Geç dönem"
+      },
+      {
+        "key": "C",
+        "text": "Klasik dönem"
+      },
+      {
+        "key": "D",
+        "text": "Erken dönem"
+      },
+      {
+        "key": "E",
+        "text": "Selçuklu dönemi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Geç dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1718 Lale Devri ile başlayan ve Avrupa mimari akımlarının (Barok, Rokoko, Ampir/İmparatorluk, Neoklasik) etkisinde kalan mimari evreye 'Geç Dönem (Batı Etkili) Osmanlı Mimarisi' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Klasik dönemde Batı etkisi yoktur, tamamen yerli Türk-İslam sentezidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batı etkili Geç Dönem: Nuruosmaniye Camii, Dolmabahçe Sarayı, Ortaköy Camii, İshak Paşa Sarayı."
+  },
+  {
+    "id": "tarih14_4_q4",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "Süleyman Paşa Medresesi ve Hacı Özbek \nCamii hangi şehirde bulunmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İznik"
+      },
+      {
+        "key": "B",
+        "text": "Ankara"
+      },
+      {
+        "key": "C",
+        "text": "Edirne"
+      },
+      {
+        "key": "D",
+        "text": "Bursa"
+      },
+      {
+        "key": "E",
+        "text": "İstanbul"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (İznik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İznik Süleyman Paşa Medresesi ve İznik Hacı Özbek Camii (1333), Osmanlı Devleti'nin 'Erken Dönem' (Kuruluş devri) mimarisinin günümüze ulaşan ilk örnekleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Klasik ve Geç dönem eserleri değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osmanlı'nın günümüze ulaşan en eski tarihli camisi = İznik Hacı Özbek Camii (1333 - Orhan Bey)."
+  },
+  {
+    "id": "tarih14_4_q5",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi Bursa'daki erken \ndönem mimari eserleri arasında \ngösterilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ortaköy Camii"
+      },
+      {
+        "key": "B",
+        "text": "Dolmabahçe Sarayı"
+      },
+      {
+        "key": "C",
+        "text": "Rumeli Hisarı"
+      },
+      {
+        "key": "D",
+        "text": "Selimiye Camii"
+      },
+      {
+        "key": "E",
+        "text": "Yeşil Türbe"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Yeşil Türbe)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bursa Ulu Camii (I. Bayezid - Yıldırım), Yeşil Camii ve Türbesi (Çelebi Mehmet), Muradiye Külliyesi (II. Murat) Erken Dönem Bursa mimarisinin şaheserleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Süleymaniye ve Sultan Ahmet İstanbul Klasik dönem eserleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bursa = Erken Dönem başkenti (Ulu Cami çok kubbeli ulu cami tipinin en görkemli örneğidir)."
+  },
+  {
+    "id": "tarih14_4_q6",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Padişahlar veya hanedan mensupları \nadına yaptırılan camilere ne ad verilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menzil camileri"
+      },
+      {
+        "key": "B",
+        "text": "Ribat camileri"
+      },
+      {
+        "key": "C",
+        "text": "Lonca camileri"
+      },
+      {
+        "key": "D",
+        "text": "Mahfil camileri"
+      },
+      {
+        "key": "E",
+        "text": "Selatin camileri"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Selatin camileri)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Padişahlar, padişah eşleri veya hanedan mensupları adına yaptırılan ve genellikle çift veya daha fazla minaresi bulunan büyük külliyeli camilere 'Selâtin Camileri' (Sultan Camileri) denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mesvit tek kubbeli minaresiz küçük ibadethanedir.<br>• Hankâh tarikat yapısıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Selâtin Camileri: Padişah ve hanedan yaptırır, birden fazla minaresi olur (Örn: Süleymaniye, Selimiye, Sultanahmet)."
+  },
+  {
+    "id": "tarih14_4_q7",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Mimar Sinan'ın çıraklık, kalfalık ve ustalık \neserleri sırasıyla hangi seçenektedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Selimiye – Süleymaniye – Şehzadebaşı"
+      },
+      {
+        "key": "B",
+        "text": "Şehzadebaşı – Süleymaniye – Selimiye"
+      },
+      {
+        "key": "C",
+        "text": "Süleymaniye – Selimiye – Şehzadebaşı"
+      },
+      {
+        "key": "D",
+        "text": "Selimiye – Şehzadebaşı – Süleymaniye"
+      },
+      {
+        "key": "E",
+        "text": "Şehzadebaşı – Selimiye – Süleymaniye"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Şehzadebaşı – Süleymaniye – Selimiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Büyük dahi Mimar Sinan kendi eserlerini bizzat şöyle derecelendirmiştir: Çıraklık Eserim: İstanbul Şehzade Camii (1548), Kalfalık Eserim: İstanbul Süleymaniye Camii (1557), Ustalık Eserim: Edirne Selimiye Camii (1575).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sultanahmet Sedefkar Mehmet Ağa'nın eseridir.<br>• Mihrimah Sultan ve Rüstem Paşa diğer önemli Sinan eserleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mimar Sinan Üçlemesi: Çıraklık = Şehzade | Kalfalık = Süleymaniye | Ustalık = Selimiye (Edirne)."
+  },
+  {
+    "id": "tarih14_4_q8",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Sultan Ahmet Camii'nin mimarı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sedefkâr Mehmet Ağa"
+      },
+      {
+        "key": "B",
+        "text": "Sarkis Balyan"
+      },
+      {
+        "key": "C",
+        "text": "Osman Hamdi Bey"
+      },
+      {
+        "key": "D",
+        "text": "Mimar Hayreddin"
+      },
+      {
+        "key": "E",
+        "text": "Mimar Sinan"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Sedefkâr Mehmet Ağa)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1609-1616 yılları arasında Sultan I. Ahmet tarafından yaptırılan ve Türkiye'nin ilk 6 minareli camisi olan, Avrupalıların 'Mavi Cami' (Blue Mosque) dediği Sultan Ahmet Camii'nin mimarı Sedefkâr Mehmet Ağa'dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mimar Sinan 1588'de vefat etmiştir.<br>• Davud Ağa ve Dalgıç Ahmet Paşa diğer kalfalarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sultan Ahmet Camii (6 minareli Mavi Cami) = Sedefkâr Mehmet Ağa (I. Ahmet dönemi)."
+  },
+  {
+    "id": "tarih14_4_q9",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Mostar Köprüsü hangi mimarla \nilişkilendirilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sarkis Balyan"
+      },
+      {
+        "key": "B",
+        "text": "Karabet Balyan"
+      },
+      {
+        "key": "C",
+        "text": "Sedefkâr Mehmet Ağa"
+      },
+      {
+        "key": "D",
+        "text": "Mimar Hayreddin"
+      },
+      {
+        "key": "E",
+        "text": "Matrakçı Nasuh"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Mimar Hayreddin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bosna-Hersek'te Neretva Nehri üzerinde 1566'da inşa edilen ve zarafetiyle hayranlık uyandıran tarihi Mostar Köprüsü, Mimar Sinan'ın seçkin talebelerinden Mimar Hayreddin tarafından yapılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Balyan ailesi XIX. yüzyıl saray mimarlarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mostar Köprüsü (Bosna) = Mimar Hayreddin (Mimar Sinan'ın öğrencisi)."
+  },
+  {
+    "id": "tarih14_4_q10",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Aşağıdakilerden hangisi geç dönem \nOsmanlı mimarisinde görülen Batı etkileri \narasında sayılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Uygur yazısı"
+      },
+      {
+        "key": "B",
+        "text": "Barok"
+      },
+      {
+        "key": "C",
+        "text": "Klasik hat üslubu"
+      },
+      {
+        "key": "D",
+        "text": "Romanesk öncesi üslup"
+      },
+      {
+        "key": "E",
+        "text": "Orhun üslubu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Barok)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Batı mimari etkisiyle inşa edilen ilk barok tarzı cami 'Nuruosmaniye Camii'dir (I. Mahmut başlatmış, III. Osman tamamlamıştır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Edirne Üç Şerefeli erken/klasik geçişidir.<br>• Fatih Camii klasik dönemdir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batı tarzı (Barok) İLK cami = Nuruosmaniye Camii (İstanbul)."
+  },
+  {
+    "id": "tarih14_4_q11",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Beylerbeyi Sarayı'nın yapımıyla \nilişkilendirilen padişah ve mimar hangi \nseçenektedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Abdülaziz – Sarkis Balyan"
+      },
+      {
+        "key": "B",
+        "text": "III. Selim – Osman Hamdi Bey"
+      },
+      {
+        "key": "C",
+        "text": "II. Mahmut – Şeyh Hamdullah"
+      },
+      {
+        "key": "D",
+        "text": "Fatih – Mimar Sinan"
+      },
+      {
+        "key": "E",
+        "text": "Kanuni – Mimar Hayreddin"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Abdülaziz – Sarkis Balyan)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Boğaziçi'nde yazlık saray olarak 1865 yılında Sultan Abdülaziz tarafından inşa ettirilen neobarok Beylerbeyi Sarayı'nın mimarı Ermeni asıllı saray mimarı Sarkis Balyan'dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dolmabahçe ve Beylerbeyi XIX. yüzyıl Balyan ailesi eserleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Beylerbeyi ve Çırağan Sarayları = Sultan Abdülaziz dönemi, Sarkis Balyan."
+  },
+  {
+    "id": "tarih14_4_q12",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "Sirkeci ve Haydarpaşa yapıları PDF'de \nhangi yapı türü altında birlikte verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Köşk"
+      },
+      {
+        "key": "B",
+        "text": "Gar"
+      },
+      {
+        "key": "C",
+        "text": "Medrese"
+      },
+      {
+        "key": "D",
+        "text": "Kışla"
+      },
+      {
+        "key": "E",
+        "text": "Çeşme"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Gar)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sirkeci Garı (Avrupa Yakası) ve Haydarpaşa Garı (Anadolu Yakası), XIX. yüzyıl sonu ve XX. yüzyıl başında demiryolu ulaşımı için inşa edilmiş anıtsal 'Gar' (Tren İstasyonu) yapılarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kışla, medrese veya çeşme değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sirkeci Garı (Şark Ekspresi / Orient Express) + Haydarpaşa Garı (Bağdat Demiryolu başlangıcı)."
+  },
+  {
+    "id": "tarih14_4_q13",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "El yazması metinlerde anlatılan olayları \nküçük renkli resimlerle görselleştirme sanatı \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ebru"
+      },
+      {
+        "key": "B",
+        "text": "Ciltçilik"
+      },
+      {
+        "key": "C",
+        "text": "Minyatür"
+      },
+      {
+        "key": "D",
+        "text": "Tezhip"
+      },
+      {
+        "key": "E",
+        "text": "Hat"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Minyatür)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>El yazması kitaplarda metni açıklamak, tarihi seferleri, elçi kabullerini ve saray eğlencelerini resmetmek için yapılan gölgesiz, perspektifsiz ve derinliksiz küçük renkli resim sanatına 'Minyatür' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tezhip altınlamadır.<br>• Ebru kâğıt desenidir.<br>• Hat yazıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İslam sanatında perspektifsiz ve gölgesiz kitap resmi = Minyatür (Nakkaş yapar)."
+  },
+  {
+    "id": "tarih14_4_q14",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Aşağıdaki Divan-ı Hümayun üyelerinden \nhangisi seyfiye sınıfındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sadrazam"
+      },
+      {
+        "key": "B",
+        "text": "Defterdar"
+      },
+      {
+        "key": "C",
+        "text": "Kazasker"
+      },
+      {
+        "key": "D",
+        "text": "Şeyhülislam"
+      },
+      {
+        "key": "E",
+        "text": "Nişancı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Sadrazam)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Divan-ı Hümayun üyeleri üç ana ilmi/idari sınıfa ayrılır: 1) Seyfiye (Askeri/Yönetim: Sadrazam, Vezirler, Kaptan-ı Derya, Yeniçeri Ağası), 2) İlmiye (Din/Hukuk/Eğitim: Şeyhülislam, Kazasker), 3) Kalemiye (Bürokrasi/Maliye: Defterdar, Nişancı, Reisülküttab). Kazasker ve Şeyhülislam ilmiye sınıfındandır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Defterdar ve Nişancı kalemiye;<br>• Sadrazam seyfiye sınıfıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlmiye Üyeleri: Şeyhülislam (Fetva) ve Kazasker (Kadı ve müderris atamaları, askeri davalar)."
+  },
+  {
+    "id": "tarih14_4_q15",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "Aşağıdaki yapılardan hangisinin temel \nişlevi eğitim ve öğretim değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Enderun"
+      },
+      {
+        "key": "B",
+        "text": "Cami"
+      },
+      {
+        "key": "C",
+        "text": "Türbe"
+      },
+      {
+        "key": "D",
+        "text": "Tekke"
+      },
+      {
+        "key": "E",
+        "text": "Medrese"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Türbe)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türbe; hükümdarların, din büyüklerinin veya devlet ricalinin mezarlarının bulunduğu anıt mezar yapısıdır. Eğitim ve öğretim işlevi yoktur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Enderun, Medrese, Tekke ve Cami klasik eğitim ve tedrisat işlevine sahiptir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Türbe = Anıt mezar (Eğitimle doğrudan ilgisi yoktur)."
+  },
+  {
+    "id": "tarih14_4_q16",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "Aşağıdaki görevlilerden hangisi kalemiye \nsınıfına mensuptur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Harem Ağası"
+      },
+      {
+        "key": "B",
+        "text": "Sekban"
+      },
+      {
+        "key": "C",
+        "text": "Reisülküttap"
+      },
+      {
+        "key": "D",
+        "text": "Yeniçeri Ağası"
+      },
+      {
+        "key": "E",
+        "text": "Silahtar"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Reisülküttap)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kalemiye sınıfı; devletin yazışma, arşiv, tapu-tahrir ve maliye işlerini yürüten bürokrat zümredir. Defterdar (maliye amiri), Nişancı (tuğra çeken, fetva/kanun ve tapu tahrir sorumlusu) ve Reisülküttab (yazışma ve dışişleri) kalemiye sınıfının üyeleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kazasker ilmiye;<br>• Kaptan-ı Derya ve Yeniçeri Ağası seyfiye sınıfıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kalemiye = Yazışma + Maliye + Bürokrasi (Nişancı, Defterdar, Reisülküttab)."
+  },
+  {
+    "id": "tarih14_4_q17",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "Karahanlılarda sınır ve ticaret yollarında \ngüvenlik ve konaklama sağlayan yapılara ne \nad verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Arasta"
+      },
+      {
+        "key": "B",
+        "text": "Külliye"
+      },
+      {
+        "key": "C",
+        "text": "Ribat"
+      },
+      {
+        "key": "D",
+        "text": "Hazire"
+      },
+      {
+        "key": "E",
+        "text": "İmaret"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Ribat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Karahanlılar döneminde sınır boylarında hem askeri savunma karakolu hem de İpek Yolu tüccarları için korunaklı kervansaray işlevi gören yapılara 'Ribat' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kapan tek cins toptancı pazarıdır.<br>• Bedesten kapalı çarşıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Türk-İslam kervansarayı / sınır karakolu = Ribat (Karahanlılar)."
+  },
+  {
+    "id": "tarih14_4_q18",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "Uzun Hasan'ın elçisi olarak İstanbul'a \ngelen ve Fatih'in davetiyle burada kalan bilim \ninsanı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Molla Lütfi"
+      },
+      {
+        "key": "B",
+        "text": "Ali Kuşçu"
+      },
+      {
+        "key": "C",
+        "text": "Uluğ Bey"
+      },
+      {
+        "key": "D",
+        "text": "Kadızade-i Rumî"
+      },
+      {
+        "key": "E",
+        "text": "Mirim Çelebi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Ali Kuşçu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Akkoyunlu hükümdarı Uzun Hasan'ın barış elçisi olarak Fatih Sultan Mehmet'e gönderdiği, Fatih'in derin ilmine hayran kalarak İstanbul'da kalmasını teklif ettiği ve Ayasofya başmüderrisi yaptığı bilgin Ali Kuşçu'dur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kadızade Semerkant'ta kalmıştır.<br>• Sabuncuoğlu Amasya'dadır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Uzun Hasan'ın elçisi ➔ Fatih'in Ayasofya Müderrisi = Ali Kuşçu (1472)."
+  },
+  {
+    "id": "tarih14_4_q19",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Aşağıdaki kurumlardan hangisi sağlık \nhizmeti amacıyla açılan kurumlardan biri \ndeğildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Darüssıhha"
+      },
+      {
+        "key": "B",
+        "text": "Bimaristan"
+      },
+      {
+        "key": "C",
+        "text": "Tıbhane"
+      },
+      {
+        "key": "D",
+        "text": "Darüşşifa"
+      },
+      {
+        "key": "E",
+        "text": "Darüleytam"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Darüleytam)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı'da Darüşşifa, Şifahane, Maristan, Bimarhane ve Darüssıhha sağlık ve tedavi kurumlarıdır. Darülbedayi ise 1914'te açılan tiyatrodur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Darülbedayi tiyatro ve sahne sanatları kurumudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sağlık Kurumları: Darüşşifa, Bimarhane, Maristan, Darüssıhha. Tiyatro = Darülbedayi."
+  },
+  {
+    "id": "tarih14_4_q20",
+    "testId": "tarih14_4",
+    "testTitle": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.4 (Gökhan Hoca: Mimari Dönemler, Saraylar ve Külliyeler)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Aşağıdakilerden hangisi İslami dönem \nTürk devletlerinde hükümdarlığın genel bir \nşartı değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sultan unvanı kullanmak"
+      },
+      {
+        "key": "B",
+        "text": "Parada halifenin adına yer vermek"
+      },
+      {
+        "key": "C",
+        "text": "Kendi adına para bastırmak"
+      },
+      {
+        "key": "D",
+        "text": "Törenle kılıç kuşanmak"
+      },
+      {
+        "key": "E",
+        "text": "Aşina soyundan gelmek"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Aşina soyundan gelmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Külliye, İslamiyet'in kabulünden sonra ortaya çıkan; cami merkezinde toplanmış eğitim, sağlık ve sosyal yapıların bütünüdür. İslam öncesi Türklerde bulunmaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kurgan (mezar), Yuğ (cenaze), Balbal (mezar taşı) İslam öncesi döneme aittir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İslamiyet Sonrası Kültür Unsurları: Külliye, Cami, Medrese, Vakıf, Ribat, Kümbet."
+  },
+  {
+    "id": "tarih14_5_q1",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 1,
+    "questionText": "Osmanlı kadılarının kararlarıyla ilgili \naşağıdaki yargılardan hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Göreve gelmeleri için Enderun mezuniyeti \nşarttı."
+      },
+      {
+        "key": "B",
+        "text": "Kararlarına hiçbir makam müdahale edemezdi."
+      },
+      {
+        "key": "C",
+        "text": "Yalnız askerî suçlarla ilgilenirlerdi."
+      },
+      {
+        "key": "D",
+        "text": "Kararları Divan-ı Hümayun'da yeniden \nincelenebilirdi."
+      },
+      {
+        "key": "E",
+        "text": "Atamaları nişancı tarafından yapılırdı."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Kararları Divan-ı Hümayun'da yeniden \nincelenebilirdi.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı yargı sisteminde kadılar kararlarında şer'i ve örfi hukuka göre bağımsız hüküm verirlerdi; ancak kadı kararlarından haksızlığa uğradığını düşünen tebaa 'Divan-ı Hümayun'a başvurarak davasının yeniden incelenmesini (temyiz) talep edebilirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kadılar Enderun değil medrese mezunudur.<br>• Kadı atamalarını Nişancı değil Kazasker yapar.<br>• Kadılar yalnızca askeri değil tüm hukuki davalara bakardı.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Divan-ı Hümayun aynı zamanda en yüksek temyiz mahkemesidir; haksızlığa uğrayan herkes kadıyı divana şikâyet edebilirdi."
+  },
+  {
+    "id": "tarih14_5_q2",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 2,
+    "questionText": "Bir külliyenin giderlerini karşılamak için \nhamam ve dükkân gelirlerinin tahsis edilmesi \nhangi sisteme örnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Malikâne"
+      },
+      {
+        "key": "B",
+        "text": "Esham"
+      },
+      {
+        "key": "C",
+        "text": "Vakıf"
+      },
+      {
+        "key": "D",
+        "text": "Tımar"
+      },
+      {
+        "key": "E",
+        "text": "İltizam"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Vakıf)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Vakıf sisteminde cami, medrese, aşevi gibi kamu hizmeti veren kurumların (hayrat) giderlerini ebediyen karşılamak için tahsis edilen gelir getiren dükkân, han, hamam ve tarla gibi mülklere 'Akar' denir ve bu sistem 'Vakıf Sistemi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tımar askeri dirliktir.<br>• İltizam vergi toplama ihalesidir.<br>• Esham iç borçlanma senedidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Vakıf = Hayrat (hizmet veren yapı) + Akar (o hizmetin masrafını ödeyen gelir getiren mülk)."
+  },
+  {
+    "id": "tarih14_5_q3",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 3,
+    "questionText": "Topkapı Sarayı'nın dış hizmetlerinin \nyürütüldüğü bölüm hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Birun"
+      },
+      {
+        "key": "B",
+        "text": "Enderun"
+      },
+      {
+        "key": "C",
+        "text": "Matbah-ı Amire"
+      },
+      {
+        "key": "D",
+        "text": "Harem"
+      },
+      {
+        "key": "E",
+        "text": "Has Oda"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Birun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Topkapı Sarayı üç ana kısımdan oluşur: 1) Bîrun (Dış saray - devlet idaresi, divan, yeniçeriler ve dış hizmetler), 2) Enderun (İç saray - devşirme mektebi ve padişah hizmetkârları), 3) Harem (Padişahın ailesiyle yaşadığı özel bölüm). Dış hizmetler Bîrun'dadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Enderun iç saraydır.<br>• Has Oda padişahın özel odasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Topkapı Sarayı Bölümleri: Bîrun (Dış / Divan / Bürokrasi) - Enderun (İç / Mektep / Hazine) - Harem (Özel Hayat)."
+  },
+  {
+    "id": "tarih14_5_q4",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 4,
+    "questionText": "Anadolu'daki Türk beylikleri hakkında \naşağıdakilerden hangisi söylenemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bizans'a karşı her zaman ortak hareket \netmişlerdir."
+      },
+      {
+        "key": "B",
+        "text": "İslamiyet'in yayılmasına katkı sağlamışlardır."
+      },
+      {
+        "key": "C",
+        "text": "Mimari eserler meydana getirmişlerdir."
+      },
+      {
+        "key": "D",
+        "text": "Anadolu'nun Türkleşmesine katkıda \nbulunmuşlardır."
+      },
+      {
+        "key": "E",
+        "text": "Bilim ve kültür hayatını zenginleştirmişlerdir."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Bizans'a karşı her zaman ortak hareket \netmişlerdir.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Karesioğulları Beyliği'nin Orhan Bey döneminde Osmanlı'ya katılmasıyla, Osmanlı ilk kez donanma sahibi olmuş ve Rumeli'ye (Karesi komutanları Evrenos, Hacı İlbey vb. ile) geçiş kolaylaşmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hamitoğulları topraklarının bir kısmı para ile satın alınmıştır.<br>• Germiyanoğulları çeyiz yoluyla katılmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osmanlı'ya katılan İLK beylik = Karesioğulları (İlk donanma + Rumeli fethinin başlangıcı)."
+  },
+  {
+    "id": "tarih14_5_q5",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi tımar sisteminin \nçözülmesinin doğrudan sonuçları arasında \ngösterilemez?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merkez askerlerinin önem kazanması"
+      },
+      {
+        "key": "B",
+        "text": "Celali isyanlarının yaygınlaşması"
+      },
+      {
+        "key": "C",
+        "text": "İlmiye sınıfının önemini kaybetmesi"
+      },
+      {
+        "key": "D",
+        "text": "Kırsaldan şehirlere göçün artması"
+      },
+      {
+        "key": "E",
+        "text": "Üretim-tüketim dengesinin bozulması"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (İlmiye sınıfının önemini kaybetmesi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tımar sisteminde köylü toprağı terk edip şehre kaçarsa vergiler aksamasın diye köylüden 'Çiftbozan Resmi' adında tazminat vergisi alınırdı. Köylünün keyfi olarak şehre göç etmesine izin verilmezdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tımar sistemi üretimin sürekliliğini sağlar, hazineye yük olmadan büyük bir ordu besler ve taşrada asayişi korur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Toprağı nedensiz boş bırakan veya terk eden köylüden alınan ceza/tazminat vergisi = Çiftbozan Resmi."
+  },
+  {
+    "id": "tarih14_5_q6",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 6,
+    "questionText": "Saray-ı Cedid-i Amire adıyla da anılan \nsaray hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dolmabahçe"
+      },
+      {
+        "key": "B",
+        "text": "Çırağan"
+      },
+      {
+        "key": "C",
+        "text": "Yıldız"
+      },
+      {
+        "key": "D",
+        "text": "Topkapı"
+      },
+      {
+        "key": "E",
+        "text": "Beylerbeyi"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Topkapı)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet tarafından fetihten sonra Sarayburnu'nda yaptırılan Topkapı Sarayı'nın resmi ve tarihi adı 'Saray-ı Cedîd-i Âmire'dir (Yeni Saray). Beyazıt'taki ilk saraya ise 'Saray-ı Atîk' (Eski Saray) denirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çırağan ve Dolmabahçe XIX. yüzyıl saraylarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray-ı Atik = Eski Saray (Beyazıt) | Saray-ı Cedid = Yeni Saray (Topkapı Sarayı)."
+  },
+  {
+    "id": "tarih14_5_q7",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 7,
+    "questionText": "Aşağıdakilerden hangisi Osmanlı eğitim \nkurumlarından biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Darülhadis"
+      },
+      {
+        "key": "B",
+        "text": "Darülbedayi"
+      },
+      {
+        "key": "C",
+        "text": "Darülharp"
+      },
+      {
+        "key": "D",
+        "text": "Darülfünun"
+      },
+      {
+        "key": "E",
+        "text": "Darülkurra"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Darülharp)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Gureba Mektebi diye bir eğitim kurumu yoktur; Gureba (Vakıf Gureba), Bezmialem Valide Sultan tarafından yoksul ve kimsesiz hastalar için kurulan bir hastanedir/darüşşifadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mekteb-i Tıbbiye, Harbiye, Mülkiye ve Hendesehane gerçek Osmanlı okullarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Gureba Hastanesi = Bezmialem Valide Sultan'ın kimsesiz garipler için açtığı sağlık kurumudur."
+  },
+  {
+    "id": "tarih14_5_q8",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 8,
+    "questionText": "Halifenin hükümdarlığı onayladığını \ngöstermek amacıyla gönderdiği giysiye ne ad \nverilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hilat"
+      },
+      {
+        "key": "B",
+        "text": "Çetr"
+      },
+      {
+        "key": "C",
+        "text": "Nevbet"
+      },
+      {
+        "key": "D",
+        "text": "Sancak"
+      },
+      {
+        "key": "E",
+        "text": "Menşur"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Hilat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Abbasi Halifesinin Türk-İslam hükümdarının hükümdarlığını onaylayıp gönderdiği saltanat tasdik fermanına ve diplomasına 'Menşur' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hilat: Giydirilen hükümdarlık cübbesidir.<br>• Çetr: Saltanat şemsiyesidir.<br>• Nevbet: Askeri bando/davuldur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hükümdarlık Alametleri: Menşur (Onay fermanı) - Hilat (Tören elbisesi) - Hutbe - Sikke (Para) - Çetr (Şemsiye) - Nevbet (Bando)."
+  },
+  {
+    "id": "tarih14_5_q9",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 9,
+    "questionText": "Tımarlı sipahilerle ilgili aşağıdaki \nifadelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Padişahın çağrısıyla sefere katılırlardı."
+      },
+      {
+        "key": "B",
+        "text": "Tasarruf ettikleri bölgenin vergilerini toplarlardı."
+      },
+      {
+        "key": "C",
+        "text": "Dirlik tasarruf ederlerdi."
+      },
+      {
+        "key": "D",
+        "text": "Piyade askerlerden oluşurlardı."
+      },
+      {
+        "key": "E",
+        "text": "Eyalet ordusunun unsurlarıydılar."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Piyade askerlerden oluşurlardı.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tımarlı sipahiler doğrudan devlet hazinesinden maaş (ulufe) almazlar; maaşlarını kendilerine tahsis edilen dirlik bölgesindeki halktan topladıkları şer'i ve örfi vergilerle karşılarlar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ulufe alanlar merkez Kapıkulu ordusudur (Yeniçeriler vb.).<br>• Tımarlı sipahi taşra ordusudur ve Türk asıllıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kapıkulu = Maaşlı (Ulufe), Merkezde, Devşirme. Tımarlı Sipahi = Toprak gelirli, Taşrada, Türk."
+  },
+  {
+    "id": "tarih14_5_q10",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 10,
+    "questionText": "Gazneliler döneminde yaşayan ve Tahkiku \nma li'l-Hind adlı eseri yazan bilgin kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İbn Sina"
+      },
+      {
+        "key": "B",
+        "text": "Gazali"
+      },
+      {
+        "key": "C",
+        "text": "Harezmi"
+      },
+      {
+        "key": "D",
+        "text": "Farabi"
+      },
+      {
+        "key": "E",
+        "text": "Biruni"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Biruni)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Gazneli Mahmut'un sarayında yaşayan, Gazneli Mahmut'un kendisi için 'Sarayımın en değerli hazinesi' dediği ve Hindistan tarihi, coğrafyası ve dinlerini 'Tahkîku Mâ li'l-Hind' adlı eserinde anlatan dahi bilgin Bîrûnî'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İbni Sina El-Kanun fi't-Tıbb yazarıdır.<br>• Farabi İhsaü'l-Ulum yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bîrûnî = 'Sarayımın en değerli hazinesi' (Gazneli Mahmut) + Tahkiku Mâ li'l-Hind + El-Asarü'l-Bakiye."
+  },
+  {
+    "id": "tarih14_5_q11",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 11,
+    "questionText": "Türkiye Selçuklularında sultan başkentten \nayrıldığında ona vekâlet eden görevli kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Emir-i Dad"
+      },
+      {
+        "key": "B",
+        "text": "Müstevfi"
+      },
+      {
+        "key": "C",
+        "text": "Müşrif"
+      },
+      {
+        "key": "D",
+        "text": "Naib-i saltanat"
+      },
+      {
+        "key": "E",
+        "text": "Emirü'l-Ümera"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Naib-i saltanat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye Selçuklu Devleti'nde sultan başkentten veya seferden ayrıldığında hükümdara vekâlet eden, devlet işlerini yürüten ve Niyabet-i Saltanat divanına başkanlık eden görevliye 'Nâib-i Saltanat' denirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Müstevfi: Maliye divanı (İstifa) başkanıdır.<br>• Müşrif: İdari denetim (İşraf) başkanıdır.<br>• Emir-i Dad: Adalet divanı başkanıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hükümdar vekili = Nâib-i Saltanat (Niyabet-i Saltanat Divanı)."
+  },
+  {
+    "id": "tarih14_5_q12",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 12,
+    "questionText": "Yüce kapı anlamıyla hükûmet karşılığında \nkullanılan kavram hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Matbah-ı Amire"
+      },
+      {
+        "key": "B",
+        "text": "Divanhane"
+      },
+      {
+        "key": "C",
+        "text": "Bab-ı Hümayun"
+      },
+      {
+        "key": "D",
+        "text": "Has Oda"
+      },
+      {
+        "key": "E",
+        "text": "Bab-ı Ali"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Bab-ı Ali)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nde XIX. yüzyıldan itibaren sadrazam konağı ve başbakanlık/hükûmet binası anlamında kullanılan ve kelime anlamı 'Yüce Kapı' olan kavram 'Bâb-ı Âlî'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bab-ı Hümayun Topkapı Sarayı'nın dış anıtsal giriş kapısıdır.<br>• Matbah-ı Amire saray mutfağıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bâb-ı Âlî = Yüce Kapı / Hükûmet Konağı (Sadrazamlık makamı)."
+  },
+  {
+    "id": "tarih14_5_q13",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 13,
+    "questionText": "Devşirme kökenli çocukların saray \nhizmetine hazırlanmak üzere eğitim gördükleri \nkurum hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Defterhane"
+      },
+      {
+        "key": "B",
+        "text": "Menzilhane"
+      },
+      {
+        "key": "C",
+        "text": "Enderun"
+      },
+      {
+        "key": "D",
+        "text": "Bedesten"
+      },
+      {
+        "key": "E",
+        "text": "Ruus Kalemi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C (Enderun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hristiyan tebaadan devşirilen çocukların Türk-Müslüman ailelerin yanında Türkçeyi ve İslamiyet'i öğrendikten sonra saray hizmetine, devlet adamlığına ve idari kadrolara hazırlanmak üzere eğitildikleri iç saray mektebi 'Enderun'dur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Defterhane mali arşivdir.<br>• Menzilhane posta durağıdır.<br>• Bedesten kapalı çarşıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray Mektebi = Enderun (II. Murat Edirne'de kurmuş, Fatih Topkapı Sarayı'nda teşkilatlandırmıştır)."
+  },
+  {
+    "id": "tarih14_5_q14",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 14,
+    "questionText": "Aşağıdaki eğitim kurumlarından hangisi \nTanzimat döneminde açılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mekteb-i Mülkiye"
+      },
+      {
+        "key": "B",
+        "text": "Mekteb-i Harbiye"
+      },
+      {
+        "key": "C",
+        "text": "Tıbhane-i Amire"
+      },
+      {
+        "key": "D",
+        "text": "Mühendishane-i Berrî-i Hümâyun"
+      },
+      {
+        "key": "E",
+        "text": "Mühendishane-i Bahrî-i Hümâyun"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A (Mekteb-i Mülkiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1859 yılında Sultan Abdülmecit döneminde mülki idare amiri (kaymakam, vali, müfettiş) yetiştirmek üzere kurulan modern yüksekokul 'Mekteb-i Mülkiye'dir (bugünkü Ankara SBF).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mekteb-i Harbiye 1834 (II. Mahmut);<br>• Tıbhane 1827 (II. Mahmut) dönemidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tanzimat Dönemi sivil idareci okulu = Mekteb-i Mülkiye (1859)."
+  },
+  {
+    "id": "tarih14_5_q15",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 15,
+    "questionText": "II. Meşrutiyet döneminde Batıcılık \ndüşüncesiyle öne çıkan süreli yayın \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mizan"
+      },
+      {
+        "key": "B",
+        "text": "Volkan"
+      },
+      {
+        "key": "C",
+        "text": "Meşveret"
+      },
+      {
+        "key": "D",
+        "text": "İçtihat"
+      },
+      {
+        "key": "E",
+        "text": "Mahfil"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (İçtihat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>II. Meşrutiyet döneminde Abdullah Cevdet ve Celal Nuri'nin başını çektiği, 'İçtihad' dergisi etrafında toplanan ve Batı medeniyetinin bilim, teknik ve kurumlarıyla eksiksiz alınmasını savunan fikir akımı 'Batıcılık'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İslamcılık Sırat-ı Müstakim;<br>• Türkçülük Türk Yurdu etrafında örgütlenmiştir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İçtihad Dergisi + Abdullah Cevdet = Batıcılık Akımı."
+  },
+  {
+    "id": "tarih14_5_q16",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 16,
+    "questionText": "Medreseyi bitiren müderris adaylarının \nisimleri hangi deftere kaydedilirdi?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Temettuat"
+      },
+      {
+        "key": "B",
+        "text": "Ruzname"
+      },
+      {
+        "key": "C",
+        "text": "Mühimme"
+      },
+      {
+        "key": "D",
+        "text": "Tahrir"
+      },
+      {
+        "key": "E",
+        "text": "Avarız"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Ruzname)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı medreselerinden mezun olup icazet alan danişmentlerin, müderrislik veya kadılık kadrosu açılana kadar kıdem sırasına göre bekleme ve stajyerlik yaptıkları sisteme 'Mülâzemet' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İntisap bağlanmadır.<br>• Cülus tahta çıkmadır.<br>• Esame yeniçeri maaş cüzdanıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Müderris veya kadı adaylarının nöbet ve sıra bekleme sistemi = Mülâzemet."
+  },
+  {
+    "id": "tarih14_5_q17",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 17,
+    "questionText": "1859'da İstanbul'da açılan ilk kız \nrüştiyesinin adı hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Darülmaarif"
+      },
+      {
+        "key": "B",
+        "text": "İnas Darülfünunu"
+      },
+      {
+        "key": "C",
+        "text": "Darülmuallimin"
+      },
+      {
+        "key": "D",
+        "text": "Galatasaray Mekteb-i Sultanisi"
+      },
+      {
+        "key": "E",
+        "text": "Cevri Kalfa İnas Rüştiyesi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E (Cevri Kalfa İnas Rüştiyesi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nde kız çocuklarının ilkokul (sıbyan) sonrasında ortaöğretime devam edebilmeleri için ilk kız rüştiyesi 1859 yılında Sultan Abdülmecit döneminde İstanbul Sultanahmet'te (Cevri Kalfa Rüştiyesi) açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İnas İdadisi lise seviyesindedir.<br>• Dârülmuallimât öğretmen okuludur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Kız Rüştiyesi = 1859 (Cevri Kalfa İnas Rüştiyesi - Abdülmecit dönemi)."
+  },
+  {
+    "id": "tarih14_5_q18",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 18,
+    "questionText": "1889'da sivil veteriner hekim yetiştirmek \namacıyla açılan kurum hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hamidiye Ticaret Mektebi"
+      },
+      {
+        "key": "B",
+        "text": "Mülkiye Baytar Mektebi"
+      },
+      {
+        "key": "C",
+        "text": "Darülelhan"
+      },
+      {
+        "key": "D",
+        "text": "Darülbedayi"
+      },
+      {
+        "key": "E",
+        "text": "Mekteb-i Hukuk-ı Şahane"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Mülkiye Baytar Mektebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1889 yılında II. Abdülhamit döneminde ordunun ve taşranın hayvan sağlığı ve salgın hastalıklarla mücadelesi için sivil veteriner yetiştirmek amacıyla açılan okul 'Mülkiye Baytar Mektebi'dir (Mehmet Akif Ersoy bu okulun ilk mezunlarındandır ve birincilikle bitirmiştir).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ziraat Mektebi tarım okuludur.<br>• Lisan Mektebi dil okuludur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mülkiye Baytar Mektebi-i Âlisi (1889) ➔ Mehmet Akif Ersoy bu okulun ilk mezunudur."
+  },
+  {
+    "id": "tarih14_5_q19",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 19,
+    "questionText": "Osmanlı'nın ilk vakanüvisi kabul edilen \nkişi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yanyalı Esad Efendi"
+      },
+      {
+        "key": "B",
+        "text": "Ahmet Cevdet Paşa"
+      },
+      {
+        "key": "C",
+        "text": "Piri Reis"
+      },
+      {
+        "key": "D",
+        "text": "Mustafa Naima Efendi"
+      },
+      {
+        "key": "E",
+        "text": "Abdurrahman Şeref Bey"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D (Mustafa Naima Efendi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nde devletin resmi tarih yazıcılığına 'Vakanüvislik' denir ve Osmanlı'nın ilk resmi vakanüvisi XVII. yüzyıl sonu / XVIII. yüzyıl başı tarihçisi Mustafa Nâimâ Efendi'dir (Tarih-i Nâimâ).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ahmet Cevdet Paşa XIX. yüzyıl vakanüvisidir.<br>• Hoca Sadettin Efendi Şehnamecidir.<br>• Katip Çelebi bibliyograftır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Resmi Vakanüvis = Nâimâ Efendi. Son Resmi Vakanüvis = Abdurrahman Şeref Efendi."
+  },
+  {
+    "id": "tarih14_5_q20",
+    "testId": "tarih14_5",
+    "testTitle": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "topicId": "tarih_osmanli_kultur_3",
+    "topicName": "Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Taşra Teşkilatı, Vakıf & Yönetim)",
+    "category": "Genel Kültür - Tarih",
+    "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
+    "icon": "🏛️",
+    "questionNumber": 20,
+    "questionText": "Konukevi işleviyle tanıtılan mimari yapı \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bedesten"
+      },
+      {
+        "key": "B",
+        "text": "Tabhane"
+      },
+      {
+        "key": "C",
+        "text": "Türbe"
+      },
+      {
+        "key": "D",
+        "text": "Şifahane"
+      },
+      {
+        "key": "E",
+        "text": "Arasta"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B (Tabhane)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı külliyelerinde şehre dışarıdan gelen yolcuların, tüccarların, seyyahların ve dervişlerin 3 gün boyunca ücretsiz konaklayıp barınabildikleri misafirhaneye 'Tabhâne' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten kapalı çarşıdır.<br>• Türbe mezardır.<br>• Şifahane hastanedir.<br>• Arasta tek tip dükkânlar sırasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tabhane = Külliyenin misafirhanesi / konukevi (Yolcu ve misafirler 3 gün ücretsiz ağırlanırdı)."
   }
 ];

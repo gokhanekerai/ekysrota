@@ -615,7 +615,46 @@ class EKYSApp {
             badge: '20 Soru Video Test'
           },
           {
-            id: 'ekys_2026_tarih_card',
+            id: 'tarih14_1_direct',
+            name: '🏛️ Genel Tarih Test 14.1 (Gökhan Hoca: Klasik Eğitim & Saray)',
+            icon: '🏛️',
+            desc: 'Klasik Eğitim, Medreseler, Enderun, Sıbyan Mektebi, Harem ve Askerî Eğitim (20 Soru).',
+            filterKey: 'tarih14_1',
+            badge: '20 Soru • Gökhan Hoca'
+          },
+          {
+            id: 'tarih14_2_direct',
+            name: '📜 Genel Tarih Test 14.2 (Gökhan Hoca: Yenileşme & Bilim)',
+            icon: '📜',
+            desc: 'Tanzimat Okulları, Darüşşafaka, Sanayi-i Nefise, Sabuncuoğlu, Altuncuzade ve Akşemsettin (20 Soru).',
+            filterKey: 'tarih14_2',
+            badge: '20 Soru • Gökhan Hoca'
+          },
+          {
+            id: 'tarih14_3_direct',
+            name: '🎨 Genel Tarih Test 14.3 (Gökhan Hoca: Bilim & Geleneksel Sanatlar)',
+            icon: '🎨',
+            desc: 'Hezarfen, Lagari, Kâtip Çelebi, Hat, Tezhip, Minyatür, Ebru ve Kitap Sanatları (20 Soru).',
+            filterKey: 'tarih14_3',
+            badge: '20 Soru • Gökhan Hoca'
+          },
+          {
+            id: 'tarih14_4_direct',
+            name: '🕌 Genel Tarih Test 14.4 (Gökhan Hoca: Mimari & Saraylar)',
+            icon: '🕌',
+            desc: 'Erken/Klasik/Geç Mimari, Mimar Sinan Eserleri, Saraylar, Camiler ve Külliyeler (20 Soru).',
+            filterKey: 'tarih14_4',
+            badge: '20 Soru • Gökhan Hoca'
+          },
+          {
+            id: 'tarih14_5_direct',
+            name: '⚖️ Genel Tarih Test 14.5 (Gökhan Hoca: Hukuk, Vakıf & Yönetim)',
+            icon: '⚖️',
+            desc: 'Kadılık Teşkilatı, Mahkemeler, Divan Üyeleri, Vakıf Sistemi ve Bâb-ı Âlî Teşkilatı (20 Soru).',
+            filterKey: 'tarih14_5',
+            badge: '20 Soru • Gökhan Hoca'
+          },
+          {            id: 'ekys_2026_tarih_card',
             name: '📜 2026 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
             desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
@@ -3190,6 +3229,12 @@ class EKYSApp {
       if (filterKey === 'tarih11' || filterKey === 'tarih_osmanli_1') return (q.testId === 'tarih11' || tId === 'tarih_osmanli_1' || tName.includes('tarih 11'));
       if (filterKey === 'tarih12' || filterKey === 'tarih_osmanli_2') return (q.testId === 'tarih12' || tId === 'tarih_osmanli_2' || tName.includes('tarih 12'));
       if (filterKey === 'tarih13' || filterKey === 'tarih_osmanli_3') return (q.testId === 'tarih13' || tId === 'tarih_osmanli_3' || tName.includes('tarih 13'));
+      if (filterKey === 'tarih14_1') return (q.testId === 'tarih14_1');
+      if (filterKey === 'tarih14_2') return (q.testId === 'tarih14_2');
+      if (filterKey === 'tarih14_3') return (q.testId === 'tarih14_3');
+      if (filterKey === 'tarih14_4') return (q.testId === 'tarih14_4');
+      if (filterKey === 'tarih14_5') return (q.testId === 'tarih14_5');
+      if (filterKey === 'tarih14') return (q.testId && q.testId.startsWith('tarih14_'));
       if (filterKey === 'tarih_video4') return (q.testId === 'tarih4_2' || q.testId === 'tarih4_3' || q.testId === 'tarih_video4');
       if (filterKey === 'tarih_tarama') return (q.testId && (q.testId.startsWith('tarih') || q.testId.startsWith('tarih_video')));
 
