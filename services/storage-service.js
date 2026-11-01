@@ -298,17 +298,24 @@ class StorageService {
   addToWrongPool(question, userAnswer) {
     const pool = this.getWrongPool();
     const existing = pool.find(item => item.id === question.id);
+    const nowIso = new Date().toISOString();
 
     if (existing) {
       existing.wrongCount = (existing.wrongCount || 1) + 1;
-      existing.lastWrongDate = new Date().toISOString();
+      existing.srsStage = 1; // Tekrar yanlış yapıldığında 1. Aşamaya (1. Gün) sıfırlanır
+      existing.isCritical = existing.wrongCount >= 2;
+      existing.lastWrongDate = nowIso;
+      existing.nextReviewDate = nowIso;
       existing.lastUserAnswer = userAnswer;
     } else {
       pool.push({
         ...question,
         wrongCount: 1,
-        addedDate: new Date().toISOString(),
-        lastWrongDate: new Date().toISOString(),
+        srsStage: 1,
+        isCritical: false,
+        addedDate: nowIso,
+        lastWrongDate: nowIso,
+        nextReviewDate: nowIso,
         lastUserAnswer: userAnswer
       });
     }
@@ -316,6 +323,38 @@ class StorageService {
     localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
     this.syncCloud();
     return pool;
+  }
+
+  advanceWrongPoolReview(questionId) {
+    let pool = this.getWrongPool();
+    const idx = pool.findIndex(item => item.id === questionId);
+    if (idx === -1) return { status: 'not_found' };
+
+    const item = pool[idx];
+    const currentStage = item.srsStage || 1;
+    const now = Date.now();
+
+    if (currentStage === 1) {
+      item.srsStage = 2;
+      item.lastReviewedDate = new Date(now).toISOString();
+      item.nextReviewDate = new Date(now + 7 * 24 * 60 * 60 * 1000).toISOString();
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
+      this.syncCloudImmediate();
+      return { status: 'advanced', stage: 2, days: 7 };
+    } else if (currentStage === 2) {
+      item.srsStage = 3;
+      item.lastReviewedDate = new Date(now).toISOString();
+      item.nextReviewDate = new Date(now + 30 * 24 * 60 * 60 * 1000).toISOString();
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
+      this.syncCloudImmediate();
+      return { status: 'advanced', stage: 3, days: 30 };
+    } else {
+      // 3. Aşamayı da doğru tamamladı -> Mezun oldu!
+      pool.splice(idx, 1);
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
+      this.syncCloudImmediate();
+      return { status: 'graduated', stage: 4, days: 0 };
+    }
   }
 
   removeFromWrongPool(questionId) {
@@ -599,12 +638,25 @@ class StorageService {
       }
     }
 
-    // 2. Yanlış Havuzunu Senkronize Et (Her zaman birleştir, yereldeki yanlışlar ASLA silinmez)
+    // 2. Yanlış Havuzunu Senkronize Et (Her zaman birleştir, en güncel tekrar aşamasını koru)
     if (Array.isArray(data.wrongPool)) {
       const localWrong = this.getWrongPool();
       const map = new Map();
       localWrong.forEach(q => { if (q && q.id) map.set(q.id, q); });
-      data.wrongPool.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      data.wrongPool.forEach(q => {
+        if (q && q.id) {
+          const existing = map.get(q.id);
+          if (!existing) {
+            map.set(q.id, q);
+          } else {
+            const tLocal = new Date(existing.lastReviewedDate || existing.lastWrongDate || existing.addedDate || 0).getTime();
+            const tCloud = new Date(q.lastReviewedDate || q.lastWrongDate || q.addedDate || 0).getTime();
+            if (tCloud >= tLocal) {
+              map.set(q.id, { ...existing, ...q });
+            }
+          }
+        }
+      });
       localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
     }
 

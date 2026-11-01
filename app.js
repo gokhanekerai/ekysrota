@@ -3934,11 +3934,79 @@ class EKYSApp {
       return;
     }
 
+    // Kritik ve tekrar zamanı gelen soruları öne alarak başlat
+    const sortedPool = [...wrongPool].sort((a, b) => {
+      const wA = Number(a.wrongCount) || 1;
+      const wB = Number(b.wrongCount) || 1;
+      if (wB !== wA) return wB - wA;
+      return (a.srsStage || 1) - (b.srsStage || 1);
+    });
+
     this.activeQuiz = {
-      title: `🔁 Yanlış Defteri Tekrarı (${wrongPool.length} Soru)`,
+      title: `🔁 Yanlış Defteri Tekrarı (${sortedPool.length} Soru)`,
       topicId: 'wrong-pool',
       mode: 'practice',
-      questions: this.shuffleArray([...wrongPool]),
+      questions: sortedPool,
+      currentIndex: 0,
+      userAnswers: {},
+      struckOptions: {},
+      starred: {},
+      isFinished: false,
+      startTime: Date.now(),
+      elapsedSeconds: 0
+    };
+
+    this.navigateTo('quiz-active');
+    this.startQuizTimer();
+    this.renderCurrentQuestion();
+  }
+
+  startDueWrongPoolQuiz() {
+    const wrongPool = window.storageService.getWrongPool();
+    const now = Date.now();
+    const dueList = wrongPool.filter(q => {
+      if (!q.nextReviewDate) return true;
+      return new Date(q.nextReviewDate).getTime() <= now;
+    });
+
+    if (dueList.length === 0) {
+      this.showToast('Bugün tekrar zamanı gelen soru bulunmuyor! İsterseniz Tüm Yanlışlarımı Çöz butonunu kullanabilirsiniz.', 'info');
+      return;
+    }
+
+    this.activeQuiz = {
+      title: `⏰ Bugün Tekrar Zamanı Gelenler (${dueList.length} Soru)`,
+      topicId: 'wrong-pool',
+      mode: 'practice',
+      questions: dueList,
+      currentIndex: 0,
+      userAnswers: {},
+      struckOptions: {},
+      starred: {},
+      isFinished: false,
+      startTime: Date.now(),
+      elapsedSeconds: 0
+    };
+
+    this.navigateTo('quiz-active');
+    this.startQuizTimer();
+    this.renderCurrentQuestion();
+  }
+
+  startCriticalWrongPoolQuiz() {
+    const wrongPool = window.storageService.getWrongPool();
+    const criticalList = wrongPool.filter(q => (Number(q.wrongCount) || 1) >= 2);
+
+    if (criticalList.length === 0) {
+      this.showToast('2 veya daha fazla kez yanlış yapılan Kritik Soru bulunmuyor! Harika! 🎯', 'success');
+      return;
+    }
+
+    this.activeQuiz = {
+      title: `⚠️ Kritik Sorular Tekrarı (${criticalList.length} Soru)`,
+      topicId: 'wrong-pool',
+      mode: 'practice',
+      questions: criticalList,
       currentIndex: 0,
       userAnswers: {},
       struckOptions: {},
@@ -4162,13 +4230,21 @@ class EKYSApp {
     this.activeQuiz.userAnswers[curIdx] = key;
     const q = this.activeQuiz.questions[curIdx];
 
-    // Yanlış havuza otomatik ekle/çıkar
+    // Yanlış havuza otomatik ekle / 1-7-30 Gün Aralıklı Tekrar ilerletmesi
     if (key !== q.correctAnswer) {
       window.storageService.addToWrongPool(q, key);
-    } else {
-      // Eğer doğru bildiyse yanlış havuzundan kaldırılabilir
       if (this.activeQuiz.topicId === 'wrong-pool') {
-        window.storageService.removeFromWrongPool(q.id);
+        this.showToast('⚠️ Tekrar yanlış yapıldı! Soru 1. Aşamaya (Kritik Soru) sıfırlandı.', 'error');
+      }
+    } else {
+      // Eğer Yanlış Defteri tekrarında doğru bildiyse 1-7-30 gün basamağını ilerlet
+      if (this.activeQuiz.topicId === 'wrong-pool' && typeof window.storageService.advanceWrongPoolReview === 'function') {
+        const res = window.storageService.advanceWrongPoolReview(q.id);
+        if (res && res.status === 'advanced') {
+          this.showToast(`✅ Doğru! Soru ${res.stage}. Aşamaya (${res.days} Gün Sonra Tekrar) yükseldi.`, 'success');
+        } else if (res && res.status === 'graduated') {
+          this.showToast('🎓 Tebrikler! 3 tekrar aşamasını da tamamladınız; soru Yanlış Defterinden mezun oldu!', 'success');
+        }
       }
     }
 
@@ -4576,7 +4652,7 @@ class EKYSApp {
     });
   }
 
-  // --- YANLIŞ DEFTERİ (WRONG POOL) ---
+  // --- YANLIŞ DEFTERİ (WRONG POOL & 1-7-30 GÜN ARALIKLI TEKRAR) ---
   renderWrongPoolList() {
     const listEl = document.getElementById('wrong-pool-list');
     if (!listEl) return;
@@ -4591,19 +4667,118 @@ class EKYSApp {
       return;
     }
 
+    const now = Date.now();
+    let stage1Count = 0;
+    let stage2Count = 0;
+    let stage3Count = 0;
+    let dueCount = 0;
+    let criticalCount = 0;
+
+    pool.forEach(q => {
+      const stg = q.srsStage || 1;
+      if (stg === 1) stage1Count++;
+      else if (stg === 2) stage2Count++;
+      else stage3Count++;
+
+      const isDue = !q.nextReviewDate || new Date(q.nextReviewDate).getTime() <= now;
+      if (isDue) dueCount++;
+      if ((Number(q.wrongCount) || 1) >= 2) criticalCount++;
+    });
+
+    // Kritik soruları ve tekrar zamanı gelenleri en üste sırala
+    const sortedPool = [...pool].sort((a, b) => {
+      const wA = Number(a.wrongCount) || 1;
+      const wB = Number(b.wrongCount) || 1;
+      if (wB !== wA) return wB - wA;
+      const dA = a.nextReviewDate ? new Date(a.nextReviewDate).getTime() : 0;
+      const dB = b.nextReviewDate ? new Date(b.nextReviewDate).getTime() : 0;
+      return dA - dB;
+    });
+
     listEl.innerHTML = `
-      <div class="grid-cards">
-        ${pool.map(q => `
-          <div class="card">
-            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-              <span class="badge" style="background: rgba(239, 68, 68, 0.2); color: #f87171;">❌ ${q.wrongCount || 1} Kez Yanlış</span>
-              <button class="btn btn-secondary btn-sm" onclick="app.removeWrongItem('${q.id}')">Sil</button>
-            </div>
-            ${q.hasImage ? `<img src="${q.image}" style="max-width: 100%; max-height: 120px; object-fit: contain; margin-bottom: 8px; border-radius: 6px;">` : ''}
-            <div style="font-size: 0.9rem; font-weight: 600; margin-bottom: 8px;">${q.questionText || q.question}</div>
-            <div style="font-size: 0.8rem; color: #34d399;">Doğru Cevap: ${q.correctAnswer}</div>
+      <!-- 1 - 7 - 30 GÜN ARALIKLI TEKRAR PANELİ -->
+      <div class="card" style="margin-bottom: 20px; border: 1px solid rgba(99, 102, 241, 0.35); background: linear-gradient(145deg, rgba(30, 41, 59, 0.9), rgba(15, 23, 42, 0.95));">
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 14px;">
+          <div>
+            <h3 style="font-size: 1.05rem; font-weight: 800; color: #f8fafc; margin: 0 0 4px 0; display: flex; align-items: center; gap: 8px;">
+              <span>🧠</span> 1 - 7 - 30 Gün Aralıklı Tekrar Sistemi (Spaced Repetition)
+            </h3>
+            <p style="font-size: 0.8rem; color: #94a3b8; margin: 0;">
+              Sorular 3 aşamada üst üste doğru çözüldüğünde kalıcı hafızaya geçer ve mezun olur. Tekrar yanlış yapılırsa 1. Aşamaya (Kritik Soru) döner.
+            </p>
           </div>
-        `).join('')}
+          <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+            <button class="btn btn-primary btn-sm" onclick="app.startDueWrongPoolQuiz()" style="background: linear-gradient(135deg, #10b981, #059669); border: none; font-weight: 700;">
+              ⏰ Bugün Tekrar Zamanı Gelenleri Çöz (${dueCount})
+            </button>
+            ${criticalCount > 0 ? `
+              <button class="btn btn-danger btn-sm" onclick="app.startCriticalWrongPoolQuiz()" style="font-weight: 700;">
+                ⚠️ Kritik Soruları Çöz (${criticalCount})
+              </button>
+            ` : ''}
+          </div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px;">
+          <div style="padding: 10px 12px; border-radius: 10px; background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.25);">
+            <div style="font-size: 0.75rem; color: #fca5a5; font-weight: 700;">🔁 1. Aşama (1. Gün Tekrarı)</div>
+            <div style="font-size: 1.25rem; font-weight: 800; color: #f87171; margin-top: 2px;">${stage1Count} Soru</div>
+          </div>
+          <div style="padding: 10px 12px; border-radius: 10px; background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.25);">
+            <div style="font-size: 0.75rem; color: #fde68a; font-weight: 700;">📅 2. Aşama (7. Gün Tekrarı)</div>
+            <div style="font-size: 1.25rem; font-weight: 800; color: #fbbf24; margin-top: 2px;">${stage2Count} Soru</div>
+          </div>
+          <div style="padding: 10px 12px; border-radius: 10px; background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.25);">
+            <div style="font-size: 0.75rem; color: #a7f3d0; font-weight: 700;">🏆 3. Aşama (30. Gün Son Tekrar)</div>
+            <div style="font-size: 1.25rem; font-weight: 800; color: #34d399; margin-top: 2px;">${stage3Count} Soru</div>
+          </div>
+          <div style="padding: 10px 12px; border-radius: 10px; background: rgba(168, 85, 247, 0.1); border: 1px solid rgba(168, 85, 247, 0.25);">
+            <div style="font-size: 0.75rem; color: #e9d5ff; font-weight: 700;">⚠️ Kritik Soru (2+ Kez Yanlış)</div>
+            <div style="font-size: 1.25rem; font-weight: 800; color: #c084fc; margin-top: 2px;">${criticalCount} Soru</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid-cards">
+        ${sortedPool.map(q => {
+          const wCount = Number(q.wrongCount) || 1;
+          const isCrit = wCount >= 2;
+          const stg = q.srsStage || 1;
+          const nextTime = q.nextReviewDate ? new Date(q.nextReviewDate).getTime() : 0;
+          const isDue = !nextTime || nextTime <= now;
+          const daysLeft = isDue ? 0 : Math.max(1, Math.ceil((nextTime - now) / (1000 * 60 * 60 * 24)));
+
+          const stageBadge = stg === 1
+            ? `<span class="badge" style="background: rgba(56, 189, 248, 0.15); color: #38bdf8; font-size: 0.72rem;">🔁 Aşama 1/3 (1. Gün)</span>`
+            : (stg === 2
+              ? `<span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fbbf24; font-size: 0.72rem;">📅 Aşama 2/3 (7. Gün)</span>`
+              : `<span class="badge" style="background: rgba(16, 185, 129, 0.2); color: #34d399; font-size: 0.72rem;">🏆 Aşama 3/3 (30. Gün)</span>`);
+
+          const dueBadge = isDue
+            ? `<span class="badge" style="background: rgba(16, 185, 129, 0.18); color: #6ee7b7; font-size: 0.7rem;">⏰ Tekrar Zamanı Geldi</span>`
+            : `<span class="badge" style="background: rgba(148, 163, 184, 0.15); color: #cbd5e1; font-size: 0.7rem;">⏳ ${daysLeft} gün sonra tekrar</span>`;
+
+          return `
+            <div class="card" style="${isCrit ? 'border: 1px solid rgba(239, 68, 68, 0.5); box-shadow: 0 0 14px rgba(239, 68, 68, 0.12);' : ''}">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 6px; flex-wrap: wrap; margin-bottom: 10px;">
+                <div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
+                  <span class="badge" style="background: ${isCrit ? 'rgba(239, 68, 68, 0.28)' : 'rgba(239, 68, 68, 0.18)'}; color: #f87171; font-weight: 700;">
+                    ${isCrit ? `⚠️ ${wCount} Kez Yanlış - Kritik Soru` : `❌ 1 Kez Yanlış`}
+                  </span>
+                  ${stageBadge}
+                  ${dueBadge}
+                </div>
+                <button class="btn btn-secondary btn-sm" onclick="app.removeWrongItem('${q.id}')" title="Yanlış Defterinden Kaldır">🗑️ Sil</button>
+              </div>
+              ${q.hasImage ? `<img src="${q.image}" style="max-width: 100%; max-height: 120px; object-fit: contain; margin-bottom: 8px; border-radius: 6px;">` : ''}
+              <div style="font-size: 0.9rem; font-weight: 600; margin-bottom: 8px; white-space: pre-line;">${q.questionText || q.question}</div>
+              <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(255,255,255,0.06);">
+                <span style="font-size: 0.8rem; font-weight: 700; color: #34d399;">✅ Doğru Cevap: ${q.correctAnswer}</span>
+                <span style="font-size: 0.75rem; color: var(--text-secondary);">${q.topicName || q.testTitle || q.category || ''}</span>
+              </div>
+            </div>
+          `;
+        }).join('')}
       </div>
     `;
   }
@@ -4955,6 +5130,9 @@ class EKYSApp {
       }).join('');
     }
 
+    // 4.5. 95+ Puan Hedef Barometresi & Zayıf Konu Radarı (4. Adım)
+    this.renderWeakTopicsAndTargetRadar(history, metrics);
+
     // 5. Çözülen Tüm Sınavlar Geçmiş Tablosu ve Tarih Filtresi
     this.renderStatsHistorySection(history);
 
@@ -4964,6 +5142,108 @@ class EKYSApp {
     } catch (err) {
       console.warn('Grafik oluşturma hatası:', err);
     }
+  }
+
+  renderWeakTopicsAndTargetRadar(history, metrics) {
+    const container = document.getElementById('stats-weak-radar-container');
+    if (!container) return;
+
+    const wrongPool = window.storageService ? window.storageService.getWrongPool() : [];
+    const overallAcc = metrics && typeof metrics.overallAccuracy === 'number' ? metrics.overallAccuracy : 0;
+    const estCorrect80 = Math.round((overallAcc / 100) * 80);
+    const estScore100 = (estCorrect80 * 1.25).toFixed(2);
+    const diffTo76 = Math.max(0, 76 - estCorrect80);
+
+    // En çok yanlış yapılan konuları hem sınav geçmişinden hem yanlış defterinden hesapla
+    const topicStats = new Map();
+    (history || []).forEach(h => {
+      if (!h || h.topicId === 'wrong-pool') return;
+      const name = h.title || h.topicId || 'Genel Test';
+      const cur = topicStats.get(name) || { name, correct: 0, wrong: 0, total: 0 };
+      cur.correct += Number(h.correctCount) || 0;
+      cur.wrong += Number(h.wrongCount) || 0;
+      cur.total += (Number(h.correctCount) || 0) + (Number(h.wrongCount) || 0);
+      topicStats.set(name, cur);
+    });
+
+    wrongPool.forEach(q => {
+      const name = q.testTitle || q.topicName || q.category || 'Diğer Konular';
+      if (!topicStats.has(name)) {
+        topicStats.set(name, { name, correct: 0, wrong: Number(q.wrongCount) || 1, total: Number(q.wrongCount) || 1 });
+      }
+    });
+
+    const weakTopics = Array.from(topicStats.values())
+      .filter(t => t.wrong > 0)
+      .map(t => ({
+        ...t,
+        accuracy: t.total > 0 ? Math.round((t.correct / t.total) * 100) : 0
+      }))
+      .sort((a, b) => b.wrong - a.wrong || a.accuracy - b.accuracy)
+      .slice(0, 5);
+
+    const statusColor = estCorrect80 >= 76 ? '#10b981' : (estCorrect80 >= 68 ? '#f59e0b' : '#f87171');
+    const statusText = estCorrect80 >= 76
+      ? '🏆 95+ Puan (76/80 Doğru) Hedef Bandındasınız! Formunuzu koruyun.'
+      : `🎯 95+ Puan (76/80 Doğru) hedefine ulaşmak için 80 soruluk sınavda +${diffTo76} doğru daha gerekiyor.`;
+
+    container.innerHTML = `
+      <div class="card" style="border: 1px solid rgba(245, 158, 11, 0.35); background: linear-gradient(145deg, rgba(30, 41, 59, 0.92), rgba(15, 23, 42, 0.96));">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 14px; margin-bottom: 16px; padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.08);">
+          <div>
+            <h3 style="font-size: 1.1rem; font-weight: 800; color: #f8fafc; margin: 0 0 4px 0; display: flex; align-items: center; gap: 8px;">
+              <span>🎯</span> 95+ Puan Hedef Barometresi &amp; Zayıf Konu Radarı
+            </h3>
+            <p style="font-size: 0.82rem; color: #cbd5e1; margin: 0;">${statusText}</p>
+          </div>
+          <div style="display: flex; gap: 12px; align-items: center; background: rgba(15, 23, 42, 0.75); padding: 8px 14px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);">
+            <div style="text-align: center;">
+              <div style="font-size: 0.7rem; color: #94a3b8; font-weight: 700;">80 Soruluk Simülasyon</div>
+              <div style="font-size: 1.15rem; font-weight: 800; color: ${statusColor};">${estCorrect80} / 80 Doğru</div>
+            </div>
+            <div style="width: 1px; height: 28px; background: rgba(255,255,255,0.1);"></div>
+            <div style="text-align: center;">
+              <div style="font-size: 0.7rem; color: #94a3b8; font-weight: 700;">Tahmini EKYS Puanı</div>
+              <div style="font-size: 1.15rem; font-weight: 800; color: #fbbf24;">${estScore100} Puan</div>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; flex-wrap: wrap; gap: 8px;">
+            <div style="font-size: 0.9rem; font-weight: 700; color: #fca5a5;">
+              🔍 En Çok Yanlış Yapılan / Öncelikli Tekrar Edilmesi Gereken 5 Alan
+            </div>
+            ${wrongPool.length > 0 ? `
+              <button class="btn btn-danger btn-sm" onclick="app.navigateTo('wrong-pool')" style="font-size: 0.78rem; font-weight: 700;">
+                🔁 Yanlış Defterine Git (${wrongPool.length} Soru)
+              </button>
+            ` : ''}
+          </div>
+
+          ${weakTopics.length === 0 ? `
+            <div style="padding: 14px; border-radius: 10px; background: rgba(16, 185, 129, 0.08); border: 1px solid rgba(16, 185, 129, 0.25); color: #6ee7b7; font-size: 0.85rem;">
+              🎉 Şu an yanlış yapılan zayıf bir konu tespit edilmedi. Test çözdükçe bu radar otomatik güncellenir.
+            </div>
+          ` : `
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px;">
+              ${weakTopics.map((wt, i) => `
+                <div style="padding: 10px 12px; border-radius: 10px; background: rgba(15, 23, 42, 0.7); border: 1px solid rgba(239, 68, 68, 0.25); display: flex; flex-direction: column; justify-content: space-between;">
+                  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 6px; margin-bottom: 6px;">
+                    <span style="font-size: 0.82rem; font-weight: 700; color: #f1f5f9;">${i + 1}. ${wt.name}</span>
+                    <span class="badge" style="background: rgba(239, 68, 68, 0.2); color: #f87171; font-size: 0.7rem; white-space: nowrap;">❌ ${wt.wrong} Yanlış</span>
+                  </div>
+                  <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75rem; color: #94a3b8;">
+                    <span>Doğru: <strong style="color: #34d399;">${wt.correct}</strong></span>
+                    <span>Başarı: <strong style="color: #fbbf24;">%${wt.accuracy}</strong></span>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          `}
+        </div>
+      </div>
+    `;
   }
 
   getCardTotalPool(cardId) {
