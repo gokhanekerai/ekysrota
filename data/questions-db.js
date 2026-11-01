@@ -82380,7 +82380,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Lagari Hasan Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1633 yılında IV. Murat'ın kızının doğum şenliklerinde barut macunundan yaptığı 7 kollu roketle Sarayburnu'ndan gökyüzüne fırlatılan ve paraşüt benzeri kanatlarla denize inen kişi Lagari Hasan Çelebi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hezarfen kanatla süzülmüştür.<br>• Piri Reis denizcidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk roketli insan uçuş denemesi = Lagari Hasan Çelebi (1633, IV. Murat dönemi)."
+    "explanation": "Doğru Cevap: <strong>B (Lagari Hasan Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Lagari Hasan Çelebi, IV. Murat döneminde (1633) kendi tasarladığı barutlu roketin içine girip ateşleyerek yerden yaklaşık 300 metre yükseğe çıkmayı başarmıştır. Hocanın anlatımıyla insanlık tarihinde ilk kez roketle uçan kişidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hezarfen Ahmet Çelebi: Kanat takarak Galata Kulesi'nden Üsküdar'a süzülen ilk Türk havacısıdır.<br>• Takiyüddin Mehmet: İstanbul Tophane'de ilk Osmanlı rasathanesini kuran astronomdur.<br>• Ali Kuşçu: Fatih dönemi Ayasofya müderrisi ve matematik-astronomi bilginidir.<br>• Piri Reis: Kitab-ı Bahriye yazarı ünlü denizci ve haritacıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Roketle dikey yükselen = Lagari Hasan Çelebi | Kanatla Galata'dan Üsküdar'a uçan = Hezarfen Ahmet Çelebi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q2",
@@ -82418,7 +82418,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (IV. Murat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hem Hezarfen Ahmet Çelebi'nin Galata'dan uçuşu hem de Lagari Hasan Çelebi'nin roket denemesi XVII. yüzyılda Sultan IV. Murat döneminde gerçekleşmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• II. Mehmet (Fatih) XV. yy;<br>• III. Selim XVIII. yy sonudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hezarfen ve Lagari = Sultan IV. Murat dönemi (Bağdat Fatihi)."
+    "explanation": "Doğru Cevap: <strong>E (IV. Murat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hem Hezarfen Ahmet Çelebi'nin Galata Kulesi'nden Üsküdar'a uçuşu hem de Lagari Hasan Çelebi'nin roketle yükselme denemesi XVII. yüzyılda Sultan IV. Murat döneminde gerçekleşmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• II. Mehmet (Fatih): Ali Kuşçu, Akşemsettin ve Sabuncuoğlu Şerafettin dönemidir.<br>• I. Abdülhamit: Mühendishane-i Bahrî-i Hümâyun dönemidir.<br>• III. Selim: Nizam-ı Cedid ve Mühendishane-i Berrî-i Hümâyun dönemidir.<br>• II. Abdülhamit: Sanayi-i Nefise Mektebi ve Mülkiye Baytar Mektebi dönemidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hezarfen + Lagari = IV. Murat dönemi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q3",
@@ -82456,7 +82456,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Sırça)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı sanatında ve mimarisinde cam işleme ve cam sanatına 'Sırça' adı verilir. Cam işi yapan zanaatkâra ise 'Câmger' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İcazet: Diplomadır.<br>• Hendese: Geometridir.<br>• Menzil: Posta/ulaşım durağıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Cam Sanatı = Sırça (Örn: Konya Sırçalı Medrese). Çeşm-i Bülbül ise Beykoz cam sanatının zirvesidir."
+    "explanation": "Doğru Cevap: <strong>B (Sırça)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı sanatında ve mimarisinde cam sanatının karşılığı olarak kullanılan terim 'Sırça'dır (renkli cam süsleme sanatı da ders notu slaytlarında vitray / cam sanatı olarak geçer).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İcazet: Medrese mezuniyet diploması veya loncada işyeri açma yeterlilik belgesidir.<br>• Hendese: Geometri ve mühendislik bilimidir.<br>• Menzil: Haberleşme ve konaklama teşkilatıdır.<br>• Mülazım: Medreseyi bitirip atama sırası bekleyen müderris adayıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Cam sanatı = Sırça / Vitray.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q4",
@@ -82494,7 +82494,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Oyma-kakma)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı'da Hat (hüsn-i hat), Tezhip, Ebru, Minyatür, Çinicilik, Ciltçilik, Ahşap oymacılığı (künüzkarî) ve Taş işlemeciliği başlıca klasik sanat dallarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mukataa: Geliri doğrudan hazineye giden iltizam toprağıdır (sanat değildir).<br>• Mülazım: Stajyer memur/müderristir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Geleneksel Türk-İslam Sanatları: Hat, Tezhip, Minyatür, Ebru, Cilt, Çini, Kakmacılık."
+    "explanation": "Doğru Cevap: <strong>B (Oyma-kakma)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 27) slaytında açıkça belirtildiği üzere; Hat, Tezhip, Minyatür ve Mücellitlik dışında 'ahşap işlemeciliği (oymacılık-kakmacılık)', maden işlemeciliği (telkari), malakari, vitray, çinicilik ve ebru başlıca sanat dallarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mukataa: Gelirleri doğrudan devlet hazinesine gitmek üzere ayrılmış miri topraklardır (4. Ders Notu s. 28).<br>• İltizam: Saliyaneli eyaletlerde vergi gelirlerinin açık artırmayla toplanması usulüdür.<br>• Devşirme: Kapıkulu ve Enderun için Hristiyan çocukların yetiştirilmesi sistemidir.<br>• Müsadere: Haksız kazanç veya devlet görevlisinin malına devletçe el konulmasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sanat dalları: Hat, Tezhip, Minyatür, Ebru, Cilt (Mücellitlik), Çinicilik, Oyma-Kakma (Ahşap), Telkari (Gümüş), Malakari (Duvar).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q5",
@@ -82532,7 +82532,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Hat, tezhip, ebru)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kitap sanatları; el yazması bir kitabın üretilmesinde yer alan Hat (yazı), Tezhip (altınla süsleme), Minyatür (tasvir), Ebru (kâğıt deseni) ve Ciltçilik sanatlarını kapsar. Fresk ise duvar resmidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Fresk yaş sıva üzerine yapılan duvar resmidir, kitap sanatı değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kitap Sanatları Beşlisi: Hat + Tezhip + Minyatür + Ebru + Cilt."
+    "explanation": "Doğru Cevap: <strong>A (Hat, tezhip, ebru)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hat (güzel yazı), Tezhip (altın tozu ve boyayla sayfa süsleme) ve Ebru (su üstünde kâğıt süsleme) doğrudan el yazması kitapların hazırlanması ve süslenmesiyle ilgili kitap sanatları üçlüsüdür.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hariciye, maliye, adliye: Tanzimat sonrası bakanlık (nezaret) alanlarıdır.<br>• Tımar, zeamet, has: Dirlik topraklarının gelirlerine göre bölümleridir (4. Ders Notu s. 28).<br>• Muid, mülazım, müderris: Medrese akademik kariyer basamaklarıdır.<br>• Cebelü, levent, sekban: Askerî birlik ve sınıflardır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kitap Sanatları: Hat + Tezhip + Ebru + Minyatür + Ciltçilik (Mücellitlik).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q6",
@@ -82570,7 +82570,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Hat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Arap harfleriyle estetik ve orantılı güzel yazı yazma sanatına 'Hüsn-i Hat' veya kısaca 'Hat' sanatı denir. Bu sanatla uğraşanlara 'Hattat' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tezhip yaldızlama;<br>• Minyatür perspektifsiz gölgesiz resim;<br>• Ebru kâğıt süslemedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>'Kur'an-ı Kerim Mekke'de indi, Kahire'de okundu, İstanbul'da yazıldı' sözü hat sanatındaki Türk üstünlüğünü ifade eder."
+    "explanation": "Doğru Cevap: <strong>C (Hat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 27) ve 10. ders anlatımına göre; Arap harflerinin çeşitli teknikler kullanılarak estetik ve güzel bir şekilde yazılması sanatına 'Hat' (Hüsn-i Hat), bu sanatla uğraşanlara da 'Hattat' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ebru: Su ve boya ile yapılan kâğıt süsleme sanatıdır.<br>• Minyatür: El yazması eserlerde metnin içeriğini açıklamak için yapılan perspektifsiz resimlerdir.<br>• Dokuma ve Çinicilik: Tekstil ve pişmiş toprak süsleme sanatlarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk büyük Türk hattatı Selçuklular dönemindeki Amasyalı Yakut'tur; Osmanlı'da hattatların piri ise Amasyalı Şeyh Hamdullah'tır.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q7",
@@ -82608,7 +82608,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Müstensih)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Matbaanın henüz yaygınlaşmadığı dönemde el yazması eserleri ve kitapları güzel bir yazıyla elle çoğaltıp kopyalayan kâtiplere 'Müstensih' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mücellit: Kitap ciltleyicisidir.<br>• Müzehhip: Tezhip (altın süsleme) ustasıdır.<br>• Musavvir: Minyatür ustasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İstinsah eden (kitap kopyalayan) = Müstensih. Ciltleyen = Mücellit. Yaldızlayan = Müzehhip."
+    "explanation": "Doğru Cevap: <strong>E (Müstensih)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında hocanın 'günümüzdeki fotokopici' benzetmesiyle anlattığı üzere; matbaa yokken el yazması bir kitabı ücret karşılığında yazarak çoğaltan kişiye 'Müstensih' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Musavvir (Nakkaş): Minyatür sanatçısıdır.<br>• Müderris: Medrese hocasıdır.<br>• Ebruzen: Ebru sanatçısıdır.<br>• Mücellit: Kitapların ciltlenmesiyle uğraşan sanatçıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sanat için güzel yazı yazan = Hattat | Kitabı çoğaltan (kopyalayan) = Müstensih | Kitabı ciltleyen = Mücellit.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q8",
@@ -82646,7 +82646,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Şeyh Hamdullah)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı hat sanatının kurucusu ve 'Hattatların Kıblesi' (Kıbletü'l-Küttâb) unvanıyla tanınan büyük üstat Şeyh Hamdullah'tır (Amasyalıdır, II. Bayezid'in hocasıdır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hafız Osman: Hilye-i Şerif levhalarını standartlaştırmıştır.<br>• Levni: Lale Devri minyatür ustasıdır.<br>• Sinan Bey: Fatih'in gül koklayan portresini çizen nakkaştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hattatların Kıblesi / Piri = Şeyh Hamdullah. Hilye formunu geliştiren = Hafız Osman."
+    "explanation": "Doğru Cevap: <strong>D (Şeyh Hamdullah)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında vurgulandığı üzere Osmanlı hat sanatının öncüsü ve 'Hattatların Kıblesi / Piri' (Kıbletü'l-Hattatin) kabul edilen büyük üstat Amasyalı Şeyh Hamdullah'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Nakkaş Osman: Klasik dönem minyatür ustasıdır (Surname, Hünername).<br>• Levnî: Lale Devri'nin son büyük minyatür ustasıdır.<br>• Kara Memi: Kanuni döneminin en ünlü tezhip ustasıdır.<br>• Matrakçı Nasuh: Şehir ve menzil minyatürleriyle ünlü bilgin ve nakkaştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hattatların Piri = Amasyalı Şeyh Hamdullah | Hat sanatının inkılapçısı = Mustafa Rakım Efendi | Diğer büyük hattatlar: Hafız Osman, Ahmet Karahisari.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q9",
@@ -82684,7 +82684,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Musavvir)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Geleneksel minyatür sanatını icra eden sanatçılara 'Nakkaş' veya 'Musavvir' adı verilir. Saraydaki nakış atölyesine ise 'Nakkaşhâne' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Müzehhip tezhipçi;<br>• Mücellit ciltçi;<br>• Hattat hat yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Minyatür Sanatçısı = Nakkaş / Musavvir."
+    "explanation": "Doğru Cevap: <strong>D (Musavvir)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında belirtildiği üzere minyatür sanatıyla uğraşan sanatçılara 'Nakkaş' veya tasvir eden anlamında 'Musavvir' unvanı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Levent: Tersanede eğitim gören deniz askeridir.<br>• Mücellit: Kitap ciltleme ustasıdır.<br>• Mülazım: Atama sırası bekleyen müderris adayıdır.<br>• Müstensih: El yazması kitap çoğaltan kişidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Minyatür sanatçısı = Nakkaş = Musavvir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q10",
@@ -82722,7 +82722,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Matrakçı Nasuh)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>XVI. yüzyılda Kanuni döneminde yaşayan, şehir, kale ve konak yerlerini topoğrafik ve kuşbakışı perspektifle çizen menzil tasviri ustası ünlü minyatür ve matematik bilgini Matrakçı Nasuh'tur (Beyân-ı Menâzil-i Sefer-i Irâkeyn eseri meşhurdur).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Nakkaş Osman: Hünername minyatürlerini yapmıştır.<br>• Levni: Surname-i Vehbi minyatürcüsüdür.<br>• Dede Efendi bestekârdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Menzil ve şehir planı minyatürleri + Sopalı matrak oyunu mucidi = Matrakçı Nasuh."
+    "explanation": "Doğru Cevap: <strong>E (Matrakçı Nasuh)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre Kanuni Sultan Süleyman'ın İran seferine katılan, 'Beyan-ı Menazil-i Sefer-i Irakeyn' adlı eseriyle şehir ve konaklama (menzil) tasvirlerini minyatürle çizen çok yönlü sanatçı ve matematik-astronomi bilgini Matrakçı Nasuh'tur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hafız Osman ve Şeyh Hamdullah: Ünlü hattatlardır.<br>• Kara Memi: Ünlü tezhip sanatçısıdır.<br>• Dede Efendi: Klasik Türk müziği bestekârıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Şehir ve menzil minyatürleri + çok yönlü bilgin/silahşör = Matrakçı Nasuh (Kanuni dönemi).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q11",
@@ -82760,7 +82760,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Levnî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Lale Devri'nin ünlü şairi Seyyid Vehbî'nin yazdığı ve III. Ahmet'in şehzadelerinin sünnet düğününü anlatan 'Surnâme-i Vehbî' adlı eserin minyatürlerini usta nakkaş Levnî (Abdülcelil Çelebi) çizmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Nakkaş Osman XVI. yüzyıldadır.<br>• Şeker Ahmet Paşa XIX. yüzyıl tuval ressamıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Lale Devri Minyatür Ustası + Surnâme-i Vehbî = Levnî."
+    "explanation": "Doğru Cevap: <strong>D (Levnî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Lale Devri'nde yaşamış ve minyatür sanatının son büyük üstadı kabul edilen sanatçı Levnî'dir; III. Ahmet dönemi şenliklerini anlatan Surname-i Vehbî'nin minyatürlerini hazırlamıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hacı Arif Bey: XIX. yüzyıl şarkı formu bestekârıdır.<br>• Nakkaş Osman: XVI. yüzyıl klasik dönem minyatürcüsüdür.<br>• Şeker Ahmet Paşa: 1874'te ilk özel resim sergisini açan ressamdır.<br>• Mustafa Rakım Efendi: Hat sanatının inkılapçısı kabul edilen hattattır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Lale Devri + Surname-i Vehbî + Son büyük minyatür üstadı = Levnî.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q12",
@@ -82798,7 +82798,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Tezhip – Müzehhip)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Altın tozu ve çeşitli boyalar kullanılarak el yazması kitapların sayfalarını, başlıklarını ve levhaları süsleme sanatına 'Tezhip', bu sanatı yapan ustaya ise 'Müzehhip' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ciltçilik - Musavvir (yanlış eşleştirme, ciltçiye mücellit denir).<br>• Minyatür - Müstensih (müstensih metin çoğaltıcıdır).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Zehb = Altın. Tezhip = Altınlama süslemesi. Yapan usta = Müzehhip."
+    "explanation": "Doğru Cevap: <strong>E (Tezhip – Müzehhip)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre kitap sayfalarının altın tozu ('zeheb' = altın) ve boya kullanılarak süslenmesi sanatına 'Tezhip', bu sanatı icra eden ustaya ise 'Müzehhip' denir (En ünlüleri Kara Memi ve Şahkulu'dur).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Minyatür – Müstensih: Minyatür sanatçısı musavvir/nakkaştır, müstensih kitap çoğaltandır.<br>• Ebru – Müderris: Ebru sanatçısı ebruzendir, müderris medrese hocasıdır.<br>• Ciltçilik – Musavvir: Cilt ustası mücellittir.<br>• Hat – Mücellit: Hat ustası hattattır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Eşleştirmeler: Hat–Hattat | Tezhip–Müzehhip | Ebru–Ebruzen | Ciltçilik–Mücellit | Minyatür–Nakkaş/Musavvir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q13",
@@ -82836,7 +82836,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Ebru)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kitre ile yoğunlaştırılmış suyun üzerine özel toprak boyaların damlatılıp desen verilmesi ve bu desenin kâğıda aktarılmasıyla yapılan geleneksel süsleme sanatına 'Ebru' sanatı denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çinicilik pişmiş fırınlanmış toprak süslemesidir.<br>• Oyma-kakma ahşap ve taştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Su üstünde resim / kâğıt damar sanatı = Ebru (Battal ebru, hatip ebrusu vb.)."
+    "explanation": "Doğru Cevap: <strong>B (Ebru)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kitreyle yoğunlaştırılmış su üzerine boyalar damlatılarak desen verilmesi ve bu desenin kâğıda aktarılmasıyla yapılan geleneksel kâğıt süsleme sanatı 'Ebru'dur (sanatçısına Ebruzen denir).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Oyma-kakma: Ahşap ve taş işçiliği sanatıdır.<br>• Çinicilik: Pişmiş toprak ve seramik süsleme sanatıdır.<br>• Mimari: Yapı sanatıdır.<br>• Hat: Güzel yazı sanatıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Su + boya ile kâğıt süsleme = Ebru (Ustası: Ebruzen).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q14",
@@ -82874,7 +82874,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Mücellit)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>El yazması kitap sayfalarını dağılmaktan korumak, deri ve mukavva ile kaplayıp şemse ve köşebentlerle süsleme işine 'Ciltçilik', bunu yapan ustaya ise 'Mücellit' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Muid: Asistan;<br>• Mülazım: Stajyer;<br>• Musavvir: Minyatürcüdür.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Cilt ustası = Mücellit. Cildin kısımları: Sertap, miklep, şemse."
+    "explanation": "Doğru Cevap: <strong>D (Mücellit)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 27) ve 10. ders anlatımına göre el yazması kitapların dağılmaması ve korunması amacıyla ciltlenmesi sanatına ciltçilik, bu işi yapan sanatçıya da 'Mücellit' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Müstensih: Kitap çoğaltan kâtiptir.<br>• Nakkaş: Minyatür ustasıdır.<br>• Ebruzen: Ebru ustasıdır.<br>• Muid: Medresede müderris yardımcısıdır (asistan).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kitap ciltleyen usta = Mücellit.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q15",
@@ -82912,7 +82912,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Osman Hamdi Bey)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Meşhur 'Kaplumbağa Terbiyecisi' tablosu (1906), Türk müzeciliğinin öncüsü ve Sanayi-i Nefise Mektebi'nin kurucusu olan ünlü ressam Osman Hamdi Bey'e aittir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Şeker Ahmet Paşa doğa ve natürmort ressamıdır.<br>• İbrahim Çallı empresyonist Çallı kuşağı öncüsüdür.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kaplumbağa Terbiyecisi, Silah Tacirleri, Yeşil Cami Önü = Osman Hamdi Bey."
+    "explanation": "Doğru Cevap: <strong>D (Osman Hamdi Bey)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında vurgulandığı üzere Bursa Yeşil Cami mekanında kurgulanan dünyaca ünlü 'Kaplumbağa Terbiyecisi' tablosu, Sanayi-i Nefise Mektebi'nin de kurucusu olan Osman Hamdi Bey'e aittir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Nakkaş Osman, Levnî ve Matrakçı Nasuh: Minyatür sanatçılarıdır.<br>• Şeker Ahmet Paşa: Osmanlı'da ilk resim sergisini açan asker ressamdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osman Hamdi Bey = Kaplumbağa Terbiyecisi + Sanayi-i Nefise Mektebi (1881).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q16",
@@ -82950,7 +82950,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Itrî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Itri (Buhurizade Mustafa Efendi), Klasik Türk Müziği'nin en büyük bestekârı olup 'Segâh Tekbiri' ve 'Salât-ı Ümmiye'nin bestecisidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ali Kuşçu matematikçidir.<br>• Matrakçı Nasuh minyatürcüdür.<br>• Takiyüddin astronomdur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Segâh Kurban Bayramı Tekbiri + Nevakâr Bestesi = Itrî (XVII. yüzyıl)."
+    "explanation": "Doğru Cevap: <strong>E (Itrî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında belirtildiği üzere Buhurizade Mustafa Itrî Efendi, Osmanlı musikisinin en büyük üstatlarındandır; 'Segâh Tekbiri' ve 'Tuti-i Mucize-Gûyem' eserlerinin bestekârıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mustafa Rakım Efendi ve Ahmet Karahisari: Ünlü hattatlardır.<br>• Kara Memi ve Şah Kulu: Ünlü tezhip ustalarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osmanlı'da müzik: Dinî müzik (Mevlevihane), Askerî müzik (Mehterhane), Türk sanat musikisi (Enderun). En büyük üstatlardan biri = Itrî.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q17",
@@ -82988,7 +82988,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Abdülkadir Meragi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ali Kuşçu, Kadızade-i Rûmî ve Uluğ Bey, Osmanlı Devleti'ne geçmeden veya ortak bilim havzasında Semerkant'ta Timur İmparatorluğu himayesinde bilimsel eserler vermişlerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Gazneliler XI. yy'da Afganistan'dadır.<br>• Memlükler Mısır'dadır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Semerkant Rasathanesi ve Bilim Akademisi = Timur İmparatorluğu (Uluğ Bey dönemi)."
+    "explanation": "Doğru Cevap: <strong>B (Abdülkadir Meragi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türk-İslam musikisinin kurucu üstadı kabul edilen Abdülkadir Meragî, Osmanlı Devleti dışında Timur İmparatorluğu döneminde Timur'un sarayında ve hizmetinde bulunmuş büyük musikişinastır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Itrî, Dede Efendi, Hacı Arif Bey ve bestekâr padişah III. Selim (Suzidilara makamı): Doğrudan Osmanlı Devleti musikisinin temsilcileridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Timur döneminde de hizmet veren büyük musiki üstadı = Abdülkadir Meragî.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q18",
@@ -83026,7 +83026,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Külliye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ortasında bir cami bulunan ve çevresinde medrese, imaret, kütüphane, tabhane, darüşşifa ve hamam gibi sosyal yapıları barındıran toplu mimari komplekse 'Külliye' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Arasta çarşıdır.<br>• Kapan tek cins toptancı halidir.<br>• Bedesten kapalı çarşıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Cami merkezli çok işlevli kamu yapıları topluluğu = Külliye."
+    "explanation": "Doğru Cevap: <strong>B (Külliye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 29) ve 10. ders anlatımına göre; ana yapı birimi (merkezi) cami olan ve etrafında medrese, imarethane, şifahane, tabhane gibi yapıların yer aldığı halkın sosyal, kültürel ve dinî ihtiyaçlarını karşılayan yapı topluluğuna 'Külliye' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Şifahane: Hastanedir.<br>• Tabhane: Misafirhane / nekahat bakımevidir.<br>• Türbe: Devlet adamları ve din âlimlerinin mezar yapısıdır.<br>• Arasta: Tek tip ürün satan esnaf çarşısıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ana yapı birimi cami olan yapılar topluluğu = Külliye.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q19",
@@ -83064,7 +83064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Arasta)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Genellikle bir caminin veya külliyenin vakfına gelir sağlamak amacıyla inşa edilen, aynı cins esnafın (örneğin ayakkabıcılar, bakırcılar) dükkânlarının bir sokak boyunca karşılıklı dizildiği üstü açık veya kapalı çarşılara 'Arasta' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten değerli kumaş ve mücevher satılan kubbeli kapalı çarşıdır.<br>• İmarethane aşevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tek tip zanaat kolunun dükkânlar sırası = Arasta. Değerli eşya ve mücevher kapalı çarşısı = Bedesten."
+    "explanation": "Doğru Cevap: <strong>C (Arasta)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 15 ve 29) ile 10. ders anlatımına göre; aynı cins (tek tip) mal satan dükkânların bir sokak üzerinde sıralandığı çarşıya (Ahi çarşısına) 'Arasta' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Şifahane: Hastanedir.<br>• Türbe: Anıt mezardır.<br>• Tabhane: Misafirhane / konukevidir.<br>• İmarethane: Yoksullara ve öğrencilere yemek dağıtılan aşevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tek cins malın satıldığı sıralı dükkânlar çarşısı = Arasta | Değerli kumaş ve mücevherlerin satıldığı kapalı çarşı = Bedesten | Tek cins malın toptan depolandığı yer = Kapan.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_3_q20",
@@ -83102,7 +83102,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (İmarethane)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Külliyelerde yoksullara, medrese talebelerine, dervişlere ve yolculara günde iki öğün ücretsiz sıcak yemek dağıtan aşevine 'İmaret' (İmarethane) adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bimarhane akıl hastanesidir.<br>• Tabhane konukevidir.<br>• Darülkurra Kur'an hafızlık mektebidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ücretsiz aşevi = İmaret / İmarethane (Vakıf sisteminin sosyal yardımlaşma merkezidir)."
+    "explanation": "Doğru Cevap: <strong>D (İmarethane)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 29) ve 10. ders anlatımına göre; külliyelerde ihtiyaç sahiplerine ve öğrencilere ücretsiz yemek dağıtılan hayır kurumuna (aşevine) 'İmarethane' (İmaret) denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kervansaray: Ticaret yollarında tüccarların konakladığı yapıdır.<br>• Tabhane: Misafirhane / bakımevidir.<br>• Bedesten: Değerli eşya ve kumaşların satıldığı kapalı çarşıdır.<br>• Kümbet: Üstü konik/piramit çatılı anıt mezardır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Yemek dağıtılan hayır kurumu (Aşevi) = İmarethane.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. Ders Anlatımı & Ders Notu PDF Slaytları"
   },
   {
     "id": "tarih14_4_q1",
@@ -83140,7 +83140,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Erken dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı mimarisinde 1299-1453 yılları arasını kapsayan (İznik, Bursa ve Edirne merkezli) Kuruluş dönemi eserleri 'Erken Dönem Osmanlı Mimarisi' olarak adlandırılır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Klasik dönem İstanbul'un fethinden (1453) Lale Devri'ne (1703) kadardır.<br>• Geç dönem ise Batı etkisindeki dönemdir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mimari Dönemler: Erken Dönem (Kuruluş / Bursa-Edirne) ➔ Klasik Dönem (İstanbul / Fatih-Sinan) ➔ Geç Dönem (Lale Devri ve Batı Etkisi)."
+    "explanation": "Doğru Cevap: <strong>A (Erken dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre Osmanlı mimarisi Erken Dönem, Klasik Dönem ve Geç Dönem olarak üçe ayrılır. İznik, Bursa ve Edirne'yi kapsayan Kuruluş Dönemi mimari eserleri 'Erken Dönem' içinde değerlendirilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Klasik Dönem: Yükselme ve Duraklama dönemlerini (Mimar Sinan zirvesini) kapsar.<br>• Geç Dönem: Lale Devri'nden (1718) Osmanlı'nın sonuna kadar Batı etkisindeki dönemi kapsar.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mimari Dönemler: Kuruluş = Erken Dönem | Yükselme-Duraklama = Klasik Dönem | Lale Devri'nden sona kadar = Geç Dönem.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q2",
@@ -83178,7 +83178,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Klasik dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İstanbul'un fethinden (1453) başlayarak Mimar Sinan'ın eserleriyle zirveye ulaşan ve Lale Devri'ne (1703) kadar süren mimari üslup 'Klasik Dönem Osmanlı Mimarisi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Erken dönem Bursa-Edirne eserleridir.<br>• Barok ve Rokoko Geç döneme aittir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Klasik Dönem Zirvesi = Mimar Sinan (Şehzade, Süleymaniye, Selimiye)."
+    "explanation": "Doğru Cevap: <strong>C (Klasik dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında belirtildiği üzere Osmanlı'nın Yükselme ve Duraklama dönemlerinde (özellikle İstanbul merkezli Mimar Sinan ve sonrası) inşa edilen anıtsal eserler 'Klasik Dönem' mimarisini oluşturur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Erken Dönem: Kuruluş dönemi (İznik, Bursa, Edirne) eserleridir.<br>• Geç Dönem: Lale Devri ile başlayan Batı (Barok, Rokoko) etkili dönemdir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Yükselme ve Duraklama dönemi mimarisi = Klasik Dönem.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q3",
@@ -83216,7 +83216,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Geç dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1718 Lale Devri ile başlayan ve Avrupa mimari akımlarının (Barok, Rokoko, Ampir/İmparatorluk, Neoklasik) etkisinde kalan mimari evreye 'Geç Dönem (Batı Etkili) Osmanlı Mimarisi' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Klasik dönemde Batı etkisi yoktur, tamamen yerli Türk-İslam sentezidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batı etkili Geç Dönem: Nuruosmaniye Camii, Dolmabahçe Sarayı, Ortaköy Camii, İshak Paşa Sarayı."
+    "explanation": "Doğru Cevap: <strong>B (Geç dönem)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre Lale Devri'nden başlayarak Osmanlı Devleti'nin sonuna kadar uzanan ve Avrupa mimari üsluplarının (Barok, Rokoko, Ampir) etkisinde gelişen mimari evre 'Geç Dönem'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Erken Dönem: Kuruluş dönemidir.<br>• Klasik Dönem: Yükselme ve Duraklama dönemidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Lale Devri'nden Osmanlı'nın sonuna kadar Batı etkili dönem = Geç Dönem Osmanlı Mimarisi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q4",
@@ -83254,7 +83254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (İznik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İznik Süleyman Paşa Medresesi ve İznik Hacı Özbek Camii (1333), Osmanlı Devleti'nin 'Erken Dönem' (Kuruluş devri) mimarisinin günümüze ulaşan ilk örnekleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Klasik ve Geç dönem eserleri değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osmanlı'nın günümüze ulaşan en eski tarihli camisi = İznik Hacı Özbek Camii (1333 - Orhan Bey)."
+    "explanation": "Doğru Cevap: <strong>A (İznik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre Osmanlı'nın ilk medresesi olan Süleyman Paşa Medresesi (İznik Orhaniyesi) ve Osmanlı'nın ilk camisi kabul edilen Hacı Özbek Camii 'İznik' şehrinde bulunmaktadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bursa, Edirne ve İstanbul daha sonraki başkentlerdir; ilk cami (Hacı Özbek) ve ilk medrese (Süleyman Paşa / Orhaniye) İznik'tedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İznik'teki iki ilk: İlk Cami = Hacı Özbek Camii | İlk Medrese = Süleyman Paşa (İznik Orhaniye) Medresesi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q5",
@@ -83292,7 +83292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Yeşil Türbe)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bursa Ulu Camii (I. Bayezid - Yıldırım), Yeşil Camii ve Türbesi (Çelebi Mehmet), Muradiye Külliyesi (II. Murat) Erken Dönem Bursa mimarisinin şaheserleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Süleymaniye ve Sultan Ahmet İstanbul Klasik dönem eserleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bursa = Erken Dönem başkenti (Ulu Cami çok kubbeli ulu cami tipinin en görkemli örneğidir)."
+    "explanation": "Doğru Cevap: <strong>E (Yeşil Türbe)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre Bursa Ulu Camii, Yeşil Cami ve Yeşil Türbe (Çelebi Mehmet dönemi) Bursa'daki Erken Dönem Osmanlı mimarisinin en seçkin örnekleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ortaköy Camii ve Dolmabahçe Sarayı: İstanbul'da Geç Dönem (Batı etkili) eserlerdir.<br>• Rumeli Hisarı: İstanbul Boğazı'ndadır.<br>• Selimiye Camii: Edirne'de Klasik Dönem (Mimar Sinan) eseridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bursa Erken Dönem Eserleri: Ulu Cami, Yeşil Cami, Yeşil Türbe, Hüdavendigar Külliyesi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q6",
@@ -83330,7 +83330,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Selatin camileri)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Padişahlar, padişah eşleri veya hanedan mensupları adına yaptırılan ve genellikle çift veya daha fazla minaresi bulunan büyük külliyeli camilere 'Selâtin Camileri' (Sultan Camileri) denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mesvit tek kubbeli minaresiz küçük ibadethanedir.<br>• Hankâh tarikat yapısıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Selâtin Camileri: Padişah ve hanedan yaptırır, birden fazla minaresi olur (Örn: Süleymaniye, Selimiye, Sultanahmet)."
+    "explanation": "Doğru Cevap: <strong>E (Selatin camileri)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında açıklandığı üzere; padişahlar, valide sultanlar veya hanedan mensupları adına yaptırılan büyük camilere 'Selatin Camileri' (Sultan Camileri) adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Menzil, Ribat, Lonca ve Mahfil: Farklı sosyal/askeri/mimari kavramlardır; hanedan camilerine Selatin Camii denir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Padişah ve hanedan üyelerinin yaptırdığı camiler = Selatin Camileri.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q7",
@@ -83368,7 +83368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Şehzadebaşı – Süleymaniye – Selimiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Büyük dahi Mimar Sinan kendi eserlerini bizzat şöyle derecelendirmiştir: Çıraklık Eserim: İstanbul Şehzade Camii (1548), Kalfalık Eserim: İstanbul Süleymaniye Camii (1557), Ustalık Eserim: Edirne Selimiye Camii (1575).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sultanahmet Sedefkar Mehmet Ağa'nın eseridir.<br>• Mihrimah Sultan ve Rüstem Paşa diğer önemli Sinan eserleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mimar Sinan Üçlemesi: Çıraklık = Şehzade | Kalfalık = Süleymaniye | Ustalık = Selimiye (Edirne)."
+    "explanation": "Doğru Cevap: <strong>B (Şehzadebaşı – Süleymaniye – Selimiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında Mimar Sinan'ın üç büyük eseri sırasıyla şöyle vurgulanır: Çıraklık eseri Şehzadebaşı (Şehzade) Camii, Kalfalık eseri Süleymaniye Camii, Ustalık eseri ise Edirne Selimiye Camii'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer şıklarda sıralama karıştırılmıştır; doğru kronolojik ve sanatsal sıra Şehzadebaşı ➔ Süleymaniye ➔ Selimiye şeklindedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mimar Sinan Şifresi: Çıraklık = Şehzadebaşı | Kalfalık = Süleymaniye | Ustalık = Selimiye (Edirne).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q8",
@@ -83406,7 +83406,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Sedefkâr Mehmet Ağa)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1609-1616 yılları arasında Sultan I. Ahmet tarafından yaptırılan ve Türkiye'nin ilk 6 minareli camisi olan, Avrupalıların 'Mavi Cami' (Blue Mosque) dediği Sultan Ahmet Camii'nin mimarı Sedefkâr Mehmet Ağa'dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mimar Sinan 1588'de vefat etmiştir.<br>• Davud Ağa ve Dalgıç Ahmet Paşa diğer kalfalarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sultan Ahmet Camii (6 minareli Mavi Cami) = Sedefkâr Mehmet Ağa (I. Ahmet dönemi)."
+    "explanation": "Doğru Cevap: <strong>A (Sedefkâr Mehmet Ağa)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre I. Ahmet döneminde yaptırılan ve mavi İznik çinilerinden dolayı Avrupalıların 'Blue Mosque' (Mavi Cami) adını verdiği 6 minareli Sultan Ahmet Camii'nin mimarı, Mimar Sinan'ın öğrencisi Sedefkâr Mehmet Ağa'dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sarkis Balyan: Geç dönem Beylerbeyi ve Çırağan saraylarının mimarıdır.<br>• Mimar Hayreddin: Mostar Köprüsü'nün mimarıdır.<br>• Mimar Sinan: Şehzade, Süleymaniye ve Selimiye'nin mimarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sultan Ahmet Camii (Mavi Cami) = Sedefkâr Mehmet Ağa.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q9",
@@ -83444,7 +83444,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Mimar Hayreddin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bosna-Hersek'te Neretva Nehri üzerinde 1566'da inşa edilen ve zarafetiyle hayranlık uyandıran tarihi Mostar Köprüsü, Mimar Sinan'ın seçkin talebelerinden Mimar Hayreddin tarafından yapılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Balyan ailesi XIX. yüzyıl saray mimarlarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mostar Köprüsü (Bosna) = Mimar Hayreddin (Mimar Sinan'ın öğrencisi)."
+    "explanation": "Doğru Cevap: <strong>D (Mimar Hayreddin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre Bosna-Hersek'te bulunan tarihi Mostar Köprüsü, Mimar Sinan'ın öğrencisi Mimar Hayreddin tarafından inşa edilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sarkis ve Karabet Balyan: XIX. yüzyılda Dolmabahçe, Beylerbeyi, Çırağan sarayları ve Ortaköy Camii'ni yapan Ermeni asıllı mimar ailesidir.<br>• Sedefkâr Mehmet Ağa: Sultan Ahmet Camii mimarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mostar Köprüsü = Mimar Hayreddin.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q10",
@@ -83482,7 +83482,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Barok)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Batı mimari etkisiyle inşa edilen ilk barok tarzı cami 'Nuruosmaniye Camii'dir (I. Mahmut başlatmış, III. Osman tamamlamıştır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Edirne Üç Şerefeli erken/klasik geçişidir.<br>• Fatih Camii klasik dönemdir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batı tarzı (Barok) İLK cami = Nuruosmaniye Camii (İstanbul)."
+    "explanation": "Doğru Cevap: <strong>B (Barok)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre Geç Dönem Osmanlı mimarisinde Batı etkisiyle görülen başlıca sanat ve mimari üslupları 'Barok, Rokoko ve Ampir (İmparatorluk)' üsluplarıdır (İlk barok cami: Nuruosmaniye Camii).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Uygur yazısı, Orhun üslubu ve Klasik hat üslubu Batı kaynaklı mimari akımlar değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Geç Dönem Batı Etkili Üsluplar: Barok ve Rokoko (Örn: Nuruosmaniye Camii, Ortaköy Camii, Dolmabahçe ve Beylerbeyi Sarayları).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q11",
@@ -83520,7 +83520,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Abdülaziz – Sarkis Balyan)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Boğaziçi'nde yazlık saray olarak 1865 yılında Sultan Abdülaziz tarafından inşa ettirilen neobarok Beylerbeyi Sarayı'nın mimarı Ermeni asıllı saray mimarı Sarkis Balyan'dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dolmabahçe ve Beylerbeyi XIX. yüzyıl Balyan ailesi eserleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Beylerbeyi ve Çırağan Sarayları = Sultan Abdülaziz dönemi, Sarkis Balyan."
+    "explanation": "Doğru Cevap: <strong>A (Abdülaziz – Sarkis Balyan)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre İstanbul Anadolu Yakası'nda yazlık saray olarak inşa edilen Beylerbeyi Sarayı (ve Çırağan Sarayı), Sultan Abdülaziz döneminde saray mimarı Sarkis Balyan tarafından yapılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dolmabahçe Sarayı: Sultan Abdülmecid döneminde Karabet ve Nikoğos Balyan tarafından yapılmıştır.<br>• İshak Paşa Sarayı: Ağrı Doğubayazıt'ta kalorifer ve kanalizasyon şebekesi olan ilk saraydır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Abdülmecid = Dolmabahçe Sarayı | Abdülaziz = Beylerbeyi ve Çırağan Sarayları (Mimar: Sarkis Balyan) | II. Abdülhamit = Yıldız Sarayı.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q12",
@@ -83558,7 +83558,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Gar)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sirkeci Garı (Avrupa Yakası) ve Haydarpaşa Garı (Anadolu Yakası), XIX. yüzyıl sonu ve XX. yüzyıl başında demiryolu ulaşımı için inşa edilmiş anıtsal 'Gar' (Tren İstasyonu) yapılarıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kışla, medrese veya çeşme değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sirkeci Garı (Şark Ekspresi / Orient Express) + Haydarpaşa Garı (Bağdat Demiryolu başlangıcı)."
+    "explanation": "Doğru Cevap: <strong>B (Gar)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında Geç Dönem Batı tarzı mimari yapılar sayılırken Selimiye ve Levent Kışlaları (kışla), Sirkeci Postanesi (postane) ve 'Sirkeci Garı ile Haydarpaşa Garı' (tren garı) birlikte verilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Köşk, Medrese, Kışla ve Çeşme: Sirkeci ve Haydarpaşa demiryolu istasyonu (Gar) yapılarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Geç dönem gar yapıları = Sirkeci Garı ve Haydarpaşa Garı.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q13",
@@ -83596,7 +83596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Minyatür)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>El yazması kitaplarda metni açıklamak, tarihi seferleri, elçi kabullerini ve saray eğlencelerini resmetmek için yapılan gölgesiz, perspektifsiz ve derinliksiz küçük renkli resim sanatına 'Minyatür' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tezhip altınlamadır.<br>• Ebru kâğıt desenidir.<br>• Hat yazıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İslam sanatında perspektifsiz ve gölgesiz kitap resmi = Minyatür (Nakkaş yapar)."
+    "explanation": "Doğru Cevap: <strong>C (Minyatür)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 27) ve 10. ders anlatımına göre; el yazması eserlerde metnin içeriğini ve anlatılan olayları açıklamak için yapılan, gölge, boyut ve perspektifi olmayan küçük renkli kitap resimlerine 'Minyatür' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ebru: Su üstünde kâğıt süsleme sanatıdır.<br>• Ciltçilik: Kitap ciltleme sanatıdır.<br>• Tezhip: Altın tozuyla kitap sayfası süslemedir.<br>• Hat: Güzel yazı sanatıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>El yazması kitaplarda perspektifsiz küçük renkli resim = Minyatür.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q14",
@@ -83634,7 +83634,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Sadrazam)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Divan-ı Hümayun üyeleri üç ana ilmi/idari sınıfa ayrılır: 1) Seyfiye (Askeri/Yönetim: Sadrazam, Vezirler, Kaptan-ı Derya, Yeniçeri Ağası), 2) İlmiye (Din/Hukuk/Eğitim: Şeyhülislam, Kazasker), 3) Kalemiye (Bürokrasi/Maliye: Defterdar, Nişancı, Reisülküttab). Kazasker ve Şeyhülislam ilmiye sınıfındandır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Defterdar ve Nişancı kalemiye;<br>• Sadrazam seyfiye sınıfıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlmiye Üyeleri: Şeyhülislam (Fetva) ve Kazasker (Kadı ve müderris atamaları, askeri davalar)."
+    "explanation": "Doğru Cevap: <strong>A (Sadrazam)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>4. Ders Notu PDF (Sayfa 27) slaytında açıkça gösterildiği üzere; Yönetenler Seyfiye, Kalemiye ve İlmiye olarak üçe ayrılır. İdari-Askeri sınıf olan 'Seyfiye' üyeleri: Veziriazam (Sadrazam), Vezirler, Kaptan-ı Derya, Beylerbeyi ve Sancakbeyi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Defterdar ve Nişancı: Kalemiye (sivil bürokrasi) sınıfındadır.<br>• Kazasker ve Şeyhülislam: İlmiye (eğitim, din ve hukuk) sınıfındadır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>4. Ders Notu s. 27 Tablosu: Seyfiye = Sadrazam, Vezirler, Beylerbeyi, Sancakbeyi | Kalemiye = Defterdar, Reisülküttap, Nişancı | İlmiye = Şeyhülislam, Kazasker, Kadı, Müderris.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q15",
@@ -83672,7 +83672,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Türbe)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türbe; hükümdarların, din büyüklerinin veya devlet ricalinin mezarlarının bulunduğu anıt mezar yapısıdır. Eğitim ve öğretim işlevi yoktur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Enderun, Medrese, Tekke ve Cami klasik eğitim ve tedrisat işlevine sahiptir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Türbe = Anıt mezar (Eğitimle doğrudan ilgisi yoktur)."
+    "explanation": "Doğru Cevap: <strong>C (Türbe)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 29) slaytında belirtildiği üzere 'Türbe', devlet adamlarının ve din âlimlerinin mezarlarının bulunduğu oda şeklindeki anıt mezar yapısıdır; temel işlevi eğitim-öğretim değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Enderun ve Medrese: Örgün eğitim kurumlarıdır.<br>• Cami ve Tekke: Yaygın eğitim kurumları arasında yer alır (10. ders anlatımı).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Türbe ve Kümbet anıt mezar yapılarıdır, eğitim kurumu değildir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q16",
@@ -83710,7 +83710,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Reisülküttap)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kalemiye sınıfı; devletin yazışma, arşiv, tapu-tahrir ve maliye işlerini yürüten bürokrat zümredir. Defterdar (maliye amiri), Nişancı (tuğra çeken, fetva/kanun ve tapu tahrir sorumlusu) ve Reisülküttab (yazışma ve dışişleri) kalemiye sınıfının üyeleridir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kazasker ilmiye;<br>• Kaptan-ı Derya ve Yeniçeri Ağası seyfiye sınıfıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kalemiye = Yazışma + Maliye + Bürokrasi (Nişancı, Defterdar, Reisülküttab)."
+    "explanation": "Doğru Cevap: <strong>C (Reisülküttap)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>4. Ders Notu PDF (Sayfa 12 ve 27) slaytlarında gösterildiği üzere; Kalemiye (sivil bürokrasi/yazışma) sınıfının başlıca üyeleri Defterdar (maliye), Nişancı (tuğra/tapu tahrir) ve 'Reisülküttap'tır (kâtiplerin başı, XVII. yüzyıldan itibaren dışişleri bakanı).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yeniçeri Ağası, Sekban ve Silahtar: Askerî (Seyfiye / Kapıkulu) unsurlardır.<br>• Harem Ağası: Saray iç hizmet görevlisidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kalemiye Üçlüsü: Defterdar + Nişancı + Reisülküttap.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q17",
@@ -83748,7 +83748,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Ribat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Karahanlılar döneminde sınır boylarında hem askeri savunma karakolu hem de İpek Yolu tüccarları için korunaklı kervansaray işlevi gören yapılara 'Ribat' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kapan tek cins toptancı pazarıdır.<br>• Bedesten kapalı çarşıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Türk-İslam kervansarayı / sınır karakolu = Ribat (Karahanlılar)."
+    "explanation": "Doğru Cevap: <strong>C (Ribat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 29 ve 35 - Örnek Soru 22) ile 10. ders anlatımına göre; Karahanlılar döneminde sınır boylarında ve ticaret yollarında hem güvenlik (sınır-uç karakolu) hem de tüccarların konaklaması için inşa edilen ilk kervansaray yapılarına 'Ribat' adı verilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Arasta: Tek tip ürün satan çarşıdır.<br>• Külliye: Cami merkezli yapı topluluğudur.<br>• Hazire: Cami bahçesindeki etrafı çevrili mezar alanıdır.<br>• İmaret: Aşevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Karahanlılarda sınır karakolu ve ilk kervansaray = Ribat.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q18",
@@ -83786,7 +83786,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Ali Kuşçu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Akkoyunlu hükümdarı Uzun Hasan'ın barış elçisi olarak Fatih Sultan Mehmet'e gönderdiği, Fatih'in derin ilmine hayran kalarak İstanbul'da kalmasını teklif ettiği ve Ayasofya başmüderrisi yaptığı bilgin Ali Kuşçu'dur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kadızade Semerkant'ta kalmıştır.<br>• Sabuncuoğlu Amasya'dadır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Uzun Hasan'ın elçisi ➔ Fatih'in Ayasofya Müderrisi = Ali Kuşçu (1472)."
+    "explanation": "Doğru Cevap: <strong>B (Ali Kuşçu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında çıkmış sınav sorusu olarak da çözüldüğü üzere; Akkoyunlu hükümdarı Uzun Hasan'ın elçisi olarak İstanbul'a gelen ve Fatih Sultan Mehmet'in teklifiyle İstanbul'da kalarak Ayasofya Medresesi müderrisliğine getirilen matematik ve astronomi bilgini Ali Kuşçu'dur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Uluğ Bey: Timur hükümdarı ve Semerkant Rasathanesi kurucusudur.<br>• Kadızade-i Rumî: Uluğ Bey ve Ali Kuşçu'nun hocasıdır.<br>• Mirim Çelebi: Ali Kuşçu'nun torunudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Uzun Hasan'ın elçisi ➔ Fatih'in davetiyle Ayasofya müderrisi = Ali Kuşçu.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q19",
@@ -83824,7 +83824,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Darüleytam)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı'da Darüşşifa, Şifahane, Maristan, Bimarhane ve Darüssıhha sağlık ve tedavi kurumlarıdır. Darülbedayi ise 1914'te açılan tiyatrodur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Darülbedayi tiyatro ve sahne sanatları kurumudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sağlık Kurumları: Darüşşifa, Bimarhane, Maristan, Darüssıhha. Tiyatro = Darülbedayi."
+    "explanation": "Doğru Cevap: <strong>E (Darüleytam)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 29) ve 10. ders anlatımına göre Darüşşifa, Darüssıhha, Darülafiye, Bimarhane, Bimaristan ve Tıbhane sağlık ve hastane kurumlarıdır. 'Darüleytam' ise yetim çocukları barındırmak için kurulan yetimhanedir ('eytam' = yetimler).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Darüssıhha, Bimaristan, Tıbhane ve Darüşşifa: Doğrudan sağlık hizmeti ve tıp eğitimi veren kurumlardır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sağlık Kurumları: Darüşşifa, Darüssıhha, Darülafiye, Bimaristan, Bimarhane, Maristan, Tıbhane. Darüleytam = Yetimhane.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_4_q20",
@@ -83862,7 +83862,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Aşina soyundan gelmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Külliye, İslamiyet'in kabulünden sonra ortaya çıkan; cami merkezinde toplanmış eğitim, sağlık ve sosyal yapıların bütünüdür. İslam öncesi Türklerde bulunmaz.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kurgan (mezar), Yuğ (cenaze), Balbal (mezar taşı) İslam öncesi döneme aittir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İslamiyet Sonrası Kültür Unsurları: Külliye, Cami, Medrese, Vakıf, Ribat, Kümbet."
+    "explanation": "Doğru Cevap: <strong>E (Aşina soyundan gelmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 3) slaytında görüldüğü üzere; İslami dönem Türk devletlerinde sultan unvanı kullanmak, hutbe okutmak, kendi adına ve halife adına para bastırmak, kılıç kuşanmak hükümdarlık sembolleridir. 'Aşina soyundan gelmek' ise İslamiyet öncesi Göktürk (Kök Türk) kağanlığının hanedan şartıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sultan unvanı, parada halife adı, para bastırmak (sikke) ve kılıç kuşanmak Türk-İslam hükümdarlık alametleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Aşina soyu = İslamiyet öncesi (Göktürkler). Türk-İslam döneminde hutbe, menşur, hilat, tıraz, çetr ve sultan unvanı öne çıkar.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q1",
@@ -83900,7 +83900,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Kararları Divan-ı Hümayun'da yeniden \nincelenebilirdi.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı yargı sisteminde kadılar kararlarında şer'i ve örfi hukuka göre bağımsız hüküm verirlerdi; ancak kadı kararlarından haksızlığa uğradığını düşünen tebaa 'Divan-ı Hümayun'a başvurarak davasının yeniden incelenmesini (temyiz) talep edebilirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kadılar Enderun değil medrese mezunudur.<br>• Kadı atamalarını Nişancı değil Kazasker yapar.<br>• Kadılar yalnızca askeri değil tüm hukuki davalara bakardı.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Divan-ı Hümayun aynı zamanda en yüksek temyiz mahkemesidir; haksızlığa uğrayan herkes kadıyı divana şikâyet edebilirdi."
+    "explanation": "Doğru Cevap: <strong>D (Kararları Divan-ı Hümayun'da yeniden  incelenebilirdi.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>4. Ders Notu PDF (Sayfa 10 ve 23-24) slaytlarına göre; kadılar şer'i ve örfi davalara bakan bağımsız yargıçlardır, ancak verdikleri kararlar en üst yönetim ve yüksek yargı (temyiz) organı olan 'Divan-ı Hümayun'da (Cuma Divanı) yeniden incelenebilirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kadılar Enderun değil Medrese kökenlidir (4. Ders Notu s. 27).<br>• Kadıların atamaları Nişancı tarafından değil, Kazasker (Adalet-Eğitim Bakanı) tarafından yapılır (4. Ders Notu s. 12 ve 23).<br>• Yalnız askerî suçlarla değil, tüm şer'i, sosyo-ekonomik, noterlik ve kaza idaresi işleriyle ilgilenirlerdi (4. Ders Notu s. 24).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>4. Ders Notu s. 23-24: Kadı = Medrese kökenli, Kazasker atar, maaş almaz mahkeme harçlarıyla geçinir, kararlarına karşı Divan-ı Hümayun'a (üst mahkeme) başvurulabilir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q2",
@@ -83938,7 +83938,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Vakıf)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Vakıf sisteminde cami, medrese, aşevi gibi kamu hizmeti veren kurumların (hayrat) giderlerini ebediyen karşılamak için tahsis edilen gelir getiren dükkân, han, hamam ve tarla gibi mülklere 'Akar' denir ve bu sistem 'Vakıf Sistemi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tımar askeri dirliktir.<br>• İltizam vergi toplama ihalesidir.<br>• Esham iç borçlanma senedidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Vakıf = Hayrat (hizmet veren yapı) + Akar (o hizmetin masrafını ödeyen gelir getiren mülk)."
+    "explanation": "Doğru Cevap: <strong>C (Vakıf)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>4. Ders Notu PDF (Sayfa 28) slaytında belirtildiği üzere; devlet hazinesine ait olan ya da kişilerin mülk arazi gelirlerinin cami, külliye, medrese, darüşşifa gibi sosyal kurumların masrafları için ayrıldığı sistem 'Vakıf' sistemidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Malikâne: Üstün hizmetlerine karşılık bazı devlet görevlilerine verilen topraklardır (veya ömür boyu iltizam).<br>• Esham: İç borçlanma sistemidir.<br>• Tımar: Hizmet ve asker yetiştirme karşılığı verilen dirlik toprağıdır.<br>• İltizam: Saliyaneli eyalet vergilerinin peşin satışıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sosyal ve hayır kurumlarının (külliye, medrese, şifahane) giderleri için gelir tahsis edilmesi = Vakıf sistemi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q3",
@@ -83976,7 +83976,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Birun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Topkapı Sarayı üç ana kısımdan oluşur: 1) Bîrun (Dış saray - devlet idaresi, divan, yeniçeriler ve dış hizmetler), 2) Enderun (İç saray - devşirme mektebi ve padişah hizmetkârları), 3) Harem (Padişahın ailesiyle yaşadığı özel bölüm). Dış hizmetler Bîrun'dadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Enderun iç saraydır.<br>• Has Oda padişahın özel odasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Topkapı Sarayı Bölümleri: Bîrun (Dış / Divan / Bürokrasi) - Enderun (İç / Mektep / Hazine) - Harem (Özel Hayat)."
+    "explanation": "Doğru Cevap: <strong>A (Birun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>4. Ders Notu PDF (Sayfa 7) slaytında şemayla gösterildiği üzere Saray 3 bölümdür: 1) Enderun (İç Saray - devlet adamlarının eğitim gördüğü bölüm), 2) Birun (Dış Saray - devlet meselelerinin görüşüldüğü ve dış/resmî hizmetlerin yürütüldüğü bölüm), 3) Harem (Padişahın aile hayatının geçtiği bölüm).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Enderun: İç saray ve saray okuludur.<br>• Harem: Padişahın ailesinin yaşadığı özel bölümdür.<br>• Matbah-ı Amire: Saray mutfağıdır.<br>• Has Oda: Enderun'da padişahın özel hizmet odasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>4. Ders Notu s. 7: Birun = Dış Saray (Resmî işler ve dış hizmetler) | Enderun = İç Saray (Eğitim) | Harem = Aile hayatı | Babüssaade = Birun ile Enderun arasındaki bağlantı kapısı.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q4",
@@ -84014,7 +84014,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Bizans'a karşı her zaman ortak hareket \netmişlerdir.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Karesioğulları Beyliği'nin Orhan Bey döneminde Osmanlı'ya katılmasıyla, Osmanlı ilk kez donanma sahibi olmuş ve Rumeli'ye (Karesi komutanları Evrenos, Hacı İlbey vb. ile) geçiş kolaylaşmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hamitoğulları topraklarının bir kısmı para ile satın alınmıştır.<br>• Germiyanoğulları çeyiz yoluyla katılmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osmanlı'ya katılan İLK beylik = Karesioğulları (İlk donanma + Rumeli fethinin başlangıcı)."
+    "explanation": "Doğru Cevap: <strong>A (Bizans'a karşı her zaman ortak hareket  etmişlerdir.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>3. Ders Notu PDF (Türkiye Tarihi: Beylikler ve Anadolu Selçukluları) kapsamında; Anadolu Türk beylikleri Anadolu'nun Türkleşmesine, İslamiyet'in yayılmasına, mimari ve bilime büyük katkı sağlamışlardır; ancak kendi aralarında da hâkimiyet mücadelesi yaşadıkları için 'Bizans'a karşı her zaman ortak hareket etmişlerdir' yargısı söylenemez.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer dört seçenek (Türkleşme, İslamlaşma, mimari eserler ve bilim-kültür hayatı) Anadolu beyliklerinin ortak katkılarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>'Her zaman ortak hareket etmişlerdir', 'yalnızca', 'hiçbir zaman' gibi mutlak ifadeler tarih sorularında genellikle yanlış öncüldür.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q5",
@@ -84052,7 +84052,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (İlmiye sınıfının önemini kaybetmesi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tımar sisteminde köylü toprağı terk edip şehre kaçarsa vergiler aksamasın diye köylüden 'Çiftbozan Resmi' adında tazminat vergisi alınırdı. Köylünün keyfi olarak şehre göç etmesine izin verilmezdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Tımar sistemi üretimin sürekliliğini sağlar, hazineye yük olmadan büyük bir ordu besler ve taşrada asayişi korur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Toprağı nedensiz boş bırakan veya terk eden köylüden alınan ceza/tazminat vergisi = Çiftbozan Resmi."
+    "explanation": "Doğru Cevap: <strong>C (İlmiye sınıfının önemini kaybetmesi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tımar sisteminin bozulmasıyla taşrada güvenlik bozulmuş (Celali isyanları), köylü toprağı terk edip şehirlere göç etmiş, tarımsal üretim-tüketim dengesi bozulmuş ve tımarlı sipahiler azaldığı için merkez (Kapıkulu/ücretli) askerlerinin sayısı ve önemi artmıştır. İlmiye sınıfının önemini kaybetmesi tımarın değil, medrese sisteminin bozulmasının sonucudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Merkez askerlerinin artması, Celali isyanları, köyden kente göç ve üretimin düşmesi doğrudan tımar sisteminin çözülmesinin sonuçlarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tımar sistemi askeri, ekonomik ve idari (Seyfiye/Taşra) bir sistemdir; İlmiye sınıfı (müderris, kadı) vakıf ve medrese sistemiyle ilişkilidir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q6",
@@ -84090,7 +84090,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Topkapı)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet tarafından fetihten sonra Sarayburnu'nda yaptırılan Topkapı Sarayı'nın resmi ve tarihi adı 'Saray-ı Cedîd-i Âmire'dir (Yeni Saray). Beyazıt'taki ilk saraya ise 'Saray-ı Atîk' (Eski Saray) denirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çırağan ve Dolmabahçe XIX. yüzyıl saraylarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray-ı Atik = Eski Saray (Beyazıt) | Saray-ı Cedid = Yeni Saray (Topkapı Sarayı)."
+    "explanation": "Doğru Cevap: <strong>D (Topkapı)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet döneminde İstanbul'da inşa edilen ve devletin uzun yıllar yönetim merkezi olan Topkapı Sarayı'nın resmî adı 'Saray-ı Cedid-i Amire'dir (Yeni Saray).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dolmabahçe, Çırağan, Beylerbeyi ve Yıldız Sarayları XIX. yüzyılda (Geç Dönem) inşa edilen saraylardır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray-ı Cedid-i Amire (Yeni Saray) = Topkapı Sarayı.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q7",
@@ -84128,7 +84128,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Darülharp)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Gureba Mektebi diye bir eğitim kurumu yoktur; Gureba (Vakıf Gureba), Bezmialem Valide Sultan tarafından yoksul ve kimsesiz hastalar için kurulan bir hastanedir/darüşşifadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mekteb-i Tıbbiye, Harbiye, Mülkiye ve Hendesehane gerçek Osmanlı okullarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Gureba Hastanesi = Bezmialem Valide Sultan'ın kimsesiz garipler için açtığı sağlık kurumudur."
+    "explanation": "Doğru Cevap: <strong>C (Darülharp)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımına göre Darülhadis (hadis ihtisas medresesi), Darülkurra (Kur'an okuma medresesi), Darülfünun (Osmanlı'nın ilk üniversitesi) ve Darülbedayi (tiyatro eğitimi okulu) eğitim kurumlarıdır. 'Darülharp' ise İslam hukukunda Müslümanların egemenliği altında olmayan ülkeleri ifade eden siyasi/fıkhi bir kavramdır, eğitim kurumu değildir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Darülhadis ve Darülkurra: İhtisas medreseleridir.<br>• Darülfünun: Üniversitedir (1870).<br>• Darülbedayi: Tiyatro okuludur (1914).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>'Darül-' ile başlayan tuzak: Darülharp eğitim kurumu değildir!<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q8",
@@ -84166,7 +84166,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Hilat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Abbasi Halifesinin Türk-İslam hükümdarının hükümdarlığını onaylayıp gönderdiği saltanat tasdik fermanına ve diplomasına 'Menşur' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hilat: Giydirilen hükümdarlık cübbesidir.<br>• Çetr: Saltanat şemsiyesidir.<br>• Nevbet: Askeri bando/davuldur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hükümdarlık Alametleri: Menşur (Onay fermanı) - Hilat (Tören elbisesi) - Hutbe - Sikke (Para) - Çetr (Şemsiye) - Nevbet (Bando)."
+    "explanation": "Doğru Cevap: <strong>A (Hilat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 3) ve 4. Ders Notu PDF (Sayfa 5) slaytlarında belirtildiği üzere; Abbasi Halifesinin hükümdarlığı onayladığını göstermek amacıyla gönderdiği değerli giysiye (kıyafet/hediyeye) 'Hilat' (veya Tıraz) adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çetr: Hükümdarlık şemsiyesidir.<br>• Nevbet: Saray önünde çalınan davul/müziktir.<br>• Sancak (Alem): Bayraktır.<br>• Menşur: Halifenin hükümdarlığı onayladığı yazılı belgedir (fermandır).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>2. Ders Notu s. 3: Giysi/Hediye = Hilat (Tıraz) | Onay Belgesi = Menşur | Şemsiye = Çetr | Davul = Nevbet.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q9",
@@ -84204,7 +84204,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Piyade askerlerden oluşurlardı.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tımarlı sipahiler doğrudan devlet hazinesinden maaş (ulufe) almazlar; maaşlarını kendilerine tahsis edilen dirlik bölgesindeki halktan topladıkları şer'i ve örfi vergilerle karşılarlar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ulufe alanlar merkez Kapıkulu ordusudur (Yeniçeriler vb.).<br>• Tımarlı sipahi taşra ordusudur ve Türk asıllıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kapıkulu = Maaşlı (Ulufe), Merkezde, Devşirme. Tımarlı Sipahi = Toprak gelirli, Taşrada, Türk."
+    "explanation": "Doğru Cevap: <strong>D (Piyade askerlerden oluşurlardı.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>4. Ders Notu PDF (Sayfa 19 ve 21) slaytlarında açıkça gösterildiği üzere; Eyalet Ordusu (Tımar Ordusu) içinde yer alan Tımarlı Sipahiler ve yetiştirdikleri Cebelüler 'piyade (yaya)' değil, tamamı 'atlı (süvari)' askerlerdir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Padişahın çağrısıyla sefere katılmaları, dirlik bölgesinin vergilerini toplamaları, dirlik tasarruf etmeleri ve eyalet ordusunun unsuru olmaları tamamen doğrudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>4. Ders Notu s. 19-21: Tımarlı Sipahi ve Cebelü = Atlı asker (Süvari), Türk ve Müslümandır, devletten maaş (ulufe) almaz, evlenebilir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q10",
@@ -84242,7 +84242,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Biruni)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Gazneli Mahmut'un sarayında yaşayan, Gazneli Mahmut'un kendisi için 'Sarayımın en değerli hazinesi' dediği ve Hindistan tarihi, coğrafyası ve dinlerini 'Tahkîku Mâ li'l-Hind' adlı eserinde anlatan dahi bilgin Bîrûnî'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İbni Sina El-Kanun fi't-Tıbb yazarıdır.<br>• Farabi İhsaü'l-Ulum yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bîrûnî = 'Sarayımın en değerli hazinesi' (Gazneli Mahmut) + Tahkiku Mâ li'l-Hind + El-Asarü'l-Bakiye."
+    "explanation": "Doğru Cevap: <strong>E (Biruni)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 20 - Örnek Soru 8) ve Gazneliler konusunda belirtildiği üzere; Gazneli Mahmut döneminde yaşayan, onun Hindistan seferlerine katılarak 'Tahkiku mâ li'l-Hind' adlı eseri yazan ve Avrupa'da 'Aliboron' olarak tanınan büyük matematik, astronomi ve coğrafya bilgini Birunî'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İbn Sina: Tıp (El-Kanun fi't-Tıb, Kitabü'ş-Şifa).<br>• Gazali: Nizamiye Medresesi müderrisi (İhyaü Ulumi'd-Din).<br>• Harezmi: Cebir ve sıfır (Kitabü'l-Cebr ve'l-Mukabele).<br>• Farabi: Muallim-i Sani (El-Medinetü'l-Fazıla, İhsaü'l-Ulum).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Gazneli Mahmut'un 'Sarayımın en değerli hazinesi' dediği bilgin + Tahkiku mâ li'l-Hind = Birunî.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q11",
@@ -84280,7 +84280,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Naib-i saltanat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkiye Selçuklu Devleti'nde sultan başkentten veya seferden ayrıldığında hükümdara vekâlet eden, devlet işlerini yürüten ve Niyabet-i Saltanat divanına başkanlık eden görevliye 'Nâib-i Saltanat' denirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Müstevfi: Maliye divanı (İstifa) başkanıdır.<br>• Müşrif: İdari denetim (İşraf) başkanıdır.<br>• Emir-i Dad: Adalet divanı başkanıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hükümdar vekili = Nâib-i Saltanat (Niyabet-i Saltanat Divanı)."
+    "explanation": "Doğru Cevap: <strong>D (Naib-i saltanat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>3. Ders Notu PDF (Sayfa 4) slaytındaki 'Divan-ı Saltanat' tablosunda açıkça gösterildiği üzere; Türkiye Selçuklularında vekâlet divanı 'Niyabet-i Saltanat Divanı'dır ve sultan başkentten ayrıldığında ona vekâlet eden görevli 'Naib (Naib-i Saltanat)'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Emir-i Dad: Örfi davalara bakan görevlidir (2. Ders Notu s. 10).<br>• Müstevfi: Divan-ı İstifa (maliye) başkanıdır.<br>• Müşrif (Müşrif-i Memalik): Divan-ı İşraf (teftiş) başkanıdır.<br>• Emirü'l-Ümera: Beylerbeyidir (3. Ders Notu s. 5).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>3. Ders Notu s. 4: Yazışma = Tuğrai | Maliye = Müstevfi | Teftiş = Müşrif | Askeriye = Emir-i Arz | Toprak = Pervaneci | Vekâlet = Naib-i Saltanat.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q12",
@@ -84318,7 +84318,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Bab-ı Ali)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nde XIX. yüzyıldan itibaren sadrazam konağı ve başbakanlık/hükûmet binası anlamında kullanılan ve kelime anlamı 'Yüce Kapı' olan kavram 'Bâb-ı Âlî'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bab-ı Hümayun Topkapı Sarayı'nın dış anıtsal giriş kapısıdır.<br>• Matbah-ı Amire saray mutfağıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bâb-ı Âlî = Yüce Kapı / Hükûmet Konağı (Sadrazamlık makamı)."
+    "explanation": "Doğru Cevap: <strong>E (Bab-ı Ali)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>4. Ders Notu PDF (Sayfa 12) slaytında Sadrazam kutusunda 'Padişahın mutlak vekili, Serdar-ı Ekrem, Bab-ı Ali, Paşa Kapısı' olarak gösterildiği üzere; kelime anlamı 'Yüce Kapı' olan ve Osmanlı'da hükûmet (sadrazamlık) karşılığında kullanılan kavram 'Bab-ı Ali'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Matbah-ı Amire: Saray mutfağıdır.<br>• Divanhane: Divan toplantı salonudur.<br>• Bab-ı Hümayun: Topkapı Sarayı'nın en dış ana giriş kapısıdır.<br>• Has Oda: Padişahın Enderun'daki özel dairesidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bab-ı Ali (Paşa Kapısı) = Yüce Kapı / Osmanlı Hükûmeti (Sadrazamlık) | Bab-ı Meşihat = Şeyhülislamlık makamı.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q13",
@@ -84356,7 +84356,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Enderun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hristiyan tebaadan devşirilen çocukların Türk-Müslüman ailelerin yanında Türkçeyi ve İslamiyet'i öğrendikten sonra saray hizmetine, devlet adamlığına ve idari kadrolara hazırlanmak üzere eğitildikleri iç saray mektebi 'Enderun'dur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Defterhane mali arşivdir.<br>• Menzilhane posta durağıdır.<br>• Bedesten kapalı çarşıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray Mektebi = Enderun (II. Murat Edirne'de kurmuş, Fatih Topkapı Sarayı'nda teşkilatlandırmıştır)."
+    "explanation": "Doğru Cevap: <strong>C (Enderun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>4. Ders Notu PDF (Sayfa 7 ve 27) ile 10. ders anlatımına göre; devşirme kökenli zeki ve yetenekli çocukların saray hizmetine, devlet adamlığına, üst düzey askerliğe ve sanatkârlığa hazırlanmak üzere eğitim gördükleri iç saray okulu 'Enderun'dur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Defterhane: Tapu tahrir ve maliye kayıtlarının tutulduğu yerdir.<br>• Menzilhane: Haberleşme ve taşımacılık durağıdır.<br>• Bedesten: Değerli kumaş ve eşyaların satıldığı kapalı çarşıdır.<br>• Ruus Kalemi: Divan-ı Hümayun kalemlerinden biridir (4. Ders Notu s. 11).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Devşirme kökenli devlet adamlarının yetiştiği saray okulu = Enderun (Seyfiye ve Kalemiye Enderun kökenlidir; İlmiye ise Medrese kökenlidir).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q14",
@@ -84394,7 +84394,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Mekteb-i Mülkiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1859 yılında Sultan Abdülmecit döneminde mülki idare amiri (kaymakam, vali, müfettiş) yetiştirmek üzere kurulan modern yüksekokul 'Mekteb-i Mülkiye'dir (bugünkü Ankara SBF).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mekteb-i Harbiye 1834 (II. Mahmut);<br>• Tıbhane 1827 (II. Mahmut) dönemidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tanzimat Dönemi sivil idareci okulu = Mekteb-i Mülkiye (1859)."
+    "explanation": "Doğru Cevap: <strong>A (Mekteb-i Mülkiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımının sonunda hocanın bizzat soru olarak yönelttiği üzere; Mekteb-i Mülkiye (1859, Abdülmecid dönemi) kaymakam ve nahiye müdürü gibi üst düzey mülki amir yetiştirmek amacıyla 'Tanzimat Dönemi'nde açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mühendishane-i Bahrî-i Hümâyun (1775, I. Abdülhamit) ve Mühendishane-i Berrî-i Hümâyun (1795, III. Selim): XVIII. yüzyılda açılmıştır.<br>• Tıbhane-i Amire (1827) ve Mekteb-i Harbiye (1834): II. Mahmut döneminde (Tanzimat öncesinde) açılmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>10. Ders Sonu Sorusu: Berri (III. Selim) ve Bahri (I. Abdülhamit) = 18. yy | Tıbhane ve Harbiye = II. Mahmut | Mekteb-i Mülkiye = Tanzimat Dönemi (Abdülmecid).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q15",
@@ -84432,7 +84432,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (İçtihat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>II. Meşrutiyet döneminde Abdullah Cevdet ve Celal Nuri'nin başını çektiği, 'İçtihad' dergisi etrafında toplanan ve Batı medeniyetinin bilim, teknik ve kurumlarıyla eksiksiz alınmasını savunan fikir akımı 'Batıcılık'tır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İslamcılık Sırat-ı Müstakim;<br>• Türkçülük Türk Yurdu etrafında örgütlenmiştir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İçtihad Dergisi + Abdullah Cevdet = Batıcılık Akımı."
+    "explanation": "Doğru Cevap: <strong>D (İçtihat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında vurgulandığı üzere II. Meşrutiyet döneminde Abdullah Cevdet, Celal Nuri, İbrahim Temo ve Kılıçzade Hakkı gibi isimlerin savunduğu Batıcılık (Garpçılık) fikir akımının yayın organı 'İçtihat' dergisidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mizan (Mizancı Murat) ve Meşveret (Ahmet Rıza): Osmanlıcılık / Jön Türk-İttihatçı yayınlarıdır.<br>• Volkan (Derviş Vahdeti) ve Mahfil (Tahirü'l-Mevlevi): İslamcılık çizgisindeki yayınlardır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Fikir Akımı – Dergi Eşleştirmesi: Batıcılık = İçtihat | Türkçülük = Türk Yurdu, Genç Kalemler | İslamcılık = Sırat-ı Müstakim, Sebilürreşad, Volkan, Mahfil | Osmanlıcılık = Hürriyet, İbret, Meşveret, Mizan.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q16",
@@ -84470,7 +84470,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Ruzname)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı medreselerinden mezun olup icazet alan danişmentlerin, müderrislik veya kadılık kadrosu açılana kadar kıdem sırasına göre bekleme ve stajyerlik yaptıkları sisteme 'Mülâzemet' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İntisap bağlanmadır.<br>• Cülus tahta çıkmadır.<br>• Esame yeniçeri maaş cüzdanıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Müderris veya kadı adaylarının nöbet ve sıra bekleme sistemi = Mülâzemet."
+    "explanation": "Doğru Cevap: <strong>B (Ruzname)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında açıkça belirtildiği üzere; medreseyi bitiren müderris adayları (mülazımlar), atama sıralarını beklemek için (mülazemet sistemi) isimlerini Anadolu ve Rumeli kazaskerlik dairelerinde bulunan 'Ruzname' (Ruznamçe) defterine kaydettirirlerdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mühimme Defteri: Divan-ı Hümayun'da alınan kararların (hükümlerin) kaydedildiği defterdir (4. Ders Notu s. 11).<br>• Tahrir Defteri: Nişancı'nın tuttuğu dirlik ve arazi kayıt defteridir (4. Ders Notu s. 12).<br>• Temettuat ve Avarız: Vergi ve gelir sayım defterleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Müderris adaylarının kazaskerlikteki sıra kayıt defteri = Ruzname | Divan kararları = Mühimme | Toprak/Dirlik kaydı = Tapu Tahrir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q17",
@@ -84508,7 +84508,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Cevri Kalfa İnas Rüştiyesi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nde kız çocuklarının ilkokul (sıbyan) sonrasında ortaöğretime devam edebilmeleri için ilk kız rüştiyesi 1859 yılında Sultan Abdülmecit döneminde İstanbul Sultanahmet'te (Cevri Kalfa Rüştiyesi) açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İnas İdadisi lise seviyesindedir.<br>• Dârülmuallimât öğretmen okuludur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Kız Rüştiyesi = 1859 (Cevri Kalfa İnas Rüştiyesi - Abdülmecit dönemi)."
+    "explanation": "Doğru Cevap: <strong>E (Cevri Kalfa İnas Rüştiyesi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tanzimat Dönemi'nde kız çocuklarının ortaokul düzeyinde eğitim alabilmesi için 1859 yılında İstanbul Sultanahmet'te açılan ilk kız rüştiyesi 'Cevri Kalfa İnas Rüştiyesi'dir (10. ders anlatımında da ilk kız rüştiyelerinin Tanzimat döneminde açıldığı vurgulanır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Darülmaarif: Mekteb-i Maarif-i Adliye'nin 1850'de dönüştüğü kurumdur.<br>• İnas Darülfünunu: 1914'te açılan kız üniversitesidir.<br>• Darülmuallimin: 1848'de açılan erkek öğretmen okuludur.<br>• Galatasaray Mekteb-i Sultanisi: 1868'de açılan yabancı dil ağırlıklı lisedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk erkek rüştiyeleri = II. Mahmut dönemi | İlk kız (inas) rüştiyesi = Tanzimat Dönemi (1859 Cevri Kalfa İnas Rüştiyesi).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q18",
@@ -84546,7 +84546,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Mülkiye Baytar Mektebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1889 yılında II. Abdülhamit döneminde ordunun ve taşranın hayvan sağlığı ve salgın hastalıklarla mücadelesi için sivil veteriner yetiştirmek amacıyla açılan okul 'Mülkiye Baytar Mektebi'dir (Mehmet Akif Ersoy bu okulun ilk mezunlarındandır ve birincilikle bitirmiştir).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ziraat Mektebi tarım okuludur.<br>• Lisan Mektebi dil okuludur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mülkiye Baytar Mektebi-i Âlisi (1889) ➔ Mehmet Akif Ersoy bu okulun ilk mezunudur."
+    "explanation": "Doğru Cevap: <strong>B (Mülkiye Baytar Mektebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında belirtildiği üzere II. Abdülhamit döneminde (1889) sivil veteriner hekim (hayvan doktoru) yetiştirmek amacıyla açılan kurum 'Mülkiye Baytar Mektebi'dir (Mehmet Akif Ersoy da bu okuldan mezun olmuştur).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hamidiye Ticaret Mektebi: Ticaret eğitimi verir.<br>• Darülelhan: Sivil müzik okuludur (konservatuvar).<br>• Darülbedayi: Tiyatro okuludur.<br>• Mekteb-i Hukuk-ı Şahane: Hukuk mektebidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Baytar = Veteriner hekim. Askerî veteriner için Hamidiye Baytar, sivil veteriner için Mülkiye Baytar Mektebi açılmıştır.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q19",
@@ -84584,7 +84584,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Mustafa Naima Efendi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nde devletin resmi tarih yazıcılığına 'Vakanüvislik' denir ve Osmanlı'nın ilk resmi vakanüvisi XVII. yüzyıl sonu / XVIII. yüzyıl başı tarihçisi Mustafa Nâimâ Efendi'dir (Tarih-i Nâimâ).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ahmet Cevdet Paşa XIX. yüzyıl vakanüvisidir.<br>• Hoca Sadettin Efendi Şehnamecidir.<br>• Katip Çelebi bibliyograftır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Resmi Vakanüvis = Nâimâ Efendi. Son Resmi Vakanüvis = Abdurrahman Şeref Efendi."
+    "explanation": "Doğru Cevap: <strong>D (Mustafa Naima Efendi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>10. ders anlatımında 'Tarih alanında kimler var?' başlığında özellikle vurgulandığı üzere; Osmanlı Devleti'nin ilk resmî tarih yazıcısı (ilk vakanüvisi) Halepli Mustafa Naima Efendi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Abdurrahman Şeref Bey: Osmanlı'nın son vakanüvisidir.<br>• Ahmet Cevdet Paşa: Tarih-i Cevdet, Kısas-ı Enbiya ve Mecelle'yi hazırlayan en büyük tarihçi ve hukukçudur.<br>• Yanyalı Esad Efendi: Lale Devri'nde 'Muallim-i Salis' unvanlı düşünürdür.<br>• Piri Reis: Kitab-ı Bahriye yazarı denizci ve coğrafyacıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>10. Ders Üçlüsü: İlk resmî tarih yazıcısı (Vakanüvis) = Mustafa Naima Efendi | Son vakanüvis = Abdurrahman Şeref Bey | En büyük tarihçi ve Mecelle başkanı = Ahmet Cevdet Paşa.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   },
   {
     "id": "tarih14_5_q20",
@@ -84622,6 +84622,6 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Tabhane)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı külliyelerinde şehre dışarıdan gelen yolcuların, tüccarların, seyyahların ve dervişlerin 3 gün boyunca ücretsiz konaklayıp barınabildikleri misafirhaneye 'Tabhâne' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten kapalı çarşıdır.<br>• Türbe mezardır.<br>• Şifahane hastanedir.<br>• Arasta tek tip dükkânlar sırasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tabhane = Külliyenin misafirhanesi / konukevi (Yolcu ve misafirler 3 gün ücretsiz ağırlanırdı)."
+    "explanation": "Doğru Cevap: <strong>B (Tabhane)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 29) ve 10. ders anlatımına göre; külliyelerin yanında misafirhane / konukevi (ve hastaların nekahat döneminde dinlendiği bakımevi) işleviyle kurulan mimari yapı 'Tabhane'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten: Değerli kumaş ve eşyaların satıldığı kapalı çarşıdır.<br>• Türbe: Anıt mezardır.<br>• Şifahane: Hastanedir.<br>• Arasta: Tek cins mal satan sıralı esnaf çarşısıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Konukevi / Misafirhane = Tabhane | Aşevi = İmarethane | Hastane = Şifahane / Darüşşifa / Bimaristan.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
   }
 ];
