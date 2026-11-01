@@ -289,7 +289,31 @@ class StorageService {
   // --- YANLIŞ HAVUZU (YANLIŞ DEFTERİ) ---
   getWrongPool() {
     try {
-      return JSON.parse(localStorage.getItem(this.KEYS.WRONG_POOL)) || [];
+      const pool = JSON.parse(localStorage.getItem(this.KEYS.WRONG_POOL)) || [];
+      let changed = false;
+      const migKey = 'ekys2027_wrong_pool_v242_fixed';
+      const needsDoubleCountFix = !localStorage.getItem(migKey);
+
+      pool.forEach(item => {
+        if (needsDoubleCountFix && Number(item.wrongCount) === 2) {
+          item.wrongCount = 1;
+          item.isCritical = false;
+          changed = true;
+        }
+        if ((item.srsStage || 1) >= 2 && (item.isCritical || Number(item.wrongCount) >= 2)) {
+          item.isCritical = false;
+          item.wrongCount = 1;
+          changed = true;
+        }
+      });
+
+      if (needsDoubleCountFix) {
+        localStorage.setItem(migKey, '1');
+      }
+      if (changed) {
+        localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
+      }
+      return pool;
     } catch (e) {
       return [];
     }
@@ -336,6 +360,8 @@ class StorageService {
 
     if (currentStage === 1) {
       item.srsStage = 2;
+      item.isCritical = false;
+      item.wrongCount = 1;
       item.lastReviewedDate = new Date(now).toISOString();
       item.nextReviewDate = new Date(now + 7 * 24 * 60 * 60 * 1000).toISOString();
       localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
@@ -343,6 +369,8 @@ class StorageService {
       return { status: 'advanced', stage: 2, days: 7 };
     } else if (currentStage === 2) {
       item.srsStage = 3;
+      item.isCritical = false;
+      item.wrongCount = 1;
       item.lastReviewedDate = new Date(now).toISOString();
       item.nextReviewDate = new Date(now + 30 * 24 * 60 * 60 * 1000).toISOString();
       localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
@@ -657,7 +685,14 @@ class StorageService {
           }
         }
       });
-      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
+      const mergedWrongs = Array.from(map.values()).map(item => {
+        if ((item.srsStage || 1) >= 2) {
+          item.isCritical = false;
+          item.wrongCount = 1;
+        }
+        return item;
+      });
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(mergedWrongs));
     }
 
     // 3. Yıldızlı Soruları Senkronize Et (Her zaman birleştir, yerel favoriler ASLA silinmez)

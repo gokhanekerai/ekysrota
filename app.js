@@ -3995,7 +3995,7 @@ class EKYSApp {
 
   startCriticalWrongPoolQuiz() {
     const wrongPool = window.storageService.getWrongPool();
-    const criticalList = wrongPool.filter(q => (Number(q.wrongCount) || 1) >= 2);
+    const criticalList = wrongPool.filter(q => (Number(q.wrongCount) || 1) >= 2 && (q.srsStage || 1) === 1);
 
     if (criticalList.length === 0) {
       this.showToast('2 veya daha fazla kez yanlış yapılan Kritik Soru bulunmuyor! Harika! 🎯', 'success');
@@ -4233,6 +4233,8 @@ class EKYSApp {
     // Yanlış havuza otomatik ekle / 1-7-30 Gün Aralıklı Tekrar ilerletmesi
     if (key !== q.correctAnswer) {
       window.storageService.addToWrongPool(q, key);
+      if (!this.activeQuiz.recordedWrongs) this.activeQuiz.recordedWrongs = {};
+      this.activeQuiz.recordedWrongs[q.id] = true;
       if (this.activeQuiz.topicId === 'wrong-pool') {
         this.showToast('⚠️ Tekrar yanlış yapıldı! Soru 1. Aşamaya (Kritik Soru) sıfırlandı.', 'error');
       }
@@ -4364,10 +4366,14 @@ class EKYSApp {
       }
     });
 
-    // Yanlış Defteri Güvenceleme: Bu testte yanlış yapılan soruları havuza ekle
+    // Yanlış Defteri Güvenceleme: Bu testte yanlış yapılan soruları (öğrenme modunda zaten kaydedilmediyse) havuza ekle
     if (this.activeQuiz.topicId !== 'wrong-pool' && quizWrongs.length > 0 && window.storageService) {
+      const recordedWrongs = this.activeQuiz.recordedWrongs || {};
       quizWrongs.forEach(item => {
-        window.storageService.addToWrongPool(item.question, item.userAnswer);
+        if (!recordedWrongs[item.question.id]) {
+          window.storageService.addToWrongPool(item.question, item.userAnswer);
+          recordedWrongs[item.question.id] = true;
+        }
       });
       if (typeof window.storageService.syncCloudImmediate === 'function') {
         window.storageService.syncCloudImmediate();
@@ -4682,7 +4688,7 @@ class EKYSApp {
 
       const isDue = !q.nextReviewDate || new Date(q.nextReviewDate).getTime() <= now;
       if (isDue) dueCount++;
-      if ((Number(q.wrongCount) || 1) >= 2) criticalCount++;
+      if ((Number(q.wrongCount) || 1) >= 2 && stg === 1) criticalCount++;
     });
 
     // Kritik soruları ve tekrar zamanı gelenleri en üste sırala
@@ -4741,9 +4747,9 @@ class EKYSApp {
 
       <div class="grid-cards">
         ${sortedPool.map(q => {
-          const wCount = Number(q.wrongCount) || 1;
-          const isCrit = wCount >= 2;
           const stg = q.srsStage || 1;
+          const wCount = stg >= 2 ? 1 : (Number(q.wrongCount) || 1);
+          const isCrit = wCount >= 2 && stg === 1;
           const nextTime = q.nextReviewDate ? new Date(q.nextReviewDate).getTime() : 0;
           const isDue = !nextTime || nextTime <= now;
           const daysLeft = isDue ? 0 : Math.max(1, Math.ceil((nextTime - now) / (1000 * 60 * 60 * 24)));
