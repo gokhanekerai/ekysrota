@@ -599,40 +599,22 @@ class StorageService {
       }
     }
 
-    // 2. Yanlış Havuzunu Senkronize Et
+    // 2. Yanlış Havuzunu Senkronize Et (Her zaman birleştir, yereldeki yanlışlar ASLA silinmez)
     if (Array.isArray(data.wrongPool)) {
-      if (isRealtimeSync) {
-        // Canlı bulut bildiriminde kullanıcının yaptığı silmeler/temizlemeler doğrudan kabul edilir
-        localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(data.wrongPool));
-      } else {
-        // Bulut havuzu boş ise (kullanıcı daha önce temizlemiş ise) yereli de boşalt
-        if (data.wrongPool.length === 0) {
-          localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify([]));
-        } else {
-          const localWrong = this.getWrongPool();
-          const map = new Map();
-          localWrong.forEach(q => { if (q && q.id) map.set(q.id, q); });
-          data.wrongPool.forEach(q => { if (q && q.id) map.set(q.id, q); });
-          localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
-        }
-      }
+      const localWrong = this.getWrongPool();
+      const map = new Map();
+      localWrong.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      data.wrongPool.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(Array.from(map.values())));
     }
 
-    // 3. Yıldızlı Soruları Senkronize Et
+    // 3. Yıldızlı Soruları Senkronize Et (Her zaman birleştir, yerel favoriler ASLA silinmez)
     if (Array.isArray(data.favorites)) {
-      if (isRealtimeSync) {
-        localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(data.favorites));
-      } else {
-        if (data.favorites.length === 0) {
-          localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify([]));
-        } else {
-          const localFav = this.getFavorites();
-          const map = new Map();
-          localFav.forEach(q => { if (q && q.id) map.set(q.id, q); });
-          data.favorites.forEach(q => { if (q && q.id) map.set(q.id, q); });
-          localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
-        }
-      }
+      const localFav = this.getFavorites();
+      const map = new Map();
+      localFav.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      data.favorites.forEach(q => { if (q && q.id) map.set(q.id, q); });
+      localStorage.setItem(this.KEYS.FAVORITES, JSON.stringify(Array.from(map.values())));
     }
 
     // 4. Özel Sorular

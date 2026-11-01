@@ -4274,6 +4274,7 @@ class EKYSApp {
     let wrong = 0;
     let empty = 0;
 
+    const quizWrongs = [];
     this.activeQuiz.questions.forEach((q, idx) => {
       const ans = this.activeQuiz.userAnswers[idx];
       if (ans === undefined) {
@@ -4282,8 +4283,19 @@ class EKYSApp {
         correct++;
       } else {
         wrong++;
+        quizWrongs.push({ question: q, userAnswer: ans });
       }
     });
+
+    // Yanlış Defteri Güvenceleme: Bu testte yanlış yapılan soruları havuza ekle
+    if (this.activeQuiz.topicId !== 'wrong-pool' && quizWrongs.length > 0 && window.storageService) {
+      quizWrongs.forEach(item => {
+        window.storageService.addToWrongPool(item.question, item.userAnswer);
+      });
+      if (typeof window.storageService.syncCloudImmediate === 'function') {
+        window.storageService.syncCloudImmediate();
+      }
+    }
 
     const total = this.activeQuiz.questions.length;
     // EKYS Kuralı: Yanlış doğruyu götürmez. Puan 100 tam puan üzerinden hesaplanır.
@@ -4336,6 +4348,42 @@ class EKYSApp {
     }
 
     this.navigateTo('quiz-result');
+  }
+
+  startCurrentQuizWrongs() {
+    if (!this.activeQuiz || !this.activeQuiz.questions) {
+      this.startWrongPoolQuiz();
+      return;
+    }
+    const currentTestWrongs = [];
+    this.activeQuiz.questions.forEach((q, idx) => {
+      const ans = this.activeQuiz.userAnswers[idx];
+      if (ans !== undefined && ans !== q.correctAnswer) {
+        currentTestWrongs.push(q);
+      }
+    });
+    if (currentTestWrongs.length === 0) {
+      this.showToast('Bu testte yanlışınız bulunmuyor! Tebrikler! 🎉', 'success');
+      return;
+    }
+    this.activeQuiz = {
+      title: '📕 ' + (this.activeQuiz.title || 'Test') + ' - Yanlış Sorular (' + currentTestWrongs.length + ' Soru)',
+      topicId: 'wrong-pool',
+      mode: 'practice',
+      questions: [...currentTestWrongs],
+      currentIndex: 0,
+      userAnswers: {},
+      struckOptions: {},
+      starred: {},
+      isFinished: false,
+      startTime: Date.now(),
+      durationSeconds: 0,
+      elapsedSeconds: 0
+    };
+    this.navigateTo('quiz-active');
+    this.startQuizTimer();
+    this.renderCurrentQuestion();
+    this.showToast('Yanlış Sorular Testi başlatıldı (' + currentTestWrongs.length + ' Soru)', 'info');
   }
 
   retryCurrentQuiz() {
