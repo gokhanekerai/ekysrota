@@ -119,7 +119,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌍",
     "questionNumber": 4,
-    "questionText": "Aşağıda matematik konumları verilen noktalardan hangisi Türkiye sınırları içinde yer alır?\n(Türkiye: 36°-42° Kuzey Paralelleri ile 26°-45° Doğu Meridyenleri)",
+    "questionText": "Aşağıda matematik konumları verilen noktalardan hangisi Türkiye sınırları içinde yer alır? (Türkiye: 36°-42° Kuzey Paralelleri ile 26°-45° Doğu Meridyenleri)",
     "hasImage": false,
     "image": null,
     "options": [
@@ -304,7 +304,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌍",
     "questionNumber": 9,
-    "questionText": "Bolu'dan Muğla'ya giden bir gözlemci;\nI. Yerel saat\nII. Ulusal saat\nIII. Gölge boyu\ngibi özelliklerden hangilerinde değişiklik gözlemlemez?",
+    "questionText": "Bolu'dan Muğla'ya giden bir gözlemci;\nI. Yerel saat\nII. Ulusal saat\nIII. Gölge boyu gibi özelliklerden hangilerinde değişiklik gözlemlemez?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -933,7 +933,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌍",
     "questionNumber": 6,
-    "questionText": "Kırşehir'den yola çıkan bir araştırma grubu ulaştığı yerin;\n• Yerel saatinin daha geri (Batıya gitmiş)\n• Çizgisel hızının daha fazla (Güneye gitmiş)\n• Grup ve tan süresinin daha kısa (Güneye gitmiş)\nolduğunu gözlemlemiştir.\n\nBu araştırma grubu haritada gösterilen ok yönlerinden hangisine doğru gitmiştir?",
+    "questionText": "Kırşehir'den yola çıkan bir araştırma grubu ulaştığı yerin;\n• Yerel saatinin daha geri (Batıya gitmiş)\n• Çizgisel hızının daha fazla (Güneye gitmiş)\n• Grup ve tan süresinin daha kısa (Güneye gitmiş) olduğunu gözlemlemiştir.\n\nBu araştırma grubu haritada gösterilen ok yönlerinden hangisine doğru gitmiştir?",
     "hasImage": true,
     "image": "assets/questions/cogr2_q6_map.png",
     "options": [
@@ -4640,7 +4640,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌦️",
     "questionNumber": 11,
-    "questionText": "Antalya - Mersin çevresinde tropikal bölge bitkilerinden olan muzun yetiştirilmesinde;\nI. iklim özellikleri,\nII. kıyıya paralel uzanan dağlar,\nIII. kalkerli arazi yapısı\nverilenlerden hangileri etkilidir?",
+    "questionText": "Antalya - Mersin çevresinde tropikal bölge bitkilerinden olan muzun yetiştirilmesinde;\nI. iklim özellikleri,\nII. kıyıya paralel uzanan dağlar,\nIII. kalkerli arazi yapısı verilenlerden hangileri etkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -4973,7 +4973,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🗺️",
     "questionNumber": 4,
-    "questionText": "Aşağıda Türkiye'nin uç noktalarından geçen paralel ve meridyen dereceleri gösterilmiştir.\nYalnızca paralel ve meridyen dereceleri dikkate alınarak Türkiye ile ilgili aşağıdaki sorulardan hangisinin cevabına ulaşılamaz?",
+    "questionText": "Aşağıda Türkiye'nin uç noktalarından geçen paralel ve meridyen dereceleri gösterilmiştir. Yalnızca paralel ve meridyen dereceleri dikkate alınarak Türkiye ile ilgili aşağıdaki sorulardan hangisinin cevabına ulaşılamaz?",
     "hasImage": true,
     "image": "assets/questions/cogr_h1_q4_img.png",
     "options": [
@@ -5343,7 +5343,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🗺️",
     "questionNumber": 14,
-    "questionText": "Antalya, Burdur ve Bilecik illerinin yerel saatleri birbirine yakındır.\nBu durum illerin hangi yönden benzer olduğunu kanıtlar?",
+    "questionText": "Antalya, Burdur ve Bilecik illerinin yerel saatleri birbirine yakındır. Bu durum illerin hangi yönden benzer olduğunu kanıtlar?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -5380,7 +5380,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🗺️",
     "questionNumber": 15,
-    "questionText": "Aşağıda Türkiye haritası üzerinde bazı merkezler numaralandırılarak verilmiştir.\nBuna göre,\nI. Yıl boyunca aynı anda eşdeğer cisimlerin gölgesi III numaralı merkezde daha uzundur.\nII. Yıl boyunca en uzun gündüz I numaralı merkezde yaşanır.\nIII. II ve IV numaralı merkezlerin yıllık sıcaklık ortalaması benzerdir.\nverilenlerden hangileri söylenebilir?",
+    "questionText": "Aşağıda Türkiye haritası üzerinde bazı merkezler numaralandırılarak verilmiştir.\nBuna göre,\nI. Yıl boyunca aynı anda eşdeğer cisimlerin gölgesi III numaralı merkezde daha uzundur.\nII. Yıl boyunca en uzun gündüz I numaralı merkezde yaşanır.\nIII. II ve IV numaralı merkezlerin yıllık sıcaklık ortalaması benzerdir. verilenlerden hangileri söylenebilir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h1_q15_img.png",
     "options": [
@@ -5491,7 +5491,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🗺️",
     "questionNumber": 18,
-    "questionText": "Türkiye, matematik iklim kuşaklarından olan orta kuşak içerisinde yer almaktadır.\nAşağıdakilerden hangisi bu durumun sonuçları arasında yer almaz?",
+    "questionText": "Türkiye, matematik iklim kuşaklarından olan orta kuşak içerisinde yer almaktadır. Aşağıdakilerden hangisi bu durumun sonuçları arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -5972,7 +5972,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🗺️",
     "questionNumber": 11,
-    "questionText": "Aşağıda Türkiye haritası üzerinde dört farklı alan işaretlenmiştir.\nBu alanlardan hangi ikisinde rüzgâr aşındırma ve biriktirme şekillerine daha çok rastlanır?",
+    "questionText": "Aşağıda Türkiye haritası üzerinde dört farklı alan işaretlenmiştir. Bu alanlardan hangi ikisinde rüzgâr aşındırma ve biriktirme şekillerine daha çok rastlanır?",
     "hasImage": true,
     "image": "assets/questions/cogr_h1_q31_img.png?v=227.0",
     "options": [
@@ -10486,7 +10486,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 3,
-    "questionText": "İslamiyet öncesi Türk devletlerinde;\nI. Sanat\nII. Askerlik\nIII. Hukuk\nalanlarından hangileri göçebe yaşam tarzından etkilenmiştir?",
+    "questionText": "İslamiyet öncesi Türk devletlerinde;\nI. Sanat\nII. Askerlik\nIII. Hukuk alanlarından hangileri göçebe yaşam tarzından etkilenmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -10634,7 +10634,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 7,
-    "questionText": "İslamiyet öncesi Türk devletlerinde görülen;\nI. Sınıfsal farkların olmaması\nII. Mimarinin gelişmesi\nIII. Askerî teşkilatın güçlenmesi\ngelişmelerinin hangilerinde göçebe yaşam tarzının etkisinden söz edilebilir?",
+    "questionText": "İslamiyet öncesi Türk devletlerinde görülen;\nI. Sınıfsal farkların olmaması\nII. Mimarinin gelişmesi\nIII. Askerî teşkilatın güçlenmesi gelişmelerinin hangilerinde göçebe yaşam tarzının etkisinden söz edilebilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -10745,7 +10745,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 10,
-    "questionText": "Kurultayın ilk Türk devletlerinde;\nI. Yasama\nII. Askerî\nIII. Siyasi\nalanlarından hangilerinde rol oynadığı savunulabilir?",
+    "questionText": "Kurultayın ilk Türk devletlerinde;\nI. Yasama\nII. Askerî\nIII. Siyasi alanlarından hangilerinde rol oynadığı savunulabilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -10819,7 +10819,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 12,
-    "questionText": "İslamiyet öncesi Türk devletlerinde;\nI. Monarşik\nII. Teokratik\nIII. Federal\nyönetim anlayışlarından hangileri görülür?",
+    "questionText": "İslamiyet öncesi Türk devletlerinde;\nI. Monarşik\nII. Teokratik\nIII. Federal yönetim anlayışlarından hangileri görülür?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -11781,7 +11781,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 19,
-    "questionText": "Türk devletlerinde \"Ülke toprakları hükümdar ailesinin ortak malıdır.\" anlayışı benimsenmiştir.\n\nBu durumun;\nI. Taht kavgalarının yaşanması\nII. Türk devletlerinin kısa sürede yıkılması\nIII. Merkezî otoritenin güçlü olması\nsonuçlarından hangilerini ortaya çıkardığı söylenebilir?",
+    "questionText": "Türk devletlerinde \"Ülke toprakları hükümdar ailesinin ortak malıdır.\" anlayışı benimsenmiştir.\n\nBu durumun;\nI. Taht kavgalarının yaşanması\nII. Türk devletlerinin kısa sürede yıkılması\nIII. Merkezî otoritenin güçlü olması sonuçlarından hangilerini ortaya çıkardığı söylenebilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -12595,7 +12595,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 21,
-    "questionText": "Mustafa Kemal, TBMM'nin açılmasından bir gün sonra, 24 Nisan 1920'de verdiği önergede \"Hükûmet kurmak zorunludur.\" ifadesini kullanmıştır.\n\nBu ifadeden hareketle\nI. İstanbul Hükûmeti'nin yok sayıldığı,\nII. yürütme gücünün TBMM'de olduğu,\nIII. çok partili sistemin benimsendiği\nyargılarından hangilerine ulaşılabilir?",
+    "questionText": "Mustafa Kemal, TBMM'nin açılmasından bir gün sonra, 24 Nisan 1920'de verdiği önergede \"Hükûmet kurmak zorunludur.\" ifadesini kullanmıştır.\n\nBu ifadeden hareketle\nI. İstanbul Hükûmeti'nin yok sayıldığı,\nII. yürütme gücünün TBMM'de olduğu,\nIII. çok partili sistemin benimsendiği yargılarından hangilerine ulaşılabilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -13076,7 +13076,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Eğitim Yönetimi (%30)",
     "icon": "🎓",
     "questionNumber": 34,
-    "questionText": "Bir okuldaki 200 öğrenci, benzer içerikte hazırlanan iki sınava katılmış ve bu sınav sonuçlarına göre başarılı ve başarısız olarak sınıflandırılmıştır. Bu sınıflama sonucunda elde edilen başarılı ve başarısız öğrenci sayıları aşağıdaki tabloda verilmiştir:\n\n| | II. Sınav: Başarılı | II. Sınav: Başarısız |\n|---|:---:|:---:|\n| I. Sınav: Başarılı | 145 | 15 |\n| I. Sınav: Başarısız | 5 | 35 |\n\nBuna göre öğrencilerin sınıflandırılmasına ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "questionText": "Bir okuldaki 200 öğrenci, benzer içerikte hazırlanan iki sınava katılmış ve bu sınav sonuçlarına göre başarılı ve başarısız olarak sınıflandırılmıştır. Bu sınıflama sonucunda elde edilen başarılı ve başarısız öğrenci sayıları aşağıdaki tabloda verilmiştir:\n\n| | II. Sınav: Başarılı | II. Sınav: Başarısız | |---|:---:|:---:| | I. Sınav: Başarılı | 145 | 15 | | I. Sınav: Başarısız | 5 | 35 |\n\nBuna göre öğrencilerin sınıflandırılmasına ilişkin aşağıdakilerden hangisi yanlıştır?",
     "hasImage": true,
     "image": "assets/questions/ekys2026_q34_table.png",
     "options": [
@@ -24022,7 +24022,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "2022 EKYS - İnkılap Tarihi",
     "category": "İnkılap Tarihi",
     "questionNumber": 19,
-    "questionText": "Amasya Genelgesi'nde yer alan;\n'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.'\nmaddesi Millî Mücadele'nin hangi temel niteliğini ortaya koymuştur?",
+    "questionText": "Amasya Genelgesi'nde yer alan;\n'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' maddesi Millî Mücadele'nin hangi temel niteliğini ortaya koymuştur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -25822,7 +25822,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "2022 EKYS - 1739 Sayılı Kanun",
     "category": "Mevzuat",
     "questionNumber": 69,
-    "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre;\n'Eğitim kurumları dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açıktır. Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.'\nilkesi aşağıdakilerden hangisidir?",
+    "questionText": "1739 sayılı Millî Eğitim Temel Kanunu'na göre;\n'Eğitim kurumları dil, ırk, cinsiyet, engellilik ve din ayırımı gözetilmeksizin herkese açıktır. Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.' ilkesi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -34573,7 +34573,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 5,
-    "questionText": "Yaklaşık aynı boylam üzerinde yer alan Kütahya ile İzmit illerinin;\nI. Yerel saatleri\nII. Gece-gündüz süreleri\nIII. Başlangıç meridyenine uzaklıkları\ngibi özelliklerden hangilerinin yıl boyunca ortak olması beklenir?",
+    "questionText": "Yaklaşık aynı boylam üzerinde yer alan Kütahya ile İzmit illerinin;\nI. Yerel saatleri\nII. Gece-gündüz süreleri\nIII. Başlangıç meridyenine uzaklıkları gibi özelliklerden hangilerinin yıl boyunca ortak olması beklenir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -34610,7 +34610,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 6,
-    "questionText": "Haritada gösterilen merkezlerin bulunduğu yerler gözönüne alınarak;\nI. 23 Eylül'de İzmir ve Ankara'da gündüz süresi aynıdır.\nII. Güneş İzmir'de diğer merkezlere göre daha geç doğar.\nIII. Ulusal saat ile yerel saat arasındaki farkın en fazla olduğu merkez Şanlıurfa'dır.\nIV. Kocaeli'nin yerel saati İzmir'e göre daha geridir.\nyargılardan hangisine ulaşılamaz?",
+    "questionText": "Haritada gösterilen merkezlerin bulunduğu yerler gözönüne alınarak;\nI. 23 Eylül'de İzmir ve Ankara'da gündüz süresi aynıdır.\nII. Güneş İzmir'de diğer merkezlere göre daha geç doğar.\nIII. Ulusal saat ile yerel saat arasındaki farkın en fazla olduğu merkez Şanlıurfa'dır.\nIV. Kocaeli'nin yerel saati İzmir'e göre daha geridir. yargılardan hangisine ulaşılamaz?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q6.png",
     "options": [
@@ -34832,7 +34832,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 12,
-    "questionText": "Aşağıdaki haritada gösterilen üç kentte yıl boyunca öğle vaktinde cisimlerin oluşan gölge boyları yaklaşık olarak aynıdır.\nBu durumun ortaya çıkmasında aşağıdakilerden hangisi diğerlerine göre daha etkilidir?",
+    "questionText": "Aşağıdaki haritada gösterilen üç kentte yıl boyunca öğle vaktinde cisimlerin oluşan gölge boyları yaklaşık olarak aynıdır. Bu durumun ortaya çıkmasında aşağıdakilerden hangisi diğerlerine göre daha etkilidir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q12.png",
     "options": [
@@ -34906,7 +34906,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 14,
-    "questionText": "Türkiye 36°-42° kuzey paralelleri ile 26°-45° doğu meridyenleri arasında yer almaktadır.\nBuna göre;\nI. Mevsimler arası sıcaklık değişiminin belirgin olması\nII. Üç kıtanın birbirine en çok yaklaştığı yerde olması\nIII. 21 Haziran'da İzmir'de yaşanan gündüz süresinin Antalya'dan uzun olması\nIV. Yer altı kaynaklarının çeşitliliği bakımından zengin olması\ndurumlarından hangileri Türkiye'nin sahip olduğu matematik konum ile açıklanabilir?",
+    "questionText": "Türkiye 36°-42° kuzey paralelleri ile 26°-45° doğu meridyenleri arasında yer almaktadır.\nBuna göre;\nI. Mevsimler arası sıcaklık değişiminin belirgin olması\nII. Üç kıtanın birbirine en çok yaklaştığı yerde olması\nIII. 21 Haziran'da İzmir'de yaşanan gündüz süresinin Antalya'dan uzun olması\nIV. Yer altı kaynaklarının çeşitliliği bakımından zengin olması durumlarından hangileri Türkiye'nin sahip olduğu matematik konum ile açıklanabilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -34943,7 +34943,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 15,
-    "questionText": "Haritadaki ok yönünde ilerlendiğinde;\nI. Güneş ışınlarının düşme açısı küçülür.\nII. Cisimlerin gölge boyu uzar.\nIII. Çizgisel hız artar.\nIV. Gurup ve tan süresi kısalır.\ngibi olaylardan hangilerinin yaşanması beklenir?",
+    "questionText": "Haritadaki ok yönünde ilerlendiğinde;\nI. Güneş ışınlarının düşme açısı küçülür.\nII. Cisimlerin gölge boyu uzar.\nIII. Çizgisel hız artar.\nIV. Gurup ve tan süresi kısalır. gibi olaylardan hangilerinin yaşanması beklenir?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_1_q15.png",
     "options": [
@@ -35313,7 +35313,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 7,
-    "questionText": "Türkiye, mutlak konuma bağlı orta kuşak ülkesidir. Bu durum ülkede dört mevsim özelliğinin yaşanmasında temel sebeptir.\n\nBuna göre;\nI. Tarım ürünlerinin çeşitlilik göstermesi\nII. Doğal bitki örtüsünün çeşitlilik göstermesi\nIII. Yaz ve kış turizmine elverişli olması\nIV. Kuzeye gittikçe gölge boylarının uzaması\ngibi durumlardan hangileri yukarıda verilen açıklamaya bağlı olarak ortaya çıkmaz?",
+    "questionText": "Türkiye, mutlak konuma bağlı orta kuşak ülkesidir. Bu durum ülkede dört mevsim özelliğinin yaşanmasında temel sebeptir.\n\nBuna göre;\nI. Tarım ürünlerinin çeşitlilik göstermesi\nII. Doğal bitki örtüsünün çeşitlilik göstermesi\nIII. Yaz ve kış turizmine elverişli olması\nIV. Kuzeye gittikçe gölge boylarının uzaması gibi durumlardan hangileri yukarıda verilen açıklamaya bağlı olarak ortaya çıkmaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -35350,7 +35350,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🧭",
     "questionNumber": 8,
-    "questionText": "Dünya üzerinde herhangi bir yerin kıtalara, komşularına, önemli geçitlere, boğazlara, su yollarına, ticaret merkezlerine ve denizlere göre durumu ile fiziki ve beşerî özellikleri o yerin göreceli konumunu belirler.\n\nBuna göre yukarıda verilen Türkiye haritasında A merkezinden (Ege kıyıları) B merkezine (Doğu Anadolu) hareket edildiğinde özel konuma bağlı olarak;\nI. Buharlaşma oranı azalır.\nII. Öğle vaktinde güneş ışığının tutulma oranı eşittir.\nIII. Karın yerde kalma süresi değişir.\nIV. Gündüz süreleri eşittir.\ngibi durumlardan hangileri ortaya çıkar?",
+    "questionText": "Dünya üzerinde herhangi bir yerin kıtalara, komşularına, önemli geçitlere, boğazlara, su yollarına, ticaret merkezlerine ve denizlere göre durumu ile fiziki ve beşerî özellikleri o yerin göreceli konumunu belirler.\n\nBuna göre yukarıda verilen Türkiye haritasında A merkezinden (Ege kıyıları) B merkezine (Doğu Anadolu) hareket edildiğinde özel konuma bağlı olarak;\nI. Buharlaşma oranı azalır.\nII. Öğle vaktinde güneş ışığının tutulma oranı eşittir.\nIII. Karın yerde kalma süresi değişir.\nIV. Gündüz süreleri eşittir. gibi durumlardan hangileri ortaya çıkar?",
     "hasImage": true,
     "image": "assets/questions/cogr_test_4_q8.png",
     "options": [
@@ -38467,7 +38467,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 3,
-    "questionText": "Türkiye'de yer şekillerinin engebeli olması;\nI. Su erozyonunun şiddetli olması\nII. Tarımda sulama sorunu yaşanması\nIII. Alüvyal tabanlı vadilerin görülmesi\nIV. Büyük bir bölümünün I. derecede deprem kuşağında bulunması\ngibi özelliklerden hangilerine doğrudan neden olduğu söylenebilir?",
+    "questionText": "Türkiye'de yer şekillerinin engebeli olması;\nI. Su erozyonunun şiddetli olması\nII. Tarımda sulama sorunu yaşanması\nIII. Alüvyal tabanlı vadilerin görülmesi\nIV. Büyük bir bölümünün I. derecede deprem kuşağında bulunması gibi özelliklerden hangilerine doğrudan neden olduğu söylenebilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -38541,7 +38541,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 5,
-    "questionText": "Türkiye, Alp Orojenezi ile birlikte III. ve IV. Jeolojik zamanlarda toptan yükselen bir ülkedir. Genç araziye sahip olması birçok sonuç ortaya çıkarmaktadır.\nAşağıdakilerden hangisi Alp Orojenezi'ne bağlı olarak ortaya çıkmamıştır?",
+    "questionText": "Türkiye, Alp Orojenezi ile birlikte III. ve IV. Jeolojik zamanlarda toptan yükselen bir ülkedir. Genç araziye sahip olması birçok sonuç ortaya çıkarmaktadır. Aşağıdakilerden hangisi Alp Orojenezi'ne bağlı olarak ortaya çıkmamıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -38800,7 +38800,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 12,
-    "questionText": "Doğu Anadolu Bölgesi'nden doğan ve buradan beslenen akarsuların taşıdığı su miktarı kış mevsiminde en azdır.\nBöyle bir durumu ortaya çıkaran başlıca etken aşağıdakilerden hangisidir?",
+    "questionText": "Doğu Anadolu Bölgesi'nden doğan ve buradan beslenen akarsuların taşıdığı su miktarı kış mevsiminde en azdır. Böyle bir durumu ortaya çıkaran başlıca etken aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -39133,7 +39133,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 3,
-    "questionText": "Beslenme kaynaklarına göre akarsuların taşıdıkları su potansiyelleri, yıl içerisinde farklılık gösterir.\n\nBuna göre;\nI. Gediz\nII. Fırat\nIII. Aras\nIV. Çoruh\ngibi akarsulardan hangisinin debisi kış döneminde en fazladır?",
+    "questionText": "Beslenme kaynaklarına göre akarsuların taşıdıkları su potansiyelleri, yıl içerisinde farklılık gösterir.\n\nBuna göre;\nI. Gediz\nII. Fırat\nIII. Aras\nIV. Çoruh gibi akarsulardan hangisinin debisi kış döneminde en fazladır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -39244,7 +39244,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 6,
-    "questionText": "Türkiye'de akarsulardan;\nI. Taşımacılık\nII. Sulama\nIII. Elektrik üretme\nIV. Balıkçılık\nalanlarının hangilerinden en yaygın ve en yüksek ekonomik katkıyla yararlanılır?",
+    "questionText": "Türkiye'de akarsulardan;\nI. Taşımacılık\nII. Sulama\nIII. Elektrik üretme\nIV. Balıkçılık alanlarının hangilerinden en yaygın ve en yüksek ekonomik katkıyla yararlanılır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -39429,7 +39429,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌊",
     "questionNumber": 11,
-    "questionText": "Türkiye akarsularının;\nI. Boylarının kısa olması\nII. Hidroelektrik enerji potansiyellerinin yüksek olması\nIII. Taşımacılığa elverişli olmamaları\nözellikleri Türkiye'nin aşağıdaki özelliklerinden hangisinin bir sonucudur?",
+    "questionText": "Türkiye akarsularının;\nI. Boylarının kısa olması\nII. Hidroelektrik enerji potansiyellerinin yüksek olması\nIII. Taşımacılığa elverişli olmamaları özellikleri Türkiye'nin aşağıdaki özelliklerinden hangisinin bir sonucudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -40539,7 +40539,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🌾",
     "questionNumber": 5,
-    "questionText": "Aşağıda verilen ova ve oluşum şekli eşleştirmelerinden hangisi yanlıştır?\n\n        Ova                 Oluşum Şekli\nA) Çarşamba             Delta\nB) Çukurova             Delta\nC) Suluova              Tektonik\nD) Iğdır                Tektonik\nE) Menemen              Karstik",
+    "questionText": "Aşağıda verilen ova ve oluşum şekli eşleştirmelerinden hangisi yanlıştır?\n\nOva                 Oluşum Şekli\nA) Çarşamba             Delta\nB) Çukurova             Delta\nC) Suluova              Tektonik\nD) Iğdır                Tektonik\nE) Menemen              Karstik",
     "hasImage": false,
     "image": null,
     "options": [
@@ -49483,7 +49483,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🐑",
     "questionNumber": 2,
-    "questionText": "Türkiye'de hayvancılık faaliyetinin potansiyeli yüksektir. Ancak genel olarak elde edilen verim ve gelir düşüktür. Bu durumun ortaya çıkmasındaki ana etken yaygın bir şekilde bu faaliyetin doğal koşullara bağlı olarak yapılmasıdır.\n\nBuna göre;\nI. Kümes hayvancılığı\nII. Büyükbaş mera hayvancılığı\nIII. Arıcılık\ngibi hayvancılık faaliyetlerinin hangilerinin doğal koşullara bağlılığı en azdır?",
+    "questionText": "Türkiye'de hayvancılık faaliyetinin potansiyeli yüksektir. Ancak genel olarak elde edilen verim ve gelir düşüktür. Bu durumun ortaya çıkmasındaki ana etken yaygın bir şekilde bu faaliyetin doğal koşullara bağlı olarak yapılmasıdır.\n\nBuna göre;\nI. Kümes hayvancılığı\nII. Büyükbaş mera hayvancılığı\nIII. Arıcılık gibi hayvancılık faaliyetlerinin hangilerinin doğal koşullara bağlılığı en azdır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -60437,7 +60437,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "📜",
     "questionNumber": 8,
-    "questionText": "• Minyatür resim sanatı olarak ilk kez ortaya çıkmıştır.\n• Mimari yapıda kubbeden yararlanmışlardır.\n• Kâğıt kullanan ilk Türk devletidir.\nBazı özellikleri verilen devlet aşağıdakilerden hangisidir?",
+    "questionText": "• Minyatür resim sanatı olarak ilk kez ortaya çıkmıştır.\n• Mimari yapıda kubbeden yararlanmışlardır.\n• Kâğıt kullanan ilk Türk devletidir. Bazı özellikleri verilen devlet aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -61436,7 +61436,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "📜",
     "questionNumber": 15,
-    "questionText": "Türk-İslam devletlerindeki hukuk sistemi hakkında;\nI. Şer’i ve örfi hukuk birlikte uygulanmıştır.\nII. Şer’i davalara kadılar bakmıştır.\nIII. Örfi hukukun temelini töre oluşturmuştur.\nyargılarından hangilerine ulaşılabilir?",
+    "questionText": "Türk-İslam devletlerindeki hukuk sistemi hakkında;\nI. Şer’i ve örfi hukuk birlikte uygulanmıştır.\nII. Şer’i davalara kadılar bakmıştır.\nIII. Örfi hukukun temelini töre oluşturmuştur. yargılarından hangilerine ulaşılabilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -61547,7 +61547,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 3,
-    "questionText": "Sınıfında e-öğrenme yaklaşımını kullanmayı planlayan Nilay Öğretmen ve meslektaşı arasında şu konuşma geçmektedir:\n\nNilay Öğretmen: \"İnternet tabanlı e-öğrenme, bilgiye erişim kolaylığı sağlasa da beraberinde doğru ve güvenilir bilgiye ulaşma sorununu da getirdi. Özellikle dijital ortamlardaki yoğun bilgi kirliliği; bireylerin ulaştığı bilginin doğruluğunu, güvenilirliğini, kaynağını sorgulamayı, kaynaklara ilişkin araştırma ve karşılaştırma yapmayı zorunlu kıldı.\"\nVeysel Öğretmen: \"Öğrenciler de bu durumun farkında olmalı ve gerekeni yapmalı ki e-öğrenme ortamlarından en üst düzeyde faydalanabilsinler.\"\n\nBu öğretmenlerin özellikle vurgu yaptığı beceri aşağıdakilerden hangisidir?",
+    "questionText": "Sınıfında e-öğrenme yaklaşımını kullanmayı planlayan Nilay Öğretmen ve meslektaşı arasında şu konuşma geçmektedir:\n\nNilay Öğretmen: \"İnternet tabanlı e-öğrenme, bilgiye erişim kolaylığı sağlasa da beraberinde doğru ve güvenilir bilgiye ulaşma sorununu da getirdi. Özellikle dijital ortamlardaki yoğun bilgi kirliliği; bireylerin ulaştığı bilginin doğruluğunu, güvenilirliğini, kaynağını sorgulamayı, kaynaklara ilişkin araştırma ve karşılaştırma yapmayı zorunlu kıldı.\" Veysel Öğretmen: \"Öğrenciler de bu durumun farkında olmalı ve gerekeni yapmalı ki e-öğrenme ortamlarından en üst düzeyde faydalanabilsinler.\"\n\nBu öğretmenlerin özellikle vurgu yaptığı beceri aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -62209,7 +62209,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 5,
-    "questionText": "Türklerin İslamiyet'i kabul etmelerinden sonra, ilk Türk-İslam devletlerinde;\nI. Sanat\nII. Kut\nIII. Vergi\nIV. Veraset\nalanlarından hangilerinde bir değişim olmamıştır?",
+    "questionText": "Türklerin İslamiyet'i kabul etmelerinden sonra, ilk Türk-İslam devletlerinde;\nI. Sanat\nII. Kut\nIII. Vergi\nIV. Veraset alanlarından hangilerinde bir değişim olmamıştır?",
     "hasImage": false,
     "options": [
       {
@@ -63037,7 +63037,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 8,
-    "questionText": "Türkiye Selçukluları hükümdarlarının kullandıkları;\nI. Keykubad\nII. Keyhüsrev\nIII. Keykavus\nunvanlarından hangilerinde Fars (İran) kültürünün etkisi vardır?",
+    "questionText": "Türkiye Selçukluları hükümdarlarının kullandıkları;\nI. Keykubad\nII. Keyhüsrev\nIII. Keykavus unvanlarından hangilerinde Fars (İran) kültürünün etkisi vardır?",
     "hasImage": false,
     "options": [
       {
@@ -63433,7 +63433,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 19,
-    "questionText": "Büyük Selçuklularda;\nI. Eyalet (İkta) Askerleri\nII. Gulâmân-ı Saray\nIII. Hassa Ordusu\nbirliklerinden hangilerine doğrudan devlet hazinesinden maaş (bistegâni) ödemesi yapılmıştır?\n\n(Not: 2027 yeni MEB müfredatına göre)",
+    "questionText": "Büyük Selçuklularda;\nI. Eyalet (İkta) Askerleri\nII. Gulâmân-ı Saray\nIII. Hassa Ordusu birliklerinden hangilerine doğrudan devlet hazinesinden maaş (bistegâni) ödemesi yapılmıştır?\n\n(Not: 2027 yeni MEB müfredatına göre)",
     "hasImage": false,
     "options": [
       {
@@ -63469,7 +63469,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 20,
-    "questionText": "Büyük Selçuklu ordusunun oluşmasında;\nI. İkta\nII. Vakıf\nIII. Lonca\nsistemlerinden hangilerinin doğrudan etkili olduğu söylenebilir?",
+    "questionText": "Büyük Selçuklu ordusunun oluşmasında;\nI. İkta\nII. Vakıf\nIII. Lonca sistemlerinden hangilerinin doğrudan etkili olduğu söylenebilir?",
     "hasImage": false,
     "options": [
       {
@@ -69067,7 +69067,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "📜",
     "questionNumber": 4,
-    "questionText": "Anadolu Selçukluları Zamanı'nda, uç bölgelerde görev alan Türkmen beylerinin boy ve oymaklarıyla gelerek buralarda yerleşmelerinin;\nI. bölgede nüfusun artması,\nII. sınırların korunması,\nIII. Anadolu'nun Türkleşmesine katkısı olması\ndurumlarından hangilerine ortam hazırladığı savunulabilir?",
+    "questionText": "Anadolu Selçukluları Zamanı'nda, uç bölgelerde görev alan Türkmen beylerinin boy ve oymaklarıyla gelerek buralarda yerleşmelerinin;\nI. bölgede nüfusun artması,\nII. sınırların korunması,\nIII. Anadolu'nun Türkleşmesine katkısı olması durumlarından hangilerine ortam hazırladığı savunulabilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -69622,7 +69622,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 1,
-    "questionText": "Osmanlı Devleti’nin Klasik Dönem hukuk sistemini oluşturmasında;\nI. İslam hukuku,\nII. Türk gelenekleri (örfi),\nIII. fethedilen yerlerdeki uygulamalar\ndurumlarından hangileri etkili olmuştur?",
+    "questionText": "Osmanlı Devleti’nin Klasik Dönem hukuk sistemini oluşturmasında;\nI. İslam hukuku,\nII. Türk gelenekleri (örfi),\nIII. fethedilen yerlerdeki uygulamalar durumlarından hangileri etkili olmuştur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -69807,7 +69807,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "📜",
     "questionNumber": 14,
-    "questionText": "Anadolu Selçuklu Devleti'nde;\nI. Esnaflar arası ilişkileri düzenlemek\nII. Üretim kalitesini ve fiyatları denetlemek\nIII. Mesleki ve ahlaki eğitim vermek\ngibi görevleri üstlenen sosyoekonomik teşkilat aşağıdakilerden hangisidir?",
+    "questionText": "Anadolu Selçuklu Devleti'nde;\nI. Esnaflar arası ilişkileri düzenlemek\nII. Üretim kalitesini ve fiyatları denetlemek\nIII. Mesleki ve ahlaki eğitim vermek gibi görevleri üstlenen sosyoekonomik teşkilat aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -70806,7 +70806,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "📜",
     "questionNumber": 14,
-    "questionText": "I. Teokrasi\nII. Mutlakiyet\nIII. Meşrutiyet\nOsmanlı Devleti tarihsel süreç içerisinde yukarıda verilen devlet yönetimi biçimlerinden hangilerini benimsemiştir?",
+    "questionText": "I. Teokrasi\nII. Mutlakiyet\nIII. Meşrutiyet Osmanlı Devleti tarihsel süreç içerisinde yukarıda verilen devlet yönetimi biçimlerinden hangilerini benimsemiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -70880,7 +70880,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "📜",
     "questionNumber": 16,
-    "questionText": "Osmanlı Devleti'nde;\nI. Şeyhülislamın fetva vermesi\nII. Ekber ve Erşed sisteminin uygulanması\nIII. Padişahın Kanunname çıkarması\ngelişmelerinden hangileri devletin teokratik yapısının kanıtıdır?",
+    "questionText": "Osmanlı Devleti'nde;\nI. Şeyhülislamın fetva vermesi\nII. Ekber ve Erşed sisteminin uygulanması\nIII. Padişahın Kanunname çıkarması gelişmelerinden hangileri devletin teokratik yapısının kanıtıdır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -70917,7 +70917,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "📜",
     "questionNumber": 17,
-    "questionText": "Osmanlı Devleti'nde Defterdar'ın yetki ve görevleri arasında;\nI. Paranın değerini korumak (tağşişi önlemek)\nII. Kapıkulu askerlerinin ulufe dağıtımını organize etmek\nIII. Hazine gelir ve gider kayıtlarını tutmak\ndurumlardan hangileri yer alır?",
+    "questionText": "Osmanlı Devleti'nde Defterdar'ın yetki ve görevleri arasında;\nI. Paranın değerini korumak (tağşişi önlemek)\nII. Kapıkulu askerlerinin ulufe dağıtımını organize etmek\nIII. Hazine gelir ve gider kayıtlarını tutmak durumlardan hangileri yer alır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71028,7 +71028,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "📜",
     "questionNumber": 20,
-    "questionText": "Osmanlı Devleti'nde taht kavgalarının yaşanması;\nI. Merkezi otoritenin sarsılması\nII. Veraset usulünde değişikliklere gidilmesi\nIII. Dış güçlerin iç işlerine müdahale etme fırsatı bulması\ndurumlarından hangilerine ortam hazırlamıştır?",
+    "questionText": "Osmanlı Devleti'nde taht kavgalarının yaşanması;\nI. Merkezi otoritenin sarsılması\nII. Veraset usulünde değişikliklere gidilmesi\nIII. Dış güçlerin iç işlerine müdahale etme fırsatı bulması durumlarından hangilerine ortam hazırlamıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71065,7 +71065,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 1,
-    "questionText": "Osmanlı Devleti'nde beylik dönemindeki idare merkezlerinin ardından başkentin sırasıyla Bursa, Edirne ve İstanbul'a taşınmasında;\nI. Gaza ve cihat politikasını Rumeli ve Balkanlara doğru sürdürme,\nII. Fetih alanlarına yakın olarak askeri sevkıyat ve lojistiği kolaylaştırma,\nIII. Anadolu Türk siyasi birliğini barışçıl yollarla tamamlama\ngerekçelerinden hangileri temel belirleyici etken olmuştur?",
+    "questionText": "Osmanlı Devleti'nde beylik dönemindeki idare merkezlerinin ardından başkentin sırasıyla Bursa, Edirne ve İstanbul'a taşınmasında;\nI. Gaza ve cihat politikasını Rumeli ve Balkanlara doğru sürdürme,\nII. Fetih alanlarına yakın olarak askeri sevkıyat ve lojistiği kolaylaştırma,\nIII. Anadolu Türk siyasi birliğini barışçıl yollarla tamamlama gerekçelerinden hangileri temel belirleyici etken olmuştur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71102,7 +71102,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 2,
-    "questionText": "Osmanlı Devleti'nde payitahtın (İstanbul) idare ve asayişinde görev alan;\nI. Sadaret Kethüdası,\nII. Şehremini,\nIII. Asesbaşı\nyetkililerinden hangileri doğrudan mülki idare veya asayiş hizmetleriyle görevlendirilmiştir?",
+    "questionText": "Osmanlı Devleti'nde payitahtın (İstanbul) idare ve asayişinde görev alan;\nI. Sadaret Kethüdası,\nII. Şehremini,\nIII. Asesbaşı yetkililerinden hangileri doğrudan mülki idare veya asayiş hizmetleriyle görevlendirilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71250,7 +71250,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 6,
-    "questionText": "Osmanlı Devleti'nde taşra teşkilatının yeniden düzenlendiği 1864 ve 1871 Vilayet Nizamnameleri ile ilgili;\nI. Eyalet sisteminden vilayet sistemine geçilmesi,\nII. 1871 düzenlemesiyle kaza ile köy arasına 'nahiye' biriminin eklenmesi,\nIII. Nahiyelerin başına 'nahiye müdürü' tayin edilmesi\nbilgilerinden hangileri doğrudur?",
+    "questionText": "Osmanlı Devleti'nde taşra teşkilatının yeniden düzenlendiği 1864 ve 1871 Vilayet Nizamnameleri ile ilgili;\nI. Eyalet sisteminden vilayet sistemine geçilmesi,\nII. 1871 düzenlemesiyle kaza ile köy arasına 'nahiye' biriminin eklenmesi,\nIII. Nahiyelerin başına 'nahiye müdürü' tayin edilmesi bilgilerinden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71287,7 +71287,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 7,
-    "questionText": "Osmanlı Devleti'nde merkeze uzak olan Salyaneli (yıllıklı) eyaletlerle ilgili;\nI. Vergilerin açık artırma usulüyle iltizam sistemine göre toplanması,\nII. Toprakların tımarlı sipahilere dirlik olarak dağıtılıp cebelü yetiştirilmesi,\nIII. Elde edilen gelirlerin doğrudan devlet hazinesine nakit aktarılması\nyargılarından hangileri doğrudur?",
+    "questionText": "Osmanlı Devleti'nde merkeze uzak olan Salyaneli (yıllıklı) eyaletlerle ilgili;\nI. Vergilerin açık artırma usulüyle iltizam sistemine göre toplanması,\nII. Toprakların tımarlı sipahilere dirlik olarak dağıtılıp cebelü yetiştirilmesi,\nIII. Elde edilen gelirlerin doğrudan devlet hazinesine nakit aktarılması yargılarından hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71324,7 +71324,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 8,
-    "questionText": "Osmanlı Devleti'nde XVIII. yüzyıldan itibaren uygulanan 'Malikâne sistemi' ile ilgili;\nI. Hazineye nakit sağlamak amacıyla mukataa arazilerinin mültezimlere ömür boyu kiralanmasıdır,\nII. Taşrada merkezi otoriteyi zayıflatan âyan ve eşraf sınıfının güçlenmesine zemin hazırlamıştır,\nIII. Tımar arazilerinin hızla genişlemesini ve cebelü sayısının artmasını sağlamıştır\nifadelerinden hangileri doğrudur?",
+    "questionText": "Osmanlı Devleti'nde XVIII. yüzyıldan itibaren uygulanan 'Malikâne sistemi' ile ilgili;\nI. Hazineye nakit sağlamak amacıyla mukataa arazilerinin mültezimlere ömür boyu kiralanmasıdır,\nII. Taşrada merkezi otoriteyi zayıflatan âyan ve eşraf sınıfının güçlenmesine zemin hazırlamıştır,\nIII. Tımar arazilerinin hızla genişlemesini ve cebelü sayısının artmasını sağlamıştır ifadelerinden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71398,7 +71398,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 10,
-    "questionText": "Osmanlı Devleti'nin imtiyazlı (ayrıcalıklı) eyaletlerinden;\nI. Hicaz,\nII. Kırım Hanlığı,\nIII. Eflak ve Boğdan\nhangileri devlete 'yıllık vergi ödemekle' yükümlü tutulmamıştır?",
+    "questionText": "Osmanlı Devleti'nin imtiyazlı (ayrıcalıklı) eyaletlerinden;\nI. Hicaz,\nII. Kırım Hanlığı,\nIII. Eflak ve Boğdan hangileri devlete 'yıllık vergi ödemekle' yükümlü tutulmamıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71472,7 +71472,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 12,
-    "questionText": "Osmanlı Yeniçeri Ocağı ile ilgili;\nI. Bölüklerine 'orta', bölük komutanlarına 'çorbacıbaşı' denmesi,\nII. Maaşlarının ve kimliklerinin 'esame' adı verilen defterlere kaydedilmesi,\nIII. Manevi olarak Hacı Bektaş-ı Veli felsefesine (Bektaşilik) bağlı olmaları\nözelliklerinden hangileri doğrudur?",
+    "questionText": "Osmanlı Yeniçeri Ocağı ile ilgili;\nI. Bölüklerine 'orta', bölük komutanlarına 'çorbacıbaşı' denmesi,\nII. Maaşlarının ve kimliklerinin 'esame' adı verilen defterlere kaydedilmesi,\nIII. Manevi olarak Hacı Bektaş-ı Veli felsefesine (Bektaşilik) bağlı olmaları özelliklerinden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71509,7 +71509,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 13,
-    "questionText": "Osmanlı Kapıkulu Süvarileri (Altı Bölük Halkı) içinde yer alan;\nI. Sipahi ve Silahtarlar,\nII. Sağ ve Sol Ulufeciler,\nIII. Sağ ve Sol Garipler\nbirliklerinden hangileri sefer ve savaş esnasında 'saltanat sancaklarını ve bayrakları' korumakla görevlendirilmiştir?",
+    "questionText": "Osmanlı Kapıkulu Süvarileri (Altı Bölük Halkı) içinde yer alan;\nI. Sipahi ve Silahtarlar,\nII. Sağ ve Sol Ulufeciler,\nIII. Sağ ve Sol Garipler birliklerinden hangileri sefer ve savaş esnasında 'saltanat sancaklarını ve bayrakları' korumakla görevlendirilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71546,7 +71546,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 14,
-    "questionText": "Osmanlı ordusunda yer alan;\nI. Sağ Garip,\nII. Cebeci,\nIII. Silahtar\naskeri sınıflarından hangileri 'Kapıkulu Süvarileri (Altı Bölük Halkı)' grubuna dahildir?",
+    "questionText": "Osmanlı ordusunda yer alan;\nI. Sağ Garip,\nII. Cebeci,\nIII. Silahtar askeri sınıflarından hangileri 'Kapıkulu Süvarileri (Altı Bölük Halkı)' grubuna dahildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71583,7 +71583,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 15,
-    "questionText": "Osmanlı askeri teşkilatında görev yapan;\nI. Martolos — Sarp dağ geçitlerini ve kaleleri koruyan Hristiyan muhafızlar,\nII. Voynuk — Ordunun ve sarayın at bakımıyla ilgilenen Bulgar Hristiyan askerler,\nIII. Azap — Ordunun en ön saflarında hücum eden Müslüman bekar Türk gençleri\neşleştirmelerinden hangileri doğrudur?",
+    "questionText": "Osmanlı askeri teşkilatında görev yapan;\nI. Martolos — Sarp dağ geçitlerini ve kaleleri koruyan Hristiyan muhafızlar,\nII. Voynuk — Ordunun ve sarayın at bakımıyla ilgilenen Bulgar Hristiyan askerler,\nIII. Azap — Ordunun en ön saflarında hücum eden Müslüman bekar Türk gençleri eşleştirmelerinden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71620,7 +71620,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 16,
-    "questionText": "Osmanlı hukukunda kadılar ile ilgili;\nI. Yargı yetkisinin yanında bulundukları kazanın belediye ve genel idari amiri olmaları,\nII. Atama, tayin ve azillerinin Kazasker tarafından yapılması,\nIII. Verdikleri kararların kesin olup hiçbir makam tarafından temyiz edilememesi\nyargılarından hangileri doğrudur?",
+    "questionText": "Osmanlı hukukunda kadılar ile ilgili;\nI. Yargı yetkisinin yanında bulundukları kazanın belediye ve genel idari amiri olmaları,\nII. Atama, tayin ve azillerinin Kazasker tarafından yapılması,\nIII. Verdikleri kararların kesin olup hiçbir makam tarafından temyiz edilememesi yargılarından hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71694,7 +71694,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 18,
-    "questionText": "Osmanlı mahkemelerinde görülen davalar sırasında duruşma salonunda hazır bulunan 'Şuhûdü'l-hâl' heyeti ile ilgili;\nI. Kararın rüşvetsiz, adil ve şeffaf alındığına kamu adına tanıklık ederler,\nII. Mahallenin güvenilir, dürüst ve saygın ileri gelenlerinden oluşurlar,\nIII. Mahkeme kararlarını nihai olarak onaylayan temyiz merciidirler\nbilgilerinden hangileri doğrudur?",
+    "questionText": "Osmanlı mahkemelerinde görülen davalar sırasında duruşma salonunda hazır bulunan 'Şuhûdü'l-hâl' heyeti ile ilgili;\nI. Kararın rüşvetsiz, adil ve şeffaf alındığına kamu adına tanıklık ederler,\nII. Mahallenin güvenilir, dürüst ve saygın ileri gelenlerinden oluşurlar,\nIII. Mahkeme kararlarını nihai olarak onaylayan temyiz merciidirler bilgilerinden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71768,7 +71768,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Tarih",
     "icon": "🏛️",
     "questionNumber": 20,
-    "questionText": "Tanzimat Dönemi'nden itibaren Osmanlı Devleti'nde Şer'i Mahkemelerin yanında Ticaret ve Nizamiye mahkemelerinin kurulmasıyla ilgili;\nI. Mahkemelerde hukuk birliğinin sağlanması,\nII. Yargıda ikiliğin ortaya çıkması ve yetki çatışmalarının yaşanması,\nIII. Eski ve yeni kurumların bir arada varlığını sürdürmesi\ndurumlarından hangileri gerçekleşmiştir?",
+    "questionText": "Tanzimat Dönemi'nden itibaren Osmanlı Devleti'nde Şer'i Mahkemelerin yanında Ticaret ve Nizamiye mahkemelerinin kurulmasıyla ilgili;\nI. Mahkemelerde hukuk birliğinin sağlanması,\nII. Yargıda ikiliğin ortaya çıkması ve yetki çatışmalarının yaşanması,\nIII. Eski ve yeni kurumların bir arada varlığını sürdürmesi durumlarından hangileri gerçekleşmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78132,7 +78132,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde sayma,\nkarşılaştırma ve problem çözme gibi eylemler,\nzihinsel süreçlerin farklı boyutlarını temsil\netmektedir. Bu boyutları birlikte kapsayan beceri\nkümesi aşağıdakilerden hangisidir?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde sayma, karşılaştırma ve problem çözme gibi eylemler, zihinsel süreçlerin farklı boyutlarını temsil etmektedir. Bu boyutları birlikte kapsayan beceri kümesi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78169,7 +78169,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Bir öğretmen, temel ve bütünleşik becerileri\nderslerinde birlikte kullanmak istemektedir. Modelde\nbu beceriler arasındaki ilişki dikkate alındığında\naşağıdaki açıklamalardan hangisi doğrudur?",
+    "questionText": "Bir öğretmen, temel ve bütünleşik becerileri derslerinde birlikte kullanmak istemektedir. Modelde bu beceriler arasındaki ilişki dikkate alındığında aşağıdaki açıklamalardan hangisi doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78206,7 +78206,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "Bir öğrenci, okuduğu raporun ana düşüncelerini\nbelirlemiş, ayrıntıları önemlerine göre düzenlemiş ve\nmetnin özünü kendi cümleleriyle kısa biçimde\naktarmıştır. Öğrencinin bu çalışmasında hangi\nbütünleşik beceri öne çıkmaktadır?",
+    "questionText": "Bir öğrenci, okuduğu raporun ana düşüncelerini belirlemiş, ayrıntıları önemlerine göre düzenlemiş ve metnin özünü kendi cümleleriyle kısa biçimde aktarmıştır. Öğrencinin bu çalışmasında hangi bütünleşik beceri öne çıkmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78243,7 +78243,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Öğrenciler, topladıkları yaprakları belirledikleri\nözelliklere göre gruplara ayırmış; ardından iki grubun\nbenzer ve farklı yönlerini açıklamıştır. Bu iki\nçalışmada sırasıyla hangi bütünleşik beceriler\nkullanılmıştır?",
+    "questionText": "Öğrenciler, topladıkları yaprakları belirledikleri özelliklere göre gruplara ayırmış; ardından iki grubun benzer ve farklı yönlerini açıklamıştır. Bu iki çalışmada sırasıyla hangi bütünleşik beceriler kullanılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78280,7 +78280,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Ece, gökyüzündeki değişimlere bakarak yağmur\nbeklemektedir. Mert ise geçmiş aylardaki tüketim\nkayıtları üzerinden hesaplama yaparak gelecek ayın\nsu ihtiyacını kestirmektedir. Bu öğrenciler sırasıyla\nhangi tahmin becerilerini kullanmaktadır?",
+    "questionText": "Ece, gökyüzündeki değişimlere bakarak yağmur beklemektedir. Mert ise geçmiş aylardaki tüketim kayıtları üzerinden hesaplama yaparak gelecek ayın su ihtiyacını kestirmektedir. Bu öğrenciler sırasıyla hangi tahmin becerilerini kullanmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78317,7 +78317,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "Bir öğrenci, incelediği çok sayıda örnekte ortak bir\nörüntü bularak genel bir yargıya ulaşmıştır. Başka bir\nöğrenci, genel bir ilkeyi belirli bir olaya uygulamıştır.\nBu öğrencilerin akıl yürütmeleri sırasıyla hangileridir?",
+    "questionText": "Bir öğrenci, incelediği çok sayıda örnekte ortak bir örüntü bularak genel bir yargıya ulaşmıştır. Başka bir öğrenci, genel bir ilkeyi belirli bir olaya uygulamıştır. Bu öğrencilerin akıl yürütmeleri sırasıyla hangileridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78354,7 +78354,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Bir öğretmen, uyguladığı etkinliğin hangi\nyönlerinin işe yaradığını incelemiş ve edindiği\ndeneyime dayanarak bir sonraki uygulamasını nasıl\ndeğiştireceğine karar vermiştir. Bu süreçte hangi\nbütünleşik beceri özellikle öne çıkmaktadır?",
+    "questionText": "Bir öğretmen, uyguladığı etkinliğin hangi yönlerinin işe yaradığını incelemiş ve edindiği deneyime dayanarak bir sonraki uygulamasını nasıl değiştireceğine karar vermiştir. Bu süreçte hangi bütünleşik beceri özellikle öne çıkmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78391,7 +78391,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bir öğrenci, hazırlanan afişleri önceden belirlediği\nokunabilirlik ve amaca uygunluk ölçütleriyle\ninceleyerek hangilerinin beklentileri karşıladığına\nkarar vermiştir. Öğrencinin kullandığı bütünleşik\nbeceri aşağıdakilerden hangisidir?",
+    "questionText": "Bir öğrenci, hazırlanan afişleri önceden belirlediği okunabilirlik ve amaca uygunluk ölçütleriyle inceleyerek hangilerinin beklentileri karşıladığına karar vermiştir. Öğrencinin kullandığı bütünleşik beceri aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78428,7 +78428,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Bir öğrenci, farklı kaynaklardan seçtiği olay ve\nkarakterler arasında yeni ilişkiler kurarak daha önceki\nörnekleri tekrarlamayan özgün bir oyun metni\noluşturmuştur. Bu çalışmada hangi bütünleşik beceri\nöne çıkmaktadır?",
+    "questionText": "Bir öğrenci, farklı kaynaklardan seçtiği olay ve karakterler arasında yeni ilişkiler kurarak daha önceki örnekleri tekrarlamayan özgün bir oyun metni oluşturmuştur. Bu çalışmada hangi bütünleşik beceri öne çıkmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78465,7 +78465,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "Bir öğrenci, metindeki birbiriyle uyuşmayan\naçıklamaları düzeltmiş; ardından çıkarılan sonuçların\nakıl yürütme kurallarına uygunluğunu incelemiştir.\nBu iki çalışmada sırasıyla hangi beceriler\nkullanılmıştır?",
+    "questionText": "Bir öğrenci, metindeki birbiriyle uyuşmayan açıklamaları düzeltmiş; ardından çıkarılan sonuçların akıl yürütme kurallarına uygunluğunu incelemiştir. Bu iki çalışmada sırasıyla hangi beceriler kullanılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78502,7 +78502,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "Bir öğrenci, karşılaştığı iddiaya ilişkin sorular\nsormuş, gerekçelerden hareketle çıkarımlar yapmış\nve ulaştığı sonuçları yeniden gözden geçirmiştir.\nSorgulama, akıl yürütme ve yansıtmayı birlikte içeren\nbu süreç hangi üst düzey düşünme becerisidir?",
+    "questionText": "Bir öğrenci, karşılaştığı iddiaya ilişkin sorular sormuş, gerekçelerden hareketle çıkarımlar yapmış ve ulaştığı sonuçları yeniden gözden geçirmiştir. Sorgulama, akıl yürütme ve yansıtmayı birlikte içeren bu süreç hangi üst düzey düşünme becerisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78539,7 +78539,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "Bir okul kulübü, gezi amacını belirlemiş,\nseçenekler hakkında bilgi toplamış ve uygunluklarını\ninceleyerek birini seçmiştir. Gezi sonrasında bu\nseçimin sonuçlarını da değerlendirmiştir. Bu süreç\nhangi üst düzey düşünme becerisine örnektir?",
+    "questionText": "Bir okul kulübü, gezi amacını belirlemiş, seçenekler hakkında bilgi toplamış ve uygunluklarını inceleyerek birini seçmiştir. Gezi sonrasında bu seçimin sonuçlarını da değerlendirmiştir. Bu süreç hangi üst düzey düşünme becerisine örnektir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78576,7 +78576,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "Öğrenciler, okul bahçesindeki su birikmesi\nsorununu incelemiş, olası nedenleri açıklamış ve\nçözüm önerilerini deneyerek sonuçlarına göre\ndüzenlemiştir. Bu çalışmanın bütününü en iyi\nkarşılayan üst düzey düşünme becerisi hangisidir?",
+    "questionText": "Öğrenciler, okul bahçesindeki su birikmesi sorununu incelemiş, olası nedenleri açıklamış ve çözüm önerilerini deneyerek sonuçlarına göre düzenlemiştir. Bu çalışmanın bütününü en iyi karşılayan üst düzey düşünme becerisi hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78613,7 +78613,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Bir öğretmen, grup oyunlarında doğru hareket\netmenin yanında planlama, iletişim ve duygu\nyönetimini de desteklemektedir. Bu uygulama,\nfiziksel becerilere ilişkin hangi açıklamayı destekler?",
+    "questionText": "Bir öğretmen, grup oyunlarında doğru hareket etmenin yanında planlama, iletişim ve duygu yönetimini de desteklemektedir. Bu uygulama, fiziksel becerilere ilişkin hangi açıklamayı destekler?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78650,7 +78650,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Bir öğrenci araştırma yapabilecek beceriye sahip\nolduğu hâlde bunu her durumda kullanmamaktadır.\nÖğretmeni, öğrencinin uygun durumlarda\naraştırmaya istek duymasını ve harekete geçmesini\ndesteklemektedir. Bu çalışma öncelikle hangi\nbileşene yöneliktir?",
+    "questionText": "Bir öğrenci araştırma yapabilecek beceriye sahip olduğu hâlde bunu her durumda kullanmamaktadır. Öğretmeni, öğrencinin uygun durumlarda araştırmaya istek duymasını ve harekete geçmesini desteklemektedir. Bu çalışma öncelikle hangi bileşene yöneliktir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78687,7 +78687,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 16,
-    "questionText": "Bir öğrenci, güçlüklerle karşılaştığında çalışmayı\nsürdürmekte ve hedefi için gerekli adımları planlayıp\nuygulayabileceğine inanmaktadır. Bu özellikler\nsırasıyla hangi benlik eğilimlerine karşılık gelir?",
+    "questionText": "Bir öğrenci, güçlüklerle karşılaştığında çalışmayı sürdürmekte ve hedefi için gerekli adımları planlayıp uygulayabileceğine inanmaktadır. Bu özellikler sırasıyla hangi benlik eğilimlerine karşılık gelir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78724,7 +78724,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 17,
-    "questionText": "Bir öğretmen, öğrencilerinde sırasıyla benlik,\nsosyal ve entelektüel eğilimleri destekleyecek\netkinlikler planlamaktadır. Aşağıdaki eğilim\ngruplarından hangisi bu sıralamaya uygundur?",
+    "questionText": "Bir öğretmen, öğrencilerinde sırasıyla benlik, sosyal ve entelektüel eğilimleri destekleyecek etkinlikler planlamaktadır. Aşağıdaki eğilim gruplarından hangisi bu sıralamaya uygundur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78761,7 +78761,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 18,
-    "questionText": "Bir öğrenci, kendi görüşünden farklı bir\naçıklamayı hemen reddetmek yerine dinlemekte ve\nyeni gerekçeler karşısında düşüncesini gözden\ngeçirmeye hazır bulunmaktadır. Bu davranışta hangi\nentelektüel eğilim öne çıkmaktadır?",
+    "questionText": "Bir öğrenci, kendi görüşünden farklı bir açıklamayı hemen reddetmek yerine dinlemekte ve yeni gerekçeler karşısında düşüncesini gözden geçirmeye hazır bulunmaktadır. Bu davranışta hangi entelektüel eğilim öne çıkmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78798,7 +78798,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "Türkçe alan becerileri anlama ve anlatma\nçerçevesinde düzenlenmiştir. Aşağıdaki\neşleştirmelerden hangisi bu iki gruptaki becerileri\ndoğru göstermektedir?",
+    "questionText": "Türkçe alan becerileri anlama ve anlatma çerçevesinde düzenlenmiştir. Aşağıdaki eşleştirmelerden hangisi bu iki gruptaki becerileri doğru göstermektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78835,7 +78835,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Bir öğrenci, aynı kesri sayı doğrusu, alan modeli ve\nsembolik gösterimle ifade etmiş; bu gösterimlerin\nbirbirleriyle ilişkisini açıklamıştır. Bu çalışmada hangi\nmatematik alan becerisi özellikle öne çıkmaktadır?",
+    "questionText": "Bir öğrenci, aynı kesri sayı doğrusu, alan modeli ve sembolik gösterimle ifade etmiş; bu gösterimlerin birbirleriyle ilişkisini açıklamıştır. Bu çalışmada hangi matematik alan becerisi özellikle öne çıkmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78872,7 +78872,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "Bir öğrenci, deneyinde “bitkinin gelişmesi”\nifadesini kullanmak yerine gelişmeyi bir haftada\noluşan yeni yaprak sayısıyla belirleyeceğini\naçıklamıştır. Bu açıklama hangi fen bilimleri alan\nbecerisine örnektir?",
+    "questionText": "Bir öğrenci, deneyinde “bitkinin gelişmesi” ifadesini kullanmak yerine gelişmeyi bir haftada oluşan yeni yaprak sayısıyla belirleyeceğini açıklamıştır. Bu açıklama hangi fen bilimleri alan becerisine örnektir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78909,7 +78909,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Bir öğrenci, geçmişte alınan bir kararı incelerken o\ndönemin bilgi, imkân ve değerlerini dikkate almış;\ninsanların davranışlarını kendi tarihsel koşulları\niçinde anlamaya çalışmıştır. Hangi sosyal bilimler alan\nbecerisi öne çıkmaktadır?",
+    "questionText": "Bir öğrenci, geçmişte alınan bir kararı incelerken o dönemin bilgi, imkân ve değerlerini dikkate almış;\ninsanların davranışlarını kendi tarihsel koşulları içinde anlamaya çalışmıştır. Hangi sosyal bilimler alan becerisi öne çıkmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78946,7 +78946,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Bir öğrenci, bir afişteki renk, simge ve görüntülerin\nhangi anlamı ilettiğini incelemekte ve afişin vermek\nistediği mesajı açıklamaktadır. Bu çalışmada hangi\nsanat alan becerisi özellikle öne çıkmaktadır?",
+    "questionText": "Bir öğrenci, bir afişteki renk, simge ve görüntülerin hangi anlamı ilettiğini incelemekte ve afişin vermek istediği mesajı açıklamaktadır. Bu çalışmada hangi sanat alan becerisi özellikle öne çıkmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -78983,7 +78983,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "Bir öğrenci, hakemin fark etmediği bir ihlali\nkendisi bildirerek rakibinin hakkını korumuştur. Bu\ndavranış, beden eğitimi, oyun ve spor alanındaki\nhangi beceriyle doğrudan ilişkilidir?",
+    "questionText": "Bir öğrenci, hakemin fark etmediği bir ihlali kendisi bildirerek rakibinin hakkını korumuştur. Bu davranış, beden eğitimi, oyun ve spor alanındaki hangi beceriyle doğrudan ilişkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79020,7 +79020,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Öğrenciler, bir sorunu küçük parçalara ayırmış,\nçözüm adımlarını sıralamış ve bu adımlardaki hataları\ndeneyerek düzeltmiştir. Bu süreç bütünüyle hangi\nbilişim teknolojileri ve yazılım alan becerisini\nörneklendirir?",
+    "questionText": "Öğrenciler, bir sorunu küçük parçalara ayırmış, çözüm adımlarını sıralamış ve bu adımlardaki hataları deneyerek düzeltmiştir. Bu süreç bütünüyle hangi bilişim teknolojileri ve yazılım alan becerisini örneklendirir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79057,7 +79057,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bir öğrenci, bir canlının yüzey yapısının suyu\nuzaklaştırma özelliğini incelemiş ve aynı işlevden\nyararlanarak yeni bir ürün tasarlamıştır. Hangi\ntasarım alan becerisi özellikle öne çıkmaktadır?",
+    "questionText": "Bir öğrenci, bir canlının yüzey yapısının suyu uzaklaştırma özelliğini incelemiş ve aynı işlevden yararlanarak yeni bir ürün tasarlamıştır. Hangi tasarım alan becerisi özellikle öne çıkmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79094,7 +79094,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Bir öğretmen, öğrencilerin öğrendikleri dinî bilgiyi\nuygun günlük yaşam durumlarında davranışa\ndönüştürmelerini amaçlamaktadır. Bilginin\nuygulanmasına yönelik bu amaç hangi alan\nbecerisiyle doğrudan ilişkilidir?",
+    "questionText": "Bir öğretmen, öğrencilerin öğrendikleri dinî bilgiyi uygun günlük yaşam durumlarında davranışa dönüştürmelerini amaçlamaktadır. Bilginin uygulanmasına yönelik bu amaç hangi alan becerisiyle doğrudan ilişkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79131,7 +79131,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "Aşağıdakilerden hangisi yabancı dilde alımlayıcı\nya da üretici alan becerisi olarak değil, destekleyici\nbeceri olarak ele alınmaktadır?",
+    "questionText": "Aşağıdakilerden hangisi yabancı dilde alımlayıcı ya da üretici alan becerisi olarak değil, destekleyici beceri olarak ele alınmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79168,7 +79168,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "Yabancı dilde tümevarımsal yaklaşımı esas alan\nbir öğretmenin, bu yaklaşımın ayırt edici özelliğine\nuygun olarak aşağıdakilerden hangisini yapması\nbeklenir?",
+    "questionText": "Yabancı dilde tümevarımsal yaklaşımı esas alan bir öğretmenin, bu yaklaşımın ayırt edici özelliğine uygun olarak aşağıdakilerden hangisini yapması beklenir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79205,7 +79205,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "Bir öğretmen, ekosistemle ilgili bilgileri\nkarşılaştırma becerisiyle birleştirerek bir öğrenme\nçıktısı yazmıştır. Bu çalışma modelin hangi anlayışıyla\nuyumludur?",
+    "questionText": "Bir öğretmen, ekosistemle ilgili bilgileri karşılaştırma becerisiyle birleştirerek bir öğrenme çıktısı yazmıştır. Bu çalışma modelin hangi anlayışıyla uyumludur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79242,7 +79242,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "Bir öğretmen, temel beceriye dayalı bir öğrenme\nçıktısı için öğrencilerinin ihtiyaç duyduğu hazırlık\nadımlarını planlamaktadır. Modelin açıklamalarına\ngöre bu adımlara nasıl yer vermelidir?",
+    "questionText": "Bir öğretmen, temel beceriye dayalı bir öğrenme çıktısı için öğrencilerinin ihtiyaç duyduğu hazırlık adımlarını planlamaktadır. Modelin açıklamalarına göre bu adımlara nasıl yer vermelidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79279,7 +79279,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Bir öğretmen, gözlenebilir bir öğrenme çıktısını\nöğrenci özelliklerine uygun biçimde yazmış;\netkinliklerle değerlendirme görevlerini bu çıktıya\ngöre seçmiştir. Bu uygulama hangi açıklamayı\ndestekler?",
+    "questionText": "Bir öğretmen, gözlenebilir bir öğrenme çıktısını öğrenci özelliklerine uygun biçimde yazmış;\netkinliklerle değerlendirme görevlerini bu çıktıya göre seçmiştir. Bu uygulama hangi açıklamayı destekler?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79316,7 +79316,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Bir öğretmen, aynı sınıf düzeyindeki farklı\nderslerin ortak kavramlarını ilişkilendirmiş; bir\nkavramın farklı sınıflarda nasıl derinleştiğini de\nincelemiştir. Bu iki inceleme içerik çerçevesinin\nsırasıyla hangi boyutlarıyla ilgilidir?",
+    "questionText": "Bir öğretmen, aynı sınıf düzeyindeki farklı derslerin ortak kavramlarını ilişkilendirmiş; bir kavramın farklı sınıflarda nasıl derinleştiğini de incelemiştir. Bu iki inceleme içerik çerçevesinin sırasıyla hangi boyutlarıyla ilgilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79353,7 +79353,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 16,
-    "questionText": "Bir öğretmen, öğrenme sürecinde ele alınacak\ntemel kavramları, ilkeleri ve sembolleri\nbelirlemektedir. “Öğrenci ne bilmeli?” sorusunu\nyanıtlayan bu çalışma programın hangi bileşeniyle\nilgilidir?",
+    "questionText": "Bir öğretmen, öğrenme sürecinde ele alınacak temel kavramları, ilkeleri ve sembolleri belirlemektedir. “Öğrenci ne bilmeli?” sorusunu yanıtlayan bu çalışma programın hangi bileşeniyle ilgilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79390,7 +79390,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 17,
-    "questionText": "Bir öğrenci, tarihçilerin kaynakları nasıl\nsorguladığını; ardından bir haritayı çizmek için\nizlenen işlem adımlarını öğrenmektedir. Bu iki\nöğrenmenin bilgi türleri sırasıyla aşağıdakilerden\nhangisidir?",
+    "questionText": "Bir öğrenci, tarihçilerin kaynakları nasıl sorguladığını; ardından bir haritayı çizmek için izlenen işlem adımlarını öğrenmektedir. Bu iki öğrenmenin bilgi türleri sırasıyla aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -79427,7 +79427,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 18,
-    "questionText": "Öğrenciler önce bir bilim dalının temel kavram ve\nilkelerini öğrenmiş; ardından bu kavramları başka bir\ndersin konularıyla ilişkilendirmiştir. Bu çalışmalar\nsırasıyla hangi bilgi türlerini öne çıkarır?",
+    "questionText": "Öğrenciler önce bir bilim dalının temel kavram ve ilkelerini öğrenmiş; ardından bu kavramları başka bir dersin konularıyla ilişkilendirmiştir. Bu çalışmalar sırasıyla hangi bilgi türlerini öne çıkarır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -80834,7 +80834,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 1,
-    "questionText": "Klasik dönem Osmanlı eğitim sisteminde \naşağıdakilerden hangisi örgün eğitim \nkapsamındadır?",
+    "questionText": "Klasik dönem Osmanlı eğitim sisteminde aşağıdakilerden hangisi örgün eğitim kapsamındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -80872,7 +80872,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 2,
-    "questionText": "Aşağıdakilerden hangisi Osmanlı saray \neğitiminin bölümlerinden biridir?",
+    "questionText": "Aşağıdakilerden hangisi Osmanlı saray eğitiminin bölümlerinden biridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -80910,7 +80910,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 3,
-    "questionText": "Aşağıdaki kurumlardan hangisi yaygın \neğitimle ilişkilidir?",
+    "questionText": "Aşağıdaki kurumlardan hangisi yaygın eğitimle ilişkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -80948,7 +80948,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 4,
-    "questionText": "İlk Osmanlı medresesi olarak gösterilen \nOrhaniye Medresesi hangi şehirde açılmıştır?",
+    "questionText": "İlk Osmanlı medresesi olarak gösterilen Orhaniye Medresesi hangi şehirde açılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -80986,7 +80986,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 5,
-    "questionText": "Medrese öğrenimini tamamlayanlara verilen \nbelgenin adı nedir?",
+    "questionText": "Medrese öğrenimini tamamlayanlara verilen belgenin adı nedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81024,7 +81024,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 6,
-    "questionText": "Osmanlı medreselerinin ilk müderrisi kabul \nedilen kişi kimdir?",
+    "questionText": "Osmanlı medreselerinin ilk müderrisi kabul edilen kişi kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81062,13 +81062,13 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 7,
-    "questionText": "Sıbyan mekteplerindeki eğitimin temel \nhedeflerinden biri aşağıdakilerden hangisidir?",
+    "questionText": "Sıbyan mekteplerindeki eğitimin temel hedeflerinden biri aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Okuma yazma ve temel hesap bilgisi \nkazandırmak"
+        "text": "Okuma yazma ve temel hesap bilgisi kazandırmak"
       },
       {
         "key": "B",
@@ -81100,7 +81100,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 8,
-    "questionText": "Medrese öğrencileri ve görevlileriyle ilgili \naşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "questionText": "Medrese öğrencileri ve görevlileriyle ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81138,7 +81138,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 9,
-    "questionText": "Şehzadelerin ilk ders töreni için kullanılan \nad aşağıdakilerden hangisidir?",
+    "questionText": "Şehzadelerin ilk ders töreni için kullanılan ad aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81176,7 +81176,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 10,
-    "questionText": "Acemilerin Yeniçeri Ocağı'na kaydedilmesi \nsüreci hangi kavramla ifade edilir?",
+    "questionText": "Acemilerin Yeniçeri Ocağı'na kaydedilmesi süreci hangi kavramla ifade edilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81214,7 +81214,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 11,
-    "questionText": "Tımarlı sipahilerin yetiştirdiği atlı askerlere \nne ad verilirdi?",
+    "questionText": "Tımarlı sipahilerin yetiştirdiği atlı askerlere ne ad verilirdi?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81252,7 +81252,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 12,
-    "questionText": "Tersanelerde eğitim gören deniz askerleri \naşağıdakilerden hangisidir?",
+    "questionText": "Tersanelerde eğitim gören deniz askerleri aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81290,7 +81290,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 13,
-    "questionText": "1734'te Üsküdar'da açılan Hendesehane \nhangi padişah dönemine aittir?",
+    "questionText": "1734'te Üsküdar'da açılan Hendesehane hangi padişah dönemine aittir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81328,7 +81328,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 14,
-    "questionText": "Mühendishane-i Bahrî-i Hümâyun'un temel \nkuruluş amacı nedir?",
+    "questionText": "Mühendishane-i Bahrî-i Hümâyun'un temel kuruluş amacı nedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81366,7 +81366,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 15,
-    "questionText": "1795'te açılan Mühendishane-i Berrî-i \nHümâyun hangi padişah dönemindedir?",
+    "questionText": "1795'te açılan Mühendishane-i Berrî-i Hümâyun hangi padişah dönemindedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81404,7 +81404,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 16,
-    "questionText": "1827'de ordunun hekim ihtiyacını \nkarşılamak amacıyla açılan kurum hangisidir?",
+    "questionText": "1827'de ordunun hekim ihtiyacını karşılamak amacıyla açılan kurum hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81442,7 +81442,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 17,
-    "questionText": "1834'te modern eğitimli subay yetiştirmek \namacıyla açılan kurum aşağıdakilerden \nhangisidir?",
+    "questionText": "1834'te modern eğitimli subay yetiştirmek amacıyla açılan kurum aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81480,7 +81480,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 18,
-    "questionText": "Mekteb-i Maârif-i Adliye ve Mekteb-i Ulûm-ı \nEdebiye'nin ortak amacı aşağıdakilerden \nhangisidir?",
+    "questionText": "Mekteb-i Maârif-i Adliye ve Mekteb-i Ulûm-ı Edebiye'nin ortak amacı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81518,7 +81518,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 19,
-    "questionText": "1848'de rüştiyelere öğretmen yetiştirmek \niçin açılan kurum hangisidir?",
+    "questionText": "1848'de rüştiyelere öğretmen yetiştirmek için açılan kurum hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81556,7 +81556,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Klasik Eğitim & Saray Eğitimi",
     "icon": "🏛️",
     "questionNumber": 20,
-    "questionText": "1870'te kız okullarına kadın öğretmen \nyetiştirmek amacıyla açılan kurum hangisidir?",
+    "questionText": "1870'te kız okullarına kadın öğretmen yetiştirmek amacıyla açılan kurum hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81594,7 +81594,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 1,
-    "questionText": "Darüşşafaka ile ilgili aşağıdaki bilgilerden \nhangisi doğrudur?",
+    "questionText": "Darüşşafaka ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81616,7 +81616,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "E",
-        "text": "Kurucu cemiyeti 1863'te kurulmuş, okul 1873'te \nöğretime başlamıştır."
+        "text": "Kurucu cemiyeti 1863'te kurulmuş, okul 1873'te öğretime başlamıştır."
       }
     ],
     "correctAnswer": "E",
@@ -81632,7 +81632,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 2,
-    "questionText": "Sanayi-i Nefise Mektebi'nin kurucu \nmüdürü kimdir?",
+    "questionText": "Sanayi-i Nefise Mektebi'nin kurucu müdürü kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81670,7 +81670,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 3,
-    "questionText": "Darülbedayi ve Darülelhan'ın faaliyet \nalanları hangi seçenekte doğru verilmiştir?",
+    "questionText": "Darülbedayi ve Darülelhan'ın faaliyet alanları hangi seçenekte doğru verilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81708,7 +81708,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 4,
-    "questionText": "1914'te kadınlara yükseköğretim imkânı \nsağlamak üzere açılan kurum hangisidir?",
+    "questionText": "1914'te kadınlara yükseköğretim imkânı sağlamak üzere açılan kurum hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81746,7 +81746,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 5,
-    "questionText": "Osmanlıcılığın temel hedefi \naşağıdakilerden hangisidir?",
+    "questionText": "Osmanlıcılığın temel hedefi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81760,7 +81760,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "C",
-        "text": "Farklı toplulukları Osmanlı vatandaşlığı \netrafında birleştirmek"
+        "text": "Farklı toplulukları Osmanlı vatandaşlığı etrafında birleştirmek"
       },
       {
         "key": "D",
@@ -81784,7 +81784,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 6,
-    "questionText": "Türkçülük akımıyla ilişkilendirilen yayınlar \nhangi seçenekte birlikte verilmiştir?",
+    "questionText": "Türkçülük akımıyla ilişkilendirilen yayınlar hangi seçenekte birlikte verilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81822,7 +81822,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 7,
-    "questionText": "Batıcılık düşüncesiyle ilişkili kişi ve yayın \neşleştirmesi hangisidir?",
+    "questionText": "Batıcılık düşüncesiyle ilişkili kişi ve yayın eşleştirmesi hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81860,7 +81860,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 8,
-    "questionText": "Kadızade-i Rumî'nin uzmanlık alanları \nhangi seçenekte verilmiştir?",
+    "questionText": "Kadızade-i Rumî'nin uzmanlık alanları hangi seçenekte verilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81898,7 +81898,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 9,
-    "questionText": "Fethiye ve Muhammediye adlı eserlerini \nFatih'e sunan bilim insanı kimdir?",
+    "questionText": "Fethiye ve Muhammediye adlı eserlerini Fatih'e sunan bilim insanı kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81936,7 +81936,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 10,
-    "questionText": "Uluğ Bey ve Ali Kuşçu'nun hocası olarak \ntanıtılan bilim insanı kimdir?",
+    "questionText": "Uluğ Bey ve Ali Kuşçu'nun hocası olarak tanıtılan bilim insanı kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -81974,7 +81974,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 11,
-    "questionText": "Cerrahiyatü'l-Haniye adlı eserle \nilişkilendirilen bilim insanı kimdir?",
+    "questionText": "Cerrahiyatü'l-Haniye adlı eserle ilişkilendirilen bilim insanı kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82012,7 +82012,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 12,
-    "questionText": "Altuncuzade'nin ilgilendiği sağlık alanı \naşağıdakilerden hangisidir?",
+    "questionText": "Altuncuzade'nin ilgilendiği sağlık alanı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82050,7 +82050,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 13,
-    "questionText": "Fatih'in akıl hocası olarak tanıtılan ve \nZeyrek Camisi'nde ders veren kişi kimdir?",
+    "questionText": "Fatih'in akıl hocası olarak tanıtılan ve Zeyrek Camisi'nde ders veren kişi kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82126,7 +82126,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 15,
-    "questionText": "Miratü'l-Memalik ve Muhit adlı eserler \nhangi isimle ilişkilidir?",
+    "questionText": "Miratü'l-Memalik ve Muhit adlı eserler hangi isimle ilişkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82164,7 +82164,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 16,
-    "questionText": "III. Murat döneminde İstanbul'da rasathane \nkuran bilim insanı kimdir?",
+    "questionText": "III. Murat döneminde İstanbul'da rasathane kuran bilim insanı kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82202,7 +82202,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 17,
-    "questionText": "Muallim-i Salis unvanıyla anılan düşünür \naşağıdakilerden hangisidir?",
+    "questionText": "Muallim-i Salis unvanıyla anılan düşünür aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82240,7 +82240,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 18,
-    "questionText": "Mecelle'nin hazırlanmasında komisyon \nbaşkanlığı yapan kişi kimdir?",
+    "questionText": "Mecelle'nin hazırlanmasında komisyon başkanlığı yapan kişi kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82278,7 +82278,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 19,
-    "questionText": "Ali Kuşçu'nun torunu olan, matematik ve \nastronomiyle ilgilenen kişi kimdir?",
+    "questionText": "Ali Kuşçu'nun torunu olan, matematik ve astronomiyle ilgilenen kişi kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82316,7 +82316,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Yenileşme Okulları & Tıp/Bilim İnsanları",
     "icon": "🏛️",
     "questionNumber": 20,
-    "questionText": "Galata Kulesi'nden Üsküdar'a uçma \ngirişimiyle tanıtılan kişi kimdir?",
+    "questionText": "Galata Kulesi'nden Üsküdar'a uçma girişimiyle tanıtılan kişi kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82354,7 +82354,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 1,
-    "questionText": "1633'te roketle yükselme denemesi yaptığı \nanlatılan kişi kimdir?",
+    "questionText": "1633'te roketle yükselme denemesi yaptığı anlatılan kişi kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82392,7 +82392,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 2,
-    "questionText": "Hezarfen Ahmet Çelebi ve Lagari Hasan \nÇelebi'nin faaliyetleri hangi padişah \ndönemiyle ilişkilidir?",
+    "questionText": "Hezarfen Ahmet Çelebi ve Lagari Hasan Çelebi'nin faaliyetleri hangi padişah dönemiyle ilişkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82430,7 +82430,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 3,
-    "questionText": "Cam sanatının karşılığı olarak kullanılan \nterim hangisidir?",
+    "questionText": "Cam sanatının karşılığı olarak kullanılan terim hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82468,7 +82468,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 4,
-    "questionText": "Aşağıdakilerden hangisi Osmanlı sanat \ndalları arasında yer alır?",
+    "questionText": "Aşağıdakilerden hangisi Osmanlı sanat dalları arasında yer alır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82506,7 +82506,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 5,
-    "questionText": "Aşağıdakilerden hangisi kitap sanatlarıyla \ndoğrudan ilişkili bir üçlüdür?",
+    "questionText": "Aşağıdakilerden hangisi kitap sanatlarıyla doğrudan ilişkili bir üçlüdür?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82544,7 +82544,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 6,
-    "questionText": "Arap harfleriyle güzel yazı yazma sanatına \nne ad verilir?",
+    "questionText": "Arap harfleriyle güzel yazı yazma sanatına ne ad verilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82582,7 +82582,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 7,
-    "questionText": "El yazması bir kitabı çoğaltan kişiye \nverilen ad hangisidir?",
+    "questionText": "El yazması bir kitabı çoğaltan kişiye verilen ad hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82658,7 +82658,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 9,
-    "questionText": "Minyatür sanatçısı için kullanılan unvan \nhangisidir?",
+    "questionText": "Minyatür sanatçısı için kullanılan unvan hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82696,7 +82696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 10,
-    "questionText": "Şehir ve menzil tasvirleriyle tanınan \nminyatür sanatçısı kimdir?",
+    "questionText": "Şehir ve menzil tasvirleriyle tanınan minyatür sanatçısı kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82734,7 +82734,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 11,
-    "questionText": "Surname-i Vehbî'nin minyatürlerini \nhazırlayan sanatçı kimdir?",
+    "questionText": "Surname-i Vehbî'nin minyatürlerini hazırlayan sanatçı kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82772,7 +82772,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 12,
-    "questionText": "Kitap sayfalarını süsleme sanatı ve \nsanatçısı hangi seçenekte doğru \neşleştirilmiştir?",
+    "questionText": "Kitap sayfalarını süsleme sanatı ve sanatçısı hangi seçenekte doğru eşleştirilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82810,7 +82810,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 13,
-    "questionText": "Su ve boya kullanılarak kâğıt süslenen \nsanat dalı hangisidir?",
+    "questionText": "Su ve boya kullanılarak kâğıt süslenen sanat dalı hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82848,7 +82848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 14,
-    "questionText": "Kitapların ciltlenmesiyle uğraşan \nsanatçıya ne ad verilir?",
+    "questionText": "Kitapların ciltlenmesiyle uğraşan sanatçıya ne ad verilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82886,7 +82886,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 15,
-    "questionText": "Kaplumbağa Terbiyecisi adlı tablo hangi \nsanatçıya aittir?",
+    "questionText": "Kaplumbağa Terbiyecisi adlı tablo hangi sanatçıya aittir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82924,7 +82924,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 16,
-    "questionText": "Aşağıdaki isimlerden hangisi Osmanlı \nmusikisinin temsilcilerindendir?",
+    "questionText": "Aşağıdaki isimlerden hangisi Osmanlı musikisinin temsilcilerindendir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -82962,7 +82962,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 17,
-    "questionText": "PDF'de Osmanlı Devleti dışında, Timur \nhizmetinde olduğu belirtilen musikişinas \nkimdir?",
+    "questionText": "PDF'de Osmanlı Devleti dışında, Timur hizmetinde olduğu belirtilen musikişinas kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83000,7 +83000,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 18,
-    "questionText": "Cami merkezli toplu yapı grubuna ne ad \nverilir?",
+    "questionText": "Cami merkezli toplu yapı grubuna ne ad verilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83038,7 +83038,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Bilim/Fenn & Geleneksel Sanatlar",
     "icon": "🏛️",
     "questionNumber": 19,
-    "questionText": "Tek tip mal satan dükkânlar topluluğu \nhangi kavramla ifade edilir?",
+    "questionText": "Tek tip mal satan dükkânlar topluluğu hangi kavramla ifade edilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83114,7 +83114,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 1,
-    "questionText": "Kuruluş döneminin mimari eserleri genel \nolarak hangi mimari dönemde değerlendirilir?",
+    "questionText": "Kuruluş döneminin mimari eserleri genel olarak hangi mimari dönemde değerlendirilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83152,7 +83152,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 2,
-    "questionText": "Yükselme ve Duraklama dönemlerinin \nmimari eserlerini kapsayan dönem hangisidir?",
+    "questionText": "Yükselme ve Duraklama dönemlerinin mimari eserlerini kapsayan dönem hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83190,7 +83190,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 3,
-    "questionText": "Lale Devri'nden Osmanlı'nın sonuna kadar \nuzanan mimari eserler hangi gruptadır?",
+    "questionText": "Lale Devri'nden Osmanlı'nın sonuna kadar uzanan mimari eserler hangi gruptadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83228,7 +83228,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 4,
-    "questionText": "Süleyman Paşa Medresesi ve Hacı Özbek \nCamii hangi şehirde bulunmaktadır?",
+    "questionText": "Süleyman Paşa Medresesi ve Hacı Özbek Camii hangi şehirde bulunmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83266,7 +83266,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 5,
-    "questionText": "Aşağıdakilerden hangisi Bursa'daki erken \ndönem mimari eserleri arasında \ngösterilmiştir?",
+    "questionText": "Aşağıdakilerden hangisi Bursa'daki erken dönem mimari eserleri arasında gösterilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83304,7 +83304,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 6,
-    "questionText": "Padişahlar veya hanedan mensupları \nadına yaptırılan camilere ne ad verilir?",
+    "questionText": "Padişahlar veya hanedan mensupları adına yaptırılan camilere ne ad verilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83342,7 +83342,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 7,
-    "questionText": "Mimar Sinan'ın çıraklık, kalfalık ve ustalık \neserleri sırasıyla hangi seçenektedir?",
+    "questionText": "Mimar Sinan'ın çıraklık, kalfalık ve ustalık eserleri sırasıyla hangi seçenektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83418,7 +83418,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 9,
-    "questionText": "Mostar Köprüsü hangi mimarla \nilişkilendirilmiştir?",
+    "questionText": "Mostar Köprüsü hangi mimarla ilişkilendirilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83456,7 +83456,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 10,
-    "questionText": "Aşağıdakilerden hangisi geç dönem \nOsmanlı mimarisinde görülen Batı etkileri \narasında sayılmıştır?",
+    "questionText": "Aşağıdakilerden hangisi geç dönem Osmanlı mimarisinde görülen Batı etkileri arasında sayılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83494,7 +83494,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 11,
-    "questionText": "Beylerbeyi Sarayı'nın yapımıyla \nilişkilendirilen padişah ve mimar hangi \nseçenektedir?",
+    "questionText": "Beylerbeyi Sarayı'nın yapımıyla ilişkilendirilen padişah ve mimar hangi seçenektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83532,7 +83532,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 12,
-    "questionText": "Sirkeci ve Haydarpaşa yapıları PDF'de \nhangi yapı türü altında birlikte verilmiştir?",
+    "questionText": "Sirkeci ve Haydarpaşa yapıları PDF'de hangi yapı türü altında birlikte verilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83570,7 +83570,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 13,
-    "questionText": "El yazması metinlerde anlatılan olayları \nküçük renkli resimlerle görselleştirme sanatı \nhangisidir?",
+    "questionText": "El yazması metinlerde anlatılan olayları küçük renkli resimlerle görselleştirme sanatı hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83608,7 +83608,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 14,
-    "questionText": "Aşağıdaki Divan-ı Hümayun üyelerinden \nhangisi seyfiye sınıfındadır?",
+    "questionText": "Aşağıdaki Divan-ı Hümayun üyelerinden hangisi seyfiye sınıfındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83646,7 +83646,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 15,
-    "questionText": "Aşağıdaki yapılardan hangisinin temel \nişlevi eğitim ve öğretim değildir?",
+    "questionText": "Aşağıdaki yapılardan hangisinin temel işlevi eğitim ve öğretim değildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83684,7 +83684,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 16,
-    "questionText": "Aşağıdaki görevlilerden hangisi kalemiye \nsınıfına mensuptur?",
+    "questionText": "Aşağıdaki görevlilerden hangisi kalemiye sınıfına mensuptur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83722,7 +83722,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 17,
-    "questionText": "Karahanlılarda sınır ve ticaret yollarında \ngüvenlik ve konaklama sağlayan yapılara ne \nad verilmiştir?",
+    "questionText": "Karahanlılarda sınır ve ticaret yollarında güvenlik ve konaklama sağlayan yapılara ne ad verilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83760,7 +83760,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 18,
-    "questionText": "Uzun Hasan'ın elçisi olarak İstanbul'a \ngelen ve Fatih'in davetiyle burada kalan bilim \ninsanı kimdir?",
+    "questionText": "Uzun Hasan'ın elçisi olarak İstanbul'a gelen ve Fatih'in davetiyle burada kalan bilim insanı kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83798,7 +83798,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 19,
-    "questionText": "Aşağıdaki kurumlardan hangisi sağlık \nhizmeti amacıyla açılan kurumlardan biri \ndeğildir?",
+    "questionText": "Aşağıdaki kurumlardan hangisi sağlık hizmeti amacıyla açılan kurumlardan biri değildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83836,7 +83836,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Mimari Dönemler, Saraylar ve Külliyeler",
     "icon": "🏛️",
     "questionNumber": 20,
-    "questionText": "Aşağıdakilerden hangisi İslami dönem \nTürk devletlerinde hükümdarlığın genel bir \nşartı değildir?",
+    "questionText": "Aşağıdakilerden hangisi İslami dönem Türk devletlerinde hükümdarlığın genel bir şartı değildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83874,13 +83874,13 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 1,
-    "questionText": "Osmanlı kadılarının kararlarıyla ilgili \naşağıdaki yargılardan hangisi doğrudur?",
+    "questionText": "Osmanlı kadılarının kararlarıyla ilgili aşağıdaki yargılardan hangisi doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Göreve gelmeleri için Enderun mezuniyeti \nşarttı."
+        "text": "Göreve gelmeleri için Enderun mezuniyeti şarttı."
       },
       {
         "key": "B",
@@ -83892,7 +83892,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Kararları Divan-ı Hümayun'da yeniden \nincelenebilirdi."
+        "text": "Kararları Divan-ı Hümayun'da yeniden incelenebilirdi."
       },
       {
         "key": "E",
@@ -83912,7 +83912,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 2,
-    "questionText": "Bir külliyenin giderlerini karşılamak için \nhamam ve dükkân gelirlerinin tahsis edilmesi \nhangi sisteme örnektir?",
+    "questionText": "Bir külliyenin giderlerini karşılamak için hamam ve dükkân gelirlerinin tahsis edilmesi hangi sisteme örnektir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83950,7 +83950,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 3,
-    "questionText": "Topkapı Sarayı'nın dış hizmetlerinin \nyürütüldüğü bölüm hangisidir?",
+    "questionText": "Topkapı Sarayı'nın dış hizmetlerinin yürütüldüğü bölüm hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -83988,13 +83988,13 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 4,
-    "questionText": "Anadolu'daki Türk beylikleri hakkında \naşağıdakilerden hangisi söylenemez?",
+    "questionText": "Anadolu'daki Türk beylikleri hakkında aşağıdakilerden hangisi söylenemez?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Bizans'a karşı her zaman ortak hareket \netmişlerdir."
+        "text": "Bizans'a karşı her zaman ortak hareket etmişlerdir."
       },
       {
         "key": "B",
@@ -84006,7 +84006,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       },
       {
         "key": "D",
-        "text": "Anadolu'nun Türkleşmesine katkıda \nbulunmuşlardır."
+        "text": "Anadolu'nun Türkleşmesine katkıda bulunmuşlardır."
       },
       {
         "key": "E",
@@ -84026,7 +84026,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 5,
-    "questionText": "Aşağıdakilerden hangisi tımar sisteminin \nçözülmesinin doğrudan sonuçları arasında \ngösterilemez?",
+    "questionText": "Aşağıdakilerden hangisi tımar sisteminin çözülmesinin doğrudan sonuçları arasında gösterilemez?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84064,7 +84064,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 6,
-    "questionText": "Saray-ı Cedid-i Amire adıyla da anılan \nsaray hangisidir?",
+    "questionText": "Saray-ı Cedid-i Amire adıyla da anılan saray hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84102,7 +84102,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 7,
-    "questionText": "Aşağıdakilerden hangisi Osmanlı eğitim \nkurumlarından biri değildir?",
+    "questionText": "Aşağıdakilerden hangisi Osmanlı eğitim kurumlarından biri değildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84140,7 +84140,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 8,
-    "questionText": "Halifenin hükümdarlığı onayladığını \ngöstermek amacıyla gönderdiği giysiye ne ad \nverilir?",
+    "questionText": "Halifenin hükümdarlığı onayladığını göstermek amacıyla gönderdiği giysiye ne ad verilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84178,7 +84178,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 9,
-    "questionText": "Tımarlı sipahilerle ilgili aşağıdaki \nifadelerden hangisi yanlıştır?",
+    "questionText": "Tımarlı sipahilerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84216,7 +84216,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 10,
-    "questionText": "Gazneliler döneminde yaşayan ve Tahkiku \nma li'l-Hind adlı eseri yazan bilgin kimdir?",
+    "questionText": "Gazneliler döneminde yaşayan ve Tahkiku ma li'l-Hind adlı eseri yazan bilgin kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84254,7 +84254,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 11,
-    "questionText": "Türkiye Selçuklularında sultan başkentten \nayrıldığında ona vekâlet eden görevli kimdir?",
+    "questionText": "Türkiye Selçuklularında sultan başkentten ayrıldığında ona vekâlet eden görevli kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84292,7 +84292,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 12,
-    "questionText": "Yüce kapı anlamıyla hükûmet karşılığında \nkullanılan kavram hangisidir?",
+    "questionText": "Yüce kapı anlamıyla hükûmet karşılığında kullanılan kavram hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84330,7 +84330,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 13,
-    "questionText": "Devşirme kökenli çocukların saray \nhizmetine hazırlanmak üzere eğitim gördükleri \nkurum hangisidir?",
+    "questionText": "Devşirme kökenli çocukların saray hizmetine hazırlanmak üzere eğitim gördükleri kurum hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84368,7 +84368,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 14,
-    "questionText": "Aşağıdaki eğitim kurumlarından hangisi \nTanzimat döneminde açılmıştır?",
+    "questionText": "Aşağıdaki eğitim kurumlarından hangisi Tanzimat döneminde açılmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84406,7 +84406,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 15,
-    "questionText": "II. Meşrutiyet döneminde Batıcılık \ndüşüncesiyle öne çıkan süreli yayın \nhangisidir?",
+    "questionText": "II. Meşrutiyet döneminde Batıcılık düşüncesiyle öne çıkan süreli yayın hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84444,7 +84444,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 16,
-    "questionText": "Medreseyi bitiren müderris adaylarının \nisimleri hangi deftere kaydedilirdi?",
+    "questionText": "Medreseyi bitiren müderris adaylarının isimleri hangi deftere kaydedilirdi?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84482,7 +84482,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 17,
-    "questionText": "1859'da İstanbul'da açılan ilk kız \nrüştiyesinin adı hangisidir?",
+    "questionText": "1859'da İstanbul'da açılan ilk kız rüştiyesinin adı hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84520,7 +84520,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 18,
-    "questionText": "1889'da sivil veteriner hekim yetiştirmek \namacıyla açılan kurum hangisidir?",
+    "questionText": "1889'da sivil veteriner hekim yetiştirmek amacıyla açılan kurum hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84558,7 +84558,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 19,
-    "questionText": "Osmanlı'nın ilk vakanüvisi kabul edilen \nkişi kimdir?",
+    "questionText": "Osmanlı'nın ilk vakanüvisi kabul edilen kişi kimdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -84596,7 +84596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "subcategory": "Hukuk, Taşra Teşkilatı, Vakıf & Yönetim",
     "icon": "🏛️",
     "questionNumber": 20,
-    "questionText": "Konukevi işleviyle tanıtılan mimari yapı \nhangisidir?",
+    "questionText": "Konukevi işleviyle tanıtılan mimari yapı hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
