@@ -80860,7 +80860,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Medrese)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Klasik dönem Osmanlı eğitim sistemi örgün ve yaygın eğitim olarak iki ana kola ayrılır. Medreseler; orta ve yükseköğretim kademesinde düzenli bir müfredat, sınıf/derece hiyerarşisi (Hâşiye-i Tecrid, Miftah, Sahn vb.) ve icazetnameye (diploma) dayalı en köklü örgün eğitim kurumudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lonca, Tekke ve Kıraathane: Belli bir yaş ve diplomaya bağlı olmayan yaygın eğitim/mesleki/kültürel kurumlardır.<br>• Sahaf: Kitap basımı, satımı ve okuma çevrelerinin oluştuğu sosyal/yaygın kültür alanıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Örgün Eğitim: Sıbyan Mektebi ➔ Medrese ➔ Enderun / Harem / Şehzadegan Mektebi. Yaygın Eğitim: Lonca, Tekke, Cami, Kütüphane, Kıraathane."
+    "explanation": "Doğru Cevap: <strong>E (Medrese)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hocanın anlatımına göre örgün eğitim; planlı, belli bir programı olan, belli yaş kitlesine hitap eden ve devam mecburiyeti bulunan eğitimdir. Sivil örgün kurumlar Sıbyan Mektebi ve Medrese'dir; ayrıca askerî eğitim ve saray eğitimi de örgün kapsamındadır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sahaf, Tekke, Lonca, Kıraathane: Hepsi yaygın eğitim kurumudur. Hocanın yaygın eğitim listesi: cami, lonca, kıraathane, sahaf, saray/köşk/konaklar, kahvehane, muvakkithane, tekke-zaviye-dergâh, rasathane.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Örgün: Sıbyan + Medrese + Askerî + Saray (Enderun, Harem, Şehzadegan). Yaygın: cami, lonca, kıraathane, sahaf, tekke... 'Hangisi örgündür?' dendiğinde Medrese'yi arayın.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q2",
@@ -80898,7 +80898,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Enderun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı saray eğitimi üç ana bölümden oluşur: 1) Enderun (İç saray mektebi - devlet adamı ve asker yetiştirir), 2) Harem (saray kadınlarının eğitimi), 3) Şehzadegan Mektebi (şehzadelerin ilköğretimi). Enderun doğrudan saray teşkilatının kalbidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten ve Arasta: Ticari yapılardır (kapalı çarşı ve aynı esnafın sıralandığı çarşı).<br>• Darüşşifa: Hastane/sağlık kurumudur.<br>• Tabhane: Misafirhane/konukevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray eğitimi dendiğinde 'Enderun - Harem - Şehzadegan' üçlüsünü arayın. Enderun'a devşirme kökenli yetenekli gençler seçilirdi."
+    "explanation": "Doğru Cevap: <strong>C (Enderun)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Saray eğitimi üçe ayrılır: Enderun, Harem, Şehzadegan. Enderun; devşirme kökenlilerin yetiştirildiği, II. Murat ve Fatih döneminde açılan, XIX. yüzyıla kadar devletin memur ihtiyacını karşılayan kurumdur. Sivil memur, askerî üst personel ve sanatkârlar (Ehl-i Hiref) burada yetişirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten, Arasta: Ticaret yapıları (kapalı çarşı / aynı esnafın dükkân sırası).<br>• Darüşşifa: Hastane.<br>• Tabhane: Misafirhane. ℹ️ Bu çeldiricilerin açıklaması ders anlatımında geçmiyor, genel bilgidir; hiçbiri eğitim kurumu değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray eğitimi üçlüsü: Enderun – Harem – Şehzadegan. Enderun'daki sanatkâr topluluğunun adı Ehl-i Hiref'tir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q3",
@@ -80936,7 +80936,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Lonca)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Loncalar, Osmanlı esnaf ve zanaatkâr teşkilatı olup çırak, kalfa ve usta yetiştirme sürecinde ahilik terbiyesi veren en tipik 'mesleki yaygın eğitim' kurumudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Medrese, Sıbyan Mektebi, Enderun ve Acemi Oğlanlar Ocağı: Belli bir yaş, disiplin ve aşamalara bağlı örgün kurumlardır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ahilik ve Lonca sistemi sorularında 'meslek içi yaygın eğitim', 'narh koyma' ve 'orta sandığı' anahtar kavramlardır."
+    "explanation": "Doğru Cevap: <strong>D (Lonca)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Loncalar, mesleki eğitim verilen kurumlardır ve yaygın eğitim kapsamındadır. Hoca, Sıbyan Mektebi'nden sonra çocuğun iki seçeneği olduğunu söyler: meslek öğrenmek için loncaya gitmek ya da devlet kademelerinde görev almak için medreseye gitmek.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Medrese, Sıbyan Mektebi, Enderun: Sivil örgün ve saray eğitimi kurumlarıdır.<br>• Acemi Oğlanlar Ocağı: Askerî örgün eğitim kurumudur; devşirmeler temel eğitimi burada alır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>'Yaygın eğitim' sorusunda cami, lonca, kıraathane, sahaf, tekke-zaviye-dergâh şıklarını arayın. Lonca = mesleki yaygın eğitim.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q4",
@@ -80974,7 +80974,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (İznik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nin ilk medresesi, Orhan Bey döneminde 1331 yılında İznik'in fethinden hemen sonra açılan Orhaniye Medresesi'dir (İznik Medresesi).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bursa ve Edirne medreseleri daha sonraki fetihlerle kurulmuştur.<br>• İstanbul medreseleri (Sahn-ı Seman vb.) Fatih Sultan Mehmet döneminde açılmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk medrese = İznik Orhaniye Medresesi (Orhan Bey, 1331). İlk müderris = Davud-ı Kayserî."
+    "explanation": "Doğru Cevap: <strong>B (İznik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İlk medrese Orhan Bey döneminde İznik'te açılmıştır. Kaynaklarda İznik Orhaniye Medresesi ya da Süleyman Paşa Medresesi olarak geçer; ikisi aynı medresedir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diğer şehirler (Amasya, Edirne, İstanbul, Bursa) ilk medrese değildir. Hoca ayrıca iki Sahn-ı Seman düzeyinde medreseden ilkini Fatih'in, ikincisini Kanuni'nin açtığını anlatır (İstanbul).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk medrese: İznik – Orhan Bey – Orhaniye (= Süleyman Paşa) Medresesi. Hocanın 'bu soru çıkabilir' vurguladığı bilgidir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q5",
@@ -81012,7 +81012,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (İcazetname)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı medreselerinde öğrenimini başarıyla tamamlayan öğrencilere verilen mezuniyet ve ders verme yetki belgesine 'İcâzetnâme' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mülazemet: Medrese mezunlarının müderrislik veya kadılık sırası beklediği bekleme/staj sistemidir.<br>• Berat: Padişahın tayin veya imtiyaz fermanıdır.<br>• İntisap: Bir tarikata veya devlet büyüğüne bağlanmadır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Medrese Diploması = İcazetname. Sıra bekleme/adaylık = Mülazemet. Öğretim üyesi = Müderris."
+    "explanation": "Doğru Cevap: <strong>A (İcazetname)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Medrese mezunlarına verilen diplomaya İcazet (icazetname) denir. Diplomayı alan kişi önce müderrisin yanında yardımcı (muid) olarak çalışır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ruznamçe: Hoca 'Ruzname defteri'nden söz eder; medreseyi bitiren müderris adayları isimlerini Anadolu ve Rumeli kazaskerlik dairelerindeki bu deftere kaydettirir (bekleme sırası). Diploma değildir.<br>• Mühimme, Kanunname, Berat defteri: ℹ️ Ders anlatımında geçmiyor; genel bilgiyle devlet kayıt/hukuk belgeleridir, diploma değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Medrese diploması = İcazet. Müderris adayı kaydı = Ruzname defteri. Atama bekleme sistemi = Mülazemet.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q6",
@@ -81050,7 +81050,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Davud-i Kayseri)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Orhan Bey tarafından 1331'de açılan ilk Osmanlı medresesi olan İznik Orhaniye Medresesi'ne atanan ilk müderris Davud-ı Kayserî'dir. Kendisine günlük 30 akçe yevmiye tahsis edilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dursun Fakih: İlk Osmanlı kadısıdır (Osman Bey dönemi).<br>• Molla Fenari: İlk Şeyhülislamdır (II. Murat dönemi).<br>• Ali Kuşçu: Fatih dönemi Ayasofya müderrisidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Kadı: Dursun Fakih | İlk Müderris: Davud-ı Kayserî | İlk Şeyhülislam: Molla Fenari. Bu üçlü EKYS'de sıkça eşleştirme sorusu olarak gelir."
+    "explanation": "Doğru Cevap: <strong>A (Davud-i Kayseri)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı'nın ilk müderrisi Davud-i Kayseri'dir. Orhan Bey döneminde İznik Orhaniye (Süleyman Paşa) Medresesi'nde görevlendirilmiştir. Hoca 'Bu isim sınavda soru olarak karşımıza gelebilir' diye özellikle vurgular.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ali Kuşçu: Matematik-astronomi bilginidir ('sınavlarda en çok sorulanlardan').<br>• Akşemsettin: Fatih'in akıl hocası, Maddetü'l-Hayat yazarı, fetih sürecinin manevi mimarı.<br>• Kâtip Çelebi, Matrakçı Nasuh: ℹ️ Ders anlatımına göre değil, genel bilgiyle ilk müderris değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk müderris: Davud-i Kayseri (Orhan Bey, İznik). Ezberlenecek ikili: ilk medrese = Orhaniye, ilk müderris = Davud-i Kayseri.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q7",
@@ -81088,7 +81088,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Okuma yazma ve temel hesap bilgisi \nkazandırmak)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sıbyan Mektebi (Taş Mektep / Mahalle Mektebi), Osmanlı ilköğretim basamağıdır. 4-6 yaş civarındaki çocuklara temel dinî bilgiler, Kur'an-ı Kerim okuma, yazı ve basit aritmetik öğretilirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yüksek idari memur yetiştirmek Enderun'un;<br>• İleri düzey tıp ve astronomi medreselerin ve ihtisas kurumlarının görevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sıbyan mektebi mahalle düzeyindedir, karma eğitim verilebilir ve vakıflar tarafından desteklenir."
+    "explanation": "Doğru Cevap: <strong>A (Okuma yazma ve temel hesap bilgisi  kazandırmak)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sıbyan 'küçük çocuk' demektir; günümüzde okul öncesi ve 1. sınıfa denk gelir. Kız-erkek ayrımı olmadan çocuklar burada dinî eğitim, basit hesap ve okuma-yazma öğrenir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hukuk uzmanı yetiştirmek: Medrese düzeyidir (kadı yetiştirmek için Medresetü'l-Kudat).<br>• Saray ressamı: Saray sanat birimleri.<br>• Yabancı dil / diplomat: Sıbyan işlevi değildir.<br>• Deniz mühendisi: Mühendishane-i Bahri Hümayun'un işidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sıbyan Mektebi = ilk basamak: dinî eğitim + okuma yazma + temel hesap. Sonrasında lonca ya da medrese seçeneği vardır.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q8",
@@ -81126,7 +81126,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Muid – Müderris yardımcısı)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Medresede görev yapan öğretim üyesine 'Müderris', onun yardımcısına/asistanına 'Muid', öğrencilerine ise 'Softa' (Suhte - alt kademe) ve 'Dânişmend' (yüksek kademe talebe) denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mütevelli: Vakıf yöneticisidir.<br>• Naib: Kadı vekilidir.<br>• Reisülküttab: Dışişleri ve bürokrasi amiridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Medrese Hiyerarşisi: Softa (alt öğrenci) ➔ Dânişmend (ileri öğrenci) ➔ Muid (asistan) ➔ Müderris (hoca)."
+    "explanation": "Doğru Cevap: <strong>D (Muid – Müderris yardımcısı)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Medrese basamakları: Suhte/Softa (ilk-orta düzey öğrenci) → Danişment (yüksek öğrenci) → Muid (müderris yardımcısı, asistan) → Mülazım (atama bekleyen aday) → Müderris (ders veren hoca, profesör gibi). Doğru eşleştirme: Muid – Müderris yardımcısı.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Müderris – Deniz askeri: Müderris medrese hocasıdır; deniz askeri Levent'tir.<br>• Mülazım – Başnakkaş: Mülazım atama bekleyen adaydır.<br>• Danişment – Saray hekimi: Danişment yüksek medrese öğrencisidir.<br>• Softa – Kadı: Softa ilk-orta düzey öğrencidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Basamak sırası: Softa → Danişment → Muid → Mülazım → Müderris. 'Muid mülazımın altındadır.'<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q9",
@@ -81164,7 +81164,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Bed-i Besmele Merasimi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı'da şehzadelerin veya çocukların sıbyan mektebine başlarken düzenlenen ilk ders törenine 'Bed-i Besmele' (Besmeleye Başlama) veya 'Âmin Alayı' denirdi.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kılıç Alayı: Padişahın tahta çıkışında Eyüp Sultan'da yapılan taç giyme merasimidir.<br>• Cülus: Tahta çıkış ve bahşiş törenidir.<br>• Sancak Töreni: Şehzadenin sancağa çıkış merasimidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk ders, besmele ve dua töreni = Bed-i Besmele / Âmin Alayı. Çocuk 4 yaş, 4 ay, 4 günlükken yapılması gelenektir."
+    "explanation": "Doğru Cevap: <strong>C (Bed-i Besmele Merasimi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Çocuğun okula başlarken yapılan töreni Bed-i Besmele (Bed-i Besmele Merasimi) olarak anılır; Âmin Alayı da aynı törendir. Hoca şehzadelerin Şehzadegan Mektebi'nde ilk derslerini Şeyhülislam'dan aldığını da anlatır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Çıkma, Cülus bahşişi, Surre alayı, Kılıç alayı: ℹ️ Bu şıkların açıklamaları ders anlatımında bu bağlamda geçmiyor; genel bilgiyle tahta çıkış, hac hediyesi ve kılıç kuşanma törenleridir, ilk ders töreni değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk ders töreni = Bed-i Besmele = Âmin Alayı (ikisi aynı). Şehzadelerin ilk dersini Şeyhülislam verir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q10",
@@ -81202,7 +81202,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Çıkma)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Devşirme çocuklarının Acemi Oğlanlar Ocağı'ndaki eğitimlerini tamamlayıp Yeniçeri Ocağı'na veya diğer Kapıkulu ocaklarına geçiş yapmalarına 'Bedergâh' ya da 'Kapıya Çıkma' adı verilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İcazet: Medrese mezuniyetidir.<br>• Tahrir: Arazi ve vergi nüfus kaydıdır.<br>• Narh: Fiyat sınırlamasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Acemi Ocağı'ndan asıl ocağa geçiş = Bedergâh (Kapıya Çıkma). Bu törenle askerler esame defterine kaydedilir ve ulufe almaya hak kazanır."
+    "explanation": "Doğru Cevap: <strong>B (Çıkma)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Cevap anahtarına göre doğru şık 'Çıkma'dır: acemi oğlanın acemi ocağından asıl ocağa (Yeniçeri vb.) geçişi. ℹ️ Dikkat: Hoca bu geçişi derste 'Bedergâh' adıyla anlatır ('acemi oğlanlıktan yeniçeriliğe geçişe Bedergâh deniyor'). Soruda Bedergâh şıkkı yok, o yüzden Çıkma doğru kabul edilir; 'çıkma' teriminin bu anlamı ders anlatımında geçmiyor, genel bilgidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İltizam, Mukataa: Vergi gelirlerini toplama sistemidir.<br>• İcazet: Medrese diplomasıdır.<br>• Müsadere: Devlet adına mal el koyma. ℹ️ Bu üç terimin tanımı da genel bilgidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hocaya göre: Acemi → Yeniçeri geçişi = Bedergâh. Yetenekli olanlar Enderun'a alınır. Bu soruda doğru şık 'Çıkma'dır.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q11",
@@ -81240,7 +81240,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Cebelü)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tımar sisteminde dirlik sahiplerinin (sipahilerin) elde ettikleri her belirli gelir (genellikle her 3.000 veya 5.000 akçe) karşılığında savaşa hazırlayıp techiz etmekle yükümlü oldukları atlı zırhlı askerlere 'Cebelü' denir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Levent: Deniz askeridir.<br>• Muid: Müderris yardımcısıdır.<br>• Müstensih: Kitap kopyalayan hattattır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tımarlı Sipahi = Ordunun omurgası, barışta çiftçi/güvenlik, savaşta cebelüleri ile orduya katılır. Hazineye sıfır maliyetlidir."
+    "explanation": "Doğru Cevap: <strong>E (Cebelü)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Eyalet askerlerinde tımarlı sipahiler atlı asker yetiştirir; bunlara Cebelü denir. Hoca 'biri kara, diğeri deniz' diyerek Cebelü ile Levent'i karşılaştırır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Levent: Tersanelerde yetişen deniz askeri.<br>• Muid: Medrese asistanı.<br>• Mülazım: Medrese atama bekleyen adayı.<br>• Müstensih: ℹ️ Ders anlatımında geçmiyor; genel bilgiyle el yazması kopyalayan kâtip.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kara = Cebelü (tımarlı sipahinin yetiştirdiği atlı asker). Deniz = Levent (tersane).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q12",
@@ -81278,7 +81278,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Levent)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı donanmasında ve tersanelerinde görev yapan, gemi mürettebatı ve deniz piyadelerine 'Levent' adı verilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Cebelü: Tımarlı sipahinin atlı askeri;<br>• Musavvir: Minyatür ressamı;<br>• Softa: Medrese talebesidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Donanma Askeri = Levent. Donanma Komutanı = Kaptan-ı Derya. Deniz subay okulu = Mühendishane-i Bahrî-i Hümâyun."
+    "explanation": "Doğru Cevap: <strong>C (Levent)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tersanelerde / donanmada yetişen askerlere Levent denir. Hoca ayrıca 'Biri kara, diğeri deniz' diye Cebelü ile ayırt eder.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Cebelü: Tımarlı sipahinin yetiştirdiği atlı kara askeri.<br>• Müderris, Softa: Medrese hocası ve öğrencisi.<br>• Musavvir: ℹ️ Ders anlatımında geçmiyor; genel bilgiyle minyatür ressamıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tersane = Levent (deniz). Tımar = Cebelü (kara). İki kavram sıkça yan yana sorulur.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q13",
@@ -81316,7 +81316,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (I. Mahmut)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1734 yılında Üsküdar'da Humbaracı Ahmet Paşa (Comte de Bonneval) öncülüğünde açılan ve Batı tarzı ilk askerî teknik okul sayılan Hendesehane, I. Mahmut dönemine aittir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• II. Mahmut: XIX. yüzyıl ıslahatçısıdır (Mekteb-i Harbiye, Tıbbiye).<br>• III. Selim: Mühendishane-i Berrî-i Hümâyun'u kurmuştur.<br>• II. Abdülhamit: Meslek ve mülkiye okullarını yaygınlaştırmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batı tarzı İLK askerî teknik eğitim kurumu = Hendesehane (1734 - I. Mahmut dönemi, Humbaracı Ahmet Paşa)."
+    "explanation": "Doğru Cevap: <strong>B (I. Mahmut)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hendesehane 1734'te I. Mahmut döneminde açılmıştır. Topçuluk ve mühendislik eğitimi verilir; batı tarzı ilk askerî eğitim kurumudur. Yeniçeriler istemediği için kısa süre sonra kapatılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• III. Selim: 1795, Mühendishane-i Berri Hümayun.<br>• II. Mahmut: Mekteb-i Harbiye ve Tıbbiye.<br>• Abdülaziz: Darülmuallimat.<br>• II. Abdülhamit: ℹ️ Ders anlatımına göre değil, genel bilgiyle Hamidiye Ticaret, Mülkiye Baytar gibi okullar.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>XVIII. yüzyıl okulları: Hendesehane (I. Mahmut, 1734) – İstihkam okulu – Mühendishane-i Bahri (I. Abdülhamit, 1775) – Mühendishane-i Berri (III. Selim, 1795).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q14",
@@ -81354,7 +81354,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Deniz subayı ve deniz mühendisi yetiştirmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1773-1775 yıllarında kurulan Mühendishane-i Bahrî-i Hümâyun (Deniz Mühendishanesi), Osmanlı donanmasına modern deniz subayı, gemi inşa mühendisi ve kaptan yetiştirmek amacıyla açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kız öğretmen yetiştirmek Dârülmuallimât'ın (1870);<br>• Mülki idareci yetiştirmek Mekteb-i Mülkiye'nin (1859) görevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bahr = Deniz (Bahrî = Deniz subayı). Berr = Kara (Berrî = Kara istihkam ve topçu subayı)."
+    "explanation": "Doğru Cevap: <strong>A (Deniz subayı ve deniz mühendisi yetiştirmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Bahri 'deniz' demektir; Mühendishane-i Bahri Hümayun deniz mühendishanesidir ve donanmanın ihtiyaç duyduğu subayları yetiştirir. 1775'te I. Abdülhamit döneminde açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Kız öğretmen: Darülmuallimat.<br>• Kadı: Medresetü'l-Kudat.<br>• Sivil veteriner: Mülkiye Baytar.<br>• Tiyatro sanatçısı: Darülbedayi.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Bahri = deniz (donanma subayı). Berri = kara (kara ordusu subayı). Bahri'yi açan I. Abdülhamit, Berri'yi açan III. Selim.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q15",
@@ -81392,7 +81392,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (III. Selim)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1795 yılında III. Selim'in Nizâm-ı Cedîd reformları kapsamında kurulan Mühendishane-i Berrî-i Hümâyun, kara ordusuna (topçu ve istihkam sınıflarına) modern mühendis ve subay yetiştirmeyi amaçlamıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Sadece esnaf denetimi lonca muhtesibinin işidir.<br>• Yabancı dil tercümanlığı Tercüme Odası'nın görevidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>III. Selim dönemi = Mühendishane-i Berrî-i Hümâyun (1795). Kara istihkam, haritacılık ve topçuluk okuludur."
+    "explanation": "Doğru Cevap: <strong>D (III. Selim)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Mühendishane-i Berri Hümayun kara mühendishanesidir; kara ordusunun subay ihtiyacını karşılamak için III. Selim döneminde (1795) açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• I. Mahmut: Hendesehane (1734).<br>• Abdülaziz: Darülmuallimat.<br>• Abdülmecid: Mekteb-i Mülkiye.<br>• II. Mahmut: Harbiye, Tıbbiye. Hoca bu karışıklığı çıkmış soru üzerinden anlatır: Berri III. Selim, Bahri I. Abdülhamit, Harbiye ve Tıphane-i Amire II. Mahmut, Mülkiye Tanzimat.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Berri → III. Selim, Bahri → I. Abdülhamit. Hoca: 'Tıphane-i Amire ve Mekteb-i Harbiye ikisi de II. Mahmut dönemi.'<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q16",
@@ -81430,7 +81430,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Mekteb-i Tıbbiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1827 yılında ordunun modern tabip ve cerrah ihtiyacını karşılamak amacıyla Tıbhane-i Âmire ve Cerrahhane-i Mâmure'yi açan Osmanlı padişahı II. Mahmut'tur (Şehzadebaşı'nda açılmıştır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Abdülaziz: Dârüşşafaka ve Sanayi-i Nefise dönemidir.<br>• I. Abdülhamit ve III. Selim: XVIII. yüzyıl ıslahatçılarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>1827 Tıbhane-i Âmire (14 Mart Tıp Bayramı buradan gelir) = II. Mahmut dönemi."
+    "explanation": "Doğru Cevap: <strong>D (Mekteb-i Tıbbiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ordunun doktor (doktor subay) ihtiyacı için II. Mahmut döneminde Mekteb-i Tıbbiye açılmıştır. Hoca, Mekteb-i Tıbbiye ile Tıphane-i Amire'nin aynı kurum olduğunu ve 2026 sınavında Tıphane-i Amire adıyla çıktığını vurgular.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Darülmuallimat: Kız öğretmen okulu.<br>• Darülmaarif: Mekteb-i Maarif-i Adliye'nin 1850'de dönüştüğü kurum.<br>• Darülbedayi: Tiyatro.<br>• Mekteb-i Mülkiye: Tanzimat döneminde (Abdülmecid) açılan idareci okulu.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mekteb-i Tıbbiye = Tıphane-i Amire (II. Mahmut). 2026 sınavında 'Tıphane-i Amire' diye geldi, isimden şaşırmayın.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q17",
@@ -81468,7 +81468,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Mekteb-i Harbiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Yeniçeri Ocağı'nın 1826'da kaldırılmasından sonra Asâkir-i Mansûre-i Muhammediye ordusuna modern kurmay subay yetiştirmek amacıyla 1834'te Mekteb-i Harbiye'yi kuran padişah II. Mahmut'tur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• V. Murat sadece 93 gün tahtta kalmıştır.<br>• III. Selim Nizam-ı Cedid'i kurmuş fakat Harbiye II. Mahmut döneminde teşkilatlanmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mekteb-i Harbiye (1834) ve Mekteb-i Tıbbiye (1827) kurucusu II. Mahmut'tur."
+    "explanation": "Doğru Cevap: <strong>A (Mekteb-i Harbiye)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ordunun subay ihtiyacı için II. Mahmut döneminde Mekteb-i Harbiye açılmıştır (1834). Soruda 'Harbiye Mektebi' diye de gelebilir. Hoca, Harbiye'yi bitirenlerin kurmay eğitimi için Erkân-ı Harbiye Mektebi'ne gittiğini de söyler.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hamidiye Ticaret Mektebi: ℹ️ Ders anlatımında yalnızca adı sayılır; II. Abdülhamit dönemi okuludur.<br>• Darülelhan: Sivil müzik eğitimi.<br>• İnas Darülfünunu: Kız üniversitesi.<br>• Darüşşafaka: ℹ️ Ders anlatımında geçmiyor; genel bilgiyle yetim çocuklara yönelik okuldur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>II. Mahmut dönemi: Harbiye (subay) + Tıbbiye (doktor subay) + Maarif-i Adliye ve Ulum-ı Edebiye (memur) + ilk rüştiyeler.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q18",
@@ -81506,7 +81506,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Devletin memur ihtiyacını karşılamak)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>II. Mahmut döneminde açılan Mekteb-i Maârif-i Adliye ve Mekteb-i Ulûm-ı Edebiye, Bab-ı Âli bürokrasisine Türkçe ve yabancı dil bilen, modern devlet memuru (kâtip) yetiştirmek amacıyla kurulmuştur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yalnız din adamı yetiştirmek medreselerin işidir.<br>• Yalnız deniz askeri tersane ocaklarında eğitilir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mekteb-i Maârif-i Adliye = II. Mahmut'un modern devlet memuru (bürokrat) mektebidir."
+    "explanation": "Doğru Cevap: <strong>A (Devletin memur ihtiyacını karşılamak)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Mekteb-i Maarif-i Adliye (soruda 'Mekteb-i Maarif' diye de gelir) ve Mekteb-i Ulum-ı Edebiye, Enderun'un işlevini kaybetmesi üzerine devletin memur ihtiyacını karşılamak için açılmıştır. Ulum-ı Edebiye günümüz lisesinin temeli sayılır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Cerrah: Tıbbiye.<br>• Denizci: Mühendishane-i Bahri.<br>• Güzel sanatlar: Sanayi-i Nefise.<br>• Saray müzisyeni: ℹ️ Mızıka-yı Hümayun'un kuruluşu ders anlatımında geçer ama bu iki okulla ilgisi yoktur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Maarif-i Adliye + Ulum-ı Edebiye = memur yetiştirme (Enderun'un yerini alır). Maarif-i Adliye 1850'de Darülmaarif'e dönüşür.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q19",
@@ -81544,7 +81544,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Darülmuallimin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Tanzimat Dönemi'nde (1848) Sultan Abdülmecit döneminde rüştiye (ortaokul) mekteplerine modern öğretmen yetiştirmek amacıyla açılan erkek öğretmen okulu Dârülmuallimîn'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dârülmuallimât: 1870'te kız okulları için açılan kadın öğretmen mektebidir.<br>• Dârülfünun: Üniversitedir.<br>• Dârülaceze: Yoksullar yurdudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Dârülmuallimîn = Erkek Öğretmen Okulu (1848 - Abdülmecit). Dârülmuallimât = Kız Öğretmen Okulu (1870 - Abdülaziz)."
+    "explanation": "Doğru Cevap: <strong>E (Darülmuallimin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Darülmuallimin erkek öğretmen okuludur. Muallim 'öğretmen' demektir; erkekler için Darülmuallimin, kızlar için Darülmuallimat kullanılır. Soruda rüştiyelere öğretmen yetiştirmek amacıyla 1848'de açıldığı belirtilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Darülmuallimat: Kız öğretmen okulu.<br>• Mekteb-i Mülkiye: İdareci okulu.<br>• Darülelhan: Sivil müzik okulu.<br>• Darülbedayi: Tiyatro.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Darülmuallimin = erkek öğretmen. Darülmuallimat = kız öğretmen (Abdülaziz dönemi). 'ât' Arapça dişil çoğul ekidir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_1_q20",
@@ -81582,7 +81582,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Darülmuallimat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1870 yılında Sultan Abdülaziz döneminde kız rüştiye ve sıbyan okullarına kadın öğretmen yetiştirmek amacıyla Dârülmuallimât açılmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Dârülbedayi: Şehir tiyatrosudur.<br>• Dârülmuallimîn: Erkek öğretmen okuludur.<br>• Sanayi-i Nefise: Güzel sanatlar mektebidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Dârülmuallimât (Muallime = Kadın öğretmen) ➔ 1870 Maarif Nizamnamesi gereği Abdülaziz döneminde açılmıştır."
+    "explanation": "Doğru Cevap: <strong>D (Darülmuallimat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Darülmuallimat kız öğretmen okuludur ve Abdülaziz döneminde açılmıştır. Muallimat, 'muallim'in dişil çoğuludur. Soruda 1870'te kız okullarına kadın öğretmen yetiştirmek amacıyla açıldığı belirtilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mülkiye Baytar Mektebi: Hayvan hekimi (veteriner) yetiştirir.<br>• Darülmaarif: Mekteb-i Maarif-i Adliye'nin dönüşmüş hâli.<br>• Mekteb-i Harbiye: Subay okulu.<br>• Darülmuallimin: Erkek öğretmen okulu.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kız öğretmen = Darülmuallimat (Abdülaziz). Erkek öğretmen = Darülmuallimin. Hoca 'Arapça dişil eki' ile ayırt ettirir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q1",
@@ -81620,7 +81620,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Kurucu cemiyeti 1863'te kurulmuş, okul 1873'te \nöğretime başlamıştır.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Darüşşafaka (Şefkat Yuvası), 1863'te kurulan Cemiyet-i Tedrisiye-i İslamiye tarafından temeli atılmış, 1873'te eğitime başlamış olup yetim, öksüz ve yoksul çocuklara parasız yatılı kaliteli eğitim veren kurumdur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Fransızca tıp okulu değildir.<br>• Sadece saray mensuplarına değil, halkın öksüz/yetim çocuklarına eğitim vermiştir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Darüşşafaka: 1863 Cemiyet, 1873 Okul | Öksüz, yetim ve yoksul çocukların eğitim yuvası."
+    "explanation": "Doğru Cevap: <strong>E (Kurucu cemiyeti 1863'te kurulmuş, okul 1873'te  öğretime başlamıştır.)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Darüşşafaka Tanzimat döneminde, 1873'te açılmıştır ve annesi ya da babası olmayan öksüz-yetim çocukları öğrenci alır; hoca bugün de aynı amaçla faaliyet gösterdiğini söyler. Seçenekteki '1863'te kurucu cemiyet' bilgisi ders anlatımında geçmiyor (ℹ️ soru metnindeki bilgidir), 1873 açılış tarihi ise derste geçer.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Fransızca tıp okulu: Değil; tıp için Tıbbiye vardır.<br>• Yalnız askerî subay: Değil; hedef kitlesi öksüz-yetimlerdir.<br>• II. Mahmut, 1827: O tarih Tıbbiye (Tıphane-i Amire) dönemidir; Darüşşafaka Tanzimat döneminde, 1873'te açıldı.<br>• Yalnız saray mensupları: Değil; saray eğitimi Enderun, Harem, Şehzadegan'dır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Darüşşafaka = öksüz ve yetim çocukların okulu (1873, Tanzimat). Hoca: 'Tarihleri ezberlemenize gerek yok, Tanzimat dönemi olduğunu bilin.'<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q2",
@@ -81658,7 +81658,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Osman Hamdi Bey)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1882'de II. Abdülhamit döneminde kurulan ve bugünkü Mimar Sinan Güzel Sanatlar Üniversitesi'nin temeli olan Sanayi-i Nefise Mektebi'nin kurucusu ve ilk müdürü ünlü arkeolog ve ressam Osman Hamdi Bey'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Şeker Ahmet Paşa: İlk resim sergisini açan asker ressamdır.<br>• Yusuf Akçura: Üç Tarz-ı Siyaset yazarı Türkçü düşünürdür.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osman Hamdi Bey: Sanayi-i Nefise kurucusu + Asar-ı Atika (İstanbul Arkeoloji Müzesi) kurucusu + Kaplumbağa Terbiyecisi tablosunun ressamı."
+    "explanation": "Doğru Cevap: <strong>B (Osman Hamdi Bey)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Sanayi-i Nefise Mektebi, II. Abdülhamid döneminde Osman Hamdi Bey öncülüğünde 1881'de açılan güzel sanatlar okuludur. Günümüzde Mimar Sinan Güzel Sanatlar Üniversitesi olarak devam eder.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Abdullah Cevdet: Batıcılık akımı ve İçtihat dergisi.<br>• Yusuf Akçura, Şeker Ahmet Paşa, Eşref Edip: ℹ️ Ders anlatımında bu bağlamda geçmiyor; genel bilgiyle fikir/sanat dünyasının farklı isimleridir, Sanayi-i Nefise'nin kurucusu değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sanayi-i Nefise = güzel sanatlar okulu = Osman Hamdi Bey (II. Abdülhamid).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q3",
@@ -81696,7 +81696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Tiyatro – Müzik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1914'te kurulan Dârülbedayi konservatuvar ve tiyatro (bugünkü İstanbul Şehir Tiyatroları), 1917'de kurulan Dârülalhan ise müzik ve konservatuvar (konservatuvar/nağmeler evi) kurumudur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Matbaacılık ve madencilikle ilgileri yoktur.<br>• Yalnız askeri haritacılık kurumları değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Dârülbedayi = Tiyatro (Güzellikler Evi). Dârülalhan = Müzik / Konservatuvar (Ezgi/Nağmeler Evi)."
+    "explanation": "Doğru Cevap: <strong>D (Tiyatro – Müzik)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Darülbedayi 1914'te açılan tiyatro eğitimi okuludur; Darülelhan 1917'de açılan konservatuvardır (sivil müzik eğitimi). Cumhuriyet'te adları değişir: Darülbedayi İstanbul Şehir Tiyatroları'na, Darülelhan İstanbul Devlet Konservatuvarı'na dönüşür.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ticaret-Veterinerlik, Mimari-Astronomi, Tıp-Hukuk, Öğretmenlik-Denizcilik: Hiçbiri bu iki kurumun alanı değildir. (Veteriner için Baytar mektepleri, denizcilik için Mühendishane-i Bahri vardır.)<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Darülbedayi = Tiyatro. Darülelhan = Müzik/Konservatuvar. Hoca: 'Darülbedayi neydi? Tiyatro.'<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q4",
@@ -81734,7 +81734,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (İnas Darülfünunu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1914 yılında Osmanlı Devleti'nde kız öğrencilere üniversite düzeyinde yükseköğretim hakkı tanımak amacıyla kurulan kurum 'İnas Dârülfünunu'dur (Kız Üniversitesi).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İnas Rüştiyesi: Ortaokul seviyesindedir (1859).<br>• Lisan Mektebi: Tercüman yetiştirir.<br>• Hendese-i Mülkiye: İnşaat mühendisliği mektebidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İnas = Kadın/Kız. İnas Dârülfünunu = Kız Üniversitesi (1914, I. Dünya Savaşı dönemi)."
+    "explanation": "Doğru Cevap: <strong>C (İnas Darülfünunu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>İnas Darülfünunu kızların eğitim gördüğü kız üniversitesidir; 1914'te açılmıştır. Soruda 'kadınlara yükseköğretim imkânı sağlayan kurum' diye sorulur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Darüşşafaka: Öksüz-yetim okulu.<br>• Mekteb-i Ulum-ı Edebiye: Memur yetiştiren, günümüz lisesinin temeli.<br>• Mekteb-i Harbiye: Subay okulu.<br>• Darülmuallimin: Erkek öğretmen okulu.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İnas = kız/kadın. İnas Darülfünunu = Kız Üniversitesi. Hocanın fikir akımlarından önce sorduğu eşleştirmelerden biridir.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q5",
@@ -81772,7 +81772,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Farklı toplulukları Osmanlı vatandaşlığı \netrafında birleştirmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlıcılık akımının temel felsefesi; din, dil, ırk ve mezhep farkı gözetmeksizin sınırları içerisindeki tüm tebaayı eşit haklara sahip tek bir 'Osmanlı Vatandaşı' kimliği altında bir arada tutmaktır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yalnız Türkleri birleştirmek Türkçülük (Pantürkizm);<br>• Yalnız Müslümanları birleştirmek İslamcılık (İttihad-ı İslam) akımıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tanzimat, Islahat ve I. Meşrutiyet'in temel resmi ideolojisi Osmanlıcılıktır (Genç Osmanlılar / Jön Türkler savunmuştur)."
+    "explanation": "Doğru Cevap: <strong>C (Farklı toplulukları Osmanlı vatandaşlığı  etrafında birleştirmek)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlıcılığın diğer adı İttihad-ı Anasır'dır. Hocanın 'ne olursan ol yine gel' örneğiyle: Hristiyan, Yahudi, Müslüman fark etmeksizin Osmanlı sınırları içindeki herkesi tek bir Osmanlı kimliği altında birleştirmeyi hedefler.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yalnız Türkleri birleştirmek: Türkçülük.<br>• Yalnız Müslümanları birleştirmek: İslamcılık.<br>• Saray eğitimini kaldırmak, meslek okullarını kapatmak: Bu akımın konusu değildir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osmanlıcılık = İttihad-ı Anasır. Yayın organları: Hürriyet ve İbret (Namık Kemal); İttihatçılardan Meşveret ve Mizan.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q6",
@@ -81810,7 +81810,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Türk Yurdu ve Genç Kalemler)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türkçülük akımının II. Meşrutiyet dönemindeki en önemli yayın organları 'Türk Yurdu' dergisi ve 'Halka Doğru' mecmuasıdır. Yusuf Akçura, Ziya Gökalp ve Mehmet Emin Yurdakul bu dergilerde yazmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• İçtihad: Abdullah Cevdet'in Batıcı dergisidir.<br>• Sebilürreşad / Sırat-ı Müstakim: Mehmet Akif'in İslamcı yayın organıdır.<br>• Ceride-i Havadis: Yarı resmi gazetedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Türkçülük = Türk Yurdu, Halka Doğru, Türk Derneği. İslamcılık = Sebilürreşad, Sırat-ı Müstakim. Batıcılık = İçtihad."
+    "explanation": "Doğru Cevap: <strong>C (Türk Yurdu ve Genç Kalemler)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Türk Yurdu ve Genç Kalemler dergileri Türkçülük akımının yayın organlarıdır. Hoca bu eşleştirmeyi çıkmış soru olarak da sorar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hürriyet ve İbret: Osmanlıcılık.<br>• İçtihat: Batıcılık.<br>• Volkan: İslamcı çizgi (31 Mart İsyanı'nda etkili, Derviş Vahdeti).<br>• Mizan: Osmanlıcılık (Mizancı Murat).<br>• Mahfil: Dinî, ilmî, edebî dergi (1920-26), İslamcı çizgide listelenir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Türkçülük = Türk Yurdu + Genç Kalemler. İslamcılık = Sırat-ı Müstakim, Sebilürreşad, Beyanülhak, Volkan. Batıcılık = İçtihat.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q7",
@@ -81848,7 +81848,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D (Abdullah Cevdet – İçtihat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Batıcılık akımının en radikal savunucusu Abdullah Cevdet'tir ve bu düşünceyi savunduğu meşhur yayın organı 'İçtihad' dergisidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ziya Gökalp: Türkçülüğün Esasları yazarıdır.<br>• Mehmet Akif Ersoy: İslamcılık akımının öncüsüdür.<br>• Şemsettin Sami: Taaşşuk-ı Talat ve Kamus-ı Türki yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batıcılık ➔ Abdullah Cevdet ve İçtihad dergisi. Sloganları: 'Garp medeniyetini gülüyle dikeniyle almalıyız'."
+    "explanation": "Doğru Cevap: <strong>D (Abdullah Cevdet – İçtihat)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Batıcılığın (Garpçılık) savunucuları Abdullah Cevdet, İbrahim Temo, Celal Nuri, Kılıçzade Hakkı'dır; yayın organı İçtihat dergisidir ve hoca 'tek bir yayın organı var' der. Tevfik Fikret de Batıcılığı savunur.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mehmet Akif – İbret: Akif İslamcılık, İbret ise Osmanlıcılık yayını.<br>• Ziya Gökalp – Volkan: Gökalp Türkçülük, Volkan İslamcı gazete.<br>• Yusuf Akçura – Mahfil: ℹ️ Mahfil dinî-ilmî dergidir; ders anlatımında Akçura ile eşleşmez.<br>• Namık Kemal – Türk Yurdu: Namık Kemal Hürriyet-İbret (Osmanlıcılık) ile anılır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Batıcılık = Abdullah Cevdet + İçtihat. Eşleştirme sorularında kişi ile yayın organının aynı akıma ait olup olmadığına bakın.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q8",
@@ -81886,7 +81886,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Matematik ve astronomi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kadızade-i Rûmî, XIV-XV. yüzyıllarda yaşamış, Semerkant Rasathanesi ve medresesinde Uluğ Bey ve Ali Kuşçu ile birlikte çalışmış büyük bir astronomi ve matematik bilginidir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yalnız minyatür veya hat sanatçısı değildir.<br>• Yalnız denizcilikle uğraşmamıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kadızade-i Rûmî ➔ Semerkant ekolünün matematik ve astronomi hocasıdır. 'Şerh-i Çagmini' eseri meşhurdur."
+    "explanation": "Doğru Cevap: <strong>E (Matematik ve astronomi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kadızade-i Rumi Bursa'da meşhurdur; matematik ve astronomi uzmanıdır. Uluğ Bey ve Ali Kuşçu'nun hocasıdır. Hoca 'hem matematik hem astronomi diyoruz, ikisini ayırmıyoruz' der.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Müzik-resim, Hat-tezhip: Sanat alanlarıdır.<br>• Hukuk-tarih: Ahmet Cevdet Paşa gibi isimlerin alanı.<br>• Cerrahi-eczacılık: Tıp alanıdır (Sabuncuoğlu, Altuncuzade vb.).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Matematik-astronomi grubu: Kadızade-i Rumi, Ali Kuşçu, Takiyüddin Mehmet, Mirim Çelebi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q9",
@@ -81924,7 +81924,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Ali Kuşçu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ali Kuşçu, Otlukbeli Zaferi sonrası Fatih Sultan Mehmet'e astronomi alanındaki 'Risale fi'l-Fethiye' (Fethiye) ve matematik alanındaki 'Risale fi'l-Muhammediye' (Muhammediye) adlı eserlerini ithaf etmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Piri Reis: Kitab-ı Bahriye yazarıdır.<br>• Sabuncuoğlu: Cerrahiyatü'l-Haniye yazarıdır.<br>• Katip Çelebi: Keşfü'z-Zünun ve Cihannüma yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Fethiye (astronomi) ve Muhammediye (matematik) = Ali Kuşçu (Fatih'e takdim etmiştir)."
+    "explanation": "Doğru Cevap: <strong>C (Ali Kuşçu)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ali Kuşçu Ayasofya'da müderrislik yapmış, Ayasofya medresesinde 'Fethiye' ve 'Muhammediye' adlı eserlerini Fatih'e sunmuştur. Ayın haritasını çıkaran ilk bilim insanıdır, İstanbul'un enlem ve boylamını hesaplamıştır; NASA ayın bir bölgesine adını vermiştir. Hoca: 'Sınavlarda en çok sorulanlardan biri.'<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Takiyüddin Mehmet: İlk rasathane (Tophane).<br>• Mustafa Naima: İlk resmî tarih yazıcısı (vakanüvis).<br>• Ahmet Cevdet Paşa: En büyük tarihçi, Mecelle.<br>• Piri Reis: Kitab-ı Bahriye.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ali Kuşçu: Fethiye + Muhammediye, Ayasofya müderrisi, Ay haritası, 'Osmanlı'da pozitif bilimlerin kurucusu' sayılır.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q10",
@@ -81962,7 +81962,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Kadızade-i Rumî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kadızade-i Rûmî, Semerkant'ta hem Timur'un torunu olan astronom Uluğ Bey'in hem de Ayasofya başmüderrisi olacak Ali Kuşçu'nun hocalığını yapmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lagari Hasan Çelebi roketçidir.<br>• Takiyüddin Mehmet İstanbul Rasathanesi'ni kurmuştur.<br>• Akşemsettin Fatih'in hocasıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Uluğ Bey ve Ali Kuşçu'nun ortak hocası = Kadızade-i Rûmî."
+    "explanation": "Doğru Cevap: <strong>E (Kadızade-i Rumî)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ali Kuşçu ve Uluğ Bey'in hocası Kadızade-i Rumi'dir; Bursa'ya gelip bir süre orada kalmıştır. Matematik ve astronomi uzmanıdır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yanyalı Esad Efendi: Lale Devri, Muallim-i Salis.<br>• Akşemsettin: Tıp (mikrop), Fatih'in hocası.<br>• Ahi Çelebi: Böbrek hastalıkları hekimi.<br>• Sabuncuoğlu: Cerrahi ve deneysel farmakoloji.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hoca-öğrenci zinciri: Kadızade-i Rumi → Ali Kuşçu (ve Uluğ Bey) → Mirim Çelebi (Ali Kuşçu'nun torunu).<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q11",
@@ -82000,7 +82000,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (Sabuncuoğlu Şerafettin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet döneminde Amasya Darüşşifası'nda çalışan ve ilk Türkçe resimli cerrahi tıp kitabı olan 'Cerrahiyetü'l-Hâniye'yi yazan ünlü hekim Sabuncuoğlu Şerafeddin'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ali Kuşçu matematikçidir.<br>• Katip Çelebi coğrafyacı ve bibliyograftır.<br>• Seydi Ali Reis denizcidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sabuncuoğlu Şerafeddin = İlk resimli cerrahi tıp eseri (Cerrahiyetü'l-Hâniye) + Mücerrebname (ilaç denemeleri)."
+    "explanation": "Doğru Cevap: <strong>B (Sabuncuoğlu Şerafettin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Cerrahiyyetü'l-Haniye (Kitabü'l-Cerrahiyyeti'l-Haniye) ve Mücerrebname Sabuncuoğlu Şerafeddin'in eserleridir. Deneysel farmakolojinin ve plastik cerrahinin öncüsü kabul edilir; yılan zehrini kendine enjekte ettiği deneyde ölmüştür.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ali Kuşçu: Matematik-astronomi.<br>• Kâtip Çelebi: ℹ️ Ders anlatımında bu soruyla ilgili geçmiyor; genel bilgiyle coğrafya/bibliyografya yazarıdır.<br>• Seydi Ali Reis: Mir'âtü'l-Memâlik, Kitabü'l-Muhit.<br>• Mirim Çelebi: Ali Kuşçu'nun torunu, astronomi-matematik.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Tıpçılar: Akşemsettin, Sabuncuoğlu Şerafeddin, Altuncuzade, Ahi Çelebi. Sabuncuoğlu = cerrahi + deneysel farmakoloji + Mücerrebname.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q12",
@@ -82038,7 +82038,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B (İdrar yolu hastalıkları)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet döneminde yaşayan Altuncuzade, özellikle idrar yolu hastalıkları, mesane tıkanıklıkları ve üroloji alanında geliştirdiği özel sondalar ve cerrahi aletlerle tanınmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diş protezleri veya kalp cerrahisi değildir.<br>• Ruh hastalıkları için müzikle tedavi bimarhanelerde uygulanmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Altuncuzade = İdrar yolu ve mesane hastalıkları / Üroloji cerrahı."
+    "explanation": "Doğru Cevap: <strong>B (İdrar yolu hastalıkları)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Altuncuzade idrar yolu hastalıklarıyla ilgilenen tıp hekimidir. Hoca, 'tıpçılar' listesinde Akşemsettin, Sabuncuoğlu, Altuncuzade ve Ahi Çelebi'yi sayar; Ahi Çelebi ise böbrek hastalıklarıyla ilgilenir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Diş protezleri, Ruh hastalıkları, Göz hastalıkları, Kalp cerrahisi: ℹ️ Bu alanlar ders anlatımında bu isimlerle ilişkilendirilmez; Altuncuzade'nin alanı idrar yollarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Altuncuzade = idrar yolu. Ahi Çelebi = böbrek. İkisini karıştırmayın.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q13",
@@ -82076,7 +82076,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Akşemsettin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Fatih Sultan Mehmet'in lalası ve manevi hocası olan, İstanbul'un fethinde ordunun maneviyatını yükselten, mikroorganizmalardan ('maddetü'l-hayat') ilk bahseden ve Zeyrek Medresesi'nde ders veren hekim Akşemsettin'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Takiyüddin Mehmet: Rasathane kurucusudur.<br>• Naima: İlk resmi vakanüvistir.<br>• Yanyalı Esad Efendi: Aristo eserlerini şerh etmiştir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Akşemsettin = Fatih'in hocası + Maddetü'l-Hayat (Mikrop teorisi) + Risaletü'n-Nuriyye."
+    "explanation": "Doğru Cevap: <strong>A (Akşemsettin)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Akşemsettin Fatih'in hocası ve İstanbul'un fethinin manevi mimarıdır. Eseri Maddetü'l-Hayat'ta mikrobu Louis Pasteur'den çok önce açıklamıştır. Zeyrek Camisi'nde dersler vermiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Takiyüddin Mehmet: Astronom, ilk rasathane.<br>• Naima: İlk resmî tarih yazıcısı.<br>• Yanyalı Esad Efendi: Lale Devri düşünürü, Muallim-i Salis.<br>• Piri Reis: Coğrafya bilgini, Kitab-ı Bahriye.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Akşemsettin: Fatih'in hocası + fethin manevi mimarı + Maddetü'l-Hayat (mikrop) + Zeyrek Camisi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q14",
@@ -82114,7 +82114,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Piri Reis)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>'Kitâb-ı Bahriye', Akdeniz kıyılarını, limanlarını, adalarını ve haritalarını ayrıntılı anlatan ilk denizcilik kılavuzu olup büyük Türk denizcisi Pîrî Reis'e aittir (Kanuni'ye takdim etmiştir).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Seydi Ali Reis: Mir'âtü'l-Memâlik yazarıdır.<br>• Uluğ Bey: Zic hazırlamıştır.<br>• Ali Kuşçu: Fethiye'yi yazmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kitab-ı Bahriye ve ilk Dünya Haritası (1513) = Piri Reis."
+    "explanation": "Doğru Cevap: <strong>A (Piri Reis)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kitab-ı Bahriye Piri Reis'e aittir. Piri Reis coğrafya bilgini ve denizcidir; eserinde dünya haritası bulunur (bir parçası kayıptır). Kanuni döneminde yaşamış, başarısızlık gerekçesiyle idam edilmiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mirim Çelebi: Ali Kuşçu'nun torunu, astronomi-matematik.<br>• Ahmet Cevdet Paşa: Tarihçi-hukukçu, Mecelle.<br>• Ali Kuşçu: Fethiye, Muhammediye.<br>• Seydi Ali Reis: Mir'âtü'l-Memâlik ve Kitabü'l-Muhit eserlerinin sahibidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Piri Reis = Kitab-ı Bahriye. Seydi Ali Reis = Mir'âtü'l-Memâlik + Kitabü'l-Muhit. Hoca bu iki denizciyi yan yana anlatır.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q15",
@@ -82152,7 +82152,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Seydi Ali Reis)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kanuni döneminde Hint Deniz Seferleri'ne katılan, fırtınaya yakalanıp karadan Hindistan ve İran üzerinden dönen ve maceralarını 'Mir'âtü'l-Memâlik' (Ülkelerin Aynası) ile denizcilik kitabı 'Muhît'te yazan Seydi Ali Reis'tir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Barbaros Hayreddin Paşa: Gazavatname konusudur.<br>• Evliya Çelebi: Seyahatname yazarıdır.<br>• Katip Çelebi: Cihannüma yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mir'âtü'l-Memâlik (İlk edebi seyahatname) ve Kitabü'l-Muhit = Seydi Ali Reis."
+    "explanation": "Doğru Cevap: <strong>E (Seydi Ali Reis)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Mir'âtü'l-Memâlik (Memleketlerin Aynası) ve Kitabü'l-Muhit Seydi Ali Reis'in eserleridir. İlk seyahatname türünde eser veren denizci olduğu için 'ilk seyyah' kabul edilir. İdam fermanı ulaşır ulaşmaz kaçmıştır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Naima: Tarihçi.<br>• Piri Reis: Kitab-ı Bahriye.<br>• Sabuncuoğlu: Tıp.<br>• Kadızade-i Rumi: Matematik-astronomi.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Seydi Ali Reis: 'Memleketlerin Aynası' (Mir'âtü'l-Memâlik) + Kitabü'l-Muhit; ilk seyahatname yazarı denizci.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q16",
@@ -82190,7 +82190,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Takiyüddin Mehmet)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>1577 yılında III. Murat döneminde İstanbul Tophane sırtlarında ilk Osmanlı rasathanesini kuran ve ilk mekanik saati astronomide kullanan bilgin Takiyüddin Mehmet'tir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Hezarfen ve Lagari IV. Murat dönemindedir.<br>• Ali Kuşçu Fatih dönemindedir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Osmanlı Rasathanesi (1577) = Takiyüddin Mehmet (III. Murat dönemi, Şeyhülislam fetvasıyla yıktırılmıştır)."
+    "explanation": "Doğru Cevap: <strong>A (Takiyüddin Mehmet)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Takiyüddin Mehmet astronomi bilginidir; Osmanlı'da ilk rasathaneyi İstanbul'da Tophane sırtlarına kurmuştur. Araç gereçleri Avrupalı Tycho Brahe'ninkilerle karşılaştırılır. Rasathane yıkılınca, İstanbul'da felaketler yaşanmış ve ulema 'ayı, güneşi gözetlemek dinen uygun değil' demiştir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yanyalı Esad Efendi: Muallim-i Salis.<br>• Akşemsettin: Tıp, Fatih'in hocası.<br>• Ahi Çelebi: Böbrek hekimi.<br>• Davud-i Kayseri: İlk müderris, Orhan Bey dönemi.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>İlk Osmanlı rasathanesi = Takiyüddin Mehmet (Tophane). Rasathane yaygın eğitim kurumu sayılır; öncesinde muvakkithaneler vardı.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q17",
@@ -82228,7 +82228,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Yanyalı Esad Efendi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Lale Devri bilginlerinden olan, Aristo'nun mantık ve fizik eserlerini Grekçeden Arapçaya tercüme eden ve bundan ötürü 'Muallim-i Sâlis' (Üçüncü Öğretmen) unvanıyla anılan düşünür Yanyalı Esad Efendi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Farabi: Muallim-i Sani'dir (İkinci Öğretmen).<br>• Aristo: Muallim-i Evvel'dir (Birinci Öğretmen).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Muallim-i Evvel: Aristo | Muallim-i Sani: Farabi | Muallim-i Sâlis: Yanyalı Esad Efendi (Lale Devri)."
+    "explanation": "Doğru Cevap: <strong>C (Yanyalı Esad Efendi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Yanyalı Esad Efendi Lale Devri'nin düşünürüdür; Aristo felsefesiyle uğraştığı için Muallim-i Salis (Üçüncü Öğretmen) adı verilir. Muallim-i Sani (İkinci Öğretmen) Farabi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Ali Kuşçu: Matematik-astronomi.<br>• Mustafa Naima: İlk resmî tarih yazıcısı.<br>• Mirim Çelebi: Ali Kuşçu'nun torunu.<br>• Piri Reis: Kitab-ı Bahriye.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Muallim-i Sani = Farabi. Muallim-i Salis = Yanyalı Esad Efendi (Lale Devri). Hoca bunu 'Milli Eğitim ders kitabında yeni bir isim' diye vurgular.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q18",
@@ -82266,7 +82266,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C (Ahmet Cevdet Paşa)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Osmanlı Devleti'nin ilk medeni kanunu niteliğindeki İslam borçlar hukuku mecmuası olan 'Mecelle-i Ahkâm-ı Adliye'yi hazırlayan komisyonun başkanı büyük hukukçu ve tarihçi Ahmet Cevdet Paşa'dır.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Mithat Paşa: Kanun-i Esasi'yi hazırlayan komisyon başkanıdır.<br>• Namık Kemal: Vatan Şairi ve Genç Osmanlı'dır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mecelle Komisyonu Başkanı + Tarih-i Cevdet yazarı = Ahmet Cevdet Paşa."
+    "explanation": "Doğru Cevap: <strong>C (Ahmet Cevdet Paşa)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ahmet Cevdet Paşa hem tarihçi hem hukukçudur; ilk Osmanlı modern medeni kanunu olan Mecelle'yi hazırlamıştır. Mecelle 1926'ya kadar yürürlükte kalmıştır. Önemli eserleri Tarih-i Cevdet ve Kısas-ı Enbiya'dır. Hoca: 'Mecelle'yi unutmayın, sınavda çıkar.'<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Yusuf Akçura: ℹ️ Ders anlatımında bu bağlamda geçmiyor.<br>• Said Halim Paşa: Fikir akımları bölümünde anılan isim.<br>• Namık Kemal: Hürriyet-İbret, Osmanlıcılık.<br>• Osman Hamdi Bey: Sanayi-i Nefise.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Mecelle = Ahmet Cevdet Paşa (Osmanlı'nın gelmiş geçmiş en büyük tarihçisi). İlk resmî tarih yazıcısı Naima, sonuncusu Abdurrahman Şeref Bey.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q19",
@@ -82304,7 +82304,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E (Mirim Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Ali Kuşçu'nun torunu olan, II. Bayezid ve Yavuz dönemlerinde sarayda astronomi ve matematik hocalığı yapan, usturlap ve rubu tahtası risaleleri yazan bilim insanı Mîrim Çelebi'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Molla Gürani: Fatih'in fıkıh hocasıdır.<br>• Ebu's-Suud Efendi: Kanuni'nin ünlü şeyhülislamıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ali Kuşçu ve Kadızade-i Rumi'nin soyundan gelen astronom = Mîrim Çelebi."
+    "explanation": "Doğru Cevap: <strong>E (Mirim Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Mirim Çelebi Ali Kuşçu'nun torunudur ve astronomi-matematik alanında çalışmalarıyla tanınır. Hoca 'dedesinden kapmış bir şeyler' diye anlatır; 'çok bilinen bir isim değildir' uyarısını yapar.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Seydi Ali Reis: Denizci, seyyah.<br>• Lagari Hasan Çelebi: Roketle uçuş.<br>• Hezarfen Ahmet Çelebi: Kanatla uçuş.<br>• Ahi Çelebi: Böbrek hastalıkları hekimi.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ali Kuşçu'nun torunu = Mirim Çelebi. Hoca-öğrenci zinciri: Kadızade-i Rumi → Ali Kuşçu → Mirim Çelebi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_2_q20",
@@ -82342,7 +82342,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A (Hezarfen Ahmet Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Kendi geliştirdiği kanatlarla 1632'de Galata Kulesi'nden atlayıp boğazı geçerek Üsküdar Doğancılar Meydanı'na uçmayı başaran ilk Türk havacısı Hezarfen Ahmet Çelebi'dir (Evliya Çelebi anlatır).<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lagari Hasan Çelebi roketle dikey yükselmiştir.<br>• Takiyüddin astronomdur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kanatla yatay uçuş = Hezarfen Ahmet Çelebi. Roketle dikey uçuş = Lagari Hasan Çelebi."
+    "explanation": "Doğru Cevap: <strong>A (Hezarfen Ahmet Çelebi)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>Hezarfen Ahmet Çelebi IV. Murat döneminde Galata Kulesi'nden Üsküdar'a uçmayı başarmış, yaklaşık 2,5 km süzülmüştür. Osmanlı döneminde ilk uçan kişidir; kendi yaptığı kanatlarla uçtuğu için 'ilk insan kanatla uçuş' kabul edilir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Lagari Hasan Çelebi: Yine IV. Murat döneminde kendi yaptığı roketle yaklaşık 300 m yükselmiştir; insanlık tarihinde ilk roketle uçan kişidir.<br>• Matrakçı Nasuh: Hocanın anlattığına göre hem astronomi-matematik bilgini hem minyatür sanatçısıdır.<br>• Nakkaş Osman, Şeyh Hamdullah: ℹ️ Sanat bölümünde anlatılır; uçuşla ilgisi yoktur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Kanatla uçan = Hezarfen Ahmet Çelebi. Roketle uçan = Lagari Hasan Çelebi. İkisi de IV. Murat dönemi.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 10. ders anlatımı"
   },
   {
     "id": "tarih14_3_q1",
