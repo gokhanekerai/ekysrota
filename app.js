@@ -3208,6 +3208,11 @@ class EKYSApp {
       if (filterKey === 'anayasa_2027_test_2' || filterKey === 'anayasa_2027_2') return q.testId === 'anayasa_2027_test_2';
       if (filterKey === 'anayasa_2027_test_3' || filterKey === 'anayasa_2027_3') return q.testId === 'anayasa_2027_test_3';
       if (filterKey === 'anayasa_2027_test_4' || filterKey === 'anayasa_2027_4') return q.testId === 'anayasa_2027_test_4';
+      if (filterKey === 'anayasa_2027_test_5_1' || filterKey === 'anayasa_2027_5_1') return q.testId === 'anayasa_2027_test_5_1';
+      if (filterKey === 'anayasa_2027_test_5_2' || filterKey === 'anayasa_2027_5_2') return q.testId === 'anayasa_2027_test_5_2';
+      if (filterKey === 'mevzuat_1cbk_t1') return q.testId === 'mevzuat_1cbk_t1';
+      if (filterKey === 'mevzuat_1cbk_t2') return q.testId === 'mevzuat_1cbk_t2';
+      if (filterKey === 'mevzuat_1cbk_t3') return q.testId === 'mevzuat_1cbk_t3';
       if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
       if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
       if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');
@@ -3253,7 +3258,7 @@ class EKYSApp {
       if (filterKey.startsWith('cogr_hafta')) return q.testId === filterKey || (filterKey === 'cogr_hafta1' && q.testId.startsWith('cogr_hafta1_')) || (filterKey === 'cogr_hafta3' && q.testId.startsWith('cogr_hafta3_')) || (filterKey === 'cogr_hafta4' && q.testId.startsWith('cogr_hafta4_'));
       if (filterKey === 'cogr_ders7_1') return (q.testId === 'cogr_ders7_1' || tId === 'cogr_ders7_1');
       if (filterKey === 'cogr_ders7_2') return (q.testId === 'cogr_ders7_2' || tId === 'cogr_ders7_2');
-      if (filterKey === 'cogr_tarama') return (['cogr1', 'cogr2', 'cogr3', 'cogr4', 'cogr_ders7_1', 'cogr_ders7_2'].includes(q.testId) || (q.testId && (q.testId.startsWith('cogr5') || q.testId.startsWith('cogr_hafta'))) || tId.startsWith('cogr_tarama') || tId.startsWith('cogr_hafta'));
+      if (filterKey === 'cogr_tarama') return (['cogr1', 'cogr2', 'cogr3', 'cogr4', 'cogr_ders7_1', 'cogr_ders7_2'].includes(q.testId) || (q.testId && (q.testId.startsWith('cogr5') || q.testId.startsWith('cogr_hafta') || q.testId.startsWith('cogr_test_'))) || tId.startsWith('cogr_tarama') || tId.startsWith('cogr_hafta'));
 
       // Münferit Coğrafya Testleri (Örn: cogr_test_22 Tarım, cogr_test_23 Hayvancılık vb.)
       if (filterKey.startsWith('cogr_test_')) {
@@ -3450,14 +3455,14 @@ class EKYSApp {
         return (isCikmis && qNum >= 17 && qNum <= 28) || tId.includes('inkilap');
       }
 
-      return true;
+      return q.testId === filterKey || q.topicId === filterKey;
     });
 
     // Mükerrer soruları tekilleştir (karma tarama havuzlarında aynı sorunun iki kez çıkmasını engeller)
     if (filterKey === 'cogr_tarama' || filterKey === 'tarih_tarama' || filterKey.endsWith('_tarama')) {
       const seen = new Set();
       return filtered.filter(q => {
-        const raw = (q.questionText || q.question || '').replace(/^Yukarıdaki\s+Türkiye\s+haritasında[^\n]*\n+/i, '').trim().replace(/\s+/g, ' ').toLowerCase();
+        const raw = (q.questionText || q.question || q.text || '').replace(/^Yukarıdaki\s+Türkiye\s+haritasında[^\n]*\n+/i, '').trim().replace(/\s+/g, ' ').toLowerCase();
         if (seen.has(raw)) return false;
         seen.add(raw);
         return true;
