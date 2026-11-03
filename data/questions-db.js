@@ -86883,5 +86883,1790 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     ],
     "correctAnswer": "A",
     "explanation": "✅ <strong>Doğru Cevap: A (I ve II)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 89):</strong><br>\n• <strong>I. Öncül:</strong> Kanunları yayımlamak için anayasal süre 15 gündür. (DOĞRU).<br>\n• <strong>II. Öncül:</strong> Uygun bulmadığı olağan kanunları gerekçesiyle Meclise geri gönderebilir. (DOĞRU).<br>\n• <strong>III. Öncül:</strong> Bütçe kanunu da aynı geri gönderme usulüne tabidir. (YANLIŞ - Cumhurbaşkanı <strong>Bütçe Kanununu veto edemez / geri gönderemez</strong>).<br><br>\n🔍 <strong>Sonuç:</strong> I ve II doğrudur (A şıkkı).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nCumhurbaşkanının Meclise <strong>geri gönderemediği tek kanun</strong> = <strong>Bütçe Kanunu</strong>dur."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q1",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Milli Eğitim Bakanlığı'nın görev ve yetkileri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Eğitim ve öğretimin her kademesi için ulusal politika ve stratejilerin belirlenmesi amacıyla gerekli çalışmaları yapmak"
+      },
+      {
+        "key": "B",
+        "text": "Eğitim sistemini yeniliklere açık, dinamik, ekonomik ve toplumsal gelişimin gerekleriyle uyumlu biçimde güncel teknik ve modeller ışığında tasarlamak"
+      },
+      {
+        "key": "C",
+        "text": "Kız öğrencilerin, engellilerin ve toplumun özel ilgi bekleyen diğer kesimlerinin eğitime katılımını yaygınlaştıracak politika ve stratejilerin geliştirilmesi amacıyla gerekli çalışmaları yapmak"
+      },
+      {
+        "key": "D",
+        "text": "Yükseköğretim ve onun dışındaki eğitim ve öğretim kurumlarını açmak, açılmasına izin vermek ve denetlemek"
+      },
+      {
+        "key": "E",
+        "text": "Yurtdışında çalışan veya ikamet eden Türk vatandaşlarının eğitim ve öğretim alanındaki ihtiyaç ve sorunlarına yönelik çalışmaları ilgili kurum ve kuruluşlarla işbirliği içinde yürütmek"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Yükseköğretim ve onun dışındaki eğitim ve öğretim kurumlarını açmak, açılmasına izin vermek ve denetlemek)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 301/1-ç: MEB, \"Yükseköğretim dışındaki her kademedeki eğitim ve öğretim kurumlarını açmak, açılmasına izin vermek ve denetlemekle\" görevlidir. Yükseköğretim kurumlarını açma yetkisi MEB'e değil, kanunla TBMM ve YÖK koordinasyonuna aittir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q2",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "I. Kız öğrencilerin, engellilerin ve toplumun özel ilgi bekleyen diğer kesimlerinin eğitime katılımını yaygınlaştıracak politika ve stratejilerin geliştirilmesi amacıyla gerekli çalışmaları yapmak. II. Yurtdışında çalışan veya ikamet eden Türk vatandaşlarının eğitim ve öğretim alanı dışındaki ihtiyaç ve sorunlarına yönelik çalışmaları ilgili kurum ve kuruluşlarla işbirliği içinde yürütmek. III. Eğitim ve öğretimin üst kademesi için ulusal politika ve stratejilerin belirlenmesi amacıyla gerekli çalışmaları yapmak. IV. Yükseköğretimin millî eğitim politikası bütünlüğü içinde yürütülmesini sağlamak için, Yükseköğretim Kanunu ile Bakanlığa verilmiş olan görev ve sorumlulukları yerine getirmek. 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Bakanlığı ile ilgili hükümlerine göre yukarıda verilenlerin hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve IV"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I ve IV"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I ve IV)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 301: I. öncül (kız öğrencilerin, engellilerin eğitime katılımı) ve IV. öncül (Yükseköğretimin millî eğitim politikası bütünlüğü içinde yürütülmesini sağlamak) doğrudur. II. öncül yanlıştır çünkü \"eğitim alanı dışındaki değil, eğitim ve öğretim alanındaki\" ihtiyaçlardır. III. öncül yanlıştır çünkü \"üst kademesi değil, her kademesi\" için politika belirlenir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q3",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Bakanlığı Merkez, .......................... ve Yurtdışı Teşkilatından oluşur.” İfadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlık"
+      },
+      {
+        "key": "B",
+        "text": "Kasaba"
+      },
+      {
+        "key": "C",
+        "text": "İlçe"
+      },
+      {
+        "key": "D",
+        "text": "Taşra"
+      },
+      {
+        "key": "E",
+        "text": "Bucak"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Taşra)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 302: \"Millî Eğitim Bakanlığı; Merkez, Taşra ve Yurtdışı Teşkilatından oluşur.\"<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q4",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Milli Eğitim Bakanlığı'nın hizmet birimleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dil Öğretimi Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Kalem Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Dil Öğretimi Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 303: MEB hizmet birimleri arasında \"Dil Öğretimi Genel Müdürlüğü\" adında bir birim yoktur.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q5",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Bakanlığı'nın hizmet birimleri arasında kaç tane Genel Müdürlük bulunmaktadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "14"
+      },
+      {
+        "key": "B",
+        "text": "15"
+      },
+      {
+        "key": "C",
+        "text": "16"
+      },
+      {
+        "key": "D",
+        "text": "17"
+      },
+      {
+        "key": "E",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (14)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 303: MEB Merkez Teşkilatı hizmet birimleri arasında tam 14 adet Genel Müdürlük bulunmaktadır (Temel Eğitim, Ortaöğretim, Mesleki ve Teknik, Din Öğretimi, Özel Eğitim ve Rehberlik, Hayat Boyu Öğrenme, Özel Öğretim Kurumları, Yenilik ve Eğitim Teknolojileri, Öğretmen Yetiştirme ve Geliştirme, Ölçme Değerlendirme ve Sınav Hizmetleri, Yükseköğretim ve Yurt Dışı Eğitim, Avrupa Birliği ve Dış İlişkiler, Personel, Destek Hizmetleri, Bilgi İşlem, İnşaat ve Emlak - güncel yapı 14 GM + Başkanlıklar).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q6",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Ortaöğretim Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ortaöğretim okul ve kurumlarının yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak"
+      },
+      {
+        "key": "B",
+        "text": "Ortaöğretim okul ve kurumlarının yönetimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak,"
+      },
+      {
+        "key": "C",
+        "text": "Ortaokulların eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak Milli Eğitim Bakanlığına sunmak,"
+      },
+      {
+        "key": "D",
+        "text": "Ortaöğrenim öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek,"
+      },
+      {
+        "key": "E",
+        "text": "Bakan tarafından verilen diğer görevleri yapmak"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Ortaokulların eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak Milli Eğitim Bakanlığına sunmak)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 305: Ortaokullar ilköğretim kademesinde olup program ve kitapları \"Temel Eğitim Genel Müdürlüğü\"nün görevidir; Ortaöğretim Genel Müdürlüğü lise kademesinden sorumludur.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q7",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Meslekî ve Teknik Eğitim Genel Müdürlüğü görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tüm okul ve kurumların yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak"
+      },
+      {
+        "key": "B",
+        "text": "Meslekî ve teknik eğitim ve öğretim veren okul ve kurumların eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kuruluna sunmak,"
+      },
+      {
+        "key": "C",
+        "text": "Eğitim-istihdam ilişkisini güçlendirecek, meslekî eğitimi yaygınlaştıracak politika ve stratejilerin geliştirilmesi için gerekli çalışmaları yapmak, belirlenen politikaları uygulamak ve uygulanmasını koordine etmek,"
+      },
+      {
+        "key": "D",
+        "text": "5/6/1986 tarihli ve 3308 sayılı Meslekî Eğitim Kanununa göre aday çırak, çırak, kalfa ve ustaların genel ve meslekî"
+      },
+      {
+        "key": "E",
+        "text": "Meslekî ve teknik eğitim ve öğretim veren okul ve kurumlar için belirlenen politikaları uygulamak,"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Tüm okul ve kurumların yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 306: Meslekî ve Teknik Eğitim Genel Müdürlüğü \"tüm okulların\" değil, sadece meslekî ve teknik eğitim ve öğretim veren okul ve kurumların yönetiminden sorumludur.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q8",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "“İmam-hatip liselerinin yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıdaki açıklama hangi hizmet biriminin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "İlahiyat Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Din Öğretimi Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Din Öğretimi Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 307: İmam-hatip ortaokulları ve liselerinin yönetimine, öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak Din Öğretimi Genel Müdürlüğü'nün asli görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q9",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İlgili bakanlıklarla işbirliği içinde, özel eğitim sınıfları, özel eğitim okullarının yönetimine ve öğrencilerin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak,"
+      },
+      {
+        "key": "B",
+        "text": "İlgili bakanlıklarla işbirliği içinde, özel eğitim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını hazırlamak"
+      },
+      {
+        "key": "C",
+        "text": "İlgili bakanlıklarla işbirliği içinde, özel eğitim okul ve kurumlarının eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kuruluna sunmak,"
+      },
+      {
+        "key": "D",
+        "text": "Aile ve Sosyal Hizmetler Bakanı tarafından verilen görevleri yapmak"
+      },
+      {
+        "key": "E",
+        "text": "İlgili bakanlıklarla işbirliği içinde, iş okulları ve iş eğitim merkezleri ile aynı seviye ve türdeki benzeri okul ve kurumların yönetimine ve öğrencilerin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak,"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Aile ve Sosyal Hizmetler Bakanı tarafından verilen görevleri yapmak)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 308: Hizmet birimleri Aile Bakanı tarafından değil, \"Millî Eğitim Bakanı tarafından verilen görevleri\" yapar.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q10",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Özel Öğretim Kurumları Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5580 sayılı Özel Öğretim Kurumları Kanunuyla Bakanlığa verilen görevleri yerine getirmek,"
+      },
+      {
+        "key": "B",
+        "text": "Her kademedeki öğrencilere yönelik dernek ve vakıflar ile gerçek ve diğer tüzel kişilerce açılacak veya işletilecek yurt, pansiyon ve benzeri kurumların açılması, devri, nakli ve kapatılmasıyla ilgili esasları belirlemek ve denetlemek,"
+      },
+      {
+        "key": "C",
+        "text": "İlgili bakanlıklarla işbirliği içinde, özel eğitim sınıfları, özel eğitim okullarının yönetimine ve öğrencilerin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak"
+      },
+      {
+        "key": "D",
+        "text": "Özel Barınma Hizmeti Veren Kurumlar ve Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 13 üncü maddesinde belirtilen görevleri yapmak,"
+      },
+      {
+        "key": "E",
+        "text": "Bakan tarafından verilen görevleri yapmak"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (İlgili bakanlıklarla işbirliği içinde, özel eğitim sınıfları, özel eğitim okullarının yönetimine ve öğrencilerin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 308 & 310: Özel eğitim sınıfları ve özel eğitim okulları Özel Öğretim Kurumları GM'nin değil, \"Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü\"nün görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q11",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Örgün eğitim sistemine girmemiş, herhangi bir eğitim kademesinden ayrılmış veya bitirmiş vatandaşlara yaygın eğitim yoluyla genel veya meslekî ve teknik öğretim alanlarında eğitim ve öğretim vermek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Meslekî ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Hayat Boyu Öğrenme Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 309: Örgün eğitim dışına çıkmış veya bitirmiş vatandaşlara yaygın eğitim yoluyla eğitim vermek Hayat Boyu Öğrenme Genel Müdürlüğü'nün görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q12",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "Zorunlu eğitim dışında, eğitim ve öğretimi hayat boyu devam edecek şekilde yaygınlaştırmak amacıyla çalışmalar yapmak, bunları uygulamak, izlemek ve değerlendirmek.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, açıklama hangi hizmet biriminin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Meslekî ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Hayat Boyu Öğrenme Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 309: Zorunlu eğitim dışında eğitimi hayat boyu devam edecek şekilde yaygınlaştırmak Hayat Boyu Öğrenme Genel Müdürlüğü'nün görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q13",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, kademedeki öğrencilere yönelik dernek ve vakıflar ile gerçek ve diğer tüzel kişilerce açılacak veya işletilecek yurt, pansiyon ve benzeri kurumların açılması, devri, nakli ve kapatılmasıyla ilgili esasları belirlemek ve denetlemek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meslekî ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Personel Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Özel Öğretim Kurumları Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 310: Gerçek ve tüzel kişilerce açılacak öğrenci yurt, pansiyon ve benzeri kurumların açılması, devri ve denetimi Özel Öğretim Kurumları Genel Müdürlüğü'ne aittir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q14",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Yenilik ve Eğitim Teknolojileri Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlık projelerinin Bakanlık bilişim altyapısına uygun olarak tasarlanmasını ve uygulanmasını sağlamak, teknolojik gelişmeleri takip etmek, bilgi güvenliği ve güvenilirliği konusunun gerektirdiği önlemleri almak, ilkeleri belirlemek, kamu bilişim standartlarına uygun çözümler üretmek"
+      },
+      {
+        "key": "B",
+        "text": "Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin kullanılmasına yönelik çalışmalar yürütmek,"
+      },
+      {
+        "key": "C",
+        "text": "Yaygın eğitim ve öğretime yönelik olarak bilgi ve iletişim teknolojilerine dayalı program, film ve benzeri yayınları hazırlamak veya hazırlatmak, yayınlamak veya yayınlatmak,"
+      },
+      {
+        "key": "D",
+        "text": "Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek,"
+      },
+      {
+        "key": "E",
+        "text": "Eğitim ve öğretimde teknolojik imkânların tüm yurt çapında etkin ve yaygın biçimde kullanılmasını ve her öğrencinin bilgi teknolojilerinden yararlanmasını sağlamak,"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Bakanlık projelerinin Bakanlık bilişim altyapısına uygun olarak tasarlanmasını ve uygulanmasını sağlamak...)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 311 & 325: Bilişim altyapısı, bilgi güvenliği ve kamu bilişim standartları \"Bilgi İşlem Genel Müdürlüğü\"nün görevidir; YEĞİTEK ise teknolojinin eğitim-öğretime entegrasyonu ve içerik geliştirme ile ilgilidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q15",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Yenilik ve Eğitim Teknolojileri Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Eğitim ve öğretimin teknoloji ile desteklenmesine yönelik işleri yürütmek,"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak,"
+      },
+      {
+        "key": "C",
+        "text": "Yaygın eğitim ve öğretime yönelik olarak bilgi ve iletişim teknolojilerine dayalı program, film ve benzeri yayınları hazırlamak veya hazırlatmak, yayınlamak veya yayınlatmak,"
+      },
+      {
+        "key": "D",
+        "text": "Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek,"
+      },
+      {
+        "key": "E",
+        "text": "Eğitim ve öğretimde teknolojik imkânların tüm yurt çapında etkin ve yaygın biçimde kullanılmasını ve her öğrencinin bilgi teknolojilerinden yararlanmasını sağlamak,"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 311 & 325: Bakanlık hizmetleriyle ilgili verileri toplamak ve veri tabanları oluşturmak \"Bilgi İşlem Genel Müdürlüğü\"nün görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q16",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Temel Eğitim Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Okul öncesi kurumlarının yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak"
+      },
+      {
+        "key": "B",
+        "text": "Okul öncesi ve ilköğretim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kuruluna sunmak"
+      },
+      {
+        "key": "C",
+        "text": "Okul öncesi öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek"
+      },
+      {
+        "key": "D",
+        "text": "Bakan tarafından verilen diğer görevleri yapmak"
+      },
+      {
+        "key": "E",
+        "text": "İlköğretim okul ve kurumlarının yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Okul öncesi öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 304: Okul öncesi öğrencileri için barınma (yurt/pansiyon) hizmeti bulunmaz; barınma hizmetleri Ortaöğretim ve diğer ilgili kademelerdedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t1_q17",
+    "testId": "mevzuat_1cbk_t1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, ve acil durumlara, sivil savunmaya, seferberlik ve savaş hâline ilişkin mevzuat kapsamındaki iş ve işlemleri diğer hizmet birimleri ile koordineli olarak yerine getirmek.» aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 329/A: Afet ve acil durumlar, sivil savunma, seferberlik ve savaş haline ilişkin iş ve işlemler Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı'nın görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q1",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi hizmet birimlerinden değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi İşlem Daire Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü,"
+      },
+      {
+        "key": "E",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü,"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 311: Eğitim ve öğretimin teknoloji ile desteklenmesi ve eğitim bilişim ağları (EBA) YEĞİTEK görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q2",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Cumhurbaşkanlığı ile afet ve acil durum yönetim merkezlerine gerekli bilgi akışını sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 329/A: Cumhurbaşkanlığı ve AFAD kriz merkezlerine bilgi akışını sağlamak Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q3",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak,"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme ve değerlendirme teknikleri üzerine araştırmalar yapmak veya yaptırmak,"
+      },
+      {
+        "key": "C",
+        "text": "Gerekli durumlarda oluşturulacak başvuru merkezleri ve sınav koordinatörlüklerinin koordinasyonunu sağlamak, sınavlarda görev alacak personeli belirlemek ve bu kişilere gerekli hizmet içi eğitimi vermek,"
+      },
+      {
+        "key": "D",
+        "text": "Genel Müdürlükçe yürütülen sınav, ölçme, değerlendirme, yerleştirme ve diğer hizmet bedellerini belirlemek, tahsil etmek ve döner sermaye hesabında tutmak,"
+      },
+      {
+        "key": "E",
+        "text": "Yapılan sınavların sonuçlarını değerlendirmek suretiyle ilgili hizmet birimlerine veri desteği sağlamak,"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 313 & 318: Uluslararası projelerin koordinasyonu \"Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü\"nün görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q4",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Genel Müdürlük tarafından yapılan sınavlarda sorulacak soruları hazırlamak veya hazırlatmak, denetlemek ve güvenli bir şekilde saklanması için gerekli tedbirleri almak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 313: Sınav sorularını hazırlamak, denetlemek ve güvenli saklamak Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q5",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Evrensel değer ve standartları göz önünde bulundurarak, kalite, eşitlik ve etkililik ilkeleri ile millî ve toplumsal değerlere dayalı bir eğitim sistemi oluşturmak amacıyla aşağıdaki görevleri yerine getirir” ibaresi aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 312: Öğretmen nitelik ve standartlarını belirlemek, hizmet içi eğitim planlamak Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q6",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak,"
+      },
+      {
+        "key": "B",
+        "text": "Eğitim ve öğretim alanında ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle işbirliğine yönelik işleri yürütmek,"
+      },
+      {
+        "key": "C",
+        "text": "Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun hükümlerine göre yurt dışına yükseköğrenim görmek amacıyla gönderileceklerin sayısı, eğitim alanları, gönderileceklerde aranacak nitelikler, yurt dışındaki öğrenim çalışmaları ve istihdamlarının sağlanması ile ilgili işleri yürütmek ve koordinasyonu sağlamak,"
+      },
+      {
+        "key": "D",
+        "text": "Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek, yurda dönüşlerinde eğitim sistemimize uyumlarını sağlamak amacıyla gerekli tedbirleri almak,"
+      },
+      {
+        "key": "E",
+        "text": "Bakanlığın yurt dışındaki okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç ve gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kurulunun görüşüne sunmak,"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Eğitim ve öğretim alanında ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle işbirliğine yönelik işleri yürütmek)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 314 & 318: Dil, tarih ve kültür birliği bulunan ülkelerle işbirliği \"Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü\"nün görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q7",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Memleketlere Gönderilecek Talebe Hakkında Kanun hükümlerine göre yurt dışına yükseköğrenim görmek amacıyla gönderileceklerin sayısı, eğitim alanları, gönderileceklerde aranacak nitelikler, yurt dışındaki öğrenim çalışmaları ve istihdamlarının sağlanması ile ilgili işleri yürütmek ve koordinasyonu sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 314: 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun kapsamındaki yurt dışı bursiyer işlemleri Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü tarafından yürütülür.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q8",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 318: AB müktesebatına uyum, uluslararası kuruluşlarla temas ve ikili anlaşmalar AB ve Dış İlişkiler Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q9",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlığın Avrupa Birliği ve diğer uluslararası kuruluşlarla ilgili işbirliği çalışmaları ile ilgili mevzuat çerçevesinde ikili anlaşmalara ilişkin iş ve işlemleri yürütmek,"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak,"
+      },
+      {
+        "key": "C",
+        "text": "16/12/1960 tarihli ve 168 sayılı Yabancı Memleketlerde Türk Asıllı ve Yabancı Uyruklu Öğretmenlere Sosyal Yardım Yapılması Hakkında Kanunla Bakanlığa verilen görevleri yerine getirmek,"
+      },
+      {
+        "key": "D",
+        "text": "Yabancı hükümet ve kuruluşlardan sağlanan veya ülkemiz tarafından yabancılara verilen burslarla, kendi hesabına öğrenim yapmak üzere ülkemize gelen yabancı uyruklu öğrencilere ilişkin görev ve hizmetleri yerine getirmek,"
+      },
+      {
+        "key": "E",
+        "text": "Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek, yurda dönüşlerinde eğitim sistemimize uyumlarını sağlamak amacıyla gerekli tedbirleri almak,"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 314: Yurt dışındaki vatandaşlarımızın ve soydaşlarımızın eğitim ve öğretim hizmetleri Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q10",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlığın Avrupa Birliği ve diğer uluslararası kuruluşlarla ilgili işbirliği çalışmaları ile ilgili mevzuat çerçevesinde ikili anlaşmalara ilişkin iş ve işlemleri yürütmek,"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak,"
+      },
+      {
+        "key": "C",
+        "text": "16/12/1960 tarihli ve 168 sayılı Yabancı Memleketlerde Türk Asıllı ve Yabancı Uyruklu Öğretmenlere Sosyal Yardım Yapılması Hakkında Kanunla Bakanlığa verilen görevleri yerine getirmek,"
+      },
+      {
+        "key": "D",
+        "text": "Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun hükümlerine göre yurt dışına yükseköğrenim görmek amacıyla gönderileceklerin sayısı, eğitim alanları, gönderileceklerde aranacak nitelikler, yurt dışındaki öğrenim çalışmaları ve istihdamlarının sağlanması ile ilgili işleri yürütmek ve koordinasyonu sağlamak,"
+      },
+      {
+        "key": "E",
+        "text": "Eğitim ve öğretim alanında ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle işbirliğine yönelik işleri yürütmek,"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Yükseköğretim kurumlarına öğrenci seçme ve yerleştirme işlemlerini yürütmek)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 318: Yükseköğretime öğrenci yerleştirme ÖSYM'nin görevidir; AB ve Dış İlişkiler GM'nin görevi değildir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q11",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, düzeyinde proje geliştirmek ve Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 318: Bakanlık düzeyinde uluslararası işbirliğine dayanan projelerin koordinasyonu AB ve Dış İlişkiler Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q12",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, hükümet ve kuruluşlardan sağlanan veya ülkemiz tarafından yabancılara verilen burslarla, kendi hesabına öğrenim yapmak üzere ülkemize gelen yabancı uyruklu öğrencilere ilişkin görev ve hizmetleri yerine getirmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 318: Yabancı hükümet bursları ve yabancı uyruklu öğrencilerin işlemleri AB ve Dış İlişkiler Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q13",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Personel Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlığın personel politikası ve planlaması ile personel sisteminin geliştirilmesi konusunda çalışmalar yapmak ve tekliflerde bulunmak,"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlık personelinin terfi, emeklilik ve benzeri özlük işlemlerini yürütmek,"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak"
+      },
+      {
+        "key": "D",
+        "text": "Millî Eğitim Akademisinde öğretmenlik mesleğine hazırlık eğitimine alınacak öğretmen adaylarının 10/10/2024 tarihli ve 7528 sayılı Öğretmenlik Mesleği Kanunu kapsamında belirlenmesine yönelik iş ve işlemleri yürütmek,"
+      },
+      {
+        "key": "E",
+        "text": "Bakanlık personelinin atama, nakil ve benzeri özlük işlemlerini yürütmek"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Personel Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 321: Öğretmenler dahil Bakanlık personelinin atama, nakil, terfi, emeklilik ve özlük işleri Personel Genel Müdürlüğü tarafından yürütülür.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q14",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, personel politikası ve planlaması ile personel sisteminin geliştirilmesi konusunda çalışmalar yapmak ve tekliflerde bulunmak” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Personel Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 321: Bakanlığın personel politikası ve planlaması Personel Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q15",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, mevcut bilişim altyapısının kurulumu, bakımı, ikmali, geliştirilmesi ve güncellenmesi ile ilgili işleri yürütmek, haberleşme güvenliğini sağlamak ve bu konularda görev üstlenen personelin bilgi teknolojilerindeki gelişmelere paralel olarak düzenli şekilde hizmet ” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Bilgi İşlem Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 325: Bakanlığın bilişim altyapısının kurulumu, bakımı, geliştirilmesi ve haberleşme güvenliği Bilgi İşlem Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q16",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 322: 5018 sayılı Kanun çerçevesinde taşınır ve taşınmaz mallara ilişkin işlemler Destek Hizmetleri Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t2_q17",
+    "testId": "mevzuat_1cbk_t2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Destek Hizmetleri Genel Müdürlüğü nün görevleri arasında yer almaz??",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlığın taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek,"
+      },
+      {
+        "key": "B",
+        "text": "Genel evrak ve arşiv faaliyetlerini düzenlemek ve yürütmek,"
+      },
+      {
+        "key": "C",
+        "text": "Ders kitaplarını, kaynak ve yardımcı eğitim dokümanlarını, ders ve laboratuvar araç ve gereçleri ile basılı eğitim malzemelerini, makine, teçhizat ve donatım ihtiyaçlarını temin etmek,"
+      },
+      {
+        "key": "D",
+        "text": "Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek,"
+      },
+      {
+        "key": "E",
+        "text": "Bakanlığın öğretmenler dışındaki personeli için eğitim planını hazırlamak, uygulamak ve değerlendirmek"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 322: Ders kitapları, eğitim araç-gereçleri, donatım ve teçhizat temini Destek Hizmetleri Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q1",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 322: Döner sermaye işletmesi kurmak ve bağlı döner sermaye işletmelerini yönetmek Destek Hizmetleri Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q2",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "I. Bakanlığın taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek, II. Genel evrak ve arşiv faaliyetlerini düzenlemek ve yürütmek, III. Ders kitaplarını, kaynak ve yardımcı eğitim dokümanlarını, ders ve laboratuvar araç ve gereçleri ile basılı eğitim malzemelerini, makine, teçhizat ve donatım ihtiyaçlarını temin etmek, IV. Eğitim faaliyetleri ile ilgili dokümantasyon, yayım ve arşiv hizmetlerini yürütmek V. Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, ilgili hükümlerine göre yukarıda verilenlerin hangileri Destek Hizmetleri Genel Müdürlüğü nün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve IV"
+      },
+      {
+        "key": "D",
+        "text": "Yalnız IV"
+      },
+      {
+        "key": "E",
+        "text": "I ve IV"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 322: Öncüllerin tamamı (taşınır/taşınmaz, genel evrak/arşiv, kitap basım/dağıtım, döner sermaye) Destek Hizmetleri Genel Müdürlüğü görev alanındadır.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q3",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, öğretmenevi ve akşam sanat okulu, misafirhane ve benzeri sosyal tesislere ilişkin usul ve esasları belirleyerek her türlü iş ve işlemleri yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 322: Öğretmenevi, akşam sanat okulu ve misafirhaneler Destek Hizmetleri Genel Müdürlüğü Sosyal Tesisler bünyesinde yönetilir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q4",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "I. Bakanlık projelerinin Bakanlık bilişim altyapısına uygun olarak tasarlanmasını ve uygulanmasını sağlamak, teknolojik gelişmeleri takip etmek, bilgi güvenliği ve güvenilirliği konusunun gerektirdiği önlemleri almak, ilkeleri belirlemek, kamu bilişim standartlarına uygun çözümler üretmek, II. Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek, III. Bakanlığın internet sayfaları, elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e- okul uygulamaları ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek, IV. Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak, V. Eğitim ve öğretimde teknolojik imkânların tüm yurt çapında etkin ve yaygın biçimde kullanılmasını ve her öğrencinin bilgi teknolojilerinden yararlanmasını sağlamak, 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, ilgili hükümlerine göre yukarıda verilenlerin hangileri Bilgi İşlem Genel Müdürlüğünün görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I, II, III, IV ve V"
+      },
+      {
+        "key": "C",
+        "text": "I, III ve IV"
+      },
+      {
+        "key": "D",
+        "text": "II, III, IV ve V"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve IV"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Bilgi İşlem Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 325: MEBBİS, e-Okul, siber güvenlik, e-imza ve bilişim altyapısı Bilgi İşlem Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q5",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, internet sayfaları, elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e-okul uygulamaları ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bilgi İşlem Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 325: MEBBİS ve e-Okul sistemlerinin işletimi Bilgi İşlem Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q6",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "“Bakanlık birimleri ile taşra teşkilatının bilgi işlem ve otomasyon ihtiyacını karşılamak ve işletimini sağlamak, Bakanlığın bilgi işlem hizmetlerini yürütmek.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre yukarıdaki açıklama hangi hizmet birimin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bilgi İşlem Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 325: Bakanlık birimleri ve taşra teşkilatının bilgi işlem ve otomasyon ihtiyacını karşılamak Bilgi İşlem Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q7",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi İnşaat ve Emlak Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Okul ve kurum binaları dâhil, taşınmazlara ilişkin her türlü satım, yapma, yaptırma, bakım, onarım ve tadilat işleri ile bunlara ait kontrol, koordinasyon ve mimari proje çalışmalarını yürütmek,"
+      },
+      {
+        "key": "B",
+        "text": "Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek,"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlığa ait arsa, bina ve tesisleri, ilgili birimlerle koordine ederek, imar durumu ve uygunluğu yönünden incelemek, ihtiyaçlarını tespit etmek ve programlamak,"
+      },
+      {
+        "key": "D",
+        "text": "Okul ve eğitim yerleşkesi gibi eğitim tesislerinin okul ve eğitim tesisi olarak kullanılmak kaydıyla gerçek kişilere veya özel hukuk tüzel kişilerine kiralanmasına ilişkin işleri yürütmek,"
+      },
+      {
+        "key": "E",
+        "text": "Kamu kurumları arasında taşınmaz ve aynî hak devri ile Bakanlığa yapılacak taşınmaz bağış işlemlerinin yürütülmesinde mevzuata yönelik değerlendirmeleri, teknik-ekonomik etütleri ve rantabilite hesaplarını yapmak, izlemek, her aşamada takip etmek ve yürütmek,"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 322 & 326: Döner sermaye işletmeleri İnşaat ve Emlak GM'nin değil, \"Destek Hizmetleri Genel Müdürlüğü\"nün görevidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q8",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Kamulaştırma işlemlerini yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (İnşaat ve Emlak Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 326: Okul arsaları ve eğitim binaları için kamulaştırma işlemlerini yürütmek İnşaat ve Emlak Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q9",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Talim ve Terbiye Kurulu Başkanlığının görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakanlığın görev alanına giren konularda faaliyet gösteren kamu kurum ve kuruluşları, gerçek ve tüzel kişiler ile gönüllü kuruluşlara, faaliyetlerinde yol gösterecek plan ve programlar oluşturmak ve rehberlik etmek"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlık birimlerince hazırlanan eğitim ve öğretim programları, ders kitapları, yardımcı kitaplar ile öğretmen kılavuz kitaplarını incelemek, inceletmek ve sonucunu Bakana sunmak,"
+      },
+      {
+        "key": "C",
+        "text": "Yurtdışı eğitim ve öğretim kurumlarından alınmış, ilköğretim ve ortaöğretim diploma ve öğrenim belgelerinin derece ve denkliklerine ilişkin ilke kararlarını Bakanın onayına sunmak,"
+      },
+      {
+        "key": "D",
+        "text": "Eğitim ve öğretimle ilgili konularda Bakanlığın diğer birimleri ile işbirliği yapmak."
+      },
+      {
+        "key": "E",
+        "text": "Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek veya inceletmek, araştırmak, geliştirmek ve uygulamaya ilişkin görüşlerini Bakana sunmak"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Öğretmenlerin atama ve yer değiştirme takvimini belirlemek)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 320: Atama ve yer değiştirme takvimi Personel GM görevindedir; Talim ve Terbiye Kurulu öğretim programları, ders çizelgeleri ve kitap incelemelerinden sorumlu danışma ve karar organıdır.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q10",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "“Talim ve Terbiye Kurulu Başkanlığının oluşumu, çalışma usul ve esasları ile diğer hususlar ..................................... Tarafından çıkarılan yönetmelikle düzenlenir.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre yukarıdaki açıklamada boşluk bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Milli Eğitim Bakanı"
+      },
+      {
+        "key": "B",
+        "text": "Talim Terbiye Kurulu Başkanı"
+      },
+      {
+        "key": "C",
+        "text": "İlgili Bakan"
+      },
+      {
+        "key": "D",
+        "text": "Teftiş Kurulu Başkanı"
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Cumhurbaşkanı)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 320: Talim ve Terbiye Kurulu Başkanlığının oluşumu, çalışma usul ve esasları \"Cumhurbaşkanı tarafından çıkarılan yönetmelikle\" düzenlenir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q11",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Teftiş Kurulu Başkanlığının görevleri arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek veya inceletmek, araştırmak, geliştirmek ve uygulamaya ilişkin görüşlerini Bakana sunmak,"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlığın görev alanına giren konularda faaliyet gösteren kamu kurum ve kuruluşları, gerçek ve tüzel kişiler ile gönüllü kuruluşlara, faaliyetlerinde yol gösterecek plan ve programlar oluşturmak ve rehberlik etmek,"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlık tarafından veya Bakanlığın denetiminde sunulan hizmetlerin kontrol ve denetimini ilgili birimlerle iş birliği içinde yapmak, süreç ve sonuçlarını mevzuata, önceden belirlenmiş amaç ve hedeflere, performans ölçütlerine ve kalite standartlarına göre analiz etmek, karşılaştırmak ve ölçmek, kanıtlara dayalı olarak değerlendirmek, elde edilen sonuçları rapor hâline getirerek ilgili birimlere ve kişilere iletmek,"
+      },
+      {
+        "key": "D",
+        "text": "Bakanlık teşkilatı ve personeli ile Bakanlığın denetimi altındaki her türlü kuruluşun faaliyet ve işlemlerine ilişkin olarak, usulsüzlükleri önleyici, eğitici ve rehberlik yaklaşımını ön plana çıkaran bir anlayışla, Bakanlığın görev ve yetkileri çerçevesinde denetim, inceleme ve soruşturma iş ve işlemlerini Bakanlık Maarif Müfettişleri aracılığıyla yapmak,"
+      },
+      {
+        "key": "E",
+        "text": "Her derece ve türdeki örgün ve yaygın eğitim kurumları ile il ve ilçe millî eğitim müdürlüklerinin rehberlik, işbaşında yetiştirme, denetim, değerlendirme, inceleme, araştırma ve soruşturma hizmetlerini Bakanlık Maarif Müfettişleri aracılığıyla yürütmek,"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek...)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 320 & 323: Program ve ders kitaplarını incelemek \"Talim ve Terbiye Kurulu Başkanlığı\"nın görevidir; Teftiş Kurulu rehberlik, denetim, inceleme ve soruşturmadan sorumludur.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q12",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın görev alanına giren konularda Bakanlık personeline, Bakanlık okul ve kurumlarına, özel öğretim kurumlarına ve gerçek ve tüzel kişilere rehberlik etmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Teftiş Kurulu Başkanlığı)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 323: Bakanlık personeline, okul/kurumlara ve özel öğretim kurumlarına rehberlik ve teftiş yapmak Teftiş Kurulu Başkanlığı görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q13",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın basın ve halkla ilişkilerle ilgili faaliyetlerini planlamak ve bu faaliyetlerin belirlenecek usûl ve esaslara göre yürütülmesini sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Basın ve Halkla İlişkiler Müşavirliği"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Basın ve Halkla İlişkiler Müşavirliği)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 328: Basın ve halkla ilişkiler faaliyetlerini yürütmek Basın ve Halkla İlişkiler Müşavirliği görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q14",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "“Bilgi Edinme Hakkı Kanununa göre yapılacak bilgi edinme başvurularını etkin, süratli ve doğru bir şekilde sonuçlandırmak üzere gerekli tedbirleri almak.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre yukarıdaki açıklama hangi hizmet birimin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Basın ve Halkla İlişkiler Müşavirliği"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Özel Kalem Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Basın ve Halkla İlişkiler Müşavirliği)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 328: 4982 sayılı Bilgi Edinme Hakkı Kanunu başvurularını koordine etmek ve sonuçlandırmak Basın ve Halkla İlişkiler Müşavirliği görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q15",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanın çalışma programını düzenlemek, Bakanın resmî ve özel yazışmalarını, protokol ve tören işlerini düzenlemek ve yürütmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bakan Yardımcısı"
+      },
+      {
+        "key": "B",
+        "text": "Özel Kalem Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Müşavir"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Basın ve Halkla İlişkiler Müşavirliği"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Özel Kalem Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 327: Bakanın çalışma programı, protokol, tören ve özel yazışmaları Özel Kalem Müdürlüğü tarafından yürütülür.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q16",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "I. Eğitim ve öğretime ilişkin hedef, politika ve standartların belirlenmesi amacıyla gerekli çalışmaları yapmak II. Eğitim ve öğretimi etkileyen faktörleri tespit etmek, toplum ve sektör bazında ihtiyaç ve beklentileri karşılamak üzere araştırma ve geliştirme faaliyetleri yapmak III. Öğrencilerin, plan ve programlarda tespit edilen amaçlar doğrultusunda yöneltme ve geliştirilmelerine ilişkin rehberlik çalışmaları yapmak IV. Özel eğitim, rehberlik ve psikolojik danışma hizmetlerini yürütmek V. Eğitim ve öğretim sürecine diğer kurum, kuruluş ve bireylerin katılımını sağlamak 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, ilgili hükümlerine göre yukarıda verilenlerin hangileri Ortak görevler arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I, II, III, IV ve V"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve IV"
+      },
+      {
+        "key": "D",
+        "text": "II, III, IV ve V"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve IV"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 308: Özel eğitim, rehberlik ve psikolojik danışma hizmetleri Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü görevindedir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t3_q17",
+    "testId": "mevzuat_1cbk_t3",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, öğretmenlerin emeklilik işlemleri hangi aylarda yapılır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ocak-Haziran"
+      },
+      {
+        "key": "B",
+        "text": "Temmuz-Ağustos"
+      },
+      {
+        "key": "C",
+        "text": "Haziran-Temmuz"
+      },
+      {
+        "key": "D",
+        "text": "Ağustos-Eylül"
+      },
+      {
+        "key": "E",
+        "text": "Haziran-Temmuz-Ağustos"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Temmuz-Ağustos)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi:</strong><br>\nMadde 330: \"Öğretmenlerin emeklilik işlemleri Haziran ve Temmuz ayları içinde yürütülür. (Ancak Cumhurbaşkanlığı Kararnamesi m.330 hükmü: Öğretmenlerin emeklilik işlemleri Temmuz ve Ağustos ayları içinde yapılır. Bakanlık bu süreyi öne çekmeye veya uzatmaya yetkilidir.)\"<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 Sayılı Cumhurbaşkanlığı Kararnamesi MEB Teşkilatı sorularında genel müdürlüklerin görev alanları kanun metnindeki anahtar kelimelerle (örneğin taşınır/taşınmaz, döner sermaye $\\rightarrow$ Destek Hizmetleri; MEBBİS, e-Okul $\\rightarrow$ Bilgi İşlem; program/kitap onay $\\rightarrow$ Talim Terbiye) test edilir."
   }
 ];

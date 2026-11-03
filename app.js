@@ -2681,6 +2681,30 @@ class EKYSApp {
         desc: '1 sayılı Cumhurbaşkanlığı Teşkilatı Kararnamesi MEB teşkilat ve birimleri soruları:',
         items: [
           {
+            id: 'mevzuat_1cbk_t1',
+            name: '📜 1 Sayılı CBK Test 1: Bakanlık Teşkilatı, Genel İlkeler & Temel Eğitim',
+            icon: '🏛️',
+            desc: 'MEB Görev ve Yetkileri, Merkez-Taşra Teşkilatı, Temel Eğitim, Ortaöğretim ve Din Öğretimi (17 Soru • Özgün Pekiştirme).',
+            filterKey: 'mevzuat_1cbk_t1',
+            badge: '17 Soru • Test 1'
+          },
+          {
+            id: 'mevzuat_1cbk_t2',
+            name: '📜 1 Sayılı CBK Test 2: Hizmet Birimleri & Öğretim Genel Müdürlükleri',
+            icon: '🏛️',
+            desc: 'Mesleki Eğitim, Özel Eğitim, YEĞİTEK, Ölçme Sınav Hizmetleri, Yükseköğretim ve AB Dış İlişkiler (17 Soru • Özgün Pekiştirme).',
+            filterKey: 'mevzuat_1cbk_t2',
+            badge: '17 Soru • Test 2'
+          },
+          {
+            id: 'mevzuat_1cbk_t3',
+            name: '📜 1 Sayılı CBK Test 3: TTKB, Teftiş Kurulu, Destek, Bilgi İşlem & Personel',
+            icon: '🏛️',
+            desc: 'Talim ve Terbiye Kurulu, Teftiş Kurulu, Taşınır/Taşınmaz, Bilgi İşlem ve Personel Mevzuatı (17 Soru • Özgün Pekiştirme).',
+            filterKey: 'mevzuat_1cbk_t3',
+            badge: '17 Soru • Test 3'
+          },
+          {
             id: 'ekys_2026_mevzuat_1cbk',
             name: '2026 EKYS 1 Nolu CBK Çıkmış Soruları',
             icon: '📜',
