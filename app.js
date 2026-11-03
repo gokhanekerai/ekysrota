@@ -4177,8 +4177,36 @@ class EKYSApp {
       let rawText = q.questionText || q.question || '';
       if (rawText.includes('<table') || rawText.includes('quiz-table-wrapper')) {
         rawText = rawText.replace(/>\s*\n\s*</g, '><');
+        textEl.innerHTML = rawText.replace(/\n/g, '<br>');
+      } else {
+        // Eğer metin içinde hala tek satırda bitişik I., II., III. öncülleri varsa otomatik satıra ayır
+        if (/(?:^|\s)I\.\s+.+?\s+II\.\s+/s.test(rawText) && !/\n\s*(?:•\s*)?II\.\s+/.test(rawText)) {
+          rawText = rawText.replace(/\s+((?:I|II|III|IV|V)\.\s+)/g, '\n$1');
+        }
+        const lines = rawText.replace(/\n{3,}/g, '\n\n').split(/\r?\n/);
+        const hasRomanI = lines.some(l => /^\s*(?:•\s*)?I\.\s+/.test(l));
+        const hasRomanII = lines.some(l => /^\s*(?:•\s*)?II\.\s+/.test(l));
+        if (hasRomanI && hasRomanII) {
+          let htmlParts = [];
+          let seenPremise = false;
+          for (let i = 0; i < lines.length; i++) {
+            const line = lines[i].trim();
+            if (!line) continue;
+            const romanMatch = line.match(/^(?:•\s*)?(I|II|III|IV|V|VI)\.\s+(.*)$/);
+            if (romanMatch) {
+              seenPremise = true;
+              htmlParts.push(`<div style="margin: 6px 0; padding: 7px 12px; background: rgba(99, 102, 241, 0.08); border-left: 3px solid #818cf8; border-radius: 0 8px 8px 0; line-height: 1.5; font-weight: 500;"><strong style="color: #a5b4fc; margin-right: 6px;">${romanMatch[1]}.</strong>${romanMatch[2]}</div>`);
+            } else if (seenPremise) {
+              htmlParts.push(`<div style="margin-top: 12px; font-weight: 700;">${line}</div>`);
+            } else {
+              htmlParts.push(`<div style="margin-bottom: 8px;">${line}</div>`);
+            }
+          }
+          textEl.innerHTML = htmlParts.join('');
+        } else {
+          textEl.innerHTML = rawText.replace(/\n{3,}/g, '\n\n').replace(/\n/g, '<br>');
+        }
       }
-      textEl.innerHTML = rawText.replace(/\n/g, '<br>');
     }
 
     // Şıklar

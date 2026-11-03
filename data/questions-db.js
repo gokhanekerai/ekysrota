@@ -1,4 +1,4 @@
-window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
+window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "cogr1-q1",
     "testId": "cogr1",
@@ -5417,7 +5417,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "category": "Genel Kültür - Coğrafya",
     "icon": "🗺️",
     "questionNumber": 16,
-    "questionText": "Türkiye'de haritada gösterilen ok yönünde hareket edildiğinde; I. ortalama sıcaklık, II. çizgisel hız, III. cisimlerin gölge yönü verilenlerin hangilerinde değişme olmadığı gözlenir?",
+    "questionText": "Türkiye'de haritada gösterilen ok yönünde hareket edildiğinde;\nI. Ortalama sıcaklık,\nII. Çizgisel hız,\nIII. Cisimlerin gölge yönü\nverilenlerin hangilerinde değişme olmadığı gözlenir?",
     "hasImage": true,
     "image": "assets/questions/cogr_h1_q16_img.png",
     "options": [
@@ -58249,7 +58249,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicId": "egitim_video_test_3",
     "topicName": "Eğitim Bilimleri - Program Türleri",
     "category": "Eğitim Bilimleri",
-    "questionText": "Bir okulda aşağıdaki uygulamalar yapılmıştır: I. Öğretmen, resmî programdaki kazanımları sınıfta işlemiştir. II. Öğrenciler gönüllü olarak tiyatro kulübüne katılmıştır. III. Öğretmen, programdaki bir üniteyi zaman yetersizliği nedeniyle atlamıştır. Bu uygulamalar sırasıyla hangi program türlerine örnektir?",
+    "questionText": "Bir okulda aşağıdaki uygulamalar yapılmıştır:\nI. Öğretmen, resmî programdaki kazanımları sınıfta işlemiştir.\nII. Öğrenciler gönüllü olarak tiyatro kulübüne katılmıştır.\nIII. Öğretmen, programdaki bir üniteyi zaman yetersizliği nedeniyle atlamıştır.\n\nBu uygulamalar sırasıyla hangi program türlerine örnektir?",
     "options": [
       {
         "key": "A",
@@ -58645,7 +58645,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicId": "egitim_video_tarama_4_1",
     "topicName": "Eğitim Bilimleri Video Tarama 4 (Bölüm 1: Felsefi Akımlar & Eğitim Felsefeleri)",
     "category": "Eğitim Bilimleri",
-    "questionText": "Bir düşünür sırasıyla; I. Bilginin güvenilir olup olmadığını, II. Ahlaki davranışın ölçütlerini, III. Bir çıkarımın geçerli olup olmadığını incelemektedir. Bu incelemeler sırasıyla hangi felsefe alanlarıyla ilgilidir?",
+    "questionText": "Bir düşünür sırasıyla;\nI. Bilginin güvenilir olup olmadığını,\nII. Ahlaki davranışın ölçütlerini,\nIII. Bir çıkarımın geçerli olup olmadığını\nincelemektedir.\n\nBu incelemeler sırasıyla hangi felsefe alanlarıyla ilgilidir?",
     "options": [
       {
         "key": "A",
@@ -63772,7 +63772,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicId": "egitim_video_test_5",
     "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
     "category": "Eğitim Bilimleri",
-    "questionText": "Örgün ve yaygın eğitimle ilgili; I. Örgün eğitim genellikle okullarda gerçekleştirilir. II. Yaygın eğitimde gönüllülük esastır. III. Her iki eğitim türü de yalnızca belirli yaş gruplarına yöneliktir. ifadelerinden hangileri doğrudur?",
+    "questionText": "Örgün ve yaygın eğitimle ilgili;\nI. Örgün eğitim genellikle okullarda gerçekleştirilir.\nII. Yaygın eğitimde gönüllülük esastır.\nIII. Her iki eğitim türü de yalnızca belirli yaş gruplarına yöneliktir.\n\nifadelerinden hangileri doğrudur?",
     "options": [
       {
         "key": "A",
@@ -63952,7 +63952,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicId": "egitim_video_test_5",
     "topicName": "Eğitim Bilimleri - Eğitimin Temelleri & Program Türleri",
     "category": "Eğitim Bilimleri",
-    "questionText": "Okulda gönüllülük esasına dayalı olarak gerçekleştirilen; I. Spor kulübü, II. Koro çalışması, III. Resim atölyesi etkinliklerinden hangileri ekstra program kapsamında yer alır?",
+    "questionText": "Okulda gönüllülük esasına dayalı olarak gerçekleştirilen;\nI. Spor kulübü,\nII. Koro çalışması,\nIII. Resim atölyesi\netkinliklerinden hangileri ekstra program kapsamında yer alır?",
     "options": [
       {
         "key": "A",
@@ -64384,7 +64384,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicId": "egitim_video_test_6",
     "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
     "category": "Eğitim Bilimleri",
-    "questionText": "Eğitim felsefeleriyle ilgili; I. Daimicilikte akıl ve evrensel doğrular önemlidir. II. İlerlemecilikte okul, yaşama hazırlık değil yaşamın kendisidir. III. Esasicilikte öğrenci, eğitim sürecinin tek otoritesidir. ifadelerinden hangileri doğrudur?",
+    "questionText": "Eğitim felsefeleriyle ilgili;\nI. Daimicilikte akıl ve evrensel doğrular önemlidir.\nII. İlerlemecilikte okul, yaşama hazırlık değil yaşamın kendisidir.\nIII. Esasicilikte öğrenci, eğitim sürecinin tek otoritesidir.\n\nifadelerinden hangileri doğrudur?",
     "options": [
       {
         "key": "A",
@@ -64600,7 +64600,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicId": "egitim_video_test_6",
     "topicName": "Eğitim Bilimleri - Felsefeler & İhtiyaç Belirleme",
     "category": "Eğitim Bilimleri",
-    "questionText": "İhtiyaç belirleme sürecinde; I. Mevcut yeterlik düzeyi ile hedeflenen düzey arasındaki uzaklığın belirlenmesi, II. Gelecekte ortaya çıkabilecek mesleklerin öngörülmesi, III. Sivil toplum kuruluşlarının görüşlerine başvurulması uygulamalarında kullanılan yaklaşımlar sırasıyla hangileridir?",
+    "questionText": "İhtiyaç belirleme sürecinde;\nI. Mevcut yeterlik düzeyi ile hedeflenen düzey arasındaki uzaklığın belirlenmesi,\nII. Gelecekte ortaya çıkabilecek mesleklerin öngörülmesi,\nIII. Sivil toplum kuruluşlarının görüşlerine başvurulması\nuygulamalarında kullanılan yaklaşımlar sırasıyla hangileridir?",
     "options": [
       {
         "key": "A",
@@ -64960,7 +64960,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicId": "egitim_video_test_7",
     "topicName": "Eğitim Bilimleri - Programın Hedef Boyutu",
     "category": "Eğitim Bilimleri",
-    "questionText": "Eğitim hedeflerinin özellikleriyle ilgili; I. Öğrencilerin ve toplumun ihtiyaçlarına cevap vermelidir. II. Birbirleriyle çelişen davranışlar içermemelidir. III. Eğitim süreci boyunca birbirini destekleyerek devam etmelidir. ifadeleri sırasıyla hangi özelliklerle ilişkilidir?",
+    "questionText": "Eğitim hedeflerinin özellikleriyle ilgili;\nI. Öğrencilerin ve toplumun ihtiyaçlarına cevap vermelidir.\nII. Birbirleriyle çelişen davranışlar içermemelidir.\nIII. Eğitim süreci boyunca birbirini destekleyerek devam etmelidir.\n\nifadeleri sırasıyla hangi özelliklerle ilişkilidir?",
     "options": [
       {
         "key": "A",
@@ -65824,7 +65824,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicId": "egitim_video_test_8",
     "topicName": "Eğitim Bilimleri - Bloom Taksonomisi & Alanlar",
     "category": "Eğitim Bilimleri",
-    "questionText": "Duyuşsal alan basamaklarıyla ilgili; I. Alma basamağında birey, uyarıcının farkına varır. II. Örgütleme basamağında birey, farklı değerleri bir sistem içinde düzenler. III. Kişilik hâline getirme basamağında davranışlar geçici ve duruma bağlıdır. ifadelerinden hangileri doğrudur?",
+    "questionText": "Duyuşsal alan basamaklarıyla ilgili;\nI. Alma basamağında birey, uyarıcının farkına varır.\nII. Örgütleme basamağında birey, farklı değerleri bir sistem içinde düzenler.\nIII. Kişilik hâline getirme basamağında davranışlar geçici ve duruma bağlıdır.\n\nifadelerinden hangileri doğrudur?",
     "options": [
       {
         "key": "A",
@@ -85491,7 +85491,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 1,
-    "questionText": "TBMM'de siyasi parti grubu kurmak için gereken \nmilletvekili sayısı aşağıdakilerden hangisidir?",
+    "questionText": "TBMM'de siyasi parti grubu kurmak için gereken milletvekili sayısı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85526,7 +85526,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 2,
-    "questionText": "Her seçmenin oyunun aynı ağırlıkta olması \naşağıdakilerden hangisidir?",
+    "questionText": "Her seçmenin oyunun aynı ağırlıkta olması aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85561,7 +85561,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 3,
-    "questionText": "TBMM ve Cumhurbaşkanlığı seçimlerinin olağan \naralığı aşağıdakilerden hangisidir?",
+    "questionText": "TBMM ve Cumhurbaşkanlığı seçimlerinin olağan aralığı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85596,7 +85596,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 4,
-    "questionText": "Milletvekili seçilebilmek için doldurulması gereken \nyaş aşağıdakilerden hangisidir?",
+    "questionText": "Milletvekili seçilebilmek için doldurulması gereken yaş aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85631,7 +85631,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 5,
-    "questionText": "Olağan ara seçim için genel seçimden itibaren \ngeçmesi gereken asgari süre aşağıdakilerden hangisidir?",
+    "questionText": "Olağan ara seçim için genel seçimden itibaren geçmesi gereken asgari süre aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85666,7 +85666,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 6,
-    "questionText": "Bir il veya seçim çevresinin TBMM'de hiç üyesi \nkalmadığında özel seçimin günü aşağıdakilerden \nhangisidir?",
+    "questionText": "Bir il veya seçim çevresinin TBMM'de hiç üyesi kalmadığında özel seçimin günü aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85701,7 +85701,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 7,
-    "questionText": "Meclis çalışmalarındaki oy ve sözlerden sorumlu \ntutulmama güvencesi aşağıdakilerden hangisidir?",
+    "questionText": "Meclis çalışmalarındaki oy ve sözlerden sorumlu tutulmama güvencesi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85736,7 +85736,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 8,
-    "questionText": "TBMM'nin olağan karar yeter sayısının mutlak alt \nsınırı aşağıdakilerden hangisidir?",
+    "questionText": "TBMM'nin olağan karar yeter sayısının mutlak alt sınırı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85771,7 +85771,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 9,
-    "questionText": "TBMM'nin olağan toplantı yeter sayısı \naşağıdakilerden hangisidir?",
+    "questionText": "TBMM'nin olağan toplantı yeter sayısı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85806,7 +85806,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 10,
-    "questionText": "TBMM'nin seçimleri savaş nedeniyle geri \nbırakabileceği süre aşağıdakilerden hangisidir?",
+    "questionText": "TBMM'nin seçimleri savaş nedeniyle geri bırakabileceği süre aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85841,7 +85841,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 11,
-    "questionText": "Dokunulmazlığın kaldırılmasına karşı başvuruda \nAYM'nin kesin karar süresi aşağıdakilerden hangisidir?",
+    "questionText": "Dokunulmazlığın kaldırılmasına karşı başvuruda AYM'nin kesin karar süresi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85876,7 +85876,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 12,
-    "questionText": "Dokunulmazlığın kaldırılması kararına karşı özel \nbaşvuru süresi aşağıdakilerden hangisidir?",
+    "questionText": "Dokunulmazlığın kaldırılması kararına karşı özel başvuru süresi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85911,7 +85911,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 13,
-    "questionText": "TBMM'nin bir yasama yılında yapabileceği azami \ntatil aşağıdakilerden hangisidir?",
+    "questionText": "TBMM'nin bir yasama yılında yapabileceği azami tatil aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85946,7 +85946,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 14,
-    "questionText": "Devamsızlık nedeniyle düşme usulünde bir ay \niçindeki asgari birleşim sayısı aşağıdakilerden \nhangisidir?",
+    "questionText": "Devamsızlık nedeniyle düşme usulünde bir ay içindeki asgari birleşim sayısı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -85981,7 +85981,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 15,
-    "questionText": "Devamsızlık nedeniyle üyeliğin düşürülmesinde \ngereken Genel Kurul çoğunluğu aşağıdakilerden \nhangisidir?",
+    "questionText": "Devamsızlık nedeniyle üyeliğin düşürülmesinde gereken Genel Kurul çoğunluğu aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86016,7 +86016,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 16,
-    "questionText": "Boş üyeliklerin ara seçim bakımından özel usulü \ntetikleyen oranı aşağıdakilerden hangisidir?",
+    "questionText": "Boş üyeliklerin ara seçim bakımından özel usulü tetikleyen oranı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86051,7 +86051,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 17,
-    "questionText": "TBMM İçtüzüğüne göre ara vermenin azami süresi \naşağıdakilerden hangisidir?",
+    "questionText": "TBMM İçtüzüğüne göre ara vermenin azami süresi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86086,7 +86086,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 18,
-    "questionText": "TBMM'nin seçimleri yenileme kararı için gereken \nasgari oy aşağıdakilerden hangisidir?",
+    "questionText": "TBMM'nin seçimleri yenileme kararı için gereken asgari oy aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86121,7 +86121,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 19,
-    "questionText": "Anayasa değişikliği kabulünde gereken asgari oy \naşağıdakilerden hangisidir?",
+    "questionText": "Anayasa değişikliği kabulünde gereken asgari oy aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86156,7 +86156,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 20,
-    "questionText": "Başkanlık Divanında ilk devre için seçilenlerin görev \nsüresi aşağıdakilerden hangisidir?",
+    "questionText": "Başkanlık Divanında ilk devre için seçilenlerin görev süresi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86191,7 +86191,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 1,
-    "questionText": "Yazılı sorunun en geç cevaplanması gereken süre \naşağıdakilerden hangisidir?",
+    "questionText": "Yazılı sorunun en geç cevaplanması gereken süre aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86226,7 +86226,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 2,
-    "questionText": "TBMM Başkanlığı seçiminde üçüncü turdaki \nçoğunluk aşağıdakilerden hangisidir?",
+    "questionText": "TBMM Başkanlığı seçiminde üçüncü turdaki çoğunluk aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86261,7 +86261,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 3,
-    "questionText": "Anayasa değişikliği teklifinde gereken asgari imza \naşağıdakilerden hangisidir?",
+    "questionText": "Anayasa değişikliği teklifinde gereken asgari imza aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86296,7 +86296,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 4,
-    "questionText": "Belli konuda bilgi edinmek için yapılan parlamento \nincelemesi aşağıdakilerden hangisidir?",
+    "questionText": "Belli konuda bilgi edinmek için yapılan parlamento incelemesi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86331,7 +86331,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 5,
-    "questionText": "Genel veya özel af ilanına karar vermek için aranan \noy aşağıdakilerden hangisidir?",
+    "questionText": "Genel veya özel af ilanına karar vermek için aranan oy aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86366,7 +86366,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 6,
-    "questionText": "Cumhurbaşkanının bir daha görüşülmek üzere geri \ngönderemediği kanun aşağıdakilerden hangisidir?",
+    "questionText": "Cumhurbaşkanının bir daha görüşülmek üzere geri gönderemediği kanun aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86401,7 +86401,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 7,
-    "questionText": "Bir yasama döneminde Başkanlık Divanı için yapılan \nseçim sayısı aşağıdakilerden hangisidir?",
+    "questionText": "Bir yasama döneminde Başkanlık Divanı için yapılan seçim sayısı aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86436,7 +86436,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 8,
-    "questionText": "Cumhurbaşkanının olağan kanunu yayımlama veya \ngeri gönderme süresi aşağıdakilerden hangisidir?",
+    "questionText": "Cumhurbaşkanının olağan kanunu yayımlama veya geri gönderme süresi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86471,7 +86471,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 9,
-    "questionText": "Meclisin kendi çalışma düzenini belirlediği işlem \naşağıdakilerden hangisidir?",
+    "questionText": "Meclisin kendi çalışma düzenini belirlediği işlem aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86506,7 +86506,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 10,
-    "questionText": "Yazılı soru önergesi yöneltilebilen yürütme \ngörevlileri aşağıdakilerden hangisidir?",
+    "questionText": "Yazılı soru önergesi yöneltilebilen yürütme görevlileri aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86541,7 +86541,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 11,
-    "questionText": "Bakanın göreviyle ilgili suç iddiasının parlamenter \ninceleme yolu aşağıdakilerden hangisidir?",
+    "questionText": "Bakanın göreviyle ilgili suç iddiasının parlamenter inceleme yolu aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86576,7 +86576,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 12,
-    "questionText": "Toplumu ve devlet faaliyetlerini ilgilendiren \nkonunun Genel Kurulda ele alınması aşağıdakilerden \nhangisidir?",
+    "questionText": "Toplumu ve devlet faaliyetlerini ilgilendiren konunun Genel Kurulda ele alınması aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86611,7 +86611,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 13,
-    "questionText": "Yüce Divana sevk edilen bakanın yargılamasını \nyapan organ aşağıdakilerden hangisidir?",
+    "questionText": "Yüce Divana sevk edilen bakanın yargılamasını yapan organ aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86646,7 +86646,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 14,
-    "questionText": "Bakanı Yüce Divana sevk için gereken gizli oy \naşağıdakilerden hangisidir?",
+    "questionText": "Bakanı Yüce Divana sevk için gereken gizli oy aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86681,7 +86681,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 15,
-    "questionText": "Cumhurbaşkanlığı seçim tutanaklarını kabul eden \nkurul aşağıdakilerden hangisidir?",
+    "questionText": "Cumhurbaşkanlığı seçim tutanaklarını kabul eden kurul aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86716,7 +86716,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 16,
-    "questionText": "TBMM seçimlerine ilişkin aşağıdaki ifadeler \nverilmiştir. \nI. TBMM 600 milletvekilinden oluşur. \nII. Genel seçimler kural olarak beş yılda bir yapılır. \nIII. Cumhurbaşkanlığı seçimi ile TBMM genel seçimi farklı \ngünlerde yapılmak zorundadır. \nBu ifadelerden hangileri doğrudur?",
+    "questionText": "TBMM seçimlerine ilişkin aşağıdaki ifadeler verilmiştir.\nI. TBMM 600 milletvekilinden oluşur.\nII. Genel seçimler kural olarak beş yılda bir yapılır.\nIII. Cumhurbaşkanlığı seçimi ile TBMM genel seçimi farklı günlerde yapılmak zorundadır.\n\n\nBu ifadelerden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86751,7 +86751,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 17,
-    "questionText": "Milletvekili seçilme yeterliliğine ilişkin aşağıdaki \nifadeler verilmiştir. \nI. On sekiz yaşını dolduran her Türk, diğer koşulları da \ntaşıyorsa milletvekili seçilebilir. \nII. En az ilkokul mezunu olmayanlar milletvekili \nseçilemez. \nIII. Kamu hizmetinden yasaklı olanlar milletvekili \nseçilebilir. \nBu ifadelerden hangileri doğrudur?",
+    "questionText": "Milletvekili seçilme yeterliliğine ilişkin aşağıdaki ifadeler verilmiştir.\nI. On sekiz yaşını dolduran her Türk, diğer koşulları da taşıyorsa milletvekili seçilebilir.\nII. En az ilkokul mezunu olmayanlar milletvekili seçilemez.\nIII. Kamu hizmetinden yasaklı olanlar milletvekili seçilebilir.\n\n\nBu ifadelerden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86786,7 +86786,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 18,
-    "questionText": "Aşağıdakilerden hangisi TBMM'nin anayasal görev \nve yetkilerinden biridir?",
+    "questionText": "Aşağıdakilerden hangisi TBMM'nin anayasal görev ve yetkilerinden biridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86821,7 +86821,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 19,
-    "questionText": "Genel ve özel af ilanına ilişkin aşağıdaki ifadeler \nverilmiştir. \nI. Af ilanına karar verme yetkisi TBMM'ye aittir. \nII. Üye tamsayısının beşte üç çoğunluğu aranır. \nIII. Orman yakma suçu kapsam dışındadır \nBu ifadelerden hangileri doğrudur?",
+    "questionText": "Genel ve özel af ilanına ilişkin aşağıdaki ifadeler verilmiştir.\nI. Af ilanına karar verme yetkisi TBMM'ye aittir.\nII. Üye tamsayısının beşte üç çoğunluğu aranır.\nIII. Orman yakma suçu kapsam dışındadır\n\n\nBu ifadelerden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86856,7 +86856,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 20,
-    "questionText": "Cumhurbaşkanının kanunları yayımlaması ve geri \ngöndermesine ilişkin aşağıdaki ifadeler verilmiştir. \nI. Kabul edilen kanunları yayımlamak için anayasal süre \non beş gündür. \nII. Uygun bulmadığı olağan bir kanunu gerekçesiyle \nMeclise geri gönderebilir. \nIII. Bütçe kanunu da aynı geri gönderme usulüne tabidir. \nBu ifadelerden hangileri doğrudur?",
+    "questionText": "Cumhurbaşkanının kanunları yayımlaması ve geri göndermesine ilişkin aşağıdaki ifadeler verilmiştir.\nI. Kabul edilen kanunları yayımlamak için anayasal süre on beş gündür.\nII. Uygun bulmadığı olağan bir kanunu gerekçesiyle Meclise geri gönderebilir.\nIII. Bütçe kanunu da aynı geri gönderme usulüne tabidir.\n\n\nBu ifadelerden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86926,7 +86926,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 2,
-    "questionText": "I. Kız öğrencilerin, engellilerin ve toplumun özel ilgi bekleyen diğer kesimlerinin eğitime katılımını yaygınlaştıracak politika ve stratejilerin geliştirilmesi amacıyla gerekli çalışmaları yapmak. II. Yurtdışında çalışan veya ikamet eden Türk vatandaşlarının eğitim ve öğretim alanı dışındaki ihtiyaç ve sorunlarına yönelik çalışmaları ilgili kurum ve kuruluşlarla işbirliği içinde yürütmek. III. Eğitim ve öğretimin üst kademesi için ulusal politika ve stratejilerin belirlenmesi amacıyla gerekli çalışmaları yapmak. IV. Yükseköğretimin millî eğitim politikası bütünlüğü içinde yürütülmesini sağlamak için, Yükseköğretim Kanunu ile Bakanlığa verilmiş olan görev ve sorumlulukları yerine getirmek. 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Bakanlığı ile ilgili hükümlerine göre yukarıda verilenlerin hangileri doğrudur?",
+    "questionText": "I. Kız öğrencilerin, engellilerin ve toplumun özel ilgi bekleyen diğer kesimlerinin eğitime katılımını yaygınlaştıracak politika ve stratejilerin geliştirilmesi amacıyla gerekli çalışmaları yapmak.\nII. Yurtdışında çalışan veya ikamet eden Türk vatandaşlarının eğitim ve öğretim alanı dışındaki ihtiyaç ve sorunlarına yönelik çalışmaları ilgili kurum ve kuruluşlarla işbirliği içinde yürütmek.\nIII. Eğitim ve öğretimin üst kademesi için ulusal politika ve stratejilerin belirlenmesi amacıyla gerekli çalışmaları yapmak.\nIV. Yükseköğretimin millî eğitim politikası bütünlüğü içinde yürütülmesini sağlamak için, Yükseköğretim Kanunu ile Bakanlığa verilmiş olan görev ve sorumlulukları yerine getirmek.\n\n1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıda verilenlerin hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86961,7 +86961,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 3,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Bakanlığı Merkez, .......................... ve Yurtdışı Teşkilatından oluşur.” İfadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre;\n“Millî Eğitim Bakanlığı; Merkez, .......................... ve Yurtdışı Teşkilatından oluşur.”\nifadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -86996,7 +86996,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 4,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Milli Eğitim Bakanlığı'nın hizmet birimleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Milli Eğitim Bakanlığı'nın hizmet birimleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87031,7 +87031,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 5,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Bakanlığı'nın hizmet birimleri arasında kaç tane Genel Müdürlük bulunmaktadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Millî Eğitim Bakanlığı'nın hizmet birimleri arasında kaç tane Genel Müdürlük bulunmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87136,7 +87136,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 8,
-    "questionText": "“İmam-hatip liselerinin yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıdaki açıklama hangi hizmet biriminin görevidir?",
+    "questionText": "“İmam-hatip liselerinin yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak.”\n\n1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıdaki açıklama hangi hizmet biriminin görevidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87276,7 +87276,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 12,
-    "questionText": "Zorunlu eğitim dışında, eğitim ve öğretimi hayat boyu devam edecek şekilde yaygınlaştırmak amacıyla çalışmalar yapmak, bunları uygulamak, izlemek ve değerlendirmek.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, açıklama hangi hizmet biriminin görevidir?",
+    "questionText": "“Zorunlu eğitim dışında, eğitim ve öğretimi hayat boyu devam edecek şekilde yaygınlaştırmak amacıyla çalışmalar yapmak, bunları uygulamak, izlemek ve değerlendirmek.”\n\n1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıdaki açıklama hangi hizmet biriminin görevidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87311,7 +87311,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 13,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, kademedeki öğrencilere yönelik dernek ve vakıflar ile gerçek ve diğer tüzel kişilerce açılacak veya işletilecek yurt, pansiyon ve benzeri kurumların açılması, devri, nakli ve kapatılmasıyla ilgili esasları belirlemek ve denetlemek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Her kademedeki öğrencilere yönelik dernek ve vakıflar ile gerçek ve diğer tüzel kişilerce açılacak veya işletilecek yurt, pansiyon ve benzeri kurumların açılması, devri, nakli ve kapatılmasıyla ilgili esasları belirlemek ve denetlemek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87451,7 +87451,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 1 (Bakanlık Teşkilatı, Temel İlkeler & Temel Eğitim)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 17,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, ve acil durumlara, sivil savunmaya, seferberlik ve savaş hâline ilişkin mevzuat kapsamındaki iş ve işlemleri diğer hizmet birimleri ile koordineli olarak yerine getirmek.» aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Afet ve acil durumlara, sivil savunmaya, seferberlik ve savaş hâline ilişkin mevzuat kapsamındaki iş ve işlemleri diğer hizmet birimleri ile koordineli olarak yerine getirmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87486,7 +87486,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 1,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi hizmet birimlerinden değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi hizmet birimlerinden değildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87661,7 +87661,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 6,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünün görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87696,7 +87696,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 7,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Memleketlere Gönderilecek Talebe Hakkında Kanun hükümlerine göre yurt dışına yükseköğrenim görmek amacıyla gönderileceklerin sayısı, eğitim alanları, gönderileceklerde aranacak nitelikler, yurt dışındaki öğrenim çalışmaları ve istihdamlarının sağlanması ile ilgili işleri yürütmek ve koordinasyonu sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun hükümlerine göre yurt dışına yükseköğrenim görmek amacıyla gönderileceklerin sayısı, eğitim alanları, gönderileceklerde aranacak nitelikler, yurt dışındaki öğrenim çalışmaları ve istihdamlarının sağlanması ile ilgili işleri yürütmek ve koordinasyonu sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87731,7 +87731,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 8,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87766,7 +87766,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 9,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87801,7 +87801,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 10,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87836,7 +87836,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 11,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, düzeyinde proje geliştirmek ve Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlık düzeyinde proje geliştirmek ve Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87871,7 +87871,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 12,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, hükümet ve kuruluşlardan sağlanan veya ülkemiz tarafından yabancılara verilen burslarla, kendi hesabına öğrenim yapmak üzere ülkemize gelen yabancı uyruklu öğrencilere ilişkin görev ve hizmetleri yerine getirmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Yabancı hükümet ve kuruluşlardan sağlanan veya ülkemiz tarafından yabancılara verilen burslarla, kendi hesabına öğrenim yapmak üzere ülkemize gelen yabancı uyruklu öğrencilere ilişkin görev ve hizmetleri yerine getirmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87906,7 +87906,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 13,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Personel Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Personel Genel Müdürlüğünün görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87941,7 +87941,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 14,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, personel politikası ve planlaması ile personel sisteminin geliştirilmesi konusunda çalışmalar yapmak ve tekliflerde bulunmak” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın personel politikası ve planlaması ile personel sisteminin geliştirilmesi konusunda çalışmalar yapmak ve tekliflerde bulunmak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -87976,7 +87976,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 15,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, mevcut bilişim altyapısının kurulumu, bakımı, ikmali, geliştirilmesi ve güncellenmesi ile ilgili işleri yürütmek, haberleşme güvenliğini sağlamak ve bu konularda görev üstlenen personelin bilgi teknolojilerindeki gelişmelere paralel olarak düzenli şekilde hizmet ” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın mevcut bilişim altyapısının kurulumu, bakımı, ikmali, geliştirilmesi ve güncellenmesi ile ilgili işleri yürütmek, haberleşme güvenliğini sağlamak ve bu konularda görev üstlenen personelin bilgi teknolojilerindeki gelişmelere paralel olarak düzenli şekilde hizmet içi eğitim almalarını sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88011,7 +88011,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 16,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88046,7 +88046,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 2 (Hizmet Birimleri & Öğretim Genel Müdürlükleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 17,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Destek Hizmetleri Genel Müdürlüğü nün görevleri arasında yer almaz??",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Destek Hizmetleri Genel Müdürlüğünün görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88081,7 +88081,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 1,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88116,7 +88116,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 2,
-    "questionText": "I. Bakanlığın taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek, II. Genel evrak ve arşiv faaliyetlerini düzenlemek ve yürütmek, III. Ders kitaplarını, kaynak ve yardımcı eğitim dokümanlarını, ders ve laboratuvar araç ve gereçleri ile basılı eğitim malzemelerini, makine, teçhizat ve donatım ihtiyaçlarını temin etmek, IV. Eğitim faaliyetleri ile ilgili dokümantasyon, yayım ve arşiv hizmetlerini yürütmek V. Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, ilgili hükümlerine göre yukarıda verilenlerin hangileri Destek Hizmetleri Genel Müdürlüğü nün görevleri arasında yer almaz?",
+    "questionText": "I. Bakanlığın taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek.\nII. Genel evrak ve arşiv faaliyetlerini düzenlemek ve yürütmek.\nIII. Ders kitaplarını, kaynak ve yardımcı eğitim dokümanlarını, ders ve laboratuvar araç ve gereçleri ile basılı eğitim malzemelerini, makine, teçhizat ve donatım ihtiyaçlarını temin etmek.\nIV. Eğitim faaliyetleri ile ilgili dokümantasyon, yayım ve arşiv hizmetlerini yürütmek.\nV. Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek.\n\n1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıda verilenlerin hangileri Destek Hizmetleri Genel Müdürlüğünün görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88151,7 +88151,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 3,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, öğretmenevi ve akşam sanat okulu, misafirhane ve benzeri sosyal tesislere ilişkin usul ve esasları belirleyerek her türlü iş ve işlemleri yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığa bağlı öğretmenevi ve akşam sanat okulu, misafirhane ve benzeri sosyal tesislere ilişkin usul ve esasları belirleyerek her türlü iş ve işlemleri yürütmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88186,7 +88186,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 4,
-    "questionText": "I. Bakanlık projelerinin Bakanlık bilişim altyapısına uygun olarak tasarlanmasını ve uygulanmasını sağlamak, teknolojik gelişmeleri takip etmek, bilgi güvenliği ve güvenilirliği konusunun gerektirdiği önlemleri almak, ilkeleri belirlemek, kamu bilişim standartlarına uygun çözümler üretmek, II. Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek, III. Bakanlığın internet sayfaları, elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e- okul uygulamaları ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek, IV. Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak, V. Eğitim ve öğretimde teknolojik imkânların tüm yurt çapında etkin ve yaygın biçimde kullanılmasını ve her öğrencinin bilgi teknolojilerinden yararlanmasını sağlamak, 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, ilgili hükümlerine göre yukarıda verilenlerin hangileri Bilgi İşlem Genel Müdürlüğünün görevleri arasındadır?",
+    "questionText": "I. Bakanlık projelerinin Bakanlık bilişim altyapısına uygun olarak tasarlanmasını ve uygulanmasını sağlamak, teknolojik gelişmeleri takip etmek, bilgi güvenliği ve güvenilirliği konusunun gerektirdiği önlemleri almak, ilkeleri belirlemek, kamu bilişim standartlarına uygun çözümler üretmek.\nII. Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek.\nIII. Bakanlığın internet sayfaları, elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e-Okul uygulamaları ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek.\nIV. Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak.\nV. Eğitim ve öğretimde teknolojik imkânların tüm yurt çapında etkin ve yaygın biçimde kullanılmasını ve her öğrencinin bilgi teknolojilerinden yararlanmasını sağlamak.\n\n1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıda verilenlerin hangileri Bilgi İşlem Genel Müdürlüğünün görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88221,7 +88221,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 5,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, internet sayfaları, elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e-okul uygulamaları ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın internet sayfaları, elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e-Okul uygulamaları ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88256,7 +88256,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 6,
-    "questionText": "“Bakanlık birimleri ile taşra teşkilatının bilgi işlem ve otomasyon ihtiyacını karşılamak ve işletimini sağlamak, Bakanlığın bilgi işlem hizmetlerini yürütmek.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre yukarıdaki açıklama hangi hizmet birimin görevleri arasındadır?",
+    "questionText": "“Bakanlık birimleri ile taşra teşkilatının bilgi işlem ve otomasyon ihtiyacını karşılamak ve işletimini sağlamak, Bakanlığın bilgi işlem hizmetlerini yürütmek.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıdaki açıklama hangi hizmet birimin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88291,7 +88291,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 7,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi İnşaat ve Emlak Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi İnşaat ve Emlak Genel Müdürlüğünün görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88326,7 +88326,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 8,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Kamulaştırma işlemlerini yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Kamulaştırma işlemlerini yürütmek” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88361,7 +88361,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 9,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Talim ve Terbiye Kurulu Başkanlığının görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Talim ve Terbiye Kurulu Başkanlığının görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88396,7 +88396,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 10,
-    "questionText": "“Talim ve Terbiye Kurulu Başkanlığının oluşumu, çalışma usul ve esasları ile diğer hususlar ..................................... Tarafından çıkarılan yönetmelikle düzenlenir.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre yukarıdaki açıklamada boşluk bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "questionText": "“Talim ve Terbiye Kurulu Başkanlığının oluşumu, çalışma usul ve esasları ile diğer hususlar ..................................... Tarafından çıkarılan yönetmelikle düzenlenir.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıdaki açıklamada boşluk bırakılan yere aşağıdakilerden hangisi gelmelidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88431,7 +88431,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 11,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Teftiş Kurulu Başkanlığının görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, aşağıdakilerden hangisi Teftiş Kurulu Başkanlığının görevleri arasında yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88466,7 +88466,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 12,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın görev alanına giren konularda Bakanlık personeline, Bakanlık okul ve kurumlarına, özel öğretim kurumlarına ve gerçek ve tüzel kişilere rehberlik etmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın görev alanına giren konularda Bakanlık personeline, Bakanlık okul ve kurumlarına, özel öğretim kurumlarına ve gerçek ve tüzel kişilere rehberlik etmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88501,7 +88501,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 13,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın basın ve halkla ilişkilerle ilgili faaliyetlerini planlamak ve bu faaliyetlerin belirlenecek usûl ve esaslara göre yürütülmesini sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanlığın basın ve halkla ilişkilerle ilgili faaliyetlerini planlamak ve bu faaliyetlerin belirlenecek usûl ve esaslara göre yürütülmesini sağlamak.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88536,7 +88536,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 14,
-    "questionText": "“Bilgi Edinme Hakkı Kanununa göre yapılacak bilgi edinme başvurularını etkin, süratli ve doğru bir şekilde sonuçlandırmak üzere gerekli tedbirleri almak.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre yukarıdaki açıklama hangi hizmet birimin görevleri arasındadır?",
+    "questionText": "“Bilgi Edinme Hakkı Kanununa göre yapılacak bilgi edinme başvurularını etkin, süratli ve doğru bir şekilde sonuçlandırmak üzere gerekli tedbirleri almak.” 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıdaki açıklama hangi hizmet birimin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88571,7 +88571,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 15,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanın çalışma programını düzenlemek, Bakanın resmî ve özel yazışmalarını, protokol ve tören işlerini düzenlemek ve yürütmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, “Bakanın çalışma programını düzenlemek, Bakanın resmî ve özel yazışmalarını, protokol ve tören işlerini düzenlemek ve yürütmek.” aşağıdaki hizmet birimlerinden hangisinin görevleri arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88606,7 +88606,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 16,
-    "questionText": "I. Eğitim ve öğretime ilişkin hedef, politika ve standartların belirlenmesi amacıyla gerekli çalışmaları yapmak II. Eğitim ve öğretimi etkileyen faktörleri tespit etmek, toplum ve sektör bazında ihtiyaç ve beklentileri karşılamak üzere araştırma ve geliştirme faaliyetleri yapmak III. Öğrencilerin, plan ve programlarda tespit edilen amaçlar doğrultusunda yöneltme ve geliştirilmelerine ilişkin rehberlik çalışmaları yapmak IV. Özel eğitim, rehberlik ve psikolojik danışma hizmetlerini yürütmek V. Eğitim ve öğretim sürecine diğer kurum, kuruluş ve bireylerin katılımını sağlamak 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, ilgili hükümlerine göre yukarıda verilenlerin hangileri Ortak görevler arasındadır?",
+    "questionText": "I. Eğitim ve öğretime ilişkin hedef, politika ve standartların belirlenmesi amacıyla gerekli çalışmaları yapmak.\nII. Eğitim ve öğretimi etkileyen faktörleri tespit etmek, toplum ve sektör bazında ihtiyaç ve beklentileri karşılamak üzere araştırma ve geliştirme faaliyetleri yapmak.\nIII. Öğrencilerin, plan ve programlarda tespit edilen amaçlar doğrultusunda yöneltme ve geliştirilmelerine ilişkin rehberlik çalışmaları yapmak.\nIV. Özel eğitim, rehberlik ve psikolojik danışma hizmetlerini yürütmek.\nV. Eğitim ve öğretim sürecine diğer kurum, kuruluş ve bireylerin katılımını sağlamak.\n\n1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, yukarıda verilenlerin hangileri ortak görevler arasındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -88641,7 +88641,7 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     "topicName": "1 Sayılı CBK Test 3 (TTKB, Teftiş, Destek & Yönetim Birimleri)",
     "category": "Mevzuat (Kanun & CBK)",
     "questionNumber": 17,
-    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, Milli Eğitim Bakanlığı ile ilgili hükümlerine göre, öğretmenlerin emeklilik işlemleri hangi aylarda yapılır?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Millî Eğitim Bakanlığı ile ilgili hükümlerine göre, öğretmenlerin emeklilik işlemleri hangi aylarda yapılır?",
     "hasImage": false,
     "image": null,
     "options": [
