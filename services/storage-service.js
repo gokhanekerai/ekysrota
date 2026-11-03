@@ -362,14 +362,16 @@ class StorageService {
 
     const item = pool[idx];
     const currentStage = item.srsStage || 1;
+    const isCriticalItem = Boolean(item.isCritical) || (Number(item.wrongCount) || 1) >= 2;
     const now = Date.now();
     const nextTime = item.nextReviewDate ? new Date(item.nextReviewDate).getTime() : 0;
 
-    // Seçenek A: Tekrar zamanı (1. Gün / 7. Gün / 30. Gün) henüz gelmediyse anlık pratik sayılır, aşama atlamaz
-    if (nextTime && nextTime > now) {
+    // Öneri 1: Soru Kritik Soru (2+ kez yanlış) ise doğru çözüldüğü anda 24 saat kilidi beklenmeden Kritik listesinden düşer ve 2. Aşamaya (7. Gün) yükselir!
+    if (!isCriticalItem && nextTime && nextTime > now) {
       const daysLeft = Math.max(1, Math.ceil((nextTime - now) / (1000 * 60 * 60 * 24)));
       return { status: 'not_due_yet', stage: currentStage, daysLeft };
     }
+    this._lastLocalWrongPoolUpdate = now;
 
     if (currentStage === 1) {
       item.srsStage = 2;
@@ -399,6 +401,7 @@ class StorageService {
   }
 
   removeFromWrongPool(questionId) {
+    this._lastLocalWrongPoolUpdate = Date.now();
     let pool = this.getWrongPool();
     pool = pool.filter(item => item.id !== questionId);
     localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
@@ -680,7 +683,7 @@ class StorageService {
     }
 
     // 2. Yanlış Havuzunu Senkronize Et (Her zaman birleştir, en güncel tekrar aşamasını koru)
-    if (Array.isArray(data.wrongPool)) {
+    if (Array.isArray(data.wrongPool) && !(isRealtimeSync && this._lastLocalWrongPoolUpdate && (Date.now() - this._lastLocalWrongPoolUpdate < 10000))) {
       const localWrong = this.getWrongPool();
       const map = new Map();
       localWrong.forEach(q => { if (q && q.id) map.set(q.id, q); });
@@ -688,11 +691,11 @@ class StorageService {
         if (q && q.id) {
           const existing = map.get(q.id);
           if (!existing) {
-            map.set(q.id, q);
+            if (!isRealtimeSync) map.set(q.id, q);
           } else {
             const tLocal = new Date(existing.lastReviewedDate || existing.lastWrongDate || existing.addedDate || 0).getTime();
             const tCloud = new Date(q.lastReviewedDate || q.lastWrongDate || q.addedDate || 0).getTime();
-            if (tCloud >= tLocal) {
+            if (tCloud > tLocal) {
               map.set(q.id, { ...existing, ...q });
             }
           }
