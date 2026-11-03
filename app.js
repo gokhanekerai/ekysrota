@@ -2250,6 +2250,22 @@ class EKYSApp {
             badge: '20 Soru • 2027 Test 4'
           },
           {
+            id: 'anayasa_2027_test_5_1',
+            name: '⚖️ 1982 Anayasası Test 5.1: TBMM Yasama, Seçim İlkeleri & Meclis Düzeni',
+            icon: '⚖️',
+            desc: 'Parti Grupları, Seçim İlkeleri, Yasama Sorumsuzluğu, Karar ve Toplantı Sayıları (20 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_5_1',
+            badge: '20 Soru • 2027 Test 5.1'
+          },
+          {
+            id: 'anayasa_2027_test_5_2',
+            name: '⚖️ 1982 Anayasası Test 5.2: TBMM Denetim Yolları, Yüce Divan & Kanunlaşma',
+            icon: '⚖️',
+            desc: 'Yazılı Soru, Meclis Soruşturması, Yüce Divan, Bütçe ve Kanun Kabul Süreçleri (20 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_5_2',
+            badge: '20 Soru • 2027 Test 5.2'
+          },
+          {
             id: 'ekys_2026_mevzuat_anayasa',
             name: '2026 EKYS Anayasa Çıkmış Soruları',
             icon: '📜',

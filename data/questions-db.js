@@ -85483,5 +85483,1405 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     ],
     "correctAnswer": "E",
     "explanation": "✅ <strong>Doğru Cevap: E (Hatt-ı Hümayun çıkarmak)</strong><br><br>📚 <strong>Genel Tarih 4. Ders Notu Analizi (Osmanlı Merkez Teşkilatı ve Divan-ı Hümayun):</strong><br><strong>Hatt-ı Hümayun</strong>, bizzat <strong>Padişahın</strong> el yazısıyla yazdığı veya onayladığı ferman ve emirlerdir; Veziriazamın (Sadrazamın) çıkardığı yazılı emirlere ise <strong>\"Buyruldu\"</strong> adı verilir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Ordunun başında sefere çıkmak:</strong> Padişah sefere katılmadığında Veziriazam <strong>\"Serdar-ı Ekrem\"</strong> unvanıyla ordunun başında sefere çıkar.<br>• <strong>B) Beytülmal'ı (Devlet hazinesini) denetlemek:</strong> Padişahın mutlak vekili olarak mühr-ü hümayunu taşır ve hazine dahil tüm devlet işlerini denetler.<br>• <strong>C) Divan'da dava dinlemek:</strong> Fatih döneminden itibaren Divan-ı Hümayun'a başkanlık eder ve kendi konağında kurulan <em>Cuma / Çarşamba Divanları</em>nda davaları dinler.<br>• <strong>D) Atamaları onaylamak:</strong> Üst düzey devlet görevlilerinin tayin ve terfilerini onaylama yetkisine sahiptir.<br>• <strong>E) Hatt-ı Hümayun çıkarmak (YANLIŞ):</strong> <strong>Hatt-ı Hümayun</strong> çıkarma yetkisi yalnızca <strong>Padişaha</strong> aittir (Veziriazamın emrine <strong>Buyruldu</strong> denir).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>• <strong>Padişahın yazılı emri:</strong> Ferman / Hatt-ı Hümayun / İrade-i Seniyye<br>• <strong>Veziriazamın (Sadrazamın) yazılı emri:</strong> <strong>Buyruldu</strong><br>• <strong>Şeyhülislamın dini görüşü:</strong> Fetva (İفتا)"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q1",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "TBMM'de siyasi parti grubu kurmak için gereken \nmilletvekili sayısı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "20"
+      },
+      {
+        "key": "B",
+        "text": "25"
+      },
+      {
+        "key": "C",
+        "text": "30"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      },
+      {
+        "key": "E",
+        "text": "15"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (20)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 95):</strong><br>\nTBMM'de bir siyasi partinin grup oluşturabilmesi için <strong>en az yirmi (20) milletvekiline</strong> sahip olması gerekir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) 20:</strong> Anayasa m.95 gereğince siyasi parti grubu kurma asgari üye sayısıdır.<br>\n• <strong>B) 25 / C) 30:</strong> Çeldiricidir; Anayasa'da bu sayılarla grup kurulmaz.<br>\n• <strong>D) 10:</strong> Çeldiricidir (Siyasi parti kurmak için en az 30 TC vatandaşı gerekir, meclis grubu için 20 vekil).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n• <strong>Siyasi Parti Grubu Kurma:</strong> En az <strong>20 Milletvekili</strong><br>\n• <strong>Siyasi Parti Kurma:</strong> En az <strong>30 Türk Vatandaşı</strong><br>\n• <em>Meclis Soruşturması ve Meclis Araştırması önergeleri siyasi parti gruplarınca verilemez!</em>"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q2",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "Her seçmenin oyunun aynı ağırlıkta olması \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Açık sayım ve döküm"
+      },
+      {
+        "key": "B",
+        "text": "Eşit oy"
+      },
+      {
+        "key": "C",
+        "text": "Gizli oy"
+      },
+      {
+        "key": "D",
+        "text": "Genel oy"
+      },
+      {
+        "key": "E",
+        "text": "Tek dereceli seçim"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Eşit oy)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 67):</strong><br>\nSeçim ilkelerinden <strong>Eşit Oy</strong> ilkesi, servet, cinsiyet, ırk veya vergi durumu fark etmeksizin <strong>her seçmenin sadece bir oy hakkına sahip olması ve her oyun eşit değerde (ağırlıkta) sayılması</strong> anlamına gelir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) Açık sayım ve döküm:</strong> Oyların sayımının herkesin gözü önünde şeffaf yapılmasıdır (1950'de benimsenmiştir).<br>\n• <strong>B) Eşit oy:</strong> Her seçmenin oyunun aynı ağırlıkta/sayıda olmasıdır.<br>\n• <strong>C) Gizli oy:</strong> Seçmenin oyunu serbestçe, kimse görmeden gizli kabinde kullanmasıdır (1950'de benimsenmiştir).<br>\n• <strong>D) Genel oy:</strong> Cinsiyet, servet vb. ayrım olmaksızın tüm vatandaşların oy kullanabilmesidir (Kadınlara hakların verilmesiyle 1934'te tam sağlandı).<br>\n• <strong>E) Tek dereceli seçim:</strong> Seçmenlerin doğrudan temsilcilerini seçmesidir (1946'da geçilmiştir).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<em>\"Herkesin oy kullanabilmesi\"</em> = <strong>Genel Oy</strong><br>\n<em>\"Herkesin oyunun eşit değerde olması (1 kişi = 1 oy)\"</em> = <strong>Eşit Oy</strong>"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q3",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "TBMM ve Cumhurbaşkanlığı seçimlerinin olağan \naralığı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4 yıl"
+      },
+      {
+        "key": "B",
+        "text": "6 yıl"
+      },
+      {
+        "key": "C",
+        "text": "5 yıl"
+      },
+      {
+        "key": "D",
+        "text": "3 yıl"
+      },
+      {
+        "key": "E",
+        "text": "7 yıl"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (5 yıl)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 77 - 2017 Değişikliği):</strong><br>\n2017 Anayasa Değişikliği ile TBMM genel seçimleri ile Cumhurbaşkanlığı seçimleri <strong>beş (5) yılda bir aynı günde</strong> yapılır.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>5 yıl (C):</strong> 2017 değişikliğiyle hem TBMM hem CB seçim süresi 5 yıldır.<br>\n• <em>Not:</em> 2007 değişikliğinde TBMM seçimleri 4 yıla indirilmişti; 2017 reformuyla her ikisi de 5 yıla eşitlenmiştir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n• TBMM ve Cumhurbaşkanlığı seçimleri kural olarak <strong>5 yılda bir aynı gün</strong> yapılır.<br>\n• Yerel (mahalli idareler) seçimleri de <strong>5 yılda bir</strong> yapılır."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q4",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "Milletvekili seçilebilmek için doldurulması gereken \nyaş aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "18"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "25"
+      },
+      {
+        "key": "D",
+        "text": "30"
+      },
+      {
+        "key": "E",
+        "text": "21"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (18)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 76):</strong><br>\n2017 Anayasa değişikliği ile milletvekili seçilme yaşı 25'ten <strong>18 yaşını doldurmuş olmaya</strong> indirilmiştir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) 18:</strong> 18 yaşını dolduran her Türk vatandaşı milletvekili seçilebilir.<br>\n• <em>Tarihsel gelişim:</em> 1982 Anayasası ilk halinde 30 yaş idi $\\rightarrow$ 2006'da 25 yaş $\\rightarrow$ 2017 değişikliğiyle 18 yaş oldu.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n• Milletvekili seçilme yaşı: <strong>18</strong><br>\n• Cumhurbaşkanı seçilme yaşı: <strong>40</strong><br>\n• Anayasa Mahkemesi ve Hakimler-Savcılar Kurulu üyesi olma yaşı: <strong>45</strong>"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q5",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "Olağan ara seçim için genel seçimden itibaren \ngeçmesi gereken asgari süre aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "24 ay"
+      },
+      {
+        "key": "B",
+        "text": "36 ay"
+      },
+      {
+        "key": "C",
+        "text": "30 ay"
+      },
+      {
+        "key": "D",
+        "text": "12 ay"
+      },
+      {
+        "key": "E",
+        "text": "18 ay"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (30 ay)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 78):</strong><br>\nKural olarak TBMM genel seçimlerinden <strong>otuz (30) ay geçmedikçe</strong> ara seçime gidilemez. Ayrıca genel seçimlere <strong>bir (1) yıl kala</strong> ara seçim yapılamaz.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) 30 ay:</strong> Genel seçimlerden sonra ara seçim yapılabilmesi için geçmesi gereken asgari bekleme süresidir.<br>\n• <em>İstisna:</em> Boşalan üyelik sayısı %5'e (30 milletvekili) ulaşırsa 30 ay şartı aranmaz (ancak yine son 1 yıl kala yapılamaz).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nOlağan ara seçim penceresi: <strong>30. ay ile 48. ay (son 1 yıldan önceki dönem)</strong> arasındaki 18 aylık süredir."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q6",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "Bir il veya seçim çevresinin TBMM'de hiç üyesi \nkalmadığında özel seçimin günü aşağıdakilerden \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Boşalmayı takip eden 30 günden sonraki ilk pazar"
+      },
+      {
+        "key": "B",
+        "text": "Boşalmayı takip eden 90 günden sonraki ilk pazar"
+      },
+      {
+        "key": "C",
+        "text": "Boşalmayı takip eden 45 günden sonraki ilk pazar"
+      },
+      {
+        "key": "D",
+        "text": "Boşalmayı takip eden 120 günden sonraki ilk pazar"
+      },
+      {
+        "key": "E",
+        "text": "Boşalmayı takip eden 60 günden sonraki ilk pazar"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Boşalmayı takip eden 90 günden sonraki ilk pazar)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 78/4):</strong><br>\nBir ilin veya seçim çevresinin TBMM'de hiç üyesinin kalmaması halinde, boşalmayı takip eden <strong>doksan (90) günden sonraki ilk pazar günü</strong> ara seçim yapılması zorunludur. Bu durumda 30 ay ve son 1 yıl yasakları uygulanmaz.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>B) 90 günden sonraki ilk pazar:</strong> Bir ilin mecliste hiç üyesi kalmadığında seçimlerin yapılacağı zorunlu tarihtir.<br>\n• <strong>A / C / D / E:</strong> Kanunda yer almayan süre çeldiricileridir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<em>\"Hiç üyesi kalmayan il\"</em> $\\rightarrow$ <strong>90 günden sonraki ilk pazar</strong> (Temsilsiz il bırakılamaz kuralı)."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q7",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "Meclis çalışmalarındaki oy ve sözlerden sorumlu \ntutulmama güvencesi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kazanılmış hak"
+      },
+      {
+        "key": "B",
+        "text": "Yasama dokunulmazlığı"
+      },
+      {
+        "key": "C",
+        "text": "Kanuni hâkim güvencesi"
+      },
+      {
+        "key": "D",
+        "text": "Yasama sorumsuzluğu"
+      },
+      {
+        "key": "E",
+        "text": "İdari vesayet"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (Yasama sorumsuzluğu)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 83/1):</strong><br>\nMilletvekillerinin Meclis çalışmalarındaki oy, söz ve düşüncelerinden dolayı meclis içinde ve dışında ömür boyu sorumlu tutulamamasına <strong>Yasama Sorumsuzluğu (Mutlak Dokunulmazlık)</strong> denir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) Yasama dokunulmazlığı:</strong> Suç işlediği iddia edilen vekilin tutuklanamaması/yargılanamamasıdır (Meclis kararıyla kaldırılabilir).<br>\n• <strong>B) Yasama uyumsuzluğu:</strong> Milletvekilliği ile bağdaşmayan kamu görevleridir.<br>\n• <strong>C) Yasama yetkisinin genelliği:</strong> Meclisin anayasaya aykırı olmamak şartıyla her konuyu kanunla düzenleyebilmesidir.<br>\n• <strong>D) Yasama sorumsuzluğu:</strong> Oy ve söz hürriyetini koruyan, kaldırılamayan ve ömür boyu süren haktır.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n• <strong>Sorumsuzluk:</strong> Söz ve oyları korur, mutlaktır, TBMM kararıyla dahi kaldırılamaz, vekillik bitse de devam eder.<br>\n• <strong>Dokunulmazlık:</strong> Ceza yargılamasına karşı korur, nispîdir, TBMM kaldırabilir, vekillik bitince sona erer."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q8",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "TBMM'nin olağan karar yeter sayısının mutlak alt \nsınırı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "301"
+      },
+      {
+        "key": "B",
+        "text": "150"
+      },
+      {
+        "key": "C",
+        "text": "200"
+      },
+      {
+        "key": "D",
+        "text": "101"
+      },
+      {
+        "key": "E",
+        "text": "151"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (151)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 96):</strong><br>\nTBMM'nin karar yeter sayısı, toplantıya katılanların salt çoğunluğudur. Ancak bu karar yeter sayısı hiçbir şekilde <strong>üye tamsayısının dörtte birinin bir fazlasından (600 / 4 + 1 = 151)</strong> az olamaz.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>E) 151:</strong> Anayasa'daki mutlak karar yeter sayısı tabanıdır.<br>\n• <strong>A) 200:</strong> Toplantı yeter sayısıdır.<br>\n• <strong>B) 301:</strong> Üye tamsayısının salt çoğunluğudur.<br>\n• <strong>C) 360:</strong> Üçte beş çoğunluktur.<br>\n• <strong>D) 400:</strong> Üçte iki çoğunluktur.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nÖrnek: Toplantıya 250 vekil katıldıysa salt çoğunluk 126 olsa bile kanun kabul edilemez; en az <strong>151 kabul oyu</strong> şarttır!"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q9",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "TBMM'nin olağan toplantı yeter sayısı \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "200"
+      },
+      {
+        "key": "B",
+        "text": "151"
+      },
+      {
+        "key": "C",
+        "text": "250"
+      },
+      {
+        "key": "D",
+        "text": "301"
+      },
+      {
+        "key": "E",
+        "text": "184"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (200)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 96):</strong><br>\nTBMM, yapacağı bütün oturumlarda üye tamsayısının en az üçte biriyle, yani <strong>en az 200 milletvekiliyle</strong> toplanır.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) 200:</strong> TBMM toplantı yeter sayısıdır (600'ün 1/3'ü).<br>\n• <strong>151:</strong> Karar yeter sayısının alt sınırıdır.<br>\n• <strong>301:</strong> Salt çoğunluktur.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nTBMM'nin sihirli sayıları:<br>\n• <strong>Toplantı Yeter Sayısı:</strong> 200 vekil (1/3)<br>\n• <strong>Karar Yeter Sayısı Tabanı:</strong> 151 vekil (1/4 + 1)"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q10",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "TBMM'nin seçimleri savaş nedeniyle geri \nbırakabileceği süre aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2 yıl"
+      },
+      {
+        "key": "B",
+        "text": "4 yıl"
+      },
+      {
+        "key": "C",
+        "text": "3 yıl"
+      },
+      {
+        "key": "D",
+        "text": "5 yıl"
+      },
+      {
+        "key": "E",
+        "text": "1 yıl"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (1 yıl)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 78):</strong><br>\nSavaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, TBMM seçimlerin <strong>bir (1) yıl geriye bırakılmasına</strong> karar verebilir. Savaş sebebi ortadan kalkmamışsa bu işlem aynı usulle tekrarlanabilir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>E) 1 yıl:</strong> Anayasa'ya göre seçimlerin ertelenebileceği süredir.<br>\n• <em>Önemli Kural:</em> Seçimleri erteleme yetkisi SADECE <strong>Savaş</strong> sebebiyle ve SADECE <strong>TBMM kararıyla</strong> mümkündür (Deprem, pandemi veya afet gerekçesiyle seçim ertelenemez!).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nCumhurbaşkanı seçimi erteleyemez; erteleme kararı tek bir sebeple (Savaş) yalnızca TBMM tarafından 1'er yıllık sürelerle alınabilir."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q11",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "Dokunulmazlığın kaldırılmasına karşı başvuruda \nAYM'nin kesin karar süresi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "17 gün"
+      },
+      {
+        "key": "B",
+        "text": "13 gün"
+      },
+      {
+        "key": "C",
+        "text": "16 gün"
+      },
+      {
+        "key": "D",
+        "text": "15 gün"
+      },
+      {
+        "key": "E",
+        "text": "14 gün"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (15 gün)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 85):</strong><br>\nYasama dokunulmazlığının kaldırılması veya milletvekilliğinin düşmesi kararına karşı ilgilinin başvurusu üzerine Anayasa Mahkemesi iptal istemini <strong>on beş (15) gün içinde kesin karara bağlar</strong>.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>D) 15 gün:</strong> Anayasa Mahkemesi'nin karar verme süresidir.<br>\n• <strong>7 gün:</strong> Milletvekilinin veya başka bir vekilin AYM'ye başvuru süresidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nDokunulmazlık & Düşme Zinciri:<br>\n• AYM'ye <strong>Başvuru Süresi:</strong> <strong>7 gün</strong><br>\n• AYM'nin <strong>Karar Verme Süresi:</strong> <strong>15 gün</strong>"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q12",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "Dokunulmazlığın kaldırılması kararına karşı özel \nbaşvuru süresi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6 gün"
+      },
+      {
+        "key": "B",
+        "text": "9 gün"
+      },
+      {
+        "key": "C",
+        "text": "7 gün"
+      },
+      {
+        "key": "D",
+        "text": "8 gün"
+      },
+      {
+        "key": "E",
+        "text": "5 gün"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (7 gün)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 85):</strong><br>\nTBMM Genel Kurulu tarafından yasama dokunulmazlığı kaldırılan veya milletvekilliği düşürülen vekil ya da bir başka milletvekili, bu kararın alındığı tarihten başlayarak <strong>yedi (7) gün içinde</strong> Anayasa Mahkemesi'ne iptal davası açabilir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) 7 gün:</strong> İptal istemiyle AYM'ye başvuru için tanınan anayasal hak düşürücü süredir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nİlgili milletvekili adına başka bir milletvekili de bu 7 günlük sürede AYM'ye başvurabilir."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q13",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "TBMM'nin bir yasama yılında yapabileceği azami \ntatil aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4 ay"
+      },
+      {
+        "key": "B",
+        "text": "2 ay"
+      },
+      {
+        "key": "C",
+        "text": "3 ay"
+      },
+      {
+        "key": "D",
+        "text": "1 ay"
+      },
+      {
+        "key": "E",
+        "text": "5 ay"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (3 ay)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 93):</strong><br>\nTBMM, bir yasama yılında en çok <strong>üç (3) ay</strong> tatil yapabilir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) 3 ay:</strong> Meclisin bir yasama yılındaki azami tatil süresidir (Genellikle 1 Temmuz - 1 Ekim arası).<br>\n• <strong>15 gün:</strong> Meclisin çalışmalarına ara vermesinin azami süresidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n• TBMM <strong>Tatil</strong> süresi: En çok <strong>3 ay</strong><br>\n• TBMM <strong>Ara Verme</strong> süresi: En çok <strong>15 gün</strong>"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q14",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "Devamsızlık nedeniyle düşme usulünde bir ay \niçindeki asgari birleşim sayısı aşağıdakilerden \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 birleşim"
+      },
+      {
+        "key": "B",
+        "text": "7 birleşim"
+      },
+      {
+        "key": "C",
+        "text": "4 birleşim"
+      },
+      {
+        "key": "D",
+        "text": "5 birleşim"
+      },
+      {
+        "key": "E",
+        "text": "4 birleşim"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (5 birleşim günü)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 84/4):</strong><br>\nMeclis çalışmalarına özürsüz veya izinsiz olarak <strong>bir ay içinde toplam beş (5) birleşim günü</strong> katılmayan milletvekilinin milletvekilliğinin düşmesine TBMM Genel Kurulu tarafından karar verilebilir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>D) 5 birleşim günü:</strong> Devamsızlık nedeniyle vekilliğin düşürülmesi için aranan asgari sınır.<br>\n• <em>Gereken çoğunluk:</em> Üye tamsayısının salt çoğunluğudur (en az 301 oy).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1 ay içinde <strong>5 birleşim</strong> devamsızlık $\\rightarrow$ Başkanlık Divanınca tespit $\\rightarrow$ TBMM Genel Kurulunda <strong>Üye tamsayısının salt çoğunluğu (301)</strong> ile düşürülür."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q15",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "Devamsızlık nedeniyle üyeliğin düşürülmesinde \ngereken Genel Kurul çoğunluğu aşağıdakilerden \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Üye tamsayısının üçte ikisi"
+      },
+      {
+        "key": "B",
+        "text": "Üye tamsayısının üçte biri"
+      },
+      {
+        "key": "C",
+        "text": "Üye tamsayısının salt çoğunluğu"
+      },
+      {
+        "key": "D",
+        "text": "Üye tamsayısının beşte üçü"
+      },
+      {
+        "key": "E",
+        "text": "Katılanların salt çoğunluğu"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (Üye tamsayısının salt çoğunluğu)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 84/4):</strong><br>\nDevamsızlık (1 ayda 5 birleşim) nedeniyle milletvekilliğinin düşürülmesi için TBMM Genel Kurulu'nda <strong>üye tamsayısının salt çoğunluğunun (en az 301 milletvekili)</strong> kabul oyu gerekir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) Üye tamsayısının salt çoğunluğu (301):</strong> Devamsızlık ve milletvekilliğiyle bağdaşmayan görevde ısrar hallerinde aranan nitelikli çoğunluktur.<br>\n• <strong>İstifa durumunda:</strong> Toplantıya katılanların salt çoğunluğu (en az 151) yeterlidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n• <strong>İstifa ile düşme:</strong> Basit çoğunluk (katılanların salt çoğunluğu)<br>\n• <strong>Devamsızlık ile düşme:</strong> Nitelikli çoğunluk (Üye tamsayısı salt çoğunluğu - 301)<br>\n• <strong>Kesin hüküm giyme:</strong> Oylama yapılmaz, Genel Kurula bilgi verilmesiyle kendiliğinden düşer!"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q16",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "Boş üyeliklerin ara seçim bakımından özel usulü \ntetikleyen oranı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yüzde 3"
+      },
+      {
+        "key": "B",
+        "text": "Yüzde 10"
+      },
+      {
+        "key": "C",
+        "text": "Yüzde 5"
+      },
+      {
+        "key": "D",
+        "text": "Yüzde 20"
+      },
+      {
+        "key": "E",
+        "text": "Yüzde 1"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (%5)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 78/3):</strong><br>\nTBMM üyeliklerinde boşalma olması halinde, boşalan üye sayısı <strong>üye tamsayısının yüzde beşini (%5 - 30 milletvekili)</strong> bulduğu takdirde, ara seçimlerin <strong>üç ay içinde</strong> yapılmasına karar verilir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) %5 (30 milletvekili):</strong> 30 aylık bekleme süresini kaldıran ve 3 ay içinde seçimi zorunlu kılan boşalma eşiğidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n%5 = 600 vekilin 30'u demektir. 30 vekillik boşalırsa TBMM 3 ay içinde ara seçime gitmek zorundadır."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q17",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "TBMM İçtüzüğüne göre ara vermenin azami süresi \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "15 gün"
+      },
+      {
+        "key": "B",
+        "text": "14 gün"
+      },
+      {
+        "key": "C",
+        "text": "16 gün"
+      },
+      {
+        "key": "D",
+        "text": "30 gün"
+      },
+      {
+        "key": "E",
+        "text": "45 gün"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (15 gün)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 93 & TBMM İçtüzüğü):</strong><br>\nTBMM bir yasama yılı içinde çalışmalarına en çok <strong>on beş (15) gün</strong> ara verebilir. 15 günü aşan aralar tatil hükmündedir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) 15 gün:</strong> Ara vermenin anayasal üst sınırıdır.<br>\n• <strong>3 ay:</strong> Tatilin azami süresidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<em>Ara verme</em> en fazla <strong>15 gün</strong>, <em>Tatil</em> en fazla <strong>3 ay</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q18",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 18,
+    "questionText": "TBMM'nin seçimleri yenileme kararı için gereken \nasgari oy aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "360"
+      },
+      {
+        "key": "B",
+        "text": "200"
+      },
+      {
+        "key": "C",
+        "text": "276"
+      },
+      {
+        "key": "D",
+        "text": "301"
+      },
+      {
+        "key": "E",
+        "text": "400"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (360)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 116):</strong><br>\nTBMM, <strong>üye tamsayısının beşte üç (3/5) çoğunluğuyla (en az 360 milletvekili)</strong> seçimlerin yenilenmesine karar verebilir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) 360:</strong> TBMM'nin erken seçim / seçim yenileme kararı için aranan nitelikli çoğunluktur.<br>\n• <em>Cumhurbaşkanı:</em> Hiçbir çoğunluk veya gerekçe şartı aranmaksızın tek başına seçimleri yenileyebilir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nTBMM seçim yenilemek isterse: <strong>360 vekil (3/5)</strong> şart.<br>\nCumhurbaşkanı seçim yenilemek isterse: Tek imzası yeterlidir."
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q19",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 19,
+    "questionText": "Anayasa değişikliği kabulünde gereken asgari oy \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "400"
+      },
+      {
+        "key": "B",
+        "text": "276"
+      },
+      {
+        "key": "C",
+        "text": "200"
+      },
+      {
+        "key": "D",
+        "text": "360"
+      },
+      {
+        "key": "E",
+        "text": "301"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (360)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 175):</strong><br>\nAnayasa değişikliğinin TBMM Genel Kurulu'nda kabul edilebilmesi için <strong>üye tamsayısının en az beşte üç (3/5) çoğunluğunun (en az 360 milletvekili)</strong> gizli oyu gerekir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>360 - 399 arası oy:</strong> Cumhurbaşkanı onaylayamaz; ya Meclise geri gönderir ya da zorunlu referanduma sunar.<br>\n• <strong>400 ve üzeri (2/3) oy:</strong> Cumhurbaşkanı doğrudan onaylayabilir veya dilerse ihtiyari referanduma götürebilir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nAnayasa Değişikliği Eşikleri:<br>\n• <strong>Teklif:</strong> En az <strong>200 vekil (1/3)</strong><br>\n• <strong>Kabul Asgari:</strong> En az <strong>360 vekil (3/5)</strong> gizli oy"
+  },
+  {
+    "id": "anayasa_2027_test_5_1_q20",
+    "testId": "anayasa_2027_test_5_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.1 (TBMM Yasama, Seçim İlkeleri & Meclis Düzeni)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 20,
+    "questionText": "Başkanlık Divanında ilk devre için seçilenlerin görev \nsüresi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 yıl"
+      },
+      {
+        "key": "B",
+        "text": "2 yıl"
+      },
+      {
+        "key": "C",
+        "text": "1 yıl"
+      },
+      {
+        "key": "D",
+        "text": "4 yıl"
+      },
+      {
+        "key": "E",
+        "text": "5 yıl"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (2 yıl)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 94):</strong><br>\nTürkiye Büyük Millet Meclisi Başkanlık Divanı için bir yasama döneminde <strong>iki seçim</strong> yapılır. İlk seçilenlerin görev süresi <strong>iki (2) yıl</strong>, ikinci devre için seçilenlerin görev süresi ise o yasama döneminin sonuna (3 yıl) kadardır.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>B) 2 yıl:</strong> İlk devre Başkanlık Divanı görev süresidir.<br>\n• <strong>3 yıl:</strong> İkinci devre için kalan süredir (5 yıllık yasama döneminde 2 + 3 yıl şeklinde bölünür).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nBaşkanlık Divanı görev süreleri: <strong>İlk devre = 2 yıl</strong>, <strong>İkinci devre = Yasama döneminin sonu (3 yıl)</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q1",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "Yazılı sorunun en geç cevaplanması gereken süre \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7 gün"
+      },
+      {
+        "key": "B",
+        "text": "15 gün"
+      },
+      {
+        "key": "C",
+        "text": "20 gün"
+      },
+      {
+        "key": "D",
+        "text": "10 gün"
+      },
+      {
+        "key": "E",
+        "text": "30 gün"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (15 gün)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 98 & TBMM İçtüzüğü):</strong><br>\nMilletvekillerinin Cumhurbaşkanı yardımcıları ve bakanlara yazılı olarak yönelttikleri <strong>Yazılı Soru Önergesi</strong>, muhatabı tarafından en geç <strong>on beş (15) gün içinde</strong> cevaplandırılmalıdır.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>B) 15 gün:</strong> Yazılı soruya cevap verme anayasal süresidir.<br>\n• <em>Cumhurbaşkanına soru sorulamaz:</em> Soru yalnızca CB yardımcıları ve bakanlara sorulabilir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n2017 Anayasa değişikliği ile <strong>Sözlü Soru</strong> ve <strong>Gensoru</strong> tamamen kaldırılmıştır; sadece <strong>Yazılı Soru</strong> vardır ve cevap süresi <strong>15 gündür</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q2",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "TBMM Başkanlığı seçiminde üçüncü turdaki \nçoğunluk aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "400 oy"
+      },
+      {
+        "key": "B",
+        "text": "200 oy"
+      },
+      {
+        "key": "C",
+        "text": "301 oy"
+      },
+      {
+        "key": "D",
+        "text": "360 oy"
+      },
+      {
+        "key": "E",
+        "text": "151 oy"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (301 oy)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 94):</strong><br>\nTBMM Başkanı seçiminde turlar ve aranan çoğunluklar şöyledir:<br>\n• <strong>1. Tur:</strong> Üye tamsayısının 2/3'ü (<strong>400 oy</strong>)<br>\n• <strong>2. Tur:</strong> Üye tamsayısının 2/3'ü (<strong>400 oy</strong>)<br>\n• <strong>3. Tur:</strong> Üye tamsayısının salt çoğunluğu (<strong>301 oy</strong>)<br>\n• <strong>4. Tur:</strong> En çok oy alan iki aday yarışır, <strong>en fazla oyu alan</strong> seçilir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) 301 oy:</strong> Üçüncü turda aranan üye tamsayısı salt çoğunluğudur.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nTBMM Başkanı seçim turları şifresi: <strong>400 $\\rightarrow$ 400 $\\rightarrow$ 301 $\\rightarrow$ En çok oy alan</strong>. Turlar arasında en fazla 5 gün ara verilebilir."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q3",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "Anayasa değişikliği teklifinde gereken asgari imza \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "151"
+      },
+      {
+        "key": "B",
+        "text": "250"
+      },
+      {
+        "key": "C",
+        "text": "200"
+      },
+      {
+        "key": "D",
+        "text": "301"
+      },
+      {
+        "key": "E",
+        "text": "184"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (200)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 175):</strong><br>\nAnayasa'nın değiştirilmesi, TBMM <strong>üye tamsayısının en az üçte biri (1/3) tarafından (en az 200 milletvekili)</strong> yazılı olarak teklif edilebilir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) 200:</strong> Anayasa değişikliği teklif yeter sayısıdır (600 / 3 = 200).<br>\n• <em>Kanun teklifi:</em> Tek bir milletvekili tarafından dahi verilebilirken, Anayasa değişikliği için en az 200 vekil imzası şarttır.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nAnayasa değişikliği teklifinde <strong>hükümetin (Cumhurbaşkanının) kanun teklif yetkisi yoktur</strong>; sadece milletvekilleri (en az 200 vekil) teklif edebilir."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q4",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "Belli konuda bilgi edinmek için yapılan parlamento \nincelemesi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meclis soruşturması"
+      },
+      {
+        "key": "B",
+        "text": "Genel görüşme"
+      },
+      {
+        "key": "C",
+        "text": "Gensoru"
+      },
+      {
+        "key": "D",
+        "text": "Yazılı soru"
+      },
+      {
+        "key": "E",
+        "text": "Meclis araştırması"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (Genel görüşme)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 98):</strong><br>\nToplumu ve devlet faaliyetlerini ilgilendiren belirli bir konunun TBMM Genel Kurulu'nda görüşülmesine <strong>Genel Görüşme</strong> denir. Belli bir konuda bilgi edinmek için yapılan incelemeye ise <strong>Meclis Araştırması</strong> denir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) Meclis soruşturması:</strong> CB yardımcıları ve bakanların cezai sorumluluğu için açılır.<br>\n• <strong>B) Yazılı soru:</strong> Bilgi isteme mekanizmasıdır (15 gün).<br>\n• <strong>C) Gensoru:</strong> 2017'de yürürlükten kalkmıştır.<br>\n• <strong>D) Meclis araştırması / Genel Görüşme:</strong> Bilgi edinme ve denetim yoludur.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nTBMM'nin yürürlükteki 4 bilgi edinme ve denetim yolu:<br>\n1) <strong>Yazılı Soru</strong>, 2) <strong>Genel Görüşme</strong>, 3) <strong>Meclis Araştırması</strong>, 4) <strong>Meclis Soruşturması</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q5",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "Genel veya özel af ilanına karar vermek için aranan \noy aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "301"
+      },
+      {
+        "key": "B",
+        "text": "360"
+      },
+      {
+        "key": "C",
+        "text": "400"
+      },
+      {
+        "key": "D",
+        "text": "200"
+      },
+      {
+        "key": "E",
+        "text": "276"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (360)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 87):</strong><br>\nGenel ve özel af ilanına karar vermek için TBMM <strong>üye tamsayısının beşte üç (3/5) çoğunluğu (en az 360 milletvekili)</strong> gereklidir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>B) 360:</strong> Af kanunu için aranan nitelikli çoğunluktur.<br>\n• <em>İstisna:</em> <strong>Orman yakma suçları</strong> af kapsamı dışındadır; meclis 360 değil 600 oyla dahi orman suçlarına af çıkaramaz (Any. m.169).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n• <strong>Af İlanı Kararı:</strong> <strong>360 vekil (3/5)</strong><br>\n• <strong>Orman Suçları:</strong> Asla affedilemez!"
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q6",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "Cumhurbaşkanının bir daha görüşülmek üzere geri \ngönderemediği kanun aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Vergi kanunu"
+      },
+      {
+        "key": "B",
+        "text": "Af kanunu"
+      },
+      {
+        "key": "C",
+        "text": "Bütçe kanunu"
+      },
+      {
+        "key": "D",
+        "text": "Yetki kanunu"
+      },
+      {
+        "key": "E",
+        "text": "Seçim kanunu"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (Bütçe kanunu)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 89 & 161):</strong><br>\nCumhurbaşkanı, TBMM tarafından kabul edilen kanunları 15 gün içinde yayımlar veya geri gönderir. Ancak <strong>Bütçe Kanununu Meclise geri gönderemez (veto edemez)</strong>.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) Bütçe kanunu:</strong> Cumhurbaşkanının veto edemeyeceği tek kanundur.<br>\n• <em>Anayasa Değişikliği:</em> Cumhurbaşkanı Anayasa değişikliklerini Meclise geri gönderebilir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nCumhurbaşkanı bütçe kanununu <strong>veto edemez (geri gönderemez)</strong>, ancak yürürlüğe girdikten sonra şekil ve esas bakımından <strong>Anayasa Mahkemesi'ne iptal davası açabilir</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q7",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "Bir yasama döneminde Başkanlık Divanı için yapılan \nseçim sayısı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      },
+      {
+        "key": "E",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (2)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 94):</strong><br>\nBir yasama döneminde (5 yıl) TBMM Başkanlık Divanı için <strong>iki (2) seçim</strong> yapılır.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>E) 2:</strong> Bir yasama döneminde yapılan seçim sayısıdır (1. devre 2 yıl, 2. devre dönemin sonuna kadar).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nBaşkanlık Divanı için 5 yılda <strong>2 kez</strong> seçim yapılır."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q8",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "Cumhurbaşkanının olağan kanunu yayımlama veya \ngeri gönderme süresi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7 gün"
+      },
+      {
+        "key": "B",
+        "text": "10 gün"
+      },
+      {
+        "key": "C",
+        "text": "15 gün"
+      },
+      {
+        "key": "D",
+        "text": "20 gün"
+      },
+      {
+        "key": "E",
+        "text": "30 gün"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (15 gün)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 89):</strong><br>\nCumhurbaşkanı, TBMM tarafından kabul edilen kanunları <strong>on beş (15) gün içinde</strong> Resmî Gazete'de yayımlar. Yayımlanmasını uygun bulmadığı kanunları ise gerekçesiyle birlikte yine 15 gün içinde Meclise geri gönderir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) 15 gün:</strong> Cumhurbaşkanının kanunları inceleme, yayımlama veya veto etme süresidir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nKanunların Cumhurbaşkanınca yayımlanma süresi: <strong>15 gün</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q9",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "Meclisin kendi çalışma düzenini belirlediği işlem \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanlığı kararnamesi"
+      },
+      {
+        "key": "B",
+        "text": "Bütçe kanunu"
+      },
+      {
+        "key": "C",
+        "text": "Siyasi parti grup iç yönetmeliği"
+      },
+      {
+        "key": "D",
+        "text": "TBMM İçtüzüğü"
+      },
+      {
+        "key": "E",
+        "text": "TBMM Başkanlık genelgesi"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (İçtüzük)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 95):</strong><br>\nTBMM, çalışmalarını kendi yaptığı <strong>İçtüzük</strong> hükümlerine göre yürütür. Meclisin kendi çalışma kurallarını kendisinin koymasına <strong>\"Parlamenter Muhtariyet (Meclisin Özerkliği)\"</strong> ilkesi denir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>D) İçtüzük:</strong> Meclisin çalışma düzenini belirleyen parlamento kararıdır.<br>\n• <em>Denetim:</em> İçtüzük kanun olmamasına rağmen, Anayasa Mahkemesi tarafından kanunlar gibi şekil ve esas bakımından denetlenir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nİçtüzük bir parlamento kararıdır ancak <strong>Anayasa Mahkemesi denetimine tabidir</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q10",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "Yazılı soru önergesi yöneltilebilen yürütme \ngörevlileri aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanı ve bakanlar"
+      },
+      {
+        "key": "B",
+        "text": "Valiler ve kaymakamlar"
+      },
+      {
+        "key": "C",
+        "text": "Bakan yardımcıları ve valiler"
+      },
+      {
+        "key": "D",
+        "text": "Cumhurbaşkanı ve Cumhurbaşkanı yardımcıları"
+      },
+      {
+        "key": "E",
+        "text": "Cumhurbaşkanı yardımcıları ve bakanlar"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (Cumhurbaşkanı yardımcıları ve bakanlar)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 98):</strong><br>\nYazılı soru; milletvekillerinin, <strong>Cumhurbaşkanı yardımcıları ve bakanlardan</strong> yazılı olarak bilgi istemesinden ibarettir. Cumhurbaşkanına yazılı soru yöneltilemez.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>E) Cumhurbaşkanı yardımcıları ve bakanlar:</strong> Soru önergelerinin yöneltilebileceği tek muhataplardır.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<em>\"Cumhurbaşkanına soru önergesi verilebilir\"</em> ifadesi <strong>KESİNLİKLE YANLIŞTIR</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q11",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "Bakanın göreviyle ilgili suç iddiasının parlamenter \ninceleme yolu aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yazılı soru"
+      },
+      {
+        "key": "B",
+        "text": "Genel görüşme"
+      },
+      {
+        "key": "C",
+        "text": "Meclis soruşturması"
+      },
+      {
+        "key": "D",
+        "text": "Meclis araştırması"
+      },
+      {
+        "key": "E",
+        "text": "Gensoru"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (Meclis soruşturması)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 106):</strong><br>\nCumhurbaşkanı yardımcıları ve bakanların <strong>görevleriyle ilgili suç işledikleri iddiasıyla</strong> cezai sorumluluklarının araştırılması ve Yüce Divan'a sevk edilmesini sağlayan parlamenter denetim yolu <strong>Meclis Soruşturması</strong>dır.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) Meclis soruşturması:</strong> Cezai sorumluluk denetimidir.<br>\n• <strong>Meclis araştırması:</strong> Belli bir konuda bilgi edinmek için komisyon kurulmasıdır (cezai yaptırımı yoktur).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nCezai sorumluluk $\\rightarrow$ <strong>Meclis Soruşturması</strong> $\\rightarrow$ <strong>Yüce Divan (Anayasa Mahkemesi)</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q12",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "Toplumu ve devlet faaliyetlerini ilgilendiren \nkonunun Genel Kurulda ele alınması aşağıdakilerden \nhangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Genel görüşme"
+      },
+      {
+        "key": "B",
+        "text": "Meclis soruşturması"
+      },
+      {
+        "key": "C",
+        "text": "Gensoru"
+      },
+      {
+        "key": "D",
+        "text": "Meclis araştırması"
+      },
+      {
+        "key": "E",
+        "text": "Yazılı soru"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Genel görüşme)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 98):</strong><br>\nToplumu ve devlet faaliyetlerini ilgilendiren belirli bir konunun TBMM Genel Kurulu'nda görüşülmesine <strong>Genel Görüşme</strong> denir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) Genel görüşme:</strong> Genel Kurulda yapılan toplumsal ve idari müzakerelerdir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<em>\"Toplumu ve devlet faaliyetlerini ilgilendiren konunun görüşülmesi\"</em> = <strong>Genel Görüşme</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q13",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "Yüce Divana sevk edilen bakanın yargılamasını \nyapan organ aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yargıtay"
+      },
+      {
+        "key": "B",
+        "text": "Sayıştay"
+      },
+      {
+        "key": "C",
+        "text": "Anayasa Mahkemesi"
+      },
+      {
+        "key": "D",
+        "text": "Uyuşmazlık Mahkemesi"
+      },
+      {
+        "key": "E",
+        "text": "Danıştay"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (Anayasa Mahkemesi)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 148):</strong><br>\nCumhurbaşkanı, Cumhurbaşkanı yardımcıları ve bakanları görevleriyle ilgili suçlardan dolayı <strong>Yüce Divan sıfatıyla yargılayan organ Anayasa Mahkemesi</strong>dir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>C) Anayasa Mahkemesi:</strong> Yüce Divan yargılamasını yapan yüksek mahkemedir.<br>\n• <em>Yargılama süresi:</em> 3 ay içinde tamamlanır; tamamlanamazsa 3 aylık ek süre verilir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nYüce Divan ayrı bir bina veya mahkeme değildir; <strong>Anayasa Mahkemesi'nin sıfatıdır</strong>. Savcılık görevini <strong>Yargıtay Cumhuriyet Başsavcısı</strong> yürütür."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q14",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "Bakanı Yüce Divana sevk için gereken gizli oy \naşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "200"
+      },
+      {
+        "key": "B",
+        "text": "360"
+      },
+      {
+        "key": "C",
+        "text": "400"
+      },
+      {
+        "key": "D",
+        "text": "330"
+      },
+      {
+        "key": "E",
+        "text": "301"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (400)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 106):</strong><br>\nCumhurbaşkanı yardımcıları veya bakanların Yüce Divana sevk edilebilmesi için TBMM Genel Kurulu'nda <strong>üye tamsayısının üçte iki (2/3) çoğunluğunun (en az 400 milletvekili)</strong> gizli oyu gerekir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>301 (Salt Çoğunluk):</strong> Soruşturma açılması teklifi için gerekir (en az 301 imza).<br>\n• <strong>360 (3/5 Çoğunluk):</strong> Soruşturma açılmasına karar verilmesi için gerekir.<br>\n• <strong>400 (2/3 Çoğunluk - C):</strong> Yüce Divana sevk kararı için gerekir.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nMeclis Soruşturması Aşamaları:<br>\n1) <strong>Teklif:</strong> 301 oy<br>\n2) <strong>Komisyon Kurulması:</strong> 360 oy<br>\n3) <strong>Yüce Divana Sevk:</strong> <strong>400 oy</strong>"
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q15",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "Cumhurbaşkanlığı seçim tutanaklarını kabul eden \nkurul aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yüksek Seçim Kurulu"
+      },
+      {
+        "key": "B",
+        "text": "İlçe seçim kurulu"
+      },
+      {
+        "key": "C",
+        "text": "İl seçim kurulu"
+      },
+      {
+        "key": "D",
+        "text": "Sandık kurulu"
+      },
+      {
+        "key": "E",
+        "text": "TBMM Başkanlık Divanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Yüksek Seçim Kurulu)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 79):</strong><br>\nCumhurbaşkanlığı ve TBMM milletvekili seçim tutanaklarını kabul etme, seçim sonuçlarını kesinleştirme ve itirazları inceleyip kesin karara bağlama görevi <strong>Yüksek Seçim Kurulu'na (YSK)</strong> aittir.<br><br>\n🔍 <strong>Şıkların Analizi:</strong><br>\n• <strong>A) Yüksek Seçim Kurulu:</strong> Seçimlerin genel yönetim ve denetim organıdır; kararlarına karşı başka hiçbir merciye (AYM dahil) başvurulamaz.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nYSK 7 asıl, 4 yedek olmak üzere toplam <strong>11 üyeden</strong> oluşur (6 üye Yargıtay, 5 üye Danıştay tarafından seçilir)."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q16",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "TBMM seçimlerine ilişkin aşağıdaki ifadeler \nverilmiştir. \nI. TBMM 600 milletvekilinden oluşur. \nII. Genel seçimler kural olarak beş yılda bir yapılır. \nIII. Cumhurbaşkanlığı seçimi ile TBMM genel seçimi farklı \ngünlerde yapılmak zorundadır. \nBu ifadelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (I ve II)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 75 & 77):</strong><br>\n• <strong>I. Öncül:</strong> TBMM 600 milletvekilinden oluşur. (DOĞRU - 2017 değişikliğiyle 550'den 600'e çıkarıldı).<br>\n• <strong>II. Öncül:</strong> Genel seçimler kural olarak beş yılda bir yapılır. (DOĞRU).<br>\n• <strong>III. Öncül:</strong> Cumhurbaşkanlığı seçimi ile TBMM seçimi farklı günlerde yapılmak zorundadır. (YANLIŞ - Anayasa m.77 gereğince <strong>aynı günde</strong> yapılır).<br><br>\n🔍 <strong>Sonuç:</strong> I ve II doğrudur (B şıkkı).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nTBMM ve Cumhurbaşkanlığı seçimleri 5 yılda bir <strong>aynı günde</strong> yapılır."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q17",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "Milletvekili seçilme yeterliliğine ilişkin aşağıdaki \nifadeler verilmiştir. \nI. On sekiz yaşını dolduran her Türk, diğer koşulları da \ntaşıyorsa milletvekili seçilebilir. \nII. En az ilkokul mezunu olmayanlar milletvekili \nseçilemez. \nIII. Kamu hizmetinden yasaklı olanlar milletvekili \nseçilebilir. \nBu ifadelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (I ve II)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 76):</strong><br>\n• <strong>I. Öncül:</strong> On sekiz yaşını dolduran her Türk milletvekili seçilebilir. (DOĞRU - 2017 değişikliği).<br>\n• <strong>II. Öncül:</strong> En az ilkokul mezunu olmayanlar milletvekili seçilemez. (DOĞRU - Eğitim şartı en az ilkokul mezunluğudur).<br>\n• <strong>III. Öncül:</strong> Kamu hizmetinden yasaklı olanlar seçilebilir. (YANLIŞ - Kamu hizmetinden yasaklılar milletvekili seçilemez).<br><br>\n🔍 <strong>Sonuç:</strong> I ve II doğrudur (B şıkkı).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nMilletvekilliğinde eğitim şartı <strong>en az ilkokul mezunu</strong> olmaktır (Cumhurbaşkanlığında ise <strong>yükseköğrenim</strong> şarttır)."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q18",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 18,
+    "questionText": "Aşağıdakilerden hangisi TBMM'nin anayasal görev \nve yetkilerinden biridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Üst kademe kamu yöneticilerini atamak"
+      },
+      {
+        "key": "B",
+        "text": "Bakanları atamak"
+      },
+      {
+        "key": "C",
+        "text": "Cumhurbaşkanlığı kararnamesi çıkarmak"
+      },
+      {
+        "key": "D",
+        "text": "Milletlerarası antlaşmaları onaylamak"
+      },
+      {
+        "key": "E",
+        "text": "Bütçe kanunu teklifini görüşmek ve kabul etmek"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (Bütçe kanunu teklifini görüşmek ve kabul etmek)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 87 & 104):</strong><br>\n• <strong>A, B, C şıkları:</strong> Üst kademe yöneticileri ve bakanları atamak, CB kararnamesi çıkarmak <strong>Cumhurbaşkanının</strong> görevleridir.<br>\n• <strong>D şıkkı:</strong> Milletlerarası antlaşmaları <em>onaylamak ve yayımlamak</em> Cumhurbaşkanına aittir; TBMM ise antlaşmanın onaylanmasını <em>kanunla uygun bulur</em>.<br>\n• <strong>E şıkkı:</strong> Bütçe kanunu teklifini görüşmek ve kabul etmek <strong>TBMM'nin asli anayasal görevidir</strong>.<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nAntlaşmayı <strong>uygun bulan</strong> = TBMM (Kanunla)<br>\nAntlaşmayı <strong>onaylayan ve yayımlayan</strong> = Cumhurbaşkanı"
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q19",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 19,
+    "questionText": "Genel ve özel af ilanına ilişkin aşağıdaki ifadeler \nverilmiştir. \nI. Af ilanına karar verme yetkisi TBMM'ye aittir. \nII. Üye tamsayısının beşte üç çoğunluğu aranır. \nIII. Orman yakma suçu kapsam dışındadır \nBu ifadelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (I, II ve III)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 87 & 169):</strong><br>\n• <strong>I. Öncül:</strong> Af ilanına karar verme yetkisi TBMM'ye aittir. (DOĞRU).<br>\n• <strong>II. Öncül:</strong> Üye tamsayısının beşte üç çoğunluğu (360 oy) aranır. (DOĞRU).<br>\n• <strong>III. Öncül:</strong> Orman yakma suçu kapsam dışındadır. (DOĞRU - Anayasa m.169 gereği hiçbir şekilde affedilemez).<br><br>\n🔍 <strong>Sonuç:</strong> I, II ve III öncüllerin tamamı doğrudur (E şıkkı).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nOrman yakma, yok etme suçları Anayasa'da <strong>genel ve özel af çıkarılamayacak tek suç türü</strong> olarak güvenceye alınmıştır."
+  },
+  {
+    "id": "anayasa_2027_test_5_2_q20",
+    "testId": "anayasa_2027_test_5_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 5.2 (TBMM Denetim Yolları, Yüce Divan & Kanunlaşma)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 20,
+    "questionText": "Cumhurbaşkanının kanunları yayımlaması ve geri \ngöndermesine ilişkin aşağıdaki ifadeler verilmiştir. \nI. Kabul edilen kanunları yayımlamak için anayasal süre \non beş gündür. \nII. Uygun bulmadığı olağan bir kanunu gerekçesiyle \nMeclise geri gönderebilir. \nIII. Bütçe kanunu da aynı geri gönderme usulüne tabidir. \nBu ifadelerden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (I ve II)</strong><br><br>\n📚 <strong>Anayasa Hukuku Analizi (1982 Anayasası Madde 89):</strong><br>\n• <strong>I. Öncül:</strong> Kanunları yayımlamak için anayasal süre 15 gündür. (DOĞRU).<br>\n• <strong>II. Öncül:</strong> Uygun bulmadığı olağan kanunları gerekçesiyle Meclise geri gönderebilir. (DOĞRU).<br>\n• <strong>III. Öncül:</strong> Bütçe kanunu da aynı geri gönderme usulüne tabidir. (YANLIŞ - Cumhurbaşkanı <strong>Bütçe Kanununu veto edemez / geri gönderemez</strong>).<br><br>\n🔍 <strong>Sonuç:</strong> I ve II doğrudur (A şıkkı).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\nCumhurbaşkanının Meclise <strong>geri gönderemediği tek kanun</strong> = <strong>Bütçe Kanunu</strong>dur."
   }
 ];
