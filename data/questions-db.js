@@ -84783,5 +84783,705 @@ window.EKYS_EXTRACTED_QUESTIONS = window.QUESTIONS_DB = [
     ],
     "correctAnswer": "B",
     "explanation": "Doğru Cevap: <strong>B (Tabhane)</strong><br><br>🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>2. Ders Notu PDF (Sayfa 29) ve 10. ders anlatımına göre; külliyelerin yanında misafirhane / konukevi (ve hastaların nekahat döneminde dinlendiği bakımevi) işleviyle kurulan mimari yapı 'Tabhane'dir.<br><br>🔍 <strong>Çeldirici Şıkların Analizi:</strong><br>• Bedesten: Değerli kumaş ve eşyaların satıldığı kapalı çarşıdır.<br>• Türbe: Anıt mezardır.<br>• Şifahane: Hastanedir.<br>• Arasta: Tek cins mal satan sıralı esnaf çarşısıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Konukevi / Misafirhane = Tabhane | Aşevi = İmarethane | Hastane = Şifahane / Darüşşifa / Bimaristan.<br><br>📚 <strong>Kaynak:</strong> Gökhan Hoca 2., 3. ve 4. Ders Notu PDF Slaytları & Ders Anlatımı"
+  },
+  {
+    "id": "tarih15_q1",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 1,
+    "questionText": "Bugünkü devlet anlayışına göre doğrudan doğruya devletin görevleri arasında sayılan öğretim, bayındırlık, sağlık gibi alanlarda halkın ihtiyaçları aşağıdakilerden hangisi ile karşılanmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dirlik"
+      },
+      {
+        "key": "B",
+        "text": "Ticaret"
+      },
+      {
+        "key": "C",
+        "text": "İkta"
+      },
+      {
+        "key": "D",
+        "text": "Gulam"
+      },
+      {
+        "key": "E",
+        "text": "Vakıf"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (Vakıf)</strong><br><br>📚 <strong>Genel Tarih Ders Notu Analizi (Türk-İslam ve Osmanlı Kültür & Medeniyeti):</strong><br>Türk-İslam devletlerinde ve Osmanlı Devleti'nde günümüzde sosyal devletin temel görevleri arasında yer alan <strong>eğitim-öğretim (medrese, sıbyan mektebi), sağlık (darüşşifa, bimarhane), bayındırlık (cami, köprü, çeşme, imarethane, kervansaray) ve sosyal dayanışma</strong> hizmetleri devlet hazinesinden para harcanmaksızın <strong>Vakıf Sistemi</strong> (mevkuf/vakıf arazi gelirleri) aracılığıyla finanse edilmiştir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Dirlik:</strong> Osmanlı'da devlet görevlilerine ve askerlere hizmet karşılığı tahsis edilen mirî arazi geliridir (Has, Zeamet, Tımar).<br>• <strong>B) Ticaret:</strong> Ekonomik mal ve hizmet mübadelesidir.<br>• <strong>C) İkta:</strong> Büyük Selçuklu ve Anadolu Selçuklu'da mirî toprakların vergi gelirlerinin asker ve devlet adamlarına maaş karşılığı verilmesi sistemidir (Osmanlı'daki Dirlik sisteminin karşılığıdır).<br>• <strong>D) Gulam:</strong> Türk-İslam devletlerinde savaş esirleri veya küçük yaşta alınan gençlerin Gulamhane'de yetiştirilerek saray ve merkez ordusunda (Gulaman-ı Saray) istihdam edilmesi sistemidir.<br>• <strong>E) Vakıf:</strong> Kişilerin mülklerini veya gelirlerini Allah rızası için eğitim, sağlık, bayındırlık ve sosyal yardım kurumlarının (külliye, darüşşifa, medrese, imarethane) sürekli işletilmesine tahsis etmesidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Soruda <em>\"eğitim, sağlık, bayındırlık, sosyal yardımlaşma, imarethane, darüşşifa\"</em> anahtar kelimelerini gördüğünüzde cevabınız doğrudan <strong>Vakıf</strong> sistemidir."
+  },
+  {
+    "id": "tarih15_q2",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 2,
+    "questionText": "Aşağıdakilerden hangisi kadim Türk devlet geleneğinde devleti oluşturan temel unsurlardan biri olarak kabul edilmektedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kün"
+      },
+      {
+        "key": "B",
+        "text": "Yumuş"
+      },
+      {
+        "key": "C",
+        "text": "Balık"
+      },
+      {
+        "key": "D",
+        "text": "Törün"
+      },
+      {
+        "key": "E",
+        "text": "Yurt"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Kün)</strong><br><br>📚 <strong>Genel Tarih 1. Ders Notu Analizi (İslamiyet Öncesi Türk Devlet Geleneği):</strong><br>Kadim Türk devlet geleneğinde devleti (<strong>İl / El</strong>) oluşturan <strong>4 temel unsur</strong> şunlardır:<br>1. <strong>Kün (Budun / Millet / Halk):</strong> Devleti oluşturan insan unsuru.<br>2. <strong>Ülke (Uluş / Vatan / Toprak):</strong> Devletin egemenlik kurduğu coğrafya.<br>3. <strong>Oksızlık (Bağımsızlık / İstiklal):</strong> Devletin başka bir güce bağlı olmaması.<br>4. <strong>Töre (Teşkilat / Kanun):</strong> Devlet ve toplum düzenini sağlayan hukuk kuralları.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Kün:</strong> Eski Türkçede <strong>\"Halk / Millet\"</strong> demektir; devleti oluşturan 4 ana unsurdan biridir.<br>• <strong>B) Yumuş:</strong> İslamiyet öncesi Türklerde evlilikte kız tarafının hazırladığı <strong>çeyiz</strong> (veya elçi/hizmet) anlamına gelir.<br>• <strong>C) Balık:</strong> İslamiyet öncesi Türklerde (özellikle Uygurlarda) <strong>\"Şehir / Kale\"</strong> demektir (Örn: Ordu-Balık, Beş-Balık).<br>• <strong>D) Törün:</strong> İslamiyet öncesi Türklerde düğün yemeği / ziyafet (veya hükümdar divanında oturma sırası/mevkii) anlamında kullanılır.<br>• <strong>E) Yurt (Keregü):</strong> Göçebe Türklerde ailenin yaşadığı <strong>\"Çadır / Ev\"</strong> (veya göçebe konaklama yeri) anlamında kullanılır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Eski Türklerde <strong>\"Yurt (Keregü)\" = Çadır/Ev</strong> anlamındayken, devletin toprak unsuru <strong>\"Uluş (Ülke)\"</strong>, halk unsuru ise <strong>\"Kün (Budun)\"</strong> kavramıyla ifade edilir."
+  },
+  {
+    "id": "tarih15_q3",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 3,
+    "questionText": "Aşağıdaki topluluklardan hangisi Hristiyanlığı benimsememiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Peçenekler"
+      },
+      {
+        "key": "B",
+        "text": "Avrupa Hunları"
+      },
+      {
+        "key": "C",
+        "text": "Oğuzlar"
+      },
+      {
+        "key": "D",
+        "text": "Uygurlar"
+      },
+      {
+        "key": "E",
+        "text": "Bulgarlar"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (Uygurlar)</strong><br><br>📚 <strong>Genel Tarih 1. Ders Notu Analizi (İlk Türk Devletleri ve Din Değişikliği):</strong><br>Orta Asya'da hüküm süren <strong>Uygurlar</strong>, Bögü Kağan döneminde <strong>Maniheizm</strong> ve <strong>Budizm</strong> dinlerini benimsemişlerdir; Doğu Avrupa'ya göç edip Hristiyanlaşan Türk boyları arasında yer almazlar.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Peçenekler:</strong> Karadeniz'in kuzeyi ve Balkanlar'a göç etmiş, zamanla Hristiyanlığı benimseyerek asimile olmuşlardır.<br>• <strong>B) Avrupa Hunları:</strong> Attila'nın ölümünden sonra Orta Avrupa'da kalarak Hristiyanlığı benimsemişlerdir.<br>• <strong>C) Oğuzlar (Uzlar):</strong> Balkanlar'a geçen Hristiyan Oğuz kolu (Uzlar / Gagauzlar - Gökoğuzlar) Ortodoks Hristiyanlığı benimsemiştir.<br>• <strong>D) Uygurlar:</strong> Orta Asya'da yerleşik hayata geçen ilk Türk devletidir; <strong>Maniheizm ve Budizm</strong> dinlerini benimsemişlerdir.<br>• <strong>E) Bulgarlar (Tuna Bulgarları):</strong> Boris Han döneminde Ortodoks Hristiyanlığı resmî din olarak kabul etmişlerdir (İdil/Volga Bulgarları ise İslamiyet'i seçmiştir).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>• <strong>Museviliği</strong> benimseyen tek Türk devleti: <strong>Hazarlar</strong>.<br>• <strong>Maniheizm ve Budizm'i</strong> benimseyen: <strong>Uygurlar</strong>.<br>• Avrupa ve Balkanlar'a göç edip <strong>Hristiyanlığı</strong> benimseyenler: <strong>Avarlar, Tuna Bulgarları, Macarlar, Peçenekler, Kumanlar (Kıpçaklar), Uzlar (Gagauzlar)</strong>."
+  },
+  {
+    "id": "tarih15_q4",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 4,
+    "questionText": "Timur Devleti zamanında \"Muhakemetü'l - Lugateyn\" adlı eseri ile Türkçenin Farsça ve Hintçeden üstün olduğunu kanıtlamaya çalışan isim aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Reşidüddin Fazlullah"
+      },
+      {
+        "key": "B",
+        "text": "Kaşgarlı Mahmut"
+      },
+      {
+        "key": "C",
+        "text": "Edip Ahmet Yükneki"
+      },
+      {
+        "key": "D",
+        "text": "Ali Şir Nevai"
+      },
+      {
+        "key": "E",
+        "text": "Ahmet Yesevi"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (Ali Şir Nevai)</strong><br><br>📚 <strong>Genel Tarih 2. Ders Notu Analizi (Türk-İslam Edebiyatı ve Bilim İnsanları):</strong><br>Timur Rönesansı döneminde (Hüseyin Baykara zamanında Herat'ta) yetişen büyük Çağatay şairi ve dil bilgini <strong>Ali Şir Nevai</strong>, 1499 yılında kaleme aldığı <strong>\"Muhakemetü'l-Lügateyn\" (İki Dilin Yargılanması/Karşılaştırılması)</strong> adlı eserinde <strong>Türkçenin Farsçadan daha zengin ve üstün bir dil olduğunu</strong> kanıtlamıştır.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Reşidüddin Fazlullah:</strong> İlhanlılar dönemi veziri ve tarihçisidir; <em>Câmiü't-Tevârih</em> adlı eseriyle tanınır.<br>• <strong>B) Kaşgarlı Mahmut:</strong> Karahanlılar döneminde <strong>Türkçenin Arapçadan</strong> üstün olduğunu göstermek ve Araplara Türkçe öğretmek için <em>Dîvânu Lügâti't-Türk</em>'ü (1072-1074) yazmıştır.<br>• <strong>C) Edip Ahmet Yükneki:</strong> Karahanlılar döneminde ahlaki ve didaktik öğütler içeren <em>Atabetü'l-Hakayık (Hakikatlerin Eşiği)</em> eserini yazmıştır.<br>• <strong>D) Ali Şir Nevai:</strong> Çağatay Türkçesinin en büyük şairidir; <em>Muhakemetü'l-Lügateyn</em> ve ilk Türk şairler tezkiresi olan <em>Mecâlisü'n-Nefâis</em>'in yazarıdır.<br>• <strong>E) Ahmet Yesevi:</strong> İlk Türk mutasavvıfıdır; hikmetlerini topladığı eseri <em>Dîvân-ı Hikmet</em>'tir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>ÖSYM bu ikiliyi çok sık karşılaştırır:<br>• <strong>Türkçe &gt; Arapça</strong> (Karahanlılar) $\\rightarrow$ <strong>Kaşgarlı Mahmut</strong> (<em>Dîvânu Lügâti't-Türk</em>)<br>• <strong>Türkçe &gt; Farsça</strong> (Timurlular) $\\rightarrow$ <strong>Ali Şir Nevai</strong> (<em>Muhakemetü'l-Lügateyn</em>)"
+  },
+  {
+    "id": "tarih15_q5",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi Selçuklu ordusunu oluşturan birlikler arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gulaman-ı saray"
+      },
+      {
+        "key": "B",
+        "text": "Cebeciler"
+      },
+      {
+        "key": "C",
+        "text": "Eyalet askerleri"
+      },
+      {
+        "key": "D",
+        "text": "Sipahiler"
+      },
+      {
+        "key": "E",
+        "text": "Türkmenler"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Cebeciler)</strong><br><br>📚 <strong>Genel Tarih 2. ve 4. Ders Notu Analizi (Selçuklu ve Osmanlı Ordu Teşkilatı):</strong><br><strong>Cebeciler (Cebeci Ocağı)</strong>, Büyük Selçuklu veya Anadolu Selçuklu ordusunda değil, <strong>Osmanlı Devleti Kapıkulu Piyadeleri</strong> bünyesinde silahların yapımı, bakımı, onarımı ve savaş meydanına taşınmasından sorumlu askeri ocaktır.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Gulaman-ı Saray:</strong> Selçuklu sultanını ve sarayı koruyan, üç ayda bir <em>bistegânî</em> adlı maaş alan merkez ordusudur.<br>• <strong>B) Cebeciler:</strong> <strong>Osmanlı Kapıkulu Piyade</strong> ocağıdır (Selçuklu ordusunda bu adla bir sınıf yoktur; Selçuklu'da silah deposuna <em>Zerrad-hane / Ceber-hane</em> denir).<br>• <strong>C) Eyalet askerleri:</strong> Melik ve eyalet valilerinin komutasında bulunan Selçuklu askeri birlikleridir.<br>• <strong>D) Sipahiler (İkta Askerleri):</strong> Selçuklu ordusunun en kalabalık kısmını oluşturan, ikta gelirleriyle beslenen atlı askerlerdir.<br>• <strong>E) Türkmenler:</strong> Sınır boylarında (uçlarda) görev yapan, savaş zamanı orduya katılan gönüllü Oğuz süvarileridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Yeniçeri, Acemi Oğlanlar, <strong>Cebeci</strong>, Topçu, Top Arabacıları, Humbaracı ve Lağımcı ocakları <strong>Osmanlı Kapıkulu Piyadeleri</strong>dir; Selçuklu ordusunda yer almaz."
+  },
+  {
+    "id": "tarih15_q6",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 6,
+    "questionText": "Osmanlı Devleti'nde Balkanlara yapılan seferlerde ordu atlarının ihtiyaçlarını gideren, orduda yer alan yardımcı kuvvetlere ne ad verilirdi?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cerahorlar"
+      },
+      {
+        "key": "B",
+        "text": "Voynuk"
+      },
+      {
+        "key": "C",
+        "text": "Tatarlar"
+      },
+      {
+        "key": "D",
+        "text": "Beşliler"
+      },
+      {
+        "key": "E",
+        "text": "Sakalar"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Voynuk)</strong><br><br>📚 <strong>Genel Tarih 4. Ders Notu Analizi (Osmanlı Ordu Teşkilatı - Yardımcı Kuvvetler):</strong><br>Osmanlı Devleti'nde özellikle Rumeli ve Balkanlar'da Hristiyan tebaadan seçilen, vergiden muaf tutulan ve seferlerde <strong>padişahın, vezirlerin ve ordunun atlarının bakımını, çayır ve yem (seyislik) hizmetlerini</strong> yürüten yardımcı askeri sınıfa <strong>Voynuklar</strong> adı verilmiştir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Cerahorlar:</strong> Sefer sırasında yol açma, köprü onarma, kale tamiri ve hendek kazma gibi geri hizmetlerde ücretli veya nöbetleşe çalıştırılan Hristiyan yardımcı birliklerdir.<br>• <strong>B) Voynuk:</strong> Balkanlarda ordu atlarının bakımı ve seyislik hizmetlerinden sorumlu geri hizmet birliğidir.<br>• <strong>C) Tatarlar:</strong> Haberleşme (posta/ulak) ve keşif-akın hizmetlerinde görev yapan birliklerdir.<br>• <strong>D) Beşliler:</strong> Sınır kalelerini korumak amacıyla her beş haneden bir kişi alınarak oluşturulan ücretli sınır muhafızlarıdır.<br>• <strong>E) Sakalar:</strong> Savaş meydanında ve seferde ordunun <strong>su ihtiyacını</strong> karşılayan görevlilerdir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osmanlı geri hizmet şifresi:<br>• <strong>Voynuk</strong> $\\rightarrow$ At bakımı / Seyis (Balkanlar)<br>• <strong>Martolos</strong> $\\rightarrow$ Hristiyan keşif, istihbarat ve Tuna nehir/geçit güvenliği<br>• <strong>Derbentçi</strong> $\\rightarrow$ Geçit, köprü ve yolların güvenliği<br>• <strong>Saka</strong> $\\rightarrow$ Ordunun su ihtiyacı"
+  },
+  {
+    "id": "tarih15_q7",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 7,
+    "questionText": "\"Devlet\", Orta Asya Türklerinde \"İl\" kelimesi ile tanımlanmıştır. İl, yöneticilerle işbirliği yapan geniş halk kitlelerinin gayretleriyle meydana gelmiştir.\nDevleti oluşturan kurucu \"millet\" aşağıdaki kelimelerden hangisi ile tanımlanır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ok"
+      },
+      {
+        "key": "B",
+        "text": "Budun"
+      },
+      {
+        "key": "C",
+        "text": "Urug"
+      },
+      {
+        "key": "D",
+        "text": "Oguş"
+      },
+      {
+        "key": "E",
+        "text": "Kün"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Budun)</strong><br><br>📚 <strong>Genel Tarih 1. Ders Notu Analizi (İslamiyet Öncesi Sosyal Yapı Hiyerarşisi):</strong><br>İslamiyet öncesi Türk toplumunda boyların (Bod/Ok) bir araya gelmesiyle oluşan, siyasi örgütlenme bilincine ulaşarak devleti (<strong>İl / El</strong>) kuran <strong>\"Millet / Kavim\"</strong> basamağına <strong>Budun</strong> denir.<br><br>🔍 <strong>Şıkların Analizi (Küçükten Büyüğe Toplumsal Yapı):</strong><br>1. <strong>Oguş (D):</strong> Aile (En küçük toplumsal birim).<br>2. <strong>Urug (C):</strong> Sülale (Aileler birliği / Soy).<br>3. <strong>Bod / Boy / Ok (A):</strong> Sülalelerin birleşmesiyle oluşan siyasi nitelikli boy (Başında <em>Bey</em> bulunur).<br>4. <strong>Budun (B):</strong> Boyların birleşmesiyle oluşan kurucu <strong>Millet</strong>.<br>5. <strong>İl / El:</strong> Budunun siyasi teşkilata kavuşmuş en üst hali olan <strong>Devlet</strong>.<br>• <strong>E) Kün:</strong> Genel anlamda \"halk, ahali, kalabalık kitle\" demektir; boylar birliği olarak devleti kuran kurucu millet basamağının teknik adı ise <strong>Budun</strong>'dur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Küçükten büyüğe sosyal yapı şifresi: <strong>\"O - U - B - B - İ\"</strong> $\\rightarrow$ <strong>O</strong>guş (Aile) &lt; <strong>U</strong>rug (Sülale) &lt; <strong>B</strong>oy (Ok) &lt; <strong>B</strong>udun (Millet) &lt; <strong>İ</strong>l (Devlet)."
+  },
+  {
+    "id": "tarih15_q8",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 8,
+    "questionText": "Dünyanın yuvarlak olduğunu ve döndüğünü savunmuştur. \"Dünya dönüyorsa neden ağaçlar taşlar yerlerinden fırlamıyor\"? diye soranlara ise \"Dünyanın, merkezindeki çekim gücü varlıkların dışarı fırlaması engellemektedir\" cevabını vererek \"yerçekimi kuvvetini\" batıdan asırlar önce ortaya koyan Türk İslam bilgini aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Biruni"
+      },
+      {
+        "key": "B",
+        "text": "İbni Sina"
+      },
+      {
+        "key": "C",
+        "text": "Harezmi"
+      },
+      {
+        "key": "D",
+        "text": "Farabi"
+      },
+      {
+        "key": "E",
+        "text": "Caca Bey"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Biruni)</strong><br><br>📚 <strong>Genel Tarih 2. Ders Notu Analizi (Türk-İslam Bilim İnsanları):</strong><br>Gazneli Mahmut'un <em>\"Sarayımın en değerli hazinesi\"</em> dediği büyük Türk-İslam bilgini <strong>el-Biruni</strong>; astronomi, matematik, coğrafya ve fizik alanında çağının çok ötesinde çalışmalar yapmış, <strong>Dünya'nın yuvarlak olduğunu, kendi ekseni etrafında döndüğünü ve merkezindeki yerçekimi kuvvetinin nesnelerin uzaya savrulmasını engellediğini</strong> Newton'dan yaklaşık 600 yıl önce açıklamıştır.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Biruni:</strong> <em>Asârü'l-Bâkiye</em>, <em>Kitâbü's-Saydele</em> ve <em>Tahkîku Mâ li'l-Hind</em> eserlerinin yazarıdır; enlem-boylam hesaplamaları, Dünya'nın yarıçapı ve yerçekimi fikriyle tanınır.<br>• <strong>B) İbn-i Sina:</strong> Batı'da <em>Avicenna</em> olarak bilinen tıp otoritesidir; <em>El-Kanun fi't-Tıb</em> ve <em>Kitabü'ş-Şifa</em> eserlerinin yazarıdır.<br>• <strong>C) Harezmi:</strong> Cebirin kurucusu ve sıfırı (0) matematikte kullanan bilgindir (<em>Kitabü'l-Cebr ve'l-Mukabele</em>).<br>• <strong>D) Farabi:</strong> <em>Muallim-i Sani</em> (İkinci Öğretmen) unvanlı filozoftur (<em>El-Medinetü'l-Fazıla</em>, <em>İhsâü'l-Ulûm</em>).<br>• <strong>E) Caca Bey:</strong> Anadolu Selçuklu döneminde Kırşehir'de dünyanın ilk astronomi medreselerinden (rasathane) birini kuran devlet adamıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Soruda <em>\"Sarayımın en değerli hazinesi (Gazneli Mahmut)\", \"Asârü'l-Bâkiye\", \"Yerçekimi kuvveti\"</em> veya <em>\"Dünya'nın çapını ölçme\"</em> geçiyorsa cevap <strong>Biruni</strong>'dir."
+  },
+  {
+    "id": "tarih15_q9",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 9,
+    "questionText": "Klasik Türk müziği alanında araştırmalar yapmak ve bu alanda eğitim vermek amacıyla oluşturulan müzik kurulu, aşağıdaki kurumlardan hangisinde faaliyetlerini yürütmüştür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Darülelhan"
+      },
+      {
+        "key": "B",
+        "text": "Darülbedayi"
+      },
+      {
+        "key": "C",
+        "text": "Darüşşafaka"
+      },
+      {
+        "key": "D",
+        "text": "Darüleytam"
+      },
+      {
+        "key": "E",
+        "text": "Darülfünun"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Darülelhan)</strong><br><br>📚 <strong>Genel Tarih 4. Ders Notu Analizi (Osmanlı Kültür, Sanat ve Eğitim Kurumları):</strong><br>Kelime anlamı <strong>\"Nağmeler Evi / Melodiler Evi\"</strong> olan <strong>Darülelhan</strong>, 1917 yılında Osmanlı Devleti'nin <strong>ilk resmî müzik okulu (konservatuvarı)</strong> olarak kurulmuş; Klasik Türk müziği araştırmaları yapmak, türkü derlemeleri yürütmek ve müzik eğitimi vermek amacıyla faaliyet göstermiştir (Cumhuriyet döneminde 1927'de <em>İstanbul Belediye Konservatuvarı</em> adını almıştır).<br><br>🔍 <strong>Şıkların Analizi (\"Darü'l-\" Kurumları Karşılaştırması):</strong><br>• <strong>A) Darülelhan:</strong> İlk resmî <strong>Müzik Okulu / Konservatuvar</strong> (<em>Elhan = Nağmeler/Melodiler</em>).<br>• <strong>B) Darülbedayi:</strong> 1914'te kurulan ilk <strong>Tiyatro</strong> kurumu (<em>Bedayi = Güzellikler</em>; günümüz İstanbul Şehir Tiyatroları).<br>• <strong>C) Darüşşafaka:</strong> 1873'te Cemiyet-i Tedrisiye-i İslamiye tarafından yetim ve öksüz çocukların yatılı eğitimi için açılan okul (<em>Şefkat Yuvası</em>).<br>• <strong>D) Darüleytam:</strong> I. Dünya Savaşı ve Balkan Savaşları'nda şehit düşenlerin yetim çocuklarını barındırmak için açılan <strong>Yetimler Yurdu</strong> (<em>Eytam = Yetimler</em>).<br>• <strong>E) Darülfünun:</strong> Osmanlı'nın Avrupa tarzı ilk <strong>Üniversitesi</strong> (1933 Üniversite Reformu ile İstanbul Üniversitesi oldu).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>• <strong>Darülelhan</strong> = Müzik (Konservatuvar)<br>• <strong>Darülbedayi</strong> = Tiyatro<br>• <strong>Sanayi-i Nefise Mektebi</strong> = Güzel Sanatlar (Osman Hamdi Bey)"
+  },
+  {
+    "id": "tarih15_q10",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 10,
+    "questionText": "İslamiyet öncesi Türk devletlerinde sosyal hayat hakkında verilen aşağıdaki kavramlar ve tanım eşleştirmelerinden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ög - Anne"
+      },
+      {
+        "key": "B",
+        "text": "Kalın - Başlık parası"
+      },
+      {
+        "key": "C",
+        "text": "Keregü - Çadır, yurt, ev"
+      },
+      {
+        "key": "D",
+        "text": "Nevruz - Bahar bayramı"
+      },
+      {
+        "key": "E",
+        "text": "Bahşı - Amca"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (Bahşı - Amca)</strong><br><br>📚 <strong>Genel Tarih 1. Ders Notu Analizi (İslamiyet Öncesi Türklerde Sosyal Hayat Kavramları):</strong><br>İslamiyet öncesi Türklerde (özellikle Uygurlarda) <strong>\"Bahşı\"</strong> kavramı amca demek değil; <strong>\"Öğretmen, bilgin, Budist din adamı, katip veya halk ozanı/hekim\"</strong> anlamına gelir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Ög - Anne:</strong> Doğrudur. Eski Türkçede <em>Ög</em> anne demektir (Annesiz kalan çocuğa bu yüzden <strong>\"Öksüz\"</strong> denir; baba ise <em>Kang / Ata</em>'dır).<br>• <strong>B) Kalın - Başlık parası:</strong> Doğrudur. Erkek tarafının kız ailesine verdiği mal/başlık parasıdır (Kızın getirdiği çeyize ise <em>Yumuş / Egne</em> denir).<br>• <strong>C) Keregü - Çadır, yurt, ev:</strong> Doğrudur. Göçebe Türklerin keçeden yapılmış kubbeli çadırlarına <em>Keregü (Yurt / Otağ)</em> denir.<br>• <strong>D) Nevruz - Bahar bayramı:</strong> Doğrudur. Türklerin Ergenekon'dan çıkışını ve baharın gelişini (21 Mart) simgeleyen milli bayramdır.<br>• <strong>E) Bahşı - Amca (YANLIŞ):</strong> <strong>Bahşı = Öğretmen / Din adamı / Bilgin</strong> demektir (Amca kavramı eski Türkçede <em>Eçi / Aça</em> ile ifade edilir).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Ög</strong> = Anne (Öksüz buradan gelir) | <strong>Kang</strong> = Baba | <strong>Bahşı</strong> = Uygurlarda Öğretmen/Din Adamı."
+  },
+  {
+    "id": "tarih15_q11",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 11,
+    "questionText": "Aşağıdakilerden hangisi Osmanlı toprak sisteminde mirî arazi olarak adlandırılan statüye dâhil değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Paşmaklık arazi"
+      },
+      {
+        "key": "B",
+        "text": "Haraci arazi"
+      },
+      {
+        "key": "C",
+        "text": "Mukataa arazi"
+      },
+      {
+        "key": "D",
+        "text": "Vakıf arazi"
+      },
+      {
+        "key": "E",
+        "text": "Yurtluk arazi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Haraci arazi)</strong><br><br>📚 <strong>Genel Tarih 4. Ders Notu Analizi (Osmanlı Toprak Sistemi):</strong><br>Osmanlı toprak sistemi temel olarak <strong>Mirî Arazi</strong> (mülkiyeti devlete ait), <strong>Mülk Arazi</strong> (mülkiyeti şahıslara ait) ve <strong>Vakıf Arazi</strong> olarak ayrılır. <strong>Haraci arazi</strong> ve <strong>Öşri arazi</strong>, mülkiyeti bireylere ait olan <strong>Mülk Arazi</strong> statüsündedir; Mirî araziye dahil değildir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Paşmaklık arazi (Mirî):</strong> Geliri padişahın annesi, eşi ve kızlarına (cep ve ayakkabı/giyim harçlığı olarak) ayrılan mirî arazidir.<br>• <strong>B) Haraci arazi (Mülk Arazi - Doğru Cevap):</strong> Fetih sırasında gayrimüslim halkın elinde bırakılan, mülkiyeti şahıslara ait olan <strong>Mülk arazidir</strong> (Müslümanlara ait mülk araziye ise <em>Öşri arazi</em> denir).<br>• <strong>C) Mukataa arazi (Mirî):</strong> Geliri doğrudan devlet hazinesine (peşin/iltizam yoluyla) aktarılan mirî arazidir.<br>• <strong>D) Vakıf arazi:</strong> Aslen mirî veya mülk topraktan tahsis edilerek geliri kamu yararına (eğitim, sağlık, din) ayrılan arazidir.<br>• <strong>E) Yurtluk arazi (Mirî):</strong> Sınır boylarını koruyan beylere ve askerlere hizmet karşılığı verilen mirî arazidir (Kale muhafızlarına ve tersane giderlerine verilene ise <em>Ocaklık</em> denir).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Mülk Araziler sadece 2 tanedir:</strong> 1) <strong>Öşri Arazi</strong> (Müslüman mülkü), 2) <strong>Haraci Arazi</strong> (Gayrimüslim mülkü). Geriye kalan Dirlik, Paşmaklık, Mukataa, Yurtluk, Ocaklık, Malikane, Arpalık ve Metruk arazilerin tamamı <strong>Mirî Arazi</strong> bölümleridir."
+  },
+  {
+    "id": "tarih15_q12",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 12,
+    "questionText": "Yazmış olduğu İhyâu Ulûmi'd-Din adlı eserinde hem kabilecilik anlayışına hem de körü körüne kabul edilen mezhepçiliğe karşı çıkarak, kişinin kendi mezhebini zihni ve akli faaliyetleriyle yine kendisinin bulması gerektiğini savunan İslam düşünürü aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gazali"
+      },
+      {
+        "key": "B",
+        "text": "Farabi"
+      },
+      {
+        "key": "C",
+        "text": "İbn-i Rüşd"
+      },
+      {
+        "key": "D",
+        "text": "Biruni"
+      },
+      {
+        "key": "E",
+        "text": "İbn-i Sina"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Gazali)</strong><br><br>📚 <strong>Genel Tarih 2. Ders Notu Analizi (Türk-İslam Bilim İnsanları ve Düşünürleri):</strong><br>Büyük Selçuklu döneminde Vezir Nizamülmülk tarafından <strong>Bağdat Nizamiye Medresesi</strong> başmüderrisliğine atanan ve İslam dünyasında <em>\"Hüccetü'l-İslam\" (İslam'ın Kanıtı)</em> unvanıyla anılan <strong>İmam Gazali</strong>, en ünlü eseri olan <strong>\"İhyâu Ulûmi'd-Dîn\" (Din İlimlerinin İhyası/Yeniden Canlandırılması)</strong> adlı yapıtında taklitçi imana, kabileciliğe ve körü körüne mezhep taassubuna karşı çıkmıştır.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Gazali:</strong> <em>İhyâu Ulûmi'd-Dîn</em>, <em>Kimyâ-yı Saâdet</em> ve <em>Tehâfütü'l-Felâsife</em> eserlerinin yazarıdır; Bağdat Nizamiye Medresesi'nde görev yapmıştır.<br>• <strong>B) Farabi:</strong> <em>El-Medinetü'l-Fazıla</em> ve <em>Kitabü'l-Musiki</em> yazarıdır; BM fikrini ilk ortaya atan filozoftur.<br>• <strong>C) İbn-i Rüşd:</strong> Endülüs'te yetişmiş, Batı'da <em>Averroes</em> olarak bilinen ve Aristo şerhleriyle (<em>Tehâfütü't-Tehâfüt</em>) tanınan filozoftur.<br>• <strong>D) Biruni:</strong> Gazneliler dönemi astronom, coğrafyacı ve matematikçisidir (<em>Asârü'l-Bâkiye</em>).<br>• <strong>E) İbn-i Sina:</strong> <em>Şeyhü'r-Reis</em> unvanlı hekim ve filozoftur (<em>El-Kanun fi't-Tıb</em>).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Soruda <strong>\"İhyâu Ulûmi'd-Dîn\"</strong>, <strong>\"Bağdat Nizamiye Medresesi müderrisliği\"</strong> veya <strong>\"Hüccetü'l-İslam\"</strong> ifadeleri geçtiğinde cevap kesinlikle <strong>Gazali</strong>'dir."
+  },
+  {
+    "id": "tarih15_q13",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 13,
+    "questionText": "II. Bayezit Dönemi'nde Heşt Behişt isimli eserinde Osmanlı Devleti hükümdarlarını anlatan, Yavuz Sultan Selim Dönemi'nde de kazaskerlik yapmış kişi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Emir Sultan"
+      },
+      {
+        "key": "B",
+        "text": "Ebu Suud Efendi"
+      },
+      {
+        "key": "C",
+        "text": "İdrisi Bitlisi"
+      },
+      {
+        "key": "D",
+        "text": "Molla Fenari"
+      },
+      {
+        "key": "E",
+        "text": "Kadızade Rumi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (İdrisi Bitlisi)</strong><br><br>📚 <strong>Genel Tarih 4. Ders Notu Analizi (Osmanlı Bilim İnsanları ve Tarihçileri):</strong><br><strong>İdris-i Bitlisi</strong>, Sultan II. Bayezid'in emriyle ilk sekiz Osmanlı padişahının dönemini Farsça olarak anlattığı <strong>\"Heşt Behişt\" (Sekiz Cennet)</strong> adlı ünlü tarih eserini kaleme almış; Yavuz Sultan Selim'in Doğu Anadolu ve Mısır seferlerinde Doğu Anadolu beylerinin Osmanlı'ya barışçıl katılımını sağlamış ve kazaskerlik görevinde bulunmuştur.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Emir Sultan:</strong> Yıldırım Bayezid ve Çelebi Mehmet döneminin önemli mutasavvıf ve alimidir.<br>• <strong>B) Ebussuud Efendi:</strong> Kanuni Sultan Süleyman döneminin ünlü Şeyhülislamı ve hukukçusudur.<br>• <strong>C) İdris-i Bitlisi:</strong> II. Bayezid döneminde <strong>Heşt Behişt</strong> (Sekiz Cennet - İlk 8 Osmanlı Padişahı) eserini yazan, Yavuz döneminde Doğu siyasetinde ve kazaskerlikte rol alan devlet adamıdır.<br>• <strong>D) Molla Fenari:</strong> II. Murad döneminde atanan <strong>Osmanlı Devleti'nin ilk Şeyhülislamı (Müftüsü)</strong>'dır.<br>• <strong>E) Kadızade-i Rumi:</strong> Semerkant Medresesi'nde Uluğ Bey'in hocası olmuş Osmanlı astronom ve matematikçisidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>\"Heşt Behişt\" (Sekiz Cennet = İlk 8 Osmanlı Padişahı)</strong> $\\rightarrow$ <strong>İdris-i Bitlisi</strong>.<br><em>Not:</em> Mimar Sinan'ın Edirne'de yaptığı <em>Sehî Bey'in \"Heşt Behişt\"</em> adlı ilk tezkiresiyle karıştırmayın; padişahları anlatan tarih eseri İdris-i Bitlisi'ye, ilk şairler tezkiresi ise Sehî Bey'e aittir."
+  },
+  {
+    "id": "tarih15_q14",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 14,
+    "questionText": "İlk Türk devletlerinde görevli kişilerin yaptıkları işler hakkındaki aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İmga - Kurultay'ın protokol hizmetlerini yürütmekle görevli kişi"
+      },
+      {
+        "key": "B",
+        "text": "Tutuk - Taşrada görevli askerî vali"
+      },
+      {
+        "key": "C",
+        "text": "Bitikçi - Yazı işlerinden sorumlu kişi"
+      },
+      {
+        "key": "D",
+        "text": "İnal - Tiginlerin eğitiminden sorumlu kişi"
+      },
+      {
+        "key": "E",
+        "text": "Otacı - Sağlık alanında çalışmalarda bulunan kişi, tabib"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (İmga - Kurultay'ın protokol hizmetlerini yürütmekle görevli kişi)</strong><br><br>📚 <strong>Genel Tarih 1. Ders Notu Analizi (İlk Türk Devletlerinde Görevliler):</strong><br>İlk Türk devletlerinde <strong>\"İmga (Ağıcı)\"</strong> kurultayın protokol sorumlusu değil, devletin <strong>maliye, hazine ve vergi toplama işlerinden sorumlu görevlisidir</strong>.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) İmga (YANLIŞ):</strong> <strong>İmga = Maliye / Vergi memuru</strong> demektir (Hazine görevlisine <em>Ağıcı</em> da denir; Kurultayda oturma ve protokol düzenine ise <em>Orun / Törün</em> kuralları hakimdir).<br>• <strong>B) Tutuk:</strong> Taşrada görev yapan <strong>askerî vali</strong>dir (Sivil valiye <em>Todun</em> denir).<br>• <strong>C) Bitikçi (Tamgacı):</strong> Dış ve iç yazışmalardan sorumlu <strong>katip / yazı işleri görevlisi</strong>dir.<br>• <strong>D) İnal (İnanç / Ataman):</strong> Hükümdar çocukları olan <strong>Tiginlerin eğitiminden sorumlu hoca</strong>dır (Selçuklu'da <em>Atabey</em>, Osmanlı'da <em>Lala</em>).<br>• <strong>E) Otacı (Emçi):</strong> Bitkisel ilaçlarla tedavi yapan <strong>hekim / tabip</strong>tir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hükümdar çocuklarının hocası üçlemesi EKYS'nin favorisidir:<br>• İlk Türk Devletleri: <strong>Ataman / İnal / İnanç</strong> (Tigin hocası)<br>• Selçuklular: <strong>Atabey</strong> (Melik hocası)<br>• Osmanlılar: <strong>Lala</strong> (Şehzade hocası)"
+  },
+  {
+    "id": "tarih15_q15",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 15,
+    "questionText": "Türk-İslam devletlerinde törenlerde hükümdarın önünden giderek yol açan görevli aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Emir-i Mir"
+      },
+      {
+        "key": "B",
+        "text": "Serheng"
+      },
+      {
+        "key": "C",
+        "text": "Silahtar"
+      },
+      {
+        "key": "D",
+        "text": "Şıhne"
+      },
+      {
+        "key": "E",
+        "text": "Candar"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Serheng)</strong><br><br>📚 <strong>Genel Tarih 2. Ders Notu Analizi (Türk-İslam Devletlerinde Saray Görevlileri):</strong><br>Türk-İslam devletlerinde (Karahanlı, Gazneli ve Büyük Selçuklularda) törenlerde ve alaylarda <strong>hükümdarın önünden giderek yol açan, protokol ve merasim düzenini sağlayan görevliye \"Serheng\" (Çavuş)</strong> adı verilmiştir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Emir-i Mir (Emirü'l-Ümera):</strong> Eyaletlerdeki askeri komutanların / beylerin başıdır.<br>• <strong>B) Serheng (Çavuş):</strong> Tören ve seyahatlerde hükümdarın önünde yürüyerek <strong>yol açan ve protokol düzenini sağlayan</strong> saray görevlisidir.<br>• <strong>C) Silahtar:</strong> Hükümdarın silahlarını taşıyan ve silahhaneden sorumlu olan görevlidir.<br>• <strong>D) Şıhne:</strong> Türk-İslam devletlerinde taşrada (vilayetlerde) güvenliği sağlayan <strong>askeri vali</strong>dir.<br>• <strong>E) Candar:</strong> Hükümdarın ve sarayın yakın güvenliğini sağlayan <strong>saray muhafızı</strong>dır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Saray görevlileri anahtar kelimeleri:<br>• <strong>Serheng (Çavuş)</strong> $\\rightarrow$ Törenlerde yol açan<br>• <strong>Candar</strong> $\\rightarrow$ Saray muhafızı (Can koruyan)<br>• <strong>Çaşnigir</strong> $\\rightarrow$ Hükümdarın yemeğini tadan<br>• <strong>Camedar</strong> $\\rightarrow$ Hükümdarın elbiseleriyle ilgilenen<br>• <strong>Hacip</strong> $\\rightarrow$ Hükümdar ile halk/divan arasındaki protokol görevlisi (Başındaki: <em>Hacibü'l-Hüccab</em>)"
+  },
+  {
+    "id": "tarih15_q16",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 16,
+    "questionText": "1048 - 1131 yılları arasında yaşayan, Selçuklu sultanı Melikşah'ın isteği üzerine \"Celali Takvimi'ni\" hazırlayan kurula başkanlık yapan, batı dünyasında \"Rubaiyatın şairi\" olarak da bilinen bilim insanı kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cabir b. Hayyam"
+      },
+      {
+        "key": "B",
+        "text": "Ömer Hayyam"
+      },
+      {
+        "key": "C",
+        "text": "Harezmi"
+      },
+      {
+        "key": "D",
+        "text": "Razi"
+      },
+      {
+        "key": "E",
+        "text": "Ali Kuşçu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Ömer Hayyam)</strong><br><br>📚 <strong>Genel Tarih 2. Ders Notu Analizi (Büyük Selçuklu Dönemi Bilim İnsanları):</strong><br>Büyük Selçuklu Devleti'nin en parlak hükümdarı <strong>Sultan Celaleddin Melikşah</strong> döneminde İsfahan Rasathanesi'nde kurulan bilim heyetine başkanlık ederek 1079 yılında güneş yılı esaslı <strong>\"Celali Takvimi\"ni (Takvim-i Celâlî)</strong> hazırlayan; aynı zamanda cebir denklemleri ve felsefi <strong>Rubaileri (Rubaiyat)</strong> ile tanınan büyük bilgin <strong>Ömer Hayyam</strong>'dır.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Cabir bin Hayyan:</strong> Modern <strong>kimyanın (simya/kimya) kurucusu</strong> kabul edilen İslam bilginidir (Atomun parçalanabileceğini öngörmüştür; çeldirici olarak <em>Hayyam</em> yazılmıştır).<br>• <strong>B) Ömer Hayyam:</strong> Melikşah adına <strong>Celali Takvimi</strong>'ni hazırlayan, matematikçi, astronom ve <strong>Rubaiyat</strong> şairidir.<br>• <strong>C) Harezmi:</strong> Cebir ve algoritmanın kurucusudur (<em>Kitabü'l-Cebr ve'l-Mukabele</em>).<br>• <strong>D) Ebubekir Razi:</strong> Çiçek ve kızamık hastalıklarının farkını ortaya koyan tıp ve kimya bilginidir (<em>El-Hâvî</em>).<br>• <strong>E) Ali Kuşçu:</strong> Timur/Akkoyunlu elçisi olarak gelip Fatih Sultan Mehmet döneminde Sahn-ı Seman Medresesi müderrisliği yapan astronomdur (<em>Risaletü'l-Fethiye</em>).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>A şıkkındaki <strong>Cabir bin Hayyan (Kimya)</strong> ile B şıkkındaki <strong>Ömer Hayyam (Celali Takvimi &amp; Rubaiyat)</strong> isim benzerliğine dikkat edin!"
+  },
+  {
+    "id": "tarih15_q17",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 17,
+    "questionText": "Osmanlı Devleti'nde tıp alanında çalışmalar yapan, Türkiye'de deneysel farmakolojinin öncüsü sayılan, \"Mücerrebname\" ve \"Kitab-ı Cerrahiye-i Haniye\" adlı eserleriyle tanınan bilim insanı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Takiyüddin Mehmet"
+      },
+      {
+        "key": "B",
+        "text": "Sabuncuoğlu Şerafeddin"
+      },
+      {
+        "key": "C",
+        "text": "Ali Kuşçu"
+      },
+      {
+        "key": "D",
+        "text": "Mukbilzade Mümin"
+      },
+      {
+        "key": "E",
+        "text": "Altuncuzade"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Sabuncuoğlu Şerafeddin)</strong><br><br>📚 <strong>Genel Tarih 4. Ders Notu Analizi (Osmanlı'da Tıp ve Bilim İnsanları):</strong><br>Fatih Sultan Mehmet döneminin en büyük Osmanlı hekimi ve cerrahı olan <strong>Sabuncuoğlu Şerafeddin</strong> (1385–1468), Amasya Darüşşifası'nda 14 yıl başhekimlik yapmış; ilaçları önce hayvanlar ve kendi üzerinde deneyerek hazırladığı ilk Türkçe deneysel farmakoloji kitabı <strong>\"Mücerrebname\"</strong> ile ameliyat tekniklerini minyatürlerle resimlediği ilk resimli Türkçe cerrahi eseri <strong>\"Cerrahiyetü'l-Haniye\" (Kitab-ı Cerrahiye-i İlhaniye)</strong>'yi Fatih Sultan Mehmet'e sunmuştur.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Takiyüddin Mehmet:</strong> III. Murad döneminde <strong>İstanbul'da ilk Osmanlı Rasathanesi'ni (Gözlemevi)</strong> kuran astronomdur.<br>• <strong>B) Sabuncuoğlu Şerafeddin:</strong> Deneysel farmakolojinin öncüsü; <em>Mücerrebname</em> ve <em>Cerrahiyetü'l-Haniye</em> eserlerinin yazarıdır.<br>• <strong>C) Ali Kuşçu:</strong> Fatih döneminde Ayasofya ve Sahn-ı Seman medreselerinde görev yapan astronom ve matematikçidir.<br>• <strong>D) Mukbilzade Mümin:</strong> II. Murad dönemi hekimlerindendir (<em>Zahîre-i Murâdiye</em> ve <em>Miftâhu'n-Nûr</em>).<br>• <strong>E) Altuncuzade:</strong> Fatih dönemi hekimlerindendir; idrar yolları ve mesane hastalıkları tedavisinde sonda yöntemini kullanmıştır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>\"Mücerrebname\" + \"Cerrahiyetü'l-Haniye\" + \"Deneysel Farmakoloji / İlk Resimli Cerrahi\"</strong> = <strong>Sabuncuoğlu Şerafeddin</strong>."
+  },
+  {
+    "id": "tarih15_q18",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 18,
+    "questionText": "780-850 yılları arasında yaşayan; logaritmanın kurucusu olarak kabul edilen; matematik ve felsefe alanlarında çalışmalar yapan, \"Kitabü'l Cebir Ve'l - Mukabele\" adlı eseriyle tanınan bilim insanı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Zemahşeri"
+      },
+      {
+        "key": "B",
+        "text": "Harezmî"
+      },
+      {
+        "key": "C",
+        "text": "Farabi"
+      },
+      {
+        "key": "D",
+        "text": "Biruni"
+      },
+      {
+        "key": "E",
+        "text": "İbn-i Sina"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Harezmî)</strong><br><br>📚 <strong>Genel Tarih 2. Ders Notu Analizi (Türk-İslam Bilim İnsanları):</strong><br>Abbasi Halifesi Me'mun döneminde Bağdat'taki <em>Beytü'l-Hikme</em>'de görev yapan Türk bilgini <strong>el-Harezmî</strong> (780–850); matematikte <strong>\"0\" (sıfır)</strong> rakamını ve ondalık sistemi tanıtmış, <strong>algoritma / logaritma</strong> kavramlarına adını vermiş ve tarihteki ilk müstakil cebir kitabı olan <strong>\"Kitâbü'l-Muhtasar fî Hisâbi'l-Cebr ve'l-Mukâbele\"</strong> adlı eseriyle <strong>Cebir biliminin kurucusu</strong> kabul edilmiştir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Zemahşeri:</strong> Harezmşahlar döneminde yetişen dil, edebiyat ve tefsir alimidir (<em>El-Keşşâf</em> ve Türkçe-Arapça sözlük <em>Mukaddimetü'l-Edeb</em>).<br>• <strong>B) Harezmî:</strong> Cebir ve algoritmanın kurucusu, <strong>0 (sıfır)</strong> rakamını kullanan ve <em>Kitabü'l-Cebr ve'l-Mukabele</em> ile coğrafya eseri <em>Kitâbu Sûreti'l-Arz</em>'ı yazan bilgindir.<br>• <strong>C) Farabi:</strong> <em>Muallim-i Sani</em> unvanlı siyaset ve mantık filozofudur.<br>• <strong>D) Biruni:</strong> Gazneliler dönemi astronom, fizikçi ve coğrafyacısıdır.<br>• <strong>E) İbn-i Sina:</strong> Tıp ve felsefe alanında <em>El-Kanun fi't-Tıb</em> yazarıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>\"Sıfır (0) + Cebir + Algoritma + Kitabü'l-Cebr ve'l-Mukabele\"</strong> = <strong>Harezmî</strong>."
+  },
+  {
+    "id": "tarih15_q19",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 19,
+    "questionText": "\"Büyük soğukların öncesinde ilkbahara kadar olan altı aylık dönemde, koyun etinin 250 dirhemi 1 akçeden satılsın, yazın ilk iki ayında koyun etinin 300 dirhemi 1 akçeden; yazın son ayıyla sonbaharın ilk iki ayında 350 dirhemi 1 akçeden ve sonbaharın son iki ayında 300 dirhemi 1 akçeden satılsın.\"\nBir kanunnamede geçen bu açıklama aşağıdaki terimlerden hangisiyle doğrudan ilgilidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Narh"
+      },
+      {
+        "key": "B",
+        "text": "İltizam"
+      },
+      {
+        "key": "C",
+        "text": "Mukataa"
+      },
+      {
+        "key": "D",
+        "text": "Gümrük"
+      },
+      {
+        "key": "E",
+        "text": "Emanet"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Narh)</strong><br><br>📚 <strong>Genel Tarih 4. Ders Notu Analizi (Osmanlı Ekonomisi ve Fiyat Politikası):</strong><br>Osmanlı Devleti'nde tüketiciyi korumak, karaborsacılığı ve haksız kazancı önlemek amacıyla devletin (Kadı ve Muhtesip denetiminde) temel tüketim mallarına (ekmek, et, un vb.) mevsim ve arz-talep şartlarına göre <strong>azami/tavan satış fiyatı belirlemesi uygulamasına \"Narh Sistemi\" (Narh koymak)</strong> denir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Narh:</strong> Piyasada satılan mal ve hizmetler için devlet tarafından belirlenen <strong>resmî tavan/sabit fiyat</strong> uygulamasıdır.<br>• <strong>B) İltizam:</strong> Devlete ait mukataa topraklarının vergi gelirlerinin açık artırma (ihale) yoluyla peşin para karşılığında <em>Mültezim</em> adı verilen kişilere devredilmesidir.<br>• <strong>C) Mukataa:</strong> Geliri doğrudan merkezi hazineye ayrılan mirî arazi veya vergi birimidir.<br>• <strong>D) Gümrük (Âmedî / Reftiye / Bac):</strong> Sınırlardan ve limanlardan geçen ticari mallardan alınan vergidir.<br>• <strong>E) Emanet:</strong> Gelir getiren birimlerin <em>Emin</em> adı verilen maaşlı devlet memurları eliyle yönetilmesidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Osmanlı'da 3 temel ekonomi ilkesi:<br>1. <strong>İaşecilik (Provizyonizm):</strong> Piyasada malın bol, kaliteli ve ucuz bulunması (<strong>Narh sistemi</strong> bunun aracıdır).<br>2. <strong>Gelenekçilik (Tradisyonalizm):</strong> Mevcut üretim-tüketim dengesini koruma.<br>3. <strong>Fiskalizm:</strong> Hazine gelirlerini en üst düzeyde tutma, giderleri azaltma."
+  },
+  {
+    "id": "tarih15_q20",
+    "testId": "tarih15",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 20,
+    "questionText": "Aşağıdakilerden hangisi Osmanlı Devleti'nde veziriazamın yetki ve sorumlulukları arasında yer almaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ordunun başında sefere çıkmak"
+      },
+      {
+        "key": "B",
+        "text": "Beytülmal'ı denetlemek"
+      },
+      {
+        "key": "C",
+        "text": "Divan'da dava dinlemek"
+      },
+      {
+        "key": "D",
+        "text": "Atamaları onaylamak"
+      },
+      {
+        "key": "E",
+        "text": "Hatt-ı Hümayun çıkarmak"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (Hatt-ı Hümayun çıkarmak)</strong><br><br>📚 <strong>Genel Tarih 4. Ders Notu Analizi (Osmanlı Merkez Teşkilatı ve Divan-ı Hümayun):</strong><br><strong>Hatt-ı Hümayun</strong>, bizzat <strong>Padişahın</strong> el yazısıyla yazdığı veya onayladığı ferman ve emirlerdir; Veziriazamın (Sadrazamın) çıkardığı yazılı emirlere ise <strong>\"Buyruldu\"</strong> adı verilir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Ordunun başında sefere çıkmak:</strong> Padişah sefere katılmadığında Veziriazam <strong>\"Serdar-ı Ekrem\"</strong> unvanıyla ordunun başında sefere çıkar.<br>• <strong>B) Beytülmal'ı (Devlet hazinesini) denetlemek:</strong> Padişahın mutlak vekili olarak mühr-ü hümayunu taşır ve hazine dahil tüm devlet işlerini denetler.<br>• <strong>C) Divan'da dava dinlemek:</strong> Fatih döneminden itibaren Divan-ı Hümayun'a başkanlık eder ve kendi konağında kurulan <em>Cuma / Çarşamba Divanları</em>nda davaları dinler.<br>• <strong>D) Atamaları onaylamak:</strong> Üst düzey devlet görevlilerinin tayin ve terfilerini onaylama yetkisine sahiptir.<br>• <strong>E) Hatt-ı Hümayun çıkarmak (YANLIŞ):</strong> <strong>Hatt-ı Hümayun</strong> çıkarma yetkisi yalnızca <strong>Padişaha</strong> aittir (Veziriazamın emrine <strong>Buyruldu</strong> denir).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>• <strong>Padişahın yazılı emri:</strong> Ferman / Hatt-ı Hümayun / İrade-i Seniyye<br>• <strong>Veziriazamın (Sadrazamın) yazılı emri:</strong> <strong>Buyruldu</strong><br>• <strong>Şeyhülislamın dini görüşü:</strong> Fetva (İفتا)"
   }
 ];

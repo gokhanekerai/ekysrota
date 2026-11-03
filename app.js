@@ -655,6 +655,14 @@ class EKYSApp {
             filterKey: 'tarih14_5',
             badge: '20 Soru • Gökhan Hoca'
           },
+          {
+            id: 'tarih15_direct',
+            name: '🚩 Genel Tarih Test 15 (Gökhan Hoca: Genel Tarih 2. Deneme)',
+            icon: '🚩',
+            desc: 'İslamiyet Öncesi Türk Tarihi, Türk-İslam Bilim İnsanları ve Osmanlı Kültür & Medeniyeti Karma Deneme (20 Soru).',
+            filterKey: 'tarih15',
+            badge: '20 Soru • 2. Deneme'
+          },
           {            id: 'ekys_2026_tarih_card',
             name: '📜 2026 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
@@ -851,6 +859,14 @@ class EKYSApp {
             icon: '🏛️',
             desc: 'Başkent Teşkilatı, 1871 Vilayet Nizamnamesi, Salyaneli/İmtiyazlı Eyaletler, Altı Bölük Halkı ve Hukuk.',
             filterKey: 'tarih13',
+            badge: '20 Soru'
+          },
+          {
+            id: 'tarih15',
+            name: 'Genel Tarih Test 15: Genel Tarih 2. Deneme (Gökhan Hoca Karma Deneme)',
+            icon: '🚩',
+            desc: 'İslamiyet Öncesi Türk Tarihi, Türk-İslam Bilim İnsanları ve Osmanlı Kültür & Medeniyeti Karma Deneme (20 Soru).',
+            filterKey: 'tarih15',
             badge: '20 Soru'
           },
           {
@@ -3236,6 +3252,7 @@ class EKYSApp {
       if (filterKey === 'tarih14_4') return (q.testId === 'tarih14_4');
       if (filterKey === 'tarih14_5') return (q.testId === 'tarih14_5');
       if (filterKey === 'tarih14') return (q.testId && q.testId.startsWith('tarih14_'));
+      if (filterKey === 'tarih15') return (q.testId === 'tarih15');
       if (filterKey === 'tarih_video4') return (q.testId === 'tarih4_2' || q.testId === 'tarih4_3' || q.testId === 'tarih_video4');
       if (filterKey === 'tarih_tarama') return (q.testId && (q.testId.startsWith('tarih') || q.testId.startsWith('tarih_video')));
 
