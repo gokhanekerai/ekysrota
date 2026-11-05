@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>1 Sayılı CBK - MEB Teşkilat Yapısı ve Hizmet Birimleri | Renkli Başucu Rehberi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: rgba(30, 41, 59, 0.7);
+      --border: rgba(148, 163, 184, 0.15);
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --blue: #38bdf8;
+      --blue-bg: rgba(56, 189, 248, 0.1);
+      --orange: #fb923c;
+      --orange-bg: rgba(251, 146, 60, 0.1);
+      --green: #34d399;
+      --green-bg: rgba(52, 211, 153, 0.1);
+      --purple: #c084fc;
+      --purple-bg: rgba(192, 132, 252, 0.1);
+      --red: #f87171;
+      --red-bg: rgba(248, 113, 113, 0.12);
+      --yellow: #fbbf24;
+      --yellow-bg: rgba(251, 191, 36, 0.12);
+      --shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: var(--bg);
+      background-image: 
+        radial-gradient(at 0% 0%, rgba(56, 189, 248, 0.15) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, rgba(192, 132, 252, 0.12) 0px, transparent 50%);
+      background-attachment: fixed;
+      color: var(--text);
+      line-height: 1.6;
+      padding: 24px 16px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+      padding: 24px;
+      background: linear-gradient(135deg, rgba(30, 41, 59, 0.9), rgba(15, 23, 42, 0.95));
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+
+    header::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; height: 4px;
+      background: linear-gradient(90deg, var(--blue), var(--purple), var(--orange), var(--green), var(--red));
+    }
+
+    .badge-header {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(56, 189, 248, 0.15);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      color: var(--blue);
+      font-size: 0.8rem;
+      font-weight: 700;
+      padding: 4px 12px;
+      border-radius: 999px;
+      margin-bottom: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    h1 {
+      font-size: clamp(1.4rem, 3.5vw, 2.2rem);
+      font-weight: 800;
+      line-height: 1.25;
+      margin-bottom: 8px;
+      background: linear-gradient(135deg, #ffffff, #cbd5e1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .subtitle {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      max-width: 800px;
+      margin: 0 auto 16px;
+    }
+
+    /* FILTRE BUTONLARI */
+    .filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+
+    .filter-btn {
+      background: rgba(30, 41, 59, 0.8);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      font-weight: 700;
+      padding: 8px 14px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .filter-btn:hover, .filter-btn.active {
+      color: #fff;
+      border-color: currentColor;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    }
+    .filter-btn[data-group="all"].active { color: #fff; background: rgba(255,255,255,0.15); }
+    .filter-btn[data-group="blue"].active { color: var(--blue); background: var(--blue-bg); }
+    .filter-btn[data-group="orange"].active { color: var(--orange); background: var(--orange-bg); }
+    .filter-btn[data-group="green"].active { color: var(--green); background: var(--green-bg); }
+    .filter-btn[data-group="purple"].active { color: var(--purple); background: var(--purple-bg); }
+    .filter-btn[data-group="red"].active { color: var(--red); background: var(--red-bg); }
+
+    /* GRID & CARDS */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+      gap: 16px;
+      margin-bottom: 30px;
+    }
+
+    .card {
+      background: var(--card-bg);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 18px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 30px -10px rgba(0,0,0,0.4);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 12px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .card-title {
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .card-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 6px;
+      background: rgba(255,255,255,0.08);
+      color: var(--text-muted);
+    }
+
+    /* RENK GRUPLARI */
+    .card.blue { border-left: 4px solid var(--blue); }
+    .card.orange { border-left: 4px solid var(--orange); }
+    .card.green { border-left: 4px solid var(--green); }
+    .card.purple { border-left: 4px solid var(--purple); }
+    .card.red { border-left: 4px solid var(--red); }
+
+    .keys-box {
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px dashed rgba(255, 255, 255, 0.12);
+      border-radius: 10px;
+      padding: 10px 12px;
+      margin-bottom: 12px;
+    }
+
+    .keys-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #fde047;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .key-badge {
+      display: inline-block;
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 2px 8px;
+      margin: 2px 3px 2px 0;
+      border-radius: 6px;
+      background: rgba(251, 191, 36, 0.15);
+      color: #fef08a;
+      border: 1px solid rgba(251, 191, 36, 0.3);
+    }
+
+    .desc-text {
+      font-size: 0.85rem;
+      color: #cbd5e1;
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+
+    .trap-box {
+      margin-top: auto;
+      padding: 8px 10px;
+      border-radius: 8px;
+      background: rgba(239, 68, 68, 0.1);
+      border: 1px solid rgba(239, 68, 68, 0.25);
+      font-size: 0.78rem;
+      color: #fca5a5;
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      line-height: 1.45;
+    }
+
+    .trap-box strong {
+      color: #f87171;
+    }
+
+    /* BÖLÜM BAŞLIKLARI */
+    .section-title {
+      font-size: 1.25rem;
+      font-weight: 800;
+      margin: 36px 0 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid rgba(255,255,255,0.08);
+    }
+
+    /* KARŞILAŞTIRMA VE TABLOLAR */
+    .table-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 24px;
+      overflow-x: auto;
+      box-shadow: var(--shadow);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+      text-align: left;
+    }
+
+    th {
+      background: rgba(15, 23, 42, 0.7);
+      color: #e2e8f0;
+      padding: 12px 14px;
+      font-weight: 700;
+      border-bottom: 2px solid rgba(255,255,255,0.1);
+    }
+
+    td {
+      padding: 12px 14px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      color: #cbd5e1;
+      vertical-align: top;
+    }
+
+    tr:hover td {
+      background: rgba(255,255,255,0.02);
+    }
+
+    /* FLAŞ KART / İPUCU BANTLARI */
+    .flash-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 12px;
+      margin-bottom: 30px;
+    }
+
+    .flash-item {
+      background: linear-gradient(135deg, rgba(30, 41, 59, 0.85), rgba(15, 23, 42, 0.9));
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      padding: 12px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .flash-trigger {
+      font-size: 0.84rem;
+      font-weight: 700;
+      color: #fde047;
+    }
+
+    .flash-arrow {
+      color: var(--text-muted);
+      font-size: 0.8rem;
+    }
+
+    .flash-target {
+      font-size: 0.84rem;
+      font-weight: 800;
+      color: var(--blue);
+      text-align: right;
+    }
+
+    .print-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: linear-gradient(135deg, var(--blue), #0284c7);
+      color: #fff;
+      font-weight: 800;
+      font-size: 0.85rem;
+      padding: 10px 18px;
+      border-radius: 999px;
+      border: none;
+      box-shadow: 0 8px 20px rgba(2, 132, 199, 0.4);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      z-index: 100;
+    }
+
+    @media print {
+      body { background: #fff; color: #000; padding: 0; }
+      header { background: none; border: 1px solid #ccc; box-shadow: none; color: #000; }
+      h1 { -webkit-text-fill-color: #000; color: #000; }
+      .card { background: #fff; border: 1px solid #ccc; box-shadow: none; break-inside: avoid; }
+      .keys-box { background: #f8fafc; border: 1px dashed #cbd5e1; }
+      .key-badge { background: #fef3c7; color: #92400e; border: 1px solid #fde68a; }
+      .trap-box { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+      .print-btn, .filter-bar { display: none; }
+      .section-title { color: #000; border-color: #cbd5e1; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- ÜST BAŞLIK -->
+    <header>
+      <div class="badge-header">🎯 MEB EKYS 2027 MEVZUAT BAŞUCU KARTI</div>
+      <h1>1 Sayılı Cumhurbaşkanlığı Kararnamesi</h1>
+      <p class="subtitle">Millî Eğitim Bakanlığı Teşkilat Yapısı ve 22 Hizmet Birimi İçin "Soruyu Okumadan Cevaplatan" Renkli Turnusol Şifreleri (Gökhan Hoca Anlatımı)</p>
+      
+      <!-- ÖZET İSTATİSTİK ŞERİDİ -->
+      <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 14px;">
+        <span style="background: rgba(56, 189, 248, 0.12); color: var(--blue); border: 1px solid rgba(56, 189, 248, 0.25); padding: 5px 12px; border-radius: 8px; font-size: 0.8rem; font-weight: 700;">
+          🏛️ 3 Teşkilat: Merkez + Taşra + Yurt Dışı
+        </span>
+        <span style="background: rgba(192, 132, 252, 0.12); color: var(--purple); border: 1px solid rgba(192, 132, 252, 0.25); padding: 5px 12px; border-radius: 8px; font-size: 0.8rem; font-weight: 700;">
+          📊 22 Birim: 16 GM + 4 Bşk + 1 Müş + 1 ÖK
+        </span>
+        <span style="background: rgba(248, 113, 113, 0.12); color: var(--red); border: 1px solid rgba(248, 113, 113, 0.25); padding: 5px 12px; border-radius: 8px; font-size: 0.8rem; font-weight: 700;">
+          🎯 Sınavda Her Yıl: 1 - 2 Garanti Soru
+        </span>
+      </div>
+    </header>
+
+    <!-- FİLTRELEME BUTONLARI -->
+    <div class="filter-bar">
+      <button class="filter-btn active" data-group="all" onclick="filterCards('all')">🌈 Tümü (22 Birim)</button>
+      <button class="filter-btn" data-group="blue" onclick="filterCards('blue')">🟦 Örgün Eğitim Birimleri (5)</button>
+      <button class="filter-btn" data-group="orange" onclick="filterCards('orange')">🟧 Özel & Yaygın Eğitim (2)</button>
+      <button class="filter-btn" data-group="green" onclick="filterCards('green')">🟩 Mali, İdari & Destek (5)</button>
+      <button class="filter-btn" data-group="purple" onclick="filterCards('purple')">🟪 Yönetim, Felsefe & Strateji (6)</button>
+      <button class="filter-btn" data-group="red" onclick="filterCards('red')">🟥 Güvenlik & Kriz Birimi (1)</button>
+    </div>
+
+    <!-- 22 HİZMET BİRİMİ KARTLARI -->
+    <div class="grid" id="unit-grid">
+
+      <!-- 1. TEMEL EĞİTİM -->
+      <div class="card blue" data-group="blue">
+        <div class="card-header">
+          <div class="card-title"><span>🏫</span> Temel Eğitim GM</div>
+          <span class="card-num">GM-01</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Okul öncesi</span>
+          <span class="key-badge">İlköğretim</span>
+          <span class="key-badge">İlkokul</span>
+          <span class="key-badge">Ortaokul</span>
+          <span class="key-badge">İlköğretim Barınma</span>
+        </div>
+        <p class="desc-text">Okul öncesi ve ilköğretim kurumlarının eğitim-öğretim çalışmalarını yürütür, politika uygular, ders kitaplarını hazırlatıp Talim Terbiye Kuruluna sunar.</p>
+        <div class="trap-box">
+          <span>⚠️</span>
+          <div><strong>ÖSYM TUZAĞI:</strong> Barınma söz konusu olduğunda SADECE "ilköğretim öğrencilerinin barınması" buradadır. Okul öncesinde yatılı/barınma hizmeti YOKTUR!</div>
+        </div>
+      </div>
+
+      <!-- 2. ORTAÖĞRETİM -->
+      <div class="card blue" data-group="blue">
+        <div class="card-header">
+          <div class="card-title"><span>🎓</span> Ortaöğretim GM</div>
+          <span class="card-num">GM-02</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Ortaöğretim</span>
+          <span class="key-badge">Genel Liseler</span>
+          <span class="key-badge">Anadolu Liseleri</span>
+          <span class="key-badge">Ortaöğretim Barınma</span>
+        </div>
+        <p class="desc-text">Ortaöğretim kademesindeki eğitim-öğretim çalışmalarını yürütür, ders araç-gereç ve kitaplarını hazırlatıp Talim Terbiye Kuruluna sunar, barınma hizmetlerini koordine eder.</p>
+        <div class="trap-box">
+          <span>⚠️</span>
+          <div><strong>DİKKAT:</strong> Kitapları doğrudan bakana değil, mutlaka Talim ve Terbiye Kuruluna sunar. Ortaokul bu birime dahil DEĞİLDİR (ortaokul temel eğitimdedir).</div>
+        </div>
+      </div>
+
+      <!-- 3. MESLEKİ VE TEKNİK -->
+      <div class="card blue" data-group="blue">
+        <div class="card-header">
+          <div class="card-title"><span>⚙️</span> Mesleki ve Teknik Eğitim GM</div>
+          <span class="card-num">GM-03</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">3308 Sayılı Kanun</span>
+          <span class="key-badge">Eğitim - İstihdam</span>
+          <span class="key-badge">Aday Çırak / Çırak</span>
+          <span class="key-badge">Kalfa / Usta</span>
+          <span class="key-badge">Sektörel İşbirliği</span>
+        </div>
+        <p class="desc-text">Mesleki ve teknik eğitim kurumlarının (MTAL, MESEM, ÇPL) eğitim ve yönetim işlerini yürütür. Mezunların istihdam ilişkilerini ve stajlarını denetler.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>ŞİFRE:</strong> Cümlede 3308 sayılı kanunu veya çırak-kalfa-usta gördüğün an başka hiçbir şıkka bakmadan Mesleki Teknik Eğitim'i işaretle!</div>
+        </div>
+      </div>
+
+      <!-- 4. DİN ÖĞRETİMİ -->
+      <div class="card blue" data-group="blue">
+        <div class="card-header">
+          <div class="card-title"><span>🕌</span> Din Öğretimi GM</div>
+          <span class="card-num">GM-04</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Tüm Kademelerdeki Din Kültürü</span>
+          <span class="key-badge">İHL ve İHO</span>
+          <span class="key-badge">Hafızlık Eğitimi</span>
+          <span class="key-badge">Üniversiteyle Din İşbirliği</span>
+          <span class="key-badge">Dış Ülkelerle Din Eğitimi</span>
+        </div>
+        <p class="desc-text">Sadece imam hatiplerle sınırlı değildir! İlkokuldan liseye, açık liseden çıraklığa kadar TÜM okullardaki Din Kültürü ve seçmeli din derslerinin içeriğini hazırlar.</p>
+        <div class="trap-box">
+          <span>⚠️</span>
+          <div><strong>KRİTİK AYRIM:</strong> Dış ülke ve topluluklarla eğitim işbirliğinde konu "DİN EĞİTİMİ" ise Din Öğretimi GM; genel işbirliği ise Avrupa Birliği ve Dış İlişkiler GM bakar!</div>
+        </div>
+      </div>
+
+      <!-- 5. ÖZEL EĞİTİM VE REHBERLİK -->
+      <div class="card blue" data-group="blue">
+        <div class="card-header">
+          <div class="card-title"><span>🧠</span> Özel Eğitim ve Rehberlik GM</div>
+          <span class="card-num">GM-05</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">ÖĞRENCİ ÖZEL!</span>
+          <span class="key-badge">RAM (Rehberlik Araştırma)</span>
+          <span class="key-badge">BİLSEM</span>
+          <span class="key-badge">İş Okulu / İş Eğitim Mrk.</span>
+          <span class="key-badge">Özel Eğitim Sınıfı</span>
+          <span class="key-badge">İlgili Bakanlıklarla İşbirliği</span>
+        </div>
+        <p class="desc-text">Özel eğitime muhtaç ve özel yetenekli öğrencilerin eğitimi, psikolojik danışma ve rehberlik hizmetlerini yürütür. İlgili bakanlıklarla protokol yapar.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>ALTIN KURAL:</strong> Özel olan "öğrenci/çocuk" ise Özel Eğitim; özel olan "kurum/şirket/vakıf" ise Özel Öğretim Kurumları GM!</div>
+        </div>
+      </div>
+
+      <!-- 6. ÖZEL ÖĞRETİM KURUMLARI -->
+      <div class="card orange" data-group="orange">
+        <div class="card-header">
+          <div class="card-title"><span>🏢</span> Özel Öğretim Kurumları GM</div>
+          <span class="card-num">GM-06</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">KURUM ÖZEL!</span>
+          <span class="key-badge">5580 Sayılı Kanun</span>
+          <span class="key-badge">Dernek / Vakıf Okulları</span>
+          <span class="key-badge">Gerçek / Tüzel Kişiler</span>
+          <span class="key-badge">Özel Yurtlar / Pansiyon</span>
+          <span class="key-badge">Sürücü Kursları / Etüt</span>
+        </div>
+        <p class="desc-text">Kişi ve tüzel kişilerin açtığı özel anaokulu, kolej, sürücü kursu, sosyal etkinlik merkezi, özel öğrenci yurtları ve pansiyonlarının açılması, nakli, devri ve kapatılmasını yürütür.</p>
+        <div class="trap-box">
+          <span>⚠️</span>
+          <div><strong>TUZAK:</strong> Özel yurtları ve pansiyonları Destek Hizmetleri açmaz! Dernek/vakıf/özel şahıs yurduysa Özel Öğretim Kurumları Genel Müdürlüğü bakar.</div>
+        </div>
+      </div>
+
+      <!-- 7. HAYAT BOYU ÖĞRENME -->
+      <div class="card orange" data-group="orange">
+        <div class="card-header">
+          <div class="card-title"><span>🌱</span> Hayat Boyu Öğrenme GM</div>
+          <span class="card-num">GM-07</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Hayat boyu</span>
+          <span class="key-badge">Yaygın eğitim</span>
+          <span class="key-badge">Zorunlu eğitim dışı</span>
+          <span class="key-badge">Halk Eğitimi Merkezleri</span>
+          <span class="key-badge">Açık Öğretim (Orta/Lise)</span>
+        </div>
+        <p class="desc-text">Örgün eğitim sistemine girmemiş veya erken ayrılmış vatandaşların yaygın eğitim yoluyla bilgi ve beceri edinmelerini sağlar, açık öğretim okullarını yönetir.</p>
+        <div class="trap-box">
+          <span>⚠️</span>
+          <div><strong>ÖSYM TUZAĞI:</strong> Yaygın eğitimde bile olsa içerik "BİLGİ VE İLETİŞİM TEKNOLOJİLERİNE" dayalı ise (online dersler, dijital içerik) bunu Hayat Boyu değil, YEĞİTEK hazırlar!</div>
+        </div>
+      </div>
+
+      <!-- 8. YEĞİTEK -->
+      <div class="card green" data-group="green">
+        <div class="card-header">
+          <div class="card-title"><span>💻</span> Yenilik ve Eğitim Tek. GM (YEĞİTEK)</div>
+          <span class="card-num">GM-08</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">EĞİTİM + TEKNOLOJİ</span>
+          <span class="key-badge">EĞİTİM + BİLİŞİM</span>
+          <span class="key-badge">Yapay Zekâ Projeleri</span>
+          <span class="key-badge">Eğitimde İzleme & Analiz</span>
+          <span class="key-badge">Girişimcilik & Yenilikçilik</span>
+        </div>
+        <p class="desc-text">Eğitim içeriklerini teknolojiyle birleştirir (EBA içerikleri, dijital ders materyalleri). Yapay zeka ve eğitim teknolojileri projelerini yürütür.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>YEĞİTEK vs BİLGİ İŞLEM:</strong> Cümlede eğitim + teknoloji bir aradaysa YEĞİTEK; bakanlık bilişim altyapısı, MEBBİS, veri tabanı ve donanım varsa BİLGİ İŞLEM!</div>
+        </div>
+      </div>
+
+      <!-- 9. BİLGİ İŞLEM -->
+      <div class="card green" data-group="green">
+        <div class="card-header">
+          <div class="card-title"><span>🖥️</span> Bilgi İşlem Genel Müdürlüğü</div>
+          <span class="card-num">GM-09</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">BAKANLIK + BİLİŞİM</span>
+          <span class="key-badge">BAKANLIK + VERİ TABANI</span>
+          <span class="key-badge">Bakanlık İnternet Siteleri</span>
+          <span class="key-badge">e-Okul / MEBBİS Altyapısı</span>
+          <span class="key-badge">e-İmza / e-Belge (EBYS)</span>
+        </div>
+        <p class="desc-text">Bakanlığın merkez ve taşra bilişim altyapısını kurar, bakımını yapar, veri tabanı güvenliğini sağlar, bakanlık internet sitelerini ve otomasyon sistemlerini yönetir.</p>
+        <div class="trap-box">
+          <span>⚠️</span>
+          <div><strong>DİKKAT:</strong> "Bilgi İşlem Daire Başkanlığı" şıklarda çeldiricidir! Birim artık GENEL MÜDÜRLÜK statüsündedir.</div>
+        </div>
+      </div>
+
+      <!-- 10. ÖLÇME VE DEĞERLENDİRME -->
+      <div class="card green" data-group="green">
+        <div class="card-header">
+          <div class="card-title"><span>📝</span> Ölçme, Değerlendirme & Sınav GM</div>
+          <span class="card-num">GM-10</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">SINAV, SINAV, SINAV</span>
+          <span class="key-badge">Soru Hazırlama & Saklama</span>
+          <span class="key-badge">Ölçme ve Değerlendirme</span>
+          <span class="key-badge">Sınav Koordinatörlüğü</span>
+          <span class="key-badge">Uluslararası İzleme (PISA)</span>
+        </div>
+        <p class="desc-text">Merkezi sınavları (LGS, bursluluk, protokol sınavları) ve ortak sınavları yapar, soruları gizlilik içinde hazırlar ve saklar, izleme araştırmaları yürütür.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>ŞİFRE:</strong> Cümlede sınav, soru bankası ve ölçme-değerlendirme varsa tereddütsüz bu genel müdürlüktür.</div>
+        </div>
+      </div>
+
+      <!-- 11. YÜKSEKÖĞRETİM VE YURT DIŞI -->
+      <div class="card green" data-group="green">
+        <div class="card-header">
+          <div class="card-title"><span>🌍</span> Yükseköğretim ve Yurt Dışı Eğt. GM</div>
+          <span class="card-num">GM-11</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Yükseköğretim</span>
+          <span class="key-badge">Yurt dışı eğitim</span>
+          <span class="key-badge">"ECNEBİ MEMLEKETLER"</span>
+          <span class="key-badge">1416 Sayılı Kanun Talebeleri</span>
+          <span class="key-badge">Yükseköğretime Giriş Usulleri</span>
+        </div>
+        <p class="desc-text">Üniversiteye giriş sistemi usullerinde YÖK ile işbirliği yapar, ecnebi memleketlere yükseköğrenim için gönderilen burslu öğrencilerin (YLSY) işlemlerini yürütür.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>MEMLEKET vs HÜKÜMET:</strong> Cümlede "memleket" geçiyorsa Yükseköğretim ve Yurt Dışı; "yabancı hükümet / uluslararası" geçiyorsa Avrupa Birliği ve Dış İlişkiler GM!</div>
+        </div>
+      </div>
+
+      <!-- 12. AVRUPA BİRLİĞİ VE DIŞ İLİŞKİLER -->
+      <div class="card green" data-group="green">
+        <div class="card-header">
+          <div class="card-title"><span>🤝</span> Avrupa Birliği ve Dış İlişkiler GM</div>
+          <span class="card-num">GM-12</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">ULUSLARARASI</span>
+          <span class="key-badge">Avrupa Birliği</span>
+          <span class="key-badge">Yabancı Hükümet</span>
+          <span class="key-badge">Ülke ve Topluluklar (Din dışı)</span>
+          <span class="key-badge">PROTOKOL ve Projeler</span>
+        </div>
+        <p class="desc-text">Uluslararası kuruluşlar ve AB ile eğitim projeleri yürütür, yabancı hükümetlerden sağlanan bursları koordine eder. Bakanlığın diğer kurumlarla yaptığı PROTOKOLLERİ yönetir.</p>
+        <div class="trap-box">
+          <span>⚠️</span>
+          <div><strong>YENİ GÖREV:</strong> Bakanlığın diğer kurum ve kuruluşlarla imzaladığı eğitim "PROTOKOLLERİ" son değişiklikle bu genel müdürlüğün görev alanına verilmiştir!</div>
+        </div>
+      </div>
+
+      <!-- 13. PERSONEL -->
+      <div class="card purple" data-group="purple">
+        <div class="card-header">
+          <div class="card-title"><span>👥</span> Personel Genel Müdürlüğü</div>
+          <span class="card-num">GM-13</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Personel politikası</span>
+          <span class="key-badge">Atama / Nakil / Terfi</span>
+          <span class="key-badge">Emeklilik işlemleri</span>
+          <span class="key-badge">Kadro planlaması</span>
+          <span class="key-badge">Millî Eğitim Akademisi</span>
+        </div>
+        <p class="desc-text">Bakanlığın tüm öğretmen ve idari personelinin atama, yer değiştirme, özlük, terfi ve emeklilik işlemlerini planlar ve yürütür.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>Öğretmen Yetiştirme GM Kaldırıldı:</strong> Öğretmen Yetiştirme GM kalktığı için personelle ilgili tüm işlemler Personel GM çatısı altında toplanmıştır.</div>
+        </div>
+      </div>
+
+      <!-- 14. HUKUK HİZMETLERİ -->
+      <div class="card purple" data-group="purple">
+        <div class="card-header">
+          <div class="card-title"><span>⚖️</span> Hukuk Hizmetleri Genel Müdürlüğü</div>
+          <span class="card-num">GM-14</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Hukuk birimleri</span>
+          <span class="key-badge">Adli ve İdari Davalar</span>
+          <span class="key-badge">İcra takipleri</span>
+          <span class="key-badge">Hukuki uyuşmazlıklar</span>
+          <span class="key-badge">Avukatlık işlemleri</span>
+        </div>
+        <p class="desc-text">Bakanlığın taraf olduğu tüm mahkeme davalarını, icra takiplerini, adli ve idari yargı süreçlerini takip eder; hukuki görüş bildirir.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>İPUCU:</strong> Öğretmenin açtığı ek ders veya idari iptal davalarında bakanlığı/müdürlüğü temsil eden hukuk birimidir.</div>
+        </div>
+      </div>
+
+      <!-- 15. DESTEK HİZMETLERİ -->
+      <div class="card green" data-group="green">
+        <div class="card-header">
+          <div class="card-title"><span>📦</span> Destek Hizmetleri Genel Müdürlüğü</div>
+          <span class="card-num">GM-15</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">5018 Sayılı Kanun Alımları</span>
+          <span class="key-badge">Taşınır / Taşınmaz (TKYS)</span>
+          <span class="key-badge">Genel Evrak ve Arşiv</span>
+          <span class="key-badge">Kitap BASIMI ve DAĞITIMI</span>
+          <span class="key-badge">DÖNER SERMAYE ($)</span>
+          <span class="key-badge">ÖĞRETMENEVLERİ ($) / ASO</span>
+        </div>
+        <p class="desc-text">Bakanlığın idari lojistiğini ve para kazanan işletmelerini yönetir. İhaleler, temizlik, güvenlik, taşımalı yemek, kitap basım/dağıtım ve genel evrak arşivi buradadır.</p>
+        <div class="trap-box">
+          <span>⚠️</span>
+          <div><strong>KRİTİK AYRIM:</strong> Ders kitaplarını "üretmek/içerik hazırlamak" kademe müdürlüklerinin; "onaylamak" Talim Terbiye'nin; "BASMAK ve DAĞITMAK" ise Destek Hizmetleri'nin işidir!</div>
+        </div>
+      </div>
+
+      <!-- 16. İNŞAAT VE EMLAK -->
+      <div class="card green" data-group="green">
+        <div class="card-header">
+          <div class="card-title"><span>🏗️</span> İnşaat ve Emlak Genel Müdürlüğü</div>
+          <span class="card-num">GM-16</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">BÜYÜK YAPIM / İMAR</span>
+          <span class="key-badge">Arsa / Arazi / Bina</span>
+          <span class="key-badge">KAMULAŞTIRMA İŞLEMLERİ</span>
+          <span class="key-badge">Okul / Yerleşke Yapımı</span>
+          <span class="key-badge">Taşınmaz Ayni Hak Devri</span>
+        </div>
+        <p class="desc-text">Okul arsalarını temin eder, kamulaştırma yapar, sıfırdan okul binaları ve eğitim kampüsleri inşa ettirir, büyük onarım ve güçlendirme projelerini yürütür.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>DESTEK vs İNŞAAT:</strong> Ufak rutin bakım-onarım ve demirbaş alımı Destek Hizmetleri; arsa kamulaştırma, sıfırdan bina yapımı ve ayni hak devri İnşaat Emlak!</div>
+        </div>
+      </div>
+
+      <!-- 17. TALİM VE TERBİYE KURULU -->
+      <div class="card purple" data-group="purple">
+        <div class="card-header">
+          <div class="card-title"><span>📜</span> Talim ve Terbiye Kurulu Başkanlığı</div>
+          <span class="card-num">BŞK-01</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">BİLİMSEL DANIŞMA ORGANI</span>
+          <span class="key-badge">"BAKANA SUNMAK" (ŞİFRE!)</span>
+          <span class="key-badge">Kalite, Eşitlik, Etkililik</span>
+          <span class="key-badge">Millî ve Toplumsal Değerler</span>
+          <span class="key-badge">Cumhurbaşkanı Yönetmeliği</span>
+        </div>
+        <p class="desc-text">MEB'in eğitim felsefesi beynidir. Öğretim programlarını, haftalık ders çizelgelerini ve kitapları inceler, onaylar ve BAKANA SUNAR.</p>
+        <div class="trap-box">
+          <span>👑</span>
+          <div><strong>SORUYU OKUMADAN ÇÖZDÜREN ŞİFRE:</strong> Görev cümlesinin sonunda "BAKANA SUNMAK" ifadesini gördüğün an %100 Talim ve Terbiye Kurulu Başkanlığıdır!</div>
+        </div>
+      </div>
+
+      <!-- 18. TEFTİŞ KURULU -->
+      <div class="card purple" data-group="purple">
+        <div class="card-header">
+          <div class="card-title"><span>🔍</span> Teftiş Kurulu Başkanlığı</div>
+          <span class="card-num">BŞK-02</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">REHBERLİK, DENETİM, KONTROL</span>
+          <span class="key-badge">Bakan Adına İnceleme/Soruşturma</span>
+          <span class="key-badge">Müfettiş / Müfettiş Yrd.</span>
+          <span class="key-badge">Çalışma Merkezleri & Başmüfettiş</span>
+          <span class="key-badge">Çalışma Esasları: Yönetmelik</span>
+        </div>
+        <p class="desc-text">Bakan adına tüm birim ve kurumları denetler, inceleme-soruşturma yapar, eğitici rehberlik faaliyetlerinde bulunur.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>ŞİFRE:</strong> Bir cümlede "rehberlik etmek, denetlemek, kontrol etmek" geçiyorsa cevap Teftiş Kurulu Başkanlığıdır.</div>
+        </div>
+      </div>
+
+      <!-- 19. STRATEJİ GELİŞTİRME -->
+      <div class="card purple" data-group="purple">
+        <div class="card-header">
+          <div class="card-title"><span>📊</span> Strateji Geliştirme Başkanlığı</div>
+          <span class="card-num">BŞK-03</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Stratejik Plan</span>
+          <span class="key-badge">Mali Hizmetler</span>
+          <span class="key-badge">Bakanlık Bütçe Dağıtımı</span>
+          <span class="key-badge">Performans Programı</span>
+        </div>
+        <p class="desc-text">Bakanlığın 5 yıllık stratejik planını hazırlar, kalkınma hedeflerini belirler, yıllık bütçenin genel müdürlüklere dağıtımını ve mali kontrolünü yürütür.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>İPUCU:</strong> Okullardaki stratejik plan ekibinin Bakanlık düzeyindeki çatı karşılığıdır.</div>
+        </div>
+      </div>
+
+      <!-- 20. BASIN VE HALKLA İLİŞKİLER -->
+      <div class="card purple" data-group="purple">
+        <div class="card-header">
+          <div class="card-title"><span>📰</span> Basın ve Halkla İlişkiler Müş.</div>
+          <span class="card-num">MÜŞ-01</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Basın Bültenleri</span>
+          <span class="key-badge">Halkla İlişkiler</span>
+          <span class="key-badge">CİMER / MEBİM</span>
+          <span class="key-badge">4982 Bilgi Edinme Kanunu</span>
+        </div>
+        <p class="desc-text">Bakanlığın basınla ilişkilerini yürütür, halkın bilgi edinme hakkı kapsamındaki (CİMER/dilekçe) taleplerini ilgili birimlere ileterek cevabını koordine eder.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>Sayısal Dağılım:</strong> Kararnamede yer alan TEK Müşavirliktir (1 Müşavirlik).</div>
+        </div>
+      </div>
+
+      <!-- 21. ACİL DURUM VE SAVUNMA -->
+      <div class="card red" data-group="red">
+        <div class="card-header">
+          <div class="card-title"><span>🚨</span> Acil Durum & Savunma Planlaması</div>
+          <span class="card-num">BŞK-04</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">AFET / ACİL DURUM</span>
+          <span class="key-badge">Sivil Savunma</span>
+          <span class="key-badge">Seferberlik & Savaş Hali</span>
+          <span class="key-badge">Kriz Yönetim Merkezleri</span>
+        </div>
+        <p class="desc-text">Deprem, sel, yangın gibi afetlerde okulların güvenliğini planlar; AFAD ve Cumhurbaşkanlığı Acil Durum Merkezi ile bakanlık arasındaki bilgi akışını koordine eder.</p>
+        <div class="trap-box">
+          <span>🌟</span>
+          <div><strong>EN YENİ KURULAN BİRİM:</strong> Kararnamede yer alan tek "Dairesi Başkanlığı" unvanına sahip ana hizmet birimidir. Sınavda sorulma olasılığı çok yüksektir!</div>
+        </div>
+      </div>
+
+      <!-- 22. ÖZEL KALEM MÜDÜRLÜĞÜ -->
+      <div class="card purple" data-group="purple">
+        <div class="card-header">
+          <div class="card-title"><span>✒️</span> Özel Kalem Müdürlüğü</div>
+          <span class="card-num">MD-01</span>
+        </div>
+        <div class="keys-box">
+          <div class="keys-title">🔑 TURNUSOL KELİMELER</div>
+          <span class="key-badge">Bakanın Çalışma Programı</span>
+          <span class="key-badge">Bakanın Özel/Resmi Yazışması</span>
+          <span class="key-badge">Protokol ve Tören İşleri</span>
+        </div>
+        <p class="desc-text">Bakanın günlük programını hazırlar, seyahat ve karşılama protokollerini düzenler, bakanın özel ve resmi yazışmalarını gerçekleştirir.</p>
+        <div class="trap-box">
+          <span>💡</span>
+          <div><strong>Sayısal Dağılım:</strong> Kararnamede yer alan TEK Müdürlüktür (1 Müdürlük).</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- MEB GENEL GÖREVLERİ vs ORTAK GÖREVLERİ -->
+    <div class="section-title">
+      <span>⚖️</span> Madde 301 (Genel Görevler) vs Madde 326 (Ortak Görevler) Farkı
+    </div>
+
+    <div class="table-card">
+      <table>
+        <thead>
+          <tr>
+            <th style="width: 50%;">🏛️ MEB'in Genel Görevleri (Madde 301 - Makro / Ülke Düzeyi)</th>
+            <th style="width: 50%;">🔄 Birimlerin Ortak Görevleri (Madde 326 - Mikro / Yatay)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>• Öğrencileri bedeni, zihni, ahlaki, manevi, sosyal ve kültürel yönden geliştirmek.</td>
+            <td>• Kendi hizmet alanında hedef, politika ve standart belirleme çalışması yapmak.</td>
+          </tr>
+          <tr>
+            <td>• Eğitimde fırsat ve imkân eşitliği sağlamak.</td>
+            <td>• Kendi alanında eğitimi etkileyen faktörleri tespit edip AR-GE faaliyetleri yürütmek.</td>
+          </tr>
+          <tr>
+            <td>• Kız öğrencilerin, engellilerin ve özel yeteneklilerin eğitimini sağlamak.</td>
+            <td>• Kendi alanındaki özel eğitim, rehberlik ve psikolojik danışma hizmetlerini koordine etmek.</td>
+          </tr>
+          <tr>
+            <td><strong style="color: #f87171;">🚨 EN BÜYÜK SINAV TUZAĞI:</strong> "Yükseköğretim kurumları DIŞINDAKİ (hariç) tüm eğitim kurumlarını açmak ve izin vermek." (MEB üniversite açamaz!).</td>
+            <td>• Okul ve ilçe düzeyinde yapılan sınav sonuçlarını analiz edip kendi biriminde değerlendirmek.</td>
+          </tr>
+          <tr>
+            <td>• Yurt dışındaki Türk vatandaşlarının eğitim ihtiyaçlarını çözmek.</td>
+            <td>• Kendi biriminin bina ve eğitim tesislerinin planlamasını yapmak.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 5 KRİTİK YÖNETMELİK TABLOSU -->
+    <div class="section-title">
+      <span>📑</span> Sınavın En Can Alıcı "5 Düzenleme / Yönetmelik" Tablosu
+    </div>
+
+    <div class="table-card">
+      <table>
+        <thead>
+          <tr>
+            <th>Düzenlenen Konu / Alan</th>
+            <th>Hukuki Dayanak / Düzenleme Türü</th>
+            <th>Çıkaran Makam</th>
+            <th>Püf Noktası</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>1. Talim ve Terbiye Kurulunun Oluşumu & Çalışması</strong></td>
+            <td><span class="key-badge" style="background: rgba(192, 132, 252, 0.2); color: #c084fc;">YÖNETMELİK</span></td>
+            <td><strong style="color: #fde047;">Cumhurbaşkanı</strong></td>
+            <td>Üst düzey eğitim felsefesi kurumu olduğu için doğrudan CB yönetmeliğiyle çıkar.</td>
+          </tr>
+          <tr>
+            <td><strong>2. Öğretmen Kadrolarının Dağıtımı (Norm Kadro)</strong></td>
+            <td><span class="key-badge" style="background: rgba(192, 132, 252, 0.2); color: #c084fc;">YÖNETMELİK</span></td>
+            <td><strong style="color: #fde047;">Cumhurbaşkanı</strong></td>
+            <td>Branşlar esas alınarak okullara dağıtım CB yönetmeliğiyle belirlenir.</td>
+          </tr>
+          <tr>
+            <td><strong>3. Bakanlık Kadrolarının İhdası, İptali, Kullanımı</strong></td>
+            <td><span class="key-badge" style="background: rgba(56, 189, 248, 0.2); color: #38bdf8;">CB KARARNAMESİ</span></td>
+            <td><strong style="color: #fde047;">Cumhurbaşkanı</strong></td>
+            <td>Genel Kadro Usulü Hakkında CB Kararnamesi hükümlerine göre yapılır.</td>
+          </tr>
+          <tr>
+            <td><strong>4. Öğretmenlerin Aylık Karşılığı Okutacağı Dersler</strong></td>
+            <td><span class="key-badge" style="background: rgba(52, 211, 153, 0.2); color: #34d399;">YÖNETMELİK</span></td>
+            <td><strong style="color: #38bdf8;">Bakanlık (MEB)</strong></td>
+            <td>Öğretmenin hangi branş dersini aylık karşılığı okutacağını Bakanlık belirler.</td>
+          </tr>
+          <tr>
+            <td><strong>5. Teftiş Kurulu Başkanlığının Çalışma Usulleri</strong></td>
+            <td><span class="key-badge" style="background: rgba(251, 191, 36, 0.2); color: #fbbf24;">YÖNETMELİK</span></td>
+            <td><em>Belirtilmemiştir</em></td>
+            <td>Kararnamede sadece "Yönetmelikle düzenlenir" yazar; makam adı geçmez.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- EMEKLİLİK KURALLARI KART -->
+    <div class="section-title">
+      <span>🏖️</span> Öğretmenlerin Emeklilik Kuralları ve İstisnaları (Madde 329)
+    </div>
+
+    <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));">
+      <div class="card green">
+        <div class="card-title">📅 Genel Emeklilik Kuralı</div>
+        <p class="desc-text" style="font-size: 0.95rem; margin-top: 8px;">
+          Öğretmenlerin emeklilik işlemleri kural olarak sadece <strong style="color: #34d399;">HAZİRAN ve TEMMUZ</strong> aylarında yapılır.<br>
+          <small style="color: var(--text-muted);">(Amaç: Eğitim yılı aksamadan Ağustos'ta yeni atama yapmak ve Eylül'de eğitime hazır başlamaktır).</small>
+        </p>
+      </div>
+
+      <div class="card orange">
+        <div class="card-title">⚡ Ara Aylarda Emeklilik İstisnası</div>
+        <p class="desc-text" style="font-size: 0.9rem; margin-top: 8px;">
+          Haziran-Temmuz dışındaki bir ayda (örn. Ocak) emeklilik için <strong>2 ŞART BİRLİKTE</strong> aranır:<br>
+          1. Başvuran öğretmenin görev yaptığı ilde kendi branşında <strong style="color: #fbbf24;">NORM KADRO FAZLASI</strong> bulunması,<br>
+          2. Emeklilik talebinin <strong style="color: #fbbf24;">BAKANLIKÇA UYGUN GÖRÜLMESİ</strong>.
+        </p>
+      </div>
+
+      <div class="card red">
+        <div class="card-title">🎂 65 Yaş Haddi İstisnası</div>
+        <p class="desc-text" style="font-size: 0.9rem; margin-top: 8px;">
+          65 yaşını dolduran öğretmenlerde ay şartı (Haziran-Temmuz) aranmaz.<br>
+          Öğretmen <strong style="color: #f87171;">DOĞUM GÜNÜNDE</strong> kanunen re'sen emekliye sevk edilir. Bir gün dahi fazladan çalıştırılamaz.
+        </p>
+      </div>
+    </div>
+
+    <!-- 60 SANİYELİK FLAŞ KARTLAR -->
+    <div class="section-title">
+      <span>⚡</span> Sınav Sabahı 60 Saniyelik Flaş Hatırlatıcılar
+    </div>
+
+    <div class="flash-grid">
+      <div class="flash-item">
+        <span class="flash-trigger">"Bakana sunmak"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Talim ve Terbiye Kurulu</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Rehberlik, denetim, kontrol"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Teftiş Kurulu Bşk.</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"3308 / Çırak, kalfa, istihdam"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Mesleki ve Teknik Eğt.</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Dernek, vakıf, gerçek/tüzel"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Özel Öğretim Kurumları</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"RAM, BİLSEM / Öğrenci özel"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Özel Eğitim ve Rehberlik</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Eğitim + Teknoloji / Yapay zekâ"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">YEĞİTEK</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Bakanlık bilişim / MEBBİS / Veri tabanı"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Bilgi İşlem GM</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Ecnebi memleketler / YLSY"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Yükseköğretim ve Yurt Dışı</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Yabancı hükümet / Protokol"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Avrupa Birliği ve Dış İlş.</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Döner sermaye / Öğretmenevi / Kitap basımı"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Destek Hizmetleri GM</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Arsa, kamulaştırma, bina yapımı"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">İnşaat ve Emlak GM</span>
+      </div>
+      <div class="flash-item">
+        <span class="flash-trigger">"Afet, sivil savunma, seferberlik"</span>
+        <span class="flash-arrow">➔</span>
+        <span class="flash-target">Acil Durum ve Savunma</span>
+      </div>
+    </div>
+
+  </div>
+
+  <button class="print-btn" onclick="window.print()">
+    <span>🖨️</span> PDF Olarak Kaydet / Yazdır
+  </button>
+
+  <script>
+    function filterCards(group) {
+      const cards = document.querySelectorAll('#unit-grid .card');
+      const buttons = document.querySelectorAll('.filter-btn');
+
+      buttons.forEach(btn => {
+        if (btn.getAttribute('data-group') === group) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+
+      cards.forEach(card => {
+        if (group === 'all' || card.getAttribute('data-group') === group) {
+          card.style.display = 'flex';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+  </script>
+
+</body>
+</html>
