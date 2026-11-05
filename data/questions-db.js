@@ -88668,5 +88668,705 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "C",
     "explanation": "✅ <strong>Doğru Cevap: C</strong> (Haziran-Temmuz)<br><br>\n📚 <strong>1 Sayılı CBK MEB Mevzuat Analizi (Madde 331 (Öğretmenlerin Emekliliği - 2022 EKYS Çıkmış Soru Benzeri)):</strong><br>\n1 Sayılı CBK Madde 331/1 hükmüne göre: <strong>\"Öğretmenlerin emeklilik işlemleri Haziran ve Temmuz ayları içinde yapılır.\"</strong> Bu aylar dışında emeklilik işlemi yapılabilmesi; görev yapılan il sınırları içinde emeklilik talebinde bulunan personelin sınıf ve branşında öğretmen fazlasının bulunması ve işlemin Bakanlıkça uygun görülmesine bağlıdır.<br><br>\n🔍 <strong>Şıkların / Öncüllerin Analizi:</strong><br>\n• <strong>C) Haziran-Temmuz:</strong> Kararnamenin 331. maddesinde açıkça belirtilen kanuni emeklilik dönemi <strong>Haziran ve Temmuz</strong> aylarıdır.<br>• <strong>B) Temmuz-Ağustos:</strong> En güçlü çeldiricidir (yaz tatili ayları olduğu için Temmuz-Ağustos sanılır, ancak kanun metni <strong>Haziran ve Temmuz</strong> demektedir!).<br><br>\n💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>2022 EKYS Çıkmış Soru Bilgisi (Madde 331):</strong><br>• Öğretmenlerin emeklilik işlemleri → <strong>HAZİRAN ve TEMMUZ</strong> aylarında yapılır! (Temmuz-Ağustos tuzağına düşmeyin!)<br>• Haziran-Temmuz dışında emeklilik için <strong>2 şart</strong> birlikte aranır:<br>1. İl içinde branşında <strong>öğretmen fazlası</strong> olması<br>2. İşlemin <strong>Bakanlıkça uygun görülmesi</strong>"
+  },
+  {
+    "id": "tarih16_q1",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 1,
+    "questionText": "Anadolu Selçuklularında Divan-ı Saltanata bağlı olarak çalışan divanlardan biri olan Divan-ı İnşanın görevi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Devletin mali işleriyle ilgilenmek"
+      },
+      {
+        "key": "B",
+        "text": "Hukuk ve askerlik dışında devlete dair tüm işleri teftiş etmek"
+      },
+      {
+        "key": "C",
+        "text": "Ülke topraklarının kayıtlarını tutarak has ve iktalara ait kararları düzenlemek"
+      },
+      {
+        "key": "D",
+        "text": "Devletin iç ve dış yazışmalarını yapmak"
+      },
+      {
+        "key": "E",
+        "text": "Ordunun ihtiyacını karşılamak"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (Devletin iç ve dış yazışmalarını yapmak)</strong><br><br>📚 <strong>Türk-İslam & Selçuklu Devlet Teşkilatı Analizi:</strong><br>Anadolu Selçuklularında ve Büyük Selçuklu Devleti'nde <strong>Divan-ı İnşa (Tuğra Divanı)</strong>, devletin iç ve dış resmî yazışmalarını yürütür, ferman ve berátlara hükümdarın tuğrasını çekerdi. Bu divanın başkanına <strong>Münşi (Tuğrai)</strong> adı verilirdi.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Devletin mali işleri:</strong> Divan-ı İstifa (Başkanı: Müstevfi).<br>• <strong>B) İdari ve mali teftiş:</strong> Divan-ı İşraf (Başkanı: Müşrif-i Memalik).<br>• <strong>C) Toprak kayıtları ve iktalar:</strong> Pervaneci Divanı / Pervane (Türkiye Selçuklularına özgüdür).<br>• <strong>D) İç ve dış yazışmalar:</strong> Divan-ı İnşa / Tuğra Divanı.<br>• <strong>E) Askeri işler ve ordunun ihtiyaçları:</strong> Divan-ı Arz / Ceyş (Başkanı: Emir-i Arz).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Selçuklu Divanları Şifresi:</strong><br>• <strong>İnşa / Tuğra:</strong> Yazışma & Belge (Münşi)<br>• <strong>İstifa:</strong> Maliye & Para (Müstevfi)<br>• <strong>İşraf:</strong> Teftiş & Denetim (Müşrif)<br>• <strong>Arz:</strong> Askerlik & Ordu (Emir-i Arz)<br>• <strong>Pervane:</strong> Toprak & İkta (Yalnızca Türkiye Selçuklularında vardır)"
+  },
+  {
+    "id": "tarih16_q2",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 2,
+    "questionText": "Nizamülmülk, “Cenabıhak her dönemde insanlardan birini seçer ve onu hükümdarlık vasıflarıyla donatır.” demiştir.\n\nNizamülmülk’ün bu ifadesi, aşağıdaki Orta Asya Türk devlet geleneğindeki kavramlardan hangisinin Selçuklularda da görüldüğünün bir kanıtıdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Orun"
+      },
+      {
+        "key": "B",
+        "text": "Kut"
+      },
+      {
+        "key": "C",
+        "text": "Kengeç"
+      },
+      {
+        "key": "D",
+        "text": "İlig"
+      },
+      {
+        "key": "E",
+        "text": "Ülüş"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Kut)</strong><br><br>📚 <strong>Türk Devlet Geleneği & Hükümranlık Anlayışı Analizi:</strong><br>İslamiyet öncesi Türk devletlerinde hükümdara devleti yönetme yetkisinin Gök Tanrı tarafından verildiğine inanılmasına <strong>Kut Anlayışı</strong> denirdi. Nizamülmülk'ün <em>\"Cenabıhak her dönemde insanlardan birini seçer ve hükümdarlık vasfıyla donatır\"</em> sözü, Kut inancının İslami dönemde <strong>\"Allah'ın lütfu / Zillullah fi'l-arz\"</strong> anlayışıyla devam ettiğinin açık kanıtıdır.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Orun:</strong> Kurultayda veya divanda boy beylerinin ve protokolün oturma sırası/mevkii.<br>• <strong>B) Kut:</strong> İlahi yönetme yetkisi / Tanrı vergisi iktidar.<br>• <strong>C) Kengeç (Kengeş):</strong> Danışma meclisi / danışma.<br>• <strong>D) İlig:</strong> Hükümdar / yönetici unvanı.<br>• <strong>E) Ülüş:</strong> Ülke gelirlerinin ve servetin paylaştırılması (ekonomik hak).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sorularda <strong>\"Yönetme yetkisinin Tanrı/Allah tarafından verilmesi\", \"Hükümdarlık vasfıyla donatılması\"</strong> vurgulanıyorsa cevap daima <strong>KUT</strong> anlayışıdır."
+  },
+  {
+    "id": "tarih16_q3",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 3,
+    "questionText": "I. Selçuklularda hükümdar çocuklarının eğitim ve yetişmelerinden sorumlu kişi\nII. Yoksullara yiyecek dağıtmak amacıyla kurulmuş hayır kurumu\nIII. Selçuklularda batı sınırında kendisine toprak verilen bey\nIV. Selçuklularda sultan tarafından bir bölgeyi yönetmekle görevlendirilen hanedan mensubu\n\nYukarıdaki tanımların karşılıkları, aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lala, imaret, akıncı, melik"
+      },
+      {
+        "key": "B",
+        "text": "Atabey, imaret, uç beyi, melik"
+      },
+      {
+        "key": "C",
+        "text": "Atabey, imaret, akıncı, şıhne"
+      },
+      {
+        "key": "D",
+        "text": "Lala, dergâh, emir, şıhne"
+      },
+      {
+        "key": "E",
+        "text": "Atabey, imaret, melik, uç beyi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Atabey, imaret, uç beyi, melik)</strong><br><br>📚 <strong>Selçuklu Kurum ve Kavramları Analizi:</strong><br>• <strong>I. Öncül:</strong> Selçuklularda şehzadeleri (melikleri) eyaletlerde tecrübe kazandırmak üzere eğiten kişiye <strong>Atabey</strong> denir (Osmanlı'daki karşılığı Lala'dır).<br>• <strong>II. Öncül:</strong> Yoksullara ve öğrencilere ücretsiz sıcak yemek dağıtan aşevine <strong>İmaret / İmarethane</strong> denir.<br>• <strong>III. Öncül:</strong> Sınır boylarında güvenliği sağlayan ve toprak verilen komutana <strong>Uç Beyi</strong> denir.<br>• <strong>IV. Öncül:</strong> Hükümdar ailesinden olup eyalet/bölge yönetimine atanan hanedan üyesine <strong>Melik</strong> denir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Şehzade Eğitmeni Karşılaştırması:</strong><br>• İslamiyet Öncesi: <strong>Ataman / İnal / İnanç</strong><br>• Selçuklular: <strong>Atabey</strong><br>• Osmanlılar: <strong>Lala</strong>"
+  },
+  {
+    "id": "tarih16_q4",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 4,
+    "questionText": "Osmanlı Devleti’ndeki İslami hukuk;\nI. Kur'an-ı Kerim,\nII. hadis,\nIII. ferman\n\nhükümlerinden hangilerine dayanılarak uygulanmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (I ve II)</strong><br><br>📚 <strong>Osmanlı Hukuk Sistemi Analizi:</strong><br>Osmanlı hukuk sistemi <strong>Şer'i Hukuk</strong> (İslami Hukuk) ve <strong>Örfî Hukuk</strong> olmak üzere iki ana koldan oluşur:<br>• <strong>İslami (Şer'i) Hukukun Kaynakları:</strong> <strong>Kur'an-ı Kerim</strong> (Ayetler), <strong>Sünnet / Hadis</strong>, İcma ve Kıyas'tır (Edille-i Erbaa).<br>• <strong>Örfî Hukukun Kaynakları:</strong> Eski Türk töresi, padişahın yasama yetkisiyle çıkardığı <strong>ferman, kanunname, beraat ve adaletnameler</strong>dir.<br>Dolayısıyla \"ferman\" İslami hukukun değil, <strong>örfî hukukun</strong> kaynağıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Soruda <em>\"Şer'i (İslami) Hukuk\"</em> sorulduğunda yalnızca dinî kaynaklar (Kur'an, Hadis, İcma, Kıyas); <em>\"Örfî Hukuk\"</em> sorulduğunda Töre ve Padişah Fermanları/Kanunnameleri aranmalıdır!"
+  },
+  {
+    "id": "tarih16_q5",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 5,
+    "questionText": "Aşağıdakilerden hangisi, Anadolu Selçuklu Dönemi mimarisinin örneklerinden biridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Özkent Minaresi"
+      },
+      {
+        "key": "B",
+        "text": "Tirmiz Sarayı"
+      },
+      {
+        "key": "C",
+        "text": "Sivas Gök Medrese"
+      },
+      {
+        "key": "D",
+        "text": "Ayşe Bibi Türbesi"
+      },
+      {
+        "key": "E",
+        "text": "Talhatan Baba Camii"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (Sivas Gök Medrese)</strong><br><br>📚 <strong>Türk-İslam Mimarisi ve Eser Eşleştirmesi Analizi:</strong><br>• <strong>Sivas Gök Medrese:</strong> 1271 yılında Anadolu Selçuklu Sultanı III. Gıyaseddin Keyhüsrev döneminde Vezir Sahip Ata Fahreddin Ali tarafından yaptırılmış, çinileri ve anıtsal taç kapısıyla Anadolu Selçuklu sanatının şaheseridir.<br>• <strong>Özkent Minaresi:</strong> Karahanlılar Dönemi eseridir (Kırgızistan).<br>• <strong>Tirmiz Sarayı:</strong> Gazneliler Dönemi eseridir.<br>• <strong>Ayşe Bibi Türbesi:</strong> Karahanlılar Dönemi eseridir (Kazakistan).<br>• <strong>Talhatan Baba Camii:</strong> Büyük Selçuklu Devleti Dönemi eseridir (Türkmenistan/Merv).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Şıklarda <strong>Karahanlı</strong> (Özkent, Ribat-ı Melik, Ayşe Bibi, Arap Ata), <strong>Gazneli</strong> (Leşker-i Bazar, Zafer Kuleleri, Tirmiz Sarayı) ve <strong>Anadolu Selçuklu</strong> (Gök Medrese, Karatay, Çifte Minareli Medrese, Hunat Hatun) eserlerini birbirine karıştırmayın!"
+  },
+  {
+    "id": "tarih16_q6",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 6,
+    "questionText": "Nizamülmülk, Siyasetname adlı eserinde askerî ve idari görevlilerin kendilerine verilen iktalarda sürekli tutulmayıp belirli sürelerle değiştirilmesini önermiştir.\n\nNizamülmülk’ün bu önerisiyle,\nI. ülkede feodal güçlerin ortaya çıkmasını önlemek,\nII. ikta sahiplerinin halka baskı yapmasını engellemek,\nIII. tarım ürünü çeşitlerini artırmak\n\ndurumlarından hangilerini amaçladığı savunulabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (I ve II)</strong><br><br>📚 <strong>İkta Sistemi ve Merkezi Otorite Analizi:</strong><br>Nizamülmülk'ün ikta sahiplerini aynı bölgede uzun süre bırakmayıp rotasyona tabi tutmasının temel sebebi <strong>merkezi otoriteyi korumak</strong>tır:<br>• Bir görevli aynı bölgede uzun yıllar kalırsa halk üzerinde kişisel nüfuz kurar, yerel beyleşir ve <strong>feodal bir güç (toprak ağası/derebeyi)</strong> haline gelebilir (I. öncül).<br>• Ayrıca bölgede kökleşen yönetici halka keyfi davranabilir ve baskı uygulayabilir; rotasyon bunu engeller (II. öncül).<br>• Görevlilerin yer değiştirmesinin <em>\"tarım ürünü çeşitliliğini artırmak\"</em> ile doğrudan bir ilgisi yoktur; ürün çeşitliliği iklim ve toprak koşullarına bağlıdır (III. öncül yanlıştır).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Hem Selçuklu İkta sisteminde hem de Osmanlı Tımar sisteminde valilerin/tımar sahiplerinin sık sık tayin edilmesinin 1 numaralı amacı <strong>merkeziyetçi yapıyı korumak ve feodalleşmeyi önlemektir</strong>."
+  },
+  {
+    "id": "tarih16_q7",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 7,
+    "questionText": "Selçuklularda değişik toplulukların çocukları küçük yaşta alınarak özel olarak yetiştirilir ve yeterli olgunluğa geldiklerinde askere alınırlardı. Bu sisteme “gulam” sistemi denilirdi.\n\nSelçuklulardaki bu sistemin Osmanlılardaki karşılığı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tımar"
+      },
+      {
+        "key": "B",
+        "text": "Kapıkulu"
+      },
+      {
+        "key": "C",
+        "text": "Millet"
+      },
+      {
+        "key": "D",
+        "text": "İltizam"
+      },
+      {
+        "key": "E",
+        "text": "Sâliyane"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Kapıkulu)</strong><br><br>📚 <strong>Türk-İslam & Osmanlı Askeri Teşkilatı Karşılaştırması:</strong><br>• <strong>Selçuklularda Gulam Sistemi:</strong> Esir veya gayrimüslim çocukların Gulamhane'de yetiştirilerek hükümdarın muhafız ordusunu (Gulaman-ı Saray) oluşturması sistemidir.<br>• <strong>Osmanlı'daki Karşılığı:</strong> Devşirme usulüyle toplanan Hristiyan çocukların Acemi Ocağı'nda yetiştirilip padişaha bağlı merkez ordusu olan <strong>Kapıkulu Ocağı (Yeniçeriler ve Kapıkulu Süvarileri)</strong> haline getirilmesidir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Tımar:</strong> Toprak karşılığı atlı asker (Cebelü) yetiştirme sistemidir (Selçuklu'daki karşılığı İkta'dır).<br>• <strong>B) Kapıkulu:</strong> Gulam sisteminin Osmanlı'daki birebir kurumsal karşılığıdır.<br>• <strong>C) Millet:</strong> Toplumun din ve mezhep esasına göre teşkilatlanmasıdır.<br>• <strong>D) İltizam:</strong> Vergi gelirlerinin peşin olarak mültezimlere ihale edilmesidir.<br>• <strong>E) Sâliyane:</strong> Merkeze uzak eyaletlerin yıllık nakit vergisidir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>• <strong>İkta Sistemi (Selçuklu)</strong> = <strong>Tımar Sistemi (Osmanlı)</strong><br>• <strong>Gulam Sistemi (Selçuklu)</strong> = <strong>Devşirme & Kapıkulu Sistemi (Osmanlı)</strong>"
+  },
+  {
+    "id": "tarih16_q8",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 8,
+    "questionText": "Anadolu Selçukluları Döneminde Ahi teşkilatı şehirlerde,\nI. ticaret,\nII. zanaat,\nIII. sosyal\n\nalanların hangilerinde söz sahibi olmuştur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (I, II ve III)</strong><br><br>📚 <strong>Ahilik Teşkilatı (Ahi Evran) ve Fonksiyonları Analizi:</strong><br>Ahi teşkilatı 13. yüzyılda Anadolu Selçuklularında kurulan çok yönlü bir esnaf-sanatkâr ve sosyal dayanışma örgütlenmesidir:<br>• <strong>Zanaat ve Üretim:</strong> Mesleki eğitim verir (çırak-kalfa-usta ilişkisi), malın kalitesini ve üretim standartlarını belirler (II. öncül).<br>• <strong>Ticaret:</strong> Fiyat denetimi yapar (narh koyma), haksız rekabeti önler, üyelerine faizsiz kredi (Orta Sandığı) sağlar (I. öncül).<br>• <strong>Sosyal Alan:</strong> Şehre gelen yolcuları ve garipleri misafir eder, ahlaki eğitim verir (Fütüvvetname), güvenliği ve toplumsal huzuru temin eder (III. öncül).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Ahilik yalnızca ekonomik değil; <strong>dini-ahlaki, askeri (gerektiğinde şehri savunan Gaziyan-ı Rum), mesleki ve sosyal</strong> çok fonksiyonlu bir teşkilattır."
+  },
+  {
+    "id": "tarih16_q9",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 9,
+    "questionText": "Büyük Selçuklu Devleti’nde posta işlerini yürütmekle görevli divan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divân-ı İstifa"
+      },
+      {
+        "key": "B",
+        "text": "Divân-ı İnşa"
+      },
+      {
+        "key": "C",
+        "text": "Divân-ı Arz"
+      },
+      {
+        "key": "D",
+        "text": "Divân-ı İşraf"
+      },
+      {
+        "key": "E",
+        "text": "Divân-ı Berid"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (Divân-ı Berid)</strong><br><br>📚 <strong>Türk-İslam Devlet Teşkilatında Haberleşme & İstihbarat Analizi:</strong><br>İlk kez Hz. Ömer döneminde temelleri atılan ve Abbasiler ile Selçuklularda kurumsallaşan <strong>Divân-ı Berid</strong>, devletin <strong>posta, haberleşme ve gizli istihbarat</strong> işlerini yürüten divandır. Taşradaki valiler ve komutanlar hakkındaki gizli raporlar da Berid teşkilatı (ulaklar) vasıtasıyla merkeze ulaştırılırdı.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Divân-ı İstifa:</strong> Mali işler divanıdır.<br>• <strong>B) Divân-ı İnşa:</strong> Yazışma ve ferman divanıdır.<br>• <strong>C) Divân-ı Arz:</strong> Askeri işler ve ordunun ihtiyaçları divanıdır.<br>• <strong>D) Divân-ı İşraf:</strong> Mali ve idari denetim/teftiş divanıdır.<br>• <strong>E) Divân-ı Berid:</strong> Posta ve haberleşme teşkilatıdır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>\"Berid\" = Posta, Haberleşme, İstihbarat ve Ulak Teşkilatı</strong> olarak zihninize kazıyın!"
+  },
+  {
+    "id": "tarih16_q10",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 10,
+    "questionText": "Selçuklular Dönemi’nde devlet işleri “divan-ı saltanat” denilen büyük divanda görüşülüp karara bağlanırdı. Ayrıca bu divana bağlı devletin mali, askerî, adli ve diğer konularının görüşüldüğü başka divanlar da vardı.\n\nAşağıdakilerden hangisi bu divanlardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divan-ı İstifa"
+      },
+      {
+        "key": "B",
+        "text": "Divan-ı Arz"
+      },
+      {
+        "key": "C",
+        "text": "Divan-ı İşraf"
+      },
+      {
+        "key": "D",
+        "text": "Divan-ı Hümayun"
+      },
+      {
+        "key": "E",
+        "text": "Divan-ı Mezalim"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D (Divan-ı Hümayun)</strong><br><br>📚 <strong>Türk Devletlerinde Merkez Divanları Karşılaştırması:</strong><br>• <strong>Divan-ı Hümayun:</strong> Orhan Bey döneminde kurulan ve Fatih döneminden itibaren sadrazam başkanlığında toplanan <strong>Osmanlı Devleti'nin en yüksek karar organıdır</strong>; Selçuklu döneminde bulunmaz.<br>• <strong>Selçuklu Divanları:</strong> Divan-ı Saltanat'a bağlı alt divanlar şunlardır:<br>  - <em>Divan-ı İstifa</em> (Maliye)<br>  - <em>Divan-ı Arz</em> (Ordu/Askerlik)<br>  - <em>Divan-ı İşraf</em> (Denetim/Teftiş)<br>  - <em>Divan-ı İnşa / Tuğra</em> (Yazışma)<br>  - <em>Divan-ı Mezalim</em> (Sultan başkanlığında ağır siyasi suçlar ve devlet görevlileri hakkındaki şikayetlerin görüşüldüğü yüksek mahkeme)<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Devlet - Divan Eşleşmesi:</strong><br>• Karahanlılar: <strong>Meclis-i Âli</strong><br>• Gazneliler: <strong>Divan-ı Vezaret</strong><br>• Selçuklular: <strong>Divan-ı Saltanat</strong> (Büyük Divan)<br>• Osmanlılar: <strong>Divan-ı Hümayun</strong>"
+  },
+  {
+    "id": "tarih16_q11",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 11,
+    "questionText": "Abbasi Halifesi Mansur tarafından kurulan ve Medinetü’s-Selam (Barış Şehri) olarak da bilinen şehir aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kûfe"
+      },
+      {
+        "key": "B",
+        "text": "Şam"
+      },
+      {
+        "key": "C",
+        "text": "Bağdat"
+      },
+      {
+        "key": "D",
+        "text": "Fergana"
+      },
+      {
+        "key": "E",
+        "text": "Semerkant"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (Bağdat)</strong><br><br>📚 <strong>İslam Medeniyeti & Şehir Tarihi Analizi:</strong><br>Abbasi Halifesi Ebu Cafer el-Mansur, 762 yılında Dicle Nehri kıyısında dairesel planlı yeni bir başkent inşa ettirmiş ve bu şehre resmî olarak <strong>\"Medinetü's-Selam\" (Barış Şehri / Esenlik Kenti)</strong> adını vermiştir. Şehir tarihte yaygın olarak <strong>Bağdat</strong> adıyla bilinir ve İslam dünyasının ilim, felsefe ve kültür merkezi (Beytü'l-Hikme) olmuştur.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Kûfe:</strong> Hz. Ali döneminde başkent yapılmıştır.<br>• <strong>B) Şam:</strong> Emeviler Devleti'nin başkentidir.<br>• <strong>C) Bağdat:</strong> Halife Mansur tarafından kurulan Medinetü's-Selam'dır.<br>• <strong>D) Fergana & E) Semerkant:</strong> Orta Asya'da Türk-İslam kültür havzasındaki şehirlerdir (Semerkant = Şehirlerin Şahı).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Tarihteki Şehir Unvanları (EKYS'de Çok Sorulur):</strong><br>• <strong>Bağdat:</strong> Medinetü's-Selam (Barış Şehri)<br>• <strong>Semerkant:</strong> Şehirlerin Şahı<br>• <strong>Buhara:</strong> İslam'ın Kubbesi (Kubbetü'l-İslam)<br>• <strong>İsfahan:</strong> Nısf-ı Cihan (Dünyanın Yarısı)"
+  },
+  {
+    "id": "tarih16_q12",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 12,
+    "questionText": "Büyük Selçuklu Devleti’nde; asker toplama, teşkilatlandırma, teçhiz etme ve askerlerin maaşlarını ödeme görevlerini üstlenmiş olan divan aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Divân-ı Arzu’l-Ceyş"
+      },
+      {
+        "key": "B",
+        "text": "Divân-ı İşrâf"
+      },
+      {
+        "key": "C",
+        "text": "Divân-ı İstifa"
+      },
+      {
+        "key": "D",
+        "text": "Divân-ı Mezâlim"
+      },
+      {
+        "key": "E",
+        "text": "Divân-ı Vezaret"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Divân-ı Arzu’l-Ceyş)</strong><br><br>📚 <strong>Selçuklu Askeri Teşkilatı Analizi:</strong><br>Büyük Selçuklu Devleti'nde askeri işleri yürüten kuruma <strong>Divân-ı Arz (Divân-ı Arzu'l-Ceyş)</strong> denirdi (Arapçada <em>\"Ceyş\"</em> ordu/asker demektir).<br>Bu divanın görevleri:<br>• Ordunun silah, mühimmat, donatım ve teçhizatını temin etmek,<br>• Asker mevcudunu ve künyelerini defterlere kaydetmek,<br>• Hassa ordusu ve gulam askerlerinin maaşlarını (<strong>Bistegani</strong>) dağıtmak.<br>Divanın başkanına <strong>Emir-i Arz (Ârızü'l-Ceyş)</strong> denirdi.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Arapça <strong>\"Ceyş\" = Asker / Ordu</strong> demektir. <strong>Divan-ı Arzu'l-Ceyş</strong> gördüğünüzde doğrudan Millî Savunma Bakanlığı / Genelkurmay Başkanlığı karşılığı olduğunu hatırlayın."
+  },
+  {
+    "id": "tarih16_q13",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 13,
+    "questionText": "İslamiyet öncesi Türk devletlerinde “aygucı” aşağıdakilerden hangisinin karşılığı olarak kullanılmıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hükümdar"
+      },
+      {
+        "key": "B",
+        "text": "Hatun"
+      },
+      {
+        "key": "C",
+        "text": "Vezir"
+      },
+      {
+        "key": "D",
+        "text": "Elçi"
+      },
+      {
+        "key": "E",
+        "text": "Yazıcı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (Vezir)</strong><br><br>📚 <strong>İslamiyet Öncesi Türk Devlet Teşkilatı Terimleri:</strong><br>Eski Türk devletlerinde hükümet (<strong>Ayukı</strong>) başkanına ve hükümdardan sonraki en yetkili devlet adamına <strong>Aygucı (Üge)</strong> yani <strong>Vezir / Başbakan</strong> denirdi. Örneğin Tonyukuk, Göktürk Devleti'nin ünlü bir aygucısıdır (veziridir).<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A) Hükümdar:</strong> Kağan, Hakan, Han, İdi-kut, Şanyü, Tanhu, Bögü.<br>• <strong>B) Hatun (Katun):</strong> Hükümdarın eşi.<br>• <strong>C) Aygucı (Üge):</strong> Vezir / Hükümet Başkanı.<br>• <strong>D) Elçi:</strong> Yalvaç.<br>• <strong>E) Yazıcı / Kâtip:</strong> Tamgacı / Bitikçi.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>• <strong>Ayukı:</strong> Hükümet (Bakanlar Kurulu)<br>• <strong>Aygucı / Üge:</strong> Başbakan / Vezir<br>• <strong>Buyruk:</strong> Bakan<br>• <strong>Bitikçi:</strong> Kâtip / Yazman"
+  },
+  {
+    "id": "tarih16_q14",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 14,
+    "questionText": "Tarih öğretmeni Yeşim Hanım öğrencilerinden, İlk Türk Devletleri'ndeki toplumsal yapının unsurlarını küçükten büyüğe doğru sıralamalarını istemiş; öğrenciler, şu cevapları vermiştir:\n\nOnur: oguş - urug - boy - bodun\nMeltem: oguş - boy - urug - bodun\nRamazan: bodun - boy - urug - oguş\nİrem: oguş - urug - bodun - boy\nAhmet: urug - oguş - boy - budun\n\nBu öğrencilerden hangisi doğru cevabı vermiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Onur"
+      },
+      {
+        "key": "B",
+        "text": "Meltem"
+      },
+      {
+        "key": "C",
+        "text": "Ramazan"
+      },
+      {
+        "key": "D",
+        "text": "İrem"
+      },
+      {
+        "key": "E",
+        "text": "Ahmet"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Onur)</strong><br><br>📚 <strong>İlk Türk Devletlerinde Toplumsal Yapı Sıralaması:</strong><br>Eski Türk toplum yapısı çekirdek aileden devlete doğru şu hiyerarşiyle yükselir:<br>1. <strong>Oguş:</strong> Aile (Toplumun en küçük hücresi)<br>2. <strong>Urug:</strong> Aileler birliği / Sülale / Soy<br>3. <strong>Boy (Bod):</strong> Sülaleler birliği / Kabile (Başında Boy Beyi bulunur)<br>4. <strong>Bodun:</strong> Boylar birliği / Millet / Halk<br>5. <strong>İl (El):</strong> Devlet / Bağımsız siyasi örgütlenme<br><br>Onur'un cevabı olan <strong>\"oguş - urug - boy - bodun\"</strong> sıralaması kesinlikle doğrudur.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Küçükten Büyüğe Akılda Tutma Kodlaması:</strong><br><strong>O - U - B - B - İ</strong><br>👉 <strong>O</strong>guş (Aile) → <strong>U</strong>rug (Sülale) → <strong>B</strong>oy (Kabile) → <strong>B</strong>odun (Millet) → <strong>İ</strong>l (Devlet)"
+  },
+  {
+    "id": "tarih16_q15",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 15,
+    "questionText": "Büyük Selçuklu Devleti’ne adını veren Selçuk Bey, oğullarından bazılarına Mikail, Yusuf, Musa, Yunus gibi isimler koymuştur. Devlet kurulmadan önce Selçuklu sülalesi ve etrafındaki bazı boyların Hazarlara tabi olduğu da bilinmektedir. Bu bilgilere dayalı olarak Selçuklu sülalesinin İslamiyet’in kabulünden önceki dinî vaziyeti hakkında farklı görüşler ileri sürülmüştür.\n\nBu bilgilere göre, Selçuklu sülalesinin İslamiyet’i kabulünden önce benimsemiş olabileceği düşünülen inanç sisteminin aşağıdakilerden hangisi olduğu söylenebilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hristiyanlık"
+      },
+      {
+        "key": "B",
+        "text": "Musevilik"
+      },
+      {
+        "key": "C",
+        "text": "Budizm"
+      },
+      {
+        "key": "D",
+        "text": "Maniheizm"
+      },
+      {
+        "key": "E",
+        "text": "Zerdüştlük"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B (Musevilik)</strong><br><br>📚 <strong>Oğuzlar & Hazarlar Tarihsel İlişkisi Analizi:</strong><br>Selçuklu hanedanının atası olan Selçuk Bey ve babası Dukak Bey, Karadeniz'in kuzeyinde hüküm süren ve <strong>Türk tarihinde Museviliği (Yahudiliği) benimseyen tek Türk devleti olan Hazarların</strong> hizmetinde bulunmuşlardır (Selçuk Bey'in Hazarlarda <em>Subaşı</em> komutan olduğu bilinir).<br>Selçuk Bey'in çocuklarına koyduğu <strong>Mikail, İsrail (Arslan Yabgu), Musa ve Yusuf</strong> gibi Tevrat kökenli isimler, ailenin İslam öncesinde Hazarların etkisiyle <strong>Musevilik</strong> dinine sempati duyduğunu veya benimsediğini gösteren en somut tarihsel kanıttır.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sorularda <strong>\"Hazarlara tabi olma\", \"İsrail, Mikail, Musa, Yusuf gibi isimler\"</strong> geçiyorsa işaretleyeceğiniz inanç sistemi doğrudan <strong>MUSEVİLİK</strong>tir."
+  },
+  {
+    "id": "tarih16_q16",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 16,
+    "questionText": "Orhun Yazıtları ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Uygurlar zamanında yazılmıştır."
+      },
+      {
+        "key": "B",
+        "text": "Orhun Irmağı vadisinde bulunmaktadır."
+      },
+      {
+        "key": "C",
+        "text": "Danimarkalı Wilhelm Thomsen tarafından okunmuştur."
+      },
+      {
+        "key": "D",
+        "text": "Tonyukuk, Kül Tigin ve Bilge Kağan adına dikilmiştir."
+      },
+      {
+        "key": "E",
+        "text": "Türk dilinin ve tarihinin en eski yazılı örneklerindendir."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A (Uygurlar zamanında yazılmıştır)</strong><br><br>📚 <strong>Orhun (Göktürk) Abideleri Analizi:</strong><br>Orhun Yazıtları Uygurlar zamanında değil, <strong>II. Göktürk (Kutluk) Devleti</strong> döneminde (8. yüzyılın ilk yarısında) dikilmiştir:<br>• <strong>Vezir Tonyukuk Yazıtı (725):</strong> Kendisi tarafından yazdırılmıştır.<br>• <strong>Kül Tigin Yazıtı (732):</strong> Ağabeyi Bilge Kağan tarafından diktirilmiş, Yolluğ Tigin tarafından yazılmıştır.<br>• <strong>Bilge Kağan Yazıtı (735):</strong> Oğlu tarafından diktirilmiştir.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A şıkkı (Yanlış ❌):</strong> II. Göktürk Devleti dönemine aittir.<br>• <strong>B şıkkı:</strong> Moğolistan sınırları içerisindeki Orhun Nehri vadisindedir.<br>• <strong>C şıkkı:</strong> 1893 yılında Danimarkalı dilbilimci Wilhelm Thomsen ve Rus Türkolog V. Radloff tarafından çözülüp okunmuştur (ilk okunan kelime \"Tengri\"dir).<br>• <strong>D şıkkı:</strong> Tonyukuk, Kül Tigin ve Bilge Kağan adına dikilen 3 ana anıttan oluşur.<br>• <strong>E şıkkı:</strong> Türk edebiyatının ve siyasi tarihinin ilk yazılı belgeleridir.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Göktürkler</strong> yazılı ilk anıtları (Orhun Yazıtları) bırakmış, <strong>Uygurlar</strong> ise kâğıt-matbaa kullanarak ilk kütüphane ve kitapları basmıştır. İkisini karıştırmayın!"
+  },
+  {
+    "id": "tarih16_q17",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 17,
+    "questionText": "Türk tarihinde fiziki bir mekân olarak kütüphane kuran ilk topluluk aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Osmanlılar"
+      },
+      {
+        "key": "B",
+        "text": "Göktürkler"
+      },
+      {
+        "key": "C",
+        "text": "Hunlar"
+      },
+      {
+        "key": "D",
+        "text": "Büyük Selçuklular"
+      },
+      {
+        "key": "E",
+        "text": "Uygurlar"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (Uygurlar)</strong><br><br>📚 <strong>Uygur Kültür ve Medeniyeti Analizi:</strong><br>Orta Asya'da Maniheizm ve Budizm'in etkisiyle <strong>yerleşik hayata geçen ilk Türk devleti olan Uygurlar</strong>, şehirler (Balık) ve tapınaklar (Stupa) kurmuş, kâğıt ve hareketli ahşap harfli matbaayı kullanarak çok sayıda dinî, hukuki ve felsefi metin çoğaltmışlardır. Bu birikimi muhafaza etmek amacıyla <strong>Türk tarihinde ilk kez müstakil kütüphaneleri (arşiv ve kitaplıkları) kuran devlet Uygurlardır</strong>.<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Uygurların \"İLK\"leri:</strong><br>• İlk yerleşik hayat & ilk şehirler (Balık)<br>• İlk kütüphane & ilk matbaa/kâğıt kullanımı<br>• İlk yazılı hukuk kuralları (borç, kiralama, faiz sözleşmeleri)<br>• İlk tiyatro (orta oyunu) ve fresko (duvar resmi) sanatı"
+  },
+  {
+    "id": "tarih16_q18",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 18,
+    "questionText": "Aşağıdakilerden hangisi, Göktürklerde yaygın olan Gök Tanrı inancıyla ilgili esaslardan biri değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İyilerin uçmağa (cennete), kötülerin tamuya (cehenneme) gideceğine inanılması"
+      },
+      {
+        "key": "B",
+        "text": "Yuğ adı verilen cenaze törenleri düzenlenmesi"
+      },
+      {
+        "key": "C",
+        "text": "Din adamlarına yabgu adı verilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Hakanın, yetkilerini Tanrı'dan aldığına inanılması"
+      },
+      {
+        "key": "E",
+        "text": "Ölen kişinin, eşyalarıyla gömülmesi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (Din adamlarına yabgu adı verilmesi)</strong><br><br>📚 <strong>Gök Tanrı İnancı ve Eski Türk Kavramları Analizi:</strong><br>• <strong>Yabgu:</strong> Din adamı değildir! Eski Türklerde ikili devlet teşkilatında <strong>ülkenin batısını yöneten hanedan üyesi üst düzey siyasi/idari yöneticidir</strong> (Örn: İstemi Yabgu).<br>• <strong>Din Adamları:</strong> Eski Türklerde din adamlarına <strong>Kam, Baksı veya Şaman</strong> adı verilirdi.<br><br>🔍 <strong>Şıkların Analizi:</strong><br>• <strong>A şıkkı:</strong> Uçmag (cennet) ve Tamu (cehennem) inancı ahiret inancının göstergesidir.<br>• <strong>B şıkkı:</strong> Yuğ, cenaze törenleridir (sagu adı verilen ağıtlar yakılır).<br>• <strong>C şıkkı (Yanlış ❌):</strong> Yabgu siyasi bir unvandır; din adamı \"Kam / Baksı\"dır.<br>• <strong>D şıkkı:</strong> Kut anlayışıdır.<br>• <strong>E şıkkı:</strong> Kurganlara eşyalarla gömülme (ahiret inancının kanıtıdır).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Eski Türklerde <strong>\"Ruhban Sınıfı\" (din adamları imtiyazı) YOKTUR</strong>. Din adamlarına Kam / Baksı denir; <strong>\"Yabgu\"</strong> ise batı kanadını yöneten prenstir."
+  },
+  {
+    "id": "tarih16_q19",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 19,
+    "questionText": "I. Şaman - Gizli güçleri olduğuna inanılan din adamı\nII. Esik Kurganı - Altın Adam zırhının bulunduğu Kazakistan’daki mezar\nIII. İpek Yolu - Çin’den başlayıp Orta Asya’yı geçerek Akdeniz ve Karadeniz’de sona eren ticaret yolu\nIV. İl - Belli toprağı ve hukuki düzeni olan siyasi topluluk\nV. Ekberiyet sistemi - Güçlü olanın tahta geçmesi usulü\n\nYukarıdakilerden hangisinin açıklaması karşısında yanlış olarak verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I."
+      },
+      {
+        "key": "B",
+        "text": "II."
+      },
+      {
+        "key": "C",
+        "text": "III."
+      },
+      {
+        "key": "D",
+        "text": "IV."
+      },
+      {
+        "key": "E",
+        "text": "V."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E (V.)</strong><br><br>📚 <strong>Veraset Sistemleri ve Tarihsel Terimler Analizi:</strong><br>• <strong>V. Öncül (Yanlış ❌):</strong> <strong>Ekber ve Erşed Sistemi</strong>, 17. yüzyılda I. Ahmed tarafından getirilen ve hanedanın <strong>\"en yaşlı (ekber) ve akli dengesi yerinde/olgun (erşed)\"</strong> üyesinin tahta geçmesini öngören sistemdir. <em>\"Güçlü olanın tahta geçmesi\"</em> usulü ise Memlüklerde ve klasik Türk verasetindeki taht kavgalarında geçerlidir.<br>• <strong>I. Öncül:</strong> Şaman / Kam, din adamıdır (Doğru).<br>• <strong>II. Öncül:</strong> Esik Kurganı, İskitlere (Sakalar) ait Altın Elbiseli Adam zırhının bulunduğu kurgandır (Doğru).<br>• <strong>III. Öncül:</strong> İpek Yolu, Çin'den Avrupa'ya uzanan tarihi kervan yoludur (Doğru).<br>• <strong>IV. Öncül:</strong> İl / El, devlet demektir (Doğru).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br><strong>Ekber = En Yaşlı / Büyük</strong>, <strong>Erşed = En Olgun / Akıllı</strong>. Ekberiyet sistemi taht kavgalarını önlemek amacıyla verasete yaş kuralı getirmiştir; güç kuralı değil!"
+  },
+  {
+    "id": "tarih16_q20",
+    "testId": "tarih16",
+    "topicId": "tarih",
+    "topicName": "Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)",
+    "category": "Tarih & Atatürkçülük",
+    "questionNumber": 20,
+    "questionText": "I. Turan (Hilal) taktiği\nII. Hayvan figürleri\nIII. İkili teşkilat\n\nTürk devletleriyle ilgili yukarıdaki kavramların sanatta betimleme, savaş yöntemi ve devlet yönetimi alanlarına göre doğru sıralanış biçimi aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II, III"
+      },
+      {
+        "key": "B",
+        "text": "I, III, II"
+      },
+      {
+        "key": "C",
+        "text": "II, I, III"
+      },
+      {
+        "key": "D",
+        "text": "II, III, I"
+      },
+      {
+        "key": "E",
+        "text": "III, I, II"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C (II, I, III)</strong><br><br>📚 <strong>Türk Kültür ve Medeniyeti Alan Eşleştirmesi:</strong><br>Soruda istenen sıralama: <strong>1. Sanatta betimleme, 2. Savaş yöntemi, 3. Devlet yönetimi</strong><br>• <strong>Sanatta betimleme:</strong> <strong>II. Hayvan figürleri</strong> (Eski Türk sanatındaki Hayvan Üslubu - pars, kartal, geyik, kurt motifleri).<br>• <strong>Savaş yöntemi:</strong> <strong>I. Turan (Hilal / Sahte Ricat) taktiği</strong> (Düşmanı çembere alarak imha etme stratejisi).<br>• <strong>Devlet yönetimi:</strong> <strong>III. İkili teşkilat</strong> (Ülkenin Doğu ve Batı şeklinde Kağan ve Yabgu tarafından yönetilmesi).<br><br>Doğru Sıralama: <strong>II - I - III</strong> (C şıkkı).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sıralama sorularında önce soru kökündeki sırayı numaralandırın:<br>1. Sanat → <strong>II. Hayvan figürleri</strong><br>2. Savaş → <strong>I. Turan taktiği</strong><br>3. Yönetim → <strong>III. İkili teşkilat</strong>"
   }
 ];

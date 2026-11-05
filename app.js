@@ -663,6 +663,14 @@ class EKYSApp {
             filterKey: 'tarih15',
             badge: '20 Soru • 2. Deneme'
           },
+          {
+            id: 'tarih16_direct',
+            name: '🚩 Genel Tarih Test 16 (Gökhan Hoca: Genel Tarih 1. Deneme)',
+            icon: '🚩',
+            desc: 'İslam Öncesi Türk Tarihi, Türk-İslam ve Selçuklu Teşkilat & Kültürü Karma Deneme (20 Soru).',
+            filterKey: 'tarih16',
+            badge: '20 Soru • 1. Deneme'
+          },
           {            id: 'ekys_2026_tarih_card',
             name: '📜 2026 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
@@ -867,6 +875,14 @@ class EKYSApp {
             icon: '🚩',
             desc: 'İslamiyet Öncesi Türk Tarihi, Türk-İslam Bilim İnsanları ve Osmanlı Kültür & Medeniyeti Karma Deneme (20 Soru).',
             filterKey: 'tarih15',
+            badge: '20 Soru'
+          },
+          {
+            id: 'tarih16',
+            name: 'Genel Tarih Test 16: Genel Tarih 1. Deneme (Gökhan Hoca Karma Deneme)',
+            icon: '🚩',
+            desc: 'İslam Öncesi Türk Tarihi, Türk-İslam ve Selçuklu Teşkilat & Kültürü Karma Deneme (20 Soru).',
+            filterKey: 'tarih16',
             badge: '20 Soru'
           },
           {
@@ -3298,6 +3314,7 @@ class EKYSApp {
       if (filterKey === 'tarih14_5') return (q.testId === 'tarih14_5');
       if (filterKey === 'tarih14') return (q.testId && q.testId.startsWith('tarih14_'));
       if (filterKey === 'tarih15') return (q.testId === 'tarih15');
+      if (filterKey === 'tarih16') return (q.testId === 'tarih16');
       if (filterKey === 'tarih_video4') return (q.testId === 'tarih4_2' || q.testId === 'tarih4_3' || q.testId === 'tarih_video4');
       if (filterKey === 'tarih_tarama') return (q.testId && (q.testId.startsWith('tarih') || q.testId.startsWith('tarih_video')));
 
