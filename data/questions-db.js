@@ -89372,7 +89372,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q1",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89409,7 +89409,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q2",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89446,7 +89446,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q3",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89483,7 +89483,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q4",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89520,7 +89520,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q5",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89557,7 +89557,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q6",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89594,7 +89594,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q7",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89631,7 +89631,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q8",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89668,7 +89668,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q9",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89705,7 +89705,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q10",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89742,7 +89742,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q11",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89779,7 +89779,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q12",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89816,7 +89816,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q13",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89853,7 +89853,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q14",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89890,7 +89890,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q15",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89927,7 +89927,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q16",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -89964,7 +89964,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q17",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90001,7 +90001,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q18",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90038,7 +90038,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q19",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90075,7 +90075,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q20",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90112,7 +90112,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q21",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90149,7 +90149,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q22",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90186,7 +90186,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q23",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90223,7 +90223,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q24",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90260,7 +90260,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_tymm6-q25",
     "testId": "egitim_tymm_6",
-    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "testTitle": "🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü",
     "topicId": "egitim_tymm_6",
     "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
     "category": "Türkiye Yüzyılı Maarif Modeli",
@@ -90297,7 +90297,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q1",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90334,7 +90334,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q2",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90371,7 +90371,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q3",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90408,7 +90408,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q4",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90445,7 +90445,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q5",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90482,7 +90482,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q6",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90519,7 +90519,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q7",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90556,7 +90556,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q8",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90593,7 +90593,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q9",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90630,7 +90630,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q10",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90667,7 +90667,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q11",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90704,7 +90704,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q12",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90712,7 +90712,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 12,
     "questionText": "Yanda 100 tavan puan üzerinden bir gruba uygulanmış sınavın sütun grafiği verilmiştir.<br><br>\n<b>Verilen grafik bilgisi ile ilgili olarak;</b><br>\nI. Puan aritmetik ortalaması hesaplanabilir.<br>\nII. Grubun mod puan değeri 27 dir.<br>\nIII. Sınavın standart sapması hesaplanabilir.<br><br>\n<b>ifadelerinden hangileri doğrudur?</b>",
     "hasImage": true,
-    "image": "images/questions/sedat_colak_q37_grafik.png",
+    "image": "images/questions/tymm_eb_q37_grafik.png",
     "options": [
       {
         "key": "A",
@@ -90741,7 +90741,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q13",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90749,7 +90749,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "questionNumber": 13,
     "questionText": "Aşağıda bir sınıfın notlarına ait dağılım grafiği verilmiştir.<br><br>\n<b>Bu grafiğe göre aşağıdaki yorumlardan hangisi yapılamaz?</b>",
     "hasImage": true,
-    "image": "images/questions/sedat_colak_q38_grafik.png",
+    "image": "images/questions/tymm_eb_q38_grafik.png",
     "options": [
       {
         "key": "A",
@@ -90778,7 +90778,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q14",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",
@@ -90815,7 +90815,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
   {
     "id": "egitim_oyt_olcme7-q15",
     "testId": "egitim_oyt_olcme_karma_7",
-    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "testTitle": "🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi",
     "topicId": "egitim_oyt_olcme_karma_7",
     "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
     "category": "Eğitim Bilimleri",

@@ -1800,7 +1800,7 @@ class EKYSApp {
           },
           {
             id: 'egitim_oyt_olcme_karma_7_eb',
-            name: '🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi',
+            name: '🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi',
             icon: '🎯',
             desc: 'Eğitim Felsefeleri, Posner Program Türleri, Gagne, Tam Öğrenme, İstasyon, Standart Sapma ve Tablo/Grafik Analizleri (15 Soru • Çözümlü).',
             filterKey: 'egitim_oyt_olcme_karma_7',
@@ -2060,7 +2060,7 @@ class EKYSApp {
           },
           {
             id: 'egitim_tymm_6',
-            name: '🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü',
+            name: '🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü',
             icon: '🌱',
             desc: 'Modelin Öğrenci Profili, Beceriler, Eğilimler, Okul Temelli Planlama ve Farklılaştırılmış Öğretim (25 Soru • Çözümlü).',
             filterKey: 'egitim_tymm_6',
