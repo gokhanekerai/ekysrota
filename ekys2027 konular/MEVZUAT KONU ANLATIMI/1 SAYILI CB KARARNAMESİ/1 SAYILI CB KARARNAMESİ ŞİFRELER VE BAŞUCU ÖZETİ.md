@@ -232,3 +232,4 @@ graph TD
 - 🔑 **"Arsa, bina, kamulaştırma, okul inşası"** ➔ `İnşaat ve Emlak GM`
 - 🔑 **"Afet, sivil savunma, kriz, seferberlik"** ➔ `Acil Durum ve Savunma Planlaması Dai. Bşk.`
 - 🔑 **"Emeklilik Ayları"** ➔ `Haziran - Temmuz (İstisna: İl norm fazlası + Bakanlık onayı)`
+

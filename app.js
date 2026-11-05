@@ -1799,6 +1799,14 @@ class EKYSApp {
             badge: '10 Soru • 5. Ders'
           },
           {
+            id: 'egitim_oyt_olcme_karma_7_eb',
+            name: '🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi',
+            icon: '🎯',
+            desc: 'Eğitim Felsefeleri, Posner Program Türleri, Gagne, Tam Öğrenme, İstasyon, Standart Sapma ve Tablo/Grafik Analizleri (15 Soru • Çözümlü).',
+            filterKey: 'egitim_oyt_olcme_karma_7',
+            badge: '📊 15 Soru • Karma Test'
+          },
+          {
             id: 'egitim_video_test_1_eb',
             name: '🎯 Eğitim Bilimleri Video Tarama Testi 1',
             icon: '🎯',
@@ -2049,6 +2057,14 @@ class EKYSApp {
             desc: '10 Alan Becerisi (Türkçe Anlama/Anlatma, Din Tatbik/Tilavet, Bilgi İşlemsel Düşünme), Öğrenme Çıktıları ve Bilgi Türleri (18 Soru • Yaprak Test 14).',
             filterKey: 'egitim_tymm_5',
             badge: '🌱 18 Soru • Test 5'
+          },
+          {
+            id: 'egitim_tymm_6',
+            name: '🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü',
+            icon: '🌱',
+            desc: 'Modelin Öğrenci Profili, Beceriler, Eğilimler, Okul Temelli Planlama ve Farklılaştırılmış Öğretim (25 Soru • Çözümlü).',
+            filterKey: 'egitim_tymm_6',
+            badge: '🌱 25 Soru • Test 6'
           },
           {
             id: 'maarif_2026',
@@ -3214,8 +3230,9 @@ class EKYSApp {
       if (filterKey === 'egitim_tymm_3' || filterKey === 'tymm_3') return (q.testId === 'egitim_tymm_3' || tId === 'egitim_tymm_3' || (tName.includes('beceriler ve eğilimler') && !tName.includes('kavramsal') && !tId.includes('tymm_4')));
       if (filterKey === 'egitim_tymm_4' || filterKey === 'tymm_4') return (q.testId === 'egitim_tymm_4' || tId === 'egitim_tymm_4');
       if (filterKey === 'egitim_tymm_5' || filterKey === 'tymm_5') return (q.testId === 'egitim_tymm_5' || tId === 'egitim_tymm_5');
+      if (filterKey === 'egitim_tymm_6' || filterKey === 'tymm_6') return (q.testId === 'egitim_tymm_6' || tId === 'egitim_tymm_6');
       if (filterKey === 'egitim_tymm_tum' || filterKey === 'tymm_all') {
-        return q.testId === 'egitim_tymm_1' || q.testId === 'egitim_tymm_2' || q.testId === 'egitim_tymm_3' || q.testId === 'egitim_tymm_4' || q.testId === 'egitim_tymm_5' || (q.testId && q.testId.startsWith('egitim_tymm_'));
+        return q.testId === 'egitim_tymm_1' || q.testId === 'egitim_tymm_2' || q.testId === 'egitim_tymm_3' || q.testId === 'egitim_tymm_4' || q.testId === 'egitim_tymm_5' || q.testId === 'egitim_tymm_6' || (q.testId && q.testId.startsWith('egitim_tymm_'));
       }
 
       // 1. Özel Video Tarama & Yeni Münferit Coğrafya & Eğitim Bilimleri Testleri
@@ -3265,6 +3282,9 @@ class EKYSApp {
       }
       if (filterKey === 'egitim_olcme_ders_5' || filterKey === 'olcme_ders_5') {
         return (q.testId === 'egitim_olcme_ders_5' || tId === 'egitim_olcme_ders_5');
+      }
+      if (filterKey === 'egitim_oyt_olcme_karma_7' || filterKey === 'oyt_olcme_7') {
+        return (q.testId === 'egitim_oyt_olcme_karma_7' || tId === 'egitim_oyt_olcme_karma_7');
       }
       if (filterKey === 'cogr1') return (q.testId === 'cogr1' || tId === 'cogr_tarama_1' || (tName.includes('tarama 1') && tName.includes('coğrafya')));
       if (filterKey === 'cogr2') return (q.testId === 'cogr2' || tId === 'cogr_tarama_2' || (tName.includes('tarama 2') && tName.includes('coğrafya')));

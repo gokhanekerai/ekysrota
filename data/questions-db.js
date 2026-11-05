@@ -89368,5 +89368,1485 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "C",
     "explanation": "✅ <strong>Doğru Cevap: C (II, I, III)</strong><br><br>📚 <strong>Türk Kültür ve Medeniyeti Alan Eşleştirmesi:</strong><br>Soruda istenen sıralama: <strong>1. Sanatta betimleme, 2. Savaş yöntemi, 3. Devlet yönetimi</strong><br>• <strong>Sanatta betimleme:</strong> <strong>II. Hayvan figürleri</strong> (Eski Türk sanatındaki Hayvan Üslubu - pars, kartal, geyik, kurt motifleri).<br>• <strong>Savaş yöntemi:</strong> <strong>I. Turan (Hilal / Sahte Ricat) taktiği</strong> (Düşmanı çembere alarak imha etme stratejisi).<br>• <strong>Devlet yönetimi:</strong> <strong>III. İkili teşkilat</strong> (Ülkenin Doğu ve Batı şeklinde Kağan ve Yabgu tarafından yönetilmesi).<br><br>Doğru Sıralama: <strong>II - I - III</strong> (C şıkkı).<br><br>💡 <strong>Gökhan Hoca / EKYS Sınav Tüyosu:</strong><br>Sıralama sorularında önce soru kökündeki sırayı numaralandırın:<br>1. Sanat → <strong>II. Hayvan figürleri</strong><br>2. Savaş → <strong>I. Turan taktiği</strong><br>3. Yönetim → <strong>III. İkili teşkilat</strong>"
+  },
+  {
+    "id": "egitim_tymm6-q1",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 1,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’negöre;<br>I. Farklılaştırılmış öğretim yaklaşımı benimsenmiştir.<br>II. Süreç ve durum temelli ölçme ve değerlendirme yaklaşımlarına yer verilmiştir.<br>III. Dijital yetkinliğe ve hayat boyu öğrenme kültürüne sahip bireyler yetiştirmek hedeflenir.<br><b>ifadelerinden hangisi ya da hangileri doğrudur?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\nTürkiye Yüzyılı Maarif Modeli'nin temel ilkeleri incelendiğinde:<br>\n• <strong>I. Farklılaştırılmış Öğretim:</strong> Model, bireysel farklılıkları zenginlik olarak görür; zenginleştirme ve destekleme mekanizmalarıyla farklılaştırılmış öğretim yaklaşımını merkeze alır.<br>\n• <strong>II. Süreç ve Durum Temelli Ölçme:</strong> Sadece sonuç odaklı tek tip sınavlar yerine, öğrencinin gelişimini izleyen biçimlendirici ve durum odaklı ölçme-değerlendirme yaklaşımları esas alınmıştır.<br>\n• <strong>III. Dijital Yetkinlik ve Hayat Boyu Öğrenme:</strong> Öğrencilerin çağın gerektirdiği bilişim/dijital yetkinlikleri kazanması ve eğitim bittikten sonra da hayat boyu öğrenme kültürünü sürdürmesi hedeflenir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Temel İlkeler ve Yaklaşım (Bölüm 1)</em>"
+  },
+  {
+    "id": "egitim_tymm6-q2",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 2,
+    "questionText": "Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli çerçevesinde yetiştirilmesi <br><b>amaçlanan bilge neslin özelliklerinden biri değildir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Etkin olarak medeniyet kurucusu ve geliştiricisi"
+      },
+      {
+        "key": "B",
+        "text": "Eleştirel düşünebilen, sorgulayan, araştıran, mesuliyet ve ülkü sahibi"
+      },
+      {
+        "key": "C",
+        "text": "Türk eğitim sisteminin amaçlarına uygun olarak toplumu ve ülkesini imar eden"
+      },
+      {
+        "key": "D",
+        "text": "Evrensel kabuller karşısında toplumsal ve kültürel değerleri tali değerler olarak kabul eden"
+      },
+      {
+        "key": "E",
+        "text": "Ahlaklı, erdemli, milleti ve insanlık için iyi, doğru, faydalı ve güzel olanı yapmayı ideal edinmiş"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Evrensel kabuller karşısında toplumsal ve kültürel değerleri tali değerler olarak kabul eden)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\nTürkiye Yüzyılı Maarif Modeli'nde yetiştirilmesi amaçlanan \"Bilge Nesil\"; kendi köklerinden, millî ve manevi kültüründen kopuk değil, aksine <strong>kendi medeniyet değerlerini merkeze alan ve evrensel birikimle harmanlayan</strong> bir nesildir.<br>\n• <strong>Tuzak / Hata:</strong> D seçeneğinde yer alan <i>\"toplumsal ve kültürel değerleri tali (ikincil, önemsiz) kabul etmek\"</i> ifadesi Maarif Modeli'nin temel felsefesine tamamen zıttır. Modelde millî ve ahlaki değerler tali değil, <strong>çatı ve asli değerlerdir</strong>.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>1.3. Öğrenci Profili: Bilge Nesil</em>"
+  },
+  {
+    "id": "egitim_tymm6-q3",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisi “Türkiye Yüzyılı Maarif Modeli” ile eğitim programlarına <br><b>entegre edilen yeniliklerden biri olarak gösterilemez?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sonuç yerine süreç odaklı ölçme değerlendirme yaklaşımları benimsenmiştir."
+      },
+      {
+        "key": "B",
+        "text": "Disiplinler üstü yaklaşımları destekleyen program dışı etkinliklere yer verilmektedir."
+      },
+      {
+        "key": "C",
+        "text": "Öğrencinin kendisini inşasına olanak sağlayan öğrenme yaşantıları öne çıkmaktadır."
+      },
+      {
+        "key": "D",
+        "text": "Bireysel farklılıklar azaltılarak öğrencilerin istendik yönde yetişmeleri sağlanmaktadır."
+      },
+      {
+        "key": "E",
+        "text": "Sosyal duygusal öğrenme becerileri öğrenci gelişiminin ayrılmaz bir parçası olarak  görülmektedir."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Bireysel farklılıklar azaltılarak öğrencilerin istendik yönde yetişmeleri sağlanmaktadır)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli'nde bireysel farklılıklar <strong>asla azaltılmaya çalışılmaz</strong>; tam tersine her öğrencinin fıtratından gelen bireysel ilgi, istidat ve yetenekleri bir zenginlik olarak kabul edilir ve bu farklılıklar doğrultusunda <strong>farklılaştırılmış öğretim</strong> yapılır.<br>\n• A, B, C ve E seçenekleri modelin en temel yenilikleridir (Süreç odaklı ölçme, disiplinler üstü program dışı etkinlikler, bireyin kendisini inşası ve sosyal-duygusal öğrenme becerileri - SDÖB).<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Öğretim Programlarının Temel Yaklaşımı</em>"
+  },
+  {
+    "id": "egitim_tymm6-q4",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 4,
+    "questionText": "Bir okulun rehber öğretmeni öğrencilerin zihin gelişimlerinin yanı sıra beden ve duygu yönünden de <br>gelişmelerinin önemli olduğunu her fırsatta dile getirmektedir. Ona göre bu doğrultuda bütüncül <br>gelişme, kişinin bir hem kendisi hem de toplum açısından sağlıklı ve dengeli bir insan olması anlamına <br>gelmektedir.<br>Buna göre rehber öğretmenin önem gösterdiği bu özellikler Türkiye Yüzyılı Maarif Modeli’nin<br><b>hangi öğrenci profiline işaret etmektedir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilimsel bütünlük"
+      },
+      {
+        "key": "B",
+        "text": "Ontolojik bütünlük"
+      },
+      {
+        "key": "C",
+        "text": "Epistemolojik bütünlük"
+      },
+      {
+        "key": "D",
+        "text": "Zamansal bütünlük"
+      },
+      {
+        "key": "E",
+        "text": "Aksiyolojik bütünlük"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Ontolojik bütünlük)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\nTürkiye Yüzyılı Maarif Modeli'nde öğrenci profili 4 temel bütünlük üzerine kurgulanmıştır:<br>\n• <strong>1. Ontolojik Bütünlük (Varlık Bütünlüğü):</strong> İnsanın akıl/zihin, beden, duygu ve ruh yönleriyle bir bütün olarak ele alınmasıdır. Soruda rehber öğretmenin \"zihin gelişiminin yanı sıra beden ve duygu yönünden de gelişmesi\" vurgusu doğrudan <strong>Ontolojik (Varlıksal) Bütünlük</strong> ile ilgilidir.<br>\n• <strong>Epistemolojik Bütünlük:</strong> Bilginin sadece ezber değil, eyleme ve bilgeliğe dönüşmesi.<br>\n• <strong>Aksiyolojik Bütünlük:</strong> Değerlerin bilişsel düzeyden tutum ve ahlaki eyleme dönüşmesi.<br>\n• <strong>Zamansal Bütünlük:</strong> Geçmişin mirası ile geleceğin vizyonunu bugünde buluşturmak.<br><br>\n💡 <strong>Sınav Tüyosu:</strong> \"Zihin + Beden + Duygu/Ruh birleşimi\" = <b>Ontolojik Bütünlük</b>!"
+  },
+  {
+    "id": "egitim_tymm6-q5",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 5,
+    "questionText": "Bir okulun Edebiyat öğretmeni edebi eserler üretebilmek için “dilin inceliklerini, söz sanatlarını ve <br>iletişim becerilerini başarılı bir şekilde kullanmanın” gerekliliğini vurgulamıştır. <br>Edebiyat öğretmeninin vurguladığı özellikler Türkiye Yüzyılı Maarif Modelinde yer alan <br><b>yetkin ve erdemli insan profillerinden hangisine karşılık gelmektedir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Belagat sahibi"
+      },
+      {
+        "key": "B",
+        "text": "Estetik duyarlılık sahibi"
+      },
+      {
+        "key": "C",
+        "text": "İletişime ve dayanışmaya açık"
+      },
+      {
+        "key": "D",
+        "text": "Sanatsal yeteneklerini bilen ve kullanan"
+      },
+      {
+        "key": "E",
+        "text": "Millî kültürüne ve manevi değerlerine bağlı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Belagat)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Öğrenci Profilinde yer alan <strong>\"Bilge İnsan\"</strong> özelliklerinden biri <strong>Belagat</strong>'tır.<br>\n• <strong>Belagat:</strong> Dili yerinde, güzel, etkili, incelikli ve amacına uygun kullanma, söz sanatlarına hakim olma, edebiyat ve hitabet inceliklerini sergileme becerisidir.<br>\n• Edebiyat öğretmeninin \"dilin inceliklerini, söz sanatlarını ve etkileyici ifade biçimlerini kullanarak edebi eser üretme\" vurgusu doğrudan <strong>Belagat</strong> kavramına karşılık gelir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Öğrenci Profili: Bilge İnsan (Belagat)</em>"
+  },
+  {
+    "id": "egitim_tymm6-q6",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 6,
+    "questionText": "Türkiye Yüzyılı Maarif Modeline yönelik düzenlenen bir eğitim etkinliğinde konuşan eğitmen yetkin <br>ve erdemli insan profillerinden bahsederken “üretken” profilin özelliklerini sıralamıştır.<br>Buna göre aşağıda yer alan ifadelerden hangisi konuşmacının sıraladığı özellikleri <br><b>içermektedir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çalışkan, yaratıcı, azimli ve sabırlı"
+      },
+      {
+        "key": "B",
+        "text": "Kendine güvenen, sorumluluk alan, kararlı ve iddialı"
+      },
+      {
+        "key": "C",
+        "text": "Güvenilir, dürüst, tabiata ve toplumsal sorunlara duyarlı"
+      },
+      {
+        "key": "D",
+        "text": "Bilgilerini paylaşan, belagat sahibi, bağımsız ve özgür düşünen"
+      },
+      {
+        "key": "E",
+        "text": "Türkçeye sahip çıkan, bayrağını seven, millî kültürüne ve manevi değerlere bağlı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Yalnız I)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• <strong>I. Ahlaklı:</strong> Doğru. Ahlaklı insan; şahsi çıkarları için başkalarının haklarını ihlal etmeyen, adalet ve dürüstlüğü hayat tarzı edinen kişidir.<br>\n• <strong>II. Estetik (Yanlış):</strong> Öncülde verilen \"zorluklar karşısında yılmayan ve hedeflerine bağlı kalan\" özellik estetik değil, <strong>Cesaretli/Azimli</strong> veya <strong>Metanet</strong> özelliğidir. Estetik; güzelliği fark etme, zarafet ve ölçülü olmadır.<br>\n• <strong>III. Üretken (Yanlış):</strong> \"Beden sağlığını korumak ve bağımlılıklardan uzak durmak\" üretken insan değil, <strong>Sağlıklı İnsan</strong> profilinin özelliğidir.<br>\nDolayısıyla yalnız I. öncül doğru eşleştirilmiştir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Yetkin ve Erdemli İnsan Özellikleri Tablosu</em>"
+  },
+  {
+    "id": "egitim_tymm6-q7",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 7,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde öğrencilerin becerilerini geliştirebilmeleri ve eyleme geçirebilmeleri için öğretim <br>programlarında temel bileşenlerden biri olarak yer alan eğilimler;<br> benlik eğilimleri, <br> sosyal eğilimler ve <br> entelektüel eğilimler <br>şeklinde sınıflandırılmıştır. <br><b>Buna göre aşağıdakilerden hangisi sosyal eğilimleri başlığı altında sınıflandırılan alt benlik alanlarından biridir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Analitiklik"
+      },
+      {
+        "key": "B",
+        "text": "Sorumluluk"
+      },
+      {
+        "key": "C",
+        "text": "Bağımsızlık"
+      },
+      {
+        "key": "D",
+        "text": "Sistematiklik"
+      },
+      {
+        "key": "E",
+        "text": "Azim ve Kararlılık"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Tutum)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli'nde becerilerin eyleme dönüşmesinde içsel itici güç ve yatkınlıklar <strong>Eğilimler ve Tutumlar</strong> olarak tanımlanır.<br>\n• Bilgi ve becerinin eyleme dökülmesi, bireyin olumlu tutum ve içsel kararlılık (eğilim) sergilemesiyle gerçekleşir. Öğretim süreçlerinde öğrencilerin olumlu bir yaklaşım ve motivasyon geliştirmesi tutum boyutuyla sağlanır.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Beceriler, Değerler ve Eğilimler Ağı</em>"
+  },
+  {
+    "id": "egitim_tymm6-q8",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 8,
+    "questionText": "Bir felsefe öğretmeni öğrencilerden planlama ve zaman yönetimine dikkat etmelerini, güvenilir bilgi <br>kaynaklarını kullanmalarını ve tüm süreç boyunca aktif olarak sorumluluk almalarını istemektedir.<br>Buna göre felsefe öğretmeninin öğrencilerde geliştirmeyi amaçladığı sosyal – duygusal <br><b>öğrenme becerisi aşağıdakilerden hangisidir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İletişim"
+      },
+      {
+        "key": "B",
+        "text": "Öz farkındalık"
+      },
+      {
+        "key": "C",
+        "text": "Öz düzenleme"
+      },
+      {
+        "key": "D",
+        "text": "Sosyal farkındalık"
+      },
+      {
+        "key": "E",
+        "text": "Sorumlu karar verme"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Öz Düzenleme)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Soruda felsefe öğretmeninin öğrencilerden istediği <i>\"kendi öğrenme sürecini planlama, zamanını yönetme, hedeflerine ulaşmak için stratejiler belirleme ve güvenilir kaynaklara ulaşma\"</i> becerisi literatürde ve Maarif Modeli'nde <strong>Öz Düzenleme Becerisi (E3.1)</strong> olarak yer alır.<br>\n• Öz düzenleme; bireyin kendi bilişsel süreçlerini, zamanını, kaynaklarını ve çalışma ortamını bilinçli şekilde yönetebilmesidir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM — <em>Kavramsal ve Sosyal-Duygusal Beceriler</em>"
+  },
+  {
+    "id": "egitim_tymm6-q9",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 9,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndeeğitim; yalnızca bireyin bilişsel gelişimini önceleyen bir süreç olarak değil, bireyin insanlık <br>ailesi içinde konumlanmasını, değer üretmesini ve sorumluluk bilinci geliştirmesini amaçlayan bütüncül bir yapı olarak ele <br>alınmaktadır. Bu bağlamda bilgi, salt aktarılması gereken bir içerik olmaktan çıkarak, bireyin topluma ve insanlığa karşı <br>yükümlülüklerini yerine getirmesinde işlevsel bir araç olarak kabul edilmektedir.<br>Buna göre Türkiye Yüzyılı Maarif Modeli’ninbilgi anlayışını en doğru biçimde yansıtan ifade aşağıdakilerden <br><b>hangisidir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilginin bireysel akademik başarıyı artıran bir araç olarak kullanılması"
+      },
+      {
+        "key": "B",
+        "text": "Bilginin mesleki yeterlilik kazandırma amacıyla disiplin temelli sunulması"
+      },
+      {
+        "key": "C",
+        "text": "Bilginin kültürel sürekliliği sağlamak için geleneksel yöntemlerle aktarılması"
+      },
+      {
+        "key": "D",
+        "text": "Bilginin, sorumluluk bilinciyle bütünleşerek insanın dengeli gelişimine ve toplumsal katkısına yönelmesi"
+      },
+      {
+        "key": "E",
+        "text": "Bilginin evrensel doğrular bütünü olarak bireye aktarılması ve ölçme-değerlendirme yoluyla denetlenmesi"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Aksiyolojik Bütünlük)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• <strong>Aksiyoloji:</strong> Değerler felsefesidir (ahlak, erdem, vicdan, adalet, merhamet).<br>\n• Soruda eğitimin yalnızca bilişsel bir süreç olmadığı, <i>\"bireyin insanlık ailesine karşı sorumluluklarını yerine getirmesi, ahlaki ve manevi olgunluğa erişmesi, erdemli davranışlar sergilemesi\"</i> yani <strong>değerler dünyası</strong> vurgulandığı için cevap <strong>Aksiyolojik Bütünlük</strong>'tür.<br><br>\n💡 <strong>Şifre:</strong> Ahlak, erdem, vicdan, değer = <b>Aksiyolojik Bütünlük</b>."
+  },
+  {
+    "id": "egitim_tymm6-q10",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 10,
+    "questionText": " Çeşitli olay/konu/durumları araştırma ve aralarındaki özellikleri ilişkilendirip genişleterek yargıya varma<br> Nesne, olgu ve olayları, gözlem ya da ölçme sonucunda belirlenen özelliklerine ve birbirleriyle ilişkilerine göre<br>gruplara ayırma<br> Birden fazla kavram veya durum arasındaki benzerlik ve farklılıkların belirlenmesi<br> Herhangi bir duruma duruma ilişkin farkında olma, anlamlı sorular sorma, bilgi edinme ve bunları değerlendirme<br>süreci<br>Yukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan bütünleşik beceri alanları ile eşleştirildiğinde<br><b>hangi bütünleşik beceri alanı dışarıda kalır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Genelleme becerisi"
+      },
+      {
+        "key": "B",
+        "text": "Muhakeme becerisi"
+      },
+      {
+        "key": "C",
+        "text": "Sorgulama becerisi"
+      },
+      {
+        "key": "D",
+        "text": "Karşılaştırma becerisi"
+      },
+      {
+        "key": "E",
+        "text": "Sınıflandırma becerisi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Çözümleme)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli Üst Düzey Düşünme Becerilerinden <strong>Çözümleme (KB3.1)</strong>; karmaşık durumları, metinleri veya olayları bileşenlerine ayırma, aralarındaki neden-sonuç ve mantıksal ilişkileri kurarak derinlemesine bir yargıya varma sürecidir.<br>\n• Verilen tanım doğrudan modelin Çözümleme becerisi basamaklarını yansıtmaktadır.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Kavramsal Beceriler Çerçevesi (KB3)</em>"
+  },
+  {
+    "id": "egitim_tymm6-q11",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 11,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndeyer alan kavramsal beceriler; karmaşık bir süreç gerektirmeden edinilen ve <br>gözlenebilen temel beceriler ile soyut fikirleri ve karmaşık süreçleri eyleme dönüştürürken zihinsel <br>faaliyetlerin bir ürünü olarak işe koşulan bütünleşik ve üst düzey düşünme becerilerini ifade eder. Aralarında <br>herhangi bir aşamalılık ilişkisi bulunmayan temel ve bütünleşik beceriler, üst düzey düşünme becerilerinin <br>hayata geçirilmesindeki alt yapıyı oluşturmaktadır.<br>Buna göre Türkiye Yüzyılı Maarif Modeli’ndeele alınan üst düzey düşünme becerileri hangi seçenekte <br><b>doğru olarak sıralanmıştır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Çelişki giderme becerisi, sorgulama becerisi ve yansıtma becerisi"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi toplama becerisi, sınıflandırma becerisi ve çözümleme becerisi"
+      },
+      {
+        "key": "C",
+        "text": "Yapılandırma becerisi, karşılaştırma becerisi ve sentezleme becerisi"
+      },
+      {
+        "key": "D",
+        "text": "Çıkarım yapma becerisi, muhakeme becerisi ve değerlendirme becerisi"
+      },
+      {
+        "key": "E",
+        "text": "Karar verme becerisi, problem çözme becerisi ve eleştirel düşünme becerisi"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Problem Çözme)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli'nde <strong>Temel Beceriler (KB1)</strong>; karmaşık zihinsel süreç gerektirmeyen, doğrudan gözlemleme, tanıma, adlandırma, özetleme gibi işlemlerdir.<br>\n• <strong>Problem Çözme</strong> ise Temel Beceri değil; Üst Düzey / Bütünleşik Düşünme (KB2/KB3) kategorisinde yer alan çok aşamalı, karmaşık ve üst bilişsel bir beceridir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Kavramsal Beceriler Sınıflandırması</em>"
+  },
+  {
+    "id": "egitim_tymm6-q12",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 12,
+    "questionText": "I. Bağımsızlık<br>II. Oyun severlik<br>III. Azim ve Kararlılık<br>Yukarıda yer alan eğilimlerden hangisi ya da hangileri Türkiye Yüzyılı Maarif Modeli’ndeyer <br><b>alan benlik eğilimleri kapsamında ele alınabilir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve II)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\nMaarif Modeli'nde <strong>Benlik Eğilimleri (E1)</strong>:<br>\n• <strong>I. Bağımsızlık:</strong> Bireyin kendi kararlarını alabilmesi (Benlik eğilimidir).<br>\n• <strong>II. Özgüven:</strong> Kendi yeteneklerine ve değerine inanması (Benlik eğilimidir).<br>\n• <strong>III. Merak:</strong> Benlik eğilimi değil, <strong>Entelektüel Eğilimler (E3)</strong> grubundadır (Merak, Sorgulama, Hakikati Arama).<br>\nBu nedenle I ve II doğru cevaptır.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Eğilimler Tablosu (Benlik / Sosyal / Entelektüel)</em>"
+  },
+  {
+    "id": "egitim_tymm6-q13",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 13,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde; “girişimcilik, mantıksal muhakeme, felsefi <br>sorgulama, zamanı algılama ve kronolojik düşünme” gibi beceriler hangi alan <br><b>becerileri kapsamında ele alınmaktadır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tasarım alan becerileri"
+      },
+      {
+        "key": "B",
+        "text": "Matematik alan becerileri"
+      },
+      {
+        "key": "C",
+        "text": "Fen bilimleri alan becerileri"
+      },
+      {
+        "key": "D",
+        "text": "Sosyal bilimler alan becerileri"
+      },
+      {
+        "key": "E",
+        "text": "Bilişim, teknoloji ve yazılım alan becerileri"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Matematik Alan Becerileri)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli'nde <strong>Matematik Alan Becerileri</strong>; matematiksel muhakeme, problem çözme, modelleme ve veri ile çalışma alt alanlarını kapsar.<br>\n• Soruda verilen girişimcilik, mantıksal muhakeme ve felsefi sorgulama ile matematiksel ilişkilerin kurulması doğrudan matematik alan becerilerinin entegrasyonuyla ilişkilendirilmiştir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM — <em>Alan Becerileri Öğretim Programları</em>"
+  },
+  {
+    "id": "egitim_tymm6-q14",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 14,
+    "questionText": " Farklı deneyimler, fikirler ve önerilere açık olabilmeyi içeren zihinsel örüntüler<br> Bir konu ya da davranışı öğrenme sürecinin keyifli ve eğlenceli hâle getirilebilmesine ilişkin zihinsel örüntüler<br> Bir işi yerine getirme konusundaki gayreti ve bu yöndeki kararları her türlü zorluğa karşı yılmaksızın uygulama çabası<br> Çeşitli durumların belirli bir yöntemle düzenli, örgütlü, odaklı ve gayretli şekilde ele alınmasına ilişkin zihinsel örüntüler<br>Yukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan öğrenci eğilimleri ile eşleştirildiğinde hangi eğilim <br><b>türü dışarıda kalır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Açık fikirlilik"
+      },
+      {
+        "key": "B",
+        "text": "Sistematiklik"
+      },
+      {
+        "key": "C",
+        "text": "Oyunseverlik"
+      },
+      {
+        "key": "D",
+        "text": "Eleştirel bakma"
+      },
+      {
+        "key": "E",
+        "text": "Azim ve kararlılık"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Açık Fikirlilik)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli Entelektüel Eğilimlerinde <strong>Açık Fikirlilik (E3.2)</strong>: Bireyin kendi ön yargılarından sıyrılarak farklı deneyimlere, alternatif fikirlere, eleştirilere ve yeni önerilere zihnini açık tutabilme yatkınlığıdır.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Entelektüel Eğilimler</em>"
+  },
+  {
+    "id": "egitim_tymm6-q15",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 15,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndedil, yalnızca iletişim aracı olarak değil; düşüncenin inşası, kültürün aktarımı ve insanın <br>kendini gerçekleştirmesi için temel bir unsur olarak ele alınmaktadır. Türkçenin doğru, etkili ve estetik kullanımına yapılan<br>vurgu; bireyin zihinsel gelişimi ile toplumsal bütünlüğün birlikte ele alındığını göstermektedir. Bu yaklaşım, dil öğretiminin <br>araçsal değil kurucu bir işleve sahip olduğunu ortaya koymaktadır.<br><b>Bu çerçevede aşağıdaki uygulamalardan hangisi metinde belirtilen Türkçe öğretimi anlayışıyla en az örtüşür?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkçenin disiplinler arası çalışmalarda ortak düşünme dili olarak kullanılması"
+      },
+      {
+        "key": "B",
+        "text": "Dil öğretiminin kültürel değer aktarımıyla ilişkilendirilmesi"
+      },
+      {
+        "key": "C",
+        "text": "Türkçenin yalnızca dil bilgisi kuralları çerçevesinde öğretilmesi"
+      },
+      {
+        "key": "D",
+        "text": "Öğrencilerin ifade, anlama ve anlamlandırma becerilerinin geliştirilmesi"
+      },
+      {
+        "key": "E",
+        "text": "Dilin bireyin kendini ve toplumu kavrama sürecinde temel araç olarak görülmesi"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Türkçe Alan Becerileri)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Modelde dil (Türkçe), sadece bir iletişim vasıtası değil; <strong>düşüncenin evi, medeniyetin taşıyıcısı ve kültürel inşanın temelidir</strong>.<br>\n• Bu vizyon doğrudan <strong>Türkçe Alan Becerileri (Dinleme, Konuşma, Okuma, Yazma / Anlama-Anlatma)</strong> çerçevesinde tanımlanmıştır.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Dil ve Kültürün İnşası</em>"
+  },
+  {
+    "id": "egitim_tymm6-q16",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 16,
+    "questionText": " Öğrenme sürecinde ele alınan bilgi kümesini ifade eder.<br> Öğrenme çıktılarının değerlendirilmesi ile uygun ölçme ve değerlendirme araçlarını ifade eder.<br> Öğrenme çıktıları, eğilim, programlar arası bileşenler ve öğrenme kanıtları arasında kurulan ve anlamlı ilişkilere dayanan <br>öğrenme-öğretme sürecini ifade eder.<br> Bilgi ve beceriler ile günlük hayat deneyimleri arasında bağ kurmayı ifade eder.<br>Yukarıdaki ifadeler Türkiye Yüzyılı Maarif Modeli’ninaşağıdaki bileşenleri ile eşleştirildiğinde hangisi <br><b>dışarıda kalır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Köprü kurma"
+      },
+      {
+        "key": "B",
+        "text": "İçerik çerçevesi"
+      },
+      {
+        "key": "C",
+        "text": "Öğrenme çıktıları"
+      },
+      {
+        "key": "D",
+        "text": "Öğrenme kanıtları"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenme – öğretme yaşantıları"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (İçerik Çerçevesi)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Program geliştirme bileşenlerinden <strong>İçerik Çerçevesi</strong>; öğrenme sürecinde öğrencilere kazandırılması hedeflenen bilgi, tema, konu, kavram ve olgular kümesini ifade eder.<br>\n• Öğrenme çıktılarına ulaşmak için kullanılan somut bilgi kümesi ve bağlam bütünüdür.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Program Bileşenleri</em>"
+  },
+  {
+    "id": "egitim_tymm6-q17",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 17,
+    "questionText": "Bir öğretmen, Türkiye Yüzyılı Maarif Modeli çerçevesinde öğrencilerinin; kendi hak ve özgürlüklerini koruma, <br>sorumluluklarının bilincinde olma, tüm canlıların yaşam haklarına saygı duyma ve sınırlı kaynakları koruma <br>bilgi, beceri ve yeterliliğine sahip olmalarını hedeflemektedir.<br>Bu öğretmenin öğrencilerine kazandırmak istediği okuryazarlık türleri aşağıdakilerin hangisinde <br><b>birlikte verilmiştir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dijital – Kültür"
+      },
+      {
+        "key": "B",
+        "text": "Vatandaşlık – Kültür"
+      },
+      {
+        "key": "C",
+        "text": "Dijital - Sürdürülebilirlik"
+      },
+      {
+        "key": "D",
+        "text": "Kültür – Sürdürülebilirlik"
+      },
+      {
+        "key": "E",
+        "text": "Vatandaşlık – Sürdürülebilirlik"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Sosyal ve Duygusal Öğrenme Becerileri)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Öğrencilerin kendi hak ve özgürlüklerini korurken başkalarının sınırlarına saygı göstermesi, empati kurması, çatışma çözme ve iş birliği içinde hareket etmesi doğrudan <strong>Sosyal ve Duygusal Öğrenme Becerileri (SDÖB)</strong> kapsamındadır.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM — <em>Sosyal ve Duygusal Beceriler</em>"
+  },
+  {
+    "id": "egitim_tymm6-q18",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 18,
+    "questionText": "Erdem – Değer – Eylem Çerçevesi'nde çatı değerler etrafında kümelenen bir değer çerçevesi sunulmaktadır. <br>Çatı değerler, diğer bütün değerler ile yoğun kesişim noktaları olan değer yapılarını ifade etmektedir. Bu <br>bağlamda Türkiye Yüzyılı Maarif Modeli Erdem – Değer – Eylem Çerçevesi kapsamında üç çatı değer <br>belirlenmiştir.<br><b>Belirlenen bu çatı değerler hangi seçenekte doğru olarak verilmiştir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Estetik, cesaret ve bilgelik"
+      },
+      {
+        "key": "B",
+        "text": "Saygı, sorumluluk ve adalet"
+      },
+      {
+        "key": "C",
+        "text": "Üretkenlik, vatanseverlik ve adalet"
+      },
+      {
+        "key": "D",
+        "text": "Estetik, sorumluluk ve üretkenlik"
+      },
+      {
+        "key": "E",
+        "text": "Saygı, cesaret ve vatanseverlik"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Adalet)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli <strong>Erdem - Değer - Eylem Çerçevesi</strong>'nde 3 büyük Çatı Değer bulunur: <strong>Adalet, Hikmet, Merhamet</strong>.<br>\n• Hakkaniyet, eşitlik, dürüstlük, emanet bilinci ve hak yememe gibi erdemler doğrudan <strong>Adalet Çatı Değeri</strong> etrafında kümelenmiştir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Erdem-Değer-Eylem Modeli</em>"
+  },
+  {
+    "id": "egitim_tymm6-q19",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 19,
+    "questionText": "Bir okulda yürütülen program dışı etkinlikler kapsamında öğrenciler, yerel bir sosyal soruna yönelik gönüllülük temelli bir <br>projeye katılmıştır. Süreç sonunda öğretmenler, öğrencilerin problem çözme, sorumluluk alma ve toplumsal farkındalık <br>becerilerinde gelişim gözlemlemiş; bu gözlemleri zümre toplantılarında paylaşarak öğretim sürecine yönelik yeni <br>düzenlemeler yapmıştır. Bu uygulamanın sonucunda öğrencilerin okul dışında da benzer etkinliklere yönelmesi dikkat <br>çekmiştir.<br><b>Bu durum Türkiye Yüzyılı Maarif Modeli’negöre aşağıdakilerin hangisinin birlikte işlediğini göstermektedir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Akademik başarı – fiziksel gelişim"
+      },
+      {
+        "key": "B",
+        "text": "Öğretmen rehberliği – standartlaştırma"
+      },
+      {
+        "key": "C",
+        "text": "Program dışı etkinlik – ölçme ve değerlendirme"
+      },
+      {
+        "key": "D",
+        "text": "Destekleme – zenginleştirme – bireysel gelişim"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal sorumluluk – öğretmen yansıtması – hayat boyu öğrenme"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Program Dışı Etkinlikler)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli'nde okul sadece 4 duvar arası ders işlenen yer değildir. Sosyal sorumluluk, toplum hizmeti, gönüllülük ve kulüp faaliyetleri <strong>Program Dışı Etkinlikler</strong> kapsamında resmî programın ayrılmaz bir destekleyicisi olarak konumlandırılmıştır.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Program Dışı Etkinlikler Çerçevesi</em>"
+  },
+  {
+    "id": "egitim_tymm6-q20",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 20,
+    "questionText": "İnsan; doğası gereği çok yönlü bir varlıktır. Bu doğrultuda insanın zihinsel, sosyal, duygusal, fiziksel, ahlaki bakımdan çok yönlü <br>gelişimini destekleme ihtiyacı “bütüncül eğitim yaklaşımı”nı gerektirmektedir. Bütüncül eğitim yaklaşımı esas alınarak oluşturulan <br>Türkiye Yüzyılı Maarif Modeli, çok yönlü bir varoluşu gerçekleştirme çabasıdır. <br><b>Buna göre aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Model’ine uygun bir görüş olamaz?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İnsan, kendi yeteneklerini ve potansiyelini gerçekleştirmeyi hedefleyerek, toplumsal beklentilere göre değil bireysel  beklentilere göre şekillenir."
+      },
+      {
+        "key": "B",
+        "text": "Öğrenme‐öğretme yaşantıları; öğrencinin aktif ve çevresiyle etkileşim içinde olduğu, öğrenme sorumluluğunu aldığı öğrenme  yaklaşımları etrafında şekillenir."
+      },
+      {
+        "key": "C",
+        "text": "Yarıştırıcı ve ayrıştırıcı anlayışlardan uzak, bireysel farklılıkları göz önünde bulunduran farklılaştırılmış öğretim yaklaşımı  benimsenmiştir."
+      },
+      {
+        "key": "D",
+        "text": "Akran geri bildirimi ve işbirlikli öğrenme fırsatları sağlayarak öğrencilerin birbirlerinden öğrenmelerini teşvik edilmelidir."
+      },
+      {
+        "key": "E",
+        "text": "Her öğrencinin kendini tanıması ve keşfetmesine imkân tanınarak ilgi, ihtiyaç, yetenekleri ölçüsünde esnek ve özgür öğrenme  ortamlarının yaygınlaştırıldığı hak ve gelişim temelli bir öğrenme süreci inşa edilir."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İnsan, toplumsal beklentilere göre değil bireysel beklentilere göre şekillenir)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Maarif Modeli insanı hem kendi yeteneklerini geliştiren bir birey hem de toplumuna, vatanına ve medeniyetine karşı mesuliyet sahibi olan bir varlık olarak görür.<br>\n• İnsanı sadece bencil bireysel beklentilere hapseden, toplumdan ve ahlaki sorumluluktan koparan anlayış modele aykırıdır. Modelde <strong>fert ve cemiyet dengesi</strong> esastır.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Bütüncül İnsan Tasavvuru</em>"
+  },
+  {
+    "id": "egitim_tymm6-q21",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 21,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nin, “yarıştırıcı ve ayrıştırıcı anlayışlardan uzak durarak <br>bireysel farklılıkları merkeze alan bir öğretim yaklaşımı benimseyerek öğrencilerin ilgi, ihtiyaç <br>ve yeteneklerine göre öğrenme deneyimleri yaşamalarını amaçlaması” aşağıdaki <br><b>uygulamalardan hangisini gerekli kılmaktadır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tüm öğrenciler için aynı hızda ilerleyen öğretim süreci"
+      },
+      {
+        "key": "B",
+        "text": "Farklılaştırılmış öğretim stratejilerinin kullanılması"
+      },
+      {
+        "key": "C",
+        "text": "Öğrencilerin performanslarının birbirleriyle kıyaslanması"
+      },
+      {
+        "key": "D",
+        "text": "Başarı ölçütlerinin tek bir standartta belirlenmesi"
+      },
+      {
+        "key": "E",
+        "text": "Rekabeti artırmaya yönelik uygulamaların yaygınlaştırılması"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Farklılaştırılmış öğretim stratejilerinin kullanılması)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Yarıştırıcı, tek tip ve elemeci sınav odaklı anlayıştan uzaklaşarak bireysel farklılıkları merkeze almak ancak <strong>Farklılaştırılmış Öğretim</strong> (İçerik, Süreç, Ürün ve Öğrenme Ortamı uyarlamaları) ile mümkündür.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM — <em>Farklılaştırılmış Öğretim Kılavuzu</em>"
+  },
+  {
+    "id": "egitim_tymm6-q22",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 22,
+    "questionText": "Bir öğretmen, zenginleştirme çalışmalarında sadece daha fazla soru çözmek yerine öğrencilerden, edindikleri <br>bilgileri yeni bağlamlarda kullanmaları, disiplinler arası ilişkiler kurmaları ve özgün ürünler ortaya koymaları <br>beklenmiştir. Bu sayede öğrencilerin üst düzey düşünme becerileri ön plana çıkartmıştır.<br>Öğretmenin bu zenginleştirme anlayışı Türkiye Yüzyılı Maarif Modeli’negöre hangi amaca hizmet <br><b>etmektedir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğrenme süresini kısaltmaya"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme sonuçlarını standartlaştırmaya"
+      },
+      {
+        "key": "C",
+        "text": "Derinlemesine ve anlamlı öğrenmeyi sağlamaya"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmen denetimini güçlendirmeye"
+      },
+      {
+        "key": "E",
+        "text": "Akademik rekabeti artırmaya"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Derinlemesine ve anlamlı öğrenmeyi sağlamaya)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Zenginleştirme (enrichment); hızlı öğrenen öğrencilere sadece daha çok test çözdürmek (nicelik artışı) değildir.<br>\n• Öğrencinin edindiği bilgiyi yeni alanlara transfer etmesini, derinleşmesini, eleştirel ve üretken düşünmesini sağlayarak <strong>anlamlı ve derinlemesine öğrenmeyi</strong> temin etmektir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM — <em>Zenginleştirme ve Destekleme Uygulamaları</em>"
+  },
+  {
+    "id": "egitim_tymm6-q23",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 23,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nintemel unsurlarından biri olan okul temelli planlama; zümre öğretmenler kurulu tarafından ders kapsamında <br>gerçekleştirilmesi kararlaştırılan araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma etkinlikleri gibi çalışmalara <br>ayrılan süreyi ifade etmektedir. Bu kapsamda öğretmenlere öğretim programını uyarlama imkânı tanınarak esneklik sağlanması <br>amaçlanmıştır.<br>Buna göre aşağıdakilerden hangisi okul temelli planlama çalışmalarında;<br>I. Öğrenme çıktıları<br>II. Türk Millî Eğitimi'nin Temel İlkeleri<br>III. Öğretim programlarının genel amaçları <br><b>unsurlarından hangisini ya da hangilerini dikkate alınması gerekmektedir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\nOkul temelli planlamada zümre öğretmenleri dersi yerel ihtiyaçlara ve öğrencilere göre uyarlarken:<br>\n• <strong>I. Öğrenme Çıktılarını:</strong> Esas almak zorundadır (kazanım/çıktı birliği).<br>\n• <strong>II. Türk Millî Eğitimi'nin Temel İlkelerini:</strong> (1739 sayılı kanun ilkeleri) ihlal edemez.<br>\n• <strong>III. Öğretim Programlarının Genel Amaçlarını:</strong> Korumak ve gözetmek durumundadır.<br>\nDolayısıyla her üç unsur da zorunlu kılavuzdur.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Okul Temelli Planlama Esasları</em>"
+  },
+  {
+    "id": "egitim_tymm6-q24",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 24,
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde “öğrencilerin farklı disiplinlerde öğrendikleri ön <br>bilgileri sentezleyerek yeni bilgiyi yapılandırmalarını ve bu süreçte de bilimsel araştırma <br>basamaklarını kullanarak bir ürün oluşturmalarını odağa alan bir yaklaşım” olarak ifade <br><b>edilen öğrenme yaklaşımı aşağıdakilerden hangisidir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sorgulamaya dayalı öğrenme"
+      },
+      {
+        "key": "B",
+        "text": "Bağlam temelli öğrenme"
+      },
+      {
+        "key": "C",
+        "text": "Yaşantı temelli öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Proje temelli öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "İş birlikli öğrenme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Proje temelli öğrenme)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• Farklı disiplinlerden gelen ön bilgilerin sentezlenmesi, bilimsel araştırma basamaklarının işletilmesi ve süreç sonunda somut/özgün bir <strong>ÜRÜN</strong> veya rapor ortaya konması <strong>Proje Tabanlı Öğrenme Yaklaşımı</strong>'nın belirleyici tanımıdır.<br><br>\n💡 <strong>Şifre:</strong> Disiplinlerarası sentez + Bilimsel araştırma adımları + <b>Ürün oluşturma</b> = Proje Tabanlı Öğrenme!"
+  },
+  {
+    "id": "egitim_tymm6-q25",
+    "testId": "egitim_tymm_6",
+    "testTitle": "🌱 TYMM Test 6: Sedat Çolak Kapsamlı TYMM Soru Fasikülü",
+    "topicId": "egitim_tymm_6",
+    "topicName": "Türkiye Yüzyılı Maarif Modeli (Kapsamlı Soru Fasikülü)",
+    "category": "Türkiye Yüzyılı Maarif Modeli",
+    "icon": "🌱",
+    "questionNumber": 25,
+    "questionText": "Bir öğretmen sınıfta “Bir arkadaşının sırrını korumak mı, yoksa gerçeği söylemek mi doğrudur?” <br>konulu bir tartışma etkinliği düzenlemiştir. Bu tartışmada öğrenciler, hem farklı değerlerin <br>çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş etmiş hem de kendi düşüncelerini <br>açıklama imkanı bulmuşlardır.<br>Öğretmen yapmış olduğu bu uygulamada hangi değer kazandırma yaklaşımlarını bir arada <br><b>kullanmıştır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Değer aşılama – Örtük öğrenme"
+      },
+      {
+        "key": "B",
+        "text": "Ahlaki Muhakeme – Değer açıklama"
+      },
+      {
+        "key": "C",
+        "text": "Ahlaki muhakeme – Değer analizi"
+      },
+      {
+        "key": "D",
+        "text": "Değer açıklama – Eylem öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "Değer aşılama – Ahlaki muhakeme"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Ahlaki muhakeme – Değer analizi)<br><br>\n🎯 <strong>Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br>\n• <strong>Ahlaki Muhakeme (Kohlberg):</strong> İkilem (dilemma) durumlarında (arkadaşının sırrını tutmak mı doğru, gerçeği söylemek mi?) iki doğru/yanlış arasında kalarak ahlaki gerekçelendirme yapmaktır.<br>\n• <strong>Değer Analizi:</strong> Değer çatışmalarını eleştirel, rasyonel ve mantıksal kanıtlarla inceleme sürecidir.<br>\nÖğretmen ikilemli durum üzerinden değer çatışmasını analiz ettirdiği için bu iki yaklaşımı birleştirmiştir.<br><br>\n📖 <strong>Resmî Kaynak:</strong> MEB TYMM Değerler Eğitimi Modülü & Eğitim Bilimleri ÖYT"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q1",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 1,
+    "questionText": "Matematik dersinde, öğretmen ile öğrenciler arasında geçen bir konuşma şöyledir:<br>Öğretmen: Şimdi öğreneceğimiz çok zor bir konu ama disiplinli çalışırsanız öğrenirsiniz. Yaşam, kurallı ve disiplinli olmayı gerektirir.<br>Zeynep: Öğretmenim tahtadaki şekli defterime yan olarak çizebilir miyim?<br>Öğretmen: Hayır, ben ne yapıyorsam aynısını yapın. Siz her şeyi benden öğreniyorsunuz.<br>Selim: Öğretmenim ben o soruyu formül kullanmadan başka bir yoldan da çözdüm, isterseniz göstereyim.<br>Öğretmen: Benim verdiğim formülü ezberle ve o şekilde çöz. Sınavda formülsüz çözümleri kabul etmeyeceğim. Bu formüller yüzyıllardır <br>kullanılıyor, sen de kullan.<br><b>Bu örnekteki öğretmen hangi eğitim felsefesine göre davranmaktadır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Daimîcilik"
+      },
+      {
+        "key": "B",
+        "text": "Esasicilik"
+      },
+      {
+        "key": "C",
+        "text": "İlerlemecilik"
+      },
+      {
+        "key": "D",
+        "text": "Yeniden kurmacılık"
+      },
+      {
+        "key": "E",
+        "text": "Yararcılık"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Esasicilik)<br><br>\n🎯 <strong>Pedagojik Analiz (Eğitim Felsefeleri):</strong><br>\n• Öğretmenin replikleri incelendiğinde:<br>\n  - <i>\"Çok zor bir konu ama disiplinli çalışırsanız öğrenirsiniz.\"</i> (Disiplin ve sıkı çalışma esastır).<br>\n  - <i>\"Hayır, ben ne yapıyorsam aynısını yapın. Siz her şeyi benden öğreniyorsunuz.\"</i> (Öğretmen otoritedir, öğrenci pasif alıcıdır).<br>\n  - <i>\"Benim verdiğim formülü ezberle ve o şekilde çöz.\"</i> (Ezber ve geleneksel yöntem).<br>\n• Bu katı, öğretmen merkezli ve disiplini önceleyen anlayış klasik <strong>Esasicilik (Essentialism)</strong> felsefesidir.<br><br>\n💡 <strong>Sınav Tüyosu:</strong> Öğretmen mutlak otorite, sıkı disiplin, ezber ve konu odaklılık = <b>Esasicilik</b>."
+  },
+  {
+    "id": "egitim_oyt_olcme7-q2",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 2,
+    "questionText": "İngilizceyi yabancı dil olarak öğreten bir özel okul, bu dili daha doğal ve İngiliz aksanına uygun şekilde konuşmaları <br>için öğrencilerini bir program dâhilinde düzenli aralıklarla İngiltere'ye götürür. Bu gezilerden sonra yetkililer, <br>öğrencilerin İngilizceyi istenilen şekilde konuştuklarını, ayrıca öğrencilerin İngiliz arkadaşlarına Türk kültürü <br>hakkında pek çok şey öğrettiklerini ve onlardan İngiliz kültürü hakkında pek çok bilgi edindiklerini belirler.<br>Özel okulun, öğrencilerini İngilizceyi daha doğal ve İngiliz aksanına uygun şekilde konuşmaları için <br><b>İngiltere'ye götürmesi aşağıdaki program türlerinden hangisinin kapsamına girer?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Uygulamadaki program"
+      },
+      {
+        "key": "B",
+        "text": "İhmal edilen program"
+      },
+      {
+        "key": "C",
+        "text": "Öğretim programı"
+      },
+      {
+        "key": "D",
+        "text": "Ekstra program"
+      },
+      {
+        "key": "E",
+        "text": "Örtük program"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Ekstra program)<br><br>\n🎯 <strong>Pedagojik Analiz (Posner Program Türleri):</strong><br>\n• <strong>Ekstra Program:</strong> Okulun planlaması ve gözetimi altında yapılan, resmî ders programının dışında kalan; okul korosu, geziler, yurt dışı dil kampları, spor turnuvaları ve kulüp faaliyetleri gibi gönüllü/ek etkinliklerdir.<br>\n• Soruda özel okulun planlı olarak öğrencileri İngiltere gezisine götürmesi resmî ders saatleri dışındaki planlı bir okul faaliyeti olduğu için <strong>Ekstra Program</strong>'dır.<br>\n• (Öğrencilerin gezi sırasında plansız olarak arkadaşlarına Türk kültürünü öğretmesi örtük program ürünü olsa da sorunun kökünde İngiltere'ye götürülme planı sorulmaktadır).<br><br>\n📖 <strong>Kaynak:</strong> Program Geliştirme — Posner Program Sınıflandırması"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q3",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 3,
+    "questionText": "Milli Eğitim Bakanlığı, ortaöğretimde her öğrenci için bireysel elektronik deney seti dağıtmayı <br>planlamaktadır. Ülke genelinde yaygınlaştırmadan önce seçilen 5 pilot okul öğrencilerine bu deney <br>setleri dağıtılmıştır. Öğretim süreçleri sonucunda pilot okullardaki öğrencilerle deney seti dağıtılmayan <br>öğrencilerin hedef davranışlara ulaşma düzeyleri karşılaştırılmıştır. Deney seti dağıtılan öğrencilerde <br>hedef davranışlara ulaşma açısından büyük bir gelişme olmadığı için projeden vazgeçilmiştir.<br>Öğrencilere dağıtılacak deney setine ilişkin bir eğitim ihtiyacının olup olmadığı, hangi yaklaşım <br><b>kullanılarak belirlenmiştir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Demokratik"
+      },
+      {
+        "key": "B",
+        "text": "Betimsel"
+      },
+      {
+        "key": "C",
+        "text": "Analitik"
+      },
+      {
+        "key": "D",
+        "text": "Farklar"
+      },
+      {
+        "key": "E",
+        "text": "Delphi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Betimsel Yaklaşım)<br><br>\n🎯 <strong>Pedagojik Analiz (İhtiyaç Belirleme Yaklaşımları):</strong><br>\n• <strong>Betimsel (Descriptive) Yaklaşım:</strong> Bir eğitim uygulamasının, eğitim aracının veya programın varlığı ile yokluğu arasındaki farkı ortaya koyarak; uygulandığında hedef davranışlarda ne ölçüde bir fayda/gelişme sağlandığını tespit etmektir.<br>\n• Soruda deney seti dağıtılan pilot okulla dağıtılmayan okullar karşılaştırılmış, hedef davranışlara ulaşmada anlamlı bir fark oluşmadığı görülünce ihtiyaç olmadığı belirlenmiştir.<br><br>\n💡 <strong>Şifre:</strong> Bir materyalin varlığı ile yokluğu arasındaki faydayı ölçmek = <b>Betimsel Yaklaşım</b>!"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q4",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 4,
+    "questionText": "Önceki öğrenmeler gerçekleşmeden yeni kazanımların sağlıklı biçimde oluşturulamayacağını <br>düşünen bir matematik öğretmeni öğretim programını planlarken konuların belirli bir sıra <br>izlemesine özellikle dikkat etmektedir. Bu bağlamda, öğrenciler temel işlemleri öğrenmeden <br>problem çözmeye, problem çözmeden cebirsel ifadelere geçememektedir.<br><b>Bu öğretmenin benimsediği içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sarmal programlama yaklaşımı"
+      },
+      {
+        "key": "B",
+        "text": "Modüler programlama yaklaşımı"
+      },
+      {
+        "key": "C",
+        "text": "Çekirdek programlama yaklaşımı"
+      },
+      {
+        "key": "D",
+        "text": "Piramitsel programlama yaklaşımı"
+      },
+      {
+        "key": "E",
+        "text": "Doğrusal programlama yaklaşımı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Doğrusal programlama yaklaşımı)<br><br>\n🎯 <strong>Pedagojik Analiz (İçerik Düzenleme Yaklaşımları):</strong><br>\n• <strong>Doğrusal Yaklaşım (Tyler):</strong> Konuların önkoşul ilişkisine göre ardışık, aşamalı ve katı bir sıra izlediği tasarımdır. Bir konu öğrenilmeden sonraki konuya asla geçilemez (Örn: Toplama öğrenilmeden çarpma, çarpma öğrenilmeden bölme öğrenilemez).<br>\n• Soruda öğretmenin \"önceki öğrenmeler olmadan yeni kazanıma geçilemeyeceği, aşamalı sıra izlendiği\" vurgusu tam bir doğrusal tasarımdır.<br><br>\n💡 <strong>Şifre:</strong> Aşamalı sıra + Katı önkoşul ilişkisi = <b>Doğrusal Programlama</b>."
+  },
+  {
+    "id": "egitim_oyt_olcme7-q5",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 5,
+    "questionText": "Bir öğretmen sınıfında öğrencilerin yeteneklerini, ilgilerini ve öğrenme düzeylerini dikkate <br>almaktadır. Öğrenciler arasında seviye grupları oluşturmadan aynı sınıf ortamında bireysel <br>özelliklere hitap edilmesi gerektiğini düşünmektedir. Öğrencilerin hazırbulunuşluk düzeyi ve <br>öğrenme stilleri gibi özelliklerine göre kavram haritası oluşturma, bulmaca çözme, öykü oluşturma, <br>tartışma, deney, rol oynama gibi yöntem ve tekniklerle öğretim sürecini zenginleştirmektedir.<br><b>Bu öğretmen aşağıdaki model veya yaklaşımlardan hangisini temel almaktadır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "B",
+        "text": "Harmanlanmış öğrenme"
+      },
+      {
+        "key": "C",
+        "text": "Probleme dayalı öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Farklılaştırılmış öğretim"
+      },
+      {
+        "key": "E",
+        "text": "Programlı öğretim"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Farklılaştırılmış öğretim)<br><br>\n🎯 <strong>Pedagojik Analiz (Öğretim Modelleri):</strong><br>\n• Öğretmenin öğrencileri seviye gruplarına ayırmadan, aynı sınıf içerisinde onların hazırbulunuşluk düzeyleri, öğrenme stilleri ve ilgi alanlarına göre kavram haritası, drama, bulmaca, rol oynama gibi çoklu tekniklerle süreci çeşitlendirmesi <strong>Farklılaştırılmış Öğretim (Tomlinson)</strong> modelidir.<br><br>\n📖 <strong>Kaynak:</strong> Öğretim İlke ve Yöntemleri & MEB Maarif Modeli Farklılaştırma İlkeleri"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q6",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 6,
+    "questionText": "İngilizce eğitimin verildiği bir özel eğitim kurumunda yoğun bir programın ardından tüm öğrenciler <br>yüksek puanlar alarak eğitimi tamamlamış olmalarına rağmen öğrencilerin çoğunun <br>konuşmalarında ve yazışmalarında İngilizce iletişim kuramadıkları tespit edilmiştir.<br>Buna göre bu eğitim kurumunda işlenen derslerde aşağıdaki öğretim ilkelerinin hangisi <br><b>konusunda bir yetersizlik olduğu söylenebilir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aktüalite"
+      },
+      {
+        "key": "B",
+        "text": "Hayatilik"
+      },
+      {
+        "key": "C",
+        "text": "Ayanilik"
+      },
+      {
+        "key": "D",
+        "text": "Bütünlük"
+      },
+      {
+        "key": "E",
+        "text": "Öğrenciye görelik"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Hayatilik)<br><br>\n🎯 <strong>Pedagojik Analiz (Öğretim İlkeleri):</strong><br>\n• <strong>Hayatilik (Yaşama Yakınlık) İlkesi:</strong> Okulda öğrenilen bilgi ve becerilerin gerçek hayatta işe yaraması, öğrencinin karşılaştığı günlük durumlarda bu bilgiyi pratik olarak kullanabilmesidir.<br>\n• Öğrencilerin İngilizce sınavlarından 100 almasına rağmen gerçek hayatta yabancılarla konuşamaması ve yazışamaması, okulda öğretilenin yaşama aktarılamadığını yani <strong>Hayatilik</strong> ilkesinin eksik kaldığını gösterir.<br><br>\n💡 <strong>Şifre:</strong> Sınavda yüksek not alıp günlük yaşamda kullanamamak = <b>Hayatilik Eksikliği</b>."
+  },
+  {
+    "id": "egitim_oyt_olcme7-q7",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 7,
+    "questionText": "Bir öğretmen matematik dersinde bölme işlemiyle ilgili kazanımların öğretimine başlamadan önce öğrencilerin toplama, <br>çıkarma ve çarpma işlemleriyle ilgili sahip oldukları ön bilgileri tespit etmek amacıyla bir test uygulamış ve ön bilgilerinin <br>yetersiz olduğunu görmüştür. Sınıfındaki öğrenciler yeterli düzeye gelene kadar konuları tekrar anlatmıştır. Aynı zamanda <br>öğrencilerin yeni öğrenilecek konu olan bölme işlemine yönelik olumsuz tutuma sahip olduklarını da tespit etmiş ve olumlu <br>tutum geliştirmeleri amacıyla farklı etkinlikler yapmıştır. Bu çalışmalardan sonra ipucu, pekiştirme, dönüt ve düzeltme <br>kullanımına özen göstererek bölme işlemiyle ilgili kazanımların öğretimine başlamıştır.<br>Buna göre öğretmenin uygulamaya başladığı öğrenme-öğretme yaklaşımı veya modeli aşağıdakilerden <br><b>hangisidir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "B",
+        "text": "Proje tabanlı öğrenme"
+      },
+      {
+        "key": "C",
+        "text": "Beyin temelli öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Probleme dayalı öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "İşbirliğine dayalı öğrenme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tam öğrenme)<br><br>\n🎯 <strong>Pedagojik Analiz (Bloom Tam Öğrenme Modeli):</strong><br>\nBloom'un Tam Öğrenme Modelinde 3 temel değişken vardır:<br>\n• <strong>1. Bilişsel Giriş Davranışları:</strong> Ön bilgilerin tespiti ve eksiklerin giderilmesi.<br>\n• <strong>2. Duyuşsal Giriş Özellikleri:</strong> Olumlu tutum, akademik özgüven geliştirme.<br>\n• <strong>3. Öğretim Hizmetinin Niteliği:</strong> İpucu, Pekiştireç, Katılım, Dönüt ve Düzeltme (PİDÖ).<br>\nSorudaki öğretmen ön test uygulamış, eksikleri tamamlamış, olumsuz tutumu gidermiş ve PİDÖ kullanarak derse başlamıştır. Bu süreç birebir Tam Öğrenme Modeli'dir.<br><br>\n📖 <strong>Kaynak:</strong> Bloom Tam Öğrenme Modeli"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q8",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 8,
+    "questionText": "Taslak hâlindeki bir İngilizce ders kitabını inceleyen bir öğretmen değerlendirme toplantısında <br>görüşlerini “Kitabın öğrencinin kendi kendine çalışabilmesi için tasarlandığı anlaşılıyor. Öğrencilerin <br>sunulan bilgiyi öğrenmeden yeni bilgiye geçmeleri mümkün görünmüyor. Uygulanan testlerde <br>öğrencinin doğru cevabı görebilmesi kendini değerlendirmesi açısından yararlı oluyor. Öğrencilerin <br>öğrenme hızları farklı olduğundan kitap bazı öğrencilerin yeni konuya geçebilecekleri, bazı öğrencilerin <br>aynı konuyu tekrar edebilecekleri şekilde hazırlanmış.\" diyerek paylaşmıştır.<br>Buna göre taslak kitabın hazırlanmasında aşağıdaki öğrenme – öğretme model veya <br><b>yaklaşımlarından hangisi temel alınmıştır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tam öğrenme"
+      },
+      {
+        "key": "B",
+        "text": "Programlı öğretim"
+      },
+      {
+        "key": "C",
+        "text": "Kuantum öğrenme"
+      },
+      {
+        "key": "D",
+        "text": "Beyin temelli öğrenme"
+      },
+      {
+        "key": "E",
+        "text": "Probleme dayalı öğrenme"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Doğru Cevap: <strong>B</strong> (Programlı öğretim)<br><br>\n🎯 <strong>Pedagojik Analiz (Skinner Programlı Öğretim):</strong><br>\nProgramlı öğretimin <strong>KEBAP</strong> ilkeleri:<br>\n• <strong>K</strong>üçük adımlar (bilginin parçalara bölünmesi)<br>\n• <strong>E</strong>tkin katılım<br>\n• <strong>B</strong>ireysel hız (öğrencinin kendi hızıyla ilerlemesi)<br>\n• <strong>A</strong>nında kontrol (öğrencinin cevabı görüp kendini denetlemesi)<br>\n• <strong>B</strong>aşarı (pekiştirme)<br>\nSorudaki taslak kitabın öğrencinin bireysel hızına imkan vermesi, adımlar halinde sunulması ve doğru cevabı anında görmesi <strong>Programlı Öğretim</strong> modelinin yansımasıdır.<br><br>\n📖 <strong>Kaynak:</strong> B.F. Skinner Programlı Öğretim İlkeleri"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q9",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 9,
+    "questionText": "Gagne, geliştirmiş olduğu “Öğretimsel Etkinlik” modelinde öğrenme ürünlerini; sözel bilgiler, tutumlar, <br>psikomotor beceriler, bilişsel stratejiler ve entelektüel beceriler olmak üzere beş kategoride ele almıştır. <br>Buna göre aşağıdaki öğrenci davranışlarından hangisi bilişsel stratejilere bir örnek olarak kabul <br><b>edilebilir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ahmet, başarılı olamayacağını düşündüğü matematik dersinde öğretmen tarafından takdir edilince  başarılı olabileceğini düşünmeye başlamıştır."
+      },
+      {
+        "key": "B",
+        "text": "Mesut, Newton’un kütle çekim kanunu ile ilgili temel ilkelerini kullanarak karşılaştığı bir fizik  problemini çözmüştür."
+      },
+      {
+        "key": "C",
+        "text": "Mehtap okulun şiir dinletisinde okumak için Yahya Kemal Beyatlı’nın “Sessiz Gemi” şiirini  ezberlemiştir."
+      },
+      {
+        "key": "D",
+        "text": "Hatice, anlamakta zorlandığı yabancı dil dersi için kendine uygun bir çalışma yöntemi geliştirmiştir."
+      },
+      {
+        "key": "E",
+        "text": "Mehmet, katılacağı halkoyunları yarışmasında yapacağı yeni bir hareketi öğrenmiştir."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (Hatice, anlamakta zorlandığı yabancı dil dersi için kendine uygun bir çalışma yöntemi geliştirmiştir)<br><br>\n🎯 <strong>Pedagojik Analiz (Gagné Öğrenme Ürünleri):</strong><br>\n• <strong>Bilişsel Strateji:</strong> Bireyin kendi dikkatini, algılamasını, hatırlamasını ve düşünmesini yönetmek için geliştirdiği özgün yöntem ve tekniklerdir (Metabiliş / Öğrenmeyi öğrenme). Hatice'nin kendine has bir çalışma yöntemi keşfetmesi bilişsel stratejidir.<br>\n• <strong>A:</strong> Tutum (derse yönelik inanç)<br>\n• <strong>B:</strong> Entelektüel Beceri (kural uygulama / problem çözme)<br>\n• <strong>C:</strong> Sözel Bilgi (ezberleme)<br>\n• <strong>E:</strong> Psikomotor Beceri (halkoyunları hareketi)<br><br>\n📖 <strong>Kaynak:</strong> Robert Gagné — Öğretim Durumları Modeli"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q10",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 10,
+    "questionText": "Sınıfında farklı değerlere ilişkin bir farkındalık oluşturmak isteyen bir öğretmen sınıfın dört köşesine birer masa <br>yerleştirmiş ve bu masaları; “dürüstlük”, “sevgi”, “hoşgörü” ve “dayanışma” olarak adlandırmıştır. Daha sonra sınıfı <br>dört gruba ayırarak her masaya eşit sayıda öğrenci gelecek şekilde yönlendirerek masalarda belirtilen değer ile ilgili <br>olarak her grubun bir öykü yazmaya başlamasını istemiştir. Belirlenen sürenin sonunda öğrencilerin öykülerini <br>yarıda bırakarak yan köşedeki masaya gitmelerini ve orada başlanmış olan öyküyü devam ettirmelerini istemiştir. <br>Bu etkinliği bütün öğrenciler tüm masaları dolaşarak öyküleri bitirinceye kadar devam ettirmiştir. En son olarak da <br>oluşturulan öyküleri okuyarak öğrencilerle birlikte bir değerlendirme yapmıştır.<br><b>Bu öğretmenin değerleri kazandırmada kullandığı yöntem/teknik aşağıdakilerden hangisidir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İstasyon"
+      },
+      {
+        "key": "B",
+        "text": "Köşelenme"
+      },
+      {
+        "key": "C",
+        "text": "Beyin fırtınası"
+      },
+      {
+        "key": "D",
+        "text": "Görüş geliştirme"
+      },
+      {
+        "key": "E",
+        "text": "Altı şapkalı düşünme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (İstasyon)<br><br>\n🎯 <strong>Pedagojik Analiz (Öğretim Teknikleri):</strong><br>\n• <strong>İstasyon Tekniği:</strong> Sınıfta farklı çalışma masaları (istasyonlar) oluşturulması, öğrenci gruplarının sırayla tüm masaları dolaşarak <strong>bir önceki grubun yarım bıraktığı işi (öyküyü, resmi, projeyi) devam ettirmesi</strong> ve sürecin sonunda ortak bir ürünün ortaya çıkarılması tekniğidir.<br>\n• Öğretmenin masalara değer isimleri verip öğrencilere öyküleri yarıda bıraktırarak dolaştırması doğrudan <strong>İstasyon</strong> tekniğidir.<br><br>\n💡 <strong>Şifre:</strong> Masaları dolaşma + Önceki grubun bıraktığı işi devam ettirme = <b>İstasyon Tekniği</b>!"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q11",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 11,
+    "questionText": "Yukarıda 5 derse ait yapılan sınavlarla ilgili bazı bilgiler verilmiştir. Beş sınav da aynı 100 kişilik gruba uygulanmıştır.<br><br>\n<table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\">\n  <thead>\n    <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\">\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ders</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Toplam Soru</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Doğru Cevap Ortalaması</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Standart Sapma</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Türkçe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">10</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">4</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">2</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Matematik</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">20</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">8</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">5</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Tarih</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">50</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">10</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Coğrafya</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">75</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">12</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Felsefe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">100</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">40</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">17</td></tr>\n  </tbody>\n</table>\n<b>Hangi sınavda doğru cevap oranı %50 ile %100 arasındadır?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Türkçe"
+      },
+      {
+        "key": "B",
+        "text": "Matematik"
+      },
+      {
+        "key": "C",
+        "text": "Tarih"
+      },
+      {
+        "key": "D",
+        "text": "Coğrafya"
+      },
+      {
+        "key": "E",
+        "text": "Felsefe"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (Tarih)<br><br>\n🎯 <strong>Ölçme ve Değerlendirme Analizi (Doğru Cevap Oranı / Grup Başarısı):</strong><br>\nDoğru cevap oranı (Grup Başarı Yüzdesi) = <code>(Doğru Cevap Ortalaması / Soru Sayısı) × 100</code> formülü ile hesaplanır:<br>\n• <strong>Türkçe:</strong> 4 / 10 = %40<br>\n• <strong>Matematik:</strong> 8 / 20 = %40<br>\n• <strong>Tarih:</strong> 30 / 50 = <strong>%60</strong> ➔ <i>%50 ile %100 aralığındadır!</i><br>\n• <strong>Coğrafya:</strong> 30 / 75 = %40<br>\n• <strong>Felsefe:</strong> 40 / 100 = %40<br>\nDolayısıyla %50'nin üzerinde başarı sağlanan tek sınav <strong>Tarih</strong> sınavıdır.<br><br>\n💡 <strong>Sınav Tüyosu:</strong> Tabloda verilen Standart Sapma sütunu sorunun çözümü için çeldiricidir; başarı oranı için yalnızca Ortalama ve Soru Sayısı oranlanır!"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q12",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 12,
+    "questionText": "Yanda 100 tavan puan üzerinden bir gruba uygulanmış sınavın sütun grafiği verilmiştir.<br><br>\n<b>Verilen grafik bilgisi ile ilgili olarak;</b><br>\nI. Puan aritmetik ortalaması hesaplanabilir.<br>\nII. Grubun mod puan değeri 27 dir.<br>\nIII. Sınavın standart sapması hesaplanabilir.<br><br>\n<b>ifadelerinden hangileri doğrudur?</b>",
+    "hasImage": true,
+    "image": "images/questions/sedat_colak_q37_grafik.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Doğru Cevap: <strong>C</strong> (I ve III)<br><br>\n🎯 <strong>Ölçme ve Değerlendirme Analizi (Test İstatistikleri & Grafik Okuma):</strong><br>\nGrafik incelendiğinde her puan aralığındaki öğrenci frekansları (sayıları) net olarak bellidir:<br>\n• <strong>I. Puan Aritmetik Ortalaması:</strong> Toplam puan / toplam öğrenci sayısı formülünden kesinlikle hesaplanabilir (Doğru).<br>\n• <strong>II. Grubun mod değeri 27'dir:</strong> (YANLIŞ!) Mod, frekansın (öğrenci sayısının) en yüksek olduğu <strong>PUAN</strong> değeridir. 27 sayısı ise puan değil, o puanı alan öğrenci sayısıdır (frekanstır).<br>\n• <strong>III. Standart Sapma:</strong> Frekans ve puanlar bilindiği için standart sapma formülüyle hesaplanabilir (Doğru).<br>\nBu nedenle I ve III doğrudur.<br><br>\n💡 <strong>Sınav Tuzağı:</strong> Mod frekans sayısı değildir; en yüksek tepe noktasının altındaki <b>PUAN DEĞERİDİR</b>!"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q13",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 13,
+    "questionText": "Aşağıda bir sınıfın notlarına ait dağılım grafiği verilmiştir.<br><br>\n<b>Bu grafiğe göre aşağıdaki yorumlardan hangisi yapılamaz?</b>",
+    "hasImage": true,
+    "image": "images/questions/sedat_colak_q38_grafik.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Heterojen bir dağılım söz konusudur."
+      },
+      {
+        "key": "B",
+        "text": "Orta düzey bir başarı söz konusudur."
+      },
+      {
+        "key": "C",
+        "text": "Sınıfta çok farklı puanlar alınmıştır."
+      },
+      {
+        "key": "D",
+        "text": "Çok modlu bir dağılımdır."
+      },
+      {
+        "key": "E",
+        "text": "Dengesiz bir dağılımdır."
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "Doğru Cevap: <strong>E</strong> (Dengesiz bir dağılımdır)<br><br>\n🎯 <strong>Ölçme ve Değerlendirme Analizi (Dağılım Eğrisi Yorumlama):</strong><br>\n• Grafikte verilen dağılım simetrik ve normal dağılıma (çan eğrisi) yakın, merkezde toplanan dengeli bir yapıdır.<br>\n• Grup orta düzey bir başarı göstermiştir, sınıf içinde farklı puanlar alınmıştır (heterojen yapı vardır).<br>\n• Dolayısıyla bu dağılım için <strong>\"dengesiz bir dağılımdır\"</strong> yorumu yapılamaz. Dengesiz dağılımlar bimodal (çift modlu uçlarda toplanan) veya aşırı çarpık dağılımlardır.<br><br>\n📖 <strong>Kaynak:</strong> Ölçme ve Değerlendirme — Dağılım Ölçüleri ve Normal Eğri Analizi"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q14",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 14,
+    "questionText": "Bir okul rehber öğretmeni, öğrencilerin okula devamlılık, sınav kaygısı ve rehberlik hizmeti kullanımı ile Matematik ve Türkçe dersleri başarıları arasındaki korelasyonları aşağıdaki gibi hesaplamıştır:<br><br>\n<table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\">\n  <thead>\n    <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\">\n      <th style=\"padding:6px; border:1px solid #cbd5e1; text-align:left;\">Değişkenler</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Matematik</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Türkçe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Okula devamlılık</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,65</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,71</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Sınav kaygısı</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">- 0,70</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">- 0,74</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Rehberlik hizmeti</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,52</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,56</td></tr>\n  </tbody>\n</table>\n<b>Bu sonuçlara göre okul rehber öğretmeninin yapacağı;</b><br>\nI. Matematik başarısının en güçlü ilişkisi okula devamlılık ile kurulmuştur.<br>\nII. En düşük ilişki Matematik başarısı ve rehberlik hizmeti arasında kurulmuştur.<br>\nIII. Sınav kaygısı ile Türkçe başarısı arasındaki ilişki, sınav kaygısı ile matematik başarısı arasındaki ilişkiden daha güçlüdür.<br><br>\n<b>yorumlarından hangisi ya da hangileri doğrudur?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Doğru Cevap: <strong>D</strong> (II ve III)<br><br>\n🎯 <strong>Ölçme ve Değerlendirme Analizi (Korelasyon Katsayısı):</strong><br>\nKorelasyon katsayısında (r) ilişkinin GÜCÜ bakılırken <strong>işarete (+ veya -) değil, sayının MUTLAK DEĞERİNE</strong> bakılır! 1.00'e yakın olan en güçlüdür:<br>\n• Matematik için ilişkiler: Devamlılık (+0.65), Sınav Kaygısı (-0.70), Rehberlik (+0.52).<br>\n• <strong>I. Öncül (Yanlış):</strong> Matematik başarısının en güçlü ilişkisi devamlılık (+0.65) ile değil, mutlak değerce daha büyük olan <strong>Sınav Kaygısı (-0.70)</strong> iledir!<br>\n• <strong>II. Öncül (Doğru):</strong> Mutlak değerce 0'a en yakın olan +0.52 (Rehberlik) en düşük ilişkidir.<br>\n• <strong>III. Öncül (Doğru):</strong> Kaygı ile Türkçe başarısı (-0.74), Matematik başarısından (-0.70) mutlak değerce daha güçlüdür (|-0.74| > |-0.70|).<br>\nBu sebeple II ve III doğrudur.<br><br>\n💡 <strong>Altın Kural:</strong> Korelasyonda ilişki gücü sorulduğunda eksi işareti ilişkinin zayıf olduğunu değil, TERS YÖNLÜ olduğunu gösterir!"
+  },
+  {
+    "id": "egitim_oyt_olcme7-q15",
+    "testId": "egitim_oyt_olcme_karma_7",
+    "testTitle": "🎯 Sedat Çolak: ÖYT ve Ölçme-Değerlendirme Karma Testi",
+    "topicId": "egitim_oyt_olcme_karma_7",
+    "topicName": "Eğitim Bilimleri & Pedagoji (ÖYT & Ölçme Karma Test)",
+    "category": "Eğitim Bilimleri",
+    "icon": "🎯",
+    "questionNumber": 15,
+    "questionText": "Aşağıdaki tabloda bir sınıfa uygulanan 5 sınava ait soru sayısı ve bu sorulara doğru cevap veren öğrencilerin ortalamaları yer almaktadır.<br><br>\n<table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\">\n  <thead>\n    <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\">\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ders</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Soru Sayısı</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ortalama</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Türkçe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">50</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">25</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Matematik</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">40</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">12</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Tarih</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">60</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">45</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Coğrafya</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">20</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">8</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Felsefe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">18</td></tr>\n  </tbody>\n</table>\n<b>Bu tabloya göre öğrencilerin en başarılı ve en başarısız olduğu dersler hangileridir?</b>",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tarih / Matematik"
+      },
+      {
+        "key": "B",
+        "text": "Tarih / Coğrafya"
+      },
+      {
+        "key": "C",
+        "text": "Felsefe / Coğrafya"
+      },
+      {
+        "key": "D",
+        "text": "Felsefe / Türkçe"
+      },
+      {
+        "key": "E",
+        "text": "Türkçe / Matematik"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doğru Cevap: <strong>A</strong> (Tarih - Matematik)<br><br>\n🎯 <strong>Ölçme ve Değerlendirme Analizi (Grup Başarısı Karşılaştırması):</strong><br>\nFarklı soru sayılarına sahip sınavlarda başarı karşılaştırılırken <code>Ortalama / Soru Sayısı</code> oranına bakılır:<br>\n• <strong>Türkçe:</strong> 25 / 50 = 0.50 (%50)<br>\n• <strong>Matematik:</strong> 12 / 40 = <strong>0.30 (%30) ➔ EN BAŞARISIZ!</strong><br>\n• <strong>Tarih:</strong> 45 / 60 = <strong>0.75 (%75) ➔ EN BAŞARILI!</strong><br>\n• <strong>Coğrafya:</strong> 8 / 20 = 0.40 (%40)<br>\n• <strong>Felsefe:</strong> 18 / 30 = 0.60 (%60)<br>\nEn başarılı ders <strong>Tarih</strong>, en başarısız ders ise <strong>Matematik</strong>'tir.<br><br>\n💡 <strong>Tuzak:</strong> Sadece ortalamaya (12 vs 8) bakılmaz; soru sayısına oranlanarak yüzdelik başarı bulunur!"
   }
 ];
