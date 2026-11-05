@@ -1,0 +1,214 @@
+====================================================================================================
+1 SAYILI CUMHURBAŞKANLIĞI KARARNAMESİ - MİLLÎ EĞİTİM BAKANLIĞI TEŞKİLATI VE HİZMET BİRİMLERİ
+EKYS 2027 MEVZUAT SINAV BAŞUCU ÖZETİ VE SORU ÇÖZDÜREN ANAHTAR KELİMELER (GÖKHAN HOCA)
+====================================================================================================
+
+📌 GENEL ÇERÇEVE & SINAV ANALİZİ:
+----------------------------------------------------------------------------------------------------
+• Kapsam: 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında CBK - On Birinci Bölüm (Madde 301 - 331).
+• EKYS Soru Ağırlığı: Mevzuat testinde (16 soru) her yıl garanti 1-2 soru bu kararnameden gelir.
+• Temel Mantık: Sınavda uzun görev paragraflarını satır satır ezberlemek yerine "Turnusol Anahtar Kelimeler" ile soruyu okumadan doğru şıkkı tespit etme metodolojisidir.
+
+----------------------------------------------------------------------------------------------------
+1. MEB TEŞKİLAT YAPISI (3 ANA TEŞKİLAT)
+----------------------------------------------------------------------------------------------------
+Milli Eğitim Bakanlığı 3 teşkilat yapısından oluşur:
+1. MERKEZ TEŞKİLATI: Ankara'daki Bakanlık ana hizmet birimleri.
+2. TAŞRA TEŞKİLATI: İl Millî Eğitim Müdürlükleri ve İlçe Millî Eğitim Müdürlükleri.
+3. YURT DIŞI TEŞKİLATI: Yurt dışındaki Türk okulları ve eğitim ataşelikleri/müşavirlikleri.
+
+⚠️ DİKKAT / TUZAK:
+• Teşkilat yapısında "Bölge Teşkilatı" veya "Merkez-İlçe" gibi ayrı bir teşkilat YOKTUR!
+• İlçe Millî Eğitim Müdürü, İl Millî Eğitim Müdürüne karşı sorumludur (Yasal dayanağı bu kararnamedir).
+• Maarif Müfettişi = Eğitim Müfettişi denkliği kararnamede hüküm altına alınmıştır.
+
+----------------------------------------------------------------------------------------------------
+2. MEB HİZMET BİRİMLERİ SAYISAL DAĞILIMI (TOPLAM 22 HİZMET BİRİMİ)
+----------------------------------------------------------------------------------------------------
+MEB Merkez Teşkilatında toplam 22 Hizmet Birimi bulunur:
+• 16 Genel Müdürlük
+• 4 Başkanlık (Talim ve Terbiye Kurulu Bşk., Teftiş Kurulu Bşk., Strateji Geliştirme Bşk., Acil Durum ve Savunma Planlaması Dairesi Bşk.)
+• 1 Müşavirlik (Basın ve Halkla İlişkiler Müşavirliği)
+• 1 Özel Kalem Müdürlüğü
+
+⚠️ HİZMET BİRİMİ SAYILMAYANLAR:
+• İç Denetim Birimi Başkanlığı (Hizmet birimleri arasında DEĞİLDİR).
+• Millî Eğitim Akademisi Başkanlığı (Özel kanunla kurulmuş ayrı bir akademik başkanlıktır; hizmet birimi DEĞİLDİR).
+• Herhangi bir "Daire Başkanlığı" (Örn: Bilgi İşlem Daire Başkanlığı değil, Bilgi İşlem GENEL MÜDÜRLÜĞÜ'dür. Daire başkanlığı olan tek birim "Acil Durum ve Savunma Planlaması Dairesi Başkanlığı"dır).
+
+----------------------------------------------------------------------------------------------------
+3. 22 HİZMET BİRİMİ VE "SORU ÇÖZDÜREN" ŞİFRELİ KELİME TABLOSU
+----------------------------------------------------------------------------------------------------
+
+1) TEMEL EĞİTİM GENEL MÜDÜRLÜĞÜ:
+   🔑 Anahtar Kelimeler: Okul öncesi, İlköğretim (İlkokul + Ortaokul).
+   🚨 EN BÜYÜK TUZAK: Barınma söz konusu olduğunda SADECE "İlköğretim öğrencilerinin barınması" Temel Eğitim'e aittir! Okul öncesinde yatılı/barınma hizmeti YOKTUR!
+
+2) ORTAÖĞRETİM GENEL MÜDÜRLÜĞÜ:
+   🔑 Anahtar Kelimeler: Ortaöğretim, ortaöğretim kurumları (Genel/Anadolu Liseleri), ortaöğretim öğrencilerinin barınma ihtiyaçları.
+   🚨 TUZAK: Ders kitaplarını hazırlayıp doğrudan bakana sunmaz; TALİM VE TERBİYE KURULUNA sunar!
+
+3) MESLEKİ VE TEKNİK EĞİTİM GENEL MÜDÜRLÜĞÜ:
+   🔑 Anahtar Kelimeler: 3308 Sayılı Mesleki Eğitim Kanunu, eğitim-istihdam ilişkisi, sektör işbirlikleri, aday çırak, çırak, kalfa, usta.
+
+4) DİN ÖĞRETİMİ GENEL MÜDÜRLÜĞÜ:
+   🔑 Anahtar Kelimeler:
+   • TÜM KADEMELERDEKİ (ilköğretim, ortaöğretim, yaygın vb.) Din Kültürü ve Ahlak Bilgisi ile din içerikli seçmeli dersler.
+   • İmam Hatip Ortaokulları ve İmam Hatip Liseleri (yönetim, program, kitap).
+   • Hafızlık eğitimleri.
+   • Din ve ahlak eğitimi alanında üniversiteler ve kurumlarla işbirliği.
+   • Ortak dil/tarih paylaşılan ülkelerle DİN EĞİTİMİ alanında işbirlikleri.
+
+5) ÖZEL EĞİTİM VE REHBERLİK HİZMETLERİ GENEL MÜDÜRLÜĞÜ:
+   🔑 Anahtar Kelimeler: ÖĞRENCİNİN ÖZEL OLDUĞU KURUMLAR!
+   • Rehberlik ve Araştırma Merkezleri (RAM), BİLSEM'ler, İş Okulları, İş Eğitim Merkezleri.
+   • Özel eğitim sınıfları, engelli bireyler, kaynaştırma eğitimi.
+   • İlgili bakanlıklarla işbirliği içinde eğitim faaliyetleri yürütmek.
+
+6) ÖZEL ÖĞRETİM KURUMLARI GENEL MÜDÜRLÜĞÜ:
+   🔑 Anahtar Kelimeler: KURUMUN ÖZEL OLDUĞU YERLER!
+   • 5580 Sayılı Özel Öğretim Kurumları Kanunu.
+   • Dernek, vakıf, gerçek ve tüzel kişilerce açılan okullar, kolejler.
+   • Özel yurtlar, pansiyonlar, sürücü kursları, etüt/sosyal etkinlik merkezleri.
+   • Özel kurumların açılması, kapatılması, devri, nakli.
+
+7) HAYAT BOYU ÖĞRENME GENEL MÜDÜRLÜĞÜ:
+   🔑 Anahtar Kelimeler: Zorunlu eğitim dışı, örgün eğitim dışına çıkmış vatandaşlar, yaygın eğitim, hayat boyu öğrenme, Halk Eğitimi Merkezleri, Açık Öğretim Ortaokulu/Lisesi.
+   🚨 TUZAK: Açık öğretim veya yaygın eğitim içerikleri "bilişim ve bilgi-iletişim teknolojilerine" dayalıysa bunu Hayat Boyu değil, YEĞİTEK hazırlar!
+
+8) YENİLİK VE EĞİTİM TEKNOLOJİLERİ GENEL MÜDÜRLÜĞÜ (YEĞİTEK):
+   🔑 Anahtar Kelimeler: EĞİTİM + TEKNOLOJİ / EĞİTİM + BİLİŞİM!
+   • Eğitim içerikleri, EBA altyapı içerikleri, dijital ders materyalleri.
+   • Yapay zekâ projeleri (yeni eklenen görev).
+   • Eğitimde izleme, değerlendirme, analiz ve raporlama.
+   • Eğitimde yenilikçilik, girişimcilik ve yayıncılık.
+
+9) BİLGİ İŞLEM GENEL MÜDÜRLÜĞÜ:
+   🔑 Anahtar Kelimeler: BAKANLIK + BİLİŞİM / BAKANLIK + VERİ TABANI!
+   • Bakanlığın bilişim altyapısı, MEBBİS, e-Okul otomasyonu, bakanlık internet sayfaları, e-İmza, e-Belge (EBYS).
+   • Donanım, sunucu, ağ sistemleri kurulumu ve bakımı.
+   💡 YEĞİTEK vs BİLGİ İŞLEM AYRIMI: "Eğitim teknolojisi/dijital içerik" diyorsa YEĞİTEK; "Bakanlık bilişim/veri tabanı/sistem altyapısı" diyorsa BİLGİ İŞLEM!
+
+10) ÖLÇME, DEĞERLENDİRME VE SINAV HİZMETLERİ GENEL MÜDÜRLÜĞÜ:
+    🔑 Anahtar Kelimeler: SINAV, SINAV, SINAV!
+    • Sınav hazırlama, sınav sorularını hazırlatmak/denetlemek/saklamak.
+    • Ulusal ve uluslararası izleme/değerlendirme (PISA, TIMSS vb.), ortak sınavlar, başvuru ve sınav koordinatörlükleri.
+
+11) YÜKSEKÖĞRETİM VE YURT DIŞI EĞİTİM GENEL MÜDÜRLÜĞÜ:
+    🔑 Anahtar Kelimeler: YÜKSEKÖĞRETİM, YURT DIŞI, "MEMLEKET"!
+    • Yükseköğretime giriş sistemine ilişkin usul ve esaslar (üniversiteler/YÖK işbirliği).
+    • Ecnebi memleketlere gönderilecek talebeler (1416 sayılı kanun bursiyerleri).
+    • Yurt dışındaki Türk vatandaşlarının yükseköğrenim işleri.
+    💡 ŞİFRE: Cümlede "MEMLEKET" varsa Yükseköğretim ve Yurt Dışı; "HÜKÜMET" varsa Avrupa Birliği!
+
+12) AVRUPA BİRLİĞİ VE DIŞ İLİŞKİLER GENEL MÜDÜRLÜĞÜ:
+    🔑 Anahtar Kelimeler: ULUSLARARASI, AVRUPA BİRLİĞİ, "YABANCI HÜKÜMET", PROTOKOL!
+    • Uluslararası kuruluşlar, AB eğitim programları ve projeleri.
+    • Yabancı hükümetler ve kuruluşlardan sağlanan burslar.
+    • Türk kültür birliği olan ülke ve topluluklarla eğitim işbirlikleri (din alanı hariç).
+    • Bakanlığın diğer kurumlarla yaptığı PROTOKOLLER (yeni eklenen görev).
+
+13) PERSONEL GENEL MÜDÜRLÜĞÜ:
+    🔑 Anahtar Kelimeler: Personel politikası, atama, nakil, terfi, emeklilik, kadro planlaması, Millî Eğitim Akademisi ile işbirliği/eğitim koordinasyonu.
+
+14) HUKUK HİZMETLERİ GENEL MÜDÜRLÜĞÜ:
+    🔑 Anahtar Kelimeler: Hukuk birimleri, adli ve idari davalar, icra takipleri, mahkeme ve avukatlık işlemleri, hukuki uyuşmazlıklar.
+
+15) DESTEK HİZMETLERİ GENEL MÜDÜRLÜĞÜ:
+    🔑 Anahtar Kelimeler: "IVIR ZIVIR" + BAKANLIĞIN PARASAL/MALİ İŞLERİ!
+    • 5018 Sayılı Kamu Malî Yönetimi Kanunu kapsamındaki satın alma, kiralama, temizlik, güvenlik.
+    • Taşınır ve taşınmaz işlemleri (TKYS, demirbaş alımları).
+    • Genel evrak ve genel arşiv hizmetleri.
+    • Ders kitaplarının ve kaynakların BASIMI ve DAĞITIMI (içeriği hazırlamaz, basıp dağıtır!).
+    • Taşımalı eğitim, yemek hizmetleri.
+    • PARA KAZANAN KURUMLAR: Döner sermaye işletmeleri, Öğretmenevleri, Akşam Sanat Okulları (ASO), misafirhaneler, sosyal tesisler.
+
+16) İNŞAAT VE EMLAK GENEL MÜDÜRLÜĞÜ:
+    🔑 Anahtar Kelimeler: BÜYÜK YAPIM, ARSA, BİNA, KAMULAŞTIRMA!
+    • Arsa temini, imar planlaması, kamulaştırma işlemleri.
+    • Okul ve eğitim yerleşkelerinin yapımı, büyük onarımı ve güçlendirilmesi.
+    • Taşınmazların kamu kurumları arasında devri ve ayni hak/bağış işlemleri.
+
+17) TALİM VE TERBİYE KURULU BAŞKANLIĞI (ÇOK ÖZEL BİRİM):
+    🔑 Anahtar Kelimeler:
+    • Bakanlığın BİLİMSEL DANIŞMA VE İNCELEME ORGANIDIR.
+    • EN BÜYÜK ŞİFRE: Her görevinin sonunda "BAKANA SUNMAK" ifadesi yer alır!
+    • 3 Temel İlkesi: KALİTE, EŞİTLİK, ETKİLİLİK.
+    • Millî ve toplumsal değerlere dayalı eğitim sistemi felsefesini oluşturur.
+    • Ders programları, haftalık ders çizelgeleri ve kitap onayları buradan geçer.
+    • Oluşumu ve çalışma usulleri CUMHURBAŞKANI YÖNETMELİĞİ ile düzenlenir.
+
+18) TEFTİŞ KURULU BAŞKANLIĞI:
+    🔑 Anahtar Kelimeler: REHBERLİK, DENETİM, KONTROL, İNCELEME, SORUŞTURMA.
+    • Bakan adına teftiş ve denetim yapar (Bakan emriyle hareket eder).
+    • Çalışma merkezleri kurulabilir; her merkezde bir BAŞMÜFETTİŞ bulunur.
+    • Görevliler: Müfettiş ve Müfettiş Yardımcısı.
+    • Çalışma usul ve esasları YÖNETMELİK ile düzenlenir.
+
+19) STRATEJİ GELİŞTİRME BAŞKANLIĞI:
+    🔑 Anahtar Kelimeler: Stratejik plan, mali hizmetler, bakanlık bütçesinin birimlere tahsisi, 5 yıllık kalkınma vizyonu planlaması.
+
+20) BASIN VE HALKLA İLİŞKİLER MÜŞAVİRLİĞİ:
+    🔑 Anahtar Kelimeler: Basın bültenleri, halkla ilişkiler, 4982 Sayılı Bilgi Edinme Hakkı Kanunu, CİMER, MEBİM başvurularının takibi.
+
+21) ACİL DURUM VE SAVUNMA PLANLAMASI DAİRESİ BAŞKANLIĞI:
+    🔑 Anahtar Kelimeler: En son kurulan birimdir!
+    • Afet, acil durum yönetimi, kriz merkezleri, deprem/sel önlemleri, sivil savunma, seferberlik ve savaş hali.
+
+22) ÖZEL KALEM MÜDÜRLÜĞÜ:
+    🔑 Anahtar Kelimeler: Bakanın günlük/haftalık çalışma programı, protokol işleri, törenler, bakanın özel yazışmaları.
+
+----------------------------------------------------------------------------------------------------
+4. BAKANLIĞIN GENEL GÖREVLERİ (MD. 301) vs ORTAK GÖREVLER (MD. 326)
+----------------------------------------------------------------------------------------------------
+A) BAKANLIĞIN GENEL GÖREVLERİ (Madde 301 - Makro / Ülke Düzeyi):
+   • Okul öncesi, ilk ve orta öğrenim çağındaki öğrencileri bedeni, zihni, ahlaki, manevi, sosyal ve kültürel yönden geliştirmek.
+   • Eğitimde fırsat ve imkân eşitliği sağlamak.
+   • Kız öğrencilerin, engellilerin ve toplumun özel ilgi bekleyen kesimlerinin eğitimini sağlamak.
+   • Özel yetenekli bireylerin niteliklerini geliştirici tedbirler almak.
+   🚨 EN BÜYÜK SINAV TUZAĞI: "Yükseköğretim kurumları DIŞINDAKİ (hariç) tüm eğitim kurumlarını açmak ve izin vermek" MEB'in görevidir. MEB üniversite AÇAMAZ (Üniversite YÖK/Kanun ile kurulur).
+
+B) HİZMET BİRİMLERİNİN ORTAK GÖREVLERİ (Madde 326 - Mikro / Yatay Görevler):
+   • Her birimin kendi hizmet alanında hedef, politika ve standart belirleme çalışması yapması.
+   • Eğitim-öğretimi etkileyen faktörleri tespit edip araştırma ve geliştirme yapması.
+   • Kendi alanında özel eğitim, rehberlik ve psikolojik danışma hizmetlerini koordine etmesi.
+   • Okul/ilçe düzeyinde yapılan sınav sonuçlarını analiz edip değerlendirmesi.
+   • Kendi biriminin bina ve tesis planlamasını yapması.
+
+----------------------------------------------------------------------------------------------------
+5. KRİTİK 5 MEVZUAT / DÜZENLEME TABLOSU (SINAVIN EN AYRINTI SORULARI)
+----------------------------------------------------------------------------------------------------
+Soru: "Bu durum ne ile düzenlenir / kim çıkarır?" geldiğinde bu tablo hayat kurtarır:
+
+1. Talim ve Terbiye Kurulu Başkanlığının oluşumu ve çalışma usulleri ➔ CUMHURBAŞKANI YÖNETMELİĞİ
+2. Öğretmen kadrolarının branşlar esas alınarak okullara dağıtılması (Norm Kadro) ➔ CUMHURBAŞKANI YÖNETMELİĞİ
+3. Bakanlık kadrolarının ihdası, iptali ve kullanımı ➔ CUMHURBAŞKANLIĞI KARARNAMESİ (Genel Kadro Usulü)
+4. Öğretmenlerin aylık karşılığı okutacağı derslerin belirlenmesi ➔ BAKANLIK YÖNETMELİĞİ
+5. Teftiş Kurulu Başkanlığının çalışma usul ve esasları ➔ YÖNETMELİK (Kimin çıkardığı belirtilmemiştir)
+
+----------------------------------------------------------------------------------------------------
+6. ÖĞRETMENLERİN EMEKLİLİK KURALLARI (MADDE 329)
+----------------------------------------------------------------------------------------------------
+• KURAL: Öğretmenlerin emeklilik işlemleri kural olarak sadece HAZİRAN ve TEMMUZ aylarında yapılır. (Amaç: Yeni eğitim yılı başlamadan kadroları netleştirmek).
+• İSTİSNA (Başka aylarda emeklilik için 2 ŞART birlikte aranır):
+  1. Başvuran öğretmenin bulunduğu ilde, kendi branşında NORM KADRO FAZLASI öğretmen bulunması,
+  2. Emeklilik talebinin MİLLÎ EĞİTİM BAKANLIĞINCA UYGUN GÖRÜLMESİ.
+• YAŞ HADDİNDEN EMEKLİLİK: 65 yaşını dolduran öğretmenler için ay şartı aranmaz; 65 yaşını doldurduğu gün (doğum gününde) re'sen emekliye sevk edilir.
+
+====================================================================================================
+KODLAMA VE ŞİFRE HATIRLATICI KART (SINAV ÖNCESİ 60 SANİYELİK BAKIŞ):
+• "Bakana sunmak" ➔ Talim ve Terbiye Kurulu
+• "Rehberlik, denetim, kontrol" ➔ Teftiş Kurulu
+• "3308 / Çırak, kalfa, istihdam" ➔ Mesleki ve Teknik Eğitim
+• "Dernek, vakıf, gerçek/tüzel / Özel yurt" ➔ Özel Öğretim
+• "RAM, BİLSEM, İş okulu / Öğrenci özel" ➔ Özel Eğitim
+• "Eğitim + Teknoloji / Yapay zeka" ➔ YEĞİTEK
+• "Bakanlık + Bilişim / Veri tabanı / MEBBİS" ➔ Bilgi İşlem
+• "Sınav, PISA, soru bankası" ➔ Ölçme ve Değerlendirme
+• "Memleket" ➔ Yükseköğretim ve Yurt Dışı
+• "Hükümet / Protokol / Uluslararası" ➔ Avrupa Birliği ve Dış İlişkiler
+• "Döner sermaye / Öğretmenevi / Kitap basım-dağıtım" ➔ Destek Hizmetleri
+• "Arsa, bina, kamulaştırma, okul yapımı" ➔ İnşaat ve Emlak
+• "Afet, sivil savunma, kriz" ➔ Acil Durum ve Savunma Planlaması
+• "Emeklilik ayları" ➔ Haziran - Temmuz (İstisna: İl norm fazlası + Bakan onayı)
+====================================================================================================
