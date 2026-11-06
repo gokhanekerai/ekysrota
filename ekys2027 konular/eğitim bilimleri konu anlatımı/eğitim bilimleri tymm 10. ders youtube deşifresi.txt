@@ -1,0 +1,873 @@
+0:022 saniyeİyi akşamlar arkadaşlar. Bugün eee Maarif modelinin son dersini işleyeceğiz. Mauf modelini tamamlayacağız. Ardından şimdiye kadar
+0:1010 saniyeişlediğimiz konuları da içeren bir test çözeceğiz arkadaşlar. 40 soruluk bir soru çözümümüz olacak bugün. Eee şimdiye kadar neyi gördük? Şunu gördük
+0:1919 saniyearkadaşlar. Mağarif modelinin temelini, Maarif modelinin genel çerçevesini gördük. Mağarif modelinde işte bu eee
+0:2626 saniyebütünlük alanlarından bahsettik. eee eğilimlerden bahsettik. Öğrenme çıktılarının çerçevesinden bahsettik.
+0:3232 saniyeProgram geliştirmenin ya programın öğeleri olarak öğrenme çıktıları, içerik, öğrenme kanıtları ve eğitim
+0:4040 saniyedurumlarından yani öğrenme ve öğretme yaşantılarından bahsettik. Ve artık marif modelinin sonunda yer alan ek
+0:4848 saniyedurumlardan bahsetmeye başlayacağız arkadaşlar. Burada da neler var? Okul temelli planlama ve program dışı etkinlikler ve öğretmen yansıtmaları
+0:5555 saniyegibi başlıkları göreceğiz. Nedir bunlar arkadaşlar? Okul temelli planlama dediğimiz şey aslında eğitim
+1:031 dakika 3 saniyeprogramlarında Milli Eğitim Bakanlığı tarafından esnek bırakılan, boş bırakılan ve öğretmenin okul etkinlikleri çerçevesinde, okulun
+1:121 dakika 12 saniyeyeterlilik alanları çerçevesinde yeterliliği, öğrenci düzeyi ya da okulda yapılacak etkinlikler eee çerçevesinde
+1:191 dakika 19 saniyekendisinin programa ekleyebileceği etkinlikleri içeriyor arkadaşlar. Okul temelli planlama. Yani Milli Eğitimin hazırladığı planlar, programlar var ama
+1:281 dakika 28 saniyeesnek bırakılıyor. Bir yeri boş bırakılıyor arkadaşlar. O okul temelli planlama vasıtasıyla ben o Milli Eğitim
+1:351 dakika 35 saniyeprogramlarına bağlı olarak o programa eklediğim etkinlikleri içeriyor ve program dışı etkinlikler ise eee ekstra
+1:431 dakika 43 saniyeprogram olarak ifade edebileceğimiz hani daha önce posterın sınıflandırmasında ekstra program olarak ifade edebileceğimiz sonradan eklenen ayrıca
+1:521 dakika 52 saniyeyapılan programlı etkinlikleri eee işaret ediyor. Arkadaşlar önce okul temelli planlamadan bahsedeceğiz. Okul
+2:002 dakikatemelli planlama Zümre Öğretmenler Kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştıran yani ders kapsamında ele alınıyor arkadaşlar.
+2:092 dakika 9 saniyebelli bir dersin konularına dahil ediliyor. Eee dediğimiz gibi o Milli Eğitim tarafından düzenlenen programlara
+2:172 dakika 17 saniyeeklediğimiz etkinliklerdir. Bunlar eklediğimiz araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel
+2:252 dakika 25 saniyeçalışmalar ya da okuma etkinlikleri gibi çalışmalara ayıran süreyi ifade etmektedir. Yani bunu şöyle düşünün
+2:322 dakika 32 saniyearkadaşlar. eee eğitim programlarına eklenen etkinliklerdir.
+2:452 dakika 45 saniyeHatta dikkat ederseniz eee bu sene planlarda mutlaka geçen senekilerde de vardı bu senekilerde de var. Eee mutlaka
+2:532 dakika 53 saniyeokul temelli planlama etkinliklerine yer verilmesi isteniyor arkadaşlar. Bu kapsamda öğretmenlere eğitim programını
+3:003 dakikauyarlama imkanı tanınarak esneklik sağlanması amaçlanmıştır. Neyin esnekliği? Öğretim programların
+3:073 dakika 7 saniyeesnekliği. Yani ben sana programı veriyorum. Sen buna birebir uyacaksın değil öğrenci düzeyine göre ya da okul imkanlarına göre senin bunu eklemen
+3:153 dakika 15 saniyegerektiğini düşündüğün bir şeyler varsa sen de bu programlara eklemede bulunabilirsin. Ama bu programlara bağlı olması gerekiyor arkadaşlar. Yoksa Milli
+3:243 dakika 24 saniyeEğitim programlarının dışına çıkmak tabii ki söz konusu değil.
+3:283 dakika 28 saniyeO programlar çerçevesinde vereceğimiz araştırmalar, sosyal etkinlikler, proje çalışmaları hep bu kapsamda ele alınabilir. Bu yönüyle bakacak olursak
+3:363 dakika 36 saniyearkadaşlar, eee, okul temelli planlama dediğimiz şey öğretim programlarının tamamlayıcısı ve destekleyicisi olan bir
+3:453 dakika 45 saniyealan olarak görülmektedir. Yani şimdi Bursa'nın merkezindeki, Ankara'nın merkezindeki bir okulla işte herhangi
+3:543 dakika 54 saniyebir eee taşanın herhangi bir köyündeki okuldaki öğrenci profili aynı olmayabilir. İşte öğretmenin
+4:014 dakika 1 saniyeöğrencilerin düzeyine bağlı olarak ya da meslek lisesi, Anadolu lisesi, eee, fen lisesi potansiyel aynı olamayabilir. Bu
+4:094 dakika 9 saniyeanlamda arkadaşlar öğretmenin okulun imkanları ve öğrenci düzeyine bağlı olarak programı düzenlemesi ve bu
+4:164 dakika 16 saniyevasıtayla da öğretim programlarını desteklemesi amaçlanıyor arkadaşlar.
+4:214 dakika 21 saniyeOkul temelli planlamalarla okul temelli planlamalar yapılırken neleri göz önünde bulundururuz? Şunları
+4:304 dakika 30 saniyegöz önünde bulundururuz. Bir kere arkadaşlar, Milli Eğitimin anayasası olarak kabul edeceğimiz 1739 sayılı Milli Eğitim Temel Kanunuaki genel
+4:384 dakika 38 saniyeamaçlar hepsi zaten Milli Eğitim Temel Kanunadır arkadaşlar. Eee, Türk Milli Eğitiminin temel ilkeleri hani orada 14
+4:454 dakika 45 saniyetane ilke var ya genellik ve eşitlik, eee, ne bileim fırsat eşitliği, yönlendirme gibi ilkeler var ya onları
+4:534 dakika 53 saniyegöz önünde bulundururuz. Bunun dışında öğretim programlarının genel amaçları ve öğrenme çıktıları yani hedeflerimiz
+5:005 dakikadikkate alınır. Yani Milli Eğitimin temel yapısı, Milli Eğitimin genel yapısı, genel bakış açısı, genel çerçevesi göz önünde bulundurarak okulda
+5:095 dakika 9 saniyeyapacağımız etkinlikleri okul temelli planlama çerçevesinde karşımıza eee çıkarıyoruz. Burada belirlenen süreç tüm
+5:175 dakika 17 saniyeöğretim programlarının öğrenme alanları için ayrılan süre tablolarında belirtilmektedir. Yani arkadaşlar burada kastedilen plana eklenmektedir.
+5:305 dakika 30 saniyeYani bunu spontan [boğazını temizler] bir şekilde yapmıyoruz. Ya da örnek veriyorum pazartesi günü bizim okulda bir Çanakkale gezisi var. Çanakkale'ye
+5:395 dakika 39 saniyegötürmemiz okul temelli planlama kapsamında değil. Bu mevcut planlarımızı eklediğimiz yani şu hafta şunu yapacağım. Okul temelli planlama olarak
+5:475 dakika 47 saniyeda bunları ekleyeceğim şeklinde yapacağımız etkinliklerdir arkadaşlar.
+5:515 dakika 51 saniyeEee çalışmalar için ayrılan süre eğitim öğretim yılı içinde planlanır ve burada da belirttiğimiz gibi bakın yıllık planlarda ifade edilir. Yani bunlar
+5:585 dakika 58 saniyeplanlara eklenir arkadaşlar. O yıllık planında hani o eee Milli Eğitimden gelen planları, programları göre
+6:066 dakika 6 saniyedüzenlediğimiz planlarda okul temelli planlama çalışmaları da yapılır arkadaşlar.
+6:156 dakika 15 saniyeOkul temelli planlamada sistematik bir eee yaklaşım söz konusu olduğu için ihtiyaçlar net olarak belirlenir. Bu ihtiyaca uygun öğretim faaliyetlerinin
+6:236 dakika 23 saniyeyürütülmesi ve bu faaliyetlerin etkisine yönelik bir değerlendirme yapılması beklenir. Yani şunu yapıyoruz arkadaşlar. Eee aslında normal plan
+6:326 dakika 32 saniyeyaptığımız gibi ihtiyaçları belirliyoruz. o ihtiyaçlara uygun çalışmaları yapıyoruz ve daha sonrasında bu çalışmalar o ihtiyacı karşılayıp
+6:406 dakika 40 saniyekarşılamadığı ile ilgili bir değerlendirme yapıyoruz arkadaşlar.
+6:456 dakika 45 saniyeNormal programda olduğu gibi aslında burada beklenen şu: Milli Eğitim yapılan programlarla öğrenci gelişimini en üst seviyede gerçekleştirmeyi hedeflerken
+6:546 dakika 54 saniyebiz de okul temelli planlamalarla kendi çapımızda programımızı yapıyoruz. Bu bağlamda öğrenci ihtiyaçlarını
+7:017 dakika 1 saniyebelirleyip o ihtiyaçları giderecek çalışmalara da yönelmiş oluyoruz arkadaşlar. Tabii en sona da değerlendirmemizi yapıyoruz. E bu
+7:097 dakika 9 saniyeanlamda verimliliği artırabilmek için amacına ulaşabilmesini sağlamak için de öğrenci katılımını sağlamalıyız. Bu
+7:167 dakika 16 saniyeyaparak yaşayarak öğrenmeyle gerçekleşiyor zaten. Ve öğrencinin bütüncül hem zihinsel hem eee duyuşsal
+7:247 dakika 24 saniyehem sosyal bütün yönleriyle gelişimine hizmet etmemiz gerekiyor arkadaşlar. tek bir alana bağlı olarak değil, öğrencinin
+7:317 dakika 31 saniyebütüncül gelişimine uygun bir planlama yapmamız gerekiyor.
+7:367 dakika 36 saniyeEvet, uzun lafın kısası arkadaşlar okul temelli planlama dediğimiz şey bizim yıllık planlarımıza eee öğretim
+7:457 dakika 45 saniyeprogramları bağlamında oluşturduğumuz yıllık planlarımıza eklediğimiz okula uygun, okulun imkanlarına uygun etkinlikleri içerir ve normal planda
+7:537 dakika 53 saniyenasıl öğrenci gelişimini hedefliyorsak aynı şekilde öğrenci gelişimini hedefleyip gerekli yönlendirmeleri yapıp eee en sona da değerlendirmemizi
+8:038 dakika 3 saniyeyapmamız bekleniyor. Milli Eğitim Temel Kanununa bağlı olarak Milli Eğitimin genel amaçları, eee, temel ilkeler, onun
+8:118 dakika 11 saniyedışında, eee, öğretim programlarının genel amaçları ve arkadaşlar en sona öğrenme çıktıları dikkate alınarak geliştirmemizi yapıyoruz.
+8:228 dakika 22 saniyeBuyurun. Böyle bir sorumuz var.
+8:528 dakika 52 saniyeÇok güzel.
+8:558 dakika 55 saniyeBakın ne diyor. 2025 Türkiye yüzyılı marif modeli öğretim programları ortak metninde yer alan okul temelli planlama
+9:029 dakika 2 saniyeile ilgili aşağıdakilerden hangisi söylenemez? Öğrenci katılımını desteklemelidir. Evet. Yaparak ve işarerek öğrenmeyi olanak tanımalıdır.
+9:119 dakika 11 saniyeEvet. Zaten bu ikisi aynı şey arkadaşlar. Yani aynı şey derken eee içerikte de birbiriyle eee iki madde
+9:189 dakika 18 saniyeolarak ele almış. Ama bunların ikisi zaten aynı anlama geliyor. Yaparak, yaşayarak öğrenme ya da aktif katılım aynı şeydir. Öğrencinin bütüncül gelişimine hizmet etmelidir. Doğru.
+9:279 dakika 27 saniyeÖğrenme çıktıları dikkate almalıdır.
+9:299 dakika 29 saniyeDoğru. Eee, bunlar hep çıkmış sorular hocam. Yani, eee, bugün çözeceğimiz test değil de eee, konu anlatımının içindeki
+9:389 dakika 38 saniyetüm sorular çıkmış sorular. Bu ne zaman çıkmış? Eee, ne zaman çıktı? Zaten 2020
+9:459 dakika 45 saniye6'da çıktı hocam. eee öğrenme çıktıları dikkate alınmalıdır. Evet. Biz ne dedik?
+9:519 dakika 51 saniyeEee 1739 sayılı Milli Eğitim Temel Kanunuun genel amaçları, öğretim ilkeleri, programın genel amaçları ve öğrenme çıktıları göz önünde
+9:599 dakika 59 saniyebulundurulur dedik ve farklı zümre uygulamalar için ölçüt oluşturmalıdır değil arkadaşlar. Yani eee zümre
+10:0610 dakika 6 saniyeöğretmenleri tarafından belirleniyor ama o dersin zümresi tarafından belirlenmiş oluyor. Diğer zümreleri bağlayıcı bir yanı yoktur.
+10:1410 dakika 14 saniyeGeçiyorum. Okul temelli planlamayile ilgili gelen soru buydu.
+10:1810 dakika 18 saniyeBir diğer konumuz program dışı etkinlikler arkadaşlar. Program dışı etkinliklerde ders programlarının dışında yer alan sosyal sorumluluk
+10:2710 dakika 27 saniyeprogramları ya da hayat boyu öğrenme etkinlikleri olarak kabul edebileceğimiz ki iki başlık olarak karşımıza çıkıyor zaten alt başlığı olarak. Sosyal
+10:3510 dakika 35 saniyesorumluluk programı ve hayat boyu öğrenme olarak. öğretim programlarının içinde yer almayan ancak öğrencinin çok
+10:4310 dakika 43 saniyegönüllü gelişimine olanak sağlamak amacıyla arkadaşlar yapacağımız ekstra etkinlikler arkadaşlar program dışı etkinlikler olarak kabul edilebilir.
+10:5210 dakika 52 saniyeMesela bir huzur evi ziyareti veya bir çevre temizliği ile ilgili bir projede görev alması öğrencilerin yani eee programlarda yer alan etkinlikler
+11:0111 dakika 1 saniyedışında farklı etkinliklere yönelmeleri program dışı etkinliklerdir. hayat boyu öğrenmede yine bu kapsamda karşımıza çıkabiliyor. Niçin yapılır bu program
+11:1011 dakika 10 saniyedışı etkinlikler? Öğrencilerin çok yönlü gelişimi dedik. Zihinsel, sosyal duygusal, fiziksel ve ahlaki gelişimini desteklemek. Bu bütün özelliklerinde var
+11:1811 dakika 18 saniyezaten. Çünkü eee mağluk modelinin temelinde ne vardı? Öğrencinin bütüncül bir gelişimine olanak sağlamak vardı.
+11:2511 dakika 25 saniyeKazanılan becerilerin gerçek hayatta uygulanmasına olanak sağlamak, hayat boyu öğrenme ve sosyal sorumlulu programlarıyla artık eğitim faaliyetlerini okul programlarının
+11:3411 dakika 34 saniyedışına çıkartıp okul dışı etkinliklere de yönelmeyi sağlamış oluyoruz.
+11:3811 dakika 38 saniyeOkullarda yürütülen akademik çalışmaları zenginleştirmek, zamanı verimli kullanmak ve estetik duyarlılığı artırmak amacıyla program dışı
+11:4611 dakika 46 saniyeetkinliklere yer verilebilir. Eğitim programlarında yer almayan ama öğrencinin girişimine katkıda bulunmasını amaçladığımız etkinliklerdir
+11:5411 dakika 54 saniyebunlar arkadaşlar. Eee bu etkinlikler sayesinde öğrencilerin gerçek yaşam hani o fil dişi kulelerinden o okulun o
+12:0212 dakika 2 saniyekorunaklı yapısından o okulun nasıl diyeyim? eee toplumdan ayrı
+12:0912 dakika 9 saniyeyapısından uzaklaşıp okulda toplumla bütünleştirmek amaçlanıyor arkadaşlar.
+12:1412 dakika 14 saniyeBu bağlamda öğrencilerin gerçek yaşam becerilerini keşfetmeleri ve bu yaşam becerilerini geliştirme fırsatı da
+12:2112 dakika 21 saniyesunuyor arkadaşlar. Eee böylelikle bakın ne var burada? Tüm paydaşların bu arada tüm paydaşların derken kastedilen şey
+12:2912 dakika 29 saniyeöğrencinin eğitimiyle ilgili, öğrencinin eğitimine etki eden herkes. Yeri geldiğinde öğrencinin kendisi, yeri geldiğinde öğrencinin ailesi,
+12:3712 dakika 37 saniyearkadaşları, çevresi, diğer öğretmenler gibi tüm paydaşların katılımını teşvik ederek desteklendir. Bu etkinlikler eee
+12:4412 dakika 44 saniyeeğitimi sınıf ve okul sınırlarının ötesinde taşıyarak öğrencilerin gelecekte karşılaştıkları, zorluk ve fırsatları da hazırlıyor arkadaşlar.
+12:5312 dakika 53 saniyehayata hazırlamaktır. Yani aslında bu ilerlemecilik felsefesinde yer alan okul hayattan kopuk bir ortam değildir. Okul
+13:0013 dakikahayatın ta kendisi olmalıdır. Eee okul öğrenci hayata hazırlamaz. Eee hayatın ta kendisi olur düşüncesini burada
+13:0813 dakika 8 saniyegörüyoruz arkadaşlar. Eee ilerlemecilikle ilgili olduğunu söyleyebiliriz bu ifadenin.
+13:1313 dakika 13 saniyeBu anlamda öğrencilerin eee zaten bunu soruda gelse de yorumlarız. bireysel gelişimini yani kendini
+13:2013 dakika 20 saniyegerçekleştirmesini, zihinsel gelişimini eee yorum yapma, akıl yürütme becerilerinin geliştirilmesini, sosyal
+13:2813 dakika 28 saniyeduygusal becerilerin gelişiminin yani biraz daha psikolojik anlamda gelişiminin, fiziksel gelişiminin ve
+13:3613 dakika 36 saniyeahlaki gelişiminin desteklenmesi amaçlanır. Buradan böyle biraz eee sadece bilgi değil yorum da yapmamız
+13:4313 dakika 43 saniyegerektiren bir soru geldi arkadaşlar geçen sene. Buyurun bir bakalım nasılmış.
+14:3314 dakika 33 saniyeYa malik modeli detay diyoruz. Acaba zorlanır mıyız diyoruz ama gelen cevaplara baktığım zaman hani diğer sorulara da baktığımızda yani eee çok
+14:4214 dakika 42 saniyebüyük oranlarda doğru yaptığımızı görüyorum arkadaşlar. Bakın ne diyor.
+14:4914 dakika 49 saniyeEee, Türkiye Yzulu Marif modelinde yer alan program dışı etkinliklerinin alt alanları ve bu alanların açıklamalara ilişkin bir tablo verilmiştir. Hangi ikisinin yeri değişmelidir? Yani
+14:5714 dakika 57 saniyehangileri eee olduğundan farklı yazılmıştır? Bir, bireysel gelişimin desteklenmesi aslında burada kişilik
+15:0515 dakika 5 saniyegelişimi ve kendini gerçekleştirme gibi düşünebiliriz.
+15:1315 dakika 13 saniyeÖğrencilerin ilgi ve yeteneklerini keşfetmesi, özgüven oluşturmaları, güçlü bir şahsiyet geliştirme fırsatı sunar.
+15:2115 dakika 21 saniyeBireysel gelişimin desteklenmesi doğrudur. Zihinsel gelişimin desteklenmesi biraz daha bilişseldir.
+15:2815 dakika 28 saniyeYani eee beyin ya da biliş gelişimidir arkadaşlar. Akıl yürütme, yorumlama, karar verme, eee tahmin etme gibi
+15:3715 dakika 37 saniyebecerileri içerir arkadaşlar. zihinsel faaliyetlerdir.
+15:4115 dakika 41 saniyeÖğrencilerle stres, kaygı ve zorluklarla başa çıkma becerisini geliştirerek onların akranlarına ve çevreyle etkileşim kurma fırsatı sunar. Bu biraz
+15:4915 dakika 49 saniyedaha arkadaşlar psikolojik süreçlerle ilgilidir.
+15:5415 dakika 54 saniyeBiraz da sosyal duygusala uygundur arkadaşlar bu.
+16:0016 dakikaÇünkü bak stres, kaygı ve korguyla korkuyla başa çıkma ve akranlarıyla etkili iletişim kurabilme sosyal duygusal eee gelişimle ilgilidir.
+16:1016 dakika 10 saniyeSosyal duygusal gelişimin desteklenmesinde zaten bunu vermiş olduk. Öğrencilere entelektüel büyüme, karar verme. Bakın entelektüel zaten
+16:1816 dakika 18 saniyezihinsel demek. Karar verme, eleştirel düşünme ve problem çözmeyi geliştirme.
+16:2316 dakika 23 saniyeZaten arkadaşlar hatırlayın bunlar neydi? üst düzey bilişsel beceriler olarak karşımıza çıkıyordu. Cap diye kodlamıştık arkadaşlar. Karar verme,
+16:3116 dakika 31 saniyeeleştirel düşünme ve problem çözme becerileri. Bunlar neydi? zihinsel beceriler.
+16:3816 dakika 38 saniyeDolayısıyla aslında bu 2 ile 3'ün yerini değiştirmemiz gerekiyor. Doğru cevabımız B seçeneği oluyor. Diğerlerinde görecek
+16:4516 dakika 45 saniyeolursak fiziksel gelişim bedensel gelişim anlamında düşünülebilir.
+16:5016 dakika 50 saniyeÖğrencilerin sağlıklı gelişimleri konusunda desteklenmenin yanı sıra onlara kazandıkları becerileri hayat boyu yerine getirme ve sağlıklı bir
+16:5616 dakika 56 saniyehayat tarzı sunma. Doğru. Ahlaki gelişim ise merhamet, dayanışma, adil rekabet, yardımlaşma gibi değerlerin, ahlaki
+17:0417 dakika 4 saniyedeğerlerin kazandırılması. Bu da ahlaki gelişim olarak karşımıza çıkıyor.
+17:0917 dakika 9 saniyeDolayısıyla 2 ve 3'ü değiştirdiğimizde tablo doğru hale gelmiş oluyor arkadaşlar. Geçiyorum.
+17:1617 dakika 16 saniyeDediğimiz gibi eee bu eee program dışı etkinliklerde sosyal sorumluluk programı ve hayat boyu öğrenme olarak iki tane
+17:2417 dakika 24 saniyealt başlığımız var. Sosyal sorumluluk programlarının aslında insanları hayata karşı günlük hayatta karşılaştığımız
+17:3117 dakika 31 saniyeproblemlerin çözümüne ya da hayatı bir yerlerden tutunabilmemize olmak sağlayan programlardır arkadaşlar. Ne diyor?
+17:3917 dakika 39 saniyeöğrencilerin toplumsal sorunlar karşısında çözüm üretmesine katkı sağlayan birçok faaliyet ve eee projeyi destekler diyor. Yani toplumsal
+17:4817 dakika 48 saniyesorunları ben de bu toplumun bir ferdi olarak toplumsal sorunların çözümü için ben de sorumluluk alabilirim düşüncesini
+17:5517 dakika 55 saniyeöğrencilere kazandırmak amaçlanıyor arkadaşlar. Eee bu proje faaliyetler genellikle eğitim, kültür, spor, sağlık,
+18:0218 dakika 2 saniyesosyal hizmetler, çevre koruma gibi, eee, alanlarda karşımıza çıkıyor arkadaşlar. Burada öğrencilere toplumsal sorumluluk bilincini kazandırmak
+18:1118 dakika 11 saniyeamaçlıyorum. Hatta arkadaşlar aslında Maarif modelinden daha öncesinde de disiplin yönetmeliğinde
+18:1818 dakika 18 saniyeeee bundan mesela 10 sene önce 11 sene önce disiplin cezaları vardı. Aşağı yukarı 78 sene kadar önce disiplin
+18:2818 dakika 28 saniyecezaları yerine dendi ki öğrencilere ilk uygulamada disiplin cezası vermek yerine sosyal sorumluluk görevleri verilebilir
+18:3518 dakika 35 saniyedendi. Neden? Çünkü bir problem yaşıyorsa öğrenci uyumla ilgili olarak ya da disiplinle ilgili bir problem yaşıyorsa hayatın içinden birtakım
+18:4318 dakika 43 saniyeproblemlerin çözümünde sorumluluk alarak eee bir birey olarak kendi gelişimine katkıda bulunabilir düşüncesi var. Yani
+18:5218 dakika 52 saniyeaslında bu sosyal sorumluluk eee çalışmaları marif modelinden daha öncesine kadar dayansa da marif modeli ile birlikte programlara da entegre
+19:0019 dakikaedilmiş bir vaziyette karşımıza çıkıyor arkadaşlar. Eee, burada amaç öğrencileri topluma hizmet etmeye ve bireysel
+19:0919 dakika 9 saniyegelişimlerini bütüncül bir şekilde ele almaya teşvik etmektir arkadaşlar.
+19:1419 dakika 14 saniyeDolayısıyla toplumsal hizmet gibi düşünebiliriz. Burada eee öğrenciler bu anlamda toplumsal hizmetler vasıtasıyla
+19:2319 dakika 23 saniyetoplumsal problemlere çözüm arayarak eee hayatın içinde var olma konusunda motivasyonlar da artacaktır arkadaşlar.
+19:3419 dakika 34 saniyeBir diğer unsurumuz da hayat boyu öğrenme. Hayat boyu öğrenmeyi aslında ÖYT'de gördük daha önce. Neydi? Eğitim
+19:4219 dakika 42 saniyesürecini sadece okul sınırlarıyla eee sınırlandırmak yerine hayatın her anda, her zaman ve her yerde eğitimin
+19:4919 dakika 49 saniyeolabileceği bir yapı söz konusuydu. Yani öğrencilerin kendi eksiklerini giderebilmek açısından okul dışı öğrenme
+19:5719 dakika 57 saniyeortamlarında yayıl eee yönelmeleri amaçlanıyor. Beşikten mezara eğitim.
+20:0220 dakika 2 saniyeDolayısıyla arkadaşlar aslında hayat boyu eğitim eee örgün ve yaygın tüm eğitim süreçlerini kapsıyor. Mesela
+20:0920 dakika 9 saniyehocamız bir hocamız yaygın eğitim olarak belirtmiş ama örgün eğitimi de kapsıyor arkadaşlar. Çünkü örgün eğitimi
+20:1720 dakika 17 saniyeiçerisinde de biz hayat boyu öğrenme içinde ama örgün eğitimde zaten eğitim programları çerçevesinde hareket etmiş oluyoruz. Burada da hayat boyu
+20:2420 dakika 24 saniyeöğrenmeyile ne yapıyoruz? Öğrenci okul dışındaki etkinliklerde de kendi gelişimine, kendine katma değer
+20:3120 dakika 31 saniyesağlaması söz konusu oluyor. Arkadaşlar burada özellikle öğrencilerde öğrenmeyi öğrenme becerilerinin geliştirmesi
+20:3920 dakika 39 saniyeamaçlanır. Yani öğrenmenin sorumluluğunu sadece öğretmenin sorumluluğu ya da öğretmene ya da okula aktarmak yerine öğrenmek için de öğrencinin çaba
+20:4820 dakika 48 saniyegöstermesi, bu işsel motivasyona sahip olması, kendi gelişmek için çaba göstermesi esastır arkadaşlar.
+20:5820 dakika 58 saniyeGenelde çerçevesi bu arkadaşlar. eee hayat boyu öğrenme zengin öğrenme yaşantılarını da sağlıyor. Öğrencilerin sanat, spor gibi alanları da yönelmesini
+21:0721 dakika 7 saniyesağlıyor. Bugün okulda dedim ki ya koskoca okulumuz var. 1000 küsür tane öğrencimiz var. Ya şu okuldan örnek
+21:1521 dakika 15 saniyeveriyorum 4 tane münazaracı, ne bileyim 10 tane futbolcu, 6 tane voleybolcu illaki çıkar diyorum. Yani biraz diyorum
+21:2421 dakika 24 saniyehayatın içinde olun. Sadece okul etkinlikleriyle sınırlamayın kendinizi.
+21:2821 dakika 28 saniyeOkul dışındaki eee sosyal etkinliklere de yönelin diyorum. hayat boyu öğrenme o sosyal etkinlikleri de kapsıyor. Aynı zamanda tabii ki eee akademik etkinlikleri de kapsıyor.
+21:4121 dakika 41 saniyeVe arkadaşlar son olarak öğretmen yansıtmaları, yansıtma ifadesini gördüğümüzde aklımıza öz değerlendirme
+21:4921 dakika 49 saniyegelsin. Yani öğretmenin hem kendisini hem de öğretim programlarını değerlendirmesi anlamında yorumlamamız
+21:5621 dakika 56 saniyegerekiyor arkadaşlar. eee Türkiye yüzü marif modelinin yapısı eee marif modelinin son sayfasında yer alıyor.
+22:0322 dakika 3 saniyeAslında baştan sona ifade edilen kısım olduğu için o kısım çok önemli değil.
+22:0622 dakika 6 saniyezaten genel yapılan biliriz ama öğretmen yansıtması dediğimiz şey öğretmenin kendisini ve programları
+22:1322 dakika 13 saniyedeğerlendirmesi. Bu sayede de arkadaşlar kendi eksiklerini giderebilmesi, programın eksiklerini giderebilmesi, eğitim, öğretim faaliyetlerini,
+22:2122 dakika 21 saniyeverimliliğini en üstye çıkartabilmesinin amaçlandığı bir unsurdur arkadaşlar.
+22:2722 dakika 27 saniyeAmaç nedir? Öğretmen ve öğretimin gelişimini desteklemektir. Çünkü burada ne yapıyoruz arkadaşlar? öğretmen kendine ve programları değerlendirerek
+22:3522 dakika 35 saniyeeksiklerinin giderilmesi için katkı sağlıyor arkadaşlar. Burada da bakın onu görüyoruz. Yansıtma yoluyla öğretmenlerin hem kendilerinin hem de
+22:4322 dakika 43 saniyeöğretim programlarının güçlü ve iyileştirmesi gereken yönlerini değerlendirmeleri beklenir. Aslında burada öğretmen yansıtması dediğimiz şey
+22:5122 dakika 51 saniyeöğretmenin bir öz değerlendirme yapmasıdır.
+22:5722 dakika 57 saniyeYani ben nerede hata yaptım ya da benim güçlü yanlarım nelerdir? Benim derken kişisellikten ziyade eğitim öğretim
+23:0423 dakika 4 saniyesüreci anlamında güçlü ve zayıf yönlarından bahsediyoruz arkadaşlar.
+23:0823 dakika 8 saniyeBöylelikle de güçlü ve zayıf yönleri saptayarak eee zayıflıkların giderilmesi, güçlü yönlerin de aktif bir şekilde kullanılması sağlanıyor.
+23:1623 dakika 16 saniyeBöylelikle eğitim öğretim sürecindeki verimliliği en üst seviyeye çıkartmak amaçlanıyor. Arkadaşlar
+23:2523 dakika 25 saniyebakın ne diyor? yansıtma yapılırken diyor öğretmenlerin eee okul yöneticileri, öğretmenler, veliler, akademisyenler gibi paydaşlardan
+23:3323 dakika 33 saniyealdıkları geri bildirimleri de kullanması söz konusu olabiliyordur.
+23:3723 dakika 37 saniyeYani ben kendimi değerlendirirken benim göremediğim bir şeyler olabilir. Yeri geldiğinde öğrenciler, veliler, diğer
+23:4423 dakika 44 saniyeöğretmen arkadaşlarımın da görüşlerini göz önünde bulundurmam gerekiyor.
+23:5023 dakika 50 saniyeöğretmen yansıtmalarında veri kaynaklarına örnek olarak işte gelişim dosyaları, görüşme formları, öz değerlendirme formları zaten öz
+23:5823 dakika 58 saniyedeğerlendirmedir. Aynı zamanda anekdot kayıtları, günlükler, mikroğretim yani derslerin kayıt altına alınıp izlenmesi,
+24:0524 dakika 5 saniyeders raporları, münazaralar, kurul raporları veya öğretmen kurulu gibi veri kaynakları kullanılabilir. Bunlar sadece
+24:1324 dakika 13 saniyebirer tane örnek arkadaşlar. Yani öğretmenin kendisinin ve programının güçlü ve zayıf yönlerini saptamasıdır.
+24:1924 dakika 19 saniyeÖzetle öğretmen yansıtımaları. Son olarak öğretim programının yapısı.
+24:2624 dakika 26 saniyeBu zaten en baştan beri 4 haftadan beri söylediğimiz şey arkadaşlar Türkiye yüz maarif modeli bilgi, beceri, eğilim ve değerlerinin örüntülü yapısını korumak.
+24:3524 dakika 35 saniyePardon hemen bir öncekiyle ilgili soru var. Münazara nasıl yönlendirici olur?
+24:4124 dakika 41 saniyeHocam münazara etkinlikleri eee herhangi bir konuyla ilgili olarak eee öğretmenlerin birtım görüşleri tartışması şeklinde ifade edilebilir.
+24:5024 dakika 50 saniyeBurada münazarayı buraya koymuş ama bir örnek olarak eee koymuş. İşte mesela yapılan bir öğrenciler arasında
+24:5824 dakika 58 saniyeyaptığımız bir münazarada nasıl bir okul düşlersiniz? Nasıl ya da nasıl bir okul düşlersiniz münazara uygun olmadı.
+25:0525 dakika 5 saniyeOkullar işte eee bizim uyguladığımız birtım örnekler üzerinden gideriz. Bir tarafta da eee farklı örnekler üzerinden
+25:1425 dakika 14 saniyegiderek öğrenciler arasında bir münazara etkinliği yaparak oradan öğretmenin eee öğrencilerden geri bildirim alması sağlanabilir.
+25:2325 dakika 23 saniyeEvet. Fikir tatisi gibi de düşünülebilir. Evet hocam.
+25:2925 dakika 29 saniyeMesela biz öğretmenler olarak öğrencilere ders anlatırken öğrencilere bir öğretmen gözüyle bir münazara yaparak eğitim sisteminin nasıl olması
+25:3725 dakika 37 saniyegerektiği ile ilgili görüşler geliştirmelerini böylelikle kendimizi de değerlendirmemizi sağlayabiliriz şeklinde yorumladım bunu. Çünkü
+25:4425 dakika 44 saniyearkadaşlar bunların içinde ayrıca örneklendirmeleri yok. Yani Marif modelinin içinde örneklendirmeleri yok.
+25:5325 dakika 53 saniyeEvet bu bütüncül yapıyı söylüyorduk.
+25:5625 dakika 56 saniyeGenel yapıda eee bilgi, beceri, eğilim ve değerlerin örüntülü yapısı. Yani örüntü dediğimizde birbiriyle ilişkili, birbiriyle o bütünlük oluşturmuş
+26:0326 dakika 3 saniyeyapısını korumak kaydıyla okul türü, kademesi, ders özelliği gibi değişen kendler göz önünde bulundurarak farklı öğretim programlarının tasarlanabilmesi
+26:1126 dakika 11 saniyemümkün kılınır. Yani arkadaşlar hem disipliner hem de disiplinler arası yaklaşımlarla aynı zamanda bilgi, beceri
+26:1926 dakika 19 saniyeve eee gelişim odaklı olarak öğrencilerin tüm yönüyle gelişimini amaçlamış oluyoruz. Arkadaşlar,
+26:2826 dakika 28 saniyeeee, yapıda belirli öğrenme çıktıları, içerik, öğrenme süreçleri, ölçme değerlendirme yöntemleri olmak üzere tüm sürece rehberlik eden öğretim
+26:3726 dakika 37 saniyeprogramlarının yapısal olarak tanımlanıyor. Zaten arkadaşlar programda dör tane var dedik. Nelerdi bunlar?
+26:4326 dakika 43 saniyeHedefler. eee şeyde öğrenme çıktıları olarak ifade ediliyor.
+26:4926 dakika 49 saniyeMarif modelinde içerik zaten içerik olarak karşımıza çıkıyor. Öğrenme, öğretme süreçleri, eğitim durumları
+27:0027 dakikave ölçme değerlendirme yaklaşımları da sınama durumları olarak karşımıza çıkıyor. Dolayısıyla arkadaşlar programın her bir öğesinin yeni baştan
+27:0827 dakika 8 saniyegözden geçirili öğrenci eee gelişimini yetkin ve erdemli eee öğrenci profilini gerçekleştirmek amacıyla oluşturulduğunu
+27:1527 dakika 15 saniyesöyleyebiliriz arkadaşlar ve tutarlık ve uygulama birliğinin sağlandığı bir yapı da söz konusudur diyoruz. Bunları zaten söylemiştik eee günler içerisinde.
+27:2527 dakika 25 saniyeŞurada bir iki tane daha sorumuz var arkadaşlar. Ondan sonra konu anlatımımız tamamlanacak. Buyurun siz değerlendirin.
+27:5127 dakika 51 saniyeÇok güzel. Aslında soru biraz daha net arkadaşlar. Hangisi bütüncül eğitimin hedeflerinden biri değildir? Yani o eee
+27:5827 dakika 58 saniyebu Türkiye özü marif modelinde hedeflenen bir durum değildir. İnsanı temel erdemler doğrultusunda yetiştirmek ve geleceğe hazırlamak var. Eğitim
+28:0628 dakika 6 saniyeprogramı öğelerinin birbirinden bağımsız olduğu sistematik bir modem oluşmak yok.
+28:1128 dakika 11 saniyebirbirinden bağımsız diye bir şey söz konusu değil. Aslında disiplinler arası bir yaklaşımla eee öğretim programlarında birbiriyle ilişkili bir şekilde ele alınması söz konusudur.
+28:2228 dakika 22 saniyeArkadaşlar sarmal dersin kendi içindeki sınıflandırmasıdır. Bu biraz daha disiplinler arası olmalıdır şeklinde yorumlayabiliriz.
+28:3528 dakika 35 saniyeFarklı disiplinlerin eee birbiriyle ilişkili olarak ele alınması. Hedeflenen öğrenci profiline uyumlu paydaş rol ve sorumluluklarını kazandırmak var.
+28:4428 dakika 44 saniyeEğitim, öğretim ve ölçme değerlendirme yöntem tekniklerine yol gösterici olmak var. Bireyin tüm yönleri gelişimini ele
+28:5128 dakika 51 saniyealmak var. Eee dolayısıyla yanlış olan seçeneğimiz B seçeneği oluyor.
+28:5928 dakika 59 saniyeGeçiyorum.
+29:2629 dakika 26 saniye2024 yazan bir tane soru var demiştim ama iki tane varmış geçen hafta hatırlarsanız bir soru soru var demiştim ama iki tane 2025 çerçevesinde yazmıyor
+29:3529 dakika 35 saniyearkadaşlar. Bu eee Evet. [boğazını temizler] Ne diyor? 2024 Türkiye yüzyıl muhalik
+29:4429 dakika 44 saniyemodelinin beceri kazanma sürecindeki işlem adımları. İşlem adımları arkadaşlar süreç bileşenleridir.
+29:5629 dakika 56 saniyeAlan becerisi belli bir alana yönelik beceri alanını eee beceri ne diyeyim
+30:0430 dakika 4 saniyebütünlüğünü oluşturmaktadır. Okurzarlık eee sistem düşüncesi ile birlikte karşımıza çıkan bir ifadedir arkadaşlar.
+30:1230 dakika 12 saniyeeee sistem düşüncesi ve okuruyazarlık becerileri bir arada eline alınır.
+30:1630 dakika 16 saniyeİnsanların sisteme dair bileşenleri anlayabilmesi üzerine kuruludur. Öğrenme kanıtları zaten ölçme değerlendirme.
+30:2430 dakika 24 saniyeSüreç bileşiğini bu ölçme dedik.
+30:3030 dakika 30 saniyeEee süreç bileşeni dediğimiz işte dersin anlaşılması için takip ettiğimiz işlem adımları. Köprü kurma da geçmiş ve
+30:3730 dakika 37 saniyegelecek arasında bağ kurma konuları ilişkilendirme gibi düşünülebilir.
+30:4730 dakika 47 saniyeDolayısıyla doğru cevabımız D seçeneği yani süreç bileşeni olur.
+30:5730 dakika 57 saniyeEvet arkadaşlar eee malik modeli ile ilgili konu anlatımı ile ilgili söyleyeceklerimiz bunlar.
+31:0531 dakika 5 saniyeEee, daha 40 dakikamız olmuş arkadaşlar.
+31:0731 dakika 7 saniyeİsterseniz bir 45 tane soru çözüp ondan sonra eee, ara verelim. İsterseniz hemen ara verelim. Soru bütünlüğünü sağlayalım. Siz nasıl derseniz ona göre
+31:1631 dakika 16 saniyehareket edeceğim. İlk 10 kişinin cevabına göre hareket edeceğim. Eee, ben 4 be soru daha çözüp ondan sonra ara
+31:2331 dakika 23 saniyevermek taraftarıyım ama Evet.
+31:3331 dakika 33 saniyeEvet. Öyle bir sıralı gidiyor ki yani şöyle mesajları görseniz bir kişi ara hemen ardından devam edelim. Ara devam
+31:4231 dakika 42 saniyeedelim. O şekilde olmuş. Eee şöyle yapalım arkadaşlar. İsterseniz bir 5 soruyu çözelim.
+31:5131 dakika 51 saniyeOlur mu? Yani en azından bir eee 50 50 geçeyi görelim. Yani ara vermeden önce bir 50 geçeyi görelim diyorum arkadaşlar. Ne dersiniz?
+32:0132 dakika 1 saniyeZaten ilk 45 tane sorumuz biraz daha yoruma dayalı sorular. Ondan dolayı yani bir 4 be taneyi çözelim. Eee çünkü 40
+32:0932 dakika 9 saniyetane sorumuz olacağı için sonlarda biraz daha yorulabiliriz. Şimdi eee o zaman devam edelim. Ben bunu yine tam ekran yapayım.
+32:1832 dakika 18 saniyeEvet burada eee Türkiye özü marif modeli diyoruz ama dediğim gibi 25 tane sorumuz mağarif modeli. Eee program gelişme
+32:2632 dakika 26 saniyeyöntemle ilgili 10 tane sorumuz var. Bir tane be tane de ölçme değerlendirme sorumuz var. Hemen ilk sorumuzdan başlayalım. Zaten ilk sorular biraz daha
+32:3332 dakika 33 saniyebasit gelecek.
+32:3832 dakika 38 saniyeönce siz cevaplandırın. Ondan sonra ben
+33:0733 dakika 7 saniyegüzel. Bir iki eee yer de var. Ben de aslında bu soruyu yazdıktan sonra böyle gözden geçirken kulağımı tırmaladı.
+33:1433 dakika 14 saniyeYanlışlık yok soruda ama yani yanlış düşünmemize yol açabilecek bir durum var. Türkiye yüzü marif modeline göre ifadelerinden hangisi ya da hangileri
+33:2233 dakika 22 saniyedoğrudur? Bir farklılaştırılmış öğretim yaklaşımı benimsenir. Evet.
+33:2633 dakika 26 saniyeFarklaştırılmış öğretim yaklaşımında nesi vardı? Destekleme ve zenginleştirme vardı. Destekleme geri kalan öğrenciler için, zenginleştirme ileride giden
+33:3433 dakika 34 saniyeöğrenciler için yapılan etkinliklerde süreç ve durum temelli ölçme ve değerlendirme yaklaşımlarına yer verilmiştir. Evet. Yani eee öğrencilerin
+33:4333 dakika 43 saniyesürecin sonunda ortaya koydukları bir ürüne göre değil süreç boyunca yaptıkları çalışmalar ve koşullar göz önünde bulunur doğru. Dijital yetkinliğe
+33:5133 dakika 51 saniyeveya hayat boyu öğrenme kültürüne sahip bireyler yetiştirmek hedeflenir. Bu da doğru arkadaşlar. Yanlış anlaşılabilir dediğim kısım bu. Hani sanki sadece
+33:5933 dakika 59 saniyedijital yetkinlik mi? Hayır arkadaşlar sadece dijital yetkinlik değil ama öğrencilerin dijital yetkinliklere de sahip olması, hayat ve öğrenme kültürüne
+34:0734 dakika 7 saniyede sahip olması beklenir. Dolayısıyla doğru cevabımız 1 2 3 oluyor. Dijital okuryazarlık var ama eee bu 3üncü öncül
+34:1534 dakika 15 saniyediğerlerini dışlamıyor arkadaşlar. Yani sistem okur yaazarlığı ve hayat bir öğrenme deseydi tam doğrusu olurdu ama dijital yetkinlik dediğimiz var mı? Var.
+34:2434 dakika 24 saniyedozuyla eee böyle bireylerin yetiştirilmesi de eee marif modeli çerçevesinde düşünülebilir. Bu yüzden üçü de doğrudur arkadaşlar. Geçiyorum.
+35:1135 dakika 11 saniyeEvet. Soruda şunu gözden kaçırmıyoruz değil mi? biri değildir diyor.
+35:1835 dakika 18 saniyeAşağıdakilerden hangisi Türkiye yüzylü marif model çerçevesinde yetiştirilmesi amaçlanan bilge neslin özelliklerinden biri değildir? Etkin olarak medeniyet
+35:2635 dakika 26 saniyekurucusu ve geliştiricisi bu arkadaşlar Türkiye marif modelinde geçen bir ifadedir. Eee medeniyetin sadece tüketen
+35:3335 dakika 33 saniyebireyler değil kurucu ve geliştirici niteliklerde bu hayatta ben de varım diyen bireyler yetişmek var. eleştirel düşünen, sorgulayan araçlar ve mesuliyet
+35:4235 dakika 42 saniyeve ülkü yani eee belli amaçları olan bireyler yetişmek var.
+35:4835 dakika 48 saniyeTürk eğitim sisteminin amaçlarına uygun olarak toplumu ve ülkesini imar eden var. Yani şimdi medeniyeti geliştirecek
+35:5535 dakika 55 saniyeama ülkesini imar etmeyecek mi? Hayır var. Bu ülkenin bir ferdi olarak bu ülkeye katkı sağlamalı diyen bireyler var. Evrensel kabuller karşısında
+36:0436 dakika 4 saniyetoplumsal ve kültürel değerleri talihi değerler olarak kabul eden tali arkadaşlar ikincil anlamına geliyor.
+36:1436 dakika 14 saniyeEvrensel kabuller karşısında toplumsal ve kültürel değerleri tarihi değerler olarak kabul eden yok arkadaşlar. Yani hem evrensel kültürleri benimsemiş ama
+36:2236 dakika 22 saniyeevrensel kültürler çerçevesinde eee toplumsal ahlak, değerler, bakış açısı ve toplumsal gelişimini kültürel
+36:2936 dakika 29 saniyeyapısında göz önünde bulunduran bireyler yetiştirmek vardır. Yani kendi toplumsal değerlerini ikincil gören, kendi
+36:3736 dakika 37 saniyetoplumsal değerlerini geri plana iten bireyler yoktur arkadaşlar. Türkiye yüzlü marif modelinde böyle bir ifade geçmez. Ahlaklı, erdemli, millet ve
+36:4636 dakika 46 saniyeinsanlık için iyi, doğru olanı yapmayı ideal edilmiş. var. Dolayısıyla arkadaşlar hem toplumsal hem evrensel değerleri benimsemiş bireyler vardır.
+36:5536 dakika 55 saniyeHerhangi birini tarihi değer olarak görmesi söz konusu değildir. Bu yüzden D seçeneği yanlış olur.
+37:0137 dakika 1 saniyeGeçiyorum.
+37:2537 dakika 25 saniyeEvet. Ya hocam o tarz sorularda şunu düşünüyorum. Yani o cevabın çok belirgin olmasını istemiyorum. Hatta bu kitabımızda da bunlar benim kendi yazdığım sorular diye hatırlıyorum.
+37:3637 dakika 36 saniyegeçen seneden yazdığım kitapta da gözden geçip aslında hepsini tek tek düzenledik ama eee özellikle cevap çok belirgin
+37:4337 dakika 43 saniyeolsun istemiyorum. Ondan tali ya da öyle eee ifadeleri kullanıyorum.
+37:5137 dakika 51 saniyeEvet burada da cevapların genelde doğru olduğunu görüyoruz. Hangisi Türkiye yüzü malif modeli eğitim programlarına entegre eden yeniliklerden biri
+37:5937 dakika 59 saniyedeğildir? Sonuç yerine süreç odaklı değerlendirme vardır. Evet.
+38:0438 dakika 4 saniyeDisiplinler üstü yaklaşımları destekleyen program dışı etkinliklere yer verilir. Evet. Belli disiplinlerle sınırlandırılmaz. Bütün disiplinleri göz
+38:1138 dakika 11 saniyeönünde bulundururuz. Öğrencinin kendisinin inşasına olanak sağlayan öğrenme yaşantıları öne çıkar. Bu da var. Bireysel farklılıkları azaltarak
+38:2038 dakika 20 saniyeöğrencilerin istendik yönünde yetişmesini sağlamak yok arkadaşlar.
+38:2438 dakika 24 saniyeBireysel farklılıkları azaltmak söz konusu değildir. Amaç arkadaşlar yani farklılık zenginlik olarak görülür yeni programlarda. Bu yüzden bireysel
+38:3238 dakika 32 saniyefarklılıkları artırmak değil, herkesin güçlü olduğu alanda kendi gelişimine olanak sağlayabileceği, bu bağlamda kimisinin spora, kimisinin müziğe,
+38:4038 dakika 40 saniyekimisinin akademiye, kimisinin başka bir yere yönelebilecekleri ama bireyselleştirmiş eğitim etkinlikleriyle herkesin kendi ilgi alanına uygun eğitim
+38:5038 dakika 50 saniyegörebileceği bir yapı vardır. Bireysel farklılıklara saygı vardır. Eee ama azaltmak söz konusu değildir.
+38:5738 dakika 57 saniyeDolayısıyla bu yine yanlış oluyor.
+38:5938 dakika 59 saniyeSosyal duygusal öğrenme becerileri öğrenci gelişiminin ayrılmaz bir parçası olarak görülür. Bu da doğru. Dolayısıyla D seçeneği yine yanlıştır.
+39:0739 dakika 7 saniyeGeçiyorum.
+39:4039 dakika 40 saniyeŞimdi Türkiye yüzyılındaki eee Türkiye yüzyılı mık modelindeki öğrenci profillerine baktığımızda bilimsel bütünlüğün olmadığını söyleyebiliriz.
+39:4839 dakika 48 saniyeZaten dört tane vardı. Beşincisi uydurma oluyor. Mecbur ontolojik bütünlük ruh ve veten bütünlüğü anlamına geliyor.
+40:0240 dakika 2 saniyeEpistemolojik bütünlük, bilgi sahibi olma.
+40:0940 dakika 9 saniyeZamansal bütünlük geçmişten geleceğe bir yol gibi düşünülebilir. Aksiyolojik
+40:1840 dakika 18 saniyebütünlük ise arkadaşlar eee değerleri benimsemiş
+40:2640 dakika 26 saniyeve uygulayan birey özelliğidir. Burada özellikle dikkat etmemiz gereken şey ahlaki normların neler olduğunu bilmek.
+40:3640 dakika 36 saniyeepistemolojik bütünlüktür. Onları hayatını uyarlamak ya da onları uygulama konusunda istekli olmak aksiyolojik bütünlüktür. Epistemolojik bütünlük
+40:4540 dakika 45 saniyebilgi sahibi olma vurgusudur. Onları hayata dökebilmek aksiyolojik bütünlüktür arkadaşlar. Aksiyolojik olgunluktur.
+40:5440 dakika 54 saniyeBir okulun rehber öğretmeni öğrencilerin zihin gelişimlerinin yanı sıra beden ve duygu yönünden de gelişmelerin önemli olduğunu dile getiriyor. Bakın ruh ve
+41:0141 dakika 1 saniyebeden gelişimini ona göre bu doğrultuda bütüncül gelişme kişinin eee hem kendisi
+41:1041 dakika 10 saniyehem de toplum açısından sağlıklı ve dengeli bir insan olması anlamına gelmektedir. Dolayısıyla burada verilen özellikler ontolojik bütünlükle
+41:1841 dakika 18 saniyeilgilidir. Doğru cevabımız bu yüzden B seçeneği oluyor.
+41:2541 dakika 25 saniyeEvet, bir soru daha çözelim. 5. sorumuz.
+41:4141 dakika 41 saniyeEvet, burada aslında bir kavram, bir bilgi soruluyor arkadaşlar. Bir okulun edebiyat öğretmeni edebi eserler
+41:4941 dakika 49 saniyeüretebilmek için dilin inceliklerini, söz sanatlarını ve iletişim becerilerini başarılı bir şekilde kullanmanın
+41:5741 dakika 57 saniyegerekliliğine vurgu yapmıştır. Dilin inceliklerini bilmek, dili etkin bir şekilde kullanmak, söz sanatlarına hakim
+42:0442 dakika 4 saniyeolmak, belagat sahibi olmak olarak ifade edilir arkadaşlar. Ve hangi eee
+42:1042 dakika 10 saniyealandadır? bilge alanındadır arkadaşlar. Dolayısıyla eee A seçeneği olur.
+42:2342 dakika 23 saniyeMesela eee şeye bakacak olursak estetik duyarlılık sahibi olmak estetikle ilgili.
+42:3342 dakika 33 saniyeBu da gerçi bilgede vardı.
+42:3642 dakika 36 saniyeDirekt estetik demeyelim. Hatta bu sınavda da gelmişti. bilgenin özelliğidir arkadaşlar. Estetik duyarlılık sahibi olmak bilgenin
+42:4342 dakika 43 saniyeözelliği. Eee, iletişime açık olmak yine
+42:5242 dakika 52 saniyeyok. Estetik duyarlılık yoktu. Estetik duyarlılık şeyde, eee, bilgede vardı.
+42:5842 dakika 58 saniyeEee, estetikte yok ama hocam. Yani estetikte estetik duyarlılık ifadesi yok. Eee, estetikte ne var? Güzelliğe, güzelliğe duyarlı ifadesi var hocam.
+43:0843 dakika 8 saniyeEstetiğe duyarlı ifadesi yok da eee güzelliğe duyarlı, olgun, seçici, zarif gibi ifadeler estetikte vardı. İletişime
+43:1743 dakika 17 saniyeve dayanışmaya açık olan üretkende vardı.
+43:2243 dakika 22 saniyeSanatsal yeteneklerini bilen ve kullanan estetik de vardı.
+43:2743 dakika 27 saniyeMilli kültürüne ve manevi değerlerine bağlı olan da vatansever de vardı.
+43:3643 dakika 36 saniyeBurada tekrar söyleyeyim. Bakın ben bile anlatmama rağmen eee dalabiliyorum. Buna dikkat edelim. Bu bilgi kişi özelliği.
+43:4843 dakika 48 saniyeEvet. İsterseniz burada bir ara verelim arkadaşlar. 5 soruda ara veririz dedik.
+43:5743 dakika 57 saniyeEvet siliyorum ekranı. Şöyle yapayım.
+44:0744 dakika 7 saniyeKaydımı durdurayım. Biraz sonra devam ederiz arkadaşlar. Evet arkadaşlar geldik 6. sorumuza.
+44:1444 dakika 14 saniyeAraya giderken ekranda açık olduğu için ben hemen eee cevabı vermeye başlayacağım. Eee cevap gönderen arkadaşlar doğru cevabı göndermişler.
+44:2544 dakika 25 saniyeNe diyor? Türkiye yüzü mağluk modeline yönelik düzenlenen bir eğitim etkinliğinde konuşan eğitmen yetkin ve erdemli insan profillerinden bahsederken
+44:3344 dakika 33 saniyeüretken profilinin özelliklerini sıralamıştır. Buna göre aşağıda yer alan ifadelerden hangisi konuşmacının sıraladığı eee özellikler arasındadır?
+44:4444 dakika 44 saniyeNe vardı arkadaşlar? hayalleri ve hedefleri olan üretken de öğrenme istekli, çalışkan, azimli ve sabırlı,
+44:5244 dakika 52 saniyeyaratıcı, eee, iletişime ve dayanışmaya açık olan gibi özellikler vardı arkadaşlar. Bu anlamda çalışkan,
+45:0145 dakika 1 saniyeyaratıcı, azimli ve sabırlı özellikleri üretkenin özellikleri arasında görüyoruz.
+45:0945 dakika 9 saniyeKendine güvenen, sorumluluk alan, eee, kararlı, iddialı, tutarlı, ilkeli.
+45:1645 dakika 16 saniyeBunlar hangisinde vardı arkadaşlar? İradelide.
+45:2245 dakika 22 saniyeGüvenilir, dürüst, tabiata ve toplumsal olaylara eee saygılı, adil, güvenilir
+45:3145 dakika 31 saniyezaten yazıyor. Doğru, dürüst gibi özellikler hangisinde? Ahlaklıda.
+45:3945 dakika 39 saniyebilgilerini paylaşan belagat sahibi ki az önce de söyledik arkadaşlar. Bağımsız ve özgür düşünen estetik duyarlılık sahibi bilge.
+45:5145 dakika 51 saniyeTürkçeye sahip çıkan, bayrağını seven, milli kültürüne ve manevi değerlerine bağlı olan vatansever.
+46:0246 dakika 2 saniyeDolayısıyla üretkeni sorduğu için A seçeneği geçiyorum. Ekran gönü alacak arkadaşlar alsınlar.
+46:1946 dakika 19 saniyeBuyurun 7. sorumuza bakalım.
+46:5346 dakika 53 saniyeÇok güzel. Ama biz yine de tabii ki eee sadece soru çözmek değil aynı zamanda hatırlamak da söz konusu olduğu için hemen burada bu benlik becerilerini de
+47:0247 dakika 2 saniyehatırlamış olalım. Türkiye yüzyılı marif modelinde öğrencilerin becerini geliştirmeleri ve eyleme geçebilmeleri için öğretim programlarının temel bileşenlerinden biri olarak yer alan
+47:1047 dakika 10 saniyeeğilimler benlik eğilimleri, sosyal eğilimler ve entelektüel eğilimler olarak sınıflandırılmıştır. Hangisi sosyal eğilimler altındadır? Şimdi
+47:2047 dakika 20 saniyearkadaşlar benlik eğilimlerinde neler vardı? Merak, bağımsızlık,
+47:2947 dakika 29 saniyeazim ve kararlılık, özgüven, öz yeterlilik ve özgüven.
+47:4447 dakika 44 saniyeSosyal eğilimlerde neler vardı? Empati, sorumluluk.
+47:5347 dakika 53 saniyegirişkenlik, güven ve oyunseverlik pardon.
+48:0448 dakika 4 saniyeDiğerleri de entelektüel yayınler. İşte onları tek tek yazmaya kalksak eee bitmez. Odaklanma, yaratıcılık, analitik düşünme, açık fikirlilik, eee soru
+48:1348 dakika 13 saniyesorma, şüphe etme gibi zihinsel beceriler. Diğerleri de entelektüel eğilimlerde vardı. Buna göre hangisi
+48:2048 dakika 20 saniyesosyal eğilimlerde sorumluluk sosyal eğilimler arasında var. analitik olma, entelektüel,
+48:2948 dakika 29 saniyebağımsızlık yine eee yine diyorum pardon benlik eğilimlerinde
+48:3648 dakika 36 saniyesistematik olma, entelektüel, azim ve kararlıkta benlik eğilimlerine.
+48:4548 dakika 45 saniyeO yüzden doğru cevabımız B seçeneği oluyor. Geçiyorum. Ekran görünü alacak arkadaşlarımız alsınlar.
+48:5548 dakika 55 saniyegeçtim.
+49:0049 dakikaYine sosyal duygusal öğrenme becerileri ile ilgili bir soru.
+49:4049 dakika 40 saniyeEvet, burada biraz daha farklı cevaplar geliyor arkadaşlar. Ne diyor? Bir felsefe öğretmeni pardon
+49:4849 dakika 48 saniyeöğrencilerden planlama ve zaman yönetimine dikkat etmelerini, güvenilir bilgi kaynaklarını kullanmalarını ve tüm süreç boyunca
+49:5649 dakika 56 saniyeaktif olarak sorumluluk almalarını ister. Yani ne istiyor? Planlama ve zaman yönetimini doğru yapın. Güvenilir bilgi kaynağını kullan. Çalışmalarını
+50:0550 dakika 5 saniyeona göre yönlendir. Tüm süreç boyunca da aktif ol. Aktif katılım var. Şimdi iletişim başkalarıyla etkileşim halinde
+50:1450 dakika 14 saniyeolma. Diğerleriyle eee iletişim süreçlerini etkin kurma. Öz farkındalık kendi potansiyellerinin farkında olmak arkadaşlar.
+50:2450 dakika 24 saniyeKendi potansiyelinin farkında olmak. Öz düzenleme kendi davranışlarına ve çalışmalarına yön verme. Şöyle diyeyim.
+50:3050 dakika 30 saniyekendine yön verme.
+50:3550 dakika 35 saniyeÖz farkındalık, kendinin farkında olma ki kendini tanıma olarak da ifade ediliyor bu arkadaşlar. Öz farkındalık.
+50:4750 dakika 47 saniyeEee, sosyal farkındalık biraz daha çevresinde olan bitenin farkında olmak.
+51:0051 dakikasorumlu karar vermeye de eee aldığı kararların sorumluluğunu üstlenme şeklinde düşünülebilir. Burada planlama
+51:0751 dakika 7 saniyeve zaman yönetimi, bilgi kaynaklarının nasıl çalışacağını yönlendirmesi, bunlara baktığımız zaman
+51:1551 dakika 15 saniyeaktif olması, bunlar eee kendine yön verme yani öz düzenleme ile ilgilidir.
+51:2451 dakika 24 saniyeBu yüzden doğru cevabımız C seçeneği oluyor arkadaşlar. Burada belki sorumluluk ifadesini gördüğümüzde sorumluluk karar
+51:3351 dakika 33 saniyeverme gibi düşünebiliriz ama sorumluluk karar vermede vurgu aldığımız kararların sorumluluğunu üstlenme ile ilgilidir. Ya da bir karar alacağımız zaman kendimizi
+51:4351 dakika 43 saniyesorumlu hissetmeyile ilgili bir durumdur. Ama burada ne yapıyor? Planlama ve zaman yönetimine dikkat et. Yani kendini nasıl yönlendireceğini bil.
+51:5051 dakika 50 saniyeDoğru kaynakları yönelerek çalış. Yani eee davranışlarını düzenlemek, davranışlara yön verme söz konusu olduğu için öz düzenleme olarak ifade etmek
+51:5951 dakika 59 saniyedaha doğru olacaktır. Öz düzenleme kendini düzenleme olarak da ifade edilebiliyor. Bu yüzden doğru cevabımız C seçeneğidir.
+52:0852 dakika 8 saniyeGeçiyorum.
+52:5252 dakika 52 saniyeÇok güzel. Bakın malinin bilgi anlayışından bahsediyor. Eğitim diyor yalnızca bireyin bilişsel gelişimini önceleyen bir süreç olarak değil.
+53:0153 dakika 1 saniyebireyin insanlık ailesi içinde konumlanmasını, değer üretmesini ve sorumluluk bilinci gelişmesini amaçlayan bütüncül bir yapı olarak ele almaktadır.
+53:0953 dakika 9 saniyeBu bağlamda bilgi salt aktarılması gereken bir içerik olmaktan çıkarak bireyin topluma ve insanlığa karşı yükümlülüklerini yerine getirmesinde işlevsel bir araç olarak kabul edilir.
+53:2053 dakika 20 saniyeBilgi sadece aktarılan bir içerik değildir. Aynı zamanda topluma ve insanlığa karşı yükümlülüklerimizi yerine getirmemize yardımcı olan bir
+53:2853 dakika 28 saniyearaç olarak karşımıza çıkıyor. Buna göre Türkiye yüzlü marif modelinin bilgi anlayışını en doğru biçimde yansıtan ifade hangisidir?
+53:3853 dakika 38 saniyeBilginin bireysel akademik başı artıran bir araç olarak kullanılması var mı? Var ama en doğruyu söylüyor. Yani bizim temel amacımız o değildir. Dolayısıyla
+53:4753 dakika 47 saniyebunu eleriz büyük ihtimal. Diğerlerine de bakalım. Ona göre karar vereceğiz.
+53:5053 dakika 50 saniyeTabii bilginin mesleki yeterlilik kazandırma amacıyla disiplin temelli sunulması değil, belli bir disipline değil, disiplinler arası bilgiye önem verildiğini biliyoruz arkadaşlar.
+54:0154 dakika 1 saniyeBilginin kültürel sürekliği sağlamak için geleneksel yöntemlerle aktarılması, geleneksel yöntemlerle aktarılması değil, süreç değerlendirmede söz konusu
+54:0954 dakika 9 saniyeolduğu için bu yoktur. Arkadaşlar bilginin sorumluluk bilinciyle bütünleşerek insanın dengeli gelişimine
+54:1654 dakika 16 saniyeve topluma katkısına yönelmesi. Bu var zaten. Burada da bakın neyi görüyoruz?
+54:2054 dakika 20 saniyeTopluma ve insanlığa karşı hükümlerini yerine getirmesinde işlevsel bir araçtır diyor. Dolayısıyla yukarıdaki vurgun bunun olduğunu görüyoruz arkadaşlar.
+54:2954 dakika 29 saniyeBilginin evrensel doğrular bütünü olarak bireye aktarılması ve ölçme değerlendirme yoluyla denetlenmesi. Bu da yok arkadaşlar. bilgi aktarmaktan
+54:3754 dakika 37 saniyeziyade bilgiyi öğrenmek vardır. Çağdaş eğitimde de marif modelinde de.
+54:4154 dakika 41 saniyeDolayısıyla D seçeneği bilginin yapısını daha doğru açıklayan bir ifade olarak karşımıza çıkıyor.
+54:4854 dakika 48 saniyeGeçiyorum. Gelen tüm cevaplar doğruydu zaten. Buyurun bu soruya da bakalım.
+55:5055 dakika 50 saniyeSadece bir cevap geldi arkadaşlar. Biraz fazla mı süzüyoruz?
+56:0256 dakika 2 saniyeEvet. Burada bir kavram bilgisi yokluyor aslında bu soru.
+56:0956 dakika 9 saniyeBakalım.
+56:1256 dakika 12 saniyeÇeşitli olay, konu ya da durumları araştırma ve aralarındaki ilişkileri ilişkilendirip genişleterek yargıya varma. genişletme yani genelleme.
+56:2556 dakika 25 saniyeNesne, olgu ve genelleme var. Yani nesne, olgu ve olayları, gözlem ve ölçme sonuçlarında sonucunda belirlenen
+56:3356 dakika 33 saniyeözellikleriyle ve birbirleriyle ilişkilerine göre eee gruplara ayırma,
+56:4056 dakika 40 saniyegruplara ayırma, sınıflandırma, birden fazla kavram veya durum
+56:5056 dakika 50 saniyearasındaki benzerlik ve farklılıkları belirlemek. Benzerlik ve farklılıkları belirleme, eee, karşılaştırma.
+57:0357 dakika 3 saniyeHerhangi bir duruma ilişkin farkında olma, anlamlı sorular sorma, bilgi edinme ve bunları değerlendirme, sorgulama.
+57:1557 dakika 15 saniyeŞöyle düşünün arkadaşlar. Sürekli olarak size sorular soruyorsam bana dersiniz ki, "Ya hocam yeter artık beni sorgulama." dersiniz, değil mi?
+57:2257 dakika 22 saniyeSorgulama dediğimiz şey sürekli olarak sorular sorma, belli ölçütler bağlamında değerlendirmelerde bulunma olarak düşünülebilir. Peki burada yer almayan
+57:3057 dakika 30 saniyemuhakeme becerisi nedir? Muhakeme arkadaşlar akıl yürütmedir. Dolayısıyla akıl yürütme biçimleri olan tüme varım,
+57:3757 dakika 37 saniyetümden gelim ve analoji gibi eee yöntemleri kullanarak çıkarım yapmadır arkadaşlar. Muhakeme yapma çıkarımda bulunmadır.
+57:4657 dakika 46 saniyeEvet.
+57:5057 dakika 50 saniyeakıl yürüterek çıkarımda bulunma.
+57:5857 dakika 58 saniyeMağif modelinde geçen ifadesiyle de burada akıl yürütme dedik kısaltmak için akıl yürütme biçimleri var. Tüme varım, tümden gelim ve analoji. Orada da öyle
+58:0558 dakika 5 saniyediyor. Tüme varım, tümden gelim ve analoji yöntemlerini kullanarak herhangi bir durumla ilgili olarak eee çıkarımda bulunma diyor.
+58:1758 dakika 17 saniyeFarkında olma ve değerlendirme. Hocam değerlendirme dediğimiz şeyin temelinde sorgulama vardır. Yani dolayısıyla eee
+58:2558 dakika 25 saniyeaslında eee bir ölçütle karşılaştırma hatta ben eee eleştirel düşünmeden bahsederken sorgulama ve değerlendirme becerileri şeklinde ifade ederim hep.
+58:3658 dakika 36 saniyeEee dolayısıyla burada sorular sorma ve değerlendirme orayı daha sorgulama olarak ifade etmemizi sağlıyor. Kaldı ki buradaki tanımlar marif modelindeki
+58:4558 dakika 45 saniyeifadeleri arkadaşlar geçiyorum.
+59:1459 dakika 14 saniyeÇok güzel.
+59:2159 dakika 21 saniyeBazı arkadaşlar direkt hemen kısaltmayı yazıyorlar.
+59:3959 dakika 39 saniyeEvet. Yukarıda E şıkkı okunmuyordu. Gözükmüyor mu?
+59:4659 dakika 46 saniyeBende şu anda hepsi gözüküyor ama acaba ekranı biraz küçültüp büyütseniz olabilir mi ki?
+1:00:021 saat 2 saniyeGörüyorum.
+1:00:051 saat 5 saniyeŞimdi yukarıda kavramsal beceriler diyor sınıflandırılırlar diyor. İşte üst düşünme becerileri, temel beceriler, eee, bütünleşik beceriler olarak
+1:00:131 saat 13 saniyesınıflandırılır. Bundan bahsediyor arkadaşlar.
+1:00:181 saat 18 saniyeMouse oynatmayınca alt bilgi çubuğu gtür. He ben bende direkt şey oluyor da demek arada mouse'u böyle gezdirmek gerekiyor.
+1:00:311 saat 31 saniyeBuna göre Türkiye yüzün mari modelinde ele alınan üsteği düşünme becerileri.
+1:00:371 saat 37 saniyeŞimdi biz burada üç tür beceriden bahsetmiştik arkadaşlar. temel beceriler, herhangi bir eee zihinsel beceri gerektirmeyen, çok karmaşıklık
+1:00:451 saat 45 saniyegerektirmeyen neler vardı burada? Okuma, yazma, işte basit hesaplama gibi durumlar vardı temel becerilerde. Eee
+1:00:521 saat 52 saniyeonun dışında eee ikinci olarak dedik ki bütünleşik beceriler var dedik.
+1:00:571 saat 57 saniyeBütünleşik beceriler biraz daha işte gözlemleme, özetleme, bilgi toplama, soyutlama gibi kavramlardır dedik.
+1:01:041 saat 1 dakika 4 saniyeÜsteği düşünme becerileri için de ne dedik? Cap dedik.
+1:01:091 saat 1 dakika 9 saniyekarar verme, eleştirel düşünme ve problem çözme becerisi dedik. Eee, dolayısıyla bakın çelişik giderme, sorgulama ve yansıtma bunlar bütünleşik.
+1:01:191 saat 1 dakika 19 saniyeBilgi toplama, sınıflandırma çözümleme bütünleşik. Eee, diğerleri hep bütünleşik. E seçeneğinde bakın karar verme, problem çözme ve eleştirel düşünme becerileri diyor.
+1:01:291 saat 1 dakika 29 saniyeDolayısıyla E seçeneği eee, üstü düşürme becerileri arasındadır. Herkes doğru cevap vermiş. Geçiyorum.
+1:01:451 saat 1 dakika 45 saniyeBunu zaten az önce söylemiştik.
+1:01:471 saat 1 dakika 47 saniyeBecerileri şey eğilimleri pardon.
+1:02:101 saat 2 dakika 10 saniyeNe demiştik? Merak, bağımsızlık, azim ve kararlılık. Merak var, bağımsızlık var, azim ve kararlılık var. kendine güven ve
+1:02:191 saat 2 dakika 19 saniyeözgüven ve eee özeterlilik benlik becerilerindeydi. Buna karşılık empati, sorumluluk, girişkenlik, güven,
+1:02:271 saat 2 dakika 27 saniyeoyunseverlik sosyal becerilerdeydi, sosyal eğilimlerdeydi. Dolayısıyla arkadaşlar doğru cevabımız C seçeneği oluyor.
+1:02:371 saat 2 dakika 37 saniyeEvet. Bam! Yani bağımsızlık, merak, azim ve kararlılık. Bir de özü gördüğümüz
+1:02:441 saat 2 dakika 44 saniyeyerlerde özgüven ve öz yeterlilikte TD benlik becerilerinde geçiyorum. Zaten
+1:02:511 saat 2 dakika 51 saniyeaz önce açıklamasında yapmıştık bu sorunun. Benzer bir sorunun alan becerileriyle ilgili bir soru.
+1:03:211 saat 3 dakika 21 saniyeBiz ne dedik arkadaşlar? tasarım becerileri. Bir daha teknoloji tasarım gibi.
+1:03:321 saat 3 dakika 32 saniyeYok. Eee teknoloji tasarım karışır burada. Düzeltiyorum.
+1:03:381 saat 3 dakika 38 saniyeBelki teknolojiyle karışabilir şey olarak ama tasarım dediğimizde biraz daha tasarlamak yani eee bir şeyleri
+1:03:461 saat 3 dakika 46 saniyeplanlama gibi eee düşünebiliriz arkadaşlar.
+1:03:511 saat 3 dakika 51 saniyeMatematikte veriler biraz daha öne çıkıyordu. Veri toplama, verilerle analiz etme, matematiksel düşünebilme gibi beceriler vardı. Fen bilimleri alan
+1:03:591 saat 3 dakika 59 saniyebecerilerinde daha çok bilim ve bilimsel düşünme var. Bilimsel yöntem vurgusu vardı.
+1:04:061 saat 4 dakika 6 saniyeSosyal bilimlerde eee tarih, coğrafya, felsefe,
+1:04:141 saat 4 dakika 14 saniyesosyoloji gibi alanlar karşımıza çıkıyordu.
+1:04:181 saat 4 dakika 18 saniyeBilişim, teknoloji ve yazılım alanlarında da biraz daha yazılım vurgusunun öne çıktığını söylemiştik arkadaşlar. Burada da ne var?
+1:04:241 saat 4 dakika 24 saniyeGirişimcilik, mantıksal muhakeme. Zaten mantıksal muhakeme, mantık, felsefenin alt kılı, felsefi sorgulama, zamanı algılama ve
+1:04:331 saat 4 dakika 33 saniyekronolojik düşünme. Bunlar da biraz daha tarihle ilgili sosyal bilimler alan becerileri arasında görüyoruz arkadaşlar. Bunu
+1:04:431 saat 4 dakika 43 saniyematematikte felsefi sorgulama ve zaman algılama yok arkadaşlar. Matematik biraz daha verileri anlama ve verileri yorumlama üzerine kurulu.
+1:04:531 saat 4 dakika 53 saniyegeçtim. Evet. Matematik dedik mi? Veri bakın.
+1:04:581 saat 4 dakika 58 saniyeBence matematikle fen karışabilir birbiriyle ama matematik biraz daha veriler üzerinden gidiyor. Fen bilimleri daha çok bilim ve bilimsel yöntem üzerinden gidiyor.
+1:05:091 saat 5 dakika 9 saniyeEvet. Yine eğilimlerle ilgili bir soru.
+1:05:121 saat 5 dakika 12 saniyeEğilimlerle ilgili tane sorumuz oldu ama en azından soru gelme ihtimali yüksek olan bir konu olduğu için burada da kavramlar hani hangi eğilim hangi kavramda ifade ediliyor?
+1:05:591 saat 5 dakika 59 saniyeEvet. Bir bakalım.
+1:06:021 saat 6 dakika 2 saniyeFarklı deneyimler, fikirler ve önerilere açık olmayı içeren zihinsel örüntüler, farklılıklara açık olmak, açık fikirlilik.
+1:06:181 saat 6 dakika 18 saniyeBir konu ya da davranışı öğrenme sürecinde sürecini keyifli ve eğlenceli hale getirebilmesine ilişkin örüntüler.
+1:06:271 saat 6 dakika 27 saniyeOyunseverlik. Bu arada silelim de oyunseverlik dedik.
+1:06:331 saat 6 dakika 33 saniyeAçık fikirlik dedik. Bir işi yerine getirme konusundaki gayreti ve bu yöndeki kararları her türlü zorluğa karşı Yılmaksızın uygulama çabası. azim ve sorumluluk, azim ve kararlılık.
+1:06:491 saat 6 dakika 49 saniyeÇeşitli durumlarda belirli bir yöntemle düzenli, örgütlü, odaklı ve gayretli şekilde ele alınması.
+1:06:591 saat 6 dakika 59 saniyeBurada da sistematik bir şekilde ele alınması. Sistematiklik. Dolayısıyla eleştirel bakma yok.
+1:07:071 saat 7 dakika 7 saniyeeleştirel bakmada birtakım ölçütler belirleyerek o ölçütler doğrultusunda eee değerlendirme, eleştirme gibi
+1:07:161 saat 7 dakika 16 saniyeifadeler karşımıza gelir. Dolayısıyla D seçeneği yok. Geçiyorum.
+1:08:001 saat 8 dakikaEvet.
+1:08:011 saat 8 dakika 1 saniyeTürkiye yüzlü marif modelinde dil yalnızca iletişim aracı olarak değil düşüncenin inşası, kültürün aktarımı ve insanın kendine gerçekleşmesi için temel
+1:08:101 saat 8 dakika 10 saniyebir unsur olarak ele alınır. Türkçenin doğru, etkili ve estetik kullanımına yapılan vurgu eee bireyin zihinsel
+1:08:191 saat 8 dakika 19 saniyegelişimi ile toplumsal bütünlüğünün birlikte ele aldığını göstermektir.
+1:08:231 saat 8 dakika 23 saniyeBu yaklaşım dil öğretimin araçsal değil kurucu bir işleve sahip olduğunu ortaya koymaktadır.
+1:08:311 saat 8 dakika 31 saniyeBu çerçevede aşağıdaki uygulamalardan hangisi metinde belirten Türkçe öğretim anlayışıyla en az örtüşür? Yani Türk yüzü mali modelindeki Türkçe öğretimiyle
+1:08:401 saat 8 dakika 40 saniyeen az örtüşen. Türkçenin disiplinler arası çalışmalarda ortak düşünme dili olarak kullanılması doğru. Bakın yarın dedim felsefe sınavım var. Eee bütün
+1:08:491 saat 8 dakika 49 saniyeTürkiye'de felsefe sınavı var arkadaşlar. MB belirlediği için tarihi şunu söylüyorum arkadaşlarım. Türkçeyi etkin ve doğru kullanmak bütün derslerin
+1:08:571 saat 8 dakika 57 saniyeortak becerisidir. Bu yüzden öznesi yükleme yerine doğru cümleler kullanın diyorum öğrencilerime. Çünkü disiplinler arası bir yaklaşımdır. Bütün hocalar
+1:09:061 saat 9 dakika 6 saniyeTürkçenin etkinin kullanılmasına önem vermelidir.
+1:09:091 saat 9 dakika 9 saniyeDil öğretimi kültürel değer aktarımıyla ilişkilendirilir. Eee yine yukarıda bakın kültür aktarımı ve insanın kendini gerçekleştirme unsuru olarak ele alınmaktadır diyor. Bunu da görüyoruz.
+1:09:191 saat 9 dakika 19 saniyeBu var.
+1:09:211 saat 9 dakika 21 saniyeTürkçenin yalnızca dil bilgisi kuralları çerçevesinde öğretilmesi, belli bir alan çerçevesinde öğretilmesi değil, doğru biçimde öğretilmesi de önemlidir arkadaşlar. Dolayısıyla bu yanlıştır.
+1:09:321 saat 9 dakika 32 saniyeYani dil bilgisi olarak değil, aynı zamanda kullanım, hayatın eee bir parçası olarak yaşayan bir yapı olarak dilden bahsetmek gerekir arkadaşlar.
+1:09:441 saat 9 dakika 44 saniyeÖğrencilerin ifade, anlama ve anlamlandırma becerini geliştirmesi var.
+1:09:491 saat 9 dakika 49 saniyeDilin bireyin kendini ve toplumunu kavrama sürecinde temel araç olarak görülmesi de var. Dolayısıyla sadece dil bilgisi kuralları çerçevesinde öğretilmesi yanlıştır.
+1:10:001 saat 10 dakikaGeçtim.
+1:10:521 saat 10 dakika 52 saniyeÇok güzel.
+1:10:551 saat 10 dakika 55 saniyeBakalım yukarıdaki ifadeler. Türkiye yüz marif modelinin bileşenlerin ile eşleştirildiğinden hangisi dışarıda
+1:11:021 saat 11 dakika 2 saniyekalır? Öğrenme sürecinde ele alınan bilgi kümeleri. Ne öğretelim sorusunun cevabı neydi? Bu içerik.
+1:11:131 saat 11 dakika 13 saniyeE gitti. Öğrenme çıktılarının değerlendirilmesi ile uygun ölçme ve değerlendirme araçları. Öğrenme çıktısı neydi? Hedefti.
+1:11:221 saat 11 dakika 22 saniyeAma ne diyor burada? Hedeflerin değerlendirilmesi ile uygun ölçme değerlendirme araçlarının eee ifade edilmesi. Ölçme değerlendirme yani öğrenme kanıtları.
+1:11:361 saat 11 dakika 36 saniyeProgram geliştirmede eee sınama durumları olarak gördüğümüz kısım oluyor. Öğrenme kanıtları da burada var.
+1:11:441 saat 11 dakika 44 saniyeÖğrenme çıktıların eğilim, programlar arası bileşenler ve öğrenme kanıtları arasında kurulan anlamlı ilişkilere dayanan öğrenme ve öğretme süreci.
+1:11:541 saat 11 dakika 54 saniyeÖğrenme öğretme süreci zaten öğrenme öğretme yaşantıları.
+1:12:061 saat 12 dakika 6 saniyeE de gitti.
+1:12:081 saat 12 dakika 8 saniyeBilgi ve beceriler ile günlük hayatında bağ kurma. Bağ kurma eşittir köprü kurma.
+1:12:161 saat 12 dakika 16 saniyeHayat ve okul arasında bağ kurma. Geçmiş ve gelecek arasında bağ kurma.
+1:12:191 saat 12 dakika 19 saniyeBilinenlerle bilinmeyenler arasında bağ kurma hep köprü kurmadır. Dolayısıyla o da var. öğrenme çıktıları yani diğer bir
+1:12:271 saat 12 dakika 27 saniyeifadesiyle hedeflerle ilgili bir durum söz konusu değildir. C yok yani.
+1:12:351 saat 12 dakika 35 saniyeGeçiyorum.
+1:12:551 saat 12 dakika 55 saniyeEvet arkadaşlar bu soruyu ben yazmadım.
+1:12:581 saat 12 dakika 58 saniyeBu soru geçen sene AGS'de yani MEB tarafından sorulmuş bir soru arkadaşlar.
+1:13:041 saat 13 dakika 4 saniyeGeçen sene soruldu ama EKYS değil AGS'de de soruluyor ya arkadaşlar.
+1:13:261 saat 13 dakika 26 saniyeBakalım. Bir öğretmen Türkiye yüzyılı mağari modeli çerçevesinde öğrencilerin kendi hak ve özgürlüklerini koruma,
+1:13:341 saat 13 dakika 34 saniyesorumluluklarının bilincinde olma. Bakın kendi hak ve özgürlüklerini koruma ve sorumluluklarının bilincinde olma.
+1:13:411 saat 13 dakika 41 saniyeVatandaşlık sorumluluğu gibi gelebilir arkadaşlar. Bu vatandaşlık
+1:13:501 saat 13 dakika 50 saniyeişte eee vatandaşlık görevini yerine getirme, sorumluluk alma, eee oy verme.
+1:13:571 saat 13 dakika 57 saniyeBunlar hep vatandaşlık eee okuryazarlığı arkadaşlar. Tüm canlıların yaşam hakkına saygı duyma ve sınırlı kaynakları koruma
+1:14:071 saat 14 dakika 7 saniyebilgi, beceri ve yeterliliğine sahip olmaları. Eee, burada da, eee, sürdürülebilirlik olduğunu görüyoruz. Yani sürdürülebilik
+1:14:151 saat 14 dakika 15 saniyederken doğanın sürdürülebilirine devam etmek, işte doğal kaynakların korunmasını sağlamak arkadaşlar. Sürdürülebilirlik.
+1:14:291 saat 14 dakika 29 saniyeDolayısıyla burada kazandırılması gerekenler vatandaşlık ve sürdürebilirlik eee okur yaazarlığıdır.
+1:14:341 saat 14 dakika 34 saniyeDijital okuryazarlık biraz daha teknolojiyi işte bilgiyi eee bilgisayar, telefon gibi konularda teknolojiye eee
+1:14:411 saat 14 dakika 41 saniyehakim olmak, kültür okur yaazarlığı eee sanat, kültür gibi alanlarda işte müzelerde eee süreç hakkında bilgi sahibi olmak gibi düşünebiliriz.
+1:14:551 saat 14 dakika 55 saniyeGeçiyorum. Bu dediğim gibi arkadaşlar 2026 AGS sorusu.
+1:15:021 saat 15 dakika 2 saniyeGeçtim. Buyurun.
+1:15:281 saat 15 dakika 28 saniyeÇok güzel. Hatır ne demiştik? Programlar arası bileşenler vardır. Programlar arası bileşenler sosyal duygusal öğrenme becerileri, erdem değer eylem çerçevesi ve okuryazarlık becerileridir dedik.
+1:15:401 saat 15 dakika 40 saniyeErdem değer eylem çerçevesinde üç tane temel amacımız vardı. Huzurlu insan, huzurlu aile ve toplum ve yaşanabilir
+1:15:481 saat 15 dakika 48 saniyeçevre olmak üzere üç tane temel eee amacımız vardı arkadaşlar erdemdeğer
+1:15:551 saat 15 dakika 55 saniyeeylem çerçevesinde ve bütün bu yani aile, aile ve toplum, birey ve yaşanabilir çevrenin ortak çatı
+1:16:031 saat 16 dakika 3 saniyedeğerleri vardı. Üç taneydi. Bunlar da neydi? SAS demiştik. saygı, eee, adalet ve sorumluluk. Yani B seçeneğinde
+1:16:121 saat 16 dakika 12 saniyeverilen değerler, eee, çatı değerleri arasında karşımıza çıkıyor.
+1:16:201 saat 16 dakika 20 saniyeGeçiyorum.
+1:17:031 saat 17 dakika 3 saniyeGüzel. Bugün gördüğümüz konuyla ilgili bir okulda yürütülen erken mi cevap veriyorum acaba?
+1:17:151 saat 17 dakika 15 saniyeEvet.
+1:17:171 saat 17 dakika 17 saniyeBir okulda yürütülen program dışı etkinlikler kapsamında öğrenciler yerel bir sosyal soruna yönelik gönüllülük temelli bir projeye katılmıştır.
+1:17:251 saat 17 dakika 25 saniyeGönüllük temelli bu projeye katılması arkadaşlar neydi? Sosyal sorumluluk projesi.
+1:17:361 saat 17 dakika 36 saniyeSüreç sonunda öğretmenler öğrencilerin problem çözme, sorumluluk alma ve toplumsal farkındalık becerilerinde gelişim gözlemiş. Bu gözlemleri zümre
+1:17:431 saat 17 dakika 43 saniyetoplantılarında paylaşarak öğretim sürecine yönelik yeni düzenlemeler yapmıştır. Burada ne var? yansıtma uygulamaları,
+1:17:521 saat 17 dakika 52 saniyeöğretmen yansıtmaları ve bu uygulamanın sonucunda öğrencilerin okul dışında da benzer etkinliklere
+1:17:581 saat 17 dakika 58 saniyeyönelmesi yani hayat boyu öğrenme
+1:18:071 saat 18 dakika 7 saniyedikkat çekmiştir. Dolayısıyla sosyal sorumluluk, yansıtma uygulamaları ve hayat boyu öğrenme olduğunu görüyoruz.
+1:18:151 saat 18 dakika 15 saniyeDoğru cevabımız E seçeneği oluyor. Geçiyorum.
+1:19:171 saat 19 dakika 17 saniyeEvet.
+1:19:181 saat 19 dakika 18 saniyeYukarıda mağarif modelinin insan anlayışından bahsediyor. İnsan çok yönlü bir varlıktır diyor. Buna bağlı olarak
+1:19:251 saat 19 dakika 25 saniyeTürkiye'nin yüzlü marif modeli de insanın bu çok yönlün varoluşunu gerçekleştirme çabasıdır diyor. Yani potansiyellerini ortaya çıkarma
+1:19:341 saat 19 dakika 34 saniyeçabasıdır diyor. Buna göre aşağıdakilerden hangisi Türkiye yüzlü malum modeline uygun bir görüş olamaz?
+1:19:401 saat 19 dakika 40 saniyeİnsan kendi yeteneklerini ve potansiyelini gerçekleştirmeyi hedefleyerek toplantısal beklentilere göre değil bireysel beklentilere göre
+1:19:481 saat 19 dakika 48 saniyeşekillenir. Bakın burada değil dediği zaman toplumsal beklentilerin göz ardı edildiği göz önünde bulunur arkadaşlar.
+1:19:541 saat 19 dakika 54 saniyeHalbuki Türkiye Yüzlü Mari modeli birey ve toplum bütünleşmesinde de önem veren bir eee felsefe ortaya koyuyor.
+1:20:011 saat 20 dakika 1 saniyeDolayısıyla eee toplumsal beklentiler ve bireyin beklentilerinin harmanlandığı bu bağlamda eee toplum birey
+1:20:091 saat 20 dakika 9 saniyebütünleşmesinin sağlandığı bir yapı amaçlanır. Bu yüzden bu eksiktir diyelim.
+1:20:161 saat 20 dakika 16 saniyeÖğrenme öğretme yaşantıları öğrencinin aktif ve çevresile etkileşim içinde olduğu öğrenme sorumluluğunu aldığı öğrenme yaklaşımları etrafında şekillenir. Doğru. Yarıştırıcı ve
+1:20:251 saat 20 dakika 25 saniyeayrıştırıcı anlayıştan uzak. Bireysel farklılıkları göz önünde bulundur farklılaştırmış öğretim yaklaşımı benimsenir. Doğru. Rekabet yerine
+1:20:321 saat 20 dakika 32 saniyeişbirliği vardır. Bireysel farklılıklar göz önünde bulundurarak eee öğrencilerin kendilerine uygun bir eğitim almaları amaçlanır.
+1:20:421 saat 20 dakika 42 saniyeAkran geri bildirimi ve işbirlik öğrenme fırsatları sağlayarak öğrencilerin birbirlerinin öğrenmeleri birbirinden öğrenmeleri teşvik edilir. Bu doğru.
+1:20:491 saat 20 dakika 49 saniyeAkran geri bildirim yani akran değerlendirme ve işbirlik ve öğrenmeler esastır. Her öğrencinin kendini tanıması
+1:20:561 saat 20 dakika 56 saniyeve keşfetmesine imkan tanınarak ilgi, ihtiyaç ve yetenekleri eee ölçüsünde esnek ve özgür öğrenme ortamının yaygınlaştığı bir öğrenme süreci inşa
+1:21:051 saat 21 dakika 5 saniyeedilir. Bu da doğru. Toplumsal beklentilerin göz ardı edildiği A seçenek yanlıştır.
+1:21:131 saat 21 dakika 13 saniyeGeçiyorum.
+1:21:181 saat 21 dakika 18 saniyeBöyle geçiyorum diyorum ama takıldığınız yerler olursa arkadaşlar sorun. Yorumlarınıza da bakıyorum.
+1:22:061 saat 22 dakika 6 saniyeÇok güzel. Türkiye yüzlü mağarif modelin yarıştırıcı ve ayrıştırıcı anlayıştan uzak durarak bireysel farklılıkları
+1:22:121 saat 22 dakika 12 saniyemerkeze alan bak bireyselleştirilmiş eğitim dedik az önce bu iki soruda da değindiğimiz bir ifadeydi.
+1:22:191 saat 22 dakika 19 saniyeBireyselleştirilmiş eğitim esastır. Eee farklılıklar zenginlik olarak görülür dedik. Bireysel farklıları merkeze alan bir öğretim yaklaşı benimseyerek
+1:22:281 saat 22 dakika 28 saniyeöğrencilerin ilgi, ihtiyaç ve istediklerine göre öğrenme deneyimleri yaşamasının amaçlanması bireyselleştirmiş öğretimdir. O da
+1:22:361 saat 22 dakika 36 saniyefarklaştırmış öğretimle aynı anlama gelir. Bu yüzden doğru cevabımız B'dir.
+1:22:411 saat 22 dakika 41 saniyeTüm öğrenciler için aynı hızda ilerleyen öğretim süreci yanlıştır arkadaşlar.
+1:22:451 saat 22 dakika 45 saniyeamaçlanan bir şey değildir. Herkes kendi hızına göre ilerlemelidir. Öğrenci performansını birbiriyle kıyaslamak yani rekabet eee istenmiyor. İşbirliği
+1:22:541 saat 22 dakika 54 saniyehedefleniyor arkadaşlar. Dolayısıyla E de buradan elenmiş oluyor. Başarı ölçülerinin tek bir standartla belirlenmesi. Bu da yok arkadaşlar. Her
+1:23:021 saat 23 dakika 2 saniyeöğrencinin başarı ölçüde farklı standartlara belirlenir. Dolayısıyla her öğrencinin kendisine uygun bir eğitim aldığı bireysel farklıları merkeze alan
+1:23:111 saat 23 dakika 11 saniyeyaklaşım öğrenci merkezli yani farklılaştırmış eğitime uygun bir yaklaşım olacaktır.
+1:23:191 saat 23 dakika 19 saniyeGeçiyorum.
+1:23:581 saat 23 dakika 58 saniyeÇok güzel.
+1:23:591 saat 23 dakika 59 saniyeBir öğretmen zenginleştirme çalışmalarında bakın arkadaşlar zenginleştirme ve destekleme farklılaştırmış eğitim başlığı altında
+1:24:071 saat 24 dakika 7 saniyeele alınıyor. Eee zenginleştirme daha çok ileri düzeydeki öğrencileri desteklemek amacıyla eee destekleme ise
+1:24:171 saat 24 dakika 17 saniyedaha çok zayıf ve geride kalmış öğrencileri desteklemek amacıyla uygulanan etkinliklerdir.
+1:24:221 saat 24 dakika 22 saniyeZenginleşmeştirme çalışmalarında sadece daha fazla soru çözmek yerine öğrencilerden edindikleri bilgileri yeni bağlamlarda kullanmaları, disiplinler
+1:24:291 saat 24 dakika 29 saniyearası ilişkiler kurmaları ve özgün ürünler ortaya koymaları beklenmiştir.
+1:24:341 saat 24 dakika 34 saniyeBu sayede öğrencilerin üst düşünme becerileri ön plana çıkartılmıştır.
+1:24:381 saat 24 dakika 38 saniyeBurada arkadaşlar ne yapıyor? aslında daha derinlemesine ve konuyu eee zihinsel bağlarında daha doğru kurabilecekleri anlamlı bir şekilde yapılandırmalarına olanak sağlamaktadır.
+1:24:501 saat 24 dakika 50 saniyeEee zenginleştirmede zaten zenginleştirme ifadesinin altında derinlemesine ve anlamlı öğrenme amacıyla yapılır ifadesini de görüyoruz.
+1:24:591 saat 24 dakika 59 saniyeHerkes doğru cevap vermiş. Bu yüzden direkt C seçeneği deyip geçebiliyoruz arkadaşlar. Eee, zaten diğer seçeneklere
+1:25:061 saat 25 dakika 6 saniyebaktığımızda A seçeneği, B seçeneği, D seçeneği marif modeline de uygun yaklaşımlar değildir.
+1:25:551 saat 25 dakika 55 saniyeTürkiye yüzü mağarık modelinin temel unsurlarından biri olan okul temelli planlama. Bugünkü konumuz Zümrü öğretmenler Kurulu tarafından ders
+1:26:031 saat 26 dakika 3 saniyekapsamında gerçekleşmesi kararlı araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma etkinliği gibi çalışmalara ayrılan süreyi ifade eder.
+1:26:121 saat 26 dakika 12 saniyeEee ve böylelikle esneklik sağ programlara esneklik getirir dedik.
+1:26:171 saat 26 dakika 17 saniyeHangisi okul temelli planlama çalışmalarında göz önünde alınır? Şimdi arkadaşlar biz burada dör tane şey
+1:26:241 saat 26 dakika 24 saniyesöyledik. bir eee 1739 sayılı Milli Eğitim Temel Kanunuun genel amaçları, Milli Eğitim Temel Kanunu'un genel
+1:26:311 saat 26 dakika 31 saniyeamaçları, Türk milli Eğitim sisteminin temel ilkeleri, öğretim programlarının genel amaçları ve öğretim çıktıları diye dört şeyden bahsetmiştik arkadaşlar.
+1:26:411 saat 26 dakika 41 saniyeÖğrenme çıktıları pardon. Dolayısıyla öğrenme çıktıları var mı? Var. Türk Milli Eğitimin Temel ilkeleri ve genel
+1:26:471 saat 26 dakika 47 saniyeamaçları 1739'da vardı. Bunlar var. Öğretim programlarının genel amaçları var mı? Var. Dolayısıyla üçü de
+1:26:561 saat 26 dakika 56 saniyevar arkadaşlar. Doğru cevabımız bu yüzden E seçeneği oluyor.
+1:27:381 saat 27 dakika 38 saniyeÇok güzel. Hemen seçenekleri hatırlayacak olursak burada da sorgulamaya dayalı öğrenmede ne vardı arkadaşlar? Belli bir alanla ilgili
+1:27:461 saat 27 dakika 46 saniyeolarak soru sorma, araştırma, inceleme
+1:27:541 saat 27 dakika 54 saniyeetkinliklerini merkeze almak, sorgulama, bağlam temelli öğrenme, yaşam ve bağını kurarak öğrenme,
+1:28:051 saat 28 dakika 5 saniyeyaşantı temelli öğrenme, yaparak yaşayarak öğrenme, proje temelli öğrenme.
+1:28:141 saat 28 dakika 14 saniyeproblem çözmeye dayalı disiplinler arası yönelim,
+1:28:241 saat 28 dakika 24 saniyebilimsel yöntem basamaklarını kullanarak öğrenme, işbirlikte öğrenme ise birlikte öğrenme.
+1:28:361 saat 28 dakika 36 saniyeBirbirine destek olarak öğrenme. Burada da Türkiye yüzlü maarif modelinde öğrencilerin farklı disiplinlerde öğrendikleri ön bilgileri sentezleyerek
+1:28:451 saat 28 dakika 45 saniyefarklı disiplinlerdeki bilgiler, disiplinler arası öğrenme, yeni bilgiyi yapılandırmalarını ve bu süreçte de bilimsel araştırma basamaklarını
+1:28:521 saat 28 dakika 52 saniyekullanarak bir ürün oluşturmalarını odağlan yaklaşım farklı disiplinler var.
+1:28:591 saat 28 dakika 59 saniyeBilimsel araştırma basamakları var. Eee ürün oluşturma var. proje temelli öğrenme oluyor.
+1:29:081 saat 29 dakika 8 saniyeGeçen sene buradan bir soru gelmişti. Hatırlayacak olursanız ne dedik?
+1:29:131 saat 29 dakika 13 saniyeToplumsal problemlerin çözümüne odaklandığımız zaman ve bilimsel araştırma ve disiplinler arası vurgu varsa proje temellidir dedik. Ama buna
+1:29:201 saat 29 dakika 20 saniyekarşılık eğer herhangi bir konuyla ilgili araştırma inceleme yapıyoruz, konuyu belirliyoruz, sorular üzerinden gidiyorsak sorgulamaya dayalı demiştik.
+1:29:291 saat 29 dakika 29 saniyeEkran görünü alacak arkadaşlar alsınlar.
+1:29:341 saat 29 dakika 34 saniyeBir soru daha çözelim. Ondan sonra ara vereceğiz arkadaşlar. Çünkü eee bir soru sonra malık modeli ile ilgili sorularımız tamamlanıyor.
+1:29:451 saat 29 dakika 45 saniyeGeçtim son sorumuz.
+1:29:581 saat 29 dakika 58 saniyeBunu eee kısaca geçmiştik arkadaşlar ama yani eee burada hatırlayalım diye bu soruya yer verdim.
+1:30:311 saat 30 dakika 31 saniyeTamam. Bir bakalım. Şimdi arkadaşlar bunlar nelerdir? Değer açıada öğretmenin değeri doğrudan aktarması vardır.
+1:30:431 saat 30 dakika 43 saniyeTabii doğrudan aktarma derken bunu şöyle düşünün. Kesin belli bir değer vardır.
+1:30:481 saat 30 dakika 48 saniyeÖğrenciler o değerleri benimsenmesi, benimsemesi gerekiyor. Bunun için rol oynama, drama, ne bileyim işte gösteri
+1:30:561 saat 30 dakika 56 saniyegibi yöntemler de kullanılabilir ama standart değerlerin öğrencilere kazandırılması esas. Örtük öğrenmede zaten öğretmenin model olması söz konusu.
+1:31:081 saat 31 dakika 8 saniyeAhlaki muhakemede ikilem içeren bir örnek vardı.
+1:31:141 saat 31 dakika 14 saniyeDeğer açıklamada öğrenci uygun değer seçer ve o değerin için seçtiğini açıklar.
+1:31:231 saat 31 dakika 23 saniyeAncak burada neyi unutmuyorduk arkadaşlar? eee açıklamayı
+1:31:321 saat 31 dakika 32 saniyeöğretmen değil öğrenci yapar.
+1:31:411 saat 31 dakika 41 saniyeYani amaç değerleri öğrencilere kazandırmak değil. Hani eee belirlenmiş değerleri kazandırmak değil. Amaç öğrencilerin eee kendi değerlerinin
+1:31:501 saat 31 dakika 50 saniyeoluşabilmesi konusunda onları özgür bırakmak ve öğrencinin kendi değerlerini savunması konusunda onlara söz hakkı
+1:31:581 saat 31 dakika 58 saniyevermektir. Arkadaşlar ahlaki muhakeme dediğimiz gibi ikilem değer analizinde
+1:32:051 saat 32 dakika 5 saniyebilimsel yöntem, bilimsel bir yönelim vardır
+1:32:121 saat 32 dakika 12 saniyeve üst düşünme becerileri, yaratıcı, yansıtıcı, eleştirel düşünme gibi üste düşünme becerileri öndedir.
+1:32:251 saat 32 dakika 25 saniyeDeğer açıklamayı söyledik. Değer aşılamayı söyledik. ahlaki muhakeme eylem öğrenmedi ise öğrencilere değerleri aktarmak yerine onların da uygulamasına olanak sağlamak vardır.
+1:32:361 saat 32 dakika 36 saniyeYani yaparak yaşayarak öğrenme vardır. Ya da burada biraz daha uygulama vardır.
+1:32:441 saat 32 dakika 44 saniyeYani öğrenci işte kapıyı açtı girdi içeri. Hayır bundan sonra kapıyı çalarak gireceksin değil. Kapıyı çalarak girmen
+1:32:521 saat 32 dakika 52 saniyelazım. Şimdi geç uygula. O uygulamayı görüp ondan sonra eee kazandığını kabul etmek var. Burada da bir öğretmen sınıfa
+1:33:001 saat 33 dakikabir arkadaşın sırrını korumak mı yoksa gerçeği söylemek mi doğrudur? İklem içeren bir örnek soru soruyor. İkilemde ne vardı? Muhakeme vardı.
+1:33:111 saat 33 dakika 11 saniyeBu tartışmada öğrenciler hem farklı değerlerin çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş.
+1:33:171 saat 33 dakika 17 saniyeBurada üst düşünme var.
+1:33:221 saat 33 dakika 22 saniyeDolayısıyla üstte düşünme nerede vardı arkadaşlar? Değer analizinde vardı.
+1:33:251 saat 33 dakika 25 saniyeDoğru cevabımız bu yüzden C seçeneği oluyor. Eğer değerlerin bilimsel bir yöntem basamağı çerçevesinde
+1:33:331 saat 33 dakika 33 saniyeöğretilmesi, kazandırılması diyeyim daha doğrusu ya da üste düşünme becerilerinin kullanılması varsa arkadaşlar değer analizi oluyor.
+1:33:421 saat 33 dakika 42 saniyeEvet marif modeli ile ilgili söyleyeceklerimiz bunlar arkadaşlar.
+1:33:461 saat 33 dakika 46 saniyeSoracağımız sorularda işlediğimiz ders de bu. Bundan sonra soru kampına kadar marif modelini ertelemiş oluyoruz. eee
+1:33:541 saat 33 dakika 54 saniyegördüğüm kadarıyla yani gelen cevaplara baktığım kadarıyla eee daha şey eee bir ciddi bir problem
+1:34:021 saat 34 dakika 2 saniyeyaşamayacağız. Cümlenin sonunda açıklama imkanı bulmuşlardır diyorsunuz. Evet ama bakın değer açıklama yaklaşımında neydi?
+1:34:111 saat 34 dakika 11 saniyeÖğrencilerin farklı alternatifleri gösteriyoruz. Öğrenci farklı alternatifler arasından kendisine en uygun olan seçeneği seçiyor ve o seçeneği niçin seçtiğini açıklıyordu.
+1:34:201 saat 34 dakika 20 saniyeAma buradaki açıklama dediğimiz öğrenciler arasında bir tartışma ve bak öğrenciler arasında bir tartışma var.
+1:34:281 saat 34 dakika 28 saniyeAynı zamanda da ne yapıyorlar arkadaşlar? Bu tartışmada eleştirel ve yaratıcı bakış açılarını kullanarak kendi düşüncelerini de savunma imkanı
+1:34:361 saat 34 dakika 36 saniyeelde ediyorlar. Dolayısıyla arkadaşlar burada öğrencilerin seçtiği değeri açıklaması değil, eleştirel bir yönelimle bakış açısı geliştirmesi söz
+1:34:441 saat 34 dakika 44 saniyekonusu. Bu yüzden değer analizi daha uygun olacaktır. Yani eleştirel ve yaratıcı bakış açıları burada biraz daha belirleyici olmuş. Şöyle olsaydı bu
+1:34:531 saat 34 dakika 53 saniyeetkinliği düzenlemiştir ve öğrencilerin kendilerine uygun değerleri oluşturmaları istenmiştir. Ardından da öğrenciler o değeri niçin seçtiklerini
+1:35:001 saat 35 dakikaaçıklamışlardır dese evet değer açıklama olurdu. Ama burada bir tartışma, bir üsteği düşünme ve buna bağlı olarak da eee bir değerlendirme süreci var.
+1:35:141 saat 35 dakika 14 saniyeBen teşekkür ediyorum hocam. Eee bir 10 dakika ara verelim arkadaşlar. 10 dakika sonra kaldığımız yerden devam edelim.
+1:35:211 saat 35 dakika 21 saniyeBundan sonra ölçme yöntem programını hatırlayacağız. Ondan sonra tamamlıyoruz.
+1:35:311 saat 35 dakika 31 saniyeEvet arkadaşlar, geldik 26. sorumuza.
+1:35:351 saat 35 dakika 35 saniyeArada da bu soru açıktı. O yüzden direkt hani eee soruyu çözmeye geçiyorum. Eee program geliştirmeyle gördüğümüz konu
+1:35:431 saat 35 dakika 43 saniyematematik dersinde öğretmen ve öğrenciler arasında geçen konuşma var.
+1:35:461 saat 35 dakika 46 saniyeHangi eğitim felsefesi? Önce eğitim felsefesinerini görecek olursak daha öncelikte değişmez evrensel doğrular vardı.
+1:36:001 saat 36 dakikaEsas çıktı geleneksel eğitim vurgusu.
+1:36:071 saat 36 dakika 7 saniyeİlerlemecilik, çağdaş eğitim.
+1:36:131 saat 36 dakika 13 saniyeBu arada esaslikte baskı ve zorlama da var. Ezber var.
+1:36:211 saat 36 dakika 21 saniyeYeniden kurmacılıkta ise toplumsal değişim yani toplumsal sorunların çözümü.
+1:36:311 saat 36 dakika 31 saniyeYerarcılık işe pragmatizm. Yani bu eğitim felsefeleri görmüyoruz. Ne diyor öğretmen? Şimdi öğreneceğimiz çok zor bir konu ama disiplinli çalışırsanız
+1:36:391 saat 36 dakika 39 saniyeöğrenirsiniz. Yaşam kurallı ve disiplinli olmayı gerektirir.
+1:36:441 saat 36 dakika 44 saniyeÖğretmenim tahtadaki şekli defterime yan olarak çizebilir miyim? Hayır. Ben ne yapıyorsam aynısını yapın. Siz her şeyi benden öğreniyorsunuz. Arkadaşlar bu
+1:36:521 saat 36 dakika 52 saniyesoru benim yazdığım bir soruya benzemiyor. Bu soru eee KPSS'de önceki yıllarda gelen bir soru arkadaşlar.
+1:37:001 saat 37 dakikaÖğretmenim ben o soruyu formülü kullanmadan başka bir yoldan da çözdüm.
+1:37:031 saat 37 dakika 3 saniyeİsterseniz göstereyim. Benim verdiğim formülü ezberle ve o şekilde çöz. Formülsüz çözümleri kabul etmeyeceğim.
+1:37:101 saat 37 dakika 10 saniyeBakın arkadaşlar ezber var 1. Onun dışında her şeyi öğretmen şey öğrenci öğretmenden öğrenir vurgusu var. 2.
+1:37:191 saat 37 dakika 19 saniyeÖğretmen merkezli bir eğitim yani esasçilik temeldir. Daimicilikte konu,
+1:37:261 saat 37 dakika 26 saniyeesascilikte öğretmen, eee ilerlemecilikte öğrenci,
+1:37:341 saat 37 dakika 34 saniyeyeniden kurulmacılıkta toplum vurgusunu görürüz arkadaşlar. Dolayısıyla doğru cevabımız B seçeneği.
+1:37:411 saat 37 dakika 41 saniyeGeçiyorum.
+1:37:461 saat 37 dakika 46 saniyeB
+1:38:271 saat 38 dakika 27 saniyeNe diyoruz? İngilizceyi yabancı dil olarak öğreten bir özel okul. Bu il daha bu dili daha doğal ve İngiliz aksanına uygun şekilde konuşmaları için
+1:38:341 saat 38 dakika 34 saniyeöğrencilerini bir program dahilinde bir program dahilinde düzenli aralıklarla İngiltere'ye götürür. Bu gezilerden
+1:38:421 saat 38 dakika 42 saniyesonra yetkililer öğrencilerin İngilizce istenen şekilde konuştuklarını, ayrıca öğrencilerin İngiliz arkadaşlarına Türk kültürü
+1:38:491 saat 38 dakika 49 saniyehakkında pek şöyettiklerini, onlardan da İngiliz kültürü hakkında çok şey edindiklerini belirler. Bakın arkadaşlar burada Türk kültürü ve İngiliz
+1:38:571 saat 38 dakika 57 saniyekültürünün birbiriyle paslaşması vurgusu olsaydı belki örtük program ya da eee kültürleşme kavramlarını görebilirdik.
+1:39:071 saat 39 dakika 7 saniyeAma soru neyi soruyor? Özel okulun öğrencileri İngilizceye daha doğal ve İngiliz aksanına uygun şekilde konuşmaları için İngiltere'ye
+1:39:141 saat 39 dakika 14 saniyegöndermesi. İngiltere'ye gönderme plansız programsız olacak bir şey değildir. Okulun dışına bile çıkartamıyoruz. Kalktı ki İngiltere'ye göndereceğiz programsız olarak.
+1:39:241 saat 39 dakika 24 saniyeDolayısıyla programlı yapılan bir etkinliktir. Öğretim programlarına eklenen bir etkinliktir. Bu yüzden arkadaşlar ekstra program çerçevesinde
+1:39:331 saat 39 dakika 33 saniyeele alınır. Birkaç tane arkadaşımız örtük program demiş. Örtük program daha çok spontan gerçekleşir. Kendinden gerçekleşen süreçler vardır örtük
+1:39:411 saat 39 dakika 41 saniyeprogramda. Yani kendinden İngiltere'ye gönderemeyeceğimiz için belli bir plan ve program dahilinde olması için gerektiği için ekstra program olur.
+1:39:511 saat 39 dakika 51 saniyeGeçiyorum.
+1:39:591 saat 39 dakika 59 saniyeHa bu arada soruyu direkt çözerek geçmeyelim. Diğerleri neydi arkadaşlar?
+1:40:051 saat 40 dakika 5 saniyeihmal edilen program ya da göz ardı edilen program eee imkanlar dahilinde
+1:40:121 saat 40 dakika 12 saniyeyüzeysel geçilen ya da eee şey yapılan hiç anlatılmayan program. Öğretim programı Milli Eğitim tarafından
+1:40:191 saat 40 dakika 19 saniyedüzenlenen program. Ekstra programma eklenen programlı etkinlikler, planlı etkinlikler. Örtük program kendinden
+1:40:271 saat 40 dakika 27 saniyegerçekleşen etkinlikler. Bunların hepsinin bir araya gelmesiyle programın uygulanma biçimi arkadaşlar uygulamadaki program olur demiştik.
+1:40:371 saat 40 dakika 37 saniyeGeçtim diğer soruya. Ja.
+1:41:371 saat 41 dakika 37 saniyeArkadaşlar demokratik yaklaşımda çoğunluğun ihtiyaçları
+1:41:451 saat 41 dakika 45 saniyemaliyet fayda analizi şey pardon eee eee toplumdaki temsil ya da baskı grupların
+1:41:591 saat 41 dakika 59 saniyetaleplerine bakılıyordu. Betimsel yaklaşımda mevcut durumun incelenmesi.
+1:42:101 saat 42 dakika 10 saniyeMaliyet fayda analizi.
+1:42:151 saat 42 dakika 15 saniyeBir durumun varlığının sağladığı yarar ile yokluğunun yol açacağı eksikliğin karşılaştırılarak eee ihtiyaçların belirlenmesi betimsel yaklaşımdır.
+1:42:261 saat 42 dakika 26 saniyeAnalitik yaklaşımda mevcut durumun incelenmesi ve gelecekte ortaya çıkacak gelecekteki ihtiyaçların belirlenmesi var.
+1:42:371 saat 42 dakika 37 saniyePartner yaklaşımında olması gereken ve olan ayrım var.
+1:42:471 saat 42 dakika 47 saniyeŞimdi buraya bakacak olursak Delpi bir kere yaklaşım değil teknikler arasındadır. Delp de eee seçilmiş uzman
+1:42:541 saat 42 dakika 54 saniyegrubun birbirinden habersiz
+1:43:081 saat 43 dakika 8 saniyeortak görüşünün alınması.
+1:43:151 saat 43 dakika 15 saniyegörüşlerindeki ortak mutlu. Şimdi Milli Eğitim Bakanlığı orta öğretimde her öğrenci için bireysel elektronik deney seti dağıtmayı planlamaktadır. Ülke
+1:43:241 saat 43 dakika 24 saniyegenelinde yaygınlaştırmadan önce seçilen beş pilot okul öğrencilerine bu deney seti dağılmıştır. Öğretim süreçleri sonunda pilot okullardaki öğrencilerde
+1:43:321 saat 43 dakika 32 saniyedeney seti dağıtılmayan öğrencilerin hedef davranışlarına ulaşma düzeyleri karşılaştırılmıştır ve aralarında ciddi bir fark olmadığı
+1:43:391 saat 43 dakika 39 saniyesaptanmıştır. Yani bu deney seti dağıtmanın çok fayda bir çok fazla bir faydasının olmadığı gözlenmiştir. Fayda
+1:43:471 saat 43 dakika 47 saniyesağlanmadığı gözlendiği için de uygulamadan vazgeçilmiştir. Maliyet fayda analizinin yapılması betimsel
+1:43:541 saat 43 dakika 54 saniyeyaklaşımdır. Herhangi bir etkinliğin sisteme eklenecek herhangi bir etkinliğin öğrencilere katkı sağlayacağı için eee eklenmesi
+1:44:031 saat 44 dakika 3 saniyebetimsel yaklaşımda vardı. Burada da katkı sağlamadığı için eklenmemiştir. Betimsel yaklaşım olur arkadaşlar.
+1:44:101 saat 44 dakika 10 saniyefarklar yaklaşımı olabilmesi için şu kadar hedefi gerçekleştirmesi gerekirken burada kalmıştır demesi lazımdı. Burada
+1:44:171 saat 44 dakika 17 saniyeeee olması gereken ve olan ayrımı soruda olmadığı için betimsel yaklaşım daha uygun oluyor.
+1:44:251 saat 44 dakika 25 saniyeBir diğer sorumuz ekran görüntüsü alacak arkadaşlar alsınlar.
+1:44:331 saat 44 dakika 33 saniyeEvet geçtim.
+1:44:581 saat 44 dakika 58 saniyeEvet, içerik düzenleme yaklaşımları ile ilgili bir soru sınavda arkadaşlar.
+1:45:021 saat 45 dakika 2 saniyeİçerik düzenleme yaklaşımı banko sorumuzdur. 26, 25, 24, 23. Her sene gelen bir soru. İçerik düzenleme
+1:45:101 saat 45 dakika 10 saniyeyaklaşımları. O yüzden mutlaka bilmeniz gereken bir konu. Sınava gelmeden önce mutlaka bilmemiz gereken bir konu.
+1:45:211 saat 45 dakika 21 saniyeSarmal programlamada ne vardı? Dönüt, düzeltme ve tekrarlar vardı.
+1:45:291 saat 45 dakika 29 saniyetekrarlar sürekli bir döngü gibi modüllerde dersler öbekler halinde düzenleniyor.
+1:45:351 saat 45 dakika 35 saniyeBirbirinden bağımsız üniteler halinde düzenlenmesi. Çekirdekte temel konular öğretildikten sonra
+1:45:431 saat 45 dakika 43 saniyeöğrenci seçim yapar.
+1:45:491 saat 45 dakika 49 saniyepiramitselde eee geniş tabanlı anlatımdan sonra daha sonra gittikçe uzmanlaşma vardı.
+1:46:031 saat 46 dakika 3 saniyeDoğrusal programlama ise ön koşul ya da aşamalılık içeren derslerde kullanılıyordu.
+1:46:111 saat 46 dakika 11 saniyeBir konu öğrenilmeden diğerine geçmek söz konusu değildi. Önceki öğrenmeler gerçekleşmeden yeni kazanımların sağlıklı olamayacağını düşünen bir
+1:46:181 saat 46 dakika 18 saniyematematik öğretmeni. Bakın önceki konu gerçekleşmeden yeni konuya geçilmiyor. Zaten cevap burada çıkıyor.
+1:46:261 saat 46 dakika 26 saniyeprogramı planlarken konuların belli bir sıraya izlemesine dikkat ediyor.
+1:46:321 saat 46 dakika 32 saniyeBu bağlamda öğrenciler temel işlemleri öğrenmeden yeni konuya geçmiyorlar. Bir konu öğrenilmeden diğerine geçilmiyorsa burada doğrusal programlama yaklaşımı
+1:46:411 saat 46 dakika 41 saniyeolur. Yani cevabımız E seçeneği oluyor. Geçiyorum.
+1:46:501 saat 46 dakika 50 saniyeHerkesin doğru cevap verdiği bir soruydu. Geçtim.
+1:47:331 saat 47 dakika 33 saniyeEvet. Bir öğretmen sı. Şimdi bunlarda neler vardı? Tam öğrenme modelinde
+1:47:421 saat 47 dakika 42 saniyeöğrenciler birlikte öğreniyor. Her konuyu herkes öğrenebilir. Öğrenemeyen öğrenci yok.
+1:47:471 saat 47 dakika 47 saniyeöğretemeyen öğretmen vardır diyordu ve herkes konuyu öğrendikten sonra yeni konuya geçiliyor. Sonra yeni konuyu da herkes öğrenince diğer konuya
+1:47:551 saat 47 dakika 55 saniyegeçiliyordu arkadaşlar. Yani aslında aşamalılık olan doğrusal bir programlama var. Harmanlanmış öğrenmede yüz yüze ve
+1:48:021 saat 48 dakika 2 saniyeinternet tabanlı öğrenmenin birlikte ele alınması probleme dayalı öğrenmede bilimsel aşamalardan geçen bir öğrenme
+1:48:101 saat 48 dakika 10 saniyevardı. Bilimsel yöntem basamaklarının adım adım kullanıldığı bir öğrenme vardı arkadaşlar. farklılaştırılmış öğrenmede
+1:48:171 saat 48 dakika 17 saniyeöğrenciler farklı nitekteki öğrencilerin aynı sınıfta yer aldığı ve bireysel ihtiyaçlarına göre eğitim gördükleri bir
+1:48:241 saat 48 dakika 24 saniyeeee eğitim uygulaması vardı. Bir farklılaştırmışlar. Program öğretimde de yine aşama aşama dersler var. Ancak tam
+1:48:311 saat 48 dakika 31 saniyeöğrenme modelinden farklı olarak programlı öğretimde her öğrenci kendi hızıyla ilerler demiştik. Şimdi buradaki soruya baktığımızda bir öğretmen
+1:48:391 saat 48 dakika 39 saniyesınıfında öğrencilerin yeteneklerini, ilgilerini ve öğrenme düzeylerini dikkate alıyor. Öğrenciler arasında seviye grupları oluşturmadan aynı sınıf ortamında bireysel özelliklere hitap
+1:48:481 saat 48 dakika 48 saniyeedilmesi. Bakın aynı sınıf ortamında bireysel özelliklere hitap edilmesi gerektiğini düşünüyor.
+1:48:541 saat 48 dakika 54 saniyeÖğrencilerin hazır bul ve öğrenme siteleri gibi özelliklerine göre kavram haritası oluşturma, bulmaca çözme, öykü oluşma, tartışma gibi farklı yöntem
+1:49:021 saat 49 dakika 2 saniyeteknikleri kullanıyor. farklı nitekteki öğrencilerin aynı sınıfta farklı yöntem ve tekniklerle eğitim görmesi farklılaştırılmış öğretim oluyor. Bu
+1:49:111 saat 49 dakika 11 saniyeyüzden doğru cevabımız D seçeneği oluyor. Geçiyorum.
+1:49:531 saat 49 dakika 53 saniyeÇok güzel. Aktüalite güncellik demek arkadaşlar.
+1:49:581 saat 49 dakika 58 saniyeDerslerin güncel konularla bağının kurulması. Hayatilik, yaşama yakınlık,
+1:50:061 saat 50 dakika 6 saniyeöğrencilerin gerçek yaşam problemleriyle karşı karşıya gelmesi, derste öğrendiklerinin hayatlarını uygulayabilmeleri.
+1:50:131 saat 50 dakika 13 saniyeAyanelik açıklık demek.
+1:50:171 saat 50 dakika 17 saniyeDolayısıyla araç, gereç kullanımını ve dil dilsel boyutu vardı. dilsel ve duyu organları boyutu vardı.
+1:50:281 saat 50 dakika 28 saniyeBütünlük, eee, konu bütünlüğünü bozmamak var. zaten adından anlaşılıyor.
+1:50:321 saat 50 dakika 32 saniyeÖğrenciye görelik farklılaşmış eğitimde olduğu gibi öğrencilerin eğitimin bireyselleştirilmesi.
+1:50:431 saat 50 dakika 43 saniyeİngilizce eğitimin verildiği bir özel eğitim kurumunda yoğun bir programın ardından tüm öğrenciler yüksek puanlar alarak eğitimi tamamlamış olmalarına rağmen çoğunun konuşmalarında ve
+1:50:531 saat 50 dakika 53 saniyeyazmalarında iletişim kuramadığı tespit edilmiştir. Yani okulda yüksek puan aldı ama gerçek hayatta kullanamadı, hayattan uzak kaldı. Dolayısıyla hayatilik
+1:51:021 saat 51 dakika 2 saniyeilkesinin yetersiz kullanıldığını gösterir. Bu yüzden doğru cevap B seçeneği oluyor burada. Eee bu arada herkes doğru cevabı verdiği için hani bu
+1:51:091 saat 51 dakika 9 saniyeşekilde geçiyorum. Yine takıldığınız yer olursa söyleyin arkadaşlar. Geçtim.
+1:52:211 saat 52 dakika 21 saniyeEvet. Yine gelen cevaplar hep doğru.
+1:52:241 saat 52 dakika 24 saniyeBakın, bir öğretmen matematik dersinde bölme işlemi ile ilgili kazanımların öğretimine başlamadan önce öğrencilerin toplama, çıkarma ve çarpma işlemleri ile
+1:52:311 saat 52 dakika 31 saniyeilgili ön bilgilerini tespit ediyor. Ön öğrenmeleri tespit ediyor. Ön bilgilerin yetersiz olduğunu görünce önce ön bilgileri tamamlıyor.
+1:52:411 saat 52 dakika 41 saniyeAynı zamanda öğrencilerin yeni öğrencilik konu olan bölme işlemine yönelik olumsuz tutumları. Bakın önce ne yaptı? bilişsel giriş davranışlarını
+1:52:511 saat 52 dakika 51 saniyetamamladı. Daha sonra olumlu tutum geliştirmelerini sağladı. Duyuşsal giriş davranışları
+1:52:591 saat 52 dakika 59 saniyeki başta giriş davranışları eee etkinlikler yapıyor. Bu çalışmalar sonucunda PDE bakın ipucu, pekiştireç,
+1:53:061 saat 53 dakika 6 saniyedönüştme ve etkin katılım da var. Eee dolayısıyla burada etkin katılımı belirtmemiş ama pekişleç ipucu dön
+1:53:131 saat 53 dakika 13 saniyedüzeltme burada da ne vardı? öğretim hizmetlerinin niteliği var.
+1:53:221 saat 53 dakika 22 saniyeDolayısıyla burada tam öğrenme modelini uygulamış oluyor arkadaşlar.
+1:53:301 saat 53 dakika 30 saniyeZaten arkadaşlar burada eee Evet burada aktif katılımdan bahsetmiyorum ama yani öğretim önce ne
+1:53:391 saat 53 dakika 39 saniyeyapmış? Öğrenci giriş davranışlarını uygun seviyeye getirmiş. Daha sonra öğretim hizmetlerini uygun seviyeye getirmiş. Sonra dersini anlatmış. Tam
+1:53:461 saat 53 dakika 46 saniyeöğrenme modelinde var. Proje tabanlı da öğrencilerin az önce de eee malif sorularını çözerken söyledik.
+1:53:521 saat 53 dakika 52 saniyeÖğrencilerin gündelik yaşamda karşılaştıkları problemleri çözmek için disiplinler arası bir çalışmayla bir ürün ortaya koymaları var.
+1:54:001 saat 54 dakikaBeyin temelli öğrenme, beynin işleyişini ve yapısını bilirsek öğrenmeyi en üst seviyeye çıkartabiliriz diyen yaklaşım.
+1:54:061 saat 54 dakika 6 saniyeProbleme dayalı öğrenme, günlük hayat problemlerini çöze, günlük hayatta karşılaşabileceğimiz problemleri, bilimsel yöntem basamaklarını kullanarak
+1:54:141 saat 54 dakika 14 saniyeçözme vardı. İşbirliğine dayalı öğrenmede ise öğrencilerin birlikte çalışması söz konusuydu. Geçiyorum.
+1:54:261 saat 54 dakika 26 saniye[öksürme]
+1:54:291 saat 54 dakika 29 saniyeHab
+1:55:031 saat 55 dakika 3 saniyeÇok güzel.
+1:55:081 saat 55 dakika 8 saniyeBakın ne diyor. Tasak halinde bir İngilizce ders kitabını inceleyen bir öğretmen değerlendirme toplantısı görüşlerini kitabın öğrencilerin kendi kendine çalışabilmesi için tasarlandığı
+1:55:171 saat 55 dakika 17 saniyeanlaşılıyor. Bireysel öğrenme yöntemi kullanılıyor. Öğrencilerin sunulan bilgiyi öğrenmeden yeni bilgiye geçmeleri mümkün gözükmüyor. Demek ki
+1:55:261 saat 55 dakika 26 saniyeaşamalılık var. Aşamalılık olduğu zaman aklımıza direkt tam öğrenme ve programlı öğretim geliyor. Aralarında ne fark vardı? Tam öğrenme grupla öğretim
+1:55:351 saat 55 dakika 35 saniyetekniğidir. Herkes birbirini bekler. Ben hızlı öğreniyorsam yavaş öğrenciyi beklerim. Ya da yavaş öğreniyorsam hızlı öğrenci beni bekler. Program öğretimde
+1:55:441 saat 55 dakika 44 saniyeise herkes bireysel hısına göre ilerlerdi.
+1:55:501 saat 55 dakika 50 saniyeUygulanan testlerde öğrencinin doğru cevabı görebilmesi kendi kendi değerlendirmesi açısından yararlı.
+1:55:541 saat 55 dakika 54 saniyeÖğrencilerin öğrenme hızları farklı olduğundan kitap bazı öğrencilerin yeni konuya geçebilecekleri, bazılarının da eee konuyu tekrar edebileceği şekilde.
+1:56:021 saat 56 dakika 2 saniyeYani öğrenciler birbirini beklemiyorlar.
+1:56:041 saat 56 dakika 4 saniyeKendi hızıyla ilerliyorlar. Bu yüzden programlı öğretim oluyor. Beyin temelli ve probleme dayalı az önceki soru
+1:56:111 saat 56 dakika 11 saniyesöylemiştik. Kuantum öğrenmede hızlı okuma, hafıza geliştirme gibi eğitim kampları vasıtasıyla öğrencilerin içsel
+1:56:191 saat 56 dakika 19 saniyeenerjilerini ortaya çıkartıp öğrenmeyi öğrenmelerini sağlamak amaçlanıyordu.
+1:56:251 saat 56 dakika 25 saniyeİşsel motivasyonu sağlayarak öğrencileri öğrenmeyi motive etmek vardı. Kuantum öğrenmeden.
+1:56:321 saat 56 dakika 32 saniyeGeçiyorum.
+1:57:001 saat 57 dakika[boğazını temizler]
+1:57:271 saat 57 dakika 27 saniyeGadne'ye göre 5 tane öğrenme ürünü var.
+1:57:321 saat 57 dakika 32 saniyeSözel bilgiler bilişsel tutumlar duyuşsal
+1:57:441 saat 57 dakika 44 saniyepsikomotor beceriler.
+1:57:471 saat 57 dakika 47 saniyeBedensel ya da devinsel bilişsel stratejiler.
+1:57:531 saat 57 dakika 53 saniyeyöntem geliştirme, entelektüel beceriler ise eee işaret
+1:58:021 saat 58 dakika 2 saniyeöğrenmeden problem çözmeye kadar zihinsel anlamda eee karmaşıklaşan bir yapıdan bahsediyordu.
+1:58:121 saat 58 dakika 12 saniyeZihinsel olarak gittikçe karmaşıklaşan
+1:58:221 saat 58 dakika 22 saniyeyapı. Burada ne vardı? işaretten başlayıp problem çözmeye doğru gidiyor.
+1:58:291 saat 58 dakika 29 saniyeBuna göre düşünecek olursak Ahmet başarılı olamayacağını düşündüğü matematik dersinden öğretmen tarafından takdir edince başarılı olabileceğine
+1:58:371 saat 58 dakika 37 saniyedair inancı artmıştır. Matematiğe karşı tutumu değişmiştir. Dolayısıyla tutumlar
+1:58:461 saat 58 dakika 46 saniyeMesut Newton'ın kütle çekim kanunuyla ilgili temel ilkelerini kullanarak karşılaştığı bir fizik problemi çözmüştür. Entelektüel beceri.
+1:59:011 saat 59 dakika 1 saniyeMehtap okulun şiir dinletisinde okumak için Yahya Kemal Beyl'ın sessiz gemi şiirini ezberlemiştir. Sözel beceri, sözel bilgi.
+1:59:101 saat 59 dakika 10 saniyeHatice anlamakta zorlandığı yabancı dil dersi için kendine uygun bir çalışma yöntemi geliştirmiştir. Strateji,
+1:59:181 saat 59 dakika 18 saniyebilimsel strateji. Mehmet katılacı halk oyunları yarışmasında yapacağı yeni bir hareketi öğrenmiştir. Psikomotor beceri.
+1:59:281 saat 59 dakika 28 saniyeŞimdi hangisini sorduğuna bakıyorum?
+1:59:301 saat 59 dakika 30 saniyeEee, bilişsel stratejiyi sorduğu için D seçeneği. Entelektüel beceri sorsaydı B derdik.
+1:59:371 saat 59 dakika 37 saniyePsikomotor beceri sorsaydı E derdik arkadaşlar. Her biri burada belirttiğimiz şekilde geçiyorum.
+2:00:172 saat 17 saniyeÇok güzel. Bunları nasıl hatırlayacağız arkadaşlar?
+2:00:212 saat 21 saniyeİstasyonda işbirliği başlanmış içe katkı.
+2:00:332 saat 33 saniyeFarklı istasyonlar vardı. Her öğrenci o istasyonun gereğini yerine getiriyordu.
+2:00:372 saat 37 saniyeKöşelenme her köşede farklı bir görüş savunulur.
+2:00:502 saat 50 saniyeKöşeler arası geçiş yoktur. Ama beyin fırtınası kısa sürede konuyla ilgili kısa sürede yaratıcı çözümler geliştirmek var.
+2:01:032 saat 1 dakika 3 saniyeeleştiri yok. Mümkün olduğunca çok sayıda düşünce üretmek var. Görüş geliştirme eee
+2:01:112 saat 1 dakika 11 saniyefarklı köşelerde öğrenci görüşünü
+2:01:192 saat 1 dakika 19 saniyesavunur. Gerekçeleriyle savunur. Yeri gelirse değiştirebilir.
+2:01:282 saat 1 dakika 28 saniyeAltı şapkalı düşünmede ise konulara farklı bakış açılarıyla yaklaşma.
+2:01:352 saat 1 dakika 35 saniyeBurada da ne yapıyor öğretmen? Sınıfın dört köşesinde birer masa yerleştiriyor.
+2:01:392 saat 1 dakika 39 saniyeDürüstlük, sevgi, hoşgörü ve dayanışma diyor. Hepsinde grubu dörde ayırıyor.
+2:01:452 saat 1 dakika 45 saniyeHer biri aslında birer istasyon olarak belirlenmiş burada ve her grup bulunduğu istasyonda bir öykü yazmaya başlıyor.
+2:01:522 saat 1 dakika 52 saniyeSüre bitince diğer tarafı gidiyor. Kendi işlerini yarım bırakıyorlar. Diğerlerinin işini devam ettiriyorlar. Böylükles her köşede çalışmış oluyor.
+2:02:002 saat 2 dakikaBöylelikle birlikte ortak bir ürün ortaya koymuş oluyorlar. Buradaki yöntemimiz işbirliğinin olduğu, başlangıçta katkının olduğu, her bir
+2:02:092 saat 2 dakika 9 saniyeistasyonun ayrı ayrı planlandığı istasyon tekniği oluyor. Herkes doğru cevabı vermiş.
+2:02:172 saat 2 dakika 17 saniyeEvet. Tekniklerle, yöntem tekniklerle ilgili sorularımız da bunlar. Ekran görünsü olacak arkadaşlar alsınlar.
+2:02:272 saat 2 dakika 27 saniyeGeldik ölçme değerlendirmeye. 5 tane de ölçme değerlendirme sorumuz olacak. Buyurun.
+2:03:212 saat 3 dakika 21 saniyeEvet arkadaşlar burada aslında ÖSYM'nin sormayı sevdiği tarzda sorular. Bunu bir arkadaşımdan aldım. Eee benim sorum
+2:03:302 saat 3 dakika 30 saniyedeğil ama yani çok da işlem yapmamız gerektirecek bir soru değil. Yukarıda 5 derse ait yapılan sınavlara ait bilgiler vardır.
+2:03:392 saat 3 dakika 39 saniyeHangi sınavda doğru cevap oranı %50 %100 arasındadır? Yani %50 dediğimizde hangisinde doğru cevap yani soruların
+2:03:462 saat 3 dakika 46 saniyeyarıdan fazlasında doğru cevap verilmiştir? Bakıyorum Türkçede %40'ına doğru cevap verilmiş. 14 %40.
+2:03:552 saat 3 dakika 55 saniyeMatematikte yine %40'a doğru cevap verilmiş. Yani 20 sorudan 8'i demek 100 sorudan e 100'e genişletiyorum. 10'la
+2:04:032 saat 4 dakika 3 saniyeçarpıyorum. Bunu da 10'la çarptım. 20'de 5ile çarpıyorum. Bunu da 5 ile çarpıyorum. %40.
+2:04:112 saat 4 dakika 11 saniyeTarihte. 50'den 30'a eee % 60 başarı var. 2 ile çarpıyorum. İki tarafı da
+2:04:202 saat 4 dakika 20 saniye100de tamamlıyorum. Coğrafyada 75'te % eee 75te 30 %40'a denk geliyor. Yine felsefede zaten %40 başarı var.
+2:04:322 saat 4 dakika 32 saniyeDolayısıyla hangi sınavda doğru cevap oranı %50'den fazladır dediğimizde tarihte %50'den fazla bir başarı
+2:04:392 saat 4 dakika 39 saniyegösterdiğini söyleyebiliriz. Peki şunu sorsaydı ne derdik? Seçenekler aynı kalmak üzere en eee homojen sınıf hangisidir?
+2:04:532 saat 4 dakika 53 saniyeEn homojen. Çok güzel.
+2:05:042 saat 5 dakika 4 saniyeEvet. Homojen ya da heterojende neye bakıyorduk? Farklaşma katsayısı olduğu için standart sapmaya bakıyorduk.
+2:05:102 saat 5 dakika 10 saniyeStandart sapması en düşük olan en homojen, en yüksek olan en heterojendi.
+2:05:152 saat 5 dakika 15 saniyeBuna göre en homojen olan standart sapması 2 olan Türkçe olurdu. Bir soruyla iki soru çözmüş olduk.
+2:05:232 saat 5 dakika 23 saniyeSiliyorum arkadaşlar.
+2:06:192 saat 6 dakika 19 saniyeBurada bir grafik görüyoruz. Grafikte öğrencilerin hangi puanı alan kaç tane öğrenci olduğunu görüyoruz arkadaşlar. Burada 20 alan 10 kişi var. 40 alan 27 kişi var.
+2:06:322 saat 6 dakika 32 saniye60 alan 13 kişi, 80 alan 10 kişi, 100 alan 18 kişi var. Dolayısıyla öğrencilerin puanlarını gördüğümüz için
+2:06:402 saat 6 dakika 40 saniyebu grafikten mod, medyan, aritmetik ortalama, ranş, çeyrek sapma, standart sapma gibi bütün istatistikal işlemleri
+2:06:482 saat 6 dakika 48 saniyeyapabiliriz. Bu yüzden puanların aritmetik ortalaması hesaplanabilir. Doğru. Standart sapması hesaplanabilir.
+2:06:562 saat 6 dakika 56 saniyeDoğru. Bakalım ikincisi doğru mu? Yani 1 3 doğru. 2'ye bakalım. Grubun mod değeri. Mod tepe değer demekti.
+2:07:072 saat 7 dakika 7 saniyeAncak şu var. Mod, medyan, ortalama hangisi olursa olsun hepsi öğrenci puanlı cinsinden ifade edilir. Yani
+2:07:152 saat 7 dakika 15 saniyeburada en tepede 27'yi gördük diye mod 27'dir demiyoruz. Bizim modumuz 40'tır.
+2:07:202 saat 7 dakika 20 saniyeEn tepeye çıkan değer 40 olduğu için dağılımın modu 40'tır.
+2:07:272 saat 7 dakika 27 saniyeDolayısıyla doğru cevabımız yani 1 3 doğru 2 yanlıştır. Yani doğru cevabımız C seçeneği olur.
+2:07:372 saat 7 dakika 37 saniyeBakın dikkat ederseniz herhangi bir işlem yapmıyorum. Sadece bakıyorum.
+2:07:412 saat 7 dakika 41 saniyeDoğru yere bakıp doğru yorum yaptığım zaman yine eee soruyu çözebiliyorum.
+2:07:472 saat 7 dakika 47 saniyeYani eee cümle sorularında nasıl cümleyi yorumluyorsam burada da sadece rakamları yorumlamış oluyorum.
+2:07:552 saat 7 dakika 55 saniyeGeçtim.
+2:07:592 saat 7 dakika 59 saniyeŞimdi hocam burada her bir öğrencinin puanını yani her bir öğrenci derken Ali Veli olduğu önemli değil ama herkesin puanını hesaplıyoruz ya zaten. Eee her
+2:08:092 saat 8 dakika 9 saniyebir puandan mesela 10 tane 20 var ya her bir puandan ortalamayı çıkartıp şöyle söyleyeyim öğrenci puanlarının
+2:08:182 saat 8 dakika 18 saniyeortalamadan farkına göre hesaplanır standart sapma. Burada da öğrenci puanlarını ve ortalamayı bulabileceğimiz için standart sapma hesaplanır diyelim.
+2:08:272 saat 8 dakika 27 saniyeHani daha karmaşıklaştırmamak için en özet haliyle bunu söyleyebilirim. Zaten öğrenci puanlarına ulaşabildiğimiz her
+2:08:342 saat 8 dakika 34 saniyetabloda, her grafikte mod, medyan, standart sapma, çeyrek sapma, ortalama bunların hepsi hesaplanır. Hocam
+2:08:452 saat 8 dakika 45 saniyegeçiyorum. Geçtim.
+2:09:212 saat 9 dakika 21 saniyeyapılamaz diyor arkadaşlar. Bu arada bu soruda bir şeye bakacağım.
+2:09:252 saat 9 dakika 25 saniyeEvet, cevap anahtarında yanlış kodlanmış arkadaşlar. Bu bilginiz olsun. Cevap anahtarından da kontrol edecekseniz yanlış kodlanmış.
+2:09:572 saat 9 dakika 57 saniyeEvet. Aşağıda bir sınıfın notlarına ait dağılım grafiği verilmiştir. Burada çok modlu bir dağılım olduğunu görüyoruz.
+2:10:032 saat 10 dakika 3 saniyeÇok modlu dağılım olduğu için zaten D''yi eledik. Mod 1 ve mod 2'yi zaten burada gördük. Çok modlu dağılımlar dengesiz bir dağılımdır
+2:10:122 saat 10 dakika 12 saniyeve sınıfta ortalamadan aşağıda da yukarıda da farklı puanlar alınmıştır.
+2:10:172 saat 10 dakika 17 saniyeÇok farklı puanlar alınmıştır. Farklı puanlar alındığı için heterojen bir dağılım söz konusudur.
+2:10:232 saat 10 dakika 23 saniyeVe biz dedik ki çok modlu dağılımlarda başarı hakkında yorum yapılamaz. Yani sınıf başarılıdır ya da başarısızdır ya
+2:10:312 saat 10 dakika 31 saniyeda orta düzey başarılıdır yorumunu yapmak sağlıklı olmaz dedik. Bu yüzden arkadaşlar bu dağılım eee başarı yorumu
+2:10:382 saat 10 dakika 38 saniyeyapamayacağımız bir dağılımdır. B seçeneği ondan dolayı yanlış oluyor.
+2:10:432 saat 10 dakika 43 saniyeCevap anahtarında arkadaşlar E olarak geçmiş. Onu B olarak değiştirebilirsiniz. Eğer elinizde
+2:10:492 saat 10 dakika 49 saniyebunların çıktısı varsa ya da bilginiz olsun yanlış kodlanmış.
+2:11:012 saat 11 dakika 1 saniyeEvet.
+2:11:032 saat 11 dakika 3 saniyesınavda çıkmış sorunun benzeri bir soru yazayım dedim ve bunu sordum.
+2:11:532 saat 11 dakika 53 saniyeÇok güzel.
+2:11:562 saat 11 dakika 56 saniyeBir okul rehber öğretmeni öğrencilerin okula devamlılık sınav kaygısı ve rehberlik hizmeti kullanımı ile matematik ve Türkçe arasındaki eee
+2:12:032 saat 12 dakika 3 saniyekorelasyonu hesaplamıştır ve değerleri hesaplamıştır. Buna göre öğretmenin yapacağı yorumlardan hangisi doğrudur ya
+2:12:102 saat 12 dakika 10 saniyeda hangileri? Bir matematik başarısının en güçlü ilişkisi. Matematik başarısının en güçlü ilişkisi dediği için şuraya
+2:12:172 saat 12 dakika 17 saniyebakacağız. Arkadaşlar şu kısma bakıyoruz
+2:12:252 saat 12 dakika 25 saniyeve rakam değerine de bakıyoruz arkadaşlar. %65 ilişki, %70 ilişki, %52
+2:12:322 saat 12 dakika 32 saniyeilişki. Yani pozitif yönde %65, negatif yönde %70, pozitif yönde %52. En yüksek
+2:12:392 saat 12 dakika 39 saniyeilişki burada %70 ilişkiyle sınav kaygısıdır arkadaşlar. Ama burada en güç ilişki okula devamlılık ile kurulmuştur diyor.
+2:12:492 saat 12 dakika 49 saniyeOkula devamlılıkla kurulmamıştır. Demek ki bir yanlış. Şurayı sileyim.
+2:12:592 saat 12 dakika 59 saniyeİkinci olarak en düşük ilişki. Rakam değeri en düşük olana bakacağım arkadaşlar. Bakın yüksek ya da düşükte işarete bakmıyorum.
+2:13:092 saat 13 dakika 9 saniyeYönünde işarete bakıyorum. Rakam değeri en düşük olan %52 ile burası. Rehberlik hizmetleri ve matematik arasındadır.
+2:13:172 saat 13 dakika 17 saniyeMatematik ve rehberlik hizmetleri arasında kurulmuştur. Evet, bu doğru.
+2:13:252 saat 13 dakika 25 saniyeÜçüncü olarak sınav kaygısı ile Türkçe başarısı arasındaki ilişki. Sınav kaygısı ve Türkçe başarısı arasındaki ilişki.
+2:13:362 saat 13 dakika 36 saniyeSınav kaygısı ile matematik arasındaki ilişkien daha güçlüdür. Evet. %74 %70'ten daha
+2:13:442 saat 13 dakika 44 saniyegüçlüdür. Dolayısıyla bu da doğru. 1 yanlış, 2 ve 3 doğrudur. Yani doğru cevabımız D seçeneği oluyor.
+2:13:572 saat 13 dakika 57 saniyeGeçiyorum son sorumuz. Korelasyonda neyi unutmuyorduk arkadaşlar? Korelasyonda bir değer fark etse bile örnek veriyorum
+2:14:062 saat 14 dakika 6 saniye0,73 + 0,73 < - 0,74'ten.
+2:14:162 saat 14 dakika 16 saniyeNeden? Çünkü arkadaşlar burada bana işaret ilişkinin miktarı hakkında bilgi
+2:14:232 saat 14 dakika 23 saniyevermez. İşaret bana sadece ilişkinin yönünü verir.
+2:14:272 saat 14 dakika 27 saniyeRakam değeri ise ilişkinin miktarını verir.
+2:14:362 saat 14 dakika 36 saniyeDolayısıyla yüksek ya da düşük ilişkiden bahsediyorsa rakam değerine bakarım.
+2:14:412 saat 14 dakika 41 saniyeDeğişkenler birbirini olumlu ya da olumsuz etkiliyor gibi bir ifade varsa o zaman da işarete bakarım.
+2:14:482 saat 14 dakika 48 saniyeGeçiyorum son sorumuza. Ah.
+2:15:202 saat 15 dakika 20 saniyeEvet.
+2:15:252 saat 15 dakika 25 saniyeAşağıdaki tabloda ya da biraz daha bekleyeyim.
+2:15:502 saat 15 dakika 50 saniyeAşağıdaki tabloda bir sınıfta uygulanan 5 sınava ait soru sayısı ve bu sorulara doğru cevaplar veren öğrencilerin ortalamaları yer almaktadır. Buna göre
+2:15:592 saat 15 dakika 59 saniyeen başarılı ve en başarısız oldukları dersler hangisi? Türkçe dersinde bakın soru sayıları farklı olduğu için madde güçlük indeksine bakmam lazım. Eğer soru
+2:16:082 saat 16 dakika 8 saniyesayısı verilmeseydi ya da hepsi eşit sayıda soru olsaydı ortalaması yüksek olan başarılı düşük olan başarısız
+2:16:152 saat 16 dakika 15 saniyediyecektik ama burada soru sayıları farklı. Soru sayıları farklı olduğu için ortalama bölü
+2:16:242 saat 16 dakika 24 saniyesoru sayısı formülünü uygulamamız gerekiyor. Yani güçlüğünü hesaplayacağız.
+2:16:302 saat 16 dakika 30 saniyeTürkçe 25/50'den 0,50. Türkçede %50'lik bir başarı var.
+2:16:382 saat 16 dakika 38 saniyeMatematikte 12/40'tan 2,5la çarpıyorum. 12 24 30 %30'luk bir başarı var tarihte.
+2:16:512 saat 16 dakika 51 saniye45/60'tan 4te 3'üne denk geliyor arkadaşlar. Yani
+2:17:002 saat 17 dakika0,75 %75'lik bir başarı var. Coğrafyada 8/20'den
+2:17:122 saat 17 dakika 12 saniye%40'lık bir başarı var. Yani 0,40 ve felsefede 18/30'dan %60'lık, 0,60'lık bir başarı var.
+2:17:252 saat 17 dakika 25 saniye%60'lık bir başarı. Dolayısıyla %70'lik başarıyla en başarılı olan ders tarihtir. En başarılı tarih.
+2:17:362 saat 17 dakika 36 saniyeÇünkü öğrencilerin %75'i başarılı olmuştur ve sadece %30'u başarılı olan matematik ise en başarısız derstir.
+2:17:502 saat 17 dakika 50 saniyeBu yüzden doğru cevabımız A seçeneği oluyor.
+2:17:572 saat 17 dakika 57 saniyeEvet arkadaşlar bu soruyla birlikte eee marif modeli, ölçme değerlendirme, yöntem, teknikler ve program okuryazarlığı kısmını tamamlamış olduk.
+2:18:082 saat 18 dakika 8 saniyeAslında eğitim bilimleri kısmını tamamlamış olduk. Bundan sonraki kısımda önümüzdeki hafta eee güvenli okul, okul
+2:18:152 saat 18 dakika 15 saniyegüvenliği ve eee kriz yönetiminden bahsedeceğiz. Daha sonra eğitim yönetiminden bahsedeceğiz arkadaşlar.
+2:18:242 saat 18 dakika 24 saniyeEee, kriz yönetimi böyle eğitim bilimleriyle şeyin arasında. Eğitim yönetiminin arasında. O yüzden bu arada
+2:18:322 saat 18 dakika 32 saniyebir haftalık ders olduğu için eee, bu hafta işlemeyi düşünüyorum arkadaşlar. Ama yine bir daha değerlendireceğim.
+2:18:402 saat 18 dakika 40 saniyeBelki eee, eğitim yönetiminden de başlayabiliriz ama bir haftalık bir konu olduğu için güvenli okuldan bahsetmeyi düşünüyorum. Eee, [homurdanır] şimdiye
+2:18:482 saat 18 dakika 48 saniyekadar 27 soruluk kısmı tamamladık arkadaşlar.
+2:18:542 saat 18 dakika 54 saniyeEee, önümüzdeki hafta kaldığımız yerden devam etmek üzere hepinize iyi akşamlar ve iyi çalışmalar diliyorum.
