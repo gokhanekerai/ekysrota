@@ -89378,7 +89378,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’negöre;<br>I. Farklılaştırılmış öğretim yaklaşımı benimsenmiştir.<br>II. Süreç ve durum temelli ölçme ve değerlendirme yaklaşımlarına yer verilmiştir.<br>III. Dijital yetkinliğe ve hayat boyu öğrenme kültürüne sahip bireyler yetiştirmek hedeflenir.<br><b>ifadelerinden hangisi ya da hangileri doğrudur?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’negöre;<br>I. Farklılaştırılmış öğretim yaklaşımı benimsenmiştir.<br>II. Süreç ve durum temelli ölçme ve değerlendirme yaklaşımlarına yer verilmiştir.<br>III. Dijital yetkinliğe ve hayat boyu öğrenme kültürüne sahip bireyler yetiştirmek hedeflenir.<br><br><b>ifadelerinden hangisi ya da hangileri doğrudur?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89415,7 +89415,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli çerçevesinde yetiştirilmesi <br><b>amaçlanan bilge neslin özelliklerinden biri değildir?</b>",
+    "questionText": "<b>Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli çerçevesinde yetiştirilmesi amaçlanan bilge neslin özelliklerinden biri değildir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89452,7 +89452,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "Aşağıdakilerden hangisi “Türkiye Yüzyılı Maarif Modeli” ile eğitim programlarına <br><b>entegre edilen yeniliklerden biri olarak gösterilemez?</b>",
+    "questionText": "<b>Aşağıdakilerden hangisi “Türkiye Yüzyılı Maarif Modeli” ile eğitim programlarına entegre edilen yeniliklerden biri olarak gösterilemez?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89474,7 +89474,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Sosyal duygusal öğrenme becerileri öğrenci gelişiminin ayrılmaz bir parçası olarak  görülmektedir."
+        "text": "Sosyal duygusal öğrenme becerileri öğrenci gelişiminin ayrılmaz bir parçası olarak görülmektedir."
       }
     ],
     "correctAnswer": "D",
@@ -89489,7 +89489,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Bir okulun rehber öğretmeni öğrencilerin zihin gelişimlerinin yanı sıra beden ve duygu yönünden de <br>gelişmelerinin önemli olduğunu her fırsatta dile getirmektedir. Ona göre bu doğrultuda bütüncül <br>gelişme, kişinin bir hem kendisi hem de toplum açısından sağlıklı ve dengeli bir insan olması anlamına <br>gelmektedir.<br>Buna göre rehber öğretmenin önem gösterdiği bu özellikler Türkiye Yüzyılı Maarif Modeli’nin<br><b>hangi öğrenci profiline işaret etmektedir?</b>",
+    "questionText": "Bir okulun rehber öğretmeni öğrencilerin zihin gelişimlerinin yanı sıra beden ve duygu yönünden de gelişmelerinin önemli olduğunu her fırsatta dile getirmektedir. Ona göre bu doğrultuda bütüncül gelişme, kişinin bir hem kendisi hem de toplum açısından sağlıklı ve dengeli bir insan olması anlamına gelmektedir. <br><br><b>Buna göre rehber öğretmenin önem gösterdiği bu özellikler Türkiye Yüzyılı Maarif Modeli’nin hangi öğrenci profiline işaret etmektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89526,7 +89526,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Bir okulun Edebiyat öğretmeni edebi eserler üretebilmek için “dilin inceliklerini, söz sanatlarını ve <br>iletişim becerilerini başarılı bir şekilde kullanmanın” gerekliliğini vurgulamıştır. <br>Edebiyat öğretmeninin vurguladığı özellikler Türkiye Yüzyılı Maarif Modelinde yer alan <br><b>yetkin ve erdemli insan profillerinden hangisine karşılık gelmektedir?</b>",
+    "questionText": "Bir okulun Edebiyat öğretmeni edebi eserler üretebilmek için “dilin inceliklerini, söz sanatlarını ve iletişim becerilerini başarılı bir şekilde kullanmanın” gerekliliğini vurgulamıştır. Edebiyat öğretmeninin vurguladığı özellikler Türkiye Yüzyılı Maarif Modelinde yer alan <b>yetkin ve erdemli insan profillerinden hangisine karşılık gelmektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89563,7 +89563,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "Türkiye Yüzyılı Maarif Modeline yönelik düzenlenen bir eğitim etkinliğinde konuşan eğitmen yetkin <br>ve erdemli insan profillerinden bahsederken “üretken” profilin özelliklerini sıralamıştır.<br>Buna göre aşağıda yer alan ifadelerden hangisi konuşmacının sıraladığı özellikleri <br><b>içermektedir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeline yönelik düzenlenen bir eğitim etkinliğinde konuşan eğitmen yetkin ve erdemli insan profillerinden bahsederken “üretken” profilin özelliklerini sıralamıştır. <br><br><b>Buna göre aşağıda yer alan ifadelerden hangisi konuşmacının sıraladığı özellikleri içermektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89600,7 +89600,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde öğrencilerin becerilerini geliştirebilmeleri ve eyleme geçirebilmeleri için öğretim <br>programlarında temel bileşenlerden biri olarak yer alan eğilimler;<br> benlik eğilimleri, <br> sosyal eğilimler ve <br> entelektüel eğilimler <br>şeklinde sınıflandırılmıştır. <br><b>Buna göre aşağıdakilerden hangisi sosyal eğilimleri başlığı altında sınıflandırılan alt benlik alanlarından biridir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde öğrencilerin becerilerini geliştirebilmeleri ve eyleme geçirebilmeleri için öğretim programlarında temel bileşenlerden biri olarak yer alan eğilimler;<br> benlik eğilimleri, <br> sosyal eğilimler ve <br> entelektüel eğilimler şeklinde sınıflandırılmıştır.<br><br><b>Buna göre aşağıdakilerden hangisi sosyal eğilimleri başlığı altında sınıflandırılan alt benlik alanlarından biridir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89637,7 +89637,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bir felsefe öğretmeni öğrencilerden planlama ve zaman yönetimine dikkat etmelerini, güvenilir bilgi <br>kaynaklarını kullanmalarını ve tüm süreç boyunca aktif olarak sorumluluk almalarını istemektedir.<br>Buna göre felsefe öğretmeninin öğrencilerde geliştirmeyi amaçladığı sosyal – duygusal <br><b>öğrenme becerisi aşağıdakilerden hangisidir?</b>",
+    "questionText": "Bir felsefe öğretmeni öğrencilerden planlama ve zaman yönetimine dikkat etmelerini, güvenilir bilgi kaynaklarını kullanmalarını ve tüm süreç boyunca aktif olarak sorumluluk almalarını istemektedir. <br><br><b>Buna göre felsefe öğretmeninin öğrencilerde geliştirmeyi amaçladığı sosyal – duygusal öğrenme becerisi aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89674,7 +89674,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndeeğitim; yalnızca bireyin bilişsel gelişimini önceleyen bir süreç olarak değil, bireyin insanlık <br>ailesi içinde konumlanmasını, değer üretmesini ve sorumluluk bilinci geliştirmesini amaçlayan bütüncül bir yapı olarak ele <br>alınmaktadır. Bu bağlamda bilgi, salt aktarılması gereken bir içerik olmaktan çıkarak, bireyin topluma ve insanlığa karşı <br>yükümlülüklerini yerine getirmesinde işlevsel bir araç olarak kabul edilmektedir.<br>Buna göre Türkiye Yüzyılı Maarif Modeli’ninbilgi anlayışını en doğru biçimde yansıtan ifade aşağıdakilerden <br><b>hangisidir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndeeğitim; yalnızca bireyin bilişsel gelişimini önceleyen bir süreç olarak değil, bireyin insanlık ailesi içinde konumlanmasını, değer üretmesini ve sorumluluk bilinci geliştirmesini amaçlayan bütüncül bir yapı olarak ele alınmaktadır. <br><br><b>Bu bağlamda bilgi, salt aktarılması gereken bir içerik olmaktan çıkarak, bireyin topluma ve insanlığa karşı yükümlülüklerini yerine getirmesinde işlevsel bir araç olarak kabul edilmektedir. Buna göre Türkiye Yüzyılı Maarif Modeli’ninbilgi anlayışını en doğru biçimde yansıtan ifade aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89711,7 +89711,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": " Çeşitli olay/konu/durumları araştırma ve aralarındaki özellikleri ilişkilendirip genişleterek yargıya varma<br> Nesne, olgu ve olayları, gözlem ya da ölçme sonucunda belirlenen özelliklerine ve birbirleriyle ilişkilerine göre<br>gruplara ayırma<br> Birden fazla kavram veya durum arasındaki benzerlik ve farklılıkların belirlenmesi<br> Herhangi bir duruma duruma ilişkin farkında olma, anlamlı sorular sorma, bilgi edinme ve bunları değerlendirme<br>süreci<br>Yukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan bütünleşik beceri alanları ile eşleştirildiğinde<br><b>hangi bütünleşik beceri alanı dışarıda kalır?</b>",
+    "questionText": " Çeşitli olay/konu/durumları araştırma ve aralarındaki özellikleri ilişkilendirip genişleterek yargıya varma<br> Nesne, olgu ve olayları, gözlem ya da ölçme sonucunda belirlenen özelliklerine ve birbirleriyle ilişkilerine göre gruplara ayırma<br> Birden fazla kavram veya durum arasındaki benzerlik ve farklılıkların belirlenmesi<br> Herhangi bir duruma duruma ilişkin farkında olma, anlamlı sorular sorma, bilgi edinme ve bunları değerlendirme süreci Yukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan bütünleşik beceri alanları ile eşleştirildiğinde <b>hangi bütünleşik beceri alanı dışarıda kalır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89748,7 +89748,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndeyer alan kavramsal beceriler; karmaşık bir süreç gerektirmeden edinilen ve <br>gözlenebilen temel beceriler ile soyut fikirleri ve karmaşık süreçleri eyleme dönüştürürken zihinsel <br>faaliyetlerin bir ürünü olarak işe koşulan bütünleşik ve üst düzey düşünme becerilerini ifade eder. Aralarında <br>herhangi bir aşamalılık ilişkisi bulunmayan temel ve bütünleşik beceriler, üst düzey düşünme becerilerinin <br>hayata geçirilmesindeki alt yapıyı oluşturmaktadır.<br>Buna göre Türkiye Yüzyılı Maarif Modeli’ndeele alınan üst düzey düşünme becerileri hangi seçenekte <br><b>doğru olarak sıralanmıştır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndeyer alan kavramsal beceriler; karmaşık bir süreç gerektirmeden edinilen ve gözlenebilen temel beceriler ile soyut fikirleri ve karmaşık süreçleri eyleme dönüştürürken zihinsel faaliyetlerin bir ürünü olarak işe koşulan bütünleşik ve üst düzey düşünme becerilerini ifade eder. Aralarında herhangi bir aşamalılık ilişkisi bulunmayan temel ve bütünleşik beceriler, üst düzey düşünme becerilerinin hayata geçirilmesindeki alt yapıyı oluşturmaktadır. <br><br><b>Buna göre Türkiye Yüzyılı Maarif Modeli’ndeele alınan üst düzey düşünme becerileri hangi seçenekte doğru olarak sıralanmıştır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89785,7 +89785,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "I. Bağımsızlık<br>II. Oyun severlik<br>III. Azim ve Kararlılık<br>Yukarıda yer alan eğilimlerden hangisi ya da hangileri Türkiye Yüzyılı Maarif Modeli’ndeyer <br><b>alan benlik eğilimleri kapsamında ele alınabilir?</b>",
+    "questionText": "I. Bağımsızlık<br>II. Oyun severlik<br>III. Azim ve Kararlılık Yukarıda yer alan eğilimlerden hangisi ya da hangileri Türkiye Yüzyılı Maarif Modeli’ndeyer <b>alan benlik eğilimleri kapsamında ele alınabilir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89822,7 +89822,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde; “girişimcilik, mantıksal muhakeme, felsefi <br>sorgulama, zamanı algılama ve kronolojik düşünme” gibi beceriler hangi alan <br><b>becerileri kapsamında ele alınmaktadır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde; “girişimcilik, mantıksal muhakeme, felsefi sorgulama, zamanı algılama ve kronolojik düşünme” gibi beceriler hangi alan <b>becerileri kapsamında ele alınmaktadır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89859,7 +89859,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": " Farklı deneyimler, fikirler ve önerilere açık olabilmeyi içeren zihinsel örüntüler<br> Bir konu ya da davranışı öğrenme sürecinin keyifli ve eğlenceli hâle getirilebilmesine ilişkin zihinsel örüntüler<br> Bir işi yerine getirme konusundaki gayreti ve bu yöndeki kararları her türlü zorluğa karşı yılmaksızın uygulama çabası<br> Çeşitli durumların belirli bir yöntemle düzenli, örgütlü, odaklı ve gayretli şekilde ele alınmasına ilişkin zihinsel örüntüler<br>Yukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan öğrenci eğilimleri ile eşleştirildiğinde hangi eğilim <br><b>türü dışarıda kalır?</b>",
+    "questionText": " Farklı deneyimler, fikirler ve önerilere açık olabilmeyi içeren zihinsel örüntüler<br> Bir konu ya da davranışı öğrenme sürecinin keyifli ve eğlenceli hâle getirilebilmesine ilişkin zihinsel örüntüler<br> Bir işi yerine getirme konusundaki gayreti ve bu yöndeki kararları her türlü zorluğa karşı yılmaksızın uygulama çabası<br> Çeşitli durumların belirli bir yöntemle düzenli, örgütlü, odaklı ve gayretli şekilde ele alınmasına ilişkin zihinsel örüntüler Yukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan öğrenci eğilimleri ile eşleştirildiğinde hangi eğilim <b>türü dışarıda kalır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89896,7 +89896,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndedil, yalnızca iletişim aracı olarak değil; düşüncenin inşası, kültürün aktarımı ve insanın <br>kendini gerçekleştirmesi için temel bir unsur olarak ele alınmaktadır. Türkçenin doğru, etkili ve estetik kullanımına yapılan<br>vurgu; bireyin zihinsel gelişimi ile toplumsal bütünlüğün birlikte ele alındığını göstermektedir. Bu yaklaşım, dil öğretiminin <br>araçsal değil kurucu bir işleve sahip olduğunu ortaya koymaktadır.<br><b>Bu çerçevede aşağıdaki uygulamalardan hangisi metinde belirtilen Türkçe öğretimi anlayışıyla en az örtüşür?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’ndedil, yalnızca iletişim aracı olarak değil; düşüncenin inşası, kültürün aktarımı ve insanın kendini gerçekleştirmesi için temel bir unsur olarak ele alınmaktadır. Türkçenin doğru, etkili ve estetik kullanımına yapılan vurgu; bireyin zihinsel gelişimi ile toplumsal bütünlüğün birlikte ele alındığını göstermektedir. Bu yaklaşım, dil öğretiminin araçsal değil kurucu bir işleve sahip olduğunu ortaya koymaktadır. <b>Bu çerçevede aşağıdaki uygulamalardan hangisi metinde belirtilen Türkçe öğretimi anlayışıyla en az örtüşür?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89933,7 +89933,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 16,
-    "questionText": " Öğrenme sürecinde ele alınan bilgi kümesini ifade eder.<br> Öğrenme çıktılarının değerlendirilmesi ile uygun ölçme ve değerlendirme araçlarını ifade eder.<br> Öğrenme çıktıları, eğilim, programlar arası bileşenler ve öğrenme kanıtları arasında kurulan ve anlamlı ilişkilere dayanan <br>öğrenme-öğretme sürecini ifade eder.<br> Bilgi ve beceriler ile günlük hayat deneyimleri arasında bağ kurmayı ifade eder.<br>Yukarıdaki ifadeler Türkiye Yüzyılı Maarif Modeli’ninaşağıdaki bileşenleri ile eşleştirildiğinde hangisi <br><b>dışarıda kalır?</b>",
+    "questionText": " Öğrenme sürecinde ele alınan bilgi kümesini ifade eder.<br> Öğrenme çıktılarının değerlendirilmesi ile uygun ölçme ve değerlendirme araçlarını ifade eder.<br> Öğrenme çıktıları, eğilim, programlar arası bileşenler ve öğrenme kanıtları arasında kurulan ve anlamlı ilişkilere dayanan öğrenme-öğretme sürecini ifade eder.<br> Bilgi ve beceriler ile günlük hayat deneyimleri arasında bağ kurmayı ifade eder. <br><br><b>Yukarıdaki ifadeler Türkiye Yüzyılı Maarif Modeli’ninaşağıdaki bileşenleri ile eşleştirildiğinde hangisi dışarıda kalır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89955,7 +89955,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Öğrenme – öğretme yaşantıları"
+        "text": "Öğrenme - öğretme yaşantıları"
       }
     ],
     "correctAnswer": "C",
@@ -89970,17 +89970,17 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 17,
-    "questionText": "Bir öğretmen, Türkiye Yüzyılı Maarif Modeli çerçevesinde öğrencilerinin; kendi hak ve özgürlüklerini koruma, <br>sorumluluklarının bilincinde olma, tüm canlıların yaşam haklarına saygı duyma ve sınırlı kaynakları koruma <br>bilgi, beceri ve yeterliliğine sahip olmalarını hedeflemektedir.<br>Bu öğretmenin öğrencilerine kazandırmak istediği okuryazarlık türleri aşağıdakilerin hangisinde <br><b>birlikte verilmiştir?</b>",
+    "questionText": "Bir öğretmen, Türkiye Yüzyılı Maarif Modeli çerçevesinde öğrencilerinin; kendi hak ve özgürlüklerini koruma, sorumluluklarının bilincinde olma, tüm canlıların yaşam haklarına saygı duyma ve sınırlı kaynakları koruma bilgi, beceri ve yeterliliğine sahip olmalarını hedeflemektedir. <br><br><b>Bu öğretmenin öğrencilerine kazandırmak istediği okuryazarlık türleri aşağıdakilerin hangisinde birlikte verilmiştir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Dijital – Kültür"
+        "text": "Dijital - Kültür"
       },
       {
         "key": "B",
-        "text": "Vatandaşlık – Kültür"
+        "text": "Vatandaşlık - Kültür"
       },
       {
         "key": "C",
@@ -89988,11 +89988,11 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Kültür – Sürdürülebilirlik"
+        "text": "Kültür - Sürdürülebilirlik"
       },
       {
         "key": "E",
-        "text": "Vatandaşlık – Sürdürülebilirlik"
+        "text": "Vatandaşlık - Sürdürülebilirlik"
       }
     ],
     "correctAnswer": "E",
@@ -90007,7 +90007,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 18,
-    "questionText": "Erdem – Değer – Eylem Çerçevesi'nde çatı değerler etrafında kümelenen bir değer çerçevesi sunulmaktadır. <br>Çatı değerler, diğer bütün değerler ile yoğun kesişim noktaları olan değer yapılarını ifade etmektedir. Bu <br>bağlamda Türkiye Yüzyılı Maarif Modeli Erdem – Değer – Eylem Çerçevesi kapsamında üç çatı değer <br>belirlenmiştir.<br><b>Belirlenen bu çatı değerler hangi seçenekte doğru olarak verilmiştir?</b>",
+    "questionText": "Erdem – Değer – Eylem Çerçevesi'nde çatı değerler etrafında kümelenen bir değer çerçevesi sunulmaktadır. Çatı değerler, diğer bütün değerler ile yoğun kesişim noktaları olan değer yapılarını ifade etmektedir. <br><br><b>Bu bağlamda Türkiye Yüzyılı Maarif Modeli Erdem – Değer – Eylem Çerçevesi kapsamında üç çatı değer belirlenmiştir. Belirlenen bu çatı değerler hangi seçenekte doğru olarak verilmiştir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90044,29 +90044,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 19,
-    "questionText": "Bir okulda yürütülen program dışı etkinlikler kapsamında öğrenciler, yerel bir sosyal soruna yönelik gönüllülük temelli bir <br>projeye katılmıştır. Süreç sonunda öğretmenler, öğrencilerin problem çözme, sorumluluk alma ve toplumsal farkındalık <br>becerilerinde gelişim gözlemlemiş; bu gözlemleri zümre toplantılarında paylaşarak öğretim sürecine yönelik yeni <br>düzenlemeler yapmıştır. Bu uygulamanın sonucunda öğrencilerin okul dışında da benzer etkinliklere yönelmesi dikkat <br>çekmiştir.<br><b>Bu durum Türkiye Yüzyılı Maarif Modeli’negöre aşağıdakilerin hangisinin birlikte işlediğini göstermektedir?</b>",
+    "questionText": "Bir okulda yürütülen program dışı etkinlikler kapsamında öğrenciler, yerel bir sosyal soruna yönelik gönüllülük temelli bir projeye katılmıştır. Süreç sonunda öğretmenler, öğrencilerin problem çözme, sorumluluk alma ve toplumsal farkındalık becerilerinde gelişim gözlemlemiş; bu gözlemleri zümre toplantılarında paylaşarak öğretim sürecine yönelik yeni düzenlemeler yapmıştır. Bu uygulamanın sonucunda öğrencilerin okul dışında da benzer etkinliklere yönelmesi dikkat çekmiştir. <b>Bu durum Türkiye Yüzyılı Maarif Modeli’negöre aşağıdakilerin hangisinin birlikte işlediğini göstermektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Akademik başarı – fiziksel gelişim"
+        "text": "Akademik başarı - fiziksel gelişim"
       },
       {
         "key": "B",
-        "text": "Öğretmen rehberliği – standartlaştırma"
+        "text": "Öğretmen rehberliği - standartlaştırma"
       },
       {
         "key": "C",
-        "text": "Program dışı etkinlik – ölçme ve değerlendirme"
+        "text": "Program dışı etkinlik - ölçme ve değerlendirme"
       },
       {
         "key": "D",
-        "text": "Destekleme – zenginleştirme – bireysel gelişim"
+        "text": "Destekleme - zenginleştirme - bireysel gelişim"
       },
       {
         "key": "E",
-        "text": "Sosyal sorumluluk – öğretmen yansıtması – hayat boyu öğrenme"
+        "text": "Sosyal sorumluluk - öğretmen yansıtması - hayat boyu öğrenme"
       }
     ],
     "correctAnswer": "E",
@@ -90081,21 +90081,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 20,
-    "questionText": "İnsan; doğası gereği çok yönlü bir varlıktır. Bu doğrultuda insanın zihinsel, sosyal, duygusal, fiziksel, ahlaki bakımdan çok yönlü <br>gelişimini destekleme ihtiyacı “bütüncül eğitim yaklaşımı”nı gerektirmektedir. Bütüncül eğitim yaklaşımı esas alınarak oluşturulan <br>Türkiye Yüzyılı Maarif Modeli, çok yönlü bir varoluşu gerçekleştirme çabasıdır. <br><b>Buna göre aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Model’ine uygun bir görüş olamaz?</b>",
+    "questionText": "İnsan; doğası gereği çok yönlü bir varlıktır. Bu doğrultuda insanın zihinsel, sosyal, duygusal, fiziksel, ahlaki bakımdan çok yönlü gelişimini destekleme ihtiyacı “bütüncül eğitim yaklaşımı”nı gerektirmektedir. Bütüncül eğitim yaklaşımı esas alınarak oluşturulan Türkiye Yüzyılı Maarif Modeli, çok yönlü bir varoluşu gerçekleştirme çabasıdır.<br><br><b>Buna göre aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Model’ine uygun bir görüş olamaz?</b>",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "İnsan, kendi yeteneklerini ve potansiyelini gerçekleştirmeyi hedefleyerek, toplumsal beklentilere göre değil bireysel  beklentilere göre şekillenir."
+        "text": "İnsan, kendi yeteneklerini ve potansiyelini gerçekleştirmeyi hedefleyerek, toplumsal beklentilere göre değil bireysel beklentilere göre şekillenir."
       },
       {
         "key": "B",
-        "text": "Öğrenme‐öğretme yaşantıları; öğrencinin aktif ve çevresiyle etkileşim içinde olduğu, öğrenme sorumluluğunu aldığı öğrenme  yaklaşımları etrafında şekillenir."
+        "text": "Öğrenme-öğretme yaşantıları; öğrencinin aktif ve çevresiyle etkileşim içinde olduğu, öğrenme sorumluluğunu aldığı öğrenme yaklaşımları etrafında şekillenir."
       },
       {
         "key": "C",
-        "text": "Yarıştırıcı ve ayrıştırıcı anlayışlardan uzak, bireysel farklılıkları göz önünde bulunduran farklılaştırılmış öğretim yaklaşımı  benimsenmiştir."
+        "text": "Yarıştırıcı ve ayrıştırıcı anlayışlardan uzak, bireysel farklılıkları göz önünde bulunduran farklılaştırılmış öğretim yaklaşımı benimsenmiştir."
       },
       {
         "key": "D",
@@ -90103,7 +90103,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Her öğrencinin kendini tanıması ve keşfetmesine imkân tanınarak ilgi, ihtiyaç, yetenekleri ölçüsünde esnek ve özgür öğrenme  ortamlarının yaygınlaştırıldığı hak ve gelişim temelli bir öğrenme süreci inşa edilir."
+        "text": "Her öğrencinin kendini tanıması ve keşfetmesine imkân tanınarak ilgi, ihtiyaç, yetenekleri ölçüsünde esnek ve özgür öğrenme ortamlarının yaygınlaştırıldığı hak ve gelişim temelli bir öğrenme süreci inşa edilir."
       }
     ],
     "correctAnswer": "A",
@@ -90118,7 +90118,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 21,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli'nin, “yarıştırıcı ve ayrıştırıcı anlayışlardan uzak durarak <br>bireysel farklılıkları merkeze alan bir öğretim yaklaşımı benimseyerek öğrencilerin ilgi, ihtiyaç <br>ve yeteneklerine göre öğrenme deneyimleri yaşamalarını amaçlaması” aşağıdaki <br><b>uygulamalardan hangisini gerekli kılmaktadır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nin, “yarıştırıcı ve ayrıştırıcı anlayışlardan uzak durarak bireysel farklılıkları merkeze alan bir öğretim yaklaşımı benimseyerek öğrencilerin ilgi, ihtiyaç ve yeteneklerine göre öğrenme deneyimleri yaşamalarını amaçlaması” aşağıdaki <b>uygulamalardan hangisini gerekli kılmaktadır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90155,7 +90155,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 22,
-    "questionText": "Bir öğretmen, zenginleştirme çalışmalarında sadece daha fazla soru çözmek yerine öğrencilerden, edindikleri <br>bilgileri yeni bağlamlarda kullanmaları, disiplinler arası ilişkiler kurmaları ve özgün ürünler ortaya koymaları <br>beklenmiştir. Bu sayede öğrencilerin üst düzey düşünme becerileri ön plana çıkartmıştır.<br>Öğretmenin bu zenginleştirme anlayışı Türkiye Yüzyılı Maarif Modeli’negöre hangi amaca hizmet <br><b>etmektedir?</b>",
+    "questionText": "Bir öğretmen, zenginleştirme çalışmalarında sadece daha fazla soru çözmek yerine öğrencilerden, edindikleri bilgileri yeni bağlamlarda kullanmaları, disiplinler arası ilişkiler kurmaları ve özgün ürünler ortaya koymaları beklenmiştir. <br><br><b>Bu sayede öğrencilerin üst düzey düşünme becerileri ön plana çıkartmıştır. Öğretmenin bu zenginleştirme anlayışı Türkiye Yüzyılı Maarif Modeli’negöre hangi amaca hizmet etmektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90192,7 +90192,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 23,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nintemel unsurlarından biri olan okul temelli planlama; zümre öğretmenler kurulu tarafından ders kapsamında <br>gerçekleştirilmesi kararlaştırılan araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma etkinlikleri gibi çalışmalara <br>ayrılan süreyi ifade etmektedir. Bu kapsamda öğretmenlere öğretim programını uyarlama imkânı tanınarak esneklik sağlanması <br>amaçlanmıştır.<br>Buna göre aşağıdakilerden hangisi okul temelli planlama çalışmalarında;<br>I. Öğrenme çıktıları<br>II. Türk Millî Eğitimi'nin Temel İlkeleri<br>III. Öğretim programlarının genel amaçları <br><b>unsurlarından hangisini ya da hangilerini dikkate alınması gerekmektedir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nintemel unsurlarından biri olan okul temelli planlama; zümre öğretmenler kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştırılan araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma etkinlikleri gibi çalışmalara ayrılan süreyi ifade etmektedir. Bu kapsamda öğretmenlere öğretim programını uyarlama imkânı tanınarak esneklik sağlanması amaçlanmıştır. Buna göre aşağıdakilerden hangisi okul temelli planlama çalışmalarında;<br>I. Öğrenme çıktıları<br>II. Türk Millî Eğitimi'nin Temel İlkeleri<br>III. Öğretim programlarının genel amaçları <b>unsurlarından hangisini ya da hangilerini dikkate alınması gerekmektedir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90229,7 +90229,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 24,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde “öğrencilerin farklı disiplinlerde öğrendikleri ön <br>bilgileri sentezleyerek yeni bilgiyi yapılandırmalarını ve bu süreçte de bilimsel araştırma <br>basamaklarını kullanarak bir ürün oluşturmalarını odağa alan bir yaklaşım” olarak ifade <br><b>edilen öğrenme yaklaşımı aşağıdakilerden hangisidir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde “öğrencilerin farklı disiplinlerde öğrendikleri ön bilgileri sentezleyerek yeni bilgiyi yapılandırmalarını ve bu süreçte de bilimsel araştırma basamaklarını kullanarak bir ürün oluşturmalarını odağa alan bir yaklaşım” olarak ifade <b>edilen öğrenme yaklaşımı aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90266,29 +90266,29 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 25,
-    "questionText": "Bir öğretmen sınıfta “Bir arkadaşının sırrını korumak mı, yoksa gerçeği söylemek mi doğrudur?” <br>konulu bir tartışma etkinliği düzenlemiştir. Bu tartışmada öğrenciler, hem farklı değerlerin <br>çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş etmiş hem de kendi düşüncelerini <br>açıklama imkanı bulmuşlardır.<br>Öğretmen yapmış olduğu bu uygulamada hangi değer kazandırma yaklaşımlarını bir arada <br><b>kullanmıştır?</b>",
+    "questionText": "Bir öğretmen sınıfta “Bir arkadaşının sırrını korumak mı, yoksa gerçeği söylemek mi doğrudur?” konulu bir tartışma etkinliği düzenlemiştir. Bu tartışmada öğrenciler, hem farklı değerlerin çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş etmiş hem de kendi düşüncelerini açıklama imkanı bulmuşlardır. <br><br><b>Öğretmen yapmış olduğu bu uygulamada hangi değer kazandırma yaklaşımlarını bir arada kullanmıştır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Değer aşılama – Örtük öğrenme"
+        "text": "Değer aşılama - Örtük öğrenme"
       },
       {
         "key": "B",
-        "text": "Ahlaki Muhakeme – Değer açıklama"
+        "text": "Ahlaki Muhakeme - Değer açıklama"
       },
       {
         "key": "C",
-        "text": "Ahlaki muhakeme – Değer analizi"
+        "text": "Ahlaki muhakeme - Değer analizi"
       },
       {
         "key": "D",
-        "text": "Değer açıklama – Eylem öğrenme"
+        "text": "Değer açıklama - Eylem öğrenme"
       },
       {
         "key": "E",
-        "text": "Değer aşılama – Ahlaki muhakeme"
+        "text": "Değer aşılama - Ahlaki muhakeme"
       }
     ],
     "correctAnswer": "C",
@@ -90303,7 +90303,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 1,
-    "questionText": "Matematik dersinde, öğretmen ile öğrenciler arasında geçen bir konuşma şöyledir:<br>Öğretmen: Şimdi öğreneceğimiz çok zor bir konu ama disiplinli çalışırsanız öğrenirsiniz. Yaşam, kurallı ve disiplinli olmayı gerektirir.<br>Zeynep: Öğretmenim tahtadaki şekli defterime yan olarak çizebilir miyim?<br>Öğretmen: Hayır, ben ne yapıyorsam aynısını yapın. Siz her şeyi benden öğreniyorsunuz.<br>Selim: Öğretmenim ben o soruyu formül kullanmadan başka bir yoldan da çözdüm, isterseniz göstereyim.<br>Öğretmen: Benim verdiğim formülü ezberle ve o şekilde çöz. Sınavda formülsüz çözümleri kabul etmeyeceğim. Bu formüller yüzyıllardır <br>kullanılıyor, sen de kullan.<br><b>Bu örnekteki öğretmen hangi eğitim felsefesine göre davranmaktadır?</b>",
+    "questionText": "Matematik dersinde, öğretmen ile öğrenciler arasında geçen bir konuşma şöyledir:<br>Öğretmen: Şimdi öğreneceğimiz çok zor bir konu ama disiplinli çalışırsanız öğrenirsiniz. Yaşam, kurallı ve disiplinli olmayı gerektirir.<br>Zeynep: Öğretmenim tahtadaki şekli defterime yan olarak çizebilir miyim?<br>Öğretmen: Hayır, ben ne yapıyorsam aynısını yapın. Siz her şeyi benden öğreniyorsunuz.<br>Selim: Öğretmenim ben o soruyu formül kullanmadan başka bir yoldan da çözdüm, isterseniz göstereyim.<br>Öğretmen: Benim verdiğim formülü ezberle ve o şekilde çöz. Sınavda formülsüz çözümleri kabul etmeyeceğim. Bu formüller yüzyıllardır kullanılıyor, sen de kullan. <b>Bu örnekteki öğretmen hangi eğitim felsefesine göre davranmaktadır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90340,7 +90340,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 2,
-    "questionText": "İngilizceyi yabancı dil olarak öğreten bir özel okul, bu dili daha doğal ve İngiliz aksanına uygun şekilde konuşmaları <br>için öğrencilerini bir program dâhilinde düzenli aralıklarla İngiltere'ye götürür. Bu gezilerden sonra yetkililer, <br>öğrencilerin İngilizceyi istenilen şekilde konuştuklarını, ayrıca öğrencilerin İngiliz arkadaşlarına Türk kültürü <br>hakkında pek çok şey öğrettiklerini ve onlardan İngiliz kültürü hakkında pek çok bilgi edindiklerini belirler.<br>Özel okulun, öğrencilerini İngilizceyi daha doğal ve İngiliz aksanına uygun şekilde konuşmaları için <br><b>İngiltere'ye götürmesi aşağıdaki program türlerinden hangisinin kapsamına girer?</b>",
+    "questionText": "İngilizceyi yabancı dil olarak öğreten bir özel okul, bu dili daha doğal ve İngiliz aksanına uygun şekilde konuşmaları için öğrencilerini bir program dâhilinde düzenli aralıklarla İngiltere'ye götürür. Bu gezilerden sonra yetkililer, öğrencilerin İngilizceyi istenilen şekilde konuştuklarını, ayrıca öğrencilerin İngiliz arkadaşlarına Türk kültürü hakkında pek çok şey öğrettiklerini ve onlardan İngiliz kültürü hakkında pek çok bilgi edindiklerini belirler. Özel okulun, öğrencilerini İngilizceyi daha doğal ve İngiliz aksanına uygun şekilde konuşmaları için <b>İngiltere'ye götürmesi aşağıdaki program türlerinden hangisinin kapsamına girer?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90377,7 +90377,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 3,
-    "questionText": "Milli Eğitim Bakanlığı, ortaöğretimde her öğrenci için bireysel elektronik deney seti dağıtmayı <br>planlamaktadır. Ülke genelinde yaygınlaştırmadan önce seçilen 5 pilot okul öğrencilerine bu deney <br>setleri dağıtılmıştır. Öğretim süreçleri sonucunda pilot okullardaki öğrencilerle deney seti dağıtılmayan <br>öğrencilerin hedef davranışlara ulaşma düzeyleri karşılaştırılmıştır. Deney seti dağıtılan öğrencilerde <br>hedef davranışlara ulaşma açısından büyük bir gelişme olmadığı için projeden vazgeçilmiştir.<br>Öğrencilere dağıtılacak deney setine ilişkin bir eğitim ihtiyacının olup olmadığı, hangi yaklaşım <br><b>kullanılarak belirlenmiştir?</b>",
+    "questionText": "Milli Eğitim Bakanlığı, ortaöğretimde her öğrenci için bireysel elektronik deney seti dağıtmayı planlamaktadır. Ülke genelinde yaygınlaştırmadan önce seçilen 5 pilot okul öğrencilerine bu deney setleri dağıtılmıştır. Öğretim süreçleri sonucunda pilot okullardaki öğrencilerle deney seti dağıtılmayan öğrencilerin hedef davranışlara ulaşma düzeyleri karşılaştırılmıştır. Deney seti dağıtılan öğrencilerde hedef davranışlara ulaşma açısından büyük bir gelişme olmadığı için projeden vazgeçilmiştir. Öğrencilere dağıtılacak deney setine ilişkin bir eğitim ihtiyacının olup olmadığı, hangi yaklaşım <b>kullanılarak belirlenmiştir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90414,7 +90414,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 4,
-    "questionText": "Önceki öğrenmeler gerçekleşmeden yeni kazanımların sağlıklı biçimde oluşturulamayacağını <br>düşünen bir matematik öğretmeni öğretim programını planlarken konuların belirli bir sıra <br>izlemesine özellikle dikkat etmektedir. Bu bağlamda, öğrenciler temel işlemleri öğrenmeden <br>problem çözmeye, problem çözmeden cebirsel ifadelere geçememektedir.<br><b>Bu öğretmenin benimsediği içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?</b>",
+    "questionText": "Önceki öğrenmeler gerçekleşmeden yeni kazanımların sağlıklı biçimde oluşturulamayacağını düşünen bir matematik öğretmeni öğretim programını planlarken konuların belirli bir sıra izlemesine özellikle dikkat etmektedir. <br><br><b>Bu bağlamda, öğrenciler temel işlemleri öğrenmeden problem çözmeye, problem çözmeden cebirsel ifadelere geçememektedir. Bu öğretmenin benimsediği içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90451,7 +90451,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 5,
-    "questionText": "Bir öğretmen sınıfında öğrencilerin yeteneklerini, ilgilerini ve öğrenme düzeylerini dikkate <br>almaktadır. Öğrenciler arasında seviye grupları oluşturmadan aynı sınıf ortamında bireysel <br>özelliklere hitap edilmesi gerektiğini düşünmektedir. Öğrencilerin hazırbulunuşluk düzeyi ve <br>öğrenme stilleri gibi özelliklerine göre kavram haritası oluşturma, bulmaca çözme, öykü oluşturma, <br>tartışma, deney, rol oynama gibi yöntem ve tekniklerle öğretim sürecini zenginleştirmektedir.<br><b>Bu öğretmen aşağıdaki model veya yaklaşımlardan hangisini temel almaktadır?</b>",
+    "questionText": "Bir öğretmen sınıfında öğrencilerin yeteneklerini, ilgilerini ve öğrenme düzeylerini dikkate almaktadır. Öğrenciler arasında seviye grupları oluşturmadan aynı sınıf ortamında bireysel özelliklere hitap edilmesi gerektiğini düşünmektedir. Öğrencilerin hazırbulunuşluk düzeyi ve öğrenme stilleri gibi özelliklerine göre kavram haritası oluşturma, bulmaca çözme, öykü oluşturma, tartışma, deney, rol oynama gibi yöntem ve tekniklerle öğretim sürecini zenginleştirmektedir. <b>Bu öğretmen aşağıdaki model veya yaklaşımlardan hangisini temel almaktadır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90488,7 +90488,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 6,
-    "questionText": "İngilizce eğitimin verildiği bir özel eğitim kurumunda yoğun bir programın ardından tüm öğrenciler <br>yüksek puanlar alarak eğitimi tamamlamış olmalarına rağmen öğrencilerin çoğunun <br>konuşmalarında ve yazışmalarında İngilizce iletişim kuramadıkları tespit edilmiştir.<br>Buna göre bu eğitim kurumunda işlenen derslerde aşağıdaki öğretim ilkelerinin hangisi <br><b>konusunda bir yetersizlik olduğu söylenebilir?</b>",
+    "questionText": "İngilizce eğitimin verildiği bir özel eğitim kurumunda yoğun bir programın ardından tüm öğrenciler yüksek puanlar alarak eğitimi tamamlamış olmalarına rağmen öğrencilerin çoğunun konuşmalarında ve yazışmalarında İngilizce iletişim kuramadıkları tespit edilmiştir. <br><br><b>Buna göre bu eğitim kurumunda işlenen derslerde aşağıdaki öğretim ilkelerinin hangisi konusunda bir yetersizlik olduğu söylenebilir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90525,7 +90525,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 7,
-    "questionText": "Bir öğretmen matematik dersinde bölme işlemiyle ilgili kazanımların öğretimine başlamadan önce öğrencilerin toplama, <br>çıkarma ve çarpma işlemleriyle ilgili sahip oldukları ön bilgileri tespit etmek amacıyla bir test uygulamış ve ön bilgilerinin <br>yetersiz olduğunu görmüştür. Sınıfındaki öğrenciler yeterli düzeye gelene kadar konuları tekrar anlatmıştır. Aynı zamanda <br>öğrencilerin yeni öğrenilecek konu olan bölme işlemine yönelik olumsuz tutuma sahip olduklarını da tespit etmiş ve olumlu <br>tutum geliştirmeleri amacıyla farklı etkinlikler yapmıştır. Bu çalışmalardan sonra ipucu, pekiştirme, dönüt ve düzeltme <br>kullanımına özen göstererek bölme işlemiyle ilgili kazanımların öğretimine başlamıştır.<br>Buna göre öğretmenin uygulamaya başladığı öğrenme-öğretme yaklaşımı veya modeli aşağıdakilerden <br><b>hangisidir?</b>",
+    "questionText": "Bir öğretmen matematik dersinde bölme işlemiyle ilgili kazanımların öğretimine başlamadan önce öğrencilerin toplama, çıkarma ve çarpma işlemleriyle ilgili sahip oldukları ön bilgileri tespit etmek amacıyla bir test uygulamış ve ön bilgilerinin yetersiz olduğunu görmüştür. Sınıfındaki öğrenciler yeterli düzeye gelene kadar konuları tekrar anlatmıştır. Aynı zamanda öğrencilerin yeni öğrenilecek konu olan bölme işlemine yönelik olumsuz tutuma sahip olduklarını da tespit etmiş ve olumlu tutum geliştirmeleri amacıyla farklı etkinlikler yapmıştır. Bu çalışmalardan sonra ipucu, pekiştirme, dönüt ve düzeltme kullanımına özen göstererek bölme işlemiyle ilgili kazanımların öğretimine başlamıştır. <br><br><b>Buna göre öğretmenin uygulamaya başladığı öğrenme-öğretme yaklaşımı veya modeli aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90562,7 +90562,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 8,
-    "questionText": "Taslak hâlindeki bir İngilizce ders kitabını inceleyen bir öğretmen değerlendirme toplantısında <br>görüşlerini “Kitabın öğrencinin kendi kendine çalışabilmesi için tasarlandığı anlaşılıyor. Öğrencilerin <br>sunulan bilgiyi öğrenmeden yeni bilgiye geçmeleri mümkün görünmüyor. Uygulanan testlerde <br>öğrencinin doğru cevabı görebilmesi kendini değerlendirmesi açısından yararlı oluyor. Öğrencilerin <br>öğrenme hızları farklı olduğundan kitap bazı öğrencilerin yeni konuya geçebilecekleri, bazı öğrencilerin <br>aynı konuyu tekrar edebilecekleri şekilde hazırlanmış.\" diyerek paylaşmıştır.<br>Buna göre taslak kitabın hazırlanmasında aşağıdaki öğrenme – öğretme model veya <br><b>yaklaşımlarından hangisi temel alınmıştır?</b>",
+    "questionText": "Taslak hâlindeki bir İngilizce ders kitabını inceleyen bir öğretmen değerlendirme toplantısında görüşlerini “Kitabın öğrencinin kendi kendine çalışabilmesi için tasarlandığı anlaşılıyor. Öğrencilerin sunulan bilgiyi öğrenmeden yeni bilgiye geçmeleri mümkün görünmüyor. Uygulanan testlerde öğrencinin doğru cevabı görebilmesi kendini değerlendirmesi açısından yararlı oluyor. Öğrencilerin öğrenme hızları farklı olduğundan kitap bazı öğrencilerin yeni konuya geçebilecekleri, bazı öğrencilerin aynı konuyu tekrar edebilecekleri şekilde hazırlanmış.\" diyerek paylaşmıştır. <br><br><b>Buna göre taslak kitabın hazırlanmasında aşağıdaki öğrenme – öğretme model veya yaklaşımlarından hangisi temel alınmıştır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90599,21 +90599,21 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 9,
-    "questionText": "Gagne, geliştirmiş olduğu “Öğretimsel Etkinlik” modelinde öğrenme ürünlerini; sözel bilgiler, tutumlar, <br>psikomotor beceriler, bilişsel stratejiler ve entelektüel beceriler olmak üzere beş kategoride ele almıştır. <br>Buna göre aşağıdaki öğrenci davranışlarından hangisi bilişsel stratejilere bir örnek olarak kabul <br><b>edilebilir?</b>",
+    "questionText": "Gagne, geliştirmiş olduğu “Öğretimsel Etkinlik” modelinde öğrenme ürünlerini; sözel bilgiler, tutumlar, psikomotor beceriler, bilişsel stratejiler ve entelektüel beceriler olmak üzere beş kategoride ele almıştır. <br><br><b>Buna göre aşağıdaki öğrenci davranışlarından hangisi bilişsel stratejilere bir örnek olarak kabul edilebilir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Ahmet, başarılı olamayacağını düşündüğü matematik dersinde öğretmen tarafından takdir edilince  başarılı olabileceğini düşünmeye başlamıştır."
+        "text": "Ahmet, başarılı olamayacağını düşündüğü matematik dersinde öğretmen tarafından takdir edilince başarılı olabileceğini düşünmeye başlamıştır."
       },
       {
         "key": "B",
-        "text": "Mesut, Newton’un kütle çekim kanunu ile ilgili temel ilkelerini kullanarak karşılaştığı bir fizik  problemini çözmüştür."
+        "text": "Mesut, Newton’un kütle çekim kanunu ile ilgili temel ilkelerini kullanarak karşılaştığı bir fizik problemini çözmüştür."
       },
       {
         "key": "C",
-        "text": "Mehtap okulun şiir dinletisinde okumak için Yahya Kemal Beyatlı’nın “Sessiz Gemi” şiirini  ezberlemiştir."
+        "text": "Mehtap okulun şiir dinletisinde okumak için Yahya Kemal Beyatlı’nın “Sessiz Gemi” şiirini ezberlemiştir."
       },
       {
         "key": "D",
@@ -90636,7 +90636,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 10,
-    "questionText": "Sınıfında farklı değerlere ilişkin bir farkındalık oluşturmak isteyen bir öğretmen sınıfın dört köşesine birer masa <br>yerleştirmiş ve bu masaları; “dürüstlük”, “sevgi”, “hoşgörü” ve “dayanışma” olarak adlandırmıştır. Daha sonra sınıfı <br>dört gruba ayırarak her masaya eşit sayıda öğrenci gelecek şekilde yönlendirerek masalarda belirtilen değer ile ilgili <br>olarak her grubun bir öykü yazmaya başlamasını istemiştir. Belirlenen sürenin sonunda öğrencilerin öykülerini <br>yarıda bırakarak yan köşedeki masaya gitmelerini ve orada başlanmış olan öyküyü devam ettirmelerini istemiştir. <br>Bu etkinliği bütün öğrenciler tüm masaları dolaşarak öyküleri bitirinceye kadar devam ettirmiştir. En son olarak da <br>oluşturulan öyküleri okuyarak öğrencilerle birlikte bir değerlendirme yapmıştır.<br><b>Bu öğretmenin değerleri kazandırmada kullandığı yöntem/teknik aşağıdakilerden hangisidir?</b>",
+    "questionText": "Sınıfında farklı değerlere ilişkin bir farkındalık oluşturmak isteyen bir öğretmen sınıfın dört köşesine birer masa yerleştirmiş ve bu masaları; “dürüstlük”, “sevgi”, “hoşgörü” ve “dayanışma” olarak adlandırmıştır. Daha sonra sınıfı dört gruba ayırarak her masaya eşit sayıda öğrenci gelecek şekilde yönlendirerek masalarda belirtilen değer ile ilgili olarak her grubun bir öykü yazmaya başlamasını istemiştir. Belirlenen sürenin sonunda öğrencilerin öykülerini yarıda bırakarak yan köşedeki masaya gitmelerini ve orada başlanmış olan öyküyü devam ettirmelerini istemiştir. Bu etkinliği bütün öğrenciler tüm masaları dolaşarak öyküleri bitirinceye kadar devam ettirmiştir. En son olarak da oluşturulan öyküleri okuyarak öğrencilerle birlikte bir değerlendirme yapmıştır. <b>Bu öğretmenin değerleri kazandırmada kullandığı yöntem/teknik aşağıdakilerden hangisidir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90673,7 +90673,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 11,
-    "questionText": "Yukarıda 5 derse ait yapılan sınavlarla ilgili bazı bilgiler verilmiştir. Beş sınav da aynı 100 kişilik gruba uygulanmıştır.<br><br>\n<table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\">\n  <thead>\n    <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\">\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ders</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Toplam Soru</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Doğru Cevap Ortalaması</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Standart Sapma</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Türkçe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">10</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">4</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">2</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Matematik</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">20</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">8</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">5</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Tarih</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">50</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">10</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Coğrafya</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">75</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">12</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Felsefe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">100</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">40</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">17</td></tr>\n  </tbody>\n</table>\n<b>Hangi sınavda doğru cevap oranı %50 ile %100 arasındadır?</b>",
+    "questionText": "Yukarıda 5 derse ait yapılan sınavlarla ilgili bazı bilgiler verilmiştir. Beş sınav da aynı 100 kişilik gruba uygulanmıştır. <br><br><table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\"> <thead> <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\"> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ders</th> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Toplam Soru</th> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Doğru Cevap Ortalaması</th> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Standart Sapma</th> </tr> </thead> <tbody> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Türkçe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">10</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">4</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">2</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Matematik</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">20</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">8</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">5</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Tarih</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">50</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">10</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Coğrafya</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">75</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">12</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Felsefe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">100</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">40</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">17</td></tr> </tbody> </table><br><br> <b>Hangi sınavda doğru cevap oranı %50 ile %100 arasındadır?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90710,7 +90710,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 12,
-    "questionText": "Yanda 100 tavan puan üzerinden bir gruba uygulanmış sınavın sütun grafiği verilmiştir.<br><br>\n<b>Verilen grafik bilgisi ile ilgili olarak;</b><br>\nI. Puan aritmetik ortalaması hesaplanabilir.<br>\nII. Grubun mod puan değeri 27 dir.<br>\nIII. Sınavın standart sapması hesaplanabilir.<br><br>\n<b>ifadelerinden hangileri doğrudur?</b>",
+    "questionText": "Yanda 100 tavan puan üzerinden bir gruba uygulanmış sınavın sütun grafiği verilmiştir. <b>Verilen grafik bilgisi ile ilgili olarak;</b><br>I. Puan aritmetik ortalaması hesaplanabilir.<br>II. Grubun mod puan değeri 27 dir.<br>III. Sınavın standart sapması hesaplanabilir.<br><br><b>ifadelerinden hangileri doğrudur?</b>",
     "hasImage": true,
     "image": "images/questions/tymm_eb_q37_grafik.png",
     "options": [
@@ -90747,7 +90747,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 13,
-    "questionText": "Aşağıda bir sınıfın notlarına ait dağılım grafiği verilmiştir.<br><br>\n<b>Bu grafiğe göre aşağıdaki yorumlardan hangisi yapılamaz?</b>",
+    "questionText": "Aşağıda bir sınıfın notlarına ait dağılım grafiği verilmiştir. <b>Bu grafiğe göre aşağıdaki yorumlardan hangisi yapılamaz?</b>",
     "hasImage": true,
     "image": "images/questions/tymm_eb_q38_grafik.png",
     "options": [
@@ -90784,7 +90784,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 14,
-    "questionText": "Bir okul rehber öğretmeni, öğrencilerin okula devamlılık, sınav kaygısı ve rehberlik hizmeti kullanımı ile Matematik ve Türkçe dersleri başarıları arasındaki korelasyonları aşağıdaki gibi hesaplamıştır:<br><br>\n<table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\">\n  <thead>\n    <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\">\n      <th style=\"padding:6px; border:1px solid #cbd5e1; text-align:left;\">Değişkenler</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Matematik</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Türkçe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Okula devamlılık</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,65</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,71</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Sınav kaygısı</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">- 0,70</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">- 0,74</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Rehberlik hizmeti</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,52</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,56</td></tr>\n  </tbody>\n</table>\n<b>Bu sonuçlara göre okul rehber öğretmeninin yapacağı;</b><br>\nI. Matematik başarısının en güçlü ilişkisi okula devamlılık ile kurulmuştur.<br>\nII. En düşük ilişki Matematik başarısı ve rehberlik hizmeti arasında kurulmuştur.<br>\nIII. Sınav kaygısı ile Türkçe başarısı arasındaki ilişki, sınav kaygısı ile matematik başarısı arasındaki ilişkiden daha güçlüdür.<br><br>\n<b>yorumlarından hangisi ya da hangileri doğrudur?</b>",
+    "questionText": "Bir okul rehber öğretmeni, öğrencilerin okula devamlılık, sınav kaygısı ve rehberlik hizmeti kullanımı ile Matematik ve Türkçe dersleri başarıları arasındaki korelasyonları aşağıdaki gibi hesaplamıştır: <br><br><table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\"> <thead> <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\"> <th style=\"padding:6px; border:1px solid #cbd5e1; text-align:left;\">Değişkenler</th> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Matematik</th> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Türkçe</th> </tr> </thead> <tbody> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Okula devamlılık</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,65</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,71</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Sınav kaygısı</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">- 0,70</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">- 0,74</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;\">Rehberlik hizmeti</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,52</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">+ 0,56</td></tr> </tbody> </table><br><br> <b>Bu sonuçlara göre okul rehber öğretmeninin yapacağı;</b><br>I. Matematik başarısının en güçlü ilişkisi okula devamlılık ile kurulmuştur.<br>II. En düşük ilişki Matematik başarısı ve rehberlik hizmeti arasında kurulmuştur.<br>III. Sınav kaygısı ile Türkçe başarısı arasındaki ilişki, sınav kaygısı ile matematik başarısı arasındaki ilişkiden daha güçlüdür. <b>yorumlarından hangisi ya da hangileri doğrudur?</b>",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90821,7 +90821,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Eğitim Bilimleri",
     "icon": "🎯",
     "questionNumber": 15,
-    "questionText": "Aşağıdaki tabloda bir sınıfa uygulanan 5 sınava ait soru sayısı ve bu sorulara doğru cevap veren öğrencilerin ortalamaları yer almaktadır.<br><br>\n<table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\">\n  <thead>\n    <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\">\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ders</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Soru Sayısı</th>\n      <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ortalama</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Türkçe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">50</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">25</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Matematik</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">40</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">12</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Tarih</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">60</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">45</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Coğrafya</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">20</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">8</td></tr>\n    <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Felsefe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">18</td></tr>\n  </tbody>\n</table>\n<b>Bu tabloya göre öğrencilerin en başarılı ve en başarısız olduğu dersler hangileridir?</b>",
+    "questionText": "Aşağıdaki tabloda bir sınıfa uygulanan 5 sınava ait soru sayısı ve bu sorulara doğru cevap veren öğrencilerin ortalamaları yer almaktadır. <br><br><table style=\"width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;\"> <thead> <tr style=\"background:#f1f5f9; border-bottom:2px solid #cbd5e1;\"> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ders</th> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Soru Sayısı</th> <th style=\"padding:6px; border:1px solid #cbd5e1;\">Ortalama</th> </tr> </thead> <tbody> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Türkçe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">50</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">25</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Matematik</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">40</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">12</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Tarih</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">60</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">45</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Coğrafya</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">20</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">8</td></tr> <tr><td style=\"padding:5px; border:1px solid #e2e8f0; font-weight:bold;\">Felsefe</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">30</td><td style=\"padding:5px; border:1px solid #e2e8f0;\">18</td></tr> </tbody> </table><br><br> <b>Bu tabloya göre öğrencilerin en başarılı ve en başarısız olduğu dersler hangileridir?</b>",
     "hasImage": false,
     "image": null,
     "options": [
