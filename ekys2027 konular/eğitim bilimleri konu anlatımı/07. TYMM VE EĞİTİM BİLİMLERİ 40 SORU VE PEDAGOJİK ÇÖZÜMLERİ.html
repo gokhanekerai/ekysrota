@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TYMM & Eğitim Bilimleri 40 Soru Pedagojik Çözüm Rehberi</title>
+  <style>
+    :root {
+      --primary: #4f46e5;
+      --primary-dark: #3730a3;
+      --emerald: #059669;
+      --emerald-bg: #ecfdf5;
+      --slate-50: #f8fafc;
+      --slate-100: #f1f5f9;
+      --slate-200: #e2e8f0;
+      --slate-700: #334155;
+      --slate-800: #1e293b;
+      --slate-900: #0f172a;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background: #f1f5f9;
+      color: var(--slate-800);
+      line-height: 1.6;
+      padding: 24px 16px 80px 16px;
+    }
+    .container { max-width: 900px; margin: 0 auto; }
+
+    .hero-banner {
+      background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #312e81 100%);
+      color: white;
+      border-radius: 20px;
+      padding: 32px 28px;
+      margin-bottom: 24px;
+      box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.4);
+    }
+    .hero-badge {
+      display: inline-block;
+      background: rgba(245, 158, 11, 0.2);
+      border: 1px solid #f59e0b;
+      color: #fde68a;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 5px 12px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+    }
+    .hero-title {
+      font-size: 26px;
+      font-weight: 800;
+      margin-bottom: 8px;
+      color: white;
+    }
+    .hero-subtitle {
+      color: #c7d2fe;
+      font-size: 14px;
+      margin-bottom: 18px;
+    }
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .btn-action {
+      background: rgba(255, 255, 255, 0.15);
+      color: white;
+      text-decoration: none;
+      padding: 8px 14px;
+      border-radius: 10px;
+      font-size: 13px;
+      font-weight: 600;
+      border: 1px solid rgba(255,255,255,0.25);
+      transition: all 0.2s;
+    }
+    .btn-action:hover {
+      background: rgba(255, 255, 255, 0.3);
+      transform: translateY(-2px);
+    }
+    .btn-print {
+      background: #f59e0b;
+      color: #0f172a;
+      border: none;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .question-card {
+      background: white;
+      border-radius: 18px;
+      padding: 24px 22px;
+      margin-bottom: 22px;
+      border: 1px solid var(--slate-200);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    }
+    .q-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid var(--slate-100);
+    }
+    .q-badge {
+      color: white;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 4px 12px;
+      border-radius: 9999px;
+    }
+    .q-num {
+      font-size: 14px;
+      font-weight: 800;
+      color: var(--slate-700);
+      letter-spacing: 0.5px;
+    }
+    .q-stem {
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--slate-900);
+      line-height: 1.7;
+      margin-bottom: 18px;
+    }
+    .q-img {
+      text-align: center;
+      margin: 14px 0;
+    }
+    .q-img img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      border: 1px solid var(--slate-200);
+    }
+
+    .opts-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+    .opt-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--slate-200);
+      background: var(--slate-50);
+      font-size: 14px;
+    }
+    .opt-correct {
+      background: #ecfdf5;
+      border-color: #10b981;
+      color: #065f46;
+      font-weight: 700;
+    }
+    .opt-key {
+      width: 26px;
+      height: 26px;
+      border-radius: 8px;
+      background: white;
+      border: 1px solid var(--slate-300);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 12px;
+      flex-shrink: 0;
+    }
+    .opt-correct .opt-key {
+      background: #10b981;
+      color: white;
+      border-color: #10b981;
+    }
+    .badge-correct {
+      margin-left: auto;
+      background: #10b981;
+      color: white;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 8px;
+      border-radius: 6px;
+    }
+
+    .solution-container {
+      background: #f8fafc;
+      border: 1px solid #cbd5e1;
+      border-radius: 14px;
+      overflow: hidden;
+      margin-top: 16px;
+    }
+    .solution-header {
+      background: linear-gradient(135deg, #1e293b, #334155);
+      color: white;
+      padding: 10px 16px;
+      font-size: 13px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .sol-ans {
+      margin-left: auto;
+      background: #10b981;
+      padding: 2px 10px;
+      border-radius: 9999px;
+      font-size: 12px;
+    }
+    .solution-body {
+      padding: 16px 18px;
+      font-size: 13.5px;
+      line-height: 1.65;
+    }
+    .live-box {
+      background: #f5f3ff;
+      border-left: 4px solid #7c3aed;
+      padding: 12px 14px;
+      border-radius: 8px;
+      margin: 12px 0;
+    }
+    .live-title {
+      font-weight: 800;
+      color: #6d28d9;
+      margin-bottom: 4px;
+    }
+    .analysis-box {
+      margin: 10px 0;
+    }
+    .analysis-title {
+      font-weight: 800;
+      color: #0369a1;
+      margin-bottom: 4px;
+    }
+    .source-box {
+      margin-top: 10px;
+      font-size: 12px;
+      color: #64748b;
+      border-top: 1px solid #e2e8f0;
+      padding-top: 8px;
+    }
+
+    @media print {
+      body { background: white; padding: 0; }
+      .btn-action, .btn-print { display: none !important; }
+      .question-card { box-shadow: none; border: 1px solid #ccc; page-break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="hero-banner">
+      <div class="hero-badge">🌟 EKYS 2027 Soru Bankası & Canlı Çözüm Notları</div>
+      <h1 class="hero-title">TYMM & Eğitim Bilimleri 40 Soru Rehberi</h1>
+      <p class="hero-subtitle">Videonun 40 soruluk fasikülünün tamamı: Şıklar, Doğru Cevaplar, Canlı Yayın Taktikleri ve Çözümler</p>
+      <div class="hero-actions">
+        <a href="#q1" class="btn-action">🌱 Maarif Modeli (1 - 25)</a>
+        <a href="#q26" class="btn-action">🎯 ÖYT & Ölçme (26 - 40)</a>
+        <a href="#q38" class="btn-action" style="background:#e11d48;">⚠️ Düzeltilen Soru 38 (B)</a>
+        <button onclick="window.print()" class="btn-action btn-print">🖨️ Yazdır / PDF İndir</button>
+      </div>
+    </header>
+
+    
+    <div class="question-card" id="q1">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 1 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli’negöre;<br>I. Farklılaştırılmış öğretim yaklaşımı benimsenmiştir.<br>II. Süreç ve durum temelli ölçme ve değerlendirme yaklaşımlarına yer verilmiştir.<br>III. Dijital yetkinliğe ve hayat boyu öğrenme kültürüne sahip bireyler yetiştirmek hedeflenir.<br><strong>ifadelerinden hangisi ya da hangileri doğrudur?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Yalnız I</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">I ve II</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">I ve III</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">II ve III</span></div><div class="opt-item opt-correct"><span class="opt-key">E</span><span class="opt-text">I, II ve III</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>E</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: E</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>Türkiye Yüzyılı Maarif Modeli'nin temel ilkeleri incelendiğinde:<br><br>• <strong>I. Farklılaştırılmış Öğretim:</strong> Model, bireysel farklılıkları zenginlik olarak görür; zenginleştirme ve destekleme mekanizmalarıyla farklılaştırılmış öğretim yaklaşımını merkeze alır.<br><br>• <strong>II. Süreç ve Durum Temelli Ölçme:</strong> Sadece sonuç odaklı tek tip sınavlar yerine, öğrencinin gelişimini izleyen biçimlendirici ve durum odaklı ölçme-değerlendirme yaklaşımları esas alınmıştır.<br><br>• <strong>III. Dijital Yetkinlik ve Hayat Boyu Öğrenme:</strong> Öğrencilerin çağın gerektirdiği bilişim/dijital yetkinlikleri kazanması ve eğitim bittikten sonra da hayat boyu öğrenme kültürünü sürdürmesi hedeflenir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Temel İlkeler ve Yaklaşım (Bölüm 1)</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q2">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 2 / 40</div>
+      </div>
+      
+      <div class="q-stem">Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli çerçevesinde yetiştirilmesi <br><strong>amaçlanan bilge neslin özelliklerinden biri değildir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Etkin olarak medeniyet kurucusu ve geliştiricisi</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Eleştirel düşünebilen, sorgulayan, araştıran, mesuliyet ve ülkü sahibi</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Türk eğitim sisteminin amaçlarına uygun olarak toplumu ve ülkesini imar eden</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Evrensel kabuller karşısında toplumsal ve kültürel değerleri tali değerler olarak kabul eden</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Ahlaklı, erdemli, milleti ve insanlık için iyi, doğru, faydalı ve güzel olanı yapmayı ideal edinmiş</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>Türkiye Yüzyılı Maarif Modeli'nde yetiştirilmesi amaçlanan "Bilge Nesil"; kendi köklerinden, millî ve manevi kültüründen kopuk değil, aksine <strong>kendi medeniyet değerlerini merkeze alan ve evrensel birikimle harmanlayan</strong> bir nesildir.<br><br>• <strong>Tuzak / Hata:</strong> D seçeneğinde yer alan <em>"toplumsal ve kültürel değerleri tali (ikincil, önemsiz) kabul etmek"</em> ifadesi Maarif Modeli'nin temel felsefesine tamamen zıttır. Modelde millî ve ahlaki değerler tali değil, <strong>çatı ve asli değerlerdir</strong>.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>1.3. Öğrenci Profili: Bilge Nesil</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q3">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 3 / 40</div>
+      </div>
+      
+      <div class="q-stem">Aşağıdakilerden hangisi “Türkiye Yüzyılı Maarif Modeli” ile eğitim programlarına <br><strong>entegre edilen yeniliklerden biri olarak gösterilemez?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Sonuç yerine süreç odaklı ölçme değerlendirme yaklaşımları benimsenmiştir.</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Disiplinler üstü yaklaşımları destekleyen program dışı etkinliklere yer verilmektedir.</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Öğrencinin kendisini inşasına olanak sağlayan öğrenme yaşantıları öne çıkmaktadır.</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Bireysel farklılıklar azaltılarak öğrencilerin istendik yönde yetişmeleri sağlanmaktadır.</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Sosyal duygusal öğrenme becerileri öğrenci gelişiminin ayrılmaz bir parçası olarak  görülmektedir.</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli'nde bireysel farklılıklar <strong>asla azaltılmaya çalışılmaz</strong>; tam tersine her öğrencinin fıtratından gelen bireysel ilgi, istidat ve yetenekleri bir zenginlik olarak kabul edilir ve bu farklılıklar doğrultusunda <strong>farklılaştırılmış öğretim</strong> yapılır.<br><br>• A, B, C ve E seçenekleri modelin en temel yenilikleridir (Süreç odaklı ölçme, disiplinler üstü program dışı etkinlikler, bireyin kendisini inşası ve sosyal-duygusal öğrenme becerileri - SDÖB).<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Öğretim Programlarının Temel Yaklaşımı</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q4">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 4 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir okulun rehber öğretmeni öğrencilerin zihin gelişimlerinin yanı sıra beden ve duygu yönünden de <br>gelişmelerinin önemli olduğunu her fırsatta dile getirmektedir. Ona göre bu doğrultuda bütüncül <br>gelişme, kişinin bir hem kendisi hem de toplum açısından sağlıklı ve dengeli bir insan olması anlamına <br>gelmektedir.<br>Buna göre rehber öğretmenin önem gösterdiği bu özellikler Türkiye Yüzyılı Maarif Modeli’nin<br><strong>hangi öğrenci profiline işaret etmektedir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Bilimsel bütünlük</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Ontolojik bütünlük</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Epistemolojik bütünlük</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Zamansal bütünlük</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Aksiyolojik bütünlük</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>Türkiye Yüzyılı Maarif Modeli'nde öğrenci profili 4 temel bütünlük üzerine kurgulanmıştır:<br><br>• <strong>1. Ontolojik Bütünlük (Varlık Bütünlüğü):</strong> İnsanın akıl/zihin, beden, duygu ve ruh yönleriyle bir bütün olarak ele alınmasıdır. Soruda rehber öğretmenin "zihin gelişiminin yanı sıra beden ve duygu yönünden de gelişmesi" vurgusu doğrudan <strong>Ontolojik (Varlıksal) Bütünlük</strong> ile ilgilidir.<br><br>• <strong>Epistemolojik Bütünlük:</strong> Bilginin sadece ezber değil, eyleme ve bilgeliğe dönüşmesi.<br><br>• <strong>Aksiyolojik Bütünlük:</strong> Değerlerin bilişsel düzeyden tutum ve ahlaki eyleme dönüşmesi.<br><br>• <strong>Zamansal Bütünlük:</strong> Geçmişin mirası ile geleceğin vizyonunu bugünde buluşturmak.<br><br><br>💡 <strong>Sınav Tüyosu:</strong> "Zihin + Beden + Duygu/Ruh birleşimi" = <strong>Ontolojik Bütünlük</strong>!<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q5">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 5 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir okulun Edebiyat öğretmeni edebi eserler üretebilmek için “dilin inceliklerini, söz sanatlarını ve <br>iletişim becerilerini başarılı bir şekilde kullanmanın” gerekliliğini vurgulamıştır. <br>Edebiyat öğretmeninin vurguladığı özellikler Türkiye Yüzyılı Maarif Modelinde yer alan <br><strong>yetkin ve erdemli insan profillerinden hangisine karşılık gelmektedir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item opt-correct"><span class="opt-key">A</span><span class="opt-text">Belagat sahibi</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Estetik duyarlılık sahibi</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">İletişime ve dayanışmaya açık</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Sanatsal yeteneklerini bilen ve kullanan</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Millî kültürüne ve manevi değerlerine bağlı</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>A</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: A</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Öğrenci Profilinde yer alan <strong>"Bilge İnsan"</strong> özelliklerinden biri <strong>Belagat</strong>'tır.<br><br>• <strong>Belagat:</strong> Dili yerinde, güzel, etkili, incelikli ve amacına uygun kullanma, söz sanatlarına hakim olma, edebiyat ve hitabet inceliklerini sergileme becerisidir.<br><br>• Edebiyat öğretmeninin "dilin inceliklerini, söz sanatlarını ve etkileyici ifade biçimlerini kullanarak edebi eser üretme" vurgusu doğrudan <strong>Belagat</strong> kavramına karşılık gelir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Öğrenci Profili: Bilge İnsan (Belagat)</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q6">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 6 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeline yönelik düzenlenen bir eğitim etkinliğinde konuşan eğitmen yetkin <br>ve erdemli insan profillerinden bahsederken “üretken” profilin özelliklerini sıralamıştır.<br>Buna göre aşağıda yer alan ifadelerden hangisi konuşmacının sıraladığı özellikleri <br><strong>içermektedir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item opt-correct"><span class="opt-key">A</span><span class="opt-text">Çalışkan, yaratıcı, azimli ve sabırlı</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Kendine güvenen, sorumluluk alan, kararlı ve iddialı</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Güvenilir, dürüst, tabiata ve toplumsal sorunlara duyarlı</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Bilgilerini paylaşan, belagat sahibi, bağımsız ve özgür düşünen</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Türkçeye sahip çıkan, bayrağını seven, millî kültürüne ve manevi değerlere bağlı</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>A</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: A</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• <strong>I. Ahlaklı:</strong> Doğru. Ahlaklı insan; şahsi çıkarları için başkalarının haklarını ihlal etmeyen, adalet ve dürüstlüğü hayat tarzı edinen kişidir.<br><br>• <strong>II. Estetik (Yanlış):</strong> Öncülde verilen "zorluklar karşısında yılmayan ve hedeflerine bağlı kalan" özellik estetik değil, <strong>Cesaretli/Azimli</strong> veya <strong>Metanet</strong> özelliğidir. Estetik; güzelliği fark etme, zarafet ve ölçülü olmadır.<br><br>• <strong>III. Üretken (Yanlış):</strong> "Beden sağlığını korumak ve bağımlılıklardan uzak durmak" üretken insan değil, <strong>Sağlıklı İnsan</strong> profilinin özelliğidir.<br><br>Dolayısıyla yalnız I. öncül doğru eşleştirilmiştir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Yetkin ve Erdemli İnsan Özellikleri Tablosu</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q7">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 7 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli'nde öğrencilerin becerilerini geliştirebilmeleri ve eyleme geçirebilmeleri için öğretim <br>programlarında temel bileşenlerden biri olarak yer alan eğilimler;<br> benlik eğilimleri, <br> sosyal eğilimler ve <br> entelektüel eğilimler <br>şeklinde sınıflandırılmıştır. <br><strong>Buna göre aşağıdakilerden hangisi sosyal eğilimleri başlığı altında sınıflandırılan alt benlik alanlarından biridir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Analitiklik</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Sorumluluk</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Bağımsızlık</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Sistematiklik</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Azim ve Kararlılık</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli'nde becerilerin eyleme dönüşmesinde içsel itici güç ve yatkınlıklar <strong>Eğilimler ve Tutumlar</strong> olarak tanımlanır.<br><br>• Bilgi ve becerinin eyleme dökülmesi, bireyin olumlu tutum ve içsel kararlılık (eğilim) sergilemesiyle gerçekleşir. Öğretim süreçlerinde öğrencilerin olumlu bir yaklaşım ve motivasyon geliştirmesi tutum boyutuyla sağlanır.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Beceriler, Değerler ve Eğilimler Ağı</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q8">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 8 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir felsefe öğretmeni öğrencilerden planlama ve zaman yönetimine dikkat etmelerini, güvenilir bilgi <br>kaynaklarını kullanmalarını ve tüm süreç boyunca aktif olarak sorumluluk almalarını istemektedir.<br>Buna göre felsefe öğretmeninin öğrencilerde geliştirmeyi amaçladığı sosyal – duygusal <br><strong>öğrenme becerisi aşağıdakilerden hangisidir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">İletişim</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Öz farkındalık</span></div><div class="opt-item opt-correct"><span class="opt-key">C</span><span class="opt-text">Öz düzenleme</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Sosyal farkındalık</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Sorumlu karar verme</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>C</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: C</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Soruda felsefe öğretmeninin öğrencilerden istediği <em>"kendi öğrenme sürecini planlama, zamanını yönetme, hedeflerine ulaşmak için stratejiler belirleme ve güvenilir kaynaklara ulaşma"</em> becerisi literatürde ve Maarif Modeli'nde <strong>Öz Düzenleme Becerisi (E3.1)</strong> olarak yer alır.<br><br>• Öz düzenleme; bireyin kendi bilişsel süreçlerini, zamanını, kaynaklarını ve çalışma ortamını bilinçli şekilde yönetebilmesidir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM — <em>Kavramsal ve Sosyal-Duygusal Beceriler</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q9">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 9 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli’ndeeğitim; yalnızca bireyin bilişsel gelişimini önceleyen bir süreç olarak değil, bireyin insanlık <br>ailesi içinde konumlanmasını, değer üretmesini ve sorumluluk bilinci geliştirmesini amaçlayan bütüncül bir yapı olarak ele <br>alınmaktadır. Bu bağlamda bilgi, salt aktarılması gereken bir içerik olmaktan çıkarak, bireyin topluma ve insanlığa karşı <br>yükümlülüklerini yerine getirmesinde işlevsel bir araç olarak kabul edilmektedir.<br>Buna göre Türkiye Yüzyılı Maarif Modeli’ninbilgi anlayışını en doğru biçimde yansıtan ifade aşağıdakilerden <br><strong>hangisidir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Bilginin bireysel akademik başarıyı artıran bir araç olarak kullanılması</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Bilginin mesleki yeterlilik kazandırma amacıyla disiplin temelli sunulması</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Bilginin kültürel sürekliliği sağlamak için geleneksel yöntemlerle aktarılması</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Bilginin, sorumluluk bilinciyle bütünleşerek insanın dengeli gelişimine ve toplumsal katkısına yönelmesi</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Bilginin evrensel doğrular bütünü olarak bireye aktarılması ve ölçme-değerlendirme yoluyla denetlenmesi</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• <strong>Aksiyoloji:</strong> Değerler felsefesidir (ahlak, erdem, vicdan, adalet, merhamet).<br><br>• Soruda eğitimin yalnızca bilişsel bir süreç olmadığı, <em>"bireyin insanlık ailesine karşı sorumluluklarını yerine getirmesi, ahlaki ve manevi olgunluğa erişmesi, erdemli davranışlar sergilemesi"</em> yani <strong>değerler dünyası</strong> vurgulandığı için cevap <strong>Aksiyolojik Bütünlük</strong>'tür.<br><br><br>💡 <strong>Şifre:</strong> Ahlak, erdem, vicdan, değer = <strong>Aksiyolojik Bütünlük</strong>.<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q10">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 10 / 40</div>
+      </div>
+      
+      <div class="q-stem"> Çeşitli olay/konu/durumları araştırma ve aralarındaki özellikleri ilişkilendirip genişleterek yargıya varma<br> Nesne, olgu ve olayları, gözlem ya da ölçme sonucunda belirlenen özelliklerine ve birbirleriyle ilişkilerine göre<br>gruplara ayırma<br> Birden fazla kavram veya durum arasındaki benzerlik ve farklılıkların belirlenmesi<br> Herhangi bir duruma duruma ilişkin farkında olma, anlamlı sorular sorma, bilgi edinme ve bunları değerlendirme<br>süreci<br>Yukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan bütünleşik beceri alanları ile eşleştirildiğinde<br><strong>hangi bütünleşik beceri alanı dışarıda kalır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Genelleme becerisi</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Muhakeme becerisi</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Sorgulama becerisi</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Karşılaştırma becerisi</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Sınıflandırma becerisi</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli Üst Düzey Düşünme Becerilerinden <strong>Çözümleme (KB3.1)</strong>; karmaşık durumları, metinleri veya olayları bileşenlerine ayırma, aralarındaki neden-sonuç ve mantıksal ilişkileri kurarak derinlemesine bir yargıya varma sürecidir.<br><br>• Verilen tanım doğrudan modelin Çözümleme becerisi basamaklarını yansıtmaktadır.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Kavramsal Beceriler Çerçevesi (KB3)</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q11">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 11 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli’ndeyer alan kavramsal beceriler; karmaşık bir süreç gerektirmeden edinilen ve <br>gözlenebilen temel beceriler ile soyut fikirleri ve karmaşık süreçleri eyleme dönüştürürken zihinsel <br>faaliyetlerin bir ürünü olarak işe koşulan bütünleşik ve üst düzey düşünme becerilerini ifade eder. Aralarında <br>herhangi bir aşamalılık ilişkisi bulunmayan temel ve bütünleşik beceriler, üst düzey düşünme becerilerinin <br>hayata geçirilmesindeki alt yapıyı oluşturmaktadır.<br>Buna göre Türkiye Yüzyılı Maarif Modeli’ndeele alınan üst düzey düşünme becerileri hangi seçenekte <br><strong>doğru olarak sıralanmıştır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Çelişki giderme becerisi, sorgulama becerisi ve yansıtma becerisi</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Bilgi toplama becerisi, sınıflandırma becerisi ve çözümleme becerisi</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Yapılandırma becerisi, karşılaştırma becerisi ve sentezleme becerisi</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Çıkarım yapma becerisi, muhakeme becerisi ve değerlendirme becerisi</span></div><div class="opt-item opt-correct"><span class="opt-key">E</span><span class="opt-text">Karar verme becerisi, problem çözme becerisi ve eleştirel düşünme becerisi</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>E</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: E</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli'nde <strong>Temel Beceriler (KB1)</strong>; karmaşık zihinsel süreç gerektirmeyen, doğrudan gözlemleme, tanıma, adlandırma, özetleme gibi işlemlerdir.<br><br>• <strong>Problem Çözme</strong> ise Temel Beceri değil; Üst Düzey / Bütünleşik Düşünme (KB2/KB3) kategorisinde yer alan çok aşamalı, karmaşık ve üst bilişsel bir beceridir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Kavramsal Beceriler Sınıflandırması</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q12">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 12 / 40</div>
+      </div>
+      
+      <div class="q-stem">I. Bağımsızlık<br>II. Oyun severlik<br>III. Azim ve Kararlılık<br>Yukarıda yer alan eğilimlerden hangisi ya da hangileri Türkiye Yüzyılı Maarif Modeli’ndeyer <br><strong>alan benlik eğilimleri kapsamında ele alınabilir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Yalnız I</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">I ve II</span></div><div class="opt-item opt-correct"><span class="opt-key">C</span><span class="opt-text">I ve III</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">II ve III</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">I, II ve III</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>C</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: C</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>Maarif Modeli'nde <strong>Benlik Eğilimleri (E1)</strong>:<br><br>• <strong>I. Bağımsızlık:</strong> Bireyin kendi kararlarını alabilmesi (Benlik eğilimidir).<br><br>• <strong>II. Özgüven:</strong> Kendi yeteneklerine ve değerine inanması (Benlik eğilimidir).<br><br>• <strong>III. Merak:</strong> Benlik eğilimi değil, <strong>Entelektüel Eğilimler (E3)</strong> grubundadır (Merak, Sorgulama, Hakikati Arama).<br><br>Bu nedenle I ve II doğru cevaptır.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Eğilimler Tablosu (Benlik / Sosyal / Entelektüel)</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q13">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 13 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli'nde; “girişimcilik, mantıksal muhakeme, felsefi <br>sorgulama, zamanı algılama ve kronolojik düşünme” gibi beceriler hangi alan <br><strong>becerileri kapsamında ele alınmaktadır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Tasarım alan becerileri</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Matematik alan becerileri</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Fen bilimleri alan becerileri</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Sosyal bilimler alan becerileri</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Bilişim, teknoloji ve yazılım alan becerileri</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli'nde <strong>Matematik Alan Becerileri</strong>; matematiksel muhakeme, problem çözme, modelleme ve veri ile çalışma alt alanlarını kapsar.<br><br>• Soruda verilen girişimcilik, mantıksal muhakeme ve felsefi sorgulama ile matematiksel ilişkilerin kurulması doğrudan matematik alan becerilerinin entegrasyonuyla ilişkilendirilmiştir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM — <em>Alan Becerileri Öğretim Programları</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q14">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 14 / 40</div>
+      </div>
+      
+      <div class="q-stem"> Farklı deneyimler, fikirler ve önerilere açık olabilmeyi içeren zihinsel örüntüler<br> Bir konu ya da davranışı öğrenme sürecinin keyifli ve eğlenceli hâle getirilebilmesine ilişkin zihinsel örüntüler<br> Bir işi yerine getirme konusundaki gayreti ve bu yöndeki kararları her türlü zorluğa karşı yılmaksızın uygulama çabası<br> Çeşitli durumların belirli bir yöntemle düzenli, örgütlü, odaklı ve gayretli şekilde ele alınmasına ilişkin zihinsel örüntüler<br>Yukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan öğrenci eğilimleri ile eşleştirildiğinde hangi eğilim <br><strong>türü dışarıda kalır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Açık fikirlilik</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Sistematiklik</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Oyunseverlik</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Eleştirel bakma</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Azim ve kararlılık</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli Entelektüel Eğilimlerinde <strong>Açık Fikirlilik (E3.2)</strong>: Bireyin kendi ön yargılarından sıyrılarak farklı deneyimlere, alternatif fikirlere, eleştirilere ve yeni önerilere zihnini açık tutabilme yatkınlığıdır.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Entelektüel Eğilimler</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q15">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 15 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli’ndedil, yalnızca iletişim aracı olarak değil; düşüncenin inşası, kültürün aktarımı ve insanın <br>kendini gerçekleştirmesi için temel bir unsur olarak ele alınmaktadır. Türkçenin doğru, etkili ve estetik kullanımına yapılan<br>vurgu; bireyin zihinsel gelişimi ile toplumsal bütünlüğün birlikte ele alındığını göstermektedir. Bu yaklaşım, dil öğretiminin <br>araçsal değil kurucu bir işleve sahip olduğunu ortaya koymaktadır.<br><strong>Bu çerçevede aşağıdaki uygulamalardan hangisi metinde belirtilen Türkçe öğretimi anlayışıyla en az örtüşür?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Türkçenin disiplinler arası çalışmalarda ortak düşünme dili olarak kullanılması</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Dil öğretiminin kültürel değer aktarımıyla ilişkilendirilmesi</span></div><div class="opt-item opt-correct"><span class="opt-key">C</span><span class="opt-text">Türkçenin yalnızca dil bilgisi kuralları çerçevesinde öğretilmesi</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Öğrencilerin ifade, anlama ve anlamlandırma becerilerinin geliştirilmesi</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Dilin bireyin kendini ve toplumu kavrama sürecinde temel araç olarak görülmesi</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>C</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: C</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Modelde dil (Türkçe), sadece bir iletişim vasıtası değil; <strong>düşüncenin evi, medeniyetin taşıyıcısı ve kültürel inşanın temelidir</strong>.<br><br>• Bu vizyon doğrudan <strong>Türkçe Alan Becerileri (Dinleme, Konuşma, Okuma, Yazma / Anlama-Anlatma)</strong> çerçevesinde tanımlanmıştır.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Dil ve Kültürün İnşası</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q16">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 16 / 40</div>
+      </div>
+      
+      <div class="q-stem"> Öğrenme sürecinde ele alınan bilgi kümesini ifade eder.<br> Öğrenme çıktılarının değerlendirilmesi ile uygun ölçme ve değerlendirme araçlarını ifade eder.<br> Öğrenme çıktıları, eğilim, programlar arası bileşenler ve öğrenme kanıtları arasında kurulan ve anlamlı ilişkilere dayanan <br>öğrenme-öğretme sürecini ifade eder.<br> Bilgi ve beceriler ile günlük hayat deneyimleri arasında bağ kurmayı ifade eder.<br>Yukarıdaki ifadeler Türkiye Yüzyılı Maarif Modeli’ninaşağıdaki bileşenleri ile eşleştirildiğinde hangisi <br><strong>dışarıda kalır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Köprü kurma</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">İçerik çerçevesi</span></div><div class="opt-item opt-correct"><span class="opt-key">C</span><span class="opt-text">Öğrenme çıktıları</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Öğrenme kanıtları</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Öğrenme – öğretme yaşantıları</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>C</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: C</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Program geliştirme bileşenlerinden <strong>İçerik Çerçevesi</strong>; öğrenme sürecinde öğrencilere kazandırılması hedeflenen bilgi, tema, konu, kavram ve olgular kümesini ifade eder.<br><br>• Öğrenme çıktılarına ulaşmak için kullanılan somut bilgi kümesi ve bağlam bütünüdür.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Program Bileşenleri</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q17">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 17 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir öğretmen, Türkiye Yüzyılı Maarif Modeli çerçevesinde öğrencilerinin; kendi hak ve özgürlüklerini koruma, <br>sorumluluklarının bilincinde olma, tüm canlıların yaşam haklarına saygı duyma ve sınırlı kaynakları koruma <br>bilgi, beceri ve yeterliliğine sahip olmalarını hedeflemektedir.<br>Bu öğretmenin öğrencilerine kazandırmak istediği okuryazarlık türleri aşağıdakilerin hangisinde <br><strong>birlikte verilmiştir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Dijital – Kültür</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Vatandaşlık – Kültür</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Dijital - Sürdürülebilirlik</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Kültür – Sürdürülebilirlik</span></div><div class="opt-item opt-correct"><span class="opt-key">E</span><span class="opt-text">Vatandaşlık – Sürdürülebilirlik</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>E</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: E</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Öğrencilerin kendi hak ve özgürlüklerini korurken başkalarının sınırlarına saygı göstermesi, empati kurması, çatışma çözme ve iş birliği içinde hareket etmesi doğrudan <strong>Sosyal ve Duygusal Öğrenme Becerileri (SDÖB)</strong> kapsamındadır.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM — <em>Sosyal ve Duygusal Beceriler</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q18">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 18 / 40</div>
+      </div>
+      
+      <div class="q-stem">Erdem – Değer – Eylem Çerçevesi'nde çatı değerler etrafında kümelenen bir değer çerçevesi sunulmaktadır. <br>Çatı değerler, diğer bütün değerler ile yoğun kesişim noktaları olan değer yapılarını ifade etmektedir. Bu <br>bağlamda Türkiye Yüzyılı Maarif Modeli Erdem – Değer – Eylem Çerçevesi kapsamında üç çatı değer <br>belirlenmiştir.<br><strong>Belirlenen bu çatı değerler hangi seçenekte doğru olarak verilmiştir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Estetik, cesaret ve bilgelik</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Saygı, sorumluluk ve adalet</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Üretkenlik, vatanseverlik ve adalet</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Estetik, sorumluluk ve üretkenlik</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Saygı, cesaret ve vatanseverlik</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli <strong>Erdem - Değer - Eylem Çerçevesi</strong>'nde 3 büyük Çatı Değer bulunur: <strong>Adalet, Hikmet, Merhamet</strong>.<br><br>• Hakkaniyet, eşitlik, dürüstlük, emanet bilinci ve hak yememe gibi erdemler doğrudan <strong>Adalet Çatı Değeri</strong> etrafında kümelenmiştir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Erdem-Değer-Eylem Modeli</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q19">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 19 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir okulda yürütülen program dışı etkinlikler kapsamında öğrenciler, yerel bir sosyal soruna yönelik gönüllülük temelli bir <br>projeye katılmıştır. Süreç sonunda öğretmenler, öğrencilerin problem çözme, sorumluluk alma ve toplumsal farkındalık <br>becerilerinde gelişim gözlemlemiş; bu gözlemleri zümre toplantılarında paylaşarak öğretim sürecine yönelik yeni <br>düzenlemeler yapmıştır. Bu uygulamanın sonucunda öğrencilerin okul dışında da benzer etkinliklere yönelmesi dikkat <br>çekmiştir.<br><strong>Bu durum Türkiye Yüzyılı Maarif Modeli’negöre aşağıdakilerin hangisinin birlikte işlediğini göstermektedir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Akademik başarı – fiziksel gelişim</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Öğretmen rehberliği – standartlaştırma</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Program dışı etkinlik – ölçme ve değerlendirme</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Destekleme – zenginleştirme – bireysel gelişim</span></div><div class="opt-item opt-correct"><span class="opt-key">E</span><span class="opt-text">Sosyal sorumluluk – öğretmen yansıtması – hayat boyu öğrenme</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>E</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: E</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli'nde okul sadece 4 duvar arası ders işlenen yer değildir. Sosyal sorumluluk, toplum hizmeti, gönüllülük ve kulüp faaliyetleri <strong>Program Dışı Etkinlikler</strong> kapsamında resmî programın ayrılmaz bir destekleyicisi olarak konumlandırılmıştır.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Program Dışı Etkinlikler Çerçevesi</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q20">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 20 / 40</div>
+      </div>
+      
+      <div class="q-stem">İnsan; doğası gereği çok yönlü bir varlıktır. Bu doğrultuda insanın zihinsel, sosyal, duygusal, fiziksel, ahlaki bakımdan çok yönlü <br>gelişimini destekleme ihtiyacı “bütüncül eğitim yaklaşımı”nı gerektirmektedir. Bütüncül eğitim yaklaşımı esas alınarak oluşturulan <br>Türkiye Yüzyılı Maarif Modeli, çok yönlü bir varoluşu gerçekleştirme çabasıdır. <br><strong>Buna göre aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Model’ine uygun bir görüş olamaz?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item opt-correct"><span class="opt-key">A</span><span class="opt-text">İnsan, kendi yeteneklerini ve potansiyelini gerçekleştirmeyi hedefleyerek, toplumsal beklentilere göre değil bireysel  beklentilere göre şekillenir.</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Öğrenme‐öğretme yaşantıları; öğrencinin aktif ve çevresiyle etkileşim içinde olduğu, öğrenme sorumluluğunu aldığı öğrenme  yaklaşımları etrafında şekillenir.</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Yarıştırıcı ve ayrıştırıcı anlayışlardan uzak, bireysel farklılıkları göz önünde bulunduran farklılaştırılmış öğretim yaklaşımı  benimsenmiştir.</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Akran geri bildirimi ve işbirlikli öğrenme fırsatları sağlayarak öğrencilerin birbirlerinden öğrenmelerini teşvik edilmelidir.</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Her öğrencinin kendini tanıması ve keşfetmesine imkân tanınarak ilgi, ihtiyaç, yetenekleri ölçüsünde esnek ve özgür öğrenme  ortamlarının yaygınlaştırıldığı hak ve gelişim temelli bir öğrenme süreci inşa edilir.</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>A</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: A</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Maarif Modeli insanı hem kendi yeteneklerini geliştiren bir birey hem de toplumuna, vatanına ve medeniyetine karşı mesuliyet sahibi olan bir varlık olarak görür.<br><br>• İnsanı sadece bencil bireysel beklentilere hapseden, toplumdan ve ahlaki sorumluluktan koparan anlayış modele aykırıdır. Modelde <strong>fert ve cemiyet dengesi</strong> esastır.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Bütüncül İnsan Tasavvuru</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q21">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 21 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli'nin, “yarıştırıcı ve ayrıştırıcı anlayışlardan uzak durarak <br>bireysel farklılıkları merkeze alan bir öğretim yaklaşımı benimseyerek öğrencilerin ilgi, ihtiyaç <br>ve yeteneklerine göre öğrenme deneyimleri yaşamalarını amaçlaması” aşağıdaki <br><strong>uygulamalardan hangisini gerekli kılmaktadır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Tüm öğrenciler için aynı hızda ilerleyen öğretim süreci</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Farklılaştırılmış öğretim stratejilerinin kullanılması</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Öğrencilerin performanslarının birbirleriyle kıyaslanması</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Başarı ölçütlerinin tek bir standartta belirlenmesi</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Rekabeti artırmaya yönelik uygulamaların yaygınlaştırılması</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Yarıştırıcı, tek tip ve elemeci sınav odaklı anlayıştan uzaklaşarak bireysel farklılıkları merkeze almak ancak <strong>Farklılaştırılmış Öğretim</strong> (İçerik, Süreç, Ürün ve Öğrenme Ortamı uyarlamaları) ile mümkündür.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM — <em>Farklılaştırılmış Öğretim Kılavuzu</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q22">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 22 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir öğretmen, zenginleştirme çalışmalarında sadece daha fazla soru çözmek yerine öğrencilerden, edindikleri <br>bilgileri yeni bağlamlarda kullanmaları, disiplinler arası ilişkiler kurmaları ve özgün ürünler ortaya koymaları <br>beklenmiştir. Bu sayede öğrencilerin üst düzey düşünme becerileri ön plana çıkartmıştır.<br>Öğretmenin bu zenginleştirme anlayışı Türkiye Yüzyılı Maarif Modeli’negöre hangi amaca hizmet <br><strong>etmektedir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Öğrenme süresini kısaltmaya</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Ölçme sonuçlarını standartlaştırmaya</span></div><div class="opt-item opt-correct"><span class="opt-key">C</span><span class="opt-text">Derinlemesine ve anlamlı öğrenmeyi sağlamaya</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Öğretmen denetimini güçlendirmeye</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Akademik rekabeti artırmaya</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>C</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: C</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Zenginleştirme (enrichment); hızlı öğrenen öğrencilere sadece daha çok test çözdürmek (nicelik artışı) değildir.<br><br>• Öğrencinin edindiği bilgiyi yeni alanlara transfer etmesini, derinleşmesini, eleştirel ve üretken düşünmesini sağlayarak <strong>anlamlı ve derinlemesine öğrenmeyi</strong> temin etmektir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM — <em>Zenginleştirme ve Destekleme Uygulamaları</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q23">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 23 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli’nintemel unsurlarından biri olan okul temelli planlama; zümre öğretmenler kurulu tarafından ders kapsamında <br>gerçekleştirilmesi kararlaştırılan araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma etkinlikleri gibi çalışmalara <br>ayrılan süreyi ifade etmektedir. Bu kapsamda öğretmenlere öğretim programını uyarlama imkânı tanınarak esneklik sağlanması <br>amaçlanmıştır.<br>Buna göre aşağıdakilerden hangisi okul temelli planlama çalışmalarında;<br>I. Öğrenme çıktıları<br>II. Türk Millî Eğitimi'nin Temel İlkeleri<br>III. Öğretim programlarının genel amaçları <br><strong>unsurlarından hangisini ya da hangilerini dikkate alınması gerekmektedir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Yalnız I</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">I ve II</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">I ve III</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">II ve III</span></div><div class="opt-item opt-correct"><span class="opt-key">E</span><span class="opt-text">I, II ve III</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>E</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: E</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>Okul temelli planlamada zümre öğretmenleri dersi yerel ihtiyaçlara ve öğrencilere göre uyarlarken:<br><br>• <strong>I. Öğrenme Çıktılarını:</strong> Esas almak zorundadır (kazanım/çıktı birliği).<br><br>• <strong>II. Türk Millî Eğitimi'nin Temel İlkelerini:</strong> (1739 sayılı kanun ilkeleri) ihlal edemez.<br><br>• <strong>III. Öğretim Programlarının Genel Amaçlarını:</strong> Korumak ve gözetmek durumundadır.<br><br>Dolayısıyla her üç unsur da zorunlu kılavuzdur.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Ortak Metni — <em>Okul Temelli Planlama Esasları</em><br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q24">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 24 / 40</div>
+      </div>
+      
+      <div class="q-stem">Türkiye Yüzyılı Maarif Modeli'nde “öğrencilerin farklı disiplinlerde öğrendikleri ön <br>bilgileri sentezleyerek yeni bilgiyi yapılandırmalarını ve bu süreçte de bilimsel araştırma <br>basamaklarını kullanarak bir ürün oluşturmalarını odağa alan bir yaklaşım” olarak ifade <br><strong>edilen öğrenme yaklaşımı aşağıdakilerden hangisidir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Sorgulamaya dayalı öğrenme</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Bağlam temelli öğrenme</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Yaşantı temelli öğrenme</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Proje temelli öğrenme</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">İş birlikli öğrenme</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• Farklı disiplinlerden gelen ön bilgilerin sentezlenmesi, bilimsel araştırma basamaklarının işletilmesi ve süreç sonunda somut/özgün bir <strong>ÜRÜN</strong> veya rapor ortaya konması <strong>Proje Tabanlı Öğrenme Yaklaşımı</strong>'nın belirleyici tanımıdır.<br><br><br>💡 <strong>Şifre:</strong> Disiplinlerarası sentez + Bilimsel araştırma adımları + <strong>Ürün oluşturma</strong> = Proje Tabanlı Öğrenme!<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q25">
+      <div class="q-header">
+        <div class="q-badge" style="background:#4f46e5;">🌱 Maarif Modeli</div>
+        <div class="q-num">SORU 25 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir öğretmen sınıfta “Bir arkadaşının sırrını korumak mı, yoksa gerçeği söylemek mi doğrudur?” <br>konulu bir tartışma etkinliği düzenlemiştir. Bu tartışmada öğrenciler, hem farklı değerlerin <br>çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş etmiş hem de kendi düşüncelerini <br>açıklama imkanı bulmuşlardır.<br>Öğretmen yapmış olduğu bu uygulamada hangi değer kazandırma yaklaşımlarını bir arada <br><strong>kullanmıştır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Değer aşılama – Örtük öğrenme</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Ahlaki Muhakeme – Değer açıklama</span></div><div class="opt-item opt-correct"><span class="opt-key">C</span><span class="opt-text">Ahlaki muhakeme – Değer analizi</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Değer açıklama – Eylem öğrenme</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Değer aşılama – Ahlaki muhakeme</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>C</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: C</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz ve Maarif Modeli Dayanağı:</strong><br><br>• <strong>Ahlaki Muhakeme (Kohlberg):</strong> İkilem (dilemma) durumlarında (arkadaşının sırrını tutmak mı doğru, gerçeği söylemek mi?) iki doğru/yanlış arasında kalarak ahlaki gerekçelendirme yapmaktır.<br><br>• <strong>Değer Analizi:</strong> Değer çatışmalarını eleştirel, rasyonel ve mantıksal kanıtlarla inceleme sürecidir.<br><br>Öğretmen ikilemli durum üzerinden değer çatışmasını analiz ettirdiği için bu iki yaklaşımı birleştirmiştir.<br><br><br><div class="source-box"><div class="source-title">📖 Resmî Kaynak:</strong> MEB TYMM Değerler Eğitimi Modülü & Eğitim Bilimleri ÖYT<br><br>---<br><br>## 🎯 BÖLÜM 2: ÖYT ve Ölçme-Değerlendirme Karma Soruları (26 – 40)
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q26">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 26 / 40</div>
+      </div>
+      
+      <div class="q-stem">Matematik dersinde, öğretmen ile öğrenciler arasında geçen bir konuşma şöyledir:<br>Öğretmen: Şimdi öğreneceğimiz çok zor bir konu ama disiplinli çalışırsanız öğrenirsiniz. Yaşam, kurallı ve disiplinli olmayı gerektirir.<br>Zeynep: Öğretmenim tahtadaki şekli defterime yan olarak çizebilir miyim?<br>Öğretmen: Hayır, ben ne yapıyorsam aynısını yapın. Siz her şeyi benden öğreniyorsunuz.<br>Selim: Öğretmenim ben o soruyu formül kullanmadan başka bir yoldan da çözdüm, isterseniz göstereyim.<br>Öğretmen: Benim verdiğim formülü ezberle ve o şekilde çöz. Sınavda formülsüz çözümleri kabul etmeyeceğim. Bu formüller yüzyıllardır <br>kullanılıyor, sen de kullan.<br><strong>Bu örnekteki öğretmen hangi eğitim felsefesine göre davranmaktadır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Daimîcilik</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Esasicilik</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">İlerlemecilik</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Yeniden kurmacılık</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Yararcılık</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (Eğitim Felsefeleri):</strong><br><br>• Öğretmenin replikleri incelendiğinde:<br><br>  - <em>"Çok zor bir konu ama disiplinli çalışırsanız öğrenirsiniz."</em> (Disiplin ve sıkı çalışma esastır).<br><br>  - <em>"Hayır, ben ne yapıyorsam aynısını yapın. Siz her şeyi benden öğreniyorsunuz."</em> (Öğretmen otoritedir, öğrenci pasif alıcıdır).<br><br>  - <em>"Benim verdiğim formülü ezberle ve o şekilde çöz."</em> (Ezber ve geleneksel yöntem).<br><br>• Bu katı, öğretmen merkezli ve disiplini önceleyen anlayış klasik <strong>Esasicilik (Essentialism)</strong> felsefesidir.<br><br><br>💡 <strong>Sınav Tüyosu:</strong> Öğretmen mutlak otorite, sıkı disiplin, ezber ve konu odaklılık = <strong>Esasicilik</strong>.<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q27">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 27 / 40</div>
+      </div>
+      
+      <div class="q-stem">İngilizceyi yabancı dil olarak öğreten bir özel okul, bu dili daha doğal ve İngiliz aksanına uygun şekilde konuşmaları <br>için öğrencilerini bir program dâhilinde düzenli aralıklarla İngiltere'ye götürür. Bu gezilerden sonra yetkililer, <br>öğrencilerin İngilizceyi istenilen şekilde konuştuklarını, ayrıca öğrencilerin İngiliz arkadaşlarına Türk kültürü <br>hakkında pek çok şey öğrettiklerini ve onlardan İngiliz kültürü hakkında pek çok bilgi edindiklerini belirler.<br>Özel okulun, öğrencilerini İngilizceyi daha doğal ve İngiliz aksanına uygun şekilde konuşmaları için <br><strong>İngiltere'ye götürmesi aşağıdaki program türlerinden hangisinin kapsamına girer?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Uygulamadaki program</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">İhmal edilen program</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Öğretim programı</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Ekstra program</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Örtük program</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (Posner Program Türleri):</strong><br><br>• <strong>Ekstra Program:</strong> Okulun planlaması ve gözetimi altında yapılan, resmî ders programının dışında kalan; okul korosu, geziler, yurt dışı dil kampları, spor turnuvaları ve kulüp faaliyetleri gibi gönüllü/ek etkinliklerdir.<br><br>• Soruda özel okulun planlı olarak öğrencileri İngiltere gezisine götürmesi resmî ders saatleri dışındaki planlı bir okul faaliyeti olduğu için <strong>Ekstra Program</strong>'dır.<br><br>• (Öğrencilerin gezi sırasında plansız olarak arkadaşlarına Türk kültürünü öğretmesi örtük program ürünü olsa da sorunun kökünde İngiltere'ye götürülme planı sorulmaktadır).<br><br><br><div class="source-box"><div class="source-title">📖 Kaynak:</strong> Program Geliştirme — Posner Program Sınıflandırması<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q28">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 28 / 40</div>
+      </div>
+      
+      <div class="q-stem">Milli Eğitim Bakanlığı, ortaöğretimde her öğrenci için bireysel elektronik deney seti dağıtmayı <br>planlamaktadır. Ülke genelinde yaygınlaştırmadan önce seçilen 5 pilot okul öğrencilerine bu deney <br>setleri dağıtılmıştır. Öğretim süreçleri sonucunda pilot okullardaki öğrencilerle deney seti dağıtılmayan <br>öğrencilerin hedef davranışlara ulaşma düzeyleri karşılaştırılmıştır. Deney seti dağıtılan öğrencilerde <br>hedef davranışlara ulaşma açısından büyük bir gelişme olmadığı için projeden vazgeçilmiştir.<br>Öğrencilere dağıtılacak deney setine ilişkin bir eğitim ihtiyacının olup olmadığı, hangi yaklaşım <br><strong>kullanılarak belirlenmiştir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Demokratik</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Betimsel</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Analitik</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Farklar</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Delphi</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (İhtiyaç Belirleme Yaklaşımları):</strong><br><br>• <strong>Betimsel (Descriptive) Yaklaşım:</strong> Bir eğitim uygulamasının, eğitim aracının veya programın varlığı ile yokluğu arasındaki farkı ortaya koyarak; uygulandığında hedef davranışlarda ne ölçüde bir fayda/gelişme sağlandığını tespit etmektir.<br><br>• Soruda deney seti dağıtılan pilot okulla dağıtılmayan okullar karşılaştırılmış, hedef davranışlara ulaşmada anlamlı bir fark oluşmadığı görülünce ihtiyaç olmadığı belirlenmiştir.<br><br><br>💡 <strong>Şifre:</strong> Bir materyalin varlığı ile yokluğu arasındaki faydayı ölçmek = <strong>Betimsel Yaklaşım</strong>!<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q29">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 29 / 40</div>
+      </div>
+      
+      <div class="q-stem">Önceki öğrenmeler gerçekleşmeden yeni kazanımların sağlıklı biçimde oluşturulamayacağını <br>düşünen bir matematik öğretmeni öğretim programını planlarken konuların belirli bir sıra <br>izlemesine özellikle dikkat etmektedir. Bu bağlamda, öğrenciler temel işlemleri öğrenmeden <br>problem çözmeye, problem çözmeden cebirsel ifadelere geçememektedir.<br><strong>Bu öğretmenin benimsediği içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Sarmal programlama yaklaşımı</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Modüler programlama yaklaşımı</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Çekirdek programlama yaklaşımı</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Piramitsel programlama yaklaşımı</span></div><div class="opt-item opt-correct"><span class="opt-key">E</span><span class="opt-text">Doğrusal programlama yaklaşımı</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>E</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: E</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (İçerik Düzenleme Yaklaşımları):</strong><br><br>• <strong>Doğrusal Yaklaşım (Tyler):</strong> Konuların önkoşul ilişkisine göre ardışık, aşamalı ve katı bir sıra izlediği tasarımdır. Bir konu öğrenilmeden sonraki konuya asla geçilemez (Örn: Toplama öğrenilmeden çarpma, çarpma öğrenilmeden bölme öğrenilemez).<br><br>• Soruda öğretmenin "önceki öğrenmeler olmadan yeni kazanıma geçilemeyeceği, aşamalı sıra izlendiği" vurgusu tam bir doğrusal tasarımdır.<br><br><br>💡 <strong>Şifre:</strong> Aşamalı sıra + Katı önkoşul ilişkisi = <strong>Doğrusal Programlama</strong>.<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q30">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 30 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir öğretmen sınıfında öğrencilerin yeteneklerini, ilgilerini ve öğrenme düzeylerini dikkate <br>almaktadır. Öğrenciler arasında seviye grupları oluşturmadan aynı sınıf ortamında bireysel <br>özelliklere hitap edilmesi gerektiğini düşünmektedir. Öğrencilerin hazırbulunuşluk düzeyi ve <br>öğrenme stilleri gibi özelliklerine göre kavram haritası oluşturma, bulmaca çözme, öykü oluşturma, <br>tartışma, deney, rol oynama gibi yöntem ve tekniklerle öğretim sürecini zenginleştirmektedir.<br><strong>Bu öğretmen aşağıdaki model veya yaklaşımlardan hangisini temel almaktadır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Tam öğrenme</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Harmanlanmış öğrenme</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Probleme dayalı öğrenme</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Farklılaştırılmış öğretim</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Programlı öğretim</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (Öğretim Modelleri):</strong><br><br>• Öğretmenin öğrencileri seviye gruplarına ayırmadan, aynı sınıf içerisinde onların hazırbulunuşluk düzeyleri, öğrenme stilleri ve ilgi alanlarına göre kavram haritası, drama, bulmaca, rol oynama gibi çoklu tekniklerle süreci çeşitlendirmesi <strong>Farklılaştırılmış Öğretim (Tomlinson)</strong> modelidir.<br><br><br><div class="source-box"><div class="source-title">📖 Kaynak:</strong> Öğretim İlke ve Yöntemleri & MEB Maarif Modeli Farklılaştırma İlkeleri<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q31">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 31 / 40</div>
+      </div>
+      
+      <div class="q-stem">İngilizce eğitimin verildiği bir özel eğitim kurumunda yoğun bir programın ardından tüm öğrenciler <br>yüksek puanlar alarak eğitimi tamamlamış olmalarına rağmen öğrencilerin çoğunun <br>konuşmalarında ve yazışmalarında İngilizce iletişim kuramadıkları tespit edilmiştir.<br>Buna göre bu eğitim kurumunda işlenen derslerde aşağıdaki öğretim ilkelerinin hangisi <br><strong>konusunda bir yetersizlik olduğu söylenebilir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Aktüalite</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Hayatilik</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Ayanilik</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Bütünlük</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Öğrenciye görelik</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (Öğretim İlkeleri):</strong><br><br>• <strong>Hayatilik (Yaşama Yakınlık) İlkesi:</strong> Okulda öğrenilen bilgi ve becerilerin gerçek hayatta işe yaraması, öğrencinin karşılaştığı günlük durumlarda bu bilgiyi pratik olarak kullanabilmesidir.<br><br>• Öğrencilerin İngilizce sınavlarından 100 almasına rağmen gerçek hayatta yabancılarla konuşamaması ve yazışamaması, okulda öğretilenin yaşama aktarılamadığını yani <strong>Hayatilik</strong> ilkesinin eksik kaldığını gösterir.<br><br><br>💡 <strong>Şifre:</strong> Sınavda yüksek not alıp günlük yaşamda kullanamamak = <strong>Hayatilik Eksikliği</strong>.<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q32">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 32 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir öğretmen matematik dersinde bölme işlemiyle ilgili kazanımların öğretimine başlamadan önce öğrencilerin toplama, <br>çıkarma ve çarpma işlemleriyle ilgili sahip oldukları ön bilgileri tespit etmek amacıyla bir test uygulamış ve ön bilgilerinin <br>yetersiz olduğunu görmüştür. Sınıfındaki öğrenciler yeterli düzeye gelene kadar konuları tekrar anlatmıştır. Aynı zamanda <br>öğrencilerin yeni öğrenilecek konu olan bölme işlemine yönelik olumsuz tutuma sahip olduklarını da tespit etmiş ve olumlu <br>tutum geliştirmeleri amacıyla farklı etkinlikler yapmıştır. Bu çalışmalardan sonra ipucu, pekiştirme, dönüt ve düzeltme <br>kullanımına özen göstererek bölme işlemiyle ilgili kazanımların öğretimine başlamıştır.<br>Buna göre öğretmenin uygulamaya başladığı öğrenme-öğretme yaklaşımı veya modeli aşağıdakilerden <br><strong>hangisidir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item opt-correct"><span class="opt-key">A</span><span class="opt-text">Tam öğrenme</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Proje tabanlı öğrenme</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Beyin temelli öğrenme</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Probleme dayalı öğrenme</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">İşbirliğine dayalı öğrenme</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>A</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: A</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (Bloom Tam Öğrenme Modeli):</strong><br><br>Bloom'un Tam Öğrenme Modelinde 3 temel değişken vardır:<br><br>• <strong>1. Bilişsel Giriş Davranışları:</strong> Ön bilgilerin tespiti ve eksiklerin giderilmesi.<br><br>• <strong>2. Duyuşsal Giriş Özellikleri:</strong> Olumlu tutum, akademik özgüven geliştirme.<br><br>• <strong>3. Öğretim Hizmetinin Niteliği:</strong> İpucu, Pekiştireç, Katılım, Dönüt ve Düzeltme (PİDÖ).<br><br>Sorudaki öğretmen ön test uygulamış, eksikleri tamamlamış, olumsuz tutumu gidermiş ve PİDÖ kullanarak derse başlamıştır. Bu süreç birebir Tam Öğrenme Modeli'dir.<br><br><br><div class="source-box"><div class="source-title">📖 Kaynak:</strong> Bloom Tam Öğrenme Modeli<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q33">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 33 / 40</div>
+      </div>
+      
+      <div class="q-stem">Taslak hâlindeki bir İngilizce ders kitabını inceleyen bir öğretmen değerlendirme toplantısında <br>görüşlerini “Kitabın öğrencinin kendi kendine çalışabilmesi için tasarlandığı anlaşılıyor. Öğrencilerin <br>sunulan bilgiyi öğrenmeden yeni bilgiye geçmeleri mümkün görünmüyor. Uygulanan testlerde <br>öğrencinin doğru cevabı görebilmesi kendini değerlendirmesi açısından yararlı oluyor. Öğrencilerin <br>öğrenme hızları farklı olduğundan kitap bazı öğrencilerin yeni konuya geçebilecekleri, bazı öğrencilerin <br>aynı konuyu tekrar edebilecekleri şekilde hazırlanmış." diyerek paylaşmıştır.<br>Buna göre taslak kitabın hazırlanmasında aşağıdaki öğrenme – öğretme model veya <br><strong>yaklaşımlarından hangisi temel alınmıştır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Tam öğrenme</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Programlı öğretim</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Kuantum öğrenme</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Beyin temelli öğrenme</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Probleme dayalı öğrenme</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (Skinner Programlı Öğretim):</strong><br><br>Programlı öğretimin <strong>KEBAP</strong> ilkeleri:<br><br>• <strong>K</strong>üçük adımlar (bilginin parçalara bölünmesi)<br><br>• <strong>E</strong>tkin katılım<br><br>• <strong>B</strong>ireysel hız (öğrencinin kendi hızıyla ilerlemesi)<br><br>• <strong>A</strong>nında kontrol (öğrencinin cevabı görüp kendini denetlemesi)<br><br>• <strong>B</strong>aşarı (pekiştirme)<br><br>Sorudaki taslak kitabın öğrencinin bireysel hızına imkan vermesi, adımlar halinde sunulması ve doğru cevabı anında görmesi <strong>Programlı Öğretim</strong> modelinin yansımasıdır.<br><br><br><div class="source-box"><div class="source-title">📖 Kaynak:</strong> B.F. Skinner Programlı Öğretim İlkeleri<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q34">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 34 / 40</div>
+      </div>
+      
+      <div class="q-stem">Gagne, geliştirmiş olduğu “Öğretimsel Etkinlik” modelinde öğrenme ürünlerini; sözel bilgiler, tutumlar, <br>psikomotor beceriler, bilişsel stratejiler ve entelektüel beceriler olmak üzere beş kategoride ele almıştır. <br>Buna göre aşağıdaki öğrenci davranışlarından hangisi bilişsel stratejilere bir örnek olarak kabul <br><strong>edilebilir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Ahmet, başarılı olamayacağını düşündüğü matematik dersinde öğretmen tarafından takdir edilince  başarılı olabileceğini düşünmeye başlamıştır.</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Mesut, Newton’un kütle çekim kanunu ile ilgili temel ilkelerini kullanarak karşılaştığı bir fizik  problemini çözmüştür.</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Mehtap okulun şiir dinletisinde okumak için Yahya Kemal Beyatlı’nın “Sessiz Gemi” şiirini  ezberlemiştir.</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">Hatice, anlamakta zorlandığı yabancı dil dersi için kendine uygun bir çalışma yöntemi geliştirmiştir.</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Mehmet, katılacağı halkoyunları yarışmasında yapacağı yeni bir hareketi öğrenmiştir.</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (Gagné Öğrenme Ürünleri):</strong><br><br>• <strong>Bilişsel Strateji:</strong> Bireyin kendi dikkatini, algılamasını, hatırlamasını ve düşünmesini yönetmek için geliştirdiği özgün yöntem ve tekniklerdir (Metabiliş / Öğrenmeyi öğrenme). Hatice'nin kendine has bir çalışma yöntemi keşfetmesi bilişsel stratejidir.<br><br>• <strong>A:</strong> Tutum (derse yönelik inanç)<br><br>• <strong>B:</strong> Entelektüel Beceri (kural uygulama / problem çözme)<br><br>• <strong>C:</strong> Sözel Bilgi (ezberleme)<br><br>• <strong>E:</strong> Psikomotor Beceri (halkoyunları hareketi)<br><br><br><div class="source-box"><div class="source-title">📖 Kaynak:</strong> Robert Gagné — Öğretim Durumları Modeli<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q35">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 35 / 40</div>
+      </div>
+      
+      <div class="q-stem">Sınıfında farklı değerlere ilişkin bir farkındalık oluşturmak isteyen bir öğretmen sınıfın dört köşesine birer masa <br>yerleştirmiş ve bu masaları; “dürüstlük”, “sevgi”, “hoşgörü” ve “dayanışma” olarak adlandırmıştır. Daha sonra sınıfı <br>dört gruba ayırarak her masaya eşit sayıda öğrenci gelecek şekilde yönlendirerek masalarda belirtilen değer ile ilgili <br>olarak her grubun bir öykü yazmaya başlamasını istemiştir. Belirlenen sürenin sonunda öğrencilerin öykülerini <br>yarıda bırakarak yan köşedeki masaya gitmelerini ve orada başlanmış olan öyküyü devam ettirmelerini istemiştir. <br>Bu etkinliği bütün öğrenciler tüm masaları dolaşarak öyküleri bitirinceye kadar devam ettirmiştir. En son olarak da <br>oluşturulan öyküleri okuyarak öğrencilerle birlikte bir değerlendirme yapmıştır.<br><strong>Bu öğretmenin değerleri kazandırmada kullandığı yöntem/teknik aşağıdakilerden hangisidir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item opt-correct"><span class="opt-key">A</span><span class="opt-text">İstasyon</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Köşelenme</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Beyin fırtınası</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Görüş geliştirme</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Altı şapkalı düşünme</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>A</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: A</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Pedagojik Analiz (Öğretim Teknikleri):</strong><br><br>• <strong>İstasyon Tekniği:</strong> Sınıfta farklı çalışma masaları (istasyonlar) oluşturulması, öğrenci gruplarının sırayla tüm masaları dolaşarak <strong>bir önceki grubun yarım bıraktığı işi (öyküyü, resmi, projeyi) devam ettirmesi</strong> ve sürecin sonunda ortak bir ürünün ortaya çıkarılması tekniğidir.<br><br>• Öğretmenin masalara değer isimleri verip öğrencilere öyküleri yarıda bıraktırarak dolaştırması doğrudan <strong>İstasyon</strong> tekniğidir.<br><br><br>💡 <strong>Şifre:</strong> Masaları dolaşma + Önceki grubun bıraktığı işi devam ettirme = <strong>İstasyon Tekniği</strong>!<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q36">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 36 / 40</div>
+      </div>
+      
+      <div class="q-stem">Yukarıda 5 derse ait yapılan sınavlarla ilgili bazı bilgiler verilmiştir. Beş sınav da aynı 100 kişilik gruba uygulanmıştır.<br><br><br><table style="width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;"><br>  <thead><br>    <tr style="background:#f1f5f9; border-bottom:2px solid #cbd5e1;"><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Ders</th><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Toplam Soru</th><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Doğru Cevap Ortalaması</th><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Standart Sapma</th><br>    </tr><br>  </thead><br>  <tbody><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Türkçe</td><td style="padding:5px; border:1px solid #e2e8f0;">10</td><td style="padding:5px; border:1px solid #e2e8f0;">4</td><td style="padding:5px; border:1px solid #e2e8f0;">2</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Matematik</td><td style="padding:5px; border:1px solid #e2e8f0;">20</td><td style="padding:5px; border:1px solid #e2e8f0;">8</td><td style="padding:5px; border:1px solid #e2e8f0;">5</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Tarih</td><td style="padding:5px; border:1px solid #e2e8f0;">50</td><td style="padding:5px; border:1px solid #e2e8f0;">30</td><td style="padding:5px; border:1px solid #e2e8f0;">10</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Coğrafya</td><td style="padding:5px; border:1px solid #e2e8f0;">75</td><td style="padding:5px; border:1px solid #e2e8f0;">30</td><td style="padding:5px; border:1px solid #e2e8f0;">12</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Felsefe</td><td style="padding:5px; border:1px solid #e2e8f0;">100</td><td style="padding:5px; border:1px solid #e2e8f0;">40</td><td style="padding:5px; border:1px solid #e2e8f0;">17</td></tr><br>  </tbody><br></table><br><strong>Hangi sınavda doğru cevap oranı %50 ile %100 arasındadır?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Türkçe</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Matematik</span></div><div class="opt-item opt-correct"><span class="opt-key">C</span><span class="opt-text">Tarih</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Coğrafya</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Felsefe</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>C</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: C</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Ölçme ve Değerlendirme Analizi (Doğru Cevap Oranı / Grup Başarısı):</strong><br><br>Doğru cevap oranı (Grup Başarı Yüzdesi) = <code>(Doğru Cevap Ortalaması / Soru Sayısı) × 100</code> formülü ile hesaplanır:<br><br>• <strong>Türkçe:</strong> 4 / 10 = %40<br><br>• <strong>Matematik:</strong> 8 / 20 = %40<br><br>• <strong>Tarih:</strong> 30 / 50 = <strong>%60</strong> ➔ <em>%50 ile %100 aralığındadır!</em><br><br>• <strong>Coğrafya:</strong> 30 / 75 = %40<br><br>• <strong>Felsefe:</strong> 40 / 100 = %40<br><br>Dolayısıyla %50'nin üzerinde başarı sağlanan tek sınav <strong>Tarih</strong> sınavıdır.<br><br><br>💡 <strong>Sınav Tüyosu:</strong> Tabloda verilen Standart Sapma sütunu sorunun çözümü için çeldiricidir; başarı oranı için yalnızca Ortalama ve Soru Sayısı oranlanır!<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q37">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 37 / 40</div>
+      </div>
+      
+      <div class="q-stem"><div class="q-img"><img src="../../images/questions/tymm_eb_q37_grafik.png" alt="Soru 37 Grafiği"></div><br><br>Yanda 100 tavan puan üzerinden bir gruba uygulanmış sınavın sütun grafiği verilmiştir.<br><br><br><strong>Verilen grafik bilgisi ile ilgili olarak;</strong><br><br>I. Puan aritmetik ortalaması hesaplanabilir.<br><br>II. Grubun mod puan değeri 27 dir.<br><br>III. Sınavın standart sapması hesaplanabilir.<br><br><br><strong>ifadelerinden hangileri doğrudur?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Yalnız I</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">I ve II</span></div><div class="opt-item opt-correct"><span class="opt-key">C</span><span class="opt-text">I ve III</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">II ve III</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">I, II ve III</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>C</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: C</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Ölçme ve Değerlendirme Analizi (Test İstatistikleri & Grafik Okuma):</strong><br><br>Grafik incelendiğinde her puan aralığındaki öğrenci frekansları (sayıları) net olarak bellidir:<br><br>• <strong>I. Puan Aritmetik Ortalaması:</strong> Toplam puan / toplam öğrenci sayısı formülünden kesinlikle hesaplanabilir (Doğru).<br><br>• <strong>II. Grubun mod değeri 27'dir:</strong> (YANLIŞ!) Mod, frekansın (öğrenci sayısının) en yüksek olduğu <strong>PUAN</strong> değeridir. 27 sayısı ise puan değil, o puanı alan öğrenci sayısıdır (frekanstır).<br><br>• <strong>III. Standart Sapma:</strong> Frekans ve puanlar bilindiği için standart sapma formülüyle hesaplanabilir (Doğru).<br><br>Bu nedenle I ve III doğrudur.<br><br><br>💡 <strong>Sınav Tuzağı:</strong> Mod frekans sayısı değildir; en yüksek tepe noktasının altındaki <strong>PUAN DEĞERİDİR</strong>!<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q38">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 38 / 40</div>
+      </div>
+      
+      <div class="q-stem"><div class="q-img"><img src="../../images/questions/tymm_eb_q38_grafik.png" alt="Soru 38 Grafiği"></div><br><br>Aşağıda bir sınıfın notlarına ait dağılım grafiği verilmiştir.<br><br><br><strong>Bu grafiğe göre aşağıdaki yorumlardan hangisi yapılamaz?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Heterojen bir dağılım söz konusudur.</span></div><div class="opt-item opt-correct"><span class="opt-key">B</span><span class="opt-text">Orta düzey bir başarı söz konusudur.</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Sınıfta çok farklı puanlar alınmıştır.</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Çok modlu bir dağılımdır.</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Dengesiz bir dağılımdır.</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>B</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: B</strong>  <br>> > <br>> ⚠️ <strong>Canlı Yayın Notu & Resmî Düzeltme:</strong> Matbaa cevap anahtarında bu soru sehven 'E' kodlanmıştır; hocamız canlı yayında sorunun doğru cevabının kesinlikle <strong>B</strong> olduğunu belirtmiştir.<br><br><br><div class="analysis-box"><div class="analysis-title">🎯 Ölçme ve Değerlendirme Analizi (Çok Modlu Dağılım ve Başarı Yorumu):</strong><br><br>• Grafikte iki ayrı tepe noktası (Mod 1 ve Mod 2) bulunan <strong>çok modlu (bimodal) ve dengesiz bir dağılım</strong> görülmektedir.<br><br>• Dağılımda hem çok yüksek hem de çok düşük farklı puanlar alındığı için sınıf yapısı <strong>heterojendir</strong> (A, C, D ve E seçenekleri doğru yorumlardır).<br><br>• <strong>Kritik Kural:</strong> Çok modlu ve dengesiz dağılımlarda puanlar merkezde toplanmayıp uçlarda veya farklı öbeklerde kümelendiği için grubun geneli hakkında <em>"orta düzey bir başarı vardır"</em> veya <em>"başarılıdır/başarısızdır"</em> şeklinde sağlıklı bir başarı yorumu <strong>yapılamaz</strong>. Bu nedenle B seçeneğindeki ifade kesinlikle söylenemez.<br><br><div class="live-box"><div class="live-title">🎬 Canlı Yayın Çözüm Şifresi:</strong> Hocamız canlı yayında (2:09:21): <em>"Çok modlu dağılımlar dengesizdir, heterojendir ve bu tip dağılımlarda sınıf başarısı hakkında genel bir başarı yorumu yapılamaz. B seçeneği söylenemez."</em> diyerek soruyu netleştirmiştir.<br><br><br><div class="source-box"><div class="source-title">📖 Kaynak:</strong> Ölçme ve Değerlendirme — Dağılım Ölçüleri ve Başarı Yorumlama İlkeleri<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q39">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 39 / 40</div>
+      </div>
+      
+      <div class="q-stem">Bir okul rehber öğretmeni, öğrencilerin okula devamlılık, sınav kaygısı ve rehberlik hizmeti kullanımı ile Matematik ve Türkçe dersleri başarıları arasındaki korelasyonları aşağıdaki gibi hesaplamıştır:<br><br><br><table style="width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;"><br>  <thead><br>    <tr style="background:#f1f5f9; border-bottom:2px solid #cbd5e1;"><br>      <th style="padding:6px; border:1px solid #cbd5e1; text-align:left;">Değişkenler</th><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Matematik</th><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Türkçe</th><br>    </tr><br>  </thead><br>  <tbody><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;">Okula devamlılık</td><td style="padding:5px; border:1px solid #e2e8f0;">+ 0,65</td><td style="padding:5px; border:1px solid #e2e8f0;">+ 0,71</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;">Sınav kaygısı</td><td style="padding:5px; border:1px solid #e2e8f0;">- 0,70</td><td style="padding:5px; border:1px solid #e2e8f0;">- 0,74</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; text-align:left; font-weight:bold;">Rehberlik hizmeti</td><td style="padding:5px; border:1px solid #e2e8f0;">+ 0,52</td><td style="padding:5px; border:1px solid #e2e8f0;">+ 0,56</td></tr><br>  </tbody><br></table><br><strong>Bu sonuçlara göre okul rehber öğretmeninin yapacağı;</strong><br><br>I. Matematik başarısının en güçlü ilişkisi okula devamlılık ile kurulmuştur.<br><br>II. En düşük ilişki Matematik başarısı ve rehberlik hizmeti arasında kurulmuştur.<br><br>III. Sınav kaygısı ile Türkçe başarısı arasındaki ilişki, sınav kaygısı ile matematik başarısı arasındaki ilişkiden daha güçlüdür.<br><br><br><strong>yorumlarından hangisi ya da hangileri doğrudur?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item"><span class="opt-key">A</span><span class="opt-text">Yalnız I</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">I ve II</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">I ve III</span></div><div class="opt-item opt-correct"><span class="opt-key">D</span><span class="opt-text">II ve III</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">I, II ve III</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>D</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: D</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Ölçme ve Değerlendirme Analizi (Korelasyon Katsayısı):</strong><br><br>Korelasyon katsayısında (r) ilişkinin GÜCÜ bakılırken <strong>işarete (+ veya -) değil, sayının MUTLAK DEĞERİNE</strong> bakılır! 1.00'e yakın olan en güçlüdür:<br><br>• Matematik için ilişkiler: Devamlılık (+0.65), Sınav Kaygısı (-0.70), Rehberlik (+0.52).<br><br>• <strong>I. Öncül (Yanlış):</strong> Matematik başarısının en güçlü ilişkisi devamlılık (+0.65) ile değil, mutlak değerce daha büyük olan <strong>Sınav Kaygısı (-0.70)</strong> iledir!<br><br>• <strong>II. Öncül (Doğru):</strong> Mutlak değerce 0'a en yakın olan +0.52 (Rehberlik) en düşük ilişkidir.<br><br>• <strong>III. Öncül (Doğru):</strong> Kaygı ile Türkçe başarısı (-0.74), Matematik başarısından (-0.70) mutlak değerce daha güçlüdür (|-0.74| > |-0.70|).<br><br>Bu sebeple II ve III doğrudur.<br><br><br>💡 <strong>Altın Kural:</strong> Korelasyonda ilişki gücü sorulduğunda eksi işareti ilişkinin zayıf olduğunu değil, TERS YÖNLÜ olduğunu gösterir!<br><br>---
+        </div>
+      </div>
+    </div>
+    
+    <div class="question-card" id="q40">
+      <div class="q-header">
+        <div class="q-badge" style="background:#059669;">🎯 ÖYT & Ölçme</div>
+        <div class="q-num">SORU 40 / 40</div>
+      </div>
+      
+      <div class="q-stem">Aşağıdaki tabloda bir sınıfa uygulanan 5 sınava ait soru sayısı ve bu sorulara doğru cevap veren öğrencilerin ortalamaları yer almaktadır.<br><br><br><table style="width:100%; border-collapse:collapse; margin:12px 0; text-align:center; font-size:14px;"><br>  <thead><br>    <tr style="background:#f1f5f9; border-bottom:2px solid #cbd5e1;"><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Ders</th><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Soru Sayısı</th><br>      <th style="padding:6px; border:1px solid #cbd5e1;">Ortalama</th><br>    </tr><br>  </thead><br>  <tbody><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Türkçe</td><td style="padding:5px; border:1px solid #e2e8f0;">50</td><td style="padding:5px; border:1px solid #e2e8f0;">25</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Matematik</td><td style="padding:5px; border:1px solid #e2e8f0;">40</td><td style="padding:5px; border:1px solid #e2e8f0;">12</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Tarih</td><td style="padding:5px; border:1px solid #e2e8f0;">60</td><td style="padding:5px; border:1px solid #e2e8f0;">45</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Coğrafya</td><td style="padding:5px; border:1px solid #e2e8f0;">20</td><td style="padding:5px; border:1px solid #e2e8f0;">8</td></tr><br>    <tr><td style="padding:5px; border:1px solid #e2e8f0; font-weight:bold;">Felsefe</td><td style="padding:5px; border:1px solid #e2e8f0;">30</td><td style="padding:5px; border:1px solid #e2e8f0;">18</td></tr><br>  </tbody><br></table><br><strong>Bu tabloya göre öğrencilerin en başarılı ve en başarısız olduğu dersler hangileridir?</strong></div>
+      
+      <div class="opts-list">
+        <div class="opt-item opt-correct"><span class="opt-key">A</span><span class="opt-text">Tarih / Matematik</span><span class="badge-correct">✓ DOĞRU SEÇENEK</span></div><div class="opt-item"><span class="opt-key">B</span><span class="opt-text">Tarih / Coğrafya</span></div><div class="opt-item"><span class="opt-key">C</span><span class="opt-text">Felsefe / Coğrafya</span></div><div class="opt-item"><span class="opt-key">D</span><span class="opt-text">Felsefe / Türkçe</span></div><div class="opt-item"><span class="opt-key">E</span><span class="opt-text">Türkçe / Matematik</span></div>
+      </div>
+      
+      <div class="solution-container">
+        <div class="solution-header">
+          <span class="sol-icon">💡</span>
+          <span>PEDAGOJİK ÇÖZÜM & CANLI DERS ANALİZİ</span>
+          <span class="sol-ans">Doğru Cevap: <strong>A</strong></span>
+        </div>
+        <div class="solution-body">
+          > <strong>Doğru Cevap: A</strong>  <br>> <br><br><div class="analysis-box"><div class="analysis-title">🎯 Ölçme ve Değerlendirme Analizi (Grup Başarısı Karşılaştırması):</strong><br><br>Farklı soru sayılarına sahip sınavlarda başarı karşılaştırılırken <code>Ortalama / Soru Sayısı</code> oranına bakılır:<br><br>• <strong>Türkçe:</strong> 25 / 50 = 0.50 (%50)<br><br>• <strong>Matematik:</strong> 12 / 40 = <strong>0.30 (%30) ➔ EN BAŞARISIZ!</strong><br><br>• <strong>Tarih:</strong> 45 / 60 = <strong>0.75 (%75) ➔ EN BAŞARILI!</strong><br><br>• <strong>Coğrafya:</strong> 8 / 20 = 0.40 (%40)<br><br>• <strong>Felsefe:</strong> 18 / 30 = 0.60 (%60)<br><br>En başarılı ders <strong>Tarih</strong>, en başarısız ders ise <strong>Matematik</strong>'tir.<br><br><br>💡 <strong>Tuzak:</strong> Sadece ortalamaya (12 vs 8) bakılmaz; soru sayısına oranlanarak yüzdelik başarı bulunur!<br><br>---<br><br>## 🔑 40 Soruluk Hızlı Cevap Anahtarı<br><br>| Soru | Cevap | Soru | Cevap | Soru | Cevap | Soru | Cevap |<br>| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |<br>| 1 | <strong>E</strong> | 11 | <strong>E</strong> | 21 | <strong>B</strong> | 31 | <strong>B</strong> |<br>| 2 | <strong>D</strong> | 12 | <strong>C</strong> | 22 | <strong>C</strong> | 32 | <strong>A</strong> |<br>| 3 | <strong>D</strong> | 13 | <strong>D</strong> | 23 | <strong>E</strong> | 33 | <strong>B</strong> |<br>| 4 | <strong>B</strong> | 14 | <strong>D</strong> | 24 | <strong>D</strong> | 34 | <strong>D</strong> |<br>| 5 | <strong>A</strong> | 15 | <strong>C</strong> | 25 | <strong>C</strong> | 35 | <strong>A</strong> |<br>| 6 | <strong>A</strong> | 16 | <strong>C</strong> | 26 | <strong>B</strong> | 36 | <strong>C</strong> |<br>| 7 | <strong>B</strong> | 17 | <strong>E</strong> | 27 | <strong>D</strong> | 37 | <strong>C</strong> |<br>| 8 | <strong>C</strong> | 18 | <strong>B</strong> | 28 | <strong>B</strong> | 38 | <strong>E</strong> |<br>| 9 | <strong>D</strong> | 19 | <strong>E</strong> | 29 | <strong>E</strong> | 39 | <strong>D</strong> |<br>| 10 | <strong>B</strong> | 20 | <strong>A</strong> | 30 | <strong>D</strong> | 40 | <strong>A</strong> |
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</body>
+</html>

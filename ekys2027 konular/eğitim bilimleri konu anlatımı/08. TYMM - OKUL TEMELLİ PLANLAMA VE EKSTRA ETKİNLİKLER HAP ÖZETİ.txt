@@ -157,3 +157,4 @@ veya algoritmik sıra" ifadesi geçiyorsa cevap doğrudan SÜREÇ BİLEŞENİ'di
 9.  Öğretmen Yansıtması: Öğretmenin kendi öğretimini çoklu paydaşlarla öz değerlendirmeye tabi tutmasıdır.
 10. Süreç Bileşeni: Becerinin altındaki sıralı işlem/eylem basamaklarıdır.
 ================================================================================
+

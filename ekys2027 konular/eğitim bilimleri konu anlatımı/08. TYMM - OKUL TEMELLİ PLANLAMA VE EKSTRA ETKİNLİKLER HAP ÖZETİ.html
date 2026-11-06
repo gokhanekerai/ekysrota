@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TYMM 10. Ders — Okul Temelli Planlama & Ekstra Etkinlikler Hap Özeti</title>
+  <style>
+    :root {
+      --primary: #4f46e5;
+      --primary-dark: #3730a3;
+      --emerald: #059669;
+      --emerald-bg: #ecfdf5;
+      --blue: #2563eb;
+      --blue-bg: #eff6ff;
+      --amber: #d97706;
+      --amber-bg: #fffbeb;
+      --purple: #7c3aed;
+      --purple-bg: #f5f3ff;
+      --rose: #e11d48;
+      --rose-bg: #fff1f2;
+      --slate-50: #f8fafc;
+      --slate-100: #f1f5f9;
+      --slate-200: #e2e8f0;
+      --slate-700: #334155;
+      --slate-800: #1e293b;
+      --slate-900: #0f172a;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: #f1f5f9;
+      color: var(--slate-800);
+      line-height: 1.6;
+      padding: 24px 16px 80px 16px;
+    }
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    /* Üst Banner */
+    .hero-banner {
+      background: linear-gradient(135deg, #1e1b4b 0%, #312e81 40%, #4338ca 100%);
+      color: white;
+      border-radius: 20px;
+      padding: 36px 32px;
+      box-shadow: 0 10px 25px -5px rgba(49, 46, 129, 0.4);
+      margin-bottom: 28px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-banner::after {
+      content: "";
+      position: absolute;
+      top: -40px;
+      right: -40px;
+      width: 220px;
+      height: 220px;
+      background: radial-gradient(circle, rgba(245, 158, 11, 0.25) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(245, 158, 11, 0.2);
+      border: 1px solid #f59e0b;
+      color: #fde68a;
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 6px 14px;
+      border-radius: 9999px;
+      margin-bottom: 14px;
+    }
+    .hero-title {
+      font-size: 28px;
+      font-weight: 800;
+      line-height: 1.25;
+      margin-bottom: 8px;
+      background: linear-gradient(to right, #ffffff, #e0e7ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .hero-subtitle {
+      font-size: 15px;
+      color: #c7d2fe;
+      margin-bottom: 20px;
+    }
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .btn-pill {
+      background: rgba(255, 255, 255, 0.12);
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      color: white;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 8px 16px;
+      border-radius: 12px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .btn-pill:hover {
+      background: rgba(255, 255, 255, 0.25);
+      transform: translateY(-2px);
+    }
+    .btn-print {
+      background: #f59e0b;
+      color: #0f172a;
+      border: none;
+      font-weight: 700;
+    }
+    .btn-print:hover {
+      background: #fbbf24;
+    }
+
+    /* Hızlı Navigasyon Bar */
+    .quick-nav {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 12px;
+      margin-bottom: 24px;
+    }
+    .quick-nav a {
+      white-space: nowrap;
+      background: white;
+      color: var(--slate-700);
+      font-size: 13px;
+      font-weight: 600;
+      padding: 8px 16px;
+      border-radius: 10px;
+      text-decoration: none;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      border: 1px solid var(--slate-200);
+      transition: all 0.15s ease;
+    }
+    .quick-nav a:hover {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+
+    /* Kart Yapıları */
+    .card {
+      background: white;
+      border-radius: 18px;
+      padding: 28px 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      border: 1px solid var(--slate-200);
+      position: relative;
+    }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 20px;
+      padding-bottom: 14px;
+      border-bottom: 2px solid var(--slate-100);
+    }
+    .icon-box {
+      width: 48px;
+      height: 48px;
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      flex-shrink: 0;
+    }
+    .card-title {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--slate-900);
+    }
+    .card-subtitle {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* Renk Temaları */
+    .card-emerald .icon-box { background: var(--emerald-bg); color: var(--emerald); }
+    .card-emerald .card-subtitle { color: var(--emerald); }
+    .card-emerald { border-top: 5px solid var(--emerald); }
+
+    .card-blue .icon-box { background: var(--blue-bg); color: var(--blue); }
+    .card-blue .card-subtitle { color: var(--blue); }
+    .card-blue { border-top: 5px solid var(--blue); }
+
+    .card-amber .icon-box { background: var(--amber-bg); color: var(--amber); }
+    .card-amber .card-subtitle { color: var(--amber); }
+    .card-amber { border-top: 5px solid var(--amber); }
+
+    .card-purple .icon-box { background: var(--purple-bg); color: var(--purple); }
+    .card-purple .card-subtitle { color: var(--purple); }
+    .card-purple { border-top: 5px solid var(--purple); }
+
+    /* İki Sütunlu Grid */
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+      margin: 16px 0;
+    }
+    .info-box {
+      background: var(--slate-50);
+      border: 1px solid var(--slate-200);
+      border-radius: 14px;
+      padding: 16px 18px;
+    }
+    .info-box-title {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--slate-900);
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* Vurgulu Alert Kutuları */
+    .alert-box {
+      border-radius: 14px;
+      padding: 18px 20px;
+      margin: 18px 0;
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+    }
+    .alert-rose {
+      background: var(--rose-bg);
+      border: 1px solid #fecdd3;
+      color: #9f1239;
+    }
+    .alert-amber {
+      background: var(--amber-bg);
+      border: 1px solid #fde68a;
+      color: #92400e;
+    }
+    .alert-blue {
+      background: var(--blue-bg);
+      border: 1px solid #bfdbfe;
+      color: #1e40af;
+    }
+    .alert-icon {
+      font-size: 22px;
+      flex-shrink: 0;
+      line-height: 1;
+    }
+    .alert-content strong {
+      display: block;
+      margin-bottom: 4px;
+      font-size: 15px;
+    }
+
+    /* Tablolar */
+    .table-wrapper {
+      overflow-x: auto;
+      margin: 16px 0;
+      border-radius: 12px;
+      border: 1px solid var(--slate-200);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+      text-align: left;
+    }
+    th {
+      background: var(--slate-100);
+      color: var(--slate-800);
+      font-weight: 700;
+      padding: 12px 16px;
+      border-bottom: 2px solid var(--slate-200);
+    }
+    td {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--slate-200);
+    }
+    tr:last-child td {
+      border-bottom: none;
+    }
+    tr:hover td {
+      background: var(--slate-50);
+    }
+
+    /* 10 Altın Kural Listesi */
+    .rules-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 14px;
+      margin-top: 16px;
+    }
+    .rule-card {
+      background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+      border: 1px solid var(--slate-200);
+      border-radius: 14px;
+      padding: 14px 16px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      transition: all 0.2s ease;
+    }
+    .rule-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+      border-color: var(--primary);
+    }
+    .rule-num {
+      width: 32px;
+      height: 32px;
+      border-radius: 10px;
+      background: var(--primary);
+      color: white;
+      font-size: 14px;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .rule-text {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--slate-800);
+    }
+    .rule-text span {
+      display: block;
+      color: var(--primary);
+      font-size: 11px;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    /* Print / Yazdırma Ayarları */
+    @media print {
+      body { background: white; padding: 0; }
+      .hero-banner { background: #1e1b4b !important; -webkit-print-color-adjust: exact; }
+      .btn-pill, .quick-nav { display: none !important; }
+      .card { box-shadow: none; border: 1px solid #ccc; page-break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- HERO BANNER -->
+    <header class="hero-banner">
+      <div class="hero-badge">🌟 EKYS 2027 Sınav Başucu Rehberi</div>
+      <h1 class="hero-title">TYMM 10. Ders — Tamamlayıcı Alanlar & Hap Özet</h1>
+      <p class="hero-subtitle">Okul Temelli Planlama • Program Dışı Etkinlikler • Sosyal Sorumluluk • Öğretmen Yansıtmaları</p>
+      
+      <div class="hero-actions">
+        <a href="#otp" class="btn-pill">🏫 Okul Temelli Planlama</a>
+        <a href="#pde" class="btn-pill">🎪 Program Dışı Etkinlikler</a>
+        <a href="#ssp" class="btn-pill">🤝 Sosyal Sorumluluk</a>
+        <a href="#yansitma" class="btn-pill">🪞 Öğretmen Yansıtmaları</a>
+        <a href="#altin-kurallar" class="btn-pill">🏆 10 Altın Kural</a>
+        <button onclick="window.print()" class="btn-pill btn-print">🖨️ Yazdır / PDF İndir</button>
+      </div>
+    </header>
+
+    <!-- HIZLI ERİŞİM BAR -->
+    <nav class="quick-nav">
+      <a href="#otp">1. Okul Temelli Planlama</a>
+      <a href="#pde">2. Program Dışı Etkinlikler</a>
+      <a href="#ssp">3. Sosyal Sorumluluk & Hayat Boyu</a>
+      <a href="#yansitma">4. Öğretmen Yansıtmaları</a>
+      <a href="#mimari">5. TYMM Mimarisi & Süreç Bileşeni</a>
+      <a href="#altin-kurallar">6. 10 Altın Kural</a>
+    </nav>
+
+    <!-- 1. BÖLÜM: OKUL TEMELLİ PLANLAMA -->
+    <section id="otp" class="card card-emerald">
+      <div class="card-header">
+        <div class="icon-box">🏫</div>
+        <div>
+          <div class="card-subtitle">Bölüm 1</div>
+          <h2 class="card-title">Okul Temelli Planlama (OTP)</h2>
+        </div>
+      </div>
+
+      <p>MEB tarafından çerçevesi çizilen öğretim programlarında <strong>esnek ve boş bırakılan alanların</strong>; okulun fiziki imkânları, çevre koşulları ve öğrencilerin gereksinimleri gözetilerek zümre tarafından doldurulmasıdır.</p>
+
+      <div class="grid-2">
+        <div class="info-box">
+          <div class="info-box-title">⚖️ Karar Merci & Zamanı</div>
+          <p><strong>Zümre Öğretmenler Kurulu</strong> tarafından kararlaştırılır. Spontane/anlık yapılamaz; eğitim öğretim yılı başında <strong>yıllık planlara</strong> ayrılan süre tablosunda açıkça işlenir.</p>
+        </div>
+        <div class="info-box">
+          <div class="info-box-title">🔄 Sistematik Döngü</div>
+          <p><strong>İhtiyaç Belirleme</strong> ➔ <strong>Faaliyet Yürütme</strong> ➔ <strong>Etkiyi Değerlendirme</strong> basamakları izlenir. Süreç mutlaka değerlendirmeyle sonuçlandırılır.</p>
+        </div>
+      </div>
+
+      <div class="alert-box alert-amber">
+        <div class="alert-icon">📌</div>
+        <div class="alert-content">
+          <strong>ÖSYM'nin En Çok Sorduğu 4 Temel Dayanak:</strong>
+          1. <strong>1739 Sayılı Millî Eğitim Temel Kanunu:</strong> Türk Millî Eğitiminin Genel Amaçları ve 14 Temel İlkesi.<br>
+          2. <strong>Öğretim Programlarının Genel Amaçları:</strong> İlgili dersin ana hedefleri.<br>
+          3. <strong>Öğrenme Çıktıları:</strong> Kazanılması beklenen bilgi, beceri ve değerler.<br>
+          4. <strong>Okul ve Öğrenci İhtiyaçları:</strong> Bölgesel, fiziki imkânlar ve hazırbulunuşluk.
+        </div>
+      </div>
+
+      <div class="alert-box alert-rose">
+        <div class="alert-icon">⚠️</div>
+        <div class="alert-content">
+          <strong>Sınav Çeldirici Tuzağı:</strong>
+          "Okul temelli planlamada öğretmen programın dışına çıkabilir veya plansız gezi yapabilir" ➔ <strong>KESİNLİKLE YANLIŞ!</strong> Programın dışına çıkılamaz; OTP öğretim programının tamamlayıcısı ve destekleyicisidir.
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. BÖLÜM: PROGRAM DIŞI ETKİNLİKLER -->
+    <section id="pde" class="card card-blue">
+      <div class="card-header">
+        <div class="icon-box">🎪</div>
+        <div>
+          <div class="card-subtitle">Bölüm 2</div>
+          <h2 class="card-title">Program Dışı Etkinlikler (PDE / Ekstra Program)</h2>
+        </div>
+      </div>
+
+      <p>Posner'ın program sınıflamasında yer alan <strong>"Ekstra Program"</strong> mantığına dayanır. Ders saatleri dışında okul gözetiminde yürütülen kulüp, sanat, spor ve kültür faaliyetlerini kapsar.</p>
+
+      <div class="alert-box alert-blue">
+        <div class="alert-icon">💡</div>
+        <div class="alert-content">
+          <strong>John Dewey ve Hayatilik Vurgusu:</strong>
+          <em>"Okul öğrenciyi hayata hazırlamaz; okul hayatın ta kendisidir."</em> PDE, okul ile gerçek hayat arasındaki duvarları kaldırarak öğrencinin bütüncül gelişimine hizmet eder.
+        </div>
+      </div>
+
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Gelişim Alanı</th>
+              <th>Öğrenciye Kazandırılan Beceriler</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Bireysel Gelişim</strong></td>
+              <td>Özgüven, bağımsız karar verme, sorumluluk bilinci ve zaman yönetimi.</td>
+            </tr>
+            <tr>
+              <td><strong>Sosyal-Duygusal Gelişim</strong></td>
+              <td>Empati, iş birliği, iletişim, ekip çalışması ve çatışma çözme.</td>
+            </tr>
+            <tr>
+              <td><strong>Entelektüel & Estetik Gelişim</strong></td>
+              <td>Sanatsal zevk-i selim, merak, derinlemesine sorgulama ve estetik bakış.</td>
+            </tr>
+            <tr>
+              <td><strong>Karar Verme & Ahlaki Olgunluk</strong></td>
+              <td>Etik ikilemlerde doğru seçim yapma, toplumsal kurallara içtenlikle uyma.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- 3. BÖLÜM: SOSYAL SORUMLULUK & HAYAT BOYU ÖĞRENME -->
+    <section id="ssp" class="card card-amber">
+      <div class="card-header">
+        <div class="icon-box">🤝</div>
+        <div>
+          <div class="card-subtitle">Bölüm 3</div>
+          <h2 class="card-title">Sosyal Sorumluluk Programı & Hayat Boyu Öğrenme</h2>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="info-box">
+          <div class="info-box-title">🌱 Sosyal Sorumluluk Programı (SSP)</div>
+          <p>Öğrencilerin toplumsal sorunlara (çevre, yaşlılık, dezavantajlı gruplar, hayvan hakları vb.) duyarlı, çözüm üreten aktif yurttaşlar olmasını sağlar.</p>
+          <p style="margin-top:8px; font-size:12px; color:#b45309;"><strong>Paradigma Değişimi:</strong> Cezalandırıcı disiplin yerine topluma hizmet odaklı yapıcı rehabilitasyon yaklaşımı esastır.</p>
+        </div>
+        <div class="info-box">
+          <div class="info-box-title">🌍 Hayat Boyu Öğrenme & Okul Dışı Ortamlar</div>
+          <p>Eğitim okul binasıyla sınırlı değildir. Müzeler, bilim merkezleri, tabiat parkları, sanat galerileri ve kütüphaneler dersin doğal uygulama alanıdır.</p>
+          <p style="margin-top:8px; font-size:12px; color:#b45309;"><strong>Öğrenmeyi Öğrenme:</strong> Öğrencinin yaşamı boyunca bağımsız öğrenebilme becerisi kazanması hedeflenir.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. BÖLÜM: ÖĞRETMEN YANSITMALARI -->
+    <section id="yansitma" class="card card-purple">
+      <div class="card-header">
+        <div class="icon-box">🪞</div>
+        <div>
+          <div class="card-subtitle">Bölüm 4</div>
+          <h2 class="card-title">Öğretmen Yansıtmaları (Refleksiyon & Öz Değerlendirme)</h2>
+        </div>
+      </div>
+
+      <p>Maarif Modeli'nde öğretmen sadece bilgi aktaran değil, <strong>kendi sürecini sürekli sorgulayan ve geliştiren bir öğrenendir</strong>. Öğretmenin uyguladığı programı eleştirel gözle gözden geçirmesidir.</p>
+
+      <div class="grid-2">
+        <div class="info-box">
+          <div class="info-box-title">🎯 Yansıtmanın Kilit Soruları</div>
+          <ul style="padding-left:18px; font-size:13px;">
+            <li>Planlanan öğrenme çıktılarına ne ölçüde ulaşıldı?</li>
+            <li>Öğrenciler nerede tıkandı, hangi yöntem yetersiz kaldı?</li>
+            <li>Farklılaştırılmış öğretim (zenginleştirme / destekleme) işe yaradı mı?</li>
+            <li>Bir sonraki derste neleri revize etmeliyim?</li>
+          </ul>
+        </div>
+        <div class="info-box">
+          <div class="info-box-title">👥 Çoklu Paydaş Katılımı</div>
+          <p>Yansıtma sadece öğretmenin tek taraflı hissi değildir. <strong>Öğrenci ürünleri</strong>, <strong>zümre arkadaşlarıyla ders izleme notları</strong> ve <strong>veli geri bildirimleri</strong> yansıtma sürecine dahil edilir.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. BÖLÜM: TYMM MİMARİSİ VE SÜREÇ BİLEŞENİ -->
+    <section id="mimari" class="card" style="border-top: 5px solid #0d9488;">
+      <div class="card-header">
+        <div class="icon-box" style="background:#f0fdfa; color:#0d9488;">📐</div>
+        <div>
+          <div class="card-subtitle" style="color:#0d9488;">Bölüm 5</div>
+          <h2 class="card-title">TYMM Program Mimarisi & "Süreç Bileşeni" Şifresi</h2>
+        </div>
+      </div>
+
+      <div style="background:#f8fafc; border:1px solid #e2e8f0; border-radius:12px; padding:18px; margin-bottom:16px; font-family:monospace; font-size:13px; line-height:1.7;">
+        [Kavramsal / Alan Becerisi] (Örn: Karşılaştırma, Problem Çözme)<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>
+        <strong>[SÜREÇ BİLEŞENLERİ]</strong> ➔ <em>Beceriyi oluşturan sıralı işlem adımları / eylem basamakları</em><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>
+        [Öğrenme Çıktısı] ➔ <em>Süreç bileşenlerinin konu ve değerle birleşmiş somut hedefleri</em>
+      </div>
+
+      <div class="alert-box alert-amber">
+        <div class="alert-icon">💡</div>
+        <div class="alert-content">
+          <strong>ÖSYM Soru Şifresi:</strong> Soru metninde <em>"bir beceriyi hayata geçirirken izlenen işlem basamakları, eylem adımları veya algoritmik sıra"</em> soruluyorsa cevap doğrudan <strong>Süreç Bileşeni</strong>dir.
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. BÖLÜM: 10 ALTIN KURAL -->
+    <section id="altin-kurallar" class="card" style="border-top: 5px solid #f59e0b;">
+      <div class="card-header">
+        <div class="icon-box" style="background:#fef3c7; color:#d97706;">🏆</div>
+        <div>
+          <div class="card-subtitle" style="color:#d97706;">Bölüm 6</div>
+          <h2 class="card-title">Sınav İçin 10 Altın Kural (Hap Kodlar)</h2>
+        </div>
+      </div>
+
+      <div class="rules-grid">
+        <div class="rule-card">
+          <div class="rule-num">1</div>
+          <div class="rule-text"><span>Karar Merci</span>Zümre Öğretmenler Kurulu</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num">2</div>
+          <div class="rule-text"><span>Yasal Dayanak</span>1739 Sayılı MEB Temel Kanunu</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num">3</div>
+          <div class="rule-text"><span>Planlama</span>Yıllık plana önceden işlenir</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num">4</div>
+          <div class="rule-text"><span>Esneklik</span>Programı yerele ve öğrenciye uyarlama</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num">5</div>
+          <div class="rule-text"><span>PDE Niteliği</span>Posner'ın Ekstra Programıdır</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num">6</div>
+          <div class="rule-num" style="background:#2563eb;">6</div>
+          <div class="rule-text"><span>Felsefi İlke</span>Dewey: "Okul hayatın kendisidir"</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num" style="background:#d97706;">7</div>
+          <div class="rule-text"><span>Sosyal Sorumluluk</span>Yaparak-yaşayarak değer kazandırma</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num" style="background:#d97706;">8</div>
+          <div class="rule-text"><span>Hayat Boyu</span>Okul dışı ortamlar & öğrenmeyi öğrenme</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num" style="background:#7c3aed;">9</div>
+          <div class="rule-text"><span>Yansıtma</span>Çoklu paydaşla öğretimsel öz değerlendirme</div>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num" style="background:#0d9488;">10</div>
+          <div class="rule-text"><span>Süreç Bileşeni</span>Becerinin altındaki sıralı işlem adımları</div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+</body>
+</html>
