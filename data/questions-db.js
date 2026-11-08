@@ -71965,7 +71965,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "Bir okul yöneticisi, öğrencilere ait özel bilgilerin izinsiz paylaşılmasını engeller. Etkinliklere katılım kararlarında her öğrencinin eşit haklara sahip olduğunu gözetir.\n\n<b>Bu davranışlar, yetkin ve erdemli insanın hangi özelliğiyle ilişkilidir?</b>",
+    "questionText": "Bir okul yöneticisi, öğrencilere ait özel bilgilerin ve ailevi durumların izinsiz paylaşılmasını kesinlikle engellemektedir. Etkinliklere katılım kararlarında öğrenci beyanlarına güvenmekte, okul mülkiyetindeki eşyaların korunmasını emanet bilinciyle yürütmektedir. Bu okul yöneticisinin davranışları Türkiye Yüzyılı Maarif Modeli’nde yer alan hangi insan profilini en belirgin biçimde yansıtmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -71991,7 +71991,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Ahlaklı)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nTürkiye Yüzyılı Maarif Modeli'nin <i>Yetkin ve Erdemli İnsan</i> profilinde <b>Ahlaklı İnsan</b>; adil olma, başkalarının haklarına ve mahremiyetine saygı duyma, dürüstlük ve güvenilirlik ilkelerini kapsar. Senaryoda okul yöneticisinin öğrencilere ait kişisel verilerin gizliliğini koruması (mahremiyete saygı) ve etkinlik katılımında fırsat eşitliği gözetmesi (adalet), doğrudan ahlaklı insan profilinin temel göstergeleridir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A) Bilge:</strong> Bilgiye ulaşma, bilgiyi paylaşma, özgür ve bağımsız düşünme ile belagat (dili etkili kullanma) becerilerini kapsar; yönetimsel adalet ve mahremiyetle ilgili değildir.<br>\n• <strong>C) Estetik:</strong> Güzelliğe duyarlılık, zarafet, ölçülülük ve seçici olma gibi sanatsal/davranışsal incelikleri ifade eder.<br>\n• <strong>D) Üretken:</strong> Çalışkanlık, azim, sabır, yaratıcılık ve mesleki üretimi temsil eder.<br>\n• <strong>E) Sağlıklı:</strong> Beden sağlığı, temizlik, düzenli spor ve manevi huzurun korunmasını hedefler.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nÖSYM sorularında <i>\"fırsat eşitliği, adalet, kişisel verilerin korunması ve mahremiyet\"</i> ifadeleri doğrudan <b>Ahlaklı İnsan</b> profilinin belirleyici anahtar kelimeleridir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Yetkin ve Erdemli İnsan (Ontolojik, Epistemolojik, Zamansal ve Aksiyolojik Bütünlük) (Kitap Sayfa: 5–10 / PDF Sayfa: 6–11)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Ahlaklı İnsan)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Ahlaklı İnsan</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Bilge İnsan:</strong> İlim peşinde koşan, derinleşen, tefekkür eden ve bilgiyi paylaşan insan profilidir.<br>\n• <strong>B) Ahlaklı İnsan (DOĞRU ✔️):</strong> Mahremiyete saygı duyma, dürüstlük, güvenilirlik, emanete riayet etme, adaletli davranma ve hak yememe erdemlerini karakter haline getiren profil <strong>Ahlaklı İnsan</strong>dır. Sorudaki gizlilik/mahremiyet, güven ve emanet bilinci doğrudan bu profile aittir.<br>\n• <strong>C) Estetik İnsan:</strong> Zarafet, sanat sevgisi, güzel konuşma ve çevreye estetik değer katmadır.<br>\n• <strong>D) Üretken İnsan:</strong> Katma değer üreten, çalışan, problem çözen insandır.<br>\n• <strong>E) Sağlıklı İnsan:</strong> Beden ve ruh sağlığını, dengeli beslenmeyi ve sporu önceleyen insandır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Mahremiyet + Güvenilirlik + Emanet bilinci + Dürüstlük\" ➔ <strong>Ahlaklı İnsan</strong> profilidir.",
+    "question": "Bir okul yöneticisi, öğrencilere ait özel bilgilerin ve ailevi durumların izinsiz paylaşılmasını kesinlikle engellemektedir. Etkinliklere katılım kararlarında öğrenci beyanlarına güvenmekte, okul mülkiyetindeki eşyaların korunmasını emanet bilinciyle yürütmektedir. Bu okul yöneticisinin davranışları Türkiye Yüzyılı Maarif Modeli’nde yer alan hangi insan profilini en belirgin biçimde yansıtmaktadır?"
   },
   {
     "id": "egitim_tymm1-q2",
@@ -72002,7 +72003,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Bir öğretmen, bir konuyu anlatırken sözcüklerini özenle seçmekte, söz sanatlarından yararlanmakta ve anlatımını dinleyicilerin anlayabileceği biçimde düzenlemektedir.\n\n<b>Bu öğretmenin sergilediği alt özellik aşağıdakilerden hangisidir?</b>",
+    "questionText": "Bir öğretmen, sınıfta bir konuyu anlatırken sözcüklerini özenle seçmekte, Türkçenin zengin söz varlığından ve edebi sanatlarından yararlanmakta; hitabetinde ahenk, zarafet ve ikna ediciliği esas almaktadır. Bu öğretmenin sergilediği davranış modeli “Estetik İnsan” profilinin hangi alt özelliğiyle açıklanır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72028,7 +72029,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Belagat sahibi olma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Belagat sahibi olma</b>, Maarif Modeli'nde <i>Bilge İnsan</i> profilinin temel bir alt özelliğidir. Dilin inceliklerine hâkim olma, söz sanatlarından yararlanma, etkili hitabet ve dinleyicinin düzeyine uygun anlatım düzenleme yeteneğini ifade eder. Öğretmenin sözcüklerini titizlikle seçip iletişimi dinleyiciye göre uyarlaması doğrudan belagattir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A) Seçici olma:</strong> <i>Estetik İnsan</i> profilinde yer alır; kararlarında ve tercihlerinde nitelikli olanı ayırt etmeyi anlatır.<br>\n• <strong>B) İlkeli olma:</strong> <i>İradeli İnsan</i> başlığındadır; eylemlerinde evrensel ahlaki kuralları ve değerleri tavizsiz rehber edinmeyi ifade eder.<br>\n• <strong>C) Risk alma:</strong> <i>Cesaretli İnsan</i> başlığındadır; yeni deneyimlerdeki belirsizlikleri göze alabilmeyi kapsar.<br>\n• <strong>E) Azimli ve sabırlı olma:</strong> <i>Üretken İnsan</i> başlığındadır; karşılaşılan zorluklara rağmen hedeften vazgeçmemeyi temsil eder.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nTürkçe ile ilgili iki kritik model ayrımı vardır: <i>\"Türkçeye sahip çıkma\"</i> → <b>Vatansever</b> profilindedir; <i>\"Söz sanatları, dilin incelikleri ve hitabet (belagat)\"</i> → <b>Bilge</b> insan profilindedir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Belagat Sahibi Olma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Estetik İnsan: Belagat Sahibi Olma Alt Boyutu</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Seçici Olma:</strong> Sanat ve estetik ürünler arasından nitelikli olanı ayırt etmektir.<br>\n• <strong>B) İlkeli Olma:</strong> Ahlaki prensiplerden taviz vermemektir.<br>\n• <strong>C) Risk Alma:</strong> Yeni durumlarda cesaret göstermektir.<br>\n• <strong>D) Belagat Sahibi Olma (DOĞRU ✔️):</strong> Dili yerinde, güzel, etkili, zarif, ahenkli ve ikna edici biçimde kullanabilme sanatıdır. Söz sanatlarından yararlanma ve güzel hitabet doğrudan <strong>Belagat</strong>tir.<br>\n• <strong>E) Azimli ve Sabırlı Olma:</strong> Benlik eğilimidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Güzel, zarif ve etkili konuşma / hitabet sanatı / Türkçeyi incelikle kullanma\" ➔ <strong>Belagat Sahibi Olma</strong>dır.",
+    "question": "Bir öğretmen, sınıfta bir konuyu anlatırken sözcüklerini özenle seçmekte, Türkçenin zengin söz varlığından ve edebi sanatlarından yararlanmakta; hitabetinde ahenk, zarafet ve ikna ediciliği esas almaktadır. Bu öğretmenin sergilediği davranış modeli “Estetik İnsan” profilinin hangi alt özelliğiyle açıklanır?"
   },
   {
     "id": "egitim_tymm1-q3",
@@ -72039,7 +72041,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "Bir öğretmen, görevini aksatan öğrencisiyle görüşür. Öğrenci hatasını kabul eder ve telafi etmek için bir plan sunar. Öğretmen, öğrencinin hatasını affederek ona yeniden deneme fırsatı verir.\n\n<b>Bu tutum, “merhametli” insanın hangi alt özelliğini göstermektedir?</b>",
+    "questionText": "Bir öğretmen, üstlendiği grup görevini aksatan öğrencisiyle özel olarak görüşür. Öğrenci yaptığı hatanın farkına varır, telafi etmek için yeni bir plan sunar ve öğretmenine mahcubiyetini belirtir. Öğretmen de öğrencisinin samimi pişmanlığını görerek ona yeni bir fırsat tanır ve onu kınamaz. Öğretmenin bu tutumu “Merhametli İnsan” profilinin hangi alt özelliğini yansıtır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72065,7 +72067,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Affedici olma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nMaarif Modeli'nde <i>Merhametli İnsan</i> ana başlığı altında yer alan <b>Affedici olma</b>; yapılan hataları hoşgörüyle karşılama, kin gütmeme ve bireye davranışını telafi etmesi için ikinci bir fırsat tanıma erdemidir. Öğretmenin öğrencisinin özrünü kabul edip planını uygulaması için yeni şans vermesi bu özelliği örneklendirir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A) Paylaşımcı olma:</strong> Sahip olunan bilgi, zaman ve maddi kaynakları başkalarının yararına sunmaktır.<br>\n• <strong>B) Sevecen olma:</strong> İnsanlarla ilişkilerinde sevgi, saygı, samimiyet ve içtenlik temelli bağlar kurmaktır.<br>\n• <strong>C) Yardımsever olma:</strong> İhtiyaç sahibi kişilerin somut yardımına koşmaktır.<br>\n• <strong>E) Şefkatli olma:</strong> Canlıların ve insanların acılarına, zayıflıklarına derin bir iç duyarlılıkla yaklaşmaktır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nÖSYM, Merhametli İnsan başlığındaki alt bileşenleri birbiriyle çeldirir: Hata sonrası <i>\"ikinci şans tanıma ve bağışlama\"</i> kesinlikle <b>Affedici olma</b> göstergesidir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.4.2. Erdem-Değer-Eylem Çerçevesi (Çatı Değerler: Saygı, Sorumluluk, Adalet) (Kitap Sayfa: 36–41 / PDF Sayfa: 37–42)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Affedici Olma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Merhametli İnsan: Affedici Olma</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Paylaşımcı Olma:</strong> Maddi/manevi varlıklarını başkalarıyla bölüşmektir.<br>\n• <strong>B) Sevecen Olma:</strong> İnsanlara ve çevreye sıcak, güler yüzlü yaklaşmaktır.<br>\n• <strong>C) Yardımsever Olma:</strong> İhtiyaç sahiplerinin yardımına koşmaktır.<br>\n• <strong>D) Affedici Olma (DOĞRU ✔️):</strong> Karşı tarafın hatasını kabul ettiği durumlarda kin gütmemek, bağışlamak, intikam veya cezalandırma yoluna gitmeyip ikinci bir şans tanımaktır.<br>\n• <strong>E) Şefkatli Olma:</strong> Zayıfı koruma ve kollama duygusudur.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Hatasını anlayan kişiyi bağışlamak, yeni fırsat tanımak ve kınamamak\" ➔ <strong>Affedici Olma</strong> erdemidir.",
+    "question": "Bir öğretmen, üstlendiği grup görevini aksatan öğrencisiyle özel olarak görüşür. Öğrenci yaptığı hatanın farkına varır, telafi etmek için yeni bir plan sunar ve öğretmenine mahcubiyetini belirtir. Öğretmen de öğrencisinin samimi pişmanlığını görerek ona yeni bir fırsat tanır ve onu kınamaz. Öğretmenin bu tutumu “Merhametli İnsan” profilinin hangi alt özelliğini yansıtır?"
   },
   {
     "id": "egitim_tymm1-q4",
@@ -72076,7 +72079,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Bir öğrenci, su tüketimiyle ilgili iki farklı iddiayı değerlendirirken her iddianın dayandığı verileri inceler ve farklı başvuru kaynaklarındaki açıklamaları karşılaştırır.\n\n<b>Bu davranış, “sorgulayıcı” insanın hangi alt özelliğini göstermektedir?</b>",
+    "questionText": "Bir öğrenci, okulda düzenlenen münazarada su tüketimiyle ilgili öne sürülen iki farklı iddiayı incelerken her iddianın dayandığı verileri, araştırmaların yöntemini ve sunulan delillerin güvenilirliğini tarafsızca sorgulamıştır. Bu öğrenci “Sorgulayıcı İnsan” profilinin hangi alt özelliğini sergilemektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72102,7 +72105,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Eleştirel düşünme)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Sorgulayıcı İnsan</i> profilinde yer alan <b>Eleştirel düşünme</b>; iddiaları körü körüne kabul etmeyip verileri, kanıtları inceleme, farklı kaynaklardaki görüşleri karşılaştırma ve mantıksal süzgeçten geçirme sürecidir. Öğrencinin su tüketimine dair iki iddiayı veri ve kaynak analiziyle sınaması tam olarak eleştirel düşünmedir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>B) Meraklı olma:</strong> Bilgiye, çevreye ve yeni konulara karşı sadece öğrenme arzusu ve keşfetme isteği duymaktır.<br>\n• <strong>C) Esnek olma:</strong> Değişen şartlara planlarını uyarlayabilme ve alternatif fikirlere açık olma durumudur.<br>\n• <strong>D) İş birliği yapma:</strong> Ortak bir hedef için ekip üyeleriyle uyum içinde çalışıp katkı sunmaktır.<br>\n• <strong>E) Problem çözme:</strong> Belirlenen somut bir soruna uygulanabilir çözüm adımları ve stratejileri geliştirmektir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nSoru kökünde <i>\"verileri inceleme, kaynakları karşılaştırma, dayanakları sorgulama\"</i> varsa cevap her zaman <b>Eleştirel Düşünme</b>dir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Eleştirel Düşünme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Sorgulayıcı İnsan: Eleştirel Düşünme</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Eleştirel Düşünme (DOĞRU ✔️):</strong> İddiaların dayandığı bilimsel kanıtları, delil kalitesini, önyargıları ve mantıksal tutarlılığı sorgulayarak yargıya varmaktır.<br>\n• <strong>B) Meraklı Olma:</strong> Bilgiye ulaşma arzusudur.<br>\n• <strong>C) Esnek Olma:</strong> Şartlar değişince alternatiflere uyum sağlamaktır.<br>\n• <strong>D) İş Birliği Yapma:</strong> Başkalarıyla ortak çalışmadır.<br>\n• <strong>E) Problem Çözme:</strong> Somut bir zorluğu gidermektir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"İddiaları karşılaştırma, kanıt arama, tarafsız sorgulama\" ➔ <strong>Eleştirel Düşünme</strong>dir.",
+    "question": "Bir öğrenci, okulda düzenlenen münazarada su tüketimiyle ilgili öne sürülen iki farklı iddiayı incelerken her iddianın dayandığı verileri, araştırmaların yöntemini ve sunulan delillerin güvenilirliğini tarafsızca sorgulamıştır. Bu öğrenci “Sorgulayıcı İnsan” profilinin hangi alt özelliğini sergilemektedir?"
   },
   {
     "id": "egitim_tymm1-q5",
@@ -72113,7 +72117,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Bir çalışan, mesleğinde yeni bir uygulama geliştirildiğini öğrenince eğitimlere katılır. Meslek yaşamı boyunca yeni öğrenme fırsatları aramayı sürdürür.\n\n<b>Bu davranış, “üretken” insanın hangi alt özelliğine örnektir?</b>",
+    "questionText": "Bir meslek mensubu, alanında yeni bir yöntem geliştirildiğini öğrenince derhal hizmet içi eğitimlere katılır; meslek yaşamı boyunca kendini yenilemeyi ve yeni uzmanlık alanları kazanmayı ilke edinir. Bu davranış “Bilge İnsan” profilinin hangi alt özelliğidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72139,7 +72143,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Öğrenmeye istekli olma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Üretken İnsan</i> profilinin <b>Öğrenmeye istekli olma</b> alt özelliği; yaşam boyu öğrenme bilinciyle yeni bilgi, yöntem ve mesleki gelişmeleri sürekli takip etmeyi, kendini geliştirmek için gönüllü eğitimlere katılmayı anlatır.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A) Azimli ve sabırlı olma:</strong> Güçlüklerle karşılaşıldığında vazgeçmeden hedefe doğru kararlılıkla çalışmayı sürdürmektir.<br>\n• <strong>B) Yaratıcı olma:</strong> Alışılmışın dışında özgün fikirler, yenilikçi tasarımlar ve ürünler ortaya koymaktır.<br>\n• <strong>C) Hayal ve hedefleri olma:</strong> Geleceğe dair somut vizyon kurma ve bu vizyona dönük uzun vadeli planlar yapmaktır.<br>\n• <strong>D) İletişime ve dayanışmaya açık olma:</strong> Meslektaşlarıyla bilgi alışverişi yapma ve ekip dayanışmasına girmektir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Eğitimlere katılma, yaşam boyu yeni öğrenme fırsatları kovalama\"</i> vurgusu Üretken İnsan altındaki <b>Öğrenmeye istekli olma</b> özelliğinin doğrudan sınav tanımıdır.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Öğrenmeye İstekli Olma / Hayat Boyu Öğrenme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Bilge İnsan: Öğrenmeye İstekli Olma</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Azimli ve Sabırlı Olma:</strong> Karşılaşılan engellere direnmektir.<br>\n• <strong>B) Yaratıcı Olma:</strong> Özgün fikir üretmektir.<br>\n• <strong>C) Hayal ve Hedefleri Olma:</strong> Geleceğe vizyon koymaktır.<br>\n• <strong>D) Dayanışmaya Açık Olma:</strong> Sosyal yardımlaşmadır.<br>\n• <strong>E) Öğrenmeye İstekli Olma (DOĞRU ✔️):</strong> Yaşı ve konumu ne olursa olsun bilgiye aç olmak, mesleki ve kişisel gelişim eğitimlerini hayat boyu sürdürmektir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Sürekli kendini yenileme, yeni eğitimlere katılma, bilgi arayışını kesmeme\" ➔ <strong>Öğrenmeye İstekli Olma</strong>dır.",
+    "question": "Bir meslek mensubu, alanında yeni bir yöntem geliştirildiğini öğrenince derhal hizmet içi eğitimlere katılır; meslek yaşamı boyunca kendini yenilemeyi ve yeni uzmanlık alanları kazanmayı ilke edinir. Bu davranış “Bilge İnsan” profilinin hangi alt özelliğidir?"
   },
   {
     "id": "egitim_tymm1-q6",
@@ -72150,7 +72155,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "<b>“Vatansever” insanın alt özellikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde “Vatansever İnsan” profilinin alt özellikleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72176,7 +72181,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Vatandaşlık hak ve sorumluluklarını bilme, haklarını sorumlu biçimde kullanmayı da içerir.)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Vatansever İnsan</i> profilinde vatandaşlık bilinci, yalnızca anayasal hakların talep edilmesini değil, bu hakların toplumsal huzur ve düzene katkı sağlayacak bir sorumluluk ahlakıyla icra edilmesini kapsar.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A şıkkı yanlıştır:</strong> Türkçeye sahip çıkma sanatsal yetenek değil, ulusal kimliğin ve kültürün korunmasıyla ilgilidir.<br>\n• <strong>B şıkkı yanlıştır:</strong> Gelişmiş devlet bilinci beslenme alışkanlığı değil; devletin millet için taşıdığı varoluşsal anlamı idrak etmektir.<br>\n• <strong>D şıkkı yanlıştır:</strong> Bayrağını sevme risk alma değil; bayrağa ve millî sembollere saygı duymaktır.<br>\n• <strong>E şıkkı yanlıştır:</strong> Millî kültüre bağlılık veri karşılaştırma değil; kültürel mirası yaşatma ve gelecek nesillere aktarmadır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nÖSYM bu soru tipinde kavramların tanımlarını birbirine karıştırarak çapraz çeldirici üretir. Her alt kavramın kendi tanımıyla eşleştiğinden emin olunuz.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Vatandaşlık hak ve sorumluluklarını bilme, haklarını sorumlu biçimde kullanmayı da içerir.)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Vatansever İnsan Profili</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Yanlış):</strong> Türkçeye sahip çıkma, sanatsal yeteneğin değil; millî kimlik ve kültürün gereğidir.<br>\n• <strong>B Şıkkı (Yanlış):</strong> Devlet bilinci beslenme alışkanlığı ile değil, kurumsal sadakat ve kamu düzeniyle ilgilidir.<br>\n• <strong>C Şıkkı (DOĞRU ✔️):</strong> Modelde vatanseverlik kuru bir slogandan ibaret değildir; anayasal hak ve sorumlulukların bilincinde olmak, kamu malını korumak ve yurttaşlık görevlerini yerine getirmektir.<br>\n• <strong>D Şıkkı (Yanlış):</strong> Bayrak sevgisi risk almayla tanımlanamaz.<br>\n• <strong>E Şıkkı (Yanlış):</strong> Millî kültüre bağlılık eleştirel düşünmenin değil, tarihsel ve manevi aidiyetin ifadesidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nVatanseverlik ➔ <strong>Hak, sorumluluk, millî kültür, Türkçe sevgisi ve toplumu imar etme bilincidir</strong>.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde “Vatansever İnsan” profilinin alt özellikleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?"
   },
   {
     "id": "egitim_tymm1-q7",
@@ -72187,7 +72193,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "<b>Aşağıdaki davranışlardan hangisi “ahlaklı” insanın güvenilir olma alt özelliğini en belirgin biçimde örneklendirir?</b>",
+    "questionText": "Aşağıdaki davranışlardan hangisi “Ahlaklı İnsan” profilinin “güvenilir olma” alt özelliğini en belirgin biçimde örneklendirir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72213,7 +72219,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Üstlendiği çalışmayı söz verdiği tarihte teslim etmesi)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Ahlaklı İnsan</i> profilinde <b>Güvenilirlik</b>; kişinin özü ile sözünün bir olması, taahhütlerine sadakat göstermesi ve verilen sözleri zamanında eksiksiz yerine getirmesiyle ölçülür. Çalışmanın söz verilen tarihte teslim edilmesi güvenilirliğin en somut kanıtıdır.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>B) Sanat eserinin değerini takdir etme:</strong> <i>Bilge</i> ve <i>Estetik</i> insanın estetik duyarlılığıyla ilgilidir.<br>\n• <strong>C) Bilgi kaynaklarıyla karşılaştırma:</strong> <i>Sorgulayıcı</i> insanın eleştirel düşünme özelliğidir.<br>\n• <strong>D) Yeni etkinliği başlatmak için ilk adımı atma:</strong> <i>Cesaretli</i> insanın girişimcilik/inisiyatif alma özelliğidir.<br>\n• <strong>E) Kültürel mirası tanıtma:</strong> <i>Vatansever</i> insanın millî kültüre bağlılık boyutudur.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nAhlaklı insan çatısı altında <i>\"Sözünde durma, emaneti koruma ve taahhütlere uyma\"</i> daima <b>Güvenilir olma</b> göstergesidir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Üstlendiği çalışmayı söz verdiği tarihte ve eksiksiz teslim etmesi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Ahlaklı İnsan: Güvenilir Olma</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (DOĞRU ✔️):</strong> Ahde vefa göstermek, sözünde durmak ve üstlendiği taahhüdü zamanında yerine getirmek <strong>güvenilir olmanın</strong> en temel pratik göstergesidir.<br>\n• <strong>B Şıkkı (Estetik):</strong> Sanat eserini takdir etmek estetik insandır.<br>\n• <strong>C Şıkkı (Sorgulayıcı):</strong> Kararı kaynaklarla karşılaştırmak sorgulayıcı insandır.<br>\n• <strong>D Şıkkı (Girişimci/Üretken):</strong> İlk adımı atmak girişimciliktir.<br>\n• <strong>E Şıkkı (Vatansever/Bilge):</strong> Kültürel mirası tanıtmak kültürel boyuttur.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Sözünde durma, emaneti koruma, taahhüdünü yerine getirme\" ➔ <strong>Güvenilirlik</strong> erdemidir.",
+    "question": "Aşağıdaki davranışlardan hangisi “Ahlaklı İnsan” profilinin “güvenilir olma” alt özelliğini en belirgin biçimde örneklendirir?"
   },
   {
     "id": "egitim_tymm1-q8",
@@ -72224,7 +72231,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bir öğrenci, öğrenmek istediği bir konu için bilgiye ulaşma yolları arar. Edindiği bilgileri ve deneyimlerini daha sonra arkadaşlarına aktarır.\n\n<b>Bu iki davranış, “bilge” insanın sırasıyla hangi alt özellikleriyle ilişkilidir?</b>",
+    "questionText": "Bir öğrenci, öğrenmek istediği bir konu için kütüphaneleri ve güvenilir veri tabanlarını tarayarak bilgiye ulaşma yolları arar. Edindiği bilgi ve deneyimlerini ise okul bülteninde ve akran eğitiminde arkadaşlarıyla paylaşır. Bu öğrenci “Bilge İnsan” profilinin hangi iki alt özelliğini bir arada sergilemektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72250,7 +72257,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (İlime ulaşma — Bilgilerini paylaşma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Bilge İnsan</i> profilinde iki ardışık basamak vurgulanmıştır: Birinci basamak olan bilgiye ulaşma yolları arama <b>İlime ulaşma</b>dır. İkinci basamak olan kazanılan bilgi ve tecrübeleri başkalarına aktarma ise <b>Bilgilerini paylaşma</b> özelliğidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A şıkkı:</strong> Doğru kavramları içermesine rağmen senaryodaki kronolojik sırayı ters vermiştir.<br>\n• <strong>B, C, D şıkları:</strong> Belagat (dil ustalığı), estetik duyarlılık ve bağımsız düşünme kavramları senaryoda gerçekleşen eylemleri karşılamaz.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nSoru kökünde <i>\"sırasıyla\"</i> ifadesi yer aldığında, kavramlar doğru olsa bile diziliş yönüne (A şıkkındaki sıralama tuzağına) çok dikkat edilmelidir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (İlime ulaşma — Bilgilerini paylaşma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Bilge İnsan Profili Alt Bileşenleri</em>.<br><br>\n🔍 <strong>İki Davranışın Eşleştirmesi:</strong><br>\n1. <strong>Kütüphane ve veri tabanlarında bilgi aramak:</strong> İlim öğrenme, hakikati arama ve araştırmadır ➔ <strong>İlime Ulaşma</strong>.<br>\n2. <strong>Edindiği bilgiyi bültende ve akranlarıyla aktarmak:</strong> Bilgiyi tekelinde tutmayıp yaymak ➔ <strong>Bilgilerini Paylaşma</strong>.<br><br>\n• <strong>Seçenekler:</strong> Bu iki eylemi eksiksiz ve sırasıyla veren seçenek <strong>E</strong>'dir (İlime ulaşma — Bilgilerini paylaşma).<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nBilge insan sadece bilgi toplayan bir arşivci değildir; <strong>öğrenir (ilime ulaşır) ve öğretir (bilgiyi paylaşır)</strong>.",
+    "question": "Bir öğrenci, öğrenmek istediği bir konu için kütüphaneleri ve güvenilir veri tabanlarını tarayarak bilgiye ulaşma yolları arar. Edindiği bilgi ve deneyimlerini ise okul bülteninde ve akran eğitiminde arkadaşlarıyla paylaşır. Bu öğrenci “Bilge İnsan” profilinin hangi iki alt özelliğini bir arada sergilemektedir?"
   },
   {
     "id": "egitim_tymm1-q9",
@@ -72261,7 +72269,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "<b>“Sağlıklı” insanın özellikleri kapsamında aşağıdakilerden hangisi yer almaz?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde “Sağlıklı İnsan” profilinin özellikleri kapsamında aşağıdakilerden hangisi yer almaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72287,7 +72295,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Seçimlerini dikkatle yaparak nitelikli sonuçlara ulaşma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nSeçimlerini titizlikle yaparak nitelikli sonuçlara odaklanma davranışı <i>Sağlıklı İnsan</i> değil, <b>Estetik İnsan</b> profilinin <b>Seçici olma</b> alt özelliğidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A) Bağımlılıktan uzak durma:</strong> Sağlıklı insanın zararlı alışkanlıklardan korunma boyutudur.<br>\n• <strong>B) Manevi değerlerle iç huzuru koruma:</strong> Sağlıklı insanın manevi sağlık boyutudur.<br>\n• <strong>C) Kişisel temizlik ve çevre düzeni:</strong> Sağlıklı insanın hijyen ve beden sağlığı boyutudur.<br>\n• <strong>E) Düzenli fiziksel aktivite:</strong> Sağlıklı insanın beden ve spor boyutudur.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nMaarif Modeli'nde <b>Sağlıklı İnsan</b> sadece fiziksel/bedensel spordan ibaret değildir; <i>\"Manevi sağlık, iç huzur ve bağımlılıklarla mücadele\"</i> de sağlıklı insan başlığındadır!<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Zihinsel başarı uğruna uyku ve dinlenme sürelerini asgariye indirerek sürekli çalışma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Sağlıklı İnsan Profili</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Sağlıklı İnsan):</strong> Bağımlılık yapıcı maddelerden ve zararlı alışkanlıklardan uzak durur.<br>\n• <strong>B Şıkkı (Sağlıklı İnsan):</strong> Manevi değerlerine önem vererek ruh sağlığını ve iç huzurunu korur.<br>\n• <strong>C Şıkkı (Sağlıklı İnsan):</strong> Kişisel hijyen ve çevre temizliğine özen gösterir.<br>\n• <strong>D Şıkkı (Yanlış / Modele Aykırı ❌):</strong> Modelde insan sadece akademik bir yarış atı değildir. Bedenin dinlenme, uyku ve biyolojik ritim hakları vardır. Uykusuz kalarak sağlığı feda etmek \"Sağlıklı İnsan\" anlayışına tamamen zıttır.<br>\n• <strong>E Şıkkı (Sağlıklı İnsan):</strong> Düzenli fiziksel aktivite ve dengeli beslenme alışkanlığı kazanır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMaarif Modeli'nde sağlık <strong>\"Beden + Ruh + Çevre\"</strong> dengesidir; aşırılıklar ve uykusuzluk reddedilir.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde “Sağlıklı İnsan” profilinin özellikleri kapsamında aşağıdakilerden hangisi yer almaz?"
   },
   {
     "id": "egitim_tymm1-q10",
@@ -72298,7 +72307,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "Bir okulda iletişim aksaklığı yaşandığını gören öğretmen, kendisine görev verilmesini beklemeden bir çözüm önerisi hazırlar; çalışmayı başlatır ve ekibin işlerini yönlendirir.\n\n<b>Bu davranış, “cesaretli” insanın hangi alt özelliğini en kapsamlı biçimde örneklendirir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde “Estetik İnsan” profilinin özellikleri arasında aşağıdakilerden hangisi gösterilemez?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72324,7 +72333,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (İnisiyatif alma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Cesaretli İnsan</i> profilinde <b>İnisiyatif alma</b>; bir amirin veya otoritenin talimat vermesini beklemeden kendiliğinden harekete geçme, özgün çözüm üretme ve süreci yönetip ekibi koordine etme liderliğidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A) Risk alma:</strong> Sonucu belirsiz veya tehlikeli girişimlerde kayıp ihtimalini göze alabilmektir.<br>\n• <strong>C) Destekleyici olma:</strong> Başkalarının başlattığı çalışmalara yardım ve katkı sunmaktır.<br>\n• <strong>D) Yiğit ve mert olma:</strong> Haksızlıklara ve zorluklara karşı dik durup korkusuz davranmaktır.<br>\n• <strong>E) Öfkesini kontrol etme:</strong> Duygusal kriz anlarında sükûneti ve yapıcı tavrı korumaktır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Görev verilmesini beklemeden iş başlatma ve yönlendirme\"</i> ifadesi doğrudan <b>İnisiyatif alma</b>nın soru kalıbıdır.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Sanat eserlerini yalnızca maddi ve ticari getiri potansiyeline göre derecelendirme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Estetik İnsan Profili</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Estetik İnsan):</strong> Çevresindeki doğal ve kültürel güzellikleri fark eder ve korur.<br>\n• <strong>B Şıkkı (Estetik İnsan):</strong> Sanatsal etkinliklere katılır ve duyarlılık gösterir.<br>\n• <strong>C Şıkkı (Yanlış / Çeldirici ❌):</strong> Sanatı ve estetiği sadece para, piyasa ve ticaret metaı olarak görmek modelin ruhuna aykırıdır. Estetik insan sanata <strong>ruhsal olgunluk, zarafet ve manevi derinlik</strong> penceresinden bakar.<br>\n• <strong>D Şıkkı (Estetik İnsan):</strong> Dili incelikle kullanır (belagat).<br>\n• <strong>E Şıkkı (Estetik İnsan):</strong> Yaşam alanlarına estetik zarafet katar.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nEstetik dendiğinde ticari kazanç değil; <strong>güzellik, zarafet, ahenk ve sanat zevki</strong> esastır.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde “Estetik İnsan” profilinin özellikleri arasında aşağıdakilerden hangisi gösterilemez?"
   },
   {
     "id": "egitim_tymm1-q11",
@@ -72335,7 +72345,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "I. Bir sanat eserindeki güzelliği fark edip takdir etme\nII. Üzücü bir olay karşısında kaba sözlerden kaçınarak nazik iletişim kurma\nIII. Günlük yaşamında aşırılıklardan kaçınarak dengeli davranma\n\n<b>Bu davranışlar, “estetik” insanın sırasıyla hangi alt özellikleriyle ilişkilidir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde sokaktaki kimsesiz bir hayvana su verme, zor durumda kalmış bir arkadaşına fedakarlıkla destek olma ve insanlara sevgiyle yaklaşma hangi insan profilinin göstergesidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72361,7 +72371,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Güzelliğe duyarlı — Zarif — Ölçülü)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Estetik İnsan</i> profilinde: I. Sanat eserindeki estetiği takdir etme → <b>Güzelliğe duyarlı olma</b>; II. Zor durumlarda dahi kaba sözden kaçınıp nezaketle iletişim kurma → <b>Zarif olma</b>; III. Aşırılıklardan ve ifrat-tefritten kaçınarak orta yolu izleme → <b>Ölçülü olma</b> erdemidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Seçicilik: Tercihlerde kalite arayışıdır.<br>\n• Olgunluk: Karşılaşılan güçlükleri metanetle karşılama ve sorumlulukta tutarlılıktır.<br>\n• Yanlış seçenekler bu kavramların sıralamasını karıştırarak sunmuştur.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nÖlçülü olmak (denge, aşırılıktan uzak durma) ve zarif olmak (iletişimde nezaket) Maarif Modeli'nde <b>Estetik</b> başlığı altındadır.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Merhametli İnsan)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Merhametli İnsan Profili</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Bilge İnsan:</strong> İlim ve düşünceye odaklıdır.<br>\n• <strong>B) Üretken İnsan:</strong> İnovasyon ve üretime odaklıdır.<br>\n• <strong>C) Merhametli İnsan (DOĞRU ✔️):</strong> Şefkat, diğerkamlık, canlılara duyarlılık, yardımseverlik ve sevgi erdemleriyle donanmış profildir.<br>\n• <strong>D) Vatansever İnsan:</strong> Ülke ve millet sevgisine odaklıdır.<br>\n• <strong>E) Estetik İnsan:</strong> Güzellik ve zarafete odaklıdır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Şefkat, canlılara sevgi, kimsesize el uzatma ve fedakarlık\" ➔ <strong>Merhametli İnsan</strong>dır.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde sokaktaki kimsesiz bir hayvana su verme, zor durumda kalmış bir arkadaşına fedakarlıkla destek olma ve insanlara sevgiyle yaklaşma hangi insan profilinin göstergesidir?"
   },
   {
     "id": "egitim_tymm1-q12",
@@ -72372,7 +72383,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "Bir öğretmen, bir uygulamanın öğrenciler açısından haksız sonuçlar doğuracağını fark eder. Kendisine kolaylık sağlayacak olmasına rağmen bu uygulamayı benimsemez; kararında ahlaki ve toplumsal değerleri temel alır.\n\n<b>Bu davranış, “iradeli” insanın hangi alt özelliğine örnektir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde yer alan “Sorgulayıcı İnsan” profilinin en belirleyici tutumu aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72398,7 +72409,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (İlkeli olma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>İradeli İnsan</i> profilinde <b>İlkeli olma</b>; bireysel menfaat, kolaylık veya konfor yerine ahlaki, toplumsal ve mesleki değerleri tavizsiz biçimde pusula kabul etme olgunluğudur. Öğretmenin haksız sonucu engellemek için ahlaki değerleri tercih etmesi ilkeli olmanın göstergesidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>B) Kendine güvenme:</strong> Kişisel potansiyel ve yeteneklerine olan inancı anlatır.<br>\n• <strong>C) Kararlı ve iddialı olma:</strong> Belirlenen vizyon ve hedeflere ulaşmada ısrarcı olmayı temsil eder.<br>\n• <strong>D) Sorumluluk alma:</strong> Verilen görevleri üstlenip zamanında yerine getirmektir.<br>\n• <strong>E) Öfkesini kontrol etme:</strong> Öfke ve fevriliği dizginlemektir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Kişisel çıkarlarını bir kenara bırakıp ahlaki ve evrensel değerlere göre karar verme\"</i> vurgusu <b>İlkeli olma</b>nın modeldeki temel tanımıdır.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Bilgiyi peşinen kabullenmeyip kanıt arama ve sorgulama)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Sorgulayıcı İnsan Profili</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Sadece Otoriteye İnanma (Yanlış):</strong> Dogmatikliktir, sorgulamaya zıttır.<br>\n• <strong>B) Bilgiyi Peşinen Kabullenmeyip Kanıt Arama (DOĞRU ✔️):</strong> Sorgulayıcı insan merak eder, soru sorar, veriyi ve mantığı denetler.<br>\n• <strong>C) Her Durumda Karşı Çıkma (Yanlış):</strong> Yıkıcı inatçılıktır; sorgulayıcılık değil körü körüne muhalefettir.<br>\n• <strong>D) Bilgiyi Gizleme (Yanlış):</strong> Bilge insana aykırıdır.<br>\n• <strong>E) Ezberleme (Yanlış):</strong> Modelin reddettiği yoldur.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nSorgulayıcı insan = <strong>Merak + Akıl yürütme + Kanıt arama</strong>.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde yer alan “Sorgulayıcı İnsan” profilinin en belirleyici tutumu aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm1-q13",
@@ -72409,7 +72421,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "<b>“Merhametli” insanın alt özellikleriyle ilgili aşağıdaki eşleştirmelerden hangileri doğrudur?</b>\n\nI. İyilik yapmaktan mutluluk duyma — İyiliksever\nII. İhtiyaç sahibi kişilere yardım etme — Yardımsever\nIII. Bilgi, kaynak ve zamanını başkalarıyla paylaşma — Paylaşımcı\nIV. İnsanlara sevgi ve saygıyla yaklaşma — Affedici",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nin nihai hedefi olan “Yetkin ve Erdemli İnsan” kavramı ile ilgili olarak aşağıdakilerden hangisi modelin felsefi özünü en doğru şekilde açıklar?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72435,7 +72447,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (I, II ve III)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Merhametli İnsan</i> profilinde: I. İyilik yapmaktan mutluluk duyma → <b>İyiliksever</b> (Doğru); II. İhtiyaç sahibine el uzatma → <b>Yardımsever</b> (Doğru); III. Bilgi ve zamanı paylaşma → <b>Paylaşımcı</b> (Doğru). IV. öncül ise yanlıştır; çünkü insanlara sevgi ve saygıyla yaklaşma affedicilik değil, <b>Sevecen olma</b> özelliğidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• IV. öncüldeki \"Affedici olma\", yapılan hataları bağışlayıp kişiye ikinci bir şans tanımayı ifade eder. Sevgi ve saygıyla yaklaşmak \"Sevecen olma\"dır. Bu nedenle IV elenir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nSevgi-saygı bağı = <i>Sevecen</i>; Hata bağışlama = <i>Affedici</i>; İhtiyaç karşılama = <i>Yardımsever</i>. Bu üçlü ayrım sınavda en çok karıştırılan noktadır.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.4.2. Erdem-Değer-Eylem Çerçevesi (Çatı Değerler: Saygı, Sorumluluk, Adalet) (Kitap Sayfa: 36–41 / PDF Sayfa: 37–42)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Aklın ve kalbin, bilgi ile ahlakın, madde ile mananın bütünlüğünü sağlayan kamil insan ideali)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Modelin İnsan Tasavvuru: Yetkin ve Erdemli İnsan</em>.<br><br>\n🔍 <strong>Felsefi Çerçevenin Analizi:</strong><br>\n• <strong>Yetkinlik (Akil):</strong> Bilişsel ve teknik becerilerde ustalık, bilimi ve teknolojiyi üst düzey kullanabilme gücüdür.<br>\n• <strong>Erdemlilik (Ahlak):</strong> Kalp ve vicdan olgunluğu, adaleti, merhameti ve sorumluluğu içselleştirmedir.<br>\n• Model, <strong>\"Ahlaksız bilgi tehlikedir; bilgisiz erdem yetersizdir\"</strong> felsefesiyle her ikisini sentezleyen bütüncül insanı hedefler.<br><br>\n• <strong>Seçenekler:</strong> Bu sentezi en kusursuz anlatan şık <strong>C</strong> seçeneğidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nYetkinlik = <strong>Aklın ve Becerinin Zirvesi</strong>.<br>\nErdemlilik = <strong>Kalbin ve Ahlakın Zirvesi</strong>.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nin nihai hedefi olan “Yetkin ve Erdemli İnsan” kavramı ile ilgili olarak aşağıdakilerden hangisi modelin felsefi özünü en doğru şekilde açıklar?"
   },
   {
     "id": "egitim_tymm1-q14",
@@ -72446,7 +72459,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Bir proje ekibi, çalışma koşulları değiştiğinde planını yeni duruma uyarlar. Üyeler birbirlerinin farklı görüşlerini dinler ve ortak çalışmaya katkıda bulunur.\n\n<b>Bu davranışlarda “sorgulayıcı” insanın hangi iki alt özelliği birlikte görülmektedir?</b>",
+    "questionText": "Bir ekip projesinde çalışma koşullarının aniden değişmesi üzerine paniğe kapılmayıp alternatif çalışma yöntemleri geliştiren ve ekip arkadaşlarıyla uzlaşarak iş birliğini sürdüren birey, Sorgulayıcı İnsan profilinin hangi alt özelliklerini sergilemektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72472,7 +72485,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Esnek olma ve iş birliği yapma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Sorgulayıcı İnsan</i> profilinde: Çalışma koşulları değiştiğinde planı yeni duruma uyarlamak <b>Esnek olma</b>; farklı görüşleri dinleyerek ortak hedefe katkı sunmak ise <b>İş birliği yapma</b> alt özelliğidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Meraklı olma: Yeni bilgi arayışıdır (senaryoda plan uyarlama vardır).<br>\n• Eleştirel düşünme: Veri ve kanıt analizi yapmaktır.<br>\n• Problem çözme: Problemin kaynağını belirleyip algoritma üretmektir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Yeni duruma uyum sağlama\"</i> = <b>Esnek olma</b>; <i>\"Farklı görüşleri dinleyip ortak katkı sağlama\"</i> = <b>İş birliği yapma</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Esnek Olma ve İş Birliği Yapma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Sorgulayıcı İnsan: Esneklik ve İş Birliği</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n1. <strong>Değişen şartlara uyum sağlama:</strong> Sabit fikirli olmayıp yöntem değiştirmek ➔ <strong>Esnek Olma</strong>.<br>\n2. <strong>Ekip arkadaşlarıyla uzlaşarak birlikte çalışmak:</strong> Takım ruhu ➔ <strong>İş Birliği Yapma</strong>.<br><br>\n• <strong>D Şıkkı (DOĞRU ✔️):</strong> Esnek olma ve iş birliği yapma alt özellikleri birlikte yer almıştır.<br>\n• <strong>A, B, C, E Şıkları:</strong> Merak, risk alma, belagat veya bağımsızlık bu iki eylemi tam karşılamaz.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nŞartlara uyum = <strong>Esneklik</strong>.<br>\nBirlikte çalışma = <strong>İş Birliği</strong>.",
+    "question": "Bir ekip projesinde çalışma koşullarının aniden değişmesi üzerine paniğe kapılmayıp alternatif çalışma yöntemleri geliştiren ve ekip arkadaşlarıyla uzlaşarak iş birliğini sürdüren birey, Sorgulayıcı İnsan profilinin hangi alt özelliklerini sergilemektedir?"
   },
   {
     "id": "egitim_tymm1-q15",
@@ -72483,7 +72497,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "<b>“Üretken” insanın alt özellikleriyle ilgili aşağıdaki eşleştirmelerden hangileri doğrudur?</b>\n\nI. Geleceğe ilişkin amaçlar belirleyip plan yapma — Hayal ve hedefleri olan\nII. Sorunlara yenilikçi çözümler geliştirme — Yaratıcı\nIII. Güçlükle karşılaşınca çabasını sürdürme — Azimli ve sabırlı\nIV. Öğrenme sürecine aktif ve düzenli katılma — Çalışkan",
+    "questionText": "I. Karşılaştığı problemlere özgün ve yenilikçi çözümler üretme\nII. Ülkesinin ve insanlığın ihtiyaç duyduğu alanlarda katma değer sağlama\nIII. Sahip olduğu yetenek ve potansiyeli somut bir ürüne dönüştürme\nIV. Girişimci bir ruhla yeni projeler başlatma cesareti gösterme\n\nTürkiye Yüzyılı Maarif Modeli'ne göre yukarıda verilenlerin hangileri “Üretken İnsan” profilinin temel özellikleri arasında yer alır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72509,7 +72523,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (I, II, III ve IV)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Üretken İnsan</i> profilinin 4 temel alt özelliği soruda eksiksiz ve doğru eşleştirilmiştir: I. Amaç belirleyip planlama → <b>Hayal ve hedefleri olan</b>; II. Yenilikçi çözüm → <b>Yaratıcı</b>; III. Güçlükte çabayı sürdürme → <b>Azimli ve sabırlı</b>; IV. Düzenli ve aktif katılım → <b>Çalışkan</b>.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Diğer şıklar öncüllerden bazılarını eksik bıraktığı için yanlıştır. Öncüllerin 4'ü de Maarif Modeli'nin resmi metnindeki birebir tanımlardır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nÜretken İnsan; sadece \"üretmek\"ten ibaret değildir: <i>Hayal-hedef, yaratıcılık, azim-sabır ve çalışkanlık</i> bu çatıyı oluşturan ayrılmaz dörtlüdür.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (I, II, III ve IV)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Üretken İnsan Profili</em>.<br><br>\n🔍 <strong>Öncüllerin Analizi:</strong><br>\n• <strong>I. Öncül (Üretken İnsan ✔️):</strong> Özgün ve yenilikçi (inovatif) çözümler üretmek.<br>\n• <strong>II. Öncül (Üretken İnsan ✔️):</strong> Topluma katma değer ve fayda sağlamak.<br>\n• <strong>III. Öncül (Üretken İnsan ✔️):</strong> Potansiyeli somut bir ürüne, projeye veya esere dönüştürmek.<br>\n• <strong>IV. Öncül (Üretken İnsan ✔️):</strong> Girişimcilik ve proje başlatma cesareti sergilemek.<br><br>\n• <strong>Seçenekler:</strong> 4 öncülün tamamı (I, II, III ve IV) Üretken İnsan profilinin kurucu sütunlarıdır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"İnovasyon + Katma değer + Somut ürün + Girişimcilik\" ➔ <strong>Üretken İnsan</strong>dır.",
+    "question": "I. Karşılaştığı problemlere özgün ve yenilikçi çözümler üretme\nII. Ülkesinin ve insanlığın ihtiyaç duyduğu alanlarda katma değer sağlama\nIII. Sahip olduğu yetenek ve potansiyeli somut bir ürüne dönüştürme\nIV. Girişimci bir ruhla yeni projeler başlatma cesareti gösterme\n\nTürkiye Yüzyılı Maarif Modeli'ne göre yukarıda verilenlerin hangileri “Üretken İnsan” profilinin temel özellikleri arasında yer alır?"
   },
   {
     "id": "egitim_tymm1-q16",
@@ -72520,7 +72535,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 16,
-    "questionText": "<b>“Vatansever” insanın özellikleriyle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde yer alan “Bilge İnsan” profili ile ilgili olarak aşağıdakilerden hangisi modelin benimsediği ilkelere uygun bir nitelik değildir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72546,7 +72561,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Devletin millet için anlamını bilme — Millî kültürüne ve manevi değerlerine bağlı olma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<i>Vatansever İnsan</i> profilinde \"Devletin millet için anlamını bilme\", millî kültür değil <b>Gelişmiş bir devlet bilincine sahip olma</b> alt özelliğinin karşılığıdır. C seçeneğindeki eşleştirme yanlıştır.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A:</strong> Türkçeyi geliştirme → Türkçeye sahip çıkma (Doğru).<br>\n• <strong>B:</strong> Millî çıkar ve kalkınma → Ülke çıkarlarını üstün tutma (Doğru).<br>\n• <strong>D:</strong> Kültürel mirası aktarma → Millî kültür ve değerlere bağlılık (Doğru).<br>\n• <strong>E:</strong> Bayrağa saygı → Bayrağını sevme (Doğru).<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nDevletin bekası ve anlamı = <b>Gelişmiş Devlet Bilinci</b>; Tarih, gelenek ve maneviyat = <b>Millî Kültüre Bağlılık</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bilgiyi sadece şahsi üstünlük ve menfaat aracı olarak görüp başkalarından gizleme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Bilge İnsan Profili Felsefesi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Bilge İnsan):</strong> İlim peşinde koşar ve hakikati araştırır.<br>\n• <strong>B Şıkkı (Bilge İnsan):</strong> Bilgisini insanlığın ve toplumun faydasına sunar.<br>\n• <strong>C Şıkkı (Bilge İnsan):</strong> Tefekkür ve derinleşme olgunluğuna sahiptir.<br>\n• <strong>D Şıkkı (Yanlış / Modele Aykırı ❌):</strong> Bilgiyi kibir, üstünlük taslama ve şahsi menfaat aracı olarak görmek ve paylaşmamak modelin erdem felsefesine taban tabana zıttır. Bilge insan tevazu sahibidir ve bilgisini cömertçe paylaşır.<br>\n• <strong>E Şıkkı (Bilge İnsan):</strong> Hayat boyu öğrenme arzusunu canlı tutar.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nGerçek bilgelik <strong>tevazu ve paylaşma</strong> gerektirir; kibir ve bilgi saklama cehaletin işaretidir.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde yer alan “Bilge İnsan” profili ile ilgili olarak aşağıdakilerden hangisi modelin benimsediği ilkelere uygun bir nitelik değildir?"
   },
   {
     "id": "egitim_tymm2-q1",
@@ -72557,7 +72573,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "<b>Türkiye Yüzyılı Maarif Modeli’nin temel yaklaşımına uygun bir eğitim planında aşağıdakilerden hangisine yer verilmesi beklenir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nin felsefi temellerinde yer alan “insanın kendini tanıması, potansiyelini gerçekleştirmesi ve varoluş amacını keşfetmesi” hangi felsefi boyutla doğrudan ilgilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72583,7 +72599,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Zihinsel, duygusal, bedensel, sosyal ve manevi gelişimin birlikte desteklenmesine)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nTürkiye Yüzyılı Maarif Modeli'nin temel felsefesi <b>Bütüncül Eğitim</b> anlayışıdır. İnsan; zihinsel, duygusal, bedensel, sosyal ve manevi boyutlarıyla bir bütün olarak kabul edilir. Eğitim planları sadece akademik başarıya veya sadece tek bir gelişim alanına odaklanamaz; tüm alanlar eş güdümlü desteklenmelidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A:</strong> Öğrencilerin gelişim ihtiyaçları akademik başarıya göre aynılaştırılamaz; her öğrenci benzersizdir.<br>\n• <strong>B:</strong> Modelde bilgi ve değerler asla ayrılamaz; epistemolojik ve aksiyolojik bütünlük esastır.<br>\n• <strong>D:</strong> Model, öğrencilerin medeniyete sadece uyum sağlamasını değil, medeniyet kurucusu ve geliştiricisi olmasını hedefler.<br>\n• <strong>E:</strong> Bireysel farklılıklar tek tip ortak çizgiye dönüştürülemez; farklılıklar bir zenginliktir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nMaarif Modeli'nin anahtar kelimesi <b>\"Bütüncül Gelişim\"</b>dir. Sorularda tek yönlü (sadece bilişsel, sadece akademik) yaklaşımlar daima elenir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Ontolojik / Varlık Temeli)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Modelin Felsefi Temelleri (Ontolojik Yaklaşım)</em>.<br><br>\n🔍 <strong>Felsefi Boyutların Ayrımı:</strong><br>\n• <strong>A) Ontolojik Temel (DOĞRU ✔️):</strong> Varlık felsefesidir. Modelde insanın ne olduğu, varoluş amacı, çok yönlü doğası ve evrendeki yeri <strong>ontolojik</strong> boyutta temellendirilir.<br>\n• <strong>B) Epistemolojik Temel:</strong> Bilgi felsefesidir; bilginin kaynağını, doğasını ve öğrenme yollarını inceler.<br>\n• <strong>C) Aksiyolojik Temel:</strong> Değer ve ahlak felsefesidir; iyi, güzel, doğru ve erdemi inceler.<br>\n• <strong>D) Mantıksal Temel:</strong> Doğru akıl yürütme kurallarıdır.<br>\n• <strong>E) Pragmatik Temel:</strong> Faydacılık yaklaşımıdır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n• <em>İnsan nedir? Varoluş amacı nedir?</em> ➔ <strong>Ontoloji (Varlık)</strong>.<br>\n• <em>Bilgi nedir? Nasıl öğrenilir?</em> ➔ <strong>Epistemoloji (Bilgi)</strong>.<br>\n• <em>Ahlak ve Değerler nedir?</em> ➔ <strong>Aksiyonoloji (Değer)</strong>.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nin felsefi temellerinde yer alan “insanın kendini tanıması, potansiyelini gerçekleştirmesi ve varoluş amacını keşfetmesi” hangi felsefi boyutla doğrudan ilgilidir?"
   },
   {
     "id": "egitim_tymm2-q2",
@@ -72594,7 +72611,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Bir öğrenci bir alandaki bilgi ve becerileri edinmiş; aynı zamanda ahlaki davranışlarıyla olgunluk göstermiştir.\n\n<b>Bu iki yön, öğrenci profilinde sırasıyla hangi kavramlarla açıklanır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde eğitim süreçlerinin sadece okul binalarıyla sınırlı kalmayıp aile, çevre, toplum, dijital mecralar ve kültür ortamlarıyla bir bütün halinde ele alınması hangi yaklaşımı ifade eder?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72620,7 +72637,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Yetkinlik ve erdem)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nModelin nihai hedefi <i>\"Yetkin ve Erdemli İnsan\"</i> yetiştirmektir. Belli bir alandaki akademik bilgi ve becerileri edinmek <b>Yetkinlik</b>; ahlaki olgunluk ve fazilet sergilemek ise <b>Erdem</b> kavramıyla açıklanır. Sorudaki sıraya göre önce bilgi-beceri (Yetkinlik), sonra ahlaki olgunluk (Erdem) gelmelidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A şıkkı:</strong> Kavramları ters sırada vermiştir (Erdem ve yetkinlik).<br>\n• <strong>C, D, E şıkları:</strong> Belagat, öz güven, estetik gibi kavramlar genel profilin alt bileşenleridir; bu ana ikiliyi tanımlamaz.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nBilgi ve Beceri = <b>Yetkinlik</b>; Ahlaki Olgunluk ve Fazilet = <b>Erdem</b>. Bu ikili birbirinin tamamlayıcısıdır; biri olmadan diğeri eksik kalır.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Yetkin ve Erdemli İnsan (Ontolojik, Epistemolojik, Zamansal ve Aksiyolojik Bütünlük) (Kitap Sayfa: 5–10 / PDF Sayfa: 6–11)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Eğitim Ekosistemi Yaklaşımı)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Eğitim Ekosistemi Modeli</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Mekanik Yaklaşım:</strong> Okulu fabrikaya, öğrenciyi ürüne benzeten eski anlayıştır.<br>\n• <strong>B) Eğitim Ekosistemi Yaklaşımı (DOĞRU ✔️):</strong> Öğrencinin gelişimini etkileyen tüm aktörleri (okul, aile, akran, sokak, medya, kültür kurumları) birbiriyle canlı bir etkileşim içinde olan <strong>doğal bir ekosistem</strong> olarak ele alma anlayışıdır.<br>\n• <strong>C) Yalıtılmış Eğitim:</strong> Okulu hayattan koparan anlayıştır.<br>\n• <strong>D) Akademik Odaklılık:</strong> Sadece sınav başarısını önceleyen tek yönlü anlayıştır.<br>\n• <strong>E) Davranışçı Şartlanma:</strong> Ödül-ceza odaklı ezber modelidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Okul + Aile + Çevre + Toplumun canlı iş birliği\" ➔ <strong>Eğitim Ekosistemi</strong>dir.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde eğitim süreçlerinin sadece okul binalarıyla sınırlı kalmayıp aile, çevre, toplum, dijital mecralar ve kültür ortamlarıyla bir bütün halinde ele alınması hangi yaklaşımı ifade eder?"
   },
   {
     "id": "egitim_tymm2-q3",
@@ -72631,7 +72649,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "Bir öğretmen, öğrencinin bedenini ve ruhsal yönünü birbirinden koparmadan gelişimini desteklemek gerektiğini belirtmektedir.\n\n<b>Bu vurgu aşağıdaki kavramlardan hangisiyle ilişkilidir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nin “Bütüncül Eğitim Yaklaşımı” (Holistik Yaklaşım) gereğince insanın hangi boyutları eş zamanlı ve dengeli bir biçimde geliştirilmelidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72657,7 +72675,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Ontolojik bütünlük)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Ontolojik Bütünlük</b> (Varlık Bütünlüğü), modelin insana bakış açısını temsil eder. İnsanın yalnızca biyolojik bir organizma ya da yalnızca zihinden ibaret olmayıp <b>ruh ve beden bütünlüğü</b> içerisinde bir varlık olarak ele alınmasını ifade eder.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A) Epistemolojik bütünlük:</strong> Bilgiye bakıştır; bilginin bilgelikle ve hayatla anlamlandırılmasıdır.<br>\n• <strong>B) Zamansal bütünlük:</strong> Eğitimin geçmiş ile gelecek (köklerden geleceğe) arasındaki zaman köprüsüdür.<br>\n• <strong>C) Aksiyolojik olgunluk:</strong> Değer, ahlak ve estetik bakış açısının davranışa dönüşmesidir.<br>\n• <strong>E) Programlar arası ilişkilendirme:</strong> Dersler ve program bileşenleri arasındaki yatay/dikey bağdır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Ruh ve beden bütünlüğü, insanın varoluşsal yapısı\"</i> vurgusu %100 <b>Ontolojik Bütünlük</b>tür!<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Yetkin ve Erdemli İnsan (Ontolojik, Epistemolojik, Zamansal ve Aksiyolojik Bütünlük) (Kitap Sayfa: 5–10 / PDF Sayfa: 6–11)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Zihinsel, duygusal, fiziksel, ahlaki ve sosyal boyutlar)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Bütüncül (Holistik) Gelişim İlkesi</em>.<br><br>\n🔍 <strong>Bütüncül Yaklaşımın Özü:</strong><br>\nİnsan sadece bir beyinden (zihinsel) ibaret değildir. Model;<br>\n• <strong>Zihinsel (Bilişsel):</strong> Düşünme ve anlama<br>\n• <strong>Duygusal:</strong> Hisler, estetik ve empati<br>\n• <strong>Fiziksel:</strong> Beden sağlığı ve hareket<br>\n• <strong>Ahlaki & Manevi:</strong> Erdem, vicdan ve adalet<br>\n• <strong>Sosyal:</strong> İletişim ve birlikte yaşama ahlakı<br>\ntüm bu boyutların tek bir potada dengelenmesini şart koşar.<br><br>\n• <strong>C Şıkkı (DOĞRU ✔️):</strong> Tüm gelişim alanlarını dengeli içeren eksiksiz tanımdır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nBütüncül eğitim = <strong>Akıl + Kalp + Beden + Ahlak</strong> dengesidir.",
+    "question": "Türkiye Yüzyılı Maarif Modeli'nin “Bütüncül Eğitim Yaklaşımı” (Holistik Yaklaşım) gereğince insanın hangi boyutları eş zamanlı ve dengeli bir biçimde geliştirilmelidir?"
   },
   {
     "id": "egitim_tymm2-q4",
@@ -72668,7 +72687,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Bir eğitimci, “Öğrencinin bilgiye sahip olması kadar bu bilgiyi hayatı anlamlandırmada bilgece kullanması da önemlidir.” demektedir.\n\n<b>Bu görüş, öğrenci profilinin hangi boyutunu vurgular?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli çerçevesinde öğretim programlarında yapılan yaklaşık %35 oranındaki seyreltmenin (bilgi yükünün azaltılmasının) temel pedagojik gerekçesi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72694,7 +72713,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Epistemolojik bütünlük)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Epistemolojik Bütünlük</b> (Bilgi Bütünlüğü), bilgiye ve bilmeye yönelik bakış açısıdır. Bilginin sadece ezberlenmesi değil, hayatı anlamlandırmada <b>\"bilgelik\"</b> ile birleşerek insanlığın yararına kullanılmasıdır.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A) Ontolojik:</strong> Ruh ve beden dengesidir.<br>\n• <strong>B) Aksiyolojik:</strong> Değerlerin ahlaki ve estetik davranışa dönüşmesidir.<br>\n• <strong>C) Zamansal:</strong> Kültürel birikimin geçmişten geleceğe taşınmasıdır.<br>\n• <strong>D) Farklılaştırılmış öğretim:</strong> Bireysel öğrenme hızlarına göre öğretimi uyarlamadır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Bilgi + Bilgelik + Hayatı Anlamlandırma\"</i> formülü daima <b>Epistemolojik Bütünlük</b>tür.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Yetkin ve Erdemli İnsan (Ontolojik, Epistemolojik, Zamansal ve Aksiyolojik Bütünlük) (Kitap Sayfa: 5–10 / PDF Sayfa: 6–11)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bilgi hamallığını önleyerek derinlemesine öğrenmeye ve beceri geliştirmeye zaman kazandırmak)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Müfredat Seyreltme ve Derinleşme Stratejisi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Yanlış):</strong> Ders saatlerini boş geçirmek için değildir.<br>\n• <strong>B Şıkkı (Yanlış):</strong> Konuların önemini yitirdiği için değildir.<br>\n• <strong>C Şıkkı (Yanlış):</strong> Yalnızca sınavlara daha çok test çözdürmek için değildir.<br>\n• <strong>D Şıkkı (DOĞRU ✔️):</strong> Aşırı konu ve ezber yükü yüzünden öğretmenler konuları yetiştirme telaşına düşmekte, öğrenciler ise derinlemesine anlayamadan yüzeysel ezber yapmaktaydı. Seyreltme sayesinde <strong>\"daha az konu, daha derin anlama, uygulama ve beceri\"</strong> hedeflenmiştir.<br>\n• <strong>E Şıkkı (Yanlış):</strong> Öğretmen açığını kapatmak için değildir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMüfredat seyreltmesi = <strong>Bilgi hamallığına son ➔ Derinlemesine ve kalıcı öğrenme</strong>.",
+    "question": "Türkiye Yüzyılı Maarif Modeli çerçevesinde öğretim programlarında yapılan yaklaşık %35 oranındaki seyreltmenin (bilgi yükünün azaltılmasının) temel pedagojik gerekçesi aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm2-q5",
@@ -72705,7 +72725,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "I. Kültürel birikimi geçmişten geleceğe eğitim yoluyla taşıma\nII. Ahlaki bilinç ve estetik bakış açısını geliştirme\n\n<b>Bu amaçlar sırasıyla hangi kavramlarla ilişkilidir?</b>",
+    "questionText": "I. Kültürel mirası geçmişten geleceğe taşıyan kök-değer sürekliliği\nII. Bilginin sadece teknik faydasına değil, ahlaki ve insani değerine odaklanma\n\nTürkiye Yüzyılı Maarif Modeli’nde yukarıda vurgulanan iki temel felsefi ilke sırasıyla aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72731,7 +72751,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Zamansal bütünlük ve aksiyolojik olgunluk)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nI. Kültürel mirası geçmişten geleceğe taşıma → <b>Zamansal Bütünlük</b> (\"Köklerden Geleceğe\"); II. Ahlaki bilinç ve estetik bakış açısını geliştirme → <b>Aksiyolojik Olgunluk</b> (Etik ve Estetik değerler alanı).<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• C şıkkı kavramları ters sırada vermiştir.<br>\n• B, D, E şıkları ontolojik ve epistemolojik kavramlarla hatalı eşleştirilmiştir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nGeçmiş-Gelecek zaman köprüsü = <b>Zamansal Bütünlük</b>; Ahlak + Değer + Estetik = <b>Aksiyolojik Olgunluk</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Yetkin ve Erdemli İnsan (Ontolojik, Epistemolojik, Zamansal ve Aksiyolojik Bütünlük) (Kitap Sayfa: 5–10 / PDF Sayfa: 6–11)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Zamansal Bütünlük – Aksiyolojik Olgunluk)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Modelin Felsefi İlkeleri</em>.<br><br>\n🔍 <strong>İki Temel İlkenin Analizi:</strong><br>\n1. <strong>Zamansal Bütünlük (Geçmiş-Bugün-Gelecek Bağı):</strong> Köklerden geleceğe uzanan, tarihsel tecrübeyi ve kültürel mirası geleceğin dünyasıyla buluşturan zamansal sürekliliktir.<br>\n2. <strong>Aksiyolojik Olgunluk (Değer Boyutu):</strong> Bilgiyi salt teknik bir araç olarak görmeyip; onu ahlaki sorumluluk, erdem ve vicdanla (değerler felsefesi) taçlandırmaktır.<br><br>\n• <strong>A Şıkkı (DOĞRU ✔️):</strong> Sırasıyla Zamansal Bütünlük ve Aksiyolojik Olgunluk ilkeleridir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n• <em>Köklerden geleceğe zaman bağı</em> ➔ <strong>Zamansal Bütünlük</strong>.<br>\n• <em>Ahlak, fazilet ve değer derinliği</em> ➔ <strong>Aksiyolojik Olgunluk</strong>.",
+    "question": "I. Kültürel mirası geçmişten geleceğe taşıyan kök-değer sürekliliği\nII. Bilginin sadece teknik faydasına değil, ahlaki ve insani değerine odaklanma\n\nTürkiye Yüzyılı Maarif Modeli’nde yukarıda vurgulanan iki temel felsefi ilke sırasıyla aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm2-q6",
@@ -72742,7 +72763,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "<b>Yetkin ve erdemli insanın özellikleri dikkate alındığında “öfkesini kontrol eden” alt özelliği aşağıdaki başlıklardan hangilerinde birlikte yer alır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde “Farklılaştırılmış Öğretim” yaklaşımının öğretim programlarının merkezine yerleştirilmesinin temel gerekçesi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72768,7 +72789,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Cesaretli ve iradeli)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nMaarif Modeli'nde <b>\"Öfkesini kontrol eden\"</b> alt özelliği, Yetkin ve Erdemli İnsan profilinin iki ana başlığında ORTAK olarak yer alır: <b>Cesaretli</b> insanda (öfkeyi yönetip çatışmayı yapıcı çözme) ve <b>İradeli</b> insanda (stresli anlarda nefsine ve duygularına hâkim olma).<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Ahlaklı, bilge, estetik, merhametli, sağlıklı, üretken, sorgulayıcı ve vatansever başlıklarında \"öfkesini kontrol etme\" alt özelliği yer almaz.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nÖSYM'nin en sevdiği tuzak sorulardan biridir: <i>\"Öfkesini kontrol eden\"</i> özelliği hem <b>Cesaretli</b> hem de <b>İradeli</b> insan başlığında çifttir!<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Yetkin ve Erdemli İnsan (Ontolojik, Epistemolojik, Zamansal ve Aksiyolojik Bütünlük) (Kitap Sayfa: 5–10 / PDF Sayfa: 6–11)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Öğrencilerin öğrenme hızları, hazırbulunuşlukları ve ilgi alanlarındaki bireysel farklılıkları karşılamak)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.2. Farklılaştırılmış Öğretim Gerekçesi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Yanlış):</strong> Tüm öğrencilere aynı sürede aynı ödevi yaptırmak geleneksel tek tipliliktir.<br>\n• <strong>B Şıkkı (DOĞRU ✔️):</strong> Sınıfta her çocuk aynı hızda öğrenemez; kimi ek desteğe (destekleme), kimi ise derinleşmeye (zenginleştirme) ihtiyaç duyar. Farklılaştırılmış öğretim, <strong>bireysel hız ve ilgi farklılıklarını gözeterek herkesin kendi zirvesine ulaşmasını</strong> sağlar.<br>\n• <strong>C Şıkkı (Yanlış):</strong> Öğrencileri birbirinden ayırıp etiketlemek modele zıttır.<br>\n• <strong>D Şıkkı (Yanlış):</strong> Öğretmenin ders yükünü hafifletmek amaç değildir.<br>\n• <strong>E Şıkkı (Yanlış):</strong> Yalnızca sınav birincilerini seçmek için değildir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nFarklılaştırılmış öğretimin anahtarı ➔ <strong>Bireysel öğrenme hızları ve potansiyellerine saygı duymak</strong>tır.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde “Farklılaştırılmış Öğretim” yaklaşımının öğretim programlarının merkezine yerleştirilmesinin temel gerekçesi aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm2-q7",
@@ -72779,7 +72801,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "<b>Erdem-Değer-Eylem Çerçevesi’nin genel görünümünde saygı, sorumluluk ve adalet değerleriyle birlikte hangi üç alan yer alır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde bir öğrenme çıktısına sınıfın geneline göre çok daha erken ulaşan ve ileri düzey ilgi gösteren öğrenciler için uygulanan pedagojik süreç aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72805,7 +72827,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Huzurlu insan, huzurlu aile ve toplum, yaşanabilir çevre)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Erdem-Değer-Eylem Çerçevesi</b>'nde; Adalet, Saygı ve Sorumluluk çatı değerleriyle birlikte üç etki alanı yer alır: <b>Huzurlu İnsan</b> (birey), <b>Huzurlu Aile ve Toplum</b> (sosyal çevre) ve <b>Yaşanabilir Çevre</b> (ekosistem/tabiat).<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• <strong>A:</strong> Benlik, sosyal ve entelektüel → Eğilimlerin alanlarıdır.<br>\n• <strong>B:</strong> Temel, bütünleşik ve üst düzey → Kavramsal becerilerdir.<br>\n• <strong>C:</strong> Ön değerlendirme ve köprü kurma → Öğrenme yaşantıları adımlarıdır.<br>\n• <strong>D:</strong> Ontolojik, epistemolojik, zamansal → Bütünlük boyutlarıdır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nErdem-Değer-Eylem Çerçevesi'nin 3 hedef halkası: <i>İnsan (Birey) → Aile & Toplum → Çevre</i> (Huzurlu İnsan, Huzurlu Toplum, Yaşanabilir Çevre).<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.4.2. Erdem-Değer-Eylem Çerçevesi (Çatı Değerler: Saygı, Sorumluluk, Adalet) (Kitap Sayfa: 36–41 / PDF Sayfa: 37–42)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Zenginleştirme Süreci)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Farklılaştırma: Zenginleştirme Mekanizması</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Destekleme:</strong> Öğrenme güçlüğü çeken öğrencilere takviye yapmaktır.<br>\n• <strong>B) Yavaşlatma:</strong> Müfredat hızını düşürmektir.<br>\n• <strong>C) Zenginleştirme (DOĞRU ✔️):</strong> Hedefe erken ulaşan öğrencilerin canının sıkılmasını ve körelmesini önlemek için konunun <strong>derinliğine inen, disiplinlerarası ilişkiler kurduran, proje ve yaratıcı üretim fırsatları sunan</strong> uygulamalardır.<br>\n• <strong>D) Tekrar:</strong> Aynı şeyi yeniden anlatmaktır.<br>\n• <strong>E) Sınav Muafiyeti:</strong> Modelde böyle bir uygulama yoktur.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nHızlı ve ileri düzey öğrenciye ➔ <strong>Zenginleştirme</strong>.<br>\nZorlanan ve geride kalan öğrenciye ➔ <strong>Destekleme</strong>.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde bir öğrenme çıktısına sınıfın geneline göre çok daha erken ulaşan ve ileri düzey ilgi gösteren öğrenciler için uygulanan pedagojik süreç aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm2-q8",
@@ -72816,7 +72839,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bütüncül gelişimi desteklemek için bir okulun;\n\nI. öğretim programları ile sosyal etkinlikleri ilişkilendirmesi,\nII. dijital ekosistemi öğrenmeyi destekleyecek biçimde kullanması,\nIII. öğretmen gelişimini öğrenci gelişimiyle birlikte ele alması\n\n<b>uygulamalarından hangileri uygundur?</b>",
+    "questionText": "I. Kavram yanılgılarını tespit edip somutlaştırarak gidermek\nII. Öğrenme adımlarını basamaklandırarak ek süre ve rehberlik tanımak\nIII. Akran öğretimi ve bireysel geribildirimlerle eksikleri tamamlamak\n\nTürkiye Yüzyılı Maarif Modeli'ne göre yukarıdakilerden hangileri “Destekleme” sürecinde başvurulan pedagojik yöntemlerdendir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72842,7 +72865,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (I, II ve III)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nMaarif Modeli okulda bütüncül gelişimi sağlamak için tüm ekosistemin entegre çalışmasını şart koşar: I. Sosyal etkinliklerin öğretim programıyla bağdaştırılması, II. Dijital ekosistemin pedagojik araç olarak kullanılması, III. Öğretmen gelişiminin öğrenci gelişimiyle paralel yürütülmesi. Üçü de modelin temel stratejilerindendir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Herhangi bir öncülü dışarıda bırakan şıklar (A, B, D, E), modelin bütüncül okul ekosistemi anlayışını eksik bırakır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nOkul ikliminde <i>\"Öğretmen gelişimi, dijital ekosistem ve sosyal etkinlikler\"</i> ayrılmaz bir bütündür.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.9. Farklılaştırma (Zenginleştirme ve Destekleme) (Kitap Sayfa: 48–51 / PDF Sayfa: 49–52)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (I, II ve III)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Farklılaştırma: Destekleme Mekanizması</em>.<br><br>\n🔍 <strong>Öncüllerin Analizi:</strong><br>\n• <strong>I. Öncül (Destekleme ✔️):</strong> Öğrencinin takıldığı kavram yanılgılarını belirlemek ve somut materyallerle gidermek.<br>\n• <strong>II. Öncül (Destekleme ✔️):</strong> Karmaşık görevi küçük basamaklara bölmek (iskele kurma) ve ek zaman tanımak.<br>\n• <strong>III. Öncül (Destekleme ✔️):</strong> Bire bir geribildirim ve akran desteği ile öğrenmeyi pekiştirmek.<br><br>\n• <strong>Seçenekler:</strong> 3 öncülün tamamı (I, II ve III) modelin Destekleme ilkeleridir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nDestekleme = <strong>Somutlaştırma + Basamaklandırma + Geribildirim + Ek Zaman</strong>.",
+    "question": "I. Kavram yanılgılarını tespit edip somutlaştırarak gidermek\nII. Öğrenme adımlarını basamaklandırarak ek süre ve rehberlik tanımak\nIII. Akran öğretimi ve bireysel geribildirimlerle eksikleri tamamlamak\n\nTürkiye Yüzyılı Maarif Modeli'ne göre yukarıdakilerden hangileri “Destekleme” sürecinde başvurulan pedagojik yöntemlerdendir?"
   },
   {
     "id": "egitim_tymm2-q9",
@@ -72853,7 +72877,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Bir öğretmen aynı öğrenme amacı için, desteğe ihtiyaç duyan öğrencilere yönlendirmeli etkinlikler; daha ileri düzeydeki öğrencilere derinleştirici görevler sunar.\n\n<b>Bu uygulama aşağıdaki yaklaşımlardan hangisine örnektir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde “Program Dışı Etkinlikler” (Ekstra Program) ile ilgili olarak aşağıdakilerden hangisi doğru bir yaklaşımdır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72879,7 +72903,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Farklılaştırılmış öğretim)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nModelde öğrenci farklılıklarına yanıt veren yaklaşım <b>Farklılaştırılmış Öğretim</b>dir. İki temel sütunu vardır: Desteğe ihtiyacı olana <b>Destekleme</b> (yönlendirmeli etkinlik); ileri düzeyde olana <b>Zenginleştirme</b> (derinleştirici görevler).<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• B: Başarı sıralamasına göre yarıştırma modelin pedagojik ilkelerine tamamen aykırıdır.<br>\n• C: Standart görevler bireysel farklılıkları yok sayar.<br>\n• D: İçerik öğrenme kanıtlarından bağımsız olamaz.<br>\n• E: Amaç sorumluluğu devralmak değil, öğrenciye özerklik kazandırmaktır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nMaarif Modeli'nde farklılaştırma iki kanatlıdır: <i>\"Destekleme\"</i> (geride kalana takviye) ve <i>\"Zenginleştirme\"</i> (önde gidene derinleştirme).<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.9. Farklılaştırma (Zenginleştirme ve Destekleme) (Kitap Sayfa: 48–51 / PDF Sayfa: 49–52)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Öğrencinin ilgi, yetenek ve sosyal sorumluluk bilincini geliştiren, okul iklimini zenginleştiren planlı faaliyetlerdir.)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Program Dışı Etkinlikler</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Yanlış):</strong> Program dışı etkinlikler sadece boş vakit doldurma eğlencesi değildir; planlı hedefleri vardır.<br>\n• <strong>B Şıkkı (Yanlış):</strong> Yalnızca merkezi sınavlara soru çözme etüdü olarak kullanılamaz.<br>\n• <strong>C Şıkkı (Yanlış):</strong> Ders müfredatından tamamen kopuk ve kontrolsüz değildir.<br>\n• <strong>D Şıkkı (DOĞRU ✔️):</strong> Kulüpler, toplumsal hizmetler, sportif/kültürel etkinlikler öğrencinin aidiyetini, karakterini ve takım ruhunu pekiştiren hayati etkinliklerdir.<br>\n• <strong>E Şıkkı (Yanlış):</strong> Sadece başarılı öğrencilerin katıldığı bir ayrıcalık değildir; tüm öğrencilere açıktır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nProgram dışı etkinlik ➔ <strong>Karakter, sosyal sorumluluk ve çok yönlü gelişimin sahasıdır</strong>.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde “Program Dışı Etkinlikler” (Ekstra Program) ile ilgili olarak aşağıdakilerden hangisi doğru bir yaklaşımdır?"
   },
   {
     "id": "egitim_tymm2-q10",
@@ -72890,7 +72915,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "<b>Türkiye Yüzyılı Maarif Modeli’nde aşağıdaki uygulamalardan hangisi benimsenen öğrenme anlayışına uygun değildir?</b>",
+    "questionText": "Öğrencilerin yaşlı bakım evlerini ziyaret etmesi, sokak hayvanlarına barınak yapması, fidan dikmesi veya geri dönüşüm kampanyaları yürütmesi Türkiye Yüzyılı Maarif Modeli’nin hangi bileşeniyle doğrudan ilişkilidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72916,7 +72941,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Türkçenin doğru ve etkili kullanımını Türkçe dersiyle sınırlandırma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nTürkiye Yüzyılı Maarif Modeli'nin en temel ve vazgeçilmez politikalarından biri <b>Türkçenin tüm derslerde ve tüm disiplinlerde doğru, etkili ve zengin kullanılmasıdır</b>. Türkçenin kullanımını sadece Türkçe dersiyle sınırlamak modelin felsefesine kesinlikle aykırıdır.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A, B, C, E seçeneklerindeki uygulamalar modelin benimsediği öğrenci merkezli, üretken ve çevreyle etkileşimli eğitim anlayışıyla tam uyumludur.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nTürkçe, Maarif Modeli'nde bir <b>üst politika ve ortak paydadır</b>; matematik, fen, sosyal dahil tüm derslerin ortak taşıyıcısıdır.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Sosyal Sorumluluk Programı & Hayat Boyu Öğrenme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Sosyal Sorumluluk ve Topluma Hizmet</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Akademik Başarı Takibi:</strong> Ders notlarıyla ilgilidir.<br>\n• <strong>B) Sosyal Sorumluluk Programı (DOĞRU ✔️):</strong> Öğrencilerin empati, yardımlaşma, çevre duyarlılığı ve toplumsal fayda üretme erdemlerini bizzat sahada yaşayarak kazanmasıdır.<br>\n• <strong>C) Bilişsel Deney Tasarımı:</strong> Laboratuvar sürecidir.<br>\n• <strong>D) Okul İçi Disiplin İşlemleri:</strong> Ceza/yaptırım sürecidir.<br>\n• <strong>E) Merkezi Sınav Provası:</strong> Test pratiğidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Huzurevi ziyareti, fidan dikimi, çevre ve sokak hayvanları\" ➔ <strong>Sosyal Sorumluluk Programı</strong>dır.",
+    "question": "Öğrencilerin yaşlı bakım evlerini ziyaret etmesi, sokak hayvanlarına barınak yapması, fidan dikmesi veya geri dönüşüm kampanyaları yürütmesi Türkiye Yüzyılı Maarif Modeli’nin hangi bileşeniyle doğrudan ilişkilidir?"
   },
   {
     "id": "egitim_tymm2-q11",
@@ -72927,7 +72953,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "I. Sosyal-duygusal öğrenme becerileri\nII. Erdem-Değer-Eylem Çerçevesi\nIII. Sistem düşüncesi ve okuryazarlık becerileri\nIV. Eğilimler\n\n<b>Bunlardan hangileri programlar arası bileşenlerdir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde yer alan Okul Temelli Planlama ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72953,7 +72979,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (I, II ve III)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nMaarif Modeli'nde <b>Programlar Arası Bileşenler</b> 3 ana gruptur: I. Sosyal-Duygusal Öğrenme Becerileri, II. Erdem-Değer-Eylem Çerçevesi, III. Sistem Düşüncesi ve Okuryazarlık Becerileri. <b>Eğilimler</b> ise programlar arası bileşen değil, Beceriler Çerçevesi'nin ayrı bir ana sütunudur.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• IV. öncül (Eğilimler), becerilerin eyleme dönüştürülmesini sağlayan ayrı bir bileşendir; programlar arası bileşenler tablosunda yer almaz.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nProgramlar Arası 3 Bileşen: <i>1) Sosyal-Duygusal Öğrenme Becerileri, 2) Erdem-Değer-Eylem Çerçevesi, 3) Okuryazarlık Becerileri</i>. Eğilimler bu listede YOKTUR!<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.4.3. Sistem Düşüncesi ve Okuryazarlık Becerileri (9 Okuryazarlık Türü) (Kitap Sayfa: 41–44 / PDF Sayfa: 42–45)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Okul temelli planlamada zümre öğretmenleri, programdaki öğrenme çıktılarını iptal edip yerine tamamen kendi konularını koyabilir.)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Okul Temelli Planlamanın Sınırları ve İlkeleri</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Doğru):</strong> Zümre öğretmenler kurulunca kararlaştırılır ve yıllık planlara işlenir.<br>\n• <strong>B Şıkkı (Doğru):</strong> Okulun çevresel şartları, bölge ihtiyaçları ve öğrenci düzeyleri gözetilir.<br>\n• <strong>C Şıkkı (Doğru):</strong> 1739 sayılı Millî Eğitim Temel Kanunu'nun genel amaç ve ilkelerine bağlı kalmak zorundadır.<br>\n• <strong>D Şıkkı (Doğru):</strong> Belirlenen ders saati oranı dahilinde esnek bir uygulama alanı sağlar.<br>\n• <strong>E Şıkkı (Yanlış / Çeldirici ❌):</strong> Zümre öğretmenlerinin programdaki resmî <strong>öğrenme çıktılarını kafasına göre iptal etme veya müfredattan çıkarma yetkisi KESİNLİKLE YOKTUR</strong>. Esneklik, hedefe ulaşma yolundaki etkinlik ve yerel uyarlamayı kapsar; ana kazanım hedeflerini yok edemez.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nOkul temelli planlama esnektir ama <strong>öğrenme çıktıları zorunludur, iptal edilemez</strong>!",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde yer alan Okul Temelli Planlama ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?"
   },
   {
     "id": "egitim_tymm2-q12",
@@ -72964,7 +72991,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "<b>Modelin program geliştirme tasarımında öğrenme çıktıları hangi unsurların bütünleşmesiyle oluşturulur?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nin ölçme ve değerlendirme yaklaşımıyla ilgili olarak aşağıdakilerden hangisi modelin benimsediği felsefeyi en iyi açıklar?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -72990,7 +73017,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Kavramsal beceriler, alan becerileri ve içerik çerçevesi)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nModelin program geliştirme tasarımında <b>Öğrenme Çıktıları</b> (eski adıyla kazanımlar), üç kurucu unsurun bütünleşmesiyle yazılır: <b>Kavramsal Beceriler + Alan Becerileri + İçerik Çerçevesi</b>.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• B: Okul temelli planlama ve program dışı etkinlikler uygulama süreçleridir.<br>\n• C: Ön değerlendirme ve köprü kurma öğrenme-öğretme yaşantıları adımlarıdır.<br>\n• D: Öğrenme kanıtları ölçme-değerlendirme karşılığıdır.<br>\n• E: Benlik, sosyal, entelektüel eğilimlerin türleridir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nÖğrenme Çıktısının Formülü: <i>Kavramsal Beceri + Alan Becerisi + İçerik</i>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.2. Fiziksel Beceriler & 1.4.1.3. Eğilimler (Benlik, Sosyal ve Entelektüel Eğilimler) (Kitap Sayfa: 21–24 / PDF Sayfa: 22–25)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Ölçme, öğrenciyi yaftalayan ve sıralayan bir ceza/not aracı değil; öğrenme eksiklerini belirleyip süreci iyileştiren bir tanı ve geribildirim aracıdır.)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.5. Ölçme ve Değerlendirme Felsefesi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (DOĞRU ✔️):</strong> Model <strong>Süreç ve Durum Odaklı (Biçimlendirici)</strong> ölçmeyi benimser. Amaç öğrenciye not verip sıralamak değil; nerede tıkandığını görüp öğretimi uyarlamaktır.<br>\n• <strong>B Şıkkı (Yanlış):</strong> Sadece çoktan seçmeli testlere dayalı sonuç odaklılık reddedilir.<br>\n• <strong>C Şıkkı (Yanlış):</strong> Öğrencileri birbirleriyle yarıştırmak modele aykırıdır.<br>\n• <strong>D Şıkkı (Yanlış):</strong> Ölçme sadece dönem sonunda yapılmaz; sürecin her aşamasındadır.<br>\n• <strong>E Şıkkı (Yanlış):</strong> Sadece bilişsel bilgi ölçülmez; tutum, beceri ve performans da ölçülür.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMaarif Modeli'nde ölçme ➔ <strong>Öğrenmenin ölçülmesi değil; ÖĞRENME İÇİN ÖLÇME</strong>dir!",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nin ölçme ve değerlendirme yaklaşımıyla ilgili olarak aşağıdakilerden hangisi modelin benimsediği felsefeyi en iyi açıklar?"
   },
   {
     "id": "egitim_tymm2-q13",
@@ -73001,7 +73029,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "Bir öğretmen, öğrencilerin hedeflenen çıktılara ne ölçüde ulaştığını belirlemek için süreçteki çalışmalarını ve ortaya koydukları ürünleri inceler.\n\n<b>Bu çalışmalar ve ürünler modelde hangi kavramla ilişkilidir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde öğrencilerin bir beceriyi kazandığını ortaya koyan ürünler, performans görevleri, gözlem formları ve öz değerlendirme raporları hangi kavramla ifade edilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73027,7 +73055,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Öğrenme kanıtları)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nMaarif Modeli'nde öğrencilerin hedeflenen çıktılara ne ölçüde ulaştığını belirlemek amacıyla süreç boyunca toplanan çalışmalar, performanslar, ürünler ve gözlemler <b>Öğrenme Kanıtları</b> (ölçme ve değerlendirme boyutu) olarak adlandırılır.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A) Temel kabuller: Öğrencinin hazırbulunuşluk ve ön bilgi varsayımlarıdır.<br>\n• B) İçerik çerçevesi: İşlenecek konu ve tema sınırlarıdır.<br>\n• C) Öğretmen yansıtmaları: Öğretmenin ders sonrası kendi performansını değerlendirmesidir.<br>\n• D) Program dışı etkinlikler: Sınıf dışı sosyal/kültürel etkinliklerdir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nEski programdaki <i>\"Ölçme ve Değerlendirme\"</i> = Maarif Modeli'ndeki <b>\"Öğrenme Kanıtları\"</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.5.–1.4.8. Ölçme ve Değerlendirme, Temel Kabuller, Ön Değerlendirme, Köprü Kurma ve Öğrenme Yaşantıları (Kitap Sayfa: 44–48 / PDF Sayfa: 45–49)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Öğrenme Kanıtları)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Öğrenme Çıktıları ve Öğrenme Kanıtları</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) İçerik Çerçevesi:</strong> Dersin konu ve kavramlar ağıdır.<br>\n• <strong>B) Öğretmen Yansıtması:</strong> Öğretmenin kendi dersini değerlendirmesidir.<br>\n• <strong>C) Okul Temelli Plan:</strong> Zümrenin yıllık plan uyarlamasıdır.<br>\n• <strong>D) Öğrenme Kanıtları (DOĞRU ✔️):</strong> Bir öğrencinin hedeflenen öğrenme çıktısına ulaşıp ulaşmadığını gösteren her türlü somut veri, ödev, ürün, rubrik ve gözlem kaydıdır.<br>\n• <strong>E) Zenginleştirme:</strong> İleri düzey etkinliklerdir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Öğrencinin beceriyi kazandığını kanıtlayan ürün ve gözlem formları\" ➔ <strong>Öğrenme Kanıtları</strong>dır.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde öğrencilerin bir beceriyi kazandığını ortaya koyan ürünler, performans görevleri, gözlem formları ve öz değerlendirme raporları hangi kavramla ifade edilir?"
   },
   {
     "id": "egitim_tymm2-q14",
@@ -73038,7 +73067,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Dersin ardından bir öğretmen, kullandığı etkinliklerin güçlü yanlarını ve programın uygulamada güçlük oluşturan yönlerini gözden geçirip sonraki ders için düzenleme yapar.\n\n<b>Bu süreç aşağıdakilerden hangisidir?</b>",
+    "questionText": "Bir öğretmenin dersin bitiminde; “Bugün uyguladığım etkinlikte öğrenciler en çok hangi noktada zorlandı? Kullandığım yönergeler yeterince açık mıydı? Bir sonraki derste neyi farklı yapmalıyım?” sorularını kendine sorarak notlar alması modelde hangi uygulama kapsamındadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73064,7 +73093,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Öğretmen yansıtmaları)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nDersin ardından öğretmenin uyguladığı etkinliklerin güçlü ve zayıf yönlerini, karşılaşılan güçlükleri gözden geçirerek sonraki ders planını revize etmesi süreci modelde <b>Öğretmen Yansıtmaları</b> (reflektif öğretmen uygulaması) olarak tanımlanır.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A) Ön değerlendirme: Dersin başında öğrencilerin mevcut durumunu tespit etmektir.<br>\n• B) Öğrenme çıktılarının belirlenmesi: Program geliştirme aşamasında yapılır.<br>\n• C) İçerik çerçevesinin puanlanması: Böyle bir kavram yoktur.<br>\n• E) Bileşenlerin sınıflandırılması: Program tasarım boyutudur.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nDers sonrası öğretmenin öz değerlendirme yapıp planını güncellemesi = <b>Öğretmen Yansıtmaları</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.2. Öğrenme Çıktıları & 1.4.3. İçerik Çerçevesi (Kitap Sayfa: 32–33 / PDF Sayfa: 33–34)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Öğretmen Yansıtmaları)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Öğretmen Yansıtmaları ve Mesleki Gelişim</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Öğrenci Öz Değerlendirmesi:</strong> Öğrencinin kendini değerlendirmesidir.<br>\n• <strong>B) Öğretmen Yansıtmaları (DOĞRU ✔️):</strong> Öğretmenin kendi öğretim sürecini, yöntemini ve sınıf iklimini eleştirel bir gözle gözden geçirip gelişim notları almasıdır.<br>\n• <strong>C) Merkezi Denetim:</strong> Müfettiş incelemesidir.<br>\n• <strong>D) Zümre Kararı:</strong> Kurul kararıdır.<br>\n• <strong>E) İçerik Seyreltmesi:</strong> Müfredatın sadeleştirilmesidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nÖğretmenin ders sonrası kendi uygulaması üzerine düşünmesi ➔ <strong>Öğretmen Yansıtmaları</strong>dır.",
+    "question": "Bir öğretmenin dersin bitiminde; “Bugün uyguladığım etkinlikte öğrenciler en çok hangi noktada zorlandı? Kullandığım yönergeler yeterince açık mıydı? Bir sonraki derste neyi farklı yapmalıyım?” sorularını kendine sorarak notlar alması modelde hangi uygulama kapsamındadır?"
   },
   {
     "id": "egitim_tymm2-q15",
@@ -73075,7 +73105,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Öğrenciler, yerel bir müzede farklı derslerle ilişkili incelemeler yaparak ilgi alanlarını keşfeder ve kültürel mirasa ilişkin toplumsal sorumluluklarını tartışır.\n\n<b>Bu çalışma aşağıdakilerden hangisinin işlevini örneklendirir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde okul ile aile arasındaki ilişkinin sadece aidat veya disiplin sorunları olduğunda görüşülen bir bağ olmaktan çıkarılıp öğrencinin erdem ve beceri gelişimini birlikte yürüten bir paydaşlığa dönüştürülmesi hangi temel ilkeyi yansıtır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73101,7 +73131,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Program dışı etkinliklerin)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nÖğrencilerin müze, ören yeri, bilim merkezi gibi okul dışı ortamlarda derslerle ilişkilendirerek inceleme yapmaları, ilgi keşfetmeleri ve toplumsal sorumluluk kazanmaları <b>Program Dışı Etkinlikler</b>in (okul dışı öğrenme) temel işlevidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A: Öğretmen yansıtmaları dersin değerlendirilmesidir.<br>\n• C: Başarıya göre ayırma pedagojiye aykırıdır.<br>\n• D: Öğrenmeyi sınıfla sınırlandırma tam tersi bir hatadır.<br>\n• E: Fiziksel becerileri ayırma bütüncüllüğe aykırıdır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nMüze, doğa, kültür gezileri ve toplumsal projeler = <b>Program Dışı Etkinlikler</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.10.–1.4.13. Okul Temelli Planlama, Program Dışı Etkinlikler, Rehberlik ve Öğretmen Yansıtmaları (Kitap Sayfa: 52–55 / PDF Sayfa: 53–56)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Okul – Aile Ekosistem Ortaklığı)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Okul-Aile-Toplum İş Birliği</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Geleneksel Bürokrasi:</strong> Veliyi okul kapısında tutan eski anlayıştır.<br>\n• <strong>B) Yalıtılmış Okul Modeli:</strong> Aileyi eğitime karıştırmayan modeldir.<br>\n• <strong>C) Okul-Aile Ekosistem Ortaklığı (DOĞRU ✔️):</strong> Değerlerin ve alışkanlıkların okulda öğrenilip evde pekiştirildiği, velinin sürecin doğal ve destekleyici bir paydaşı olduğu yaklaşımdır.<br>\n• <strong>D) Tek Yönlü Bilgilendirme:</strong> Sadece veliye mesaj atmaktır.<br>\n• <strong>E) Finansal Bağımlılık:</strong> Aileyi sadece bağış kaynağı görmektir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nOkul ve aile Maarif Modeli'nde <strong>ortak ekosistem paydaşlarıdır</strong>.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde okul ile aile arasındaki ilişkinin sadece aidat veya disiplin sorunları olduğunda görüşülen bir bağ olmaktan çıkarılıp öğrencinin erdem ve beceri gelişimini birlikte yürüten bir paydaşlığa dönüştürülmesi hangi temel ilkeyi yansıtır?"
   },
   {
     "id": "egitim_tymm3-q1",
@@ -73112,7 +73143,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 1,
-    "questionText": "<b>Kavramsal becerilerle ilgili aşağıdaki ifadelerden hangisi doğrudur?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde yer alan Kavramsal Beceriler; “Temel”, “Bütünleşik” ve “Üst Düzey” düşünme becerileri olmak üzere üç ana kümede toplanmıştır. Aşağıdaki becerilerden hangisi diğerlerinden farklı bir düzeyde yer almaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73138,7 +73169,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Temel ve bütünleşik beceriler, zorunlu bir aşamalılık olmadan üst düzey düşünmeye altyapı oluşturur.)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nMaarif Modeli'nde <i>Kavramsal Beceriler</i> hiyerarşik bir basamak katılığı taşımaz. Temel beceriler ve bütünleşik beceriler üst düzey düşünme becerilerine zemin hazırlar; ancak Bloom taksonomisindeki gibi \"biri bitmeden diğeri asla yapılamaz\" şeklinde <b>katı/zorunlu bir aşamalılık yoktur</b>.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A: Bütünleşik beceriler temel becerilerden bağımsız değildir; onları içerir.<br>\n• B: Üst düzey düşünme temel eylemleri dışlamaz; onlardan beslenir.<br>\n• C: Her beceri kendinden öncekilerin tamamlanmasını şart koşmaz.<br>\n• E: Temel beceriler karmaşık karar verme değil, gözlenebilir yalın eylemlerdir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nKavramsal becerilerde <i>\"zorunlu/katı bir ön koşul aşamalılığı YOKTUR\"</i>; sarmal ve ilişkisel bir yapı esastır.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Problem Çözme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler Hiyerarşisi</em>.<br><br>\n🔍 <strong>Düzeylerin Analizi:</strong><br>\n• <strong>Bütünleşik Düşünme Becerileri (KB2):</strong> Karşılaştırma, Sınıflandırma, Çözümleme, Sentezleme, Özetleme, Değerlendirme.<br>\n• <strong>Üst Düzey Düşünme Becerileri (KB3 - KAP):</strong> Karar Verme, Eleştirel Düşünme, <strong>Problem Çözme</strong>.<br><br>\n• <strong>Seçeneklerin Karşılaştırılması:</strong><br>\n  - A) Karşılaştırma ➔ Bütünleşik Beceri (KB2)<br>\n  - B) Problem Çözme ➔ <strong>Üst Düzey Beceri (KB3)</strong> (Farklı düzeydedir ✔️)<br>\n  - C) Sınıflandırma ➔ Bütünleşik Beceri (KB2)<br>\n  - D) Çözümleme ➔ Bütünleşik Beceri (KB2)<br>\n  - E) Sentezleme ➔ Bütünleşik Beceri (KB2)<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nÜst düzey beceriler sadece 3 tanedir (<strong>KAP: Karar verme, Akıl yürütme/Eleştirel düşünme, Problem çözme</strong>); diğerleri bütünleşiktir!",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde yer alan Kavramsal Beceriler; “Temel”, “Bütünleşik” ve “Üst Düzey” düşünme becerileri olmak üzere üç ana kümede toplanmıştır. Aşağıdaki becerilerden hangisi diğerlerinden farklı bir düzeyde yer almaktadır?"
   },
   {
     "id": "egitim_tymm3-q2",
@@ -73149,7 +73181,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 2,
-    "questionText": "Bir öğrenci, bir okulun iletişim sistemini incelerken sistemi oluşturan birimleri belirler; birimler arasındaki bilgi akışının nasıl kurulduğunu açıklar.\n\n<b>Bu çalışmada hangi bütünleşik beceri öne çıkar?</b>",
+    "questionText": "Bir öğrencinin iki metin arasındaki benzerlik ve zıtlıkları ortaya koyması ile nesneleri belirli özelliklerine göre gruplara ayırması sırasıyla hangi iki kavramsal beceriyi temsil eder?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73175,7 +73207,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Çözümleme)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Çözümleme</b> bütünleşik becerisi; karmaşık bir yapıyı ya da sistemi oluşturan bileşenleri (parçaları) belirleme ve bu parçalar arasındaki işleyiş/ilişki bağlarını açıklama sürecidir. Öğrencinin iletişim sisteminin birimlerini ve aralarındaki bilgi akışını ortaya koyması tam olarak çözümlemedir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• B) Özetleme: Ana düşünceyi koruyarak metni kısaltmaktır.<br>\n• C) Sınıflandırma: Varlıkları ortak özelliklerine göre kategorilere ayırmaktır.<br>\n• D) Gözleme dayalı tahmin: Algısal verilere dayanarak geleceği öngörmektir.<br>\n• E) Sentezleme: Parçalardan yepyeni ve özgün bir bütün oluşturmaktır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Bütünü oluşturan parçaları bulma ve aralarındaki ilişkiyi açıklama\"</i> = <b>Çözümleme</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Karşılaştırma – Sınıflandırma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB2.1. Karşılaştırma ve KB2.2. Sınıflandırma</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n1. <strong>Benzerlik ve zıtlıkları belirleme:</strong> İki durumu kıyaslama ➔ <strong>Karşılaştırma (KB2.1)</strong>.<br>\n2. <strong>Belirli özelliklere göre gruplara ayırma:</strong> Kategorize etme ➔ <strong>Sınıflandırma (KB2.2)</strong>.<br><br>\n• <strong>C Şıkkı (DOĞRU ✔️):</strong> Sırasıyla Karşılaştırma ve Sınıflandırma.<br>\n• <strong>A, B, D, E Şıkları:</strong> Sıralamayı ters veren ya da alakasız kavramlar (çözümleme, özetleme) kullanan seçeneklerdir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nBenzerlik/Zıtlık = <strong>Karşılaştırma</strong>.<br>\nGruplara bölme = <strong>Sınıflandırma</strong>.",
+    "question": "Bir öğrencinin iki metin arasındaki benzerlik ve zıtlıkları ortaya koyması ile nesneleri belirli özelliklerine göre gruplara ayırması sırasıyla hangi iki kavramsal beceriyi temsil eder?"
   },
   {
     "id": "egitim_tymm3-q3",
@@ -73186,7 +73219,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 3,
-    "questionText": "I. Bahçedeki bitkilerin yaprak dokusunu ve kokusunu duyularıyla inceleme\nII. Bir konu için farklı belgelerden bilgi edinme, bilgiyi doğrulayıp kaydetme\n\n<b>Bu çalışmalar sırasıyla hangi becerilerle ilişkilidir?</b>",
+    "questionText": "Bir öğrencinin karmaşık bir olguyu oluşturan alt ögeleri ve aralarındaki nedensellik bağını incelemesi ile farklı kaynaklardan topladığı bilgileri birleştirip özgün bir ürün oluşturması sırasıyla hangi becerilerdir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73212,7 +73245,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Gözlemleme ve bilgi toplama)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nI. Bitkilerin yaprak dokusunu ve kokusunu duyu organlarıyla inceleme doğrudan <b>Gözlemleme</b> temel becerisidir. II. Farklı kaynak ve belgelerden veri bulma, doğrulama ve kaydetme ise <b>Bilgi Toplama</b> becerisidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A şıkkı doğru kavramları ters sırayla vermiştir.<br>\n• B, C, D seçenekleri sorgulama, yorumlama ve sınıflandırma kavramlarıyla hatalı eşleştirilmiştir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nDuyu organlarıyla inceleme = <b>Gözlemleme</b>; Belge, kaynak ve verileri derleyip kaydetme = <b>Bilgi Toplama</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Çözümleme – Sentezleme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB2.5. Çözümleme ve KB2.8. Sentezleme</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n1. <strong>Bütünü parçalarına ve nedensellik bağına ayırmak:</strong> Analiz ➔ <strong>Çözümleme (KB2.5)</strong>.<br>\n2. <strong>Parçaları birleştirip yeni ve özgün bir ürün çıkarmak:</strong> ➔ <strong>Sentezleme (KB2.8)</strong>.<br><br>\n• <strong>A Şıkkı (DOĞRU ✔️):</strong> Sırasıyla Çözümleme (Analiz) ve Sentezleme.<br>\n• <strong>Diğer Şıklar:</strong> Özetleme veya değerlendirme bu iki eylemin birebir karşılığı değildir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nBütünden parçaya = <strong>Çözümleme</strong>.<br>\nParçalardan yeni bütüne = <strong>Sentezleme</strong>.",
+    "question": "Bir öğrencinin karmaşık bir olguyu oluşturan alt ögeleri ve aralarındaki nedensellik bağını incelemesi ile farklı kaynaklardan topladığı bilgileri birleştirip özgün bir ürün oluşturması sırasıyla hangi becerilerdir?"
   },
   {
     "id": "egitim_tymm3-q4",
@@ -73223,7 +73257,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Bir öğrenci, uzun bir konuşmanın ana düşüncesini belirleyip yardımcı düşünceleri düzenler; konuşmayı kendi cümleleriyle kısa ve bütünlüklü biçimde aktarır.\n\n<b>Bu çalışma hangi beceriye örnektir?</b>",
+    "questionText": "Bir metnin özünü koruyarak ana hatlarıyla ifade etmek ile bir deneyimden ders çıkararak gelecekteki eylemlerini iyileştirmek sırasıyla hangi iki kavramsal beceriyi açıklar?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73249,7 +73283,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Özetleme)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Özetleme</b> bütünleşik becerisi; kapsamlı bir metnin ya da konuşmanın ana fikrini ve destekleyici unsurlarını tespit edip gereksiz ayrıntıları ayıklayarak kendi ifadeleriyle kısa, öz ve bütünlüklü aktarma eylemidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A) Çelişki giderme: İki tutarsız durum arasındaki mantık hatasını çözmektir.<br>\n• C) Veriye dayalı tahmin: İstatistiksel verilerden çıkarım yapmaktır.<br>\n• D) Değerlendirme: Bir ölçüte göre yargıya varmaktır.<br>\n• E) Analojik akıl yürütme: İki durum arasındaki benzerlikten sonuç çıkarmaktır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Ana fikri belirleyip kendi cümleleriyle kısa ve öz aktarma\"</i> = <b>Özetleme</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Özetleme – Yansıtma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB2.3. Özetleme ve KB2.9. Yansıtma</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n1. <strong>Metnin özünü koruyarak kısa ve net ifade etme:</strong> ➔ <strong>Özetleme (KB2.3)</strong>.<br>\n2. <strong>Deneyimden ders çıkarıp geleceği iyileştirme:</strong> ➔ <strong>Yansıtma (KB2.9)</strong>.<br><br>\n• <strong>D Şıkkı (DOĞRU ✔️):</strong> Özetleme ve Yansıtma kavramlarını doğru sırada vermiştir.<br>\n• <strong>A, B, C, E Şıkları:</strong> Çözümleme, tahmin, değerlendirme veya sınıflandırma ile karıştırmıştır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMetni kısaltmak = <strong>Özetleme</strong>.<br>\nYaşantıdan ders çıkarmak = <strong>Yansıtma</strong>.",
+    "question": "Bir metnin özünü koruyarak ana hatlarıyla ifade etmek ile bir deneyimden ders çıkararak gelecekteki eylemlerini iyileştirmek sırasıyla hangi iki kavramsal beceriyi açıklar?"
   },
   {
     "id": "egitim_tymm3-q5",
@@ -73260,7 +73295,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Bir öğrenci önce atık malzemeleri türlerine göre gruplandırır; ardından bu grupların geri dönüşüm süreçlerindeki benzerlik ve farklılıklarını belirler.\n\n<b>Öğrenci sırasıyla hangi becerileri kullanmıştır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde “Tahmin Etme” becerisinin iki temel türü aşağıdakilerden hangisinde birlikte verilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73286,7 +73321,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Sınıflandırma ve karşılaştırma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nÖğrencinin atıkları türlerine göre gruplara ayırması <b>Sınıflandırma</b>; ardından bu grupların geri dönüşüm özelliklerindeki benzerlik ve farklılıklarını ortaya koyması <b>Karşılaştırma</b> becerisidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A şıkkı sıralamayı ters vermiştir.<br>\n• B, D, E şıkları çözümleme, yapılandırma ve sentezleme kavramlarını hatalı kullanmıştır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nGruplara ayırma = <b>Sınıflandırma</b>; Benzerlik ve farklılıkları bulma = <b>Karşılaştırma</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Gözleme Dayalı Tahmin – Mevcut Bilgiye/Veriye Dayalı Tahmin)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB2.6. Tahmin Etme Becerisi Kılavuzu</em>.<br><br>\n🔍 <strong>Modeldeki İki Tahmin Türü:</strong><br>\n1. <strong>Gözleme Dayalı Tahmin:</strong> Duyu organlarıyla anlık olarak algılanan fiziksel belirtilere dayanan kestirimdir (bulutlara bakıp yağmur beklemek).<br>\n2. <strong>Mevcut Bilgiye / Veriye Dayalı Tahmin:</strong> Geçmiş istatistiklere, tablolara, sayılara ve yazılı verilere dayanan mantıksal kestirimdir (grafiğe bakıp nüfus artışını kestirmek).<br><br>\n• <strong>C Şıkkı (DOĞRU ✔️):</strong> Modelin resmi iki tahmin türünü eksiksiz içerir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMaarif Modeli'nde tahmin ikiye ayrılır: <strong>Gözleme Dayalı</strong> ve <strong>Veriye Dayalı</strong>!",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde “Tahmin Etme” becerisinin iki temel türü aşağıdakilerden hangisinde birlikte verilmiştir?"
   },
   {
     "id": "egitim_tymm3-q6",
@@ -73297,7 +73333,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "Bir öğrenci, okul kütüphanesinden haftada 40 kitap ödünç alındığını gösteren kayıtları inceler. Aynı hızın sürmesi varsayımıyla sonraki üç haftada 120 kitap alınacağını hesaplar.\n\n<b>Bu işlem hangi beceriyi örneklendirir?</b>",
+    "questionText": "Bir fabrikanın son 5 yıllık üretim ve satış grafiklerini inceleyen bir ekonomistin, gelecek yılın hammadde ihtiyacını ve olası kâr oranını hesaplayarak öngörüde bulunması hangi tahmin türüne örnektir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73323,7 +73359,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Mevcut bilgiye/veriye dayalı tahmin etme)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nKütüphane kayıtlarındaki \"haftada 40 kitap\" sayısal/istatistiki verisinden yola çıkarak \"3 haftada 120 kitap\" öngörüsünde bulunmak <b>Mevcut bilgiye/veriye dayalı tahmin etme</b> becerisidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• B) Gözleme dayalı tahmin: Duyu organlarıyla anlık yapılan gözlemlerden çıkarım yapmaktır (örn. bulutlara bakıp yağmur tahmin etmek).<br>\n• C) Yorumlama: Verinin anlamını açıklamaktır.<br>\n• D) Çelişki giderme: Tutarsızlığı çözmektir.<br>\n• E) Sentezleme: Özgün ürün oluşturmaktır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nSayısal veri, kayıt ve tablodan hareketle öngörü = <b>Veriye Dayalı Tahmin</b>; Duyu organıyla anlık durumdan öngörü = <b>Gözleme Dayalı Tahmin</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Mevcut Bilgiye / Veriye Dayalı Tahmin Etme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB2.6. Tahmin Etme</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (DOĞRU ✔️):</strong> Tahmin, hislere veya çıplak gözleme değil; somut <strong>grafiklere, sayılara ve geçmiş 5 yıllık verilere</strong> dayanmaktadır.<br>\n• <strong>B Şıkkı (Gözleme Dayalı):</strong> Duyu organlarıyla anlık belirtileri izlemektir.<br>\n• <strong>C Şıkkı (Yorumlama):</strong> Kendi anlamını katmaktır.<br>\n• <strong>D Şıkkı (Çelişki Giderme):</strong> Zıtlıkları çözmektir.<br>\n• <strong>E Şıkkı (Sentezleme):</strong> Yeni ürün ortaya koymaktır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nGrafik, istatistik, sayısal veri dendiğinde ➔ <strong>Mevcut Bilgiye/Veriye Dayalı Tahmin</strong>dir.",
+    "question": "Bir fabrikanın son 5 yıllık üretim ve satış grafiklerini inceleyen bir ekonomistin, gelecek yılın hammadde ihtiyacını ve olası kâr oranını hesaplayarak öngörüde bulunması hangi tahmin türüne örnektir?"
   },
   {
     "id": "egitim_tymm3-q7",
@@ -73334,7 +73371,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Bir öğretmen, gerçekleştirdiği grup çalışmasını gözden geçirir; katılımı azaltan etkenlerden sonuçlar çıkararak bu sonuçları sonraki etkinliğin planına aktarır.\n\n<b>Bu süreç hangi bütünleşik becerinin örneğidir?</b>",
+    "questionText": "Bir öğretmenin ders sonunda gerçekleştirdiği grup çalışmasını gözden geçirip; katılımı azaltan etkenlerden sonuçlar çıkararak bir sonraki derste farklı bir oturma düzeni ve rol dağılımı planlaması hangi kavramsal beceridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73360,7 +73397,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (Yansıtma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Yansıtma</b> bütünleşik becerisi; kişinin kendi deneyimlerini, eylemlerini ve süreçlerini eleştirel biçimde gözden geçirip ulaştığı sonuçları gelecekteki yeni eylemlerine ve planlarına aktarmasıdır.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A) Yorumlama: Bir metni veya veriyi kendi anlayışıyla açıklığa kavuşturmaktır.<br>\n• B) Sınıflandırma: Gruplara ayırmadır.<br>\n• C) Gözlemleme: Duyu organlarıyla izlemedir.<br>\n• E) Mantıksal denetleme: Argümanların mantık kurallarına uygunluğunu denetlemektir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nGeçmiş deneyimden ders çıkarıp sonraki plana aktarma = <b>Yansıtma</b> (Refleksiyon).<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Yansıtma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB2.9. Yansıtma Becerisi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Yorumlama:</strong> Bir metni kendi sözcükleriyle açıklamadır.<br>\n• <strong>B) Sınıflandırma:</strong> Gruplamadır.<br>\n• <strong>C) Gözlemleme:</strong> Sadece pasif izlemedir.<br>\n• <strong>D) Yansıtma (DOĞRU ✔️):</strong> Yaşanan deneyimi (grup çalışması) kritik edip oradaki aksaklıklardan ders çıkararak sonraki eylemi (oturma düzeni ve planı) dönüştürmektir.<br>\n• <strong>E) Mantıksal Denetleme:</strong> Argüman geçerliliğini incelemektir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Deneyimden sonuç çıkarma + Gelecek planı geliştirme\" ➔ <strong>Yansıtma</strong>dır.",
+    "question": "Bir öğretmenin ders sonunda gerçekleştirdiği grup çalışmasını gözden geçirip; katılımı azaltan etkenlerden sonuçlar çıkararak bir sonraki derste farklı bir oturma düzeni ve rol dağılımı planlaması hangi kavramsal beceridir?"
   },
   {
     "id": "egitim_tymm3-q8",
@@ -73371,7 +73409,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Bir öğrenci;\n\nI. tek tek örneklerden genel bir kurala ulaşır,\nII. genel bir kuralı özel bir duruma uygular,\nIII. iki sistemin benzer işleyişinden yararlanarak düşünür.\n\n<b>Bu işlemlerin doğru sırası hangisidir?</b>",
+    "questionText": "Bir öğrenci;\n\nI. Tek tek örneklerden yola çıkarak genel bir kurala ulaşır.\nII. Genel bir kuralı somut ve özel bir duruma uygular.\nIII. İki durum arasındaki benzerlikten yola çıkarak birindeki özelliği diğerine aktarır.\n\nBu öğrencinin kullandığı akıl yürütme türleri sırasıyla aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73397,7 +73435,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Tümevarım, tümdengelim, analoji)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nAkıl yürütme türleri: I. Tekil örneklerden genele ulaşma (Özelden Genele) → <b>Tümevarım</b>; II. Genel kuralı özel duruma uygulama (Genelden Özele) → <b>Tümdengelim</b>; III. İki sistem arasındaki benzerlikten yola çıkma (Benzeşim) → <b>Analoji</b>.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Diğer seçenekler akıl yürütme yollarının sırasını karıştırmıştır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>Parçadan Bütüne</i> = <b>Tümevarım</b>; <i>Bütünden Parçaya</i> = <b>Tümdengelim</b>; <i>Benzerlikten Sonuca</i> = <b>Analoji</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Öğretim Programlarının Temel Yaklaşımı (Kitap Sayfa: 3–4 / PDF Sayfa: 4–5)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Tümevarım, Tümdengelim, Analoji)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB2.7. Akıl Yürütme Türleri</em>.<br><br>\n🔍 <strong>3 Akıl Yürütme Türünün Eşleşmesi:</strong><br>\n• <strong>I. Örnekten ➔ Kurala:</strong> Özelden genele gidiş ➔ <strong>Tümevarım</strong>.<br>\n• <strong>II. Kuraldan ➔ Duruma:</strong> Genelden özele gidiş ➔ <strong>Tümdengelim</strong>.<br>\n• <strong>III. Benzerlikten ➔ Benzerliğe:</strong> Özelden özele andırma ➔ <strong>Analoji</strong>.<br><br>\n• <strong>B Şıkkı (DOĞRU ✔️):</strong> Tümevarım, Tümdengelim, Analoji üçlüsünü doğru sırada veren seçenektir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nÖrnekten genele = <strong>Tümevarım</strong>.<br>\nGenelden özele = <strong>Tümdengelim</strong>.<br>\nİki benzer durum arası aktarım = <strong>Analoji</strong>.",
+    "question": "Bir öğrenci;\n\nI. Tek tek örneklerden yola çıkarak genel bir kurala ulaşır.\nII. Genel bir kuralı somut ve özel bir duruma uygular.\nIII. İki durum arasındaki benzerlikten yola çıkarak birindeki özelliği diğerine aktarır.\n\nBu öğrencinin kullandığı akıl yürütme türleri sırasıyla aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm3-q9",
@@ -73408,7 +73447,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Bir öğrenci, tasarlanan afişler için okunaklılık ve bilgi doğruluğu ölçütleri belirler. Afişleri bu ölçütlere göre inceleyip her biri hakkında yargıya varır.\n\n<b>Hangi bütünleşik beceri kullanılmıştır?</b>",
+    "questionText": "Bir öğrencinin tasarlanan afişler için “okunaklılık”, “estetik denge” ve “bilgi doğruluğu” ölçütleri belirlemesi ve afişleri bu ölçütlere göre karşılaştırıp en uygun olanı seçmesi hangi kavramsal beceriyi temsil eder?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73434,7 +73473,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Değerlendirme)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Değerlendirme</b> üst düzey becerisi; belirlenen açık ölçütlere (kriterlere) dayanarak bir ürün, durum veya performans hakkında geçerli bir <b>yargıya / karara varma</b> sürecidir. Afişlerin belirlenen doğruluk ölçütlerine göre incelenip yargıya varılması değerlendirmedir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A) Karşılaştırma: Yargıya varmadan benzerlik-farklılık listelemektir.<br>\n• B) Genelleme: Kural çıkarma eylemidir.<br>\n• C) Özetleme: Kısaltarak aktarmadır.<br>\n• D) Bilgi toplama: Veri derlemedir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Ölçüt + İnceleme + Yargıya Varma\"</i> formülü %100 <b>Değerlendirme</b>dir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Değerlendirme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB2.10. Değerlendirme Becerisi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Karşılaştırma:</strong> Sadece benzerlik ve farkı bulmaktır.<br>\n• <strong>B) Genelleme:</strong> Kural çıkarmaktır.<br>\n• <strong>C) Özetleme:</strong> Kısaltmaktır.<br>\n• <strong>D) Bilgi Toplama:</strong> Arşivlemektir.<br>\n• <strong>E) Değerlendirme (DOĞRU ✔️):</strong> Önceden konulmuş <strong>ölçütler ışığında bir ürünün niteliği, değeri ve yeterliği hakkında yargıya varmak</strong>tır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nÖlçüt varsa ve bu ölçüte göre nitelik yargısı veriliyorsa ➔ <strong>Değerlendirme</strong>dir.",
+    "question": "Bir öğrencinin tasarlanan afişler için “okunaklılık”, “estetik denge” ve “bilgi doğruluğu” ölçütleri belirlemesi ve afişleri bu ölçütlere göre karşılaştırıp en uygun olanı seçmesi hangi kavramsal beceriyi temsil eder?"
   },
   {
     "id": "egitim_tymm3-q10",
@@ -73445,7 +73485,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "Bir kurul, etkinlik yeri seçerken amacını belirler, bilgi toplar, alternatifleri oluşturur, seçeneklerin uygunluğunu inceler ve seçim yapar. Sonuçları daha sonra gözden geçirir.\n\n<b>Bu sürecin bütünü hangi beceridir?</b>",
+    "questionText": "Bir kurulun yıl sonu etkinlik yerini belirlerken amacını netleştirmesi, alternatif mekanlar hakkında veri toplaması, maliyet ve güvenlik kriterlerine göre seçenekleri inceleyip en uygun olanı seçmesi ve sonrasında tercihin doğruluğunu gözden geçirmesi hangi üst düzey düşünme becerisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73471,7 +73511,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (Karar verme)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Karar verme</b> üst düzey düşünme becerisi; amaç belirleme, seçenekleri/alternatifleri üretme, her seçeneğin artı ve eksilerini değerlendirme, en uygun tercihi yapma ve sonrasında sonucun etkililiğini gözden geçirme adımlarından oluşan çok boyutlu bir süreçtir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Gözlemleme, sınıflandırma ve özetleme karar vermenin yalnızca alt basamaklarında kullanılabilecek temel becerilerdir; bu kapsamlı sürecin tamamını karşılamaz.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Alternatif üretme + Seçenekleri kıyaslama + Tercih yapma + Sonucu izleme\"</i> döngüsü <b>Karar Verme</b> becerisidir.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Karar Verme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB3.1. Karar Verme Süreci</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Gözlemleme:</strong> Basit veri alımıdır.<br>\n• <strong>B) Sınıflandırma:</strong> Gruplamadır.<br>\n• <strong>C) Karar Verme (DOĞRU ✔️):</strong> Amaç belirleme ➔ Seçenek üretme ➔ Kriterlere göre kıyaslama ➔ Seçim yapma ➔ Sonucu değerlendirme döngüsüdür.<br>\n• <strong>D) Özetleme:</strong> Metni kısaltmadır.<br>\n• <strong>E) Çözümleme:</strong> Parçalara ayırmadır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Alternatifler arasından ölçüte göre en uygun olanı tercih etme\" ➔ <strong>Karar Verme</strong>dir.",
+    "question": "Bir kurulun yıl sonu etkinlik yerini belirlerken amacını netleştirmesi, alternatif mekanlar hakkında veri toplaması, maliyet ve güvenlik kriterlerine göre seçenekleri inceleyip en uygun olanı seçmesi ve sonrasında tercihin doğruluğunu gözden geçirmesi hangi üst düzey düşünme becerisidir?"
   },
   {
     "id": "egitim_tymm3-q11",
@@ -73482,7 +73523,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "<b>Aşağıdaki beceri üçlülerinden hangisi eleştirel düşünmenin açıklamasında birlikte yer alır?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde “Eleştirel Düşünme” (KB3.2) becerisinin açıklamasında ve süreç bileşenlerinde aşağıdaki beceri üçlüsünden hangisi birlikte yer alır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73508,7 +73549,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Doğru Cevap: <strong>B</strong> (Sorgulama, akıl yürütme ve yansıtma)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nMaarif Modeli resmi tanımında <b>Eleştirel Düşünme</b>; <b>Sorgulama</b>, <b>Akıl Yürütme</b> ve <b>Yansıtma</b> bütünleşik becerilerinin bir araya gelmesiyle tanımlanan üst düzey bir düşünme sürecidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A, C, D, E seçeneklerinde yer alan sayma, çizme, ölçme, çevirme, işaret etme gibi eylemler temel düzey beceriler olup eleştirel düşünmenin kurucu üçlüsü değildir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nEleştirel Düşünmenin Resmi Sacayağı: <b>Sorgulama + Akıl Yürütme + Yansıtma</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Sorgulama, Akıl Yürütme ve Yansıtma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB3.2. Eleştirel Düşünme Mimarisi</em>.<br><br>\n🔍 <strong>Eleştirel Düşünmenin 3 Kurucu Sacayağı:</strong><br>\n1. <strong>Sorgulama:</strong> İddiaları, varsayımları ve bilgi kaynaklarını şüpheyle irdelemek.<br>\n2. <strong>Akıl Yürütme:</strong> Mantıksal tutarlılığı ve delil-sonuç ilişkisini denetlemek.<br>\n3. <strong>Yansıtma:</strong> Kendi önyargılarını ve düşünme sürecini gözden geçirip öz eleştiri yapabilmek.<br><br>\n• <strong>B Şıkkı (DOĞRU ✔️):</strong> Model metninde eleştirel düşünmenin omurgası <strong>\"Sorgulama, Akıl Yürütme ve Yansıtma\"</strong> olarak tanımlanmıştır.<br>\n• <strong>Diğer Şıklar:</strong> Sayma, çizme veya mekanik işlemler eleştirel düşünmenin parçası değildir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nEleştirel düşünmenin 3 ayağı: <strong>Sorgulama + Akıl Yürütme + Yansıtma</strong>!",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde “Eleştirel Düşünme” (KB3.2) becerisinin açıklamasında ve süreç bileşenlerinde aşağıdaki beceri üçlüsünden hangisi birlikte yer alır?"
   },
   {
     "id": "egitim_tymm3-q12",
@@ -73519,7 +73561,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "<b>Modelin fiziksel becerilere yaklaşımına uygun değerlendirme aşağıdakilerden hangisidir?</b>",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nin “Fiziksel Beceriler”e yaklaşımına uygun değerlendirme aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73545,7 +73587,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Doğru Cevap: <strong>E</strong> (Fiziksel beceriler, zihinsel ve sosyal-duygusal yönleri de içeren bütüncül bir akışta gelişir.)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nModelin bütüncül felsefesine göre <b>Fiziksel Beceriler</b> sadece kas hareketlerinden ibaret izole bir alan değildir; zihinsel odaklanma, karar verme ve sosyal-duygusal süreçlerle etkileşim halinde, bütüncül bir akışta gelişir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• A: Fiziksel beceriler sona bırakılamaz; ilk andan itibaren vardır.<br>\n• B: Duygusal ve sosyal süreçlerin dışında tutulamaz.<br>\n• C: Farklılaştırmada fiziksel beceriler ihmal edilemez.<br>\n• D: Vücut hareketleri yaşantılardan koparılamaz.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nFiziksel beceriler diğer becerilerden ASLA yalıtılamaz; <i>zihinsel ve duyuşsal boyutla iç içedir</i>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler (Temel, Bütünleşik ve Üst Düzey Düşünme Becerileri) (Kitap Sayfa: 15–20 / PDF Sayfa: 16–21)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Fiziksel beceriler, zihinsel ve sosyal-duygusal yönleri de içeren bütüncül bir akışta gelişir.)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.5. Fiziksel Beceriler Çerçevesi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Yanlış):</strong> Fiziksel beceriler diğer beceriler bittikten sonra başlatılmaz; okul öncesinden itibaren eş zamanlı yürütülür.<br>\n• <strong>B Şıkkı (Yanlış):</strong> Duygusal ve sosyal süreçlerden yalıtılmış değildir; spor ve hareket takım ruhunu ve duyguları eğitir.<br>\n• <strong>C Şıkkı (Yanlış):</strong> Farklılaştırmada fiziksel beceriler ihmal edilmez.<br>\n• <strong>D Şıkkı (Yanlış):</strong> Beden hareketleri tüm öğrenme yaşantılarıyla etle tırnak gibidir.<br>\n• <strong>E Şıkkı (DOĞRU ✔️):</strong> Modelde beden ve zihin ayrı kompartımanlar değildir. Fiziksel beceriler <strong>zihinsel odaklanma, ahlaki centilmenlik ve sosyal-duygusal dengeyle</strong> bütüncül bir akış içinde ele alınır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMaarif Modeli'nde fiziksel beceri = <strong>Beden + Zihin + Karakter bütünlüğü</strong>dür.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nin “Fiziksel Beceriler”e yaklaşımına uygun değerlendirme aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm3-q13",
@@ -73556,7 +73599,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "I. Merak — Benlik eğilimi\nII. Empati — Sosyal eğilim\nIII. Gerçeği arama — Entelektüel eğilim\nIV. Odaklanma — Sosyal eğilim\n\n<b>Bu eşleştirmelerden hangileri doğrudur?</b>",
+    "questionText": "I. Merak — Entelektüel Eğilim\nII. Empati — Sosyal Eğilim\nIII. Gerçeği Arama — Entelektüel Eğilim\nIV. Odaklanma — Entelektüel Eğilim\n\nTürkiye Yüzyılı Maarif Modeli'ne göre yukarıda verilen eğilim ve boyut eşleştirmelerinden hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73582,7 +73625,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Doğru Cevap: <strong>C</strong> (I, II ve III)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\nEğilimler 3 ana alana ayrılır: I. Merak → <b>Benlik Eğilimi</b> (Doğru); II. Empati → <b>Sosyal Eğilim</b> (Doğru); III. Gerçeği arama → <b>Entelektüel Eğilim</b> (Doğru). IV. öncül ise yanlıştır; çünkü \"Odaklanma\" sosyal değil, <b>Benlik Eğilimi</b>dir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• IV. öncüldeki Odaklanma; bireyin kendi zihinsel dikkatini yönetmesiyle ilgili olduğu için Benlik eğilimidir. Sosyal eğilimler başkalarıyla kurulan ilişkileri kapsar (empati, saygı vb.).<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>Benlik Eğilimleri</i>: Öz güven, merak, odaklanma, bağımsızlık, azim.<br>\n<i>Sosyal Eğilimler</i>: Empati, iş birliği, duyarlılık.<br>\n<i>Entelektüel Eğilimler</i>: Gerçeği arama, açık fikirlilik.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.2. Fiziksel Beceriler & 1.4.1.3. Eğilimler (Benlik, Sosyal ve Entelektüel Eğilimler) (Kitap Sayfa: 21–24 / PDF Sayfa: 22–25)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II, III ve IV)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Eğilimler Tablosu (E1, E2, E3)</em>.<br><br>\n🔍 <strong>Öncüllerin Analizi:</strong><br>\n• <strong>I. Merak (Entelektüel ✔️):</strong> Bilgiye yönelme arzusudur.<br>\n• <strong>II. Empati (Sosyal ✔️):</strong> Başkalarının duygusunu anlama yatkınlığıdır.<br>\n• <strong>III. Gerçeği Arama (Entelektüel ✔️):</strong> Hakikat ve doğruluk peşinde koşmadır.<br>\n• <strong>IV. Odaklanma (Entelektüel ✔️):</strong> Zihinsel dikkatini bir noktada yoğunlaştırma eğilimidir.<br><br>\n• <strong>Seçenekler:</strong> Dört eşleştirmenin tamamı (I, II, III ve IV) modelin eğilimler sınıflandırmasıyla birebir uyumludur.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMerak, Odaklanma ve Gerçeği arama ➔ <strong>Entelektüel</strong>.<br>\nEmpati, İş birliği ve Paylaşma ➔ <strong>Sosyal</strong>.",
+    "question": "I. Merak — Entelektüel Eğilim\nII. Empati — Sosyal Eğilim\nIII. Gerçeği Arama — Entelektüel Eğilim\nIV. Odaklanma — Entelektüel Eğilim\n\nTürkiye Yüzyılı Maarif Modeli'ne göre yukarıda verilen eğilim ve boyut eşleştirmelerinden hangileri doğrudur?"
   },
   {
     "id": "egitim_tymm3-q14",
@@ -73593,7 +73637,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "Bir öğrenci, grup baskısına rağmen kendi gerekçelerine göre bir çalışma konusu seçer ve seçiminin sorumluluğunu üstlenir.\n\n<b>Bu tutum hangi benlik eğilimiyle ilişkilidir?</b>",
+    "questionText": "Bir öğrencinin grup baskısına ve arkadaşlarının yönlendirmelerine kapılmayıp kendi mantıksal gerekçelerine göre bir çalışma konusu seçmesi ve bu seçiminin getireceği sorumluluğu üstlenmesi hangi eğilim özelliğidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73619,7 +73663,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Doğru Cevap: <strong>A</strong> (Bağımsızlık)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Bağımsızlık</b> benlik eğilimi; grup baskısına, akran yönlendirmesine veya dış etkilere kapılmadan kendi akıl yürütmesi ve gerekçelerine dayanarak özerk seçimler yapabilme ve bu seçimlerin sorumluluğunu üstlenebilme erdemidir.<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• B) Merak: Bilgiye ilgi duymadır.<br>\n• C) Azim ve kararlılık: Zorluklara karşı pes etmemektir.<br>\n• D) Kendine inanma: Başarabileceğine dair içsel inançtır.<br>\n• E) Kendine güvenme: Yetenek ve donanımına güvenmektir.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\n<i>\"Grup ve çevre baskısına rağmen kendi kararlarını verme ve sorumluluk alma\"</i> = <b>Bağımsızlık</b>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.2. Fiziksel Beceriler & 1.4.1.3. Eğilimler (Benlik, Sosyal ve Entelektüel Eğilimler) (Kitap Sayfa: 21–24 / PDF Sayfa: 22–25)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Bağımsızlık / Özerklik)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Benlik Eğilimleri: Bağımsızlık ve İrade</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Bağımsızlık (DOĞRU ✔️):</strong> Dış baskılara, akran yönlendirmelerine ve popüler akımlara körü körüne kapılmadan, <strong>kendi öz iradesi, akıl ve değerleriyle hür karar alabilme ve sorumluluğunu taşıyabilme</strong> erdemidir.<br>\n• <strong>B) Merak:</strong> Bilgi arzusudur.<br>\n• <strong>C) Azim:</strong> Pes etmemektir.<br>\n• <strong>D) Kendine İnanma & E) Kendine Güvenme:</strong> Öz güven boyutudur; fakat grup baskısına direnip özerk karar verme doğrudan <strong>Bağımsızlık</strong> kavramıyla tanımlanır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Akran baskısına direnmek, hür iradeyle karar almak, sorumluluk üstlenmek\" ➔ <strong>Bağımsızlık</strong> eğilimidir.",
+    "question": "Bir öğrencinin grup baskısına ve arkadaşlarının yönlendirmelerine kapılmayıp kendi mantıksal gerekçelerine göre bir çalışma konusu seçmesi ve bu seçiminin getireceği sorumluluğu üstlenmesi hangi eğilim özelliğidir?"
   },
   {
     "id": "egitim_tymm3-q15",
@@ -73630,7 +73675,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Eğilimlerle ilgili;\n\nI. becerilerin eyleme geçirilmesini destekler,\nII. niyet, duyarlılık ve isteklilikle ilişkilidir,\nIII. benlik, sosyal ve entelektüel boyutlarda ele alınır\n\n<b>ifadelerinden hangileri doğrudur?</b>",
+    "questionText": "Eğilimlerle ilgili;\n\nI. Becerilerin eyleme geçirilmesini ve hayata aktarılmasını destekler.\nII. Niyet, duyarlılık ve isteklilik boyutlarıyla doğrudan ilişkilidir.\nIII. Uygun eğitim ortamları ve yaşantılarla geliştirilebilir ve güçlendirilebilir.\n\nifadelerinden hangisi ya da hangileri doğrudur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -73656,7 +73701,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Doğru Cevap: <strong>D</strong> (I, II ve III)<br><br>\n🎯 <strong>Doğru Cevabın Pedagojik Analizi:</strong><br>\n<b>Eğilimler</b> hakkında verilen üç öncül de Maarif Modeli'nin temel ilkeleridir: I. Becerilerin kuru bilgi olarak kalmayıp eyleme dönüştürülmesini destekler (Doğru); II. Bireyin niyet, duyarlılık ve isteklilik düzeyini yansıtır (Doğru); III. Benlik, sosyal ve entelektüel olmak üzere 3 boyutta ele alınır (Doğru).<br><br>\n❌ <strong>Çeldiricilerin Detaylı Analizi:</strong><br>\n• Herhangi bir öncülü dışarıda bırakan seçenekler eksiktir. Eğilimler olmadan beceriler pasif kalır.<br><br>\n💡 <strong>ÖSYM Sınav Tüyosu / Maarif Hap Notu:</strong><br>\nBeceriyi eyleme dönüştüren itici güç = <b>Eğilimler</b>dir. Boyutları: <i>Benlik + Sosyal + Entelektüel</i>.<br><br>📖 <strong>Resmî Ortak Metin Referansı:</strong> MEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.2. Fiziksel Beceriler & 1.4.1.3. Eğilimler (Benlik, Sosyal ve Entelektüel Eğilimler) (Kitap Sayfa: 21–24 / PDF Sayfa: 22–25)</em>"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (I, II ve III)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.2. Eğilimlerin Doğası ve İşlevi</em>.<br><br>\n🔍 <strong>Öncüllerin Analizi:</strong><br>\n• <strong>I. Öncül (Eğilimlerin İşlevi ✔️):</strong> Eğilimler becerinin motorudur; becerinin kuru bilgi olmaktan çıkıp eyleme dökülmesini tetikler.<br>\n• <strong>II. Öncül (İçsel Nitelik ✔️):</strong> Eğilimler bireyin niyetini, vicdani duyarlılığını ve bir eylemi yapmaya yönelik içsel istekliliğini ifade eder.<br>\n• <strong>III. Öncül (Geliştirilebilirlik ✔️):</strong> Eğilimler değiştirilemez kader değildir; öğretmen rehberliği, okul iklimi ve zenginleştirilmiş yaşantılarla beslenip geliştirilebilir.<br><br>\n• <strong>Seçenekler:</strong> Her üç öncül de (I, II ve III) modelin temel eğilim felsefesini doğru özetler.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nEğilimler ➔ <strong>Beceriyi tetikler, niyet ve istekliliktir, eğitimle geliştirilebilir</strong>!",
+    "question": "Eğilimlerle ilgili;\n\nI. Becerilerin eyleme geçirilmesini ve hayata aktarılmasını destekler.\nII. Niyet, duyarlılık ve isteklilik boyutlarıyla doğrudan ilişkilidir.\nIII. Uygun eğitim ortamları ve yaşantılarla geliştirilebilir ve güçlendirilebilir.\n\nifadelerinden hangisi ya da hangileri doğrudur?"
   },
   {
     "id": "anayasa1-q1",
@@ -89542,7 +89588,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II ve III)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Temel Yaklaşım ve 1.5. Ölçme-Değerlendirme Felsefesi</em>.<br><br>\n🔍 <strong>Öncüllerin ve Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>I. Öncül (Farklılaştırılmış Öğretim ✔️):</strong> Model, her öğrencinin öğrenme hızı ve ilgisinin farklı olduğunu kabul eder. Bireysel farklılıkları karşılamak üzere <strong>zenginleştirme</strong> (üst düzey öğrencilere derinleşme) ve <strong>destekleme</strong> (öğrenme güçlüğü çekenlere takviye) mekanizmalarıyla farklılaştırılmış öğretimi merkeze alır.<br>\n• <strong>II. Öncül (Süreç ve Durum Temelli Ölçme ✔️):</strong> Model, sadece yıl sonu tek bir sınavla not veren sonuç odaklı anlayışı reddeder. Öğrencinin gelişim sürecini izleyen, geri bildirim sağlayan <strong>süreç, biçimlendirici ve durum odaklı</strong> ölçme yaklaşımlarını zorunlu kılar.<br>\n• <strong>III. Öncül (Dijital Yetkinlik ve Hayat Boyu Öğrenme ✔️):</strong> Dijital Okuryazarlık (9 okuryazarlıktan biri) ve okul sonrası öğrenmenin devamını sağlayan hayat boyu öğrenme kültürü modelin temel vizyonudur.<br><br>\n• <strong>Seçenekler:</strong> Her üç öncül de (I, II ve III) modelin temel ilkeleri arasında eksiksiz yer aldığından doğru seçenek <strong>E</strong>'dir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Pedagojik Şifre:</strong><br>\nMaarif Modeli'nin 3 altın pedagojik sacayağı:<br>\n1. <strong>Öğretimde:</strong> Farklılaştırılmış Öğretim (Zenginleştirme & Destekleme)<br>\n2. <strong>Ölçmede:</strong> Süreç ve Durum Odaklılık (Biçimlendirici Değerlendirme)<br>\n3. <strong>Bireyde:</strong> Yetkin ve Erdemli İnsan (Bütüncül Gelişim)<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamız canlı yayında modelin temel felsefesini şöyle özetledi: <em>'Maarif Modeli tek tip, mekanik bir fabrika eğitimi değildir. Bireysel hızlara saygı duyan farklılaştırılmış öğretimi, süreç odaklı izlemeyi ve dijital çağın gerektirdiği hayat boyu öğrenme kültürünü esas alır.'</em>",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II ve III)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Temel Yaklaşım ve 1.5. Ölçme-Değerlendirme Felsefesi</em>.<br><br>\n🔍 <strong>Öncüllerin ve Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>I. Öncül (Farklılaştırılmış Öğretim ✔️):</strong> Model, her öğrencinin öğrenme hızı ve biçiminin farklı olduğunu kabul eder. Bireysel farklılıkları zenginleştirmek için <strong>zenginleştirme</strong> ve <strong>destekleme</strong> mekanizmalarıyla farklılaştırılmış öğretimi merkeze alır.<br>\n• <strong>II. Öncül (Süreç ve Durum Temelli Ölçme ✔️):</strong> Sadece sonuç odaklı tek tip sınavlar yerine, öğrencinin gelişimini sürekli izleyen biçimlendirici ve durum odaklı ölçme yaklaşımlarını zorunlu kılar.<br>\n• <strong>III. Öncül (Dijital Yetkinlik ve Hayat Boyu Öğrenme ✔️):</strong> Öğrencilerin çağın gerektirdiği dijital okuryazarlığa ve hayat boyu öğrenme kültürüne sahip olması modelin temel vizyonudur.<br><br>\n• <strong>Seçenekler:</strong> Her üç öncül de (I, II ve III) modelin ana sütunları olduğundan doğru yanıt <strong>E</strong> seçeneğidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Pedagojik Şifre:</strong><br>\nTYMM'nin 3 temel pedagojik sacayağı: <strong>Farklılaştırılmış Öğretim + Süreç Odaklı Ölçme + Hayat Boyu / Bütüncül Gelişim</strong>dir.",
     "question": "Türkiye Yüzyılı Maarif Modeli’ne göre;\n\nI. Farklılaştırılmış öğretim yaklaşımı benimsenmiştir.\nII. Süreç ve durum temelli ölçme ve değerlendirme yaklaşımlarına yer verilmiştir.\nIII. Dijital yetkinliğe ve hayat boyu öğrenme kültürüne sahip bireyler yetiştirmek hedeflenir.\n\nifadelerinden hangisi ya da hangileri doğrudur?"
   },
   {
@@ -89580,7 +89626,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Evrensel kabuller karşısında toplumsal ve kültürel değerleri tali değerler olarak kabul eden)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Yetkin ve Erdemli İnsan (Bilge Nesil)</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Modelin Özelliğidir):</strong> \"Etkin olarak medeniyet kurucusu ve geliştiricisi\" olmak, modelin tarihsel derinlik ve öz güven hedefini yansıtır.<br>\n• <strong>B Şıkkı (Modelin Özelliğidir):</strong> \"Eleştirel düşünebilen, sorgulayan, araştıran, mesuliyet ve ülkü sahibi\" olmak, ahlaki ve zihinsel olgunluğu ifade eder.<br>\n• <strong>C Şıkkı (Modelin Özelliğidir):</strong> \"Toplumu ve ülkesini imar eden\" üretken ve vatansever insan profilidir.<br>\n• <strong>D Şıkkı (Yanlış / Çeldirici ❌):</strong> Metinde <em>\"toplumsal ve kültürel değerleri tali (ikincil/önemsiz) görmek\"</em> denilmiştir. Oysa Maarif Modeli'nde millî, ahlaki ve insani değerler tali değil; <strong>asli, kurucu ve çatı değerlerdir</strong>. Değerlerini evrensel kültürün gerisine iten bir anlayış modele tamamen aykırıdır.<br>\n• <strong>E Şıkkı (Modelin Özelliğidir):</strong> \"Ahlaklı, erdemli, iyi, doğru ve faydalı olanı yapmayı ideal edinen\" birey yetkin ve erdemli insanın temel tanımıdır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Kelime Tuzağı:</strong><br>\nÖSYM sorularında <strong>\"tali\", \"ikincil\", \"ihmal edilebilir\"</strong> gibi değerleri küçümseyen ifadeler doğrudan yanlış şıktır. Maarif Modeli \"köklerden geleceğe\" uzanır; köklerini tali gören bir profil kabul edilemez!<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamız vurguladı: <em>'Modelimiz ne kendi kültürüne hapsolmuş içe kapanık ne de evrensellik adına kendi köklerini tali gören yozlaşmış bir nesil hedefler. Bilge nesil, millî köklerinden aldığı güçle evrensel medeniyet inşa eden nesildir.'</em>",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Evrensel kabuller karşısında toplumsal ve kültürel değerleri tali değerler olarak kabul eden)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Yetkin ve Erdemli İnsan (Bilge Nesil)</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Modelin Özelliği):</strong> Yetkin nesil sadece medeniyet tüketicisi değil; etkin medeniyet kurucusu ve geliştiricisidir.<br>\n• <strong>B Şıkkı (Modelin Özelliği):</strong> Eleştirel düşünen, sorgulayan, mesuliyet ve ülkü sahibi bireydir.<br>\n• <strong>C Şıkkı (Modelin Özelliği):</strong> Ülkesini ve toplumunu maddi-manevi imar eden bireydir.<br>\n• <strong>D Şıkkı (Yanlış / Çeldirici ❌):</strong> Metinde <em>\"toplumsal ve kültürel değerleri tali (ikincil/önemsiz) görmek\"</em> denilmiştir. Oysa Maarif Modeli'nde millî, ahlaki ve insani değerler tali değil; <strong>asli, kurucu ve çatı değerlerdir</strong>. Kendi köklerini tali gören bir anlayış Maarif Modeli ile kesinlikle bağdaşmaz.<br>\n• <strong>E Şıkkı (Modelin Özelliği):</strong> Erdemli, faydalı ve güzel olanı yapmayı ideal edinen insan profilidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Kelime Tuzağı:</strong><br>\nÖSYM ve MEB soru kalıplarında <strong>\"tali\", \"ikincil\", \"ihmal edilebilir\"</strong> gibi yerli ve kültürel değerleri küçümseyen kelimeler doğrudan yanlış çeldiricidir! Model <em>\"Köklerden Geleceğe\"</em> vizyonu taşır.",
     "question": "Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli çerçevesinde yetiştirilmesi amaçlanan bilge neslin özelliklerinden biri değildir?"
   },
   {
@@ -89618,7 +89664,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bireysel farklılıklar azaltılarak öğrencilerin istendik yönde yetişmeleri sağlanmaktadır.)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.2. Program Yapısı ve Farklılaştırılmış Öğretim İlkeleri</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Yeniliktir):</strong> Sonuç yerine süreç ve durum odaklı biçimlendirici değerlendirme getirilmiştir.<br>\n• <strong>B Şıkkı (Yeniliktir):</strong> Disiplinler üstü yaklaşımları destekleyen okul temelli ve program dışı etkinliklere yer verilmiştir.<br>\n• <strong>C Şıkkı (Yeniliktir):</strong> Öğrencinin edilgen alıcı değil, kendini inşa eden aktif özne olduğu yaşantılar öne çıkarılmıştır.<br>\n• <strong>D Şıkkı (Yanlış / Pedagojiye Aykırı ❌):</strong> Modelde <em>\"bireysel farklılıklar azaltılmaz\"</em>; aksine bireysel farklılıklar bir <strong>zenginlik</strong> olarak görülür ve korunur. Farklılaştırılmış öğretimin amacı öğrencileri tek tipleştirmek değil, her birinin kendi potansiyelini gerçekleştirmesini sağlamaktır.<br>\n• <strong>E Şıkkı (Yeniliktir):</strong> Sosyal duygusal öğrenme becerileri programın ayrılmaz bir bileşeni kılınmıştır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nGeleneksel eğitim öğrencileri aynı kalıba sokmaya çalışırken, çağdaş eğitim ve Maarif Modeli bireysel farklılıkları koruyup <strong>farklılaştırılmış öğretimle</strong> destekler. \"Farklılıkları azaltmak/törpülemek\" çağdaş eğitime aykırıdır!<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamızın uyarısı: <em>'Soru kökünde bireysel farklılıkların yok edilmesi, azaltılması veya herkesin aynı düzeye getirilmesi gibi ifadeler görürseniz hemen eleyin. Bireysel fark yok edilmez, zenginlik görülüp desteklenir.'</em>",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bireysel farklılıklar azaltılarak öğrencilerin istendik yönde yetişmeleri sağlanmaktadır.)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Temel Yaklaşım ve İlkeler</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Yeniliktir):</strong> Sonuç odaklı notlandırma yerine, biçimlendirici ve süreç odaklı ölçme getirilmiştir.<br>\n• <strong>B Şıkkı (Yeniliktir):</strong> Program dışı etkinlikler ve okul temelli planlama eğitim programına resmi bileşen olarak entegre edilmiştir.<br>\n• <strong>C Şıkkı (Yeniliktir):</strong> Öğrencinin edilgen alıcı değil, kendini inşa eden aktif özne olması sağlanmıştır.<br>\n• <strong>D Şıkkı (Yanlış / Çeldirici ❌):</strong> Çağdaş eğitimde ve TYMM'de <strong>\"bireysel farklılıkları azaltmak veya yok etmek\"</strong> asla amaçlanamaz! Bireysel farklılıklar zenginliktir; korunur, desteklenir ve farklılaştırılmış öğretimle derinleştirilir.<br>\n• <strong>E Şıkkı (Yeniliktir):</strong> Sosyal-Duygusal Öğrenme Becerileri (SDÖB) ilk kez programın omurgasına alınmıştır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Pedagojik Kural:</strong><br>\n\"Bireysel farklılıkları tek tipleştirmek, ortadan kaldırmak ya da azaltmak\" ifadesi pedagojik olarak her zaman yanlıştır.",
     "question": "Aşağıdakilerden hangisi “Türkiye Yüzyılı Maarif Modeli” ile eğitim programlarına entegre edilen yeniliklerden biri olarak gösterilemez?"
   },
   {
@@ -89630,7 +89676,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 4,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’ne göre, öğrenme-öğretme yaşantılarında benimsenen temel ilkelerden biri aşağıdakilerden hangisi olamaz?",
+    "questionText": "Bir okulun rehber öğretmeni öğrencilerin zihin gelişimlerinin yanı sıra beden ve duygu yönünden de gelişmelerinin önemli olduğunu her fırsatta dile getirmektedir. Ona göre bu doğrultuda bütüncül gelişme, kişinin hem kendisi hem de toplum açısından sağlıklı ve dengeli bir insan olması anlamına gelmektedir.\n\nBuna göre rehber öğretmenin önem gösterdiği bu özellikler Türkiye Yüzyılı Maarif Modeli’nin hangi ilkesine / bütünlük anlayışına işaret etmektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89656,8 +89702,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Öğrencilerin ezber yeteneklerini geliştirmeye ve bilgiyi doğrudan aktarmaya öncelik verilmesi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4. Beceriler Çerçevesi ve Öğrenme-Öğretme Süreçleri</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Doğru İlke):</strong> Öğrencinin aktif katılım sağladığı ve sorumluluk aldığı yapılandırmacı yaklaşımlar esastır.<br>\n• <strong>B Şıkkı (Doğru İlke):</strong> Bilginin beceriye, becerinin tutum ve eyleme dönüştürülmesi hedeflenir.<br>\n• <strong>C Şıkkı (Yanlış / Modele Zıt ❌):</strong> Maarif Modeli, bilgiyi doğrudan ezberleten ve öğrenciyi pasif kılan geleneksel yüklemeci anlayışı tamamen terk etmiştir. Amaç ezberletmek değil, <strong>kavramsal anlama, derinlemesine öğrenme ve eleştirel düşünme</strong> becerilerini kazandırmaktır.<br>\n• <strong>D Şıkkı (Doğru İlke):</strong> Gerçek yaşamla bağ kuran bağlam temelli öğrenme yaşantıları oluşturulur.<br>\n• <strong>E Şıkkı (Doğru İlke):</strong> Disiplinlerarası geçişkenlik ve beceri odaklı bütüncül öğrenme desteklenir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMaarif Modeli'nin sloganı: <strong>\"Daha az bilgi yükü, daha derin ve anlamlı öğrenme!\"</strong> Ezber ve doğrudan bilgi aktarımı modelin temel felsefesine zıttır.<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamızın anlatımı: <em>'TYMM bilgi hamallığına son veren bir modeldir. Müfredatlardaki %35'lik seyreltmenin temel sebebi de budur: Çocuklara bilgiyi ezberletmek değil, beceriyi hayata aktarmak!'</em>",
-    "question": "Türkiye Yüzyılı Maarif Modeli’ne göre, öğrenme-öğretme yaşantılarında benimsenen temel ilkelerden biri aşağıdakilerden hangisi olamaz?"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Ontolojik bütünlük)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Modelin Felsefi Temelleri (Ontolojik Yaklaşım)</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Bilimsel Bütünlük:</strong> Bilimsel bilgi dallarının birbirini tamamlamasıdır.<br>\n• <strong>B) Ontolojik Bütünlük (DOĞRU ✔️):</strong> Ontoloji <em>varlık felsefesi</em>dir. TYMM'de insanın <strong>zihin, beden, duygu, ruh ve ahlak</strong> boyutlarıyla bir bütün (organik bir varlık) olarak ele alınması <strong>ontolojik bütünlük</strong> kavramıyla açıklanır.<br>\n• <strong>C) Epistemolojik Bütünlük:</strong> Bilgi felsefesiyle ilgilidir; bilginin doğası, kaynağı ve geçerliliğidir.<br>\n• <strong>D) Zamansal Bütünlük:</strong> Geçmiş, şimdi ve gelecek arasındaki köprüdür (tarihsel süreklilik).<br>\n• <strong>E) Aksiyolojik Bütünlük:</strong> Değerler felsefesiyle ilgilidir (etik ve estetik değerlerin uyumu).<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n<strong>Zihin + Beden + Ruh/Duygu = Varlık = Ontolojik Bütünlük</strong>!<br>\nBilgi türleri ve geçerliliği = Epistemolojik.<br>\nErdemler ve ahlak = Aksiyolojik.",
+    "question": "Bir okulun rehber öğretmeni öğrencilerin zihin gelişimlerinin yanı sıra beden ve duygu yönünden de gelişmelerinin önemli olduğunu her fırsatta dile getirmektedir. Ona göre bu doğrultuda bütüncül gelişme, kişinin hem kendisi hem de toplum açısından sağlıklı ve dengeli bir insan olması anlamına gelmektedir.\n\nBuna göre rehber öğretmenin önem gösterdiği bu özellikler Türkiye Yüzyılı Maarif Modeli’nin hangi ilkesine / bütünlük anlayışına işaret etmektedir?"
   },
   {
     "id": "egitim_tymm6-q5",
@@ -89668,7 +89714,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 5,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde yer alan sosyal ve duygusal öğrenme becerileri (SDÖB) ile ilgili olarak aşağıdakilerden hangisi doğru bir yaklaşım değildir?",
+    "questionText": "Bir okulun Edebiyat öğretmeni edebi eserler üretebilmek için “dilin inceliklerini, söz sanatlarını ve iletişim becerilerini başarılı bir şekilde kullanmanın” gerekliliğini vurgulamıştır.\n\nEdebiyat öğretmeninin vurguladığı özellikler Türkiye Yüzyılı Maarif Modelinde yer alan yetkin ve erdemli insan profillerinden hangisine karşılık gelmektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89694,8 +89740,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Sosyal duygusal becerilerin yalnızca belirli bir ders saati içinde teorik olarak işlenmesi ve akademik süreçlerden tamamen yalıtılması)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.2. Sosyal-Duygusal Öğrenme Becerileri</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Doğru Yaklaşım):</strong> Benlik farkındalığı, öz yönetim, sosyal farkındalık ve ilişki becerilerini kapsar.<br>\n• <strong>B Şıkkı (Doğru Yaklaşım):</strong> Akademik öğrenme ile sosyal-duygusal gelişim birbirini destekleyen ayrılmaz parçalardır.<br>\n• <strong>C Şıkkı (Yanlış / Modele Aykırı ❌):</strong> SDÖB, müfredattan kopuk, sadece haftada 1 saat teorik anlatılan bir ders DEĞİLDİR. Modelde SDÖB, <strong>tüm derslerin ve okul ikliminin içine yedirilmiş (örtük ve entegre)</strong> bir yatay bileşendir.<br>\n• <strong>D Şıkkı (Doğru Yaklaşım):</strong> Öğrencilerin empatik düşünme, stresle başa çıkma ve sorumlu karar verme yeterliklerini artırır.<br>\n• <strong>E Şıkkı (Doğru Yaklaşım):</strong> Okul, aile ve toplum iş birliğini gerektiren ekosistem temelli bir yaklaşımdır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMaarif Modeli'nde değerler, eğilimler ve sosyal-duygusal beceriler <strong>ayrı bir ders konusu değil</strong>; matematik, fen, edebiyat dahil tüm derslerin doğal bir omurgasıdır.<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamız altını çizdi: <em>'Sosyal duygusal beceriler test çözülerek veya ayrı derste ezberletilerek kazandırılmaz. Öğrenme sürecinin bizzat içinde, grup çalışmalarında ve okul yaşamında deneyimlenir.'</em>",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde yer alan sosyal ve duygusal öğrenme becerileri (SDÖB) ile ilgili olarak aşağıdakilerden hangisi doğru bir yaklaşım değildir?"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Belagat sahibi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Bilge İnsan / Belagat Sahibi Birey</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Belagat Sahibi (DOĞRU ✔️):</strong> Belagat; sözü yerinde, güzel, etkili, dilin inceliklerine ve sanatlarına hakim biçimde söyleme sanatıdır. Edebiyat öğretmeninin vurguladığı söz sanatları ve dil incelikleri doğrudan <strong>belagat sahibi</strong> insan profilidir.<br>\n• <strong>B) Estetik Duyarlılık Sahibi:</strong> Güzeli takdir etme ve çevreye estetik bakabilmedir.<br>\n• <strong>C) İletişime ve Dayanışmaya Açık:</strong> Sosyal ilişkileri ve iş birliğini güçlendiren profildir.<br>\n• <strong>D) Sanatsal Yeteneklerini Bilen:</strong> Sanat icra etme yeteneğidir.<br>\n• <strong>E) Millî Kültüre Bağlı:</strong> Vatansever ve köklerine bağlı insan profilidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Kavram Eşleştirmesi:</strong><br>\n<strong>Dilin incelikleri + Söz sanatları + Etkili ve güzel hitabet = Belagat Sahibi</strong>!",
+    "question": "Bir okulun Edebiyat öğretmeni edebi eserler üretebilmek için “dilin inceliklerini, söz sanatlarını ve iletişim becerilerini başarılı bir şekilde kullanmanın” gerekliliğini vurgulamıştır.\n\nEdebiyat öğretmeninin vurguladığı özellikler Türkiye Yüzyılı Maarif Modelinde yer alan yetkin ve erdemli insan profillerinden hangisine karşılık gelmektedir?"
   },
   {
     "id": "egitim_tymm6-q6",
@@ -89706,7 +89752,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 6,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nin Erdem – Değer – Eylem Çerçevesi'nde yer alan Çatı Değerler arasında;\n\nI. Adalet\nII. Hikmet\nIII. Merhamet\n\nverilenlerden hangisi veya hangileri yer almaktadır?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeline yönelik düzenlenen bir eğitim etkinliğinde konuşan eğitmen yetkin ve erdemli insan profillerinden bahsederken “üretken” profilin özelliklerini sıralamıştır.\n\nBuna göre aşağıda yer alan ifadelerden hangisi konuşmacının sıraladığı “üretken” insan profilinin özelliklerini içermektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89732,8 +89778,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II ve III)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.4. Erdem-Değer-Eylem Çerçevesi</em>.<br><br>\n🔍 <strong>Öncüllerin Detaylı Analizi:</strong><br>\nMaarif Modeli'nde değerler hiyerarşisinin en tepesinde <strong>3 büyük Çatı Değer</strong> bulunur:<br>\n• <strong>I. Adalet (Çatı Değer ✔️):</strong> Hakkaniyet, eşitlik, dürüstlük, emanet bilinci ve tarafsızlık erdemlerini çatısı altında toplar.<br>\n• <strong>II. Hikmet (Çatı Değer ✔️):</strong> Bilgelik, muhakeme yetisi, basiret, sağduyu ve hakikati arama erdemlerini kapsar.<br>\n• <strong>III. Merhamet (Çatı Değer ✔️):</strong> Sevgi, şefkat, affedicilik, diğerkamlık (özgecilik) ve yardımlaşma erdemlerini kapsar.<br><br>\n• <strong>Sonuç:</strong> Her üç değer de modelin resmi çatı değerleridir (I, II ve III).<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Altın Kodlama:</strong><br>\nModelin 3 Çatı Değerini <strong>\"AHM\"</strong> veya <strong>\"HAM\"</strong> diye kodlayabilirsiniz:<br>\n<strong>H</strong>ikmet + <strong>A</strong>dalet + <strong>M</strong>erhamet.<br>\nBu üçü dışındaki tüm değerler bu çatı değerlerin altında kümelenen alt değerlerdir!<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamız tahtaya çizdi: <em>'Değerler piramidimizin en tepesinde 3 büyük kubbe vardır: Adalet, Hikmet ve Merhamet. Sınavda Çatı Değer sorulduğunda bu üçlüden başkasına bakmayın!'</em>",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nin Erdem – Değer – Eylem Çerçevesi'nde yer alan Çatı Değerler arasında;\n\nI. Adalet\nII. Hikmet\nIII. Merhamet\n\nverilenlerden hangisi veya hangileri yer almaktadır?"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Çalışkan, yaratıcı, azimli ve sabırlı)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.3. Öğrenci Profili: Üretken Birey</em>.<br><br>\n🔍 <strong>Öğrenci Profili Eşleştirmeleri:</strong><br>\n• <strong>A) Çalışkan, yaratıcı, azimli ve sabırlı (DOĞRU ✔️):</strong> Model metninde <strong>\"Üretken İnsan\"</strong> tam olarak bu dört erdemle tanımlanmıştır.<br>\n• <strong>B) Kendine güvenen, sorumluluk alan, kararlı:</strong> \"Cesur / Girişimci\" profilidir.<br>\n• <strong>C) Güvenilir, dürüst, tabiata ve sorunlara duyarlı:</strong> \"Ahlaklı / Çevreye Duyarlı\" profilidir.<br>\n• <strong>D) Belagat sahibi, bağımsız ve özgür düşünen:</strong> \"Bilge / Entelektüel\" profilidir.<br>\n• <strong>E) Türkçeye sahip çıkan, bayrağını seven:</strong> \"Vatansever\" profilidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Pedagojik Şifre:</strong><br>\nÜretim için ne gerekir? <strong>Çalışkanlık + Yaratıcılık + Azim + Sabır</strong>! Bu dörtlü <strong>Üretken Profil</strong>in şifresidir.",
+    "question": "Türkiye Yüzyılı Maarif Modeline yönelik düzenlenen bir eğitim etkinliğinde konuşan eğitmen yetkin ve erdemli insan profillerinden bahsederken “üretken” profilin özelliklerini sıralamıştır.\n\nBuna göre aşağıda yer alan ifadelerden hangisi konuşmacının sıraladığı “üretken” insan profilinin özelliklerini içermektedir?"
   },
   {
     "id": "egitim_tymm6-q7",
@@ -89744,7 +89790,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 7,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde öğrencilerin becerilerini geliştirebilmeleri ve eyleme geçirebilmeleri için öğretim programlarında temel bileşenlerden biri olarak kabul edilen; öğrencilerin öğrenmeye karşı içsel motivasyonlarını ve kararlılıklarını artıran kavram aşağıdakilerden hangisidir?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde öğrencilerin becerilerini geliştirebilmeleri ve eyleme geçirebilmeleri için öğretim programlarında temel bileşenlerden biri olarak yer alan eğilimler;\n• benlik eğilimleri,\n• sosyal eğilimler ve\n• entelektüel eğilimler\nşeklinde sınıflandırılmıştır.\n\nBuna göre aşağıdakilerden hangisi sosyal eğilimler başlığı altında sınıflandırılan alanlardan biridir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89770,8 +89816,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Tutum)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4. Beceriler, Eğilimler ve Tutumlar Ağı</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Yetkinlik:</strong> Bilgi, beceri ve değerlerin birleşerek karmaşık durumlarda başarıyla sergilenmesidir (nihai sonuçtur).<br>\n• <strong>B) Tutum (DOĞRU ✔️):</strong> Bireyin bir duruma, nesneye veya öğrenme eylemine karşı olumlu/olumsuz içsel yatkınlığı, motivasyonu ve duygusal hazırbulunuşluğudur. Becerinin eyleme dönüşmesindeki içsel itici güçtür.<br>\n• <strong>C) Beceri:</strong> Bir işi ustalıkla ve amaca uygun yapabilme zihinsel/fiziksel yeteneğidir.<br>\n• <strong>D) Erdem:</strong> Ahlaki açıdan övgüye değer sürekli karakter özelliğidir.<br>\n• <strong>E) Eylem:</strong> Becerinin ve değerin dış dünyada somut davranışa dönüşmüş halidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nÖğrenmede <strong>\"içsel motivasyon, yatkınlık, öğrenmeye istekli olma ve kararlılık\"</strong> anahtar kelimeleri doğrudan <strong>Tutum</strong> boyutunu ifade eder.<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamızın formülü: <em>Bilgi + Beceri tek başına yetmez. Öğrencinin o işi yapmaya yönelik olumlu bir <strong>Tutumu</strong> yoksa eylem gerçekleşmez. Tutum eylemin motorudur.</em>",
-    "question": "Türkiye Yüzyılı Maarif Modeli'nde öğrencilerin becerilerini geliştirebilmeleri ve eyleme geçirebilmeleri için öğretim programlarında temel bileşenlerden biri olarak kabul edilen; öğrencilerin öğrenmeye karşı içsel motivasyonlarını ve kararlılıklarını artıran kavram aşağıdakilerden hangisidir?"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Sorumluluk)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Eğilimler Tablosu (Bileşen 2)</em>.<br><br>\n🔍 <strong>Eğilimlerin Sınıflandırılması:</strong><br>\n• <strong>1. Benlik Eğilimleri:</strong> Öz güven, öz saygı, <strong>bağımsızlık</strong>, <strong>azim ve kararlılık</strong>, sabır, cesaret.<br>\n• <strong>2. Sosyal Eğilimler:</strong> <strong>Sorumluluk</strong>, iş birliği, empati, sosyal duyarlılık, paylaşımcılık.<br>\n• <strong>3. Entelektüel Eğilimler:</strong> <strong>Analitiklik</strong>, <strong>sistematiklik</strong>, merak, açık fikirlilik, oyunseverlik.<br><br>\n• <strong>Seçenek Analizi:</strong> A ve D seçenekleri <em>entelektüel</em>, C ve E seçenekleri <em>benlik</em> eğilimidir. <strong>Sorumluluk (B)</strong> ise doğrudan toplumsal ilişki gerektiren bir <strong>sosyal eğilim</strong>dir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nİçsel/Kişisel özellikler ➔ <strong>Benlik</strong> (Azim, Bağımsızlık).<br>\nBaşkalarıyla ve toplumla kurulan bağ ➔ <strong>Sosyal</strong> (Sorumluluk, İş birliği).<br>\nZihinsel/Fikri tarz ➔ <strong>Entelektüel</strong> (Analitiklik, Sistematiklik, Açık Fikirlilik).",
+    "question": "Türkiye Yüzyılı Maarif Modeli'nde öğrencilerin becerilerini geliştirebilmeleri ve eyleme geçirebilmeleri için öğretim programlarında temel bileşenlerden biri olarak yer alan eğilimler;\n• benlik eğilimleri,\n• sosyal eğilimler ve\n• entelektüel eğilimler\nşeklinde sınıflandırılmıştır.\n\nBuna göre aşağıdakilerden hangisi sosyal eğilimler başlığı altında sınıflandırılan alanlardan biridir?"
   },
   {
     "id": "egitim_tymm6-q8",
@@ -89782,7 +89828,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 8,
-    "questionText": "Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli'nde tanımlanan okuryazarlık türleri arasında doğrudan yer almaktadır?",
+    "questionText": "Bir felsefe öğretmeni öğrencilerden planlama ve zaman yönetimine dikkat etmelerini, güvenilir bilgi kaynaklarını kullanmalarını ve tüm süreç boyunca aktif olarak sorumluluk almalarını istemektedir.\n\nBuna göre felsefe öğretmeninin öğrencilerde geliştirmeyi amaçladığı sosyal–duygusal öğrenme becerisi aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89808,8 +89854,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Sistem Okuryazarlığı)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.3. Okuryazarlık Becerileri (9 Okuryazarlık Türü)</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi ve 9 Okuryazarlık Matrisi:</strong><br>\nMaarif Modeli'nde 9 temel okuryazarlık becerisi tanımlanmıştır:<br>\n1. <strong>Bilgi Okuryazarlığı</strong><br>\n2. <strong>Dijital Okuryazarlık</strong><br>\n3. <strong>Finansal Okuryazarlık</strong><br>\n4. <strong>Görsel Okuryazarlık</strong><br>\n5. <strong>Kültür Okuryazarlığı</strong><br>\n6. <strong>Vatandaşlık Okuryazarlığı</strong><br>\n7. <strong>Bilim Okuryazarlığı</strong><br>\n8. <strong>Sanat Okuryazarlığı</strong><br>\n9. <strong>Sürdürülebilirlik Okuryazarlığı</strong> (ve bununla entegre <strong>Sistem Okuryazarlığı</strong> boyutu).<br><br>\n• Seçeneklerdeki uydurma veya eski kavramlar (sınav okuryazarlığı, test okuryazarlığı vb.) modelde yer almaz. Olayları ve ilişkileri bir bütün olarak görebilme yeterliği <strong>Sistem / Sürdürülebilirlik Okuryazarlığı</strong> çerçevesindedir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nTYMM'nin 9 Okuryazarlığını mutlaka ezberleyin: <em>Bilgi, Dijital, Finans, Görsel, Kültür, Vatandaşlık, Bilim, Sanat, Sürdürülebilirlik</em>!",
-    "question": "Aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli'nde tanımlanan okuryazarlık türleri arasında doğrudan yer almaktadır?"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Öz düzenleme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Sosyal-Duygusal Öğrenme Becerileri (SDÖB)</em>.<br><br>\n🔍 <strong>SDÖB Boyutlarının Analizi:</strong><br>\n• <strong>A) İletişim:</strong> Duygu ve düşünceleri etkili aktarma ve dinlemedir.<br>\n• <strong>B) Öz Farkındalık:</strong> Kendi duygularını, güçlü ve zayıf yönlerini bilmektir.<br>\n• <strong>C) Öz Düzenleme (DOĞRU ✔️):</strong> Bireyin kendi davranışlarını, zamanını, hedeflerini, kaynaklarını ve çalışma stratejilerini <strong>planlayıp yönetmesi ve kontrol etmesi</strong> sürecidir.<br>\n• <strong>D) Sosyal Farkındalık:</strong> Başkalarının duygularını anlama (empati) ve toplumsal kuralların farkında olmadır.<br>\n• <strong>E) Sorumlu Karar Verme:</strong> Etik kurallara ve sonuçlara göre seçim yapabilmedir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n<strong>\"Planlama + Zaman Yönetimi + Süreci Yönetme/Yönlendirme\" = Öz Düzenleme</strong>!",
+    "question": "Bir felsefe öğretmeni öğrencilerden planlama ve zaman yönetimine dikkat etmelerini, güvenilir bilgi kaynaklarını kullanmalarını ve tüm süreç boyunca aktif olarak sorumluluk almalarını istemektedir.\n\nBuna göre felsefe öğretmeninin öğrencilerde geliştirmeyi amaçladığı sosyal–duygusal öğrenme becerisi aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm6-q9",
@@ -89820,7 +89866,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 9,
-    "questionText": "Bir öğretmen, Türkiye Yüzyılı Maarif Modeli çerçevesinde öğrencilerinin; kendi hak ve özgürlüklerini koruma, sorumluluklarının bilincinde olma, tüm canlıların yaşam haklarına saygı duyma ve sınırlı kaynakları koruma bilgi, beceri ve yeterliliğine sahip olmalarını hedeflemektedir.\n\nBu öğretmenin öğrencilerine kazandırmak istediği okuryazarlık türleri aşağıdakilerin hangisinde birlikte verilmiştir?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde eğitim; yalnızca bireyin bilişsel gelişimini önceleyen bir süreç olarak değil, bireyin insanlık ailesi içinde konumlanmasını, değer üretmesini ve sorumluluk bilinci geliştirmesini amaçlayan bütüncül bir yapı olarak ele alınmaktadır. Bu bağlamda bilgi, salt aktarılması gereken bir içerik olmaktan çıkarak, bireyin topluma ve insanlığa karşı yükümlülüklerini yerine getirmesinde işlevsel bir araç olarak kabul edilmektedir.\n\nBuna göre Türkiye Yüzyılı Maarif Modeli’nin bilgi anlayışını en doğru biçimde yansıtan ifade aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89846,8 +89892,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Sürdürülebilirlik Okuryazarlığı – Vatandaşlık Okuryazarlığı)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Okuryazarlık Becerileri Kılavuzu</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>Vatandaşlık Okuryazarlığı:</strong> \"Kendi hak ve özgürlüklerini koruma, sorumluluklarının bilincinde olma, toplumsal kurallara ve birlikte yaşama ahlakına uyma\" yeterliğidir.<br>\n• <strong>Sürdürülebilirlik Okuryazarlığı:</strong> \"Sınırlı doğal kaynakları koruma, tüm canlıların yaşam hakkına saygı duyma, çevre ve gelecek nesillere aktarım bilinci\" taşımaktır.<br>\n• <strong>A Şıkkı (DOĞRU ✔️):</strong> Soruda verilen iki hedef doğrudan <strong>Vatandaşlık ve Sürdürülebilirlik</strong> okuryazarlıklarının birebir tanımıdır.<br>\n• <strong>B, C, D, E Şıkları:</strong> Finansal (para yönetimi), Dijital (teknoloji/siber güvenlik), Sanat (estetik/tasarım) ve Bilim okuryazarlığı bu sorudaki anahtar kavramları kapsamaz.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n• <em>Hak, sorumluluk, özgürlük, vatandaşlık bilinci</em> ➔ <strong>Vatandaşlık Okuryazarlığı</strong>.<br>\n• <em>Kaynakların korunması, canlı yaşamı, çevre, ekoloji</em> ➔ <strong>Sürdürülebilirlik Okuryazarlığı</strong>.<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamız soru üzerinde gösterdi: <em>'Öncüldeki iki ayrımı çok net yakalayın: Hak ve sorumluluk bilinci = Vatandaşlık; kaynakların tasarrufu ve canlı hakları = Sürdürülebilirlik. Bu ikisi birleştiğinde doğru cevap A seçeneğidir.'</em>",
-    "question": "Bir öğretmen, Türkiye Yüzyılı Maarif Modeli çerçevesinde öğrencilerinin; kendi hak ve özgürlüklerini koruma, sorumluluklarının bilincinde olma, tüm canlıların yaşam haklarına saygı duyma ve sınırlı kaynakları koruma bilgi, beceri ve yeterliliğine sahip olmalarını hedeflemektedir.\n\nBu öğretmenin öğrencilerine kazandırmak istediği okuryazarlık türleri aşağıdakilerin hangisinde birlikte verilmiştir?"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bilginin, sorumluluk bilinciyle bütünleşerek insanın dengeli gelişimine ve toplumsal katkısına yönelmesi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Temel Yaklaşım: Bilgi ve Hikmet Anlayışı</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Eksik / Yanlış):</strong> Bilgi sadece bireysel başarı ve sınav derecesi için araç olamaz.<br>\n• <strong>B Şıkkı (Yanlış):</strong> Model disiplin temelli ayrışmayı değil, disiplinlerarası ve bütüncül bilgiyi savunur.<br>\n• <strong>C Şıkkı (Yanlış):</strong> Bilgi sadece geleneksel yöntemlerle aktarılmaz; sorgulanarak ve yapılandırılarak üretilir.<br>\n• <strong>D Şıkkı (DOĞRU ✔️):</strong> Modelde bilgi; <strong>sorumluluk, ahlak ve erdemle harmanlanarak</strong> hem insanın dengeli (ontolojik) gelişimine hem de insanlığa ve topluma fayda üretmesine yönelir.<br>\n• <strong>E Şıkkı (Yanlış):</strong> Bilgiyi mekanik ezber ve denetim aracı gören pozitivist/davranışçı anlayıştır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nTYMM'de bilgi kuru malumat değildir; <strong>sorumlulukla birleşen ve eyleme dönüşen hikmet</strong>tir!",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde eğitim; yalnızca bireyin bilişsel gelişimini önceleyen bir süreç olarak değil, bireyin insanlık ailesi içinde konumlanmasını, değer üretmesini ve sorumluluk bilinci geliştirmesini amaçlayan bütüncül bir yapı olarak ele alınmaktadır. Bu bağlamda bilgi, salt aktarılması gereken bir içerik olmaktan çıkarak, bireyin topluma ve insanlığa karşı yükümlülüklerini yerine getirmesinde işlevsel bir araç olarak kabul edilmektedir.\n\nBuna göre Türkiye Yüzyılı Maarif Modeli’nin bilgi anlayışını en doğru biçimde yansıtan ifade aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm6-q10",
@@ -89858,7 +89904,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 10,
-    "questionText": "Sosyal-Duygusal Öğrenme Becerileri tablosunda yer alan;\n\n| Sosyal Yaşam Becerileri | Ortak Beceriler |\n| :--- | :--- |\n| • İletişim | • Uyum |\n| • Sorumlu Karar Verme | • Esneklik |\n| • Sosyal Farkındalık | • İş Birliği |\n\nTablonun doğru olabilmesi için hangi iki becerinin birbiriyle yer değiştirmesi gerekir?",
+    "questionText": "• Çeşitli olay/konu/durumları araştırma ve aralarındaki özellikleri ilişkilendirip genişleterek yargıya varma\n• Nesne, olgu ve olayları, gözlem ya da ölçme sonucunda belirlenen özelliklerine ve birbirleriyle ilişkilerine göre gruplara ayırma\n• Birden fazla kavram veya durum arasındaki benzerlik ve farklılıkların belirlenmesi\n• Herhangi bir duruma ilişkin farkında olma, anlamlı sorular sorma, bilgi edinme ve bunları değerlendirme süreci\n\nYukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan bütünleşik beceri alanları ile eşleştirildiğinde hangi bütünleşik beceri alanı dışarıda kalır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89884,8 +89930,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ <strong>Doğru Cevap: B</strong> (İş Birliği ile Sorumlu Karar Verme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.2. Sosyal-Duygusal Öğrenme Becerileri Matrisi</em>.<br><br>\n🔍 <strong>Becerilerin Doğru Sınıflandırması:</strong><br>\n• <strong>Sosyal Yaşam Becerileri (Başkalarıyla kurulan doğrudan sosyal etkileşim):</strong><br>\n  1. İletişim<br>\n  2. <strong>İş Birliği</strong> (Birlikte çalışma, takım ruhu)<br>\n  3. Sosyal Farkındalık (Empati ve başkalarını anlama)<br><br>\n• <strong>Ortak / Bütünleştirici Beceriler (Bireyin durumlar karşısındaki denge ve muhakemesi):</strong><br>\n  1. Uyum (Değişen koşullara uyum sağlama)<br>\n  2. Esneklik (Yeni durumlara esneyebilme)<br>\n  3. <strong>Sorumlu Karar Verme</strong> (Etik ve mantıklı seçimler yapma)<br><br>\n• <strong>Hata ve Çözüm:</strong> Tabloda <strong>\"İş Birliği\"</strong> Sosyal Yaşam sütununda olmalıyken Ortak Beceriler'e yazılmış; <strong>\"Sorumlu Karar Verme\"</strong> ise Ortak Beceriler'de olmalıyken Sosyal Yaşam'a yazılmıştır. Dolayısıyla bu iki kavram yer değiştirmelidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nİş birliği doğrudan sosyal bir ortaklıktır ➔ <strong>Sosyal Yaşam Becerisi</strong>.<br>\nKarar verme zihinsel ve etik bir süreçtir ➔ <strong>Ortak / Bütünleştirici Beceri</strong>.<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamızın canlı yayında çözdüğü meşhur tablo sorusu: <em>'Sosyal yaşam başkası olmadan olmaz: İletişim, İş birliği ve Sosyal Farkındalık. Ortak beceriler ise adaptasyon ve muhakemedir: Uyum, Esneklik ve Sorumlu Karar Verme. İş birliği ile Sorumlu Karar Verme takas edilmelidir!'</em>",
-    "question": "Sosyal-Duygusal Öğrenme Becerileri tablosunda yer alan;\n\n| Sosyal Yaşam Becerileri | Ortak Beceriler |\n| :--- | :--- |\n| • İletişim | • Uyum |\n| • Sorumlu Karar Verme | • Esneklik |\n| • Sosyal Farkındalık | • İş Birliği |\n\nTablonun doğru olabilmesi için hangi iki becerinin birbiriyle yer değiştirmesi gerekir?"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Muhakeme becerisi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Bütünleşik Beceriler Kılavuzu (KB2)</em>.<br><br>\n🔍 <strong>Öncüller ile Becerilerin Birebir Eşleşmesi:</strong><br>\n1. <em>\"İlişkilendirip genişleterek yargıya varma\"</em> ➔ <strong>A) Genelleme Becerisi</strong>.<br>\n2. <em>\"Özelliklerine ve ilişkilerine göre gruplara ayırma\"</em> ➔ <strong>E) Sınıflandırma Becerisi</strong>.<br>\n3. <em>\"Benzerlik ve farklılıkları belirleme\"</em> ➔ <strong>D) Karşılaştırma Becerisi</strong>.<br>\n4. <em>\"Anlamlı sorular sorma, bilgi edinme ve değerlendirme\"</em> ➔ <strong>C) Sorgulama Becerisi</strong>.<br><br>\n• <strong>Dışarıda Kalan:</strong> <strong>B) Muhakeme Becerisi</strong> (Akıl yürütme, gerekçelendirme ve mantıksal çıkarım yapma) öncüllerde tanımlanmamıştır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Pedagojik Şifre:</strong><br>\nGenişletme ➔ Genelleme | Gruplama ➔ Sınıflandırma | Benzerlik/Farklılık ➔ Karşılaştırma | Soru Sorma ➔ Sorgulama!",
+    "question": "• Çeşitli olay/konu/durumları araştırma ve aralarındaki özellikleri ilişkilendirip genişleterek yargıya varma\n• Nesne, olgu ve olayları, gözlem ya da ölçme sonucunda belirlenen özelliklerine ve birbirleriyle ilişkilerine göre gruplara ayırma\n• Birden fazla kavram veya durum arasındaki benzerlik ve farklılıkların belirlenmesi\n• Herhangi bir duruma ilişkin farkında olma, anlamlı sorular sorma, bilgi edinme ve bunları değerlendirme süreci\n\nYukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan bütünleşik beceri alanları ile eşleştirildiğinde hangi bütünleşik beceri alanı dışarıda kalır?"
   },
   {
     "id": "egitim_tymm6-q11",
@@ -89896,7 +89942,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 11,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde yer alan Kavramsal Beceriler sınıflamasında; “Karar Verme”, “Eleştirel Düşünme” ve “Problem Çözme” becerileri hangi kategori altında yer almaktadır?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde yer alan kavramsal beceriler; karmaşık bir süreç gerektirmeden edinilen ve gözlenebilen temel beceriler ile soyut fikirleri ve karmaşık süreçleri eyleme dönüştürürken zihinsel faaliyetlerin bir ürünü olarak işe koşulan bütünleşik ve üst düzey düşünme becerilerini ifade eder. Aralarında herhangi bir aşamalılık ilişkisi bulunmayan temel ve bütünleşik beceriler, üst düzey düşünme becerilerinin hayata geçirilmesindeki alt yapıyı oluşturmaktadır.\n\nBuna göre Türkiye Yüzyılı Maarif Modeli’nde ele alınan üst düzey düşünme becerileri hangi seçenekte doğru olarak sıralanmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89922,8 +89968,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Üst Düzey Düşünme Becerileri)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.1. Kavramsal Beceriler Çerçevesi</em>.<br><br>\n🔍 <strong>Kavramsal Becerilerin 3 Aşamalı Yapısı:</strong><br>\n1. <strong>Temel Düşünme Becerileri (KB1):</strong> Sayma, eşleştirme, tanımlama, listeleme, hatırlama.<br>\n2. <strong>Bütünleşik Düşünme Becerileri (KB2):</strong> Karşılaştırma, sınıflandırma, çözümleme (analiz), sentezleme, ilişkilendirme.<br>\n3. <strong>Üst Düzey Düşünme Becerileri (KB3 - KAP):</strong><br>\n   • <strong>K</strong>arar Verme<br>\n   • <strong>A</strong>kıl Yürütme / <strong>E</strong>leştirel Düşünme<br>\n   • <strong>P</strong>roblem Çözme<br><br>\n• <strong>Seçeneklerin Analizi:</strong> Soruda verilen Karar Verme, Eleştirel Düşünme ve Problem Çözme üçlüsü doğrudan <strong>Üst Düzey Düşünme Becerileri</strong> kategorisindedir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Süper Kodlama:</strong><br>\nÜst düzey kavramsal becerileri <strong>\"K-E-P\"</strong> veya <strong>\"K-A-P\"</strong> formülüyle kodlayın:<br>\n<strong>K</strong>arar Verme + <strong>E</strong>leştirel Düşünme + <strong>P</strong>roblem Çözme = <strong>Üst Düzey Beceriler</strong>!",
-    "question": "Türkiye Yüzyılı Maarif Modeli'nde yer alan Kavramsal Beceriler sınıflamasında; “Karar Verme”, “Eleştirel Düşünme” ve “Problem Çözme” becerileri hangi kategori altında yer almaktadır?"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Karar verme becerisi, problem çözme becerisi ve eleştirel düşünme becerisi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Kavramsal Beceriler (KB3: Üst Düzey Düşünme Becerileri)</em>.<br><br>\n🔍 <strong>Kavramsal Beceriler Hiyerarşisi:</strong><br>\n• <strong>KB1 (Temel Beceriler):</strong> Bilgi toplama, kaydetme, gözlem vb.<br>\n• <strong>KB2 (Bütünleşik Beceriler):</strong> Karşılaştırma, sınıflandırma, sorgulama, muhakeme, genelleme vb.<br>\n• <strong>KB3 (Üst Düzey Düşünme Becerileri):</strong> Modelde yalnızca 3 tanedir:<br>\n1. <strong>Karar Verme Becerisi</strong><br>\n2. <strong>Eleştirel Düşünme Becerisi</strong><br>\n3. <strong>Problem Çözme Becerisi</strong><br><br>\n💡 <strong>EKYS Sınav Tüyosu / Altın Akrostiş:</strong><br>\nÜst düzey düşünme becerilerini <strong>KEP</strong> (veya <strong>CAP</strong>) formülüyle kodlayın:<br>\n<strong>K</strong>arar verme + <strong>E</strong>leştirel düşünme + <strong>P</strong>roblem çözme!",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde yer alan kavramsal beceriler; karmaşık bir süreç gerektirmeden edinilen ve gözlenebilen temel beceriler ile soyut fikirleri ve karmaşık süreçleri eyleme dönüştürürken zihinsel faaliyetlerin bir ürünü olarak işe koşulan bütünleşik ve üst düzey düşünme becerilerini ifade eder. Aralarında herhangi bir aşamalılık ilişkisi bulunmayan temel ve bütünleşik beceriler, üst düzey düşünme becerilerinin hayata geçirilmesindeki alt yapıyı oluşturmaktadır.\n\nBuna göre Türkiye Yüzyılı Maarif Modeli’nde ele alınan üst düzey düşünme becerileri hangi seçenekte doğru olarak sıralanmıştır?"
   },
   {
     "id": "egitim_tymm6-q12",
@@ -89934,7 +89980,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 12,
-    "questionText": "Bir öğrencinin karşılaştığı bir bilgiyi ya da iddiayı peşinen doğru kabul etmeyip; dayanaklarını, delillerini ve mantıksal geçerliliğini tarafsızca sorgulayarak yargıya varması, Türkiye Yüzyılı Maarif Modeli'nde hangi kavramsal beceri ile açıklanır?",
+    "questionText": "I. Bağımsızlık\nII. Oyunseverlik\nIII. Azim ve Kararlılık\n\nYukarıda yer alan eğilimlerden hangisi ya da hangileri Türkiye Yüzyılı Maarif Modeli’nde yer alan “benlik eğilimleri” kapsamında ele alınabilir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89960,8 +90006,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Eleştirel Düşünme Becerisi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>KB3.2. Eleştirel Düşünme</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Yaratıcı Düşünme:</strong> Özgün, sıra dışı ve yeni ürün veya fikir üretmektir.<br>\n• <strong>B) Problem Çözme:</strong> Bir engeli aşmak için amaca yönelik adımları uygulamaktır.<br>\n• <strong>C) Eleştirel Düşünme (DOĞRU ✔️):</strong> Bilgiyi körü körüne kabul etmeyip kanıt arama, varsayımları sorgulama, mantıksal tutarlılığı ve önyargıları denetleme becerisidir.<br>\n• <strong>D) Karar Verme:</strong> Seçenekler arasından en uygun olanı tercih etmektir.<br>\n• <strong>E) Sınıflandırma:</strong> Nesneleri benzer özelliklerine göre gruplandırmaktır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nSoruda <strong>\"delil arama, kanıt sorgulama, önyargılardan arınma ve mantıksal tutarlılık denetimi\"</strong> vurgusu varsa cevap tereddütsüz <strong>Eleştirel Düşünme</strong>dir.",
-    "question": "Bir öğrencinin karşılaştığı bir bilgiyi ya da iddiayı peşinen doğru kabul etmeyip; dayanaklarını, delillerini ve mantıksal geçerliliğini tarafsızca sorgulayarak yargıya varması, Türkiye Yüzyılı Maarif Modeli'nde hangi kavramsal beceri ile açıklanır?"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (I ve III)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Eğilimler Tablosu (Benlik vs. Entelektüel Eğilimler)</em>.<br><br>\n🔍 <strong>Öncüllerin Analizi:</strong><br>\n• <strong>I. Bağımsızlık (BENLİK ✔️):</strong> Bireyin dış baskılardan bağımsız, kendi iradesiyle duruş sergileyebilmesidir; benlik eğilimidir.<br>\n• <strong>II. Oyunseverlik (ENTELEKTÜEL ❌):</strong> TYMM'de <em>öğrenme sürecini eğlenceli ve keyifli hale getirme, zihinsel oyunlar kurma</em> özelliği <strong>Entelektüel Eğilimler</strong> başlığı altındadır.<br>\n• <strong>III. Azim ve Kararlılık (BENLİK ✔️):</strong> Zorluklar karşısında vazgeçmeme benlik eğilimidir.<br><br>\n• Dolayısıyla I ve III benlik eğilimidir (C şıkkı).<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Canlı Ders Vurgusu:</strong><br>\nHocamız canlı derste altını çizdi: <em>\"Oyunseverlik eğlence gibi görünse de Maarif Modelinde zihni diri tutan ENTELEKTÜEL bir eğilimdir! Sakın benlikle karıştırmayın.\"</em>",
+    "question": "I. Bağımsızlık\nII. Oyunseverlik\nIII. Azim ve Kararlılık\n\nYukarıda yer alan eğilimlerden hangisi ya da hangileri Türkiye Yüzyılı Maarif Modeli’nde yer alan “benlik eğilimleri” kapsamında ele alınabilir?"
   },
   {
     "id": "egitim_tymm6-q13",
@@ -89972,7 +90018,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 13,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde yer alan “Öz Güven”, “Öz Düzenleme”, “Sabır” ve “Azim” özellikleri, modelin Eğilimler çerçevesinde hangi başlık altında yer alır?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde; “girişimcilik, mantıksal muhakeme, felsefi sorgulama, zamanı algılama ve kronolojik düşünme” gibi beceriler hangi alan becerileri kapsamında ele alınmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -89998,8 +90044,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Benlik Eğilimleri)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.1.2. Eğilimler Boyutu (E1: Benlik Eğilimleri)</em>.<br><br>\n🔍 <strong>Eğilimlerin 3 Boyutlu Sınıflandırması:</strong><br>\n• <strong>1. Benlik Eğilimleri (E1 - Bireyin kendi iç dünyası ve iradesi):</strong><br>\n  Öz güven, öz düzenleme, sabır, azim (sebat), içsel motivasyon, öz yansıtma.<br>\n• <strong>2. Sosyal Eğilimler (E2 - Bireyin diğer insanlarla ilişkileri):</strong><br>\n  Yardımlaşma, diğerkamlık, empati, iş birliği yapma, liderlik, toplumsal sorumluluk.<br>\n• <strong>3. Entelektüel Eğilimler (E3 - Bireyin bilgiye ve zihne yaklaşımı):</strong><br>\n  Merak, açık fikirlilik, analitiklik, kuşkuculuk, gerçeği arama, sistematiklik.<br><br>\n• <strong>Seçenekler:</strong> Öz güven, sabır ve azim bireyin kendi nefsi/iç kontrolü ile ilgili olduğu için <strong>Benlik Eğilimleri</strong>dir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nBaşında <strong>\"ÖZ\"</strong> olan (öz güven, öz saygı, öz düzenleme) veya içsel irade gerektiren (sabır, azim) kavramlar ➔ <strong>Benlik Eğilimi</strong>dir!",
-    "question": "Türkiye Yüzyılı Maarif Modeli'nde yer alan “Öz Güven”, “Öz Düzenleme”, “Sabır” ve “Azim” özellikleri, modelin Eğilimler çerçevesinde hangi başlık altında yer alır?"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Sosyal bilimler alan becerileri)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Alan Becerileri Çerçevesi (Sosyal Bilgiler, Tarih, Coğrafya, Felsefe)</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Tasarım Alan Becerileri:</strong> Sanat, görsel sanatlar ve teknoloji tasarım ürünleridir.<br>\n• <strong>B) Matematik Alan Becerileri:</strong> Matematiksel muhakeme, modelleme ve problem çözmedir.<br>\n• <strong>C) Fen Bilimleri Alan Becerileri:</strong> Bilimsel gözlem, deney tasarlama, delile dayalı açıklamadır.<br>\n• <strong>D) Sosyal Bilimler Alan Becerileri (DOĞRU ✔️):</strong> <strong>Zamanı algılama, kronolojik düşünme, mekânı algılama, felsefi sorgulama, mantıksal muhakeme ve girişimcilik</strong> sosyal bilimler alan becerilerinin çekirdeğini oluşturur.<br>\n• <strong>E) Bilişim Alan Becerileri:</strong> Algoritmik düşünme, kodlama ve veri işlemedir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n<strong>Zaman/Kronoloji + Mekân + Felsefi Sorgulama = Sosyal Bilimler Alan Becerileri</strong>!",
+    "question": "Türkiye Yüzyılı Maarif Modeli'nde; “girişimcilik, mantıksal muhakeme, felsefi sorgulama, zamanı algılama ve kronolojik düşünme” gibi beceriler hangi alan becerileri kapsamında ele alınmaktadır?"
   },
   {
     "id": "egitim_tymm6-q14",
@@ -90010,7 +90056,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 14,
-    "questionText": "• Farklı deneyimler, fikirler ve önerilere açık olabilmeyi içeren zihinsel örüntüler\n• Bir konu ya da davranışı öğrenme sürecinin keyifli ve eğlenceli bulunması\n\nTürkiye Yüzyılı Maarif Modeli'nde yukarıda özellikleri verilen entelektüel eğilim aşağıdakilerden hangisidir?",
+    "questionText": "• Farklı deneyimler, fikirler ve önerilere açık olabilmeyi içeren zihinsel örüntüler\n• Bir konu ya da davranışı öğrenme sürecinin keyifli ve eğlenceli hâle getirilebilmesine ilişkin zihinsel örüntüler\n• Bir işi yerine getirme konusundaki gayreti ve bu yöndeki kararları her türlü zorluğa karşı yılmaksızın uygulama çabası\n• Çeşitli durumların belirli bir yöntemle düzenli, örgütlü, odaklı ve gayretli şekilde ele alınmasına ilişkin zihinsel örüntüler\n\nYukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan öğrenci eğilimleri ile eşleştirildiğinde hangi eğilim türü dışarıda kalır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90036,8 +90082,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Açık Fikirlilik)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>E3.2. Açık Fikirlilik Entelektüel Eğilimi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Merak:</strong> Yeni bilgi edinme isteği, soru sorma ve keşfetme arzusudur.<br>\n• <strong>B) Azim:</strong> Karşılaşılan güçlükler karşısında pes etmeyip devam etme iradesidir (Benlik eğilimidir).<br>\n• <strong>C) Odaklanma:</strong> Dikkati dağılmadan bir konu üzerinde zihinsel enerjiyi toplama becerisidir.<br>\n• <strong>D) Açık Fikirlilik (DOĞRU ✔️):</strong> Kendi sabit fikirlerinden ve peşin yargılarından sıyrılarak başkalarının farklı argümanlarını, tecrübelerini ve alternatif bakış açılarını dinlemeye ve değerlendirmeye gönüllü olma yatkınlığıdır.<br>\n• <strong>E) Analitiklik:</strong> Bir bütünü parçalarına ayırıp aralarındaki nedensellik bağını çözme eğilimidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n\"Farklı fikirlere, eleştirilere ve yeni önerilere zihnini kapatmama\" tanımı doğrudan <strong>Açık Fikirlilik</strong>tir.<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamız çeldiricileri şöyle ayıkladı: <em>Merak bilgi peşinde koşmaktır; Açık fikirlilik ise kendine zıt olsa bile başka fikirleri dinleyebilme olgunluğudur.</em>",
-    "question": "• Farklı deneyimler, fikirler ve önerilere açık olabilmeyi içeren zihinsel örüntüler\n• Bir konu ya da davranışı öğrenme sürecinin keyifli ve eğlenceli bulunması\n\nTürkiye Yüzyılı Maarif Modeli'nde yukarıda özellikleri verilen entelektüel eğilim aşağıdakilerden hangisidir?"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Eleştirel bakma)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Eğilimler Sözlüğü</em>.<br><br>\n🔍 <strong>Öncül - Kavram Eşleştirmesi:</strong><br>\n1. <em>\"Farklı deneyim ve fikirlere açık olma\"</em> ➔ <strong>A) Açık fikirlilik</strong>.<br>\n2. <em>\"Öğrenmeyi keyifli ve eğlenceli hale getirme\"</em> ➔ <strong>C) Oyunseverlik</strong>.<br>\n3. <em>\"Her türlü zorluğa karşı yılmadan sürdürme\"</em> ➔ <strong>E) Azim ve kararlılık</strong>.<br>\n4. <em>\"Düzenli, örgütlü ve odaklı ele alma\"</em> ➔ <strong>B) Sistematiklik</strong>.<br><br>\n• <strong>Dışarıda Kalan:</strong> <strong>D) Eleştirel bakma</strong> öncüllerde yer almamaktadır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nBu soru eğilimlerin resmî MEB tanımlarını birebir ölçer: Düzenli/örgütlü = <em>Sistematiklik</em>; Eğlenceli = <em>Oyunseverlik</em>; Yılmama = <em>Azim</em>!",
+    "question": "• Farklı deneyimler, fikirler ve önerilere açık olabilmeyi içeren zihinsel örüntüler\n• Bir konu ya da davranışı öğrenme sürecinin keyifli ve eğlenceli hâle getirilebilmesine ilişkin zihinsel örüntüler\n• Bir işi yerine getirme konusundaki gayreti ve bu yöndeki kararları her türlü zorluğa karşı yılmaksızın uygulama çabası\n• Çeşitli durumların belirli bir yöntemle düzenli, örgütlü, odaklı ve gayretli şekilde ele alınmasına ilişkin zihinsel örüntüler\n\nYukarıda yer alan ifadeler Türkiye Yüzyılı Maarif Modeli'nde yer alan öğrenci eğilimleri ile eşleştirildiğinde hangi eğilim türü dışarıda kalır?"
   },
   {
     "id": "egitim_tymm6-q15",
@@ -90048,7 +90094,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 15,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde, öğrencinin karşılaştığı güçlükler, engeller veya başarısızlıklar karşısında vazgeçmeyerek hedefe ulaşana kadar kararlılıkla çabasını sürdürmesi hangi benlik eğilimidir?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde dil, yalnızca iletişim aracı olarak değil; düşüncenin inşası, kültürün aktarımı ve insanın kendini gerçekleştirmesi için temel bir unsur olarak ele alınmaktadır. Türkçenin doğru, etkili ve estetik kullanımına yapılan vurgu; bireyin zihinsel gelişimi ile toplumsal bütünlüğün birlikte ele alındığını göstermektedir. Bu yaklaşım, dil öğretiminin araçsal değil kurucu bir işleve sahip olduğunu ortaya koymaktadır.\n\nBu çerçevede aşağıdaki uygulamalardan hangisi metinde belirtilen Türkçe öğretimi anlayışıyla en az örtüşür?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90074,8 +90120,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Azim / Sebat)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>E1.3. Azim (Sebat) Eğilimi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Sabır:</strong> Zorlu veya bekleme gerektiren süreçlerde duygusal sükûnetini ve dengesini koruma yetisidir.<br>\n• <strong>B) Azim / Sebat (DOĞRU ✔️):</strong> Engeller ve başarısızlıklar karşısında yılmadan, pes etmeden, hedefe kilitlenerek eylemi sürdürme kararlılığıdır.<br>\n• <strong>C) Öz Düzenleme:</strong> Kendi öğrenme hedeflerini koyma, planlama ve kendini denetleme sürecidir.<br>\n• <strong>D) Öz Güven:</strong> Kendi beceri ve potansiyeline olan inançtır.<br>\n• <strong>E) Açık Fikirlilik:</strong> Farklı düşüncelere hoşgörüyle yaklaşmadır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu (Sabır vs. Azim Ayrımı):</strong><br>\n• <strong>Sabır:</strong> Beklemeyi bilmek, öfke ve dürtüyü kontrol altında tutmaktır (Duygusal direnç).<br>\n• <strong>Azim (Sebat):</strong> Harekete devam etmek, düşse de kalkıp yeniden denemektir (Eylemsel kararlılık).",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde, öğrencinin karşılaştığı güçlükler, engeller veya başarısızlıklar karşısında vazgeçmeyerek hedefe ulaşana kadar kararlılıkla çabasını sürdürmesi hangi benlik eğilimidir?"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Türkçenin yalnızca dil bilgisi kuralları çerçevesinde öğretilmesi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4. Türkçenin Önemi ve Kurucu İşlevi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A, B, D ve E Şıkları:</strong> Türkçeyi ortak düşünme aracı, kültür taşıyıcısı, ifade ve anlamlandırma odağı olarak görür; modelin ruhuna tamamen uygundur.<br>\n• <strong>C Şıkkı (En Az Örtüşen / Yanlış ❌):</strong> Dili <em>\"yalnızca kural ezberine (gramer/dil bilgisi) indirgemek\"</em> geleneksel ve mekanik yaklaşımdır. TYMM, Türkçeyi gramer kuralları yığını olarak değil; düşünceyi inşa eden canlı, estetik ve kültürel bir omurga olarak görür.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Pedagojik İpucu:</strong><br>\nÖSYM sorularında <strong>\"yalnızca kurallara indirgeme\", \"sadece teorik aktarım\"</strong> gibi daraltıcı ifadeler daima yanlış pedagojik tercihtir.",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nde dil, yalnızca iletişim aracı olarak değil; düşüncenin inşası, kültürün aktarımı ve insanın kendini gerçekleştirmesi için temel bir unsur olarak ele alınmaktadır. Türkçenin doğru, etkili ve estetik kullanımına yapılan vurgu; bireyin zihinsel gelişimi ile toplumsal bütünlüğün birlikte ele alındığını göstermektedir. Bu yaklaşım, dil öğretiminin araçsal değil kurucu bir işleve sahip olduğunu ortaya koymaktadır.\n\nBu çerçevede aşağıdaki uygulamalardan hangisi metinde belirtilen Türkçe öğretimi anlayışıyla en az örtüşür?"
   },
   {
     "id": "egitim_tymm6-q16",
@@ -90086,7 +90132,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 16,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde öğrencilerin kendilerini başkalarının yerine koyarak onların duygu, düşünce ve durumlarını anlamaları hangi sosyal-duygusal beceri kapsamındadır?",
+    "questionText": "• Öğrenme sürecinde ele alınan bilgi kümesini ifade eder.\n• Öğrenme çıktılarının değerlendirilmesi ile uygun ölçme ve değerlendirme araçlarını ifade eder.\n• Öğrenme çıktıları, eğilim, programlar arası bileşenler ve öğrenme kanıtları arasında kurulan ve anlamlı ilişkilere dayanan öğrenme-öğretme sürecini ifade eder.\n• Bilgi ve beceriler ile günlük hayat deneyimleri arasında bağ kurmayı ifade eder.\n\nYukarıdaki ifadeler Türkiye Yüzyılı Maarif Modeli’nin aşağıdaki bileşenleri ile eşleştirildiğinde hangisi dışarıda kalır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90108,12 +90154,12 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Öğrenme - öğretme yaşantıları"
+        "text": "Öğrenme – öğretme yaşantıları"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Sosyal Farkındalık / Empati)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Sosyal Farkındalık Becerisi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Benlik Farkındalığı:</strong> Bireyin <em>kendi</em> duygularını, güçlü ve zayıf yönlerini tanımasıdır.<br>\n• <strong>B) Öz Yönetim:</strong> Bireyin <em>kendi</em> dürtü ve davranışlarını kontrol etmesidir.<br>\n• <strong>C) Sosyal Farkındalık (DOĞRU ✔️):</strong> Başkalarının duygusal durumlarını, bakış açılarını anlama (empati) ve toplumsal çeşitliliğe saygı duyma yeterliğidir.<br>\n• <strong>D) İlişki Becerileri:</strong> Sağlıklı ve yapıcı ilişkiler kurma, çatışma çözme ve iş birliği yapmadır.<br>\n• <strong>E) Sorumlu Karar Verme:</strong> Etik kurallara ve sonuçlara göre doğru seçimler yapmadır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nKendi içine bakıyorsa ➔ <strong>Benlik Farkındalığı</strong>.<br>\nBaşkasına bakıp onu anlıyorsa ➔ <strong>Sosyal Farkındalık (Empati)</strong>.",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde öğrencilerin kendilerini başkalarının yerine koyarak onların duygu, düşünce ve durumlarını anlamaları hangi sosyal-duygusal beceri kapsamındadır?"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Öğrenme çıktıları)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Programın Yapısal Bileşenleri</em>.<br><br>\n🔍 <strong>Öncül - Bileşen Eşleştirmesi:</strong><br>\n1. <em>\"Ele alınan bilgi kümesi\"</em> ➔ <strong>B) İçerik Çerçevesi</strong>.<br>\n2. <em>\"Ölçme ve değerlendirme araçları / somut ürünler\"</em> ➔ <strong>D) Öğrenme Kanıtları</strong>.<br>\n3. <em>\"Bileşenler arası kurulan anlamlı öğrenme-öğretme süreci\"</em> ➔ <strong>E) Öğrenme – Öğretme Yaşantıları</strong>.<br>\n4. <em>\"Günlük hayat deneyimleri veya geçmiş-gelecek arasında bağ kurma\"</em> ➔ <strong>A) Köprü Kurma</strong>.<br><br>\n• <strong>Dışarıda Kalan:</strong> <strong>C) Öğrenme Çıktıları</strong> (Öğrencinin sergilemesi beklenen eylemsel yeterlilikler) metinde doğrudan tanımlanmamıştır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nÖlçme aracı = <strong>Öğrenme Kanıtı</strong> | Hayatla bağ = <strong>Köprü Kurma</strong> | Bilgi kümesi = <strong>İçerik Çerçevesi</strong>!",
+    "question": "• Öğrenme sürecinde ele alınan bilgi kümesini ifade eder.\n• Öğrenme çıktılarının değerlendirilmesi ile uygun ölçme ve değerlendirme araçlarını ifade eder.\n• Öğrenme çıktıları, eğilim, programlar arası bileşenler ve öğrenme kanıtları arasında kurulan ve anlamlı ilişkilere dayanan öğrenme-öğretme sürecini ifade eder.\n• Bilgi ve beceriler ile günlük hayat deneyimleri arasında bağ kurmayı ifade eder.\n\nYukarıdaki ifadeler Türkiye Yüzyılı Maarif Modeli’nin aşağıdaki bileşenleri ile eşleştirildiğinde hangisi dışarıda kalır?"
   },
   {
     "id": "egitim_tymm6-q17",
@@ -90124,17 +90170,17 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 17,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde farklılaştırılmış öğretim yaklaşımının iki temel pedagojik uygulama mekanizması aşağıdakilerden hangisinde birlikte verilmiştir?",
+    "questionText": "Bir öğretmen, Türkiye Yüzyılı Maarif Modeli çerçevesinde öğrencilerinin; kendi hak ve özgürlüklerini koruma, sorumluluklarının bilincinde olma, tüm canlıların yaşam haklarına saygı duyma ve sınırlı kaynakları koruma bilgi, beceri ve yeterliliğine sahip olmalarını hedeflemektedir.\n\nBu öğretmenin öğrencilerine kazandırmak istediği okuryazarlık türleri aşağıdakilerin hangisinde birlikte verilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Dijital - Kültür"
+        "text": "Dijital – Kültür"
       },
       {
         "key": "B",
-        "text": "Vatandaşlık - Kültür"
+        "text": "Vatandaşlık – Kültür"
       },
       {
         "key": "C",
@@ -90142,16 +90188,16 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "Kültür - Sürdürülebilirlik"
+        "text": "Kültür – Sürdürülebilirlik"
       },
       {
         "key": "E",
-        "text": "Vatandaşlık - Sürdürülebilirlik"
+        "text": "Vatandaşlık – Sürdürülebilirlik"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Zenginleştirme – Destekleme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.2. Farklılaştırılmış Öğretim: Zenginleştirme ve Destekleme Süreçleri</em>.<br><br>\n🔍 <strong>İki Temel Mekanizmanın Tanımı:</strong><br>\n1. <strong>Zenginleştirme (Derinleşme / İleri Düzey):</strong> Öğrenme çıktısına akranlarından daha hızlı ulaşan veya özel yetenekli öğrencilere; müfredatı yatay ve dikey yönde derinleştiren, yaratıcılığı ve üst düzey problem çözmeyi kışkırtan ek görevler sunulmasıdır.<br>\n2. <strong>Destekleme (Takviye / Güçlendirme):</strong> Öğrenme sürecinde güçlük yaşayan veya ek zamana ihtiyaç duyan öğrencilere; temel kavramları somutlaştırarak, basamaklandırarak eksiklerini tamamlama fırsatı verilmesidir.<br><br>\n• <strong>Diğer Şıklar:</strong> Bireyselleştirme-Gruplama, Ölçme-Değerlendirme veya Hızlandırma-Yavaşlatma modeldeki resmi kavram ikilisi değildir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nMaarif Modeli'nde farklılaştırma denilince aranacak tek ikili: <strong>Zenginleştirme + Destekleme</strong>'dir!",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde farklılaştırılmış öğretim yaklaşımının iki temel pedagojik uygulama mekanizması aşağıdakilerden hangisinde birlikte verilmiştir?"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Vatandaşlık – Sürdürülebilirlik)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Okuryazarlık Becerileri (9 Temel Okuryazarlık)</em>.<br><br>\n🔍 <strong>Kavram ve Davranış Eşleştirmesi:</strong><br>\n1. <strong>Vatandaşlık Okuryazarlığı:</strong> \"Kendi hak ve özgürlüklerini koruma, haklarını arama, sorumluluklarının bilincinde olma, toplumsal ve yasal ödevleri yerine getirme\".<br>\n2. <strong>Sürdürülebilirlik Okuryazarlığı:</strong> \"Tüm canlıların yaşam haklarına saygı duyma, doğal dengeyi gözetme, sınırlı doğal ve enerjetik kaynakları koruma ve tasarruf bilinci\".<br><br>\n• Bu iki unsurun bir arada yer aldığı seçenek <strong>E (Vatandaşlık – Sürdürülebilirlik)</strong> seçeneğidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / AGS Çıkmış Soru Analizi:</strong><br>\nCanlı derste hocamızın belirttiği üzere MEB'in uyguladığı sınavlarda bu soru doğrudan sorulmuştur:<br>\nHak/Sorumluluk ➔ <strong>Vatandaşlık Okuryazarlığı</strong>.<br>\nCanlılar/Sınırlı kaynaklar ➔ <strong>Sürdürülebilirlik Okuryazarlığı</strong>.",
+    "question": "Bir öğretmen, Türkiye Yüzyılı Maarif Modeli çerçevesinde öğrencilerinin; kendi hak ve özgürlüklerini koruma, sorumluluklarının bilincinde olma, tüm canlıların yaşam haklarına saygı duyma ve sınırlı kaynakları koruma bilgi, beceri ve yeterliliğine sahip olmalarını hedeflemektedir.\n\nBu öğretmenin öğrencilerine kazandırmak istediği okuryazarlık türleri aşağıdakilerin hangisinde birlikte verilmiştir?"
   },
   {
     "id": "egitim_tymm6-q18",
@@ -90162,7 +90208,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 18,
-    "questionText": "Erdem – Değer – Eylem Çerçevesi'nde hakkaniyet, eşitlik, dürüstlük, emanet bilinci ve hak yememe erdemleri hangi çatı değer etrafında kümelenmiştir?",
+    "questionText": "Erdem – Değer – Eylem Çerçevesi'nde çatı değerler etrafında kümelenen bir değer çerçevesi sunulmaktadır. Çatı değerler, diğer bütün değerler ile yoğun kesişim noktaları olan değer yapılarını ifade etmektedir. Bu bağlamda Türkiye Yüzyılı Maarif Modeli Erdem – Değer – Eylem Çerçevesi kapsamında üç çatı değer belirlenmiştir.\n\nBelirlenen bu çatı değerler hangi seçenekte doğru olarak verilmiştir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90188,8 +90234,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Adalet)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.4. Erdem-Değer-Eylem Çerçevesi (Adalet Çatı Değeri)</em>.<br><br>\n🔍 <strong>3 Çatı Değerin Kapsam Analizi:</strong><br>\n• <strong>A) Hikmet:</strong> İlim, basiret, akıl yürütme, sağduyu, tefekkür, hakikati arama.<br>\n• <strong>B) Adalet (DOĞRU ✔️):</strong> Hakkaniyet, eşitlik, dürüstlük, güvenilirlik, emanete riayet, tarafsızlık ve hakka saygı.<br>\n• <strong>C) Merhamet:</strong> Şefkat, sevgi, bağışlama, diğerkamlık, canlılara duyarlılık, yardımseverlik.<br>\n• <strong>D) Vatanseverlik & E) Sorumluluk:</strong> Çatı değerlerin altındaki ilişkili temel değerlerdir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nSoruda <strong>\"hak, hukuk, eşitlik, emanet, dürüstlük\"</strong> kavramları varsa cevap kesinlikle <strong>Adalet</strong> çatı değeridir.<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamızın kök değer kodlaması: <em>Hakkaniyet, eşitlik ve emanet bilinci bir toplumun omurgasıdır; o omurganın adı Maarif Modeli'nde <strong>Adalet</strong>tir.</em>",
-    "question": "Erdem – Değer – Eylem Çerçevesi'nde hakkaniyet, eşitlik, dürüstlük, emanet bilinci ve hak yememe erdemleri hangi çatı değer etrafında kümelenmiştir?"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Saygı, sorumluluk ve adalet)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Bileşen 3: Erdem – Değer – Eylem Çerçevesi</em>.<br><br>\n🔍 <strong>3 Çatı Değerin Yapısı:</strong><br>\nModelde tüm erdemlerin kümelendiği 3 ana çatı değer şunlardır:<br>\n1. <strong>Adalet</strong> (Hakkaniyet, eşitlik, dürüstlük)<br>\n2. <strong>Saygı</strong> (Hürmet, kabul, nezaket, tabiata saygı)<br>\n3. <strong>Sorumluluk</strong> (Öz denetim, çevre bilinci, toplumsal mesuliyet)<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Altın Kısaltma:</strong><br>\nTYMM'nin 3 Çatı Değerini <strong>SAS</strong> formülüyle hatırlayın:<br>\n<strong>S</strong>aygı + <strong>A</strong>dalet + <strong>S</strong>orumluluk!",
+    "question": "Erdem – Değer – Eylem Çerçevesi'nde çatı değerler etrafında kümelenen bir değer çerçevesi sunulmaktadır. Çatı değerler, diğer bütün değerler ile yoğun kesişim noktaları olan değer yapılarını ifade etmektedir. Bu bağlamda Türkiye Yüzyılı Maarif Modeli Erdem – Değer – Eylem Çerçevesi kapsamında üç çatı değer belirlenmiştir.\n\nBelirlenen bu çatı değerler hangi seçenekte doğru olarak verilmiştir?"
   },
   {
     "id": "egitim_tymm6-q19",
@@ -90200,34 +90246,34 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 19,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde yer alan şefkat, sevgi, affedicilik ve yardımlaşma gibi erdemler aşağıdaki çatı değerlerden hangisinin kapsamında değerlendirilir?",
+    "questionText": "Bir okulda yürütülen program dışı etkinlikler kapsamında öğrenciler, yerel bir sosyal soruna yönelik gönüllülük temelli bir projeye katılmıştır. Süreç sonunda öğretmenler, öğrencilerin problem çözme, sorumluluk alma ve toplumsal farkındalık becerilerinde gelişim gözlemlemiş; bu gözlemleri zümre toplantılarında paylaşarak öğretim sürecine yönelik yeni düzenlemeler yapmıştır. Bu uygulamanın sonucunda öğrencilerin okul dışında da benzer etkinliklere yönelmesi dikkat çekmiştir.\n\nBu durum Türkiye Yüzyılı Maarif Modeli’ne göre aşağıdakilerin hangisinin birlikte işlediğini göstermektedir?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Akademik başarı - fiziksel gelişim"
+        "text": "Akademik başarı – fiziksel gelişim"
       },
       {
         "key": "B",
-        "text": "Öğretmen rehberliği - standartlaştırma"
+        "text": "Öğretmen rehberliği – standartlaştırma"
       },
       {
         "key": "C",
-        "text": "Program dışı etkinlik - ölçme ve değerlendirme"
+        "text": "Program dışı etkinlik – ölçme ve değerlendirme"
       },
       {
         "key": "D",
-        "text": "Destekleme - zenginleştirme - bireysel gelişim"
+        "text": "Destekleme – zenginleştirme – bireysel gelişim"
       },
       {
         "key": "E",
-        "text": "Sosyal sorumluluk - öğretmen yansıtması - hayat boyu öğrenme"
+        "text": "Sosyal sorumluluk – öğretmen yansıtması – hayat boyu öğrenme"
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Merhamet)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.4. Erdem-Değer-Eylem Çerçevesi (Merhamet Çatı Değeri)</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Adalet:</strong> Hakkaniyet, dürüstlük ve eşitliği kapsar.<br>\n• <strong>B) Hikmet:</strong> Akıl, basiret ve bilgeliği kapsar.<br>\n• <strong>C) Merhamet (DOĞRU ✔️):</strong> Bireyin kalbi ve vicdani derinliğini; insanlara, doğaya ve canlılara yönelik şefkat, bağışlayıcılık, sevgi ve fedakarlık erdemlerini kapsar.<br>\n• <strong>D) Dostluk:</strong> Merhamet ve adalet altında gelişen bir sosyal ilişkidir.<br>\n• <strong>E) Saygı:</strong> Sosyal yaşamın kuralıdır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nGönül, kalp, şefkat, affetme, canlılara kıymama ve sevgi dendiğinde ➔ <strong>Merhamet</strong> çatı değeridir.",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde yer alan şefkat, sevgi, affedicilik ve yardımlaşma gibi erdemler aşağıdaki çatı değerlerden hangisinin kapsamında değerlendirilir?"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Sosyal sorumluluk – öğretmen yansıtması – hayat boyu öğrenme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Öğretmen Yansıtmaları ve Okul Dışı Öğrenme Ortamları</em>.<br><br>\n🔍 <strong>Olay Örgüsündeki Sacayakları:</strong><br>\n1. <em>\"Yerel sosyal soruna gönüllülük projesi\"</em> ➔ <strong>Sosyal Sorumluluk</strong>.<br>\n2. <em>\"Öğretmenlerin gözlemlerini zümrede tartışarak ders planını güncellemesi\"</em> ➔ <strong>Öğretmen Yansıtması</strong>.<br>\n3. <em>\"Öğrencilerin okul dışında da bu alışkanlığı sürdürmesi\"</em> ➔ <strong>Hayat Boyu Öğrenme</strong>.<br><br>\n• Bu üçlü sürecin kusursuz birleşimi <strong>E seçeneğinde</strong> verilmiştir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nÖğretmenin uygulamasını gözden geçirip revize etmesi = <strong>Öğretmen Yansıtması</strong>! Okul dışına taşan kalıcı davranış = <strong>Hayat Boyu Öğrenme</strong>!",
+    "question": "Bir okulda yürütülen program dışı etkinlikler kapsamında öğrenciler, yerel bir sosyal soruna yönelik gönüllülük temelli bir projeye katılmıştır. Süreç sonunda öğretmenler, öğrencilerin problem çözme, sorumluluk alma ve toplumsal farkındalık becerilerinde gelişim gözlemlemiş; bu gözlemleri zümre toplantılarında paylaşarak öğretim sürecine yönelik yeni düzenlemeler yapmıştır. Bu uygulamanın sonucunda öğrencilerin okul dışında da benzer etkinliklere yönelmesi dikkat çekmiştir.\n\nBu durum Türkiye Yüzyılı Maarif Modeli’ne göre aşağıdakilerin hangisinin birlikte işlediğini göstermektedir?"
   },
   {
     "id": "egitim_tymm6-q20",
@@ -90238,7 +90284,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 20,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde bilgelik, basiret, sağduyu ve hakikati arama erdemleri hangi çatı değer altında tanımlanmıştır?",
+    "questionText": "İnsan; doğası gereği çok yönlü bir varlıktır. Bu doğrultuda insanın zihinsel, sosyal, duygusal, fiziksel, ahlaki bakımdan çok yönlü gelişimini destekleme ihtiyacı “bütüncül eğitim yaklaşımı”nı gerektirmektedir. Bütüncül eğitim yaklaşımı esas alınarak oluşturulan Türkiye Yüzyılı Maarif Modeli, çok yönlü bir varoluşu gerçekleştirme çabasıdır. \n\nBuna göre aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli’ne uygun bir görüş olamaz?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90248,7 +90294,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "Öğrenme-öğretme yaşantıları; öğrencinin aktif ve çevresiyle etkileşim içinde olduğu, öğrenme sorumluluğunu aldığı öğrenme yaklaşımları etrafında şekillenir."
+        "text": "Öğrenme‐öğretme yaşantıları; öğrencinin aktif ve çevresiyle etkileşim içinde olduğu, öğrenme sorumluluğunu aldığı öğrenme yaklaşımları etrafında şekillenir."
       },
       {
         "key": "C",
@@ -90264,8 +90310,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "A",
-    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Hikmet)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.4.4. Erdem-Değer-Eylem Çerçevesi (Hikmet Çatı Değeri)</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Hikmet (DOĞRU ✔️):</strong> Bilgiyi doğru yerde, doğru zamanda ve doğru amaçla kullanma olgunluğudur. Basiret, feraset, sağduyu ve tefekkür bu çatı altındadır.<br>\n• <strong>B) Adalet:</strong> Hakkaniyet ve dürüstlük çatısıdır.<br>\n• <strong>C) Merhamet:</strong> Şefkat ve sevgi çatısıdır.<br>\n• <strong>D) Çalışkanlık:</strong> Eylemsel erdemdir.<br>\n• <strong>E) Sabır:</strong> Benlik eğilimidir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nAkıl, muhakeme, bilgelik, basiret ve sağduyu kelimelerinin felsefi adresi ➔ <strong>Hikmet</strong>tir.",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde bilgelik, basiret, sağduyu ve hakikati arama erdemleri hangi çatı değer altında tanımlanmıştır?"
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (İnsan, kendi yeteneklerini ve potansiyelini gerçekleştirmeyi hedefleyerek, toplumsal beklentilere göre değil bireysel beklentilere göre şekillenir.)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>1.1. Modelin İnsan ve Toplum Felsefesi</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Modele Aykırı / Yanlış ❌):</strong> TYMM insanı bencil, toplumdan kopuk ve salt bireyci bir varlık olarak görmez. İnsan hem kendi şahsiyetini inşa eder hem de topluma, milletine ve insanlığa fayda üretmekle yükümlüdür (huzurlu insan, huzurlu aile ve toplum). Toplumsal sorumluluğu dışlayan aşırı bireyci anlayış modele terstir.<br>\n• <strong>B, C, D ve E Şıkları:</strong> Aktif öğrenme, farklılaştırılmış öğretim, akran desteği ve esnek ortamlar modelin temel ilkeleridir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nTYMM <strong>\"Yetkin ve Erdemli İnsan\"</strong> hedefler. Yetkinlik bireysel kapasitedir; Erdem ise toplumsal ve ahlaki sorumluluktur. Biri olmadan diğeri olamaz!",
+    "question": "İnsan; doğası gereği çok yönlü bir varlıktır. Bu doğrultuda insanın zihinsel, sosyal, duygusal, fiziksel, ahlaki bakımdan çok yönlü gelişimini destekleme ihtiyacı “bütüncül eğitim yaklaşımı”nı gerektirmektedir. Bütüncül eğitim yaklaşımı esas alınarak oluşturulan Türkiye Yüzyılı Maarif Modeli, çok yönlü bir varoluşu gerçekleştirme çabasıdır. \n\nBuna göre aşağıdakilerden hangisi Türkiye Yüzyılı Maarif Modeli’ne uygun bir görüş olamaz?"
   },
   {
     "id": "egitim_tymm6-q21",
@@ -90276,7 +90322,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 21,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde yer alan Okul Temelli Planlama süreci ile ilgili olarak kararları almaya ve yıllık planlara işlemeye yetkili kurul aşağıdakilerden hangisidir?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nin, “yarıştırıcı ve ayrıştırıcı anlayışlardan uzak durarak bireysel farklılıkları merkeze alan bir öğretim yaklaşımı benimseyerek öğrencilerin ilgi, ihtiyaç ve yeteneklerine göre öğrenme deneyimleri yaşamalarını amaçlaması” aşağıdaki uygulamalardan hangisini gerekli kılmaktadır?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90302,8 +90348,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "B",
-    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Zümre Öğretmenler Kurulu)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Okul Temelli Planlama ve Esneklik İlkeleri</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Okul Aile Birliği:</strong> Maddi destek ve veli iş birliği sağlar, müfredat planlaması yapamaz.<br>\n• <strong>B) Zümre Öğretmenler Kurulu (DOĞRU ✔️):</strong> Model uyarınca, her dersin zümre öğretmenleri; okulun çevresel imkanlarını, yerel şartları ve öğrenci ihtiyaçlarını gözeterek ders saatlerinin belirli bir oranını (okul temelli planlama süresini) planlar ve yıllık planlara işler.<br>\n• <strong>C) İlçe Millî Eğitim Müdürlüğü:</strong> Taşra idari onay makamıdır.<br>\n• <strong>D) Rehberlik ve Psikolojik Danışma Hizmetleri Yürütme Komisyonu:</strong> Rehberlik planını yapar.<br>\n• <strong>E) Disiplin Kurulu:</strong> Yaptırımlarla ilgilenir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nOkul Temelli Planlamayı kim yapar? ➔ <strong>Zümre Öğretmenler Kurulu</strong>! Hangi plana işlenir? ➔ <strong>Yıllık Plana</strong>!",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde yer alan Okul Temelli Planlama süreci ile ilgili olarak kararları almaya ve yıllık planlara işlemeye yetkili kurul aşağıdakilerden hangisidir?"
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Farklılaştırılmış öğretim stratejilerinin kullanılması)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Farklılaştırılmış Öğretim Tasarımı</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A, C, D ve E Şıkları:</strong> Tek tip hız, kıyaslama, tek tip standart ve rekabet; tam da modelin reddettiği \"yarıştırıcı ve ayrıştırıcı\" yaklaşımlardır.<br>\n• <strong>B Şıkkı (DOĞRU ✔️):</strong> Bireysel hızlara, ilgilere ve öğrenme stillerine göre içeriğin, sürecin ve ürünün esnetildiği pedagojik model <strong>Farklılaştırılmış Öğretim</strong>dir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n<strong>\"Yarıştırmayan + Ayrıştırmayan + Farklılıklara Saygı Duyan\" = Farklılaştırılmış Öğretim</strong>!",
+    "question": "Türkiye Yüzyılı Maarif Modeli'nin, “yarıştırıcı ve ayrıştırıcı anlayışlardan uzak durarak bireysel farklılıkları merkeze alan bir öğretim yaklaşımı benimseyerek öğrencilerin ilgi, ihtiyaç ve yeteneklerine göre öğrenme deneyimleri yaşamalarını amaçlaması” aşağıdaki uygulamalardan hangisini gerekli kılmaktadır?"
   },
   {
     "id": "egitim_tymm6-q22",
@@ -90314,7 +90360,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 22,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde okul dışı öğrenme ortamları ve program dışı etkinliklerle ilgili olarak aşağıdakilerden hangisi modelin benimsediği yaklaşıma uygun bir uygulama değildir?",
+    "questionText": "Bir öğretmen, zenginleştirme çalışmalarında sadece daha fazla soru çözmek yerine öğrencilerden, edindikleri bilgileri yeni bağlamlarda kullanmaları, disiplinler arası ilişkiler kurmaları ve özgün ürünler ortaya koymaları beklenmiştir. Bu sayede öğrencilerin üst düzey düşünme becerileri ön plana çıkartılmıştır.\n\nÖğretmenin bu zenginleştirme anlayışı Türkiye Yüzyılı Maarif Modeli’ne göre hangi amaca hizmet etmektedir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90340,8 +90386,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Program dışı etkinliklerin yalnızca öğrencilerin merkezi sınavlara hazırlanması amacıyla etüt ve soru çözümü şeklinde yürütülmesi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Program Dışı Etkinlikler ve Sosyal Sorumluluk Esasları</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A Şıkkı (Uygundur):</strong> Müzeler, bilim merkezleri, kütüphaneler ve doğa gezileri gibi okul dışı öğrenme ortamları teşvik edilir.<br>\n• <strong>B Şıkkı (Uygundur):</strong> Sosyal sorumluluk ve gönüllülük projeleri öğrencinin ahlaki ve toplumsal gelişimini destekler.<br>\n• <strong>C Şıkkı (Uygundur):</strong> Kulüp faaliyetleri ve sanatsal/sportif etkinlikler bireyin çok yönlü gelişimini sağlar.<br>\n• <strong>D Şıkkı (Yanlış / Çeldirici ❌):</strong> Maarif Modeli'nde program dışı etkinlikler (ekstra program); sınav yarışına alet edilemez veya salt test çözme/etüt saatine dönüştürülemez. Modelin amacı akademik sınav maratonu değil, hayat becerisi ve değer kazandırmaktır.<br>\n• <strong>E Şıkkı (Uygundur):</strong> Toplum hizmeti ve hayat boyu öğrenme kültürünü pekiştirir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nSoru kökünde \"sadece sınav hazırlığı, test çözümü, yarışmacı etüt\" gibi ifadeler çağdaş TYMM felsefesine her zaman aykırıdır.",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde okul dışı öğrenme ortamları ve program dışı etkinliklerle ilgili olarak aşağıdakilerden hangisi modelin benimsediği yaklaşıma uygun bir uygulama değildir?"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Derinlemesine ve anlamlı öğrenmeyi sağlamaya)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Farklılaştırılmış Öğretim: Zenginleştirme Mekanizması</em>.<br><br>\n🔍 <strong>Zenginleştirme Felsefesi:</strong><br>\n• TYMM'de zenginleştirme; öğrencilere sırf hızlı bitirdiler diye fazladan test çözdürmek (nicelik artışı) DEĞİLDİR.<br>\n• Zenginleştirme; konuyu derinleştirmek, yeni bağlamlara transfer etmek ve özgün ürünler ortaya koyarak <strong>derinlemesine ve anlamlı öğrenmeyi (niteliksel derinleşme)</strong> sağlamaktır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Pedagojik Uyarı:</strong><br>\nZenginleştirme ➔ Daha çok ödev/soru değil, <strong>daha derin ve üst düzey düşünme</strong> (sentez, ürün, transfer)!",
+    "question": "Bir öğretmen, zenginleştirme çalışmalarında sadece daha fazla soru çözmek yerine öğrencilerden, edindikleri bilgileri yeni bağlamlarda kullanmaları, disiplinler arası ilişkiler kurmaları ve özgün ürünler ortaya koymaları beklenmiştir. Bu sayede öğrencilerin üst düzey düşünme becerileri ön plana çıkartılmıştır.\n\nÖğretmenin bu zenginleştirme anlayışı Türkiye Yüzyılı Maarif Modeli’ne göre hangi amaca hizmet etmektedir?"
   },
   {
     "id": "egitim_tymm6-q23",
@@ -90352,7 +90398,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 23,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli’nde okul temelli planlama yapılırken zümre öğretmenler kurulunun;\n\nI. Öğrenme çıktıları\nII. Türk Millî Eğitimi'nin Temel İlkeleri (1739 Sayılı Kanun)\nIII. Öğretim programlarının genel amaçları\n\nunsurlarından hangisini ya da hangilerini dikkate alması zorunludur?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli’nin temel unsurlarından biri olan okul temelli planlama; zümre öğretmenler kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştırılan araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma etkinlikleri gibi çalışmalara ayrılan süreyi ifade etmektedir. Bu kapsamda öğretmenlere öğretim programını uyarlama imkânı tanınarak esneklik sağlanması amaçlanmıştır.\n\nBuna göre okul temelli planlama çalışmalarında zümre öğretmenler kurulunun;\nI. Öğrenme çıktıları\nII. Türk Millî Eğitimi'nin Temel İlkeleri (1739 Sayılı Kanun)\nIII. Öğretim programlarının genel amaçları\n\nunsurlarından hangisini ya da hangilerini dikkate alması zorunludur?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90378,8 +90424,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "E",
-    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II ve III)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Okul Temelli Planlamanın Yasal ve Pedagojik Dayanakları</em>.<br><br>\n🔍 <strong>Öncüllerin Detaylı Analizi:</strong><br>\nOkul temelli planlama zümreye bir esneklik ve özerklik alanı açar; ancak bu esneklik sınırsız veya kuralsız değildir:<br>\n• <strong>I. Öğrenme Çıktıları (Zorunludur ✔️):</strong> Zümre, programda belirlenen asgari öğrenme çıktılarını eksiltmeden korumak zorundadır.<br>\n• <strong>II. 1739 Sayılı Kanun İlkeleri (Zorunludur ✔️):</strong> Türk Millî Eğitiminin genel amaç ve temel ilkelerine aykırı bir planlama yapılamaz.<br>\n• <strong>III. Öğretim Programlarının Genel Amaçları (Zorunludur ✔️):</strong> Dersin omurgasını oluşturan vizyon ve genel hedefler korunmalıdır.<br><br>\n• <strong>Seçenekler:</strong> Her üç unsur da (I, II ve III) zümrenin uyması gereken zorunlu çerçevedir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nOkul temelli planlama esnektir ama <strong>1739 Sayılı Kanun</strong> ve <strong>Öğrenme Çıktıları</strong> asla delinemez!",
-    "question": "Türkiye Yüzyılı Maarif Modeli’nde okul temelli planlama yapılırken zümre öğretmenler kurulunun;\n\nI. Öğrenme çıktıları\nII. Türk Millî Eğitimi'nin Temel İlkeleri (1739 Sayılı Kanun)\nIII. Öğretim programlarının genel amaçları\n\nunsurlarından hangisini ya da hangilerini dikkate alması zorunludur?"
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II ve III)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Okul Temelli Planlama Esasları</em>.<br><br>\n🔍 <strong>Öncüllerin İncelenmesi:</strong><br>\n• Zümre öğretmenler kurulu okul temelli planlama yaparken esnekliğe sahiptir; ancak bu esneklik keyfi değildir:<br>\n1. <strong>Öğrenme Çıktıları (I):</strong> Asla program dışına çıkılamaz, çıktılar güvence altındadır.<br>\n2. <strong>Türk Millî Eğitimi'nin Temel İlkeleri (II):</strong> 1739 sayılı Kanun'un çizdiği genel çerçeveye mutlak uyulur.<br>\n3. <strong>Programın Genel Amaçları (III):</strong> Dersin vizyon ve misyonu korunur.<br><br>\n• Her üç unsur da bağlayıcı olduğundan doğru seçenek <strong>E (I, II ve III)</strong>'tür.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nOkul temelli planlama esnektir ama <strong>1739 Sayılı Kanun ve Öğrenme Çıktıları</strong> asla esnetilemez!",
+    "question": "Türkiye Yüzyılı Maarif Modeli’nin temel unsurlarından biri olan okul temelli planlama; zümre öğretmenler kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştırılan araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma etkinlikleri gibi çalışmalara ayrılan süreyi ifade etmektedir. Bu kapsamda öğretmenlere öğretim programını uyarlama imkânı tanınarak esneklik sağlanması amaçlanmıştır.\n\nBuna göre okul temelli planlama çalışmalarında zümre öğretmenler kurulunun;\nI. Öğrenme çıktıları\nII. Türk Millî Eğitimi'nin Temel İlkeleri (1739 Sayılı Kanun)\nIII. Öğretim programlarının genel amaçları\n\nunsurlarından hangisini ya da hangilerini dikkate alması zorunludur?"
   },
   {
     "id": "egitim_tymm6-q24",
@@ -90390,7 +90436,7 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 24,
-    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde “öğrencilerin farklı disiplinlerde öğrendikleri ön bilgileri sentezleyerek yeni bilgiyi yapılandırmalarını ve bu süreçte bilimsel araştırma basamaklarını kullanarak somut bir ürün veya rapor oluşturmalarını odağa alan yaklaşım” aşağıdakilerden hangisidir?",
+    "questionText": "Türkiye Yüzyılı Maarif Modeli'nde “öğrencilerin farklı disiplinlerde öğrendikleri ön bilgileri sentezleyerek yeni bilgiyi yapılandırmalarını ve bu süreçte de bilimsel araştırma basamaklarını kullanarak somut bir ürün veya rapor oluşturmalarını odağa alan yaklaşım” aşağıdakilerden hangisidir?",
     "hasImage": false,
     "image": null,
     "options": [
@@ -90416,8 +90462,8 @@ window.EKYS_EXTRACTED_QUESTIONS = [
       }
     ],
     "correctAnswer": "D",
-    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Proje Temelli Öğrenme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Disiplinlerarası Öğrenme ve Proje Yaklaşımı</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Sorgulamaya Dayalı Öğrenme:</strong> Merak ve soru sorma ile başlar; bilimsel süreç becerilerini işletir ancak her zaman somut disiplinlerarası bir ürünle bitmek zorunda değildir.<br>\n• <strong>B) Bağlam Temelli Öğrenme:</strong> Konunun gerçek hayat senaryoları içine yerleştirilmesidir.<br>\n• <strong>C) Yaşantı Temelli Öğrenme:</strong> Kolb'un deneyimleyerek öğrenme döngüsüdür.<br>\n• <strong>D) Proje Temelli Öğrenme (DOĞRU ✔️):</strong> Farklı derslerin bilgisini sentezleme + Bilimsel araştırma aşamaları + <strong>Somut bir ürün/rapor ortaya koyma</strong> üçlüsünün birleştiği modeldir.<br>\n• <strong>E) İş Birlikli Öğrenme:</strong> Grup halinde ortak amaç için çalışmadır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu / Anahtar Kelimeler:</strong><br>\n<strong>Disiplinlerarası Sentez + Bilimsel Süreç + Somut Ürün Oluşturma</strong> = <strong>Proje Temelli Öğrenme</strong>!",
-    "question": "Türkiye Yüzyılı Maarif Modeli'nde “öğrencilerin farklı disiplinlerde öğrendikleri ön bilgileri sentezleyerek yeni bilgiyi yapılandırmalarını ve bu süreçte bilimsel araştırma basamaklarını kullanarak somut bir ürün veya rapor oluşturmalarını odağa alan yaklaşım” aşağıdakilerden hangisidir?"
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Proje temelli öğrenme)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Disiplinlerarası Öğrenme ve Proje Yaklaşımı</em>.<br><br>\n🔍 <strong>Seçeneklerin Detaylı Analizi:</strong><br>\n• <strong>A) Sorgulamaya Dayalı Öğrenme:</strong> Soru sorma ve araştırma sürecidir; somut ürün zorunluluğu yoktur.<br>\n• <strong>B) Bağlam Temelli Öğrenme:</strong> Öğrenmeyi günlük hayat senaryosuna bağlamadır.<br>\n• <strong>C) Yaşantı Temelli Öğrenme:</strong> Bireysel deneyim ve yansıtıcı gözlemdir.<br>\n• <strong>D) Proje Temelli Öğrenme (DOĞRU ✔️):</strong> <strong>Disiplinlerarası bilgi sentezi + Bilimsel araştırma basamakları + Somut ürün/rapor ortaya koyma</strong> üçlüsünün kesiştiği modeldir.<br>\n• <strong>E) İş Birlikli Öğrenme:</strong> Ortak çalışma ve pozitif bağımlılıktır.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\n<strong>Disiplinlerarası Sentez + Bilimsel Süreç + Somut Ürün/Rapor = Proje Temelli Öğrenme</strong>!",
+    "question": "Türkiye Yüzyılı Maarif Modeli'nde “öğrencilerin farklı disiplinlerde öğrendikleri ön bilgileri sentezleyerek yeni bilgiyi yapılandırmalarını ve bu süreçte de bilimsel araştırma basamaklarını kullanarak somut bir ürün veya rapor oluşturmalarını odağa alan yaklaşım” aşağıdakilerden hangisidir?"
   },
   {
     "id": "egitim_tymm6-q25",
@@ -90428,34 +90474,34 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "category": "Türkiye Yüzyılı Maarif Modeli",
     "icon": "🌱",
     "questionNumber": 25,
-    "questionText": "Bir öğretmen sınıfta “Bir arkadaşının sırrını korumak mı, yoksa gerçeği söylemek mi doğrudur?” konulu bir tartışma etkinliği düzenlemiştir. Bu tartışmada öğrenciler, hem farklı değerlerin çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş hem de kendi düşüncelerini gerekçeleriyle savunma imkanı bulmuşlardır.\n\nÖğretmen yapmış olduğu bu uygulamada hangi değer kazandırma yaklaşımlarını bir arada kullanmıştır?",
+    "questionText": "Bir öğretmen sınıfta “Bir arkadaşının sırrını korumak mı, yoksa gerçeği söylemek mi doğrudur?” konulu bir tartışma etkinliği düzenlemiştir. Bu tartışmada öğrenciler, hem farklı değerlerin çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş hem de kendi düşüncelerini gerekçeleriyle açıklama imkanı bulmuşlardır.\n\nÖğretmen yapmış olduğu bu uygulamada hangi değer kazandırma yaklaşımlarını bir arada kullanmıştır?",
     "hasImage": false,
     "image": null,
     "options": [
       {
         "key": "A",
-        "text": "Değer aşılama - Örtük öğrenme"
+        "text": "Değer aşılama – Örtük öğrenme"
       },
       {
         "key": "B",
-        "text": "Ahlaki Muhakeme - Değer açıklama"
+        "text": "Ahlaki Muhakeme – Değer açıklama"
       },
       {
         "key": "C",
-        "text": "Ahlaki muhakeme - Değer analizi"
+        "text": "Ahlaki muhakeme – Değer analizi"
       },
       {
         "key": "D",
-        "text": "Değer açıklama - Eylem öğrenme"
+        "text": "Değer açıklama – Eylem öğrenme"
       },
       {
         "key": "E",
-        "text": "Değer aşılama - Ahlaki muhakeme"
+        "text": "Değer aşılama – Ahlaki muhakeme"
       }
     ],
     "correctAnswer": "C",
-    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Ahlaki Muhakeme – Değer Analizi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Değerler Eğitimi Yöntem ve Teknikleri</em>.<br><br>\n🔍 <strong>İki Yaklaşımın Birleşimi ve Analizi:</strong><br>\n1. <strong>Ahlaki Muhakeme (Kohlberg):</strong> İki ahlaki değerin çatıştığı bir ikilem (dilemma) durumunda (Arkadaşın sırrını tutmak mı? Doğruyu söylemek mi?), öğrencinin kendi ahlaki gerekçesini akıl yürüterek savunmasıdır.<br>\n2. <strong>Değer Analizi:</strong> Değer çatışması içeren karmaşık bir sosyal olayı akılcı, mantıksal, kanıtlara dayalı ve eleştirel yöntemlerle irdeleme sürecidir.<br><br>\n• <strong>Neden B Şıkkı Değil?</strong> \"Değer Açıklama (Belirginleştirme)\" sadece bireyin ne hissettiğini ve tercihini serbestçe ifade etmesidir; çatışmayı rasyonel kanıtlarla derinlemesine analiz etmeyi içermez.<br>\n• <strong>Neden A veya E Değil?</strong> \"Değer Aşılama\" telkin ve ezber yöntemidir; sorgulayıcı tartışmalarda yer almaz.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nİkilem hikayesi varsa ➔ <strong>Ahlaki Muhakeme</strong>.<br>\nEleştirel kanıt ve mantık analizi varsa ➔ <strong>Değer Analizi</strong>.<br>\nİkisi birleştiğinde ➔ <strong>Ahlaki Muhakeme + Değer Analizi</strong>!<br><br>\n🎬 <strong>Canlı Yayın Video Notu:</strong><br>Hocamız derste vurguladı: <em>İkilem varsa Kohlberg'in ahlaki muhakemesidir; çatışan değerlerin kanıtlarını eleştirel irdelemek ise değer analizidir.</em>",
-    "question": "Bir öğretmen sınıfta “Bir arkadaşının sırrını korumak mı, yoksa gerçeği söylemek mi doğrudur?” konulu bir tartışma etkinliği düzenlemiştir. Bu tartışmada öğrenciler, hem farklı değerlerin çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş hem de kendi düşüncelerini gerekçeleriyle savunma imkanı bulmuşlardır.\n\nÖğretmen yapmış olduğu bu uygulamada hangi değer kazandırma yaklaşımlarını bir arada kullanmıştır?"
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Ahlaki muhakeme – Değer analizi)<br><br>\n📐 <strong>TYMM Resmî Metin & Kavram Koordinatı:</strong><br>\nMEB Türkiye Yüzyılı Maarif Modeli Ortak Metni — <em>Değerler Eğitimi Yöntem ve Teknikleri</em>.<br><br>\n🔍 <strong>İki Yaklaşımın Birleşimi:</strong><br>\n1. <strong>Ahlaki Muhakeme (Kohlberg):</strong> \"Sırrı korumak mı gerçeği söylemek mi?\" gibi iki çatışan erdem arasında ikilem (dilemma) durumunda gerekçe üreterek akıl yürütmedir.<br>\n2. <strong>Değer Analizi:</strong> Değer çatışmasını mantıksal, rasyonel, kanıtlara dayalı ve eleştirel bir yaklaşımla irdeleme sürecidir.<br><br>\n• <strong>Neden B Değil?</strong> Değer açıklama sadece bireyin kendi duygusunu ve tercihini beyan etmesidir; çatışmayı rasyonel kanıtlarla eleştirel irdeleme boyutu değer analizidir.<br>\n• <strong>Neden A veya E Değil?</strong> Değer aşılama telkin ve ezberdir; tartışma içermez.<br><br>\n💡 <strong>EKYS Sınav Tüyosu:</strong><br>\nİkilem hikayesi ➔ <strong>Ahlaki Muhakeme</strong>.<br>\nEleştirel kanıt analizi ➔ <strong>Değer Analizi</strong>.<br>\nİkisi bir arada ➔ <strong>Ahlaki Muhakeme + Değer Analizi</strong>!",
+    "question": "Bir öğretmen sınıfta “Bir arkadaşının sırrını korumak mı, yoksa gerçeği söylemek mi doğrudur?” konulu bir tartışma etkinliği düzenlemiştir. Bu tartışmada öğrenciler, hem farklı değerlerin çatışmasını eleştirel ve yaratıcı bakış açılarıyla irdelemiş hem de kendi düşüncelerini gerekçeleriyle açıklama imkanı bulmuşlardır.\n\nÖğretmen yapmış olduğu bu uygulamada hangi değer kazandırma yaklaşımlarını bir arada kullanmıştır?"
   },
   {
     "id": "egitim_oyt_olcme7-q1",
