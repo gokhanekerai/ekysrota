@@ -1,12 +1,12 @@
-// EKYSrota Service Worker (Network-First for HTML, Stale-While-Revalidate for Assets)
-const CACHE_NAME = 'ekysrota-v258.0';
+﻿// EKYSrota Service Worker (Network-First for HTML, Stale-While-Revalidate for Assets)
+const CACHE_NAME = 'ekysrota-v259.0';
 
 self.addEventListener('install', (e) => {
   self.skipWaiting();
 });
 
 self.addEventListener('activate', (e) => {
-  // Eski tüm önbellekleri anında temizle ve istemcileri devral
+  // Eski tÃ¼m Ã¶nbellekleri anÄ±nda temizle ve istemcileri devral
   e.waitUntil(
     caches.keys().then((keys) => {
       return Promise.all(
@@ -28,12 +28,12 @@ self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   const url = new URL(e.request.url);
 
-  // Firestore & Firebase Auth API çağrılarını önbelleğe alma (canlı veri)
+  // Firestore & Firebase Auth API Ã§aÄŸrÄ±larÄ±nÄ± Ã¶nbelleÄŸe alma (canlÄ± veri)
   if (url.origin.includes('firestore.googleapis.com') || url.origin.includes('identitytoolkit')) {
     return;
   }
 
-  // 1. HTML ve Ana Sayfa İstekleri: Network-First (Çevrimiçiyken daima en güncel sürüm, çevrimdışıyken önbellek)
+  // 1. HTML ve Ana Sayfa Ä°stekleri: Network-First (Ã‡evrimiÃ§iyken daima en gÃ¼ncel sÃ¼rÃ¼m, Ã§evrimdÄ±ÅŸÄ±yken Ã¶nbellek)
   if (e.request.mode === 'navigate' || url.pathname.endsWith('index.html') || url.pathname === '/' || url.pathname === '/ekysrota/' || url.pathname === '/ekysrota') {
     e.respondWith(
       fetch(e.request)
@@ -49,7 +49,7 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  // 2. Statik Varlıklar (JS, CSS, Font, Resim): Stale-While-Revalidate
+  // 2. Statik VarlÄ±klar (JS, CSS, Font, Resim): Stale-While-Revalidate
   e.respondWith(
     caches.open(CACHE_NAME).then((cache) => {
       return cache.match(e.request).then((cachedResponse) => {
