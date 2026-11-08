@@ -232,6 +232,21 @@ class StorageService {
     return dbQuestions;
   }
 
+  getQuestionMap() {
+    const questions = this.getQuestions();
+    if (this._cachedQuestionMap && this._cachedQuestionMapSize === questions.length && questions.length > 0) {
+      return this._cachedQuestionMap;
+    }
+    const map = new Map();
+    for (let i = 0; i < questions.length; i++) {
+      const q = questions[i];
+      if (q && q.id) map.set(q.id, q);
+    }
+    this._cachedQuestionMap = map;
+    this._cachedQuestionMapSize = questions.length;
+    return map;
+  }
+
   saveQuestions(questions) {
     localStorage.setItem(this.KEYS.QUESTIONS, JSON.stringify(questions));
   }
@@ -293,6 +308,7 @@ class StorageService {
       let changed = false;
       const migKey = 'ekys2027_wrong_pool_v243_secenek_a';
       const needsV243Fix = !localStorage.getItem(migKey);
+      const qMap = this.getQuestionMap();
 
       pool.forEach(item => {
         if (needsV243Fix) {
@@ -304,10 +320,40 @@ class StorageService {
           delete item.lastReviewedDate;
           changed = true;
         }
+        // Toplam yanlış sayısını koru (totalWrongCount)
+        if (!item.totalWrongCount || Number(item.totalWrongCount) < (Number(item.wrongCount) || 1)) {
+          item.totalWrongCount = Number(item.wrongCount) || 1;
+          changed = true;
+        }
         if ((item.srsStage || 1) >= 2 && (item.isCritical || Number(item.wrongCount) >= 2)) {
           item.isCritical = false;
           item.wrongCount = 1;
           changed = true;
+        }
+        // ADIM 1: Güncel soru bankası (questions-db.js) ile senkronize et (Stale Snapshot Fix)
+        const freshQ = item.id ? qMap.get(item.id) : null;
+        if (freshQ) {
+          const freshText = freshQ.questionText || freshQ.question || '';
+          if (freshText && item.questionText !== freshText) {
+            item.questionText = freshText;
+            item.question = freshText;
+            changed = true;
+          }
+          if (freshQ.correctAnswer && item.correctAnswer !== freshQ.correctAnswer) {
+            item.correctAnswer = freshQ.correctAnswer;
+            changed = true;
+          }
+          if (freshQ.explanation && item.explanation !== freshQ.explanation) {
+            item.explanation = freshQ.explanation;
+            changed = true;
+          }
+          if (Array.isArray(freshQ.options) && freshQ.options.length > 0) {
+            item.options = freshQ.options;
+          }
+          if (freshQ.topicId && !item.topicId) item.topicId = freshQ.topicId;
+          if (freshQ.topicName && item.topicName !== freshQ.topicName) item.topicName = freshQ.topicName;
+          if (freshQ.category && item.category !== freshQ.category) item.category = freshQ.category;
+          if (freshQ.testTitle && item.testTitle !== freshQ.testTitle) item.testTitle = freshQ.testTitle;
         }
       });
 
@@ -328,12 +374,17 @@ class StorageService {
     const existing = pool.find(item => item.id === question.id);
     const nowMs = Date.now();
     const nowIso = new Date(nowMs).toISOString();
-    const nextDayIso = new Date(nowMs + 24 * 60 * 60 * 1000).toISOString(); // 1. Gün tekrarı 24 saat sonra açılır
+    const nextDayIso = new Date(nowMs + 24 * 60 * 60 * 1000).toISOString(); // 1. Gün tekrarı
 
     if (existing) {
-      existing.wrongCount = (existing.wrongCount || 1) + 1;
+      const prevStageWrong = Number(existing.wrongCount) || 1;
+      const prevTotalWrong = Math.max(Number(existing.totalWrongCount) || 1, prevStageWrong);
+      existing.wrongCount = prevStageWrong + 1;
+      existing.totalWrongCount = prevTotalWrong + 1;
       existing.srsStage = 1; // Tekrar yanlış yapıldığında 1. Aşamaya (1. Gün) sıfırlanır
       existing.isCritical = existing.wrongCount >= 2;
+      existing.firstPassDone = false;
+      existing.earlyReviewDone = false;
       existing.lastWrongDate = nowIso;
       existing.nextReviewDate = nextDayIso;
       existing.lastUserAnswer = userAnswer;
@@ -341,8 +392,11 @@ class StorageService {
       pool.push({
         ...question,
         wrongCount: 1,
+        totalWrongCount: 1,
         srsStage: 1,
         isCritical: false,
+        firstPassDone: false,
+        earlyReviewDone: false,
         addedDate: nowIso,
         lastWrongDate: nowIso,
         nextReviewDate: nextDayIso,
@@ -355,7 +409,7 @@ class StorageService {
     return pool;
   }
 
-  advanceWrongPoolReview(questionId) {
+  advanceWrongPoolReview(questionId, options = {}) {
     let pool = this.getWrongPool();
     const idx = pool.findIndex(item => item.id === questionId);
     if (idx === -1) return { status: 'not_found' };
@@ -363,20 +417,32 @@ class StorageService {
     const item = pool[idx];
     const currentStage = item.srsStage || 1;
     const isCriticalItem = Boolean(item.isCritical) || (Number(item.wrongCount) || 1) >= 2;
+    const forceAdvance = Boolean(options && options.forceAdvance);
     const now = Date.now();
     const nextTime = item.nextReviewDate ? new Date(item.nextReviewDate).getTime() : 0;
 
-    // Öneri 1: Soru Kritik Soru (2+ kez yanlış) ise doğru çözüldüğü anda 24 saat kilidi beklenmeden Kritik listesinden düşer ve 2. Aşamaya (7. Gün) yükselir!
-    if (!isCriticalItem && nextTime && nextTime > now) {
+    // ADIM 4: 1. Aşamadaki sorular (veya Kritik Sorular) aynı gün içinde doğru tekrar edildiğinde 24 saat kilidine takılmadan
+    // İlk Tekrar Tamamlandı (✓) olarak onaylanır ve doğrudan 2. Aşamaya (7. Gün Tekrarı) yükselir.
+    // 2. ve 3. Aşamadaki sorular ise günü gelmeden çözülürse (forceAdvance değilse) "Ara Tekrar Yapıldı (✓)" işareti alır.
+    if (currentStage >= 2 && !isCriticalItem && !forceAdvance && nextTime && nextTime > now) {
       const daysLeft = Math.max(1, Math.ceil((nextTime - now) / (1000 * 60 * 60 * 24)));
+      item.earlyReviewDone = true;
+      item.lastReviewedDate = new Date(now).toISOString();
+      localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
       return { status: 'not_due_yet', stage: currentStage, daysLeft };
     }
     this._lastLocalWrongPoolUpdate = now;
 
+    // ADIM 5: Toplam yanlış sayısını (totalWrongCount) kaybetmeden koru
+    const preservedTotalWrong = Math.max(Number(item.totalWrongCount) || 1, Number(item.wrongCount) || 1);
+
     if (currentStage === 1) {
       item.srsStage = 2;
       item.isCritical = false;
+      item.totalWrongCount = preservedTotalWrong;
       item.wrongCount = 1;
+      item.firstPassDone = true;
+      item.earlyReviewDone = false;
       item.lastReviewedDate = new Date(now).toISOString();
       item.nextReviewDate = new Date(now + 7 * 24 * 60 * 60 * 1000).toISOString();
       localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
@@ -385,7 +451,9 @@ class StorageService {
     } else if (currentStage === 2) {
       item.srsStage = 3;
       item.isCritical = false;
+      item.totalWrongCount = preservedTotalWrong;
       item.wrongCount = 1;
+      item.earlyReviewDone = false;
       item.lastReviewedDate = new Date(now).toISOString();
       item.nextReviewDate = new Date(now + 30 * 24 * 60 * 60 * 1000).toISOString();
       localStorage.setItem(this.KEYS.WRONG_POOL, JSON.stringify(pool));
@@ -418,7 +486,21 @@ class StorageService {
   // --- FAVORİ (YILDIZLI) SORULAR ---
   getFavorites() {
     try {
-      return JSON.parse(localStorage.getItem(this.KEYS.FAVORITES)) || [];
+      const favs = JSON.parse(localStorage.getItem(this.KEYS.FAVORITES)) || [];
+      const qMap = this.getQuestionMap();
+      favs.forEach(item => {
+        const freshQ = item.id ? qMap.get(item.id) : null;
+        if (freshQ) {
+          item.questionText = freshQ.questionText || freshQ.question || item.questionText;
+          item.question = item.questionText;
+          item.options = freshQ.options || item.options;
+          item.correctAnswer = freshQ.correctAnswer || item.correctAnswer;
+          item.explanation = freshQ.explanation || item.explanation;
+          item.topicName = freshQ.topicName || item.topicName;
+          item.category = freshQ.category || item.category;
+        }
+      });
+      return favs;
     } catch (e) {
       return [];
     }
