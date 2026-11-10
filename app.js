@@ -1800,11 +1800,19 @@ class EKYSApp {
           },
           {
             id: 'egitim_oyt_olcme_karma_7_eb',
-            name: '🎯 ÖYT ve Ölçme-Değerlendirme Kapsamlı Karma Testi',
+            name: '🎯 05. TYMM - Eğitim Bilimleri Soru Çözümü (ÖYT & Ölçme 15 Soru)',
             icon: '🎯',
-            desc: 'Eğitim Felsefeleri, Posner Program Türleri, Gagne, Tam Öğrenme, İstasyon, Standart Sapma ve Tablo/Grafik Analizleri (15 Soru • Çözümlü).',
+            desc: '05. TYMM - Eğitim Bilimleri Soru Çözümü PDF (Soru 26-40): Eğitim Felsefeleri, Posner, Gagne, Tam Öğrenme, İstasyon ve Tablo/Grafik Analizleri (15 Soru • A-E Çözümlü).',
             filterKey: 'egitim_oyt_olcme_karma_7',
-            badge: '📊 15 Soru • Karma Test'
+            badge: '📊 15 Soru • Soru 26-40'
+          },
+          {
+            id: 'egitim_tymm_05_tamami_eb',
+            name: '🔥 05. TYMM - Eğitim Bilimleri Soru Çözümü Tamamı (40 Soru)',
+            icon: '🔥',
+            desc: '05. TYMM - Eğitim Bilimleri (Soru Çözümü) PDF dosyasındaki 40 sorunun tamamı (25 TYMM + 15 Eğitim Bilimleri / Ölçme-Değerlendirme • A-E Detaylı Çözümlü).',
+            filterKey: 'tymm_05_40_soru',
+            badge: '🔥 40 Soru • Tamamı'
           },
           {
             id: 'egitim_video_test_1_eb',
@@ -2060,11 +2068,27 @@ class EKYSApp {
           },
           {
             id: 'egitim_tymm_6',
-            name: '🌱 TYMM Test 6: Kapsamlı TYMM Soru Fasikülü',
+            name: '🌱 TYMM Test 6: 05. TYMM Soru Çözümü - Bölüm 1 (Soru 1-25)',
             icon: '🌱',
-            desc: 'Modelin Öğrenci Profili, Beceriler, Eğilimler, Okul Temelli Planlama ve Farklılaştırılmış Öğretim (25 Soru • Çözümlü).',
+            desc: '05. TYMM - Eğitim Bilimleri Soru Çözümü PDF (Soru 1-25): Öğrenci Profili, Beceriler, Eğilimler, Okul Temelli Planlama ve Farklılaştırılmış Öğretim (25 Soru • A-E Çözümlü).',
             filterKey: 'egitim_tymm_6',
             badge: '🌱 25 Soru • Test 6'
+          },
+          {
+            id: 'egitim_tymm_7',
+            name: '🌱 TYMM Test 7: 05. TYMM & Eğitim Bilimleri Soru Çözümü - Bölüm 2 (Soru 26-40)',
+            icon: '🎯',
+            desc: '05. TYMM - Eğitim Bilimleri Soru Çözümü PDF (Soru 26-40): Eğitim Felsefeleri, Posner, Gagne, Tam Öğrenme, İstasyon ve Ölçme Tablo/Grafik Analizleri (15 Soru • A-E Çözümlü).',
+            filterKey: 'egitim_oyt_olcme_karma_7',
+            badge: '🎯 15 Soru • Test 7'
+          },
+          {
+            id: 'egitim_tymm_05_tamami',
+            name: '🔥 05. TYMM - Eğitim Bilimleri Soru Çözümü Tamamı (40 Soru Tek Test)',
+            icon: '🔥',
+            desc: '05. TYMM - Eğitim Bilimleri (Soru Çözümü) PDF dosyasındaki 40 sorunun tamamı (Soru 1-25 TYMM + Soru 26-40 Eğitim Bilimleri & Ölçme-Değerlendirme • A-E Çözümlü).',
+            filterKey: 'tymm_05_40_soru',
+            badge: '🔥 40 Soru • Tamamı'
           },
           {
             id: 'maarif_2026',
@@ -3231,8 +3255,11 @@ class EKYSApp {
       if (filterKey === 'egitim_tymm_4' || filterKey === 'tymm_4') return (q.testId === 'egitim_tymm_4' || tId === 'egitim_tymm_4');
       if (filterKey === 'egitim_tymm_5' || filterKey === 'tymm_5') return (q.testId === 'egitim_tymm_5' || tId === 'egitim_tymm_5');
       if (filterKey === 'egitim_tymm_6' || filterKey === 'tymm_6') return (q.testId === 'egitim_tymm_6' || tId === 'egitim_tymm_6');
+      if (filterKey === 'tymm_05_40_soru') {
+        return (q.testId === 'egitim_tymm_6' || tId === 'egitim_tymm_6' || q.testId === 'egitim_oyt_olcme_karma_7' || tId === 'egitim_oyt_olcme_karma_7');
+      }
       if (filterKey === 'egitim_tymm_tum' || filterKey === 'tymm_all') {
-        return q.testId === 'egitim_tymm_1' || q.testId === 'egitim_tymm_2' || q.testId === 'egitim_tymm_3' || q.testId === 'egitim_tymm_4' || q.testId === 'egitim_tymm_5' || q.testId === 'egitim_tymm_6' || (q.testId && q.testId.startsWith('egitim_tymm_'));
+        return q.testId === 'egitim_tymm_1' || q.testId === 'egitim_tymm_2' || q.testId === 'egitim_tymm_3' || q.testId === 'egitim_tymm_4' || q.testId === 'egitim_tymm_5' || q.testId === 'egitim_tymm_6' || q.testId === 'egitim_oyt_olcme_karma_7' || (q.testId && q.testId.startsWith('egitim_tymm_'));
       }
 
       // 1. Özel Video Tarama & Yeni Münferit Coğrafya & Eğitim Bilimleri Testleri
