@@ -1516,6 +1516,30 @@ class EKYSApp {
         desc: 'Çözmek istediğiniz Yurttaşlık testini seçin:',
         items: [
           {
+            id: 'yurttaslik_anayasa_test_6_1',
+            name: '⚖️ 1982 Anayasası Test 6.1: Temel Hakların Sınıflandırılması ve Sınırlandırılması (24 Soru)',
+            icon: '🆕',
+            desc: 'Negatif/Pozitif/Aktif Statü Hakları, 2001 Değişikliği, Çekirdek Alan ve Hakların Sınırlandırılması (24 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_6_1',
+            badge: '🔥 YENİ • 24 Soru'
+          },
+          {
+            id: 'yurttaslik_anayasa_test_6_2',
+            name: '⚖️ 1982 Anayasası Test 6.2: Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler (23 Soru)',
+            icon: '🆕',
+            desc: 'Türk Vatandaşlığı, Kamu Başdenetçisi (KDK), Bilgi Edinme, Seçmen Yaşı ve Siyasi Partiler Hukuku (23 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_6_2',
+            badge: '🔥 YENİ • 23 Soru'
+          },
+          {
+            id: 'yurttaslik_anayasa_test_6_tam',
+            name: '🔥 1982 Anayasası 6. Test Tamamı: Temel Haklar, KDK ve Siyasi Partiler (47 Soru)',
+            icon: '⚖️',
+            desc: '2027 Anayasa 6. Test PDF dosyasındaki 47 sorunun tamamı ve 4 bölümlü pedagojik çözümleri.',
+            filterKey: 'anayasa_2027_test_6_tam',
+            badge: '🔥 YENİ • 47 Soru Tamamı'
+          },
+          {
             id: 'ekys_2026_yurttaslik',
             name: '2026 EKYS Yurttaşlık Çıkmış Soruları',
             icon: '📜',
@@ -2322,6 +2346,30 @@ class EKYSApp {
             badge: '20 Soru • 2027 Test 5.2'
           },
           {
+            id: 'anayasa_2027_test_6_1',
+            name: '⚖️ 1982 Anayasası Test 6.1: Temel Hakların Sınıflandırılması ve Sınırlandırılması',
+            icon: '🆕',
+            desc: 'Negatif/Pozitif/Aktif Statü Hakları, 2001 Değişikliği, Çekirdek Alan ve Hakların Sınırlandırılması (24 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_6_1',
+            badge: '🔥 YENİ • 24 Soru • Test 6.1'
+          },
+          {
+            id: 'anayasa_2027_test_6_2',
+            name: '⚖️ 1982 Anayasası Test 6.2: Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler',
+            icon: '🆕',
+            desc: 'Türk Vatandaşlığı, Kamu Başdenetçisi (KDK), Bilgi Edinme, Seçmen Yaşı ve Siyasi Partiler Hukuku (23 Soru • 2027 Özel).',
+            filterKey: 'anayasa_2027_test_6_2',
+            badge: '🔥 YENİ • 23 Soru • Test 6.2'
+          },
+          {
+            id: 'anayasa_2027_test_6_tam',
+            name: '🔥 1982 Anayasası 6. Test Tamamı: Temel Haklar, KDK ve Siyasi Partiler (47 Soru)',
+            icon: '⚖️',
+            desc: '2027 Anayasa 6. Test PDF dosyasındaki 47 sorunun tamamı ve 4 bölümlü pedagojik çözümleri.',
+            filterKey: 'anayasa_2027_test_6_tam',
+            badge: '🔥 YENİ • 47 Soru Tamamı'
+          },
+          {
             id: 'ekys_2026_mevzuat_anayasa',
             name: '2026 EKYS Anayasa Çıkmış Soruları',
             icon: '📜',
@@ -2759,6 +2807,30 @@ class EKYSApp {
             desc: 'Talim ve Terbiye Kurulu, Teftiş Kurulu, Taşınır/Taşınmaz, Bilgi İşlem ve Personel Mevzuatı (17 Soru • Özgün Pekiştirme).',
             filterKey: 'mevzuat_1cbk_t3',
             badge: '17 Soru • Test 3'
+          },
+          {
+            id: 'mevzuat_1cbk_t4_1',
+            name: '📜 1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Md. 301-318)',
+            icon: '🆕',
+            desc: 'On Birinci Bölüm Slayt Testi (Soru 1-24): Temel Eğitim, Ortaöğretim, Mesleki Eğitim, YEĞİTEK, Özel Öğretim, Hayat Boyu Öğrenme, Personel ve Destek Hizmetleri.',
+            filterKey: 'mevzuat_1cbk_t4_1',
+            badge: '🔥 YENİ • 24 Soru • Test 4.1'
+          },
+          {
+            id: 'mevzuat_1cbk_t4_2',
+            name: '📜 1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Md. 318-335)',
+            icon: '🆕',
+            desc: 'On Birinci Bölüm Slayt Testi (Soru 25-47): Bilgi İşlem, İnşaat ve Emlak, TTKB, Teftiş Kurulu, Milli Eğitim Şurası, Yurt Dışı/Taşra Teşkilatı ve Öğretmenlerin Emekliliği.',
+            filterKey: 'mevzuat_1cbk_t4_2',
+            badge: '🔥 YENİ • 23 Soru • Test 4.2'
+          },
+          {
+            id: 'mevzuat_1cbk_t4_tam',
+            name: '🔥 1 Sayılı CBK On Birinci Bölüm (MEB) Slayt Soruları Tamamı (47 Soru)',
+            icon: '🏛️',
+            desc: 'EKYS On Birinci Bölüm 47 Soru PDF dosyasındaki tüm sorular (Madde 301-335) ve ders notu/mevzuat destekli pedagojik çözümleri.',
+            filterKey: 'mevzuat_1cbk_t4_tam',
+            badge: '🔥 YENİ • 47 Soru Tamamı'
           },
           {
             id: 'ekys_2026_mevzuat_1cbk',
@@ -3270,9 +3342,15 @@ class EKYSApp {
       if (filterKey === 'anayasa_2027_test_4' || filterKey === 'anayasa_2027_4') return q.testId === 'anayasa_2027_test_4';
       if (filterKey === 'anayasa_2027_test_5_1' || filterKey === 'anayasa_2027_5_1') return q.testId === 'anayasa_2027_test_5_1';
       if (filterKey === 'anayasa_2027_test_5_2' || filterKey === 'anayasa_2027_5_2') return q.testId === 'anayasa_2027_test_5_2';
+      if (filterKey === 'anayasa_2027_test_6_1' || filterKey === 'anayasa_2027_6_1') return q.testId === 'anayasa_2027_test_6_1';
+      if (filterKey === 'anayasa_2027_test_6_2' || filterKey === 'anayasa_2027_6_2') return q.testId === 'anayasa_2027_test_6_2';
+      if (filterKey === 'anayasa_2027_test_6_tam' || filterKey === 'anayasa_2027_6_tam') return (q.testId === 'anayasa_2027_test_6_1' || q.testId === 'anayasa_2027_test_6_2');
       if (filterKey === 'mevzuat_1cbk_t1') return q.testId === 'mevzuat_1cbk_t1';
       if (filterKey === 'mevzuat_1cbk_t2') return q.testId === 'mevzuat_1cbk_t2';
       if (filterKey === 'mevzuat_1cbk_t3') return q.testId === 'mevzuat_1cbk_t3';
+      if (filterKey === 'mevzuat_1cbk_t4_1') return q.testId === 'mevzuat_1cbk_t4_1';
+      if (filterKey === 'mevzuat_1cbk_t4_2') return q.testId === 'mevzuat_1cbk_t4_2';
+      if (filterKey === 'mevzuat_1cbk_t4_tam') return (q.testId === 'mevzuat_1cbk_t4_1' || q.testId === 'mevzuat_1cbk_t4_2');
       if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
       if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
       if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');

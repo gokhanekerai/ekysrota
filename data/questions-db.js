@@ -91057,5 +91057,3295 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     ],
     "correctAnswer": "A",
     "explanation": "✅ <strong>Doğru Cevap: A</strong> (Tarih / Matematik)<br><br>\n📐 <strong>Eğitim Bilimleri & Ölçme-Değerlendirme Koordinatı:</strong><br>\nMutlak Başarı ve Test Güçlüğü — <em>Farklı Soru Sayısına Sahip Testlerde Grup Başarısının Karşılaştırılması</em>.<br><br>\n🔍 <strong>Seçeneklerin Adım Adım Hesaplama Analizi:</strong><br>\nSınavların soru sayıları birbirinden farklı olduğunda mutlak başarı, <strong>Ortalama ÷ Soru Sayısı (Ortalama Güçlük = P̄j)</strong> formülüyle yüzdeliğe çevrilerek karşılaştırılır:<br>\n• <strong>Türkçe:</strong> 25 ÷ 50 = 0,50 → <strong>%50 Başarı</strong><br>\n• <strong>Matematik:</strong> 12 ÷ 40 = 0,30 → <strong>%30 Başarı (EN BAŞARISIZ DERS ❌)</strong><br>\n• <strong>Tarih:</strong> 45 ÷ 60 = 0,75 → <strong>%75 Başarı (EN BAŞARILI DERS 🏆)</strong><br>\n• <strong>Coğrafya:</strong> 8 ÷ 20 = 0,40 → <strong>%40 Başarı</strong><br>\n• <strong>Felsefe:</strong> 18 ÷ 30 = 0,60 → <strong>%60 Başarı</strong><br><br>\n• <strong>A Şıkkı (Tarih / Matematik — Doğru Cevap ✔️):</strong> En başarılı ders <strong>Tarih (%75)</strong>, en başarısız ders ise <strong>Matematik (%30)</strong>’tir.<br>\n• <strong>B Şıkkı (Tarih / Coğrafya ❌):</strong> Coğrafya’nın ortalaması (8) sayıca en küçük görünse de 20 soruda 8 doğru (%40), Matematikteki 40 soruda 12 doğrudan (%30) daha yüksek bir başarıdır! Bu şık en büyük çeldiricidir.<br>\n• <strong>C, D ve E Şıkları (❌):</strong> Yüzdelik başarı sıralaması <em>Tarih (%75) > Felsefe (%60) > Türkçe (%50) > Coğrafya (%40) > Matematik (%30)</em> şeklindedir.<br><br>\n💡 <strong>EKYS Sınav Tüyosu & Canlı Yayın Çözüm Notu:</strong><br>\n<strong>Dikkat:</strong> Ortalaması 8 diye Coğrafya’yı en başarısız seçmek en sık düşülen tuzaktır! Soru sayıları eşit değilse daima <strong>Ortalama ÷ Soru Sayısı</strong> işlemini yapın."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q1",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "Bir kişinin konutuna hukuka aykırı biçimde girilmesine karşı korunması, hakların klasik sınıflandırılmasında hangi gruptadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Katılma hakları"
+      },
+      {
+        "key": "B",
+        "text": "Sosyal yardım hakları"
+      },
+      {
+        "key": "C",
+        "text": "Pozitif statü hakları"
+      },
+      {
+        "key": "D",
+        "text": "Negatif statü hakları"
+      },
+      {
+        "key": "E",
+        "text": "Aktif statü hakları"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Negatif statü hakları)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 21 (Konut Dokunulmazlığı) & Jellinek Statü Teorisi<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nKişinin konutuna devletin veya üçüncü kişilerin hukuka aykırı müdahalesini yasaklayan <strong>Konut Dokunulmazlığı (m. 21)</strong>, devlete <em>\"karışma / dokunma / gölge etme\"</em> ödevi yükleyen <strong>Kişinin Hakları ve Ödevleri (Negatif Statü / Koruyucu Haklar)</strong> grubundadır.<br><br>\n• <strong>A Şıkkı (Katılma hakları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Sosyal yardım hakları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Pozitif statü hakları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Negatif statü hakları — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (Aktif statü hakları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nDevletten <strong>müdahale etmemesini (dokunmamasını)</strong> beklediğimiz haklar = <strong>Negatif Statü (Kişi Hakları)</strong>; devletten <strong>hizmet/edim</strong> beklediğimiz haklar = <strong>Pozitif Statü (Sosyal ve Ekonomik Haklar)</strong>; devlet yönetimine <strong>katılma</strong> hakları = <strong>Aktif Statü (Siyasi Haklar)</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q2",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "I. Vergi ödevi\nII. Kamu hizmetine girme hakkı\nIII. Kanuni hâkim güvencesi\n\nHangileri siyasi haklar ve ödevler bölümündedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I ve II"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I ve II)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Dördüncü Bölüm (Siyasi Haklar ve Ödevler — m. 66–74)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>I. Vergi Ödevi (m. 73 ✔️):</strong> Siyasi Haklar ve Ödevler bölümündedir.<br>• <strong>II. Kamu Hizmetine Girme Hakkı (m. 70 ✔️):</strong> Siyasi Haklar ve Ödevler bölümündedir.<br>• <strong>III. Kanuni Hâkim Güvencesi (m. 37 ❌):</strong> <em>Kişinin Hakları ve Ödevleri (Negatif Statü)</em> bölümünde yer alır.<br><br>\n• <strong>A Şıkkı (I, II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Yalnız III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I ve II — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Vatan Hizmeti (m. 72) ve Vergi Ödevi (m. 73)</strong> ekonomik gibi görünse de Anayasa'da <strong>Siyasi Haklar ve Ödevler</strong> bölümünde düzenlenmiştir!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q3",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sendika hakkı — sosyal hak"
+      },
+      {
+        "key": "B",
+        "text": "Konut dokunulmazlığı — negatif statü"
+      },
+      {
+        "key": "C",
+        "text": "Sağlık hakkı — sosyal hak"
+      },
+      {
+        "key": "D",
+        "text": "Oy kullanma — aktif statü"
+      },
+      {
+        "key": "E",
+        "text": "Mülkiyet hakkı — pozitif statü"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Mülkiyet hakkı — pozitif statü)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 35 (Mülkiyet Hakkı — Kişinin Hakları ve Ödevleri)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n<strong>Mülkiyet Hakkı (m. 35)</strong> ekonomik içerikli görünmesine rağmen 1982 Anayasası'nda <em>Sosyal ve Ekonomik Haklar (Pozitif Statü)</em> bölümünde değil; <strong>Kişinin Hakları ve Ödevleri (Negatif Statü)</strong> bölümünde düzenlenmiştir! Diğer dört eşleştirme tamamen doğrudur.<br><br>\n• <strong>A Şıkkı (Sendika hakkı — sosyal hak ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Konut dokunulmazlığı — negatif statü ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Sağlık hakkı — sosyal hak ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Oy kullanma — aktif statü ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Mülkiyet hakkı — pozitif statü — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>En Büyük Sınav Tuzağı:</strong> <em>Mülkiyet Hakkı (m. 35)</em> ve <em>İspat Hakkı (m. 39)</em> <strong>Kişi Hakları (Negatif Statü)</strong> bölümündedir; <em>Konut Hakkı (m. 57)</em> ise <strong>Sosyal Haklar (Pozitif Statü)</strong> bölümündedir!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q4",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "I. Konut hakkı\nII. Konut dokunulmazlığı\nIII. Ücrette adalet\n\nHangileri sosyal ve ekonomik haklardır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "II ve III"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "D",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "E",
+        "text": "I ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 21, Madde 55 ve Madde 57<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>I. Konut Hakkı (m. 57 ✔️):</strong> Devletin konut ihtiyacını karşılayacak tedbirleri almasını öngördüğü için <strong>Sosyal ve Ekonomik Haklar</strong> bölümündedir.<br>• <strong>II. Konut Dokunulmazlığı (m. 21 ❌):</strong> Mevcut konuta girilmemesini koruduğu için <strong>Kişinin Hakları (Negatif Statü)</strong> bölümündedir.<br>• <strong>III. Ücrette Adalet Sağlanması (m. 55 ✔️):</strong> <strong>Sosyal ve Ekonomik Haklar</strong> bölümündedir.<br><br>\n• <strong>A Şıkkı (I ve II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (I, II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>İkili Ayrım Şifresi:</strong> <em>Konut Dokunulmazlığı</em> = Kişi Hakkı (Negatif); <em>Konut Hakkı</em> = Sosyal Hak (Pozitif)."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q5",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "Bir yurttaşın siyasi partiye katılması hangi hak kategorisine örnektir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Negatif statü"
+      },
+      {
+        "key": "B",
+        "text": "Pozitif statü"
+      },
+      {
+        "key": "C",
+        "text": "Aktif statü"
+      },
+      {
+        "key": "D",
+        "text": "Ekonomik girişim"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal güvenlik"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Aktif statü)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 67–68 (Parti Kurma, Partilere Girme ve Partilerden Ayrılma)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nVatandaşların seçme, seçilme, siyasi parti kurma, siyasi partilere üye olma ve kamu yönetimine katılma hakları Jellinek sınıflandırmasında <strong>Aktif Statü Hakları (Katılma / Siyasi Haklar)</strong> olarak adlandırılır.<br><br>\n• <strong>A Şıkkı (Negatif statü ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Pozitif statü ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Aktif statü — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>D Şıkkı (Ekonomik girişim ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Sosyal güvenlik ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nDevlet yönetimine ve siyasal iradenin oluşumuna katılmayı sağlayan tüm haklar <strong>Aktif Statü (Siyasi Haklar)</strong> grubundadır."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q6",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "I. Hak arama hürriyeti\nII. Dilekçe hakkı\nIII. Bilgi edinme hakkı\n\nHangileri Anayasa'nın siyasi haklar bölümündedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve II"
+      },
+      {
+        "key": "B",
+        "text": "II ve III"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "D",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "E",
+        "text": "I ve III"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 36 (Hak Arama Hürriyeti) ve Madde 74 (Dilekçe, Bilgi Edinme ve Kamu Denetçisine Başvurma Hakkı)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>I. Hak Arama Hürriyeti (m. 36 ❌):</strong> Mahkemeler önünde davacı/davalı olma ve adil yargılanma hakkıdır; <strong>Kişinin Hakları ve Ödevleri</strong> bölümündedir.<br>• <strong>II. Dilekçe Hakkı ve III. Bilgi Edinme Hakkı (m. 74 ✔️):</strong> Kamu Denetçisine başvurma hakkı ile birlikte 1982 Anayasası'nın 74. maddesinde, yani <strong>Siyasi Haklar ve Ödevler</strong> bölümünde düzenlenmiştir.<br><br>\n• <strong>A Şıkkı (I ve II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (I, II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Madde 74 Üçlüsü (Siyasi Haklar):</strong> <em>Dilekçe Hakkı + Bilgi Edinme Hakkı + Kamu Denetçisine Başvurma Hakkı</em>. Buna karşılık <em>Hak Arama Hürriyeti (m. 36)</em> Kişi Hakkıdır!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q7",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "Aşağıdakilerden hangisi kişi hakları arasında yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sendika kurma hakkı"
+      },
+      {
+        "key": "B",
+        "text": "Vergi ödevi"
+      },
+      {
+        "key": "C",
+        "text": "Sosyal güvenlik hakkı"
+      },
+      {
+        "key": "D",
+        "text": "İspat hakkı"
+      },
+      {
+        "key": "E",
+        "text": "Konut hakkı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (İspat hakkı)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 39 (İspat Hakkı)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>D Şıkkı (İspat Hakkı — m. 39 ✔️):</strong> Kamu görev ve hizmetinde bulunanlara karşı yapılan isnatlarda ispat hakkı, <strong>Kişinin Hakları ve Ödevleri</strong> bölümündedir.<br>• A, C ve E şıkları <em>Sosyal ve Ekonomik Haklar</em>, B şıkkı (Vergi ödevi) ise <em>Siyasi Haklar ve Ödevler</em> bölümündedir.<br><br>\n• <strong>A Şıkkı (Sendika kurma hakkı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Vergi ödevi ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Sosyal güvenlik hakkı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (İspat hakkı — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (Konut hakkı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Dernek Kurma (m. 33), Toplantı ve Gösteri Yürüyüşü (m. 34), Mülkiyet (m. 35), Hak Arama (m. 36), Kanuni Hâkim (m. 37) ve İspat Hakkı (m. 39)</strong> Kişi Hakları bölümündedir."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q8",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "I. Eğitim ve öğrenim\nII. Toplu iş sözleşmesi\nIII. Türk vatandaşlığı\n\nHangileri pozitif statü haklarının yer aldığı bölümde düzenlenmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve III"
+      },
+      {
+        "key": "B",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "Yalnız III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (I ve II)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 42 (Eğitim-Öğrenim), Madde 53 (Toplu İş Sözleşmesi) ve Madde 66 (Türk Vatandaşlığı)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>I. Eğitim ve Öğrenim Hakkı ve Ödevi (m. 42 ✔️):</strong> Sosyal ve Ekonomik Haklar (Pozitif Statü) bölümündedir.<br>• <strong>II. Toplu İş Sözleşmesi ve Toplu Sözleşme Hakkı (m. 53 ✔️):</strong> Sosyal ve Ekonomik Haklar (Pozitif Statü) bölümündedir.<br>• <strong>III. Türk Vatandaşlığı (m. 66 ❌):</strong> Siyasi Haklar ve Ödevler (Aktif Statü) bölümünün ilk maddesidir.<br><br>\n• <strong>A Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (I, II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (I ve II — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>D Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Yalnız III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nSosyal ve Ekonomik Haklar bölümü <strong>Madde 41 (Ailenin Korunması ve Çocuk Hakları)</strong> ve <strong>Madde 42 (Eğitim ve Öğrenim Hakkı)</strong> ile başlar!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q9",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "Aşağıdakilerden hangisi sosyal ve ekonomik hakların koruma alanındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Din ve vicdan hürriyeti"
+      },
+      {
+        "key": "B",
+        "text": "Düzeltme ve cevap hakkı"
+      },
+      {
+        "key": "C",
+        "text": "Haberleşmenin gizliliği"
+      },
+      {
+        "key": "D",
+        "text": "Tarih ve tabiat varlıklarının korunması"
+      },
+      {
+        "key": "E",
+        "text": "Seçme hakkı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Tarih ve tabiat varlıklarının korunması)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 63 (Tarih, Kültür ve Tabiat Varlıklarının Korunması)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nDevletin tarih, kültür ve tabiat varlıklarının korunmasını sağlama ödevi (m. 63), devlete olumlu edim yüklediği için <strong>Sosyal ve Ekonomik Haklar ve Ödevler</strong> bölümündedir. A, B ve C şıkları <em>Kişi Hakları</em>; E şıkkı ise <em>Siyasi Haklar</em> bölümündedir.<br><br>\n• <strong>A Şıkkı (Din ve vicdan hürriyeti ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Düzeltme ve cevap hakkı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Haberleşmenin gizliliği ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Tarih ve tabiat varlıklarının korunması — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (Seçme hakkı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nBaşlığında <em>\"...korunması\"</em> geçen haklar (Ailenin korunması, Gençliğin korunması, Sanatın ve sanatçının korunması, Tarih ve tabiat varlıklarının korunması, Tüketicilerin korunması) devlete görev yüklediği için <strong>Sosyal ve Ekonomik Haklar</strong> bölümündedir!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q10",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "I. Bilim ve sanat hürriyeti\nII. Sanatın ve sanatçının korunması\n\nBu iki başlığın bölüm karşılığı sırasıyla hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sosyal haklar — siyasi haklar"
+      },
+      {
+        "key": "B",
+        "text": "Kişi hakları — sosyal haklar"
+      },
+      {
+        "key": "C",
+        "text": "Kişi hakları — siyasi haklar"
+      },
+      {
+        "key": "D",
+        "text": "Siyasi haklar — sosyal haklar"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal haklar — kişi hakları"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Kişi hakları — sosyal haklar)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 27 (Bilim ve Sanat Hürriyeti) & Madde 64 (Sanatın ve Sanatçının Korunması)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>I. Bilim ve Sanat Hürriyeti (m. 27):</strong> Bireyin serbestçe bilim ve sanat yapabilmesi ve yayabilmesi <strong>Kişinin Hakları ve Ödevleri (Negatif Statü)</strong> bölümündedir.<br>• <strong>II. Sanatın ve Sanatçının Korunması (m. 64):</strong> Devletin sanat faaliyetlerini ve sanatçıyı desteklemesi ise <strong>Sosyal ve Ekonomik Haklar (Pozitif Statü)</strong> bölümündedir.<br><br>\n• <strong>A Şıkkı (Sosyal haklar — siyasi haklar ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Kişi hakları — sosyal haklar — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (Kişi hakları — siyasi haklar ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Siyasi haklar — sosyal haklar ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Sosyal haklar — kişi hakları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Serkan Hoca Altın Şifre:</strong> <em>\"Hürriyeti\"</em> diyorsa (Bilim ve sanat hürriyeti) → <strong>Kişi Hakkı</strong>; <em>\"Korunması / Desteklenmesi\"</em> diyorsa (Sanatın ve sanatçının korunması) → <strong>Sosyal Hak</strong>!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q11",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "Yerleşme ve seyahat hürriyeti, Anayasa'nın hangi bölümünde düzenlenmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kişinin hakları ve ödevleri"
+      },
+      {
+        "key": "B",
+        "text": "Siyasi haklar"
+      },
+      {
+        "key": "C",
+        "text": "Genel hükümler"
+      },
+      {
+        "key": "D",
+        "text": "Sosyal ve ekonomik haklar"
+      },
+      {
+        "key": "E",
+        "text": "Mali hükümler"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Kişinin hakları ve ödevleri)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 23 (Yerleşme ve Seyahat Hürriyeti)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nHerkesin yerleşme ve seyahat hürriyetine sahip olduğunu düzenleyen 23. madde, 1982 Anayasası'nın İkinci Kısmının İkinci Bölümü olan <strong>Kişinin Hakları ve Ödevleri (Negatif Statü Hakları)</strong> arasında yer alır.<br><br>\n• <strong>A Şıkkı (Kişinin hakları ve ödevleri — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>B Şıkkı (Siyasi haklar ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Genel hükümler ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Sosyal ve ekonomik haklar ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Mali hükümler ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nSonunda <em>\"...hürriyeti\"</em> veya <em>\"...dokunulmazlığı\"</em> geçen hakların neredeyse tamamı (yalnızca <em>Çalışma ve Sözleşme Hürriyeti m. 48</em> hariç!) <strong>Kişinin Hakları ve Ödevleri</strong> bölümündedir."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q12",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "I. Çalışma ve sözleşme hürriyeti\nII. Mülkiyet hakkı\nIII. Sendika kurma hakkı\n\nHangileri sosyal ve ekonomik haklar bölümünde düzenlenir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II ve III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (I ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 35 (Mülkiyet), Madde 48 (Çalışma ve Sözleşme) ve Madde 51 (Sendika Kurma)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>I. Çalışma ve Sözleşme Hürriyeti (m. 48 ✔️):</strong> Sosyal ve Ekonomik Haklar bölümündedir.<br>• <strong>II. Mülkiyet Hakkı (m. 35 ❌):</strong> Kişinin Hakları ve Ödevleri (Negatif Statü) bölümündedir.<br>• <strong>III. Sendika Kurma Hakkı (m. 51 ✔️):</strong> Sosyal ve Ekonomik Haklar bölümündedir.<br><br>\n• <strong>A Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (I ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>D Şıkkı (I ve II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I, II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Dernek Kurma (m. 33) + Mülkiyet (m. 35)</strong> = Kişi Hakkı; <strong>Sendika Kurma (m. 51) + Çalışma ve Sözleşme Hürriyeti (m. 48)</strong> = Sosyal ve Ekonomik Hak!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q13",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "Aşağıdakilerden hangisi siyasi hak veya ödev değildir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dilekçe hakkı"
+      },
+      {
+        "key": "B",
+        "text": "Dinlenme hakkı"
+      },
+      {
+        "key": "C",
+        "text": "Kamu hizmetine girme hakkı"
+      },
+      {
+        "key": "D",
+        "text": "Vatan hizmeti"
+      },
+      {
+        "key": "E",
+        "text": "Mal bildirimi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Dinlenme hakkı)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 50 (Çalışma Şartları ve Dinlenme Hakkı)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n<strong>Dinlenme Hakkı (m. 50)</strong>, çalışanların ücretli hafta ve bayram tatili ile ücretli yıllık izin haklarını düzenler ve <strong>Sosyal ve Ekonomik Haklar</strong> bölümündedir. Dilekçe hakkı (m. 74), Kamu hizmetine girme (m. 70), Vatan hizmeti (m. 72) ve Mal bildirimi (m. 71) ise <strong>Siyasi Haklar ve Ödevler</strong> bölümündedir.<br><br>\n• <strong>A Şıkkı (Dilekçe hakkı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Dinlenme hakkı — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (Kamu hizmetine girme hakkı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Vatan hizmeti ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Mal bildirimi ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nKamu hizmetine girme (m. 70) ve Mal bildirimi (m. 71) memurlukla ilgili olduğu için Sosyal Hak sanılabilir; oysa ikisi de <strong>Siyasi Haklar ve Ödevler</strong> bölümündedir!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q14",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "I. Basın hürriyeti\nII. Düzeltme ve cevap hakkı\nIII. Kanuni hâkim güvencesi\n\nBu hakların ortak özelliği hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kişi hakları bölümünde bulunmaları"
+      },
+      {
+        "key": "B",
+        "text": "Siyasi parti üyeliği gerektirmeleri"
+      },
+      {
+        "key": "C",
+        "text": "Devlet yardımına bağlı olmaları"
+      },
+      {
+        "key": "D",
+        "text": "Yalnız seçmenlere tanınmaları"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal yardım niteliği taşımaları"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Kişi hakları bölümünde bulunmaları)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 28 (Basın Hürriyeti), Madde 32 (Düzeltme ve Cevap Hakkı) ve Madde 37 (Kanuni Hâkim Güvencesi)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nBasın hürriyeti (m. 28), Düzeltme ve cevap hakkı (m. 32) ve Kanuni hâkim güvencesi (m. 37) maddelerinin üçü de 1982 Anayasası'nın <strong>Kişinin Hakları ve Ödevleri (Negatif Statü Hakları)</strong> bölümünde yer alır.<br><br>\n• <strong>A Şıkkı (Kişi hakları bölümünde bulunmaları — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>B Şıkkı (Siyasi parti üyeliği gerektirmeleri ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Devlet yardımına bağlı olmaları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Yalnız seçmenlere tanınmaları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Sosyal yardım niteliği taşımaları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nBasın ve yayımla ilgili tüm güvenceler (m. 28–32) ile yargısal güvenceler (m. 36–40) <strong>Kişi Hakları</strong> bölümündedir."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q15",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "I. Oy kullanma\nII. Parti üyeliği\nIII. Kamu hizmetine girme\n\nBunların ortak sınıflandırması hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sosyal güvenlik hakları"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız ekonomik haklar"
+      },
+      {
+        "key": "C",
+        "text": "Negatif statü hakları"
+      },
+      {
+        "key": "D",
+        "text": "Çevre hakları"
+      },
+      {
+        "key": "E",
+        "text": "Aktif statü hakları"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Aktif statü hakları)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Dördüncü Bölüm (Siyasi Haklar ve Ödevler — Aktif Statü Hakları)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nOy kullanma (m. 67), siyasi parti üyeliği (m. 68) ve kamu hizmetine girme (m. 70) haklarının tamamı <strong>Siyasi Haklar ve Ödevler</strong> bölümünde yer alır ve Jellinek sınıflandırmasında <strong>Aktif Statü Hakları</strong> olarak adlandırılır.<br><br>\n• <strong>A Şıkkı (Sosyal güvenlik hakları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Yalnız ekonomik haklar ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Negatif statü hakları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Çevre hakları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Aktif statü hakları — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nSiyasi Haklar ve Ödevler = <strong>Aktif Statü Hakları (Katılma Hakları)</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q16",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "I. Ailenin korunması\nII. Gençlik ve spor\nIII. Zorla çalıştırma yasağı\n\nHangileri sosyal ve ekonomik haklar bölümündedir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (I ve II)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 18 (Zorla Çalıştırma Yasağı), Madde 41 (Ailenin Korunması) ve Madde 58–59 (Gençlik ve Spor)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>I. Ailenin Korunması ve Çocuk Hakları (m. 41 ✔️):</strong> Sosyal ve Ekonomik Haklar bölümündedir.<br>• <strong>II. Gençliğin Korunması ve Sporun Geliştirilmesi (m. 58–59 ✔️):</strong> Sosyal ve Ekonomik Haklar bölümündedir.<br>• <strong>III. Zorla Çalıştırma Yasağı / Angarya Yasağı (m. 18 ❌):</strong> Kişinin maddi ve manevi varlığını koruyan <strong>Kişinin Hakları ve Ödevleri (Negatif Statü)</strong> bölümündedir.<br><br>\n• <strong>A Şıkkı (Yalnız III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (I, II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (I ve II — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Zorla Çalıştırma ve Angarya Yasağı (m. 18)</strong> çalışma hayatıyla ilgili görünse de kişi dokunulmazlığının uzantısı olduğu için <strong>Kişi Hakları</strong> bölümündedir!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q17",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "I. Kanunilik\nII. Ölçülülük\nIII. Hakkın özünü koruma\n\nOlağan dönem sınırlamalarında hangileri aranır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "II ve III"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 13 (Temel Hak ve Hürriyetlerin Sınırlanması — 2001 Değişikliği)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nAnayasa'nın 13. maddesine göre temel hak ve hürriyetler; <strong>özlerine dokunulmaksızın (III)</strong>, yalnızca Anayasa'nın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve <strong>ancak kanunla (I)</strong> sınırlanabilir. Bu sınırlamalar Anayasa'nın sözüne ve ruhuna, demokratik toplum düzeninin ve laik Cumhuriyetin gereklerine ve <strong>ölçülülük ilkesine (II)</strong> aykırı olamaz.<br><br>\n• <strong>A Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nMadde 13'teki <strong>Hakkın Özüne Dokunmama</strong> ve <strong>Laik Cumhuriyetin Gerekleri</strong> ölçütleri <strong>2001 Anayasa Değişikliği</strong> ile eklenmiştir!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q18",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 18,
+    "questionText": "I. Demokratik toplum düzeni\nII. Laik Cumhuriyetin gerekleri\nIII. Anayasa'nın sözü ve ruhu\n\nSınırlamalar hangilerine aykırı olamaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "Yalnız I"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 13 (Sınırlamanın Sınırları / Güvenceleri)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n1982 Anayasası m. 13 uyarınca temel hak ve hürriyetlere getirilecek sınırlamalar; <strong>Anayasa'nın sözüne ve ruhuna (III)</strong>, <strong>demokratik toplum düzeninin (I)</strong> ve <strong>laik Cumhuriyetin gereklerine (II)</strong> ve ölçülülük ilkesine aykırı olamaz. Dolayısıyla her üç güvence de geçerlidir.<br><br>\n• <strong>A Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (Yalnız III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (I ve II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n1982 Anayasası'nda 2001 değişikliği ile <em>\"genel sınırlama sebepleri\"</em> kaldırılmış; yerine sadece <strong>özel sınırlama sebepleri</strong> sistemi getirilmiştir."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q19",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 19,
+    "questionText": "I. Ölçü sınırı\nII. Milletlerarası yükümlülüklere uygunluk\nIII. Çekirdek hakları koruma\n\nDurdurma rejiminde hangileri dikkate alınır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II ve III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "D",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "E",
+        "text": "I ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 15 (Temel Hak ve Hürriyetlerin Kullanılmasının Durdurulması)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nSavaş, seferberlik veya olağanüstü hâllerde temel hak ve hürriyetlerin kullanılmasının kısmen veya tamamen durdurulabilmesi için Anayasa m. 15 üç temel sınır koymuştur:<br>• <strong>I. Durumun gerektirdiği ölçü (Ölçülülük ✔️),</strong><br>• <strong>II. Milletlerarası hukuktan doğan yükümlülüklerin ihlal edilmemesi (✔️),</strong><br>• <strong>III. Çekirdek haklara (m. 15/2) dokunulmaması (✔️).</strong><br><br>\n• <strong>A Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>D Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nOlağanüstü dönem durdurma rejiminde (m. 15) 3 kilit kriter: <strong>Milletlerarası Hukuk + Durumun Gerektirdiği Ölçü + 5 Çekirdek Hak</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q20",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 20,
+    "questionText": "Yabancıların temel hakları hangi koşulla sınırlandırılabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Herhangi bir koşul aranmadan"
+      },
+      {
+        "key": "B",
+        "text": "Sadece vali kararıyla"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız parti kararıyla"
+      },
+      {
+        "key": "D",
+        "text": "Yalnız yönetmelikle"
+      },
+      {
+        "key": "E",
+        "text": "Milletlerarası hukuka uygun olarak kanunla"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Milletlerarası hukuka uygun olarak kanunla)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 16 (Yabancıların Durumu)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n1982 Anayasası'nın 16. maddesine göre: <em>\"Temel hak ve hürriyetler, yabancılar için, <strong>milletlerarası hukuka uygun olarak kanunla</strong> sınırlanabilir.\"</em> Vali kararıyla veya yönetmelikle yabancıların temel hakları sınırlandırılamaz.<br><br>\n• <strong>A Şıkkı (Herhangi bir koşul aranmadan ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Sadece vali kararıyla ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Yalnız parti kararıyla ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Yalnız yönetmelikle ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Milletlerarası hukuka uygun olarak kanunla — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Madde 16 Formülü:</strong> Yabancıların temel haklarının sınırlandırılması = <strong>Milletlerarası Hukuka Uygunluk + Kanun</strong>!"
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q21",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 21,
+    "questionText": "Olağanüstü hâlde temel hakların kullanımının durdurulması için hangisi doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Geriye dönük suç yaratmak serbesttir."
+      },
+      {
+        "key": "B",
+        "text": "Bütün haklar sınırsız biçimde kaldırılabilir."
+      },
+      {
+        "key": "C",
+        "text": "Durumun gerektirdiği ölçü aşılmamalıdır."
+      },
+      {
+        "key": "D",
+        "text": "Uluslararası yükümlülükler önemsizleşir."
+      },
+      {
+        "key": "E",
+        "text": "Masumiyet karinesi tamamen kalkar."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Durumun gerektirdiği ölçü aşılmamalıdır.)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 15/1–2<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nOlağanüstü hâlde bile temel hakların durdurulması sınırsız değildir; <strong>durumun gerektirdiği ölçü aşılamaz (C şıkkı doğru)</strong>, uluslararası hukuktan doğan yükümlülükler ihlal edilemez ve çekirdek haklar olan suç-cezaların geçmişe yürümezliği ile masumiyet karinesine dokunulamaz.<br><br>\n• <strong>A Şıkkı (Geriye dönük suç yaratmak serbesttir. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Bütün haklar sınırsız biçimde kaldırılabilir. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Durumun gerektirdiği ölçü aşılmamalıdır. — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>D Şıkkı (Uluslararası yükümlülükler önemsizleşir. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Masumiyet karinesi tamamen kalkar. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nOHAL'de bile <em>suç ve cezaların geçmişe yürütülememesi</em> ve <em>masumiyet karinesi</em> mutlak koruma altındadır (Çekirdek Haklar)."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q22",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 22,
+    "questionText": "I. Savaş\nII. Seferberlik\nIII. Olağanüstü hâl\n\nHakların kullanımının durdurulmasına hangi durumlar dayanak olabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 15/1 (2017 Anayasa Değişikliği ile güncel metin)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n1982 Anayasası m. 15/1'e göre: <strong>\"Savaş (I), seferberlik (II) veya olağanüstü hâllerde (III)\"</strong> temel hak ve hürriyetlerin kullanılması kısmen veya tamamen durdurulabilir. (2017 değişikliği ile <em>sıkıyönetim</em> kavramı Anayasa'dan çıkarılmıştır).<br><br>\n• <strong>A Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n2017 Anayasa değişikliği ile <strong>Sıkıyönetim</strong> tamamen kaldırıldığı için m. 15'te artık sadece <strong>Savaş, Seferberlik ve Olağanüstü Hâl</strong> yer alır."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q23",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 23,
+    "questionText": "I. Masumiyet karinesi\nII. Suç ve cezaların geçmişe yürütülememesi\nIII. Din ve kanaati açıklamaya zorlanamama\n\nHangileri olağanüstü dönemde de korunan çekirdek alandadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I ve II"
+      },
+      {
+        "key": "E",
+        "text": "Yalnız I"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 15/2 (Çekirdek Haklar / Dokunulmaz Alan)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nAnayasa m. 15/2'de düzenlenen <strong>5 Çekirdek Hak</strong> şunlardır:<br>1. Savaş hukukuna uygun fiiller sonucu meydana gelen ölümler dışında <strong>yaşama hakkına, maddi ve manevi varlığın bütünlüğüne</strong> dokunulamaz,<br>2. Kimse <strong>din, vicdan, düşünce ve kanaatlerini açıklamaya zorlanamaz (III ✔️)</strong> ve bunlardan dolayı suçlanamaz,<br>3. <strong>Suç ve cezalar geçmişe yürütülemez (II ✔️)</strong>,<br>4. Suçluluğu mahkeme kararı ile saptanıncaya kadar kimse suçlu sayılamaz (<strong>Masumiyet karinesi — I ✔️</strong>).<br><br>\n• <strong>A Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (Yalnız III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (I ve II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>5 Çekirdek Hak Şifresi:</strong> Yaşama Hakkı + Maddi-Manevi Bütünlük + Din/Düşünce Açıklamaya Zorlanamama + Suç/Cezaların Geçmişe Yürümezliği + Masumiyet Karinesi."
+  },
+  {
+    "id": "anayasa_2027_test_6_1_q24",
+    "testId": "anayasa_2027_test_6_1",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.1 (Temel Hakların Sınıflandırılması ve Sınırlandırılması)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 24,
+    "questionText": "I. Sağlıklı ve düzenli kentleşme\nII. Kamu mallarını koruma\nIII. Sosyal ve ekonomik gelişme\n\nHangileri yerleşme hürriyetinin sınırlama sebeplerindendir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I ve II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "E",
+        "text": "Yalnız I"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 23/2 (Yerleşme Hürriyetinin Özel Sınırlama Sebepleri)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nAnayasa m. 23/2'ye göre <strong>Yerleşme Hürriyeti</strong> şu 5 özel sebeple kanunla sınırlanabilir:<br>1. Suç işlenmesini önlemek,<br>2. <strong>Sosyal ve ekonomik gelişmeyi sağlamak (III ✔️),</strong><br>3. <strong>Sağlıklı ve düzenli kentleşmeyi gerçekleştirmek (I ✔️),</strong><br>4. <strong>Kamu mallarını korumak (II ✔️).</strong><br><br>\n• <strong>A Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (I ve II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Yalnız III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Yerleşme vs. Seyahat Sınırlama Sebebi:</strong> <em>Suç işlenmesini önlemek</em> her ikisinde de ortaktır; ancak <em>Sağlıklı kentleşme, Kamu mallarını koruma, Sosyal-ekonomik gelişme</em> sadece <strong>Yerleşme Hürriyetinin</strong> sınırlama sebebidir!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q1",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "Seyahat hürriyeti için Anayasa'da açıkça belirtilen sınırlama sebebi hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Vergi gelirini artırmak"
+      },
+      {
+        "key": "B",
+        "text": "Seçim barajını aşmak"
+      },
+      {
+        "key": "C",
+        "text": "Parti üyeliğini azaltmak"
+      },
+      {
+        "key": "D",
+        "text": "Suç işlenmesini önlemek"
+      },
+      {
+        "key": "E",
+        "text": "Devlet yardımını bölüştürmek"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Suç işlenmesini önlemek)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 23/3 (Seyahat Hürriyetinin Özel Sınırlama Sebepleri)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nAnayasa m. 23/3'e göre <strong>Seyahat Hürriyeti</strong> sadece iki özel sebeple kanunla sınırlanabilir: <strong>1) Suç soruşturma ve kovuşturması sebebiyle</strong> ve <strong>2) Suç işlenmesini önlemek amacıyla (D şıkkı)</strong>. (Ayrıca vatandaşın yurt dışına çıkma hürriyeti ancak suç soruşturması/kovuşturması sebebiyle hâkim kararıyla sınırlanabilir).<br><br>\n• <strong>A Şıkkı (Vergi gelirini artırmak ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Seçim barajını aşmak ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Parti üyeliğini azaltmak ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Suç işlenmesini önlemek — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (Devlet yardımını bölüştürmek ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Seyahat Hürriyeti Sınırlama Şifresi:</strong> Sadece <em>\"Suç işlenmesini önlemek\"</em> ve <em>\"Suç soruşturma ve kovuşturması\"</em>!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q2",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "Mülkiyet hakkının özel sınırlama amacı aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hükûmetin itibarı"
+      },
+      {
+        "key": "B",
+        "text": "Seçmen kaydı"
+      },
+      {
+        "key": "C",
+        "text": "Salt siyasi tercih"
+      },
+      {
+        "key": "D",
+        "text": "Parti çoğunluğu"
+      },
+      {
+        "key": "E",
+        "text": "Kamu yararı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Kamu yararı)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 35/2 (Mülkiyet Hakkı)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n1982 Anayasası m. 35'e göre: <em>\"Herkes, mülkiyet ve miras haklarına sahiptir. Bu haklar, ancak <strong>kamu yararı amacıyla</strong>, kanunla sınırlanabilir. Mülkiyet hakkının kullanılması toplum yararına aykırı olamaz.\"</em><br><br>\n• <strong>A Şıkkı (Hükûmetin itibarı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Seçmen kaydı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Salt siyasi tercih ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Parti çoğunluğu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Kamu yararı — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nMülkiyet ve miras hakkının Anayasa'daki tek özel sınırlama sebebi <strong>Kamu Yararı</strong>dır."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q3",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "I. Konut dokunulmazlığı\nII. Haberleşme hürriyeti\nIII. Sendika hakkı\n\nMillî güvenlik veya kamu düzeni, ilgili maddelerdeki koşullarla hangilerinin sınırlandırılmasında rol oynayabilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I ve III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "C",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "Yalnız II"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 21 (Konut), Madde 22 (Haberleşme) ve Madde 51 (Sendika Kurma Hakkı)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nHer üç maddenin özel sınırlama sebepleri içinde <strong>millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlakın korunması</strong> ortak sınırlama sebepleri olarak açıkça sayılmıştır (I, II ve III ✔️).<br><br>\n• <strong>A Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>D Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nÖzel hayatın gizliliği (m. 20), Konut dokunulmazlığı (m. 21), Haberleşme hürriyeti (m. 22), Dernek kurma (m. 33) ve Sendika kurma (m. 51) maddelerinde <em>Millî Güvenlik ve Kamu Düzeni</em> ortak özel sınırlama sebebidir."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q4",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "1982 Anayasası'na göre Türk vatandaşlığıyla ilgili;\n\nI. Vatandaşlık, kanunun gösterdiği şartlarla kazanılır ve ancak kanunda belirtilen hâllerde kaybedilir.\nII. Hiçbir Türk, vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça vatandaşlıktan çıkarılamaz.\nIII. Vatandaşlıktan çıkarmayla ilgili karar ve işlemlere karşı yargı yolu kapalıdır.\n\nifadelerinden hangileri doğrudur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (I ve II)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 66 (Türk Vatandaşlığı)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>I. Öncül (Doğru ✔️):</strong> Vatandaşlık, kanunun gösterdiği şartlarla kazanılır ve ancak kanunda belirtilen hâllerde kaybedilir (m. 66/3).<br>• <strong>II. Öncül (Doğru ✔️):</strong> Hiçbir Türk, vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça vatandaşlıktan çıkarılamaz (m. 66/4).<br>• <strong>III. Öncül (Yanlış ❌):</strong> Anayasa m. 66/son fıkrasına göre: <em>\"Vatandaşlıktan çıkarma ile ilgili karar ve işlemlere karşı <strong>yargı yolu kapatılamaz</strong> (açıktır).\"</em><br><br>\n• <strong>A Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Yalnız III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (I ve II — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>D Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I, II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Madde 66 Tuzağı:</strong> Vatandaşlıktan çıkarma işlemlerine karşı yargı yolu kapalı değil, <strong>AÇIKTIR (kapatılamaz)</strong>!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q5",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "Siyasi partilerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Önceden izin almadan kurulurlar."
+      },
+      {
+        "key": "B",
+        "text": "Tüzük ve programları, eşitlik ve hukuk devleti ilkelerine aykırı olamaz."
+      },
+      {
+        "key": "C",
+        "text": "Devlet tarafından yeterli düzeyde ve hakça mali yardım yapılır."
+      },
+      {
+        "key": "D",
+        "text": "En az 20 Türk vatandaşının bir araya gelmesiyle kurulurlar."
+      },
+      {
+        "key": "E",
+        "text": "Mali denetimleri Anayasa Mahkemesi tarafından yapılır."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (En az 20 Türk vatandaşının bir araya gelmesiyle kurulurlar.)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 68–69 & 2820 Sayılı Siyasi Partiler Kanunu Madde 8<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n• <strong>A, B, C ve E Şıkları (Doğru):</strong> Siyasi partiler önceden izin almadan kurulur, tüzük ve programları Anayasa ilkelerine aykırı olamaz, devletten hakça mali yardım alırlar ve mali denetimleri <strong>Sayıştay yardımıyla Anayasa Mahkemesi</strong> tarafından yapılır.<br>• <strong>D Şıkkı (Yanlış ❌):</strong> Siyasi partiler 20 değil, milletvekili seçilme yeterliliğine sahip <strong>en az 30 (otuz) Türk vatandaşının</strong> bir araya gelmesiyle kurulur! (20 sayısı TBMM'de siyasi parti grubu kurmak için gereken milletvekili sayısıdır).<br><br>\n• <strong>A Şıkkı (Önceden izin almadan kurulurlar. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Tüzük ve programları, eşitlik ve hukuk devleti ilkelerine aykırı olamaz. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Devlet tarafından yeterli düzeyde ve hakça mali yardım yapılır. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (En az 20 Türk vatandaşının bir araya gelmesiyle kurulurlar. — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (Mali denetimleri Anayasa Mahkemesi tarafından yapılır. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>20 vs. 30 Ayrımı:</strong> Siyasi Parti Kurmak = En az <strong>30 Türk Vatandaşı</strong>; TBMM'de Siyasi Parti Grubu Kurmak = En az <strong>20 Milletvekili</strong>!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q6",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "Kamu Denetçiliği Kurumunun bağlı olduğu makam hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Adalet Bakanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Sayıştay Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "TBMM Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Danıştay Başkanlığı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (TBMM Başkanlığı)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 74/4 & 6328 Sayılı Kamu Denetçiliği Kurumu Kanunu<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n2010 Anayasa değişikliği ile Anayasa'nın 74. maddesine eklenen <strong>Kamu Denetçiliği Kurumu (Ombudsmanlık)</strong>, idarenin işleyişiyle ilgili şikâyetleri incelemek üzere <strong>Türkiye Büyük Millet Meclisi (TBMM) Başkanlığına bağlı</strong> olarak kurulmuştur.<br><br>\n• <strong>A Şıkkı (Cumhurbaşkanlığı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Adalet Bakanlığı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Sayıştay Başkanlığı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (TBMM Başkanlığı — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (Danıştay Başkanlığı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Dikkat:</strong> Devlet Denetleme Kurulu (DDK) → <strong>Cumhurbaşkanlığına</strong> bağlıdır; Kamu Denetçiliği Kurumu (KDK) → <strong>TBMM Başkanlığına</strong> bağlıdır!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q7",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "Aşağıdaki belgelerden hangisi kaynak materyalde vatandaşlığın ispatında kullanılan belgeler arasında sayılmamıştır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sürücü belgesi"
+      },
+      {
+        "key": "B",
+        "text": "Pasaport"
+      },
+      {
+        "key": "C",
+        "text": "Pasavan"
+      },
+      {
+        "key": "D",
+        "text": "Nüfus kayıtları"
+      },
+      {
+        "key": "E",
+        "text": "Nüfus cüzdanı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Sürücü belgesi)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n5901 Sayılı Türk Vatandaşlığı Kanunu Madde 36 (Türk Vatandaşlığının İspatı) & Serkan Hoca 4. Ders Notu<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n5901 sayılı Kanun m. 36 ve ders notumuza göre Türk vatandaşlığının ispatı herhangi bir şekle tabi olmamakla birlikte resmî karine oluşturan belgeler şunlardır:<br>• <strong>Nüfus kayıtları (D),</strong><br>• <strong>Kimlik kartı / Nüfus cüzdanı (E),</strong><br>• <strong>Pasaport (B) veya pasaport yerine geçen belgeler / Pasavan (C).</strong><br><strong>Sürücü belgesi (ehliyet)</strong> yabancılara da verilebildiği için vatandaşlığın ispatında resmî karine belgeleri arasında yer almaz.<br><br>\n• <strong>A Şıkkı (Sürücü belgesi — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>B Şıkkı (Pasaport ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Pasavan ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Nüfus kayıtları ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Nüfus cüzdanı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nVatandaşlığın ispatındaki 4 temel belge: <strong>Nüfus Kayıtları + Nüfus Cüzdanı (Kimlik Kartı) + Pasaport + Pasavan</strong>. Sürücü belgesi vatandaşlığı ispatlamaz!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q8",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "Kamu Başdenetçisini hangi organ seçer?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM Başkanlık Divanı"
+      },
+      {
+        "key": "B",
+        "text": "AYM Genel Kurulu"
+      },
+      {
+        "key": "C",
+        "text": "Cumhurbaşkanı"
+      },
+      {
+        "key": "D",
+        "text": "Karma Komisyon tek başına"
+      },
+      {
+        "key": "E",
+        "text": "TBMM Genel Kurulu"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (TBMM Genel Kurulu)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 74/5 & 6328 Sayılı Kanun Madde 11<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nAnayasa m. 74/5'e göre <strong>Kamu Başdenetçisi</strong>, TBMM Dilekçe Komisyonu ile İnsan Haklarını İnceleme Komisyonu üyelerinden oluşan Karma Komisyonun belirlediği üç aday arasından <strong>TBMM Genel Kurulu</strong> tarafından gizli oyla <strong>4 yıl</strong> için seçilir.<br><br>\n• <strong>A Şıkkı (TBMM Başkanlık Divanı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (AYM Genel Kurulu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Cumhurbaşkanı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Karma Komisyon tek başına ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (TBMM Genel Kurulu — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>KDK Seçim Ayrımı:</strong> <em>Kamu Başdenetçisini</em> → <strong>TBMM Genel Kurulu</strong> seçer; <em>5 Kamu Denetçisini</em> → <strong>TBMM Karma Komisyonu</strong> seçer!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q9",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "600 üyeli TBMM'de başdenetçi seçiminin ilk turunda aranan oy sayısı kaçtır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "200"
+      },
+      {
+        "key": "B",
+        "text": "400"
+      },
+      {
+        "key": "C",
+        "text": "360"
+      },
+      {
+        "key": "D",
+        "text": "151"
+      },
+      {
+        "key": "E",
+        "text": "301"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (400)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 74/5 (Kamu Başdenetçisi Seçim Turları)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nKamu Başdenetçisi TBMM Genel Kurulunda gizli oyla 4 turlu seçimle belirlenir:<br>• <strong>1. ve 2. Tur:</strong> Üye tamsayısının üçte ikisi (2/3) = <strong>400 milletvekili (B şıkkı)</strong>,<br>• <strong>3. Tur:</strong> Üye tamsayısının salt çoğunluğu = <strong>301 milletvekili</strong>,<br>• <strong>4. Tur:</strong> 3. turda en çok oy alan iki aday arasında <strong>en fazla oy alan</strong> seçilir.<br><br>\n• <strong>A Şıkkı (200 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (400 — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (360 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (151 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (301 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nTBMM Başkanlık seçimi ile Kamu Başdenetçisi seçiminin tur çoğunlukları birebir aynıdır: <strong>1. Tur: 400 (2/3) → 2. Tur: 400 (2/3) → 3. Tur: 301 (Salt) → 4. Tur: En çok oy!</strong>"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q10",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "Aşağıdakilerden hangisi KDK'nın görev alanı dışındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bir kamu kurumunun personelle ilgili tutumu"
+      },
+      {
+        "key": "B",
+        "text": "Kamu hizmetindeki idari işlem"
+      },
+      {
+        "key": "C",
+        "text": "Belediyenin hizmet tutumu"
+      },
+      {
+        "key": "D",
+        "text": "Yargı yetkisinin kullanılmasına ilişkin kararlar"
+      },
+      {
+        "key": "E",
+        "text": "Bir idarenin başvuruya cevap vermemesi"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Yargı yetkisinin kullanılmasına ilişkin kararlar)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n6328 Sayılı Kamu Denetçiliği Kurumu Kanunu Madde 5/2<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n6328 sayılı Kanun m. 5/2'ye göre şu işlemler <strong>Kamu Denetçiliği Kurumunun görev alanı dışındadır</strong>:<br>1. <strong>Yasama yetkisinin kullanılmasına ilişkin işlemler,</strong><br>2. <strong>Yargı yetkisinin kullanılmasına ilişkin kararlar (D şıkkı),</strong><br>3. <strong>Türk Silahlı Kuvvetlerinin sırf askerî nitelikteki faaliyetleri.</strong><br><br>\n• <strong>A Şıkkı (Bir kamu kurumunun personelle ilgili tutumu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Kamu hizmetindeki idari işlem ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Belediyenin hizmet tutumu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Yargı yetkisinin kullanılmasına ilişkin kararlar — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (Bir idarenin başvuruya cevap vermemesi ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nKDK sadece <em>idarenin</em> işleyişini inceler; <strong>Yasama işlemleri, Yargı kararları ve TSK'nın sırf askerî faaliyetleri</strong> KDK incelemesi dışındadır."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q11",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "KDK'da başdenetçi dışında kaç kamu denetçisi bulunur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "9"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "7"
+      },
+      {
+        "key": "E",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (5)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n6328 Sayılı Kamu Denetçiliği Kurumu Kanunu Madde 7<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n6328 sayılı Kanun m. 7'ye göre Kamu Denetçiliği Kurumu; <strong>1 Kamu Başdenetçisi</strong> ve <strong>5 Kamu Denetçisinden (E şıkkı)</strong> oluşur. Başdenetçi ve denetçilerin görev süresi <strong>4 yıldır</strong> (en fazla iki dönem seçilebilirler).<br><br>\n• <strong>A Şıkkı (9 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (4 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (3 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (7 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (5 — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nKDK Yapısı = <strong>1 Başdenetçi + 5 Kamu Denetçisi</strong> (Başdenetçi için yaş şartı 50, Kamu Denetçisi için yaş şartı 40'tır)."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q12",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "KDK'nın inceleme ve araştırmasını sonuçlandırması için öngörülen azami süre hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30 gün"
+      },
+      {
+        "key": "B",
+        "text": "15 gün"
+      },
+      {
+        "key": "C",
+        "text": "1 yıl"
+      },
+      {
+        "key": "D",
+        "text": "2 yıl"
+      },
+      {
+        "key": "E",
+        "text": "6 ay"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (6 ay)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n6328 Sayılı Kamu Denetçiliği Kurumu Kanunu Madde 20/1<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n6328 sayılı Kanun m. 20/1'e göre Kamu Denetçiliği Kurumu, inceleme ve araştırmasını başvuru tarihinden itibaren <strong>en geç 6 ay içinde (E şıkkı)</strong> sonuçlandırır. (İlgili merci ise KDK'nın önerileri üzerine tesis ettiği işlemi <strong>30 gün</strong> içinde Kuruma bildirir).<br><br>\n• <strong>A Şıkkı (30 gün ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (15 gün ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (1 yıl ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (2 yıl ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (6 ay — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>KDK Süre Şifreleri:</strong> İncelemeyi sonuçlandırma süresi = En geç <strong>6 ay</strong>; İdarenin KDK tavsiyesine cevabı = <strong>30 gün</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q13",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "8 Kasım 2026 itibarıyla Kamu Başdenetçisi kimdir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Şeref Malkoç"
+      },
+      {
+        "key": "B",
+        "text": "Zühtü Arslan"
+      },
+      {
+        "key": "C",
+        "text": "Mehmet Akarca"
+      },
+      {
+        "key": "D",
+        "text": "İrfan Fidan"
+      },
+      {
+        "key": "E",
+        "text": "Nihat Ömeroğlu"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Mehmet Akarca)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\nTBMM Genel Kurulu Seçim Kararı & Güncel Kamu Başdenetçisi Bilgilendirmesi<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nEski Yargıtay Başkanı olan <strong>Mehmet Akarca</strong>, Kasım 2024'te TBMM Genel Kurulu tarafından 4 yıllığına yeni <strong>Kamu Başdenetçisi</strong> olarak seçilmiştir (Nihat Ömeroğlu 1. Başdenetçi, Şeref Malkoç 2. Başdenetçi, Mehmet Akarca ise 3. ve mevcut Kamu Başdenetçisidir).<br><br>\n• <strong>A Şıkkı (Şeref Malkoç ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Zühtü Arslan ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Mehmet Akarca — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>D Şıkkı (İrfan Fidan ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Nihat Ömeroğlu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Güncel Bilgi Notu:</strong> Mevcut Kamu Başdenetçisi = <strong>Mehmet Akarca</strong>; Mevcut Anayasa Mahkemesi Başkanı = <strong>Kadir Özkaya</strong>; Mevcut Yargıtay Başkanı = <strong>Ömer Kerkez</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q14",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "I. Türk vatandaşlığı\nII. 18 yaşını doldurma\nIII. Seçmen kütüğünde kayıt\n\nGenel olarak oy kullanabilmek için hangileri gerekir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "II ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 67 & 298 Sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nTürkiye'de seçimlerde ve halkoylamasında oy kullanabilmek için kişinin: <strong>1) Türk vatandaşı olması (I ✔️), 2) 18 yaşını doldurmuş olması (II ✔️) ve 3) Seçmen kütüğünde kayıtlı bulunması (III ✔️)</strong> gerekir.<br><br>\n• <strong>A Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>B Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nOy kullanmanın 3 temel şartı: <strong>TC Vatandaşlığı + 18 Yaş + Seçmen Kütüğüne Kayıt</strong> (ve kısıtlı/yasaklı olmamak)."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q15",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "I. Askerî öğrenci\nII. Silah altındaki erbaş\nIII. Diğer koşulları sağlayan tutuklu\n\nHangileri oy kullanamaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "I ve III"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I ve II"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I ve II)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 67/5 (Oy Kullanamayacak Olanlar)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n1982 Anayasası m. 67/5'e göre:<br>• <strong>I. Askerî öğrenciler (✔️ Oy kullanamaz),</strong><br>• <strong>II. Silah altında bulunan er ve erbaşlar (✔️ Oy kullanamaz),</strong><br>• <strong>Taksirli suçlardan hüküm giyenler hariç ceza infaz kurumlarında bulunan hükümlüler</strong> oy kullanamaz.<br>• <strong>III. Tutuklular (❌ Oy KULLANABİLİR!):</strong> Henüz kesinleşmiş mahkûmiyet kararı bulunmayan <em>tutuklular</em> ile <em>taksirli suçtan hükümlüler</em> cezaevinde oy kullanabilir!<br><br>\n• <strong>A Şıkkı (I, II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Yalnız III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I ve II — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>ÖSYM'nin En Sevdiği Seçim Tuzağı:</strong> Cezaevindeki <strong>Tutuklular</strong> ve <strong>Taksirli Suçtan Hükümlüler</strong> OY KULLANABİLİR; sadece <em>Kasıtlı Suçtan Hükümlüler, Silah Altındaki Er/Erbaşlar ve Askerî Öğrenciler</em> oy kullanamaz!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q16",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "Bir siyasi partinin kurulması için en az kaç kurucu gerekir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30"
+      },
+      {
+        "key": "B",
+        "text": "50"
+      },
+      {
+        "key": "C",
+        "text": "20"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      },
+      {
+        "key": "E",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (30)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n2820 Sayılı Siyasi Partiler Kanunu Madde 8<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n2820 sayılı Siyasi Partiler Kanunu m. 8 uyarınca siyasi partiler, partilere üye olma yeterliliğine sahip <strong>en az 30 (otuz) Türk vatandaşı (A şıkkı)</strong> tarafından önceden izin alınmaksızın kurulur.<br><br>\n• <strong>A Şıkkı (30 — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>B Şıkkı (50 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (20 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (10 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (40 ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Sayılara Dikkat:</strong> Siyasi Parti Kurma = <strong>30 Vatandaş</strong>; TBMM'de Siyasi Parti Grubu Kurma = <strong>20 Milletvekili</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q17",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "I. Kısıtlı olanlar\nII. Kamu hizmetinden yasaklı olanlar\nIII. Seçmen kütüğüne kayıtlı olmayanlar\n\nYSK'nın genel açıklamalarına göre hangileri oy kullanamaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "II ve III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "D",
+        "text": "I ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n298 Sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun Madde 7–8<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n298 sayılı Kanun ve YSK kararları uyarınca; mahkeme kararıyla <strong>kısıtlı olanlar (I ✔️)</strong>, <strong>kamu hizmetinden yasaklı olanlar (II ✔️)</strong> ve <strong>seçmen kütüğünde kaydı bulunmayanlar (III ✔️)</strong> seçimlerde oy kullanamazlar.<br><br>\n• <strong>A Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n298 sayılı Kanun'a göre <em>Kısıtlılar + Kamu hizmetinden yasaklılar + Seçmen kütüğünde kaydı olmayanlar</em> oy kullanamaz."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q18",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 18,
+    "questionText": "Kuruluş belgelerinin hangi makama verilmesiyle siyasi parti tüzel kişilik kazanır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Anayasa Mahkemesi"
+      },
+      {
+        "key": "B",
+        "text": "TBMM Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Kamu Başdenetçisi"
+      },
+      {
+        "key": "D",
+        "text": "İçişleri Bakanlığı"
+      },
+      {
+        "key": "E",
+        "text": "YSK Başkanlığı"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (İçişleri Bakanlığı)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n2820 Sayılı Siyasi Partiler Kanunu Madde 8<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nSiyasi partiler önceden izin almaksızın kurulurlar ve kuruluş bildirimi ile eklerinin <strong>İçişleri Bakanlığına (D şıkkı)</strong> verilmesiyle <strong>tüzel kişilik</strong> kazanırlar.<br><br>\n• <strong>A Şıkkı (Anayasa Mahkemesi ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (TBMM Başkanlığı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Kamu Başdenetçisi ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (İçişleri Bakanlığı — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>E Şıkkı (YSK Başkanlığı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Tüzel Kişilik Tuzağı:</strong> Siyasi partinin kapatılmasına ve mali denetimine <em>Anayasa Mahkemesi</em> bakar; ancak kuruluş belgeleri <strong>İçişleri Bakanlığına</strong> verilir!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q19",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 19,
+    "questionText": "Bir üniversite öğretim elemanının siyasi parti üyeliği hakkında doğru ifade hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yalnız milletvekili seçilirse mümkündür."
+      },
+      {
+        "key": "B",
+        "text": "Kanunun düzenlediği koşullarla mümkündür."
+      },
+      {
+        "key": "C",
+        "text": "Anayasa her durumda yasaklar."
+      },
+      {
+        "key": "D",
+        "text": "Öğrenci onayına bağlıdır."
+      },
+      {
+        "key": "E",
+        "text": "KDK izniyle mümkündür."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Kanunun düzenlediği koşullarla mümkündür.)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 68/6<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nAnayasa m. 68/6'ya göre: <em>\"Yükseköğretim elemanlarının siyasi partilere üye olmaları <strong>ancak kanunla düzenlenebilir</strong>. Kanun bu elemanların, siyasi partilerin merkez organları dışında kalan parti görevi almalarına cevaz veremez...\"</em> Dolayısıyla üniversite öğretim elemanları kanunun düzenlediği koşullarla (merkez organları dışında görev almamak kaydıyla) siyasi partilere üye olabilirler.<br><br>\n• <strong>A Şıkkı (Yalnız milletvekili seçilirse mümkündür. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Kanunun düzenlediği koşullarla mümkündür. — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (Anayasa her durumda yasaklar. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Öğrenci onayına bağlıdır. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (KDK izniyle mümkündür. ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Yükseköğretim Kurumu Öğrencileri ve Öğretim Elemanları</strong> siyasi partilere <strong>ÜYE OLABİLİR</strong> (Öğretim elemanları sadece merkez organlarında görev alabilir); <strong>Yükseköğretim öncesi (lise vb.) öğrenciler</strong> ise partiye üye olamaz!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q20",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 20,
+    "questionText": "I. Memur statüsündeki kamu görevlileri\nII. İşçi niteliği taşımayan diğer kamu görevlileri\nIII. Silahlı Kuvvetler mensupları\n\nHangileri partiye üye olamaz?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I, II ve III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I ve III"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (I, II ve III)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 68/5 (Siyasi Partilere Üye Olamayacaklar)<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n1982 Anayasası m. 68/5'e göre siyasi partilere üye olamayacaklar şunlardır:<br>• Hâkimler ve savcılar, Sayıştay dâhil yüksek yargı organları mensupları,<br>• Kamu kurum ve kuruluşlarının <strong>memur statüsündeki görevlileri (I ✔️),</strong><br>• Yaptıkları hizmet bakımından <strong>işçi niteliği taşımayan diğer kamu görevlileri (II ✔️),</strong><br>• <strong>Silahlı Kuvvetler mensupları (III ✔️)</strong> ile yükseköğretim öncesi öğrencileri.<br>(Buna karşılık <em>kamu işçileri</em> siyasi partilere üye olabilir!).<br><br>\n• <strong>A Şıkkı (I, II ve III — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>B Şıkkı (Yalnız II ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Yalnız I ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (II ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (I ve III ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Kimler Partiye Üye Olabilir?</strong> <em>Kamu İşçileri + Yükseköğretim Öğrencileri + Yükseköğretim Elemanları</em> üye olabilir; <em>Memurlar, Hâkim/Savcılar, Askerler ve Lise Öğrencileri</em> üye olamaz!"
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q21",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 21,
+    "questionText": "Siyasi parti kapatma davasını açmaya yetkili kişi hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TBMM Başkanı"
+      },
+      {
+        "key": "B",
+        "text": "Sayıştay Başkanı"
+      },
+      {
+        "key": "C",
+        "text": "Adalet Bakanı doğrudan"
+      },
+      {
+        "key": "D",
+        "text": "Kamu Başdenetçisi"
+      },
+      {
+        "key": "E",
+        "text": "Yargıtay Cumhuriyet Başsavcısı"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Yargıtay Cumhuriyet Başsavcısı)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 69/4<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n1982 Anayasası m. 69/4'e göre: <em>\"Siyasi partilerin kapatılması, <strong>Yargıtay Cumhuriyet Başsavcısının (E şıkkı)</strong> açacağı dava üzerine Anayasa Mahkemesince kesin olarak karara bağlanır.\"</em><br><br>\n• <strong>A Şıkkı (TBMM Başkanı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Sayıştay Başkanı ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>C Şıkkı (Adalet Bakanı doğrudan ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Kamu Başdenetçisi ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (Yargıtay Cumhuriyet Başsavcısı — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nSiyasi parti kapatma davasını açan makam = <strong>Yargıtay Cumhuriyet Başsavcısı</strong>; Davaya bakan mahkeme = <strong>Anayasa Mahkemesi (Genel Kurulu)</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q22",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 22,
+    "questionText": "Siyasi parti kapatma davası hangi organda görülür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Danıştay İdari Dava Daireleri Kurulu"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa Mahkemesi Genel Kurulu"
+      },
+      {
+        "key": "C",
+        "text": "Yargıtay Hukuk Genel Kurulu"
+      },
+      {
+        "key": "D",
+        "text": "YSK"
+      },
+      {
+        "key": "E",
+        "text": "TBMM Karma Komisyonu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Anayasa Mahkemesi Genel Kurulu)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 69/4 ve Madde 149<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\nSiyasi partilerin kapatılmasına ilişkin davalar <strong>Anayasa Mahkemesi Genel Kurulunda (B şıkkı)</strong> görülür ve kapatmaya ya da devlet yardımından yoksun bırakmaya karar verilebilmesi için toplantıya katılan üyelerin <strong>üçte iki (2/3) oy çokluğu</strong> şarttır.<br><br>\n• <strong>A Şıkkı (Danıştay İdari Dava Daireleri Kurulu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Anayasa Mahkemesi Genel Kurulu — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (Yargıtay Hukuk Genel Kurulu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (YSK ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (TBMM Karma Komisyonu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\nAnayasa Mahkemesi Genel Kurulunda <strong>2/3 nitelikli çoğunluk</strong> aranan iki temel karar: <strong>1) Anayasa değişikliğinin iptali, 2) Siyasi partilerin kapatılması / hazine yardımından yoksun bırakılması</strong>."
+  },
+  {
+    "id": "anayasa_2027_test_6_2_q23",
+    "testId": "anayasa_2027_test_6_2",
+    "topicId": "mevzuat_anayasa",
+    "topicName": "1982 Anayasası Test 6.2 (Vatandaşlık, KDK, Seçim İlkeleri ve Siyasi Partiler)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 23,
+    "questionText": "Siyasi partilerin mali denetimini hangi organ yapar?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yargıtay Hukuk Genel Kurulu"
+      },
+      {
+        "key": "B",
+        "text": "Anayasa Mahkemesi"
+      },
+      {
+        "key": "C",
+        "text": "YSK"
+      },
+      {
+        "key": "D",
+        "text": "Kamu Denetçiliği Kurumu"
+      },
+      {
+        "key": "E",
+        "text": "TBMM Dilekçe Komisyonu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Anayasa Mahkemesi)<br><br>\n📐 <strong>1982 Anayasası & Mevzuat Koordinatı:</strong><br>\n1982 Anayasası Madde 69/3<br><br>\n🔍 <strong>Detaylı Hukuki ve Pedagojik Analiz:</strong><br>\n1982 Anayasası m. 69/3'e göre: <em>\"Siyasi partilerin gelir ve giderlerinin amaçlarına uygun olması gereklidir. Bu kuralın uygulanması kanunla düzenlenir. Anayasa Mahkemesiไซ, bu uygunluğu, <strong>Anayasa Mahkemesince (B şıkkı)</strong> yerine getirilir; Mahkeme bu denetim görevini yerine getirirken <strong>Sayıştay'dan yardım sağlar</strong>.\"</em><br><br>\n• <strong>A Şıkkı (Yargıtay Hukuk Genel Kurulu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>B Şıkkı (Anayasa Mahkemesi — Doğru Cevap ✔️):</strong> Mevzuat ve anayasa hükmüne tam uygundur.<br>• <strong>C Şıkkı (YSK ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>D Şıkkı (Kamu Denetçiliği Kurumu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br>• <strong>E Şıkkı (TBMM Dilekçe Komisyonu ❌):</strong> Soru kökünde aranan anayasal kuralı karşılamayan çeldiricidir.<br><br>\n💡 <strong>Serkan Hoca / EKYS Sınav Tüyosu:</strong><br>\n<strong>Klasik ÖSYM Tuzağı:</strong> Siyasi partilerin mali denetimini <em>Sayıştay</em> değil, Sayıştay'dan yardım alarak <strong>Anayasa Mahkemesi</strong> yapar (ve verdiği kararlar kesindir)!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q1",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "1 sayılı CB Kararnamesi kapsamında Millî Eğitim Bakanlığının görevlerinden biri aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yükseköğretim kurumlarının açılmasına doğrudan izin vermek"
+      },
+      {
+        "key": "B",
+        "text": "Eğitim ve öğretim programlarını tasarlamak, uygulamak ve güncellemek"
+      },
+      {
+        "key": "C",
+        "text": "Üniversitelerin akademik personel atamalarını yapmak"
+      },
+      {
+        "key": "D",
+        "text": "Tüm belediye eğitim hizmetlerini yürütmek"
+      },
+      {
+        "key": "E",
+        "text": "Özel sektörün bütün istihdam politikalarını belirlemek"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Eğitim ve öğretim programlarını tasarlamak, uygulamak ve güncellemek)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 301/1-b (Millî Eğitim Bakanlığının Görev ve Yetkileri)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nMillî Eğitim Bakanlığının temel görevlerinden biri; okul öncesi, ilk ve orta öğretim çağındaki öğrencilere yönelik <strong>eğitim ve öğretim programlarını tasarlamak, uygulamak, güncellemek</strong> ve eğitim-öğretim hizmetlerini yürütmektir. Yükseköğretim kurumları (üniversiteler) MEB'in görev alanı dışındadır.<br><br>\n• <strong>A Şıkkı (Yükseköğretim kurumlarının açılmasına doğrudan izin vermek ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Eğitim ve öğretim programlarını tasarlamak, uygulamak ve güncellemek — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Üniversitelerin akademik personel atamalarını yapmak ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Tüm belediye eğitim hizmetlerini yürütmek ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Özel sektörün bütün istihdam politikalarını belirlemek ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Madde 301 Kuralı:</strong> MEB <em>yükseköğretim dışındaki</em> eğitim-öğretim kurumlarını açar ve programlarını tasarlar; üniversite açmak veya akademik personel atamak MEB'in görevi değildir!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q2",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "Millî Eğitim Bakanlığının teşkilat yapısı aşağıdakilerden hangisinde doğru verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merkez ve taşra"
+      },
+      {
+        "key": "B",
+        "text": "Merkez ve yurtdışı"
+      },
+      {
+        "key": "C",
+        "text": "Merkez, taşra ve yurtdışı"
+      },
+      {
+        "key": "D",
+        "text": "Taşra ve yurtdışı"
+      },
+      {
+        "key": "E",
+        "text": "Merkez, bölge ve ilçe"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Merkez, taşra ve yurtdışı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 302/1 (Teşkilat Yapısı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 302'ye göre Millî Eğitim Bakanlığı teşkilatı; <strong>Merkez, Taşra ve Yurt Dışı (C şıkkı)</strong> teşkilatından oluşur. Bakanlık teşkilatında 'Bölge teşkilatı' yer almaz.<br><br>\n• <strong>A Şıkkı (Merkez ve taşra ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Merkez ve yurtdışı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Merkez, taşra ve yurtdışı — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (Taşra ve yurtdışı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Merkez, bölge ve ilçe ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>3'lü Teşkilat Şifresi:</strong> MEB Teşkilatı = <strong>Merkez + Taşra + Yurt Dışı</strong> ('Bölge' teşkilatı kesinlikle yoktur!)."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q3",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "Aşağıdakilerden hangisi 1 sayılı CB Kararnamesinde sayılan hizmet birimlerinden biridir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yükseköğretim Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "ÖSYM Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Yükseköğretim Denetleme Kurulu"
+      },
+      {
+        "key": "E",
+        "text": "Üniversitelerarası Kurul"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 303 (Hizmet Birimleri — 22 Birim)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n<strong>Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü (B şıkkı)</strong>, MEB merkez teşkilatındaki 22 hizmet biriminden biridir. YÖK, ÖSYM, Yükseköğretim Denetleme Kurulu ve Üniversitelerarası Kurul ise yükseköğretim/bağımsız kurumlardır.<br><br>\n• <strong>A Şıkkı (Yükseköğretim Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (ÖSYM Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Yükseköğretim Denetleme Kurulu ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Üniversitelerarası Kurul ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nMEB Merkez Teşkilatı = <strong>16 Genel Müdürlük + 4 Başkanlık + 1 Müşavirlik + 1 Özel Kalem = 22 Hizmet Birimi</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q4",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "Okul öncesi ve ilköğretim kurumlarının yönetimi ve öğrencilerinin eğitim-öğretimine yönelik çalışmalar hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Din Öğretimi Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Temel Eğitim Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 304 (Temel Eğitim Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n<strong>Okul öncesi ve ilköğretim</strong> (ilkokul + ortaokul) kurumlarının eğitim-öğretim ve yönetim işlerini yürütmek <strong>Temel Eğitim Genel Müdürlüğünün (C şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Ortaöğretim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Hayat Boyu Öğrenme Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Temel Eğitim Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (Özel Öğretim Kurumları Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Din Öğretimi Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Okul Öncesi + İlköğretim (İlkokul/Ortaokul)</em> = <strong>Temel Eğitim Genel Müdürlüğü</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q5",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "Ortaöğretim kurumlarının eğitim-öğretim programları, ders kitapları ve eğitim araç- gereçleriyle ilgili çalışmalar hangi birime aittir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Mesleki ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Ortaöğretim Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 305/1-b (Ortaöğretim Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 305/1-b'ye göre: <em>\"Ortaöğretim kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kuruluna sunmak\"</em> <strong>Ortaöğretim Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Temel Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Ortaöğretim Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Mesleki ve Teknik Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Dikkat:</strong> Ortaöğretim program ve ders kitaplarını <em>hazırlamak/hazırlatmak ve TTKB'ye sunmak</em> <strong>Ortaöğretim GM</strong>'nin; <em>inceleyip Bakana onaya sunmak</em> ise <strong>TTKB</strong>'nin görevidir!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q6",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "Eğitim-istihdam ilişkisini güçlendirme ve mesleki eğitimi yaygınlaştırma politikalarını geliştirme görevi hangi birime verilmiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mesleki ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Mesleki ve Teknik Eğitim Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 306/1-c (Mesleki ve Teknik Eğitim Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nEğitim-istihdam ilişkisini güçlendirmek, mesleki eğitimi yaygınlaştırmak ve sektörel iş birliklerini geliştirmek <strong>Mesleki ve Teknik Eğitim Genel Müdürlüğünün (A şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Mesleki ve Teknik Eğitim Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>B Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Hayat Boyu Öğrenme Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Ortaöğretim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Eğitim-İstihdam İlişkisi + 3308 Sayılı Kanun + Çırak/Kalfa/Usta</em> = <strong>Mesleki ve Teknik Eğitim GM</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q7",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "3308 sayılı Mesleki Eğitim Kanununa göre aday çırak, çırak, kalfa ve ustaların genel ve mesleki eğitimlerini sağlamak kimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Mesleki ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Mesleki ve Teknik Eğitim Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 306/1-ç (Mesleki ve Teknik Eğitim Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n5/6/1986 tarihli ve <strong>3308 sayılı Mesleki Eğitim Kanunu</strong> hükümlerine göre aday çırak, çırak, kalfa ve ustaların genel ve mesleki eğitimlerini sağlamak <strong>Mesleki ve Teknik Eğitim Genel Müdürlüğünün (C şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Temel Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Özel Öğretim Kurumları Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Mesleki ve Teknik Eğitim Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Hayat Boyu Öğrenme Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nSoru kökünde <strong>3308 sayılı Kanun</strong> veya <strong>aday çırak, çırak, kalfa, usta</strong> geçtiği anda cevap <strong>Mesleki ve Teknik Eğitim GM</strong>'dir."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q8",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "İmam hatip ortaokulları ve liselerinde hafızlık eğitimine yönelik çalışmaları hangi genel müdürlük yürütür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Din Öğretimi Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Din Öğretimi Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 307 (Din Öğretimi Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nİmam hatip ortaokulları ve imam hatip liselerinin eğitim-öğretim ve yönetim işleri ile <strong>hafızlık eğitimine</strong> yönelik çalışmaları yürütmek <strong>Din Öğretimi Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Temel Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Din Öğretimi Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Hayat Boyu Öğrenme Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Ortaöğretim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>İmam Hatip + Hafızlık Eğitimi + Tüm kademelerdeki DKAB dersi</em> = <strong>Din Öğretimi GM</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q9",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "Özel eğitim sınıfları, özel eğitim okulları ve rehberlik ve araştırma merkezlerine yönelik çalışmalar hangi birimin sorumluluğundadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 308 (Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nİlgili bakanlıklarla iş birliği içinde <strong>özel eğitim sınıfları, özel eğitim okulları, rehberlik ve araştırma merkezleri (RAM), BİLSEM, iş okulları ve iş eğitim merkezlerine</strong> yönelik çalışmaları yürütmek <strong>Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğünün (C şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Özel Öğretim Kurumları Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Temel Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (Hayat Boyu Öğrenme Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Büyük Ayrım:</strong> <em>Öğrencinin kendisi özel gereksinimli ise (RAM, BİLSEM, Özel Eğitim Sınıfı)</em> → <strong>Özel Eğitim ve Rehberlik GM</strong>; <em>Kurum özel sektör/vakıf okulu ise (5580 sayılı Kanun)</em> → <strong>Özel Öğretim Kurumları GM</strong>!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q10",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "Özel öğretim kurumlarının açılması, devri, nakli ve kapatılmasıyla ilgili esasları belirlemek ve denetlemek hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Özel Öğretim Kurumları Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 310 (Özel Öğretim Kurumları Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n5580 sayılı Özel Öğretim Kurumları Kanunu kapsamında gerçek ve tüzel kişilerce açılacak <strong>özel öğretim kurumlarının açılması, devri, nakli ve kapatılmasıyla ilgili esasları belirlemek ve denetlemek</strong> <strong>Özel Öğretim Kurumları Genel Müdürlüğünün (A şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Özel Öğretim Kurumları Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>B Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Temel Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>5580 Sayılı Kanun + Özel Okul/Kurs/Yurt Açma, Devir, Nakil, Kapatma</em> = <strong>Özel Öğretim Kurumları GM</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q11",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "Eğitim ve öğretimin teknoloji ile desteklenmesine yönelik işleri yürütmek hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 311/1-a (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü - YEĞİTEK)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 311/1-a uyarınca <em>\"Eğitim ve öğretimin teknoloji ile desteklenmesine yönelik işleri yürütmek\"</em> doğrudan <strong>Yenilik ve Eğitim Teknolojileri Genel Müdürlüğünün (YEĞİTEK — B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Bilgi İşlem Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>YEĞİTEK vs. Bilgi İşlem Şifresi:</strong> <em>Eğitim-öğretim + Teknoloji/Dijital İçerik/EBA</em> diyorsa → <strong>YEĞİTEK</strong>; <em>Bakanlığın veri tabanı + MEBBİS/e-Okul/EBYS/Sunucu</em> diyorsa → <strong>Bilgi İşlem GM</strong>!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q12",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "Eğitimde yapay zekâ ve bilgi-iletişim teknolojileri alanlarında proje geliştirme ve yürütme görevi hangi birime aittir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 311/1-ç (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü - YEĞİTEK)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 311/1-ç uyarınca: <em>\"<strong>Eğitim ve öğretimde;</strong> yapay zekâ ile bilgi ve iletişim teknolojileri alanlarında proje geliştirip yürütmek, uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek\"</em> <strong>Yenilik ve Eğitim Teknolojileri Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Bilgi İşlem Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nCümle <strong>\"Eğitim ve öğretimde yapay zekâ...\"</strong> diye başlıyorsa cevap <strong>YEĞİTEK</strong>'tir!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q13",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "Eğitim-öğretimde siber güvenlik ve teknolojilerin etik, güvenli kullanımı konusunda strateji geliştiren birim hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Teftiş Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 311/1-g (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü - YEĞİTEK)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 311/1-g'ye göre: <em>\"<strong>Eğitim ve öğretimde siber güvenlik, bilgi ve iletişim teknolojilerinin etik ve güvenli kullanımı</strong> konularında strateji geliştirmek, öğrenci, eğitim çalışanı ve velileri bilinçlendirmeye yönelik çalışmalar yürütmek\"</em> <strong>Yenilik ve Eğitim Teknolojileri Genel Müdürlüğünün (C şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Bilgi İşlem Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Çok Kritik Tuzak:</strong> <em>\"Eğitim ve öğretimde siber güvenlik ve teknolojilerin etik/güvenli kullanımı konusunda öğrenci ve velileri bilinçlendirmek\"</em> Bilgi İşlem'in değil, <strong>YEĞİTEK</strong>'in görevidir!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q14",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "Merkezi sistemle yürütülen yerleştirme, bitirme ve karşılaştırma sınavlarını planlamak, uygulamak ve değerlendirmek hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ÖSYM"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 313/1-a (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nMerkezî sistemle yürütülen resmî ve özel yerleştirme, bitirme ve karşılaştırma sınavlarını planlamak, uygulamak ve değerlendirmek <strong>Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (ÖSYM ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Sınav + Soru Hazırlama + PISA/TIMSS + Ölçme Araçları</em> = <strong>Ölçme, Değerlendirme ve Sınav Hizmetleri GM</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q15",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "Kamu kurumlarının talep ettiği göreve giriş ve görevde yükselme sınavlarını yürütmek hangi birimin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 313/1-b (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nKamu kurum ve kuruluşları ile özel hukuk tüzel kişileri tarafından talep edilen <strong>mesleğe giriş, yeterlik, görevde yükselme ve benzeri sınav hizmetlerini yürütmek</strong> <strong>Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nGörevde yükselme veya mesleğe giriş <strong>sınav hizmetini yürütmek</strong> Personel GM'nin değil, <strong>Ölçme, Değerlendirme ve Sınav Hizmetleri GM</strong>'nin görevidir!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q16",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "Bakanlıkça yapılan sınavlarda soruları hazırlamak veya hazırlatmak ve güvenli biçimde saklamak kimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 313/1-d (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nBakanlıkça yapılan sınavlarda kullanılacak <strong>soruları hazırlamak veya hazırlatmak, denetlemek ve güvenli bir şekilde saklamak</strong> için gerekli tedbirleri almak <strong>Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Bilgi İşlem Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Ortaöğretim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nSınav sorularının hazırlanması, denetlenmesi ve soru bankası güvenliği doğrudan <strong>Ölçme, Değerlendirme ve Sınav Hizmetleri GM</strong>'ye aittir."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q17",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "1416 sayılı Kanun kapsamında yurt dışına yükseköğrenim için gönderileceklerle ilgili işlemleri hangi birim yürütür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 314/1-c (Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n8/4/1929 tarihli ve <strong>1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun</strong> hükümlerine göre yurt dışına yükseköğrenim görmek amacıyla gönderileceklerle ilgili iş ve işlemleri yürütmek <strong>Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Hayat Boyu Öğrenme Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>1416 Sayılı Kanun + Ecnebi Memleketlere Gönderilecek Öğrenciler + Yurt Dışındaki Vatandaşlarımızın Eğitimi</em> = <strong>Yükseköğretim ve Yurt Dışı Eğitim GM</strong>!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q18",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 18,
+    "questionText": "Bakanlığın AB ve diğer uluslararası kuruluşlarla iş birliği çalışmalarını ve ikili anlaşmalara ilişkin işlemleri hangi birim yürütür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Özel Kalem Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Personel Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 315/1-a (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nBakanlığın Avrupa Birliği ve diğer uluslararası kuruluşlarla ilgili iş birliği çalışmaları ile ikili anlaşmalara ilişkin iş ve işlemleri yürütmek <strong>Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Özel Kalem Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>AB + Uluslararası Kuruluşlar + İkili Anlaşmalar ve Protokoller + Yabancı Hükümet Bursları</em> = <strong>Avrupa Birliği ve Dış İlişkiler GM</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q19",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 19,
+    "questionText": "Bakanlığın diğer birimlerince yürütülen ulusal ve uluslararası projelerin uyumlu uygulanması ve koordinasyonu hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 315/1-b–c (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 315/1-c'ye göre: <em>\"Bakanlığın diğer birimleri tarafından yürütülen ulusal ve uluslararası projelerin birbiriyle uyumlu bir şekilde uygulanmasını, izlenmesini, değerlendirilmesini ve koordinasyonunu sağlamak\"</em> <strong>Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nDiğer birimlerin yürüttüğü ulusal ve uluslararası projelerin <strong>koordinasyonunu sağlamak</strong> <strong>Avrupa Birliği ve Dış İlişkiler GM</strong>'nin görevidir."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q20",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 20,
+    "questionText": "Atama, nakil, terfi ve emeklilik gibi personel özlük işlemlerini hangi birim yürütür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Teftiş Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Personel Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 316/1-b (Personel Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nBakanlık personelinin <strong>atama, nakil, terfi, emeklilik ve benzeri özlük işlemlerini</strong> yürütmek <strong>Personel Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Personel Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Personel Politikası + Atama, Nakil, Terfi, Emeklilik, Özlük</em> = <strong>Personel Genel Müdürlüğü</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q21",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 21,
+    "questionText": "Milli Eğitim Akademisinde öğretmenlik mesleğine hazırlık eğitimine alınacak adayların belirlenmesine ilişkin işlemler hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Personel Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 316/1-c (Personel Genel Müdürlüğü — 7528 Sayılı Kanun Değişikliği)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n7528 sayılı Öğretmenlik Mesleği Kanunu ile Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü kaldırılmış ve 1 Sayılı CBK m. 316/1-c'ye eklenen hükümle: <em>\"<strong>Millî Eğitim Akademisinde öğretmenlik mesleğine hazırlık eğitimine alınacak öğretmen adaylarının</strong> 7528 sayılı Kanun kapsamında belirlenmesine ilişkin iş ve işlemleri yürütmek\"</em> görevi <strong>Personel Genel Müdürlüğüne (B şıkkı)</strong> verilmiştir!<br><br>\n• <strong>A Şıkkı (Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Personel Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Temel Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>2027 EKYS Güncel Mevzuat Tuzağı:</strong> <em>Öğretmen Yetiştirme ve Geliştirme GM</em> kaldırıldı! Millî Eğitim Akademisine alınacak adayların belirlenmesi işlemlerini artık <strong>Personel Genel Müdürlüğü</strong> yürütür!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q22",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 22,
+    "questionText": "659 sayılı KHK hükümlerine göre hukuk birimlerine verilen görevleri hangi birim yerine getirir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Hukuk Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 317 (Hukuk Hizmetleri Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n26/9/2011 tarihli ve <strong>659 sayılı Kanun Hükmünde Kararname</strong> hükümlerine göre hukuk birimlerine verilen görevleri yapmak <strong>Hukuk Hizmetleri Genel Müdürlüğünün (A şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>B Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>659 Sayılı KHK + Hukuk Birimi Görevleri / Adli ve İdari Davalar</em> = <strong>Hukuk Hizmetleri GM</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q23",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 23,
+    "questionText": "Kiralama, satın alma, temizlik, güvenlik, ısınma, onarım ve taşıma hizmetlerini yürütmek hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Personel Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 318/1-b (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n5018 sayılı Kanun hükümleri çerçevesinde <strong>kiralama ve satın alma</strong> işlerini yürütmek; <strong>temizlik, güvenlik, aydınlatma, ısınma, onarım, taşıma</strong> ve benzeri hizmetleri yapmak veya yaptırmak <strong>Destek Hizmetleri Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (İnşaat ve Emlak Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Destek Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Bilgi İşlem Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Destek vs. İnşaat Ayrımı:</strong> <em>Kiralama, satın alma, temizlik, ısınma, küçük onarım, taşıma</em> → <strong>Destek Hizmetleri GM</strong>; <em>Okul binası inşası, arsa temini, kamulaştırma, büyük tadilat/proje</em> → <strong>İnşaat ve Emlak GM</strong>!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_1_q24",
+    "testId": "mevzuat_1cbk_t4_1",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Madde 301-318)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 24,
+    "questionText": "Genel evrak ve arşiv faaliyetlerini düzenlemek ve yürütmek hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Özel Kalem Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Basın ve Halkla İlişkiler Müşavirliği"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 318/1-ç (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 318/1-ç uyarınca <em>\"Genel evrak ve arşiv faaliyetlerini düzenlemek ve yürütmek\"</em> <strong>Destek Hizmetleri Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Bilgi İşlem Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Destek Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Özel Kalem Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Basın ve Halkla İlişkiler Müşavirliği ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Genel Evrak ve Arşiv + Taşınır/Taşınmaz Kayıtları + Ders Kitaplarının Basım ve Dağıtımı</em> = <strong>Destek Hizmetleri GM</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q1",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 1,
+    "questionText": "Bakanlığa bağlı döner sermaye işletmeleriyle ilgili işleri yürütmek hangi birimin görevleri arasındadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 318/1-e (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 318/1-e'ye göre: <em>\"Bakanlığa bağlı döner sermaye işletmeleri ile öğretmen evi, akşam sanat okulu ve benzeri sosyal tesislerle ilgili işleri yürütmek\"</em> <strong>Destek Hizmetleri Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Destek Hizmetleri Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (İnşaat ve Emlak Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Altın Şifre:</strong> <em>Döner Sermaye İşletmeleri + Öğretmenevleri + Akşam Sanat Okulları (ASO) + Sosyal Tesisler</em> = <strong>Destek Hizmetleri GM</strong>!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q2",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 2,
+    "questionText": "MEBBİS ve e-Okul uygulamaları ile elektronik imza ve elektronik belge uygulamalarını yürütmek hangi birime aittir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Bilgi İşlem Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 318/A-1/c (Bilgi İşlem Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nBakanlığın internet sayfaları, <strong>elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e-Okul uygulamaları</strong> ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek <strong>Bilgi İşlem Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Bilgi İşlem Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>MEBBİS + e-Okul + e-İmza + Elektronik Belge + Veri Tabanı</em> = <strong>Bilgi İşlem Genel Müdürlüğü</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q3",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 3,
+    "questionText": "Bakanlığın bilişim altyapısının kurulumu, bakımı, geliştirilmesi ve haberleşme güvenliği hangi birimin sorumluluğundadır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Teftiş Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Bilgi İşlem Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 318/A-1/d (Bilgi İşlem Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nBakanlığın mevcut <strong>bilişim altyapısının kurulumu, bakımı, ikmali, geliştirilmesi ve güncellenmesi</strong> ile ilgili işleri yürütmek ve <strong>haberleşme güvenliğini</strong> sağlamak <strong>Bilgi İşlem Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Bilgi İşlem Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (İnşaat ve Emlak Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nBakanlığın teknik bilişim altyapısı, sunucu bakımı ve haberleşme güvenliği doğrudan <strong>Bilgi İşlem GM</strong>'nin sorumluluğundadır."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q4",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 4,
+    "questionText": "Okul binalarının yapımı, bakım-onarımı, tadilatı ve mimari proje çalışmalarını hangi birim yürütür?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (İnşaat ve Emlak Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 319/1-a–b (İnşaat ve Emlak Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nOkul ve kurum binaları dâhil taşınmazlara ilişkin her türlü <strong>etüt, plan, proje, yapım, bakım ve onarım, tadilat ve geliştirme</strong> işlerini yürütmek <strong>İnşaat ve Emlak Genel Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (İnşaat ve Emlak Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Temel Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Bilgi İşlem Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Okul Binası Yapımı + Mimari Proje + Arsa Temini + Kamulaştırma</em> = <strong>İnşaat ve Emlak GM</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q5",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 5,
+    "questionText": "Kamulaştırma işlemlerini yürütmek hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Teftiş Kurulu Başkanlığı"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (İnşaat ve Emlak Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 319/1-c (İnşaat ve Emlak Genel Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 319/1-c uyarınca <strong>kamulaştırma işlemlerini yürütmek</strong>, Bakanlığa ait arsa ve arazilerin imar ve tahsis işlemlerini gerçekleştirmek <strong>İnşaat ve Emlak Genel Müdürlüğünün (A şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (İnşaat ve Emlak Genel Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>B Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nKamulaştırma, arsa temini ve bina inşası işlemleri her zaman <strong>İnşaat ve Emlak GM</strong>'ye aittir."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q6",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 6,
+    "questionText": "Talim ve Terbiye Kurulu Başkanlığının Bakanlık içindeki temel niteliği aşağıdakilerden hangisidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İdari denetim organı"
+      },
+      {
+        "key": "B",
+        "text": "Bilimsel danışma ve inceleme organı"
+      },
+      {
+        "key": "C",
+        "text": "Personel atama organı"
+      },
+      {
+        "key": "D",
+        "text": "Sınav uygulama organı"
+      },
+      {
+        "key": "E",
+        "text": "Mali denetim organı"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Bilimsel danışma ve inceleme organı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 320/1 (Talim ve Terbiye Kurulu Başkanlığı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 320'ye göre <strong>Talim ve Terbiye Kurulu Başkanlığı</strong>, Bakanlığın <strong>bilimsel danışma ve inceleme organıdır (B şıkkı)</strong>; eğitim sisteminin kalite, eşitlik ve etkililik ilkeleri doğrultusunda geliştirilmesi için çalışır.<br><br>\n• <strong>A Şıkkı (İdari denetim organı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Bilimsel danışma ve inceleme organı — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Personel atama organı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Sınav uygulama organı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Mali denetim organı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>TTKB Karakteri:</strong> Bakanlığın <strong>Bilimsel Danışma ve İnceleme Organıdır</strong> (İdari denetim organı ise Teftiş Kurulu Başkanlığıdır)."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q7",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 7,
+    "questionText": "Yurt dışındaki eğitim kurumlarından alınan ilköğretim ve ortaöğretim diploma ve öğrenim belgelerinin derece ve denkliklerine ilişkin ilke kararlarını kim Bakanın onayına sunar?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Personel Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Talim ve Terbiye Kurulu Başkanlığı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 320/2-ç (Talim ve Terbiye Kurulu Başkanlığı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nYurt içi ve yurt dışı eğitim hareketlerini takip etmek, <strong>yurt dışındaki eğitim-öğretim kurumlarından alınan ilköğretim ve ortaöğretim diploma ve öğrenim belgelerinin derece ve denkliklerine ilişkin ilke kararlarını Bakanın onayına sunmak</strong> <strong>Talim ve Terbiye Kurulu Başkanlığının (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Talim ve Terbiye Kurulu Başkanlığı — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Büyük Turnusol Şifre:</strong> Cümlenin sonunda <em>\"...ilke kararlarını / programları / ders kitaplarını <strong>Bakanın onayına sunmak</strong>\"</em> diyorsa cevap her zaman <strong>Talim ve Terbiye Kurulu Başkanlığı</strong>dır!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q8",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 8,
+    "questionText": "Teftiş Kurulu Başkanlığı görevlerini hangi makamın emri veya onayı üzerine yerine getirir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cumhurbaşkanının"
+      },
+      {
+        "key": "B",
+        "text": "Bakanın"
+      },
+      {
+        "key": "C",
+        "text": "Valinin"
+      },
+      {
+        "key": "D",
+        "text": "İl millî eğitim müdürünün"
+      },
+      {
+        "key": "E",
+        "text": "Talim ve Terbiye Kurulu Başkanının"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Bakanın)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 321/1 (Teftiş Kurulu Başkanlığı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 321/1'e göre <strong>Teftiş Kurulu Başkanlığı</strong>, doğrudan <strong>Bakanın emri veya onayı üzerine (B şıkkı)</strong> Bakan adına rehberlik, denetim, inceleme ve soruşturma görevlerini yapar.<br><br>\n• <strong>A Şıkkı (Cumhurbaşkanının ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Bakanın — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Valinin ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (İl millî eğitim müdürünün ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Talim ve Terbiye Kurulu Başkanının ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nTeftiş Kurulu Başkanlığı doğrudan <strong>Bakana bağlıdır</strong> ve görevlerini <strong>Bakanın emri veya onayı</strong> üzerine yerine getirir."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q9",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 9,
+    "questionText": "Bakanlık tarafından veya Bakanlığın denetiminde sunulan hizmetlerin kontrol ve denetimini ilgili birimlerle iş birliği içinde yapmak, süreç ve sonuçlarını mevzuata, önceden belirlenmiş amaç ve hedeflere, performans ölçütlerine ve kalite standartlarına göre analiz etmek, karşılaştırmak ve ölçmek, kanıtlara dayalı olarak değerlendirmek, elde edilen sonuçları rapor hâline getirerek ilgili birimlere ve kişilere iletmek,hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Personel Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Teftiş Kurulu Başkanlığı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 321/1-b (Teftiş Kurulu Başkanlığı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nBakanlık tarafından veya Bakanlığın denetiminde sunulan hizmetlerin <strong>kontrol ve denetimini</strong> yapmak, süreç ve sonuçlarını mevzuata ve performans ölçütlerine göre analiz etmek ve rapor hâline getirmek <strong>Teftiş Kurulu Başkanlığının (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Strateji Geliştirme Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Teftiş Kurulu Başkanlığı — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Talim ve Terbiye Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Kontrol ve Denetim + Rehberlik + İnceleme ve Soruşturma + Raporlama</em> = <strong>Teftiş Kurulu Başkanlığı</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q10",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 10,
+    "questionText": "Teftiş Kurulu Başkanlığının görev merkezi neresidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İstanbul"
+      },
+      {
+        "key": "B",
+        "text": "İzmir"
+      },
+      {
+        "key": "C",
+        "text": "Ankara"
+      },
+      {
+        "key": "D",
+        "text": "Eskişehir"
+      },
+      {
+        "key": "E",
+        "text": "Konya"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Ankara)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 321/2 (Teftiş Kurulu Başkanlığının Görev Merkezi)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 321/2'ye göre: <em>\"Teftiş Kurulu Başkanlığının görev merkezi <strong>Ankara</strong>'dır (C şıkkı). Gerektiğinde Bakan onayı ile diğer illerde çalışma merkezleri kurulabilir.\"</em><br><br>\n• <strong>A Şıkkı (İstanbul ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (İzmir ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Ankara — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (Eskişehir ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Konya ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nTeftiş Kurulu Başkanlığının görev merkezi <strong>Ankara</strong>'dır; çalışma usul ve esasları <strong>yönetmelikle</strong> düzenlenir."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q11",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 11,
+    "questionText": "5018 sayılı Kanun ve ilgili mevzuatla strateji geliştirme ve mali hizmetler birimlerine verilen görevleri hangi birim yerine getirir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Strateji Geliştirme Başkanlığı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 322 (Strateji Geliştirme Başkanlığı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n<strong>5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu</strong> ve ilgili mevzuatla strateji geliştirme ve mali hizmetler birimlerine verilen görevleri yapmak <strong>Strateji Geliştirme Başkanlığının (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Strateji Geliştirme Başkanlığı — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>5018 İkili Ayrımı:</strong> <em>5018 sayılı Kanun kapsamında kiralama/satın alma</em> → <strong>Destek Hizmetleri GM</strong>; <em>5018 sayılı Kanun kapsamında strateji geliştirme ve mali hizmetler (bütçe/kesin hesap)</em> → <strong>Strateji Geliştirme Başkanlığı</strong>!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q12",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 12,
+    "questionText": "Afet ve acil durum, sivil savunma, seferberlik ve savaş hâline ilişkin iş ve işlemleri diğer hizmet birimleriyle koordineli yürütmek hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Özel Kalem Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 323/A (Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nAfet ve acil durum, sivil savunma, seferberlik ve savaş hâli hazırlıklarına ilişkin iş ve işlemleri yürütmek, Bakanlığın en son ihdas edilen daire başkanlığı düzeyindeki hizmet birimi olan <strong>Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığının (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Bilgi İşlem Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Özel Kalem Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nMEB merkez teşkilatındaki 22 hizmet birimi içinde unvanında <em>\"Dairesi Başkanlığı\"</em> geçen tek birim <strong>Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı</strong>dır!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q13",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 13,
+    "questionText": "4982 sayılı Bilgi Edinme Hakkı Kanunu kapsamındaki başvuruların etkin, süratli ve doğru sonuçlandırılması için tedbir almak hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Özel Kalem Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Basın ve Halkla İlişkiler Müşavirliği"
+      },
+      {
+        "key": "C",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Personel Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Basın ve Halkla İlişkiler Müşavirliği)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 324/1-b (Basın ve Halkla İlişkiler Müşavirliği)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n9/10/2003 tarihli ve <strong>4982 sayılı Bilgi Edinme Hakkı Kanunu</strong> hükümleri çerçevesinde bilgi edinme başvurularının etkin, süratli ve doğru sonuçlandırılması amacıyla gerekli tedbirleri almak <strong>Basın ve Halkla İlişkiler Müşavirliğinin (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Özel Kalem Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Basın ve Halkla İlişkiler Müşavirliği — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Teftiş Kurulu Başkanlığı ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Basın ve Medya + 4982 Sayılı Bilgi Edinme Hakkı Kanunu Başvuruları</em> = <strong>Basın ve Halkla İlişkiler Müşavirliği</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q14",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 14,
+    "questionText": "Bakanın çalışma programını düzenlemek, resmî ve özel yazışmalarını ve protokol işlerini yürütmek hangi birimin görevidir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Basın ve Halkla İlişkiler Müşavirliği"
+      },
+      {
+        "key": "B",
+        "text": "Özel Kalem Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Personel Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Özel Kalem Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 325 (Özel Kalem Müdürlüğü)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\nBakanın çalışma programını düzenlemek, Bakanın resmî ve özel yazışmalarını, protokol ve tören işlerini düzenlemek ve yürütmek <strong>Özel Kalem Müdürlüğünün (B şıkkı)</strong> görevidir.<br><br>\n• <strong>A Şıkkı (Basın ve Halkla İlişkiler Müşavirliği ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Özel Kalem Müdürlüğü — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Personel Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Destek Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Hukuk Hizmetleri Genel Müdürlüğü ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Turnusol Şifre:</strong> <em>Bakanın Çalışma Programı + Bakanın Resmî/Özel Yazışmaları + Protokol ve Tören</em> = <strong>Özel Kalem Müdürlüğü</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q15",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 15,
+    "questionText": "Aşağıdakilerden hangisi Bakanlık birimlerinin ortak görevleri arasında yer alır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Üniversitelerin akademik kadrolarını belirlemek"
+      },
+      {
+        "key": "B",
+        "text": "Eğitim-öğretim hedef, politika ve standartlarının belirlenmesi için çalışma yapmak"
+      },
+      {
+        "key": "C",
+        "text": "Özel sektörün ücret politikasını düzenlemek"
+      },
+      {
+        "key": "D",
+        "text": "Belediye bütçelerini onaylamak"
+      },
+      {
+        "key": "E",
+        "text": "Yükseköğretim kurumlarını kapatmak"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Eğitim-öğretim hedef, politika ve standartlarının belirlenmesi için çalışma yapmak)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 326/1-a (Bakanlık Birimlerinin Ortak Görevleri)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 326/1-a'ya göre tüm Bakanlık birimleri kendi sorumluluk alanlarıyla ilgili olarak: <em>\"<strong>Eğitim ve öğretime ilişkin hedef, politika ve standartların belirlenmesi amacıyla gerekli çalışmaları yapmak</strong> (B şıkkı)\"</em> ortak görevini yerine getirirler.<br><br>\n• <strong>A Şıkkı (Üniversitelerin akademik kadrolarını belirlemek ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Eğitim-öğretim hedef, politika ve standartlarının belirlenmesi için çalışma yapmak — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Özel sektörün ücret politikasını düzenlemek ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Belediye bütçelerini onaylamak ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Yükseköğretim kurumlarını kapatmak ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nMadde 326'daki ortak görevler: Kendi alanında hedef/politika/standart belirleme çalışması yapmak, Ar-Ge yapmak, özel eğitim-rehberlik ve ölçme sonuçlarını değerlendirmek."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q16",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 16,
+    "questionText": "İlçe millî eğitim müdürlükleri görev ve hizmetleri yürütürken kime karşı da sorumludur?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kaymakama"
+      },
+      {
+        "key": "B",
+        "text": "Valiye"
+      },
+      {
+        "key": "C",
+        "text": "İl millî eğitim müdürlüklerine"
+      },
+      {
+        "key": "D",
+        "text": "Talim ve Terbiye Kuruluna"
+      },
+      {
+        "key": "E",
+        "text": "Bakanlık merkez teşkilatına doğrudan"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (İl millî eğitim müdürlüklerine)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 327/1 (Taşra Teşkilatı — İl ve İlçe Millî Eğitim Müdürlükleri)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 327/1'e göre: <em>\"Her ilde ve ilçede bir millî eğitim müdürlüğü kurulur. <strong>İlçe millî eğitim müdürlükleri, görev ve hizmetleri yürütürken il millî eğitim müdürlüklerine karşı da sorumludur</strong> (C şıkkı).\"</em><br><br>\n• <strong>A Şıkkı (Kaymakama ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Valiye ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (İl millî eğitim müdürlüklerine — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (Talim ve Terbiye Kuruluna ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Bakanlık merkez teşkilatına doğrudan ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>ÖSYM'nin Klasik Taşra Sorusu:</strong> İlçe millî eğitim müdürlükleri kaymakama bağlı olmakla birlikte, 1 Sayılı CBK m. 327 hükmü gereğince <strong>il millî eğitim müdürlüklerine karşı da sorumludur</strong>!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q17",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 17,
+    "questionText": "Bakanlığın görev alanındaki konularda geçici çalışma grupları oluşturulurken aşağıdakilerden hangisinin katılımı maddede açıkça öngörülmemiştir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diğer bakanlıklar"
+      },
+      {
+        "key": "B",
+        "text": "Kamu kurum ve kuruluşları"
+      },
+      {
+        "key": "C",
+        "text": "Sivil toplum kuruluşları"
+      },
+      {
+        "key": "D",
+        "text": "Özel sektör temsilcileri"
+      },
+      {
+        "key": "E",
+        "text": "Yalnızca üniversite rektörleri"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Yalnızca üniversite rektörleri)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 329 (Çalışma Grupları)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 329'a göre Bakanlık; görev alanına giren konularla ilgili olarak <strong>diğer bakanlıklar (A), kamu kurum ve kuruluşları (B), sivil toplum kuruluşları (C), özel sektör temsilcileri (D) ve konu ile ilgili uzmanların</strong> katılımıyla geçici çalışma grupları oluşturabilir. Maddede <em>\"yalnızca üniversite rektörleri\" (E şıkkı)</em> gibi kısıtlayıcı bir ifade yer almaz.<br><br>\n• <strong>A Şıkkı (Diğer bakanlıklar ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Kamu kurum ve kuruluşları ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Sivil toplum kuruluşları ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Özel sektör temsilcileri ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Yalnızca üniversite rektörleri — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nGeçici çalışma gruplarına (m. 329) katılan 5 unsur: <strong>Diğer Bakanlıklar + Kamu Kurumları + STK'lar + Özel Sektör Temsilcileri + Konu Uzmanları</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q18",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 18,
+    "questionText": "Öğretmen kadroları, merkez ve taşra birimlerine değil, hangi esas dikkate alınarak dağıtılır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "İl nüfusu esas alınarak"
+      },
+      {
+        "key": "B",
+        "text": "Branşlar esas alınarak okul ve kurumlara"
+      },
+      {
+        "key": "C",
+        "text": "Hizmet yılı esas alınarak ilçelere"
+      },
+      {
+        "key": "D",
+        "text": "Okul aile birliği kararına göre"
+      },
+      {
+        "key": "E",
+        "text": "Valiliklerin serbest takdirine göre"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Branşlar esas alınarak okul ve kurumlara)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 330/1 (Kadrolar ve Norm Kadro Dağıtımı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 330/1'e göre: <em>\"Bakanlığa tahsis edilmiş bulunan serbest kadrolardan öğretmen kadroları dışındaki kadrolar merkez ve taşra birimlerine, <strong>öğretmen kadroları ise branşlar esas alınarak okul ve kurumlara</strong> (B şıkkı), Cumhurbaşkanınca çıkarılacak yönetmelikte belirlenen norm kadro sayılarına uygun olarak dağıtılır.\"</em><br><br>\n• <strong>A Şıkkı (İl nüfusu esas alınarak ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Branşlar esas alınarak okul ve kurumlara — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (Hizmet yılı esas alınarak ilçelere ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Okul aile birliği kararına göre ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Valiliklerin serbest takdirine göre ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Madde 330 Şifresi:</strong> Öğretmen kadroları <em>branşlar esas alınarak doğrudan okul ve kurumlara</em> (Cumhurbaşkanı yönetmeliğindeki norm kadro sayılarına göre) dağıtılır!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q19",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 19,
+    "questionText": "Öğretmenlerin emeklilik işlemleri kural olarak hangi aylarda yapılır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ocak ve Şubat"
+      },
+      {
+        "key": "B",
+        "text": "Mart ve Nisan"
+      },
+      {
+        "key": "C",
+        "text": "Haziran ve Temmuz"
+      },
+      {
+        "key": "D",
+        "text": "Ağustos ve Eylül"
+      },
+      {
+        "key": "E",
+        "text": "Kasım ve Aralık"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Haziran ve Temmuz)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 331/1 (Öğretmenlerin Emekliliği — 2022 EKYS Çıkmış Soru Konusu)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 331/1'e göre eğitim-öğretim bütünlüğünün bozulmaması amacıyla: <em>\"Öğretmenlerin emeklilik işlemleri <strong>Haziran ve Temmuz ayları içinde</strong> (C şıkkı) yapılır.\"</em><br><br>\n• <strong>A Şıkkı (Ocak ve Şubat ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Mart ve Nisan ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Haziran ve Temmuz — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (Ağustos ve Eylül ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Kasım ve Aralık ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>2022 EKYS Çıkmış Soru:</strong> Öğretmenlerin olağan emeklilik ayları = <strong>Haziran ve Temmuz</strong>!"
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q20",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 20,
+    "questionText": "Haziran ve Temmuz dışında öğretmen emekliliği yapılabilmesi hangi koşula bağlıdır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Her durumda okul müdürünün onayına"
+      },
+      {
+        "key": "B",
+        "text": "Görev yapılan il sınırlarında ilgili sınıf ve branşta öğretmen fazlası bulunmasına ve Bakanlığın uygun görmesine"
+      },
+      {
+        "key": "C",
+        "text": "İlçe millî eğitim müdürünün tek taraflı talebine"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmenin en az 20 yıl hizmet yapmasına"
+      },
+      {
+        "key": "E",
+        "text": "Sendika temsilcisinin onayına"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Görev yapılan il sınırlarında ilgili sınıf ve branşta öğretmen fazlası bulunmasına ve Bakanlığın uygun görmesine)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 331/1 (Haziran-Temmuz Dışında Emeklilik İstisnası)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 331/1'in ikinci cümlesine göre Haziran ve Temmuz ayları dışında emeklilik işlemi yapılabilmesi iki şartın birlikte gerçekleşmesine bağlıdır:<br>1) <strong>Görev yapılan il sınırları içinde emeklilik talebinde bulunan personelin sınıf ve branşında öğretmen fazlasının bulunması,</strong><br>2) <strong>İşlemin Bakanlıkça uygun görülmesi (B şıkkı).</strong><br><br>\n• <strong>A Şıkkı (Her durumda okul müdürünün onayına ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Görev yapılan il sınırlarında ilgili sınıf ve branşta öğretmen fazlası bulunmasına ve Bakanlığın uygun görmesine — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>C Şıkkı (İlçe millî eğitim müdürünün tek taraflı talebine ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (Öğretmenin en az 20 yıl hizmet yapmasına ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Sendika temsilcisinin onayına ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nHaziran-Temmuz dışı emeklilik formülü: <strong>İlde Sınıf/Branş Öğretmen Fazlası + Bakanlığın Uygun Görmesi</strong>."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q21",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 21,
+    "questionText": "Bakanlık merkez teşkilatında Millî Eğitim Uzmanı ve Uzman Yardımcısı hangi hükme göre istihdam edilir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "657 sayılı Kanunun ek 41. maddesine göre"
+      },
+      {
+        "key": "B",
+        "text": "3308 sayılı Kanuna göre"
+      },
+      {
+        "key": "C",
+        "text": "2547 sayılı Kanuna göre"
+      },
+      {
+        "key": "D",
+        "text": "5018 sayılı Kanuna göre"
+      },
+      {
+        "key": "E",
+        "text": "7528 sayılı Kanunun geçici maddesine göre"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (657 sayılı Kanunun ek 41. maddesine göre)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 332/1 (Millî Eğitim Uzmanı ve Uzman Yardımcısı İstihdamı)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 332/1'e göre: <em>\"Bakanlık merkez teşkilatında; <strong>657 sayılı Kanunun ek 41 inci maddesine göre</strong> (A şıkkı) Millî Eğitim Uzmanları ve Millî Eğitim Uzman Yardımcıları istihdam edilir.\"</em><br><br>\n• <strong>A Şıkkı (657 sayılı Kanunun ek 41. maddesine göre — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>B Şıkkı (3308 sayılı Kanuna göre ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (2547 sayılı Kanuna göre ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>D Şıkkı (5018 sayılı Kanuna göre ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (7528 sayılı Kanunun geçici maddesine göre ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\nMerkez teşkilatındaki kariyer uzmanlar (Millî Eğitim Uzmanı / Uzman Yrd.) → <strong>657 sayılı Kanun Ek Madde 41</strong>'e göre istihdam edilir."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q22",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 22,
+    "questionText": "Taslak ders kitapları, eğitim araç-gereçleri ve Bakanlık sınav sorularının hazırlatılması veya inceletilmesi karşılığındaki bedel ve telif ücretleri hangi hesaptan karşılanır?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Genel bütçe vergi gelirlerinden"
+      },
+      {
+        "key": "B",
+        "text": "Okul aile birliği hesabından"
+      },
+      {
+        "key": "C",
+        "text": "Döner sermaye hesabından"
+      },
+      {
+        "key": "D",
+        "text": "İl özel idaresi bütçesinden"
+      },
+      {
+        "key": "E",
+        "text": "Sosyal etkinlikler hesabından"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Döner sermaye hesabından)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 333/1 (Telif ve Sınav Ücretleri)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 333/1'e göre; taslak ders kitapları, eğitim araç-gereçleri ve Bakanlıkça yapılan sınavların sorularının hazırlatılması veya inceletilmesi karşılığı ödenecek <strong>bedel ve telif ücretleri döner sermaye hesabından (C şıkkı)</strong> karşılanır.<br><br>\n• <strong>A Şıkkı (Genel bütçe vergi gelirlerinden ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Okul aile birliği hesabından ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Döner sermaye hesabından — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (İl özel idaresi bütçesinden ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Sosyal etkinlikler hesabından ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Madde 333 Şifresi:</strong> Ders kitabı ve sınav sorusu telif/inceleme ücretleri genel bütçeden değil, <strong>Döner Sermaye Hesabından</strong> ödenir (Usul ve esasları Hazine ve Maliye Bakanlığının görüşü alınarak MEB tarafından belirlenir)."
+  },
+  {
+    "id": "mevzuat_1cbk_t4_2_q23",
+    "testId": "mevzuat_1cbk_t4_2",
+    "topicId": "mevzuat_1cbk",
+    "topicName": "1 Sayılı CBK Test 4.2: Bilgi İşlem, İnşaat, TTKB, Teftiş, Taşra ve Emeklilik (Madde 318-335)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "questionNumber": 23,
+    "questionText": "Öğretmenlerin alanlarına göre aylık karşılığı okutacağı dersler hangi düzenleyici işlemle belirlenir?",
+    "hasImage": false,
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kanunla"
+      },
+      {
+        "key": "B",
+        "text": "Cumhurbaşkanlığı kararnamesiyle"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlık tarafından yürürlüğe konulan yönetmelikle"
+      },
+      {
+        "key": "D",
+        "text": "İl millî eğitim müdürlüğü yönergesiyle"
+      },
+      {
+        "key": "E",
+        "text": "Okul müdürleri kurulu kararıyla"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Bakanlık tarafından yürürlüğe konulan yönetmelikle)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 334/1 (Öğretmenlerin Aylık Karşılığı Okutacağı Dersler — 2025 YÖS Konusu)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 334/1'e göre: <em>\"Öğretmenlerin, alanlarına göre aylık karşılığı okutacağı dersler <strong>Bakanlık tarafından yürürlüğe konulan yönetmelikle</strong> (C şıkkı) belirlenir.\"</em><br><br>\n• <strong>A Şıkkı (Kanunla ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Cumhurbaşkanlığı kararnamesiyle ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Bakanlık tarafından yürürlüğe konulan yönetmelikle — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (İl millî eğitim müdürlüğü yönergesiyle ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Okul müdürleri kurulu kararıyla ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Yönetmelik Ayrımı:</strong> <em>TTKB çalışma usulleri ve Norm Kadro</em> → <strong>Cumhurbaşkanı Yönetmeliği</strong>; <em>Öğretmenlerin aylık karşılığı okutacağı dersler</em> → <strong>Bakanlık Yönetmeliği</strong>!"
   }
 ];
