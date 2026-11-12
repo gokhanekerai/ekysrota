@@ -3332,8 +3332,8 @@ class EKYSApp {
 
     const filtered = allQuestions.filter(q => {
       const qText = (q.questionText || q.question || '').toLowerCase();
-      const tName = (q.topicName || q.testTitle || '').toLowerCase();
-      const tId = (q.topicId || q.testId || '').toLowerCase();
+      const tName = [(q.testTitle || ''), (q.testName || ''), (q.topicName || '')].join(' ').toLowerCase();
+      const tId = [(q.testId || ''), (q.topicId || ''), (q.id || '')].join(' ').toLowerCase();
       const isCikmis = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
       const qNum = q.questionNumber || 0;
       // TYMM (Türkiye Yüzyılı Maarif Modeli) Testleri
@@ -3431,7 +3431,18 @@ class EKYSApp {
       if (filterKey === 'cogr_toprak_afet') return q.topicId === 'cogr_toprak_afet' || (q.testId && ['cogr_test_12', 'cogr_test_13', 'cogr_test_14'].includes(q.testId));
       if (filterKey === 'cogr_nufus') return q.topicId === 'cogr_nufus' || (q.testId && ['cogr_test_19', 'cogr_test_20', 'cogr_test_21'].includes(q.testId));
       if (filterKey === 'cogr_konum') return q.topicId === 'cogr_konum' || (q.testId && ['cogr_test_1', 'cogr_test_4'].includes(q.testId));
-      if (filterKey === 'cogr_cikmis') return q.testId === 'cogr_test_cikmis_secki' || (isCikmis && ((qNum >= 6 && qNum <= 12) || tName.includes('coğrafya')));
+      if (filterKey === 'cogr_cikmis') {
+        if (q.testId === 'cogr_test_cikmis_secki') return false; // Münferit seçki testidir, resmî çıkmış havuzuna karışmasın
+        // Yalnızca resmî EKYS sınavları (ekys2019..2026) çıkmış coğrafya sorularını al
+        const isOfficialCikmis = tId.includes('ekys') || (q.id && q.id.startsWith('ekys'));
+        if (!isOfficialCikmis) return false;
+
+        const yMatch = (tName + ' ' + tId + ' ' + (q.id || '')).match(/\b(2019|2020|2021|2022|2023|2024|2025|2026)\b/);
+        const y = yMatch ? yMatch[1] : '';
+        if (y === '2024') return (qNum >= 7 && qNum <= 10) || qNum === 12;
+        if (y === '2022') return qNum >= 6 && qNum <= 12;
+        return qNum >= 6 && qNum <= 10;
+      }
       if (filterKey === 'tarih1') return (q.testId === 'tarih1' || tId === 'tarih_tarama_1' || (tName.includes('tarama 1') && tName.includes('tarih')));
       if (filterKey === 'tarih2') return (q.testId === 'tarih2' || tId === 'tarih_tarama_2' || (tName.includes('tarama 2') && tName.includes('tarih')));
       if (filterKey === 'tarih3') return (q.testId === 'tarih3' || tId === 'tarih_tarama_3' || (tName.includes('tarama 3') && tName.includes('tarih')));
@@ -3469,11 +3480,39 @@ class EKYSApp {
         const isYear = tName.includes(year) || tId.includes(year) || (q.testId && q.testId.includes(year)) || (q.id && q.id.includes(year));
         if (!isYear) return false;
 
-        if (sub === 'tarih') return (qNum >= 1 && qNum <= 6) || (tName.includes('tarih') && !tName.includes('inkılap'));
-        if (sub === 'tarih_all' || sub === 'tarih_tam' || sub === 'tarih_inkilap') return ((qNum >= 1 && qNum <= 6) || (qNum >= 17 && qNum <= 28));
-        if (sub === 'cogr' || sub === 'cografya') return (qNum >= 6 && qNum <= 12) || tName.includes('coğrafya');
-        if (sub === 'yurttaslik') return (qNum >= 11 && qNum <= 14) || tName.includes('yurttaşlık') || qText.includes('hukuk') || qText.includes('normlar') || qText.includes('yurttaşlık');
-        if (sub === 'guncel') return (qNum >= 15 && qNum <= 16) || tName.includes('güncel') || qText.includes('unesco') || qText.includes('gözlem') || qText.includes('gordion') || qText.includes('mevlânâ') || qText.includes('togg');
+        // 1. Tarih (2024'te Soru 1-6; diğer yıllarda Soru 1-5)
+        if (sub === 'tarih') {
+          if (q.testId === 'cogr_test_cikmis_secki') return false;
+          if (year === '2024') return qNum >= 1 && qNum <= 6;
+          return qNum >= 1 && qNum <= 5;
+        }
+        if (sub === 'tarih_all' || sub === 'tarih_tam' || sub === 'tarih_inkilap') {
+          if (q.testId === 'cogr_test_cikmis_secki') return false;
+          if (year === '2024') return (qNum >= 1 && qNum <= 6) || (qNum >= 17 && qNum <= 28);
+          return (qNum >= 1 && qNum <= 5) || (qNum >= 17 && qNum <= 28);
+        }
+
+        // 2. Coğrafya (2024'te Soru 7-10 ve Soru 12; 2022'de Soru 6-12; diğer yıllarda Soru 6-10)
+        if (sub === 'cogr' || sub === 'cografya') {
+          if (q.testId === 'cogr_test_cikmis_secki') return false; // Münferit seçki havuzunu engelle
+          if (year === '2024') return (qNum >= 7 && qNum <= 10) || qNum === 12;
+          if (year === '2022') return qNum >= 6 && qNum <= 12;
+          return qNum >= 6 && qNum <= 10;
+        }
+
+        // 3. Temel Yurttaşlık (2022'de Soru 13-14; 2024'te Soru 11, 13, 14; diğer yıllarda Soru 11-14)
+        if (sub === 'yurttaslik') {
+          if (q.testId === 'cogr_test_cikmis_secki') return false;
+          if (year === '2022') return qNum === 13 || qNum === 14;
+          if (year === '2024') return qNum === 11 || qNum === 13 || qNum === 14;
+          return qNum >= 11 && qNum <= 14;
+        }
+
+        // 4. Güncel ve Kültürel Olaylar (Tüm yıllarda Soru 15-16)
+        if (sub === 'guncel') {
+          if (q.testId === 'cogr_test_cikmis_secki') return false;
+          return qNum === 15 || qNum === 16;
+        }
         if (sub === 'inkilap') return (qNum >= 17 && qNum <= 28) || tName.includes('inkılap');
         if (sub === 'degerler') return (qNum >= 29 && qNum <= 32) || tName.includes('değerler') || tName.includes('etik');
         if (sub === 'egitim') return (qNum >= 33 && qNum <= 40) || tName.includes('eğitim bilimleri');
