@@ -94348,701 +94348,1676 @@ window.EKYS_EXTRACTED_QUESTIONS = [
     "correctAnswer": "C",
     "explanation": "✅ <strong>Doğru Cevap: C</strong> (Bakanlık tarafından yürürlüğe konulan yönetmelikle)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı:</strong><br>\n1 Sayılı CBK Madde 334/1 (Öğretmenlerin Aylık Karşılığı Okutacağı Dersler — 2025 YÖS Konusu)<br><br>\n🔍 <strong>Detaylı Mevzuat ve Seçenek Analizi:</strong><br>\n1 Sayılı CBK m. 334/1'e göre: <em>\"Öğretmenlerin, alanlarına göre aylık karşılığı okutacağı dersler <strong>Bakanlık tarafından yürürlüğe konulan yönetmelikle</strong> (C şıkkı) belirlenir.\"</em><br><br>\n• <strong>A Şıkkı (Kanunla ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>B Şıkkı (Cumhurbaşkanlığı kararnamesiyle ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>C Şıkkı (Bakanlık tarafından yürürlüğe konulan yönetmelikle — Doğru Cevap ✔️):</strong> 1 Sayılı CBK hükmüne göre bu görev ve yetkinin asıl sahibi olan birim/düzenlemedir.<br>• <strong>D Şıkkı (İl millî eğitim müdürlüğü yönergesiyle ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br>• <strong>E Şıkkı (Okul müdürleri kurulu kararıyla ❌):</strong> Soru kökünde belirtilen görev veya yetki bu birime/düzenlemeye ait değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifre & EKYS Sınav Tüyosu:</strong><br>\n<strong>Yönetmelik Ayrımı:</strong> <em>TTKB çalışma usulleri ve Norm Kadro</em> → <strong>Cumhurbaşkanı Yönetmeliği</strong>; <em>Öğretmenlerin aylık karşılığı okutacağı dersler</em> → <strong>Bakanlık Yönetmeliği</strong>!"
   },
-  // === YENİ EKLENEN GÜVENLİ OKUL & KRİZ YÖNETİMİ (16 SORU) VE 1 SAYILI CBK QUIZIZZ (28 SORU) ===
   {
     "id": "egitim_guvenli_okul_q1",
+    "questionNumber": 1,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Örgüt Sağlığı ve Okul Güvenliği",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Bir okulda öğretmenler, ders programlarının hazırlanmasına yönelik kendilerine inisiyatif verilmesi yönünde müdür yardımcısını etkilemeye çalışmakta ve müdür yardımcısının da okul müdürünü etkileyebileceğini düşünmektedir. Böylece tek bir yetkilinin bütün süreci kontrol etmesinden ziyade karşılıklı bir iş birliği anlayışının egemenliği söz konusu olacaktır. Ayrıca okulda kişiler arası mücadele ortaya çıkmayacak, öğretmen ve yöneticiler zorlamayla hareket etmeyeceklerdir.\n\nBu öğretmenlerin etkileme davranışında bulunmaları örgüt sağlığının aşağıdaki boyutlarından hangisiyle ilişkilidir?",
+    "questionText": "Bir okulda öğretmenler, ders programlarının hazırlanmasına yönelik kendilerine inisiyatif verilmesi yönünde müdür yardımcısını etkilemeye çalışmakta ve müdür yardımcısının da okul müdürünü etkileyebileceğini düşünmektedir. Böylece tek bir yetkilinin bütün süreci kontrol etmesinden ziyade karşılıklı bir iş birliği anlayışının egemenliği söz konusu olacaktır. Ayrıca okulda kişiler arası mücadele ortaya çıkmayacak, öğretmen ve yöneticiler zorlamayla hareket etmeyeceklerdir.\n\nBu öğretmenlerin etkileme davranışında bulunmaları örgüt sağlığının aşağıdaki boyutlarından hangisiyle ilişkilidir?",
     "options": [
-      "Amaç odaklılık",
-      "Bağlılık",
-      "Otonomi",
-      "Uygun güç eşitliği",
-      "Kaynak kullanımı"
+      {
+        "key": "A",
+        "text": "Amaç odaklılık"
+      },
+      {
+        "key": "B",
+        "text": "Bağlılık"
+      },
+      {
+        "key": "C",
+        "text": "Otonomi"
+      },
+      {
+        "key": "D",
+        "text": "Uygun güç eşitliği"
+      },
+      {
+        "key": "E",
+        "text": "Kaynak kullanımı"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (Uygun güç eşitliği).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nMiles'a göre örgüt sağlığının boyutlarından 'Uygun Güç Eşitliği' (Optimal Power Equalization); astlar ile üstler arasındaki etkinin tek yönlü (otokratik baskı veya zorlama) olmaması, astların da üstleri belirli ölçüde etkileyebilmesi, karşılıklı iş birliği ve katılımcı yönetim anlayışının hakim olması durumudur. Parçada öğretmenlerin tek bir yetkilinin süreci kontrol etmesi yerine yönetimi etkileyerek iş birliği sağlamaya çalışmaları doğrudan uygun güç eşitliği boyutunu açıklar.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\n- A) Amaç Odaklılık: Okul amaçlarının açık, ulaşılabilir ve çalışanlarca benimsenmiş olmasıdır.\n- B) Bağlılık: Çalışanların örgütte kalma ve örgüt amaçları için çaba gösterme isteğidir.\n- C) Otonomi: Örgütün çevresel baskılardan bağımsız kalarak kendi kararlarını alabilme gücüdür.\n- E) Kaynak Kullanımı: Örgütün sahip olduğu insan ve madde kaynaklarını verimli kullanmasıdır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nMiles Örgüt Sağlığı Boyutları: Görev boyutları (Amaç odaklılık, İletişim yeterliği, Uygun güç eşitliği, Kaynak kullanımı); İdame boyutları (Bağlılık, Moral); Büyüme/Gelişme boyutları (Yenilikçilik, Otonomi, Uyum, Problem çözme yeterliği).\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nEğitim Yönetiminde Örgüt Sağlığı Kuramları (Miles, 1965; Hoy & Miskel) - Güvenli Okul ve Kriz Yönetimi Ders Notları."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Uygun güç eşitliği)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Miles'a göre örgüt sağlığının boyutlarından 'Uygun Güç Eşitliği' (Optimal Power Equalization); astlar ile üstler arasındaki etkinin tek yönlü (otokratik baskı veya zorlama) olmaması, astların da üstleri belirli ölçüde etkileyebilmesi, karşılıklı iş birliği ve katılımcı yönetim anlayışının hakim olması durumudur. Parçada öğretmenlerin tek bir yetkilinin süreci kontrol etmesi yerine yönetimi etkileyerek iş birliği sağlamaya çalışmaları doğrudan uygun güç eşitliği boyutunu açıklar.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>- A) Amaç Odaklılık: Okul amaçlarının açık, ulaşılabilir ve çalışanlarca benimsenmiş olmasıdır.<br>- B) Bağlılık: Çalışanların örgütte kalma ve örgüt amaçları için çaba gösterme isteğidir.<br>- C) Otonomi: Örgütün çevresel baskılardan bağımsız kalarak kendi kararlarını alabilme gücüdür.<br>- E) Kaynak Kullanımı: Örgütün sahip olduğu insan ve madde kaynaklarını verimli kullanmasıdır.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Miles Örgüt Sağlığı Boyutları: Görev boyutları (Amaç odaklılık, İletişim yeterliği, Uygun güç eşitliği, Kaynak kullanımı); İdame boyutları (Bağlılık, Moral); Büyüme/Gelişme boyutları (Yenilikçilik, Otonomi, Uyum, Problem çözme yeterliği).<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Eğitim Yönetiminde Örgüt Sağlığı Kuramları (Miles, 1965; Hoy & Miskel) - Güvenli Okul ve Kriz Yönetimi Ders Notları."
   },
   {
     "id": "egitim_guvenli_okul_q2",
+    "questionNumber": 2,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Akran Zorbalığı ve Dalga Etkisi",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Okullarda öğrenciler arasında yaşanan şiddet ve zorbalık olayları dalga şeklinde bir etki yaratabilmektedir. Okulda bir şiddet veya zorbalık olayı yaşandığında; zorbalık olayının yaratacağı dalga etkisinin öncelik sırası dikkate alındığında yukarıdakilerden hangisi baştan dördüncü olur?",
+    "questionText": "Okullarda öğrenciler arasında yaşanan şiddet ve zorbalık olayları dalga şeklinde bir etki yaratabilmektedir. Okulda bir şiddet veya zorbalık olayı yaşandığında; zorbalık olayının yaratacağı dalga etkisinin öncelik sırası dikkate alındığında yukarıdakilerden hangisi baştan dördüncü olur?",
     "options": [
-      "Mağdur öğrenci sınıf etkinliklerine katılmada güçlük yaşayabilir.",
-      "Zorbalık olayını duyan diğer öğrenciler okulun güvenli bir yer olmadığını düşünebilir.",
-      "Zorbalık olayına tanık olan öğrenci benzer olayın kendi başına da geleceğinden tedirginlik duyabilir.",
-      "Öğrenciler benzer olayların okul dışında da başlarına gelebileceğini düşünebilir.",
-      "Mağdur öğrencinin ailesi zorba öğrenciden intikam almak isteyebilir."
+      {
+        "key": "A",
+        "text": "Mağdur öğrenci sınıf etkinliklerine katılmada güçlük yaşayabilir."
+      },
+      {
+        "key": "B",
+        "text": "Zorbalık olayını duyan diğer öğrenciler okulun güvenli bir yer olmadığını düşünebilir."
+      },
+      {
+        "key": "C",
+        "text": "Zorbalık olayına tanık olan öğrenci benzer olayın kendi başına da geleceğinden tedirginlik duyabilir."
+      },
+      {
+        "key": "D",
+        "text": "Öğrenciler benzer olayların okul dışında da başlarına gelebileceğini düşünebilir."
+      },
+      {
+        "key": "E",
+        "text": "Mağdur öğrencinin ailesi zorba öğrenciden intikam almak isteyebilir."
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Zorbalık olayını duyan diğer öğrenciler okulun güvenli bir yer olmadığını düşünebilir).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nOkulda şiddet ve zorbalığın dalga etkisi (ripple effect) merkezden dışa doğru şu aşamalarla yayılır:\n1. Dalga: Olayı bizzat yaşayan mağdur öğrenci (A seçeneği - etkinliklere katılamama, korku).\n2. Dalga: Olayı doğrudan gören/tanık olan akranlar (C seçeneği - sıranın kendilerine geleceğinden korkma).\n3. Dalga: Mağdurun ailesi ve yakın çevresi (E seçeneği - öfke, intikam veya çaresizlik).\n4. Dalga: Olayı duyan diğer öğrenciler ve genel okul topluluğu (B seçeneği - okulun güvensiz olduğu algısının yayılması).\n5. Dalga: Okul dışı çevre ve toplum geneli (D seçeneği - okul dışı alanların da güvensiz hissedilmesi).\nDolayısıyla baştan dördüncü basamak B seçeneğidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA (1. sıra), C (2. sıra), E (3. sıra), B (4. sıra), D (5. sıra).\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nDalga Etkisi Sıralaması: Mağdur ➔ Tanık Akranlar ➔ Aile ➔ Duyan Diğer Öğrenciler (Okul İklimi) ➔ Okul Dışı / Toplum.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nOkul Güvenliği ve Şiddeti Önleme Eylem Planı, Zorbalıkta Dalga Etkisi Modeli."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Zorbalık olayını duyan diğer öğrenciler okulun güvenli bir yer olmadığını düşünebilir.)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Okulda şiddet ve zorbalığın dalga etkisi (ripple effect) merkezden dışa doğru şu aşamalarla yayılır:<br>1. Dalga: Olayı bizzat yaşayan mağdur öğrenci (A seçeneği - etkinliklere katılamama, korku).<br>2. Dalga: Olayı doğrudan gören/tanık olan akranlar (C seçeneği - sıranın kendilerine geleceğinden korkma).<br>3. Dalga: Mağdurun ailesi ve yakın çevresi (E seçeneği - öfke, intikam veya çaresizlik).<br>4. Dalga: Olayı duyan diğer öğrenciler ve genel okul topluluğu (B seçeneği - okulun güvensiz olduğu algısının yayılması).<br>5. Dalga: Okul dışı çevre ve toplum geneli (D seçeneği - okul dışı alanların da güvensiz hissedilmesi).<br>Dolayısıyla baştan dördüncü basamak B seçeneğidir.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>A (1. sıra), C (2. sıra), E (3. sıra), B (4. sıra), D (5. sıra).<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Dalga Etkisi Sıralaması: Mağdur ➔ Tanık Akranlar ➔ Aile ➔ Duyan Diğer Öğrenciler (Okul İklimi) ➔ Okul Dışı / Toplum.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Okul Güvenliği ve Şiddeti Önleme Eylem Planı, Zorbalıkta Dalga Etkisi Modeli."
   },
   {
     "id": "egitim_guvenli_okul_q3",
+    "questionNumber": 3,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Akran Zorbalığı Önleme Stratejileri",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "I. Tüm öğrencilerin önünde, zorbaca davranışlarda bulunan öğrencilerin zorbalığa uğrayanlardan özür dilemesini sağlamak\nII. Tüm öğrencilere model olması amacıyla zorbalığın karşıtı olabilecek olumlu davranışlar sergileyen öğrencileri ödüllendirmek\nIII. Zorbaca davranışları olan öğrencilerin aileleriyle görüşerek zorbalığın önlenmesi konusunda iş birliği yapmak\n\nYukarıdakilerden hangileri zorbalık davranışlarının azaltılması kapsamında okul yönetiminin yapacağı uygulamalar arasında yer alabilir?",
+    "questionText": "I. Tüm öğrencilerin önünde, zorbaca davranışlarda bulunan öğrencilerin zorbalığa uğrayanlardan özür dilemesini sağlamak\nII. Tüm öğrencilere model olması amacıyla zorbalığın karşıtı olabilecek olumlu davranışlar sergileyen öğrencileri ödüllendirmek\nIII. Zorbaca davranışları olan öğrencilerin aileleriyle görüşerek zorbalığın önlenmesi konusunda iş birliği yapmak\n\nYukarıdakilerden hangileri zorbalık davranışlarının azaltılması kapsamında okul yönetiminin yapacağı uygulamalar arasında yer alabilir?",
     "options": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve III",
-      "II ve III",
-      "I, II ve III"
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (II ve III).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n- I. Öncül YANLIŞTIR: Zorba öğrenciyi tüm öğrencilerin önünde özür dilemeye zorlamak, öğrenciyi aşağılayarak damgalamaya (etiketleme) ve intikam duygusunun artmasına neden olur; pedagojik ve çağdaş rehberlik ilkelerine aykırıdır.\n- II. Öncül DOĞRUDUR: Olumlu ve prososyal (yardımlaşma, empati) davranışları pekiştirmek akran modellemesi sağlar.\n- III. Öncül DOĞRUDUR: Aile ile iş birliği yapmak ve okul-aile tutarlılığı sağlamak zorbalıkla mücadelenin temel saç ayaklarındandır. Dolayısıyla II ve III okul yönetiminin yapacağı doğru uygulamalardır.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nI. öncülün bulunduğu A, C ve E seçenekleri pedagojik olarak hatalı uygulamayı içerdiği için elenir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nZorbalık yönetiminde kural: 'Asla zorba ve mağduru yüz yüze zoraki barıştırma/özür diletme ya da herkesin önünde ifşa etme yoluna gidilmez!' Gizlilik, bireysel görüşme ve empatik disiplin esastır.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nMEB Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü Akran Zorbalığı Farkındalık Rehberi."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (II ve III)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>- I. Öncül YANLIŞTIR: Zorba öğrenciyi tüm öğrencilerin önünde özür dilemeye zorlamak, öğrenciyi aşağılayarak damgalamaya (etiketleme) ve intikam duygusunun artmasına neden olur; pedagojik ve çağdaş rehberlik ilkelerine aykırıdır.<br>- II. Öncül DOĞRUDUR: Olumlu ve prososyal (yardımlaşma, empati) davranışları pekiştirmek akran modellemesi sağlar.<br>- III. Öncül DOĞRUDUR: Aile ile iş birliği yapmak ve okul-aile tutarlılığı sağlamak zorbalıkla mücadelenin temel saç ayaklarındandır. Dolayısıyla II ve III okul yönetiminin yapacağı doğru uygulamalardır.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>I. öncülün bulunduğu A, C ve E seçenekleri pedagojik olarak hatalı uygulamayı içerdiği için elenir.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Zorbalık yönetiminde kural: 'Asla zorba ve mağduru yüz yüze zoraki barıştırma/özür diletme ya da herkesin önünde ifşa etme yoluna gidilmez!' Gizlilik, bireysel görüşme ve empatik disiplin esastır.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>MEB Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü Akran Zorbalığı Farkındalık Rehberi."
   },
   {
     "id": "egitim_guvenli_okul_q4",
+    "questionNumber": 4,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Zorbalıkla Mücadelede Yönetici Rolü",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Aşağıdakilerden hangisi okulundaki zorbalık olaylarının önüne geçmeyi hedefleyen bir okul müdürünün alacağı önlemlerden biri değildir?",
+    "questionText": "Aşağıdakilerden hangisi okulundaki zorbalık olaylarının önüne geçmeyi hedefleyen bir okul müdürünün alacağı önlemlerden biri değildir?",
     "options": [
-      "Zorba ve mağdur arasında ara buluculuk görevi üstlenmek",
-      "Olumlu davranış sergileyen öğrencileri ödüllendirmek",
-      "Öğretmenleri zorbalık konusunda hizmet içi eğitim almaya yönlendirmek",
-      "Okulda zorbalık yapılabilecek alanları yakından takip etmek",
-      "Öğrencilerin öz saygılarını geliştirecek etkinliklerin düzenlenmesini sağlamak"
+      {
+        "key": "A",
+        "text": "Zorba ve mağdur arasında ara buluculuk görevi üstlenmek"
+      },
+      {
+        "key": "B",
+        "text": "Olumlu davranış sergileyen öğrencileri ödüllendirmek"
+      },
+      {
+        "key": "C",
+        "text": "Öğretmenleri zorbalık konusunda hizmet içi eğitim almaya yönlendirmek"
+      },
+      {
+        "key": "D",
+        "text": "Okulda zorbalık yapılabilecek alanları yakından takip etmek"
+      },
+      {
+        "key": "E",
+        "text": "Öğrencilerin öz saygılarını geliştirecek etkinliklerin düzenlenmesini sağlamak"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Zorba ve mağdur arasında ara buluculuk görevi üstlenmek).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nZorbalık (bullying), akran çatışmasından (conflict) farklıdır. Çatışmalarda güç dengesi eşitken; zorbalıkta açık bir 'GÜÇ ASİMETRİSİ' (güç dengesizliği) vardır. Güç dengesizliğinin olduğu bir durumda akran ara buluculuğu veya müdürün arabuluculuk yapması mağdur üzerinde ikinci bir travma ve baskı oluşturur. Zorbalıkta ara buluculuk uygulanmaz; kesin kurallar, koruma ve rehabilitasyon uygulanır.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nB, C, D ve E seçenekleri okul müdürünün alması gereken önleyici ve koruyucu okul güvenliği tedbirleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nÖSYM EKYS Kuralı: 'Çatışmada akran arabuluculuğu yapılır, ancak ZORBALIKTA ARABULUCULUK YAPILMAZ!'\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nOkulda Şiddetin Önlenmesi ve Azaltılması Strateji Belgesi (MEB)."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Zorba ve mağdur arasında ara buluculuk görevi üstlenmek)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Zorbalık (bullying), akran çatışmasından (conflict) farklıdır. Çatışmalarda güç dengesi eşitken; zorbalıkta açık bir 'GÜÇ ASİMETRİSİ' (güç dengesizliği) vardır. Güç dengesizliğinin olduğu bir durumda akran ara buluculuğu veya müdürün arabuluculuk yapması mağdur üzerinde ikinci bir travma ve baskı oluşturur. Zorbalıkta ara buluculuk uygulanmaz; kesin kurallar, koruma ve rehabilitasyon uygulanır.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>B, C, D ve E seçenekleri okul müdürünün alması gereken önleyici ve koruyucu okul güvenliği tedbirleridir.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>ÖSYM EKYS Kuralı: 'Çatışmada akran arabuluculuğu yapılır, ancak ZORBALIKTA ARABULUCULUK YAPILMAZ!'<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Okulda Şiddetin Önlenmesi ve Azaltılması Strateji Belgesi (MEB)."
   },
   {
     "id": "egitim_guvenli_okul_q5",
+    "questionNumber": 5,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Zorbalık Sonuçları ve Öğretmen Sorumluluğu",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Gelişimsel olarak akranlarından geri kalmış ve öğrenme güçlüğü nedeniyle bireyselleştirilmiş eğitim programlarıyla derslerine devam eden bir öğrenci; bu özellikleri nedeniyle sınıf arkadaşlarının alaylı sözlerine, saldırgan davranışlarına maruz kalarak zorbalığa uğramaktadır.\n\nBuna göre, aşağıdakilerden hangisi öğrencinin yaşadığı zorbalık olayının yarattığı dalga etkileri arasında yer almaz?",
+    "questionText": "Gelişimsel olarak akranlarından geri kalmış ve öğrenme güçlüğü nedeniyle bireyselleştirilmiş eğitim programlarıyla derslerine devam eden bir öğrenci; bu özellikleri nedeniyle sınıf arkadaşlarının alaylı sözlerine, saldırgan davranışlarına maruz kalarak zorbalığa uğramaktadır.\n\nBuna göre, aşağıdakilerden hangisi öğrencinin yaşadığı zorbalık olayının yarattığı dalga etkileri arasında yer almaz?",
     "options": [
-      "Öğrenci okulunda kendini güvende hissetmez.",
-      "Öğretmenler sorumluluk almaktan kaçınırlar.",
-      "Diğer öğrenciler aynı olayın kendi başlarına gelebileceğini düşünür.",
-      "Öğrencinin ailesinde öfke duygusu oluşur.",
-      "Toplumda okulun itibarı zedelenir."
+      {
+        "key": "A",
+        "text": "Öğrenci okulunda kendini güvende hissetmez."
+      },
+      {
+        "key": "B",
+        "text": "Öğretmenler sorumluluk almaktan kaçınırlar."
+      },
+      {
+        "key": "C",
+        "text": "Diğer öğrenciler aynı olayın kendi başlarına gelebileceğini düşünür."
+      },
+      {
+        "key": "D",
+        "text": "Öğrencinin ailesinde öfke duygusu oluşur."
+      },
+      {
+        "key": "E",
+        "text": "Toplumda okulun itibarı zedelenir."
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Öğretmenler sorumluluk almaktan kaçınırlar).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nZorbalığın dalga etkisinde öğretmenlerin sorumluluktan kaçması beklenen veya doğal bir dalga etkisi boyutu değildir. Bilakis profesyonel bir okul ikliminde öğretmenler koruyucu tedbirleri artırır. A (öğrencinin kendisi), C (tanık akranlar), D (aile) ve E (okulun toplumdaki itibarı) zorbalık vakalarının doğrudan yarattığı tipik dalga etkileridir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, C, D ve E şıkları zorbalığın bireysel, akran, ailevi ve kurumsal dalga sonuçlarını temsil eder.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nZorbalık sadece mağduru değil; izleyicileri, aileyi ve okul kültürünü doğrudan sarsan çok katmanlı bir travmadır.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nÖzel Eğitim Hizmetleri Yönetmeliği & Güvenli Okul İklimi Araştırmaları."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Öğretmenler sorumluluk almaktan kaçınırlar.)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Zorbalığın dalga etkisinde öğretmenlerin sorumluluktan kaçması beklenen veya doğal bir dalga etkisi boyutu değildir. Bilakis profesyonel bir okul ikliminde öğretmenler koruyucu tedbirleri artırır. A (öğrencinin kendisi), C (tanık akranlar), D (aile) ve E (okulun toplumdaki itibarı) zorbalık vakalarının doğrudan yarattığı tipik dalga etkileridir.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>A, C, D ve E şıkları zorbalığın bireysel, akran, ailevi ve kurumsal dalga sonuçlarını temsil eder.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Zorbalık sadece mağduru değil; izleyicileri, aileyi ve okul kültürünü doğrudan sarsan çok katmanlı bir travmadır.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Özel Eğitim Hizmetleri Yönetmeliği & Güvenli Okul İklimi Araştırmaları."
   },
   {
     "id": "egitim_guvenli_okul_q6",
+    "questionNumber": 6,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Şiddetle Mücadele ve Yasal Sorumluluk",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Öğrenciler arasında görülen şiddet davranışlarına yönelik gerekli önlemleri almaya çalışan bir okul yöneticisinin aşağıdakilerden hangisini yapması uygun değildir?",
+    "questionText": "Öğrenciler arasında görülen şiddet davranışlarına yönelik gerekli önlemleri almaya çalışan bir okul yöneticisinin aşağıdakilerden hangisini yapması uygun değildir?",
     "options": [
-      "Şiddet içeren davranışların doğası ve sonuçlarıyla ilgili öğrencileri bilgilendirmesi",
-      "Tehlike içeren şiddet davranışlarıyla mücadelede adli birimlerden yardım alması",
-      "Okulda kapalı devre kamera sistemi gibi teknolojik donanımlara başvurması",
-      "Şiddeti önlemeye yönelik akran – grup etkileşimini desteklemesi",
-      "Şiddete eğilimli öğrencilerin başka bir okula nakledilmesini sağlaması"
+      {
+        "key": "A",
+        "text": "Şiddet içeren davranışların doğası ve sonuçlarıyla ilgili öğrencileri bilgilendirmesi"
+      },
+      {
+        "key": "B",
+        "text": "Tehlike içeren şiddet davranışlarıyla mücadelede adli birimlerden yardım alması"
+      },
+      {
+        "key": "C",
+        "text": "Okulda kapalı devre kamera sistemi gibi teknolojik donanımlara başvurması"
+      },
+      {
+        "key": "D",
+        "text": "Şiddeti önlemeye yönelik akran – grup etkileşimini desteklemesi"
+      },
+      {
+        "key": "E",
+        "text": "Şiddete eğilimli öğrencilerin başka bir okula nakledilmesini sağlaması"
+      }
     ],
     "correctAnswer": "E",
-    "explanation": "E seçeneğidir (Şiddete eğilimli öğrencilerin başka bir okula nakledilmesini sağlaması).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nÖğrencileri başka bir okula sürmek veya nakletmek sorunu çözmez; yalnızca sorunu başka bir okula taşır ve öğrencinin dışlanmışlık/öfke düzeyini artırır. Çağdaş eğitim yönetimi ve güvenli okul anlayışında 'öğrenciyi okuldan uzaklaştırmak' değil, sorunun kök nedenine inerek rehberlik, davranış değiştirme ve çok paydaşlı müdahale esastır.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B, C ve D seçenekleri okul yöneticisinin proaktif olarak alması gereken eğitimsel, hukuki, fiziksel ve sosyal tedbirlerdir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nOkul yöneticisi cezalandırıcı/dışlayıcı değil; 'kapsayıcı, önleyici ve onarıcı' adalet anlayışıyla hareket etmelidir.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nMEB Okul Güvenliği Genelgesi & Çocuk Koruma Kanunu Danışmanlık Tedbiri Kararları."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Şiddete eğilimli öğrencilerin başka bir okula nakledilmesini sağlaması)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Öğrencileri başka bir okula sürmek veya nakletmek sorunu çözmez; yalnızca sorunu başka bir okula taşır ve öğrencinin dışlanmışlık/öfke düzeyini artırır. Çağdaş eğitim yönetimi ve güvenli okul anlayışında 'öğrenciyi okuldan uzaklaştırmak' değil, sorunun kök nedenine inerek rehberlik, davranış değiştirme ve çok paydaşlı müdahale esastır.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>A, B, C ve D seçenekleri okul yöneticisinin proaktif olarak alması gereken eğitimsel, hukuki, fiziksel ve sosyal tedbirlerdir.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Okul yöneticisi cezalandırıcı/dışlayıcı değil; 'kapsayıcı, önleyici ve onarıcı' adalet anlayışıyla hareket etmelidir.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>MEB Okul Güvenliği Genelgesi & Çocuk Koruma Kanunu Danışmanlık Tedbiri Kararları."
   },
   {
     "id": "egitim_guvenli_okul_q7",
+    "questionNumber": 7,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Okul Güvenliğinde İhbar ve Şeffaflık",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Bir okul müdürü, okulunda yaşanan şiddet olaylarına yönelik;\nI. öğrencileri bu tür davranışları yönetime bildirmeleri konusunda cesaretlendirmek,\nII. şiddet olaylarını bildiren öğrencilerin isimlerini duyurarak diğer öğrencileri teşvik etmek,\nIII. velilere okulda şiddet olaylarının yaşanmadığını belirterek okulun saygınlığını korumak\nuygulamalarından hangilerini yapması doğru bir yaklaşımdır?",
+    "questionText": "Bir okul müdürü, okulunda yaşanan şiddet olaylarına yönelik;\nI. öğrencileri bu tür davranışları yönetime bildirmeleri konusunda cesaretlendirmek,\nII. şiddet olaylarını bildiren öğrencilerin isimlerini duyurarak diğer öğrencileri teşvik etmek,\nIII. velilere okulda şiddet olaylarının yaşanmadığını belirterek okulun saygınlığını korumak\nuygulamalarından hangilerini yapması doğru bir yaklaşımdır?",
     "options": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve III",
-      "II ve III",
-      "I, II ve III"
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "C",
+        "text": "I ve III"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Yalnız I).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n- I. Öncül DOĞRUDUR: 'İhbar/bildirim kültürü' (whistleblowing) oluşturmak ve öğrencileri şiddeti bildirmeye cesaretlendirmek kritik bir erken uyarı mekanizmasıdır.\n- II. Öncül YANLIŞTIR: Bildiren öğrencilerin isimlerini açıklamak onların can güvenliğini tehlikeye atar ve akran misillemesine yol açar; gizlilik esastır.\n- III. Öncül YANLIŞTIR: Sorunları velilerden gizlemek veya 'bizde şiddet yok' demek sorunu inkâr etmektir; şeffaf ve gerçekçi kriz iletişimi gerekir. Dolayısıyla yalnızca I doğrudur.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nII ve III öncülleri gizlilik ve şeffaflık ilkelerine aykırıdır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nGüvenli okulda ihbar mekanizması: 'Anonim/Gizli Kutu, Güvenilir Yetişkin ve Mutlak İsim Koruma' esasına dayanır.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nOkul Güvenliği ve Kriz Yönetimi El Kitabı (MEB)."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Yalnız I)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>- I. Öncül DOĞRUDUR: 'İhbar/bildirim kültürü' (whistleblowing) oluşturmak ve öğrencileri şiddeti bildirmeye cesaretlendirmek kritik bir erken uyarı mekanizmasıdır.<br>- II. Öncül YANLIŞTIR: Bildiren öğrencilerin isimlerini açıklamak onların can güvenliğini tehlikeye atar ve akran misillemesine yol açar; gizlilik esastır.<br>- III. Öncül YANLIŞTIR: Sorunları velilerden gizlemek veya 'bizde şiddet yok' demek sorunu inkâr etmektir; şeffaf ve gerçekçi kriz iletişimi gerekir. Dolayısıyla yalnızca I doğrudur.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>II ve III öncülleri gizlilik ve şeffaflık ilkelerine aykırıdır.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Güvenli okulda ihbar mekanizması: 'Anonim/Gizli Kutu, Güvenilir Yetişkin ve Mutlak İsim Koruma' esasına dayanır.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Okul Güvenliği ve Kriz Yönetimi El Kitabı (MEB)."
   },
   {
     "id": "egitim_guvenli_okul_q8",
+    "questionNumber": 8,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Sağlıksız Okul Örgütü Göstergeleri",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Farklı okullarda görev yapan iki öğretmen arasında okullarının yönetimiyle ilgili şu konuşma geçmektedir:\nHakan Öğretmen: Çalıştığım okulun sağlıklı bir örgüt olmasına çok önem verilmekte ve buna yönelik uygulamalar yapılmaktadır.\nBanu Öğretmen: Benim çalıştığım okul tam aksine sağlıksız bir örgüt yapısına sahiptir.\n\nBuna göre, aşağıdakilerden hangisi Banu Öğretmen'in okulunda görülen durumlardan biri olamaz?",
+    "questionText": "Farklı okullarda görev yapan iki öğretmen arasında okullarının yönetimiyle ilgili şu konuşma geçmektedir:\nHakan Öğretmen: Çalıştığım okulun sağlıklı bir örgüt olmasına çok önem verilmekte ve buna yönelik uygulamalar yapılmaktadır.\nBanu Öğretmen: Benim çalıştığım okul tam aksine sağlıksız bir örgüt yapısına sahiptir.\n\nBuna göre, aşağıdakilerden hangisi Banu Öğretmen'in okulunda görülen durumlardan biri olamaz?",
     "options": [
-      "Öğretmenler arası gruplaşma ve çatışmalar yoğundur.",
-      "Okul yöneticileri öğretmenlerin fikirlerine değer vermez ve otokratiktir.",
-      "Okulun amaçları açık, net ve tüm çalışanlarca benimsenmiştir.",
-      "Problemler, kaynağından çok belirtilerine bakılarak geçici çözülmeye çalışılır.",
-      "Okuldan tayin isteyip giden çok olduğu için yeni öğretmen sayısı fazladır."
+      {
+        "key": "A",
+        "text": "Öğretmenler arası gruplaşma ve çatışmalar yoğundur."
+      },
+      {
+        "key": "B",
+        "text": "Okul yöneticileri öğretmenlerin fikirlerine değer vermez ve otokratiktir."
+      },
+      {
+        "key": "C",
+        "text": "Okulun amaçları açık, net ve tüm çalışanlarca benimsenmiştir."
+      },
+      {
+        "key": "D",
+        "text": "Problemler, kaynağından çok belirtilerine bakılarak geçici çözülmeye çalışılır."
+      },
+      {
+        "key": "E",
+        "text": "Okuldan tayin isteyip giden çok olduğu için yeni öğretmen sayısı fazladır."
+      }
     ],
     "correctAnswer": "C",
-    "explanation": "C seçeneğidir (Okulun amaçları açık, net ve tüm çalışanlarca benimsenmiştir).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nOkul amaçlarının açık, net ve çalışanlar tarafından benimsenmiş olması sağlıklı bir okul örgütünün 'Amaç Odaklılık' (Goal Focus) boyutunun göstergesidir. Sağlıksız bir örgütte ise amaçlar belirsizdir, çalışanlar arasında yabancılaşma ve çatışma hakimdir. Bu nedenle C seçeneği Banu Öğretmen'in (sağlıksız okul) durumu olamaz.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B, D ve E seçenekleri sağlıksız örgüt ikliminin temel semptomlarıdır (tükenmişlik, çatışma, otokrasi, yüksek sirkülasyon).\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nSağlıklı Okul: Açık amaçlar, yüksek moral, akademik vurgu, katılımcı liderlik, etkili iletişim.\nSağlıksız Okul: Kapalı iklim, amaç karmaşası, pasif direnç, dedikodu, geçici pansuman çözümler.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nHoy & Miskel - Eğitim Yönetimi, Örgütsel İklim ve Sağlık Modelleri."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Okulun amaçları açık, net ve tüm çalışanlarca benimsenmiştir.)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Okul amaçlarının açık, net ve çalışanlar tarafından benimsenmiş olması sağlıklı bir okul örgütünün 'Amaç Odaklılık' (Goal Focus) boyutunun göstergesidir. Sağlıksız bir örgütte ise amaçlar belirsizdir, çalışanlar arasında yabancılaşma ve çatışma hakimdir. Bu nedenle C seçeneği Banu Öğretmen'in (sağlıksız okul) durumu olamaz.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>A, B, D ve E seçenekleri sağlıksız örgüt ikliminin temel semptomlarıdır (tükenmişlik, çatışma, otokrasi, yüksek sirkülasyon).<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Sağlıklı Okul: Açık amaçlar, yüksek moral, akademik vurgu, katılımcı liderlik, etkili iletişim.<br>Sağlıksız Okul: Kapalı iklim, amaç karmaşası, pasif direnç, dedikodu, geçici pansuman çözümler.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Hoy & Miskel - Eğitim Yönetimi, Örgütsel İklim ve Sağlık Modelleri."
   },
   {
     "id": "egitim_guvenli_okul_q9",
+    "questionNumber": 9,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Fiziksel ve Çevresel Okul Güvenliği",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "I. Güvenlik kameralarının kullanılması\nII. Sınıflardaki öğrenci sayısının azaltılması\nIII. Okul bahçe duvarlarının ve giriş kapılarının kontrol altına alınması\n\nYukarıdakilerden hangileri okul güvenliğini artırmaya yönelik 'fiziksel çevre düzenlemeleri' arasında yer alır?",
+    "questionText": "I. Güvenlik kameralarının kullanılması\nII. Sınıflardaki öğrenci sayısının azaltılması\nIII. Okul bahçe duvarlarının ve giriş kapılarının kontrol altına alınması\n\nYukarıdakilerden hangileri okul güvenliğini artırmaya yönelik 'fiziksel çevre düzenlemeleri' arasında yer alır?",
     "options": [
-      "I ve III",
-      "Yalnız I",
-      "Yalnız II",
-      "II ve III",
-      "I, II ve III"
+      {
+        "key": "A",
+        "text": "I ve III"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "C",
+        "text": "Yalnız II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (I ve III).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n- I (Güvenlik kameraları) ve III (Bahçe duvarları, nizamiye kapıları, turnikeler ve aydınlatma), CPTED (Suç Önleme Amaçlı Çevresel Tasarım) kapsamındaki doğrudan 'fiziksel çevre' önlemleridir.\n- II (Sınıf mevcudunun azaltılması) ise eğitsel/pedagojik ve idari bir düzenleme olup doğrudan fiziksel mekan güvenliği unsuru değildir. Dolayısıyla I ve III fiziksel çevre düzenlemeleridir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nII. öncül fiziksel tasarım değil, pedagojik/idari planlamadır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nOkul Güvenliğinin 3 Boyutu: 1) Fiziksel Çevre Güvenliği, 2) Sosyo-Duygusal İklim Güvenliği, 3) Yönetsel/Acil Durum Planlama Güvenliği.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nMEB Okul Binaları ve Eklentileri Güvenlik Standartları Yönergesi."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (I ve III)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>- I (Güvenlik kameraları) ve III (Bahçe duvarları, nizamiye kapıları, turnikeler ve aydınlatma), CPTED (Suç Önleme Amaçlı Çevresel Tasarım) kapsamındaki doğrudan 'fiziksel çevre' önlemleridir.<br>- II (Sınıf mevcudunun azaltılması) ise eğitsel/pedagojik ve idari bir düzenleme olup doğrudan fiziksel mekan güvenliği unsuru değildir. Dolayısıyla I ve III fiziksel çevre düzenlemeleridir.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>II. öncül fiziksel tasarım değil, pedagojik/idari planlamadır.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Okul Güvenliğinin 3 Boyutu: 1) Fiziksel Çevre Güvenliği, 2) Sosyo-Duygusal İklim Güvenliği, 3) Yönetsel/Acil Durum Planlama Güvenliği.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>MEB Okul Binaları ve Eklentileri Güvenlik Standartları Yönergesi."
   },
   {
     "id": "egitim_guvenli_okul_q10",
+    "questionNumber": 10,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Krizde Doğal Karar Verme Modeli",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Kriz durumları için doğal karar verme modelini (Naturalistic Decision Making) kullanan bir okul yöneticisinin aşağıdakilerden hangisini yapması beklenmez?",
+    "questionText": "Kriz durumları için doğal karar verme modelini (Naturalistic Decision Making) kullanan bir okul yöneticisinin aşağıdakilerden hangisini yapması beklenmez?",
     "options": [
-      "Her bir alternatifin her adımını ayrıntılı olarak incelemesi",
-      "Deneyimlerine ve sezgisel örüntü eşleştirmelerine başvurması",
-      "İçinde bulunulan bağlama yönelik bilgi modellemesi yapması",
-      "Durumsal değerlendirmeyi ön plana çıkarması",
-      "Karar vermede süreç odaklı yaklaşımı kullanması"
+      {
+        "key": "A",
+        "text": "Her bir alternatifin her adımını ayrıntılı olarak incelemesi"
+      },
+      {
+        "key": "B",
+        "text": "Deneyimlerine ve sezgisel örüntü eşleştirmelerine başvurması"
+      },
+      {
+        "key": "C",
+        "text": "İçinde bulunulan bağlama yönelik bilgi modellemesi yapması"
+      },
+      {
+        "key": "D",
+        "text": "Durumsal değerlendirmeyi ön plana çıkarması"
+      },
+      {
+        "key": "E",
+        "text": "Karar vermede süreç odaklı yaklaşımı kullanması"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Her bir alternatifin her adımını ayrıntılı olarak incelemesi).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nKlasik rasyonel karar verme modelinde tüm alternatifler tek tek listelenir ve ayrıntılı analiz edilir. Ancak acil kriz anlarında zaman kısıtı ve yüksek belirsizlik nedeniyle bu imkansızdır. 'Doğal Karar Verme Modeli'nde (Klein) karar verici uzmanlık ve deneyimlerine dayanarak ilk akla gelen uygulanabilir seçeneği simüle eder ve uygular; alternatifleri uzun uzadıya kıyaslamaz.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nB, C, D ve E seçenekleri doğal karar verme modelinin temel bileşenleridir (bağlam duyarlılığı, durumsal farkındalık, sezgisel şema eşleştirme).\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nDoğal Karar Verme = Kriz/Acil durum, Zaman darlığı, Deneyim/Örüntü tanıma, İlk uygulanabilir çözümü seçme.\nRasyonel Karar Verme = Rutin durum, Geniş zaman, Tüm alternatifleri puanlayıp kıyaslama.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nGary Klein - Sources of Power: How People Make Decisions (Doğal Karar Verme Kuramı)."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Her bir alternatifin her adımını ayrıntılı olarak incelemesi)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Klasik rasyonel karar verme modelinde tüm alternatifler tek tek listelenir ve ayrıntılı analiz edilir. Ancak acil kriz anlarında zaman kısıtı ve yüksek belirsizlik nedeniyle bu imkansızdır. 'Doğal Karar Verme Modeli'nde (Klein) karar verici uzmanlık ve deneyimlerine dayanarak ilk akla gelen uygulanabilir seçeneği simüle eder ve uygular; alternatifleri uzun uzadıya kıyaslamaz.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>B, C, D ve E seçenekleri doğal karar verme modelinin temel bileşenleridir (bağlam duyarlılığı, durumsal farkındalık, sezgisel şema eşleştirme).<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Doğal Karar Verme = Kriz/Acil durum, Zaman darlığı, Deneyim/Örüntü tanıma, İlk uygulanabilir çözümü seçme.<br>Rasyonel Karar Verme = Rutin durum, Geniş zaman, Tüm alternatifleri puanlayıp kıyaslama.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Gary Klein - Sources of Power: How People Make Decisions (Doğal Karar Verme Kuramı)."
   },
   {
     "id": "egitim_guvenli_okul_q11",
+    "questionNumber": 11,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Kriz Yönetiminin Doğası ve Fırsatlar",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Çatışma ve kriz yönetimi konusunda öğretmenleri bilgilendirmek amacıyla okula davet edilen bir uzmanın yapacağı toplantıda krizin;\nI. acil müdahale gerektirdiği,\nII. okulun imajını tehlikeye düşürebildiği,\nIII. okul için fırsatlar ortaya çıkardığı\nözelliklerinden hangilerine yer vermelidir?",
+    "questionText": "Çatışma ve kriz yönetimi konusunda öğretmenleri bilgilendirmek amacıyla okula davet edilen bir uzmanın yapacağı toplantıda krizin;\nI. acil müdahale gerektirdiği,\nII. okulun imajını tehlikeye düşürebildiği,\nIII. okul için fırsatlar ortaya çıkardığı\nözelliklerinden hangilerine yer vermelidir?",
     "options": [
-      "Yalnız I",
-      "Yalnız III",
-      "I ve II",
-      "II ve III",
-      "I, II ve III"
+      {
+        "key": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "key": "B",
+        "text": "Yalnız III"
+      },
+      {
+        "key": "C",
+        "text": "I ve II"
+      },
+      {
+        "key": "D",
+        "text": "II ve III"
+      },
+      {
+        "key": "E",
+        "text": "I, II ve III"
+      }
     ],
     "correctAnswer": "E",
-    "explanation": "E seçeneğidir (I, II ve III).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nKriz literatüründe kriz çift yönlü bir olgudur:\n- I. Öncül: Kriz ivedi karar ve müdahale gerektirir (zaman baskısı).\n- II. Öncül: Kriz iyi yönetilmezse örgütün güvenilirliğini ve imajını yok edebilir (tehdit boyutu).\n- III. Öncül: Çincedeki 'Wei-Ji' (Tehlike ve Fırsat) kavramında olduğu gibi krizler aynı zamanda aksayan yapıların fark edilmesini, yenilenmeyi ve kurumsal öğrenmeyi sağlayan büyük bir 'fırsat' barındırır. Her üç özellik de krizin doğasında vardır.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nÖncüllerin tamamı kriz kuramının temel ilkelerini içerir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nKriz = Tehdit + Zaman Baskısı + Sürpriz/Belirsizlik + DEĞİŞİM VE GELİŞİM İÇİN FIRSAT!\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nEğitim Yönetiminde Kriz Yönetimi Modelleri."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (I, II ve III)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Kriz literatüründe kriz çift yönlü bir olgudur:<br>- I. Öncül: Kriz ivedi karar ve müdahale gerektirir (zaman baskısı).<br>- II. Öncül: Kriz iyi yönetilmezse örgütün güvenilirliğini ve imajını yok edebilir (tehdit boyutu).<br>- III. Öncül: Çincedeki 'Wei-Ji' (Tehlike ve Fırsat) kavramında olduğu gibi krizler aynı zamanda aksayan yapıların fark edilmesini, yenilenmeyi ve kurumsal öğrenmeyi sağlayan büyük bir 'fırsat' barındırır. Her üç özellik de krizin doğasında vardır.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>Öncüllerin tamamı kriz kuramının temel ilkelerini içerir.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Kriz = Tehdit + Zaman Baskısı + Sürpriz/Belirsizlik + DEĞİŞİM VE GELİŞİM İÇİN FIRSAT!<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Eğitim Yönetiminde Kriz Yönetimi Modelleri."
   },
   {
     "id": "egitim_guvenli_okul_q12",
+    "questionNumber": 12,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Kriz Yönetim Safhaları",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Bir okul müdürü, bölgesinde yaşanan doğal afet üzerine öğrencilere tıbbi ve psikolojik destek verilmesini sağlamak amacıyla yardım edenlerle yardım alanları bir araya getirmiştir. Daha sonra öğrencilere uygulanan psikolojik destek süreci devam ettirilmiş ayrıca ihtiyacı olan öğrencilere de psikiyatrik destek sunulmuştur.\n\nOkul müdürünün yapmış olduğu bu uygulamalar, kriz yönetiminde yer alan aşağıdaki basamaklardan hangisine karşılık gelmektedir?",
+    "questionText": "Bir okul müdürü, bölgesinde yaşanan doğal afet üzerine öğrencilere tıbbi ve psikolojik destek verilmesini sağlamak amacıyla yardım edenlerle yardım alanları bir araya getirmiştir. Daha sonra öğrencilere uygulanan psikolojik destek süreci devam ettirilmiş ayrıca ihtiyacı olan öğrencilere de psikiyatrik destek sunulmuştur.\n\nOkul müdürünün yapmış olduğu bu uygulamalar, kriz yönetiminde yer alan aşağıdaki basamaklardan hangisine karşılık gelmektedir?",
     "options": [
-      "Etki öncesi safha - Etki safhası",
-      "Etki safhası - Etki sonrası safha",
-      "Tepki safhası - Etki sonrası safha",
-      "Etki sonrası safha - İyileşme ve yeniden yapılanma safhası",
-      "Tepki safhası - İyileşme ve yeniden yapılanma safhası"
+      {
+        "key": "A",
+        "text": "Etki öncesi safha - Etki safhası"
+      },
+      {
+        "key": "B",
+        "text": "Etki safhası - Etki sonrası safha"
+      },
+      {
+        "key": "C",
+        "text": "Tepki safhası - Etki sonrası safha"
+      },
+      {
+        "key": "D",
+        "text": "Etki sonrası safha - İyileşme ve yeniden yapılanma safhası"
+      },
+      {
+        "key": "E",
+        "text": "Tepki safhası - İyileşme ve yeniden yapılanma safhası"
+      }
     ],
     "correctAnswer": "C",
-    "explanation": "C seçeneğidir (Tepki safhası - Etki sonrası safha).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nKriz anında ilk olarak yardım edenlerle alanların bir araya getirilmesi ve acil destek sağlanması 'Tepki / Müdahale (Response)' safhasıdır. Olayın sıcaklığı geçtikten sonra psikososyal ve psikiyatrik desteğin sürdürülmesi ise 'Etki Sonrası / İyileşme' safhasına aittir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nEtki öncesi hazırlık ve tatbikatları içerir; parçada afet sonrasındaki anlık müdahale (tepki) ve takip eden rehabilitasyon (etki sonrası) anlatılmaktadır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nKriz Döngüsü: 1. Önleme/Azaltma (Mitigation), 2. Hazırlık (Preparedness), 3. Müdahale/Tepki (Response), 4. İyileşme/Toparlanma (Recovery).\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nMEB Afet ve Acil Durum Yönetimi Başkanlığı Yönergeleri."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Tepki safhası - Etki sonrası safha)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Kriz anında ilk olarak yardım edenlerle alanların bir araya getirilmesi ve acil destek sağlanması 'Tepki / Müdahale (Response)' safhasıdır. Olayın sıcaklığı geçtikten sonra psikososyal ve psikiyatrik desteğin sürdürülmesi ise 'Etki Sonrası / İyileşme' safhasına aittir.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>Etki öncesi hazırlık ve tatbikatları içerir; parçada afet sonrasındaki anlık müdahale (tepki) ve takip eden rehabilitasyon (etki sonrası) anlatılmaktadır.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Kriz Döngüsü: 1. Önleme/Azaltma (Mitigation), 2. Hazırlık (Preparedness), 3. Müdahale/Tepki (Response), 4. İyileşme/Toparlanma (Recovery).<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>MEB Afet ve Acil Durum Yönetimi Başkanlığı Yönergeleri."
   },
   {
     "id": "egitim_guvenli_okul_q13",
+    "questionNumber": 13,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Okul Güvenlik Planı Bileşenleri",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Bir okulda, okul güvenlik planları çerçevesinde ilgili sivil toplum kuruluşları okula davet edilmiş ve acil bir durumda yapılması gerekenler hakkında bir plan oluşturulmuştur. Daha sonraki aşamada il sağlık müdürlüğüyle iletişime geçilerek madde kullanımı hakkında öğrencilerin bilgilenmesi sağlanmıştır. En son aşamada ise acil durumlarla ilgili öğrenciler için tiyatro çalışmaları ve drama etkinlikleri hazırlanarak konuyla ilgili farkındalıklarının arttırılması sağlanmıştır.\n\nBuna göre aşağıdaki okul güvenlik planı bileşenlerinin hangisi üzerinde durulmamıştır?",
+    "questionText": "Bir okulda, okul güvenlik planları çerçevesinde ilgili sivil toplum kuruluşları okula davet edilmiş ve acil bir durumda yapılması gerekenler hakkında bir plan oluşturulmuştur. Daha sonraki aşamada il sağlık müdürlüğüyle iletişime geçilerek madde kullanımı hakkında öğrencilerin bilgilenmesi sağlanmıştır. En son aşamada ise acil durumlarla ilgili öğrenciler için tiyatro çalışmaları ve drama etkinlikleri hazırlanarak konuyla ilgili farkındalıklarının arttırılması sağlanmıştır.\n\nBuna göre aşağıdaki okul güvenlik planı bileşenlerinin hangisi üzerinde durulmamıştır?",
     "options": [
-      "Antişiddet programı",
-      "Öğrenci eğitimi ve desteği",
-      "Toplumsal kurumlarla iş birliği",
-      "Güvenli fiziksel çevre",
-      "Önleyici öğrenci – disiplin politika ve prosedürleri"
+      {
+        "key": "A",
+        "text": "Antişiddet programı"
+      },
+      {
+        "key": "B",
+        "text": "Öğrenci eğitimi ve desteği"
+      },
+      {
+        "key": "C",
+        "text": "Toplumsal kurumlarla iş birliği"
+      },
+      {
+        "key": "D",
+        "text": "Güvenli fiziksel çevre"
+      },
+      {
+        "key": "E",
+        "text": "Önleyici öğrenci – disiplin politika ve prosedürleri"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (Güvenli fiziksel çevre).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nParçada STK'lar ve Sağlık Müdürlüğü ile iletişim (Toplumsal kurumlarla iş birliği), madde kullanımı ve drama/tiyatro çalışmaları (Öğrenci eğitimi ve desteği, antişiddet programları) yer alırken; okul binası, bahçe, kamera, aydınlatma, çitler veya mimari düzenlemeler gibi 'Güvenli fiziksel çevre' unsurlarından hiç bahsedilmemiştir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B, C ve E bileşenleri sosyal, eğitsel ve kurumsal adımlarla doğrudan metinde mevcuttur.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nGüvenli Okul Bileşenleri: Sosyal/Eğitsel önlemler (eğitim, drama, seminer) ile Mekânsal önlemler (kamera, bahçe duvarı, aydınlatma) ayrımına dikkat edilmelidir.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nMEB Güvenli Okul Kılavuzu & Okul Güvenlik Planı Standartları."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Güvenli fiziksel çevre)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Parçada STK'lar ve Sağlık Müdürlüğü ile iletişim (Toplumsal kurumlarla iş birliği), madde kullanımı ve drama/tiyatro çalışmaları (Öğrenci eğitimi ve desteği, antişiddet programları) yer alırken; okul binası, bahçe, kamera, aydınlatma, çitler veya mimari düzenlemeler gibi 'Güvenli fiziksel çevre' unsurlarından hiç bahsedilmemiştir.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>A, B, C ve E bileşenleri sosyal, eğitsel ve kurumsal adımlarla doğrudan metinde mevcuttur.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Güvenli Okul Bileşenleri: Sosyal/Eğitsel önlemler (eğitim, drama, seminer) ile Mekânsal önlemler (kamera, bahçe duvarı, aydınlatma) ayrımına dikkat edilmelidir.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>MEB Güvenli Okul Kılavuzu & Okul Güvenlik Planı Standartları."
   },
   {
     "id": "egitim_guvenli_okul_q14",
+    "questionNumber": 14,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Kriz Anında Acil Sağlık Müdahalesi",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Okulda düzenlenen kermes etkinliğinde öğrenciler çeşitli yiyecekler alıp yemişlerdir. Öğretmen ders esnasında bu yiyeceklerden alan bazı öğrencilerin mide bulantısı, baş ağrısı ve kusma gibi şikâyetler yaşadığını fark etmiştir. Bunun üzerine öğretmen yiyeceklerle ilgili bir zehirlenme durumunun olabileceğini düşünmüş ve hemen önlem almaya karar vermiştir.\n\nBuna göre aşağıdakilerden hangisi öğretmenin öncelikli olarak yapması gerekenlerden biri değildir?",
+    "questionText": "Okulda düzenlenen kermes etkinliğinde öğrenciler çeşitli yiyecekler alıp yemişlerdir. Öğretmen ders esnasında bu yiyeceklerden alan bazı öğrencilerin mide bulantısı, baş ağrısı ve kusma gibi şikâyetler yaşadığını fark etmiştir. Bunun üzerine öğretmen yiyeceklerle ilgili bir zehirlenme durumunun olabileceğini düşünmüş ve hemen önlem almaya karar vermiştir.\n\nBuna göre aşağıdakilerden hangisi öğretmenin öncelikli olarak yapması gerekenlerden biri değildir?",
     "options": [
-      "Müdahale için hızlı bir şekilde 112'yi aramak",
-      "Durumla ilgili okul müdürüne haber vermek",
-      "Gerekli ise öğrenci velilerine haber vermek",
-      "Kermesten alınan yiyecekleri imha etmek",
-      "Öğrencilerin hastaneye ulaşımını sağlamak"
+      {
+        "key": "A",
+        "text": "Müdahale için hızlı bir şekilde 112'yi aramak"
+      },
+      {
+        "key": "B",
+        "text": "Durumla ilgili okul müdürüne haber vermek"
+      },
+      {
+        "key": "C",
+        "text": "Gerekli ise öğrenci velilerine haber vermek"
+      },
+      {
+        "key": "D",
+        "text": "Kermesten alınan yiyecekleri imha etmek"
+      },
+      {
+        "key": "E",
+        "text": "Öğrencilerin hastaneye ulaşımını sağlamak"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (Kermesten alınan yiyecekleri imha etmek).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nGıda zehirlenmesi şüphesi olan kriz durumlarında şüpheli gıdalar ASLA imha edilmez! Bilakis İl/İlçe Tarım ve Orman Müdürlüğü ile Sağlık Bakanlığı laboratuvarlarının numune alıp zehirlenmenin kaynağını (toksin, bakteri vb.) tespit edebilmesi için numuneler muhafaza altına alınır ve yediemine teslim edilir. İmha etmek delilleri yok etmek anlamına gelir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B, C ve E şıkları hayati tehlikeyi bertaraf etmek için yapılması zorunlu acil kriz protokolü adımlarıdır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nZehirlenme Vakalarında Kural: 'Önce 112 ve idare, gıdalar asla çöpe atılmaz/imha edilmez, inceleme için saklanır!'\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nOkul Kantin ve Beslenme Alanları Hijyen Yönergesi, Gıda Güvenliği Mevzuatı."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Kermesten alınan yiyecekleri imha etmek)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Gıda zehirlenmesi şüphesi olan kriz durumlarında şüpheli gıdalar ASLA imha edilmez! Bilakis İl/İlçe Tarım ve Orman Müdürlüğü ile Sağlık Bakanlığı laboratuvarlarının numune alıp zehirlenmenin kaynağını (toksin, bakteri vb.) tespit edebilmesi için numuneler muhafaza altına alınır ve yediemine teslim edilir. İmha etmek delilleri yok etmek anlamına gelir.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>A, B, C ve E şıkları hayati tehlikeyi bertaraf etmek için yapılması zorunlu acil kriz protokolü adımlarıdır.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Zehirlenme Vakalarında Kural: 'Önce 112 ve idare, gıdalar asla çöpe atılmaz/imha edilmez, inceleme için saklanır!'<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>Okul Kantin ve Beslenme Alanları Hijyen Yönergesi, Gıda Güvenliği Mevzuatı."
   },
   {
     "id": "egitim_guvenli_okul_q15",
+    "questionNumber": 15,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Tahliye ve Yangın Kriz Yönetimi",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Bir ilkokulda çıkan yangında öğrenciler hızlı bir şekilde tahliye edilmiş ve okulun bahçesinde bulunan güvenli alanlara alınmıştır. Burada öğretmenlerinin gözetiminde bekletilmeye başlamışlardır.\n\nBuna göre, aşağıdakilerden hangisi okul müdürünün göstermesi gereken davranışlardan biri değildir?",
+    "questionText": "Bir ilkokulda çıkan yangında öğrenciler hızlı bir şekilde tahliye edilmiş ve okulun bahçesinde bulunan güvenli alanlara alınmıştır. Burada öğretmenlerinin gözetiminde bekletilmeye başlamışlardır.\n\nBuna göre, aşağıdakilerden hangisi okul müdürünün göstermesi gereken davranışlardan biri değildir?",
     "options": [
-      "Öğrencilere yaşanan olayı uygun bir şekilde anlatması",
-      "Her şeyin kontrol altına alındığını öğrenci ve velilere söylemesi",
-      "Okul velileriyle yaşanan durumla ilgili olarak iletişime geçmesi",
-      "Öğretmenlerin öğrencilerin yanında ve güvende olduklarından emin olması",
-      "Öğrencilerin korkmaması için günlük rutinlerin uygulanmasını sağlaması"
+      {
+        "key": "A",
+        "text": "Öğrencilere yaşanan olayı uygun bir şekilde anlatması"
+      },
+      {
+        "key": "B",
+        "text": "Her şeyin kontrol altına alındığını öğrenci ve velilere söylemesi"
+      },
+      {
+        "key": "C",
+        "text": "Okul velileriyle yaşanan durumla ilgili olarak iletişime geçmesi"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmenlerin öğrencilerin yanında ve güvende olduklarından emin olması"
+      },
+      {
+        "key": "E",
+        "text": "Öğrencilerin korkmaması için günlük rutinlerin uygulanmasını sağlaması"
+      }
     ],
     "correctAnswer": "E",
-    "explanation": "E seçeneğidir (Öğrencilerin korkmaması için günlük rutinlerin uygulanmasını sağlaması).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nOkulda yangın çıkmış, bina tahliye edilmiş ve öğrenciler bahçede bekletilmektedir. Böyle bir akut kriz ve tehlike ortamında 'günlük rutinleri (örneğin ders işlemeye devam etmek, zil çalmak)' uygulamaya çalışmak gerçek dışıdır, tehlikelidir ve kriz yönetimi ilkeleriyle bağdaşmaz. Öncelik can güvenliği, sakinleştirme ve velilere güvenli teslimdir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B, C ve D seçenekleri okul yöneticisinin kriz anındaki sakinleştirici, koordinatör ve bilgilendirici liderlik sorumluluklarıdır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nAkut kriz anında günlük rutin durdurulur; güvenlik protokolleri devreye girer.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nMEB Yangın Önleme ve Söndürme Yönergesi & MEB Kriz Masası Rehberi."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Öğrencilerin korkmaması için günlük rutinlerin uygulanmasını sağlaması)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Okulda yangın çıkmış, bina tahliye edilmiş ve öğrenciler bahçede bekletilmektedir. Böyle bir akut kriz ve tehlike ortamında 'günlük rutinleri (örneğin ders işlemeye devam etmek, zil çalmak)' uygulamaya çalışmak gerçek dışıdır, tehlikelidir ve kriz yönetimi ilkeleriyle bağdaşmaz. Öncelik can güvenliği, sakinleştirme ve velilere güvenli teslimdir.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>A, B, C ve D seçenekleri okul yöneticisinin kriz anındaki sakinleştirici, koordinatör ve bilgilendirici liderlik sorumluluklarıdır.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Akut kriz anında günlük rutin durdurulur; güvenlik protokolleri devreye girer.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>MEB Yangın Önleme ve Söndürme Yönergesi & MEB Kriz Masası Rehberi."
   },
   {
     "id": "egitim_guvenli_okul_q16",
+    "questionNumber": 16,
     "testId": "egitim_guvenli_okul_kriz_1",
+    "testTitle": "Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)",
     "topicId": "egitim_yonetimi",
+    "topicName": "Eğitim Yönetimi - Güvenli Okul ve Kriz Yönetimi",
     "subTopic": "Doğal Afet ve Kriz Yönetimi",
+    "category": "Eğitim Bilimleri & Eğitim Yönetimi",
+    "hasImage": false,
+    "image": null,
     "question": "Gece boyunca yağan yağmurdan dolayı okulun zemin katı, sular altında kalmıştır. Okul görevlisinin haber vermesi üzerine sabaha karşı okula gelen okul müdürü eğitim öğretim faaliyetlerinin yürütülmesinin mümkün olmadığını görmüş ve itfaiyeyi aramıştır. İlçe milli eğitim müdürlüğüne bilgi verdikten sonra velilere ulaşarak su baskınından dolayı eğitim öğretime ara verildiğini bildirmiştir.\n\nBu durumda, okul müdürü aşağıdakilerden hangisine göre hareket etmiştir?",
+    "questionText": "Gece boyunca yağan yağmurdan dolayı okulun zemin katı, sular altında kalmıştır. Okul görevlisinin haber vermesi üzerine sabaha karşı okula gelen okul müdürü eğitim öğretim faaliyetlerinin yürütülmesinin mümkün olmadığını görmüş ve itfaiyeyi aramıştır. İlçe milli eğitim müdürlüğüne bilgi verdikten sonra velilere ulaşarak su baskınından dolayı eğitim öğretime ara verildiğini bildirmiştir.\n\nBu durumda, okul müdürü aşağıdakilerden hangisine göre hareket etmiştir?",
     "options": [
-      "Kriz yönetimi",
-      "Doğal kaynakların yönetimi",
-      "Çatışma yönetimi",
-      "İnsan kaynakları yönetimi",
-      "Stres yönetimi"
+      {
+        "key": "A",
+        "text": "Kriz yönetimi"
+      },
+      {
+        "key": "B",
+        "text": "Doğal kaynakların yönetimi"
+      },
+      {
+        "key": "C",
+        "text": "Çatışma yönetimi"
+      },
+      {
+        "key": "D",
+        "text": "İnsan kaynakları yönetimi"
+      },
+      {
+        "key": "E",
+        "text": "Stres yönetimi"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Kriz yönetimi).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nOkulun eğitim-öğretim yapmasını aniden engelleyen, acil müdahale (itfaiye arama, üst makamları bilgilendirme, tatil kararı ve veli duyurusu) gerektiren beklenmedik su baskını gibi olağanüstü durumlar tipik bir 'Kriz Yönetimi' sürecidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nB, C, D ve E seçenekleri (çatışma, insan kaynağı vb.) bu durumsal felaket tablosunu karşılamaz.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nBeklenmedik dış olay + Normal akışın durması + İvedilik + Çok paydaşlı acil eylem = KRİZ YÖNETİMİ.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\nMEB Afet ve Acil Durum Yönetimi Kılavuzu."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Kriz yönetimi)<br><br>📌 <strong>1. Doğru Cevabın Pedagojik ve Kuramsal Gerekçesi:</strong><br>Okulun eğitim-öğretim yapmasını aniden engelleyen, acil müdahale (itfaiye arama, üst makamları bilgilendirme, tatil kararı ve veli duyurusu) gerektiren beklenmedik su baskını gibi olağanüstü durumlar tipik bir 'Kriz Yönetimi' sürecidir.<br><br><br>🔍 <strong>2. Seçeneklerin ve Çeldiricilerin Analizi:</strong><br>B, C, D ve E seçenekleri (çatışma, insan kaynağı vb.) bu durumsal felaket tablosunu karşılamaz.<br><br><br>💡 <strong>3. Sınav Kodlaması & Stratejik Hap Bilgi:</strong><br>Beklenmedik dış olay + Normal akışın durması + İvedilik + Çok paydaşlı acil eylem = KRİZ YÖNETİMİ.<br><br><br>📚 <strong>4. Kuramsal ve Mevzuat Dayanağı:</strong><br>MEB Afet ve Acil Durum Yönetimi Kılavuzu."
   },
   {
     "id": "mevzuat_1cbk_quiz_q1",
+    "questionNumber": 1,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - MEB Görev ve Yetkileri",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 301 - MEB Görev ve Yetkileri",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "Okul öncesi, ilk ve orta öğretim çağındaki öğrencileri bedenî, zihnî, ahlakî, manevî, sosyal ve kültürel nitelikler yönünden geliştiren ve insan haklarına dayalı toplum yapısının ve küresel düzeyde rekabet gücüne sahip ekonomik sistemin gerektirdiği bilgi ve becerilerle donatarak geleceğe hazırlayan eğitim ve öğretim programlarını tasarlamak, uygulamak, güncellemek; öğretmen ve öğrencilerin eğitim ve öğretim hizmetlerini bu çerçevede yürütmek ve denetlemek, hangi birimin görevidir?",
+    "questionText": "Okul öncesi, ilk ve orta öğretim çağındaki öğrencileri bedenî, zihnî, ahlakî, manevî, sosyal ve kültürel nitelikler yönünden geliştiren ve insan haklarına dayalı toplum yapısının ve küresel düzeyde rekabet gücüne sahip ekonomik sistemin gerektirdiği bilgi ve becerilerle donatarak geleceğe hazırlayan eğitim ve öğretim programlarını tasarlamak, uygulamak, güncellemek; öğretmen ve öğrencilerin eğitim ve öğretim hizmetlerini bu çerçevede yürütmek ve denetlemek, hangi birimin görevidir?",
     "options": [
-      "Talim ve Terbiye Kurulu Başkanlığı",
-      "Milli Eğitim Bakanlığı",
-      "Temel Eğitim Hizmetleri Genel Müdürlüğü",
-      "Hayat Boyu Öğrenme Genel Müdürlüğü",
-      "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      {
+        "key": "A",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Millî Eğitim Bakanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Milli Eğitim Bakanlığı).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 301. maddesinin 1. fıkrasının (a) bendinde, bu görev genel çerçevesiyle doğrudan 'Millî Eğitim Bakanlığının Görevleri' arasında sayılmıştır. Belirli bir genel müdürlük değil, Bakanlığın ana varoluş gayesidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nGenel müdürlükler bu ana görevin kendi alanlarıyla ilgili alt dilimlerini yürütürler.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nMadde 301 MEB'in genel görev tanımıdır.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 301/1-a."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Millî Eğitim Bakanlığı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 301/1-a (Millî Eğitim Bakanlığının Görev ve Yetkileri):</strong> Soru kökündeki metin, üç örgün eğitim kademesini (okul öncesi, ilk ve orta öğretim) birlikte kapsayan ve öğrencileri bedenî, zihnî, ahlakî, manevî, sosyal ve kültürel yönden geliştirmeyi hedefleyen <strong>Millî Eğitim Bakanlığının (MEB) makro ölçekli ana varoluş görevini</strong> (Madde 301/1-a) tanımlamaktadır. Tek bir hizmet biriminin değil, doğrudan Bakanlık tüzel kişiliğinin genel görevidir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Talim ve Terbiye Kurulu Başkanlığı (Madde 321 ❌):</strong> Bakanlığın bilimsel danışma ve inceleme organıdır; eğitim-öğretim plan ve programlarını inceleyip <em>Bakana sunar</em>, ancak tüm kademelerdeki öğretmen ve öğrencilerin eğitim-öğretim hizmetlerini bizzat yürütüp denetlemez.<br>• <strong>B Şıkkı:</strong> <strong>Millî Eğitim Bakanlığı (Madde 301/1-a — DOĞRU ✔️):</strong> Okul öncesi, ilk ve orta öğretim çağındaki öğrencileri tüm yönleriyle geliştiren programları tasarlamak, uygulamak, güncellemek ve denetlemek doğrudan Bakanlığın genel görevidir.<br>• <strong>C Şıkkı:</strong> <strong>Temel Eğitim Genel Müdürlüğü (Madde 304 ❌):</strong> Sadece <em>okul öncesi ve ilköğretim</em> kademeleriyle sınırlıdır; ortaöğretim kademesini kapsamaz.<br>• <strong>D Şıkkı:</strong> <strong>Hayat Boyu Öğrenme Genel Müdürlüğü (Madde 309 ❌):</strong> Zorunlu eğitim dışında kalan <em>yaygın eğitim ve açık öğretim</em> faaliyetlerini yürütür.<br>• <strong>E Şıkkı:</strong> <strong>Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü (Madde 311 ❌):</strong> Eğitim ve öğretimin teknoloji ve bilişim ürünleriyle desteklenmesi (EBA, dijital içerik) görevini yürütür.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Üç Kademe Bir Arada Şifresi:</strong> Soru kökünde <em>\"Okul öncesi, ilk ve orta öğretim çağındaki öğrencileri bedenî, zihnî, ahlakî, manevî...\"</em> ifadesi bir bütün halinde geçiyorsa, bu görev hiçbir alt genel müdürlüğe ait olamaz; doğrudan <strong>Millî Eğitim Bakanlığının (Madde 301)</strong> genel görevidir!"
   },
   {
     "id": "mevzuat_1cbk_quiz_q2",
+    "questionNumber": 2,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Teşkilat Yapısı",
-    "question": "Milli Eğitim Bakanlığı Teşkilat Birimleri hangisinde doğru verilmiştir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 302 - MEB Teşkilat Yapısı",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre Millî Eğitim Bakanlığı teşkilat birimleri aşağıdakilerin hangisinde doğru verilmiştir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre Millî Eğitim Bakanlığı teşkilat birimleri aşağıdakilerin hangisinde doğru verilmiştir?",
     "options": [
-      "Merkez – Taşra – Yurtdışı",
-      "Merkez – Taşra – Yurtiçi",
-      "Merkez – Yurtiçi – Yurtdışı",
-      "Merkez – İl MEM – İlçe MEM – Yurtdışı",
-      "Merkez – İl – Yurtdışı"
+      {
+        "key": "A",
+        "text": "Merkez – Taşra – Yurtdışı"
+      },
+      {
+        "key": "B",
+        "text": "Merkez – Taşra – Yurtiçi"
+      },
+      {
+        "key": "C",
+        "text": "Merkez – Yurtiçi – Yurtdışı"
+      },
+      {
+        "key": "D",
+        "text": "Merkez – İl MEM – İlçe MEM – Yurtdışı"
+      },
+      {
+        "key": "E",
+        "text": "Merkez – İl – Yurtdışı"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Merkez – Taşra – Yurtdışı).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK'nın 302. maddesine göre Bakanlık teşkilatı; Merkez, Taşra ve Yurt Dışı teşkilatından meydana gelir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nTaşra teşkilatı il ve ilçe müdürlüklerini kapsar; anayasal/kararname düzeyindeki 3 ana teşkilat ayağı Merkez, Taşra ve Yurt Dışı'dır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nMEB Teşkilat Üçlüsü: MERKEZ + TAŞRA + YURT DIŞI.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 302."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Merkez – Taşra – Yurtdışı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 302 (Teşkilat):</strong> 1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 302. maddesinde açıkça; <strong>\"Millî Eğitim Bakanlığı; merkez, taşra ve yurtdışı teşkilatından oluşur.\"</strong> hükmü yer almaktadır.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Merkez – Taşra – Yurtdışı (Madde 302 — DOĞRU ✔️):</strong> Bakanlık teşkilatının 3 ana sütunu; Merkez Teşkilatı (Ankara'daki 22 hizmet birimi), Taşra Teşkilatı (81 İl ve 922+ İlçe MEM) ve Yurtdışı Teşkilatıdır (Eğitim Müşavirlikleri ve Eğitim Ataşelikleri).<br>• <strong>B Şıkkı:</strong> <strong>Merkez – Taşra – Yurtiçi ❌:</strong> İdare hukukunda 'Yurtiçi teşkilatı' diye bir kavram yoktur; merkez ve taşra zaten ülke sınırları içindedir.<br>• <strong>C Şıkkı:</strong> <strong>Merkez – Yurtiçi – Yurtdışı ❌:</strong> 'Taşra' yerine 'Yurtiçi' yazılarak kavram çeldiricisi kurulmuştur.<br>• <strong>D Şıkkı:</strong> <strong>Merkez – İl MEM – İlçe MEM – Yurtdışı ❌:</strong> İl ve İlçe Millî Eğitim Müdürlükleri ana teşkilat sütunu değil, <em>Taşra Teşkilatının</em> (Madde 329) alt kademeleridir.<br>• <strong>E Şıkkı:</strong> <strong>Merkez – İl – Yurtdışı ❌:</strong> Eksik ve hatalı adlandırmadır; doğrusu <em>Taşra</em> teşkilatıdır.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>ÖSYM Tuzağı:</strong> MEB teşkilat şemasında <strong>\"Bölge Teşkilatı\"</strong> veya <strong>\"Yurtiçi Teşkilatı\"</strong> kesinlikle yoktur! 3 temel sacayağı: <strong>1. Merkez + 2. Taşra + 3. Yurtdışı</strong>."
   },
   {
     "id": "mevzuat_1cbk_quiz_q3",
+    "questionNumber": 3,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Hizmet Birimleri",
-    "question": "Hangisi Bakanlığın hizmet birimlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 303 - Hizmet Birimleri (22 Birim)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Millî Eğitim Bakanlığının hizmet birimlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Millî Eğitim Bakanlığının hizmet birimlerinden biri değildir?",
     "options": [
-      "Temel Eğitim Genel Müdürlüğü",
-      "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü",
-      "Bilgi İşlem Genel Müdürlüğü",
-      "İnşaat ve Emlak Dairesi Başkanlığı",
-      "Strateji Geliştirme Başkanlığı"
+      {
+        "key": "A",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "İnşaat ve Emlak Dairesi Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (İnşaat ve Emlak Dairesi Başkanlığı).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 303 uyarınca bu birimin resmi adı 'İnşaat ve Emlak Genel Müdürlüğü'dür (Dairesi Başkanlığı değil Genel Müdürlüktür).\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nTemel Eğitim, YEĞİTEK, Bilgi İşlem ve Strateji Geliştirme Bakanlığın kanuni hizmet birimleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nİnşaat ve Emlak artık 'Genel Müdürlük' statüsündedir.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 303."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (İnşaat ve Emlak Dairesi Başkanlığı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 303 (Hizmet Birimleri Listesi):</strong> Madde 303'te Bakanlığın toplam <strong>22 hizmet birimi</strong> (16 Genel Müdürlük, 4 Başkanlık, 1 Müşavirlik, 1 Özel Kalem Müdürlüğü) tek tek sayılmıştır. Bu listede birimin resmi adı <em>\"İnşaat ve Emlak Dairesi Başkanlığı\"</em> değil, <strong>\"İnşaat ve Emlak Genel Müdürlüğü\"</strong>dür (Madde 303/1-p ve Madde 320).<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Temel Eğitim Genel Müdürlüğü (Madde 303/1-a ve Madde 304 ✔️):</strong> Bakanlığın 16 genel müdürlüğünden ilkidir.<br>• <strong>B Şıkkı:</strong> <strong>Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü - YEĞİTEK (Madde 303/1-h ve Madde 311 ✔️):</strong> Bakanlığın ana hizmet genel müdürlüklerindendir.<br>• <strong>C Şıkkı:</strong> <strong>Bilgi İşlem Genel Müdürlüğü (Madde 303/1-o ve Madde 318 ✔️):</strong> Önceden Daire Başkanlığı iken Cumhurbaşkanlığı Kararnamesi değişikliğiyle <strong>Genel Müdürlük</strong> statüsüne yükseltilmiştir.<br>• <strong>D Şıkkı:</strong> <strong>İnşaat ve Emlak Dairesi Başkanlığı (YANLIŞ / ÇELDİRİCİ ❌):</strong> Birimin yasal statüsü Daire Başkanlığı değil, <strong>İnşaat ve Emlak Genel Müdürlüğü</strong>dür. MEB'de \"Dairesi Başkanlığı\" unvanını taşıyan <strong>TEK</strong> hizmet birimi <em>Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı</em>dır (Madde 324/A).<br>• <strong>E Şıkkı:</strong> <strong>Strateji Geliştirme Başkanlığı (Madde 303/1-t ve Madde 323 ✔️):</strong> Bakanlığın 4 başkanlığından (TTKB, Teftiş, Strateji Geliştirme, Acil Durumlar ve Savunma Planlaması) biridir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>22 Hizmet Birimi Sayısal Şifresi:</strong><br>• <strong>16 Genel Müdürlük + 4 Başkanlık + 1 Müşavirlik + 1 Özel Kalem = 22 Hizmet Birimi.</strong><br>• Sonunda <em>\"Dairesi Başkanlığı\"</em> yazan <strong>TEK</strong> birim <strong>Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı</strong>dır! <em>Bilgi İşlem</em> ve <em>İnşaat ve Emlak</em> birer <strong>Genel Müdürlüktür</strong>. Ayrıca <em>İç Denetim Birimi Başkanlığı</em> ve <em>Millî Eğitim Akademisi</em> bu 22 hizmet birimi arasında yer almaz!"
   },
   {
     "id": "mevzuat_1cbk_quiz_q4",
+    "questionNumber": 4,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Temel Eğitim Genel Müdürlüğü",
-    "question": "Hangisi Temel Eğitim Genel Müdürlüğü görevleri arasında değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 304 - Temel Eğitim Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Temel Eğitim Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Temel Eğitim Genel Müdürlüğünün görevleri arasında yer almaz?",
     "options": [
-      "Okul öncesi ve ilköğretim okul ve kurumlarının yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak",
-      "Okul öncesi ve ilköğretim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Milli Eğitim Bakanlığına Sunmak",
-      "İlköğretim öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek",
-      "Bakan tarafından verilen diğer görevleri yapmak"
+      {
+        "key": "A",
+        "text": "Okul öncesi ve ilköğretim okul ve kurumlarının yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak"
+      },
+      {
+        "key": "B",
+        "text": "Okul öncesi ve ilköğretim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Millî Eğitim Bakanlığına sunmak"
+      },
+      {
+        "key": "C",
+        "text": "İlköğretim öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek"
+      },
+      {
+        "key": "D",
+        "text": "Bakan tarafından verilen diğer görevleri yapmak"
+      },
+      {
+        "key": "E",
+        "text": "Okul öncesi eğitim ve ilköğretim kurumlarının açılış, kapanış ve öğretime başlama işlemlerine ilişkin standartları belirlemek ve uygulamaları koordine etmek"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir.\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nMadde 304 uyarınca; öğretim programları ve ders kitapları hazırlanıp Bakanlığa değil, 'Talim ve Terbiye Kuruluna sunulur'. İfadede 'Milli Eğitim Bakanlığına Sunmak' denilerek çeldirici oluşturulmuştur (TTKB onay makamıdır).\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, C ve D fıkraları doğrudan Madde 304'te sayılan görevlerdir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nDers kitapları ve programlar doğrudan TTKB'ye sunulur.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 304."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Okul öncesi ve ilköğretim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Millî Eğitim Bakanlığına sunmak)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 304/1-b (Temel Eğitim Genel Müdürlüğü Görevleri):</strong> 1 Sayılı CBK Madde 304/1-b hükmüne göre Temel Eğitim Genel Müdürlüğü; okul öncesi ve ilköğretim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve <strong>\"Talim ve Terbiye Kuruluna sunmak\"</strong> ile görevlidir. B şıkkında <em>\"Millî Eğitim Bakanlığına sunmak\"</em> denilerek onay mercii üzerinde klasik ÖSYM kelime tuzağı kurulmuştur.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 304/1-a (Doğru Görev ✔️):</strong> Okul öncesi ve ilköğretim okul ve kurumlarının yönetimine ve öğrencilerinin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak asli görevidir.<br>• <strong>B Şıkkı:</strong> <strong>Madde 304/1-b (YANLIŞ / ÇELDİRİCİ ❌):</strong> Hazırlanan öğretim programları ve ders kitapları doğrudan Bakanlığa değil, bilimsel inceleme ve onay mercii olan <strong>Talim ve Terbiye Kuruluna (TTKB)</strong> sunulur.<br>• <strong>C Şıkkı:</strong> <strong>Madde 304/1-c (Doğru Görev ✔️):</strong> <em>\"İlköğretim öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek\"</em> doğrudur. (Dikkat: Burada 'okul öncesi' geçmez, sadece 'ilköğretim' geçer!).<br>• <strong>D Şıkkı:</strong> <strong>Madde 304/1-ç (Doğru Görev ✔️):</strong> Bakan tarafından verilen diğer görevleri yapmak tüm genel müdürlüklerin standart son fıkrasıdır.<br>• <strong>E Şıkkı:</strong> <strong>Madde 304/1-a Kapsamı (Doğru Görev ✔️):</strong> Okul öncesi ve ilköğretim kurumlarının yönetimine ilişkin standart ve politika uygulamalarını yürütmek görev alanındadır.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Temel Eğitim GM İçin 2 Altın Tuzak:</strong><br>1. <strong>Sunum Makamı Tuzağı:</strong> Öğretim birimleri (Temel Eğitim, Ortaöğretim, Mesleki Eğitim, Din Öğretimi, Hayat Boyu Öğrenme) hazırladıkları program ve ders kitaplarını Bakana değil, <strong>Talim ve Terbiye Kuruluna (TTKB) sunar!</strong> <em>\"Bakana sunmak\"</em> ifadesi sadece TTKB'nin kendi görev maddesinde geçer!<br>2. <strong>Barınma Tuzağı:</strong> Barınma hizmetinde <em>\"okul öncesi\"</em> kesinlikle yoktur; sadece <strong>ilköğretim öğrencilerinin barınması</strong> vardır!"
   },
   {
     "id": "mevzuat_1cbk_quiz_q5",
+    "questionNumber": 5,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Mesleki ve Teknik Eğitim GM",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 306 - Mesleki ve Teknik Eğitim Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "Eğitim-istihdam ilişkisini güçlendirecek, meslekî eğitimi yaygınlaştıracak politika ve stratejilerin geliştirilmesi için gerekli çalışmaları yapmak, belirlenen politikaları uygulamak ve uygulanmasını koordine etmek, hangi birimin görevidir?",
+    "questionText": "Eğitim-istihdam ilişkisini güçlendirecek, meslekî eğitimi yaygınlaştıracak politika ve stratejilerin geliştirilmesi için gerekli çalışmaları yapmak, belirlenen politikaları uygulamak ve uygulanmasını koordine etmek, hangi birimin görevidir?",
     "options": [
-      "Destek Hizmetleri Genel Müdürlüğü",
-      "Hayat Boyu Öğrenme Genel Müdürlüğü",
-      "Mesleki ve Teknik Eğitim Genel Müdürlüğü",
-      "Ortaöğretim Genel Müdürlüğü",
-      "Strateji Geliştirme Başkanlığı"
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Mesleki ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
     ],
     "correctAnswer": "C",
-    "explanation": "C seçeneğidir (Mesleki ve Teknik Eğitim Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 306/1-b bendinde 'Eğitim-istihdam ilişkisini güçlendirecek, meslekî eğitimi yaygınlaştıracak politika ve stratejilerin geliştirilmesi...' Mesleki ve Teknik Eğitim Genel Müdürlüğü'nün açık görevidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nİstihdam odaklı mesleki yapı bu genel müdürlüğün temel ayrıcı anahtar kelimesidir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nEğitim-İstihdam İlişkisi + Ahilik/Çıraklık = Mesleki ve Teknik Eğitim GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 306."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Mesleki ve Teknik Eğitim Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 306/1-c (Mesleki ve Teknik Eğitim Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 306/1-c bendinde; <strong>\"Eğitim-istihdam ilişkisini güçlendirecek, meslekî eğitimi yaygınlaştıracak politika ve stratejilerin geliştirilmesi için gerekli çalışmaları yapmak, belirlenen politikaları uygulamak ve uygulanmasını koordine etmek\"</strong> görevi doğrudan Mesleki ve Teknik Eğitim Genel Müdürlüğüne verilmiştir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Destek Hizmetleri Genel Müdürlüğü (Madde 319 ❌):</strong> Taşınır/taşınmaz mal, genel evrak-arşiv, döner sermaye, ders kitabı basım-dağıtım ve taşımalı eğitim/yemek işlerini yürütür.<br>• <strong>B Şıkkı:</strong> <strong>Hayat Boyu Öğrenme Genel Müdürlüğü (Madde 309 ❌):</strong> Zorunlu eğitim dışındaki yaygın eğitim, açık öğretim ve halk eğitimi faaliyetlerini yürütür.<br>• <strong>C Şıkkı:</strong> <strong>Mesleki ve Teknik Eğitim Genel Müdürlüğü (Madde 306/1-c — DOĞRU ✔️):</strong> Mesleki ve teknik eğitim okul/kurumlarını yönetmek, <strong>eğitim-istihdam ilişkisini</strong> güçlendirmek ve <strong>3308 sayılı Mesleki Eğitim Kanunu</strong> uyarınca aday çırak, çırak, kalfa ve ustaların eğitimini yürütmek bu birimin görevidir.<br>• <strong>D Şıkkı:</strong> <strong>Ortaöğretim Genel Müdürlüğü (Madde 305 ❌):</strong> Mesleki ve imam-hatip liseleri dışındaki genel ortaöğretim kurumlarını (Anadolu, Fen, Sosyal Bilimler liseleri) yönetir.<br>• <strong>E Şıkkı:</strong> <strong>Strateji Geliştirme Başkanlığı (Madde 323 ❌):</strong> 5018 sayılı Kanun kapsamında bütçe, stratejik plan ve performans programı hazırlıklarını yürütür.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Mesleki ve Teknik Eğitim GM Turnusol Kelimeleri:</strong><br>🔑 <code>Eğitim-istihdam ilişkisi</code> + <code>3308 sayılı Mesleki Eğitim Kanunu</code> + <code>Aday çırak, çırak, kalfa ve usta</code> + <code>Mesleki ve teknik eğitim okul ve kurumları</code> gördüğünüz anda cevap <strong>Mesleki ve Teknik Eğitim Genel Müdürlüğü</strong>dür!"
   },
   {
     "id": "mevzuat_1cbk_quiz_q6",
+    "questionNumber": 6,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Din Öğretimi Genel Müdürlüğü",
-    "question": "Görev alanına giren konularda üniversiteler, ilgili kurum ve kuruluşlar ile işbirliği yapmak, hangi birimin görevidir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 307 - Din Öğretimi Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 307. maddesi kapsamında; görev alanına giren konularda üniversiteler, ilgili kurum ve kuruluşlar ile işbirliği yapmak, aşağıdaki birimlerden hangisinin görevidir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 307. maddesi kapsamında; görev alanına giren konularda üniversiteler, ilgili kurum ve kuruluşlar ile işbirliği yapmak, aşağıdaki birimlerden hangisinin görevidir?",
     "options": [
-      "Destek Hizmetleri Genel Müdürlüğü",
-      "Hayat Boyu Öğrenme Genel Müdürlüğü",
-      "Mesleki ve Teknik Eğitim Genel Müdürlüğü",
-      "Ortaöğretim Genel Müdürlüğü",
-      "Din Öğretimi Genel Müdürlüğü"
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Mesleki ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Din Öğretimi Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "E",
-    "explanation": "E seçeneğidir (Din Öğretimi Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 307/1-d bendinde Din Öğretimi Genel Müdürlüğü'nün görevleri arasında ilahiyat fakülteleri, Diyanet ve ilgili üniversitelerle iş birliği bağlamında 'Görev alanına giren konularda üniversiteler, ilgili kurum ve kuruluşlar ile işbirliği yapmak' açıkça düzenlenmiştir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nQuizizz test anahtarında Madde 307'ye atıfla Din Öğretimi Genel Müdürlüğü olarak belirtilmiştir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nÜniversiteler ve ilahiyat çevreleriyle iş birliği Din Öğretimi GM'nin görev maddesinde yer alır.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 307."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Din Öğretimi Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 307/1-d (Din Öğretimi Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 307/1-d bendinde; <strong>\"Görev alanına giren konularda üniversiteler, ilgili kurum ve kuruluşlar ile işbirliği yapmak\"</strong> hükmü açıkça <strong>Din Öğretimi Genel Müdürlüğünün</strong> görevleri arasında düzenlenmiştir (İlahiyat fakülteleri, Diyanet İşleri Başkanlığı ve ilgili kurumlarla yürütülen hafızlık ve din eğitimi protokolleri bu bent kapsamındadır).<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Destek Hizmetleri Genel Müdürlüğü (Madde 319 ❌):</strong> İdari, mali, lojistik, arşiv ve döner sermaye hizmetlerini yürütür; Madde 307'deki akademik/kurumsal işbirliği fıkrasının muhatabı değildir.<br>• <strong>B Şıkkı:</strong> <strong>Hayat Boyu Öğrenme Genel Müdürlüğü (Madde 309 ❌):</strong> Yaygın eğitim ve açık öğretim politikalarını yürütür.<br>• <strong>C Şıkkı:</strong> <strong>Mesleki ve Teknik Eğitim Genel Müdürlüğü (Madde 306 ❌):</strong> 3308 sayılı Kanun ve eğitim-istihdam politikalarını yürütür.<br>• <strong>D Şıkkı:</strong> <strong>Ortaöğretim Genel Müdürlüğü (Madde 305 ❌):</strong> Genel ortaöğretim kurumlarının yönetim ve barınma hizmetlerini yürütür.<br>• <strong>E Şıkkı:</strong> <strong>Din Öğretimi Genel Müdürlüğü (Madde 307/1-d — DOĞRU ✔️):</strong> İmam-hatip ortaokulları ve liseleri ile tüm kademelerdeki DKAB derslerini yürütmenin yanı sıra, Madde 307/1-d uyarınca görev alanına giren konularda üniversiteler ve ilgili kuruluşlarla işbirliği yapar.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Din Öğretimi GM (Madde 307) 5 Altın Görevi:</strong><br>1. İmam-hatip liseleri ve ortaokullarını yönetmek,<br>2. İlköğretim, ortaöğretim ve yaygın eğitimdeki <strong>zorunlu DKAB ve seçmeli din derslerinin</strong> program ve kitaplarını hazırlayıp TTKB'ye sunmak,<br>3. <strong>Hafızlık eğitimi</strong> süreçlerini desteklemek,<br>4. Görev alanında <strong>üniversiteler (İlahiyat vb.) ve kurumlarla işbirliği</strong> yapmak (Md. 307/1-d),<br>5. Kültür birliği bulunan ülkelerle <strong>din eğitimi alanında</strong> işbirliği yapmak (Md. 307/1-e)."
   },
   {
     "id": "mevzuat_1cbk_quiz_q7",
+    "questionNumber": 7,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Din Öğretimi Genel Müdürlüğü",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 307 - Din Öğretimi Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "Bakanlık ilgili birimleri ile koordine hâlinde ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle din eğitim ve öğretimi alanında işbirliğine yönelik çalışmalar yapmak, hangi birimin görevidir?",
+    "questionText": "Bakanlık ilgili birimleri ile koordine hâlinde ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle din eğitim ve öğretimi alanında işbirliğine yönelik çalışmalar yapmak, hangi birimin görevidir?",
     "options": [
-      "Din Öğretimi Genel Müdürlüğü",
-      "Hayat Boyu Öğrenme Genel Müdürlüğü",
-      "Mesleki ve Teknik Eğitim Genel Müdürlüğü",
-      "Ortaöğretim Genel Müdürlüğü",
-      "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      {
+        "key": "A",
+        "text": "Din Öğretimi Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Mesleki ve Teknik Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Din Öğretimi Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 307/1-e bendi: 'Bakanlık ilgili birimleri ile koordine hâlinde ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle din eğitim ve öğretimi alanında işbirliğine yönelik çalışmalar yapmak' Din Öğretimi Genel Müdürlüğü'nün görevidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nDış İlişkiler çeldirici olsa da cümlenin özü 'din eğitim ve öğretimi alanında iş birliği'dir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nKültür birliği olan ülkelerle 'DİN EĞİTİMİ' iş birliği = Din Öğretimi Genel Müdürlüğü.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 307/1-e."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Din Öğretimi Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 307/1-e (Din Öğretimi Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 307/1-e bendinde; <strong>\"Bakanlık ilgili birimleri ile koordine hâlinde ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle din eğitim ve öğretimi alanında işbirliğine yönelik çalışmalar yapmak\"</strong> görevi doğrudan <strong>Din Öğretimi Genel Müdürlüğüne</strong> verilmiştir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Din Öğretimi Genel Müdürlüğü (Madde 307/1-e — DOĞRU ✔️):</strong> Cümlede <em>\"din eğitim ve öğretimi alanında işbirliği\"</em> ibaresi geçtiği için görev Din Öğretimi Genel Müdürlüğüne aittir.<br>• <strong>B Şıkkı:</strong> <strong>Hayat Boyu Öğrenme Genel Müdürlüğü (Madde 309 ❌):</strong> Yaygın eğitim ve halk eğitimi faaliyetlerini yürütür.<br>• <strong>C Şıkkı:</strong> <strong>Mesleki ve Teknik Eğitim Genel Müdürlüğü (Madde 306 ❌):</strong> Mesleki eğitim ve 3308 sayılı Kanun uygulamalarını yürütür.<br>• <strong>D Şıkkı:</strong> <strong>Ortaöğretim Genel Müdürlüğü (Madde 305 ❌):</strong> Genel liselerin eğitim ve barınma işlerini yürütür.<br>• <strong>E Şıkkı:</strong> <strong>Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü (Madde 314 — EN GÜÇLÜ ÇELDİRİCİ ❌):</strong> Madde 314/1-c'de de <em>\"ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle işbirliğine yönelik işleri yürütmek\"</em> yazar; ancak orada genel eğitim-kültür işbirliği söz konusudur. Cümlede <strong>\"din eğitim ve öğretimi alanında\"</strong> denildiği anda cevap <strong>Din Öğretimi GM</strong> olur!<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Kritik Karşılaştırma (AB ve Dış İlişkiler GM vs. Din Öğretimi GM):</strong><br>• <em>\"Dil, tarih veya kültür birliği bulunan ülkelerle <strong>eğitim ve öğretim alanında</strong> işbirliği\"</em> ➔ <strong>AB ve Dış İlişkiler GM (Md. 314/1-c)</strong><br>• <em>\"Dil, tarih veya kültür birliği bulunan ülkelerle <strong>DİN eğitim ve öğretimi alanında</strong> işbirliği\"</em> ➔ <strong>Din Öğretimi GM (Md. 307/1-e)</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q8",
+    "questionNumber": 8,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Özel Eğitim ve Rehberlik GM",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 308 - Özel Eğitim ve Rehberlik Hizmetleri GM",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "İlgili bakanlıklarla işbirliği içinde, özel eğitim sınıfları, özel eğitim okulları, rehberlik ve araştırma merkezleri (RAM), iş okulları ve iş eğitim merkezleri ile aynı seviye ve türdeki benzeri okul ve kurumların yönetimine ve öğrencilerin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak, hangi birimin görevidir?",
+    "questionText": "İlgili bakanlıklarla işbirliği içinde, özel eğitim sınıfları, özel eğitim okulları, rehberlik ve araştırma merkezleri (RAM), iş okulları ve iş eğitim merkezleri ile aynı seviye ve türdeki benzeri okul ve kurumların yönetimine ve öğrencilerin eğitim ve öğretimine yönelik çalışmalar yapmak ve belirlenen politikaları uygulamak, hangi birimin görevidir?",
     "options": [
-      "Özel Eğitim Kurumları Genel Müdürlüğü",
-      "Hayat Boyu Öğrenme Genel Müdürlüğü",
-      "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
-      "Ortaöğretim Genel Müdürlüğü",
-      "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      {
+        "key": "A",
+        "text": "Özel Öğretim Kurumları Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "C",
-    "explanation": "C seçeneğidir (Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 308/1-a bendi uyarınca resmi özel eğitim okulları, sınıfları, RAM'lar ve iş okulları Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü'nün görevidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nÖzel Öğretim Kurumları GM (Madde 310) özel sektöre ait özel okullarla ilgilenir; RAM ve devlete ait özel eğitim birimleri Özel Eğitim ve Rehberlik Hizmetleri GM'ye bağlıdır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nRAM + Özel Eğitim Okulu + BİLSEM = Özel Eğitim ve Rehberlik Hizmetleri GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 308."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 308/1-a (Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 308/1-a uyarınca; özel eğitim sınıfları, özel eğitim okulları, <strong>Rehberlik ve Araştırma Merkezleri (RAM)</strong>, iş okulları, iş eğitim merkezleri ve <strong>BİLSEM</strong> gibi özel gereksinimli veya özel yetenekli öğrencilere hizmet veren kurumların yönetimi <strong>Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğüne</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Özel Öğretim Kurumları Genel Müdürlüğü (Madde 310 — EN GÜÇLÜ ÇELDİRİCİ ❌):</strong> İsim benzerliği nedeniyle en çok karıştırılan birimdir! Özel Öğretim Kurumları GM; 5580 sayılı Kanun kapsamındaki <em>özel okullar (kolejler), sürücü kursları (MTSK), özel öğrenci yurtları ve çeşitli özel kurslar</em> ile ilgilenir.<br>• <strong>B Şıkkı:</strong> <strong>Hayat Boyu Öğrenme Genel Müdürlüğü (Madde 309 ❌):</strong> Halk eğitimi merkezleri ve açık öğretim okullarını yönetir.<br>• <strong>C Şıkkı:</strong> <strong>Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü (Madde 308/1-a — DOĞRU ✔️):</strong> Özel eğitim okulları, RAM, BİLSEM, iş okulları ve kaynaştırma/bütünleştirme eğitimi bu genel müdürlüğün görevidir.<br>• <strong>D Şıkkı:</strong> <strong>Ortaöğretim Genel Müdürlüğü (Madde 305 ❌):</strong> Genel ortaöğretim liselerini yönetir.<br>• <strong>E Şıkkı:</strong> <strong>Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü (Madde 314 ❌):</strong> Uluslararası anlaşmalar ve AB projelerini koordine eder.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Gökhan Hoca Turnusol Ayrımı (Özel Eğitim vs. Özel Öğretim):</strong><br>• <strong>ÖĞRENCİNİN KENDİSİ ÖZEL İSE</strong> (Engelli, kaynaştırma, özel yetenekli, BİLSEM, RAM, İş Okulu) ➔ <strong>Özel Eğitim ve Rehberlik Hizmetleri GM (Md. 308)</strong><br>• <strong>KURUMUN SAHİBİ ÖZEL SEKTÖR / TİCARİ İSE</strong> (5580 sayılı Kanun, gerçek/tüzel kişi, vakıf/dernek koleji, MTSK sürücü kursu, özel yurt/pansiyon) ➔ <strong>Özel Öğretim Kurumları GM (Md. 310)</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q9",
+    "questionNumber": 9,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Ortaöğretim Genel Müdürlüğü",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 305 - Ortaöğretim Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "Ortaöğrenim öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek, hangi birimin görevidir?",
+    "questionText": "Ortaöğrenim öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek, hangi birimin görevidir?",
     "options": [
-      "Destek Hizmetleri Genel Müdürlüğü",
-      "İnşaat ve Emlak Genel Müdürlüğü",
-      "Temel Eğitim Genel Müdürlüğü",
-      "Ortaöğretim Genel Müdürlüğü",
-      "Strateji Geliştirme Başkanlığı"
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Ortaöğretim Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Strateji Geliştirme Başkanlığı"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (Ortaöğretim Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 305/1-c bendinde Ortaöğretim Genel Müdürlüğü'nün görevleri arasında; 'Ortaöğrenim öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek' yer almaktadır.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nİlköğretim öğrencileri için bu görev Temel Eğitim GM'ye (Madde 304), ortaöğrenim öğrencileri için ise Ortaöğretim GM'ye verilmiştir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nOrtaöğretim öğrencisi barınma ve pansiyon/burs işleri = Ortaöğretim GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 305."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Ortaöğretim Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 305/1-c (Ortaöğretim Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 305/1-c bendinde; <strong>\"Ortaöğrenim öğrencilerinin barınma ihtiyaçlarının giderilmesi ve maddî yönden desteklenmesi ile ilgili iş ve işlemleri yürütmek\"</strong> görevi doğrudan <strong>Ortaöğretim Genel Müdürlüğüne</strong> verilmiştir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Destek Hizmetleri Genel Müdürlüğü (Madde 319 ❌):</strong> Taşımalı eğitim ve ücretsiz yemek hizmetlerini yürütür; ancak ortaöğretim öğrencilerinin pansiyon/barınma ve bursluluk işlerini yürütmez.<br>• <strong>B Şıkkı:</strong> <strong>İnşaat ve Emlak Genel Müdürlüğü (Madde 320 ❌):</strong> Okul ve pansiyon binalarının arsa temini, kamulaştırma ve inşaat/büyük onarım işlerini yapar; öğrencilerin barınma ve maddi destek işlemlerini yürütmez.<br>• <strong>C Şıkkı:</strong> <strong>Temel Eğitim Genel Müdürlüğü (Madde 304/1-c ❌):</strong> Sadece <em>ilköğretim öğrencilerinin</em> barınma ve maddi destek işlemlerini yürütür.<br>• <strong>D Şıkkı:</strong> <strong>Ortaöğretim Genel Müdürlüğü (Madde 305/1-c — DOĞRU ✔️):</strong> Ortaöğrenim (lise) öğrencilerinin pansiyon/barınma ihtiyaçları ve burs/maddi destek işlemleri Ortaöğretim Genel Müdürlüğüne aittir.<br>• <strong>E Şıkkı:</strong> <strong>Strateji Geliştirme Başkanlığı (Madde 323 ❌):</strong> Bakanlık bütçesini ve stratejik planını hazırlar.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Barınma Görevleri Karşılaştırma Tablosu:</strong><br>• <strong>İlköğretim</strong> öğrencilerinin barınması ➔ <strong>Temel Eğitim GM (Md. 304/1-c)</strong> <em>(Okul öncesinde barınma yoktur!)</em><br>• <strong>Ortaöğrenim</strong> öğrencilerinin barınması ➔ <strong>Ortaöğretim GM (Md. 305/1-c)</strong><br>• <strong>Özel öğrenci yurtları ve pansiyonları (5580 sayılı Kanun)</strong> izin ve denetimi ➔ <strong>Özel Öğretim Kurumları GM (Md. 310)</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q10",
+    "questionNumber": 10,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - YEĞİTEK Görevleri",
-    "question": "Hangisi Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü (YEĞİTEK) görevlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 311 & 318 - YEĞİTEK vs. Bilgi İşlem GM",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Yenilik ve Eğitim Teknolojileri Genel Müdürlüğünün (YEĞİTEK) görevlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Yenilik ve Eğitim Teknolojileri Genel Müdürlüğünün (YEĞİTEK) görevlerinden biri değildir?",
     "options": [
-      "Eğitim ve öğretimin teknoloji ile desteklenmesine yönelik işleri yürütmek",
-      "Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin kullanılmasına yönelik çalışmalar yürütmek",
-      "Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek",
-      "Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak",
-      "Bakan tarafından verilen diğer görevleri yapmak"
+      {
+        "key": "A",
+        "text": "Eğitim ve öğretimin teknoloji ile desteklenmesine yönelik işleri yürütmek"
+      },
+      {
+        "key": "B",
+        "text": "Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin kullanılmasına yönelik çalışmalar yürütmek"
+      },
+      {
+        "key": "C",
+        "text": "Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek"
+      },
+      {
+        "key": "D",
+        "text": "Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak"
+      },
+      {
+        "key": "E",
+        "text": "Bakan tarafından verilen diğer görevleri yapmak"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (Bakanlık hizmetleriyle ilgili bilgileri toplamak ve veri tabanları oluşturmak).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nBakanlık genelinde veri tabanları oluşturmak, MEBBİS ve otomasyonu yürütmek 'Bilgi İşlem Genel Müdürlüğü'nün (Madde 318) görevidir; YEĞİTEK (Madde 311) ise doğrudan eğitim-öğretim teknolojileri ve bilişim içerikleriyle ilgilenir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B ve C şıkları YEĞİTEK'in asli teknoloji görevleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nVeri Tabanları, Otomasyon, MEBBİS = Bilgi İşlem GM;\nEğitim Teknolojisi, EBA, İçerik = YEĞİTEK.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 311 ve Madde 318."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 311 (YEĞİTEK) ve Madde 318/1-c (Bilgi İşlem Genel Müdürlüğü):</strong> D şıkkında yer alan <strong>\"Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak\"</strong> görevi YEĞİTEK'e değil, 1 Sayılı CBK <strong>Madde 318/1-c uyarınca Bilgi İşlem Genel Müdürlüğüne</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 311/1-a (YEĞİTEK Görevi ✔️):</strong> Eğitim ve öğretimin teknoloji ile desteklenmesine yönelik işleri yürütmek YEĞİTEK'in ilk görevidir.<br>• <strong>B Şıkkı:</strong> <strong>Madde 311/1-b (YEĞİTEK Görevi ✔️):</strong> Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin (EBA, etkileşimli tahta, dijital içerik) kullanılmasına yönelik çalışmalar yürütmek YEĞİTEK'e aittir.<br>• <strong>C Şıkkı:</strong> <strong>Madde 311/1-d (YEĞİTEK Görevi ✔️):</strong> Eğitim ve öğretimde uygulanan yeni teknoloji ve gelişmeleri izlemek ve değerlendirmek YEĞİTEK'e aittir.<br>• <strong>D Şıkkı:</strong> <strong>Madde 318/1-c (Bilgi İşlem GM Görevi — YANLIŞ / ÇELDİRİCİ ❌):</strong> Bakanlık hizmetleriyle ilgili bilgileri toplamak ve <strong>veri tabanları oluşturmak</strong> doğrudan <strong>Bilgi İşlem Genel Müdürlüğünün</strong> görevidir.<br>• <strong>E Şıkkı:</strong> <strong>Madde 311/1-h (YEĞİTEK Görevi ✔️):</strong> Bakan tarafından verilen diğer görevleri yapmak.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Gökhan Hoca Turnusol Tablosu (YEĞİTEK vs. Bilgi İşlem GM):</strong><br>• <strong>YEĞİTEK (Madde 311):</strong> Cümlede <code>Eğitim ve öğretimde teknoloji/bilişim</code>, <code>EBA</code>, <code>dijital eğitim içeriği</code>, <code>yaygın eğitimde bilgi-iletişim teknolojisi</code> geçer.<br>• <strong>Bilgi İşlem GM (Madde 318):</strong> Cümlede <code>Bakanlık veri tabanları</code>, <code>MEBBİS</code>, <code>e-Okul</code>, <code>e-İmza / Elektronik belge (EBYS)</code>, <code>sunucu ve ağ otomasyonu</code> geçer!"
   },
   {
     "id": "mevzuat_1cbk_quiz_q11",
+    "questionNumber": 11,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Hayat Boyu Öğrenme GM",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 309 - Hayat Boyu Öğrenme Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "Yaygın eğitim ve öğretim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kuruluna sunmak, hangi birimin görevidir?",
+    "questionText": "Yaygın eğitim ve öğretim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kuruluna sunmak, hangi birimin görevidir?",
     "options": [
-      "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü",
-      "Hayat Boyu Öğrenme Genel Müdürlüğü",
-      "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
-      "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      {
+        "key": "A",
+        "text": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Hayat Boyu Öğrenme Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Temel Eğitim Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Hayat Boyu Öğrenme Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 309 uyarınca 'Yaygın eğitim ve öğretim' okul ve kurumlarının (Halk Eğitimi Merkezleri, Olgunlaşma Enstitüleri) tüm program ve kitap işleri Hayat Boyu Öğrenme Genel Müdürlüğü tarafından yürütülür.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nYaygın eğitim anahtar kelimesi doğrudan Hayat Boyu Öğrenme GM'yi işaret eder.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nYaygın Eğitim + Halk Eğitimi = Hayat Boyu Öğrenme GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 309."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Hayat Boyu Öğrenme Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 309/1-c (Hayat Boyu Öğrenme Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 309/1-c hükmüne göre; <strong>\"Yaygın eğitim ve öğretim okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç-gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kuruluna sunmak\"</strong> görevi doğrudan <strong>Hayat Boyu Öğrenme Genel Müdürlüğüne</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü - YEĞİTEK (Madde 311 ❌):</strong> Yaygın eğitim ve açık öğretim hizmetlerinin sadece <em>bilgi ve iletişim teknolojileri yoluyla</em> (tv, radyo, dijital platform) yürütülmesine destek verir; yaygın eğitim ders kitaplarını hazırlayıp TTKB'ye sunmaz.<br>• <strong>B Şıkkı:</strong> <strong>Hayat Boyu Öğrenme Genel Müdürlüğü (Madde 309/1-c — DOĞRU ✔️):</strong> Zorunlu eğitim dışında kalan yaygın eğitim (Halk Eğitimi Merkezleri, Olgunlaşma Enstitüleri) ve açık öğretim kurumlarının program ve kitaplarını hazırlayıp TTKB'ye sunar.<br>• <strong>C Şıkkı:</strong> <strong>Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü (Madde 308 ❌):</strong> Özel eğitim okulları, RAM ve BİLSEM programlarını hazırlar.<br>• <strong>D Şıkkı:</strong> <strong>Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü ❌:</strong> 7528 sayılı Öğretmenlik Mesleği Kanunu ve Millî Eğitim Akademisi düzenlemeleriyle mülga olmuş eski birim adıdır.<br>• <strong>E Şıkkı:</strong> <strong>Temel Eğitim Genel Müdürlüğü (Madde 304 ❌):</strong> Okul öncesi ve ilköğretim kademelerinin program ve ders kitaplarını hazırlayıp TTKB'ye sunar.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Hayat Boyu Öğrenme GM (Madde 309) Turnusol Kelimeleri:</strong><br>🔑 <code>Zorunlu eğitim dışında</code> + <code>Yaygın eğitim ve öğretim</code> + <code>Açık öğretim</code> + <code>Halk Eğitimi Merkezleri / Olgunlaşma Enstitüleri</code> = <strong>Hayat Boyu Öğrenme Genel Müdürlüğü</strong>.<br>🚨 <em>Dikkat:</em> Eğer soru kökünde <em>\"yaygın eğitim ve açık öğretimin <strong>bilgi ve iletişim teknolojileri yoluyla</strong> yürütülmesi\"</em> derse cevap <strong>YEĞİTEK (Md. 311/1-c)</strong> olur!"
   },
   {
     "id": "mevzuat_1cbk_quiz_q12",
+    "questionNumber": 12,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - ÖDSGM Görevleri",
-    "question": "Hangisi Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü görevleri arasında değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 312 - Ölçme, Değerlendirme ve Sınav Hizmetleri GM",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünün görevleri arasında yer almaz?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünün görevleri arasında yer almaz?",
     "options": [
-      "Merkezî sistemle yürütülen resmî ve özel yerleştirme, bitirme, karşılaştırma sınavlarını planlamak, uygulamak",
-      "Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak",
-      "Sınavlara ilişkin değerlendirme ve sonuç belgelerinin düzenlenmesi ile itirazların incelenmesi işlemlerini yürütmek",
-      "Ölçme ve değerlendirme teknikleri üzerine araştırmalar yapmak veya yaptırmak",
-      "Bakan tarafından verilen diğer görevleri yapmak"
+      {
+        "key": "A",
+        "text": "Merkezî sistemle yürütülen resmî ve özel yerleştirme, bitirme, karşılaştırma sınavlarını planlamak, uygulamak ve değerlendirmek"
+      },
+      {
+        "key": "B",
+        "text": "Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak"
+      },
+      {
+        "key": "C",
+        "text": "Sınavlara ilişkin değerlendirme ve sonuç belgelerinin düzenlenmesi ile itirazların incelenmesi işlemlerini yürütmek"
+      },
+      {
+        "key": "D",
+        "text": "Ölçme ve değerlendirme teknikleri üzerine araştırmalar yapmak veya yaptırmak"
+      },
+      {
+        "key": "E",
+        "text": "Bakan tarafından verilen diğer görevleri yapmak"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde iş birliği yapmak).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n'Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak' görevi Madde 313 uyarınca 'Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü'ne aittir; ÖDSGM'ye (Madde 312) ait değildir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, C ve D şıkları Ölçme, Değerlendirme ve Sınav Hizmetleri GM'nin asli kanuni görevleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nYükseköğretime Giriş Politikaları = Yükseköğretim ve Yurt Dışı Eğitim GM;\nMerkezi Sınavlar (LGS, bursluluk vb.) = ÖDSGM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 312 ve 313."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 312 (ÖDSGM) ve Madde 313/1-a (Yükseköğretim ve Yurt Dışı Eğitim GM):</strong> B şıkkında verilen <strong>\"Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak\"</strong> görevi ÖDSGM'ye değil, 1 Sayılı CBK <strong>Madde 313/1-a uyarınca Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğüne</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 312/1-a (ÖDSGM Görevi ✔️):</strong> Merkezî sistemle yürütülen resmî ve özel yerleştirme (LGS), bitirme (Açık Öğretim), karşılaştırma ve bursluluk (İOKBS) sınavlarını planlamak, uygulamak ve değerlendirmek ÖDSGM'nin asli görevidir.<br>• <strong>B Şıkkı:</strong> <strong>Madde 313/1-a (Yükseköğretim ve Yurt Dışı Eğitim GM Görevi — YANLIŞ / ÇELDİRİCİ ❌):</strong> <em>\"Sınav / giriş sistemi\"</em> kelimesi geçtiği için ÖDSGM sanılır; oysa cümlenin başındaki <strong>\"Yükseköğretime giriş sistemi\"</strong> ibaresi bu görevi doğrudan <strong>Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğüne</strong> bağlar!<br>• <strong>C Şıkkı:</strong> <strong>Madde 312/1-c (ÖDSGM Görevi ✔️):</strong> Sınavlara ilişkin değerlendirme, sonuç belgelerinin düzenlenmesi ve sınav itirazlarının incelenmesi işlemlerini yürütmek ÖDSGM'ye aittir.<br>• <strong>D Şıkkı:</strong> <strong>Madde 312/1-d (ÖDSGM Görevi ✔️):</strong> Ölçme ve değerlendirme teknikleri üzerine araştırmalar yapmak, soru bankaları ve ölçme araçları geliştirmek ÖDSGM'ye aittir.<br>• <strong>E Şıkkı:</strong> <strong>Madde 312/1-g (ÖDSGM Görevi ✔️):</strong> Bakan tarafından verilen diğer görevleri yapmak.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>ÖSYM'nin En Sevdiği Çeldirici:</strong><br>İçinde <em>\"giriş sistemi\"</em> geçiyor diye <strong>\"Yükseköğretime giriş sistemine ilişkin usul ve esaslar\"</strong> (YKS/YÖK koordinasyonu) ifadesini sakın Ölçme, Değerlendirme ve Sınav Hizmetleri GM ile karıştırmayın! Başında <strong>Yükseköğretim</strong> yazdığı için sahibi <strong>Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğüdür (Madde 313/1-a)</strong>."
   },
   {
     "id": "mevzuat_1cbk_quiz_q13",
+    "questionNumber": 13,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Yükseköğretim ve Yurt Dışı Eğitim GM",
-    "question": "Hangisi Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü görevlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 313 - Yükseköğretim ve Yurt Dışı Eğitim GM",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünün görevlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünün görevlerinden biri değildir?",
     "options": [
-      "Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak",
-      "Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek, yurda dönüşlerinde eğitim sistemimize uyumlarını sağlamak amacıyla gerekli tedbirleri almak",
-      "Bakanlığın yurt dışındaki okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç ve gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kurulunun görüşüne sunmak",
-      "Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak"
+      {
+        "key": "A",
+        "text": "Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili birim, kurum ve kuruluşlarla iş birliği yapmak"
+      },
+      {
+        "key": "B",
+        "text": "Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek, yurda dönüşlerinde eğitim sistemimize uyumlarını sağlamak amacıyla gerekli tedbirleri almak"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlığın yurt dışındaki okul ve kurumlarının eğitim ve öğretim programlarını, ders kitaplarını, eğitim araç ve gereçlerini hazırlamak veya hazırlatmak ve Talim ve Terbiye Kurulunun görüşüne sunmak"
+      },
+      {
+        "key": "D",
+        "text": "Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak"
+      },
+      {
+        "key": "E",
+        "text": "8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun hükümlerine dayalı olarak yürütülen iş ve işlemleri yapmak"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (Uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nBakanlığın diğer birimleri tarafından yürütülen uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak Madde 314 uyarınca 'Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü'nün görevidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B ve C seçenekleri Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü'nün Madde 313'te sayılan görevleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nUluslararası Proje Koordinasyonu ve AB Fonları = AB ve Dış İlişkiler GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 313 ve Madde 314."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 313 (Yükseköğretim ve Yurt Dışı Eğitim GM) ve Madde 314/1-a (AB ve Dış İlişkiler GM):</strong> D şıkkında yer alan <strong>\"Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak\"</strong> görevi Yükseköğretim ve Yurt Dışı Eğitim GM'ye değil, <strong>Madde 314/1-a uyarınca Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğüne</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 313/1-a (Doğru Görev ✔️):</strong> Yükseköğretime giriş sistemine ilişkin usul ve esasların belirlenmesinde ilgili kurumlarla (YÖK, ÖSYM) iş birliği yapmak.<br>• <strong>B Şıkkı:</strong> <strong>Madde 313/1-c (Doğru Görev ✔️):</strong> Yurt dışında bulunan <strong>Türk vatandaşlarımızın</strong> eğitim ve öğretim hizmetlerini yürütmek ve yurda dönüşlerinde uyum tedbirlerini almak.<br>• <strong>C Şıkkı:</strong> <strong>Madde 313/1-ç (Doğru Görev ✔️):</strong> Bakanlığın yurt dışındaki okul ve kurumlarının (Türk okulları) program ve ders kitaplarını hazırlayıp TTKB görüşüne sunmak.<br>• <strong>D Şıkkı:</strong> <strong>Madde 314/1-a (AB ve Dış İlişkiler GM Görevi — YANLIŞ / ÇELDİRİCİ ❌):</strong> Uluslararası işbirliğine dayanan projelerin (AB, Dünya Bankası, ikili anlaşmalar) koordinasyonunu sağlamak <strong>Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün</strong> görevidir.<br>• <strong>E Şıkkı:</strong> <strong>Madde 313/1-b (Doğru Görev ✔️):</strong> <strong>1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun</strong> (YLSY yurt dışı lisansüstü bursları) işlemlerini yürütmek.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Gökhan Hoca Turnusol Şifresi (Yükseköğretim ve Yurt Dışı GM vs. AB ve Dış İlişkiler GM):</strong><br>• <strong>\"MEMLEKET\" & \"VATANDAŞIMIZ\" Şifresi:</strong> <code>1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Kanunu</code>, <code>Yurt dışındaki Türk vatandaşlarımızın eğitimi</code>, <code>Yurt dışındaki MEB okulları</code> ➔ <strong>Yükseköğretim ve Yurt Dışı Eğitim GM (Md. 313)</strong><br>• <strong>\"YABANCI HÜKÜMET\" & \"ULUSLARARASI PROJE\" Şifresi:</strong> <code>Uluslararası işbirliği projeleri</code>, <code>AB programları</code>, <code>Yabancı hükümet bursları ve ülkemize gelen yabancı uyruklu öğrenciler</code> ➔ <strong>AB ve Dış İlişkiler GM (Md. 314)</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q14",
+    "questionNumber": 14,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - AB ve Dış İlişkiler GM",
-    "question": "Hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü görevlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 314 - Avrupa Birliği ve Dış İlişkiler GM",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün görevlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün görevlerinden biri değildir?",
     "options": [
-      "Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak",
-      "Yabancı hükümet ve kuruluşlardan sağlanan veya ülkemiz tarafından yabancılara verilen burslarla, kendi hesabına öğrenim yapmak üzere ülkemize gelen yabancı uyruklu öğrencilere ilişkin görev ve hizmetleri yerine getirmek",
-      "Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek, yurda dönüşlerinde eğitim sistemimize uyumlarını sağlamak amacıyla gerekli tedbirleri almak",
-      "Eğitim ve öğretim alanında ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle işbirliğine yönelik işleri yürütmek"
+      {
+        "key": "A",
+        "text": "Bakanlığın diğer birimleri tarafından yürütülen ve uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak"
+      },
+      {
+        "key": "B",
+        "text": "Yabancı hükümet ve kuruluşlardan sağlanan veya ülkemiz tarafından yabancılara verilen burslarla, kendi hesabına öğrenim yapmak üzere ülkemize gelen yabancı uyruklu öğrencilere ilişkin görev ve hizmetleri yerine getirmek"
+      },
+      {
+        "key": "C",
+        "text": "Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek, yurda dönüşlerinde eğitim sistemimize uyumlarını sağlamak amacıyla gerekli tedbirleri almak"
+      },
+      {
+        "key": "D",
+        "text": "Eğitim ve öğretim alanında ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile diğer ülkelerle işbirliğine yönelik işleri yürütmek"
+      },
+      {
+        "key": "E",
+        "text": "Uluslararası kuruluşlarla ve diğer ülkelerle eğitim ve öğretim alanındaki ilişkileri yürütmek, ikili veya çok taraflı anlaşma ve protokollere ilişkin çalışmaları koordine etmek"
+      }
     ],
     "correctAnswer": "C",
-    "explanation": "C seçeneğidir (Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nYurt dışındaki vatandaşlarımızın eğitimi ve yurda dönüş uyum tedbirleri Madde 313/1-b bendi uyarınca 'Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü'nün görevidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B ve D şıkları AB ve Dış İlişkiler GM'nin (Madde 314) görevleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nYurt dışındaki Türk vatandaşları eğitimi = Yükseköğretim ve Yurt Dışı Eğitim GM;\nYabancı öğrencilerin bursları = AB ve Dış İlişkiler GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 313 ve Madde 314."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek, yurda dönüşlerinde eğitim sistemimize uyumlarını sağlamak amacıyla gerekli tedbirleri almak)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 314 (AB ve Dış İlişkiler GM) ve Madde 313/1-c (Yükseköğretim ve Yurt Dışı Eğitim GM):</strong> C şıkkındaki <strong>\"Yurt dışında bulunan vatandaşlarımızın eğitim ve öğretim hizmetlerini yürütmek, yurda dönüşlerinde eğitim sistemimize uyumlarını sağlamak\"</strong> görevi AB ve Dış İlişkiler GM'ye değil, <strong>Madde 313/1-c uyarınca Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğüne</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 314/1-a (AB ve Dış İlişkiler GM Görevi ✔️):</strong> Bakanlığın diğer birimleri tarafından yürütülen uluslararası işbirliğine dayanan projelerin koordinasyonunu sağlamak.<br>• <strong>B Şıkkı:</strong> <strong>Madde 314/1-d (AB ve Dış İlişkiler GM Görevi ✔️):</strong> <em>Yabancı hükümet ve kuruluşlardan</em> sağlanan burslarla veya kendi hesabına <em>ülkemize gelen yabancı uyruklu öğrencilere</em> ilişkin görev ve hizmetleri yerine getirmek.<br>• <strong>C Şıkkı:</strong> <strong>Madde 313/1-c (Yükseköğretim ve Yurt Dışı Eğitim GM Görevi — YANLIŞ / ÇELDİRİCİ ❌):</strong> Yurt dışında yaşayan <strong>Türk vatandaşlarımızın</strong> eğitimi ve yurda dönüş uyumları <strong>Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünün</strong> görevidir.<br>• <strong>D Şıkkı:</strong> <strong>Madde 314/1-c (AB ve Dış İlişkiler GM Görevi ✔️):</strong> Eğitim ve öğretim alanında ülkemizle dil, tarih veya kültür birliği bulunan ülke ve topluluklar ile işbirliğine yönelik işleri yürütmek.<br>• <strong>E Şıkkı:</strong> <strong>Madde 314/1-b (AB ve Dış İlişkiler GM Görevi ✔️):</strong> Uluslararası kuruluşlarla ve Avrupa Birliği ile eğitim-öğretim ilişkilerini ve ikili protokolleri yürütmek.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Burs ve Öğrenci Yönü Turnusolü:</strong><br>• <strong>Bizim vatandaşımız / talebemiz yurt dışına gidiyorsa</strong> (1416 sayılı Kanun veya gurbetçi vatandaşlarımızın çocukları) ➔ <strong>Yükseköğretim ve Yurt Dışı Eğitim GM (Md. 313)</strong><br>• <strong>Yabancı uyruklu öğrenci ülkemize geliyorsa veya yabancı hükümet bursu varsa</strong> ➔ <strong>Avrupa Birliği ve Dış İlişkiler GM (Md. 314)</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q15",
+    "questionNumber": 15,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Hukuk Hizmetleri GM",
-    "question": "659 sayılı Kanun Hükmünde Kararname hükümlerine göre hukuk birimlerine verilen görevleri yapmak, hangi birimin görevidir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 317 - Hukuk Hizmetleri Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "26/9/2011 tarihli ve 659 sayılı Kanun Hükmünde Kararname hükümlerine göre hukuk birimlerine verilen görevleri yapmak, aşağıdaki birimlerden hangisinin görevidir?",
+    "questionText": "26/9/2011 tarihli ve 659 sayılı Kanun Hükmünde Kararname hükümlerine göre hukuk birimlerine verilen görevleri yapmak, aşağıdaki birimlerden hangisinin görevidir?",
     "options": [
-      "Destek Hizmetleri Genel Müdürlüğü",
-      "Bilgi İşlem Genel Müdürlüğü",
-      "Bilgi İşlem Dairesi Başkanlığı",
-      "Özel Kalem Müdürlüğü",
-      "Hukuk Hizmetleri Genel Müdürlüğü"
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Özel Kalem Müdürlüğü"
+      },
+      {
+        "key": "E",
+        "text": "Hukuk Hizmetleri Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "E",
-    "explanation": "E seçeneğidir (Hukuk Hizmetleri Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 317 uyarınca 659 sayılı KHK hükümlerine göre Bakanlık hukuk danışmanlığı, muhakemat ve dava takip hizmetleri Hukuk Hizmetleri Genel Müdürlüğü tarafından yürütülür.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nHukuki ihtilaflar ve 659 sayılı KHK doğrudan Hukuk Hizmetleri GM'yi bağlar.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\n659 sayılı KHK + Dava/Uyuşmazlık Takibi = Hukuk Hizmetleri Genel Müdürlüğü.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 317."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Hukuk Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 317/1-a (Hukuk Hizmetleri Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 317/1-a'da tek ve net bir cümleyle; <strong>\"26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname hükümlerine göre hukuk birimlerine verilen görevleri yapmak\"</strong> hükmü <strong>Hukuk Hizmetleri Genel Müdürlüğüne</strong> verilmiştir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Destek Hizmetleri Genel Müdürlüğü (Madde 319 ❌):</strong> 5018 sayılı Kanun kapsamında destek, taşınır, arşiv, döner sermaye ve ders kitabı basım-dağıtım işlerini yürütür.<br>• <strong>B Şıkkı:</strong> <strong>Bilgi İşlem Genel Müdürlüğü (Madde 318 ❌):</strong> MEBBİS, e-Okul, veri tabanı ve bilişim altyapısı işlerini yürütür.<br>• <strong>C Şıkkı:</strong> <strong>Teftiş Kurulu Başkanlığı (Madde 322 ❌):</strong> Bakan adına rehberlik, denetim, inceleme ve soruşturma görevlerini yürütür; adli/idari davalarda avukatlık/muhakemat hizmeti vermez.<br>• <strong>D Şıkkı:</strong> <strong>Özel Kalem Müdürlüğü (Madde 326 ❌):</strong> Bakanın çalışma programını, protokol ve resmi/özel yazışmalarını düzenler.<br>• <strong>E Şıkkı:</strong> <strong>Hukuk Hizmetleri Genel Müdürlüğü (Madde 317 — DOĞRU ✔️):</strong> 659 sayılı KHK uyarınca Bakanlığın taraf olduğu adli ve idari davalarda, icra takiplerinde Bakanlığı temsil etmek ve hukuki mütalaa (görüş) vermek bu birimin görevidir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Kanun Numarası — Birim Eşleştirme Şifresi:</strong><br>• <code>3308 sayılı Kanun</code> ➔ <strong>Mesleki ve Teknik Eğitim GM (Md. 306)</strong><br>• <code>5580 sayılı Kanun</code> ➔ <strong>Özel Öğretim Kurumları GM (Md. 310)</strong><br>• <code>1416 sayılı Kanun</code> ➔ <strong>Yükseköğretim ve Yurt Dışı Eğitim GM (Md. 313)</strong><br>• <code>659 sayılı KHK</code> ➔ <strong>Hukuk Hizmetleri GM (Md. 317)</strong><br>• <code>5018 ve 5436 sayılı Kanunlar</code> ➔ <strong>Strateji Geliştirme Başkanlığı (Md. 323)</strong><br>• <code>4982 sayılı Bilgi Edinme Hakkı Kanunu</code> ➔ <strong>Basın ve Halkla İlişkiler Müşavirliği (Md. 325)</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q16",
+    "questionNumber": 16,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Destek Hizmetleri GM",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 319 - Destek Hizmetleri Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek, hangi birimin görevidir?",
+    "questionText": "Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek, hangi birimin görevidir?",
     "options": [
-      "Destek Hizmetleri Genel Müdürlüğü",
-      "Bilgi İşlem Genel Müdürlüğü",
-      "İnşaat ve Emlak Genel Müdürlüğü",
-      "Strateji Geliştirme Başkanlığı",
-      "İnşaat ve Emlak Dairesi Başkanlığı"
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Mesleki ve Teknik Eğitim Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Destek Hizmetleri Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 319/1-b bendi gereğince; 'Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek' Destek Hizmetleri Genel Müdürlüğü'nün görevidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nStrateji Geliştirme mali saydamlık ve bütçe ile ilgilenirken, döner sermaye işletmelerinin kuruluşu ve işletilmesi Destek Hizmetleri'ne verilmiştir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nDöner Sermaye İşletmeleri + Ders Kitapları Basımı/Dağıtımı + Taşınır Mal = Destek Hizmetleri GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 319."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Destek Hizmetleri Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 319/1-e (Destek Hizmetleri Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 319/1-e bendinde açıkça; <strong>\"Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek\"</strong> görevi <strong>Destek Hizmetleri Genel Müdürlüğüne</strong> verilmiştir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Destek Hizmetleri Genel Müdürlüğü (Madde 319/1-e — DOĞRU ✔️):</strong> Döner sermaye işletmeleri, öğretmenevleri, akşam sanat okulları (ASO), sosyal tesisler, ders kitaplarının basımı-dağıtımı, taşınır mal ve genel evrak-arşiv işleri Destek Hizmetleri Genel Müdürlüğünün görevidir.<br>• <strong>B Şıkkı:</strong> <strong>Bilgi İşlem Genel Müdürlüğü (Madde 318 ❌):</strong> Bilişim altyapısı, MEBBİS, e-Okul ve veri tabanı hizmetlerini yürütür.<br>• <strong>C Şıkkı:</strong> <strong>İnşaat ve Emlak Genel Müdürlüğü (Madde 320 ❌):</strong> Arsa temini, kamulaştırma, okul bina inşaatı ve büyük onarım işlerini yürütür.<br>• <strong>D Şıkkı:</strong> <strong>Strateji Geliştirme Başkanlığı (Madde 323 — GÜÇLÜ ÇELDİRİCİ ❌):</strong> <em>\"Sermaye / mali işler\"</em> kelimesi yüzünden SGB sanılabilir; ancak SGB genel bütçe ve stratejik plan hazırlığını yapar, döner sermaye işletmelerini kuran ve yürüten birim <strong>Destek Hizmetleri GM</strong>'dir.<br>• <strong>E Şıkkı:</strong> <strong>Mesleki ve Teknik Eğitim Genel Müdürlüğü (Madde 306 ❌):</strong> Meslek liselerinde üretim yapılsa da Bakanlık düzeyinde döner sermaye işletmesi kurma ve koordine etme yetkisi Destek Hizmetleri GM'dedir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Destek Hizmetleri GM (Madde 319) \"Para Kazanan & Lojistik Kurumlar\" Şifresi:</strong><br>🔑 <code>Döner Sermaye İşletmeleri</code> + <code>Öğretmenevleri</code> + <code>Akşam Sanat Okulları (ASO)</code> + <code>Ders kitaplarının BASIMI ve DAĞITIMI</code> + <code>Taşımalı eğitim ve öğle yemeği</code> + <code>Genel evrak ve arşiv</code> + <code>5018 kapsamındaki satın alma, kiralama, temizlik, güvenlik</code> = <strong>Destek Hizmetleri Genel Müdürlüğü!</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q17",
+    "questionNumber": 17,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Destek Hizmetleri GM",
-    "question": "Hangisi Destek Hizmetleri Genel Müdürlüğü görevlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 319 - Destek Hizmetleri Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Destek Hizmetleri Genel Müdürlüğünün görevlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Destek Hizmetleri Genel Müdürlüğünün görevlerinden biri değildir?",
     "options": [
-      "Bakanlığın taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek",
-      "Genel evrak ve arşiv faaliyetlerini düzenlemek ve yürütmek",
-      "Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek",
-      "Bakan tarafından verilen diğer görevleri yapmak",
-      "Eğitim faaliyetleri ile ilgili dokümantasyon, yayım ve arşiv hizmetlerini yürütmek"
+      {
+        "key": "A",
+        "text": "Bakanlığın taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek"
+      },
+      {
+        "key": "B",
+        "text": "Genel evrak ve arşiv faaliyetlerini düzenlemek ve yürütmek"
+      },
+      {
+        "key": "C",
+        "text": "Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek"
+      },
+      {
+        "key": "D",
+        "text": "Bakan tarafından verilen diğer görevleri yapmak"
+      },
+      {
+        "key": "E",
+        "text": "Eğitim faaliyetleri ile ilgili dokümantasyon, yayım ve arşiv hizmetlerini yürütmek"
+      }
     ],
     "correctAnswer": "E",
-    "explanation": "E seçeneğidir (Eğitim faaliyetleri ile ilgili dokümantasyon, yayım ve arşiv hizmetlerini yürütmek).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nEğitim faaliyetleri ile ilgili dokümantasyon ve yayım hizmetleri Talim ve Terbiye Kurulu Başkanlığı ve ilgili birimlerin sorumluluğundadır. Destek Hizmetleri ise 'Genel evrak ve arşiv' faaliyetlerini yürütür.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B, C ve D fıkraları Destek Hizmetleri Genel Müdürlüğü'nün doğrudan Madde 319'daki görevleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nGenel Evrak ve İdari Arşiv = Destek Hizmetleri GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 319."
+    "explanation": "✅ <strong>Doğru Cevap: E</strong> (Eğitim faaliyetleri ile ilgili dokümantasyon, yayım ve arşiv hizmetlerini yürütmek)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 319 (Destek Hizmetleri Genel Müdürlüğü Görevleri):</strong> Destek Hizmetleri Genel Müdürlüğü Madde 319/1-c uyarınca Bakanlığın idari nitelikteki <strong>\"Genel evrak ve arşiv faaliyetlerini\"</strong> düzenler ve yürütür. E şıkkındaki <strong>\"Eğitim faaliyetleri ile ilgili dokümantasyon, yayım ve arşiv hizmetlerini yürütmek\"</strong> ibaresi ise Destek Hizmetleri GM'nin görev maddesinde yer almaz (eğitsel yayım ve dokümantasyon hizmetleri TTKB ve ilgili öğretim/teknoloji birimlerinin görev alanındadır).<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 319/1-b (Doğru Görev ✔️):</strong> Bakanlığın taşınır ve taşınmazlarına ilişkin işlemleri (taşınır kayıt kontrol, ambar, demirbaş) ilgili mevzuat çerçevesinde yürütmek.<br>• <strong>B Şıkkı:</strong> <strong>Madde 319/1-c (Doğru Görev ✔️):</strong> <strong>Genel evrak ve arşiv</strong> faaliyetlerini düzenlemek ve yürütmek.<br>• <strong>C Şıkkı:</strong> <strong>Madde 319/1-e (Doğru Görev ✔️):</strong> Döner sermaye işletmesi kurmak ve Bakanlığa bağlı döner sermaye işletmeleri ile ilgili işleri yürütmek.<br>• <strong>D Şıkkı:</strong> <strong>Madde 319/1-ğ (Doğru Görev ✔️):</strong> Bakan tarafından verilen diğer görevleri yapmak.<br>• <strong>E Şıkkı:</strong> <strong>YANLIŞ / ÇELDİRİCİ ❌:</strong> Destek Hizmetleri GM <em>\"eğitim faaliyetleri ile ilgili dokümantasyon ve yayım\"</em> yapmaz; yalnızca örgün ve yaygın eğitim için <strong>TTKB tarafından kabul edilen basılı eğitim malzemelerinin (ders kitaplarının) basım ve dağıtım</strong> işlemlerini (Madde 319/1-ç) ve <strong>genel evrak/arşiv</strong> faaliyetlerini yürütür.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>İnce Kelime Tuzağı:</strong><br>• <code>Genel evrak ve arşiv faaliyetlerini yürütmek</code> ➔ <strong>Destek Hizmetleri GM (Md. 319/1-c) ✔️</strong><br>• <code>Ders kitaplarını basmak ve dağıtmak</code> ➔ <strong>Destek Hizmetleri GM (Md. 319/1-ç) ✔️</strong><br>• <code>Eğitim dokümantasyon ve yayım hizmetleri</code> ➔ Destek Hizmetleri GM'nin görevi <strong>değildir ❌</strong>!"
   },
   {
     "id": "mevzuat_1cbk_quiz_q18",
+    "questionNumber": 18,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Bilgi İşlem GM",
-    "question": "Hangisi Bilgi İşlem Genel Müdürlüğü görevlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 318 - Bilgi İşlem Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Bilgi İşlem Genel Müdürlüğünün görevlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Bilgi İşlem Genel Müdürlüğünün görevlerinden biri değildir?",
     "options": [
-      "Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin kullanılmasına yönelik çalışmalar yürütmek",
-      "Bakanlık birimleri ile taşra teşkilatının bilgi işlem ve otomasyon ihtiyacını karşılamak ve işletimini sağlamak, Bakanlığın bilgi işlem hizmetlerini yürütmek",
-      "Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak",
-      "Bakanlığın internet sayfaları, elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e-okul uygulamaları ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek"
+      {
+        "key": "A",
+        "text": "Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin kullanılmasına yönelik çalışmalar yürütmek"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlık birimleri ile taşra teşkilatının bilgi işlem ve otomasyon ihtiyacını karşılamak ve işletimini sağlamak, Bakanlığın bilgi işlem hizmetlerini yürütmek"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak"
+      },
+      {
+        "key": "D",
+        "text": "Bakanlığın internet sayfaları, elektronik imza ve elektronik belge uygulamaları, bilişim sistemleri (MEBBİS), e-okul uygulamaları ile yapay zekâ, büyük veri ve makine öğrenmesi konusundaki çalışmaları yürütmek"
+      },
+      {
+        "key": "E",
+        "text": "Bakanlık projelerinin Bakanlık bilişim altyapısına uygun olarak tasarlanmasını ve uygulanmasını sağlamak, teknolojik gelişmeleri takip etmek ve bilgi güvenliği ve güvenilirliği konusunun gerektirdiği önlemleri almak"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Eğitim ve öğretim faaliyetlerinde bilişim teknolojilerinin kullanılmasına yönelik çalışmalar yürütmek).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n'Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin kullanılması...' görevi Madde 311 uyarınca Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü'ne (YEĞİTEK) aittir. Bilgi İşlem GM (Madde 318) ise MEBBİS, e-okul, sunucu altyapısı, ağ güvenliği ve veri tabanları ile ilgilenir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nB, C ve D seçenekleri Bilgi İşlem GM'nin doğrudan görevleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nEğitim-Öğretimde Bilişim = YEĞİTEK;\nİdari Otomasyon, MEBBİS, Veri Tabanı = Bilgi İşlem GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 311 ve Madde 318."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin kullanılmasına yönelik çalışmalar yürütmek)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 318 (Bilgi İşlem GM) ve Madde 311/1-b (YEĞİTEK):</strong> A şıkkındaki <strong>\"Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri ile bilişim ürünlerinin kullanılmasına yönelik çalışmalar yürütmek\"</strong> görevi Bilgi İşlem Genel Müdürlüğüne değil, <strong>Madde 311/1-b uyarınca Yenilik ve Eğitim Teknolojileri Genel Müdürlüğüne (YEĞİTEK)</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 311/1-b (YEĞİTEK Görevi — YANLIŞ / ÇELDİRİCİ ❌):</strong> Cümlenin başında <strong>\"Eğitim ve öğretim faaliyetlerinde bilişim teknolojileri...\"</strong> dediği için bu görev doğrudan <strong>YEĞİTEK</strong>'e aittir!<br>• <strong>B Şıkkı:</strong> <strong>Madde 318/1-a (Bilgi İşlem GM Görevi ✔️):</strong> Bakanlık birimleri ile taşra teşkilatının bilgi işlem ve otomasyon ihtiyacını karşılamak ve işletimini sağlamak.<br>• <strong>C Şıkkı:</strong> <strong>Madde 318/1-c (Bilgi İşlem GM Görevi ✔️):</strong> Bakanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde <strong>veri tabanları oluşturmak</strong>.<br>• <strong>D Şıkkı:</strong> <strong>Madde 318/1-b (Bilgi İşlem GM Görevi ✔️):</strong> Bakanlığın internet sayfaları, <strong>elektronik imza, elektronik belge (EBYS), MEBBİS, e-Okul</strong> uygulamalarını yürütmek.<br>• <strong>E Şıkkı:</strong> <strong>Madde 318/1-ç (Bilgi İşlem GM Görevi ✔️):</strong> Bakanlık projelerinin <strong>bilişim altyapısına</strong> uygunluğunu sağlamak ve kurumsal bilgi güvenliği/siber altyapı önlemlerini almak.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>10 Saniyede Çözüm Şifresi:</strong><br>• Cümle <strong>\"Eğitim ve öğretim faaliyetlerinde bilişim...\"</strong> diye başlıyorsa ➔ <strong>YEĞİTEK (Md. 311)</strong><br>• Cümle <strong>\"Bakanlık birimleri / taşra otomasyonu / veri tabanı / MEBBİS / e-Okul / e-İmza\"</strong> diyorsa ➔ <strong>Bilgi İşlem GM (Md. 318)</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q19",
+    "questionNumber": 19,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - İnşaat ve Emlak GM",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 320 - İnşaat ve Emlak Genel Müdürlüğü",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "Okul ve eğitim yerleşkesi gibi eğitim tesislerinin okul ve eğitim tesisi olarak kullanılmak kaydıyla gerçek kişilere veya özel hukuk tüzel kişilerine kiralanmasına ilişkin işleri yürütmek, hangi birimin görevidir?",
+    "questionText": "Okul ve eğitim yerleşkesi gibi eğitim tesislerinin okul ve eğitim tesisi olarak kullanılmak kaydıyla gerçek kişilere veya özel hukuk tüzel kişilerine kiralanmasına ilişkin işleri yürütmek, hangi birimin görevidir?",
     "options": [
-      "Destek Hizmetleri Genel Müdürlüğü",
-      "Strateji Geliştirme Başkanlığı",
-      "İnşaat ve Emlak Genel Müdürlüğü",
-      "Teftiş Kurulu Başkanlığı",
-      "İnşaat ve Emlak Dairesi Başkanlığı"
+      {
+        "key": "A",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "D",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "İnşaat ve Emlak Dairesi Başkanlığı"
+      }
     ],
     "correctAnswer": "C",
-    "explanation": "C seçeneğidir (İnşaat ve Emlak Genel Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 320/1-c bendi uyarınca eğitim yerleşkesi ve eğitim tesislerinin kiralanması, kamulaştırılması, arsa temini ve bina tahsisi işleri İnşaat ve Emlak Genel Müdürlüğü tarafından yürütülür.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nE seçeneğinde Dairesi Başkanlığı denilerek yanıltma yapılmıştır; birim Genel Müdürlük düzeyindedir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nArsa, Kamulaştırma, Eğitim Tesislerinin Kiralanması = İnşaat ve Emlak GM.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 320."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (İnşaat ve Emlak Genel Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 320/1-c (İnşaat ve Emlak Genel Müdürlüğü):</strong> 1 Sayılı CBK Madde 320/1-c bendinde; <strong>\"Okul ve eğitim yerleşkesi gibi eğitim tesislerinin okul ve eğitim tesisi olarak kullanılmak kaydıyla gerçek kişilere veya özel hukuk tüzel kişilerine kiralanmasına ilişkin işleri yürütmek\"</strong> görevi doğrudan <strong>İnşaat ve Emlak Genel Müdürlüğüne</strong> verilmiştir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Destek Hizmetleri Genel Müdürlüğü (Madde 319 ❌):</strong> 5018 sayılı Kanun kapsamında günlük idari kiralama/satın alma (araç kiralama, fotokopi, temizlik vb.) ve döner sermaye işlerini yürütür; eğitim yerleşkelerinin/kampüslerinin özel tüzel kişilere kiralanması ve Hazinece karşılanması işlemleri İnşaat ve Emlak GM'ye aittir.<br>• <strong>B Şıkkı:</strong> <strong>Strateji Geliştirme Başkanlığı (Madde 323 ❌):</strong> Bütçe ve stratejik plan işlemlerini yürütür.<br>• <strong>C Şıkkı:</strong> <strong>İnşaat ve Emlak Genel Müdürlüğü (Madde 320/1-c — DOĞRU ✔️):</strong> Okul binaları ve eğitim yerleşkelerinin arsa temini, kamulaştırma, yapım, büyük onarım ve eğitim tesisi olarak kiralanması işlemlerini yürütür.<br>• <strong>D Şıkkı:</strong> <strong>Teftiş Kurulu Başkanlığı (Madde 322 ❌):</strong> Rehberlik, denetim ve soruşturma işlemlerini yürütür.<br>• <strong>E Şıkkı:</strong> <strong>İnşaat ve Emlak Dairesi Başkanlığı (UNVAN TUZAĞI ❌):</strong> Birimin yasal adı Daire Başkanlığı değil, <strong>İnşaat ve Emlak Genel Müdürlüğü</strong>dür!<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>İnşaat ve Emlak GM (Madde 320) Turnusol Kelimeleri:</strong><br>🔑 <code>Arsa ve arazi temini</code> + <code>Kamulaştırma</code> + <code>Okul ve eğitim yerleşkesi yapımı / büyük onarımı</code> + <code>Eğitim tesislerinin kiralanması</code> + <code>Taşınmaz bağışları ve ayni hak tesisi</code> = <strong>İnşaat ve Emlak Genel Müdürlüğü</strong>."
   },
   {
     "id": "mevzuat_1cbk_quiz_q20",
+    "questionNumber": 20,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - TTKB Görevleri",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 321 - Talim ve Terbiye Kurulu Başkanlığı (TTKB)",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
     "question": "Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek veya inceletmek, araştırmak, geliştirmek ve uygulamaya ilişkin görüşlerini Bakana sunmak, hangi birimin görevidir?",
+    "questionText": "Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek veya inceletmek, araştırmak, geliştirmek ve uygulamaya ilişkin görüşlerini Bakana sunmak, hangi birimin görevidir?",
     "options": [
-      "Teftiş Kurulu Başkanlığı",
-      "Talim ve Terbiye Kurulu Başkanlığı",
-      "Strateji Geliştirme Başkanlığı",
-      "Bilgi İşlem Dairesi Başkanlığı",
-      "Bilgi İşlem Genel Müdürlüğü"
+      {
+        "key": "A",
+        "text": "Teftiş Kurulu Başkanlığı"
+      },
+      {
+        "key": "B",
+        "text": "Talim ve Terbiye Kurulu Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "Bilgi İşlem Dairesi Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Bilgi İşlem Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Talim ve Terbiye Kurulu Başkanlığı).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 321/1-a bendi uyarınca öğretim programlarını incelemek, ders kitaplarını onaylamak veya hazırlatmak ve Bakana sunmak Bakanlığın en yüksek bilimsel danışma ve karar organı olan Talim ve Terbiye Kurulu Başkanlığı'nın görevidir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nTeftiş Kurulu denetim yapar, TTKB ise müfredat ve ders kitaplarını onaylar/geliştirir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nDers Kitapları İnceleme + Müfredat Onayı + Şûra = Talim ve Terbiye Kurulu Başkanlığı.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 321."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Talim ve Terbiye Kurulu Başkanlığı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 321/1-b (Talim ve Terbiye Kurulu Başkanlığı):</strong> 1 Sayılı CBK Madde 321/1-b hükmüne göre; <strong>\"Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek veya inceletmek, araştırmak, geliştirmek ve uygulamaya ilişkin görüşlerini Bakana sunmak\"</strong> görevi Bakanlığın bilimsel danışma ve inceleme organı olan <strong>Talim ve Terbiye Kurulu Başkanlığına (TTKB)</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Teftiş Kurulu Başkanlığı (Madde 322 ❌):</strong> Bakanın emri veya onayı üzerine rehberlik, denetim, inceleme ve soruşturma yapar; ders kitaplarını ve öğretim programlarını inceleyip Bakana sunmaz.<br>• <strong>B Şıkkı:</strong> <strong>Talim ve Terbiye Kurulu Başkanlığı (Madde 321/1-b — DOĞRU ✔️):</strong> Evrensel değerler ile <strong>kalite, eşitlik ve etkililik</strong> ilkeleri doğrultusunda milli eğitim sisteminin genel hedeflerini, öğretim plan-programlarını ve ders kitaplarını inceleyip <strong>Bakana sunan</strong> en üst bilimsel kuruldur.<br>• <strong>C Şıkkı:</strong> <strong>Strateji Geliştirme Başkanlığı (Madde 323 ❌):</strong> Mali yönetim, bütçe ve stratejik planlama görevlerini yürütür.<br>• <strong>D Şıkkı:</strong> <strong>Bilgi İşlem Dairesi Başkanlığı ❌:</strong> Böyle bir birim adı yoktur (Genel Müdürlüktür).<br>• <strong>E Şıkkı:</strong> <strong>Bilgi İşlem Genel Müdürlüğü (Madde 318 ❌):</strong> Bilişim sistemleri, MEBBİS ve veri tabanı işlerini yürütür.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Gökhan Hoca En Büyük Turnusol Şifresi (\"BAKANA SUNMAK\"):</strong><br>• Öğretim genel müdürlükleri (Temel Eğitim, Ortaöğretim, Mesleki, Din Öğretimi, Hayat Boyu) program ve kitapları hazırlayıp <strong>\"Talim ve Terbiye Kuruluna sunar\"</strong>.<br>• <strong>Talim ve Terbiye Kurulu (TTKB)</strong> ise bunları inceleyip <strong>\"BAKANA SUNAR\"</strong>! Cümlenin sonunda <code>...görüşlerini Bakana sunmak</code> görürseniz cevap %100 <strong>Talim ve Terbiye Kurulu Başkanlığıdır!</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q21",
+    "questionNumber": 21,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Teftiş Kurulu Başkanlığı",
-    "question": "Hangisi Teftiş Kurulu Başkanlığı görevlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 322 - Teftiş Kurulu Başkanlığı",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Teftiş Kurulu Başkanlığının görevlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Teftiş Kurulu Başkanlığının görevlerinden biri değildir?",
     "options": [
-      "Eğitim müfettişlerinin çalışmalarının koordinasyonu ile rehberlik ve denetim hizmetlerinin yürütülmesinde bütünlüğü sağlamak",
-      "Bakanlığın görev alanına giren konularda Bakanlık personeline, Bakanlık okul ve kurumlarına, özel öğretim kurumlarına ve gerçek ve tüzel kişilere rehberlik etmek",
-      "Bakanlığın görev alanına giren konularda faaliyet gösteren kamu kurum ve kuruluşları, gerçek ve tüzel kişiler ile gönüllü kuruluşlara, faaliyetlerinde yol gösterecek plan ve programlar oluşturmak ve rehberlik etmek",
-      "Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek veya inceletmek, araştırmak, geliştirmek ve uygulamaya ilişkin görüşlerini Bakana sunmak"
+      {
+        "key": "A",
+        "text": "Eğitim müfettişlerinin çalışmalarının koordinasyonu ile rehberlik ve denetim hizmetlerinin yürütülmesinde bütünlüğü sağlamak"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlığın görev alanına giren konularda Bakanlık personeline, Bakanlık okul ve kurumlarına, özel öğretim kurumlarına ve gerçek ve tüzel kişilere rehberlik etmek"
+      },
+      {
+        "key": "C",
+        "text": "Bakanlığın görev alanına giren konularda faaliyet gösteren kamu kurum ve kuruluşları, gerçek ve tüzel kişiler ile gönüllü kuruluşlara, faaliyetlerinde yol gösterecek plan ve programlar oluşturmak ve rehberlik etmek"
+      },
+      {
+        "key": "D",
+        "text": "Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek veya inceletmek, araştırmak, geliştirmek ve uygulamaya ilişkin görüşlerini Bakana sunmak"
+      },
+      {
+        "key": "E",
+        "text": "Bakanlığın denetimi altındaki her türlü kuruluşun faaliyet ve işlemlerine ilişkin olarak, usulsüzlükleri önleyici, eğitici ve yol gösterici bir yaklaşımla denetim, inceleme ve soruşturma işlerini Bakan adına yürütmek"
+      }
     ],
     "correctAnswer": "D",
-    "explanation": "D seçeneğidir (Plan ve programları, ders kitaplarını hazırlatmak/incelemek).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nPlan, program ve ders kitaplarını hazırlatmak ve incelemek Madde 321 uyarınca TTKB'nin görevidir. Teftiş Kurulu Başkanlığı (Madde 322) ise rehberlik, teftiş, denetim, inceleme ve soruşturma işlerini yürütür.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nA, B ve C şıkları Teftiş Kurulu Başkanlığı'nın rehberlik ve denetim koordinasyon görevleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nTeftiş = İnceleme, Soruşturma, Rehberlik ve Denetim.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 322."
+    "explanation": "✅ <strong>Doğru Cevap: D</strong> (Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek veya inceletmek, araştırmak, geliştirmek ve uygulamaya ilişkin görüşlerini Bakana sunmak)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 322 (Teftiş Kurulu Başkanlığı) ve Madde 321/1-b (Talim ve Terbiye Kurulu Başkanlığı):</strong> D şıkkında yer alan <strong>\"Eğitim sistemini, eğitim ve öğretim plan ve programlarını, ders kitaplarını hazırlatmak, hazırlananları incelemek... ve görüşlerini Bakana sunmak\"</strong> görevi Teftiş Kurulu Başkanlığına değil, <strong>Madde 321/1-b uyarınca Talim ve Terbiye Kurulu Başkanlığına (TTKB)</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 322 Kapsamı (Teftiş Kurulu Görevi ✔️):</strong> Müfettişlerin çalışmalarının koordinasyonu ile rehberlik ve denetim hizmetlerinde bütünlüğü sağlamak.<br>• <strong>B Şıkkı:</strong> <strong>Madde 322/1-a (Teftiş Kurulu Görevi ✔️):</strong> Bakanlığın görev alanına giren konularda Bakanlık personeline, okul ve kurumlarına, özel öğretim kurumlarına ve gerçek/tüzel kişilere <strong>rehberlik etmek</strong>.<br>• <strong>C Şıkkı:</strong> <strong>Madde 322/1-b (Teftiş Kurulu Görevi ✔️):</strong> Kamu kurumları, gerçek ve tüzel kişiler ile gönüllü kuruluşlara faaliyetlerinde yol gösterecek plan ve programlar oluşturmak ve rehberlik etmek.<br>• <strong>D Şıkkı:</strong> <strong>Madde 321/1-b (TTKB Görevi — YANLIŞ / ÇELDİRİCİ ❌):</strong> Ders kitaplarını ve öğretim programlarını inceleyip <strong>Bakana sunmak</strong> Teftiş Kurulunun değil, <strong>Talim ve Terbiye Kurulu Başkanlığının</strong> görevidir.<br>• <strong>E Şıkkı:</strong> <strong>Madde 322/1-ç ve d (Teftiş Kurulu Görevi ✔️):</strong> Usulsüzlükleri önleyici, eğitici ve yol gösterici yaklaşımla <strong>denetim, inceleme ve soruşturma</strong> işlerini Bakanlık Makamı onayıyla yürütmek.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Teftiş Kurulu Başkanlığı (Madde 322) Özeti:</strong><br>• <strong>4 Temel Fonksiyonu:</strong> <code>Rehberlik</code> + <code>Denetim (Teftiş)</code> + <code>İnceleme</code> + <code>Soruşturma</code>.<br>• <strong>Hukuki Düzenleme Şifresi:</strong> Teftiş Kurulu ile müfettişlerin çalışma usul ve esasları <strong>YÖNETMELİKLE</strong> düzenlenir (Madde 322/4). <em>(TTKB ise Cumhurbaşkanı Yönetmeliği ile düzenlenir!)</em>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q22",
+    "questionNumber": 22,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Strateji Geliştirme Başkanlığı",
-    "question": "10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 22/12/2005 tarihli ve 5436 sayılı Kanun ve diğer mevzuatla strateji geliştirme ve mali hizmetler birimlerine verilen görevleri yapmak, hangi birimin görevidir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 323 - Strateji Geliştirme Başkanlığı",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 22/12/2005 tarihli ve 5436 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 15 inci maddesi, Cumhurbaşkanlığı kararnameleri ve diğer mevzuatla strateji geliştirme ve mali hizmetler birimlerine verilen görevleri yapmak, hangi birimin görevidir?",
+    "questionText": "10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 22/12/2005 tarihli ve 5436 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 15 inci maddesi, Cumhurbaşkanlığı kararnameleri ve diğer mevzuatla strateji geliştirme ve mali hizmetler birimlerine verilen görevleri yapmak, hangi birimin görevidir?",
     "options": [
-      "İnşaat ve Emlak Genel Müdürlüğü",
-      "Strateji Geliştirme Başkanlığı",
-      "Bilgi İşlem Dairesi Başkanlığı",
-      "İnşaat ve Emlak Dairesi Başkanlığı",
-      "Destek Hizmetleri Genel Müdürlüğü"
+      {
+        "key": "A",
+        "text": "İnşaat ve Emlak Genel Müdürlüğü"
+      },
+      {
+        "key": "B",
+        "text": "Strateji Geliştirme Başkanlığı"
+      },
+      {
+        "key": "C",
+        "text": "Bilgi İşlem Dairesi Başkanlığı"
+      },
+      {
+        "key": "D",
+        "text": "İnşaat ve Emlak Dairesi Başkanlığı"
+      },
+      {
+        "key": "E",
+        "text": "Destek Hizmetleri Genel Müdürlüğü"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Strateji Geliştirme Başkanlığı).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 323 gereğince 5018 sayılı Kamu Mali Yönetimi Kanunu kapsamında bütçe hazırlama, stratejik plan, performans programı ve iç kontrol görevleri Strateji Geliştirme Başkanlığı'na verilmiştir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nMali kontrol ve stratejik planlama doğrudan SGB'nin görev alanıdır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\n5018 Sayılı Kanun + Stratejik Plan + Performans + Bütçe = Strateji Geliştirme Başkanlığı.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 323."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Strateji Geliştirme Başkanlığı)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 323/1-a (Strateji Geliştirme Başkanlığı):</strong> 1 Sayılı CBK Madde 323/1-a bendinde; <strong>5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu</strong> ile <strong>5436 sayılı Kanunun 15. maddesi</strong> uyarınca strateji geliştirme ve mali hizmetler birimlerine verilen görevleri yapmak doğrudan <strong>Strateji Geliştirme Başkanlığına (SGB)</strong> tevdi edilmiştir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>İnşaat ve Emlak Genel Müdürlüğü (Madde 320 ❌):</strong> Okul binaları yapımı, kamulaştırma ve emlak işlerini yürütür.<br>• <strong>B Şıkkı:</strong> <strong>Strateji Geliştirme Başkanlığı (Madde 323/1-a — DOĞRU ✔️):</strong> 5018 ve 5436 sayılı Kanunlar çerçevesinde Bakanlığın 5 yıllık stratejik planını, performans programını, bütçesini, kesin hesabını, faaliyet raporunu ve iç kontrol sistemini yürütür.<br>• <strong>C Şıkkı:</strong> <strong>Bilgi İşlem Dairesi Başkanlığı ❌:</strong> Mevzuatta böyle bir birim adı yoktur (Bilgi İşlem Genel Müdürlüğüdür).<br>• <strong>D Şıkkı:</strong> <strong>İnşaat ve Emlak Dairesi Başkanlığı ❌:</strong> Mevzuatta böyle bir birim adı yoktur (İnşaat ve Emlak Genel Müdürlüğüdür).<br>• <strong>E Şıkkı:</strong> <strong>Destek Hizmetleri Genel Müdürlüğü (Madde 319 — ÇELDİRİCİ ❌):</strong> Madde 319/1-a'da da 5018 sayılı Kanun geçer ancak orada <em>\"5018 sayılı Kanun çerçevesinde kiralama ve satın alma işlerini yürütmek, temizlik, güvenlik, aydınlatma, ısınma, onarım, taşıma...\"</em> (destek hizmetleri) yer alır. Soru kökünde açıkça <strong>\"strateji geliştirme ve mali hizmetler birimlerine verilen görevler\"</strong> dediği için cevap SGB'dir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>5018 Sayılı Kanun İki Birimde Geçer — Nasıl Ayırt Edilir?</strong><br>• <code>5018 + 5436 sayılı Kanun + Strateji geliştirme ve mali hizmetler (Bütçe, Stratejik Plan)</code> ➔ <strong>Strateji Geliştirme Başkanlığı (Md. 323)</strong><br>• <code>5018 sayılı Kanun + Kiralama, satın alma, temizlik, güvenlik, aydınlatma, ısınma, taşıma</code> ➔ <strong>Destek Hizmetleri Genel Müdürlüğü (Md. 319/1-a)</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q23",
+    "questionNumber": 23,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Basın ve Halkla İlişkiler Müşavirliği",
-    "question": "Hangisi Basın ve Halkla İlişkiler Müşavirliği görevlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 325 - Basın ve Halkla İlişkiler Müşavirliği",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Basın ve Halkla İlişkiler Müşavirliğinin görevlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre aşağıdakilerden hangisi Basın ve Halkla İlişkiler Müşavirliğinin görevlerinden biri değildir?",
     "options": [
-      "Hukuki dosyaları inceleyerek gerekli araştırma ve incelemeleri yaparak bakan onayına sunar.",
-      "Bakanlığın basın ve halkla ilişkilerle ilgili faaliyetlerini planlamak ve bu faaliyetlerin belirlenecek usûl ve esaslara göre yürütülmesini sağlamak",
-      "Bilgi Edinme Hakkı Kanununa göre yapılacak bilgi edinme başvurularını etkin, süratli ve doğru bir şekilde sonuçlandırmak üzere gerekli tedbirleri almak",
-      "Bakan tarafından verilen diğer görevleri yapmak"
+      {
+        "key": "A",
+        "text": "Hukuki dosyaları inceleyerek gerekli araştırma ve incelemeleri yaparak Bakan onayına sunmak"
+      },
+      {
+        "key": "B",
+        "text": "Bakanlığın basın ve halkla ilişkilerle ilgili faaliyetlerini planlamak ve bu faaliyetlerin belirlenecek usûl ve esaslara göre yürütülmesini sağlamak"
+      },
+      {
+        "key": "C",
+        "text": "9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanununa göre yapılacak bilgi edinme başvurularını etkin, süratli ve doğru bir şekilde sonuçlandırmak üzere gerekli tedbirleri almak"
+      },
+      {
+        "key": "D",
+        "text": "Bakan tarafından verilen diğer görevleri yapmak"
+      },
+      {
+        "key": "E",
+        "text": "Bakanlığın kamuoyu ve medya ile ilişkilerini koordine etmek, yazılı ve görsel basında çıkan eğitim haberlerini takip etmek"
+      }
     ],
     "correctAnswer": "A",
-    "explanation": "A seçeneğidir (Hukuki dosyaları inceleyerek bakan onayına sunmak).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\nHukuki dosyaları incelemek Hukuk Hizmetleri Genel Müdürlüğü'nün görevidir. Basın ve Halkla İlişkiler Müşavirliği (Madde 325) ise basın açıklamaları, medya takibi ve CİMER / 4982 sayılı Bilgi Edinme başvurularını yürütür.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nB, C ve D şıkları Basın ve Halkla İlişkiler Müşavirliği'nin açık görevleridir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nBilgi Edinme (CİMER/BİMER) + Medya ve Basın = Basın ve Halkla İlişkiler Müşavirliği.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 325."
+    "explanation": "✅ <strong>Doğru Cevap: A</strong> (Hukuki dosyaları inceleyerek gerekli araştırma ve incelemeleri yaparak Bakan onayına sunmak)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 325 (Basın ve Halkla İlişkiler Müşavirliği):</strong> 1 Sayılı CBK Madde 325'te Basın ve Halkla İlişkiler Müşavirliğinin görevleri 3 bent halinde sayılmıştır. A şıkkında yer alan <strong>\"Hukuki dosyaları inceleyerek gerekli araştırma ve incelemeleri yaparak Bakan onayına sunmak\"</strong> görevi Müşavirliğe değil, <strong>Hukuk Hizmetleri Genel Müdürlüğü (Madde 317)</strong> ve <strong>Teftiş Kurulu Başkanlığına (Madde 322)</strong> aittir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>YANLIŞ / ÇELDİRİCİ ❌:</strong> Basın ve Halkla İlişkiler Müşavirliğinin hukuki dosya inceleme veya soruşturma yürütme yetkisi yoktur.<br>• <strong>B Şıkkı:</strong> <strong>Madde 325/1-a (Doğru Görev ✔️):</strong> Bakanlığın basın ve halkla ilişkilerle ilgili faaliyetlerini planlamak ve belirlenecek usul ve esaslara göre yürütülmesini sağlamak.<br>• <strong>C Şıkkı:</strong> <strong>Madde 325/1-b (Doğru Görev ✔️):</strong> <strong>4982 sayılı Bilgi Edinme Hakkı Kanununa</strong> göre yapılacak bilgi edinme başvurularını (CİMER / MEBİM) etkin, süratli ve doğru bir şekilde sonuçlandırmak üzere gerekli tedbirleri almak.<br>• <strong>D Şıkkı:</strong> <strong>Madde 325/1-c (Doğru Görev ✔️):</strong> Bakan tarafından verilen diğer görevleri yapmak.<br>• <strong>E Şıkkı:</strong> <strong>Madde 325/1-a Kapsamı (Doğru Görev ✔️):</strong> Kamuoyu ve medya iletişimini koordine etmek.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Basın ve Halkla İlişkiler Müşavirliği (Madde 325) Turnusol Şifresi:</strong><br>MEB Merkez Teşkilatındaki <strong>TEK MÜŞAVİRLİK</strong> birimidir. Soru kökünde <code>Basın ve halkla ilişkiler</code> veya <code>4982 sayılı Bilgi Edinme Hakkı Kanunu (Bilgi edinme başvuruları / CİMER / MEBİM)</code> gördüğünüzde cevap doğrudan <strong>Basın ve Halkla İlişkiler Müşavirliğidir!</strong>"
   },
   {
     "id": "mevzuat_1cbk_quiz_q24",
+    "questionNumber": 24,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Birimlerin Ortak Görevleri",
-    "question": "Hangisi bakanlık birimlerinin ortak görevlerinden değildir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 327 - Hizmet Birimlerinin Ortak Görevleri",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 327. maddesine göre aşağıdakilerden hangisi Bakanlık hizmet birimlerinin ortak görevlerinden biri değildir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 327. maddesine göre aşağıdakilerden hangisi Bakanlık hizmet birimlerinin ortak görevlerinden biri değildir?",
     "options": [
-      "Eğitim ve öğretime ilişkin hedef, politika ve standartların belirlenmesi amacıyla gerekli çalışmaları yapmak",
-      "Öğrencilerin, plan ve programlarda tespit edilen amaçlar doğrultusunda yöneltme ve geliştirilmelerine ilişkin rehberlik çalışmaları yapmak",
-      "Yurtdışında öğrenim gören öğrencilerin özel eğitim, rehberlik ve psikolojik danışma hizmetlerini yürütmek",
-      "Okul, ilçe, il ve ülke düzeyinde yapılan eğitim, öğretim ve yönetim hizmetleri ile ilgili ölçme ve değerlendirme sonuçlarını değerlendirmek"
+      {
+        "key": "A",
+        "text": "Eğitim ve öğretime ilişkin hedef, politika ve standartların belirlenmesi amacıyla gerekli çalışmaları yapmak"
+      },
+      {
+        "key": "B",
+        "text": "Öğrencilerin, plan ve programlarda tespit edilen amaçlar doğrultusunda yöneltme ve geliştirilmelerine ilişkin rehberlik çalışmaları yapmak"
+      },
+      {
+        "key": "C",
+        "text": "Yurtdışında öğrenim gören öğrencilerin özel eğitim, rehberlik ve psikolojik danışma hizmetlerini yürütmek"
+      },
+      {
+        "key": "D",
+        "text": "Okul, ilçe, il ve ülke düzeyinde yapılan eğitim, öğretim ve yönetim hizmetleri ile ilgili ölçme ve değerlendirme sonuçlarını değerlendirmek"
+      },
+      {
+        "key": "E",
+        "text": "Görev alanına giren konularda, eğitim ve öğretimi etkileyen faktörleri incelemek, araştırmak, geliştirmek ve ilgili birimlerle koordine etmek"
+      }
     ],
     "correctAnswer": "C",
-    "explanation": "C seçeneğidir (Yurtdışında öğrenim gören öğrencilerin rehberlik hizmetlerini yürütmek).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 327'de düzenlenen 'Birimlerin Ortak Görevleri' arasında yurt dışındaki öğrencilerin münferit rehberliği yer almaz; bu görev Yükseköğretim ve Yurt Dışı Eğitim GM'ye aittir. A, B ve D şıkları ise Madde 327'de sayılan ortak görevlerdendir.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nOrtak görevler tüm genel müdürlüklerin yatay sorumluluklarını içerir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nMadde 327: Bakanlık birimlerinin ortak görevleri (rehberlik, standart belirleme, ölçme sonuçlarını değerlendirme).\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 327."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Yurtdışında öğrenim gören öğrencilerin özel eğitim, rehberlik ve psikolojik danışma hizmetlerini yürütmek)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 327 (Birimlerin Ortak Görevleri):</strong> 1 Sayılı CBK Madde 327'de öğretim birimleri ve ilgili hizmet birimlerinin kendi görev alanlarında yatay olarak yürüttükleri <strong>\"Ortak Görevler\"</strong> (standart belirleme, Ar-Ge, yöneltme/rehberlik, ölçme sonuçlarını değerlendirme, bina/tesis ihtiyaçlarını bildirme) sayılmıştır. C şıkkındaki <strong>\"Yurtdışında öğrenim gören öğrencilerin özel eğitim, rehberlik ve psikolojik danışma hizmetlerini yürütmek\"</strong> tüm birimlerin ortak görevi değildir; yurt dışı eğitim işlemleri <em>Yükseköğretim ve Yurt Dışı Eğitim GM (Madde 313)</em> tarafından yürütülür.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Madde 327/1-a Kapsamı (Ortak Görev ✔️):</strong> Kendi hizmet alanındaki eğitim ve öğretime ilişkin hedef, politika ve kalite standartlarının belirlenmesi amacıyla çalışma yapmak.<br>• <strong>B Şıkkı:</strong> <strong>Madde 327 Kapsamı (Ortak Görev ✔️):</strong> Öğrencilerin plan ve programlarda tespit edilen amaçlar doğrultusunda yöneltme, rehberlik ve geliştirilmelerine ilişkin çalışmalar yapmak.<br>• <strong>C Şıkkı:</strong> <strong>YANLIŞ / ÇELDİRİCİ ❌:</strong> <em>\"Yurtdışında öğrenim gören öğrencilerin...\"</em> gibi spesifik bir alan bütün hizmet birimlerinin (örneğin Temel Eğitim veya Destek Hizmetlerinin) ortak görevi olamaz!<br>• <strong>D Şıkkı:</strong> <strong>Madde 327 Kapsamı (Ortak Görev ✔️):</strong> Okul, ilçe, il ve ülke düzeyinde kendi alanıyla ilgili ölçme ve değerlendirme sonuçlarını değerlendirip raporlamak.<br>• <strong>E Şıkkı:</strong> <strong>Madde 327 Kapsamı (Ortak Görev ✔️):</strong> Görev alanına giren konularda eğitim-öğretimi etkileyen faktörleri araştırmak ve geliştirmek.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Madde 301 (MEB Genel Görevleri) vs. Madde 327 (Birimlerin Ortak Görevleri):</strong><br>• <strong>Madde 301:</strong> Ülke çapında makro görevlerdir (Üç kademeyi geliştirmek, fırsat eşitliği, yükseköğretim hariç kurum açmak).<br>• <strong>Madde 327:</strong> Her genel müdürlüğün kendi kademesi içinde yaptığı yatay işlerdir (Kendi kademesinin standartlarını belirlemek, kendi sınav/ölçme sonuçlarını değerlendirmek, kendi bina/donatım ihtiyacını ilgili birime bildirmek)."
   },
   {
     "id": "mevzuat_1cbk_quiz_q25",
+    "questionNumber": 25,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Taşra Teşkilatı",
-    "question": "İlçe millî eğitim müdürlükleri, görev ve hizmetleri yürütürken kime karşı da sorumludur?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 329 - Taşra Teşkilatı ve Hiyerarşik Sorumluluk",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 329. maddesine göre; ilçe millî eğitim müdürlükleri, görev ve hizmetleri yürütürken kaymakamın yanı sıra aşağıdakilerden hangisine karşı da sorumludur?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 329. maddesine göre; ilçe millî eğitim müdürlükleri, görev ve hizmetleri yürütürken kaymakamın yanı sıra aşağıdakilerden hangisine karşı da sorumludur?",
     "options": [
-      "Belediye Başkanı",
-      "İl Milli Eğitim Müdürlüğü",
-      "TBMM",
-      "Hazine ve Maliye Bakanlığı",
-      "İl Özel İdaresi"
+      {
+        "key": "A",
+        "text": "Belediye Başkanı"
+      },
+      {
+        "key": "B",
+        "text": "İl Millî Eğitim Müdürlüğü"
+      },
+      {
+        "key": "C",
+        "text": "Türkiye Büyük Millet Meclisi"
+      },
+      {
+        "key": "D",
+        "text": "Hazine ve Maliye Bakanlığı"
+      },
+      {
+        "key": "E",
+        "text": "İl Özel İdaresi"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (İl Milli Eğitim Müdürlüğü).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 329/2 hükmü: 'İlçe millî eğitim müdürlükleri, görev ve hizmetleri yürütürken kaymakama ve il millî eğitim müdürlüğüne karşı da sorumludur.'\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nİlçe MEM hiyerarşik olarak hem mülki amir olan Kaymakama hem de mesleki/yönetsel olarak İl MEM'e karşı sorumludur.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nİlçe MEM Çift Yönlü Sorumluluk: Kaymakam + İl Millî Eğitim Müdürlüğü.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 329."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (İl Millî Eğitim Müdürlüğü)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 329/2 (Taşra Teşkilatı):</strong> 1 Sayılı CBK Madde 329'da; <em>\"(1) Bakanlığın taşra teşkilatı il ve ilçe millî eğitim müdürlüklerinden oluşur. Her ilde ve ilçede bir millî eğitim müdürlüğü bulunur. (2) İlçe millî eğitim müdürlükleri, görev ve hizmetleri yürütürken <strong>il millî eğitim müdürlüğüne karşı da sorumludur</strong>.\"</em> hükmü açıkça yer almaktadır.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Belediye Başkanı ❌:</strong> Belediye mahalli idare (yerinden yönetim) birimidir; merkezi idarenin taşra teşkilatı olan İlçe MEM üzerinde hiyerarşik amirliği yoktur.<br>• <strong>B Şıkkı:</strong> <strong>İl Millî Eğitim Müdürlüğü (Madde 329/2 — DOĞRU ✔️):</strong> İlçe Millî Eğitim Müdürlüğü; 5442 sayılı İl İdaresi Kanunu gereği ilçenin mülki idare amiri olan <strong>Kaymakama</strong>, 1 Sayılı CBK Madde 329/2 gereği ise teknik/idari koordinasyon yönünden <strong>İl Millî Eğitim Müdürlüğüne</strong> karşı sorumludur.<br>• <strong>C Şıkkı:</strong> <strong>Türkiye Büyük Millet Meclisi ❌:</strong> Yasama organıdır; taşra birimleri doğrudan TBMM'ye bağlı değildir.<br>• <strong>D Şıkkı:</strong> <strong>Hazine ve Maliye Bakanlığı ❌:</strong> Farklı bir bakanlıktır.<br>• <strong>E Şıkkı:</strong> <strong>İl Özel İdaresi ❌:</strong> Mahalli idare birimidir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Taşra Teşkilatı (Madde 329) 3 Kritik Sınav Notu:</strong><br>1. MEB taşra teşkilatında <em>Bölge Müdürlüğü</em> yoktur; sadece <strong>İl ve İlçe Millî Eğitim Müdürlükleri</strong> vardır.<br>2. İlçe Millî Eğitim Müdürlükleri görev ve hizmetleri yürütürken <strong>İl Millî Eğitim Müdürlüğüne karşı da sorumludur</strong>.<br>3. İl ve ilçe millî eğitim müdürlüklerinde; millî eğitim müdürlüğüne bağlı olarak <strong>Eğitim Müfettişleri Başkanlığı</strong> veya denetim büroları oluşturulabilir."
   },
   {
     "id": "mevzuat_1cbk_quiz_q26",
+    "questionNumber": 26,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Kadrolar",
-    "question": "Kadroların tespiti, ihdası, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar hangi hükümlere göre düzenlenir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 330 - Kadroların Tespiti ve İhdası",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 330. maddesine göre; kadroların tespiti, ihdası, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar hangi mevzuat hükümlerine göre düzenlenir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 330. maddesine göre; kadroların tespiti, ihdası, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar hangi mevzuat hükümlerine göre düzenlenir?",
     "options": [
-      "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
-      "Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi",
-      "657 sayılı Devlet Memurları Kanunu",
-      "Atama ve Yer Değiştirme Yönetmeliği",
-      "5018 Sayılı Kanun"
+      {
+        "key": "A",
+        "text": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi"
+      },
+      {
+        "key": "B",
+        "text": "Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi (2 Sayılı CBK)"
+      },
+      {
+        "key": "C",
+        "text": "657 sayılı Devlet Memurları Kanunu"
+      },
+      {
+        "key": "D",
+        "text": "Millî Eğitim Bakanlığı Personelinin Görevde Yükselme ve Unvan Değişikliği Yönetmeliği"
+      },
+      {
+        "key": "E",
+        "text": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 330: 'Kadroların tespiti, ihdası, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi hükümlerine göre düzenlenir (2 Sayılı CBK).'\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nKadro ihdası ve iptali 2 sayılı CBK'nın (Genel Kadro ve Usulü Hakkında CBK) konusudur.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nKadro İhdası/İptali = 2 Sayılı Genel Kadro ve Usulü Hakkında CBK.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 330."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi (2 Sayılı CBK))<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 330/1 (Kadrolar ve Dağılımı):</strong> 1 Sayılı CBK Madde 330/1'de; <strong>\"Kadroların tespiti, ihdası, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar, Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi (2 Sayılı CBK) hükümlerine göre düzenlenir.\"</strong> hükmü yer almaktadır.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>1 sayılı CBK ❌:</strong> Bakanlıkların teşkilat ve görevlerini düzenler; kadro ihdas ve iptal usullerinin ana mevzuatı 2 sayılı CBK'dır.<br>• <strong>B Şıkkı:</strong> <strong>Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi — 2 Sayılı CBK (Madde 330/1 — DOĞRU ✔️):</strong> Kamu kurumlarında memur ve öğretim elemanlarının kadro ihdası, kullanımı ve iptali 2 sayılı Genel Kadro ve Usulü Hakkında CBK'ya tabidir.<br>• <strong>C Şıkkı:</strong> <strong>657 sayılı Devlet Memurları Kanunu ❌:</strong> Memurların genel statüsünü, ödev, hak ve disiplin rejimini düzenler; kadro ihdas kararnamesi değildir.<br>• <strong>D Şıkkı:</strong> <strong>Görevde Yükselme Yönetmeliği ❌:</strong> Mevcut kadrolara atanma şartlarını düzenler; kadro ihdas veya iptal etmez.<br>• <strong>E Şıkkı:</strong> <strong>5018 sayılı Kanun ❌:</strong> Kamu mali yönetimi ve bütçe süreçlerini düzenler.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Madde 330'daki İki Farklı \"Kadro\" Sorusu (Çok Dikkat!):</strong><br>1. <em>\"Kadroların <strong>tespiti, ihdası, kullanımı ve iptali</strong> ne ile düzenlenir?\"</em> ➔ <strong>Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi (2 Sayılı CBK)</strong> (Md. 330/1).<br>2. <em>\"Öğretmen kadrolarının branşlar esas alınarak okul ve kurumlara <strong>dağıtımı (Norm Kadro)</strong> ne ile belirlenir?\"</em> ➔ <strong>Cumhurbaşkanı Yönetmeliği</strong> ile belirlenir (Md. 330/2)."
   },
   {
     "id": "mevzuat_1cbk_quiz_q27",
+    "questionNumber": 27,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Emeklilik İşlemleri",
-    "question": "Öğretmenlerin emeklilik işlemleri hangi ay içinde yapılabilir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 331 - Öğretmenlerin Emeklilik İşlemleri",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 331. maddesine göre; öğretmenlerin isteğe bağlı emeklilik işlemleri kural olarak aşağıdaki aylardan hangisi içinde yapılabilir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 331. maddesine göre; öğretmenlerin isteğe bağlı emeklilik işlemleri kural olarak aşağıdaki aylardan hangisi içinde yapılabilir?",
     "options": [
-      "Şubat",
-      "Haziran",
-      "Ağustos",
-      "Eylül",
-      "Aralık"
+      {
+        "key": "A",
+        "text": "Şubat"
+      },
+      {
+        "key": "B",
+        "text": "Haziran"
+      },
+      {
+        "key": "C",
+        "text": "Ağustos"
+      },
+      {
+        "key": "D",
+        "text": "Eylül"
+      },
+      {
+        "key": "E",
+        "text": "Aralık"
+      }
     ],
     "correctAnswer": "B",
-    "explanation": "B seçeneğidir (Haziran).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 331 hükmü: 'Öğretmenlerin emeklilik işlemleri Haziran ve Temmuz ayları içinde yapılır. Bu aylar dışında emeklilik işlemi yapılabilmesi, görev yapılan il sınırları içinde alanında öğretmen fazlasının bulunması ve Bakanlığın uygun görmesine bağlıdır.' Şıklarda Haziran ayı yer almaktadır.\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nEğitim-öğretim yılının aksamaması için kural olarak yalnızca Haziran ve Temmuz aylarında işlem yapılır.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nÖğretmen Emeklilik Ayları: HAZİRAN ve TEMMUZ.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 331."
+    "explanation": "✅ <strong>Doğru Cevap: B</strong> (Haziran)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 331/1 (Öğretmenlerin Emeklilik İşlemleri):</strong> 1 Sayılı CBK Madde 331/1 hükmüne göre; <strong>\"Öğretmenlerin emeklilik işlemleri Haziran ve Temmuz ayları içinde yapılır. Bu aylar dışında emeklilik işlemi yapılabilmesi, görev yapılan il sınırları içinde emeklilik talebinde bulunan personelin sınıf ve branşında öğretmen fazlasının bulunması ve işlemin Bakanlıkça uygun görülmesine bağlıdır.\"</strong> Şıklarda bu iki aydan <strong>Haziran</strong> yer aldığı için doğru cevap B'dir.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Şubat ❌:</strong> Yarıyıl tatili ayı olsa da mevzuatta genel emeklilik dönemi olarak yer almaz (Sadece ilde branşında norm fazlası varsa ve Bakanlık uygun görürse istisnaen mümkündür).<br>• <strong>B Şıkkı:</strong> <strong>Haziran (Madde 331/1 — DOĞRU ✔️):</strong> Öğretmenlerin olağan emeklilik ayları <strong>Haziran ve Temmuz</strong> aylarıdır.<br>• <strong>C Şıkkı:</strong> <strong>Ağustos (EN GÜÇLÜ ÇELDİRİCİ ❌):</strong> Yaz tatili ayı olduğu için adayların en çok düştüğü çeldiricidir! Eylül'deki yeni ders yılı başlamadan öğretmen ihtiyacının netleşmesi ve atamaların yapılabilmesi için Ağustos ayı emeklilik dönemine dahil <strong>edilmemiştir</strong>; sadece <strong>Haziran ve Temmuz</strong> aylarıdır!<br>• <strong>D Şıkkı:</strong> <strong>Eylül ❌:</strong> Yeni eğitim-öğretim yılının başladığı aydır; olağan emeklilik dönemi değildir.<br>• <strong>E Şıkkı:</strong> <strong>Aralık ❌:</strong> Eğitim-öğretim yılı ortasıdır; olağan emeklilik dönemi değildir.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>Öğretmenlerin Emekliliği (Madde 331 - 2022 EKYS Çıkmış Soru Konusu!):</strong><br>• <strong>Genel Kural:</strong> Sadece <strong>HAZİRAN ve TEMMUZ</strong> aylarında yapılır (Ağustos YOK!).<br>• <strong>İstisna (Diğer Aylarda Emeklilik İçin 2 Şart Birlikte Aranır):</strong><br>  1) Görev yapılan <strong>İL sınırları içinde</strong> (okul veya ilçe değil, <strong>İL</strong>!) kendi sınıf ve branşında <strong>öğretmen fazlası (norm fazlası)</strong> bulunması,<br>  2) İşlemin <strong>Bakanlıkça uygun görülmesi</strong>.<br>• <strong>Yaş Haddi (65 Yaş):</strong> Ay şartı aranmaz; 65 yaşını doldurduğu gün re'sen emekliye sevk edilir."
   },
   {
     "id": "mevzuat_1cbk_quiz_q28",
+    "questionNumber": 28,
     "testId": "mevzuat_1cbk_quizizz_28",
+    "testTitle": "1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)",
     "topicId": "mevzuat_1cbk",
-    "subTopic": "1 Sayılı CBK - Ders Yükü ve Aylık Karşılığı",
-    "question": "Öğretmenlerin, alanlarına göre aylık karşılığı okutacağı dersler Bakanlıkça nasıl belirlenir?",
+    "topicName": "1 Sayılı CBK (Millî Eğitim Bakanlığı Teşkilatı)",
+    "subTopic": "1 Sayılı CBK Madde 332 - Aylık Karşılığı Okutulacak Dersler",
+    "category": "Mevzuat (Kanun & CBK)",
+    "hasImage": false,
+    "image": null,
+    "question": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 332. maddesine göre; öğretmenlerin alanlarına göre aylık karşılığı okutacağı dersler Bakanlık tarafından hangi hukuki düzenlemeyle belirlenir?",
+    "questionText": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'nin 332. maddesine göre; öğretmenlerin alanlarına göre aylık karşılığı okutacağı dersler Bakanlık tarafından hangi hukuki düzenlemeyle belirlenir?",
     "options": [
-      "Kanunla",
-      "Kararnameyle",
-      "Yönetmelikle",
-      "Yönerge ile",
-      "Anayasal Hükümlerle"
+      {
+        "key": "A",
+        "text": "Kanunla"
+      },
+      {
+        "key": "B",
+        "text": "Cumhurbaşkanlığı Kararnamesiyle"
+      },
+      {
+        "key": "C",
+        "text": "Yönetmelikle"
+      },
+      {
+        "key": "D",
+        "text": "Yönerge ile"
+      },
+      {
+        "key": "E",
+        "text": "Anayasal Hükümlerle"
+      }
     ],
     "correctAnswer": "C",
-    "explanation": "C seçeneğidir (Yönetmelikle).\n\n📌 1. DOĞRU CEVABIN GEREKÇESİ:\n1 Sayılı CBK Madde 332 hükmü gereğince: 'Öğretmenlerin, alanlarına göre aylık karşılığı okutacağı dersler Bakanlık tarafından yürürlüğe konulan YÖNETMELİKLE belirlenir.' (Milli Eğitim Bakanlığı Yönetici ve Öğretmenlerinin Ders ve Ek Ders Saatlerine İlişkin Karar / Yönetmelik).\n\n❌ 2. DİĞER SEÇENEKLERİN ÇELDİRİCİ ANALİZİ:\nKanun veya yönerge değil, doğrudan 'Yönetmelik' hükmü kararnamede açıkça zikredilmiştir.\n\n🔑 3. SINAV KODLAMASI & STRATEJİK HAP BİLGİ:\nAylık Karşılığı Okutulacak Dersler = YÖNETMELİKLE belirlenir.\n\n📚 4. MEVZUAT VE KAYNAK DAYANAĞI:\n1 Sayılı CBK Madde 332."
+    "explanation": "✅ <strong>Doğru Cevap: C</strong> (Yönetmelikle)<br><br>\n📐 <strong>1 Sayılı CBK Resmî Mevzuat Koordinatı ve Gerekçesi:</strong><br>\n<strong>1 Sayılı CBK Madde 332/1 (Okutulacak Ders Saatleri):</strong> 1 Sayılı CBK Madde 332/1'de açıkça; <strong>\"Öğretmenlerin, alanlarına göre aylık karşılığı okutacağı dersler Bakanlık tarafından yürürlüğe konulan yönetmelikle belirlenir.\"</strong> hükmü yer almaktadır.<br><br>\n🔍 <strong>A–B–C–D–E Seçeneklerinin Detaylı Mevzuat Analizi:</strong><br>\n• <strong>A Şıkkı:</strong> <strong>Kanunla ❌:</strong> Ders yükü ve branş bazında aylık karşılığı okutulacak dersler teknik ve idari detay içerdiğinden kanunla değil, Bakanlık yönetmeliğiyle düzenlenir.<br>• <strong>B Şıkkı:</strong> <strong>Cumhurbaşkanlığı Kararnamesiyle ❌:</strong> CBK bu yetkiyi Madde 332 ile doğrudan Bakanlık yönetmeliğine bırakmıştır.<br>• <strong>C Şıkkı:</strong> <strong>Yönetmelikle (Madde 332/1 — DOĞRU ✔️):</strong> Öğretmenlerin alanlarına göre aylık karşılığı okutacağı dersler doğrudan <strong>Bakanlık tarafından yürürlüğe konulan yönetmelikle</strong> belirlenir.<br>• <strong>D Şıkkı:</strong> <strong>Yönerge ile ❌:</strong> Yönerge daha alt düzey bir adsız düzenleyici işlemdir; Madde 332 açıkça 'yönetmelik' şartı koymuştur.<br>• <strong>E Şıkkı:</strong> <strong>Anayasal Hükümlerle ❌:</strong> Anayasa genel ilkeleri belirler; öğretmen ders saatlerini düzenlemez.<br><br>\n💡 <strong>Gökhan Hoca Turnusol Şifresi & EKYS Sınav Tüyosu:</strong><br>\n<strong>1 Sayılı CBK'da Sınav kazandıran \"5 Hukuki Düzenleme\" Tablosu:</strong><br>1. <strong>TTKB çalışma usul ve esasları (Md. 321):</strong> <code>Cumhurbaşkanı Yönetmeliği</code><br>2. <strong>Öğretmen Norm Kadro dağıtımı (Md. 330/2):</strong> <code>Cumhurbaşkanı Yönetmeliği</code><br>3. <strong>Kadroların tespiti, ihdası ve iptali (Md. 330/1):</strong> <code>Genel Kadro ve Usulü Hakkında CBK (2 Sayılı CBK)</code><br>4. <strong>Teftiş Kurulu çalışma usul ve esasları (Md. 322/4):</strong> <code>Yönetmelik</code><br>5. <strong>Öğretmenlerin aylık karşılığı okutacağı dersler (Md. 332):</strong> <code>Bakanlık Yönetmeliği</code>"
   }
 ];
