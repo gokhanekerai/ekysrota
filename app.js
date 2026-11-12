@@ -1978,8 +1978,16 @@ class EKYSApp {
       },
       'egitim_yonetimi': {
         title: '🏫 Eğitim Yönetimi ve Denetimi (Soru 41-64)',
-        desc: 'Liderlik Modelleri, Örgütsel Davranış, Okul Denetimi ve Toplam Kalite Yönetimi testleri:',
+        desc: 'Liderlik Modelleri, Örgütsel Davranış, Okul Güvenliği, Kriz Yönetimi ve Okul Denetimi testleri:',
         items: [
+          {
+            id: 'egitim_guvenli_okul_kriz_1',
+            name: '🛡️ Güvenli Okul, Akran Zorbalığı ve Kriz Yönetimi Testi (16 Soru)',
+            icon: '🛡️',
+            desc: 'Miles Örgüt Sağlığı, Zorbalıkta Dalga Etkisi ve Önleme, Doğal Karar Verme Modeli ve Acil Kriz Yönetim Aşamaları (16 Soru • Çözümlü).',
+            filterKey: 'egitim_guvenli_okul_kriz_1',
+            badge: '🔥 YENİ • 16 Soru'
+          },
           {
             id: 'ekys_2026_yonetim',
             name: '2026 EKYS Eğitim Yönetimi Çıkmış Soruları',
@@ -2809,6 +2817,14 @@ class EKYSApp {
             badge: '17 Soru • Test 3'
           },
           {
+            id: 'mevzuat_1cbk_quizizz_card',
+            name: '⚡ 1 Sayılı CBK Quizizz Pekiştirme Testi (28 Soru • MEB Teşkilatı)',
+            icon: '⚡',
+            desc: '1 Sayılı CBK Quizizz Testi: Bakanlık Teşkilat Şeması, Hizmet Birimleri Görev Dağılımı, SGB, Taşra ve Emeklilik (28 Soru • Çözümlü).',
+            filterKey: 'mevzuat_1cbk_quizizz_28',
+            badge: '🔥 YENİ • 28 Soru'
+          },
+          {
             id: 'mevzuat_1cbk_t4_1',
             name: '📜 1 Sayılı CBK Test 4.1: MEB Görevleri ve Öğretim / Hizmet Birimleri (Md. 301-318)',
             icon: '🆕',
@@ -3348,9 +3364,11 @@ class EKYSApp {
       if (filterKey === 'mevzuat_1cbk_t1') return q.testId === 'mevzuat_1cbk_t1';
       if (filterKey === 'mevzuat_1cbk_t2') return q.testId === 'mevzuat_1cbk_t2';
       if (filterKey === 'mevzuat_1cbk_t3') return q.testId === 'mevzuat_1cbk_t3';
+      if (filterKey === 'mevzuat_1cbk_quizizz_28' || filterKey === 'mevzuat_1cbk_quizizz') return q.testId === 'mevzuat_1cbk_quizizz_28';
       if (filterKey === 'mevzuat_1cbk_t4_1') return q.testId === 'mevzuat_1cbk_t4_1';
       if (filterKey === 'mevzuat_1cbk_t4_2') return q.testId === 'mevzuat_1cbk_t4_2';
       if (filterKey === 'mevzuat_1cbk_t4_tam') return (q.testId === 'mevzuat_1cbk_t4_1' || q.testId === 'mevzuat_1cbk_t4_2');
+      if (filterKey === 'egitim_guvenli_okul_kriz_1' || filterKey === 'guvenli_okul_1') return q.testId === 'egitim_guvenli_okul_kriz_1';
       if (filterKey === 'egitim_video_test_1') return (q.testId === 'egitim_video_test_1' || tId === 'egitim_video_test_1');
       if (filterKey === 'egitim_video_test_2') return (q.testId === 'egitim_video_test_2' || tId === 'egitim_video_test_2');
       if (filterKey === 'egitim_video_test_3') return (q.testId === 'egitim_video_test_3' || tId === 'egitim_video_test_3');
