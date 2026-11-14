@@ -1886,14 +1886,6 @@ class EKYSApp {
             badge: '📊 15 Soru • Soru 26-40'
           },
           {
-            id: 'egitim_tymm_05_tamami_eb',
-            name: '🔥 05. TYMM - Eğitim Bilimleri Soru Çözümü Tamamı (40 Soru)',
-            icon: '🔥',
-            desc: '05. TYMM - Eğitim Bilimleri (Soru Çözümü) PDF dosyasındaki 40 sorunun tamamı (25 TYMM + 15 Eğitim Bilimleri / Ölçme-Değerlendirme • A-E Detaylı Çözümlü).',
-            filterKey: 'tymm_05_40_soru',
-            badge: '🔥 40 Soru • Tamamı'
-          },
-          {
             id: 'egitim_video_test_1_eb',
             name: '🎯 Eğitim Bilimleri Video Tarama Testi 1',
             icon: '🎯',
