@@ -1020,13 +1020,68 @@ class EKYSApp {
             badge: '17 Test (312 Soru)'
           },
           {
-            id: 'cogr_cikmis_cat',
-            name: '📜 MEB EKYS Çıkmış Coğrafya Soruları',
+            id: 'ekys_2026_cogr',
+            name: '📜 2026 EKYS Coğrafya Çıkmış Soruları',
             icon: '📜',
-            desc: '2019-2026 Resmî MEB EKYS Sınavlarında Çıkmış Tüm Coğrafya Soruları (Soru 6-12).',
-            filterKey: 'cogr_cikmis',
-            targetSubtopic: 'cogr-cikmis-subtopics',
-            badge: '8 Sınav (2019-2026)'
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Coğrafya soruları (Soru 6-10 • 5 Soru).',
+            filterKey: 'ekys_2026_cogr',
+            badge: '5 Soru • 2026 Çıkmış'
+          },
+          {
+            id: 'ekys_2025_cogr',
+            name: '📜 2025 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve detaylı çözümleri (Soru 6-10 • 5 Soru).',
+            filterKey: 'ekys_2025_cogr',
+            badge: '5 Soru • 2025 Çıkmış'
+          },
+          {
+            id: 'ekys_2024_cogr',
+            name: '📜 2024 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2024 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 7-10 ve 12 • 5 Soru).',
+            filterKey: 'ekys_2024_cogr',
+            badge: '5 Soru • 2024 Çıkmış'
+          },
+          {
+            id: 'ekys_2023_cogr',
+            name: '📜 2023 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 6-10 • 5 Soru).',
+            filterKey: 'ekys_2023_cogr',
+            badge: '5 Soru • 2023 Çıkmış'
+          },
+          {
+            id: 'ekys_2022_cogr',
+            name: '📜 2022 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 6-12 • 7 Soru).',
+            filterKey: 'ekys_2022_cogr',
+            badge: '7 Soru • 2022 Çıkmış'
+          },
+          {
+            id: 'ekys_2021_cogr',
+            name: '📜 2021 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Coğrafya soruları ve harita çözümleri (Soru 6-10 • 5 Soru).',
+            filterKey: 'ekys_2021_cogr',
+            badge: '5 Soru • 2021 Çıkmış'
+          },
+          {
+            id: 'ekys_2020_cogr',
+            name: '📜 2020 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2020 MEB EKYS sınavında çıkmış Coğrafya soruları ve harita çözümleri (Soru 6-10 • 5 Soru).',
+            filterKey: 'ekys_2020_cogr',
+            badge: '5 Soru • 2020 Çıkmış'
+          },
+          {
+            id: 'ekys_2019_cogr',
+            name: '📜 2019 EKYS Coğrafya Çıkmış Soruları',
+            icon: '📜',
+            desc: '2019 MEB EKYS sınavında çıkmış Coğrafya soruları, harita ve grafik çözümleri (Soru 6-10 • 5 Soru).',
+            filterKey: 'ekys_2019_cogr',
+            badge: '5 Soru • 2019 Çıkmış'
           }
         ]
       },
