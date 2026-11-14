@@ -3567,11 +3567,12 @@ class EKYSApp {
           if (q.testId === 'cogr_test_cikmis_secki') return false;
           return qNum === 15 || qNum === 16;
         }
-        if (sub === 'inkilap') return (qNum >= 17 && qNum <= 28) || tName.includes('inkılap');
-        if (sub === 'degerler') return (qNum >= 29 && qNum <= 32) || tName.includes('değerler') || tName.includes('etik');
-        if (sub === 'egitim') return (qNum >= 33 && qNum <= 40) || tName.includes('eğitim bilimleri');
-        if (sub === 'yonetim') return (qNum >= 41 && qNum <= 64) || tName.includes('yönetim') || tName.includes('denetim');
-        if (sub === 'egitim_all' || sub === 'egitim_tam' || sub === 'egitim_yonetim') return (qNum >= 29 && qNum <= 64);
+        const isOfficialYr = (q.testId && q.testId.startsWith('ekys')) || (q.id && q.id.startsWith('ekys'));
+        if (sub === 'inkilap') return isOfficialYr && qNum >= 17 && qNum <= 28;
+        if (sub === 'degerler') return isOfficialYr && qNum >= 29 && qNum <= 32;
+        if (sub === 'egitim') return isOfficialYr && qNum >= 33 && qNum <= 40;
+        if (sub === 'yonetim') return isOfficialYr && qNum >= 41 && qNum <= 64;
+        if (sub === 'egitim_all' || sub === 'egitim_tam' || sub === 'egitim_yonetim') return isOfficialYr && qNum >= 29 && qNum <= 64;
         if (sub === 'mevzuat_anayasa') return qNum === 65 || qNum === 66 || tId.includes('anayasa') || qText.includes('anayasa') || qText.includes('1982');
         if (sub === 'mevzuat_657') return qNum === 67 || qNum === 68 || qNum === 80 || tId.includes('657') || qText.includes('657');
         if (sub === 'mevzuat_1739') return qNum === 69 || qNum === 70 || tId.includes('1739') || qText.includes('1739');
@@ -3648,36 +3649,43 @@ class EKYSApp {
         return (isCikmis && qNum >= 6 && qNum <= 16) || tId.includes('cogr') || tId.includes('yurttaslik') || tId.includes('guncel');
       }
 
+      const isOfficialEgitim = (q.testId && q.testId.startsWith('ekys')) || (q.id && q.id.startsWith('ekys'));
+      const isNonEgitimTest = tId.includes('cogr') || tId.includes('tarih') || tId.includes('anayasa') || tId.includes('mevzuat');
+
       if (filterKey === 'degerler' || filterKey === 'degerler_egitimi') {
-        if (isCikmis && qNum >= 29 && qNum <= 32) return true;
-        if (tId.includes('degerler') || qText.includes('değer') || qText.includes('etik') || qText.includes('kohlberg')) return true;
+        if (isNonEgitimTest) return false;
+        if (isOfficialEgitim && qNum >= 29 && qNum <= 32) return true;
+        if (tId.includes('degerler')) return true;
         return false;
       }
 
       const is2026 = tName.includes('2026') || tId.includes('2026') || (q.id && q.id.includes('2026'));
 
       if (filterKey === 'egitim_bilimleri' || filterKey === 'egitim') {
-        if (isCikmis && qNum >= 33 && qNum <= 40) return true;
-        if (tId.includes('egitim_bilimleri') || qText.includes('öğretim') || qText.includes('rehberlik') || qText.includes('ölçme') || qText.includes('yapılandırmacı')) return true;
+        if (isNonEgitimTest) return false;
+        if (isOfficialEgitim && qNum >= 33 && qNum <= 40) return true;
+        if (tId.includes('egitim_bilimleri') || (q.testId && q.testId.startsWith('egitim'))) return true;
         return false;
       }
 
       if (filterKey === 'egitim_yonetimi' || filterKey === 'yonetim') {
-        if (isCikmis && !is2026 && qNum >= 41 && qNum <= 64) return true;
-        if (tId.includes('egitim_yonetimi') || tId.includes('yonetim') || qText.includes('yönetim') || qText.includes('liderlik') || qText.includes('denetim') || qText.includes('örgüt') || qText.includes('okul yönetimi')) return true;
+        if (isNonEgitimTest) return false;
+        if (isOfficialEgitim && !is2026 && qNum >= 41 && qNum <= 64) return true;
+        if (tId.includes('egitim_yonetimi') || tId.includes('yonetim')) return true;
         return false;
       }
 
       if (filterKey === 'maarif' || filterKey === 'maarif_2026') {
-        return is2026 && qNum >= 41 && qNum <= 64;
+        return isOfficialEgitim && is2026 && qNum >= 41 && qNum <= 64;
       }
 
       if (filterKey === 'egitim_cikmis') {
-        return isCikmis && ((qNum >= 29 && qNum <= 40) || (!is2026 && qNum >= 41 && qNum <= 64));
+        return isOfficialEgitim && ((qNum >= 29 && qNum <= 40) || (!is2026 && qNum >= 41 && qNum <= 64));
       }
 
       if (filterKey === 'egitim_tum') {
-        return (isCikmis && ((qNum >= 29 && qNum <= 40) || (!is2026 && qNum >= 41 && qNum <= 64))) || tId.includes('egitim') || tId.includes('yonetim') || tId.includes('degerler');
+        if (isNonEgitimTest) return false;
+        return (isOfficialEgitim && ((qNum >= 29 && qNum <= 40) || (!is2026 && qNum >= 41 && qNum <= 64))) || tId.includes('egitim') || tId.includes('yonetim') || tId.includes('degerler');
       }
 
       // 5. Kanun Bazlı Karma Filtreler
