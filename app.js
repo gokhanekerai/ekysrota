@@ -2044,14 +2044,6 @@ class EKYSApp {
             badge: '🔥 YENİ • 16 Soru'
           },
           {
-            id: 'ekys_2026_yonetim',
-            name: '2026 EKYS Eğitim Yönetimi Çıkmış Soruları',
-            icon: '📜',
-            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Eğitim Yönetimi soruları.',
-            filterKey: 'ekys_2026_yonetim',
-            badge: '2026 Çıkmış'
-          },
-          {
             id: 'ekys_2025_yonetim',
             name: '2025 EKYS Eğitim Yönetimi Çıkmış Soruları',
             icon: '📜',
@@ -3149,11 +3141,11 @@ class EKYSApp {
           },
           {
             id: 'ekys_2026_egitim_card',
-            name: '📜 2026 EKYS Çıkmış Eğitim Yönetimi & Bilimleri',
+            name: '📜 2026 EKYS Çıkmış Değerler & Eğitim Bilimleri',
             icon: '📜',
-            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Değerler, Eğitim Bilimleri ve Maarif Modeli soruları (36 Soru).',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Değerler Eğitimi (29-32) ve Eğitim Bilimleri (33-40) soruları (12 Soru • TYMM hariç).',
             filterKey: 'ekys_2026_egitim_all',
-            badge: '36 Soru • 2026 Çıkmış'
+            badge: '12 Soru • 2026 Çıkmış'
           },
           {
             id: 'ekys_2025_egitim_card',
@@ -3572,7 +3564,10 @@ class EKYSApp {
         if (sub === 'degerler') return isOfficialYr && qNum >= 29 && qNum <= 32;
         if (sub === 'egitim') return isOfficialYr && qNum >= 33 && qNum <= 40;
         if (sub === 'yonetim') return isOfficialYr && qNum >= 41 && qNum <= 64;
-        if (sub === 'egitim_all' || sub === 'egitim_tam' || sub === 'egitim_yonetim') return isOfficialYr && qNum >= 29 && qNum <= 64;
+        if (sub === 'egitim_all' || sub === 'egitim_tam' || sub === 'egitim_yonetim') {
+          if (year === '2026') return isOfficialYr && qNum >= 29 && qNum <= 40;
+          return isOfficialYr && qNum >= 29 && qNum <= 64;
+        }
         if (sub === 'mevzuat_anayasa') return qNum === 65 || qNum === 66 || tId.includes('anayasa') || qText.includes('anayasa') || qText.includes('1982');
         if (sub === 'mevzuat_657') return qNum === 67 || qNum === 68 || qNum === 80 || tId.includes('657') || qText.includes('657');
         if (sub === 'mevzuat_1739') return qNum === 69 || qNum === 70 || tId.includes('1739') || qText.includes('1739');
