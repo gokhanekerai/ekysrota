@@ -674,17 +674,17 @@ class EKYSApp {
           {            id: 'ekys_2026_tarih_card',
             name: '📜 2026 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
-            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            desc: '2026 Mart MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (17 Soru).',
             filterKey: 'ekys_2026_tarih_all',
-            badge: '18 Soru • 2026 Çıkmış'
+            badge: '17 Soru • 2026 Çıkmış'
           },
           {
             id: 'ekys_2025_tarih_card',
             name: '📜 2025 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
-            desc: '2025 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            desc: '2025 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (17 Soru).',
             filterKey: 'ekys_2025_tarih_all',
-            badge: '18 Soru • 2025 Çıkmış'
+            badge: '17 Soru • 2025 Çıkmış'
           },
           {
             id: 'ekys_2024_tarih_card',
@@ -698,41 +698,41 @@ class EKYSApp {
             id: 'ekys_2023_tarih_card',
             name: '📜 2023 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
-            desc: '2023 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            desc: '2023 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (17 Soru).',
             filterKey: 'ekys_2023_tarih_all',
-            badge: '18 Soru • 2023 Çıkmış'
+            badge: '17 Soru • 2023 Çıkmış'
           },
           {
             id: 'ekys_2022_tarih_card',
             name: '📜 2022 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
-            desc: '2022 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            desc: '2022 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (17 Soru).',
             filterKey: 'ekys_2022_tarih_all',
-            badge: '18 Soru • 2022 Çıkmış'
+            badge: '17 Soru • 2022 Çıkmış'
           },
           {
             id: 'ekys_2021_tarih_card',
             name: '📜 2021 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
-            desc: '2021 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            desc: '2021 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (17 Soru).',
             filterKey: 'ekys_2021_tarih_all',
-            badge: '18 Soru • 2021 Çıkmış'
+            badge: '17 Soru • 2021 Çıkmış'
           },
           {
             id: 'ekys_2020_tarih_card',
             name: '📜 2020 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
-            desc: '2020 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            desc: '2020 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (17 Soru).',
             filterKey: 'ekys_2020_tarih_all',
-            badge: '18 Soru • 2020 Çıkmış'
+            badge: '17 Soru • 2020 Çıkmış'
           },
           {
             id: 'ekys_2019_tarih_card',
             name: '📜 2019 EKYS Çıkmış Tarih & İnkılap Tarihi',
             icon: '📜',
-            desc: '2019 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (18 Soru).',
+            desc: '2019 MEB EKYS sınavında çıkmış resmî Genel Tarih ve İnkılap Tarihi soruları (17 Soru).',
             filterKey: 'ekys_2019_tarih_all',
-            badge: '18 Soru • 2019 Çıkmış'
+            badge: '17 Soru • 2019 Çıkmış'
           }
         ]
       },
@@ -3300,10 +3300,9 @@ class EKYSApp {
     if (filterKey === 'inkilap_deneme_12') {
       const ink = allQuestions.filter(q => {
         const qNum = q.questionNumber || 0;
-        const tName = (q.topicName || q.testTitle || '').toLowerCase();
         const tId = (q.topicId || q.testId || '').toLowerCase();
-        const isCik = tName.includes('ekys') || tName.includes('çıkmış') || tId.includes('ekys');
-        return (isCik && qNum >= 17 && qNum <= 28) || tId.includes('inkilap');
+        const isOfficial = (q.testId && q.testId.startsWith('ekys')) || (q.id && q.id.startsWith('ekys'));
+        return (isOfficial && qNum >= 17 && qNum <= 28) || tId.includes('inkilap');
       });
       return this.shuffleArray(ink).slice(0, 12);
     }
@@ -3546,8 +3545,11 @@ class EKYSApp {
       }
 
       if (filterKey === 'tarih') {
+        if (tId.includes('cogr') || tName.includes('coğrafya')) return false;
         if (tId.includes('tarih') && !tId.includes('inkilap')) return true;
-        if (isCikmis && qNum >= 1 && qNum <= 6) return true;
+        const isOfficialTarih = (q.testId && q.testId.startsWith('ekys')) || (q.id && q.id.startsWith('ekys'));
+        const is2024Tarih = tName.includes('2024') || (q.testId && q.testId.includes('2024'));
+        if (isOfficialTarih && (is2024Tarih ? (qNum >= 1 && qNum <= 6) : (qNum >= 1 && qNum <= 5))) return true;
         if (qText.includes('osmanlı') || qText.includes('selçuklu') || qText.includes('göktürk') || qText.includes('türk-islam')) return true;
         return false;
       }
@@ -3565,17 +3567,26 @@ class EKYSApp {
       }
 
       if (filterKey === 'inkilap') {
-        if (isCikmis && qNum >= 17 && qNum <= 28) return true;
+        if (tId.includes('cogr') || tName.includes('coğrafya')) return false;
+        const isOfficialInkilap = (q.testId && q.testId.startsWith('ekys')) || (q.id && q.id.startsWith('ekys'));
+        if (isOfficialInkilap && qNum >= 17 && qNum <= 28) return true;
         if (tId.includes('inkilap') || qText.includes('atatürk') || qText.includes('nutuk') || qText.includes('lozan') || qText.includes('amasya') || qText.includes('erzurum') || qText.includes('sivas') || qText.includes('cumhuriyetçilik') || qText.includes('laiklik')) return true;
         return false;
       }
 
       if (filterKey === 'inkilap_cikmis' || filterKey === 'tarih_cikmis') {
-        return isCikmis && ((qNum >= 1 && qNum <= 6) || (qNum >= 17 && qNum <= 28));
+        const isOfficialTarih = (q.testId && q.testId.startsWith('ekys')) || (q.id && q.id.startsWith('ekys'));
+        if (!isOfficialTarih) return false;
+        const is2024Tarih = tName.includes('2024') || (q.testId && q.testId.includes('2024'));
+        return (is2024Tarih ? (qNum >= 1 && qNum <= 6) : (qNum >= 1 && qNum <= 5)) || (qNum >= 17 && qNum <= 28);
       }
 
       if (filterKey === 'tarih_tum') {
-        return (isCikmis && qNum >= 1 && qNum <= 28) || tId.includes('tarih') || tId.includes('inkilap');
+        if (tId.includes('cogr') || tName.includes('coğrafya')) return false;
+        const isOfficialTarih = (q.testId && q.testId.startsWith('ekys')) || (q.id && q.id.startsWith('ekys'));
+        const is2024Tarih = tName.includes('2024') || (q.testId && q.testId.includes('2024'));
+        const isOfficialQ = isOfficialTarih && ((is2024Tarih ? (qNum >= 1 && qNum <= 6) : (qNum >= 1 && qNum <= 5)) || (qNum >= 17 && qNum <= 28));
+        return isOfficialQ || tId.includes('tarih') || tId.includes('inkilap');
       }
 
       if (filterKey === 'genel_kultur_tum') {
